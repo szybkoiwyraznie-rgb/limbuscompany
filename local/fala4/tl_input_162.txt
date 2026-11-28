@@ -1,0 +1,96 @@
+15752||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <붉은 심장을… 도로테아에게 가져가자.>|<Let's take the red heart... and return to Dorothea.>
+15753||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뫼르소가 심장을 챙길 때까지, 행복한 옷장은 아무 말 없이 제 품을 활짝 열고만 있을 뿐이었다.|The Happy Closet remained unfurled as Meursault carved the heart out of their chest.
+15754||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …정말.|... They've...
+15755||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 옷장은 정말로 행복했을까?|Was the Happy Closet really happy?
+15756||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …아, 손님 여러분…|... Oh hello, dear customers...
+15757||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 온 몸이 너덜너덜해지셨네요.|You're not looking so good.
+15758||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 겨우… 숨만 건졌지.|Barely... escaped with my life.
+15759||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그래도… 이들이 가졌던 것 전부… 내 것이 되었어.|But thanks to that... everything they had... is now mine.
+15760||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그래, 자네들은… 제일 귀한 심장을 가져갔군… 안목이 없는 척 하더니…|I see that you've... taken the heart, the most precious part... So you were all just... pretending to be uncultured, huh...?
+15761||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그래도… 자네들에게 도움을 받지 않은 건 아니니, 정가로 판매해 주겠네. 둘러보게…|Still... since you were of <i>some</i> help to me... I'll make an exception and.. sell them to you without the markup...
+15762||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 물론 심장을 가진 것이 괘씸해… 할인은 없지만…|Don't expect any discounts, of course... How dare you take the heart for yourself...?
+15763||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나를 살 마음이 있는가? 저렴하게 팔겠네.|Have you mind to purchase me? I'm available for a very affordable price.
+15764||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 기다리고 있겠네.|I'll be waiting.
+15765||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어서 행복한 옷장에게 가보게.|Why don't you get a move on and find the Happy Closet?
+15766||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 포레그는 동경했던 모습으로 다시 태어났을까? 다시 태어날 포레그는… 원레그를 여전히 동경할까?|Will Four-legs be reborn in the form it admired? Will Four-legs... once reborn... still revere One-leg?
+15767||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 누구에게 물어도 이 질문의 답은 들을 수 없을 것 같다.|No matter whom we were to ask, no one will answer this question.
+15768||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 불이 켜진 쪽에서 말을 걸었다. 램프가 조용히 흔들린다.|Of the two lamps, the lit one whispers something. Its lampshade silently swings like a pendulum.
+15769||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 깜빡.|Blink.
+15770||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 깜…빡.|Bliiiiink.
+15771||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 조명이 고맙다는 듯 반짝인 것 같다.|The lamp seems to blink gratefully.
+15772||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡깜빡|BlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlinkBlink
+15773||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …아니었나 보다.|... Not grateful, got it.
+15774||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 교수형 당한 죄수의 발을 바라보는 느낌이 든다.|It's like I'm looking up at the dangling legs of a hanged prisoner.
+15775||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이는 별로 마음에 들지 않는 것 같다.|Pwie doesn't seem to like these.
+15776||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이가 소파에 손을 얹었다.|Pwie rested their hand on a couch.
+15777||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…! 뫼르소, 뿌이를 잡아!>|<...! Meursault! Grab Pwie!>
+15778||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 왜… 왜 그러는거야…?|Wh-what...?
+15779||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나… 잘못했어?|Did I do something... wrong?
+15780||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 잘못한 것은 없다. 다만… 아무 물건이나 함부로 만지면, 문제가 될 수 있기에.|You did not. But... laying your hands on random objects in here could cause... problems.
+15781||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 음! 주인이 화를 낼 수도 있다네!|Verily! For doing so may anger its owner!
+15782||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 주인이 있는 거야…? 몰랐어. 안 팔렸으니까, 주인도 없다고 생각했어.|It has an owner...? I didn't know. Nobody bought it, so... I thought it didn't have one.
+15783||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그건… 그렇겠지만은…|‘Tis… true. Yet…
+15784||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이의 질문 세례를 받았다.|Pwie barraged us with questions.
+15785||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이 군, 이쪽의 신발들이 더 마음에 드는겐가?|Ah, young Pwie! Dost thy preference lean toward shoes on this side?
+15786||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저기 신발보다는 좋아.|I like 'em more than the ones on the other side.
+15787||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하지만 마음에 들지는 않아…|But I don't <i>like</i> like these...
+15788||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 마음 충~분히 이해한다네. 자신에게 꼭 맞는 단짝을 찾는 것은 어려운 일이니!|'Tis fair to harbor such doubt, young Pwie! The journey for the perfect pair of shoes is most arduous indeed!
+15789||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자! 이건 어떤가? 날렵한 신발코에 탄탄한 밑창, 거기다 밴드로 되어있어 풀린 끈을 밟고 넘어질 일도 없다네!|Aha! Dost thou enjoy this pair of shoes, perchance? Behold the sharp angle of the toe cap, and the pullable band hither to prevent most unfortunate accidents when its strings are undone!
+15790||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …잘 모르겠어.|... I dunno.
+15791||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그렇다면 이건 어떤가?! 자, 여길 보면…|Very well! Then allow me to introduce these—
+15792||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 돈키호테가 이것저것 보여줬지만 뿌이에 마음에 드는 것은 없는 것 같다…|Don Quixote continued to showcase various shoes for Pwie, but none of those seemed to interest them much.
+15793||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 검정 소파에 손을 얹자, 어둠 속 가구들의 인기척이 점점 가까워진다.|Mere seconds after I laid my hands on the black couch, the distinct shuffling of Furnishings begin creeping up toward us from the shadows.
+15794||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 사방에서 가구가 삐걱이며 몰려오는 소리가 들려온다.|Furnishings of all kinds creak to life from all around us... and begin to creep in our direction.
+15795||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 신발이 신겨진 다리들이 천장에 가득 매달려있다. 어딘가 섬뜩한 인상이 스쳐 지나간다.|There are a dozen or so legs hanging from the ceiling, all wearing footwear of sorts. A chilling, alien sensation cuts through me.
+15796||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 다양한 종류의 신발들이 진열되어 있다.|A display of various shoes.
+15797||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 빈 전시대다. [SOLD OUT]이라고 붙어 있다.|This display is empty. The label underneath it says [SOLD OUT].
+15798||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 진열대에 빈자리가 눈에 띈다.|Empty spots in the display stand out to me.
+15799||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 황금색 포인트가 들어간 검정 신발들이다.|Black shoes with golden highlights.
+15800||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 화려한 색상의 신발들이 가득 진열되어 있다.|A display of various, colorful shoes.
+15801||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 신발들이 천장에 걸려있다.|Shoes hang from the ceiling.
+15802||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 바닥에서 천장을 바라보는 것 같다.|It's like looking up at the ceiling from the floor.
+15803||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 화려한 신발들이다.|Elaborate shoes.
+15804||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 황금가죽이 도드라져 보이는 신발은 아니다. 가격표를 보니 저렴한 편이다.|If this pair of shoes contains the Golden Hide, it's not obvious. The price is on the lower side.
+15805||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무언가를 골똘히 고민하고 있는 것 같다. 불러도 대답하지 않는다.|He seems to be absorbed in deep thought. I call out to him, but fail to get a response.
+15806||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [르누아르 아티잔 컬렉션 - 작은 빈틈도 허락하지 않는, 향기조차 가둬버리는. 르누아르의 컬렉션 - 예약 중]|[Le Noir Artisan Collection - An airtight noir collection that does permit even fragrance to escape - Currently taking reservations]
+15807||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [르루주 말레티에 컬렉션 - 런웨이를 준비하는 당신을 위한 가죽 트렁크 컬렉션 - 재고소진 / 추가입고 없음]|[Le Rouge Malletier's Collection - Leather trunk collection for those preparing for the runway. - Out of stock / no plans for restocking]
+15808||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 유리창 한 쪽이 깨져있다. 누군가 안에 있는 가방 하나를 훔쳐간 것 같다.|One corner of the glass display is broken. Someone reached in through there and swiped one of the handbags on display.
+15809||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 불그스름한 살점과 희멀건 지방층이 회백색 반죽에 섞여 벽에 채워져있다.|Reddish chunks of flesh and pale, white layer of fat incorporated into ash-gray mixture plastered into the walls.
+15810||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 반죽 사이, 르누아르와 눈이 마주쳤다.|Met the eye of one of the Noirs who have been incorporated into the wall.
+15811||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무언가를 말하려던 찰나,|Just as they were about to say something...
+15812||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 흘러내린 반죽이 얼굴을 덮어버렸다.|... the mixture dripped over their face, burying them.
+15813||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 불그스름한 살점과 희멀건 지방 덩어리가 회백색 반죽과 섞여 벽에 채워져있다.|Reddish chunks of flesh and pale, white layer of fat incorporated into ash-gray mixture plastered into the walls.
+15814||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 고기 조각을 얇게 펴바르느라 여념이 없다.|Busy at work trying to make the layers of meat as thin as possible.
+15815||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 언제까지 기다려야 해? 빈둥거릴 시간에 빨리 가져오란 말이야!|How long do you expect me to wait? Quit lollygagging and bring them to me, now!
+15816||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아직 오픈하지 않았어. 재촉하지말고 기다리도록 해.|Not open yet. Quit rushing me and wait.
+15817||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …돈키호테는 신을 수 없겠지만 하나 사주는 것도 나쁘지 않을지도.|... Don Quixote won't be able to wear these shoes, but it'd make for a nice gift for her.
+15818||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이건 뭐야?|What's this?
+15819||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …조금 써.|... Bit bitter.
+15820||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어디 본인도… 혀만 대보겠네…|Hm... Then allow me but the lightest dab of the tongue...
+15821||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …오 향이 꽤나 향기롭군!|... Oho! 'Tis quite fragrant!
+15822||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 부웨엑…|*gag*
+15823||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …돈키호테는 한참을 헛구역질을 해댔다.|... Don Quixote continued to gag and retch for a while.
+15824||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아~ 이건 화분이에요. 식물의 집이랍니다.|Ah~ This is a pot! A home for plants.
+15825||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 먹을 수 있어?|Can I eat it?
+15826||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 화분을 말씀하시는 거라면… 보통은 먹을 수 없겠네요.|If you're talking about the pot, then... no, they're generally inedible.
+15827||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 식물을 말하는 거라면 보통은 먹을 수 있다네!|If thou speakest of the plant, then indeed! They are generally edible!
+15828||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 맛있어?|Do they taste good?
+15829||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으음… 어떤 식물이냐에 따라 다를 것 같아요.|Hmm... That would depend on the plant.
+15830||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 말을 들은 뿌이는 식물의 잎사귀를 뜯더니|Hearing that, Pwie plucked a leaf off the plant...
+15831||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 한 입에 넣었다…|... and swallowed it.
+15832||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 마… 맛이 어떤가, 뿌이 군?|H-how does it taste, young Pwie?
+15833||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 햇살이 비추는 곳에 무언가 떨어져있다.|There's something basking in the sun.
+15834||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 떨어져있는 빛구두를 뫼르소가 챙겼다.|Meursault picked up the Luminous Shoes.
+15835||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 햇살이 내리쬐는 벽 아래, 행복한 옷장이 가지고 있던 물건 몇 개가 떨어져 있다.|There's a patch of sunlight falling on the wall. Beneath it are a few items from the Happy Closet's inventory.
+15836||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 등잔 밑이 어둡다는 말이 정말이었네요.|It really is dark under the candlestick, huh?
+15837||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 관리자 나리, 이건 우리가 가져가면 안 되겠는가?|Shall we take these with us, Manager Esquire?
+15838||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <응. 그렇게 하자.>|<Sure, let's do that.>
+15839||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무언가를 규칙적으로 두드리는 소리와 함께 바닥을 빗자루질하는 소리들이 들려온다.|<i>Tap tap tap. Swish swish swish.</i> Rhythmic tapping followed by brooms sweeping the floor.
+15840||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 소리가 잦아들었다. 이제는 멀리서 들려오는 것처럼 느껴진다.|The sound has gotten quieter now, as though it's coming from afar.
+15841||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 생생해 보이는 화분이다.|A rather healthy-looking pot of plant.
+15842||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어딘가에서 불어온 바람에 잎이 살랑거린다.|The leaves are swaying softly in the wind. Where's the wind blowing from, anyway?
+15843||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이 층 어딘가에선 가방도 파는 걸까.|Is there a handbag shop somewhere on this floor?
+15844||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 오래 앉아있으면 허리가 아플 것 같은 벤치다.|This bench looks like it'd hurt the back to sit on for too long.
+15845||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 불쾌한 삐걱대는 소리가 멈췄다.|The ominous creaking came to a stop.
+15846||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 신경을 긁던 삐걱대는 소리가 멈췄다.|The strident creaking came to a stop.
+15847||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …푹 꺼져버렸다.|... Sank right into itself.

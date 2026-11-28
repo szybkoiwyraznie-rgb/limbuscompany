@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=AaCePbBg].desc": {
+      "pl": "Na początku tury zyskuje 2 Wzrosty Obrażeń i 3 Spadki Poziomu Obrony",
+      "kr_sha256": "04505eb1ae369bdfaad4a9c8cbbbb0245fb64ac2d979e132aa82a2b09c7c07d4",
+      "en_sha256": "56463ac31f133b52d03fcb9ecd2d21bff0433fde500e1b047e1c2f3ddc7a6e19",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBg].name": {
+      "pl": "Uraza",
+      "kr_sha256": "0e23f48c859b2ac21f0cb7ccff4c7df88fd6c0b5570d807f016274f12929f61a",
+      "en_sha256": "f41301f3b74a299a0c33f1fb11fd10d4d1ad92bcfcb81c9f62df05cf8d95b6aa",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBh].desc": {
+      "pl": "Na początku tury zyskuje 1 Wzrost Mocy Ataku i 5 Spadków Poziomu Obrony",
+      "kr_sha256": "f1ffa5fcb104eb024c23ec70bc1f78e7dd35ffdf634f2770558942b21ab6c1b1",
+      "en_sha256": "8234be3a537ab6bb35cca691fd4a3b8600cfd905a3b98d89426bfd769e072eee",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBh].name": {
+      "pl": "Uraza",
+      "kr_sha256": "0e23f48c859b2ac21f0cb7ccff4c7df88fd6c0b5570d807f016274f12929f61a",
+      "en_sha256": "f41301f3b74a299a0c33f1fb11fd10d4d1ad92bcfcb81c9f62df05cf8d95b6aa",
+      "origin": "ai"
+    },
+    "dataList[id=Grudge].desc": {
+      "pl": "Mając odpowiednie błogosławieństwo, zyskuje wartość równą otrzymanym obrażeniom. Znika na koniec tury",
+      "kr_sha256": "9e1413c67e2a42f0ab7db696428552513f3da5826139db4cd4876e18bd8ca8c8",
+      "en_sha256": "212be608a1b11acf46be82e101a07dae713894d91c253463aaab6c9ee0cd5e9d",
+      "origin": "ai"
+    },
+    "dataList[id=Grudge].name": {
+      "pl": "Narastający Żal",
+      "kr_sha256": "dceff05c70e04bddec64938b79a6b7010f9610b2655cc4a2d448dfbf83830862",
+      "en_sha256": "9ef409850958d37dcf2d2c209df3e498dd89c042f1a740cbd4a3dda006883666",
+      "origin": "ai"
+    }
+  }
+}

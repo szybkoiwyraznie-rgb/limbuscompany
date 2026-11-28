@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=tutorial_upperSkillInfo_System_popup_01].content": {
+      "pl": "W prawym górnym rogu ekranu walki znajduje się przycisk regulujący ilość wyświetlanych informacji.\n\nTrzy opcje ustawiają odpowiednio minimalną, średnią lub maksymalną ilość informacji.",
+      "kr_sha256": "e2f61c9ef2222d6056a610624f99fb996ba46d4c363340eb6259af2320ed459f",
+      "en_sha256": "f47fd1ebd3a9da0b8b421c3a6d15c80dec2a1c53f44fe90a4774243e12ba1394",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_upperSkillInfo_System_popup_02].content": {
+      "pl": "Konfiguracja maksymalnej ilości informacji.\n\nJest to ustawienie domyślne przy pierwszym uruchomieniu gry.\n\nPokazuje więcej szczegółów niż ustawienia średnie i minimalne.\n\nWyświetla także opisy słów kluczowych używanych w umiejętnościach.",
+      "kr_sha256": "0bef98bd56223ea7021c295e1c0131a159c04881dca3fdbf48e619bed21ab6c7",
+      "en_sha256": "f2a0d73bbdb553567e406df92bd037f95b9e8b50187c969527f4edd07863a47d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_upperSkillInfo_System_popup_03].content": {
+      "pl": "Konfiguracja średniej ilości informacji.\n\nW odróżnieniu od ustawienia maksymalnego ukrywa opisy słów kluczowych w umiejętnościach.\n\nPoza tym wyświetla te same informacje co ustawienie maksymalne.",
+      "kr_sha256": "517235d84e429883ef29e0b8f5b9164e1972c8d7a7772bb3be85a0cb2fca73c4",
+      "en_sha256": "4b986a1d342f858a6f4dd7763894d891aae84434a045cf9e34adbc73498197c8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_upperSkillInfo_System_popup_04].content": {
+      "pl": "Konfiguracja minimalnej ilości informacji.\n\nW odróżnieniu od ustawień MAX i MID nie wyświetla opisów efektów ani słów kluczowych umiejętności.",
+      "kr_sha256": "4458f842f81868f8347c7d044922f19c57478e548655f465dbc302b08014985c",
+      "en_sha256": "0a61aa182349d12b8dfa0565f124729d06b313cc4e2d1a1e7db2f0cecf3c039e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_upperSkillInfo_System_popup_title_01].content": {
+      "pl": "Gęstość informacji na ekranie walki",
+      "kr_sha256": "3d7b681ba7a1aaac9ffa46267ff5bfcd277c64341ea02a935284549ceb96321f",
+      "en_sha256": "78d22eef0d557beb89451036fe354c61779228e067396d92e40d1a2f1048b5fd",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_upperSkillInfo_System_popup_title_02].content": {
+      "pl": "MAX",
+      "kr_sha256": "2d9c014a222db12a18974be6f44524a0fd4a1ff0e964696e699f81ffba52ffce",
+      "en_sha256": "2d9c014a222db12a18974be6f44524a0fd4a1ff0e964696e699f81ffba52ffce",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_upperSkillInfo_System_popup_title_03].content": {
+      "pl": "MID",
+      "kr_sha256": "f78628ad511eefec3601a93744007bb6d56a71ddedf54f58768328920be069f2",
+      "en_sha256": "f78628ad511eefec3601a93744007bb6d56a71ddedf54f58768328920be069f2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_upperSkillInfo_System_popup_title_04].content": {
+      "pl": "MIN",
+      "kr_sha256": "d319c28c2d23e115501524432e4ae591254394e799bf3e95c53f526525175e4c",
+      "en_sha256": "d319c28c2d23e115501524432e4ae591254394e799bf3e95c53f526525175e4c",
+      "origin": "ai"
+    }
+  }
+}

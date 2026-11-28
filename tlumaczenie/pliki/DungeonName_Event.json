@@ -1,0 +1,70 @@
+{
+  "entries": {
+    "dataList[id=910301].name": {
+      "pl": "Rozdz. 3.5 — Loch Piekielnego Kurczaka",
+      "kr_sha256": "b6337c3bb52e125a01e1d2f3401d5d4c7be1399c01b76f909764f1ebd33112a8",
+      "en_sha256": "c7ff249f89f20d8c808ef9ab891fcb51821f9cc10f53ea4f78401648f969e200",
+      "origin": "ai"
+    },
+    "dataList[id=910302].name": {
+      "pl": "Rozdz. 3.5 — Loch Piekielnego Kurczaka (Trudny)",
+      "kr_sha256": "ccc19e9cae58bf67c98e0105cb7c8c108e30f13a1a9d333f07b22b8ce3ebe2f1",
+      "en_sha256": "d59332d2b0240321fa3e5f75cf15462bff23b50854cd238b8bf0452d8ac77c18",
+      "origin": "ai"
+    },
+    "dataList[id=910701].name": {
+      "pl": "Rozdz. 5.5 — Loch „Oddam Ciało, by Złamać Ich Kości”",
+      "kr_sha256": "59fda78b96d7d8f2d9ed62d481c25b607e28c354ec5dea100beb5d5060099a8e",
+      "en_sha256": "bd7f37fc9dc9379596f2b592098c9ace871bace763744ce64c569fcff61f01e4",
+      "origin": "ai"
+    },
+    "dataList[id=910901].name": {
+      "pl": "Rozdz. 6.5 — Loch Czasu Zabijania Czasu",
+      "kr_sha256": "fc7a9a34c834ba449fc99c65425110a23305c206306e8d42d5ba7f6d341c8605",
+      "en_sha256": "8ca609794ceb7e3fe53225c6e3a9bc2ffe9f75202d2cd73a133478bf674ffd88",
+      "origin": "ai"
+    },
+    "dataList[id=911401].name": {
+      "pl": "Rozdz. 7.5 — Loch Okresowych Badań LCB",
+      "kr_sha256": "cba4e9686e8e302869d68683072083131f390a91acac5efb3f231103a71bc626",
+      "en_sha256": "8936f8dd9f7623a3b6884c3b0b6deef2b8f40ae1924f173048ac446d79975428",
+      "origin": "ai"
+    },
+    "dataList[id=911501].name": {
+      "pl": "Rozdz. 5.5 — Loch „Oddam Ciało, by Złamać Ich Kości” (Trudny)",
+      "kr_sha256": "128129013efbb4229f0b53a8e0aa4b5a4436d0883a9ec29944fc2a138da1f892",
+      "en_sha256": "85719d54129651d7e5b8abd4ae991077e70836e6dd0cffceb78403bcc73c4b07",
+      "origin": "ai"
+    },
+    "dataList[id=911801].name": {
+      "pl": "Rozdz. 6.5 — Loch Czasu Zabijania Czasu (Trudny)",
+      "kr_sha256": "0a59a3a2e3e6b44eb5bcc3d63fb53dbad9e14460fae402ae4614c99a59c9c5be",
+      "en_sha256": "d619765fb00cf8597fbaae50a2967776db81197cbcbdc38f29edab41ec1465bb",
+      "origin": "ai"
+    },
+    "dataList[id=912014].name": {
+      "pl": "Loch Pielgrzymki Współczucia",
+      "kr_sha256": "08638676b04065b31f4309b256f76c7cd25414713c5874e220eeec3ff9aac90c",
+      "en_sha256": "c777473397f2ef3fdbef20a22fb2b9e0e1062c31e11888aab1ad7cbbbf77b47d",
+      "origin": "ai"
+    },
+    "dataList[id=912114].name": {
+      "pl": "Loch Pielgrzymki Współczucia (Trudny)",
+      "kr_sha256": "a4ed27822c2f94b56b37e62d92e0de0b6f8b31988379160f56de1f196fc1221c",
+      "en_sha256": "ab69fbed57418e042284fd82db713a80b0f96694ace037556613662623398fbd",
+      "origin": "ai"
+    },
+    "dataList[id=912401].name": {
+      "pl": "Rozdz. 7.5 — Loch Okresowych Badań LCB (Trudny)",
+      "kr_sha256": "81fad570ef853d37b55a0af91fd7ac06b079a2db1ad50590447064718dd82207",
+      "en_sha256": "5ac4f8e74515a8a56b5f003acf72d8436c9dfa6ecc3fe7f840fc01008270d294",
+      "origin": "ai"
+    },
+    "dataList[id=912711].name": {
+      "pl": "Rozdz. 9.5 — Loch Pamięci Doświadczenia",
+      "kr_sha256": "3a296cce3cd55058a127efbe3f6123b3c98da3a610ae9761c2dc0a6ff2de49e5",
+      "en_sha256": "a7208257b340d12a6972fbbe391ab8d4efc6f1c86586a92febea1e704909cf7a",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_ABRAXAS_CHARIOT].content": {
+      "pl": "Rydwan Abraxasa",
+      "kr_sha256": "194f2e17abe69cfda076b17bae7325d5a043ba82f643539578aa94b5725b977f",
+      "en_sha256": "160541228e6d0c7926559ea5e6cea1bf984f97c9e2291681b9decb8b755fa577",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BIG_BROTHER_PAST].content": {
+      "pl": "<color=#d40000><s>Wielki Brat</s></color>",
+      "kr_sha256": "b271365dc70d447fb3f7cf0c31e11354f18bee2d4ed4f78c4c81a2a485bd3228",
+      "en_sha256": "aa1323918dca9909d60d3700753197c68852b9abecce69d70f35796cf111d65a",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_EMPEROR_OF_PESTS].content": {
+      "pl": "Cesarz Szkodników",
+      "kr_sha256": "a9f418653d36be209910d7a0d62e1e962cf06d489f3fcd1498cf68a00e82c2b2",
+      "en_sha256": "b486ed917749b5726d504406b7c64ea324ddbfe1c793084f7d80caff427b04e6",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_G_CORP_FORMER].content": {
+      "pl": "Stara Korp. G",
+      "kr_sha256": "515b94d450476c4a0488fa6e5b8647af34821a7c65ee8cef95518746af8cc905",
+      "en_sha256": "a76ef99e2d000c0da834754d6adbf3d708b8defa1b0da0dedb01c99bb640ffe7",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_HEAVENLY_KILLING_STAR].content": {
+      "pl": "Gwiazda Tiansha",
+      "kr_sha256": "acb79368d87755b1ead527ca271cbe316cabfffec8a67bb979e16e46b6fbd671",
+      "en_sha256": "837b87eb984fabcb4ccf21996379b39c689e521d0707277d49d3e9d9fb546bcc",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_HIDDEN_KEYWORD].content": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_HIDDEN_KEYWORD_2ND].content": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_KING_OF_ALL_COCKROACHES].content": {
+      "pl": "Władca Wszystkich Karaluchów",
+      "kr_sha256": "593a32d760c243f4e8423f9c6caa942d423d9d3911bdc513524eaabb497fb6d3",
+      "en_sha256": "3d56443c1ad1ea74b5d9155dc23a015535f788d549579cba59103172ff8ad3dd",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_MAESTRO_FORMER].content": {
+      "pl": "<color=#d40000><s>Maestro<s></color>",
+      "kr_sha256": "54d9b154ef8260bb768a944c958890e46f49d9b9c0c0a3bceebeddfafdf7b77a",
+      "en_sha256": "c3c6271c03632e51d0968101940f53f6109bcd51d05dd4186928a95bfd824516",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_ROYAL].content": {
+      "pl": "Ród Królewski",
+      "kr_sha256": "5884f0252dc82d19e85a11c666c1418a898610484b50e42f736d5fed6fe224de",
+      "en_sha256": "a843fa0bbda9464a562e189eb2c88c7b0ccba2d733890a2d0a195f97cf15fa12",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SEVENFAMILIES_CANCELED].content": {
+      "pl": "<color=#d40000><s>Siedem Rodzin<s></color>",
+      "kr_sha256": "71749de4c088afa22b62242fcee6376ebbce7babf6877260efe955d5a3d5aa1e",
+      "en_sha256": "ce84cf78462691e1f782738c3bc2c8c4dc2a7808e41798cdf79e31e5768965d2",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SIGN_FUTURE].content": {
+      "pl": "Znak [Przyszłość]",
+      "kr_sha256": "fb138b3900e24a7b863480e6225f91ed95f1ecaeb1ffd4415caf039a880b6514",
+      "en_sha256": "1a29d6b83b0ff6bd8f7154b2b0c2ebd497e8ae47fafa3ceb05b358a40cf39543",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SMOKE_WAR].content": {
+      "pl": "Wojna Dymna",
+      "kr_sha256": "4d3711e0243d394a7368d5c1bcad3d7d166193ca226576966941f1c414bb0a14",
+      "en_sha256": "1d2427ddcc91c5b04d373ed49b4d3a59bcf1e298076262cdcf8f529ba77f476c",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SMOKE_WAR_2ND].content": {
+      "pl": "Druga Wojna Dymna",
+      "kr_sha256": "f0a085c35208d28f81324fb64f912704e4de8f60360e5542aa2139c0a597e492",
+      "en_sha256": "a032d04645b2c6bddde32b41242a6217fb760a05a46304e0673c339e6083cb35",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_UNDERBOSS_FIRED].content": {
+      "pl": "<color=#d40000><s>Sottocapo</s></color>",
+      "kr_sha256": "fed296a83ba6c772984f72903ba51410488dcac338a4cc6acfff2d598fc1b389",
+      "en_sha256": "3e369ec9885d7c405b11032d2f3b8bddc8f19bab698dcac8adc95c7be0d35f83",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_WAR_HERO].content": {
+      "pl": "Bohater Wojenny",
+      "kr_sha256": "4f42f691cfd4c8ef1003b4eb6689f6b517e08fc90a24573d9b3fe34820ac04cd",
+      "en_sha256": "6ba41fe765294db8990dbb1dd31221ee54700d17b4e1ca526d5454bdef14c635",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_WINGS_ULTIMATEWEAPON].content": {
+      "pl": "Broń Ostateczna Skrzydła",
+      "kr_sha256": "4d9350df305583b58d85d31d4caf3d49f8d1b30108c96b6c93381077dab4064d",
+      "en_sha256": "5db4c9a14ba72ea09244d8cd33932787cada6469bf6309c7fa8b8f39ee049821",
+      "origin": "ai"
+    }
+  }
+}

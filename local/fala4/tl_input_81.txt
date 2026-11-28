@@ -1,0 +1,96 @@
+7864||PersonVoice#Voice_Faust_SwordGroup_10208.json] 오늘은 검무를 펼치기 좋은 밤입니다. 달을 머금은 칼날 끝에서 피어나는 꽃무리가 절경이죠. 꽃놀이는 어떠신지.|This is a good night to engage in a dance of blades. Particularly exquisite are the flowers blossoming from the tip of a moon-dipped blade. Why not go and appreciate the petals?
+7865||PersonVoice#Voice_Faust_SwordGroup_10208.json] 출정전야는 반드시 고요한 법이죠. 마침… 달도 가득 차올랐군요.|A night before a battle is always so silent. Ah, and the moon has waxed full tonight, too.
+7866||PersonVoice#Voice_Faust_SwordGroup_10208.json] 좋은 아침입니다. 소박한 식사와 따스한 차 한 잔을 즐기기 좋은 시간이군요. 서두를 필요는 없겠지요.|Good morning. This is an opportune time for a modest meal and a warm cup of tea. There is no need for urgency.
+7867||PersonVoice#Voice_Faust_SwordGroup_10208.json] 달이 새하얗게 빛나고 있습니다. 밝게, 가리워지는 부분 없이. 지금이 적기겠군요.|The pale moon glimmers white. With no trace of shadows, bright. Now is the time most apt.
+7868||PersonVoice#Voice_Faust_SwordGroup_10208.json] 정오 훈련은 다음으로 미루려 합니다.\n오히려… 지금은 혹시 빠졌던 사실은 없었는지, 검술을 기록한 책자를 검토하는 것이 좋겠네요.|I plan to postpone my noon training until next time.\nI... believe that it is best that I review my book of techniques to ensure that I have not left anything behind.
+7869||PersonVoice#Voice_Faust_SwordGroup_10208.json] 종일 가만히 있으셔도 괜찮습니다. 달과 좀 더 이야기하죠.|You may remain still all day. I shall converse with the moon.
+7870||PersonVoice#Voice_Faust_SwordGroup_10208.json] 홍매화의 꽃잎을 던지고, 그 잎들을 조각내는 무예를 연습했던 적도 있었죠. 붉은 꽃잎이 사방으로 흩날리는 것은, 과히 아름다웠습니다.\n지금도 종종, 그 아름다운 광경을 보곤 합니다. 좀 더 액체에 가깝기는 하나.|I once trained my precision by casting the red plum petals under the starry sky... and rending them before they hit the floor. The sight of scattering red petals was... I daresay that it was quite beautiful.\nI witness that beauty still, from time to time. The only difference is that the petals are more liquid than solid.
+7871||PersonVoice#Voice_Faust_SwordGroup_10208.json] 검술에 집착하는 건 어느 누구든, 계에 몸을 담고 있는 일원이라면 같겠지만…\n몸으로 배우는 시기는 이미 지난 터라, 이렇게 머리로 하는 공부를 하고 있습니다.|Obsession with the blade is a shared passion among those who are a part of the Lineage.\nBut I believe that I am past the stage of learning via muscle memory. Now, I train with my mind.
+7872||PersonVoice#Voice_Faust_SwordGroup_10208.json] 검의 흐름을 보면, 간혹 그것이 무술이라기 보단 예술 같다는 생각이 들지 않나요.\n흐름이 끊기지 않게, 유려히 하늘 위를 도화지 삼아… 아, 이런. 잠시 상상에 취해버렸군요.|Witness the whirling arc of the blade. Does it not resemble art beyond the realms of martial techniques?\nLet the sky be the paper upon which my blade draws an arc that breaks not... Ah, I seem to have lost myself for a moment.
+7873||PersonVoice#Voice_Faust_SwordGroup_10208.json] 이 정도 뿐입니까, 흑운회. 야음을 틈타 우리의 터전 턱 끝까지 점거한 무뢰한들 치고는 성의 없이 흩어지는군요.|After going through so much trouble to advance before our gates under the cover of night... is this all you could muster, Kurokumo Clan? You scatter so helplessly.
+7874||PersonVoice#Voice_Faust_SwordGroup_10208.json] 저들은 스스로 흩날리는 꽃잎이 된 것도 자각하지 못할 것입니다. 같은 '검'이라는 도구를 쓰면서도 격의 차이가 이리도 현격하니.|They will not, to their last moments of consciousness, understand that they have become naught but red petals blowing in the wind. Though our tools are much alike, I remain a step above them still.
+7875||PersonVoice#Voice_Faust_WCorp6_10202.json] 열차를 싫어하는 이유에요.|This is why I dislike trains.
+7876||PersonVoice#Voice_Faust_WCorp6_10202.json] 칫!|Tch!
+7877||PersonVoice#Voice_Faust_WCorp6_10202.json] 다음엔 좀 더 신속하게 끝내보죠.|Let’s try and make it quicker next time.
+7878||PersonVoice#Voice_Faust_WCorp6_10202.json] 파우스트, 이번 작전도 완벽히 종료.|Faust, reporting in with another flawless success.
+7879||PersonVoice#Voice_Faust_WCorp6_10202.json] 몇몇 분들의 불필요한 움직임이 있었어요.|Some personnel made rather unnecessary movements.
+7880||PersonVoice#Voice_Faust_WCorp6_10202.json] 신속히 처리하죠.|It will be quick work.
+7881||PersonVoice#Voice_Faust_WCorp6_10202.json] 약점 파악 완료.|Weakness noted.
+7882||PersonVoice#Voice_Faust_WCorp6_10202.json] 처리했어요.|The job is done.
+7883||PersonVoice#Voice_Faust_WCorp6_10202.json] 지금은 조금 바쁩니다.|Things are rather busying at the moment.
+7884||PersonVoice#Voice_Faust_WCorp6_10202.json] 파우스트. 전투 시작합니다.|Faust, commencing battle.
+7885||PersonVoice#Voice_Faust_WCorp6_10202.json] 신속하게 하려 했기 때문일까요?|Perhaps we were too hasty?
+7886||PersonVoice#Voice_Faust_WCorp6_10202.json] 파우스트 임무 완료.|Faust, mission accomplished.
+7887||PersonVoice#Voice_Faust_WCorp6_10202.json] 네, 출발하죠.|Got it, let’s move.
+7888||PersonVoice#Voice_Faust_WCorp6_10202.json] 이곳도 점점 파악되어가기 시작했어요.|I’m starting to get a good grasp of this place.
+7889||PersonVoice#Voice_Faust_WCorp6_10202.json] 신속하게… 처리해드리도록 하죠.|Your problems… will be dealt with posthaste.
+7890||PersonVoice#Voice_Faust_WCorp6_10202.json] 파우스트는 열차 타는 걸 즐기지 않아요. 꼭 몸이 장소를 이동해야 하는 건 아니니까요.|Faust doesn’t particularly enjoy locomotive travel. On a trip, it doesn’t always have to be the body that moves from one place to another.
+7891||PersonVoice#Voice_Faust_WCorp6_10202.json] 소문을 흘려듣지 마세요, 단테. 소문의 모든 시작은 한 조각의 진실로부터 나오니까요.|Don’t let rumors slip under your notice, Dante. Every canard starts from a crumb of truth.
+7892||PersonVoice#Voice_Faust_WCorp6_10202.json] 사물의 본질을 꿰뚫는 것이 중요해요. 당신의 시계는 시계가 아니며, 워프 열차는 워프를 하지 않듯.|It’s important to see through to the essence of things. For instance, your clock isn’t really a clock, and WARP trains don’t exactly warp.
+7893||PersonVoice#Voice_Faust_WCorp6_10202.json] …종종 말없이 사라지기도 하는 모양이다. 녹음 종료.|…They apparently disappear without notice on occasion. End of log.
+7894||PersonVoice#Voice_Faust_WCorp6_10202.json] 사실 파우스트는 청소를 즐겨하지는 않았어요. 오히려 반대였죠.|To tell you the truth, Faust did not enjoy cleaning. It was the opposite, rather.
+7895||PersonVoice#Voice_Faust_WCorp6_10202.json] 결과만 우수하다면 과정은 아무런 상관이 없는 것일까요? 당신이 죽을듯한 고통과 등가교환 하여 그들을 되살리는 것처럼.|Do the ends really justify the means? Is the excruciating pain you bear really worth bringing them back?
+7896||PersonVoice#Voice_Faust_WCorp6_10202.json] 제게 비해서 당신은 스스로의 처지에 대해 질문이 없는 편이군요. 아니면 그저 받아들이기로 결심한 건가요?|You don’t seem to be as inquisitive of your situation as I am. Rather, have you decided to accept it, perhaps?
+7897||PersonVoice#Voice_Faust_WCorp6_10202.json] 언젠간 도시의 모든 비밀들을 모아 하나의 그림으로 만들어보고 싶어요. 그런 다음 찬찬히 감상하는 거죠.|One day, I plan to collect every secret of the City and paint them all on a canvas. It’ll be something to appreciate.
+7898||PersonVoice#Voice_Faust_WCorp6_10202.json] 파우스트는 도시 이곳저곳을 돌아다니는 걸 선호해요. 이곳만큼 적합한 곳은 없는 거죠.|Faust likes to travel from place to place. There is no better occupation than this in that regard.
+7899||PersonVoice#Voice_Faust_Yuri_10203.json] 당신이 있어 다행이에요.|It’s good to have had you, at least.
+7900||PersonVoice#Voice_Faust_Yuri_10203.json] 앗!|Ah!
+7901||PersonVoice#Voice_Faust_Yuri_10203.json] 이 정도의 전투는 쉬운 편이에요.|This is far from the hardest battle I’ve fought.
+7902||PersonVoice#Voice_Faust_Yuri_10203.json] 어디에서나 파우스트는 우수했어요.|Faust has always been competent.
+7903||PersonVoice#Voice_Faust_Yuri_10203.json] 다음 기회라는 것이 있다는게 행운이군요.|It’s fortunate that we have another chance.
+7904||PersonVoice#Voice_Faust_Yuri_10203.json] 지금은 두렵지 않아요.|There’s no fear right now.
+7905||PersonVoice#Voice_Faust_Yuri_10203.json] 다음을 부탁해요.|You’re up next.
+7906||PersonVoice#Voice_Faust_Yuri_10203.json] 두렵진 않네요.|That wasn’t scary.
+7907||PersonVoice#Voice_Faust_Yuri_10203.json] 어떤 실수를 했나요?|What was done wrong?
+7908||PersonVoice#Voice_Faust_Yuri_10203.json] 잘 되었으면 좋겠네요.|Hopefully this goes well.
+7909||PersonVoice#Voice_Faust_Yuri_10203.json] 이런 건 익숙할 뿐이죠.|I’m all too used to this.
+7910||PersonVoice#Voice_Faust_Yuri_10203.json] 준비되었다면, 쉽죠.|Preparation makes things easy.
+7911||PersonVoice#Voice_Faust_Yuri_10203.json] 전 준비되었어요.|I’m ready.
+7912||PersonVoice#Voice_Faust_Yuri_10203.json] 이번에도 노력은 해보죠.|I suppose I’ll put forth some effort one more time.
+7913||PersonVoice#Voice_Faust_Yuri_10203.json] 파우스트예요, 잘 부탁드려요.|This is Faust, a pleasure to meet you.
+7914||PersonVoice#Voice_Faust_Yuri_10203.json] 항상 주위를 심도 있게 관찰하는 버릇이 생겼어요. 지금 당신이 어디를 갈지도, 파악은 되어있어요.|I’d gained a habit of carefully observing my surroundings. I’ve got your current destination down, too.
+7915||PersonVoice#Voice_Faust_Yuri_10203.json] 어두운 것엔 익숙해요. 정전이 된 좁은 방에 홀로 59일을 있어본 적도 있어요.|I’m used to darkness. One time, I stayed alone in a cramped room with no power for 59 days.
+7916||PersonVoice#Voice_Faust_Yuri_10203.json] 모두가 긴장을 놓아도 되는 시간이 있다는 건 이로운 일 이에요. 정신 건강을 관리하는 것은 생각보다 제일 까다로우니까요.|It’s beneficial to allocate a time of the day when all of us can relax. Mental health management can be surprisingly difficult.
+7917||PersonVoice#Voice_Faust_Yuri_10203.json] 갑작스러운 실종. 익숙해요.|A sudden disappearance, often seen.
+7918||PersonVoice#Voice_Faust_Yuri_10203.json] 예전 회사는 지하에 있었어요. 들어오는 빛이라고는 싸늘한 인공조명이 다였죠.|My old workplace was underground. A cold artificial light was all we had.
+7919||PersonVoice#Voice_Faust_Yuri_10203.json] 대부분의 이치들을 이해하고자 노력하는 저이지만… 세상에는 이해를 포기해야 하는 존재들도 있더군요.|While I strive to comprehend most laws and denizens of the world… Some things are simply not meant to be understood.
+7920||PersonVoice#Voice_Faust_Yuri_10203.json] …그곳에서도 관리자님이 계셨어요. 비록 이렇게 얼굴을 마주 보면서 대화를 해본 적은 없지만. 생소하면서도… 나쁘지 않네요.|…My old job had a manager, too. Though I never had a chance to talk with them directly like I do now. This is new to me… but it isn’t bad.
+7921||PersonVoice#Voice_Faust_Yuri_10203.json] 어제, 맞은편에서 식사를 했던 동료가 그 다음 날 시체가 되어 처분해야 할 때가 종종 있었어요. 적어도 여긴… 그러지 않는군요. 네, 나쁘진 않아요.|I often had to clean up the bodies of coworkers with whom I had dined the day before. Here… I don’t experience such things, at least. Yes, I’d say it’s not too bad here.
+7922||PersonVoice#Voice_Faust_Yuri_10203.json] 참을 수 없는 고통, 정체조차 알 수 없는 괴물, 죽어가는 동료… 제가 두려운 건 이런 것들이 아니에요. 제가 두려워하는 건…|Intolerable pain, unknowable monsters, dying colleagues… Those aren’t what I fear. Rather, it’s…
+7924||PersonVoice#Voice_Faust_Zwei_10205.json] 보호 요청에 대한 임무를 완수 했습니다. 다시 순찰로 돌아가죠.|Protection request fulfilled. Returning to patrol.
+7925||PersonVoice#Voice_Faust_Zwei_10205.json] 이 지역에서 예상되는 문제는 전부 해결했네요. 오늘 순찰은 이걸로 끝내죠.|We have taken care of all potential troubles in this territory. Let us end our patrol for the day here.
+7926||PersonVoice#Voice_Faust_Zwei_10205.json] 걱정… 마세요. 다른 인원이… 고객님을…|Worry... not. My colleagues will... protect...
+7927||PersonVoice#Voice_Faust_Zwei_10205.json] 괜… 찮습니다. 츠바이의 방패는 저만이 아니니까요. 계약 종료에 대한 고려는 좀 더 심사숙고를….|It's... okay. There are other shields at Zwei. Please reconsider your decision to terminate our contract...
+7928||PersonVoice#Voice_Faust_Zwei_10205.json] 보호합니다.|Moving to protect.
+7929||PersonVoice#Voice_Faust_Zwei_10205.json] 움직이지 못하겠죠.|You've been immobilized.
+7930||PersonVoice#Voice_Faust_Zwei_10205.json] 적대 세력을 배제했습니다.|Hostiles eliminated.
+7931||PersonVoice#Voice_Faust_Zwei_10205.json] 다른 구역도 문제인가요?|Do other territories require my attention?
+7932||PersonVoice#Voice_Faust_Zwei_10205.json] 보호 요청, 수신.|Protection request received.
+7933||PersonVoice#Voice_Faust_Zwei_10205.json] 파우스트와는 맞지 않는 문제였군요.|This did not align with Faust's strengths.
+7934||PersonVoice#Voice_Faust_Zwei_10205.json] 이런 문제는 단순합니다.|An elementary problem.
+7935||PersonVoice#Voice_Faust_Zwei_10205.json] 준비되어 있습니다.|On standby.
+7936||PersonVoice#Voice_Faust_Zwei_10205.json] 그렇군요. 우수한 자가 더 많은 구역을 담당하는 것이 옳은 이치죠. 잘 부탁합니다.|Yes, indeed. It is only natural that greater responsibilities are assigned to finer agents. I look forward to working with you.
+7937||PersonVoice#Voice_Faust_Zwei_10205.json] 파우스트, 수신했습니다. 보호 요청이 온 곳으로 이동합니다.|Request received. This is Faust. Advancing to protection target location.
+7938||PersonVoice#Voice_Faust_Zwei_10205.json] 안전한 아침입니다. 오늘도 지역 안전에 만전을 기하겠습니다. 좋은 하루 되세요.|A safe morning. As always, we are committed to ensuring the security of the local premises. Have a nice day.
+7939||PersonVoice#Voice_Faust_Zwei_10205.json] 야간은… 가능하면 파우스트와의 간격을 좁혀주시기 바랍니다. 시야가 좁아지기 때문에, 주간보다 보호 이동이 늦을 가능성이 높으므로.|During nighttime... Please remain in close proximity to Faust. The narrowed field of vision may delay the protective maneuvers.
+7940||PersonVoice#Voice_Faust_Zwei_10205.json] 정오 순찰 결과도 문제 없음을 보고드립니다. 아… 식사는 걱정 하지 않으셔도 됩니다. 파우스트가 식사하는 동안에는, 파트너가 순찰을 하기 때문에.\n아, 그 분 역시 4과의 인재이므로 마음쓰실 필요 없습니다. 파우스트가 더 뛰어나지만.|Reporting in to inform you that no issues were detected during the noon patrol. Ah... There is no need to be worried about whether we've had our meal. While Faust dines, her partner handles the patrolling.\nOh, there is no need to be worried about said partner, either; Faust works with an exceptional individual from Section 4. Faust is still superior, however.
+7941||PersonVoice#Voice_Faust_Zwei_10205.json] 특별한 용건이 없다면, 다음 순찰 일정을 소화하고 싶네요.|If there is nothing else, I would like to leave for my next scheduled patrol.
+7942||PersonVoice#Voice_Faust_Zwei_10205.json] 지역 보호는 많은 인원과 그들 각각의 능력을 요구하는 일입니다. 계약된 구역 전체에 인원들을 투입해야하니까요.\n그만큼 고액의 보수를 요구하지만… 효과는 보장드릴 수 있습니다.|Territory protection requires significant manpower as well as individual capability, as personnel must be deployed over the entire contract area. While the service is costly... the added safety is well worth the price.
+7943||PersonVoice#Voice_Faust_Zwei_10205.json] 지역 보호 임무 중에는 가능한 사복으로 임무를 수행하고 있습니다. 눈에 띄지 않는 편이, 보호 대상을 노리는 세력을 색출하기 쉬우니까요.|We try to dress ourselves in civilian clothes for territory protection contracts. It is better to hide in plain sight to recognize those that seek to harm our clients.
+7944||PersonVoice#Voice_Faust_Zwei_10205.json] 모든 츠바이가 지역 보호 임무를 수행하지는 않습니다. 물론, 저희 4과도 지역 보호 임무만을 수행하지는 않고요.|Not all Zwei agents accept territory protection contracts. Of course, territory protection contracts aren't the sole dedication of Section 4, either.
+7945||PersonVoice#Voice_Faust_Zwei_10205.json] 보통의 경우, 보호해야 할 인물이 다수 일 때 이 계약이 진행됩니다.\n그런만큼… 다수의 적에게서 고객을 보호하는 역할을 요구받죠. 파우스트도 마찬가지랍니다.|Normally, these contracts are signed when the client requests several protection targets. \nTherefore... we often end up defending our clients against multiple threats. And so does Faust.
+7946||PersonVoice#Voice_Faust_Zwei_10205.json] 일의 고됨을 물으시는 건가요. 크게 신경써본 적은 없군요. 파우스트는 보호 대상의 안전만을 생각한답니다.|Is my work strenuous, you ask? Such details are not a part of my consideration. Faust considers only the safety of her protection targets.
+7947||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 엇…|Uh…
+7948||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 썩 나쁘지 않은 수확이었어.|Not a bad haul by any means.
+7949||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 휴… 너무 많이 했나? 언제 들고 가지…|Phew… Was that a bit too much? This’ll take a while to lug back…
+7950||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 아… 젠장…|Ah… Shoot…
+7952||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 으… 저건 맛 없는 고기 였을 거야.|Ugh… Bet it was bad meat anyway.
+7953||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 썰어볼까!|Time to slice ‘n dice!
+7954||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 여기 썰고~ 저기 썰고~|A cut goes here~ A chop goes there~
+7955||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 휴! 해체 끝~|Whew! All diced up~
+7956||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 어유, 깜짝아! 휘둘러 버릴 뻔했네.|Yeesh, ya startled me! I almost swung at you.
+7957||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 신선한게 있으면 좋겠네.|Hope there’s fresh finds.
+7958||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 음… 상한 부위였나?|Mmh… Was that part spoiled?
+7959||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 이거 맞지?|This one, right?
+7960||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 새 거래처를 찾으러 가는 거야?|Off to search for a new provider, are we?
+7961||PersonVoice#Voice_Gregor_23GuCooker_11204.json] 나를…? 하, 역시 진짜 셰프를 알아보는구만…?|Me…? Ha, guess you do know who the real chef is here, huh…?

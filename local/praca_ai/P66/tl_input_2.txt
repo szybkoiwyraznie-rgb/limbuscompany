@@ -1,0 +1,131 @@
+216||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8 부여|[OnSucceedAttack] Inflict 8 [Laceration]
+217||(ulepszenie 1) — nazwa] 육참|Yield My Flesh
+218||(ulepszenie 1) — opis] 최대 위력이 가장 높은 스킬 슬롯을 우선 지정함\n[WhenUse] 이 스킬 종료 시까지\n- 자신의 [Breath] 1당, 공격으로 받는 피해량 -2% (최소 -80%)\n- 자신의 [Breath] 1당, 합 위력 -1 (최소 -30)\n- 피해로 인해 흐트러짐 상태가 되지 않음\n[WinDuel] [Breath] 5 얻음\n[DefeatDuel] 피격 후 ‘골단’ 사용\n[EndBattle] 다음 턴까지 ‘육참’ 사용 불가능|Targets the Skill Slot that has the highest max Power\n[WhenUse] Until this Skill ends:\n- Take -2% damage from Attacks for every [Breath] on self (min -80%)\n- Clash Power -1 for every [Breath] on self (min -30)\n- Cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] Use "To Claim Their Bones" after being hit\n[EndBattle] Cannot use "Yield My Flesh" until next turn
+219||(ulepszenie 1) — moneta 1, efekt 1 — opis] 크리티컬 피해량 +150%|Deal +150% damage on Critical Hit
+220||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [SlashResistDown] 2 부여|[OnSucceedAttack] Inflict 2 [SlashResistDown] next turn
+221||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 4 부여|[OnSucceedAttack] Inflict 4 [DefenseDown] next turn
+223||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 10 이상이면, 코인 위력 +1\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당, 피해량 +40% (집중 전투인 경우, 부위로 판정)\n[WhenUse] 자신의 [Breath] 횟수 4 증가\n[EndSkill] 자신의 [Breath] 전부 소모|[WhenUse] At 10+ [Breath], Coin Power +1\n[WhenUse] Deal +40% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Parts)\n[WhenUse] Gain +4 [Breath] Count\n[EndSkill] Consume all [Breath] on self
+224||(ulepszenie 1) — moneta 1, efekt 1 — opis] [CriticalOnSucceedAttack] 마지막 코인 위력 +2 (코인당 1회)|[CriticalOnSucceedAttack] Coin Power +2 for the final Coin (once per Coin)
+227||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count
+229||(ulepszenie 1) — nazwa] 유리아 공방 - 총공 모드, 마크 17!|YuRia Atelier - All-out Attack Mode, Mk. 17!
+230||(ulepszenie 1) — opis] 대상의 부정적인 효과 종류당, 피해량 +50% (최대 100%)\n[WhenUse] 대상의 [Vibration]이 6 이상이면, 기본 위력 +3|Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] If target has 6+ [Vibration], Base Power +3
+231||(ulepszenie 1) — tekst klimatyczny] 특별 수제작, 골든 리트리버 전용 도끼.|Special Handmade Golden Retriever-Exclusive Axe.
+235||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Vibration] Count
+238||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Vibration]
+240||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소|[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count
+241||(ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+242||(ulepszenie 1) — nazwa] 원호해줄게! 뒤로 빠져있어!|I'll Cover You! Get Behind Me!
+243||(ulepszenie 1) — opis] [CanDuelGuard]\n[SupportProtect] 전용 스킬\n[WinDuel] 아군 정신력 4 회복 (본인 포함)\n- LCD 소속이면, 대신 정신력 8 회복|[CanDuelGuard]\n[SupportProtect] Exclusive Skill\n[WinDuel] Heal 4 SP for all allies (including this unit)\n- Heal 8 SP instead for LCD Units
+245||(ulepszenie 1) — nazwa] 몸 좀 풀어볼까?|Time for Some Warm-up!
+246||(ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 최종 위력 +2|If target has 3+ ([Combustion] + [Laceration]), Final Power +2
+247||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 3|[OnSucceedAttack] Deal 3 Blunt bonus damage
+251||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 2 [Binding] next turn
+252||(ulepszenie 1) — nazwa] 욜라 패기|Totally Badass Ass-kicking
+253||(ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 최종 위력 +2\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 [Laceration] 2 부여|If target has 3+ ([Combustion] + [Laceration]), Final Power +2\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 2 [Laceration] On Coin Hit
+254||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 5|[OnSucceedAttack] Deal 5 Blunt bonus damage
+255||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 손상 5|[OnSucceedAttack] Raise Stagger Threshold by 5
+258||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 자신의 [ResentmentSpiderDaughterTwo]이 3 이상이면, 이 코인 3회 재사용|[OnSucceedAttack] At 3+ [ResentmentSpiderDaughterTwo], Reuse this Coin 3 times
+259||(ulepszenie 1) — nazwa] 배 가르기!|Disemboweling!
+260||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[EndSkill] 자신의 [ResentmentSpiderDaughterTwo]이 3 이상이면, 다음 턴에 [VioletDamageUp] 1 얻음|Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit\n[EndSkill] At 3+ [ResentmentSpiderDaughterTwo], gain 1 [VioletDamageUp] next turn
+263||(ulepszenie 1) — nazwa] 십자난무!|Crossing Dervish!
+264||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가|Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit
+274||(ulepszenie 1) — nazwa] 바이올렛 브레이크 슬램!|Violet~ Breaking Slam!
+275||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[WhenUse] 자신의 체력이 40% 이하거나 [ReinforcedTattooSpiderDaughterTwo]이 2 이상이면, 피해량 +60%\n[WhenUse] 자신의 [ResentmentSpiderDaughterTwo]이 2 이상이면, 코인 적중시 50% 확률로 [Paralysis] 1 부여\n[EndSkill] 자신의 [ResentmentSpiderDaughterTwo]을 전부 소모|Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit\n[WhenUse] At 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], deal +60% damage\n[WhenUse] At 2+ [ResentmentSpiderDaughterTwo], 50% chance to inflict 1 [Paralysis] On Coin Hit\n[EndSkill] Consume all [ResentmentSpiderDaughterTwo] on self
+287||(ulepszenie 1) — nazwa] 가만 안둬|I'll Get You Back for This...!
+288||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n피격 시 자신의 [ReinforcedTattooSpiderDaughterTwo] 1당 이 스킬 1회 재사용 (최대 2회)\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 [Laceration] 1 부여\n[WhenUse] 자신의 체력이 40% 이하거나 [ReinforcedTattooSpiderDaughterTwo]이 2 이상이면, 피해량 +40%|Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nWhen hit, Reuse this Skill once for every [ReinforcedTattooSpiderDaughterTwo] on self (max 2 times)\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 1 [Laceration] On Coin Hit\n[WhenUse] At 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], deal +40% damage
+291||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 회복 10|[OnSucceedAttack] Lower user's Stagger Threshold by 10
+292||(ulepszenie 1) — nazwa] 사랑으로!|With Love!
+293||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]과 [Sinking]의 합 5 당 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 [PowerOfLoveAndJustice] 횟수 10 증가|[WhenUse] Base Power +1 for every 5 ([Burst] + [Sinking]) on target (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice]
+294||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 1 부여|[OnSucceedAttack] Inflict 1 [Burst]
+296||(ulepszenie 1) — nazwa] 정의의 이름으로!|In the Name of Justice!
+297||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]과 [Sinking]의 합 7 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [PowerOfLoveAndJustice] 횟수 10 증가|[WhenUse] Coin Power +1 for every 7 ([Burst] + [Sinking]) on target (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice] Count
+299||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst]과 [Sinking]의 합이 10 이상이면, 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] If target has 10+ ([Burst] + [Sinking]), inflict 1 [Binding] next turn
+300||(ulepszenie 1) — nazwa] 아르카나 비트|Arcana Beats
+301||(ulepszenie 1) — opis] 절망의 기사를 메인 타겟으로 지정함\n[ColdBlackTear]이 가장 많은 아군을 서브 타겟으로 지정함\n- 없을 시, 체력이 가장 적은 아군을 서브 타겟으로 지정함\n아군에게는 피해를 0으로 부여하고, [Sinking] 및 [ColdBlackTear] 효과를 발동하지 않음\n\n[WinDuel] 서브 타겟인 아군의 [ColdBlackTear] 1 제거|Mainly targets 'The Knight of Despair'\nSub-targets the ally with the most [ColdBlackTear]\n- If there are none, sub-targets the ally with the least HP\nInflicts 0 damage and does not activate the effects of [Sinking] and [ColdBlackTear] against allies\n\n[WinDuel] Remove 1 [ColdBlackTear] from the sub-targeted ally
+302||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 적군인 경우, [Burst] 1 부여|[OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]
+303||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 아군인 경우, 체력 5 회복|[OnSucceedAttack] If target is an ally, heal 5 HP
+308||(ulepszenie 1) — nazwa] 그 기술을 사용하는 수 밖에!|Looks Like I'll Have to Use This Power!
+309||(ulepszenie 1) — opis] [StartBattle] [ChasingArcana]를 1 얻음\n[StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함|[StartBattle] Gain 1 [ChasingArcana]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn
+310||(ulepszenie 1) — nazwa] 영창 - 아르카나 슬레이브|Chanting - Arcana Slave
+311||(ulepszenie 1) — opis] [StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함\n[EndBattle] 남은 보호막 수치가 없다면, 퇴각함|[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn\n[EndBattle] At 0 Shield HP, Retreats
+312||(ulepszenie 1) — nazwa] 아르카나 슬레이브|ARCANA SLAVE
+313||(ulepszenie 1) — opis] [CantDuel]\n잊혀진 기사의 검에게 피해를 주지 않음\n[WornOutKnight]가 있는 적 적중시 턴 종료\n[EndBattle] [UsedTooMuchPower] 얻음|[CantDuel]\nDoes not deal damage against Sword of a Forgotten Knight[TabExplain]\nEnds Turn when hitting enemies with [WornOutKnight]\n[EndBattle] Gain [UsedTooMuchPower]
+314||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 체력을 현재 체력의 (100 - ([CollapsedPride] 수치 x 33))% 로 만듦|[OnSucceedAttack] Reduce target's HP to (100 - ([CollapsedPride] Stack x 33))%
+316||(ulepszenie 1) — opis] [CantDuel]\n코인 효과로만 피해를 줌\n마음을 부수는 검, 마음을 찢는 검, 마음을 꿰뚫는 검에게 피해를 주지 않음\n[WornOutKnight]가 있는 체력 600 이하의 적 적중시 턴 종료\n[EndBattle] [UsedTooMuchPower] 얻음|[CantDuel]\nDeals damage only with Coin effects\nDoes not deal damage against Heart-breaking Sword, Heart-tearing Sword, and Heart-piercing Sword\nEnds Turn when hitting enemies that has [WornOutKnight] and 600- HP\n[EndBattle] Gain [UsedTooMuchPower]
+317||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] ([CollapsedPride] 수치 x 200)만큼 고정 피해를 줌|[OnSucceedAttack] Deal ([CollapsedPride] x 200) fixed damage
+319||(ulepszenie 1) — opis] [StartBattle] [ChasingArcanahard]를 1 얻음\n[StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함|[StartBattle] Gain 1 [ChasingArcanahard]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn
+320||(ulepszenie 1) — nazwa] 적격|Crimson Strike
+321||(ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)|[WhenUse] If target has 5+ types of negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)
+323||(ulepszenia 1–5) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음|[OnSucceedAttackHead] Gain 1 [AttackUp] next turn
+326||(ulepszenie 2) — nazwa] 적격 2형 - 파(破)|Crimson Strike Second Form - Rupture (破)
+327||(ulepszenie 2) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)|[WhenUse] If target has 5+ types of negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+328||(ulepszenie 3) — nazwa] 적격 3형 - 강(强)|Crimson Strike Third Form - Might (强)
+329||(ulepszenie 3) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +2\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)|[WhenUse] If target has 5+ types of negative effects, Clash Power +2\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+330||(ulepszenia 3–5) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 2 부여,[Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count
+332||(ulepszenie 4) — nazwa] 적격 4형 - 속(束)|Crimson Strike Fourth Form - Binding (束)
+333||(ulepszenie 4) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +2\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 다음 턴에 [Agility] 3 얻음 (턴 당 1회)|[WhenUse] If target has 5+ types of negative effects, Clash Power +2\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)\n[WhenUse] Gain 3 [Agility] next turn (once per turn)
+334||(ulepszenie 4) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여|[OnSucceedAttack] Inflict 3 [Binding] next turn
+335||(ulepszenie 5) — nazwa] 적격 5형 - 진(進)|Crimson Strike Fifth Form - March (進)
+336||(ulepszenie 5) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +2\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 다음 턴에 [Agility] 3 얻음 (턴 당 1회)\n[WhenUse] [Breath] 3 얻음,[Breath] 횟수 2 증가|[WhenUse] If target has 5+ types of negative effects, Clash Power +2\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)\n[WhenUse] Gain 3 [Agility] next turn (once per turn)\n[WhenUse] Gain 3 [Breath] aind +2 [Breath] Count
+337||(ulepszenie 5) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] [Burst] 2 부여|[CriticalOnSucceedAttack] Inflict 2 [Burst]
+338||(ulepszenie 5) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Binding] 3 부여|[OnSucceedAttack] Inflict 3 [Binding]
+339||(ulepszenie 5) — moneta 2, efekt 4 — opis] [CriticalOnSucceedAttack] 이 코인 재사용 (최대 2회)|[CriticalOnSucceedAttack] Reuse this Coin (2 times max)
+340||(ulepszenie 1) — nazwa] 적봉|Crimson Phoenix
+341||(ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)|[WhenUse] If target has 5+ types of negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+343||(ulepszenia 1–2) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [DefenseDown] 3 부여|[OnSucceedAttack] Inflict 3 [DefenseDown]
+345||(ulepszenia 1–2) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [AttackUp] 3 얻음|[OnSucceedAttack] Gain 3 [AttackUp] next turn
+346||(ulepszenia 1–2) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 자신의 호흡 횟수 1 증가. 대상의 [Burst]만큼 [Breath] 얻음 (최대 5)|[OnSucceedAttack] Gain +1 [Breath] Count. Gain [Breath] equal to [Burst] on target (max 5)
+347||(ulepszenia 1–2) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 호흡 위력 3 얻음. 대상의 [Burst] 횟수만큼 다음 턴에 [Breath] 횟수 증가 (최대 2)|[OnSucceedAttackHead] Gain 3 [Breath] next turn. Gain [Breath] Count equal to [Burst] Count on target next turn (max 2)
+348||(ulepszenia 1–5) — moneta 4, efekt 1 — opis] 크리티컬 피해량 +50%|Deal +50% Damage on Critical Hit
+349||(ulepszenia 1–5) — moneta 4, efekt 2 — opis] [CriticalEnemyTargetKillFail] [Burst] 횟수 2 증가|[CriticalEnemyTargetKillFail] Inflict +2 [Burst] Count
+350||(ulepszenia 1–5) — moneta 4, efekt 3 — opis] [CriticalEnemyTargetKill] 다음 턴에 [AttackUp] 3 얻음|[CriticalEnemyTargetKill] Gain 3 [AttackUp] next turn
+351||(ulepszenie 2) — nazwa] 적봉 제2형 - 파(破)|Crimson Phoenix Second Form - Rupture (破)
+352||(ulepszenia 2–3) — opis] [WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)|[WhenUse] If target has 4+ types of negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+355||(ulepszenie 3) — nazwa] 적봉 제3형 - 염(炎)|Crimson Phoenix Third Form - Blaze (炎)
+360||(ulepszenia 3–5) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Burst]과 [Combustion]의 합 만큼 [Breath] 얻음 (최대 10)|[OnSucceedAttack] Gain [Breath] equal to ([Burst] + [Combustion]) on target (max 10)
+361||(ulepszenia 3–5) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst] 횟수와 [Combustion] 횟수의 합 만큼 [Breath] 횟수 증가 (최대 5)|[OnSucceedAttack] Gain [Breath] Count equal to ([Burst] Count + [Combustion] Count) on target (max 5)
+362||(ulepszenie 4) — nazwa] 적봉 제4형 - 기(氣)|Crimson Phoenix Fourth Form - Qi (氣)
+363||(ulepszenia 4–5) — opis] [WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)\n[WhenUse] [Breath] 3 얻음,[Breath] 횟수 2 증가|[WhenUse] If target has 4+ types of negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count
+364||(ulepszenia 4–5) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] [Combustion] 3 부여|[CriticalOnSucceedAttack] Inflict 3 [Combustion]
+366||(ulepszenia 4–5) — moneta 3, efekt 3 — opis] [CriticalOnSucceedAttack] [Vulnerable] 2 부여|[CriticalOnSucceedAttack] Inflict 2 [Vulnerable]
+367||(ulepszenie 5) — nazwa] 적봉 제5형 - 익(翼)|Crimson Phoenix Fifth Form - Wings (翼)
+368||(ulepszenie 5) — moneta 4, efekt 4 — opis] [CriticalEnemyTargetKillFail] 대상에게 적참 사용|[CriticalEnemyTargetKillFail] Use Crimson Cleave against the target
+369||(ulepszenie 5) — moneta 4, efekt 5 — opis] [CriticalEnemyTargetKill] 무작위 대상에게 적참 사용|[CriticalEnemyTargetKill] Use Crimson Cleave against a random enemy
+370||(ulepszenie 1) — nazwa] 적춘|Crimson Spring
+371||(ulepszenie 1) — opis] [BeforeAttack] 대상의 부정적인 효과 4개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합이 15 이상이면, 코인 위력 +5\n[WinDuel] [Burst] 횟수 2 증가|[BeforeAttack] Gain +1 Atk Weight for every 4 types of negative effects on target (max 2)\n[WhenUse] If target has 5+ types of negative effects, Base Power +5\n[WhenUse] If target has 15+ ([Burst] + [Burst] Count), Coin Power +5\n[WinDuel] Inflict +2 [Burst] Count
+372||(ulepszenia 1–2) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 7 부여|[OnSucceedAttack] Inflict 7 Bleed
+373||(ulepszenia 1–2) — moneta 1, efekt 2 — opis] 크리티컬 피해량 +200%|Deal +200% Damage on Critical Hit
+374||(ulepszenia 1–2) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] 출혈 횟수 3 증가|[CriticalOnSucceedAttack] Inflict +3 Bleed Count
+375||(ulepszenia 1–2) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] [Breath] 2 얻음. [Breath] 횟수 1 증가|[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count
+376||(ulepszenie 2) — nazwa] 적춘 제2형 - 열(熱)|Crimson Spring Second Form - Passion (熱)
+377||(ulepszenia 2–3) — opis] [BeforeAttack] 대상의 부정적인 효과 3개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합 3당, 코인 위력 +1(최대 5)\n[WinDuel] [Burst] 횟수 2 증가|[BeforeAttack] Gain +1 Atk Weight for every 3 types of negative effects on target (max 2)\n[WhenUse] If target has 5+ types of negative effects, Base Power +5\n[WhenUse] Coin Power +1 for every 3 ([Burst] + [Burst] Count on target) (max 5)\n[WinDuel] Inflict +2 [Burst] Count
+378||(ulepszenie 3) — nazwa] 적춘 제3형 - 참(斬)|Crimson Spring Third Form - Decapitation (斬)
+379||(ulepszenia 3–5) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed
+380||(ulepszenia 3–5) — moneta 1, efekt 2 — opis] [CriticalOnSucceedAttack] 출혈 횟수 2 증가|[CriticalOnSucceedAttack] Inflict +2 Bleed Count
+386||(ulepszenie 4) — nazwa] 적춘 제4형 - 순(巡)|Crimson Spring Fourth Form - Flow (巡)
+387||(ulepszenia 4–5) — opis] [BeforeAttack] 대상의 부정적인 효과 3개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합 3당, 코인 위력 +1(최대 5)\n[WinDuel] [Burst] 횟수 2 증가\n[WhenUse] [Breath] 5 얻음,[Breath] 횟수 2 증가|[BeforeAttack] Gain +1 Atk Weight for every 3 types of negative effects on target (max 2)\n[WhenUse] If target has 5+ types of negative effects, Base Power +5\n[WhenUse] Coin Power +1 for every 3 ([Burst] + [Burst] Count on target) (max 5)\n[WinDuel] Inflict +2 [Burst] Count\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count
+388||(ulepszenie 5) — nazwa] 적춘 제5형 - 花(화)|Crimson Spring Fifth Form - 花 (Blossom)
+389||(ulepszenie 5) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 부정적인 효과 1개당 피해량 +10% (최대 50%)|[OnSucceedAttack] Deal +10% damage for every type of negative effect on target (max 50%)
+391||(ulepszenie 5) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 3 얻음 (턴 당 1회)|[OnSucceedAttack] Gain 3 [Agility] next turn (once per turn)
+392||(ulepszenia 1–3) — nazwa] 수회|Adept Evasion
+393||(ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [Breath] 1 얻음. (스킬 당 최대 3회)|[OnSucceedEvade] Gain 1 [Breath] next turn. (3 times per Skill)
+394||(ulepszenie 2) — opis] [OnSucceedEvade] 다음 턴에 [Breath] 3 얻음. (스킬 당 최대 2회)|[OnSucceedEvade] Gain 3 [Breath] next turn. (2 times per Skill)
+395||(ulepszenie 3) — opis] [WhenUse] 대상의 부정적인 효과 2개 당 기본 위력 +2 (최대 10)\n[OnSucceedEvade] 다음 턴에 [Breath] 3 얻음. (스킬 당 최대 2회)|[WhenUse] Base Power +2 for every 2 types of negative effect on target (max 10)\n[OnSucceedEvade] Gain 3 [Breath] next turn. (2 times per Skill)
+396||(ulepszenie 4) — nazwa] 수회유환|Adept Evasion - Redirected Counter
+397||(ulepszenie 4) — opis] [WhenUse] 대상의 부정적인 효과 2개 당 기본 위력 +2 (최대 10)\n[OnSucceedEvade] 다음 턴에 [Breath] 3 얻음. (스킬 당 최대 2회)\n[OnSucceedEvade] 적참을 사용 (턴 당 1회).|[WhenUse] Base Power +2 for every 2 types of negative effect on target (max 10)\n[OnSucceedEvade] Gain 3 [Breath] next turn. (2 times per Skill)\n[OnSucceedEvade] Use Crimson Cleave (once per turn)
+398||Wróg / część [91059] — nazwa] 목마른 르카키|Thirsty Kaki
+399||Wróg / część [91060] — nazwa] 배고픈 르카키|Hungry Kaki
+400||Wróg / część [91060] — opis] 부위|Part
+401||Wróg / część [1465] — nazwa] 르누아르 점원 구스타프|Le Noir Sales Associate Gustave
+402||Wróg / część [1465] — opis] 1층 보스|1F Boss
+403||Wróg / część [1494] — nazwa] 르루주 점원 미모사|Le Rouge Sales Associate Mimosa
+404||Wróg / część [1494] — opis] 1층 NPC|1F NPC
+405||Wróg / część [1480] — nazwa] 가죽 지갑|Leather Wallet
+406||Wróg / część [1466] — nazwa] 리나모비블|L'Inamovible
+407||Wróg / część [91066] — nazwa] 르누아르 점원[햇살]|Le Noir Sales Associate [Sunshone]
+408||Wróg / część [1481] — nazwa] 3층 플로어 매니저|3F Floor Manager
+409||Wróg / część [1484] — nazwa] 붉은 신[미생]|The Crimson God [Inchoate Life]
+410||Wróg / część [148401] — nazwa] 생명줄|Lifecord
+411||Wróg / część [148401] — opis] 붉은 신 부위|The Crimson God Part
+412||Wróg / część [91067] — nazwa] 르루주 점원[햇살]|Le Rouge Sales Associate [Sunshone]
+413||Wróg / część [1474] — nazwa] 수셰프|Sous Chef

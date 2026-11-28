@@ -1,0 +1,166 @@
+{
+  "entries": {
+    "dataList[id=40003801].desc": {
+      "pl": "Początek etapu: zyskuje [AengduNewArm]\n\nJeżeli na polu jest sojusznik (poza tą jednostką) z HP niższym niż 50% Maks. HP, zyskuje 1 [SupportProtect] (1 raz na turę)",
+      "kr_sha256": "84a0a4e488d9f4791099afa6ed1454752771af12e09ab66868cd585501959773",
+      "en_sha256": "e4bc970825b8b7dc5af88d72320c9e2069cf0771cb65268f6796954c81dc669e",
+      "origin": "ai"
+    },
+    "dataList[id=40003801].flavor": {
+      "pl": "„Z zewnątrz wygląda jak każda inna proteza z innych Gniazd czy Zaułków… Podobno jednak użyto w niej technologii unikatowej dla Limbus Company. Cóż to może być…”\n\n„Skoro rozwój tego prototypu nadawał Departament LCD, pewnie ma coś wspólnego z mocą Zniekształceń… O, nie, nie mam pewności — ja tylko odpowiadałem za transport. To tylko domysły. Zresztą na pewno nie jest to zwykła proteza do wzmacniania ciała.”",
+      "kr_sha256": "a0b1ffa254dc207eaaf51dce68faa6d9267bd6030550775eb8fee33d596d18bd",
+      "en_sha256": "9103b8b9cce5097000e0ac75511c6f40bd0fe687a2c0230d213773fa8b96fce9",
+      "origin": "ai"
+    },
+    "dataList[id=40003801].name": {
+      "pl": "Specjalna Prototypowa Proteza mk5 Limbus Company - Ramię Dokkaebi",
+      "kr_sha256": "ac042e5dbef6fd14743d3c389572b78134cc7797f07f2424e5376936a0f65b41",
+      "en_sha256": "ea44521ba411e8b2cf9a6fe2462ee9c06e24ac14152f801d1f17866d59bc4193",
+      "origin": "ai"
+    },
+    "dataList[id=40003801].summary": {
+      "pl": "Zyskuje [SupportProtect]",
+      "kr_sha256": "ba9c6fe9dbd14239e66f1df783579d2be4189321900bf535577ac373d4d14d64",
+      "en_sha256": "4ae63a1cfb6391034944b8ec5de40ffb21f60eec86739e0a803793657e0afaea",
+      "origin": "ai"
+    },
+    "dataList[id=40003802].desc": {
+      "pl": "Koniec Umiejętności: zyskuje 1 [WindBlade] za każde 3 [Breath] (maks. 5, 2 razy na turę)\n\nKoniec Umiejętności ataku bazowego: przy 15+ [WindBlade] uruchamia na wrogu „Even the Balance - Lucent Rippling Flame” (1 raz na turę)\n\nPo przegranej starciu Umiejętnością obrony, przy 3+ [Agility], do końca tej Umiejętności nie może zostać Oszołomiona przez obrażenia, a po trafieniu uruchamia na wrogu „To Claim Their Bones” (2 razy na turę, poza wymuszonym Oszołomieniem)",
+      "kr_sha256": "d45cfda51b66ba2e377acfe46f95eb57f89cb5eb23ecdfa4da1369f33d346fce",
+      "en_sha256": "2042c8fc7097b915e42364761cb12f6d8e69167afbee23a81190c763275502f8",
+      "origin": "ai"
+    },
+    "dataList[id=40003802].name": {
+      "pl": "Przechwyt Demonognia",
+      "kr_sha256": "b4425ef53c3e4b400844f99af4a872220e5ef19380eb333562f5906bfa2b3548",
+      "en_sha256": "d4a99a3d60bc53db8719718eb93f3422baacb8d6da1e7ab84cff1fb108c19c8f",
+      "origin": "ai"
+    },
+    "dataList[id=40003802].summary": {
+      "pl": "Uruchamia dodatkową Umiejętność przy spełnieniu warunków",
+      "kr_sha256": "724045e2d791b6d1b292772409f7386e8e6b101a1252b4aa977e5029bfe002eb",
+      "en_sha256": "89740380bc975cc4e371967dbd16e2d4e415a5a67730158f39bf6e97db7e13b0",
+      "origin": "ai"
+    },
+    "dataList[id=40003803].desc": {
+      "pl": "Przy trafieniu krytycznym zyskuje 1 [Agility] w następnej turze (3 razy na Umiejętność, 2 razy na turę)",
+      "kr_sha256": "64e25c8991d06cc967603834e7f60243a1157e9f807852f627c7f70d11ca078e",
+      "en_sha256": "bba12e68facf2cb951f70ce2bb47c3f950035c52ec25a2ae1fa6171d732e1510",
+      "origin": "ai"
+    },
+    "dataList[id=40003803].name": {
+      "pl": "Swiftblade",
+      "kr_sha256": "0c28f0c87c9e1b201421b7a5a0c72371289a0b0ccf3a4afb5bbe2e6eb0640ef5",
+      "en_sha256": "7c70c6fe464aabf0ceb3238ac04018ddade68854108f211a570536343b076646",
+      "origin": "ai"
+    },
+    "dataList[id=40003803].summary": {
+      "pl": "Zyskuje [Agility]",
+      "kr_sha256": "2c4bf38605b7b2214c7f8190110d0a3d04b5a4d9d6cf6cdc412e015d655c3c29",
+      "en_sha256": "2555cae5a01922634787973be87cff7b3839962f185456d97ffed3bc9577a5cb",
+      "origin": "ai"
+    },
+    "dataList[id=40003804].desc": {
+      "pl": "Gdy poległo 3 lub więcej sojuszników Rodu Ostrza (poza tą jednostką):\n- przy zyskiwaniu Siły/Licznika [Breath] dzięki własnym Umiejętnościom i efektom Monet zyskuje o 1 więcej każdego\n- gdy poległo 5 lub więcej sojuszników Rodu Ostrza, zamiast tego o 2 więcej każdego\n- początek walki: nakłada na siebie [SwordPlayOfTheHomeland]",
+      "kr_sha256": "575f039db75f80f65c13bae245110386ec507decc3d4d869afdaabb3b32fccd6",
+      "en_sha256": "c8b9338e83addf9726522394e8197e6eece525e690a375630e9d47d2f2d1189c",
+      "origin": "ai"
+    },
+    "dataList[id=40003804].name": {
+      "pl": "Tam, Dokąd Muszę Wrócić",
+      "kr_sha256": "e6e4838cd6ceae7ec5cc13653b1a1a1878fef024165d2985687538dfa0d181a5",
+      "en_sha256": "bd4d70bb18c6663f9e55d78e8adefc64605741d4566a470719ea55855614262f",
+      "origin": "ai"
+    },
+    "dataList[id=40003901].desc": {
+      "pl": "Początek etapu: zyskuje 1 [DimensionalBagEzraA]\n\nJeżeli ta jednostka użyła aktualnej broni warsztatowej co najmniej 1 raz, w następnej turze wymienia broń warsztatową\n\nLista broni warsztatowej:\n- Allas Workshop Gloves\n- Nester Workshop Hammer\n- Screw Atelier Drill Hammer\n- Namir Workshop Gauntlets\n- YuRia Atelier Axe",
+      "kr_sha256": "92048193b2ab623d8b2770d6665bb4cc54b7c21c3c72259860f828f009b7efba",
+      "en_sha256": "f9dcc5e63c38e7584002dcaa8919ee92c516d9edad88f7c6f845eb16ae81e131",
+      "origin": "ai"
+    },
+    "dataList[id=40003901].name": {
+      "pl": "Dimensional Bag [Ezra]",
+      "kr_sha256": "2521ab011458119466e922b86670be377ab362006469fc4ccdc5c7150d3a3961",
+      "en_sha256": "bab561663ba855b8b143e57af5ca621cc530670b6e899dc0b8ce574fd9e53c16",
+      "origin": "ai"
+    },
+    "dataList[id=40004001].desc": {
+      "pl": "Przy pierwszym pojawieniu się w etapie zyskuje [BrandedKimSatgat]",
+      "kr_sha256": "921ab06c373215d9fb6d9e5249871a50f4546ea63780fc4aeab051e2d648321e",
+      "en_sha256": "8363c526abb5cfb5748ba38e30a31314983371764df039a0b1e500c7db4e9cd8",
+      "origin": "ai"
+    },
+    "dataList[id=40004001].name": {
+      "pl": "Fugitive",
+      "kr_sha256": "0564865289f3804c3dae102007931f2f9fa41d86768aeae9ed98390d04bc2efa",
+      "en_sha256": "c6457a1eae0cf4c4cd272a63105d398b8753124f101f6793f75b122bec70ab00",
+      "origin": "ai"
+    },
+    "dataList[id=40004002].desc": {
+      "pl": "Przy 1 Licznika [Breath] zamiast tracić Licznik [Breath] traci 10 HP (ten efekt nie Oszołomuje tej jednostki, a jej HP nie spada poniżej 1)\n\nObrażenia krytyczne Umiejętności bazowych tej jednostki rosną o (procent utraconego HP / 2) (maks. 50%)",
+      "kr_sha256": "157f77a8081354138971a2daf0ec85c294e73c811167be439e5b5a15723d6bef",
+      "en_sha256": "b7018f0c364849c837712bb4f5a1d487975e3b016a706874e4749308063417a6",
+      "origin": "ai"
+    },
+    "dataList[id=40004002].name": {
+      "pl": "Postawa Salsu",
+      "kr_sha256": "fb6916eb0964a8d299af770b9f493c649b82530e9dcfbb82b9b09c8bc520bd5a",
+      "en_sha256": "26471ced9b57c5f6e096f4413f65c4be7421be9beb033c372068bc03774b7905",
+      "origin": "ai"
+    },
+    "dataList[id=40004003].desc": {
+      "pl": "Początek walki: jeżeli aktywowano Rezonans Pychy,\n- zyskuje (Rezonans Pychy x 2) [Breath] (maks. 8)\n- nakłada 1 [SlashResultUp] i 1 [CriticalDamageUp] na wszystkich Grzeszników i jednostki asystujące poza tą jednostką (na cele z Rodu Ostrza nakłada podwójnie)\n\nKoniec tury: zyskuje ([Breath] tej jednostki / 4) [Agility] w następnej turze (maks. 6, zaokrąglone w dół)",
+      "kr_sha256": "c2d0e2850a574e7ca41e1ec32c6eae7648196616144e586cf2751da57ad5e04f",
+      "en_sha256": "88888aaae49b2880101bc9ae4aa3946e604d8ee2bd620bb52aa0fb0de9ba3e0e",
+      "origin": "ai"
+    },
+    "dataList[id=40004003].name": {
+      "pl": "Szermierka Ojczyzny",
+      "kr_sha256": "0a914d496c45899d80b4078945c03706ff05be2acce495940c28ce0cb0b305ca",
+      "en_sha256": "f2b8979fdb49ece56539eb4d804aca9a2ce3311ee6bad541d2246069d18446fa",
+      "origin": "ai"
+    },
+    "dataList[id=40004004].desc": {
+      "pl": "Zyskując Siłę/Licznik [Breath] dzięki własnym Umiejętnościom i efektom Monet, zwiększa Siłę [Breath] o 1 i Licznik [Breath] o 1 dla Grzesznika i 2 jednostek asystujących bez [Breath] lub z najniższą Mocą [Breath] (poza tą jednostką)\n- jeżeli sojusznik należy do Rodu Ostrza, zamiast tego zwiększa Siłę [Breath] o 3 i Licznik [Breath] o 2\n\nGdy ginie Grzesznik lub jednostka asystująca z Rodu Ostrza, ta jednostka traci 10 SP",
+      "kr_sha256": "3bf377f7fc00f2312970c63a2e4e5bad8980271ddf0c83ae946af8585831dc17",
+      "en_sha256": "16fdd8fedc4c3bc4731be995fefd1091d4fbcf0ea7bee536d42707d04fee3254",
+      "origin": "ai"
+    },
+    "dataList[id=40004004].name": {
+      "pl": "Mentor Rodu Ostrza",
+      "kr_sha256": "10e90c2225ba2b9dc625b6befcb50a3b631127f8f7ad3248ad61aa6d219404b2",
+      "en_sha256": "8272cf2cda2063f8272b7a01c951b6e6b149b4d9ab4713de2f23750620f7b158",
+      "origin": "ai"
+    },
+    "dataList[id=40004005].desc": {
+      "pl": "W tej walce: gdy ta jednostka ma otrzymać obrażenia obniżające jej HP do 0, nie otrzymuje ich, a przez resztę tury jej HP nie spada poniżej 1 (1 raz na walkę)\n\nKoniec tury: przy 30+ Siły [Breath] zamraża Szybkość tej jednostki na 20 w następnej turze i wyposaża „Yield My Flesh” w skrajnie lewym slocie\n- jeżeli przez efekt Umiejętności „Yield My Flesh” jest niedostępna, ten efekt nie działa",
+      "kr_sha256": "db560b6a03724b98dd17fc8a68456fd8cbda0998100713881e6553a2f1caf8f9",
+      "en_sha256": "5dfe69f3b2df6a0044c6f8b0bb79f55cbe1b541f53c8bf81e9f1336f29bd9fee",
+      "origin": "ai"
+    },
+    "dataList[id=40004005].name": {
+      "pl": "Oddam Ciało, by Złamać Ich Kości",
+      "kr_sha256": "9509ec09eb2b43783f11239f2ca90599d3658ab19069fb09a3ca4b93231cb723",
+      "en_sha256": "c720dfea4335cbf0876933d387d947209aeb83862fd66e0f451e965431a88374",
+      "origin": "ai"
+    },
+    "dataList[id=40004006].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40004006].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40004006].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    }
+  }
+}

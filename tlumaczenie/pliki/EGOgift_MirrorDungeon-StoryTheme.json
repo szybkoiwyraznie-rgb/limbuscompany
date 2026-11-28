@@ -1,0 +1,454 @@
+{
+  "entries": {
+    "dataList[id=9403].desc": {
+      "pl": "— opis] Na pierwszym początku tury spotkania nakłada 2 Moc [Burst] i 2 Licznika [Burst] na wszystkich wrogów.\n\nPrzez 3 tury na koniec każdej z nich nakłada 2 [Binding] na wszystkich wrogów",
+      "kr_sha256": "b70b1ac4c213b0a5d81c1548ae54212555affda5e9103ac34bcc49233cbb83dd",
+      "en_sha256": "abb203ceb37d4c9b7947ecd74ee46683c36a62002dcbf75d4f2c427732ca8f39",
+      "origin": "ai"
+    },
+    "dataList[id=9403].name": {
+      "pl": "— nazwa] Hebanowa Broszka",
+      "kr_sha256": "4055c031e505751329bf80069423cfb246585407e87010ac3ea32dc2ccfdf5ea",
+      "en_sha256": "4cdd3645b7908197de9858293fb7ce2f11818d617ad04e213fa6f87e1f6c54a3",
+      "origin": "ai"
+    },
+    "dataList[id=9403].simpleDesc[abilityID=94031].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 [Binding] na wszystkich wrogów",
+      "kr_sha256": "06022491c5b88fe4ba4eac9b22854f1f332eaa79e71927d13a8b4ab98e8955cb",
+      "en_sha256": "c88ebdafd158bf9d681eff3bdfc9178b0dfc80530c0bd3d238888dfc4c75f733",
+      "origin": "ai"
+    },
+    "dataList[id=9403].simpleDesc[abilityID=9403].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Moc [Burst] i 2 Licznika [Burst] na wszystkich wrogów",
+      "kr_sha256": "5041648a31d669b9b70244bffa1303899b09c33b5fcfc406b728bce1dd5d5cea",
+      "en_sha256": "b2d60ffd5da4a30b805f52406c4fb074bad80594a07ec241f8bd731589568378",
+      "origin": "ai"
+    },
+    "dataList[id=9404].desc": {
+      "pl": "— opis] Przy trafieniu wroga Umiejętnością ataku atrybutu Żądzy lub Obżarstwa (poza Umiejętnościami E.G.O), nakłada 2 [Muckworm] na cel.\n\nJeżeli Umiejętność nakłada Moc [Laceration], Licznik [Laceration] lub 'Szczególne Krwawienie', zamiast tego nakłada 3 [Muckworm].",
+      "kr_sha256": "8042801721b14d1cc33ceb5c56add5e35990d1d4ae535038aac03f36d6b3d90c",
+      "en_sha256": "79018055c1dd906917fd434f6b2715defde170a23c5ad85bcd4b7a8c755107cf",
+      "origin": "ai"
+    },
+    "dataList[id=9404].name": {
+      "pl": "— nazwa] Uwięzione Czerwie",
+      "kr_sha256": "8023e7be70abe22e59a8a2f310c184d227e08c0ee60beee33a50dd362ee09090",
+      "en_sha256": "9d97190e75a78fd0f6d23b0a97b3062fa2579ca2dd3f085bd6f001bacee1e276",
+      "origin": "ai"
+    },
+    "dataList[id=9404].simpleDesc[abilityID=94041].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 [Muckworm]",
+      "kr_sha256": "b8277c31cc71323a850a80a88e9af33785161dfbb0fad3bbd04629cca45aaa82",
+      "en_sha256": "25359122af539a5bc598441a768cc674b6266e8653efe7504fbbff05d35673c3",
+      "origin": "ai"
+    },
+    "dataList[id=9404].simpleDesc[abilityID=9404].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 [Muckworm]",
+      "kr_sha256": "a5bac66db236fa4d8cefa925aceb66d0948e95123c00c2d448e749f05a4f8020",
+      "en_sha256": "8a72fcb988b3618735d64d35f4a01750ba64a5b7b381d2b2039f96531593fc3a",
+      "origin": "ai"
+    },
+    "dataList[id=9407].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #3]\n\nNa początku spotkania zyskuje 3 Licznika [Vibration].\n\nNa początku tury zyskuje 1 [Protection], 1 [AttackDmgUp] i 1 [ResultEnhancement].",
+      "kr_sha256": "ad65a234110cafe4855d1c4c7beff3a23b308d2a5510bca2f64d745f41517a84",
+      "en_sha256": "f1b1951c21f4433bb144c9962570538c2c40c404f6540295d16b7a62b2c2c53d",
+      "origin": "ai"
+    },
+    "dataList[id=9407].name": {
+      "pl": "— nazwa] Na Zamówienie",
+      "kr_sha256": "e560bfccdf68bb54dcfdc7223a773725bf07c902b5533a241fbc2c2fcd5ecf97",
+      "en_sha256": "53cdb429e188320f097116744d0353e07dfa0596c5793a0bc3a9a1de122a4592",
+      "origin": "ai"
+    },
+    "dataList[id=9407].simpleDesc[abilityID=94071].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 [Protection], 1 [AttackDmgUp] i 1 [ResultEnhancement]",
+      "kr_sha256": "55b99baf3a3eeb611908c75081112531158fb0b121edf50dec78f150e2ca9d22",
+      "en_sha256": "7021c47700740976e64e0962b7337f384a0dae54f68c20fb8d84059b3c03e5f4",
+      "origin": "ai"
+    },
+    "dataList[id=9407].simpleDesc[abilityID=9407].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 3 Licznika [Vibration]",
+      "kr_sha256": "421d3b5c5f458279d27b99e70645f079f53834b1f83a387b973b572f5d1551e8",
+      "en_sha256": "65282ec56d18f3371b234e2ad011076fa46166472ad32bf203d9f1b67d8c7c0a",
+      "origin": "ai"
+    },
+    "dataList[id=9408].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #2]\n\nNa początku spotkania zyskuje 3 Licznika [Sinking].\n\nNa początku tury zyskuje 1 [Protection], 1 [AttackDmgUp] i 1 [ResultEnhancement].",
+      "kr_sha256": "f0aaeb6b72f282ff5e22a278f9d35d779ce2e150a4dccc0c003f8da6634b7b7c",
+      "en_sha256": "dfd51291f3dd204e8fa2a0c9a99a334e0c029a29cae5b87aeb809fe87faf3fe9",
+      "origin": "ai"
+    },
+    "dataList[id=9408].name": {
+      "pl": "— nazwa] Nawiedzone Buty",
+      "kr_sha256": "c415560579d27949636861e69b6ef4406b36ada0f1def34290150598267bfc48",
+      "en_sha256": "13f6b1bdee95d06affc3b9d7a36579e73f9c1ad218e92f9b563eb85c0668cb2d",
+      "origin": "ai"
+    },
+    "dataList[id=9408].simpleDesc[abilityID=94081].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 [Protection], 1 [AttackDmgUp] i 1 [ResultEnhancement]",
+      "kr_sha256": "55b99baf3a3eeb611908c75081112531158fb0b121edf50dec78f150e2ca9d22",
+      "en_sha256": "7021c47700740976e64e0962b7337f384a0dae54f68c20fb8d84059b3c03e5f4",
+      "origin": "ai"
+    },
+    "dataList[id=9408].simpleDesc[abilityID=9408].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 3 Licznika [Sinking]",
+      "kr_sha256": "78fb8f7d2505949f741cc88af172b6b898ca88d5460005633bc47ba3d849d43a",
+      "en_sha256": "4002b6f1b5de1a8052084662fb3163396a2309b1d00153c73a11f540edaa05ef",
+      "origin": "ai"
+    },
+    "dataList[id=9409].desc": {
+      "pl": "— opis] Na początku tury efekt dotyczy jednej Tożsamości z najniższą Szybkością.\n\nGdy ten sojusznik wygra starcie lub zostanie trafiony przez wroga, nakłada 3 Moc [Sinking] na wroga.",
+      "kr_sha256": "492fd20f4dda53cdcc11bda11ee9d999924df4b17807eb079103b36d4502a816",
+      "en_sha256": "67520383665023290912385568e176a3fe75662b181e1c0f8684df1f8e6939b6",
+      "origin": "ai"
+    },
+    "dataList[id=9409].name": {
+      "pl": "— nazwa] Zamrożone Krzyki",
+      "kr_sha256": "e506b41cbd86ce6bf40af2e64bb1114b84ae1a08b5ea2414a9e8c5f7049c4585",
+      "en_sha256": "8feae1bef62b0250db2f5a1e7d0f3c1d1e33e34583fe59614a447e1e7ad62a6e",
+      "origin": "ai"
+    },
+    "dataList[id=9409].simpleDesc[abilityID=9409].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc [Sinking] na wroga",
+      "kr_sha256": "f91441ead534fd822eb10691f5cfe773c87d8a9d08a9474bcf6161d37196b7b6",
+      "en_sha256": "a766f4f595ae6b0bcabad953745787c5f477a8d0de2419a4a6e2704e322373c7",
+      "origin": "ai"
+    },
+    "dataList[id=9410].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali wszyscy sojusznicy zyskują 3 Licznika [Sinking], a wszyscy wrogowie (w przypadku Anomalii — wszystkie Partie) otrzymują 4 Moc [Sinking] i 8 Licznika [Sinking].\n\nWrogowie w stanie [Sinking] tracą 2 Moc Starcia; gdy dotknięty tym wrog przegrywa starcie z Tożsamością sojusznika, nakłada 2 Moc [Sinking], a gdy zadaje obrażenia Tożsamości sojusznika, nakłada 3 Moc [Sinking].",
+      "kr_sha256": "08ffa873d8721b2dcf220de5bf27fdcb7b01c2e77e5cf2aebac8deef58386e9e",
+      "en_sha256": "2ab71bc0e6348cecdaa13cfb51c3561e03145454f8c0804815d6e3641cadffba",
+      "origin": "ai"
+    },
+    "dataList[id=9410].name": {
+      "pl": "— nazwa] Ślad Szronu",
+      "kr_sha256": "5108fe796fc2e7b6c59721a9784155e46763e9ac254d66699e52c16564cff00c",
+      "en_sha256": "6250c476f23cac27fd68b30af647ab316dfbe5709a403a2e8144677f61e6092a",
+      "origin": "ai"
+    },
+    "dataList[id=9410].simpleDesc[abilityID=94101].simpleDesc": {
+      "pl": "— opis skrócony] Wrogowie w stanie [Sinking] tracą 2 Moc Starcia",
+      "kr_sha256": "731faf134163dd796c5dd05c4a79abfc3df2cc92cc9844c6d5299f8aeb8c0aee",
+      "en_sha256": "c1b46cda3cc96d4d3fa53122f7aa17425058a49f7f5fe894251094a14de79b69",
+      "origin": "ai"
+    },
+    "dataList[id=9410].simpleDesc[abilityID=9410].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 4 Moc [Sinking] i 8 Licznika [Sinking] na wszystkich wrogów.",
+      "kr_sha256": "d28c3d735254156833c41598f89d24df29372e98339959729c439f04dc946477",
+      "en_sha256": "2fd190b36ce440aeda4e7a03d694f765915005e36e568b5c2be791bdceb9f357",
+      "origin": "ai"
+    },
+    "dataList[id=9413].desc": {
+      "pl": "— opis] Gdy sojusznik wygra starcie Umiejętnością nakładającą Moc [Laceration], Licznik [Laceration] lub 'Szczególne Krwawienie', nakłada 1~2 [NailPersonality].\n\nTożsamości Fanatyka Korporacji N: na początku tury zyskują 1 Fanatyzmu.",
+      "kr_sha256": "aef383167e2c4ccf3ac785e2252a661c40c167bd1307b32139fe81fa4f38f823",
+      "en_sha256": "6e10fe134d199c1758eed4f21f977c8035cf37c7be401138f6a4de390a1080c0",
+      "origin": "ai"
+    },
+    "dataList[id=9413].name": {
+      "pl": "— nazwa] Pisma Gwóźdź i Młot",
+      "kr_sha256": "b025cfaae50146dd892f8be987a4c9dddee43ea30d88d4bc55bbd285ee9b1dc4",
+      "en_sha256": "52e6c1e5989190062c3dc6e776863ff1741f57a84abfd283310deaffeedf4844",
+      "origin": "ai"
+    },
+    "dataList[id=9413].simpleDesc[abilityID=94131].simpleDesc": {
+      "pl": "— opis skrócony] Fanatyk Korporacji N: na początku tury zyskuje 1 Fanatyzmu.",
+      "kr_sha256": "92f71d38def60955f5bb86234db8a4284b355d4b6b4265a7da7654c7188efc2d",
+      "en_sha256": "ffe715c42c4cbb0ca9a6f5dd712e1f181e2a4cb2b126f90327439089cbce640c",
+      "origin": "ai"
+    },
+    "dataList[id=9413].simpleDesc[abilityID=9413].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1~2 [NailPersonality]",
+      "kr_sha256": "eef59a94b57ceafecc255e37fade6f799db6768d7943fba32d1625b75454088b",
+      "en_sha256": "605d5f567a6b19794548add72feac4a9535e4c2fd6834c4c5a348cb87f3597a6",
+      "origin": "ai"
+    },
+    "dataList[id=9414].desc": {
+      "pl": "— opis] Efekt dotyczy Tożsamości z Umiejętnościami ataku atrybutu Gniewu lub Żądzy.\n\nNa koniec tury, jeżeli jednostka nie otrzymała w tej turze obrażeń od Umiejętności ataku wroga, zyskuje w następnej turze 2 [Agility] i 2 [Endurance].\n\nNa koniec tury, jeżeli jednostka otrzymała w tej turze obrażenia od Umiejętności ataku wroga, zyskuje w następnej turze 2 [Binding] i Moc Starcia +2.",
+      "kr_sha256": "9ff5466be51ef5bcf78334feb9cb7082d2e4d129cfb215bd5f6320524639d7b8",
+      "en_sha256": "af65de160165b6f0e83f3cacd1181674bc9e739112c05c91458ba59c4b49b2c6",
+      "origin": "ai"
+    },
+    "dataList[id=9414].name": {
+      "pl": "— nazwa] Krwistoczerwona Grzywa",
+      "kr_sha256": "578da1d32665ceb8c78fda8f6ebed483a4bb80a136e11b47fa8f9ec0f5ede736",
+      "en_sha256": "9809c2258088a6998f8c83cce3ea45ff7c86a4b4d6e27a48b1b62f291d3c4c0f",
+      "origin": "ai"
+    },
+    "dataList[id=9414].simpleDesc[abilityID=94141].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje w następnej turze 2 [Binding] i Moc Starcia +2",
+      "kr_sha256": "cae875dea88eb0f2eb0547b2ad1405ffa150aa31318c6507506126110c76d4be",
+      "en_sha256": "85e69a226ab4e3a30a803410f59dafed977c01ddfc69625fcfa97ac5b321354e",
+      "origin": "ai"
+    },
+    "dataList[id=9414].simpleDesc[abilityID=9414].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje w następnej turze 2 [Agility] i 2 [Endurance]",
+      "kr_sha256": "f5744e8c87644a1cbb381f6855c2f9cc3a408dde93de15e24e694cb853232133",
+      "en_sha256": "26475e60c47e13fb105d0d7db268d56773ba84ff148f4d925ffd6be4d087cf8b",
+      "origin": "ai"
+    },
+    "dataList[id=9415].desc": {
+      "pl": "— opis] Gdy sojusznik atakuje Umiejętnością nakładającą Moc [Laceration], Licznik [Laceration] lub 'Szczególne Krwawienie' wroga w stanie [Laceration], zadaje +15% obrażeń celowi.\n\nJeżeli HP wroga wynosi 33% lub mniej, efekt jest wzmocniony i zadaje +25% obrażeń celowi.",
+      "kr_sha256": "75e9b64a4cd1ad601ca3f2cd316b2e8334416ed4b1597b29019686bbf24e6675",
+      "en_sha256": "56e77c82e7ce3edc22cbacfb6d5d2fdc5bdf89d4d37a8c308254d6cac67a5520",
+      "origin": "ai"
+    },
+    "dataList[id=9415].name": {
+      "pl": "— nazwa] Plugawość",
+      "kr_sha256": "81e78167457a85783f3cd387632a822be985cd5a6b533ea7cc8ee99e88d413cb",
+      "en_sha256": "c68fd1b00f570b66b60eb139a936c78cfec4914940a5688ed11c332cb7f4cefa",
+      "origin": "ai"
+    },
+    "dataList[id=9415].simpleDesc[abilityID=94151].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +25% obrażeń",
+      "kr_sha256": "ba7d00e783509f04b92fbcccdf9e80df45ce6a35aaaafdb6277b7578d2c18c8f",
+      "en_sha256": "852363ff218f39b7431d9599c5776467c0138c26c0724230a7526b6723cb2fb4",
+      "origin": "ai"
+    },
+    "dataList[id=9415].simpleDesc[abilityID=9415].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +15% obrażeń",
+      "kr_sha256": "24629e423340c495c1988571caa21039dca114b36d818235d7be4bd32938c58a",
+      "en_sha256": "d82901fffffa5ea355486511a2ea2d56c90c23026d189c0bb9ead355c3a5acd0",
+      "origin": "ai"
+    },
+    "dataList[id=9416].desc": {
+      "pl": "— opis] Gdy sojusznik wygra starcie Umiejętnością nakładającą Moc [Laceration], Licznik [Laceration] lub 'Szczególne Krwawienie', nakłada 2~3 [NailPersonality].\n\nTożsamości Fanatyka Korporacji N: zadają +25% obrażeń wrogom i zyskują na początku tury 1 Fanatyzmu. Jeżeli Poczytalność tej Tożsamości jest maksymalna lub w poprzedniej turze osiągnięto Rezonans Żądzy 3+, ta Tożsamość dodatkowo zyskuje 3 [AttackDmgUp].\n\nTożsamości Fanatyka Korporacji N: zyskują Moc Końcową +2, Moc Monet Plus +1, Moc Monet Minus -1, a Umiejętności ataku nakładają +1 [NailPersonality].\n\nTożsamości Fanatyka Korporacji N: zadają +50% obrażeń Podstawowymi Umiejętnościami wrogom <Mechaniczny Amalgamat>",
+      "kr_sha256": "1526f446f031827299e06d074f0346f7c8a91b54f9abc6ae37b6c800267c18af",
+      "en_sha256": "bb1286345ee81c409d537a038ed85a1b62adcf4e2dd1ee37529e757f22f16a01",
+      "origin": "ai"
+    },
+    "dataList[id=9416].name": {
+      "pl": "— nazwa] Pełnia",
+      "kr_sha256": "d31baa7f403e52c27cd70987c1565138bb489b436ecec00cc0d2b9ea94731ca7",
+      "en_sha256": "8fb3e63100ccc6a1f32aff58a1355f8f6568b22df23c4b3466e08231292ce29f",
+      "origin": "ai"
+    },
+    "dataList[id=9416].simpleDesc[abilityID=94161].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +25% obrażeń i zyskuje 1 Fanatyzmu. Przy spełnionych warunkach zyskuje 3 [AttackDmgUp]",
+      "kr_sha256": "504aa7380c5e2fa317867ac7ecec41befed1f36a8b0dfa8a92fc7dd919ff456a",
+      "en_sha256": "4c9ec8f895095591bda3acf66059c335ad668553c4daf32e489e54c230f71081",
+      "origin": "ai"
+    },
+    "dataList[id=9416].simpleDesc[abilityID=94162].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Końcową +2, Moc Monet Plus +1, Moc Monet Minus -1, Umiejętności ataku nakładają +1 [NailPersonality]",
+      "kr_sha256": "59011cb7141757383c7ff51b0cad7c272163db419c9187b6b9620bcd4648ba5d",
+      "en_sha256": "037d1c6e0eedc9b524b1dbf7720671550c70581e9101b6251d5328262fa4933d",
+      "origin": "ai"
+    },
+    "dataList[id=9416].simpleDesc[abilityID=94163].simpleDesc": {
+      "pl": "— opis skrócony] Podstawowe Umiejętności zadają +50% obrażeń",
+      "kr_sha256": "292d50e2a0d81bf9bf8452ecf76474380339f1b1502cb93edcef347dadb25eab",
+      "en_sha256": "fa1b9e1a9b973cb97dcceec45d4265a513f7c1fe4350424baab8ab4df9b46209",
+      "origin": "ai"
+    },
+    "dataList[id=9416].simpleDesc[abilityID=9416].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej w starciu nakłada 2~3 [NailPersonality]",
+      "kr_sha256": "beb241e7c7ece32f726b8fd3bf695a00d6cd80197a0790ba737e542716c6564b",
+      "en_sha256": "746ab67089479a94b92be42da020f37838e760f6abe22e24c53b508598066f13",
+      "origin": "ai"
+    },
+    "dataList[id=9419].desc": {
+      "pl": "— opis] Podczas tej potyczki efekt uruchamia się w następnej turze za każdym razem, gdy użyto zarówno Umiejętności 1, Umiejętności 2 i Umiejętności 3.\n\nNa początku tury zyskuje 1 [Agility] i 1 [SkillPowerUp] (kumuluje się do 3 razy).",
+      "kr_sha256": "f2997fd7ea3c0d04f1d15d8437c39428cb6065549f778ea3e36d194aecc2dbcd",
+      "en_sha256": "c6b976622cc7405985122ba4d60ab6ad4199bfacf5abbfe3167b8dc6f5c2fc68",
+      "origin": "ai"
+    },
+    "dataList[id=9419].name": {
+      "pl": "— nazwa] Gałązka Krzewu Pieprzowego",
+      "kr_sha256": "83e0657c8e0247a5e14bce1cc6c88c7e4829d30ba972a65d092dcb868041ec91",
+      "en_sha256": "48f26373c6eee3427661f810e5fbebdc877a8ab9e16905323b6be8a712facc06",
+      "origin": "ai"
+    },
+    "dataList[id=9419].simpleDesc[abilityID=9419].simpleDesc": {
+      "pl": "— opis skrócony] Na początku tury zyskuje 1 [Agility] i 1 [SkillPowerUp].",
+      "kr_sha256": "c9aaffd20f32eeb5870a3ba1d64c7018dc12875040eb0fba20bcfcc47a32518c",
+      "en_sha256": "527746c2be13d7e4341284a9ca1ab881268eadfa91629194add5e6cc4f0b2de1",
+      "origin": "ai"
+    },
+    "dataList[id=9420].desc": {
+      "pl": "— opis] Na początku tury, jeżeli istnieją inne Tożsamości tej samej frakcji, zyskuje [AttackUp] równy liczbie pozostałych Tożsamości tej samej frakcji (maks. 4).\n\nTożsamości Sojuszu Wyzwolenia Technologii zyskują Moc Starcia +1.",
+      "kr_sha256": "41deb8bf24cdcd0c1b2556397c11d92d8b08aa36296d56026739b31e5bb475cb",
+      "en_sha256": "a62722cbb3a138991ba7ad4a83ea19bf7dabf03a7bdc033dcde3e85cc1c15d3c",
+      "origin": "ai"
+    },
+    "dataList[id=9420].name": {
+      "pl": "— nazwa] Kalejdoskop",
+      "kr_sha256": "75ab5bf1edcb2e80f5b448ffc03ae20fa86ba7ba0246e546305ca29e1ebb8323",
+      "en_sha256": "fc2a9b86877028f146d1c63af5f8821d75dcbdc7dcfb934b75e276353683306a",
+      "origin": "ai"
+    },
+    "dataList[id=9420].simpleDesc[abilityID=94201].simpleDesc": {
+      "pl": "— opis skrócony] Moc Starcia +1",
+      "kr_sha256": "aead141ecfbed3ac2f0b7b26ebce09e09ff8d87ed087d9f68e6d28a2ef441653",
+      "en_sha256": "baaa4fc8c8714120770e182c094d5bfa33a360a4e789cba2e420e10168714feb",
+      "origin": "ai"
+    },
+    "dataList[id=9420].simpleDesc[abilityID=9420].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [AttackUp]",
+      "kr_sha256": "4c9c8a623a74c648f72c59f2a8095753dd84f9a129fd56145a8195083d3a9da5",
+      "en_sha256": "e5f09d6b92e123e9e729b26d07ce7abedf8460a08d65f52afbbf5561566c0f29",
+      "origin": "ai"
+    },
+    "dataList[id=9423].desc": {
+      "pl": "— opis] Gdy sojusznik prowadzi starcie z wrogiem szybszym niż on, zyskuje Moc Starcia +1.\n\nGdy sojusznik wygra starcie z wrogiem szybszym niż on, zyskuje w następnej turze 2 [AttackUp] (maks. 4).",
+      "kr_sha256": "8a86baf96b05b06753591d2a262cdd8d6202c124af5f7fd759e136d8a28b77d1",
+      "en_sha256": "101b01c05edd756d5d16684db9abd49edc6b095355997e946a38aeda5d8ad01b",
+      "origin": "ai"
+    },
+    "dataList[id=9423].name": {
+      "pl": "— nazwa] Zbite Okulary",
+      "kr_sha256": "6a41010e4e0a94f78454736967e0dca396f1f845351bce83601cd65e67bad114",
+      "en_sha256": "d5178eaaf6375890d73abc1aece0a2c9a44a042578681621c2a7473705bd4d7e",
+      "origin": "ai"
+    },
+    "dataList[id=9423].simpleDesc[abilityID=94231].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje w następnej turze 2 [AttackUp]",
+      "kr_sha256": "9691b702fd24f7ef8363059156b10f9131369f659745960653c44b42eda0bba7",
+      "en_sha256": "b1d9d16ec8e63654e952bf040377b5967f65b124e16c112c2c18e82d8cbf7683",
+      "origin": "ai"
+    },
+    "dataList[id=9423].simpleDesc[abilityID=9423].simpleDesc": {
+      "pl": "— opis skrócony] Moc Starcia +1",
+      "kr_sha256": "aead141ecfbed3ac2f0b7b26ebce09e09ff8d87ed087d9f68e6d28a2ef441653",
+      "en_sha256": "baaa4fc8c8714120770e182c094d5bfa33a360a4e789cba2e420e10168714feb",
+      "origin": "ai"
+    },
+    "dataList[id=9424].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #1 i #2]\n\nGdy wygra starcie Umiejętnością ataku nakładającą Moc [Burst] lub Licznik [Burst], nakłada 5 Moc [Burst] i 3 Licznika [Burst] na wroga (1 raz na turę na Tożsamość).\n\nGdy prowadzi starcie z wrogiem wolniejszym od siebie, zyskuje Moc Końcową +1 i zadaje +25% obrażeń.\n\nGdy wygra starcie z wrogiem mającym buff [AttackUp], zyskuje 3 [AttackUp] na następną turę, a wrogowi, który przegrał starcie, nakłada 3 [AttackDown] (do 3 razy na turę na Tożsamość)",
+      "kr_sha256": "e96db19da0716786ad914893c791497160d9a3cb75899eb470af61c9d8e6fd00",
+      "en_sha256": "1954b50658deaec733afc03585f2e329fe6421735d2b75daa62171e3ecb6c000",
+      "origin": "ai"
+    },
+    "dataList[id=9424].name": {
+      "pl": "— nazwa] Niewysłany List",
+      "kr_sha256": "4f0eba36f5326744f28909209bdf4a7c836206373be343ffba9b301ebc600d86",
+      "en_sha256": "6da44def80aa373662b153052b1b038df43307cde38b0e16e4595afadb169dd3",
+      "origin": "ai"
+    },
+    "dataList[id=9424].simpleDesc[abilityID=94241].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Końcową +1 i zadaje +25% obrażeń.",
+      "kr_sha256": "8c387015d08e761f01c00aedd1456a7ee0b386ea5bd03466e6dbd99cd4e2afee",
+      "en_sha256": "472bce66df1f19275b46ffe5b6d6a4acd3d0a96d081d780dfd089da6a0d5d704",
+      "origin": "ai"
+    },
+    "dataList[id=9424].simpleDesc[abilityID=94242].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 [AttackDown] na wroga, który przegrał starcie",
+      "kr_sha256": "ab0bd5164b0cca3ae40346fa2d9319492435fe6966146f36a6af35d150599d49",
+      "en_sha256": "458963e88a3497d3c06977b30f2e01486f88de08aff365741f2733b4cb2dc30b",
+      "origin": "ai"
+    },
+    "dataList[id=9424].simpleDesc[abilityID=9424].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej w starciu nakłada 5 Moc [Burst] i 3 Licznika [Burst] na wroga",
+      "kr_sha256": "8d0a29627d404b3c47027134133c43d335779d0572bbaa925ec261a1bbafac66",
+      "en_sha256": "b90fe7bf558e7d728c6d1515075e57960f2d4131c0f600bc3572a2304f88e966",
+      "origin": "ai"
+    },
+    "dataList[id=9429].desc": {
+      "pl": "— opis] Na koniec tury nakłada w następnej turze 2 [Agility], 2 [AttackUp] i 2 [AttackDmgUp] na sojusznika z najwyższą sumą Mocy [Breath] i Licznika [Breath].\n\nTożsamości Pequodu zyskują Maks. Szybkość +1.",
+      "kr_sha256": "151e8238bb48ef8e33e573fd647704b32a80b152689da1a7556a39057a85fcea",
+      "en_sha256": "670314cc1df929fd27ea0f0dce7ee039dedb126b988311772c581d138aa8db1f",
+      "origin": "ai"
+    },
+    "dataList[id=9429].name": {
+      "pl": "— nazwa] Harpunowa Proteza Nogi",
+      "kr_sha256": "dcae723f9a2f4b186a776dcd7de51783fc2b8661c4ef8c4da6f76f3301974db2",
+      "en_sha256": "76735016c561956959789f570c1263f6fa627e340af8d8035a3f3e28c1f52781",
+      "origin": "ai"
+    },
+    "dataList[id=9429].simpleDesc[abilityID=94291].simpleDesc": {
+      "pl": "— opis skrócony] Tożsamości Pequodu zyskują Maks. Szybkość +1.",
+      "kr_sha256": "c0f7f63b578a15e6fae362c17ccd7a183d271e5e939bdbed9ea0a65949a95248",
+      "en_sha256": "579532644f676cfac81c7a5823c302e5d4b948c68df93eb715badad8dd4b6979",
+      "origin": "ai"
+    },
+    "dataList[id=9429].simpleDesc[abilityID=9429].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze 2 [Agility], 2 [AttackUp] i 2 [AttackDmgUp]",
+      "kr_sha256": "af59fa77cb9b1eaf0b7c932af862602537495343091afb29213aa9cc5441bdb4",
+      "en_sha256": "3f352f8096297a2a26fbb6ef476b473ad67a85201c33a2a2fd82855e432a1e54",
+      "origin": "ai"
+    },
+    "dataList[id=9430].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali wszyscy sojusznicy zyskują 5 [Breath] i +5 Licznika [Breath].\n\nNa koniec tury 1 sojusznik z najwyższą sumą Mocy [Breath] i Licznika [Breath] zyskuje w następnej turze 2 [Agility], 3 [AttackUp] i 3 [AttackDmgUp].\n\nTożsamości Pequodu zyskują Moc Umiejętności +2 i Maks. Szybkość +2.",
+      "kr_sha256": "eaf0c414552ad4cb659483faa12e2366ebe5709941213c4a332a021695d3a9f4",
+      "en_sha256": "1a1f49bbc5a82fc22dd2029fdadbf3d09eff92ce08f39dcbadafa4ce06bbdb41",
+      "origin": "ai"
+    },
+    "dataList[id=9430].name": {
+      "pl": "— nazwa] Lampa Gazowa Wskazująca Drogę",
+      "kr_sha256": "626c211b57d6359f8b052ea21611e66531e41e81c3e8355126be608d41c6792c",
+      "en_sha256": "017b12653810e0fe32214d19901eb62e275bc0a73fda084709bde385a87561f0",
+      "origin": "ai"
+    },
+    "dataList[id=9430].simpleDesc[abilityID=94301].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze 2 [Agility], 3 [AttackUp] i 3 [AttackDmgUp].",
+      "kr_sha256": "051d811c2d7bba1d0e564391b57f0aa0788e0b935ae9527e6d36bf0711efb1ba",
+      "en_sha256": "48cf94a9442523dfbfe88ee71cdebd51c06d8805cba8a140204e6a77bd2e494a",
+      "origin": "ai"
+    },
+    "dataList[id=9430].simpleDesc[abilityID=94302].simpleDesc": {
+      "pl": "— opis skrócony] Moc Umiejętności +2, Maks. Szybkość +2.",
+      "kr_sha256": "f2645b97e30eddf5c04b15d9aa73529702fe557ad0a14337356b2c32ad59133d",
+      "en_sha256": "c30abbf27c8dbe68851082b736bea21de0921cdeb154f273326e5ba01722ec2e",
+      "origin": "ai"
+    },
+    "dataList[id=9430].simpleDesc[abilityID=9430].simpleDesc": {
+      "pl": "— opis skrócony] Wszyscy sojusznicy zyskują 5 [Breath] i +5 Licznika [Breath].",
+      "kr_sha256": "b574c38f06d79314b7e3d47c41df2223436b22a52acc62c37ccfc68f0595f217",
+      "en_sha256": "60f1d2c68a05c4a460d0de0e9ace5ebd834f79f0addd5008af9ef169fe43c84c",
+      "origin": "ai"
+    },
+    "dataList[id=9433].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali wybiera 1 wroga z najniższą Szybkością (w przypadku Anomalii — jedną losową Partię) i nakłada na niego 5 [Binding] przez 5 tur od następnej tury.\n\nPrzy wygranej w starciu, jeżeli Szybkość jest wyższa niż celu, odzyskuje Poczytalność równą różnicy Szybkości i zyskuje Poziom Ataku równy połowie tej różnicy (dotyczy tylko tej Umiejętności, Wzrost Poziomu Ataku maks. 3).",
+      "kr_sha256": "ae5b7a1a0a550fef9d61562484b9b4fe03a7903ad23e0c0fa2ccf9c0e19d9ed5",
+      "en_sha256": "6068f54be140d0a9f04a1d7f7ea22835cbfa7c769f709b917672c799102badbb",
+      "origin": "ai"
+    },
+    "dataList[id=9433].name": {
+      "pl": "— nazwa] Sekrety Kwatermistrza",
+      "kr_sha256": "adb8edd166f315ea22658b8f0fcf8698ae3edee8122842a68547c2e61168025f",
+      "en_sha256": "1ae31a678e055d3db370e13a60c6e83a346af254de3feaec558393c9d1aadd4d",
+      "origin": "ai"
+    },
+    "dataList[id=9433].simpleDesc[abilityID=94331].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje Poczytalność i zyskuje Poziom Ataku równy połowie tej wartości",
+      "kr_sha256": "308b2cc13f979f54c74b24cd7441151e2b544550a9a7942e6027ee1a01bb4445",
+      "en_sha256": "7b786c08b9239b8b9ae12935bc584d537a7e9ba8fd14d535f26ddad39c639a85",
+      "origin": "ai"
+    },
+    "dataList[id=9433].simpleDesc[abilityID=9433].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 5 [Binding] przez 5 tur od następnej tury",
+      "kr_sha256": "61cd7e1be4e4a16454db00b08bf5aaf55d56b5a0de68581e3dfd1a4ec5b1d0a5",
+      "en_sha256": "34992030ff8bb7d06b1a62b5e002bcc23b547dd93da0c0c7013c99d3902e85c9",
+      "origin": "ai"
+    },
+    "dataList[id=9434].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali wybiera 2 wrogów z najniższą Szybkością (w przypadku Anomalii — dwie losowe Partie; nie kumuluje się dla wrogów z jedną Partią) i od następnej tury nakłada na nich na początku tury 5 [Binding] i 3 [DefenseDown].\n\nGdy wróg dochodzi do siebie z Oszołomienia i nie ma już innych progów, dodaje nowy Próg Oszołomienia przy 66% bieżącego HP celu (3 razy na potyczkę). Gdy sojusznik oszołomi wroga Umiejętnością ataku nakładającą Moc [Vibration] lub Licznik [Vibration] (łącznie z celami skierowanymi na siebie lub sojuszników) (poza Umiejętnościami E.G.O), nakłada w następnej turze połowę Mocy [Vibration] celu, dzieląc ją między innych losowych wrogów (w przypadku Anomalii — Partie), a Moc [Vibration] oszołomionego celu rośnie 2 razy.",
+      "kr_sha256": "7fdd0af40cc740954d6e6e81562aa0efdf3aae8756ad3defc4bc7d92a270e1d3",
+      "en_sha256": "ea52ce506d1f6913521e85456c5b9d7fbf9818de37e90e2a39b724e9781c72a0",
+      "origin": "ai"
+    },
+    "dataList[id=9434].name": {
+      "pl": "— nazwa] Lusterko Kieszonkowe",
+      "kr_sha256": "2038e8e805cd4a5e630aba201fc1901bf21bd3337414cda68ecfa89a1a5558a6",
+      "en_sha256": "f5c36bdf0106036f073b8c6b04baadda5c133724e340f67fef2ad224ae6b8953",
+      "origin": "ai"
+    },
+    "dataList[id=9434].simpleDesc[abilityID=94331].simpleDesc": {
+      "pl": "— opis skrócony] Dodaje nowy Próg Oszołomienia przy 66% bieżącego HP celu",
+      "kr_sha256": "4c4b8cbf8aa2096e55a78a2fa0b578d2056e149a2bfbe05322f25e194aa8dc28",
+      "en_sha256": "5e50fac7ed877e518a1d8b4e13832971765a962ab333007e236d3b79e240d3fe",
+      "origin": "ai"
+    },
+    "dataList[id=9434].simpleDesc[abilityID=94332].simpleDesc": {
+      "pl": "— opis skrócony] Moc Wstrząsu oszołomionego celu rośnie 2 razy",
+      "kr_sha256": "789c4d1e17b450a03d03653c9cb7ba770fe850479bf9bb2d3d3bb7e75718b615",
+      "en_sha256": "d1729743bb648b1c03fe4232bfa7b753477f696d9e8a6d6f277ab74e60c33b48",
+      "origin": "ai"
+    },
+    "dataList[id=9434].simpleDesc[abilityID=9433].simpleDesc": {
+      "pl": "— opis skrócony] Na początku tury nakłada 5 Spętania i 3 Spadku Poziomu Obrony.",
+      "kr_sha256": "560f5bc8d7a961df906015ffee2898ed50cfc3970a31066cb26122d4b8727bdd",
+      "en_sha256": "f66d506529d24dcfebc1b16547a6ae7f0e188f27c5f6f3359090465628ad3572",
+      "origin": "ai"
+    }
+  }
+}

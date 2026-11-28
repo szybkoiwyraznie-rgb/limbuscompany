@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=daily_login_event_2_event_Title].content": {
+      "pl": "Specjalne wydarzenie listy obecności",
+      "kr_sha256": "83b78a47f511edb0864720070758a3a1260ca5836dc3e4700613977bd103cfc8",
+      "en_sha256": "9ca94699816b3bd642e61f53b49fc6c03966c0f7e95531e165369ea6e95941c2",
+      "origin": "ai"
+    },
+    "dataList[id=daily_login_event_2_event_description].content": {
+      "pl": "※ W okresie wydarzenia nagrody zależą\nod łącznej liczby dni logowania.\n\n※ Logowanie po dziennym resecie serwera\nuznawane jest za obecność danego dnia.\n\n※ Po zakończeniu wydarzenia nagrody\nnie będą już dostępne — odbierz je\nprzed końcem wydarzenia.",
+      "kr_sha256": "2ded8c7c6a6e68ade02256495b1d93ed189e15bf71e40a8d65b79e61880713f4",
+      "en_sha256": "c59f5ac764c21671365227ea29446d6ad7711df5a3c4f3f0a314cf0d6a192b68",
+      "origin": "ai"
+    },
+    "dataList[id=new_user_daily_login_day].content": {
+      "pl": "Dzień {0}",
+      "kr_sha256": "39b150d315980f0a1a2c21c4aceaffee26aedacfb3c9a165fa37b8eebdefecb0",
+      "en_sha256": "24e4ff69d09490c9c26c171210f8ed829022be8a21e15b780fcc93f0eef672bd",
+      "origin": "ai"
+    }
+  }
+}

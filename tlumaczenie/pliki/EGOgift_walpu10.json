@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=9292].desc": {
+      "pl": "Jeżeli w składzie są co najmniej 2 Tożsamości „Fixerów”, wywołuje następujący efekt dla 1 sojusznika Fixera z najpóźniejszym Przydziałem (nie licząc Rezerwy):\n- Przy pierwszym pojawieniu się w walce zyskuje [Emulation]\n\nNa początku tury: sojusznicy Fixerzy odzyskują 2 SP za każdych 2 Tożsamości Fixerów na polu\n\nJeżeli na polu są co najmniej 3 Tożsamości Fixerów tej samej frakcji, działa następujący efekt:\n- Podstawowe Umiejętności ataku sojuszników z [Emulation] zadają +(liczba sojuszników Fixerów na polu x 3)% obrażeń (maks. 15%)\n\nJeżeli na polu są co najmniej 3 Tożsamości Fixerów różnych frakcji, działa następujący efekt:\n- Gdy sojusznik z [Emulation] użyje Podstawowej Umiejętności ataku, zyskuje 1 [Enhancement] (2 razy na turę)\n- Gdy sojusznik z [Emulation] trafi Podstawową Umiejętnością ataku, nakłada 1 [Vulnerable] (2 razy na turę; w starciach skupionych liczone per Część)",
+      "kr_sha256": "3cf47dd4a55dfb97119fee05e3e44331cd416ec92b647db91c6e1adb4d569b8a",
+      "en_sha256": "fb03674e87c495deadadefa6392bd8c0a93a1f4c7ba3b0804fd65f0c7d61186f",
+      "origin": "ai"
+    },
+    "dataList[id=9292].name": {
+      "pl": "Model do Naśladowania",
+      "kr_sha256": "c5c4881b6c7b86413727adb074ae57dc9db451e8d042f44d30f5ce5408db1aa6",
+      "en_sha256": "c966d41da033b0aeb701b2003aa4c61033301b682dd1b3ae07bc9a36dc8e61ec",
+      "origin": "ai"
+    },
+    "dataList[id=9293].desc": {
+      "pl": "Umiejętności ataku dodatkowo wywołane przez Umiejętności z efektem [ComboSkill] lub przez efekty Umiejętności/Pasywek sojuszników zadają +10% obrażeń\n- Za każde wywołanie powyższego efektu +2% obrażeń dodatkowo (maks. 10%)\n- Przy użyciu Umiejętności z efektem [ComboSkill] zyskuje 1 [AttackDmgUp] (maks. 2 na Tożsamość)\n- Jeżeli sojusznik należy do frakcji <noparse>Biura Świtu</noparse> lub <noparse>Biura Klinów</noparse>, zyskuje 1 [Enhancement] (maks. 2 na Tożsamość)",
+      "kr_sha256": "706e23d52157bf3d48ac4e09209a9f5cb267433aa3e64b03f5abd936c23758b3",
+      "en_sha256": "6bdc10f928536994050e60b417084bb3a7b3e3291c7ac381ebbe1d4328e1bada",
+      "origin": "ai"
+    },
+    "dataList[id=9293].name": {
+      "pl": "Starannie Wybrane Zioła Lecznicze",
+      "kr_sha256": "2469af221a2b131f79a21a84bd5e1f90001e231a3ebd31f8b5b691ebe278c1d6",
+      "en_sha256": "7333c1fa112ca9d6e90ade17fb6fc250f8ac46be10e1e3904ab562a5aa9d7042",
+      "origin": "ai"
+    },
+    "dataList[id=9293].simpleDesc[abilityID=9293].simpleDesc": {
+      "pl": "<noparse>Zadaje więcej obrażeń</noparse>, zyskuje [AttackDmgUp]. Przy spełnionych warunkach zyskuje [Enhancement]",
+      "kr_sha256": "2b8b2820ae1b7baa257d8ebc1972b45c07e7816267bfa89260d1412e981a28ee",
+      "en_sha256": "9ed0ca839d764a6f7f78b0bb87d382459fb2121a5807bba1496f3b83d8417e98",
+      "origin": "ai"
+    },
+    "dataList[id=9294].desc": {
+      "pl": "Początek walki: nakłada [CursedBlessing] na 1 losowego sojusznika\nJeżeli Tożsamość z [CursedBlessing] przeżyje 6 wygranych walk, ten Dar E.G.O się zmienia (Duma Rycerza)\n{0}",
+      "kr_sha256": "77c1ebe81b3f9b64e361f2f9df4bc90afd873c007e995d9164995720f97aac82",
+      "en_sha256": "446fdb74169d604456762f365172740cb4b227ae2fc2faaa3e921062412274be",
+      "origin": "ai"
+    },
+    "dataList[id=9294].name": {
+      "pl": "Pusta Duma",
+      "kr_sha256": "b255804ceab004547ec0a1205acbcafc50291f3c2c91b36e52963258e47c1454",
+      "en_sha256": "ed791c7805c5d261510f1970340c8d7cd2f9644d626aae0f59ba19d7628e4404",
+      "origin": "ai"
+    },
+    "dataList[id=9294].simpleDesc[abilityID=9294].simpleDesc": {
+      "pl": "Nakłada [CursedBlessing]",
+      "kr_sha256": "ad50918f1ceb9f8660a49ee8f5aee2c107a74dbaa38c53dcf4abbd61f4d4f5dc",
+      "en_sha256": "4cb734661c1d17c5f7574eb6f00d85b2e5be4d6343b6e749bc14754b2f6fc28d",
+      "origin": "ai"
+    },
+    "dataList[id=9295].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #1]\nUsuwa wszystkie Progi Oszołomienia. Początek walki: nakłada [BeyondDespair].",
+      "kr_sha256": "4c1ddda1ea99a7824fb15c8cce8ad9c1177ecd9a87413f8b690a59bcc6178935",
+      "en_sha256": "720e4fae5623a64b77e8e46fe9d254cbcd3bdbe4e8812d72224d5f7a2b2c9db5",
+      "origin": "ai"
+    },
+    "dataList[id=9295].name": {
+      "pl": "Duma Rycerza",
+      "kr_sha256": "782fc451c331aaabfc05bd900718a30ed1beb624a1b2490b784349a237c5017f",
+      "en_sha256": "656d92bdeea1645491eebdc2c5f0bc750bfe8285551919808911cf17a7035a06",
+      "origin": "ai"
+    },
+    "dataList[id=9295].simpleDesc[abilityID=9295].simpleDesc": {
+      "pl": "Nakłada [BeyondDespair]",
+      "kr_sha256": "55f144dcfb773c0279f2f4d2a2c7b988a4d27d76824939b1a7d2e385451cf4e8",
+      "en_sha256": "c6b152527004fca2ddc4718975a2d866fb42e39e745a190760e8c883e8d134bf",
+      "origin": "ai"
+    },
+    "dataList[id=9296].desc": {
+      "pl": "Podstawowe Umiejętności Kłucia nakładające Siłę, Licznik lub Szczególne [Sinking] zyskują +1 do Mocy Końcowej\n\nGdy sojusznik trafi Umiejętnością, a cel ma SP ≤ -20, zadaje celowi obrażenia Posępności równe Sile [Sinking] celu (1 raz na Umiejętność)\n- Jeżeli to była Umiejętność Kłucia, zadaje dodatkowe stałe obrażenia równe (Licznik [Sinking] celu / 2) (1 raz na Umiejętność)\n\n[Lobotomy E.G.O::<noparse>The Sword Sharpened with Tears</noparse> — Efekt wyłącznie dla Rodion]\nGdy ostatnia Moneta Podstawowej Umiejętności zużywającej [BlackTearsAlly] i mającej Wagę Ataku 1 trafi wroga, zadaje wszystkim wrogom obrażenia Pychy równe (zużyte [BlackTearsAlly])% obrażeń końcowych\n\n[<noparse>The Sword Sharpened with Tears</noparse> — Efekt wyłącznie dla Umiejętności E.G.O Hong Lu]\nUmiejętność E.G.O zyskuje +1 do Mocy Końcowej",
+      "kr_sha256": "14bcdab3b3051cfa6839b4c7be2cbfc781781d22cb4a0c75e183cb655730d9a8",
+      "en_sha256": "2a676b75f6bf6b568880dc03065be0f414dc00bb85b9a8ca2c2f920635ce1b1a",
+      "origin": "ai"
+    },
+    "dataList[id=9296].name": {
+      "pl": "Miecz Przesiąknięty Żałobą",
+      "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
+      "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
+      "origin": "ai"
+    },
+    "dataList[id=9296].simpleDesc[abilityID=9296].simpleDesc": {
+      "pl": "Umiejętności zyskują Moc Końcową, zadają obrażenia Posępności; przy niskim SP celu dodatkowe stałe obrażenia",
+      "kr_sha256": "f0e9cad100fc79adda8b644ecf95784aae9d9d5614020fbbafb5f1929d6061fb",
+      "en_sha256": "8358c7fa619b8f094369c08b0e583caafd8fa435470fd6d23506e587f7dad9d0",
+      "origin": "ai"
+    },
+    "dataList[id=9297].desc": {
+      "pl": "Wywołuje na początku tury, gdy jest co najmniej 3 Tożsamości frakcji <noparse>Biura Klinów</noparse> (licząc Tożsamości w Rezerwie)\n\n[<noparse>Biuro Klinów</noparse> — Efekt wyłącznie dla Rep Outis]\n- Na początku tury, gdy warunek powyżej zostanie spełniony po raz pierwszy, zyskuje 20 [ComboWedge]\n- Przy użyciu „Przyjęcia Szyku Klina”, „...Wszystkie jednostki, gotowość do szarży.” lub „Klin Przebijający za Świtem” następna tura zyskuje 1 [ComboWedgeDawn] (2 razy na turę)\n- Jeżeli użyto „Przyjęcia Szyku Klina”, na początku następnej tury odzyskuje połowę [ComboWedge] zużytego przez tę Umiejętność (1 raz na turę, zaokrąglenie w dół)",
+      "kr_sha256": "ecc19b8007816dff878c2dd9d570fb1ae62309db8564eba9a79c818cf97e4e70",
+      "en_sha256": "f97827d8bd769396409444587ccd947048e1f8ae14a460c199b3c8c65d7a6ca4",
+      "origin": "ai"
+    },
+    "dataList[id=9297].name": {
+      "pl": "Biały Krawat",
+      "kr_sha256": "42dbff121140ac8c80e91cb47dd68f08cace1061533f6ec34735b3e8930e7de2",
+      "en_sha256": "c09dcf159e5ef77975701b33c0c64f40ec2bebb57f8d964ad0b29c12c34503b5",
+      "origin": "ai"
+    },
+    "dataList[id=9297].simpleDesc[abilityID=9297].simpleDesc": {
+      "pl": "Zyskuje [ComboWedge] lub [ComboWedgeDawn]",
+      "kr_sha256": "6b1a8fc968ca3c8cfe00cc68485a76ca4cd8907a4f93d3158654bbd5ffe8e8e4",
+      "en_sha256": "d48d6f3bff95ada0abf3b7318c923c41c4bd0dbbe3f1092ddd1288ed2bdcf632",
+      "origin": "ai"
+    },
+    "dataList[id=9298].desc": {
+      "pl": "W Starciu: nakłada 2 [Vibration] na wroga za każde Starcie (3 razy na Umiejętność)\n\nGdy Podstawowa Umiejętność ataku sojusznika trafi krytycznie wroga, a główny cel posiada [Vibration], wywołuje [VibrationExplosion] i zmniejsza Licznik [Vibration] celu o 1 (1 raz na Umiejętność)\n- Jeżeli wróg jest w stanie [Switch_Vibration], zadaje +10% obrażeń krytycznych\n- Jeżeli wróg jest w stanie [VibrationNesting], +5% obrażeń krytycznych dodatkowo za każdy <noparse>superponowany</noparse> stan [Vibration] (maks. 25%)",
+      "kr_sha256": "544a81fc89292e0ca96984a2287f8790d83647b262c04ea9c878d26b6cfebbb4",
+      "en_sha256": "979e757e7cb7802e46b3ce8822480391e5622521216401f223b5d12656c1f64c",
+      "origin": "ai"
+    },
+    "dataList[id=9298].name": {
+      "pl": "Czarny Tricorne",
+      "kr_sha256": "157d2d7104408f8a169eb3085b3f75a2a4782ab2a00e506e2d5da6886c2ced32",
+      "en_sha256": "a4ab3a8466a9f5a60b3cc07c965359278357e290951bd2acf6c4f7e8b8ea043e",
+      "origin": "ai"
+    },
+    "dataList[id=9298].simpleDesc[abilityID=9298].simpleDesc": {
+      "pl": "W Starciu nakłada Wstrząs\nWywołuje Wyładowanie Wstrząsu przy spełnionych warunkach; Umiejętności zadają więcej obrażeń krytycznych",
+      "kr_sha256": "8913c1a68397994037adcb51d3a638405f10eca6662e504b7c4d186d7657dfeb",
+      "en_sha256": "b5aa9f2ae031a5b332d942e3b86d3dfd4fe0ae2d168e60bb8eabdfaba3222121",
+      "origin": "ai"
+    },
+    "dataList[id=9299].desc": {
+      "pl": "Wywołując [VibrationExplosion] na wrogach posiadających [VibrationCollapse], zadaje każdemu celowi obrażenia Lenistwa równe (procent obniżenia Poziomu Obrony każdego celu)% zadanych mu obrażeń (maks. 15%)",
+      "kr_sha256": "eb54f4e1390934e7a3eb6e50497aa7dd7f1becab4d6ddf302440def1388001b0",
+      "en_sha256": "5061206b32140817e380b64199185cf202cc17bd41f7bb071f924e571d846dd2",
+      "origin": "ai"
+    },
+    "dataList[id=9299].name": {
+      "pl": "Urządzenie Przystosowujące Ciało Zapasowe",
+      "kr_sha256": "2e81927d3e87ab9337d099b683dcaeba91b6c98ad15ad8d39c78a67bd1d59ba0",
+      "en_sha256": "a374719e0f7e9202d2d672f7003e8bec15b797ccde653d3a794688eaa9fdc80d",
+      "origin": "ai"
+    },
+    "dataList[id=9299].simpleDesc[abilityID=9299].simpleDesc": {
+      "pl": "Obrażenia Lenistwa",
+      "kr_sha256": "bc092f958063e1a89f68b6d44cf74ebdf4d8e119837249aeb66be75efafbf844",
+      "en_sha256": "6c19822668f734ff94d6b59c1ae5398e96be227b8264174c7363efd333baaffb",
+      "origin": "ai"
+    },
+    "dataList[id=9300].desc": {
+      "pl": "Przy trafieniu krytycznym Podstawową Umiejętnością ataku Kłucia nakłada na cel [EmbeddedSpearhead] na koniec ataku (1 raz na turę na Tożsamość; w starciach skupionych liczone per Część)",
+      "kr_sha256": "dd147b0153aa4016377163b26a9203ef53cec4db5c41735469049f14883484a9",
+      "en_sha256": "cf26dfe58541dc8f647a99cb7acfde200840d823fb7a23cef61d4da60c3b2714",
+      "origin": "ai"
+    },
+    "dataList[id=9300].name": {
+      "pl": "Złamany Grot",
+      "kr_sha256": "e092d33143f86b59c3bf87591fd4994e4ce795dea557ee92388fe6206c2278b7",
+      "en_sha256": "48b224286334028fa359e631c864c8a93707b2627028fc09c7e00890b88e6041",
+      "origin": "ai"
+    },
+    "dataList[id=9300].simpleDesc[abilityID=9300].simpleDesc": {
+      "pl": "Nakłada [EmbeddedSpearhead]",
+      "kr_sha256": "e42bb77982d35da6c52e60899ef1cdfd759ed7ec2b91f5135fb14da4a7083527",
+      "en_sha256": "845f656b739c376d83596309c04aa01c6a62ae47db18593c834af673789d18d7",
+      "origin": "ai"
+    }
+  }
+}

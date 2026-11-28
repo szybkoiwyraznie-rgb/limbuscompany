@@ -1,0 +1,99 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Kontenery z gładkiego plastiku w rozmaitych kolorach.",
+      "kr_sha256": "04d9effa7f686145ffb0e2b54c3903bb96257510b718ef1a279f18da3337e910",
+      "en_sha256": "448cc9eca12dde2236f3b6daead2f4185d8f3436e0fc86169920ef69906d1239"
+    },
+    "dataList[id=10].content": {
+      "pl": "Ale zabawa!!!",
+      "kr_sha256": "b73766decc1a83425098093e34e96daac36757d7b519609829170a0ad07c150d",
+      "en_sha256": "c4f2e6a595d7ee7449b7b742f9c0e4b91ff45358a0dba1b4eb5053e7e51af5af"
+    },
+    "dataList[id=11].content": {
+      "pl": "Gra w śmierć!",
+      "kr_sha256": "e5486de484cadd94f00d5cd2929d5068c19362b2840615a842d65f080f46ef17",
+      "en_sha256": "72fe52bdd8fb46dca26d721bb34376cf9fc3ef794581dbcd8fc0d52d7f00ef6c"
+    },
+    "dataList[id=12].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=13].content": {
+      "pl": "Mierć.",
+      "kr_sha256": "b370a28b7f8c070c83ed41ee643f82fdbf225ebbcb1bdbd051f74eed0cdaddea",
+      "en_sha256": "b6ecdc9b808d2eab2063f3efd55a054cd05227e6e0a14b5998aff4694fdb7aac"
+    },
+    "dataList[id=14].content": {
+      "pl": "Mierć!!",
+      "kr_sha256": "dfab086a1c8dda2cf1c0177dcdfbd751fe9f943a1a1c0595d2c69cd675693501",
+      "en_sha256": "d833f83e3461174f24995253fb02dcf3c389b4446c1d30f699dadc1ec6cdde86"
+    },
+    "dataList[id=15].content": {
+      "pl": "Mierć!!!! Mierć!!!! Mierć!!!!",
+      "kr_sha256": "539ae4574163cbd05b591519cc13e69ca7cab43a38d766075c89a56ec0ac82f0",
+      "en_sha256": "c85100499a93f5d39934a645d095f189aa4f97bb231600cc7e3f2226508d0ee7"
+    },
+    "dataList[id=16].content": {
+      "pl": "Hm… wygląda na to, że od tego odcinka zabrano się do kopania tuneli na dobre.",
+      "kr_sha256": "a5233ae39f96cfef37e1c0985e3331ca70bdb1fdd97dcf82c12ff15369a4693e",
+      "en_sha256": "6ca7dff67ff3c536c5cbfd3ff49cd642f24dd847b6411d42c844ea257655c604"
+    },
+    "dataList[id=17].content": {
+      "pl": "Inaczej nikt nie produkowałby masowo wzmocnionych ludzi…",
+      "kr_sha256": "4b4a810b1883b1bf8b81db2cc233cba0c705aa1151e196db52fc2095398da5a4",
+      "en_sha256": "dbeefe48b27cef69eacae9254fdfac10fa84f3eee1a01c63e748811762cd1508"
+    },
+    "dataList[id=18].content": {
+      "pl": "<Dobra, rozumiem, ale uciekajmy! One śpiewały i pokazywały prosto na nas!>",
+      "kr_sha256": "47ae74e7be8de5ce3b2edc5fcdd5e9208bfc15df696156679ce32be6e5d3eb7c",
+      "en_sha256": "0cab09742f7675137245967ce5da0125341a645ac679feb841886fd14ad71329"
+    },
+    "dataList[id=1].content": {
+      "pl": "Zbyt wiele tu obcych materiałów, by uznać to za zwykły zakład produkcyjny.",
+      "kr_sha256": "50344a53271da5d579818584cfbbe432a8550014128fbcb97caf6877cb51571f",
+      "en_sha256": "0fbecef94bf439abf8ef2c54bcb0cd3c35792beb16a81325c7e60b5bb8fb3901"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ledwie Meursault skończył mówić, złowieszczo pstrokate kontenery ruszyły z wesołą piosenką.",
+      "kr_sha256": "d2aa57913607fd60df6c033e0e226578a595900f4a3ffdd2e3bdd8c5889d2da1",
+      "en_sha256": "a4d0439f0c081e18986afdce83f34d7b218780672d7365dfbeb8bd3623c3b278"
+    },
+    "dataList[id=3].content": {
+      "pl": "Mam złe przeczucia…",
+      "kr_sha256": "9a26d46f6e43a00157fe894bfd8f0921dfab743618a57d10fc18178cbe312221",
+      "en_sha256": "1aee43692dfeb85e68c18f7c965acf5993a04c790bc2deb9080954165bdbd3c5"
+    },
+    "dataList[id=4].content": {
+      "pl": "Czemu od poziomu -2 nie widać żadnych strażników?",
+      "kr_sha256": "0cd4fd756198718212291838770efb5112347abef9f46a7b01c9587b161ea071",
+      "en_sha256": "787097f044f6a460b895f4f1bdc5ea659ea43875bc0da2f4d2661c6c3503ce8e"
+    },
+    "dataList[id=5].content": {
+      "pl": "Zanim ktokolwiek zdążył powiedzieć ‘cóż…’, poznaliśmy odpowiedź.",
+      "kr_sha256": "1b72172ab2dfec729f51aa3494282c5a7744607d7b81bdd91f2a20bcf0c98d9e",
+      "en_sha256": "4e917fc3857f50c8a7a0cfae965418659f7316367c7c53728450d509fda2166c"
+    },
+    "dataList[id=6].content": {
+      "pl": "Kontenery skończyły pracę, drzwi się otworzyły, a w środku…",
+      "kr_sha256": "69ad4fe400ff6d62a37d7efae83d1c5d900462c3d13725d68e28e05b11eeece0",
+      "en_sha256": "2c5b1b8cec7357d5158dcbd848fc5448b895a0df1fcac3f3cfdaeb6d6c55c9d0"
+    },
+    "dataList[id=7].content": {
+      "pl": "A. A.",
+      "kr_sha256": "05417b4556aadccd6c7a9df7ad58a053d572d1e782f791d1c73243cb67309905",
+      "en_sha256": "72c3ec52495f8935eed370521ce323cfd358214302cf040dbfc650eee3064491"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ale frajda!!!",
+      "kr_sha256": "227e6568169d163a33507c5b96ff1f76ab040a8bfb486084492bb080ef90390b",
+      "en_sha256": "bb3dd3c24897b071f55ae4a9d513976538a3245108315145727803baca1e8772"
+    },
+    "dataList[id=9].content": {
+      "pl": "A~",
+      "kr_sha256": "077dad7068a6716bb1173118c0d0b15b85180fca5e7e047c34bb4457655d73de",
+      "en_sha256": "bd26e344f436f70008f5aa681a27b082a7bc98e4c7e57099d8af4bcfda7cbaa7"
+    }
+  }
+}

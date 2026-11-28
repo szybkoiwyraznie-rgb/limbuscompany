@@ -1,0 +1,96 @@
+7376||PersonVoice#Voice_Donquixote_Cinq_10305.json] 부장이라고 해서 다른 협회원들과 다를 바는 없지 않겠나! 실제로! 본인은 그들을 부하라고 부르지도 않지.\n나는 그저, 그들보다 조금 더 많은 경험을 가졌을 뿐이네. 또 모르지 않는가? 새로 들어온 신입이 어떤 결투에서는 나보다 뛰어날지!|The station of a Director is no different from that of mine associates! In truth, I do not call them my subordinates, even.\nI have but a meager merit in experience, no more. Besides, perchance we may have a newcomer who surpasses my skill in combat!
+7378||PersonVoice#Voice_Donquixote_LCB_10301.json] 관리자 나리, 힘들겠지만 부탁하오!|Manager Esquire, I am counting on you to regain our ground!
+7379||PersonVoice#Voice_Donquixote_LCB_10301.json] 앗!|Ay!
+7380||PersonVoice#Voice_Donquixote_LCB_10301.json] 음음! 정의는 반드시 승리하는 법!|Insooth! Justice always prevails!
+7381||PersonVoice#Voice_Donquixote_LCB_10301.json] 역시 본인은 위대한 해결사가 될 자질이 있소!!!! 음하하하하!!!!|I knew a great Fixer slumbered within me!!!! Mwahahahaha!!!!
+7382||PersonVoice#Voice_Donquixote_LCB_10301.json] 크윽… 대가를… 치루게… 될 것이오…|Keugh… They shall… pay… for this…
+7383||PersonVoice#Voice_Donquixote_LCB_10301.json] 출진이다!|To arms!
+7384||PersonVoice#Voice_Donquixote_LCB_10301.json] 생각대로 되었소!|Just as I foresaw!
+7385||PersonVoice#Voice_Donquixote_LCB_10301.json] 승리했소!|A triumph!
+7386||PersonVoice#Voice_Donquixote_LCB_10301.json] 나를 지켜보고 있었군!|Thine eyes were upon me!
+7387||PersonVoice#Voice_Donquixote_LCB_10301.json] 내가 나설 차례인가!|‘Tis my time to shine!
+7388||PersonVoice#Voice_Donquixote_LCB_10301.json] 굳이 자만하지 않겠소! 역사엔 틀림없이 기록될 테니까!|I shan’t bask in glory! I know history will remember this deed, after all!
+7389||PersonVoice#Voice_Donquixote_LCB_10301.json] 달리자! 로시난테!|Onward, Rocinante!
+7390||PersonVoice#Voice_Donquixote_LCB_10301.json] 이 몸의 차례인가? 나는, 돈키호테일세!|Hath my time come? I am Don Quixote!
+7391||PersonVoice#Voice_Donquixote_LCB_10301.json] 하암… 관리자 나리는 참 부지런한 것 같소. 어떻게 이 시간에 눈이 팍 떠진단 말이오…?|Yaaawn… You must be one diligent laborer, Manager Esquire. How on earth do you manage to rouse yourself at this hour…?
+7392||PersonVoice#Voice_Donquixote_LCB_10301.json] 오늘따라 별이 밝소. 관리자 나리께서도 별이 보이오?|The stars shine bright tonight. Doth you see them as well, Manager Esquire?
+7393||PersonVoice#Voice_Donquixote_LCB_10301.json] 점심밥은 무엇을 먹을 생각이오? 나는 로쟈씨가 근사한 식당을 알아봤다 해서 엄청나게 기대 중이오.|What plans doth you have for a luncheon today? I, for one, eagerly anticipate Señorita Rodya’s choice of “fancy diner”.
+7394||PersonVoice#Voice_Donquixote_LCB_10301.json] 관리자 나리!!!!! 나를 두고 어디 간 것이오!!!!!!!!!!!|Manager Esquire!!!!! To where in the world hast thou disappeared!!!!!!!!!!!
+7395||PersonVoice#Voice_Donquixote_LCB_10301.json] 관리자 나리, 이것좀 구경하시겠소? 내 보물들이오, 흐흐… 한정판인데 어렵게 구했소!|Manager Esquire, would you lend an eye to these? ‘Tis my trove of treasures, hehe… Some are limited editions which I fought valiantly to lay claim upon!
+7396||PersonVoice#Voice_Donquixote_LCB_10301.json] 언제나 세상의 정의를 위해 달려 나가는 저 해결사들을 보시오! 너무나 반짝거리지 않소?|My, cast your gaze upon those Fixers, sprinting forth to bring about justice! Dazzling, are they not?
+7397||PersonVoice#Voice_Donquixote_LCB_10301.json] 관리자 나리는 제일 좋아하는 해결사가 누구시오? 배지 나눠드릴 테니 옷에 붙이고 다니시는 게 어떠오?|Pray tell, what Fixer is your favorite, Manager Esquire? Would you fancy a pin in their celebration to decorate your attire?
+7398||PersonVoice#Voice_Donquixote_LEGO_10307.json] 잠시, 망설인 것 뿐일세.|... 'Twas but a moment of hesitation.
+7399||PersonVoice#Voice_Donquixote_LEGO_10307.json] 오늘도, 멋지게 발광하지 않았는가?|Have I not flashed so radiantly today?!
+7400||PersonVoice#Voice_Donquixote_LEGO_10307.json] 역시, 깔끔하게 삼켜버리지 않았나! 호드님에게 칭찬이라도 받으면 좋겠소!!!|Thus I have gobbled them up without a trace! I hope Miss Hod finds it within herself to compliment mine achievements!
+7401||PersonVoice#Voice_Donquixote_LEGO_10307.json] 본인은… 늘 빛나고 있었는가…|So I have always... shone so brightly...
+7402||PersonVoice#Voice_Donquixote_LEGO_10307.json] 이 이빨들에게 씹히는 건… 어째, 본인이었나 보오.|Fie, I was the one to be gobbled up by these very fangs...
+7403||PersonVoice#Voice_Donquixote_LEGO_10307.json] 잘근잘근 씹어버리겠네!|I shall chew thee to shreds!
+7404||PersonVoice#Voice_Donquixote_LEGO_10307.json] 곧 삼켜질 것이오, 기다리시게!|Just thee wait! Thou shall be devoured whole posthaste!
+7405||PersonVoice#Voice_Donquixote_LEGO_10307.json] 잘근잘근.|Om nom.
+7406||PersonVoice#Voice_Donquixote_LEGO_10307.json] 또 제압할 것이 있는가?|Is there aught else to suppress?!
+7407||PersonVoice#Voice_Donquixote_LEGO_10307.json] 발광할 시간인가!|Ah, my time to flash has come once again!
+7408||PersonVoice#Voice_Donquixote_LEGO_10307.json] 답은… 보이지 않았네.|The answer... yet remains out of sight.
+7409||PersonVoice#Voice_Donquixote_LEGO_10307.json] 역시 초롱을 따라가면 답이 보이지 않겠는가!|Ah... to follow the Lantern is to walk the path of answers!
+7410||PersonVoice#Voice_Donquixote_LEGO_10307.json] 나! 훌륭한 미끼 될 수 있소!|I! Can be quite the excellent bait, if I do say so myself!
+7411||PersonVoice#Voice_Donquixote_LEGO_10307.json] 흥을 주체할 수가 없네, 나리!!! 오늘 이 몸이 더 제압할 악당들은 없는 것인가?|I cannot contain my joy Manager Esquire!!! Prithee, bring forth more villains for me to thrash!
+7412||PersonVoice#Voice_Donquixote_LEGO_10307.json] 이렇게 영롱하게 빛나는 초롱을 본 적 있는가? 이 몸과 있으면 어둠이 우리를 피해 도망다닐 것이네!|Have thee ever beheld a Lantern so grossly incandescent? Remain at my side, and darkness shall never consume us!
+7413||PersonVoice#Voice_Donquixote_LEGO_10307.json] 오늘도 에너지를 모아보겠네! 지금은 조용한 이 복도에도, 곧 무슨 일이 벌어질지 무척이나 기대가 되지 않는가?|Today is another day! Thus I shall toil to gather more energy. Dost thou not find thyself growing delighted at the notion of numerous happenings in this hallway today?
+7414||PersonVoice#Voice_Donquixote_LEGO_10307.json] 이 시간이야말로 초롱이 빛나기에 제일 탁월한 시간 아니겠나.|Verily, is this not the time for the Lantern to shine?
+7415||PersonVoice#Voice_Donquixote_LEGO_10307.json] 점심 시간이오, 본인은 그다지 배가 고프진 않지만… 이 조그만 이빨 친구들이 계속해서 들썩거리고 있군, 후후.|'Tis time for a midday meal. I am far from famished... alas, these little teeth fellows are chattering expectantly. Heh heh.
+7416||PersonVoice#Voice_Donquixote_LEGO_10307.json] 나리, 어디 계시는가? 이러다 숨어버린 나리를 초롱이 먼저 발견해서 물어버리면 어떡하려고!|To where hast thou gone, Manager Esquire?! Thou mustn't let the Lantern ambush and nibble thee!
+7417||PersonVoice#Voice_Donquixote_LEGO_10307.json] 관리자 나리, 이것 좀 보시게! 복도 한가운데에 이렇게 예쁜 꽃이 피어있는게 너무 신기하지 않은가? 이렇게 만지니까 막 움직이고… 움찔거리고…|Come hither and behold, Manager Esquire! Is it not so fascinating to see such a beaut of a flower in the middle of a hallway? Lo! If I poke it so, it fidgets and twitches...
+7418||PersonVoice#Voice_Donquixote_LEGO_10307.json] 방금!!! 환상체의 탈출을 알리는 경보음이 들리지 않았는가? 빨리 빨리, 비켜 보시게, 이 몸이 나설 차례이니!|FIE!!! Didst thou not hear the siren indicating that an Abnormality is on the loose? Make haste, make haste! Make way! 'Tis my chance to shine!
+7419||PersonVoice#Voice_Donquixote_LEGO_10307.json] 이 털옷은 참 따뜻하오. 아 그렇다고 너무 쓰다듬으면 관리자 나리의 손가락, 한두 개 정도 없어질 수 있으니 조심하시는 게 좋을 것이오…!|Quite warm it is, this furry garb! Ah, take care not to pet it too much. It may nibble thy finger off. Or fingers...!
+7420||PersonVoice#Voice_Donquixote_LEGO_10307.json] 오티스 나리가 <color=#325339>(팀장이라 해야지!)</color> 에흠, 말해준 것이 있네만… 본인은 미끼 역할을 하는 것에 탁월한 재능이 있는 것 같소! 그러니까 위험한 일이 생기면 곧바로 내 뒤에 숨으시게나.|Lady Outis <color=#325339>(It's Captain Outis!)</color> has, ahem, shared aught with me... That I may be quite adept at playing the role of a 'bait'! Quickly hide behind me at the first sign of danger, thou must!
+7421||PersonVoice#Voice_Donquixote_LEGO_10307.json] 이 초롱을 가만히 보고 있으면 말이오, 마음이 참 따땃해지고 좋은 일만 생길 것 같지 않은가?\n비록 이곳이 좋은 일만 생길 리는 없는 곳이라고는 하지만…|Behold this Lantern for a while. Dost thou not feel the warm heart and good fortune rumbling within thyself?\nEven at a place such as this where good fortune seems so ill-available...
+7422||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 아닛…|No...!
+7423||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 마지막까지 잘 갚아줬군! 오늘 저녁에 자랑할 거리가 늘었어!|Thus this Vengeance hath been carried out to the end! There is more to boast this evening!
+7424||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 어디보자…  그래! 장부의 이쪽 줄을 지우면 되겠군. 본인도 이번에 한몫했으니, 작은 형님께서 흡족해 하시겠어!|Let's see... Indeed! This entire row may be crossed out. The Big Brother must be pleased, for I have played a significant part in this quest!
+7425||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 여기서… 끝나다니… 하지만, 중지는 기억할 거다…|To end here... is... No. The Middle... will remember...
+7426||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 중지는 기억하고.. 기록해서… 되갚는다는 것을 잊지 말게나.|Lest you forget... The Middle remembers... The Middle records... And Vengeance shall rain down upon thee tenfold.
+7427||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 하하! 가세!|Ha ha! Charge!
+7428||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 정신 차리게, 장부에 따르면 맨정신에 죽여야 하니까.|Steel thyself! The Book demands that thy death be carried out in clear mind.
+7429||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 이걸로 되갚았군.|Vengeance hath been executed.
+7430||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 아! 작은 형님께서 부르셨나?|Ah! Hath the Big Brother summoned me?
+7431||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 본인이 나서지!|Allow me!
+7432||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 본인의 의지가 모자랐나보군…|Mine conviction must have fallen short...
+7433||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 하! 더 어려운 것 없나?|Hah! Bring forth a real challenge!
+7434||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 되갚아줄 상대가 있나보군!|There be a cur who deserves our vengeance, then?!
+7435||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 작은 형님께서 내게 장부의 처리를 맡기셨네! 하하, 이것 참! 기대에 보답해드려야겠네!|I have been tasked by the Big Brother himself to carry out this quest for the Book of Vengeance! Haha, heigh-ho! I must live up to his expectations!
+7436||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 돈키호테요! 중지의 작은 아우이자, 작은 형님의 든든한 수하! 잘 부탁하네!|Call me Don Quixote! A Little Sister of the Middle, and a trusty minion to the Big Brother! Pleased to make thine acquaintance!
+7437||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 멋진 아침일세! 오늘 작은 형님께서 어딜 가시는지 알고 있는가? 내게도 알려주게!|'Tis a wonderful morn! Art thou aware of the goings of the Big Brother today? Share with me such details!
+7438||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 저녁은 파티가 어울리지! 우리의 저녁식사는 언제나 파티 같네! 다들 떠들썩하고, 언제나 재밌는 이야기가 가득하지.|'Tis only proper that a party accompanies a dinner! Our dinners are always party-like, full of busy, jovial chatters.
+7439||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 작은 형님께서 오늘은 외식이라고 하셨네! 그대도 함께 가는가? 심지어 사주신다고 하는군!|The Big Brother invites me to dine out together this lunch! Wilt thou be joining us? Marry, he so generously offered to pay!
+7440||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 빈 시간을 활용해서 장부를 정리하는 것이 중요하지. 언젠가 나도 작은 누님… 아니 큰 누님까지 될테니!|'Tis important to keep the Book organized. For one day I shall rise to become a Big Sister... nay, a Great Sister!
+7441||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 중지의 사람과 식구를 건드는 것이야말로 죄악이지. 그것을 몇 배로 되갚아 주는 것이 정의고!|True villainy is to bother a member, a family of the Middle! And to smite our two—no, threefold vengeance upon those curs is true justice!
+7442||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 우리 작은 형님께서는 머리스타일에 신경을 많이 쓰시는 분일세. 가장 잘 나가는 항구선의… 비싼 가게를 가신다더군.|Our Big Brother is one who pays much care to styling his hair. It is said that he frequents a... rather boutique hair shop in one of the portships marked by affluence.
+7443||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 작은 형님의 강력함은 내가 감히 견주어 볼 깜냥도 되지는 않지만… 그래도 나와 몇 배나 차이가 날지 간혹 궁금해지곤 한다네!|Though mine strength may be incomparable to the Big Brother's... I must still muse. Is he stronger than I tenfold? A hundredfold? Hm hm!
+7444||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 하하, 그러게 우리 사람을 왜 건드렸는가? 자, 이제 죗값을 치르시게나!|Ha ha! Wherefore hath thou meddled with one of our own? Now, pay thy price!
+7445||PersonVoice#Voice_Donquixote_MiddleFinger_10306.json] 자, 잘 들여다보게. 이것이… 앙갚음 장부라는 것일세. 정의를 위해 해야할 것들이 적혀있다네.\n여기 그대의 이름이 있지? 지워지길 바라나? 그럼… 그만 죽어야겠군.|Lo! Read it well, for this is the Book of Vengeance. Here are tasks that we must complete to achieve justice.\nBehold, written here is thy name. Wouldst thou like for me to erase it? ... Then thou must perish.
+7446||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 흠… 이제 휴식 시간인가?|Hmm… Doth it be time for rest?
+7447||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 이 풍경… 정의의 망치가 다녀간 토지는 이토록 아름답구나!|This scenery… Oh, how beautiful the lands become once trodden by the hammer of justice!
+7448||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 큭… 아직, 해야할 일이…|Krh… There are still—deeds undone…
+7449||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 이히히힛… 악을… 정화하기에는… 무력했나.|Eheeheehee… Perchance… I was powerless… to purge evil.
+7450||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 꿰뚫어 주겠네!|I shall pierce thee!
+7451||PersonVoice#Voice_Donquixote_Ncorp_10304.json] (미친 웃음)|*Maniacal Laughter*
+7452||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 제대로 집행했군.|Rightly executed.
+7453||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 하하하핫! 아, 옆에 있었군!|Hahahahah! Ah, you were by the side!
+7454||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 악은 제 형태를 갖추지 못하리라.|Evil shan’t keep its proper form.
+7455||PersonVoice#Voice_Donquixote_Ncorp_10304.json] …당황스럽군.|…This puzzleth me.
+7456||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 어려운 일은 아니었네.|‘Twasn’t a difficult task.
+7457||PersonVoice#Voice_Donquixote_Ncorp_10304.json] …음, 출발하지.|…Mm, let us advance.
+7458||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 키힛! 아하하핫! 올곧은…! 정화.|Keehee! Ahahahah! Upstanding…! Purging.
+7459||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 악을 정화하는 정의의 망치. 본인을 필요로 하는가? 후후후…|The hammer of justice purgeth evil. Dost thou require mine aid? Fuhuhu…
+7460||PersonVoice#Voice_Donquixote_Ncorp_10304.json] …아, 미안하네. 교리에 집중을 하면 다른 건 잘 듣지 못해서. 아침 식사 시간인가?|…Ah, mine apologies. I give little heed to other sounds whilst I am focused on the doctrine. Hath the time for breakfast come?
+7461||PersonVoice#Voice_Donquixote_Ncorp_10304.json] …히힉?! 앗, 하… 가면… 벗고 다녀 주면 안되겠는가? 어두워서 무심코 정화할 뻔 했지 않은가…|…Heeheek?! Ah, hah… The masque… Will you please unmasque yourself at ordinary times? The dark made me mistake you for a heretic to purge…
+7462||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 밤이 되면 정의를 집행하느라 바빠질테지… 지금 남은 걸 읽어둬야만 해…|When the night falleth, I shall be occupied with delivering justice… I must use this time to read the remaining passages…
+7463||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 귀한 휴식 시간을 허공으로 날려버릴 수는 없지.|I cannot let precious rest go to waste.
+7464||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 6장 18절… 그러나 그대와는 내 언약을 세우리니… 히힉! 쥐는 자께서 세우시는 언약… 히히힉!|In 6:18… “Yet I shall forge a vow with thee…” Heehee! A vow decreed by the One Who Grips… Heeheeheek!
+7465||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 세상에는 너무 악이 많소… 쥐는 자께서 홀몸으로 그들을 전부 정화하시기에는 바쁘심으로, 본인이 도우는 것이오.|An overabundance of evil prevaileth in the world… As the One Who Grips beeth simply too busy to purge them all alone, I aid her.
+7466||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 아아, 이 양피지 말인가. 본인이 직접 필사한 것이오… 책자의 형태로는, 항상 쥐는 자께서 남긴 말씀을 함께 할 수 없지 않소…? 히힉.|Ahh, so of this parchment you are curious. I transcribed the text myself… I cannot be in company with the passages of the One Who Grips at all times if they are confined to their tomes, can I…? Heeheeh.
+7467||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 이 망치는 내겐 재판봉과도 같소. 악한 자의 심장에… 정의의 심판을 내리는 것이지.|This hammer beeth like a judge’s gavel to me. With it, I aim for the heart of evil… and deliver judgement upon it.
+7468||PersonVoice#Voice_Donquixote_Ncorp_10304.json] 그대가 쥐는 자께서 행하시는 대업을 도우는 자라니, 본인의 마음 또한 든든하네.\n그대와 함께라면, 본인의 정의집행 또한 커다란 발전이 있겠지.|To hear that you aid the One Who Grips in her great task relieveth me.\nWith you, mine own enactment of justice shall make great strides.
+7469||PersonVoice#Voice_Donquixote_Shi_10303.json] 악인을 무찌르고 돌아오겠소!|I shall avenge thee and vanquish that villain!
+7471||PersonVoice#Voice_Donquixote_Shi_10303.json] 달빛 아래에서 정의가 널리 퍼져나갈 것이오!|Justice shall flourish under the moonlight!
+7472||PersonVoice#Voice_Donquixote_Shi_10303.json] 어둠이 캄캄할수록 빛나는 별이 탄생하지! 바로 지금처럼 말이오!|On the darkest night, the brightest star is born! Now is one such moment!
+7473||PersonVoice#Voice_Donquixote_Shi_10303.json] 이제 모르겠소. 달이 저무는데, 정의는 정말 실현되긴 하는 거요?|I am certain no longer. The moon wanes. Is there hope of justice’s fulfillment?

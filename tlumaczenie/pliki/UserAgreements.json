@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=UserAgreement_agreed].content": {
+      "pl": "Zgadzam się.",
+      "kr_sha256": "03b61d45f435750480e467c01fc4ba45c8c34816a9af3844f9019edb5b245177",
+      "en_sha256": "826ff0dab649a97ffdd7779a332accafb35cc161012253a19383db19289d6e02",
+      "origin": "ai"
+    },
+    "dataList[id=UserAgreement_personality_title].content": {
+      "pl": "Informacje o gromadzeniu i wykorzystaniu danych osobowych",
+      "kr_sha256": "f75a23ab53e94532ac14efc70a87f2e7e1d40b308f01a2c0efd947419480db2a",
+      "en_sha256": "5ddf1994c4e284a5d232973338691de7d62f2c70631f68416469d66dead241b6",
+      "origin": "ai"
+    },
+    "dataList[id=UserAgreement_popup_title].content": {
+      "pl": "Regulamin Usługi",
+      "kr_sha256": "4692391c529e57888418e902f7567cb5136972e15b93f2becb73f6fcc0774255",
+      "en_sha256": "4afa55bf7aec7ddc5dfb904271f881be278e7629ce258675bf4b62f460017abb",
+      "origin": "ai"
+    },
+    "dataList[id=UserAgreement_title].content": {
+      "pl": "Warunki korzystania",
+      "kr_sha256": "a99b644ecb0ee8c90b1329657ed22eacd3439d1aba9fd28bbad68d5439009416",
+      "en_sha256": "32e14549803d5d8fb55f772f42c02ea012c5cea0fd0086afc0e00fe6ff36767d",
+      "origin": "ai"
+    }
+  }
+}

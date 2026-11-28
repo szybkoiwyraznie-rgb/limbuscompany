@@ -1,0 +1,439 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "No, pilne sprawy załatwione, to przejdźmy do rzeczy. Co ty na to, niezidentyfikowany jegomościu w okularach?",
+      "kr_sha256": "cc4972270e89c233e06adcdb1ffa9e08264426ed5b66d51c7b0e1e8fe0e7165e",
+      "en_sha256": "affe400ced56c700a4756c38812fc0ced0ef1a05d6264bf8d4802aad390f1352"
+    },
+    "dataList[id=10].content": {
+      "pl": "Państwa występ w niedawnej walce zrobił na mnie ogromne wrażenie.",
+      "kr_sha256": "e5717acd1793f2d788412b8a9526e7c230cacff92980198e44cab420914fe751",
+      "en_sha256": "577164eb4aa23325a1b558a1355296ae60a16adff7072125d90b7ae2819bb753"
+    },
+    "dataList[id=11].content": {
+      "pl": "Zwłaszcza to, jak państwo tłukli przeciwników, nie zważając, że na państwa oczach kona towarzysz. Niektórzy nawet wytykali go palcami i śmiali się.",
+      "kr_sha256": "1e83e24bfba3e7261a6e7c347bf69392f0f50cbb4288ca5becc5a2a25a4683c8",
+      "en_sha256": "50cf41d8b606ddb838610a497ee38ff05363540bf25349516ed19ad18f4c10e8"
+    },
+    "dataList[id=12].content": {
+      "pl": "Hm… Kto plącze się pod nogami, tego nie oszczędza się, nawet jeśli to swój.",
+      "kr_sha256": "e29248060f159bb93a31d73642b9513dfeba19bc834a75019cb88b977ea59bde",
+      "en_sha256": "f6b5f4137baae45ffc86a599c2a46df4af62425e445a5bc42a63fcb97219def2"
+    },
+    "dataList[id=13].content": {
+      "pl": "Choć to w ogóle nie brzmiało jak pochwała, Outis odpowiedziała z dumą, której nie umiała ukryć.",
+      "kr_sha256": "db2897ed161c96a0bf0afa6a9a15a3dfd8e780e2b3c49a49d444ec701edb8e79",
+      "en_sha256": "82d45fafa575889e54895ee41fecb3dec8b00d42f96c743c63e419a0999d2fea"
+    },
+    "dataList[id=14].content": {
+      "pl": "Jak państwo widzą, niezidentyfikowane kury, które okupują teren przed tym lokalem, wyrządzają niemałe szkody.",
+      "kr_sha256": "e21e4d162f4a3698ffa8d6b49ad6e2fb44bf4c0c86b0f65a674cf4ba6fdf949d",
+      "en_sha256": "2d63d29d53b0969d552e864cf5297bcf4b668f9bb41800368442bb6efa3344ae"
+    },
+    "dataList[id=15].content": {
+      "pl": "…No i?",
+      "kr_sha256": "b21489fd405d59c2021c20c2a58b13d2d74230e27459b0446238f2484dafbe08",
+      "en_sha256": "ef5fb080188ac5c864f438856ff97ee167216b5fdfaa725833c8f0620cc1849a"
+    },
+    "dataList[id=16].content": {
+      "pl": "Pan właściciel też dopiero co wstał z łóżka.",
+      "kr_sha256": "e4e1e629eeac60c05ccccf89674d8107b5db21ea9ca0c49b42c7903cf88466a6",
+      "en_sha256": "b5f41ace6f28257e935438c4a46e73ab9b56c86a2dfd4effd2fcbff5a53b5896"
+    },
+    "dataList[id=17].content": {
+      "pl": "Najwyraźniej nie było to kłamstwo, bo zbliżał się do nas ktoś z wymizerowaną twarzą, powłócząc nogami.",
+      "kr_sha256": "4a53aebed098bf930bbd6df0064998363e8fb8c10890386e42698884173437f7",
+      "en_sha256": "947001cceb7b22d6d009e801ebdc0f87444014688dfc17cdde3b1bd753ee2474"
+    },
+    "dataList[id=18].content": {
+      "pl": "Proszę mówić.",
+      "kr_sha256": "cef26c37938f2a5c8ddda96917df422f7a811aaddb59ec10e09d41c4576bbe92",
+      "en_sha256": "ac832178ec13771edb7e3c09c024aa4896edfa7f9bb3620b5d8d2986f4fbac66"
+    },
+    "dataList[id=19].content": {
+      "pl": "Ee… n-no więc… nasza smażalnia została otwarta kilka miesięcy temu naprzeciwko kurczakowni “Bar u Eunbong”.",
+      "kr_sha256": "e749f1d4a4189e25322b7539ce8515c1fb1580eda93f8c789b9fc6e1d0b85cd6",
+      "en_sha256": "989811aef260f0883938c05a3a22ad41da80f8362e022bd5dda9f52b1a6a0cab"
+    },
+    "dataList[id=1].content": {
+      "pl": "Sprzeciw. Takie określenie z ust kolegi okularnika sprawia mi przykrość.",
+      "kr_sha256": "00f9e7f1260a3ef4c03842981af31b6bf39b3db1702f4642a9b2f937b3c2f137",
+      "en_sha256": "8db98c11541bf06d5ab45e6a1fc432185a4d7601027710e7f94f42933fc1004b"
+    },
+    "dataList[id=20].content": {
+      "pl": "Dzięki smakowi kurczaków z doskonałym rodowodem, jakie hoduje nasza sieć, i obfitym porcjom wszyscy klienci “Baru u Eunbong” rzecz jasna przeszli do nas.",
+      "kr_sha256": "32197e70b48eae5ddec7c220e60c5847457ff85d4ed039f1e374f06cbe25c091",
+      "en_sha256": "d23ca3adb34731b222b159b2ee6c3953ad443b6b3ffb7bd6c751db892f5466be"
+    },
+    "dataList[id=21].content": {
+      "pl": "Tymczasem właściciel “Baru u Eunbong”, może z szoku, a może z chęci, żebyśmy wszyscy razem poszli na dno… nagle zaczął wyczyniać dziwne rzeczy, wyobrażają sobie państwo?",
+      "kr_sha256": "558d3eec82f4311616838c481f5157926bde1225b1a4b58732166714063a1101",
+      "en_sha256": "4d65d9361ffa5e08c5cb6bb6f9d784472e5ddc2f6db4527c484e47ea6cab2aea"
+    },
+    "dataList[id=22].content": {
+      "pl": "No, konkurencja czasem może trochę podgryzać, nie…",
+      "kr_sha256": "21d765ecb49a6567825ec4b593612c842e16b517eaca0ded448da041b28da137",
+      "en_sha256": "84bbc292f55bbc415b3919421263fe8c23cd7af72c4ff117ec58fba22e9b571e"
+    },
+    "dataList[id=23].content": {
+      "pl": "Jakby na potwierdzenie żalów właściciela z drugiej strony ulicy dobiegły krzyki ludzi.",
+      "kr_sha256": "5997c9c2ec17ff2c651d4c9f795a61deb14b26aa4d3d5a30a41328041a017a1b",
+      "en_sha256": "5b2c5c3f1553b0358cff93a7918a3628eef11c215851ba8fe9cf57305e376aec"
+    },
+    "dataList[id=24].content": {
+      "pl": "Aaaaaa!!! Co to jest?!!!",
+      "kr_sha256": "8b4fb41f940f3189b1532947cf3d387fedd158bdbc337258fc57d2c9b059d8c6",
+      "en_sha256": "c69a432598da9e80581c8b98a8575950b72f73f6a20a74ec1e6f3e37390e4e32"
+    },
+    "dataList[id=25].content": {
+      "pl": "Kh… kh… khkh…",
+      "kr_sha256": "5fa23d87ee956e014b28b0e7dac83adee6932ddf9a0846b1a8c4023b27ede18e",
+      "en_sha256": "1a9158b574dea0b7572bc6cbb9bd5bf01225817c79171fb6a0eb48c79cfb847b"
+    },
+    "dataList[id=26].content": {
+      "pl": "Właściciel “Baru u Eunbong” coś wymamrotał i machnął ręką, a wtedy, jakby na rozkaz…",
+      "kr_sha256": "933f536e84880b8cfa25789cc06cbcce2ca673ee83ee018990083982f207b737",
+      "en_sha256": "2486041637961744c073898a6a6856b4fca026519c32d9bb97d0851650cca981"
+    },
+    "dataList[id=27].content": {
+      "pl": "…surowe kury… rzuciły się na ludzi.",
+      "kr_sha256": "962a057d424ded25df8fa1ac4d085f99ba3c6383ab460228cd35cc9e957812db",
+      "en_sha256": "8bf864c9d2441e60b97d67ca64fc7e034e54d26dda57c5fb0b8848e9f4da4837"
+    },
+    "dataList[id=28].content": {
+      "pl": "…Co jest? On dowodzi kurami?",
+      "kr_sha256": "07cabc36797de9ba13ff3b45cbf71d00fb62168f3e994b2c07859e36607ee085",
+      "en_sha256": "eb29f8e2a00dfdea9a3a8599aedb11110a13276ae191370477fb218a17f13ea2"
+    },
+    "dataList[id=29].content": {
+      "pl": "Dziwne rzeczy to mało powiedziane. Jaką trzeba mieć urazę, żeby tak skończyć…?",
+      "kr_sha256": "70b10dc4eae92460414c52d3a960649e26238b1a3da9bd1db5285f8379647181",
+      "en_sha256": "c55973b77eec3e4644203a79f4aaf5e57d225aa92543f210a0ba97b501318a46"
+    },
+    "dataList[id=2].content": {
+      "pl": "A… tak to wygląda… No to przepraszam, kolego.",
+      "kr_sha256": "6f6ab52735127900d2b0fba447902312ac0988be472812edd3480f6716ee7767",
+      "en_sha256": "5fadc76891965bb79e8f1c23579b599e51c8849d23e24d3e8e38b4ef42703bfe"
+    },
+    "dataList[id=30].content": {
+      "pl": "Surowe kury, jakby po jakiejś bioprzeróbce, wdzierają się do lokalu i niszczą sprzęty…",
+      "kr_sha256": "589fb606b090e1582d21a0a814d5f0910512706103ebc716036d7b60bcc0c6b8",
+      "en_sha256": "db08efcb0a2279b3c3d84e461828973a548ee88d2c89b57b142cbb4f99c393d9"
+    },
+    "dataList[id=31].content": {
+      "pl": "A teraz, jak państwo widzieli, pojawili się nawet ludzie, którzy mają te kury na głowach… Jeśli tak dalej pójdzie, lokal poniesie ogromne straty finansowe…",
+      "kr_sha256": "9061d2dc6c3680e087e9300d41f8e0632cf875784199621f4a7f3dff497fde48",
+      "en_sha256": "ca0cc6c150e4b0fb7a5701e8e7f4370b6b492f4697f0ca0011837edd147a2194"
+    },
+    "dataList[id=32].content": {
+      "pl": "Dalekie od ideału.",
+      "kr_sha256": "d3fbbf0767a5f1dd6fb9f82bb6717a32315161e87cb73596a275a3c308476cfe",
+      "en_sha256": "1b91c67c311f3272a877136cb8cb4082d8317d77c0cbd1fb6fd62605a541f4ea"
+    },
+    "dataList[id=33].content": {
+      "pl": "Hm…",
+      "kr_sha256": "b0f652be87c259202a54fc8e998f9d04bcd28990c7733a7b901cbebb8fabb9d7",
+      "en_sha256": "2b86eb03f69ec730d0e22385af9114e96b6f3f6600a0a6482719b3fe7476ebb2"
+    },
+    "dataList[id=34].content": {
+      "pl": "Wzruszająca historia. Czy podejmą się państwo rozwiązania tej sprawy?",
+      "kr_sha256": "251616c2b0d4c8ba911b4349283cb8562192850949bb5a1ac1fa38dbfe617f63",
+      "en_sha256": "07fc35c0e7054ef2cffe7ae4b71f49846fea19c9873f938218e03960d8158bf3"
+    },
+    "dataList[id=35].content": {
+      "pl": "<Drgnąłeś właśnie, co, Yi Sang?>",
+      "kr_sha256": "0c3f55c2706577e719980bc3ebb3a7d7e4b1385522f52de461d65f37eff7f118",
+      "en_sha256": "acc7baf84f6dbc7911295a76461a078a4ad95a35f24a4c37371a2d28ef501a33"
+    },
+    "dataList[id=36].content": {
+      "pl": "Hmm…",
+      "kr_sha256": "88753503014213187cfc8ded22db9bff637036c76abece7fa77d88cf95e79af1",
+      "en_sha256": "974b7ebd21fa2dca0af4d0d108c7514b8c2aa632fdcd98ce5d6e8254fb6c35e1"
+    },
+    "dataList[id=37].content": {
+      "pl": "Tak czy siak, my nie bierzemy zleceń od jakichś smażal…",
+      "kr_sha256": "32047cef8e0400ab008db4b49f9764d8597b63b59d956892cd6210cba1ab9904",
+      "en_sha256": "d26ca2cb115ce80a72d8a68d5f291cc73d2d1dab9f0e11d4130dfe101ea2580c"
+    },
+    "dataList[id=38].content": {
+      "pl": "Dożywotni karnet.",
+      "kr_sha256": "df095ff16dcf58d5df822f80a53d3b67a717fe744949f695a0b6421d6e00c753",
+      "en_sha256": "9b9044ab391f362e4e55888081995c9eacdf73a01bb781240f11b90f152eebda"
+    },
+    "dataList[id=39].content": {
+      "pl": "Jeśli wykonają państwo zlecenie, otrzymają państwo wyjątkowy przywilej: dożywotnie korzystanie z tego lokalu.",
+      "kr_sha256": "a183083636b34b4b4c0094b199bc00fd7c2d7db16b2aa86a77b02e295f6efe53",
+      "en_sha256": "a070373e41eee145e4b60220e8a9ae069968a05ff0311e51df7637425d7c92e3"
+    },
+    "dataList[id=3].content": {
+      "pl": "Podstawowe dane osobowe, takie jak tożsamość, łatwo ustalić także przy zgłoszeniu zgonu.",
+      "kr_sha256": "b1b23576e343f79f05a9bf113a08e9ca259abde4ce25c57b0af02a1d775c58e0",
+      "en_sha256": "f408d6180e959a147df5eb4720508b9c78a52752b8e95f396f3c271944a1e863"
+    },
+    "dataList[id=40].content": {
+      "pl": "Dożywotni karnet?! W naszej sieci nie ma czegoś…",
+      "kr_sha256": "fe157778f42dee0548c11939bc4111fb2c2d7fca6275399a24aa8e44f21ca55e",
+      "en_sha256": "625f907390c50d5c43c92540bc9329aa7f652e898ab6ea11e1a64b28d48b7f39"
+    },
+    "dataList[id=41].content": {
+      "pl": "Przyniosłem też kilka kurczaków do degustacji.",
+      "kr_sha256": "6b5aee08cfb59d2c4e746774d1b53a8603a09fd3fa0e8f3aa05d18627070d195",
+      "en_sha256": "525a03a3db0d88b16361d47cea5dd1d78f977affbe0cab88ed84616dffbab04b"
+    },
+    "dataList[id=42].content": {
+      "pl": "Słucham?!",
+      "kr_sha256": "741fa918027dad8f52e395486e2e4518d6cc3e9a0de6f38811d027b7b976eff2",
+      "en_sha256": "31663c843b100ddf64bc65685a16d4b2104c2b5dd82a704ef68137c832ab9c3e"
+    },
+    "dataList[id=43].content": {
+      "pl": "Nie wiadomo kiedy ten cały Samjo przygotował poczęstunek, ale własnoręcznie rozdawał już kurczaka.",
+      "kr_sha256": "b46d5641a9b5a2cdb297c2978019ca5b044fcdbcb072e3ed572ea82727695740",
+      "en_sha256": "2f315eee6a9475d9a1187cbf45950bcedd693d159adbe454c53817a0b3b4d009"
+    },
+    "dataList[id=44].content": {
+      "pl": "Proszę, proszę, w kolejce, po kolei. Są różne rodzaje według słynnych rodowodów, proszę wybierać do woli. Każdy rodowód słynie z innej części, ma inny smak i podobno bogaty aromat.",
+      "kr_sha256": "963a34550347f157282c46e13783cc9ff5e040cac4d12bdfb4c922cc5f07bc91",
+      "en_sha256": "7909ada4273192655cf28d7c152f1e6650deba12eec187edb6d9f4d2fc5d5dc5"
+    },
+    "dataList[id=45].content": {
+      "pl": "Mmmmm… Muszęż wybrać jeno jeden smak? Wszystkie wyglądają smakowicie…",
+      "kr_sha256": "7049b5a128be42f30e9bb2c510e49b9b5e1e2be5a3f5c7f196e3edac9ca1761b",
+      "en_sha256": "41ae4e999ebb01b5f607f8d83f0499adfa1ab162fc967ae0afcf277c06164d97"
+    },
+    "dataList[id=46].content": {
+      "pl": "Może pozostałe smaki zostawić sobie na przyszłość, jako miłe oczekiwanie? Z “dożywotnim karnetem” cały ten dylemat sam się rozwiąże.",
+      "kr_sha256": "643adbb19cdf99db2ea60e0b7f34f34fb2445b15165a5a961393bac8a5bb1bfe",
+      "en_sha256": "ae3df7bc5cc4d53ba4ce9c03969ebd87f5b3d398acb7ac497df49361fcba386e"
+    },
+    "dataList[id=47].content": {
+      "pl": "Ooo… Zaiste, nie sposób tego zbić…",
+      "kr_sha256": "948cef19a9242e80cf9d056838498ba64037ddd01c2d411ad08177ee6d7bbfb3",
+      "en_sha256": "a9ca18d80b5c1f5591034e53777c1283967632eac2e1d79e44fffeb5b8397bf3"
+    },
+    "dataList[id=48].content": {
+      "pl": "Większość Grzeszników najwyraźniej dała się już kupić jego wymowie i smakowi degustacyjnych kurczaków.",
+      "kr_sha256": "e43286bff06d8dbeb33808a58e92e551c873932c001a8bf895dea637eda81614",
+      "en_sha256": "4604dc7920478ef57c72cf8c60c9959192f5d8966e474356d68352f180842b60"
+    },
+    "dataList[id=49].content": {
+      "pl": "Co państwo na to?",
+      "kr_sha256": "ce024118e6b5f8d184f6f069ba3bedf3cd12afcd714754ad115fb7452fce7423",
+      "en_sha256": "9276ea83937dc25660eed27c55bdb9ed45514320a1c514b7a85a108df4469b6b"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Ach, nie zdążyłem się przedstawić. Proszę, moja wizytówka. Nazywam się Samjo.",
+      "kr_sha256": "88e358f646778e0a73631e8914199367ced1bc15741995fee73a51c1dd2de49d",
+      "en_sha256": "97b2d924c5a16085a0c0dfd29d93b577ca6a1bd90f8f37553192bba037fc0af1"
+    },
+    "dataList[id=50].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=51].content": {
+      "pl": "Pierwszy raz widziałem, żeby Heathcliff zamilkł po czyichś słowach.",
+      "kr_sha256": "00acf8f4e6205cf24fe037bf0ee29d574ae9fe1a7b3cace90b5758ab02a2350a",
+      "en_sha256": "ebb4b8a79920b02cc77d075b4d31feef5923e5dd9d3da5831e933f1c779bb512"
+    },
+    "dataList[id=52].content": {
+      "pl": "To… niezłe zlecenie…",
+      "kr_sha256": "16cd77e55268a22ab1d86fc580b602cbd9d6837fd2521209c829269929a61233",
+      "en_sha256": "a49b747217012008ca5b5277fcc0d5ccc1ffd648a47f11687974b6cb365c3a9d"
+    },
+    "dataList[id=53].content": {
+      "pl": "Halo… Czy my przypadkiem nie szukamy Złotych Gałęzi zamiast złotych udek? Od kiedy…",
+      "kr_sha256": "3fb2a61bce139262ac5658d17b11acc8b5e5ef6692a217db26910dc61fba5c7a",
+      "en_sha256": "be77090c4a1f969040ad40e2e42a8c20f7048811f5e4305c98d66a3164c90ee6"
+    },
+    "dataList[id=54].content": {
+      "pl": "Nie słyszałaś? Do końca życia mamy wcinać chrupiące kurczaki!",
+      "kr_sha256": "aa5a77a9356ec75646c1f7f561889e7e74469a73ef0548ec62a4feb6232e621b",
+      "en_sha256": "2d3bbed87b656d9021ba88839e5cd3805f306454fcfa4863145a0890a1b435c9"
+    },
+    "dataList[id=55].content": {
+      "pl": "Bez limitu sztuk, tak? Po prostu dają bez końca, co? I na wynos też?",
+      "kr_sha256": "5fd266169b7356cd6e67e4d206beb2440003d3294ecdde6c419b2b3d94c3befc",
+      "en_sha256": "a38b9965ac4e5db32f698fdfb3be8309a48fb947d8097c511695b671003e0d0e"
+    },
+    "dataList[id=56].content": {
+      "pl": "Ha, aż mi się przypomniały dawne czasy. Ciekawe, czy ktoś to zna~ Świeżo smażony kurczak z HamHamPangPang też był pyszny.",
+      "kr_sha256": "025cfe81265d93f76730af0a396fbfaa2c67d51781a0000d53974540077b17cc",
+      "en_sha256": "dad399be1ea59bd731698ec248d69b13706310e1dd7e0d03dd46d1509430e8a2"
+    },
+    "dataList[id=57].content": {
+      "pl": "Ja znam. Jak czasem wpadła jakaś kasa, chodziliśmy tam z chłopakami z Syndykatu.",
+      "kr_sha256": "4dab5aa39e6c14f6ec41b51fe9b7fa0618c9d4d54a4b0775d5cdd6017afe0cc4",
+      "en_sha256": "64b526e338187ec20996f1782e2074e819bcdf60c99180e79601706dc7a33351"
+    },
+    "dataList[id=58].content": {
+      "pl": "Ech, Faust, powiedz im szybko. Jest przecież jakiś regulamin, jakiś przepis, nie?",
+      "kr_sha256": "50328bb93d502d1643d274f8995b9c6ea65c991a99d1dab92504a21405bd9a8f",
+      "en_sha256": "57d5f454f59878bc048ce6719cbfd6c9149d6f9a12e66f926a93c3ea0262d461"
+    },
+    "dataList[id=59].content": {
+      "pl": "Faust była pogrążona we własnych rozmyślaniach.",
+      "kr_sha256": "45da6ebea7af8901b971dfebfa5330f004d8983ff2114b3176ea447d049a66b9",
+      "en_sha256": "82cf0953a05ab627fd16ec25f74583ef23307acda9d2b42121814b7384decf48"
+    },
+    "dataList[id=5].content": {
+      "pl": "Nie zważając na to, że atmosfera robi się groźna, od razu podał nam kanciastą wizytówkę.",
+      "kr_sha256": "d2608ce00d5a6dc4aa12c0af75b433a852bdae1af268a8c46033304799954a1a",
+      "en_sha256": "e7a2ff9e510ee77afe595d63446508ed4dabe571d55e33eac1e58dec67060a4c"
+    },
+    "dataList[id=60].content": {
+      "pl": "Dobrze, przyjmujemy zlecenie.",
+      "kr_sha256": "de984201da6a6d77d3749d363c189ea5caf1c9745414bb837ee302e74abdf672",
+      "en_sha256": "c392d9939ce25333ac96f9e02a14e619aa57fdb8180f33e48794d1c50d06f445"
+    },
+    "dataList[id=61].content": {
+      "pl": "Słucham?!",
+      "kr_sha256": "741fa918027dad8f52e395486e2e4518d6cc3e9a0de6f38811d027b7b976eff2",
+      "en_sha256": "b28fdc351443e568b6cd6fc5c61e405f612d4d98b41638b5d147d6751ea69ee8"
+    },
+    "dataList[id=62].content": {
+      "pl": "Tak zaskoczonej Ishmael też chyba jeszcze nie widziałem.",
+      "kr_sha256": "ac65451026fa2f6dab3e2fac55bf9dd1f568b06b046cba30f342ddf9af50d9b3",
+      "en_sha256": "5c19dc936a18abe8183b4a0d6da89f807546265c21b2f613596e4e1cc0c55f0c"
+    },
+    "dataList[id=63].content": {
+      "pl": "Faust… czy ty… na chwilę postradałaś zmysły?",
+      "kr_sha256": "634b2076f2b4650e0e02e564adfdc210eecb6e255fe00d200f9c1f6f52bbbc97",
+      "en_sha256": "5b5ed436e9631c8c7d21be3a8f165e2ce7994c158f5a8cfba34a82424ad5bda6"
+    },
+    "dataList[id=64].content": {
+      "pl": "Ishmael, mimo wszystko trochę ostrożniej z tym językiem…",
+      "kr_sha256": "5c538b395b54aa5f0b754210a7b218ef88e3b838c2bb28e847103148ad3287f7",
+      "en_sha256": "dbfb8f66d590ddd7b0186f4b1cd40d1c081d33c6f04e8c3f66f0311dcacfb021"
+    },
+    "dataList[id=65].content": {
+      "pl": "Kto wie. Faust zazwyczaj jest raczej myślami gdzie indziej.",
+      "kr_sha256": "db7343007e4b12a6c36762a208324266049eef6b0966e4c915062da16d9f3cfc",
+      "en_sha256": "9ecbc598efa23eb2ec3d18cb29e31116a0ea8022ed2331f1655aabf4aae0dc1d"
+    },
+    "dataList[id=66].content": {
+      "pl": "Ha, ha! Wreszcie wszyscy się w czymś zgadzamy, co?",
+      "kr_sha256": "e392479deede3e3a42502b84722062b30aee2d4fc1d946d86024eb249c7c168d",
+      "en_sha256": "bc843d256ad3c8c4668bebe1fada14bfb466ecb948337a2ce9c01e7fecce74df"
+    },
+    "dataList[id=67].content": {
+      "pl": "<Faust… mówisz poważnie? Bierzemy zlecenie, żeby najeść się kurczaka?>",
+      "kr_sha256": "f5970f54c915a18e4fca29b987c65e99af5aaa16196de3ca2c01fb245da213f6",
+      "en_sha256": "ed034333b84c029fd8456d55183a0b3354222fd056835117ad1d13d93a49ccf3"
+    },
+    "dataList[id=68].content": {
+      "pl": "Ściśle mówiąc… chodzi o rozwiązanie “zjawiska Zniekształcenia”, Dante.",
+      "kr_sha256": "fa7b4598c0172f724c0878e57b067034d664cfcf46d670d5b723ad448a074494",
+      "en_sha256": "8c2835b9dea84b374b9392ed211ab51944193b382cfbca83aed2b59465d2a8c1"
+    },
+    "dataList[id=69].content": {
+      "pl": "<Zjawiska Zniekształcenia?>",
+      "kr_sha256": "1b72733880543211dc37d5868e5f5bcb038e61610a0567b6ba1394572ad52324",
+      "en_sha256": "e9ef04c4923ac30fcde676c4267b6ff51fdf242863f508f027a75dca7966f238"
+    },
+    "dataList[id=6].content": {
+      "pl": "K Corp., Dział… Dział Ulepszania Zasobów Żywności, laboratorium…",
+      "kr_sha256": "dff7af056149620741a3f987bc9fe1bdee71d04bf3973461ae8d9ea21776eafb",
+      "en_sha256": "18814373d730a8903681b04bdaa1388d76adbca59428eb49290954ab0feb2b86"
+    },
+    "dataList[id=70].content": {
+      "pl": "Zniekształcenie… A cóż to takiego?",
+      "kr_sha256": "37bcec8bbed8a9c9b6716e61256f5d6993144ae59ca44d1728f4107808043f03",
+      "en_sha256": "96fa18e6aefec5b16e76bedbd098c9c5a2ebeabe08b74b85b62cb96d65c4fa9a"
+    },
+    "dataList[id=71].content": {
+      "pl": "Wielu nie wie dokładnie, co to jest. Zdarza się w całym Mieście, ale nigdy nie zostało oficjalnie ogłoszone.",
+      "kr_sha256": "f02e96e6e60fc1cd2b3d4daf0ae1038b958dd61282018288f21c175525c3dfc6",
+      "en_sha256": "c804ce496e254cb5cb9f1767499ee41de2b16a6e9aa423112a68ec7ae2b8b587"
+    },
+    "dataList[id=72].content": {
+      "pl": "Ach…",
+      "kr_sha256": "a146d5d856831953da0688760cfdfe5c57d9d1deda605e8b5a7f2b81ef5aaf81",
+      "en_sha256": "e6bbd62f7a659dd5d62481bddbe2cb8ff77eed775d5d43287cbdca58097f538f"
+    },
+    "dataList[id=73].content": {
+      "pl": "Wiem tyle, że to zjawisko, w którym człowiek zmienia się w coś, czego zazwyczaj nie da się nazwać “człowiekiem”. Przyczyna nieznana. Formy bywały różne.",
+      "kr_sha256": "6701468dbe9cfafc8ae6dedf74bd153429150571c6d6688009e7ad6fa4c834d2",
+      "en_sha256": "99795b337d8b1214c1bee1133ac511aba1e689691aee9d4f39be3f48db0e98c7"
+    },
+    "dataList[id=74].content": {
+      "pl": "Hm… Z samego opisu nic nie rozumiem. To coś jak Anomalie?",
+      "kr_sha256": "4e3f6a92887be009913facb2b609ab97644193004fa63815762a1c658572ba9c",
+      "en_sha256": "26cd3f69feca006e43d9bcfacd9af01847396fe9a1c631501cd1fa491fc52f2f"
+    },
+    "dataList[id=75].content": {
+      "pl": "Nie. W przeciwieństwie do Anomalii nie zmieniają się w jaja. Mogą też całkiem wyzionąć ducha.",
+      "kr_sha256": "1056101f2c2a168b0f529361ccc496200fa5d0f38e32b45f958b372622e23af4",
+      "en_sha256": "75226590825c7af3484c03100814a50880253e1f98b51bd083391cf297adbfd9"
+    },
+    "dataList[id=76].content": {
+      "pl": "Widziałem to już kilka razy.",
+      "kr_sha256": "e17d1acec0e4527161dd772cd3f2cc787d65e4e210b827be9c945248b80bcc90",
+      "en_sha256": "05317b7fcfcaec61b6182946d6584c5bc1d39bbbdec2affbdc0039ec1a1ee4f8"
+    },
+    "dataList[id=77].content": {
+      "pl": "W firmie istnieje dział LCD, w którym pracują Fikserzy doradcy od zjawiska Zniekształcenia.\nTo niewielki dział, ale to znaczy, że firma przygląda się temu zjawisku.",
+      "kr_sha256": "4e733e28d80ccf35d2b2a74eaa7af52a988defd9a610b681442099c0f1e33309",
+      "en_sha256": "4a84d6539bb3e171609a4a66f59d7432c942f73d12239b1e0f4250e2cafab82f"
+    },
+    "dataList[id=78].content": {
+      "pl": "<Czyli właściciel Baru u Eunbong… stał się… tym Zniekształceniem?>",
+      "kr_sha256": "a58b04ca08b33141b242b8e42b4f55c5c798582437fb6c370b131094a820ff31",
+      "en_sha256": "d4731bd5b45f63a9f68e7c149491a68e1c21c8e9972ea5c074cb927691366596"
+    },
+    "dataList[id=79].content": {
+      "pl": "Właśnie. Od zwykłego obłędu nikt nie zaczyna nagle dowodzić armią surowych kur.",
+      "kr_sha256": "689df25d4531a16d1b727084a12083a6061e9e9f58b1e47c0b9c09aac847ca9c",
+      "en_sha256": "0c596f4d6c069648de7dda5ff02512c55871f7dd87295dc28fefe2074fdf2336"
+    },
+    "dataList[id=7].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=80].content": {
+      "pl": "<Rozumiem…>",
+      "kr_sha256": "b9dc13314275f001802173767676081b2e6be009ea159661485e35decb18bcfc",
+      "en_sha256": "5a0c0287ddfe1289eb4fd0a995c8956097c1e778277d34dec58b0f575fd304ec"
+    },
+    "dataList[id=81].content": {
+      "pl": "No właśnie, prawda? Uff… Już myślałam, że Faust na chwilę odbiło i będę musiała osobiście przywrócić jej rozum.",
+      "kr_sha256": "b20878917ae73ccdff6b0e946f8e280da6769aaa910c71c594e520eec6ad270c",
+      "en_sha256": "9a4922b7049cde48376cf03866d82ad4dedaae7e78a645b3041f9485c2bcc357"
+    },
+    "dataList[id=82].content": {
+      "pl": "To dlatego tak przed chwilą ściskałaś buławę, Ishmael…?",
+      "kr_sha256": "157f2b08fefab4aeddf2e0d530df66971ca133ebf002f929c0c291a91db88d7e",
+      "en_sha256": "df427a845ee81f86c59d3418c32d0eb00a57c687b567269697a8f9899c7fe80e"
+    },
+    "dataList[id=83].content": {
+      "pl": "Słusznie! Czyż nie winniśmy działać, zanim pojawią się ofiary? Mlask, mlask…",
+      "kr_sha256": "1cf96f988307a36977635fc0b4778af86d4a0bb55b3894a0ed30aa68f53b9faf",
+      "en_sha256": "3de7168c048c228aac3d52f569157842eb0aafb2bcea3d1b486c78818505edf5"
+    },
+    "dataList[id=84].content": {
+      "pl": "Oj? Masz sos na buzi~ Mała!",
+      "kr_sha256": "05fa002f962859668c9a83aad3c80ef9492b47f3a573059c39d0546c499fbf6a",
+      "en_sha256": "62c361742e03eaf4a867bc496dc36e76df14d963464d59a9c34503757a369fba"
+    },
+    "dataList[id=85].content": {
+      "pl": "Przyglądałem się w milczeniu, jak Rodion wyciera Don Quixote buzię.",
+      "kr_sha256": "3dd2de22797946d253e816925b9c72839a763979fa9a74db44dcbd03d7827f0d",
+      "en_sha256": "7923477fb3d643bbd6ad2185939a17c81cc6ca7b563fb00d9c0462fb1029742b"
+    },
+    "dataList[id=86].content": {
+      "pl": "Zatem uznaję, że przyjęli państwo zlecenie, i czekam na kontakt.",
+      "kr_sha256": "56fe96b24b4fbc14a56642088db9992d058604bcd3cb7f553c76825aa14f2859",
+      "en_sha256": "418a175193faa66cb56561764e8314c31c2d935a5248727df85f89e12d3eec08"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ha! Myślałeś, że jak napiszesz kupę mądrych słówek, to się nabierzemy?",
+      "kr_sha256": "7d8520430db1313c9f67b2a970170664ac823f5dd7e61058fedc4b18131b4ef8",
+      "en_sha256": "ddc656251e7df7803674ba4a6294ebf19336ab76b01fde8e245741361447efb7"
+    },
+    "dataList[id=9].content": {
+      "pl": "Oczywiście. Przekonywanie i objaśnianie to moja specjalność. Proszę się więc uspokoić i słuchać.",
+      "kr_sha256": "5d8eba454419f817ab67e03d5cc6d6bc76c3d3bbb65a1930dcfcec5372cb266c",
+      "en_sha256": "723e1328fe23c614e984de83aee9544bc5f59448bf6e3b4043739af237ae3c9e"
+    }
+  }
+}

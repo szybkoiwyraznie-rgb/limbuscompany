@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=9SV-BAT1-13].dlg": {
+      "pl": "...Ścinam go.",
+      "kr_sha256": "cbbd2919029b7cf08f5e416b695722f371be8630f887a83f269be9774715a00a",
+      "en_sha256": "dc0cb5bbe7f144dc7e4d00d626704e3b56ed41415b5b5dad97906bee72846f0c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT2-07-07].dlg": {
+      "pl": "Crimson Point.",
+      "kr_sha256": "eb58d900e0fdc537171b3ab24344e02e4803fc8d303a2211bd228fee7fd6a229",
+      "en_sha256": "7090e191c87324c6ea10f128c9ce7bf4319dad61647d1b78583d86b4d5d2f361",
+      "origin": "ai"
+    },
+    "dataList[id=battle_8099_s4_1-02].dlg": {
+      "pl": "Koniec zabawy.",
+      "kr_sha256": "b5d87cd01bf1b767b2d30ad44c6aa09eb040eb2befdf05e66466ea4da19f058d",
+      "en_sha256": "fdc70cd1c25a7cc66b917337069f021337a05a037edc45712d60798f8a9a8d55",
+      "origin": "ai"
+    }
+  }
+}

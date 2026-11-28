@@ -1,0 +1,464 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Teraz już rozumiesz? Pchła może sobie skakać, ile chce.",
+      "kr_sha256": "9c49f989922a7b5f365a39bbfc339d10cb2050e6371951ec05ec70d004b0a9c4",
+      "en_sha256": "f4da42ecc233cf560f260fe4d9339cbed10c70ea7fb0b737ac0f4da5e07c3e97"
+    },
+    "dataList[id=10].content": {
+      "pl": "Hmm. Tyka coraz szybciej, czyli jednak go boli.",
+      "kr_sha256": "183c92764263b39065598d23d623587bbc0924c7e95ffdc9ff23772d4643c949",
+      "en_sha256": "e9af82227bec5dc5e38f030b272f21a3d0b757a1aab60cba28830cdbfab27a8a"
+    },
+    "dataList[id=11].content": {
+      "pl": "Cholera… Dlaczego… ja!",
+      "kr_sha256": "8e8596abdcf650d2185380af2149cf75363fa1fb733686ae61b10d7566a45ac9",
+      "en_sha256": "9ab3cf094fc89d754eac8f46e36c9ca445e1b35848a324abd027ee933a72a595"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Dlaczego mnie atakują?",
+      "kr_sha256": "802142d56351cc489a9315d22f445bc0ce68ad82368bfce8b67fa200f3d69941",
+      "en_sha256": "3a912312960c2119291e5a02b5c0694654bb891c7081fdef3c5c5b7d704912fc"
+    },
+    "dataList[id=13].content": {
+      "pl": "Kh… Już zaczyna się zanik pamięci? Za szybko to ■■■…",
+      "kr_sha256": "ff5ec730f86cfb41b0276d7f371b7b39a6c9e4d10cd00bb1a09f015fe3c83601",
+      "en_sha256": "e16f4f4135e3bd97ebb9d37353d0418e711126e2f32ca3ee5295b5fcd4747049"
+    },
+    "dataList[id=14].content": {
+      "pl": "Co jest, ucichł. No to kończmy.",
+      "kr_sha256": "9a29d172356257128e672d76879b978d17ea3cab2b4d46c414cc15cea33b2801",
+      "en_sha256": "06aa4c6c3f4ce2fe1f63783daee65330a3f8d20fa42b3344aba4ed23ffcab9c4"
+    },
+    "dataList[id=15].content": {
+      "pl": "Wilk, tu nikt nie przychodzi i nikt nas nie zobaczy. Gdzie ci się tak spieszy?",
+      "kr_sha256": "5fbbdbd15cb3b3e2acd4f2993aded1eef7bad6c00d449dcab11850e1facb6e3e",
+      "en_sha256": "62deb518939c22b9be5c1ba66d4b23e1f797867701ff3003680abe3bebabeb57"
+    },
+    "dataList[id=16].content": {
+      "pl": "Mamy trzymać się jej nauk. Nie wolno zwlekać.",
+      "kr_sha256": "1470db1edc7a4218e8790e7d979e7496bd72fe66058892ae8dd24e46dae3683f",
+      "en_sha256": "ee3555cc485af63eaa66e0d54e48ab2e0d175a77ecda707bd9851d0064619aa4"
+    },
+    "dataList[id=17].content": {
+      "pl": "No ale… ech, kiedy jeszcze w życiu trafi nam się ktoś taki do zabicia?",
+      "kr_sha256": "7a1f12fdd963f17f998553eb4a9279811e4115f94e29da691bef30b95e043d80",
+      "en_sha256": "c42104c5b145f1f90f6ad4be421cd70fa8217cf2869f92aa00d5a864de226ece"
+    },
+    "dataList[id=18].content": {
+      "pl": "Lew, w pracy jesteś zbyt emocjonalna. Nie mieszaj prywaty z robotą.",
+      "kr_sha256": "354ddd0901d97af324f2c3617698fbc59581406e29d096afc0aace46fc34c4a4",
+      "en_sha256": "da14e9cd66867c7c3d18acb21f1223c45d4c2b7c4653ec556b7ece76e58c144b"
+    },
+    "dataList[id=19].content": {
+      "pl": "Phi…",
+      "kr_sha256": "14b682f7fe0f6e57ca21677e177deb21c56a3374b96c85530248e4c5e16bf902",
+      "en_sha256": "1722d1bdedf6c11efb5afc06da7408ff2bd74be6597d3181b78d7dd12760dfe8"
+    },
+    "dataList[id=1].content": {
+      "pl": "<Jak śmiecie… w chwili, gdy ryję ■■… Postradaliście zmysły…>",
+      "kr_sha256": "ebb159bca71d84d5f34601875ec3c8b23594a294abbec0e3a39401805d661f83",
+      "en_sha256": "0b502ae61a9b1a47fcc9ac307a6dc1b24b5c5a3e098f2e806f3160e0cedc06c9"
+    },
+    "dataList[id=20].content": {
+      "pl": "Szkoda, chciałem zobaczyć twoją twarz. Pewnie nie zdradzisz nam, gdzie jest twoja gwiazda?",
+      "kr_sha256": "be33eb4e7121fd120bf6448a4a5ad96d991dd2a08d9ab3f8103435f7991dc8b8",
+      "en_sha256": "994cc296364da0d61b9baae43684b6bac1bd8ca26b64f95930e94d56c796e6d8"
+    },
+    "dataList[id=21].content": {
+      "pl": "<Jasne, że nie. Gdzie jest ■■■, tego nigdy…>",
+      "kr_sha256": "037d60ccfeba09089cfeb6aaa0de4c39aa5797842a5c25f18f45acc1c39ffad8",
+      "en_sha256": "d7ebfcaf27eb62e6553e570a1ff7b6bfdfc5caf3018cdee494ae7b5a0867b095"
+    },
+    "dataList[id=22].content": {
+      "pl": "<…>",
+      "kr_sha256": "4259dcf0771baa1d2c535638170ab522bac0f0be503ad4259f3f0d20651a38ea",
+      "en_sha256": "67edbf55a8ee9ed08fa013c521ca911941e46de6461565aeb03d4d8895d469ae"
+    },
+    "dataList[id=23].content": {
+      "pl": "Cholera, gdzie właściwie był ■■■? Wspomnienia gasną za szybko…",
+      "kr_sha256": "51bf142f84bc6a760c2b420714b736f709fcdc3a657eaf253ea1823b9af9705f",
+      "en_sha256": "98b6306ba6e2a7a7fb46f09e4648a64db4cd42c9a44ee758a15b4800d1a2507f"
+    },
+    "dataList[id=24].content": {
+      "pl": "…No tak. Nie ma ust.",
+      "kr_sha256": "10ce93cd64bec9cb7fe2fbe736a8132844d054608c70343c8e194f74332f6e9b",
+      "en_sha256": "23dfd2c1a9d22f05e2ff611046d5161621729f73457f7d20b91261c50a907c60"
+    },
+    "dataList[id=25].content": {
+      "pl": "Siłą rzeczy… od niego nie dowiemy się też, jak to odnaleźć.",
+      "kr_sha256": "bced21e114306ef23d380589436949bf4e8fcea65a09b2b43a3e88bd4d5eaa5e",
+      "en_sha256": "3dd46f37181f95e2b91b434aae2a1747d47f2479ad2eedd7f555dfbb96d2553a"
+    },
+    "dataList[id=26].content": {
+      "pl": "To mogę już kończyć?",
+      "kr_sha256": "92fcccab81b9d16e8d97ee3fb84a1b83925f9abaa92a39bcc882fdb8cd7c5314",
+      "en_sha256": "9b8d9d24a9f296fb27ecbf93e6bf0e5be507b660950a1cbf265e19446cdd9a15"
+    },
+    "dataList[id=27].content": {
+      "pl": "Tak… Hm?",
+      "kr_sha256": "dd2a584b66fc9a47849b78ac501d235caf370f20184412c7b6ddbcbfe38eb41c",
+      "en_sha256": "43bc10a6fb8cf68f7e0ecec5687968d7ca7f139879cc73889e1f16d2feda3a32"
+    },
+    "dataList[id=28].content": {
+      "pl": "Co to za dźwięk? Pantera… chyba nie przyprowadziłeś ogona?",
+      "kr_sha256": "e6cf2cf2743d47ffa908137125b8e9138565087c457fd63e89849777396c91c6",
+      "en_sha256": "9d9b0203b987b92435ffc640473d41869077208fdc9994ea85381d7b6d0a768f"
+    },
+    "dataList[id=29].content": {
+      "pl": "Nie, nikt nie mógł mnie śledzić. Jakie jest prawdopodobieństwo, że to zwierzę?",
+      "kr_sha256": "d3912939a2afe46439cfa3236ef09c6e4a0a6bbed1e302e155f6182c5e75a6ff",
+      "en_sha256": "e6a7b70a2eabe5aced14a9fed42e173292c5f4d8f55bd3c5cd8b94df463059c9"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ach~ Ściśle biorąc, to, co zamierza mistrzyni, nie łamie żadnego Tabu Miasta.",
+      "kr_sha256": "abb0dd6a960069e4e0bc64e3d72c2d39d844e01e8d384886a7965f1922d6da64",
+      "en_sha256": "b9d2911fd1e778f76e52a1472d8081c7e545effabec65c375b17f7ca7668a1e6"
+    },
+    "dataList[id=30].content": {
+      "pl": "To nie zwierzę. To…",
+      "kr_sha256": "29ef55af587bd6da0a35f1b0aa60b6cd18534300333ec6feb3b4165b5bab01a4",
+      "en_sha256": "d2c57d33217f66c584897943a275ebbc5251ad444fe0c46b67fe70e6acc0aade"
+    },
+    "dataList[id=31].content": {
+      "pl": "Autobus…?",
+      "kr_sha256": "ff845ba50a3f97a81af8c57f38c6a299df46146f26e43a59e6744beeae492545",
+      "en_sha256": "53c7dda0b4f174a5774744fc5c3d547aa2b9d347a8b8d9fc2c5693e892bf123f"
+    },
+    "dataList[id=32].content": {
+      "pl": "Jakim cudem coś takiego się tu wtoczyło?",
+      "kr_sha256": "7b92d87ecc45dddb4f8e49f68c604669fa0e9c800ea55952ffd8ccb235274537",
+      "en_sha256": "8134d6b64b1ae5e00101b658081232bc89fafb0b3f2d5378a98b1b0519aca234"
+    },
+    "dataList[id=33].content": {
+      "pl": "Pewnie zabłądził, co?",
+      "kr_sha256": "0d122129491778bc50d3c8663b23ff77f49d1050291b41d6de5df7c94951f5c8",
+      "en_sha256": "fdfe953dfc63667ecd7b017aff2266b66b03c1c836edb8c056102dfcefe92a0f"
+    },
+    "dataList[id=34].content": {
+      "pl": "Hu, za zboczenie z drogi płaci się drożej, niż się zdaje…",
+      "kr_sha256": "20ff8c445bb01e1598765fc2417b0886a077b7482371ff606c72a5affb519565",
+      "en_sha256": "4cab489480e7b13b118330700e48b6bc5c9fbd88c63ba8ec12a6366dcde0ae47"
+    },
+    "dataList[id=35].content": {
+      "pl": "…!",
+      "kr_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd",
+      "en_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd"
+    },
+    "dataList[id=36].content": {
+      "pl": "…Lwa odrzuciło?",
+      "kr_sha256": "04b00443999bb92fb147cdc894c6be00f50e5fdffbb7597ee3102aaad8062d67",
+      "en_sha256": "8567adb62cd8921aae23218cd191c723466c7afee248307c355e5a688e04a688"
+    },
+    "dataList[id=37].content": {
+      "pl": "…!",
+      "kr_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd",
+      "en_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd"
+    },
+    "dataList[id=38].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=39].content": {
+      "pl": "Jeśli oczy wciąż mnie nie mylą, nie chybi pan portu chwały.",
+      "kr_sha256": "8e48e35ff43fe04425e2efa321f07d76116c17753f38da46a5cb3d79eb3deb1f",
+      "en_sha256": "a3c5124fa473fd5d17ff15e62185c8c0c64dd362a4944cdb45429ac7e286c9ad"
+    },
+    "dataList[id=3].content": {
+      "pl": "To raczej coś, na co nikt nawet nie wpadł, żeby spróbować… Tak by to trzeba ująć?",
+      "kr_sha256": "86a81bd7d305e0e63e758455e8c3a07fe55cbb9188110ec094570a17c4e1db7b",
+      "en_sha256": "fc74e4c70c1e11b7c579a3401c839709526c37716e59c9f24f71e9a52e4fb47e"
+    },
+    "dataList[id=40].content": {
+      "pl": "<Kim… jesteś? Plakietka… Fa… ust?>",
+      "kr_sha256": "e1c9b8af569d58b386b4cc4f0d59342959e8008c430f75cb5300cc3236b955b0",
+      "en_sha256": "3c23dcda44e4ffa60ba93c1d7a7d5af0f7d711d4e402dfde77d565f7a2c7a4b4"
+    },
+    "dataList[id=41].content": {
+      "pl": "Zgubił pan drogę w ciemnym lesie, jak widzę.",
+      "kr_sha256": "4687c9e696b76d7918c968aa31315582c371e8798a810ec8f9d5de638ebfbddd",
+      "en_sha256": "36b5a255a6e27373537d4a955484e08ca252ff298b55bfa4ddcc7b4f50cd0603"
+    },
+    "dataList[id=42].content": {
+      "pl": "<C-co… co?>",
+      "kr_sha256": "3e2af78c88e388d405ccad7ff37781c3e6a8f885120acb10f9dcb48218d7063b",
+      "en_sha256": "ee5d4e97bb0ebb09bc234b7653451acd4d66dd3af333ed2895492c54d018cc27"
+    },
+    "dataList[id=43].content": {
+      "pl": "A jednak nie bał się pan. Dlaczego?",
+      "kr_sha256": "6b02744618cc1864325a2d0ee64d6fc615d6cc9e33e37ca11d95c2f21202e87f",
+      "en_sha256": "be249aa92adff78974f680820a56de9607ed22c635c55ef7a3d52ea3106e4c0b"
+    },
+    "dataList[id=44].content": {
+      "pl": "<Bo…>",
+      "kr_sha256": "850ad13bc06926e91b3499e0e5060381ad43c65b2d3c81250809db12ef91f915",
+      "en_sha256": "4334db1f62fb5aa8ae496c996c6fbc092c0a623aef1036a922d6d5e1adfda4db"
+    },
+    "dataList[id=45].content": {
+      "pl": "<Bo wystarczyło… podnieść głowę i odnaleźć gwiazdę.>",
+      "kr_sha256": "c74bc8bc24b6062fbf07631f9dbd0c566c670e67857db39d3f2f736a68b93042",
+      "en_sha256": "e19626e9ed165ebe7cd8cf997f0bc256830b82f2637b68f3d6b78aae62e4dde5"
+    },
+    "dataList[id=46].content": {
+      "pl": "Właśnie.",
+      "kr_sha256": "1ce71bd285ac40b54ff24902dc0c13b7c52e2b8e12596d72451f6ff5b2f641bc",
+      "en_sha256": "e75e93714579140c669f2f81cf5799c17720d240f8afb9a57860b8ba6d5f0748"
+    },
+    "dataList[id=47].content": {
+      "pl": "A teraz proszę przywoływać ten obraz i wykrzyczeć w duchu to, co powiem.",
+      "kr_sha256": "675763f3a62b5e1f01a234a4972547a6ff86602ed7288f62c6ce3ceadd3bcb31",
+      "en_sha256": "39c67a949858a52753ec471a0ef54b4b7abcc167ad072d63e39256d20c9aabaa"
+    },
+    "dataList[id=48].content": {
+      "pl": "Idź za swoją gwiazdą.",
+      "kr_sha256": "de7a8b0e0b8bbca749e31db5b5ba577c4feddaf4d5c722bc0388efbbc2fd4edf",
+      "en_sha256": "be6e3a9e62016f957b32f4b69f8f84e59e00e0ea1dc5ada866f36d8533fc399c"
+    },
+    "dataList[id=49].content": {
+      "pl": "<Idź… za swoją gwiazdą.>",
+      "kr_sha256": "df7a82d3870fa12da43fcbbc28d1851d27c6f3e068e5b827821a8c213acaa2c3",
+      "en_sha256": "ad38ede760542c1522225da342b89839714c10207f0bd6dfa7c9e616539eb453"
+    },
+    "dataList[id=4].content": {
+      "pl": "O, ale ten tutaj…",
+      "kr_sha256": "f1f7069e8fdfc1472335e79b4f5a7095a69adb43dfec80379e904ca7193b9556",
+      "en_sha256": "ea1ee88180f952178b0f5047df8e470c68806b7f8c745c06760142d2ed28312b"
+    },
+    "dataList[id=50].content": {
+      "pl": "I w tej samej chwili…",
+      "kr_sha256": "f8b42151bd2cf273493f1c1416321727d872becb1a26240d02a272ef1a25e120",
+      "en_sha256": "71fcd9ea016d64b087a8bf8e2758e655aefcfc421171493695a600189e24b1b6"
+    },
+    "dataList[id=51].content": {
+      "pl": "Poczułem, jak coś w mojej głowie szczęka i osuwa się w głąb.",
+      "kr_sha256": "eaaf4c164b39e6e1e51e39271b0bdad93c5bdcbc5ffb880a480a648db9c67ce4",
+      "en_sha256": "85896a82b814ee2ef9d1f0d02e88dbd14351e5f9493cf5743b2e758c18c55cc5"
+    },
+    "dataList[id=52].content": {
+      "pl": "A potem wrażenie, że przeszywa mnie naraz wiele łańcuchów. Albo że to ja jestem na nie nawlekany.",
+      "kr_sha256": "cb07fe4fc5a6baea47a3be5c3498a49f8021c1ec664ff1a250f06090e9030d99",
+      "en_sha256": "4e962b77f124da40dc4b06ee8ea4fe57f19940e85d0866378f4d5c15339f8f7a"
+    },
+    "dataList[id=53].content": {
+      "pl": "<Hhh… A-aaaaach!!!>",
+      "kr_sha256": "f86d757a866951f58b43d896df9cb5bbe3bafdb9f6df60c57f0135efaa0bdbab",
+      "en_sha256": "c2ba88d7d4acbaa6d5ac75770b1d1688e744889b614a6be1266b52c102167f09"
+    },
+    "dataList[id=54].content": {
+      "pl": "Proszę się nie martwić. Serce naprawdę nadal panu działa.",
+      "kr_sha256": "60fefc4544d78087e2a62633b116c1eab94ccd2d50e5e2ab2086082cd67d873d",
+      "en_sha256": "378ddcd24c9e8e5c4ca8eebb3b97e91140b50339b553e6f69080397434e040f3"
+    },
+    "dataList[id=55].content": {
+      "pl": "Tym samym kontrakt został dopełniony.",
+      "kr_sha256": "d45835d239549715fd5e83fc477c830a04e62aa3721d3fd68a1ca5afa2ba2174",
+      "en_sha256": "a477f6e50a01adf4eb53d994a9eeb3be6f810c5457ca7d5e9728e6b307bc9e56"
+    },
+    "dataList[id=56].content": {
+      "pl": "Dante, od tej chwili należymy do pańskiego czasu.",
+      "kr_sha256": "0dc9a0eb56a5b591a82d428b7b4076f4a191738ec9930a8034ceeb243923579b",
+      "en_sha256": "8903bb5cd7d95087e26fecd62416f0a4c7bef28ad94c954c48be8f1fe2d6767c"
+    },
+    "dataList[id=57].content": {
+      "pl": "<Co to ma…>",
+      "kr_sha256": "9bb26fecd48bdf5d37350efc9acc8cf010f22275bbbe7992c056b09abd344c53",
+      "en_sha256": "88127fb2410fee600d74fe5fbdf30f77f8b268800c7565e7fc2f7827c962e7fc"
+    },
+    "dataList[id=58].content": {
+      "pl": "Odtąd to, czy nasze serca będą bić, czy staną, zależy od godziny, którą pan wskaże.",
+      "kr_sha256": "e09119fcc1fa8dce90b350fac7441bd69aac4bc2a581642c2370de31eedad0d7",
+      "en_sha256": "45242b4fd34d24871fd89fbd0beb8eadb20a045db31a6679c23a8cd6fcce1102"
+    },
+    "dataList[id=59].content": {
+      "pl": "Liczę na pana.",
+      "kr_sha256": "af5835f3252e361ab3c7bdae4b2af15faf50dad60f3cdffde4b6dd4ecd034fd5",
+      "en_sha256": "855a4c8a7918eb3436e096cdde1e946404c150191cbc7213e21d43b585c2b76d"
+    },
+    "dataList[id=5].content": {
+      "pl": "W międzyczasie zdążyłeś wymienić głowę. Czy tacy jak ty zawsze są tak zapobiegliwi?",
+      "kr_sha256": "ae08d179f8080649d645547e52709de841ff6e0dab6635d95b98abff08521611",
+      "en_sha256": "2e7105399c9319f3ddd917fb21c161bb56e56401863e3e5a5143010ec993ab17"
+    },
+    "dataList[id=60].content": {
+      "pl": "<Nasze…?>",
+      "kr_sha256": "aec4fecd37a38f5c0678d637e24acc7cf15dedff576f953b0cff41ccd57f1ce9",
+      "en_sha256": "21203dd4f10eee055e4fe9a47b09c7c24ebedf44f7de3dbec25b92188a16867c"
+    },
+    "dataList[id=61].content": {
+      "pl": "I to naprawdę wszystko?",
+      "kr_sha256": "0c65bf9ea14cbf91a97b1ff8bbf6c4a1e5cc722fa010291ada9dff861f06cc87",
+      "en_sha256": "f05e143864eda5c0a942d595256cdcfc7b9cb7c7393300c8c27de74fa8bf92e5"
+    },
+    "dataList[id=62].content": {
+      "pl": "Jabłko jedno spadło.",
+      "kr_sha256": "cd52e0b6b1ea4ed347e9704f926432aa4271d3397eb426966f99c9e391f0e5a1",
+      "en_sha256": "0de1a9a5b3e43b5442b39fef6e7f3caca1ce6b30e200f01ab56953c1893e6996"
+    },
+    "dataList[id=63].content": {
+      "pl": "…Ten tu wciąż plecie same dziwactwa.",
+      "kr_sha256": "423bc7a033c9da5877498ac78de853a85a989e136edb501a91e637d8f0421430",
+      "en_sha256": "7fd7177e170b1232e3f516c1acb9831f20e358fcf08a5ccf0f458cd1f51ba160"
+    },
+    "dataList[id=64].content": {
+      "pl": "Uuu~ cała zesztywniałam! Można się już ruszać?",
+      "kr_sha256": "ddaf4ec59453417b30d3c38679f781f153c8473d73d620db79967d05d3d0ae94",
+      "en_sha256": "9c498308fb68f6d199c7df530cec95004a8fe6bc503e2e3928d01347ad77cdd5"
+    },
+    "dataList[id=65].content": {
+      "pl": "No, mała rozgrzewka nie zaszkodzi.",
+      "kr_sha256": "e7c950b51beb40355efa596318ea5a15cc3ba98caefc4d2982e02562f41a7b0c",
+      "en_sha256": "e4eda8422b5f46d3d479b0855cfd615055203e5845205d042867650e1b0d3135"
+    },
+    "dataList[id=66].content": {
+      "pl": "Co to za żałosne coś się tam tarza? To ma być nasz ostatni rekrut?",
+      "kr_sha256": "90b818585fcf202b25b48c50666313348b783c3bbf5e3787fbc46f0a5257856e",
+      "en_sha256": "2bdda85f77268d529733d4b24b81b8e1c7ee4fd2c7e57cf0b8c1fa89ef833188"
+    },
+    "dataList[id=67].content": {
+      "pl": "Ee… lepiej uważaj, co mówisz… Podobno to nasz przyszły szef…",
+      "kr_sha256": "6c50a25373a9a10339b144e3866c26a7aad0b46fb5f541050231d08b5fc79a2d",
+      "en_sha256": "83fd9541448ff89e85c247b38d72b6cd140643fb17476cebfadd91aa67006de5"
+    },
+    "dataList[id=68].content": {
+      "pl": "Napaść musiała przyjść w mgnieniu oka, a jednak zdążył pan ukryć głowę.",
+      "kr_sha256": "f8f7357371c188ef1c110038e5f0bf98b8e5bb456de75f52c71d5510d7500284",
+      "en_sha256": "a02ab466c99bd83577549cfd9482d7c77cb872681e1efdea00cf3cb284ba79ec"
+    },
+    "dataList[id=69].content": {
+      "pl": "<Kim wy jesteście? I co to w ogóle za autobus?>",
+      "kr_sha256": "216f56fbb909d4bf286cf29d96b5fc771256461f49fda18457f6f0dbcf0f428a",
+      "en_sha256": "6d57e7e9c5398ca5678fe2c6c1f2173eeb4d9a5c43137449322e7737903d1053"
+    },
+    "dataList[id=6].content": {
+      "pl": "<Kh… Gdy tylko wyryję ■■… takie jak wy…>",
+      "kr_sha256": "8e0e5a7742ba3bdf6501556869ebc3f153bf5fd86a03f02f027e1057f5456f31",
+      "en_sha256": "ec0e46ad1dcff79b79bc2063d41c5d978addfcf455776af88d29300c08817458"
+    },
+    "dataList[id=70].content": {
+      "pl": "Jesteśmy posłańcami sprawiedliwości, którzy przybyli panu z pomocą, a to magiczny autobus, który zawiezie nas, dokądkolwiek zechcemy.",
+      "kr_sha256": "4d1d7ce02227ab6b8c8a0c2299f9339781320a554cd60d292e555f5d802f7893",
+      "en_sha256": "6e0cee6ed4fa8a7ed85bd9fba2146e00593eb9120fef7283e4f9bbe68599b3a4"
+    },
+    "dataList[id=71].content": {
+      "pl": "<Sprawiedliwość? Autobus? O czym ty…>",
+      "kr_sha256": "714585f61989a1bcde408585f2a87ea56474f960d8765be6d38537baf0517831",
+      "en_sha256": "d5e5cec881a2d0441731174d14c32cba0c0d1ddf47d827809f6d12a0fe50fee0"
+    },
+    "dataList[id=72].content": {
+      "pl": "Czy nie takiej odpowiedzi pan oczekiwał? Tak będzie panu spokojniej.",
+      "kr_sha256": "982cd091c18c94f54430486c805bee7993ba33cc923510f9f56d42663a1cf313",
+      "en_sha256": "aec0a1223f42627fe0eff042e270c92ba1202568aeb3eef849d22c04dc069c27"
+    },
+    "dataList[id=73].content": {
+      "pl": "Czasu mało, a położenie mamy niekorzystne, więc wyjaśnię powoli, ale tylko raz.",
+      "kr_sha256": "f067d575b780664f57d88dfec6b9491e64ee31fd8c238c79c2451a2bb2be1cb6",
+      "en_sha256": "55cf92664d7a8dc2858f53994df8925aab42ee859cdce8edf9c2371961b25588"
+    },
+    "dataList[id=74].content": {
+      "pl": "Jakiś czas później…",
+      "kr_sha256": "8b895c352d3e50f1e6caf05ef1a22c52753efb9a9d0435ecc1185003cf978490",
+      "en_sha256": "613b822e63449ffa36ba255f96ce7fbec38519ae193a328badae1f40c9b67a69"
+    },
+    "dataList[id=75].content": {
+      "pl": "<Czyli… jeśli zrobię dokładnie to, co mówisz, ci zupełnie obcy ludzie będą walczyć za mnie?>",
+      "kr_sha256": "2e0ebf98d63450268787fc3fb3f432d7b5688acb88f5457d284dd3db52a67ca5",
+      "en_sha256": "9f7decd5321349c4284e89ec38584f6d585d6dad9a9801db7cfb208935714d8e"
+    },
+    "dataList[id=76].content": {
+      "pl": "Zgadza się. O ile wyda im pan właściwe rozkazy.",
+      "kr_sha256": "a9bc521c5501e4a6d9c46caad3ec32f380641987860b0b11e74b89f846273f27",
+      "en_sha256": "fc2a506928f85f531d9427afccef0db4aa717cc8bdb3438b94590f87a6e9a90f"
+    },
+    "dataList[id=77].content": {
+      "pl": "<Dobra. To wybijmy te cholerne gnoje…>",
+      "kr_sha256": "f6c2851242a7acf70e692f8d97f0c70213f695ac1a42bbf435886ea94d38c788",
+      "en_sha256": "2fff0383d7df7404c55c5d0ba7b621134b38fdc6c22e735043c988ea7e1bb90c"
+    },
+    "dataList[id=78].content": {
+      "pl": "<i wrócę tam, gdzie byłem…>",
+      "kr_sha256": "8e22d70ad3b5a939a0458bad9d0877c84b0911551fddfb3b19d6bf0692f4f77c",
+      "en_sha256": "590f681936a0367902738d370280aa4659cb9b5837828a719fb486f50a4b3022"
+    },
+    "dataList[id=79].content": {
+      "pl": "<Wrócę i…>",
+      "kr_sha256": "31e019ded4d35cd454d07af66f8fd9050f8bf1c9eea37e01bd767372778f9ac9",
+      "en_sha256": "95ddaedf39517f8f725e2a8eee47b97d41009131499e71267caf978809a8f1fa"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ha, ha, wygląda na to, że ten łeb nie ma nawet ust?",
+      "kr_sha256": "17b74a8112298de5ba7166edfa5081099c396a401ecb88884553365f301285a7",
+      "en_sha256": "33ba7d10dc06c85bcd454e96ef825562ef0d65684a04e76ae6ec6cd0af7d5bd0"
+    },
+    "dataList[id=80].content": {
+      "pl": "<…>",
+      "kr_sha256": "4259dcf0771baa1d2c535638170ab522bac0f0be503ad4259f3f0d20651a38ea",
+      "en_sha256": "67edbf55a8ee9ed08fa013c521ca911941e46de6461565aeb03d4d8895d469ae"
+    },
+    "dataList[id=81].content": {
+      "pl": "<Co ja właściwie robiłem? Gdzie w ogóle byłem?>",
+      "kr_sha256": "e3ec94e2653ca970cf3424b5a56f64a4615d3c6434d398f6db72b490ded2368c",
+      "en_sha256": "24063bf35ff37db599deddbd9825ba3620e0d295c2216700892b56bad0bf652e"
+    },
+    "dataList[id=82].content": {
+      "pl": "<Stałem u progu niezwykle ważnej chwili. Czegoś, czego za nic nie wolno mi zapomnieć…>",
+      "kr_sha256": "f5c8b22553e8152c1b24c6e1e3f64daee62ae3efb240ded14d164a1b18869fb1",
+      "en_sha256": "c3b501b99a7dd40e3c1ec2d29b33386d1708be5578af5d71882bdc0ea8d408cc"
+    },
+    "dataList[id=83].content": {
+      "pl": "Proszę się uspokoić. Z taką głową pamięć nie może być w całości.",
+      "kr_sha256": "03a19c589bb64c317621f45b19208beb6382d22bcf0a1669e12c51bfd6f69614",
+      "en_sha256": "c310fa1106cd5ba74933bc1e3569e9d07a6c908905dc3fdba469d2ed57b8cc3d"
+    },
+    "dataList[id=84].content": {
+      "pl": "Teraz proszę się skupić na walce, która jest przed nami, Dante.",
+      "kr_sha256": "caa58974d23267334dc554f5c5196e41a2efc9c2b6eb2e5f7eb26c9f421bfab3",
+      "en_sha256": "e21623a84df712ed34b5c7ed1672f5dd30a502a2bd7a5ccdec3bb9fe9e868a2f"
+    },
+    "dataList[id=85].content": {
+      "pl": "Zega… ekhm, nie wiem, jak należy się do pana zwracać.",
+      "kr_sha256": "ca143e3a0f6ef081a7f9f1780de228f296c9f36fff16b11deffd58db521e9947",
+      "en_sha256": "ef1ba7c34bc09e665e73d34cfcd057e0ccaf30185f65e9a54df27f67a5c0bcef"
+    },
+    "dataList[id=86].content": {
+      "pl": "Panie Zegarowy Dowódco…? Tak czy inaczej, proszę wydać rozkaz do walki!",
+      "kr_sha256": "cec7b74bfe5aaa10973c5f2c587b7459e5ebfe3c457de5bdfa4291aa324e4d3c",
+      "en_sha256": "0d9f3c6b73428bdaf148fa8497ca6a16baf40bc2872602f736691a96a8692de9"
+    },
+    "dataList[id=87].content": {
+      "pl": "Po co zaraz rozkazy? I tak każdy musi się bić na własną rękę, nie?",
+      "kr_sha256": "0779ecad2ed227368016210360b3ab5eda59dda5f774f4b13bccbb6d393d4a1b",
+      "en_sha256": "61badbc6871e5cb38e9617bcd4861d38c053b0fc90e1056b02243f1ccb9c6122"
+    },
+    "dataList[id=88].content": {
+      "pl": "Ach?! Z-zaraz!",
+      "kr_sha256": "27580fb6b7461e126a8c2df2926e12c152a279d7c8a2d656102e34715cfbbeec",
+      "en_sha256": "ee8459fbf0e425a991053fd97374565f42ffac0d4bc45e379653eae7ba18488e"
+    },
+    "dataList[id=89].content": {
+      "pl": "Co tak szepczecie?! Rozwalić wszystko i po sprawie!",
+      "kr_sha256": "a9ce323ddb926e2decdab0367371bdcd59624ab96a0883b2be240f06d8114aa6",
+      "en_sha256": "c3142beb68cefbb9267d712680d0c33e56df6134d5c9f2f5cadee398061c8322"
+    },
+    "dataList[id=8].content": {
+      "pl": "No. Słychać tylko tykanie. Ciekawe, czy w środku chociaż wrzeszczy?",
+      "kr_sha256": "5d18663c3937dbac496904fe56e98e7b28a665980c634e205c793749daf32c7b",
+      "en_sha256": "eb3087e0c31fc2b6fdd47488fb0b10ccf35afb0f3ca4f64189193a9099de6c14"
+    },
+    "dataList[id=90].content": {
+      "pl": "…Proszę dać z siebie wszystko, Dante.",
+      "kr_sha256": "0e740631828e4b7c3b1b72827384d1a79e0592f447fadcd9433ff10c08dc82a5",
+      "en_sha256": "dc2a6b9ecebb6d2860e89bc55844a8217fbc0beddfa01d9073dcc9975101d6d9"
+    },
+    "dataList[id=91].content": {
+      "pl": "<…I tak nie mam innego wyjścia.>",
+      "kr_sha256": "2ba57118309a4da2836f930c35d06bde08f9f73a48c7d6a272263df74afc5087",
+      "en_sha256": "107bfb0dc0827dc581746cf5cb71b2935701c544071ad53cc814e6ff8f876d8f"
+    },
+    "dataList[id=9].content": {
+      "pl": "<Aaagh…!>",
+      "kr_sha256": "8341e07a712bde62e1dfbf68d7122b82a278b1152d8cf531d9269f346dc99b53",
+      "en_sha256": "ce3f476a85a33193f60f4f3992946dec6405cc64f229c3720b1c64edab39228d"
+    }
+  }
+}

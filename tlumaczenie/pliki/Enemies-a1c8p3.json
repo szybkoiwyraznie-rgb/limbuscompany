@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=1135].name": {
+      "pl": "N Corp. E.G.O::Contempt, Awe Jia Huan",
+      "kr_sha256": "7a2d7de1cd4bf9652c27fefa4745001dae2286d3e3cd3cb7ef10b1d5a0451e6d",
+      "en_sha256": "a70216f9b936e80da3c7c8f3cf2a2e48bea7b9e4f96150fec6677f17e5fd1f9f",
+      "origin": "ai"
+    },
+    "dataList[id=1136].name": {
+      "pl": "N Corp. E.G.O::Fell Bullet Gubo",
+      "kr_sha256": "9ab929e50b340b48ecb036ee88fe53537715bce7f5a212d9f03c15c8a6968de5",
+      "en_sha256": "65af8d9c4b6990649c720524cad599457d44017f2c8d92a722972f70a643340c",
+      "origin": "ai"
+    },
+    "dataList[id=113901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=113901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1139].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1139].name": {
+      "pl": "Swift N Corp. E.G.O::Sticking",
+      "kr_sha256": "97423e2c9c52318a3e4e050f9c829bf7a4b47e094a033acc9413d0bdc505d4d1",
+      "en_sha256": "14b5f008fc0b7405f6888f7bcd420e148264ec0fcc628ce5f3b1f80d3d7fff4d",
+      "origin": "ai"
+    },
+    "dataList[id=114001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=114001].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1140].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=1140].name": {
+      "pl": "Nimble N Corp. E.G.O::Sticking",
+      "kr_sha256": "1f5fd01ebd8faeb90e5be842d2586ed764eff196a4c57d2d91ab496eb875c09c",
+      "en_sha256": "beae96af57538c85c692fba04b0d70d5817f5da7c03e60347b5d9673c09ee524",
+      "origin": "ai"
+    },
+    "dataList[id=114501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=114501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1145].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1145].name": {
+      "pl": "Lei Heng",
+      "kr_sha256": "704fef66e237b3678f20faedc8fcaca4a4c2b5d471640148527c844fdec78aa1",
+      "en_sha256": "aab00935cf0abd66deef574d40043ed28f6787851524b7faf63bf6a978e8a664",
+      "origin": "ai"
+    },
+    "dataList[id=1146].name": {
+      "pl": "Jia Mu",
+      "kr_sha256": "94f92e4c13ca2bdb229245a95384736331488319a119dda97db90ee11cdc3615",
+      "en_sha256": "2f52d21112c78b2291e38f7096ffbf990c56c1a1859d0ca5b278d853ee385a70",
+      "origin": "ai"
+    },
+    "dataList[id=115202].name": {
+      "pl": "Palanquin",
+      "kr_sha256": "04ab2d8b6cbd668700f132f412682a472f28541d6bb06cfda1d2119370d19632",
+      "en_sha256": "0cf521eb14252380265346999b755f564f3e3f95352317ce4889bbcc68d4bc8e",
+      "origin": "ai"
+    },
+    "dataList[id=1152].name": {
+      "pl": "Muddled Heishou of the Corpse Palanquin [混覺轀輬黑獸]",
+      "kr_sha256": "ed16d3447b0b7ae8f5fad885013282d6767e7ae146a019154546a0f96e2bdc1a",
+      "en_sha256": "695debf7b586605a5077a8a2d11c8a32e387dfab732abf378a98c656370be31d",
+      "origin": "ai"
+    },
+    "dataList[id=115301].name": {
+      "pl": "Jade",
+      "kr_sha256": "1eddfe7a1aa4f740a0037092a20a4a371ff78312b1f2db468cddbc876fa16ded",
+      "en_sha256": "9fbbe982e10d5be5810770259fa95ce2db0cdaf8ec937ae64eab931f06ab4177",
+      "origin": "ai"
+    },
+    "dataList[id=1153].name": {
+      "pl": "Baoyu, the Precious Jade",
+      "kr_sha256": "c6f793475206947dea60c4318096776c1a499e95c4e23f8186a12009aee9565d",
+      "en_sha256": "5b34caa5a9fe6b2629de9a524abfa150670974d50f15b3ab29bb3ab823cea7a9",
+      "origin": "ai"
+    },
+    "dataList[id=1154].name": {
+      "pl": "Heavenly Elder",
+      "kr_sha256": "e3f3a94a23f928b346ebd2fb989ed06ac6fcd9610ab7cb206b548d61e397251c",
+      "en_sha256": "7f1372d97dd711712665dfa5eb9e83567aec9f5c371d7c81aa682a1d961fb925",
+      "origin": "ai"
+    },
+    "dataList[id=1155].name": {
+      "pl": "Earthly Elder",
+      "kr_sha256": "e1857660103e451a6a3f321c378b0fdeadfff76aadf2a705ba2716380e98701b",
+      "en_sha256": "adea69e4069125c7fd45476580a65ae35a0bd04fef0d20500bbdbca210d16bb4",
+      "origin": "ai"
+    },
+    "dataList[id=1156].name": {
+      "pl": "Brain Elder",
+      "kr_sha256": "7cd091ee8d743c8dff394a328ce32068fc3d7c3b09517c0086c3e996dac46438",
+      "en_sha256": "9bdbed4ef64df4b5dc1f7e6290d467eece3bb8575d03e56b9d3ce701921fc9cb",
+      "origin": "ai"
+    },
+    "dataList[id=117101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=117101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1171].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1171].name": {
+      "pl": "Stern Soldato of the Thumb",
+      "kr_sha256": "c357e7de3b5b3f003fdd0a7f406b4155acd5a0ae21e565cc5b01cf1e080470c3",
+      "en_sha256": "80464f082d61ab9d97da1a19d2d222fecbb5e44a1fdcf68e474e085a3865a430",
+      "origin": "ai"
+    },
+    "dataList[id=90217].name": {
+      "pl": "Stern Soldato of the Thumb",
+      "kr_sha256": "c357e7de3b5b3f003fdd0a7f406b4155acd5a0ae21e565cc5b01cf1e080470c3",
+      "en_sha256": "80464f082d61ab9d97da1a19d2d222fecbb5e44a1fdcf68e474e085a3865a430",
+      "origin": "ai"
+    },
+    "dataList[id=90218].name": {
+      "pl": "Rigid Soldato of the Thumb",
+      "kr_sha256": "640cec56c3145cd55a715df25c35a1ff0536dd9c077334100a509fc3cc48528f",
+      "en_sha256": "8022a86b330fb42ee501e0b001810c55f9fd65b0470abdc345fa65a75c9510b5",
+      "origin": "ai"
+    }
+  }
+}

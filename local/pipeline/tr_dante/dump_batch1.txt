@@ -1,0 +1,203 @@
+### [12] KAT=NestK
+- According to Samjo, an employee we met at Eunbong’s, the Wing might also be developing food-related tech using the Singularity.
+
+### [25] KAT=Association
+- Seems to refer to the large organizations that manage Fixers.
+- Each Association appears to have a specific field it specializes in to account for how free and open a Fixer’s line of work can usually be.
+There’s a pretty wide variety… I’ve seen a few Associations through the identities of Sinners and their mirror worlds.
+- One major difference from freelance Fixers is that they can’t choose the jobs they want to take.
+
+### [26] KAT=ShiAsso
+- They seem to specialize in assassination requests.
+- Should note that it doesn’t exactly mean they’re the only Fixers who ever take assassination jobs. To start, requesting an Associate Fixer is gonna cost a fortune…
+Plus, the demand for assassination is awfully high in the City, so even unknown Offices on obscure streets seem to get those requests pretty often.
+
+### [27] KAT=LiuAsso
+- They seem to specialize in combat requests that involve groups of people.
+- “Although few Fixers in the City go their lives without once ever embroiling themselves in battle…” (Quoted from Donqui.)
+- The Liu Association seems to be unique in that each individual member is equipped to deal with multiple foes at once.
+
+### [30] KAT=LiuAsso
+- According to Don Quixote (“Discerning the two may yet be a task too daunting for novice aficionados!”, she also added), while the Cinq Association covers one-on-one situations like duels, the Liu Association handles engagements between multiple combatants. Come to think of it, most of those identities did seem to value cooperation and coordination over individual action.
+They also looked rather carefree, too…
+- Gregor’s Liu Association identity also told me that it was common for him to take on groups of five or six at once. (He didn’t forget to proudly mention that he’d “whooped those kids’ hineys”.)
+
+### [33] KAT=LiuAsso
+- Another thing of note is the incendiary devices built into all their weapons.
+- When I asked why they use fire-starting weaponry, they gave me varying answers like “harmony” or “flow”…
+But those honestly felt like roundabout remarks. In my opinion, it’s probably because fire is effective as a means to strike foes around the target. Flames can spread, after all.
+
+### [37] KAT=Cinq
+- They seem to specialize in single-combat and dueling requests.
+- Though it doesn’t happen often, I hear there are still cases of people trying to settle disputes with a fair and honorable “duel”.
+- When a person gets involved in a duel (or has to challenge someone to it) and figures their opponent will clearly tear them a new airway, they send this Association a request. Sounds like they stand in for the client or something.
+- All I know about this Association comes from what I heard from the Seven Association identities, so I couldn’t learn much…
+Since the Association doesn’t get requests too often, it seems to be in charge of holding joint conferences and events with other Associations as well.
+
+### [45] KAT=NestW
+- Located in District 23’s Nest.
+- I haven’t visited their place yet, but I learned a thing or two about it from conversations with the identities from this Wing.
+W Corp. seems to be operating a transit service advertised as “WARP Trains” that take passengers from platform to platform in mere seconds.
+Tickets for WARP trains are apparently pretty costly, and I’m told the first-class ones are plain ridiculous.
+- …Shouldn’t you just cut costs and drive at that point?
+
+### [46] KAT=PersonalitySync
+- A process of synchronizing an *Identity* with this world using the *Thread* we’ve gathered.
+- It’s how one brought from a different world is tuned to the Sinner in ours. (I guess it could be likened to binding the two worlds together?)
+From what I can tell, a freshly extracted Identity can’t immediately transfer all of their knowledge and combat prowess to the Sinner.
+That’s why Thread must be used to “uptie” the Identity and make it more effective.
+
+### [47] KAT=AbnormalityInterpret
+- Similar to uptying, this is a process of making the Sinners’ E.G.O more powerful using Thread.
+…Though I do wonder, why *threadspinning* and not “uptying” again?
+
+### [48] KAT=NestR
+- Located in District 18’s Nest.
+- With what I’ve heard about R Corp. from its related Sinners, it seemed a little different from the other Wings I know so far.
+While most Wings provide many a convenience by utilizing their Singularities to improve people’s quality of life, R Corp. mainly deals in armed services like mercenaries.
+- R Corp’s power as a Wing comes from the quality of its military services.
+Outis added that as important as a troop’s size is, much of its strength in battle will come from field experience and mental fortitude.
+In that sense, she says R Corp’s combatants (soldiers? employees?) are like killing machines with undaunted spirits on top of being in great health.
+Gregor said it’s common for ordinary soldiers to lose their will to fight and then flee the battlefield or fall into panic, and those who don’t are the exceptions.
+I wonder if R Corp. runs wargames and simulations or something.
+
+### [49] KAT=PersonalitySync
+- I asked if the “MAX Uptie” status, as shown on the PDA, is really the highest possible tier.
+I wanted to know if that meant that the Sinner virtually becomes the same as the one from another world.
+- I’ve been told it’s theoretically the case.
+If an Identity brought from a certain point in time of the world from where it was extracted gains more experience (training their combat skills further, for example), a new possibility can occur that allows for additional stages of uptying.
+I guess that’s to mean Identities from certain points in time could grow stronger in terms of experience and technique.
+
+### [50] KAT=PersonalityUpgrade
+- When a Sinner tears this *Identity Training Ticket*, certain experiences seem to flow into them (or the Identity they’re wearing).
+These experiences can make them even stronger than how they were in their original worlds at the time of extraction. (Well, that’s what the “relevant theories” say, according to Faust).
+- I get that they become better fighters with the added experience, but how does it make them physically stronger too?
+
+### [51] KAT=PersonalityUpgrade
+- I got vague but somewhat sensible answers from Faust and Yi Sang.
+When an Identity is “upgraded” using tickets, the Identity’s “frame” itself is enhanced.
+- To summarize their explanations, upgrades exclusively improve their physical traits.
+The improvements are made in ways that would have worked in the original worlds the Identities come from.
+- Additionally, when an Identity with prostheses is upgraded, the materials and components of them seem to get sturdier and whatnot.
+- Either way, upgrades are focused wholly on physical improvements.
+
+### [52] KAT=NestW
+- Writing down additional details I’ve heard.
+- While cars can take you anywhere, WARP trains are preferred because travel by car can get incredibly complicated.
+Makes sense, considering the procedures we went through just to get into K Corp’s Nest.
+- Speaking more, it seems the bigger problem is the roads are made inefficiently.
+They’re so twisted and convoluted that it takes an unreasonable amount of time to travel between Backstreets areas by car.
+- Even if the linear distance is short, the road to the destination will be labyrinthine.
+Purportedly there are wide, open roads called highways connecting the Nests, but that comes with a set of conditions and costs as well.
+
+### [53] KAT=AbnormalityInterpret
+- Like Identities, the E.G.O used by the Sinners are possibilities drawn from the cores of certain Abnormalities for appropriate individuals.
+However, using E.G.O to its full potential requires weaving together a deep understanding and well-read interpretation of the Abnormality, which is why it’s called “threadspinning”, sorta like the idiom of spinning a yarn.
+- Threadspinning an E.G.O enriches the comprehension of the Abnormality’s mental imagery, enhancing its power and effectiveness.
+- E.G.O seems to be the manifestation of some kind of mental force.
+I guess it makes sense that forming thorough knowledge of the Abnormality and its E.G.O is important.
+
+### [54] KAT=PersonalityUpgrade
+- I asked if it isn’t possible to upgrade Identities beyond their current maximum level (30 as of writing) as shown on the PDA.
+- These values seem to be related to the Golden Boughs we’re collecting. In addition, I was told that I’d be unable to withstand further upgrades for now.
+Does that mean it will be possible to upgrade them more at a later point?
+- …Come to think of it, if these “level-ups” are only for making their physical bodies stronger, then why are these things called “training tickets”? I thought that was covered by upties?
+
+### [55] KAT=NestW
+- Learned a shocking fact while talking with Sinners done up in W Corp’s identities.
+Though they didn’t tell me directly… it seems that the trips on WARP trains which take no more than a few minutes from an outsider’s perspective make their passengers perceive a terribly long amount of time, dissolving their sanity and deforming them beyond recognition once the ride is finally over.
+Then, it’s the job of the cleanup agents to physically sort out the mess every time.
+…Thank goodness we have a bus.
+- This is all speculation based on conversations with the identities, so I’m planning to keep this information to myself.
+
+### [56] KAT=NestR
+- Hearing what R Corp’s identities have to say, the Wing has a team called the “Fourth Pack” with three subdivisions: Rabbits, Reindeer, and Rhinos.
+- The Rabbits are all-rounders deployed to a wide range of missions.
+- The Reindeer have surgically gained antlers that convert mental strength into physical force.
+- While I haven’t met the Rhinos yet, I’m told their specialty is wreaking havoc.
+
+### [57] KAT=PersonalitySync
+- I asked if events differing from our timeline happen in the worlds from where the Identities were extracted as time passes.
+- I’ve been told that we can’t know for sure and that it doesn’t matter anyway.
+Limbus Company is only interested in enhancing the Sinners’ capabilities in battle, so they don’t care about what happens with the Identity or its world as we uptie them.
+
+### [58] KAT=AbnormalityInterpret
+- While Thread’s role in uptying is to connect people between worlds, it seems to work like a wire to unravel the core of the Abnormality in threadspinning.
+- Faust says we might be able to threadspin E.G.O beyond what we’re currently capable of in the future.
+Similar to upgrading and uptying Identities, gathering Golden Boughs should allow us to decipher and interpret them in further detail.
+
+### [67] KAT=MirrorDungeon
+- They're 'dungeons’ we can access via the Backdoor.
+The corridor that leads to the Mirror Dungeon is made of cold, heavy metal. It inspires a different kind of anxiety from our usual wooden doors and corridors.
+- At first, there was just a single door leading to a Mirror Dungeon while the others were shut. A second door opened at some point though, so now we’ve got two. Considering that Faust let us know when the doors would open, I’m gonna guess that there are specific conditions for them to open. Or maybe they follow a certain schedule.
+- Whenever I enter a Mirror Dungeon, I emerge to a place resembling a misty cosmos. I can choose which Sinners to bring with me into each of the Mirror Dungeons.
+
+### [68] KAT=ResourceDungeon
+- One of the dungeon types we can enter via the Backdoor.
+- Once we enter, there’s the Training Ticket Luxcavation Dungeon to the left, and the Thread Luxcavation Dungeon to the right.
+- Looks like we can gather resources to strengthen the Sinners by battling Abnormalities or enemies we’ve faced in the past.
+- We have to spend Enkephalin to enter these since they also require Mephistopheles’ engine to operate.
+
+### [69] KAT=MirrorDungeon
+- According to Faust, Mephistopheles’ engine actively stabilizes the Mirror Dungeons we’re allowed to enter via the Backdoor.
+- Their ultimate purpose seems to be to improve mine and the Sinners’ capabilities. Faust recommended that we make frequent visits to the Mirror Dungeons of the Backdoor, even if it meant expending Enkephalin used for the engine.
+
+### [70] KAT=MirrorSubway
+- A place we can access using the Backdoor.
+- Gregor tells me that it looks a lot like the City's subway stations.
+- It looks pretty dilapidated, as though it’s been here for a long time. There’s what appears to be a subway train on the rails.
+- The subway train kinda resembles our Mephistopheles, except it looks like it’s been left to rot for a long time.
+- The subway train didn’t budge with just one Sinner inside it. When the other Sinners joined, however, the door closed all on its own and began taking us somewhere.
+- The Sinners told me that it took us to the next stop.
+- What I can tell from my experience here so far is that each station led to a different environment, some of which were places we’ve been to in the past.
+- The door closes behind us once we get off the subway train onto a new station. Then, an Abnormality or some enemies attack us with no rhyme or reason, leading to immediate combat.
+- Once the fight’s over, the subway train door opens again. Once we’re all aboard, it takes us to the next stop. Rinse and repeat until we reach the Terminus.
+
+### [71] KAT=MirrorSubway
+- Faust tells me that they appear to be like… 'simulations, or a series of locations generated in order to improve our capabilities akin to the functions of Mirror Dungeons or the Luxcavation Dungeons from the Backdoor'.
+That makes sense. We encountered enemies like Kromer in there, but all they did was fight us. Maybe they’re also just simulations, after all.
+- Not sure if it’s putting us through a very realistic simulation, or if it’s actually taking us to where the Abnormalities reside. I still don’t know enough about this place to say for sure.
+- Once we made it to the end of the subway route, we were allowed to return to the bus via one of the stations.
+- One of the Sinners was furious, complaining that it sent us on a wild goose chase for absolutely nothing… until he saw Faust popping open the Lost & Found box and picking up a whole horde of resources.
+
+### [72] KAT=Line1
+- Though it’s closed now, we've been to this station before.
+- The whole place had a blueish tint to it.
+- We encountered and fought some familiar faces, but many of the Abnormalities in there were entities we hadn’t encountered in the Lobotomy Corp. Branches so far.
+- I recall that we’ve interacted with some of these Abnormalities before in the Mirror Dungeons. Faust says that our interaction with them in the Mirror Dungeons were through some kinds of… spaces. Their mental spaces and worlds, that is.
+I guess the railway happened to stop by one of those worlds?
+- Then maybe it’s not a simulation? I don’t know…
+
+### [73] KAT=Line2
+- This place has a greenish tint, unlike Line 1 with its blue hue. I bet the next one will be a different color. And so on and so forth.
+- Again, we fought some more Abnormalities we’d only had glimpses of before.
+- Everyone cheered when they saw that Line 2 had way fewer Stations than Line 1 did… Until Yi Sang noticed some symbols on the wall and theorized that we were supposed to run this Line multiple times.
+- A new Station was added with each new Cycle, though we still had to go through the earlier stations first.
+- Around the time we were on our fourth Cycle, Heathcliff began loudly complaining that he was tired of doing the same thing over and over and over and over again. Some Sinners seemed to grow increasingly restless as well, but the crisis was averted thanks to Yi Sang who said that the sign seemed to say that the fifth Cycle was the last one they had to complete.
+- Once we wrapped up our fifth Cycle, we were able to find a large horde of various resources from the Lost & Found. From what I can tell, each Line’s going to have different routes and conditions to completing them.
+
+### [74] KAT=DieciAsso
+- They seem to specialize in the collection and research of knowledge.
+- They say the Association members use equipment that draws physical strength from knowledge.
+- The harder to obtain and more precious the knowledge is, the greater the strength it grants its users. Looks like they lose the knowledge once they draw strength from it, however.
+- Looks like they’ve got Fixers who fight with their fists and Fixers who fight with their… keys? (What?)
+
+### [75] KAT=NestK
+- I didn’t quite understand why they were flying a bunch of drones around the city, filming scenes of death and pain… but looks like there was a reason for all that.
+- I learned some things about K Corp.'s Nest while carrying out their request… But I’m not sure if it’s okay for me to leave a record of them.
+
+### [76] KAT=NestK
+- Okay. Below are some information that I’m NOT supposed to write down… But I wanted to record it anyway. Here goes nothing.
+- … Who knows. One day, even I might end up forgetting everything.
+- They explained that HP ampules were actually infinitesimally tiny nanobots helping regenerate the body. Apparently, they were so small that a collection of them just happened to look like some green fluid.
+But none of that was true. They weren’t anything even remotely close to nanobots. The ampules were just filled with some green fluid.
+- K Corp’s HP bullets, also known as Regeneration Ampules, aren’t like ointments. It uh… returns the body of the person injected with it to a form they remember as being unhurt.
+- Stephanette, K Corp.’s founder, went to the Outreaches of the Outskirts and brought back this organism they call the ‘Tearful Thing’, from which they extract the fluid.
+- I think that ‘Tearful Thing’ was once a human, from what I’ve seen through resonating with the Golden Bough.
+- It seems like their wish was that no one would ever suffer from pain again. And that wish was granted… in some form, anyway. Theoretically speaking, its tears can heal literally any part of a body as long as its brain is intact.
+- Just like its name, the Tearful Thing sheds tears when it feels sorrow. And by processing or watering down its tears are the ampules, K Corp’s Singularity, made.
+- At first, the founder Stephanette drew its tears by sharing sad or emotional stories. But once she passed away, those who seized power afterward buried it in a constant stream of violent, shocking imageries to produce its tears more efficiently.
+- That’s why the drones were filming people’s deaths. So that they could force the Tearful Thing to watch those violent and shocking tragedies.
+- Looks like making it watch the same tragedy over and over isn’t as efficient. They have to keep feeding it new, different scenes of violence. That’s why they’re importing similar footage from the other Nests. They were planning to use the glass window tech similar to the mirror to give it a constant supply of footage, but our involvement seems to have thwarted that.
+- Considering that the ‘Tearful Thing’ is, after all, an organism, it also seems to be capable of producing offsprings. Alfonso called the one we saw… a child entity.
+- I don’t know how… but if I were to hazard a guess, I’d say that they’re trying to improve their production rates by using the Tearful Thing’s children.

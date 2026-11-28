@@ -1,0 +1,298 @@
+{
+  "entries": {
+    "dataList[id=19291].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości przydzielonej na 1. pozycji]\n\nPrzy trafieniu ostatnią monetą podstawowej Umiejętności Tożsamości Sisyphe lub [PersonalityCharge], zadaje na głównym celu obrażenia Cięcia równe <style=\"upgradeHighlight\">10%</style> końcowych obrażeń tej monety (1 raz na Umiejętność)",
+      "kr_sha256": "2aade62fd875b4da500976261250241562f14b9853343aeff80df39b08e47627",
+      "en_sha256": "a40a9ec6114fc995e0738489725684f8e22af427dc1611f95eaf0d0d10aa4aaa",
+      "origin": "ai"
+    },
+    "dataList[id=19291].name": {
+      "pl": "— nazwa] Kwiatowe Nożyczki+",
+      "kr_sha256": "9840afdec2458d5d241955b1fbc3918de8597413a81b279910c71b2ec7288173",
+      "en_sha256": "d6596d15ccf65272019c0f2209e1279a05dcc74fcf7904334a012d40aef55c7a",
+      "origin": "ai"
+    },
+    "dataList[id=19291].simpleDesc[abilityID=19291].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Cięcia[TabExplain] na głównym celu",
+      "kr_sha256": "e9746d546b07c63fb8dd07b41563bc0eb02afb6cabe602fd3d0c2d7b68108be5",
+      "en_sha256": "c474f40d488bdfb30bc20611a40e2dafe131161b2cf9c858021abcb8db56f45d",
+      "origin": "ai"
+    },
+    "dataList[id=29291].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości przydzielonej na 1. pozycji]\n\nPrzy trafieniu ostatnią monetą podstawowej Umiejętności Tożsamości Sisyphe lub [PersonalityCharge], zadaje na głównym celu obrażenia Cięcia równe <style=\"upgradeHighlight\">15%</style> końcowych obrażeń tej monety (1 raz na Umiejętność)",
+      "kr_sha256": "81a4817becd001bf22f7dc0fcbfdd47a269d3ddd4a0acbed5cea29de4672bb48",
+      "en_sha256": "563507940287758897cc1ad74659f6969b1aa0593d8733a6e0619635627ff274",
+      "origin": "ai"
+    },
+    "dataList[id=29291].name": {
+      "pl": "— nazwa] Kwiatowe Nożyczki++",
+      "kr_sha256": "2daaf7c3af02f12c63d6c298abcdf7a61f70a0a67e913b4e71526de021f6435e",
+      "en_sha256": "58c6ec4ab5aeebd6eeadcb0b460c897abd31b193524ab6569c9ae6e031b04cc9",
+      "origin": "ai"
+    },
+    "dataList[id=29291].simpleDesc[abilityID=29291].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Cięcia[TabExplain] na głównym celu",
+      "kr_sha256": "e9746d546b07c63fb8dd07b41563bc0eb02afb6cabe602fd3d0c2d7b68108be5",
+      "en_sha256": "c474f40d488bdfb30bc20611a40e2dafe131161b2cf9c858021abcb8db56f45d",
+      "origin": "ai"
+    },
+    "dataList[id=9284].desc": {
+      "pl": "— opis] Gdy sojusznicy odzyskują HP efektem Umiejętności lub Monety podstawowej Umiejętności ataku, odzyskują dodatkowo 50% (3 razy na turę, zaokrąglając w dół)\n\n[Efekt wyłącznie dla Haute Couture::Boutique du Rouge Ishmael]\nJeżeli Haute Couture::Czerwony Bóg Le Rouge Sinclair jest na polu wraz z jednostką, na początku tury zyskuje 1 [RougeIshmaelCocoon] i wchodzi w stan [RougeIshmaelCocoon] (1 raz na walkę)\n- Jeżeli wystąpił efekt pasywki „W głąb <noparse>Przymierzalni</noparse>...”: „W tej walce, gdy jednostka otrzyma obrażenia redukujące HP do 0, nie otrzymuje tych obrażeń i natychmiast zyskuje 2 [RougeIshmaelCocoon] oraz wchodzi w stan [RougeIshmaelCocoon] (1 raz na walkę)”, efekt wyłącznie nie wywołuje się\n- Gdy wywołano efekt wyłącznie, efekt pasywki „W głąb <noparse>Przymierzalni</noparse>...” — „W tej walce, gdy jednostka otrzyma obrażenia redukujące HP do 0, nie otrzymuje tych obrażeń i natychmiast zyskuje 2 [RougeIshmaelCocoon] oraz wchodzi w stan [RougeIshmaelCocoon] (1 raz na walkę)” — nie wywołuje się",
+      "kr_sha256": "76de275b5dd985c9bc0005a96f67569f53bb0750e374a061f80324a5f9234e07",
+      "en_sha256": "85dacea9635dbd9811d5a3a03fa02db6b7af04fb8ea330c517685c11e24e41c0",
+      "origin": "ai"
+    },
+    "dataList[id=9284].name": {
+      "pl": "Przestarzałe Ubranie Le Rouge",
+      "kr_sha256": "cc6828aa1cc49f52017660d5dbc9b95261f80777580156f2e4a9df68b8d74414",
+      "en_sha256": "ccb76c875349640ab6ec0f004f2406661dc774fa7f90c505722df59af6a31574",
+      "origin": "ai"
+    },
+    "dataList[id=9284].simpleDesc[abilityID=92841].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje dodatkowe HP",
+      "kr_sha256": "fe60f007f12e327733c9d490a3ac818dc6a5c4615be049995834056ae0cefc03",
+      "en_sha256": "11a0ad50ceb8c24b594bee7ef97fc1aa839b6f0b750f6d93ed7b238cd6d746eb",
+      "origin": "ai"
+    },
+    "dataList[id=9284].simpleDesc[abilityID=9284].simpleDesc": {
+      "pl": "— opis skrócony] Natychmiast wchodzi w stan [RougeIshmaelCocoon]",
+      "kr_sha256": "ed7149a7894f36227a4593545b9f97ed40f1550d3b5ac1c19120777885e69a46",
+      "en_sha256": "22cf2f5747411173ce42708347df3d0d0ff3ffb0b10a4132303e9d1b08060e90",
+      "origin": "ai"
+    },
+    "dataList[id=9285].desc": {
+      "pl": "— opis] Grzesznicy, którzy w tej turze przynajmniej raz odzyskali HP efektem Umiejętności lub Monety, zyskują na następną turę +10% obrażeń Umiejętnościami i [AttackUp] równy (suma odzyskanego HP w tej turze/10) (maks. 6, zaokrąglając w dół)\n\nJeżeli na polu są Tożsamości tej samej frakcji, Tożsamości tej samej frakcji poza jednostką zyskują [AttackUp] równy połowie [AttackUp] uzyskanego przez powyższy efekt (min. 1, maks. 3 na turę, zaokrąglając w dół)",
+      "kr_sha256": "1360258166b51bc7a3cdac62e4c7f60cdf9a506966628ccc04080c3da294d1b7",
+      "en_sha256": "8e2b40b8293100c95aeaf63d1aaafbf426b7e01625d3269d0ac30b205a24329f",
+      "origin": "ai"
+    },
+    "dataList[id=9285].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "7cb70ba98aa9f1a934560cbf7093afffd2c5e1be52e561cbe1290162afba71a7",
+      "en_sha256": "f5d082924e7e5b4ccc3cbf2c9af7e024f1652f1aa31c417e4517c562e152c762",
+      "origin": "ai"
+    },
+    "dataList[id=9285].simpleDesc[abilityID=9285].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń[TabExplain], zyskuje [AttackUp]",
+      "kr_sha256": "7243ef5afdda6cce20efeb7f872331d90f935b36b3e0813698308a1db1781514",
+      "en_sha256": "2e9bbf52d5b3a2969df8dfcee91d0340c67a9661cd381bcd31068605effcd8cb",
+      "origin": "ai"
+    },
+    "dataList[id=9286].desc": {
+      "pl": "— opis] Gdy sojusznik z Mocą [Charge] co najmniej 2 wywołuje [VibrationExplosion], stosuje poniższe efekty:\n- Zadaje obrażenia Żądzy równe (Moc [Charge] jednostki x Liczniki) (2 razy na Umiejętność; maks. 100 obrażeń na 1 wywołanie)\n- Jeżeli powyższy efekt zadał obrażenia Żądzy 2 razy, nakłada 3 [Binding] na cel na następną turę\n\nGdy sojusznik wywołuje [VibrationExplosion] Umiejętnością, za każde [VibrationExplosion] zyskuje (Moc [Charge] jednostki/3) [AttackUp] na następną turę (maks. 5 na turę, zaokrąglając w dół)",
+      "kr_sha256": "f916a152881bce9be5611cf37d4ac575272fb423bab3bab2382b2b0078bd31c4",
+      "en_sha256": "31192a9491fcd44b25edfa504186045ddfc30aa8390ba716681a2d308cd1c1d2",
+      "origin": "ai"
+    },
+    "dataList[id=9286].name": {
+      "pl": "Slacks Maison du Noir",
+      "kr_sha256": "becaa925a4c806dfc62a4986b598dd6b203320b609a316a179858564427a20cf",
+      "en_sha256": "465dcec4d6a107e14de953d69f5838b8963c530f66caaafe559d816794b7853b",
+      "origin": "ai"
+    },
+    "dataList[id=9286].simpleDesc[abilityID=92861].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [AttackUp]",
+      "kr_sha256": "50f7002497c52e9a32973115982fe05d7390456c25ffaee63de7164faadd242d",
+      "en_sha256": "e5f09d6b92e123e9e729b26d07ce7abedf8460a08d65f52afbbf5561566c0f29",
+      "origin": "ai"
+    },
+    "dataList[id=9286].simpleDesc[abilityID=9286].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Żądzy i nakłada [Binding]",
+      "kr_sha256": "dd7adba5287516efa85d28986d1c4767f5f8bbb954dac278d49b3ce9a79a3151",
+      "en_sha256": "d0ace29ecef0035ccd7e65e68aca8e656b1386f04d77e57f1cd2019d33b8faf3",
+      "origin": "ai"
+    },
+    "dataList[id=9287].desc": {
+      "pl": "— opis] Na początku walki, gdy atak trafi z Tożsamości posiadającej najwięcej Tarczy, zadaje obrażenia Lenistwa równe 50% obecnej Tarczy (2 razy na Umiejętność; maks. 100 na 1 wywołanie, zaokrąglając w dół)\n- Jeżeli 2 lub więcej Tożsamości ma tę samą wartość Tarczy, stosuje według kolejności przydziału\n\nJeżeli Tożsamość jest [PersonalityCharge], zadaje zamiast tego obrażenia Lenistwa równe 100% Tarczy (3 razy na Umiejętność; maks. 100 na 1 wywołanie, zaokrąglając w dół)",
+      "kr_sha256": "3bef283741e7c8a3ffe6ce89f687fe3f2e1ed97a108528f0b860abe688c05b1f",
+      "en_sha256": "145b056b7b4e8b009e734bd662188c5143d3d31cc32007bb4ba2593d107b3dd7",
+      "origin": "ai"
+    },
+    "dataList[id=9287].name": {
+      "pl": "Balerinki Mary Jane Le Noir",
+      "kr_sha256": "0204578d20fbc7f0d9999a124163772492244aeccfb416f645b149cd1e792f4b",
+      "en_sha256": "5beb07745a669c8c1b27e702cef8aea13ea20732a4d5bd6ae94a53039a638ef7",
+      "origin": "ai"
+    },
+    "dataList[id=9287].simpleDesc[abilityID=9287].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Lenistwa proporcjonalnie do Tarczy",
+      "kr_sha256": "c7d98735d8f07d7703b8fd9c4da2ea5988208188c62f47714d0cb0c2373bb7d5",
+      "en_sha256": "1d214eb11878986db9d19ba537f01bd257ff91754ecaff9e3719306c42ae3213",
+      "origin": "ai"
+    },
+    "dataList[id=9288].desc": {
+      "pl": "— opis] Na początku tury, jeżeli żaden wróg nie ma [SewingKingMark], nakłada [SewingKingMark] na losowego wroga (w walkach Skupionych — na Partię)",
+      "kr_sha256": "39af2c891f27fc72ceee1d676b34723b8c076385e3e8fcd2bff1a703e3259247",
+      "en_sha256": "a314ddb060ead06e26d6f93126b9a6a35be649bed2297c08b7484705d9279fa9",
+      "origin": "ai"
+    },
+    "dataList[id=9288].name": {
+      "pl": "Szpilka Króla Szycia",
+      "kr_sha256": "1e53a777c0a282a54786fe197ea1cff41f2f8435c71de9137556b8774b2d4469",
+      "en_sha256": "5275cbcb04f5fe187fce6250730814e7792ffc6fd0a8fb958cd243c3edb5a4b7",
+      "origin": "ai"
+    },
+    "dataList[id=9288].simpleDesc[abilityID=9288].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada [SewingKingMark]; zadaje stałe obrażenia po śmierci",
+      "kr_sha256": "8c5a2ba45f0f26f32193f3860260669f19e8a0e7d03d6cfc0c49d08dedd45049",
+      "en_sha256": "1467cdd97fd162a9beeb1c000c6574f1759ebc6c2ea4cbba33cddb9dc36423a9",
+      "origin": "ai"
+    },
+    "dataList[id=9289].desc": {
+      "pl": "— opis] Umiejętności zużywające Liczniki [Charge] lub Szczególne [Charge] zadają +(Moc [Charge] jednostki x 2)% obrażeń (maks. 10%)\n\nNa koniec tury jednostki, które w tej turze zużyły Liczniki [Charge] lub Szczególne [Charge], zyskują 1 [Agility] na następną turę\n\nJeżeli Szybkość celu jest niższa niż jednostki, Moc Starcia +1\n- Jeżeli Tożsamość należy do Sisyphe, zamiast tego zyskuje Moc Końcową +1",
+      "kr_sha256": "c31e8e6218204b47bbc7d8384f309ff648ab6ec0e8a9f59f9c66d85154b0937e",
+      "en_sha256": "56e77c14fc110b5e1feb4fb7ad047847399074cf135c6fe038e39f1c4d8cddc5",
+      "origin": "ai"
+    },
+    "dataList[id=9289].name": {
+      "pl": "Chrząstka",
+      "kr_sha256": "74c36e40a8f941dda60f63d3669eba81771d1c24329ca70ffc7f6dee7bbbaf65",
+      "en_sha256": "655f6789648a827dca446d5ffe51b7992eeaf5b8e70bd66ec1be438e9ad24391",
+      "origin": "ai"
+    },
+    "dataList[id=9289].simpleDesc[abilityID=9289].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń, zyskuje Moc Starcia lub Moc Końcową[TabExplain], zyskuje [Agility]",
+      "kr_sha256": "80d29cb7d557ae9c9de4941c34ffba2306798d2a91fa1dc129816ae34851cef7",
+      "en_sha256": "eea2005f91703e5e038e22a981261ba56866cbc222e1c257f8b2e9d94a224ed3",
+      "origin": "ai"
+    },
+    "dataList[id=9290].desc": {
+      "pl": "— opis] Tożsamości, które w tej turze założyły Umiejętności obronne, otrzymują -20% obrażeń od ataków wrogów\n- Na koniec walki jeżeli jednostka jest [PersonalityCharge], zyskuje 2 [AttackUp] na następną turę\n- Na koniec walki jeżeli Tożsamość należy do Sisyphe, zyskuje 1 [ResultEnhancement] na następną turę",
+      "kr_sha256": "85184d86d9f098f0544b04e26d0337bc911d4cb0e80ebfcbd3029a6c3ec1e503",
+      "en_sha256": "a7699690c9675607448e25e39420d108fffcd84d1d36c991bbaf2ccaeb5a215d",
+      "origin": "ai"
+    },
+    "dataList[id=9290].name": {
+      "pl": "Koc",
+      "kr_sha256": "989e871fdd7d2dee7efe5084d07f8e929cc20c0a1482073736d1c9d89ff056b0",
+      "en_sha256": "c18f9ed184c7e012808772ac2f388985c0b065f51374afc51457d6d286b512de",
+      "origin": "ai"
+    },
+    "dataList[id=9290].simpleDesc[abilityID=9290].simpleDesc": {
+      "pl": "— opis skrócony] Otrzymuje mniej obrażeń[TabExplain], zyskuje [AttackUp] lub [ResultEnhancement]",
+      "kr_sha256": "8be48ef5d5b28d337ae778fb74b60134de1ba837258a81e2f13d5f964edb935a",
+      "en_sha256": "b2e2fe8e9472048cbf3728ce0941cba2851393f84590cff72c5db95767d83f52",
+      "origin": "ai"
+    },
+    "dataList[id=9291].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości przydzielonej na 1. pozycji]\n\nPrzy trafieniu ostatnią monetą podstawowej Umiejętności Tożsamości Sisyphe lub [PersonalityCharge], zadaje na głównym celu obrażenia Cięcia równe 5% końcowych obrażeń tej monety (1 raz na Umiejętność)",
+      "kr_sha256": "8032a64e90eb7fcd6f4445acaf75ca7a4026c6a913d5bf3be19a4a26f893a7aa",
+      "en_sha256": "95e57921ef910f37d0d62cc045abdadb12f127aa38b0e4c2c3f8c618d1fbe1ab",
+      "origin": "ai"
+    },
+    "dataList[id=9291].name": {
+      "pl": "Kwiatowe Nożyczki",
+      "kr_sha256": "b7025acf93657a525a7ceaec20ea6e78f7337600e23d570e430db63934eeec87",
+      "en_sha256": "77c1b979a4a832b1dddf530ca331c8a796ea8560ff9a480c780e4ccce3fe00de",
+      "origin": "ai"
+    },
+    "dataList[id=9291].simpleDesc[abilityID=9291].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Cięcia[TabExplain] na głównym celu",
+      "kr_sha256": "e9746d546b07c63fb8dd07b41563bc0eb02afb6cabe602fd3d0c2d7b68108be5",
+      "en_sha256": "c474f40d488bdfb30bc20611a40e2dafe131161b2cf9c858021abcb8db56f45d",
+      "origin": "ai"
+    },
+    "dataList[id=9301].desc": {
+      "pl": "— opis] Na koniec tury, gdy jednostka ulega Oszołomieniu, wychodzi z Oszołomienia, a na początku następnej tury nakłada na wszystkich wrogów 4 Moc [Sinking] i 4 Liczniki [Sinking] (1 wywołanie na walkę; w walkach Skupionych — na Partie)\n- Za każde 2 Tożsamości Wichrowych Wzgórz i Rodu Edgarów w składzie wywołania na walkę rosną o 1 (maks. 4 wywołania na walkę, wliczając jednostki zapasowe)\n\nPrzy zabiciu wroga Liczniki [Sinking] 1 wroga o najniższych Licznikach [Sinking] rosną o 2 (w walkach Skupionych — na Partie)\n\nPrzy trafieniu atakiem wroga posiadającego Poczytalność, jeżeli Poczytalność celu wynosi -45, zadaje obrażenia Posępności równe Mocy [Sinking] celu\n\nW walkach Skupionych przy trafieniu atakiem wroga o sumie Mocy [Sinking] i Liczników [Sinking] co najmniej 10, zadaje obrażenia Posępności równe (Moc [Sinking] celu/2) (1 wywołanie na Umiejętność)\n\nJeżeli Umiejętność, która trafiła wroga atakiem, nakłada [Sinking] (wliczając Liczniki i Szczególne [Sinking]), zadaje zamiast tego obrażenia Posępności równe (Moc [Sinking] celu)\n(stosowane tylko dla Umiejętności nakładającej [Sinking], która pierwsza trafiła atakiem w tej turze)\n\n[Efekt wyłącznie dla Dzikiego Gonu Heathcliff]\nNa początku tury, jeżeli nie ma [NightPathfinding], zyskuje 1 [NightPathfinding]\n- Jeżeli [Coffin] jednostki wynosi 5/10, zamiast tego zyskuje 2/3 [NightPathfinding]\n- Nakłada 1 [SoundOfStorm] na Tożsamości Wichrowych Wzgórz i Rodu Edgarów (3 razy na walkę na Tożsamość)\n\nZa każde zyskanie [Coffin] zyskuje 2 razy więcej\n- Tożsamości Wichrowych Wzgórz i Rodu Edgarów zyskują również 2 [Coffin] przy zabiciu wroga\n\nWartość Poczytalności zmniejszana efektem użycia „Zalujcie, Opłakujcie, Rozpaczajcie” rośnie o 15\n- Dzięki temu Umiejętność i Dar nie pozwalają Poczytalności spaść poniżej -40\n\nPrzy trafieniu ostatnią monetą „Zalujcie, Opłakujcie, Rozpaczajcie”, jeżeli [Sinking] wroga wynosi co najmniej 20, zadaje obrażenia Posępności równe 100% końcowych obrażeń tej monety",
+      "kr_sha256": "2315901a47b8ba0c362e45f70b193f943b61439dd38a28f26e4aaf2af6e876a3",
+      "en_sha256": "2639f9922c7f11e70dfc2a345dca1fbc92aae1f7f885dd949c9590b84c66b352",
+      "origin": "ai"
+    },
+    "dataList[id=9301].name": {
+      "pl": "— nazwa] Wichrowe Wzgórza",
+      "kr_sha256": "e15a0e12dfc04965c2477c6ee29b3a692e865458c819944617e37d1ffea67fb5",
+      "en_sha256": "404fcf69f65aa086b9797b4b9794c128e8102b48b7ea4c5afba4a8363ecb63db",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=93011].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [NightPathfinding], nakłada [SoundOfStorm] na Tożsamości określonych frakcji",
+      "kr_sha256": "812abd616dcb07ddd09728e0f6499da5960223049e7f94ae3d3ebb6223dcc6e6",
+      "en_sha256": "8d95d2930961b18a188551bfc0db20605f492e312368258eaa1d77addbf50db9",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=93012].simpleDesc": {
+      "pl": "— opis skrócony] Za każde zyskanie [Coffin] zyskuje 2 razy więcej",
+      "kr_sha256": "966cfb8f1b19bd6af2afcc24cd08d53d81cac55b5c23f13255158cba388c4710",
+      "en_sha256": "bb1fe42c722c91ca5f93fd7d56f5cbcbb8ec212b1105edde915c3125811397d7",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=93013].simpleDesc": {
+      "pl": "— opis skrócony] Tożsamości określonych frakcji zyskują [Coffin] przy zabiciu wroga",
+      "kr_sha256": "7cb86b3037685612c2bcc58938a8f5ffa563f6aa152c752e19094afb0d33ef65",
+      "en_sha256": "1aa9973fd8f0b88c75769c241b6b15ed59426964fddd14c38c579ec2199613ac",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=93014].simpleDesc": {
+      "pl": "— opis skrócony] Użycie „Zalujcie, Opłakujcie, Rozpaczajcie” kosztuje więcej Poczytalności",
+      "kr_sha256": "e5f0085d4c1198b2ae3c84cadaed0c15363759e1433d00e8a8bf1f8b4148e3e9",
+      "en_sha256": "b4a8b2b78e08791b231306b670339a177065310a33e606b147205c56271312c2",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=93015].simpleDesc": {
+      "pl": "— opis skrócony] „Zalujcie, Opłakujcie, Rozpaczajcie” zadaje obrażenia Posępności przy trafieniu ostatnią monetą",
+      "kr_sha256": "462bd90416f8b4f5789b39cbfd8a6a9bb351166f1d85fb2b33534d6603c1d8e6",
+      "en_sha256": "dab8a54651913cf6cc34b3c1d38532fa400dcd11f5625527a64333a8f2fbd0d1",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=94321].simpleDesc": {
+      "pl": "— opis skrócony] Wróg o najniższych Licznikach [Sinking] zyskuje +2 Liczniki [Sinking]",
+      "kr_sha256": "543e2b11e283abf89d3dc93dbc03f46d3054d15fb56e9e5e3749c27002877439",
+      "en_sha256": "41313e5b77a31d1907f320d913d39056b101a021b020b8f90703e3a1e1f1372a",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=9432].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 4 Moc [Sinking] i 4 Liczniki [Sinking] na wszystkich wrogach na następną turę",
+      "kr_sha256": "bd196970cdfb971b008cb27136d22f49d9b95dbb2f0deff9b4ae07a8c97c9634",
+      "en_sha256": "dde967bde611341edd963d3914e812a5a26002989875797311d1941ae39321c8",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=94361].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Posępności proporcjonalnie do [Sinking] celu",
+      "kr_sha256": "d34ecd8b03fe5f7f9a52d37bcf63ddf8825c2a67cab73370127e310c06837c2a",
+      "en_sha256": "1a1063cd18b158850487e2b21eae6540abaf6a4d5035416e98c0937bdac864ae",
+      "origin": "ai"
+    },
+    "dataList[id=9301].simpleDesc[abilityID=9436].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Posępności proporcjonalnie do [Sinking] celu",
+      "kr_sha256": "d34ecd8b03fe5f7f9a52d37bcf63ddf8825c2a67cab73370127e310c06837c2a",
+      "en_sha256": "1a1063cd18b158850487e2b21eae6540abaf6a4d5035416e98c0937bdac864ae",
+      "origin": "ai"
+    },
+    "dataList[id=9302].desc": {
+      "pl": "— opis] Na początku tury, jeżeli Poczytalność wynosi co najmniej 40 lub co najwyżej -40, zyskuje 1 [GainSinStockAdder]\n\n[Efekt wyłącznie dla Tożsamości posiadających co najmniej 2 Umiejętności monety Minus]\nNa początku tury traci 15 Poczytalności (dzięki temu efektowi Poczytalność nie spada poniżej -40)\n\nW tej walce, gdy jednostka otrzyma obrażenia Poczytalności obniżające ją do -45, jej Poczytalność pozostaje na -44 przez tę turę (1 raz na walkę)\n(※ stosowane tylko do obrażeń Poczytalności; nie stosuje się, gdy Poczytalność się zmienia lub jest zużywana, np. przez użycie Umiejętności E.G.O)\n\nPrzed rozpoczęciem ataku Umiejętnością 3 lub Umiejętnością E.G.O, zużywa do 5 Zasobów E.G.O tego samego Grzechu co Umiejętność, zadając <noparse>wzrost Obrażeń</noparse> o (zużyta wartość x 10)%",
+      "kr_sha256": "a33f24e71c8f2c290b216f42e22bf5ddb29267dc2ee25e686af66ed881560730",
+      "en_sha256": "ff85d62d97425d944ce92cde877d62e046a45d65592b33d0d55263adfd3549dc",
+      "origin": "ai"
+    },
+    "dataList[id=9302].name": {
+      "pl": "— nazwa] Miara Mrozu",
+      "kr_sha256": "a01acb6df6988631c4da7487b53eba80784dad8f3c656afd840c40e7635bd1ad",
+      "en_sha256": "75c794de9fea9ccc225c2b748445a6f3035707438c45fa4dc77c9e4afddaaa92",
+      "origin": "ai"
+    },
+    "dataList[id=9302].simpleDesc[abilityID=93021].simpleDesc": {
+      "pl": "— opis skrócony] Na początku tury traci Poczytalność",
+      "kr_sha256": "dac93da7a974fcce3cb34bd82b75f0879dd8339a8835eee6bb4986a32e3c32a4",
+      "en_sha256": "d8d65a9b9ef92b87e60b1f07a4d224993b83ea55a321729c2207ec37f29f6356",
+      "origin": "ai"
+    },
+    "dataList[id=9302].simpleDesc[abilityID=93022].simpleDesc": {
+      "pl": "— opis skrócony] Utrzymuje Poczytalność na -44, gdy otrzyma obrażenia obniżające ją do -45 (1 raz)",
+      "kr_sha256": "d981094451727add0761edb049eac90209bce6e2fa588768ce397f841ff9bf09",
+      "en_sha256": "8d7caae8b1cd48fdaa74385755340a941139ecdab37f9a8a591256eedeaace19",
+      "origin": "ai"
+    },
+    "dataList[id=9302].simpleDesc[abilityID=93023].simpleDesc": {
+      "pl": "— opis skrócony] Zużywa Zasoby E.G.O, by zadawać więcej obrażeń Umiejętnością 3 i Umiejętnościami E.G.O",
+      "kr_sha256": "a1a45c4fb6c8eb834b9567132a15beaf345070e23c23001e1845a5660f9e46a9",
+      "en_sha256": "be60e699b79b4de0f6b55dfc779d73523cc60489f59e16f142a7a0e7e09a8198",
+      "origin": "ai"
+    },
+    "dataList[id=9302].simpleDesc[abilityID=9302].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [GainSinStockAdder] przy spełnieniu warunku Poczytalności",
+      "kr_sha256": "a4795ca5f0f2d1d740c9ffd20b2a2984e714edac9518761940e1ae665fbbe073",
+      "en_sha256": "afca726cbb3358053393472a895b6369c777ccf2c8b4120aee1b06fade05cb1f",
+      "origin": "ai"
+    }
+  }
+}

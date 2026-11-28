@@ -1,0 +1,144 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "I jak, smakuje ci, Faust?",
+      "kr_sha256": "9262ed7fdeeb7059bcf6329d23b80c0931d5dea0b9d7dd36c8c8fffdc0095b4b",
+      "en_sha256": "8a4cf1e56ab5f255567630fd5378bae2dc9ce6217a347bbc5b10503755544d31"
+    },
+    "dataList[id=10].content": {
+      "pl": "Ha, ha, po prostu język nawykły do tanizny wyczuwa mniej smaku~",
+      "kr_sha256": "a73550c4b4ec5882bbbc3047fed5acb99edbe9c212ea69567792510533f953ab",
+      "en_sha256": "05daf45108663d5b1ddb0f7cd26ed46b93ab10c83062c314b722432d42668b03"
+    },
+    "dataList[id=11].content": {
+      "pl": "…Hm.",
+      "kr_sha256": "b5b89112c81759fac65af960b3e347d9a7f449c6f1250c37291f666dda8da4ff",
+      "en_sha256": "189f1de1c5c208aab347f394338d2f59e5d75be8db51d7b27aeb8a7ca0227865"
+    },
+    "dataList[id=12].content": {
+      "pl": "Wokół stołu krążył taki chłód, że zdawało się, iż herbata zaraz wystygnie.",
+      "kr_sha256": "f1bea0bed0784d9eef580a19285800d549124e7f41dd5725924243d581c5275d",
+      "en_sha256": "4ecd240b75f31279c9e817cdba11a699c8c1d31c16699baf6f0fb320ffaea8ed"
+    },
+    "dataList[id=13].content": {
+      "pl": "Choć herbata, rzecz jasna, nie wystygła.",
+      "kr_sha256": "ea3c8ea07c3ecfaa1a4e613ac19d480f777ef8ca38a2a01843c636780741d576",
+      "en_sha256": "9d5dfeb009801b9948cd8ad687f06f1beb85167cd0031b70d958b4d50dbb3ea2"
+    },
+    "dataList[id=14].content": {
+      "pl": "Ekhm, zdaje mi się, że nie zebraliśmy się dziś, by roztrząsać przymioty herbaty.",
+      "kr_sha256": "5534a068a7d4a22b95f69e0f5af9db0cc25dd2e7127119402d94aeab34adf585",
+      "en_sha256": "50f957118a231bbb8d2846852f8369d0477399abad881189746c8f545ef1399f"
+    },
+    "dataList[id=15].content": {
+      "pl": "Atmosfera, która omal nie zamarzła, znów ożyła.",
+      "kr_sha256": "4803d6aa57f657831000a9698a4f79ec1e1593ebf25e7ac3fbbb3a6d8f495ad6",
+      "en_sha256": "1940c7beac9c92095aeb4979088ad612b872addf0f046ace2fcc831d733f452d"
+    },
+    "dataList[id=16].content": {
+      "pl": "Ach, racja. Czyli… chodzi o to, co się stało na ostatniej misji, tak?",
+      "kr_sha256": "0ebfb49a3b60c3108119ac4f1171fb9288ebf63838bd097fe7c66bac632e23fb",
+      "en_sha256": "606a94e057459050cd25ea964d14a4ef13a33c14b89ef166e556c63969bc609a"
+    },
+    "dataList[id=17].content": {
+      "pl": "Owszem. A ściślej… o pana lewe oko.",
+      "kr_sha256": "7c34e3da29032ce449ad98deae1854974b757207a9a609d5962cd10df0d03fb7",
+      "en_sha256": "cfc03748bdeb431792d049f0e019911a266b84520642cfc8b3b4fad3b4d01470"
+    },
+    "dataList[id=18].content": {
+      "pl": "Dziecko z rozbawioną miną przełknęło łyk herbaty.",
+      "kr_sha256": "0f5c756283b5de44f754ddaa67da5f0273cd784e094dbe537ac33b9e928ccd89",
+      "en_sha256": "569cc6d3585b381cc054daf33464044bbec1de817a434747952ebe5bf0386f65"
+    },
+    "dataList[id=19].content": {
+      "pl": "Na twarzy miało dziwną, nieodgadnioną mieszaninę uczuć.",
+      "kr_sha256": "6318bdf06ce8b45261f02de9b52f7c0bd983c2744208988a84afa0c33c409537",
+      "en_sha256": "25d74d96d769acd4834847e77408593668e01b7d72921851af83b8e020b9b382"
+    },
+    "dataList[id=1].content": {
+      "pl": "…Hm. W porównaniu z aromatem smaku nie ma żadnego. …Czy to w ogóle fizycznie możliwe?",
+      "kr_sha256": "6ebdf1733f2cc150522e70f0f8237068f70a9f8a98423e07733e0657adae6c95",
+      "en_sha256": "33bfbfbd2063d04891a1b26138b29f3207e209eec7a4ef41525d35d663679339"
+    },
+    "dataList[id=20].content": {
+      "pl": "Moje oko faktycznie świeci jakoś szczególnie~ Nic dziwnego, że was to ciekawi.",
+      "kr_sha256": "c13de03474918bc1c6fd1282754af92b21d4e0589c72acccd20e0d29be8a3173",
+      "en_sha256": "b8dc4af7c0e8da23bccc4b94eed87df9ea5f8d5d6c1e220bdb280cbe311c694a"
+    },
+    "dataList[id=21].content": {
+      "pl": "Ludzkie oko działa podobnie do obiektywu aparatu, ale gałka oczna nie zaczyna nagle świecić mocniej czy słabiej.",
+      "kr_sha256": "23cf2a9c48de065040de4f9aef80b8787bebdba3478fe6eaa5eedcde197d397f",
+      "en_sha256": "31c80bbae02d91c5ada67d354b9fbd591559e05d6c8df279470e1e75b514fa9d"
+    },
+    "dataList[id=22].content": {
+      "pl": "Te wykręty dziecka chłodno ucięła osoba o białych włosach.",
+      "kr_sha256": "690c457106bb6a0e8d2a353220780cf46ac53e9f6361c1f0a28236c83d2b0368",
+      "en_sha256": "795d0683bdcd0ab1f22bbf0f9487ffbc4deec28ff9fbf23124940afb8132ada8"
+    },
+    "dataList[id=23].content": {
+      "pl": "Nawet gdyby było sztuczne, i tak byłoby to dziwne. Czemuż panicz, który częstuje gości taką herbatą, miałby w tych czasach nosić oko tak ostentacyjnie mechaniczne?",
+      "kr_sha256": "53365505d6d974e91c4a10d7a985b3591b4ae9788d9cc1274d715762625c825c",
+      "en_sha256": "569c37b80abaca37a3e01fbe344f31a3a2a94805cce948a1178c8331d2959cb1"
+    },
+    "dataList[id=24].content": {
+      "pl": "Co poradzić, skoro taki się urodziłem~ Byłem… dzieckiem drogim jak klejnot.",
+      "kr_sha256": "dac0f5c00f686f3193e06a5e264fc8471956f38849b84832d5871c6223078887",
+      "en_sha256": "15bfe0990c1c9d15cbe8686c1955173a057ba1c62386d8e2a6433e05a7c46713"
+    },
+    "dataList[id=25].content": {
+      "pl": "W głosie dziecka chyba pobrzmiewało lekkie drżenie, ale zebrani przy stole aż tyle nie zauważyli.",
+      "kr_sha256": "720e2155e4156db013bb2b999c40ffc204613e2d839f8a628810ee270026c311",
+      "en_sha256": "0a0f56c30c354fca83d6d52a553e616be038fbbd3f1ed6e65f3d03d94b887932"
+    },
+    "dataList[id=26].content": {
+      "pl": "I całe szczęście.",
+      "kr_sha256": "0d91154f0b8f28ede3c0e4070bb97e54242689544d93d07633e97ebcf35448c3",
+      "en_sha256": "e971da3f39a6abcd3288495bac2dbc36f2e18c62c1078e8b382b496879014e0a"
+    },
+    "dataList[id=27].content": {
+      "pl": "Bo dziecko… nigdy nie wiedziało, kiedy jego oko rozbłyśnie.",
+      "kr_sha256": "558ac558838c47297f0fcdb85ea0e2bbd39411541c2801bb8d4e3a98410911ff",
+      "en_sha256": "99758ba935d3c81e546aec1639a28e00ef265c4f1a387ee3d504414a3b17ae36"
+    },
+    "dataList[id=2].content": {
+      "pl": "Oko dziecka zalśniło nefrytową zielenią.",
+      "kr_sha256": "309e2fb94e1f3265c40004bf67a292169ed5d89ebe084160350dbeded44071be",
+      "en_sha256": "f98352534da3ec3e54d2026bd9bf3434d51f5aec2d24c4f933d9678b7b7089ae"
+    },
+    "dataList[id=3].content": {
+      "pl": "Zawsze było nefrytowe… ale czasem, tak jak teraz, lśniło jeszcze mocniej.",
+      "kr_sha256": "b4bf70c7ad19976c3b80f86f5eef63a4d8084c0a692d24e7a989c9ba42e874e6",
+      "en_sha256": "342e0107b88730f69df5a7c4c15966b886098a368693558b24fd3323ec8246f0"
+    },
+    "dataList[id=4].content": {
+      "pl": "No właśnie! Na tym polega urok tej leżakowanej herbaty.",
+      "kr_sha256": "56b0f46471b8c704f64feb363e54a186038f48434e609eef8af258bcde48e43e",
+      "en_sha256": "484351acaf6f78d7bf8ab1013e7bb967433dbe9708c5781f4a5fffc8262cb771"
+    },
+    "dataList[id=5].content": {
+      "pl": "Dziecko trajkotało z wyraźnym zapałem.",
+      "kr_sha256": "62562c60fbce93e635dd6d7602b03b646897061d60f23a0ffe73d916aa04d798",
+      "en_sha256": "b64a7b57aaa57f934cd34a157f76999fcc057542ce1022e585fcf287a2fbda1d"
+    },
+    "dataList[id=6].content": {
+      "pl": "To najprzedniejsza pu-erh, dostarczana wyłącznie mojej rodzinie. Dojrzewała ponad dwadzieścia lat w idealnych warunkach… Wprost bezcenna~",
+      "kr_sha256": "a88b2f1b6664acad31bfb2f529d93a14ce68a0ab4bc58a7aa178741b60e1933c",
+      "en_sha256": "2754d53e968de1b1692251da0754c629bb00676c8aaeede8518172de9f212d18"
+    },
+    "dataList[id=7].content": {
+      "pl": "Khem.",
+      "kr_sha256": "5effb8a05c3c6344c1e3266ad5454e8c3f9a9a3a3ce1f92c389e6584e0c6c4a6",
+      "en_sha256": "687afb80d6c824cdb3ebdf80994e29af5feb9db9685cb7fd1712b7c2c842e7d9"
+    },
+    "dataList[id=8].content": {
+      "pl": "Mężczyzna obok, który właśnie przechylał czarkę, zakrztusił się i odkaszlnął parę razy.",
+      "kr_sha256": "06732c83b51c6101c0d7ce53e63ffb7f94165b0b912cbb2cab63374737bc416c",
+      "en_sha256": "b8102fbbd81383b05bcd4dfa70391a79b8801ef9fbcbcf107ec3924f957e2c07"
+    },
+    "dataList[id=9].content": {
+      "pl": "Zastanawia mnie jednak, czy jest jakiś powód, by płacić tak wysoką cenę za… nazwijmy to, wodę z zapachem?",
+      "kr_sha256": "ead16cafc9f3a1dd34cc80767f829027f731da88fa727fb2b6c0a4b0982a6918",
+      "en_sha256": "476c053b74bacc1cc231719efc31fbb21170884f16e45c96484813a7fdf5ca52"
+    }
+  }
+}

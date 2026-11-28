@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "dataList[id=90195].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90195].name": {
+      "pl": "Talisman Jar Monster",
+      "kr_sha256": "b7ef19a86b1db26680d66d7f9e9783700b9051d59a85b78f78cbe8466f11bc35",
+      "en_sha256": "c4aed2e39eb80a10c932b263cfc22938077b86507688fac06d6fbb3d22495624",
+      "origin": "ai"
+    },
+    "dataList[id=90196].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90196].name": {
+      "pl": "Nailed Jar Monster",
+      "kr_sha256": "f7fee9fb9e30753824d888abbb9573671c2544e1329dd3411a9a7345aca969bb",
+      "en_sha256": "0456da0ac6894304e8f191d208c272a3ee50d1dab3d849a2a4b8b2a76609fe66",
+      "origin": "ai"
+    },
+    "dataList[id=90197].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90197].name": {
+      "pl": "Entangled Jar Monster",
+      "kr_sha256": "23c4c62202a05e01771b2e577a82fd3987e105e4376c3cc150524386dfcd695e",
+      "en_sha256": "22f1153803bf44444177a480f0ee9b30051d0d5b46765b5e10db58db31e0cda9",
+      "origin": "ai"
+    },
+    "dataList[id=90198].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90198].name": {
+      "pl": "Furtive Podao Assailant",
+      "kr_sha256": "9744a1d49d9e3c116fe1230ef0acc980da323d7c2631b73a2ac7cfc7fabdfd85",
+      "en_sha256": "905b768c5a164c5627bcf03b2964ba4b839ab726d8c2bb1c7164a4749a975f3d",
+      "origin": "ai"
+    },
+    "dataList[id=90199].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90199].name": {
+      "pl": "Swift Podao Assailant",
+      "kr_sha256": "fdacdd1541aa2f6e6c48fe762c019b3afa3ef2adb73b3cf2b5333f836e1c67a5",
+      "en_sha256": "b50568935b264908f93912932e129100f261bf7bc912938c9677887589b4b8f5",
+      "origin": "ai"
+    },
+    "dataList[id=90200].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90200].name": {
+      "pl": "Large Podao Assailant",
+      "kr_sha256": "2260f0ea106b4609114a5dc006eeaa4c2d4307ec6838967ab30e7758cbb89b74",
+      "en_sha256": "8d745552e78df399b4eb282dd67853255a51a7bdd439c1639244e212a8dc3b53",
+      "origin": "ai"
+    },
+    "dataList[id=90201].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90201].name": {
+      "pl": "Bandaged Wooden Dummy",
+      "kr_sha256": "9651290a337ce3fd3e83e7ea6a156c4b3a13ef1aaaa7f6732759718a2bef947a",
+      "en_sha256": "7e548ce80369727c8c32dc89fb710cb5c24cd6dccd0e97cb866fffd9775250f4",
+      "origin": "ai"
+    },
+    "dataList[id=90202].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90202].name": {
+      "pl": "Spiked Wooden Dummy",
+      "kr_sha256": "d41a34d868fbafe1d674f28deae2e8b0b040441490439bc08762e86b480d8dc1",
+      "en_sha256": "865435aa90276acedc683678c58130ed0d3a5ead87e913f8510e5ec62be4699b",
+      "origin": "ai"
+    },
+    "dataList[id=90203].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90203].name": {
+      "pl": "Swift Ambushing Stranger",
+      "kr_sha256": "556ff661ea2ba8a325dc9a6b36437d635099dcef28e95a134ab6f9ebd16b898a",
+      "en_sha256": "61d41ee144686f06f8e68866b49c878c29e2f4cd6916d59f0b938341333dd76e",
+      "origin": "ai"
+    },
+    "dataList[id=90204].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90204].name": {
+      "pl": "Swift Pursuing Stranger",
+      "kr_sha256": "4a4eac0e5e83c181f7776a141c741256d8bed8b180e3485603e8fe6885190eb5",
+      "en_sha256": "b417eb0df986f5db59362e49d8aee29c251e27f54cde87f8b06800bdbea5dc8e",
+      "origin": "ai"
+    },
+    "dataList[id=91021].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=91021].name": {
+      "pl": "Night Drifter of the Drunken Palm",
+      "kr_sha256": "ef428ef75f50ab3be22b192fb09a47e1a471a26d7dcfd3937341bc5e86108893",
+      "en_sha256": "2a9e406febc668cfa051473c0c56387ca78fdd46cbd4a402574a47e7024a78ca",
+      "origin": "ai"
+    },
+    "dataList[id=91022].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=91022].name": {
+      "pl": "Monster from the Gorged and Devoured Jar of Loneliness",
+      "kr_sha256": "b2d8dea376b556366832311d615a8f7906aebe7a9a0f1b355ab029d2d201d448",
+      "en_sha256": "e6baae1f8acc9942ad5de2a13515f577ed9801e196d655a4344fc3381ff781bc",
+      "origin": "ai"
+    }
+  }
+}

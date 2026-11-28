@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=9021501].desc": {
+      "pl": "w ciągu tury, jeżeli jednostka zredukowała Licznik [BurstPoison] celu do 0, zyskuje 1 [PenetrateDamageUp] w następnej turze (maks. 2)",
+      "kr_sha256": "7c8be0781bacbc53c4d21b437ab54cfed9cb60ec0f77149bf2f4e4a545434584",
+      "en_sha256": "426f0ff4b3d93e8f4a61dcada14947eec53691e031b6785ad33cfd21e831c86a",
+      "origin": "ai"
+    },
+    "dataList[id=9021501].name": {
+      "pl": "Now's Our Chance",
+      "kr_sha256": "3eaa88698c023c5706aa74b9468de122314feb6cd3313ec3516a115e7ae08477",
+      "en_sha256": "6a7167a93444e3a675be60ed9cf54cbe41fa31c337a7a8121b8c9a0c7549f265",
+      "origin": "ai"
+    },
+    "dataList[id=9021502].desc": {
+      "pl": "jeżeli cel ma [BurstPoison], zadaje +2.5% obrażeń za każde [SnakeStance] jednostki (maks. 7.5%)",
+      "kr_sha256": "400888192df79080082c608fb8acb738fdba423db550cf48c5d35d04e8ac9015",
+      "en_sha256": "1badf6c23d03499359b1dc44a2fd680574f90edfa1d6d0ac96d2fe3da0800b99",
+      "origin": "ai"
+    },
+    "dataList[id=9021502].name": {
+      "pl": "Snake Venom",
+      "kr_sha256": "2f2b6eb866787e2460136beda7b42fdd0c7c049bebb451c966abfea881f23761",
+      "en_sha256": "421e2b2a6797ace883f8a722b6d5ca40015002f6b1120f7aa2510878bdc48bc3",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].desc": {
+      "pl": "przy ataku [WideAreaRampage], atakując tego samego celu, zadaje +20% obrażeń i nakłada o 1 więcej Siły albo Licznika [Burst]",
+      "kr_sha256": "3ca08b5e0da85c0c0edc66d8d73c4d43d8ea20069c79589e09439deeb0fa314b",
+      "en_sha256": "9e0e53384780a557a0a5c767d7547b4856d8cf129add904c1832d3daf23cdd65",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].name": {
+      "pl": "I See Your Weakness",
+      "kr_sha256": "71f324ab8fb53a94da61d36794869f2bdab444d66b79f26645b6d00ae49385c6",
+      "en_sha256": "8fefc18491bdf105c10c93fbfcd2c5ea639d1f3f4ea66aeb1120d02764778696",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].desc": {
+      "pl": "w ciągu tury, jeżeli jednostka zredukowała Licznik [BurstPoison] celu do 0, zyskuje 1 [PenetrateDamageUp] w następnej turze (maks. 2)",
+      "kr_sha256": "7c8be0781bacbc53c4d21b437ab54cfed9cb60ec0f77149bf2f4e4a545434584",
+      "en_sha256": "426f0ff4b3d93e8f4a61dcada14947eec53691e031b6785ad33cfd21e831c86a",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].name": {
+      "pl": "I Spy an Opportunity",
+      "kr_sha256": "12a235e20c190f72510790bad0d1b9739ccb546f293998ca98f75a857f4513cf",
+      "en_sha256": "e020135c5872ed50cc6e01eefe49433756e1c29ff83f682946e159fdc90cd356",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].desc": {
+      "pl": "jeżeli cel ma [BurstPoison], zadaje +5% obrażeń za każde [SnakeStance] jednostki (maks. 15%)",
+      "kr_sha256": "ee62f04c86943039b08d50e8f7205208561a76c119549553d001e06c3a305fe8",
+      "en_sha256": "81b50fcef47f8523b0c1759846514958c295c7e32ad8c714331afa135c3ad40e",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].name": {
+      "pl": "Snake Deathvenom",
+      "kr_sha256": "c3160d0f2592b93469fb9331a2a57e230438bf5d9d4b872da6e2584e85c8519b",
+      "en_sha256": "4b4356d776145c4149e73c580364ec15d3d3debb16be3a6c91f37fa14e53d088",
+      "origin": "ai"
+    },
+    "dataList[id=9102601].desc": {
+      "pl": "gdy dochodzi do siebie z Oszołamienia, zyskuje 1 [Enhancement]",
+      "kr_sha256": "17c7ce37cbcf16148e9b27b4fbdf5297ac3a3c84ad4bf2cf8b2cd256a5ca5219",
+      "en_sha256": "1c9d266ff50a379c3f818a0a39d8f4bc1f40a4cd49f59b425a2c65d8c10be737",
+      "origin": "ai"
+    },
+    "dataList[id=9102601].name": {
+      "pl": "Determination",
+      "kr_sha256": "cca36bb53d51212b9d1da928c188652cee834214844908f768dd8e2252a61e75",
+      "en_sha256": "c07513328104b15e2b3be00a018a690231b1fdf8fa441b5103182b3d8199aa55",
+      "origin": "ai"
+    },
+    "dataList[id=9102602].desc": {
+      "pl": "przy wejściu na etap zyskuje [StudyStatSinclair] zależnie od sumy Zhi, Yong i Ren zdobytych na zajęciach",
+      "kr_sha256": "07c358c8c8bf5a569ec81a984c4c613dd10a8f9df81ba2161b08245c5c9e37f6",
+      "en_sha256": "6ed17f20185deb490cddb99d89fc5978c558ee98119600dd2e0d07180ab62585",
+      "origin": "ai"
+    },
+    "dataList[id=9102602].name": {
+      "pl": "Fruits of Education",
+      "kr_sha256": "e3eaf0cab71542131e7364968759ab6fb3340822f241ece1d01338e22850db23",
+      "en_sha256": "ffa3b916e6d1fd85441cdbda1a669bab483ea164f6d37ae968bf89c30cf740c8",
+      "origin": "ai"
+    },
+    "dataList[id=9102603].desc": {
+      "pl": "na Początku tury, jeżeli jednostka jest w Oszołamieniu, dochodzi do siebie z Oszołamienia, a następnie zyskuje [StudySignSinclair] (1 raz na walkę)\n- każda Umiejętność użyta po uruchomieniu tego efektu ma Niezniszczalne Monety",
+      "kr_sha256": "04ad2f1bcf4341d0e09f39834bf6b68a974553506ef8b9b6b6393b02d118d9b2",
+      "en_sha256": "3ce7e4a8e88d936040a3c3e2ffa3f57b6882c34c1d4f8b34cca211d9ed2cae1c",
+      "origin": "ai"
+    },
+    "dataList[id=9102603].name": {
+      "pl": "If I lend my ear to the inner self...",
+      "kr_sha256": "395d59c659cc73dbf3b120a2beba19202347e75cf5628e9ce5f74775065d09eb",
+      "en_sha256": "6d315d9f041b7d9297df9a957f5c0d2eb940563061f3fc43e83041b04d37e257",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=part_1].parttitle": {
+      "pl": "Inferno",
+      "kr_sha256": "0885bfdcc99997b9f5765dde12d2f2fc5fe470bfee6887181ca008fa3293f609",
+      "en_sha256": "79b1a3795041f402c7b0a55a12ffd95713def27a6bc99a5ea403720485a4effc",
+      "origin": "ai"
+    },
+    "dataList[id=part_2].parttitle": {
+      "pl": "Paradiso",
+      "kr_sha256": "5acd93f34b2b9b2ea349eb578414876d0d297dc1adb22d8357c0674be555fb60",
+      "en_sha256": "ebdcc7e8ab844afa12d87ad6ab4e4e553e407d1fbcdb4334c265bdda1b7250a2",
+      "origin": "ai"
+    },
+    "dataList[id=part_91].parttitle": {
+      "pl": "Deviazione",
+      "kr_sha256": "daa6c77e8134cd06918e69cace0f66674695b1d318fcd6503f7776a7b7707867",
+      "en_sha256": "84878f62244b4e52b7567881b7c915b5a065fbe33bde74a1848eba2a5fced511",
+      "origin": "ai"
+    }
+  }
+}

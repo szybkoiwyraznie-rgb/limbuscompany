@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[key=N101004].displayName": {
+      "pl": "Pracownik Le Rouge Mimosa",
+      "kr_sha256": "c9e179e35ce0b0bd963bf63a7823932ea68ea25d2fd0f6f5502dc224bc57aaf1",
+      "en_sha256": "ffc7d3214e99a937905896ed094cae5ccaf776151c5fe6aea089e4926951f514",
+      "origin": "ai"
+    },
+    "dataList[key=N101006].displayName": {
+      "pl": "Pracownik Le Noir Gustave",
+      "kr_sha256": "ab843b2e427e191df2dcc54e767169d2bee47493e3bd7b3c913860b3f14ce98d",
+      "en_sha256": "b8c02e3a7aa171fcab4e7131c07aac0f19126e75ac783f1a7390275a82f6da49",
+      "origin": "ai"
+    },
+    "dataList[key=N101009].displayName": {
+      "pl": "Zdesperowany Le Kaki",
+      "kr_sha256": "650ac600235d718d50aee4585db97c480340be578b41f0ce41a9ae76cf44f316",
+      "en_sha256": "d4f4f7cb8bae764ef52b1ce5296c6c1f15e61ec75f704ed955dcaa2ed4de0bd1",
+      "origin": "ai"
+    },
+    "dataList[key=N101010].displayName": {
+      "pl": "Zniecierpliwiony Le Kaki",
+      "kr_sha256": "a0d246442a0b58d0fe27d171c206b181cd272722fb203dca7a2de28b7f1e59aa",
+      "en_sha256": "d57c90a9da20993f8d22a76d57f3208bcb94f839056f7ff25c74914fc99a6909",
+      "origin": "ai"
+    },
+    "dataList[key=N101011].displayName": {
+      "pl": "Skórzana Rękawica",
+      "kr_sha256": "dd665b29b1e1924cfbffeb906ee3cbdc7dc34ef6e2c75fc8c941fc3e93b5931d",
+      "en_sha256": "d1281ce9db094dc1e299f98bfbfbed65c5fb0fbc876e17578759b0e3454c4764",
+      "origin": "ai"
+    },
+    "dataList[key=N101030].displayName": {
+      "pl": "Portfel z Denimu",
+      "kr_sha256": "65a0b39cf3e48603cea8d3c108f9dfaed94d04e3e703491278b8c5b644c575ca",
+      "en_sha256": "e5080affdfbc1872d58bc5466a9f3070a73bfd41af2f544b587f30650ccd7254",
+      "origin": "ai"
+    },
+    "dataList[key=N101034].displayName": {
+      "pl": "Rękawica z Poduszką na Szpilki",
+      "kr_sha256": "710bb52506edb4302888ac3434bae71516ed20ced90bac359adfe1250c80e3d8",
+      "en_sha256": "996380c15b0845e55962ccaff6782884662979dd8a9d71831df990c1aa9eea73",
+      "origin": "ai"
+    }
+  }
+}

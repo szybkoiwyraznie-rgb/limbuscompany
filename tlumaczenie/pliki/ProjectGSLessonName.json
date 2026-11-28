@@ -1,0 +1,154 @@
+{
+  "entries": {
+    "dataList[id=10].content": {
+      "pl": "Wszystko o Poker Face",
+      "kr_sha256": "49d967b0fe99c72a3ef7094eef6f1cbd55600c5976c6681108eac9c409e8cffa",
+      "en_sha256": "74e53f1abc4f5082fccce7cb609c37140bbeb52d230bb5d8432b2faf444af5f1",
+      "origin": "ai"
+    },
+    "dataList[id=10].teacher": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=11].content": {
+      "pl": "W Bójce Liczy się Hawiera",
+      "kr_sha256": "d1b779d23a05c99532eb094639e1eeee738f03d593901446cc95ae40b1342231",
+      "en_sha256": "47986ab895fb76370894fd23d69648abb22bb830fc6ed03e00c255eb2e0c46cb",
+      "origin": "ai"
+    },
+    "dataList[id=11].teacher": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=12].content": {
+      "pl": "『Kołaczne Opowieści Pijanej Dłoni (酔手野話)』",
+      "kr_sha256": "4c2e13fd279c3f910dc82190817240477a9d756f85e7c1dc9820ef6c0e43cb99",
+      "en_sha256": "9d36dc14d63f9c7b40b6c77764840d310f325db3b9c5fba5ebddf9a1af65d7d7",
+      "origin": "ai"
+    },
+    "dataList[id=12].teacher": {
+      "pl": "Pijanica Nocny Wędrowiec",
+      "kr_sha256": "ef428ef75f50ab3be22b192fb09a47e1a471a26d7dcfd3937341bc5e86108893",
+      "en_sha256": "22219e4f3996d7a2cf383a5304147adc0f44579d796b2050f5675223d23fa9f7",
+      "origin": "ai"
+    },
+    "dataList[id=13].content": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=1].content": {
+      "pl": "Metafizyczne Studium Jaźni i Odbitego Świata",
+      "kr_sha256": "9ec967dd353b75df0b04958fca3e08a2147525af656e2124963b649e44489ca3",
+      "en_sha256": "a5d6937fafc7e558644067acab59784d96fbcd56e4d529f22f195da181455597",
+      "origin": "ai"
+    },
+    "dataList[id=1].teacher": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Inżynieria Miasta: Teoria i Praktyka",
+      "kr_sha256": "c5cff77aeec3973e9637565a0601b1910924bc369ba55ebb01fb8c72045dadaf",
+      "en_sha256": "095cf96d595f453b061b31958d75e635b26982f0ee54cfa8e16f6f5ca8a7e1fe",
+      "origin": "ai"
+    },
+    "dataList[id=2].teacher": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Zapal się i Marz! — Opowieści Fikserów",
+      "kr_sha256": "439b8009de3c95086b9c5c75184ff97b6201213ba83218777463e35aa0f3e29a",
+      "en_sha256": "c522526abc085b82bb9bfaf8a71261702cd85163303ca16d957ba094296f35dd",
+      "origin": "ai"
+    },
+    "dataList[id=3].teacher": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Eksploracja Nieznanego i jego Przezwyciężanie — Podróże po Jianghu",
+      "kr_sha256": "3eb41947d2a359f3df8e64f6a4b8d31e993747623425e4b206d7047392db75c5",
+      "en_sha256": "620306e3e315fc548264e1ca6d997588702da9acf954a196851244bf0cb32581",
+      "origin": "ai"
+    },
+    "dataList[id=4].teacher": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=5].content": {
+      "pl": "Moje Opowieści Wojenne",
+      "kr_sha256": "56c4e95d420b4906ce0c91493b59b6cfef9ed0e3954200de42afc499b9f73b10",
+      "en_sha256": "84361888574ff76a311b6ee11e2332028d86196ae4b77265882bfe9101dff7e0",
+      "origin": "ai"
+    },
+    "dataList[id=5].teacher": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=6].content": {
+      "pl": "Jak Przeżyć w Hongyuanie",
+      "kr_sha256": "5a0960ec60320fc246535df940537d479664de8c0a8074eec2bfe7f68ab9baf5",
+      "en_sha256": "be174e3afdd02d3e832d229bb468ff888809aa56c8db07d408e66fd545fea1cb",
+      "origin": "ai"
+    },
+    "dataList[id=6].teacher": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[id=7].content": {
+      "pl": "Dzierżenie Wyroku",
+      "kr_sha256": "d43b07f4540e5183c539b87dca6559e1e0bf1ce8a0307776bfd7a69301145fbb",
+      "en_sha256": "bbab6b088ee5296079719d290b0ba54b50fa67fd3d642ba93417557e561112db",
+      "origin": "ai"
+    },
+    "dataList[id=7].teacher": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=8].content": {
+      "pl": "Zbieranie Informacji — Jak Wywierać Presję na Wrogu",
+      "kr_sha256": "1e8380b4e49325c638bb07ac10826944409d033fad9aa9f358aedb8a311e996a",
+      "en_sha256": "22a51c88359934f8baf82b6a1eadd76b014fc036477014f8e87061cae916b788",
+      "origin": "ai"
+    },
+    "dataList[id=8].teacher": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[id=9].content": {
+      "pl": "Instrukcja Obsługi Dzieci",
+      "kr_sha256": "3970b74c1fd500dc6ccdd4ce91cfa490134de79c407e88af0f29655107173e45",
+      "en_sha256": "5843424fed3f04d42df3cc9e91600b679b69856776b99b59756ac23bb2b47904",
+      "origin": "ai"
+    },
+    "dataList[id=9].teacher": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    }
+  }
+}

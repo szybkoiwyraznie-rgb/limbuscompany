@@ -1,0 +1,250 @@
+{
+  "entries": {
+    "dataList[id=112601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=112601].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ [Burst], Moc Starcia +1",
+      "kr_sha256": "6b2048780b4f11c795feac62a0d6191acc6e2339f624f05175cb17df5197d643",
+      "en_sha256": "5a6be2bbb4630b0b695a8fbc5305ae4d903d335bbded46c02d83677af787325a",
+      "origin": "ai"
+    },
+    "dataList[id=112601].levelList[level=1].name": {
+      "pl": "Niespodziewane Uderzenie",
+      "kr_sha256": "bdc201f500c6626233a0732a2408a0a529c567276714eda3e0909d6c9dccdd5d",
+      "en_sha256": "e8d5a422616651a3fe9e45e161d04d0e15e2ec1288e1504f7eedb9c3d4b407c6",
+      "origin": "ai"
+    },
+    "dataList[id=112602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Burst]",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=112602].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstAgility], zyskuje 1 [Agility] w następnej turze",
+      "kr_sha256": "a1d37303697bf5e7efa19bd5ba6d2fc45b38924aae0849ec127851b646fc80e2",
+      "en_sha256": "383ec50df329edf397e604472d5e725099d01378d46c437c27288e7adeee2c9a",
+      "origin": "ai"
+    },
+    "dataList[id=112602].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ [Burst], Moc Starcia +1\n[WhenUse] zyskuje 3 [LegStrength]",
+      "kr_sha256": "c1c533a5f5d1846c3ef3e96addbfd6045187173509b9b6a2f0412f708f1322be",
+      "en_sha256": "047642b4a45c44dde859ff8bd36171ed86350b5b314f05368642d0a91ebf0aa9",
+      "origin": "ai"
+    },
+    "dataList[id=112602].levelList[level=1].name": {
+      "pl": "Zabójcze Wiercenie",
+      "kr_sha256": "5a984cfa9cb43b4a1330d86086cb8db6b25006ba314a17119aced103211e6aa8",
+      "en_sha256": "fd8c9463395d97efab0862843b51439fee41f31fd5b11371f2813a3d8f49e34b",
+      "origin": "ai"
+    },
+    "dataList[id=112603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=112603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=112603].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [BurstAgility]",
+      "kr_sha256": "5a2eed2421a62fed4af627b4a9d0875725bcac9914d842a8eeeaecf85369a481",
+      "en_sha256": "d5f9f236fe5646da006d5dd3110df6dc8afce51cb2125130c76d8322340a1795",
+      "origin": "ai"
+    },
+    "dataList[id=112603].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ [Burst], Moc Monety +1",
+      "kr_sha256": "7db65665aa5890135397bdf94b1cc43b6afb80e6c71d53e7c390bbc93d4afa41",
+      "en_sha256": "a755fc02fad3d5f4d22a39100426193cf789d8c72f27ec7aa0b58e4f5f1a8759",
+      "origin": "ai"
+    },
+    "dataList[id=112603].levelList[level=1].name": {
+      "pl": "Uderzenie Grawerem",
+      "kr_sha256": "56769b3126b7374810c9c43f8280fa8dfb1149b42cbc566817efcc95e30a2f22",
+      "en_sha256": "4baec7005f788a3ec498a2c39c9d750f723c86abed4d07f20220ed9cc55106c0",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Licznika [Burst]",
+      "kr_sha256": "b5a7880a26d2a849c0af4d42f2f3bed99f365ba68bee852e0933bbd3b775faee",
+      "en_sha256": "def411e0029fc653c2c0d9ee156167cea89249559701b38167a7e48c350cfb28",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Burst]",
+      "kr_sha256": "39bc5edc0c7be8ab1fda36627469f20278c1011026bdc29d91e9394400d1e602",
+      "en_sha256": "6138e2c49abb5422fbcedd4ce0acfcc501f2642092114cb31eac4c3bf40fad82",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli cel ma [BurstAgility], zadaje +50% obrażeń",
+      "kr_sha256": "f0bae8d4ad58a840d0fa2b6fd5bda7bcbc69c67946b93f8a204560000be182ce",
+      "en_sha256": "4c95bf8b14ca0680e39a60188c6a7fd35abd7fc67bbaeb96a3d1d092096e53b6",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Burst]",
+      "kr_sha256": "39bc5edc0c7be8ab1fda36627469f20278c1011026bdc29d91e9394400d1e602",
+      "en_sha256": "6138e2c49abb5422fbcedd4ce0acfcc501f2642092114cb31eac4c3bf40fad82",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [BurstAgility]\nzadaje +15% obrażeń za każde 2 punkty różnicy Szybkości między tą jednostką a celem (maks. 60%)\n[WhenUse] Moc Monety +1 za każde 5 [Burst] celu (maks. 2)\n[WhenUse] Moc Bazowa +1 za każde 2 Licznika [Burst] celu (maks. 3)\n[EndSkill] przy Szybkości 10+ i pokonaniu celu, używa tę Umiejętność ponownie wobec losowego wroga (1 raz na turę)",
+      "kr_sha256": "42faf7aa5ac22fcbfacfebae89ee890955d67619bed045e384ad8971cd5a98bd",
+      "en_sha256": "2db5c7b1cccc8900c1ec051dbef68a817dfcf65ca50e61e02fac0de26b7ce14e",
+      "origin": "ai"
+    },
+    "dataList[id=112604].levelList[level=1].name": {
+      "pl": "Klątwna Klinga Rzeźnika - Skok w Mig",
+      "kr_sha256": "d266d4439d17b61127443f1331827977c3f121beb8b4eb4e3c97bc31a7c7746e",
+      "en_sha256": "55d763a17c869aabcffd64f7322cf01fab4b89159c92eda7a9dd577315d921e0",
+      "origin": "ai"
+    },
+    "dataList[id=112605].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Burst]",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=112605].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=112605].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=112605].levelList[level=1].desc": {
+      "pl": "[DuelCounter]\n[WhenUse] jeżeli cel ma [BurstAgility], ta Umiejętność nakłada o 1 więcej Licznika [Burst]",
+      "kr_sha256": "ecb32d2b881eab8b0e7fa10bcacb02de332159b9910458e4d2b140e61204323b",
+      "en_sha256": "d0871fa946a79b9643a76dc8bea0ce3a1e8d5c70922f2165025ca6e916b6acba",
+      "origin": "ai"
+    },
+    "dataList[id=112605].levelList[level=1].name": {
+      "pl": "Klętwopis",
+      "kr_sha256": "857a13037ceeb2674da1d2218d3a8aad91b36a6b72093ae70fec057df4e84b88",
+      "en_sha256": "1040a4233b687ab4cb0dccec40288b87990ea0e0113c31ea1086939ad8f149a2",
+      "origin": "ai"
+    },
+    "dataList[id=112701].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=112701].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 3 [HitDamageUp] w następnej turze\n[WhenUse] jeżeli główny cel ma 3+ Licznik [MiddleFingerBook], zmienia wszystkie Monety tej Umiejętności w [SuperCoin]y",
+      "kr_sha256": "407b2ca0f84659e05351ac36edde0f653278b0cae67f18cb4521e6130cc01b4b",
+      "en_sha256": "e4310312f6537e5af112d989a8555632c65fec493db246a0b9c477d4be375f87",
+      "origin": "ai"
+    },
+    "dataList[id=112701].levelList[level=1].name": {
+      "pl": "Testy Zakończone",
+      "kr_sha256": "2c56eb8c9494f9755010b249ca97962c960480456e16ff6db12ed23bfb418815",
+      "en_sha256": "0437fe9ac5e72590a7b54f2adfff1dd883f212b0d6d2c4bbb07f18f4695898d6",
+      "origin": "ai"
+    },
+    "dataList[id=112702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w tej turze i następnej",
+      "kr_sha256": "0eca030d85b5a078d04ef15069f3280521bb6c26540b7ba40fd22fee7575fa73",
+      "en_sha256": "20d56c78082979bc0171f83d0b723f3c0d32870fd46a9bb2f1a15f076c87630a",
+      "origin": "ai"
+    },
+    "dataList[id=112702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w tej turze i następnej",
+      "kr_sha256": "0eca030d85b5a078d04ef15069f3280521bb6c26540b7ba40fd22fee7575fa73",
+      "en_sha256": "20d56c78082979bc0171f83d0b723f3c0d32870fd46a9bb2f1a15f076c87630a",
+      "origin": "ai"
+    },
+    "dataList[id=112702].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia Uderzeniem równe (Licznik [MiddleFingerBook] celu x 3)",
+      "kr_sha256": "e6b4971f9674c15a7946d5fa10937e4a302cf6c1431174698c2926d605242219",
+      "en_sha256": "cbbb45df987fb00ecc770852bc5b2c5eac5d426280b998fb431b8ed9ad933964",
+      "origin": "ai"
+    },
+    "dataList[id=112702].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] usuwa wszystkie [MiddleFingerBook] celu",
+      "kr_sha256": "e495b494a804d14ebe4f4d4b13337f4227879796a7dd56068226cf0709880c3a",
+      "en_sha256": "05549f252ad020c70947cc8ceb7ca6afc2c00a6af19ff074dba52df1e5c89b52",
+      "origin": "ai"
+    },
+    "dataList[id=112702].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najwyższą liczbą Liczników [MiddleFingerBook]\n[WhenUse] jeżeli cel ma 3+ Licznik [MiddleFingerBook], zmienia wszystkie Monety tej Umiejętności w [SuperCoin]y",
+      "kr_sha256": "086a0f22e21abf9e714db542632f8fbac7130ee466aec7872636dee3c5e3b478",
+      "en_sha256": "98756113e9851a7fd3121dc4dc1555d1f988b9e97ad7e357839e6f2915328d47",
+      "origin": "ai"
+    },
+    "dataList[id=112702].levelList[level=1].name": {
+      "pl": "Obiecane Cierpienie",
+      "kr_sha256": "0b51554170e237d72d47ce275e16b35c5a635af38321ea52ec385f6a3b67ad84",
+      "en_sha256": "18f761b8cb50b282a2c7aa13ea2dba36628f08813a59aab697e4b19daa5a2264",
+      "origin": "ai"
+    },
+    "dataList[id=112703].levelList[level=1].desc": {
+      "pl": "[StartBattle] przywraca 10 SP wszystkim sojusznikom\n[EndBattle] jeżeli istnieją sojusznicy w Panice, na początku następnej tury dochodzą do siebie z Paniki, a ich SP wraca do 0\n[EndBattle] nakłada 1 [HitResultUp] wszystkim sojusznikom, wliczając tę jednostkę, w następnej turze",
+      "kr_sha256": "c3186e3d9d112be5d794ad08a5268eeb2101d5d1353858dbaac9ec2800f1d850",
+      "en_sha256": "bef258c57dd37f946a38add94c3728ec5105aa2ad2599f1e3fab1e45fe490ff0",
+      "origin": "ai"
+    },
+    "dataList[id=112703].levelList[level=1].name": {
+      "pl": "Zabawa się Skończyła",
+      "kr_sha256": "0516751cf716cf2ed8134682f8c114f09536db9eb44b1a2260905925aec7089b",
+      "en_sha256": "a4692fae59dfda7124c3b53ad828de772524f23ef8a8c21e80e6c0e45acaf782",
+      "origin": "ai"
+    },
+    "dataList[id=112704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112704].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia Uderzeniem równe (Licznik [MiddleFingerBook] celu x 10)",
+      "kr_sha256": "5a689ed5e86875e418ae0b578ca86176d9ec7c8cb9d7608c5099c1846e381eac",
+      "en_sha256": "32c75cdb263c29717059bbab5fc55752d6e9e2d5901c3d34d442a1b52d15a29d",
+      "origin": "ai"
+    },
+    "dataList[id=112704].levelList[level=1].desc": {
+      "pl": "może stoczyć Starcie z tą Umiejętnością niezależnie od Szybkości\njeżeli główny cel ma 5+ [MiddleFingerBook], Moc Końcowa +5\n[DefeatDuel] zadaje o 80% mniej obrażeń końcowych, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu\n[EndSkill] usuwa [MiddleFingerBook] wszystkich trafionych celów",
+      "kr_sha256": "33baf77c15b4be25619410d3a15a29a9ccefc3a2e8e2e7cd1eb35ab25082ba5c",
+      "en_sha256": "dc52110926c3c77652085d77c11dc79b87ce5e1583e7e6f2bc060bf841360f23",
+      "origin": "ai"
+    },
+    "dataList[id=112704].levelList[level=1].name": {
+      "pl": "WSZYSCY — DO EKSTERMINACJI!!!",
+      "kr_sha256": "4003c8619c1d657283cc99b455afbbcdc03ef44fe178aa24e4f1e504a80070a9",
+      "en_sha256": "8e1de781c004c73b55b72c8005bdb5f4962f2fd582fd99d3da477351850e1778",
+      "origin": "ai"
+    }
+  }
+}

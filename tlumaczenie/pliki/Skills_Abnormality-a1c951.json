@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=811301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] celowi w następnej turze",
+      "kr_sha256": "d1db1708c8628cc56406593cfb93a2a6fc113f7711f62520a3385a8c1073c92c",
+      "en_sha256": "db7b7ac4ae973f3cf55b491584d790c0f0375639793d7573d947bba111f02bf6",
+      "origin": "ai"
+    },
+    "dataList[id=811301].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [Breath]",
+      "kr_sha256": "1447ed77c72b240c3558d6be8dd733582a83c95b128491e7a06217f1f99df544",
+      "en_sha256": "685b857fae91862f4d505874cdbec9007bff88a52075538f93b33db2f4f73852",
+      "origin": "ai"
+    },
+    "dataList[id=811301].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 Licznika [Charge]",
+      "kr_sha256": "c0efb7184823f902c23f06ca73ca56d135e6c3ef060a1f359abf16b5102e4abb",
+      "en_sha256": "ac1afd9ec3e2785c329f72e0241c6957028bd33b2552e63b9bdd91d27f7aee28",
+      "origin": "ai"
+    },
+    "dataList[id=811301].levelList[level=1].name": {
+      "pl": "Bądź Radością",
+      "kr_sha256": "620e46e021ec8e6b1d028efa01a86a8288bb6e748d9f992a51e46aae37d56868",
+      "en_sha256": "74ca44d0bf775cf267701dc4c2099e754fd764f8905d28c74f6df0a70a485f5e",
+      "origin": "ai"
+    },
+    "dataList[id=811302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 Licznika [Breath]",
+      "kr_sha256": "493c661a24f90500659a36f0de0679c0d55a4833780cfcdf71995ee10b14e822",
+      "en_sha256": "a57dbcb123a4417e3436ccd41716b57e7d97141c9f47b086da80c22a4416a602",
+      "origin": "ai"
+    },
+    "dataList[id=811302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "0b7e988fc262b434fd3f266c266b2fe7605285ac176b17b71f810b9c4f0d4f3e",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=811302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje [Breath] równy posiadanemu [Breath]",
+      "kr_sha256": "43ebf9cdf4540bc72a29cdbef67a3d77a5b276c73fc08cbab42f69919c7f5140",
+      "en_sha256": "8b5e050d417ddcfb4987d7b008b8ae8f8c9559bcaffec32d50e8f4b23c972f3b",
+      "origin": "ai"
+    },
+    "dataList[id=811302].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 Licznika [Breath]",
+      "kr_sha256": "493c661a24f90500659a36f0de0679c0d55a4833780cfcdf71995ee10b14e822",
+      "en_sha256": "a57dbcb123a4417e3436ccd41716b57e7d97141c9f47b086da80c22a4416a602",
+      "origin": "ai"
+    },
+    "dataList[id=811302].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 Licznika [Charge]",
+      "kr_sha256": "c0efb7184823f902c23f06ca73ca56d135e6c3ef060a1f359abf16b5102e4abb",
+      "en_sha256": "ac1afd9ec3e2785c329f72e0241c6957028bd33b2552e63b9bdd91d27f7aee28",
+      "origin": "ai"
+    },
+    "dataList[id=811302].levelList[level=1].name": {
+      "pl": "Bądź Ukojeniem",
+      "kr_sha256": "c69a01e3f445d12176e2899525458bc1c068342c3e7dbbb1f89ed23012cd0038",
+      "en_sha256": "bcb47f328fb3b064a296fdea87730115e37fbe83a5663df6b543e29e535e0187",
+      "origin": "ai"
+    },
+    "dataList[id=811303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] traci 5 SP",
+      "kr_sha256": "f1701a0a3ced4d99bb60a768e55c49c71d6164e1eb47d2d890390cc660597a04",
+      "en_sha256": "28d3eacff35f13c42e3d7897990d45993972ee61ed076e6a86876e88dd80061e",
+      "origin": "ai"
+    },
+    "dataList[id=811303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [Breath] i 3 Licznika [Breath]",
+      "kr_sha256": "0d0ed9fc61c3581011eb17246f5ddaddd078c95c60cacc1f277433ffe0d6fa58",
+      "en_sha256": "c79f8051de917a5e11cc505ffbac91376d78e32bf5fa020977c6338e3ec6e6a5",
+      "origin": "ai"
+    },
+    "dataList[id=811303].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "d2fb176180714ebf0d77bcfb265ef23e6a1003af5197082df84065087bd1cd07",
+      "en_sha256": "20e210f6c37174124c230be0f87a819d271a16a7a0db3b78b0bfcf8ec7214c8a",
+      "origin": "ai"
+    },
+    "dataList[id=811303].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma [Binding] i Szybkość tej jednostki jest wyższa, Moc Starcia rośnie o różnicę Szybkości",
+      "kr_sha256": "4b0ebc33ddac1eff85c7203d99f897f033d5f4f44e46a48bc84d1aa43a65ced4",
+      "en_sha256": "fd3f534f699a162c47ea9b541eb5bb3388c62056529a82fb75772fcb681b8880",
+      "origin": "ai"
+    },
+    "dataList[id=811303].levelList[level=1].name": {
+      "pl": "Prezent od Mnie",
+      "kr_sha256": "7429e29b6e80fef363b446d600099dd7775386765e6f735c55a499ba897193c9",
+      "en_sha256": "be94155b4ea8ed2ba7ef249fd174dc1a4ee45455952b5aaff0f45d9c31de1da4",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath].",
+      "kr_sha256": "5bdcd52e19ee0ad4699a80324937c8d186eb641951b7c5459813e1d4b64148d1",
+      "en_sha256": "4c604da202f4357a3ecc0427d1b24c0bed1493667dc0e21a5ec7f91405de2f84",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia równe [Breath] jednostki",
+      "kr_sha256": "8542e5aa7cbd884aecca1ee9e8d3fef5d2e9933be2fae3257558671489ae25aa",
+      "en_sha256": "e8c751a7a13f4c4c3ecd9c40e3774bc171ce0cae0bad4c99acfa2315215c7634",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 [Breath] i 3 Licznika [Breath]",
+      "kr_sha256": "8dd339264b577b189f7126baa1ed182a311f37134f7c26e06183f907d54c165e",
+      "en_sha256": "bde7487eda4a56b14a4ef4484bf79b0f3a17cd845f528a976b29eff3fe5ea2fc",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] losowo wybiera 1 z 4 efektów ([Protection], [Enhancement], [Vulnerable], [Paralysis]). nakłada 3 wybranego efektu.",
+      "kr_sha256": "31421651ca6bc97b6b00e886ad0e76522ea6943ec4023ad08021624ac3654007",
+      "en_sha256": "9b6d56d19a423eb5766212e05ab8874db226cc3898aaf61d076238b211215493",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] cel traci SP równe Licznikowi [Charge] tej jednostki",
+      "kr_sha256": "044e056dcee22e5976fe0b2e32a3dbd19958a715769b6b0341e1998fdc9fe5f6",
+      "en_sha256": "7e352b9d73e51f6c2f02dbfc3c3d1431cafe602bff235e20e182ffabce6396e4",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[EnemyKill] wszyscy wrogowie tracą 10 SP.",
+      "kr_sha256": "a7187e4664199e2f00f5b52b28e93b21072a3dc9bb19fd0e08cd68ac8f2b4259",
+      "en_sha256": "1106a6a9e7c3ca372e0cde8d36e349a09a8e2b64d01a458d64f7fc9c1846dfe8",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[EnemyKillFail] zyskuje 2 [Paralysis] w następnej turze.",
+      "kr_sha256": "793c8224606e30d2e1bbedf04910fab90723ae47f70d8012be23798cf38c32d2",
+      "en_sha256": "54b26be280b51c7d2d90812193e2c925c3841e6a8a5a7118da7aa639efacbff5",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].desc": {
+      "pl": "jeżeli ta jednostka ma [AaCeSeBa], dodaje do efektów Monet „nakłada 1 [Paralysis] w następnej turze”\npriorytet: jednostka z najniższą Szybkością\n[EndBattle] zużywa wszystkie Liczniki [Charge]",
+      "kr_sha256": "e37d5c2ecced80d048fbfcb567b42b98e668cda51e874f143e43caaca73ed3cd",
+      "en_sha256": "b4a918f9c7016a84ee9c06574ec526daf21baaa6d244fc277a3251238bbb00bc",
+      "origin": "ai"
+    },
+    "dataList[id=811304].levelList[level=1].name": {
+      "pl": "Pakuję",
+      "kr_sha256": "f0a2b40c19e206f38cbf47bf8330575a9efb149685c4c9e27f91d8602865d7b4",
+      "en_sha256": "e8a3771287d4a74ecadc7604ac9f4875c2f2927e264f76f7d489b3dbcc3456aa",
+      "origin": "ai"
+    },
+    "dataList[id=811305].levelList[level=1].desc": {
+      "pl": "jeżeli HP Tarczy zostało w całości zużyte, przechodzi w Oszołamienie w następnej turze.\njeżeli pozostało HP Tarczy, zyskuje 2 [Enhancement] w następnej turze",
+      "kr_sha256": "d0723cda2acded7b88ca32c438d3c095abcbcd8dac950fc60ed90abd0566e05f",
+      "en_sha256": "98407721c99a0d5a05f3dc3a9dc3c58325b7a74e409dcf3f37ddce6398fde63e",
+      "origin": "ai"
+    },
+    "dataList[id=811305].levelList[level=1].name": {
+      "pl": "Czas Zapakować Prezent",
+      "kr_sha256": "cc7ed054279cce2170bfec8ae4a6504bfd51f22a6a1b277f77bcab8115fe3927",
+      "en_sha256": "1e59bd8c6e5b202cba79be5e32e49079238ae9ffff0bb2ee2953d58af7e83fb4",
+      "origin": "ai"
+    }
+  }
+}

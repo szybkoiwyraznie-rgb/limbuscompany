@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=952SV-001].dlg": {
+      "pl": "Jeden machnięcie (一揮). Żaden nie pozostanie nieprzecięty (必斷)!",
+      "kr_sha256": "c267013de56855dbfd49077ab5c79792d86d7ffe93f54b635dc82eadfa915024",
+      "en_sha256": "05cb6ba5e6b430d477b45f500b75f0ad478067549a110ca8f3d0e9056910316a",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-002].dlg": {
+      "pl": "Jak żywioł burzy.",
+      "kr_sha256": "f5eeaf4b0e4632df3bb1ff2fe77066e8b5b6588cb105ab7653f7bba01038ecab",
+      "en_sha256": "1501b1f76c1fc3e086b44ac4a4c79c828adf283ea56c99bc4f3c89ea58962475",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-003].dlg": {
+      "pl": "Chwilę... naprawię postawę.",
+      "kr_sha256": "d6a5098d42dad7a9055260a38c2db8a8fe21387ebb8d2f1542d022752134bb58",
+      "en_sha256": "21bc22e4995ac103f152c506f4f40a481c780641d959bf803246d60587a40c7f",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-004].dlg": {
+      "pl": "Umysł i ciało jednym (心身一如), przygniotę ich.",
+      "kr_sha256": "585da27c60845c1fe1bcde1d70a7c86eac153d722795709adae97883cb4f7679",
+      "en_sha256": "bcbc629b75cc9f70f568d472805ae69d999c0f4e7659a9d4431f2f34d593c325",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-005].dlg": {
+      "pl": "Cisza w formie, gotowość do działania (靜中動). Okazja trwa ledwie ułamek chwili.",
+      "kr_sha256": "a10818bbc212b5f9c8ee4daa12c769368dab8ec780dc0d1fd831b64ef3b59547",
+      "en_sha256": "bb1d7f741935fee814d0955d4988eebed2040322b29ad056879925947d99e60e",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-006].dlg": {
+      "pl": "Ja, Im Gyeong-eop, Drugi Ordynat Salpippyeo Agroindustries, Urzędnik Miecza i Komisarz Wojskowy Królewskiego Dworu, wypełniam rozkaz...\\n... i ucinać pęki buntu, nim się rozkrzewią.",
+      "kr_sha256": "afcd3d606706eb6796482057c3f0e591303f9a19a456ef04ce208fa6dc33051b",
+      "en_sha256": "5310b1d1a8d45287dc252556d7c133acd546fd06347c5123425809cf2f0a4b7c",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-007].dlg": {
+      "pl": "Nakładam pyeonjeon (片箭) na cięciwę.",
+      "kr_sha256": "c39c41118a8661762caf1ca1a0d3075679686d7a13a049a80415ec8af0e7fb27",
+      "en_sha256": "dc889820fa45f61db3bad57ad12e63d55b246f33b0406c20e30cffecd128efcc",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-101].dlg": {
+      "pl": "Hah... To też mam być ja? Patrzcie, jaki poważny... Pewnie po tamtym dniu.",
+      "kr_sha256": "cd863d80510a453188de97ace4b63e7502ebd930bf75a0d27866faee5f5746f6",
+      "en_sha256": "1ca11a3a116638f129c1d231279e76d115d51452c7ae91de729f90cf7ae275ab",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-102].dlg": {
+      "pl": "Miecz Ojczyzny.",
+      "kr_sha256": "cf1f459da54b7dccd551b7b5079cb426f6fbc001cf7b6669aba48677664f4acf",
+      "en_sha256": "ec57ae04cd8b801ce8e19d9ec622678abba1a1f9055b5c940af7319eea840221",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-103].dlg": {
+      "pl": "Ciało zostanie rozcięte...",
+      "kr_sha256": "482ad56a6e45ee739f8243237d5b6e00b1b834025c41022705ace54c5d9d4583",
+      "en_sha256": "4afa4876dfc00992bd231d7595e74cdee65318845d3facabd7f6082483992a5d",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-104].dlg": {
+      "pl": "Kości zostaną rozłupane.",
+      "kr_sha256": "b139e4e11b3d8b7afa0e3867b47138e01f076ec1af4a282f1c39544c3d338a3e",
+      "en_sha256": "b1cd4d0a4f369816758704b539d17f0d4222416617fe0e4f9bd48a0670596ee4",
+      "origin": "ai"
+    },
+    "dataList[id=952SV-105].dlg": {
+      "pl": "...Znowu, powtórka tamtej sprawy...",
+      "kr_sha256": "764c5df570ddf57d3f65b58c429d9c6120be0fd27554ff42983974cd6fc36ab3",
+      "en_sha256": "b1efc0d05e853fa05beea53f8c4e1d7020a53226536caf39b980d3827143e716",
+      "origin": "ai"
+    }
+  }
+}

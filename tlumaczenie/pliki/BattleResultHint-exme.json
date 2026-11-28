@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=battleTip_912710_1].content": {
+      "pl": "Dopilnuj, by stos „Rodzimej Szermierki [Sal]” Im Gyeong-eopa pozostawał na poziomie korzystnym dla Skazańców.",
+      "kr_sha256": "3ee7582e60a7f8fc7d7699461c3e531b85a118b2308bf27fe01de6933d829ed9",
+      "en_sha256": "1c3b77219bbad52c81fb5950f7dfe8547fc1e9a296a8079f3251a6401c3830cf",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_912710_2].content": {
+      "pl": "Priorytetowo atakuj Zjawisko Rozbłysku — Projektor, by szybciej przejść do S Corp.",
+      "kr_sha256": "cde06a970c0c34aacfa4fe157c34a709f58d85e0cf64085a51e8834ec0e72a0c",
+      "en_sha256": "f9b0a8fd227128bdf376b9f348d8ad821094e8db9f8074ed48a2763e31ae7321",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_912710_3].content": {
+      "pl": "Uzupełnienia personelu następują wyłącznie w N Corp.",
+      "kr_sha256": "be17b963a13d51bb68f175ea9bb2e4dae16cb56b13f9bc9bc9ab7c88e229b34d",
+      "en_sha256": "20a8aea679b80d3940b7f721cbaf2b2b64415a47bfd190d2f867ed6c6b13b2ce",
+      "origin": "ai"
+    }
+  }
+}

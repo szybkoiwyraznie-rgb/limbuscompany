@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[key=N101002].displayName": {
+      "pl": "Siostra Kromer",
+      "kr_sha256": "319351aca812254025b20f7ece84a7e3b7e3bc7188dc2605530ab600feddd4b8",
+      "en_sha256": "3ee72c65677d9d6687a3be39a8c914313dcf9937510f7aef782e6f230e0eb383",
+      "origin": "ai"
+    },
+    "dataList[key=N105001].displayName": {
+      "pl": "Dyrektor Marki Le Noir",
+      "kr_sha256": "3a6ec7c3d2411800e4a1ae0460430883e92f6780fd493226411d09ef95fdd5ad",
+      "en_sha256": "7aa54e5865ccd0666ee602cf8010d2e1c526d272681b44e3bd4f81964fd15263",
+      "origin": "ai"
+    },
+    "dataList[key=N105002].displayName": {
+      "pl": "Bufet",
+      "kr_sha256": "6d0e2a824abd9d8a9048ebbb35f6c52b949deac6f7dca5812455f40a21e40dfc",
+      "en_sha256": "3a399d340872b1fc7d63c89aaa215f779a4ea693087ab0b168d81e497fd247ec",
+      "origin": "ai"
+    },
+    "dataList[key=N105003].displayName": {
+      "pl": "Kokon",
+      "kr_sha256": "d3c71198ecbc819bf3253a436a033e08f1d303d6dd44cdf8ca09e5053f81840d",
+      "en_sha256": "d7214f62787d648b76d44ef50f8309baad1c8f7e324595771a0326a73397e8f9",
+      "origin": "ai"
+    },
+    "dataList[key=N105005].displayName": {
+      "pl": "Pwie",
+      "kr_sha256": "d06092e6359b46bf074cfe9b9933bef77fdcf1e1788017715f57c3ceac62599d",
+      "en_sha256": "f5751f43077d816cbcc3811b13c8d0e3e65495f574cedaea6cb56dcd80dd1e5e",
+      "origin": "ai"
+    },
+    "dataList[key=N105006].displayName": {
+      "pl": "Pożerający Gigant",
+      "kr_sha256": "9cd5bcb6ee7dccaf7be010d34e64d8af12fb89da92963d0c79b573c24eb705e5",
+      "en_sha256": "2d964becff44f9dee62b8443ca65190bfa269b6e9650e562082a012d25bc9c4c",
+      "origin": "ai"
+    },
+    "dataList[key=N105007].displayName": {
+      "pl": "Pożerający Gigant",
+      "kr_sha256": "9cd5bcb6ee7dccaf7be010d34e64d8af12fb89da92963d0c79b573c24eb705e5",
+      "en_sha256": "2d964becff44f9dee62b8443ca65190bfa269b6e9650e562082a012d25bc9c4c",
+      "origin": "ai"
+    },
+    "dataList[key=N105008].displayName": {
+      "pl": "Pożerający Gigant",
+      "kr_sha256": "9cd5bcb6ee7dccaf7be010d34e64d8af12fb89da92963d0c79b573c24eb705e5",
+      "en_sha256": "2d964becff44f9dee62b8443ca65190bfa269b6e9650e562082a012d25bc9c4c",
+      "origin": "ai"
+    },
+    "dataList[key=N105009].displayName": {
+      "pl": "Pożerający Gigant",
+      "kr_sha256": "9cd5bcb6ee7dccaf7be010d34e64d8af12fb89da92963d0c79b573c24eb705e5",
+      "en_sha256": "2d964becff44f9dee62b8443ca65190bfa269b6e9650e562082a012d25bc9c4c",
+      "origin": "ai"
+    }
+  }
+}

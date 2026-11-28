@@ -1,0 +1,16 @@
+{
+  "format_version": 1,
+  "steam_buildid": null,
+  "zrodlo_localize": null,
+  "localize_kr_sha256": null,
+  "localize_en_sha256": null,
+  "translated_files": 1149,
+  "translated_addresses": 79322,
+  "human_addresses": 7159,
+  "ai_addresses": 72163,
+  "story_glossary_entries": 197,
+  "ai_story_glossary_entries": 0,
+  "view_glossary_entries": 0,
+  "ai_view_glossary_entries": 0,
+  "story_repeat_links": 413
+}

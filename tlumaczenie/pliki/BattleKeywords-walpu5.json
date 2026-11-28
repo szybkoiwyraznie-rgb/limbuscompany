@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=AllSetForShooting].desc": {
+      "pl": "- Liczba slotów Umiejętności +1\n- Liczba Umiejętności 3: +1, w zamian liczba Umiejętności 1: -1\n- Zadaje +10% obrażeń za każdą Amunicję zużytą przez użytą podstawową Umiejętność ataku\n- Podstawowe Umiejętności ataku, które zyskują Amunicję, zadają +10% obrażeń za każdą Magiczną Amunicję (liczy się wariant dający najwyższy wzrost obrażeń)\n- Przy zabiciu wroga Umiejętnością leczy 25 Poczytalności u 2 sojuszników (w tym siebie) z najniższą Poczytalnością; +2 zasobu E.G.O atrybutu zabijającej Umiejętności, +1 zasobu każdego pozostałego atrybutu",
+      "kr_sha256": "13221ffbaf7718c53cfc3c09fe82544b2e0d9da3d0c02e599fe13aefb56fb13c",
+      "en_sha256": "cc01d2c28f202368404ca888ee86f6e1559566dd9f15a6d6f5ee70343b9be8b7",
+      "origin": "ai"
+    },
+    "dataList[id=AllSetForShooting].name": {
+      "pl": "Pełna Gotowość do Strzału",
+      "kr_sha256": "4160c19ffeda25d141327537a903572504c8d717408d47698d7dbdb93eeedce9",
+      "en_sha256": "49a1c86615ae74d6fbd2a90793f20c931d6036dbe2dad289d77000f15c7f4ffb",
+      "origin": "ai"
+    },
+    "dataList[id=Church_LowMorale].desc": {
+      "pl": "- Spadek Moralu\n- Gdy podczas walki zyskuje Dym lub Licznik Dymu, zyskuje dodatkowo 1\n- Na początku tury zyskuje 3 Wrażliwości, 2 Wzrosty Obrażeń i 1 Wzrost Mocy Obrony",
+      "kr_sha256": "de7e1368dce8a53cb7b78fb9951f7c9b0d567dd2068c5355f206ffdc29b5c24c",
+      "en_sha256": "05772b99508a39e4073c174f940716e19d72bdf265fbc7c3e3108d75b79bfd33",
+      "origin": "ai"
+    },
+    "dataList[id=Church_LowMorale].name": {
+      "pl": "Zakon",
+      "kr_sha256": "fdfcb6a2e4767309506ed93f95bd60834ec0cca6ec84e7073497e94e354145d9",
+      "en_sha256": "16e783f9137f3570285470d87cf82b8142c469c54680f16d63922d59a16c4e64",
+      "origin": "ai"
+    },
+    "dataList[id=Church_Panic].desc": {
+      "pl": "- Panika\n- Gdy podczas walki zyskuje Dym lub Licznik Dymu, zyskuje dodatkowo 2\n- Na początku tury zyskuje 3 Wrażliwości, 4 Wzrosty Obrażeń i 2 Wzrosty Mocy Obrony",
+      "kr_sha256": "5378bb27b7ebd9d8b91ee601ba8406f49659b271cb8545a14ede2345c6c0f8bb",
+      "en_sha256": "ad4876ff013b06f9b3d62bf3c782d743dbd68ee1e1e2232fc9ba93bfc3f9558e",
+      "origin": "ai"
+    },
+    "dataList[id=Church_Panic].name": {
+      "pl": "Zakon",
+      "kr_sha256": "fdfcb6a2e4767309506ed93f95bd60834ec0cca6ec84e7073497e94e354145d9",
+      "en_sha256": "16e783f9137f3570285470d87cf82b8142c469c54680f16d63922d59a16c4e64",
+      "origin": "ai"
+    },
+    "dataList[id=MeatGearForce].desc": {
+      "pl": "- Nie umiera podczas walki, nawet gdy HP spadnie do 1.\n- Jeśli na koniec tury ma 1 HP, umiera.",
+      "kr_sha256": "98952eab8d343d7237b88224871a5e0bf337c325d1d9f8dacf54e0d0b129ef43",
+      "en_sha256": "1332f2eb539109ae1208acfca4c712f6762acbb1d0e43947405023e512e6d860",
+      "origin": "ai"
+    },
+    "dataList[id=MeatGearForce].name": {
+      "pl": "Mięsna Zębatka: Przymus",
+      "kr_sha256": "e602958de834cce31c5c5c396dda356e8fb269fda1c3f0ff69e05dd7bc83cabd",
+      "en_sha256": "45df793d5aa572a3b295477f1b172e5abec4607e8b2010ce4c2d459ec72e42db",
+      "origin": "ai"
+    },
+    "dataList[id=Smoke].desc": {
+      "pl": "- Maks. Mocy: 10\n- Maks. Licznika: 5\n- Od 9 Mocy: Moc Końcowa +1\n- Otrzymuje +5% obrażeń za każdą Moc\n- Na koniec tury traci 1 Licznik",
+      "kr_sha256": "db46a27fc0a4c153472834001c9e85f1fdbdc3759b9107932faf1f413b27421c",
+      "en_sha256": "8ee2e32531077730fd6d1dedc853f453a23156ff36986e03374270c0cdf3cecd",
+      "origin": "ai"
+    },
+    "dataList[id=Smoke].name": {
+      "pl": "Dym",
+      "kr_sha256": "8b0e2bb594ceb0c31f209a58b9a05a114ac34fcd516cfb8bf45d6373de0a3769",
+      "en_sha256": "29b52bfcccd01518e9de561ca2e3eb7833293506f0ed0743ae2b83a1a8ee7351",
+      "origin": "ai"
+    }
+  }
+}

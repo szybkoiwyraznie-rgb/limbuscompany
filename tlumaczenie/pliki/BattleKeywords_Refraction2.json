@@ -1,0 +1,382 @@
+{
+  "entries": {
+    "dataList[id=AccumulatedPast].desc": {
+      "pl": "Wyświetla łączną liczbę tur na Lustrzanej Kolei Załamania.\nNa koniec tury rośnie o 1.\nPrzy zniszczeniu części Tułowia zużywana jest całkowicie.",
+      "kr_sha256": "c22a9561f29f2fcaaef896606e8a2369b48c34cf2f258d9a63c778c86e692b9a",
+      "en_sha256": "ea437e15a6b57a9671571121725eb9c7934a2207b802aef594486d1a127e9417",
+      "origin": "ai"
+    },
+    "dataList[id=AccumulatedPast].name": {
+      "pl": "Zakumulowana Przeszłość",
+      "kr_sha256": "8c0b6d0f15859c769374b52354b58e4e708b8b43e061ca4bdb691b770319ad65",
+      "en_sha256": "5673f739081dcc636222cbc77b6297bbcb98570475838dae72c8783ab0cd1681",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingRose].desc": {
+      "pl": "Na koniec tury:\n- rośnie o 1.\n- HP połączonej Tożsamości maleje o 25% Maks. HP.\n- Zasoby E.G.O zgodne z atrybutem Róży maleją o 10% (bez części dziesiętnych).\n- Korpus znaku Róży odzyskuje HP równe 5% Maks. HP Korpusu.\n\nGdy wartość osiągnie 4:\n- połączona Tożsamość ginie.\n- Ilość zasobów E.G.O zgodnych z atrybutem Róży spada do 0.",
+      "kr_sha256": "85223e99e67fc52fe65c56e03bc76609db187acdd7a88db900cab32f2be8e09b",
+      "en_sha256": "45f37230ab534f8f575b402395a94d144f65635bce02eb9ffd27d09af797c7ff",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingRose].name": {
+      "pl": "Rozkwitający Grzech",
+      "kr_sha256": "41e97a73653a2a1eb22d2c808bbacc89b65eaea3a67df89ea85346423eb83b8b",
+      "en_sha256": "581f0c037281f2ecdc0afb7f7415696b78f2dea1d8729d39bceb6a0bb01be465",
+      "origin": "ai"
+    },
+    "dataList[id=DecoyRegenerated].desc": {
+      "pl": "Rośnie o 1 za każdym razem, gdy część zostaje odbudowana.",
+      "kr_sha256": "57aa3d494ee83d537d8262ada2f9daeafd0740ed2149a6ec74b3395b9d6986b6",
+      "en_sha256": "894d5805ece5cf819430c3f5dd523148bd9dc3e8d18532bbf0fb9c546bf831cf",
+      "origin": "ai"
+    },
+    "dataList[id=DecoyRegenerated].name": {
+      "pl": "Regeneracja",
+      "kr_sha256": "d43a776c5e289f2a44c22a49981b3805356e2bb86374b994ebc318d6e7ef0715",
+      "en_sha256": "1651031bf58d8eeac8dc9c3e3d5eba20380197e7f638115570bc729064544c06",
+      "origin": "ai"
+    },
+    "dataList[id=EatingSin].desc": {
+      "pl": "Maks. HP rośnie o (ilość zredukowanych zasobów E.G.O)%.\n\nPo śmierci:\n- zredukowane zasoby E.G.O zostają przywrócone.\n- Połączona Tożsamość odzyskuje HP równe (25% Maks. HP Tożsamości x wartość Rozkwitającego Grzechu).",
+      "kr_sha256": "4a39d66371d9bc0c6631160eb36cd2c176a566d83e73c667bbd3203dcb219f47",
+      "en_sha256": "245ac7a5703acf52a4fd8781a7d4d45f7c38b84aca370acb35d210a828b1d6d4",
+      "origin": "ai"
+    },
+    "dataList[id=EatingSin].name": {
+      "pl": "Nasiąknięty Grzech",
+      "kr_sha256": "ef48a5d0be1a093fbdf743bbe5c65045b6c9e2a99d1933d2d17b27590c8d17ef",
+      "en_sha256": "7b043b864e47bc5df04154bc142a6ec9d774552912b1c3c8eb42177e89d841b6",
+      "origin": "ai"
+    },
+    "dataList[id=EnhanceRose].desc": {
+      "pl": "Aktywuje się pasyw Stanu Wzmocnienia",
+      "kr_sha256": "5e10e10f64a442d8b45be667920fca19681724b32dc8a8055f4fb84f9939819a",
+      "en_sha256": "cb168b6ecead286954bba31cc9c7b446ecedbc18bfcd1f5091493047ff1741e1",
+      "origin": "ai"
+    },
+    "dataList[id=EnhanceRose].name": {
+      "pl": "Stan Wzmocnienia",
+      "kr_sha256": "8feaae944bffc02cdc1042b1a1b7bb35f6d589df17049ff6061514088f0bb808",
+      "en_sha256": "f9184edd0ce343e72b4964b9c4ea434f2a98fc85e9dd221a16886e413e3cbfe3",
+      "origin": "ai"
+    },
+    "dataList[id=FairyCharm].desc": {
+      "pl": "- Obrażenia zadawane Wróżce wynoszą 0\n- Efekt znika, gdy Wróżka zginie",
+      "kr_sha256": "93838600fa67db7cc2f284d11905ee8d6b21cbd0dd384758a6dd5e2f52e54b56",
+      "en_sha256": "56ca03c5e8ef3fcf799442c00b0556acf559220e52546c9b460626f07180b565",
+      "origin": "ai"
+    },
+    "dataList[id=FairyCharm].name": {
+      "pl": "Oczarowanie",
+      "kr_sha256": "097f1aa8be5b256c267bd6ff581b405d5d6f9c74c37207bd6c82001e7bb87dc4",
+      "en_sha256": "50eab20d532813f1032dc98d75780da077915e0d1ea23287152cbdbb04e3123d",
+      "origin": "ai"
+    },
+    "dataList[id=FairyCharm].summary": {
+      "pl": "Obrażenia wynoszą 0",
+      "kr_sha256": "dba955892c69d96680018af19d0ff92166aae0fec82e3eb982b180300f6db907",
+      "en_sha256": "17f83ab288343cce20a3b8db9d2a23be3d3f7a4574691ba8c0e0386187217a06",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Amber].desc": {
+      "pl": "Zwiększa obrażenia zadawane i otrzymywane przez Umiejętności Tożsamości z atrybutem Lenistwa",
+      "kr_sha256": "6d2e74e7ee5395689b4430745b33d86fe77401c1748adc96f4557a72b2a0d229",
+      "en_sha256": "c2948bf7b6b632770d59aa12748f9ad28dce5834850e3123d8f65261cadfb76c",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Amber].name": {
+      "pl": "Rozkwitnięta Róża",
+      "kr_sha256": "32778354e7a0bfeb97a91944df1d52f48b42852981a4c52494fce132be256a62",
+      "en_sha256": "13437c9345b5e48d47304f718bec708a4ed09845930533cc78d55dcd23c02ccb",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Azure].desc": {
+      "pl": "Zwiększa obrażenia zadawane i otrzymywane przez Umiejętności Tożsamości z atrybutem Posępności",
+      "kr_sha256": "f9c0727dbafc1d2a529a73dd28e782df1b9dfb4103c0f3fa62c33cbe9d9a3a5b",
+      "en_sha256": "97a49aa3d9efb5d128b4023358e4cd6d673b8ae2f22d02d81ffd37d2a495f4bc",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Azure].name": {
+      "pl": "Rozkwitnięta Róża",
+      "kr_sha256": "32778354e7a0bfeb97a91944df1d52f48b42852981a4c52494fce132be256a62",
+      "en_sha256": "13437c9345b5e48d47304f718bec708a4ed09845930533cc78d55dcd23c02ccb",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Crimson].desc": {
+      "pl": "Zwiększa obrażenia zadawane i otrzymywane przez Umiejętności Tożsamości z atrybutem Gniewu",
+      "kr_sha256": "31ca76e2ae41542e93094e8bb40f14880ea7a61c3651c9221f1cb16d4c211020",
+      "en_sha256": "6e6859466e8b108c243b9403a6b51ef9b63d5739bd5d52893e5fc639717272e4",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Crimson].name": {
+      "pl": "Rozkwitnięta Róża",
+      "kr_sha256": "32778354e7a0bfeb97a91944df1d52f48b42852981a4c52494fce132be256a62",
+      "en_sha256": "13437c9345b5e48d47304f718bec708a4ed09845930533cc78d55dcd23c02ccb",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Indigo].desc": {
+      "pl": "Zwiększa obrażenia zadawane i otrzymywane przez Umiejętności Tożsamości z atrybutem Pychy",
+      "kr_sha256": "fd1675255b33a3967970f3c3849375729ed5aeaddb8c19b70bcd0a62a37a3110",
+      "en_sha256": "63af453d5fdd618d6a529cf958070e3c85290adf7d7db7b147dc2e02ce76bf0a",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Indigo].name": {
+      "pl": "Rozkwitnięta Róża",
+      "kr_sha256": "32778354e7a0bfeb97a91944df1d52f48b42852981a4c52494fce132be256a62",
+      "en_sha256": "13437c9345b5e48d47304f718bec708a4ed09845930533cc78d55dcd23c02ccb",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Scarlet].desc": {
+      "pl": "Zwiększa obrażenia zadawane i otrzymywane przez Umiejętności Tożsamości z atrybutem Żądzy",
+      "kr_sha256": "0f747e06e0ae76be951741308c5823ec4d4a856cb7fc2313e523b42466470902",
+      "en_sha256": "682aa946617b9b8e7b9781757be81ca69b665e32724f7b556d2ce095edfd3336",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Scarlet].name": {
+      "pl": "Rozkwitnięta Róża",
+      "kr_sha256": "32778354e7a0bfeb97a91944df1d52f48b42852981a4c52494fce132be256a62",
+      "en_sha256": "13437c9345b5e48d47304f718bec708a4ed09845930533cc78d55dcd23c02ccb",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Shamrock].desc": {
+      "pl": "Zwiększa obrażenia zadawane i otrzymywane przez Umiejętności Tożsamości z atrybutem Obżarstwa",
+      "kr_sha256": "71dcdb2d5d1aad4b2d786b0dd18af52e1af83b6407e54b15bf3990095eec7e12",
+      "en_sha256": "a4155b882556d5f3087392af7e92bcd60d02f10e84e25a812e30ee9806dab5c7",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Shamrock].name": {
+      "pl": "Rozkwitnięta Róża",
+      "kr_sha256": "32778354e7a0bfeb97a91944df1d52f48b42852981a4c52494fce132be256a62",
+      "en_sha256": "13437c9345b5e48d47304f718bec708a4ed09845930533cc78d55dcd23c02ccb",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Violet].desc": {
+      "pl": "Zwiększa obrażenia zadawane i otrzymywane przez Umiejętności Tożsamości z atrybutem Zazdrości",
+      "kr_sha256": "a317358231df95685d1b3fa91f547326efb10c4b224a7c3b467b6be0f6d61b91",
+      "en_sha256": "55f416361050056be5f756aa079c5f372631811617d0177076294fdbf694bc43",
+      "origin": "ai"
+    },
+    "dataList[id=FullBloomRose_Violet].name": {
+      "pl": "Rozkwitnięta Róża",
+      "kr_sha256": "32778354e7a0bfeb97a91944df1d52f48b42852981a4c52494fce132be256a62",
+      "en_sha256": "13437c9345b5e48d47304f718bec708a4ed09845930533cc78d55dcd23c02ccb",
+      "origin": "ai"
+    },
+    "dataList[id=InterlockingTimeBokGak].desc": {
+      "pl": "- Zmalekuje o 30% obrażeń końcowych i zapisuje je\n- Gdy wartość osiągnie 3, otrzymuje stałe obrażenia równe dwukrotności zakumulowanych obrażeń, a efekt znika\n- Na koniec tury zyskuje w następnej turze Spętanie równe wartości\n- Znika, jeśli w fali nie pojawia się załamany pracownik poboru T Corp. 3. klasy",
+      "kr_sha256": "94a75434044f5d3c7f410e1dc3e1012a5b7d622b027a55431f571c40219a54b1",
+      "en_sha256": "f53bf81e47a8829b7a84f17e6180de2eabb538899d57471ed1088f5c5584b7bf",
+      "origin": "ai"
+    },
+    "dataList[id=InterlockingTimeBokGak].name": {
+      "pl": "Przeplatający się Czas",
+      "kr_sha256": "8dffad16043ba7dd0930d24ea58d1676385a53e2c1827e2c6b73b670d512ac8d",
+      "en_sha256": "ab7be3115546b5b6ade4fb086630b68dfb80a394813940e86391bf59ddc67a3b",
+      "origin": "ai"
+    },
+    "dataList[id=InterlockingTimeBokGak].summary": {
+      "pl": "Zmalekuje o 30% obrażeń końcowych i zapisuje je. Gdy wartość osiągnie 3, otrzymuje stałe obrażenia równe dwukrotności zapisanych obrażeń. W następnej turze zyskuje Spętanie równe wartości.",
+      "kr_sha256": "e83c81cf09d037a339a3969425ac50fd59a27100487066a751b6dd1204547b66",
+      "en_sha256": "dc496a603388d672a3e31e598e900a9a176a97b2d8f3906941ba44bb4f626e9c",
+      "origin": "ai"
+    },
+    "dataList[id=InterlockingTime_Re].desc": {
+      "pl": "Zmalekuje o 30% obrażeń końcowych i zapisuje je. Gdy wartość osiągnie 3, otrzymuje stałe obrażenia równe dwukrotności zapisanych obrażeń. W następnej turze zyskuje Spętanie równe wartości.",
+      "kr_sha256": "e8f426b01f541dec579f8a9480881aafb64b8aac5d89472a9cbc239769075067",
+      "en_sha256": "dc496a603388d672a3e31e598e900a9a176a97b2d8f3906941ba44bb4f626e9c",
+      "origin": "ai"
+    },
+    "dataList[id=InterlockingTime_Re].name": {
+      "pl": "Przeplatający się Czas",
+      "kr_sha256": "8dffad16043ba7dd0930d24ea58d1676385a53e2c1827e2c6b73b670d512ac8d",
+      "en_sha256": "ab7be3115546b5b6ade4fb086630b68dfb80a394813940e86391bf59ddc67a3b",
+      "origin": "ai"
+    },
+    "dataList[id=InterlockingTime_Re].summary": {
+      "pl": "Zmalekuje o 30% obrażeń końcowych i zapisuje je. Gdy wartość osiągnie 3, otrzymuje stałe obrażenia równe dwukrotności zapisanych obrażeń. W następnej turze zyskuje Spętanie równe wartości.",
+      "kr_sha256": "e8f426b01f541dec579f8a9480881aafb64b8aac5d89472a9cbc239769075067",
+      "en_sha256": "dc496a603388d672a3e31e598e900a9a176a97b2d8f3906941ba44bb4f626e9c",
+      "origin": "ai"
+    },
+    "dataList[id=KalpaVine].desc": {
+      "pl": "Wszystkie postacie zadają mniej obrażeń\nWszystkie postacie otrzymują mniej obrażeń",
+      "kr_sha256": "c3a98344c49c68bb319a08dc7f4d23315cd7813f114bf4903e60270de5307850",
+      "en_sha256": "796a067b4bab8caf2290e24fd5e86eaea68d3b426e9f4bb35a44a7ec83c196da",
+      "origin": "ai"
+    },
+    "dataList[id=KalpaVine].name": {
+      "pl": "Ciernie Wieczności",
+      "kr_sha256": "410ab842d36e46ba7815524699d3fedd1427b27513bda40419550b647cc93421",
+      "en_sha256": "0a0624de0f432f3a7627f8d1497a7bbec50ec889fafa8441c5c00bc13f8a54d6",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Blue].desc": {
+      "pl": "Moc Monet +1",
+      "kr_sha256": "b1ab6fdc0f91aa20436449273773e4350d23a8c6deabf9b00565a1ba7e9f120c",
+      "en_sha256": "5ed70d036c370ee87e9f144c9e9731a9c00940276a373807b46d7484d4a7e12a",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Blue].name": {
+      "pl": "Wymiar Emitujący Prąd",
+      "kr_sha256": "d957bbc61afb934fefdccc5637f41d1325a5b7010df3290d57d233d4b2b41179",
+      "en_sha256": "45e46b78cce868787fbba7d8ad8edd7679015d480e873179440fb662c92e22c6",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Blue].summary": {
+      "pl": "Moc Monet +1",
+      "kr_sha256": "b1ab6fdc0f91aa20436449273773e4350d23a8c6deabf9b00565a1ba7e9f120c",
+      "en_sha256": "5ed70d036c370ee87e9f144c9e9731a9c00940276a373807b46d7484d4a7e12a",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Green].desc": {
+      "pl": "Maks. HP +20%",
+      "kr_sha256": "8f5df322054abf3d4d04f8fd09ce2d5492cffef944d4cdceb6226c1ad6036c77",
+      "en_sha256": "2d504b6165f6a75112ada020c84e111aaaa176ca69c5d7fe6ead9ad98a367132",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Green].name": {
+      "pl": "Wymiar Wrzącej Trucizny",
+      "kr_sha256": "1f9fc6426f85a67440e95f328b3e5e34ed3d7c52d5d5903d84e80f4085f8ce3f",
+      "en_sha256": "9414c60c3ef8b57ec76ae01ba8cb9cd1e559c094e22ca24c2b9ae49f971aaf96",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Green].summary": {
+      "pl": "Maks. HP +20%",
+      "kr_sha256": "8f5df322054abf3d4d04f8fd09ce2d5492cffef944d4cdceb6226c1ad6036c77",
+      "en_sha256": "2d504b6165f6a75112ada020c84e111aaaa176ca69c5d7fe6ead9ad98a367132",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Red].desc": {
+      "pl": "Wzrost Obrażeń +10%",
+      "kr_sha256": "9707f7c0edc49d1fa9f84256f494e30a60cf62b619a1ecba2fb553856cd29b0b",
+      "en_sha256": "024f6609d2d92440daa575c4fda6282c15c1fec2cdbd106a7cb5a0dd034bc458",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Red].name": {
+      "pl": "Krwawiący Wymiar",
+      "kr_sha256": "ce17c108ad61a7beff3ad70cb5fd5e8c9131c0837999ca590233bfa359261c0b",
+      "en_sha256": "a1245a928a1466f6495fad90e6b0f24d5f932a918b514fd38f61b76c8c906cb3",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Red].summary": {
+      "pl": "Wzrost Obrażeń +10%",
+      "kr_sha256": "9707f7c0edc49d1fa9f84256f494e30a60cf62b619a1ecba2fb553856cd29b0b",
+      "en_sha256": "024f6609d2d92440daa575c4fda6282c15c1fec2cdbd106a7cb5a0dd034bc458",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Yellow].desc": {
+      "pl": "Minimalna i Maksymalna Szybkość +1",
+      "kr_sha256": "da3455cc0783d4415a1ad417efe0cf05880cec005981c4e11d6ef616bf239bd2",
+      "en_sha256": "0d1f26a6c059864a388d0863ea581518e605c892b88ef72208a74bde3599b1b3",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Yellow].name": {
+      "pl": "Nieustannie Wstrząsany Wymiar",
+      "kr_sha256": "b9c6009a94cba6f5c796ad746a9c739bb1aae127bd43bb1e2d4134707ba5306e",
+      "en_sha256": "063249787f1fdd799b3f7a54e6e21d6ad77bb0721dbf46bdcab5a5d4830acd92",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_Yellow].summary": {
+      "pl": "Szybkość +1",
+      "kr_sha256": "f8555303c91a3cbb372a9ad00c4fc1331d639a8f4a249d6cb49181a29253810c",
+      "en_sha256": "c781316fc9a9aa1a6a20eb99b5a8335e6de65409f6e06895d1b94fd4f36ce910",
+      "origin": "ai"
+    },
+    "dataList[id=PrepareSinRose].desc": {
+      "pl": "Tworzy jednostkę-Różę o atrybucie Umiejętności, którego cel objęty tym efektem posiada najwięcej\n- Jeśli dzięki temu efektowi liczba Róż przekroczy 7, usuwa Róże połączone ze zmarłymi Sinnersami w liczbie przekroczenia (nie liczy się jako śmierć)",
+      "kr_sha256": "2ea38c8d1309cb0712843ccddcd135ea1cbb974c9793f681c513e4fc18fea830",
+      "en_sha256": "70c19b885f43061c73a6f36c55248153aa7102fd99b2bd7259c10537164076ce",
+      "origin": "ai"
+    },
+    "dataList[id=PrepareSinRose].name": {
+      "pl": "Korona z Róż",
+      "kr_sha256": "925505a7b9ddf655d1895b737f1660322d0e21eabb94de848a0a65be9162c7b3",
+      "en_sha256": "3eda1b8a3b6f7ad4d30a7a2b28c8fa447f008d75fedf1ea58482798682cbacfa",
+      "origin": "ai"
+    },
+    "dataList[id=ReattachedCurseTag_Re].desc": {
+      "pl": "- Maks.: 12\n- Przy 8 lub mniej zadaje +30% obrażeń\n- Przy 9 lub więcej na początek tury zyskuje 5 Spętań\n- Przy 12 na początek tury zyskuje 5 Spadku Mocy Ataku",
+      "kr_sha256": "6f3b565f0f36fcc9d9bbfb2a4d244650eb65c8f8838e91365a9c1fbee44009f7",
+      "en_sha256": "13d5cd95649892ae47e25caac59bca6cfc3c7576b1c654193371fbef8ca61c0a",
+      "origin": "ai"
+    },
+    "dataList[id=ReattachedCurseTag_Re].name": {
+      "pl": "Ponownie Naklejony Talizman Klątwy",
+      "kr_sha256": "a1190e27ec02d0f61cbb967d5aa2edfc7725ef7b63ed52f5366c5194642e6295",
+      "en_sha256": "1217b692df9aa8adc406028c4cab10403d8358d6b7a14e9afd35f7e53f29dc9a",
+      "origin": "ai"
+    },
+    "dataList[id=ReattachedCurseTag_Re].summary": {
+      "pl": "Przy 9 lub więcej na początek tury zyskuje 5 Spętań.\nPrzy 12 lub więcej na początek tury zyskuje 5 Spadku Mocy Ataku.",
+      "kr_sha256": "475d1d3ad96e87601450db2f4e6f96fd59b52e5b4fa3d0142acc22a09def9863",
+      "en_sha256": "f3eccfb62a498a7e90905ccdf0563dd3d81a2566a1465f459f73330397c1f1c3",
+      "origin": "ai"
+    },
+    "dataList[id=TimeRental_Re].desc": {
+      "pl": "Na koniec tury: 3 Pośpiechu, 2 Wzrosty Obrażeń i 2 Wzrosty Poziomu Ataku\nJeśli na koniec tury zostaje 1 wartość, w następnej turze zyskuje 3 Spętań, 1 Spadek Mocy Ataku i 2 Wrażliwości\nNa koniec tury maleje o 1",
+      "kr_sha256": "7e8e882b3f3e69b4005a07245ca62538ac8a51e5382ed890396d01e92db6d70b",
+      "en_sha256": "ae05fb189ab874203640968841220a80fed40b1c6749aac521db397d075aad14",
+      "origin": "ai"
+    },
+    "dataList[id=TimeRental_Re].name": {
+      "pl": "Pożyczony Czas",
+      "kr_sha256": "95171872520fb873df76db5551918f8e3c53e234543704204f5afdcc25f4c280",
+      "en_sha256": "a47c6ba0532a3c1f10432e94dbb8cd9629abbc74bd057b4af48be665af617038",
+      "origin": "ai"
+    },
+    "dataList[id=TimeRental_Re].summary": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=TipsinessRail].desc": {
+      "pl": "Moc Starcia maleje o wartość (maks. 5)",
+      "kr_sha256": "613af86002a7f26f806030154d55f314f8722f04ffc6269d6613866817124a43",
+      "en_sha256": "842400d85c6877ace1bd5c9c9bd0e94ff59071f9ef3d16c642b12e154838fc36",
+      "origin": "ai"
+    },
+    "dataList[id=TipsinessRail].name": {
+      "pl": "Upojenie",
+      "kr_sha256": "9958b7c328628fff7e4a912cc20f2bd6dd3d55ce5738a89944f4d89799f45cf0",
+      "en_sha256": "64879e33e2a36964723b4a73a588ec751cc18d316710324bbd1ba28270e57879",
+      "origin": "ai"
+    },
+    "dataList[id=TipsinessRail].summary": {
+      "pl": "Moc Starcia maleje o wartość",
+      "kr_sha256": "2023d38b8abad1e22740b472f936eddf9d78e6b97c3696ccaa32ad89199dbf8f",
+      "en_sha256": "8c3b7b96ba7e4eb8f1c00477a29000fc07b6b7e74122a663ed679edd2ac67a8b",
+      "origin": "ai"
+    },
+    "dataList[id=WaveFoxUmbrella].desc": {
+      "pl": "Wszystkie części zyskują Ochronę równą wartości\nPrzy użyciu Umiejętności 'Oczekiwanie' przywołuje Stary Parasol w liczbie równej wartości\nPrzy zniszczeniu parasola zużywa 1",
+      "kr_sha256": "cd6195b06e22c0e885622208a4f038066450d29bebc4baf0069e54515b7e9b75",
+      "en_sha256": "98fe63d4b41e37847f3cc332b516304d4a09057a022824975add29652fcc7f5d",
+      "origin": "ai"
+    },
+    "dataList[id=WaveFoxUmbrella].name": {
+      "pl": "Ochronny Parasol",
+      "kr_sha256": "8dbe4c6a48478afe8f67d73a67124c8f43df967e914fc56c88db37d0db884f35",
+      "en_sha256": "e8e3869649be384ddf14034f1a0e812d5a664fae21b25dc0dbe6af0cb246474e",
+      "origin": "ai"
+    },
+    "dataList[id=WrappedCurseTagRe].desc": {
+      "pl": "- Maks.: 9\n- Zadawane Obrażenia +1% za każdą wartość\n- Przy wartości 9 na początek tury zyskuje 2 Spadki Mocy Ataku\nZnika po zakończeniu tej fali",
+      "kr_sha256": "8e04fdc3ba71fb160d8c24ab1d98b649acbc698b2b9a3c33c4dceb53f15ac45f",
+      "en_sha256": "5dd8ea42a07d6cbced655eef7cd8277d675b14f986de25cda363a1d80740d901",
+      "origin": "ai"
+    },
+    "dataList[id=WrappedCurseTagRe].name": {
+      "pl": "Przepleciony Talizman Klątwy",
+      "kr_sha256": "e2d8692291ef1cf1f83dd5406344492bc005624c74043c82303487190a96bb9c",
+      "en_sha256": "23524f88663f12220f685447accb70598d298c1ddd0c8327badf870a838a6cef",
+      "origin": "ai"
+    },
+    "dataList[id=WrappedCurseTagRe].summary": {
+      "pl": "Zadawane Obrażenia +1% za każdą wartość; przy wartości 9 na początek tury zyskuje 2 Spadki Mocy Ataku",
+      "kr_sha256": "e379e864bf63c157f0d63a992e2a5ba61f69912fea65f3a0aecbcbcc01133ef8",
+      "en_sha256": "139f2929675a28738cc671a09ec6cf206df733f5b3dbf331b714bf4dfdbbbcf1",
+      "origin": "ai"
+    }
+  }
+}

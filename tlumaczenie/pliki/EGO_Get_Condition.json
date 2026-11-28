@@ -1,0 +1,178 @@
+{
+  "entries": {
+    "dataList[id=20102_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Limbus Pass Sezonu 1 za poziom 30",
+      "kr_sha256": "dd97592ab8a0b1e661c6f13a823082c1031297fd27f27ce351b81abcf6642ad3",
+      "en_sha256": "6c5bf9a7f441594923529dd06295b44707558fe59a670b951814b3c40298cc54",
+      "origin": "ai"
+    },
+    "dataList[id=20103_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20104_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20202_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Limbus Pass Sezonu 1 za poziom 42",
+      "kr_sha256": "de67ddb28e413783ddf515f7f36fa48b79da65a32af010048127dff0ce511a42",
+      "en_sha256": "0992d60d6eb21bb31334a257a4c6084fdd90f7605d0fa0243e43e052678ea9f0",
+      "origin": "ai"
+    },
+    "dataList[id=20203_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20204_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20302_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Limbus Pass Sezonu 1 za poziom 18",
+      "kr_sha256": "6143f80a6a2925d8cb802f10c0d1cbd561f84f8b60eb416bfd0fab815a41884f",
+      "en_sha256": "845727a5cbfb515f2f6f149dc1ccd91a8e08b2e71f7200fde990088015351118",
+      "origin": "ai"
+    },
+    "dataList[id=20303_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20304_getCondition].content": {
+      "pl": "Zdobyty jako nagroda wydarzenia (Piekielny Kurczak)",
+      "kr_sha256": "a12aaab0a87fe6ba730d909a3ca34738253ee642e5c540f7183eccbf1111c633",
+      "en_sha256": "0b064617be776c1df29ce4f82b7f3adf8953e00b35625cce31519cb7aa702b43",
+      "origin": "ai"
+    },
+    "dataList[id=20402_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 60",
+      "kr_sha256": "dccfc263c41303bcb6af6ecb0a79006f24948602a775d12b1272945f817ae5a0",
+      "en_sha256": "6583f64a70847bb70dc2ba93b06a191c963897b9462fd50fdaa4d3a80b76ccc1",
+      "origin": "ai"
+    },
+    "dataList[id=20502_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 28",
+      "kr_sha256": "d80ed31c00121b8786c73ef3e6ca5f7ecdafffb87cc26b3d4a0847942f265a80",
+      "en_sha256": "a30ed5dc2d5b44d291f0c81053c549680ce8a4d4cce14fb567a3cac8a0df3c27",
+      "origin": "ai"
+    },
+    "dataList[id=20503_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20504_getCondition].content": {
+      "pl": "Premia Zwykła Sezonu 2 za poziom 10",
+      "kr_sha256": "4df6b1e3ef860e3dd21f97d5e87ca18c4401c6812ad334082ff801550d25bd26",
+      "en_sha256": "db31e7d782e221b4d1d7e05cdf4b3b8a448c8bb2511b7487af768b9bc7fe076f",
+      "origin": "ai"
+    },
+    "dataList[id=20602_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 36",
+      "kr_sha256": "38de5a4df9b8004a484af55b855ea26fb468e4473b80654a00ce8b99d3b9d382",
+      "en_sha256": "bbee449378f9e97f0faab6141a4e0abae450439d31928d1db7d7affd44251434",
+      "origin": "ai"
+    },
+    "dataList[id=20603_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20702_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Limbus Pass Sezonu 1 za poziom 54",
+      "kr_sha256": "05ad8678dfdcf72ff7b2b0e34d7c968503235177622f35df208b0ed66efe1819",
+      "en_sha256": "8ac83100498175d6a152494b76a94d126ffaee472227e51766176bc439e408e4",
+      "origin": "ai"
+    },
+    "dataList[id=20703_getCondition].content": {
+      "pl": "Premia Zwykła Sezonu 2 za poziom 30",
+      "kr_sha256": "5f0daa5a0e18e8c485d598f8bcf27da831a492cde4dda9267a5f5ba9a1d72343",
+      "en_sha256": "564950a0f4fe0ae4a9a883111c3fab73637dbc8d86b3f451d42c2818f01a5a69",
+      "origin": "ai"
+    },
+    "dataList[id=20802_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 44",
+      "kr_sha256": "36083ae3017a7bbc567d81e14ad8689413e784951d7331cc350a545704af4fcc",
+      "en_sha256": "955f2b83bba7cfe7ba2d4ed6da4dbe8257f1456399d9e82f23a5a6b9e0c7c177",
+      "origin": "ai"
+    },
+    "dataList[id=20803_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=20804_getCondition].content": {
+      "pl": "Premia Limbus Pass Sezonu 2 za poziom 20",
+      "kr_sha256": "b8cb03e61fc5d42195d0d6aac8785a681f51bb2faa3373b625f70d44d96feda3",
+      "en_sha256": "0e060a3c3cc1c5f16503c62638143951c0b7ca39274c2c55393dad8fcea13aae",
+      "origin": "ai"
+    },
+    "dataList[id=20902_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Limbus Pass Sezonu 1 za poziom 6",
+      "kr_sha256": "61c609a2ef0bd903bb00fb8e192d8f7e63ebfb4b4b11ca797031de71b4f3857e",
+      "en_sha256": "632a20bceb6fb7c61e79f22dd483307b77ce4625d80f2fb7c9b0622d57be80db",
+      "origin": "ai"
+    },
+    "dataList[id=20903_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 52",
+      "kr_sha256": "c845bd89f1112083e346eb860d4c9c9d7eb2cbaa263c6c5591015f11c4b05c5b",
+      "en_sha256": "c5700e53280841ddb02ef4b7d77cb1f865736fafecf03918082c8c9c68783ac4",
+      "origin": "ai"
+    },
+    "dataList[id=21002_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 12",
+      "kr_sha256": "4a0a386762d7d90432e2f76d5635f8901eef48b1cc1475bf572e94f18bbb9ba2",
+      "en_sha256": "0e132bfeadfde6d5f7cdfb320ff28e93eb9838ebf6389e1d441d1e25a31104b8",
+      "origin": "ai"
+    },
+    "dataList[id=21003_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=21102_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 4",
+      "kr_sha256": "a868ae5472e1e692981f8b19ccc50bd08ed3a71785701a0527a513601a33195c",
+      "en_sha256": "2a23e35af6067bfd3de6dc7d7cec926493e880bc7d56daefd1d473597e07d52d",
+      "origin": "ai"
+    },
+    "dataList[id=21103_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    },
+    "dataList[id=21104_getCondition].content": {
+      "pl": "Premia Limbus Pass Sezonu 2 za poziom 40",
+      "kr_sha256": "1d75ed56c63580aafec3bceae12a5f25d82eef7b424b8154d1873e280605cc4d",
+      "en_sha256": "b7c4005784a90f7d4276dac8f8311e4371e0cd8d00727220cf4937c21b7d6f5d",
+      "origin": "ai"
+    },
+    "dataList[id=21202_getCondition].content": {
+      "pl": "Ekstrakcja\nPremia Zwykła Sezonu 1 za poziom 20",
+      "kr_sha256": "4cc3f76225c60348e682935f633a1bf061218ce16cfe45926113b9e450f3c182",
+      "en_sha256": "85dadd0d2c44a1c1232e7c8683902961a17ae2cefe9a55ca89b49d472a85cbe5",
+      "origin": "ai"
+    },
+    "dataList[id=21203_getCondition].content": {
+      "pl": "Ekstrakcja\nZakup w Automacie",
+      "kr_sha256": "5e3de63f844ec019a5db52978637e7db62e228e8a1be3e7656ecd8ac18aa1707",
+      "en_sha256": "0eb300609d773b5444f77ddbea59ed9a11d860116cfc2fd15df11bbb2ddd7ec6",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=IsUnavailableDanteAbility_DescText_IsActivatedAbility].content": {
+      "pl": "Ta zdolność Sadzonki Światła została już dzisiaj użyta.",
+      "kr_sha256": "b33403cbc6778d128fd5d4357d7bd66a70922e8e662debf4fd19798caa98b66d",
+      "en_sha256": "f43bcce6120978924ed2d38290c875bb09f2ecdfbd68e7184e6502c33eb9d7fb",
+      "origin": "ai"
+    },
+    "dataList[id=IsUnavailableDanteAbility_DescText_RemainingCountIsZero].content": {
+      "pl": "Brak pozostałych użyć na dzisiaj.",
+      "kr_sha256": "8d1268da7ed89b2e7ced47ac7c25bfa8e1e2c65cd35ac956e1091e2ca93ef095",
+      "en_sha256": "d5282c51a4a8b07236ba4546eef8452e42ac54ff5e14d8d19afe8f37e694b0b3",
+      "origin": "ai"
+    },
+    "dataList[id=IsUnavailableDanteAbility_TitleText].content": {
+      "pl": "Nie można użyć tej zdolności Sadzonki Światła.",
+      "kr_sha256": "31babbd1181e85dca8a57e0cf346174e64b5674d4d626becf47ce1e23c4c1320",
+      "en_sha256": "71004c0942654b00eb51ad5354e59f0e46277396c95e898c9b497f742a0272ce",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_50101_Option_0].content": {
+      "pl": "Awers",
+      "kr_sha256": "f49777be462b9d1bc18d5399b6c07e477f9c5a9a066bec38405589d1ed6ed2b1",
+      "en_sha256": "b909fd55895243bf8545f531a96ba9ad8eba7f26200b953ba87c54639e69d64e",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_50101_Option_1].content": {
+      "pl": "Rewers",
+      "kr_sha256": "4c1fa6a73a5c5f3f82982eeac85c757537d4f34317b18465277c1999e7dce3de",
+      "en_sha256": "cc43566b300ea10acddb0e2d4111c1e1bf5d423b221266667596b07974f913ad",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_UIPopup_Remain].content": {
+      "pl": "Pozostałe użycia",
+      "kr_sha256": "f4065173fb1bda10fb99bb7cf4c468b8636abba4bc54240b64805a6f10381432",
+      "en_sha256": "967ebaeb5e2c55119963999c63b168262d6921cec7c4f0552f36751e48a3d9cd",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_UIPopup_Title].content": {
+      "pl": "Wybór zdolności Sadzonki Światła",
+      "kr_sha256": "e2997cbc83295db373e527ae2fbde7c083fc81be0b2a69c91aebb813ca712f0e",
+      "en_sha256": "653d09ee7ea2702f475f1672fe4ef370d5bb9f5aeffcfe5e69686c6971c869f6",
+      "origin": "ai"
+    },
+    "dataList[id=dnateAbiltiy_Unlock_GoldenBranch_Resonance].content": {
+      "pl": "Rezonans Złotej Gałęzi",
+      "kr_sha256": "e5520065d4407e9136f5bd6a6edbb053efe692c1cd77024b550e50e568e6c77f",
+      "en_sha256": "726b5d9b9ff345ff7c2740bb885b9628936b5f22a60be3f72f01ac01afaea3b0",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_battle_danteAbility_01_desc_01].content": {
+      "pl": "Kliknij przycisk zdolności Sadzonki Światła w prawym górnym rogu.",
+      "kr_sha256": "69f89c46d26d5b2f403ecbf4738ca0a992defe3e0431d0b7a97966248d7bdafc",
+      "en_sha256": "a6edb521806bdcaa25c8188c4d885b342b82ff0b9de7459d3f14fa7e3f4bd764",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_battle_danteAbility_02_desc_01].content": {
+      "pl": "Wybierz zdolność, której chcesz użyć.",
+      "kr_sha256": "80a0612cd1120683d87eed3fa0c42cf9ec87591576041d97cbbe2b01b408208a",
+      "en_sha256": "9592176453d86fb307e97d418119d5e1c932ef0e679b2f5e664deaefb9b0680d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_battle_danteAbility_03_desc_01].content": {
+      "pl": "Naciśnij przycisk potwierdzenia, aby aktywować zdolność Sadzonki Światła.\nSadzonki Światła można używać do wyczerpania dostępnych użyć.\nLiczba użyć odnawia się każdego dnia.",
+      "kr_sha256": "0ecf7546261ec0f2530c48440507d91544081ed1978fb7697e5ff91c6bcb2c67",
+      "en_sha256": "6c20c1777567957fdd339e2329b0793823a3274430acb4b322d94209b88868a0",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_battle_danteAbility_title].content": {
+      "pl": "Zdolność Sadzonki Światła",
+      "kr_sha256": "1f5473a23cd80862d1eb77b7043b3816a0f230a4044d739cb2623af0a60bb2b6",
+      "en_sha256": "7528ce7557aa542331cafa87edc922eac445a2d60218a42d6d75fb947ca450ed",
+      "origin": "ai"
+    },
+    "dataList[id=ui_activated].content": {
+      "pl": "Aktywuj",
+      "kr_sha256": "4e8694a4eeccd76c4fe481a3f6d16f0ff64b2d2ab3205a9216dab64a77ec4397",
+      "en_sha256": "24433c70eba5b15368fe2e1dda94fe3d61db2357aa144363b9ab487e60235ab2",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=EffEGO].content": {
+      "pl": "Rozkwitłe E.G.O",
+      "kr_sha256": "ebcea33c38a6fd2061d8b5dd141c40a88551b9c410dd1fd9a493bc0e60303ae0",
+      "en_sha256": "7a6601fb4ed579f61e3ac64d6737b88ff6f6320bdbc2fc6166473f714c131132",
+      "origin": "ai"
+    },
+    "dataList[id=ExpCan].content": {
+      "pl": "Konserwowe Doświadczenie",
+      "kr_sha256": "65dd8cfb3620f8a15a2aaeb8211d0b280c45e3f14b8c6e875727d181928d0e59",
+      "en_sha256": "74f44397567ee205ae4d8eb83d5b0fc6983961a41c54b47175105d3168bef81e",
+      "origin": "ai"
+    }
+  }
+}

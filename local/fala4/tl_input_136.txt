@@ -1,0 +1,96 @@
+13202||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <방금 전에 본 황금송진…이라는 것과 비슷한 느낌이 들어.>|<It feels a lot like that... Golden Resin thing we saw earlier.>
+13203||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그러면 이녀석도… 황금가지의 영향을 받은 거야?|Huh. Then maybe this Mannequin got juiced up by the Golden Bough too?
+13204||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <확실하진 않지만… 그런 것 같아. 뫼르소, 일단 저걸 챙겨줄래?>|<Can't say for sure... but I think so. Meursault, could you grab that for now?>
+13205||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아직 이 안에서 마무리할 일이 있습니다, 관리자님.|There is still unfinished business left in this area, Manager.
+13206||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 안에서 익숙한 푸른 빛이 새어나온다. 지금은 주변을 살펴보는 게 우선인 것 같다.|A familiar blue light leaks out from within. For now, searching the surrounding area should take priority.
+13207||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 먼저 화장실에서 재정비가 필요할 것 같다.|We should return to the restroom and regroup first.
+13208||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아직 다음 층으로 넘어갈 등급을 달성치 못했습니다.|We have not yet attained the rank required to proceed to the next floor.
+13209||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 에스컬레이터는 이제 작동하는 것 같습니다, 관리자님|The escalator now appears operational, Manager.
+13210||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 하지만 아직 해야 할 일이 남아 있습니다.|However, there are still matters to conclude before our departure.
+13211||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <혹시 모르니까 일단 돌아오긴 했는데…>|<Well, we returned here just in case, but...>
+13212||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 관리자님, 먼젓번 모자란 이들에게 손을 빌려주시기 위해 새로 각성하신 대단히 유용한 그 능력 말입니다.|Executive Manager. Are you able to see Meursault's present surroundings? I recall you awakened a highly convenient ability in an effort to assist the more lacking members of our team.
+13213||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그 능력으로 보신 걸, 말씀해주시겠습니까?|Would you use that ability and tell us what you see?
+13214||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그래, 관리자 양반, 그걸로 본 걸 좀 말해줘봐.|Yeah, Manager Bud. Tell us what you see.
+13215||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <바닥에 카펫… 앞엔 옷을 진열해 놓은 것 같아. 뫼르소는 움직이지 않고 있네.>|<I see a carpeted floor, and rows of clothes on display. Meursault's standing absolutely still.>
+13216||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <묶여있지도 않고. 옆에 직원 같은 자와 같이 있어.>|<He's not tied up, and there's someone who looks like a store clerk beside him.>
+13217||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 칫, 그 사이 포로로 구금 당한 건가? 답지 않게 여러모로 무능한 모습을 보이는군.|Tch. Not much time has passed since the execution, and he already allows himself to be taken captive. An uncharacteristic display of incompetence coming from him—<i>and</i> on multiple fronts.
+13218||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 허… 카펫, 전시된 옷이라… 뭐, 아무 것도 모르는 것보단 낫군 그래.|Huh... Carpet, and clothes on display... Well, it's more than we had to go on before, at least.
+13219||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 다행히 뫼르소의 위치도 그대로인 것 같다. 슬슬 움직여 볼까…|Thankfully, Meursault is at the same spot he was last time. Well, no reason to dally...
+13220||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이건… 뭐야?|What... is this?
+13221||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그러게…>|<Y-yeah...>
+13222||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 피부파마를 할 수 있는 열처리기다. 피부에 원하는 주름을 넣거나, 피부결을 다듬을 수 있겠군.|Heat lamp for dermal perm. It likely allows for its users to fold wrinkles into shapes they deem aesthetic, or allow them to refine the grains of their skin.
+13223||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그러면… 뭐가 좋은 거야…?|Aha... But why? For what...?
+13224||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뫼르소가 설명하는 사이, 열처리기 밑에 안내책자 하나를 찾았다.|As Meursault explained, an information pamphlet tucked under the heat lamp caught my eye.
+13225||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 주워서 들어올리자, 이스마엘이 눈을 빛내며 손을 내민다.|The instant I picked it up, Ishmael was in front of me with her hand jut out like she was waiting to receive something.
+13226||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 단테, 그거 읽으실 건가요?|Gonna read that, Dante?
+13227||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <어…? 어… 그렇긴 한데… 먼저 읽어도 상관 없어.>|<Uh... Yeah...? But... You can read it first, I don't mind.>
+13228||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 안내책자를 이스마엘에게 빼앗… 아니, 건네주었다.|I surrendered—I mean, I handed the pamphlet over to Ishmael.
+13229||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 음… 시술 중에는 파마를 받는 고객으로 보일 뿐, 구분이 안 된다… 아하, 그래서 그런 방독면 같은 걸…|Hmm, let's see... While undergoing the dermal perm procedure, the client's form assumes that of a "procedure customer," and becomes indistinguishable from others... Aha! So that's why they're all wearing those gas masks...
+13230||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 여기 온 뒤로 제일 편안해 보이네.|This is the most at ease she's been ever since we entered here.
+13231||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 차단이라는 상징을 지니게 되었기에 넘을 수 없다고 뫼르소가 말했었다.|According to Meursault, this object has been assigned the symbolic function of denying passage. So, we can't cross it.
+13232||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …그것은, 음.|... That was... mm.
+13233||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 특수한 상황일 뿐, 의도적으로 재현할 수는 없습니다. 그때는 그저, 거인과 같은 것을 바라보았을 뿐이므로.|That was made possible due to the particulars of that situation, in which I and a Giant were both gazing at the same symbol.
+13234||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 둘이서 뭘 그렇게 재밌게 속닥거려?|What are ya two having so much fun gossipin' about?
+13235||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <아, 그냥 넘어갈 수 있을지 이야기하고 있었어. 안 되는 것 같으니까, 다른 곳으로 돌아가자.>|<Ah, just discussing ways to get around this thing. Turns out there isn't—let's just take the roundabout route.>
+13236||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그렇다는 건… 혹시…|Wait, then...
+13237||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <이건 차단봉이 아니야. 봉이 두 개 있고, 가운데 줄이 있으니까… 이건 뛰어넘을 수 있어. 뛰어넘어도 괜찮아. 우리는 그런 거 잘 안지키니까…>|<This is <i>not</i> a barrier. It's just two rods connected with a rope, which means I can leap over this. It's safe to leap over this. We are not bound by these rules anyway...>
+13238||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <으아아아악!>|<RAAAAAAAH!>
+13239||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뭐, 뭐야? 단테 괜찮아?|Wh-huh? Dante, ya okay?
+13240||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 왜 뒤로 넘어지셨나 했더니, 저 차단봉을 넘어가려고 한 거예요?|Did you trip trying to jump over that rope barrier?
+13241||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <다, 다르게 정의하면… 넘어갈 수 있지 않나 해서…>|<I-I thought I could leap over it if I defined it as something else...>
+13242||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …단순한 자기세뇌만으로는 상징을 새롭게 정의할 수 없습니다, 관리자님.|... Surface level self-deception cannot truly redefine a symbolic element, Manager.
+13243||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 의식 가장 깊은 곳에 못 박혔기에, 아주 오랜 시간을 보내거나… 혹은 태어나면서부터 자질을 가지고 있어야만 할 것입니다.|Symbols are things nailed solidly into the deepest parts of consciousness. One must commit to a significant time investment should they wish to redefine the symbol... or be born with the "aptitude" to do so.
+13244||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <으윽… 나는 안 되지만, 뫼르소 너는 할 수 있지 않을까? 그 에스컬레이터 때처럼…>|<Ugh... Okay, then what about you? Can't you do what you did back at the escalator room?>
+13245||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 무언가가 잔뜩 전시된 매대다.|A display shelf full of unidentifiable objects.
+13246||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 피부파마를 받을 때 쓰이는 열처리기다.|Heat lamp for dermal perm.
+13247||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 평범한 의자다. 앉아서 쉬었다 가도 괜찮겠지만, 굳이 그럴 필요가 있을까.|Just a chair. We could take a quick breather here, but there's no reason to do that.
+13248||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 흐물거리는 살덩이 사이로, 바늘처럼 가는 뼈가 가시처럼 삐져나와 있다.|Needle-thin bones jut like thorns from folds of sagging flesh.
+13249||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 평범한 옷들 사이로 기괴한 옷들이 섞여있다.|Among the ordinary clothes hang grotesque pieces.
+13250||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 지하에서 본 적 있는 셔츠나 바지도 보인다.|I recognize some of those shirts and pants from the basement floors.
+13251||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이게… 마네킹이라고요?|So this is... a "Mannequin?"
+13253||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아까 뫼르소 씨 없이는 인식을 못하는 것 같다고 하시던 것도 그렇고… 뭐, 나중에 얘기하죠.|Like earlier, when you so confidently stated without proof that these people won't be able to perceive us without Meursault... Ah, well. We'll have time to talk about this later.
+13255||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 유행이… 또 바뀌었어?|No way... The trend changed again?
+13256||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이번엔 무슨 유행이야? 나 방송을 못 들었는데!|What's in fashion now? I didn't hear the announcement.
+13257||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그나저나 너희는 어떻게 그따위의 이상한 옷을 입고도 파렴치하게 돌아다닐 수 있지? 그게 유행일 리는 없는데! 그게 유행일 리는 없는데!|More importantly, how can you be walking around in hideous clothes like those? Aren't you even ashamed of yourselves? That couldn't possibly be the current trend!
+13258||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 스트라이프는 돌아올 거야. 유행은 돌고 돈다고!|Stripes will return one day! Fashion always comes back around!
+13259||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그럴 거야. 아, 이 백화점에선 뫼르소만 싸울 수 있으니까, 메이스는 내려도 괜찮아.>|<Yeah. I think. Oh, also—only Meursault seems to be able to fight in here, so you can put your mace down.>
+13260||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뫼르만 싸울 수 있다고? 왜?|Only Meur? How's that?
+13261||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 시지프 백화점을 구성하고 있는 세계 중에는 상징계와 그림자계가 존재한다.|Of the worlds that comprise the Grand Magasin Sisyphe are "the Symbolic" and "the Shadow."
+13262||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이중 상징계에서는 오직 나만이 직접적인 개입이 가능하다. 나를 주체로 뒤에 선다면, 어느 정도의 개입은 가능하겠지만, 전투를 원활히 수행하는 수준은 아닐 것이다.|Only I am permitted to directly interact with items and entities within the Symbolic. Though one may be able to exert a marginally extended level of control as long as they are in my close proximity, it will not be sufficient enough to engage these enemies in battle.
+13263||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그럼… 우리는 앞으로 전투에 참여를 못한다는 거야?|Are ya sayin'... we can't participate in any battles that take place in here?
+13264||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그림자계에서는 가능하다.|It is possible in the Shadowed.
+13265||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 좋아, 무슨 말인지 전~혀 이해 못 했지만… 일단 부딪혀보면 알겠지.|O~kay! That kinda doesn't mean anything to me, so thanks for nothing...? Guess we'll have to find out as we go.
+13266||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 후우… 그러죠. 이곳의 상식을 하나하나 물어볼 상황은… 아닌 것 같으니까.|*sigh* Let's do that. Sitting here and questioning every little nonsensical thing we find in this place won't get us anywhere.
+13267||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …근데 뫼르소 씨는 그렇다 쳐도, 단테 씨까지 이런 상황에 익숙하다는 건 영 수상하네요.|... Weird. Meursault's just being Meursault, but it's not like Dante to be so calm and collected in a situation like this...
+13268||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 커헉… 너희는 그런 역겨운 옷이나 입으면서… 내가 뒤처졌다고…|Kergh... You dress in such repulsive rags... yet you call <i>me</i> outdated...?
+13269||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 다음에…는 내가 꼭… 런웨이까지…|Next time... I'll make it. I'll be the one... to make it to the runway...
+13270||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 르루주에 속해있던 자의 시체다. 피부 바깥으로 빠져나오지 못한 피가 얼굴에 가득 고여있다.|The corpse of a Rouge. Blood has pooled under her skin, making her face appear red and swollen.
+13271||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 보아왔던 시체와 별반 다를 것은 없다. 어디선가 긁어모은 듯, 피 묻은 눈알이 주변에 흩어져 있다.|This corpse is not so different from the others we've seen. Blood-slick eyeballs—scavenged from somewhere—lie scattered around it.
+13272||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 화장품 사이로 어울리지 않는 작은 못 하나가 보인다.|A small nail stands out among the vials and containers of various makeup products.
+13273||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뫼르소가 작은 못을 챙겼다.|Meursault took the small nail.
+13274||RPGSystem#rpg-loc-dialogue-floor-1-b.json] '절대 지워지지 않는 커버력, 각질의 생생한 진액. 연속 완판 중!'|"Coverage That Never Fades! Feel the Refreshing Lymph of Freshly Shed Skin! Instant Sellout!"
+13275||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 내용물은… 여전히 볼 마음이 들지 않는다.|... Still seems unnecessary to inspect the product itself.
+13276||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아무것도 안 빌려줄 거면 말 걸지 마…|Don't bother talking to me you're not going to lend me anything...
+13277||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이제는 알 것 같다. 이 전시물이 무엇을 만들려고 했던 건지.|I think I understand what this installation was trying to depict.
+13278||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 가방, 혹은 장갑… 재료는 고객들이겠지.|A handbag, or a pair of gloves... Made from customers.
+13279||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 가방인지 장갑인지 모를 조잡한 전시물이다.|An installation of mediocre craftsmanship. Doesn't look like it knows whether it wants to be a handbag or a pair of gloves.
+13280||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 흘러내리는 옷주름이 미세하게 흔들린다. 만지고 싶지는 않다.|The garment's drooping folds quiver faintly. It's not a very enticing sight.
+13281||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 전시된 마네킹이 보인다.|Mannequins stand on display.
+13282||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <…뫼르소, 저것들 좀 가려줘.>|<... Meursault, can you get those things to look away?>
+13283||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 예, 관리자님.|Yes, Manager.
+13284||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뫼르소가 주먹을 휘둘러 마네킹의 시선을 벽면으로 돌려주었다.|Meursault punched the Mannequin in the face, rotating its head toward the wall. He repeated that process several more times against the other ones.
+13285||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 갑자기 왜 마네킹에 화풀이하시는 거예요…?|And we're suddenly letting off steam against random Mannequins because...?
+13286||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그런 일이 있었어.>|<Don't worry about it.>
+13287||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 보아왔던 시체와 별반 다를 것은 없다. 낙하한 시체들에서 긁어모은 듯, 피 묻은 눈알이 주변에 흩어져 있다.|This corpse is not so different from the others we've seen. Blood-slick eyeballs—apparently scavenged from the bodies that fell—lie scattered around it.
+13288||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 읽고 있던 잡지에는 피부파마에 관한 내용이 적혀있다. 1층에서만 받을 수 있는 특별한 시술인 것 같다.|The open magazine contains an article about dermal perms, a special procedure apparently offered only on the first floor.
+13289||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뒤부아는 더 이상 숨을 쉬지 않는다.|Dubois lies dead.
+13290||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 명령하신 대로 수행했습니다, 관리자님.|Your instruction has been carried out, Manager.
+13291||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …솔직히 내키진 않네요. 저희에게 우호적인 사람을 죽이는 거요.|... I'll be honest. Killing someone who's been nothing but nice to us doesn't sit right with me.
+13292||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …올라가려면 돈이 필요해.|... We need money if we're going upstairs.
+13293||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 여기 죽치고 앉아서 옷을 팔거나 바깥에 있는 사람들처럼 하루 종일 시체를 뒤적거릴 게 아니라면… 나는 이것도 방법이라고 생각해.|This was one way to get it... Unless we plan on squatting here selling clothes—or spending the whole day rummaging through corpses like the people outside.
+13294||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 뭐, 비난하려는 건 아니에요. 단테가 아무 이유 없이 뫼르소 씨에게 그런 명령을 내리지도 않았을 거고요.|Well, I'm not trying to guilt Dante for making that decision. They must've had something in mind when they ordered Meursault to do that.
+13295||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <……>|<…….>
+13296||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 새처럼 보이는 옷이다. 혹은 보관된 고객일지도.|An attire fashioned into the shape of a bird. Could also be a customer who's been put in storage.
+13297||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 유행 중이라고 적혀있지만, 이 모자를 쓰고 다니는 고객은 한 번도 본 적이 없다.|The placard reads "TRENDING NOW," but I haven't come across a single customer wearing this hat.
+13298||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 조명 아래 검은 옷들이 전시되어있다.|Black garments hang beneath the spotlights.
+13299||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 전시된 마네킹이 보인다. 벽면으로 고개가 돌아가 더 이상 눈을 마주칠 수 없다.|Mannequins stand on display. With their heads rotated to face the wall, they can't look at us anymore.

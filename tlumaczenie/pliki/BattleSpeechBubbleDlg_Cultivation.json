@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[id=battle_react_400005_101].dlg": {
+      "pl": "Naprzód, krok po kroku!",
+      "kr_sha256": "37aaae240b5f0fc95d0e9332661d3945c493767e88d0f49f10aa65b74ff6e51e",
+      "en_sha256": "6de802559ded9cadb4a79b5b8085a8ffbb867e3e82596cb8dd5fbe8e999e157c",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_102].dlg": {
+      "pl": "Już się nie boję!",
+      "kr_sha256": "e79f9430575190d506766f5745edcff3592a912960c8e7e6cda0563d8e5d3f9a",
+      "en_sha256": "3b94b9728035a01819665ff83cd07402730a2edc75d0f1c082d4a8814609e6f3",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_10].dlg": {
+      "pl": "Hej, to chyba idealna okazja, by powiedzieć — <i>Jackpot!</i>",
+      "kr_sha256": "4689e995ec2e6f415baf18f2148deff0d0cb8965825b7c2bdc35ddbe95ab5833",
+      "en_sha256": "684bb68744bba2d44c4380125b2b54589e5c9c50a080f408ff340af5d835d46d",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_11].dlg": {
+      "pl": "Czas wykorzystać to, czego uczyliśmy się razem!",
+      "kr_sha256": "2058b67e0f103e183827d33a1ab9cc242836cfbf2702023b3c11a6cfde4c02ac",
+      "en_sha256": "da04aa8726036c94f97f4c7b314e7710e7200e0ef56cd4b3ec6635b86d299f24",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_1].dlg": {
+      "pl": "Muszę przyjrzeć się... niczemu innemu jak sobie samemu.",
+      "kr_sha256": "631a6cb4208990b18fe950319de7ae7fa7ce717d691de2f85e15f90a066f5d24",
+      "en_sha256": "d6cc502dd3f6474e09635d9c55a58b2e2ca3a51f6e594ca6dd2ea8a7849f1411",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_201].dlg": {
+      "pl": "Bez wahania, jednym pociągnięciem...!",
+      "kr_sha256": "df65ad58d59eeabfd8cb63a610805757d175167a917cf85c6deb04a73f6067b3",
+      "en_sha256": "176ad6ded0106711efd4a845bf75710db481128dad06925f351b3d20b506778f",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_202].dlg": {
+      "pl": "Jak skrzydła feniksa!",
+      "kr_sha256": "0973cfc614dcdecc1ed4a08325a9c0183a2b58ca21f6a34858e7e582f97506d4",
+      "en_sha256": "58bec6bb7ef13540d32ff2344845016f3331dad4a6c045c4b7e7b3c641a05244",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_2].dlg": {
+      "pl": "Świetnie, znam już twoją strukturę!",
+      "kr_sha256": "b79d6f034e92a6bf18498cfdc02b48e4047aa40cf543690e6f4ad565eff600be",
+      "en_sha256": "4b6fd02060426908a8b598a24aa890a71b70a8c73b995f5730094c022abb718f",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_301].dlg": {
+      "pl": "Wspaniale jak kwiaty...",
+      "kr_sha256": "962a7bda7bc5211f2639cbebab1a36ccb06d36fdd031aa3c166fa68220207f8d",
+      "en_sha256": "88d7235eb4bc3b1019aa0b4eda99f5eb62d27f9779305fa916ba1d1f933342ae",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_302].dlg": {
+      "pl": "Lekko jak wiatr!",
+      "kr_sha256": "b8b76f6e52c6a40c096ca32fe301b57287d67cd26743432b54bcabfb688d15b7",
+      "en_sha256": "099245329d2bf0ac913b441a490cd478b185845810a26a9fe2ab072b70522678",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_303].dlg": {
+      "pl": "Wspaniale jak kwiaty...",
+      "kr_sha256": "2d1356f2eb1decfe30411cf7b45e4103dda2a285a392a8b0f24d06cfa1699294",
+      "en_sha256": "88d7235eb4bc3b1019aa0b4eda99f5eb62d27f9779305fa916ba1d1f933342ae",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_304].dlg": {
+      "pl": "Lekko jak wiatr...",
+      "kr_sha256": "04ac9cd86eafde0ee2c17ef61de7630b59865c3a6731eca683c16bec652c0366",
+      "en_sha256": "85497cccac6e311fe2ec61342ccfcde9360c33aba730c3bc441f622e37022f72",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_305].dlg": {
+      "pl": "A ostro jak żądło pszczoły!",
+      "kr_sha256": "dc28b9a388bf2a888bbeb5aa73b8da841207ab2b7ed186f9b110270ee3e36b31",
+      "en_sha256": "d6c2f7390e90eda074fdbc258c8985bc7bcc34a3381b7d370166da0728dc8318",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_3].dlg": {
+      "pl": "To nic w porównaniu z próbami, jakie przechodził Fixer...!",
+      "kr_sha256": "7c31f2bab16d2d8d0114c27d6b4b1212dc2f12e058ae889c5fa10aabfe499da1",
+      "en_sha256": "561968b43afeb06de5f756b953b684fbc9422decabd9dd1529a183607aa84fd8",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_401].dlg": {
+      "pl": "Muszę tylko zaobserwować cały łuk ich ruchu...!",
+      "kr_sha256": "7d8336f897fc9bfe0d1202195690ff2d0a03358d1dee31c7720800f966829911",
+      "en_sha256": "b08daaa6dd158e7a5d20d843d07fbd8cae385f5ab33c6658e2db3f1de6a9073e",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_402].dlg": {
+      "pl": "Pustka dźwięku... formy... i... umysłu.",
+      "kr_sha256": "23a04e3935ef92fec7e20d4df7e88a7601ca46af673a0b5ded2e749e33eeb86f",
+      "en_sha256": "ceaeb97fc81d59945bb8806985bc79d3a31ddf0fe446a145a94ccb7a036f29f8",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_4].dlg": {
+      "pl": "Prawdziwy lider... nigdy nie porzuca swoich ludzi.",
+      "kr_sha256": "d166ac33f97d5bdde9fed63b5c289d5ac31ba7cceb55b3eec7b006abb554a7f3",
+      "en_sha256": "c2db165b857cbd1e7fe8c841e453a8149569555bac3394698ba5292e885c9b6a",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_501].dlg": {
+      "pl": "Ha! Czytam cię jak otwartą książkę...!",
+      "kr_sha256": "cad9a83a81e9f102dcb97edc7b402779dba98c325a0f80edb63bf02e79f8ad12",
+      "en_sha256": "90fbdcb7de878105c0894fdc853a872f6c98a9a8309bdcc6a666e9a657c12062",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_5].dlg": {
+      "pl": "Najlepsza strategia... to w ogóle nie mieć wojny!",
+      "kr_sha256": "8ccf2f8b5a6e899e0913d717a0464b5af59d2a9117584d4596319d28f601e091",
+      "en_sha256": "b01a6dff648ccdcbd528b3b8c7194842233f641b567884c79eb392bc06104b92",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_6].dlg": {
+      "pl": "Agh, coś czułem... Dobrze, że ćwiczyłem intuicję.",
+      "kr_sha256": "280b75e8fc775c48d9d970414d0628307b1b0ccade9d7c54067dbb0ad78f25ba",
+      "en_sha256": "86661326bef548fe2d65688ba6ec3f4a49619bd287da66fffcbb2688e47914ec",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_7].dlg": {
+      "pl": "... Nie mogę dać się tym wstrząsnąć.",
+      "kr_sha256": "d5720357328f3656ddf9b9bf28b3fda70fcca1fb064cf4196aeabc55612eb0f6",
+      "en_sha256": "e68d78cfac84efa46f824f7f5d14464b56b83d68d4a1e72417d54d5948c30f3a",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_8].dlg": {
+      "pl": "A teraz powiedz mi wszystko, co wiesz.",
+      "kr_sha256": "68149bd3ce3419b308b238b17c7a82bda39bf1b1ca3c532795e9381ed020433a",
+      "en_sha256": "a68f11be6e55c89b5882c7eb87794f2aafd7682f5830d7d0b36c6265af434cc3",
+      "origin": "ai"
+    },
+    "dataList[id=battle_react_400005_9].dlg": {
+      "pl": "Ważne jest, by pomóc im zrozumieć, jaką jestem osobą.",
+      "kr_sha256": "16ba69ed2cace83647f3574064613fee44c1b2433b46014c65b9e8da13cf6238",
+      "en_sha256": "e825bc67c4f24eb2b60a4567aa04edbcf3a4d5f8241f3041b4afb99832bd1e3e",
+      "origin": "ai"
+    }
+  }
+}

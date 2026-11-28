@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1297].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1297].name": {
+      "pl": "Mayors, the Yearning Flotsam",
+      "kr_sha256": "6350803296394a10781ecdd3b0d2204ecf88ae20a8e285646eb0bb81b2716eeb",
+      "en_sha256": "c0f98c9c6129150e639b03b2b1eb0f40093621155cc481e91fb5601929e8ec09",
+      "origin": "ai"
+    },
+    "dataList[id=1297].storyList[level=0].story": {
+      "pl": "Skoro wszyscy zapomnieli pozostawić zapis o tej istocie, otwieram to nagranie.\\n\\nPomimo jej dziwacznej, splecionej postaci pani Mayors zachowała rozum w swej mowie.\\n\\nSkoro ten wygląd jest tym, czego od dawna pragnęła osiągnąć, choćby było to lecz długo oczekiwanym kreskiem nieuchronności, nie straciła rozumu, nie.\\n\\nByć może dlatego wciąż próbuje nas nawrócić.\\n\\nUżywając słów pani Amiya, zdaje się, że pani Mayors uważa tę bitwę za uniknioną.\\n\\nSeaborns to istoty, które tak chętnie poświęcają się praktykom altruizmu, oddania i samopoświęcenia dla przetrwania i dobrobytu swej społeczności.\\n\\nZ pewnej perspektywy można nawet rzec, że zachowują piękno najmniej skażone.\\n\\nJednakże to rozumienie przybywa do nas jedynie za sprawą wglądu, którym pani Mayors nas oświeciła.\\n\\nGdyby ów wgląd nas ominął, nic innego jak strach by mnie chwyciło, gdy fala przypływu potworów ponad pojmowanie uderzyła w nas.\\n\\nOczywiście, jest to lecz samotna perspektywa moja.\\n\\nDla niektórych mogła być ciekawością; dla innych — reverencją.\\n\\nBycie świadkiem nieskończoności samego życia przywołuje na pamięć wspólnika, który raz powiedział, że cechy technologii definiuje jej użytkownik.\\n\\nWszyscy, którzy domem czynią Miasto, wiedzą, że życie i ekosystem stały się częściami mglistej „technologii”, po wszystkim.\\n\\n\\n(Dźwięki pędzących fal)\\n\\nMówią, że jest w porządku definiować odkopaną naturę ludzkości jako dobrą.\\n\\nMówią, że jest w porządku definiować odkopaną naturę ludzkości jako złą.\\n\\nMówią, że jest w porządku definiować naturę nie-ludzkości jako dobrą.\\n\\nA jednak, czy jest w porządku definiować naturę nie-ludzkości jako dobrą i próbować wszczepić tę dobroć w ludzkość?\\n\\n… Trudne pytanie.\\n\\n\\nNadal nie wiem, gdzie jesteśmy.\\n\\nDalekie Peryferie, inna strona Lustra, czy oneiryczny labirynt snu?\\n\\nIstniejące poszlaki są zbyt rozproszone, zbyt rzadkie.\\n\\n\\nPewne jest jednak, że Terra nie jest podobna do Miasta.\\n\\nSzukać rozumienia tego, co nieznane, to trudy, utwardzona droga brak;\\n\\nwięc rozsądnie jest sądzić, że jeszcze nie pojęliśmy Terra.\\n\\nTo samo wolno rzec o pani Mayors.\\n\\nJej poszlaki do rozumienia Miasta są zbyt rzadkie.\\n\\n\\nZatem powstrzymajmy się od pośpiechu w szukaniu konkluzji tak skrętanego pytania.\\n\\nMiasto jest dobrze w naszym rozumieniu; zatem dla naszego powrotu my wystarczymy.",
+      "kr_sha256": "0fca0a86e67a67d9dfd516f1044e49fee6cea97ab3bf8d12677c4cc4dc15d6f6",
+      "en_sha256": "3ab19e4cf17627ea2d458c0a466819ab620fbf90606634f62a529b6fa0f0e0e7",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,1000 @@
+{
+  "entries": {
+    "dataList[id=-1].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=-1].name": {
+      "pl": "Limbus Company",
+      "kr_sha256": "d19f74604eb5468429c7458ce1e79137a1714fed721bbd3f4b492493b493976e",
+      "en_sha256": "e6090d79d97583b7eb2ba74fe9e4cdb43cb785e2d2d690720f74e49fa51703db",
+      "origin": "ai"
+    },
+    "dataList[id=10].desc": {
+      "pl": "Zdobyto na 55. Poziomie darmowych nagród Sezonu 2: Reminiscence",
+      "kr_sha256": "c33e88525113c4b173500ae6495bbdb42f508a5e6eba3488a6d51d2690bd9301",
+      "en_sha256": "9e72348daebfd97126dce628bdd764fbcf4c6312a5badfd7e2b44270a053dd54",
+      "origin": "ai"
+    },
+    "dataList[id=10].name": {
+      "pl": "Dongbaek",
+      "kr_sha256": "f7dc724c017fe459a5d4e0274e465a81c2751c5cc9d250e442a0bbf1a76ba693",
+      "en_sha256": "6a101a37ecbf086e2a334b3512ce308cdbe434819ccd027f0213f5096bc2781c",
+      "origin": "ai"
+    },
+    "dataList[id=11].desc": {
+      "pl": "Zdobyto z wydarzenia M.O.R.Z.E.",
+      "kr_sha256": "6808d33e1d4533dca9f7a9df6b6b3bd30d2b88c976e570711b48f51b141101e1",
+      "en_sha256": "d1b1b52b5028329fb5675824cd1f44c6aeeafb618e0b2d90cc9990ee2f5ca6fc",
+      "origin": "ai"
+    },
+    "dataList[id=11].name": {
+      "pl": "M.O.R.Z.E.",
+      "kr_sha256": "cc3ae1afdc4354d088fd9ef9d262fbee86ee6d6d73aba14702f3cae076052c6c",
+      "en_sha256": "b6d463471617a31316abd7ef56888a5af9986ee2e975834b44643c600dfeb46c",
+      "origin": "ai"
+    },
+    "dataList[id=12].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 5 lub więcej",
+      "kr_sha256": "6d5f3ca771acb6035d07a0d389472111727d49a9b003f70983561266af38a137",
+      "en_sha256": "e8f94052d4a5ab2a78bc33f475ef4ca474b760074d0d93e2685865b7a6b5c247",
+      "origin": "ai"
+    },
+    "dataList[id=12].name": {
+      "pl": "Linia 2",
+      "kr_sha256": "a24ff449a09d89443f272c5495e8991dac973d0d61a3427821477ccd5ddbb62d",
+      "en_sha256": "3e11232aa71497133e6e6cb99f8a85404eea60b54036a60fb5221f73dbf2f92a",
+      "origin": "ai"
+    },
+    "dataList[id=13].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 5 lub więcej i limitem 200 tur łącznych przed końcem Sezonu 2: Reminiscence",
+      "kr_sha256": "50a83b2f0ce2762d77b63602aec48ad0d84617b474ff1bccb9ee293b5f73f2ed",
+      "en_sha256": "ec1ede155e66300a98850707e83ed2a3ac87a3ad5730887e0804793d5e71a95e",
+      "origin": "ai"
+    },
+    "dataList[id=13].name": {
+      "pl": "Linia 2 : Möbius",
+      "kr_sha256": "fcd6461c87d79f834f8d07ed9271960bc9b9356023f1413b1519d7c16426340b",
+      "en_sha256": "346ba3d48132a5db62a963bb850b81efa55cb880915e558f3721cdb17d9d6901",
+      "origin": "ai"
+    },
+    "dataList[id=14].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 2 z liczbą Cykli 5 lub więcej i limitem 150 tur łącznych przed końcem Sezonu 2: Reminiscence (dotyczy rekordów rozpoczętych po 23/09/15 20:15 (KST))",
+      "kr_sha256": "f041bf31c92b8445c6e0286f1c1c25487aa4a2a6bcbbb7f4d7641da0a5db3dec",
+      "en_sha256": "f12570d63974d92842caaca5dee9a0b0552caf2ce6aac756e778b185eb9de426",
+      "origin": "ai"
+    },
+    "dataList[id=14].name": {
+      "pl": "Linia 2 : Möbius II",
+      "kr_sha256": "a2291156ff9c13943ca22e5f099a43eb4dd34477e0dc1f349efe1013d48489d7",
+      "en_sha256": "b136c2eb4aa489d0433e3b25058702408b1214f1ddb2dbd611ad8067089f6cb2",
+      "origin": "ai"
+    },
+    "dataList[id=15].desc": {
+      "pl": "Zdobyto na 70. Poziomie darmowych nagród Sezonu 3: Bon Voyage",
+      "kr_sha256": "f1adb905d85636f9fbdfb0f00114d0f16feb8c07f359286412528cfb4522770e",
+      "en_sha256": "3d850c617d0fa87028ef1c119cfeb910123a725313db0f6565cee6a17bc66457",
+      "origin": "ai"
+    },
+    "dataList[id=15].name": {
+      "pl": "Kontener Portowy",
+      "kr_sha256": "e5cfb6c2c6bc911d8fecd6d139b5afb853cbbaef91ca8512a56a522c163368bb",
+      "en_sha256": "2f81122e0ded80d354e7622f20ecace66621a8dc3e9000c77fa1ce7e467a979c",
+      "origin": "ai"
+    },
+    "dataList[id=16].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 3: Bon Voyage",
+      "kr_sha256": "caf82fc064232063bb81fb3b6079fb9630d874dd034f3ff94ff9ebd85e94d13e",
+      "en_sha256": "16fb1fcb3c67ce3c35110bbfc7139120593f6996a57529f174db6a05d12355b4",
+      "origin": "ai"
+    },
+    "dataList[id=16].name": {
+      "pl": "Pośród Sztormu",
+      "kr_sha256": "c44b1e935fbe2653d4b5891d166d8332523f3565caed6a5910f103a725506ddd",
+      "en_sha256": "fcb6b16cbdbeeb1098bbedf2bd386764bf8941fc6d951c4956dc7acfdc7a90a0",
+      "origin": "ai"
+    },
+    "dataList[id=17].desc": {
+      "pl": "Zdobyto na 110. Poziomie darmowych nagród Sezonu 3: Bon Voyage",
+      "kr_sha256": "7bf7d0b07323bae01988df2224a5c3c5c972f225b194deaf148d5c29dc0831bd",
+      "en_sha256": "5a6a957b843ed256cffe20c8d3e3355662d8dd1ad4665cb31976b3a2c9fabff1",
+      "origin": "ai"
+    },
+    "dataList[id=17].name": {
+      "pl": "Pequod Town",
+      "kr_sha256": "e156f19bacc52a5d8cd57202623963adb2d9651d375f38cdea9825ddfc19879d",
+      "en_sha256": "7ae93f1d3206e9edd9d397e060eebae4398106513a1df1575b3b6e482da0fc68",
+      "origin": "ai"
+    },
+    "dataList[id=18].desc": {
+      "pl": "Zdobyto z wydarzenia Cud w Dystrykcie 20",
+      "kr_sha256": "b54a9ab01111130a441bc9e4df20dca9a692593cd32bca1da92683d827789a46",
+      "en_sha256": "443bb68a0e80d6b7cb38437241e988bf0e59ddd5db48e0d98230b6024979beb6",
+      "origin": "ai"
+    },
+    "dataList[id=18].name": {
+      "pl": "Wesołych Świąt",
+      "kr_sha256": "0d409122c4b1ac2809c8cf9b84e36b9a064bd93a363d079cba1ceecc858a0571",
+      "en_sha256": "6228f78426b789f494f9c240034e18c03403d19eb6b964dfe7e1aa4c2632175c",
+      "origin": "ai"
+    },
+    "dataList[id=19].desc": {
+      "pl": "Zdobyto z wydarzenia Cud w Dystrykcie 20",
+      "kr_sha256": "b54a9ab01111130a441bc9e4df20dca9a692593cd32bca1da92683d827789a46",
+      "en_sha256": "443bb68a0e80d6b7cb38437241e988bf0e59ddd5db48e0d98230b6024979beb6",
+      "origin": "ai"
+    },
+    "dataList[id=19].name": {
+      "pl": "Wesołych Świąt — Specjalny Bilet",
+      "kr_sha256": "1a12d83321e67fffb5572c31d51eb40c3d1d3a0dd56f93bdb2772ab311faf4a5",
+      "en_sha256": "4913cb0d37ec822252c0ceec4cd6ed454d0c4d4e3e8c20011fac05cfbe888eb1",
+      "origin": "ai"
+    },
+    "dataList[id=1].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=1].name": {
+      "pl": "Grzech: Gniew",
+      "kr_sha256": "10285dc5c2f5b50c5f5d723970699f1c55e4a722a360cdbec8ec1ebf960cfec5",
+      "en_sha256": "c9bf32adc8de9486911582c7aba8d554c1e66d364d2307052233b4f2dc772fa4",
+      "origin": "ai"
+    },
+    "dataList[id=20].desc": {
+      "pl": "Zdobyto z wydarzenia 2. Nocy Walpurgii",
+      "kr_sha256": "e8ad56f49b84829ffc8270f87bc3d1b000d7af02df4eeac5aea2079430c01845",
+      "en_sha256": "4b6a509a4f44ab6e764a731b3166e14af05b51cccd9a0a91cfcb79d748c02371",
+      "origin": "ai"
+    },
+    "dataList[id=20].name": {
+      "pl": "Zespół Kontroli L Corp.",
+      "kr_sha256": "dfb08390a1a601ef3d0cd96223f3c18dfb0dc0ec07e5d5541f8868a96fe6e568",
+      "en_sha256": "556a2c13d3e2b8376f80dd71674c41627234cfe68b49dc711cd5ef421b50dc1b",
+      "origin": "ai"
+    },
+    "dataList[id=21].desc": {
+      "pl": "Zdobyto za ukończenie stacji końcowej Kolei Załamania — Linia 3",
+      "kr_sha256": "333e756123f6f7234720488abd30cec7ae0de0e3693eaf0af23fd4db9bcb6946",
+      "en_sha256": "4d8154c6c31da32d46b2f56b230fa781fba07ce6deefac1a806ea7041a96eb31",
+      "origin": "ai"
+    },
+    "dataList[id=21].name": {
+      "pl": "Linia 3",
+      "kr_sha256": "9922abe124214e2b2c254ab6bb0ac642f21a1ab812030dd248b4be63cf60b508",
+      "en_sha256": "19691186b5050b0bef9802e1f03522db9fd696eb8d0ca57c239074a7aaa79fd8",
+      "origin": "ai"
+    },
+    "dataList[id=22].desc": {
+      "pl": "Zdobyto za ukończenie stacji końcowej Linii 3 z limitem 100 tur łącznych przed końcem Sezonu 3: Bon Voyage",
+      "kr_sha256": "8ff64b065510205f43ceeff7db22470600e0c8a9b836181b0341174497a039b6",
+      "en_sha256": "0fc880e370314b034e8b32a585eabb3c1b2c74627007b480be83779b06ddf753",
+      "origin": "ai"
+    },
+    "dataList[id=22].name": {
+      "pl": "Linia 3 : MirrorClock OrangeRoad",
+      "kr_sha256": "14c9f9d402460d90f865502c90e5abdfdce226efaa18eac2367030ce801232c6",
+      "en_sha256": "e99566432b5c942e972280ac3613b73a08d75cbb3c87d9f9756336b4dc72672c",
+      "origin": "ai"
+    },
+    "dataList[id=23].desc": {
+      "pl": "Zdobyto z wydarzenia „Oddam Ciało, by Złamać Ich Kości”",
+      "kr_sha256": "602069e079d813e3aaf730b9c9db6bd58631482f342b7285dea9a0a9b8f48c06",
+      "en_sha256": "a9159748acd8c345ad9955b90560f3d74b411e015e3a9507e6ffd09e1ba6db57",
+      "origin": "ai"
+    },
+    "dataList[id=23].name": {
+      "pl": "Oddam Ciało, by Złamać Ich Kości",
+      "kr_sha256": "9509ec09eb2b43783f11239f2ca90599d3658ab19069fb09a3ca4b93231cb723",
+      "en_sha256": "c720dfea4335cbf0876933d387d947209aeb83862fd66e0f451e965431a88374",
+      "origin": "ai"
+    },
+    "dataList[id=24].desc": {
+      "pl": "Zdobyto z wydarzenia „Oddam Ciało, by Złamać Ich Kości”",
+      "kr_sha256": "602069e079d813e3aaf730b9c9db6bd58631482f342b7285dea9a0a9b8f48c06",
+      "en_sha256": "a9159748acd8c345ad9955b90560f3d74b411e015e3a9507e6ffd09e1ba6db57",
+      "origin": "ai"
+    },
+    "dataList[id=24].name": {
+      "pl": "Oddam Ciało, by Złamać Ich Kości — Specjalny Bilet",
+      "kr_sha256": "5b4902bc378912e04025235fd6f9a001c6c96c7f9dd04fddb1f758ba8fb87623",
+      "en_sha256": "567bf74cde57018f010a5d344ce55c70d917e4dfde07cacea31d50eb28402a94",
+      "origin": "ai"
+    },
+    "dataList[id=25].desc": {
+      "pl": "Zdobyto z wydarzenia 1. Rocznicy",
+      "kr_sha256": "3e47b8d8e2f7f80c2debd3932fe841f00c8cddbe29677accbba3a70578a36657",
+      "en_sha256": "e7d96cea581b3cc206c03e568c0b449548f804145b5db5dd4982ebb603175880",
+      "origin": "ai"
+    },
+    "dataList[id=25].name": {
+      "pl": "1st Birthday",
+      "kr_sha256": "b3ab1dab9dc3ae103147331f302125bcc93a901632b3b226b9faf2fff9c3b988",
+      "en_sha256": "b3ab1dab9dc3ae103147331f302125bcc93a901632b3b226b9faf2fff9c3b988",
+      "origin": "ai"
+    },
+    "dataList[id=26].desc": {
+      "pl": "Zdobyto na 70. Poziomie darmowych nagród Sezonu 4: Clear All Cathy",
+      "kr_sha256": "c7a222ce05d5adc3c6273aeac54d87453ca82ce62c2a8aa2fa1377fc629c1ed3",
+      "en_sha256": "cabf7695d8ef32a698a4d49d5f03833cac296767dd7c6294533bd56be5c54d2c",
+      "origin": "ai"
+    },
+    "dataList[id=26].name": {
+      "pl": "Wuthering Heights",
+      "kr_sha256": "6951a489bfcabba0a424ea2024480e0ede040b1b8edc40ebe95013c262cf5733",
+      "en_sha256": "404fcf69f65aa086b9797b4b9794c128e8102b48b7ea4c5afba4a8363ecb63db",
+      "origin": "ai"
+    },
+    "dataList[id=27].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 4: Clear All Cathy",
+      "kr_sha256": "cb54bfdf536471a0d00d8508eb814da97b4b8e75390c5ade378abcbdd1e52ac6",
+      "en_sha256": "17da83becabd05ff8c47fee036ff5f53421641ae817f63444d8e461db1b16509",
+      "origin": "ai"
+    },
+    "dataList[id=27].name": {
+      "pl": "Podziemne Laboratorium",
+      "kr_sha256": "fd54a78f20fda80d03178c4316b8866faea6afaf4ba2fb375e9892788ec6c2ee",
+      "en_sha256": "d6837f11107bbc9d1d2b9feb05e84d361cbe852f3e58533daf683456f194f0cd",
+      "origin": "ai"
+    },
+    "dataList[id=28].desc": {
+      "pl": "Zdobyto na 110. Poziomie darmowych nagród Sezonu 4: Clear All Cathy",
+      "kr_sha256": "2e857c93f077e066e46744616342f24588b2b89b761a98b02eec064998a0c6ce",
+      "en_sha256": "f3fdf3e335765fecb7752413bb95af2832fa8985f12ecac482b51af76a2774c9",
+      "origin": "ai"
+    },
+    "dataList[id=28].name": {
+      "pl": "Ktoś Puka w Szybę",
+      "kr_sha256": "abf246926f3d7a87048f7d78180d9243b257cc0a5c5ea95e5515560d95dcc773",
+      "en_sha256": "32af7e9ab78ca4d7ab31e2249cd5fab8168fe8817761aa0c75cfafa60f30eeee",
+      "origin": "ai"
+    },
+    "dataList[id=29].desc": {
+      "pl": "Zdobyto po wpisaniu kodu kuponu specjalnego bonusu Library of Ruina",
+      "kr_sha256": "07c71b5cfaecb83fa2aa1b8a30d2d13f0bdac3915441da67c3e489fe4954c688",
+      "en_sha256": "7579f25e7ca390ba779b06b2000bec25ca10b8bab271508511f8b1e555415e81",
+      "origin": "ai"
+    },
+    "dataList[id=29].name": {
+      "pl": "Library of Ruina",
+      "kr_sha256": "ea2d700f9a62cb70ae8e1a546fa45cf5849d6ee29497db54b4f07e581321877f",
+      "en_sha256": "1ec0e024b7a68c7db0fc8aff74e746234878428b16f012a44cd9470dc960c5b6",
+      "origin": "ai"
+    },
+    "dataList[id=2].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=2].name": {
+      "pl": "Grzech: Żądza",
+      "kr_sha256": "e7fc1234890fb4f904616881d64a16c87705168415bbb06adbeb812b0f6b6962",
+      "en_sha256": "e6efbe8f957c0456c5e78a296aa71559697c70569a90edc052b004fa85f5a50b",
+      "origin": "ai"
+    },
+    "dataList[id=30].desc": {
+      "pl": "Zdobyto z wydarzenia 3. Nocy Walpurgii",
+      "kr_sha256": "563465e429e1e40cd2b7bd36364711a5f208c3c155fa833d0e0ed2b79e786308",
+      "en_sha256": "1cfdf22a8dab93ee0f8613c338f379e82a2707c695c57606916c48047044ffe0",
+      "origin": "ai"
+    },
+    "dataList[id=30].name": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=31].desc": {
+      "pl": "Zdobyto z wydarzenia Czas Zabijania Czasu",
+      "kr_sha256": "d1e30ba194078e40b5b5692cd77f097e792d7e8ef36102f8865c29de8f9a7126",
+      "en_sha256": "75d6b4936612f2a63ff6ecf16f0ee19f7a089986274704fc8629a59f76e83c8f",
+      "origin": "ai"
+    },
+    "dataList[id=31].name": {
+      "pl": "Czas Zabijania Czasu",
+      "kr_sha256": "c69542103a65b1ae48bbc11729f9d1fe743394e73df134c756cca95aeb4e4ed0",
+      "en_sha256": "4f6bb38b5d15b5696ef94bc157228a44c4e1f9b13f394949b1eeab46e961ae3a",
+      "origin": "ai"
+    },
+    "dataList[id=32].desc": {
+      "pl": "Zdobyto z wydarzenia Czas Zabijania Czasu",
+      "kr_sha256": "d1e30ba194078e40b5b5692cd77f097e792d7e8ef36102f8865c29de8f9a7126",
+      "en_sha256": "75d6b4936612f2a63ff6ecf16f0ee19f7a089986274704fc8629a59f76e83c8f",
+      "origin": "ai"
+    },
+    "dataList[id=32].name": {
+      "pl": "Czas Zabijania Czasu — Specjalny Bilet",
+      "kr_sha256": "177dade842697aeb84e1ef5d3ef9a964893090028fdb13d0ca37f94aadffa6a7",
+      "en_sha256": "026a1dc6cb03354b320b1421a3e5f6bd36f3e03bbd90420f3b37511c88e7e8a1",
+      "origin": "ai"
+    },
+    "dataList[id=33].desc": {
+      "pl": "Zdobyto za ukończenie Odcinka 4 Kolei Załamania — Linia 4",
+      "kr_sha256": "010e5b713fa5dfe5bd0385f690bfc4d7f511ec14c717132843a992fa2bb07fc9",
+      "en_sha256": "8de7a703687fa9bc769d0564bce9bb0f751b0962edd6dd94823580a3a3a63038",
+      "origin": "ai"
+    },
+    "dataList[id=33].name": {
+      "pl": "Linia 4",
+      "kr_sha256": "af0a6d923684c65fe964d1a63523315b0c26005b66c813ae69e38fef5fb23385",
+      "en_sha256": "4b58da959abe64e96b772a175ae74671d3c5d35aaa3ebe3a3e0af7981a248724",
+      "origin": "ai"
+    },
+    "dataList[id=34].desc": {
+      "pl": "Zdobyto za ukończenie Odcinka 4 Linii 4 z limitem 100 tur łącznych przed końcem Sezonu 4: Clear All Cathy",
+      "kr_sha256": "d798de184fc4ebf004a960704de7b22a972f4cdbe71baca8aadece5878b43579",
+      "en_sha256": "fd4e8fc66605b6b0ca3ca0f4f765c6bc73f3af898e57f5f2c6395083dc50f37b",
+      "origin": "ai"
+    },
+    "dataList[id=34].name": {
+      "pl": "Linia 4 : Masquerade",
+      "kr_sha256": "74b526a12697f93f659de3d7402bd4fcc6c93a49ff1348cebc8ec620c5114c71",
+      "en_sha256": "fb4f7005d6e0308d41cffab71b6ad39ad9c560304ca80651857f65a61253abfe",
+      "origin": "ai"
+    },
+    "dataList[id=35].desc": {
+      "pl": "Zdobyto z wydarzenia Morderstwo w Ekspresie WARP",
+      "kr_sha256": "5270e569935df54494d3f58b8e06a6246c7c9d6f3a376b0f5ca2f27ad4503f4a",
+      "en_sha256": "22deb80cc5f9ca461050c1c762e361bc8acfd96e2035ba7f4b57668f2b3d44e7",
+      "origin": "ai"
+    },
+    "dataList[id=35].name": {
+      "pl": "Morderstwo w Ekspresie WARP",
+      "kr_sha256": "318990182fc982c44a6bba37ac09862e88c03d83d0e7cbf3fcc7c238e20814ca",
+      "en_sha256": "3b0ffebe3a4479ed6d080e22cfdd588937949981eebddfef7079bf342adf51a4",
+      "origin": "ai"
+    },
+    "dataList[id=36].desc": {
+      "pl": "Zdobyto z wydarzenia Morderstwo w Ekspresie WARP",
+      "kr_sha256": "5270e569935df54494d3f58b8e06a6246c7c9d6f3a376b0f5ca2f27ad4503f4a",
+      "en_sha256": "22deb80cc5f9ca461050c1c762e361bc8acfd96e2035ba7f4b57668f2b3d44e7",
+      "origin": "ai"
+    },
+    "dataList[id=36].name": {
+      "pl": "Morderstwo w Ekspresie WARP — Specjalny Bilet",
+      "kr_sha256": "38f86cf8442e4bd485385ad63b952650300d95c4da49332a535c9b98386d58b6",
+      "en_sha256": "b109e68af61270fff127fb319c886cedb1477ac2b54294d4033ef7c519c5cba5",
+      "origin": "ai"
+    },
+    "dataList[id=37].desc": {
+      "pl": "Zdobyto z wydarzenia 4. Nocy Walpurgii",
+      "kr_sha256": "4bff332272d9fd90f76ac5e7c1dc49a7fe049f11e211593121d0d94e3c8e8f9b",
+      "en_sha256": "a56c41167c1c53a1f105ac400066aded533122c4212fe89629f89ef1c013e965",
+      "origin": "ai"
+    },
+    "dataList[id=37].name": {
+      "pl": "Zespół Szkoleniowy L Corp.",
+      "kr_sha256": "a8ea9832c1fa3f01837a3de511afdb4a2359ab726e13c684314ac930dfaea528",
+      "en_sha256": "0d7db36d84502b33f33f48add4ed07facda9d96abed98b9c2d9e0e086852c3c8",
+      "origin": "ai"
+    },
+    "dataList[id=38].desc": {
+      "pl": "Zdobyto na 70. Poziomie darmowych nagród Sezonu 5: Oblivion",
+      "kr_sha256": "4f6e6a5f7b774f26f9ce87fa2126ad0f0bff4e9d943aa6c18141cb7ca18329b3",
+      "en_sha256": "d7a3520a26cc121696708bee2ec143d6198417b20d9df1ec2b6397f05d44e5b9",
+      "origin": "ai"
+    },
+    "dataList[id=38].name": {
+      "pl": "La Manchaland Koszmarów",
+      "kr_sha256": "872d858184f094bf51cec6c77781279aeb0a8b8cdd9b63fdd372356f451cbbb5",
+      "en_sha256": "e275b1ed37dc3bfda25961ab6d4273ba1575ac0b24b333ba88794a89592f0ffb",
+      "origin": "ai"
+    },
+    "dataList[id=39].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 5: Oblivion",
+      "kr_sha256": "4401979fa99caed17d2c954deeca79d18f574b664ebf71d5fb1cfbbfc83fc076",
+      "en_sha256": "27be60a1e1b26ba4a50a46819e03c559d925535675aefc5923bf0a3a0d0cb312",
+      "origin": "ai"
+    },
+    "dataList[id=39].name": {
+      "pl": "Latarnia w Ruinach (Kołyska)",
+      "kr_sha256": "d9667d63160848d77f7cae5657821ccf5f8357e8dcf83dfbdc8ebe1cd7e35fcc",
+      "en_sha256": "6c0cfab576c1e6345f445b5418ea273f0b847b97d382fd1dff9115c68ea092fd",
+      "origin": "ai"
+    },
+    "dataList[id=3].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=3].name": {
+      "pl": "Grzech: Lenistwo",
+      "kr_sha256": "a29c9bbbc3c035f59655e96ae7cfcc16ad95a1a852274f2ab709a8d20c0da311",
+      "en_sha256": "6bdc2ce0e5cf0e3a2ea9db0cedac14973210dbfeecf5c011c6e57204afd58475",
+      "origin": "ai"
+    },
+    "dataList[id=40].desc": {
+      "pl": "Zdobyto na 110. Poziomie darmowych nagród Sezonu 5: Oblivion",
+      "kr_sha256": "eec04261a7f3a628815b4a6a0b48da264459c7e98104e737dde7450339a692ae",
+      "en_sha256": "96091a0df9783ef3d28db576012d93b2b29c725e2412b1ba60f35297dcac9f9d",
+      "origin": "ai"
+    },
+    "dataList[id=40].name": {
+      "pl": "La Manchaland Snów",
+      "kr_sha256": "0561bcd00f11cc5444c9b9e89d4484b4a996c3c1918b09c84c1db58c9c3cf96f",
+      "en_sha256": "505c8c2cffc021b4e635613969b1990f346034968bd8f05d0f1ee8c74d28c5de",
+      "origin": "ai"
+    },
+    "dataList[id=41].desc": {
+      "pl": "Zdobyto z wydarzenia 5. Nocy Walpurgii",
+      "kr_sha256": "21ea00530bc62fcae5558413c130c4703237183d6ef199b7fd87b7914c75bf35",
+      "en_sha256": "58475831ba6c1f87b209f80a2a0c9e10ead6ac76325a3b90ab99a3edb4d223f5",
+      "origin": "ai"
+    },
+    "dataList[id=41].name": {
+      "pl": "Biuro Kropki",
+      "kr_sha256": "5050ca5ee8c12ed176ec53af225a67bb9d19191622b48deedb910818c7190b41",
+      "en_sha256": "a214a1f3b673875e22bec77b00f3642b48a2be4249a1d1525231491968cb358c",
+      "origin": "ai"
+    },
+    "dataList[id=42].desc": {
+      "pl": "Zdobyto z wydarzenia Okresowe Badania LCB",
+      "kr_sha256": "b98fe7c9ebbd7d1a9c7d5b8595942e56e90036790f8695dd642d8e00d24c4536",
+      "en_sha256": "86eefe91d24d2145aead122effc7ca4d287e8ce3452fbfa074381f9e877a0599",
+      "origin": "ai"
+    },
+    "dataList[id=42].name": {
+      "pl": "Okresowe Badania LCB",
+      "kr_sha256": "65c5e58a8bd7a86fe398040bee99a7add09898b4b1b363a24746832ccc2c98d6",
+      "en_sha256": "5a1f00b1efc7ac94c8e8c40a3ba4610ee90675355389d7025457fdcaf18b741a",
+      "origin": "ai"
+    },
+    "dataList[id=43].desc": {
+      "pl": "Zdobyto z wydarzenia Okresowe Badania LCB",
+      "kr_sha256": "b98fe7c9ebbd7d1a9c7d5b8595942e56e90036790f8695dd642d8e00d24c4536",
+      "en_sha256": "86eefe91d24d2145aead122effc7ca4d287e8ce3452fbfa074381f9e877a0599",
+      "origin": "ai"
+    },
+    "dataList[id=43].name": {
+      "pl": "Okresowe Badania LCB — Specjalny Bilet",
+      "kr_sha256": "95e58ae21b2820005f8699852089d0657dfa59672216eaf46b99c67e65b582dc",
+      "en_sha256": "a39725694375a26f5b8ae67abc0f4817e497f5842f14debe4df2f87e0296e181",
+      "origin": "ai"
+    },
+    "dataList[id=44].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 5",
+      "kr_sha256": "44f35a380ed49b5dc974d18fb85e0290c785c0f957e3345bfd148b3065e15f99",
+      "en_sha256": "47e7c2ed6e525e806819cf637745a4fa99055a7cd226936f00dc3754b6a79ed0",
+      "origin": "ai"
+    },
+    "dataList[id=44].name": {
+      "pl": "Linia 5",
+      "kr_sha256": "9a27fb3e2e4b2473320a76b1675583ba2a0be4ca023df0c6dc55d944d3a4da17",
+      "en_sha256": "eb443fa7b54e15493242164bfab82311384beea9021de59e3af7f86266067180",
+      "origin": "ai"
+    },
+    "dataList[id=45].desc": {
+      "pl": "Zdobyto za ukończenie Linii 5 z limitem 100 tur łącznych przed końcem Sezonu 5: Oblivion",
+      "kr_sha256": "8cae2568831841f0ea555618affead820727fcc62a489aa4c1facba54d6b8e02",
+      "en_sha256": "4631003a1c1dff6644212da4d6bd6c89b7a0dd4dcc212e988577384b0632c845",
+      "origin": "ai"
+    },
+    "dataList[id=45].name": {
+      "pl": "Linia 5: Merry Go Round",
+      "kr_sha256": "ff0b9d1951b97641c02a120501b3e0b9a9762357c675798e4914d4c8a8925236",
+      "en_sha256": "3fb169dd1411b7ffed182c60d807602db52e396e20665a4b3ebf6c8c88142641",
+      "origin": "ai"
+    },
+    "dataList[id=46].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Snu",
+      "kr_sha256": "e79504780c97b5862a6656f52d05b6ef76150c216404ee57b9658576d2040017",
+      "en_sha256": "b9326320b42d792e8bbe4341b9a57b0b153da14756f69785f4d4e8d21c215cc6",
+      "origin": "ai"
+    },
+    "dataList[id=46].name": {
+      "pl": "Lustro Snu",
+      "kr_sha256": "23841b903a6e37ddecc9269623a6044c5ebae2a9034e4191c7b91bbfc0c592e2",
+      "en_sha256": "a2a411ee7cc6e6a8347eacfc07684e4213586ef3189ac41a32ac9beea4699098",
+      "origin": "ai"
+    },
+    "dataList[id=47].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Snu",
+      "kr_sha256": "e79504780c97b5862a6656f52d05b6ef76150c216404ee57b9658576d2040017",
+      "en_sha256": "b9326320b42d792e8bbe4341b9a57b0b153da14756f69785f4d4e8d21c215cc6",
+      "origin": "ai"
+    },
+    "dataList[id=47].name": {
+      "pl": "Lustro Snu — Specjalny Bilet",
+      "kr_sha256": "e03b821370ce9575680450ff53a07d95ded430cbe31dd5418b9b4dfa7e4b2e4f",
+      "en_sha256": "265f3df9cc04d4c21e40739364d458a1f1a82969bd8609466369ebd280f0ab51",
+      "origin": "ai"
+    },
+    "dataList[id=48].desc": {
+      "pl": "Zdobyto z wydarzenia 2. Rocznicy",
+      "kr_sha256": "afbe71e61232fac3b5cab3e218fd1ea71c9a784c7c84f66eb3e1e68f47d4f678",
+      "en_sha256": "9e4f1c67f0c9c1f8149450627f2a53f3272a2d3e19d4e5e51608053eea01079d",
+      "origin": "ai"
+    },
+    "dataList[id=48].name": {
+      "pl": "2nd Anniversary",
+      "kr_sha256": "25adb58e791185989673b66e18bde180664e1d05a2e5b4120a86c70d7366ba44",
+      "en_sha256": "25adb58e791185989673b66e18bde180664e1d05a2e5b4120a86c70d7366ba44",
+      "origin": "ai"
+    },
+    "dataList[id=49].desc": {
+      "pl": "Zdobyto z wydarzenia 2. Rocznicy",
+      "kr_sha256": "afbe71e61232fac3b5cab3e218fd1ea71c9a784c7c84f66eb3e1e68f47d4f678",
+      "en_sha256": "9e4f1c67f0c9c1f8149450627f2a53f3272a2d3e19d4e5e51608053eea01079d",
+      "origin": "ai"
+    },
+    "dataList[id=49].name": {
+      "pl": "2nd Anniversary (Special)",
+      "kr_sha256": "2af01df09bfd4cc4a4e85f3a258fd48e10b06920797a912e42fcc7ff858b7443",
+      "en_sha256": "2af01df09bfd4cc4a4e85f3a258fd48e10b06920797a912e42fcc7ff858b7443",
+      "origin": "ai"
+    },
+    "dataList[id=4].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=4].name": {
+      "pl": "Grzech: Obżarstwo",
+      "kr_sha256": "b20e25d9ee0ba572c76e8c03838c3721d0eb91aee8095086f2c11952ceb01d0e",
+      "en_sha256": "0e20f8dcadc24c78ddf8867a4ef23665ba6d0853559d4f1a04067055ddb77494",
+      "origin": "ai"
+    },
+    "dataList[id=50].desc": {
+      "pl": "Zdobyto z wydarzenia Nocne Sprzątanie",
+      "kr_sha256": "9dba66ee5eb4e65e86b0155d05cf53e78a1555a3a84d75d0fb0fa5bb0c16b684",
+      "en_sha256": "0eba506c0b3dcf955299938c3c3604a803ab1ff37947485891d5759eb10cd5b0",
+      "origin": "ai"
+    },
+    "dataList[id=50].name": {
+      "pl": "Nocne Sprzątanie",
+      "kr_sha256": "0e5d3b316cc6023f3e65d07f618dd0b16950d03736e7c5c88382863bde671114",
+      "en_sha256": "0f36a2f9ac9610687d75510e61862a902fab0ae6e8260394e567b107a7d7b9d9",
+      "origin": "ai"
+    },
+    "dataList[id=51].desc": {
+      "pl": "Zdobyto z wydarzenia Nocne Sprzątanie",
+      "kr_sha256": "9dba66ee5eb4e65e86b0155d05cf53e78a1555a3a84d75d0fb0fa5bb0c16b684",
+      "en_sha256": "0eba506c0b3dcf955299938c3c3604a803ab1ff37947485891d5759eb10cd5b0",
+      "origin": "ai"
+    },
+    "dataList[id=51].name": {
+      "pl": "Nocne Sprzątanie — Specjalny Bilet",
+      "kr_sha256": "b89d6cb4ed457a897ab5d46d86f79d9f2370d3c0c2db16b925aa3ba277fba2ca",
+      "en_sha256": "74ef2fe497855c8347343a9833610fe9f4a5dd830f54e32c658939f8e4944d64",
+      "origin": "ai"
+    },
+    "dataList[id=52].desc": {
+      "pl": "Zdobyto na 70. Poziomie darmowych nagród Sezonu 6: Zàng Huā Yín",
+      "kr_sha256": "3cb7cc53b1d46819eb899be3de93a2eee18ad356b83ef3036f59e9cd47ee6989",
+      "en_sha256": "235c5af5d4b5f03c913da0e6aca33094ee9bfb11fe32529edf7439a58feb9ddf",
+      "origin": "ai"
+    },
+    "dataList[id=52].name": {
+      "pl": "Daguanyuan",
+      "kr_sha256": "3a74d8c8184d0224c8b778d4300576af665c4b68a4a2e4916678c8dba77ebe6b",
+      "en_sha256": "2c7c54a99e835964426a4079300fd386612a0c2042fcd99dc4061f1e2f34e9ea",
+      "origin": "ai"
+    },
+    "dataList[id=53].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 6: Zàng Huā Yín",
+      "kr_sha256": "e6827d5274d6cb47a6e3599ec2b2d2d5f2764bf75811833c7611fc1bb418045d",
+      "en_sha256": "8c4cfd4e7873d00974d8579afeb20f6585d3765d9ed0396f345d3121fd1b2997",
+      "origin": "ai"
+    },
+    "dataList[id=53].name": {
+      "pl": "Laboratorium Rodziny Kong",
+      "kr_sha256": "263913d40cff77b9e81db0d262d9604aa4121946aa620b4e94f3348678e7cbc2",
+      "en_sha256": "95b4bd101fbb156d347592bc5d249c46a03be80c42582607b7156750d2e1a67c",
+      "origin": "ai"
+    },
+    "dataList[id=54].desc": {
+      "pl": "Zdobyto na 110. Poziomie darmowych nagród Sezonu 6: Zàng Huā Yín",
+      "kr_sha256": "a28b25f5fecd73863c651ffd79578ebf2e3433341b90d48b54b1299432e58195",
+      "en_sha256": "fdbf907dd831f38a14cc416bd18e7643b32df5ead185752178a51795cfc76d51",
+      "origin": "ai"
+    },
+    "dataList[id=54].name": {
+      "pl": "Droga Powitań do Świątyni Tiekan",
+      "kr_sha256": "2e3b870cbf55e9324a3d46c70bb6c30544f20d579b7ff80cb064690f0e97b274",
+      "en_sha256": "425b109134151822d79786aee9f8ca4a2776d645358868b56d8cd034e065622e",
+      "origin": "ai"
+    },
+    "dataList[id=55].desc": {
+      "pl": "Zdobyto z wydarzenia 6. Nocy Walpurgii",
+      "kr_sha256": "93ef617ce32489be674789c868994bb79a1aae8b24d533b640ba7d5529ee5fa1",
+      "en_sha256": "4389b4df69ca69cf673544b5e166f09df67823f8bd7ffb4b223a0c58abff08ca",
+      "origin": "ai"
+    },
+    "dataList[id=55].name": {
+      "pl": "Zespół Dowodzenia Centralnego L Corp.",
+      "kr_sha256": "ce9ce0a0c204140d3e5c2db82a183423819d0f3fde94f56e1f5cf6cf295d3304",
+      "en_sha256": "ad5ca4ca3b4af59867c057ef4e9d20a612cd45762d73df7147fe4ab0d10e7333",
+      "origin": "ai"
+    },
+    "dataList[id=56].desc": {
+      "pl": "Zdobyto z wydarzenia Wiosenny Szlif",
+      "kr_sha256": "470bbd429f0efd1e0d6ceb727136f3f17f2d47c0bbd80c08fee5d8f15a4cd0d2",
+      "en_sha256": "4d3014405be9b549be200c657543a6e078d7a9ed99775d0f27bf119d90f2e37b",
+      "origin": "ai"
+    },
+    "dataList[id=56].name": {
+      "pl": "Wiosenny Szlif",
+      "kr_sha256": "6752961b28158e5ae4597a751f56155788f1bbb4bbc35d15401c371d23dd20f0",
+      "en_sha256": "f67d2577b913960a2f6a63f1557db66fc048cea270a266f4d964a9f0c39cb129",
+      "origin": "ai"
+    },
+    "dataList[id=57].desc": {
+      "pl": "Zdobyto z wydarzenia Wiosenny Szlif",
+      "kr_sha256": "470bbd429f0efd1e0d6ceb727136f3f17f2d47c0bbd80c08fee5d8f15a4cd0d2",
+      "en_sha256": "4d3014405be9b549be200c657543a6e078d7a9ed99775d0f27bf119d90f2e37b",
+      "origin": "ai"
+    },
+    "dataList[id=57].name": {
+      "pl": "Wiosenny Szlif — Specjalny Bilet",
+      "kr_sha256": "f024895a636b817cc708b0dcd2a15f87fbd71f0f68bd3b16e757ca53414ad16b",
+      "en_sha256": "f83ff87799f77d44170ae2922d56b4937cb053b508e0d1be8a81216105f7164f",
+      "origin": "ai"
+    },
+    "dataList[id=58].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Nieśmiertelności",
+      "kr_sha256": "5c6b3faf5c7f1ca7209795d467bc559daab29714003d13d2519d0d32139832c9",
+      "en_sha256": "f58f12dab66a92288fd35558076c638d46f774a4927003f49d6c4efd9901e98c",
+      "origin": "ai"
+    },
+    "dataList[id=58].name": {
+      "pl": "Lustro Nieśmiertelności",
+      "kr_sha256": "479b2ea3bb7da80fddbedda0045db9f20294ae7b4f1c888b7cf341903dbaaa20",
+      "en_sha256": "8270e79913dcea6855338550c3bc6503c0cd99d1fe1afbfd940da355e49e8b23",
+      "origin": "ai"
+    },
+    "dataList[id=59].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Nieśmiertelności",
+      "kr_sha256": "5c6b3faf5c7f1ca7209795d467bc559daab29714003d13d2519d0d32139832c9",
+      "en_sha256": "f58f12dab66a92288fd35558076c638d46f774a4927003f49d6c4efd9901e98c",
+      "origin": "ai"
+    },
+    "dataList[id=59].name": {
+      "pl": "Lustro Nieśmiertelności — Specjalny Bilet",
+      "kr_sha256": "788f46ce03726caf8087ac9bc6c66dc7f2649f3fa4334ad281708884c9b7c94e",
+      "en_sha256": "182df8773e6d575e0bb51901bf986f956c5abc6684a53c8f5c4bf2c17d928806",
+      "origin": "ai"
+    },
+    "dataList[id=5].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Grzech: Smutek",
+      "kr_sha256": "7008c05dd58972ec1000cf7a2cedb420e8974187620e1cc9eef1cbf3620239ed",
+      "en_sha256": "41c060325587c04ae26032457c07cdd76ccf28b314f6c4d479e59e6a15c9bb91",
+      "origin": "ai"
+    },
+    "dataList[id=60].desc": {
+      "pl": "Zdobyto z wydarzenia Pielgrzymka Współczucia",
+      "kr_sha256": "96cb24610f6375c5b9322d50606d1084fa2b80b2f0e9b34797a6229f3e691cf8",
+      "en_sha256": "626b9d57ab9a9084df72befbc97532ea0ccb70e941d1d8656f04f8af13850fba",
+      "origin": "ai"
+    },
+    "dataList[id=60].name": {
+      "pl": "Pielgrzymka Współczucia",
+      "kr_sha256": "263eaa64c692918a03c19ea0e799baa8140fc83a9cc391374af2db249f56dd05",
+      "en_sha256": "50f5016d85c6ff8d894bd5a6f1c6cc72c3b8a6d9fa36df52b16f97745eedbadd",
+      "origin": "ai"
+    },
+    "dataList[id=61].desc": {
+      "pl": "Zdobyto z wydarzenia Pielgrzymka Współczucia",
+      "kr_sha256": "96cb24610f6375c5b9322d50606d1084fa2b80b2f0e9b34797a6229f3e691cf8",
+      "en_sha256": "626b9d57ab9a9084df72befbc97532ea0ccb70e941d1d8656f04f8af13850fba",
+      "origin": "ai"
+    },
+    "dataList[id=61].name": {
+      "pl": "Pielgrzymka Współczucia — Specjalny Bilet",
+      "kr_sha256": "7ebcf43543eabaf33b394ac3e0e00a7863af0a9ff16fc5bdc9dc547f1ba10ccd",
+      "en_sha256": "2061cc4e9758e73178bd31344d4772adb31550408199c25d01ac571293977d9d",
+      "origin": "ai"
+    },
+    "dataList[id=62].desc": {
+      "pl": "Zdobyto z wydarzenia 7. Nocy Walpurgii",
+      "kr_sha256": "14f311a4c09bc71d1200ca6b7bbfc68eff5bc2d46593281cb39b700b0abdb48c",
+      "en_sha256": "755492fdf07f093bf6759b7ddf8b71a921a00029a4454d3003beaabbcb2bab6a",
+      "origin": "ai"
+    },
+    "dataList[id=62].name": {
+      "pl": "Zwykłe Zaproszenie z Pewnej Biblioteki",
+      "kr_sha256": "ea1f6e9dff103ff3e08f99fdf7fb3eaeae4cf12e5436fb37ded4fa9481e3cf9c",
+      "en_sha256": "9dedd203f689b906b66416acbee9386c60da83456f24e5838a37484cbdd52d34",
+      "origin": "ai"
+    },
+    "dataList[id=63].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 1 BokGak",
+      "kr_sha256": "857f6a63e345b3a5bfe4e35d748a1ba1137f4b5f801f2911c281c1c785392549",
+      "en_sha256": "03720342e59bab190bca0b1309faf0b598e6997f625e027a658fcfb28732b1e7",
+      "origin": "ai"
+    },
+    "dataList[id=63].name": {
+      "pl": "Linia 1 BokGak : Madness",
+      "kr_sha256": "7d30b64012f44aa0ad79bc4a63bc570913516f6927e3615740db99c3be94a00d",
+      "en_sha256": "022eb01bd696325d3316749bdb320029dbbe63e5870b99e6e323bec94352cd20",
+      "origin": "ai"
+    },
+    "dataList[id=67].desc": {
+      "pl": "Zdobyto z wydarzenia 3. Rocznicy",
+      "kr_sha256": "669b88a25e6fdce0d22218c6b82894f62e45a0322cf7f55fc37cc70287aa72ff",
+      "en_sha256": "7a161a5c09ef9a94d0e17400df3ec2650f20bb874324369ee8daa34d48efc44c",
+      "origin": "ai"
+    },
+    "dataList[id=67].name": {
+      "pl": "3rd Anniversary",
+      "kr_sha256": "5f1215ca131ff250a8dac66077dd879b08c177921dd71df24ac5d97aad681846",
+      "en_sha256": "5f1215ca131ff250a8dac66077dd879b08c177921dd71df24ac5d97aad681846",
+      "origin": "ai"
+    },
+    "dataList[id=68].desc": {
+      "pl": "Zdobyto z wydarzenia 3. Rocznicy",
+      "kr_sha256": "669b88a25e6fdce0d22218c6b82894f62e45a0322cf7f55fc37cc70287aa72ff",
+      "en_sha256": "7a161a5c09ef9a94d0e17400df3ec2650f20bb874324369ee8daa34d48efc44c",
+      "origin": "ai"
+    },
+    "dataList[id=68].name": {
+      "pl": "3rd Anniversary (Special)",
+      "kr_sha256": "05fe866252cfd8e8d067d7ef9884d510342cefa9bce5b7f201d5c0d343baa992",
+      "en_sha256": "05fe866252cfd8e8d067d7ef9884d510342cefa9bce5b7f201d5c0d343baa992",
+      "origin": "ai"
+    },
+    "dataList[id=69].desc": {
+      "pl": "Zdobyto z wydarzenia 8. Nocy Walpurgii",
+      "kr_sha256": "5ee9147f92d8f9418046a35f4b89c2b7bc45e6f57709ff2ca9e3733ba1155d0f",
+      "en_sha256": "9eeb048826dc156537b923a075518000dda56c04f8770c8136f6bbfd3129d0be",
+      "origin": "ai"
+    },
+    "dataList[id=69].name": {
+      "pl": "Zespół Dobrobytu L Corp.",
+      "kr_sha256": "1569447625a95d743b1c13af05fdd17cc83b24d2755a9e776612b167d6179326",
+      "en_sha256": "73881583867459293ca3a26a6100752951a6cdfd2b3490da845160e649bb8345",
+      "origin": "ai"
+    },
+    "dataList[id=6].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=6].name": {
+      "pl": "Grzech: Pycha",
+      "kr_sha256": "501d4fd7984b634cdd249d44a820d5bca8cd7ba70d767577dfd036df0a907f3f",
+      "en_sha256": "147cbd97c92e1e87d36dc2415af66b7ba2e3a837d9b76d4326d0cd7ab5e54e7c",
+      "origin": "ai"
+    },
+    "dataList[id=70].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Imion i Pająków",
+      "kr_sha256": "0ae715e010909bfe385baf81c4b6442c237d5a2a6d40b22c0b68a7898ae1825e",
+      "en_sha256": "e0820bf21d5af441948b434f92e4f397fefdd4721e232eeeb6af4bb752c07c2a",
+      "origin": "ai"
+    },
+    "dataList[id=70].name": {
+      "pl": "Lustro Imion i Pająków",
+      "kr_sha256": "21c9000737d523250c0168afba3223acd9a3a161dcf4f3d435bb9f73d818d230",
+      "en_sha256": "935989bbd0d43c5637ab81520a515aff5712d100b358e6c799bd1b26e23bbd7b",
+      "origin": "ai"
+    },
+    "dataList[id=71].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Imion i Pająków",
+      "kr_sha256": "0ae715e010909bfe385baf81c4b6442c237d5a2a6d40b22c0b68a7898ae1825e",
+      "en_sha256": "e0820bf21d5af441948b434f92e4f397fefdd4721e232eeeb6af4bb752c07c2a",
+      "origin": "ai"
+    },
+    "dataList[id=71].name": {
+      "pl": "Lustro Imion i Pająków — Specjalny Bilet",
+      "kr_sha256": "905d592351d2ec10e9b2ce05e48c74f483cc4a5150ba87fae72d681296d6cca5",
+      "en_sha256": "e5fbbc9ad8339c1e650ec53d7c05a9fe0ba9719e59732f89ac6be2c71a12ff17",
+      "origin": "ai"
+    },
+    "dataList[id=72].desc": {
+      "pl": "Zdobyto z wydarzenia Splatanie Pasm",
+      "kr_sha256": "e1cf3fa61b0312fe58441d90acb27b1bde7c38f773376212a71ea73e233d25a9",
+      "en_sha256": "c359d5da040f8b35be765962b4a519d69ec8886bd484a9615bea41872b0a862f",
+      "origin": "ai"
+    },
+    "dataList[id=72].name": {
+      "pl": "Splatanie Pasm",
+      "kr_sha256": "3833f728fb44196fc3a13162c0d6fd08614bf7c7a193876fad0340a66795992b",
+      "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36",
+      "origin": "ai"
+    },
+    "dataList[id=73].desc": {
+      "pl": "Zdobyto z wydarzenia Splatanie Pasm",
+      "kr_sha256": "e1cf3fa61b0312fe58441d90acb27b1bde7c38f773376212a71ea73e233d25a9",
+      "en_sha256": "c359d5da040f8b35be765962b4a519d69ec8886bd484a9615bea41872b0a862f",
+      "origin": "ai"
+    },
+    "dataList[id=73].name": {
+      "pl": "Splatanie Pasm — Specjalny Bilet",
+      "kr_sha256": "aa4a7c1c21055f44f12822c9c5a67ec8247ab4ca2e44326e828384b13d9f8e62",
+      "en_sha256": "8a8b55555bfe3e3faec0fa155163337587395a88dc64356da0b7feea5f407360",
+      "origin": "ai"
+    },
+    "dataList[id=74].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 6",
+      "kr_sha256": "764871a68edfc18d0354d59c2b66c76b948fa326c10a60efc1525cdbbe1e0178",
+      "en_sha256": "3e887f60bcea473b2e0b9829cfa4152da41c1c44c97f131101caecb9352c9523",
+      "origin": "ai"
+    },
+    "dataList[id=74].name": {
+      "pl": "Linia 6",
+      "kr_sha256": "4b20a67585ed3b237f233d63342b19ded3625c39368bc33adc0ed7f6069dc6b2",
+      "en_sha256": "de1ea832ccf6a722aeed8b89ee1571891d3687fe57e089d2ac2673fc2e8b1053",
+      "origin": "ai"
+    },
+    "dataList[id=75].desc": {
+      "pl": "Zdobyto za ukończenie Linii 6 z limitem 111 tur łącznych przed końcem Sezonu 7: Kumo no Ito · otI on akA",
+      "kr_sha256": "027c65459a079c9f593b49d8d1f06d7c82d8c7706a9a2840cea1ae4eaa55d1f8",
+      "en_sha256": "38106e64b5c298919c8efb67fedca2ef7507e2428b38eb161573a6a4364fb3c2",
+      "origin": "ai"
+    },
+    "dataList[id=75].name": {
+      "pl": "Linia 6: Maru no Uchi no Sanzu no Kawa",
+      "kr_sha256": "6e2d42f097076a4b889361fb7e1a3f376c10d33cf1067972d795754e06107ab5",
+      "en_sha256": "c4fa5876932a3168a8f9280af5c88ebc7caf7ef030e643da530d5c97ee5a4fa6",
+      "origin": "ai"
+    },
+    "dataList[id=76].desc": {
+      "pl": "Zdobyto z wydarzenia Pamięć Doświadczenia",
+      "kr_sha256": "e69988285f4cb230e46f43010d5faa4929f34a9a92c08d7edba4f75c22d8a5a4",
+      "en_sha256": "0b0017748fd00e5c7e40eba25275431ebfcecf04050d2f65d3b588d6a5c87015",
+      "origin": "ai"
+    },
+    "dataList[id=76].name": {
+      "pl": "Pamięć Doświadczenia",
+      "kr_sha256": "f9eb86699cc3a3ef89e3845d4f72b1be96dcd5b68ad7cad3f55e08ab7a938439",
+      "en_sha256": "9c7cf3d4194cada8e7293e15fea03daca222d9e843c9e158aaf19e1e0dd44db4",
+      "origin": "ai"
+    },
+    "dataList[id=77].desc": {
+      "pl": "Zdobyto z wydarzenia Pamięć Doświadczenia",
+      "kr_sha256": "e69988285f4cb230e46f43010d5faa4929f34a9a92c08d7edba4f75c22d8a5a4",
+      "en_sha256": "0b0017748fd00e5c7e40eba25275431ebfcecf04050d2f65d3b588d6a5c87015",
+      "origin": "ai"
+    },
+    "dataList[id=77].name": {
+      "pl": "Pamięć Doświadczenia — Specjalny Bilet",
+      "kr_sha256": "5684ae0d5e3ee15fe58842c9294d273e453b548b2581e2162a6d350cce8ca25a",
+      "en_sha256": "5a58651ecfddfcf65655dd5cca2c966980a75ca5ba02455de027849bec4baa47",
+      "origin": "ai"
+    },
+    "dataList[id=78].desc": {
+      "pl": "Zdobyto z wydarzenia 9. Nocy Walpurgii",
+      "kr_sha256": "1bdd06d63f5cce7854c82bffa3336a6221283d4bbecbcfec425cae28e937da21",
+      "en_sha256": "8517dabc35acde4ce2adb48696dfde97e2b3bfb0c27dbc480d54212b75301270",
+      "origin": "ai"
+    },
+    "dataList[id=78].name": {
+      "pl": "Fikser o Świcie",
+      "kr_sha256": "9acb7d0c46c0560bab54a7544efd0d6f870ca5edca2be5ccc8d90d5e130394c9",
+      "en_sha256": "50adf92df3203e210a5c6202c62388d87aaf102c72d03c8ce0b850196f54a965",
+      "origin": "ai"
+    },
+    "dataList[id=79].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 2 BokGak",
+      "kr_sha256": "608e508d053a366c53583593037146c3cf598e65908e103eeffa4cba319e5a6a",
+      "en_sha256": "d85952a65d98c6db370969af2b791ea0cc291601cf88e29fea55cc380ae7f2d8",
+      "origin": "ai"
+    },
+    "dataList[id=79].name": {
+      "pl": "Linia 2 BokGak : Möbius",
+      "kr_sha256": "c8501594849b901077dc06d1e8a6bdafceafe6947c7fe5a5992ba657faf0d8de",
+      "en_sha256": "3293ba3d440f944d25b593499dbb44fceafe9116c557ec0135fd04fb3d9f87cf",
+      "origin": "ai"
+    },
+    "dataList[id=7].desc": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "7b47361aad19bb483aeab081a7df0a55f7cb0fdb3327efe6dd016e6353a17880",
+      "origin": "ai"
+    },
+    "dataList[id=7].name": {
+      "pl": "Grzech: Zazdrość",
+      "kr_sha256": "2b45dc7d883c682a0045c78d307713cec0ead808e76beeb0077cef4ae75a91b4",
+      "en_sha256": "b268d1ad490b47b1277cfeb434d742ec238083546f2ea8810181a77d535ca250",
+      "origin": "ai"
+    },
+    "dataList[id=83].desc": {
+      "pl": "Zdobyto za ukończenie Reflectrial][lairtcelfeR — Chachihu na poziomie trudności Hard",
+      "kr_sha256": "fc0c0daa38f2f1122b62f3534821f5431448135c3f49923fe913995368e344eb",
+      "en_sha256": "ea7027f7e5d03947d3986a19a67a7dfbbe0e3ba232be981bc721612a4d9c7525",
+      "origin": "ai"
+    },
+    "dataList[id=83].name": {
+      "pl": "Chachihu",
+      "kr_sha256": "ff3cce715d1362ed06af6d47b85c8d1e88e91bad4b370a57a4d75b2bc915d611",
+      "en_sha256": "c3ebafc36e1dc22930d564c625593b2f3b2081abbcc6411e4dfca152fe2c69c7",
+      "origin": "ai"
+    },
+    "dataList[id=84].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Sisyphe",
+      "kr_sha256": "2304a4189d725536f4a23d1836025b363cda30abf1182a21193e5bd8a675b0fb",
+      "en_sha256": "330586cfa3c136b3e47a0b5b8552de93acfe856eda7946f16d2818296eba55ff",
+      "origin": "ai"
+    },
+    "dataList[id=84].name": {
+      "pl": "Lustro Sisyphe",
+      "kr_sha256": "97bd6ae71a4aee334963801ea7f019aab58d71dfa165ceabfa084d2c1539ac7a",
+      "en_sha256": "6f86282d4b43518a916e199fee8fd56fda112b27bdacc6e8ffcc9a106320254c",
+      "origin": "ai"
+    },
+    "dataList[id=85].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Sisyphe",
+      "kr_sha256": "2304a4189d725536f4a23d1836025b363cda30abf1182a21193e5bd8a675b0fb",
+      "en_sha256": "330586cfa3c136b3e47a0b5b8552de93acfe856eda7946f16d2818296eba55ff",
+      "origin": "ai"
+    },
+    "dataList[id=85].name": {
+      "pl": "Lustro Sisyphe — Specjalny Bilet",
+      "kr_sha256": "d4ee49054867bb6c01301ea83328f0120f5b6bde3c2f6220035ed8d277ae0178",
+      "en_sha256": "483550ecf20fed4374f7dad3932983d2c0f7e2c82c1276e34a01f5757bf8468f",
+      "origin": "ai"
+    },
+    "dataList[id=86].desc": {
+      "pl": "Zdobyto z wydarzenia 10. Nocy Walpurgii",
+      "kr_sha256": "4aacd0a3d166d5452e1b335507073fcf767805c007a97f4b950486e7a5da2fc6",
+      "en_sha256": "76ea8bcad38ac347115592b3052fbcaa1be782ab9d5ce307e8256e35dbc0e1ff",
+      "origin": "ai"
+    },
+    "dataList[id=86].name": {
+      "pl": "Biuro Klinów",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    },
+    "dataList[id=87].desc": {
+      "pl": "Zdobyto z nagrody przepustki Konstrukcji Schematów Beta",
+      "kr_sha256": "87e0ef82a477905620c6b8e1aca5e18354057844802b65f46a0b5b481e661dd0",
+      "en_sha256": "b4a120af923265a854c7dc198360479cf1600bc0f3348cf865b0a9d6c01d4ee7",
+      "origin": "ai"
+    },
+    "dataList[id=87].name": {
+      "pl": "Konstrukcja Schematów Beta",
+      "kr_sha256": "d225b47a32be7a204b406de0bbb016697f13750196d0a2cdaf0d6eea72a2cd9e",
+      "en_sha256": "76dd00780d606a23ce1420840c2fe8f65fd46e5f6446b56dece361e11201e659",
+      "origin": "ai"
+    },
+    "dataList[id=88].desc": {
+      "pl": "Zdobyto z nagrody przepustki Konstrukcji Schematów Beta",
+      "kr_sha256": "87e0ef82a477905620c6b8e1aca5e18354057844802b65f46a0b5b481e661dd0",
+      "en_sha256": "b4a120af923265a854c7dc198360479cf1600bc0f3348cf865b0a9d6c01d4ee7",
+      "origin": "ai"
+    },
+    "dataList[id=88].name": {
+      "pl": "Konstrukcja Schematów Beta — Specjalny Bilet",
+      "kr_sha256": "5767b43cf46d6e7b96ede8472a8378f7fed089b42b6cbf1e914fa675e647f1d4",
+      "en_sha256": "c8f47ce05cabfec2d40ce025d561439fc7650f7f37fc7eb94f35f8821145757b",
+      "origin": "ai"
+    },
+    "dataList[id=8].desc": {
+      "pl": "Zdobyto na 40. Poziomie darmowych nagród Sezonu 2: Reminiscence",
+      "kr_sha256": "8ef36fd12c1e384a392a59dfd0845274d132cddd1b73436c02d8c9d935cbc4ad",
+      "en_sha256": "84b12db22dbd3e195b5597a5672de3b1074f6bd5fc25d4a315ae7e322ceccb71",
+      "origin": "ai"
+    },
+    "dataList[id=8].name": {
+      "pl": "Łzy K Corp.",
+      "kr_sha256": "f90e8a1c1215e187845251912cd5f1fbe505db60eb7e5e681ef2daa42c8c5e36",
+      "en_sha256": "60659a1a7791f368cc961161c339f9578e387d3bb22d3cb57d02e22e4e42e8dc",
+      "origin": "ai"
+    },
+    "dataList[id=9].desc": {
+      "pl": "Zdobyto na 45. Poziomie Limbus Pass Sezonu 2: Reminiscence",
+      "kr_sha256": "9974768bdcfccc34a2994cb316fdc5e1cff2d8324d76e04977d96af73e56853e",
+      "en_sha256": "9a40480f0256a78f1a6ef459440ef207bab786cabe2694b5bbcc42bc459ca7cc",
+      "origin": "ai"
+    },
+    "dataList[id=9].name": {
+      "pl": "Deszczowy Dzień",
+      "kr_sha256": "fefddf1e9e4db46369cc5afbc6428d04bff2380335152f243440ebec388d421d",
+      "en_sha256": "d498eb0151c7fb3c758a4d5aa46788437146ce998b81b34fa280475354321a66",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "[22:32:40]\n[Warp, czyli podróż międzywymiarowa…]",
+      "kr_sha256": "9b4553b935a0e47f38418140913e856bd31995d83dc2446c193de03d8a5ff7aa",
+      "en_sha256": "b6a695b657224fc2f9f4e04f34917f90d570dab1f7b363ffe25df686f66f01d9"
+    },
+    "dataList[id=10].content": {
+      "pl": "[23:04:33]\n[…Na tym kończę nagranie.]",
+      "kr_sha256": "8949bf017d41d68a5597ad4c1fc97f67ec86404fef236a2f21ab4507574a49b0",
+      "en_sha256": "9563bd02855b59c38498fc8c49a4d484df2bd1a976fabdb6f09d84dd97d29c9a"
+    },
+    "dataList[id=11].content": {
+      "pl": "[23:04:41]\n[Jak zawsze: ta analiza nie służy dobru publicznemu.]",
+      "kr_sha256": "e41743c244e0dbd37e639061b4a1ea41d0ae528cc4b3dfd1d8d679f0312c6c85",
+      "en_sha256": "3e5f10ea0b14264b37c694c7d35d8ebe22476f39a5a8b6a3cd12de4fe85b6e7e"
+    },
+    "dataList[id=12].content": {
+      "pl": "[23:04:58]\n[Ja, Faust…]",
+      "kr_sha256": "1fa12ac4c9386a024a7ac92a17f829a95e291134ba54d64229e9fb36fc7cf59b",
+      "en_sha256": "97ea561854036ec10f67490c86bf6bf8f7ffa4d4e8ca00c1b2faa7ba98c69f61"
+    },
+    "dataList[id=13].content": {
+      "pl": "[23:05:00]\n[chcę tylko… poznać całe Miasto.]",
+      "kr_sha256": "68a992c26663a589a4f3a89cd2c5cd14ae0c05b48e2c5a12fb1fa221a21923e5",
+      "en_sha256": "0475cdf5a6c05798cee8a2d700d03dd3c65a6901686418974f7de0a143989d36"
+    },
+    "dataList[id=14].content": {
+      "pl": "[23:05:08]\n[…Godzina 23:05, Faust. Koniec nagrania.]",
+      "kr_sha256": "0c91866ea8b6eb507a7e6e7390ff281a1fd5e864b5d3a2e49b3559fe85c8036a",
+      "en_sha256": "b532bf443cc2f26a64840b29e58316fff64a0ee7a85c3e2a89f418fd08cc97ce"
+    },
+    "dataList[id=1].content": {
+      "pl": "[23:02:11]\n[…Godzina 23:02, mówi Faust… Ciąg dalszy nagrania nr 16.]",
+      "kr_sha256": "20bfe3364269c9c862c981feb47363bf1fab055a7bccb90d8d34f8ab21405990",
+      "en_sha256": "a523fa8abfc60d64cc593f337c8b63c9cc3eadebc1ae205cd802d638f9a3712e"
+    },
+    "dataList[id=2].content": {
+      "pl": "[23:02:15]\n[W praktyce Osobliwość W Corp. jest uwikłana w gąszcz wyrachowanych interesów.]",
+      "kr_sha256": "b102fc66166c5a2dc1f4ff70bd0433cfc6ee1bcda7cb5128ea1a3cef37fbaec6",
+      "en_sha256": "cb9bb162c35be1f3e6641bec584be2f5344b090e15aa9c6cf20e3197ee2c57d5"
+    },
+    "dataList[id=3].content": {
+      "pl": "[23:02:33]\n[Tanio kupiono Osobliwość firmy, której nie udało się zostać Skrzydłem, i po prostu wrzucono pociągi w ‘wymiar’, w którym ustalono jedynie cel podróży.]",
+      "kr_sha256": "e93e135d591236eba4d27ca8b749927c0c0fc268d8e49abdd533bd448fa095fa",
+      "en_sha256": "0a5f89560c538a37291a150a899011ab73287afef20348cc12f107d48987912c"
+    },
+    "dataList[id=4].content": {
+      "pl": "[23:02:59]\n[Nie zdołałam ustalić, czym naprawdę jest ta Osobliwość… ale jeśli zebrać krążące plotki w spójną informację…]",
+      "kr_sha256": "af831e3c7b38cb0ee6b481d4b4b6b7f20c01218fbe56f5c758ebafb8a327f7b6",
+      "en_sha256": "4536fe07213e7ca9c20e3fc6a84d8cdfe7eac438bc446f501c298b25b082ca76"
+    },
+    "dataList[id=5].content": {
+      "pl": "[23:03:13]\n[(Odgłos odgarniania włosów) Sądzę, że przypomina ona funkcję ‘cofnij’ w komputerze.]",
+      "kr_sha256": "7384189f866f6ba2072a30fb5cdd7887514a19f463703d3c834b2db1b22ccbe0",
+      "en_sha256": "a546097d2855f2d46f6868c0cef552fbfe42adc7c6f33702042369bbd72c676d"
+    },
+    "dataList[id=6].content": {
+      "pl": "[23:03:21]\n[Czyli technologię, która pozwala dowolnie przywrócić wcześniej zapisany stan.]",
+      "kr_sha256": "bffce90d92f66f9c0a808d1d2377fa5c2cba9d274a926a545f0930c8d1934c34",
+      "en_sha256": "0fee5db9845ea58168e7d71238f68bc30b0b086c7f0b6e5661cf1fdaed49584a"
+    },
+    "dataList[id=7].content": {
+      "pl": "[23:03:30]\n[Ostatecznie pasażerowie odbierają to tak, że szybko dotarli na miejsce, więc może to i nie problem.]",
+      "kr_sha256": "26b166cd397ee04ea3cc366cbfee10c53f1c96e45e6115c05f30933b35125613",
+      "en_sha256": "66195ada2269f515581407cdc71bab729a03ebc3ca06d9557972204665786d90"
+    },
+    "dataList[id=8].content": {
+      "pl": "[23:03:48]\n[Haa… Ja, Faust, uważam, że ‘sprzątanie’, które muszą wykonywać agenci porządkowi tacy jak my, jest nieracjonalne.]",
+      "kr_sha256": "27a9b74d57cc7ec66155884e9b438e60856842cd2134687acaa94ddee8bb0a58",
+      "en_sha256": "65a2815d45fc75698f0d486b278687701ef23dd9051ea8ba8228e9450b4056b7"
+    },
+    "dataList[id=9].content": {
+      "pl": "[23:04:02]\n[Choć interesujące jest to, że czyny nieodwracalne po przejściu przez kilka Osobliwości objawiają się jako zjawiska odwracalne.]",
+      "kr_sha256": "e5062f7286137a31f49997fe6331040d9814e05ade55a4bb309ca45756f8b0ab",
+      "en_sha256": "cbb62974c2b7338771e4025b1c7426f7871b61e9f7bc417ffa323fe6554a8df1"
+    }
+  }
+}

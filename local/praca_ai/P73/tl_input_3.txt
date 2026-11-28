@@ -1,0 +1,131 @@
+407||Pasywka wroga [114602] — opis] 홍루 사망 시 전투 패배. 모든 스킬이 홍루를 우선 타겟팅함|Lose Encounter when Hong Lu dies. All Skills prioritize Hong Lu
+408||Pasywka wroga [114603] — nazwa] 누가 어르신들의 수발을 들고 선황충님의 뜻을 홍원에 펼쳐주겠느냐!!!|Who shall serve the elders, who shall convey the revered Xianhuang Worm's will to Hongyuan then?!!!
+409||Pasywka wroga [114603] — opis] 홍루에게 합 승리 후 적중 시 [PileObedient] 1 부여 (스킬당 1회)|On Hit after Clash Win against Hong Lu: inflict 1 [PileObedient] (once per Skill)
+410||Pasywka wroga [114604] — nazwa] 황금가지의 동화 - 부감응|Golden Bough Assimilation - Malattunement
+411||Pasywka wroga [114604] — opis] 전투 시작 시 [GoldenBoughSync] 얻음|Encounter Start: gain [GoldenBoughSync]
+412||Pasywka wroga [114605] — nazwa] 홍원금단 - 전흑선환[全黑仙丸]|Forbidden Pill of Hongyuan - Completed Heixian Bolus [全黑仙丸]
+413||Pasywka wroga [114605] — opis] 서로 다른 종류의 스킬을 사용할 때마다 [AttackUp] 1, [DefenseDown] 1 얻음 (턴당 3회)|Gain 1 [AttackUp] and 1 [DefenseDown] every time this unit uses a different type of Skill (3 times per turn)
+414||Pasywka wroga [114606] — nazwa] 예로부터 홍원은 선인들의 뜻에 따라 다뤄져왔다|Hongyuan has always been a putty in the hands of the revered Xianren
+415||Pasywka wroga [114606] — opis] 턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨\n\n패닉 상태가 해제될 때, 다음 턴에 [Enhancement] 2, [Endurance] 2를 얻고, 홍루에게 [Obedient]이 있으면 정신력 15 회복|Turn End: if Panicked, recover from Panic at the next Turn Start and reset SP to 0\n\nWhen recovering from Panic, gain 2 [Enhancement] and 2 [Endurance] next turn; if Hong Lu has [Obedient], heal 15 SP
+416||Pasywka wroga [115201] — nazwa] 소녀를 지켜봐주세요…!|Watch this little girl...!
+417||Pasywka wroga [115201] — opis] 홍루 사망 시 전투 패배. 턴 시작 시 자신이 소환한 유닛이 있으면 정신력 10 회복|Lose Encounter when Hong Lu dies. If there are this unit's summoned units at Turn Start, heal 10 SP
+418||Pasywka wroga [115202] — nazwa] 황금가지의 동화- 뒤틀림|Golden Bough Assimilation - Distortion
+419||Pasywka wroga [115202] — opis] 2페이즈 시작 시 [GoldenBoughSyncDistorted] 얻음|Start of the 2nd Phase: gain [GoldenBoughSyncDistorted]
+420||Pasywka wroga [115203] — nazwa] 모든 가주는 선황충님에게 몸을 내어드리고 그 뜻을 이어받아왔거늘|Every Family Hierarch has the duty to surrender their bodies to the Xianhuang Worm and his honored will
+421||Pasywka wroga [115203] — opis] 턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨\n\n패닉 상태가 해제될 때,\n- 다음 턴에 [Enhancement] 2, [Endurance] 2, [Agility] 1을 얻음\n- 자신이 소환한 유닛이 있으면 정신력 15 회복\n- 홍루에게 [Obedient]이 있으면 정신력 15 회복|Turn End: if Panicked, recover from Panic at the next Turn Start and reset SP to 0\n\nWhen recovering from Panic,\n- gain 2 [Enhancement], 2 [Endurance], and 1 [Agility] next turn\n- If there are units summoned by this unit, heal 15 SP\n- If Hong Lu has [Obedient], heal 15 SP
+423||Pasywka wroga [115204] — opis] 체력이 최대 체력의 85% 미만으로 감소하지 않음|HP does not drop below 85%
+425||Pasywka wroga [115205] — opis] 체력이 최대 체력의 65% 미만으로 감소하지 않음|HP does not drop below 65%
+428||Pasywka wroga [115207] — nazwa] 금옥기외 패서기중[金玉其外 敗絮其中]|Rot and Decay in the Husk of Gold and Jade [金玉其外 敗絮其中]
+429||Pasywka wroga [115207] — opis] [Burst]이 10 이상 부여되어 있을 때 받는 피해량 +10%\n부여된 부정적인 효과 수가 5개 이상이면 받는 피해량 +10%|If this unit has 10+ [Burst], take +10% damage\nIf this unit has 5+ types of negative effects, take +10% damage
+430||Pasywka wroga [115208] — nazwa] 선황충이 임하지 않은 가주는 홍원을 위해 움직이지도 않을 터|A Family Hierarch without the revered Xianhuang Worm will never serve Hongyuan
+431||Pasywka wroga [115208] — opis] 체력이 0이 되면, 몸통 부위가 다음 턴에 흐트러짐 상태가 됨\n이후 적출된 상태가 되고, 몸통 부위가 [Vulnerable] 2를 얻음|At 0 HP, the Body Part becomes Staggered next turn\nThen, this Part becomes Severed, and the Body Part gains 2 [Vulnerable]
+433||Pasywka wroga [115209] — opis] 체력이 최대 체력의 20% 미만으로 감소하지 않음|HP does not drop below 20%
+434||Pasywka wroga [115301] — nazwa] 선인이시여 봐주십시오!|Witness Me, O Revered Xianren!
+435||Pasywka wroga [115301] — opis] 이 유닛이 살아있는 동안 가모가 턴 시작 시 본체와 모든 부위가 보호막 200 얻음|When this unit is present, Jia Mu gains 200 Shield for her Core and every Part
+436||Pasywka wroga [115302] — nazwa] 보옥의 소임|Duties of the Precious Jade
+437||Pasywka wroga [115302] — opis] 이 유닛이 살아있는 동안 갇혀 있는 캐릭터에게 아래의 효과가 적용됨\n- 행동 불가능 상태가 됨\n- 버프, 체력, 정신력이 갱신되지 않음|As long as this unit is present, apply the following effects to the caged unit:\n- Become 'immobilized'\n- This unit's buffs, HP, and SP cannot be changed
+438||Pasywka wroga [115303] — nazwa] 출가|Departure
+439||Pasywka wroga [115303] — opis] 이 유닛이 처치되면 다음 턴에 갇혀 있던 캐릭터가 전투에 복귀함.|When this unit is defeated, return the caged character to the battle next turn
+440||Pasywka wroga [115304] — nazwa] 파사현정[破邪顯正]|Refute the Evil; Restore Justice [破邪顯正]
+441||Pasywka wroga [115304] — opis] 이 유닛이 수감자들에게 처치되면 아래의 효과가 발동됨\n- 모든 아군 정신력 10 회복, 다음 턴에 [AttackDmgUp] 2 부여\n- 가모에게 다음 2턴 동안 [Binding] 5, [AttackDown] 3, [Vulnerable] 5 부여\n- 이 유닛에 갇혀있던 캐릭터의 정신력이 45까지 회복. 복귀 시 [Enhancement] 2 얻음\n- 모든 E.G.O 자원 3개씩 획득|If this unit is defeated by the Sinners, activate the following effects:\n- All allies heal 10 SP; all allies gain 2 [AttackDmgUp] next turn\n- Inflict 5 [Binding], 3 [AttackDown], and 5 [Vulnerable] against Jia Mu for the next 2 turns\n- The unit that was caged in this unit heals up to 45 SP. Gain 2 [Enhancement] upon its return\n- Gain 3 E.G.O Resources to all Affinities
+442||Pasywka wroga [115401] — nazwa] 지고한 불사의 선인이시여|O The Supreme Xianren of Immortality
+443||Pasywka wroga [115401] — opis] [SupremeEternalLife] 효과를 보유하고 있음|Has the [SupremeEternalLife] effect
+444||Pasywka wroga [115402] — nazwa] 불로불사는 영원토록 이어지리|Let us be eternally free from aging and death
+445||Pasywka wroga [115402] — opis] 체력이 1 미만으로 감소하지 않음\n체력이 1이 될 때, [SupremeEternalLife] 효과가 [ImperfectEternalLife]로 변경됨|HP does not drop below 1\n\nAt 1 HP, replace [SupremeEternalLife] with [ImperfectEternalLife]
+446||Pasywka wroga [115403] — nazwa] 불로불사의 지식|Knowledge of Immortality
+447||Pasywka wroga [115403] — opis] 피격 시 체력이 1이 되면, 자신을 공격한 수감자의 정신력을 10 회복시키고, 수량이 부족한 E.G.O 자원 중 무작위 속성 자원 3개 획득 (이 유닛이 생존해있는동안 1회 발동)|If this unit's HP drops to 1 upon getting hit, heal 10 SP to the Sinner who attacked this unit; then, gain 3 random E.G.O Resources for the least-owned Sin Affinities (activates once for this unit)
+448||Pasywka wroga [114513] — nazwa] 패닉 회복|Panic Recovery
+449||Pasywka wroga [114513] — opis] 턴 종료 시 패닉 상태라면, 정신력이 0이 됨\n\n패닉 상태가 해제되면 다음 턴 시작 시, 자신의 잃은 체력 비율 수치만큼 정신력 회복 (최대 30)|Turn End: if this unit is Panicked, reset SP to 0\n\nWhen recovering from Panic: at the next Turn Start, heal SP by this unit's missing HP (max 30)
+450||Pasywka wroga [9021701] — nazwa] 규율 집행 - 준비 단계|Esecuzione della Regola - Preparation Stage
+451||Pasywka wroga [9021701] — opis] 전 턴에 [VibrationExplosion]을 시켰다면, 다음 턴에 [Enhancement] 1, [AttackDmgUp] 1 얻음|If this unit triggered [VibrationExplosion] last turn, gain 1 [Enhancement] and 1 [AttackDmgUp] next turn
+452||Pasywka wroga [9021702] — nazwa] 규율 집행 - 아랫턱 부수기|Esecuzione della Regola - Crush the Lower Jaw
+453||Pasywka wroga [9021702] — opis] 흐트러진 적에게 피해량 +10%\n전 턴에 적을 흐트러뜨렸다면, 다음 턴에 합 승리 후 스킬 적중시 [Vibration] 2 부여 (턴 당 2회)|Deal +10% damage against Staggered enemies\nIf an enemy was Staggered in the last turn: for the next turn, inflict 2 [Vibration] On Hit with a Skill after Clash Win (2 times per turn)
+454||Pasywka wroga [9021703] — nazwa] 어긋난 규율|Regola Infranta
+455||Pasywka wroga [9021703] — opis] 죽은 아군이 1명 이상이라면, 다음 턴부터 [ParryingResultUp] 1 얻음|If 1 or more ally has been defeated, gain 1 [ParryingResultUp] starting next turn
+456||Pasywka wroga [9021301] — nazwa] 네잎클로버|Four-leaf Clover
+457||Pasywka wroga [9021301] — opis] 턴 시작 시, [Breath] 5 획득, [Breath] 횟수 2 증가\n전투 시작 단계에서 [Breath] 상태인 아군이 스킬을 사용하여 적에게 치명타 피해를 입힐 경우, 다음 턴 시작 시 랜덤 아군에게 [Breath] 위력 5 부여, [Breath] 횟수 2 증가. (턴 당 1회 발동)|Turn Start: gain 5 [Breath] and +2 [Breath] Count\nCombat Start: if an ally with [Breath] Critically Hits an enemy with a Skill, apply 5 [Breath] Potency and +2 [Breath] Potency to a random ally at the next Turn Start (once per turn)
+458||Pasywka wroga [9021302] — nazwa] 맛있는 살점|Tasty Flesh
+459||Pasywka wroga [9021302] — opis] 체력 50% 이하일 시, [Laceration]이 있는 적에게 공격 적중 시, 상대의 [Laceration] 당 자신의 전체 체력의 1% 만큼 회복 (최대 10 %, 전투 당 1회 발동)|At 50%- HP: On Hit against enemies with [Laceration], heal 1% HP for every [Laceration] on target (max 10%; once per Encounter)
+460||(ulepszenie 1) — nazwa] 살주|Overthrow
+461||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 횟수 3 증가|[WhenUse] Gain +3 [Breath] Count
+463||(ulepszenie 1) — moneta 1, efekt 2 — opis] 파괴된 코인이면, 최종 위력 10 감소|If this Coin is Cracked, lose 10 Final Power
+464||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Breath] 3 얻음, [Breath] 횟수 1 증가|[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count
+465||(ulepszenie 1) — moneta 1, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count
+468||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [SlashDamageUp] 2 얻음|[OnSucceedAttack] Gain 2 [SlashDamageUp] next turn
+469||(ulepszenie 1) — moneta 2, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [SlashResistDown] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [SlashResistDown]
+472||(ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 5 부여|[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]
+473||(ulepszenie 1) — moneta 3, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis] next turn
+474||(ulepszenie 1) — moneta 3, efekt 5 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 3 증가|[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count
+475||(ulepszenie 1) — nazwa] 골단|To Claim Their Bones
+476||(ulepszenie 1) — opis] [StartBattle] 보호막 100 얻음\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +5|[StartBattle] Gain 100 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5
+478||(ulepszenie 1) — moneta 1, efekt 2 — opis] 파괴된 코인이면, 최종 위력 20 감소|If this Coin is Cracked, lose 20 Final Power
+479||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [SlashResistDown] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [SlashResistDown]
+482||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 크리티컬 피해량 +100%|[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit
+483||(ulepszenie 1) — moneta 2, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count
+486||(ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함.|[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage.
+488||(ulepszenie 1) — opis] [StartBattle] 보호막 250 얻음\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +10|[StartBattle] Gain 250 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10
+490||(ulepszenie 1) — moneta 1, efekt 2 — opis] 파괴된 코인이면, 최종 위력 23 감소|If this Coin is Cracked, lose 23 Final Power
+491||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [SlashResistDown] 3 부여|[OnSucceedAttack] Inflict 3 [SlashResistDown]
+495||(ulepszenie 1) — moneta 2, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 5 부여|[UnBrokenCoinOnSucceedAttack] Inflict 5 [Paralysis] next turn
+501||(ulepszenie 1) — opis] [CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]가 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복|[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value
+503||(ulepszenie 1) — moneta 1, efekt 2 — opis] 파괴된 코인이면, 최종 위력 25 감소|If this Coin is Cracked, lose 25 Final Power
+508||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [Grudge] 수치만큼 고정 피해.|[OnSucceedAttack] Deal fixed damage equal to [Grudge] value.
+509||(ulepszenie 1) — nazwa] 쾌청 베기|Sky-clearing Cut
+510||(ulepszenie 1) — opis] [StartBattle] 메인 타겟의 [Laceration]이 5이상이면, 공격 가중치 +1\n[StartBattle] 이번 턴에 사용하는 공격 스킬이 4개 이상이면, 최종 위력 +5\n[WinDuel] 모든 아군 정신력 15 회복\n대상의 [Laceration]이 7 이상이면, 피해량 +30%|[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, Final Power +5\n[WinDuel] All allies heal 15 SP\nIf target has 7+ [Laceration], deal +30% damage
+511||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] [Laceration] 2 부여|[OnSucceedAttackHead] Inflict 2 [Laceration]
+512||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] [Laceration] 3 부여|[OnSucceedAttackHead] Inflict 3 [Laceration]
+513||(ulepszenie 1) — moneta 3, efekt 1 — opis] 대상의 [Laceration]이 7 이상이면, 피해량 +50%|If target has 7+ [Laceration], deal +50% damage
+514||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 10 부여|[OnSucceedAttack] Inflict +10 [Laceration] Count
+515||(ulepszenie 1) — nazwa] 뒷골목의 규칙|Rules of the Backstreets
+516||(ulepszenie 1) — opis] [WhenUse] 자신 제외 살아있는 아군 수만큼 1코인 추가 (최대 3)|[WhenUse] Add 1 more coin per every surviving other ally (max 3)
+517||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+518||(ulepszenie 1) — moneta 1, efekt 2 — opis] [EnemyKill] 모든 아군 정신력 20 회복|[EnemyKill] All allies heal 20 SP
+519||(ulepszenie 1) — nazwa] 시험은 끝났다|No More Tests
+520||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [HitDamageUp] 3 얻음\n[WhenUse] 메인 타겟의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨|[WhenUse] Gain 3 [HitDamageUp] next turn\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s
+522||(ulepszenie 1) — nazwa] 고통 새기기|Promised Suffering
+523||(ulepszenie 1) — opis] [MiddleFingerBook] 수치가 가장 높은 대상을 우선 지정\n[WhenUse] 대상의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨|Prioritizes targets with the highest [MiddleFingerBook] Stack\n[WhenUse] If target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s
+524||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 이번 턴과 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn
+526||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 3)만큼 타격 추가 피해|[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 3) Blunt bonus damage
+527||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 모든 [MiddleFingerBook] 제거|[OnSucceedAttack] Remove all [MiddleFingerBook] on the target
+528||(ulepszenie 1) — nazwa] 장난이 길었군|Enough Games
+529||(ulepszenie 1) — opis] [StartBattle] 모든 아군의 정신력 10 회복\n[EndBattle] 패닉 상태인 아군이 있으면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력을 0으로 초기화함\n[EndBattle] 다음 턴에 자신을 포함한 모든 아군에게 [HitResultUp] 1 부여|[StartBattle] Heal all allies' SP by 10\n[EndBattle] If there are Panicked allies, recover them from Panic at the next Turn Start and reset their SP to 0\n[EndBattle] Apply 1 [HitResultUp] to all allies, including this unit
+530||(ulepszenie 1) — nazwa] 전원, 처형이다!!!|COMPLETE AND TOTAL EXTERMINATION!!!
+531||(ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있음\n메인 타겟의 [MiddleFingerBook] 수치가 5 이상이면, 최종 위력 +5\n[DefeatDuel] 최종 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 공격 당한 모든 대상의 [MiddleFingerBook] 제거|Can Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], Final Power +5\n[DefeatDuel] Deal -80% final damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit
+533||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 10)만큼 타격 추가 피해|[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 10) Blunt bonus damage
+534||(ulepszenie 1) — nazwa] 초격|Startling Strike
+535||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1|[WhenUse] If target has 5+ [Burst], Clash Power +1
+537||(ulepszenie 1) — nazwa] 척살|Perforating Kill
+538||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WhenUse] [LegStrength] 3 얻음|[WhenUse] If target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 [LegStrength]
+540||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [BurstAgility]이 있으면, 다음 턴에 [Agility] 1 얻음|[OnSucceedAttack] If target has [BurstAgility], gain 1 [Agility] next turn
+541||(ulepszenie 1) — nazwa] 표각|Etching Strike
+542||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1|[WhenUse] If target has 5+ [Burst], Coin Power +1
+545||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [BurstAgility] 부여|[OnSucceedAttack] Inflict [BurstAgility]
+546||(ulepszenie 1) — nazwa] 각주살검 - 순보|Cursewrit Butcherblade - Blinkstep
+547||(ulepszenie 1) — opis] [BurstAgility]이 있는 대상을 우선 공격함\n자신과 대상의 속도 차이 2 당 피해량 +15% (최대 60%)\n[WhenUse] 대상의 [Burst]이 5 당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 횟수 2 당, 기본 위력 +1 (최대 3)\n[EndSkill] 자신의 속도가 10 이상이고 대상이 사망했다면, 이 스킬을 무작위 대상 한 명에게 다시 사용함 (턴 당 1회)|Prioritizes targets with [BurstAgility]\nDeal +15% damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on the target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Count on the target (max 3)\n[EndSkill] At 10+ Speed, and if the target is defeated, Reuse this Skill against a random enemy (once per turn)
+551||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst]
+553||(ulepszenie 1) — moneta 3, efekt 2 — opis] 대상에게 [BurstAgility]이 있으면, 피해량 +50%|If target has [BurstAgility], deal +50% damage
+555||(ulepszenie 1) — nazwa] 각주|Cursewrit
+556||(ulepszenie 1) — opis] [DuelCounter]\n[WhenUse] 대상에게 [BurstAgility]이 있으면, 이 스킬에서 부여하는 [Burst] 횟수 1 추가 증가|[DuelCounter]\n[WhenUse] If target has [BurstAgility], inflict +1 more [Burst] Count with this Skill
+558||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Burst] Count
+560||(ulepszenie 1) — nazwa] 예의없는 공격|Unmannerly Attack
+561||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Agility] 1 얻음|[WhenUse] Gain 1 [Agility] next turn
+563||(ulepszenie 1) — nazwa] 힘줄 베기|Tendon Slice
+564||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 대상보다 빠르면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 3 이상이면, 기본 위력 +1|[WhenUse] If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] If target has 3+ [Laceration], Base Power +1
+568||(ulepszenie 1) — nazwa] 무질서한 공격|Messy Attack
+569||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 7 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 4 이상이면, 코인 위력 +1\n[WinDuel] 합 횟수에 비례하여 피해량이 증가 (합 횟수 1당 +5% 최대 50%)\n[WinDuel] [Laceration] 횟수 3 증가|[WhenUse] At 7+ Speed, Coin Power +1\n[WhenUse] If target has 4+ [Laceration], Coin Power +1\n[WinDuel] Deal more damage based on Clash count (+5% per Clash count, max 50%)\n[WinDuel] Inflict +3 [Laceration] Count
+572||(ulepszenie 1) — nazwa] 가드|Guard
+573||(ulepszenie 1) — opis] [WhenUse] 자신이 보유한 부정적인 효과당 3의 보호막을 얻음 (최대 10)|[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)
+574||(ulepszenie 1) — nazwa] 베어내기|Cleave
+576||(ulepszenie 1) — nazwa] 다리 상처내기|Leg Wound
+577||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 3당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 3 [Laceration] on target (max 2)
+580||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여|[OnSucceedAttack] Inflict 1 [Paralysis] next turn
+581||(ulepszenie 1) — nazwa] 무차별 공격|Wild Swipe
+585||(ulepszenie 1) — nazwa] 반격|Counter
+586||(ulepszenie 1) — opis] [BeforeHit] 자신이 보유한 부정적인 효과당 2의 보호막을 얻음 (최대 10)|[BeforeHit] Gain 2 Shield for every type of negative effect on self (max 10)
+587||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 보호막이 있다면, 대상에게 다음 턴에 [Paralysis] 1 부여|[OnSucceedAttack] If this unit has Shield, inflict 1 [Paralysis] on target next turn
+588||(ulepszenie 1) — nazwa] 연료 뽑기|Extract Fuel
+589||(ulepszenie 1) — opis] 대상의 [Laceration]이 2 이상이면, 코인 위력 +1|If target has 2+ [Laceration], Coin Power +1
+592||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 체력 2 회복|[OnSucceedAttack] Heal 2 HP
+593||(ulepszenie 1) — nazwa] 뒷골목 청소|Sweep the Backstreets
+595||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis]
+597||(ulepszenie 1) — nazwa] 쓰레기 처리|Trash Disposal

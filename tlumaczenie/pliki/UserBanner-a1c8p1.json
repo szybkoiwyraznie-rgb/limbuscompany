@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=60].desc": {
+      "pl": "Zdobyto na 1. Poziomie Darmowej Przepustki Sezonu 6",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "0dfafbcd36f3c7f86cdee920c51bc902bda600e5a90a3d806af515de6ea21400",
+      "origin": "ai"
+    },
+    "dataList[id=60].name": {
+      "pl": "Banner Świętowania Sezonu 6",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "fe869d288145b6e28824ea10ba458e37a6098dcbf6c1b41532c23793f6968845",
+      "origin": "ai"
+    },
+    "dataList[id=61].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 6",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "405cbe3316c33d164f3d61ec15a2918ab6954a11e0f72666ff9d16065ed57967",
+      "origin": "ai"
+    },
+    "dataList[id=61].name": {
+      "pl": "Banner Ukończenia Sezonu 6",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "c08685467a5508106a87e8c1da0fec2306b0d3322b8d44907dc2f3ca2a930f7f",
+      "origin": "ai"
+    },
+    "dataList[id=62].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 6",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "2068495d0d0e8712cb5deb13aeb55e4ab9c3fcf2c0ca15f7ea0aa59d139e8cd2",
+      "origin": "ai"
+    },
+    "dataList[id=62].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 6",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "208bd751fa2356711b9443ace8d6243633dce93d4b88831f45cdf53e37c36762",
+      "origin": "ai"
+    },
+    "dataList[id=63].desc": {
+      "pl": "Zdobyto z wydarzenia 6. Nocy Walpurgii",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "4389b4df69ca69cf673544b5e166f09df67823f8bd7ffb4b223a0c58abff08ca",
+      "origin": "ai"
+    },
+    "dataList[id=63].name": {
+      "pl": "Czarodziejska Panienka",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "7a637b1aff315a0c274f1b7e7efd27455285b7083eb134acf7195d1aac8a77a6",
+      "origin": "ai"
+    },
+    "dataList[id=64].desc": {
+      "pl": "Zdobyto z wydarzenia „Wiosenny Szlif”",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "4d3014405be9b549be200c657543a6e078d7a9ed99775d0f27bf119d90f2e37b",
+      "origin": "ai"
+    },
+    "dataList[id=64].name": {
+      "pl": "Wiosenny Szlif",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "f67d2577b913960a2f6a63f1557db66fc048cea270a266f4d964a9f0c39cb129",
+      "origin": "ai"
+    },
+    "dataList[id=65].desc": {
+      "pl": "Zdobyto z wydarzenia „Wiosenny Szlif”",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "4d3014405be9b549be200c657543a6e078d7a9ed99775d0f27bf119d90f2e37b",
+      "origin": "ai"
+    },
+    "dataList[id=65].name": {
+      "pl": "Wiosenny Szlif — Specjalny Banner",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "be0ce8ab246503af2a217de67ddbbe4d2c6ec50e6160c4fb61eafb8a92fe94fe",
+      "origin": "ai"
+    },
+    "dataList[id=69].desc": {
+      "pl": "Zdobyto z wydarzenia Pielgrzymki Współczucia",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "626b9d57ab9a9084df72befbc97532ea0ccb70e941d1d8656f04f8af13850fba",
+      "origin": "ai"
+    },
+    "dataList[id=69].name": {
+      "pl": "Pielgrzymka Współczucia",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "50f5016d85c6ff8d894bd5a6f1c6cc72c3b8a6d9fa36df52b16f97745eedbadd",
+      "origin": "ai"
+    },
+    "dataList[id=70].desc": {
+      "pl": "Zdobyto z wydarzenia Pielgrzymki Współczucia",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "626b9d57ab9a9084df72befbc97532ea0ccb70e941d1d8656f04f8af13850fba",
+      "origin": "ai"
+    },
+    "dataList[id=70].name": {
+      "pl": "Pielgrzymka Współczucia — Specjalny Banner",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "cafcd2d0b608d7b6a4793d56ec3609562f4dc4f24051699af58e9e52b96ed035",
+      "origin": "ai"
+    }
+  }
+}

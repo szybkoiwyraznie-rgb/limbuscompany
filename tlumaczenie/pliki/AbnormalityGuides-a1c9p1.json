@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=1307].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1307].name": {
+      "pl": "Ebony Queen's Apple",
+      "kr_sha256": "ba94253f4f280d8854d192cb51107be098bd162570012f910286c47aec113941",
+      "en_sha256": "f4125dba9909fd88b6d69ec5e5052524e8cd01b6e9482330a8a453734598b0e0",
+      "origin": "ai"
+    },
+    "dataList[id=1307].storyList[level=0].story": {
+      "pl": "Gdy pracownica Alyssa utrzymywała nieprzerwany strumień agresji na materiale organicznym uznawanym za głowę istoty (dalej: „jabłko”), Ebony Queen’s Apple przeprowadziła potężny kontratak.\\nZniszczone jabłko po upływie pewnego czasu zregenerowało się.\\nZdecydowana większość pracowników, którzy zarejestrowali dźwięk wydawany przez zregenerowane jabłko, zgłaszała różnego stopnia cierpienia psychiczne.\\n- Hohenheim, główny badacz\\n\\nKiedy zniszczyliśmy jedno z jej ramion, drugie przeszło gwałtowny przerost i zaatakowało nas z użyciem powiększonej masy.\\nChoć wytrzymałość tej istoty nie imponuje, pożałujecie, jeśli rzucicie się do niszczenia jej części bez dokładniejszej obserwacji.\\n- Alyssa",
+      "kr_sha256": "2b91a76ccada74118aa18bc86c0fb8bd4dc688e6a8c28f412b021196326c0508",
+      "en_sha256": "f298aa6d4991a7d886a9ccc1fd03aebb56801b36ee89e616c9b6661f645cfaa3",
+      "origin": "ai"
+    },
+    "dataList[id=1308].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1308].name": {
+      "pl": "Faelantern",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=1308].storyList[level=0].story": {
+      "pl": "Pracownik popadł w panikę po przeprowadzeniu pracy Wglądu na Faelantern przez ponad 40 sekund.\\nObserwacja: gdy tylko poziom Dostrojenia sprzętu E.G.O wyekstrahowanego z Faelantern przekroczył w obiekcie 75%, istota uciekła z jednostki izolacyjnej.\\nSądzę, że musimy gruntownie przerobić instrukcję Dostrojenia, szefie. Wypadek by nie nastąpił, gdybym zapewnił pracownikom dokładniejsze wytyczne.\\n- Marton\\n\\nTo pierwszy raz, gdy obserwujemy istotę zrywającą izolację za pomocą sprzętu E.G.O wyekstrahowanego z niej samej jako medium ucieczki, Marton. Nie zdołałem należycie zważyć i ocenić zmiennych. Ergo, jeśli ktokolwiek ma ponosić odpowiedzialność za śmierć badacza Corby’ego, to ja.\\n- Hohenheim",
+      "kr_sha256": "fd1bb3cb3fd4ea11911ea485078139c29edad7a0b2480dbd2bf9e50fd28bbaf1",
+      "en_sha256": "d893296de715d7f67c3353bd8d73444eb53e21cbe95955c2ef18a756acd77cd0",
+      "origin": "ai"
+    },
+    "dataList[id=1309].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1309].name": {
+      "pl": "Wayward Passenger",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=1309].storyList[level=0].story": {
+      "pl": "Istota rozdziera i wchodzi do wymiarowej bramy w regularnych odstępach. Potwierdzono jednak, że wraca, gdy ktoś inny wejdzie do jednostki izolacyjnej.\\nJej Preferencje Pracy zmieniały się w zależności od barwy bramy wymiarowej, do której weszła bezpośrednio wcześniej.\\nSzczerze, wkrótce nie zapomnę tego oszołomienia z niedowierzania, gdy zobaczyłem, że istota zniknęła nie 5 minut po umieszczeniu jej w jednostce izolacyjnej…\\nSłyszałem, że niektórzy… z naszych kolegów używają tej cechy, by płatać figle nowym.\\nPowinniśmy chyba surowo ich upomnieć.\\n- Marton\\n\\nPo raz kolejny wynik testu bojowego potwierdza raport LCB.\\nOczywiście istota zdaje się zyskać kilka nowych cech, które czynią przyjęcie niektórych obrażeń nieuniknionym nawet przy nienagannej postawie. Coś musi mieć wspólnego z badaniami szefa [Zredagowano zgodnie z Klauzulą Poufności Informacji LCE].\\n- Alyssa",
+      "kr_sha256": "1e453b881e847c2e73ba0e038fdc287c774688b24d026235216e77b554f7fced",
+      "en_sha256": "e6a71f94063729a3f3bea7f3ce716c04496ac5a032d4e9f7008ea40759da09cc",
+      "origin": "ai"
+    },
+    "dataList[id=1317].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=1317].name": {
+      "pl": "Różowe Buty",
+      "kr_sha256": "edf22348127c3efa32c24a3d32e85d8d182612bbe45ae0dc993fd6339e81edd5",
+      "en_sha256": "fa05041815616477e9880d99b3f968d6f7c8125bbcf77216b71f01ee8cabbc9b",
+      "origin": "ai"
+    },
+    "dataList[id=1317].storyList[level=0].story": {
+      "pl": "Gdy pracownik popadł w panikę wewnątrz jednostki izolacyjnej, rana różowego płatu owinęła go, przemieniając go w istotę F-04-10-13-a.\\nIstota F-04-10-13-a zachowuje zdolność wykonywania większości działań, na które jej żywiciel był zdolny przed przemianą. Dlatego przy tłumieniu należy najpierw ustalić pierwotną tożsamość żywiciela.\\nTo nieprzewidziana zmienna, zrodzona z illogicznej odmienności istot, które mianujemy „Anomaliami”.\\nRacjonalność takiego wniosku można odczytać z faktu, że badaczka Amanda nie należała do jednostek pozbawionych opanowania — nawet tamtego dnia przestrzegała protokołów instrukcji co do joty.\\n- Hohenheim, główny badacz\\n\\nRozstrzygnięto, że cała Praca Zarządcza nad „Pink Shoes” zostanie zawieszona do czasu dodatkowych badań i eksperymentu nad mutacją wywołaną przez tę Anomalię.\\n- Marton",
+      "kr_sha256": "4d2d53469aa4794b31e492a4ddcf6122cc603c7bd60bc5361d7d2935a9294b3f",
+      "en_sha256": "6657cf4c0a217c330f65e0e6d1accc16929a36eabd41f76f349ea380ef99e4b4",
+      "origin": "ai"
+    }
+  }
+}

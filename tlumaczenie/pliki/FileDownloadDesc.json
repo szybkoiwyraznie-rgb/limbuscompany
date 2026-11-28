@@ -1,0 +1,95 @@
+{
+  "entries": {
+    "dataList[id=FileDownload_Desc_01].desc": {
+      "pl": "Rozumiemy, Kierowniku, szczególne położenie, w jakim się pan znalazł. Większość z tego to oczywistości, ale pozwolimy sobie je tu spisać.\nMógł pan zapomnieć, ale żyjemy w ogromnym Mieście podzielonym na 26 Dystryktów. W każdym z nich jest kluczowy obszar zwany Gniazdem. Tak jak ptak wysiaduje jaja w gnieździe, tak wielka korporacja zarządzająca Gniazdem chroni jego mieszkańców.\nRzecz jasna, jak każde światło rzuca cień, tak i ta ochrona nie sięga poza Gniazdo… do mieszkańców Zaułków.",
+      "kr_sha256": "1a812fde0afe2e51f02dfb7fd62cee6d857cf2a934e956ea88025c92257861e6",
+      "en_sha256": "741f7a37738ddcbf6967cbdad5c82c00023f7bc33c2c99342aed4e1be4340c76"
+    },
+    "dataList[id=FileDownload_Desc_01].title": {
+      "pl": "Miasto i Gniazda",
+      "kr_sha256": "0be7496af1d1de3e87ad3bde63e405c1222023b1d8f0a39107a8f857801db659",
+      "en_sha256": "53b7db462182dcc7ed7854c3e7b02d74f9f26e1411e16b4f966534ed8bf2f1b3"
+    },
+    "dataList[id=FileDownload_Desc_02].desc": {
+      "pl": "Nie chodzi o ptasie skrzydła.\nSkoro jednak Skrzydła przypominają ptaka, który otacza opieką gniazdo, trudno zaprzeczyć pewnemu podobieństwu.\nSkrzydła to 26 megakorporacji, które zarządzają Gniazdami Miasta. Powszechnie uważa się, że każde Skrzydło dzięki zdumiewającej technologii zwanej Osobliwością podnosi jakość życia w całym Mieście i dba o pomyślność swojego Gniazda.\nSprawa wygląda jednak inaczej, gdy Skrzydło zostanie złamane. Od pokoleń dniom, w których łamało się któreś ze Skrzydeł Miasta, towarzyszyły wydarzenia o ogromnej skali.\nW miejscu złamanego Skrzydła prędzej czy później wyrasta nowe. Ale za bezpieczeństwo opustoszałego w tym czasie Gniazda… nikt nie ręczy.",
+      "kr_sha256": "e25762cad33758234dc8b8bc225dd5a916eda5df7f64c701857be1c5b0ae650a",
+      "en_sha256": "1a5b2114c15e797dde98d63c27667dd22a73d81c10cb796e8c8096aefc149173"
+    },
+    "dataList[id=FileDownload_Desc_02].title": {
+      "pl": "Skrzydła",
+      "kr_sha256": "c000ef4cba7a6b5830d49d35190833efeb889fb9d9f33c1bb42cef945d7c8b3b",
+      "en_sha256": "3a6dae74e8978d5672af6d215155c510ba08cd285e63ae376b647766f10775e5"
+    },
+    "dataList[id=FileDownload_Desc_03].desc": {
+      "pl": "Firma z Gniazda L, niegdyś jedno ze Skrzydeł.\nZnana też jako L Corp., wytwarzała ogromne ilości energii i zaopatrywała Miasto w prąd.\nJednak po wstrząsających wydarzeniach zwanych Białymi Nocami i Ciemnymi Dniami firma upadła, a miejsce Skrzydła Gniazda L wciąż pozostaje puste.\nPonieważ sieć energetyczna dawnego L Corp. obejmowała całe Miasto, jego filie powstały w wielu miejscach. Wraz z upadkiem wszystkie obróciły się w ruiny, ale w środku powinno zostać sporo przydatnych rzeczy.\nByć może… razem z tym, co najgroźniejsze.",
+      "kr_sha256": "038aa4b558684fc6a81f54c79e2f479e77aa44826c0174aa26fca9d18f2e6f7c",
+      "en_sha256": "a8f9a944338cc1d0a88b5141be7b39c5869634f56e4a8e70ff608f7d80cfd371"
+    },
+    "dataList[id=FileDownload_Desc_03].title": {
+      "pl": "Lobotomy Corporation",
+      "kr_sha256": "d7f69356c1d170a9b208225edeefe27fbae676ecddee654bda48c65fab02f36d",
+      "en_sha256": "3dbf4b28819d03113d939ba98106e17cca6ab7eef6768ce2b8dc5e359b53cb50"
+    },
+    "dataList[id=FileDownload_Desc_04].desc": {
+      "pl": "W podziemiach upadłych filii Lobotomy Corporation spoczywają Złote Gałęzie, niegdyś kwintesencja jej technologii. To gałęzie drzewa lśniące złotym blaskiem.\nMożna powiedzieć, że to najważniejszy cel, który Kierownik ma odzyskać razem z Grzesznikami.\nNieskończone możliwości Złotych Gałęzi kuszą każdego mieszkańca Miasta, więc nie pójdzie to tak łatwo jak zdjęcie czegoś z półki w sklepie.\nUprzejmie prosimy o odzyskanie wszystkich Gałęzi dzięki rozważnym decyzjom.",
+      "kr_sha256": "8310b49bea65ddba60cd1d7d93780b8cbcd9e219c98d3820d91012844568e56d",
+      "en_sha256": "89ac150359aabd3bfd2f9c94d332cd44a68abe98f90446f90007a4ea7bc46821"
+    },
+    "dataList[id=FileDownload_Desc_04].title": {
+      "pl": "Złote Gałęzie",
+      "kr_sha256": "cff10e7bf01bb0fbe6552424c5f5ebd78e28fbd45156b68b7f446c60efb13bb6",
+      "en_sha256": "ab1f6c2796d0d43acabf69517e3b9183aa7eec88abb3c75c170663b03906776a"
+    },
+    "dataList[id=FileDownload_Desc_05].desc": {
+      "pl": "Lobotomy Corporation wytwarzała energię, wykorzystując istoty zwane Anomaliami.\nZgodnie z nazwą firma miała ich najróżniejsze rodzaje: od istot tak dziwacznych i przerażających, że trudno uwierzyć w ich istnienie, po takie, które z pozoru wyglądały zwyczajnie, lecz przy niewłaściwym “postępowaniu” z nimi prowadziły do strasznych skutków.\nPo upadku większość filii zgodnie z przepisami (zapewne niezwykle szczegółowymi, o których pracownicy nawet dobrze nie wiedzieli) zasypano, zamykając w nich Anomalie razem z pracownikami.\nMinęło sporo czasu, więc pracownicy w środku zapewne już nie żyją. Ale Anomalie - nie. Wciąż pewnie krążą po zrujnowanych filiach.",
+      "kr_sha256": "443ff048dc7898c42b4fc9a4a46e249b9296ae5344b60f1e0be6f4230b5d855a",
+      "en_sha256": "9ec650b1f7843f73d2ef2a2326ca69f66012e23b1d94606aa43cce3c232bbc87"
+    },
+    "dataList[id=FileDownload_Desc_05].title": {
+      "pl": "Anomalie",
+      "kr_sha256": "da7ad24ff794f52735d0630e6a88596ec2fe7103006bbf96c6a21e78702f3a1f",
+      "en_sha256": "0c8db8761a6a14072052126b1b5adcc1a5e5dacdddd7b184daf6542c7809d1fd"
+    },
+    "dataList[id=FileDownload_Desc_06].desc": {
+      "pl": "Podobno Lobotomy Corporation dysponowała technologią pozyskiwania z Anomalii broni i pancerzy. Przypuszcza się, że polegała ona na materializowaniu ich wnętrza, lecz niestety dziś jest utracona i nie zdołaliśmy ustalić, jak dokładnie działała.\nWłaściwe działy przewidują, że zależnie od obranej drogi Grzesznicy będą mogli sami przejawiać E.G.O. Uważają również, że możliwe będzie używanie E.G.O Anomalii za pośrednictwem więzi emocjonalnej.",
+      "kr_sha256": "997470d4593a7df2ebd5f286ddc22c34626ea0509a765796f8245610c3c3a9fc",
+      "en_sha256": "de3822fc1d342d7cabc453d608824d5ebe8b8d2cf789a61d4ac40ee5a0b34484"
+    },
+    "dataList[id=FileDownload_Desc_06].title": {
+      "pl": "E.G.O",
+      "kr_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "en_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "origin": "ai"
+    },
+    "dataList[id=FileDownload_Desc_07].desc": {
+      "pl": "Tak nazywa się energię wytwarzaną przez Lobotomy Corporation.\nPowszechnie wiadomo, że służy jako źródło prądu, ale nie tylko w tej postaci się jej używa.\nTa zielona substancja, zwykle w stanie ciekłym, podobno przy wdychaniu wywołuje głębokie ukojenie. Dawne L Corp. ponoć podawało ją w odpowiednich dawkach pracownikom pod silnym stresem, by podnieść wydajność ich pracy.\nJednak w razie przedawkowania albo kontaktu z substancją nieoczyszczoną…\nChyba nie kończyło się to dobrze.",
+      "kr_sha256": "375f3d88dfab4bc699a84590db612689176d0ada9ee314f1d07e7f34f98fd9a7",
+      "en_sha256": "eb0b41680bc88a01870aef40057c4f0d6028e570f57f345f3255d8365cdc1202"
+    },
+    "dataList[id=FileDownload_Desc_07].title": {
+      "pl": "Enkefalina",
+      "kr_sha256": "27cae99d0deec2dc6d09b673f0f40942ddd614e60111252dd78253adf8f824a4",
+      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0"
+    },
+    "dataList[id=FileDownload_Desc_08].desc": {
+      "pl": "Fikserami nazywa się tych, którzy zawodowo rozwiązują niezliczone sprawy dziejące się w Mieście i równie liczne zlecenia.\nRzecz jasna, nie zostaje się Fikserem, samemu się tak nazywając: licencję Fiksera trzeba uzyskać w biurze uprawnionym przez Stowarzyszenie albo bezpośrednio w Stowarzyszeniu.\nNa zdobyciu licencji się nie kończy. Aby z najniższego szczebla awansować na wyższy stopień, trzeba gromadzić osiągnięcia. (Oczywiście są i tacy, których to nie interesuje).\nFikserzy istnieją po to, by rozwiązywać problemy Miasta, ale nie jest tajemnicą, że czasem sami stają się problemem.",
+      "kr_sha256": "5e90f86837bef77cd74ccaec06b3bf3a65d0f56622b863018315db406356aff7",
+      "en_sha256": "88fd4d984c2679954dbef5174685b71b848fb1b85f8ff541b13b5e369d502e4f"
+    },
+    "dataList[id=FileDownload_Desc_08].title": {
+      "pl": "Fikserzy",
+      "kr_sha256": "33bd340026548f3bc130a833485832a6a36d478fdff5d743e6499dcfb8d5b00b",
+      "en_sha256": "0c770e06c61c0584fedb8be11a946105436667331d5c776098297985b04a6c56"
+    },
+    "dataList[id=FileDownload_Desc_09].desc": {
+      "pl": "Stowarzyszenia to wielkie organizacje zarządzające Fikserami; ich osią jest Stowarzyszenie Hana, które nadzoruje wszystkich Fikserów. Zwykle sprawy dziejące się w Mieście przydziela się Stowarzyszeniom zgodnie z ich specjalnością, a te z kolei rozdzielają zadania między Fikserów.\nBiuro przypomina Stowarzyszenie o tyle, że też skupia Fikserów, ale działa na mniejszą skalę. Niektóre biura podlegają bezpośrednio Stowarzyszeniu i dostają od niego podzlecenia, inne same szukają pracy.\nJak ktoś kiedyś powiedział: “Biur jest tyle, ilu Fikserów”. W Mieście istnieje niezliczona ilość biur. Szybko powstają i równie szybko znikają.",
+      "kr_sha256": "545a76ad137d39bbf29533727347460c351e62458b2d682d067f2ea1bd2cbf68",
+      "en_sha256": "8d81a75099715fc8cd4c21d48c7e67383c607ed127a46e4307e20e219416c672"
+    },
+    "dataList[id=FileDownload_Desc_09].title": {
+      "pl": "Stowarzyszenia i biura",
+      "kr_sha256": "358c62eb89ffa98bf15ffd632318ea3de51c2f6c992a71518b8bb49af0b0b776",
+      "en_sha256": "3a9c7fd6e124faaa5cd3962c1e1bddd4a33d95001e37fecff32dd3a33a1e1b24"
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Nie pojmuję. Coś takiego załatwiło Lwa?",
+      "kr_sha256": "8731a367861f27980a01ab9e3b4f9d67b2d182beec189c9da858c29b23dca781",
+      "en_sha256": "894dc1c639a00ab75aab20f220665caebdc4243e56146512fe894d0e2f6d436e"
+    },
+    "dataList[id=10].content": {
+      "pl": "<Co się stało? Mówiłaś, że będziecie walczyć za mnie!>",
+      "kr_sha256": "d766394617389594ed97469e2f4e6b36eac636ea12c830faeae1ff4884a23ccc",
+      "en_sha256": "91fefe2857d90c88f8fc074a753d39dff00c2eb55c3cc827a1800434bf153747"
+    },
+    "dataList[id=11].content": {
+      "pl": "Nie mówiłam, że wygramy.",
+      "kr_sha256": "ae95b472f7a65f12d751df08aa98c09a86f6b2c47783e73897ba9ed6f66b100d",
+      "en_sha256": "a5b2e3a9307c85c5a5dfa60b62523c9ef2a4198a72bb5ae715aad632295ece80"
+    },
+    "dataList[id=12].content": {
+      "pl": "<Co…>",
+      "kr_sha256": "2afca62c53c5ade6e6fbf046d279f29efb35b689614eb0706f59cbea3516e298",
+      "en_sha256": "f3c87861e2f894b4f02eef27f564dde5b805f1939220f04a3998d0cb7c6b83b1"
+    },
+    "dataList[id=13].content": {
+      "pl": "I zostałam tylko ja, jak widać.",
+      "kr_sha256": "3e9f721471bf3526f818f7c218af3108b575134519e72a68297e838bcb7661fb",
+      "en_sha256": "e97af56a95b9482fec76cf7c224bde2d20699a26fa5515477fcfe454a787bc20"
+    },
+    "dataList[id=14].content": {
+      "pl": "<D-dobra. Czekałaś, aż do tego dojdzie?>",
+      "kr_sha256": "2074e67e8190379d3e4133d72ef81d71d8e1ad5f8a5b30f7c202f7499d883632",
+      "en_sha256": "34085c8b71721a9801b7815d8e786df9b8babefdecc0ac87e9c140c32b879899"
+    },
+    "dataList[id=15].content": {
+      "pl": "<Masz jakiegoś asa w rękawie, tak?>",
+      "kr_sha256": "b59919c19064a7c32d651cdf970fddd5eae5433a549eb2d8e1105c8a3e657b07",
+      "en_sha256": "9ffb7d168b83d7837b49fb097a8cf53be55f0e20d8a213a469f06b5ad85b6008"
+    },
+    "dataList[id=16].content": {
+      "pl": "As w rękawie… to za dużo powiedziane. Po prostu…",
+      "kr_sha256": "22f8151687694735f800c293b231a0066bee967225b213326f5557fd0e354deb",
+      "en_sha256": "75a3ba4a4d7ebd56a35e04bfda75cf09cc0488383488cefd2c1dbac39db43707"
+    },
+    "dataList[id=17].content": {
+      "pl": "…idziemy za gwiazdą.",
+      "kr_sha256": "117d466674795bf21258c148bda947a3e78fe7b801b87ebedcbc7ba66e437065",
+      "en_sha256": "9040a13d78f601d8fb99392c969e612c0e0b586b69c151ccf75d274e2dbaa552"
+    },
+    "dataList[id=18].content": {
+      "pl": "Bawicie się w zbiorowe samobójstwo? Mało to zabawne.",
+      "kr_sha256": "83e4c15a13630c4ba925bd366d3833169c3928cafd8281d0e989e7f7dc66fede",
+      "en_sha256": "7888f20baa9dd09ca8af58a2bdf6f51c41ab1fb07a5e0d969d19c8b989da69aa"
+    },
+    "dataList[id=19].content": {
+      "pl": "<Co ja… mam niby zrobić?>",
+      "kr_sha256": "a0f41c0add3a4a68ba7fca53c04f79a2fdb5c625d18bf0b0d81a0e6b939ad88e",
+      "en_sha256": "6fc57c933038aeda527e31df71ab721cf30f5d8c24ae3c854c25744276b2cb16"
+    },
+    "dataList[id=1].content": {
+      "pl": "E-ej, chwileczkę!",
+      "kr_sha256": "86c3d8af568067934671f2a218e4971ab769554fbbf7371492c86d8bb742b2fc",
+      "en_sha256": "d68493b5d620e0961c629b2dd9b102c9446bba46a8b92ee2f01a6b49f1671d39"
+    },
+    "dataList[id=20].content": {
+      "pl": "<Wkroczyli z taką pompą, a teraz padają jak muchy…>",
+      "kr_sha256": "5dcfcff9357732a8c9c0195be9c7f0c7c233695124b8fac77cae81e2f4de2044",
+      "en_sha256": "74b3e6a8079a2ddd54e2397cda63eadd311937ad95429e364c4cdda4f2fa206e"
+    },
+    "dataList[id=21].content": {
+      "pl": "<Uch… Odkąd powtórzyłem jej słowa, nie pamiętam nic z przeszłości.>",
+      "kr_sha256": "67c349b727c569206e4f3bb0070496e2341e82de1b777fa9e74e03fb0339dcbe",
+      "en_sha256": "4007c55d0f46af00332abe034acabd2201d145933610b58eac9b76606464012a"
+    },
+    "dataList[id=22].content": {
+      "pl": "<Czyli… tak umrę?>",
+      "kr_sha256": "dcae19ef2ade5a7ce2e1a53df665a5a7d08fea4a0935d1f9dcaf2645b97ff66a",
+      "en_sha256": "e218816970228a65f51c201b53004821fa1b40872a1bd29c14eba10ba07b7245"
+    },
+    "dataList[id=23].content": {
+      "pl": "Przekaż Wężowi, fałszywa lwico.",
+      "kr_sha256": "55fc549ed29825c2df77aa56024f1e88c349942eb389d4cf14fe399e5b9825d4",
+      "en_sha256": "0e7b01bd5c9d37405087bbb8123ab751f2bffb7626108abae4370f153079b46d"
+    },
+    "dataList[id=24].content": {
+      "pl": "Tego nurtu nie da się zatrzymać.",
+      "kr_sha256": "63f2c36b86886745b029ca5216f4f51c7ffe2eb06f963ccc0c2ba5e053835b08",
+      "en_sha256": "7e8d72a07750ab0170c621ba27c8412ac5841ef044c77a97b29649be350ed060"
+    },
+    "dataList[id=25].content": {
+      "pl": "Ghh… Aaaaach!!",
+      "kr_sha256": "495605c401c76fb6b7797076f88cadb4d34447c4eac0c1dc745a4c3f905c189f",
+      "en_sha256": "5313a9dfc733df9cd5370be97549f497f91a30cf676a811b402535bfa8acb74c"
+    },
+    "dataList[id=26].content": {
+      "pl": "Czerwień…? Dlaczego?",
+      "kr_sha256": "ad04488088458ff4fd6b4ce014866b4ba7b98c76f5df8ed2321b60f728b1cb47",
+      "en_sha256": "9d4ed3508ba333061b8c80e19c155739adcf146b665f91267faa7e03f24fa3ad"
+    },
+    "dataList[id=27].content": {
+      "pl": "Agh…",
+      "kr_sha256": "9d09edc37784ed1f6988f65e4d8181cbc9b5c9f87af1ff44cd5d936b0ea7851c",
+      "en_sha256": "681606e302e573472644f1c51fb8db1c76c79bfa8ee5c555fd1caea1d447283b"
+    },
+    "dataList[id=28].content": {
+      "pl": "Wiesz, czemu odciąłem im tylko rękę i nogę?",
+      "kr_sha256": "9b4af1ab1009e09f81cf2775875da5d5bf446a30bd2c8f2a4a0d1b0abfe12077",
+      "en_sha256": "6ddc6fd421c30453b9b003188f5ce5b88076f7fdc214c742c32da1645a8910a5"
+    },
+    "dataList[id=29].content": {
+      "pl": "Żebyś ty, cały i zdrowy, pozbierał je i na łeb na szyję się stąd wyniósł.",
+      "kr_sha256": "68ee8433354b1df321d4cff94fc6fc0b53ad6ab6b020f39ad2e1516af9673d74",
+      "en_sha256": "79fadb28adb5417e05aa4ce9d3c96260885d8a22ec692ea242f82c6b82a45e2f"
+    },
+    "dataList[id=2].content": {
+      "pl": "Głupio to mówić komuś, z kim się przed chwilą biło, ale to by się dało załatwić po dobroci…",
+      "kr_sha256": "34b9bf987879cad210573157601ba4d4a1e46e2f70a540b078a8911f31b43a73",
+      "en_sha256": "9d90936ea2eed49c390b82edb30f6b270454e220a1731eb9c95298e78e813c09"
+    },
+    "dataList[id=30].content": {
+      "pl": "Bo tylko ty zostałeś, żeby zastąpić im rękę i nogę, które się ulotniły.",
+      "kr_sha256": "c56ae81141ee0b897f5904786b903deffc715f79f2cadb8ae7d3ed6c4e9d9974",
+      "en_sha256": "9850400b13f57c5a0eabafef944b3413ed498c741aba6a1007cd46f71b8be7d6"
+    },
+    "dataList[id=31].content": {
+      "pl": "…Szkarłatne Spojrzenie.",
+      "kr_sha256": "7a83d290edff9a46a56aa38b224b90d684aa539fbd21a9bb0ee567bd102616a4",
+      "en_sha256": "0fa9718e953016ef77a1f2994896a3022c663da332a1d2fc3ddb276d359a8447"
+    },
+    "dataList[id=32].content": {
+      "pl": "Nie patrz tak spode łba. To drobiazg przy tym, co wy tu narobiliście.",
+      "kr_sha256": "5be03e9ebe641791d3ecf4347a804cd0ed8b9f86b5b00da78c18de181fac533e",
+      "en_sha256": "65b5449890e34fd40d9c2ad82b77074ff9a310828347713e84d2d54f67abbe5e"
+    },
+    "dataList[id=33].content": {
+      "pl": "Z takimi ranami góra uzna, że zrobiliście, co do was należało. Traktujcie je jak ordery.",
+      "kr_sha256": "203747fe43f293278e7539acaf7ba0556ca83a173be175feed754044b0966779",
+      "en_sha256": "c7275af09259e76bfd05ea412d9c75d2b2ec48366ce3fa38b017c958aa4a17ed"
+    },
+    "dataList[id=34].content": {
+      "pl": "Chyba że…",
+      "kr_sha256": "8f74667d3dc2866444c490d7435a9ab0f1bf8907299cf3639df0dd4203caf7d4",
+      "en_sha256": "f79fe9100ce823400afe16e272d7ecda93917483c2adb921357ed1fe631fdb91"
+    },
+    "dataList[id=35].content": {
+      "pl": "…wolicie wyzionąć ducha tutaj?",
+      "kr_sha256": "64b9e018b775a6ff9d8dcfb9e6a84159f9df37ceacb045029aebbda6eed705ad",
+      "en_sha256": "bc43bae35066c9db79203402d4bda9ecdbc6ce36d31956d8fea9145279b8464e"
+    },
+    "dataList[id=36].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=37].content": {
+      "pl": "<Co jest… Ty też jesteś z tą bandą?>",
+      "kr_sha256": "33c1d41c1fa1bec20c2721ef7abd87cad9f82f860e51d6313253dcb3107eeef7",
+      "en_sha256": "5b3f96fbcece55bcebdd25a72575cd18e7d221e61333b3b9cb3b065afe18c3f7"
+    },
+    "dataList[id=38].content": {
+      "pl": "<Ale wszyscy już…>",
+      "kr_sha256": "4656a52888b58a2336d2ed7d38e95973475722be883f31310774745ede2bfdf6",
+      "en_sha256": "6f607c5007b16fa0f1007dafd789f36aae5074b638917589a3ad8223463e513d"
+    },
+    "dataList[id=39].content": {
+      "pl": "Na nic nie jest za późno, Dante.",
+      "kr_sha256": "9bd0fa7a0cd114aadcba4f801fd202daf211161cc6b1882433430b01c542738f",
+      "en_sha256": "3db9ec1ac92a0ee883fb0cd05f3b55e638e9959fee327f14dbc9310ec189fcec"
+    },
+    "dataList[id=3].content": {
+      "pl": "…!",
+      "kr_sha256": "b4fbeab1b273cb763c46cc9fac3e4013ee357747c89255b62ae0e80235eee4ff",
+      "en_sha256": "b4fbeab1b273cb763c46cc9fac3e4013ee357747c89255b62ae0e80235eee4ff"
+    },
+    "dataList[id=40].content": {
+      "pl": "Potrzebujemy tylko…",
+      "kr_sha256": "f17a4954a1a093cda7ffdbe5153100f0a27420c35aca36970f478e3001d401e6",
+      "en_sha256": "052f27e485b5d6e0f31270fe5bcd9047848c93490165d3270bbc7fcd13427011"
+    },
+    "dataList[id=41].content": {
+      "pl": "…czasu, który da się cofnąć.",
+      "kr_sha256": "f21e00a56916b578d9fd41981fd67cd9b3d2e3746c6bb1e7bc2cf594fd7d7c20",
+      "en_sha256": "085bbfbeaf63e3809a7105e2b80114d7834d67eb2674df6125d9ed0577253e83"
+    },
+    "dataList[id=42].content": {
+      "pl": "<…!>",
+      "kr_sha256": "b9a5e10ec3ff072925c14922f5fc24be21c269fa58419b44c66491cd6acbbf80",
+      "en_sha256": "b9a5e10ec3ff072925c14922f5fc24be21c269fa58419b44c66491cd6acbbf80"
+    },
+    "dataList[id=43].content": {
+      "pl": "<color=#b01c37>Nagle spada na mnie ból, jakby serce pękało na wiele odłamków.</color>",
+      "kr_sha256": "dc8d9ad411227388812bbb9a1ef6e048b0c4f034494e5254e9f28862288ee815",
+      "en_sha256": "83518ceab49cfa578623c9c3d8d7eda04ab72f52123aeb9535dd18b25ceac76f"
+    },
+    "dataList[id=44].content": {
+      "pl": "<color=#b01c37>Zaraz po nim żebra, jelita, żołądek i płuca.</color>",
+      "kr_sha256": "71cd40e82aae8347982144fb4fa56fc18f8be89ad04f4febe3129404f94aeeb7",
+      "en_sha256": "5b31e33b252f902d3f25f03e0cf686555215cff06351cf97640ea75ebf29674f"
+    },
+    "dataList[id=45].content": {
+      "pl": "<Aaaaaaaach!!!>",
+      "kr_sha256": "c34a6cc117839afa116f39558d30ef52367264997e7eebc54cd8f754dff80faa",
+      "en_sha256": "00e021f5922a1372009efbe8033c79481aa5f9ba227aefc907188ec58850c45a"
+    },
+    "dataList[id=46].content": {
+      "pl": "A potem każde miejsce, którego nawet nie umiem wskazać, wykręca się, pęka i wyje z bólu.",
+      "kr_sha256": "3d4ce863391d8c0b1e647b024793750e1deedc4eeaeb93283581ff336a916826",
+      "en_sha256": "6b52867ee3dbbfa41309f62c346bcd8f9643b8caef80d2f281f9cdbe85f0bfe1"
+    },
+    "dataList[id=47].content": {
+      "pl": "<Ty… Agh…>",
+      "kr_sha256": "4a37bb794c2726fd133035d564f1b63c6aac94e8bf9e72b89d853ec8d4b03b32",
+      "en_sha256": "07a8c8204112a0151f35f08094240d8f16664e50f0887506479d811656af6c10"
+    },
+    "dataList[id=48].content": {
+      "pl": "Wszystko, co zdołałem pochwycić gasnącą świadomością, to…",
+      "kr_sha256": "a79fadcb297741728720e76e5c8249d7940052a6af14508cd69522b59f1dd937",
+      "en_sha256": "438cacfb90774226c0030daf5d181e4f0373d1a552b303948250746a6d4315b2"
+    },
+    "dataList[id=49].content": {
+      "pl": "…widok ludzi, których ciała przedziwnie odzyskiwały dawny kształt…",
+      "kr_sha256": "9dbe09efc9e457fa6c7357a3ad1d5e713fea42589ffcaa3ec0ed727ff2e10cce",
+      "en_sha256": "ef221be23c3a8520b361a950e3d556b7b9020651b2fe0893939f2cf17063b962"
+    },
+    "dataList[id=4].content": {
+      "pl": "To…",
+      "kr_sha256": "378eddc99ed2a72594aca3c6576ea1ec28cde5a1be36878a6953dd5e9265860d",
+      "en_sha256": "cd2beb8ef81cd70c8cf2fd26c6539cb2938aa9c4206b0bf48175199c5305b92d"
+    },
+    "dataList[id=50].content": {
+      "pl": "Odtąd będzie piekielnie bolało, Dante.",
+      "kr_sha256": "2332218628d4a595a3ef9731cb260f77e1d7fc9e9289000ee79032f38157dbdd",
+      "en_sha256": "8b0bc95a744f048488694ae822ac7ad032c219c8e40ba285bc7f47eadd74dada"
+    },
+    "dataList[id=51].content": {
+      "pl": "…i głos mężczyzny o czerwonych oczach.",
+      "kr_sha256": "74398e9f967c6258d335ba671b5958c0413751dedc1abb4d963d78eca0ff7f1a",
+      "en_sha256": "860ed9df4245da1707cee292a29c8a4e7490c06d09322ba47f2b0f8807726ca1"
+    },
+    "dataList[id=5].content": {
+      "pl": "…dalekie od ideału.",
+      "kr_sha256": "e142f8abe11829b85ec92f60906cebd0d5208bf7b5cb3651cda61d522fefb5ad",
+      "en_sha256": "90bea3f2f53ec4c09166dc9eb98a5917c6dbe12017fc1ef9865922d7606ee99c"
+    },
+    "dataList[id=6].content": {
+      "pl": "Haa… Od początku uważałam, że ta walka nie ma sensu.",
+      "kr_sha256": "162296544798d8fcfdeee6d72d0a6b61fade8fc5e53304e36d5fea6ee3431785",
+      "en_sha256": "31f34b476f7e9971d99df0bf15168d6ae91b38086de4618acf79151f029183e9"
+    },
+    "dataList[id=7].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=8].content": {
+      "pl": "Żartujecie sobie? Ja nawet nie zaczęłam…",
+      "kr_sha256": "ba02d87b7f143c61d3a076adfb4c88a5b77716bcfe99c7d0a4ba2beb2becd7e4",
+      "en_sha256": "4c9232c5aa7c314dedfefdd4f293c9d92330690c8b43a37876f61807e57648b3"
+    },
+    "dataList[id=9].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    }
+  }
+}

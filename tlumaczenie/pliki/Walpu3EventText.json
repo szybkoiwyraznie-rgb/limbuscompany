@@ -1,0 +1,418 @@
+{
+  "entries": {
+    "dataList[id=EVENT_WALPU3_HARD].content": {
+      "pl": "Trudny",
+      "kr_sha256": "fac94f696643f1bedee656b154eb1c5d9c27ecb455e190b37be53968cf49c549",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=EVENT_WALPU3_NORMAL].content": {
+      "pl": "Łatwy",
+      "kr_sha256": "dd0c5cb040fb29116e6c3c2fced2ffdb0727ad147174245e409fd05ebbe98f54",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_hard_stage].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_hard_stage_desc].content": {
+      "pl": "Żołądek i twarz zostały oderwane, a gałki oczne i organy utracono, jakby coś je zjadało. Tymczasem na ustach wróżek widać czyjś tłuszcz i krew.",
+      "kr_sha256": "e9048e1c6f53fc8a2769939e5d66de89c49e76caa1f3275f530aa5c8ab8362d4",
+      "en_sha256": "18b047e14e168c39d4dfa4c0f1830e42c06630b8e5dfe86d772ca8b9d9c1657f",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_hard_stage_name].content": {
+      "pl": "Pożeranie",
+      "kr_sha256": "92ea4bfceedd42c9edc5e86b5661716fa3b6787f01c3fed8604d5a58d79418b5",
+      "en_sha256": "fa68705a68199e91029dbb5bd3247defb55760edbe26cf3010b1a14bbd429d29",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_hard_stage_unlock_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Łatwego",
+      "kr_sha256": "d5630d0c2c88e9fa010f4ce357725d8bdb8a15109d731457b49e82f4de82e141",
+      "en_sha256": "254904efcf03534aa793ef5d26ec8882971c5f88e3662dc140469277575dbd1c",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_normal_stage].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_normal_stage_desc].content": {
+      "pl": "Wróżki chronią pracowników.\nW czasie ich opieki wszystko staje się pokojowe.",
+      "kr_sha256": "a91e0303525c453d1562e6b255cb1b5093ed7e084f8b53910e0d8fd0551d2a5e",
+      "en_sha256": "db1841515bc619f0f0cc65dcc57c4884eb8e34fe50661be72c77a7d6662b49aa",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_normal_stage_name].content": {
+      "pl": "Opieka Wróżek",
+      "kr_sha256": "eec772e303c1b14c16f5a913460784f2aba6b9c873213cfc76c8bbab0f995bc9",
+      "en_sha256": "f7474111c912cdd9bbcfff604e7712662a9f3cc8ba7c451523a7593cabde23be",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_reward_button].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu3_story_theater_button].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10009].content": {
+      "pl": "Tłumienie Święta Wróżek udane",
+      "kr_sha256": "7986660fa0a89b1e24d917f736f3402953f9075a6e240f1604103eccc96c24c4",
+      "en_sha256": "1394b2ef5d52b06b035dbdf541a8f5bb0b97ce044d4d57ef131fcaee36e5f014",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10010].content": {
+      "pl": "Ukończ Tłumienie Święta Wróżek w 10 turach",
+      "kr_sha256": "084dc767af2a46f398504ef7206d36813bf7552b8aa129afad844a24aaaafbe2",
+      "en_sha256": "304efc770dfa0b36f69ad6ba40a806fc96f73676cb26469be296c441fca16053",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10011].content": {
+      "pl": "Ukończ Tłumienie bez śmierci żadnego sojusznika",
+      "kr_sha256": "0a09eba3794c126dcc6f3be3af431c46053c11d678f6b37d632d405faed7dfef",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10012].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "3965ecd5a09011cffb9e602f15ccf51f95dedfb3c756e0514a1be7426535bae1",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10013].content": {
+      "pl": "Ukończ Tłumienie, gdy Bibliotekarz Piętro Historii przeżyje, otrzymawszy mniej niż 10 trafień od wrogów",
+      "kr_sha256": "5a79fd75b34b4940c5ca68ad7daef54e189dad890ed8f42fc2820bdba083ec45",
+      "en_sha256": "755e6eccee41730668856859f2396989c85d97adcbddbcb29c9217579faa3a33",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10014].content": {
+      "pl": "Ukończ Tłumienie, zniszczywszy obie części ramion Królowej Wróżek w jednej walce",
+      "kr_sha256": "0c2a96d462bf9e59407473aed4ac71f51e973b362483c57a4be7f6697149ebfe",
+      "en_sha256": "1e45f953b18e1e4da87047a4bb47c216f96eb6eea3f1bccbc7898e585650b45b",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10015].content": {
+      "pl": "Ukończ Tłumienie, gdy Królowa Wróżek nie pokona ani jednej Zgraji Wróżek",
+      "kr_sha256": "c7f68d91dca3ee8dd314b70bdbc6873994b5fff97d9944d11adac7bb183eae03",
+      "en_sha256": "a6b370f36c3e1d635afebd093ace3977269e317c41914b7b14f20c3a8930eaa9",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10016].content": {
+      "pl": "W jednej walce Królowa Wróżek pokonuje Zgraję Wróżek",
+      "kr_sha256": "0af7ab0afb6962acfe8bf2209bbc2bd408e4d0386f89e221571c6f479391008e",
+      "en_sha256": "057b95eb82c0b62617c9cf9155bb3d82c49a7c760a73067d4edde0bddcffaa32",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10017].content": {
+      "pl": "W jednej walce Królowa Wróżek pokonuje Zgraję Wróżek w pierwszej turze",
+      "kr_sha256": "586b61ec5a7aba276690db39d2a2d34739350f57df5d691fe0dd3712aeaffe3b",
+      "en_sha256": "2ca58f1c931cdcb1093fe348ae28699309c2d9dbbc78cfcfbb074d325c997649",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10018].content": {
+      "pl": "Nałóż na jedną Anomalie określoną Siłę jednego z efektów: Podpalenie, Krwawienie, Rozdarcie albo Zatonięcie",
+      "kr_sha256": "e37d5ed3b3cd6049f602399dd29fefb638e78c8e3d37feaea18ddca9ee17f63d",
+      "en_sha256": "3ea1ad36f35258c43cabebe3ee2b2278cd7d659d5f781fffd088466835d529a1",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10019].content": {
+      "pl": "Pokonaj Anomalie obrażeniami Podpalenia, Krwawienia, Rozdarcia albo Zatonięcia w jednej walce",
+      "kr_sha256": "839860bc87b306300fce64b838b4d8554c96b83e9102aafd9e34274868a8cc57",
+      "en_sha256": "530eafb3808b9220c906fdd850dc800c8237d32ec942af7d914386e7728eb951",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10020].content": {
+      "pl": "Pokonaj Królową Wróżek obrażeniami Podpalenia, Krwawienia, Rozdarcia albo Zatonięcia w jednej walce",
+      "kr_sha256": "c1432d2b5963dc6498e24fa7f2ea51c42ac624de1b5e48db5166e68c292a7669",
+      "en_sha256": "bb93f528cc3ad60cfe3eb3fee5452493a0a3e145eb6578113609496ab2e75ff1",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20009].content": {
+      "pl": "Tłumienie Święta Wróżek udane",
+      "kr_sha256": "7986660fa0a89b1e24d917f736f3402953f9075a6e240f1604103eccc96c24c4",
+      "en_sha256": "1394b2ef5d52b06b035dbdf541a8f5bb0b97ce044d4d57ef131fcaee36e5f014",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20010].content": {
+      "pl": "Ukończ Tłumienie Święta Wróżek w 10 turach",
+      "kr_sha256": "084dc767af2a46f398504ef7206d36813bf7552b8aa129afad844a24aaaafbe2",
+      "en_sha256": "304efc770dfa0b36f69ad6ba40a806fc96f73676cb26469be296c441fca16053",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20011].content": {
+      "pl": "Ukończ Tłumienie bez śmierci żadnego sojusznika",
+      "kr_sha256": "0a09eba3794c126dcc6f3be3af431c46053c11d678f6b37d632d405faed7dfef",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20012].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "3965ecd5a09011cffb9e602f15ccf51f95dedfb3c756e0514a1be7426535bae1",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20013].content": {
+      "pl": "Ukończ Tłumienie, gdy Bibliotekarz Piętro Historii przeżyje, otrzymawszy mniej niż 5 trafień od wrogów",
+      "kr_sha256": "f0c5f3f6ad30f008ffa7079a5ca9141ee64e46d9906c9558a0b7eb2b0ebb2704",
+      "en_sha256": "eae13cfb36ad6c997d1b571f5591f15b3c867fd01be3db7afebf4dad6d313a2c",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20014].content": {
+      "pl": "Ukończ Tłumienie, zniszczywszy obie części ramion Królowej Wróżek w jednej walce",
+      "kr_sha256": "0c2a96d462bf9e59407473aed4ac71f51e973b362483c57a4be7f6697149ebfe",
+      "en_sha256": "1e45f953b18e1e4da87047a4bb47c216f96eb6eea3f1bccbc7898e585650b45b",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20015].content": {
+      "pl": "Ukończ Tłumienie, gdy Królowa Wróżek nie pokona ani jednej Zgraji Wróżek",
+      "kr_sha256": "c7f68d91dca3ee8dd314b70bdbc6873994b5fff97d9944d11adac7bb183eae03",
+      "en_sha256": "a6b370f36c3e1d635afebd093ace3977269e317c41914b7b14f20c3a8930eaa9",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20016].content": {
+      "pl": "W jednej walce Królowa Wróżek pokonuje Zgraję Wróżek",
+      "kr_sha256": "0af7ab0afb6962acfe8bf2209bbc2bd408e4d0386f89e221571c6f479391008e",
+      "en_sha256": "057b95eb82c0b62617c9cf9155bb3d82c49a7c760a73067d4edde0bddcffaa32",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20017].content": {
+      "pl": "W jednej walce Królowa Wróżek pokonuje określoną liczbę Zgraj Wróżek w ciągu jednej tury",
+      "kr_sha256": "304e92c555b6e0521a4330073f5aeada47e5d261f0688c97a41b4f42186e22a0",
+      "en_sha256": "7b19b1b412db0c14a9d45435024bc11736ae61dbf561369527495b3037572a5d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20018].content": {
+      "pl": "Nałóż na jedną Anomalie określoną Siłę jednego z efektów: Podpalenie, Krwawienie, Rozdarcie albo Zatonięcie",
+      "kr_sha256": "e37d5ed3b3cd6049f602399dd29fefb638e78c8e3d37feaea18ddca9ee17f63d",
+      "en_sha256": "3ea1ad36f35258c43cabebe3ee2b2278cd7d659d5f781fffd088466835d529a1",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20019].content": {
+      "pl": "Pokonaj Anomalie obrażeniami Podpalenia, Krwawienia, Rozdarcia albo Zatonięcia w jednej walce",
+      "kr_sha256": "839860bc87b306300fce64b838b4d8554c96b83e9102aafd9e34274868a8cc57",
+      "en_sha256": "530eafb3808b9220c906fdd850dc800c8237d32ec942af7d914386e7728eb951",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20020].content": {
+      "pl": "Pokonaj Królową Wróżek obrażeniami Podpalenia, Krwawienia, Rozdarcia albo Zatonięcia w jednej walce",
+      "kr_sha256": "c1432d2b5963dc6498e24fa7f2ea51c42ac624de1b5e48db5166e68c292a7669",
+      "en_sha256": "bb93f528cc3ad60cfe3eb3fee5452493a0a3e145eb6578113609496ab2e75ff1",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20021].content": {
+      "pl": "Bibliotekarz Piętro Historii pokonuje określoną liczbę Anomalii jednym użyciem Umiejętności ataku",
+      "kr_sha256": "6e4ab0c429dc33636f681fe7f5c5496e5ab2809ab039917e314df0eb1dd79938",
+      "en_sha256": "7a261e4445dec12385bf37f7cae5cfdd3c64f95c1d5bb0c3d35750fb378b05ce",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_30002].content": {
+      "pl": "Ukończ wszystkie misje na Poziomach Łatwym i Trudnym",
+      "kr_sha256": "08d1ce4e0147ad9d479388dd9893ddfd5ac5b254b2c90bec7a7dc70a434da203",
+      "en_sha256": "c950b0faf28bbd710f7fd47920970a0bfa640449daee9c0d170613c4a0334fee",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_01_desc_01].content": {
+      "pl": "[3. Noc Walpurgii — Do pewnej księgi pewnej biblioteki] odblokowuje się niezależnie od postępu Głównej Opowieści. Wejdź przez banner wydarzenia w zakładce Okno albo Jazda.",
+      "kr_sha256": "ca7a8b812dd53af4fd2b7369d0089942141f4e9f179c1df4428d6e0e2f02b4b5",
+      "en_sha256": "b584fc08c7eb0d9ee6252d8ca0055c7e1b7d7dab898ea5683bb639ec2dce1cf1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_01_title].content": {
+      "pl": "3. Noc Walpurgii — Do pewnej księgi pewnej biblioteki",
+      "kr_sha256": "227df07a35f471c90105773ef94a65aa0a6ce1fac9c970e1d73aa5a3a10fa0e6",
+      "en_sha256": "14b5d37e84ed755cbd79ed52985b295296e68f5f3b03071f32a75a12bcc5580a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_01_title_01].content": {
+      "pl": "3. Noc Walpurgii — Do pewnej księgi pewnej biblioteki",
+      "kr_sha256": "227df07a35f471c90105773ef94a65aa0a6ce1fac9c970e1d73aa5a3a10fa0e6",
+      "en_sha256": "14b5d37e84ed755cbd79ed52985b295296e68f5f3b03071f32a75a12bcc5580a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_02_desc_01].content": {
+      "pl": "[3. Noc Walpurgii — Do pewnej księgi pewnej biblioteki] — tu widnieje czas trwania wydarzenia. W trakcie wydarzenia tocz walki na Poziomach Łatwym i Trudnym, wykonuj misje i odbieraj nagrody za ukończone misje.",
+      "kr_sha256": "3f3a64c66e8b013ff167ee1567242a1a3290ce815fe4c132e67299b11e825f86",
+      "en_sha256": "69d11aa9e1ae9dbb3847f54207e9114360ce48c530dc787392de99cf7b40bf97",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_02_title_01].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_03_desc_01].content": {
+      "pl": "Dotknij drzwi, aby wejść do walki na poziomie Łatwym.\nW okresie 3. Nocy Walpurgii walka zużywa Moduł Enkefalinu przy wejściu.\nNa poziomie Łatwym Tożsamości na poziomie niższym niż 45 podnoszone są do poziomu 45.\nPonadto Stopień Synchronizacji Tożsamości niższy niż 3\npodnoszony jest do 3.\nStopień Splotu Nici E.G.O pozostaje bez zmian.",
+      "kr_sha256": "76e7a3004b3f0a0fcd3f0e0ae892b37e62b0f8923f892a530e773cffdda763d2",
+      "en_sha256": "d047378ea8bd78abca0dc8664e11e5247e27d105dff4fc569a3a76bb5b59ae2d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_03_desc_02].content": {
+      "pl": "Ukończenie walki na poziomie Łatwym odblokowuje walkę na poziomie Trudnym.\nNa poziomie Trudnym obowiązują obecne Poziomy Tożsamości, Stopnie Synchronizacji Tożsamości i Stopnie Splotu Nici E.G.O.",
+      "kr_sha256": "952efc0ffc70facf69ca532c3d53e875d20c088cb9dc33787b8a30f2040ad093",
+      "en_sha256": "fdf0d318a0398d44c76e5ee1081741efea36e9977b8e66fc6f46f04cf4ffe905",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_03_title_01].content": {
+      "pl": "Walka na poziomie Łatwym",
+      "kr_sha256": "e9bf1e0d6c19d1d6bedb91311f84be4ec50ef1a4d5f63088da26a82d320c275c",
+      "en_sha256": "7677c0e78f53a8c656bcd1443d568feff87dd9ff4f647da25756abf6a08d795c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_03_title_02].content": {
+      "pl": "Walka na poziomie Trudnym",
+      "kr_sha256": "975408004ea981ab6628b36b544913988c86e84f4992c27426b7fcefc9f3fb43",
+      "en_sha256": "1c9470f354f7f51b997fac91d7543858743c27f8734d73127eaa6e7ca304d1e2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_04_desc_01].content": {
+      "pl": "Pierwszy Grzesznik w kolejności składu bojowego otrzymuje efekt „Bibliotekarz Piętro Historii”. Efekt różni się na poziomach Łatwym i Trudnym; Grzesznik z tym efektem zyskuje więcej akcji w walce oraz pozytywne efekty.",
+      "kr_sha256": "880cb13a98511baf0162494b214e011a385b1eed475aa85d3cafd777714fac8f",
+      "en_sha256": "18bda4f092668e6ea6290b54ddc4ff6ddcfa76f1d34c90a92c3c49c4f58af867",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_04_title_01].content": {
+      "pl": "Efekt Bibliotekarza Piętro Historii",
+      "kr_sha256": "404f266a6e4ff594797aa3616676558cf8f55f94862b941f75ad160f92866a63",
+      "en_sha256": "fe13406f4711b6c620e9b058a9f13a121ffb24ff8b317729fd06748594b6e742",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_05_desc_01].content": {
+      "pl": "Przejdź na stronę [Listy misji], aby sprawdzić misje możliwe do wykonania w walce oraz przypisane do nich nagrody.",
+      "kr_sha256": "5b21dd16acb51739c63b52fd649315bf1161f03acf4a7fed02bdb636bd5fb364",
+      "en_sha256": "aaac72dc9a2dec51bd026082b34d519e5a57e730aa6ea17b5926992066e54b1d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_05_title_01].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_06_desc_01].content": {
+      "pl": "Na stronie [Listy misji] wyświetlany jest okres odbioru nagród.",
+      "kr_sha256": "206adbc09a0602eaf37708a6b06f04aa65e785847ed3c032c1419bdb8fe4b582",
+      "en_sha256": "692f04498ba39afab2a72f0e1bfd5f2cba73b88d2a80c7379c7f44ffd7929127",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_06_desc_02].content": {
+      "pl": "Poziomy Łatwy i Trudny mają osobne zestawy misji do wykonania.",
+      "kr_sha256": "9cb36f94ba6eec0b9baaf75ef3937fa7c55e487b487285f5aecf9934d7e8344f",
+      "en_sha256": "b790d2be23738e2d6130d96bd532f46174c03e8a8b948026041b07c1d3118f16",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_06_desc_03].content": {
+      "pl": "Ukończ misje, aby odebrać rozmaite nagrody z [Listy misji].",
+      "kr_sha256": "b12cc61db78c4b88efe205cb6984342ebdcf14e60f310620ff4b6939cc1a2ccd",
+      "en_sha256": "02ea8378ad14a9648d7778abc2b49add817e9755c8dcb182159a42e078df30ec",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_walpu3_07_desc_01].content": {
+      "pl": "Po zakończeniu wydarzenia nadal będziesz mógł toczyć walki „3. Nocy Walpurgii — Do pewnej księgi pewnej biblioteki” i oglądać jej opowieść w zakładce Jazda oraz w Teatrze — [Opowieści Poboczne].",
+      "kr_sha256": "d55ee760f8225063714815579007f46caed1796a4ff010041b979f91262be666",
+      "en_sha256": "3807c2a38307753779abb142f9c3134f0e50f645f61d12f2352603159954b829",
+      "origin": "ai"
+    },
+    "dataList[id=walpu3_modal_no].content": {
+      "pl": "Nie",
+      "kr_sha256": "4c490f1ca1d756f81cf65bd67d61f01ca8c68fb5fb1edbc9c0de5ee7e6c50611",
+      "en_sha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "origin": "ai"
+    },
+    "dataList[id=walpu3_modal_yes].content": {
+      "pl": "Tak",
+      "kr_sha256": "2eb73fba696e2fe4ea0a206ed3d21758e35c7594905d6181d9c34ff19556b17a",
+      "en_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "origin": "ai"
+    },
+    "dataList[id=walpu3_not_progress_event_date].content": {
+      "pl": "Zakończenie okresu wydarzenia",
+      "kr_sha256": "b54ce6259c86e50ae5d93bc0d651caa89288d0752e088bbc7d4c9b54bfa74d34",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=walpu3_reward_event_desc].content": {
+      "pl": "Stłum Święto Wróżek w walkach na Poziomach Łatwym i Trudnym i ukończ misje.\n\nZa ukończone misje otrzymasz różne nagrody.",
+      "kr_sha256": "7053b9552b53f50cdceee5061a3137dbcd8896f9c8b6e3c7a734aa2f3dc33b51",
+      "en_sha256": "02e73d5af20c66451f55906088e0e6d4aa9143806139beb19cb413b07406fa5f",
+      "origin": "ai"
+    },
+    "dataList[id=walpu3_reward_hard_tab].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=walpu3_reward_normal_tab].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_1_wave].content": {
+      "pl": "Piętro Historii — akt {0}",
+      "kr_sha256": "70c0329b2d0e1576977dd44e71a918019bc4bed1389b686bac127248d77b19b8",
+      "en_sha256": "25210dd5c6c1df1ba230caa006187021effa8b50dbf349ac03aa5fe8303265f1",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10555].content": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10556].content": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10557].content": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_lose].content": {
+      "pl": "Tłumienie {0} nieudane",
+      "kr_sha256": "adf1eb35ea3a64e644e6dd6ab899d917af4d717130b69ea5bb998cbe7660069c",
+      "en_sha256": "c9028657b07d297461ab70bf186a20496d8e562d52291966b8cfe2db48bbcd90",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_win].content": {
+      "pl": "Tłumienie {0} udane",
+      "kr_sha256": "3526ae35e3d3dc2d74b416d5e8c4a627ac00dbef14fcc830c19405c21e2d1f7c",
+      "en_sha256": "516ce853dfafc929e029b4e0637952d17eb4b59d4928014dc57cf5c61fcc0e7d",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_turn].content": {
+      "pl": "Scena {0}",
+      "kr_sha256": "930d94325e3860a9721625fcf21f0063ec49d37fdebcda9aa8a1f5000382e4b9",
+      "en_sha256": "0e70651075d7ae646cb1b361dd939513b2bfd28e85bd30fa8957efe1d37f4936",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_modal_enterStage_10555].content": {
+      "pl": "Wkroczyć do księgi Święta Wróżek?",
+      "kr_sha256": "0992ddb0ed748a355e13921086a1f626b664836bab3b9c76f14977edc4a3bf54",
+      "en_sha256": "ca530362e4157b896834d52daa88142224fd694aae1271a326644b9be2063ef9",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_modal_enterStage_10556].content": {
+      "pl": "Wkroczyć do księgi Święta Wróżek?",
+      "kr_sha256": "0992ddb0ed748a355e13921086a1f626b664836bab3b9c76f14977edc4a3bf54",
+      "en_sha256": "ca530362e4157b896834d52daa88142224fd694aae1271a326644b9be2063ef9",
+      "origin": "ai"
+    }
+  }
+}

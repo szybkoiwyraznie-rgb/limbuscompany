@@ -1,0 +1,454 @@
+{
+  "entries": {
+    "dataList[id=add_enemy_level].content": {
+      "pl": "Wzrost poziomu wrogów",
+      "kr_sha256": "20d2718a2e48130edf49b9f13badb83429cc9d34d9e272bb5d5048357eaafad9",
+      "en_sha256": "6ca32c6adfb03619505aa7536eace681a68a51cbdf9d8e686e6ea405698d968c",
+      "origin": "ai"
+    },
+    "dataList[id=battlepass_progress_reward].content": {
+      "pl": "PD Przepustki",
+      "kr_sha256": "30f7b52c1a3e2f90a11313285fd841827aa84057fd0c3c8a43d00c474908fbda",
+      "en_sha256": "a99e47db922353f46f35eb16b0ff26c0cfe979782f1a53e0ad0db5225c2bf843",
+      "origin": "ai"
+    },
+    "dataList[id=choose_starting_ego_gift].content": {
+      "pl": "Wybór początkowego Daru E.G.O",
+      "kr_sha256": "6d54c6204c0d3cc895b3793e0adbfb4ef47f04a93c42441881b42c14775801e2",
+      "en_sha256": "5a319e2e64bbe0c1e258fc79a5e0378eca29eb26d25d415d3f335224e913b7b6",
+      "origin": "ai"
+    },
+    "dataList[id=combine].content": {
+      "pl": "Syntezuj",
+      "kr_sha256": "bb07fb7499eafc9729ad426730be4f8559fb03667bd137ed86e537b4eb8a5596",
+      "en_sha256": "8d2f97503969e3867d129e99ea21060ca9d949248049e7f8ff615b7d7ebd7b28",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_ego_gift_composite].content": {
+      "pl": "Syntezuj Dary",
+      "kr_sha256": "fca57f95712db6c2018462310cea815a8a6dfe4a2041cda4c689738352b1011d",
+      "en_sha256": "6b3eda0de052cff50ad9725c38f1efd0e2d6ecdad1f207fcf4b5143ffd4909dc",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_ego_gift_sell].content": {
+      "pl": "Sprzedaj Dary",
+      "kr_sha256": "c918308519d08da359208b09459c850edd67cd5b76d9200dd11212fc40493589",
+      "en_sha256": "9d8f37ca3af582d1b00faf5541733cc558c0f8d535861ec1837fef57e4747315",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_ego_gift_upgrade].content": {
+      "pl": "Ulepsz Dary",
+      "kr_sha256": "b14bc6a14b12a066372c8f658c5361cc8e8e830cf71ad640fa48a4af05ffffed",
+      "en_sha256": "8acd7ed19d29ada4d37604f5a4f62ee29161a15bf01591cfe246a37dc2346e78",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_refresh].content": {
+      "pl": "Odśwież",
+      "kr_sha256": "8259f9d353516e60d2990fbd0630ae3c0d082f46a47b18426f9fa6025af79f52",
+      "en_sha256": "0e91610117029a62a478b7fa7df0b8598bebe3ab1e192d4b1882e310719c9671",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_combine_ui_main_text].content": {
+      "pl": "Zsyntezować wybrane Dary E.G.O?",
+      "kr_sha256": "2112d3dcf06c2bf5fc33898828fb178d41957f8302c94fcba7c36c2bf37b9d18",
+      "en_sha256": "504440166917edc910fe1c55617a29994b5ff2004d656df52a0f4d0a90e99b96",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_combine_ui_title].content": {
+      "pl": "Synteza Darów E.G.O",
+      "kr_sha256": "11de89ed546981fc48cb16ca5381e0c97e896159fed114eca35420b4eee82a45",
+      "en_sha256": "0069593b04ea4b1ca70edbed331cb73f33b0a9f78c679a8d0dbc6056d00b09e0",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_sell_confirm_format].content": {
+      "pl": "Sprzedać [{0}] za {1} Kosztu?",
+      "kr_sha256": "042da31a12b87a02b3ab5e3965cf0b0e5ce64e6747f18fd311d2df43f0c445bb",
+      "en_sha256": "eefe0f6f40994ac157d20c80321c84e078134242d295d65c2bfed8ad09849c29",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_sell_ui_title].content": {
+      "pl": "Sprzedaż Daru E.G.O",
+      "kr_sha256": "b538d5972a4ec13a8f87837e60053407c4ef1b36aafc07ebabd43b1d90b76159",
+      "en_sha256": "98a2625121ccec4430d5782972a33ae15da12195c7447698988ab7168d4f28e3",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_upgrade_confirm_format].content": {
+      "pl": "Wydać <color=#F8C200>{0}</color> Kosztu, aby ulepszyć Dar E.G.O?",
+      "kr_sha256": "23b27ded1ca20e477ef3b14a922ad6b8b51155ef7c173da60341d680e3952afe",
+      "en_sha256": "85d2a7d041dfd2adf4a0702c45df5274eefd13d714adb27bb772bf990333fc3e",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_upgrade_not_enough_cost_format].content": {
+      "pl": "Brakuje <color=#990000>{0}</color> Kosztu do ulepszenia Daru E.G.O.",
+      "kr_sha256": "46ce2f915f7e68e672666005b7019d3655e426517963bd35bccbf9d6e0d3cbfc",
+      "en_sha256": "c4c849bf813caa75c752a878a3603aeb12fba7f22c87be077d6975ecb67dc8df",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_upgrade_ui_title].content": {
+      "pl": "Ulepszanie Daru E.G.O",
+      "kr_sha256": "2e1b8eb6345ee519e7dabc07c439c9dcc2a65f484876bb17399df2893982012d",
+      "en_sha256": "f05ce35e0dea68ff8188d98b6d090ca84f61249ce53c6cdc825fc84ee2ed9f6c",
+      "origin": "ai"
+    },
+    "dataList[id=expectation].content": {
+      "pl": "Prognoza",
+      "kr_sha256": "d558732dc8ee759f5ce550bf9de83648e1ab7bdca30c05a17850c85e12059701",
+      "en_sha256": "6f2ddd1d52d54eb8e08846ade684c2f154f4d9dce40c89f894e69c002162b53d",
+      "origin": "ai"
+    },
+    "dataList[id=guided_sell_ego_gift].content": {
+      "pl": "Wybierz Dar E.G.O na sprzedaż.",
+      "kr_sha256": "7d86cec430b734d96944046ef2d1148358d33fa9ae622c02d48cd4a57945e63e",
+      "en_sha256": "57050a3426be8150d0628248c832a9ebc4ab7f6ccab4d4f44a68b2a0fe4892f0",
+      "origin": "ai"
+    },
+    "dataList[id=hard_difficulty_simple].content": {
+      "pl": "Trudny",
+      "kr_sha256": "fac94f696643f1bedee656b154eb1c5d9c27ecb455e190b37be53968cf49c549",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_current_explore].content": {
+      "pl": "Stan wyprawy",
+      "kr_sha256": "c197430792de8b1786df915229082819340a8cb8dc875b8228a66a943d850cae",
+      "en_sha256": "71a665d1d267059d399f38b78226120c75444860d8447a8634d84bb404dfd192",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_entrance_button_formation].content": {
+      "pl": "Grzesznicy",
+      "kr_sha256": "dff14b7f8cd694d3427df39c3e94e4facd9e231472615a34ec9b72c48054ec70",
+      "en_sha256": "7064ce559a3edb0f063f7d69ad8a1513fff0eb1f7fcf29f5f7a8002435958356",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_entrance_button_start_buff].content": {
+      "pl": "Wzmocnienia początkowe",
+      "kr_sha256": "ae1681196f70b5cc9f9406a8c7de7976aa997924a1b37509cd5fa6429b3b3146",
+      "en_sha256": "3cb779cafa7667d73d889a9505317b4215de2839c416eadb7303fb4e347903c0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_entrance_hard_hint_after_release].content": {
+      "pl": "[Warunki odblokowania]\nUkończ 4-54\nUkończ Lustro Jeziora (Normalny)",
+      "kr_sha256": "854b79512a50a19de64b839f7328ae8afa4f60b5a17289c572ecf021054a268d",
+      "en_sha256": "5e375466523a95e03dc5403d2926440ece772a2a248e983194f6facb455e4de5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_entrance_hard_hint_before_release].content": {
+      "pl": "Odblokowanie po ukończeniu Canto IV",
+      "kr_sha256": "081e432386578b87ab6a4480c0028dba8a539ab006345d2887140d8296d02a14",
+      "en_sha256": "8759e73bdb3e7f5a8c7707e9cf12a3ad674e576c7c0a7d64c08890bed1df61a0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_hard_reward_info].content": {
+      "pl": "Trudny",
+      "kr_sha256": "fac94f696643f1bedee656b154eb1c5d9c27ecb455e190b37be53968cf49c549",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_normal_reward_info].content": {
+      "pl": "Normalny",
+      "kr_sha256": "512989791c19de3fcf9c18e11580d2895d2a146264cc803e52c86bede3453e4e",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_start_buff_detail].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "d211d97f6bc061212e81e013ceb937f3bf451a0da59d5b6bbca76d783b8d717a",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_start_buff_summary].content": {
+      "pl": "Skrót",
+      "kr_sha256": "50f301540ea6912cc6e4652a87c814ff2942439df2efd48b4dbaca4887e32dac",
+      "en_sha256": "8e76a94ac8320d515375e625bef1829238b097ecbd33611b59eeefd4ffefebfb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon3_start_buff_summary_detail].content": {
+      "pl": "Skrót / Szczegóły",
+      "kr_sha256": "b6293c9820286110e5b7098a8e576eff46836c2e99d660654ffc020c526d85b6",
+      "en_sha256": "ebcf2f5cc4313b00e7ffb8f375c34c98f18a45c7979fed4543a4bcf787a1517d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_purchase_start_buff].content": {
+      "pl": "Wyryj gwiazdy",
+      "kr_sha256": "87f81b0692a60eddc867d0fa1cc04a7472508ec3cd69b4bdec33d70cf2ed31f9",
+      "en_sha256": "f55220e3a510e216aeca71cb63eb28ba70a0460e41e93532c2b1b7eea7bd9259",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_start_buff_name].content": {
+      "pl": "Wzmocnienia początkowe — Gwiezdne Drogowskazy",
+      "kr_sha256": "aeb7dc01f5329256164d5b9f976be41024e32ee27290e76a10ac02142abee850",
+      "en_sha256": "1fcd8324c50b13a621ee24933c863192547a6b21c6984e3dae1239c7fd584e27",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_acquire_ego_gift_desc].content": {
+      "pl": "Zdobywany Dar E.G.O",
+      "kr_sha256": "1e1c8b8cf091391a4f89de5daa2d585bfd18777e65e25ef740907a54a74c5426",
+      "en_sha256": "06a50019da5e68652540382c28345d4671c4c9a98891ad773ab3bd8b20fecc39",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_acquire_enemy_buff].content": {
+      "pl": "Dodawana Próba",
+      "kr_sha256": "048b91fc1271d5ecf3f8183fb3d7dfe13ef502c4cc7c2363969c344a7fc1c7b8",
+      "en_sha256": "4859b579cd447e8ade2af67643a18c8f1648c94e54fd31666185416ad57e6deb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_already_participated].content": {
+      "pl": "W drużynie",
+      "kr_sha256": "9c2a049f1234b81fb172a7eca3ae7801168fe44d73e17efcc1299a142fba9882",
+      "en_sha256": "a41201ccc5be1642b40299c34c70b1058abe9cbf743a15aaf9cbee75869341b3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_atart_buff_activation].content": {
+      "pl": "Aktywuj",
+      "kr_sha256": "0b9ce0d77804bee044a821a43b5f6bf28dda7ff936a90cf7678510a524cc8a20",
+      "en_sha256": "24433c70eba5b15368fe2e1dda94fe3d61db2357aa144363b9ab487e60235ab2",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_atart_buff_diactivation].content": {
+      "pl": "Dezaktywuj",
+      "kr_sha256": "9fd8413ee15caa24dcdc64d3ffe2d965869f40efedd9321e3d9c39a521310f6f",
+      "en_sha256": "fb1e6fa55327160ed84ef7986791adb62976e5ec010cf9b3fcd5009fef19f048",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_exploring].content": {
+      "pl": "! Wyprawa w toku !",
+      "kr_sha256": "ba580b25f3df9041c685e611471542b082a74a25a64e5ecedfe438200eaad428",
+      "en_sha256": "9782919cc9662b948542248ce7a679a5481951073dec5159baf876f4cb5402b1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_give_up_getting_ego_gift_with_enemy_buff].content": {
+      "pl": "Jeśli pominiesz wybór Daru E.G.O, zostanie wylosowana próba piętra.",
+      "kr_sha256": "4073058c1516a7128a9908426dfa5ca025a12afc864a219551550eaa3f8955fa",
+      "en_sha256": "1a91f2ea768f915ab63b1b0ad3c0202e2370a2a53b940bfbed422a0ef8ff0836",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_3_hard].content": {
+      "pl": "Trudny — piętro {0}",
+      "kr_sha256": "0e0e05b6e967cebfa3e89100e9980ac13d44f6a495e576fdb8df2ac0cfe47fa2",
+      "en_sha256": "d1cab9da15718593e79163c860f87d59af8b3c0d32674f4e62ac44cc4df45728",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_3_normal].content": {
+      "pl": "Normalny — piętro {0}",
+      "kr_sha256": "3d8705c0423a29e32c1815fca9ac0fa5746712ed2d01b22ef0b69f07c10bc3a7",
+      "en_sha256": "7e914c0e86b605ee9e4730fe5e57bd5e91a983ee08aaedeb81b5fcdfc836f89c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_before].content": {
+      "pl": "Przed wejściem",
+      "kr_sha256": "8f15360291a2e0cd3371ab600af33987b74dc6896a477f396ad290b22edcdb65",
+      "en_sha256": "a7d8610bc34b677998b8167e3c4143b11ce088382cdbc6425750f4e67820d834",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_reload_select_ego_gift_category].content": {
+      "pl": "Odśwież (1 raz)",
+      "kr_sha256": "333bb973769101d8c106dd8b02afb47e09a7769f4087106ae71ab6dd1f596395",
+      "en_sha256": "5e0ca38e815edfed8039108153d6ee877f4c250eb6170b00965d03c679760cf1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_select_chip_effect].content": {
+      "pl": "Życzenie Gwiazd",
+      "kr_sha256": "d7c0b4a4fd89d947bb643b22f8f4c9811f91a1f34fed2dcb9b0a137555c046e4",
+      "en_sha256": "4e29ad7352b89bb6aa08f74bbfb14428c7c696d2a3e57813d487160d064efcc9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_select_chip_effect_desc_not_selected].content": {
+      "pl": "Zużyj posiadany Gwiezdny Blask, aby aktywować specjalne efekty w tej wyprawie do Lustrzanego Lochu.",
+      "kr_sha256": "3c3c43ddca828bfe1e89cbf2d6316a3a766cbdde57ab19d183708e573c59b1d7",
+      "en_sha256": "7d7bd11d08e9ec3664b9de1b539d5080b11d77cb5b643c1e37166cffff78dccd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_select_chip_effect_desc_selected].content": {
+      "pl": "Zużyj {0} Gwiezdnego Blasku, aby aktywować wybrany efekt w tej wyprawie do Lustrzanego Lochu.\nDopóki nie wyłączysz efektu lub nie wyczerpiesz Gwiezdnego Blasku, pozostanie on automatycznie zaznaczony przy kolejnych wejściach.",
+      "kr_sha256": "d947b4a43559e5cfc824ad4d9b823587a7cca78af1d54b52d177da5e3b2779cf",
+      "en_sha256": "10673494b41483f865367b95f6c283937179b25899e49d62706231facfb979d2",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_selected_ego_gift].content": {
+      "pl": "Wybrany Dar E.G.O",
+      "kr_sha256": "9d5fb820e88dcb9e5646939ef4321af5126be413341d85be583c93b0f4dd0ff0",
+      "en_sha256": "11159c1963c62b7d89d8a2aa5245742d5ff53f81c83fa6dda5c78a0e9a6ff0a8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_change_formation_count].content": {
+      "pl": "Uczestnicy składu",
+      "kr_sha256": "c6461e991b4183e4cc992433e86dd4131a50fe1dc291e75ecdf298e3216a9936",
+      "en_sha256": "1e8543f6f181d2a0a5549d302fb8e7a0fd8a744dd69acab6092bb6a7e24c21f4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_could_not_refresh].content": {
+      "pl": "Nie można odświeżyć",
+      "kr_sha256": "5d78aea25cfec717e3fdb6ce20d866e94200d19e498381e53d9386c0ec2ab735",
+      "en_sha256": "4cfc7ea8668e532f6ff4a39f7f91e1b4885af4a9ae9b4eb382586a57c988c4e3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_unable_to_modify_activation_of_start_buff_during_running].content": {
+      "pl": "Nie można zmieniać aktywacji wzmocnień początkowych podczas trwającej wyprawy do Lustrzanego Lochu.",
+      "kr_sha256": "691ee912e6299864ff6444ccb04141da41678b9ca772f136123ad45fa58c41c3",
+      "en_sha256": "050c9b5127aa5b9a1f790e4f7c91d93cb42a8c6a119a5974ed8ee73ce19cff5f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungoen_ego_gift_history_view_desc].content": {
+      "pl": "Pokaż opis",
+      "kr_sha256": "1e5de3d074b08c415a5fda3e4197a8774f335afdaaf21e48ca0b8a638e6ac2d7",
+      "en_sha256": "4140c237f1767dd4802444098299e6ec3013b09a8127dfc1b89c40a796e428bc",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_edit_start_buff_activation].content": {
+      "pl": "Szybka edycja",
+      "kr_sha256": "0e58a7e55878d277c16f7206b349e04f526b707efdfa7f34f508ed4e84b831af",
+      "en_sha256": "d4e63f569f33182b391ada67d9f7709f9881e1164ca0ba633616a37b213c5f79",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_purchase_buffs_when_parent_buff_off].content": {
+      "pl": "Nie można wyryć gwiazd na wzmocnieniu pobocznym, gdy wzmocnienie główne jest wyłączone.",
+      "kr_sha256": "0fb678ac6803717b974ab7baa0b1d62606121a0a7048188fb86b2d0f9894e554",
+      "en_sha256": "1498102ee6786fefb255a6eb8607f934b2ba46b4c7f19420afdfa9d4406c13b5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_unable_to_change_activation_buffs_when_parent_buff_off].content": {
+      "pl": "Nie można aktywować wzmocnień pobocznych, gdy wzmocnienie główne jest wyłączone.",
+      "kr_sha256": "6998ea269dc448154ad1a80dd432826ecbe74a1e0f8bc83593ca186a1b118307",
+      "en_sha256": "f1557de2f5cc375a8bcb6fbdaacccb00404d891bf387b1b508e2ec035d83cff1",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_unable_to_change_activation_buffs_when_running_dungeon].content": {
+      "pl": "Nie można zmieniać aktywacji wzmocnień początkowych podczas trwającej wyprawy do Lustrzanego Lochu.",
+      "kr_sha256": "691ee912e6299864ff6444ccb04141da41678b9ca772f136123ad45fa58c41c3",
+      "en_sha256": "050c9b5127aa5b9a1f790e4f7c91d93cb42a8c6a119a5974ed8ee73ce19cff5f",
+      "origin": "ai"
+    },
+    "dataList[id=normal_difficulty_simple].content": {
+      "pl": "Normalny",
+      "kr_sha256": "512989791c19de3fcf9c18e11580d2895d2a146264cc803e52c86bede3453e4e",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=number_of_acquired_ego_gift].content": {
+      "pl": "Zdobyte Dary E.G.O",
+      "kr_sha256": "7eb928a9c7985c9331d7e5f6d9fdf21301b683114742becc1bf8a30c14df8eb5",
+      "en_sha256": "391d0e75786c9a001a63792641b1fa243cc4df4fcd09882a8243293e36a4f4c5",
+      "origin": "ai"
+    },
+    "dataList[id=number_of_battles].content": {
+      "pl": "Stoczone walki",
+      "kr_sha256": "958ff15af7bc11866ad1d276ceecd4af3df7cc9aa26ee702fd083bdb80592e49",
+      "en_sha256": "536325061125de5b4bfe30829f68361e04df189e99e6a5eafde022368fb9ccf3",
+      "origin": "ai"
+    },
+    "dataList[id=number_of_cleared_floors].content": {
+      "pl": "Ukończone piętra",
+      "kr_sha256": "b52ee4bd8eb6dc5636ba323e5d8cbac56e436b83cc5a94a1102575a985ac7f97",
+      "en_sha256": "2e11a68ec3344b504d59cbcfb0081aede454b5a1b9720aec0667a3ebce1333df",
+      "origin": "ai"
+    },
+    "dataList[id=number_of_cleared_nodes].content": {
+      "pl": "Ukończone węzły",
+      "kr_sha256": "d76aa5e9ccca54ebff6aaa24833f581ec11d43773fc83a26e7a963727ecc6ae5",
+      "en_sha256": "d8a5acb0b9ce298aafe77ecfbbbe57834c109569c288ebddf4b224eedde93394",
+      "origin": "ai"
+    },
+    "dataList[id=number_of_starlight_nodes].content": {
+      "pl": "Węzły Gwiezdnego Blasku",
+      "kr_sha256": "db45d8ca7fd09f40fbdbabe7b6b374919a7e345f59ce3e943df8dae696a1b41f",
+      "en_sha256": "8ded40bca21b193b7576e4220c53497b0b30b44d4b4e3b990debb2d0754c4a2b",
+      "origin": "ai"
+    },
+    "dataList[id=rest_gauge].content": {
+      "pl": "Premia Odpoczynku",
+      "kr_sha256": "2e3f57aacd01b64538ac06e010125d5c039ce7ef1b0ad429013deaabd417778e",
+      "en_sha256": "51fd30bfe3a06b77b7f8557206cecb344d94b45cca838e0fb2b6cab6713a0926",
+      "origin": "ai"
+    },
+    "dataList[id=selected_gift].content": {
+      "pl": "Wybrane Dary",
+      "kr_sha256": "5cd770d00485ad21b949fa5e6044648f521e1a6b51676f66feb49518f80622eb",
+      "en_sha256": "136ae5cad334f6c68b07952102f55c4ea4f768e811f00ce240da225f4d01af67",
+      "origin": "ai"
+    },
+    "dataList[id=sell].content": {
+      "pl": "Sprzedaj",
+      "kr_sha256": "ee8c398bbe6e22331de3123b3c46b10efd98ef779c48c66da666adb9e6432256",
+      "en_sha256": "2ec1e28159466f2a82a3d778394486baba97f065f20073206788bcfdc7f6d2ec",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_already_owned_tier_ego_gift].content": {
+      "pl": "W tym Przystanku Odpoczynku nie można już uzyskać Daru E.G.O tej rangi poprzez Syntezę.",
+      "kr_sha256": "95952ca67379fb203d4eefcfe8297ac764c86700eec2cf62b1282e8ccaa98ce9",
+      "en_sha256": "dbf3cc9d1429b104b81adaed1c7f0e8baedd9877e5adaa1276e09fffa929b1a6",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_ego_gift_is_maximum_upgraded].content": {
+      "pl": "Ten Dar E.G.O jest już maksymalnie ulepszony.",
+      "kr_sha256": "64bfd9d3cbc3687ba4d69b1d6982f4718302ef09c5cfb5260e5e5c5421129633",
+      "en_sha256": "7414822a76659faad704675227862a86613d2d6d71b374b4f9eba9167d275826",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_ego_gift_is_not_for_sale].content": {
+      "pl": "Tego Daru E.G.O nie można sprzedać.",
+      "kr_sha256": "0d2d6c0fb7e34183bdc58fe3f5127dd6374d7df114e34cd8aa9eb73bc589c6e3",
+      "en_sha256": "965862d38d7975e84ebf4912693ced6fab9dd4d701f9aa542c55111bf3ef8d32",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_ego_gift_is_not_upgradeable].content": {
+      "pl": "Tego Daru E.G.O nie można ulepszyć.",
+      "kr_sha256": "2cf80d0e7857450d8144517c7fd1eabade8ec1f1c233d8b26bdd8bc30296852f",
+      "en_sha256": "f95d4bcef90cbf69aad2812c25c7b2f079ba4f9b87ba4e0159b2cb7f7398eba0",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_ego_gift_is_unable_combine].content": {
+      "pl": "Tego Daru E.G.O nie można użyć do Syntezy.",
+      "kr_sha256": "bfcdb3fc2f6cbbc4f3f67e5728e7fa89f51a21500b9532e85221e8fe9df99980",
+      "en_sha256": "55d51e0e567d3b66e4f259aead8ce5e09ac37628f47db19b86d0a8e35c150f02",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_need_lower_tier_ego_gift].content": {
+      "pl": "Można wybrać wyłącznie Dary E.G.O rangi 3 lub niższej.",
+      "kr_sha256": "f5d5c00dc8dc47e2eaf5462fa09d89cd4633df0bf88be2fd4c0678b507cd05d8",
+      "en_sha256": "27b21d5e35165ae158d801791eded4e9fcb6fbc20058af13867e5fa71e42f3b5",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_need_more_ego_gift].content": {
+      "pl": "Wymagane są co najmniej 2 Dary E.G.O.",
+      "kr_sha256": "915b7510f45e9e2dea5099441273eaeea1cf90a4416ed965bb40dc6a2fdbd935",
+      "en_sha256": "44c987d40a50fbae3518373d70af94925a84567466f4ec95b7f48a1ed9c7e435",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_not_have_any_ego_gift].content": {
+      "pl": "Brak posiadanych Darów E.G.O.",
+      "kr_sha256": "17e1c59a64a58e4a8d990d06a4b8389d2cb3a55fc667a3dc8cdb2f69716258a9",
+      "en_sha256": "e8c5464682291a2f9ef5821174c6210f285abf6c1cd4b909919f4a52ee49c115",
+      "origin": "ai"
+    },
+    "dataList[id=side_title_unable_ego_gift_combine].content": {
+      "pl": "Synteza niemożliwa",
+      "kr_sha256": "91e9ee096409abd03e6b17b813d2a3541db97f083b24195735380c11014471f6",
+      "en_sha256": "e5e360b0fc4c0f704080d9bb83f7d6b58b6c8ca907838c237c40c0c8ae77e428",
+      "origin": "ai"
+    },
+    "dataList[id=side_title_unable_ego_gift_sell].content": {
+      "pl": "Sprzedaż niemożliwa",
+      "kr_sha256": "aac8e1bc408a9b1887b967cba7c4b09289874f2bc9bcf1330584deb36ffb49a8",
+      "en_sha256": "828d0fe5f124b46f04236a6d39c3039140fc6f271c543351d69f3b27eac09468",
+      "origin": "ai"
+    },
+    "dataList[id=side_title_unable_ego_gift_upgrade].content": {
+      "pl": "Nie można ulepszyć",
+      "kr_sha256": "9a2266a48b1f3bce442a5565e98ba0e4d6557f8f6809f9e0d102c7a4a7f83abc",
+      "en_sha256": "f28bfe838f1371df7c6e62dcbc2bf27dfa5f74beeea2248d737273f4637769d8",
+      "origin": "ai"
+    },
+    "dataList[id=starchip_ui_difficulty_ratio_format].content": {
+      "pl": "※ Trudność: {0} [x{1}]",
+      "kr_sha256": "1718be5a635f2854da95927e8bddd5f08592e8c5fa9fa80d524256b23f0917a1",
+      "en_sha256": "4cdba7d7a95dbedb9d40f1534de83f016a073ab70fb4c2915f28e2ee591ae85c",
+      "origin": "ai"
+    },
+    "dataList[id=starlight_reward].content": {
+      "pl": "Gwiezdny Blask",
+      "kr_sha256": "7690c8f1c36e903970579e0a2a094655d019e505ce211f02b54c1be432fb8f81",
+      "en_sha256": "01acc2c38fe0b1cc4f3465e5316d0b9938975d78aa3183eacb8c9fb015f32647",
+      "origin": "ai"
+    }
+  }
+}

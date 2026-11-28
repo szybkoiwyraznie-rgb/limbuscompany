@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1089].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Vulnerable]",
+      "kr_sha256": "099517b08aad9978a7b9a104147154575d539d08a3a9330822abd69e71531c37",
+      "en_sha256": "05d08592959f99e86072b5d2b0b237ff46ffd61a5c1a1e703b0dcb9cb393f5b0",
+      "origin": "ai"
+    },
+    "dataList[id=1089].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Vulnerable]",
+      "kr_sha256": "da8d6e0de5f8c9b37403dbb058f87e69ea43ddb9c0cc3eaa040e3bfc27ec405e",
+      "en_sha256": "095b3c0ff95ad63d45fbbe7bb41708299d3efa8fa0cfdab3c30ff70624e8b000",
+      "origin": "ai"
+    },
+    "dataList[id=1089].panicName": {
+      "pl": "Pyszności",
+      "kr_sha256": "52e23d83c4bf1fe383cff25a4a6b2529430f874c41f5a65fce37c347f91406e7",
+      "en_sha256": "3cd9b04cc8e7e0c466468eefbbe80d061ebed6f4cc4c407493d9c0465e196777",
+      "origin": "ai"
+    }
+  }
+}

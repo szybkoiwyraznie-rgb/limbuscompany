@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=9002].desc": {
+      "pl": "Po użyciu otrzymujesz 401 Darmowego Szaleństwa.",
+      "kr_sha256": "af21f3667703373c3e6517b19c7bc9234682ad42e85f59514b71a74f579078ff",
+      "en_sha256": "152285497609414436031aea12e8d0c77ba23669de961bfe8d0a5b11d476a8f2",
+      "origin": "ai"
+    },
+    "dataList[id=9002].flavor": {
+      "pl": "Jakbym obudził się z najbardziej chaotycznego snu. W słoiku kilka notatek z serdecznymi podziękowaniami, wykrzaczanymi dziecinnym pismem.\n\n…Czemu przypominają mi moje Grzeszników? Chyba jeszcze nie dospane.",
+      "kr_sha256": "11b8fe2dd02fd5e479c6ea3b88afcaf7f6431e28e4f591c940b552e1189eff45",
+      "en_sha256": "2a86f602ece368dcde48384c91b8276ff5a307eae1f2cd66bcbe24582a132224",
+      "origin": "ai"
+    },
+    "dataList[id=9002].name": {
+      "pl": "Skrobane Pożegnania Grzeszników",
+      "kr_sha256": "1bf4f0d9742fcb82b45040a71448d14ad8c3445374f2270d8c47032a5be579e9",
+      "en_sha256": "3329cec0d989cb5ff727d80d4a6c5d6816c00ccdbe52d31da770a2053f84f67c",
+      "origin": "ai"
+    }
+  }
+}

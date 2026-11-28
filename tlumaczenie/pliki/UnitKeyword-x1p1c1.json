@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_X1P1C1_ASSO_1].content": {
+      "pl": "Przedszkole Limbus",
+      "kr_sha256": "05d1b4bc463909a1c78e4e46265de373e058e81a0e6c2becce06d558bc5c4d6b",
+      "en_sha256": "ddd1e25f89f3d9fb13693df361957b800308c0b3d656b18d950df26a5ca6afce",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_X1P1C1_ASSO_2].content": {
+      "pl": "Grupa Pingwinków",
+      "kr_sha256": "183d3f8eb05b5dcc9e4dab664fc26699220c8f872036dcdf0fd94312cbcd7ac1",
+      "en_sha256": "23c61b8d91652908029dca2ff7ad6e2589bb418cde635d060f2622160747ebd1",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_X1P1C1_ASSO_3].content": {
+      "pl": "Grupa Kurczaczków",
+      "kr_sha256": "84f767ab9ffae5c8fe65d5b72079338b6f9f1d49b2ad9b40f555fc06b1c7e877",
+      "en_sha256": "72bb143228fe07469688e0dcce0882feec198364aff6d9b6424796a0ec99c3f7",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_X1P1C1_ASSO_4].content": {
+      "pl": "Grupa Słoników",
+      "kr_sha256": "f55b2f8f7cbf3f7a28f884616a1e7b1aa852f0d2585fe76ff1c069aa8c3699a3",
+      "en_sha256": "efe086f782c3c107a8180934b301d66f17f6ad620a0ff059bb14511ba36ce72e",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_X1P1C1_KEYWORD_1].content": {
+      "pl": "Do Chrupiącego Smażenia",
+      "kr_sha256": "a17613ee52d72a9e332c32cc89ebd6bfa9716cc2b36147d570f9ca3966065964",
+      "en_sha256": "72c3732447fd0f34656405882467a2c12b050fffd8b95de83cb641435bf0fd1d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_X1P1C1_KEYWORD_2].content": {
+      "pl": "Do Słodkiego Gulaszu",
+      "kr_sha256": "9889cc22ea9605578504c5334e04b517f45c9290c0fd4baf054a0df13736fe90",
+      "en_sha256": "aab38acc29608dafa922cd7fb01ed2bbf236f48641927913ca6d9c2981c5196c",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_X1P1C1_KEYWORD_3].content": {
+      "pl": "Do Kwaśnego Duszenia",
+      "kr_sha256": "76f952516a4d61eb66c37b3b536339bb4afcbee1380d43a0570208ddd5df4fac",
+      "en_sha256": "aa86d6b450b15ab46fb0435fa988f4870a9de3b71b21e97dc6d74ad402d010e8",
+      "origin": "ai"
+    }
+  }
+}

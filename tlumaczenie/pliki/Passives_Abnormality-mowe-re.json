@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=123801].desc": {
+      "pl": "Na koniec tury, w zależności od Licznika [KeptBlood] jednostki:\n- nakłada na jednostkę +2 [Laceration] i +1 Licznika [Laceration] za każdy Licznik\n- przy 5 lub mniej Liczników: w następnej turze zyskuje 1 [Binding], 1 [Vulnerable], 1 [AttackDown] i traci 5 SP za każde (6 - Liczników) (ten efekt nie może obniżyć SP jednostki poniżej -20)\n- przy więcej niż 5 Liczników: w następnej turze zyskuje 1 [AttackUp], 1 [DefenseUp] i przywraca 8 SP za każde (Liczników - 5) (ten efekt nie może podnieść SP jednostki powyżej 30)",
+      "kr_sha256": "471d4662375f3b32bec4d07811a7a475c377b514b85db825c925c189a0f1ed08",
+      "en_sha256": "a5a02972c02a233e03b83b41cb997b748e6ad4e15b92511ba7c111dd691c021b",
+      "origin": "ai"
+    },
+    "dataList[id=123801].name": {
+      "pl": "Stored Blood",
+      "kr_sha256": "4cddfc64fc89594089142ab57f64e0284e2372b3d62ca0c5cb8a5f96e7d010b5",
+      "en_sha256": "7ee53fcd551fe6110cbc9814c3ee5ca453bfbd3d86a01699d68bbdcdb2f4c08f",
+      "origin": "ai"
+    },
+    "dataList[id=123805].desc": {
+      "pl": "przy wejściu, przywraca 30 SP\nNa początku tury: jeżeli jednostka ma [Laceration]:\n- zyskuje 1 [AttackUp] i 1 [DefenseUp] za każde 5 [Laceration] (maks. 5)\n- zyskuje 1 [ParryingResultUp] za każde 10 [Laceration] (maks. 2)\notrzymuje o 50% mniej obrażeń od [Laceration] (zaokrąglone w dół)",
+      "kr_sha256": "7d5c59bd3e63b92b4fc233ff89a464cae76802b753f7bdacfbd7ca4e70d66791",
+      "en_sha256": "5cce9db90ffc39eb0ccb188ac786db30cea1b6c517678dbc5dc97e79297e4490",
+      "origin": "ai"
+    },
+    "dataList[id=123805].name": {
+      "pl": "Sanguivore - Coagulation",
+      "kr_sha256": "b06b2173fcc697ae113c56d1735b75b28b60c8cef763b2c07713ce621b6b2611",
+      "en_sha256": "4d3697b6026afabe384d5d888c637170aafea2a3c76911e6098cd863f1cb20fd",
+      "origin": "ai"
+    },
+    "dataList[id=123806].desc": {
+      "pl": "jeżeli wrogowie obejmują Bloodfiends z La Manchalandy, zyskuje następujące efekty:\n- podczas Starcia z Bloodfiends z La Manchalandy, traci 4 Moc Starcia\n- atakując Bloodfiends z La Manchalandy, traci 5 SP (1 raz na Umiejętność; maks. 2 razy na turę)\n- zadaje o 20% mniej obrażeń Umiejętnościami Bloodfiends z La Manchalandy",
+      "kr_sha256": "1267f6df221546199b44c50f300d70d502fbe3ce740278def3bf7a885092fb16",
+      "en_sha256": "cad3b569e2888ef2a02210c7a0c71f57791da8f34837b3b1d33258719823e52f",
+      "origin": "ai"
+    },
+    "dataList[id=123806].name": {
+      "pl": "Nightmare of La Manchaland",
+      "kr_sha256": "3c4b0d341379d2ad8f47301b1f347fb952d7d2da937497d6853eccd6ef1ff617",
+      "en_sha256": "413b5d7f63c0cb393bd1f01fb2e6c83bb988e0e1e32bcbb56cc20b8c5e7524c0",
+      "origin": "ai"
+    },
+    "dataList[id=130502].desc": {
+      "pl": "przy wejściu, przywraca 20 SP\nNa początku tury: przywraca 1 SP za każdy Licznik [Charge] (maks. 15)\nNa początku tury: jeżeli Licznik [Charge] jest niższy niż 5, nakłada 1 [Reduction]\nNa początku tury: przy 5+ Licznikach [Charge], zyskuje 2 [ParryingResultUp]\nNa początku tury: przy 10+ Licznikach [Charge], zyskuje 1 [PlusCoinValueUp]\nNa początku tury: przy 15+ Licznikach [Charge], Podstawowe Umiejętności ataku zadają dodatkowo +([Charge] jednostki x 2)% obrażeń",
+      "kr_sha256": "6ee1b33264993850960b697806301726ac8e22cabf080efc2ec9cfc63ff6d431",
+      "en_sha256": "fbbca1d0d06179c220492a2769ccd5fbb8a2eb30470989b1607fdc9edd455f1d",
+      "origin": "ai"
+    },
+    "dataList[id=130502].name": {
+      "pl": "Prosthesis Model - L37",
+      "kr_sha256": "e7679977f74e06ae62be01588e3097ec34d8f90153c68160d01189a7e445df90",
+      "en_sha256": "bf7ecc627038593b0648f707f4cc767b337bbeec5e3f23b29d53e8b01da9391d",
+      "origin": "ai"
+    }
+  }
+}

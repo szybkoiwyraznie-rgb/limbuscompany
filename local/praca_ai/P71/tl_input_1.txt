@@ -1,0 +1,131 @@
+1||(ulepszenie 1) — nazwa] 이벤트가 남아있어!|We've an Event for You!
+2||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 50 소모하여, 소모한 [BloodDinner] 10당 [BloodScissor] 1 얻음\n[WhenUse] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 5, [HardenedBlood]을 1 얻음.\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1|[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If target has 5+ [Laceration], Coin Power +1
+3||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+5||(ulepszenie 1) — nazwa] 재촉하지마|Don't Rush Me
+6||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] [BloodScissor]에 비례해서, 합 위력 +1 (최대 3)\n[HardenedBlood]당 피해량 +7% (최대 35%)\n[EndSkill] [HardenedBlood] 전부 소모|[WhenUse] If target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]
+7||(ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+8||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Laceration] 8 부여|[OnSucceedAttackHead] Inflict 8 [Laceration]
+9||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [BloodScissor]를 최대 5 소모하여 피해량 (20 * 소모한 [BloodScissor])% 증가 (최대 100%)|[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% damage (max 100%)
+10||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 최대 체력의 (대상의 [Laceration] 위력)%만큼 체력 회복 (최대 30%)|[OnSucceedAttack] Heal ([Laceration] Potency on target)% HP (max 30%)
+11||(ulepszenie 1) — nazwa] 반격|Counter
+12||(ulepszenie 1) — opis] [WhenUse] [BloodScissor] 1 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [HardenedBlood] 3 이상이면 코인 위력 +1|[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1
+13||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+14||(ulepszenie 1) — nazwa] 더 많이 와줘|More, More!
+15||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+17||(ulepszenie 1) — nazwa] 조금 더 먹을래|I'll Have Some More
+18||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 4 이상이면, 피해량 +10%|[WhenUse] If target has 4+ [Laceration], deal +10% damage
+19||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+20||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, [HardenedBlood]을 1 얻음|[OnSucceedAttack] If target has 5+ [Laceration], gain 1 [HardenedBlood]
+21||(ulepszenie 1) — nazwa] 맛이 기가 막힐거야!|What Heavenly Taste!
+22||(ulepszenie 1) — opis] [WhenUse] 혈찬을 최대 50 소모하여 소모한 혈찬 10당 [BloodScissor] 1 얻음.\n[WhenUse] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 5, [HardenedBlood]을 1 얻음.\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1|[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If target has 5+ [Laceration], Coin Power +1
+25||(ulepszenie 1) — nazwa] 쥐새끼 같은 꼴이구나!|You Rat Bastard!
+28||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8 부여|[OnSucceedAttack] Inflict 8 [Laceration]
+34||(ulepszenie 1) — nazwa] 내려치기|Slam
+35||(ulepszenie 1) — opis] 대상의 [Burst]이 5 이상이면, 피해량 +10%|If target has 5+ [Burst], deal +10% damage
+36||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Burst]
+37||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [DefenseDown] 1 부여|[OnSucceedAttack] Inflict 1 [DefenseDown]
+38||(ulepszenie 1) — nazwa] 상처 짓이기기|Crush Wounds
+39||(ulepszenie 1) — opis] 대상의 [Burst]이 5 이상이면, 기본 위력 +1|If target has 5+ [Burst], Base Power +1
+40||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 1 부여|[OnSucceedAttack] Inflict 1 [Burst]
+41||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [TakeHpHealReduce] 1 부여|[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]
+42||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst]이 5 이상이면, 추가로 [TakeHpHealReduce] 1 부여|[OnSucceedAttack] If target has 5+ [Burst], inflict 1 [TakeHpHealReduce] as well
+43||(ulepszenie 1) — nazwa] 과격한 내려찍기|Wild Swinging
+44||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 10 이상이면, 이 스킬로 적중 시 [Burst] 횟수를 소모하지 않음|[WhenUse] If target has 10+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit
+45||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Burst] Count
+46||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+47||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 4 부여|[OnSucceedAttack] Inflict 4 [Burst]
+48||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst]이 10 이상이면, 피해량 +30%|[OnSucceedAttack] If target has 10+ [Burst], deal +30% damage
+49||(ulepszenie 1) — nazwa] 지혈|Hemostasis
+50||(ulepszenie 1) — opis] [WhenUse] 자신에게 [Laceration]이 있다면, 자신의 [Laceration] 2 감소 (1 미만으로는 감소하지 않음)|[WhenUse] If this unit has [Laceration], lose 2 [Laceration] (does not drop below 1)
+52||(ulepszenie 1) — opis] 대상의 [Burst] 횟수가 3 이상이면, 피해량 +10%|If target has 3+ [Burst] Count, deal +10% damage
+53||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+56||(ulepszenie 1) — opis] 대상의 [Burst] 횟수가 3 이상이면, 기본 위력 +1|If target has 3+ [Burst] Count, Base Power +1
+67||(ulepszenie 1) — opis] [WhenUse] 자신에게 [Laceration]이 있다면, 자신의 [Laceration] 2 감소(1 미만으로는 감소하지 않음)|[WhenUse] If this unit has [Laceration], lose 2 [Laceration] (does not drop below 1)
+68||(ulepszenie 1) — nazwa] 행패부리기|Plain Villainy
+69||(ulepszenie 1) — opis] [WhenUse] [Breath] 2 얻음|[WhenUse] Gain 2 [Breath]
+70||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여|[OnSucceedAttack] Inflict 1 [Laceration]
+71||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Paralysis] 1 부여|[OnSucceedAttack] Inflict 1 [Paralysis]
+72||(ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] 피해량 20% 증가|[CriticalOnSucceedAttack] Deal +20% damage
+73||(ulepszenie 1) — nazwa] 핍박하기|Bullying
+77||(ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] 대상이 [TrulyWeak] 디버프를 가지고 있으면, 피해량 30% 증가|[CriticalOnSucceedAttack] If target has [TrulyWeak], deal +30% damage
+78||(ulepszenie 1) — nazwa] "으르렁.."|"Grrr..."
+79||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 2 부여|[OnSucceedAttack] Inflict 2 [Burst]
+80||(ulepszenie 1) — nazwa] "크르렁.."|"Krrr..."
+81||(ulepszenie 1) — opis] 대상에게 [Laceration]이 5 이상 있으면, 피해량 +10%|If target has 5+ [Laceration], deal +10% damage
+84||(ulepszenie 1) — nazwa] 아니, 그러니까.."으르렁"|Listen, you sod. It's— "Grrrr."
+85||(ulepszenie 1) — opis] 대상에게 [Laceration]이 5 이상 있으면, 코인 위력 +1|If target has 5+ [Laceration], Coin Power +1
+89||(ulepszenie 1) — nazwa] ...|...
+90||(ulepszenie 1) — opis] [WhenUse] [Protection] 1 얻음|[WhenUse] Gain 1 [Protection]
+91||(ulepszenie 1) — nazwa] 야, 나 이거 계속 해야돼?|Oi, can we stop now?
+92||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Enhancement] 1 얻음|[WhenUse] Gain 1 [Enhancement] next turn
+93||Pasywka wroga [837101] — nazwa] 여유로운 기회|Casual Opportunity
+94||Pasywka wroga [837101] — opis] 턴 시작 시 자신의 속도가 적보다 높으면, [PenetrateDamageUp] 1 얻음|Turn Start: if this unit's Speed is faster than the target's, gain 1 [PenetrateDamageUp]
+95||Pasywka wroga [837102] — nazwa] 느긋한 숨고르기|Leisurely Breathing
+96||Pasywka wroga [837102] — opis] 턴 종료 시 정신력 7 회복\n턴 종료 시 (자신의 [Breath] / 4)만큼 다음 턴에 [Agility] 얻음 (최대 3)|Turn End: Heal 7 SP\nTurn End: Gain [Agility] equal to ([Breath] on self/4) next turn (max 3)
+97||Pasywka wroga [837103] — nazwa] 1:1 대결|Single Combat
+98||Pasywka wroga [837103] — opis] 대상이 흐트러짐 상태일 때, '살뤼'를 사용함|Use Salut if the target is Staggered
+99||Pasywka wroga [837104] — nazwa] 집중 공격|Focused Attack
+100||Pasywka wroga [837104] — opis] 이전 턴에 공격 성공한 슬롯에 스킬 사용시 누적된 공격 성공 턴 수에 따라 다음과 같은 효과를 얻음.\n이전 턴에 공격하지 못했을 때, 초기화됨.\n- 공격 성공 누적 1턴: 합 위력 +1\n- 공격 성공 누적 2턴: 기본 위력 + 1\n- 공격 성공 누적 3턴: 기본 위력 + 1, 코인 위력 + 1|When using a Skill against the same Slot this unit successfully hit last turn, gain the following effects based on the number of consecutive turns it successfully hit the Slot\nResets if this unit failed to attack last turn.\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1
+101||Pasywka wroga [837201] — nazwa] 너부터 오려줄게!|I'll Cut You First!
+102||Pasywka wroga [837201] — opis] [LineCutting]을 우선 공격함.|Prioritizes [LineCutting].
+103||Pasywka wroga [837202] — nazwa] 경혈식 가위|Hardblood Scissor
+104||Pasywka wroga [837202] — opis] 합 승리 시 대상에게 [Laceration]이 있으면, 입힌 체력 피해량의 40%만큼 부위와 본체 체력 회복\n공격 종료 시 체력을 100만큼 회복한 경우, 정신력 10 회복\n파괴 불가 코인의 경우 합 패배 후 적중 시 이 효과는 발동되지 않음.|On Clash Win, if the target has [Laceration], heal this unit's Part & Core by 40% of the HP damage dealt.\nAttack End: If this unit healed at least 100 HP, heal 10 SP\nThis effect does not activate On Hit with an Unbreakable Coin Skill if it loses the Clash.
+105||Pasywka wroga [837202] — podsumowanie] 출혈 상태인 적 공격시 체력 회복. 체력을 100 회복했으면 정신력도 회복.|Heal when attacking enemies with Bleed. When this unit heals 100 HP, heal SP as well.
+106||Pasywka wroga [837203] — nazwa] 아름답지 않은 건 필요없어!!|I Don't Need Ugly Things!!
+107||Pasywka wroga [837203] — opis] 적 중에서 전체 체력의 30%만큼 남은 적이 있다면, '아름답지 않은 건 필요없어!!'스킬을 사용함.|If there are any enemies with 30% or less HP, use 'I Don't Need Ugly Things!!' Skill.
+108||Pasywka wroga [837204] — nazwa] 아직 끝나지 않았어|It's Not Over Yet
+109||Pasywka wroga [837204] — opis] 자신의 전체 체력의 40%가 남았을 때, 패턴 변경\n패턴 변경 시, 매 턴마다 [Laceration] 10, [BloodScissor] 2를 얻음.|Gains a new pattern at 40% of this unit's max HP\nUpon pattern change, gain 10 [Laceration] and 2 [BloodScissor].
+110||Pasywka wroga [837205] — nazwa] 혈찬|Bloodfeast
+111||Pasywka wroga [837205] — opis] 이 캐릭터가 전투에 등장해 있거나, 등장할 적 리스트에 포함되어 있으면, 1턴부터 모든 캐릭터가 받은 [Laceration] 피해만큼 [BloodDinner]이 증가함.\n이 캐릭터가 전투에 등장할 때 전장에 흩뿌려진 잠재된 피가 더욱 드러난다.|If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will rise above the surface.
+112||Pasywka wroga [837206] — nazwa] 피를 머금은 가위|Bloodsteeped Scissors
+113||Pasywka wroga [837206] — opis] 전투 시작 시, [BloodScissor]을 10 얻음\n- [BloodScissor]이 1 미만으로 감소하지 않음\n- [BloodScissor]이 10 이상이면, [BloodScissorTwo] 로 전환됨.\n- [BloodScissor]이 20 이상이면, [BloodScissorThree] 로 전환됨\n[BloodScissor]이 소모되어, 부족해지면 이전 단계가 됨|Combat Start: gain 10 [BloodScissor]\n- [BloodScissor] cannot drop below 1\n- At 10+ [BloodScissor], convert them to [BloodScissorTwo].\n- At 20+ [BloodScissor], convert them to [BloodScissorThree].\nIf this unit consumes [BloodScissor] and drops below the above thresholds, convert them accordingly.
+114||Pasywka wroga [837207] — nazwa] 굶주림과 노쇠|Starved and Withered
+115||Pasywka wroga [837207] — opis] 전투 시작 시, [StarvingBarberTwo] 얻음|Combat Start: gain [StarvingBarberTwo]
+116||Pasywka wroga [837208] — nazwa] 피... 피... 피...!|Blood... Blood... Blood...!
+117||Pasywka wroga [837208] — opis] 턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.\n패닉 상태가 해제될 때\n- [BloodDinner]을 30 소모하여 다음 턴에 [Enhancement] 2,  [BloodScissor]을 1 얻고, 정신력 20 회복.\n- [BloodDinner]을 소모하지 못했으면, [Laceration]을 30 얻고, [Laceration]로 인한 피해를 즉시 발동시킨 후, [Laceration] 횟수가 3 감소함. 이후 다음 턴에 [Enhancement] 2, [AttackDmgUp] 2를 얻고, 정신력 20 회복.|Turn End: If Panicked, recover from Panic at the next Turn Start and reset SP to 0.\nWhen recovering from Panic:\n- Consume 30 [BloodDinner] to gain 2 [Enhancement] and 1 [BloodScissor] next turn, and heal 20 SP.\n- If this unit failed to consume [BloodDinner], gain 30 [Laceration], immediately take the damage from [Laceration], then lose 3 [Laceration] Count. Then, gain 2 [Enhancement], 2 [AttackDmgUp], and heal 20 SP next turn.
+118||Pasywka wroga [9999997] — nazwa] 패닉 회복|Panic Recovery
+119||Pasywka wroga [9999997] — opis] 턴 종료 시 패닉 상태라면 정신력이 0이됨.|Turn End: if in Panic, reset SP to 0.
+120||Pasywka wroga [9999996] — nazwa] 패닉 변경 불가|Fixed Panic
+121||Pasywka wroga [9999996] — opis] 패닉 유형을 변경하는 버프 획득 시, 패닉 유형이 변경되지 않음. 대신 정신력이 없는 대상에게 부여되는 효과가 부여됨|This unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against Non-SP Units.
+123||Pasywka wroga [9015206] — opis] 전투 시작 시, [StarvingBarberOne] 얻음|Gain [StarvingBarberOne] at the start of the Encounter
+124||Pasywka wroga [9015202] — nazwa] 노쇠|Withered
+125||Pasywka wroga [9015202] — opis] 턴 시작 시 [Laceration]이 있는 대상이 없으면, 속도 최댓값 -2 (아군, 적군 전부 포함)|Turn Start: if no one has [Laceration], Min Speed -2 (checks both allies & enemies)
+126||Pasywka wroga [9015203] — nazwa] 흡혈|Bloodsucking
+127||Pasywka wroga [9015203] — opis] 공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복|On Hit, if the target has [Laceration], heal by 15% of damage dealt
+128||Pasywka wroga [9015204] — nazwa] 혈액 경화|Blood Coagulation
+129||Pasywka wroga [9015204] — opis] 공격 종료시 대상의 [Laceration]이 8 이상이면, [HardenedBlood] 1 얻음|Attack End: If the target has 8+ [Laceration], gain 1 [HardenedBlood]
+130||Pasywka wroga [9015205] — nazwa] 핏빛 가위날|Blood-tinged Scissorblades
+131||Pasywka wroga [9015205] — opis] [BloodScissor]이 1 이상이면, 가위의 날이 강화됨.|At 1+ [BloodScissor], enhance the blades of the scissor.
+132||Pasywka wroga [9015207] — nazwa] 피주머니|Bloodbag
+133||Pasywka wroga [9015207] — opis] 피격 시 자신의 [Laceration] 횟수 1 증가.\n체력이 20% 감소할 때마다 [HardenedBlood] 1 얻음.\n아군 또는 적에 혈귀가 있는 경우, 사망 시, [BloodDinner]이 30만큼 증가|When hit, gain +1 [Laceration] Count.\nGain 1 [HardenedBlood] every time this unit loses 20% HP.\nIf there is a Bloodfiend on the field, regardless of whether it is an ally or an enemy, increase [BloodDinner] by 30
+135||Pasywka wroga [9015401] — opis] 공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 20%만큼 체력 회복|On Hit, if the target has [Laceration], heal by 20% of damage dealt
+137||Pasywka wroga [9015402] — opis] 공격 종료시 대상의 [Laceration]이 5 이상이면, [HardenedBlood] 1 얻음|Attack End: If the target has 5+ [Laceration], gain 1 [HardenedBlood]
+138||Pasywka wroga [9015403] — nazwa] 피의 갈증|Thirst for Blood
+139||Pasywka wroga [9015403] — opis] - [Laceration]이 부여된 대상을 우선적으로 공격\n- 턴 종료 시 이번 턴에 피해를 주지 못한 경우, 다음 턴에 취약 2, 공격 레벨 증가 2를 얻음\n- 턴 종료 시 이번 턴에 피해를 줬다면,정신력 5 회복|- Prioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 Offense Level Up next turn\n- Turn End: if this unit dealt damage this turn, heal 5 SP
+141||Pasywka wroga [9015404] — opis] 이 캐릭터가 전투에 등장해 있거나, 등장할 적 리스트에 포함되어 있으면, 1턴부터 모든 캐릭터가 받은 [Laceration] 피해만큼 [BloodDinner]이 증가함.\n이 캐릭터가 전투에 등장할 때 전장에 흩뿌려진 잠재된 피를 드러낸다.|If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will surface.
+143||Pasywka wroga [9015405] — opis] [BloodScissor]이 2 이상이면, 가위의 날이 강화됨.|At 2+ [BloodScissor], enhance the blades of the scissor.
+144||Pasywka wroga [9015601] — nazwa] 혈귀 사냥꾼|Bloodfiend Hunter
+145||Pasywka wroga [9015601] — opis] 대상이 <혈귀>, <피주머니>면 피해량 +10%|If the target is a <Bloodfiend> or a <Bloodbag>, deal +10% damage
+146||Pasywka wroga [9015602] — nazwa] 과격한 사냥법|Aggressive Hunting Techniques
+147||Pasywka wroga [9015602] — opis] 적에게 공격 스킬 적중 시 10% 확률로 [Burst] 횟수 2 증가|When hitting an enemy with an Attack Skill, 10% chance to inflict +2 [Burst] Count
+148||Pasywka wroga [9015603] — nazwa] 대 혈귀전용 망치|Anti-Bloodfiend Hammer
+149||Pasywka wroga [9015603] — opis] 스킬 사용 시, 대상의 [Burst]이 10 이상이면, 스킬에서 [Burst]을 부여하는 대신 피해량이 30% 증가|On Skill use, if the target has 10+ [Burst], deal +30% damage instead of inflicting [Burst] with this unit's Skills
+150||Pasywka wroga [9015604] — nazwa] 지혈제|Styptics
+151||Pasywka wroga [9015604] — opis] 턴 종료시, 자신에게 [Laceration]이 있으면 [Laceration] 횟수 1 감소|Turn End: if this unit has [Laceration], lose 1 [Laceration] Count
+152||Pasywka wroga [9016001] — nazwa] 약자 표식|Weakling Mark
+153||Pasywka wroga [9016001] — opis] 합 승리시, 대상에게 [TrulyWeak] 디버프를 부여함|On Clash Win, inflict [TrulyWeak]
+154||Pasywka wroga [9016002] — nazwa] 악의 무리|The Wicked Caitiffs
+155||Pasywka wroga [9016002] — opis] 약자를 괴롭히는 것을 좋아함|Loves bullying the weak
+156||Pasywka wroga [9016003] — nazwa] 비열함|Bullies
+157||Pasywka wroga [9016003] — opis] [TrulyWeak] 디버프를 가진 적을 공격할 때, 합 위력 1 증가|Clash Power +1 when attacking an enemy with [TrulyWeak]
+158||Pasywka wroga [9016101] — nazwa] 시시하지 않은 전투|An Encounter of Moderate Difficulty
+159||Pasywka wroga [9016101] — opis] 이 캐릭터가 가하는 피해량 +15%|Deals +15% damage
+160||Pasywka wroga [9016102] — nazwa] 사람까지 잡아먹는 곰|The Man-eating Bear
+161||Pasywka wroga [9016102] — opis] 현재 체력이 최대 체력의 50% 이하인 대상에게 가하는 피해량 +25%|Deal +25% damage against targets with 50%- HP
+162||Pasywka wroga [9016103] — nazwa] 무시무시함|Big & Scary
+163||Pasywka wroga [9016103] — opis] 합 진행 시 대상의 정신력이 1 감소할 수도 있음|In a Clash, the opponent just might lose 1 SP, maybe
+164||Wróg / część [90173] — nazwa] 괴로운 행렬의 피주머니|Bloodbag of the Painful Parade
+165||Wróg / część [90173] — opis] 잡몹|Unit
+166||Wróg / część [90174] — nazwa] 뒤따르는 행렬의 피주머니|Bloodbag of the Rear Parade
+168||Wróg / część [90175] — nazwa] 행복한 행렬의 혈귀|Bloodfiend of the Happy Parade
+170||Wróg / część [90176] — nazwa] 즐거운 행렬의 혈귀|Bloodfiend of the Joyful Parade

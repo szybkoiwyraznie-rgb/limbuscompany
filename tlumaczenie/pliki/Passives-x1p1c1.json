@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=40002501].desc": {
+      "pl": "Nakłada 1 Wzrostu Obrażeń na 2 sojuszników ustawionych za tą jednostką na panelu",
+      "kr_sha256": "f94e91b68b8aaa3bef5852e8f16574e675ee9d4c400c708e000f16ef443f3d19",
+      "en_sha256": "f4ae41b0842126ebda61b92bf2db8e06a4d11babd15ef3cbcf6cc472bc7f1303",
+      "origin": "ai"
+    },
+    "dataList[id=40002501].name": {
+      "pl": "Pszekaz Infomacji",
+      "kr_sha256": "46f5238a0d5a7ad786bb92e474235a7dbdfb61867314e9fe13d4a996ac0474cc",
+      "en_sha256": "ad647b2efb44cac082f77ad5c794051a7653f838cef75a9a40db8372a818d188",
+      "origin": "ai"
+    },
+    "dataList[id=40002502].desc": {
+      "pl": "Sojusznik z najniższą Poczytalnością: jeżeli w tej turze stracił Poczytalność, na koniec tury odzyskuje 10 Poczytalności",
+      "kr_sha256": "2f141079b8a89e27fbf467d2ac69d996a47eee7f613a4f26a8af03bc7117ab02",
+      "en_sha256": "2aee133dafdf788b042b405086e6851fa54c2eb4aa0ac09739cbdd2b270ba281",
+      "origin": "ai"
+    },
+    "dataList[id=40002502].name": {
+      "pl": "Neutwalizacja Infomacji",
+      "kr_sha256": "24a6f662c494184893eadd6949eaf249472ee2d53acf9c5241ac77e325fe4510",
+      "en_sha256": "4398ff28e1a146fb9777912119abb7cf7e5c79447b19bb1abab7b6310c7a382f",
+      "origin": "ai"
+    },
+    "dataList[id=40002601].desc": {
+      "pl": "Zadaje +10% obrażeń celom z negatywnymi efektami",
+      "kr_sha256": "901e6875863e1eeb72a6ecfab8acfd6cc56a29879fc2a1ae722293f2b2502917",
+      "en_sha256": "2ff0c382f1109ab3a602146ece63d11acb23be8e5388485b5d1e460babd5ea84",
+      "origin": "ai"
+    },
+    "dataList[id=40002601].name": {
+      "pl": "Anawytic Ewe",
+      "kr_sha256": "44a233ecb566c917b16d2e472ff9f838c225d3eda7a55c155ffafbbf01d895e4",
+      "en_sha256": "4e091c2389efd54ac38670a79b3a8fc08dc463a2b626b0f49784bfbca610b022",
+      "origin": "ai"
+    },
+    "dataList[id=40002602].desc": {
+      "pl": "1 Sojusznik z najwyższym Maks. HP: przy trafieniu atakiem z 25% szansą nakłada 2 Spadku Poziomu Ataku",
+      "kr_sha256": "3a9c01febd88451ab99bc9d4b6f94543cf41f15ccfa8361e61fee9f48b06830e",
+      "en_sha256": "b6138b602040aa81f821ed0388c9677e7064d114401d4a59e96694d72c230173",
+      "origin": "ai"
+    },
+    "dataList[id=40002602].name": {
+      "pl": "Keen Obsewashun",
+      "kr_sha256": "320ff44acb0611d3d7819437b029e1b3ee52141f85789b71da431ddf0cc29713",
+      "en_sha256": "1105798465c74d4d82ebfd97dcbca7802dc89c8f17ba577e91c406e7b4553069",
+      "origin": "ai"
+    },
+    "dataList[id=40002701].desc": {
+      "pl": "Po wygranym Starciu zadaje +10% obrażeń tą Umiejętnością",
+      "kr_sha256": "508f05beffc80ecb822294905702d581a0fc89891f91b7e35446a63e3eab977c",
+      "en_sha256": "8538f2790d34118ed16fef5361c98b7af8b0232119994d3408506782b48d300d",
+      "origin": "ai"
+    },
+    "dataList[id=40002701].name": {
+      "pl": "Wicheous Retwibyushun",
+      "kr_sha256": "975e2314c371a66d6b8566b5df05f2d467ff00bfb15562044e3063b16d771ae6",
+      "en_sha256": "482367c93a6c18854d165d3ff7250e6ce684700406b1cb4369364515048d0b86",
+      "origin": "ai"
+    },
+    "dataList[id=40002702].desc": {
+      "pl": "1 Sojusznik z najwyższą Poczytalnością: Umiejętności Kłucia zadają +10% obrażeń",
+      "kr_sha256": "efa3a773476c98abff6edf07f3ea532e5d8efe79a0198f9928fd6ca8b2c1a098",
+      "en_sha256": "ecf26b8b150f20c0474c2b2cfc043486b387b37ceb71a21f88d096ac88a5df38",
+      "origin": "ai"
+    },
+    "dataList[id=40002702].name": {
+      "pl": "Wsparcie",
+      "kr_sha256": "4c612bbe2171dfdacdd3dfa65b642b2a21f39cde5c4e51651062c6c3f4bc107b",
+      "en_sha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3",
+      "origin": "ai"
+    },
+    "dataList[id=40002801].desc": {
+      "pl": "Zadaje i otrzymuje +25% obrażeń.",
+      "kr_sha256": "1f9d0eb619b4b21feb546807c903886981df81aabd8c0247793f2e86e298e0f5",
+      "en_sha256": "08a2238b613567a328e43e5f855d3a847d8be145ec523a26e03464e9a63714a5",
+      "origin": "ai"
+    },
+    "dataList[id=40002801].name": {
+      "pl": "Indiscwiminate Awt",
+      "kr_sha256": "6117fbb5453193a5115e3bf1462d8aff6844ff44c785d3f65af0c44b20c5a11a",
+      "en_sha256": "75f2f7617569345673dd66c30d1f79732b789266233545449dfbe9e58f0aaa5c",
+      "origin": "ai"
+    },
+    "dataList[id=40002802].desc": {
+      "pl": "1 Sojusznik z najniższym Maks. HP zadaje i otrzymuje +20% obrażeń.",
+      "kr_sha256": "8c25a888a64242bd773bdbcca507e409868ae1581ce5ed62c2be10e7f9d86bd4",
+      "en_sha256": "ab82a51668e07669a5770ae5eff77708ed732b3cb9830fc3ddc93f83685555b5",
+      "origin": "ai"
+    },
+    "dataList[id=40002802].name": {
+      "pl": "Hustlwe",
+      "kr_sha256": "185b8fe076d737689c061568afe5584a9572f412c4d0d4bc0305701a1e70b8ce",
+      "en_sha256": "69da17fe8c258c98c36420dcbb904d23f0bc55c6e0ace233be920092a342b3e6",
+      "origin": "ai"
+    },
+    "dataList[id=40002901].desc": {
+      "pl": "Na początku walki przy HP poniżej 50% zyskuje 1 Ochrony",
+      "kr_sha256": "9b5efdfcb636d933438b9303b8c9c428cc3e94962bac4ff23daac8cbed79aed8",
+      "en_sha256": "4be684aee0939577b66df562af321e21e6eaa4a5bfe5881dc27117cd13b4f5e9",
+      "origin": "ai"
+    },
+    "dataList[id=40002901].name": {
+      "pl": "Stawchnesh",
+      "kr_sha256": "04a64299a2f5ce5214aa4b0c0afce8818ac7153a159c518c4b7f59de6e70f0a9",
+      "en_sha256": "4ac519d23194c3e31907b51af2dd2a45ab09da5e9d19569ec18b6eb07fb538a8",
+      "origin": "ai"
+    },
+    "dataList[id=40002902].desc": {
+      "pl": "1 Sojusznik z najwyższym Maks. HP otrzymuje -10% obrażeń od Umiejętności ataku.",
+      "kr_sha256": "476a2c8e64566d5ecec1eb7a106f6976b386018f93524269a096eab607aa0128",
+      "en_sha256": "f77a358f0dd1ab00793566701802a67b31bbf82afa817271c0d2be38f5aa08e7",
+      "origin": "ai"
+    },
+    "dataList[id=40002902].name": {
+      "pl": "Backap",
+      "kr_sha256": "e3657a075177d461893d35d06fe876179735b267e168f787cf6378a13885c7ab",
+      "en_sha256": "fb0d85ae47540b3f1c31fe0bd0aafb403d28fe05cdd2acc456a191f159975b9e",
+      "origin": "ai"
+    },
+    "dataList[id=40003001].desc": {
+      "pl": "Odzyskuje w następnej turze 6 Poczytalności.",
+      "kr_sha256": "086eee7b32ce22fec0c2b7f3597d7596dcb8a260c034f89d392a5b5294bdef84",
+      "en_sha256": "6bde34bf839598f31573d4178e2671a0903aee13a9fa85b951587a113f2c29b2",
+      "origin": "ai"
+    },
+    "dataList[id=40003001].name": {
+      "pl": "— nazwa] Rozrywka",
+      "kr_sha256": "131d05775b38c5c48ae1e6df44437961bb94cac6e7b8f1ea9aebf83cae5dcabd",
+      "en_sha256": "48ac21f41e560dc850c840cdbb5a28c1ef5acb7356720631125585d8906093ae",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].desc": {
+      "pl": "Na początku walki 1 Sojusznik z najniższą Poczytalnością odzyskuje 6 Poczytalności.",
+      "kr_sha256": "96e8ddf14944abb58c9cc07e98c9fb66b46fae3b196be11c5a91ac24618a6792",
+      "en_sha256": "0e87ec92563b7020e7733530784bab4f5313fbf02756895acd762190283f104a",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].name": {
+      "pl": "— nazwa] Bezsensowne Żarciki",
+      "kr_sha256": "935c302500db0969763ce8953fa0db17694ff63d9a2f357ec7b2de9bb29c3732",
+      "en_sha256": "6b851172df887b109e831992c30150fb296151be93665d0703d734f3e28e65bc",
+      "origin": "ai"
+    },
+    "dataList[id=40003101].desc": {
+      "pl": "— opis] Zadaje +10% obrażeń celom z wyższym Maks. HP.",
+      "kr_sha256": "fa5fd615cb71a8beee4985eb6c775711d585b372bfb06b1d79aa33dd9bced835",
+      "en_sha256": "62381fdb3e58e2900f0a08f15a8342627c65613e7d0479616608593b0ccd105f",
+      "origin": "ai"
+    },
+    "dataList[id=40003101].name": {
+      "pl": "— nazwa] Reszenszimen",
+      "kr_sha256": "dc1ec8fc78690cdcd59ba4477f071efc6a67151a02625a7cdee58fb55d660704",
+      "en_sha256": "c7a39d10e281eb7dd950ee0ecd62a341b1e0d7e601240745e83812f09a31e7d8",
+      "origin": "ai"
+    },
+    "dataList[id=40003102].desc": {
+      "pl": "— opis] 1 Sojusznik z najniższym Maks. HP zadaje +10% obrażeń Uderzenia.",
+      "kr_sha256": "5e8d6658bd570e620eb993687b26a674e48320de365b5661c5a6896127eabce9",
+      "en_sha256": "11d741e50dc9edea737d8baa1302faccadfea27234ef2bac3dc29a8023de33c1",
+      "origin": "ai"
+    },
+    "dataList[id=40003102].name": {
+      "pl": "— nazwa] Napędzany Złością",
+      "kr_sha256": "df5b4e33a5f0199f5bd2605613f98f5d94ac29014dd7fe6da48ac19116eb2bfa",
+      "en_sha256": "93aba63a7d7158f143cdc078a743c40f96a846e6a3f41a3abf45da5af5aa78b3",
+      "origin": "ai"
+    },
+    "dataList[id=40003201].desc": {
+      "pl": "Przy HP poniżej 25% zyskuje Moc Starcia +1 w starciu",
+      "kr_sha256": "db647efadf529304cd8e092d2d54eab30fd57dd52ef46dd5fa4a1e65dc9ca9f9",
+      "en_sha256": "f1d1a75888562ca7afaa9a1b030b01c843e2c59cd5945173dc2561242c8a3c60",
+      "origin": "ai"
+    },
+    "dataList[id=40003201].name": {
+      "pl": "— nazwa] Ostatnie Zrywy",
+      "kr_sha256": "cd542b70de3d4d033a5d064d60ae4fa4d75af693e692ceac0a50d4c49fd2448c",
+      "en_sha256": "1e0e728bddfa2b679979be6fd4df91db0dc20f8fd3a0d8bb3e143a729075c03f",
+      "origin": "ai"
+    },
+    "dataList[id=40003202].desc": {
+      "pl": "Sojusznik z najniższym HP poniżej 50% Maks. HP zyskuje Moc Starcia +1 w starciu",
+      "kr_sha256": "03438ade139f034b855936a4a80671a3aa4907297cc1181050bdf939da043784",
+      "en_sha256": "260397f898d616900361e5a3ed2cf92bc32dbed51a90d59604bf36834fe378f0",
+      "origin": "ai"
+    },
+    "dataList[id=40003202].name": {
+      "pl": "— nazwa] Postanowienie Przetrwania",
+      "kr_sha256": "baf817cf17d96d919ef24ed247c2ce65809f4f3c6f2e73270c2e8332a9ddadb1",
+      "en_sha256": "fef8512e265698aee0fc04d0c165fb48a0de47b1c3cceba5491ef0af1a1fe082",
+      "origin": "ai"
+    },
+    "dataList[id=40003301].desc": {
+      "pl": "Przy trafieniu 50% szansy na nałożenie 1 Krwawienia.",
+      "kr_sha256": "e9510060120a97daf7e11642428d31fba8727b5add0a87f6928bc7eea4a42aa8",
+      "en_sha256": "c4313baaebc32d54c14d9fe7de061e7774eca582435452392939bc636a25cf87",
+      "origin": "ai"
+    },
+    "dataList[id=40003301].name": {
+      "pl": "— nazwa] Rozłupanie Zła",
+      "kr_sha256": "d7b416d7fd2769877afdbcbbccdf18a73bd085395dcfa4471739e061b8c0a107",
+      "en_sha256": "2f273f7abc91518dad673e9b8fa4c22ffc6a6fb4a639c97da445af0c56894530",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].desc": {
+      "pl": "1 Sojusznik z najwyższym HP zadaje +20% obrażeń monetami awersu.",
+      "kr_sha256": "e859a4cb93202a36ddaef88b1cb3f95373a89ad26f935d48792785ae6793a302",
+      "en_sha256": "31ebd8e2654726f5ab33334371e2d0166b7fa329f8b3736a45ff06fe7687014f",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].name": {
+      "pl": "— nazwa] Hazardzistka",
+      "kr_sha256": "ce6cb7e9757fce56c98d5d84d732b5a7be76ec555782c21867599f2c023be4f5",
+      "en_sha256": "663bb5acfc35005a936e9f33e26dbc83a02c8a71266ba335c6d09fc05700fdc4",
+      "origin": "ai"
+    },
+    "dataList[id=40003401].desc": {
+      "pl": "Jeżeli w tej turze ginie sojusznik, zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "169f79b25026eae00bfacb5c0198a56df2002e80b7e4fa74aad718e475c0d826",
+      "en_sha256": "b0748cf9c69e045c7ce95f4bcc99ee6ed66755de6ea42047620df84785ee1c12",
+      "origin": "ai"
+    },
+    "dataList[id=40003401].name": {
+      "pl": "Stawchnesh",
+      "kr_sha256": "04a64299a2f5ce5214aa4b0c0afce8818ac7153a159c518c4b7f59de6e70f0a9",
+      "en_sha256": "62f6cf1fdc0c20f5c4b05d69096f680a9af310be3fcf7d7513766a8ffd78bca2",
+      "origin": "ai"
+    },
+    "dataList[id=40003402].desc": {
+      "pl": "1 Sojusznik z najniższą Poczytalnością: zyskuje 1 Wzrost Mocy Ataku w turze po śmierci innego sojusznika",
+      "kr_sha256": "0c4329ab12bd3e9aaeecd66433cc1d4fc51a774547f6642a24ffb37ac8c59903",
+      "en_sha256": "6e437c1f5fefc6c657efd7a0b5e45b59cc9a18a96dcbf3e64f364a9ae659c857",
+      "origin": "ai"
+    },
+    "dataList[id=40003402].name": {
+      "pl": "— nazwa] Uraza",
+      "kr_sha256": "5a95e34aa6df0fd55aa0611b8c913bbdb255474260f29bf78633c2fceff920c5",
+      "en_sha256": "9345dfa468277cd71538e7ee2a58bb88bb266a44f6fd626bfe6aafadef8798f1",
+      "origin": "ai"
+    },
+    "dataList[id=40003501].desc": {
+      "pl": "Gdy Poczytalność celu jest poniżej 0, zadaje +10% obrażeń",
+      "kr_sha256": "6394bd23c6db19c77f9baca98e60005cba21f35d7f11fccbc789a6ce45509824",
+      "en_sha256": "2f81e12b5ecaa23fd8a5d0eeb779b21ff5e8faff5e0d4d68c3f576204577364a",
+      "origin": "ai"
+    },
+    "dataList[id=40003501].name": {
+      "pl": "Egzekutor",
+      "kr_sha256": "d61f42b26c0da6ccfd4c0cc7108e627944add2d42e1715ebbad7ab7828718d17",
+      "en_sha256": "a12697d208aca7ac1aca0524de7a78462bff1d5a59efcb537b51a203abaffe6f",
+      "origin": "ai"
+    },
+    "dataList[id=40003502].desc": {
+      "pl": "1 Sojusznik z najwyższym HP zadaje +30% obrażeń wrogom z Poczytalnością poniżej 0",
+      "kr_sha256": "f83e471ea1b002c6a00a4a2d35f0638d2cefef5a10045dfafbdf11da1f0a575f",
+      "en_sha256": "147d2dd769506f148315d67fba1a38e44f4b46b0b42c6dc76e918b94dbc8d2b9",
+      "origin": "ai"
+    },
+    "dataList[id=40003502].name": {
+      "pl": "Żołnierski Duh",
+      "kr_sha256": "9afda83186bc6a239324303b15223a8ca2bc2c713b4bb352224bc3d2252c2e20",
+      "en_sha256": "5301ded41a332bee33e55bc6e9444d10c7407b53c79403d96f5648533a0ab4ca",
+      "origin": "ai"
+    },
+    "dataList[id=40003601].desc": {
+      "pl": "Odzyskuje 5 HP na początku fazy walki",
+      "kr_sha256": "a74f425244568c11b7b12b0827cabdaa8ba95468604649bb966b961c73335a8d",
+      "en_sha256": "36317dff9fe5b1d4ff08d307144bba09b750ab183ae2eb31a8ebad8a8c6bf7ef",
+      "origin": "ai"
+    },
+    "dataList[id=40003601].name": {
+      "pl": "— nazwa] Wymuszona Egzystencja",
+      "kr_sha256": "bd3ef33e5fb6b9ac91071e35863522cfaa0fa649fe7c546ddb16b96cab8d3d42",
+      "en_sha256": "c16b3e52f05a7eeb63010c981b34a3566d4d72b14ec751764fd651869a17d29c",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].desc": {
+      "pl": "Na początku fazy walki 1 Sojusznik z najniższym HP odzyskuje 5 HP",
+      "kr_sha256": "2af40effb91477f61606c634b1e9b18c7726d093852ca53ee6a30b26831c73b6",
+      "en_sha256": "0f981f08fb3e1535180577f9532f51d070ac4a7b6fe378545ddc5d4c84e2b03c",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].name": {
+      "pl": "— nazwa] Kod Genowy G-0",
+      "kr_sha256": "e158ec99f7bafc61dc9af779b468b4e206c3b16169f216acd7e64677f170934e",
+      "en_sha256": "b958a22182101864d3b8adc7a18ffae51f6c03b97d980e68924088e443edca69",
+      "origin": "ai"
+    }
+  }
+}

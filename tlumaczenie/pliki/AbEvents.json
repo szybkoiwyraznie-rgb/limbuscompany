@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=804501].title": {
+      "pl": "Shock Centipede",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=804601].title": {
+      "pl": "Drifting Fox",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=804701].title": {
+      "pl": "So That No One Will Cry",
+      "kr_sha256": "2c54ae6796f8f632ca927767e50556d5f7ea02e127cf782f8a6fc4423a34d8c6",
+      "en_sha256": "5b0d4e31944a59cebca590808f82da35e272f3b52ec801ab3aa76c70685b457e",
+      "origin": "ai"
+    },
+    "dataList[id=804801].title": {
+      "pl": "Fairy Gentleman",
+      "kr_sha256": "e23e5a9a7e2c1c1d68583f7f74a8a123325ae1fc90cc99cbe0c86f75d7b1b0f0",
+      "en_sha256": "9e73cfce0aad0c0e914038930f9d254c361d6e551c16a7797e29a2293f8535b8",
+      "origin": "ai"
+    },
+    "dataList[id=851001].title": {
+      "pl": "Blubbering Toad",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=851901].title": {
+      "pl": "Kqe-1j-23",
+      "kr_sha256": "96369d123d0b490b069f3b4780e2f95328a77fee5ca39d26ca360f158f6ddf5c",
+      "en_sha256": "7f0c6155326de122e4998a2623b50da98a88357e2af3b34f52e47ea2f42413e9",
+      "origin": "ai"
+    },
+    "dataList[id=852701].title": {
+      "pl": "My Form Empties",
+      "kr_sha256": "431f49d42256146bef82208002335a14c228820268c318c7575b7cb001d57aa2",
+      "en_sha256": "91a22cada51b386a9180bc8d7d16216dbbd8c3046fcd307f450c40c55abb581d",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+17700||RPGSystem#rpg-loc-dialogue-floor-b1.json] 하긴 여기가 그 정신적인… 아무튼 뭔가 특이한 공간이라고 했었나… 뭐, 이러면 이 협상은 결렬이구만.|Yeah, this place is supposed to be some kind of mental... uh, a weird space we shouldn't mess around in, right? Guess that kills the deal, then.
+17701||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그래도 교환 의사가 있는 다른 품목에 대해 설명해준다면…|If there's another item you would be willing to accept in exchange—
+17702||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이젠 그 벌레 팔이 아니면 안 되는 거예요! 이미 저는 벌레벌레한 향을 맡아버렸다는 거예요!|Nothing else'll do now, you hear? Not after that delicious whiff of your buggy-buggy aroma, you hear?!
+17703||RPGSystem#rpg-loc-dialogue-floor-b1.json] 요리사 중에서도 차석, 흔히 부주방장이라고 불리는 직책입니다.|The second-highest rank in a kitchen, commonly referred to as the deputy or assistant head chef.
+17704||RPGSystem#rpg-loc-dialogue-floor-b1.json] <막무가내잖아…>|<She's not listening to reason at all...>
+17705||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이렇게 된 이상, 기여할 수밖에 없도록 해주겠다는 거예요.|Fine! I'll just have to make sure you contribute whether you want to or not, you hear?!
+17706||RPGSystem#rpg-loc-dialogue-floor-b1.json] 벌레 팔을 내놓으란 거예요!|Hand over the bug arm, you hear?!
+17707||RPGSystem#rpg-loc-dialogue-floor-b1.json] 어이구… 이젠 교환도 아니고 그냥 뺏으려고 하네.|Oh, great... Straight to robbery she goes.
+17708||RPGSystem#rpg-loc-dialogue-floor-b1.json] 맞는 거예요. 부셰 말고는 누구도 제 위에 없다는 거예요.|Exactly, you hear? Nobody outranks me except Boucher, you hear?
+17709||RPGSystem#rpg-loc-dialogue-floor-b1.json] <보기보다 높은 위치에 있구나.>|<Far more a bigshot than I expected... despite appearances.>
+17710||RPGSystem#rpg-loc-dialogue-floor-b1.json] <아, 그럼 황금고치가 어디 있는지도 알고 있지 않을까?>|<Then maybe she knows where the Golden Cocoon is?>
+17711||RPGSystem#rpg-loc-dialogue-floor-b1.json] 내 말에 파우스트는 고개를 끄덕이며 한 발자국 앞으로 나섰다.|Faust nodded and stepped forward.
+17712||RPGSystem#rpg-loc-dialogue-floor-b1.json] …저희는 황금고치를 찾고 있습니다.|... We are searching for the Golden Cocoon.
+17713||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그치만… 벌레 팔 너무 탐났다는 거예요… 벌레벌레한 풍미가…|But... I <i>neeeed</i> the bug arm, you hear...? Need that buggy-buggy flavor...
+17714||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아까부터 벌레, 벌레. 이 양반이 진짜…|Alright, that's enough buggy outta you. You're really starting to—
+17715||RPGSystem#rpg-loc-dialogue-floor-b1.json] 히이익! 또, 또 때리려는 거예요! 도망쳐야겠다는 거예요!|Heeeeugh! Y-you better not hit me again, you hear?! I'm gonna skedaddle, you hear?!
+17716||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그러니까 먼저 싸우자고 달려든 건 우리가 아니라… 어어!? 진짜 도망가는데!?|Like I said, we're not the ones who started—hey!? She's getting away!
+17717||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…도망쳤네. 어떻게 할까?>|<... Aaand she's gone. What now?>
+17718||RPGSystem#rpg-loc-dialogue-floor-b1.json] 물어볼 게 많이 남았으니, 쫓아가는 편이 좋을 테죠.|We still have more questions to ask. Pursuit would be the optimal course of action.
+17719||RPGSystem#rpg-loc-dialogue-floor-b1.json] 알겠다는 거예요!|On it, you hear?
+17720||RPGSystem#rpg-loc-dialogue-floor-b1.json] 숨 쉬는 건 하나밖에 안 남았다는 거예요!|There's only one still breathing, you hear?
+17721||RPGSystem#rpg-loc-dialogue-floor-b1.json] …왜 그것밖에 안 남았지?|... Just one? How'd that happen?
+17722||RPGSystem#rpg-loc-dialogue-floor-b1.json] 몇 시즌 내내 유체로만 맛을 내서 그렇다는 거예요!|Because we've been using larvae to flavor the soda up season after season, you hear?
+17723||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이제는 살아있는 유체를 구하기가 어려워졌다는 거예요…|Getting living larvae's become a real toughie these days, you hear?
+17724||RPGSystem#rpg-loc-dialogue-floor-b1.json] 떠밀려 올 유체가 이제 다 되었다는 건가. 이제야 이전 시대가 완전히 흔적도 남지 않고 사라지는 거겠지…|So there are no more larvae left to wash ashore. I suppose this is where the last vestiges of the previous age finally vanish without a trace...
+17725||RPGSystem#rpg-loc-dialogue-floor-b1.json] 슬슬 베이스를 바꿀 때가 되긴 했군… 그 유체 맛은 뭐로 대체했었지?|... It may be time to start using something else as the base ingredient. What substitutes do we have?
+17726||RPGSystem#rpg-loc-dialogue-floor-b1.json] 까망갈치… 황금송진… 피식자의 사유… 그리고 벌레벌레 팔인 거예요!|Camemblack Scabbardfish... Golden Resin... Ruminations of the Prey... and the buggy-buggy arm, you hear?
+17727||RPGSystem#rpg-loc-dialogue-floor-b1.json] …내 팔은 재료로 쓰면 안 된다니까 자꾸 그러네.|... My arm's out of the question, you hear? Quit pushing it.
+17728||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그보다 그 유체… 라는 게 황금고치인 건가?|Anyways, that "larva" you mentioned—is that the Golden Cocoon?
+17729||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그래. 유체에 붙어있는 가장 맛있는 부위지.|Correct. It's only the most flavorful part attached to the larva.
+17730||RPGSystem#rpg-loc-dialogue-floor-b1.json] <진짜 먹거리였네…>|<So it really was food...>
+17731||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그중에서는… 피식자의 사유, 그 고기가 좋겠군. 요새 구하기가 까다로워서 거의 쓰질 않았으니, 신선할 거야.|Ruminations of the Prey. Yes, that cut of meat will do. We've not been using it much on account of it being difficult to get, so you should be able to get your hands on a fresh cut.
+17732||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그 재료는 어디서 구할 수 있지?|Where can we acquire it?
+17733||RPGSystem#rpg-loc-dialogue-floor-b1.json] 가져올 텐가? 재료를 수급해주면, 남은 유체에서 황금고치를 떼어줄 수는 있다.|So you will bring it here? Very well. Provide us the ingredient, and we will peel a Golden Cocoon off the remaining larva for you.
+17734||RPGSystem#rpg-loc-dialogue-floor-b1.json] 천장에 대롱대롱 매달려있다는 거예요! 황금가죽을 덕지덕지 붙여서 에이징했다는 거예요!|It's dingle-dangling from the ceiling, you hear? Dry-aged in layers of Golden Hide, you hear?!
+17735||RPGSystem#rpg-loc-dialogue-floor-b1.json] 신선정육코너의 시식담당자들이 심혈을 기울여 숙성시키고 있을 테니, 그냥 떼오긴 어려울 거야. 뭐, 귀찮은 부분은 너희가 알아서 해결하겠지.|Food testers at the Fresh Meat Section are probably having one hell of a time aging it, so procuring it'll probably be a bit more involved than just going down there and plucking it off the hook. Well, I'll leave it to you to deal with the annoying part of the job.
+17736||RPGSystem#rpg-loc-dialogue-floor-b1.json] 창고에 있는 특산품이 필요하다고 해서 데려왔다는 거예요.|I brought them because they need the specialty ingredient in the storeroom, you hear?
+17737||RPGSystem#rpg-loc-dialogue-floor-b1.json] 정확히는 황금고치가 필요하다. 그레고르의 팔은 내어줄 수 없지만, 눈알이라면…|More precisely, we require the Golden Cocoon. We cannot surrender Gregor's arm, but we could offer eyeballs—
+17738||RPGSystem#rpg-loc-dialogue-floor-b1.json] 눈알은 필요 없어. 이미 차고 넘치게 갖고 있지.|I don't need eyeballs—already got more than I know what to do with.
+17739||RPGSystem#rpg-loc-dialogue-floor-b1.json] 애초에… 시즌 막바지라 그게 창고에 남아있는지도 모르겠군.|Besides, I don't know if we even have any left in stock... The season's nearly over, you see.
+17740||RPGSystem#rpg-loc-dialogue-floor-b1.json] 수셰프, 창고에 떠밀려온 유체 몇 개 남았는지 확인해봐.|Sous Chef, go check how many beached larvae we have in the storeroom.
+17741||RPGSystem#rpg-loc-dialogue-floor-b1.json] 수셰프, 질문할 것이 있다.|Sous Chef. I have a question.
+17742||RPGSystem#rpg-loc-dialogue-floor-b1.json] 피식자의 사유인지 뭔지 하는 게 어떻게 생겼는지 알려줘야 우리가 그 소다에 기여를 해줄 수가 있지 않겠어? 수셰프라면 수셰프답게 잘 알려줬으면 하는데.|How're we supposed to get you that Ruminations thing if you won't even tell us what it looks like? Come on, we're trying to make a "contribution" here—you're the Sous Chef, aren't you? Act like one.
+17743||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그 벌레 팔이 딱이지만… 모두를 위해선 정육 소다가 더 중요하니… 수셰프답게 알려주는 거예요.|The buggy buggy arm would be perfect... but the Meat Soda matters more for everyone's sake, you hear? I'll answer because I'm a good, responsible Sous Chef, you hear?
+17744||RPGSystem#rpg-loc-dialogue-floor-b1.json] 피식자의 사유는 제일 왼쪽에 걸려있는 거예요. 대롱대롱인 거예요. 갈비뼈 사이 반짝반짝인 거예요.|The Ruminations of the Prey hang at the far left, you hear? They dangle-dongle, you hear? Something glitters between the ribs, you hear?
+17745||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…황금가죽이 붙어 있는 고기.>|<... Then we should look for a cut of meat with the Golden Hide attached.>
+17746||RPGSystem#rpg-loc-dialogue-floor-b1.json] 호오, 진작 그렇게 알려주면 얼마나 좋아.|Oh? You could've told us from the start, you know. Would've saved us both a lot of trouble.
+17747||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그 팔 싫어하는 게 아닌 거예요?|Wondering if you don't hate that arm, you hear?
+17748||RPGSystem#rpg-loc-dialogue-floor-b1.json] …싫어하지. 싫어하고말고. 매일 떼어내고 싶었는걸.|... I do hate it. Like you wouldn't believe it. I don't go a day without wanting to rip it clean off my body.
+17749||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그럼 기여하면 되는 거예요! 왜 안 하는 거예요?|That you can just contribute, you hear? Wondering why you wouldn't, you hear?
+17750||RPGSystem#rpg-loc-dialogue-floor-b1.json] 싫어해도 말이지, 결코 버릴 수 없는 게 있는 거야, 수셰프.|Sometimes, Sous Chef... there are things that stick to you no matter how much you hate them, you hear?
+17751||RPGSystem#rpg-loc-dialogue-floor-b1.json] 탐나지만… 그럼 아끼는 거예요. 이만 가보는 거예요. 나도 바쁜 거예요.|I still want it... But if that's so, cherish it, you hear? Now I must go, you hear? You're not the only one who's busy, you hear?
+17752||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뭐… 뭐인 거예요?|W-what is it, you hear?
+17753||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…오>|<Oh, wow.>
+17754||RPGSystem#rpg-loc-dialogue-floor-b1.json] 설득과 협박을 능숙하게 사용하는군요, 그레고르. 하나 배웠어요.|You transitioned between persuasion and intimidation with notable fluency, Gregor. Faust must admit that Faust has learned something today.
+17755||RPGSystem#rpg-loc-dialogue-floor-b1.json] 매우 효과적인 접근 방식이었다.|It was an exceptionally effective method.
+17756||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아잇… 갑자기 왜들 이래? 큼…일단… 가자고.|Eh... Since when did you start giving me compliments like that, fellas? ... Ahem. Anyhow... Let's get moving.
+17757||RPGSystem#rpg-loc-dialogue-floor-b1.json] 피식자의 사유는 어떤 종류이고, 어떻게 식별할 수 있는지 묻고자 한다.|I want to know what form the Ruminations of the Prey take and by what criteria they may be identified.
+17758||RPGSystem#rpg-loc-dialogue-floor-b1.json] 모르는 거예요.|I don't know, you hear?
+17759||RPGSystem#rpg-loc-dialogue-floor-b1.json] 저흰 정육 소다에 기여하고자 합니다. 부디 조언을 부탁드립니다.|We intend to contribute to the Meat Soda. Your guidance would be appreciated.
+17760||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이봐… 수세미 씨.|Hey... Soup Chef.
+17761||RPGSystem#rpg-loc-dialogue-floor-b1.json] 모르는 건 모르는 거예요…!|I don't know, you hear?! I don't know!
+17762||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아이 진짜… 후우… 그래, 수셰프 씨.|Good grief... *puff* All right, "Sous Chef."
+17763||RPGSystem#rpg-loc-dialogue-floor-b1.json] 바짝 마른 고기다. 육포에 가깝다. 설명에는 아주 신선한 고기라는데.|A desiccated slab of meat, closer to jerky than anything else. The description insists it is exceptionally fresh...
+17764||RPGSystem#rpg-loc-dialogue-floor-b1.json] ‘피식자의 사유’를 찾았다.|Obtained the "Ruminations of the Prey."
+17765||RPGSystem#rpg-loc-dialogue-floor-b1.json] <걱정했던 것보단 빨리 끝났네.>|<Whew. That didn't take too long.>
+17766||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그 입만 산 놈도 문제지만 그 고기를 탐내는 놈들이 더 짜증나게 하는구만.|The talk-too-much runt is annoying enough, but all those other bastards drooling over the meat are worse. Tch.
+17767||RPGSystem#rpg-loc-dialogue-floor-b1.json] 황금가죽이 극소량이나마 섞인 고기인 만큼, 모두가 탐낼 만하다.|The meat contains a minute quantity of the Golden Hide. It's reasonable that they want it for themselves.
+17768||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이제 부셰에게 되돌아가시죠.|We should now return to Boucher.
+17769||RPGSystem#rpg-loc-dialogue-floor-b1.json] <그러자.>|<Let's go.>
+17770||RPGSystem#rpg-loc-dialogue-floor-b1.json] 사지 멀쩡하게 돌아왔군. 거기 플람베된 머리통이랑 함께 팔 네 짝 정도는 매달렸을 거라 생각했는데 말이지.|Back in one piece, I see. Thought I'd find at least four arms dangling from meat hooks beside flambé-head.
+17771||RPGSystem#rpg-loc-dialogue-floor-b1.json] 피식자의 사유는 챙겨왔나?|Where's the Ruminations of the Prey?
+17772||RPGSystem#rpg-loc-dialogue-floor-b1.json] 킁킁… 나는 거예요, 냄새가 나는 거예요! 똑바로 챙겨온 거예요.|*sniff* *sniff* The smell, you hear? I can smell it, you hear? You got the right one, you hear?
+17773||RPGSystem#rpg-loc-dialogue-floor-b1.json] 신선도가 떨어지기 전에, 창고에 가져다 둬라.|Put it in the storeroom before it spoils.
+17774||RPGSystem#rpg-loc-dialogue-floor-b1.json] 값은… 똑바로 쳐주어야겠지. 버둥거리는 유체도 갖고 오고.|And we'll see that they're given a fair reward for it. Bring a larva here—the one that's still squirming.
+17775||RPGSystem#rpg-loc-dialogue-floor-b1.json] 알겠다는 거예요!|Be right back, you hear?!
+17776||RPGSystem#rpg-loc-dialogue-floor-b1.json] 발을 떼는 걸음이 너무도 가볍다.|Each of my steps feels impossibly light.
+17777||RPGSystem#rpg-loc-dialogue-floor-b1.json] 올라가는지, 내려가는지도 모른 채 발끝에 푹신한 감각이 배어든다.|I'm not quite certain whether I am ascending or descending, but I feel the soft sensation of cushioning enveloping the tip of my feet.
+17778||RPGSystem#rpg-loc-dialogue-floor-b1.json] 희미한 바람이 느껴지며, 조금씩 빛이 가까워진다.|A faint breeze brushes past, and the light gradually draws nearer.
+17779||RPGSystem#rpg-loc-dialogue-floor-b1.json] 점점 올라가는 것 같았던 감각도 잠시, 곧 천천히 완만하게 걸음이 아래로 이어진다.|For a moment, it feels as though we are climbing. Then the slope slowly levels, and our steps lead us to a descent.
+17780||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뫼르소를 따라 에스컬레이터의 첫 계단을 밟는다.|I step onto the first staircase behind Meursault.
+17781||RPGSystem#rpg-loc-dialogue-floor-b1.json] 분명 가파르지 않은 경사임에도, 몸이 자꾸만 아래로 쏠리는 감각에 사로잡힌다.|It's not even that steep, yet I cannot shake the sensation that my body is pitching downward.
+17782||RPGSystem#rpg-loc-dialogue-floor-b1.json] 다급히 양옆을 잡고 조심스레 한 걸음씩 아래로 내딛는다.|I hurriedly grip both sides and descend one careful step at a time.
+17783||RPGSystem#rpg-loc-dialogue-floor-b1.json] <color=#ebcaa2>축하해, 마 퓌스.</color>|<color=#ebcaa2>Congratulations, ma puce.</color>
+17784||RPGSystem#rpg-loc-dialogue-floor-b1.json] <color=#ebcaa2>결국 또 못 박아버렸네.</color>|<color=#ebcaa2>You nailed another one.</color>
+17785||RPGSystem#rpg-loc-dialogue-floor-b1.json] 어딘가 씁쓸한 잔느의 목소리가 멀어져간다. 그리고…|Jeanne's voice recedes, carrying a trace of bitterness. And then...
+17786||RPGSystem#rpg-loc-dialogue-floor-b1.json] …사다리.|... A ladder.
+17787||RPGSystem#rpg-loc-dialogue-floor-b1.json] 혹은 언덕이나 신발.|Or a hill—or a shoe.
+17788||RPGSystem#rpg-loc-dialogue-floor-b1.json] 무엇으로 정의하면 되겠습니까, 관리자님.|How should it be defined, Manager?
+17790||RPGSystem#rpg-loc-dialogue-floor-b1.json] <color=#ebcaa2>…결국 마지막 판단은 저자에게 미루는구나.</color>|<color=#ebcaa2>... So you're going to let them make the final judgment, after everything.</color>
+17791||RPGSystem#rpg-loc-dialogue-floor-b1.json] <color=#ebcaa2>그거 알아? 당신은 가끔 보면 나보다 더 겁쟁이 같아.</color>|<color=#ebcaa2>You know, sometimes I think you are an even worse coward than I am.</color>
+17792||RPGSystem#rpg-loc-dialogue-floor-b1.json] 뫼르소는 잔느의 말에 답하지 않고, 그저 나를 바라보며 답을 기다렸다.|Meursault gave Jeanne no reply. He merely looked at me and waited for an answer.
+17793||RPGSystem#rpg-loc-dialogue-floor-b1.json] 지하 2층으로 내려간다.|Moving on to B2.
+17794||RPGSystem#rpg-loc-dialogue-floor-b1.json] 무엇으로 정의해야 할까.|What should it be defined as?
+17795||RPGSystem#rpg-loc-dialogue-floor-b1.json] 푸드코트… 라는 게 이런 곳이었나?|I'm not sure I'd call this place a "Food Court"...
+17796||RPGSystem#rpg-loc-dialogue-floor-b1.json] 저 아래쪽으로 뽈뽈 도망치던데, 어서 쫓아가보자고.|She scampered off down that way. Come on, let's hurry after her.

@@ -1,0 +1,96 @@
+18289||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실을 만드는 기계처럼 보인다. 일정한 속도로 실을 만들어내고 있다..|It seems to be a spinning machine of sorts. The contraption is spewing strands of threads at a constant, even pace.
+18290||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 어디선가 끊임없이 실이 나와 감기고 있다. 어디서 오는 지는 여전히 모르겠다.|Strands of thread spill forth, winding themselves around the spool. Still no clue as to where it's coming from.
+18291||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 크로머가 사라졌던 벽이다. 정말로 완전히 막혀있다.|This is the wall Kromer "walked into." It's not an illusion or anything—she really just phased into a solid wall.
+18292||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …바닥에 쓸.없.파하하가 떨어져있군. 그놈이 흘리고 갔나?|Worthless B.S. on the floor. Did that woman drop it?
+18293||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <그자의 성격이라면 일부러 떨어뜨렸을 것 같은데…>|<Well, judging on how she's been interacting with us.. she probably left it here on purpose.>
+18294||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <뫼르소, 일단 챙겨줘. 도움이 될지도 모르니까.>|<Meursault, take it for now. It might come in handy.>
+18295||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 알겠습니다.|As you wish.
+18296||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 복잡해 보이는 기계다. 어떤 식으로 작동하는 걸까?|The machine looks complicated to operate.
+18297||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <뫼르소, 혹시 이거 조작할 수 있어?>|<Meursault, do you know how to operate this?>
+18298||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 지하의 작업 방법에 대해서는 잘 알지 못합니다.|I am not familiar with the work procedures of Sisyphe's lower floors.
+18299||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그러는 사이, 오티스는 복잡해 보이는 화면을 이리저리 조작해 보기 시작했다.|Meanwhile, Outis began manipulating the machine's complex display.
+18300||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 음… 원리는 모르겠지만, 구조는 대충 알겠군.|Hm... I do not yet understand the operating principle, but I have a general grasp of the structure.
+18301||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 세 가지 정도의 기능이 있는 것 같습니다. 추출, 방적, 염색… 어떤 걸 시험해보시겠습니까?|The interface presents three functions: extraction, spinning, and dyeing. Your orders, Executive Manager?
+18302||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 오티스가 가리킨 화면에는 세 가지 버튼이 떠올라있다.|Three buttons appear on the display Outis indicates.
+18303||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 세 가지 버튼이 떠올라있다.|There are three buttons on the screen.
+18304||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뫼르소에게서 실을 뽑아냈던 기계다. 다시 시도해볼 이유는 없을 것 같다.|It's the machine that drew thread out of Meursault. There doesn't seem to be any reason to try it again.
+18305||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 수상한 진동과 함께, 뫼르소의 피부 일부가 기계 위로 빨려들어갔다.|With a disconcerting whir, the machine sucked a patch of Meursault's skin onto its surface.
+18306||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 하. 평. 실.은 아니었나 보군.|Huh. These threads are O. of a K.
+18307||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …더 누르실 생각이십니까?|... Are... you going to press it again, Executive Manager?
+18308||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실. 분. 을 노리는 건가?|You want it S.I.T.?
+18309||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실로 분해되는 것을 노리고 있지 않은지 묻고 있습니다, 관리자님.|She is asking whether your objective is to have the skin "split into threads," Manager.
+18310||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <아, 아니 그런 건 아니고… 그런데 싱클레어가 그런 걸 번역한 적도 있어?>|<N-no, that's not what I'm doing... But has Sinclair ever interpreted that one before?>
+18311||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 신. 실. 분. 신경 하나하나를 실처럼 분해해주지… 라는 번역을 버스에서 말한 적이 있습니다.|He has interpreted "S.E.N.I.T." before on the bus. It stands for "split every nerve into threads."
+18312||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <무슨 상황에서 나온 줄임말인지 감도 안 잡히네.>|<I really don't remember what the context was when she said it.>
+18313||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 기계에서 실 한 뭉치가 툭 떨어졌다.|A spool of thread plopped out of the contraption.
+18314||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뫼르소… 가 재료인 실인 것 같다.|It appears to be thread made from... Meursault's skin.
+18315||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 더 이상 눌러볼 이유가 없을 것 같다.|There shouldn't be any reason to press this button again.
+18316||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 실들이 팽팽하게 당겨지는 소리가 들린다.|The threads twang lightly as the machine pulls them tight.
+18317||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 눈앞에 보이는 실들이 점점 많아지고 있다.|They're starting to multiply...
+18318||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바늘이 노동자|Needlekin Laborer
+18319||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …옷감이 더 늘어난다는 소리는 못 들었는데.|... Uh, we weren't told anything about increased production volume.
+18320||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바늘이 노동자2|Needlekin Laborer 2
+18321||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 천천히! 천천히! 그러다 망가져!|Slowly-slow! Gently-gentle! You'll break it!
+18322||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …주변에서 일하고 있는 고객들의 따가운 눈총을 받았다.|... The customers working nearby are glaring daggers at us.
+18323||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 더 이상 누르기엔, 주변의 시선이 따갑다.|... The accusatory glares around me are too sharp to risk pressing it again.
+18324||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 염료가 없다는 경고문이 뜬다.|A warning states that no dye is available.
+18325||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …혹시 의도를 여쭤도 되겠습니까.|With all due respect, Executive Manager... may I ask what exactly it is that you intend to accomplish?
+18326||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…가끔 이런 건 다 눌러보고 싶더라고.>|<... I mean... Sometimes you just want to mash some buttons, right?>
+18327||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 한 번 더 연타하려고 하자, 무언가 툭 내 팔꿈치를 쳤다.|As I try to hammer the button once more, something taps my elbow.
+18328||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 시선을 돌린 곳에… 료슈의 검집, 아라야가 보인다.|I turned to find Ryōshū's scabbard, Araya.
+18329||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 애도 아니고, 그만해… 라는 소리가 들린 것 같은 기분이다.|For a moment, I could swear I heard it say, "You really should stop acting like a kid..."
+18330||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그만두자. 이런 건.|Yeah, I should stop. This is getting ridiculous.
+18331||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 염색된 원단들이 걸려있다.|Dyed fabrics hang here.
+18332||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 살펴보고 있자, 위쪽에서 다급히 달려오는 소리가 들린다.|Hurried footsteps come racing from somewhere as I inspect the fabric.
+18333||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <저번에 여기에서 열차소리 같은게 났었는데…>|<I heard something like the rumble of a train last time coming from here...>
+18334||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…그건 나도 궁금하네.>|<... I wanna know, too.>
+18335||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …뿌이, 저 아이는 이곳의 다른 고객들과 똑같이 저희는 갈 수 없는 통로들에 들어갈 수 있는 것 같군요.|... It seems this child can enter places we cannot, just like the other customers in the department store.
+18336||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <뒤쪽을 좀 더 자주 확인해야겠어.>|<We'll need to pay special attention to our back and make sure they're following us.>
+18337||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 열차와 비슷한 소리가 문 너머에서 들려온다. 가까이 다가가 살펴보았지만, 저번과 달리 아무런 빛도 보이지 않는다.|A sound resembling the rumble of a train comes from beyond the door. I move closer to investigate, but unlike before, I can't see any light.
+18338||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <소리는 나는 것 같은데…>|<I can hear the sound, but...>
+18339||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 내가 기웃거리고 있자, 궁금했는지 뿌이가 다가오더니…|Curious, Pwie approached me as I inspected the door...
+18340||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <어, 어어!?>|<Huh? Wait!>
+18341||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 틈 사이로 뿌이가 사라졌다.|... and disappeared into the crevice.
+18342||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …곧 돌아올 것입니다, 관리자님.|... They will return soon, Manager.
+18343||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뫼르소의 말대로 1분도 지나지 않아 뿌이가 돌아왔다.|Meursault was right. Pwie returned in less than a minute.
+18344||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 안쪽에서 실들이 달리고 있어. 그러다가 멈추더니, 다시 달려. 왜 그러는 거야?|Threads are running inside. And then they stopped, and then ran again. Why are they doing that?
+18345||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 틈새 너머로 간간히 경적소리와 대화 소리가 들려온다.|The intermittent sounds of train horns and people murmuring are coming through the gap.
+18346||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 유난히 맑은 빛을 띤 하늘색 염료다.|It's a sky-blue dye with a particularly pure hue.
+18347||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 옆에는 안내문처럼, 테스트 중인 염료. 써볼 거면 조금만 퍼가… 라고 적혀있다.|A note beside it reads, "Dye under testing. If you intend to use it, take only a little..."
+18348||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …제법이군. 미학적으로 볼 만한 가치가 있어.|... Not bad. It has some aesthetic value.
+18349||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 눈알을 지불할 필요가 없는 것 같으니, 조금 퍼가도 나쁠 건 없겠군.|No eyeball payment appears to be required. It should be okay to requisition a small sample.
+18350||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <뫼르소, 한 통 정도만 퍼 가자.>|<Let's fill just one container, Meursault.>
+18351||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 하늘색 염료 샘플을 얻었다.|Obtained a sample of sky-blue dye.
+18352||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 한 치 앞도 보이지 않는 곳, 미약해서 발견하기도 어려운 작은 빛을 향해 뫼르소가 손을 뻗었다.|Nothing but pitch-black darkness. Meursault reaches toward a tiny twinkle of light so faint that it is almost impossible to notice.
+18353||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뫼르소가 나무 톱밥을 챙겼다.|Meursault obtained Sawdust.
+18354||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 초록색 염료다.|Green dye.
+18355||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 다시봐도 마음이 평안해진다.|Like last time, looking at it brings a sense of serenity.
+18356||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 노란빛을 띈 염료다. 언뜻 황금색처럼 보이기도 한다.|A dye with a yellow hue. At a glance, it almost appears golden.
+18357||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이방인들. 그건 황금염료 아니니까 기웃거리지 마.|Strangers. That's not the Golden Dye, so stop hovering around it.
+18358||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 파란색 염료다. 소지의 방에서 보았던 빛과 비슷해서인지, 료슈는 마음에 들지 않는 듯 고개를 돌렸다.|Blue dye. Ryōshū turns her head away, looking displeased. Perhaps the azure hue reminded her of the blue glow of the Pinky Nursefather's Corridor.
+18359||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 아라야는 색이 마음에 드는지, 푸른색 염료 근처에 갈 때마다 달그락 소리를 내고 있다. 파란색을 좋아하는 건가?|Araya, on the other hand, is rattling happily as we approach the blue dye. Maybe blue is her favorite color.
+18360||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 붉은 염료가 가득 담겨 있는 통이다. 측면에 '지하 3층에 배송 필요'라고 적혀 있다.|A container filled with red dye. "TO BE DELIVERED TO B3" is written along its side.
+18361||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 나는 이 색이 마음에 들어.|I like this color.
+18362||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 호오.|Oho?
+18363||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 강. 정. 취향인가?|T.A.R.T.?
+18364||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…강정은 또 뭐야?>|<... Tart? What's dessert got to do with this?>
+18365||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 강렬하고 정열적인 취향인가? 라는 뜻입니다. 관리자님.|"Torrid and rhapsodic taste," Manager.
+18366||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그건 잘 모르겠어. 그냥 이 색을 보고 있으면 마음이 편해.|I dunno. Seeing this color just makes me feel calm.
+18367||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 유난히 맑은 빛을 띤 하늘색 염료가 가득 차있다.|It's filled with a sky-blue dye with a particularly pure hue.
+18368||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 파란색 염료다. 소지의 방에서 보았던 빛과 비슷해서인지, 료슈는 마음에 들지 않는 듯 고개를 돌렸다.\n아라야는 색이 마음에 드는지, 푸른색 염료 근처에 갈 때마다 달그락 소리를 내고 있다. 파란색을 좋아하는 건가?|Blue dye. Ryōshū turns her head away, looking displeased. Perhaps the azure hue reminded her of the blue glow of the Pinky Nursefather's Corridor.\nAraya, on the other hand, is rattling happily as we approach the blue dye. Maybe blue is her favorite color.
+18369||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 보랏빛 염료가 가득 담겨 있는 통이다. 측면에 '순도 양호'라고 적혀 있다.|A bucket full of purple dye. The label on the side says "PURITY - ADEQUATE".
+18370||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 살짝 파란기가 도는 보랏빛 염료가 가득 담겨 있는 통이다. 측면에 순도 확인 필요, 라고 적혀있다.|A bucket full of blue-ish purple dye. The label on the side says "PURITY - NOT YET CHECKED".
+18371||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 붉은 빛이 도는 보랏빛 염료가 채워지고 있는 통이다. 측면에 우수 등급, 이라고 적혀있다.|A bucket, slowly filling with reddish purple dye. The label on the side says "PREMIUM GRADE".
+18372||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 폐기예정, 이라고 적혀있다. 묘하게 탁하게 느껴지기도 한다.|Says "TO BE DISCARDED". On second look, it does look a bit cloudy.
+18373||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이게 황금염료인가 싶었지만 통에 '착각하지 말 것'이라고 적혀 있다. 아닌가 보다…|Ohh, maybe this is the Golden Dy—ah. There's a label that says "NOT THIS ONE" taped on the side of the bucket. Guess this isn't it...
+18374||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 아마 자주 헛갈리나 보다.|Must get these mixed up all the time.
+18375||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 폐기물, 이라고 적혀있다.|The label reads: "DISPOSAL".
+18376||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 초록색 염료통이다.|A green dye bucket.
+18377||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 단단히 봉인된 통이다.|This bucket is sealed tight.
+18378||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <이 투명한 색, 랭콜로르 아냐?>|<Hey, here's a bucket of transparent liquid. Maybe it's L'Incolore?>
+18379||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …투명한 다른 액체일 가능성도 있기에, 확정지을 순 없습니다.|... We cannot say for certain, Manager. It may be a different fluid that is just as transparent.
+18380||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 투명…?|Transparent dye...?
+18381||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 아냐. 이건 투명하지 않아.|No, no. This isn't transparent.
+18382||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 호오. 그럼 어떤 색으로 보이지?|Oho, it's not? Then what does it look like to you?
+18383||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 조용하고… 슬프고… 찰랑이는 색이야.|It's... quiet... sad... and splish-splashy.
+18384||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 색을 묘사하기엔 부적합한 단어 조합으로 보인다만.|Not the most appropriate collection of adjectives for describing color, are they?

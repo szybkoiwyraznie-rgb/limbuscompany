@@ -1,0 +1,106 @@
+{
+  "entries": {
+    "dataList[key=KeyDesc_SisypAttack].text": {
+      "pl": "Uderz Spadający Głaz",
+      "kr_sha256": "3bdfb370b7d4a52e708067b243fda1ebae0fc2459492ace4a30525b47dbd376b",
+      "en_sha256": "e781aa9f42be9f076f5d8d6911163da9b4995ee48e116475be6e404f2fbbf66f",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypGrab].text": {
+      "pl": "Złap Spadający Głaz",
+      "kr_sha256": "ecae55b03ffb21801e0d158c7edd095dc91b67e17650e9dac518a0cf8bc3d7fe",
+      "en_sha256": "035c6065fabc704114a15d14283639a54d97f416a406d51d5ed0134cb9b98d90",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypLogToggle].text": {
+      "pl": "Pełny dziennik",
+      "kr_sha256": "2d5df9b73d004f10eee123a13dfcbbd389999c23bbfec2c7d9962fe5a5bac792",
+      "en_sha256": "df3242f90bef6c4ff0e39896b93b02d16a45a549cf6d01cb19cae86422994a56",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypMoveDown].text": {
+      "pl": "Ruch w dół",
+      "kr_sha256": "d0f3f70895d22abaa3a7e6f24cbd525512a75c52dce7e306cf70d68a533c5c8e",
+      "en_sha256": "40bb50da160cdc21d6029a927b68f92b07fd450688e609826cbc70d202db96da",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypMoveLeft].text": {
+      "pl": "Ruch w lewo",
+      "kr_sha256": "4fbce823b7ce8c779296e655d65d12865558f77d40c98e827e83caa27bf22681",
+      "en_sha256": "6c94221edd26ec06f40865e683ec09046fc1963a73cd0ca635023c188775f76b",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypMoveRight].text": {
+      "pl": "Ruch w prawo",
+      "kr_sha256": "52f6ba668e7345991e875af32b90977157fcb6ae4ebb3eda0bfd575108fbd4e6",
+      "en_sha256": "8d60decd44f3c39ea1f52494eb1f203cb3c961fffdd12641b5897cbab3841651",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypMoveUp].text": {
+      "pl": "Ruch w górę",
+      "kr_sha256": "75488ce181bc8e05c68e03a03aae98715451312ed6ab5841649eb80a2719b798",
+      "en_sha256": "c66feb5eb8f217c76bfb0f1b41e3ee73ab41cb9959fae8284911bd3ad3816086",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypRestart].text": {
+      "pl": "Restart od punktu kontrolnego",
+      "kr_sha256": "5255a2c1298b0e3348b8b529aec426d10e154b15e5cd7f6083877bfe9a7a49c0",
+      "en_sha256": "2409bb0e4e33b7ed50c93695d74064f66820b9b52f2dc0b91650810f99822157",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SisypRunToggle].text": {
+      "pl": "Przełącz na bieg",
+      "kr_sha256": "ea1341d3ba045fd6fa45b2ecb475b158f942e553008c6415685054b1192fa8a2",
+      "en_sha256": "09768082fd60ae9cb54263c0b4a2f487463272bf90649000eb5f4aab60a3a392",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_SyncNormalSysypKey].text": {
+      "pl": "Zaimportuj mapowanie klawiszy",
+      "kr_sha256": "4fcf7ad113329d42b600890f731316336e69b7772e734366ca3846b10993afd8",
+      "en_sha256": "d9c330900bf385337148adbaed7c42eaec5a4a6a66f8652bd658c8c26c2f7b98",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_CatchRock].text": {
+      "pl": "Złap Spadający Głaz",
+      "kr_sha256": "ecae55b03ffb21801e0d158c7edd095dc91b67e17650e9dac518a0cf8bc3d7fe",
+      "en_sha256": "035c6065fabc704114a15d14283639a54d97f416a406d51d5ed0134cb9b98d90",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_CheckpointRestart].text": {
+      "pl": "Restart od punktu kontrolnego",
+      "kr_sha256": "8458882fcf2311af8936050c5ce24388024f165b4c9486d785300d204c45d8b6",
+      "en_sha256": "d99e62968c1d2751a3299bbbabc660428c0470f8f4bd54ed5c3927e11b2c21ca",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Log].text": {
+      "pl": "Dziennik",
+      "kr_sha256": "e0918eb03c26c271fbb558f50bfea9e22b5d7b3611cfda0bc10f8c67d472bbca",
+      "en_sha256": "21e49eb2b299c9f7503a1236ecc80e1c51dd9e07989a3c12283df174067cc1aa",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_PushRock].text": {
+      "pl": "Uderz Spadający Głaz",
+      "kr_sha256": "3bdfb370b7d4a52e708067b243fda1ebae0fc2459492ace4a30525b47dbd376b",
+      "en_sha256": "e781aa9f42be9f076f5d8d6911163da9b4995ee48e116475be6e404f2fbbf66f",
+      "origin": "ai"
+    },
+    "dataList[key=Sisyphus_CheckpointRestartConfirmDesc].text": {
+      "pl": "Uruchomić ponownie od punktu kontrolnego?",
+      "kr_sha256": "5db6633d425ab280c23123ae2100899b3221a52185b8f6b84cd651e4b0e37468",
+      "en_sha256": "3a8a39270470dd8cfe50eaf07504376fd2faf6b1bffdc7f6ac738b808d04e32c",
+      "origin": "ai"
+    },
+    "dataList[key=Sisyphus_SkipConfirmDesc].text": {
+      "pl": "Pominąć tę część i przejść do następnej części historii?",
+      "kr_sha256": "d3836121e8206f3a91d8688ce15e778fc43efd2d6b5255cb9705476896431a54",
+      "en_sha256": "179e2794aba20b084e7d30a491e432d274f81c51685a0848952af8bdf21aa5e0",
+      "origin": "ai"
+    },
+    "dataList[key=WardenArena_ResistFate].text": {
+      "pl": "SPRZECIW SIĘ PRZEZNACZENIU",
+      "kr_sha256": "202406fed5a7d331b234b1170f38d5fc09e0a978f21d3c26c550bc318ce44af2",
+      "en_sha256": "4b9076ff3508a3e790332da9a752d12c709d09876e470e02bfa5abaf737cc80c",
+      "origin": "ai"
+    }
+  }
+}

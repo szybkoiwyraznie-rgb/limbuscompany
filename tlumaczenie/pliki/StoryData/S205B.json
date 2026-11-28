@@ -1,0 +1,44 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Śmiechu warte. Nic wielkiego.",
+      "kr_sha256": "3b517c5cd559e83ddb5dc9fba8bb87f34ced02edb2ebfaf8096c9ceff676fc88",
+      "en_sha256": "aad3028cb69c404a60b1a309ef02fc47d8a784342663439c1efda362a48c630c"
+    },
+    "dataList[id=1].content": {
+      "pl": "Gang Tingtang trzęsie całą tą okolicą. Na jednej bitwie się nie skończy…",
+      "kr_sha256": "1e4345dbb27d82b9f337f6c9871e3e8d727f2754a1f3e48a32718b6eb29bd785",
+      "en_sha256": "d8139520fc9dfc680476cfc7250fc91f1b286af24ec3438e3806f353bfda719e"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ledwie Effie skończył mówić, z bocznych uliczek znów zaczęli wyłazić tingtangowcy.",
+      "kr_sha256": "19562d4c62e34c496ca00fff90411652326deeaf5153ade92cfb529b3abc9a13",
+      "en_sha256": "0692178f50f1552fcd4ddcc235c3e4283f34aaaf982cf5f1ad0526e357ebf1c4"
+    },
+    "dataList[id=3].content": {
+      "pl": "Skąd żeście się, do licha, wzięli, coby naszych ruszać?!",
+      "kr_sha256": "14360401af7e954997b99f4870543b9929659f24b10c03ebd567086057455009",
+      "en_sha256": "86055634ada5ee79a5198c1f152652d679c3f3088cf3bba415e2eb8a3c75772f"
+    },
+    "dataList[id=4].content": {
+      "pl": "Nasza drużyna to rycerze z Limbus… Mmf…",
+      "kr_sha256": "8460a8c2cf8ee2e8e415b8b8a8ce04d929e8b527ae7df9d13393117f0a00e267",
+      "en_sha256": "10cb4c6109636d1459e0f8151c8e9abdaf1a4e37ecff81f974a5848ac6a957d0"
+    },
+    "dataList[id=5].content": {
+      "pl": "Effie błyskawicznie zatkał Don Quixote usta.",
+      "kr_sha256": "84338d2d8f78bd84c4cdbac17369b798df8822101ee4a57ea47ccf64ecc7e498",
+      "en_sha256": "7c0427c3828bf296ebe4adfd294d1e1f575c64aeccd590118e870beb6bbcd853"
+    },
+    "dataList[id=6].content": {
+      "pl": "Oszalałaś? Chcesz jeszcze wywiesić w Zaułkach billboard?",
+      "kr_sha256": "d46df4bfc886040a450ef6e3d75dcd0e3f0b65bd54b2c2690973209f792aba21",
+      "en_sha256": "e3fc96846d1ec7e39faddf3500a249fbfb77eb30a7d320a38dda2d2ba92e1727"
+    },
+    "dataList[id=7].content": {
+      "pl": "Następni! Kierowniku, rozkazy!",
+      "kr_sha256": "3f362b5015228ee29658f4e4d36eee0287e8162ee004d80c091b62f3dba70053",
+      "en_sha256": "bb6530d40452e406b0afc8fc7caf81f330f6e0d5d51316628e651d59bc1bf9ad"
+    }
+  }
+}

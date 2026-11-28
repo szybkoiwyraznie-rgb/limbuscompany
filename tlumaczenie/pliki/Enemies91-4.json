@@ -1,0 +1,220 @@
+{
+  "entries": {
+    "dataList[id=806301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=806301].name": {
+      "pl": "Głowa",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=806302].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=806302].name": {
+      "pl": "Muszla",
+      "kr_sha256": "94baa43b93c180bf66389f93dc8373157732e382e3f827b2bbf1296bed040f49",
+      "en_sha256": "a733285486d5438327c37af6e6e84a69a6c6f22aae74b94d33cf88c6eeda93cc",
+      "origin": "ai"
+    },
+    "dataList[id=8063].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8063].name": {
+      "pl": "King Krab",
+      "kr_sha256": "50086d50c7ca6a98d45147f9c6794d2ddd6d8a461c770c0ee14c3dbf953b1d31",
+      "en_sha256": "6980af436999a4d9103248b016bf51cad3503fc554e5127bc9f1b0f1fd36370a",
+      "origin": "ai"
+    },
+    "dataList[id=807001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=807001].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8070].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8070].name": {
+      "pl": "Ostry Krab",
+      "kr_sha256": "d07d8e9eec7b0137a0092b89f463d5b7580e4652433090024bd957f38487da75",
+      "en_sha256": "9ff8a0a213bfd1c39af128f56fe38071f273a709322528b56202ee3d2cc019d1",
+      "origin": "ai"
+    },
+    "dataList[id=807101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=807101].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8071].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8071].name": {
+      "pl": "Kolczasty Krab",
+      "kr_sha256": "879079fe58b514e0f02ebde952f548879e8177a607d14e14cd8e5206fd98ca0e",
+      "en_sha256": "a6b42fcf0b1baf096c493bf03ac2655405451c837ea3fa5fc3f7699297229004",
+      "origin": "ai"
+    },
+    "dataList[id=807201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=807201].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8072].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8072].name": {
+      "pl": "Twardy Krab",
+      "kr_sha256": "e49a0bb9abb080a069e571d1d9630bce0ffe80a4e1f4879a02b4cfaca7646dc5",
+      "en_sha256": "77bb9dbc405a32964b260cfb28f57a3d96e6ad3167d34a1f69829561e70d95ed",
+      "origin": "ai"
+    },
+    "dataList[id=807301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=807301].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8073].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8073].name": {
+      "pl": "Krab z Pociskami",
+      "kr_sha256": "fcb10327dca6f45ca96202f968787e4872fd37b44aa993f61d8ff738f28e3410",
+      "en_sha256": "f3938b5c90f84a8e4b36679e3a840f204cefc0de34d60ffddb83cca04f974cad",
+      "origin": "ai"
+    },
+    "dataList[id=807401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=807401].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8074].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8074].name": {
+      "pl": "Krab z Bagnetem",
+      "kr_sha256": "f70034ed702f8c2788fb082fa96785b7cf02e837bddf65c0585595446c89721e",
+      "en_sha256": "cb12f41dae2aec7fff7351384e0bfbe3477c98c225783d60d7f0f8ed34924651",
+      "origin": "ai"
+    },
+    "dataList[id=90077].desc": {
+      "pl": "Zwykły Wróg",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90077].name": {
+      "pl": "Ostry Krab",
+      "kr_sha256": "d07d8e9eec7b0137a0092b89f463d5b7580e4652433090024bd957f38487da75",
+      "en_sha256": "9ff8a0a213bfd1c39af128f56fe38071f273a709322528b56202ee3d2cc019d1",
+      "origin": "ai"
+    },
+    "dataList[id=90078].desc": {
+      "pl": "Zwykły Wróg",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90078].name": {
+      "pl": "Kolczasty Krab",
+      "kr_sha256": "879079fe58b514e0f02ebde952f548879e8177a607d14e14cd8e5206fd98ca0e",
+      "en_sha256": "a6b42fcf0b1baf096c493bf03ac2655405451c837ea3fa5fc3f7699297229004",
+      "origin": "ai"
+    },
+    "dataList[id=90079].desc": {
+      "pl": "Zwykły Wróg",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90079].name": {
+      "pl": "Twardy Krab",
+      "kr_sha256": "e49a0bb9abb080a069e571d1d9630bce0ffe80a4e1f4879a02b4cfaca7646dc5",
+      "en_sha256": "77bb9dbc405a32964b260cfb28f57a3d96e6ad3167d34a1f69829561e70d95ed",
+      "origin": "ai"
+    },
+    "dataList[id=90080].desc": {
+      "pl": "Zwykły Wróg",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90080].name": {
+      "pl": "Krab z Pociskami",
+      "kr_sha256": "fcb10327dca6f45ca96202f968787e4872fd37b44aa993f61d8ff738f28e3410",
+      "en_sha256": "f3938b5c90f84a8e4b36679e3a840f204cefc0de34d60ffddb83cca04f974cad",
+      "origin": "ai"
+    },
+    "dataList[id=90081].desc": {
+      "pl": "Zwykły Wróg",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90081].name": {
+      "pl": "Krab z Bagnetem",
+      "kr_sha256": "f70034ed702f8c2788fb082fa96785b7cf02e837bddf65c0585595446c89721e",
+      "en_sha256": "cb12f41dae2aec7fff7351384e0bfbe3477c98c225783d60d7f0f8ed34924651",
+      "origin": "ai"
+    }
+  }
+}

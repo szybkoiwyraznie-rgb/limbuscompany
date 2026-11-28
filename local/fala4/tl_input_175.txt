@@ -1,0 +1,96 @@
+17018||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 부서진 식탁 위에 만찬이 차려져 있다. 올라갈 수 있을 것 같다.|There is a veritable feast laid out atop the broken dining table. It looks climbable.
+17019||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 잘 차려진 식탁이 주인을 기다리고 있다.|A neatly arranged assortment of dishes on a dining table, waiting for their master to come.
+17020||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뿌이.|Pwie.
+17021||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뷔페는, 뿌이는 우리와의 추억 때문에 더 나아가기를 멈추었다.|Buffet... <i>Pwie</i> stopped moving forward because of the memories they shared with us.
+17022||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그리고 우리는 뿌이와의 추억이 있음에도 더 나아가기로 결정했다.|And yet, we've decided to move on, despite the memories shared with Pwie.
+17023||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 만약 뫼르소가 마지막에 거짓말이 아닌 진실을 말했더라면… 뿌이는 그때도 자신이 멈춘 것을 후회하지 않았을까. 아니면, 끝내 후회했을까.|If Meursault had spoken the truth, if Meursault hadn't lied to Pwie as they lay dying... I wonder if Pwie still would have felt no regret over choosing to stop.
+17024||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …어쩌면 뿌이를 멈춘 것은, 우리와의 추억이 아닌…|... Perhaps Pwie chose to stop not because of their memories with us, but...
+17025||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 추억을 다시 경험할 수 있을지도 모른다는 기대였을지도 모른다.|... the anticipation that they might be able to experience those memories again.
+17026||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 의자에 앉아, 마 퓌스.|Take a seat, ma puce.
+17027||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 여태껏 한 번도 앉지 못했잖아?|You've not gotten a chance to rest your feet since entering here, have you?
+17028||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 어서와, 마 퓌스. 그리고… 샘터에서 온 이방인들.|Welcome, ma puce... and strangers who came from the Fount.
+17029||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 이젠 더 올라갈 필요 없어. 이곳이… 너희가 그토록 올라오고 싶어 했던, 백화점의 가장 꼭대기 층. 옥상이니까.|You don't need to climb so hard anymore—this <i>is</i> the final floor of the Grand Magasin. In other words... the "rooftop."
+17030||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 의문은 언제나 품고 있었다. 그 싸늘한 방에서 어머니는 홀로 무엇을 하는 건지.|A corner of my mind had always harbored a bit of curiosity for what Mother did in that chilly room.
+17031||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 하지만 들어오지 말라는 어머니의 당부가 있었기에, 나는 그 방문 너머를 한 번도 확인한 적 없었다.|As she had always warned me not to enter, however, I never indulged that particular curiosity.
+17032||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 빠짐없이 물을 주고, 경험 비료를 뿌려주었음에도 잎은 나날이 시들어, 바닥으로 떨어진다.|I never miss a watering and regularly apply the Experience Fertilizer. But the leaves wither and fall anyway.
+17033||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 다 먹은 경험 통조림이 어지럽게 널브러져 있다.|Empty Canned Experiences lie strewn about.
+17034||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 통조림 속 경험에는 없는 그 무질서함에서 작은 안도감이 느껴진다.|I feel a small sense of relief in that disorder. There is nothing quite like it in the experiences sealed inside those cans.
+17035||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 커튼을 걷어두어도, 희미한 빛 밖에 새어 나오지 않는다.|Even with the curtains drawn back, only faint rays of light shine through.
+17036||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 그럼에도 어머니가 나오실 시간엔 커튼을 다시 닫아야만 한다.|Still, I have to close them again before Mother comes out.
+17037||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 어머니께선 단 한 점의 빛도 새어들지 않길 원하셨기에.|She does not want so much as a sliver of light getting in.
+17038||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 첫 월급을 받은 뒤, 어머니께 선물해 드렸던 코트.|The coat I bought Mother with my first paycheck.
+17039||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 항상 입고 다니던 옷과 똑같은 옷을 선물했음에도 어머니는 기뻐하셨다.|It was identical to what she always wore. Even so, my gift made her happy.
+17040||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] …아니, 그것은 어디까지나 나의 주관이다. 어머니는 그저 희미하게 웃어주셨을 뿐. 기쁘다 말하신 적이 없으니.|... No. That was merely my subjective perception. She only gave me a faint smile. She never said that it made her happy.
+17041||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 계속 바라보던 사슬이다.|The chains that beheld the gaze.
+17042||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 아바타일 뿐이지만, 이렇게 망설임 없이 공격하는 건… 섭섭하네.|You're not even going to hesitate to strike me? It's just my avatar, but... that makes me sad.
+17043||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] …미안하다.|... I am sorry.
+17044||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 그런 방문이… 열려있다. 희미한 틈 사이로 자꾸만 시선이 이끌린다.|But that door... is now open. My gaze keeps gravitating toward the narrow gap.
+17045||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 이 방의 무엇이 어머니로 하여금 안식을 주는가.|What was it about this room that brought her comfort?
+17046||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 어머니에게 무언가 문제가 생긴 것은 아닌가.|Had something happened to her?
+17047||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 시끄러워지는 머릿속과 반대로 어두운 거실은 바람 소리 하나 없이 고요하다.|My thoughts grow louder and louder, but the dark living room around me remains perfectly still. Not a whisper of a draft to disturb that silence.
+17048||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 나는, 나의 불안을 떨쳐낼 확신이 필요했다.|I needed certainty. Something that would put that unease to rest.
+17049||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 환한 빛이 자꾸만 눈을 찌른다. 미간이 찌푸려지고, 시야가 일그러진다.|The light inside is painfully bright. My brow tightens against it, and my vision blurs.
+17050||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 보이는 것은, 가구 하나 없는 밝은 방과 어머니의 흐릿한 윤곽 뿐이다.|All I can make out is an empty, brightly lit room and Mother's faint silhouette.
+17051||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 눈이 서서히 빛에 순응한다. 흐릿했던 어머니의 윤곽이 점차 선명해진다.|Little by little, my eyes adapt to the light. Mother's indistinct silhouette comes into focus.
+17052||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 움직임이 없다. 희미한 형태는 조금의 오르내림도 없이 멈춰있다.|She does not stir. There is no rising or falling of the blur that is her form.
+17053||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 등으로부터 미묘한 긴장감이 흐른다. 이윽고 그것은 걱정과 두려움이 되어 내게 불안을 심는다.|A faint tension creeps up my back. Before long, it becomes concern, then fear, and eventually settles into unease.
+17054||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 어머니는… 바닥에 누워있었다.|Mother was... lying on the floor.
+17055||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 경험 통조림을 먹지도 않고, 무언가에 기도하지도 않고…|She was not eating from any Canned Experience, nor was she praying to anything...
+17056||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 줄곧, 그 밝은 방 안에서 정지한 채로…|All this time, she had remained perfectly still in that bright room,
+17058||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 아아아아악!|<i>AAAAAHHHHH!</i>
+17059||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 어머니는 문을 바라보고 있어왔다.|staring at the door the entire time.
+17060||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 그날, 나는 어머니의 방문이 완전히 닫히지 않았음을 발견했다.|That day, I noticed that the door to Mother's room had been left slightly ajar.
+17061||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 여기까지와서 어디로 도망 가려는 거야?|You've come this far, and now you're trying to run away?
+17062||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] 쓸데 없는 짓이야, 마 퓌스. 당신도 잘 알잖아?|It's futile, ma puce. You know this.
+17063||RPGSystem#rpg-loc-dialogue-floor-7-c2.json] …장난이 너무 기네. 재미도 없고. 이제 그만 와서 앉지 그래?|... Is this your idea of a joke? Overwrought jokes are never that funny, you know. Why don't you quit messing around and take a seat?
+17064||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 하행선 에스컬레이터다. 내려가봤자, 애매한 지점에서 막혀 더 내려갈 수 없다.|A descending escalator. There's no point in taking this—it'll just stop at a random point and not let us through.
+17066||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 꿀꺽… 꿀꺽… 꾸르륵…|*gulp* *gulp* *glhhrrrk*
+17068||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 떨어진 것도 음식이야… 주운 사람이 임자라고…|5 hour rule, man... It's still food... Finders keepers...
+17069||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 꼬르륵… 꼬르륵…|*glhhrrrk* *glhhrrrk*
+17070||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 육포나 다름 없는 바짝 마른 고기다.|A desiccated slab of meat, closer to jerky than anything else.
+17071||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 꽃등심. 정말로 꽃 모양으로 생긴 고기다.|A cut of rib eye, the marbling blooming like a flower... quite literally.
+17072||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 상한 고기와 다를 바가 없다. 이걸 먹을 수는 있는 걸까.|What blooms there is the rot. Is it even edible?
+17073||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이곳은 바깥의 상식이 통하지 않는다. 저 고기 또한 결국 옷일 뿐이며, 뿌이가 백화점에서 탄생했음을 고려했을 때… 문제될 소지가 없을 확률이 높다.|The "common sense" outside the department store does not apply here. That cut of meat is but another article of clothing here, and considering that Pwie is a product of the Grand Magasin... it is unlikely to cause any issues.
+17074||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 다 먹었어. 더 먹고 싶진 않아.|I'm done. Don't wanna eat more.
+17075||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 허어… 하긴, 그래. 꼭 우리가 먹는 걸 먹을 필요는 없긴 한데…|*sigh* Fine, guess you're right. There's no rule saying Pwie should eat the same things that we do, but...
+17076||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그레고르는 혼란스러운 표정으로 상한 고기를 바라보다가 이내 시선을 돌렸다.|For a moment, Gregor gave a conflicted look toward the spoiled piece of meat... then turned away.
+17077||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이거 먹어도 돼?|Can I eat this?
+17078||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아무래도 안 되지.|No way, kid.
+17079||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 왜? 안 되는데?|Why? Why not?
+17080||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그거야 뭐… 딱 봐도 상했잖아. 이런 거 먹으면 배탈 난다?|Well, I mean... just look at it, it's spoiled. It'll give you the rumblies.
+17081||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …상하면 먹으면 안 되는 거야? 배탈 나면… 안 좋은 거야?|... We can't eat what's spoiled? Is rumblies... bad?
+17082||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 엇, 어어, 그건…|Oh, uh... Well, that's...
+17083||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …먹어도 된다.|... You may eat it.
+17084||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뫼르소의 대답에 뿌이가 고기를 한 입 크게 먹어 치웠다.|With Meursault's permission, Pwie takes a big bite out of the meat.
+17085||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 자, 잠깐! 아니, 뫼르소. 아무리 귀찮아도 애한테 먹으라고 해버리면…!|H-hold on! I get this isn't the most normal place, Meursault, but you can't just tell that kid to eat a rotten piece of—
+17086||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 육즙이 얼어서 파랗게 변했다. 육즙은…맞겠지.|Its juice has frozen and turned blue. It <i>is</i> meat juice, right...?
+17087||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 막혀있는 문이다. 귀를 가까이 대보면, 누군가 말하는 소리, 걷는 소리 등 다양한 소음이 들려온다.|The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more.
+17088||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 저기 모여서 뭐하는 거야?|What are they all doing in there? All huddled in a group...
+17089||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <모여 있다고…? 누가?>|<Huddled in a group...? Who?>
+17090||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 막혀있는 문이 보이는지, 관리자님께서 묻는군.|The Manager asks whether you can see through the blocked door.
+17091||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 막힌 문…? 안 막혀 있는데…|Blocked door...? It's not blocked, though...
+17092||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 저희와는 다른 것을 보고 있는 것 같네요.|It is likely that we and Pwie are looking at different things.
+17093||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 의아하다는 듯, 문앞을 서성거리던 뿌이는 이내 관심이 식었는지 다른 곳을 살피고 있다.|Pwie hovered in front of the door for a while, then their curiosity seemingly sated—or simply dwindled—turned around and began looking elsewhere.
+17094||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 분수에 머리를 박고 있는 고객들이 여럿 보인다.|Several residents have their heads plunged into the fountain.
+17095||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 익사하기 직전까지 고개를 박고 소다를 들이켜고 있다. 몇몇은 이미 움직이지 않는 것 같다.|They are guzzling soda with their faces submerged, right up to the brink of drowning. Some have already gone completely still.
+17096||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 완성된 소다다. 설령 뫼르소가 아닌 내가 상징계의 주체였더라도, 마셔보진 못했을 것 같다.|The Meat Soda is ready. I doubt I could bring myself to try it even if I were the subject of the Symbolic who could interact with it better than Meursault.
+17097||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 새하얀 테이블. 위에는 다양한 고기와 가죽들이 놓여져있다.|A pristine white table. Various cuts of meat and hides lie arranged across it.
+17098||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …만들어놔도 앉는 놈이 없나.|... I make these benches, and no one sits on 'em anyway.
+17099||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 헤드 셰프 하나 빼곤, 아니… 그마저도 요리를 하고 있진 않으니.|Except for Head Chef—no, what she's doing doesn't even count as cooking.
+17100||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 차라리 다 부수자는 말을 듣는 게 나을지도 모르겠군.|I'd much rather smash this whole business to pieces. Yeah, that's much sweeter to my ears.
+17101||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 중얼거리며 고기를 썰고 있다. 말을 걸만한 분위기는 아니다.|He's muttering to himself as he slams the cleaver down on chunk after chunk of meat. ... Probably not the best time to chat him up.
+17102||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 사다리 그림 위에 티켓 하나가 놓여있다.|There's a ticket laid atop the drawing of a ladder.
+17103||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] [티켓만으로는 어디에도 갈 수 없다.]|[A ticket alone cannot take you anywhere.]
+17104||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] [티켓은 그저 어딘가로 당신을 데려가겠다는 약속에 불과하다.]|[It is mererly a promise to bring you somewhere.]
+17105||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] [그렇기에 가야할 곳을 아는 자들은 사다리를 티켓으로 못 박는다.]|[Thus, those who know their destinations nail the ladder down as a ticket.]
+17106||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <이런 건 누가 여기에 둔 걸까?>|<Who do you suppose left this here?>
+17107||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 에스컬레이터 홀 이용에 어려움을 겪던 이방인… 은 아닐 겁니다. 어떤 거인의 장난일 확률이 높겠군요.|Perhaps a stranger struggling to make use of the escalator all... no, that doesn't seem very probable. This is most likely nothing more than Giant mischief.
+17108||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <잔느, 신부… 그런 사람들이 남겨둔 거라고?>|<You mean people like Jeanne... or the Chaplain... left this here?>
+17109||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …어쩌면 어머니나, 전대의 거인 중 하나일지도 모르겠군요.|... Or Mother. Or one of the current Giants' predecessors, perhaps.
+17110||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 사다리 그림 위에 나침반 하나가 놓여있다.|There's a compass laid atop the drawing of a ladder.
+17111||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <…김삿갓, 그자 같은 말을 하기 시작했어.>|<... Is it just me, or did that sound just like what Bamboo-hatted Kim would say?>
+17112||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 다들 집으로 돌아가고 싶어하는데, 그걸 참고 나와야 하니까…|Everybody wants to go home, but they still gotta hold that in and leave home...
+17113||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 집에 대한 뿌이의 질문을 뫼르소가 받아넘기던 중, 파우스트가 옆으로 다가왔다.,|As Meursault continued to answer Pwie's stream of questions about "home," Faust quietly approached me from the side.
+17114||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …집으로 간다, 라는 점이 걸리는군요. 거인의 입장에서 쓰인 것처럼 보이지만, 결과적으로 나갈 방법이 있다… 로도 읽히네요.|... There is something about "going home." Though the note may have been written from a Giant's point of view... it may also imply that there is, in fact, a way out of here.
+17115||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <그랬으면 좋겠네. 이번에는 반드시.>|<... Sure hope so. This time, we'll succeed.>
+17116||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] [나침반이 마음에 들어. 동서남북, 아름다울만큼 절대적이고 완벽한 규칙이잖나.]|[I'm quite fond of compasses. It abides by the absolute rule of cardinal directions—north, east, south, and west... Beautiful.]

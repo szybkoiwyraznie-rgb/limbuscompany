@@ -1,0 +1,250 @@
+{
+  "entries": {
+    "dataList[id=9105901].desc": {
+      "pl": "przy trafieniu Umiejętnością zyskuje 3 [Laceration] (1 raz na Umiejętność)\n\nprzy uruchomieniu powyższego efektu zyskuje w następnej turze 1 [ResultEnhancement] (maks. 2)",
+      "kr_sha256": "554ca7753be0130459c5f38715b8dacbf7385696d93e93585c1134d9e2caf69e",
+      "en_sha256": "8ba3d99756215f96a885a67b8dad6136224070c55d2222d09b1d2e94c869705b",
+      "origin": "ai"
+    },
+    "dataList[id=9105901].name": {
+      "pl": "Glass bottles need to be handled carefully...!",
+      "kr_sha256": "ef7960ff2b890eb70caa725285c6aa5d089765fdb1c2c7564cdec3d8abe24b88",
+      "en_sha256": "aded3eaf2a6d4d89871cc5321a0ea22b20013ac0921dcc278e35f48beb6c06cd",
+      "origin": "ai"
+    },
+    "dataList[id=9105902].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka nie ma [Laceration], przywraca 5 SP",
+      "kr_sha256": "059eea271aa9da3641556577f92a3e8ccff13ef6d111e759bbf9be6d15028f3f",
+      "en_sha256": "c618216dea610e25105844899836fa65c174831a3e170593139ec9a1ce8a8b32",
+      "origin": "ai"
+    },
+    "dataList[id=9105902].name": {
+      "pl": "Phew, my bottle's safe",
+      "kr_sha256": "4282a6408d59ac3e2b37b6755590e2824b444bfac83d5c24f3baa7d8e0fb7673",
+      "en_sha256": "275a04f2bcffa64fbb4abdca40126ab8d9ea8712f426deb8ffb3cf3bc47521c9",
+      "origin": "ai"
+    },
+    "dataList[id=9105903].desc": {
+      "pl": "jeżeli cel trafiony Umiejętnością tej jednostki ma [Laceration], a ta jednostka nie ma pełnego HP, przywraca 2% HP (2 razy na turę; zaokrąglone w dół)",
+      "kr_sha256": "2ee09933f5494fcd9a9f45430dbbde2354ddfc50d700ab711d122c579ce9888f",
+      "en_sha256": "b5cdc5ed9ec3a1dbdda5ce301e0644929b19f1096905b0dcc7a62af3b2f49007",
+      "origin": "ai"
+    },
+    "dataList[id=9105903].name": {
+      "pl": "I must fill the bottle",
+      "kr_sha256": "2e36f0c02ead2232f2495a8507e7605dcd7596ec670a121da5d15a4e93574628",
+      "en_sha256": "fc7a06ccffcfe206c176450d6a6b8ed990d6ddfa0eabe759245e1f321bc09998",
+      "origin": "ai"
+    },
+    "dataList[id=9106001].desc": {
+      "pl": "Początek Starcia: zyskuje w następnej turze 2 Siły [Breath] za każdy rodzaj efektu celu (maks. 10)\n- jeżeli cel ma 3+ rodzajów efektów, zyskuje w następnej turze 3 Licznika [Breath]",
+      "kr_sha256": "91960f5aa8e04951c957869dce8962a5f2f16ceffabda45577c165800b0b0cff",
+      "en_sha256": "c75891a8d40a10dc4372d82ed7dea7d7eb673ac390f3769f3e341eef47623dd9",
+      "origin": "ai"
+    },
+    "dataList[id=9106001].flavor": {
+      "pl": "Kaki nie potrafią sami tworzyć wartości — dlatego muszą wygrzebywać cenne rzeczy z kieszeni tych, którzy wartość posiadają.",
+      "kr_sha256": "375b0343789251c00396f20657857ccfbbf0653ea5c6c9264beeea3090e42c4a",
+      "en_sha256": "47466b24187da57791eaadb42a3a63331a4ccfcc063a7147634e367fb15cd58c",
+      "origin": "ai"
+    },
+    "dataList[id=9106001].name": {
+      "pl": "Digging",
+      "kr_sha256": "171c0d6484a02fe354bb6caa7cd5695c1402e76caf5bb6ec2bf089a5ca158f4f",
+      "en_sha256": "bf2bc5c90fac6d2c7f1fbdb33de70fd84c6e3e236ba73d65d9a660117c970978",
+      "origin": "ai"
+    },
+    "dataList[id=9106002].desc": {
+      "pl": "przy 6+ Siły [Breath] Moc Monety +1",
+      "kr_sha256": "c8e4ea8255dc647e75c3091be18fc3fb65f7db1e2a03d71e83cb437385ce5c19",
+      "en_sha256": "ab7dea9851c6fa595c6981ada6f7557439cc7179e59a286a7ce4a513512eb0e8",
+      "origin": "ai"
+    },
+    "dataList[id=9106002].flavor": {
+      "pl": "So, what's the core trend this season? Tell me before everyone else gets one!",
+      "kr_sha256": "d688ea3647aabec141ead062650d824d0bdfe506717bb69451ffd89818ebd896",
+      "en_sha256": "556487b96c1297449173435e743371c7b333f80afbdaedc47ef484dabaf73d2e",
+      "origin": "ai"
+    },
+    "dataList[id=9106002].name": {
+      "pl": "Awaiting Seasonal Trend",
+      "kr_sha256": "2dc7e510b51d0ae69c523181ee5fe2e7ef9bc99237b266971fc6c5849440841e",
+      "en_sha256": "3f4a0aab8a7d1bfb6f7436ddf468eaf79b5e54d10f401ca95a9ad28d83de17a3",
+      "origin": "ai"
+    },
+    "dataList[id=9106003].desc": {
+      "pl": "Początek tury: przywraca 3 SP za każde 10% utraconego HP tej jednostki (maks. 15)",
+      "kr_sha256": "398573369a0f568b940c586dc0fe7571ab6ddd74805dce9f2b74d6bcc65baa8f",
+      "en_sha256": "b698c6a959fccb5bb46e1ffb5c75d3240380da90dcc4d62a13fdf8e1f6c09516",
+      "origin": "ai"
+    },
+    "dataList[id=9106003].name": {
+      "pl": "Clinging to What Little Remains",
+      "kr_sha256": "f40fd040a9e14e6fc8093c66ce78b8ce1da82c3ed028d69109a32feb3d8b87c2",
+      "en_sha256": "e1c82853bf1edbd36f5d58af5224fac7a4578d74db9c445ef64497bd202efd36",
+      "origin": "ai"
+    },
+    "dataList[id=9106004].desc": {
+      "pl": "Przy pierwszym pojawieniu się w walce zyskuje 2 [RisingMadnessSisyphe]\n- Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [RisingMadnessSisyphe] zamienia się w [RisingMadnessSisyphe2nd]",
+      "kr_sha256": "669007b856111d843c0bc8592c9507dd4a9a5a3a7510205f8d1315ec5d256339",
+      "en_sha256": "02b078557a1f49571855e440220de728f6058a12206fe63573dd2d34abe267cc",
+      "origin": "ai"
+    },
+    "dataList[id=9106004].flavor": {
+      "pl": "Usłyszeli ciepły Głos, lecz nie mogli już dalej się zmienić. Z umysłem uwięzionym w ciele jaźń rozpadła się sama ze sobą i popadła w obłęd.",
+      "kr_sha256": "b07636fc772a19e339a8516221af3c4b458f0972aa92a475cd1e01dce94df421",
+      "en_sha256": "100a0fa6cb69b68c6587f15c6d66fe50aa7df7c0fbde8b61bf6825a6e03f085d",
+      "origin": "ai"
+    },
+    "dataList[id=9106004].name": {
+      "pl": "I hear it... the Voice of another god...!",
+      "kr_sha256": "79c175e7d85bf22258156ab7ea882b31e9ad22b8584907e8a8f830b7d733cf9e",
+      "en_sha256": "44ef2d4f10c3b71b8a0497cd85f0e7284a54f83ef2fc20b7ff7c41c554d5fba6",
+      "origin": "ai"
+    },
+    "dataList[id=9106301].desc": {
+      "pl": "nakłada o 1 więcej Stosów [NiddlePin] na cele mające 1.5+ Odporności na Kłucie lub Zawiść",
+      "kr_sha256": "c0d4b3414362cefbf5ea4080e641c25383c60600c0ca5788b70dc011a5547a26",
+      "en_sha256": "aaa0dfc3f45a00c53180814896b1333404f89d66a8bfe5e775e62794543ec60f",
+      "origin": "ai"
+    },
+    "dataList[id=9106301].flavor": {
+      "pl": "Ends per inch, picks per inch, stitch per inch. Important!",
+      "kr_sha256": "02a47f9153eaddb9593969279959b946569ae5522c6ed4539ed2b6ac65789c5f",
+      "en_sha256": "ff9be88e8839b8f59ddb0b542d4bd6a49a2c48d8c29190decd0b875944c582cc",
+      "origin": "ai"
+    },
+    "dataList[id=9106301].name": {
+      "pl": "Sewing",
+      "kr_sha256": "25eb5b9a22797171787deb4f3175302a5ecb9dced5c59430bd992d472f044b19",
+      "en_sha256": "c7150010550d905d409a4d576ca65692a599d64334bc2f0e73b6be50c32243c6",
+      "origin": "ai"
+    },
+    "dataList[id=9106302].desc": {
+      "pl": "nakładając Umiejętnościami Siłę [Laceration] na wrogów mających [NiddlePin], nakłada dodatkowo (Stosy [NiddlePin] celu) Siły [Laceration] (maks. 3)",
+      "kr_sha256": "62a4880b8e87c3fa83cfca034d84359a108a3e4dbed7d9eb3a729c061a2c5834",
+      "en_sha256": "3f52ebcfa5cd667fe22d5605de2d0277f32dd2d3f4f6b1eee46d6dc0e10e6dd0",
+      "origin": "ai"
+    },
+    "dataList[id=9106302].flavor": {
+      "pl": "Igła nie różni się od gwoździa.",
+      "kr_sha256": "925a63b697ce8fbcd1bf71ab9137191142d2c09349b66cfcf808c47a843c821b",
+      "en_sha256": "62addd2553e1d01c34fcc48bca1fb2b78e24d0afc6cb447ca8341d1419bbd165",
+      "origin": "ai"
+    },
+    "dataList[id=9106302].name": {
+      "pl": "Tiny and Sharp Nails",
+      "kr_sha256": "0390786cd04f9cb840a31dcde9fdc397be0fba2dd581b7cc470089bde5c24afa",
+      "en_sha256": "337d0738a03655cecd62e205810b171d1767bbdd6ce5b7b3de528aa914326e7d",
+      "origin": "ai"
+    },
+    "dataList[id=9106601].desc": {
+      "pl": "Przy pierwszym pojawieniu się w walce zyskuje 5 [NoirBindArmor]\n\nPoczątek tury: zyskuje Tarczę równą (10 + Stosy [NoirBindArmor])% Maks. HP tej jednostki",
+      "kr_sha256": "a3836a353bf3453f3e21ea00ab76074a972acae437199aeda60305789ad1d672",
+      "en_sha256": "3f6e2f061243cf9e45bf2038fd8c1c53408c623ed1a78ddb13ee55d29b38f927",
+      "origin": "ai"
+    },
+    "dataList[id=9106601].flavor": {
+      "pl": "Tkanina Le Noir trzyma ciało jak zbroję, eksponując je pod twardą, niezmienną sylwetką.",
+      "kr_sha256": "5d1c9a71e8c8f2c685deb9bc206813940c111b745e3a806e69ee65efdfed3952",
+      "en_sha256": "8cac25a43808e04b0d2ab840cb6e2b80cf61a2cda5d3dc589705dd707b5151e8",
+      "origin": "ai"
+    },
+    "dataList[id=9106601].name": {
+      "pl": "Le Noir: Fabric",
+      "kr_sha256": "d123c5395d881d4693ae1bb17715e3d533641be5b3e240abea5ceed6f3e89d9c",
+      "en_sha256": "9d372b95f01e3da69c4a7ac8bf5979253ee97315da44866c1f3b2d93241c1584",
+      "origin": "ai"
+    },
+    "dataList[id=9106602].desc": {
+      "pl": "zyskuje 1 [NoirBindArmor] za każde 5 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce\nzyskuje 1 [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce",
+      "kr_sha256": "0bc5435f43a1ed2879ca813c12c76a766a3f150b9689b991fca986146ce30df9",
+      "en_sha256": "90583038be7f7dd27a46ca914d30a6884a4df0f0e10fe96984eac1fe20b945d6",
+      "origin": "ai"
+    },
+    "dataList[id=9106602].flavor": {
+      "pl": "Siła zostaje sprężona, skupiona i utrwalona. Czasem potrzeba więcej siły, by powstrzymać zmianę, niż ją wywołać.",
+      "kr_sha256": "3e79f8c381c71f64fff9bb4f3d5bb8460c0cb810e4998a920a33532dce2ad12c",
+      "en_sha256": "16236fac480e333be8909bfb20786099a803dbe97ed5bc550b79e8f3fddd1cb5",
+      "origin": "ai"
+    },
+    "dataList[id=9106602].name": {
+      "pl": "Preservation",
+      "kr_sha256": "cb5195070b54c5ad248fe736df48dc198352051f04a57ce223980e1141befa68",
+      "en_sha256": "9ca6fa0d8440abbca9060a1171352e63c6c6da19cd1d4cfec3291675beeab390",
+      "origin": "ai"
+    },
+    "dataList[id=9106603].desc": {
+      "pl": "Początek tury: przy 10+ Licznika [ChargeNoir] używa potężnej Umiejętności\n\nprzy użyciu Umiejętności, przy 15+ Licznika [ChargeNoir], zużywa 3 Licznika [ChargeNoir], aby zadać +20% obrażeń",
+      "kr_sha256": "24c03fd18dde02852ee973a9007df102da0d86ef7998744a7986edf31282a855",
+      "en_sha256": "57969772b104c659f5e0f96c7942f7b78c8f69ab0b3b6851638e54e577152768",
+      "origin": "ai"
+    },
+    "dataList[id=9106603].flavor": {
+      "pl": "Ten nowy Głos mówi mi, że przemieni mnie... tak, abym już nigdy nie musiał się zmieniać.",
+      "kr_sha256": "33f2a32d27021213c85c94d574261921c7980187c8aabae8abeb7d3acf1e0052",
+      "en_sha256": "744dd906dcdb4ad34c2571edb1e4dce4edd277f203bb5e33f827abe574c85667",
+      "origin": "ai"
+    },
+    "dataList[id=9106603].name": {
+      "pl": "Change for Inertness",
+      "kr_sha256": "89e0e0512c12a91376402a71e9e952a7372d399d9f361cc7612e7d709a3c087c",
+      "en_sha256": "24b6e448612e8cae0b09455d3584d53d6ac99a66486f3db84e77a7005a0a5e5d",
+      "origin": "ai"
+    },
+    "dataList[id=9106604].desc": {
+      "pl": "Przy pierwszym pojawieniu się w walce zyskuje 2 [RisingMadnessNoir]\n- Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [RisingMadnessNoir] zamienia się w [RisingMadnessNoir2nd]\n\nPo przegranej w Starciu zyskuje 2 Licznika [ChargeNoir]",
+      "kr_sha256": "87f840f2b261a0ac04bc3aecf453de986dd57e83da67abc03d7e6bd08e52ed4a",
+      "en_sha256": "e43d02d74ae86ce710133aa52f4ac0f36314ec99daff1cbfdcd6b9b648a3d174",
+      "origin": "ai"
+    },
+    "dataList[id=9106604].flavor": {
+      "pl": "Usłyszeli ciepły Głos, lecz nie mogli już dalej się zmienić. Z umysłem uwięzionym w ciele jaźń rozpadła się sama ze sobą i popadła w obłęd.",
+      "kr_sha256": "b07636fc772a19e339a8516221af3c4b458f0972aa92a475cd1e01dce94df421",
+      "en_sha256": "100a0fa6cb69b68c6587f15c6d66fe50aa7df7c0fbde8b61bf6825a6e03f085d",
+      "origin": "ai"
+    },
+    "dataList[id=9106604].name": {
+      "pl": "I hear it... the Voice of another god...!",
+      "kr_sha256": "79c175e7d85bf22258156ab7ea882b31e9ad22b8584907e8a8f830b7d733cf9e",
+      "en_sha256": "44ef2d4f10c3b71b8a0497cd85f0e7284a54f83ef2fc20b7ff7c41c554d5fba6",
+      "origin": "ai"
+    },
+    "dataList[id=9106701].desc": {
+      "pl": "Początek tury: przy 3+ Siły [ChargeRouge] i 10+ Licznika [ChargeRouge] używa potężnej Umiejętności\n\nUmiejętności zadają +1% obrażeń za każde 1% utraconego HP tej jednostki",
+      "kr_sha256": "5ffb67ca8e00ef484d09c47788623be459ab629d18169ed0d8a6f5bce60a216e",
+      "en_sha256": "5cd11b212ed28e6fbe5e103cc08b26c1e2f4e43f77cbea002bea8b258ce476da",
+      "origin": "ai"
+    },
+    "dataList[id=9106701].flavor": {
+      "pl": "So that I can be myself... My true self, expressed beyond what mere clothes can express!",
+      "kr_sha256": "430913f7bbf6864215faed483169d9ae559c2b04b580456ba55ef0452ffeb45d",
+      "en_sha256": "4d6a19724d254785506776f53d7f50bad4a8d52f0ccb6e69768f782e33c65389",
+      "origin": "ai"
+    },
+    "dataList[id=9106701].name": {
+      "pl": "Desperation",
+      "kr_sha256": "24e33782c1840b415a302a042a76bf4a6a40775637604c3c0132403bb2ca749d",
+      "en_sha256": "1dc26477ad0fa0c9e28e306b56978a9c1b3ab691369484ca601e8481d41abcc4",
+      "origin": "ai"
+    },
+    "dataList[id=9106702].desc": {
+      "pl": "Na początku etapu: zyskuje [RisingMadnessRouge]\n- Początek tury: gdy HP tej jednostki po raz pierwszy w tej walce spadnie poniżej 50%, [RisingMadnessRouge] zamienia się w [RisingMadnessRouge2nd]\n\nPo przegranej w Starciu zyskuje 2 Licznika [ChargeRouge]",
+      "kr_sha256": "ad619f78aee40f5de14195dbce761e837bd836c4a26d85ada9f4993d30a37ba0",
+      "en_sha256": "78376a14e1d70a4d70d747d7ea4e93af4a7bd4a8b24030bdfbaf15600df721c4",
+      "origin": "ai"
+    },
+    "dataList[id=9106702].flavor": {
+      "pl": "Usłyszeli ciepły Głos, lecz nie mogli już dalej się zmienić. Z umysłem uwięzionym w ciele jaźń rozpadła się sama ze sobą i popadła w obłęd.",
+      "kr_sha256": "b07636fc772a19e339a8516221af3c4b458f0972aa92a475cd1e01dce94df421",
+      "en_sha256": "100a0fa6cb69b68c6587f15c6d66fe50aa7df7c0fbde8b61bf6825a6e03f085d",
+      "origin": "ai"
+    },
+    "dataList[id=9106702].name": {
+      "pl": "I hear it... the Voice of another god...!",
+      "kr_sha256": "79c175e7d85bf22258156ab7ea882b31e9ad22b8584907e8a8f830b7d733cf9e",
+      "en_sha256": "44ef2d4f10c3b71b8a0497cd85f0e7284a54f83ef2fc20b7ff7c41c554d5fba6",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=ButlerAssoc].content": {
+      "pl": "Kamerdynerzy",
+      "kr_sha256": "7e391f51bf47f8714609fa5b215e64ec78a8e1ceeb3361788c2556d02d97664e",
+      "en_sha256": "07788a09ac8aba35152f38c00921ab10e15bf313555d5d7e2cdfdf1a3fa2c072",
+      "origin": "ai"
+    },
+    "dataList[id=CityDirection].content": {
+      "pl": "Dystrykty",
+      "kr_sha256": "c735b10be16d7c621c53c38d0f9a2fee613fbe3dc43e46e3899fafb9a88b76f1",
+      "en_sha256": "9e03ae84a7413936ff9ef9749fc044d460e4817107b974b6e13571706b35b009",
+      "origin": "ai"
+    },
+    "dataList[id=Line4].content": {
+      "pl": "Kolej Załamania — Linia 4",
+      "kr_sha256": "bf23fd1d917e107310abd6ae9c17fdbc634c94e0a2d3ad6920975d953641057e",
+      "en_sha256": "25abf018ca4ac4ccabfe71630311690c5a5a23459af90717e421382986c862f0",
+      "origin": "ai"
+    },
+    "dataList[id=PDA].content": {
+      "pl": "Terminal PDA",
+      "kr_sha256": "d1a49bc43e56da7648ed4a85368a7e1137d115a64815a95690693506f6186bad",
+      "en_sha256": "3ecdeaf777f02722007383cd99fd9898e878c4d6245cd9b0d0e386eadae795b7",
+      "origin": "ai"
+    }
+  }
+}

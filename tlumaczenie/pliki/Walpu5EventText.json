@@ -1,0 +1,448 @@
+{
+  "entries": {
+    "dataList[id=EVENT_Walpu5_HARD].content": {
+      "pl": "Trudny",
+      "kr_sha256": "fac94f696643f1bedee656b154eb1c5d9c27ecb455e190b37be53968cf49c549",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=EVENT_Walpu5_NORMAL].content": {
+      "pl": "Łatwy",
+      "kr_sha256": "dd0c5cb040fb29116e6c3c2fced2ffdb0727ad147174245e409fd05ebbe98f54",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=KillCount_Title_LOR_2].content": {
+      "pl": "Liczba pokonanych wrogów",
+      "kr_sha256": "9c92aed1abe9a996af2032a782e260992f120dd2547360b79e0c0cb405b2187f",
+      "en_sha256": "bf22a4d3b1d58d22228d392ab5064d55437fe6f47aedb842c4d8cda44a354265",
+      "origin": "ai"
+    },
+    "dataList[id=LOR_KillCountTitle_2].content": {
+      "pl": "Wyznawca Kościoła Trybów",
+      "kr_sha256": "be9f190a216a872cce0b6f8fb42537fc47b616b45ebaf0a76a64747ce6313762",
+      "en_sha256": "1fc51a68e6ddc6f342cb3a9e482b42f051cb48f7c8154ad02e9bf7791e144a6b",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_hard_stage].content": {
+      "pl": "Wejdź (Trudny)",
+      "kr_sha256": "211473890032a94848ec8608575a2e24136e3720e69939678ae9717667d34e64",
+      "en_sha256": "9902e779ec40f6e17db127758d27971578a89406c66c0b02f2a1af5af20efae5",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_hard_stage_name].content": {
+      "pl": "Księga Kościoła Trybów",
+      "kr_sha256": "cca8da1e3b44cc9af4675037b32a34804d799b6a3b9a0107d257adc57e9fab77",
+      "en_sha256": "78aac350c92be9fde275e4dfeb602ad25db7087cd85e41fa235a08b3b4e2d9ed",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_hard_stage_unlock_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Łatwego",
+      "kr_sha256": "d5630d0c2c88e9fa010f4ce357725d8bdb8a15109d731457b49e82f4de82e141",
+      "en_sha256": "254904efcf03534aa793ef5d26ec8882971c5f88e3662dc140469277575dbd1c",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_modal_no].content": {
+      "pl": "Nie",
+      "kr_sha256": "4c490f1ca1d756f81cf65bd67d61f01ca8c68fb5fb1edbc9c0de5ee7e6c50611",
+      "en_sha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_modal_yes].content": {
+      "pl": "Tak",
+      "kr_sha256": "2eb73fba696e2fe4ea0a206ed3d21758e35c7594905d6181d9c34ff19556b17a",
+      "en_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_normal_stage].content": {
+      "pl": "Wejdź (Łatwy)",
+      "kr_sha256": "41687be254692b7e58cd7e2d8d978042adebfcc37d3685bf26a65f4b85c6b31d",
+      "en_sha256": "31d204931d2a683f764b5bc86e17dd272894f17c72a21e75973bb84d6b0a6b0b",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_normal_stage_name].content": {
+      "pl": "Księga Kościoła Trybów",
+      "kr_sha256": "cca8da1e3b44cc9af4675037b32a34804d799b6a3b9a0107d257adc57e9fab77",
+      "en_sha256": "78aac350c92be9fde275e4dfeb602ad25db7087cd85e41fa235a08b3b4e2d9ed",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_not_progress_event_date].content": {
+      "pl": "Zakończenie okresu wydarzenia",
+      "kr_sha256": "b54ce6259c86e50ae5d93bc0d651caa89288d0752e088bbc7d4c9b54bfa74d34",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_reward_button].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_reward_event_desc].content": {
+      "pl": "Pokonaj Wyznawców Kościoła Trybów w walkach na Poziomach Łatwym i Trudnym i ukończ misje.\n\nZa ukończone misje otrzymasz różne nagrody.",
+      "kr_sha256": "960e75320c6eb6131142f0a2bdc4834fccf898592448347fe8f2a36cca59d168",
+      "en_sha256": "5ec9b3ac6da759db5f67bfb70f291d7725ac034427db84bd8ad56eaafa9d05e9",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_reward_hard_tab].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_reward_normal_tab].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu5_story_theater_button].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_battleresult_defeat_lor_stage_type_2].content": {
+      "pl": "Tłumienie nieudane",
+      "kr_sha256": "40a8df4345495248e63e407985600051432170178d656ca912526ff218be2920",
+      "en_sha256": "6cece76c1249c934e4eb80d30710a1a10c2c8228f573bebb79a91be01e5ad741",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_battleresult_reward_title_lor_stage_type_2].content": {
+      "pl": "Pokonane jednostki",
+      "kr_sha256": "dd43ce14a4f96aa505ebe622f48a13b72a9dd95414f03b889f98ee3c15d5c93c",
+      "en_sha256": "67a480d6313dfc3585d2e93df48d372ecf6c8eb7b50f985a250e55543c173922",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_battleresult_win_lor_stage_type_2].content": {
+      "pl": "Tłumienie ukończone",
+      "kr_sha256": "fcf0410d501d290c8dbf24dd171c6c1584b865c29b9714300aebd83f91380f26",
+      "en_sha256": "f7b7e5f098cd8aaa287feb40e1780aafe185f3d8a58070426c91a1d76ea94b04",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10037].content": {
+      "pl": "Pokonaj Wyznawcę Kościoła Trybów w jednej walce",
+      "kr_sha256": "f3d252bddfd1789e7bf7aa4607efe692e6504d447395637fe3fb840d66fef4ed",
+      "en_sha256": "f9d045f0843a40240bc462b10923db1af62d4c8004ecada49ca46f83edaab270",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10038].content": {
+      "pl": "Pokonaj Wyznawcę Kościoła Trybów w jednej walce",
+      "kr_sha256": "f3d252bddfd1789e7bf7aa4607efe692e6504d447395637fe3fb840d66fef4ed",
+      "en_sha256": "f9d045f0843a40240bc462b10923db1af62d4c8004ecada49ca46f83edaab270",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10039].content": {
+      "pl": "Pokonaj Wyznawcę Kościoła Trybów w jednej walce",
+      "kr_sha256": "f3d252bddfd1789e7bf7aa4607efe692e6504d447395637fe3fb840d66fef4ed",
+      "en_sha256": "f9d045f0843a40240bc462b10923db1af62d4c8004ecada49ca46f83edaab270",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10040].content": {
+      "pl": "Pokonaj Agresywnego Fanatyka Trybów w jednej walce",
+      "kr_sha256": "c196a16a094dc3cc0039aaeb4bf829c0a3144d4b0ec86a1976912d42d7ba38c6",
+      "en_sha256": "97d61cb916e4856032e36264adeb50e339dafcb3bed7b59b475ae14435d0ab1f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10041].content": {
+      "pl": "Ukończ Tłumienie bez śmierci żadnego sojusznika",
+      "kr_sha256": "d61f5b0db3e62e2cc1ec2264303593ca3ecc26bf313b0a3146dae6d6693a3eff",
+      "en_sha256": "6fde0e65a51cd020e5c6831a8ab52edc522d6a16d88d435a0fbda52cac60cceb",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10042].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "79262e9baa08b74d9886b10c9e7ccfaa87591a2db06daa4a5cddfccdf5b014eb",
+      "en_sha256": "76453fb7531df1ab374acf94e6b0b677aec62044ec3d6b963d9e3d4c1ef14d35",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10043].content": {
+      "pl": "W jednej walce sojusznik z efektem „Pełna Gotowość do Strzału” pokonuje Wyznawcę Kościoła Trybów",
+      "kr_sha256": "0e2ff9f77b9685ce01bdf2f0d14c5aea51b71ef319ae4e9535cb91877e22533f",
+      "en_sha256": "d269402aa90c142f16125351885e797d9b4c5fd75ef2347a7abcff297eaf1799",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10044].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem „Pełna Gotowość do Strzału” przeżyje, otrzymawszy mniej niż 5 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "6abcf4c963bd761b6ced83ed27ca53cb24fcfe294b1149dabd0893c034aba5d7",
+      "en_sha256": "2da1fbb80659743584b5a78d0af03b1c94ce5040a2c720329fc5436fe4996714",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10045].content": {
+      "pl": "Pokonaj 4 lub więcej Wyznawców Kościoła Trybów jednym użyciem Umiejętności ataku",
+      "kr_sha256": "f2c7563743cee7f7fcf3d09f13f769826ef71a0c5ed8b7c756a665ef090ff5c9",
+      "en_sha256": "30f13693d88948010587813557e4adc968b692aa4c2ccc6b1b7a58452c9fd97d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10046].content": {
+      "pl": "Pokonaj Agresywnego Fanatyka Trybów z HP 80% lub wyższym jednym użyciem Umiejętności ataku",
+      "kr_sha256": "57fdf855cbf2b673c61197a9cdb1e6f93edc66ef335b1d0ed16d4ec1a1b47728",
+      "en_sha256": "523045f70a348ba96a54a106c0bcb519820f51b308164b0871340e5f5323072e",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20039].content": {
+      "pl": "Pokonaj Wyznawcę Kościoła Trybów w jednej walce",
+      "kr_sha256": "f3d252bddfd1789e7bf7aa4607efe692e6504d447395637fe3fb840d66fef4ed",
+      "en_sha256": "f9d045f0843a40240bc462b10923db1af62d4c8004ecada49ca46f83edaab270",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20040].content": {
+      "pl": "Pokonaj Wyznawcę Kościoła Trybów w jednej walce",
+      "kr_sha256": "f3d252bddfd1789e7bf7aa4607efe692e6504d447395637fe3fb840d66fef4ed",
+      "en_sha256": "f9d045f0843a40240bc462b10923db1af62d4c8004ecada49ca46f83edaab270",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20041].content": {
+      "pl": "Pokonaj Wyznawcę Kościoła Trybów w jednej walce",
+      "kr_sha256": "f3d252bddfd1789e7bf7aa4607efe692e6504d447395637fe3fb840d66fef4ed",
+      "en_sha256": "f9d045f0843a40240bc462b10923db1af62d4c8004ecada49ca46f83edaab270",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20042].content": {
+      "pl": "Pokonaj Agresywnego Fanatyka Trybów w jednej walce",
+      "kr_sha256": "c196a16a094dc3cc0039aaeb4bf829c0a3144d4b0ec86a1976912d42d7ba38c6",
+      "en_sha256": "97d61cb916e4856032e36264adeb50e339dafcb3bed7b59b475ae14435d0ab1f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20043].content": {
+      "pl": "Ukończ Tłumienie bez śmierci żadnego sojusznika",
+      "kr_sha256": "d61f5b0db3e62e2cc1ec2264303593ca3ecc26bf313b0a3146dae6d6693a3eff",
+      "en_sha256": "6fde0e65a51cd020e5c6831a8ab52edc522d6a16d88d435a0fbda52cac60cceb",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20044].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "79262e9baa08b74d9886b10c9e7ccfaa87591a2db06daa4a5cddfccdf5b014eb",
+      "en_sha256": "76453fb7531df1ab374acf94e6b0b677aec62044ec3d6b963d9e3d4c1ef14d35",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20045].content": {
+      "pl": "Ukończ Tłumienie bez sojuszników z Siłą Dymu 10 lub wyższą",
+      "kr_sha256": "afc5a1cae1e62e3b93110ce4936b910fb350b29b4901b6fe6e6b48bd0fea306a",
+      "en_sha256": "d8e6ec4f401e3071ced90c3a58d18b9aa9ba7dbffcde32d1b75ea6e6ff57ffd0",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20046].content": {
+      "pl": "W jednej walce sojusznik z efektem „Pełna Gotowość do Strzału” pokonuje Wyznawcę Kościoła Trybów",
+      "kr_sha256": "0e2ff9f77b9685ce01bdf2f0d14c5aea51b71ef319ae4e9535cb91877e22533f",
+      "en_sha256": "d269402aa90c142f16125351885e797d9b4c5fd75ef2347a7abcff297eaf1799",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20047].content": {
+      "pl": "W jednej walce sojusznik z efektem „Pełna Gotowość do Strzału” pokonuje Wyznawcę Kościoła Trybów",
+      "kr_sha256": "0e2ff9f77b9685ce01bdf2f0d14c5aea51b71ef319ae4e9535cb91877e22533f",
+      "en_sha256": "d269402aa90c142f16125351885e797d9b4c5fd75ef2347a7abcff297eaf1799",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20048].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem „Pełna Gotowość do Strzału” przeżyje, otrzymawszy mniej niż 3 trafienia Umiejętnościami ataku wroga",
+      "kr_sha256": "c3b03e2a05db5fb44dc46bc6e4b0925c254248b087d4b65a4d18bfc23c489786",
+      "en_sha256": "f8f4bb958588ac0d4716eed9425ff2a1a504e941f3d60e491320001039e54c7d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20049].content": {
+      "pl": "Pokonaj 7 lub więcej Wyznawców Kościoła Trybów jednym użyciem Umiejętności ataku",
+      "kr_sha256": "2b4459a0ca5746c35cad0860bb611c45a244b45f2681fcf2bbadd09e755c7f06",
+      "en_sha256": "5fd92070103fd7bca8bfa951c1d488af836fa4dcbff3cc9d9489294ea5be6e03",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20050].content": {
+      "pl": "Pokonaj Agresywnego Fanatyka Trybów z HP 80% lub wyższym jednym użyciem Umiejętności ataku",
+      "kr_sha256": "57fdf855cbf2b673c61197a9cdb1e6f93edc66ef335b1d0ed16d4ec1a1b47728",
+      "en_sha256": "523045f70a348ba96a54a106c0bcb519820f51b308164b0871340e5f5323072e",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20051].content": {
+      "pl": "W jednej walce zadaj 300 lub więcej obrażeń krytycznych pojedynczą Umiejętnością ataku",
+      "kr_sha256": "dedb3c5fdd2a29382e94888093b55d921654359bf24f67c86a8098d158e22047",
+      "en_sha256": "4c4c102a48876c71f06ce0712660346db7c75f6e7e877383eb889a11cc6c98db",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_30004].content": {
+      "pl": "Ukończ wszystkie misje na Poziomach Łatwym i Trudnym",
+      "kr_sha256": "08d1ce4e0147ad9d479388dd9893ddfd5ac5b254b2c90bec7a7dc70a434da203",
+      "en_sha256": "c950b0faf28bbd710f7fd47920970a0bfa640449daee9c0d170613c4a0334fee",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_01_desc_01].content": {
+      "pl": "[5. Noc Walpurgii — Kropka Postawiona Kulą] odblokowuje się niezależnie od postępu Głównej Opowieści. Wejdź przez banner wydarzenia w zakładce Okno albo Jazda.",
+      "kr_sha256": "4d32e892523afdea0e414880789466528932e5fefbacd53acbd2e76902b07694",
+      "en_sha256": "b13e5ccddec67e69cf63ccd0df24ece691baaf8a9e66f8fc217c99b7a79c5e65",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_01_title].content": {
+      "pl": "5. Noc Walpurgii — Kropka Postawiona Kulą",
+      "kr_sha256": "7709bfb96e34beee6845f32eaf3a66bf96cadd3a6b244389fd23e6b1f86c1f63",
+      "en_sha256": "88072eb652329630c59d6b31e8b608475a6f02461a858814fad23d6b419bd9ce",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_01_title_01].content": {
+      "pl": "5. Noc Walpurgii — Kropka Postawiona Kulą",
+      "kr_sha256": "7709bfb96e34beee6845f32eaf3a66bf96cadd3a6b244389fd23e6b1f86c1f63",
+      "en_sha256": "88072eb652329630c59d6b31e8b608475a6f02461a858814fad23d6b419bd9ce",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_02_desc_01].content": {
+      "pl": "[5. Noc Walpurgii — Kropka Postawiona Kulą] — tu widnieje czas trwania wydarzenia. W trakcie wydarzenia tocz walki na Poziomach Łatwym i Trudnym, wykonuj misje i odbieraj nagrody za ukończone misje.",
+      "kr_sha256": "91a059fbc453bb5cd1fef34e762cb4a7a95558132f206959a57086ca5195008d",
+      "en_sha256": "6acc2d5ddabe32f5f75b6660a1489a088ece2808394958d7f9cd50d14699fe27",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_02_title_01].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_03_desc_01].content": {
+      "pl": "Dotknij drzwi, aby wejść do walki na poziomie Łatwym.\nW okresie 5. Nocy Walpurgii walka zużywa Moduł Enkefalinu przy wejściu. Na poziomie Łatwym Tożsamości na poziomie niższym niż 50 podnoszone są do poziomu 50.\nPonadto Stopień Synchronizacji Tożsamości niższy niż 3\npodnoszony jest do 3.\nStopień Splotu Nici E.G.O pozostaje bez zmian.",
+      "kr_sha256": "1644110b472a182d8ece95bb849ba6a59022d18067584c512366a942634e24cf",
+      "en_sha256": "237d1fb8efd12b9b8179b3061f26db972583010b4934577630785f040a79e6de",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_03_desc_02].content": {
+      "pl": "Ukończenie walki na poziomie Łatwym odblokowuje walkę na poziomie Trudnym.\nNa poziomie Trudnym obowiązują obecne Poziomy Tożsamości, Stopnie Synchronizacji Tożsamości i Stopnie Splotu Nici E.G.O.",
+      "kr_sha256": "952efc0ffc70facf69ca532c3d53e875d20c088cb9dc33787b8a30f2040ad093",
+      "en_sha256": "fdf0d318a0398d44c76e5ee1081741efea36e9977b8e66fc6f46f04cf4ffe905",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_03_title_01].content": {
+      "pl": "Walka na poziomie Łatwym",
+      "kr_sha256": "e9bf1e0d6c19d1d6bedb91311f84be4ec50ef1a4d5f63088da26a82d320c275c",
+      "en_sha256": "7677c0e78f53a8c656bcd1443d568feff87dd9ff4f647da25756abf6a08d795c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_03_title_02].content": {
+      "pl": "Walka na poziomie Trudnym",
+      "kr_sha256": "975408004ea981ab6628b36b544913988c86e84f4992c27426b7fcefc9f3fb43",
+      "en_sha256": "1c9470f354f7f51b997fac91d7543858743c27f8734d73127eaa6e7ca304d1e2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_04_desc_01].content": {
+      "pl": "Pierwszy Grzesznik w kolejności składu bojowego otrzymuje efekt „Pełna Gotowość do Strzału”. Grzesznik z tym efektem zyskuje więcej akcji w walce oraz pozytywne efekty.",
+      "kr_sha256": "e2628ddc7a53fed85d2caa38c4a9cacc11dc302f80869469df774513c04ab499",
+      "en_sha256": "b4da057161f37e9d0b65e6f272bc7008af9ba45dc804b195f70ff411a2332c27",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_04_title_01].content": {
+      "pl": "Efekt „Pełna Gotowość do Strzału”",
+      "kr_sha256": "fd7bbf431728f86921e60d4151d2bc636516450d8dbaf63aa09a292ae206f8c4",
+      "en_sha256": "324ca350bfa5e051676b57617d5da148dd5a869891c38166b541efc0a2e227f9",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_05_desc_01].content": {
+      "pl": "Przejdź na stronę [Listy misji], aby sprawdzić misje możliwe do wykonania w walce oraz przypisane do nich nagrody.",
+      "kr_sha256": "5b21dd16acb51739c63b52fd649315bf1161f03acf4a7fed02bdb636bd5fb364",
+      "en_sha256": "aaac72dc9a2dec51bd026082b34d519e5a57e730aa6ea17b5926992066e54b1d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_05_title_01].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_06_desc_01].content": {
+      "pl": "Na stronie [Listy misji] wyświetlany jest okres odbioru nagród.",
+      "kr_sha256": "206adbc09a0602eaf37708a6b06f04aa65e785847ed3c032c1419bdb8fe4b582",
+      "en_sha256": "692f04498ba39afab2a72f0e1bfd5f2cba73b88d2a80c7379c7f44ffd7929127",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_06_desc_02].content": {
+      "pl": "Poziomy Łatwy i Trudny mają osobne zestawy misji do wykonania.",
+      "kr_sha256": "9cb36f94ba6eec0b9baaf75ef3937fa7c55e487b487285f5aecf9934d7e8344f",
+      "en_sha256": "b790d2be23738e2d6130d96bd532f46174c03e8a8b948026041b07c1d3118f16",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_06_desc_03].content": {
+      "pl": "Ukończ misje, aby odebrać rozmaite nagrody z [Listy misji].",
+      "kr_sha256": "b12cc61db78c4b88efe205cb6984342ebdcf14e60f310620ff4b6939cc1a2ccd",
+      "en_sha256": "02ea8378ad14a9648d7778abc2b49add817e9755c8dcb182159a42e078df30ec",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_27_Walpu5_07_desc_01].content": {
+      "pl": "Po zakończeniu wydarzenia nadal będziesz mógł toczyć walki „5. Nocy Walpurgii — Kropka Postawiona Kulą” i oglądać jej opowieść w zakładce Jazda oraz w Teatrze — [Opowieści Poboczne].",
+      "kr_sha256": "d09de035bf0d07d75a824ecd56cc961cc319d0bdc05d96497a9da226e88a9c0a",
+      "en_sha256": "f64d5783c4088d72b8b7cc2152ba1edd4bdaa752d80c3ba352880ee38711fbf9",
+      "origin": "ai"
+    },
+    "dataList[id=walpu5_battle_entrance].content": {
+      "pl": "Do Boju!",
+      "kr_sha256": "44aff5bc844775f1aadde1629fe5fd7b2e4b27fd4dcb7a18a406465938628b36",
+      "en_sha256": "d3add442e011d8ffef60a357ceb273266c4a33277359b06817fc58739ad1e8c2",
+      "origin": "ai"
+    },
+    "dataList[id=walpu5_on_end_event].content": {
+      "pl": "Wydarzenie zakończone",
+      "kr_sha256": "10c1a7fb6ac0beea563fd4a9919506b1709388ed4b621086ee28062fe8d16a13",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_2_wave].content": {
+      "pl": "Oratorium Kościoła Trybów",
+      "kr_sha256": "d4bed1c492ab69238c590387db1185811a436c5e7dff51ee1d9b96dce9884fbe",
+      "en_sha256": "faba81a47a3d760042af26f38aed05d13e69de438222fa6e5ac3815b132662e6",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10562].content": {
+      "pl": "Wyznawca Kościoła Trybów",
+      "kr_sha256": "be9f190a216a872cce0b6f8fb42537fc47b616b45ebaf0a76a64747ce6313762",
+      "en_sha256": "1fc51a68e6ddc6f342cb3a9e482b42f051cb48f7c8154ad02e9bf7791e144a6b",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10563].content": {
+      "pl": "Wyznawca Kościoła Trybów",
+      "kr_sha256": "be9f190a216a872cce0b6f8fb42537fc47b616b45ebaf0a76a64747ce6313762",
+      "en_sha256": "1fc51a68e6ddc6f342cb3a9e482b42f051cb48f7c8154ad02e9bf7791e144a6b",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10564].content": {
+      "pl": "Wyznawca Kościoła Trybów",
+      "kr_sha256": "be9f190a216a872cce0b6f8fb42537fc47b616b45ebaf0a76a64747ce6313762",
+      "en_sha256": "1fc51a68e6ddc6f342cb3a9e482b42f051cb48f7c8154ad02e9bf7791e144a6b",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10565].content": {
+      "pl": "Wyznawca Kościoła Trybów",
+      "kr_sha256": "be9f190a216a872cce0b6f8fb42537fc47b616b45ebaf0a76a64747ce6313762",
+      "en_sha256": "1fc51a68e6ddc6f342cb3a9e482b42f051cb48f7c8154ad02e9bf7791e144a6b",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_lose_1].content": {
+      "pl": "{0} — Tłumienie nieudane",
+      "kr_sha256": "889ee998fdc5e6f0d989fbc5f4e79446f228a84e7d6074ebcaa546382c72e95d",
+      "en_sha256": "d4f9bfeda7cfe4c4b1dfa15fdda7fac067329f6e2490b83bb7ea7b67d5b764c7",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_lose_2].content": {
+      "pl": "{0} — Tłumienie nieudane",
+      "kr_sha256": "889ee998fdc5e6f0d989fbc5f4e79446f228a84e7d6074ebcaa546382c72e95d",
+      "en_sha256": "d4f9bfeda7cfe4c4b1dfa15fdda7fac067329f6e2490b83bb7ea7b67d5b764c7",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_win_1].content": {
+      "pl": "{0} — Pokonani",
+      "kr_sha256": "b56ffa1e27f637ad220cf10254c80b37d227d789a7eedd485ef8d47194ec8795",
+      "en_sha256": "05993887f0b9833f6587e497ba16e25f84c5a6acfb7e2fe6917e39e5f9d75b84",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_win_2].content": {
+      "pl": "{0} — Tłumienie ukończone",
+      "kr_sha256": "46a11f6b2c81a626da3418b6fda14475cc22af5b93e2ba9f88b8c2aed223d712",
+      "en_sha256": "6e576244f543953487773b685c5d09d7530d9aebf0707ae9bbbe14b1c4fa9d1a",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_modal_enterStage_10562].content": {
+      "pl": "Wkroczyć do księgi Kościoła Trybów?",
+      "kr_sha256": "2348967eadb7ea418d895e72acffa21b58b1d3d9b261a05d79a87cad26787de7",
+      "en_sha256": "e65279678702519d13d13c41c00edee5f49f170023dd3498e90e38749dbfd330",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_modal_enterStage_10563].content": {
+      "pl": "Wkroczyć do księgi Kościoła Trybów?",
+      "kr_sha256": "2348967eadb7ea418d895e72acffa21b58b1d3d9b261a05d79a87cad26787de7",
+      "en_sha256": "e65279678702519d13d13c41c00edee5f49f170023dd3498e90e38749dbfd330",
+      "origin": "ai"
+    }
+  }
+}

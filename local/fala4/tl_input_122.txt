@@ -1,0 +1,96 @@
+11831||PersonVoice#Voice_Yisang_Starb_10107.json] 야간 항해를 너무 길게 하는 건 좋지 않소. 안전을 따진다면 그건 상식일테요. 그대는 좀 들어가 쉬시게.|Do not sail overlong under the night sky. It is common wisdom that such practice invites peril to a journey. Please, do get yourself some rest.
+11832||PersonVoice#Voice_Yisang_Starb_10107.json] 흐음… 이 말라 비틀어진 지느러미살을 먹는 것도 좀 지치는구료. 그대는 좀 먹을 만한가?|Hm... I grow weary of this diet of desiccated fins. How do you fare?
+11833||PersonVoice#Voice_Yisang_Starb_10107.json] 흠… 물을 가르는 소리만 남은 것도 제법 운치가 있구료.|Hm... All is silent, save for the sound of the vessel hewing across the waters. This is also quite pleasant.
+11834||PersonVoice#Voice_Yisang_Starb_10107.json] 자, 고래의 이 부분을 공격하는 것이오. 묵직한 한 방을 내기 어렵다면… 한 곳을 빠르게 여러번 쑤셔서 이런 효과를 갖는게지.|See, this is the part of a Whale that you must assail. If a singular, powerful strike is difficult to execute, apply multiple strikes to a single point. Then you should be able to perform effectively.
+11835||PersonVoice#Voice_Yisang_Starb_10107.json] 갑판! 노닥거리지 말고 위치로 가서 일하게! …아, 그대 듣기는 조금 시끄러웠겠구료. 내 사과하지.|Deckhands! Cease your loitering and return to your stations! ... Ah, apologies. That may have been quite loud for you. I apologize.
+11836||PersonVoice#Voice_Yisang_Starb_10107.json] 항해사 일은… 뭐, 나쁘지는 않네만. 그래도 나는, 이 항해를 끝내면 카페를 하나 내고 싶소. 급박한 일보다는 이제는 느긋한 일을 꿈꾸게 되어가는군.|The life of a sailor is... Quite all right. Once this endeavor is complete, however, I wish to start a café of my own.\nI have begun dreaming of a leisurely life, free from urgency.
+11837||PersonVoice#Voice_Yisang_Starb_10107.json] 밧줄을 놓치지 마시오! 작살을 든 손을 미끄러트리면 죽소! 현명하게… 대담하게 임하시오!|Do not let go of the rope! To release the rope is to release your hold on life! Be wise... yet bold!
+11838||PersonVoice#Voice_Yisang_Starb_10107.json] 이스마엘 선장께서는 그대들의 죽음을 명하지 않았소! 우리 모두… 저것을 잡아내고 각자가 있을 곳으로 돌아가야 하오.|Captain Ishmael has not ordered you to your deaths! We must... All of us must kill it and return to where we belong!
+11839||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 흉터는 남지 않을 것이오.|This will leave a scar not.
+11840||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 흠…|Hmh…
+11841||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 저들이 순응을 아는 자들이기에 다행이오.|I am relieved to see that they know to comply.
+11842||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 갈가리 베어버렸소. 이보다 정신이 맑을 때가 없군.|I shred them to pieces. My mind is now clearer than ever.
+11843||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 내 검은 만족할 만큼 베어냈소. 그러니 미련은 없지.|My sword has cut its fair share. Nothing stops me from accepting this result.
+11844||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 죄를 새겨주겠소.|I shall carve the sin unto you.
+11845||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 혈이 낭자하오.|It’s bloodshed.
+11846||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 흉터의 결과요.|A consequence of the scars.
+11847||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 검은 아직 벼려있소.|The sword is still sharp.
+11848||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 그대, 이 검이 필요하오?|Are you in need of this blade?
+11849||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 묘혈을 판 것 같소.|It would seem that I dug a grave.
+11850||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 흉터는 경험이오.|Scars signify experience.
+11851||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 피가 범람할 시간이오.|It’s time to raise a deluge of blood.
+11852||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 검이 부러질 때까지 함께 하겠소.|I shall stay by your side until my sword breaks.
+11853||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 나는 유려하면서도 비범하게 심장을 베는 법을 알고 있소.|I know of the ways to cut through a heart with elegance and eccentricity.
+11854||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 검의 향연을 이룰 시간이 돌아왔소.|It’s time again for a banquet of swordplay.
+11855||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 달빛은 마음에 들지 않소. 비추면 안 될 것을 구태여 환히 돋보이게 만들기만 하니.|I do not enjoy the moonlight much. All it does is shed a gleam on what should be left unlit.
+11856||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 웃음이 많은 자들을 조심하시오. 그 허풍 같은 웃음 속엔 칼이 숨어 있소.|Be wary of those with plenty of laughs and smiles to show. A sharp edge lurks beneath that deceptive expression.
+11857||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 그대, 대화가 끝났다고 바로 돌아서다니, 퍽 냉정하군.|You’re rather cold, turning away the moment a conversation dies down.
+11858||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 이 흉터들 말이오? 이제 아물었소. 그보다는… 이 흉터를 만들어낸 이들이 어떻게 되었는지 물어봐야 하는 것이 아니오?|These scars? They are healed up now. Rather than that… shouldn’t you be asking what became of those who left them on me?
+11859||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 제아무리 잘 벼려진 검이라도 아니 든다면 무용에 불과하지.|The sharpest blade has no meaning if it lies unused.
+11860||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 내 옛날을 묻는 것이오? 그러한 것들은… 옛적에 모두 베어버렸소.|Are you curious of my past? Such things… have all been cut off long ago.
+11861||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 비밀을 하나 말해주자면 난 눈과 귀를 막고도 적을 벨 수 있소. …농이오. 단테, 그대는 참으로 순진하군.|To tell you a secret, I can slay a foe with both my eyes and ears closed. …I was in jest. Dante, you truly are credulous.
+11862||PersonVoice#Voice_Yisang_SwordGroup_10103.json] 지금까지 시계는 내게 그저 무용한 것에 불과했는데 말이오. 단테, 그대의 시계는 참으로 매혹적일 만큼 이상스러워.|Until now, a clock was nothing more than a useless thing to me. Yours, however, has such a peculiar charm to it, Dante.
+11864||PersonVoice#Voice_Yisang_Wcorp_10106.json] 정리는 끝났소. 다음 정리까지는 좀 잠들고 싶군.|This cleanup is complete. Allow me to nap until our next assignment.
+11865||PersonVoice#Voice_Yisang_Wcorp_10106.json] 아무래도 다른 사우들의 몫까지 해결해 버린 모양이구료. 보상은 없는가, 잠시 다른 일을 하는 것이어도 좋으니.|It appears that I have resolved my fellow employees' share of responsibilities as well. Will there be a reward for this performance? I would appreciate even a reassignment to a different line of work.
+11866||PersonVoice#Voice_Yisang_Wcorp_10106.json] 마침내… 굴레를 벗는… 가?|Am I freed at last... from the yoke?
+11867||PersonVoice#Voice_Yisang_Wcorp_10106.json] …이 보시오. 나는 이 일이 맞지 않는 것 같소. 나에 대한 평가가 잘못되지는 않았는지, 재고를…|... Please, take heed. I no longer believe that I am appropriate for this line of work. Revisit your assessment of my aptitude, if you will...
+11868||PersonVoice#Voice_Yisang_Wcorp_10106.json] 이제…|Now...
+11869||PersonVoice#Voice_Yisang_Wcorp_10106.json] 쉬시게.|You may rest.
+11870||PersonVoice#Voice_Yisang_Wcorp_10106.json] 다른 일이 있는가?|Is there aught else?
+11871||PersonVoice#Voice_Yisang_Wcorp_10106.json] 정리를 시작하겠소.|Commencing cleanup.
+11872||PersonVoice#Voice_Yisang_Wcorp_10106.json] …이번엔 해결하지 못했소.|... It could not be addressed.
+11873||PersonVoice#Voice_Yisang_Wcorp_10106.json] 해결했군.|It has been addressed.
+11874||PersonVoice#Voice_Yisang_Wcorp_10106.json] 출근하겠소.|Commuting to work.
+11875||PersonVoice#Voice_Yisang_Wcorp_10106.json] 내가 능력이 있다는거요? …그렇구료. 가르치는 쪽의 능력도 봐주었으면 하네만.|You insinuate that I am rather capable? ... Very well. ...I would appreciate it if you would take note of my teaching abilities also.
+11876||PersonVoice#Voice_Yisang_Wcorp_10106.json] 출근 중에는 되도록 건드리지 않았으면 하오만… 무엇이오?|I prefer to not be disturbed during my morning commute... What is it?
+11877||PersonVoice#Voice_Yisang_Wcorp_10106.json] 이 시간에 앉아서 갈 수 있다는 것만으로 작지 않은 행운이오. 조금… 잘 수… 있겠군…|It is no small fortune that I was able to procure myself a seat on the way to work at this time of day. Perhaps... today... I may be permitted a small... nap...
+11878||PersonVoice#Voice_Yisang_Wcorp_10106.json] 밤이 되면 달도 없는 그믐 칠야에… 새까맣게, 아무런 것들이 보이지가 않소. 나는 이런 시간이 퍽 좋소.\n사람이 침소로 들어가듯… 생각도 어둠 속으로 아주 없어져 버리니.|When a moonless, tenebrous night of the month-end descends, all is obscured with naught manifest before me. I regard such hours with fondness.\nThoughts fade into oblivion... as consciousness is claimed by slumber.
+11879||PersonVoice#Voice_Yisang_Wcorp_10106.json] 이제 반절 지나갔는가… 하지만, 또 반절이 두 번 지나면 이 곳에서 다시 일하고 있겠지.\n끊어낼 방법조차 보이지 않는 굴레구료.|This day is now half spent... Yet, after two more halfs of a day I shall return to this exact spot to do selfsame, unchanging work. I see no way of freeing myself from this cyclical yoke.
+11880||PersonVoice#Voice_Yisang_Wcorp_10106.json] 하… 언제쯤 끝이 날지…|Haah... When will this cycle be broken?
+11881||PersonVoice#Voice_Yisang_Wcorp_10106.json] 특별히 무얼 생각하지 않소. 무언가를 생각지 않게 노력한다고 하는 것이 바를 지도 모르겠군.\n이대로 잠에 들면… 조금은 편해질 지도 모르겠소.|I do not think of anything in particular. Perhaps it would be more accurate to say that I try to not think of anything.\nPerchance I may claim myself a marginally restful night... were I to drift off in this state.
+11882||PersonVoice#Voice_Yisang_Wcorp_10106.json] 그런 열차에서 일하면서 또 다른 열차에 몸을 싣고 어디론가로 간다는 것은 퍽 우스꽝스럽지.\n그대도 그렇게 생각하지 않는가?|There is ironic humor in taking a train to go clean a different train of such... peculiar nature, wouldn't you agree?
+11883||PersonVoice#Voice_Yisang_Wcorp_10106.json] 근래에는 새로 입사한 사우들에게 우리 회사를 가르치는 일을 부탁받았소. 제법 즐거웠지, 열차를 정리하는 것보다 더욱.\n어쩌면 나는 누군가를 가르치는데에 재능이 있었을지도 모르오. 혹은 흥미라던가.|I have been assigned the task of training our new fellow employees as of late. It is quite enjoyable. Much more so than cleaning up the trains.\nPerhaps I've a talent for education. Or an interest, at least.
+11884||PersonVoice#Voice_Yisang_Wcorp_10106.json] 이러한 일을 할 때 특별히 무얼 생각하지 않소. 아니, 무언가를 생각지 않게…\n아, 언젠가 말했던 적이 있던가. 이해해주게. 무너지기 전에 다잡는 중이니.|When doing work of this nature, I do not think of anything in particular. Perhaps it would be more accurate to say that—\nAh, so these words have been uttered before. Please do understand. I simply seek to collect myself afore I am broken.
+11885||PersonVoice#Voice_Yisang_Wcorp_10106.json] 함께 사우를 가르치는 일에 발령받은 사우께선 그 일이 마음에 들지 않은가 보오.\n차라리 나의 일만큼 그 자가 가져가 주면 좋으련만. 물론, 회사가 그리 두지는 않겠지.|My fellow employee, who was assigned the same task of educating our new recruits, appear averse to doing such work.\nI would rather have her take over my portion of the... other work. Yet, I have scant faith that the company would allow such reassignment.
+11886||BgmLyrics#BgmLyrics_10948.json] <style="DKR_CP9_1">아라야는 기다리고 있지 않아.|<style="DEN_CP9_1">Araya is waiting for no one.
+11887||BgmLyrics#BgmLyrics_10948.json] <style="DKR_CP9_1">기억되지 못한다면 시간마저도 사라지게 되는 거야.|<style="DEN_CP9_1">Once something cannot be remembered anymore, its time is as good as lost.
+11888||BgmLyrics#BgmLyrics_10948.json] <style="DKR_CP9_1">네가 돌아오는 날은 오늘일까, 내일일까. 아니, 돌아오긴 하는 걸까?|<style="DEN_CP9_1">When will you come back? Will you be back tomorrow? Will you ever return?
+11889||BgmLyrics#BgmLyrics_10948.json] <style="DKR_CP9_1">반드시 돌아온다는 그 약속을 믿으며 낮도 밤도 잊고 기다렸지.|<style="DEN_CP9_1">I trusted you. Day and night I waited, hanging onto your promise.
+11890||BgmLyrics#BgmLyrics_10948.json] <style="DKR_CP9_1">베어내고, 또 베어내도, 그날의 원망은 끊어지지 않고 돌아올 뿐.|<style="DEN_CP9_1">The resentment of that day keeps echoing back, no matter how many times I slashed at them...
+11891||BgmLyrics#BgmLyrics_10948.json] <style="DKR_CP9_1">…안돼. 지금은… 돌아가고 싶지 않아.|<style="DEN_CP9_1">... Not yet. I do not wish... to return yet.
+11892||BgmLyrics#BgmLyrics_10948.json] <style="DKR_CP9_1">여기는 너무 어둡고… 조용해서…|<style="DEN_CP9_1">It's so dark and... quiet here...
+11893||BgmLyrics#BgmLyrics_Ahab.json] Bon Voyage|Bon Voyage
+11894||BgmLyrics#BgmLyrics_Ahab.json] 그것이 끊어졌을 때|When it snapped
+11895||BgmLyrics#BgmLyrics_Ahab.json] 나의 나침반은 대양에 먹혀버렸어|My compass was swallowed by the sea
+11896||BgmLyrics#BgmLyrics_Ahab.json] 그대와 나의 이 연결을 저주했지|I cursed this relationship between you and me
+11897||BgmLyrics#BgmLyrics_Ahab.json] <style="dkr">피가 보고 싶었어|<style="den">I wanted blood
+11898||BgmLyrics#BgmLyrics_Ahab.json] <style="dkr">흑백이기를 원했어|<style="den">I wanted black and white
+11899||BgmLyrics#BgmLyrics_Ahab.json] <style="dkr">모든 게 단정된|<style="den">Clear cut
+11900||BgmLyrics#BgmLyrics_Ahab.json] <style="dkr">네 악을 규정해놓고|<style="den">Your evils predefined
+11901||BgmLyrics#BgmLyrics_Ahab.json] 꽉 붙들어 매|Hold on tight
+11902||BgmLyrics#BgmLyrics_Ahab.json] 그대의 인어가 출항하네|Your mermaid's setting sail
+11903||BgmLyrics#BgmLyrics_Ahab.json] 나의 호기심을 나침반 삼아|My compass is curiosity
+11904||BgmLyrics#BgmLyrics_Ahab.json] 난 우리의 목을 조르던 밧줄을 끊어내고|I'm piercing through the rope that strangled you and me
+11905||BgmLyrics#BgmLyrics_Ahab.json] 자유롭게 될 거야|Let us be free
+11906||BgmLyrics#BgmLyrics_Ahab.json] 밀물,|High tide,
+11907||BgmLyrics#BgmLyrics_Ahab.json] 썰물.|Low tide.
+11908||BgmLyrics#BgmLyrics_Ahab.json] 이제서야|At last
+11909||BgmLyrics#BgmLyrics_Ahab.json] 그대의 심장을 향해 전속력으로|Full speed towards your heart
+11910||BgmLyrics#BgmLyrics_Ahab.json] 이제 그만해도 돼|I've had enough
+11911||BgmLyrics#BgmLyrics_Ahab.json] 이제 내 자신을 되찾을 거야|I'm reclaiming myself
+11912||BgmLyrics#BgmLyrics_Ahab.json] 후미.|The aft
+11913||BgmLyrics#BgmLyrics_Ahab.json] 고통을 뒤로하고|Leaving behind the hurt
+11914||BgmLyrics#BgmLyrics_Credit.json] 그림자를 쫓던 나날들|The old days of chasing down shadows
+11915||BgmLyrics#BgmLyrics_Credit.json] 내게 남은 알 수 없는 시간과|With whatever time I have left to me now
+11916||BgmLyrics#BgmLyrics_Credit.json] 이제는 나아가야 할 때|I need to take my steps forward
+11917||BgmLyrics#BgmLyrics_Credit.json] 자신을 태워 사라져 가는|Burning myself up until I’m no more
+11918||BgmLyrics#BgmLyrics_Credit.json] 촛불과 닮아 있구나|I must look just like a candle
+11919||BgmLyrics#BgmLyrics_Credit.json] 숨 고를 새도 없이|Without a moment to breathe
+11920||BgmLyrics#BgmLyrics_Credit.json] 떠밀려 던져진 날 속에|I was thrown into turbulent days
+11921||BgmLyrics#BgmLyrics_Credit.json] 내 길을 갈 수 있기를|I hope that I can take my path
+11922||BgmLyrics#BgmLyrics_Credit.json] 미소 지을 수 있도록|I sure wish that I can smile
+11923||BgmLyrics#BgmLyrics_Credit.json] 남은 건 허망한 기억|All that remains are vain memories
+11924||BgmLyrics#BgmLyrics_Credit.json] 멀리 멀리 날아가고 싶어|Let me, let me fly far so far away
+11925||BgmLyrics#BgmLyrics_Credit.json] 밤 하늘의 새처럼 별에 닿을 수 있게|So I can reach the stars like a bird upon the night sky
+11926||BgmLyrics#BgmLyrics_Credit.json] 이밤 이밤 또 다시 찾아오겠지만|This night, this night will visit me again, I’m sure, but…
+11927||BgmLyrics#BgmLyrics_Credit.json] 괜찮아 다 살아지네|It’s alright, since I can live on

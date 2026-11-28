@@ -1,0 +1,131 @@
+367||Umiejętność wroga [804403] (ulepszenie 1) — opis] 다음 턴에 꽃 2개를 생성.\n꽃이 4개 생성되어있는 경우, 대신 가장 단계가 낮은 꽃 중 무작위 1개의 단계를 1 상승|Spawn 2 flowers next turn\nIf there are 4 flowers present, instead raise the level of a lowest-level flower by 1
+369||Umiejętność wroga [804403] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 개화 3 부여|[OnSucceedAttack] Inflict 3 Blooming
+370||Umiejętność wroga [804404] (ulepszenie 1) — nazwa] 만발하는 꽃처럼...|Like Flowers in Full Bloom...
+371||Umiejętność wroga [804404] (ulepszenie 1) — opis] [WhenUse] 개화 3 부여|[WhenUse] Inflict 3 Blooming
+374||Umiejętność wroga [804405] (ulepszenie 1) — nazwa] 찬란한 봄바람|Magnificent Spring Breeze
+375||Umiejętność wroga [804405] (ulepszenie 1) — opis] 살아있는 곧 피어날 꽃 1개 당 최종 위력 +5\n\n[EndSkill] 모든 곧 피어날 꽃 제거|Gain +5 Final Power for each living Soon-to-bloom Flower\n\n[EndSkill] Remove all Soon-to-bloom Flowers
+376||Umiejętność wroga [804405] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 -15|[OnSucceedAttack] Target loses 15 SP
+378||Umiejętność wroga [804406] (ulepszenie 1) — nazwa] 흙을 덮어야 해|Must Cover With Dirt
+379||Umiejętność wroga [804406] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 대결 부여|[WhenUse] Inflict Dueling next turn
+380||Umiejętność wroga [804407] (ulepszenie 1) — nazwa] 흐드러지는 꽃|Flowering Glory
+381||Umiejętność wroga [804407] (ulepszenie 1) — opis] [StartBattle] 보호 10을 얻음\n[DefeatDuel] 흩어지는 꽃잎 1을 얻음|[StartBattle] Gain 10 Protection\n[DefeatDuel] Gain 1 Scattering Petals
+382||Umiejętność wroga [804408] (ulepszenie 1) — nazwa] 허물어지는 꽃|Withering Flower
+383||Umiejętność wroga [804408] (ulepszenie 1) — opis] [StartBattle] 보호 10을 얻음\n[DefeatDuel] 흩어지는 꽃잎 3을 얻음|[StartBattle] Gain 10 Protection\n[DefeatDuel] Gain 3 Scattering Petals
+384||Umiejętność wroga [804409] (ulepszenie 1) — nazwa] 절정의 향기|Culminating Fragrance
+385||Umiejętność wroga [804409] (ulepszenie 1) — opis] [CantDuel]\n대상이 만개 상태면 피해량 +100%|[CantDuel]\nIf target is Fully Bloomed, deal +100% damage
+386||Umiejętność wroga [804409] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 만개 상태면, 대상을 흐트러짐 상태로 만들고 만개 상태를 해제시킴.|[OnSucceedAttack] If target is Fully Bloomed, stagger them and remove the effect
+388||Umiejętność wroga [804409] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 5 부여|[OnSucceedAttack] Inflict 5 Rupture
+389||Umiejętność wroga [804409] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 파열 횟수 5 증가|[OnSucceedAttack] Inflict +5 Rupture Count
+390||Umiejętność wroga [804410] (ulepszenie 1) — nazwa] 알싸한 잔향|Piquant Scent
+391||Umiejętność wroga [804410] (ulepszenie 1) — opis] [OnSucceedEvade] 개화 1 부여|[OnSucceedEvade] Inflict 1 Blooming
+392||Umiejętność wroga [804411] (ulepszenie 1) — nazwa] 찰나를 기다리며|Awaiting the Moment
+393||Umiejętność wroga [804411] (ulepszenie 1) — opis] [StartBattle] 보호 5를 얻음|[StartBattle] Gain 5 Protection
+394||Umiejętność wroga [805401] (ulepszenie 1) — nazwa] 꽃바람|Floral Breeze
+396||Umiejętność wroga [805402] (ulepszenie 1) — nazwa] 향긋한 꽃바람|Fragrant Breeze
+399||Umiejętność wroga [805403] (ulepszenie 1) — nazwa] 알싸한 꽃바람|Pungent Breeze
+403||Umiejętność wroga [805404] (ulepszenie 1) — nazwa] 머금은 향기|Borne Scent
+404||Umiejętność wroga [805404] (ulepszenie 1) — opis] [WhenUse] 체력 10 회복|[WhenUse] Heal 10 HP
+405||Umiejętność wroga [805405] (ulepszenie 1) — nazwa] 활짝 피어난 꽃|Fully Bloomed
+406||Umiejętność wroga [805405] (ulepszenie 1) — opis] [DefeatDuel] 이 유닛이 처치됨|[DefeatDuel] This unit is defeated
+407||Umiejętność wroga [805501] (ulepszenie 1) — nazwa] 만개|Full Bloom
+408||Umiejętność wroga [805501] (ulepszenie 1) — opis] 행동 불가\n턴 종료 시 정신력 -20.\n정신력이 -45가 된 경우 정신력을 최대로 회복하고, 다음 턴에 아찔한 정신 상태가 됨\n2턴 동안 해제되지 않으면, 턴 종료 시 상태 해제|Cannot act\nAt the end of the turn, lose 20 SP\nIf SP reaches -45, fully heal SP, then gain Dazzled Mind next turn\nIf this effect isn't removed for 2 turns, remove it at the end of the turn
+409||Umiejętność wroga [804901] (ulepszenie 1) — nazwa] 당신도 텅 비었군요|You're Empty As Well
+410||Umiejętność wroga [804901] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 텅 빈 징표 부여|[WhenUse] Inflict Empty Mark next turn
+411||Umiejętność wroga [804901] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 10 부여|[OnSucceedAttack] Inflict 10 Rupture
+412||Umiejętność wroga [804902] (ulepszenie 1) — nazwa] 가지치기|Prune
+417||Umiejętność wroga [804903] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 피해량만큼 체력 회복|[OnSucceedAttack] Heal by damage dealt
+418||Umiejętność wroga [804904] (ulepszenie 1) — nazwa] 솎아내기|Thinning
+419||Umiejętność wroga [804904] (ulepszenie 1) — opis] 대상에게 텅 빈 징표 가 있으면 피해량 50%\n[DefeatDuel] 다음 턴에 취약 1을 얻음|Deal +50% damage to targets with Empty Mark\n[DefeatDuel] Gain 1 Fragile next turn
+420||Umiejętność wroga [804904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 피해량만큼 체력 회복\n대상에게 텅 빈 징표 가 있으면, 다음 턴에 공격 위력 증가 1을 얻음|[OnSucceedAttack] Heal by damage dealt\nIf target has Empty Mark, gain 1 Attack Power Up next turn
+422||Umiejętność wroga [804905] (ulepszenie 1) — nazwa] 파괴|Destruction
+423||Umiejętność wroga [804905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 10 부여|[OnSucceedAttack] Inflict 10 Bleed
+424||Umiejętność wroga [804906] (ulepszenie 1) — nazwa] 아직 부족해...|Still Not Enough...
+425||Umiejętność wroga [804906] (ulepszenie 1) — opis] 무작위 아군 공격|Targets a random friendly unit
+426||Umiejętność wroga [804906] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여. 피해량의 25%만큼 체력 회복|[OnSucceedAttack] Inflict 3 Bleed; Heal by 25% of damage dealt
+428||Umiejętność wroga [804906] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 무작위 이로운 효과 1개를 흡수하여 다음 턴에 얻음|[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it next turn
+429||Umiejętność wroga [804907] (ulepszenie 1) — nazwa] 채워야 해...|Must Fill...
+430||Umiejętność wroga [804907] (ulepszenie 1) — opis] 무작위 대상 공격|Targets a random unit
+432||Umiejętność wroga [804907] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 5 증가|[OnSucceedAttack] Apply +5 Bleed Count
+433||Umiejętność wroga [804908] (ulepszenie 1) — nazwa] 텅 비어버렸어|It's All Empty
+434||Umiejętność wroga [804908] (ulepszenie 1) — opis] [DefeatDuel] 파열 10을 얻음|[DefeatDuel] Gain 10 Rupture
+435||Umiejętność wroga [804909] (ulepszenie 1) — nazwa] 이젠 늦어버렸어|It's Too Late Now
+436||Umiejętność wroga [804909] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 취약 5 부여|[OnSucceedAttack] Inflict 5 Fragile
+437||Umiejętność wroga [804910] (ulepszenie 1) — nazwa] 전부 타버렸어|It's All Burned Up
+438||Umiejętność wroga [804910] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 취약 2, 파열 5, 출혈 5 부여. 피해량의 10%만큼 체력 회복|[OnSucceedAttack] Inflict 2 Fragile, 5 Rupture, and 5 Bleed; Heal by 10% of damage dealt
+439||Umiejętność wroga [804911] (ulepszenie 1) — nazwa] 소용 없어요|It's No Use
+440||Umiejętność wroga [805001] (ulepszenie 1) — nazwa] 경작|Cultivate
+441||Umiejętność wroga [805001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 속박1, 마비 1 부여|[OnSucceedAttackHead] Inflict 1 Bind and 1 Paralyze next turn
+443||Umiejętność wroga [805002] (ulepszenie 1) — nazwa] 파종|Dissemination
+446||Umiejętność wroga [805002] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 씨앗 3 부여|[OnSucceedAttack] Inflict 3 Seeds next turn
+447||Umiejętność wroga [805003] (ulepszenie 1) — nazwa] 촉진|Facilitate
+448||Umiejętność wroga [805003] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 씨앗 1 부여. 대상에게 씨앗이 있으면, 씨앗 1 추가 부여|[OnSucceedAttack] Inflict 1 Seeds; if target already has Seeds, inflict 1 more
+451||Umiejętność wroga [805004] (ulepszenie 1) — nazwa] 과잉 생장|Overgrowth
+452||Umiejętność wroga [805004] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 씨앗 3, 과잉 회복 부여, 대상의 체력을 15 회복시킴|[OnSucceedAttack] Inflict 3 Seeds and Overheal; Heal target's HP by 15
+453||Umiejętność wroga [805005] (ulepszenie 1) — nazwa] 수확의 시간|Time of Harvest
+454||Umiejętność wroga [805005] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 취약 3, 출혈 10 부여\n대상이 양분 흡수 상태인 경우, 체력을 20 회복하고 다음 턴에 공격 위력 증가 2를 얻음|[OnSucceedAttack] Inflict 3 Fragile and 10 Bleed\nIf target has Nutrient Drain, heal 20 HP, and gain 2 Attack Power Up next turn
+455||Umiejętność wroga [805006] (ulepszenie 1) — nazwa] 양분이 되어주세요|Please Be My Nutrient
+456||Umiejętność wroga [805006] (ulepszenie 1) — opis] [WhenUse] 모든 욕망의 나무의 체력 15 회복. 욕망의 나무가 없는 경우 1개 생성|[WhenUse] All Trees of Desires heal 15 HP; If there are no Trees of Desires, spawn one
+457||Umiejętność wroga [805006] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 체력 10 회복, 씨앗 3 부여|[OnSucceedAttack] Heal 10 HP; Inflict 3 Seeds
+458||Umiejętność wroga [806001] (ulepszenie 1) — nazwa] 자라나는 성과|Growing Results
+459||Umiejętność wroga [806001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 씨앗 1 부여|[OnSucceedAttack] Inflict 1 Seeds
+461||Umiejętność wroga [806002] (ulepszenie 1) — nazwa] 기대|Expectation
+462||Umiejętność wroga [805801] (ulepszenie 1) — nazwa] 확산하는 뿌리|Expanding Roots
+464||Umiejętność wroga [805801] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 진동 횟수 2 증가|[OnSucceedAttackHead] Inflict +2 Tremor Count
+465||Umiejętność wroga [805802] (ulepszenie 1) — nazwa] 파고드는 뿌리|Burrowing Roots
+468||Umiejętność wroga [805803] (ulepszenie 1) — nazwa] 동요하는 미끼|Quivering Lure
+469||Umiejętność wroga [805803] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 횟수 3 증가|[OnSucceedAttack] Inflict +3 Tremor Count
+471||Umiejętność wroga [805803] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 방어 레벨 2 감소|[OnSucceedAttack] Reduce target's Defense Level by 2 next turn
+472||Umiejętność wroga [805804] (ulepszenie 1) — nazwa] 잠식하는 줄기|Encroaching Stems
+473||Umiejętność wroga [805804] (ulepszenie 1) — opis] [WinDuel] 대상에게 파열이 있다면, 파열 횟수 +2|[WinDuel] If target has Rupture, inflict +2 Rupture Count
+475||Umiejętność wroga [805805] (ulepszenie 1) — nazwa] 드러난 심연|Uncovered Abyss
+476||Umiejętność wroga [805805] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 가지고 있는 파열만큼 진동 부여|[OnSucceedAttack] Inflict Tremor by target's Rupture
+477||Umiejętność wroga [805805] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]|[OnSucceedAttack] Trigger [VibrationExplosion]
+478||Umiejętność wroga [805806] (ulepszenie 1) — nazwa] 단단한 가지|Hard Branches
+479||Umiejętność wroga [805806] (ulepszenie 1) — opis] [StartBattle] 보호 3 얻음|[StartBattle] Gain 3 Protection
+480||Umiejętność wroga [805901] (ulepszenie 1) — nazwa] 상처 훑기|Skim Wounds
+481||Umiejętność wroga [805901] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 출혈을 가지고 있다면, 마비 1 부여|[OnSucceedAttack] If target has Bleed, inflict 1 Paralyze
+482||Umiejętność wroga [805901] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count
+483||Umiejętność wroga [805901] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 출혈 횟수가 2 이상이면 출혈 5 부여.|[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed
+484||Umiejętność wroga [805902] (ulepszenie 1) — nazwa] 옭아매인 상처|Entangled Injury
+485||Umiejętność wroga [805902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 출혈을 가지고 있다면, 다음 턴에 속박 1 부여|[OnSucceedAttack] If target has Bleed, inflict 1 Bind next turn
+487||Umiejętność wroga [805903] (ulepszenie 1) — nazwa] 묻어오는 살점|Smeared Flesh
+489||Umiejętność wroga [805903] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 출혈을 가지고 있다면, 체력 20 회복|[OnSucceedAttack] If target has Bleed, heal 20 HP
+491||Umiejętność wroga [805904] (ulepszenie 1) — nazwa] 드리우는 그늘|Casting Shade
+492||Umiejętność wroga [805904] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 거대 클로버 생성\n[DefeatDuel] 거대 클로버의 체력이 70%인 상태로 생성됨.|[WhenUse] Spawn a Giant Clover next turn\n[DefeatDuel] The Giant Clover spawns with 70% HP
+493||Umiejętność wroga [805904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 전부 소모|[OnSucceedAttack] Remove all Bleed Count
+494||Umiejętność wroga [805905] (ulepszenie 1) — nazwa] 소화|Churning
+495||Umiejętność wroga [805905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]당 자신의 전체 체력의 1%만큼 회복\n출혈 횟수 전부 소모|[OnSucceedAttack] Heal by 1% of Max HP per target's [Laceration]\nRemove all Bleed Count
+496||Umiejętność wroga [806401] (ulepszenie 1) — nazwa] 물어뜯기|Nibble
+497||Umiejętność wroga [806402] (ulepszenie 1) — nazwa] 탐욕스러운 식사|Greedy Gluttons
+498||Umiejętność wroga [806402] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 체력 1 회복|[OnSucceedAttackHead] Heal 1 HP
+501||Umiejętność wroga [806501] (ulepszenie 1) — nazwa] 구르기|Roll
+502||Umiejętność wroga [806502] (ulepszenie 1) — nazwa] 나태한 손아귀|Slothful Grip
+503||Umiejętność wroga [806502] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 속박 3 부여|[OnSucceedAttackHead] Inflict 3 Bind next turn
+504||Umiejętność wroga [806601] (ulepszenie 1) — nazwa] 지지기|Sear
+505||Umiejętność wroga [806602] (ulepszenie 1) — nazwa] 폭발하는 분노|Explosive Wrath
+506||Umiejętność wroga [806602] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 화상 2 부여|[OnSucceedAttackHead] Inflict 2 Burn next turn
+507||Umiejętność wroga [806701] (ulepszenie 1) — nazwa] 쏘아대기|Fire Off
+508||Umiejętność wroga [806702] (ulepszenie 1) — nazwa] 터져나오는 우울|Bursting Gloom
+509||Umiejętność wroga [806702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 침잠 3 부여|[OnSucceedAttackHead] Inflict 3 Sinking next turn
+510||Umiejętność wroga [806801] (ulepszenie 1) — nazwa] 내려찍기|Strike Down
+511||Umiejętność wroga [806802] (ulepszenie 1) — nazwa] 꿰뚫는 욕망|Piercing Lust
+512||Umiejętność wroga [806802] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 출혈 2 부여|[OnSucceedAttackHead] Inflict 2 Bleed next turn
+513||Umiejętność wroga [806901] (ulepszenie 1) — nazwa] 갈아내기|Grind
+514||Umiejętność wroga [806902] (ulepszenie 1) — nazwa] 교만한 분쇄|Prideful Runover
+515||Umiejętność wroga [806902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 취약 1 부여|[OnSucceedAttackHead] Inflict 1 Fragile next turn
+517||Umiejętność wroga [826301] (ulepszenie 1) — nazwa] 여왕의 명령|Queen's Decree
+518||Umiejętność wroga [826301] (ulepszenie 1) — opis] [StartBattle] [PreparedMeat]가 없는 무작위 아군 1명에게 [PreparedMeat] 부여|[StartBattle] Inflict 1 [PreparedMeat] to a random ally without [PreparedMeat]
+519||Umiejętność wroga [826302] (ulepszenie 1) — nazwa] 날갯짓|Wingbeat
+520||Umiejętność wroga [826302] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+522||Umiejętność wroga [826303] (ulepszenie 1) — nazwa] 포식|Predation
+523||Umiejętność wroga [826303] (ulepszenie 1) — opis] 대상에게 [Laceration]이 5 이상 있으면, 코인 위력 +1|If target has 5+ [Laceration], Coin Power +1
+524||Umiejętność wroga [826303] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 3%만큼 본체의 체력 회복|[OnSucceedAttack] Heal 3% of Max HP to the Core
+525||Umiejętność wroga [826304] (ulepszenie 1) — nazwa] 굶주린 날갯짓|Starved Fluttering
+526||Umiejętność wroga [826304] (ulepszenie 1) — opis] [Hunger]이 3 이상이면 코인 위력 +1\n대상에게 [Laceration]이 5 이상 있으면, 코인 위력 +1|At 3+ [Hunger], Coin Power +1\nIf target has 5+ [Laceration], Coin Power +1
+527||Umiejętność wroga [826304] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+530||Umiejętność wroga [826305] (ulepszenie 1) — nazwa] 광포한 굶주림|Ravening Hunger
+531||Umiejętność wroga [826305] (ulepszenie 1) — opis] [CantIdentify]\n[PreparedMeat]가 부여된 대상 우선 공격\n대상에게 [Laceration]이 5 이상 있으면, 코인 위력 +1\n대상에게 [PreparedMeat]가 있으면, 코인 위력 +10\n파괴된 팔 부위 1개당 코인 위력 -5\n[TargetKill] 이번 전투동안 모든 부위가 [Enhancement] 2 얻음 (중첩 가능)|[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf target has 5 +[Laceration], Coin Power +1\nIf target has [PreparedMeat], Coin Power +10\nCoin Power -5 for every broken Arm Part\n[TargetKill] All Parts gain 2 [Enhancement] for the Encounter (stackable)
+532||Umiejętność wroga [826305] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 코인 1회 재사용 (스킬당 최대 3회)|[OnSucceedAttackHead] Reuse Coin once (3 times per Skill)
+533||Umiejętność wroga [826305] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 본체의 체력 10 회복|[OnSucceedAttack] Core heals 10 HP
+534||Umiejętność wroga [826306] (ulepszenie 1) — nazwa] 휴식|Respite
+535||Umiejętność wroga [826307] (ulepszenie 1) — nazwa] 보살핌의 대가|Time to Pay for My Care

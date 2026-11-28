@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=810001].title": {
+      "pl": "Skin Prophet",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=810101].title": {
+      "pl": "Ambling Pearl",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=810201].title": {
+      "pl": "Dream-Devouring Siltcurrent",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    }
+  }
+}

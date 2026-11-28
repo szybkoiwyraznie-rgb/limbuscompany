@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=40000301].desc": {
+      "pl": "Przy wejściu nakłada 1 [ResultEnhancement] na wszystkich Grzeszników\nNie może zostać Oszołomiona",
+      "kr_sha256": "a341c2c00e7b3ef928790948a829de20d1389da67d5adfa5a0cfb93218656f85",
+      "en_sha256": "18047d63297eb61ec6549c56c0b51dd8d5f9a6192e435380df94dbdcd145206b",
+      "origin": "ai"
+    },
+    "dataList[id=40000301].name": {
+      "pl": "In the name of Love and Justice~ Here comes Magical Girl!",
+      "kr_sha256": "b20991a9464f9aaa88639017eee340cab3aacea3692e6689ef475870b127a603",
+      "en_sha256": "03add2b644526dd106104c1c614c44f6e62ce15d074207c2e1872ed5d14efa1e",
+      "origin": "ai"
+    },
+    "dataList[id=40000302].desc": {
+      "pl": "Jeżeli cel trafiony „ARCANA[TabExplain] SLAVE” ma [WornOutKnight], na koniec tury odnosi sukces w Poddaniu",
+      "kr_sha256": "2e2a619db146db841d9de427872ec2d94b0e8eb88e08880a2eefcc94eda4b442",
+      "en_sha256": "0a9b4605fcfbf7c6d086a20784f949f5195f93d182d82baa2fef798b86cbc240",
+      "origin": "ai"
+    },
+    "dataList[id=40000302].name": {
+      "pl": "Thanks so much, everyone!",
+      "kr_sha256": "f914fa0d374619a3e7078704c0b9e69e67aec9deabf09e08f81ae00d1e731036",
+      "en_sha256": "28dba0d09ebc4e553037be5d58c0ba3243a0aa23628570b7695fce361f9ddec6",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].desc": {
+      "pl": "Jeżeli cel trafiony „ARCANA[TabExplain] SLAVE” nie ma [WornOutKnight], nakłada [FailedToAssistQueen] na wszystkich sojuszników",
+      "kr_sha256": "b76f823fec6786008aa812c8764bba43efd996d2e444579e8aebda53f5eb27f4",
+      "en_sha256": "dc0983862dcaf857bf3a56d854c598eb4a4478a8e9eb7cb8ba80573665dd4e84",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].name": {
+      "pl": "In the end, I'm... just like the others?",
+      "kr_sha256": "5ae5ceeacdc2aa60913a02b5e7e75d65bb1089846e645f98164f8a0b04cbcd72",
+      "en_sha256": "3cdc00ea431f59fa8ec32115cef2b3b2ebf2accc20d89cbeadab4c5d755fc73f",
+      "origin": "ai"
+    },
+    "dataList[id=40000304].desc": {
+      "pl": "Przy 10+ Licznika [PowerOfLoveAndJustice]: w następnej turze traci 10 Licznika i zyskuje 1 Siły [PowerOfLoveAndJustice]\n\nPrzy 3 Siły [PowerOfLoveAndJustice]: nakładając Siłę [Burst], nakłada dodatkowo 1 Licznika [Burst] (2 razy na turę)",
+      "kr_sha256": "a3795fd40f3e5605c1b0fb7aa8679c628b2fbfbfe5ff0264eb75c47e035cb405",
+      "en_sha256": "f3fff76e66c6a15c65f8aaa63b0645507a7f752b4b7e7a43b86936a2d056635b",
+      "origin": "ai"
+    },
+    "dataList[id=40000304].name": {
+      "pl": "Power of Love and Justice",
+      "kr_sha256": "b6131871d137e43a60453530d2079513bf3f5a94fc2aff13d621234df8f80455",
+      "en_sha256": "ae8bbf4b752599f187ad5d9d751f740d35b31bdc990b28fbcdfd5c4c3c3bb809",
+      "origin": "ai"
+    },
+    "dataList[id=40000305].desc": {
+      "pl": "Jeżeli cel trafiony „ARCANA[TabExplain] SLAVE” nie ma [WornOutKnight], a jego HP jest wyższe niż 600, nakłada [FailedToAssistQueen] na wszystkich sojuszników",
+      "kr_sha256": "8b5428f8b2102c41be296e45bf33140f90c12278cef58a2492a75535e3e5234a",
+      "en_sha256": "26fc81cc3d7c7a1edf843f25a6df73dbfbb8c7fdee1d83c37bd44c261d24cb7b",
+      "origin": "ai"
+    },
+    "dataList[id=40000305].name": {
+      "pl": "In the end, I'm... just like the others?",
+      "kr_sha256": "5ae5ceeacdc2aa60913a02b5e7e75d65bb1089846e645f98164f8a0b04cbcd72",
+      "en_sha256": "3cdc00ea431f59fa8ec32115cef2b3b2ebf2accc20d89cbeadab4c5d755fc73f",
+      "origin": "ai"
+    },
+    "dataList[id=40000306].desc": {
+      "pl": "Jeżeli cel trafiony „ARCANA[TabExplain] SLAVE” ma [WornOutKnight] i HP 600 lub mniej, na koniec tury odnosi sukces w Poddaniu",
+      "kr_sha256": "26dd54c4d483ace57445d5a1820fcc0018e45e18765bff8e940fc2224da5712b",
+      "en_sha256": "646899d02ce93abce76aef7b087d231c6911dcd5e157d0a1da4b4d253b1b0dc3",
+      "origin": "ai"
+    },
+    "dataList[id=40000306].name": {
+      "pl": "Thanks so much, everyone!",
+      "kr_sha256": "f914fa0d374619a3e7078704c0b9e69e67aec9deabf09e08f81ae00d1e731036",
+      "en_sha256": "28dba0d09ebc4e553037be5d58c0ba3243a0aa23628570b7695fce361f9ddec6",
+      "origin": "ai"
+    }
+  }
+}

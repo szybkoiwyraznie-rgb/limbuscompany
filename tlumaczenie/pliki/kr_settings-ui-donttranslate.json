@@ -1,0 +1,394 @@
+{
+  "entries": {
+    "dataList[id=account_secede].content": {
+      "pl": "Usuń konto",
+      "kr_sha256": "7f2ec5127a09fc5179e10f77cad36fda972258f2c63615b76bb74de7f0289644",
+      "en_sha256": "e1513814e69a71e404dd9a95daa37a8c70693c344b89c2c999c1b3b83d6f4a93",
+      "origin": "ai"
+    },
+    "dataList[id=connect_to_apple_account].content": {
+      "pl": "Powiąż z Apple",
+      "kr_sha256": "bc7a77894977078a2c05e64422b4827f933bbff79a90a8adf5f56c32afba13ec",
+      "en_sha256": "cf7f0bfa6db89a7c11b6650cfecd672a8f1f42aa9fe154ae615b2a69eacb85c4",
+      "origin": "ai"
+    },
+    "dataList[id=connect_to_google_account].content": {
+      "pl": "Powiąż z Google",
+      "kr_sha256": "c8cc30e54a26a217f9a67e00ecca0065f091127d71a4ea393fd29c2b8c7ff435",
+      "en_sha256": "0985c8bda7a3684fca4f2d55f4d48d899936a82b79739cc6cd640e0e815fb130",
+      "origin": "ai"
+    },
+    "dataList[id=connected_accounts].content": {
+      "pl": "Powiązane konta",
+      "kr_sha256": "d81cc0e0b07fe79b093da6044cb95d2012436322c35b90b41247b21841473c04",
+      "en_sha256": "a4158204bf6f58534cfefc991b926e885f94dbf830bdb91d127521b53f1c435c",
+      "origin": "ai"
+    },
+    "dataList[id=explain_secession_status].content": {
+      "pl": "To konto jest w trakcie usuwania.\nPozostały czas: {0} dni {1} godz. {2} min\nZalogowanie się teraz pozwoli je przywrócić.\nPrzywrócić konto?",
+      "kr_sha256": "bd441128191d37a3a197a6c966c0224e71903075dffe6ea144d34a6194a90e2f",
+      "en_sha256": "eb874493108ae112dc3bf1dd80d43ca086afbeab651783ace56ac9ff789e5c94",
+      "origin": "ai"
+    },
+    "dataList[id=explain_sucession].content": {
+      "pl": "Usunięcie konta spowoduje bezpowrotne skasowanie wszystkich danych gry oraz historii zakupów.",
+      "kr_sha256": "6ada5693f49d6d5f489db9ae4d486338ccbeffe1de9bd3c58c9e5ca635a0d25d",
+      "en_sha256": "889a95058bc06678a26d9d4ce538e51bc278c76cf77c8445fa6684afda404971",
+      "origin": "ai"
+    },
+    "dataList[id=explain_sucession_remain_days].content": {
+      "pl": "Okres karencji przed usunięciem konta wynosi 7 dni — zalogowanie się w tym czasie pozwala anulować usunięcie.",
+      "kr_sha256": "c0117d4cc5d731503ea0baed802c72336a434c0f8aeec4e77c796f623698cdb0",
+      "en_sha256": "57406760a32a7fa401e4fd0d70c46b4907f3c79e72805b8ae643b67bb4e5fbe3",
+      "origin": "ai"
+    },
+    "dataList[id=explain_writing_code_for_sucession].content": {
+      "pl": "※ Jeśli zgadzasz się z powyższymi warunkami,\nwpisz tekst widoczny w polu poniżej.",
+      "kr_sha256": "2e32a064c4973f650721ad3bfc91bad71b3fbb2a2a25b3827416b7bd327fec75",
+      "en_sha256": "37f3f059ba3bf79430d4171618571722200fa2202d700b2081835ce00f276ef2",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_account].content": {
+      "pl": "Konto",
+      "kr_sha256": "b0b3d3bc6c2762fee8cfa5bf84a116d0fc90f9a98a26ec5edffaad7d3f1f7f2b",
+      "en_sha256": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_animation_resource].content": {
+      "pl": "Zasoby animacji",
+      "kr_sha256": "7d5b57abe6503871968cf44bb03e27a0eee038f5faf9f5189a74556005faebe3",
+      "en_sha256": "c3d816a3d31bd3cca7abd1bffb1ec08e744b18bf0a719cb539c1b1e495751eda",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_antialiasing].content": {
+      "pl": "Wygładzanie krawędzi",
+      "kr_sha256": "8bcbe616d4980ac120a6187ffe32cb894492a4e46dc1a252f10adc4ac20a1b40",
+      "en_sha256": "c77c3af22c6429b25a76454a634ca6633f1c04644ac6155511353251037b8a18",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_audio_resource].content": {
+      "pl": "Zasoby głosowe",
+      "kr_sha256": "d3bef92e4e89c3cf2b90e9806c11cefddb971848b4b074e6cc804cd035972e24",
+      "en_sha256": "ea7eb869044d6200947ae6f57d414c1101c8a67f340b4069fd3300de03182bc2",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_bloom].content": {
+      "pl": "Poświata (Bloom)",
+      "kr_sha256": "0fe6cdf587a9be8019ea694bee8cf4917b9c3bbc5e8e6c4ea576b3d5ecc75341",
+      "en_sha256": "fe689170440f9903428015b2a4cd6526d892d6eeb796c9508f3516b456dfad0e",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_bloomdesc].content": {
+      "pl": "Steruje efektem rozproszenia światła. Wpływa na wydajność gry.",
+      "kr_sha256": "2170bedcde9d72399f4b65245ba869c452e857963dee9aa7cc56f0a4023f204f",
+      "en_sha256": "254670c10cf8d5e8a278d3a1f34033e174ce7f27c1be9adf733a159d67bb33fe",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_blur].content": {
+      "pl": "Rozmycie (Blur)",
+      "kr_sha256": "5f771017dadfc5ebf291050fa74d74b41d84126e153465bb99b35f56089171f6",
+      "en_sha256": "cd83e6731d2b17369af0704c1f52ff42262363a5521f650c36383b48bd35833b",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_blurdesc].content": {
+      "pl": "Steruje efektem rozmycia obrazu. Wpływa na wydajność gry.",
+      "kr_sha256": "875a8bb0f136f3b4186b7b8e7cb122d0e643534eea865caf4979cfc37d1741b1",
+      "en_sha256": "4322ec1e9ecf12a960d42d07cc7684ad2926a4755ef314aa6d0973bd790ffc7e",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_change_launguage].content": {
+      "pl": "Zmiana języka",
+      "kr_sha256": "77e537694afe7cac4ecc87908ff7d569f904efeb4e6a7fdcff71280c4221570a",
+      "en_sha256": "a4fe65264ef7dbb38d104b1e81eb3350f3142f3d16f32bdec39b1d9b42c1b8d1",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_change_launguage_ask].content": {
+      "pl": "Zmiana języka zostanie zastosowana po ponownym uruchomieniu gry.",
+      "kr_sha256": "c021e8911e967d0b71a46e2898e0d377294002c3c973ec48dbe1d72d1a0b9747",
+      "en_sha256": "8ab8cbf3ff8dc36460eeab02567b3ee53563bd4691e042f1a749e0d8d5e411f5",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_clear].content": {
+      "pl": "Resetuj ustawienia",
+      "kr_sha256": "b81deee16407b6b0fdb964f0acab3d3121f663fa2f6b3a2cfdc7159343f4ffa8",
+      "en_sha256": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_clear_ask].content": {
+      "pl": "Przywrócić wszystkie ustawienia do wartości domyślnych?",
+      "kr_sha256": "b80ddeaaee34b0c4fcc1f91b09f5604ff0bd8d29627ecdf8241fd5bcaad9fe6d",
+      "en_sha256": "6af836e6b26353ec1e17f65865aa9fc89977529900419205e278666265cba786",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_download].content": {
+      "pl": "Pobieranie",
+      "kr_sha256": "0a4ca9bc91ee23b25beb7e5cce8e9f06e7f71dfc905a2d468bce88bcd13ee6bd",
+      "en_sha256": "d6eafe82359100423c93c5ce53c352c1b51ca1e699215fcec3f5c5dd9bf12d24",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_download_complete].content": {
+      "pl": "Pobieranie zakończone",
+      "kr_sha256": "cbc2dd1a844a1b61bd22c31206eae7eab6d525ad30e8e6c3635171661d1b668b",
+      "en_sha256": "d4be3940d09f146c19edc1c1053d8983abda0f6933246f8df1d06e1ff8f24295",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_ego_fast_forward_speed].content": {
+      "pl": "Szybkość przyspieszenia E.G.O",
+      "kr_sha256": "51e4a09e3942780d6f292da3c3f0defc87773b5efe33b9167fb8bbb8537be9bb",
+      "en_sha256": "21b9ae38f53ba03c83a0a549e5d1c8ca059ce02ade9cd2d1dd382042a0ffdc0f",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_ego_presentation].content": {
+      "pl": "Animacje E.G.O",
+      "kr_sha256": "43881ad39b21f521fc9dc286e47b700f97bf6eecf4636f735c66995a6a03ae23",
+      "en_sha256": "dc11fd723921d0515971d85bb2424c4f3a40b58efcfc61b8d4d4c7640d92938c",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_etc].content": {
+      "pl": "Inne",
+      "kr_sha256": "2991f61ced07a61e82f4b66ec330b106efa81d6bd622bcfd0650e8a819554f9a",
+      "en_sha256": "0a24c31d8dde490069efc69a83bb747e9af6f9bdf56a34a68e5061fc5c7001d8",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_faq_btn].content": {
+      "pl": "Obsługa klienta",
+      "kr_sha256": "8397628a84f0507c42e676c498b1f694e234576a3c6297d297c81df624da95f3",
+      "en_sha256": "cdf7689a4e7e9d8dc09828df1d5c397a03232b2f53db67a5d3949c7991f48030",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_fps_battle].content": {
+      "pl": "FPS w walce",
+      "kr_sha256": "4bf7e6dc69bf2f019aae3ae251ca851cfd2991152061fcc8f09978deb9bb1231",
+      "en_sha256": "3caca691fd55f6dc2b08875191135462f0fadc32397b980e8fe67bd2f3632976",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_fps_common].content": {
+      "pl": "FPS poza walką",
+      "kr_sha256": "eb333c2eaacc33161ad0bd87464d1dce3c8eda0c50ddffbabcaf0d042724fda5",
+      "en_sha256": "7373e40609a3d4e1ba165578d9368d57cdf63692f7ad8b48be2d93928805a6d8",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_fps_warning].content": {
+      "pl": "Wyższa liczba klatek może zwiększać zużycie energii i nagrzewanie urządzenia.",
+      "kr_sha256": "bf32dbcf67aa3c5e95c79b1d9bf9449b4d22265339ccabfe9f7aa11f064c76db",
+      "en_sha256": "ac8cde324f9a05fe935ec5e7f7069ef11ae7304033fe3d7e3861bb39a30948df",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_game].content": {
+      "pl": "Ogólne",
+      "kr_sha256": "9d52d0642b3d7a35bf132efd4a9a0266ae13627a4162a27d09b71879775cc4d5",
+      "en_sha256": "c910d474dcd724bff83ddedeb06bf1eceaf9fb3af7c76bb282be057f36e6dffa",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_graphic].content": {
+      "pl": "Grafika",
+      "kr_sha256": "b59d82e65d3202f405955417adcce67420dbbd3a7b2cea86bf0c510a9476ed44",
+      "en_sha256": "a874fca87cdd5e4e677086421a024eba3831c31f72451a6e5080e66bbd772ee9",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_high].content": {
+      "pl": "Wysoka",
+      "kr_sha256": "ad025a70ef84aab2cc787dd86c7342d1f7009015e1bd3414335227d77ed1ac89",
+      "en_sha256": "c4ebc6d4a5832cd9415f906ad03661110c705a72381c8b8b145761d02e2dd23a",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_low].content": {
+      "pl": "Niska",
+      "kr_sha256": "ac0e9ef613fd92c8484505ca0959d80e905c57778049ec7ed2a52c4c60072c71",
+      "en_sha256": "f793de205ead5ac302c4a1627829dea41f176b1068b993a32373fc869918374b",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_middle].content": {
+      "pl": "Średnia",
+      "kr_sha256": "b558d7af71515538c58aee3efc5e8566b262a035c51ed0714a106e1f089b057e",
+      "en_sha256": "8e588cd187741f1cd76f5fab77b7208782a8c21d764ce7d7a4cf3ac4e0968873",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_notice].content": {
+      "pl": "Powiadomienia",
+      "kr_sha256": "12ddd6ca69068faaae5ea07418efaef8c0806c47ecc8b2041d5dea311a174210",
+      "en_sha256": "a29e3d6130b9ac34a58b67fd7de5ce6577dc08a65751807ab66d10e242a9bae2",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_notice_ads].content": {
+      "pl": "Powiadomienia promocyjne",
+      "kr_sha256": "4d987a11ba262d01bac73ad7fe2ee9d5a21c61067ddca1be538a4622bb03d7e6",
+      "en_sha256": "61983fb9ed5cc68b84584f28f6d3e92175ad6c090afd8666552bf0d7a45d67cc",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_notice_ads_night].content": {
+      "pl": "Powiadomienia promocyjne (nocne)",
+      "kr_sha256": "7d0c1590d9f27e63e75bbc0699012fe22f7f3ab45e8518595f99fbfabb73a10c",
+      "en_sha256": "f56c32bb404b6dd4a3bd3fa61b657637eb2b76a1e693eeec3969e71906a6ac0e",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_notice_enkephalin_full].content": {
+      "pl": "Pełne naładowanie Enkefaliny",
+      "kr_sha256": "7c526821679cb123712efbbeaba77ffbf1a1e17366f47373f02339e87759115b",
+      "en_sha256": "fe6ef2be8a5b9c3ddd4d09db2a2d322d2ad3d4d1ea202737d656da590dee47aa",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_off].content": {
+      "pl": "Wył.",
+      "kr_sha256": "dd8b273b7cee93e9e4846ba9431837c87bb5aa3fed88c188d70e12541c11bafb",
+      "en_sha256": "ca7981b46ecf2c1787b6d76d81d9fd7fa0ca95842e2fcc2a452869891a9334d1",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_on].content": {
+      "pl": "Wł.",
+      "kr_sha256": "6e943b56e74c0ea6d4902f8551fcf7cd61cfaece04cf830aaf92545e656ab0ca",
+      "en_sha256": "130011756125313c72f2cab730db4347e2841526d236a89cb25f38789fa49229",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_play_once_per_day].content": {
+      "pl": "Raz dziennie",
+      "kr_sha256": "9f669e984189486eb05dc1f547e45ec0fb8a8b8558c97098f5b5b571edd8a150",
+      "en_sha256": "4a67e802c2de422f20f3bbbfa6507ff2d65910e3a26136974898814c40191edd",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_postprocessing].content": {
+      "pl": "Post-processing",
+      "kr_sha256": "8d09394c68508ef94cc8e6bcb616bd35b779485a11bbd45b4c9133af75f4eb19",
+      "en_sha256": "10745d69ce66dbdfe1627ae440af1a3a738074377ba233678550d840a72bfa61",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_ppdesc].content": {
+      "pl": "Steruje efektami kamery w walce. Wpływa na wydajność gry.",
+      "kr_sha256": "1bf9cb816af6fa01c7914d773bacf3fbf3281574e3c00b41e5421164d46b0730",
+      "en_sha256": "d12ee1cbf8702192831a6df93c99e514b19c35941620c7a536052be288373b6f",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_ppoff].content": {
+      "pl": "Wył.",
+      "kr_sha256": "dd8b273b7cee93e9e4846ba9431837c87bb5aa3fed88c188d70e12541c11bafb",
+      "en_sha256": "ca7981b46ecf2c1787b6d76d81d9fd7fa0ca95842e2fcc2a452869891a9334d1",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_ppon].content": {
+      "pl": "Wł.",
+      "kr_sha256": "6e943b56e74c0ea6d4902f8551fcf7cd61cfaece04cf830aaf92545e656ab0ca",
+      "en_sha256": "130011756125313c72f2cab730db4347e2841526d236a89cb25f38789fa49229",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_render_acceleration].content": {
+      "pl": "Akceleracja renderowania",
+      "kr_sha256": "884682b44a29680ecfd7367b2d57dcf92a74a9943276fad80d32abb7b912edf3",
+      "en_sha256": "ac5cb298104bce0f74cf16ba2eb288ec031ed9cccd8d070b581cd9ff2bbb026a",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_renderingscale].content": {
+      "pl": "Skala renderowania",
+      "kr_sha256": "471709aaaf296175957e899ef01994440ab3a7b112e852652a3f775f1f1c44ef",
+      "en_sha256": "8eb5983d26cd39ed9e165a09402724b6afd4665c1e335c1fb61e9838e0716950",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_renderingscale_warning].content": {
+      "pl": "Na PC zalecamy ustawienie 「Wysoka」, a na urządzeniach mobilnych 「Średnia」 lub niższe.\nWyższa skala renderowania może zwiększać zużycie energii i nagrzewanie urządzenia.",
+      "kr_sha256": "4fb86da254c6fcff9720c40efd9999651da15068252ef7cb094f0bb03590cf6b",
+      "en_sha256": "1f2adf9df9733de6a80be8b9ca9a8dbea6235b8dd287f197f8f5908412c88a90",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_resolution].content": {
+      "pl": "Rozdzielczość",
+      "kr_sha256": "180a54673a247005d4a1a6d42bac4b64d4ab2ff9ef1adef8db9b24ab1d6ce6cf",
+      "en_sha256": "d4055fafa3794fa88b1e89e70c167d5a9575067a1442a6d94e9520d65a575378",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_resolution_fullscreen].content": {
+      "pl": "Pełny ekran",
+      "kr_sha256": "f5760bd1cbce1fd1b8684ff8e1aa2c53af6a891fc855792f99542513a3e07443",
+      "en_sha256": "c461dbb2bab7d8bc64c03223ead55766cf4f897856579a7162e0e384249d83fc",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_resolution_warning].content": {
+      "pl": "Wyższa rozdzielczość może zwiększać zużycie energii i nagrzewanie urządzenia.",
+      "kr_sha256": "f68ab8088ba1ea25b8f7975fddba4c6136602365eae1b757ff1f7c65a33e291b",
+      "en_sha256": "a6a9c12c9b677329144adfbbae47c25bff5f9616e6dd7d106cf68910a1249d5c",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_resolution_windowded].content": {
+      "pl": "W oknie",
+      "kr_sha256": "41c97631134eec30f1c5f75919521e83678b9f337286e2fcd1880a24174c3913",
+      "en_sha256": "3f26603a2748fed3da8a9a1ddde86da13bc41cb07f6389486cba34b72e9b8c44",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_sound].content": {
+      "pl": "Dźwięk",
+      "kr_sha256": "a7661883a18bd9806da7c9a80fbf97f2873a8575a4f1489e85de26dade591daa",
+      "en_sha256": "bc1b88907d3b748af99cb9d4ffc07a0118dad5dab21a9dbdcc5a17a09641364a",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_sound_battle_announcer].content": {
+      "pl": "Komentator",
+      "kr_sha256": "9de89526fae7b1603dc3ebae72c53640b7d5d120895c1969a8eb85898998f476",
+      "en_sha256": "8a96bce313dc60038c4ace533986d0ea6b13dec904661cd1af6fd435c811d3f0",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_sound_master].content": {
+      "pl": "Ogólna",
+      "kr_sha256": "4a794de583b94bb34a226f241a2148ce9eaebfd18623b7a62d7b44503f139ce1",
+      "en_sha256": "a2bb34780af80cf92faf0872e60567400a910e72543b8de3f47cdb90fc99ffb4",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_sound_sfx].content": {
+      "pl": "Efekty dźwiękowe",
+      "kr_sha256": "eb539d2e78ffd5d079ce90e931011d77ba8177b36d7228cb262bb622191536e2",
+      "en_sha256": "62cfdd08b935924cffc1a7eef525b8e9740c2b32c4ce019587c2e8fb3a29cf4d",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_sound_voice].content": {
+      "pl": "Dialogi",
+      "kr_sha256": "bdc41c83c6765d99782643ab5f927ec527b72e8b1fd5dbd44313d9ae2366d822",
+      "en_sha256": "87bf2bc08589f0bd4a078db145c34ad5e14b8fda53c3ae65b78601294913df95",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_story_voice_download_button].content": {
+      "pl": "Zarządzaj",
+      "kr_sha256": "29ae8f308ff1d9963b4d10a18fdb41982075acd1e2c0b84c4afa55178c4ff712",
+      "en_sha256": "5a23444828db654a0eaef5f81aabe79432871f43f73ea888279b3ee212f98a7b",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_story_voice_download_desc].content": {
+      "pl": "Zarządzaj pobieraniem i usuwaniem nagrań głosowych fabuły",
+      "kr_sha256": "8f184a08761472071403b4e83363ea93f9073f9d4c36ea80fbe18d09a0c1e9a6",
+      "en_sha256": "e88e050f6b7a5a030b33f0e6520f262ca601129b9cfdeff2cece6968b82db59c",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_story_voice_download_title].content": {
+      "pl": "Głosy fabularne",
+      "kr_sha256": "b8f4f75ea045d2df69f6be215c81656cbb0677558d71aea3896d6e2f843ff4ce",
+      "en_sha256": "882331b72519481774b3e8abb6218a023023c2ddfeacf0913e3c27707f7bb98e",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_texquality].content": {
+      "pl": "Jakość tekstur",
+      "kr_sha256": "bd87317b3cf979d58af6efa77bc187e142fc0a11b7adf7e6f3c76f63d99cc70d",
+      "en_sha256": "b9e6f1bb561f9e3ea920ea46b0063e85a6078c13091dcbfdf4493d359c2c45b8",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_video_resource].content": {
+      "pl": "Zasoby wideo",
+      "kr_sha256": "8fc3fc2333bf728b40ba4a63b744aee60180a3190837af0cdc4a8b2628ed241f",
+      "en_sha256": "927dbd6809f121fc1fba7d8abb9b830ee3dac068b65436c6d9e1e3d0b32a02b5",
+      "origin": "ai"
+    },
+    "dataList[id=recover].content": {
+      "pl": "Przywróć",
+      "kr_sha256": "43fc5c201e47f0cb4456940206d6187646a9fe5fa1b63780a337a055f114a52e",
+      "en_sha256": "0c5327fd45c725528c37b589d6198944faba2decd050086cbf89fa636c9843c7",
+      "origin": "ai"
+    },
+    "dataList[id=request_sucession].content": {
+      "pl": "Złóż wniosek o usunięcie",
+      "kr_sha256": "c5dc1eb9f2b2d6ac007635b77c717059340b282c4ecea889d205d6b03f192d8e",
+      "en_sha256": "fdeeccbe0893077f26ca66a983fdbde65d163ad3c6203ec9dfc8737c32b6ee44",
+      "origin": "ai"
+    },
+    "dataList[id=request_sucession_success].content": {
+      "pl": "Pomyślnie złożono wniosek o usunięcie konta.",
+      "kr_sha256": "b6e624f3ab8c5b794db10d94dcdf8933abdd96d24f1deaf2ae66a0bc0ab13f74",
+      "en_sha256": "f213cf17e68405c05bbf5dc569ccada2e14ea09e19f79cd99738502c125a023a",
+      "origin": "ai"
+    }
+  }
+}

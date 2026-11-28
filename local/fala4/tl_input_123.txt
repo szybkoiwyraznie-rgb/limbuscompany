@@ -1,0 +1,96 @@
+11928||BgmLyrics#BgmLyrics_Credit.json] 괜찮아|It’s alright
+11929||BgmLyrics#BgmLyrics_Credit.json] 불길이 나를 태운 것처럼|As if a fire swept right over me
+11930||BgmLyrics#BgmLyrics_Credit.json] 내 손엔 잿빛 먼지 뿐|All that’s in my hands is ash dust
+11931||BgmLyrics#BgmLyrics_Credit.json] 쉼 없이 달려 왔던|I have run all without rest
+11932||BgmLyrics#BgmLyrics_Credit.json] 나를 죄여오던 시간들|Those times gone by that got me choked up
+11933||BgmLyrics#BgmLyrics_Credit.json] 이조차 그리워질까|Will I end up missing them too?
+11934||BgmLyrics#BgmLyrics_Credit.json] 먼 훗날 언젠가는|A long, long ways from right now
+11935||BgmLyrics#BgmLyrics_Credit.json] 돌이켜 볼 기억 속에|When I look back on those memories
+11936||BgmLyrics#BgmLyrics_Credit.json] 미소 지을 수 있기를|I sure hope that I can smile
+11937||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>그림자를 쫓던 나날들</color>|<color=#293B95>Days of chasing shadows</color>
+11938||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>내게 남은 알 수 없는 시간과</color>|<color=#293B95>With however much time I have left</color>
+11939||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>이제는 나아가야 할 때</color>|<color=#293B95>Now I must move forward</color>
+11940||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>자신을 태워 사라져 가는</color>|<color=#293B95>Burning myself up until I’m no more</color>
+11941||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>촛불과 닮아 있구나</color>|<color=#293B95>Like a candle that burns itself up</color>
+11942||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>숨 고를 새도 없이</color>|<color=#293B95>Without a moment to breath</color>
+11943||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>떠밀려 던져진 날 속에</color>|<color=#293B95>I was thrown into turbulent days</color>
+11944||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>내 길을 갈 수 있기를</color>|<color=#293B95>I hope I can go my way</color>
+11945||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>돌이켜 볼 기억 속에</color>|<color=#293B95>When I look back on those memories</color>
+11946||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>미소 지을 수 있도록</color>|<color=#293B95>I sure wish that I can smile</color>
+11947||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>남은 건 허망한 기억</color>|<color=#293B95>All that remains are vain memories</color>
+11948||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>멀리 멀리 날아가고 싶어</color>|<color=#293B95>Let me, let me fly far so far away</color>
+11949||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>밤 하늘의 새처럼 별에 닿을 수 있게</color>|<color=#293B95>So I can reach the stars like a bird upon the night sky</color>
+11950||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>이밤 이밤 또 다시 찾아오겠지만</color>|<color=#293B95>This night, this night will visit me again, I’m sure, but…</color>
+11951||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>괜찮아 다 살아지네</color>|<color=#293B95>It's alright, since I can live on</color>
+11952||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>괜찮아</color>|<color=#293B95>It's alright</color>
+11953||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>불길이 나를 태운 것처럼</color>|<color=#293B95>Like a fire swept over me</color>
+11954||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>내 손엔 잿빛 먼지 뿐</color>|<color=#293B95>All that's in my hands is ashen dust</color>
+11955||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>쉼 없이 달려 왔던</color>|<color=#293B95>I've run without rest</color>
+11956||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>나를 죄여오던 시간들</color>|<color=#293B95>The times that choked me</color>
+11957||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>이조차 그리워질까</color>|<color=#293B95>Will I miss them as well?</color>
+11958||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>먼 훗날 언젠가는</color>|<color=#293B95>A long, long ways from now</color>
+11959||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>돌이켜 볼 기억 속에</color>|<color=#293B95>When I look back to those memories,</color>
+11960||BgmLyrics#BgmLyrics_Credit10.json] <color=#293B95>미소 지을 수 있기를</color>|<color=#293B95>I hope I can smile</color>
+11961||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>꽃이 보이지 않는다 꽃이 향기롭다.</size></i>|<i><size=43>The flower is unseen, the flower is fragrant.</size></i>
+11962||BgmLyrics#BgmLyrics_Credit4.json] 나를 죄여오던 시간들|The times that choked me
+11963||BgmLyrics#BgmLyrics_Credit4.json] 이조차 그리워질까|Will I miss them as well?
+11964||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>향기가 만개 한다</size></i>|<i><size=43>The fragrance is in full bloom</size></i>
+11965||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>나는 잊어버리고 재차 거기 묘혈墓穴을 판다</size></i>|<i><size=43>In forgetfulness, I dig another grave墓穴 in the place</size></i>
+11966||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>묘혈은 보이지 않는다</size></i>|<i><size=43>The grave is unseen</size></i>
+11967||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>보이지 않는 묘혈로 나는 꽃을 깜빡 잊어 버리고 들어간다</size></i>|<i><size=43>Forgetting the flower, I enter the invisible grave</size></i>
+11968||BgmLyrics#BgmLyrics_Credit4.json] 내게 남은 알 수 없는 시간과|With however much time I have left
+11969||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>향기香氣가 만개滿開 한다 나는 거기 묘혈을 판다</size></i>|<i><size=43>The fragrance香氣 is in full bloom滿開; I dig a grave for myself there</size></i>
+11970||BgmLyrics#BgmLyrics_Credit4.json] 이제는 나아가야 할 때|Now I must move forward
+11971||BgmLyrics#BgmLyrics_Credit4.json] 촛불과 닮아 있구나|Like a candle that burns itself up
+11972||BgmLyrics#BgmLyrics_Credit4.json] 내 길을 갈 수 있기를|I hope I can go my way
+11973||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>나는 정말 눕는다 꽃이 또 향기롭다</size></i>|<i><size=43>I lie down for certain; the flower is yet again fragrant</size></i>
+11974||BgmLyrics#BgmLyrics_Credit4.json] 그림자를 쫓던 나날들|Days of chasing shadows
+11975||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>보이지 않는 꽃이 보이지도 않는 꽃이</size></i>|<i><size=43>An unseen flower, an invisible flower</size></i>
+11976||BgmLyrics#BgmLyrics_Credit4.json] 불길이 나를 태운 것처럼|Like a fire swept over me
+11977||BgmLyrics#BgmLyrics_Credit4.json] 내 손엔 잿빛 먼지 뿐|All that's in my hands is ash-like dust
+11978||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>향기가 만개滿開 한다 나는 거기 묘혈을 판다</size></i>|<i><size=43>The fragrance is in full bloom滿開; I dig a grave for myself there</size></i>
+11979||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>묘혈도 보이지 않는다 보이지 않는 묘혈 속에 나는 들어 앉는다</size></i>|<i><size=43>The grave is unseen; I take a seat in the invisible grave</size></i>
+11980||BgmLyrics#BgmLyrics_Credit4.json] <i><size=43>나는 눕는다</size></i>|<i><size=43>I lie down</size></i>
+11981||BgmLyrics#BgmLyrics_Credit4.json] 쉼 없이 달려 왔던|I've run without rest
+11982||BgmLyrics#BgmLyrics_Credit7.json] 칠흑같은 밤 속에서도 별은 반드시 빛나고 있었다네!|Even in the darkest of nights did the star shine brilliantly!
+11983||BgmLyrics#BgmLyrics_Credit7.json] 보이지 않는가? 자, 지금 떠나세! 저 별을 향해!|Behold, in the far yonder! Let us depart posthaste—to that distant star!
+11984||BgmLyrics#BgmLyrics_Credit7.json] 꿈이, 끝나지 않은 거라면!|If the dream hasn't ended, then...!
+11986||BgmLyrics#BgmLyrics_Credit7.json] 다음 장을 향해 가볼까!|Shall we journey to the subsequent canto of this epic?!
+11987||BgmLyrics#BgmLyrics_Credit7.json] 내 손엔 잿빛 먼지 뿐|All that's in my hands is ashen dust
+11988||BgmLyrics#BgmLyrics_Credit7.json] 먼 훗날 언젠가는|A long, long ways from now
+11989||BgmLyrics#BgmLyrics_Credit9.json] 라라라 라라라라 라라라라라 라라|Lalala, lalalala, lalalalala, la la
+11990||BgmLyrics#BgmLyrics_Credit9.json] 괜.다.살.|I.A., since I can L.O.
+11991||BgmLyrics#BgmLyrics_Credit9.json] 돌이켜 볼 기억 속에|When I look back to those memories,
+11992||BgmLyrics#BgmLyrics_Credit9.json] 미소 지을 수 있기를|I hope I can smile
+11993||BgmLyrics#BgmLyrics_Cromer1.json] 오오오|Ooh
+11994||BgmLyrics#BgmLyrics_Cromer1.json] 고통 없는 미래를 이끌 수 있었더라면 얼마나 좋았을까|If only we could lead painless futures
+11995||BgmLyrics#BgmLyrics_Cromer1.json] 용서를 베풀어 줄 세계가 있었더라면|If only there could be a forgiving world
+11996||BgmLyrics#BgmLyrics_Cromer1.json] 일 년에 한 번뿐인 그 때가 돌아왔네|It’s this time of the year
+11997||BgmLyrics#BgmLyrics_Cromer1.json] 무척이나 즐거우며 소중한 밤이|A very so merry night we hold dear
+11998||BgmLyrics#BgmLyrics_Cromer1.json] 너무나 많은 후회에 눈물이 차오르지만|So many, so many regrets bring me to tears
+11999||BgmLyrics#BgmLyrics_Cromer1.json] 눈치채는 이도 신경쓰는 이도 몇 없네|Not many, not many notice nor care
+12000||BgmLyrics#BgmLyrics_Cromer1.json] 우리의 구세주여|My saviour
+12001||BgmLyrics#BgmLyrics_Cromer1.json] 흔하디 흔한 불꽃이 어찌 이리도 강한 힘을 품고 있나요?|Why does a common fire hold so much power?
+12002||BgmLyrics#BgmLyrics_Cromer1.json] 언제까지고 순진무구한 채로 있었더라면 얼마나 좋았을까|If only we could be forever naive and pure
+12003||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">어쩌면 그때가 바로|<style="den">Maybe that was when</style>
+12004||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>우물|<style="den">A <size=20>well</size></style>
+12005||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>돌|<style="den">A <size=20>stone</size></style>
+12006||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">불어나는 <size=20>욕망</style></size>|<style="den">A multiplying <size=20>desire</size></style>
+12007||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">과일|<style="den">A fruit</style>
+12008||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>죄|<style="den">A <size=20>sin</size></style>
+12009||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">성모|<style="den">A holy mother</style>
+12010||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">난 감염됐어, <size=20>네게 감염되어|<style="den">I’m infected, <size=20>I’m infected</size></style>
+12011||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">네게 잠식당해 <size=20>나는 새로 거듭나</style></size>|<style="den">You have invaded and <size=20>re-created me</size></style>
+12012||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">내 <size=20>시체</size>를 밟고 일어서|<style="den">Stepped over my <size=20>body</size></style>
+12013||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>볕</size>이 잘 드는 곳을 찾아|<style="den">Found a <size=20>sunny</size> spot</style>
+12014||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">타락한 채로 남기로 결심한 때일까|<style="den">I chose to stay fallen</style>
+12015||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">몸을 둥글게</size> 말고|<style="den">Curled into a <size=20>ball</size></style>
+12016||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>실</size>을 짜내|<style="den">Spinning out the <size=20>silk</size></style>
+12017||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>머리</size>부터 <size=20>발끝</size>까지|<style="den">From my <size=20>head</size> to <size=20>toe</size></style>
+12018||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">따뜻한 <size=20>고치</size> 속에서 나는 너와 같은 <size=20>존재</size>가 되기를 꿈꾸었어|<style="den">Inside the warm <size=20>cocoon</size>, I dreamt <size=20>to be</size> like <size=20>you</size></style>
+12019||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">돌이킬 길이 없다는 것은 알고 있지만|<style="den">Though I know there's no undo</style>
+12020||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr">어차피 더 잃을 것이 무엇 있으리?|<style="den">What do I have left to lose?</style>
+12021||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>분열|<style="den"><size=20>Split</size></style>
+12022||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>하늘|<style="den">A <size=20>sky</size></style>
+12023||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>대지|<style="den">An <size=20>earth</size></style>
+12024||BgmLyrics#BgmLyrics_Cromer2.json] <style="dkr"><size=20>틈새</size> 사이로 떨어져|<style="den">I fell into a <size=20>crack</size></style>

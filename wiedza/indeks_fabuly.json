@@ -2,17 +2,17 @@
  "format": "lcb-indeks-fabuly-v1",
  "zrodla": {
   "static_data": "lustro LEAGUE-OF-NINE/OpenLethe, commit 8f24cba5721482c85a7ab22ba2d2105914d175ac (dane 2026-11-12); build Steam nieznany; repozytorium bez pliku licencji",
-  "localize": "lustro LimbusTraditionalMandarin/story-data, commit f218bbec3c1df855c5786bb7c2b2479cf3ce3354 (2026-11-19); build Steam nieznany"
+  "localize": "zbieracz LCB_DANE_20261126_094359_ef145d.zip (build Steam 26917622, SHA-256 28f53cdbd6bd8b144ff48a5dd84ecd76bbcea5e90bdbf44db24069f005badfa8)"
  },
  "liczby": {
-  "pliki_storydata": 1001,
+  "pliki_storydata": 1003,
   "sceny_w_indeksie": 807,
   "z_teatru": 667,
   "z_etapow": 5,
   "z_walk": 82,
   "z_reguly_nazw": 53,
   "sceny_bez_pliku": 1,
-  "historie_identity": 184,
+  "historie_identity": 186,
   "nieprzypisane": 11
  },
  "rozdzialy": [
@@ -1203,6 +1203,7 @@
   {"postac": 1, "identity": 10114, "pliki": [ "P10114" ]},
   {"postac": 1, "identity": 10115, "pliki": [ "P10115" ]},
   {"postac": 1, "identity": 10116, "pliki": [ "P10116" ]},
+  {"postac": 1, "identity": 10117, "pliki": [ "P10117" ], "zrodlo": "regula_nazw"},
   {"postac": 2, "identity": 10201},
   {"postac": 2, "identity": 10202, "pliki": [ "P10202" ], "profil": "wcorp_faust_profile", "analiza": "wcorp_faust_analysis"},
   {"postac": 2, "identity": 10203, "pliki": [ "P10203" ], "profil": "lcorp_faust_profile", "analiza": "lcorp_faust_analysis"},
@@ -1381,7 +1382,8 @@
   {"postac": 12, "identity": 11213, "pliki": [ "P11213" ]},
   {"postac": 12, "identity": 11214, "pliki": [ "P11214" ]},
   {"postac": 12, "identity": 11215, "pliki": [ "P11215" ]},
-  {"postac": 12, "identity": 11216, "pliki": [ "P11216" ]}
+  {"postac": 12, "identity": 11216, "pliki": [ "P11216" ]},
+  {"postac": 12, "identity": 11217, "pliki": [ "P11217" ], "zrodlo": "regula_nazw"}
  ],
  "nieprzypisane": ["E000X", "E001X", "E002X", "E003I1", "E003I2", "E003I3", "E003I4", "E003X", "RPG1", "S9991B", "S9992B"]
 }

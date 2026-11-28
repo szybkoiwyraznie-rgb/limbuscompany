@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[key=Q7001_C2].description": {
+      "pl": "Meursault stoczył głaz aż na szczyt, a głaz znów stoczył się na dół. A miejsce, do którego w końcu dotarliśmy, to… sam szczyt domu handlowego.",
+      "kr_sha256": "a977606c30085acbaa3581b14f1291fe8c82453668e515721ad5c6e3076bc624",
+      "en_sha256": "83bebf24e5003f6d5234911f637db8b151eaa0c3d3e5436c6462abef91ddca94",
+      "origin": "ai"
+    },
+    "dataList[key=Q7001_C2].steps[#0].goalDescription1": {
+      "pl": "Idziemy przed siebie.",
+      "kr_sha256": "f628afd65eb5fd5fe57064a9614bb5284e92ec6ea2b35e6be69c12fb80cac534",
+      "en_sha256": "5b0124f5a4b27f3a16bbc435578fc0ca4fd40c5da9128c9a6e64088d2def9cb1",
+      "origin": "ai"
+    },
+    "dataList[key=Q7001_C2].steps[#1].goalDescription1": {
+      "pl": "A potem siadamy.",
+      "kr_sha256": "4b4764b08534ecff0621325594dd0c2574f361b34bd776f97754db9024b61263",
+      "en_sha256": "e8be66176c43f63d786aefacef1f01ddd2d97b740abc46001e1b414d57905473",
+      "origin": "ai"
+    },
+    "dataList[key=Q7001_C2].title": {
+      "pl": "Jasny Pokój",
+      "kr_sha256": "9196a4b7c8477d359b81a2f2703d3d5709d4e6cbb4169adf6041d67d5ae3e0d9",
+      "en_sha256": "8afb3f13d477b2220547945622f5784688a3f104113ff9f46ffbee6e01858e99",
+      "origin": "ai"
+    },
+    "dataList[key=Q7002_C2].steps[#0].goalDescription1": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q7002_C2].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=railway_dungeon_3_banner_reward_condition_1].content": {
+      "pl": "Zdobywane za ukończenie Stacji końcowej Kolei Załamania — Linii 3",
+      "kr_sha256": "333e756123f6f7234720488abd30cec7ae0de0e3693eaf0af23fd4db9bcb6946",
+      "en_sha256": "4d8154c6c31da32d46b2f56b230fa781fba07ce6deefac1a806ea7041a96eb31",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_3_banner_reward_condition_2].content": {
+      "pl": "Zdobywane za ukończenie Stacji końcowej Kolei Załamania — Linii 3 w maks. {0} łącznych turach przed końcem Sezonu 3: Bon Voyage",
+      "kr_sha256": "37f0b5e9ca04d6af515f9d9ae86ec6443e01fcbcb2f12b04fafedf7ca96cc5ac",
+      "en_sha256": "1a049c5034501f9f406ddc79004c9c1fa024dd90c947b37a6f3c36555b638d74",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_3_boss_accumulated_turn].content": {
+      "pl": "Końcowa liczba tur",
+      "kr_sha256": "56ea939f34eacd45089720b3a18a5377a346bfdb175b5f0e682e8644349aaaab",
+      "en_sha256": "0bf2f409d596825f33ef8cd4a083610f6e971edac0a39d53dc8c4f1b965f50e1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_3_formation_saved].content": {
+      "pl": "Skład został zapisany.",
+      "kr_sha256": "1a5b2dc86af0b9c82ce7db3b8f04cf77d6fcb0cae41505a3d31b06123a3407cc",
+      "en_sha256": "f879ebfad7c24465034c9623d17e4972d9114b349e00d07640b9d56796cffbb7",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_3_retry_popup_init].content": {
+      "pl": "Wróć",
+      "kr_sha256": "f090ebd527130a04a71d693d6394577ec74d3afd9cedc3876708f5820d7988ac",
+      "en_sha256": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_3_reward_condition_special_ticket].content": {
+      "pl": "※ Zdobywane za ukończenie Stacji końcowej Kolei Załamania — Linii 3 w maks. <color=#cd5e00>{0}</color> łącznych turach\nprzed końcem <color=#003c3e>Sezonu 3: Bon Voyage</color>",
+      "kr_sha256": "91a9c11e68914597b9221a15e7492eebfb2d5e2a5717578a1b3b02c1606a477f",
+      "en_sha256": "d87d866ad400d19338c21f809f4fc2a76e44f5eca3a91db2a9258a538cbcd9e2",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_3_unit_recovered].content": {
+      "pl": "Odnowiono PŻ i SP.",
+      "kr_sha256": "2eb4a8683801cc86eca0e9419e5682d2e595165675eb7af1deed233c10747dca",
+      "en_sha256": "eb5498148e44209dc83bf91843b084ab007026122019bfd36bc4cfe1b05676ab",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_before_enter_past_node_battle].content": {
+      "pl": "Ponowne wyzwanie ukończonej stacji\ncałkowicie zresetuje cały postęp\nod tej stacji wzwyż.\n\nPonowić wybraną stację?",
+      "kr_sha256": "dc5d17028fd048143eb47cf6bbc36af6d0e662c3c28c42d4128428139e5c151a",
+      "en_sha256": "c198c41e82887958112914f47c502ada812733ea007cbddc82d72bf353469c1d",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_before_enter_past_node_change_formation].content": {
+      "pl": "Zapisanie składu całkowicie zresetuje cały postęp\npo wybranej stacji postojowej.\n\nZapisać skład mimo to?",
+      "kr_sha256": "aa50e0b9d9a0500606f2623a3d5a1ebb36f7736ea74530dea22f8edb6f6ebe70",
+      "en_sha256": "e198d86f27401ef668da4d07d13ba0565d8efd070daa79dae0427957c1ca634b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_init_saved_stage_data].content": {
+      "pl": "Resetuj",
+      "kr_sha256": "893f3d9463683c71bf5eeca6a25c54fac365b5dbd5d7b69bbc0f5e82f5f72c70",
+      "en_sha256": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_init_saved_stage_data_desc].content": {
+      "pl": "Zresetować postęp na bieżącej stacji\ni wrócić do stanu sprzed wejścia?",
+      "kr_sha256": "7d6a19b80590227a7bab29f968bda0ffc6fc53d799dc6f2b72bc1028c54a6e8c",
+      "en_sha256": "edc598d0e0647739413903378d63aaad3937f5b04c234c30ce6a255589e1c69e",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_save_formation].content": {
+      "pl": "Zapisz skład",
+      "kr_sha256": "1ab1c0d39c217f2f569fd264805f7dbee6dfa32d0f0d83f9cf5ac9fa064c45d9",
+      "en_sha256": "6538e88fd16dc43bb9d5bb72db2ed7f9fdd4c3bb477a5a79c0584b419cb1348f",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "entries": {
+    "dataList[id=809901].desc": {
+      "pl": "Początek tury: wszyscy sojusznicy (łącznie z tą jednostką) przywracają 10 SP",
+      "kr_sha256": "f8214c65666dfffe04043904d3d090db6454106b523c33ad23fca2bcee5ebd4e",
+      "en_sha256": "c1b3a9ddda2198af8d8b37ebb8e686c038eb8d77421fd3ba9015de393c188374",
+      "origin": "ai"
+    },
+    "dataList[id=809901].name": {
+      "pl": "The Big Brother",
+      "kr_sha256": "ad9e1976f9faa93c80873d3ef710642b40235d7e2d4a6751f9969f6c5487acc8",
+      "en_sha256": "7de59d22c9a12fa3a9361b572571bccfea142dce72b20a8179b5a37c73ca28a3",
+      "origin": "ai"
+    },
+    "dataList[id=809902].desc": {
+      "pl": "gdy ginie sojusznik Środkowego, zyskuje 1 Wzmocnienia Monet Plus w następnej turze. (maks. 2)",
+      "kr_sha256": "efa83a7333eaf8699ca5811c7aae96b21203bcce9070df9eb2863bb2d4ee2647",
+      "en_sha256": "e4862d5995ad02bd775c5cbbe5ba1ee03c45560d9b00b44e0597bad9d79d30aa",
+      "origin": "ai"
+    },
+    "dataList[id=809902].name": {
+      "pl": "Chains of Loyalty",
+      "kr_sha256": "c324370f062507516b3e6c195921832ee18a90570c8d4d9031873a4984b1c785",
+      "en_sha256": "4de0dbedb4f265e7900cc70da5d64bef67559ee56aa2d82edd7bb8f1a61d3ecd",
+      "origin": "ai"
+    },
+    "dataList[id=809903].desc": {
+      "pl": "jeżeli wróg atakujący tę jednostkę nie zada jej ponad 12 obrażeń HP Umiejętnością, traci 10 SP",
+      "kr_sha256": "374ced0474c4cd8aef06e6d6dfa02b0bbdde69301ecd9ba2258e17ad1a2d77c5",
+      "en_sha256": "86b7d0cb88d5b1b0421b6e5e96b9b9a805f02e288f6a35c6e4f343a45e436b4b",
+      "origin": "ai"
+    },
+    "dataList[id=809903].name": {
+      "pl": "Domineer",
+      "kr_sha256": "87f9986f3c491022ccd643fdd2cd2179303643f554464813876ec0f91f49fced",
+      "en_sha256": "2e1dce001f2501ca7f3460c1f3566e8506bd1a29522fc7d3d9c0269de5d1aa7b",
+      "origin": "ai"
+    },
+    "dataList[id=809904].desc": {
+      "pl": "gdy przechodzi w Panikę, na początku następnej tury dochodzi do siebie z Paniki i jej SP wraca do 0.",
+      "kr_sha256": "c711edc70e40c0f0e0cc32525f4407346d6bdc8ba6fb269a7b7bfe1cdfad1488",
+      "en_sha256": "d5698b3625ac4451ea1b310c1e8e9f66cf37d0ec253262a6106daeed0048f6ee",
+      "origin": "ai"
+    },
+    "dataList[id=809904].name": {
+      "pl": "Brush it Off",
+      "kr_sha256": "13eaa7de590c0218865dccc682c730d66b874a80117b92ac27e9e3203160f445",
+      "en_sha256": "a01864539f7d592f43e9b68cd658beeed8cf22aa790695a3b4398d1274476c44",
+      "origin": "ai"
+    },
+    "dataList[id=809905].desc": {
+      "pl": "po 3 przegranych Starciach zyskuje 6 Spadek Poziomu Obrony w następnej turze",
+      "kr_sha256": "80ac80b0aee680bee5ef209bf8fba331ce8469bcccfa0aa5a061f824f909f225",
+      "en_sha256": "b52578b98961af7f3c6e4cad63329412753a0c4fd85e8c65a8acb07f5404e138",
+      "origin": "ai"
+    },
+    "dataList[id=809905].name": {
+      "pl": "In the World of Bristly",
+      "kr_sha256": "e7e03c8959d6caee6c3bb0b8ef7daaf70e4477407a01e209d256211679e34cdb",
+      "en_sha256": "46115ae63a054d59f74e64ce9c20a994d7b47f4ebc381094ebc7df6f00f6cfb3",
+      "origin": "ai"
+    },
+    "dataList[id=9008801].desc": {
+      "pl": "gdy zostaje pokonana w walce, zadaje 10 obrażeń SP jednostce, która atakowała ją jako ostatnia",
+      "kr_sha256": "9b0a67c2449bc924b991da68e7274e5d980caa34c5b204ac8aa4f690279df8b7",
+      "en_sha256": "29a9f29fcddc577e3873946474acc5bfc29f9c14856f6cf4b79a7ba82ffc901f",
+      "origin": "ai"
+    },
+    "dataList[id=9008801].name": {
+      "pl": "Ineffable Shape",
+      "kr_sha256": "05f1f4ded0737ba57b0f019a5c4cd774a9bd636514424f0ca62a5d5445908669",
+      "en_sha256": "84ab7efc919b4ca1643e51408c0248293a7315fc96bc1890ebe61fc065e04ad0",
+      "origin": "ai"
+    },
+    "dataList[id=9008901].desc": {
+      "pl": "za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki) zyskuje 2 Poziomu Ataku i Poziomu Obrony",
+      "kr_sha256": "4b0a242609e2544d3dbb87538dc1ccd51ec9d34b5dd08b69049adcb3fe247a73",
+      "en_sha256": "4d7badfe35e7bffb811d5a0a9440ee434525ec4fd545609049433408145829e2",
+      "origin": "ai"
+    },
+    "dataList[id=9008901].name": {
+      "pl": "Pallidification",
+      "kr_sha256": "4efad9903bd2bae3549463ec77b281aec2bfd6aec69b961b677f7aa3baefde38",
+      "en_sha256": "87338deebe7410e7ef70c437744445a103cd8491a53619c25feafd22b487e280",
+      "origin": "ai"
+    },
+    "dataList[id=9008902].desc": {
+      "pl": "przy 10% Maks. HP, przy trafieniu zadaje 20 obrażeń SP, nakłada 1 Bladego Szumu w następnej turze, po czym umiera.",
+      "kr_sha256": "107771d9e3d397412169ea7c7e19ce69ee62a6e46a76616a26c3751e43f2cdb4",
+      "en_sha256": "21c26292fd339927d5a783f6fc81299c72b81805580c5da9c362a25944e772df",
+      "origin": "ai"
+    },
+    "dataList[id=9008902].name": {
+      "pl": "Crashing Filth",
+      "kr_sha256": "bcc07a8414f40bb58677ea848dd4d496ebe8f8074dae8299a0f5972d08a82dfb",
+      "en_sha256": "c8293d5bc16e57d8b4b2a4955588c890bd2d53d4209da9c0d186f03e806cdfbf",
+      "origin": "ai"
+    },
+    "dataList[id=9008903].desc": {
+      "pl": "Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)",
+      "kr_sha256": "eb9040d5c5850539c6d7d9dda5b8e39d7e568dcb2c085c358545091a80c960fb",
+      "en_sha256": "347269537538ae79a926102bd606a6b7eeafca1baa7180b2622964aa4e1a90d9",
+      "origin": "ai"
+    },
+    "dataList[id=9008903].name": {
+      "pl": "Spreading Flames",
+      "kr_sha256": "bf7d13a16ec835382eac7ef2bf1a36d1c07eaedc3a9e70c6cae4a34aefe98365",
+      "en_sha256": "9e5ba0d17b66c982c46b56aca05408872e0f78c740160e74f1e02f85fedefb83",
+      "origin": "ai"
+    },
+    "dataList[id=9008904].desc": {
+      "pl": "rozpoczyna tę walkę z -20 SP.",
+      "kr_sha256": "5985f3b68e72e06137516c170f58c7b8b4c0f3f179bec204d8bc6a6882edc1a5",
+      "en_sha256": "726b8a03c0f925bd09f54ef3635a0d7e324b499a2d89e6ec5ab84dcb8f78b24a",
+      "origin": "ai"
+    },
+    "dataList[id=9009001].desc": {
+      "pl": "Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy wrogowie z 20 lub więcej SP tracą 1 SP za każdego żyjącego Zbielałego sojusznika (nie licząc tej jednostki)",
+      "kr_sha256": "eb9040d5c5850539c6d7d9dda5b8e39d7e568dcb2c085c358545091a80c960fb",
+      "en_sha256": "347269537538ae79a926102bd606a6b7eeafca1baa7180b2622964aa4e1a90d9",
+      "origin": "ai"
+    },
+    "dataList[id=9009001].name": {
+      "pl": "Spreading Flames",
+      "kr_sha256": "bf7d13a16ec835382eac7ef2bf1a36d1c07eaedc3a9e70c6cae4a34aefe98365",
+      "en_sha256": "9e5ba0d17b66c982c46b56aca05408872e0f78c740160e74f1e02f85fedefb83",
+      "origin": "ai"
+    },
+    "dataList[id=9009101].desc": {
+      "pl": "Koniec tury: jeżeli żyją Zbielali sojusznicy, wszyscy pozostali Zbielali sojusznicy przywracają (liczba pozostałych Zbielałych sojuszników x 3) HP",
+      "kr_sha256": "c0f2d3bddc85a2cd2f5a6d43e8b8c18390baec99749ba727754d4f770ec812e5",
+      "en_sha256": "ede3dd8f690e63c44aa9faa984b1ea4a41bb137ac1ad3b00d792555135573eca",
+      "origin": "ai"
+    },
+    "dataList[id=9009101].name": {
+      "pl": "Healing Resentment",
+      "kr_sha256": "34c4d75a7cc407610d8cdbd44c18485312ad709275d906a60168f528cd67ce6f",
+      "en_sha256": "a426e1fb54380ee24449b57bf2b8d78ee245491c15bc0d7809f69b704f89b4a4",
+      "origin": "ai"
+    },
+    "dataList[id=9009201].desc": {
+      "pl": "Poziom Obrony +1 za każdego żyjącego sojusznika (nie licząc tej jednostki)",
+      "kr_sha256": "ba27a29be14ffe311045bd1994bb4413d867447d6bb1a4e96c72c4c909875411",
+      "en_sha256": "dbbc07cdcd824c247cfb77a068c0d5515e534e70a6f8430fe706cb9bd9507490",
+      "origin": "ai"
+    },
+    "dataList[id=9009201].name": {
+      "pl": "Cumulating Organic Material",
+      "kr_sha256": "2612237bdb2b50bc988dca29355b22c01d9dfc334271aa0efa253ad6b25afb16",
+      "en_sha256": "86d4fa3d41084434e6031a4aa492f9496e6c742522b158d9f139243eb91a22df",
+      "origin": "ai"
+    },
+    "dataList[id=9009202].desc": {
+      "pl": "jeżeli ginie sojusznik, zyskuje 1 Kruchości w następnej turze",
+      "kr_sha256": "06817de2ed7fddb56f36efeb2c26c5a584f2a5325bb2a7f70aaac31b74ea3203",
+      "en_sha256": "0efa5ee1c5571a501cd9f5f619f2338425bf12d0a89d5081553c65af93bd6491",
+      "origin": "ai"
+    },
+    "dataList[id=9009202].name": {
+      "pl": "Disintegrating Inorganic Material",
+      "kr_sha256": "369d7ba1fb0b100a954312cf8a28bd4af905aa4da0c6e27a8576b71a9603598a",
+      "en_sha256": "d4a9b5323d59e1b4c19bc988f87ababcc63a5d4986a82fcc75e3bba95b3cb0ee",
+      "origin": "ai"
+    },
+    "dataList[id=9009301].desc": {
+      "pl": "Poziom Ataku +1 za każdego żyjącego sojusznika (nie licząc tej jednostki)",
+      "kr_sha256": "71e5233016921f0454efe82d5b9653be03442192d5e73713f6c59620459fa5fe",
+      "en_sha256": "7c6c8427caf03854236049e812c10e0ab93f80ee16a16b78d996c66dfb582405",
+      "origin": "ai"
+    },
+    "dataList[id=9009301].name": {
+      "pl": "Intertwined Organic Material",
+      "kr_sha256": "6b9fde6aa430461b66122799c1eb273222d67437f471886e873f2dd86dd26ca6",
+      "en_sha256": "0a9af593ab224fe7a7d05605af39d3febcdbc7655b6f0c935b224e2a93f51311",
+      "origin": "ai"
+    },
+    "dataList[id=9009302].desc": {
+      "pl": "jeżeli ginie sojusznik, zyskuje 1 Spadek Mocy Ataku w następnej turze",
+      "kr_sha256": "be9edf5b77f79108395bab9865a54d040f322ef0dde099e2b77d1a0a2391677f",
+      "en_sha256": "042fc6e04bffd52ed3b0c52b1afd11239d0771e69d5fe6752cf1ad4acd95c299",
+      "origin": "ai"
+    },
+    "dataList[id=9009302].name": {
+      "pl": "Scattered Inorganic Material",
+      "kr_sha256": "cbcfd0b414190d7b3cc6be8ccf7221b9e4cac2cc6fafe1670424555004cfbd8f",
+      "en_sha256": "c28b51f9a533b398c6c71a5214610c381b79a7d61bb1789b5110b670ab7ab367",
+      "origin": "ai"
+    },
+    "dataList[id=9009401].desc": {
+      "pl": "jeżeli to ta jednostka zadała cios kończący, nakłada 5 Oddechu wszystkim Zbielałym sojusznikom. Nakłada 1 Licznika Oddechu",
+      "kr_sha256": "327e07d874c62ac11fe9c5014929268acb08cea19c3a33c5b1187f0b7bf2436e",
+      "en_sha256": "049efba0885e13ddd02d35e1624e642cbbbbb1c955b5ec5513de764109f0c239",
+      "origin": "ai"
+    },
+    "dataList[id=9009401].name": {
+      "pl": "Organic Breathing",
+      "kr_sha256": "bb825ab56f496f57b01cdcca2976e328f069befaf82a4b3d1993cf3738a913b8",
+      "en_sha256": "d77bf92c7d31b8075a0a4f1691c4a72134a7d4071b8a2b07749fc6d00989a612",
+      "origin": "ai"
+    },
+    "dataList[id=9009501].desc": {
+      "pl": "jeżeli to ta jednostka zadała cios kończący, nakłada 1 Ochrony i 2 Wzrost Poziomu Obrony wszystkim sojusznikom.",
+      "kr_sha256": "b2989b800fdd186c03e3d0f55b9469434ac6709b49a02880122cfed2a010b023",
+      "en_sha256": "f36d837a00416a35d422d30631416acaba410af1b8a4dd2301b6baaacca9fb89",
+      "origin": "ai"
+    },
+    "dataList[id=9009501].name": {
+      "pl": "Organic Hardening",
+      "kr_sha256": "0b63057c759254a3f1af66f261f382dcbe4a3c592b59dfec4f2257249e55051e",
+      "en_sha256": "03d8627b2ddd3e41757af0e4d3b380e1423fcecb4e390a060b1f0f63e074be14",
+      "origin": "ai"
+    },
+    "dataList[id=9009601].desc": {
+      "pl": "za każdego sojusznika Środkowego pokonanego w tej walce zyskuje 1 Wzrost Poziomu Ataku (maks. 5)",
+      "kr_sha256": "13857ad0f431747d3f63b8ee6f86e58a8bf89897347732e718199207c71362c4",
+      "en_sha256": "d58629a56a1955a1f2c50d0722c41ce6ee7627e529fe83fc0ecdb478bd913b55",
+      "origin": "ai"
+    },
+    "dataList[id=9009601].name": {
+      "pl": "Vengeance Tattoo",
+      "kr_sha256": "a86de75e65c09cf73584bfdaa0dfe4e3c41f30723938005bd9727618c768b733",
+      "en_sha256": "bad13faac5d5aa3789b60b854659b1b6f7b4256bf2df7ceaa2b03dbe92f8863e",
+      "origin": "ai"
+    },
+    "dataList[id=9009602].desc": {
+      "pl": "po przegranej w Starciu zyskuje 1 Wzmocnienia Monet Minus w następnej turze (2 razy na turę)",
+      "kr_sha256": "7272761111c7aba4545705476f547979cd6d18a089a5ce0fe15b6c94801d7e99",
+      "en_sha256": "84e10223d97ce93e2758e444bae86495a2c228d2316004f608c9b1d8663f901c",
+      "origin": "ai"
+    },
+    "dataList[id=9009602].name": {
+      "pl": "Little Vengeance",
+      "kr_sha256": "5443d4752dd0f4f545bcd4e605ba754331849c84afc8270abab1c25898c7dc03",
+      "en_sha256": "03d93def196c479631b15086dbdad52f2061b50f56efba52c2ff331392b98136",
+      "origin": "ai"
+    },
+    "dataList[id=9009603].desc": {
+      "pl": "używa „Multifold Retribution” przy HP równym 20% lub mniej. (1 raz na falę)",
+      "kr_sha256": "ae1b9382022c72f2b875bda0ef6e87460457f51128a55e542fcf4c2e223b2e6c",
+      "en_sha256": "bbefb7952f8722ee660cf3551775ccdce2f2bfc9b5672ebbd3d1c37817fb0284",
+      "origin": "ai"
+    },
+    "dataList[id=9009603].name": {
+      "pl": "Multifold Retribution",
+      "kr_sha256": "7403d4a9fc1db23096cf3091775d3c8e9c32f22decc803933cc8bae01c1ddcb6",
+      "en_sha256": "cb25a2398d7d56e0cc3329858a2ce3722244d21b7037eb94f437a9c1f666a6de",
+      "origin": "ai"
+    },
+    "dataList[id=9009604].desc": {
+      "pl": "gdy ginie sojusznik Środkowego, zyskuje 1 Wzmocnienia Monet Plus w następnej turze.",
+      "kr_sha256": "07898d864980454e908ad7d0319ac897bcc806dce59eb628b700ba4c1501aaca",
+      "en_sha256": "b4197e2b622055cfcb7d23ffa034799fb8eb97b8e3fbb196ab4bc20cd757fd65",
+      "origin": "ai"
+    },
+    "dataList[id=9009604].name": {
+      "pl": "Chains of Loyalty",
+      "kr_sha256": "c324370f062507516b3e6c195921832ee18a90570c8d4d9031873a4984b1c785",
+      "en_sha256": "4de0dbedb4f265e7900cc70da5d64bef67559ee56aa2d82edd7bb8f1a61d3ecd",
+      "origin": "ai"
+    }
+  }
+}

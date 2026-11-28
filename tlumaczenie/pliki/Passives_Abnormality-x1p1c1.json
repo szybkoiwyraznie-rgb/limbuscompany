@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=136501].desc": {
+      "pl": "na koniec tury zadaje wszystkim wrogom 5 obrażeń Poczytalności",
+      "kr_sha256": "1ce784e754f19132de9b4431a132949c93077ab9103a6cde1273398205939e50",
+      "en_sha256": "c5cd99e8687fbfaab5f658b1384d2a97b4e57d8132fbd6caaa075522a75a4143",
+      "origin": "ai"
+    },
+    "dataList[id=136501].name": {
+      "pl": "Dignity of the B.E.",
+      "kr_sha256": "6db8bd1a73a0d8f598ec148884071aa2a2a97cf2c8a626faebae914a219cf484",
+      "en_sha256": "812d573dc30254c4b25a1bbd9314677e531fd1613cc09c1d051f34509ac8ed48",
+      "origin": "ai"
+    },
+    "dataList[id=136502].desc": {
+      "pl": "przy otrzymaniu trafienia: zyskuje 1 [LeakedOutSauce]",
+      "kr_sha256": "fdecdc0d8ee5291491872fd6739cd0c49f70b44e479f54b6124663c432269175",
+      "en_sha256": "90aa4f6eeae4f4206f75070110a3c61a654b062c575f36f5831b004571b49ca9",
+      "origin": "ai"
+    },
+    "dataList[id=136502].name": {
+      "pl": "Bulging Chicken",
+      "kr_sha256": "523e75eafd134dfa8e8f28d2014d44c58566b6f0057110b95b177a1b7abc63e9",
+      "en_sha256": "c02600bae25c51dbc4b2f3129180c74d77768f62de2ef02059a27f2322555dda",
+      "origin": "ai"
+    },
+    "dataList[id=136503].desc": {
+      "pl": "jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, Moc Starcia +(Szybkość / 3)",
+      "kr_sha256": "40d11e5a28c0de854b1d09f83ce9531a325829af81eb4b3047e1284a28c48ec4",
+      "en_sha256": "079ea820cfac781182edf79b0d46e9148405d1382b886760f1253f04c8cf1924",
+      "origin": "ai"
+    },
+    "dataList[id=136503].name": {
+      "pl": "Marynata Tango",
+      "kr_sha256": "e423015d96dd653e13be59745de96f2933a2044078b4613f0c20c34f3f8594c2",
+      "en_sha256": "7e19be6b5a7626ab90881928f29d3e8f6fd16c45af15e0d76a7db96b3313e173",
+      "origin": "ai"
+    },
+    "dataList[id=138701].desc": {
+      "pl": "na koniec tury nakłada w następnej turze 1 [DeliciousSauce] wszystkim wrogom",
+      "kr_sha256": "a8fbde12fbfab3a09060e71082d4cbeae976822a5ebea0af2332965f83b8d698",
+      "en_sha256": "99460d6fe5a3c40f0f0ed30ccdeb4eb140a61ffc5907b482e7f0cd2827acf9e0",
+      "origin": "ai"
+    },
+    "dataList[id=138701].name": {
+      "pl": "I'll Just Have to Force-feed You!",
+      "kr_sha256": "d4b305938f20d8bae69973e7a6ce96a0e8a1f5f3bd4ea8afe8d642577e08ccfc",
+      "en_sha256": "0bd5fb6effa82aa44976f7720e7f3411822c17fc137c69ad37bf533fa7e12472",
+      "origin": "ai"
+    },
+    "dataList[id=138702].desc": {
+      "pl": "na koniec tury przywraca 10 Poczytalności wszystkim wrogom i sojusznikom biorącym udział w walce (z wyłączeniem tej jednostki).",
+      "kr_sha256": "6ebf000b8c2d8980bf8dc2319e5251985fd5f9bde2d6e1eb53220b31c7865b32",
+      "en_sha256": "3b6cacfe7097475373c67d60306a3fd2f60934e09d5c579fbc7a1c95bfa99913",
+      "origin": "ai"
+    },
+    "dataList[id=138702].name": {
+      "pl": "Let's All Cook Together!",
+      "kr_sha256": "a1ac66fba02587478aeb29adb57e162ea1415ba9b207c7d8e81900ae23d69784",
+      "en_sha256": "bbd71b4894d1bb0bd4b6711a6e9a9595532e64979384db60aa7f159e4edbf864",
+      "origin": "ai"
+    },
+    "dataList[id=138703].desc": {
+      "pl": "przy trafieniu atakiem tej jednostki zadaje -1% obrażeń za każdy 1% brakującego HP celu",
+      "kr_sha256": "d19adbb46c607f947bf886e4f7b2bd9dd5fb2919a01c54a03205e03ee7507e69",
+      "en_sha256": "204dddc094e9f8c4b47c8274e38ce51756414428c0a53701e78659e0b6d33dff",
+      "origin": "ai"
+    },
+    "dataList[id=138703].name": {
+      "pl": "It was All... for the Kids.",
+      "kr_sha256": "06166cb49c31860a4176d841c7c474f904418b1036b68dbe71d8bfabbe94da9c",
+      "en_sha256": "36216ef76315aa972efd583db2e1bbc10b573e48799f9ddb0a5472fc89690b40",
+      "origin": "ai"
+    }
+  }
+}

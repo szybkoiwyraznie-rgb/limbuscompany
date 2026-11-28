@@ -1,0 +1,568 @@
+{
+  "entries": {
+    "dataList[id=874101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=874102].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874102].name": {
+      "pl": "Prawe Ramię",
+      "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
+      "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
+      "origin": "ai"
+    },
+    "dataList[id=8741].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8741].name": {
+      "pl": "By Nikt Nie Płakał",
+      "kr_sha256": "2c54ae6796f8f632ca927767e50556d5f7ea02e127cf782f8a6fc4423a34d8c6",
+      "en_sha256": "5b0d4e31944a59cebca590808f82da35e272f3b52ec801ab3aa76c70685b457e",
+      "origin": "ai"
+    },
+    "dataList[id=874201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=874202].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874202].name": {
+      "pl": "Głowa",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=8742].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8742].name": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=874301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874301].name": {
+      "pl": "Parasol",
+      "kr_sha256": "8b6f9142a49be5004b826f6fa230097437e7e73849a3fd80aab2f39ca9c4239c",
+      "en_sha256": "e4d775da5e6b87af8a0d5e19d5f25a31681e3c38243577ed4e6580ff5c0316d7",
+      "origin": "ai"
+    },
+    "dataList[id=8743].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8743].name": {
+      "pl": "Stary Parasol",
+      "kr_sha256": "e600f390be1b6d653bbfa81d13f2337eee32d83e9532d22ef739d439b1dcc576",
+      "en_sha256": "9639c6881760ceeb749cc289d1c55d0f596dde550e2863b4192882d5c9b6b7cd",
+      "origin": "ai"
+    },
+    "dataList[id=874401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=874402].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874402].name": {
+      "pl": "Lewe Ramię",
+      "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
+      "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
+      "origin": "ai"
+    },
+    "dataList[id=8744].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8744].name": {
+      "pl": "Wróżkowy Dżentelmen",
+      "kr_sha256": "e23e5a9a7e2c1c1d68583f7f74a8a123325ae1fc90cc99cbe0c86f75d7b1b0f0",
+      "en_sha256": "9e73cfce0aad0c0e914038930f9d254c361d6e551c16a7797e29a2293f8535b8",
+      "origin": "ai"
+    },
+    "dataList[id=874501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874501].name": {
+      "pl": "Beczka Wina",
+      "kr_sha256": "7fa2832006774d8a53c94f2aff1516bef03d0472471ca31676e9f09168276e32",
+      "en_sha256": "40352298236059364679cf137c1a1d8c5e1c1dad3527a3a5f631813129a230ab",
+      "origin": "ai"
+    },
+    "dataList[id=8745].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8745].name": {
+      "pl": "Wino Wróżek",
+      "kr_sha256": "8e8b5db1eb126bda14ac0a45ab8cb41439071c8dc247c42dac6f9a2ed0adb9e5",
+      "en_sha256": "7241d6136a309ddf6a1099ed2d7d8486868743cd3f8b2731e062e8e0a13ad2ff",
+      "origin": "ai"
+    },
+    "dataList[id=874601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=874602].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874602].name": {
+      "pl": "Lewe Ramię",
+      "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
+      "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
+      "origin": "ai"
+    },
+    "dataList[id=874603].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874603].name": {
+      "pl": "Głowa",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=8746].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8746].name": {
+      "pl": "Długonoga Wróżka",
+      "kr_sha256": "3f9fdc150789304a9c321e502144e7f271541222a769fdd130571b5f204cfd20",
+      "en_sha256": "a7430a50b0b5cb78f5cc5503028f7e61f6df160ad67db8d5b58152bf2def9804",
+      "origin": "ai"
+    },
+    "dataList[id=874701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8747].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8747].name": {
+      "pl": "Wielki Liść",
+      "kr_sha256": "451874ab24e38264b98a918086c2af03fb46168ecbfd68933c2df76ff69ca175",
+      "en_sha256": "9c714d11211cb79a8968a54febb20dcfe2fda35358ec62571e7bb3cca6805058",
+      "origin": "ai"
+    },
+    "dataList[id=874801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=874802].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874802].name": {
+      "pl": "Głowa",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=8748].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8748].name": {
+      "pl": "Spiżowy Byk — Łzawiący",
+      "kr_sha256": "1c5404374e42d495151949e75d4b56fca0555a5ee1f7f915e30087ffc610925c",
+      "en_sha256": "6074430456a3f06815d5d23e7a71bc47e108fc2523d05c13c5733d2744b8cca2",
+      "origin": "ai"
+    },
+    "dataList[id=874901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=874901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8749].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8749].name": {
+      "pl": "kqe-1j-23",
+      "kr_sha256": "96369d123d0b490b069f3b4780e2f95328a77fee5ca39d26ca360f158f6ddf5c",
+      "en_sha256": "96369d123d0b490b069f3b4780e2f95328a77fee5ca39d26ca360f158f6ddf5c",
+      "origin": "ai"
+    },
+    "dataList[id=875001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=875001].name": {
+      "pl": "Serce",
+      "kr_sha256": "30483f3eb547bac0e5d4a46745832fed67ffcb4b431f6232932c7a2b5dcb6756",
+      "en_sha256": "770af9d180375fa9c3d29a50c124a04f538b277e1ed94ec20be8e244820d6534",
+      "origin": "ai"
+    },
+    "dataList[id=8750].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8750].name": {
+      "pl": "Serce Mieszkańca Miasteczka",
+      "kr_sha256": "f93bf33081807214d7fbc1f239e2c07aa375e908145d6c724c6d8188a4bf0cc8",
+      "en_sha256": "8fa6b1691c0d371b207810914d5c0ef864c07b8ccf14344e0074acc22834dca9",
+      "origin": "ai"
+    },
+    "dataList[id=875101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=875101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=875102].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=875102].name": {
+      "pl": "Lewe Oko",
+      "kr_sha256": "275a02cbc68937de699f63afe378c84ad71842dd05b38c71678481e72df70f62",
+      "en_sha256": "4c96d10f1b2a258854c50e881da84c6d1f2e8fb9ce0d4209858a6fd8dce33190",
+      "origin": "ai"
+    },
+    "dataList[id=875103].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=875103].name": {
+      "pl": "Prawe Oko",
+      "kr_sha256": "098bc9b2cf5711c6286d9307bc053fe6077fe01bb0e4f3298d884d8fa10d6b2b",
+      "en_sha256": "e61f105538b06eca91802f8432ef7058b606ba5ad331b10fdd091e8736f8a9be",
+      "origin": "ai"
+    },
+    "dataList[id=8751].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8751].name": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=90083].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90083].name": {
+      "pl": "Whale of the Porous Hand Mermaid",
+      "kr_sha256": "ffbe883739b26772d3bbf9305ec5a0bf76317684ed546765a5437080f252545c",
+      "en_sha256": "72075f099fa55c8498c463488fc22832b4230736c747ca19112b3a20cd287ca8",
+      "origin": "ai"
+    },
+    "dataList[id=90084].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90084].name": {
+      "pl": "Moustachioed Twinhooks Pirate",
+      "kr_sha256": "5a57f4c9d2e346248a87a5befc4e60241522e4eebd82372a1b87613b2d55753f",
+      "en_sha256": "f2e8f15a0789a8edc09fc5a22cf4e6af50059966c524939cfe27ec14228f21e6",
+      "origin": "ai"
+    },
+    "dataList[id=90085].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90085].name": {
+      "pl": "Bandana-wearing Twinhooks Pirate",
+      "kr_sha256": "6ce5010582fa6f6fcbbba1054187570c9cded73841b4edc08633ff3e5472fe84",
+      "en_sha256": "4dc11c5c47a633975c91da177944416fab06f9aa909bdafbe85170161f173ebf",
+      "origin": "ai"
+    },
+    "dataList[id=90086].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90086].name": {
+      "pl": "Agile Twinhooks Pirate",
+      "kr_sha256": "a740f5ee74709f84fe7f1b583fb34d0c54f3207fd44aaf55a8c433d751ee829b",
+      "en_sha256": "679c2015f643d5cd6d5ab0a075ef5a4ee59df0a983efba933cc327b260c4a586",
+      "origin": "ai"
+    },
+    "dataList[id=90087].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90087].name": {
+      "pl": "Tough Twinhooks Pirate",
+      "kr_sha256": "39190eca92982321319a6e6bab518f4eb54c5d38317d35d903ff3d6235796b66",
+      "en_sha256": "5352aa838cfaa99bcd5c18c4f11e2ab6da2901f921ebf1ad6bd30967c5570703",
+      "origin": "ai"
+    },
+    "dataList[id=91011].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91011].name": {
+      "pl": "Whale of the Porous Hand Soldier Mermaid",
+      "kr_sha256": "c13bea25bbbac8a6bf80ff000b9618bbb74e2ec74e95e7ea965ae45eaf4b45ab",
+      "en_sha256": "2e5e597dfcee81e32cc0c960d2be207291163e3a0b97adcba0e3940ef4366f5a",
+      "origin": "ai"
+    },
+    "dataList[id=91012].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91012].name": {
+      "pl": "Twinhook Pirates First Mate Smee",
+      "kr_sha256": "21ff17fe9ddeaab4d75ec893fcbf4abd6c365e7cc8f97456b44d6dbdd16ea6e0",
+      "en_sha256": "313df867ae47a27c3fd1bbbec1ed54bc68a2bd63d91d97389a39f316cb949b38",
+      "origin": "ai"
+    },
+    "dataList[id=97401].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97401].name": {
+      "pl": "Przerażony Strażnik Punktu Kontrolnego K Corp.",
+      "kr_sha256": "bc8901a5b2387c69022f5788c15a84b9b6fe28f02bb8b3a2eeec344b6f08fbbb",
+      "en_sha256": "910f16333a2ff4e1d1635a209d99667e0bb03fe5e350b4c3ebfa51553c1ff9b2",
+      "origin": "ai"
+    },
+    "dataList[id=97402].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97402].name": {
+      "pl": "Skamieniały Strażnik Punktu Kontrolnego K Corp.",
+      "kr_sha256": "ff5aa12aff31d9762db64458655431390cce3590996b6b9d1c6fdf3ffab4d46a",
+      "en_sha256": "422ab5484ec42d701b70d082a7efb72d06de790c8bf46cb69c34ac33abfc6b6d",
+      "origin": "ai"
+    },
+    "dataList[id=97403].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97403].name": {
+      "pl": "Zastraszony Pracownik 1. Klasy K Corp.",
+      "kr_sha256": "0352ed93e2d905787588b0931602c6f89b943e124bd61b57752daabbde0f68de",
+      "en_sha256": "083c38da8161c81ea1d868a6b1714ae69761e70a850fe4bff5e6c98982ccea30",
+      "origin": "ai"
+    },
+    "dataList[id=97404].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97404].name": {
+      "pl": "Zaniepokojony Pracownik 1. Klasy K Corp.",
+      "kr_sha256": "e1d8b1134e78076cffa685feb6f8d4e2ef2a5107dd118757516a0444276e50e4",
+      "en_sha256": "c96a69f1e8c5123c0168d5f0189c0ea3c435c2a7bc14818b6f6911104cdd5d04",
+      "origin": "ai"
+    },
+    "dataList[id=97405].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97405].name": {
+      "pl": "Zhakowany Dron Regeneracyjny K Corp.",
+      "kr_sha256": "02fc6a36170ad913bfef40bd9026463cd22eebafeff79eb0d168056c9a7ae9a2",
+      "en_sha256": "65817a48258e2e2f1bc60c58d96b84309792914d051615a12d9084e0e7241dcb",
+      "origin": "ai"
+    },
+    "dataList[id=97406].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97406].name": {
+      "pl": "Ożywiony Strażnik K Corp.",
+      "kr_sha256": "e1b859357fcfe5249ad8927ff707146b1bebf425ff53f1b5111d82e45f05feb8",
+      "en_sha256": "c837e1883d921e0e870e7bfa7219dd2216bcc37f68c8251552dc55bdd3127663",
+      "origin": "ai"
+    },
+    "dataList[id=97407].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97407].name": {
+      "pl": "Ożywiony Strażnik K Corp.",
+      "kr_sha256": "e1b859357fcfe5249ad8927ff707146b1bebf425ff53f1b5111d82e45f05feb8",
+      "en_sha256": "c837e1883d921e0e870e7bfa7219dd2216bcc37f68c8251552dc55bdd3127663",
+      "origin": "ai"
+    },
+    "dataList[id=97408].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97408].name": {
+      "pl": "Ożywiony Pracownik 1. Klasy K Corp.",
+      "kr_sha256": "5ef0c900cec119a3d5dfcb3228c890e0c3fed65cc657c619a931249ee2cb4ff8",
+      "en_sha256": "71cf6323a2ddd1e8ccf952fdcc31d6ff2182b56a78d6223343116cbeca9226b1",
+      "origin": "ai"
+    },
+    "dataList[id=97409].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97409].name": {
+      "pl": "Ożywiony Pracownik 1. Klasy K Corp.",
+      "kr_sha256": "5ef0c900cec119a3d5dfcb3228c890e0c3fed65cc657c619a931249ee2cb4ff8",
+      "en_sha256": "71cf6323a2ddd1e8ccf952fdcc31d6ff2182b56a78d6223343116cbeca9226b1",
+      "origin": "ai"
+    },
+    "dataList[id=97410].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97410].name": {
+      "pl": "Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony",
+      "kr_sha256": "053b47bf79d74d35d60b6c85d8f1f92fb78051ce38f116bedb302244093905c9",
+      "en_sha256": "354d7c1d784060d47f72e4dc84e0ea5d9e15670dd39f0444dc2ed3528a375a0e",
+      "origin": "ai"
+    }
+  }
+}

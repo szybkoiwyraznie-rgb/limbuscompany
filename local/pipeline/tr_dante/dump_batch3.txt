@@ -1,0 +1,391 @@
+### [115] KAT=ButlerAssoc
+- Don Quixote explained that they are Fixers signed onto long-term contracts, bound by individuals, families, or estates.
+- Due to the wide range of their responsibilities, their pay is often decently lucrative, so a lot of high-Grade Fixers often take on Butler contracts after retirement.
+- … Huh. So these Fixers are retiring to… become a different brand of Fixers?
+- Butlers bound to families or estates sometimes even forget what their initial contracts used to be. But apparently quitting is also a risky decision, given that Taboo hunters or contract-related Offices might come after them looking for bounty.
+- It’s unfair, but it’s not like they have an abundance of options. It’s one of those rare, guaranteed long-term tenure jobs in the City that pays a decent wage, so most of them settle for staying as Butlers instead of risking unemployment.
+
+### [116] KAT=CityDirection
+- It seems that Fixers in each cardinal direction of the City differ in outfits and practices. 
+- Though I haven’t had much of a first-hand experience with them as of now… Now that I’m up north, I’m sure we’ll have plenty of chances to observe the differences.
+
+### [117] KAT=Goldenbranch
+- I still have no clue how these Golden Bough work. But if it really can grant people’s wishes… it’s got to be something incredible.
+- Thinking back on it, resonating with a Golden Bough would create a sort of dungeon of the fathoms… or fathoms of ego, which we had to battle through.
+- Perhaps the power of Golden Boughs is to realize the… thoughts or imaginations of people. I know it barely makes any sense… but when has anything, in this adventure?
+- Whichever is the case, these Golden Boughs sure are something. So what is Limbus Company trying to achieve by collecting them? Some say that the Golden Boughs have something to do with the Mirror technology, but… how? Every little thing I learn seems to lead only to more questions…
+
+### [118] KAT=NestT
+- Well, I do understand that I accidentally manipulated a lot of time. But I asked Yi Sang, out of pure curiosity, how we ended up saddled with more than ten-billion Ahn of Time Tax.
+- Yi Sang explained that each person has a different Time Tax rate, and how having more ‘time’ means that one would have more Time Tax to pay. He continued to elaborate with various mathematical formulas, but I didn’t understand even half of what… I mean, not even a quarter of what he said.
+- No matter how much time someone has, they can’t put it to use unless they withdraw a time balance the day before. With that withdrawn time, they can use them all at once to make their days longer… or save the time to invest them in a different occasion. Not that poor people would have the financial leeway to even think about doing the latter.
+- T Corp.’s Chief Executive Director was this guy called ‘Herbert’. Don’t think I’ve ever met the actual head of an entire Wing before…
+- Herbert helped the Sinners, pretending to be our ‘assistant’. He used to strive to make the City a better place, or so he says… Honestly, given the state T Corp. is in, I'm not sure if I buy that.
+- He appeared somewhat resigned, at first. Letting the League of Nine Littérateurs go, ignoring the presence of Yurodiviye in his Nest… But something about me seemed to have motivated him again. The question is… why?
+- He also gave me an ominous warning that… turning back time always comes with a cost.
+- … But how could I not turn the clock?
+
+### [119] KAT=NestW
+- After I found myself plenty of W Corp. employee Identities, and learned quite a bit about WARP trains from them, I felt comfortable enough to share that information with the Sinners. Which turned out to have been a good move in hindsight. It would’ve been a disaster to have to explain WARP trains to them at that moment.
+- Other than letting us cryosleep through the WARP train journey, we were also given complimentary snacks as a part of the First Class package. Rodya(who took my portion as well, as I had no mouth to eat them with)’s blissful expression made it pretty clear that it was quite the delicacy.
+- I did find it kind of unusual that a train that, as far as the public knows, runs only for ten seconds, bothered to sell package items or in-train meals. When I asked Faust, she explained that their purposes were less practical and more thematic to give its passengers the impression of going on a trip.
+- Another thing: I definitely remember seeing that employee crawl into an emergency escape pod. So where’d he go?
+- So why don’t the WARP trains specialize in shipping cargo? If they have to go through so much trouble and manpower to transport people, wouldn’t it be much more efficient if they just transported cargo?
+- Wait, I think I’ve sparked a debate—
+- Heathcliff said that it was because transporting people was the whole point of the train. That suggestion seemed to have given Yi Sang an idea.
+- Yi Sang noted that, from W Corp.’s cooperation with T Corp., it is likely that they need ‘time’ to operate their trains. Moreover, the T Corp. Chief Executive Director said that emotions don’t change with time; instead, time changes with emotions. It was something to that effect, at least.
+- Based on what everyone has said, we came to a pretty plausible conclusion. That a state of emotionally transformative consciousness in an effective infinity of time is what moves, or powers, the WARP trains. Either that, or that state of consciousness is precisely what WARP trains are built to induce. Some Sinners and I applauded Yi Sang and Heathcliff for this hypothesis.
+
+### [120] KAT=Line4
+- A blue-ish station themed after a banquet hall.
+- Several stations arrived one after another without a break, and we even had Peccatula that looked just like the Sinners’ Identities and E.G.O, attacking us. No wonder the Sinners were exhausted by the end of it. Faust called them Peccatula of Envy… or Peccatulum Invidiae.
+- Thankfully, this railway was kind enough to give us breaks between every few waves of enemies. And because we managed to blast through multiple stations at once, some Sinners expressed that this one was preferable to the previous ones as it at least ended quickly.
+- This makes me wonder, though. What happened to all those Peccatula Invidiae who first boarded the train? Did they get killed at the banquet of the King in Binds? Or maybe they're still roaming somewhere within the stations? Who knows.
+
+### [121] KAT=PDA
+- It’s my company-issued device. I write journal entries on it like I’m doing now, and I sometimes communicate with the Sinners’ Identities, too. There probably was some of that Mirror technology involved in the making of this device.
+- I used this device to converse with Catherine. It must’ve been the Golden Bough’s powers that allowed me to talk directly to her. Did they stick a Golden Bough inside this device or something? Or… maybe the presence of that Golden Bough allowed me to communicate with her through some supernatural channel, even with a mundane device like this.
+
+### [122] KAT=MirrorWorld
+- The Mirror shows possibilities that may or may not have been. When Catherine, Nelly, and Heathcliff from the Mirror World gazed into the Mirror, they only saw all kinds of tragedies in their futures. If there really are worlds of infinite possibilities, then… there must be an infinity of time they have to observe, right? So, can we really say that they saw every possible future? In other words, is it even possible to do something like that? It makes me wonder if we can actively interact or something with the Mirror Worlds.
+- We make use of these Mirror technologies almost daily, but we know so little about it. Yi Sang also said that Mirror Worlds are like a terribly tangled knot of mysteries we must carefully unravel.
+
+### [123] KAT=Monolith
+- T Corp.’s Chief Executive Director offered to purchase the Monolith from Limbus Company. Now we’re selling artifacts that can induce Distortions? It doesn’t make sense—our main business, at least on the surface, is Distortion Management… but we’re selling items that can make Distortions? … Maybe we’re just building our reputation as Distortion experts so we can guarantee safety even with these artifacts. Well… if we’re selling artifacts that create Distortions, and take care of Distortions when it inevitably causes someone to Distort… I guess that makes a business model with a cycle of profit.
+
+### [124] KAT=Distortion
+- The unique powers of each Distortion are somewhat like Singularities… or sometimes, even surpass them. Even the T Corp. Chief Executive Director said that he saw a new possibility through the Distortion called the Time Ripper. What’s their true potential, I wonder.
+
+### [125] KAT=NestP
+- Their Nest is located in District 16. 
+- It’s full of extremely tall skyscrapers and spires that I have to bend my neck to see how tall they really are.
+- Their specialty is… canned items of sorts. Meursault listed off all kinds of canned items, and I was able to learn that there were a lot of them.
+- Various flyers covered the train station walls and pillars from top to bottom. Is something awful going on here, I wonder?
+
+### [126] KAT=ZweiAsso
+- They seem to specialize in protecting and upholding the public peace of the zone requested by their clients.
+- They often call themselves your(as in, the clients’) shield.
+- I learned from conversations with Zwei Identities that they specialize in protecting things. But only if they are contracted to do so, of course.
+
+### [127] KAT=DebatyAsso
+- Apparently, they make deliveries using dimensional bags equipped with an AI ‘Poludnitsa’, called ‘Courier Trunks.’ To be more exact, it seems like the Association assigns the type of Poludnitsa most appropriate for the contract and the path each Devyat’ Fixer.
+- Faust explained that they embed the core, or a module, installed with AI to each individual Courier Trunk and… The point is, they install the AI on the bag and use it to deliver stuff.
+- Any items in each trunk are often well-preserved and their deliveries are rarely late, making them a vital Association in the City. Maybe we can make use of their services one day? Sounds pretty convenient.
+- After a brief conversation with the Identity, I learned that Poludnitsa, the AI, greatly empowers its users if they determine that it may be difficult to make the delivery on time. Failure to make punctual deliveries could result in death… no wonder they rarely ever miss the deadline.
+
+### [128] KAT=Yurodivy
+- A Syndicate founded by Sonya. Rodya once told me that they used to help the downtrodden of the Backstreets, but eventually devolved into armchair revolutionaries who did nothing but sit around talking about how they’re going to change the city.
+- They’ve been slowly spreading their influence through the Nests. We even ran into the Yurodiviye terrorists using various inventions to cause trouble in the T Corp. Nest.
+- The Yurodiviye, who venerate Sonya as their ‘Saint’, said they’re waiting for the ‘right moment’. I don’t know why they’re calling Sonya the Saint, or what moment they’re talking about… but something about it rubs me the wrong way.
+- From what I gathered from listening to the Dieci Identities, Sonya is not the same kind of ‘Saint’ as the Dieci Association’s.
+
+### [129] KAT=Peccatula
+- We encountered Peccatula, which can mimic not only the Sinners’ appearances but also their identities and E.G.O. I asked Faust how the Peccatula, which are just things that failed to even Distort, were able to use E.G.O… but Faust shut the entire discussion down by saying that it was still classified information.
+- How did they even mimic Sinners from Mirror Worlds if they don’t have the Identity Cards pulled through the Mirror tech?
+
+### [130] KAT=DimensionTrunk
+- The bags that Butlers carry are called ‘dimensional cases’, or dimensional attache cases. It seems pretty convenient, being able to store things greater than its external appearance may suggest. Maybe it’s kinda like the Backdoor of Mephistopheles.
+- The size and capacity of each dimensional case depend on the make. The more expensive it is, the bigger its capacity, and smaller its external size.
+- We can’t stuff a person into these dimensional cases, apparently. Maybe it’s like the WARP trains where it needs to differentiate between people and items.
+
+### [131] KAT=LCE
+- Limbus Company Enkephalin
+- They're Limbus Company's research and energy generation department.
+- Under the Chief Researcher Hohenheim, this department conducts various studies and research.
+- They study the Abnormalities, Distortions, and even the Peccatula—isolating and studying them. Its interiors are designed somewhat similarly to those of the former L Corp., Lobotomy Corporation.
+- The employees were all wearing E.G.O gears extracted from Abnormalities. According to them, their gear is distinguished from Lobotomy Corporation's E.G.O gear because it exhibits more of each source Abnormalities' idiosyncrasies.
+- From what I could hear from the Mirror World Identities about these LCE gears, that doesn't entirely seem to be a positive thing. Apparently their minds could easily become corroded by the gear they're wearing... I feel like this technology's got some room to grow.
+
+### [132] KAT=AbnormalityLevel
+- We learned more about the new Classification codes and Risk Levels.
+- Until now, it was kind of difficult for us to immediately know whether WAW or HE was supposed to be the more dangerous one, and... there was an entity that was weirdly powerful for a TETH-level entity, as well... Well, now that we have the 'expected damage scale' in addition to the scale based on their energy production levels, we should be able to tell that HE-5 presents more potential dangers than WAW-4 in a fight.
+- Hohenheim told us not to think of this as a single numerical scale of power, but... it feels more intuitive to have these alongside the Risk Levels system previously used by Lobotomy Corporation. Anyways, this technically means that there could be ZAYIN-10 entities as well... I wonder what that would be like.
+
+### [133] KAT=NestX
+- Their Nest is located in District 24... or so I've been told.
+- Haven't been there, don't know if we have any plans to go there, but I remember hearing that the Indigo Elder's skiff was made from X Corp.'s alloy.
+- According to the Identities, you can excavate all kinds of stuff from their excavation sites like microwaves or car tires. So do they just uncover these finished products and... immediately put them to use? How's that even possible?
+
+### [134] KAT=NestM
+- Their Nest is located in District 13.
+- They seem to have control over a Singularity called the 'Moonlight Stones'. They're said to allow people to focus solely on a singular subject or eliminate all distracting thoughts... And given that they have this facility called 'Abyss Trauma Correctional Facility', maybe they specialize in psychological healthcare or relaxation businesses.
+- Hey, maybe we should buy these Moonlight Stones for the Sinners to prevent E.G.O Corrosions or help them calm down and relax when their 'turn' comes up?
+- I relayed this seemingly good idea to Faust, but it was summarily denied. She didn't even give me an explanation as to why—she just told me that it wasn't the time to discuss them just yet. Given that pretty much every technology of the City has these different sides to them... maybe these things also have some kind of side effects.
+
+### [135] KAT=NestP
+- Their motto has something to do with creating a very safe home, and their Singularity can either expand or warp the space itself.
+- I was told that structures built using P Corp.'s Singularity are all very... <i>elastic</i>. That turned out to be surprisingly literal, as when La Manchaland began to manifest, I could see the buildings touching La Manchaland bending outward like rubber. They said that it's completely safe inside even if the building's exterior bends and twists like that, but... I can't imagine how that could be true.
+- Many space expansion technologies in the City allow things to be bigger on the inside, but P Corp.'s version specifically focuses on safety.
+- This is just my speculation, but... recalling our conversation with Cesara, it seems that La Manchaland heavily influenced P Corp.'s Singularity. I wonder if it's possible to develop a Singularity inspired by something else?
+
+### [136] KAT=PeccatulaLv3
+- First encountered at the Wuthering Heights manor, these are entities that have progressed past Stage 2 of their growth.
+- LCE categorized them into 'Classes'—Class 1, 2, and 3 respectively—and it seems that these Stage 3 Peccatula are the final stage of their evolution. But Hohenheim told us that he wasn't entirely certain of that just yet.
+- Hohenheim called the Peccatula 'mediocre shells'. If the Peccatula are nothing but empty shells, then... what distinguishes their stages?
+
+### [137] KAT=Bloodfiend
+- They're neither Abnormalities nor monsters. If I had to put a label on them, I'd say they're closest to Distortions, but that's a tenuous connect at best. The LCD Team Leader Moses also said they're fundamentally different beings, so... yeah, probably not.
+- All Bloodfiends possess red eyes. But it's not the easiest method of distinguishing them from humans, as it's also the most common color for ocular combat augmentations. And it'd be entirely useless if they replaced their entire head with a prosthetic like I did.
+- They have strong regenerative capabilities, so it's extremely hard to kill them if they have enough blood to consume. One way to stop them from regenerating, though, is to crush their heads... We had a hell of a time aboard the WARP train, thanks to the train's environmental uniqueness that sorta made that a non-option for us.
+- The head really seems to be the core element in making these 'regeneration' methods work. The head had to be intact for Life Insurance to work, K Corp.'s ampules to work, so on and so forth. ... Well, the brain, to be specific.
+- They all have an overpowering desire for blood. Bloodfiends of La Manchaland seemed to have tried consuming Hemobars with artificial or animal blood additives as a substitute, but... looks like only flowing blood can really sate their hunger and deprivation.
+- They could overcome it if the urge itself is forgotten, but... finding the waters of the river Lethe, which serves that exact function, doesn't seem to be the easiest task. Where in the world did the Fixer from Don Quixote's memories, Bari, find such a thing?
+- Alongside this desire for blood, they also seem to have strong feelings to propagate their 'Family' as well. Seems like... 'Sancho' was the odd one out for not creating a Family of her own. Kindred generations are distinguished by their separation from the First Kindred, and once embraced as a part of the Family, they begin to really care about and treat each other like, well... family.
+- Rocinante disguises Don Quixote's more obvious Bloodfiend features and partially suppresses her bloodthirst. But there's still much we don't know about Rocinante—like how it works, or if it has anything to do with the body of 'Don Quixote' still at P Corp....
+- But it still can't fully suppress her natural instincts, like the desire for blood and propagation of her Family, so Don Quixote's been enduring it all with her sheer willpower. Makes me wonder, though... what's so different about our Don Quixote and the First Kindred Don Quixote that they have such strong resilience against bloodthirst compared to the other Bloodfiends?
+- Limbus Company headquarters has been sending Don Quixote a steady supply of high-quality blood packs. When I asked why they couldn't have just done the same thing at La Manchaland, she replied that it was simply an issue of demand vastly outweighing the supply—there were simply too many Bloodfiends to feed compared to the amount of blood they could draw from willing visitors. Which is precisely the reason they had to develop Hemobars to meet the demand with as little blood as possible. Besides... I have a feeling that it probably wouldn't have worked out anyway... even if they had enough blood packs...
+
+### [138] KAT=Line5
+- A railway of purple light. It was labeled 'Line 5'.
+- Just like in our last railway, chains of battles continued through consecutive stations, and we even faced off against more Peccatulum Invidiae. Some of them seemed to be reflecting relatively new possibilities as well... I wonder how they work?
+- This railway began with two sections, met in the middle, and converged into one. It was pretty annoying to be locked out of Identity Cards I had already used in the second Section.
+- Between each section was this odd... thing that empowered the Sinners. We had to carefully choose which of them to select, as it seemed to affect not only the Sinners, but our enemies as well.
+
+### [139] KAT=CityDirection
+- Apparently, Associations in different cardinal regions—West, East, South, and North—each have different uniforms. It also seemed that Association Fixers working in the same region as their headquarters were considered to be stronger or higher-ranking than Association Fixers in other regions. And, sometimes, transfers between regions happened as a form of promotion as well.
+- On the other end of the spectrum lies the largest Syndicates, the Fingers. Unlike the Associations, however, their outfits didn't vary much by region. They'd sometimes wear different outfits, but it's moreso due to the fact that they don't have a strict uniform code.
+
+### [140] KAT=Cinq
+- When declaring duels, the eastern Branch of the Cinq Association, instead of doing so by tossing their glove, do so by announcing their affiliation and name.
+- The biggest difference has to be their dress code and weaponry. Unlike the pretty iconic capes and large hats worn by the western Fixers, the eastern branch of the Cinq association wears a deft-looking outfit that blends in better with the general outfits of the eastern region. Also... unlike the other Cinq Fixers or Identities we've met thus far, the Sinner with the eastern Cinq Association's Identity primarily used hand-to-hand combat as their primary means of fighting.
+- They wear this bracelet... or bangle called 'Virescent Pyrojade' on their wrist. Looks like these can be used to melt whatever the user touches by applying high heat.
+- Apparently, the green flame of the Virescent Pyrojades has the power to burn <i>only</i> the object that the user wants it to. ... Honestly? That sounds like a Singularity-tier tech to me.
+
+### [141] KAT=Fingers
+- This must be referring to the five particularly significant Syndicates of the Backstreets.
+- It's been said that they're so powerful and influential that not even Wings or Associations can easily pick a fight with them. Rodya and Heathcliff told me that people in the Backstreets have to learn and abide by their rules if they want to survive.
+- Weirdly enough, Ryōshū seems to know a lot about them. I was given a warning about Ryōshū's 'background' when I first boarded the bus... maybe that's got something to do with it.
+
+### [142] KAT=TheRings
+- The Ring, one of the five Fingers, values art and knowledge.
+- They keep popping up in discussions regarding the Corridor.
+- I haven't had the chance to meet anyone from the Ring, but we ran into some people who used to be a part of it. They sure seemed to like art.
+- And when I say 'art', I mean the extremely gruesome kind. From what I could gather from the Identities and what Ryōshū told me, their art often consists of sculptures stitched together from amputated body parts... paintings made of blood... things like that.
+- They seem to be internally divided into various 'factions'. I picked up names like 'pointillists' or 'fauvists' among them—maybe they're divided along the lines of artistic philosophy.
+
+### [143] KAT=NestH
+- Hongyuan Bioengineering Group. Their Nest is located in District 8.
+- It's all stuffed into one big... Actually, the word 'big' does a disservice to the sheer magnitude of the megastructure that comprises the entirety of H Corp.'s District. District 8 as a whole is called 'Hongyuan'.
+- Their Singularity is the creation of the 'Bolus', a type of medicine. I've been told that these things can be used not only to heal wounds but also for body modification procedures. But something about the way these medicines change your body creeps me out.
+- Those who took these Boluses or used them in procedures would gain body parts of specific creatures—or have parts of their own bodies replaced with them.
+- In District 8, depending on the amount of your net worth, the size of the room allotted to you could either grow or shrink, and the buildings themselves shift around to reflect that. So it's 'space' here, huh? Using time in T Corp. to measure one's wealth was weird enough.
+
+### [144] KAT=Heishou
+- They're something of a private army for various forces of Hongyuan.
+- The only branch we've met so far is the Mao branch, but there are other Heishou Packs with characteristics of different animals.
+- Jia Xichun told me that they wield the powers of twelve animals in a list called the 'Twelve Earthly Branches', something that most likely carries some sort of ritualistic meaning.
+- I wonder if their allegiance could be traded? Conversations with the Identities revealed that they often change their masters—or, according to the Heishou, their 'lords'.
+- Given that R Corp. also has 'Packs' themed after animals, I could draw some similarities between the Heishou and them.
+
+### [145] KAT=TheMiddle
+- As one of the five Fingers, they prioritize loyalty.
+- We first encountered them during our journey in U Corp.'s Great Lake. They refer to each other using sibling terms like 'Big Brother', 'Big Sister', 'Little Brother', and so on and so forth, and I could really feel that they had this familial bond.
+- They carry these books called the 'Book of Vengeance', in which they write down their grudges and go after anyone who's had the misfortune of getting written up... Speaking of which, just how long is that guy going to chase us for? I'm starting to get worried that I might one day find him barging into Mephistopheles.
+- Recalling the events at J Corp., I think Rodya also suffered from her encounter with the Middle. Did their 'grudge' regarding Rodya get resolved? It's still kind of a sensitive subject, so I couldn't really bring it up to her just yet. I'm gathering more and more questions to ask Rodya as the days go by.
+
+### [146] KAT=Sweeper
+- They're... people, maybe? Anyways, they appear during the Night in the Backstreets.
+- Aboard the bus, I just saw them as a vague crowd that moved past us, but... when we faced them in person outside the bus, they were truly unrelenting and numerous.
+- As they sweep the streets, they melt down everything that needs to be cleansed—dead bodies in the Backstreets, unauthorized constructions, things like that. I do think it's somewhat necessary, but... I was at a loss for words when I learned that they melted down the random, unlucky people who got caught outside during the Night in the Backstreets, too.
+- They can even melt down and eat their own and heal from it, which gave us quite the trouble. Really, really hoping that we won't have to fight them again.
+
+### [147] KAT=NightBackstreet
+- Every 3:13 in the morning, the Sweepers emerge for eighty minutes to clean up the Backstreets of the City. 
+- Starting from the borders of each Nest, they simultaneously emerge from the ground, march through the Backstreets, and sweep everything in their path away. Their march consists of three waves with about ten minutes of reprieve in between. I don't want to imagine what could've happened if we didn't even have that.
+- Lots of things are banned when the Night in the Backstreets begins. We can't take videos or audio, or break into or destroy someone else's domicile...
+- That reminds me—Faust told me that the Head wields the Sweepers. I can't even begin to imagine how they even cooperate with each other. Maybe it's got something to do with Taboos? Who knows. I certainly don't.
+
+### [148] KAT=ConceptIncinerator
+- A Singularity of a Wing capable of permanently erasing or destroying technologies.
+- Its potency and scope of effect depend on the price paid, but a reasonably powerful Concept Incinerator can erase every document related to the incinerated technology, photographs, and even memories—leaving behind nothing or, if something somehow does survive, a smudge and nothing more. Does the <i>Concept</i> Incinerator delete a concept like it never even existed, or does it just "smudge" our perception of it?
+- Faust elaborated with an example—deleting the general concept of, say, a "clock," requires literally everything even tangentially related to clocks getting chucked into the concept incinerator, but deleting only a specific model of a clock is as easy as tossing its blueprint in. In other words, a smaller scope equals easier incineration equals cheaper erasure.
+
+### [149] KAT=TheThumb
+- The Thumb, one of the five Fingers, is utterly obsessed with the concept of propriety.
+I've seen them popping people's arms out and blasting their jaws off just for questioning a superior. Though I've only met The Thumb members of the eastern branch, the Sinners tell me that they generally play by similar rules regardless of where they're based.
+- "Rank," or "Class," is something they're all really touchy about, which probably explains all those ridiculously detailed rules on the definitions, circumstances, types, and so on and so forth surrounding them.
+- According to those Soldato... Secando? Terzo? Anyways, according to those Thumb Soldatos we ran into in Daguanyuan, we apparently deserve to lose our jaws simply for invoking a Capo Quarto's—Lei Heng's—name without deference.
+- Hmm, I am the <i>Manager</i> of LCB... I wonder where I rank in their scale? Darn, I should've asked them when I had the chance...
+
+### [150] KAT=ThePinky
+- The Pinky is one of the five Fingers that follows the Virtue of Humanity (仁), which I'm still a bit unsure as to what it means. The point is, they're a bit more cryptic than the other Fingers when it comes to what they pursue.
+- Instead of going around in their uniforms and advertising their true alignments like the other Fingers, they lurk anonymously in other organizations.
+- There seems to be some condition and means of summoning the Pinkies all together, but when they're not summoned, they just lead their own lives as though they aren't even a part of this Finger. I don't know, can we even call them a real organized crime Syndicate?
+
+### [151] KAT=Anamnaworm
+- A bug that, when inserted into the human body, will share with its host the memories of the person who became its core.
+- Immediately after insertion via the ear, the Anamnaworm will rapidly assimilate into the host, granting them all the memories and knowledge of the source individual used to make it. Convenient, but each Anamnaworm comes with the caveat that it cannot be removed by any other means than the conditions prescribed at its creation.
+- Traditionally, all H Corp. Hierarchs were supposed to accept the "Xianhuang Worm," an Anamnaworm created from the founding Hierarch, into their bodies, but we managed to make it to the Tiekan Temple in time to prevent it from assimilating into Jia Xichun.
+- In the chaotic aftermath that followed, the New League of Nine Littérateurs snatched the Xianhuang Worm away. Wei told me that, though the knowledge that once resided within the worm may be significant, the sheer time that has passed since its extraction from the previous host's body must have eroded much of it.
+
+### [152] KAT=Heishou
+- There seem to be these mysterious figures known only as Heishou-Xianren, each managing a Pack and the corresponding Heishou Bolus. I wonder how they're distinguished from the Xianren of the Tiekan Temple?
+- The right to "own" the Heishou Packs is called a "leash," and I think it's a kind of commodity that can be traded between people. Didn't get the chance to see for myself what those "leashes" look like, though.
+- There seems to be a way to "un-leash" a Heishou and free them from service. But from what information I could gather from the Heishou Pack Identities, such generosity rarely ever happens because the price of freeing even a single Heishou is far too costly.
+
+### [153] KAT=NestA
+- They're "The Head." Located in... Well, I'd assume they're located in District 1.
+- If anyone breaks a Taboo of the City—whenever, wherever—The Head will swoop in to punish the perpetrator.
+- Normally, such infractions invite only the Claws, which are like enforcers from C Corp., but a Taboo violation of a sufficient scale might even end up summoning these beings called "Arbiters."
+- I saw them in Hong Lu's memories of the Kong Family massacre. The moment the Kong Family "violated" a Taboo, the Head swooped in and destroyed all evidence that the transgression had ever occurred.
+
+### [154] KAT=Ego
+- E.G.O Gears extracted by the LCE or N Corp. both have traits that distinguish them from Lobotomy Corporation's E.G.O.
+- LCE E.G.O gears use "Attunement Boost" to surge the source Abnormality's characteristics to the forefront, and the N Corp. E.G.O gear used by Jia Huan had an extra feature that generated a shield wall of sorts to protect its user in a moment of emergency.
+
+### [155] KAT=NestH
+- Jia Xichun ultimately won the Family Hierarch War and became H Corp.'s Hierarch, but had a slight stumble at the beginning of her reign due to Jia Yuanchun's machinations.
+- Thankfully, as Jia Xichun managed to win the faith of the Four Families and the board of directors, the motion of no confidence Jia Yuanchun put forth failed to garner enough votes. Jia Xichun said she wishes to make Hongyuan a place where no one needs to live in fear, a place where one does not need to project fear... Perhaps H Corp. can finally leave behind its terrible past and change for the better?
+- ... Speaking of which, are we ever going to leave this place? They've already held two separate farewell banquets for us, and after a few more excursions, I might need a third hand to count the number of times we'd bid our final good-byes to those guards at the gate. We're... we're not settling down here or anything, are we?
+
+### [156] KAT=HouseofSpiders
+- The House of Spiders is said to have been formed by the Five Fingers with a common goal. The Fingers—at least those I've come across—hardly seem like the sort that could ever see eye to eye... Learning that they could actually come together and cooperate was a bit surprising. Makes me wonder if they've ever teamed up for anything else behind the scenes.
+- The organization is made up of five "Nursefathers," chosen from each Finger, and five "Apprentices" brought in to fill the gap after Ryōshū left.
+- They came up with grand terms for what they gathered to create—"the strongest killer," "the blade that cuts through all"... but these were really just another way to dress up the true purpose of their organization: to nurture and train someone with an aptitude to wield the Arayashiki and turn them into something akin to a living Concept Incinerator. That someone turned out to be Ryōshū, our Sinner #4... and while most of its members didn't survive to see it, the House <i>did</i> accomplish their objective, in the end.
+
+### [157] KAT=TheIndex
+- A Finger known for its unwavering faith in the Prescripts.
+- Their members follow these so-called "Prescripts" without question. I wonder who sends out the messages...
+- The Index Nursefather and his Apprentice we encountered received their Prescripts on a device, but it seems the other members of The Index receive theirs on paper slips delivered by Messengers—which raises a question: can Prescripts be delivered by other methods as well? Emails... or a phone call, maybe?
+- From what I've seen and heard so far, there seem to be positions within The Index called "Proselytes," "Proxies," and "Messengers"... but information on their hierarchy and exact roles is still unknown.
+
+### [158] KAT=SmokeWar
+- A Wing War that took place with the Old L Corp. as one of the main players—before the rise of Lobotomy Corporation.
+- The horrors we experienced through Gregor's Fathoms were apparently only a tiny glimpse of the unspeakable things that actually happened during the War. Both Gregor and Outis seem extremely unwilling to talk about what exactly they witnessed back then.
+- I've heard that just a record of fighting in the War can lead to exclusion from many benefits in the City—Nest residence rights, for example. And this applies not only to the losing side but to the ones who joined the victors as well... but for what reason?
+- The Old G Corp., which fell apart following the War, reportedly possessed three decisive weapons that fought on the front lines—the Maggot Prince, the Moth Princess, and the Lord of Flies. Just hearing the name makes me... well, not want to encounter anything of the sort.
+- Gregor metamorphosed into the Roach Emperor, a Wing's decisive weapon whose rumors are told only in urban legends. Even Vergilius found him a difficult opponent to face. I wonder if the other entities—"decisive weapons"—were that strong, too. And of course, just what kind of insane force did the winning Wings have at their disposal to emerge as victors?
+
+### [159] KAT=SmokeWar
+- According to Sinclair from the future—or, perhaps, according to one of Sinclair's future possibilities—another war seems to have broken out where he came from.
+- The Second Smoke War. If such a future ever becomes reality, what would it mean for us all?
+
+### [160] KAT=Goldenbranch
+- In that mansion, Faust told me to "simply do as you will—as one seeks the stars in the night sky." I still don't fully understand the whats and hows, but by resonating with the Golden Bough, I've gained access to several unusual abilities.
+- I can slow down time, support the Sinners when they use E.G.O, and suppress the strength of our enemies. And now, I can even summon the Sinners' Identities from afar. Faust insists that it's not a "summoning magic," though...
+- Hohenheim says the Golden Boughs we've gathered are being grafted together into a single sapling. A single Bough alone can exercise immense power—what would happen if they're all combined? And what exactly do the higher-ups plan to do with it?
+
+### [161] KAT=ColorFixer
+- This is "every Fixer's dream" and the reason they live for, says Don Quixote. "Individuals who have attained the complete perfection of liberty and freedom as Fixers"... is what she so enthusiastically proclaimed about these people. Though, thinking back on the Fixers we've met and the Fixer Identities we've used so far... I can't help but feel that Don Quixote's statement contains a bit of her usual hyperbole.
+- Even Don Quixote doesn't seem all too sure why colors are used to name them in the first place. Some of the speculations attributed are that colors are easy to remember, and that colors represent the unique way of life each Color Fixer pursues.
+- The Red Gaze. The Indigo Elder. The Yellow Harpoon... we've fought alongside three Color Fixers already. Perhaps we'll come to encounter others in the future, but I'd <i>definitely</i> prefer not to meet them as enemies.
+
+### [162] KAT=LCD
+- I met Moses, LCD's On-site Investigative Reasoning Team Leader.
+- Unlike me, who can only tell whether an entity is a Distortion or not through a vague sense of frequency waves, so to speak... She seems to have the ability to somehow directly perceive and witness potential Distortions within other people. It's really a mysterious power, I'll give her that.
+- Aeng-du and Bamboo-hatted Kim have joined the LCD, too. Meaning, we'll be crossing paths with them more often than we think.
+
+### [163] KAT=HouseofSpiders
+- Outis suggested that the "Muga," which the House tried to turn Ryōshū into, might be a kind of Concept Incinerator, too... but Faust flatly rejected the idea. The principle and nature of the Muga are entirely different from how a Concept Incinerator might work, she said.
+- According to Hohenheim, a technology capable of burning away the very concept of an object or a being simply by throwing the thing you want erased into it—that alone would amount to a Singularity.
+- Yi Sang added that it is because all that is tethered to what has been placed within the Muga is severed away, and that which is severed from all becomes what exists yet has been disconnected from the world, thereby its state assuming nonexistence for the universe... I might not have understood that explanation before, but now, I think... I can at least piece together a little something.
+- Rien, the Index Nursefather, left a warning that Ryōshū will be the most important subject of discussion in the next Finger Bow-Bell. I have no idea how exactly a Finger Bow-Bell takes place, or how dangerous it might be... but one thing is for sure: it's coming, and I'll need to brace myself for the troubles it'll bring.
+
+### [164] KAT=TheSigns
+- A crimson sign or a mark that I've seen on a few people, one of them being Sinclair.
+- It appears that Sinclair's Sign has the power to summon a version of himself from a period forward in time. Faust said it was a possibility of a certain future, or something akin to an offshoot event of an offshoot world. It certainly felt distinct from having him wear an Identity from a Mirror World.
+- Demian's enigmatic words were the first thing that came to my mind when Sinclair first awakened the power of his Sign—that he would return when Sinclair becomes one with beautiful stars.
+- Is drawing all three strokes of his Sign... not what Demian meant by "soaring into the sky, having unshakable faith in the power of the heart"? Well, what else could it be...? It hurts my head just to think about it.
+- If only others could see the Signs, too... I would've asked them for their input. Hmm, that reminds me. Didn't Sonya say something to Rodya about her not having the Sign or being unable to see them?
+- Other than myself, the Sinners are the only other people in the world who were there for that conversation, and it's clearly not a good idea to bring this up to Rodya, so... Hmm, who should I ask?
+
+### [165] KAT=TheSigns
+- Meursault remembered that conversation. Well, of course he did.
+- Anyway, I finally found the information I needed. What Sonya had said to Rodya on that day was that she didn't have what it takes to lead.
+- It makes me wonder if that condition goes both ways—does having "what it takes to lead" allow one to see the Sign? ... Well, I decided to table that question until the LCE's research could make some progress, since it seemed that they were having trouble making any meaningful discoveries concerning the Sign.
+- We sort of have a working theory at this moment, that the Sign may be of the same or similar origin as Singularities and Relics, but... given that I know precious little about those two subjects, this seems to be a case of questions begetting questions.
+
+### [166] KAT=TheRings
+- While we were helping Hohenheim with the Backdoor investigation, we accidentally stumbled into one of the Ring's galleries—that of the Fauvists, to be specific. If we're counting the Ring Nursefather Callisto's Corridor a "gallery," then I guess this is the second gallery of the Ring we'd seen.
+- Kira seemed to be incredibly impressed by some of the taxidermied animals in there, and... I must admit, some of those were pretty cool, even for me. As for the rest... Well. I don't feel that they necessarily need to be described here.
+- Each school of the Ring seems to have pretty distinct ideas on beauty or artistic philosophy. Ryōshū explained that there were minor schisms even among followers of Fauvism.
+- Rufo, that Fauvist Docent, claimed that Ryōshū is taking the steps toward founding her own movement.
+- So... going by how the other Schools are named, will it be something like Abbreviatists? SANGRIAists? Shortenists...? Ooh, maybe Ryōshū'll combine and acronymize it all into A.S.S.ists? ... Wait, that doesn't really work...
+
+### [167] KAT=TheRings
+- Curse my curiosity, because it actually compelled me to pay Ryōshū a visit and ask her if she was planning on naming her school, what it was going to be called, and various other questions that seemed to annoy her. Needless to say, I was kicked out rather unceremoniously mid-question.
+- I don't know how many Schools of art and sects there are in the Ring, but... After hearing Ryōshū's philosophy on aesthetics and art, Rufo, a Docent of Fauvists, claimed that they would cultivate her until she could establish her own movement.
+- If, one day, Ryōshū finally completes her own movement... will the Ring acknowledge her as a Maestro? Hm. I wonder if that means members of Ryōshū's School would speak in acronyms, just like she does...
+
+### [168] KAT=NestWNew
+- Wayfarer Company.
+- With the recent series of incidents involving Warp Corporation, this new business entity arose to supplant its place as the new W Corp... In other words, a Wing hopeful.
+- Faust explained that their core technology, called "Portals," resembles the properties of Backdoors. From my recent, unintended use of them (which has been quite frequent, truth be told), I find them incredibly convenient. The way Portals work, one door leads to another, without requiring a connection to Corridors as Backdoors do.
+- I heard that Portals still have some instabilities that may cause side effects, but I don't think I've experienced or witnessed any so far. Considering what Faust and Outis have mentioned before, it might simply be because I've only been using expensive portals... but there could be another reason for it.
+- Currently, it seems they are working with Limbus Company to establish forward bases throughout the Corridors at the House of Spiders and look into the Backdoors within them.
+- We had the chance to work with Team Leader Alan from here. He has a bit of that corporate attitude, but he's generally amiable and seems favorably disposed toward us. Though... after seeing him straight-up socking Kira out of nowhere, not to mention that unsettling, subtle coldness hiding between his words... Can't blame myself for not wanting to see him as a decent person at the end of the day.
+- Alan said Wayfarer's primary services include pathfinding, path security, and path maintenance. It doesn't seem like the "paths" he mentioned refer to Corridors, but I doubt I could've gotten a more detailed explanation, considering it's a closely guarded corporate technology.
+
+### [169] KAT=Shin
+- A power that strengthens the body, manifested through emotions and the mind.
+- ... said Vespa and Vergilius, but I'm having a bit of trouble understanding what it is from that explanation alone. That said, I don't think I can do a much better job of describing it. I just see Shin (心) users surrounding themselves with some kind of golden aura, and the next thing I know, they've suddenly become stronger.
+- To summarize what little I understand, Shin (心) sure seems like an incredible technique that allows people to enhance the strength and durability of their bodies without spending a single coin—and all it needs is some kind of training and meditation.
+- Vergilius did mention that its output varies depending on one's emotional or mental state... but, well... whatever limitations it has, I don't see why anyone would <i>not</i> use this power... Right?
+- I asked Team Leader Moses from LCD, who's apparently researching this power, and she said learning and using Shin (心) isn't always the best choice. Moses refused to elaborate further—she said she could explain only once she had properly formed a workable hypothesis.
+
+### [170] KAT=Shin
+- Apparently, Sinners are unable to use Shin (心) without overlaying themselves with Identities—not while their pact with me holds.
+
+- I was going to ask if I could learn how to use it too, but I missed my chance because Kira asked first... But if Sinners can't use it, I suppose it would apply to me as well.
+
+- I wonder if I could use Shin (心) before I lost my memories. Vespa said that someone who had never once reflected on their sins—like the Middle Nursefather—would be incapable of even comprehending and using such a power in the first place. Makes me wonder what kind of person I was before my head was swapped for a clock.
+
+### [171] KAT=Shin
+- I remember Lei Heng saying that "Mang (望)" is amassing Shin (心) and converting it into a ring of light around the user's body parts or weapons... But since I don't know how exactly that's done, I can only guess that the number of rings serves as a measure of how much stronger the user becomes with it.
+- According to the Sinners' experience with Mang and Shin wielders, performing attacks with Mang wrapped around makes the same motion or technique a lot faster and stronger than before. Ishmael speculated with some uncertainty that the ring of light itself probably doesn't contain some superpower, but rather acts like a kind of gateway through which power is channeled.
+- Outis added that the rings might function similarly to the rails of a railgun...
+- Since I don't know much about even Shin myself, I wasn't able to ask detailed questions about Mang. The most I got was Vespa complaining that each additional ring nearly doubles the mental strain...
+- Come to think of it, why does Mang contain emotions like resentment, dismay, and yearning? Why does Shin, the power of the heart, coalesce into Mang?
+- Yi Sang said perhaps it has something to do with hopes and desires being the unseen hands that stir the heart, but I don't think that can sufficiently explain this phenomenon...
+
+### [173] KAT=NestN
+- We came to N Corp. with a lot of worries on our minds... But Butter Street, our point of arrival, wasn't particularly different from the other Backstreets we'd been to.
+- I'd braced myself for those fanatic Inquisitors to swarm in on us and tear my head off me... or at least to run into someone from N Corp.'s New League of Nine Littérateurs, but nothing of the sort happened.
+- From what I remember, Meursault did say that the Inquisitors are not a major faction of N Corp., and it's not like we ran into the Littérateurs when we arrived in this District... so that explains it.
+- Butter Street's residents don't seem to care much about what we do. I'm pretty sure as long as it doesn't directly involve their daily lives, they won't give us a second glance.
+
+### [174] KAT=ExpCan
+- A canned product that gives the user an experience never before had, simply by eating the contents.
+- From what I can tell, the raw ingredient is produced in a place called "Grand Magasin Sisyphe" and the Canneries connected to it.
+- Apparently there's a mass-produced version of this product, made by mixing all sorts of information with the base ingredient. They give intense and stimulating experience when consumed, and in N Corp., eating these mass-produced Canned Experiences is considered a form of entertainment like going out or dining in a restaurant.
+- Uh... But didn't some of the Identities we use drive Nails into people to harvest something from them and make Canned Experiences with it? And if this Sisyphe place is "producing" the raw ingredient, then...
+- The thought gave me the creeps, if I'm being honest. I did ask Meursault about it, but he said Kromer and her Inquisitors had an outdated way of doing things... which is apparently almost never an option these days.
+- Meursault read my note. The way he spoke was quite insistent—he actually <i>emphasized</i> that the cans don't provide any dreams or experience. Then what do they really give? Memories? What separates a memory from an experience?
+- There are times when I peek into the Sinner's memories, but those memories don't come from my own experience. Still, in that precise moment I glimpse a memory, can't I say I'm experiencing it too? Or... not?
+- ... Maybe this isn't a question I can answer now.
+
+### [175] KAT=Distortion
+-  Moses, Team Leader of LCD On-site Investigative Reasoning (OSIR) Team, conducted research that suggests a Distortion phenomenon progresses through three stages: Early, Middle, and Late, like a disease. Hohenheim also once said that the fate of an Abnormality awaits at the end of the Distortion phenomenon. Does that mean that once the symptoms get worse beyond the late stage, the Distortion turns into an Abnormality?
+- Ezra mentioned in passing that there's also something called an "Incubation" stage—but I don't think that distinction makes much difference if you can't directly see or feel the warning signs of a Distortion phenomenon.
+- The Distortions we've encountered so far were all people turned into monstrous entities... But the Distortion phenomenon we were asked to handle this time looked more like its namesake—a "phenomenon" that covered an entire street. Ezra says it's called a "Location-type Distortion."
+- After completing the contract, I was able to hear more about how a Distortion can encroach upon its environment. I think the Sinners and I have seen that happen before. There were times when the scenery around us changed even though we didn't enter the Fathoms of someone's Ego or the Dungeon of the Fathoms.
+- Actually, didn't the same kind of thing happen with people who Effloresced their E.G.O...? I wonder what the difference is.
+
+### [176] KAT=NestS
+- I learned a little more about S Corp. through Bamboo-hatted Kim and Aeng-du's memories.
+- S Corp. is said to be a Wing run by three Court Circles: Sal, Pi, and Ppyeo. The "Pi" Circle, the faction Kim was part of, seems to have lost considerable influence, with the "Sal" and "Ppyeo" Circles colluding.
+- Yi Sang says most of S Corp.'s scientists and technicians belonged to the "Pi" Circle. That's probably why the old League of Nine Littérateurs had to escape to T Corp.—due to an internal power struggle.
+- Runaway residents are hunted down and brought back to S Corp. by Fixers called "Ch'unokkun." These refugees seem to be referred to as "Nobi," sometimes...
+- I don't think the term carries the same context as the miner "slaves" we saw in the underground of J Corp. casino... but I've yet to pin down what sets them apart yet.
+
+### [172] KAT=Swordgroup
+- When it was involved in a Syndicate Strife against the Kurokumo Clan, the Blade Lineage was apparently split into two groups.
+- One group were those who dreamed of returning to S Corp. someday—the people who had been with Bamboo-hatted Kim since back in S Corp.
+- The other group was made of people who sought only the liberty to live by their sword. Kim said that returning to S Corp. was not much of a priority for Salsus who earned their keep by brandishing their swords.
+- And Kim Distorted... in the middle of all that, losing both sides. Those who chose to remain with him were killed by their own leader, and with the Blade Lineage so diminished, the Salsus who had no clear purpose left him and drifted away.
+- Aeng-du's the only one who stayed by him until the end. And now, she's become an official member of the LCD.
+- The Mentor survives still, but calling the Blade Lineage an organized Syndicate may be a bit of a stretch now.
+
+### [177] KAT=LCD
+- LCD's On-site Investigative Reasoning Team resolves the Distortion phenomenon by searching for what they call "Inflection Points"—in the process of which they reason out and investigate the cause of the Distortion, the situation around it, and the nature of the power it may have gained due to those circumstances.
+- Meanwhile, the Bus Team's method is to open the Dungeon of the Fathoms to directly peer into the Distortion's past, or simply Suppress it using force until it turns back. And since this can't even be attempted without me, I suppose it can't be helped that Moses's team has to work in their own way.
+- That said, finding these "Inflection Points" is, apparently, a task that requires a huge amount of time without Moses, who can observe the progress and warning signs of the Distortion phenomena with the naked eye. I'd say that's another kind of power irreplaceable for their team, though in a completely different direction from mine.
+- Hmm... Now that I think about it, what would I look like through Moses's eyes? She said she saw "a glass-like sword of many edges" in Ryōshū's case. Considering the events that transpired following Moses's observation... maybe she could give me some clue about who I was before I lost my memories.
+
+### [178] KAT=EffEGO
+- E.G.O manifested by one's own self, rather than being extracted from Abnormalities.
+- Moses's pipe can alleviate mental strain through white smoke, and the scabbard Araya turned into can select which of Ryōshū's memories are cut off by the Arayashiki when she uses the blade. This leads me to believe that E.G.O are not always combat-oriented.
+- If anything is shared between extracted E.G.O and Effloresced E.G.O, it's that they seem to take the form of weapons, armor, or tools, without exception. This seems to be where they differ most from Distortions, which transforms and warps the human body.
+- Sora, the Index Apprentice of the House of Spiders, said that one needs an "unshakable conviction about what's good and evil" to Effloresce their E.G.O. When I think of Ahab and Dongrang, though... that conviction doesn't necessarily have to be "right," I suppose.
+- The E.G.O Bamboo-hatted Kim Effloresced at the end seemed somewhat unstable. Does that mean he's still lacking conviction? Then how could he even manifest one to begin with?
+- Ishmael conjectured that while Kim may still lack a conviction of his own, and is mired in fear and anxiety... he's slowly taking steps toward the direction he chose, and that may have helped manifesting his E.G.O. If so... perhaps a person whose Efflorescence is unstable might someday Distort again once they are devoured by conviction and anxiety instead of mastering them.

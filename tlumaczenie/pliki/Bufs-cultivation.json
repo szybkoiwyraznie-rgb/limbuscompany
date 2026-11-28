@@ -1,0 +1,310 @@
+{
+  "entries": {
+    "dataList[id=ConcussionWei].desc": {
+      "pl": "- Maks. stosów: 3\n- Przy trafieniu otrzymuje +30% obrażeń za każdy stos (maks. 90%)\n- Podczas tego efektu otrzymuje x1,5 podniesienia Progu Oszołomienia od Wyładowania Wstrząsu i obrażeń Rozdarcia (zaokrąglone w dół)\n- Przy Maks. stosów zużywa je wszystkie na koniec tury i przechodzi w wymuszone Oszołomienie w następnej turze",
+      "kr_sha256": "165000a15e0e7c8a27fa00bbbbed7d92700de8775793134013c0f140cb811ec4",
+      "en_sha256": "b87731afaf51c3e4aeae1d2a7cb4467cac0ebebdc8ed36e03b52fbf1bb1b2be0",
+      "origin": "ai"
+    },
+    "dataList[id=ConcussionWei].name": {
+      "pl": "Wstrząs Mózgu",
+      "kr_sha256": "80d54b46e6db164672fec5eeaf8f9f3c45bb432f00b2bbbafdbc4c916b659211",
+      "en_sha256": "a91e1107d707c09bc2ce6af8925cd1fe069629e4b563a2119744b66b8b0cd967",
+      "origin": "ai"
+    },
+    "dataList[id=CrazyWei].desc": {
+      "pl": "- Poziom Ataku -15\n- Poziom Obrony -15\n\n- Na koniec tury nie zyskuje Poziomu Obrony z Siły Nóg 【Wu】; zamiast tego zyskuje Wzrost Poziomu Ataku równy stosom Siły Nóg 【Wu】",
+      "kr_sha256": "f448855b83dccbcef959929374aa31b988bb152fa2e5947942ff26afb6f2f45e",
+      "en_sha256": "5bdd3d21bfecc16b7c15c6dd75ca3c29886c9c313f32c2d5c866cc213d7637f7",
+      "origin": "ai"
+    },
+    "dataList[id=CrazyWei].flavor": {
+      "pl": "„...Wszystko, co ośmieli się skrzywdzić moją panią... zdeptam na śmierć…”",
+      "kr_sha256": "915bd886335449d10fd00a3d2e0ef59c8a4c93e4ce0598c763f81193645011c3",
+      "en_sha256": "b3d0c8fe0b9fa1c3de0e587da8431e44f29f4615babc84265516b457b3b941b7",
+      "origin": "ai"
+    },
+    "dataList[id=CrazyWei].name": {
+      "pl": "Szalone Kwitnienie",
+      "kr_sha256": "40370dff4d367eaf0a99662fb60057c55d633c6a28817e56365b329983431344",
+      "en_sha256": "1c38a36aac5a2aa1a0b9885de75a475f40b710c883a8684fcf43d1ca11d77e1e",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeastSnake_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Moc Starcia -1; otrzymuje -10% obrażeń",
+      "kr_sha256": "b32260aa16bb1f50d439abf322182abf5dc5b444163d4856196565e02b39b427",
+      "en_sha256": "b7ff04d53649c3de3186a9b763d63ad3e60c96fc87038fe9dd6876f5415e27e6",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeastSnake_LowMorale].name": {
+      "pl": "Ciemna Wąż-Ręka",
+      "kr_sha256": "bfd16f4de1e99faedbbe2019bf7156eeb3ff4728a3700b8cad0d684267ca1a14",
+      "en_sha256": "cade1d5d7a5c0b0ed92235ee6615a975c42af242fd86054b8333cfeff1d95932",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeastSnake_Panic].desc": {
+      "pl": "- Panika\n- Moc Starcia -2; otrzymuje -20% obrażeń",
+      "kr_sha256": "db965090c4b9d8d5cb076a0a89d67555bd90feead04b2dda3c31688757f80049",
+      "en_sha256": "bc795d40082cbe7d361962c2ba79d6b56407e243e542f4c62bd5d2f5079b2092",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeastSnake_Panic].name": {
+      "pl": "Ciemna Wąż-Ręka",
+      "kr_sha256": "bfd16f4de1e99faedbbe2019bf7156eeb3ff4728a3700b8cad0d684267ca1a14",
+      "en_sha256": "cade1d5d7a5c0b0ed92235ee6615a975c42af242fd86054b8333cfeff1d95932",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkAwakening].desc": {
+      "pl": "- Maks. stosów: 1\n- Dopóki posiada ten efekt: Moc Końcowa +4 i otrzymuje +30% obrażeń\n- Przy trafieniu Monetą nakładającą Siłę Krwawienia nakłada dodatkowo 2 Krwawienia (maks. 10 na turę)\n- Jeżeli posiada Oddech, zadaje +50% obrażeń Krytycznych",
+      "kr_sha256": "47c15b3711b6de0577779e79097ba78216f52a91e00e8c9843e26dedfce87f41",
+      "en_sha256": "16c79bbfd3d8c04e5f4175a65bdc1465150997bfe4fabafbc0acf446995cf763",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkAwakening].name": {
+      "pl": "Przebudzenie Umysłu",
+      "kr_sha256": "2a127431a3a4ef35610cd87b1ef9f3447553210ab99a9b3076f3e1d115577d46",
+      "en_sha256": "eb39eb3da1538cba724c36322f0917645203e66f29f9f7b11ef30b32ec72cf7c",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkBlood].desc": {
+      "pl": "- Maks. stosów: 5\n- Specjalne Krwawienie\n- Przy rzucie Monety Umiejętności ataku otrzymuje obrażenia stałe równe stosom tego efektu",
+      "kr_sha256": "7d370c7d8ece544659b7d26c71a98700be0c9be42263d64d9b1dc8ab33879195",
+      "en_sha256": "72275cd57c3fc6b7189bbfc331f384fd8e1985616714b0d2708cdf78c494907f",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkBlood].name": {
+      "pl": "Rzut Krwi (血注)",
+      "kr_sha256": "2076a07e33dcacc5f83af722a65575a9d727f58964e9b4b8dc263d511f46a09c",
+      "en_sha256": "97844fc1f80c5859fcd8e2eed753ea0abe2435de5587f34cbd285bb8c6966077",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkDrifter_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Otrzymuje +10% obrażeń od Jia Xichun; zadaje +30% obrażeń Kontrą",
+      "kr_sha256": "690e12ac11eecb7b723b7c51e349b04cea22af7614f4e6b29fb524c33ec1a696",
+      "en_sha256": "b77c9c1b28c2012827c29c756c12374b4b8cd9bc9776407f1f351db5d3c18f41",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkDrifter_LowMorale].name": {
+      "pl": "Pijanica Nocny Wędrowiec",
+      "kr_sha256": "ef428ef75f50ab3be22b192fb09a47e1a471a26d7dcfd3937341bc5e86108893",
+      "en_sha256": "2a9e406febc668cfa051473c0c56387ca78fdd46cbd4a402574a47e7024a78ca",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkDrifter_Panic].desc": {
+      "pl": "- Panika\n- Moc Końcowa +1; otrzymuje +20% obrażeń od Jia Xichun; zadaje +50% obrażeń Kontrą",
+      "kr_sha256": "6b61222efbdfe94d8b7a33d3da0107b8c59c2c166a0c3fec54a15ffcd2e0b6b8",
+      "en_sha256": "2467146d73b97d9d81810012e10e441cfcfeee1168a13a3ccff8e31fc67a02c2",
+      "origin": "ai"
+    },
+    "dataList[id=DrunkDrifter_Panic].name": {
+      "pl": "Pijanica Nocny Wędrowiec",
+      "kr_sha256": "ef428ef75f50ab3be22b192fb09a47e1a471a26d7dcfd3937341bc5e86108893",
+      "en_sha256": "2a9e406febc668cfa051473c0c56387ca78fdd46cbd4a402574a47e7024a78ca",
+      "origin": "ai"
+    },
+    "dataList[id=LegStrengthHorse].desc": {
+      "pl": "- Maks. stosów: 3\n- Na koniec tury zyskuje 2 Pośpiechu i (stosy x 2) Wzrost Poziomu Obrony w następnej turze\n- Umiejętności nakładają dodatkowo Siłę Wstrząsu równą stosom przy trafieniu (maks. 6 na turę)",
+      "kr_sha256": "80b80aaf6980c97e3005cba9b19a3dd0a4c83a9ca07bbf1bebcad56ca51089dd",
+      "en_sha256": "43ba80deb6cf579d88e083a6374bceaea0591c2f9468d0a74fa38e31bc94272e",
+      "origin": "ai"
+    },
+    "dataList[id=LegStrengthHorse].name": {
+      "pl": "Kroczący【Wu】",
+      "kr_sha256": "ea2469b9592ad1d72563d6bc9a806071478fadd535a599a56b2e38dcda4e05f5",
+      "en_sha256": "5bc70ddca3e5a952db073f459e8f160cb42d6ae05bb4441b60a16f16b2c54519",
+      "origin": "ai"
+    },
+    "dataList[id=NightDrifterGuilty].desc": {
+      "pl": "- Poziom Ataku -15\n- Poziom Obrony -15",
+      "kr_sha256": "d5f5acc51ca1cc45722864caf537d39b666523f74b7727ae556ce0eb87fc4b69",
+      "en_sha256": "ea553d1ba8bec3da5aa58827cff2f8160ea6cecec6d512c9b6fd02df35f6aa52",
+      "origin": "ai"
+    },
+    "dataList[id=NightDrifterGuilty].name": {
+      "pl": "Słabe Poczucie Winy",
+      "kr_sha256": "d25d697bbe9aaf344fd777257f5b35cd04196da9edd1cf6041c06b6705a5f162",
+      "en_sha256": "9a193b60d602a76486471cb8ac9594559d814bb225aeb72ecea26ee4f2ea3587",
+      "origin": "ai"
+    },
+    "dataList[id=ReboundWei].desc": {
+      "pl": "- Maks.: 5",
+      "kr_sha256": "dae9c28bc0f4eda68e2a2d50eeb69c7cf1fd1a0e88b2a936174459a79d506f13",
+      "en_sha256": "55e5a4911d132a35161705588366046e9a732eccbd81801661b246bcebd3e29b",
+      "origin": "ai"
+    },
+    "dataList[id=ReboundWei].flavor": {
+      "pl": "To odrzut po wywołaniu Wyładowania Wstrząsu na niewłaściwym celu. Każde działanie ma równą i przeciwną reakcję.",
+      "kr_sha256": "ed32a2ee87fa88e713d4b697504bdcca9bd2658dc64cb5b4d1aec169f83e61fb",
+      "en_sha256": "a904c51d3846794f5f0d2208ce9998902e5d2bec60e530b25efbfbd2cdc17fcf",
+      "origin": "ai"
+    },
+    "dataList[id=ReboundWei].name": {
+      "pl": "Odrzut",
+      "kr_sha256": "65ebf6618d45a066ba2a11cc4c6c0828804f1f35b37306c2c41f1362f8b99b52",
+      "en_sha256": "fac5361d04600f1a329b4a36291db8747067544b83de5c4d2d4abf18b1db9508",
+      "origin": "ai"
+    },
+    "dataList[id=RunawayHorseWei_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 2 Wzrostu Poziomu Ataku i 1 Wrażliwości",
+      "kr_sha256": "2e8640163d67b4e864901caa105a9a64d18213dfd0e78c96764f4b756ac43e70",
+      "en_sha256": "3c904787f570c1fefdfa93ef261f72ae5c686f3163cc3b8170588ec83ad88093",
+      "origin": "ai"
+    },
+    "dataList[id=RunawayHorseWei_LowMorale].name": {
+      "pl": "Rumak bez Wędzidła",
+      "kr_sha256": "799ecc196f4fa73d37206b3cc5e374dacefc0a76fa1895f1a8294daa72f467d1",
+      "en_sha256": "f1c7d71c44f2bd1f73a07e75e4bc52e29edbf448066b1346ab0fcd5d2ceffde2",
+      "origin": "ai"
+    },
+    "dataList[id=RunawayHorseWei_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 1 Maks. Szybkość, 2 Wzrostu Poziomu Ataku i 2 Wrażliwości",
+      "kr_sha256": "042c8c9c2734fe854c42f5f328259247ea040bb33d757f9a241ae1456134359b",
+      "en_sha256": "488005d8305eed85f9786e5646548ccef4635fe326088d5979cbc01c370236ae",
+      "origin": "ai"
+    },
+    "dataList[id=RunawayHorseWei_Panic].name": {
+      "pl": "Rumak bez Wędzidła",
+      "kr_sha256": "799ecc196f4fa73d37206b3cc5e374dacefc0a76fa1895f1a8294daa72f467d1",
+      "en_sha256": "f1c7d71c44f2bd1f73a07e75e4bc52e29edbf448066b1346ab0fcd5d2ceffde2",
+      "origin": "ai"
+    },
+    "dataList[id=SipOfAlcoholJin].desc": {
+      "pl": "- Maks. stosów: 5\n- Na koniec tury zyskuje (stosy x 2) Siły Oddechu w następnej turze\n- Na koniec tury zyskuje (stosy / 2) Pośpiechu w następnej turze (zaokrąglone w dół)\n- Na koniec tury przy 3+ stosach leczy 1,5% HP (korpus i części)",
+      "kr_sha256": "6c3bf5e4e92fd113ffc87434a746dfc8764fccbb76f2580e5f5fd8dd87786d82",
+      "en_sha256": "83bfa8c47b8468bc4c5c53441cd92d2da95fe11f7d5a5772b984a94de1d5fbf1",
+      "origin": "ai"
+    },
+    "dataList[id=SipOfAlcoholJin].name": {
+      "pl": "Łyczek (眞)",
+      "kr_sha256": "d59d33636c8ba54f0dd38d58301d3a206e595164de97d126dfc8235ad8e3eeaa",
+      "en_sha256": "ae9703e55b3b8824612f3d7258b1bc9e0439b483c371e3603335992ad2ef2c28",
+      "origin": "ai"
+    },
+    "dataList[id=SnakePoisonJinWeak].desc": {
+      "pl": "- Poziom Ataku -1\n- Poziom Obrony -1",
+      "kr_sha256": "a67f3b1452712c86f38f3e2cbd5dd2533d36936b621ebf19ca6e1d1bc3a25996",
+      "en_sha256": "8bf035302d80cb320eee6af4c85498e83053baa810f2c3856b29f5ee81d627a4",
+      "origin": "ai"
+    },
+    "dataList[id=SnakePoisonJinWeak].name": {
+      "pl": "Jad Węża",
+      "kr_sha256": "03d29478c793e1f74475ac8f3440493f13e805a2501b0d2a4c27c2b3925ce0cd",
+      "en_sha256": "421e2b2a6797ace883f8a722b6d5ca40015002f6b1120f7aa2510878bdc48bc3",
+      "origin": "ai"
+    },
+    "dataList[id=SnakePoisonJin].desc": {
+      "pl": "- Poziom Ataku -7\n- Poziom Obrony -7\nOtrzymuje 1% HP obrażeń przy każdym Starciu",
+      "kr_sha256": "61e52cce25e0429cbef8c1d2427ebbcb0d237522f9ac72ed9d3c72857f181c6f",
+      "en_sha256": "bf143748bb255b2820ebd8c0fee924fbc1cb5f4498ad28dccb72144ce6820be2",
+      "origin": "ai"
+    },
+    "dataList[id=SnakePoisonJin].name": {
+      "pl": "Rozprzestrzeniający się Jad Węża",
+      "kr_sha256": "dd8ff6647ed73e258ccbcc9fcc6562de38d640ef89b76d7007d14276f1864972",
+      "en_sha256": "4f0ab78ba26264852459b0a19a28399298182f6d4126e167b7f0c78e74c861a5",
+      "origin": "ai"
+    },
+    "dataList[id=StudySignSinclair].desc": {
+      "pl": "- Odzyskuje 30 Poczytalności w następnej turze\n- Znika na koniec tury",
+      "kr_sha256": "df1ba888ef2c89f33d0c5b0dcb0cab46fcc7cf47b8d130241ea8547f6d58fee9",
+      "en_sha256": "c24a59e7ccae5f93f4d0f80ce83af3798ca962a6b0bd77b66117f2c71368969e",
+      "origin": "ai"
+    },
+    "dataList[id=StudySignSinclair].flavor": {
+      "pl": "Ten, kto pragnie się narodzić, musi najpierw zniszczyć świat.",
+      "kr_sha256": "aa6b4ab3cd3d947b15713757d590d2e29379727eb1aa4dabc2164a8079ebb665",
+      "en_sha256": "bde5faa64ebfee8d75a6c34733cc74828f761c7e4feb3cece161860e98ebe890",
+      "origin": "ai"
+    },
+    "dataList[id=StudySignSinclair].name": {
+      "pl": "Pewien Znak",
+      "kr_sha256": "e6820537af7e92f98e5aec4854eb02ce8c903ca7e021a0a45d1be0565a296f16",
+      "en_sha256": "1cda0151554a468eaca66cffd61cfe49d0a4f663db2dc380be759517f465918e",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair].desc": {
+      "pl": "- Wzmacnia efekty zależnie od sumy Zhi, Yong i Ren zdobytych na zajęciach",
+      "kr_sha256": "8ee91432913b44209e25216b9d6afe012ec03aa863c122bd05d7c82d33078056",
+      "en_sha256": "20e11cab06f811ad3f0106ff54ae07d1c73af41c78dac4464efc93ca9db52052",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair].name": {
+      "pl": "Tęsknota za Wykluciem",
+      "kr_sha256": "bcc9b027f38a40d44e08880f0fb38cf5709b375c40bc365dff4e1244d3172de3",
+      "en_sha256": "3b03ae1a8f38d7fc3360f183b2a83534c5d780285bae346692d6566e5396e0b8",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_A].desc": {
+      "pl": "- Co turę odzyskuje 3 Poczytalności\n- Min. i Maks. Szybkość +1\n- Poziom Ataku +2\n- Poziom Obrony +2",
+      "kr_sha256": "030a169a287b4e324d7f0be8dd09bf9d742ef65cabc06254e464d82ae220a35f",
+      "en_sha256": "f930303388de128e116699f6f029aeb3997c81a4b16507de733a5a54222c0c30",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_A].name": {
+      "pl": "Tęsknota za Wykluciem Ⅰ",
+      "kr_sha256": "4d68fc7d4622eb6d3723bff39bfab0b19956d7bb3d30288fe89511f906af1758",
+      "en_sha256": "58011667bc2d6bb24a9dad2ade4d3002f2d1668f4b1f8db1c2f046db97d6414d",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_B].desc": {
+      "pl": "- Co turę odzyskuje 5 Poczytalności\n- Min. i Maks. Szybkość +1,\n- Co turę zyskuje 1 Wzrost Mocy Ataku i 1 Ochrony\n- Poziom Ataku +2\n- Poziom Obrony +2",
+      "kr_sha256": "52d530e9ddc7c968e707c042935fd347b2e98fe95bfc172fb94c69da721ca56a",
+      "en_sha256": "4ca3f56a94160d94feb154f346cbed69edc67fe3afccc9d8c43fd6a6f6a67405",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_B].name": {
+      "pl": "Tęsknota za Wykluciem Ⅱ",
+      "kr_sha256": "4f28aef9425b85a0a8d1a71f361353cc8cf5b16a20cd73e6ab7357b13cffce91",
+      "en_sha256": "986d488def92c400071a13766d795c4118ae9bf228e22f733fe9a5bb3466204c",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_C].desc": {
+      "pl": "- Co turę odzyskuje 5 Poczytalności\n- Min. i Maks. Szybkość +1; co turę zyskuje 1 Wzrost Mocy Ataku i 1 Ochrony\n- Podstawowe Umiejętności zyskują 1 Moc Starcia\n- Poziom Ataku +3\n- Poziom Obrony +3",
+      "kr_sha256": "e08bfd376297db7920ae4f5690af95f67596d78f96930a8fc475d81a56d60645",
+      "en_sha256": "03f954a787c63f59b50b7097066996ca47a9ad90c851957cfc0c21747795cd01",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_C].name": {
+      "pl": "Tęsknota za Wykluciem Ⅲ",
+      "kr_sha256": "23e0e855cf042cba5cae3dec4c97cbce42601a419614573acea58ac48f29f91a",
+      "en_sha256": "025f764914a722b5470055bf44b266008b78eeaad02d22568231f224f433ea24",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_D].desc": {
+      "pl": "- Co turę odzyskuje 10 Poczytalności\n- Min. i Maks. Szybkość +1; co turę zyskuje 1 Wzrost Mocy Ataku i 1 Ochrony\n- Podstawowe Umiejętności zyskują 1 Moc Starcia\n- Poziom Ataku +4\n- Poziom Obrony +4",
+      "kr_sha256": "db37a9b6f96562b8b7ffde79396a1d4d599ea9425dae084e35be3611ad7e3602",
+      "en_sha256": "c3270fd5d5778b6bfe15ca8fccdfe77db9c220ad6ae95a6377797fc0d5002f51",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_D].name": {
+      "pl": "Tęsknota za Wykluciem Ⅳ",
+      "kr_sha256": "c4c8ec0ea38c119c3c2c3a90eac029e50c418fd797c41e112a6a6c14e0ee8995",
+      "en_sha256": "b164241239c73fc0521b1028e61284568156b6a45fbc5ccd5eb75797dd4e44dd",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_E].desc": {
+      "pl": "- Co turę odzyskuje 15 Poczytalności\n- Min. i Maks. Szybkość +2; co turę zyskuje 1 Wzrost Mocy Ataku i 1 Ochrony\n- Podstawowe Umiejętności zyskują 1 Moc Starcia\n- Podstawowe Umiejętności zyskują 1 Moc Monety\n- Poziom Ataku +5\n- Poziom Obrony +5",
+      "kr_sha256": "133b7897d21ab3e900e736c6b1cdbb228399506baa8d98c490b9f02602038fac",
+      "en_sha256": "6562e317ca679673233d3afd9ecdaaecd675cebd02782224e4a44cd8979884f1",
+      "origin": "ai"
+    },
+    "dataList[id=StudyStatSinclair_E].name": {
+      "pl": "Tęsknota za Wykluciem Ⅴ",
+      "kr_sha256": "2372ec31e26ce43da844533f37b0021afbcc89b6abc5fe33f64691a269d6eb59",
+      "en_sha256": "c6dc37e0f071f72cf3a4389c2398d194ad2821b394dace6eb089cd0f53eb0464",
+      "origin": "ai"
+    },
+    "dataList[id=SweptAwayWei].desc": {
+      "pl": "- Maks. stosów: 10\n- Podwaja podniesienie Progu Oszołomienia od Wyładowania Wstrząsu\n- Na koniec tury maleje o 1",
+      "kr_sha256": "fece6bbab39b5fdeb67616328ec812b5df9af788331c4706aea283bbabdbacf5",
+      "en_sha256": "09229c107bc1b660fd993b3972d1f2c75daff835f385ead9d583cec97b009d89",
+      "origin": "ai"
+    },
+    "dataList[id=SweptAwayWei].name": {
+      "pl": "Porwanie Wichrem",
+      "kr_sha256": "3dca35c40f0b5399756c902bcca47c4dcb14883fe3b758bf64e3c00bcec8d973",
+      "en_sha256": "27fb89be5920b4911efb8fac63ec11892f15e4b446645327c592034c7789ea86",
+      "origin": "ai"
+    }
+  }
+}

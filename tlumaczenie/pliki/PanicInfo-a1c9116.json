@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=1038].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Enhancement], 1 [TakeHpHealIncrease] i 1 [Vulnerable]",
+      "kr_sha256": "fef3a58781da9d0f53d181a4442508d63f51ec288dbe6fb81b7e043525d1ebe1",
+      "en_sha256": "b5c691064eebe7203dfcf513e8bc56c07a67c14b86118081cbb1c7dd04d6524b",
+      "origin": "ai"
+    },
+    "dataList[id=1038].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Enhancement], 2 [TakeHpHealIncrease] i 1 [Vulnerable]",
+      "kr_sha256": "d60593f1e19b5740cad78ae4f1b3f2b29db4143f3a1130d01f23f0fc69218435",
+      "en_sha256": "4bc86ffaf749fba1b0a7db1ada85a80c6190a4b513984a8ec2b21f21ac91fbb7",
+      "origin": "ai"
+    },
+    "dataList[id=1038].panicName": {
+      "pl": "Noc w Zaułkach",
+      "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
+      "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
+      "origin": "ai"
+    },
+    "dataList[id=1039].lowMoraleDescription": {
+      "pl": "Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +10%",
+      "kr_sha256": "1db7c0f0ee5cc336acd6dd43d8f0fc05b8ea728a37fb5fa7510275ff01f62796",
+      "en_sha256": "58703e98697cef00e2437f27e0f95e4b62f65c350c8cd97791ab72dd817a4211",
+      "origin": "ai"
+    },
+    "dataList[id=1039].panicDescription": {
+      "pl": "Jeśli Szybkość tej jednostki jest wyższa od celu lub przy Ataku Jednostronnym: obrażenia przeciw celowi +20%; jeśli Szybkość jest wyższa od celu: otrzymywane obrażenia -20%",
+      "kr_sha256": "b18ffc85e36c7bb2f66dc9bb76eeec9e159c97adc03cb86c9fb5a1a0ffbb5199",
+      "en_sha256": "df21bff6df86ea34ef85a030031aa5a83fb57b99c832f8dd2437a4d9ae578077",
+      "origin": "ai"
+    },
+    "dataList[id=1039].panicName": {
+      "pl": "Podstęp",
+      "kr_sha256": "caff7d40ab5981d3e62c739278d3cc6b69eca3b2b78b3c7b32dfaefbfb7881b9",
+      "en_sha256": "17455029fb9994a3f2fdd256533040999bee973dc3ba05978883b20af2c9c010",
+      "origin": "ai"
+    }
+  }
+}

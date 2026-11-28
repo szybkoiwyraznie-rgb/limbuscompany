@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=50101].desc": {
+      "pl": "- Nakładane efekty:\n • W tej turze wszystkie Monety umiejętności wybranej postaci mają 100% szansy na wypadnięcie wybraną stroną (Awersem lub Rewersem)\n • Efekt ten ma pierwszeństwo przed umiejętnościami, pasywkami i innymi efektami postaci\n- Celowanie wszystkich postaci zostanie zresetowane.\n- Nie można wybrać jednostek poległych, niekontrolowalnych ani niezdolnych do działania.",
+      "kr_sha256": "032cc37557eef99334f6457e8632c182e332374accc00b73dd731b209c8169fa",
+      "en_sha256": "b518188edbf18178093f3d614c6ad0dbc7b32bfb78d3d72aad2d4dc813ba14ce",
+      "origin": "ai"
+    },
+    "dataList[id=50101].rawDesc": {
+      "pl": "Wybierz 1 postać, aby ustalić wynik wszystkich jej Monet umiejętności na Awers lub Rewers.",
+      "kr_sha256": "c7cc704022fdcf336fbaa75176d70b5b14f876b3f7ea18935bba03630962d430",
+      "en_sha256": "7c90122e4625fd17ba45792139c5a92738e54db3e203195fd496adc0febb2e2e",
+      "origin": "ai"
+    },
+    "dataList[id=70101].desc": {
+      "pl": "- Przez 3 tury uśrednia Poziom Ataku i Poziom Obrony wszystkich postaci na polu walki.",
+      "kr_sha256": "02179943eca00f3b8c8dcb18438dd968bc34c94d5318fbbdf1385e701f937592",
+      "en_sha256": "52ce7c763e9cc0ccdcb1881d0359e0e04f3e31afaf8e21558044ce234de42016",
+      "origin": "ai"
+    },
+    "dataList[id=70101].rawDesc": {
+      "pl": "Uśrednia Poziom Ataku i Poziom Obrony wszystkich postaci.",
+      "kr_sha256": "73b49adade05f37ccdca3fa0e09e5f0de765395f457a1ece477c31fcef046600",
+      "en_sha256": "f31b36a5b9c5b478b2516b2026661fc06dc3bf1dcfae14ca303e5a6a5b387486",
+      "origin": "ai"
+    },
+    "dataList[id=80101].desc": {
+      "pl": "- Resetuje wygenerowane umiejętności E.G.O wszystkich postaci oraz ich celowanie.",
+      "kr_sha256": "17447bb21c42c7e25a6187823b4dfa41f1e96939473eb6ceae99658c68c4a979",
+      "en_sha256": "0469dfa02bf9ad32223819074733729b41afd94d5869a8407842206036913e95",
+      "origin": "ai"
+    },
+    "dataList[id=80101].rawDesc": {
+      "pl": "Pozwala jednorazowo wygenerować umiejętność E.G.O bez zużywania zasobów E.G.O.",
+      "kr_sha256": "9df6e3e779001232cd33690f0f594fdb06398c8a5003bd98812ccb73ce7bb93d",
+      "en_sha256": "ddd8ea1472195f6259ef0ebbd1d6ceaceae21dab9f6a1b85455123c67cfb00bf",
+      "origin": "ai"
+    },
+    "dataList[id=90101].desc": {
+      "pl": "- Celowanie wszystkich postaci zostanie zresetowane.\n- Efekty aktywowane na Początku Tury nie zostaną odświeżone.",
+      "kr_sha256": "d65ef939fb4c8cc3c74a78b2888281a1be98e4ede16817f3f3e295e706894f02",
+      "en_sha256": "40a2c7ff818909f8556051750652521e19afebbd2eaab81c2dbe7e3aabae7b6e",
+      "origin": "ai"
+    },
+    "dataList[id=90101].rawDesc": {
+      "pl": "Zmniejsza o połowę Szybkość wszystkich wrogów.",
+      "kr_sha256": "f9a6fc4056e18b2736e62be1e65199dd22794d35a828010ff44fc66b3198b668",
+      "en_sha256": "61932a16aba4dce7a9f8bf298bae357bec4962ef93812dda9a23cc210d90986b",
+      "origin": "ai"
+    }
+  }
+}

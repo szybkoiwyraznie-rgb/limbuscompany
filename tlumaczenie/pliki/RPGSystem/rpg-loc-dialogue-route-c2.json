@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[key=D9516].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC01_C2].texts[#1].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC01_C2].texts[#2].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC02_C2].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC03_C2].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC10_C2].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC11_C2].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC12_C2].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=DRSC13_C2].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    }
+  }
+}

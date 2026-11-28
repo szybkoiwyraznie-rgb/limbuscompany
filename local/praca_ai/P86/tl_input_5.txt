@@ -1,0 +1,96 @@
+705||[Umiejętność wroga [9017802] (ulepszenie 1) — nazwa] 고기 톱니: 멈추기|Meat Gear: Stop
+706||[Umiejętność wroga [9017802] (ulepszenie 1) — opis] [WhenUse] [Smoke] 4 얻음, 자신의 [Smoke] 횟수 2 증가|[WhenUse] Gain 4 [Smoke] and +2 [Smoke] Count
+707||[Umiejętność wroga [9017802] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Smoke] 2 부여|[OnSucceedAttack] Inflict 2 [Smoke]
+708||[Umiejętność wroga [9017802] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Paralysis] 1 부여|[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn
+711||[Umiejętność wroga [9017803] (ulepszenie 1) — nazwa] 증기|Vapour
+712||[Umiejętność wroga [9017803] (ulepszenie 1) — opis] 대상의 [Smoke] 3당, 합 위력 +1 (최대 2)\n자신의 [Smoke] 3당, 피해량 +10% (최대 20%)\n[WhenUse] 자신의 [Smoke]가 10이면, 코인 위력 +2\n[EndSkill] 자신의 [Smoke] 전부 소모|Clash Power +1 for every 3 [Smoke] on the target (max 2)\nDeal +10% damage for every 3 [Smoke] on self (max 20%)\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self
+713||[Umiejętność wroga [9017803] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Smoke] 3 부여|[OnSucceedAttack] Inflict 3 [Smoke]
+714||[Umiejętność wroga [9017803] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Smoke] 3 당, 코인 재사용 (최대 3회 발동)|[OnSucceedAttack] Reuse Coin for every 3 [Smoke] on the target (3 times max)
+715||[Umiejętność wroga [9017804] (ulepszenie 1) — nazwa] 회피 명령|Evade Order
+716||[Umiejętność wroga [9017804] (ulepszenie 1) — opis] [OnSucceedEvade] [Smoke] 3 얻음, [Smoke] 횟수 1 증가\n[OnSucceedEvade] 자신의 [Smoke]가 10이면, 다음 턴에 [ParryingResultUp] 1, [Protection] 3 얻음 (턴 당 1회)|[OnSucceedEvade] Gain 3 [Smoke] and +1 [Smoke] Count\n[OnSucceedEvade] At 10 [Smoke], gain 1 [ParryingResultUp] and 3 [Protection] next turn (once per turn)
+717||[Umiejętność wroga [9017901] (ulepszenie 1) — nazwa] 톱니를 따라|Guided by Gears
+718||[Umiejętność wroga [9017901] (ulepszenie 1) — opis] [WhenUse] [Smoke] 2 얻음.|[WhenUse] Gain 2 [Smoke]
+720||[Umiejętność wroga [9017902] (ulepszenie 1) — nazwa] 고기 톱니: 부여잡기|Meat Gear: Grapple
+722||[Umiejętność wroga [9017902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Smoke] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Smoke] Count
+723||[Umiejętność wroga [9017902] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Binding] 1 부여|[OnSucceedAttackHead] Inflict 1 [Binding] next turn
+726||[Umiejętność wroga [9017903] (ulepszenie 1) — nazwa] 기습 명령|Assault Order
+728||[Umiejętność wroga [9017903] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Smoke] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Smoke] Count
+732||[Umiejętność wroga [9018001] (ulepszenie 1) — nazwa] 고기 톱니: 명령|Meat Gear: Command
+733||[Umiejętność wroga [9018001] (ulepszenie 1) — opis] [WhenUse] [Smoke] 3 얻음, 자신의 [Smoke] 횟수 2 증가|[WhenUse] Gain 3 [Smoke] and +2 [Smoke] Count
+734||[Umiejętność wroga [9018001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Smoke] 3 부여, [Smoke] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Smoke] and +2 [Smoke] Count
+735||[Umiejętność wroga [9018002] (ulepszenie 1) — nazwa] 생각 톱니: 수급|Thought Gear: Collect
+737||[Umiejętność wroga [9018002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Smoke] 4 부여, [Smoke] 횟수 2 증가|[OnSucceedAttack] Inflict 4 [Smoke] and +2 [Smoke] Count
+739||[Umiejętność wroga [9018003] (ulepszenie 1) — nazwa] 고기 톱니: 제한|Meat Gear: Restrict
+740||[Umiejętność wroga [9018003] (ulepszenie 1) — opis] 대상의 [Smoke] 3당, 코인 위력 +1\n자신의 [Smoke] 3당, 피해량 +10%\n이 스킬에서 코인 재사용 시 자신의 [Smoke] 3 소모\n[WhenUse] 자신의 [Smoke]가 10이면, 코인 위력 +1|Coin Power +1 for every 3 [Smoke] on the target\nDeal +10% damage for every 3 [Smoke] on self\nConsume 3 [Smoke] on self every time this Skill Reuses Coin\n[WhenUse] At 10 [Smoke], Coin Power +1
+742||[Umiejętność wroga [9018003] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Smoke] 5 당, 코인 재사용 (최대 2회 발동)|[OnSucceedAttack] Reuse Coin for every 5 [Smoke] on the target (2 times max)
+743||[Umiejętność wroga [9018004] (ulepszenie 1) — nazwa] 생각 톱니: 해제|Thought Gear: Remove
+744||[Umiejętność wroga [9018004] (ulepszenie 1) — opis] 대상의 [Smoke] 3당, 합 위력 +1\n자신의 [Smoke] 3당, 피해량 +20%\n[WhenUse] 자신의 [Smoke]가 10이면, 코인 위력 +2\n[EndSkill] 자신의 [Smoke] 전부 소모|Clash Power +1 for every 3 [Smoke] on the target\nDeal +20% damage for every 3 [Smoke] on self\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self
+748||[Umiejętność wroga [9018005] (ulepszenie 1) — nazwa] 생각 톱니: 증기|Thought Gear: Vapour
+749||[Umiejętność wroga [9018005] (ulepszenie 1) — opis] [WhenUse] [Smoke] 5 얻음, [Smoke] 횟수 2 증가\n[WhenUse] 자신의 [Smoke]가 10이면, 다음 턴에 [PlusCoinValueUp] 2, [Protection] 3 얻음 (턴 당 1회)|[WhenUse] Gain 5 [Smoke] and +2 [Smoke] Count\n[WhenUse] At 10 [Smoke], gain 2 [PlusCoinValueUp] and 3 [Protection] next turn (once per turn)
+750||[[walpu5] Pasywka wroga [9017801] — nazwa] 뭉게뭉게|Puffy Brume
+751||[[walpu5] Pasywka wroga [9017801] — opis] 자신에게 있는 [Smoke]의 효과로 받는 피해량이 증가하지 않고 대신 가하는 피해량이 증가함.|Instead of taking more damage due to [Smoke] on self, inflict more damage.
+752||[[walpu5] Pasywka wroga [9017802] — nazwa] 내연기관|Internal Combustion Engine
+753||[[walpu5] Pasywka wroga [9017802] — opis] [Smoke]를 얻을 때, 추가로 1 얻음|When gaining [Smoke], gain 1 additional [Smoke]
+754||[[walpu5] Pasywka wroga [9017803] — nazwa] 고기 톱니|Meat Gear
+755||[[walpu5] Pasywka wroga [9017803] — opis] 전투 중 가장 먼저 적중하는 코인의 피해량 +10%|The first Coin to connect in an Encounter deals +10% damage
+756||[[walpu5] Pasywka wroga [9017804] — nazwa] 생각 톱니|Thought Gear
+757||[[walpu5] Pasywka wroga [9017804] — opis] 회피 스킬 사용시 기본 위력 +1|On Evade Skill Use: Base Power +1
+758||[[walpu5] Pasywka wroga [9017805] — nazwa] 내연기관 이상|Internal Combustion Engine Malfunction
+759||[[walpu5] Pasywka wroga [9017805] — opis] 흐트러짐 상태가 되면, 자신의 [Smoke] 전부 소모|When Staggered, lose all [Smoke] on self
+760||[[walpu5] Pasywka wroga [9018001] — nazwa] 고기 톱니: 강화|Meat Gear: Enhance
+761||[[walpu5] Pasywka wroga [9018001] — opis] 자신을 제외한 아군이 있다면, 턴 시작 시 모든 아군에게 [ParryingResultUp] 1, [AttackDmgUp] 2 부여 (대상당 최대 2번 적용)\n자신을 제외한 아군이 없다면, 턴 시작 시 [Smoke] 8 얻음|If there are other surviving allies, apply 1 [ParryingResultUp] and 2 [AttackDmgUp] to all allies (2 times for each ally)\nIf ther eare no other surviving allies, gain 8 [Smoke] at Turn Start
+762||[[walpu5] Pasywka wroga [9018002] — nazwa] 생각 톱니: 지연|Thought Gear: Delay
+763||[[walpu5] Pasywka wroga [9018002] — opis] 이 캐릭터가 살아있으면 턴 종료 시 적이 생성되지 않는다.|If this unit is alive, no enemies are generated at Turn End.
+764||[[walpu5] Pasywka wroga [9018003] — nazwa] 생각 톱니: 위해|Thought Gear: Risk
+765||[[walpu5] Pasywka wroga [9018003] — opis] 수비 스킬 사용시 수비 스킬의 기본 위력 +1|On Defensive Skill Use: Defensive Skill Base Power +1
+766||[[walpu6] Wróg / część [1223] — nazwa] 절망의 기사|The Knight of Despair
+769||[[walpu6] Wróg / część [122301] — opis] 절기 부위|KoD Part
+770||[[walpu6] Wróg / część [1224] — nazwa] 잊혀진 기사의 검|Sword of a Forgotten Knight
+773||[[walpu6] Wróg / część [122401] — opis] 절기 칼 부위|KoD Sword Part
+774||[[walpu6] Wróg / część [1225] — nazwa] 마음을 부수는 검|Heart-breaking Sword
+778||[[walpu6] Wróg / część [1226] — nazwa] 마음을 찢는 검|Heart-tearing Sword
+782||[[walpu6] Wróg / część [1227] — nazwa] 마음을 꿰뚫는 검|Heart-piercing Sword
+786||[Umiejętność wroga [122301] (ulepszenie 1) — nazwa] 쏟아지는 절망|Cascading Despair
+787||[Umiejętność wroga [122301] (ulepszenie 1) — opis] [WhenUse] 대상에게 [Sinking]이 4 이상 있으면, 코인 위력 +1\n[WinDuel] 남은 코인 갯수 만큼 [ColdBlackTear] 부여|[WhenUse] If target has 4+ [Sinking], Coin Power +1\n[WinDuel] Inflict [ColdBlackTear] equal to the # of remaining Coins
+789||[Umiejętność wroga [122301] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Sinking] Count
+791||[Umiejętność wroga [122302] (ulepszenie 1) — nazwa] 날카로운 눈물|Sharp Teardrops
+792||[Umiejętność wroga [122302] (ulepszenie 1) — opis] [WhenUse] 대상에게 [Sinking]이 4 이상 있으면, 코인 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 기본 위력 +1\n[WinDuel] 남은 코인 갯수 만큼 [ColdBlackTear] 부여|[WhenUse] If target has 4+ [Sinking], Coin Power +1\n[WhenUse] If target has 20 or higher SP, Base Power +1\n[WinDuel] Inflict [ColdBlackTear] equal to the # of remaining Coins
+799||[Umiejętność wroga [122303] (ulepszenie 1) — nazwa] 흐르는 절망 어린 눈물|River of Despairing Tears
+800||[Umiejętność wroga [122303] (ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 4 당 기본 위력 +1 (최대 2)\n[WhenUse] 대상에게 [ColdBlackTear]이 1 이상 있다면, 코인 위력 +1\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Base Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 1+ [ColdBlackTear], Coin Power +1\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+802||[Umiejętność wroga [122303] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [ColdBlackTear] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]
+811||[Umiejętność wroga [122304] (ulepszenie 1) — nazwa] 나누자 무뎌지는 슬픔|Shared Sorrow, Dulled
+812||[Umiejętność wroga [122304] (ulepszenie 1) — opis] [WhenUse] [ColdBlackTear] 1 부여|[WhenUse] Inflict 1 [ColdBlackTear]
+813||[Umiejętność wroga [122304] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [ColdBlackTear]이 3 이상 있다면, [Vulnerable] 1 부여|[OnSucceedAttack] If target has 3+ [ColdBlackTear], inflict 1 [Vulnerable]
+814||[Umiejętność wroga [122305] (ulepszenie 1) — nazwa] 거세게 쏟아지는 텅 빈 절망|Violent Cascade of Hollow Despair
+815||[Umiejętność wroga [122305] (ulepszenie 1) — opis] [ColdBlackTear]이 가장 많은 대상을 우선 공격함\n[WhenUse] 메인 대상에게 [ColdBlackTear]이 5 이상 있다면, 코인 위력 +5|Prioritizes targets with the most [ColdBlackTear]\n[WhenUse] If the main target has 5+ [ColdBlackTear], Coin Power +5
+817||[Umiejętność wroga [122305] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 최대 체력의 ([ColdBlackTear] 수치 x 6)%만큼 고정 피해를 주고, 대상의 모든 [ColdBlackTear] 제거|[UnBrokenCoinOnSucceedAttack] Deal fixed damage equal to ([ColdBlackTear] Stack on target x 6)% of target's max HP, then remove all [ColdBlackTear] on target
+818||[Umiejętność wroga [122306] (ulepszenie 1) — nazwa] 아르카나 티어 앤 피어스|Arcana: Tear and Pierce
+819||[Umiejętność wroga [122306] (ulepszenie 1) — opis] 아르카나[TabExplain] 슬레이브를 사용하는 적이 있고, 자신에게 [CollapsedPride]가 없으면 사용함|Uses this Skill when an enemy uses Arcana[TabExplain] Slave, and when this unit does not have [CollapsedPride]\nCounterattacks only Arcana Slave
+821||[Umiejętność wroga [122306] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [ColdBlackTear] 2 부여|[OnSucceedAttack] Inflict 2 [ColdBlackTear]
+823||[Umiejętność wroga [122306] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [ColdBlackTear] 1 부여|[OnSucceedAttack] Inflict 1 [ColdBlackTear]
+829||[Umiejętność wroga [122306] (ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttack] 대상의 최대 체력의 ([ColdBlackTear] 수치 x 6)%만큼 고정 피해를 주고, 대상의 모든 [ColdBlackTear] 제거 (내성 무시)|[OnSucceedAttack] Deal fixed damage equal to ([ColdBlackTear] Stack on target x 6)% of target's max HP, then remove all [ColdBlackTear] on target (ignores Resistances)
+830||[Umiejętność wroga [122401] (ulepszenie 1) — nazwa] 빛바랜 믿음|Faded Faith
+831||[Umiejętność wroga [122401] (ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1|[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1
+834||[Umiejętność wroga [122402] (ulepszenie 1) — nazwa] 닳아버린 긍지|Weathered Pride
+839||[Umiejętność wroga [122403] (ulepszenie 1) — nazwa] 끝없는 절망|Endless Despair
+845||[Umiejętność wroga [122404] (ulepszenie 1) — nazwa] 눈물로 벼려낸 검|Sword Sharpened with Tears
+846||[Umiejętność wroga [122404] (ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 6당 코인 위력 +5 (최대 10)\n[WhenUse] 대상에게 [ColdBlackTear]이 있다면, 최종 위력 +1|[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1
+847||[Umiejętność wroga [122404] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking]이 6 이상이라면, 다음 턴에 [DefenseDown] (대상의 [Sinking]수치 / 10)만큼 부여 (소수점 버림)|[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)
+848||[Umiejętność wroga [122405] (ulepszenie 1) — nazwa] 비통이 맺힌 검|Sword Laced with Grief
+849||[Umiejętność wroga [122405] (ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 6당 코인 위력 +3 (최대 6)\n[WhenUse] 대상의 [ColdBlackTear] 1당, 기본 위력 +1 (최대 3)|[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)
+851||[Umiejętność wroga [122405] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 최대 체력의 (스킬 위력)%만큼 추가 우울 피해를 줌 (최대 30)\n- 대상에게 [ColdBlackTear]이 2 이상 있을 경우 한번 더 추가 우울 피해를 줌|[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again
+919||[[walpu6] Pasywka wroga [122301] — opis] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -50% (소수점 버림)\n자신의 [SuperCoin]이 파괴된 채 적중시, 대상의 [Sinking] 효과를 발동하지 않음 (횟수 차감하지 않음)|Takes -50% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] (rounded down)\nIf this unit hits with a Cracked [SuperCoin], it does not activate the target's [Sinking] effect (does not consume Count either)
+920||[[walpu6] Pasywka wroga [122302] — nazwa] 흐르는 무력한 눈물|River of Helpless Tears
+921||[[walpu6] Pasywka wroga [122302] — opis] 턴 시작 시 필드에 있는 검 중 [HelplessTear]을 지니고 있는 검이 하나도 없다면, 임의의 검 1개에게 [HelplessTear] 부여 (턴 당 1회, [HelplessTear]이 있는 검이 있는 경우 발동하지 않음)|Turn Start: if none of the swords on the field have [HelplessTear], apply [HelplessTear] to 1 random sword (once per turn; does not activate if a sword has [HelplessTear])
+922||[[walpu6] Pasywka wroga [122303] — nazwa] 볼품없는 긍지|Hollow Pride
+923||[[walpu6] Pasywka wroga [122303] — opis] 첫번째 흐트러짐 이후 턴 종료 시 [ColdBlackTear]을 5 이상 가지고 있는 수감자가 있다면 다음 턴에 광역기를 사용함\n첫번째 흐트러짐 이후 턴 종료 시 모든 수감자에게 [ColdBlackTear]이 있다면, 다음 턴에 [SignOfDespair]를 획득함|Turn End after getting Staggered for the first time: if there is a Sinner with 5+ [ColdBlackTear], uses an AoE Skill next turn\nTurn End after getting Staggered for the first time: if all Sinners have [ColdBlackTear], gain [SignOfDespair] next turn
+924||[[walpu6] Pasywka wroga [122304] — nazwa] 나눠가지는 슬픔|Shared Sorrow
+925||[[walpu6] Pasywka wroga [122304] — opis] 처음 흐트러졌을 경우 다음 턴에 흐트러짐을 해제하고, 매 턴마다 [Protection] 10과 보호막 500 얻음\n다음 턴에 잊혀진 기사의 검을 소환함|When Staggered for the first time, recover from Stagger next turn; then, gain 10 [Protection] and 500 Shield every turn\nSummon a Forgotten Knight's Sword next turn
+926||[[walpu6] Pasywka wroga [122305] — nazwa] 닳디 닳은 기사|Weathered Knight
+927||[[walpu6] Pasywka wroga [122305] — opis] 검이 자신에게 꽂힐 때 마다 매 턴마다 얻는 [Protection]를 3, 보호막을 100 감소하고, [CollapsedPride]를 1 얻음\n자신의 [CollapsedPride]가 3일 경우 [Protection]와 보호막을 더 이상 얻지 않고 다음 턴에 흐트러짐 상태가 되고 [WornOutKnight]를 얻음|Every time a sword pierces this unit, gain 1 [CollapsedPride], and [Protection] gained every turn is reduced by 3 while Shield HP gained every turn is reduced by 100\nAt 3 [CollapsedPride], this unit no longer gains [Protection] and Shield every turn, and instead becomes Staggered next turn and gains [WornOutKnight]
+928||[[walpu6] Pasywka wroga [122306] — nazwa] 하나 남은 정의|One Last Justice
+929||[[walpu6] Pasywka wroga [122306] — opis] 자신에게 [WornOutKnight]가 있는 상태로 아르카나[TabExplain] 슬레이브 적중시, 체력이 5% 미만으로 떨어지지 않고, 턴 종료 시 자결함|When this unit is hit by ARCANA[TabExplain] SLAVE while it has [WornOutKnight]: does not lose HP below 5%, and kills itself at Turn End
+931||[[walpu6] Pasywka wroga [122307] — opis] 처음 흐트러졌을 경우 다음 턴에 흐트러짐을 해제하고, 매 턴마다 [Protection] 10과 보호막 500 얻음\n다음 턴에 마음을 부수는 검, 마음을 찢는 검, 마음을 꿰뚫는 검을 소환함|When Staggered for the first time, recover from Stagger next turn; then, gain 10 [Protection] and 500 Shield every turn\nSummon Heart-breaking Sword, Heart-tearing Sword, and Heart-piercing Sword next turn
+933||[[walpu6] Pasywka wroga [122308] — opis] 자신에게 [WornOutKnight]가 있고 체력이 600 미만인 상태로 아르카나[TabExplain] 슬레이브 적중시, 체력이 5% 미만으로 떨어지지 않고, 턴 종료 시 자결함|When this unit is hit by ARCANA[TabExplain] SLAVE while it has [WornOutKnight] and is at less than 600 HP: does not lose HP below 5%, and kills itself at Turn End
+934||[[walpu6] Pasywka wroga [122401] — nazwa] 절망을 찌르는 검|Despair-piercing Sword
+935||[[walpu6] Pasywka wroga [122401] — opis] [HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂힘|If a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair[TabExplain]

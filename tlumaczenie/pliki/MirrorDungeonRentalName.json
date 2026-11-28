@@ -1,0 +1,238 @@
+{
+  "entries": {
+    "dataList[id=10].content": {
+      "pl": "Rozdarcie",
+      "kr_sha256": "ac357921c019ff11e7b60482d18a11b05ab4d836cff3ffb869e35519d3dbc388",
+      "en_sha256": "45ab2e3f28dc2a998a91a20f134145ba90d81ff41568475d64ead25238e24d00",
+      "origin": "ai"
+    },
+    "dataList[id=11].content": {
+      "pl": "Kłucie, Oddech",
+      "kr_sha256": "457f68b1e78b1566d0146a76355042b899c4f3972be6442a14e9e22d00ad0aab",
+      "en_sha256": "414db87e9079d3bcc51ac5ab3306fa9d1c7bab652535036d2e0eabfb2a0d6be1",
+      "origin": "ai"
+    },
+    "dataList[id=12].content": {
+      "pl": "Ładunek",
+      "kr_sha256": "01de6fca3ec9d54ab901f983b4c115125301648cb571f70cfe5074dde2b26b86",
+      "en_sha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+      "origin": "ai"
+    },
+    "dataList[id=13].content": {
+      "pl": "Zatonięcie",
+      "kr_sha256": "591ac96bf0294f71a33366034b7a3607ec3655d4def40516b9c746e5b47a86a7",
+      "en_sha256": "1b3177af2bb09e265df0da55068e1acef48f8d87a46664a508c1fdff7ed342d6",
+      "origin": "ai"
+    },
+    "dataList[id=14].content": {
+      "pl": "Zatonięcie, Oddech",
+      "kr_sha256": "09c8bb42e9aec7aaaf1dbf78494e70a58fd4106c335efacf56ddf69bb96968ae",
+      "en_sha256": "060c67da6a5fd1cd6e0d9d6965f41b61eeec370177f6a22ee1edffbbd05b3107",
+      "origin": "ai"
+    },
+    "dataList[id=15].content": {
+      "pl": "Krwawienie, Zawiść",
+      "kr_sha256": "a2df5a435b645f8b6696985082754edbb4a3d5eae32f78bd2eba5a00c5c61d02",
+      "en_sha256": "a17b96f2965f287c9cf3466bfb111872df6771af874fe89752bb39c3a14fc138",
+      "origin": "ai"
+    },
+    "dataList[id=16].content": {
+      "pl": "Zatonięcie",
+      "kr_sha256": "591ac96bf0294f71a33366034b7a3607ec3655d4def40516b9c746e5b47a86a7",
+      "en_sha256": "1b3177af2bb09e265df0da55068e1acef48f8d87a46664a508c1fdff7ed342d6",
+      "origin": "ai"
+    },
+    "dataList[id=17].content": {
+      "pl": "Zatonięcie",
+      "kr_sha256": "591ac96bf0294f71a33366034b7a3607ec3655d4def40516b9c746e5b47a86a7",
+      "en_sha256": "1b3177af2bb09e265df0da55068e1acef48f8d87a46664a508c1fdff7ed342d6",
+      "origin": "ai"
+    },
+    "dataList[id=18].content": {
+      "pl": "Zatonięcie, Oddech",
+      "kr_sha256": "09c8bb42e9aec7aaaf1dbf78494e70a58fd4106c335efacf56ddf69bb96968ae",
+      "en_sha256": "060c67da6a5fd1cd6e0d9d6965f41b61eeec370177f6a22ee1edffbbd05b3107",
+      "origin": "ai"
+    },
+    "dataList[id=19].content": {
+      "pl": "Rozdarcie",
+      "kr_sha256": "ac357921c019ff11e7b60482d18a11b05ab4d836cff3ffb869e35519d3dbc388",
+      "en_sha256": "45ab2e3f28dc2a998a91a20f134145ba90d81ff41568475d64ead25238e24d00",
+      "origin": "ai"
+    },
+    "dataList[id=1].content": {
+      "pl": "Kłucie, Oddech",
+      "kr_sha256": "457f68b1e78b1566d0146a76355042b899c4f3972be6442a14e9e22d00ad0aab",
+      "en_sha256": "414db87e9079d3bcc51ac5ab3306fa9d1c7bab652535036d2e0eabfb2a0d6be1",
+      "origin": "ai"
+    },
+    "dataList[id=20].content": {
+      "pl": "Ładunek, Rozdarcie",
+      "kr_sha256": "a469c226168d01b6f70eb0e0debc6c476b158b1b805d18b9f35551a2ab24a1b0",
+      "en_sha256": "02ed28d265e5f2169dd988b2a5e2b69046409c6a82e7254585bf54a724505a24",
+      "origin": "ai"
+    },
+    "dataList[id=21].content": {
+      "pl": "Krwawienie, Ładunek",
+      "kr_sha256": "693e30f447e8bab6910a4890a9fb8ecacc582435c82c6f9e35aefd5d87efbb4c",
+      "en_sha256": "131ade05613a2881088520bf67253a400b8f2d26e2a18816ee09dc4e57284ef8",
+      "origin": "ai"
+    },
+    "dataList[id=22].content": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    },
+    "dataList[id=23].content": {
+      "pl": "Zawiść, Krwawienie",
+      "kr_sha256": "7c2e0d9a1a23f5bdc48ddd6838ba149317981a0d5c46e36b4a89ae760ddcca49",
+      "en_sha256": "d41e1fab2cc5bb6ff6b7edd0d149b607619c4551b0df0e59c5fb99bd92b55132",
+      "origin": "ai"
+    },
+    "dataList[id=24].content": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    },
+    "dataList[id=25].content": {
+      "pl": "Zawiść, Krwawienie",
+      "kr_sha256": "7c2e0d9a1a23f5bdc48ddd6838ba149317981a0d5c46e36b4a89ae760ddcca49",
+      "en_sha256": "d41e1fab2cc5bb6ff6b7edd0d149b607619c4551b0df0e59c5fb99bd92b55132",
+      "origin": "ai"
+    },
+    "dataList[id=26].content": {
+      "pl": "Krwawienie, Oddech",
+      "kr_sha256": "78d7a5f3e90609e672727f8ca8d544bd0cab8935c9f33fddd370f99cf5b1c535",
+      "en_sha256": "8ee286e9121d490e515320ee1226e7c005c649630df20e845b99d5cc4e2b541a",
+      "origin": "ai"
+    },
+    "dataList[id=27].content": {
+      "pl": "Wstrząs, Podpalenie",
+      "kr_sha256": "aaa93192fa7d2dc27ec32ee3df36c4bf00f4f446d7831fd480fc7704af80e501",
+      "en_sha256": "e4e2386b8f5f757cca32cde800a4d6659b73b5e938afdd3a1110e3020d843ccb",
+      "origin": "ai"
+    },
+    "dataList[id=28].content": {
+      "pl": "Rozdarcie",
+      "kr_sha256": "ac357921c019ff11e7b60482d18a11b05ab4d836cff3ffb869e35519d3dbc388",
+      "en_sha256": "45ab2e3f28dc2a998a91a20f134145ba90d81ff41568475d64ead25238e24d00",
+      "origin": "ai"
+    },
+    "dataList[id=29].content": {
+      "pl": "Ładunek, Rozdarcie",
+      "kr_sha256": "a469c226168d01b6f70eb0e0debc6c476b158b1b805d18b9f35551a2ab24a1b0",
+      "en_sha256": "02ed28d265e5f2169dd988b2a5e2b69046409c6a82e7254585bf54a724505a24",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Wstrząs",
+      "kr_sha256": "8b4519476f7d39b6e3aaa6029c2e06dd7d35b17040ccca042f3c224a3f34464e",
+      "en_sha256": "12b9e407bcba8980b6146c295ae39a3718b8b618ed7445ba1ccab22071c1cd04",
+      "origin": "ai"
+    },
+    "dataList[id=30].content": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    },
+    "dataList[id=31].content": {
+      "pl": "Oddech, Kłucie",
+      "kr_sha256": "021c2a2d8cbaa4c85a07687171594b2ba97b27b58dbc03bf44fba29fc7e2fa0f",
+      "en_sha256": "85796b0500c9ff7b1587a8e4df8d9496ce2145046c9bfa178a12ebf751c51e92",
+      "origin": "ai"
+    },
+    "dataList[id=32].content": {
+      "pl": "Zawiść, Krwawienie",
+      "kr_sha256": "7c2e0d9a1a23f5bdc48ddd6838ba149317981a0d5c46e36b4a89ae760ddcca49",
+      "en_sha256": "d41e1fab2cc5bb6ff6b7edd0d149b607619c4551b0df0e59c5fb99bd92b55132",
+      "origin": "ai"
+    },
+    "dataList[id=33].content": {
+      "pl": "Ładunek",
+      "kr_sha256": "01de6fca3ec9d54ab901f983b4c115125301648cb571f70cfe5074dde2b26b86",
+      "en_sha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+      "origin": "ai"
+    },
+    "dataList[id=34].content": {
+      "pl": "Ładunek",
+      "kr_sha256": "01de6fca3ec9d54ab901f983b4c115125301648cb571f70cfe5074dde2b26b86",
+      "en_sha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+      "origin": "ai"
+    },
+    "dataList[id=35].content": {
+      "pl": "Wstrząs, Ładunek",
+      "kr_sha256": "8ff33dedb8f0717f3abdd53737e449f4da8e520a3701723a82a3ed3214d87490",
+      "en_sha256": "b19b22b8c3ccb92f33cb118dcf5d8481c406d232c2ab66743a24e5175869ac16",
+      "origin": "ai"
+    },
+    "dataList[id=36].content": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    },
+    "dataList[id=37].content": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    },
+    "dataList[id=38].content": {
+      "pl": "Ładunek",
+      "kr_sha256": "01de6fca3ec9d54ab901f983b4c115125301648cb571f70cfe5074dde2b26b86",
+      "en_sha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+      "origin": "ai"
+    },
+    "dataList[id=39].content": {
+      "pl": "Dom Pająków",
+      "kr_sha256": "06cee8329c6ddae3a8f35acf1fe17a20a8423576a96c984d91a6244cbfc6cda3",
+      "en_sha256": "b74e70d906210794ab86a6a0b37cfbcf8ab9b4e64fbb476e5483380f1ccb171e",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Rozdarcie",
+      "kr_sha256": "ac357921c019ff11e7b60482d18a11b05ab4d836cff3ffb869e35519d3dbc388",
+      "en_sha256": "45ab2e3f28dc2a998a91a20f134145ba90d81ff41568475d64ead25238e24d00",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Wstrząs, Podpalenie, Rozdarcie, Oddech, Ładunek",
+      "kr_sha256": "93fcca5db8433fdf46155de65f0cc3a59b5fea01663c598d305b259f44959bcc",
+      "en_sha256": "8d294332cfe42163417fcb0aa75fc6f048d318270ecb47a28159abbb1d72d3d2",
+      "origin": "ai"
+    },
+    "dataList[id=5].content": {
+      "pl": "Podpalenie, Krwawienie, Wstrząs",
+      "kr_sha256": "9e9b7fc2ab8f48ffbcdbf7ca3cd9f04396d0b220e72cfee1139bf008114a603a",
+      "en_sha256": "c2fbdd021b96df9bf566d695083c26793e0a802feb9477274beaa62369c89619",
+      "origin": "ai"
+    },
+    "dataList[id=6].content": {
+      "pl": "Zatonięcie",
+      "kr_sha256": "591ac96bf0294f71a33366034b7a3607ec3655d4def40516b9c746e5b47a86a7",
+      "en_sha256": "1b3177af2bb09e265df0da55068e1acef48f8d87a46664a508c1fdff7ed342d6",
+      "origin": "ai"
+    },
+    "dataList[id=7].content": {
+      "pl": "Krwawienie, Oddech",
+      "kr_sha256": "78d7a5f3e90609e672727f8ca8d544bd0cab8935c9f33fddd370f99cf5b1c535",
+      "en_sha256": "8ee286e9121d490e515320ee1226e7c005c649630df20e845b99d5cc4e2b541a",
+      "origin": "ai"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ładunek, Rozdarcie",
+      "kr_sha256": "a469c226168d01b6f70eb0e0debc6c476b158b1b805d18b9f35551a2ab24a1b0",
+      "en_sha256": "02ed28d265e5f2169dd988b2a5e2b69046409c6a82e7254585bf54a724505a24",
+      "origin": "ai"
+    },
+    "dataList[id=9].content": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    }
+  }
+}

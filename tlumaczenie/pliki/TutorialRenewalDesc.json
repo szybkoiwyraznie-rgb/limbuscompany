@@ -1,0 +1,1192 @@
+{
+  "entries": {
+    "dataList[id=tuto_00_01_01_01].content": {
+      "pl": "Wyjaśnię teraz, jak przebiega walka.",
+      "kr_sha256": "225440df0807032048f922ed3d07abd05ded0278871380593299974ea8aeef76",
+      "en_sha256": "9fdc1f8039f3b044d5f4b9cb5258200822c3de864bc9e91a1b760c0343f17df6",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_01_02].content": {
+      "pl": "Spójrz najpierw na <color=#f8c200>panel dowodzenia<color=#ebcaa2>.\n\nZa pomocą <color=#f8c200>panelu dowodzenia<color=#ebcaa2> wydajesz rozkazy Grzesznikom.",
+      "kr_sha256": "cd1904f7c3e4cc8e87cde5a3d8da8bd7316ecc179c223fe9d08d7049153c10d3",
+      "en_sha256": "ca4c76de85547494849fafdf821fd182fe4ef96bd43d2bc2016bfa34cf3f9008",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_01_03].content": {
+      "pl": "Na <color=#f8c200>panelu dowodzenia<color=#ebcaa2> rozmieszczone są <color=#f8c200>umiejętności<color=#ebcaa2> Grzeszników.",
+      "kr_sha256": "38e7c0493cf14d80c091ba030201335f95e534baf3c224482c3c4825ea0dd552",
+      "en_sha256": "b1f4d3ba5d59d4a26308c97ade316a8a40b5e0049f431f85f6798825b0f8ca6c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_01_04].content": {
+      "pl": "Sterowanie jest proste: <color=#f8c200>połącz umiejętności po kolei od lewej do prawej<color=#ebcaa2>, aby rozpocząć walkę.",
+      "kr_sha256": "9f260efeb3feba9302f506f60d5c00aac88301074645023e5addb91a4e1f97c4",
+      "en_sha256": "cb879a9ad2e7f29c3bf951fdc014967077a81839c1f9a942c85b6fb69adcc819",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_01_05].content": {
+      "pl": "Wydajmy więc pierwszy rozkaz.\n\nNaciśnij i przytrzymaj <color=#f8c200>lewą zębatkę<color=#ebcaa2> panelu dowodzenia.",
+      "kr_sha256": "284d0f2189ce4674d831ab9bb947bf282baf6593cfd30cb85c47c3becf4b6b07",
+      "en_sha256": "d2ae4f3f9ce2dc0dc8478b9d3861cc942c58c44d2d70b9bf20d60f99c0ffb17d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_01_06].content": {
+      "pl": "Trzymając lewą zębatkę, <color=#f8c200>połącz po kolei umiejętności wzdłuż linii pomocniczej<color=#ebcaa2>.",
+      "kr_sha256": "3bc80abef7f290b834797768fa991e0adfcb3d1dece8df6612854c6578fdfccb",
+      "en_sha256": "056e78fa1534c7c6d2c4cdbeb2718271502fb79043dcaf6d1d7ac093dab01d17",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_01_07].content": {
+      "pl": "Doskonale. Gdy wszystkie umiejętności są połączone, naciśnij <color=#f8c200>prawą zębatkę<color=#ebcaa2>, aby rozpocząć walkę.",
+      "kr_sha256": "5288a33837ed83ea956fa3f438104ed576d1ab9515d0f951975b55d66209cff2",
+      "en_sha256": "76c46550e7bf79ec2facef915b50891fe4df7c1e8e4c284210ff333490dc3ffd",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_02_01].content": {
+      "pl": "Właśnie w ten sposób walka toczy się pod dyktando rozkazów Kierownika.\n\nSpróbujemy jeszcze raz?",
+      "kr_sha256": "207713d4dfd02a3872ccefefe3599cb800e6de2149e8cc1114fa6f0356da7cb8",
+      "en_sha256": "ba3427d03fc2a58888cbf42cc484b01aba062f48acc5fb7c05214948fc1ba523",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_02_02].content": {
+      "pl": "Połącz umiejętności na panelu dowodzenia po kolei od lewej do prawej, aby wydać rozkaz.",
+      "kr_sha256": "33d07f90b461ec4ccf3e7e850731cd3a8c45868fbdb0d8a720a4246a0e1611a1",
+      "en_sha256": "7c7011ef9a60576639bd47ab295748439a69225be199e6796a5fa3c4fa5855d8",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_02_03_title].content": {
+      "pl": "Panel dowodzenia",
+      "kr_sha256": "94d559fed5765c00bcbf304729a91ed1c1c239e3e0278bd877c6fee526090055",
+      "en_sha256": "dd780759f1c3e0b9ef76ddfa5d553594b1c9024b031318da6c03676388fbec71",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_01_02_04].content": {
+      "pl": "Panel dowodzenia służy do kierowania walką.\n\nChwyć lewą zębatkę, przeprowadź łańcuch przez kolejne umiejętności aż do prawej zębatki, aby rozpocząć starcie.",
+      "kr_sha256": "153cc0a02ef332c99d1cae9476f2eccd1fe057655c522ed6221f706b0caa4fa2",
+      "en_sha256": "1657b4caa79d670930903747340ac225a7dfcbd43839900688cd10fb98c9d27c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_01].content": {
+      "pl": "Siedmiokątne ikony nad głowami sojuszników i wrogów\nnazywamy <color=#f8c200>slotami umiejętności<color=#ebcaa2>.",
+      "kr_sha256": "24c2a7e7c2f4aac2355dd3b4a17a20a46f797ea5396b326413f335bbb1c3b394",
+      "en_sha256": "28ccc25434ab1b23d43821fc3d7eee52b12822d7b9130b657260b363182817e3",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_02].content": {
+      "pl": "Ponieważ nie wydano jeszcze rozkazu,\nsloty umiejętności sojuszników są na razie puste.",
+      "kr_sha256": "aac12a9f701e340e29f9b2f470e5f2493ed25aa252f48e9b3f26ef96cdd85064",
+      "en_sha256": "f968ff189e679f44c46721ddf2edee39d835ab81311aebce4a8aa6d14439e979",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_03].content": {
+      "pl": "Wybierz i połącz jedną z umiejętności\nw pierwszej kolumnie panelu dowodzenia.",
+      "kr_sha256": "694553d96bd5697661ba6d9ea3f43bd2f93ff8a590e736b2d86719799b79238f",
+      "en_sha256": "18f14f3f5808f9671715469ee4f573e1f203d58bfefeeb47117c2c2c87701ae1",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_04].content": {
+      "pl": "Wybrana przez Kierownika umiejętność zostaje umieszczona w slocie umiejętności.",
+      "kr_sha256": "a83e9cc15b7bacb2f3e381b251ca4dff1172c6a267ee8dc8589e82fb6d9ef948",
+      "en_sha256": "dfa6311306dcd9529856bd993d857ea722e67df7981df641157f723d882a633d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_05_title].content": {
+      "pl": "Sloty umiejętności",
+      "kr_sha256": "1ab8aabdf656ce4d180ebe897eb3d0a29af9a6935f1a89639bd5fd5f288f6c55",
+      "en_sha256": "66ccb52a9e2c832af1b73735a5ac92d0cabd8cc2ce442c896d194bb623448333",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_06].content": {
+      "pl": "Wybrane umiejętności pojawiają się w slotach umiejętności nad głowami Grzeszników.\n\nPo rozpoczęciu fazy walki Grzesznicy ruszają do boju, używając umiejętności ze swoich slotów.",
+      "kr_sha256": "a8b70a291c4a898c3a3bb17b6c1e30da9bf7e51b48f2bddc2f49f64153a48532",
+      "en_sha256": "d7950f3bbc391b69a0b774b24d721c9ef2c2a9beabe647f653728ff0dcae063e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_07].content": {
+      "pl": "Połącz umiejętności na panelu dowodzenia aż do końca, aby obsadzić wszystkie sloty sojuszników.",
+      "kr_sha256": "c62a93fedc5bea36076c73acd4afe787bbd34dc02457434609f8aec7b3404683",
+      "en_sha256": "e7d29b18edb36b3debffb93dcffafcd8a0e0493d9060113dda72e21aa4ac6124",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_01_08].content": {
+      "pl": "Świetnie. Wydanie rozkazu w tym stanie sprawi, że Grzesznicy rozpoczną walkę przy użyciu umiejętności ze swoich slotów.",
+      "kr_sha256": "17d15e5fefbaee5fc64c71208e7f2f1247635f8445a53a10d3dac97c9f766c06",
+      "en_sha256": "7b685284f972dd4e33e5efb7d81b36632fac5faa4825a9f60d1a1e38db1f3ad2",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_02_01].content": {
+      "pl": "Gdy Grzesznik i wróg użyją przeciw sobie umiejętności ataku, dochodzi do <color=#f8c200>„Starcia”<color=#ebcaa2>.",
+      "kr_sha256": "1e3859f0d7e77d36e22e51770f5eb0cdff9e178dc97362e0cdd9782d76ad41dc",
+      "en_sha256": "cab6feee90fcf726920da6e9925202e161d6fb3543ef2f96ee5842c5e85c81d4",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_02_02].content": {
+      "pl": "Podczas <color=#f8c200>„Starcia”<color=#ebcaa2> na podstawie użytych umiejętności wyznaczana jest <color=#f8c200>Moc<color=#ebcaa2> obu stron.",
+      "kr_sha256": "5ac61925192ec5a766418bee73c8d1f9f29bb755eb6cdd368691c7c5dc450811",
+      "en_sha256": "91555d1733efcff3c84c7f493fa14f504efb82ac78d04dd787eb5d55f3599a5a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_02_03].content": {
+      "pl": "<color=#f8c200>„Starcie”<color=#ebcaa2> wygrywa ta z dwóch umiejętności, która ma wyższą <color=#f8c200>Moc<color=#ebcaa2>.",
+      "kr_sha256": "6f6a54b05a224711d9b5957ffaa90c99c0352d6a85f26c7322c272ef1a32f00e",
+      "en_sha256": "118a3f3ba90287dfae6a33bf1b1c8971be94e4ef27072b430f1f48d6e9fa021c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_02_04].content": {
+      "pl": "Po stronie <color=#f8c200>przegranej<color=#ebcaa2> niszczona jest <color=#f8c200>jedna Moneta umiejętności<color=#ebcaa2>.",
+      "kr_sha256": "395a77d42c89c62f5bdd398f8738bad2518cc4a1d00098afeab833e5aec91fd9",
+      "en_sha256": "f64da10225a57d569188b02a27125bf23864e6539002f820dd2b36eabb11b2cc",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_02_05].content": {
+      "pl": "Dopóki obu stronom pozostają <color=#f8c200>Monety umiejętności<color=#ebcaa2>, rzucają nimi ponownie i toczą <color=#f8c200>„Starcie”<color=#ebcaa2> aż do <color=#f8c200>zniszczenia wszystkich Monet<color=#ebcaa2> jednej ze stron.",
+      "kr_sha256": "e352f5c682e010beaed6d218e7f0019ccc23566122a695a1ba2776d14f35d45b",
+      "en_sha256": "ee00f3d3345d51646095762894a9278e9153c7a549fea2b4418cc2a1656a31bd",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_02_06].content": {
+      "pl": "Strona, która w trakcie <color=#f8c200>„Starcia”<color=#ebcaa2> straci wszystkie Monety, przegrywa <color=#f8c200>„Starcie”<color=#ebcaa2>,\nnatomiast <color=#f8c200>zwycięzca<color=#ebcaa2> <color=#f8c200>„Starcia”<color=#ebcaa2> wyprowadza atak.",
+      "kr_sha256": "e1638fe4220de8e9dbe6addf1e61717a8cd74d16e18ab464e5ba61c23549efeb",
+      "en_sha256": "e01eea0a7a8101c94282b5a43d5c9d2d2650468eb794f533ff9250fa195fe54e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_01].content": {
+      "pl": "Sprawdźmy teraz dokładnie, jak wyliczana jest <color=#f8c200>Moc<color=#ebcaa2> decydująca o wyniku <color=#f8c200>„Starcia”<color=#ebcaa2>.\n\nWydaj ponownie rozkaz do walki.",
+      "kr_sha256": "9507be108910dde9e384f9ce5b60e20701d4b4b31db24bae5c1de299074a7997",
+      "en_sha256": "311b6bdde6bfce6d0e28630be560dc79de7cc61608f860ca1fe1a125b6622d6d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_02].content": {
+      "pl": "Tutaj widnieje <color=#f8c200>Moc Bazowa<color=#ebcaa2> umiejętności przed rzutem Monetami.",
+      "kr_sha256": "cbc0503f4dded86f33941dc9fd45b9a27e15db92c6529a769478e3b8a5407dce",
+      "en_sha256": "b32fa592ee94e29fb13f47e77044da98396c0f98671597416015b09e35b6069f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_03].content": {
+      "pl": "Tutaj widnieje <color=#f8c200>Moc Monety<color=#ebcaa2> umiejętności.",
+      "kr_sha256": "9b2965d9b3a5524d356d9ec222834ef29467d40314dc708dbd2b1509aebd97d3",
+      "en_sha256": "06631eb8963a7d17f23db0bcc21ac3ff607305412bf79b46ecc12e186f6a2855",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_04].content": {
+      "pl": "Tutaj wyświetlana jest <color=#f8c200>liczba Monet<color=#ebcaa2> umiejętności.\n\nOznacza ona <color=#f8c200>liczbę szans w „Starciu” oraz liczbę zadawanych ciosów<color=#ebcaa2>.",
+      "kr_sha256": "7898337425c4a17566befbf414faab1e08bdf06138f4e552789fcf027c36e273",
+      "en_sha256": "3a79954f51a82bc57fdc407d07e471fa88246abef54a0985a013b666f96ee3c4",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_05].content": {
+      "pl": "Obie postacie rzucają Monetami i za <color=#f8c200>każdy wyrzucony awers<color=#ebcaa2> dodają do <color=#f8c200>Mocy Bazowej<color=#ebcaa2> wartość <color=#f8c200>Mocy Monety<color=#ebcaa2>.",
+      "kr_sha256": "a767a8c560cf2abea3a684dc6fccf226f73d389812454fb6ec287ea74fc85fd2",
+      "en_sha256": "6ec9e9100d479c12fef066f401820bebff7de73d344ce26c8399a470686e3957",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_05_popup_content].content": {
+      "pl": "Dodanie do <color=#f8c200>Mocy Bazowej<color=#ebcaa2> wartości <color=#f8c200>Mocy Monety<color=#ebcaa2> za <color=#f8c200>każdą Monetę z awersem<color=#ebcaa2> wyznacza <color=#f8c200>Moc Końcową<color=#ebcaa2>.\n\nMonety z awersem świecą jasno, a Monety z rewersem są przyciemnione.",
+      "kr_sha256": "23d443bca7496866f5d0f0308bd00a08d317954a7328a06fdc8d58fef324d4fd",
+      "en_sha256": "ebfbe3643ea980d3985b34cb4a18dcfa2ce40fababfad5abeaa44ceb3d65f903",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_05_popup_title].content": {
+      "pl": "Obliczanie Mocy Końcowej",
+      "kr_sha256": "64fdebb46fc0719c3be70c1fd139606455c38a41ce0e01074bea515b5db20f48",
+      "en_sha256": "03181873281919072af52cdf32b6076a6306e84734a0f2c363cc5b03ed0c5679",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_06].content": {
+      "pl": "Tutaj widnieje <color=#f8c200>końcowa<color=#ebcaa2> wyliczona <color=#f8c200>Moc umiejętności<color=#ebcaa2>.\n\n<color=#f8c200>Umiejętność „Mocny Cios” ma wyższą Moc, więc niszczy 1 Monetę wroga.<color=#ebcaa2>",
+      "kr_sha256": "8bc35cefe71b4a7af176b7c7470062e7f1c40764a1e8c278e7c12c90ca619952",
+      "en_sha256": "38c0fb97411b5eaefbaff3930e5960995971d251ec2ecb0eb6fcd5374360b402",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_02_03_07].content": {
+      "pl": "<color=#f8c200>„Starcie”<color=#ebcaa2> trwa, dopóki jedna ze stron nie straci wszystkich Monet, a <color=#f8c200>strona z ocalałymi Monetami wygrywa „Starcie”<color=#ebcaa2>.\n\nPamiętaj, że kluczem do zwycięstwa jest strategia pozwalająca wygrywać <color=#f8c200>„Starcia”<color=#ebcaa2>.",
+      "kr_sha256": "6c299ba8655c265255f10ecc77a0adea3d3a7614a2e1b72a12e92e669a2b88d9",
+      "en_sha256": "06b863805e073ac09d81ca8e44d95abefe7758203e4a9a4703a6a8a9c0339d7f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_01_01].content": {
+      "pl": "Poznajmy teraz <color=#f8c200>„Poczytalność” (PP)<color=#ebcaa2>.\n\n<color=#f8c200>„Poczytalność”<color=#ebcaa2> rośnie maksymalnie do 45 i spada minimalnie do -45.",
+      "kr_sha256": "b950f66804b2b18f431df2ca62918bebee5a0fa65bfb835fd7e0b2ba1e5a7bd5",
+      "en_sha256": "4ae29788b3d36966e4d566ae2e250ad24cafaf54ad8164363f39815879d1a362",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_01_02].content": {
+      "pl": "<color=#f8c200>„Poczytalność”<color=#ebcaa2> Grzeszników sprawdzisz także na kulach obok ich portretów u dołu ekranu.",
+      "kr_sha256": "f802a1fc721f0c63fd9edd80ec686030c06c130034950c506dad75c096db3d29",
+      "en_sha256": "3bf67ad3b30ebe028c794c726343ec6e901d697ecb8f971e9197cedaf12cac87",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_01_03].content": {
+      "pl": "Wydaj rozkaz do walki.",
+      "kr_sha256": "120887dd2887afa214aaac1b48f25bbe1786db4cff804a87ae7d4557a525e030",
+      "en_sha256": "0e7aaf2c117dd324fb66eed8b066a61037cc2842dc0a3b620021a00b6a9f41e7",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_01_04].content": {
+      "pl": "<color=#f8c200>„Poczytalność”<color=#ebcaa2> <color=#f8c200>rośnie w korzystnych sytuacjach<color=#ebcaa2> (np. po wygraniu Starcia lub pokonaniu wroga)\ni <color=#f8c200>maleje w sytuacjach niekorzystnych<color=#ebcaa2>.",
+      "kr_sha256": "141b936855005b80bcb956ce7bf9ca982fe93443d6cdf76018150e741e0b1153",
+      "en_sha256": "1b5e697d9216f508bae6709ab348da05e08adaac30e47b6ac4f29a75a884c993",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_01_05].content": {
+      "pl": "<color=#f8c200>Im wyższa „Poczytalność”<color=#ebcaa2>, tym <color=#f8c200>większa szansa na awers<color=#ebcaa2> przy rzucie Monetami.",
+      "kr_sha256": "2c9efe3cd3bc39b713b5b821ddfe1ca70053568a4fbffd75582a447c9be66cb0",
+      "en_sha256": "cf98d4a7958feb1e4ec8330f673aba9197e0df5bd37cf4445c919bc7d7f09ba4",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_02_01].content": {
+      "pl": "W poprzedniej turze wszyscy sojusznicy wygrali Starcia, więc mamy przewagę.\nWydaj kolejny rozkaz do walki.",
+      "kr_sha256": "cdf094cb649b69c6c7c866df33732d1046cdff1c28e89ade6c8a22d541fe7651",
+      "en_sha256": "bd1e832bf81fc5e78fb782ae7005ed62bc5163c922942bfe8d505def2ec33fa4",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_02_02].content": {
+      "pl": "Na pasku PŻ każdej postaci linia oznacza próg <color=#f8c200>„Oszołomienia”<color=#ebcaa2>.",
+      "kr_sha256": "da2bb4f6f3baa05ed4a46f01e0c8e39664886fa9b8854bf57b6fe5f60e517801",
+      "en_sha256": "237790119295f602583b604a8972b8306502342edbc4e6522d619c9def647f7f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_02_03].content": {
+      "pl": "Gdy wskutek obrażeń PŻ spadną poniżej progu <color=#f8c200>„Oszołomienia”<color=#ebcaa2>, postać wpada w <color=#f8c200>„stan Oszołomienia”<color=#ebcaa2>.",
+      "kr_sha256": "3d84973d8e99ebb1002e7804606931a3ceee6005e2ec342e2877b1a81e937068",
+      "en_sha256": "a98f5b0987155b03c2d5c1b2516eeaacdd81e6932bc529dcbcf7575936193b4e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_03_01].content": {
+      "pl": "Cel w <color=#f8c200>„stanie Oszołomienia”<color=#ebcaa2> nie może wykonywać akcji i otrzymuje znacznie większe obrażenia, co stawia go w fatalnym położeniu.",
+      "kr_sha256": "bfd591ed6cfb5fb9fffbf1f18a5c5be11d718ec2f6c2e02ee9f05cf44b9e4eb9",
+      "en_sha256": "a43828b931897735eda7cafed6c779d5a7bdc70d99fe3149a35b6b1f414b3421",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_04_01].content": {
+      "pl": "Pokonanie wroga w poprzedniej turze złamało morale pozostałych,\nprzez co wpadli w stan <color=#f8c200>„Paniki”<color=#ebcaa2>.",
+      "kr_sha256": "ed8afb37d5302e7b01ab65a74e0d9818bbe456a4957be9166098105f0a52086d",
+      "en_sha256": "f30109df0952e3434a611fe5f2eef4a554320095d03367d9e1c15073160a079e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_04_02].content": {
+      "pl": "Wróg, którego PP spadną poniżej określonego progu, wpada w <color=#f8c200>„Niskie Morale”<color=#ebcaa2> lub <color=#f8c200>„Panikę”<color=#ebcaa2> i otrzymuje negatywne efekty.",
+      "kr_sha256": "79d2ceaa788e016d8b630cd739830ed7a25515908864cb6f8e70b8493f8c6a89",
+      "en_sha256": "997d7e863199b0261c8c1c62d3d40c383cca840509c568e34fabdfc45aab03bb",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_04_03].content": {
+      "pl": "Aktywne efekty <color=#f8c200>„Niskiego Morale”<color=#ebcaa2> lub <color=#f8c200>„Paniki”<color=#ebcaa2> wyświetlane są w tym miejscu.",
+      "kr_sha256": "51014de58b2b5fb5f9bc790d5da57845351f994ef7253f772d8366fef7d37043",
+      "en_sha256": "4ad4d529a60ace4f2acf1f475c92d9ea0141fdd5e931ce7d7b685d338a8b6424",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_03_04_04].content": {
+      "pl": "Efekty <color=#f8c200>„Niskiego Morale”<color=#ebcaa2> i <color=#f8c200>„Paniki”<color=#ebcaa2> różnią się zależnie od jednostki.\nKliknij dolną ikonę, aby sprawdzić dokładne działanie efektu.",
+      "kr_sha256": "b5f0df3b17921542fa05cb42e6f470164afabb0fb2358df76faeac4a2de892d1",
+      "en_sha256": "feae64e0b4df5dd3905e38b8c72a806fe0984b1eacdd5c5c0d371a84811f67e0",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_01].content": {
+      "pl": "Kliknij postać, aby wyświetlić jej <color=#f8c200>informacje<color=#ebcaa2>.",
+      "kr_sha256": "2aa96c4596f306310dce47ecdd51e3b94109e21cafa16ff7a2bdd0ebcde113ea",
+      "en_sha256": "7894b9afb511bc2206af8b301cd7d74f6a8ae8cdaa615c1894913a7528050522",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_02].content": {
+      "pl": "Tutaj sprawdzisz podstawowe <color=#f8c200>statystyki<color=#ebcaa2> postaci.",
+      "kr_sha256": "f12476d21cfd582d21f8808300bff68ecd5ef791dfdfc81dc1ea816a4724f2f1",
+      "en_sha256": "ceafe84e68d3115d0e476a6369064e25df9a9560cb4f80890a181a178c26ddbc",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_03].content": {
+      "pl": "Tutaj sprawdzisz <color=#f8c200>stan rozwoju<color=#ebcaa2> oraz <color=#f8c200>posiadane umiejętności<color=#ebcaa2> postaci.",
+      "kr_sha256": "97c449d1c3179c7c952afd9fe09b7ea8b7aab4391b88c390d91b56cab0ee9d9c",
+      "en_sha256": "8b9a0cb2dab1ea1971b12d4ce577d3ca47d821244e3419ae402db61975b27fad",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_04].content": {
+      "pl": "W ten sam sposób możesz sprawdzić także informacje o wrogach.",
+      "kr_sha256": "f301d172bf5c78958a07de8cb7c6415e3138edb535bd6cce1f473cd7bbd972d9",
+      "en_sha256": "5c83bf32803308ea2bae93b5e55401513b17bbe6ddda37ff910a8eac5a5a56aa",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_05].content": {
+      "pl": "Każda postać ma określone <color=#f8c200>odporności<color=#ebcaa2>.\nTutaj sprawdzisz, <color=#f8c200>na jakie ataki jest podatna<color=#ebcaa2>.",
+      "kr_sha256": "1580c69abbbd4e85d9b359a8c55a4b034faceb22315b2e832ab9203b2b1c8944",
+      "en_sha256": "ac3de3ba60b8623e703c2bc8832971667d484f1b48731a42ce89a1b091b8a8ef",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_06_title].content": {
+      "pl": "Typy ataków i grzechy",
+      "kr_sha256": "601498249b8a223213fd5fb8e44fee013af4869ac64dfca593971e9aefd8249d",
+      "en_sha256": "78e924c79bb4d3a7886ddd575bb8820ec49220ed3f7368946b5385e75309d5e1",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_07].content": {
+      "pl": "Umiejętności dzielą się na <color=#f8c200>3 typy ataków<color=#ebcaa2> oraz <color=#f8c200>7 grzechów<color=#ebcaa2>.\nZadawane obrażenia zależą od odporności celu na te kategorie.",
+      "kr_sha256": "f5eb96b167788a1ad5fc946a6f01c07b45c6f88dff054dcea7de9d4f7c7c2f68",
+      "en_sha256": "076075ca47b1963ce3225e5615492781d7fcef1aaffc2741864ba9449b3fc8e6",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_01_08].content": {
+      "pl": "Rozpoznawanie słabości wroga i atakowanie odpowiednimi atrybutami zapewni ci przewagę w walce.",
+      "kr_sha256": "7dc295110a57c418889dbd7fed1629838f0019aae50cb73ce26b9beb24b5e937",
+      "en_sha256": "aae37935cc3467d15341a44e7edbcd607627270b3c02657395ceee37ddff8983",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_02_01].content": {
+      "pl": "Zazwyczaj najszybciej działa sojusznik zajmujący skrajną lewą kolumnę na dolnym panelu umiejętności.",
+      "kr_sha256": "d439ba440ed9807e0f68cbab758817674fa9c2eb951aa0cde34513295fbce898",
+      "en_sha256": "e5e08b1c3c0ca81f38f80ba4cf0f8aec76fa2d626fab8aee659a63e6cfafc08a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_02_02].content": {
+      "pl": "Z każdą kolejną turą <color=#f8c200>począwszy od sojuszników z najniższym numerem rozstawienia<color=#ebcaa2> dodawany jest 1 slot, dając dodatkową okazję do ataku.",
+      "kr_sha256": "a7f4092796b26a7bb5f1f446009ac9b5ff9cac1d8d7c50763851e66230e53ba6",
+      "en_sha256": "16e34b774c7af9e023b4980066bf46cd844f9299c432835e1db6ee93d2ba4dce",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_03_01].content": {
+      "pl": "Te przyciski powierzają Grzesznikom <color=#f8c200>automatyczny dobór umiejętności<color=#ebcaa2>.",
+      "kr_sha256": "b1fd615876444bb9e3347329a8f9f1c5f30ef55490750844a5d323a61b317b7b",
+      "en_sha256": "e8e307506700f6ce97afd6abdf2779d6c72b140cd15fb4cc3f81785f7bdb8bd0",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_03_02].content": {
+      "pl": "Pozostawienie decyzji osądowi Grzeszników bez rozkazów Kierownika może jednak skutkować nieoptymalną walką — wybór należy do ciebie.",
+      "kr_sha256": "d21eb5aaae9505aa2fb8927b63d48867670b59290d98605748af79706acb954b",
+      "en_sha256": "e04f8db221e124f059a36f181b0159516c5ced79249c42e9cc69fd4116c50f20",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_03_03_title].content": {
+      "pl": "Prognoza Starcia",
+      "kr_sha256": "2b4fa778feb17d3495e0c2ae016c641b409823aa57a309980b72d104f894f946",
+      "en_sha256": "9cac313a42f43607d21d3602b13874fa1668549b18d753e3453e1a573b1ca693",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_00_04_03_04].content": {
+      "pl": "Szansa wygrania Starcia daną umiejętnością w bieżącej sytuacji obliczana jest automatycznie i wyświetlana w tych dwóch miejscach.\n\nPrognoza nie jest nieomylna, lecz pomaga przy podejmowaniu szybkich decyzji.",
+      "kr_sha256": "c532a926f1d1d4c0bf9217a3f14a75687ee5a7c6ec27aac8750b653a17e8d706",
+      "en_sha256": "5cf94307a95c372e7ab1410e0b762fbb584b4d4a3986f2ffa116e6620e360d1b",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_01_01].content": {
+      "pl": "Użycie w jednej turze kilku umiejętności tego samego <color=#f8c200>grzechu (koloru)<color=#ebcaa2> wywołuje <color=#f8c200>„Rezonans”<color=#ebcaa2>.",
+      "kr_sha256": "f1a23bae16812af758b9633ed516eeb6bd65522f3b49b0f63a437f4ce41acd94",
+      "en_sha256": "aa5ef1198d8d5d511cb43099fdc6d1edd17da1b6bb1860dac32d2718341f5ac5",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_01_02].content": {
+      "pl": "Połącz umiejętności tego samego grzechu, aby wywołać <color=#f8c200>„Rezonans”<color=#ebcaa2>.",
+      "kr_sha256": "26e1d5c00729fb63a09a27dfbd2cd7107e03d4e41f2431b995262054c9165474",
+      "en_sha256": "a5e31cf48f2e39167041cfbfd733d30825dfe20cde223d954e912a359f7759a9",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_01_03].content": {
+      "pl": "<color=#f8c200>Połączenie obok siebie co najmniej 3 umiejętności tego samego grzechu<color=#ebcaa2> wywołuje <color=#f8c200>„Rezonans Absolutny”<color=#ebcaa2>.\n\nUtwórz <color=#f8c200>„Rezonans Absolutny”<color=#ebcaa2>.",
+      "kr_sha256": "bb4d0ec27ffe8ae122442eb42e7774f651167bfd170e457e3573d9c11b6f4c0a",
+      "en_sha256": "94466a13c977a314f42c111338f83cad44669e923bd7e12e0d42e6624063f9d3",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_01_04].content": {
+      "pl": "Aktywacja <color=#f8c200>„Rezonansu”<color=#ebcaa2> oraz <color=#f8c200>„Rezonansu Absolutnego”<color=#ebcaa2> zapewnia korzystne efekty, takie jak niewielki wzrost Mocy objętych nim umiejętności.",
+      "kr_sha256": "164dbdc16d548a90fb89b981ec6ef9b472fa3620cd115942a4dfcfde195d1b0e",
+      "en_sha256": "171f7080d870e7bb321e9c839948a6e128374c6162312022d9355fdae5ae6540",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_01_05_title].content": {
+      "pl": "Rezonans",
+      "kr_sha256": "114c9cd3dd2523bbf6fe683c8d7109c81f49ea2984b05ede3bafcb1b65c45213",
+      "en_sha256": "1a5d3460cc2051d30e062c5cc91f2d4c900f816c9520f1253e76d239182bc073",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_01_06].content": {
+      "pl": "Użycie w jednej turze co najmniej 2 umiejętności tego samego grzechu wywołuje <color=#f8c200>„Rezonans”<color=#ebcaa2>.",
+      "kr_sha256": "e19fc9d7fe891ed245ab810b0118c249744df7ee7241a0eddf5d2c29b5110d95",
+      "en_sha256": "100b4327985b2651b8f6d09028ab0dacf62467df2a308a4bad9e40d21a509d81",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_02_01_title].content": {
+      "pl": "Rezonans Absolutny",
+      "kr_sha256": "7db196cb9df209366004156c975d2482d5a170e5ab77368684b46182d826b840",
+      "en_sha256": "461fcbd03022a121e153c665557055e42cba07a9b2df732b20bfe66e7310de9b",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_02_02].content": {
+      "pl": "Połączenie w jednej turze co najmniej 3 sąsiadujących umiejętności tego samego grzechu\nwywołuje <color=#f8c200>„Rezonans Absolutny”<color=#ebcaa2>.",
+      "kr_sha256": "fa27c135237f5bca298ce7e6fcde3bcef8e9bda66754b540c090e2028af62f20",
+      "en_sha256": "43ebf2f5e84106892cdfc00b036abf2cdb26838a6d91c433ae2b86e6ac3b5ee0",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_02_03_title].content": {
+      "pl": "Efekty Rezonansu",
+      "kr_sha256": "443e742938ccb7536525d394889c6aac688899aee4ebb74d0fbc45ad323764c7",
+      "en_sha256": "779c192bac5569ca655b03c68fd431ea6f9a2035e0680ec1c5b130289c9f1306",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_02_04].content": {
+      "pl": "Umiejętności objęte <color=#f8c200>„Rezonansem”<color=#ebcaa2> zostają wzmocnione proporcjonalnie do <color=#f8c200>liczby umiejętności w Rezonansie<color=#ebcaa2>, przy czym <color=#f8c200>umiejętności dalej po prawej<color=#ebcaa2> zyskują silniejszą premię.\n\nPrzy <color=#f8c200>„Rezonansie Absolutnym”<color=#ebcaa2> wzmocnienie otrzymują <color=#f8c200>wszystkie umiejętności w łańcuchu<color=#ebcaa2>.",
+      "kr_sha256": "1879326bddf5d046df5749375721548f679dfb1039a114c90e3ba7d81b5a4959",
+      "en_sha256": "dd98b1a31659d62e4eef8727c3230ffb7a17b6e43869890b42be2ebe19bd971c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_03_01].content": {
+      "pl": "Każda postać posiada unikalną <color=#f8c200>pasywkę<color=#ebcaa2>.",
+      "kr_sha256": "fd87af6244c7c6ad933426c6de8dea160458863d4e6776dff3047536fee395ee",
+      "en_sha256": "d890fd318e86313a8edbb316fafe22b213701aab42a1044a046ef008e8411aa2",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_03_02].content": {
+      "pl": "Kliknij Faust, aby sprawdzić jej <color=#f8c200>pasywkę<color=#ebcaa2>.",
+      "kr_sha256": "5c974da0d31685a968f7d77a2d4368dc51efdeaf1209e3fe5e4a3f9aa1c836d1",
+      "en_sha256": "3414c76c71ef0cd26e74ff806e58f4c683cd311cdb53500404aac97d29b956cc",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_03_03].content": {
+      "pl": "Kliknij zakładkę umiejętności Grzeszniczki.",
+      "kr_sha256": "b399a74efc7d3113792310546996572b4c5664ea536ec261c9c9fbc825c19dc2",
+      "en_sha256": "766f341fc53633abdd460d7dc307bf583da8f96b34307c8b439fa3e548bf2a75",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_03_04].content": {
+      "pl": "Kliknij tutaj przycisk <color=#f8c200>pasywki<color=#ebcaa2>, aby sprawdzić warunek aktywacji oraz efekt.",
+      "kr_sha256": "bce4a526e6fa6b36461d60d2bdcbe11c0aa11bd01addba94682ec531c990dc7a",
+      "en_sha256": "90fd8f274c751577be9b284c6e977ca21da5a267ff8c4ec4dd181e6652521dcd",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_03_05].content": {
+      "pl": "Pasywka Faust działa w oparciu o <color=#f8c200>„Rezonans”<color=#ebcaa2>.\nAktywujesz ją poprzez wyjaśniony wcześniej <color=#f8c200>„Rezonans”<color=#ebcaa2>.",
+      "kr_sha256": "8d48145bf14d99356c9c70cd2dff052f97bb0b13b1fa186623888ebf8e5da749",
+      "en_sha256": "dfdcd0f8c20858731a390120889683c5252d87641b6ef0bff097ab52038c1a4c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_03_06].content": {
+      "pl": "Wywołaj <color=#f8c200>„Rezonans”<color=#ebcaa2> wymaganego grzechu, aby aktywować <color=#f8c200>„pasywkę Rezonansu”<color=#ebcaa2>.\n\nPasywka Faust wymaga Rezonansu co najmniej 2 umiejętności <color=#004bd5>Pychy (granatowych)<color=#ebcaa2>.",
+      "kr_sha256": "c1d93f7cde2227439d16be144c17372fd01364e159ef789dd9e72af8ca91473e",
+      "en_sha256": "e9d2836cb50ec99c51061030dfb234c115bf5cfe47d3ac977bf795e2552ff839",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_01].content": {
+      "pl": "Sprawdźmy teraz inny rodzaj pasywki.\n\nPasywki przejrzysz również pod ikonami w <color=#f8c200>lewym górnym rogu<color=#ebcaa2>.\nKliknij podświetloną ikonę Grzesznika Meursaulta.",
+      "kr_sha256": "5a5afeed637fb9bac173a12e2a8eec5b3928a73285ad5d8e646dc7d77d74b8fe",
+      "en_sha256": "64b319ee6c3f7ea0566e8e162887d6cdbb31db31f37005c9d7338c5082ffa74d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_02].content": {
+      "pl": "Pasywka Meursaulta działa w oparciu o <color=#f8c200>„Posiadanie”<color=#ebcaa2>.\n\n<color=#f8c200>„Pasywka Posiadania”<color=#ebcaa2> aktywuje się automatycznie co turę, jeśli posiadasz wymaganą liczbę <color=#f8c200>zasobów E.G.O<color=#ebcaa2>.",
+      "kr_sha256": "11117f2a39dc509a4b59b576a7e0f98adcaa4741ba9a63d3613666feb6ec3ca4",
+      "en_sha256": "8b68ad09176cfc61a53bb199819a1519ff6944197197cf787f9a4ae5463cd108",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_03].content": {
+      "pl": "Ta pasywka wymaga posiadania 2 zasobów <color=#fbc82b>Lenistwa (żółtych)<color=#ebcaa2>.",
+      "kr_sha256": "d1f522fdeb68b3c78182a6106d94af544af598d43570be70fded6c0ba2a2569d",
+      "en_sha256": "8265dfccc4931e077c1bb114ff5aa90ce395c5e2069964a8945f7a9b02268aac",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_04].content": {
+      "pl": "<color=#f8c200>Użycie umiejętności<color=#ebcaa2> zapewnia <color=#f8c200>zasób odpowiadającego jej grzechu<color=#ebcaa2>.\n\nPonieważ w poprzedniej turze zebraliśmy dość zasobów <color=#fbc82b>Lenistwa (żółtych)<color=#ebcaa2>, ta <color=#f8c200>„pasywka Posiadania”<color=#ebcaa2> jest już aktywna.",
+      "kr_sha256": "cd277cf3dc5fee38400528e6aaf217e79cb30738735e914da87d4b1a5538a5f9",
+      "en_sha256": "8054f8e478a1f13d7329b8f3523bd3b5c58596e22a21d7f05a9082c543df1ec7",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_05].content": {
+      "pl": "Aktualnie aktywne pasywki są podświetlone.",
+      "kr_sha256": "84a2c7f44ed90dccaa507eb96b2de596a0ea28074fc5b8792e5afda925d98268",
+      "en_sha256": "85029e5710d8fcd57774e00642af14bed0ed7293c6f7bce6a8d23c41f030e441",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_06].content": {
+      "pl": "Grzesznicy nieuczestniczący bezpośrednio w walce wspierają walczących poprzez „pasywki wsparcia”.\n\n<color=#f8c200>„Pasywki wsparcia”<color=#ebcaa2> sprawdzisz w tym miejscu.",
+      "kr_sha256": "1c846458187677385ae8d0403bbfa170040616a74b51f13836883eb3303a6855",
+      "en_sha256": "145114b26af26d69956e21ad64f5cf75665a46ef15049fdee53b9ed7840b6d44",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_07_title].content": {
+      "pl": "Pasywki wsparcia",
+      "kr_sha256": "d849898519489f90dcd748eece61e807c058f93d794e41e3d8cfa4e5173fc1ba",
+      "en_sha256": "ff6247a40f409f9fa9abb20adfd7506efa6275f852754ce12c4aae4811ce7a5b",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_02_04_08].content": {
+      "pl": "Odpowiednio rozwinięci Grzesznicy niebiorący udziału w starciu wspierają sojuszników swoimi „pasywkami wsparcia”.\nPodobnie jak zwykłe pasywki, aktywuje się je poprzez <color=#f8c200>„Rezonans”<color=#ebcaa2> lub <color=#f8c200>„Posiadanie”<color=#ebcaa2>.",
+      "kr_sha256": "10cf824bda66a6d32c8574119b070b02ca76752201fb760c96a98284e17945d3",
+      "en_sha256": "9dc13b4907a2af68de85fa574392fdfd258d88c72c72c98a7c6358f7e548e683",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_01].content": {
+      "pl": "Oprócz umiejętności ataku postacie posiadają również <color=#f8c200>„umiejętności obrony”<color=#ebcaa2>.",
+      "kr_sha256": "e9f8b38c429d347bacbac4598568b1ac49bf0f5404fb375b7f87bdd343ec2027",
+      "en_sha256": "b145f16cf0e27d15a3b0140e87ee14066ac7fbabbbb08fbdc032b572c1956e33",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_02].content": {
+      "pl": "Krótkie dotknięcie portretu Grzesznika u dołu ekranu zamienia jego dolny slot na\n<color=#f8c200>„umiejętność obrony”<color=#ebcaa2>.",
+      "kr_sha256": "3a0cf1c609182798f6c19d14898315ba713223ce44f82f64875d1dbd90adc794",
+      "en_sha256": "1e88b0df8452703437ebf6c40a1484e6f2f91e7ad8ce3db91917da9357c65818",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_03].content": {
+      "pl": "Najpierw dotknij portretu Meursaulta, aby wygenerować umiejętność <color=#f8c200>„Gardy”<color=#ebcaa2>.",
+      "kr_sha256": "b66e9e204a871d21bd9fb75bd6fdbbf384762ef7bd5cf812018861987d71e66c",
+      "en_sha256": "5aacb1d9fb0d930fd4a5367244136836892d137074f242990480c5f429689b31",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_04].content": {
+      "pl": "Teraz dotknij portretu Faust, aby wygenerować umiejętność <color=#f8c200>„Uniku”<color=#ebcaa2>.",
+      "kr_sha256": "66fa69785c7a64b919d86750c6c3abaed68ef2e784b37ca824f078a2656e1afc",
+      "en_sha256": "67db7347caa6cb64de30c954638da748295ab36943beb8ef78e7f764de979f3d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_05].content": {
+      "pl": "Na koniec dotknij portretu Heathcliffa, aby wygenerować umiejętność <color=#f8c200>„Kontry”<color=#ebcaa2>.",
+      "kr_sha256": "465f2596879aa33301d7c9bb2a49c03766a9c61e4df11b9041bdb6ada2ef7357",
+      "en_sha256": "f3cc1b1fc5c131170c6a331babc0e95d64ab91d4945ad1eef08b314c1c62893a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_06_title].content": {
+      "pl": "Umiejętności obrony — Garda",
+      "kr_sha256": "80d9d7dc895afd5a7ffd2737eb2abd1a96ba876af7907ce15a06efff0452d2d0",
+      "en_sha256": "57ab7bc8ed2dfb24f0028154961fab1156885adf6a4297c4e495bc7195b2ae0e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_07].content": {
+      "pl": "<color=#f8c200>„Garda”<color=#ebcaa2> zapewnia <color=#f8c200>Tarczę<color=#ebcaa2> równą jej Mocy.\nPrzy otrzymywaniu obrażeń w pierwszej kolejności pochłania je Tarcza zamiast PŻ.",
+      "kr_sha256": "d80967685f6c1e26588f17de0f4a5a4c83ac8221bbfb903e3a686b0d60c621ff",
+      "en_sha256": "f82878ff9670137ddb300bb64e2e3f5f31dad7ba91f3b9f8b8fdd760b5557fbc",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_08_title].content": {
+      "pl": "Umiejętności obrony — Unik",
+      "kr_sha256": "2af4ab6bbae692a3c98b6c8569508a18d73c50055c703cf9676ce21c761d454a",
+      "en_sha256": "4e047253900ab2ae718b3643f9f8d9f0e546d1bc420b87662d6fee7aae101c4d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_09].content": {
+      "pl": "Jeśli Moc Końcowa <color=#f8c200>„Uniku”<color=#ebcaa2> jest równa lub wyższa od Mocy umiejętności wroga, całkowicie <color=#f8c200>unika<color=#ebcaa2> on ataku.\nTest powtarzany jest dla każdej Monety ataku wroga; jeśli Moc Końcowa okaże się niższa od wroga, Unik nie zadziała.",
+      "kr_sha256": "1ee0212cc646e49416722bbce24d4434703b582707922ebf00d8ee9c6f614188",
+      "en_sha256": "81cbd6ec13f85deb9f40cb5b5f1b03ac91c491e966351b76b4992ca378f9b6c2",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_10_title].content": {
+      "pl": "Umiejętności obrony — Kontra",
+      "kr_sha256": "2ab7b56ece1f7cd9d810ed7bd4c2a7e7accb6c3a90f3819220680f9ec10b95f3",
+      "en_sha256": "b7c34496b681b35e9fb6bdf522fa07951549b1088fb19fa12aecff9ab0e453d6",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_11].content": {
+      "pl": "<color=#f8c200>„Kontra”<color=#ebcaa2> <color=#f8c200>po otrzymaniu trafienia wyprowadza atak jednostronny<color=#ebcaa2> w agresora.\nUwaga: jeśli postać ulegnie Oszołomieniu od ciosu wroga, nie wykona Kontry.",
+      "kr_sha256": "b6396f59dfe78225a95df039cc490fde7436615808248e10cbb5291df627eeab",
+      "en_sha256": "25df47794f1c3950ed65bfdad6ac2afa0fbd01a8a71b289cf6996ddb9acdc503",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_12].content": {
+      "pl": "Ponowne dotknięcie portretu Grzesznika\n<color=#f8c200>anuluje wygenerowaną „umiejętność obrony”<color=#ebcaa2>.",
+      "kr_sha256": "1a96d0fd43b0def27b791f03f96e00969bf0c6383ebc0baec94a844405b86d5c",
+      "en_sha256": "e66aa97231abdd2bd0ee3a2be6c2ef37731e5309d7ac5d2704cd7a69877b8ae3",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_01_13].content": {
+      "pl": "Sprawdźmy teraz ich działanie bezpośrednio w walce.\n\nPołącz <color=#f8c200>„umiejętności obrony”<color=#ebcaa2> i wydaj rozkaz do starcia.",
+      "kr_sha256": "4bcc5d5ae6e9fa7f18e7e7af3d55ad256f1eab91597401b8fa5accb2db19755c",
+      "en_sha256": "9ffbad28354312b386023a55ffd71113e19cd2a46d700898c59339e835dd0e65",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_02_01].content": {
+      "pl": "Użyte we właściwym momencie <color=#f8c200>„umiejętności obrony”<color=#ebcaa2> potrafią przynieść większą korzyść niż atak, lecz w nieodpowiedniej sytuacji mogą okazać się ryzykowne.",
+      "kr_sha256": "aecb6efea49ba308c151377d9dfb7bd1327a7c946d89f0cacff655d3962251f1",
+      "en_sha256": "1ed77e6a3102f3d626ee38e78e1428cac642842f547123f586e267351d6d97ee",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_03_02_02].content": {
+      "pl": "Pamiętaj też, że Grzesznicy nie użyją <color=#f8c200>„umiejętności obrony”<color=#ebcaa2> bez <color=#f8c200>bezpośredniego rozkazu<color=#ebcaa2> Kierownika — miej to na uwadze podczas korzystania z <color=#f8c200>automatycznego doboru umiejętności<color=#ebcaa2>.",
+      "kr_sha256": "d56f94ec9cfec794a7fe6a1cbecd76e3af163f49c251f8726bdd4655f8f0593a",
+      "en_sha256": "fb6daf5e7fd3b45de0c0790f86ab7aa5e9edd06b057441dfff969ebe0b0ff324",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_01_title].content": {
+      "pl": "Gęstość informacji na ekranie walki",
+      "kr_sha256": "3d7b681ba7a1aaac9ffa46267ff5bfcd277c64341ea02a935284549ceb96321f",
+      "en_sha256": "78d22eef0d557beb89451036fe354c61779228e067396d92e40d1a2f1048b5fd",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_02].content": {
+      "pl": "W prawym górnym rogu ekranu walki znajduje się przycisk regulujący ilość wyświetlanych informacji.\n\nPrzyciski ustawiają odpowiednio <color=#f8c200>minimalną / średnią / maksymalną<color=#ebcaa2> ilość informacji.",
+      "kr_sha256": "85a01280e0e2bf31c9688db0e061a56f4f9e3a6fcbb7aad6da2ab8bd07ea95d7",
+      "en_sha256": "a15b2da0815c61207d44924703141b2ff7196f62085cabbdc57561d39241f8b1",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_03_title].content": {
+      "pl": "MAX",
+      "kr_sha256": "2d9c014a222db12a18974be6f44524a0fd4a1ff0e964696e699f81ffba52ffce",
+      "en_sha256": "2d9c014a222db12a18974be6f44524a0fd4a1ff0e964696e699f81ffba52ffce",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_04].content": {
+      "pl": "Konfiguracja maksymalnej ilości informacji.\n\nJest to ustawienie domyślne przy pierwszym uruchomieniu gry.\n\nPokazuje więcej szczegółów niż ustawienia średnie i minimalne.\n\nWyświetla także opisy słów kluczowych używanych w umiejętnościach.",
+      "kr_sha256": "0bef98bd56223ea7021c295e1c0131a159c04881dca3fdbf48e619bed21ab6c7",
+      "en_sha256": "18d1a7a0714afc1b94a9882db361dc3d980d8bca3dce13d998b495d6ebab86b5",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_05_title].content": {
+      "pl": "MID",
+      "kr_sha256": "f78628ad511eefec3601a93744007bb6d56a71ddedf54f58768328920be069f2",
+      "en_sha256": "f78628ad511eefec3601a93744007bb6d56a71ddedf54f58768328920be069f2",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_06].content": {
+      "pl": "Konfiguracja średniej ilości informacji.\n\nW odróżnieniu od ustawienia maksymalnego ukrywa opisy słów kluczowych w umiejętnościach.\n\nPoza tym wyświetla te same informacje co ustawienie maksymalne.",
+      "kr_sha256": "517235d84e429883ef29e0b8f5b9164e1972c8d7a7772bb3be85a0cb2fca73c4",
+      "en_sha256": "da9d3ddc5abc93d6cde3a461c23dcae9271766ba9d50021c4d5cf09828eba997",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_07_title].content": {
+      "pl": "MIN",
+      "kr_sha256": "d319c28c2d23e115501524432e4ae591254394e799bf3e95c53f526525175e4c",
+      "en_sha256": "d319c28c2d23e115501524432e4ae591254394e799bf3e95c53f526525175e4c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_04_01_08].content": {
+      "pl": "Konfiguracja minimalnej ilości informacji.\n\nW odróżnieniu od ustawień MAX i MID nie wyświetla opisów efektów ani słów kluczowych umiejętności.",
+      "kr_sha256": "4458f842f81868f8347c7d044922f19c57478e548655f465dbc302b08014985c",
+      "en_sha256": "7d1c662239d532005dedd6a6f2e386eaf45ccf33a745d430913d216ef2832a88",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_01].content": {
+      "pl": "Poznajmy teraz <color=#f8c200>„E.G.O”<color=#ebcaa2>.",
+      "kr_sha256": "c4bbeb2e72d413552ff44dc681899d5cd5cbec8f9c4d06282fd2cda0fcccde64",
+      "en_sha256": "3a58122567cc1336b57fa4bd16bb66ed2342c0e46bd3946da484b6b733f71204",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_02].content": {
+      "pl": "<color=#f8c200>„E.G.O”<color=#ebcaa2> to <color=#f8c200>unikalne umiejętności Grzeszników<color=#ebcaa2>, których po wyposażeniu można używać <color=#f8c200>niezależnie od Tożsamości<color=#ebcaa2>.",
+      "kr_sha256": "80383832cf155ad9af441d4d7e794eded021f0ed7d70fa15016264f8810045ae",
+      "en_sha256": "4b66a462b509e0cc45f301763351e0627d76564c34bfb15f2b7b1de3817732af",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_03].content": {
+      "pl": "Sprawdźmy <color=#f8c200>„E.G.O”<color=#ebcaa2> Grzesznika Heathcliffa.\n\nNaciśnij i przytrzymaj portret Heathcliffa u dołu ekranu.",
+      "kr_sha256": "225c6a4d2cc685c512e2e8af934288c0330df89806641fd92960d4ef652cdeeb",
+      "en_sha256": "7161c67463ce171f710ce230fb7475cb43aa6dac781209972f6b0697336cb8e2",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_04].content": {
+      "pl": "Tutaj widnieją wszystkie <color=#f8c200>„E.G.O”<color=#ebcaa2> wyposażone obecnie przez Heathcliffa.",
+      "kr_sha256": "c73c0818949496647da57cf0f52599c87774cdfe932f1fd8027a7a8aea235f79",
+      "en_sha256": "26382c8fd73fa27e9e89d8769ba2c9f0fa3a34d42c8451fe556af04f3b6d227b",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_05].content": {
+      "pl": "Użycie umiejętności <color=#f8c200>„E.G.O”<color=#ebcaa2> zużywa\n<color=#f8c200>zasoby E.G.O<color=#ebcaa2> oraz <color=#f8c200>PP<color=#ebcaa2>.\n\nKoszt PP widnieje w lewym górnym rogu karty informacji o <color=#f8c200>„E.G.O”<color=#ebcaa2>.\n\nKliknij teraz <color=#f8c200>„E.G.O” Worek na Zwłoki<color=#ebcaa2>.",
+      "kr_sha256": "3477de02659a2709ab5fc6356c25c9d9578cdaf48924efb0d0f7e3536b2e5752",
+      "en_sha256": "606507e0430b665d8941704003c9f62b4765f8ee4ab813c72f46218653654600",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_06].content": {
+      "pl": "Na razie brakuje zasobów, więc nie możemy użyć umiejętności <color=#f8c200>\n„E.G.O”<color=#ebcaa2>.\n\nKażda umiejętność <color=#f8c200>„E.G.O”<color=#ebcaa2> wymaga <color=#f8c200>zasobów E.G.O<color=#ebcaa2>.",
+      "kr_sha256": "18cb11852d30c55b63d540b29b6c17ae6129da2a9eeb04522c2bf0baae30f7df",
+      "en_sha256": "cd3429ae35f4e6577d1cc1b7542599db07221a4a0c95ee7561561f2b4e2148ab",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_07].content": {
+      "pl": "Tutaj pokazane są rodzaje i liczba <color=#f8c200>„zasobów E.G.O”<color=#ebcaa2> wymaganych do użycia tej umiejętności <color=#f8c200>„E.G.O”<color=#ebcaa2>.\n\nPotrzebujemy pomarańczowych zasobów <color=#ff6600>„Żądzy”<color=#ebcaa2> oraz fioletowych zasobów <color=#9500de>„Zawiści”<color=#ebcaa2>.",
+      "kr_sha256": "663441b2907e404bcc37d563fa30ad4b26550ec601438c0d5aca0c76cbc08fc5",
+      "en_sha256": "a48655919a69a5066adb2f0162be750f50c3824766881d73ea45a73be4762ee2",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_08].content": {
+      "pl": "Posiadane <color=#f8c200>„zasoby E.G.O”<color=#ebcaa2> sprawdzisz w tym miejscu.\n\nJeśli nazwy grzechów <color=#f8c200>„zasobów E.G.O”<color=#ebcaa2> są ci jeszcze obce, możesz kliknąć ikony grzechów w oknie statusu, aby podejrzeć ich nazwy.",
+      "kr_sha256": "6b97129895782ee7a6823ed753fe3a1e1fc5cece8e808e693ab25b3d19461941",
+      "en_sha256": "151fa8483b079a07f3eb9763325352d5d52e95aad8905260a5ba70bc46827c25",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_01_09].content": {
+      "pl": "<color=#f8c200>„Zasoby E.G.O”<color=#ebcaa2> gromadzisz, używając umiejętności w walce.\n\nNa szczęście obecni na polu bitwy Grzesznicy dysponują umiejętnościami potrzebnych grzechów — użyj ich.",
+      "kr_sha256": "e259a3ce9c3087fe5ce8dcefe1cd7bc9390e8813f2b6dfe5aa618e0630f35f05",
+      "en_sha256": "95b9ba008c2b3aeacbc191f0dffe075b2e3e50da676b33eff40150ec4e2debf1",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_01].content": {
+      "pl": "Naciśnij przycisk <color=#f8c200>Szansy<color=#ebcaa2>, aby wydać rozkaz do walki.",
+      "kr_sha256": "b94137cf5324e425f763086f38ec8486d207e695afab93c61c58d524279c2414",
+      "en_sha256": "e8c9d63845c3a4480399a36675db8946d13f307f913395a12cb4bc5480650250",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_02].content": {
+      "pl": "Jeden z wrogów zamierza wyprowadzić przeciwko Heathcliffowi <color=#f8c200>potężny atak<color=#ebcaa2>, który trudno będzie odeprzeć.",
+      "kr_sha256": "d9d28c19174e1f5058c3d5841e53d195def45c19321ea83c54cded34ca789382",
+      "en_sha256": "4cabf5e91c98849e240241e5c2bc00dea3735284da220ebf05f47fe6e1f72e95",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_03].content": {
+      "pl": "Gdy trudno wygrać <color=#f8c200>„Starcie”<color=#ebcaa2>, sytuację może uratować umiejętność <color=#f8c200>„E.G.O”<color=#ebcaa2>.\nJej wysoka Moc świetnie radzi sobie z groźnymi atakami.",
+      "kr_sha256": "11440bf18696d4b79a5ee7dc0080868701bba1725233ab4d4f70c1dbd3c9a539",
+      "en_sha256": "39eb58a8418a281e2afc48f04b20abf5aa17d07dad1032bed564124ce7ff551f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_04].content": {
+      "pl": "Jeśli posiadasz dość zasobów, aby użyć wyposażonego <color=#f8c200>„E.G.O”<color=#ebcaa2>, zostanie to zasygnalizowane wokół portretu Grzesznika.",
+      "kr_sha256": "2ff2ccd09e5640bfbd4476a64239d23690e5d2c4b5899add45360db44b0b95b6",
+      "en_sha256": "0b382b0807ec0cdfb53af12ab720149074bf4e14f863efdeed0aff30f71bbda5",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_05].content": {
+      "pl": "Ponownie przytrzymaj portret Heathcliffa, aby otworzyć wybór <color=#f8c200>„E.G.O”<color=#ebcaa2>.",
+      "kr_sha256": "d16a2751fb5997aff9ac7664db54f755dc723049b310af5223d693f3461ec215",
+      "en_sha256": "79895425240d583b28c138b3fb125f4dd6645d7db69fb26956729a25005ea6b7",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_06].content": {
+      "pl": "Zebraliśmy dość zasobów, więc umiejętność <color=#f8c200>„E.G.O”<color=#ebcaa2> jest już dostępna.\n\nWybierz ponownie <color=#f8c200>Worek na Zwłoki<color=#ebcaa2>, aby umieścić go w slocie.",
+      "kr_sha256": "c085a382de4b08a7269c2a10311a73591936c1583d8837ee6624d6b670ebb6f2",
+      "en_sha256": "5d8c701591ee13797ff6978167d24cd2f2128575e4f2deff00a24447f4590f4e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_07].content": {
+      "pl": "Wybrana umiejętność <color=#f8c200>„E.G.O”<color=#ebcaa2> zostaje automatycznie umieszczona w dolnym slocie danego Grzesznika.",
+      "kr_sha256": "ca9ad25a14940f4b73621fb7c1ce145bda7c84da451db6017457e554d40d6c11",
+      "en_sha256": "a9831f9246e1912544e974f026985ec27dbc4dba6f6eb9825db0faaed3eae729",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_08].content": {
+      "pl": "Jeśli w slocie z „E.G.O” <color=#f8c200>umieścisz inne „E.G.O”<color=#ebcaa2> lub zamienisz go na <color=#f8c200>umiejętność obrony<color=#ebcaa2>, poprzednie „E.G.O” zostanie zdjęte, a zasoby E.G.O zwrócone.",
+      "kr_sha256": "de208b1c4cfd84baaa0fb9fcff35979a70710c5dcf363cb44722445a43c14f43",
+      "en_sha256": "ad11d8c7ca84f9647b0511fb7921e430e3ac3e5f9f5d37fdfd009025126af331",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_09].content": {
+      "pl": "Wznów teraz walkę.",
+      "kr_sha256": "e4bb142c5373b9af4e9fa93d65aa3d1b970abe28402e482204f0499ec41d2246",
+      "en_sha256": "5e0db202ae4064051cd47494339ba31651b7fce5b60859a0967f318e454d746a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_02_10].content": {
+      "pl": "W momencie rozpoczęcia ataku umiejętnością <color=#f8c200>„E.G.O”<color=#ebcaa2>\nzużywane są wymagane <color=#f8c200>PP<color=#ebcaa2>.\n\nUważaj: przy zbyt niskich PP Grzesznik może wpaść w <color=#f8c200>Panikę<color=#ebcaa2> lub ulec <color=#f8c200>Korozji<color=#ebcaa2> swojego <color=#f8c200>„E.G.O”<color=#ebcaa2>.",
+      "kr_sha256": "1d8ff6e25070f77e42bfb651a3cb1b5020069251624ec6145541944df4d555f2",
+      "en_sha256": "d30baf589231a46d3b433891035a8af384f042c2ce7ac3b94cc12de5c016b80f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_08_03_01].content": {
+      "pl": "Podniesienie stopnia Splotu Nici „E.G.O” sprawia, że od <color=#f8c200>następnej tury<color=#ebcaa2> po użyciu tej umiejętności <color=#f8c200>aktywuje się<color=#ebcaa2> <color=#f8c200>pasywka „E.G.O”<color=#ebcaa2>.\n\nDziałanie pasywki „E.G.O” sprawdzisz w oknie informacji o Grzeszniku.",
+      "kr_sha256": "7aca9da03c875d50472c7d878de159baec5f1eb328a1c1956d29b21104b3bc40",
+      "en_sha256": "e50221defe6ba9dc7531009be3a18293a02e78601730f0fd6a435d4b2be32260",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_01].content": {
+      "pl": "W tym starciu przyjrzymy się bliżej działaniu „E.G.O”.\nGrzeszniczka Ryōshū zaczyna walkę z wysoką wartością PP.",
+      "kr_sha256": "0d9ea91b01c264059ee5e98972e0add148eb51d8ceb87bb5fa2b74e1bf2705b3",
+      "en_sha256": "a309c25f7beba83e48ab1a0297ab78d9e218e2a10844b3ba9a4327eeffa2099d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_02].content": {
+      "pl": "Wszystkie umiejętności E.G.O oprócz podstawowych pozwalają użyć <color=#f8c200>„Przeciążenia E.G.O”<color=#ebcaa2>.\nPrzytrzymaj portret Ryōshū, aby sprawdzić jej E.G.O.",
+      "kr_sha256": "46157157165f6ec8200f4d6a15f9ad839382ff56c8f20fd22e3b512ec7623627",
+      "en_sha256": "9307a73dc3d51d2b213bd7db02f76b5e3a2f94927721b94fb772270667555210",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_03].content": {
+      "pl": "Użyjmy najpierw nowej umiejętności Przebudzenia E.G.O Ryōshū.",
+      "kr_sha256": "6d4927b8a7bdff5c6d28af63da1d3d9a89d9974fccedcf1d0b8719d8ad6158b7",
+      "en_sha256": "22e3a62d6df7a78b378da517d21f946dd6a4a0b4c327212f1cfc5b6f6a073788",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_04].content": {
+      "pl": "<color=#f8c200>Użycie E.G.O<color=#ebcaa2> <color=#f8c200>zmienia odporności na grzechy<color=#ebcaa2> danego Grzesznika.\nDopasowując odporności do ataków wroga, zyskasz przewagę w walce.",
+      "kr_sha256": "baf4350dd96afc4a73516dbe9e38e6a99544559687ed3ed7e40a8abbb2f43080",
+      "en_sha256": "20f84fb41d67140419fd28b2e51d1cd658cd54ee26c61bc7f491d78a961540b3",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_05].content": {
+      "pl": "Użyjmy umiejętności E.G.O jeszcze raz.",
+      "kr_sha256": "bcfa9255dd5f2e1037eb4e59db6d186117c35950ddc7c5069570e4a96e27e045",
+      "en_sha256": "72c355eafaf175dfeb50ecb5ef77bf4fe58a3f7fd7cee4f77cf8636dbc9fe219",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_06].content": {
+      "pl": "Im niższe <color=#f8c200>PP<color=#ebcaa2>, tym większa szansa, że umiejętność E.G.O wywoła <color=#f8c200>Korozję<color=#ebcaa2>. Uwaga: przy Korozji używana jest umiejętność Korozji atakująca bez rozróżnienia sojuszników i wrogów.\nSzansę Korozji sprawdzisz tutaj.",
+      "kr_sha256": "c9a7c2389a9b4f0c3fc764c4c2aab98a98af10d02633eb6de60e18ea37fb95a0",
+      "en_sha256": "ac4008de9eba8279ff26d425a95e36679cf04062ec624bdcf710d0e10742a2a8",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_07].content": {
+      "pl": "Gdy PP spadną do <color=#f8c200>-45<color=#ebcaa2>, Grzesznik niezawodnie wpada w <color=#f8c200>„stan Korozji E.G.O”<color=#ebcaa2>.\nW <color=#f8c200>„stanie Korozji E.G.O”<color=#ebcaa2> atakuje na oślep zarówno sojuszników, jak i wrogów.",
+      "kr_sha256": "0a1ecae0de9cd6faa9cc5609ab294a5dd9766d2674e229fe5c9cbd55124d0822",
+      "en_sha256": "8a1d2fdfb9c12ca4b339248315e555123e38fdcce520d82d58690643aeb50be1",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_08].content": {
+      "pl": "W następnej turze <color=#f8c200>„stan Korozji E.G.O”<color=#ebcaa2> dobiega końca,\na PP wracają do 0.",
+      "kr_sha256": "5ba6fe97e20a882e5fb582ed46f0c32198279be674f2e8df9e70ea505fc6cb60",
+      "en_sha256": "254c3f447931c49eb5ea5274ba008e7c6945e8212dc53f317a733e13888b884a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_09].content": {
+      "pl": "Wypróbujmy teraz <color=#f8c200>„Przeciążenie E.G.O”<color=#ebcaa2>. Przytrzymaj portret Ryōshū.",
+      "kr_sha256": "a8925a19ab3e7c1b7d61196e0ceacb8770bb085bfa4839e14b2258bed3a7c68d",
+      "en_sha256": "5171ae18fe9bdc77c38269db5ce547b28a86145843f3495bd44fbb6ff3122736",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_10].content": {
+      "pl": "Przytrzymaj kartę E.G.O, aby przełączyć ją w stan <color=#f8c200>„Przeciążenia E.G.O”<color=#ebcaa2>.\n„Przeciążenie E.G.O” <color=#f8c200>wymusza aktywację E.G.O jako umiejętności Korozji<color=#ebcaa2>.",
+      "kr_sha256": "68427e112bd453eb79f4c6b82ef2ac197144b3b88cd9482a66c13c7a839ed884",
+      "en_sha256": "eec5608a066db058c3b271ecfaab982c9e632c37e14922f6d6135fd101e9a8fd",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_11].content": {
+      "pl": "Jeśli masz dość zasobów na Przeciążenie, nastąpi <color=#f8c200>Stabilne Przeciążenie<color=#ebcaa2>, a w przeciwnym razie — <color=#f8c200>Niestabilne Przeciążenie<color=#ebcaa2>.",
+      "kr_sha256": "6d2211ef82321237f32eae4418e694417b01272c47512e5412fa450c81dc1e22",
+      "en_sha256": "c8eb63c824f32dcdbc0c867985916e197a6e9a891626813a95370f4e07d3e25c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_12].content": {
+      "pl": "<color=#f8c200>„Stabilne Przeciążenie”<color=#ebcaa2> <color=#f8c200>zużywa 1,5 raza więcej zasobów<color=#ebcaa2> (w tym PP), lecz <color=#f8c200>nie atakuje sojuszników<color=#ebcaa2>.\nUważaj jednak: przy <color=#f8c200>niskich PP<color=#ebcaa2> nawet Przeciążenie może wpędzić w <color=#f8c200>stan Korozji<color=#ebcaa2>.",
+      "kr_sha256": "b3850be55550f8cbd8afb971e24e3d99b335014f3585a88c01e7ca63866265e8",
+      "en_sha256": "88a08c708abc2ce2905ffc3103f2bd1d29fe5044faac458ead72c587d3ae9803",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_12_title].content": {
+      "pl": "Stabilne Przeciążenie",
+      "kr_sha256": "aceee3a84b543c9bdfabb23d0920ee4dd4a9dcbd5106f7f70a9ad24c9a88b48a",
+      "en_sha256": "01721ccd52f1ae7b7982d3c66c7e32f5ec525caccad3f8ecffccd5141c597ed4",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_13].content": {
+      "pl": "Gdy przy <color=#f8c200>„Przeciążeniu E.G.O”<color=#ebcaa2> brakuje zasobów,\nuruchamiane jest <color=#f8c200>„Niestabilne Przeciążenie”<color=#ebcaa2>.\nTak jak przy Korozji <color=#f8c200>nie odróżnia ono swoich od wrogów<color=#ebcaa2>, a <color=#f8c200>brakujące zasoby E.G.O spadają poniżej zera<color=#ebcaa2>.",
+      "kr_sha256": "d87b3e0f5b712f2007c9cb14555d9d8cdebeec4ecfe929c3649a476922225e04",
+      "en_sha256": "72572ceb8260be91459fd177b93769046a0e494e4613449c5ec2e7ed8f94f1e7",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_09_01_13_title].content": {
+      "pl": "Niestabilne Przeciążenie",
+      "kr_sha256": "04283fc325210d50608df0b9eba4b390c684252dd36f63d246b0adfed4a5d2cb",
+      "en_sha256": "1f12e1d843d885a9cbb89e3be0ffe0a1e28f98029305c0db7e34eda288e2d197",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_01].content": {
+      "pl": "W Lochach napotkasz istoty zwane <color=#f8c200>Anomaliami<color=#ebcaa2>.",
+      "kr_sha256": "90ae351a492f1c4e6610ec4daae308ae8026ce44521676750258ca0ffa4433bc",
+      "en_sha256": "a2e00dfcdad8f1934853746462dc271aa4ac058f7dae0a3d3964e41c8b31b162",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_02].content": {
+      "pl": "Walki z Anomaliami przebiegają w innym trybie niż dotychczasowe starcia.",
+      "kr_sha256": "e0469edb65784bdd8b80251a81b9498fcc16372606e4d8acefb88fdf88c8dff4",
+      "en_sha256": "35b40e1be2b7f6b00af994556ef6f63deccc30f69adebcbd5fc3450ccc654362",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_03].content": {
+      "pl": "Ten tryb walki nazywa się <color=#f8c200>starciem skupionym<color=#ebcaa2> — wyjaśnię teraz jego zasady.",
+      "kr_sha256": "ee7dc2e32b1531aae66ae34b5e89eddd9f81d3b65cf4385f6cfed62bbf08692d",
+      "en_sha256": "d3940512dde2538aca2626cba404886bcffed9e3e266f7ea6b32dcf077b40381",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_04].content": {
+      "pl": "Każda Anomalia posiada jedną lub więcej <color=#f8c200>części<color=#ebcaa2>.",
+      "kr_sha256": "b199a8c3d3afc4211f730ac8a11845b868b49b905f4e04fcff542bc5e6751a75",
+      "en_sha256": "598ad1f2a751acf85a8de5e052e781f2960683fe13ee1ff87d962d8065b7f01c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_05].content": {
+      "pl": "Każdej części przypisywane są osobne sloty umiejętności oraz Szybkość.",
+      "kr_sha256": "aecbf4643c4fbcb65ada3429848834407b5da8a2b2e5691f9711940033301df1",
+      "en_sha256": "ae73425c0f6cb2ce30e0819c467c89e67ac685444d0c913405d011f6470729a6",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_06].content": {
+      "pl": "Każda Anomalia składa się z co najmniej 1 części.\n\nKażda część ma własne sloty umiejętności, a jej Szybkość losowana jest co turę.",
+      "kr_sha256": "da1c0d042bcc18a55585704c4b7081b0e6f5ba7c1d756d32f6d690bf0d3eee10",
+      "en_sha256": "0b73b315f26da065cae4a91d234121e28bef6b380c3b7494e55cf0ef77383e74",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_06_title].content": {
+      "pl": "Części Anomalii",
+      "kr_sha256": "33a1a55b8438db64f1bf93034a2e8ee44c98a400d8c9e9e828477eaca8170aff",
+      "en_sha256": "8885f3d7595f51c02aa4add2c795dacebcf95e3716f99f775da56bd54d168ce4",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_07].content": {
+      "pl": "W starciu skupionym musisz wybrać umiejętność sojusznika i <color=#f8c200>bezpośrednio<color=#ebcaa2> połączyć ją ze slotem umiejętności Anomalii.",
+      "kr_sha256": "fff313c11445a6103a41275fd235f7f825666c3a727263605f6d686ee2aa2187",
+      "en_sha256": "98a58312c61d9504aa26ce1498bbe7d125d49ad9df22ca181750a0e293d5f2ee",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_08].content": {
+      "pl": "Wybierz umiejętność Grzesznika z pierwszej kolumny panelu dowodzenia.",
+      "kr_sha256": "3a727adccf9e5049b360f834b462357c60ea2602c720893b8ca903f9d0945d90",
+      "en_sha256": "fc40b55d258823112b14e3a4faec6b098e9eb004d2724ab0e77a4c6aa6bfc1cc",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_09].content": {
+      "pl": "Połącz wybraną umiejętność sojusznika ze wskazanym <color=#f8c200>slotem umiejętności wroga<color=#ebcaa2>.",
+      "kr_sha256": "c127bbf30e3a89f1cf3ee55c256e1514636a4efcf98d90fe02671785d4d2723b",
+      "en_sha256": "b6289bb2cc935ad0b2aa4f6537e94969090af65774dba0a8da04311b6eea7f4a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_10].content": {
+      "pl": "Bezpośrednie łączenie umiejętności sojuszników ze slotami umiejętności wrogów to podstawa starcia skupionego.",
+      "kr_sha256": "1590bc290c8a191adc9475ee55d8456ab7a18ab90491885146a89d9833e54617",
+      "en_sha256": "7b17f11dce0ad05441fa5e21f2d5818cf09e33a05888cc358d7d52865f74706a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_11].content": {
+      "pl": "Jeśli chcesz oddalić kamerę, aby ogarnąć wzrokiem całe pole bitwy, naciśnij lewą zębatkę.",
+      "kr_sha256": "40615dc29ddd1110c880ece9df5baa0ec62c8adc8ce23674dcad8c245ea466d7",
+      "en_sha256": "baff6a2c5da2e04375e40b355b8f4b2b6fa34bb236833a88b9996c17dc6ce1c8",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_12].content": {
+      "pl": "Naciśnięcie lewej zębatki przy przybliżonym widoku\nprzywraca domyślną kamerę z początku walki.",
+      "kr_sha256": "19d24b3c8924ca823a1fcb48d6da5252ffed306eff7b769600063992802abdad",
+      "en_sha256": "0b044db11651da0082fab2234a1dbe0a271ea6fcd96f3b898daf39c1acf728e0",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_13].content": {
+      "pl": "Aby rozpocząć fazę walki, musisz <color=#f8c200>połączyć wszystkie umiejętności<color=#ebcaa2> sojuszników z panelu dowodzenia.",
+      "kr_sha256": "18822675eca6c5f9247b555f8b003a54245896ac7ab5d6b70ed7c873bcbb499b",
+      "en_sha256": "e47fa5f6535b3273e16fbdd6ba573fefed1c2429a6b46f889de798fc01dbba77",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_01_14].content": {
+      "pl": "<color=#f8c200>Połącz umiejętności wszystkich Grzeszników ze slotami wroga<color=#ebcaa2> i wydaj rozkaz do walki.",
+      "kr_sha256": "5b297e0288a1e8b8ec3a90d4194b614d0aaa3042380fdd6af265ca1543c365b7",
+      "en_sha256": "12ac5c7d3bd93b86dc687aeca383fabeff322769fa0eb0970a9be2afdc15f70d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_01].content": {
+      "pl": "Starcie skupione przebiega w kolejności <color=#f8c200>Szybkości<color=#ebcaa2>.",
+      "kr_sha256": "7d83513febcb8fec831eb412af5050a5d0ac842f1338331c684aaf17e2b54989",
+      "en_sha256": "432b80ddf66d4b437156fcd3f355d9ab8548485704132f6eab0a08a77cc96a47",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_02].content": {
+      "pl": "Szybkość każdej jednostki w bieżącej turze widnieje <color=#f8c200>obok jej slotów umiejętności<color=#ebcaa2>.",
+      "kr_sha256": "3f00c12e7f337af0cbf59d9b7d38d14f6d819036f7542b2c47b0717c165fba9c",
+      "en_sha256": "3432025d6f91cd56706fa02da7cbdb830d4ce6cb65f74e3670226a43d612f11e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_03].content": {
+      "pl": "Szybkość sojuszników sprawdzisz również na <color=#f8c200>panelu dowodzenia<color=#ebcaa2>.",
+      "kr_sha256": "3f3fea4bcf03834d1c51c68f55519ac9ddbf35e5b866ad6217a6ac9ef8224c6e",
+      "en_sha256": "cd14197f1ef893f2c90b6cac0a3f51e608aaf445c06343a232ad048865d96e05",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_04].content": {
+      "pl": "W starciu skupionym musisz w ten właśnie sposób\n<color=#f8c200>samodzielnie wskazywać<color=#ebcaa2> cele ataków.",
+      "kr_sha256": "7c1c61a461628d816a75d1a14b2c19ea4c9f87348d73ee33d353ed5432d4ab74",
+      "en_sha256": "22541dc77bf7ffa9d264989b346b4d54f455607393b658e177166275911b0991",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_05].content": {
+      "pl": "Zobaczmy teraz, jak radzić sobie, gdy wrogowie skupiają ataki na jednym sojuszniku.\nSprawdź ten slot ataku.",
+      "kr_sha256": "2818363503fc1e3ee98f3a5374e66312fda8384480aae98f14dba57233c463c2",
+      "en_sha256": "b5f066ecb790d49dbad3650aed784a342ba561d0e8936da720acc0ad12241529",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_06].content": {
+      "pl": "<color=#f8c200>Jeśli sojusznik jest szybszy od wroga<color=#ebcaa2>, może <color=#f8c200>przekierować jego cel ataku na siebie i wywołać „Starcie”<color=#ebcaa2>.",
+      "kr_sha256": "b6c97f55660550be43a89a1778d8b4eaa2ddde8e3ff2ca9941131b014c3a0e51",
+      "en_sha256": "6fd306d85ec3508ea8508953fc1313ed46532c5c02d1cd597e001789b27aca58",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_07].content": {
+      "pl": "Wskaż umiejętność szybszego Grzesznika przeciw temu wrogowi.",
+      "kr_sha256": "4b61041d9429ec4ce1abe809203eb1bb6da4c243e7149b5a3d92644f40f9e072",
+      "en_sha256": "9d270ca8a986e0e1949c34ee7b7e9df3e87437c1ff6fda7b8b19ba057fb58f91",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_08].content": {
+      "pl": "Wskaż umiejętność szybszego Grzesznika przeciw temu wrogowi.",
+      "kr_sha256": "4b61041d9429ec4ce1abe809203eb1bb6da4c243e7149b5a3d92644f40f9e072",
+      "en_sha256": "9d270ca8a986e0e1949c34ee7b7e9df3e87437c1ff6fda7b8b19ba057fb58f91",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_09].content": {
+      "pl": "Gdy sojusznik ma wyższą Szybkość od wroga, możesz w ten sposób <color=#f8c200>korzystnie przekierowywać ataki<color=#ebcaa2>.",
+      "kr_sha256": "8fabd1ccd34eb44def0af1e8f7b8296b35029c65854e2ab0de8833e77951a1f3",
+      "en_sha256": "6a66deaef65b68173e727c67f972a4f0ecd6b85f019a28ebc9e5583f03cf181a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_10].content": {
+      "pl": "<color=#f8c200>Gdy sojusznik jest szybszy od wroga<color=#ebcaa2>, może <color=#f8c200>zmienić<color=#ebcaa2> <color=#f8c200>cel ataku<color=#ebcaa2> wroga na siebie.\n\nDochodzi wówczas do <color=#f8c200>Starcia<color=#ebcaa2>.",
+      "kr_sha256": "2a97db8fc6384390b4fd0dbbe8cb4f03b929054fe0466e3825786ba84683fa2b",
+      "en_sha256": "87536b4098409a50ea5e424506a343c43cd31e1148a496280d4f39abd8e9cd1d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_10_title].content": {
+      "pl": "Gdy Szybkość jest wyższa",
+      "kr_sha256": "86aa8e08240e7ef84f90c1c3429b4e9f2253ce1dba5a3937e1b6fb75c72431f2",
+      "en_sha256": "667af57e4a81de960760b5c733b5cd7a7c5bf7934c95e59f530bca9b884effc0",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_11].content": {
+      "pl": "Grzesznik będący <color=#f8c200>pierwotnym celem<color=#ebcaa2> może stoczyć z tym wrogiem <color=#f8c200>Starcie<color=#ebcaa2> <color=#f8c200>niezależnie od Szybkości<color=#ebcaa2>.",
+      "kr_sha256": "434ef71d2c0f03954ef0af98ee47e5ffd630c9223872789cb3d17c31bb41d9ba",
+      "en_sha256": "02a32ee18d2da94d9da86449afbc76f66cfe5c173659a49a4795da0a6dbbef86",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_12].content": {
+      "pl": "Wyznacz umiejętności jeszcze raz.",
+      "kr_sha256": "fe5c690a63238a262158fec97ee2ad49738ae40af088d7ba576160560582f03a",
+      "en_sha256": "b2fff714d198bf2463c0bb16840e20d6e81b2d3ac572c14b783e20dc7ac85203",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_13].content": {
+      "pl": "Wyznacz umiejętności jeszcze raz.",
+      "kr_sha256": "fe5c690a63238a262158fec97ee2ad49738ae40af088d7ba576160560582f03a",
+      "en_sha256": "b2fff714d198bf2463c0bb16840e20d6e81b2d3ac572c14b783e20dc7ac85203",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_14].content": {
+      "pl": "Sojusznik będący celem ataku wroga może wejść w <color=#f8c200>Starcie niezależnie od Szybkości<color=#ebcaa2>.",
+      "kr_sha256": "211c36e2627d7904a41911dbdffd60d96c3821282aabb9d4380e0709bf13dd46",
+      "en_sha256": "d4486c8e8377240baeebc9cbbd87fc76ee2fb724a3b044c926879db79c351860",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_14_title].content": {
+      "pl": "Gdy sojusznik jest celem umiejętności",
+      "kr_sha256": "5b3fa1162406a1c623827a85f8d68b3a488c167f3edb48f00ab8c779e5477646",
+      "en_sha256": "e788826c1d959446daeeb60d38758a11a45a969b5282a99ded6b3efcbaa776e7",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_15].content": {
+      "pl": "Gdy Szybkość jest równa lub niższa i nie można przejąć Starcia,\nmoże dojść do <color=#05DBF2>ataku jednostronnego<color=#ebcaa2>.",
+      "kr_sha256": "89b49ab2e874a514d03c575d5c76b7cf0458ff7e883f732d3c8636934fb9cf02",
+      "en_sha256": "a5f6689182c3c8fcc8dc0fa28481381e09128c9f106be29a7ce29a0ab1733553",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_16].content": {
+      "pl": "Gdy sojusznik ma Szybkość równą lub niższą od wroga, nie może zmienić celu jego ataku.\nZamiast Starcia następuje wówczas <color=#05DBF2>atak jednostronny (niebieska strzałka)<color=#ebcaa2>.\n\n<color=#05DBF2>Atak jednostronny<color=#ebcaa2> pomija Starcie i od razu wyprowadza uderzenie.",
+      "kr_sha256": "72f0123d310af770a176f6ea27c2f451428a56d610dcb1dff9fd8b30b6f1ae72",
+      "en_sha256": "a5320dcd099d9e4a878d072fe26d77ca9fceb77fb7c2202a1a04a1da1332a106",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_16_title].content": {
+      "pl": "Gdy Szybkość jest równa lub niższa",
+      "kr_sha256": "b6f67fb009ed7634db82ec1343b3ff9d951ab98219874cb609957afc35476ef1",
+      "en_sha256": "b9e10bb10261f04ae41795aec5d1656fd50e796af492be8565bd2fb73594342c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_abbattle_02_17].content": {
+      "pl": "Gdy kilka umiejętności celuje w ten sam slot, poza umiejętnością w Starciu pozostałe wykonują <color=#05DBF2>atak jednostronny<color=#ebcaa2>.\nCzasem warto przyjąć obrażenia i zamiast <color=#f8c200>Starcia<color=#ebcaa2> rozkazać zmasowany <color=#05DBF2>atak jednostronny<color=#ebcaa2>\nw jednego groźnego przeciwnika.",
+      "kr_sha256": "bc79d21070e97f3be2716101efc0113d556925d8a6147e70b1463d2b332ae95b",
+      "en_sha256": "9c1039f6e5cc8d74e01b05dc73f3d28463677fec2bd37e5d57f293d2550425a8",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_01_01].content": {
+      "pl": "Pojawiła się nowa Anomalia. Sprawdźmy jej wpis w Kompendium Anomalii.",
+      "kr_sha256": "925e7c8a7843d4188ad83deaabbbbe81365f0552c7e8ce44fa836e18ec4e773a",
+      "en_sha256": "c0fe2a08d46d97e390e0832b5178464f08bbfdef57887f13f0226df0f2e064c4",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_01_02].content": {
+      "pl": "W Kompendium Anomalii zapisywane są informacje o Anomaliach.\n<color=#f8c200>Kompendium uzupełnia się stopniowo podczas walk z Anomalią.<color=#ebcaa2>\n\nWielokrotne spotkania i walki podnoszą <color=#f8c200>Poziom Obserwacji<color=#ebcaa2>, co nieznacznie zwiększa obrażenia zadawane danej Anomalii.",
+      "kr_sha256": "863018ed58e1a431037586b32a72a064fa10c7bfab15c6bdb7f71b73c613307b",
+      "en_sha256": "d3b1e45d43cd2cea12ebf03b93d238afd6652b74b038b1f84f0d4a8ede49ce20",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_01_02_title].content": {
+      "pl": "Kompendium Anomalii",
+      "kr_sha256": "69cc07aad07a755661f7266ddbb46cb256536adecd2a3201195f6b4cf4ebcfa3",
+      "en_sha256": "63cf906da5f756edf5728b3cf02721075134b3d376077c041b2327bd9226dfd6",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_01_03].content": {
+      "pl": "W Lochach spotkasz też Anomalie posiadające <color=#f8c200>wiele części<color=#ebcaa2>.\nKażda część może mieć inne odporności, umiejętności oraz pasywki.",
+      "kr_sha256": "c8f33aadc1788bba0e70a7198cb3b4cd983bd82b9221348d0441442e8a97a94a",
+      "en_sha256": "1786b5ef74710963722c009665facfb521d933d8bd2e62b030551eceb35d5566",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_01_04].content": {
+      "pl": "Ustalono, że słabym punktem tej Anomalii jest <color=#f8c200>część Owocu<color=#ebcaa2>.\nZaatakuj część Owocu.",
+      "kr_sha256": "fbe7a8a7f97c7be027e161b44e53cc4026bfddfede108ede9945b1bdeb6c77da",
+      "en_sha256": "6907fa0507cabc4e2aa93b2dfae73a3e964785c52ddb87e1f226ed98341c5234",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_02_01].content": {
+      "pl": "Część Anomalii została zniszczona. Sprawdźmy ponownie informacje w Kompendium.",
+      "kr_sha256": "ef696bb0d13c9cd37f1bb61a3f9eb5fa94ed5390ca36ea79b31235e18b4963ca",
+      "en_sha256": "d1bd21409d103a948415fb281c38862c65b977bdd8df5e918ef094676824a134",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_02_02].content": {
+      "pl": "Część Owocu została zniszczona.",
+      "kr_sha256": "7e2d88d720c50892e62bb40a14e48d924cbbb15cd00b36326e8de51627017273",
+      "en_sha256": "4642bd0f2cd566496efeddc372b5581decbd3ae8ab9d5fee675dacc50b373c03",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_02_03].content": {
+      "pl": "Odporności fizyczne <color=#f8c200>zniszczonej części<color=#ebcaa2> zmieniają się na <color=#f8c200>Podatność<color=#ebcaa2>.\nUwaga: części oznaczonych jako <color=#f8c200>Odcinane<color=#ebcaa2> nie można atakować po zniszczeniu, dopóki się nie zregenerują.",
+      "kr_sha256": "76735baaba6404cc29520b9be0a13c403136a998270333955254c3a6d90efdc2",
+      "en_sha256": "7e0909976164db2464a68895e603344dda2d16fe6a4436576fea915ba5817836",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_02_04].content": {
+      "pl": "W miarę postępów walki odblokowują się informacje o pasywkach wroga.\nDla skutecznej walki wyrób sobie nawyk <color=#f8c200>sprawdzania odkrytych informacji o wrogu<color=#ebcaa2>.",
+      "kr_sha256": "d438d6b6da4eb82f20bffb081fa0d8f5009076a722964debac19a75a1e517560",
+      "en_sha256": "d754e8b69fc08e655b95235bd8a2d1170cdc52ed0e1f20de096810d95ebaac62",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_02_05].content": {
+      "pl": "Kontynuuj tłumienie tej Anomalii.",
+      "kr_sha256": "5f71375ff4bd49d5e1fa80c0b5d2f57de51ffde124d542aa06467db6037efabf",
+      "en_sha256": "1f26a373651f53e1be71493e2e7217fa91aeb958122938e06f3f2b27ec3521b9",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_03_01].content": {
+      "pl": "Czasem dochodzi do wydarzenia <color=#f8c200>„Wyboru”<color=#ebcaa2> wymagającego decyzji Kierownika.\n<color=#f8c200>Przebieg bitwy może się diametralnie zmienić<color=#ebcaa2> zależnie od decyzji, więc wybieraj rozważnie.",
+      "kr_sha256": "ba7aa4b86ef4ae8b49cbdc8f138d4d681ab8407fc497b6bf2778dc938c903771",
+      "en_sha256": "cb32b64e4813862b052f7df93476c562b3973e7945ed7e8ceed2e2524141496d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_03_02].content": {
+      "pl": "Każda opcja wyboru wymaga określonego <color=#f8c200>grzechu oraz progu wartości<color=#ebcaa2>.\nGrzesznik posiadający <color=#f8c200>umiejętności premiowanego grzechu<color=#ebcaa2> ma większą szansę powodzenia.\nWynik zależy od tego, czy test zakończy się sukcesem.",
+      "kr_sha256": "f8aed8ea95c6939feb74c2bbecbace11c564a80f42d4e017ae97fb7385319214",
+      "en_sha256": "a7ec702895a214b8f9f07147ab2a248427ce8070461a7c8abf7a62d0d27b4148",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_01_11_snow_white_03_02_title].content": {
+      "pl": "Wydarzenia wyboru",
+      "kr_sha256": "515a4984156aa49376f221dcf04fd8505ca88a2b45e1874bb7a72a0ea8ac714b",
+      "en_sha256": "fc1b703fa362b481f93e6546dc70d8614252c5ad1ff8adf950a15c77d495168d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_02_12_01_01].content": {
+      "pl": "Każda umiejętność posiada <color=#f8c200>Poziom Ataku<color=#ebcaa2> oraz <color=#f8c200>Poziom Obrony<color=#ebcaa2>.",
+      "kr_sha256": "923a8e87e2da9d29e2e295a1f453dd5393dbd482876a01f5a3303d992a2fa277",
+      "en_sha256": "3f0b7697a6a877ae63172860adb9c1ddceb915a84af6792f096c8fa48cd5dfdd",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_02_12_01_01_start].content": {
+      "pl": "Zobaczmy teraz, jak <color=#f8c200>poziom<color=#ebcaa2> Tożsamości wpływa na walkę i umiejętności. Połącz jedną umiejętność.",
+      "kr_sha256": "f7ba37437e5311a5070355d52d67ac768e0c0b21d60e6e5d84d102de3add0457",
+      "en_sha256": "cbb55a509c4c07bc8c5c250b9ae45958aa27ae1362f610b661843e7bbd91e385",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_02_12_01_02].content": {
+      "pl": "<color=#f8c200>Poziom Ataku<color=#ebcaa2> wpływa na <color=#f8c200>umiejętności ataku<color=#ebcaa2> oraz <color=#f8c200>umiejętności Kontry<color=#ebcaa2>.",
+      "kr_sha256": "5530826da16a64cc2c3f72f610f47a809c15767817edff6de28bea287432e23a",
+      "en_sha256": "31cc5732539bcb339e60614216106f0e59f44651eee184882a2eae44a4cc6b6f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_02_12_01_03].content": {
+      "pl": "Im bardziej Poziom Ataku atakującego przewyższa Poziom Obrony celu, tym bardziej rosną <color=#f8c200>zadawane obrażenia<color=#ebcaa2> widoczne u góry.",
+      "kr_sha256": "09da90cfa71cd5a20495e9ad008997006a612aa9037511fd0d80d6c4bddac224",
+      "en_sha256": "0976ef009c3417cf312477904365bed16822229850d88f4df553a51726096fc5",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_02_12_01_04].content": {
+      "pl": "Ponadto każde 3 punkty przewagi Poziomu Ataku nad celem dają +1 do <color=#f8c200>Mocy Starcia<color=#ebcaa2>, zapewniając przewagę w Starciu.",
+      "kr_sha256": "ce652335b9832ed0d1790c9c2fdf808464dd9619f95cd665b8f9e5c90b00ed1e",
+      "en_sha256": "3a51254f1bec18cd14c129d66d983087b896577765b664de8f9e7e1d8f4994e6",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_02_12_01_05].content": {
+      "pl": "Poziom Obrony posiada każda Tożsamość i wpływa on na <color=#f8c200>otrzymywane obrażenia<color=#ebcaa2>.",
+      "kr_sha256": "1b367d65215f26b81942c19857c6ef4db89a03500b32f33a2cd4b5152bf34d7a",
+      "en_sha256": "07c42aeba324303be7a0de1f5fa55c52ca8e2f61ccda698a73fbc601961bd9a1",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_02_12_01_06].content": {
+      "pl": "<color=#f8c200>Poziom Ataku<color=#ebcaa2> i <color=#f8c200>Poziom Obrony<color=#ebcaa2> <color=#f8c200>rosną proporcjonalnie do poziomu<color=#ebcaa2> Tożsamości.\nRóżnica poziomów względem wrogów mocno wpływa na trudność starcia, więc dbaj o <color=#f8c200>poziom swoich Tożsamości<color=#ebcaa2>.",
+      "kr_sha256": "49a5ecf8ef71a2f8ce5f9567845984a0586ee48b6a31e7b34a3229ecfeb36891",
+      "en_sha256": "406a67c41113fc5208317e4edb44be80904a2f836895cca809f3cbc7606224f9",
+      "origin": "ai"
+    }
+  }
+}

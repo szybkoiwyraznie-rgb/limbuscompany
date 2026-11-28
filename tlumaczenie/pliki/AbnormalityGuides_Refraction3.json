@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=8577].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8577].name": {
+      "pl": "Ardor Blossom Moth",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=8577].storyList[level=1].story": {
+      "pl": "Opiszę moje wrażenia ze starcia z tą rzeczą.\\n\\nMa wygląd motyla—mola, być może—podpalonego.\\n\\nNie, pozwólcie mi przeformułować. Byłoby bardziej sugestywnie rzec, że płomień sam w sobie wziął formę takiego owada.\\n\\nJest otoczona gromadą czerwonych, ogniowych iskier.\\n\\nTo przywołuje na pamięć wspomnienia z mojej młodości. Często zbierałem gałązki, jedynie by je podpalić i patrzeć, jak ogień je konsumuje.\\n\\nTe same żary, które znikały w nocnym niebie, mogą być spostrzeżone z tej istoty.\\n\\nPatrząc na małe ognisko, patrząc, jak gałązki stają się jasnoczerwonymi lampionami, potem czarną sadzą—nie mogłem się powstrzymać, by nie wyciągnąć dłoni, by docenić jej ciepło.\\n\\nWielu dzieli ten sentyment, nie? Nie musimy dotknąć ognia, by wiedzieć, że pęcherzy naszą skórę i pali nasze kości. A jednak pragniemy jej ciepła, by zbliżyć się do niego.\\n\\nMoże rozmyślałem tak, gdy jej pożoga tańczyła i migotała tak łagodnie przed nami.\\n\\nTyle mam do podania.\\n\\n→ No, kumie, ale górnolotne mówienie nie wyjaśnia, czemu zdecydowałeś się przechadzać prosto pod jej nosem i spalić się na chrupki, co?\\n\\n→ Zdobyliśmy kawałek użytecznego wywiadu z jego śmierci, jednakże. „Żary”, które Yi Sang przyniósł z powrotem, mogły rozprzestrzeniać się na innych w pewnych okolicznościach.\\n\\n→ …I rozprzestrzeniły się prosto na ciebie i poparzyły twoją skórę. Większość ludzi, których znam, miała by nieco bardziej intensywną reakcję na bycie spalonym żywcem.\\n\\n→ Cóż, tak. Lecz ból był relatywnie opanowywalny.",
+      "kr_sha256": "c9a43141d70b82557c67a984fd3d8ff5a016485fcdb1e879b4e39b94ffc383fb",
+      "en_sha256": "c33b94cecb46a9913b4b78518cd753c1d2689396db47bf5d412cfe9d33dd0e7b",
+      "origin": "ai"
+    },
+    "dataList[id=8577].storyList[level=2].story": {
+      "pl": "Miałem sposobność angażowania jej w walce.\\n\\nNauczyliśmy się, że z moim ostatnim podejściem, jej żary mogą przylegać do naszych ciał i rozprzestrzeniać się na innych w szczególnych okolicznościach.\\n\\nBył to odłamek informacji zyskany jedynie przypadkiem, lecz nadal nas wesprze, gdy dokładnie wypracujemy strategię przeciwko temu wrogowi. (To nie wskazuje na samoułaskawienie z odpowiedzialności. Przepraszam za działanie bez wielkiej dyskusji wśród nas.)\\n\\nPozwól jej skrzydłom dotknąć nas, a przywrze żary na nasze ciała.\\n\\nZ mojego zetknięcia z nią, doszedłem do uświadomienia, że jej siła urastała im więcej żary dzierżyła.\\n\\nTak, że z tego wynika, że złamanie jej skrzydeł pozwoliłoby nam wziąć ofensywę w tej bitwie.\\n\\nProponuję, byśmy powitali żary z jej skrzydeł w nasze objęcie.\\n\\nTe płomienie… nie palą; jedynie przynoszą nam ciepło. Może przyjęcie ich może być dla nas korzystne.\\n\\nJednakże, oparzenia, które moi wspólnicy cierpieli wcześniej… Muszę się zastanawiać, co sprawiło, że zadała im taką bolesność.\\n\\nNie znam dostatecznej informacji, by komentować dalej.\\n\\nTyle mam do podania.",
+      "kr_sha256": "f20de95c85a58ceca19e6727e7048d6394402fc2d63387f5e1e315f2538150f8",
+      "en_sha256": "f756294d13f336b61767db6ce67dc65e2ffcc386802d34d12b2635dba6ac1bd1",
+      "origin": "ai"
+    },
+    "dataList[id=8577].storyList[level=3].story": {
+      "pl": "Może ustaliłem metodę, w jakiej „zapala” żary.\\n\\nZ poglądem wstecz, odpowiedź była całkiem rażąco oczywista.\\n\\nBy obudzić umierające żary, by wskrzesić jej płomienie, trzeba je wachlować, aż wzlecą.\\n\\nJest moment, w którym trzepocze jej skrzydłami z taką siłą, że tworzy podmuch wiatru.\\n\\nKażde żary blisko niej eksplodują w wielkości i napastują nas, gdy nieustępliwy podmuch przywołany w tamtej instancji czyni ją zdającą się być gigantyczną kulą płomienia.\\n\\nGigantyczna kula płomienia, z kolei, rozsypuje żary na nas, rosnąc w większy płomień.\\n\\nŻary potem „zapalają się”, paląc moich wspólników blisko mnie.\\n\\nIm więcej żary dzierży, tym większa jej siła urasta. Może byłoby dla nas korzyści, że przyjmujemy ciepło…\\n\\n… lecz pamiętaj, że pozwolenie jej podmuchowi nas przytłoczyć mogłoby być dewastujące.\\n\\nWtedy, tyle mam do podania.",
+      "kr_sha256": "83d338fb25da91e551cd4b3d7c3607c3319a85133c2c0087f3e01df90a7548b1",
+      "en_sha256": "b0e1c9c7daf833008c1732ddffaffe14dd30400205156825cb533262b0ab3f1d",
+      "origin": "ai"
+    },
+    "dataList[id=8578].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8578].name": {
+      "pl": "Drenched Gossypium",
+      "kr_sha256": "ae37e39c4db348b50949238fff54c2f6c40bd5c7e0ad7f06c56cdbe730d6f789",
+      "en_sha256": "18a0a4cf63a63d4dcad7970583b449127e65a6780d613b66cc18719181429656",
+      "origin": "ai"
+    },
+    "dataList[id=8578].storyList[level=1].story": {
+      "pl": "O! Mam kilka rzeczy do powiedzenia o tym szmatarze, zanim dojdę do sprawozdania.\\n\\nSkąd diabli te... nie nadające się do niczego... bawełniane łby... gossypium gnoje się biorą?\\n\\nCóż... Nie tak, jakbym oczekiwał, by te anomalie były kiedykolwiek pomocne.\\n\\nLecz rzeczy, które dają nam od czasu do czasu... mają być „prezentami”, co?\\n\\nJakiego rodzaju „prezenty” pomagają naszym wrogom trzymać swój balans bez względu na cokolwiek? Muszą robić nas w konia.\\n\\nPrzepraszam, musiałem tu odetchnąć trochę. Rozumiesz, co?\\n\\n… Hm. Tak czy inaczej.\\n\\nPo prostu wygląda jak drzewo z masywną wiązką bawełny na nim. Jeżeli chodzi o wygląd, nie wygląda różnie od ostatniego razu, gdyśmy się z nią zmierzyli. Machając, wabiąc nas, by się zbliżyć... To samo gówno, inny dzień, co?\\n\\nI jej środek... jest czerwony. Jakby ssała krew zamiast wody.\\n\\nPo jej bokach ma... wijące się łodygi? Korzenie? Cokolwiek to jest, jest piekielnie creepy.\\n\\nCałkiem oczywista zagrywka, co? Jestem pewien, że tamte winorośle tam są, by przebić w nas dziury jak słomki i wysysać krew z naszych żył.\\n\\nRozrywajmy je na strępy, zanim zdążą cokolwiek takiego zdziałać.",
+      "kr_sha256": "b4024dfd504f2d267637c739bc9e1e8e08dcc1a35ee1f44e2e44418666a17088",
+      "en_sha256": "77aae75fac82f159da6ec89f9aae9e6a9825944d5a2652253531b6611e0af7ee",
+      "origin": "ai"
+    },
+    "dataList[id=8578].storyList[level=2].story": {
+      "pl": "Jeśli wiedziałeś, że winorośle nie mogą być cięte, to czemu nie— Haah, nieważne.\\n\\nNie zdaje się, byśmy mogli powstrzymać te winorośle przez cięcie ich, Zegarowa Łepko. Nie jestem pewien, czy w ogóle możemy je ciąć, właściwie.\\n\\nNie mogę pomóc. Nie ma drogi, by uniknąć bycia przebitym przez te irytujące rzeczy.\\n\\nCholera, to lodowate odczucie wysysania mojej krwi prosto z żył... nie jest przyjemne.\\n\\nCo nie wspominając, że ta rzecz zaczyna robić się czerwona po tym, jak wysysa dość krwi z nas…\\n\\n… Gdy robi się czerwoną, oczekuj jej użycia potężnego ataku przeciwko nam w każdej chwili. Lepiej skończmy ją zanim spróbuje czegokolwiek.\\n\\nChyba łatwiej to powiedzieć niż zdziałać. Cmh, nie tak, jakbyśmy mogli zerwać te słomki z nas, gdy nas trafią.\\n\\nJedyną drogą jest bić ją do poddania jak roztrzepotaniu bawełny wewnątrz poduszki. Jaką inną opcję mamy?",
+      "kr_sha256": "058ade4f07da9ab9306c57e013d382913112f73847156e473028939c98b7b46c",
+      "en_sha256": "1323cc297a5d087e3a1df760d217272b1f1caf8d88fb7584798add792c1534d0",
+      "origin": "ai"
+    },
+    "dataList[id=8578].storyList[level=3].story": {
+      "pl": "Według wspólnego rozumu, rośliny z głębokimi korzeniami i dobrym zaopatrzeniem wody rosną, by być wytrzymałymi.\\n\\nPamiętam, że ktoś raz mi powiedział, że wspólny rozum często nie stosuje się do anomalii…\\n\\n… jeszcze tu ona jest. Anomalia, do której wspólny rozum się stosuje. No pięknie…\\n\\nZaczynam to rozgryzać, jednak. Walnie tego, kto ma najwięcej tamtych słomek w sobie. Miałem przyjemność doświadczenia pierwszej ręki z tym, więc jestem całkiem pewien tego.\\n\\nOh, i tu coś śmiesznego.\\n\\nTa mała gnoje daje „prezenty”, które jakoś pomagają naszym wrogom nigdy nie być ogłuszonymi…\\n\\nLecz bitie żywe światła z niej zdaje się ją ogłuszać bez zamieszania. Cóż za kompletny burak.\\n\\nMusimy ją zabić, gdy mamy sposobność. Jeśli przegapimy tamtą szansę… Nie mam pojęcia, kiedy dostaniemy drugą.\\n\\nPunkt jest, nie zwlekaj. Myślę, że ona mnie woli—nie mam pojęcia czemu. Ale ciągle mnie nabija swoimi słomianymi winoroślami.",
+      "kr_sha256": "43aaad1330bdc9bdae201ca2897c6f5ac39489caf40f4ac007dedabfbe76c7c0",
+      "en_sha256": "4855c319f28f34e56c7ca516b69c5314467858b90be8c4e2c50dcd6e7111a58c",
+      "origin": "ai"
+    },
+    "dataList[id=8585].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8585].name": {
+      "pl": "Spiral of Contempt",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=8585].storyList[level=1].story": {
+      "pl": "Wiesz, co naprawdę mnie denerwowało w domu?\\n\\nBycie bez posiłku, żebranie i błaganie tylko po to, by pożyczyć trochę pieniędzy… Nigdy tak naprawdę nie przeszkadzały mi tamte rzeczy. Zajęło chwilę, by odłożyć tamte sprawy za siebie.\\n\\nCo naprawdę mnie dopadło, było… tamto spojrzenie z pogardą. Jakbym był pod nimi.\\n\\nMyślałem, że jestem ponad tym. Myślałem, że wyrosłem z tego, nauczyłem się znosić, ignorować, i iść dalej.\\n\\n… Dopóki dzisiaj.\\n\\nTa rzecz nawet nie wygląda jak osoba. Nie wiedziałbym nawet, jak opisać tamtą lewitującą rzecz, gdyby ktoś mnie poprosił. Lecz…\\n\\nWiesz, co mam na myśli, prawda? Ma tamten... dziwnie degradujący wzrok. Przynajmniej takie jest odczucie.\\n\\nNaprawdę mnie dopadło z jakiegoś powodu.\\n\\nDziwne, wijące się artsy fartsy wyglądające… Cmh. Myślę, że robi też jakiś dziwny metaliczny szum.\\n\\nTrochę wygląda, jakby była zrobiona ze złota, co nie? Powinniśmy ją zezłomować i sprzedać jej kawałki, byśmy mogli dostać nam tony finezyjnej wołowiny na imprezę z grillem.\\n\\n→ Muszę wypytać: czy myśl o spożyciu jedzenia jest wszystkim, co jesteś zdolny przetworzyć?\\n\\n→ Hej, spędziłem większość życia głodując, ok? Chyba bogate dzieci z pełnymi brzuchami i wygodnymi domami nie zrozumieją.\\n\\n→ Mmm~ Rozumiem! Wołowina zawsze smakuje dobrze, głodny czy nie. Choć nigdy nie byłem głodny przed tym, jak dołączyłem do firmy, hehe.\\n\\n→ Nie o to mi— ha ha.",
+      "kr_sha256": "151a87d2519f3a8d936b5bb5aacd7f12529de92208e2c417ac99205213f757db",
+      "en_sha256": "be842521ad4d9dcc71ec718ab7ddfe97244dbf43b9084d7c819e2fb8b732dee5",
+      "origin": "ai"
+    },
+    "dataList[id=8585].storyList[level=2].story": {
+      "pl": "Haah… No tak, mogę rzec, że ta nie będzie łatwa.\\n\\nTrafiłem w punkt z jej „spojrzeniem z pogardą”. Ta rzecz po prostu pałała wzrokiem na tego, który atakował ją najczęściej... zanim nagle przełączyła się na inny rodzaj spojrzenia?\\n\\n'Bezwartościowa szmata, twoja wartość nie jest dostateczna, by nawet położyć na mnie palec.'\\n\\n… to jest to, co rzecaby, gdyby miała mordę, nie sądzisz? To jest wrażenie, które dostałem, tak czy inaczej.\\n\\nOh, i... czasami, wielka para rąk po prostu wybuchała znikąd i porywała jednego z nas.\\n\\nMeursault został porwany ostatnim razem... i nie wiedzieliśmy, co robić. I rzecz po prostu ściskała go, aż zostawiła nic oprócz tego, co wyglądało jak zgniecione pomidorowe puree za sobą...\\n\\nUghh… po prostu ohydne, co? Tak czy inaczej... jedyną drogą, by uwolnić nas, jest dosłownie przytrzaśnąć rękę, aż pęknie. Nie wiedziałem, że to będzie tak bezpośrednie, lecz no…\\n\\nI ee, jeśli ręce kiedykolwiek mnie dostaną... proszę, proszę, upewnij się, by priorytetowo połamać jej uchwyt, ok?\\n\\nNo dobrze, umieranie nigdy nie jest zabawne. Lecz jeśli i tak mam umrzeć, wolałbym nie być zgnieciony jak panini na śmierć.",
+      "kr_sha256": "26a797c7893bc6614b270a03ea33fcc3acf9ae5e5a4058f1aed25562d4b1137a",
+      "en_sha256": "c8ed98c65a0c9cb53ee4feeafcac6baa9541b1caf86f881fa7751f8dd5b94e4b",
+      "origin": "ai"
+    },
+    "dataList[id=8585].storyList[level=3].story": {
+      "pl": "Dobrze, więc rozmyślałem o tym przez sekundę. Jej atak chwytnych dłoni i jej wzrok pełen pogardy… muszą być powiązane jakoś.\\n\\nNajpierw pierwsze rzeczy: dłonie nie chwytają po prostu losowo jakiegokolwiek Grzesznika.\\n\\nPrzegapiliśmy jej logikę i wzorzec przez cały ten czas. Jest szczególne okno, w którym chwyta nas, gdy atakujemy jej dłonie.\\n\\nPierwotnie, myślałem, że po prostu wydziera nas jednego po drugim, jak wydzieranie chwastów z ogrodu… idąc po najbardziej irytującego z nas.\\n\\nWidzisz logikę, prawda? Gdybyś mógł zgnieść cokolwiek wchodzącego ci w drogę w pomidorowe puree, czyż byś nie?\\n\\nWłaściwie, to całkiem ma sens. Czyż nie każdy?\\n\\n… Chyba to moja wina, że oczekuję, by te rzeczy podążały za jakimkolwiek wspólnym rozumem.\\n\\nOh, lecz myślę, że możemy użyć jej dłoni na naszą korzyść. Podczas walki, zdołaliśmy uwolnić jednego z pojmanych Grzeszników, który miał na nim jej wzrok.\\n\\nI to zdawało się... naprawdę dopaść ją nieprzygotowaną.\\n\\nMusiało to być szok, co? Patrzeć na nas, którzy mamy być niczym oprócz nędznych szmat, rzeczywiście łamać jej uchwyt i uwalniać naszego przyjaciela… wiesz, co mam na myśli?\\n\\nZdawała się być zdezorientowana przez dobry czas, także. I to jest wtedy, gdy zdołaliśmy naprawdę ją zranić.\\n\\nHmm… wciąż, musimy pozwolić jej patrzeć na nas z tamtym dziwnym spojrzeniem, jeśli chcemy wyczynić coś takiego ponownie.\\n\\nChyba to wszystko o zarządzaniu ryzykiem i zwrotem, wiesz…?\\n\\nChłopie, powodzenia, Dante! Niech twoja głowa nie eksploduje próbując rozpracować ten bałagan. … Oh my, czy dlatego ciągle się pali?\\n\\nWiesz, że po prostu mnie naśmiewam się, prawda? Hehe.\\n\\n→ Choć twoje intencje mogły nie być wrogie, wierzę, że jest nieapropriatowe wyśmiewanie Zarządcy Wykonawczego, jak uczyniłeś tu.\\n\\n→ Cóż, to nic nowego. Jeśli chcesz adresować każdą instancję wyśmiewania mnie przez was, będziesz wykładać Heathcliffowi cały tydzień. I potem jeszcze trochę.\\n\\n→ Daję mu fair część ostrzeżeń za każdym razem, gdy dostanę szansę, Zarządco Wykonawczy.\\n\\n→ To, co mówię, to że jestem z tym w porządku, więc nie ma potrzeby czynić czegoś takiego…\\n\\n→ Hę? Zegarowa Łepko skrobała coś tu. Oh... więc dlatego nasza sztywniara westchnęła do mnie wcześniej, co?",
+      "kr_sha256": "76a8b9b8fc146f327ef537d41add438582360ac930d85c46ca5505fd006863c1",
+      "en_sha256": "94910a9c7c54cd247b94dc88cf8a3d79d41fd8a719aa8ed541896031dbf98a31",
+      "origin": "ai"
+    }
+  }
+}

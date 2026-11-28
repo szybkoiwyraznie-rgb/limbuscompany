@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=1].content": {
+      "pl": "Sprawdź wyposażone E.G.O i dobierz do składu Tożsamości pozwalające sprawnie gromadzić potrzebne im zasoby w walce.",
+      "kr_sha256": "43fca9bc7d407e6de9fceef0a5baa159cb5c3280dc2b4203b2d307eb6d39307a",
+      "en_sha256": "def78807f217cbfb1c8759631bd7cc35f4549616780957aa5d8a36b786d29adb",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Użycie E.G.O przy wysokiej Poczytalności ułatwia przejęcie inicjatywy w walce.",
+      "kr_sha256": "687f60384c1200bb0220bd1e1b7e710fd5d90ad94ceea79a91af437d8e81e9b5",
+      "en_sha256": "ce27653598b0dc082a08864d1e7c19372eb446016f0fd39a9b49fa8ad2bbd721",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Doprowadzenie wroga do utraty Poczytalności i Paniki nakłada na niego kary, które otwierają drogę do zwycięstwa.",
+      "kr_sha256": "e7753c56f6336a1a5a71211de6e675f2cc3d19f34e140f2181bb339e7ef8703c",
+      "en_sha256": "4e4e2fb3f3ce3d2a0096a7792fca2bb6f63a606abde5fd6737c525277cf32f3d",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Przebicie kolejnego progu Oszołomienia na już Oszołomionym celu zadaje jeszcze dotkliwsze obrażenia dodatkowe.",
+      "kr_sha256": "c2d7a4e276271cd8c19843e7b6d651a7a74e3ef3f1ddb1360183900d29836f34",
+      "en_sha256": "9578d788bb536e2a961c295bbebf6f6e20bf213d45ee3b8da3c896c043e59a3d",
+      "origin": "ai"
+    }
+  }
+}

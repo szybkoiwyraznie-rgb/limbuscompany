@@ -1,0 +1,204 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "<Wszyscy wiecie, tak? Zostały nam już tylko dwie szanse.>",
+      "kr_sha256": "bf81cd1cd18e9d2798ac3893846707ad692fa55a5453343bcc91add08ffe3023",
+      "en_sha256": "88255fcafea769ceffc7cc27a367a6ec68817bb1be7e4fa85e7855576f8f2ca0"
+    },
+    "dataList[id=10].content": {
+      "pl": "<“Tym czymś… był profesjonalizm kucharza. Doskonałość, a w niej, paradoksalnie, wyczuwalny brak…”>",
+      "kr_sha256": "e778a8296fa1e3cd712c9e49593c4f6d079393eeb484da66410aab4661686663",
+      "en_sha256": "9b49235c83a8769a2a98c9b1d875f9a9fbbc1a4f2680c6ff4d7ea0ecf6b2cb65"
+    },
+    "dataList[id=11].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=12].content": {
+      "pl": "<“Z przykrością muszę stwierdzić, że danie nie przechodzi.”>",
+      "kr_sha256": "da7e89317ca23529a87aa492f0cbd861a432ca11643ea37dac329901cd2c3560",
+      "en_sha256": "541960c7762fd226e58cb9aa28de557e40c710b3f0dc5fe1cd9357c08e81e7de"
+    },
+    "dataList[id=13].content": {
+      "pl": "Nagle zrobił się z niego wytworny przewodniczący jury…",
+      "kr_sha256": "19e1546df828f02eaf1b9ee0dd66c383e75b295cdd3aed6aba3c4e8329884c4e",
+      "en_sha256": "ac77b688218d0a3434e9ede907a2abeee3a96d42230da3316810585971833188"
+    },
+    "dataList[id=14].content": {
+      "pl": "Niech ktoś zedrze temu gnojowi maskę. Może to “zniekształcenie” znaczy po prostu, że ma pokręcony łeb.",
+      "kr_sha256": "0f03f0bdc0847b7ad3e62b55a954369b236ee97b5dc8c03c7274fa24c0892575",
+      "en_sha256": "dfe444f915d78ba6194b10c0a3b6b9b2103ddb480ae34d2728412368c3c7f004"
+    },
+    "dataList[id=15].content": {
+      "pl": "…Uznaję porażkę.",
+      "kr_sha256": "aff5c9fa8f4e5b8a581b9a3e0077810bc93897024f7aebd8ac3692f6503267a3",
+      "en_sha256": "9d4447199c08e5c9f2ce7dd4d74fdd4df1edaf7d177855e3f2ce70ad2f0ece11"
+    },
+    "dataList[id=16].content": {
+      "pl": "Mimo to uważam, że nie mam czego żałować w tym pojedynku.",
+      "kr_sha256": "52fb4fb36f1d488f414b3f364501cb4314fa7967409b2083f0093696c7837cb5",
+      "en_sha256": "627ce0e601a6ada97ab1d6f30a86a8cad8cd4ec3d62dbaddd6b86290dcc1ea4b"
+    },
+    "dataList[id=17].content": {
+      "pl": "<Ale tym razem przynajmniej kury się na nas nie rzuciły, co?>",
+      "kr_sha256": "c711be5bc22bf0881f1910db8fa7f8188601699b5d298524ead4ac005bab8b94",
+      "en_sha256": "5ac03422fbbc31d69842b0cb0fa58a9883f9788c37e9fe27aadeba26d2bf2e44"
+    },
+    "dataList[id=18].content": {
+      "pl": "Kiedy została już tylko jedna szansa, Outis podała ostatnie danie.",
+      "kr_sha256": "7a83db30ba670b1a644f3d329c0bc4202dc9dcb0ce97c0e291ac1b631358a163",
+      "en_sha256": "702d68fd3e8881347726af19ce15d28d2249bf639564413801cb9734ce59148b"
+    },
+    "dataList[id=19].content": {
+      "pl": "<Starannie podane. Nic wymyślnego, ale schludne i ładne.>",
+      "kr_sha256": "69a857f0019cdedc7151b3f41e1ce92e878719c2bb42b1e72b11c023d990b76d",
+      "en_sha256": "6d0f3cb854f54bb8615bb52539d82177af5d5cb7ad467007a1ea04182a188d42"
+    },
+    "dataList[id=1].content": {
+      "pl": "<Zacznijmy może od Meursaulta, który ugotował wszystko porządnie, według instrukcji?>",
+      "kr_sha256": "96116c1a4c2db3ec1f8992700d554628322d80e124d1783fddc7e187ea2862a2",
+      "en_sha256": "bbfe5225e47e9dcc43d6d027c0763dcd9bc76567080f384cd9cea2c33c02b98e"
+    },
+    "dataList[id=20].content": {
+      "pl": "<Co znaczą te wskazówki godzinowa i minutowa na talerzu, Outis?>",
+      "kr_sha256": "153629791fbe1ca16afea596ca18afc8039f61d0024563e0b329c6ca05f19c2a",
+      "en_sha256": "5be5b5c986e0f70c992bd396324a5f0b6f91ea008af87eb52943b8444d9ddb6a"
+    },
+    "dataList[id=21].content": {
+      "pl": "Pozwoliłam sobie na skromną dekorację na wyraz szacunku dla pana, Kierowniku.",
+      "kr_sha256": "b24798bb0585489c47d5da5b4fb68db03cf4f081e074559b6b5e0b696aab5b57",
+      "en_sha256": "cbef0a35617b777dcfa663773589606fb3539a34a03d80c15fbec12608d2afb4"
+    },
+    "dataList[id=22].content": {
+      "pl": "<Och…! Szkoda, że nie mogę za to przyznać dodatkowych punktów.>",
+      "kr_sha256": "ae9fb30d6d87c06df9ac52988e04ea352b873378ce797906ad0310cac047490d",
+      "en_sha256": "19049fb212c80d453c56cae99cf2777318e47036aa242c8324a4b87cadf12422"
+    },
+    "dataList[id=23].content": {
+      "pl": "…Uch…",
+      "kr_sha256": "ef1a6abbd0e7f41e78881e2f2d99bddce4da8172255b95b93bb76bf7c5aba11e",
+      "en_sha256": "90cff8da2d996e0f91b2ca97b5f03faf95f8870bf7ca18f0691b989b083704a1"
+    },
+    "dataList[id=24].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=25].content": {
+      "pl": "!!!",
+      "kr_sha256": "e84c538e7fe250730ef62de220c40dfa808d3008c0cdb437181564b88b8714b8",
+      "en_sha256": "e84c538e7fe250730ef62de220c40dfa808d3008c0cdb437181564b88b8714b8"
+    },
+    "dataList[id=26].content": {
+      "pl": "Słowa, które wkrótce popłynęły od właściciela, były tak sugestywne, że postanowiłem oddać je nie słowami, lecz obrazem.",
+      "kr_sha256": "7430a9c81a134b66ba4f23ac1a963203053e05ae8cbed1d9ee721cfd147067a4",
+      "en_sha256": "0a8463a99d049bf9d0ff51cf4e7917570f7802b0d2028656afaa00714b8da076"
+    },
+    "dataList[id=27].content": {
+      "pl": "Na co ty wyglądasz! Czemu masz na głowie tę ohydną maskę?",
+      "kr_sha256": "ecf3f1feddefefb8dc55899d187874e73cc74926c0f22d5fb55d68153589bb36",
+      "en_sha256": "bd6e226ec56db418b7607e87428452e2a2f185d079527b17479fff97474cc410"
+    },
+    "dataList[id=28].content": {
+      "pl": "Za moich czasów to wiesz~ różne rzeczy człowiek przechodził, a jakoś się żyło! Jak się będziesz załamywać takimi drobiazgami, to jak przeżyjesz na tym okropnym świecie? No naprawdę…",
+      "kr_sha256": "39b65a3f2b549f9f8a2edb6d16cff0fcbca9c48b5537dd1675cbb180c546f399",
+      "en_sha256": "4266428c1844239466b3475c6d865576009fe355fbbd1023018ecc7f91caf386"
+    },
+    "dataList[id=29].content": {
+      "pl": "Matka zawsze… taka była.",
+      "kr_sha256": "cb271cde948e362a1b99bf24c2f4f0ac724a5303b58146852ceb4d28974f3fe4",
+      "en_sha256": "28d15f13eb5f2014bb06c483636935f3659bd443f5807d1f26524b4f888beebc"
+    },
+    "dataList[id=2].content": {
+      "pl": "Danie Meursaulta wyglądało, jakby nie dopuszczało najmniejszej niedoskonałości, zupełnie jak zdjęcie z książki kucharskiej.",
+      "kr_sha256": "281ddae49237441855d9168dd6dd039e367da7f3bdcc3c2fc5550f5eaad277f1",
+      "en_sha256": "c457fb7c4e32508b442fb8e772b787b8b62f25c17c62bc36b1e7091539199c13"
+    },
+    "dataList[id=30].content": {
+      "pl": "Zamiast czułych, kojących słów przeważnie zbroiła się w zrzędzenie i wyrzuty.",
+      "kr_sha256": "ade7b3b700c45129403353ec4b878b8edea9536d5eb83847104ba66b24488ce3",
+      "en_sha256": "ed87f95cb888b512c2c69c5a918148eeb5d65affd08195c4188a13dd9fa6394a"
+    },
+    "dataList[id=31].content": {
+      "pl": "Nawet najzwyklejszy kawałek kurczaka, który jedli wszyscy, jadła tak wybrednie…",
+      "kr_sha256": "ebfedd1aa9da9607a2715aea828cf60f32c0994221a715fdcbb6712c80348448",
+      "en_sha256": "051e14723f3f1fcb6c7cc8027311a5805f6a967ae78fc8e27b56af76eed0bdd4"
+    },
+    "dataList[id=32].content": {
+      "pl": "Smażąc kurczaki, nie wiedzieć kiedy zapomniałem o czymś ważnym.",
+      "kr_sha256": "cd7610abdb518ff5bfe852b728c4411c9bad11527b3b0bd4a26dccf400fbae5d",
+      "en_sha256": "f8a5eae5ff6a0ca4c1c049eb0f8adccb7d0cfe6478e31b8c6c71dd0d85088c91"
+    },
+    "dataList[id=33].content": {
+      "pl": "Ja…",
+      "kr_sha256": "9a12b830c2e7b71fae9e96f902689bd6a3c133128e36f8b9c867f88a50a2a7cd",
+      "en_sha256": "2874eeef57f198bfbbf3851e0dfa4f2e94812bd44a93248e551beae4638e2449"
+    },
+    "dataList[id=34].content": {
+      "pl": "Mamo…",
+      "kr_sha256": "abbea4ae2f8bf129c2f1bafef24e7aaa83ced3b442fd313386cee619d1a06c4b",
+      "en_sha256": "02e7402a0b8c18e95ee7bd494d37c2fef64ad798c62acee753fc0117b75d4e37"
+    },
+    "dataList[id=35].content": {
+      "pl": "<Teraz! To całe Zniekształcenie właściciela słabnie!>",
+      "kr_sha256": "54d52e5c511a25aa062b506c04963d95f406f9ad38ff030e08c1b05a82005e9a",
+      "en_sha256": "242860c8bb3a18f51af7b0776ac0c89436c68c9a15b42c19da4cde0108a2544f"
+    },
+    "dataList[id=36].content": {
+      "pl": "Patrzcie! Przed właścicielem pojawiło się coś jak drzwi, które gdzieś prowadzą!",
+      "kr_sha256": "1862e3cff0866d1d36068fe88b6c188ee060a905c5435747cd8817c81102efb1",
+      "en_sha256": "45d55f0f64dcb76e07602732772ac6667be63674bca22050ee6fead38c9c88fe"
+    },
+    "dataList[id=37].content": {
+      "pl": "Mamy przez nie przejść?",
+      "kr_sha256": "decdf43041d536dbad3cad414461c82d6c6edd541e0f46cc7eb1ef8f555a6f6d",
+      "en_sha256": "baccd8628b695aa50985cfd386f565a4c6200d35c383bcb914239064336d8bcc"
+    },
+    "dataList[id=38].content": {
+      "pl": "Ale co właściwie było innego w daniu Outi?",
+      "kr_sha256": "f1a49742b7220a5a7dcd7bcfc5d17f2ed8e29f1738c519acef64a1830c27ca13",
+      "en_sha256": "7c805834f071291f8c98d471bada0a03032a54f04e63c7efb4df603cb851a197"
+    },
+    "dataList[id=39].content": {
+      "pl": "Wkraczamy, żołnierze. Idziemy z tym skończyć.",
+      "kr_sha256": "98cf90e6baa13b000913cf62d7f8026a48ea2a686915254d600f692bea463552",
+      "en_sha256": "07a799f1d4de9971a21d058dcf75eb6ee409acacb81b390427b9b82bb68ebe06"
+    },
+    "dataList[id=3].content": {
+      "pl": "<Dobra, wreszcie mamy coś, co wygląda jak prawdziwe danie.>",
+      "kr_sha256": "1299f6896021072406c9161f6887310412d7a591fbda28e1f8fc5e8e0218c21a",
+      "en_sha256": "b86d1e1bf8c769146af969527d792cb4b80539fc0e6d52ccd8420b13975d27a6"
+    },
+    "dataList[id=4].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=5].content": {
+      "pl": "Właściciel skosztował dania Meursaulta i długo, w milczeniu delektował się smakiem, jakby się nad czymś zastanawiał.",
+      "kr_sha256": "1cbb4f79c1da08d70a5bcf81c90b876222f66f5bea8a7b843334df9f4b1aa2f2",
+      "en_sha256": "d0e84fc43fb36fa9f6c064ab4ec84f970d01b43a17ef83b41c0c7cb645e28868"
+    },
+    "dataList[id=6].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=7].content": {
+      "pl": "Gagaga… gigigi… gugugu…",
+      "kr_sha256": "8e67b2d048d0677d6801d098f80de1573b87593908ee3b71cc9c308e1a1457a5",
+      "en_sha256": "6ec714b91aea10ef5ddd7b534fa5b5196442d8ffcb25bc8578839ece05d1ea88"
+    },
+    "dataList[id=8].content": {
+      "pl": "<“Nad tym daniem zastanawiałem się bardzo długo. Zapach, smak, podanie - niczego tu nie brakowało. A jednak czułem pustkę, czegoś, czego nie da się wyrazić słowami.”>",
+      "kr_sha256": "0026ffbe8ec92a0dd235492dc80107cbe3ad0c0a9db41c8e1111c3cb076d79b2",
+      "en_sha256": "1e6f427cb59797254f8efcb4195bc390d8944a500fe4be188c195c3adcfc6184"
+    },
+    "dataList[id=9].content": {
+      "pl": "Gegege… gogogo…",
+      "kr_sha256": "f40d56826a3ffa33a938bc4c5a88b0b66b39e69244584b2518294ea0bcf8a7a4",
+      "en_sha256": "6b585a2debbc9cff2741f7ed19acaa1fff3382b7b41035fe17440ae776b5ce96"
+    }
+  }
+}

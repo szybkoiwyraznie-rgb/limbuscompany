@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=601].title": {
+      "pl": "Odcinek 1: Ważenie Szat",
+      "kr_sha256": "e4f0312ce25a529bd1c87dca596ff077b1ed560d05448c5a64888d23e32d4aa7",
+      "en_sha256": "e924fda5029438f8b79b94c422afc16044b3bb9edd38e49daadd1b78ce010de0",
+      "origin": "ai"
+    },
+    "dataList[id=602].title": {
+      "pl": "Odcinek 2: Skalanie",
+      "kr_sha256": "bf8d76a3709e7f6a242f53b17d6873479973db95d4df76ebab762198db206694",
+      "en_sha256": "41628e6918a1eb0a99c879ec92be64191f2e7369db1f0c16b1e8a14793a101f3",
+      "origin": "ai"
+    },
+    "dataList[id=603].title": {
+      "pl": "Odcinek 3: Niewinne Serce–Oblicze Rzeczy",
+      "kr_sha256": "afc3ec9754a2092aff97fe27d81771d6b9f913f171e31ae957a0af293b4b46e7",
+      "en_sha256": "3580f67114742018c175248d1ce5a6775fc512410976ab75578dc5e83caa7df4",
+      "origin": "ai"
+    },
+    "dataList[id=604].title": {
+      "pl": "Odcinek 4: Splot–Zatracenie–Zaślepienie",
+      "kr_sha256": "33550bf4cce60b073ce01dd499349fc08367c765febf9a3535ba51160215f421",
+      "en_sha256": "5ac534daaf7cb337877b4334caf656932f7fcbfe9c564971e877e7e941309b8c",
+      "origin": "ai"
+    },
+    "dataList[id=605].title": {
+      "pl": "Odcinek 5: Nadejście",
+      "kr_sha256": "26a9d0ed1483102e0fff1c3cb10577e5cfd1b781534426c6105df03ffb3113b7",
+      "en_sha256": "2a8f166b70ebed42cba3097bde034efea0a4c748f3494c02eec233341dc68eba",
+      "origin": "ai"
+    }
+  }
+}

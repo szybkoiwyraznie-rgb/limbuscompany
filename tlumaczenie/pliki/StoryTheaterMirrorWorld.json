@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=MirrorWorld_Name_10].content": {
+      "pl": "(Rozdz. 1) Świat dawnej G Corp.",
+      "kr_sha256": "04243810ec0c95467a08acba3bd2165b85a0f2bc6dfa93785d9883368c70590b",
+      "en_sha256": "ff5e36da864cbf82345e9c039dbe9efe10e383e183ab95d5da49e5ccf6f086c4",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_11].content": {
+      "pl": "(Rozdz. 2) Świat Zaułków J Corp.",
+      "kr_sha256": "b932b75b3849cc2241bf703d4eaa5fe00c134d4f04dad58324fb4c73b61eb6aa",
+      "en_sha256": "20ef81289c52f8d1172271aee5450b95d91a7a68f586242bb91f3dec1e365c83",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_12].content": {
+      "pl": "(Rozdz. 3) Świat N Corp.",
+      "kr_sha256": "66d34b144344e238c5ae5bd6bbe19131f9addcbdfc2fed03662e97725aad9038",
+      "en_sha256": "d6b859ecfa205e9ee5dd8e1221a486f24edd6151950fa483fd3fac6003045abc",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_13].content": {
+      "pl": "Świat Zaułków Dystryktu 23",
+      "kr_sha256": "d4144b4f091f9367be583458de7982ea92222f241861eb41ba29b46631c93d7b",
+      "en_sha256": "cfae826f878eecd812499c5ad6070a419d8ac9e43fbbf4d827f8fff251b90279",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_14].content": {
+      "pl": "(Rozdz. 4) Świat K Corp.",
+      "kr_sha256": "af59c762940da25a98e6a8b1475d5073e4b7173ea9788bd4ff4a9c694f57fdf8",
+      "en_sha256": "cddcaf4e38972251cf118f2165c89a44d079293b069839e0945af4dba774eab5",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_15].content": {
+      "pl": "Świat Południowego Oddziału Stowarzyszenia Cinq",
+      "kr_sha256": "aaafacdc6241a3a8656c430b4b8c4fc906e7e65fe71c718d0b3313189e738ec1",
+      "en_sha256": "039820db0340eff22ecad46988f4a2ad5009f8dacdd898b3fbcdd12e2a53b9c0",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_16].content": {
+      "pl": "Świat Zaułków Dystryktu 21",
+      "kr_sha256": "46cc26931eaa303449f8a386653d671a7ce5415f906d64e3ca6626975cb5efe0",
+      "en_sha256": "7ff36f2192a3880e62cfeadfafabdf5f5244974cc9aaa674b02bd97149fc0f48",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_17].content": {
+      "pl": "Świat Biura Trzonowca",
+      "kr_sha256": "cd4872972784f0e31e0667ebaef42260fa18d11128b6799876ba4ab59798612d",
+      "en_sha256": "4210c8e31ccad51b0401739ce00ab87bdd63361761db92f514daaa34bea7ebf1",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_18].content": {
+      "pl": "Świat Południowego Oddziału Stowarzyszenia Dieci",
+      "kr_sha256": "59875cc17b6bd44c2ce879930e3c6b1db2155b095cda22ed79386bc132b8cd0e",
+      "en_sha256": "2458d5b73fbe4916a9b79385cdc90d25dcf114ac9d453a60807e7bb34c6dd25c",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_19].content": {
+      "pl": "Świat Centrali Lobotomy Corporation - 1",
+      "kr_sha256": "77b623bf12a8c3f045ce9793f8f566ba33181fe3c7838178ef67e7d930959090",
+      "en_sha256": "bd895616d36e692d4ed47fa53fede92e1ae9afe38f7d4f74b666300e8ae7d9f3",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_1].content": {
+      "pl": "Świat Klanu Kurokumo i Rodu Ostrza",
+      "kr_sha256": "05b01f9e149ee2e99106372a2f7f97fe31920ef8ea29c6446608cbec654a0701",
+      "en_sha256": "22cf1a3c49c0e9b08af98e138f8f7fbae1c719e39e1d1948451560ce4c83f3fe",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_20].content": {
+      "pl": "Świat Dawnych Gości Biblioteki - 1",
+      "kr_sha256": "b61625337c412670f27c591681a14513e0fe7a565290e0ca983a01fbce4d1bb6",
+      "en_sha256": "9f418959dc68c7d0bcf3ba474dfef93067adbb1343b576878a04dd62a8a15792",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_21].content": {
+      "pl": "(Rozdz. 5) Świat U Corp.",
+      "kr_sha256": "5642c7f76f64fc744ec3e58fbf4315be348e962407437c1a3a73cf58cd9d9ccd",
+      "en_sha256": "cbd621ed9a9f97754a6da5fffe09aaca01c35075f8cdd5b15ca7f9154f7b39e7",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_22].content": {
+      "pl": "Świat Południowego Oddziału Stowarzyszenia Öufi",
+      "kr_sha256": "725cda6a7f898d6495a016794367733261b1c40aac8f914f0b243e31d2749fb2",
+      "en_sha256": "6676b0d2b6fddf4444799eb5ada1667d960ee73425782abdd2a75ca6a72d9b59",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_23].content": {
+      "pl": "(Rozdz. 6) Świat Wichrowych Wzgórz",
+      "kr_sha256": "549fd65d8b15583f4ef5799b269143f5de6ff85c5669996729166252836287fe",
+      "en_sha256": "b36b9e07e13efb9fb684161ca67c016afdc8876feb533cdc5eb5eb94f572fc2b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_24].content": {
+      "pl": "Świat Serdecznego",
+      "kr_sha256": "46036294060cc1b30730b8fef09c671157576f16dbbda99f0ece1f9ddc19b95f",
+      "en_sha256": "a2266d1285b7058e53dac976355e9914fee03c157aab74fe6009037366f8cadf",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_25].content": {
+      "pl": "Świat Zaułków Dystryktu 20",
+      "kr_sha256": "7be70fa351c3370899089a0103b5aa1e35041d38bc7ebec89746cf496145c5d2",
+      "en_sha256": "e0b74c4a3aca865aced37dd29739fb9ab498e9b20e3aa7a8f188e029b1a6a495",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_26].content": {
+      "pl": "Świat T Corp.",
+      "kr_sha256": "d04ff0d40ac049d4f1c4c80e79636cf143ee5e0e097def6f2c36ce6031d2ab36",
+      "en_sha256": "7c4f110c142c695a807cbb28c093cf447b063cff0be4467c4cea4214b28984b6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_2].content": {
+      "pl": "Świat Południowego Oddziału Stowarzyszenia Liu",
+      "kr_sha256": "53022eefee889b445a0ece4c219517bdb1fb924ffb902acd4b19363223c8b434",
+      "en_sha256": "6ff44062d1ff9f5f9eb51f18ba7dcf4533a53f137f55469289aef156ec83180f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_3].content": {
+      "pl": "Świat Południowego Oddziału Stowarzyszenia Zwei",
+      "kr_sha256": "f74f464241d88e165322f5ac58252123746dd1ba97864b837936105b20db01da",
+      "en_sha256": "461af8c4cb9201cb4775785dc6c39a36dd2a45749495ab7634180969bc039486",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_4].content": {
+      "pl": "Świat Południowego Oddziału Stowarzyszenia Shi",
+      "kr_sha256": "9a2b0a656e87171f74607a7e346dbc88d0657a2cc295f3af6869678a2f910838",
+      "en_sha256": "1f5fd8f296cb5f8052af815375825ae4ac317cabe8aa11989de81b52ec24c501",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_5].content": {
+      "pl": "Świat Południowego Oddziału Stowarzyszenia Seven",
+      "kr_sha256": "850ad2796cd84edb5d4173269b1fc4bb80fd5cc4e42d64f1414f49fa900399e3",
+      "en_sha256": "7a2b177a83d2149e09fd2494965a4af1444d576c45ea02c979ed3d1c543de2e3",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_6].content": {
+      "pl": "Świat W Corp.",
+      "kr_sha256": "2d7f9aeabd6054d6d436f62061101f781a14f80e7f6a39b494a93ff295d26ae4",
+      "en_sha256": "732748610edfeef74ef32626928ac323eb682faccff5b2d8478363f0b60eda6d",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_7].content": {
+      "pl": "Świat R Corp.",
+      "kr_sha256": "7a096a7b9f6b6bc3eea0fc0b1a034a9a6616014f8e38f5af94ae7c4764e08d65",
+      "en_sha256": "c3c447c9ee3799e8ab928282d24457799bbedfd7beaef2e21f2c5a19da67b846",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_8].content": {
+      "pl": "(Rozdz. 2) Świat LCCB",
+      "kr_sha256": "b1f1c5516fb2bc7ddf425a47a710cb736c2de859325ce7f84818d26c154e73dd",
+      "en_sha256": "2aeddb5b43a2d2c99bc4667e1ad460e2ef8051df58fc5a4de2f3b8ef01e678cb",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Name_9].content": {
+      "pl": "(Rozdz. 1) Świat dawnej L Corp.",
+      "kr_sha256": "d5cfe094c1b40172254431ea3d011179d97f463d3dff1586810c51634203c37d",
+      "en_sha256": "750cab1df5dab44692d024f952f2f5a17f999ec61cef3d0a424d6a4eb0d16f8b",
+      "origin": "ai"
+    }
+  }
+}

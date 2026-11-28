@@ -1,0 +1,436 @@
+{
+  "entries": {
+    "dataList[id=122801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122801].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122801].levelList[level=1].desc": {
+      "pl": "w stanie [TimeAcceleration], Moc Starcia +1\n[DefeatDuel] przy 75% HP lub mniej, zużywa 40 [LimitedTime] i zyskuje 1 [Protection] (1 raz na turę)",
+      "kr_sha256": "1d6e1bbc6e93fd578e9e3252439d6e593b40d92cbb53ec1628dcccd9088ec6cb",
+      "en_sha256": "a8bfb32fc9d5d933fd09f45aa3e35fe4b5ebb2a67d9d8840e1ca1f0b21104da7",
+      "origin": "ai"
+    },
+    "dataList[id=122801].levelList[level=1].name": {
+      "pl": "Strach Cię Wziął?",
+      "kr_sha256": "e9f163eb8a18ab49f7334c0f12dad88d0cc5eb4ae772b64c1522795ecedf0876",
+      "en_sha256": "3d21b4710245ab9cdbc431a9784fb2996b18e4c899de4cd38602cd6afdd00245",
+      "origin": "ai"
+    },
+    "dataList[id=122802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=122802].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=122802].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=122802].levelList[level=1].desc": {
+      "pl": "w stanie [TimeAcceleration], Moc Starcia +2\n[WhenUse] przy 700+ [LimitedTime], zwiększa Licznik [Laceration] celu o 3\n[WhenUse] przy 500+ [LimitedTime], zwiększa Licznik [Laceration] celu o 1\n[WhenUse] przy 400+ [LimitedTime], zużywa 20 [LimitedTime] i nakłada o 1 więcej Mocy [Laceration] i Licznika [Laceration] tą Umiejętnością",
+      "kr_sha256": "f7d4f71b7a901897bb7afdacf882c6ec2dc36096943d644dcc00dc3291f3d2fe",
+      "en_sha256": "b79a153a906bb877f48dd28edfc26231b72745e4722bed399e020661f1a2efac",
+      "origin": "ai"
+    },
+    "dataList[id=122802].levelList[level=1].name": {
+      "pl": "Kara za Zabijanie Czasu",
+      "kr_sha256": "e4a35d1e0ee8082d76f3a8431c7e93d6e4ff12b30be82bb16896f26c44382f6a",
+      "en_sha256": "436cae0e6ef7323da6ff84412b28ec029d04254028ac76a336b7c8c23e0e096f",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "fef4e87beccfc866c2827a2247ab61c7e8b94d471a71bcf66b4d6fc7993dcc3e",
+      "en_sha256": "3cd13f0afc0cde801062a209ce0dc0f26baed43ec00c8a221a260e50f8e15ce7",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "fef4e87beccfc866c2827a2247ab61c7e8b94d471a71bcf66b4d6fc7993dcc3e",
+      "en_sha256": "3cd13f0afc0cde801062a209ce0dc0f26baed43ec00c8a221a260e50f8e15ce7",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].desc": {
+      "pl": "w stanie [TimeAcceleration], Moc Monet +1\n[WhenUse] przy 75% HP lub mniej, zużywa 40 [LimitedTime] i zyskuje Moc Starcia +2\n[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia z tej Umiejętności nie Oszołamiają celu",
+      "kr_sha256": "07f1c973c034ed7b09f3c29a1c0a40f6d47049ee0d6c7721e4ee58a405e029a3",
+      "en_sha256": "a09b5422042c9952ada4965474afc939648b0ea208ee056ca6bece533599c730",
+      "origin": "ai"
+    },
+    "dataList[id=122803].levelList[level=1].name": {
+      "pl": "Ekstrakcja",
+      "kr_sha256": "13dff9fcdbaa76411e26771911baf3d94c4f22055e0d6da5b784a58e67a0601f",
+      "en_sha256": "3ded2af71d1e62505e98a2727138ff675facec427ba82bed38f910c557edaa07",
+      "origin": "ai"
+    },
+    "dataList[id=122804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122804].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Laceration]",
+      "kr_sha256": "b204b8da0a1e39d33e047e709b130778052fb30c79e33af882d0d3ba7fdc895c",
+      "en_sha256": "4e6210a6e93bdca6ebf45c81a4434362ab1ec33090580e3ab742eb37ca3aaff8",
+      "origin": "ai"
+    },
+    "dataList[id=122804].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122804].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "b59b2da484d428ea24d2d2e56ff0acf6bac249784f7383715079cc5b51bc9f86",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=122804].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 75% HP lub mniej, zużywa 60 [LimitedTime] i zyskuje Moc Starcia +2\n[BeforeAttack] w stanie [TimeAcceleration], Waga Ataku +1",
+      "kr_sha256": "3f02b17e36f898d1d428f4fe1ae3cdc61caf5b459765b3a73dc4e1633be52b84",
+      "en_sha256": "69c2b61dfd53aa6001c2e9a8c9a6828e8beca5532aad2c8d3ed7016ed7e486a8",
+      "origin": "ai"
+    },
+    "dataList[id=122804].levelList[level=1].name": {
+      "pl": "Okaleczenie",
+      "kr_sha256": "0a342368538f09abfae3a54e2152db4a0702ef685167bd5e95f29bde9cb40286",
+      "en_sha256": "8133dc7298c9306297345152f40fd3235948bc2578ee090a333085df8368a311",
+      "origin": "ai"
+    },
+    "dataList[id=122805].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nnakłada [TimeKillerWatch] na cel, który użył Umiejętności ataku przeciwko tej jednostce\n[StartBattle] zużywa 200 [LimitedTime] i zyskuje [TimeAcceleration] w następnej turze",
+      "kr_sha256": "f1d3b318a17c7fa069c8465c2cb40baf47d47ea3aed01c1e0e66083b626f92b7",
+      "en_sha256": "b6bc5393d519381aabca8e301c50bef9be2a6db1bd94456ce9ec02676df97df5",
+      "origin": "ai"
+    },
+    "dataList[id=122805].levelList[level=1].name": {
+      "pl": "Czas na Zbawienie",
+      "kr_sha256": "4e07534b05b36e75a4bfb899b4ef98af3fcc9bf0d00f61057fec5a5ef61b584d",
+      "en_sha256": "0bc6edf4c88ef23be3995c5e561bb179a3f65f5aa07f56b254e415f0c8964c60",
+      "origin": "ai"
+    },
+    "dataList[id=122806].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 100 [LimitedTime] (maks. 3)",
+      "kr_sha256": "cbd8819e6b1ed3247f4b7e169addc26f0681803a8fa365d6bdeaf90565d1a97f",
+      "en_sha256": "65fd7b3d782bc7489808dcc4ff4ca0845ed2727b2fb7c7ac05ff11bbe9447024",
+      "origin": "ai"
+    },
+    "dataList[id=122806].levelList[level=1].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=122807].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122807].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122807].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zyskuje 1 [Vulnerable]",
+      "kr_sha256": "55c2bb547bdbfffdb6952ca20075ac3d56e55847f0ca1bff82d48f0abd281077",
+      "en_sha256": "99700502cd51380bf149062a23bc601a0a299b39b1eac3e261821153909dc498",
+      "origin": "ai"
+    },
+    "dataList[id=122807].levelList[level=1].name": {
+      "pl": "O nie...",
+      "kr_sha256": "b125ef986cefafb8d82db8d5f47518a945fe2183374b4c0931827720365500d9",
+      "en_sha256": "56ef9e2de10fe1ce5c4bede177e6fc95dbd990ac0ee0038d068808858770afd8",
+      "origin": "ai"
+    },
+    "dataList[id=122808].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122808].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122808].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122808].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=122808].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zyskuje 1 [Vulnerable]",
+      "kr_sha256": "55c2bb547bdbfffdb6952ca20075ac3d56e55847f0ca1bff82d48f0abd281077",
+      "en_sha256": "99700502cd51380bf149062a23bc601a0a299b39b1eac3e261821153909dc498",
+      "origin": "ai"
+    },
+    "dataList[id=122808].levelList[level=1].name": {
+      "pl": "Brakuje Czasu",
+      "kr_sha256": "e2b36355f33fb66fddce2c8873766ac8ef1d135cef206091c1f5b66a87980e82",
+      "en_sha256": "53027df58fff214dce03b95b6633add226087fe3cfed2dae8b0f73b24a7bb4e6",
+      "origin": "ai"
+    },
+    "dataList[id=122901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122901].levelList[level=1].desc": {
+      "pl": "w stanie [TimeAcceleration], Moc Starcia +1\n[DefeatDuel] przy 75% HP lub mniej, zużywa 40 [OwnTime] i zyskuje 1 [Protection] (1 raz na turę)",
+      "kr_sha256": "21b48aa4fb687535181ad636504e7ed263da8ddb6a1b2cfdede7843295c2c26d",
+      "en_sha256": "ed49839a3e39978fa2dbfa7b6167c2afe1f7026d6228eeb68ecb5e4e25fb61a6",
+      "origin": "ai"
+    },
+    "dataList[id=122901].levelList[level=1].name": {
+      "pl": "Strach Cię Wziął?",
+      "kr_sha256": "e9f163eb8a18ab49f7334c0f12dad88d0cc5eb4ae772b64c1522795ecedf0876",
+      "en_sha256": "3d21b4710245ab9cdbc431a9784fb2996b18e4c899de4cd38602cd6afdd00245",
+      "origin": "ai"
+    },
+    "dataList[id=122902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=122902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=122902].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=122902].levelList[level=1].desc": {
+      "pl": "w stanie [TimeAcceleration], Moc Starcia +2\n[WhenUse] przy 600+ (suma [OwnTime] wszystkich Części), zwiększa Licznik [Laceration] celu o 3\n[WhenUse] przy 500+ (suma [OwnTime] wszystkich Części), zwiększa Licznik [Laceration] celu o 1\n[WhenUse] przy 400+ (suma [OwnTime] wszystkich Części), zużywa 20 [OwnTime] i nakłada o 1 więcej Mocy [Laceration] i Licznika [Laceration] tą Umiejętnością",
+      "kr_sha256": "688013b996944f4a10cf457a322946f68e06fee17ae6eeac362f3705bb3fcb75",
+      "en_sha256": "5cfc546899959367e35df483924ce8bc266b7a6097fdf6a329daaf6beb4dfa68",
+      "origin": "ai"
+    },
+    "dataList[id=122902].levelList[level=1].name": {
+      "pl": "Kara za Zabijanie Czasu",
+      "kr_sha256": "e4a35d1e0ee8082d76f3a8431c7e93d6e4ff12b30be82bb16896f26c44382f6a",
+      "en_sha256": "436cae0e6ef7323da6ff84412b28ec029d04254028ac76a336b7c8c23e0e096f",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "fef4e87beccfc866c2827a2247ab61c7e8b94d471a71bcf66b4d6fc7993dcc3e",
+      "en_sha256": "3cd13f0afc0cde801062a209ce0dc0f26baed43ec00c8a221a260e50f8e15ce7",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "fef4e87beccfc866c2827a2247ab61c7e8b94d471a71bcf66b4d6fc7993dcc3e",
+      "en_sha256": "3cd13f0afc0cde801062a209ce0dc0f26baed43ec00c8a221a260e50f8e15ce7",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].desc": {
+      "pl": "w stanie [TimeAcceleration], Moc Monet +1\n[WhenUse] przy 75% HP lub mniej, zużywa 40 [OwnTime] i zyskuje Moc Starcia +2\n[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia z tej Umiejętności nie Oszołamiają celu",
+      "kr_sha256": "8651e3831ec7911a90cd16db0f2981d59472e3533b9bdfadb756e9fa922ee855",
+      "en_sha256": "1edca5b9dbdcf2e8d574be5b84771516af2c844ef30538233f7a584917a46ec9",
+      "origin": "ai"
+    },
+    "dataList[id=122903].levelList[level=1].name": {
+      "pl": "Ekstrakcja",
+      "kr_sha256": "13dff9fcdbaa76411e26771911baf3d94c4f22055e0d6da5b784a58e67a0601f",
+      "en_sha256": "3ded2af71d1e62505e98a2727138ff675facec427ba82bed38f910c557edaa07",
+      "origin": "ai"
+    },
+    "dataList[id=122904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122904].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Laceration]",
+      "kr_sha256": "b204b8da0a1e39d33e047e709b130778052fb30c79e33af882d0d3ba7fdc895c",
+      "en_sha256": "4e6210a6e93bdca6ebf45c81a4434362ab1ec33090580e3ab742eb37ca3aaff8",
+      "origin": "ai"
+    },
+    "dataList[id=122904].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122904].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "b59b2da484d428ea24d2d2e56ff0acf6bac249784f7383715079cc5b51bc9f86",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=122904].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 75% HP lub mniej, zużywa 60 [OwnTime] i zyskuje Moc Starcia +2\n[BeforeAttack] w stanie [TimeAcceleration], Waga Ataku +3\n[BeforeAttack] przy 60% HP lub mniej, zużywa 10 [OwnTime] i zyskuje Waga Ataku +1",
+      "kr_sha256": "7234fd8c5927dbfe6036e2b7b21e22d7b94a94c1e38a811c8821222fbedd538a",
+      "en_sha256": "b09344bacef2fee5f5adb1687ba2bab99a4b060492a545d7505a0e6f3fdcd92b",
+      "origin": "ai"
+    },
+    "dataList[id=122904].levelList[level=1].name": {
+      "pl": "Okaleczenie",
+      "kr_sha256": "0a342368538f09abfae3a54e2152db4a0702ef685167bd5e95f29bde9cb40286",
+      "en_sha256": "8133dc7298c9306297345152f40fd3235948bc2578ee090a333085df8368a311",
+      "origin": "ai"
+    },
+    "dataList[id=122905].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nnakłada [TimeKillerWatch] na cel, który użył Umiejętności ataku przeciwko tej jednostce\n[StartBattle] zużywa 200 [OwnTime] i zyskuje [TimeAcceleration] w następnej turze)",
+      "kr_sha256": "fd215691cafac0dfcd305ae8659667206d049a097af4ffbb9b728b94ddc72481",
+      "en_sha256": "11ea2a4faf04d9f23a790ef6d9e476c45d250cb46a7a21aca5b9cd761e79fd75",
+      "origin": "ai"
+    },
+    "dataList[id=122905].levelList[level=1].name": {
+      "pl": "Czas na Zbawienie",
+      "kr_sha256": "4e07534b05b36e75a4bfb899b4ef98af3fcc9bf0d00f61057fec5a5ef61b584d",
+      "en_sha256": "0bc6edf4c88ef23be3995c5e561bb179a3f65f5aa07f56b254e415f0c8964c60",
+      "origin": "ai"
+    },
+    "dataList[id=122906].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 50 sumy [OwnTime] wszystkich Części (maks. 3)",
+      "kr_sha256": "79b36ac7585bed061781505912ab73fdcfdabee5a84ed2bbb0d5f39af11e779a",
+      "en_sha256": "4779515f793d35594c3961852b08cf4ad30dcdd8ffed9c1c838e728e92ef9455",
+      "origin": "ai"
+    },
+    "dataList[id=122906].levelList[level=1].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=122907].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] usuwa czas celu. gdy ta jednostka usunie czas celu, wszystkie Części odzyskują [OwnTime] do maksymalnych wartości i zyskują w następnej turze 10 Pośpiechu i 10 Wzrost Mocy Ataku.",
+      "kr_sha256": "8f27afe44ebe579f688e706e590b8519f4dafd719fba193372b1fb3857293293",
+      "en_sha256": "e57e878261aad5ce94fdb2720b5114fc87fbb84d4a2c050c4b4c233219079fee",
+      "origin": "ai"
+    },
+    "dataList[id=122907].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nSzybkość tej jednostki jest stała (24).\nw tej turze nie może przejść w Oszołamienie.\n[WhenUse] zabiera łącznie 400 [OwnTime] od wszystkich, po czym je zużywa.",
+      "kr_sha256": "ae4b73ef1927d8dc2aa93116779aff8ba529104002957b6804c62cd622a05693",
+      "en_sha256": "a3b8c68d8295038b625436893d0f18dfdd49115551906c3284378874d0d8e1a7",
+      "origin": "ai"
+    },
+    "dataList[id=122907].levelList[level=1].name": {
+      "pl": "Czas Zabijania Czasu",
+      "kr_sha256": "1b2c239e360c65c4a33c935e909b83efea4601ee6581405e2b7e9571c804ebbe",
+      "en_sha256": "4f6bb38b5d15b5696ef94bc157228a44c4e1f9b13f394949b1eeab46e961ae3a",
+      "origin": "ai"
+    },
+    "dataList[id=122908].levelList[level=1].name": {
+      "pl": "Potrzebujemy Więcej Czasu!",
+      "kr_sha256": "46e23e9d4c99a31fa4dcee9ccb2ef4d4ec47ddac34f962a9bef24fecfe904f5d",
+      "en_sha256": "5bf816c516e7880a6cea96ce7ade2e5676f6ff34754b78c382075f70e6cf0d01",
+      "origin": "ai"
+    }
+  }
+}

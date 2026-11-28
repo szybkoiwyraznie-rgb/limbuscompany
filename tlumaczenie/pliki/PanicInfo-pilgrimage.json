@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=1061].lowMoraleDescription": {
+      "pl": "- Zadawane obrażenia +([NervousImpairment] na celu / 2)% (maks. 15%)\n- Początek Tury: zyskaj 1 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "839a53861a44387a5e7e9babd1b3ecd67088dbcb0ce17d9a20b2d80e38582a2d",
+      "en_sha256": "03f39a584fef57c02c2994ada7a8b78ce96055b12ae30715fdddd935e509fc9d",
+      "origin": "ai"
+    },
+    "dataList[id=1061].panicDescription": {
+      "pl": "- Zadawane obrażenia +([NervousImpairment] na celu)% (maks. 30%)\n- Początek Tury: zyskaj 2 [AttackDmgUp] i 3 [Vulnerable]",
+      "kr_sha256": "0ee57b81f9f9a507be237fa5b3ebd38302b942db7a661f16181fd6db63d4047c",
+      "en_sha256": "08bffa86f12f1f514443f1d9260cad76b81e6bbff79773e436614155b108dca0",
+      "origin": "ai"
+    },
+    "dataList[id=1061].panicName": {
+      "pl": "Serce Współczucia",
+      "kr_sha256": "263c1dbb7f031671cb5eb25cd6dba4fc6dbebf887458e16b03e6bec4ddcc754e",
+      "en_sha256": "8b89ea02caf422d7e4e817682427528d9604f56344bc4766c9a0c474e31bda67",
+      "origin": "ai"
+    },
+    "dataList[id=1062].lowMoraleDescription": {
+      "pl": "Koniec Tury: zużyj 3% PŻ, aby nałożyć po 1 [Enhancement] i [Vulnerable] na wszystkich sojuszników",
+      "kr_sha256": "5e7cffc1142cd6e628c978c562082f4dd7add2904ab52c20f22933842f032cf3",
+      "en_sha256": "b3ab3bf448e88a9209f81fc57fb784cf9b802d9878cd56461fc25aaeac7467c5",
+      "origin": "ai"
+    },
+    "dataList[id=1062].panicDescription": {
+      "pl": "Koniec Tury: zużyj 5% PŻ i zyskaj 1 [Vulnerable], aby nałożyć po 1 [Enhancement] i [Vulnerable] na wszystkich sojuszników",
+      "kr_sha256": "2af7dfefa51d4ed1a3bcf1a993ea4840284d77952998c9a63c9660b5d0143e05",
+      "en_sha256": "25579919c7f0a777409090e275c14aec226e8be5aaa4844432b092675d9463f3",
+      "origin": "ai"
+    },
+    "dataList[id=1062].panicName": {
+      "pl": "Zew Krewniaków",
+      "kr_sha256": "17ccef331a9d73ac8b2777034c24db473df9fc90e283be50fba1edb81b95d7e0",
+      "en_sha256": "782a675f62602d5a65c0765689985aec6ed62fbd983236205f316081f8efe850",
+      "origin": "ai"
+    },
+    "dataList[id=1064].lowMoraleDescription": {
+      "pl": "Wszystkie odporności zmieniają się na „Zwykła”",
+      "kr_sha256": "db61df9cb7ab112d4a9aef60534d59912e2c675ea6ac18053d8315d1ac2ffa5c",
+      "en_sha256": "9b2b77656c931cef7977f475cdc1bc317c8ab6231db6bb7ec4d21e4994b5174c",
+      "origin": "ai"
+    },
+    "dataList[id=1064].panicDescription": {
+      "pl": "Wszystkie odporności zmieniają się na „Zwykła”\nPodwaja ilość Siły [Combustion], [Laceration], [Vibration] oraz [Burst] zyskiwanej z efektów umiejętności",
+      "kr_sha256": "ef36f6ddd7c849b219287d15df7089d3ee82b998048e9f2ed3d822f3d8fad269",
+      "en_sha256": "be5ff0e5ec11d2f6407ee785f69a548dbd6ff688a439f401663d692c141c2ad6",
+      "origin": "ai"
+    },
+    "dataList[id=1064].panicName": {
+      "pl": "Świadomość Roju",
+      "kr_sha256": "f925c434e1d72b1c49b50e3152bdbeed1ec27a4f74197c7b16352c55089b7ebe",
+      "en_sha256": "bdaf994abf60e256fa58fd47ab4dcf8d988ad5967e8f89631e70e43fddda6c0c",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=8363].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8363].name": {
+      "pl": "Fruit of Understanding",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=8364].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8364].name": {
+      "pl": "Fruit of Understanding",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=8365].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8365].name": {
+      "pl": "Fruit of Understanding",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=836602].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=836602].name": {
+      "pl": "Lewe Ramię",
+      "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
+      "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
+      "origin": "ai"
+    },
+    "dataList[id=836603].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=836603].name": {
+      "pl": "Prawe Ramię",
+      "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
+      "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
+      "origin": "ai"
+    },
+    "dataList[id=8366].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8366].name": {
+      "pl": "Grant Us Love",
+      "kr_sha256": "88043243e72b916b5909022b9039de0e0bf987a9921193878390acceac092b52",
+      "en_sha256": "a26b83807662baa5868a70bac4c0034e9c31b90e97baf2ed2abb1503ed0d378a",
+      "origin": "ai"
+    }
+  }
+}

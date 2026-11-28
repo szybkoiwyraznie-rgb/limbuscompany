@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=122801].desc": {
+      "pl": "na koniec tury, jeżeli [LimitedTime] tej jednostki dzieli się bez reszty przez 60, zyskuje w następnej turze 2 [SlashDamageUp] i 2 [PenetrateDamageUp]",
+      "kr_sha256": "d86131a4b209b0e008111c5cd0404257f255ff39178e33d9013229fb137c9b1a",
+      "en_sha256": "9829638daecc3428f3885e485ff328430b7c77138b156f162eac417e3f2c5755",
+      "origin": "ai"
+    },
+    "dataList[id=122801].name": {
+      "pl": "'O Clock",
+      "kr_sha256": "ef2d2cdc6bd9a17816d2f18a809191a7617522215b6c6cb69feeec0efbaa1d04",
+      "en_sha256": "0aa38b33435a4dbe8567e9080d5e6db05d5c8dffcd1aae6232a20e76e50d40be",
+      "origin": "ai"
+    },
+    "dataList[id=122802].desc": {
+      "pl": "jeżeli ta jednostka jest w stanie [TimeAcceleration], przy trafieniu zadaje dodatkowo 10% zadanych obrażeń w Atrybucie Grzechu użytej Umiejętności (2 razy na turę)",
+      "kr_sha256": "dca61feea80edfbb07e2fdb5319fda20dd0565ed7685b2f872c33494990a9bee",
+      "en_sha256": "22f0a50871a95dceaff8c3e9908197b392b3bbd18181e3295e18341045406e4f",
+      "origin": "ai"
+    },
+    "dataList[id=122802].name": {
+      "pl": "Remaining Time",
+      "kr_sha256": "b2380ddf1f3eaefda4199a52f8df8457fccbbb4205f4948316d9bd89e7192272",
+      "en_sha256": "cd8ad67cfa74072f17a54ae598a5b9c167ea7bd57a9177c2411db572b7495492",
+      "origin": "ai"
+    },
+    "dataList[id=122901].desc": {
+      "pl": "na koniec tury, jeżeli suma [LimitedTime] lub [OwnTime] tej jednostki dzieli się bez reszty przez 60, zyskuje w następnej turze 2 [SlashDamageUp] i 2 [PenetrateDamageUp]",
+      "kr_sha256": "8adab1a49f9e8257ad95e5c50df90a8e8e6cd74c22269e5ca7e80bd919fbf4d8",
+      "en_sha256": "7afce8222df996a979b1a2399a3ee6a826935eb3429652e98fa974e3c71f9203",
+      "origin": "ai"
+    },
+    "dataList[id=122901].name": {
+      "pl": "'O Clock",
+      "kr_sha256": "ef2d2cdc6bd9a17816d2f18a809191a7617522215b6c6cb69feeec0efbaa1d04",
+      "en_sha256": "0aa38b33435a4dbe8567e9080d5e6db05d5c8dffcd1aae6232a20e76e50d40be",
+      "origin": "ai"
+    },
+    "dataList[id=122902].desc": {
+      "pl": "jeżeli ta jednostka jest w stanie [EquitableDistribution], przy trafieniu zadaje dodatkowo 10% zadanych obrażeń w Atrybucie Grzechu użytej Umiejętności (2 razy na turę)",
+      "kr_sha256": "1f274a6199911c14aea00c3947c712a2ff0b3a244be830a652f67c8085f0e5cb",
+      "en_sha256": "9ddd60839682301ee78bab0ba475d9358d7c930f7a519b47122157386a2739ae",
+      "origin": "ai"
+    },
+    "dataList[id=122902].name": {
+      "pl": "Time Hyperacceleration",
+      "kr_sha256": "b4ef1eea4863de6d7df8e334e06a451d5219315330c487f6e9f5dbd49df64d18",
+      "en_sha256": "8bdef37a6d28385e0744686d58fe03c7c644f107c70a426554f2fdffb23db9b2",
+      "origin": "ai"
+    },
+    "dataList[id=123001].desc": {
+      "pl": "na koniec tury, jeżeli ta jednostka żyje, nakłada 1 [Protection] w następnej turze na losową Część The Time Ripper.",
+      "kr_sha256": "d8686bc6e22181a8639cc315aa0f90bbd214ec5502924694b11f48824204e072",
+      "en_sha256": "12f0c38113f115a04e05396ad47c6923d877f08610d4b956ebb60b49330719c7",
+      "origin": "ai"
+    },
+    "dataList[id=123001].name": {
+      "pl": "Time Hyperacceleration",
+      "kr_sha256": "b4ef1eea4863de6d7df8e334e06a451d5219315330c487f6e9f5dbd49df64d18",
+      "en_sha256": "8bdef37a6d28385e0744686d58fe03c7c644f107c70a426554f2fdffb23db9b2",
+      "origin": "ai"
+    }
+  }
+}

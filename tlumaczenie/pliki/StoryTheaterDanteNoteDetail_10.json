@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_138].desc": {
+      "pl": "- Kolejka światła fioletowego. Była opisana jako „Linia 5”.\n- Podobnie jak na naszej ostatniej kolejce, łańcuchy bitew ciągnęły się przez kolejne stacje, a nawet zmierzyliśmy się z większą liczbą Peccatulum Invidiae. Niektóre zdawały się odbijać też stosunkowo nowe możliwości… Zastanawiam się, jak działają?\n- Ta kolej zaczynała się od dwóch sekcji, spotykała się w połowie i zlewała w jedną. Dość irytujące było to, że byłem zablokowany względem Kart Tożsamości, których użyłem już w drugiej Sekcji.\n- Między sekcjami było to dziwne… coś, co wzmacniało Grzeszników. Musieliśmy ostrożnie wybierać, które z nich wybrać, bo zdawało się to wpływać nie tylko na Grzeszników, ale i na naszych przeciwników.",
+      "kr_sha256": "f09c661b025d73c5c8bdaef15273b8de5f68332b8990588ecaf189c768041b6b",
+      "en_sha256": "8c023eade5e1d97dfcfe96c5fd8f568a8621e83209565aa3b138b676b23f4482",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_139].desc": {
+      "pl": "- Podobno Stowarzyszenia w różnych regionach świata — Zachodzie, Wschodzie, Południu i Północy — mają różne mundury. Zdawało się też, że Fikserzy Stowarzyszeń pracujący w tym samym regionie co ich centrala są uważani za silniejszych albo wyżej stojących niż Fikserzy Stowarzyszeń w innych regionach. I czasem transfery między regionami zdarzały się jako forma awansu.\n- Na drugim końcu spektrum leżą największe Syndykaty, Palce. W przeciwieństwie jednak do Stowarzyszeń ich stroje nie różniły się zbytnio w zależności od regionu. Czasem nosili różne ubrania, ale bardziej wynika to z tego, że nie mają ścisłego kodeksu stroju.",
+      "kr_sha256": "d5926695e01c3e45d932ff83ba40d42f910089bf38c3f12258922252f6b725c8",
+      "en_sha256": "1deef35416e0f4e4d9703c24e34ede9fb9582abded49ee5fdf969a6ddeb87446",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_140].desc": {
+      "pl": "- Ogłaszając pojedynki, wschodni Branch Stowarzyszenia Cinq, zamiast czynić to przez rzucenie rękawicy, czyni to przez ogłoszenie swojej przynależności i imienia.\n- Największą różnicą muszą być ich kodeks stroju i uzbrojenie. W przeciwieństwie do dość ikonicznych peleryn i dużych kapeluszy noszonych przez zachodnich Fikserów, wschodni Branch Stowarzyszenia Cinq nosi zwinny strój, który lepiej zlewa się z ogólnym ubiorem regionu wschodniego. I jeszcze… w przeciwieństwie do innych Fikserów Cinq lub Tożsamości, które spotkaliśmy do tej pory, Grzesznik z Tożsamością wschodniego Stowarzyszenia Cinq używał głównie walki wręcz jako swojego głównego środka walki.\n- Noszą ten bransolet… albo naramiennik zwany „Virescent Pyrojade” na nadgarstku. Wygląda na to, że można ich użyć do stopnienia czegokolwiek, czego dotknie użytkownik, przykładając wysokie ciepło.\n- Podobno zielony płomień Virescent Pyrojade ma moc palenia tylko tego przedmiotu, który użytkownik chce spalić. …Szczerze? To brzmi dla mnie jak technologia klasy Osobliwości.",
+      "kr_sha256": "d73010f91186aec845833d7535444c5ff2cf0afe9d79ed9e08affca862989f40",
+      "en_sha256": "ccd497caf46d7066ed623387eab7e9e6a428c88af10b8b0308a3b4965f6620f8",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_141].desc": {
+      "pl": "- To musi odnosić się do pięciu szczególnie znaczących Syndykatów Zaułków.\n- Mówi się, że są tak potężne i wpływowe, że nawet Skrzydła czy Stowarzyszenia nie mogą z nimi łatwo zadzierać. Rodya i Heathcliff powiedzieli mi, że ludzie w Zaułkach muszą poznać i przestrzegać ich zasad, jeśli chcą przeżyć.\n- Dziwnie zresztą, Ryōshū zdaje się wiedzieć o nich sporo. Ostrzeżono mnie o tło Ryōshū, gdy pierwszy raz wsiadłem do autobusu… może to ma z tym coś wspólnego.",
+      "kr_sha256": "6e55948b28b7f8ca5ea41ef24112d2754782df9ac0a3ace486597732dfe93ddf",
+      "en_sha256": "402531a2e42d90a92ca0fde3e144e523b1729847f04cf9791e334b7b4e1d7429",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_142].desc": {
+      "pl": "- Serdeczny, jeden z pięciu Palców, ceni sztukę i wiedzę.\n- Pojawia się i pojawia w dyskusjach na temat Korytarza.\n- Nie miałem jeszcze okazji poznać nikogo z Serdecznego, ale zetknęliśmy się z ludźmi, którzy kiedyś byli jego częścią. Naprawdę lubili sztukę.\n- I gdy mówię „sztuka”, mam na myśli ten straszliwie makabryczny rodzaj. Z tego, co zebrałem od Tożsamości i od Ryōshū, ich sztuka często składa się z rzeźb zszytych z odciętych części ciał… obrazów malowanych krwią… rzeczy takich.\n- Zdaje się, że wewnętrznie dzielą się na rozmaite „frakcje”. Wyłapałem wśród nich nazwy takie jak „puentyliści” czy „fowiści” — może dzielą się wzdłuż linii filozofii artystycznej.",
+      "kr_sha256": "63f87ac52a006f584626aa90b462cfd183218cc37f1010109c58be2554f0f60d",
+      "en_sha256": "ebabc75b183581aa8aa9c8c3d538dc2a2a751e032c2d3b85ceb0747eab00f6a1",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_143].desc": {
+      "pl": "- Hongyuan Bioengineering Group. Ich Gniazdo leży w Dystrykcie 8.\n- Wszystko jest upchane w jednej wielkiej… Właściwie słowo „wielka” nie oddaje czci ogromności tej megastruktury, która stanowi całość Dystryktu H Corp. Dystrykt 8 jako całość zwany jest „Hongyuan”.\n- Ich Osobliwością jest tworzenie „Bolusów”, rodzaju lekarstwa. Powiedziano mi, że te rzeczy można używać nie tylko do gojenia ran, ale też do procedur modyfikacji ciała. Ale coś w sposobie, w jaki te lekarstwa zmieniają twoje ciało, przeraża mnie.\n- Ci, którzy przyjęli te Bolusy albo poddali się nim w procedurach, zyskiwali części ciała konkretnych stworzeń — albo mieli własne części ciała wymienione na nie.\n- W Dystrykcie 8, w zależności od kwoty twojego majątku netto, rozmiar przydzielonego ci pokoju mógł rosnąć albo maleć, a same budynki przesuwały się, żeby to odzwierciedlić. Czyli tu chodzi o „przestrzeń”, co? Mierzenie majątku czasem w T Corp. było już wystarczająco dziwne.",
+      "kr_sha256": "a3f423ece6cc1e6b1b9948e99e27118a59ce26d794d8f3cfe5e724420b2d5d65",
+      "en_sha256": "732415d9e453f724c13bba5f8d50ddcb12d8b542389729e75b4d006e8f1b0978",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_144].desc": {
+      "pl": "- Są czymś w rodzaju prywatnej armii rozmaitych sił Hongyuan.\n- Jedynym Branchem, jaki spotkaliśmy do tej pory, jest Branch Mao, ale są też inne Watahy Heishou o cechach różnych zwierząt.\n- Jia Xichun powiedziała mi, że władają mocami dwunastu zwierząt z listy zwanej „Dwunastoma Ziemskimi Gałęziami”, co najpewniej niesie jakiś rytualistyczny sens.\n- Zastanawiam się, czy ich przynależność da się handlować? Rozmowy z Tożsamościami ujawniły, że często zmieniają swoich panów — a według Heishou, swoich „lordów”.\n- Skoro R Corp. też ma „Watahy” tematycznie oparte na zwierzętach, mogłem wydobyć pewne podobieństwa między nimi a Heishou.",
+      "kr_sha256": "21517b9a21b04a215346dbf3709300c60b95848cece9506e46119e99e82f45ae",
+      "en_sha256": "2081ba6ce3d97cde26bc6cc7af55661bd468fa41afc62fd120b9d8c3957248be",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_145].desc": {
+      "pl": "- Jako jeden z pięciu Palców stawiają lojalność na pierwszym miejscu.\n- Pierwszy raz zetknęliśmy się z nimi podczas naszej podróży po Wielkim Jeziorze U Corp. Zwracają się do siebie terminami rodzeństwa, jak „Starszy Brat”, „Starsza Siostra”, „Młodszy Brat” i tak dalej, i naprawdę czuć, że łączy ich ta więź rodzinna.\n- Noszą te książki zwane „Księgą Zemsty”, do których spisują swoje urazy i idą za każdym, kto miał pecha trafić do zapisu… Mówiąc o tym, jak długo ten gość jeszcze będzie nas gonił? Zaczynam się martwić, że pewnego dnia wgrami się do Mefistofelesa.\n- Wspominając wydarzenia w J Corp., myślę, że Rodya też ucierpiała przez spotkanie ze Środkowym. Czy ich „uraza” wobec Rodyi została rozwiązana? To wciąż dość drażliwy temat, więc nie mogłem go jej jeszcze poruszyć. Gromadzę coraz więcej pytań do Rodyi z każdym dniem.",
+      "kr_sha256": "0c45222784858e848d37c0b335df9d927c0d947cbc9ce8b8761ef49e5f9be6dd",
+      "en_sha256": "c760b14711ed55a3c49f51518fd6a6450af35d29103fb71b645486ba9211ace2",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_146].desc": {
+      "pl": "- Oni to… ludzie, może? W każdym razie pojawiają się podczas Nocy w Zaułkach.\n- Z pokładu autobusu widziałem ich tylko jako mglisty tłum przemykający obok nas, ale… kiedy stanęliśmy z nimi twarzą w twarz poza autobusem, byli naprawdę bezlitośni i liczni.\n- Podczas zamiatania ulic przetapiają wszystko, co wymaga oczyszczenia — zwłoki w Zaułkach, nieautoryzowane konstrukcje, rzeczy takie. Myślę, że to trochę konieczne, ale… straciłem słowa, gdy dowiedziałem się, że przetapiają też przypadkowych, pechowych ludzi, których złapano na zewnątrz podczas Nocy w Zaułkach.\n- Potrafią nawet przetopić i zjeść swoich, lecząc się od tego, co dało nam niezły kłopot. Naprawdę, naprawdę mam nadzieję, że nie będziemy musieli z nimi walczyć ponownie.",
+      "kr_sha256": "191140ec5111f818f1b2ff997cb0925f0898f5dfd49ff990cbf495097178ce01",
+      "en_sha256": "0ce3f73515c6b7845ed5841b20fc505602766dbb8930146c9fe43d80fc073628",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_147].desc": {
+      "pl": "- Każdej nocy o 3:13 Sprzątacze wynurzają się na osiemdziesiąt minut, by posprzątać Zaułki Miasta.\n- Startując od granic każdego Gniazda, wynurzają się jednocześnie z ziemi, maszerują przez Zaułki i zamiatają wszystko na swojej drodze. Ich marsz składa się z trzech fal z około dziesięcioma minutami wytchnienia między nimi. Nie chcę wyobrażać sobie, co mogłoby się stać, gdybyśmy nawet tego nie mieli.\n- Wiele rzeczy jest zakazanych, gdy Noc w Zaułkach się zaczyna. Nie możemy nagrywać wideo ani audio, nie możemy włamywać się do cudzych domostw ani ich niszczyć…\n- To mi przypomina — Faust powiedziała mi, że to The Head włada Sprzątaczami. Nie umiem nawet zacząć wyobrażać sobie, jak oni w ogóle ze sobą współpracują. Może ma to coś wspólnego z Tabu? Kto wie. Ja na pewno nie.",
+      "kr_sha256": "7c2091e2e4eb39f211bcd3e544ab3259fd2931054d253626284491da6f85cc80",
+      "en_sha256": "76295b678a8463d5b720e0325ea9dc1aee911402d5e47b20cf9e1098404fc06a",
+      "origin": "ai"
+    }
+  }
+}

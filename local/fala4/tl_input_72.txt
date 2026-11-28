@@ -1,0 +1,96 @@
+6973||EGOvoice#Voice_EGO_Ishmael_8.json] 당신을 인도해주진 못해도… 따뜻하게 안아줄 수는 있어요.|Though I can’t guide you… I can offer a warm embrace.
+6974||EGOvoice#Voice_EGO_Ishmael_8.json] 자… 이쪽입니다!|Come on… This way!
+6975||EGOvoice#Voice_EGO_Ishmael_8.json] 총원, 조명이 점멸하는 저 곳으로.\n파도가… 모든 것을 쳐 부술 거다.|All hands, full speed toward where the lights flicker.\nThe waves... will lay waste to everything in our way.
+6976||EGOvoice#Voice_EGO_Ishmael_8.json] 그래요. 그렇게 가만히 있어요. 상처난 고기는… 맛없으니까.|Very good. Sit still and be gentle. Scarred meat isn't... tasty.
+6977||EGOvoice#Voice_EGO_Ishmael_8.json] 주인께서 명하셨습니다. 당신을… 청소하라고.|By the command of my master, I... will cleanse you from this place.
+6978||EGOvoice#Voice_EGO_Ishmael_8.json] 괴물이요? 무슨… 잘못 본 거겠죠. 하아. 아무도… 못 봤지?|A monster? What are you... You've got to be hallucinating or something.\nHaah. ... No one saw that, right?
+6979||EGOvoice#Voice_EGO_Ishmael_8.json] 무량무변. 믿음을. 되새겼다면. 어리석은 의문은 품지 말았어야지!|Unfathomable Infinity. If your faith. Was emboldened.\nYou should have cast those foolish doubts from your heart!
+6980||EGOvoice#Voice_EGO_Ishmael_8.json] 한눈팔지 마세요. 메마른 당신에게… 파도는 반드시 밀려올 테니!|Don’t look away, for the waves… will carry you out of your element!
+6981||EGOvoice#Voice_EGO_Ishmael_8.json] 흐히! 저것을 싸매어… 취한다.|Wheehee! I’ll enwrap it… enrapture it.
+6982||EGOvoice#Voice_EGO_Ishmael_8.json] 보이나요? 세상과 함께 타들어 가고 싶었던 내 몸부림이…|Do you see? My writhing struggle, hoping the world is cocooned in flames with me…
+6983||EGOvoice#Voice_EGO_Ishmael_8.json] 이쪽이군… 아, 거기였나?|Must be here… Oh, was it that way?
+6984||EGOvoice#Voice_EGO_Ishmael_8.json] 바다, 바다로. 배를 버리고 모두 아래로 내려간다. 반짝이던 깊은 그 곳으로!|To the sea, to the sea. All hands, abandon ship and descend. Into the flickering depths we sink.
+6985||EGOvoice#Voice_EGO_Ishmael_8.json] 나를, 나를 의심했지…? 그런 나쁜 마음을 품은 놈은…!|Y-you suspected me, didn't you...?\nBastards harboring such evil thoughts must be...!
+6986||EGOvoice#Voice_EGO_Ishmael_8.json] 청소가 끝나질 않잖아… 네가! 계속 저택을 더럽히고 있어!|There's no end to this cleaning... You! Stop leaving your mess all over the manor!
+6987||EGOvoice#Voice_EGO_Ishmael_8.json] 호기심은 나쁜 거야… 넘치면, 어둠에게 잡아먹히거든!|Curiosity is a dangerous thing, you know... too much of it, and the darkness will eat you whole!
+6988||EGOvoice#Voice_EGO_Ishmael_8.json] 의심 끊고. 믿음 새겨. 그저 맹목적으로… 기도해.|No doubts. Engrave faith. Pray in the dark... Pray with obsession.
+6989||EGOvoice#Voice_EGO_Ishmael_8.json] 길고 긴 어둠에서 올라와, 뒤엉킨 악몽과 함께 너의 바다로!|Rise from the long dark, journey with the torturous nightmare to your sea!
+6990||EGOvoice#Voice_EGO_Ishmael_8.json] 내가 모는 배가 좀 흔들릴 테니 다들 꽉 잡아!|This is going to be one bumpy voyage. Everyone, hold on to something!
+6991||EGOvoice#Voice_EGO_Ishmael_8.json] 바라고 있어, 내가 가고 싶은 방향.|Chart your own way. Your path. That is my wish.
+6992||EGOvoice#Voice_EGO_Meursault_5.json] 수많은 것들이 옥죄어 온다…|The multitude tightens its hold…
+6993||EGOvoice#Voice_EGO_Meursault_5.json] 수많은 시선들이 끊임없이 옥죄어 올지라도… 나는 기꺼이…!|Though the gaze of the multitude may always tighten its hold...\nI will gladly—!
+6994||EGOvoice#Voice_EGO_Meursault_5.json] 순서에 따라 대상을 제거합니다.|Eliminating target under procedure.
+6995||EGOvoice#Voice_EGO_Meursault_5.json] 내가 너를 위해 기도할 것이니, 너는 반드시 부서진다.|I will pray for you, so that you shall surely break.
+6996||EGOvoice#Voice_EGO_Meursault_5.json] …정지. 벗어날 수 없다.|…Halt. You may not escape.
+6997||EGOvoice#Voice_EGO_Meursault_5.json] 이 구속구가 나의 폭력을 저지하기엔, 턱없이 모자르지.|This straight-jacket... isn't nearly enough to hold my violence back.
+6998||EGOvoice#Voice_EGO_Meursault_5.json] 이제 가진 것은 이 전기밖에 없는데… 큭, 이것까지…!|This electricity is all I have left... I can't...!
+6999||EGOvoice#Voice_EGO_Meursault_5.json] 피로부터 피어올라라. 아름다운 꽃이여. 나는 기꺼이 그대를 취하리라!|Blossom from the blood, O beautiful flower.\nI shall gladly claim you as mine!
+7000||EGOvoice#Voice_EGO_Meursault_5.json] 증기 압축 피스톤 압력 제한 해제, 관측 완료된 시간 벡터 계산 완료…\n축적된 과거 변형, 모먼트값 유지… 발사.|Steam compression piston pressure cap removed.\nObserved temporal vector calculation complete...\nTransform Accumulated Past; maintain moment value... Launch.
+7001||EGOvoice#Voice_EGO_Meursault_5.json] 망월참항! 숨을 거두리라!|Awash in the yearning moonlight, I hew your throat and claim the breath that remains!
+7002||EGOvoice#Voice_EGO_Meursault_5.json] 망월참항!|Awash in the yearning moonlight, I hew your throat!
+7003||EGOvoice#Voice_EGO_Meursault_5.json] 숨을 거두리라!|I claim the breath that remains!
+7004||EGOvoice#Voice_EGO_Meursault_5.json] 한발의 총성. 명멸하는 시야 속 어두운 밤을 향하여… 탄환은, 타자의 시선과 마주칠 지어다.|A single gunshot. \nFired into the dark night's reflection on the glimmering sight,\nthe bullet... will meet the gaze of another.
+7005||EGOvoice#Voice_EGO_Meursault_5.json] 한발의 총성. 명멸하는 시야 속 어두운 밤을 향하여… 탄환은,|A single gunshot. \nFired into the dark night's reflection on the glimmering sight,\nthe bullet...
+7006||EGOvoice#Voice_EGO_Meursault_5.json] 타자의 시선과 마주칠 지어다.|... will meet the gaze of another.
+7007||EGOvoice#Voice_EGO_Meursault_5.json] 장애물을 찍어 누른다.|Obstacles will be quelled.
+7008||EGOvoice#Voice_EGO_Meursault_5.json] 너만큼은… 나를 용서하지 말라.|Before anyone else, you… shan’t pardon me.
+7009||EGOvoice#Voice_EGO_Meursault_5.json] 직접 들이 받아 주지.|I will gore you myself.
+7010||EGOvoice#Voice_EGO_Meursault_5.json] 머리가… 금속으로… 뇌가 매끈… 해져서… 끝나, 시작해. 끝나, 시작해!|Head... turning into... metal... brain... flattened... Ends, Begins. ENDS, BEGINS!
+7011||EGOvoice#Voice_EGO_Meursault_5.json] 턱없이 부족해! 이걸로는 타는 목마름을… 둑을… 터트려! 뿌리를 꽂아넣어!!!|More, more! This can't quench this scorching thirst...\nBurst the dams...! Penetrate them with the roots!!!
+7012||EGOvoice#Voice_EGO_Meursault_5.json] 압축, 압축. 증기 역류 무시… 무시 불가. 과거 침식, 기억 침식.\n사용자에게 시간 역류, 크윽… 이해… 불가…|Compress. Compress. Ignore steam reflux... cannot ignore.\nPast corroded. Memory corroded.\nUser affected by temporal reflux, nngh... \nComprehension... failure...
+7013||EGOvoice#Voice_EGO_Meursault_5.json] 참살!|Death!
+7014||EGOvoice#Voice_EGO_Meursault_5.json] 앙 주(En joue), 총구는 사람의 머리로.|En joue, train the muzzle upon the human head.
+7015||EGOvoice#Voice_EGO_Meursault_5.json] 탄환은 흑점에 겨눠,|Sight the bullet on the sunspot...
+7016||EGOvoice#Voice_EGO_Meursault_5.json] 눈부심 속에 꿰뚫어라.|.... and take a clean shot through the blinding glare.
+7017||EGOvoice#Voice_EGO_Outis_11.json] 여행엔 목적이 있었지…|The odyssey had a purpose…
+7018||EGOvoice#Voice_EGO_Outis_11.json] 승리를 위해서라면…|If this is to seize victory…
+7019||EGOvoice#Voice_EGO_Outis_11.json] 모든 업은 다시 돌아와, 네 머리 위에 내려질 것이다.|Karma shall find its way back to you, and rest atop your head.
+7020||EGOvoice#Voice_EGO_Outis_11.json] 쓸데 없는 관심은… 필요 없다!|I don't need... any pointless attention!
+7021||EGOvoice#Voice_EGO_Outis_11.json] 네 놈의 덧없는 분노를 담아… 이 선물을 퍼부어주도록 하지.|I'll stuff your futile wrath in this gift sack... and hurl it right back at your face.
+7022||EGOvoice#Voice_EGO_Outis_11.json] 지겹군… 이 몸이 직접 손봐야겠느냐?|How insipid... Must I deal with it myself?
+7023||EGOvoice#Voice_EGO_Outis_11.json] 눈을 떼지 마라. 한순간이라도 놓친다면, 영원히 방황할테니.|Do not avert your eyes even for a moment, lest you be ensnared in an eternal wandering.
+7024||EGOvoice#Voice_EGO_Outis_11.json] 역시 네놈 말대로 어떤 사람이라도 맞출 수 있는 마법의 탄환이로군.|It really is as you say; this is a magic bullet that will never miss.
+7025||EGOvoice#Voice_EGO_Outis_11.json] 내 탄환이 향하는 곳은 언제나 같다. 필연적으로. 조금의 우연도 없이.|My bullet inevitably flies in the same direction, its trajectory preordained.\nThere are no coincidences.
+7026||EGOvoice#Voice_EGO_Outis_11.json] 여기까지 쏜 이상, 돌아갈 수 없는 거다. 방아쇠를 당겨 도착할 곳이 지옥 뿐이라 해도.|There's no going back when I've already come this far by firing the bullet.\nEven if this road I walk is an inevitable path to inferno.
+7027||EGOvoice#Voice_EGO_Outis_11.json] 내게 자비를 구하지 마라. 내 앞에는 무엇도 남지 않을 테니.|Do not seek my mercy, for only desolation awaits\nthose who stand in my path.
+7028||EGOvoice#Voice_EGO_Outis_11.json] 흔들리는 일 따위 없이. 가로 막는 모든 것을 침묵시키고, 지평선을 따라 나아가라.|Remain unshaken. Grant silence to all that stands before you.\nFollow the land horizon.
+7029||EGOvoice#Voice_EGO_Outis_11.json] 낙망한 마음은 검게 타올라 사라지지도 않는군. 그저 시리도록 범람할 뿐.|The despairing heart is burnt black, never to fade away.\nOnly the shearing cold floods within.
+7030||EGOvoice#Voice_EGO_Outis_11.json] 바란 것이 절망이었다 해도, 탄환이 향할 곳은… 정해져 있지!|Though it was despair that I sought, the bullet's trajectory...\n... is predetermined!
+7031||EGOvoice#Voice_EGO_Outis_11.json] …믿지 않았군. 나는 분명 가위를 내겠다고 했을 텐데!|... So you didn't trust me. I told you I'd play scissors!
+7032||EGOvoice#Voice_EGO_Outis_11.json] 조금만 더…|Just a little more…
+7033||EGOvoice#Voice_EGO_Outis_11.json] 고요해져라… 처음부터 어떤 번민도 없던 것처럼…|Fall silent… As if there were no suffering in the first place…
+7034||EGOvoice#Voice_EGO_Outis_11.json] 이번에는, 떠나지 마라…|Don't—leave me this time...
+7035||EGOvoice#Voice_EGO_Outis_11.json] 우는 아이도… 선물을… 줬으면서…!|Even crying, pouting kids... got the presents...!
+7036||EGOvoice#Voice_EGO_Outis_11.json] 감히… 권위에 도전하는가?!|You dare... challenge my authority?!
+7037||EGOvoice#Voice_EGO_Outis_11.json] 어떤 문을 열어도… 보이질 않는군… 길은… 내 길은…!|It's not there... not behind any of these doors... My path remains in shadows... my path is...!
+7038||EGOvoice#Voice_EGO_Outis_11.json] 쏘아진 것은 어떤 사람이라도 맞출 수 있는 마법의 탄환이었지.|A bullet was fired, a magic bullet that will never miss.
+7039||EGOvoice#Voice_EGO_Outis_11.json] 운명을 받아들여라. 이 탄환이 빗나가는 일은 없을테니.|Welcome this fate, for this bullet's flight will always strike true.
+7040||EGOvoice#Voice_EGO_Outis_11.json] 이 탄환이 있다면, 무엇이든 할 수 있을 것만 같았지.|As long as this bullet has been in my possession,\nI have been overcome with an extreme sense of omnipotence.
+7041||EGOvoice#Voice_EGO_Outis_11.json] 정의도, 악의도 없이, 그저 내키는 대로 쏘아댈 뿐.|No justice, no malice. Only a finger that pulls the trigger.
+7042||EGOvoice#Voice_EGO_Outis_11.json] 변하는 일 따위 없이. 수평선을 따라 모두 꿰뚫어라.|Remain immutable. Follow the sea horizon;\nweave the bullet through them all.
+7043||EGOvoice#Voice_EGO_Outis_11.json] 마침내, 나는 이 지옥에 홀로 남겠군.|I'll be left alone in this inferno at the end of the road.
+7044||EGOvoice#Voice_EGO_Outis_11.json] 내게 나아갈 의지가 없다 해도, 탄환은… 앞으로 나아간다. 영원히.|Though I may lack the will to move forward...\n... the bullet's forward-momentum cannot be stopped.
+7045||EGOvoice#Voice_EGO_Outis_11.json] 가위는 주먹을 이겨. 히히. 그러니까, 너. 졌어!|Scissors beats rock. Teehee! That means you lose!
+7046||EGOvoice#Voice_EGO_Rodion_9.json] 모든 걸 거둬들일 순 없었어…|I couldn’t undo a thing…
+7047||EGOvoice#Voice_EGO_Rodion_9.json] 뜨거운 불꽃이 마음을 녹일 수 있다면…|If fervent flames can thaw the heart…
+7048||EGOvoice#Voice_EGO_Rodion_9.json] 그래도, 언제나 추워할 수는 없으니까.|Well, I can’t shiver in the cold forever.
+7049||EGOvoice#Voice_EGO_Rodion_9.json] 꽤 끈적거리거든… 절대 피할 수 없을걸!|It's pretty sticky... You won't dodge this!
+7050||EGOvoice#Voice_EGO_Rodion_9.json] 기록에 따라… 당신을 반드시 집행하겠습니다.|You will be executed... as it is written.
+7051||EGOvoice#Voice_EGO_Rodion_9.json] 아름다운 춤을 추는 건 나뿐이어야 해… 그러니 네 발목을 잘라버리면…!|I must be the only one to dance this beautiful dance...\nSo once I chop off your ankles...!
+7052||EGOvoice#Voice_EGO_Rodion_9.json] 자, 테디~ 나를 따라 해보는 거야! 짜잔!|Now, little teddy~ Dance after me! Ta-da!
+7053||EGOvoice#Voice_EGO_Rodion_9.json] 매달고, 불태우거라. 끝끝내 뼛조각 하나 남지 않도록.|Hang them, burn them. Reduce their bones to cinders.
+7054||EGOvoice#Voice_EGO_Rodion_9.json] 알아, 오느라 힘들었지? 여기서 잠깐 쉬어. 쳐다만 봐도 따스해질테니까.|I know... Wasn't it tiring coming all the way here?\nWhy don't you stop for a moment and take a breather?\nThe sight alone will warm your heart.
+7055||EGOvoice#Voice_EGO_Rodion_9.json] 너에게서 떠나 길 잃은 모든 마음을 그러모아, 품에 안고… 나의 텅 빈 허상 속으로.|All the minds that left you to wander... I'll gather them into my arms, hold them tight...\nand carry them into this hollow phantasm of mine.
+7056||EGOvoice#Voice_EGO_Rodion_9.json] 까맣게… 까맣게…|To ashes… To dust…
+7057||EGOvoice#Voice_EGO_Rodion_9.json] 얼어버리면… 아플 필요도 없어서.|Stay frozen… and there will be no pain.
+7058||EGOvoice#Voice_EGO_Rodion_9.json] 흐음… 켁, 맛없어. 진주로 만들 가치도 없네!|Hmm... Ach, yuck. Not even worth turning into a pearl!
+7059||EGOvoice#Voice_EGO_Rodion_9.json] 그분이 적으신 대로, 모든 것을 집행할테니.|All shall be executed as it is written.
+7060||EGOvoice#Voice_EGO_Rodion_9.json] 아하하! 날카롭게 갈아서… 더 황홀한 핏빛을…!|Ahahaha! I'll carve it 'till it's sharp...\nAll for a more sanguine, luscious hue of red...!
+7061||EGOvoice#Voice_EGO_Rodion_9.json] 자, 로쟈. 직접 고통을 안겨주는 거야. 후훗, 짠!|Now, little Rodya. Hurt them with your own hands. Fuhu, ta-da!
+7062||EGOvoice#Voice_EGO_Rodion_9.json] 너일까? 아니면… 너? 누가 더 기품있게 타오를지… 궁금하네?|Who will it be? Is it you, or... you? Which of you shall burn with more grace... I wonder?
+7063||EGOvoice#Voice_EGO_Rodion_9.json] 바빠보이네… 좀 쉬고 가라니까…? 이것 봐, 이 아이들이 너를 따라가고 싶어서… 이렇게 야단이잖아.|You look awfully busy... But really, you should take a breather.\nLook! These little ones are itching to tag along with you.
+7064||EGOvoice#Voice_EGO_Rodion_9.json] 잡아야 해… 내 손에, 움켜쥐어야 해… 이대로 비어버리기 전에, 무엇이라도!|I need to hold something... clutch it in my own hands... anything.\nI don't want to be hollowed out like this!
+7065||EGOvoice#Voice_EGO_Ryoshu_4.json] 모.불.아.위.\n(모든 것을 불살라서라도, 아름다움을 위해.)|O.S.H.A.R.E.\n(Obligate style hearkens aflame this robust earth.)
+7066||EGOvoice#Voice_EGO_Ryoshu_4.json] 모.불.아.위.\n(모든 것을 불살라서라도, 아라야를 위해.)|O.S.H.A.R.E.\n(Overcome the Searing Hellfire for Araya, to Reality's Extinction.)
+7067||EGOvoice#Voice_EGO_Ryoshu_4.json] 이 불 또한, 예술의 황홀경이지.|This flame, too, is artful ecstasy.
+7068||EGOvoice#Voice_EGO_Ryoshu_4.json] 자, 맛 볼 시간이다.|Now, let's have a taste.

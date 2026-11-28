@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=daily_login_event_description].content": {
+      "pl": "※ Na podstawie dziennego resetu w grze (D-0 06:00 ~ D+1 05:59 (KST)) możesz odbierać nagrody za obecność danego dnia.\n※ Nieodebrane nagrody przepadają następnego dnia — odbieraj je na bieżąco.",
+      "kr_sha256": "24bf78cc272112244eddb198a93e4838a45a5ade204172b2d8c67158aa547f31",
+      "en_sha256": "045efe51a831f1b586c30772758a6d1fc5810d04866ec128a0516b63d00e91b6",
+      "origin": "ai"
+    },
+    "dataList[id=daily_login_event_title].content": {
+      "pl": "Wydarzenie listy obecności",
+      "kr_sha256": "b873efadae4f2fd538f78252f010e3bd9cf9af4906c890b7445afd8269c4a0a4",
+      "en_sha256": "e5b8fd680b49147a14c13ea82ba45c1a8a4bb8ae8c0e0d1587b5ed4a61c42fbc",
+      "origin": "ai"
+    },
+    "dataList[id=daily_login_event_weekly_format].content": {
+      "pl": "Tydzień {0}",
+      "kr_sha256": "0884ed287b19c9e1f88fe36c846e1fbe24a2a6eadd420e647ffab70f73531e5c",
+      "en_sha256": "ad5f850034617a733bf7ac39989c7d462fceb14e583780e2bfeecab5372f745e",
+      "origin": "ai"
+    },
+    "dataList[id=daily_login_halloween_desc].content": {
+      "pl": "▶ Za 7 dni obecności otrzymasz nagrodę „Bilet Dekaekstrakcji”",
+      "kr_sha256": "523343f40e010ca60c3916a2164d87ee8724838c4cf20e0b8197c3039eb054c9",
+      "en_sha256": "bcea4244a9cfd9df7fc037eb664cfcf130375c225845dbb95e9efef908c74f26",
+      "origin": "ai"
+    },
+    "dataList[id=daily_login_halloween_title].content": {
+      "pl": "Wydarzenie listy obecności Halloween",
+      "kr_sha256": "a922b4f60bb98b01479b6f132e3e38a93b747c82827f569ea32da39805e309ab",
+      "en_sha256": "f63c6fbb7ae510abd16ee72407ea71e01a7e3a06cb24176a8b20d15d4bbef1e2",
+      "origin": "ai"
+    },
+    "dataList[id=daily_login_seventh_anniversary_desc].content": {
+      "pl": "Zaloguj się w okresie wydarzenia\ni odbierz Bilet Dekaekstrakcji",
+      "kr_sha256": "29682ea0b0ee8c6010cf53c9c8f1423c63fb974e3eefc038d0142b7982847479",
+      "en_sha256": "5ed0af9386a4f3529d6e90990860e97558eac7240dd9cd4645858497aa617576",
+      "origin": "ai"
+    }
+  }
+}

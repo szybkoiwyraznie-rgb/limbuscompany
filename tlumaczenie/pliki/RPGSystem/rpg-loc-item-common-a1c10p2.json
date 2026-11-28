@@ -1,0 +1,1174 @@
+{
+  "entries": {
+    "dataList[key=I102024].description": {
+      "pl": "Wśród napastników Le Rouge zobaczyłem Dyrektorkę Marki Le Rouge. Niosła jajo przy piersi. Czułem. Jak z jego wnętrza rozlewa się delikatne, boże ciepło. Ach... chyba zaczynam rozumieć, dla czego pozabijała nas wszystkich…",
+      "kr_sha256": "c1c2eed24158e363c4d842682b50e67f3bb940e30bffb1e301ea0589cdcb1842",
+      "en_sha256": "f88d7b559ae24a14a41659a778daa067db45803f86dcebc5268c9376e106b93f",
+      "origin": "ai"
+    },
+    "dataList[key=I102024].displayName": {
+      "pl": "Zapiski Le Noir",
+      "kr_sha256": "66a14e8935b3c7406cf6a932a2416b5568f2cd9c73a7d7e85c6efdb72d8c94ed",
+      "en_sha256": "8bd98b28afc3e68b144fd3087df533bfd86ab3140b7c9575d229e1d6e50e3e78",
+      "origin": "ai"
+    },
+    "dataList[key=I102024].statText": {
+      "pl": "Po <color=#F8C200>Bloku</color> w Symbolicznym <color=#fe4b48>Obrażenia</color> następnego ataku +2 (odnowienie 5 s)",
+      "kr_sha256": "215aa9ed9ce569d72985ed60828406921cae616840c0068b1942003ba58a604c",
+      "en_sha256": "dbdb8e0bc35eeba7c450c75b0cf81bb0c4bb3187a1b3615bfef7c3a4dfc805b5",
+      "origin": "ai"
+    },
+    "dataList[key=I104004].description": {
+      "pl": "Naczynie, w którym mieszkało pragnienie Szczęśliwej Szafy, by trwać przy istnieniu.",
+      "kr_sha256": "5acdb9021cb9a06685d1c1a3f1d064afd838246a923e7053302108e2c887a55b",
+      "en_sha256": "8628c509b6b1138ef1e8eec85edb692aec1dccc997760b5afe0e4084f4119329",
+      "origin": "ai"
+    },
+    "dataList[key=I104004].displayName": {
+      "pl": "Czerwone Rubinowe Serce",
+      "kr_sha256": "ed3b4db158dae6003488dfabe3a1184d39365f0316ba0fa205363ff640929498",
+      "en_sha256": "0369a733bbd7517c1e6328a6bb6dbec4bfa546094d22d41e90060777c8efcaa8",
+      "origin": "ai"
+    },
+    "dataList[key=I104005].description": {
+      "pl": "Klienci i pracownicy Grand Magasin są już na różnych etapach Wypaczenia. A końcem Wypaczenia jest Abnormalność — więc tym, co naprawdę nienormalne, byłoby to, gdyby w tym miejscu nie pojawiła się żadna Abnormalność.",
+      "kr_sha256": "0ef7cd3909c64cc6fe01f637c3f315c4b77fa8366adbe10a42c4521a0b16da30",
+      "en_sha256": "cc60f9a5d91c885900e115686a1df5b9a1c2d77d49b08036f063b6057dc701e9",
+      "origin": "ai"
+    },
+    "dataList[key=I104005].displayName": {
+      "pl": "Jajo Abnormalności Rozsiejącej Różowe Płatki",
+      "kr_sha256": "4de0646cabdf78eb613ef47ee73b00a488498cc28b9862c827a9836099b47f82",
+      "en_sha256": "1a88654e6ee6cca661d94ca32996546892f1bbdaca6dbd428b8db95c5d567719",
+      "origin": "ai"
+    },
+    "dataList[key=I104005].statText": {
+      "pl": "W Symbolicznym trafienie <color=#F8C200>Atakiem Podstawowym</color> wroga nakłada na niego <color=#F8C200>Znak Płatków</color>\n- Nakładany tylko, gdy wróg nie ma tego <color=#F8C200>Znaku</color>\n- <color=#F8C200>Znak Płatków</color> utrzymuje się 10 sekund\n- Odnowienie Znaku Płatków: 10 s (liczone od chwili nałożenia)\n- <color=#fe4b48>Obrażenia</color> <color=#F8C200>Ataku Podstawowego</color> Meursaulta wobec celów z Znakiem Płatków +1\n- Po śmierci celu ze znakiem zadaje 5 <color=#fe4b48>Obrażeń</color> w obszarze 3 x 3 wyśrodkowanym na celu",
+      "kr_sha256": "05a62279632600e5c2e39f5278641be2a295a18569ef5d1821e923786d4e9803",
+      "en_sha256": "2d25097fc50e0682a498d5697994a5c4d09e850e32bd7af771ea1505035ffea0",
+      "origin": "ai"
+    },
+    "dataList[key=I104006].description": {
+      "pl": "Guzik uformowany ze Złotej Żywicy.",
+      "kr_sha256": "2f787440ff330f0812121a9340931c10e929fc0bbb2604e338df6f07b09d6951",
+      "en_sha256": "9e40f5b5f35e253d84667260ea34834dc5bcc58ad039293cfb446e3dc22ceb92",
+      "origin": "ai"
+    },
+    "dataList[key=I104006].displayName": {
+      "pl": "Złoty Guzik",
+      "kr_sha256": "9dcd16b466a2ca073c2fc4af81c29c45b543608866596960df2b0beedd1239a4",
+      "en_sha256": "ccb02b5ccb314674250322b84b9c70644978b440d0dec523c2fc76b3d526bd1d",
+      "origin": "ai"
+    },
+    "dataList[key=I104007].description": {
+      "pl": "Ząb zszyty Złotą Skórą.",
+      "kr_sha256": "a0652570fc309881452da86e8a3115a605f0d0297b570553ff4665048457e323",
+      "en_sha256": "d366dda2b2ccc1489a9479675ef946700cc7f20000f505bab30ea05885c9ae63",
+      "origin": "ai"
+    },
+    "dataList[key=I104007].displayName": {
+      "pl": "Złoty Ząb",
+      "kr_sha256": "7a60acf34996550e529ff864c5ac63fd525ea72a38d0181a0644d5b8353b1d1e",
+      "en_sha256": "f2c3105e4a9844de2dbf97bc91534916cc9c1a323291279ed05b8df142a29fb8",
+      "origin": "ai"
+    },
+    "dataList[key=I104008].description": {
+      "pl": "Włosy wyciągnięte w pasma złota.",
+      "kr_sha256": "8588fcc43ad378cf15b74441a28aea831d7f62faa8e7712f6c1d91beba7e2585",
+      "en_sha256": "0095efecc60cb7350d562c55da1d56188949776ff8f4be38e4615aa8be52bc31",
+      "origin": "ai"
+    },
+    "dataList[key=I104008].displayName": {
+      "pl": "Złote Włosy",
+      "kr_sha256": "bf7b27e9eaca60f952c1617c2f3564e6c622f4c13110bfae9e334b54c4435340",
+      "en_sha256": "4db472665a0b516ffd2d14a764d18c49e220ee11f8298fa736f2f1b394170b6c",
+      "origin": "ai"
+    },
+    "dataList[key=I990002].description": {
+      "pl": "Młotek. Pozwala gwoździowi spełnić jego przeznaczenie. A jednak i sam w sobie młotek spełnia się doskonale — jako narzędzie zniszczenia.",
+      "kr_sha256": "f1a4b64e514296923a9ccc30f404dd653ff3a8bee0295755d79287ec455ddd01",
+      "en_sha256": "74dc0a7e5e315e41db4975826b10cecced7b57ba25bcdee64340c8ce54e44c4f",
+      "origin": "ai"
+    },
+    "dataList[key=I990002].displayName": {
+      "pl": "Młotek",
+      "kr_sha256": "0fc1cea4aaf324b09ac5e11658f87f1c0440fa65de5f74f2ae6a85ed17fe5f07",
+      "en_sha256": "c157cbf647f56e730a083e3cfd4de511b593e9f0e665b0b81fed4815137358ce",
+      "origin": "ai"
+    },
+    "dataList[key=I990002].statText": {
+      "pl": "<color=#fe4b48>Obrażenia</color> zadawane +1 w Symbolicznym\nW walce w Zacienionym +10% <color=#fe4b48>obrażeń</color> wobec wrogów z <color=#F8C200>Spętaniem</color>",
+      "kr_sha256": "bb680804e6988cae7a7447d708a33a7d64f4e95d0c1397fa804c5a7f3119f852",
+      "en_sha256": "92299e826a6ad875602db8a504179ad491ce2d83c911b455d73be992363fa2c6",
+      "origin": "ai"
+    },
+    "dataList[key=I990004].description": {
+      "pl": "Mówi się o przeżywaniu teraźniejszości. Ale jeśli doświadczenie to oczekiwanie tego, co ma nadejść, i sprawdzenie tego oczekiwania, to doświadczenie zawsze tkwi w przyszłości.",
+      "kr_sha256": "37eeffd7445493f850a8567c6451a4b30c2ec2dc3631771436109d8712056e22",
+      "en_sha256": "fb25b719253ffd958d130acb4223a6908a0722e8114a37f3a6a878634b9ea884",
+      "origin": "ai"
+    },
+    "dataList[key=I990004].displayName": {
+      "pl": "Pulsacja",
+      "kr_sha256": "82c08590e8882605e31cc176b4487f04b8175d609e0a476eedb93db189778d33",
+      "en_sha256": "39e2fa06fd308e1bdc86d8cbd47b6889cf694aadfded3cc06056583b3142049c",
+      "origin": "ai"
+    },
+    "dataList[key=I990004].statText": {
+      "pl": "Odblokowuje <color=#F8C200>Parry</color> w Symbolicznym\n- Parry: traf wroga atakiem w ciągu 0.2 s przed jego atakiem, aby anulować jego atak (nie dotyczy części ataków)\n\nOdblokowuje <color=#F8C200>Blok</color> w Symbolicznym\n- Blok: przytrzymaj przycisk <color=#F8C200>Bloku</color> (C na klawiaturze), aby Meursault utrzymywał postawę <color=#F8C200>Bloku</color>\n- Podczas <color=#F8C200>Bloku</color> otrzymywane <color=#fe4b48>Obrażenia</color> -30% z kierunku, w który <color=#F8C200>Blokujesz</color>\n\nOdblokowuje <color=#F8C200>Atak Kombo 2</color> dla ataku <color=#F8C200>Avant</color> w Symbolicznym\n- Po uruchomieniu Avant <color=#F8C200>ponowne naciśnięcie ataku</color> uruchamia Atak Kombo 2\n- Uruchomienie <color=#F8C200>Ataku Kombo 2</color>: <color=#fe4b48>Obrażenia</color> +2 i <color=#F8C200>Hitstun</color> +0.1 s dla wroga",
+      "kr_sha256": "792a6331f8395f707e622a3df11f226f7db9a79523a4fe6e125df955b95e73f4",
+      "en_sha256": "efe28b9d8b35ff864d6d5f14195377324b784167add4355d2f4cdaa296991468",
+      "origin": "ai"
+    },
+    "dataList[key=I990111].description": {
+      "pl": "O, pęknięcie się zasklepia. O, zasklepia się złotym blaskiem. To Złota Żywica…",
+      "kr_sha256": "57a015521f29ba27274b91765ce7b342768ca74989b38bcbacabead879bede38",
+      "en_sha256": "ed89a375aa524efb71dc98120d9f1e77948a49c8ab911c4e3aa7c2f58805a852",
+      "origin": "ai"
+    },
+    "dataList[key=I990111].displayName": {
+      "pl": "Długie Skarpety Contempora Le Noir",
+      "kr_sha256": "4ea0f78fb3ef7b690129eb569ccf2d1f941d260fc10057ddd9255a35fa9c9ced",
+      "en_sha256": "5c79fa3eb84f62945a92085cac838c2029806389b91199d4d0f883a0dad4a4f7",
+      "origin": "ai"
+    },
+    "dataList[key=I990111].statText": {
+      "pl": "Odblokowuje <color=#F8C200>Garde</color> 2. poziomu w Symbolicznym\n- Czas <color=#F8C200>Garde</color> 2. poziomu: 2.5 s\n- <color=#fe4b48>Obrażenia</color> <color=#F8C200>Garde</color> 2. poziomu: <color=#fe4b48>Obrażenia</color> ataku w Symbolicznym +2",
+      "kr_sha256": "980dbf49f3fd6f09cefc68a1acf88d25dac14199e2eeefb101cc493339c627c6",
+      "en_sha256": "f7f64cc54cf0c9fe23a4d661644a57f32d3bb7d45805bec948d6b955f1f3c775",
+      "origin": "ai"
+    },
+    "dataList[key=I990112].description": {
+      "pl": "Strzeże Złotej Żywicy. A Złota Żywica chroni Grand Magasin przed zawaleniem. Prosty związek przyczyny i skutku.",
+      "kr_sha256": "e5bed942778fbde464736487977890d4bc3fb42793cea6041d687716cf77ef4e",
+      "en_sha256": "00f8adb5e74df9bb817d9a421e22bce8f93478fdc0a08af2840072fb6e3c8c40",
+      "origin": "ai"
+    },
+    "dataList[key=I990112].displayName": {
+      "pl": "Spinka do Krawata Contempora Le Noir",
+      "kr_sha256": "d5858f3a82b747992bf523bb39505febdcffac3a6691e05bb88b85fa15cadc06",
+      "en_sha256": "b110677a564caef229454c64cc86e506add5766e179f66c24589cb09ce3c6aa4",
+      "origin": "ai"
+    },
+    "dataList[key=I990112].statText": {
+      "pl": "Odblokowuje <color=#F8C200>Perfekcyjny Blok</color> w Symbolicznym\n- Warunek: jeśli w ciągu 0.3 s od naciśnięcia przycisku <color=#F8C200>Bloku</color> <color=#F8C200>Blokujesz</color> w kierunku <color=#F8C200>Bloku</color>, otrzymywane <color=#fe4b48>Obrażenia</color> spadają do 0",
+      "kr_sha256": "48f2b3f7292d5484ca9813e0c736af2463f2b05471ef66b4208886de6d139409",
+      "en_sha256": "f7cc9bc7eeaa9fe6775accc987c3062dc437f3e3f9a070aa6e1ba17b0c1d0c87",
+      "origin": "ai"
+    },
+    "dataList[key=I990113].description": {
+      "pl": "Gustowałeś kiedyś w Złotej Skórze wcisniętej w pęknięcia? Ubrania doprawione tą skórą… naprawdę trudno zapomnieć.",
+      "kr_sha256": "36c2c8159c3a4d7d9ca2f8ecbbcfcfe50d2ef18600c2e06cbc300035d9b805ae",
+      "en_sha256": "fedb70f9b861cd22bddbbf9f6bbf924f6b671cfb80e15d1e3f5e2ee2dfc28c99",
+      "origin": "ai"
+    },
+    "dataList[key=I990113].displayName": {
+      "pl": "Torba Przez Ramię SPA Le Rouge",
+      "kr_sha256": "9198453124a9a781f0971ceb2c990b5c00ce1d5c10dfefe1f9e1962c166326a5",
+      "en_sha256": "56074c3b8d346fca1c27ecb02246ffc927060dc6195c2e96764431e83272bd14",
+      "origin": "ai"
+    },
+    "dataList[key=I990113].statText": {
+      "pl": "Symboliczne <color=#00ff9c>HP</color> +3",
+      "kr_sha256": "22d1b7365c0fa6a64ef8ff71a35f7af3fe72c5d39291aa8febc853692bb6b4ea",
+      "en_sha256": "085252bdd39cefb46c3a94df9199d77b640c9e4e46475f33380ac8c5af5ef2d0",
+      "origin": "ai"
+    },
+    "dataList[key=I990114].description": {
+      "pl": "Czasem, gdy obgryza się Złotą Skórę, pęknięcie robi się większe. Wtedy łapie się te paskudne Le Noir, które próbowały zawładnąć Skórą, wpierdala je w szczelinę i zatyka… i już, problem z głowy.",
+      "kr_sha256": "694346001cf1accdb42d7a0655e3187d1bb5827f0cd2e2c5a54a969beefbe3d2",
+      "en_sha256": "9c9b18b76b60d6a979b9396a839b14342648e2c38cc44e6999901a9e938e064b",
+      "origin": "ai"
+    },
+    "dataList[key=I990114].displayName": {
+      "pl": "Hoodie SPA Le Rouge",
+      "kr_sha256": "5f3334a1e1ccdd72efb601373d05e39bc701ee97c4b05afc22bdee5f5be4d3da",
+      "en_sha256": "0f91557788124038b3ff37ff4f74748243d9fea7e74d5553e742c3da5105ef9e",
+      "origin": "ai"
+    },
+    "dataList[key=I990114].statText": {
+      "pl": "<color=#fe4b48>Obrażenia</color> zadawane +1 w Symbolicznym",
+      "kr_sha256": "94c3c744372baf3527ab754b7114ca101f8f32d43ae1475f77cbb8a1d4f49499",
+      "en_sha256": "c5e03a9fde716d7c99d0ca666d27bf633016a5bb3efdd796306dd09ffdb7feb3",
+      "origin": "ai"
+    },
+    "dataList[key=I990115].description": {
+      "pl": "Ktoś kiedyś się zastanowił: co stało na tym miejscu, zanim wzniesiono Grand Magasin? Lecz ta myśl wkrótce utonęła w czapce, w którą ją schowano.",
+      "kr_sha256": "a199c1e4b5cbf33676f805d6e3538a3b4bb9aa92664c3062f15241a9eff54e58",
+      "en_sha256": "8c44fc445147362c5d83a2369f8e1415a8a443edc02bb44003f940a4fdfa48fd",
+      "origin": "ai"
+    },
+    "dataList[key=I990115].displayName": {
+      "pl": "Czapka z Daszkiem Contempora Le Rouge",
+      "kr_sha256": "b1e1580ddff3fc6ed36edeb266a898fbcb32e02d7e7827db33b61da9013ba1f7",
+      "en_sha256": "3c2733ef003f882b8b451cbcae176985fb077ecd22fdfeb9b2dd8f976218e53a",
+      "origin": "ai"
+    },
+    "dataList[key=I990115].statText": {
+      "pl": "W Symbolicznym odblokowuje <color=#F8C200>Unik</color>\n- Naciśnij <color=#F8C200>przycisk uniku (Z na klawiaturze)</color>, aby wykonać <color=#F8C200>Unik</color> o 1 pole w kierunku ruchu (lub w kierunku patrzenia w bezruchu) (odnowienie 0.5 s)\n- Podczas <color=#F8C200>Uniku</color> przez 0.2 s zyskuje <color=#F8C200>Niewrażliwość</color>; możliwe również podczas ataku",
+      "kr_sha256": "0f672412df259ed918f674b9a8ec934ad84ecaf1442cb4104caa4963635c2574",
+      "en_sha256": "73154aaad05523f25385ebc2fc45b60e1ef14c6978b5dd95e7489318398ee61f",
+      "origin": "ai"
+    },
+    "dataList[key=I990116].description": {
+      "pl": "Złotą Skórę można jeść, można nosić. Skóra to samo ciało — dosłownie żyje i oddycha. Nie różni się od skóry naszych ciał.",
+      "kr_sha256": "9886898fa6d4858d535976c572b2fb04809b4b9259614d45c97be8aa87f39365",
+      "en_sha256": "7df42b7fb89b1c98494fbef20a869e88dec0240a2876395f308854295bf468a9",
+      "origin": "ai"
+    },
+    "dataList[key=I990116].displayName": {
+      "pl": "Rękawiczki Contempora Le Rouge",
+      "kr_sha256": "e5be8a55bf16f0f156d6f869a31ff30f8c92728337043bfb9e206e58cade5b51",
+      "en_sha256": "1930e277fdd0e9a883db058adc5a0dc0c1e64b82d446bd932871065f048ad6b2",
+      "origin": "ai"
+    },
+    "dataList[key=I990116].statText": {
+      "pl": "Symboliczne <color=#00ff9c>HP</color> +3",
+      "kr_sha256": "22d1b7365c0fa6a64ef8ff71a35f7af3fe72c5d39291aa8febc853692bb6b4ea",
+      "en_sha256": "085252bdd39cefb46c3a94df9199d77b640c9e4e46475f33380ac8c5af5ef2d0",
+      "origin": "ai"
+    },
+    "dataList[key=I990311].description": {
+      "pl": "Kręg pracownika, który gorączkowo wyczekiwał Głosu. Gwóźdź istnieje po to, by unieruchamiać. Kość unieruchamia ciało. Kość jest gwoździem. Gwóźdź przebija jak igła. Ten kręg to dobry gwóźdź i zarazem igła.",
+      "kr_sha256": "79be94aeedfedf60a8fb4c7ea070f36c74d2b861376fde9eb1566b322ebff428",
+      "en_sha256": "215dc3c833ae97484d7c2cec12c37ca98e3308bfcba395904a1b10596b2757ae",
+      "origin": "ai"
+    },
+    "dataList[key=I990311].displayName": {
+      "pl": "Czerwony Gwóźdź",
+      "kr_sha256": "afe29c4617356ef7d6c6e6c43f1251cbc9d2f748aef2358650eb765af201c45f",
+      "en_sha256": "a22173eefcce3c6d7f336c9d790eea8786157ccf859bd89512bed06689655ded",
+      "origin": "ai"
+    },
+    "dataList[key=I990313].description": {
+      "pl": "„Wiara to podstawy tego, czego się oczekuje, i dowód rzeczy niewidzialnych”",
+      "kr_sha256": "e4f0a5e6ed214db088151c04a206d7def2d0747178c013d387da3a647f9a1d43",
+      "en_sha256": "349ed60225f8e4345bf814b0cd279261f62b153aba8e03af215a045da774d51f",
+      "origin": "ai"
+    },
+    "dataList[key=I990313].displayName": {
+      "pl": "Wiara",
+      "kr_sha256": "42d2fce2e74da5bade8419e9c493cccf6a3c2b391f0cce94d0d08ee150f75d8a",
+      "en_sha256": "403109cf2448759b0e88289a36a5ba18c4ceb779c21bd31fcda07875db8a5db0",
+      "origin": "ai"
+    },
+    "dataList[key=I990313].statText": {
+      "pl": "W Symbolicznym, gdy otrzymasz <color=#fe4b48>Obrażenia</color> grożące śmiercią, 10% szans na <color=#00ff9c>przeżycie z 1 HP</color>\n- Nie dotyczy części obrażeń, np. natychmiastowej śmierci\n\nSymboliczne <color=#00ff9c>HP</color> +2",
+      "kr_sha256": "8235283061976614d9366993c6b8e66cbffef40aaea697ebe7d1389f232c4dc6",
+      "en_sha256": "32a9f3167a790a0b2188d11e9f5ef01fd91b0044adf65ec564fca5fe944e6bae",
+      "origin": "ai"
+    },
+    "dataList[key=I990315].description": {
+      "pl": "Niektórzy proszą o głęboki sen wewnątrz klatki.",
+      "kr_sha256": "bb76ce3df2c00ce1430fc52d121c34e920d90dbdc3a756177523bc6dde71c9a9",
+      "en_sha256": "307f889985d8f73bf6132846bb7e79fe50127fdb9c564e5febdf43d265fdb16d",
+      "origin": "ai"
+    },
+    "dataList[key=I990315].displayName": {
+      "pl": "Koc",
+      "kr_sha256": "989e871fdd7d2dee7efe5084d07f8e929cc20c0a1482073736d1c9d89ff056b0",
+      "en_sha256": "c18f9ed184c7e012808772ac2f388985c0b065f51374afc51457d6d286b512de",
+      "origin": "ai"
+    },
+    "dataList[key=I990315].statText": {
+      "pl": "W Symbolicznym przy trafieniu podczas <color=#F8C200>Bloku</color> otrzymywane <color=#fe4b48>Obrażenia</color> -20%",
+      "kr_sha256": "cae31436538131a0d892dedbd0afa3aec9ce23e565062a0d0f36840927830977",
+      "en_sha256": "609112df0d369463343afc380856e1d3e2d398833b8cfe60f45957e8e20cd5d0",
+      "origin": "ai"
+    },
+    "dataList[key=I990316].description": {
+      "pl": "Skwierczenie, ciepła krew, mięso pełne soków, oczekiwane smaki i doświadczenia.",
+      "kr_sha256": "74441f2da190330d61c844bdc7d74db8bbfa3fde3d34976730f3d4c957fbf6a3",
+      "en_sha256": "3068972cc29291bb0f21f651e7ab36695345159126931f8801977bf372f6eada",
+      "origin": "ai"
+    },
+    "dataList[key=I990316].displayName": {
+      "pl": "Kolczyki Boutique du Rouge",
+      "kr_sha256": "68abb5e9bd1aadd14f088a156242f29d7adae0d29ec6265eeb52337cc872aab1",
+      "en_sha256": "cffe0e24d7316dd321cb6eed47d21d95f7a9a446ef63c9d3d72015d26f35a733",
+      "origin": "ai"
+    },
+    "dataList[key=I990316].statText": {
+      "pl": "<color=#fe4b48>Szybkość Ataku</color> +10% w Symbolicznym",
+      "kr_sha256": "c0d69859288a26efd8968d463074d499a19a8e42f7b69dab178c5a8d0d407a99",
+      "en_sha256": "f83623420c4091e51f968dd4dc5450d7a817c08ed99907b1d51645d4f9cc0c4f",
+      "origin": "ai"
+    },
+    "dataList[key=I990317].description": {
+      "pl": "Jeśli nie słychać szkarłatnego Głosu Szkarłatnego Boga, trzeba sprawić, by znów zabrzmiał. Dawne pragnienie Le Rouge… i ich wyznaczona robota.",
+      "kr_sha256": "020cd8f23c500f9616f9c05c1c26acfba4d96a68bc26b0a8ce1489155b510294",
+      "en_sha256": "077934bfd5c241a44c0522ce6089e15e64269715a52e2ab9732d4ccc0a8d8654",
+      "origin": "ai"
+    },
+    "dataList[key=I990317].displayName": {
+      "pl": "Naszyjnik Boutique du Rouge",
+      "kr_sha256": "86960236a2de38092125d587d4464d4f58f294f9829b04d343ab401843ed37c1",
+      "en_sha256": "1c326a24acbd77d8e5ff5c242fec15fe8975b53892b67b515ade706385364c4d",
+      "origin": "ai"
+    },
+    "dataList[key=I990317].statText": {
+      "pl": "W Symbolicznym <color=#F8C200>Unik</color> daje 20% szans na uruchomienie <color=#F8C200>Dodatkowego Ataku Pioruna</color> (0.5 s Hitstun)\n- Piorun zadaje 2 <color=#fe4b48>Obrażenia</color> 1 losowemu wrogowi w promieniu 3 pól\n\nSymboliczne <color=#00ff9c>HP</color> +2",
+      "kr_sha256": "34cc5ee5da496f185a8e037ce512e02517e3f32a8ced945c194d6a1fc38bb9a7",
+      "en_sha256": "9fe112ce04735f77fad7037c3957b050c522fadd067d22f177f09d6db9387fac",
+      "origin": "ai"
+    },
+    "dataList[key=I990318].description": {
+      "pl": "Nagromadzić. Okryć. Ukryć. Chronić. Zachować. Takie są niewzruszone cnoty Le Noir.",
+      "kr_sha256": "ce95e0f3dfd565d0e90a5a06a42989db27d68ae59441d6389ce15f7af4992574",
+      "en_sha256": "f29435c742eb80ecc48f85ad0be4ef4a5349c57da52eefbf95b7c477b4baffe5",
+      "origin": "ai"
+    },
+    "dataList[key=I990318].displayName": {
+      "pl": "Cylinder Maison du Noir",
+      "kr_sha256": "0bd124fa60e2864cebc88e4248b1f67117f052db2f84ccb352a4d1eeb173990d",
+      "en_sha256": "0bef96aea90ab0c7008fc72d7a214e16ed16eef68783e3df9a1f6fc0b06ec148",
+      "origin": "ai"
+    },
+    "dataList[key=I990318].statText": {
+      "pl": "W Symbolicznym zasięg <color=#F8C200>Ataku Kombo 2</color> +1 pole",
+      "kr_sha256": "578bd6155644e0852cfe7c2a1d03a3d254b13da57ea9ceb19db03ed33bce699e",
+      "en_sha256": "96ca7f572ebdc51e676c6885d072861646399532142d37fd32ad07d11d5a47dd",
+      "origin": "ai"
+    },
+    "dataList[key=I990319].description": {
+      "pl": "Wszędzie, gdzie pójdziecie, podetnę tymi nożyczkami kwiatowymi, krok po kroku, aż pod twoimi stopami rozkwitną kwiaty.",
+      "kr_sha256": "887e57554bb6eb688f722e6fbfc8a8babdbb276d404f0f58e038111a8696175c",
+      "en_sha256": "8c99038fbd57359a8318cd7a969dd4512982cf5bfcc2505609a5c5d3181fac83",
+      "origin": "ai"
+    },
+    "dataList[key=I990319].displayName": {
+      "pl": "Nożyczki Kwiatowe",
+      "kr_sha256": "b7025acf93657a525a7ceaec20ea6e78f7337600e23d570e430db63934eeec87",
+      "en_sha256": "77c1b979a4a832b1dddf530ca331c8a796ea8560ff9a480c780e4ccce3fe00de",
+      "origin": "ai"
+    },
+    "dataList[key=I990319].statText": {
+      "pl": "W Symbolicznym trafienie atakiem daje 30% szans na uruchomienie <color=#F8C200>Dodatkowego Ataku Nożyczek Kwiatowych</color> zadającego 5 <color=#fe4b48>Obrażeń</color> (0.3 s Hitstun)",
+      "kr_sha256": "f2736ebfbdb3cfcd93feca43e1390ebf97953bcd9560dca1c6c4ea4892176c6f",
+      "en_sha256": "01a88a963373c74b49379e564551d643d7fbfa232ed8101288ea2f0468da0692",
+      "origin": "ai"
+    },
+    "dataList[key=I990417].description": {
+      "pl": "Buty, które zawsze prowadzą każdego z powrotem do domu. W resztkach aromatu rozwiewanych przy każdym kroku tkwi tęsknota. Kto je wkłada, chce wyruszyć jak najdalej od domu. W końcu im mocniej tęsknimy za domem, tym bliżej domu się zbliżamy.",
+      "kr_sha256": "94d33fbe8a25a7bc8ab590673416b8fd4680e330a6ee5be404d76b496fdff770",
+      "en_sha256": "a08c022e81841dae40fb8d61c42ae8cdeb85bea3a6b1958546a83165f1d0195c",
+      "origin": "ai"
+    },
+    "dataList[key=I990417].displayName": {
+      "pl": "Różowe Balerinki Mary Jane",
+      "kr_sha256": "1089b24099c1aa101ceb5306c7ec92c28c1ef1466b72af9230b46f12b5a601a2",
+      "en_sha256": "06d051ebf5d374957593f96e2d74b625f8dc52981f547419d36edbccdaf2c79f",
+      "origin": "ai"
+    },
+    "dataList[key=I990417].statText": {
+      "pl": "W walce w Zacienionym Moc Pulsacji Pwie +1\n- Minimalna i maksymalna Szybkość +3\n- Moneta „Szkarłatny Gwóźdź” +1 (trafienie dodatkowymi monetami wystrzeliwuje <color=#F8C200>Pociski Płatków</color>)\n- Użycie „Ożyw się”: +1 Waga Ataku za każde 2 Moc Pulsacji (maks. 2)\n- Odblokowuje „Złap Mą Rękę” (używane automatycznie, gdy sojusznik zostanie Ogłuszony, aby <color=#F8C200>zdjąć Ogłuszenie</color> i <color=#00ff9c>leczyć</color> jego <color=#00ff9c>HP</color>; 2 razy na turę)",
+      "kr_sha256": "da4fb442d025c1ed7db463a14d934fd04b39864ba4da11b81ad155cc77033337",
+      "en_sha256": "bff8ff4568472b4dbfc1c5537d1fb369fb6aeb755cfac2e1ac543fe1cf507ddd",
+      "origin": "ai"
+    },
+    "dataList[key=I990418].description": {
+      "pl": "Buty muszą doskonale chronić noszącego. Muszą podtrzymywać go na ziemi, pewnie i bez chwiania. Świat jest niebezpieczny — na niestabilnym gruncie buty są ostatnim bastionem stabilności.",
+      "kr_sha256": "a0caf39d8e1654dd9ddad84ec34c371166858da21c3a59b1e832c6cb17f1dd31",
+      "en_sha256": "a45f7e25222417ec075b96fcc2d232931cbadf359982ca08829a4840dd327ee2",
+      "origin": "ai"
+    },
+    "dataList[key=I990418].displayName": {
+      "pl": "Buty Wingtip z Salonu Obuwia Le Noir",
+      "kr_sha256": "2f55ea2ec1356c38101d763a2efc8dbd2340f2bb76b3c23059ba4ad453a7c55c",
+      "en_sha256": "94cce694e0f4850bb3638a920d64c7cc5491c6991626741ef5fa0737f713183d",
+      "origin": "ai"
+    },
+    "dataList[key=I990418].statText": {
+      "pl": "W Symbolicznym <color=#F8C200>Garde</color> 2. poziomu lub wyższego uruchamia <color=#F8C200>Szarżę</color> o 3 pola\n- Zatrzymuje się przed przeszkodą, jeśli stoi na drodze",
+      "kr_sha256": "93bc9a44bb350cc1f10c988c5ff63f0dc7ef3f6ea0b8f2dca4e99d8b475545d2",
+      "en_sha256": "30c95bba1826fb1124aee60d008ff2fb0a599492612b7e9f5c2609f541ff408f",
+      "origin": "ai"
+    },
+    "dataList[key=I990419].description": {
+      "pl": "Instrukcja: buty Le Noir wykonane są z kamienia. Kamienne buty są twarde i nie łamią się. Łatwo jednak porysować ich powierzchnię, dlatego trzeba ją maskować pastą. Obute porysowane buty wyglądają na stare, stare buty wyglądają na kruche, a kruche buty mogą się złamać.",
+      "kr_sha256": "1861e83e7e323cf0027e480c3d8c961776ced97cefb6dd395f2902f95681eced",
+      "en_sha256": "bc9090252e5deb28a524f438a79199bb0fcbd94c9799dcb37de63cb43d876b6a",
+      "origin": "ai"
+    },
+    "dataList[key=I990419].displayName": {
+      "pl": "Pasta do Butów z Salonu Obuwia Le Noir",
+      "kr_sha256": "bd94e488c449103e33ef9a20c5eed652786b65c2bbe2ae080e12752bc282a85e",
+      "en_sha256": "6869e2d52d0aecfa88a872a07eec86f4fe241126780168aa25692e73647b9d95",
+      "origin": "ai"
+    },
+    "dataList[key=I990419].statText": {
+      "pl": "<color=#F8C200>Szybkość Garde</color> +25% w Symbolicznym",
+      "kr_sha256": "1e005c883a8dc1da7ef0630d6c504702c31dcdcfb4d3e60d74485d7b636ea697",
+      "en_sha256": "a8e02c94e67fd0637c4fddfff9d3948d836bae9041c63ee3441ea079d8b9b352",
+      "origin": "ai"
+    },
+    "dataList[key=I990420].description": {
+      "pl": "Im więcej nóg, tym więcej butów można nosić — to chyba dobrze, nie? Od kiedy mało nóg stało się zaszczytem Salonu Obuwia? Kiedyś więcej nóg znaczyło lepiej. Koniec świata to koniec świata, widocznie.",
+      "kr_sha256": "9c353bd6e80959dfc73292bf5759b59ec08d6e1532cb9495f1217c361724b42e",
+      "en_sha256": "d0cf28b6b1c970c89015b7dabf518ff5485f02b2fcb877c43e56a9764a564134",
+      "origin": "ai"
+    },
+    "dataList[key=I990420].displayName": {
+      "pl": "Sandały z Salonu Obuwia Le Rouge",
+      "kr_sha256": "b60255a88968a0e45cfa8e68206e403be66c7a5318c929be5492fe7cf50cf3c4",
+      "en_sha256": "3eb7af9dade71b9b348e0fde1d80adcfed458cea08b2111c8530f13c07d001ef",
+      "origin": "ai"
+    },
+    "dataList[key=I990420].statText": {
+      "pl": "W Symbolicznym uruchomienie <color=#F8C200>Avant</color> zadaje <color=#fe4b48>Obrażenia</color> +2",
+      "kr_sha256": "2a3e8387b16c94800d5e360216110f0f73aadd4009f309e2af302eb14f841c88",
+      "en_sha256": "5e5cd5a56b2342cab7c9e422290770612bb0628774717cb6388e661ca1a2d189",
+      "origin": "ai"
+    },
+    "dataList[key=I990421].description": {
+      "pl": "Sznurówki zamykają butowi usta i chowają jego język. Szyją usta na gęsto i zaciskają, by się nie rozwiązały. Tak ciasno związany but może nie umieć mówić... ale dzięki temu obnaża się kształt stopy.",
+      "kr_sha256": "7233a29339cabbfe74eb6cb3a12fba033daf81b1f17bc4b5f331d13edd92788a",
+      "en_sha256": "193c6c494cf2156c39dc4ecc9a5ddb50a9c33815112d2a987ba567ff20a083e5",
+      "origin": "ai"
+    },
+    "dataList[key=I990421].displayName": {
+      "pl": "Sznurówki do Sneakerów z Salonu Obuwia Le Rouge",
+      "kr_sha256": "edf3f33f2c7c23eaefff1e850c89296c31da2f4035f4e7d8991f4e6dd587153e",
+      "en_sha256": "23700439304d729d4e9f223db5410805cf42713c14e3cf0614bb211f19961255",
+      "origin": "ai"
+    },
+    "dataList[key=I990421].statText": {
+      "pl": "W Symbolicznym liczba kolejnych <color=#F8C200>Uników</color> +1",
+      "kr_sha256": "2498adec6a1358ddf2c1b2ec600a51d464edbbf0b38c4adc2a6c72e592248e62",
+      "en_sha256": "be8e8f9c3dcc77d44afce33be3dbf807a2f2f6c0e9e1e486e90f0376faa65c2e",
+      "origin": "ai"
+    },
+    "dataList[key=I990422].description": {
+      "pl": "Krzesło, które rozpada się w chwili, gdy się na nim usiądzie. Dlatego jest drogie. Kupuje się je wiedząc, że się roztrzaska.",
+      "kr_sha256": "f47976379ed9bcd65b5f7802acb4cbd27e6de67a36ae937bdd5de0420c004dca",
+      "en_sha256": "fde7208a4b84be4d91487766dd06a9c722f63117ae6f6feb4714d929840587c1",
+      "origin": "ai"
+    },
+    "dataList[key=I990422].displayName": {
+      "pl": "Szklany Fotel",
+      "kr_sha256": "5098cd220a0aa5ca474b31e2485695565fc1a9ee881db6822ca98b8e36d8357f",
+      "en_sha256": "b60423f87b44c76e36692a66e0432ac68b7e2f8a593e8819af31c0a8aee583d5",
+      "origin": "ai"
+    },
+    "dataList[key=I990422].statText": {
+      "pl": "W Symbolicznym zasięg <color=#F8C200>Dodatkowego Ataku</color> 「Stółu z Litego Drewna」 +1 pole (pion i poziom)",
+      "kr_sha256": "653cc918fa4571a1461d671949f843266c588755ff858d005ec40e7ec12c40fd",
+      "en_sha256": "f5f9b33b96c1d2484d4bd40e2de1158b1538a305481bf91c88e70aeda0c9e10b",
+      "origin": "ai"
+    },
+    "dataList[key=I990423].description": {
+      "pl": "Z zazdrości o blask słońca stała się lampą. Ale lampa musi być bliżej ludzi niż słońce — słońce jest zbyt oślepiające i zbyt gorące, by trzymać je przy sobie.",
+      "kr_sha256": "7c5162bc818e52a967766d63b85b73abf34952c64c47ffdc986d8337d13c2ea6",
+      "en_sha256": "6e65ceefb9d58fb8d4999785b34f93870d07013019254462e664ef646462ec43",
+      "origin": "ai"
+    },
+    "dataList[key=I990423].displayName": {
+      "pl": "Lampy",
+      "kr_sha256": "ef57d3c8ccf339e7a4f7e38ffc6d7ea1b632b75274f5d22fdcad514beb8a1dce",
+      "en_sha256": "55c26973480cfb175b302aaf630d7a3da9fc385aec9f09d9e1e5180d4e86bedc",
+      "origin": "ai"
+    },
+    "dataList[key=I990423].statText": {
+      "pl": "W Symbolicznym przy trafieniu w bezruchu otrzymywane <color=#fe4b48>Obrażenia</color> -2 (minimalnie 1 <color=#fe4b48>Obrażenie</color>)",
+      "kr_sha256": "92cc7f496beb5ed0d7a3e4a0339f0784ee39ecd1f2c5702c1167a38a28462d97",
+      "en_sha256": "2f803c972913ed1e51dd9fe875d47dbf324256460e46c023560c8eb0f8b4c607",
+      "origin": "ai"
+    },
+    "dataList[key=I990424].description": {
+      "pl": "Do tej torby tote zmieści się wszystko, co trzeba. Torebki ze skóry rozciągają się na tyle, ile niesie. Ale skóra się nie rozciąga. Skóra tylko mięknie. Wydaje się, że się rozciąga.",
+      "kr_sha256": "1f4b1535f9aa6af009d3fb08c40e547b0450c9c114983153e6278e9054ebd078",
+      "en_sha256": "43cd567cef442082dac0684b5effc045bf2b668cd63c54b401ebe30b0d7bdef7",
+      "origin": "ai"
+    },
+    "dataList[key=I990424].displayName": {
+      "pl": "Torba Tote z Salonu Torebek Le Rouge",
+      "kr_sha256": "07b045f7e0dd03382635d3416b175f07fab9f8580d2a0121b295be182d133184",
+      "en_sha256": "d287ec2ec20f073d67e2295bf9943f2bd616ab888a78e241c9db21a5a1c2aa4f",
+      "origin": "ai"
+    },
+    "dataList[key=I990424].statText": {
+      "pl": "W Symbolicznym udany <color=#F8C200>Parry</color> wystrzeliwuje 1 <color=#F8C200>Pocisk Naprowadzający</color> w najbliższego wroga w promieniu 3 pól, zadający 2 <color=#fe4b48>Obrażenia</color>",
+      "kr_sha256": "d915081b4b0f37491f224c3f548a0f8d6fa6ba08ad64f10f1570fa1a6c2d95b5",
+      "en_sha256": "5ae465039d6d3fd8ba48f0c0571ca1c97721bc2860025fa449bfe7c7820a3c8b",
+      "origin": "ai"
+    },
+    "dataList[key=I990425].description": {
+      "pl": "Kiedy Le Rouge postanowiły ulepić Szkarłatnego Boga, zarekwirowano niezliczone torby. Skóra zdjęta z ich rozebranych ciał miała zaszczyt stać się częścią Kołyski.",
+      "kr_sha256": "aee13a0ec0e95e9e7966fb4ebed6145099a9b9d7af82814f75d5d947c5b53ebb",
+      "en_sha256": "c9a3df03fac553c406d72c6636f2afbebbcf874cafa0b5679b92bf9763f09a2f",
+      "origin": "ai"
+    },
+    "dataList[key=I990425].displayName": {
+      "pl": "Torba Przez Ramię z Salonu Torebek Le Rouge",
+      "kr_sha256": "a43cbfbbd4cabc9692a4439a95fa26ad19b7d01ec65728ca99e4e5e9e5c68270",
+      "en_sha256": "cb4f556c4332e4fa11d279ef11407a74071f55323fa2ef32f4556f7d2eb55d91",
+      "origin": "ai"
+    },
+    "dataList[key=I990425].statText": {
+      "pl": "W Symbolicznym udany <color=#F8C200>Parry</color> zadaje <color=#fe4b48>Obrażenia</color> +2 celowi, którego atak został <color=#F8C200>sparowany</color>",
+      "kr_sha256": "fdeb65b0074110b714a2c260386079d8b5bc3dcde662c3e43ab5bf55f1ba454f",
+      "en_sha256": "16633f81f508c5f7ad6b2fd23468e244b53545057c12fb9e8186202dd424b940",
+      "origin": "ai"
+    },
+    "dataList[key=I990426].description": {
+      "pl": "Obca blaszka wciśnięta między kawałki skóry. Klamra istnieje po to, by spełniać to, czego sama skóra nie potrafi. Skóra jest ciałem, a klamra kością.",
+      "kr_sha256": "04a48d9612262d95bb8b7ee398673231be696c94ff1cbabec2116f712416d5d8",
+      "en_sha256": "19bf06158912bf437712bafc93d20b748943aedf3739e39c90b683e331405d0b",
+      "origin": "ai"
+    },
+    "dataList[key=I990426].displayName": {
+      "pl": "Klamra z Salonu Torebek Le Rouge",
+      "kr_sha256": "2a7849b541834139e02f090a56e550081ed22236c6ffca54460656b219099ead",
+      "en_sha256": "b34940a261484c473e01e879de5d6d23777f4ddbd0212b66b33aa735f3a7db4c",
+      "origin": "ai"
+    },
+    "dataList[key=I990426].statText": {
+      "pl": "W Symbolicznym trafienie <color=#F8C200>Atakiem Kombo 2</color> <color=#00ff9c>leczy</color> 1 Symboliczne <color=#00ff9c>HP</color>",
+      "kr_sha256": "f38a5665716e024c790d48cb11c6d67b535ece10bb2a9e7a382a3523136f3f58",
+      "en_sha256": "615a666c94c766c8114783a890eab1ff19ec65bcf246737386cbf2e446f3d58f",
+      "origin": "ai"
+    },
+    "dataList[key=I990427].description": {
+      "pl": "Nawet gdyby ulepić boga z materiałów wewnątrz Grand Magasin, ten Gigant nie wymknie się z jego praw. Aby dzierżyć władzę równą innym bogom, nie powinien był się tu w ogóle narodzić — nie jako kolejny materiał Grand Magasin.",
+      "kr_sha256": "9cb166830ac43a676f183a61d118c5e364af9192a9c2b602568a1e721e2e1fa0",
+      "en_sha256": "bcbc488c67b019ea80856b4fcfb57771371ef65975673f23859e4e0f3d277fee",
+      "origin": "ai"
+    },
+    "dataList[key=I990427].displayName": {
+      "pl": "Kopertówka z Salonu Torebek Le Noir",
+      "kr_sha256": "1f3f248bc71de2df948838365ea56f9cb5ed58a73a82519b6b19831682e9648d",
+      "en_sha256": "f7d2d54150fa01f1948470d0964167313184c9e752a56a35224f11a90d97e950",
+      "origin": "ai"
+    },
+    "dataList[key=I990427].statText": {
+      "pl": "W Symbolicznym <color=#F8C200>Zablokowanie</color> ataku wręcz zadaje atakującemu 3 <color=#fe4b48>Obrażenia</color>",
+      "kr_sha256": "44620b0c841b5086301fc050b801d0a7fdec3d881030eca6f04e3a3799b4f9e7",
+      "en_sha256": "6fc0300cbbb513ca1ea5557ad2d0d4bc4bb9b7b22104b039b4c8d18d9080b52f",
+      "origin": "ai"
+    },
+    "dataList[key=I990428].description": {
+      "pl": "Mimo wszystko trzeba to powstrzymać. Bóg, choćby mały, jest bogiem. Pozwolić tej rzeczy istnieć — to tylko zmusić Le Rouge, by obgryzały i pożerały jeszcze więcej Złotej Żywicy.",
+      "kr_sha256": "f160f187af7e41d5e2b614d5fdff0a2dce72829511c7bbebaaf0d5785748075a",
+      "en_sha256": "cf37c46c4c0f54a5b4c25b0cd321695ef8c563034ed455ddf3a71ca6224393d5",
+      "origin": "ai"
+    },
+    "dataList[key=I990428].displayName": {
+      "pl": "Plecak z Salonu Torebek Le Noir",
+      "kr_sha256": "480f241c0dad7292fd6b5663d7eda342d4fb0c18e4f02ad115cb7ae7824fa654",
+      "en_sha256": "212037d5202a811f84e68679ffc43719ed6188277f1c87d056902d7f3063c428",
+      "origin": "ai"
+    },
+    "dataList[key=I990428].statText": {
+      "pl": "W Symbolicznym udany <color=#F8C200>Perfekcyjny Blok</color> uruchamia <color=#F8C200>Dodatkowy Atak</color> zadający 2 <color=#fe4b48>Obrażenia</color> w promieniu 1 pola od Meursaulta (0.1 s Hitstun)",
+      "kr_sha256": "bbaefdf63aca2a4a317a717fa569c868c20a720061ba70f22a1075ff1a47a154",
+      "en_sha256": "ad36ab56d75da714ffb9816753037c66933490b4d56271e11c8efb1317641186",
+      "origin": "ai"
+    },
+    "dataList[key=I990429].description": {
+      "pl": "Podobno Dyrektor Marki Le Noir nie może teraz osobiście przemieszczać się między piętrami, więc do Salonu Prestiżu wysłano tylko tych sprzedawców, którzy mogli dotrzeć najszybciej. Nie wiadomo, czy udało się tam opanować sytuację.",
+      "kr_sha256": "1be0dcdea412ed786bdbb30c69f17fd543927da03b5f29a259d7ac3b916064a3",
+      "en_sha256": "401a3eba4dd4b8cb2e9717dde44dde2e8e53f04db22b779b135cb285a998b968",
+      "origin": "ai"
+    },
+    "dataList[key=I990429].displayName": {
+      "pl": "Pasek do Torby z Salonu Torebek Le Noir",
+      "kr_sha256": "3de83af8ce33b819666b03e8b6d940ed6bea7e862e56c94a1695d880a221cd79",
+      "en_sha256": "3248b68b3013390cedac47f5f2aab3c5d218940599b241260e42395510a42ab6",
+      "origin": "ai"
+    },
+    "dataList[key=I990429].statText": {
+      "pl": "W Symbolicznym udany <color=#F8C200>Perfekcyjny Blok</color> <color=#F8C200>Odrzuca</color> wrogów w promieniu 1 pola od Meursaulta o 1 pole",
+      "kr_sha256": "aa99470453bb956b65d25d32c5b35558ef03124de8b0c5a15ffca92420b43a5b",
+      "en_sha256": "db61d2548aa664ca30b4fae8eb2b4af969def317b2a8c3a4839d58a8075ed4f4",
+      "origin": "ai"
+    },
+    "dataList[key=I990431].description": {
+      "pl": "To trudne… jest ich tak dużo… za dużo może odbić radość… za dużo lśniących powierzchni… może sprawić, że lśnienie przestanie być wyjątkowe…",
+      "kr_sha256": "96d26a9cf33a3f04a78d60cd5109571d0fc6601ee812ef3c6bc4bf66baee89fd",
+      "en_sha256": "823d37cdb2b42d79ca0f0d1f670b32131160fc6362e37924251b588b1c23f89a",
+      "origin": "ai"
+    },
+    "dataList[key=I990431].displayName": {
+      "pl": "Świecące Buty",
+      "kr_sha256": "f2b5a12913f42e94d063cfe814dad0b6aa3ff6574977ab85f1632cb655ecbda8",
+      "en_sha256": "fe10bb58fec58649bb7d61d02f47a1b740dcec72ab91988f8454dfe457923683",
+      "origin": "ai"
+    },
+    "dataList[key=I990431].statText": {
+      "pl": "Po <color=#F8C200>Uniku</color> w Symbolicznym <color=#fe4b48>Obrażenia</color> następnego ataku +3 (odnowienie 10 s)",
+      "kr_sha256": "96ebd509a4f585e2fc2870476c73a38714abb4eedb9f497e875b478187d0aaa8",
+      "en_sha256": "19153c2a63934fde8fbfa8814c6aebd9c38562ceb03b71602f9b9152773e22da",
+      "origin": "ai"
+    },
+    "dataList[key=I990501].description": {
+      "pl": "System Sisyphe to urząd zbudowany, by wydajnie i bez przemocy pozyskiwać od więźniów doświadczenia. Więźniowie przeżywają w nim mnóstwo doświadczeń, a ich różnorodność staje się podstawowym składnikiem Ciasta Doświadczeń. Doświadczenie to spostrzeżenie zmiany: nieustanne następstwo bezruchu i ruchu. Le Noir sprawuje władzę nad bezruchem.",
+      "kr_sha256": "8004ac887b897372c6a02545535b007ad2fdecc2b8e2e7a8c293c405bb00286d",
+      "en_sha256": "409fbec6c8f00657ef1eaebf38f825bcf9abd103d1d3341549d8a5fdc9f01351",
+      "origin": "ai"
+    },
+    "dataList[key=I990501].displayName": {
+      "pl": "Posłuszeństwo",
+      "kr_sha256": "869bf1509447d10a14fdc2a30d366c55ffaf9edd1528811ef4dd4370239d18c8",
+      "en_sha256": "7227a21c518466056a5ae40100e7c3f9f00bd2f2ce13d670e75df31c0cb07b10",
+      "origin": "ai"
+    },
+    "dataList[key=I990501].statText": {
+      "pl": "W walce w Zacienionym, zanim Tożsamość o <color=#00ff9c>HP</color> 50% lub niżej zostanie trafiona umiejętnością wroga, zyskuje Tarczę równą 20% brakującego <color=#00ff9c>HP</color>\n- Raz na Tożsamość na potyczkę\n- Ta Tarcza nie znika z końcem tury",
+      "kr_sha256": "5dae27c1ba3f4c01c41ed36595407bf53a51f11fbfd20b315148a30a76bedec5",
+      "en_sha256": "c161eaa04c2bf0108ee9abe8095d8d9296b8dc54fa278c074777c1f53aa28495",
+      "origin": "ai"
+    },
+    "dataList[key=I990807].description": {
+      "pl": "Umami pobudza apetyt, słyszysz? A gdy apetyt rośnie, chce się kolejnego jedzenia, słyszysz? Chęć na kolejne jedzenie to oczekiwanie kolejnego smaku, słyszysz? Czyli umami to smak oczekiwania, słyszysz?",
+      "kr_sha256": "caefa3e0b95cb93ecb60fb1a3257ef80bf5faf220eef0485f88cbe38a330e26c",
+      "en_sha256": "c76ba96e883e3405308acaa6891e97003fb0bb9ab19b2d697c7c8eb0b7cf9ee4",
+      "origin": "ai"
+    },
+    "dataList[key=I990807].displayName": {
+      "pl": "To Umami, Słyszysz?",
+      "kr_sha256": "79fd97d1b8679ba42e7c8e4f05ee84efcde113d90010907f118fca1dcf8bd5f8",
+      "en_sha256": "c876b7c7fcbf025ea8a896e0c152e51d197d55e4548d67b11d5c8fa3730ddaa7",
+      "origin": "ai"
+    },
+    "dataList[key=I990807].statText": {
+      "pl": "<color=#fe4b48>Szybkość Ataku</color> +15% w Symbolicznym",
+      "kr_sha256": "af997afc24c5f975ffab5df6c90d235f091729f91a11c389f067d3955e49230d",
+      "en_sha256": "2002a2ce7653035998d6b4ce92aedb73d9b8aa5387a8c1eb1bfd5e50a04d6596",
+      "origin": "ai"
+    },
+    "dataList[key=I990808].description": {
+      "pl": "Swojskość to aromat, nie smak, słyszysz? Aromat i smak to co innego, ale trzymają się razem, słyszysz? Kiedyś ugotuję potrawę z samego aromatu, słyszysz? I wtedy nakarmię do syta wszystkich tu obecnych, słyszysz?",
+      "kr_sha256": "33725096a8f0820b5628655530f0af2c9a327531ead25d6af9194d9cbc454972",
+      "en_sha256": "d4db14e8b1249e3ebe5dacfd7def7b6101cb0dcb79def4423d3a1397f1c62487",
+      "origin": "ai"
+    },
+    "dataList[key=I990808].displayName": {
+      "pl": "To Swojski Smak, Słyszysz?",
+      "kr_sha256": "6738392c6de66e96329b18d6904a2732e9aa6672a514cde7ce412576a14888cc",
+      "en_sha256": "8f370b2929786decbd1d8db906c07efe355d5c077db0759ec285e1ed944a89a0",
+      "origin": "ai"
+    },
+    "dataList[key=I990808].statText": {
+      "pl": "W Symbolicznym po zabiciu wroga <color=#00ff9c>leczy</color> 3 Symboliczne <color=#00ff9c>HP</color> (odnowienie 4 s)",
+      "kr_sha256": "e5f875f83d302413b809cd09dc3ac8e307e5a90dbb2af69d82e107024df1495f",
+      "en_sha256": "40b34d8e17aff6d00dd558cf83de4bef010582f7a245a8144dab5ab62ab457d0",
+      "origin": "ai"
+    },
+    "dataList[key=I990809].description": {
+      "pl": "Na brzeg wyrzuca to, co dawne. To, co wyrzucone, nie jest rzeczą Grand Magasin — to pozostałości poprzedniej epoki, już nadłamane i skazane na dalsze łamanie.\nBo to miejsce jest teraz Grand Magasin zbudowanym według cudzego projektu.",
+      "kr_sha256": "265f642088e1b960acf2d04f858acddfbd027607195467b175d13376943cd247",
+      "en_sha256": "71d12650b3bf446eda3843b1b26a4b14cdffc441fe56b369278afdd21a557b10",
+      "origin": "ai"
+    },
+    "dataList[key=I990809].displayName": {
+      "pl": "Wędka",
+      "kr_sha256": "083d48d89472cbe5e69acd6035f2ddabf02779092ce3ce723a58affddc4759f6",
+      "en_sha256": "89a945cde38e3b7e6ca1756f6e15ce0b496d23a877ca58074fba8a60a429469b",
+      "origin": "ai"
+    },
+    "dataList[key=I990809].statText": {
+      "pl": "W Symbolicznym trafienie atakiem daje 30% szans na uruchomienie <color=#F8C200>Dodatkowego Ataku Czarną Wodą</color> zadającego 3 <color=#fe4b48>Obrażenia</color> (1 s Hitstun)\n- <color=#F8C200>Dodatkowy Atak Czarną Wodą</color> przechodzi na 1 losowego wroga w promieniu 3 pól od trafionego wroga (maks. 3 razy)",
+      "kr_sha256": "cad11f3ea21a1d292af9c09459ec5040120154af5bae8cea6b2c81d8869d3d8e",
+      "en_sha256": "384164a7ec4e9cc607b3a6efc567315f4fb6352299288a644541c6ee2dfc2bc8",
+      "origin": "ai"
+    },
+    "dataList[key=I990810].description": {
+      "pl": "W Akwarium żyły przeróżne ryby, a zbiorników było bez liku. W miejscach urzeczywistnionych w najróżniejszych środowiskach krążyły łuski, wody i akwaria. Woda utkana z Czarnej Nici płynęła najniżej, a w niej cicho spała pewna ryba.",
+      "kr_sha256": "2dcc431b209b88f94ac5de3d697ed71146b6a941e4c5d91a9b499575f650cd63",
+      "en_sha256": "e5df30b802b88d9fe0dab78aa94fe0a49f53ece64df182b86b3b655d3521d8f3",
+      "origin": "ai"
+    },
+    "dataList[key=I990810].displayName": {
+      "pl": "Podbierak",
+      "kr_sha256": "0c9ac842b33f54791568ed16474016d9533a3e531582d41315ddc9e80a5259ac",
+      "en_sha256": "ff2c543288548fb33367276fdb7b88366e215af06e4b2b04aa56d97e5092075b",
+      "origin": "ai"
+    },
+    "dataList[key=I990810].statText": {
+      "pl": "W Symbolicznym po zabiciu wroga 20% szans na wygenerowanie <color=#F8C200>Czarnej Larwy</color> (maks. 1 naraz)\n- <color=#F8C200>Czarna Larwa</color> czołga się do najbliższego wroga w promieniu 10 pól\n- Gdy dotknie wroga albo nie dotknie go w ciągu 3 sekund, wybucha na miejscu\n- Wybuch zadaje 5 <color=#fe4b48>Obrażeń</color> w promieniu 1 pola",
+      "kr_sha256": "6e21a117da99bc55c0b250d017a34c8fcb9e590b87532ed599ce94011aaba5ef",
+      "en_sha256": "cdef134fb5e62b1a6539af898c9e90852c260a01030f0332290187f6f1df1855",
+      "origin": "ai"
+    },
+    "dataList[key=I990811].description": {
+      "pl": "Larwy, które przeżyły drogę aż na brzeg, poczuły zapach zanęty i próbowały czołgać się na brzeg — lecz ugotowały się w powietrzu. To świat spoza wody. Era Akwarium się skończyła; teraz trwa era Grand Magasin i trzeba ją przetrwać.",
+      "kr_sha256": "436e8f93ff50697375bf5c2091f5aa196291b9dfceb02d358c3e3c409136965f",
+      "en_sha256": "4c82cc14ce421afadbdb8efb92a940ce959df65dc129356b4b09b758d2c5ca83",
+      "origin": "ai"
+    },
+    "dataList[key=I990811].displayName": {
+      "pl": "Zanęta",
+      "kr_sha256": "0397cfc1b5ac24c5d316dadda86a2e7df7ef329b9efb9053425b52d42b9721c7",
+      "en_sha256": "6430ac1c1af9e8342f370e94f0b6b88d11ea41db1d3285e315846858c0fe0864",
+      "origin": "ai"
+    },
+    "dataList[key=I990811].statText": {
+      "pl": "Symboliczne <color=#00ff9c>HP</color> +4\n\nW Symbolicznym <color=#F8C200>Garde</color> 2. poziomu uruchamia <color=#F8C200>Atak Kombo 2</color>\n- Ruch i efekty stosowane jak przy <color=#F8C200>Ataku Kombo 2</color>",
+      "kr_sha256": "3e580d4b126d1e2aff89df755c5426319c9ed57806efd441be7b3f6eef3ce004",
+      "en_sha256": "5f5b3f59f16d4732ed7fd2ec9570435979f694f4ce2f347a3559274eafb22fe1",
+      "origin": "ai"
+    },
+    "dataList[key=I990812].description": {
+      "pl": "Narodziła zbyt wiele. Dlatego jej grzech jest ciężki. Zrodzenie tyleż znaczy tyle, co zabicie tyleż. A więc dawna istota, która niegdyś pływała w Czarnej Nici, cichutko wysiadywała jaja na samym dnie, powiększając grzechy.",
+      "kr_sha256": "c1e37af45adee705c4ac9e2f36bdee5f1ec8acee842d13289405f8ef61722e6b",
+      "en_sha256": "45045c9e2dbc99b8f9b6d51ead99b309e0b974c35eee6cb37e68da646eb157a4",
+      "origin": "ai"
+    },
+    "dataList[key=I990812].displayName": {
+      "pl": "Czarna Woda Brzegu",
+      "kr_sha256": "cbcd0060cb2eba9a4fbb8c55c655e138d6348946a40819300795c4a6da00f686",
+      "en_sha256": "2e432e16850fe04b8d7aa531751cffeb1b9909a240506f6f0bf79a2d593eec00",
+      "origin": "ai"
+    },
+    "dataList[key=I990812].statText": {
+      "pl": "W Symbolicznym odblokowuje <color=#F8C200>Pocisk Czarnej Wody</color> Pwie\n- Wystrzeliwuje w najbliższego wroga w promieniu 5 pól (odnowienie 2.5 s)\n- Trafiony wróg otrzymuje łącznie 2 <color=#fe4b48>Obrażenia</color> w ciągu 3 sekund\n\nW walce w Zacienionym Moc Pulsacji Pwie +1\n- Po użyciu „Ożyw się”, jeśli Pwie jest w Niepowstrzymanym Szale i ma Licznik Pulsacji 10+, zużywa 10 Licznika Pulsacji i nakłada na cel 1 <color=#F8C200>Zwiększenie Mocy Podstawowej</color>\n- Użycie „Nie Bolej” przy Mocy Pulsacji 3+: Waga Ataku +2; przy trafieniu leczy SP równy Mocy Umiejętności\n- Odblokowuje „Chrzest Szkarłatnych Gwoździ” (atakuje 3 wrogów)",
+      "kr_sha256": "7036c7c6e40993d208523b5a11b90d05ad4b92535d86a109334ac0883b42da07",
+      "en_sha256": "9bf27d5cddfafb652d02137d591133de03c409781598937bbbd56d5f9245ab32",
+      "origin": "ai"
+    },
+    "dataList[key=I990813].description": {
+      "pl": "…Nie wiem. Gdyśmy się poznali… i ty próbowałeś zabić Meursaulta, Dante i mnie. Masz swoje pragnienia. Więc nie da się inaczej, prawda? Giniesz, bo… bo jesteś zły. I słaby. Dlaczego więc czuję się tak źle? Ty zrobiłeś to samo — czemu… czemu to ja muszę nosić tę winę…?",
+      "kr_sha256": "99b83f896a44d25a45b193870205aaffc3559fb14baeeeeb1111bb6b81e0c4f0",
+      "en_sha256": "1ecb4d8c4de31fa279b66c004fd34c3ce785f3040fee50607842fd29c38c9081",
+      "origin": "ai"
+    },
+    "dataList[key=I990813].displayName": {
+      "pl": "Czysty Fartuch",
+      "kr_sha256": "1525c6a0e27b3fdaf02ddf3e08553d7c867bd9f1a57735ba0573812a3c74383f",
+      "en_sha256": "3c1157ef66b3232dc7e02e36044538c1ba59c5d11305a4beac2abd9902edb90e",
+      "origin": "ai"
+    },
+    "dataList[key=I990813].statText": {
+      "pl": "W Symbolicznym wzmacnia <color=#F8C200>Pocisk Czarnej Wody</color> Pwie\n- W miejscu trafienia tworzy <color=#F8C200>Kafel Czarnej Wody</color> w promieniu 1 pola (utrzymuje się 5 s)\n- Wrogowie na kafelku otrzymują co 2 sekundy 2 <color=#fe4b48>Obrażenia</color> i tracą 20% Szybkości Ruchu\n\nW walce w Zacienionym wzmacnia umiejętność Pwie „Chrzest Szkarłatnych Gwoździ”\n- Przy użyciu: +1 Moc Podstawowa za każde 4 <color=#F8C200>Krwawienia</color> na celu (maks. 2)",
+      "kr_sha256": "18e027a4d6058f676aaee54949a7c137bb25fb83e86baa7bc4edd8b83757de67",
+      "en_sha256": "bc773f768b1319a61f5d5644c73a44a3200626dded729b02a47123817b1ad168",
+      "origin": "ai"
+    },
+    "dataList[key=I990912].description": {
+      "pl": "Jedna nasiąka łzami aż do pęknięcia; druga nie nosi ani kropli.",
+      "kr_sha256": "dd9ebd029330d92226b6b243fa6d28f87ff4d23fe6e1985c3cf3006d09ba7837",
+      "en_sha256": "572f1f11b1af6a3609238fd9b6dda0d5c368076853c3f9f8c19747c85b5c4c41",
+      "origin": "ai"
+    },
+    "dataList[key=I990912].displayName": {
+      "pl": "Zaprawa",
+      "kr_sha256": "a2514b3ffe45b92d2a4d22624af84be9f2ffe0d3f77e946a863d9b07f92c042b",
+      "en_sha256": "1d5b234eaea329c828a1b6547fd8521dd0169bd25fa65b623cc61063547eb17e",
+      "origin": "ai"
+    },
+    "dataList[key=I990912].statText": {
+      "pl": "W Symbolicznym <color=#F8C200>Bieg</color> zostawia za sobą <color=#F8C200>Kafle Ropy</color> utrzymujące się 3 sekundy\n- Wrogowie stojący na kafelkach tracą 30% Szybkości Ruchu\n\nSymboliczne <color=#00ff9c>HP</color> +4",
+      "kr_sha256": "449b4db673621b7cf029b9f29e94f2b9009cea9657befef4cd3b7a797ad65d79",
+      "en_sha256": "d7571230d866cacac02337aa039b803f1ced5cc425794d921c3f43d129b01e5d",
+      "origin": "ai"
+    },
+    "dataList[key=I990913].description": {
+      "pl": "Tego dnia, gdy na murach powstały pęknięcia i wsiąkł w nie Głos, rodzeństwo pomodliło się o co innego. Jedno — by nigdy więcej nie boleć. Drugie — by nigdy więcej nie smutnieć. To, które przestało boleć, może już nasiąkać łzami. Bo łzy nie płyną z bólu.",
+      "kr_sha256": "1dbea2c5ef41758cfd74a7b5305e1cf349068ca4b740c01708a1e0c26df09d6d",
+      "en_sha256": "7d3b0b516b88e8fc8bf167778c9c97f5865555d9c16c4a43240e507e892c1201",
+      "origin": "ai"
+    },
+    "dataList[key=I990913].displayName": {
+      "pl": "Surowiec Barwiący",
+      "kr_sha256": "64883e4ccc68fcc1ff573bb30d97699c39bf9f9c1e80cb8f060a28a7708f49c6",
+      "en_sha256": "20b53ee591c21c927c0b05dd212f7828f247dfeb9f1b3d1115b6cf976347ae72",
+      "origin": "ai"
+    },
+    "dataList[key=I990913].statText": {
+      "pl": "W Symbolicznym trafienie <color=#F8C200>Atakiem Kombo 2</color> uruchamia <color=#F8C200>Dodatkowy Atak</color> (1 s Hitstun)\n- Zadaje 4 <color=#fe4b48>Obrażenia</color> 1 losowemu wrogowi w promieniu 3 pól od trafionego wroga\n- Po <color=#F8C200>Dodatkowym Ataku</color> (80 - liczba wywołań x 20)% szans na ponowne wywołanie na 1 losowym wrogu w promieniu 1 pola od trafionego celu\n- Można łączyć (maks. 5 razy; minimalna szansa wywołania 10%)\n\nW Symbolicznym zasięg <color=#F8C200>Ataku Kombo 2</color> +1 pole",
+      "kr_sha256": "13203acc9cb997ae138a79b9548b398fc5489d9602b01bc380fba0c6260b61a4",
+      "en_sha256": "775e5a271a868e7328a9262436d5bc093cc603baf085a3ecf0e90a1e77d5d2c5",
+      "origin": "ai"
+    },
+    "dataList[key=I990914].description": {
+      "pl": "Ci, których nie dotknie smutek, nie znają łez.\nStają się wysuszeni, sztywni i raniący.",
+      "kr_sha256": "fc10fdf602145a45a6fc7d6f28bcadf50d30c476bd201f731cd8bc6eb0ee813e",
+      "en_sha256": "47ef4559f4b29243f7a086d417c99527ee0d0a41c7da32d87788a0c6db65f156",
+      "origin": "ai"
+    },
+    "dataList[key=I990914].displayName": {
+      "pl": "Chrząstka",
+      "kr_sha256": "74c36e40a8f941dda60f63d3669eba81771d1c24329ca70ffc7f6dee7bbbaf65",
+      "en_sha256": "655f6789648a827dca446d5ffe51b7992eeaf5b8e70bd66ec1be438e9ad24391",
+      "origin": "ai"
+    },
+    "dataList[key=I990914].statText": {
+      "pl": "Odblokowuje <color=#F8C200>Garde</color> 3. poziomu w Symbolicznym\n- Czas <color=#F8C200>Garde</color> 3. poziomu: 3 s\n- <color=#fe4b48>Obrażenia</color> <color=#F8C200>Garde</color> 3. poziomu: <color=#fe4b48>Obrażenia</color> ataku w Symbolicznym +3\n\nW Symbolicznym dystans <color=#F8C200>Szarży</color> <color=#F8C200>Garde</color> +2 pola",
+      "kr_sha256": "6dcdb15fb8096e28734a1b7a421310d65ec42627ee2a8f37cec48a062e601a4f",
+      "en_sha256": "2d3552625051b03d7dbbb28d820dc02bd3ce284ff331617311a9eebfd49644e5",
+      "origin": "ai"
+    },
+    "dataList[key=I990915].description": {
+      "pl": "Kierownik Piętra -2 przez lata przędła nić. Od dnia, w którym postanowiono, że powstanie Grand Magasin, potrzebne były ubrania i nić. By prząść ją coraz dłużej, przybrała odpowiedni kształt, a ta wola ochroniła ją przed bezwiednym Manekinem — rozdzieliła ją na trzy części. Te trzy są w istocie jednością. I my jesteśmy zaledwie całościami z części.",
+      "kr_sha256": "b23115bd2fd6150be9b18960445c5b5f749d275a8af9590bd3cb57163beb8644",
+      "en_sha256": "ba83b71b0ad99d88dbfab0cdcedfb3215c0f9f883507ed2d2cea4535898b80b1",
+      "origin": "ai"
+    },
+    "dataList[key=I990915].displayName": {
+      "pl": "Gwoździk",
+      "kr_sha256": "46229a814ffe5d9ad3dac39516e1a997f11e49a03cee30c900dff989a17de2c2",
+      "en_sha256": "0587fba435d08f59f1fa957f3f92286b0f3576ad905e5315ec23dfef4b2e3528",
+      "origin": "ai"
+    },
+    "dataList[key=I990915].statText": {
+      "pl": "W Symbolicznym odblokowuje <color=#F8C200>Atak Kombo 3</color> dla <color=#F8C200>Avant</color>\n- Uruchomienie <color=#F8C200>Ataku Kombo 3</color>: <color=#fe4b48>Obrażenia</color> ataku w Symbolicznym +2, Hitstun +0.1 s, <color=#00ff9c>leczy</color> 1 <color=#00ff9c>HP</color>\n- Wróg zabity tym atakiem nie zostaje trupem na miejscu, lecz zostaje odrzucony o 5 pól\n- Przy kolizji podczas odrzutu natychmiast wybucha, zadając 2 <color=#fe4b48>Obrażenia</color> w promieniu 1 pola wokół wroga, i staje się trupem\n- Bez kolizji wybucha w miejscu końca odrzutu, zadając 2 <color=#fe4b48>Obrażenia</color> w promieniu 1 pola, i staje się trupem",
+      "kr_sha256": "0a53ec0b1f0ee97824706662697a6396974faa43351f7ad70ef733da6cc85eaf",
+      "en_sha256": "a41bf9249f1279c88e2e31ea0daee1509342f46ea7907d3a0786d3b74b709918",
+      "origin": "ai"
+    },
+    "dataList[key=I990916].description": {
+      "pl": "Kołowrotek kręci się, by prząść nić.\nPrzą tak długo, że skręca się już sama przyczynowość. Nie wiadomo, czy nić przędzie się dla kołowrotka, czy kołowrotek kręci się dla nici. Na tym piętrze „dlaczego” nie ma znaczenia. Rola Kierownika Piętra zaczyna się i kończy jednej funkcji: prząść nić i oddać ją czekającemu. Dlatego kołowrotek kręci się nawet po śmierci prządek. Nić powstaje i czeka, aż ktoś ją przeszyje — czeka na gwóźdź, który połączy tutaj z tamtąd.",
+      "kr_sha256": "e097fadfa5a88f922c553c10322bc7a00385e06fd1bc1be67a0be229f2dfa0b1",
+      "en_sha256": "d36b3cd4cbb8d13c02ea3263b963da5993853800cc4f055f21768a899bfc643b",
+      "origin": "ai"
+    },
+    "dataList[key=I990916].displayName": {
+      "pl": "Kołowrotek",
+      "kr_sha256": "f87803c87ece70e21d242fb43ac8e3db944b64a01b6a39395ca5ae678198277e",
+      "en_sha256": "feeedebfee67630b51c271a6e8e7f0279c0650d18c19acac8903bb277f0bdb9f",
+      "origin": "ai"
+    },
+    "dataList[key=I990916].statText": {
+      "pl": "W Symbolicznym odblokowuje <color=#F8C200>Pocisk Igły</color> Pwie\n- Wystrzeliwuje pocisk zadający 3 <color=#fe4b48>Obrażenia</color> najdalszemu wrogowi w promieniu 10 pól (odnowienie 3 s, 0.5 s Hitstun)\n- Przy trafieniu (100 / liczba wywołań tego efektu)% szans na wystrzelenie kolejnego pocisku w pobliskiego wroga\n\nW walce w Zacienionym Moc Pulsacji Pwie +1\n- Użycie „Odejdź”: +1 Waga Ataku za każde 2 Moc Pulsacji (maks. 2)",
+      "kr_sha256": "fd860e9463d8070e8f61dd1e802a29bdbbf84fdb8b4aa8379c000129c6b0f6a5",
+      "en_sha256": "63dea4e18655c308ab1e91d64bbb557b20a1904755f447ac649a01b3287e3a9c",
+      "origin": "ai"
+    },
+    "dataList[key=I990917].description": {
+      "pl": "Nić i igła. Poziom -2 zbudowany jest z potrzeby tych dwóch pojęć.\nNić chce przeniknąć igłę, a igła pragnie być przeniknięta. By władać istotą, trzeba samemu zbliżyć się do istoty; dlatego im głębiej schodzi się do podziemia, tym jaśniejsza staje się gęstość istnienia, aż składa się w punkt.\nNić i igła zbliżają się do istoty ubrania, ale istotą nie są. Rozpad istoty Krawca, który włada nićmi, jest nieuchronny.",
+      "kr_sha256": "d3eaa4119fc2f9fc51f273f2d9d027abbf75844e1756d2daf3aa72d770eeabfe",
+      "en_sha256": "5ee57d266ecc24249931c1bcb85579f4b8180282afda635c4f17c74a8f7b9157",
+      "origin": "ai"
+    },
+    "dataList[key=I990917].displayName": {
+      "pl": "Szpilka Króla Szycia",
+      "kr_sha256": "1e53a777c0a282a54786fe197ea1cff41f2f8435c71de9137556b8774b2d4469",
+      "en_sha256": "5275cbcb04f5fe187fce6250730814e7792ffc6fd0a8fb958cd243c3edb5a4b7",
+      "origin": "ai"
+    },
+    "dataList[key=I990917].statText": {
+      "pl": "W Symbolicznym trafienie <color=#F8C200>Atakiem Kombo 2</color> nakłada na cel <color=#F8C200>Znak Króla Szycia</color>\n- Nakładany tylko, gdy nie ma celu z tym <color=#F8C200>Znakiem</color>\n- <color=#F8C200>Znak Króla Szycia</color> utrzymuje się 5 sekund\n- Szybkość Ruchu celowi ze znakiem -30%\n- Po śmierci celu ze znakiem zadaje 3 <color=#fe4b48>Obrażenia</color> w promieniu 3 pól (0.1 s Hitstun)\n- Po wygaśnięciu znak znika i zadaje 5 <color=#fe4b48>Obrażeń</color>\n- Jeśli te Obrażenia zabiją cel, zadaje 3 <color=#fe4b48>Obrażenia</color> w promieniu 1 pola (0.1 s Hitstun)",
+      "kr_sha256": "d883a22224943d25b2605809befafef95963995d0efb280be73df2ebb05a1e4d",
+      "en_sha256": "2e97bca0b98b5be410ec4122cfef463d60b4de62e3585e0b72a3d3fd07fd2b7a",
+      "origin": "ai"
+    },
+    "dataList[key=I990918].description": {
+      "pl": "Czy smak… aż tak się liczy? Nie wiadomo, czy Wriggley będzie smaczny, czy nie. A mimo to chcesz zjeść Wriggleya… czyżbyś już kiedyś go jadł? Ale… smak się wciąż zmienia. Skąd pewność, że Wriggley znowu tak samo posmakuje…? I coś dziwnego… Wriggley jest tu… nikt go jeszcze nie zjadł.",
+      "kr_sha256": "ddedda0b7823ea725712e1a41f99642aaacd136c00c89ed924c8a5074417b0df",
+      "en_sha256": "bd502a4bc7d86427d002bdfb21495e1c526d7580c489400a2f84a82d93e6729e",
+      "origin": "ai"
+    },
+    "dataList[key=I990918].displayName": {
+      "pl": "Kłębek Króla Szycia",
+      "kr_sha256": "9268d79fd8db471d4cb26dbf47d2ecf3354ceab3b1f8082c7e8f88a96b0119fa",
+      "en_sha256": "9dc73a5b48f0001b376968382a357040afb8153afc88b808d72a0f273ee57eb6",
+      "origin": "ai"
+    },
+    "dataList[key=I990918].statText": {
+      "pl": "W Symbolicznym wzmacnia <color=#F8C200>Pocisk Igły</color> Pwie\n- Przebija wrogów na swojej drodze, zadając 2 <color=#fe4b48>Obrażenia</color>\n\nW walce w Zacienionym wzmacnia umiejętność Pwie „Ożyw się”\n- Trafienie: zamiast <color=#F8C200>Zwiększenia Mocy Starcia</color> nakłada 1 <color=#F8C200>Zwiększenie Mocy Podstawowej</color>\n- Nakładane trafieniem <color=#F8C200>Zwiększenie Poziomu Ataku</color> utrzymuje się także w następnej turze",
+      "kr_sha256": "6b5982a9ea8b46d50faea9b1cfb4434bb03cc40276175b8583433a81586073bc",
+      "en_sha256": "4d978f2d8d1d991a3d1c68de14f854cc205206285b6a4dd3e457aaf3d914b38a",
+      "origin": "ai"
+    },
+    "dataList[key=I990926#2].description": {
+      "pl": "Żywa czerwień, poważna czerń, unosząca się khaki brunatność — wszystkie barwy nie mają innego wyboru, jak iść tam, gdzie prowadzi igła.",
+      "kr_sha256": "a1a9344ec7021e5a913014e006155b8299f92ae54678dfad6924de14e13c68ca",
+      "en_sha256": "55990d01774a32d53ff4878eff9f5dd8626bfc382be23f9fcaa0202129bb95bc",
+      "origin": "ai"
+    },
+    "dataList[key=I990926#2].displayName": {
+      "pl": "Kolorowy Motek",
+      "kr_sha256": "cde785d9ffd4f0a8a8af7d16c3fa2b572afa4d3d665799677de38fdcf5021e10",
+      "en_sha256": "361a24d55e68d4233104a4c1bc05ed5c57ad05799b27516053afc1e88f59404b",
+      "origin": "ai"
+    },
+    "dataList[key=I990926].displayName": {
+      "pl": "Kolorowy Motek",
+      "kr_sha256": "cde785d9ffd4f0a8a8af7d16c3fa2b572afa4d3d665799677de38fdcf5021e10",
+      "en_sha256": "361a24d55e68d4233104a4c1bc05ed5c57ad05799b27516053afc1e88f59404b",
+      "origin": "ai"
+    },
+    "dataList[key=I991004].description": {
+      "pl": "W Złotej Skórze drzemie siła. Umysłom chwiejącym się na krawędzi Manekina ona daje świadomość, prowadząc ku pełnemu Wypaczeniu.",
+      "kr_sha256": "6209496441d2f4fd343056cd601564c92510678c18c56b51f97b9ce90ec8e038",
+      "en_sha256": "70ce0fa91c7c72832e8a0edd1096a569f86d155bba57ef0bd75ef3b726e502f5",
+      "origin": "ai"
+    },
+    "dataList[key=I991004].displayName": {
+      "pl": "Złota Żywica z Palety",
+      "kr_sha256": "52d4c4d75ac3494b80903911694a64a269a496ad543d31cb5dca5f75b105d0a0",
+      "en_sha256": "3a130e7402dcd5a638262c3739940b2f4e847f8d42f6d6e0f2da05f7b291d9ab",
+      "origin": "ai"
+    },
+    "dataList[key=I991005].description": {
+      "pl": "Wypaczenie, które doszło do końca, ma język, który rozumie tylko ono samo. Takim językiem nie da się porozumiewać z innymi.",
+      "kr_sha256": "163f71b3e289264dd05532e2b8feb6c6663e8af30776fbbd4aa302bfc1164cb6",
+      "en_sha256": "ac0917826a99902fd19f079a0388e073e065d74e9e1288293df7676f288a7470",
+      "origin": "ai"
+    },
+    "dataList[key=I991005].displayName": {
+      "pl": "Złota Skóra Kierownika Piętra -2",
+      "kr_sha256": "256ae6c2e6147e7a3108d793e9cbdaad4d30eb056c35128f8f4b8dc4fda5e188",
+      "en_sha256": "c9dc601e5045c55aec612c72663fc6d8f0474ad8ecbae1ff5089a0b4abf6ac82",
+      "origin": "ai"
+    },
+    "dataList[key=I991006].description": {
+      "pl": "Choć minęły wieki, nie zeszedł do poziomu Manekina; dzięki Złotej Skórze pozostał rozumnym Wypaczeniem.",
+      "kr_sha256": "16e731a2f26fc4ce1434eb4243b5fd3bbc318e9e3b0f1697e115fd69153db830",
+      "en_sha256": "3fdb41c1f407c6b95e5ffe094ac7488bdeef5db9425ec10012ca2b866e53a9f1",
+      "origin": "ai"
+    },
+    "dataList[key=I991006].displayName": {
+      "pl": "Złota Skóra Króla Szycia",
+      "kr_sha256": "02ab43e8c936ff779307ef0a3c65e097566556aac2a24cc575fd3e2dc33e562f",
+      "en_sha256": "1f1355e0b5a8eddb877d45b96c7aea1c2b6e6dd61713c852ca449080e9a07af0",
+      "origin": "ai"
+    },
+    "dataList[key=I991007].description": {
+      "pl": "Czemu światło, które sączy się ze Złotej Skóry, pomaga Manekinom utrzymać rozum? Czy nie powinno raczej przyśpieszać ich zejścia ku bezrozumnym Wypaczeniom?",
+      "kr_sha256": "1fad32f11b3a9d9fbbeb8aa5d4b5e5e03eee6a6f38bd0cdc778fe42aaf7b0a23",
+      "en_sha256": "94d2e33df7af110ed3993a5410fc8aa7d1bbf5af604d571ff3cae0915b95f15b",
+      "origin": "ai"
+    },
+    "dataList[key=I991007].displayName": {
+      "pl": "Złota Skóra Sous Chefa",
+      "kr_sha256": "023ed1137506c2cc02c27311d0f2c8550d6efb39b76a14119c292ccd00a9ec31",
+      "en_sha256": "e02d644de4f4cc975d073125c0381e8d923ad0b37442e269a74f69632698ec37",
+      "origin": "ai"
+    },
+    "dataList[key=I991008].description": {
+      "pl": "Złoty blask pragnie, by każde Wypaczenie doszło do końca, a zarazem nie pragnie tego.\nBo w świetle mieszka więcej niż jedna istota, a i serce jednej z nich nie jest jedno.",
+      "kr_sha256": "0cd5a1be626545783614ce009c9409bf6630000871627a57617dc51260424777",
+      "en_sha256": "9e498410eb14d1d366735cc2d3c6b090e7761b40211c9c8d0abac43d4880060d",
+      "origin": "ai"
+    },
+    "dataList[key=I991008].displayName": {
+      "pl": "Złota Skóra ze Stosu Zwłok",
+      "kr_sha256": "25b63a58a6188573a8c6233913e497827659bce7dd99c50d43c89b55ea8ef07e",
+      "en_sha256": "cd676e30685e5843f3cd45a25fb1ded5b1785cbe96d3b27f3efdf6b380815e87",
+      "origin": "ai"
+    },
+    "dataList[key=I991009].description": {
+      "pl": "Wypaczenia zachowują rozum i mogą porozumiewać się z innymi na przeróżne sposoby.\nTo, że światło nie prowadzi ich mądrości ku zagładzie, jest ironią — może zdradzającą resztki człowieczeństwa, które jeszcze w nim mieszka.",
+      "kr_sha256": "059412f17fc19d46e459befcac73f4ed77fc5805c3d3786fafda59120b4c0577",
+      "en_sha256": "5f0c14d26ba61f6403182392f4b607fab8e869e28596a854d4ef57673c56a9e3",
+      "origin": "ai"
+    },
+    "dataList[key=I991009].displayName": {
+      "pl": "Złota Skóra Dyrektorki Marki Le Rouge",
+      "kr_sha256": "959800076d33b83d863af50a85933b9dfca90674a97ed2239e56f32d2e5ae8b7",
+      "en_sha256": "8823077a8133133a8f21a5c629528617ac85fe0d19fa60b4dbb296c0476a5f07",
+      "origin": "ai"
+    },
+    "dataList[key=I991010].description": {
+      "pl": "Przez dialog ze światłem klienci niosący kawałek Złotej Skóry zdobywali potężniejsze moce i rozszerzali swoje wpływy wewnątrz Grand Magasin.",
+      "kr_sha256": "6a390efa8818b8e3d78cd1ca5d6bc78179071639b567b0238deef94978a0d2b6",
+      "en_sha256": "d92a316406fd23d810114dfd96b067d0c679f5d99538de2558f9291aafb071c1",
+      "origin": "ai"
+    },
+    "dataList[key=I991010].displayName": {
+      "pl": "Złota Skóra Kierownika Piętra 3",
+      "kr_sha256": "acacdaca66e71705e8b91540143da248475c649da0e606d23faeb915b27278e7",
+      "en_sha256": "2e0d0197fafa27dd45f4898e78edf27ec95bc18a671833cce1a64c55d9bd3dbc",
+      "origin": "ai"
+    },
+    "dataList[key=I991011].description": {
+      "pl": "Celem Le Néant nie jest samo rozczłonkowanie tego Grand Magasin.\nOni pragną pełnego, nieograniczonego objęcia światła.",
+      "kr_sha256": "cf5c66871280e9444ba22b54a797cd68c401d1c87ace66bc2a068d293bbdc780",
+      "en_sha256": "3b5b5dd900698d7e31cc07ff21401618a092a00f4688e033e199ed93be594122",
+      "origin": "ai"
+    },
+    "dataList[key=I991011].displayName": {
+      "pl": "Złota Skóra ze Szczeliny w Murze",
+      "kr_sha256": "9de40ce21901b66df64e34ea6c7410dcd9b155c47b89b483b5c32a8217a86a5b",
+      "en_sha256": "f9f9c1fd817f94d250b74d0185bea020551952c3993404a5b40631aba7ccbbaf",
+      "origin": "ai"
+    },
+    "dataList[key=I991012].description": {
+      "pl": "Szeroki płaszcz z futrem, zachowujący sierść Złotej Skóry. To okrycie broni przed tym, co z zewnątrz, i przyśpiesza to, co rozkwita wewnątrz. Narzucenie go oznacza koniec dzieciństwa. Dziecko poznaje, czego się od niego oczekuje i co musi wskrzesić, i w konsekwencji musi tak postępować. Pytanie o świat nie jest już dozwolone.",
+      "kr_sha256": "8763ceb464006393e19f0c5eafa42c977c488f75f36bf4087965077947a6a2c8",
+      "en_sha256": "cae03bc5059efb598067dbb1aef7173dec6fa9ca835f1aafa2b86a45b5e93c61",
+      "origin": "ai"
+    },
+    "dataList[key=I991012].displayName": {
+      "pl": "Złoty Całun",
+      "kr_sha256": "9626a0272cc24916ebd90d09f78258a1e32fb3e218c9483b0a4011ed97dd67b7",
+      "en_sha256": "af7d5652d5fd2c75f289c37e6ad152b6c2bba54d981c2b442b25412b129bb32f",
+      "origin": "ai"
+    },
+    "dataList[key=I991012].statText": {
+      "pl": "W Symbolicznym Pwie zostawia na swojej drodze <color=#F8C200>Le Vomissement</color>\n- Wrogowie w promieniu 1 pola od Pwie i wrogowie na <color=#F8C200>Le Vomissement</color> otrzymują 4 <color=#fe4b48>Obrażenia</color> co 2 sekundy\n- Wrogom poszkodowanym przez ten efekt nakłada <color=#F8C200>Złote Objawienie</color>\n- Śmierć wroga z <color=#F8C200>Złotym Objawieniem</color> zadaje 4 <color=#fe4b48>Obrażenia</color> w promieniu 1 pola (0.1 s Hitstun)\n\nW walce w Zacienionym Moc Pulsacji Pwie +1\n- Poziom Obrony +10\n- Koniec tury: jeśli Pwie jest Ogłuszone, zdejmuje Ogłuszenie i <color=#00ff9c>leczy</color> 50% maksymalnego <color=#00ff9c>HP</color> (raz na potyczkę)\n- Trafienie „Szkarłatnym Gwoździem (2. moneta)”, „Odejdź” lub „Chrzestem Szkarłatnych Gwoździ” nakłada 1 <color=#F8C200>Złote Objawienie</color>\n- Użycie „Chrzest Szkarłatnych Gwoździ” przy Mocy Pulsacji 5+: Waga Ataku +2 i Moc Monety +(Moc Pulsacji - 3)\n- Trafienie „Nie Bolej”: dodatkowo <color=#00ff9c>leczy</color> (Moc Pulsacji x 2)% <color=#00ff9c>HP</color> i (Moc Pulsacji x 3) SP\n- Trafienie „Złap Mą Rękę”: następnej tury nakłada celowi Tarczę równą 50% jego maksymalnego <color=#00ff9c>HP</color>",
+      "kr_sha256": "548481c72bcae76657ca210649b969ebcbaf645b93ed0e0a776fcc25e212afd5",
+      "en_sha256": "9d9519f7cb28d036958df763e2b8f5446268370a073fd23d914e4e9739bee97b",
+      "origin": "ai"
+    },
+    "dataList[key=I991013].description": {
+      "pl": "Tak jak z kości zdejmuje się mięso, tak z ciała obdziera się skórę. A potem sierść przywierającą do skóry trzeba rozpuścić tak, by została sama surowa skóra.",
+      "kr_sha256": "de106248b63174ea7e0148ca1110ed227033c27cbb6988755ed5534c099648d1",
+      "en_sha256": "8140de1e6a76357c3bdba78656e848861ce86b279ca082df691ca9a93461ed1d",
+      "origin": "ai"
+    },
+    "dataList[key=I991013].displayName": {
+      "pl": "Wiązka Surowej Skóry",
+      "kr_sha256": "b780eb8413488eebb8d025198655932435284d3e65597d63a68b70806fa1e8ac",
+      "en_sha256": "cd5eec0f140e65d3fa35337e8a48acd00a8baecabb142b5923b07733caedcb36",
+      "origin": "ai"
+    },
+    "dataList[key=I991014].description": {
+      "pl": "Skóra przybiera barwę brunatną, gdy garbniki przekształcają ją w Garbarni.",
+      "kr_sha256": "1209e344a5f304e37e710a6160c9955833d03e1485ac8f231ca8c23c2afb2085",
+      "en_sha256": "81739cfe848badd66fb671d341132c301ab7726ff7343fada03b276369b46746",
+      "origin": "ai"
+    },
+    "dataList[key=I991014].displayName": {
+      "pl": "Garbowana Skóra",
+      "kr_sha256": "3ccf295642e8452989527e6b11ee93dc058bcfa870681acfc3a89751a6de90ca",
+      "en_sha256": "7a1eca5062d5bd0852b9537fc6e2196bb82497d300f10d4794964998dcd69768",
+      "origin": "ai"
+    },
+    "dataList[key=I991015].description": {
+      "pl": "Skóra to proces, w którym mięso staje się rośliną. Mięso się rozpuszcza, a puste w środku miejsca wypełniają gałązki.",
+      "kr_sha256": "58bd21d0e9afe0b4698c7e868fcf50ba74394d9cd406f8ff872e197c96e2d423",
+      "en_sha256": "872cc032605db0840e80403c0aaf918b8903d62ede62e01cdfb929d6249f3aa1",
+      "origin": "ai"
+    },
+    "dataList[key=I991015].displayName": {
+      "pl": "Zmiękczona Skóra",
+      "kr_sha256": "e5fac1f6809f31a2d5eb6468b138e980c44241a2ddda4628f87451183c5e7cfe",
+      "en_sha256": "a820b6431f969257d6f4cfc62b38508d3b4c5c4ba2d380429c24a1e0ab5db318",
+      "origin": "ai"
+    },
+    "dataList[key=I991016].description": {
+      "pl": "Powód, dla którego Le Rouge pragną skóry, jest prosty. Skóra to wyczerpanie. Tkanina to nadmiar. Je się mięso, a potem narzuca się to, co z niego zostało — nie obchodzi ich, co będzie, gdy nie będzie już czego jeść. Je się teraz i ubiera się teraz. Le Rouge otaczają kultem wyczerpanie. Nie zwracają się ku wyczerpaniu, bo kochają skórę. Zwróciły się ku wyczerpaniu — a po drodze narzuciły skórę.",
+      "kr_sha256": "7a910fb3b6204e6bfdb7afdf05345cb5d4eb236365187bed80f3d4b15949d6f2",
+      "en_sha256": "a5e3398ec7bc61719e210c80911349d4b5d95453ad258c7b3de107cc420f0ec3",
+      "origin": "ai"
+    },
+    "dataList[key=I991016].displayName": {
+      "pl": "Narzędzia Krawieckie",
+      "kr_sha256": "a4c522fa7a1fae8736222f71a2f2d7790babc0aaebfe88136c816536ef53b34a",
+      "en_sha256": "24d163051c26ff0c6c63f7b5b6f5b1fb10e6cdf9065adaa01ab64d3023e024cf",
+      "origin": "ai"
+    },
+    "dataList[key=I991016].statText": {
+      "pl": "W Symbolicznym odblokowuje <color=#F8C200>Pocisk Nadzorcy</color> Pwie\n- Wystrzeliwuje w losowego wroga w promieniu 5 pól (odnowienie 2.5 s)\n- Trafienie zadaje 3 <color=#fe4b48>Obrażenia</color> w promieniu 1 pola (0.1 s Hitstun)\n\nW walce w Zacienionym odblokowuje dla Pwie „Ja to Skończę…”\n- Jeśli umiejętność ataku nie zabije wroga, używa jej na tym wrogu (raz na turę)\n- +0.5% <color=#fe4b48>obrażeń</color> za każdy 1% brakującego <color=#00ff9c>HP</color> celu (maks. 30%)",
+      "kr_sha256": "a3b4c7b701e3d87e6cf1acc4399fb1c00546c32ed6c910e6205e4fd42447a76e",
+      "en_sha256": "a25b8fbff573f1485370c071df6297e0856e4e3d72fa5864a6440f0d592e6db4",
+      "origin": "ai"
+    },
+    "dataList[key=I991017].description": {
+      "pl": "Sadza pozostawiona przez istotę, która nie należy do Grand Magasin.\nSystem Sisyphe z epoki na epokę zmieniał swoje oblicze. Grand Magasin Sisyphe to po prostu forma, którą jeden z jego Gigantów — Architekt, a zarazem Krawiec — uznał za najwygodniejszą i najodpowiedniejszą do urzeczywistnienia w Symbolicznym.\nW zależności od tego, kto piastuje tę funkcję, System Sisyphe zmienia się w Grand Magasin, Akwarium, stację benzynową, jaskinię, pasmo górskie albo w coś zupełnie innego.\nCzy to Grand Magasin, czy jaskinia — forma nie ma znaczenia. System Sisyphe zawsze wybuduje w sobie strukturę, która z jakiś powodów tworzy spadek (przepaść wysokości). Gigant potrzebuje tylko spojrzenia, zdolnego wyobrazić sobie taką strukturę.",
+      "kr_sha256": "1e3fbdc6574323037d64a0cc06185fd4b4732a13775253ddb1392ea146933b76",
+      "en_sha256": "3520081a4eb7ea3e6558430d11aa5851b8e68fdc6973b468c262652fcff3e3b4",
+      "origin": "ai"
+    },
+    "dataList[key=I991017].displayName": {
+      "pl": "Sadza",
+      "kr_sha256": "ac43f577172e4c3137610c7a1a11e0437f82111fc195816dcfa16977bbc79669",
+      "en_sha256": "6dba225c5c1ee175093b13c9f1f9162b8f70f49d253b0a864d71f17143355091",
+      "origin": "ai"
+    },
+    "dataList[key=I991017].statText": {
+      "pl": "W Symbolicznym <color=#F8C200>Garde</color> 3. poziomu uruchamia <color=#F8C200>Atak Kombo 3</color>\n- Ruch i efekty stosowane jak przy <color=#F8C200>Ataku Kombo 3</color>\n- Przy posiadaniu 「Zanęty」 ruch stosowany jest jak przy <color=#F8C200>Ataku Kombo 3</color>\n- Wtedy efekty nakładają się jak przy <color=#F8C200>Ataku Kombo 2</color> i <color=#F8C200>Ataku Kombo 3</color>",
+      "kr_sha256": "af9f8613b201c5ac2105e8e1bb0bbbd9a777cfea864e2de3b44a105feba4f92e",
+      "en_sha256": "4921813a943b37cbc154199a62ff7620d3e1a88f88d8520dc9328a0460526545",
+      "origin": "ai"
+    },
+    "dataList[key=I991018].description": {
+      "pl": "Gdy Akwarium przeobraziło się w Grand Magasin, wszelkie pozostałości Akwarium powinny były zniknąć. Ale coś zostało — istota, która do dziś wspomina czasy w Akwarium. Dla Systemu Sisyphe, który od zawsze uchodził za nieskazitelny, to wada wymagająca rozwiązania.\nRyba, która z jakiegoś powodu nie stała się klientem i została w tyle, nie stanie się klientem, choćby Grand Magasin resetowało się bez końca.\nBy naprawić tę wadę w Systemie Sisyphe, skazaniec odpowiedzialny za tę rybę musiałby umrzeć.\nAle System Sisyphe to zarazem urząd karzący, maszyna pozyskująca zasoby i moralność N Corp. — z założenia nie może zmusić swego więźnia do śmierci.",
+      "kr_sha256": "d4b042beb452e64c462b8a57ed933faede8e5a7ebb760b81943207a45bf727a9",
+      "en_sha256": "9ed6f63ef04d12633985137e71ad4fd9f8114fbc3ed9effaf25e3faef5a9389d",
+      "origin": "ai"
+    },
+    "dataList[key=I991018].displayName": {
+      "pl": "Oko Niosące Pustkę",
+      "kr_sha256": "edde0c68213da8835cd52747a973b47b65e5a41991c9a92df61bc888731a3950",
+      "en_sha256": "3311183772d3bcdbb65f9a0b731d7c9112860813474d569cd724337432cfc1cc",
+      "origin": "ai"
+    },
+    "dataList[key=I991018].statText": {
+      "pl": "W Symbolicznym wzmacnia <color=#F8C200>Pocisk Nadzorcy</color> Pwie\n- Po trafieniu pocisk zadaje 3 <color=#fe4b48>Obrażenia</color> w promieniu 2 pól (0.1 s Hitstun)",
+      "kr_sha256": "17c600072001aed4a21f24c5c55255eda7d91cd5566e306c4bfa908854001c87",
+      "en_sha256": "b71fa8bf0e20e0948b5a7b49c5c66b0b76a05bdb240d660d61d06d674488c417",
+      "origin": "ai"
+    },
+    "dataList[key=I991019].description": {
+      "pl": "Na samym dole Grand Magasin odbywa się śmierdząca, brutalna praca nad skórami.\nSkóra to to, co zostaje po zatarto ślady życia. Ale pozostawiona sobie — nic poza gniciem. Dopiero garbowanie odbiera jej ciepło żywej istoty: staje się zbitek włókien i zmienia się w coś innego.",
+      "kr_sha256": "8af556e351a547ce6ac28ec5e4ad75de0329c0e69b5a2262a40848f69ce90070",
+      "en_sha256": "3437b9d9b7e63ddeecb759015e1e905317f2df2bcc20dc670a59ae6efa039c7f",
+      "origin": "ai"
+    },
+    "dataList[key=I991019].displayName": {
+      "pl": "Garbnik",
+      "kr_sha256": "2690fa2bd644562d1f9cf89b2a01c047f3445488e60c514dc0b74fd43006712a",
+      "en_sha256": "e5044d6e6b117c846a846c47cc8fc5e4898e4fcdd4e4adb09b1b225d79c0b421",
+      "origin": "ai"
+    },
+    "dataList[key=I991019].statText": {
+      "pl": "W Symbolicznym <color=#fe4b48>Obrażenia</color> <color=#F8C200>Garde</color> +3",
+      "kr_sha256": "3fb6804fe711555ad286cc9147e8a916ec89c1641f81ddad922fcd852d1bb2a5",
+      "en_sha256": "671257251b67817240bb52996fab4dd4258602d368b349210ef2f8cc583c32a4",
+      "origin": "ai"
+    },
+    "dataList[key=I991020].description": {
+      "pl": "Do obróbki skór są metody szybkie i powolne. Przy garbowaniu chromowym skórę zanurza się w chromie, by przyśpieszyć proces — wsiąka w nią metal, jakiego nigdy nie spotkałaby w naturze, i twardnieje.\nTo szybkie, ale skoro przyspieszono czas, szybko przemija.",
+      "kr_sha256": "15c390d69547afcf5746765783592fa294cbbcba622913a03ca2471b03d06cf5",
+      "en_sha256": "c267703ace1b5fd17c20af0f82a4994f39af11b709b548055951aa0d2a710de0",
+      "origin": "ai"
+    },
+    "dataList[key=I991020].displayName": {
+      "pl": "Sól Chromowa",
+      "kr_sha256": "4fd1d0b3904a738ff56ee04f3a45bd3d6babe7b8eb5318ce3101b32ebd4e33db",
+      "en_sha256": "c52621ab874fb0c5ae2c237437a2a765f7125dee727ff23e3fc960d3d9874e54",
+      "origin": "ai"
+    },
+    "dataList[key=I991020].statText": {
+      "pl": "W Symbolicznym <color=#F8C200>Szybkość Szarży</color> <color=#F8C200>Garde</color> +30%",
+      "kr_sha256": "9632c2ce9b30035ea4d41c27b2b928ec0b675614f0cb1ce37b485b1360e1ae12",
+      "en_sha256": "1029395212997dde02bbff3d1ca953083596b766e3da6362c950fa8fb192610f",
+      "origin": "ai"
+    },
+    "dataList[key=I991021].description": {
+      "pl": "Skórę zanurza się w roślinnych środkach garbnikowych i powoli garbuje. Wymaga cierpliwości i czasu, ale skóra, która przetrwała taki długi proces, wytrzymuje znacznie dłużej. Skóra z natury jest drapieżna — lecz skóra wytworzona tą metodą nazywana jest skórą wegetariańską. Drapieżność dopełnia się roślinnością.",
+      "kr_sha256": "70a666f5140cc2e872c0cd72765109cfecf0ccdb55419dfedc8f5fa57e4fa19b",
+      "en_sha256": "af6659d0fcb5958a6f812fdd2eee4c87eda40d72a05b53670de713fd37955733",
+      "origin": "ai"
+    },
+    "dataList[key=I991021].displayName": {
+      "pl": "Olej",
+      "kr_sha256": "0870c6ef62d0fc3e9ceb2583ac4145645228e669bd92ac1f77485d0d885874ee",
+      "en_sha256": "2378bdd2cf4f491cf401e6b215cbb4fdfec6f76b21801d6bcd3cad070abb156c",
+      "origin": "ai"
+    },
+    "dataList[key=I991021].statText": {
+      "pl": "W Symbolicznym podczas <color=#F8C200>Garde</color> działa efekt <color=#F8C200>Bloku</color>\n\nSymboliczne <color=#00ff9c>HP</color> +4",
+      "kr_sha256": "4b4a0e8f8172bd235bc95f11f39c31a727e4e1a70831b2ae8fdbf8b455f5cc1b",
+      "en_sha256": "3be12a3eadb58bedf752c506f1e01e8c90019855eed2a2360368273ea58c566c",
+      "origin": "ai"
+    },
+    "dataList[key=I991022].description": {
+      "pl": "Złotą Skórę można zatem opisać jako skórę, której struktura jest gęsto wypełniona drobnymi paczkami złota. Skóra, która zapełniała pęknięcia, naprawdę była czyjąś skórą i mięsem. A po garbowaniu Złota Skóra nabrała drzewnych właściwości przystających do Złotej Gałęzi.\nAle czy kiedykolwiek ustalono, że Złota Gałąź jest rośliną?",
+      "kr_sha256": "c7314896864eacd3a7032a7ef991e85f11d2b78f84ee5884dc35602f2b14c823",
+      "en_sha256": "6ff1b4cd621460cc99f24c4c36d1c19d0ea091081b05ef8076f5f84b36403008",
+      "origin": "ai"
+    },
+    "dataList[key=I991022].displayName": {
+      "pl": "Tkanina ze Złotej Skóry",
+      "kr_sha256": "e7fbb86628a85f8e2abcad604eb8eae9571857fc66f8eadd5924b4e29e48adba",
+      "en_sha256": "4c5fe55751efc03864019534e1001f86c678ff710eb7c82b0a1a32128c4fe492",
+      "origin": "ai"
+    },
+    "dataList[key=I992705].description": {
+      "pl": "Zanim wzniesiono Grand Magasin, dawna istota cudem przeżyła i pozostawiła po sobie potomka. Ten potomek został wyrzucony na brzeg, by stać się materiałem nowej epoki.",
+      "kr_sha256": "c7028d6164883609e8da72d86b20a9c7a01165620470589d879deb43e11a7c60",
+      "en_sha256": "347092506b64b53f3a135c2018581dcece2020cd9a9f14887238775d45652591",
+      "origin": "ai"
+    },
+    "dataList[key=I992705].displayName": {
+      "pl": "Larwa",
+      "kr_sha256": "4b5a9e5aa9aeba5b26bf492672673ea05b13d734e2d98953bbf01ded20a754b3",
+      "en_sha256": "6edb87024ee3700cd2f0a2045cdee4be588fd6299bce77025affb264399b04f6",
+      "origin": "ai"
+    }
+  }
+}

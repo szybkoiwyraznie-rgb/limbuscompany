@@ -1,0 +1,96 @@
+389||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 딸, 너만 남아 있으면 돼. 그러면, 거미집은 사라지지 않아.|Sweetie, all would be well if you'd just stay. The House of Spiders doesn't have to disappear.
+390||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 그러니… 가지 마렴.|So please... don't leave.
+391||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 얼어붙은 피를 길게 휘감고.|"Enwrap in long swaths of frozen blood."
+392||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 소리 없이 손뼉 치고, 목소리 없이 베어서.|"Clap without a sound, slash without a voice."
+393||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 날카로운 날로, 낙엽 향 나듯 폭포 소리로 울어라.|"With a sharpened blade, cry out like the scent of fallen leaves and the roar of a waterfall."
+394||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 기행할 것도 없이, 여기가 네가 있을 지옥이잖니.|No need to wander outside. This is the hell where you should be.
+395||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 이 나락이 네가 머물 곳이야.|You belong here, in this hell.
+396||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 만들어진 생애를 살아온 아둔한 사람. 그게 너란다. 그리고 나이기도 하지.|A dimwitted fool living a fabricated life. That's what you are. And who I am...
+397||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 이제와서 자유롭게 살아갈 순 없어. 도망친들, 신의 병졸이 너를 잡으러 갈 테니.|You've come too far to be free. Flee, if you will... but the soldiers of gods will pursue you.
+398||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 끊어낼 수 없는 거야, 딸. …제멋대로 끊어버리면 안 되는 거라고.|You cannot cut this off, sweetheart.\n... This isn't something you can break off so easily.
+399||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 딸. 나를 원망하진 마. 그건 그거고. 이건 이거니까.|Don't resent me so, my darling daughter. That's that, and this is this.
+400||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 하늘을 들춰… 내 딸을 데려가려는 모든 걸 치워버릴 수밖에.|Peel back the very heavens... and cast aside all that seeks to steal my daughter from me.
+401||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 그 운명은, 네 운명이 아니야. 그러니 거기서 빠져나오렴, 요시히데.|That is not your fate. Climb out of there, Yoshihide.
+402||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] …이, 이번 시련만 이겨낼 수 있다면, 저도 요, 요시히데 언니처럼, 뤼엔 씨의 딸이 될 수 있어요.|... I-if I can make it through this test... I can become M-Mister Rien's daughter too, like Yoshihide, my big sis!
+403||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 시계. 귀로. 순백. 바, 방해하지 마세요. 언니는 완성되어야만 해요. 지령을 위해, 저를 위해.|"Clock," "return path," "pure-white." P-please don't interfere. M-my big sis must be completed. For the Prescript... and for me.
+404||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 저의 소망에 따라… 나, 나아갈 뿐.|My cherished hope... I s-simply follow it.
+405||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] …다, 달랐던… 걸까요? 제 본망과, 지령은…|... W-were they not one and the same? M-my immanent yearning—and the Prescript...
+406||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 에즈라, 베스파. LCB 일원들을 보조하면서, 나를 지키도록.|Ezra. Vespa. Assist the LCB personnel as you cover me.
+407||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 내 일생의, 모든 잔인한 과거들이 소용돌이친다.|Every atrocious moment of the past throughout my life swirls around me.
+408||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 후우… 살의는 차고 넘치게 머금었군.|*puff* All of that malice, full to the brim.
+409||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 붉은 점.|Crimson Point.
+410||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 붉은...점.|Crimson... Point.
+411||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 그래, 이 정도면 포장지 한 번 벗겨야겠군!|Oh yeah, I'm down to unbox a layer for this fight!
+412||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 재밌어… ■■은 이런 맛인가!|Interesting... So this is what it feels like to meet a ■■■■■ ■■■■■ in battle!
+413||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 재밌어… 특색은 이런 맛인가!|Interesting... So this is what it feels like to meet a Color Fixer in battle!
+414||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 여기까지 해방하게 하다니… 핫!|You're pushin' me to go balls out... Hah!
+415||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 하아… 장부를 펼칠 필요도 없겠군.|*sigh* Not even gonna write that down. That's a summary execution!
+416||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 그렇지, 우리 딸!|Hell yeah! You got it, Kiddo!
+417||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 잘했군! 칭찬 스티커를 주마.|Well done! Here's a good-job sticker for ya.
+418||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 역시 딸램이 최고구만!|That's my little girl!
+419||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 네놈…!|You...!
+420||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 이제!|These toys...
+421||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 갖고놀기!|... ain't fun...
+422||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 질렸다!|... no more!
+424||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 뜨거울거다!|Be warned, it's gonna be hot.
+425||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 좀 많이!|Hot as hell!
+426||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 불스 아이군!|Hah! Bullseye!
+427||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 저것이… 자신마저 망각한 무아의 경지.|So that... is the state of Muga, the non-self... Even her own self is forgotten.
+428||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 소생은 그저 주인님을 구하지 못하여… 서글플 따름…|I have failed to save my master... That is my woeful regret...
+429||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 에고 감응도 증폭… 발사.|Boosting E.G.O Attunement... Fire.
+430||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 연구자는… 이 따위 위조품에 관심 없네…!|A proper researcher... has no interest in faux imitation!
+431||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 앞을… 밝히세. 구해야할 것이 잘 보이도록.|Let's brighten... the road ahead, so I can have a good view of the lives I must save.
+432||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 자네가… 자네가 이 숲의 괴수로군.|So you... You are the beast of this forest.
+434||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 이런 건 우리한테 맡겨!|This is nothing. Leave it to us!
+435||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 나부터 상대해야할 걸!|You'll have to get through me first!
+437||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 네!!!!|Gotcha!!
+438||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 가속 펀치!|Acceleration Punch!
+439||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 휘리릭! 빵!|Whoosh... Pow!!
+440||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 중량 다섯배!|Five times the weight!
+441||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 매콤 주먹 모드!|Engage Spicy Fists Mode!
+442||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 드릴!|... and drill!
+444||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 하나! 둘! 확산!|One! Two! Diffuse!
+445||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 스크류!|Screw Hammer!
+446||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 회저어언!|Spiiiin...
+447||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 총공 모드, 마크 17!|All-out Attack Mode, Mk. 17!
+448||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 유리아식 도끼!|YuRia Axe!
+449||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 받아라아아앗!|TAAAAKE THAAAAT!
+450||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 박살!|Wrecked!
+451||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 이번에도! 팀장님을 믿을게요!|Team Leader! I'm counting on you as always!
+452||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 네 상대는 나야!|I'm the one you're up against!
+453||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 저자는, 제가 상대하겠습니다.|I will face this enemy.
+454||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 그쪽으론 가실 수 없습니다.|You will not get past me.
+455||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 제 역할을 다할 뿐.|I'm doing my part.
+456||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 큭|Agh.
+457||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 하하하하하!|Hahahahaha!
+458||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 사냥 끝!|And the hunt comes to a close!
+459||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 모조리 해체해주지!|I'll make mincemeat out of you all!
+460||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 원망하고 말고! 빌어먹을 패밀리도, 너네도, 티켓도 전부!|Yeah, I hate you all! The damn Famiglia, you, and Ticket, too!
+461||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 지긋, 지긋, 해! 너네도 티켓도 전부다!!!|I'm sick and tired of Ticket and her meddling fools—to hell with you all!
+462||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 왜, 못맞추겠어?|What, having a hard time landing a hit?
+463||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 그딴 자세로는 내 옷깃도 못 스쳐.|You won't even manage to brush my coattails at this rate.
+464||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 나랑 눈도 못마주쳤을 것들이 어딜.|Back in my day, you wouldn't even have dared to look me in the eye.
+465||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 훤히 다 보여.|I'm reading you like an open book.
+466||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 말했잖아. 이 눈으로 막을 수 있다고.|What'd I say? I can handle you as long as I've got this eye.
+467||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 이게 뭔…|What the hell—
+468||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 큭!|Shit!
+469||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 젠장…또야?|Shit... Not again!
+470||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] …쯧. 얼마나 썼다고 벌써.|... Tsk. Overheated already?
+471||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 루치오, 내가 시킨 건… 하. 그럼 그렇지. 아둔한 새끼.|Lucio! Are you about done cleaning up the fodder— Hah, figured as much. Idiot.
+472||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 몇십년을 개같이 굴렀는데, 이렇게 엎어버리겠다고?|I'll be damned before I let you ruin this! Not after toiling like a goddamn dog for decades, climbing up the ranks...!
+473||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 개소리 집어쳐! 나는, 보냐텔리 가문의 발렌치나는…! 이딴 곳에 처박혀 있을 사람이 아니야!|Fuck you! I am Valencina della Famiglia Bognatelli...! I refuse to rot in this fucking dump!
+474||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 방해되니까 빠져있어! 루치오… 넌 티켓이 까먹은 걸 전부 가르쳐주기 전까지, 뒈지면 안 돼. 알겠어?|Fall back, Lucio, you're getting in the way! Listen, you don't get to die until you're done teaching Ticket everything she forgot, capisce?
+476||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 받을 수 있으면, 받아봐|Feeling confident today? Then parry this, asshole.
+477||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 내 원망을.|Match my hatred.
+478||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 한눈 팔았으면, 뒈져야지!|Distraction'll bury you six-feet under!
+479||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 침투. 오염.|Intrude. Infest.
+480||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 침투. 오염. 번성.|Intrude. Infest. Thrive.
+481||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 불규칙하고, 무성의한…식사.|Chaotic, oblivious... Consumption.
+482||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 들려온다. 거듭 쌓여버린 창밖의 불결한 울림이.|I hear it. The abominable, skittering echo outside the window.
+483||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 구석구석 헤집고, 기어올라, 비상하라.|Scour every corner, swarm every height, and take flight.
+484||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 증식. 오염. 공포… 추락한 끝에서의 변모.|Proliferate. Infest. Horrify... Down in the depths of our fall... Transform.
+485||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 방해된 것은, 바스라진다.|All that stands in the way... shall be ground to dust.
+486||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 포식. 해방.|Feast. Indulgence.
+487||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 어느날 갑자기. 너희는 악몽에서 깨어나, 죽음이 발밑에 기어다녔음을 깨달을 것이다.|Suddenly, one day... You will awaken from your nightmare, and realize that the crawling death has stalked your steps.
+488||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 위험을 배제한다.|Interdict the threat.
+489||SpeechBubbles#BattleSpeechBubbleDlg-a1c9p3.json] 혐오. 홀대. 멸시. 고립. 그저 익숙한 고요일 뿐이다.|Loathing. Neglect. Contempt. Isolation. Familiar hush, all.

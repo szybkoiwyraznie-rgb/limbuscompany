@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=1580].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1580].name": {
+      "pl": "Salvador",
+      "kr_sha256": "6faed56a45776acc5476912a39268cd8e9c7f4dfe9671b36758d658e44bb012e",
+      "en_sha256": "5ad4a23bc13eaf92e9c035b1d3edbb92582a99f2dbe64525009755f989eedfb2",
+      "origin": "ai"
+    },
+    "dataList[id=1581].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1581].name": {
+      "pl": "Yuna",
+      "kr_sha256": "b14664ea78a4ac51e20788da4070f75fad0da4033cda1b00a95989989b492f3d",
+      "en_sha256": "447bf6983520813442581f5a4911cc96654a254fa9e6e6f7c6387ac119cc8d40",
+      "origin": "ai"
+    },
+    "dataList[id=1582].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1582].name": {
+      "pl": "Philip",
+      "kr_sha256": "4564246268b0396257e309740d7407733bbf7377f8ab496d51e4e3010b123855",
+      "en_sha256": "3cdfbb71d5458beb482b18664285a20b50af6b52ca0f00735b9daaf2fae0d2a7",
+      "origin": "ai"
+    },
+    "dataList[id=1583].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1583].name": {
+      "pl": "Oscar",
+      "kr_sha256": "a5410b046867ea06e580e4653ba25e98dc2c98b76217399be5ea6c67c91ebf3f",
+      "en_sha256": "ca66a852a9e96c40f4cce7972d994914909b646b2564e8d25dd4003656b3dd63",
+      "origin": "ai"
+    },
+    "dataList[id=1584].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1584].name": {
+      "pl": "Pameli",
+      "kr_sha256": "a2b46dbbe935b0947d352d044c643aab3c254db4f7b669c8f4e6ca7fd3117383",
+      "en_sha256": "cfe8c2e40fd8b0c5c2e7f4a580c2f5bd282a1bb448edf8b55069a6816544c5dc",
+      "origin": "ai"
+    },
+    "dataList[id=1585].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1585].name": {
+      "pl": "Pamela",
+      "kr_sha256": "ea33255cae443d9fb3f26d695e1a5a13beedaf585087371041067d092dec04ec",
+      "en_sha256": "8c87e5c7e7216b07c10ec0b49dd15eaba0bb91b8421c30123a8dd19d2b463fac",
+      "origin": "ai"
+    },
+    "dataList[id=1586].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1586].name": {
+      "pl": "Philip",
+      "kr_sha256": "4564246268b0396257e309740d7407733bbf7377f8ab496d51e4e3010b123855",
+      "en_sha256": "3cdfbb71d5458beb482b18664285a20b50af6b52ca0f00735b9daaf2fae0d2a7",
+      "origin": "ai"
+    },
+    "dataList[id=1587].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1587].name": {
+      "pl": "Volatile Effloresced E.G.O::Waxen Pinion",
+      "kr_sha256": "7d985975e7c31b4d943c8b649518a4d56d5e1a819f48b91090a7b9f9184a527f",
+      "en_sha256": "07621a822a3c580019d5fe962566c0d7dd5074ac66dc4bd8093a1a90d2b6bded",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Z ciemności wyłonił się kolejny weteran, z posępną miną.",
+      "kr_sha256": "f78a299efb427150cbaa1928651162fdea5b92a8849b3431e4b10ffef7e3e41c",
+      "en_sha256": "377edee782f353484fc691f48c43f8a22aa1616adef01b9429f1610548f8fe75"
+    },
+    "dataList[id=10].content": {
+      "pl": "My wciąż stoimy w samym jej środku.",
+      "kr_sha256": "b178dcd4b1162a781c89d55499a72115b4e7ba139b0ed21d8ddae35a2306a702",
+      "en_sha256": "400e8f3a33e350908907c5a210ebd1be55d9fa58714227d2f9cc8b12aa36dee8"
+    },
+    "dataList[id=11].content": {
+      "pl": "Wolałbym nie mieć z wami nic wspólnego, ale…",
+      "kr_sha256": "1fa7f9f69557b934fb59a888f5054d8f10ba2ffa5246759f3b6f1bb6d9a6c8cf",
+      "en_sha256": "e6c8b5ff5d6cc1152d13ee9f34c0200b89305c00e5767771caee4b281b66375b"
+    },
+    "dataList[id=12].content": {
+      "pl": "ja też niewiele się różnię.",
+      "kr_sha256": "037cd35696d4210945625366424def67231146b78e752d13db1d415eb0a28874",
+      "en_sha256": "6deed5aadf86f0693dbb9a61b1b85b199593c02ee45cbaad67f1591c0d651350"
+    },
+    "dataList[id=13].content": {
+      "pl": "To powinieneś zrozumieć, kierowniku.",
+      "kr_sha256": "4f3dcbb172f4db774d664161d57498947c2b38a6045a707f4f4983669b3da577",
+      "en_sha256": "63810e4be91ef4c67ac0188338e9e18db7454ae3f75674d1ce3df21ea2c9a7ad"
+    },
+    "dataList[id=14].content": {
+      "pl": "Na polu bitwy wyrok dla zdrajcy jest zawsze ten sam.",
+      "kr_sha256": "1fce30d2f78dc8f257850fe2a58669e2a6e8059caf85739d78015300a9f08a57",
+      "en_sha256": "e2a76f6bcb7f004b8298443c568163a7150811ffff97d41b9400f49b04ff0f32"
+    },
+    "dataList[id=15].content": {
+      "pl": "Ładnie to brzmi… tylko że doraźna egzekucja z zemsty to naruszenie regulaminu firmy, dyrektorku.",
+      "kr_sha256": "b8389faf2c184adfe191b4562a41783efe75207e72f5eafe73180b3baf6c3add",
+      "en_sha256": "6ce93a3cc8f1f4439125a974e24edc95599a848100a966494a30c7c501baad3d"
+    },
+    "dataList[id=1].content": {
+      "pl": "Musiał kiedyś mieć wysoki stopień: odznaka, choć stara, wciąż lśniła.",
+      "kr_sha256": "445c53f9f292bc642a229ca8e347907f90a3624ccc0678f88d88707ba59271da",
+      "en_sha256": "b9aaf9b970ae6fa58ddd45d435b22f41b41177252bd974b47253e37cc75763f5"
+    },
+    "dataList[id=2].content": {
+      "pl": "…Kierownik działu Gregor?",
+      "kr_sha256": "e6aae3fd629854568e1ccb1e87da97ddc778574f8ff974e44e0e97712c51bb2d",
+      "en_sha256": "6db7c9de3f2d58ccf8755ea6546e0e50de20d4f1ec7584965ee1174892f1fb7c"
+    },
+    "dataList[id=3].content": {
+      "pl": "Chyba znam twoją twarz. Skąd ja cię kojarzę?",
+      "kr_sha256": "0ec0e7e914907041bd9956c4a22dcbdfaa98d465a293c79f89150a8034d7055f",
+      "en_sha256": "34a9aa1fddf506642d7912d4b9de88edb9a7cad1788b6a6280bfb32c61e2e156"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Byłem twoim dyrektorem.",
+      "kr_sha256": "c05a193669fc63fb410584e5c3528055a6beeeadd8745bfe3fd6ac9dbad99c02",
+      "en_sha256": "dd7f3c5cb767e043a368f7106a48901eb02bbdb629b931210b5e0a45b5f3c306"
+    },
+    "dataList[id=5].content": {
+      "pl": "Mało ci było, że sam uciekłeś, to teraz jeszcze zabiłeś dawnych towarzyszy broni, moich ludzi.",
+      "kr_sha256": "87b21a4507d74362757f05ade545d8e20b33933ace4d4408cb0745a52b5060fd",
+      "en_sha256": "3f939e2ba1ca37d5ac0585b929943b625d8b92332de0d8e2b517602c3dcff3c6"
+    },
+    "dataList[id=6].content": {
+      "pl": "Słuchaj, wojna skończyła się dziesięć lat temu. Dalej nie możecie przestać bawić się w żołnierzyków?",
+      "kr_sha256": "bef6e3562099b6503fb832e6da54bf65f74349078f12916380f150389ff8f373",
+      "en_sha256": "7ed3ad77cf1756d7ce5218736a42d0563ecfd0ed0b2b26e2071a410fcff82c17"
+    },
+    "dataList[id=7].content": {
+      "pl": "Skończyła? Nic się nie skończyło.",
+      "kr_sha256": "e56603d2c0f45bb63008295efe9f8765d8019d5641dea8a0cca297fd06c88ba3",
+      "en_sha256": "5f61aee55edb09850e03320ddf146edf7a71447c0ed64d483226d99ab638cc54"
+    },
+    "dataList[id=8].content": {
+      "pl": "Nic… się… nie skończyło…",
+      "kr_sha256": "0ec0eb2a3c2770b810b58be486f7916268c2282ed0f26b18311b3c6f5d11728c",
+      "en_sha256": "a425f812cdb0d4297f14739d4bfac3a4c7efad246b6ae5d051ad0d675f89b347"
+    },
+    "dataList[id=9].content": {
+      "pl": "Twoja wojna może i skończyła się, kiedy uciekłeś z G Corp.",
+      "kr_sha256": "2d79c23e2fb52d6daaed47daff9d942761ff70dd1e3df3bc15e9c33b1eed9a8a",
+      "en_sha256": "4b558567db9544f0a49320017ccff07560d9b1356cff4d64b025ca23a97d320e"
+    }
+  }
+}

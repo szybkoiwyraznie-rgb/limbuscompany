@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=106].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Szaleństwo x 1690\n· Bilet Dekaekstrakcji x 2\n· Bilet Treningu Tożsamości IV x 30",
+      "kr_sha256": "ef30095898d882044d7398bd73135ca42a2972cb3498c33d3cf7e5e6b2b5d186",
+      "en_sha256": "7a1d5ac4fff7bb4607f312ef549ceb678e6fce188f812e4decf8b1cb3543f691",
+      "origin": "ai"
+    },
+    "dataList[id=106].name": {
+      "pl": "Miesięczny Pakiet Wsparcia Rozwoju I",
+      "kr_sha256": "df51dc7c3ba221a7eb8c82651d329ae4a6f8cc6d8f42b2e4654e34b02e8e292c",
+      "en_sha256": "c26bc340ccbf8c8774289c528368e83257d6b056b5072bc3567afff15d591dc0",
+      "origin": "ai"
+    },
+    "dataList[id=601].desc": {
+      "pl": "Oferta sezonowa — zawiera następujące składniki:\n\n· Szaleństwo x 1300\n\n※ Całe Szaleństwo z tego pakietu to Płatne Szaleństwo.",
+      "kr_sha256": "5b3ee8ac3117cb105ee5b1989b7057c74cfce537b00dc2d31ee87e05c3e25eb1",
+      "en_sha256": "6a0709309dd2e5c052826ceb9abfcd40b502853973b0b3da0d6ef68ce47180cb",
+      "origin": "ai"
+    },
+    "dataList[id=601].name": {
+      "pl": "Pakiet Szaleństwa Startowego Sezonu 5",
+      "kr_sha256": "5b9c5746ad3c41048df774ed2237788e36e28d8f5eacefbd7d0cf4a81ff88c16",
+      "en_sha256": "735d3373208732b3b9c76bed48fa18d3bada47d0c2eb80fc8542ccd74b15409f",
+      "origin": "ai"
+    },
+    "dataList[id=602].desc": {
+      "pl": "Dostępny do zakupu w okresie Sezonu 5: Oblivion — zawiera następujące składniki:\n\n· Szaleństwo x 5040\n· Bilet Dekaekstrakcji x 3\n· Bilet Treningu Tożsamości IV x 60\n· Nić x 80\n· Imienna Skrzynka Odłamków E.G.O Sezonu 5 x 40",
+      "kr_sha256": "8fc5c199952813f51fe59587906622f1ee2a9911d200a51916206ac1cee59d2f",
+      "en_sha256": "ce03165614f9e0d759118d809d0a73ee3a4d9254b6b70a16f037ef81252b1572",
+      "origin": "ai"
+    },
+    "dataList[id=602].name": {
+      "pl": "Zestaw Startowy Sezonu 5",
+      "kr_sha256": "c3d7d9bf3e09088afb6d1369db5196dd1b7843a855c384fdfc585c033ee6fe12",
+      "en_sha256": "d6a3cc8e8efa49c8f67b1b266853806214a124920ac803d5e560499f4522af9b",
+      "origin": "ai"
+    }
+  }
+}

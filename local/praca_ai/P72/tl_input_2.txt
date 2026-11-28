@@ -1,0 +1,131 @@
+191||(ulepszenie 1) — nazwa] 살점 파헤치기|Flesh Digging
+193||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Burst] Count
+196||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Burst] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Burst] Count
+202||(ulepszenie 1) — nazwa] 상처 할퀴기|Wound Clawing
+208||(ulepszenie 1) — nazwa] 살점 뜯기|Flesh Tearing
+209||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4 당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)
+211||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+212||(ulepszenie 1) — nazwa] 고독 속 몸부림|Writhing in Loneliness
+213||(ulepszenie 1) — opis] [WhenUse] 잃어버린 체력 10%당, 기본 위력 +1 (최대 5)\n[WhenUse] 대상의 [Burst] 4 당, 코인 위력 +1 (최대 3)\n\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)가 10 이상이면, 대상의 [Burst] 횟수만큼 [Burst] 횟수 증가|[WhenUse] Base Power +1 for every 10% missing HP on self (max 5)\n[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 3)\n\n[WhenUse] If target has 10+ ([Burst] + [Burst] Count), inflict [Burst] Count equal to [Burst] Count on target
+216||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 1 부여|[OnSucceedAttack] Inflict 1 [Laceration]
+224||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] ([Burst] + [Burst] 횟수)가 15 이상이면, ([Burst] 위력 × [Burst] 횟수) 만큼의 탐식 피해를 입힘. (최대 40)|[OnSucceedAttack] At 15+ ([Burst] + [Burst] Count), inflict ([Burst] Potency x [Burst] Count) Gluttony damage. (max 40)
+225||(ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] [Laceration] 횟수 5 증가|[OnSucceedAttack] Inflict +5 [Laceration] Count
+227||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 1 부여|[OnSucceedAttack] Inflict 1 [Burst]
+229||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 [Burst]이 5 이상이면, 이 코인 재사용 (최대 2회)|[OnSucceedAttack] If target has 5+ [Burst], reuse this Skill (2 times max)
+231||(ulepszenie 1) — opis] [EndSkill] 다음 턴에 아래의 효과중 3개를 무작위로 부여. 30의 피해를 주고 사망함\n- [AttackDown] 4\n- [DefenseDown] 4\n- [Paralysis] 2\n- [Binding] 2|[EndSkill] Randomly inflict 3 of the following effects next turn. Dies after dealing 30 damage\n- 4 [AttackDown]\n- 4 [DefenseDown]\n- 2 [Paralysis]\n- 2 [Binding]
+233||(ulepszenie 1) — nazwa] 베기|Slash
+235||(ulepszenie 1) — nazwa] 몰아붙이기|Pressuring
+236||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 합 위력 +1|[WhenUse] If target has 5+ [Laceration], Clash Power +1
+239||(ulepszenie 1) — nazwa] 파상처단|Ruptured Image Execution
+240||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 5 당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)
+243||(ulepszenie 1) — moneta 3, efekt 1 — opis] 대상의 ([Laceration] + [Laceration] 횟수)당 피해량 +1% (최대 20%)|Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 20%)
+245||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +1|[WhenUse] If target has 6+ [Laceration], Base Power +1
+246||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+247||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 3 부여|[OnSucceedAttack] Inflict 3 [DefenseDown] next turn
+248||(ulepszenie 1) — nazwa] 쓸어내기|Sweep Away
+250||(ulepszenie 1) — nazwa] 밀어붙이기|Cornering
+254||(ulepszenie 1) — nazwa] 파상처리|Execution of the Ruptured Image
+262||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown] 3 부여|[OnSucceedAttack] Inflict 3 [AttackDown] next turn
+263||(ulepszenie 1) — nazwa] 받아베기|Parrying Slash
+264||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 8 이상이면, 합 위력 +1|[WhenUse] If target has 8+ [Laceration], Clash Power +1
+266||(ulepszenie 1) — nazwa] 몰아베기|Pressuring Slash
+270||(ulepszenie 1) — nazwa] 파도베기|Waveslash
+275||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+276||(ulepszenie 1) — nazwa] 마출겁세|Becalming of a Bewildered Steed
+277||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 5 당, 코인 위력 +1 (최대 3)|[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 3)
+278||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count
+280||(ulepszenie 1) — moneta 2, efekt 2 — opis] 대상의 ([Laceration] + [Laceration] 횟수)당 피해량 +2% (최대 50%)|Deal +2% damage for every ([Laceration] + [Laceration] Count) on the target (max 50%)
+284||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+285||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown], [DefenseDown] 3 부여|[OnSucceedAttack] Inflict 3 [AttackDown] and [DefenseDown] next turn
+286||(ulepszenie 1) — nazwa] 전선참|Frontal Swirl
+287||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 기본 위력 +1\n[WhenUse] [SipOfAlcohol] 1 얻음|[WhenUse] If target has 5+ [Laceration], Base Power +1\n[WhenUse] Gain 1 [SipOfAlcohol]
+289||(ulepszenie 1) — nazwa] 인도주|Way of the Open-throat Chugging
+290||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 5 당, 기본 위력 +1 (최대 2)\n[WhenUse] [SipOfAlcohol] 1 얻음|[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 2)\n[WhenUse] Gain 1 [SipOfAlcohol]
+293||(ulepszenie 1) — nazwa] 낙주|Waterfall
+294||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n\n[DefeatDuel] [SipOfAlcohol] 3 소모|[WhenUse] If target has 5+ [Laceration], Coin Power +1\n\n[DefeatDuel] Lose 3 [SipOfAlcohol]
+298||(ulepszenie 1) — moneta 3, efekt 2 — opis] [WinDuelAttack] [Laceration] 횟수 3 증가|[WinDuelAttack] Inflict +3 [Laceration] Count
+299||(ulepszenie 1) — nazwa] 취|Drunklaim
+300||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 5 당, 코인 위력 +1 (최대 2)\n[WhenUse] [SipOfAlcohol]이 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨|[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)\n[WhenUse] At 3+ [SipOfAlcohol], convert all Coins on this Skill to [SuperCoin]s
+304||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 자신의 [SipOfAlcohol]이 3 이상이면, 이 코인 1회 재사용 (스킬당 1회)|[OnSucceedAttack] If this unit has 3+ [SipOfAlcohol], reuse this Skill once (once per Skill)
+305||(ulepszenie 1) — nazwa] 취회공|Drunken Returning Strike
+306||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 기본 위력 +1|[WhenUse] If target has 5+ [Laceration], Base Power +1
+308||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 4 부여|[OnSucceedAttack] Inflict 4 [Paralysis] next turn
+309||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown], [DefenseDown] 5 부여|[OnSucceedAttack] Inflict 5 [AttackDown] and [DefenseDown] next turn
+310||(ulepszenie 1) — nazwa] 진진종참|True Decapitation Deathblow
+311||(ulepszenie 1) — opis] [StartBattle] 이 스킬이 종료되기 전까지 체력이 1 이하가 되지 않음.\n[WhenUse] [AttackUp] 10 얻음\n[WhenUse] [Enhancement] 5 얻음\n[WhenUse] [AttackDmgUp] 10 얻음|[StartBattle] HP does not drop below 1 before this Skill ends.\n[WhenUse] Gain 10 [AttackUp]\n[WhenUse] Gain 5 [Enhancement]\n[WhenUse] Gain 10 [AttackDmgUp]
+312||(ulepszenie 1) — moneta 1, efekt 1 — opis] 대상의 ([Laceration] + [Laceration] 횟수)당 피해량 +1% (최대 100%)|Deal +1% damage for every ([Laceration] + [Laceration] Count) on the target (max 100%)
+313||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [SipOfAlcohol] 5 얻음|[OnSucceedAttack] Gain 5 [SipOfAlcohol]
+314||(ulepszenie 1) — nazwa] 취고|Intoxicated Leaning
+315||(ulepszenie 1) — opis] [WhenUse] 자신의 [SipOfAlcohol]당 보호막 5 얻음 (최대 25)\n[WhenUse] 자신을 타겟팅하고 있는 스킬 수만큼 [SipOfAlcohol]을 얻음 (최대 5)|[WhenUse] Gain 5 Shield for every [SipOfAlcohol] on self (max 25)\n[WhenUse] Gain [SipOfAlcohol] equal to the number of Skills targeting this unit (max 5)
+316||Pasywka wroga [9020301] — nazwa] 수월한 임무|Easy Money
+317||Pasywka wroga [9020301] — opis] 턴 종료 시, 이번 턴에 공격이 적중했다면 다음 턴에 [Enhancement] 1 을 얻음\n대상이 홍루라면, 다음 턴에 [ParryingResultUp] 1, [AttackDmgUp] 1을 추가로 얻음|Turn End: If this unit hit a target this turn, gain 1 [Enhancement] next turn\nIf the target is Hong Lu, gain 1 [ParryingResultUp] and 1 [AttackDmgUp] next turn as well
+318||Pasywka wroga [9020302] — nazwa] 이게 아닌데|oh no
+319||Pasywka wroga [9020302] — opis] 합 패배 시, 정신력 5 감소\n흐트러짐 시, 다음 턴에 [Vulnerable] 2를 얻음 (턴 당 1회)|Lose 5 SP on Clash Lose\nWhen Staggered, gain 2 [Vulnerable] next turn (once per turn)
+320||Pasywka wroga [9020101] — nazwa] 훈련용 인형|Training Dummy
+321||Pasywka wroga [9020101] — opis] 받은 피해가 최소 10 이상이어야 피해를 받음\n그 이하의 피해는 0으로 받음|Can be damaged only with damages equal to or higher than 10\nAll damage under 10 is nullified
+322||Pasywka wroga [9020102] — nazwa] 성장하는 훈련용 인형|Upgradable Training Dummy
+323||Pasywka wroga [9020102] — opis] 턴 종료 시 스킬 적중을 성공하지 못했으면, 성공하지 못한 턴 수만큼 다음 턴에 [ParryingResultUp] 얻음\n적에게 스킬 적중 시 누적된 값이 초기화됨|Turn End: if this unit failed to hit with a Skill, gain [ParryingResultUp] next turn equal to the number of turns this unit failed to hit\nIf this unit hits an enemy with a Skill, reset the above stack
+324||Pasywka wroga [9020103] — nazwa] 기본기 다지기|Remember the Basics
+325||Pasywka wroga [9020103] — opis] 턴 종료 시, 공격 스킬 4개 이상에 피격 당했으면, 자신을 공격한 모든 적에게 피격당한 턴 수만큼 다음 턴에 [AttackDmgUp] 1 부여\n공격 스킬 3개 이하에 피격 당했다면, 누적된 값이 초기화됨|Turn End: if this unit was hit by 4 or more Attack Skills, to all enemies that attacked this unit, apply 1 [AttackDmgUp] next turn for every turn this unit was hit\nIf this unit was hit by 3 or fewer Attack Skills, reset the above stack
+326||Pasywka wroga [9019501] — nazwa] 엇나간 저주|Off-mark Curse
+327||Pasywka wroga [9019501] — opis] 흐트러짐 상태가 되었을 때, 마지막으로 공격한 대상의 [Burst] 위력과 [Burst] 횟수가 절반으로 감소함|When this unit is Staggered, halve the [Burst] Potency and [Burst] Count on the target this unit hit last
+328||Pasywka wroga [9019502] — nazwa] 단지에 깃든 저주|Jar-haunting Curse
+329||Pasywka wroga [9019502] — opis] 턴 종료 시, 이번 턴에 스킬 적중했다면 다음 턴에 [Enhancement] 1 얻음\n자신이 스스로 사망할 경우, 다음 턴에 모든 아군에게 [Enhancement] 1 부여|Turn End: If this unit hit a target this turn, gain 1 [Enhancement] next turn\nIf this unit kills itself, apply 1 [Enhancement] to all allies
+331||Pasywka wroga [9019601] — opis] 스킬 적중 시, 대상의 남은 [Burst] 횟수가 1이라면, [Burst] 횟수 1 증가 (턴 당 2회)\n공격 적중 시, 대상의 남은 [Burst]이 1이라면, [Burst] 2 부여 (턴 당 2회)\n자신이 스스로 사망할 경우, 모든 적에게 [Burst] 2 부여, [Burst] 횟수 1 증가|On Skill hit: if target has 1 remaining [Burst] Count, inflict +1 [Burst] Count (2 times per turn)\nOn Hit: if target has 1 remaining [Burst], inflict 2 [Burst] (2 times per turn)\nIf this unit kills itself, inflict 2 [Burst] and +1 [Burst] Count on all enemies
+333||Pasywka wroga [9019701] — opis] 스킬 적중 시, [Burst]이 4 이상인 대상이라면, 다음 턴에 [DefenseDown] 1 부여 (턴 당 3회)\n자신이 스스로 사망할 경우, 다음 턴에 모든 적에게 [DefenseDown] 3 부여|On Skill hit: if target has 4+ [Burst], inflict 1 [DefenseDown] next turn (3 times per turn)\nIf this unit kills itself, inflict 3 [DefenseDown] on all enemies
+335||Pasywka wroga [9102201] — opis] 흐트러짐 상태가 되었을 때, 마지막으로 공격한 대상의 [Burst] 위력과 [Burst] 횟수가 전부 감소|When this unit is Staggered, eliminate the [Burst] Potency and [Burst] Count on the target this unit hit last
+336||Pasywka wroga [9102202] — nazwa] 주귀 단지|Cursed Spirit Jar
+337||Pasywka wroga [9102202] — opis] 적중시 대상의 ([Burst] 위력 + [Burst] 횟수)가 5 이상이면, [DefenseDown] 1 부여 (턴 당 최대 5)|On Hit, if the target has 5+ ([Burst] Potency + [Burst] Count), inflict 1 [DefenseDown] (5 times per turn)
+339||Pasywka wroga [9102203] — opis] 턴 종료 시, 등장하고 진행된 턴 수에 따라 모든 적에게 [Poison]을 부여함 (최대 5)\n자신이 스스로 사망할 경우, 다음 턴에 모든 적에게 (진행된 턴 x 5)만큼 [Poison]을 부여함 (최대 25), [Burst] 횟수 2 증가|Turn End: against all enemies, inflict [Poison] equal to the number of turns that passed since this unit joined the battle (max 5)\nIf this unit kills itself, apply (# of turns x 5) [Poison] and inflict +2 [Burst] Count on all enemies next turn (max 25)
+340||Pasywka wroga [9019801] — nazwa] 그간의 피해|Damage Taken
+341||Pasywka wroga [9019801] — opis] 전투 중 피격당했을 때, 해당 턴동안 가하는 피해량 +10%\n전투 중 피격당했을 때, 합 승리시, 가하는 피해량 +20%|When hit during the combat phase: +10% damage for the turn\nWhen hit during the combat phase: on Clash Win, +20% damage
+342||Pasywka wroga [9019802] — nazwa] 목표 - 가보옥|Target - Jia Baoyu
+343||Pasywka wroga [9019802] — opis] 홍루를 우선 공격함|Prioritizes Hong Lu
+344||Pasywka wroga [9019803] — nazwa] 또렷해지는 목표|Focusing on Target
+345||Pasywka wroga [9019803] — opis] 자신의 체력이 70% 이상일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면 다음 턴에 [Reduction] 1 얻음\n자신의 체력이 70% 미만일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴동안 부여하는 [Laceration], [Laceration] 횟수 +1|At 70%+ HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 1 [Reduction] next turn\nAt less than 70% HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, inflict +1 more [Laceration] and [Laceration] Count next turn
+346||Pasywka wroga [9020001] — nazwa] 임무 수행|Mission Progress
+347||Pasywka wroga [9020001] — opis] 자신의 잃은 체력 1%당 가하는 피해량 +0.5% (최대 50%)|Deal +0.5% damage for every 1% missing HP on self (max 50%)
+348||Pasywka wroga [9020002] — nazwa] 뚜렷해지는 목표|Honing in on Target
+349||Pasywka wroga [9020002] — opis] 자신의 체력이 70% 이상일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면 다음 턴에 [Reduction] 1 얻음\n자신의 체력이 70% 미만일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴에 [Enhancement] 1 얻음\n- 다음 턴동안 부여하는 [Laceration], [Laceration] 횟수 +1|At 70%+ HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 1 [Reduction] next turn\nAt less than 70% HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 1 [Enhancement] next turn\n- inflict +1 more [Laceration] and [Laceration] Count next turn
+351||Pasywka wroga [9102101] — opis] 전투 중 피격당했을 때, 해당 턴동안 가하는 피해량 +20%\n전투 중 합 패배시 해당 스킬로부터 받는 피해량 +15%|When hit during the combat phase: +20% damage for the turn\nDuring the combat phase: On Clash Lose, take +15% damage from the Skill
+352||Pasywka wroga [9102102] — nazwa] 만취 수행|Plastered Training
+353||Pasywka wroga [9102102] — opis] 자신의 잃은 체력 1%당 가하는 피해량 +2% (최대 100%)|Deal +2% damage for every 1% missing HP on self (max 100%)
+354||Pasywka wroga [9102103] — nazwa] 이런 이런… 딸꾹 이러면 안되겠지|Well, well... Hic. This won't do
+355||Pasywka wroga [9102103] — opis] 자신의 체력이 50% 남았을 때, 흐트러짐 상태를 해제하고 이번 턴을 종료함.\n다음 턴에 속도가 10으로 고정됨|At 50% HP, recover from Stagger and end this turn.\nFix this unit's Speed to 10 next turn
+356||Pasywka wroga [9102104] — nazwa] 확고해진 목표|Clear Target
+357||Pasywka wroga [9102104] — opis] 자신의 체력이 70% 이상일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴에 [AttackDown] 3 얻음\n자신의 체력이 70% 미만일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴에 [AttackUp] 6 얻음|At 70%+ HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 3 [AttackDown] next turn\nAt less than 70% HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 6 [AttackUp] next turn
+358||Wróg / część [90205] — nazwa] 내리박힌 실패작|Impaled Failure
+360||Wróg / część [90206] — nazwa] 피어난 실패작|Blooming Failure
+362||Wróg / część [90207] — nazwa] 얽힌 실패작|Entangled Failure
+364||Wróg / część [90208] — nazwa] 사특한 주살승|Wicked Deathrite Monk
+366||Wróg / część [90209] — nazwa] 귀기 어린 주살승|Evil-possessed Deathrite Monk
+368||Wróg / część [1137] — nazwa] 가치우|Jia Qiu
+369||Wróg / część [1133] — nazwa] 자로|Zilu
+371||Wróg / część [1157] — nazwa] 설반|Xue Pan
+372||Wróg / część [1158] — nazwa] 사이화|Shi Yihua
+373||Wróg / część [90210] — nazwa] 날렵한 사씨 가문 사병|Swift Shi Family Mercenary
+374||Wróg / część [90211] — nazwa] 능숙한 사씨 가문 사병|Veteran Shi Family Mercenary
+375||Wróg / część [90212] — nazwa] 묵직한 사씨 가문 사병|Heavy Shi Family Mercenary
+376||Wróg / część [1159] — nazwa] 왕청산|Wang Qingshan
+377||Wróg / część [115901] — nazwa] 몸통|Body
+378||Wróg / część [1167] — nazwa] 사화?|Shi Hua... something?
+379||Wróg / część [1160] — nazwa] 사사정|Shi Sijing
+380||Wróg / część [1179] — nazwa] 사화정|Shi Huazhen
+381||(ulepszenie 1) — nazwa] 초격|Startling Strike
+382||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 3 이상이면, 합 위력 +1|[WhenUse] If target has 3+ [Burst], Clash Power +1
+384||(ulepszenie 1) — nazwa] 억제|Restraint
+389||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 자신의 (속도 / 3)만큼 이 코인을 재사용함 (최대 2번)|[UnBrokenCoinOnSucceedAttack] Reuse this Coin (this unit's Speed / 3) times (max 2)
+390||(ulepszenie 1) — nazwa] 쾌격|Feather Strike
+391||(ulepszenie 1) — opis] 자신의 속도가 메인 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 3)\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 횟수 3 증가|If this unit's Speed is faster than the main target's gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +3 [Burst] Count
+394||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [BurstAgility] 부여|[OnSucceedAttack] Inflict [BurstAgility]
+396||(ulepszenie 1) — moneta 3, efekt 2 — opis] 대상에게 [BurstAgility]이 있으면, 피해량 +50%|If target has [BurstAgility], deal +50% damage
+397||(ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [LegStrength] 3 얻음|[UnBrokenCoinOnSucceedAttack] Gain 3 [LegStrength]
+398||(ulepszenie 1) — moneta 3, efekt 4 — opis] [WinDuelAttack] 이 코인 1회 재사용 (스킬당 1회)|[WinDuelAttack] Reuse this Coin once (once per Skill)
+399||(ulepszenie 1) — nazwa] 준비 동작|Windup
+400||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Agility]을 3 얻음|[WhenUse] Gain 3 [Agility] next turn
+401||(ulepszenie 1) — nazwa] 추격|Pursuit
+404||(ulepszenie 1) — nazwa] 압도|Overwhelm
+410||(ulepszenie 1) — nazwa] 암격|Umbra Strike
+421||(ulepszenie 1) — nazwa] 문(問)|Question (問)
+422||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1|[WhenUse] If target has 5+ [Burst], Coin Power +1
+424||(ulepszenie 1) — nazwa] 답(答)|Answer (答)

@@ -13,7 +13,7 @@ import tempfile
 import unittest
 import zipfile
 
-from tools import build_package, build_profiles, build_reading, story_index
+from tools import build_package, build_profiles, build_reading, package_views, story_index
 from tools.lcb_text import Texts, to_markdown
 from tools.localize import Snapshot
 from tools.static_data import StaticData
@@ -28,8 +28,10 @@ def _write(path: Path, doc: object, bom: bool = False, raw: str | None = None) -
 def _scene(lang: str, stem: str, place: bool = False) -> dict:
     rows = [{"id": -1, "content": f"Episode {stem}"},
             {"id": 0, "model": "모델", "content": f"<i>Line</i> {lang} {stem} one"},
-            {"id": 1, "content": f"Narration {lang} {stem}"},
-            {"id": 2, "teller": f"Teller {lang}", "title": f"Epithet {lang}", "content": f"<Tick {lang}>"}]
+            {"id": 1, "content": f"Narration {lang} {stem} ■■■"},
+            {"id": 2, "teller": f"Teller {lang}", "title": f"Epithet {lang}", "content": f"<Tick {lang}>"},
+            {"id": 3, "teller": "Me", "title": "■■■", "content": "<Ghaagh…! ■■■■■■>"},
+            {"id": 4, "teller": "Dante", "title": "Me", "content": "<Second tick>"}]
     if place:
         rows[1]["place"] = f"Place {lang}"
     return {"dataList": rows}
@@ -142,10 +144,22 @@ class StoryToolsTests(unittest.TestCase):
         self.assertIn("### Etap 1-1 · Stage en", text)
         self.assertIn("*Miejsce: Stage place en*", text)
         self.assertIn("#### Place en", text)
-        self.assertIn("**Model en:** *Line* en S101B one", text)
-        self.assertIn("**Teller en** (*Epithet en*): \\<Tick en>", text)
+        self.assertIn(
+            "**Model en:** *Line* en S101B one\n"
+            "Narration en S101B ***\n"
+            "**Teller en** (*Epithet en*): Tick en\n"
+            "**Ja** (***): Ghaagh…! ***\n"
+            "**Dante** (*Ja*): Second tick\n"
+            "\n"
+            "*— W trakcie walki —*",
+            text,
+        )
+        self.assertNotIn("<!--", text)
+        self.assertNotIn("■", text)
+        self.assertNotIn("**Me", text)
+        self.assertNotIn("(*Me*)", text)
+        self.assertNotIn("\\<", text)
         self.assertIn("*— W trakcie walki —*", text)
-        self.assertIn("<!-- S101I -->", text)
         self.assertEqual(stats["sceny"], 5)
 
     def test_profile(self) -> None:
@@ -190,17 +204,111 @@ class StoryToolsTests(unittest.TestCase):
         digests = []
         for _ in range(2):
             with contextlib.redirect_stdout(io.StringIO()):
-                build_package.main([str(self.snap), "--index", str(index_path), "--out", str(out)])
+                build_package.main([
+                    str(self.snap),
+                    "--index", str(index_path),
+                    "--static-data", str(self.sd),
+                    "--out", str(out),
+                ])
             data = (out / "plik_dla_tlumacza_v1.zip").read_bytes()
             digests.append(data)
         self.assertEqual(digests[0], digests[1])
         with zipfile.ZipFile(out / "plik_dla_tlumacza_v1.zip") as archive:
+            self.assertEqual(sorted(archive.namelist()), ["README.md", "sceny.zip", "widoki.zip"])
+
+        out_story = Path(self.tmp.name) / "out_story"
+        with contextlib.redirect_stdout(io.StringIO()):
+            build_package.main([str(self.snap), "--index", str(index_path), "--no-views", "--out", str(out_story)])
+        with zipfile.ZipFile(out_story / "plik_dla_tlumacza_v1.zip") as archive:
             self.assertEqual(sorted(archive.namelist()), ["README.md", "sceny.zip"])
+
+    def test_views_context_uptie_dedup_lyrics_and_en_only_coverage(self) -> None:
+        # Add Uptie 1-3 skill progression, BgmLyrics (DKR vs DEN), RPGSystem speakers, and an EN-only file
+        _write(self.snap / "kr" / "KR_Skills_personality-01.json", {"dataList": [{"id": 1000101, "levelList": [
+            {"level": 1, "name": "Cut kr", "desc": "[WhenUse] Inflict 1 [Burn]",
+             "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Gain 1 [Burn]"}]}]},
+            {"level": 2, "name": "Cut kr", "desc": "[WhenUse] Inflict 1 [Burn]",
+             "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Gain 1 [Burn]"}]}]},
+            {"level": 3, "name": "Cut kr", "desc": "[WhenUse] Inflict 2 [Burn]",
+             "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Gain 2 [Burn]"}]}]},
+        ]}]})
+        _write(self.snap / "en" / "EN_Skills_personality-01.json", {"dataList": [{"id": 1000101, "levelList": [
+            {"level": 1, "name": "Cut en", "desc": "[WhenUse] Inflict 1 [Burn]",
+             "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Gain 1 [Burn]"}]}]},
+            {"level": 2, "name": "Cut en", "desc": "[WhenUse] Inflict 1 [Burn]",
+             "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Gain 1 [Burn]"}]}]},
+            {"level": 3, "name": "Cut en", "desc": "[WhenUse] Inflict 2 [Burn]",
+             "coinlist": [{}, {"coindescs": [{"desc": "[OnSucceedAttack] Gain 2 [Burn]"}]}]},
+        ]}]})
+        _write(self.snap / "kr" / "BgmLyrics" / "KR_BgmLyrics_Test.json", {"dataList": [
+            {"id": 0, "content": "<style=\"DKR_CP9_1\">노래 가사"},
+        ]})
+        _write(self.snap / "en" / "BgmLyrics" / "EN_BgmLyrics_Test.json", {"dataList": [
+            {"id": 0, "content": "<style=\"DEN_CP9_1\">Song lyric"},
+        ]})
+        _write(self.snap / "kr" / "RPGSystem" / "KR_rpg-loc-dialogue-floor-1-a.json", {"dataList": [
+            {"key": "D1", "texts": [
+                {"index": 0, "speaker": "단테", "text": "<첫 번째 대사>"},
+                {"index": 1, "speaker": "단테", "text": "<두 번째 대사>"},
+            ]},
+        ]})
+        _write(self.snap / "en" / "RPGSystem" / "EN_rpg-loc-dialogue-floor-1-a.json", {"dataList": [
+            {"key": "D1", "texts": [
+                {"index": 0, "speaker": "Dante", "text": "<First line>"},
+                {"index": 1, "speaker": "Dante", "text": "<Second line>"},
+            ]},
+        ]})
+        _write(self.snap / "en" / "EN_UserBanner-a1c8p1.json", {"dataList": [
+            {"id": 99, "name": "English Only Banner", "desc": "Obtained in test"},
+        ]})
+
+        with Snapshot.open(self.snap) as snapshot:
+            files, stats = package_views.build_views(snapshot, self.static)
+
+        self.assertIn("spis-widokow.md", files)
+        self.assertIn("mowcy-rpg-i-anomalii.md", files)
+        self.assertNotIn("09_pozostale_widoki.md", files)
+        self.assertGreater(stats["widoki_liscie_json"], 0)
+
+        sinner_md = files["02_tozsamosc_01_Yi_Sang.md"]
+        self.assertIn("## [00] Synthetic Office en — Hero en", sinner_md)
+        self.assertIn("parametry karty: rzadkość `00`", sinner_md)
+        self.assertIn("Umiejętność 1 (×3) (ulepszenia 1–3) — nazwa] Cut kr", sinner_md)
+        self.assertIn(
+            "źródło: Skills_personality-01.json :: dataList[id=1000101].levelList[level=1].desc ; dataList[id=1000101].levelList[level=2].desc",
+            sinner_md,
+        )
+        self.assertIn("znaczenie tagów: [WhenUse] = [On Use] / [On Use]; [Burn] = Burn / Burn", sinner_md)
+        self.assertIn("Pasywka bojowa (od ulepszenia 2, rezonans 3× Wrath)", sinner_md)
+        self.assertIn("Kwestia głosowa [get] (Acquisition)", sinner_md)
+
+        lyrics_md = files["05_muzyka_i_piosenki.md"]
+        self.assertIn('tokeny: zachowaj dokładnie: <style="DEN_CP9_1">', lyrics_md)
+        self.assertIn("czcionka: użyj stylu łacińskiego z EN", lyrics_md)
+
+        rpg_md = files["06_tryb_rpg_canto10.md"]
+        self.assertIn("[Dialog RPG [D1] — 단테 (Dante)] <첫 번째 대사>", rpg_md)
+        self.assertIn("[Mówca w trybie RPG (Canto X)] 단테", files["mowcy-rpg-i-anomalii.md"])
+        self.assertIn("występuje: 2×", files["mowcy-rpg-i-anomalii.md"])
+
+        shop_md = files["08_przedmioty_sklep_i_profil.md"]
+        self.assertIn("tylko EN w danych gry] English Only Banner", shop_md)
+
+    def test_views_coverage_gate_verifies_all_translatable_leaves(self) -> None:
+        with Snapshot.open(self.snap) as snapshot:
+            corpus = package_views.Corpus(snapshot, self.static)
+            total = sum(len(v) for v in corpus.translatable.values())
+            self.assertGreater(total, 0)
+            _, stats = package_views.build_views(snapshot, self.static)
+            self.assertEqual(stats["widoki_liscie_json"], total)
 
     def test_markup(self) -> None:
         self.assertEqual(to_markdown("<ruby=cannon>pao</ruby> <color=#fff>x</color> <b>y</b>"), "pao (cannon) x **y**")
-        self.assertEqual(to_markdown("[Burn]", {"Burn": "Burn"}), "[Burn]")
+        self.assertEqual(to_markdown("[Burn][TabExplain]", {"Burn": "Burn", "TabExplain": ""}), "[Burn]")
         self.assertEqual(to_markdown("<Hey>"), "\\<Hey>")
+        self.assertEqual(to_markdown("<Ghaagh…!>", strip_ticking=True), "Ghaagh…!")
+        self.assertEqual(to_markdown("<i><Are these photos?></i>", strip_ticking=True), "*Are these photos?*")
+        self.assertEqual(to_markdown("engraving the ■■■■■■ and ■■■"), "engraving the *** and ***")
 
 
 if __name__ == "__main__":

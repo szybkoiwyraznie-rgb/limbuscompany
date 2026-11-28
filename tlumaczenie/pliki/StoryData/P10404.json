@@ -1,0 +1,189 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "O, pobudka.",
+      "kr_sha256": "f4a5d044260b10ceea4f1f36d52ab06869738d1cd6b31a621e0ae4681b7a9104",
+      "en_sha256": "629b9ebe5b5ca35b60e95c49e840daf8bed53bb0710c1ccb4a9287c679566f81"
+    },
+    "dataList[id=10].content": {
+      "pl": "Ofiara nie mogła wiedzieć, że chodzi o połamanie kończyn…",
+      "kr_sha256": "287a5eb9fbd064e9eb9bda51628f670d6b8b11d5a76d37d278172cb233a60820",
+      "en_sha256": "c5a4f01317a8b117852f451fd09a29f1d197a9e9b47dab9f7e7a87fa90faff22"
+    },
+    "dataList[id=11].content": {
+      "pl": "…ale szybko pojęła, że tylko leżąc spokojnie, pożyje choć trochę dłużej.",
+      "kr_sha256": "c73ef7c339011c6dc0a359413d0a68e2ce93f2b03c6e3c4989814419e3f27758",
+      "en_sha256": "74d7ca7a9663db35f02f6db52930cd425a63f7b86b6e6b7099b2a587e65b7b84"
+    },
+    "dataList[id=12].content": {
+      "pl": "Za. Grzecz. Nagroda.",
+      "kr_sha256": "b5f28a39799431380153e5fecbbc104758f52b2b3b48932c2c739a02021e5abb",
+      "en_sha256": "a57e318feef5bb9d92e81970b8efc39dc4b0efe4a972b7f0fcd72660b28bab0a"
+    },
+    "dataList[id=13].content": {
+      "pl": "Dźg.",
+      "kr_sha256": "da7c182cfa1f8541fbd2ec630d07003291b8b476361973912e88780567b15ee0",
+      "en_sha256": "925f01de9f5b1e2a4ef5ef623bb56c6666d29fd911febcca0d5c3e10323808f3"
+    },
+    "dataList[id=14].content": {
+      "pl": "Dziecko wbiło leżącemu strzykawkę, którą od dłuższej chwili obracało w palcach.",
+      "kr_sha256": "24fa19b199d699d00a75c511e08d9c364937bc32cd43892a2ff0a9086c4bc19e",
+      "en_sha256": "58e3d8f586e3be956ade1042c8c7280ed57fd98a9b1a161b2dea4fefa340055f"
+    },
+    "dataList[id=15].content": {
+      "pl": "To zastrzyk ze środkiem znieczulającym i różnymi aromatami. Kosztowny dodatek, który zrobi z ciebie najlepszy eksponat Zaułków, kulinarny rarytas… i sztukę.",
+      "kr_sha256": "1cc7a624ee6140df6192570dab3ca6db8e9672102df97e2bdd3bf7855deea131",
+      "en_sha256": "c06672198c0580109e21ace523b5c2637053418fdcb3d88d48ecdff669b56485"
+    },
+    "dataList[id=16].content": {
+      "pl": "Te ciągłe gadki dziecka o sztuce i dziełach mogą się wydawać niezrozumiałe…",
+      "kr_sha256": "b56cdbd962c0dc7d5db4d70e7aec35d80f6e84cd2e185967f1ecc983e20a2f76",
+      "en_sha256": "157f79b21916f465cc341bc66bcf360244939c5e667306fed0d3563f7fc625f5"
+    },
+    "dataList[id=17].content": {
+      "pl": "Ale Zaułki Dystryktu 23 nazywa się też Zaułkami Smaku.",
+      "kr_sha256": "34cc60868811121cc4a51a0adbd9c6e8600fb74f9f6a42ada4029823b8fc4493",
+      "en_sha256": "59cc031f58739b01da1d8d6a38ea41c4d377163c9d6a6a7785971711b3fbbcec"
+    },
+    "dataList[id=18].content": {
+      "pl": "Tak. To Zaułki wokół Gniazda, w którym mieści się W Corp.",
+      "kr_sha256": "7f7a11382416aa7727a7ce0be74fe98dae7bfbe89b248538849567961e5e89ae",
+      "en_sha256": "333196799d393e4065e28cf5982d776cf735f2c6d4434ed2522eb3d5a7b04c66"
+    },
+    "dataList[id=19].content": {
+      "pl": "Zaułki, w których panuje kultura gonienia za smakiem i porównywania go do piękna.",
+      "kr_sha256": "e96326846ac689d0757b4ae048d358357dd7c7701a613f40fd653dd03c2a9053",
+      "en_sha256": "96e1dbc2f40d5f80d39a3a07033c1d9754dac94f81e048fdb47a5e581dcbe658"
+    },
+    "dataList[id=1].content": {
+      "pl": "Dziecko mówi to spokojnym głosem.",
+      "kr_sha256": "e0dcecf248646337f664016f7bd2e0806c33b77c6dbe7712559e539873781be8",
+      "en_sha256": "9c78d48ab32d7eaac5f49d5604a6be0a1d30700c13399ea6e5b905f34663675d"
+    },
+    "dataList[id=20].content": {
+      "pl": "Stąd wywodzą się choćby Ośmiu Szefów Kuchni czy przewodniki Dochelin.",
+      "kr_sha256": "d41298e9a1a28d20c5dc8c0f8bcb7ec295e66f92929bb4b06f04ea070f52a006",
+      "en_sha256": "dbfcba65434d3261303e2c270aef671024f570a3b904ef56b55f5000dbfe98de"
+    },
+    "dataList[id=21].content": {
+      "pl": "To dziecko chce zostać jednym z tej ósemki. Przy pomocy człowieka, składnika, który nazywają kwiatem kuchni artystycznej.",
+      "kr_sha256": "4e1b88bceb6b22eb33312e22c53105aa8e0b662a50e93606b45fb1ff04495145",
+      "en_sha256": "3dc9b62f7a3d12fa92bd70a6992f069ef4e17c650aa83a4085eda99e80a878cc"
+    },
+    "dataList[id=22].content": {
+      "pl": "W tym celu otworzyło tu lokal o nazwie R.P.M. …Widać skróty to jego niezłomne upodobanie.",
+      "kr_sha256": "845209bcfd3bb32b96f2666f25142f6d367faed82b4514ee660126c3e285e939",
+      "en_sha256": "99f409ca599ec12b7596399f82d1a7f931702aeb3986a07352283c9ee8be8d32"
+    },
+    "dataList[id=23].content": {
+      "pl": "Zgodnie z nazwą dziecko sprzedaje paszteciki mięsne, które szeptana reklama rozsławia wśród smakoszy.",
+      "kr_sha256": "5b66346fd2d64ebcf773c1865baf59873999c0696829c885e173a2ae363e9c4e",
+      "en_sha256": "132dfa492c6664f10e0780b0b754033e8cd8633a7808cc2d67fc1b759dec38d6"
+    },
+    "dataList[id=24].content": {
+      "pl": "No… zmysły coraz bardziej tępieją, co?",
+      "kr_sha256": "68fb5e78b1c04fda611dd50b29329a32f0b137ed877bb6724574ce84e52f11b7",
+      "en_sha256": "d556b3306652a22192a2bb9e6464ab07890b37bf1df588e8783de43f2fe7d72d"
+    },
+    "dataList[id=25].content": {
+      "pl": "Dziecko z radością przyglądało się ofierze, sprawdzając ostrze.",
+      "kr_sha256": "d049d970f9fdcc3a23555acfaa2763629f3453494b55e4216f0444a323340138",
+      "en_sha256": "f2a2a215a6af44ffb5e5f109dcf639df4a6a3766b5c6495a800407307e23cd51"
+    },
+    "dataList[id=26].content": {
+      "pl": "Lepiej, żeby był z ciebie dobry materiał. Bo współpraca z Gregorem, tym tępym, niezgrabnym żółtodziobem do pomocy, zaczyna mnie już porządnie wkurzać.",
+      "kr_sha256": "532eaaa48c73f70c6f91004055d590a9c442e1a98e53b1114c9790ffde3a467b",
+      "en_sha256": "1d44416b18d88addcf5554bd4b4cd37eeb860fac38b7c89fb4705d981eaf66d0"
+    },
+    "dataList[id=27].content": {
+      "pl": "Dziecko cmoknęło z niezadowoleniem i zaczęło zrzędzić.",
+      "kr_sha256": "57495e8696af7a03185feae311645cd5af2cafa7c711f432212ab001ce3e3f64",
+      "en_sha256": "797daa6f6166f32ac4018611e98118d1e972504b4f3cf985a82a54aa288274ab"
+    },
+    "dataList[id=28].content": {
+      "pl": "Że on się guzdrze, że przynosi tylko kiepski materiał, że kroi tępym tasakiem i psuje towar…",
+      "kr_sha256": "9f36080a31d5f94c29a71d9becbccad68c003a67db22126a4f09cc923469cc78",
+      "en_sha256": "426af01bd981cffec6e50f00b502ad2eced89e5cc1563912758dc37157115a1f"
+    },
+    "dataList[id=29].content": {
+      "pl": "Zresztą, nieważne. Wyleję go, jak tylko trafię do Ośmiu Szefów Kuchni.",
+      "kr_sha256": "28be281f31920fb5aa55c55442a01839adf1cf29f6bf930a5d3a9b7e4a5112bc",
+      "en_sha256": "472e1b89a6fc64e407589a6e3fb6dee8e9fb105a260a03333430909f9e23de6b"
+    },
+    "dataList[id=2].content": {
+      "pl": "Gdyby słuchać z zamkniętymi oczami, mogłoby to zabrzmieć jak powitanie kogoś, kto właśnie zbudził się ze słodkiego snu.",
+      "kr_sha256": "13cfa9f281e345d7c6c700449f68c1c1fee9e148da0ad51fc57a51a174040b31",
+      "en_sha256": "0d22f94c72304d425aee347e66e3d641d6ddab35112a45716ca28db8edeb0f5b"
+    },
+    "dataList[id=30].content": {
+      "pl": "Kiedy dziecko się żali, oczy ofiary powoli się zamykają.",
+      "kr_sha256": "bdd9d313f3239df50bceea3bc7bfa221a9348de03c2bc69e097de36a2cc946ff",
+      "en_sha256": "95acda4a5f1dc20e456028ba6a5c6edc2095f4d0b5d899615310af1759495af8"
+    },
+    "dataList[id=31].content": {
+      "pl": "Czemu ona tak się złości, co teraz będzie… Myśli się rozpływają, a zmysły coraz bardziej mętnieją.",
+      "kr_sha256": "d5d8e9091cdcc8c3bd00543352d51561e712e0705f198db89cef4e8572c34e9d",
+      "en_sha256": "fa18bc4839cab8a1bb42872b640a24ab9f2eb5187a61fa7d255a462c98d7ccdb"
+    },
+    "dataList[id=32].content": {
+      "pl": "Phi. Dobra, skupmy się.",
+      "kr_sha256": "95aaefeeba4f89641f6cda58fc5fccd54247e1e03f72358591d1336866891b98",
+      "en_sha256": "3f9757431f15140cb8137831defdcd840cc658fda67c036525ec559bf47dcd92"
+    },
+    "dataList[id=33].content": {
+      "pl": "No… uśmiechnij się. Od teraz będziesz w samym środku dzieła sztuki.",
+      "kr_sha256": "b08cac4715de768cdce6cea7a80a012a749349ab9fbea73977fae819a12280a2",
+      "en_sha256": "bd4ed9b59694748bf5f1cda611a17bbdc4e774bf6a4a64cb779abee4949ea665"
+    },
+    "dataList[id=34].content": {
+      "pl": "Patrząc na ofiarę, dziecko unosi ostrze.",
+      "kr_sha256": "5ee8731fb78ce29e8f09b776275e9d3633235f37481477b585d922076c5d3b02",
+      "en_sha256": "709717b3e80c0b69a96ff61dbe9143ef7c0c5b13c98433299dc11e3b6a1cb93f"
+    },
+    "dataList[id=35].content": {
+      "pl": "Czy to przypadek, że krew na ostrzu wyglądała jak namalowany uśmiech?",
+      "kr_sha256": "6a678582d02f7b9d6d88dcadc4ec4db4a58d1cd30612a27f6d35c421b69f64b0",
+      "en_sha256": "22572a4d1cd30cc086ff296b7e2c62c4ef5d281da509810876c901b56f3139df"
+    },
+    "dataList[id=36].content": {
+      "pl": "…Sądząc po minie, jaką dziecko robi za ostrzem, chyba nie ma się nad czym zastanawiać.",
+      "kr_sha256": "7eb8e1007c24b41aae16d776f5a8174aee52da2ea9a01f623b6646a4fbbe900e",
+      "en_sha256": "b29e05be6d0fd4325a731aefb6db347801282ddec4352d0d0ec2ab41eea4d1a4"
+    },
+    "dataList[id=3].content": {
+      "pl": "Dobrze, że w porę. Robota przy zbyt wolnym biciu serca psuje smak.",
+      "kr_sha256": "b1a342e0df04a5deb86a95693631368763289f081d4e062f037f3856da8118ba",
+      "en_sha256": "8525de122632c2fd655033fc3355823980d1c21ea8f1373a336ead680781b5ea"
+    },
+    "dataList[id=4].content": {
+      "pl": "Dziecko z cichym chichotem patrzy na kogoś leżącego na podłodze.",
+      "kr_sha256": "8626f5e6cd0a75c22ca7a9bdb13a2100fe1dfc2ed70411e095f2daae5c06e2a7",
+      "en_sha256": "3bcdef837d1a12a2e73c95396c35403eda705d967c91b94d518c90c9f5f93cf3"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ten ktoś, żałośnie, jakby nie mógł pogodzić się ze swoim położeniem, wije się całym ciałem.",
+      "kr_sha256": "25ff555627d4b1873d0886c49c97ce84ad01b8f1d7ed760f7211b1874c4eb5e8",
+      "en_sha256": "d893dfb9dd169d1b79deb3e6bb59ecedd5463eb5a0cab5d0056d8aec7aad6289"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ej, nie wierć się tak. Tsk, mówiłam temu gamoniowi, żeby porządnie skruszył mięso.",
+      "kr_sha256": "3f0e71ea64e242c792dac21b1f65274d2b83324ab38cb6273a30eb8b0f073d78",
+      "en_sha256": "7669940748a94a4a427a0116eb7c675d091733d0087401fd084d544131f72c00"
+    },
+    "dataList[id=7].content": {
+      "pl": "Plask.",
+      "kr_sha256": "155603e4fefebcf2df78234e92520138707fa7dfa33755a7429af2b15886d246",
+      "en_sha256": "29742165fc2adf0590dc8394eb7125e33bdccdc651d88566fd1b968142e0a696"
+    },
+    "dataList[id=8].content": {
+      "pl": "Dziecko trzepnęło ofiarę w policzek i rzuciło bezdusznym tonem:",
+      "kr_sha256": "0e7a6e449879158b1c53f6386f82e00eff0ef35c99ee4b8af83406855c5be502",
+      "en_sha256": "cb8d8edda032b155e432dd65887fb19a1e12f684977605bf55c539550f3a47c8"
+    },
+    "dataList[id=9].content": {
+      "pl": "Nie znoszę, jak materiał do dzieła sam się pcha na pierwszy plan. Leż spokojnie, zanim zrobię P.K.",
+      "kr_sha256": "1b753cdea74b9bf06068e66ceedc4c43223191ae2a31ddc80ac7a8d22ea6f1ab",
+      "en_sha256": "067ab8f59a83ce211bd4ba82144e191d5aa71be1f4791d11b2e32a9b2dced6c0"
+    }
+  }
+}

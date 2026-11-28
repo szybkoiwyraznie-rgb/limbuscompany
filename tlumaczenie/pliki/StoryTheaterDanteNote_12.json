@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=NestWNew].content": {
+      "pl": "Wędrowiec",
+      "kr_sha256": "2c0d87209e42b988c6cb508b9d2a2bfa0d3542f436c633b1cdb86920299f9d15",
+      "en_sha256": "231aab7cf65c34e7b3a550cf1609674d48ada951b592ee6f9011cfe4209287fb",
+      "origin": "ai"
+    },
+    "dataList[id=Shin].content": {
+      "pl": "Shin (心)",
+      "kr_sha256": "8fcce7f9de66c9d7f5187a8ff1ce4781c59f3c89dd076f95babd223bf3bfb05c",
+      "en_sha256": "dbd1bdf914ce8b2e6799ca7f956ae601d0522073d75abf65b3f23d591cfc78ce",
+      "origin": "ai"
+    },
+    "dataList[id=TheSigns].content": {
+      "pl": "Znak",
+      "kr_sha256": "a1435ed26af02e2c4e42c3b9e04c2aedcf73192194a57e452d701f5819e46ecd",
+      "en_sha256": "b8c4c89e9111a0e6a937d869088d434edf2a2740aea6f57fb7b56e1b87fbad8d",
+      "origin": "ai"
+    }
+  }
+}

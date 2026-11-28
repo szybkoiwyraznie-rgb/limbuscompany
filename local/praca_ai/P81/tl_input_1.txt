@@ -1,0 +1,131 @@
+1||Umiejętność wroga [9007003] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 가지고 있는 충전 횟수가 5 이상이면, 충전 횟수만큼 가하는 피해량 +10%. 전부 소모.|[OnSucceedAttack] At 5+ Charge Count, spend all Charge Count to deal +10% damage for each Count
+2||Umiejętność wroga [9007003] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 맞물리는 시간 1 부여|[OnSucceedAttack] Inflict 1 Interlocking Time
+3||Umiejętność wroga [9007004] (ulepszenie 1) — nazwa] 시간 대여|Borrow Time
+4||Umiejętność wroga [9007004] (ulepszenie 1) — opis] [StartBattle] [TimeRental] 3 얻음. 자신의 충전 횟수 1 얻음|[StartBattle] Gain 3 [TimeRental] and +1 Charge Count
+5||Umiejętność wroga [9007101] (ulepszenie 1) — nazwa] 근접 촬영 시작|Proximity Shooting
+6||Umiejętność wroga [9007102] (ulepszenie 1) — nazwa] 후퇴 후퇴|Retreat; Retreat;
+7||Umiejętność wroga [9007103] (ulepszenie 1) — nazwa] 섬광 섬광|Flash; Flash;
+8||Umiejętność wroga [9007103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 -5|[OnSucceedAttack] Target loses 5 SP
+9||Umiejętność wroga [9007103] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 대상의 정신력 -5|[OnSucceedAttackHead] Target loses 5 SP
+10||Umiejętność wroga [9007104] (ulepszenie 1) — nazwa] 구속합니다.|Arresting.
+11||Umiejętność wroga [9007104] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2, 마비 3 부여.|[OnSucceedAttack] Inflict 2 Bind and 3 Paralyze next turn.
+12||Umiejętność wroga [9008201] (ulepszenie 1) — nazwa] 거수자 발견|Suspicious Individuals
+13||Umiejętność wroga [9008201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여|[OnSucceedAttackHead] Inflict 3 Rupture
+14||Umiejętność wroga [9008202] (ulepszenie 1) — nazwa] 제압|Restrain
+15||Umiejętność wroga [9008202] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여|
+16||Umiejętność wroga [9008203] (ulepszenie 1) — nazwa] 거수자 차단|No Trespassing
+17||Umiejętność wroga [9008203] (ulepszenie 1) — opis] 체력이 가장 높은 대상 우선 공격|Targets the unit with the most HP
+18||Umiejętność wroga [9008203] (ulepszenie 1) — moneta 2, efekt 1 — opis] 1코인이 앞면이라면 피해량 +10%|If Coin 1 lands Heads, +10% Damage
+19||Umiejętność wroga [9008203] (ulepszenie 1) — moneta 3, efekt 1 — opis] 2코인이 앞면이라면 피해량 +10%|If Coin 2 lands Heads, +10% Damage
+20||Umiejętność wroga [9008203] (ulepszenie 1) — moneta 4, efekt 1 — opis] 2, 3코인이 앞면이라면 피해량 +30%|If Coins 2 & 3 land Heads, +30% Damage
+21||Umiejętność wroga [9007701] (ulepszenie 1) — nazwa] 꾸악|Gwah
+24||Umiejętność wroga [9007702] (ulepszenie 1) — nazwa] 등딱지 태클!|Shell Tackle!
+25||Umiejętność wroga [9007702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 횟수 2 증가|[OnSucceedAttack] Inflict +2 Rupture Count next turn
+26||Umiejętność wroga [9007702] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 참격 취약 1 부여|[OnSucceedAttack] Inflict 1 Slash Fragility next turn
+27||Umiejętność wroga [9007703] (ulepszenie 1) — nazwa] 꾸아악!|Gwaaah!
+28||Umiejętność wroga [9007703] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여|[OnSucceedAttack] Inflict 3 Rupture
+29||Umiejętność wroga [9007703] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여|
+30||Umiejętność wroga [9007703] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여|
+31||Umiejętność wroga [9007704] (ulepszenie 1) — nazwa] 게거품|Foaming
+32||Umiejętność wroga [9007704] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가|[OnSucceedAttack] Inflict +5 Rupture Count
+33||Umiejętność wroga [9007705] (ulepszenie 1) — nazwa] 게 눈 감추기|Hermit Crab
+34||Umiejętność wroga [9007705] (ulepszenie 1) — opis] [StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 참격 피해 4 반사|[StartBattle] When attacked while this unit has Shield HP, deal 4 Slash damage to the attacker
+40||Umiejętność wroga [9007802] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 관통 취약 1 부여|[OnSucceedAttack] Inflict 1 Pierce Fragility next turn
+48||Umiejętność wroga [9007805] (ulepszenie 1) — opis] [StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 관통 피해 4 반사|[StartBattle] When attacked while this unit has Shield HP, deal 4 Pierce damage to the attacker
+54||Umiejętność wroga [9007902] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 타격 취약 1 부여|[OnSucceedAttack] Inflict 1 Blunt Fragility next turn
+62||Umiejętność wroga [9007905] (ulepszenie 1) — opis] [StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 타격 피해 4 반사|[StartBattle] When attacked while this unit has Shield HP, deal 4 Blunt damage to the attacker
+63||Umiejętność wroga [9008001] (ulepszenie 1) — nazwa] 찍기|Thwack
+64||Umiejętność wroga [9008001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 5 부여|[OnSucceedAttack] Inflict 5 Rupture
+65||Umiejętność wroga [9008002] (ulepszenie 1) — nazwa] 마구 찍기|Thwack Thwack Thwack
+66||Umiejętność wroga [9008002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|[OnSucceedAttack] Inflict +2 Rupture Count
+67||Umiejętność wroga [9008002] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|
+68||Umiejętność wroga [9008002] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|
+71||Umiejętność wroga [9008003] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가|
+72||Umiejętność wroga [9008004] (ulepszenie 1) — nazwa] 게장 발사!|Delicious Crab Guts!
+73||Umiejętność wroga [9008004] (ulepszenie 1) — opis] [CantIdentify]\n대상의 파열 위력 5 마다 피해량 +15%\n[EndSkill] 최대 체력의 8%만큼 본체 체력 감소|[CantIdentify] \nDeal +15% damage per 5 Rupture on target\n[EndSkill] Lose HP by 8% of Max HP
+74||Umiejętność wroga [9008004] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 10 부여|[OnSucceedAttack] Inflict 10 Rupture
+75||Umiejętność wroga [9008005] (ulepszenie 1) — nazwa] 꾸오!|GUOH!
+76||Umiejętność wroga [9008005] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여|[OnSucceedAttackHead] Inflict 2 Rupture
+77||Umiejętność wroga [9008005] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여|
+78||Umiejętność wroga [9008005] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여|
+88||Umiejętność wroga [9008104] (ulepszenie 1) — nazwa] 등딱지 태클!!!|Shell Tackle!!!
+89||Umiejętność wroga [9008104] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 관통 취약 3 부여|[OnSucceedAttack] Inflict 3 Pierce Fragility next turn
+90||Umiejętność wroga [9008105] (ulepszenie 1) — nazwa] 오래된 게딱지 탄 발사|Firing Molted Shell Shot
+91||Umiejętność wroga [9008105] (ulepszenie 1) — opis] [CantIdentify]\n대상의 파열 위력 5마다 피해량 +15%|[CantIdentify]\nDeal +15% damage per 5 Rupture on target
+92||Umiejętność wroga [9008105] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 오래된 게딱지 탄 1 소모|[OnSucceedAttack] Spend 1 Molted Shell Shot
+97||Umiejętność wroga [7104701] (ulepszenie 1) — nazwa] 돌격|Raid
+98||Umiejętność wroga [7104701] (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 3 이상이면, 코인 위력 +1|[WhenUse] If target has 3+ [Vibration], Coin Power +1
+99||Umiejętność wroga [7104701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여|[OnSucceedAttack] Inflict 2 [Vibration]
+100||Umiejętność wroga [7104701] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여|
+101||Umiejętność wroga [7104701] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여|
+102||Umiejętność wroga [7104702] (ulepszenie 1) — nazwa] 표적 무력화|Neutralize Target
+104||Umiejętność wroga [7104702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Vibration]
+105||Umiejętność wroga [7104702] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+106||Umiejętność wroga [7104703] (ulepszenie 1) — nazwa] HP탄 활성화|Activate HP Bullet
+107||Umiejętność wroga [7104703] (ulepszenie 1) — opis] [WhenUse] 체력 20 회복|[WhenUse] Heal 20 HP
+108||Umiejętność wroga [7104704] (ulepszenie 1) — nazwa] 진압|Takedown
+109||Umiejętność wroga [7104704] (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 4 이상이면, 기본 위력 +2|[WhenUse] If target has 4+ [Vibration], Base Power +2
+110||Umiejętność wroga [7104704] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Vibration] Count
+113||Umiejętność wroga [7104802] (ulepszenie 1) — nazwa] 방호|Shelter
+114||Umiejętność wroga [7104802] (ulepszenie 1) — opis] [WinDuel] 무작위 아군 2명에게 다음 턴에 [ResultEnhancement] 1 부여|[WinDuel] Apply 1 [ResultEnhancement] to 2 random allies next turn
+115||Umiejętność wroga [7104803] (ulepszenie 1) — nazwa] 엄호|Cover
+116||Umiejętność wroga [7104803] (ulepszenie 1) — opis] [WhenUse] 자신을 제외한 무작위 아군 2명에게 다음 턴에 [Protection] 2 부여|[WhenUse] Apply 2 [Protection] to 2 random other allies next turn
+117||Umiejętność wroga [7104803] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+118||Umiejętność wroga [7104901] (ulepszenie 1) — nazwa] 출입 금지|Do Not Enter
+119||Umiejętność wroga [7104901] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 4 이상이면, 기본 위력 +2|[WhenUse] If target has 4+ [Burst], Base Power +2
+120||Umiejętność wroga [7104901] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst]
+122||Umiejętność wroga [7104902] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)
+123||Umiejętność wroga [7104902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Burst]
+124||Umiejętność wroga [7104902] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Burst] Count
+125||Umiejętność wroga [7104903] (ulepszenie 1) — nazwa] 출입 차단|Forbid Entry
+126||Umiejętność wroga [7104903] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)\n[DefeatDuel] 체력 10 회복|[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)\n[DefeatDuel] Heal 10 HP
+127||Umiejętność wroga [7104903] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+128||Umiejętność wroga [7104903] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] x [Burst] 횟수만큼 체력 피해. 대상의 [Burst] 전부 소모|[OnSucceedAttack] Deal ([Burst] x [Burst] Count) HP damage, then consume all [Burst] on target
+130||Umiejętność wroga [7105001] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 3 이상이면, 기본 위력 +2|[WhenUse] If target has 3+ [Burst], Base Power +2
+137||Umiejętność wroga [7105003] (ulepszenie 1) — opis] [Burst]이 가장 많은 대상 우선 공격\n[WhenUse] 대상에게 [Burst]이 있다면, 코인 위력 +1|Prioritizes targets that have the most [Burst]\n[WhenUse] If target has [Burst], Coin Power +1
+139||Umiejętność wroga [7105003] (ulepszenie 1) — moneta 2, efekt 1 — opis] 1코인이 앞면이면 피해량 +10%|If Coin 1 lands Heads, deal +10% damage
+140||Umiejętność wroga [7105003] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Burst] 2 부여|[OnSucceedAttack] Inflict 2 [Burst]
+141||Umiejętność wroga [7105003] (ulepszenie 1) — moneta 3, efekt 1 — opis] 2코인이 앞면이면 피해량 +10%|If Coin 2 lands Heads, deal +10% damage
+142||Umiejętność wroga [7105003] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Burst] 2 부여|
+143||Umiejętność wroga [7105003] (ulepszenie 1) — moneta 4, efekt 1 — opis] 2, 3코인이 앞면이면 피해량 +30%|If Coins 2 & 3 land Heads, deal +30% damage
+144||Umiejętność wroga [7105003] (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Burst] x [Burst] 횟수만큼 체력 피해. 대상의 [Burst] 전부 소모|
+145||Umiejętność wroga [7105101] (ulepszenie 1) — nazwa] 기이|Kii
+146||Umiejętność wroga [7105101] (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)|[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)
+147||Umiejętność wroga [7105101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 5 증가|[OnSucceedAttack] Inflict +5 [Burst] Count
+148||Umiejętność wroga [7105102] (ulepszenie 1) — nazwa] 기이익|Kiih
+150||Umiejętność wroga [7105102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가|
+152||Umiejętność wroga [7105103] (ulepszenie 1) — nazwa] 방어|Guard
+153||Umiejętność wroga [7105103] (ulepszenie 1) — opis] [StartBattle] 이번 턴 동안 (자신의 잃은 체력 / 10) 만큼 보호막 얻음|[StartBattle] For this turn, gain (missing HP on self / 10) Shield
+156||Umiejętność wroga [7105201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 6 부여|[OnSucceedAttack] Inflict 6 [Burst]
+157||Umiejętność wroga [7105202] (ulepszenie 1) — nazwa] 기이이익|Kiieeh
+160||Umiejętność wroga [7105202] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여|
+163||Umiejętność wroga [7105301] (ulepszenie 1) — nazwa] 기긱!|Kigik!
+165||Umiejętność wroga [7105301] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+166||Umiejętność wroga [7105302] (ulepszenie 1) — nazwa] 기익!|Kieek!
+168||Umiejętność wroga [7105302] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+169||Umiejętność wroga [7105302] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 2 부여, [Laceration] 횟수 5 증가|[OnSucceedAttack] Inflict 2 [DefenseDown] and +5 [Laceration] Count
+172||Umiejętność wroga [7105401] (ulepszenie 1) — nazwa] 기긱이긱|Kigigiik
+173||Umiejętność wroga [7105401] (ulepszenie 1) — opis] 이전 턴에 피해를 받지 않은 경우 코인 위력 +1\n[WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)|If this unit did not take damage in the previous turn, Coin Power +1\n[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)
+174||Umiejętność wroga [7105401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 5 부여|[OnSucceedAttack] Inflict 5 [Vibration]
+175||Umiejętność wroga [7105401] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Vibration] Count
+179||Umiejętność wroga [7105402] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1, [DefenseDown] 2 부여|[OnSucceedAttack] Inflict 1 [Binding] and 2 [DefenseDown] next turn
+180||Umiejętność wroga [7105403] (ulepszenie 1) — nazwa] 기이긱기|Kieegikhik
+181||Umiejętność wroga [7105403] (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[WhenUse] [Protection] 2 얻음\n[WinDuel] [Vibration] 5 부여|[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[WhenUse] Gain 2 [Protection]\n[WinDuel] Inflict 5 [Vibration]
+182||Umiejętność wroga [7105403] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+183||Umiejętność wroga [7105403] (ulepszenie 1) — moneta 1, efekt 2 — opis] - [VibrationExplosion]이 적중했으면, [Laceration], [Vibration], [Burst] 위력 중 무작위로 10 부여|- If [VibrationExplosion] is triggered, inflict 10 Potency of a random status effect, chosen from [Laceration], [Vibration], and [Burst]
+188||Umiejętność wroga [7105501] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여|[OnSucceedAttack] Inflict 3 [Sinking]
+189||Umiejętność wroga [7105501] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Sinking] Count
+190||Umiejętność wroga [7105501] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여|
+195||Umiejętność wroga [7105502] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking]이 10 이상이면, [Sinking] 5 부여|[OnSucceedAttack] If target has 10+ [Sinking], inflict 5 [Sinking] next turn
+197||Umiejętność wroga [7105503] (ulepszenie 1) — opis] [WhenUse] 잃은 체력의 5%만큼 회복 (최대 150, 턴당 1회)|[WhenUse] Heal 5% of missing HP (once per turn; max 150)
+199||Umiejętność wroga [7105601] (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[WhenUse] 무작위 아군 2명에게 다음 턴에 [Protection] 2 부여|[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[WhenUse] Apply 2 [Protection] to 2 random allies next turn
+200||Umiejętność wroga [7105601] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 5 증가|[OnSucceedAttack] Inflict +5 [Sinking] Count
+201||Umiejętność wroga [7105602] (ulepszenie 1) — nazwa] 저지|Blockade
+204||Umiejętność wroga [7105602] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여|
+206||Umiejętność wroga [7105603] (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[WinDuel] 자신을 제외한 무작위 아군 1명에게 다음 턴에 [AmberDamageUp] 1, [ShamrockDamageUp] 1 부여|[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[WinDuel] Apply 1 [AmberDamageUp] and 1 [ShamrockDamageUp] to a random other ally next turn
+207||Umiejętność wroga [7105603] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여|[OnSucceedAttack] Inflict 5 [Sinking]
+214||Umiejętność wroga [7105702] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 5 증가|
+216||Umiejętność wroga [7105703] (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[DefeatDuel] 잃은 체력의 5%만큼 회복 (최대 100, 턴당 1회)|[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[DefeatDuel] Heal 5% of missing HP (once per turn; max 100)
+218||Umiejętność wroga [7105703] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking] 위력만큼 우울 피해. 대상의 [Sinking] 횟수 1 감소|[OnSucceedAttack] Deal Gloom damage equal to [Sinking] Potency on target and reduce target's [Sinking] Count by 1
+225||Umiejętność wroga [7105802] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여|
+227||Umiejętność wroga [7105803] (ulepszenie 1) — opis] [Sinking]이 가장 많은 대상 우선 공격\n[WhenUse] 대상에게 [Sinking]이 있다면, 기본 위력 +2\n[WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[DefeatDuel] 잃은 체력의 5%만큼 회복 (최대 100, 턴당 1회)|Targets the unit that has the most [Sinking]\n[WhenUse] If target has [Sinking], Base Power +2\n[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[DefeatDuel] Heal 5% of missing HP (once per turn; max 100)

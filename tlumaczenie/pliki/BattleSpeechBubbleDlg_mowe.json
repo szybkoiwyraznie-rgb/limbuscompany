@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=6SV-009-002-01].dlg": {
+      "pl": "Precz, precz!",
+      "kr_sha256": "5bfa8cc61ca2b009ae195515f54dd8e6004b213ddcbe7a85ee79eea4a75c0dd3",
+      "en_sha256": "88d32a80e80bd2ada8434ef044ebf297cdb1d6fb3154a47d05d64b617cce1be7",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-009-002].dlg": {
+      "pl": "Precz, precz!",
+      "kr_sha256": "5bfa8cc61ca2b009ae195515f54dd8e6004b213ddcbe7a85ee79eea4a75c0dd3",
+      "en_sha256": "88d32a80e80bd2ada8434ef044ebf297cdb1d6fb3154a47d05d64b617cce1be7",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-010-001].dlg": {
+      "pl": "Ha! Klęknij!",
+      "kr_sha256": "be100e6077cdcf4e88e8a7307f807db655f8ff7b36b6a88e9a651e0e657aaceb",
+      "en_sha256": "1c84622711538f734bb07c63860b31fc4681b21845be43d30e5b4666c39427f7",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-010-002].dlg": {
+      "pl": "Tak, znaj swoje miejsce...",
+      "kr_sha256": "407945e8633659125cef4ced4cce3429e2604a9778bfd8877fd45b2b32d571b9",
+      "en_sha256": "31540adc1d1a0144fb566adf1c2d89f1e3995fe203b25db80d74359b23381b26",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-010-003-01].dlg": {
+      "pl": "Mam cię! N-nie? O-odstąp!",
+      "kr_sha256": "b03331142c616f9f89716228c2c0a73df465f03e3e30434b3c0878bffc30199a",
+      "en_sha256": "0d67da1d68aba5e4bf064bf5b3483fa40cd6db39a4eab1b71558b31dd6fe9ff6",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-011-001].dlg": {
+      "pl": "Kłoń się przed władcą królestwa!",
+      "kr_sha256": "9fa41c6673270ae64240cfddb000ed37f4ba1d9a32e47e2b835b4ebbf6452c82",
+      "en_sha256": "65ccb5899b1c0a8434c21f88c2219f8369d270e1a0e021d37bc8d7fec45dcb40",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-011-002].dlg": {
+      "pl": "Zbrodnia zdrady zasługuje na śmierć!",
+      "kr_sha256": "a6000149d89aa9e1559c00383d9d9e54f0479e366e6f3237f01a63ab2919cf24",
+      "en_sha256": "ff2b95889881b96a154db6fdf0b39787756f69c4659f9430b9397c8eec4b87b0",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-012].dlg": {
+      "pl": "N-nie trzeba się niepokoić... Khh! Dam radę... Będą cicho, gdyż wszystkich ich wyrżnę.",
+      "kr_sha256": "523194b3298b66aea7333786d55b283ddef1fe2ae2e9f1da2791ba30566fadf1",
+      "en_sha256": "a47343e8673e99c520937f796a990827f6fe5132cd8e5a9752209820ca4b3621",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-013-001].dlg": {
+      "pl": "Gdy ten marsz się skończy... wzniosę się jako Król! By panować nad wszystkim!",
+      "kr_sha256": "9b7bc03aa8fa8191adf734ddf99e751759d228febb110a3d14d6230e9f88d666",
+      "en_sha256": "8607d79e118a38c7a45e0fe5db1e50272d824ba219ef57931a991a5d519ec8d3",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-013-002].dlg": {
+      "pl": "Patrzcie...! Oto prawdziwy marsz Księcia!",
+      "kr_sha256": "2a738ef1fe7fba5b48f1e3d68f987213c46310b94fc998b3998b5f374017e895",
+      "en_sha256": "98d2e822c0fea669debaf7180fad396e441f694e9acdf700748cebf62803e21e",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-014].dlg": {
+      "pl": "Tak to boli... Ale pragnę zobaczyć... do czego sięga ta moc!",
+      "kr_sha256": "bd24427fd86ab7e513c58db4afa96be51292b1c750b28d472136f14441befaac",
+      "en_sha256": "4c60227a29bfa441c17f47b82be438aacb5cba0f1e8056e23bd6882e10bfaf55",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-015].dlg": {
+      "pl": "Czyż nie pojmują? Hah... stanie się Bloodbagiem to ulepszenie, wzniesienie!",
+      "kr_sha256": "9d22dad1eeb1acfee600b6f7fec031c5fa5cae5ab88296a9c78f4e95e0156ace",
+      "en_sha256": "44c2ddcff7caaab5fa18f1bb76f8b433661267b5a782c478a9a6b802c8af4fe3",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-017_2-02].dlg": {
+      "pl": "Uzupełnijmy brakującą krew, ha ha ha...!",
+      "kr_sha256": "36a08cfa4c476bb5efb6cad49d8bb28579718426126b5e89da4813529b419a31",
+      "en_sha256": "bd2b1762bd5ba711204d58c824f9d9010e4c363c88ffc2fe19aa9ae80b3d6a46",
+      "origin": "ai"
+    },
+    "dataList[id=6SV-017_2].dlg": {
+      "pl": "Uzupełnijmy brakującą krew!!",
+      "kr_sha256": "8c1a13a58ababcc37123f5c3034acbb380e6063e80408e99a0abd55bd7d7f1e8",
+      "en_sha256": "c8a7578fc76c3279f7e0f8afcb1c9c4a46d91d237fe5524383f3c63faa8e1e95",
+      "origin": "ai"
+    }
+  }
+}

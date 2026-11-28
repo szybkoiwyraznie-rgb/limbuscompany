@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=10713].name": {
+      "pl": "Shock Centipede",
+      "kr_sha256": "7da0f622536e8ea677e7fb98547199ad0aaf1d7d5133b8c63203de47569a6d90",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=971102].name": {
+      "pl": "Shock Centipede",
+      "kr_sha256": "7da0f622536e8ea677e7fb98547199ad0aaf1d7d5133b8c63203de47569a6d90",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    }
+  }
+}

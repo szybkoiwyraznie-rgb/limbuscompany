@@ -1,0 +1,114 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Chwileczkę.",
+      "kr_sha256": "de0af0b609aec36bc1d2a78561e8704cd3a0fefe5b785f24b60a8b1444abe73b",
+      "en_sha256": "927912388bde6fe81b5c09edfbad6d2a85c04dae038b86e5087e013b149abcd2"
+    },
+    "dataList[id=10].content": {
+      "pl": "Oczywiście, że jest ważny.",
+      "kr_sha256": "cceffc2549c05cf63c8f52a668dc5a0b8b41b01928e040d157ac10c479a3b018",
+      "en_sha256": "7404cdd2b5d585f4278402461c61ba587bb9590f787dedd3591fca37cd2707a7"
+    },
+    "dataList[id=11].content": {
+      "pl": "Bo żadnego kłamstwa nie było.",
+      "kr_sha256": "2e024b8b2c5e06284df74b5bffb124435c651ca82da7d7b4592e5a873ab5fa6f",
+      "en_sha256": "91372fb985b7c54743eaa6eca7e8f5b376e5f48697480db0216cd6e339bacb51"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Słucham?",
+      "kr_sha256": "ea526e1a24a4a95f6709c73b3b4048e03b65f2cc9384603eef727b42d6147d57",
+      "en_sha256": "eb0691f8a199ab18c3be17dc91f20f4a9026ad5c2a3c04b37edaf1b2d3c8b902"
+    },
+    "dataList[id=13].content": {
+      "pl": "Czyżby pani sądziła, że zbudowałam Mephistophelesa wyłącznie jako środek transportu?",
+      "kr_sha256": "7f081fc57b3cc2d97fece8f575c72796b4bab9785db51f24643a076083462c35",
+      "en_sha256": "47b810c8cd72e4c8baf18fb15ea926c32819ed353f71b9dcfdbab41a58b41f12"
+    },
+    "dataList[id=14].content": {
+      "pl": "Mefi zawsze jest głodny. Dlatego płacze.",
+      "kr_sha256": "fd624b64bce61074feedc2db7894625e8ba70185060fa64d416aeaa12455f791",
+      "en_sha256": "9e98ad6a09945bfdb9f5926441846f633cc8698ca4a69a38d55fc9580abc711d"
+    },
+    "dataList[id=15].content": {
+      "pl": "<Autobus jest głodny?>",
+      "kr_sha256": "867242358538c6450f451f22c06dd466671419cef69611a7dd3283ce7f5ce1e4",
+      "en_sha256": "bb413f5a4311b66c231e8f188d97c6501aa44709d96bb8dfe2b16c8516cf6c5a"
+    },
+    "dataList[id=16].content": {
+      "pl": "Produkt uboczny, który powstaje, gdy silnik “spożywa” paliwo…",
+      "kr_sha256": "2226fc1755de46f80594f6917079f97688d1f4c4f3b61ba0377d78508ed545f7",
+      "en_sha256": "6a36e9de0d1fa05b3e2275ca004894f92de9b5bf4ddb2e7026da5eecd9800de5"
+    },
+    "dataList[id=17].content": {
+      "pl": "…dzięki niemu mogą państwo stać się silniejsi.",
+      "kr_sha256": "a1aed863bdb167aa8ed75393ac9d7ed77171a4b3ea934c0b77cfd6c0e6f0f62c",
+      "en_sha256": "ddc08f4fe13091c7522012aa0729ac0cbc54ab864609aa03c5812565e318676e"
+    },
+    "dataList[id=18].content": {
+      "pl": "Pan Yi Sang z pewnością dobrze to wie. Gdy wydobędzie się z Lustra wszystkie możliwości…",
+      "kr_sha256": "a0eab74a7e0a808ba1b632c1bc60bcd8706d570cf1b03ae6855cdf8415b020f5",
+      "en_sha256": "1addf0bd72247e5e43345e5bc9ce7c1137f30a2698553d760a62e32324ce9e7f"
+    },
+    "dataList[id=19].content": {
+      "pl": "…to i rozwój nie zna granic.",
+      "kr_sha256": "026c2cf750933b63e5b6185cd8b76c0d9b852ed9edaeee9cee14ee915da58559",
+      "en_sha256": "301889d5cabab31ab4b3e6c6b06e133dde01cc179318d399220cf0ec0bf02519"
+    },
+    "dataList[id=1].content": {
+      "pl": "O co chodzi?",
+      "kr_sha256": "9ea22995bcf982608a82c5da7ca21d7796a1f9dc0666369a1889adf8b0af633b",
+      "en_sha256": "bbff7b98d6da70612cb94badd2dde68a4dbe1107104b55f330a2225c8ebf55b2"
+    },
+    "dataList[id=20].content": {
+      "pl": "Czy ja w lustrze to ja, czy ktoś zupełnie inny?",
+      "kr_sha256": "ecc754b087d8f2ce5d03cbea2e3a86af19912c277343b79b5f3d583e893259de",
+      "en_sha256": "15c6707d5b763f0f22ea9c4d94668340e1f8e3af65cd2b96f2b4c79059575516"
+    },
+    "dataList[id=21].content": {
+      "pl": "<Możliwości…? Co niby się wydobywa?>",
+      "kr_sha256": "f4ba18727259431842bafa5c630749176fb56551f10c12e59bc51fe0028dde99",
+      "en_sha256": "07bd497f4db43bffb66a01d250d384ac21f6d82c6362d2804d718e1d2e42b369"
+    },
+    "dataList[id=2].content": {
+      "pl": "Dołączyłam tu, bo mówiono mi, że będę mogła iść naprzód, zamiast tkwić w miejscu.",
+      "kr_sha256": "dabeddefedf4e6a1b093d67866a47ba95ec92183d92d5dae57f565750cb63d56",
+      "en_sha256": "81d6dd44d94c1060231e4461cbb622ab36fe07859cdc68af81b288bac412d041"
+    },
+    "dataList[id=3].content": {
+      "pl": "A teraz… jak jakieś Szczury, ciągle tylko bezsensowna przemoc.",
+      "kr_sha256": "1ac3d976fa4355657e309833945c6efec422b18abee7235ac4cd09a0f6291f65",
+      "en_sha256": "4099815c8c775e88ff42d168b881daaae8cfd2d1dafe3212cd631e6ba28802bb"
+    },
+    "dataList[id=4].content": {
+      "pl": "Nie jest to bez sensu! Wszakże to zło, co nas napadło!",
+      "kr_sha256": "77e954d7d456ab4e3667c6e110c7fbb31e1f1d9dd84de1e61f6ad8933505e13f",
+      "en_sha256": "f9e1fd8518c35e084393c32ca9ca2f822559d9b9d4b418405c11819f27ba7f7b"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ciszej, możesz choć na chwilę być cicho?",
+      "kr_sha256": "3a916e9dade422b29b8bcc42d6150a7ffcb23aac57f19d3164ac7fe999fcc77d",
+      "en_sha256": "4c4256c46fedca9ba932ba7453c89419467de74f5007659c2358a0e695e2272f"
+    },
+    "dataList[id=6].content": {
+      "pl": "…W każdym razie, jeśli mają nam kazać tylko robić za bandę wynajętych osiłków, chyba będę musiała pomyśleć o innej pracy.",
+      "kr_sha256": "3dcd7589c800d1b2563c04a7aabebb782b9ccb01cb97fc81ef0ae2a14604c10e",
+      "en_sha256": "9ba55dd9201d8e02de053a20080842f2b81c06a768928b9951f6625ee33b6306"
+    },
+    "dataList[id=7].content": {
+      "pl": "Nie przeczytała pani uważnie kontraktu?",
+      "kr_sha256": "6d984719932bb203b8a13a2317f8b030826edf1c7545b017b5eddac4804ef8aa",
+      "en_sha256": "2696df7b2e889395f8e55922f53af8b0d4db7dbba9d9428d22fbda07549e2103"
+    },
+    "dataList[id=8].content": {
+      "pl": "…Odejście z firmy nie jest dopuszczalne.",
+      "kr_sha256": "2f5fa9dc33004be3cbc81c403e603fb7585c34667253a47ffb80fe63b684c1f0",
+      "en_sha256": "87de0159c97c5e0e9ab8c87dd632e0df53389737bdb627288a651cde969dce1c"
+    },
+    "dataList[id=9].content": {
+      "pl": "…Myślisz, że kontrakt jest ważny, nawet jeśli przy podpisywaniu nas okłamano?",
+      "kr_sha256": "da9e44a034718745f2888315cf388086f2a2b68701372f435cf1843f7236342e",
+      "en_sha256": "f04a31ddfd033a44586e10ef4daf9298f2faa139a8b719f81c2b1f174560eca4"
+    }
+  }
+}

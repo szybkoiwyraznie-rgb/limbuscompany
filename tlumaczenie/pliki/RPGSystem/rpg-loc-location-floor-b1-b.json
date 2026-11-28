@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[key=210300].text": {
+      "pl": "Targ Rybny",
+      "kr_sha256": "9c24e52ce23aa07798c845c2a458e4f54c686cd400334d43ae640f68be1e4e04",
+      "en_sha256": "b91aede522eef4d351566f68c68550b5e60bca5ca06ce867cc37c8e60e2856fa",
+      "origin": "ai"
+    },
+    "dataList[key=210400].text": {
+      "pl": "Brzeg",
+      "kr_sha256": "aecba1f126d2d454bd4e891e2acb3b8d2a995c322038af63496aa85c4c217f22",
+      "en_sha256": "bb1c3efd677e442452907f1c15036056dddf7fa1878c280dca2b3c8b3ada3e94",
+      "origin": "ai"
+    }
+  }
+}

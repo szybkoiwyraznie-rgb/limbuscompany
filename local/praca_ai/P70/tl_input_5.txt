@@ -1,0 +1,36 @@
+831||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1|[WhenUse] If target has 6+ [Laceration], Coin Power +1
+834||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [LineCutting]이 됨|[OnSucceedAttack] Inflict [LineCutting] next turn
+835||(ulepszenie 1) — nazwa] 사이좋게 오려줄게!|I'll Cut You Together!
+836||(ulepszenie 1) — opis] [BeforeAttack] [BloodScissor] 단계에 비례하여 공격 가중치 +1\n[WhenUse] [BloodDinner]을 최대 100 소모하여, 소모한 [BloodDinner] 10당 [BloodScissor] 1 얻고 정신력 3 회복\n[EndSkill] [BloodScissor] 10 소모|[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor]\n[WhenUse] Consume up to 100 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If target has 6+ [Laceration], Clash Power +2\n[EndSkill] Consume 10 [BloodScissor]
+839||(ulepszenie 1) — moneta 1, efekt 3 — opis] [WinDuelAttack] 대상의 [Laceration]을 발동시킴 (최대 10). 대상의 [Laceration] 횟수 1 감소|[WinDuelAttack] Activate the target's [Laceration] (max 10). The target loses 1 [Laceration] Count
+846||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [BloodScissor] 단계에 비례하여, 피해량 +40% (최대 120%)|[OnSucceedAttack] Deal +40% damage for every [BloodScissor] Stage (max 120%)
+847||(ulepszenie 1) — moneta 4, efekt 2 — opis] [EnemyKill] 이 코인 효과로 처치했다면, 처치한 대상에게 가한 피해량의 50%만큼 회복함.|[EnemyKill] If this Coin effect killed the target, heal by 50% of the damage dealt against the killed target.
+848||(ulepszenie 1) — nazwa] 예의에 어긋나잖아!|How Discourteous!
+849||(ulepszenie 1) — opis] [DuelCounter]\n[WhenUse] [BloodScissor] 단계에 비례하여, 합 위력 +1 (최대 3)\n[WhenUse] 자신의 [Laceration] 5 당, 코인 위력 +1 (최대 3)|[DuelCounter]\n[WhenUse] Clash Power +1 for every [BloodScissor] Stage (max 3)\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 3)
+850||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 4 증가|[OnSucceedAttack] Inflict 4 [Laceration] and +4 [Laceration] Count
+851||(ulepszenie 1) — nazwa] 아름답지 않은건 필요없어!!|I Don't Need Ugly Things!!
+852||(ulepszenie 1) — opis] [CantChangeTarget]\n현재 체력 비율이 가장 낮은 대상 우선 공격|[CantChangeTarget]\nPrioritizes targets with the least HP percentage
+853||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 체력이 30%이하면 처치|[OnSucceedAttack] If the target is at 30%- HP, kill the target
+854||(ulepszenie 1) — moneta 1, efekt 2 — opis] [EnemyKill] 처치한 대상의 최대 체력 30%만큼 [BloodDinner] 증가|[EnemyKill] Increase [BloodDinner] by 30% of the defeated enemy's max HP
+855||(ulepszenie 1) — moneta 1, efekt 3 — opis] [EnemyKill] 다음 턴에 [Vulnerable] 4 얻음|[EnemyKill] gain 4 [Vulnerable] next turn
+856||(ulepszenie 1) — nazwa] 경혈식 찌르기|Hardblood Stab
+858||(ulepszenie 1) — nazwa] 경혈식 베어내기|Hardblood Cleave
+859||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 8 이상이면, 피해량 +20%|[WhenUse] If target has 8+ [Laceration], deal +20% damage
+862||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration]이 6 이상이면 [HardenedBlood]을 1 얻음|[OnSucceedAttack] At 6+ [Laceration], gain 1 [HardenedBlood]
+864||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8, [BloodScissor] 1 얻음.|[OnSucceedAttack] Gain 8 [Laceration] and 1 [BloodScissor]
+865||(ulepszenie 1) — nazwa] 경혈식 강화 베어내기|Hardblood Powercleave
+866||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +1\n[HardenedBlood]당 피해량 +5% (최대 25%)\n[EndSkill] [HardenedBlood], [BloodScissor] 전부 소모|[WhenUse] If target has 6+ [Laceration], Base Power +1\nDeal +5% damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]
+867||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count
+868||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 (대상의 [Laceration])%만큼 체력 회복 (최대 20%)|[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)
+870||(ulepszenie 1) — opis] [WhenUse] 자신의 [HardenedBlood] 1당, 기본 위력 +1|[WhenUse] Base Power +1 for every [HardenedBlood] on self
+871||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] [Laceration] 2 부여|[OnSucceedAttackHead] Inflict 2 [Laceration]
+872||(ulepszenie 1) — nazwa] 경혈식 쐐기|Hardblood Wedge
+874||(ulepszenie 1) — nazwa] 경혈식 가르기|Hardblood Chop
+875||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 4 이상이면, 피해량 +10%|[WhenUse] If target has 4+ [Laceration], deal +10% damage
+881||(ulepszenie 1) — nazwa] 경혈식 강화 가르기|Hardblood Powerchop
+882||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 횟수가 6 이상이면, 기본 위력 +1\n[HardenedBlood]당 피해량 +5% (최대 25%)\n[EndSkill] [HardenedBlood], [BloodScissor] 전부 소모|[WhenUse] If target has 6+ [Laceration] Count, Base Power +1\nDeal +5% damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]
+888||(ulepszenie 1) — nazwa] 축제야 축제!|It's a Festival, a Festival!
+891||(ulepszenie 1) — nazwa] 옷 입혀줄게|Let's Dress Up
+892||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 피해량 +20%|[WhenUse] If target has 6+ [Laceration], deal +20% damage
+893||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+894||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, [HardenedBlood]을 1 얻음|[OnSucceedAttack] If target has 5+ [Laceration], gain 1 [HardenedBlood]

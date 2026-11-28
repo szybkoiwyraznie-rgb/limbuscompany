@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=863001].desc": {
+      "pl": "jeżeli Szybkość tej jednostki jest większa niż celu, zadaje +10% obrażeń za każdy punkt różnicy Szybkości (maks. 30%)\njeżeli Szybkość tej jednostki jest mniejsza niż celu, zadaje 10% mniej obrażeń za każdy punkt różnicy Szybkości (maks. 30%)",
+      "kr_sha256": "dee905b9e87dd78c7c0afe147461a43e271148838f26f157a8673b564f1abeea",
+      "en_sha256": "923706032b6face191d7436e889ce0d8cad1b6f4c69509a15e566c4c7a3ce235",
+      "origin": "ai"
+    },
+    "dataList[id=863001].name": {
+      "pl": "Walka Wręcz",
+      "kr_sha256": "8d48200582edabe5b9674fff03c42905796e2ba13214ab978828755d43040693",
+      "en_sha256": "e5e8c7833f6074c6319801d9cd14b31f04e4151dd05e4d6ad91bbfdea4e899a1",
+      "origin": "ai"
+    },
+    "dataList[id=863002].desc": {
+      "pl": "Minimalna i Maksymalna Szybkość +1 za każde 5 [Breath] (maks. 4)",
+      "kr_sha256": "106f8bb9f8713182196a08905aaaa4145d525cfc757d50187a0591f4cb5bc014",
+      "en_sha256": "16139ac932b5e6eda31371345880bbc3638fe1b28c352dbcd390762a0ea0649f",
+      "origin": "ai"
+    },
+    "dataList[id=863002].name": {
+      "pl": "Szarża",
+      "kr_sha256": "4f98c06be3a21b9bdd2315b641c64d6e2f3cfab13d21516abc46bf26468ec9c4",
+      "en_sha256": "7195caf836b01f4af8b49681eca5924b0806c1766247234bb832000009a82043",
+      "origin": "ai"
+    },
+    "dataList[id=863003].desc": {
+      "pl": "przy 75%- HP, zmienia wzorzec\nprzy zmianie wzorca przywołuje G Corp. Head Manager i Downcast Veteran; następnie nakłada Napiętnowanego na cel z najniższym aktualnym HP\n- Minimalna i Maksymalna Szybkość tej jednostki wynosi 1.\n- zyskuje 300 HP Tarczy.",
+      "kr_sha256": "a42df91b329c119518ccde3803edbf15837e4a32de4e279e50bd3043bc4374bf",
+      "en_sha256": "688c4524a0f66aea2ae6e4399f022bbb6a6aac36cdc7c66cfd44af65a7340e2c",
+      "origin": "ai"
+    },
+    "dataList[id=863003].name": {
+      "pl": "Summon Targets",
+      "kr_sha256": "1f0303b4de29f67d4879ea97accea388ab152327b4697b8e7b1760515201546d",
+      "en_sha256": "6f8af9e1ed9b8bf14625c79374022bfa96226a68c4f7d232902de5ba609aee0c",
+      "origin": "ai"
+    },
+    "dataList[id=863004].desc": {
+      "pl": "przy użyciu Wystrzału Wskazanego Celu: wśród celów z najniższą Szybkością, nakłada [FellBulletMark] na cel z najniższym aktualnym HP",
+      "kr_sha256": "5137488ea214ef4e0cb4295e4cbf39983438340833c912ce6438ba5913f289bf",
+      "en_sha256": "2205b85c20a9d43adcd4e2aaf26b7d2736b277bb6ed6cfc5d62c244c718502f8",
+      "origin": "ai"
+    },
+    "dataList[id=863004].name": {
+      "pl": "Wskazanie Celu",
+      "kr_sha256": "4f306a14096115226395696bc0e843f092bdff6f30f4b9c97355580f28adf05c",
+      "en_sha256": "d8e71032b725ade3580e62f80395b91d91fa3223b1e7fe27a3510f587cdb835a",
+      "origin": "ai"
+    },
+    "dataList[id=863101].desc": {
+      "pl": "gdy jednostka ginie od Der Fluchschütze, nakłada na Der Fluchschütze 1 [Agility], 1 [Enhancement] i 2 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "01f8043f259eadd1c63f360fdb48686d2500a7f6058eb00c8ebfb9b1f9805e03",
+      "en_sha256": "b9ed7ddd5050eca60b9ac61f10ca1ffa17e3a4b03b3377ad205a4229566ca02a",
+      "origin": "ai"
+    },
+    "dataList[id=863101].name": {
+      "pl": "Designated Execution",
+      "kr_sha256": "5ea7e5f301db45e0b8a407166c788689e5c656e757b297cbe15d653bc5954e6e",
+      "en_sha256": "a3e70fa97da3e3195e5a98ef79cdf0f5acabaa2ff3d62536375707808b0aa336",
+      "origin": "ai"
+    },
+    "dataList[id=863102].desc": {
+      "pl": "gdy jednostka ginie od Grzesznika, daje 3 zasoby E.G.O atrybutu Umiejętności, która ją zabiła",
+      "kr_sha256": "ecfaaf25888463f3c1482d7f8bb716a5fc41edfd3a8babaaf55f3644bb0a714e",
+      "en_sha256": "6a90d2b4f05cf3dcc160d1b120cf6c411467d05638a06dd6010b2bb7e63c58a1",
+      "origin": "ai"
+    },
+    "dataList[id=863102].name": {
+      "pl": "First Strike Wins",
+      "kr_sha256": "38e6de3d5f05a53e246feb2567888d44ba124415b839869467a0624d99c4a5a1",
+      "en_sha256": "6a5f0d913d78bf938f6ad06af056c39a34dba7a6b823bcd479db95666c98ed37",
+      "origin": "ai"
+    },
+    "dataList[id=863103].desc": {
+      "pl": "jeżeli jednostka nie ma Napiętnowanego na początku walki, zyskuje 300 Tarczy.",
+      "kr_sha256": "cfdfea47276c8303bbabf27df3c57880f5547cec292c6c6cdf70e9cc4d23092a",
+      "en_sha256": "ee42f0180769a7c792457c0e5d28586bb7f8c6b35f14f45a35d6278558c8371f",
+      "origin": "ai"
+    },
+    "dataList[id=863103].name": {
+      "pl": "Not Me",
+      "kr_sha256": "275d990715b3febce8d88b4a66189bbb9fd7e1747d0fbb30c6cd9af7f031af40",
+      "en_sha256": "1a77138de0a5b9fe40f635effaf177032035514172bcae8a8152f4d0667e5f66",
+      "origin": "ai"
+    },
+    "dataList[id=863201].desc": {
+      "pl": "na początku pierwszej tury, w której pojawił się „Sleeping Bag of a Bygone Day”, zyskuje 10 Siły [Breath] i +10 Licznik [Breath]\n\nna koniec tury, jeżeli Siła [Breath] lub Licznik [Breath] jest niższy niż 10, zużywa HP Części-Głowy równe 2% Maks. HP Core, by zyskać 5 [Breath] i +5 Licznik [Breath] (ten efekt nie może zniszczyć Części ani pokonać jednostki)",
+      "kr_sha256": "a1ca119eb9828ea6c32acdb18cbb37e743f881c00a11826faad663c2e4daffad",
+      "en_sha256": "eeec44041332ed0a5d90c64de365cad40919faad327e8bac2e7a28213ab410bf",
+      "origin": "ai"
+    },
+    "dataList[id=863201].name": {
+      "pl": "Oxygen Supply",
+      "kr_sha256": "42b406eeb8368928f6063f3ba1a49b003bc0f79bd2d4f8a490d12741daae5955",
+      "en_sha256": "23726c20268e231ed86e2a88ea988e62fed0ef3713709777d81ff6298ac79a08",
+      "origin": "ai"
+    },
+    "dataList[id=863202].desc": {
+      "pl": "mnoży szansę trafienia krytycznego z efektów [Breath] x 1.5\n\nprzy trafieniu krytycznym:\n- przy 15+ Siły [Breath], zużywa do (Siła [Breath] / 5) Siły [Breath], by zadać +(zużyta Siła [Breath] x 4)% obrażeń krytycznych\n- przy 15+ Liczników [Breath], zużywa do (Licznik [Breath] / 5) Liczników [Breath], by zadać +(zużyty Licznik [Breath] x 8)% obrażeń krytycznych",
+      "kr_sha256": "857d0ef57f960b20631dbb184f5906c90beeb5619bd95fc1359d03800b3434ce",
+      "en_sha256": "3557c36a51cee176146a49a22ec1048f7769c2346cdf5d42ac17257b5d088665",
+      "origin": "ai"
+    },
+    "dataList[id=863202].name": {
+      "pl": "Głęboki Wdech",
+      "kr_sha256": "83337333dafa5d66eeb4bc6939edccd18de9c870bded1e2955aafa43e7f8d619",
+      "en_sha256": "8f8d76b7e801d45220934647817151e1cd466b866ffc97611dc4f02830177a6b",
+      "origin": "ai"
+    },
+    "dataList[id=863203].desc": {
+      "pl": "w turze użycia „That's... Mine!”, Szybkość tej jednostki zostaje ustalona na 1. na początku tury nakłada 6 Siły [Breath] i +6 Licznik [Breath] wszystkim jednostkom na scenie.\n\nna koniec tej tury zużywa cały nadmiar Siły [Breath] i Licznika [Breath] powyżej 5 Siły i 5 Licznika; następnie na początku następnej tury nakłada tyle samo Siły [Breath] i Licznika [Breath] na Część-Głowę",
+      "kr_sha256": "042040aaff8266b7f54c97d93a252e1359d43ed78f4c531797d932a54efac27c",
+      "en_sha256": "7dac2a3a62cfa318686b86f855206c43aba7cbabd2db83c1c57038a369fd00bd",
+      "origin": "ai"
+    },
+    "dataList[id=863203].name": {
+      "pl": "Oxygen-saturated",
+      "kr_sha256": "46cdc6d3a46ef340392a97f0a9d859e0e7d56105b34a881f127ef4c98bd951a7",
+      "en_sha256": "33aeff45639b03c13f8b49da0aed702f28bc39851e6ed7cc12ab80756df83275",
+      "origin": "ai"
+    },
+    "dataList[id=863204].desc": {
+      "pl": "gdy Część-Korpus zostaje zniszczona, w następnej turze Korpus znika, a jego miejsce zajmuje Część-Człowiek",
+      "kr_sha256": "8a9c5e055bdb5a376af966c1f16763d01ab7dfa28a8e34fc760051c02cd9b096",
+      "en_sha256": "d3b8b14242f57ac5bfefb5343219cf91b5dd18453a6dd25220b7c4254bdc48b3",
+      "origin": "ai"
+    },
+    "dataList[id=863204].name": {
+      "pl": "Shattered Ribcage",
+      "kr_sha256": "d1ecf3331a9f6fe32ec9c61b5dd79a6a672499bb024e9d1958275ce7d3963c3e",
+      "en_sha256": "0e7b123819e0776a8ed4ae71b818f435af200246cc032567cf0408923810fa77",
+      "origin": "ai"
+    },
+    "dataList[id=863205].desc": {
+      "pl": "na koniec walki, Siła [Breath] i Licznik [Breath] Części-Człowieka maleją o połowę\nw następnej turze Część-Człowiek znika, a jej miejsce zajmuje Część-Korpus",
+      "kr_sha256": "97af9158d8074db836d4d8f8efe244497224b674f89d76a3ceecc66f54781f56",
+      "en_sha256": "eda9362f92c6bc2cc7039d8619a2766890073218a3ed917e901974a1690b407a",
+      "origin": "ai"
+    },
+    "dataList[id=863205].name": {
+      "pl": "Ribcage Regeneration",
+      "kr_sha256": "7330fa44b3245d04d26a35a6501155e06b5a05b3d583636103f7facf583abaa6",
+      "en_sha256": "6bb088acb00017d3544a7a09f3273f4a86e54a35f5ddbf8738286310d6bf90c5",
+      "origin": "ai"
+    },
+    "dataList[id=863206].desc": {
+      "pl": "za każdą przegraną w Starciu z przyjęciem trafienia, traci 1 Siłę [Breath]\n\nza każde trafienie atakiem bez kontr, traci 1 Licznik [Breath]\n\nSiła [Breath] i Licznik [Breath] tej jednostki — niezależnie od trafień krytycznych i aktywacji pasywki — nie spadają poniżej 5",
+      "kr_sha256": "803425ef384d10d1151e88043f01300372ac218e4be8f5cef125a84bf2510ffe",
+      "en_sha256": "f44959b5aa7e5377730046efb7039bdf491f403cf73bafe3084866c7115bd9fe",
+      "origin": "ai"
+    },
+    "dataList[id=863206].name": {
+      "pl": "Excruciating Suffering",
+      "kr_sha256": "8f806241cb15c35fd1c1f64158071d20ef236307bf07b4acc7ccc8d79a242619",
+      "en_sha256": "f396aa3d31e738318e5327bae4b807eac6e639b429426d5022b3bfd9d61ad912",
+      "origin": "ai"
+    },
+    "dataList[id=863207].desc": {
+      "pl": "przy 40% lub mniej HP Core, w następnej turze używa „Share the Pain”",
+      "kr_sha256": "44ac4fd24e4160bbd5d7c82b128e86cb504f25583f617fbcb9f9ab62450360b6",
+      "en_sha256": "862f3c0d41e0142ad84ab8f87b9d971c6c9748e502388791c0e5758dc4a5e81f",
+      "origin": "ai"
+    },
+    "dataList[id=863207].name": {
+      "pl": "Anguished Screaming",
+      "kr_sha256": "78c346d033ff1a62023761e575ece1f1a4fbf5908caf6fd584e425c436ca2f1f",
+      "en_sha256": "b89ec21bab6e434bb8d55fd8cb8fba993e78424270628ecad5888f55bf37f551",
+      "origin": "ai"
+    },
+    "dataList[id=863208].desc": {
+      "pl": "gdy Człowiek ginie, Część-Korpus i Część-Głowa zyskują +0.2 Odporności na Cięcie, Przebicie i Uderzenie do następnej tury (raz na walkę)",
+      "kr_sha256": "bc1bb0a15b9ade76f781c73d3273a507e1a4ec884e600e85828d34f8a974320d",
+      "en_sha256": "b05a5675a35f5856e457bad74361506992e44e9a759e24bd9be0b57b28c765ab",
+      "origin": "ai"
+    },
+    "dataList[id=863208].name": {
+      "pl": "After Effect",
+      "kr_sha256": "8f62b0a3458d8c5db0bbebed7a636becd72226da868f9da396a87483e424acdc",
+      "en_sha256": "0a027f37ca31c69c3603bdd5dd62526fd6a5ac6fe89340ea8aac7b05c74ac337",
+      "origin": "ai"
+    },
+    "dataList[id=863301].desc": {
+      "pl": "na koniec tury, przy 20+ [BloodDinner], zużywa do 50 [BloodDinner] i przywraca Core i Części-Głowie HP równe zużytemu [BloodDinner]\n- nie uruchamia się, jeżeli Część-Głowa jest Oszołamiona albo zniszczona",
+      "kr_sha256": "36422bdde3f177f93cc7c66af6e9a8f1f09595326d1c669eaad2db5e6826f475",
+      "en_sha256": "1ea35db3f81552e1e8a4ee1c66161f3e648bc0e70d8d6009022812346f9567a2",
+      "origin": "ai"
+    },
+    "dataList[id=863301].name": {
+      "pl": "Indulgent Petals",
+      "kr_sha256": "dfda59e42027b565c9bf29267f1624390afe22a612ca2cf6062bac2f9346f303",
+      "en_sha256": "6373272006fb7d42f22d064fdd75a72bacd2f924e4002c574dbe205ce6af04ca",
+      "origin": "ai"
+    },
+    "dataList[id=863302].desc": {
+      "pl": "na koniec ataku, przywraca Core i Części HP równe obrażeniom zadanym przez Umiejętność ataku tej jednostki\n- nie uruchamia się, jeżeli Część-Głowa jest Oszołamiona albo zniszczona",
+      "kr_sha256": "c5f437c89042eed0a13c5c056a0d62e0f24e030b579159d643b4864c246f7cb8",
+      "en_sha256": "6f33e40eaacaeab7cbc6a4248fe7ca0fc3acb2a5f0d65277d8acf9bb46624426",
+      "origin": "ai"
+    },
+    "dataList[id=863302].name": {
+      "pl": "Kropla Pożywienia",
+      "kr_sha256": "e5c979217ba811f2c812aa4df96dc9104945e503cf76ba581bc94db9afee0b47",
+      "en_sha256": "1a233930f80e192dc3ff614218943c28344ff346688739bfcc0bf8a02e82fa48",
+      "origin": "ai"
+    },
+    "dataList[id=863303].desc": {
+      "pl": "na koniec tury, jeżeli jednostka przywróciła HP, zyskuje 1 [AttackUp] i 1 [DefenseDown] w następnej turze za każde 10 przywróconego HP (maks. 10)",
+      "kr_sha256": "a7cc1368048344a63d993c366d42ad56ee3efd3c9fe19b0d2d66d278828ac4a7",
+      "en_sha256": "f103e6e52603350925e084700735d14d127c63503905a21a405caa0c46a1e0db",
+      "origin": "ai"
+    },
+    "dataList[id=863303].name": {
+      "pl": "Yearning",
+      "kr_sha256": "4ffae691c4711120f5a6fd1a526ad7d3080061bd6fe2a7a554e2eb99ce47d6bf",
+      "en_sha256": "3363c8f4b4679de8da9a439120367266040a4dda6279eb08a6ab75bb8c7fe24a",
+      "origin": "ai"
+    },
+    "dataList[id=863304].desc": {
+      "pl": "przy 100+ [BloodDinner], używa specjalnej Umiejętności\nna koniec tury, jeżeli [BloodDinner_Accumulation] tej jednostki wynosi 500+ albo HP jednostki jest niższe niż 60%, zmienia wzorzec",
+      "kr_sha256": "2c16fda9bd73b3974b9ca8e3c778355bbf47854ac279da31fc260fb7e652acd2",
+      "en_sha256": "38f0bd9ba928696352157652c7bd6a9a347d33118bfb52269ff5f42603bf32f7",
+      "origin": "ai"
+    },
+    "dataList[id=863304].name": {
+      "pl": "Bloodthirsty Stench",
+      "kr_sha256": "0b7d27b3d6e05c37da2ac51b32c20d22ff922dc04d98bac2e55c6c0d6fc3aa66",
+      "en_sha256": "54e6167ce18c2ce52127e52e3fb7dc04ea8dadae0ce22cbc8060a47a31e1a995",
+      "origin": "ai"
+    },
+    "dataList[id=863305].desc": {
+      "pl": "[Combustion], [Laceration], [Vibration], [Burst] i [Sinking] kumuluje Siłę do maks. 50 (w tym Szczególne warianty powyższych Słów kluczowych)",
+      "kr_sha256": "7a322d7a8086baf4c90633e8753e9d55d10c441f854460008e9e27dbd7f7919e",
+      "en_sha256": "9f4aad0ece032e579ed2ebc3057360ef8a42a612846c5bc6771525581489eedd",
+      "origin": "ai"
+    },
+    "dataList[id=863305].name": {
+      "pl": "Załamany Grzech",
+      "kr_sha256": "dea30bcc9add22c0fab93d0b60b6373fc84042d89be36b4c9ff4cc7d901d46df",
+      "en_sha256": "9f8de9a9d9fbff71a2bd13aacc430d84c2fde4a260d7e829c75f5ea2141e9cb2",
+      "origin": "ai"
+    },
+    "dataList[id=863306].desc": {
+      "pl": "gdy Część-Korpus tej jednostki przyjmuje obrażenia od Umiejętności wroga, nakłada +1 Licznik [Laceration] na atakującego (1 raz na turę na Osobowość)",
+      "kr_sha256": "68f443068732b6879fa7ecddfc973579bd580c283958915e4d6c79f3df69045a",
+      "en_sha256": "ec6931d6ee9956828c3351234999bfc1d638099c0a98f699f6957210b4342173",
+      "origin": "ai"
+    },
+    "dataList[id=863306].name": {
+      "pl": "Sharp Thorn",
+      "kr_sha256": "1193d5b8cb4cc14e0c2c8a919ebf222189352503c7750068c4eac995650393c6",
+      "en_sha256": "986d9f6535006a9688732b3c1504d42635a34b394697471d31e537752af0dd44",
+      "origin": "ai"
+    },
+    "dataList[id=863307].desc": {
+      "pl": "na początku tury, zyskuje 1 [DefenseDown] za każde 100 [BloodDinner_Accumulation] tej jednostki (maks. 10)\nna początku tury, zyskuje 1 [TakeHpHealIncrease] za każde 200 [BloodDinner_Accumulation] tej jednostki (maks. 5)",
+      "kr_sha256": "dc2c39473390d3055607ad3baeb8640605ce048ad85ed52a775e2f3c46baba21",
+      "en_sha256": "06c74001a5980c7a121f6a693a069499a2864db17db7a443a005fa90e8583822",
+      "origin": "ai"
+    },
+    "dataList[id=863307].name": {
+      "pl": "Endless Thirst",
+      "kr_sha256": "d552ccab24dedd0c4f343343caaeb5ebda233ba21032ed4da7288cd199861c96",
+      "en_sha256": "2c76aecffb57877aed8a0b8f5547ab0c90e020e28f1715b3aeb6e9f665096c86",
+      "origin": "ai"
+    },
+    "dataList[id=863308].desc": {
+      "pl": "uruchamia Wydarzenie Wyboru co turę będącą wielokrotnością 3.",
+      "kr_sha256": "ebde646462576ac0d564e8aeda7fb49d067ba9d4def9e4f7f89458da0d966c5d",
+      "en_sha256": "1dae510201e30d3a5aea0b05b40f436f8a0fe454164487058cef09a43c8464f4",
+      "origin": "ai"
+    },
+    "dataList[id=863308].name": {
+      "pl": "Endless Yearning",
+      "kr_sha256": "e9eaa286e940de49f5fde12ad4d229799c77677a5d915f34ace872ff00b6d707",
+      "en_sha256": "2e4582123b57bc605b376ae4541ede519fb116b916fa79c4c6b9f13155de18a1",
+      "origin": "ai"
+    },
+    "dataList[id=863309].desc": {
+      "pl": "jeżeli od pojawienia się tej jednostki na polu minęło 9 tur, od następnej tury zyskuje 1 [AttackUp] za każdą turę po 10. (maks. 10)",
+      "kr_sha256": "bb44c3eefbb839d798353d18cc1efd81074fa812b6f5b19d7b5a1d17f7701c14",
+      "en_sha256": "1492cd7e2d937c6e82cd8425605e4f205a11357bc4eb9e9bc8943289121f1b9c",
+      "origin": "ai"
+    },
+    "dataList[id=863309].name": {
+      "pl": "Increased Refraction Rate",
+      "kr_sha256": "6ed11c1246bddb8f3ff1643aa9c75041c61cc20f78593347f81bc68544b3b029",
+      "en_sha256": "2c3e41756a3c14a164c23058791bdf66ed3d751aac7f3a35d516213166479e1a",
+      "origin": "ai"
+    }
+  }
+}

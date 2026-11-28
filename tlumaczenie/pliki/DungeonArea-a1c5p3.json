@@ -1,0 +1,70 @@
+{
+  "entries": {
+    "dataList[id=dungeon_1_5_0101].content": {
+      "pl": "Żołądek Wieloryba",
+      "kr_sha256": "1d5aab753b8229d719a5bc39ba90750de826bc1fdfbd7b23fa750841a40401b3",
+      "en_sha256": "3cd8b92c1034f43a9bd03eb12edbb6df29928841a602d57a12d0c7089fc471c4",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0102].content": {
+      "pl": "Miasteczko Pequod",
+      "kr_sha256": "e156f19bacc52a5d8cd57202623963adb2d9651d375f38cdea9825ddfc19879d",
+      "en_sha256": "7ae93f1d3206e9edd9d397e060eebae4398106513a1df1575b3b6e482da0fc68",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0103].content": {
+      "pl": "Gabinet Ahab",
+      "kr_sha256": "9386f69b45f0b56dc12aafdee6be84d5ee35e3bea68f9d9306b4f489e6f009cb",
+      "en_sha256": "0b2e7ead6b54a3d6ca8d7761c4f99f193938a3277cae0cbeee3fed5027ae3e63",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0104].content": {
+      "pl": "Droga ku Sercu",
+      "kr_sha256": "982d3d524bcac97adb679111348ca3ef222cd012e8a4d6c42233f9f5d2e9be87",
+      "en_sha256": "0e0c9245e269cda6e7de847921068d3f275eeea5cee36bff0ec95e3e67a4d3fe",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0201].content": {
+      "pl": "Wyjście z Miasteczka Pequod",
+      "kr_sha256": "56214ac3b532fb536f010e9ebb37c2d784fccfc5337e1d69e34e67f9b391cea7",
+      "en_sha256": "d00929607ff7809d93564e6b8d4fe94b57afbc2c314cfec1891fc2caedb52a81",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0202].content": {
+      "pl": "Prawy Przedsionek",
+      "kr_sha256": "fccb4ad18fc0d1fa852e151f7e8e13f710900377bd1f42c457ca3c56b3406680",
+      "en_sha256": "1de9d29dcce2f6b38c93804ffdb28418b7e87bb4af0cc2e134235273247c7199",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0203].content": {
+      "pl": "Prawa Komora",
+      "kr_sha256": "c25513ee62fc4884a31a21e063e910915da6656e6d06e724e70cb9904ab08e88",
+      "en_sha256": "881da0c80d7aabf0c01f283ae38e7c29f1c876d0ed2a230f9a1fd9853c6466e0",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0204].content": {
+      "pl": "Most ze Ścięgien",
+      "kr_sha256": "c1acb9b1027bcc07bde5ddc544f97cabc1356dccbdb085bb5e0536f2f05ad3d1",
+      "en_sha256": "456952ece55b53675564dd593d74b8794dd84e7ee1a4538fb7d6cb488b4f6994",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0205].content": {
+      "pl": "Echo Bicia Serca",
+      "kr_sha256": "7243bd5793b19eabe673d2c3d47093bb904977843efbc7dbdf3b643c34658250",
+      "en_sha256": "fb057a92c940c5fbf3cb8c6999bc4cc8986af5313c485cdf42ac4731ada16acf",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0301].content": {
+      "pl": "Miejsce Zbiórki przed Sercem",
+      "kr_sha256": "2e02724a46d1cb28c328abfca3bb641cdbd4c07978f5e001a6f07f2099ae3f86",
+      "en_sha256": "5e1ececa9428c0ad8d32ebc87137ea13551693cc239f7d003c41ca2731728185",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_5_0302].content": {
+      "pl": "Serce Wieloryba",
+      "kr_sha256": "67746ee451d3b29f26691f2bc016f63e07bff4ee8d5918ac15331fad1a1451f2",
+      "en_sha256": "710f3f774da66b622c7deb6618ff179947c1e5283e21fa517a6f0901413775bb",
+      "origin": "ai"
+    }
+  }
+}

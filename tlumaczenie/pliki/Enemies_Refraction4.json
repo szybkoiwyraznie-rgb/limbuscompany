@@ -1,0 +1,208 @@
+{
+  "entries": {
+    "dataList[id=8280].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8280].name": {
+      "pl": "Załamane Peccatulum Zazdrości",
+      "kr_sha256": "a17e88bf5d93f297cc5601a0c5bb53cda38f0f43dca02e7feb9238c89f5461ca",
+      "en_sha256": "2ff17128e68734940a950b908456b647733eaeb623cc5ef156be1eda0c1dffdd",
+      "origin": "ai"
+    },
+    "dataList[id=8292].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8292].name": {
+      "pl": "Załamane Peccatulum Zazdrości?",
+      "kr_sha256": "43c648608edd9e5943c5769424a3d36788aa8774329af47d1ad5805b98356b60",
+      "en_sha256": "daebe2359b310829bc2aa01713736e51963d6060b57d149b6b5a89d90b83b739",
+      "origin": "ai"
+    },
+    "dataList[id=8605].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8605].name": {
+      "pl": "Załamany Portret Pewnego Dnia",
+      "kr_sha256": "5e422fecd1801a5eadd9d2ed90d2c56ff53563b314280a3bbc2b50d150547567",
+      "en_sha256": "acef2ed2eba8da547068ace4e6d671d0e2c6d53e30481ae6ff8eaabae089295a",
+      "origin": "ai"
+    },
+    "dataList[id=8606].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8606].name": {
+      "pl": "Załamany Portret",
+      "kr_sha256": "3b086f6e0cadfd6c6a3bd553e70bef9e07a98f8eca316d790d730d0b64cb8c66",
+      "en_sha256": "8573cdb22910c48ab917fcdd2ffe59441bc8bfd252c4c6f3aff3d62a8951868f",
+      "origin": "ai"
+    },
+    "dataList[id=8607].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8607].name": {
+      "pl": "Załamany Portret",
+      "kr_sha256": "3b086f6e0cadfd6c6a3bd553e70bef9e07a98f8eca316d790d730d0b64cb8c66",
+      "en_sha256": "8573cdb22910c48ab917fcdd2ffe59441bc8bfd252c4c6f3aff3d62a8951868f",
+      "origin": "ai"
+    },
+    "dataList[id=8608].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8608].name": {
+      "pl": "Załamana Śniąca Elektryczna Owca",
+      "kr_sha256": "0e5df4f7a744495afcac32f119be8e9d280a673ee5c338c895aa7273c5c4e6b0",
+      "en_sha256": "24d8a2f814479fe3626c1a605ae15259cbd132e2e55882544f767ebb66289c8b",
+      "origin": "ai"
+    },
+    "dataList[id=8609].name": {
+      "pl": "Załamany Wrogi Kamerdyner Wichrowych Wzgórz",
+      "kr_sha256": "82411cf84649635f522c37a73234daf306511700ef31bf8d21eb2a022c7649c3",
+      "en_sha256": "0ffd64e18a0d2b41991407c3847ff59cf04504638afdf724367d94b5aa2922bd",
+      "origin": "ai"
+    },
+    "dataList[id=8610].name": {
+      "pl": "Załamany Zahartowany Kamerdyner Wichrowych Wzgórz",
+      "kr_sha256": "d01395c6becfe35a216777914e4d9292c073ec30a6649357c2d27ca84e353f66",
+      "en_sha256": "d6418647b25625db285c0434bc2f5abe1734a4852d488d785dab7af9a3bdfd59",
+      "origin": "ai"
+    },
+    "dataList[id=8611].name": {
+      "pl": "Załamany Gibki Kamerdyner Rodu Edgarów",
+      "kr_sha256": "13daa20ca61654a313b3396a3cee1aab675189d551a8d869e6baa6419a626528",
+      "en_sha256": "84b09ed809b8eac71e5e42d3b64f6b0d97253213eee9c617f816980c506eb91b",
+      "origin": "ai"
+    },
+    "dataList[id=8612].name": {
+      "pl": "Załamany Żwawy Kamerdyner Rodu Edgarów",
+      "kr_sha256": "67f4ed5840ba4b78ffb3eb2897c888e6d5d8dc85ad77657b8a2bf73320b247e8",
+      "en_sha256": "433779c4ce26364c5041f8410072659e280b99ce9f54308d4d855a69709e3d05",
+      "origin": "ai"
+    },
+    "dataList[id=8613].name": {
+      "pl": "Załamany Doświadczony Kamerdyner Rodu Edgarów",
+      "kr_sha256": "f0760a91e9c27a6f84f64c59fbec4f85ee4efcdf960822fca27d2134b9e018f3",
+      "en_sha256": "277788b56f8204772f9a2a8edf8efeed5694ca32be7ff6c32c2d392017aa93f5",
+      "origin": "ai"
+    },
+    "dataList[id=8614].name": {
+      "pl": "Załamany Przebiegły Kamerdyner Rodu Edgarów",
+      "kr_sha256": "d01ae481af5e91f800425e4bea7aad003d10397f8b1f6ef989957d8f1247f042",
+      "en_sha256": "7805b55921c1d5f3d59d29ab704f2c4f9c750817029fa1465e4a813704f09886",
+      "origin": "ai"
+    },
+    "dataList[id=8615].name": {
+      "pl": "Załamany Wyćwiczony Kamerdyner Rodu Edgarów",
+      "kr_sha256": "7c018e0a38b3b9facd462868c7084af776024792cd16c1b776eae62fc03497a3",
+      "en_sha256": "dbb73b278c4091a17d4add0e7d907bea7b3faf600fc5e80728e4736eed2c44f2",
+      "origin": "ai"
+    },
+    "dataList[id=8616].name": {
+      "pl": "Załamany Doświadczony Kamerdyner Rodu Edgarów",
+      "kr_sha256": "f0760a91e9c27a6f84f64c59fbec4f85ee4efcdf960822fca27d2134b9e018f3",
+      "en_sha256": "277788b56f8204772f9a2a8edf8efeed5694ca32be7ff6c32c2d392017aa93f5",
+      "origin": "ai"
+    },
+    "dataList[id=8617].name": {
+      "pl": "Załamana Josephine",
+      "kr_sha256": "e4cd87e61c9bb80db8f2257d75b5e098447423c57b3d88c0213976b33c53699f",
+      "en_sha256": "4e22b4483a2ac18d85b3d11b47da70f9dfe1736ec0bd3b0afd23d8d508b78d9c",
+      "origin": "ai"
+    },
+    "dataList[id=8618].name": {
+      "pl": "Załamany Hindley, Rozxebrany Zawodzący",
+      "kr_sha256": "48e38e60d9f101fb2be4f60c24aec20e1d3a69f40809e19610af5e8210739321",
+      "en_sha256": "6d2edd88d12d48ce5040ebe83a7cb82bacf692506e280545248c7979d6fdcf8a",
+      "origin": "ai"
+    },
+    "dataList[id=8619].name": {
+      "pl": "Załamany Zdecydowany Członek Klanu Kurokumo",
+      "kr_sha256": "2050da3dc3d4c46fd372a08b0a36993b87b16b518c6bf51679abd0601c6097c4",
+      "en_sha256": "ba77377c63b4f523248bf626e314850ad6bd5156e95cd62116a9f246ab93ef8a",
+      "origin": "ai"
+    },
+    "dataList[id=8620].name": {
+      "pl": "Załamany Napięty Członek Klanu Kurokumo",
+      "kr_sha256": "7b6c550a7bf287809f3f7d87f384b5f870ea78fd920f50f8779a050d3b56f2c2",
+      "en_sha256": "1e2fc2bddc6e92457ccffb899491c36b44132cff0691fbbdfc56540668a78a52",
+      "origin": "ai"
+    },
+    "dataList[id=8621].name": {
+      "pl": "Załamana Biegła Członkini Klanu Kurokumo",
+      "kr_sha256": "9cf0d7751ac1f14e5ec35298a364b13dfe5060d0e7d05773106b7e76744a71df",
+      "en_sha256": "2371a9b28f5149a8f289edf0a7cb4408dbca0063449abf95824603e8c21bf5d1",
+      "origin": "ai"
+    },
+    "dataList[id=8622].name": {
+      "pl": "Załamana Senna Członkini Klanu Kurokumo",
+      "kr_sha256": "ff0564a02ffa25457154eea15874df15ae9f22b2b08f2baf9920cb04c4ea9b97",
+      "en_sha256": "ca1c3d9434a96d55efa653ddeec43b184013f9c8567dd78931834a7bf3872bcc",
+      "origin": "ai"
+    },
+    "dataList[id=8623].name": {
+      "pl": "Załamany Jun, Kapitan Klanu Kurokumo",
+      "kr_sha256": "2e49fa4d6fbe38ffc91b02286564f5cb49e40173fdcc98c4f860af7faf1b3c66",
+      "en_sha256": "5f731a8af0c06f10139c886b5020f47265f6d27857a7f82b5f48acbe02ed210f",
+      "origin": "ai"
+    },
+    "dataList[id=8624].name": {
+      "pl": "Załamany Zachwycony Badacz Serdecznego?",
+      "kr_sha256": "3e9d7ac531e0cd530c95030e3ddc2f91f83e1243d7d65dc3d09e7e55b9e17923",
+      "en_sha256": "84912d8070ae8f1c1e03db3a2fde3260d1e8834c08955a6d981638dd466cf894",
+      "origin": "ai"
+    },
+    "dataList[id=8625].name": {
+      "pl": "Załamany Obłąkany Badacz Serdecznego?",
+      "kr_sha256": "81df725f020cdeb502d29fc73cbbfe0f68ac3377bee08a778c36ef536d7ab4ae",
+      "en_sha256": "090cfee2f3eb6e3d8b7e375d4fe072b4336ea80e4e5efa31fe3026a1d5759f75",
+      "origin": "ai"
+    },
+    "dataList[id=8626].name": {
+      "pl": "Załamany Punktysystyczny Badacz Serdecznego?",
+      "kr_sha256": "a5e8383b3ac38655055a99683597c08aed06241fbdad1d08a9765c851472f2e4",
+      "en_sha256": "02c34ede22ea87086db99e36c44d10ede5efb781a611aec6e0b231ec8215d8dd",
+      "origin": "ai"
+    },
+    "dataList[id=8627].name": {
+      "pl": "Załamana Nelly",
+      "kr_sha256": "d6cfedb33b8554f06d6cc29ce54e2374ffd2afee86c129609465605a8bc4057c",
+      "en_sha256": "735540f84b0a0c4b2d9bf7c8448770eecfbed6ab5c1f7fa52964b4a8c6338472",
+      "origin": "ai"
+    },
+    "dataList[id=8628].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8628].name": {
+      "pl": "Załamany Generator",
+      "kr_sha256": "bbe9fe20959abd7a1ac929f566c1eac7948bd3cfd3c082adb85b2242d865489b",
+      "en_sha256": "391e3f9d0d8f4d107ada977d6697b3740855ea37604dab961bb3914b859cd7c5",
+      "origin": "ai"
+    },
+    "dataList[id=8629].name": {
+      "pl": "Załamany Król w Spętaniu",
+      "kr_sha256": "f3f2f92259417afa3b61b24803d97499c0367903bda1d8b43d0ef3dcd351b334",
+      "en_sha256": "79d81717c4923028afb42fad733a9fdb6303bc7d6ad2ec5caf4e575300386bb3",
+      "origin": "ai"
+    }
+  }
+}

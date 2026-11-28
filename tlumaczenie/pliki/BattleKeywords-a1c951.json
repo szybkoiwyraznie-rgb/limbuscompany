@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=AaCeSeBa].desc": {
+      "pl": "Na koniec tury zyskuje Licznika Oddechu równy (posiadany Oddech / 5) w następnej turze.\nZnika przy 0 Ładunku.",
+      "kr_sha256": "644bd1b0aaf52ef79e55653476b580677ac69442e973ed4619535e015ebd461e",
+      "en_sha256": "0a54891c2b2b8a942d64e439d8e060c36ba513c58854d288711c195ec8de4ec9",
+      "origin": "ai"
+    },
+    "dataList[id=AaCeSeBa].name": {
+      "pl": "HO! HO! HO!",
+      "kr_sha256": "03fae947b7761beea82bfbffb7d6d987c7b821407f9fc1a9f234edb65307018e",
+      "en_sha256": "02a9c79e94a6950c96b2c2feb62ade6edf978dd2268b4141d67d2c1317a1fab0",
+      "origin": "ai"
+    },
+    "dataList[id=AaCeSeBb].desc": {
+      "pl": "Zyskuje 3 Oddechu co turę.\nNa koniec tury odzyskuje 3 Poczytalności za każdą Umiejętność ataku, która zadała obrażenia",
+      "kr_sha256": "97667b6940fd63ff5ba1412058b1e0f401e1a64a9c5cd716c0053a138c91c02d",
+      "en_sha256": "3967499a9113ddbe35ccb60ca1cbbc8a5bb9fdb00531032d441f822a02284b2c",
+      "origin": "ai"
+    },
+    "dataList[id=AaCeSeBb].name": {
+      "pl": "Zapakuję Cię na Prezent",
+      "kr_sha256": "c32114df4bc8edb8ef27182eaed5983f34df2c51bb6fef5b8b03ec0045547d73",
+      "en_sha256": "673a8ff5e2fefbcb2647adb0d3f1c842ccb037d0b9a2fd6f4e715a662bafba7c",
+      "origin": "ai"
+    }
+  }
+}

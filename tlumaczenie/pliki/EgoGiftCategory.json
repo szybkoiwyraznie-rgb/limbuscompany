@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=Breath].name": {
+      "pl": "Oddech",
+      "kr_sha256": "83280f9bff4f4d7cb701f08d15a22fcd2de7b593bff3463fe584ce8bb77bfaa1",
+      "en_sha256": "87deb420627715ca6161f6dac27749ae29571c727317ae7f1b229ee64f995a28",
+      "origin": "ai"
+    },
+    "dataList[id=Burst].name": {
+      "pl": "Rozdarcie",
+      "kr_sha256": "ac357921c019ff11e7b60482d18a11b05ab4d836cff3ffb869e35519d3dbc388",
+      "en_sha256": "45ab2e3f28dc2a998a91a20f134145ba90d81ff41568475d64ead25238e24d00",
+      "origin": "ai"
+    },
+    "dataList[id=Charge].name": {
+      "pl": "Ładowanie",
+      "kr_sha256": "01de6fca3ec9d54ab901f983b4c115125301648cb571f70cfe5074dde2b26b86",
+      "en_sha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+      "origin": "ai"
+    },
+    "dataList[id=Combustion].name": {
+      "pl": "Podpalenie",
+      "kr_sha256": "447e879f7338c52cbc36bc8d47299a77648c96ab56e3168542b9a9044db1a2fd",
+      "en_sha256": "926c5b4314047434601585221956407b3818b5f1cda70febda6e25d04f204e4c",
+      "origin": "ai"
+    },
+    "dataList[id=Hit].name": {
+      "pl": "Obuch",
+      "kr_sha256": "035fbb69e1bf87792f1669179d16a1f7e2fc31c409d37ea6e2fee70b1028e877",
+      "en_sha256": "b0a4414c4c0f6056f6a14531145966e40c2daea00a867f264e95d5d1bca59c5f",
+      "origin": "ai"
+    },
+    "dataList[id=Laceration].name": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    },
+    "dataList[id=None].name": {
+      "pl": "Uniwersalny",
+      "kr_sha256": "d78b460441385ca06bb6b85394f8feea199bb96f96f1e8f82fc3966f52cd35c4",
+      "en_sha256": "e2a1dd91629d4bf845c7ee0dec69feb0d393c1ae482aa92e9bca5e04e10a0dd5",
+      "origin": "ai"
+    },
+    "dataList[id=Penetrate].name": {
+      "pl": "Kłucie",
+      "kr_sha256": "b1b6f9c01d5e9586d24aaadeb92a48f8ac9750a938cc88cf6ec6aa238d3e1cba",
+      "en_sha256": "712c62949e028a91e3967aa595c3fde29a772118d0e0fa5952f90b9bbf40f9fa",
+      "origin": "ai"
+    },
+    "dataList[id=Random].name": {
+      "pl": "Losowo",
+      "kr_sha256": "33715f0fbe13b89596c867b917c5dd7e53296cea0c29dc6a02f1ae57c04af0f9",
+      "en_sha256": "67bc484430fe87babe3c35d2ba4827d029f1c7e415a92de44885a9c88536661f",
+      "origin": "ai"
+    },
+    "dataList[id=Sinking].name": {
+      "pl": "Zatonięcie",
+      "kr_sha256": "591ac96bf0294f71a33366034b7a3607ec3655d4def40516b9c746e5b47a86a7",
+      "en_sha256": "1b3177af2bb09e265df0da55068e1acef48f8d87a46664a508c1fdff7ed342d6",
+      "origin": "ai"
+    },
+    "dataList[id=Slash].name": {
+      "pl": "Cięcie",
+      "kr_sha256": "3e16f277843fb0d235fb0793e2ef43a3807e8564df03421f3eba322c02dabde4",
+      "en_sha256": "9c92721ec67ac82c7a922abfd7e8c24c4fb666dce75cb1e0f875b30fdf3bcc4e",
+      "origin": "ai"
+    },
+    "dataList[id=Vibration].name": {
+      "pl": "Wstrząs",
+      "kr_sha256": "8b4519476f7d39b6e3aaa6029c2e06dd7d35b17040ccca042f3c224a3f34464e",
+      "en_sha256": "12b9e407bcba8980b6146c295ae39a3718b8b618ed7445ba1ccab22071c1cd04",
+      "origin": "ai"
+    }
+  }
+}

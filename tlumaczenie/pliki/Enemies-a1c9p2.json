@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=132201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=132201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1322].name": {
+      "pl": "The Pinky Nursefather - Shiomi Yoru",
+      "kr_sha256": "c38bcdd4966c8b30ce4aa8fec58e66bd74ea7112a744d07ffdaa34f83d8537df",
+      "en_sha256": "86551296e15a5779e55013b6d37ddbe88c147e444374fdd94c7c1cc0f1e43ce8",
+      "origin": "ai"
+    },
+    "dataList[id=132501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=132501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1325].name": {
+      "pl": "The Index Apprentice - Sora",
+      "kr_sha256": "8bc9a5b136e08ee91502d9cbaa8ce3732e92ccc8579e027c95c0e41ff1b7fb99",
+      "en_sha256": "afbb6e7419a63f3e8cc1d49698abbd9d3d9648435b5bc1bb402294b0007d312d",
+      "origin": "ai"
+    }
+  }
+}

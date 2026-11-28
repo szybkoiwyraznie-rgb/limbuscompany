@@ -1,0 +1,112 @@
+{
+  "entries": {
+    "dataList[key=D-2000-3].texts[#16].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#11].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#15].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#17].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#18].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#3].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#5].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#6].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2000-4].texts[#7].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-1].texts[#0].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-2].texts[#0].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-2].texts[#12].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-2].texts[#2].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-2].texts[#3].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-2].texts[#4].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-2].texts[#6].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D-2002-2].texts[#8].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D20200150].texts[#0].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=mission_ui_condition_tags_201003041].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze 5 lub wyższym, mając w składzie co najmniej 5 Tożsamości Sisyphe w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "40ab47f9c193196a4ce2444895b1b740dfe3283a61d33514db1688d0fa1b7073",
+      "en_sha256": "607bf6e3878de1fe232a2086dd082c761bb321eb6c963e7a7491e170e43a719e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003042].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze 5 lub wyższym, mając w składzie co najmniej 2 Tożsamości Kciuka w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "6df6d4b67c2b9ef3b2396880084b993a10598af2a4c0c344fa289bc98bdebac8",
+      "en_sha256": "6ae187d85ce5423d7aac1f2eb2434ebc39907be9921cc7008fd6225267a26d96",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003043].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Powrót Obżarstwa”, mając w składzie (bez liczenia rezerwy) co najmniej 3 Tożsamości Le Noir, w tym „Haute Couture::Menedżerka Marki Le Noir Don Quixote”",
+      "kr_sha256": "8a3afe9fbc19675205aceb05aaf9377987cd9020fcb0283cd509fe58fa7ee3c1",
+      "en_sha256": "b3ce6b4830260d3d65f6f203f759be724d420d52f18c22027816ecfa5d344d2a",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003044].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Wiara w Zachowanie”, mając w składzie (bez liczenia rezerwy) co najmniej 3 Tożsamości Le Rouge, w tym „Haute Couture::Szkarłatny Bóg Le Rouge Sinclair”",
+      "kr_sha256": "e3989de6ea01cbb6edace7f5ae1b53ca1d9f1da8b20f24271c6e416076374d0c",
+      "en_sha256": "6b94af920920c16a245e99a2e3df619cdb60aaf77f68e74eae0a165858d7f57c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003045].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Piekielny Kurczak”, mając w składzie (bez liczenia rezerwy) 2 Tożsamości: „Szef kuchni R.P.M. Ryōshū” i „Sous-chef R.P.M. Gregor”",
+      "kr_sha256": "fb1738560c963b4745cf8bfcd3653b7433c64fdd419f2b1a09ee0d22a6f05d6a",
+      "en_sha256": "bc30e8693897f03c0244b7da89f2b77bb6a43e1bde89ac866dccda356424884f",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003046].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „M.O.R.Z.E.”, mając w składzie (bez liczenia rezerwy) 4 Tożsamości Biura Trzonowca",
+      "kr_sha256": "d2e63f86bb94ff1f598409e5e4f5e5145e0d5d886129eeae89df0b50d79ce68d",
+      "en_sha256": "128a006ef8b598bc8b9bb034f43f38683a09965f17717a011752aaa4fcf31393",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003047].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze 5 lub wyższym, mając w składzie co najmniej 6 Tożsamości Fikserów z Biur lub Warsztatów w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "ea49f6745ca37b07d0b65006356916cbfeef2966a9f66e7a81aef5ed548a379a",
+      "en_sha256": "37299491ad9bc34943568627ed58fd60d84f4607fb2bbad254b24aa744e48000",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003048].content": {
+      "pl": "Pokonaj bossów Pakietów Tematycznych „Pełznąca Otchłań”, „Naznaczające Zło” i „M.O.R.Z.E. C.R”, mając w składzie (bez liczenia rezerwy) co najmniej 3 Tożsamości Pequoda, w tym „Kapitan Pequoda Ishmael”",
+      "kr_sha256": "ae3c56149dd2a83a0665ade91b58424ec91b418e99df069d393a460656ec71c1",
+      "en_sha256": "dd258d8f2a5ad850b1ed5b64c13d9f1729ddc6ca5bfc321b943299d940d277cd",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003049].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Oddam Ciało, by Złamać Ich Kości BokGak”, mając w składzie (bez liczenia rezerwy) co najmniej 6 Tożsamości Klanu Kurokumo, w tym „Kapitan Klanu Kurokumo Gregor”",
+      "kr_sha256": "41fd6018c3dfbcdf8cf1ed59fd68778933b810eb3164bde47af571bea31976ce",
+      "en_sha256": "11cd888f913c5a8f16c5e7b900c4fb94696dc1bd0f7b8b80cfa9fc729b64e45f",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003050].content": {
+      "pl": "Pokonaj bossów Pakietów Tematycznych „Kropka Postawiona Kulą”, „Oddam Ciało, by Złamać Ich Kości BokGak” i „Pamięć Doświadczenia”, mając w składzie (bez liczenia rezerwy) co najmniej 6 Tożsamości Rodu Ostrza, w tym „Mentor Rodu Ostrza Meursault”",
+      "kr_sha256": "cde4cecc240d16bedb194cd282e8eac350a45af7e782d7a5104a5c3392fa7773",
+      "en_sha256": "c58de3778706ccfe9bb20ff22b10651508b6b80b2a4bc448a201c69d50f0cb1b",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003051].content": {
+      "pl": "Pokonaj bossów Pakietów Tematycznych „Nocne Sprzątanie”, „Cztery Rody i Chciwość”, „Skazany na Patrzenie” i „Wiosenny Szlif”, mając w składzie (bez liczenia rezerwy) co najmniej 7 Tożsamości H Corp., w tym „Władca Hongyuan Hong Lu” i „Kandydatka na Głowę Rodu Ishmael”",
+      "kr_sha256": "fc651c875c14ec490623117380a76d8027f16dd5598212df3017a51aeb008785",
+      "en_sha256": "b606a22aa0cc1b410a6e0d4bbc9faf53ab28bbb5ae441399a12f68605dbdee98",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004011].content": {
+      "pl": "Ukończ Lustrzane Lochy, wydając {0} Kosztu na Dary E.G.O w jednej wizycie w Sklepie",
+      "kr_sha256": "5f5e345d8662115c3bc1a2c10726d1a20dd1401dabeb8d92cfe5457237e1cc59",
+      "en_sha256": "16a3c858e499d7e73e2d00e02b638356b693e10fb07adea1661c09d4845b8d37",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004012].content": {
+      "pl": "Ukończ Lustrzane Lochy, zdobywając łącznie {0} Kosztu ze sprzedaży Darów w Sklepie w jednym przebiegu",
+      "kr_sha256": "f4c434cff0b2b00d7aff91e20c7cd0414d476e23506270f1e6ec1448729f11dd",
+      "en_sha256": "02b87a542d66b2155900955fccb80787591b9ff90af1aabc01e34f8f8d4e6a22",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004013].content": {
+      "pl": "Ukończ piętro {0} lub wyższy Lustrzanych Loch, nie używając ani razu Odświeżenia ani odświeżania słów kluczowych",
+      "kr_sha256": "aaa53aa0330fe675cf2de1ef2261fe2efb97f511e4c4fda2b86398309c6905db",
+      "en_sha256": "ada68f19119a3162a1fe651d413e2b951e7dabc37b91afa912249539ac819e92",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004014].content": {
+      "pl": "Ukończ Lustrzane Lochy po łącznym {0} aktywacjach efektu Żetonu Rabatowego Darów E.G.O w jednym przebiegu",
+      "kr_sha256": "996cbac212a761d9637605ecdd9fa0a1f5329f9432ce041f3e67152d69f6784f",
+      "en_sha256": "4510fac74453dec73c6c51b1d93b9e76b97dd4ae5ccd55aee8626db7ce045480",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005014].content": {
+      "pl": "Spraw, by co najmniej 6 Tożsamości osiągnęło w jednej turze Szybkość 12 lub wyższą",
+      "kr_sha256": "f5a5b6dfa2756310370422847453b9fdcb3f3c2fbc7c59dc1df89adfb3052845",
+      "en_sha256": "f95f1205d91d795305ec2eda317e6b4c7903f1c182d253666393ba46b0101a42",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005015].content": {
+      "pl": "Zużyj w jednej turze Umiejętnościami ataku wszystkich sojuszników łącznie {0} lub więcej Licznika",
+      "kr_sha256": "f87670261975887fee541b7441888e2617c205f70040dd65095af77c6706ae33",
+      "en_sha256": "be22c874964ce3f72afd80e1262fb13388a2a3bb6c348bd7ee8284c55f5f7533",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005016].content": {
+      "pl": "Wygraj walkę, używając w niej {0} lub więcej razy Umiejętność wyłącznie Obrony Wsparcia",
+      "kr_sha256": "8c431b9781f7df87daeb0b47d39b5ed05853968113275d7d70031a4169489064",
+      "en_sha256": "8726f6d08feb3de859ceb9e3064eccf219e30b7d26921a80c29ad6819d73dbe2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005017].content": {
+      "pl": "Spraw, by jeden Skazaniec zdobył w jednej turze {0} lub więcej Tarczy",
+      "kr_sha256": "e7a0bafa1f324d343e6398d97330843787bd7ea165c41753f1c03ff4f2b4a7c5",
+      "en_sha256": "4fabfb61c5e43a5f1536e87b4e4753aa529f400e72ae3ef93de7109ff7e2d8e7",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005018].content": {
+      "pl": "Pokonaj {0} wrogów przez efekt „Karma” w walce z Anomalią „Forma, Którą Wypełnia Pustka”",
+      "kr_sha256": "61665aecf66d10f952809fd687b82edbf959f2f7be2d83ccd113e39273d74f62",
+      "en_sha256": "56f3362852bc82e1d57832002278b2c8506f024daa2dc9b868c473b858ecc8b5",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005019].content": {
+      "pl": "Wykonaj {0} lub więcej różnych Konwersji Amplitudy Wstrząsu na jednym wrogu w jednej turze",
+      "kr_sha256": "ae06a6c7fe399cc1f7767cd277e4ac34a49a5183f3d751266fc44381d096d338",
+      "en_sha256": "a2e93c3ce4acf1c0517d8059f40d15396855aea6e10ef16396310439705be547",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005101].content": {
+      "pl": "Ukończ piętro {0} lub wyższy Lustrzanych Loch bez Darów E.G.O Fuzji",
+      "kr_sha256": "ecc7a2a8ca96cc83ea119fdfc1db2879bf7ca28aaa92a18428c8b42d36267cd0",
+      "en_sha256": "99ce3171e4a61c46ba427d98d0d3912d9ddb5da243ba3758350a2ce8096145d6",
+      "origin": "ai"
+    }
+  }
+}

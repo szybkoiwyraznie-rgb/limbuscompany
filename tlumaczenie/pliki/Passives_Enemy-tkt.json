@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=9014201].desc": {
+      "pl": "na początku tury, jeżeli ta jednostka jest Oszołamiona, zyskuje +3 Licznika [TimeRentalTwo].",
+      "kr_sha256": "889e2ac5dc52063558ee7e48c26cd2fb1abd18c200469a37fb9f10bfa9d7f14c",
+      "en_sha256": "7021aa81fb0110f125e1016280219981438acfb32fefcb3afe70d44828486d4d",
+      "origin": "ai"
+    },
+    "dataList[id=9014201].name": {
+      "pl": "Emergency Time Loan",
+      "kr_sha256": "f528b3af5f14b6ee78faaf8003247103eb7653e03b5a2d14e0d5c4595bfb9439",
+      "en_sha256": "8ce5343d4bd0af97c1035d29cafe7ee89405792da585c39b5df81977d757db41",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].desc": {
+      "pl": "na koniec tury, jeżeli HP wynosi od 16% do 20%, natychmiast przywraca 60% Maks. HP i dochodzi do siebie z Oszołamienia. (maks. 1 raz)",
+      "kr_sha256": "d59ece71b0c4b1fb82043743e7e6d7c1440afc3b7f026d78f2b2d904089284f0",
+      "en_sha256": "b73ba1646e83c975bd48a8d2e808287476c46a6935a71980b1827ac2dc732ebf",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].name": {
+      "pl": "Golden Time I",
+      "kr_sha256": "9c87a049c65156d94f6071e2b23cd1b31c952907d7c2fff471c2a657dfeed15e",
+      "en_sha256": "9f2955a83f510d1d3bf5e990d0a2f5db5af194eaa1a0acffe94560beafcff4ac",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].desc": {
+      "pl": "po uaktywnieniu Golden Time, zyskuje 2 [Vulnerable] na początku następnej tury",
+      "kr_sha256": "aa3d05808c6f823f835da896715ddd4cd2fc39fce395d04beb119029199b7245",
+      "en_sha256": "10a04f51d52b431e740044cef812f7a1bc8366d6dc7a08b6f6f3633f8e0544d0",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].name": {
+      "pl": "Time Recoil I",
+      "kr_sha256": "8d5463bb3e916ba13b1760a40156e92a0ebfefb2a6ed277be828b3d92db665c6",
+      "en_sha256": "61ed770468760a0e75cdc363b7699b317e83f83cb29c28656f38541dfc043072",
+      "origin": "ai"
+    },
+    "dataList[id=9014204].desc": {
+      "pl": "na początku tury, jeżeli ta jednostka nie ma [TimeRentalTwo], zyskuje +5 Licznika Wstrząsu",
+      "kr_sha256": "9765516ae1e0693eac264bd251f8988d7866fca4b7b50c3eb74450e67cff1ff0",
+      "en_sha256": "1ec50aec59617c173d16dc727e81f8f61946c5673def59669680c9402852c777",
+      "origin": "ai"
+    },
+    "dataList[id=9014204].name": {
+      "pl": "Ready to Borrow Time",
+      "kr_sha256": "a494217edabb38fb2d326618eab46809621034a59d37cff1f2aca8b8d062f7f8",
+      "en_sha256": "36bbdab079c5e03de57b3f856f455ec7c91dc235cab6a9329327e7a9b155375c",
+      "origin": "ai"
+    },
+    "dataList[id=9014301].desc": {
+      "pl": "na koniec tury, jeżeli HP wynosi od 10% do 20%, natychmiast przywraca 80% Maks. HP i dochodzi do siebie z Oszołamienia. (maks. 1 raz)",
+      "kr_sha256": "5a4efa50a3a46d81829b5c90b267c78aeee8aed45e850f8d6e629b29947f7b3c",
+      "en_sha256": "0124c12ec862cbed3f683961c3fe06b0f6aa9e23e75ba8569a43f83ea0e6bbe4",
+      "origin": "ai"
+    },
+    "dataList[id=9014301].name": {
+      "pl": "Golden Time II",
+      "kr_sha256": "9d8574b69de977c95d7944db0621f0148df124a3ab4c6abe5a8648b1c680f96b",
+      "en_sha256": "0a53af0cb52cf0158fbb3f74a7be214cbad517b4354cc272c686bdc20163b41c",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].desc": {
+      "pl": "po uaktywnieniu Golden Time, zyskuje 3 [Vulnerable] na początku następnej tury",
+      "kr_sha256": "81c45c90e2375afc2223f7133013fb2b067bc2a089d4379028861a6d15fe6003",
+      "en_sha256": "e6d35eb2056693567cfed12fb5bdd0cee9df4ac11992f7a17eef1200e1d188d1",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].name": {
+      "pl": "Time Recoil II",
+      "kr_sha256": "e0b720cbb93a44349ce56ef973a3e531ab98b6c9662eb3d9727b7f39f317e7ec",
+      "en_sha256": "63b517be7eb04756f64a9ba73ead9948d8cd8f084025a16c50c4e4a781b817c6",
+      "origin": "ai"
+    },
+    "dataList[id=9014303].desc": {
+      "pl": "na początku walki: zyskuje +4 Licznika [TimeRentalTwo]",
+      "kr_sha256": "83f82764283d888bfa71477563043245be548bc7f503282293ef2e646049fd16",
+      "en_sha256": "04d99301cdd996d549fb42d79a82d10aa609ba2aed61d2c9b342c96cbb4b0171",
+      "origin": "ai"
+    },
+    "dataList[id=9014303].name": {
+      "pl": "Wypożyczony Czas",
+      "kr_sha256": "95171872520fb873df76db5551918f8e3c53e234543704204f5afdcc25f4c280",
+      "en_sha256": "f02a901f1eb249eb6e8403a1041d1c00f2e793c0b443d5021234c5a353da3461",
+      "origin": "ai"
+    },
+    "dataList[id=9101701].desc": {
+      "pl": "jeżeli cel staje się Oszołamiony od ataku tej jednostki lub [VibrationExplosion], wszyscy sojusznicy przywracają 10 Poczytalności",
+      "kr_sha256": "b8372dac75812dc861dbc747e874b1d4127369bf931c9b683f4fb6a9d68440e2",
+      "en_sha256": "795e4422ae80634f2b96cf784960f570b16c0a805819b3cd9c641e60c59eb471",
+      "origin": "ai"
+    },
+    "dataList[id=9101701].name": {
+      "pl": "Collective Achievement",
+      "kr_sha256": "a61f7b0b6a3a8564d322fa3c0f9a03fe0c24d42636011aa7e36f710cda82850d",
+      "en_sha256": "9082b2b81b38baf299672d887fc7f87ff4539ba32c0db7fe3e361058d0868c24",
+      "origin": "ai"
+    }
+  }
+}

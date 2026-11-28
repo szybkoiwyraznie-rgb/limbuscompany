@@ -1,0 +1,167 @@
+{
+  "entries": {
+    "dataList[id=CHAPTER_100].desc": {
+      "pl": "Byłem pośrodku czarnego lasu.\nNie pamiętałem ani powodu, ani przeszłości.\nMiałem tylko głowę zmienioną w zegar\ni autobus, który wyrwał się z lasu.",
+      "kr_sha256": "45c2d2e67f6b11069aa67008a38733c3968ee79685ac83184e255914d53669cd",
+      "en_sha256": "c337e176378eacbde9954d1a919c7c48e3cb1e22816bf6ccacb80934180a2072"
+    },
+    "dataList[id=CHAPTER_100].title": {
+      "pl": "Selva Oscura",
+      "kr_sha256": "b7969f1ea9ec9dcbd17e2d09b0fc8310a037df9633b8585b630b47fa29e6c33e",
+      "en_sha256": "0b6c48021b4bc8615fc80f35a42ad9d68bec517f5ad7befa429425bad06c6648"
+    },
+    "dataList[id=CHAPTER_101].desc": {
+      "pl": "Zostałem Kierownikiem.\nPrzewodnik kazał mi zdobyć gałąź,\na ja przytaknąłem.\nNie wiedząc,\nże to gałąź, która wyrosła w koszmarze.",
+      "kr_sha256": "44f4142c2645a3c648b787ad2b8a8d87f6a3331f6b768ecf63d260edea4986d8",
+      "en_sha256": "d24d65408c0e4ed4bbf1207a50edd28910857f5c4fbfc22d0478d1e77861ed3d"
+    },
+    "dataList[id=CHAPTER_101].title": {
+      "pl": "Nieprzynależny",
+      "kr_sha256": "5599ee30344196b39a3677af7ecf0a310c7407282aa0ef3374bc67fb39bcffcc",
+      "en_sha256": "70e752c2c53d0fb3eaa48b6026a9973522099fb767e15f19400ed1e521e76354"
+    },
+    "dataList[id=CHAPTER_102].desc": {
+      "pl": "Ktoś zagarnął Złotą Gałąź.\nPrzewodnik znów podał mi westchnienie i szansę.\nZ nadzieją, że tym razem się uda,\nruszyłem w świat uciech i lodu.",
+      "kr_sha256": "e58156251157b5a480d8a0bf47e2ba98b087fa7b03107297d6049503c662cb99",
+      "en_sha256": "c35035442f72b8c75f26210914cc9814a56860e130630c86f44a0c59322d49f8"
+    },
+    "dataList[id=CHAPTER_102].title": {
+      "pl": "Niekochająca",
+      "kr_sha256": "303b62dac16984cdf78237e07c61099b07afbeab7f707328591be03a47eae27d",
+      "en_sha256": "c53c617f0d57ea8ef98bc1b99dcc436f1172d9704e635827c67f614d8b5e3f98"
+    },
+    "dataList[id=CHAPTER_103].desc": {
+      "pl": "Kurtyna opadła nad wesołą, choć zimną komedią.\nŻe teraz nadejdzie tragedia,\nprzeczuwałem jak przez mgłę.\nAutobus zatrząsł się na wybojach.\nZa szybą widniała cicha noc.",
+      "kr_sha256": "b529d32f6afb8a1247a8868adc3f151839df8321c1fe221ee4c6a6056dd44939",
+      "en_sha256": "45776e3147839532c65a1d19454efccac5a986e7efc385818adc97c263b1d428"
+    },
+    "dataList[id=CHAPTER_103].title": {
+      "pl": "Unikający",
+      "kr_sha256": "6370159b1b48737cde78dbf21ac73de663f7f0173d4b506963eaa82041be9160",
+      "en_sha256": "7ad6dafcc3a7a31579c0cb70b991ce85e9b6b732b6cbf5f28cd1c647b9d1eba3"
+    },
+    "dataList[id=CHAPTER_104].desc": {
+      "pl": "Po raz pierwszy otrzymaliśmy prawdziwe zlecenie.\nRadosny nastrój prysł w mgnieniu oka, gdy w samym sercu Gniazda K Corp. rozpętało się piekło.\nCzas jak zwykle zostaje cofnięty, a mój wzrok przykuwają czyjeś spuszczone oczy.",
+      "kr_sha256": "7db91829710a2be61c395b0b5125c254d634ea449940fc6bca060d026c430c0b",
+      "en_sha256": "45dd9aacc4c30ab7b3ee36eef6446b7d0f133264c91e19508c82489ecee9a372",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_104].title": {
+      "pl": "Niezmienny",
+      "kr_sha256": "ab6c3940033ae7ea2fcd37b3b05767e20241f50d71223842d54245f66de24810",
+      "en_sha256": "820ac21e4afca4eb0b8ede260bcdca403d6eaca64a178d77634c64bcb19db266",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_105].desc": {
+      "pl": "Pośród sporu bez końca\nwypłynęliśmy łodzią na Wielkie Jezioro.\nW sam środek niepojętych Fal,\ntam, dokąd wiódł płomień czyjegoś gniewu.",
+      "kr_sha256": "0fe133fda04a6c76fe930f3f82eaf9b957e04294d891ad088fd92e2b8fdcc77a",
+      "en_sha256": "86f03b1710478ad40bec366786ea80dd331528ba1a5edd68cacf35b8acd7fdca",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_105].title": {
+      "pl": "Naznaczające Zło",
+      "kr_sha256": "49507d4dc9c4fcab7ef261127cca48339f52630331b3566dfcdf468b5c7f9601",
+      "en_sha256": "a83133b00078a1e03bcbcefec8eff4d745d6615d0a72235ae5be13e434caece2",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_106].desc": {
+      "pl": "Barwy powoli bledną,\na naprzeciw wychodzi nam porywisty wiatr i nawałnica.\nZa szybami autobusu\nmajaczą wichrowe wzgórza.",
+      "kr_sha256": "b3fe165c2947cfb72597e84b450490e9f6d88253eb43b84b5bf3aa35ef5734f8",
+      "en_sha256": "b1a33159a137ff50a9c890c4578df8e07339444bb575ab2899cf13b5bffd1537",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_106].title": {
+      "pl": "Rozdzierające Serca",
+      "kr_sha256": "c19c3d65fdacc9c64f7e001f28ff36569e85938141ff3898ec01ea349b2b6486",
+      "en_sha256": "bc9c9697c5f46ad35075e5b0f66f55c181d9f7b11068183f7e5038866fe825f3",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_107].desc": {
+      "pl": "Z ciężkimi sercami\nwysiadamy z pociągu.\nSkrywam w sobie pewną prawdę,\nzapomnianą nawet przez tę, której dotyczy.",
+      "kr_sha256": "6587b45f74da93b3d1edab2bb9ca221c8b1c49f947c0dff687f667ae8771d5f9",
+      "en_sha256": "6dcff7a1a410134d05d139cc9272ece21e0a0d079bbd8473cfa7c968e98b74a4",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_107].title": {
+      "pl": "Koniec Snu",
+      "kr_sha256": "8487a3f89fc2a0f23a13121a392351483e54f5419a6d19e4a1e8f6924597025e",
+      "en_sha256": "54a08f57f33ebd9ed34ae110c956464f4383b17081cb4d37bac67f0db61dcb32",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_108].desc": {
+      "pl": "Jego nefrytowe oko\nspoglądało nieco dalej niż nasz wzrok.\nWciąż nie wiedząc, dokąd biegnie to spojrzenie,\nwkroczyłem w gęsty las budowli.",
+      "kr_sha256": "f88d5bd93061aea5cfaa33a69a6690bed194a99177a541e91363d8c6ad6c19e7",
+      "en_sha256": "90af64aeacc87a3ad7098cc0b01b9968807d140a323b4f221f891e96e39f08d0",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_108].title": {
+      "pl": "Skazany na Patrzenie",
+      "kr_sha256": "3447a84e69b818bdca94c8d70f6c317bac62ffe75fcbdab87e09a4eb0a9412da",
+      "en_sha256": "5c67c8c0bb0bb842e0f869b42bcc9d03a274f708440dde31001fffe8f0e0a509",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_109].desc": {
+      "pl": "Zamiast autobusu, po którym zaginął słuch,\nnadeszła wieść o napaści na miejsce zdawałoby się nietykalne.\nPośród tego zamętu\nw milczeniu patrzę na to, co zawisło nad nami:\npajęczą sieć utkaną z czerwonej nici.",
+      "kr_sha256": "73e40287ea3afe109ede21b402d98dceea6c69b399f73cea018f2fd0e9f78225",
+      "en_sha256": "fecb60178d3f0222b4e9e6c218a337dbde896aff11c280714916aa07ad77f554",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_109].title": {
+      "pl": "Nierozerwalne",
+      "kr_sha256": "18c0788f03f26c696ec9f6df65ad9f2acc26e6772fab8b66a8fcd2aa97daabe3",
+      "en_sha256": "eda93433982ecd7f3a3b194ba6774ed96bc4369f6dd08f2ac1a9f8407b5d2b95",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_110].desc": {
+      "pl": "Szare łańcuchy szczękają głucho.\nSpętany człowiek wciąż milczy.\nCzując nagły zawrót głowy,\nspojrzałem w niebo.\nSłońce paliło niemiłosiernie.",
+      "kr_sha256": "5d54adbb60e95f1d17c31f9af87b90d146bb1e2d5ae3302263038517121a4839",
+      "en_sha256": "fb2ff5a9d0a8dfccc678d5b3b6365f311844decdc5bfd691598bca1064c20e63",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_110].title": {
+      "pl": "Pod Spojrzeniem",
+      "kr_sha256": "c0094939f0969989a8a4d4dd8b31c8cd981f8649b6def1fa056c87139008c04a",
+      "en_sha256": "a80f41906f3970e18ed3ee75700112b2ad0ad8d66314d4d137384ab462c014d0",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_10111].title": {
+      "pl": "Dystrykt 4 - loch w filii L Corp.",
+      "kr_sha256": "77c881b033d1740e856d89c45884db1be91c15db192998b063d7384580c2c880",
+      "en_sha256": "570b5d9781e54ab822207b8c003c7892645323e08730101fcae2671c908c500d"
+    },
+    "dataList[id=STORY_10219].title": {
+      "pl": "Dystrykt 10 - loch w filii L Corp.",
+      "kr_sha256": "c071f0825e6170a72b1a8e869985c96b8bb00ff062a8c1260a4780c857cc8882",
+      "en_sha256": "c00c1f1b547d4bbd3819b3b20393b9440149d486c05704639527374772f11840"
+    },
+    "dataList[id=STORY_10322].title": {
+      "pl": "Dystrykt 11 - loch w filii L Corp.",
+      "kr_sha256": "d393f913a2abab51e6c45c781950d0b15f81dc1d4c39d658911af5a9a78d9ea3",
+      "en_sha256": "7bcaede8478933c425bd91578c6ee2edbb19053df0fa8581390596ce00a7afe7"
+    },
+    "dataList[id=STORY_10454].title": {
+      "pl": "Wspomniana Głębia Ego",
+      "kr_sha256": "3dfdef66d9a34e988b719f03ec2a18c790b0654e6e9efd71b1bc0318eef0a4bd",
+      "en_sha256": "8224d4423eb43c06b8420b796582cdb5c05b4abbf48ddd586c53573ee3936019",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_10539].title": {
+      "pl": "W Kruczą Czerń",
+      "kr_sha256": "bef3500b0392b39c2c7a3f42f340dfd91d8ed2a4e36509eb9eda28bca80cd4e3",
+      "en_sha256": "1625285a398cccaed3d913c8dcd4772c2302db0bc7e915539e913004e00cce7a",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_10736].title": {
+      "pl": "Opowieść o Wielkim Fikserze, Który Sięgnął po Marzenie",
+      "kr_sha256": "6f0dbd29dc6db6736a5b4adb947c87336012ce5d2ec70f7fe58e358ba6fcee39",
+      "en_sha256": "2bdc5ec9e5ae8dcc0212bb9202dae3e06c6f26274c21538b5f9e0ab538a67072",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_10820].title": {
+      "pl": "Druga Runda Oceny Głowy Rodu",
+      "kr_sha256": "d14e0b192bf224a643821575538647a18bc7bd3516a0891dc94aa4825d8b73d0",
+      "en_sha256": "a79c3aa25159fb24d216e8ab0a58e10219b4fbd15400593a841fbfe8771cabb0",
+      "origin": "ai"
+    }
+  }
+}

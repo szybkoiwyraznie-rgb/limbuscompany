@@ -1,0 +1,96 @@
+12220||BgmLyrics#BgmLyrics_MaouHeath.json] 서로의 기억은 엇갈리게 짜여져서|Spinning our own versions of the past
+12221||BgmLyrics#BgmLyrics_MaouHeath.json] 너는 절대 알 수 없게 되었어|That you could never know
+12222||BgmLyrics#BgmLyrics_MaouHeath.json] 나는 알고 있어|Cause I know
+12223||BgmLyrics#BgmLyrics_MaouHeath.json] 나의 탓일 수 밖에 없다는 걸|I must be the reason why
+12224||BgmLyrics#BgmLyrics_MaouHeath.json] 네 미소를 잃게 만든 건|You have given up your smiles
+12225||BgmLyrics#BgmLyrics_MaouHeath.json] 네 눈에서 희망이 사라지게 된 건|And the hope inside your eyes have been stolen
+12226||BgmLyrics#BgmLyrics_MaouHeath.json] 네가 거짓말을 하게 된 것도|You must tell me all these lies
+12227||BgmLyrics#BgmLyrics_MaouHeath.json] 내가 없어야 네가 행복해질 거라며|Wishing you a better life without me by your side
+12228||BgmLyrics#BgmLyrics_MaouHeath.json] 이건 보랏빛 꽃무리를 통해 이미 전해진 이야기|The message has already been said through patches of violet
+12229||BgmLyrics#BgmLyrics_MaouHeath.json] 우리는 얼마나 어긋나 있던 걸까|How much we must have diverged
+12230||BgmLyrics#BgmLyrics_MaouHeath.json] 최후의 순간이야|It's our final chance
+12231||BgmLyrics#BgmLyrics_MaouHeath.json] 네 손으로|With your hand
+12232||BgmLyrics#BgmLyrics_MaouHeath.json] 해야만 하는 일을 해줘|Do what must be done
+12233||BgmLyrics#BgmLyrics_MaouHeath.json] 내가 어떻게 알 수 있겠어?|How would I know?
+12234||BgmLyrics#BgmLyrics_MaouHeath.json] 어쩌면 내 탓이었을 수도 있겠지|I could be the reason why
+12235||BgmLyrics#BgmLyrics_MaouHeath.json] 네가 상냥할 수 있었던 것도|You were able to be kind
+12236||BgmLyrics#BgmLyrics_MaouHeath.json] 우리의 마음은 영원히 어긋나 있지 않으리라는 것도|And the hearts we held so tight won't stay broken
+12237||BgmLyrics#BgmLyrics_MaouHeath.json] 사랑 탓이었을 수 밖에 없어|Love must be the reason why
+12238||BgmLyrics#BgmLyrics_MaouHeath.json] 내가 그 거짓말을 아직 믿고 있는 건,|I still believe in this lie
+12239||BgmLyrics#BgmLyrics_MaouHeath.json] 내가 없어야 네가 행복해질 거라는 그 거짓|That you'll live a better life without me by your side
+12240||BgmLyrics#BgmLyrics_MaouHeath.json] <style="dkr_CP6_2">우리가 서 있는 이 운명의 언덕에서|<style="den_CP6_2">Here we are at the fated land
+12241||BgmLyrics#BgmLyrics_Pv.json] ....쯧.|... Tsk.
+12242||BgmLyrics#BgmLyrics_Pv.json] 우리는 시간을 집어삼켰네\n되감아보자|We swallowed the time\nLet us rewind
+12243||BgmLyrics#BgmLyrics_Pv.json] 애탄할지어다\n내가 살기를 원한 거라면|Lament\nIf you wanted me to live
+12244||BgmLyrics#BgmLyrics_Pv.json] 내가 용서를 베풀기를 원한 거라면|If you want me to forgive
+12245||BgmLyrics#BgmLyrics_Pv.json] 우리가 문명 사회의 인간인 것처럼 행세하기를 원한 거라면|If you want us to pretend\nlike we’re civilized humans
+12246||BgmLyrics#BgmLyrics_Pv.json] 반복되는 시간 속에서 죽을 때마다\n(반복되는 시간 속에서 죽을 때마다)|Each loop we die through\n(Each loop we die through)
+12247||BgmLyrics#BgmLyrics_Pv.json] 내 내면의 정의가,\n나를 지키는 자존심이 나의 죄를 정당화하네|The justice inside me,\nthe ego fending me\nRationalize my sin
+12248||BgmLyrics#BgmLyrics_Pv.json] 애탄할지어다\n왜 죽음은 내 고통을 끊는 건가요?|Lament\nWhy do deaths end my torture?
+12249||BgmLyrics#BgmLyrics_Pv.json] 왜 누구도 나의 아픔을 느낄 수 없는 건가요?|Why can’t anyone feel my hurt?
+12250||BgmLyrics#BgmLyrics_Pv.json] 왜 가장 잔혹한 이들에게 영예를 안기는 건가요?|Why’d you crown the most\nviolent to be champions?
+12251||BgmLyrics#BgmLyrics_Pv.json] 이 지옥에\n(지옥에)|In this inferno\n(inferno)
+12252||BgmLyrics#BgmLyrics_Pv.json] 출발할게, 부릉부릉.|Now departing, vroom-vroom.
+12253||BgmLyrics#BgmLyrics_Pv.json] 우리가 스스로 만든|We built for ourselves
+12254||BgmLyrics#BgmLyrics_Pv.json] 이 지옥 속에서 서로를 부활시키며|Reviving each other in this hell
+12255||BgmLyrics#BgmLyrics_Pv.json] 지옥으로 출발하지.|Destination—inferno.
+12256||BgmLyrics#BgmLyrics_Pv.json] 나는 길을 따라 걸었네|I walked down a path
+12257||BgmLyrics#BgmLyrics_Pv.json] 과거로 향하는 길을|Leading to the past
+12258||BgmLyrics#BgmLyrics_Pv.json] 뻗어나온 나뭇가지에서 무언갈 훔쳤지|Stole from the tree’s hands
+12259||BgmLyrics#BgmLyrics_Pv.json] 후회하는 이의 벗, 금단의 열매를|A regretter’s friend\n— the forbidden fruit
+12260||BgmLyrics#BgmLyrics_Pv.json] 그 열매의 껍질을 물어뜯어\n부드러운 과육을 씹으며|I bite off the skin\nChewing on its tender flesh
+12261||BgmLyrics#BgmLyrics_Pv.json] 그 속의 뜨뜻미지근한 고름을 삼켰네|Quaff down its lukewarm pus
+12262||BgmLyrics#BgmLyrics_Pv.json] 그렇게 당신은 그렇게나 경멸하던 “내”가 되었지|You became the “me” who you despised
+12263||BgmLyrics#BgmLyrics_Rendezvous.json] 당신의 말대로|If you're gonna say
+12264||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고, 몇 번이고 나는 눈을 감았어|Again and again closed my eyes
+12265||BgmLyrics#BgmLyrics_Rendezvous.json] 역겨운 빛을 피해|Nauseating light
+12266||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 나는 올랐고|Again and again I climbed
+12267||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 나는 굴러떨어져|Again and again I have fallen
+12268||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 나는 외면했어|Again and again I ignored
+12269||BgmLyrics#BgmLyrics_Rendezvous.json] 내 안에서 들려오는 목소리를|Voices inside
+12270||BgmLyrics#BgmLyrics_Rendezvous.json] 계단은 발 밑에 흩어져 사라지고|The staircase slips and fades
+12271||BgmLyrics#BgmLyrics_Rendezvous.json] 엘리베이터 위에서 너는 웃으며 손을 흔들고 있지|From the elevator you smile and wave
+12272||BgmLyrics#BgmLyrics_Rendezvous.json] 우리가 그저 우연한, 우연한 운명의 결과일 뿐이라면|That we were results of unintended unintended fate
+12273||BgmLyrics#BgmLyrics_Rendezvous.json] 인생은 그저 헛되이, 헛되이 흘려보내는 것에 불과하다면|That life was meant to be wasted wasted away
+12274||BgmLyrics#BgmLyrics_Rendezvous.json] 왜 나는 언제나|Then why is it that I always
+12275||BgmLyrics#BgmLyrics_Rendezvous.json] 당신의 실루엣을, 그 실루엣을 바라보게 되는 걸까?|Notice the silhouette the silhouette you display?
+12276||BgmLyrics#BgmLyrics_Rendezvous.json] 가라앉지 않고 떠있으려면|If you're gonna stay buoyant
+12277||BgmLyrics#BgmLyrics_Rendezvous.json] 그저 흐르는 대로, 흐르는 대로 살 수밖에 없다고 말할 거라면|Claim drifting is the only only way
+12278||BgmLyrics#BgmLyrics_Rendezvous.json] 왜 우리는 언제나|Then why is it that we always
+12279||BgmLyrics#BgmLyrics_Rendezvous.json] 결국 이 자리로 다시 돌아오고 마는 걸까?|End up returning to this place?
+12280||BgmLyrics#BgmLyrics_Rendezvous.json] 즉흥적인 랑데뷰|A spontaneous rendezvous
+12281||BgmLyrics#BgmLyrics_Rendezvous.json] 네 목덜미에 밴 향기를 들이마시고|Inhale the perfume on your neck
+12282||BgmLyrics#BgmLyrics_Rendezvous.json] 당신은 내 등에 손톱자국을 남기며|Leaving scratches on my back
+12283||BgmLyrics#BgmLyrics_Rendezvous.json] 다시 한 번|One more time
+12284||BgmLyrics#BgmLyrics_Rendezvous.json] 당신은 왜 그리도 필사적으로|Then why are you so desperate
+12285||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고, 몇 번이고 나는 한숨을 쉬었어|Again and again I sighed
+12286||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 깨우쳤어|Again and again I learned
+12287||BgmLyrics#BgmLyrics_Rendezvous.json] 피투성이가 된 나의 주먹이 나를 위로해준다는 걸|That my bloodied knuckles gave me comfort
+12288||BgmLyrics#BgmLyrics_Rendezvous.json] 이토록 원망스럽고 화가 나지만|Even with all this resentment and anger
+12289||BgmLyrics#BgmLyrics_Rendezvous.json] 아무것도 느끼지 못하는 것보다는 낫다는 걸|It's still much better than feeling nothing at all
+12290||BgmLyrics#BgmLyrics_Rendezvous.json] 이 뜨거운, 뜨거운 언쟁을 이어가는 거야?|In this heated heated debate?
+12291||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 나는 상처를 입었고|Again and again I was hurt
+12292||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 짜증을 내며|Again and again irritated
+12293||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 손을 뻗지|Again and again reaching out
+12294||BgmLyrics#BgmLyrics_Rendezvous.json] 저 매혹적인 빛을 향해|To the alluring light
+12295||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 나는 생각했고|Again and again I thought
+12296||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고 몇 번이고 나는 깨달았어|Again and again I discovered
+12297||BgmLyrics#BgmLyrics_Rendezvous.json] 나는 다시, 또 다시 나다워진다는 걸|Again and again I felt more like myself
+12298||BgmLyrics#BgmLyrics_Rendezvous.json] 가라앉지 않고 떠있으려면|If you're gonna stay afloat
+12299||BgmLyrics#BgmLyrics_Rendezvous.json] 그저 흐르는 대로, 흐르는 대로 살 수밖에 없다고 말할 거였다면|Claim drifting is the only only way
+12300||BgmLyrics#BgmLyrics_Rendezvous.json] 당신은 왜 그리도 필사적으로 모든 걸 움켜쥐려고 하는 거야?|Then why are you so desperate for control?
+12301||BgmLyrics#BgmLyrics_Rendezvous.json] 화려한 옷 아래 사슬들을 감춘 채로|Chains covered by fancy clothes
+12302||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고, 몇 번이고 나는 한숨을 짓고|Again and again I sighed
+12303||BgmLyrics#BgmLyrics_Rendezvous.json] 몇 번이고, 몇 번이고 나는 침묵했지|Again and again I was silent
+12304||BgmLyrics#BgmLyrics_Saikai.json] 어리고 정처 없이 헤매던 시절|When I was young and lost
+12305||BgmLyrics#BgmLyrics_Saikai.json] 그다지 고되지는 않더구나|When you are with me
+12306||BgmLyrics#BgmLyrics_Saikai.json] 우리가 함께하는 이 모든 시간을 소중히 품을게|Cherish as long as we last
+12307||BgmLyrics#BgmLyrics_Saikai.json] 왜냐하면 S는 사요나라를 말하는 게 아니니까|Cause S is not for sayonara
+12308||BgmLyrics#BgmLyrics_Saikai.json] 우리의 추억을 되감아 보자|Let memories play back
+12309||BgmLyrics#BgmLyrics_Saikai.json] 나는 나아가야만 한다고 생각했어|I knew I must step up
+12310||BgmLyrics#BgmLyrics_Saikai.json] 세상 그 이상을 네게 주고 싶었으니까|You deserve the world and more
+12311||BgmLyrics#BgmLyrics_Saikai.json] 하지만 네가 진정으로 바랐던 건,|The truth is that you'd rather
+12312||BgmLyrics#BgmLyrics_Saikai.json] 우리에게 남은 짧은 시간을 그저 함께 보내는 것이었음을|Spend our limited time together
+12313||BgmLyrics#BgmLyrics_Saikai.json] 지켜주는 것만으론 모자랐고|Protection alone is not enough
+12314||BgmLyrics#BgmLyrics_Saikai.json] 퍼주는 것만으로는 사랑에 목마른 빈 잔을 채울 수 없었지|Providing cannot fill an empty cup thirsting for love
+12315||BgmLyrics#BgmLyrics_Saikai.json] 갑자기 찾아온 네가 굳게 잠긴 내 문을 열어버렸지|You showed up, and had my doors unlocked

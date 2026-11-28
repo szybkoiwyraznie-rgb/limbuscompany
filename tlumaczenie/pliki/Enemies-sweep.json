@@ -1,0 +1,280 @@
+{
+  "entries": {
+    "dataList[id=112601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=112601].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1126].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1126].name": {
+      "pl": "Zilu",
+      "kr_sha256": "cbb4ddb35fff1af7eb702ace256a9daaf2022a80f4114368d16ad83040a88c58",
+      "en_sha256": "1fef1048a3108563f89c3ab1373fc65ea412e3884c0d4f0bad495f29da607485",
+      "origin": "ai"
+    },
+    "dataList[id=112701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=112701].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1127].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1127].name": {
+      "pl": "Ricardo",
+      "kr_sha256": "9bfd250b7e5797efefe672081b89d379e9b412d38379fa5f836bcdcc10ba0bfe",
+      "en_sha256": "6568e1158933296b86cdc3472474c883d9bac7b5b14092313cdc2aabdd8d4e79",
+      "origin": "ai"
+    },
+    "dataList[id=112801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=112801].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1128].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1128].name": {
+      "pl": "Little Brother Werner",
+      "kr_sha256": "242b38dc961ea766c499257e33e2818a7c82f45a7e66bc9543ecb0f4cba81e31",
+      "en_sha256": "cea8f0350d8145b0d6f91de87e6e29071cf3b1656ef34ffe7ee202f2a092ad20",
+      "origin": "ai"
+    },
+    "dataList[id=112901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=112901].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1129].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1129].name": {
+      "pl": "Stern Little Brother of the Middle",
+      "kr_sha256": "713df8cd641bc33b7211c737224e4a2bbff5c2fd421fbdba514dfab96d589bec",
+      "en_sha256": "8a9a50378726b47465714ae5e4a6d54528c2a936aa790c3fa8db130104754d96",
+      "origin": "ai"
+    },
+    "dataList[id=113001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=113001].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1130].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1130].name": {
+      "pl": "Sturdy Little Brother of the Middle",
+      "kr_sha256": "eeccd31d955a4815c2d78dcf32ec368f0416f90ee561e8f5728b4f57b52adb6b",
+      "en_sha256": "63b1cbd231fbfd355e08defd9dfa26bb2e1f9c73a8a1545ced8f11f9663d573c",
+      "origin": "ai"
+    },
+    "dataList[id=90183].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90183].name": {
+      "pl": "Deceitful Tri-axe Office Fixer",
+      "kr_sha256": "01c9b41fd94446bea372f3efdba80d1186f30250e473c459a290c5b4d9eef8b8",
+      "en_sha256": "ae1b8637f31af9d1261f780ead92abb2e422ca153ea6ac7d0d23c4ec9200b6f3",
+      "origin": "ai"
+    },
+    "dataList[id=90184].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90184].name": {
+      "pl": "Tough-looking Stranger",
+      "kr_sha256": "0c6c0acb902b7f5e438bae361b03724ef3921db6aec3a5dc1f93ef0a35541d1d",
+      "en_sha256": "83e59678f136afda3d927680bb23949cc75585f737691e48b6c0a6e8ab8e5cbb",
+      "origin": "ai"
+    },
+    "dataList[id=90185].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90185].name": {
+      "pl": "Heishou Pack - Mao: Featherstriker",
+      "kr_sha256": "d34e419e9ae9893b027cc0513947176c400e4dcb24bf51169967112a673e3f4d",
+      "en_sha256": "9653e331d24af8caad7581a1ed9dfaf6cc834cf85745c638fa44cb81ab040d7e",
+      "origin": "ai"
+    },
+    "dataList[id=90186].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90186].name": {
+      "pl": "Heishou Pack - Mao: Umbrastriker",
+      "kr_sha256": "2ef738204170f34a4f91ff50f52f6a48eb715cbede34536d0cb418e64ed5cd5d",
+      "en_sha256": "b5c097eacc1159e2e1beb58e110dc412ff630f9978d6a3ffa65b230b93dad059",
+      "origin": "ai"
+    },
+    "dataList[id=90187].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90187].name": {
+      "pl": "The City's Sweeper A",
+      "kr_sha256": "7b803bd3f877c8022699bdcf6a3f7feed546ba96331ef9574c302f7ae6d2baf7",
+      "en_sha256": "9b81d13dd6772aef726bc22c28300199a1f262af2e66ab4249a0fecdfc7975dc",
+      "origin": "ai"
+    },
+    "dataList[id=90188].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90188].name": {
+      "pl": "The City's Sweeper B",
+      "kr_sha256": "3f0ce9e50558b9dc8a555790aa5a4ea4129abb5d644892daa0a55093a95c12ed",
+      "en_sha256": "7ae2675a4e14d2248b1014de437acad4d7e9edaa963eeb53206be079a0804bb2",
+      "origin": "ai"
+    },
+    "dataList[id=90189].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90189].name": {
+      "pl": "The City's Sweeper C",
+      "kr_sha256": "3a0657036369fb1ade39d99dd48a5c2c261e2fe27212f6d83d1634881a8b0882",
+      "en_sha256": "a8ed63fc86d609c1060b9a2177b9791659de529ae57da33a215ad13d5683f078",
+      "origin": "ai"
+    },
+    "dataList[id=90190].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90190].name": {
+      "pl": "The City's Sweeper D",
+      "kr_sha256": "289caecb3ec52a5930d905476896fb58287baec59fde11d43d9919baa7559e10",
+      "en_sha256": "6b848e083ade17f6b40851f821faf96a04e0bebec42504e5c235fdedf84973d8",
+      "origin": "ai"
+    },
+    "dataList[id=90191].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90191].name": {
+      "pl": "Stern Little Brother of the Middle",
+      "kr_sha256": "713df8cd641bc33b7211c737224e4a2bbff5c2fd421fbdba514dfab96d589bec",
+      "en_sha256": "8a9a50378726b47465714ae5e4a6d54528c2a936aa790c3fa8db130104754d96",
+      "origin": "ai"
+    },
+    "dataList[id=90192].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90192].name": {
+      "pl": "Sturdy Little Brother of the Middle",
+      "kr_sha256": "eeccd31d955a4815c2d78dcf32ec368f0416f90ee561e8f5728b4f57b52adb6b",
+      "en_sha256": "63b1cbd231fbfd355e08defd9dfa26bb2e1f9c73a8a1545ced8f11f9663d573c",
+      "origin": "ai"
+    },
+    "dataList[id=90193].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90193].name": {
+      "pl": "Awkward Tri-axe Office Fixer",
+      "kr_sha256": "625348851c71ff38f182de59f811d7a2f2a71b12ed40021f48fa5f5d3bf523cc",
+      "en_sha256": "1a1ed3bc94b8e111aebbf5d2ba1285a32590af6bf9b37d76ee7ba4c71988b8f3",
+      "origin": "ai"
+    },
+    "dataList[id=90194].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90194].name": {
+      "pl": "Sharp-looking Stranger",
+      "kr_sha256": "93604b6dd2614f9ab156c1e76a66f5c1ebf86fe6577d00379c3539d6f31e98d9",
+      "en_sha256": "f92e0fbb6b32b59d84f59692777d2fde550400477fb9ec2f0eb383915a5112d3",
+      "origin": "ai"
+    },
+    "dataList[id=91020].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91020].name": {
+      "pl": "Little Brother Werner",
+      "kr_sha256": "242b38dc961ea766c499257e33e2818a7c82f45a7e66bc9543ecb0f4cba81e31",
+      "en_sha256": "cea8f0350d8145b0d6f91de87e6e29071cf3b1656ef34ffe7ee202f2a092ad20",
+      "origin": "ai"
+    }
+  }
+}

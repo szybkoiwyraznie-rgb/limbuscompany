@@ -1,0 +1,256 @@
+{
+  "entries": {
+    "dataList[id=8118].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8118].name": {
+      "pl": "Steam Transport Machine",
+      "kr_sha256": "ce49388c698aeb00ac802c21e3422c70abc2703a602b05de3ab5773795871192",
+      "en_sha256": "c531672179e03aa8c13519aa5f0a08fc264203a70bc8bdc7c102aaa8217ee3d9",
+      "origin": "ai"
+    },
+    "dataList[id=8119].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8119].name": {
+      "pl": "Wayward Passenger",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=8120].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8120].name": {
+      "pl": "Hemorrhaging Dimension",
+      "kr_sha256": "ce17c108ad61a7beff3ad70cb5fd5e8c9131c0837999ca590233bfa359261c0b",
+      "en_sha256": "a1245a928a1466f6495fad90e6b0f24d5f932a918b514fd38f61b76c8c906cb3",
+      "origin": "ai"
+    },
+    "dataList[id=8121].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8121].name": {
+      "pl": "Poisonous Dimension",
+      "kr_sha256": "1f9fc6426f85a67440e95f328b3e5e34ed3d7c52d5d5903d84e80f4085f8ce3f",
+      "en_sha256": "9414c60c3ef8b57ec76ae01ba8cb9cd1e559c094e22ca24c2b9ae49f971aaf96",
+      "origin": "ai"
+    },
+    "dataList[id=8122].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8122].name": {
+      "pl": "Tremoring Dimension",
+      "kr_sha256": "b9c6009a94cba6f5c796ad746a9c739bb1aae127bd43bb1e2d4134707ba5306e",
+      "en_sha256": "063249787f1fdd799b3f7a54e6e21d6ad77bb0721dbf46bdcab5a5d4830acd92",
+      "origin": "ai"
+    },
+    "dataList[id=8123].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8123].name": {
+      "pl": "Electrifying Dimension",
+      "kr_sha256": "d957bbc61afb934fefdccc5637f41d1325a5b7010df3290d57d233d4b2b41179",
+      "en_sha256": "45e46b78cce868787fbba7d8ad8edd7679015d480e873179440fb662c92e22c6",
+      "origin": "ai"
+    },
+    "dataList[id=8175].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8175].name": {
+      "pl": "Wrath-drenched Rose",
+      "kr_sha256": "9fb16b1e9cc926513b3e5627a91234179017a6bd8b3aa9819c153f065495ab00",
+      "en_sha256": "b467becf8156852543c928258d501ca3bdc86776f8d966943a1f97143f0b5003",
+      "origin": "ai"
+    },
+    "dataList[id=8176].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8176].name": {
+      "pl": "Lust-drenched Rose",
+      "kr_sha256": "40c6075402a07b13c882fd2e69be40cdc129e320b48e16e7ea314df6263a5ca6",
+      "en_sha256": "d993383c0b678d8efa908662594f524e006e9b77f9bfe477fb70d319fbc8a9d1",
+      "origin": "ai"
+    },
+    "dataList[id=8177].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8177].name": {
+      "pl": "Sloth-drenched Rose",
+      "kr_sha256": "60359e73d943f21d69c7be79804cd703a67794515c172d4dbee5a8fde5cf33ce",
+      "en_sha256": "71c72a62ebcda86a670541461cce51213ca6f962443fd467d5a24fc77806e35a",
+      "origin": "ai"
+    },
+    "dataList[id=8178].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8178].name": {
+      "pl": "Gluttony-drenched Rose",
+      "kr_sha256": "a77d74f244c5a270914424ba91e9110012c728da65c9bef5cb66bad374d5bcff",
+      "en_sha256": "e873f50357a173da4f24831905d7d737e65d842303e31d966e5a7805ef172ad6",
+      "origin": "ai"
+    },
+    "dataList[id=8179].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8179].name": {
+      "pl": "Gloom-drenched Rose",
+      "kr_sha256": "0ef0bcdb8f7adf3cc76b3084e1bfc30ca3d615a99e64ae33742a47346c33f1ab",
+      "en_sha256": "45255d19395517d161beba8e1936e8aaddae07883d22a2e7cb9c9c6e44700ef7",
+      "origin": "ai"
+    },
+    "dataList[id=8180].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8180].name": {
+      "pl": "Pride-drenched Rose",
+      "kr_sha256": "69bbdce979fd522618f54c2c522542abb13a58b43f9d7ef46832e531c8d5a741",
+      "en_sha256": "c06ec706cec85e33c45f9b9db6ba85e4667eacde646550e3c789b9ff11eb5f94",
+      "origin": "ai"
+    },
+    "dataList[id=8181].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8181].name": {
+      "pl": "Envy-drenched Rose",
+      "kr_sha256": "8ccee57867a3656005b8d6e3e75a4c5c36005a82a9f79ac9c676b08c2388e7d9",
+      "en_sha256": "6e191cc3de1e66110c78cf75c41a9196804dd92bde559e165650b46d4f89fcaf",
+      "origin": "ai"
+    },
+    "dataList[id=8182].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8182].name": {
+      "pl": "Rozkwitłe E.G.O::Nadzorca Farmy",
+      "kr_sha256": "0c981ccd4bba7812c27f3dcb7132bcb1759d67d5bcdb9b8f8da5d2120a061fd9",
+      "en_sha256": "34537ef2195d076bbf869d3ff9d60da9411c4356871c9e8cc28ace0f2ef73588",
+      "origin": "ai"
+    },
+    "dataList[id=8183].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8183].name": {
+      "pl": "Drzewo Pożądań",
+      "kr_sha256": "14a92595ee7fe11906b7f211056c47352b26be83bd17caadaa0fbaae9458d49d",
+      "en_sha256": "7ed6dd6bfd643fe0e3dd8c1ece8b6139f0c75e46068fdd134365a9192090fdeb",
+      "origin": "ai"
+    },
+    "dataList[id=8184].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8184].name": {
+      "pl": "Chłonące Drzewo",
+      "kr_sha256": "17e25c77838c18860b8fef69be960ac2cba85c00eb4c996b385d5238e576b127",
+      "en_sha256": "262a2a116f9a62b4ac1b04f9a0a69a8bd5074e45b75fd73e194212dcd50cf49f",
+      "origin": "ai"
+    },
+    "dataList[id=8197].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8197].name": {
+      "pl": "Ardor Blossom Moth",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=8198].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8198].name": {
+      "pl": "Nasiąknięta Bawełna",
+      "kr_sha256": "ae37e39c4db348b50949238fff54c2f6c40bd5c7e0ad7f06c56cdbe730d6f789",
+      "en_sha256": "18a0a4cf63a63d4dcad7970583b449127e65a6780d613b66cc18719181429656",
+      "origin": "ai"
+    },
+    "dataList[id=8199].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8199].name": {
+      "pl": "Spiral of Contempt",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=8200].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8200].name": {
+      "pl": "Grasp",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=8201].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8201].name": {
+      "pl": "Sign of Roses",
+      "kr_sha256": "802c452f55c07f80d5b0859ea3ea3c4530f80de7fcecbefdfe05e29ab40b3fb9",
+      "en_sha256": "c53c5c3e2bb7705e71df5d4f54d36bd48b51a8f2ed8b02f0287cc8985ef80138",
+      "origin": "ai"
+    }
+  }
+}

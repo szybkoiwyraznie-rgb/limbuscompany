@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=155101].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>jeżeli jednostka ma [SapsareeCooking], używa Umiejętności „Aah! I'm on lunch break, you hear?” na samym końcu tury</u></b></mark></color>\n(nie uruchamia się, jeżeli wszystkie inne cele zostały pokonane albo jednostka jest Oszołomiona)\nna koniec tury, jeżeli jednostka nie użyła Umiejętności „Aah! I'm on lunch break, you hear?”, zyskuje 1 [SapsareeHungry]",
+      "kr_sha256": "a54ba51fbe3e538ec6ad955a2c458982d6cc2d2c40b53165d7e6c1c432a04e2f",
+      "en_sha256": "f33711d1cb1267b10384e5749dfe047b2bfe24217e2a4dfb543f6c7adcf88edf",
+      "origin": "ai"
+    },
+    "dataList[id=155101].flavor": {
+      "pl": "Restauracja na 5. piętrze nie nazwałaby tego nawet „gotowaniem”.",
+      "kr_sha256": "bacba8c4e96def8fa5bdc28538fea3545823b12b2ec9fa21b16fb5669217ce6c",
+      "en_sha256": "524a46cb480bf07002d0a842abe51483bd564a2cb3b95b194cb3271d7231403f",
+      "origin": "ai"
+    },
+    "dataList[id=155101].name": {
+      "pl": "I can cook up delicious dishes so good, you hear?",
+      "kr_sha256": "e0a7f5b6c53603c74f31cb989a6cea663a6a42163d8f0b78e88e56e35f19c176",
+      "en_sha256": "7a661d67ba7aeccc1ff7a9bdb751c4c5bb20241db5ac6e3956082828fd130364",
+      "origin": "ai"
+    },
+    "dataList[id=155702].desc": {
+      "pl": "Moc Końcowa Umiejętności +1 za każdego Needlekin[TabExplain] na polu walki",
+      "kr_sha256": "258f318a630c0f8d2883efba877c7d78b46d42ee098b13137a3823f054da30a4",
+      "en_sha256": "7469dfc3cddb00639f0f7a683d5bf1ee84027c21f26c40da55773f51295b464b",
+      "origin": "ai"
+    },
+    "dataList[id=155702].flavor": {
+      "pl": "Ręczne szycie nie przetrwa na jednej parze rąk. Potrzeba tłumu wprawionych rzemieślników, by tchnąć w nie życie.",
+      "kr_sha256": "5c10264dac073a420278303edbe8920c11d117f141bd6a283193a3f0401a5dd3",
+      "en_sha256": "5b1b249b003d2afd89390d81359df528437ac215ff2153b13987ab975122f9cd",
+      "origin": "ai"
+    },
+    "dataList[id=155702].name": {
+      "pl": "Handmade",
+      "kr_sha256": "dbf8553443ef9349a7b09ac34e2900b3c307f9c3ae0256716695677f2ddc0847",
+      "en_sha256": "354daa8752272b474f36848515530335e4e1a3442683dd616f4bfd1537bbe822",
+      "origin": "ai"
+    },
+    "dataList[id=156301].desc": {
+      "pl": "przy wejściu na etap, zyskuje 30 [NoirSuit]\n\nna początku tury, zyskuje Tarczę równą ([NoirSuit] / 5)% Maks. HP jednostki (chyba że jest Oszołomiona)",
+      "kr_sha256": "a404ed532ba688ace29a4ab80c52d050495f45b5f04f0d6255544461bd8a6224",
+      "en_sha256": "7dd227f7ef4ce8d85eb5229efd14aa0572ab8ef905f4f96a8d5c9ce50622fe31",
+      "origin": "ai"
+    },
+    "dataList[id=156301].flavor": {
+      "pl": "Flagowe sukno Le Noir — uszyte z myślą o formalności, bez poświęcania stabilności.",
+      "kr_sha256": "07fce8109d239200d95b0deacb0a94d6ffd2220d38ffc4acc34105506ee45b55",
+      "en_sha256": "451e22f536b73c295ac4908b6006c0544d7100496cacb070815335a37feff959",
+      "origin": "ai"
+    },
+    "dataList[id=156301].name": {
+      "pl": "Le Noir: Gabardine Fabric",
+      "kr_sha256": "89055c7f49804cf56f956f4f1e95db52889fd28eeb33a0ad52d45117c4a7ff31",
+      "en_sha256": "32e99135dc38466ce02b1aa60cb99629d5ae47ef0c14edfc7d0f87bacf861f62",
+      "origin": "ai"
+    },
+    "dataList[id=156403].desc": {
+      "pl": "zwiększa Poziom sojuszników „Le Noir”\n\nwszyscy sojusznicy „Le Noir” otrzymują o 5% mniej obrażeń za każdego żywego sojusznika „Le Noir” na polu walki\npo śmierci sojusznika „Le Noir”, wszyscy sojusznicy „Le Noir” zyskują 1 [NoirSquareCollapse] przez resztę tej walki (łącznie z nowo przywołanymi jednostkami)",
+      "kr_sha256": "c789ca7275ac593f31730292ebedddbba23cb92c6670a47d7021095a61655d31",
+      "en_sha256": "150f45c9d1faca188bf3dd8de06749b6d0961f877f0a1ea19f61ad5205ba985c",
+      "origin": "ai"
+    },
+    "dataList[id=156403].flavor": {
+      "pl": "Każdy trwa na swoim posterunku i wiernie spełnia powierzoną mu powinność. Razem tworzą szyk, a szyk ten staje się wyobrażeniem zachowującym całość. Wiernie wypełnij twój obowiązek, każdy na twoim wyznaczonym miejscu.",
+      "kr_sha256": "798cbcadf2f10bb51e8320060ff6c49f14a207cf7b13a2aa65401d9f0d879019",
+      "en_sha256": "ebaa8de15ef3397287303a4be802adc23c35e465dfecb384b94eeccf0e2282b2",
+      "origin": "ai"
+    },
+    "dataList[id=156403].name": {
+      "pl": "Formation Conservation",
+      "kr_sha256": "0ec33ab5c274a24737e700f8d3e6f3e76beb04d7e9048ea29483bec9d1866fca",
+      "en_sha256": "454add2cc5bd9ba75d7c512a5263795710137db53867259c52197cde525ca854",
+      "origin": "ai"
+    },
+    "dataList[id=156404].desc": {
+      "pl": "rozpoczyna tę walkę z 45 SP",
+      "kr_sha256": "b8c76ab294c01120990f12e6c0664658026b7b33b7eab90dfee0bec1f1ed722d",
+      "en_sha256": "5180a56fbca4c9c91fb66b34d47d0d0d35a67b00042447eeac09371b7e6b49f2",
+      "origin": "ai"
+    },
+    "dataList[id=156404].name": {
+      "pl": "The Battle Continues",
+      "kr_sha256": "96a971aed2ec52a975a74a09b03ec3cc2fa277fb9c061e6814c931f7b9f9f410",
+      "en_sha256": "7aade3c684dd2ebdeff1ba4cd0f913427a4ca253c4e3047d3e8a3bbde738c817",
+      "origin": "ai"
+    }
+  }
+}

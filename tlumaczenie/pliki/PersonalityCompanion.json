@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=1].name": {
+      "pl": "— nazwa] Don Quixote\n& Sinclair",
+      "kr_sha256": "a1dc1cb0f412bec509cdc73ff9e7e3c3652795ce586f3bbda35559285330b946",
+      "en_sha256": "4de46b93ce775b3720cee502a6062450226b620857aad68c3a0980ee72e011c1",
+      "origin": "ai"
+    },
+    "dataList[id=1].title": {
+      "pl": "Biuro Klin\nFikser",
+      "kr_sha256": "b5c5b60602f7b48cb949665fb713887302850a54f9b869cce087eeb861b1ee55",
+      "en_sha256": "8f379211924faa03a8dfd73ba076641f802f1c0d14575bb584d9c847828804e1",
+      "origin": "ai"
+    }
+  }
+}

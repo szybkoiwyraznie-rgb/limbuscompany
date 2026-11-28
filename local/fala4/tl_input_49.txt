@@ -1,0 +1,96 @@
+4756||AbEvents#ActionEvents_night-clean-up.json] 모르는 얼굴이라고 말한다.|Say "Nope, never seen him before."
+4757||AbEvents#ActionEvents_night-clean-up.json] 전혀 모르는 눈치로 멀뚱멀뚱 서 있자, 중지는 순순히 우리를 보내주었다.|We stared back at them with blank, innocent eyes until they decided to let us go without trouble.
+4758||AbEvents#ActionEvents_night-clean-up.json] 어두운 실내.\n\n삿갓을 쓴 검은 복장의 사람들이 모여있다.\n\n그들은 누군가의 침입을 대비하듯 준비에 만전을 기하고 있다.\n\n"오늘 주군을 노리는 자가 있다는 정보를 입수했다."\n\n"예비조는 이곳에서 다음 명령을 기다린다."\n\n"임무조는 적의 침입 경로로 가 사전 작업을 실시하지."\n\n"각자 배정받은 조에 따라 움직이도록."|We come across a dark interior.\n\nPeople dressed in dark clothes are standing in a group. They are all wearing bamboo hats.\n\nIt seems that this group is expecting enemies; they are busily preparing for something.\n\n"We have intercepted intelligence that someone will be going after our lord tonight."\n\n"Backup team, stay here and wait for your next order."\n\n"Operation team, head to the enemy infiltration points and prepare for their arrival."\n\n"You all know your missions. Stick to them."
+4759||AbEvents#ActionEvents_night-clean-up.json] 명령을 기다린다.|Await orders.
+4760||AbEvents#ActionEvents_night-clean-up.json] 임무조를 따라간다.|Follow the Operation team.
+4761||AbEvents#ActionEvents_night-clean-up.json] 시간을 확인할 수 없는 어두운 밤.\n\n조사를 위해 버스에서 내려 어느정도 걷던 중 수상한 진동이 느껴진다.\n\n진원으로 시선을 돌리니, 멀리서 부터 붉은빛을 점멸하며 청소부들이 파도처럼 몰려오고 있다.\n\n그것들이 지나간 자리는 깨끗하게 청소될 것이다.\n\n망설이는 사이, 청소부들이 점점 가까워지고 있다.|It is that hour of the night when it becomes impossible to guess the time.\n\nWe'd gotten off the bus for some reconnaissance when I sense a sudden, ominous tremor.\n\nI turn to face the origin of the tremor, only to see a massive flood of Sweepers rushing toward us, blinking with their red lights.\n\nThey will sweep everything clean in their wake.\n\nThe longer we hesitate, the closer they're getting.
+4762||AbEvents#ActionEvents_night-clean-up.json] 가까운 거처로 숨는다|Find a nearby shelter.
+4763||AbEvents#ActionEvents_night-clean-up.json] 전속력으로 버스로 돌아간다.|Run for the bus.
+4764||AbEvents#ActionEvents_night-clean-up.json] 50% 확률로 전투 발생. 승리 시 범용 E.G.O GIFT 획득|50% chance to begin a combat encounter. Win to gain a Keywordless E.G.O Gift.
+4765||AbEvents#ActionEvents_night-clean-up.json] 전속력으로 메피스토펠레스를 향해 달려 간신히 모든 수감자가 안으로 들어갈 수 있었다.\n\n문이 닫힌 직후, 거대한 청소부의 파도가 창밖으로 지나간다.|Only by sprinting back to Mephistopheles do we make it all inside.\n\nThe relentless wave of Sweepers passes by moments after we close the door behind us.
+4766||AbEvents#ActionEvents_night-clean-up.json] 전속력으로 버스를 향해 달려갔다. 하지만 한 걸음이 모자랐다.\n\n뒤를 돌아볼 새도 없이, 몰려오는 것들이 온 시야를 집어삼켰다.|We sprint back to Mephistopheles, but it seems that we were a second too late.\n\nWe do not even have the time to turn around before the swarm overwhelmed us.
+4767||AbEvents#ActionEvents_tkt.json] T사 거리, 시간 징수자가 한 사람을 붙잡고 세금을 징수하고 있다.\n\n"납부는 시간으로 하십니까? 아니면 돈으로 하십니까?"\n\n"그러니까… 저희는 시간세를 다 냈다니까요! 거기다가 3억 안이라니…"\n\n"기부 증여세로 인해 발생한 시간세입니다."\n\n"설마 저번에 뒷골목 아이들에게 나눠준 시간 때문에 이러는 거예요?"\n\n"300시간을 기부했을 뿐인데, 3억 안을 시간세로 내야 하는 건 이상하잖아요!"\n\n"T사의 징세 계산은 언제나 정확합니다."\n\n시간 징수자가 제압을 위해 시민에게 성큼성큼 다가간다.|You find yourself at a random T Corp. street. A Collection Staff is collecting taxes from a citizen.\n\n"Will you be making your payments in time, or in cash?"\n\n"Like I said, we already paid our Time Taxes in full! Besides, three-hundred-million Ahn? That's absurd...!"\n\n"The records state that you have accrued additional Time Tax responsibilities due to the donation gift tax."\n\n"No way. Is this because I gave away my time to those kids in the Backstreets?"\n\n"I only gave them three hundred hours, so how the hell does that suddenly snowball into a three-hundred-million Ahn in taxes?! That doesn't make any sense!"\n\n"Tax calculations in T Corp. are always exceptionally accurate."\n\nThe Time Collector strides toward the citizen to neutralize them.
+4768||AbEvents#ActionEvents_tkt.json] T사 골목을 닮은 심상 던전 안으로 들어왔다.\n\n오가는 행인들 사이, 빛을 그대로 간직한 자판기가 멀지 않은 곳에 보인다.\n\n색을 빼앗긴 거리여서 그럴까?\n\n주변에서 쏟아지는 빛이 더욱 강렬하게 마음속을 파고든다.\n\n빛을 따라 걷다보니 자판기 앞에 다다랐다.\n\n주변을 다시 둘러보지만 여전히 다른 행인들은 위화감을 느끼지 못하는 것 같다.\n\n자판기에는 여러 버튼들이 늘어서 있다.\n\n어떻게 할까?|We enter the Dungeon of the Fathoms. It resembles a T Corp. street.\n\nPast the crowds of busy passers-by, we notice the glowing vending machine nearby.\n\nWith the streets completely devoid of color...\n\n... the vending machine's light seems to resonate much more vibrantly with our heart.\n\nLooking around, the other passers-by don't seem to notice anything unusual.\n\nWe see rows of buttons on the vending machine.\n\nWhat should we do?
+4769||AbEvents#ActionEvents_tkt.json] 시살시 던전 리뉴얼 시작점|Timekilling Time Dungeon Renewal Starting Point
+4770||AbEvents#ActionEvents_tkt.json] 진동 E.G.O GIFT 획득|Gain a Tremor E.G.O Gift
+4771||AbEvents#ActionEvents_tkt.json] 덜컹 소리와 함께 자판기에서 나온 E.G.O 기프트를 집어들었다.\n\n시간 살인 시간의 진실까지 얼마 남지 않았다.\n\n이 사건이 어떤 끝을 맺게 될지 아직 모르지만,\n\n우리는 충만한 빛을 이정표 삼아 앞으로 향하기로 했다.|We pick up the E.G.O Gift that dropped from the vending machine with a clunk.\n\nWe're <i>this</i> close to unveiling the truth of the Timekilling Time.\n\nWe don't exactly know how this case will end...\n\n... but we decide to forge on, the brilliance our guiding light.
+4772||AbEvents#ActionEvents_tkt.json] 시살시 던전 리뉴얼 합성|Timekilling Time Dungeon Renewal Fusion
+4773||AbEvents#ActionEvents_tkt.json] 은빛 시계 케이스와 에칭 시계침을 넣어본다.|Try putting in Silver Watch Case and Etched Clock Hands.
+4774||AbEvents#ActionEvents_tkt.json] 은빛 시계 케이스와 녹슨 시계침을 넣어본다.|Try putting in Silver Watch Case and Rusted Clock Hands.
+4775||AbEvents#ActionEvents_tkt.json] 빛바랜 시계 케이스와 에칭 시계침을 넣어본다.|Try putting in Faded Watch Case and Etched Clock Hands.
+4776||AbEvents#ActionEvents_tkt.json] 빛바랜 시계 케이스와 녹슨 시계침을 넣어본다.|Try putting in Faded Watch Case and Rusted Clock Hands.
+4777||AbEvents#ActionEvents_twth.json] LCE의 연구원들이 거미집에서 수거한 물품들을 들고 바쁘게 돌아다니고 있다.\n\n그 중 눈에 익은 것이 보여 그 주위를 기웃거리고 있자, 한 연구원이 다가와 말을 걸었다.\n\n“아, 그쪽에 쌓여있는 건 이번에 약지의 갤러리로 보이는 곳에서 가져온 샘플입니다. 성분 분석은 다 끝낸 것들이라 필요하시다면 가져가셔도 됩니다.”\n\n어떻게 할까?|Researchers of the LCE are running about busily, each carrying various items recovered from the House of Spiders in their hands.\n\nRecognizing something from the pile, we stood around gawking at the item—until one of the researchers finally decided to talk to us.\n\n"Oh, those are samples taken from the Corridor that looked like the Ring's gallery. We're done with the component analysis, so feel free to take them."\n\nWhat should we do?
+4778||AbEvents#ActionEvents_twth.json] 약지 작품 수거한 LCE 팀원들|LCE Recovers The Ring's Artwork
+4779||AbEvents#ActionEvents_twth.json] 뼈와 근육으로 되어있는 무언가를 집는다.|Grab something made of bones and musculature.
+4780||AbEvents#ActionEvents_twth.json] 살점과 상피로 되어있는 무언가를 집는다.|Grab something made of flesh and animal hide.
+4781||AbEvents#ActionEvents_twth.json] 굳이 핏덩이로 보이는 것이나, 털뭉치 같은 걸 가져갈 필요는 없어보인다.|Why would anyone even think of taking these piles of meat and fur?
+4782||AbEvents#ActionEvents_twth.json] 어디선가 차분한 음악 소리가 흘러나오는 것 같다.\n\n소리를 따라가자, 여러 작품들이 전시되어 있는 공간이 나타났다.\n\n약지의 갤러리 같은데... 둘러보다보니, 작품 없이 전시대만 놓여져 있는 곳을 발견했다.\n\n한 손으로도 들어올릴 수 있을 정도의 크기라, 가져가기에도 나쁘지 않을 것 같았다.\n\n우선 챙겨볼까?|A gentle, calming music playing from an unknown source tickles our ears.\n\nFollowing the sound, we came upon an area containing multiple pieces of artwork.\n\nWe began taking a cautious look around, realizing that we'd probably just walked into one of the Ring's galleries... and came across a pedestal for an artwork—except it had no art on top of it.\n\nIt was small enough to lift with one hand, so it wouldn't be too much trouble to take it with us.\n\nShould we?
+4783||AbEvents#ActionEvents_twth.json] 챙긴다.|Take it.
+4784||AbEvents#ActionEvents_twth.json] 색욕 유리 판정 성공 시, 출혈 E.G.O GIFT 획득|Lust Advantage check. Pass to gain a Bleed E.G.O Gift.
+4785||AbEvents#ActionEvents_twth.json] 특별히 쓰일만한 곳이 떠오르지도 않는데, 괜히 무게만 늘릴 필요는 없을 것 같다.\n\n전시대를 두고 떠나기로 했다.|There doesn't seem to be any immediate use for it. No need to slow ourselves down with this paperweight.\n\nWe decided to leave the pedestal behind.
+4786||AbEvents#ActionEvents_twth.json] 천장이 보이지 않는 공간, 끝없이 높이 서있는 진열장 사이를 돌아다닌다.\n\n다 합쳐서 몇 개였는지 기억하기 어려울 정도로 많은 장난감 박스를 지나치다가...\n\n“이건 뭔가요?”\n\n마치 뽐내듯 혼자 서 있는 나무 손가락 모형을 발견 했다.\n\n무언가를 움켜쥐려는 듯 굽혀져 있는 손가락 사이에는, 너클이 끼워져 있었다.\n\n가져가면 활용할 수 있지 않을까?|We explore the hall filled with endless stretches of display cases. The ceiling is so high that we can't even see where it ends.\n\nAt first, I tried counting how many toy boxes we'd walked past, but soon lost count...\n\n"What's this?"\n\n... and came upon an articulated hand model, standing proud in its lonesome glory.\n\nThe fingers are curled into a fist, as if to grasp something between them—a knuckle duster.\n\nMaybe we can put that to use if we can manage to pry it from the fist?
+4787||AbEvents#ActionEvents_twth.json] 질투 유리 판정 성공 시, 타격 E.G.O GIFT 획득|Envy Advantage check. Pass to gain a Blunt E.G.O Gift.
+4788||AbEvents#ActionEvents_twth.json] 챙기지 않는다.|Leave it.
+4789||AbEvents#ActionEvents_twth.json] 굳이 챙겨서 저걸 쓸 일이 있을까...?\n\n혼자 장난감 박스에 들어가 있지 않는 점도 수상하다 느껴져, 챙기지 않기로 했다.|Not sure what we can use that for, though...\n\nSomething about the way it sat outside the toy boxes all on its own struck me as quite suspicious as well. We decided to leave it there.
+4790||Announcer#Announcer_Aengdu_26.json] 과연, 저자에게는 그런 형세가 적절했겠군. 좋은 수였다고 보네.|Of course... That was a most fitting form of attack against that foe. Well done.
+4791||Announcer#Announcer_Aengdu_26.json] 절묘한 한 합이었군.|An exquisite angle of strike.
+4792||Announcer#Announcer_Aengdu_26.json] 친우들이 흘린 피의 무게는 결코 가볍지 않지. 남은 살수들이 그 무게를 알고 있으니, 이 역경 또한 응당 이겨내지 않겠는가?|The burden of blood spilled by one's fellows cannot be understated. The remaining Salsu are aware of that weight; thus shall this adversity be duly overcome.
+4793||Announcer#Announcer_Aengdu_26.json] 잠들기에는 아직 밤이 오지 않았건만…|It is not yet time for slumber, for the night is still afar...
+4794||Announcer#Announcer_Aengdu_26.json] 친우를 잃는 것에 일희일비하는 것은 살수답지 않지만… 사람의 마음을 온전히 버리지 못해 쓰라림은 다소… 있군.|It is not like a Salsu to fret so much upon the loss of a fellow, yet... therein lies the heart of a human still within me. It is somewhat... painful.
+4795||Announcer#Announcer_Aengdu_26.json] 기세가 좋군. 밝은 달 아래에 맑은 바람이라도 쐬는 표정이야. 귀하들.|I see that the morale among your forces is rallying. Like enjoying a crisp breeze under a bright moon among one's compatriots.
+4796||Announcer#Announcer_Aengdu_26.json] 피로한 것인가? 으음… 면면이 탁하군…|Is it fatigue that ails you? Mm... your countenance appears quite sallow.
+4797||Announcer#Announcer_Aengdu_26.json] 흠… 귀하들의 전투에 낭보가 있기를 기원하네.|I wish fair tidings to your battle.
+4798||Announcer#Announcer_Aengdu_26.json] 뒤로 무를 수단은 이제 남지 않았네. 그저 발검하여 앞으로 맞설 뿐. 무뢰배들에 차가운 검격을!|Retreat is an option no longer. The only path forward shall be paved by your draw of the sword. Let the scoundrel foes feel your cold steel cleave them down to their bones!
+4799||Announcer#Announcer_Aengdu_26.json] 경각에 달하였네. 이 한 합이 귀하들의 처우를 결정할지도 모르지. 신중히, 그러나 대담히. 우두께서 줄곧 그리 가르치셨지.|Thus arrives the moment of exigency; a single clash may as well be the decider of your fate. Be cautious yet bold; the Mentor has taught us so.
+4800||Announcer#Announcer_Aengdu_26.json] 뭐, 합을 맞댈 때 항상 정해진 답이 있는 것은 아니니까… 크흠, 그래도 좀 더 옳은 형세가 있지 않았나…|Well, some say that there is never a singular answer in discourse of strategy. ... Ahm. Still, I am of the belief that there exists a scale of correctness.
+4801||Announcer#Announcer_Aengdu_26.json] 그건, 무슨… 손이 미끄러진 것인가?|Wha— Tha... You must have slipped there, I presume?
+4802||Announcer#Announcer_Aengdu_26.json] 귀하들의 면면을 둘러보고 몸을 보함이 어떨지… 혹은 후일을 기약하고 도망함이…|Perhaps one might reassess their circumstances and choose to protect themselves... or, perhaps, one could also flee with the promise to return at a later time...
+4803||Announcer#Announcer_Aengdu_26.json] 낙화분분. 본래 꽃이라는 것은 떨어져 흩날릴 때 가장 아름다운 법.|Falling flowers bestrew the air. It is said that a flower is most beautiful in the moment of its scattered descent.
+4804||Announcer#Announcer_Aengdu_26.json] 깔끔히 잘라냈군. 처음부터 서로 다른 조각이었던 것처럼 말이지.|A clean cut. I can hardly tell that they were a single part to begin with.
+4805||Announcer#Announcer_Aengdu_26.json] 거슬렸던 부위를 도륙 냈으니, 전투를 이어가기 제법 수월하겠어.|You have hewn off a troublesome part; the battle henceforth shall be quite easier to handle.
+4806||Announcer#Announcer_Aengdu_26.json] 무뢰배들이 자못 유쾌해 보이는군… 청주라도 걸친 건가.|The scoundrels appear rather upbeat. ... Perhaps they shared a bottle of cheongju wine together?
+4807||Announcer#Announcer_Aengdu_26.json] 귀하들의 위력에 겁이라도 먹은 게지. 마음이 꺾인 모양이야.|Fear must have taken ahold of them; you have broken their wills.
+4808||Announcer#Announcer_Aengdu_26.json] 기묘한 수를 두는군… 간혹 계의 안에서 바둑을 두면 이런 신묘함을 보곤 했는데…|What a bizarre strategy they employ... I have observed such eccentricity among the Lineage in games of baduk.
+4809||Announcer#Announcer_Aengdu_26.json] …절명에 달하는 형세를 취했군. 상응하는 대응책이 있어야 할 것이네. 그렇지 않으면… 하아.|... They take the form of imminent execution. Prepare an appropriate countermeasure, or... haah.
+4810||Announcer#Announcer_Aengdu_26.json] 이건… 특이한 임무로군. 목소리를 녹취하여 무엇에… 으음, 뭐. 일을 고를 형편은 아니기에.\n…이름은 앵두, 검을 다루는 계의 살수일세.|What a... peculiar mission this is. What purpose is there in recording my— Mm. I suppose I am not at liberty to choose, given the circumstances.\nCall me Aeng-du. I am a Salsu from the Lineage that deals in Blades.
+4811||Announcer#Announcer_Aengdu_26.json] 무뢰배들도 하나씩 흩어져 가고 있네. 이대로 전부 조각낼 수도 있겠지. 귀하들의 검법이 우수했군.|You are routing the scoundrels. They will all be sliced into sections at this rate. A fine display of swordsmanship.
+4812||Announcer#Announcer_Aengdu_26.json] 지킬 것을 지키고, 죽일 것을 죽였다. 그 말에 참으로 부합하는 모습이었네. 어찌 들릴지 모르겠으나… 과히 검귀 같았어.|Protected what needed protecting, killed what needed killing. That is what you have done. I worry that this comment may sound odd, but... that was very much like a blade fiend.
+4813||Announcer#Announcer_Aengdu_26.json] 달빛조차 잘려 나갈 올곧은 한 합… 훌륭하군. 한 수 배웠네.|A cut so true that it could bisect even the light of the moon... excellent. I have learned aught from you today.
+4814||Announcer#Announcer_Aengdu_26.json] 조금 전의 귀하들의 전투는 뭇 살수들의 본보기가 될 정도였네. 과히 좋군.|Many Salsu could make a lesson out of this battle. You have done well.
+4815||Announcer#Announcer_Aengdu_26.json] 예상하지 못한 피해였네…! 우선 검을 물리는 것이!|An unforeseen harm...! Retreat your blade with haste!
+4816||Announcer#Announcer_Aengdu_26.json] 보통은… 자리를 피하겠지만, 귀하들은 그럴 여유가 없어 뵈이는군. 흠… 친우들을 지켜가며 싸워나가야 하지 않겠는가.|Normally, this is where retreating may be a wise option, yet it appears that you are not availed of such luxury.\nHm... Protect your fellows and battle on.
+4817||Announcer#Announcer_Aengdu_26.json] 잠시 무르는 게 어떤가. 우두께선 이런 상황에서 반드시 친우들의 상처를 가다듬고 나아갔으니.|Perhaps a brief retreat may help. The Mentor would always take a moment to tend to our fellows' wounds before forging onward.
+4818||Announcer#Announcer_Aengdu_26.json] 수세에 몰리는 것은 살수의 일상일 뿐. 귀하들이 좀 더 마음을 가다듬는다면 올라서지 못할 벽도 아니지.|To be disadvantaged in battle is simply expected in the life of a Salsu; thus, this situation is far from insurmountable. Calm your hearts and read your enemies, and you will find this struggle long past yourself.
+4819||Announcer#Announcer_Amiya_37.json] 단테 씨의 작전… 아주 효과적이었어요!|That was an effective strategy, Dante!
+4820||Announcer#Announcer_Amiya_37.json] 효과적인 공격이었어요!|That was an effective attack!
+4821||Announcer#Announcer_Amiya_37.json] 박사님처럼 훌륭한 지휘예요!|Your excellent command reminds me of Doctor's very own!
+4822||Announcer#Announcer_Amiya_37.json] 아군이 우세합니다! 지금이야말로 승기를 잡을 때입니다!|We have the upper hand! Now's the time to press the advantage!
+4823||Announcer#Announcer_Amiya_37.json] 림버스 컴퍼니 여러분. 이 기세를 몰아 이겨 봐요.|Let's seize this opportunity for victory, everyone.
+4824||Announcer#Announcer_Amiya_37.json] 여러분, 정신 차리세요!|Get it together, everyone!
+4825||Announcer#Announcer_Amiya_37.json] 수감자 사망… 어떡하죠?!|A Sinner is down... what do we do?!
+4826||Announcer#Announcer_Amiya_37.json] 수감자가 퇴각하지 못했어요. 앗, 단테 씨는 다시 일으키는 능력이 있었죠. 휴…|A Sinner failed to retreat. Oh, right! Dante could bring them back to life, right? Phew...
+4827||Announcer#Announcer_Amiya_37.json] 수감자의 상태에 뭔가 변화가…|Something seems to have changed with the Sinners...
+4828||Announcer#Announcer_Amiya_37.json] 수감자들의 상태를 확인할 필요가 있어 보여요, 관리자님!|Manager, please confirm the Sinners' statuses!
+4829||Announcer#Announcer_Amiya_37.json] 적이 옵니다! 여러분, 전투를 준비해 주세요!|Incoming! Prepare for battle, everyone!
+4830||Announcer#Announcer_Amiya_37.json] 림버스 컴퍼니 여러분과 함께하게 되어 정말 기뻐요.|I'm excited to work alongside Limbus Company.
+4831||Announcer#Announcer_Amiya_37.json] 아무리 힘든 임무라도, 여러분에겐 단테 씨가 계시니까 분명 해낼 수 있어요.|No matter how difficult the mission, I'm sure you can all handle this as long as Dante's there with you.
+4832||Announcer#Announcer_Amiya_37.json] 더 효과적인 방법이…|There has to be more effective ways to do this...
+4833||Announcer#Announcer_Amiya_37.json] 적절한 공격이 아니었더라도 최선의 선택이었을 거예요.|While it may not have been the most appropriate angle of attack, I'm sure you made the best possible decision at the moment.
+4834||Announcer#Announcer_Amiya_37.json] 적이 우세합니다…! 상황을 다시 살펴야 합니다.|They have the advantage! Let's take another look at the situation.
+4835||Announcer#Announcer_Amiya_37.json] 저분들도 사정이 있겠죠. 하지만 우리는 멈출 수 없습니다.|I'm sure they have their reasons. But we can't stop here.
+4836||Announcer#Announcer_Amiya_37.json] 부위 적출! 이대로 계속 나아갑시다.|Part broken! Let's keep going.
+4837||Announcer#Announcer_Amiya_37.json] 적출된 부위를 지속적으로 노립니다.|Let's all focus on the broken part.
+4838||Announcer#Announcer_Amiya_37.json] 적에게 변화가 보입니다.|I'm seeing some changes in the enemy behavior.
+4839||Announcer#Announcer_Amiya_37.json] 적의 상태가 안 좋아진 것 같아요!|I don't think they're doing too good!
+4840||Announcer#Announcer_Amiya_37.json] 단테 씨… 뭔가 심상치 않은 기운이 느껴져요.|Dante... I can feel that something's definitely wrong.
+4841||Announcer#Announcer_Amiya_37.json] 적이 옵니다! 전원, 대비하세요!|Incoming! Get ready, everyone!
+4842||Announcer#Announcer_Amiya_37.json] 관리자 단테 씨시군요. 아미야입니다. 브리핑 담당으로 로도스 아일랜드에서 왔어요. 잘 부탁드립니다.|You must be Manager Dante. This is Amiya from Rhodes Island—I'll be responsible for the briefing. Let's do this.
+4843||Announcer#Announcer_Amiya_37.json] 이것이 필요한 싸움이라면….|If the fight is unavoidable...
+4844||Announcer#Announcer_Amiya_37.json] 다수 처치, 확인.|Multiple hostiles down.
+4845||Announcer#Announcer_Amiya_37.json] 이게 림버스 컴퍼니만의 전투… 저도 또 하나 배웠습니다.|So this is Limbus Company's unique battle strategy... I've learned.
+4846||Announcer#Announcer_Amiya_37.json] 박사님이라면… 어떻게 판단하셨을까.|I wonder... I wonder what Doctor would've done in this situation?
+4847||Announcer#Announcer_Amiya_37.json] 관리자님, 지휘를…!|Your orders, Manager...!
+4848||Announcer#Announcer_Amiya_37.json] 적에게 큰 타격을 가했습니다.|That was an effective strike against the enemy.
+4849||Announcer#Announcer_Amiya_37.json] 이대로라면 곧 적을 저지할 수 있을 거예요!|This should be able to take them down soon!
+4850||Announcer#Announcer_Amiya_37.json] 정예 오퍼레이터에 버금가는 실력이에요!|Your skills are just like those of Elite Operators!
+4851||Announcer#Announcer_Amiya_37.json] 적이 깊은 상처를 입었습니다.|An enemy is heavily wounded.

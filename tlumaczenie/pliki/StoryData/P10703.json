@@ -1,0 +1,69 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Khaa-ha-ha!",
+      "kr_sha256": "14dd490df43c166deeb196976a472ab3a22ff6759c79378466557c3ca65c2468",
+      "en_sha256": "f58b6b9df29b29dd068fa41ce1d5ecf9e2f389e22a28dc84bf144cea183648c3"
+    },
+    "dataList[id=10].content": {
+      "pl": "Ten kombinezon… cholera, ale mi się podoba! Im więcej zabijam, tym jestem silniejszy!",
+      "kr_sha256": "e332448267304db55e3f13d65e7e492e77fde9b2be6556dbd7a0a6330aa57bf0",
+      "en_sha256": "0dc89161a380308f28bdd4ee04d61e778a380a720092e18252759a446600d3ce"
+    },
+    "dataList[id=11].content": {
+      "pl": "Lśniące oczy dziecka wyglądały, jakby było czymś odurzone…",
+      "kr_sha256": "0fe9fff54a0d358f08094d874c2a6eb9f69fd89f06121724d1e5de83a9702a89",
+      "en_sha256": "84ea2d05c4b013f2073216bcb50ace88e1bf3fe848f448b054894eb493d7c332"
+    },
+    "dataList[id=12].content": {
+      "pl": "Ale chyba dobrze się bawi, więc nie ma się czym przejmować. Prawda?",
+      "kr_sha256": "fc541e82d591bbdad64cf69f79500c9ae8c8ee4bc7aeba7e1b79280e414b58ac",
+      "en_sha256": "9fa69cfb35699b33693d2f8aadfdcc9b0f22aee21a0b0c61d5c74c2677cbb5e3"
+    },
+    "dataList[id=1].content": {
+      "pl": "Dziecko zanosiło się śmiechem radosnym, a zarazem cuchnącym krwią.",
+      "kr_sha256": "e5a228b60e924ab905194cdf5b7e6f80a0676282433280658b0a04589d210a54",
+      "en_sha256": "dd3c9d216b6132d4afa1e47a0ba1b82f9a8ea89a0c6872466a64fd99e8f39677"
+    },
+    "dataList[id=2].content": {
+      "pl": "Następny! Strzelać dalej!",
+      "kr_sha256": "b9004e39418cc04b2c27905caf479dc7b96b17e0a3d8f6cd9cd43984e35dca48",
+      "en_sha256": "16e87e08d518921ac6618621c42e10a7f1a7496f10b54647491aa11a2cb01e35"
+    },
+    "dataList[id=3].content": {
+      "pl": "Z broni dziecka bez przerwy buchał ogień.",
+      "kr_sha256": "0f68168fefc302d107f348648bb86e7b79decd27ac23ee96002a792e566d2868",
+      "en_sha256": "246a02f702aa561a43b566dd8ddbeab8c1374d3faa8e9f6fb41cfaa08eed4864"
+    },
+    "dataList[id=4].content": {
+      "pl": "Jakby puszczenie spustu w ogóle nie wchodziło w grę: na twarzy dziecka rozlany uśmiech, a policzki i ubranie mokną tylko od tryskających raz po raz kropel wrogiej krwi.",
+      "kr_sha256": "4bb63f480e22c3a28258decd26e13580ba5b0fcf4d4c6634dbcff75ccd390e1e",
+      "en_sha256": "00b3ec52cf837e93d8a9492a496f81e83b283b1343c847dec31747adc8036927"
+    },
+    "dataList[id=5].content": {
+      "pl": "Skończyły się naboje!",
+      "kr_sha256": "9654bce6b901950a1e699c53c30300b65b55c9204dbd7be13edea23d9fe02b5d",
+      "en_sha256": "05a2a9e4e3507463b58775082c83672592758f9c05e478d22f516b6fe8a4f4f7"
+    },
+    "dataList[id=6].content": {
+      "pl": "Już się zdawało, że błyski wreszcie przygasną, gdy dziecko cisnęło pustą bronią we wroga.",
+      "kr_sha256": "76d1f49ceeb905ba3134138cf4c5d139e8f6983c5d38719e89cded0bf1feb161",
+      "en_sha256": "865fa9ef5adc9acf67950035b6920ff5aff8681ecd43cea2e2134a494e086d01"
+    },
+    "dataList[id=7].content": {
+      "pl": "Rozgrzana do czerwoności broń trafiła prosto w cel, a ubranie przeciwnika w mig stanęło w płomieniach.",
+      "kr_sha256": "59d15dc5bef6a191ac3e9a9c3c70fbcfadf674a4bb50f6144ebe56b4548f9ff9",
+      "en_sha256": "7644c49ebbc0eabcf4618f5eb2290fba397bcd2c977d2f32e88f63c0b9ae91c6"
+    },
+    "dataList[id=8].content": {
+      "pl": "Jak łapami trawy nie rozgrzebiesz, to przegryziesz ją zębami i tyle!",
+      "kr_sha256": "ccacec4b49d18e36c1e6a6d52df0f54d2932ec1696fff5eb34c614ffb1deac66",
+      "en_sha256": "0f04c439afdb11ba52b297652b85f286cd5003b8eea7fd4795d05bad7cebd6ce"
+    },
+    "dataList[id=9].content": {
+      "pl": "Dziecko dobywa sztyletu i rzuca się naprzód. Skacze przed siebie jak prawdziwy królik i szatkuje wrogów do ostatniego.",
+      "kr_sha256": "22312d6b174ee29b13cde91ec8a1adf4ffec9b2c7e69acc8d5b364f5da349639",
+      "en_sha256": "2c8e19644b837b29c061bbca4aa3ed48139cba012fab267b3e757f25f61f7d76"
+    }
+  }
+}

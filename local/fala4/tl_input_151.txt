@@ -1,0 +1,96 @@
+14671||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 안경…이 맞나…? 전시대 위쪽에는 안경이라고 써있기는 하다.|... These <i>are</i> glasses, right...? The label above the display does say "glasses"...
+14672||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 평범한 안경, 선글라스들이 전시되어 있다. 몇 개는 그레고르에게 어울릴 것 같다.|On display are pairs of glasses and sunglasses. Some of these'll look good on Gregor.
+14673||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 의외로 평범한 안경, 선글라스들이다. 이렇게 보니 좀 심심한 것 같기도 하다.|Bizarrely normal-looking pairs of glasses and sunglasses that look out of place here. Surprisingly mundane, almost.
+14674||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 스툴과 서랍을 섞어놓은 것 같다. 앉기에도, 서랍으로도 애매해 보인다.|A combination of a stool and a drawer... A strawer. Looks like it fails at being either, though.
+14675||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 스툴과 서랍을 섞어놓은 것 같다. 서랍 안에 누군가 두고 간 눈알을 발견했다.|A combination of a stool and a drawer... A strawer. Found a handful of eyeballs in its drawer that somebody forgot.
+14676||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 스툴과 서랍을 섞어놓은 것 같다. 서랍 안에 누군가 두고 간 눈알을 기대했지만 텅 비어있다.|A combination of a stool and a drawer... A strawer. Found a handful of eyeballs in its drawer that somebody forgot... <i>not.</i> A clock can hope, though.
+14677||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [프레타 포르테] 진열대다.|A [Prêt-à-porter] display rack.
+14678||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 너무나 많은 게 얽혀있으면, 끊어내는 수밖에 없다.|When too much has become tangled together, the only choice is to sever them.
+14679||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이전에 오티스가 통신 교환기라고 알려줬다.|Outis once told me that it's a communication switchboard.
+14680||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [오리가미 컬렉션 N°92, 5 중에 2 누군가의 추락을 중첩된 시간으로 표현했습니다.]라고 써있다.|It says [Origami CollectioN° 92, 2 of 5. Someone's fall sublimated into superpositioned time.]
+14682||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 뭘 봐, 꺼져!|The fuck're you lookin' at! Get lost, fuckwit!
+14683||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <…가구관에서 온 소파구나.>|<... I see. This couch came from the Furniture Hall.>
+14684||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <여긴… 어두운 곳이 없어서 다행이네.>|<At least this room is well-lit.>
+14685||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이제는 빙글빙글 돌지도, 반짝이지도 않는다.|It doesn't twinkle or dance anymore.
+14686||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 흐물거리는 살가죽이 터진 풍선처럼 바닥에 늘어져 있다.|A slough of flesh is splayed on the ground. Looks like a popped balloon.
+14687||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 하나가 둘이 되었다. 둘이 된 자들은 더 이상 움직이지 않는다.|One has become two. The one who has become two stirs no longer.
+14688||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이제는 지겨운 살점으로 만든 의상이다. 이 정도는 이젠 평범하게 느껴진다.|Another shop, another boring, insipid dress made from flesh.
+14689||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [추락미분 연작 제2호 '시겔' / 백화점에서 추락한 어느 마네킹을 모티브로 추락하는 시간의 연속성을 표현했다.]|[Differential of Falling Series 2: "Siegel"\nThis installation was inspired by a Mannequin's fall through the Grand Magasin. The imagery evokes the falling continuity of time.]
+14690||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 자주 본다고 해서 이해될 것은 아닌 것 같다. …굳이 그럴 필요도 없을 것 같지만.|Looking at it probably won't advance my understanding of it. ... Not that there's any need to.
+14691||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [추락미분 연작 제3호 '스탁만' / 백화점에서 추락한 어느 마네킹을 모티브로 추락하는 시간의 연속성을 표현했다.]|[Differential of Falling Series 3: "Stockmann"\nThis installation was inspired by a Mannequin's fall through the Grand Magasin. The imagery evokes the falling continuity of time.\nSculpted in a smaller size relative to the Series 1 installation.]
+14692||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 금속재질로 보이는 목걸이가 전시되어 있다.|A necklace that appears to be made of metal is on display.
+14693||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 금전출납기다. 아무것도 남아있지 않은 것 같다.|A cash register. There doesn't seem to be anything left inside.
+14694||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 빈 토르소다.|An unadorned mannequin torso.
+14695||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 특이하게 염색된 것 같은 티셔츠다. 입은 르루주를 본 적은 없는 것 같다.|A T-shirt dyed in a unique pattern. Haven't encountered a single Rouge who's wearing this.
+14696||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [67' 프레시덴테 시그니처 컬렉션. 르루주의 지난 헤리티지를 재해석하여 격변하는 흐름 속에 어울리는 정체를 마련했습니다. - 가격은 담당 직원에게 문의해주세요.]|[Le Président 67' Signature Collection.\nAn encapsulation of Le Rouge's unique choice of material and bygone heritages, this exceptional blending has established a unique yet fitting identity for itself in the age of change. - Please enquire a customer representative for more information on its price.]
+14697||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그… 그건 도둑질이잖아요?|W-wait, isn't this just straight-up thievery?
+14698||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이 경우에는 현지 조달이라고 말하는 게 바르지 않겠나.|A more accurate designation for this strategy would be "field requisition tactics."
+14699||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>글쎄, 이런 경우에는 절도죄라고 말하던 거 같던데.</color>|<color=#ebcaa2>I don't know, this strategy probably falls under the designation we call "larceny" here.</color>
+14700||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …큼.|... *cough*
+14701||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그… 그럼 여기까지 오면서 마네킹들을 죽… 아니, 퇴장시켰던 건…|<Wait, we're not allowed to take eyeballs from cash registers? What about all those Mannequins we kill—I mean, "helped to the exit"?>
+14702||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>후훗. 기물파손죄?</color>|<color=#ebcaa2>Fuhu, you mean "criminal damage to property"?</color>
+14703||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <싱클레어, 백화점 안에서는 문제가 되진 않는 것 같아. 챙기자, 뫼르소.>|<It doesn't matter inside this department store anyway, Sinclair. Take those eyeballs, Meursault.>
+14704||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>하, 재미없네.</color>|<color=#ebcaa2>Hah. You're no fun at all.</color>
+14705||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <color=#ebcaa2>농담 받는 솜씨를 늘리지 못할 것 같으니, 대답하지 않기로 한 거야?</color>|<color=#ebcaa2>Just decided to ignore me now 'cuz you can't understand how jokes work, huh?</color>
+14706||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 눈알을 챙겼다.|Took the eyeballs.
+14707||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 굳이 챙기지 않아도 될 것 같다.|Don't need these <i>that</i> badly.
+14708||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아무것도 남아있지 않은 것 같다.|There isn't anything left.
+14709||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 금전출납기다. 안쪽을 더듬거리니 굴러다니는 눈알이 집혀진다.|It's a cash register. Reaching into its drawer to see if there's anything left... yields some eyeballs that were rolling around in its corner.
+14710||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 괜찮은 수확이군요, 관리자님. 이것들은 챙겨두는 것이 좋을 것 같습니다.|Not a bad get, Executive Manager. Take it—it should do us good to find and keep as many of these as we can.
+14711||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <음… 그러자.>|<Hm... Sure.>
+14712||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [살아있는 지방을 순간고열처리로 멜팅하여 덮었습니다. 에나멜틱한 표면을 직접 느껴 보세요.]라고 적혀 있다.|There's a caption below that says the following: [Treated and coated with fresh-melted fat tissue from a living subject. Touch it and feel the glassy, enamelistic surface.]
+14713||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 소파 틈새에서 누군가 흘리고 간 듯한 눈알을 발견했다.|Obtained some eyeballs that fell through the cracks in the couch.
+14714||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 가격표에는 [나잇살]이라는 단어가 적혀있다.|The price tag says "Sarcopenic Weight"
+14715||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 전시대 위쪽엔 [계절 상품]이라고 적혀있다. 계절이 의미가 있는지는 모르겠지만.|The label calls it [Seasonal Apparel]. Not that "seasons" mean anything.
+14716||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 플로어 매니저는 더 이상 아무 말도 읊조리지 않는다.|The Floor Manager speaks no more.
+14717||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 슬퍼하지…! 말라아아아아!!|Doooooo nooooot...! Griiiiieeeeve...!!!
+14718||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 곧 새로운 목소리가아아아아아…|A neonate vooooooooice shaaaaallllll...
+14719||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 르누아르에 속해있던 자의 시체다. 그토록 자랑하던 원단도 이 결과를 막아주지 못했다.|The corpse of a Noir. Even the fabric they took such pride in couldn't save them from this fate.
+14720||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 다시봐도 반죽 덩어리 같다…|Still looks like a lump of dough.
+14721||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [68' 시그니처 컬렉션. 67' 컬렉션의 복고주의를 완전히 부정하며, 르루주만의 해체주의적인 시선을 담아냅니다.]|[68' Signature Collection. An unequivocal rejection of the revivalist philosophy that underlined the 67' Collection, and a consummation of the deconstructive quality that is quintessentially Rouge.]
+14722||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 이제는 그닥 푹신해보이지 않는 소파다.|Doesn't look so plush now.
+14723||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [추락미분 연작 제 1호 '신시아' / 추락미분 연작 시리즈 첫 번째 작품. 최초로 백화점에서 추락한 마네킹 '신시아'의 모습을 묘사한 작품. 타 시리즈와 달리 추락이 시작되는 순간을 집중묘사한 작품으로 유일한 대형작이다.]|[Differential of Falling Series 1: "Cynthia"\nThis installation depicts the fall of Cynthia, the first Mannequin to fall in the Grand Magasin. The only large-scale installation in the series, it sets itself apart from the rest of the series by being the only piece to depict the precise moment her fall began in painstaking detail.]
+14724||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <그러고보니, 다른 곳이랑 다르게 여긴 상품이 아니라 작품… 이 있는 것 같은데.>|<Huh, now that I'm looking at it... this place has "installations," that aren't necessarily products.>
+14725||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <이곳에도 약지… 가 있는 걸까?>|<Do you think the Ring... has any presence here?>
+14726||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 예술 활동을 한다고 해서, 반드시 약지에 소속되어야만 하는 것은 아닙니다.|Not all artistic endeavors are associated with the Ring's activities.
+14727||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그래도 약지 아비의 갤러리에서 비슷한 걸 본 것 같아요…|Still, these remind me of the things we saw back at the Ring Nursefather's gallery.
+14729||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <뭔가 기록이라도 남겨두지 않았을까. 남아 있을진 모르겠지만…>|<Maybe there's a note explaining what all this means. Assuming that the note survived...>
+14730||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 추락미분… 이 장소에 더 있는 것 같았습니다만…|There indeed seem to be other "Differential of Falling" series in this area...
+14731||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <확실히 1호가 있다는 건, 2호도 있겠지. 도움이 될만한 게 있을지도 모르니 한 번 찾아보자.>|<Well, they went out of their way to call it "Series 1," so it seems reasonable to assume that there's a "Series 2." Let's keep an eye out for it in case they have anything that might come in handy.>
+14732||RPGSystem#rpg-loc-dialogue-floor-3-b.json] [시즌오프 상품]이라고 쓰여있다.|The label says [Off-Season Items].
+14733||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 뼈로 장식한 것만 같은 옷들이다.|Articles of clothing adorned with what appear to be bones.
+14734||RPGSystem#rpg-loc-dialogue-floor-3-b.json] ['즈와즈' 익스페리멘탈 컬렉션] 새에서 모티프를 얻었다고 적혀있다. 어디서 구했는지 모를 깃털이 잔뜩 붙어있다.|["Les Oiseaux" Experimental Collection.]\nThe caption below reads that it was inspired by a bird. It is plastered from top to bottom with a thick coating of feathers—where did they even get the feathers?
+14735||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 커다란 천이 드리워진 문이다. 들어갈 수는 없어 보인다.|There's a heavy curtain draped over this door. Can't seem to enter.
+14736||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 누군가, 혹은 무언가에게서 분리된 거대한 팔이다.|A gargantuan arm separated from somebody. Or something.
+14737||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 무난하다고 말할 수 있을 법한 챙모자다.|A brimmed hat that one might dare call "average."
+14738||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 다채로운 색상의 실들로 가득 찬 벽면이다.|A sundry of colorful threads line this wall.
+14739||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 날이 바짝 서있다. 가위보다는 낫에 가까울 정도로.|The edge is very sharp. Almost like a scythe's edge rather than a scissor blade's.
+14740||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 녹슨 가위다. 오랫동안 방치된 것 같다.|A rusty pair of scissors. These haven't been used in a while.
+14741||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 반대편이 두꺼운 천으로 가려져있다. 틈새에 무언가 반짝이는 게 보인다.|The other side is hidden behind a thick layer of fabric. There's something twinkling there.
+14742||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 반대편이 두꺼운 천으로 가려져있다. 들춰봤지만, 이번엔 아무것도 없었다.|The other side is hidden behind a thick layer of fabric. Uncovered the fabric, but this time, there isn't anything behind.
+14743||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 회의가 아직 끝나지 않았어!|Meeting still underway!
+14744||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 회의는 계속되어야 한다고 했어!|The meeting must go on, they said!
+14745||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 아아… 목소리여, 도와주세요! 이제야 당신을 만날 수 있게 되었는데 죽어가고 있어요!|Ooh... Voice...! Help me... Must I suffer death now, when you have finally come to grace me?!
+14746||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 반대편이 두꺼운 천으로 가려져있다.|The other side is hidden behind a thick layer of fabric.
+14748||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 다 됐어. 너희의 찬란한 황금원단을 가져가.|It's done. You may take this Golden Fabric and its brilliance with you.
+14749||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 더 이상 움직이지 않는 르루주에게서 어렵지 않게 척추를 뽑아낼 수 있었다.|Easily ripped the spine off the Rouge who'd stopped moving.
+14750||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <피했다고 생각했는데…>|<Damn, thought we dodged that.>
+14751||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 빠르기도 빠를뿐더러, 중간에 뫼르소, 저자를 따라 방향을 틀어버리더군요.|That enemy presents difficulties on multiple fronts... Its speed is one thing, but it has the uncanny ability to swerve at the last minute to follow Meursault's attempt to evade.
+14752||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 주변 지형지물을 활용하거나, 좀 더 변칙적으로 움직여야 할 것 같습니다.|I recommend using the environmental obstacles or employing more unpredictable evasive maneuvers.
+14753||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <역시 그렇겠지. 좋아, 다시 가보자.>|<... Of course. Let's try this again.>
+14754||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <터지는 타이밍이 매번 헷갈리네…>|<Can't get a good grasp on when it'll explode...>
+14755||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 흔들거리기 시작하자마자 멀리 떨어져야 할 것 같아요.|We'll have to move away as soon as it begins to tremble.
+14756||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 다음엔 빠릿빠릿하게 움직이도록.|Try to stay more alert next time.
+14757||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그러도록 하지.|It will be done.
+14758||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 커다란 몸집에 어울리지 않게 제법 빠르군요.|It is quite fast for its size.
+14759||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 돌진할 때, 어떻게 피하셔야할까요… 틈을 노려 막을 순 있겠지만, 어려울 것 같은데요.|How should Meursault dodge its charge...? Maybe there's a way to perfectly time a block, but I don't think that'll be easy.
+14760||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 언뜻 피할 곳이 없어보이지만, 벽끝은 제법 안전해보이더군.|While it may seem as though there is no room to properly evade its charge, there were small indents at both ends of the room—perhaps you could hide there?
+14761||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <아, 맞아. 거기까진 닿지 않는 것 같았어.>|<Oh, right. I don't think it can reach that far.>
+14762||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 달려드는 모빌들을 차근차근 상대하면서 피해를 누적시키는 것이 최선일 것 같습니다, 관리자님.|As for the rest of the battle strategy... A more deliberate approach will be effective, Executive Manager. Take your time fending off the onslaught of Mobiles and slowly wear down the primary foe.
+14763||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …쯧. 아무리 차례가 왔다고해도, 고생이 많군.|... Tsk. I know it's your "turn," but this must still be incredibly taxing.
+14764||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 돌아가면, 당번은 화장실에서 놀고 있는 놈들에게 넘겨주겠다.|Once we return, I'll be sure to assign the cleaning duties to the ones lounging around in the restroom.
+14765||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그러니… 조금만 더 수고하도록.|So... hold on just a little longer.
+14766||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그러지.|I will.
+14767||RPGSystem#rpg-loc-dialogue-floor-3-b.json] …닿자마자 반으로 뜯어버리는군.|... That thing ripped him in half the moment they came into contact.
+14768||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 저들의 회의가 끝날 때까지 기다리는 편이 좋을 것 같습니다, 관리자님.|We may have to wait until their "meeting" is adjourned, Executive Manager.
+14769||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 그렇게 중요한 회의 같지도 않았는데…|Honestly, those agendas didn't really seem all that important...

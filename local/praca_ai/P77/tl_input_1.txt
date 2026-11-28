@@ -1,0 +1,131 @@
+1||(ulepszenie 1) — opis] 고양을 가진 대상 우선 공격\n대상에게 취기 가 없다면, 합 위력 +5|Prioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5
+2||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 고양 을 가지고 있다면, 고양 만큼 피해량 +100%|[OnSucceedAttack] If target has Morale Boost, deal +100% damage for each Count
+3||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 취기 를 가지고 있다면, 주는 피해가 0이 되고 자신의 체력 -50|[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP
+4||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 고양 혹은 취기 전부 소모 시킴|[OnSucceedAttack] Remove all Morale Boost or Tipsy
+5||(ulepszenie 1) — nazwa] 이번에는 안돼!|Not This Time!
+6||(ulepszenie 1) — opis] 요정주 우선 대상 공격|Prioritizes Fairy Wine
+7||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 요정주를 공격했다면, 다음 턴에 체력 10% 회복, 공격 위력 증가 2, 신속 2, 보호 2를 얻음.|[OnSucceedAttack] If this attacks Fairy Wine, heal 10% HP next turn, and gain 2 Attack Power Up, 2 Haste, and 2 Protection
+8||(ulepszenie 1) — nazwa] 이 요정주가 좋나?|You Like This Brew?
+9||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 속박 1 얻음|[WhenUse] Gain 1 Bind next turn
+10||(ulepszenie 1) — nazwa] 요정주|Fairy Wine
+11||(ulepszenie 1) — opis] [WhenUse] 상대의 고양을 수치만큼 취기로 변환|[WhenUse] Convert opponent's Morale Boost into Tipsy
+12||(ulepszenie 1) — nazwa] 상처 훑기|Skim Wounds
+13||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 출혈을 가지고 있다면, 마비 1 부여|[OnSucceedAttack] If target has Bleed, inflict 1 Paralyze
+14||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count
+15||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 출혈 횟수가 2 이상이면 출혈 5 부여.|[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed
+16||(ulepszenie 1) — nazwa] 옭아매인 상처|Entangled Injury
+17||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 출혈을 가지고 있다면, 다음 턴에 속박 1 부여|[OnSucceedAttack] If target has Bleed, inflict 1 Bind next turn
+18||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed
+19||(ulepszenie 1) — nazwa] 묻어오는 살점|Smeared Flesh
+21||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 출혈을 가지고 있다면, 체력 20 회복|[OnSucceedAttack] If target has Bleed, heal 20 HP
+23||(ulepszenie 1) — nazwa] 드리우는 그늘|Casting Shade
+24||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 거대 클로버 생성\n[DefeatDuel] 거대 클로버의 체력이 70%인 상태로 생성됨.|[WhenUse] Spawn a Giant Clover next turn\n[DefeatDuel] The Giant Clover spawns with 70% HP
+25||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 전부 소모|[OnSucceedAttack] Remove all Bleed Count
+26||(ulepszenie 1) — nazwa] 소화|Churning
+27||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 출혈당 자신의 전체 체력의 1%만큼 회복\n출혈 횟수 전부 소모|[OnSucceedAttack] Heal by 1% of Max HP per target's Bleed\nRemove all Bleed Count
+28||(ulepszenie 1) — nazwa] 발아|Sprout
+29||(ulepszenie 1) — nazwa] 황금 과실|Golden Fruit
+30||(ulepszenie 1) — moneta 1, efekt 1 — opis] [DefeatDuel] 자신에게 피해 20|[DefeatDuel] Take 20 damage
+31||(ulepszenie 1) — moneta 1, efekt 2 — opis] [DefeatDuel] 황금빛 1 잃음|[DefeatDuel] Lose 1 Golden Sheen
+32||(ulepszenie 1) — nazwa] 단단한 황금|Solid Gold
+33||(ulepszenie 1) — nazwa] 영양분 흡수|Absorb Nutrients
+34||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 본체의 체력 3 회복|[OnSucceedAttack] Core heals 3 HP
+35||(ulepszenie 1) — nazwa] 허물어지는 과육|Deteriorating Flesh
+36||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count next turn
+37||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 취약 2 부여|[OnSucceedAttack] Inflict 2 Fragile next turn
+38||(ulepszenie 1) — nazwa] 포획|Entangle
+39||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 본체의 체력 10 회복|[OnSucceedAttack] Core heals 10 HP
+40||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed next turn
+41||(ulepszenie 1) — nazwa] 들이받기|Ram
+42||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 3 부여|[OnSucceedAttack] Inflict 3 Burn
+44||(ulepszenie 1) — nazwa] 찍어누르기|Pin Down
+45||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 횟수 3 증가|[OnSucceedAttack] Inflict +3 Burn Count
+46||(ulepszenie 1) — nazwa] 돌진|Charge In
+47||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 2 부여|[OnSucceedAttack] Inflict 2 Burn
+48||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 피해량의 20%만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt
+53||(ulepszenie 1) — nazwa] 넘쳐흐르는 슬픔|Overflowing Sorrow
+54||(ulepszenie 1) — opis] [DefeatDuel] 해소되지 않은 슬픔 1을 얻음|[DefeatDuel] Gain 1 Unresolved Sorrow
+55||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 15 감소|[OnSucceedAttack] Target loses 15 SP
+56||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 피해량의 50%만큼 대상의 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt
+57||(ulepszenie 1) — nazwa] 뜨거운 울음소리|Heated Cries
+58||(ulepszenie 1) — opis] [WinDuel] 다음 턴에 신속, 공격 위력 증가 1을 얻음|[WinDuel] Gain 1 Haste and 1 Attack Power Up next turn
+59||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 울렁이는 감정 1 부여|[OnSucceedAttack] Inflict 1 Wavering Emotions
+60||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 침잠 횟수 3 증가|[OnSucceedAttack] Inflict +3 Sinking Count
+61||(ulepszenie 1) — nazwa] 뜨거운 비명소리|Heated Screams
+64||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 침잠 2 부여|[OnSucceedAttack] Inflict 2 Sinking
+67||Wróg / część [8175] — nazwa] 분노를 머금은 장미|Wrath-drenched Rose
+68||Wróg / część [8175] — opis] 본체|Core
+69||Wróg / część [8176] — nazwa] 색욕을 머금은 장미|Lust-drenched Rose
+71||Wróg / część [8177] — nazwa] 나태를 머금은 장미|Sloth-drenched Rose
+73||Wróg / część [8178] — nazwa] 탐식을 머금은 장미|Gluttony-drenched Rose
+75||Wróg / część [8179] — nazwa] 우울을 머금은 장미|Gloom-drenched Rose
+77||Wróg / część [8180] — nazwa] 오만을 머금은 장미|Pride-drenched Rose
+79||Wróg / część [8181] — nazwa] 질투를 머금은 장미|Envy-drenched Rose
+81||Wróg / część [8182] — nazwa] 개화 E.G.O::마름|Effloresced E.G.O::Farmwatch
+83||Wróg / część [8183] — nazwa] 욕망의 나무|Tree of Desires
+85||Wróg / część [8184] — nazwa] 흡수하는 나무|Absorbing Tree
+87||Wróg / część [8197] — nazwa] 홍염나방|Ardor Blossom Moth
+89||Wróg / część [8198] — nazwa] 머금은 목화|Drenched Gossypium
+91||Wróg / część [8199] — nazwa] 경멸의 나선|Spiral of Contempt
+93||Wróg / część [8200] — nazwa] 손아귀|Grasp
+95||Wróg / część [8201] — nazwa] 장미 표지판|Sign of Roses
+97||Wróg / część [8118] — nazwa] 증기 운반 기계|Steam Transport Machine
+99||Wróg / część [8119] — nazwa] 길 잃은 승객|Wayward Passenger
+101||Wróg / część [8120] — nazwa] 피가 흐르는 차원|Hemorrhaging Dimension
+103||Wróg / część [8121] — nazwa] 독이 들끓는 차원|Poisonous Dimension
+105||Wróg / część [8122] — nazwa] 끊임없이 진동하는 차원|Tremoring Dimension
+107||Wróg / część [8123] — nazwa] 전류를 뿜어내는 차원|Electrifying Dimension
+109||(ulepszenie 1) — nazwa] 끝나지 않는 축제|The Infinite Parade
+110||(ulepszenie 1) — opis] [CantDuel]\n대상이 수비 스킬을 사용했으면 피해를 받지 않음\n[WhenUse] 다음 턴에 곤돌라 1개를 생성|[CantDuel]\nIf the target used a Defense Skill, the target does not take damage\n[WhenUse] Generate 1 Gondola next turn
+111||(ulepszenie 1) — nazwa] 영원한 축제|The Eternal Festival
+112||(ulepszenie 1) — opis] [CantDuel]\n대상이 수비 스킬을 사용했으면 피해를 받지 않음\n[WhenUse] 다음 턴에 곤돌라 4개를 생성|[CantDuel]\nIf the target used a Defense Skill, the target does not take damage\n[WhenUse] Generate 4 Gondola next turn
+113||(ulepszenie 1) — nazwa] 타는 갈증|Burning Thirst
+114||(ulepszenie 1) — opis] 자신이 소모한 [BloodDinner] 100당 최종 위력 +1 (최대 5)\n[WhenUse] 대상의 [Laceration] 5당 기본 위력 +1 (최대 3)\n[WhenUse] [BloodDinner]을 최대 30 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻음\n[DefeatDuel] 정신력 3 감소|Final Power +1 for every 100 [BloodDinner] this unit consumed (max 5)\n[WhenUse] Base Power +1 for every 5 [Laceration] on the target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed\n[DefeatDuel] Lose 3 SP
+115||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count
+116||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+117||(ulepszenie 1) — nazwa] 꿰뚫려라|Be Impaled
+118||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 40 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 3 회복\n\n[DefeatDuel] 정신력 3 감소|[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n\n[DefeatDuel] Lose 3 SP
+119||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 최대 체력의 20%만큼 색욕 피해를 줌|[OnSucceedAttack] Deal Lust damage equal to 20% of the target's max HP
+121||(ulepszenie 1) — nazwa] 돈키호테류 경혈 2식 - 말뚝|Don Quixote Hardblood Arts 2 - Stake
+122||(ulepszenie 1) — opis] [Laceration]이 가장 많이 부여된 대상 공격\n자신이 소모한 [BloodDinner] 100당 최종 위력 +1 (최대 5)\n[WhenUse] 대상의 [Laceration] 5당 코인 위력 +1 (최대 2)|Attacks the target with the most [Laceration]\nFinal Power +1 for every 100 [BloodDinner] this unit consumed (max 5)\n[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)
+123||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+124||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Burst] 2 부여|[OnSucceedAttack] Inflict 2 [Burst]
+125||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+127||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] (대상의 [Laceration] 위력 X 횟수)만큼 색욕 피해를 줌|[OnSucceedAttack] Deal Lust damage equal to ([Laceration] Potency x Count)
+128||(ulepszenie 1) — nazwa] 경혈식 쐐기|Hardblood Wedge
+129||(ulepszenie 1) — opis] 자신이 소모한 [BloodDinner] 100당 최종 위력 +1 (최대 5)\n[StartBattle] 자신의 [RegainedStrength] 3당 가중치 +1 (최대 2)\n[EndSkill] [RegainedStrength] 3 소모\n[DefeatDuel] 최종 피해량 -80%|Final Power +1 for every 100 [BloodDinner] this unit consumed (max 5)\n[StartBattle] Atk Weight +1 for every 3 [RegainedStrength] on self (max 2)\n[EndSkill] Consume 3 [RegainedStrength]\n[DefeatDuel] Deal -80% final damage
+130||(ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+131||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +3 [Laceration] Count
+132||(ulepszenie 1) — moneta 1, efekt 3 — opis] [WinDuelAttack] [Burst] 3 부여|[WinDuelAttack] Inflict 3 [Burst]
+133||(ulepszenie 1) — moneta 1, efekt 4 — opis] [DefeatDuelAttack] [RegainedStrength] 1 소모|[DefeatDuelAttack] Consume 1 [RegainedStrength]
+135||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+138||(ulepszenie 1) — nazwa] 피의 욕망|Desire for Blood
+139||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 40 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 5 회복\n[WhenUse] [RegainedStrength] 5당 부여하는 [Laceration] 횟수 1증가 (최대 2)\n[DefeatDuel] 최종 피해량 -80%|[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 5 SP for every 10 [BloodDinner] consumed\n[WhenUse] Inflict +1 more [Laceration] Count for every 5 [RegainedStrength] (max 2)\n[DefeatDuel] Deal -80% final damage
+141||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Laceration] Count
+147||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+148||(ulepszenie 1) — nazwa] 혈찬의 시간|Moment of Bloodfeast
+149||(ulepszenie 1) — opis] [CantIdentify]\n[WhenUse] [BloodDinner]을 최대 300 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 3 회복\n[WhenUse] [BloodDinner]을 소모했으면 정신력 30 회복\n[DefeatDuel] 최종 피해량 -80%|[CantIdentify]\n[WhenUse] Consume up to 300 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If this unit consumed [BloodDinner], heal 30 SP\n[DefeatDuel] Deal -80% final damage
+151||(ulepszenie 1) — nazwa] 돈키호테류 경혈 4식 - 도려내기|Don Quixote Hardblood Arts 4 - Sundering
+152||(ulepszenie 1) — opis] 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음.\n[WhenUse] [BloodDinner]을 최대 100 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 15 회복\n[WhenUse] 자신의 [BloodDinner_Accumulation] 수치 30당 합 위력 +1 (최대 15)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음.\n[EndSkill] 증가한 합 위력만큼 이번 턴과 다음 턴에 [AttackDown], [DefenseDown]를 얻음. (최대 15)\n[DefeatDuel] 최종 피해량 -80%|Cannot be Staggered until he uses this Skill.\n[WhenUse] Consume up to 100 [BloodDinner]: gain 1 [RegainedStrength] and heal 15 SP for every 10 [BloodDinner] consumed\n[WhenUse] Clash Power +1 for every 30 [BloodDinner_Accumulation] by this unit (max 15)\n[DefeatDuel] Deal -50% damage, and the damage from this Skill does not Stagger the target.\n[EndSkill] For this turn and next turn, gain [AttackDown] and [DefenseDown] equal to the Clash Power gained with this Skill. (max 15)\n[DefeatDuel] Deal -80% final damage
+154||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8 부여|[OnSucceedAttack] Inflict 8 [Laceration]
+155||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [RegainedStrength] 2 소모|[OnSucceedAttack] Consume 2 [RegainedStrength]
+156||(ulepszenie 1) — nazwa] 돈키호테류 경혈 14식 망토|Don Quixote Hardblood Arts 14: Mantle
+157||(ulepszenie 1) — opis] 자신이 소모한 [BloodDinner] 100당 기본 위력 +1 (최대 10)\n[DuelGuard]\n[WinDuel] 대상에게 [Laceration] 4, [Burst] 4 부여\n[DefeatDuel] [RegainedStrength] 2 소모|Base Power +1 for every 100 [BloodDinner] this unit consumed (max 10)\n[DuelGuard]\n[WinDuel] Inflict 4 [Laceration] and [Burst]\n[DefeatDuel] Consume 2 [RegainedStrength]
+159||(ulepszenie 1) — nazwa] 약하디 약하구나|Frail, So Frail
+160||(ulepszenie 1) — opis] [DuelCounter]\n[RegainedStrength] 5당 기본 위력 +1\n대상의 [Laceration] 5당 코인 위력 +1 (최대 2)\n[DefeatDuel] 정신력 3 감소|[DuelCounter]\nBase Power +1 for every 5 [RegainedStrength]\nCoin Power +1 for every 5 [Laceration] on the target (max 2)\n[DefeatDuel] Lose 3 SP
+163||(ulepszenie 1) — nazwa] 블러디 메리 고 라운드|Bloody-Merry-Go-Round
+164||(ulepszenie 1) — opis] [CantDuel]\n[WhenUse] 적에게 피해를 주지 않으며, 다음 턴에 굳어진 꿈을 생성함\n[WhenUse] [RegainedStrength] 5당 부여하는 [Laceration] 횟수 1증가 (최대 2)|[CantDuel]\n[WhenUse] Does not deal any damage against enemies; generate Coagulated Dream units next turn\n[WhenUse] For every 5 [RegainedStrength], inflict +1 more [Laceration] Count (max 2)
+169||(ulepszenie 1) — nazwa] 꿰어져라|Be Impaled
+170||(ulepszenie 1) — opis] [DefeatDuel] 정신력 3 감소\n[DefeatDuel] 최종 피해량 -50%|[DefeatDuel] Lose 3 SP\n[DefeatDuel] Deal -50% final damage
+172||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 상태가 되고, 다음 턴에 [Penetration] 상태가 됨|[OnSucceedAttack] The target becomes staggered, then becomes [Penetration] next turn
+173||(ulepszenie 1) — moneta 2, efekt 3 — opis] [EndCoin] 대상의 [Laceration] 위력 25 감소. 해당 수치만큼 [Laceration]을 얻고, [BloodDinner] 증가|[EndCoin] The target loses 25 [Laceration] Potency. Gain [Laceration] and increase [BloodDinner] equal to that value
+174||(ulepszenie 1) — nazwa] 돈키호테류 경혈 오의 - 구|Ascendant Don Quixote Hardblood Arts - The Sphere
+175||(ulepszenie 1) — opis] 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음.\n[BloodDinner_Common_Accumulation]만큼 피해량이 증가함.(최대 300%)\n[WhenUse] 정신력 30 회복\n[WhenUse] [RegainedStrength] 10당 합 위력 +1\n[EndSkill] [RegainedStrength] 모두 소모. 이번 턴과 다음 턴에 [Vulnerable] 5 얻음. 다음 턴에 [Binding] 2 얻음.\n[DefeatDuel] 최종 피해량 -80%|Cannot be Staggered until he uses this Skill.\nDeal more damage equal to [BloodDinner_Common_Accumulation]. (max 300%)\n[WhenUse] Heal 30 SP\n[WhenUse] Clash Power +1 for every 10 [RegainedStrength]\n[EndSkill] Consume all [RegainedStrength]. Gain 5 [Vulnerable] this turn and next turn. Gain 2 [Binding] next turn.\n[DefeatDuel] Deal -80% final damage
+178||(ulepszenie 1) — nazwa] 집요한 상처내기|Tenacious Wound
+179||(ulepszenie 1) — opis] 대상의 [Laceration] 위력이 6 이상이면, 코인 위력 +1, 이 스킬에서 부여하는 [Laceration] 위력과 횟수의 값 +1|If target has 6+ [Laceration] Potency, gain Coin Power +1 and gain +1 to [Laceration] Potency and Count inflicted by this Skill
+184||(ulepszenie 1) — nazwa] 상처내기|Wound
+188||(ulepszenie 1) — nazwa] 죄어오는 가시덩굴|Brambles that Constrict
+189||(ulepszenie 1) — opis] 대상의 [Laceration] 위력이 6 이상이면, 이 스킬에서 부여하는 [Laceration] 위력의 값 +1\n대상의 ([Laceration] 위력 + [Laceration] 횟수)가 15이상이면, 공격 가중치 +2|If target has 6+ [Laceration] Potency, this Skill inflicts +1 more [Laceration] Potency\nIf target has 15+ ([Laceration] + [Laceration] Count), gain +2 Atk Weight
+192||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count
+193||(ulepszenie 1) — nazwa] 목마른 꽃잎|Polydipsic Petals
+194||(ulepszenie 1) — opis] [Laceration] 위력과 횟수의 합이 가장 높은 대상에게 시전\n[WhenUse] 대상의 [Laceration] 위력이 6 당, 코인 위력 +1 (최대 2)|Attacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] Coin Power +1 for every 6 [Laceration] Potency on target (max 2)

@@ -1,0 +1,544 @@
+{
+  "entries": {
+    "dataList[id=MDHcFaBa].desc": {
+      "pl": "Poziom Obrony +4",
+      "kr_sha256": "27330bb2cb4c01e775610af375d1a63b9c682f39718ae237d4c7335af3a6fdfb",
+      "en_sha256": "a5427b0ea9290707dee4b38cbc901d6de516aab44d4755aa72dd29189f62dac4",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFaBa].name": {
+      "pl": "Wzrost Poziomu Obrony",
+      "kr_sha256": "c6d07d1267771934fff6091c0467b15ef7aeedf6edc319bad6d968056f6a91ac",
+      "en_sha256": "1f1fec7e0e92c989a82fbf0098fc317bf2677eaba6ae0af7708f57f7ac3e0b49",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFaBb].desc": {
+      "pl": "Moc Bazowa Umiejętności Obrony +2",
+      "kr_sha256": "08b29871ead3d257e165a1ca686543349c8521512538f9a26fb98d558a1668b5",
+      "en_sha256": "3dac2f23df129032d3f65c9accae2c2498e9900f6c31614ae7575beabaa78fa4",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFaBb].name": {
+      "pl": "Wzrost Mocy Obrony",
+      "kr_sha256": "c28c293ddae8568e0cf025e3b7cfa350ff7b7ffc0a688b3a571513c384e2d7e8",
+      "en_sha256": "34f64e0fdd9526f156c13d1719c5b843d59eefe1460d7ed496b4a432be57ba70",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFaBc].desc": {
+      "pl": "Maks. HP +10%",
+      "kr_sha256": "89ae6afd8f8321b3b8ae05948732f565bdc8fc45d6fd29b0e039ef4f39ac56b5",
+      "en_sha256": "114a9704b96447cf12ab64c3cd0662be7da76eb46831d206f9e43569bcfa37e4",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFaBc].name": {
+      "pl": "Wzrost Maks. HP",
+      "kr_sha256": "e54d967db2e944906f0b165e8d4d9dd442c5f01b1b25f77c66adbddc8a7c6b39",
+      "en_sha256": "97d5965a745de306e6e39e7d21e56df96ff03ed8f06dc58090d4c244cf0ff4f1",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFaBd].desc": {
+      "pl": "Otrzymuje -10% obrażeń",
+      "kr_sha256": "72f44b672af0d1cc401f8461ef316defecf9073de472f8a12913b193259f9ffa",
+      "en_sha256": "7e5eb5e89c5b74345777eb60869d95b3eb9de04d6f32fbabb3484434f65b72d8",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFaBd].name": {
+      "pl": "Zmniejszone Otrzymywane Obrażenia",
+      "kr_sha256": "d894108779a06d0503c1a74fd70752f7e8aeb47ad792c8d569e4c03f616dad9c",
+      "en_sha256": "accf79376e787363d3a701787db0d41ce7b9b35fa57e3577def6b19a36959fe8",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBa].desc": {
+      "pl": "Poziom Ataku +3, Maks. HP +5%",
+      "kr_sha256": "11097c8bbc6bfa4d18dd0274ba93220d0f84cc5a9745b0fadd03abb7ad085c83",
+      "en_sha256": "6f7cf54a45fefdb01976d4789c0e5836ab150cde1b5d2d880b02b5e59e57314f",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBa].name": {
+      "pl": "Wzrost Poziomu Ataku",
+      "kr_sha256": "6cb2a658518646e886f200e04a627fbfd5d1d0d4d40885c109df2d0e25bbe8ae",
+      "en_sha256": "61ed21ddbbc9679931e3787a23116cb9a45732aee54d65f760b473e9a578e00b",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBb].desc": {
+      "pl": "Moc Końcowa +1, Maks. HP +5%",
+      "kr_sha256": "6ced3bceb1f4f265b83a783dccfc5dcf7a8b54820495dd0166d44fc283a8cabc",
+      "en_sha256": "1bf029d287df5ac8c341dd3ad134f3f106ef371866efe4baf456f6fc21d5f456",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBb].name": {
+      "pl": "Wzrost Mocy Końcowej",
+      "kr_sha256": "90a9556745876afe4b01d8b9471e3894b17c5047dd575ddf959260095761eb58",
+      "en_sha256": "8a3552f8661d2344f30d77fa2d27ae25c857a40a963677d3ed20ec36f2d0db4f",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBc].desc": {
+      "pl": "Moc Bazowa +1, Maks. HP +5%",
+      "kr_sha256": "ec6b0f00b4d29de9560ce89e0b924c3ae79050291c27be9307bb4e207f04c18f",
+      "en_sha256": "b8432fa1bf777b96877867f24a3861431db82fb7e4b35ad5877f003005871ac8",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBc].name": {
+      "pl": "Wzrost Mocy Bazowej",
+      "kr_sha256": "45ced04c7c50b78157c9becec863c7816ed356c224d3b18ae0aa08ae5de741a9",
+      "en_sha256": "d5863e50198b155b59f2673807668e9a0ec42cded2db6bb67acb6bbedc24cc9f",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBd].desc": {
+      "pl": "Zadaje +15% obrażeń, Maks. HP +5%",
+      "kr_sha256": "20781ea2d000da3f6541c0c5a00181ccaacb17f336ae302b5d65ae61d193fb50",
+      "en_sha256": "7b96993d2914aba3345f449e504b1e53b6412261ecb06bafa5091a440eb6c8d2",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFbBd].name": {
+      "pl": "Wzrost Zadawanych Obrażeń",
+      "kr_sha256": "8c8f7e38b0843ac333a05d41ceacf31e63bd378d28bf0d31f434f1c1845f6be3",
+      "en_sha256": "0894dce4920d429e2a5186def671ae627fe01999ed39e3ec7b6a9ea1806adec1",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBa].desc": {
+      "pl": "Moc Końcowa +1, Maks. HP +15%",
+      "kr_sha256": "1ce840fd43c384674fd5007de972b551f428aed60d513b495a464837bd08f581",
+      "en_sha256": "98b819e1ae01b1358d608baffbd6be8c3dcf6fd40af402848ddd473ee4b406c4",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBa].name": {
+      "pl": "Amplifikacja Mocy Końcowej I",
+      "kr_sha256": "b76488824f9a08847542eae81e07c146ba73d705195db11930fc760e011b7398",
+      "en_sha256": "d40494bf38fee6daa40e554561fc64e40cfd2cba93dc88928a77a60a02dcdb34",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBb].desc": {
+      "pl": "Moc Końcowa +2, Poziom Obrony -4, Maks. HP +15%",
+      "kr_sha256": "ebfdcfa6b19060feca317f531868886e9ac68e3e9c759c48999bb88c394e51ea",
+      "en_sha256": "e4b542ca6b7881898fa9039e877df36896ddef7b6e5da7d618079097f6efd5c4",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBb].name": {
+      "pl": "Amplifikacja Mocy Końcowej II",
+      "kr_sha256": "585c7c9f6c92e62200248f0bb4fc5798a4a992223eb8d58f6eab8e2abe8bc361",
+      "en_sha256": "b252b6babad7c9462080bb0a1570ad831da8655bc2acf0ab9d11de7b679004df",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBc].desc": {
+      "pl": "Moc Bazowa +1, Maks. HP +10%",
+      "kr_sha256": "362448d032cef977ff34de9364db1b529b944fed1655effd14885bf41fac9b4f",
+      "en_sha256": "4673ea404b2d2640c948ca26d0ddba47b9090b429d064f17e729dd34dd45e295",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBc].name": {
+      "pl": "Amplifikacja Mocy Bazowej I",
+      "kr_sha256": "c16bcd7424de71c072e650ef872c807617028897c78316b5c840f58acda0b615",
+      "en_sha256": "8cc198bd2bb13f8f429d60e63cb753df98fa0e57979306089d93850388ee062e",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBd].desc": {
+      "pl": "Moc Bazowa +2, Poziom Obrony -4, Maks. HP +10%",
+      "kr_sha256": "ef08e4f63f47ad557731b2f89ed8b049fa96707dc3f894c14067609d51b6c291",
+      "en_sha256": "d4d1dd3cada796a3b0be09fb5cd3824bb0649fed22b07a2764dd47a5f2072c4b",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBd].name": {
+      "pl": "Amplifikacja Mocy Bazowej II",
+      "kr_sha256": "52590f400a7c406df9dde2ed08f28d30b7b584bbe747655ce26760bccf859346",
+      "en_sha256": "c845c02cd48044819071b29cc884f472693ae3f1bc81096aa9d6112fce4e60b5",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBe].desc": {
+      "pl": "Moc Monet Plus +1, Moc Monet Minus -1",
+      "kr_sha256": "847de6a9fb462ee5e3e8452318d97d9d78d0c5be9f871de8b3e6e88701a01f9c",
+      "en_sha256": "a6e0fee8f0f395c3a8e94b70028cfa077cca186e8bebf495ad561f2a0c4f19ca",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBe].name": {
+      "pl": "Amplifikacja Mocy Monet I",
+      "kr_sha256": "9042de72e8291ef10fbd5c73dd68898733e8c0a3af3cab881b7a4e7006dd197d",
+      "en_sha256": "a0e179acc82619067554dacf936fa7244a14146de6487515e5b16d7c4f7518af",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBf].desc": {
+      "pl": "Poziom Ataku +7, Poziom Obrony -7",
+      "kr_sha256": "69efcc792c850264df6d9bc68ed9bffe7cde817382ddf6ca2591d697f99a6a2b",
+      "en_sha256": "6200c928a08952b4c1387b4e602079ac476f3199dce8631c75e0edbfec68f0e8",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFcBf].name": {
+      "pl": "Przeciążenie I",
+      "kr_sha256": "f84142428d6628c4901711af10cf1f52a65f3f6757ee0d8c5ade4a971b298a57",
+      "en_sha256": "7dfa670487e0d8889acfacc35b896421153b88b09fdb20849ba1854482d0f765",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBa].desc": {
+      "pl": "Moc Końcowa +2, Poziom Obrony +6, Maks. HP +10%",
+      "kr_sha256": "a4c44e18169d634f62d7d008d2a9aaf1bc46748723856d21adb912104c2c62b8",
+      "en_sha256": "462b9a1876c0b6df9dc53f92da374090a130f648dfa18e10b2f25877dc6a22cd",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBa].name": {
+      "pl": "Amplifikacja Mocy Końcowej III",
+      "kr_sha256": "cd77cdd02f048f94e6ed5396479d16581366564ef299d891d298f196bd5cb404",
+      "en_sha256": "b60fddaa113a904580954204797ef147ed9bec0c3145f38966fb6de2f28bfac6",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBb].desc": {
+      "pl": "Moc Końcowa +3, Maks. HP +10%",
+      "kr_sha256": "7387ce4e4142448f3e6514cb2404491731ad34e183bc9aa78df1e998558ddc85",
+      "en_sha256": "c97b9f00ef0529be781c0592ed886d198d0296c3103c5e44ade66b609972a9cd",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBb].name": {
+      "pl": "Amplifikacja Mocy Końcowej IV",
+      "kr_sha256": "e942db0ae80336e574fd61addd8f639580b7ce1c41e4eae7a734c671b0f4bb50",
+      "en_sha256": "458047674ba85fd48e6a44cdb8a02f79465f86331cd96869664bbd9261414b4d",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBc].desc": {
+      "pl": "Moc Monet Plus +1, Moc Monet Minus -1, Maks. HP +15%",
+      "kr_sha256": "1a0aa95fffec8ce45df1785d2e6a6fe3f335af1e8744737ac31ad9780ef5d2c6",
+      "en_sha256": "1ebb809a7bf19338abd4962465132cc70f825dea6db8f03d5374e29c7db03d5e",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBc].name": {
+      "pl": "Amplifikacja Mocy Monet II",
+      "kr_sha256": "19c7616658c1545fb77d73ed909bb2228591a88fa47f5e86ca889435bd8cd527",
+      "en_sha256": "78cf7e36d1c44e11c6098633ec7245f87bd4acc1fe67ca69556e5ca51148fc0e",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBd].desc": {
+      "pl": "Moc Bazowa +2, Poziom Obrony +3, Maks. HP +10%",
+      "kr_sha256": "58bce5ffbfd73b5fa911655331d21b3482cb5d3e9292b5bbed237527aebeaff1",
+      "en_sha256": "2dd843846751db807ba1b6040b013395ee29eea480847f9f214d76362eaaf975",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBd].name": {
+      "pl": "Amplifikacja Mocy Bazowej III",
+      "kr_sha256": "74a19c9903d5cb019566912cc3d109948a4dd4378e22fdd7a1662aaff01c16a5",
+      "en_sha256": "b7d7ff99d5c435fd11ee2a7d3a1f50c34a9ada0f0e3bbc2a4b74ac5cd51a0fe5",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBe].desc": {
+      "pl": "Poziom Ataku +10, Poziom Obrony -7",
+      "kr_sha256": "87fb32263c198f6f2c7c0d044959d050fd6fd7854d59269d76a7d17436c95da0",
+      "en_sha256": "394e8122ee8907c0aa210b991bdca82b9b87f1a3d383235820f6720307a138fc",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBe].name": {
+      "pl": "Przeciążenie II",
+      "kr_sha256": "c9c3d8d55af67824f310746ca63eb5e3de6c3f506224dd9507fa327de63f1aed",
+      "en_sha256": "e70008539712926f9d4388b9712d16f8402414b8404d563c6b89ee83849ac6a9",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBf].desc": {
+      "pl": "Maks. HP +25%, Poziom Obrony +5",
+      "kr_sha256": "32d9195b2f8af2ad9c922628e47f35dc4fc7f514b1909f6e4170c0e3913985f0",
+      "en_sha256": "78711b168f2863d0c55de766cf3c7c6d38d07cf59a63a01ba48e85e553f8d84f",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBf].name": {
+      "pl": "Twardość",
+      "kr_sha256": "20a3bbde7bab29d74d24900258d3ae674b92acdc82af90fe1c5295d8db67ce47",
+      "en_sha256": "94f8690d2572ff0f0c5af7d35bcd33b8e942fe992d5e77ea0c30f1c7c5d07264",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBg].desc": {
+      "pl": "Zadaje +50% obrażeń i otrzymuje -50% obrażeń",
+      "kr_sha256": "a04fda10fa598d332b89de8137a327ad22cd4a7c478746f073bf00f09d7ae210",
+      "en_sha256": "865303602fa47a2e1a01a53cd011c3061f3eb6d01e2cb829d6afe2a6d53094d2",
+      "origin": "ai"
+    },
+    "dataList[id=MDHcFdBg].name": {
+      "pl": "Nieustępliwość",
+      "kr_sha256": "6407e54ad78b0b07d8a9c11730449a5e7bd7ff806b51762980bedfc62864a5d6",
+      "en_sha256": "c0ee4a7144d04706def4a51254b169dc095a55d25df0685b0485cc468e54ddc3",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBa].desc": {
+      "pl": "Umiejętności nadają o 1 więcej Podpalenia",
+      "kr_sha256": "8209c9973a2b464fcad6f0125420bed60043a281b359fdeb6626c163d8ba4486",
+      "en_sha256": "173413d862c10cc4fe3aa544fe6465b0ed5ba1c30710d13bd2c1a4c4817c7883",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBa].name": {
+      "pl": "Nadanie Dodatkowego Podpalenia",
+      "kr_sha256": "bc940c948a8ec39eaf2095d8865c1c25f6f89698736d753a09ddfc9d1b42c4af",
+      "en_sha256": "acd8a27b352418088c60055c443cdb5be1a1bdd67c44e849f878b0ef53691985",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBb].desc": {
+      "pl": "Umiejętności nadają o 1 więcej Krwawienia",
+      "kr_sha256": "a58f10b7db9652b789124daffd2a997170b2fa7d7c736d0ca12ed71b39a9efc7",
+      "en_sha256": "bc1c76fee132cfb9fc99df1129a7485f4c15f7c2824cc942320296dd510d7d00",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBb].name": {
+      "pl": "Nadanie Dodatkowego Krwawienia",
+      "kr_sha256": "d4a491381cad0c27786a2be54f45b92f309e6720b985f7492aef10df81dfca6d",
+      "en_sha256": "2d203aada94cf24420aed8ae033416fa559513e1227d01cd7a9d0dbf64bb6c03",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBc].desc": {
+      "pl": "Umiejętności nadają o 1 więcej Wstrząsu",
+      "kr_sha256": "30d307da618ff90313da1521ac72b42ec5187dd3f3cbb7f85fa7788cf275f90c",
+      "en_sha256": "18e149250de2f7506fc9079e600c455ec9988adce4bef899c242c0492e490725",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBc].name": {
+      "pl": "Nadanie Dodatkowego Wstrząsu",
+      "kr_sha256": "dd8cc5d0ae5651635a118dec5f41ffc44d2d06283e9243938d4264e04978f83c",
+      "en_sha256": "110b7a30f09879c8e300d6d15be5daedb0f5973e13b8361b540d747bfa50bcd6",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBd].desc": {
+      "pl": "Umiejętności nadają o 1 więcej Rozdarcia",
+      "kr_sha256": "b4e96908198224afe0a694a347a3b1494290b16253450ac8d48c0d625f3ca89e",
+      "en_sha256": "b10376f6854f8a42637db0145a12548c962db59b0005bde4a61fa0593750b4b1",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBd].name": {
+      "pl": "Nadanie Dodatkowego Rozdarcia",
+      "kr_sha256": "e1f9b3b0a180941beedc9a0c633e9d429908309f0fd13811ab4cf73af463556d",
+      "en_sha256": "41d49908bf2f94fa8623745d52ce20f852294e4284607bca13e090006f89332c",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBe].desc": {
+      "pl": "Umiejętności nadają o 1 więcej Zatonięcia",
+      "kr_sha256": "3b36a165b9c07a0f07bf3fab83edba474b70a0f61167568fea44f9b227ee566b",
+      "en_sha256": "1528e84750e907d68ad15a4fbec3655d3c51f4f884ad544330134c923aa828f8",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBe].name": {
+      "pl": "Nadanie Dodatkowego Zatonięcia",
+      "kr_sha256": "c15e3622f2d30abd05240d481d258f150447933e9f758be7469170b83bebdb62",
+      "en_sha256": "3cf783af228b087530876acffdcaf72e6f2f9a978c1731f49659e96cd2e5dbcb",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBf].desc": {
+      "pl": "Zadaje +15% obrażeń typu Cięcie",
+      "kr_sha256": "09dd71a9ec80ef3286d54bc99771c4903697ed9cb8612e8bf099d2b89ecb23b5",
+      "en_sha256": "4e111640c386ae420f32f016f454add349bc2cec3ca76cf8d06783ab9cf85380",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBf].name": {
+      "pl": "Wzmocnienie Cięcia",
+      "kr_sha256": "0739d5d5a364864cf26af380b89c2609fdf514ad6007ac3ac93edce9ef970446",
+      "en_sha256": "291a909ce76194364bdbd2d24f74dda81926029ef965e0fcd65ca3a6ce7533f7",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBg].desc": {
+      "pl": "Zadaje +15% obrażeń typu Przebicie",
+      "kr_sha256": "8f908b99fee269a8b55e71b1647e56228c608ebd07174dcd7832c634199cfaf5",
+      "en_sha256": "2821135cd564bc138402ded2a6f497448cbfe59044b140acb2c418ec0fc2392c",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBg].name": {
+      "pl": "Wzmocnienie Przebicia",
+      "kr_sha256": "e8bc61e01b01275c7b38f447a2eb34a662ce3b22eead3f7a447e8d4cd92d1be4",
+      "en_sha256": "b7e78eb8c13e35c3fc5a10b203036f782b4c8f068ac50fa28ff23038cdf35b43",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBh].desc": {
+      "pl": "Zadaje +15% obrażeń typu Uderzenie",
+      "kr_sha256": "85cf9a7984bb91dd2f9d5b063f1a661d557bfc710078a600756c356f9bb69987",
+      "en_sha256": "19640016cf2af8cb04262b90fe2f717d05fe85333e12fae7b4cef7bf61a7f756",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFaBh].name": {
+      "pl": "Wzmocnienie Uderzenia",
+      "kr_sha256": "413fa8afb3459fe1317d7096efec16f36d5c1678c5fca9ad3b94af134fd8a482",
+      "en_sha256": "42d455339eea3f37a54bd7deba9e4b4dfb9463b6950387c047facaa5e0328eae",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBa].desc": {
+      "pl": "Odporność na wszystkie atrybuty -0.1 (poza Gniewem)",
+      "kr_sha256": "76462c5fd750832939f985a99ff0035a4526e2aafa5607e5fafbab832c7ca040",
+      "en_sha256": "553e41b52097fb43b985afc8e06e53244390ce288cd265e9d0ac2897219ec90d",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBa].name": {
+      "pl": "Odporność Atrybutów (poza Gniewem)",
+      "kr_sha256": "e3187b14553f52240dcc26ad93ff559e733d18af7b50d15fb60d2120d32c962e",
+      "en_sha256": "de52538d68b9edaca8af998c9ff0a9236434b53503ccc53fdda489cb05662f03",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBb].desc": {
+      "pl": "Odporność na wszystkie atrybuty -0.1 (poza Pożądaniem)",
+      "kr_sha256": "bbd3b0124f2f87e422e8bff9d298377d0b08b52ba77256ce49af4c7550b2a3d9",
+      "en_sha256": "0a0b5a67fedbc41cbe9075430b4f98793edd4d86d3bc92cd2d0aad09ffb08f8a",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBb].name": {
+      "pl": "Odporność Atrybutów (poza Pożądaniem)",
+      "kr_sha256": "84716dbb056134e0d6f82f9680ea01568b2c946fd536cab91753a7822931394a",
+      "en_sha256": "4967faed1feb35b9d1fd9da50aac983c4e8830f5ff62680c51e3f060763cfff2",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBc].desc": {
+      "pl": "Odporność na wszystkie atrybuty -0.1 (poza Lenistwem)",
+      "kr_sha256": "39f06524e973fc9a03301d2dd23a7399e15c84fefcde2cc911736f4c88852844",
+      "en_sha256": "aeef8b44b76516fe937b450c4d3f8842f3cd7cf4d10221be7cf10a5c13df1ea2",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBc].name": {
+      "pl": "Odporność Atrybutów (poza Lenistwem)",
+      "kr_sha256": "8c621c9b80d1a9fc13268ff1510cf243378d267cb3f074eca1b42ccebbdba222",
+      "en_sha256": "1a66d2fe37a56c7d78444ad64eae51e0f63184ca3264815380a855640ac3abc6",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBd].desc": {
+      "pl": "Odporność na wszystkie atrybuty -0.1 (poza Obżarstwem)",
+      "kr_sha256": "ee61f01efdc07baa35963860166e1b8e40140556f44f7dc8df0e0795a313803d",
+      "en_sha256": "86962b8b8106e94641a6dc2f37827b08a2eeb507e193c3d79e93f4d473b3e032",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBd].name": {
+      "pl": "Odporność Atrybutów (poza Obżarstwem)",
+      "kr_sha256": "7b19c11044f1e588be35f3914471df6f769075eed9118369437af0f90cb51ab2",
+      "en_sha256": "498b9e1b03f20f5e3c3755b577b8175a7ea0e1b1ec84d2a0bf1b306498f1016a",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBe].desc": {
+      "pl": "Odporność na wszystkie atrybuty -0.1 (poza Posępnością)",
+      "kr_sha256": "0c57ea7775a386b9e271f27cad15dee6ba3f5e886308c29d3c9f87bbd17c5d8d",
+      "en_sha256": "2b52429675422176aac83d0b6218b7cf6c732f370c1e5b026dbfca931418b793",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBe].name": {
+      "pl": "Odporność Atrybutów (poza Posępnością)",
+      "kr_sha256": "4f62365b4f321cebac94cc36a05b4dae116db07c5c90a2c98bcf92aaf9b2e13b",
+      "en_sha256": "2338f760011ed6dea5ceeddbc41dcaae493a7a5ac113fb1fb9714255b907643f",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBf].desc": {
+      "pl": "Odporność na wszystkie atrybuty -0.1 (poza Pychą)",
+      "kr_sha256": "1aa0cb397dacf14430532f49b52f8e3105f869cac791e2e099a233de2bc6982a",
+      "en_sha256": "50200d5c5ccf123953b18f6b26a3ca6757b965a47beec42eb5be9e7f28ec6159",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBf].name": {
+      "pl": "Odporność Atrybutów (poza Pychą)",
+      "kr_sha256": "f5eac1609a678532785a41e1722d7c8d39a8426a9f7912903caa89e2ea32d424",
+      "en_sha256": "ea7ff62b731cbc6f04a2da68402aba17366611d1e7cde4233ebb09840d35a6fa",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBg].desc": {
+      "pl": "Odporność na wszystkie atrybuty -0.1 (poza Zazdrością)",
+      "kr_sha256": "e52037582901b242555a34e6b1cd7cff63e780efa71e0340549b5d7b509dfa4b",
+      "en_sha256": "8a9b4b763491fbd6b65f56b8033b7fff6eee5ec91326a60158061bdc4375ad85",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBg].name": {
+      "pl": "Odporność Atrybutów (poza Zazdrością)",
+      "kr_sha256": "cd488f4d1d5118aef63c45b92d2932ee098e5eb5208671be541ff4ca5225b48a",
+      "en_sha256": "4f87eef908fdaf85073bf3572504a97133aa955f2de471e07b6bce05e243a8b5",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBh].desc": {
+      "pl": "Maks. HP +15%",
+      "kr_sha256": "cf72a6794ab6c0448d4cb12085309d24ac1c520eac94c62667d7e3646238884f",
+      "en_sha256": "43d0ca1d638a70152e0338d18974604a10e0b0ec3e6b8bee91fde170a7fa5e53",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFbBh].name": {
+      "pl": "Wzrost Maks. HP",
+      "kr_sha256": "b923d9d833ec9e7b51262fb8650e40a7f196e21f4f4c7ba9d602f96e8b864a80",
+      "en_sha256": "da42e66af476212521eb879cff749ab0813342ded5273ffdc279418111e2644f",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBa].desc": {
+      "pl": "Waga Slotów +1",
+      "kr_sha256": "7833843b956c01169b0388ff4289a57e679ee67886144f502975d09d560c72e3",
+      "en_sha256": "5abf78a53736d1a298bd56e35bb2aa37d986c5bc71f4f06f4d25a95efedca059",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBa].name": {
+      "pl": "Waga Slotów +",
+      "kr_sha256": "1d32303abecf7c87f54084cbcf2179111b2852847d4864bd107e29f7fb9f6aeb",
+      "en_sha256": "63f4907f5b2562769b4e1293a93896a126a9173ba429ff5e42fb4f93e43c352b",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBb].desc": {
+      "pl": "Przy trafieniu regeneruje HP równe 5% zadanych obrażeń",
+      "kr_sha256": "05aa4f1658c451eda4e0c5fa9300bec39e53f061666fa5f385c12b12bad212ea",
+      "en_sha256": "99125bc0d893dc6fc72882dce076813e4dd48f44fdfdc281fb717648aef0b762",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBb].name": {
+      "pl": "Pochłanianie Obrażeń",
+      "kr_sha256": "89402a090573897ee8006eb36a54cb2d3fbfaf277468805bd280b18491c87d45",
+      "en_sha256": "215986d63522cb955dd0b720d9c15cb8957e8bc33aac0c2592f69744cdcff2af",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBc].desc": {
+      "pl": "Maksymalna Szybkość +1",
+      "kr_sha256": "3136bc2340849c6fef6df536f531d50d1690d5af52c10f5cca4f323fbbd23ec3",
+      "en_sha256": "2779ec964031c346f91dfc536f11f728f506e0699df59d435923cf2f534ca2c9",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBc].name": {
+      "pl": "Wzrost Szybkości",
+      "kr_sha256": "75794b3365e4082ef26c53c1bf0a12777ccc3b40e9f76ce9dd3c0278e3fa3cd2",
+      "en_sha256": "8b736cc21ca5673e168e32abe08db77e12721a66e9c59a22aa2c005079ce24b6",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBd].desc": {
+      "pl": "Przy trafieniu zadaje 2 stałych obrażeń Poczytalności",
+      "kr_sha256": "b2445cd60d6084248d45dbb172fd9d72a971220ff270686813753cfe7bf7c149",
+      "en_sha256": "e48d5d9999bfef838770e98266d682d3498b3953895fee8b4eb62cae6dac4f21",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBd].name": {
+      "pl": "Atak na Poczytalność",
+      "kr_sha256": "751952bccbda280173feb046700dcdc00a7cdb26ccadb9ab014e95621129c38e",
+      "en_sha256": "d45ed6be6266cfcc6ef971260606ea8b6a4f74d54c6492f698f629492d0eb690",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBe].desc": {
+      "pl": "Jeśli w poprzedniej turze choć raz zadano obrażenia, na początku tury zyskuje 1 Wzrost Obrażeń",
+      "kr_sha256": "e394544f1ec70f3a62f3d0fb56808ef4781f6d43a8d1c1739c25630088c9669d",
+      "en_sha256": "0b96a640bb8692b784198e7feced3db502fae6710e75bf8519fbf87c0cc9c3c9",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBe].name": {
+      "pl": "Ostrość",
+      "kr_sha256": "5fa297e218882a83ba7b923323f4baa366783815cf4ba2961d16a587b0336ecc",
+      "en_sha256": "4fc23a6010b4c8f03765c3d6e3a0545370e5060edff7a580aeba3086eed00bc8",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBf].desc": {
+      "pl": "Jeśli w poprzedniej turze nie otrzymano obrażeń HP, na początku tury zyskuje 3 Wzrosty Poziomu Ataku",
+      "kr_sha256": "1a20c9717cf0823ee56b53dc7de79f977a5d9dd226ab9ce820786bc7a6ab9d32",
+      "en_sha256": "25e8ae0043d287e544c9247217718dd8810558d80937814dd49ebb8605452e55",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBf].name": {
+      "pl": "Reorganizacja",
+      "kr_sha256": "35f9fbe1cf3377e44cd7a38a3ca5b269737a85f0c08722feee1a50da2eb25859",
+      "en_sha256": "41bbdd8c191f89b5e24b33d71013bfca95218d76fd90906e6684d014f8200b98",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBg].desc": {
+      "pl": "Moc Końcowa ataków niekwestionowanych +1",
+      "kr_sha256": "fa508037be6235aba559269c75d3a5e503d42ff7aa64235b16b8a34ebec20f53",
+      "en_sha256": "b83190f3ac22d99c0811cdfc0ce3b1df66a782230b2ef804b5fa0d056973823f",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBg].name": {
+      "pl": "Wzmocnienie Ataku Niekwestionowanego",
+      "kr_sha256": "a1603ce42b89397631628e3fea88907b9b3812fa378af01894a53d1e4cdec405",
+      "en_sha256": "f87f02fae0d857e38cba6c567f42d5d6c9d8faddeaa0003527165ce902122ae5",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBh].desc": {
+      "pl": "Moc Końcowa w Starciu +1",
+      "kr_sha256": "6f9ebdf3710d645ef4569583647fcae4e4d2acb486bb0d136e8df77fd6eb3ff5",
+      "en_sha256": "6989c0c1a102731c9943447bf4ff1adb976347b04285f697ad582a3201fc5c11",
+      "origin": "ai"
+    },
+    "dataList[id=MDcFcBh].name": {
+      "pl": "Wzmocnienie Ataku w Starciu",
+      "kr_sha256": "a84cd2fda2b93ead67a240e99da5234882232432bcda164930b4c5c6b8051aed",
+      "en_sha256": "f451f3d20c1b1de12df471da8b9041871f7ce43856fccede26ddeef432f06f72",
+      "origin": "ai"
+    }
+  }
+}

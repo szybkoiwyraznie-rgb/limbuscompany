@@ -1,0 +1,99 @@
+{
+  "entries": {
+    "dataList[id=Backstreet].content": {
+      "pl": "Zaułki",
+      "kr_sha256": "5fe8036ac678d40f7af4ed7504fb1ca7028eebae75d71fc1fb46f33e94cec44c",
+      "en_sha256": "d926d68eee58ffe38dbe33f0a00bcc0547c0e34d29dbb830dee983714dff58ff"
+    },
+    "dataList[id=City].content": {
+      "pl": "Miasto",
+      "kr_sha256": "abbc940f03792a890e5daaad54ead3a8e41c61a858c2b80a0b900abe60605b40",
+      "en_sha256": "b00cd94d8b6df36f9d6a69b36c95c1951bace5f85e64c9d6fc01ad63805fefe1"
+    },
+    "dataList[id=Ego].content": {
+      "pl": "E.G.O",
+      "kr_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "en_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52"
+    },
+    "dataList[id=Fixer].content": {
+      "pl": "Fikserzy",
+      "kr_sha256": "33bd340026548f3bc130a833485832a6a36d478fdff5d743e6499dcfb8d5b00b",
+      "en_sha256": "0c770e06c61c0584fedb8be11a946105436667331d5c776098297985b04a6c56"
+    },
+    "dataList[id=Goldenbranch].content": {
+      "pl": "Złote Gałęzie",
+      "kr_sha256": "cff10e7bf01bb0fbe6552424c5f5ebd78e28fbd45156b68b7f446c60efb13bb6",
+      "en_sha256": "ab1f6c2796d0d43acabf69517e3b9183aa7eec88abb3c75c170663b03906776a"
+    },
+    "dataList[id=Kurokumo].content": {
+      "pl": "Klan Kurokumo",
+      "kr_sha256": "1792e0c659d20b2f261f180c879ec14467948d7ebf54431547025bffd18ffd24",
+      "en_sha256": "b8b5b642d619c207c3687f565af05eb0df68667d9ae7b6f92b9170225c3a0da6"
+    },
+    "dataList[id=LCB].content": {
+      "pl": "LCB",
+      "kr_sha256": "146788c023b4878a045c08e1bf6ba5ddf0f0c8ba63edfb42295afb894a515dc1",
+      "en_sha256": "93e1accd9e69ccb008e41364dc864440438d3e9aaa927e8125a73e8dfe47e308"
+    },
+    "dataList[id=LCC].content": {
+      "pl": "LCC",
+      "kr_sha256": "06c78c29bfb28e3db5a86c161af9f4258a1642b99394622b6021f00995a50a82",
+      "en_sha256": "bdf855baf10e3d69ea31d5f5bf2b992bb67ae7bd392a4ab4c1fb94dd911315ff"
+    },
+    "dataList[id=Limbuscompany].content": {
+      "pl": "Limbus Company",
+      "kr_sha256": "d19f74604eb5468429c7458ce1e79137a1714fed721bbd3f4b492493b493976e",
+      "en_sha256": "e6090d79d97583b7eb2ba74fe9e4cdb43cb785e2d2d690720f74e49fa51703db"
+    },
+    "dataList[id=NestK].content": {
+      "pl": "K Corp.",
+      "kr_sha256": "6d215f5c0b6e8f995afcc4be35293b387bb255075d078ef3b749db99add65f28",
+      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6"
+    },
+    "dataList[id=NestL].content": {
+      "pl": "L Corp.",
+      "kr_sha256": "b73c673bed668854bc4e39f02d449c18e3e261573acb7dc79335d860091b14fa",
+      "en_sha256": "4faaa3ccc336b8823aecf0b418c68eed8aaf45a580d1bda8beeae53b9e6c877c"
+    },
+    "dataList[id=NestN].content": {
+      "pl": "N Corp.",
+      "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
+      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb"
+    },
+    "dataList[id=Nest].content": {
+      "pl": "Gniazda",
+      "kr_sha256": "3fa18e9b7894d25ba71c6946092b7433b109e60d5fc1fbadd9474e5c518aefb7",
+      "en_sha256": "45accdcc59b81a04d76ad2b5b112d91e38f5bd17615453f36cb7a4cc9d2ed8cc"
+    },
+    "dataList[id=Organization].content": {
+      "pl": "Syndykaty",
+      "kr_sha256": "65e425a15b2d066d0b07ff6a0c5f2ee1f0e7809e2c0226291d0c421024c01497",
+      "en_sha256": "7824ef652788f21f165236f84ac6d4ae16428964d04f951d45cc10d0674dbc15"
+    },
+    "dataList[id=Personality].content": {
+      "pl": "Tożsamości",
+      "kr_sha256": "6d270e76fd91b9dfc77fcb9a6f5601ea61ca74046f8914bcb74fcb83c74426ab",
+      "en_sha256": "8d4d8fef65ea881d9f2b04af4b3de0161c7664bcbfd69753529446fc85845b4f"
+    },
+    "dataList[id=Sinner].content": {
+      "pl": "Grzesznicy",
+      "kr_sha256": "dff14b7f8cd694d3427df39c3e94e4facd9e231472615a34ec9b72c48054ec70",
+      "en_sha256": "7064ce559a3edb0f063f7d69ad8a1513fff0eb1f7fcf29f5f7a8002435958356"
+    },
+    "dataList[id=Swordgroup].content": {
+      "pl": "Ród Ostrza",
+      "kr_sha256": "129303ae9e75ea3c4a4d1d6ac563bb142a05e76e72ef193136ad9e45bf5b19f2",
+      "en_sha256": "91004de0271f11101f4d7f9e8e38417324b22b9f8779942f3541661ad312fa8a"
+    },
+    "dataList[id=Tech].content": {
+      "pl": "Technologia Miasta",
+      "kr_sha256": "50fb29254ff55256e9cfff1a26e736b8238e91c555e1c921c9b1d76322b13475",
+      "en_sha256": "40db899a5a498e909a3cd90c37a4e66cdfcb7d9b8d859ac9a1caa56a55faa8e9"
+    },
+    "dataList[id=Wings].content": {
+      "pl": "Skrzydła",
+      "kr_sha256": "c000ef4cba7a6b5830d49d35190833efeb889fb9d9f33c1bb42cef945d7c8b3b",
+      "en_sha256": "3a6dae74e8978d5672af6d215155c510ba08cd285e63ae376b647766f10775e5"
+    }
+  }
+}

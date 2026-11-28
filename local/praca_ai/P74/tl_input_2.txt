@@ -1,0 +1,131 @@
+221||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+223||(ulepszenie 1) — nazwa] 빛바랜 줄기|Pale Stem
+224||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]과 [Burst]의 합 4당 최종 위력 +3 (최대 6)|[WhenUse] Final Power +3 for every 4 ([Laceration] + [Burst]) on target (max 6)
+227||(ulepszenie 1) — nazwa] 가시 줄기|Thorny Stem
+231||(ulepszenie 1) — nazwa] 모두의 아픔|Shared Pain
+234||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Vulnerable] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vulnerable] next turn
+235||(ulepszenie 1) — nazwa] 뿌리 가시|Root Spike
+236||(ulepszenie 1) — opis] [DefeatDuel] 아래 효과 적용\n- [Paralysis] 1 얻음\n- 피해량이 80%만큼 감소함\n- 이 스킬로 대상이 흐트러지지 않음\n- 대상의 [Burst] 효과를 발동시키지 않음|[DefeatDuel] Gain the following effects:\n- Gain 1 [Paralysis]\n- Deal -80% damage\n- This Skill cannot Stagger the target\n- Does not activate [Burst] on target
+238||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Laceration] 횟수 5 증가|[OnSucceedAttack] Inflict +5 [Laceration] Count next turn
+239||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 부정적인 효과 위력의 합 만큼 [Laceration] 혹은 [Burst] 부여 (최대 부여량 30)|[UnBrokenCoinOnSucceedAttack] Inflict (sum of potency from all negative effects on target) [Laceration] or [Burst] (max 30)
+240||(ulepszenie 1) — nazwa] 질투하는 뿌리|Envying Roots
+241||(ulepszenie 1) — opis] 이 스킬은 피해를 주지 않음\n[WhenUse] 자신의 [HowDareYouApple]를 전부 소모하여, 소모한만큼 코인을 재사용함 (최대 4회)\n[DefeatDuel] 이 스킬로 [Burst] 효과를 발동하지 않음|This Skill does not deal damage\n[WhenUse] Consume all [HowDareYouApple] on self and Reuse its Coins by [HowDareYouApple] Stack consumed (max 4)\n[DefeatDuel] This Skill does not activate [Burst] on target
+243||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count
+244||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count
+245||(ulepszenie 1) — nazwa] 파고드는 뿌리|Burrowing Roots
+246||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]과 [Burst]의 합 4당 합 위력 +1 (최대 2)|[WhenUse] Clash Power +1 for every 4 ([Laceration] + [Burst]) on target (max 2)
+249||(ulepszenie 1) — nazwa] 도축 - 갈비뼈|Butcher - Ribs
+250||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1|[WhenUse] If target has 6+ [Laceration], Coin Power +1
+252||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+253||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Protection] 1 얻음|[OnSucceedAttack] Gain 1 [Protection] next turn
+254||(ulepszenie 1) — nazwa] 회전분쇄|Rotator Crush
+257||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+258||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 1 얻음|[OnSucceedAttack] Gain 1 [Agility] next turn
+259||(ulepszenie 1) — nazwa] 힘줄파열|Tendon Tear
+260||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)
+261||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+262||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Laceration] Count
+263||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [ResultReduction] 1 부여|[OnSucceedAttack] Inflict 1 [ResultReduction] next turn
+264||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [ResultEnhancement] 1 얻음|[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn
+265||(ulepszenie 1) — nazwa] 파시아가 굶주렸어|Fascia Hungers
+266||(ulepszenie 1) — opis] [DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+268||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여|[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration]
+270||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count
+272||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 정신력 피해 5|[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage
+273||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 자신의 정신력 5 회복|[OnSucceedAttack] Heal 5 SP on self
+274||(ulepszenie 1) — moneta 3, efekt 4 — opis] [OnSucceedAttack] [HumanFleshTheRings] 1 얻음|[OnSucceedAttack] Gain 1 [HumanFleshTheRings]
+275||(ulepszenie 1) — nazwa] 억압당한 육체|Repressed Flesh
+276||(ulepszenie 1) — opis] 이 스킬을 장착한 턴에 아래의 효과가 적용됨\n- 이 스킬 사용 전까지 <color=#ff6000><mark=#ff000040><b><u>공격 스킬로 피격 시</u></b></mark></color>, [UnsteadyTheRings] 1 얻음 (적 스킬당 1회, E.G.O 스킬 포함)\n- ‘아이언메이든[TabExplain]- 가시’ 효과가 발동되지 않음\n- 이 스킬 사용 전까지 흐트러짐 상태가 되지 않음\n\n이 스킬로 대상 처치 시, 정신력 15 회복\n[WhenUse] 대상의 [Laceration] 4당 코인 위력 +1 (최대 4)\n[WhenUse] 대상의 [Laceration] 2당 피해량 +10% (최대 100%)\n[DefeatDuel] 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] [BoneBladeTheRings] 소멸|During the turn this unit has this Skill equipped, gain the following effects:\n- <color=#ff6000><mark=#ff000040><b><u>When hit by Attack Skills</u></b></mark></color> before using this Skill, gain 1 [UnsteadyTheRings] (once per enemy Skill; including E.G.O Skills)\n- Does not trigger the effects of "Iron Maiden[TabExplain] - Spikes" Passive\n- This unit cannot be Staggered before using this Skill\n\nOn Kill with this Skill: heal 15 SP\n[WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 4)\n[WhenUse] Deal +10% damage for every 2 [Laceration] on target (max 100%)\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[EndSkill] Lose [BoneBladeTheRings]
+281||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn
+284||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [AttackDmgDown] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [AttackDmgDown] next turn
+285||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [AttackDmgUp] 1 얻음|[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn
+287||(ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Binding] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Binding] next turn
+289||(ulepszenie 1) — nazwa] 전시회 준비|Exhibition Arrangements
+290||(ulepszenie 1) — opis] [StartBattle] 공격 스킬로 피격시, 공격자의 [Laceration] 횟수 1 증가 (E.G.O 스킬 포함)|[StartBattle] When hit by Attack Skills, inflict +1 [Laceration] Count on the attacker (including E.G.O Skills)
+291||(ulepszenie 1) — nazwa] 철의 장막|Iron Curtain
+292||(ulepszenie 1) — opis] 이번 턴에 ‘아이언메이든[TabExplain]- 가시’ 효과로 <color=#ff6000><mark=#ff000040><b><u>적에게 주는 피해량 20배 증가</u></b></mark></color> (이 효과는 상쇄로 인하여 해제되지 않음)\n[StartBattle] 공격 스킬로 피격시, 공격자의 [Laceration] 횟수 1 증가 (E.G.O 스킬 포함)|<color=#ff6000><mark=#ff000040><b><u>Multiply the damage from the "Iron Maiden[TabExplain] - Spikes" Passive by 20</u></b></mark></color> (this effect cannot be disabled by Offsetting this Skill)\n[StartBattle] When hit by Attack Skills, inflict +1 [Laceration] Count against the attacker (including E.G.O Skills)
+293||(ulepszenie 1) — nazwa] 회[回]|Swerve [回]
+294||(ulepszenie 1) — opis] [StartBattle] [Breath] 8 얻음\n- 이 스킬을 사용하는 슬롯에 메인 타겟으로 지정된 공격 스킬이 있으면 이 효과로 얻는 [Breath] 위력 4 감소\n\n[OnSucceedEvade] [Breath] 1 얻음|[StartBattle] Gain 8 [Breath]\n- If the Skill Slot using this Skill is a main target of an Attack Skill, gain 4 fewer [Breath] Potency from this effect\n\n[OnSucceedEvade] Gain 1 [Breath]
+295||(ulepszenie 1) — nazwa] 수[守]|Defend [守]
+296||(ulepszenie 1) — opis] [CanDuelGuard]\n[StartBattle] 자신의 [Breath] 횟수 4 증가\n- 이 스킬을 사용하는 슬롯에 메인 타겟으로 지정된 공격 스킬이 있으면 이 효과로 얻는 [Breath] 횟수 2 감소\n\n[WinDuel] 자신의 [Breath] 횟수 1 증가|[CanDuelGuard]\n[StartBattle] Gain +4 [Breath] Count\n- If the Skill Slot using this Skill is a main target of an Attack Skill, gain 2 fewer [Breath] Count from this effect\n\n[WinDuel] Gain +1 [Breath] Count
+298||(ulepszenie 1) — nazwa] 반[反]|Reflect [反]
+299||(ulepszenie 1) — opis] [DuelCounter]\n[DefeatDuel] 자신의 [Breath] 횟수 1 감소|[DuelCounter]\n[DefeatDuel] Lose 1 [Breath] Count
+300||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Breath] Count
+301||(ulepszenie 1) — nazwa] 무명섬[無名閃]|Unnamed Cut [無名閃]
+302||(ulepszenie 1) — moneta 1, efekt 1 — opis] 크리티컬 피해량 +50%|Deal +50% Damage on Critical Hit
+303||(ulepszenie 1) — nazwa] 연쇄참[連鎖斬]|Chainslash [連鎖斬]
+304||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [SlashTakeDamageUp] 1 부여|[OnSucceedAttack] Inflict 1 [SlashTakeDamageUp] next turn
+305||(ulepszenie 1) — nazwa] 낙성일살[落星一殺]|Fallstar Slayer [落星一殺]
+306||(ulepszenie 1) — opis] 속도에 관계없이 이 스킬과 합을 할 수 있음\n자신의 [DicipleLittleFinger] 1 당 피해량 +1%\n[WhenUse] 자신의 [DicipleLittleFinger] 10 당 코인 위력 +1\n[DefeatDuel] 피해량이 80% 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|Can Clash with this Skill regardless of Speed\nDeal +1% damage for every [DicipleLittleFinger] on self\n[WhenUse] Coin Power +1 for every 10 [DicipleLittleFinger] on self\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+309||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 이 코인 최종 피해량만큼 참격 피해|[UnBrokenCoinOnSucceedAttack] Deal Slash damage equal to this Coin's final damage
+310||(ulepszenie 1) — nazwa] 수세[收勢]|Retreat Form [收勢]
+311||(ulepszenie 1) — opis] [StartBattle] (자신의 [DicipleLittleFinger] x 10)만큼 보호막 얻음|[StartBattle] Gain 10 x ([DicipleLittleFinger] Count on self) Shield HP
+312||(ulepszenie 1) — nazwa] 이격[二擊]|Twinstrike [二擊]
+313||(ulepszenie 1) — opis] [WinDuel] [DicipleLittleFinger] 1 얻음|[WinDuel] Gain 1 [DicipleLittleFinger]
+314||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 1 증가|[OnSucceedAttack] Gain +1 [Breath] Count
+315||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음|[OnSucceedAttack] Gain 2 [Breath]
+316||(ulepszenie 1) — nazwa] 삼격[三擊]|Triplestrike [三擊]
+319||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 1 얻음|[OnSucceedAttack] Gain 1 [Breath]
+320||(ulepszenie 1) — moneta 3, efekt 1 — opis] 크리티컬 피해량 +30%|Deal +30% Damage on Critical Hit
+321||(ulepszenie 1) — nazwa] 걸려든 미끼|Snagged Lure
+322||(ulepszenie 1) — opis] [CantDuel]\n[FairyCharm]에 걸린 수감자를 우선으로 지정\n공격 가중치가 [FairyCharm]에 걸린 수감자 수만큼 적용됨|[CantDuel]\nPrioritizes Sinners who are [FairyCharm]\nThis Skill's Atk Weight = Number of Sinners who are [FairyCharm]
+325||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 본체, 몸통 체력 15 회복|[OnSucceedAttack] Core, Body heals 15 HP
+329||(ulepszenie 1) — nazwa] 확산하는 뿌리|Expanding Roots
+330||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst]
+332||(ulepszenie 1) — nazwa] 침식하는 줄기|Infusing Stems
+334||(ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]\n[OnSucceedAttack] 대상의 [Burst] 수치당 피해량 +5% (최대 100%)|[SuperCoin]\n[OnSucceedAttack] Deal +5% damage for every [Burst] on target (max 100%)
+335||(ulepszenie 1) — nazwa] 드러난 심연|Uncovered Abyss
+336||(ulepszenie 1) — opis] 대상의 [Burst]이 5이상이면, 피해량 +100%\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|If target has 5+ [Burst], deal +100% damage\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+338||(ulepszenie 1) — nazwa] 매혹된 자아|Charmed Consciousness
+339||(ulepszenie 1) — opis] 요정 초롱을 공격할 때 피해가 0으로 적용됨|Attacking Faelantern deals 0 damage
+341||(ulepszenie 1) — opis] [CantDuel]\n이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[FairyCharm]에 걸린 수감자를 우선으로 지정\n공격 가중치가 [FairyCharm]에 걸린 수감자 수만큼 적용됨|[CantDuel]\nCannot be Staggered before using this Skill\nPrioritizes Sinners who are [FairyCharm]\nThis Skill's Atk Weight = Number of Sinners who are [FairyCharm]
+342||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict 3 [Burst] and +3 [Burst] Count
+343||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +3 [Laceration] Count
+344||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 본체, 몸통 체력 30 회복|[OnSucceedAttack] Core and Body heal 30 HP
+345||(ulepszenie 1) — nazwa] 차원 베기|Dimensional Slice
+346||(ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 3 증가\n[DefeatDuel] 자신의 [Charge] 횟수 2 소모|[WhenUse] Gain +3 [Charge] Count\n[DefeatDuel] Consume 2 [Charge] Count
+348||(ulepszenie 1) — nazwa] 연속 차원 베기|Consecutive Dimensional Slice
+350||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [DimensionRift] 3 부여|[OnSucceedAttack] Inflict 3 [DimensionRift]
+352||(ulepszenie 1) — nazwa] 부산물 뱉기|Discharge Byproducts
+353||(ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 4 증가\n[DefeatDuel] 자신의 [Charge] 횟수 2 소모|[WhenUse] Gain +4 [Charge] Count\n[DefeatDuel] Consume 2 [Charge] Count
+355||(ulepszenie 1) — nazwa] 공간 절단|Rip Space
+356||(ulepszenie 1) — opis] [Charge] 횟수가 10 이상이면, [Charge] 횟수 10을 소모하고 합 위력 +5, 피해량 +100%\n[Charge] 횟수가 10 미만이면, 본체 체력 100을 소모함. 피해량 +80%\n이 스킬의 효과로 자신의 체력이 0이 되지 않음.\n[DefeatDuel] 아래 효과 적용\n- [Paralysis] 2 얻음\n- 피해량이 80%만큼 감소함\n- 이 스킬로 대상이 흐트러지지 않음\n- 대상의 [Burst] 효과를 발동시키지 않음|At 10+ [Charge] Count, consume 10 [Charge] Count to gain Clash Power +5 and deal +100% damage\nAt less than 10 [Charge] Count, consume 100 Core HP. Deal +80% damage\nThis unit's HP cannot drop to 0 due to this Skill's effect\n[DefeatDuel] Gain the following effects:\n- Gain 2 [Paralysis]\n- Deal -80% damage\n- This Skill cannot Stagger the target\n- Does not activate [Burst] on target
+358||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 자신의 [Charge] 횟수 2 증가|[OnSucceedAttackHead] Gain +2 [Charge] Count
+359||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [DimensionRift] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [DimensionRift]
+363||(ulepszenie 1) — nazwa] 준비된 반격|Prepared Retribution
+364||(ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 1 증가|[WhenUse] Gain +1 [Charge] Count
+366||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 2 부여|[OnSucceedAttack] Inflict 2 [Burst]
+367||(ulepszenie 1) — nazwa] 부산물 토하기|Vomit Byproducts
+368||(ulepszenie 1) — opis] [WhenUse] 메인 타겟에게 [DimensionRift]이 있다면, 피해량 +10%\n[DefeatDuel] 자신의 [Charge] 횟수 2 소모|[WhenUse] If the main target has [DimensionRift], deal +10% damage\n[DefeatDuel] Consume 2 [Charge] Count
+370||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [DimensionRift] 5 부여|[UnBrokenCoinOnSucceedAttack] Inflict 5 [DimensionRift]
+371||(ulepszenie 1) — nazwa] 고속 공간 절단|High-speed Rip Space
+372||(ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[DefeatDuel]\n- [ResultReduction] 2, [Paralysis] 1 얻음\n- 피해량이 90%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n가장 많이 가지고 있는 포탈 효과만큼 합 위력 증가\n자신이 가지고 있는 포탈 효과만큼 피해량 +10%|Can Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n[DefeatDuel]\n- Gain 2 [ResultReduction] and 1 [Paralysis]\n- Deal -90% damage and damage dealt by this Skill cannot Stagger the target\nGain 1 Clash Power for every Dimension effect on self\nDeal +10% for every Dimension effect on self
+374||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Burst]
+375||(ulepszenie 1) — nazwa] 기회 포착|Opportunity Spotted
+376||(ulepszenie 1) — opis] [WhenUse] 대상에게 [DimensionRift]이 있다면, 피해량 +20%|[WhenUse] If target has [DimensionRift], deal +20% damage
+378||(ulepszenie 1) — nazwa] 틈새 공격|Rift Attack
+379||(ulepszenie 1) — opis] [WhenUse] 대상에게 [DimensionRift]이 있다면, 피해량 +10%|[WhenUse] If target has [DimensionRift], deal +10% damage
+381||(ulepszenie 1) — nazwa] 차원 이동|Dimensional Leap
+382||(ulepszenie 1) — opis] 이 차원이 남아있다면, 피해량이 10% 증가|If this 'Dimensional Rift' remains, deal +10% damage
+384||(ulepszenie 1) — opis] 이 차원이 남아있다면, 최대 체력이 20% 증가|If this 'Dimensional Rift' remains, max HP +20%
+386||(ulepszenie 1) — opis] 이 차원이 남아있다면, 속도 1 증가|If this 'Dimensional Rift' remains, gain 1 Speed
+388||(ulepszenie 1) — opis] 이 차원이 남아있다면, 코인 위력 +1|If this 'Dimensional Rift' remains, Coin Power +1
+389||(ulepszenie 1) — nazwa] 관통|Pierce
+391||(ulepszenie 1) — nazwa] 살찢기|Flesh Rip
+392||(ulepszenie 1) — opis] 대상의 [Laceration]이 5 이상이면, 기본 위력 +1|If target has 5+ [Laceration], Base Power +1
+393||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가\n대상에게 부정적인 효과가 3개 이상이면, 추가 1 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count\nIf target has 3+ types of negative effects, inflict +1 additional [Laceration] Count
+394||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [DefenseDown] 2 부여|[OnSucceedAttackHead] Inflict 2 [DefenseDown] next turn
+397||(ulepszenie 1) — nazwa] 작품명: 심장박동 주기에 따른 뼈의 해방|Artwork: Liberation of Bones Contingent on Cardiac Rhythm
+398||(ulepszenie 1) — opis] 자신의 잃은 본체 체력 20% 당, 기본 위력 + 1 (최대 4)\n대상의 [Laceration] 3 당, 코인 위력 +1 (최대 2)\n[WinDuel] 대상의 [Vibration] 횟수 2 증가\n[DefeatDuel] 다음 턴에 [Paralysis] 1 얻음|Base Power +1 for every 20% missing HP percentage on this unit's Core (max 4)\nCoin Power +1 for every 3 [Laceration] on target (max 2)\n[WinDuel] Inflict +2 [Vibration] Count\n[DefeatDuel] Gain 1 [Paralysis] next turn
+400||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Vibration]
+403||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnStartCoin] 현재 본체 체력의 30%만큼 체력 감소 (이 효과로 흐트러짐 상태가 되지 않음, 소수점 버림)|[OnStartCoin] Lose 30% of this unit's current Core HP (does not get Staggered due to this effect; rounded down)
+404||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [Laceration] 5 얻음|[OnSucceedAttack] Gain 5 [Laceration]
+406||(ulepszenie 1) — moneta 3, efekt 5 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationBleeding]로 [Switch_Vibration]|[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationBleeding]
+407||(ulepszenie 1) — moneta 3, efekt 6 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+408||(ulepszenie 1) — nazwa] 근육 수축|Muscular Contraction
+409||(ulepszenie 1) — opis] [CanDuelGuard]\n[StartBattle] 다음 턴에 [MuscleContraction] 1 얻음. 피격 시 추가로 1 얻음. (턴 당 1회)|[CanDuelGuard]\n[StartBattle] Gain 1 [MuscleContraction] next turn. When hit, gain 1 additional [MuscleContraction] (once per turn)
+411||(ulepszenie 1) — nazwa] 꽂기|Jab
+413||(ulepszenie 1) — nazwa] 혈관찢기|Vascular Tear
+414||(ulepszenie 1) — opis] 대상의 [Laceration]이 5 이상이면, 기본 위력 +1\n대상에게 부정적인 효과가 3개 이상이면 피해량 +30%|If target has 5+ [Laceration], Base Power +1\nIf target has 3+ types of negative effects, deal +30% damage
+431||(ulepszenie 1) — nazwa] 묶인 근육|Bound Muscles
+433||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Desire] 1 부여|[OnSucceedAttackHead] Inflict 1 [Desire] next turn

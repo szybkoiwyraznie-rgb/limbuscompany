@@ -1,0 +1,208 @@
+{
+  "entries": {
+    "dataList[key=Q5001].description": {
+      "pl": "W końcu dotarliśmy z Pwie na 5. piętro. Nie wiadomo, co tu zastaniemy, ale idźmy dalej.",
+      "kr_sha256": "36ee7fdd7a2a16955b55bbb102bba0792ef11f7fc08e4b738e931ed05594c572",
+      "en_sha256": "9c7dd82e2714d3c8963e52f9532fdd20bba3d5fed359fcc0c2f70ea830ac64ad",
+      "origin": "ai"
+    },
+    "dataList[key=Q5001].steps[#0].goalDescription1": {
+      "pl": "Zbadaj drzwi na korytarzu 5. piętra",
+      "kr_sha256": "6f3278a1825d42f941554abe375a654a3555e1e29b6aa7c14e380d25503028fa",
+      "en_sha256": "1fa7dfb485a335c2ce2a23fd65c1bfaf8d493b8e2b3fa0d44b1dc79caa9d693c",
+      "origin": "ai"
+    },
+    "dataList[key=Q5001].steps[#1].goalDescription1": {
+      "pl": "Wysłuchaj, co mówi Kromer",
+      "kr_sha256": "fca751018c4d2512985ee39eae0bf65c107a3263ca9456607f52ae97a6f481ed",
+      "en_sha256": "644ce4d879b7b82d4119daf35c4efc51101d404b3fcb218dc679f9c549a42beb",
+      "origin": "ai"
+    },
+    "dataList[key=Q5001].title": {
+      "pl": "Zbadaj 5. piętro",
+      "kr_sha256": "4e2906939f0722b6e8546dd2ce66ebaf3b932d0db2547290b9a72e49d0bb4ad2",
+      "en_sha256": "e3db2ca66c17940d2d65900c0907dac9b990ac6e6dee31f520d4fbc39df09fc4",
+      "origin": "ai"
+    },
+    "dataList[key=Q5002].description": {
+      "pl": "Podobno brakuje nam „cnoty”, by wejść na 5. piętro. Pwie powiedział, że musi założyć Całun ze Złotej Skóry, a gdzieś na podziemnych poziomach mieszka ktoś, kto obrabia skóry. Zejdźmy na dół.",
+      "kr_sha256": "022c3d0e43e84b7a06b36a8dcfb4c3f602f9028e3eb2f7ba59f1cf2e68ae1b57",
+      "en_sha256": "c8b2789b36a4559da3f78805645e80e4ec42608e7b4b0e8d722b03f7c00ee1dc",
+      "origin": "ai"
+    },
+    "dataList[key=Q5002].steps[#0].goalDescription1": {
+      "pl": "Udaj się na poziom -1",
+      "kr_sha256": "b05418f3a029a8697a74db96ce9a60ca069135f124c7ce8256fdebf7c8bfc8ee",
+      "en_sha256": "d233f07948b679867305aeb532a79088b5acb082a32b206d829b54bf30a2ee07",
+      "origin": "ai"
+    },
+    "dataList[key=Q5002].steps[#1].goalDescription1": {
+      "pl": "Dotknij Zasłony na 5. piętrze",
+      "kr_sha256": "3cadfa382a4a0199e3c9d3ce9400c738eaa6e87d9432440f981118f872e3ca40",
+      "en_sha256": "dbdea7c6ec4be263599f1450429013d6cbe787e6c411003f08eaf65a64ad4219",
+      "origin": "ai"
+    },
+    "dataList[key=Q5002].title": {
+      "pl": "Udaj się na poziom -1",
+      "kr_sha256": "b05418f3a029a8697a74db96ce9a60ca069135f124c7ce8256fdebf7c8bfc8ee",
+      "en_sha256": "d233f07948b679867305aeb532a79088b5acb082a32b206d829b54bf30a2ee07",
+      "origin": "ai"
+    },
+    "dataList[key=Q5003].description": {
+      "pl": "Trzeba pokonać Dyrektora Marki Le Noir, który zagradza nam drogę.",
+      "kr_sha256": "26106849e34b71199907f79932bbf7e08e46c09153c0327214e787951c782225",
+      "en_sha256": "c865aba82aaa978d41b221f716c52bf088d0fba9f3cf60c74873c13d0802dd83",
+      "origin": "ai"
+    },
+    "dataList[key=Q5003].steps[#0].goalDescription1": {
+      "pl": "Pokonuj Dyrektora Marki Le Noir",
+      "kr_sha256": "1f86d5a1d73d46fc6e303b7714b3c135a4168014bcfeff6bede8c4029739ed28",
+      "en_sha256": "75f92f94bd898e5cd376db601915cc9b724e9fd5191811c70b964dedd827f893",
+      "origin": "ai"
+    },
+    "dataList[key=Q5003].title": {
+      "pl": "Zabij Dyrektora Marki Le Noir",
+      "kr_sha256": "11a7fbf25a31c803ffaf366cf24cf67dd86ae273d4ab9267416dbb608e03494c",
+      "en_sha256": "46799639aa37b7ed51227ae9a0b940923bf313db326f5f2fbb25ebf610ba0348",
+      "origin": "ai"
+    },
+    "dataList[key=Q5004].description": {
+      "pl": "Nadzorca ukończył Złotą Skórę, a Pwie przywdział ubranie z niej. Ale Pwie, który pożarł Wriggleya, widać, nie ma dobrego humoru. Czas udać się na 5. piętro.",
+      "kr_sha256": "673f16d5078fdcac543d8470be43db7e6f2725eb5e1ac6f8db601f1652ccbdb4",
+      "en_sha256": "17d0c1dda29558406e4a37365208cbb51424f45aaf2c3b6059c5aa3ac08dce3b",
+      "origin": "ai"
+    },
+    "dataList[key=Q5004].steps[#0].goalDescription1": {
+      "pl": "Udaj się w głąb 5. piętra",
+      "kr_sha256": "e12754feea1369616f2bc2bf028dde7660635cb503273ecc19d5d7ce2399815f",
+      "en_sha256": "378c6ca0acdc22633e161039b89e2bedee309200b4e9d82869f4c1fe5baf16e7",
+      "origin": "ai"
+    },
+    "dataList[key=Q5004].steps[#1].goalDescription2": {
+      "pl": "Rozpraw się z nawałą",
+      "kr_sha256": "fce6dcee4314229b8263df89fda9974ae3e92a83c7bfbf6f4e9c36cf5c7f7593",
+      "en_sha256": "682009e44c60700a6d502a76b35f433bd1ce897e6a41f0687eef2f14c7277aa1",
+      "origin": "ai"
+    },
+    "dataList[key=Q5004].title": {
+      "pl": "Udaj się w głąb 5. piętra",
+      "kr_sha256": "e12754feea1369616f2bc2bf028dde7660635cb503273ecc19d5d7ce2399815f",
+      "en_sha256": "378c6ca0acdc22633e161039b89e2bedee309200b4e9d82869f4c1fe5baf16e7",
+      "origin": "ai"
+    },
+    "dataList[key=Q5005].description": {
+      "pl": "Kokon pękł.\nObserwujmy, w co przemieni się Bufet.",
+      "kr_sha256": "495c7e546762dd64078278b441fa062e7c18328341003560a04e41ee033b6b92",
+      "en_sha256": "5497b37f55047026fa44ef6a428e8d685329a52e2595789ed2792eba0dabaefb",
+      "origin": "ai"
+    },
+    "dataList[key=Q5005].steps[#0].goalDescription1": {
+      "pl": "Obserwujemy do końca, w co przemieni się Bufet",
+      "kr_sha256": "d1418230c8682c3bb24c0ea1ba232dd1f72edd12e054db9d367d491ac00d70f5",
+      "en_sha256": "d68fb92b3275d2d80c1c296e003e79076946e57081c65688ef3ac19dbaa79118",
+      "origin": "ai"
+    },
+    "dataList[key=Q5005].title": {
+      "pl": "Obserwuj Bufet",
+      "kr_sha256": "e82e20784e5bf3b5122b8dd938cf49566791bff89b1923a2008b9deb10d00cf2",
+      "en_sha256": "717b7738a244f9d2fa62e12864882ddf2aaed6f3de710a60106068cbc731598f",
+      "origin": "ai"
+    },
+    "dataList[key=Q5006].steps[#0].goalDescription1": {
+      "pl": "Pokonaj 9 Pracowników Le Noir [Napromienionych]",
+      "kr_sha256": "3f5ca8bf38cf7f4cfe2eefc9d1ae00836a0cfe9b7470020196426050a328ca29",
+      "en_sha256": "b13e6c988a17d06d4672779417632eee631b254526ca56193ed38160ee9226ae",
+      "origin": "ai"
+    },
+    "dataList[key=Q5007].description": {
+      "pl": "Rozbiliśmy nawałę wrogów na 5. piętrze. Teraz wejdźmy w głąb i dotknijmy Zasłony. Pwie nosi już Całun ze Złotej Skóry — może tym razem coś się zmieni.",
+      "kr_sha256": "39f4c3268c47f6a62c197bca01937458842505fd16f722038e9dc2ff5b5025a4",
+      "en_sha256": "4b95285d34a7e2cee04c302c18f2b03756613617dc2b4688e9b8c007c79f61f9",
+      "origin": "ai"
+    },
+    "dataList[key=Q5007].steps[#0].goalDescription1": {
+      "pl": "Dotknij Zasłony na 5. piętrze",
+      "kr_sha256": "3cadfa382a4a0199e3c9d3ce9400c738eaa6e87d9432440f981118f872e3ca40",
+      "en_sha256": "dbdea7c6ec4be263599f1450429013d6cbe787e6c411003f08eaf65a64ad4219",
+      "origin": "ai"
+    },
+    "dataList[key=Q5007].title": {
+      "pl": "Udaj się do Zasłony w głębi 5. piętra",
+      "kr_sha256": "1696242c057622e3614aec731f07bbc48b29324040ea55425d9749cbbff02eb2",
+      "en_sha256": "be0e32e58d817e52ac458fe8e191fe6b48b44dc1b23c2c8e0a5d13cf5747b9c1",
+      "origin": "ai"
+    },
+    "dataList[key=Q5008].steps[#0].goalDescription1": {
+      "pl": "Stan twarzą w twarz z Le Noir na drodze",
+      "kr_sha256": "a326693dec8cb3f91eab777bcf8e9f0b0b04ef5ef2d78e6f4b4b55d40ab594c8",
+      "en_sha256": "e1551c6f419cecb006fbc986232acb8735b4b82e43f0d0356fa435f81b7b3f18",
+      "origin": "ai"
+    },
+    "dataList[key=Q5009].description": {
+      "pl": "Weszliśmy za Zasłonę blokującą 5. piętro. W środku ogromne istoty jedzą. Uciekajmy w głąb, omijając wrogów.",
+      "kr_sha256": "11092fedd93e543d393c397edbee61e81e2e2b5196bf345aefc40bf09a58faf6",
+      "en_sha256": "6b247b09ee5fe3f729742737de7ce5b86ec5ec0a8b1a0ba2afcd4ab2dab7d868",
+      "origin": "ai"
+    },
+    "dataList[key=Q5009].steps[#0].goalDescription1": {
+      "pl": "Udaj się do restauracji",
+      "kr_sha256": "a83bb1310a910660feaee0469bd69c938271bbe977c77563a2e4d7a39e234e8e",
+      "en_sha256": "7e6a472da6f7db3fe8fc952c96b66322b4885e68580de017452c2570ceb4da30",
+      "origin": "ai"
+    },
+    "dataList[key=Q5009].title": {
+      "pl": "Udaj się do restauracji",
+      "kr_sha256": "a83bb1310a910660feaee0469bd69c938271bbe977c77563a2e4d7a39e234e8e",
+      "en_sha256": "7e6a472da6f7db3fe8fc952c96b66322b4885e68580de017452c2570ceb4da30",
+      "origin": "ai"
+    },
+    "dataList[key=Q5010].description": {
+      "pl": "Pwie powiedział, że zasną, po czym w tym samym miejscu zapadł w sen i zamienił się w kokon. Le Noir, wykrywszy kokon, nadciągają ze wszystkich stron. Brońmy Pwie.",
+      "kr_sha256": "6e095d3a212685c88bd2beb83caf3c52cb6efa9e778c15b311273deabd30e868",
+      "en_sha256": "6ebf98bdad03db729db33c5d12e4851dded298de99b1ffa708249ce0b065b453",
+      "origin": "ai"
+    },
+    "dataList[key=Q5010].steps[#0].goalDescription1": {
+      "pl": "Chroń Kokon przed nawałą Le Noir",
+      "kr_sha256": "2bfd96d91626a498eb2fa5cfcf14afc445dbc9aba2b971baad53d58cce5f749a",
+      "en_sha256": "5be113fad1ef00db8a6821071c44d487bfee4e53d749b89e2236c621ecf07998",
+      "origin": "ai"
+    },
+    "dataList[key=Q5010].title": {
+      "pl": "Chroń Kokon przed nawałą Le Noir",
+      "kr_sha256": "2bfd96d91626a498eb2fa5cfcf14afc445dbc9aba2b971baad53d58cce5f749a",
+      "en_sha256": "5be113fad1ef00db8a6821071c44d487bfee4e53d749b89e2236c621ecf07998",
+      "origin": "ai"
+    },
+    "dataList[key=Q5011].steps[#0].goalDescription1": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q5011].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q5012].description": {
+      "pl": "Trzeba pokonać Czarną Nić zagradzającą nam drogę.",
+      "kr_sha256": "6062de6aa35286a2017cf2356e81b8479e3cd10997ad56f0a78b77334dd5ee03",
+      "en_sha256": "3ad52a9997b6ed6030745bb9ebc375d55a838ff23b557872ed938c37fd61fb94",
+      "origin": "ai"
+    },
+    "dataList[key=Q5012].steps[#0].goalDescription1": {
+      "pl": "Zabij Czarną Nić",
+      "kr_sha256": "ba889ad66bba3b317f68cb4de91e328eeb9b9f5091cedf3ad08032a19d6cc732",
+      "en_sha256": "5ec19edaa315b55ee286d8a56b9e0604aeb7d2dce6c79e110bacdd42d79da56a",
+      "origin": "ai"
+    },
+    "dataList[key=Q5012].title": {
+      "pl": "Zabij Czarną Nić",
+      "kr_sha256": "ba889ad66bba3b317f68cb4de91e328eeb9b9f5091cedf3ad08032a19d6cc732",
+      "en_sha256": "e17a03985abbc52a84ad57ef215a5a673ca7459d7d2163c326eb8bd1e7511f50",
+      "origin": "ai"
+    }
+  }
+}

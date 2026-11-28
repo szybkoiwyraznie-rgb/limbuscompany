@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=40000201].desc": {
+      "pl": "Gdy sojusznik zadaje obrażenia wrogowi atakiem, po zakończeniu tego ataku wykonuje atak bez oporu Umiejętnością „Weakness Thrust” (2 razy na turę)",
+      "kr_sha256": "20a6640e18fad0fd5ff158ec8ce7ee5f39083092099695bd8348dae698ad89d8",
+      "en_sha256": "3a7f7922bbee86d8d5bc2f9c03b531a2526ea5149b03ac23cc4a50ad26faa0da",
+      "origin": "ai"
+    },
+    "dataList[id=40000201].name": {
+      "pl": "Paired Assault",
+      "kr_sha256": "7dc08faabaebca4fca1ca452d6455f9e3a09f57a1d82b1a44bfe6442a2f81401",
+      "en_sha256": "22a2d4f5fea3c6b2c2cc1fb5b56de86a626d4b44ce661cf82ae0177208b9873b",
+      "origin": "ai"
+    },
+    "dataList[id=40000202].desc": {
+      "pl": "Gdy wróg zaatakuje sojusznika poza tą jednostką, a po ataku HP tego sojusznika będzie niższe niż 25%, wykonuje atak bez oporu na atakującym Umiejętnością „Aiding Strike” (1 raz na walkę)",
+      "kr_sha256": "8ec453326c2e27c70e0beeb206626eb1898f4134a0a6ae089430c249eea0760b",
+      "en_sha256": "48d21072d21d2f8f7fcbb3605017463a17a6436b508b26ffcb05c8cf12e5f1a7",
+      "origin": "ai"
+    },
+    "dataList[id=40000202].name": {
+      "pl": "Aiding Stab",
+      "kr_sha256": "2d4b9735cbc268247e907d65d4b908e054e5d6b07baddeda69d1ae641ba7a237",
+      "en_sha256": "c1aa8dd0f465ef6b1b1b9893335d11be02292ab20854c277308dcdf16711e0d6",
+      "origin": "ai"
+    },
+    "dataList[id=40000203].desc": {
+      "pl": "Koniec tury: za każde 3 Równowagi tej jednostki zyskuje 1 Wzrost Poziomu Obrony w następnej turze (maks. 6)",
+      "kr_sha256": "d492f142f20ca00e3f40ced0a1dcb335a717739f405b759034e8f98ee90dbdef",
+      "en_sha256": "b3c7ebec5d66553aadbe2bef0dd92f4e8b335adef781d155b99537ae94922391",
+      "origin": "ai"
+    },
+    "dataList[id=40000203].name": {
+      "pl": "Siphoning Fulfillment",
+      "kr_sha256": "0dffc8f00a5940b8c5536aab37c527ddc0a6217c76b24ef252dce9e48c188ec0",
+      "en_sha256": "e067befa3c218c98469cad6cb94ad0b3cb7e8b064384225149a5ad3b8a848673",
+      "origin": "ai"
+    },
+    "dataList[id=40000204].desc": {
+      "pl": "Przy zabiciu wroga: odzyskuje 10 SP dla 2 Grzeszników z najniższą Poczytalnością",
+      "kr_sha256": "d573ae22fd3adc3d9703406fb2cfb1fad910cfddcd0a7248c9497da0095d95f8",
+      "en_sha256": "4258146efce035efc756e448b08ecfa1517061bc918638dfea35814ae235b7f8",
+      "origin": "ai"
+    },
+    "dataList[id=40000204].name": {
+      "pl": "Podniesienie Moralu",
+      "kr_sha256": "ed7e8eb2d793a160b1bf50953f063f0c101eafb079137510f252400faffc8d32",
+      "en_sha256": "7cd2ad10cb6acdeab4889fe1177e62756ae9352e7aeb1ddb9ea0c47169ee1a7c",
+      "origin": "ai"
+    }
+  }
+}

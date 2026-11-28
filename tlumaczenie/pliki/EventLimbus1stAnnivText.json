@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=limbus_1st_anniversary_attendance_desc].content": {
+      "pl": "Za każde zalogowanie w okresie wydarzenia otrzymujesz Bilety Ekstrakcji.\nZa 7 dni obecności otrzymasz specjalne nagrody.",
+      "kr_sha256": "8d4dd77938f66389dd9ab97bfc5b9150b4d34efc0d646ce4bd134b6c24d04d8b",
+      "en_sha256": "f6dc152b25f38374be3577603ae76f33dedc467ef7c06ced0e58bf65b00e52aa",
+      "origin": "ai"
+    },
+    "dataList[id=limbus_1st_anniversary_attendance_last_reward_desc].content": {
+      "pl": "Jeśli masz już tego Komentatora, otrzymasz 50 Skrzynek Nici.",
+      "kr_sha256": "d7877a562e309fe651efdfb00ae1cee082584b750b72f93ed1fe82e16c1ba7da",
+      "en_sha256": "c89058cda9170aa9db94233eed63e394d8e14829e4e608263d68b7928b340902",
+      "origin": "ai"
+    },
+    "dataList[id=limbus_1st_anniversary_welcome_desc].content": {
+      "pl": "Zaloguj się w okresie wydarzenia i odbierz Bilet Dekstrakcji Gwarantowanej 3★!",
+      "kr_sha256": "fe8bd6b3302643219684cd5a763e608efbff7d68bbc632e851c8e9f8e1b847ae",
+      "en_sha256": "84da3440a7380d27c359d9221a546fec08f1ddc30e1c1d4d28ecdcd21b9e1e8b",
+      "origin": "ai"
+    },
+    "dataList[id=limbus_1st_anniversary_welcome_title].content": {
+      "pl": "1. rocznica Limbus Company",
+      "kr_sha256": "0959ad86053c39e7237e39d56a00948f77376d4ef4091f78d7d17e0409b1868e",
+      "en_sha256": "d4eb313b3b90d22a07dd176d6887ce12de941a6fb780f79ca2ed4f5adbbe2c86",
+      "origin": "ai"
+    }
+  }
+}

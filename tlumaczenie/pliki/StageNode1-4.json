@@ -1,0 +1,976 @@
+{
+  "entries": {
+    "dataList[id=10401].desc": {
+      "pl": "Gdy oprzytomniałem, pośrodku rzekomo spokojnego Gniazda ujrzałem konających Grzeszników. A tuż przede mną… Zacząłem po kolei odtwarzać w pamięci, jak do tego doszło.",
+      "kr_sha256": "3606eafa80a7fd12495db30a7bc8e09be47524cd45d07644c84ea781e0f3a7dc",
+      "en_sha256": "ec5f306f432c003c7ed3e515d25690e6c78417109acbd65963000f755b976782",
+      "origin": "ai"
+    },
+    "dataList[id=10401].place": {
+      "pl": "Wnętrze Mefistofelesa",
+      "kr_sha256": "4d8e8db7ecbd1beffeef4944954c037245114de4988e89d756d7350fe56ca305",
+      "en_sha256": "a8d5f19555ad0bd2be4274f16f1301b15dc2ee845ddcdade3130106a8e3077bb",
+      "origin": "ai"
+    },
+    "dataList[id=10401].title": {
+      "pl": "Wszyscy Wysiadają",
+      "kr_sha256": "1b94077c04c57d0989f1c12dd2bab7cb76ed912fde221368a4be36bc8c3c517a",
+      "en_sha256": "7fe745ee189a620a195b27b9b4e5f3ec3a01fefeb9307430d7487303dd981650",
+      "origin": "ai"
+    },
+    "dataList[id=10402].desc": {
+      "pl": "Skąd w samym sercu Gniazda K Corp. wzięła się Anomalia? Spojrzenie Vergiliusa nie pozostawiało wątpliwości: nie mamy wracać do autobusu, dopóki nie opanujemy sytuacji. Mijając uciekający w popłochu tłum, ruszyliśmy w samo centrum piekła.",
+      "kr_sha256": "4558950b60577060b8e00e1bc1b196b1f06fd35f12f3f9358529c159816ceba5",
+      "en_sha256": "4889f1a713829fec0cefb8b45d66f6f7dafa5b9663db2b13422db18205882408",
+      "origin": "ai"
+    },
+    "dataList[id=10402].place": {
+      "pl": "Środek Gniazda K Corp.",
+      "kr_sha256": "26ff4d9fc5e5452225279c6e4280367f931e6d1f03504ea19a7bbd7da9b60e7d",
+      "en_sha256": "086f502dd771b5827c77f32c12a2482dce277b57ff69268142770846418d9c26",
+      "origin": "ai"
+    },
+    "dataList[id=10402].title": {
+      "pl": "Talent i Geniusz",
+      "kr_sha256": "d96de958fd6af058649fb6994d59c497711dc43e74f7dbc962360b6a48a597cb",
+      "en_sha256": "5623879a8b86ad07698defa38541d9368bba64a2abf6bee44c003d0cd1237f66",
+      "origin": "ai"
+    },
+    "dataList[id=10403].desc": {
+      "pl": "Torując sobie drogę wśród podejrzanych dronów, próbujemy opanować zamieszanie. Na pierwszy rzut oka widać, że są piekielnie drogie, a widniejące na nich logo K Corp. tylko potęguje moje opory przed ich niszczeniem.",
+      "kr_sha256": "2ef29b9a0881c82482c518319b49eef0950fa98b83959e8a4643ba8605a436f9",
+      "en_sha256": "02184608fa9b1162e32170b528e3fd8c0ec1645fd4a3dd6be742af707787fa7c",
+      "origin": "ai"
+    },
+    "dataList[id=10403].place": {
+      "pl": "Środek Gniazda K Corp.",
+      "kr_sha256": "26ff4d9fc5e5452225279c6e4280367f931e6d1f03504ea19a7bbd7da9b60e7d",
+      "en_sha256": "086f502dd771b5827c77f32c12a2482dce277b57ff69268142770846418d9c26",
+      "origin": "ai"
+    },
+    "dataList[id=10403].title": {
+      "pl": "Drony i Anomalia",
+      "kr_sha256": "a952f76370f93eaaa4138a14127a92175526f573149aa72dc200407f74262b78",
+      "en_sha256": "dba8a7e5a9027169505771dcc28de84d70ad370e514d7ee4fac1c21b7cd0b196",
+      "origin": "ai"
+    },
+    "dataList[id=10404].desc": {
+      "pl": "Torując sobie drogę wśród podejrzanych dronów, próbujemy opanować zamieszanie. Na pierwszy rzut oka widać, że są piekielnie drogie, a widniejące na nich logo K Corp. tylko potęguje moje opory przed ich niszczeniem.",
+      "kr_sha256": "2ef29b9a0881c82482c518319b49eef0950fa98b83959e8a4643ba8605a436f9",
+      "en_sha256": "02184608fa9b1162e32170b528e3fd8c0ec1645fd4a3dd6be742af707787fa7c",
+      "origin": "ai"
+    },
+    "dataList[id=10404].place": {
+      "pl": "Środek Gniazda K Corp.",
+      "kr_sha256": "26ff4d9fc5e5452225279c6e4280367f931e6d1f03504ea19a7bbd7da9b60e7d",
+      "en_sha256": "086f502dd771b5827c77f32c12a2482dce277b57ff69268142770846418d9c26",
+      "origin": "ai"
+    },
+    "dataList[id=10404].title": {
+      "pl": "Drony i Anomalia 2",
+      "kr_sha256": "6251a97649001119e60e0cd9cbab773339ffe0cb09b7abe0ab52d50e4bb304a2",
+      "en_sha256": "d09d91c05283b84d29f3c5e28ab054dfa783010278784f24f8400b771c066792",
+      "origin": "ai"
+    },
+    "dataList[id=10405].desc": {
+      "pl": "Torując sobie drogę wśród podejrzanych dronów, próbujemy opanować zamieszanie. Na pierwszy rzut oka widać, że są piekielnie drogie, a widniejące na nich logo K Corp. tylko potęguje moje opory przed ich niszczeniem.",
+      "kr_sha256": "2ef29b9a0881c82482c518319b49eef0950fa98b83959e8a4643ba8605a436f9",
+      "en_sha256": "02184608fa9b1162e32170b528e3fd8c0ec1645fd4a3dd6be742af707787fa7c",
+      "origin": "ai"
+    },
+    "dataList[id=10405].place": {
+      "pl": "Środek Gniazda K Corp.",
+      "kr_sha256": "26ff4d9fc5e5452225279c6e4280367f931e6d1f03504ea19a7bbd7da9b60e7d",
+      "en_sha256": "086f502dd771b5827c77f32c12a2482dce277b57ff69268142770846418d9c26",
+      "origin": "ai"
+    },
+    "dataList[id=10405].title": {
+      "pl": "Drony i Anomalia 3",
+      "kr_sha256": "6574e3cc7336c5597041363013f6861e97d3db83c57139c51eb67ac2748c3867",
+      "en_sha256": "3de02a2b518e9097e72fd7d11a61aa987cad36386323389b2adc8bed9eb5a37d",
+      "origin": "ai"
+    },
+    "dataList[id=10406].desc": {
+      "pl": "Natrętne drony wreszcie zniknęły z pola widzenia. Pora zebrać myśli i rozprawić się z prawdziwym zagrożeniem — Anomalią.",
+      "kr_sha256": "77164841e515282972688888168ce5aed3b721a73fc9e0deeec1a39cc820e0f4",
+      "en_sha256": "698ae3d0d6070e8554b7376c5eb727422eb5fa03f0fb07375955a9ea4fe4503b",
+      "origin": "ai"
+    },
+    "dataList[id=10406].place": {
+      "pl": "Środek Gniazda K Corp.",
+      "kr_sha256": "26ff4d9fc5e5452225279c6e4280367f931e6d1f03504ea19a7bbd7da9b60e7d",
+      "en_sha256": "086f502dd771b5827c77f32c12a2482dce277b57ff69268142770846418d9c26",
+      "origin": "ai"
+    },
+    "dataList[id=10406].title": {
+      "pl": "Powrót",
+      "kr_sha256": "ef93a29205b46922e4836bfe5def04d85968aa3a1c857b2dc4f4bd839f5e74f6",
+      "en_sha256": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+      "origin": "ai"
+    },
+    "dataList[id=10407].desc": {
+      "pl": "Po wielu trudach pokonaliśmy Anomalię i wróciliśmy do autobusu. Kto właściwie powierzył nam to zlecenie? Udając, że nie słyszę cichego nucenia Ishmael, wyglądałem przez okno.",
+      "kr_sha256": "70f9604021fd290f514cfb9d7bdc5a2e88d595cef0b0ca2c54cdac3a1170594b",
+      "en_sha256": "b8e5f281717768d5d102bfcef7bac38de4a8115466b343639ca27ea720dc2876",
+      "origin": "ai"
+    },
+    "dataList[id=10407].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10407].title": {
+      "pl": "Zleceniodawca",
+      "kr_sha256": "860b09ea990bacb28d99a4b7b4da67dbab7c9901c0f459f63031dfb8e9687ed2",
+      "en_sha256": "54521a09a45cd58c4e2596941d093572c98739b1d34fd3a56be05ed140a7a484",
+      "origin": "ai"
+    },
+    "dataList[id=10408].desc": {
+      "pl": "Natknęliśmy się na twarz, której nie spodziewaliśmy się już więcej oglądać — i żaden z Grzeszników nie wyglądał na ucieszonego tym spotkaniem. Zleceniodawca przedstawiający się jako Dongrang zagaił do mnie przyjaźnie, choć przecież nikt poza Grzesznikami nie rozumie moich słów…",
+      "kr_sha256": "5ce5518921934ac67e0101bf239e89e7a79ae531c6fedab3d5cf6dc14f6727d8",
+      "en_sha256": "c26ec109483205f3e72bf52f1d94383e303f48065014af6f228e7c0296ae3fd3",
+      "origin": "ai"
+    },
+    "dataList[id=10408].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10408].title": {
+      "pl": "Przyjęcie do Pracy",
+      "kr_sha256": "2c3f068ff3c9486b8cd6c249d929fd818df3fe0a6a162b016edb924c0fcc873e",
+      "en_sha256": "e7ad522ea327e5ba95534ef8355038ef7f7b86328c7cf9175886f60464c40d28",
+      "origin": "ai"
+    },
+    "dataList[id=10409].desc": {
+      "pl": "Nachwaliwszy się technologią regeneracji K Corp., Dongrang poszedł o krok dalej i zaprosił nas do swojego laboratorium. Nie zważając na zszokowaną minę Samja, ruszyliśmy za nim.",
+      "kr_sha256": "947d3692e96a6026abc96ce144b64f8b30cefb850ee617a9656ca105da837ba0",
+      "en_sha256": "a621ca64a2328eba54384255396e164afef1eb89106a1bb77c6a42bd648f62c8",
+      "origin": "ai"
+    },
+    "dataList[id=10409].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10409].title": {
+      "pl": "Ampułki Regeneracyjne",
+      "kr_sha256": "cef9089429d6d03ce078c23585ceb68b11d8a114f4aeded1363871311438dfdc",
+      "en_sha256": "d77ec23811e25e92d803543985de9cd49c6bdbb35828176380bb1d7c7bfe5792",
+      "origin": "ai"
+    },
+    "dataList[id=10410].desc": {
+      "pl": "Do laboratorium wtargnęli intruzi. Samjo nazwał ich terrorystami, lecz napastnicy z oburzeniem odrzucili to miano, przedstawiając się jako „Sojusz Wyzwolenia Technologii”. Nazwa nie miała znaczenia — aby ujść cało z wybuchu i wykonać zlecenie, musieliśmy stawić im czoła.",
+      "kr_sha256": "44f055796fc2dcea6d5ec828be51323fc3036860087ce47e29642f82fc1f10c4",
+      "en_sha256": "dbbdf528293d158fad94bb019b80854ca410666d40064f975b4169ae7dda2745",
+      "origin": "ai"
+    },
+    "dataList[id=10410].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10410].title": {
+      "pl": "Organizacja Terrorystyczna",
+      "kr_sha256": "4a88bda6f02be2468385d1d264679474602ca11cee02717c9d0267021aab24fc",
+      "en_sha256": "6c4ba4262aa63bbbe560a668cb9357a9e95d25a8a019912d68a97f63ff4c850b",
+      "origin": "ai"
+    },
+    "dataList[id=10411].desc": {
+      "pl": "Do laboratorium wtargnęli intruzi. Samjo nazwał ich terrorystami, lecz napastnicy z oburzeniem odrzucili to miano, przedstawiając się jako „Sojusz Wyzwolenia Technologii”. Nazwa nie miała znaczenia — aby ujść cało z wybuchu i wykonać zlecenie, musieliśmy stawić im czoła.",
+      "kr_sha256": "44f055796fc2dcea6d5ec828be51323fc3036860087ce47e29642f82fc1f10c4",
+      "en_sha256": "dbbdf528293d158fad94bb019b80854ca410666d40064f975b4169ae7dda2745",
+      "origin": "ai"
+    },
+    "dataList[id=10411].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10411].title": {
+      "pl": "Organizacja Terrorystyczna 2",
+      "kr_sha256": "d63125eddcc56c3f887cb622378b99cc59c21324c6f81e054b1da074b955d123",
+      "en_sha256": "e14e98cf0f4dae8a364f2904664c0606c766fb2800dee03fbc1ee3977c62d9b0",
+      "origin": "ai"
+    },
+    "dataList[id=10412].desc": {
+      "pl": "Do laboratorium wtargnęli intruzi. Samjo nazwał ich terrorystami, lecz napastnicy z oburzeniem odrzucili to miano, przedstawiając się jako „Sojusz Wyzwolenia Technologii”. Nazwa nie miała znaczenia — aby ujść cało z wybuchu i wykonać zlecenie, musieliśmy stawić im czoła.",
+      "kr_sha256": "93ad9ab05d4e074e7f314dd7a769fd62f799032f9bc18a614dfa735d2512cca5",
+      "en_sha256": "68404c86bc5074545609d52af1cf844878d75fda25e20bd42d049d49f7ef5a0c",
+      "origin": "ai"
+    },
+    "dataList[id=10412].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10412].title": {
+      "pl": "Ampułki Rozkładu",
+      "kr_sha256": "6e0583ef16896d0cf36bd1557ed9797545164d74c5b1fcc29634c4e2da06e48e",
+      "en_sha256": "51a62b1f02ffbd80274edcbb1e9042ffeacb543adf77852797aa56951401e53a",
+      "origin": "ai"
+    },
+    "dataList[id=10413].desc": {
+      "pl": "Do laboratorium wtargnęli intruzi. Samjo nazwał ich terrorystami, lecz napastnicy z oburzeniem odrzucili to miano, przedstawiając się jako „Sojusz Wyzwolenia Technologii”. Nazwa nie miała znaczenia — aby ujść cało z wybuchu i wykonać zlecenie, musieliśmy stawić im czoła.",
+      "kr_sha256": "93ad9ab05d4e074e7f314dd7a769fd62f799032f9bc18a614dfa735d2512cca5",
+      "en_sha256": "68404c86bc5074545609d52af1cf844878d75fda25e20bd42d049d49f7ef5a0c",
+      "origin": "ai"
+    },
+    "dataList[id=10413].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10413].title": {
+      "pl": "Ampułki Rozkładu 2",
+      "kr_sha256": "39de9e8d5f1e3c6c3b5b6239f6a466630b7e0004a255bf8ce8b9db8178fb8ee1",
+      "en_sha256": "a40fd7295d9b99614eb9789cc1c0543c86079b75e73dee7550bc64fbee0e6977",
+      "origin": "ai"
+    },
+    "dataList[id=10414].desc": {
+      "pl": "Do laboratorium wtargnęli intruzi. Samjo nazwał ich terrorystami, lecz napastnicy z oburzeniem odrzucili to miano, przedstawiając się jako „Sojusz Wyzwolenia Technologii”. Nazwa nie miała znaczenia — aby ujść cało z wybuchu i wykonać zlecenie, musieliśmy stawić im czoła.",
+      "kr_sha256": "93ad9ab05d4e074e7f314dd7a769fd62f799032f9bc18a614dfa735d2512cca5",
+      "en_sha256": "68404c86bc5074545609d52af1cf844878d75fda25e20bd42d049d49f7ef5a0c",
+      "origin": "ai"
+    },
+    "dataList[id=10414].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10414].title": {
+      "pl": "Ampułki Rozkładu 3",
+      "kr_sha256": "1062533a82e1c18ad7f940a590c7594b4cc797466c1dc44bbc89f1d613861bff",
+      "en_sha256": "5bf4e4f74a3040add5c470bc82cb0d8be3e31f38ae424d6de0a10fabf193faa3",
+      "origin": "ai"
+    },
+    "dataList[id=10415].desc": {
+      "pl": "Gdy kolejne starcia z maszynami dawały nam się coraz bardziej we znaki, rozległ się czyjś pewny siebie głos.",
+      "kr_sha256": "bbba5fce9511da94e1dcabbd6485c45d46bd744d451ef8ad5f651975aadbedd8",
+      "en_sha256": "f97a3592145c2a67ed1ba463ba4414c9e2c412b746221e52e04c74fabe5d388c",
+      "origin": "ai"
+    },
+    "dataList[id=10415].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10415].title": {
+      "pl": "Odbicie",
+      "kr_sha256": "d47c7d78cb0e94dbd07716981ba851d6a8a516f4172a9db15867399b46d999b3",
+      "en_sha256": "c8438f578975295525bd3b8e875c53916db40c7bb3e459168b9e8e5647eae331",
+      "origin": "ai"
+    },
+    "dataList[id=10416].desc": {
+      "pl": "Wraz ze Shrenne oraz Fikserami z Warsztatu Różanego Klucza ruszyliśmy do filii Lobotomy Corp. Tym razem w operacji bierze udział wyjątkowo liczna grupa. Podobno obiekt zajęli terroryści — czy na pewno nic nam nie grozi?",
+      "kr_sha256": "cd4508ec93fff7e29e3115ba4b8554c9d7abeb647d11b7f4a97b7356de73370c",
+      "en_sha256": "e9cf6940b9d99d6e1b1c2847256a683e5ffd1c67c388fddd7e6bbf696df3514d",
+      "origin": "ai"
+    },
+    "dataList[id=10416].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10416].title": {
+      "pl": "Era Ludzkości",
+      "kr_sha256": "89327720cdcaedf2f652a4258d4d7cd5dc9e78002c849aa3075bf3503b961218",
+      "en_sha256": "249b4a602f246d3aecae85b645b63dab67e4f4d46cb960777327a515a95103f4",
+      "origin": "ai"
+    },
+    "dataList[id=10417].desc": {
+      "pl": "Zamiast terrorystów filię Lobotomy Corp. zajmowały maszyny znane nam już z K Corp. Z jakiegoś powodu po zniszczeniu odtwarzają jednak nieznany głos wyzywający nas od robaków.",
+      "kr_sha256": "453b208d5f02696b34431e79800e7b25e3024dd3f38d8ac1ba950864ffbf3ae7",
+      "en_sha256": "99344f97104d527b0730b9b84f7fd93fd09bed0b23d5619311beff135d7641ae",
+      "origin": "ai"
+    },
+    "dataList[id=10417].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10417].title": {
+      "pl": "Sojusz Wyzwolenia Technologii",
+      "kr_sha256": "20ddb9575d8b60a5e4be885f764804c8442a26fede5b4290ddef055f786b6593",
+      "en_sha256": "7c52e5c7e0cd56cd54c6a032749b4c1b6c18cb4ae3d5b2d44cb6ded7fd175747",
+      "origin": "ai"
+    },
+    "dataList[id=10418].desc": {
+      "pl": "Według Samja wśród członków Sojuszu Wyzwolenia Technologii jest dawna pracownica laboratorium K Corp. Jaki cel przyświeca tej organizacji, skoro buduje takie maszyny i posuwa się do zamachów na laboratoria Skrzydła?",
+      "kr_sha256": "f2f9e01666f317be8e8cae64071bea11dfa4e6b5c946f9137ffe9883ebcd85ca",
+      "en_sha256": "91e753ef5e4708c1710995a6b2942c4d3194e4d2ea2dd5f2c29b54ef36626546",
+      "origin": "ai"
+    },
+    "dataList[id=10418].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10418].title": {
+      "pl": "Wzorowy Pracownik",
+      "kr_sha256": "8ce84193b8ff417264347c0402217e691006397e47ef0933a47ae951a91fa936",
+      "en_sha256": "3d006a9d0821da755677118162975a234f6b2df2387e661dc6409d7941d1db29",
+      "origin": "ai"
+    },
+    "dataList[id=10419].desc": {
+      "pl": "Spotkaliśmy Ran, dawną badaczkę z laboratorium K Corp. Zanim zdążyliśmy zamienić z nią choć kilka zdań, rzuciła zagadkowe słowa i przepadła na zawsze — a z twarzy Shrenne nie schodzi wyraz przygnębienia.",
+      "kr_sha256": "33bf8e0c35b9ae4e71034c09eb169b1af42aba4b803248a0b2ed87b2a4e939d9",
+      "en_sha256": "11fefad15dae79f488c478ceecde3b130bd48a895f9b317c85353d6010370dc1",
+      "origin": "ai"
+    },
+    "dataList[id=10419].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10419].title": {
+      "pl": "Wzorowy Pracownik 2",
+      "kr_sha256": "5c737e47634d47c2da9ff5d6e46d17b5ec37e87e7734e38c532d4b39eb006030",
+      "en_sha256": "8712d8485b573ea4475c601d8e67314a20ec6cafe7d21c2d90073cb4236458d2",
+      "origin": "ai"
+    },
+    "dataList[id=10420].desc": {
+      "pl": "Spotkaliśmy Ran, dawną badaczkę z laboratorium K Corp. Zanim zdążyliśmy zamienić z nią choć kilka zdań, rzuciła zagadkowe słowa i przepadła na zawsze — a z twarzy Shrenne nie schodzi wyraz przygnębienia.",
+      "kr_sha256": "33bf8e0c35b9ae4e71034c09eb169b1af42aba4b803248a0b2ed87b2a4e939d9",
+      "en_sha256": "11fefad15dae79f488c478ceecde3b130bd48a895f9b317c85353d6010370dc1",
+      "origin": "ai"
+    },
+    "dataList[id=10420].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10420].title": {
+      "pl": "Wzorowy Pracownik 3",
+      "kr_sha256": "f89542c4ed64d29cb691c30cd406a507cec38de741061fe6fabdbfac379efb20",
+      "en_sha256": "80275504b6b74c3b26449c89ae750b32134ab7d66969e16058b0b72a9136e960",
+      "origin": "ai"
+    },
+    "dataList[id=10421].desc": {
+      "pl": "Outis, od dłuższego czasu łypiąca podejrzliwie na Shrenne, zatrzymała się nagle, jakby doszła do jakiegoś wniosku. Nie mając pojęcia, co wydedukowała, postanowiłem w milczeniu jej wysłuchać.",
+      "kr_sha256": "e218a43cc6ae431a16868d684911e9d9e03f86f25d8a908f0f2b0fbbca723dc6",
+      "en_sha256": "477b259a8867b9ced3757f7280f9816f90fee1c271c6eb618c0a0780b8889164",
+      "origin": "ai"
+    },
+    "dataList[id=10421].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10421].title": {
+      "pl": "Zdrajca",
+      "kr_sha256": "0b08f416143d806cb00806198020d533a6b8a7929c5c9b03e963281988fde431",
+      "en_sha256": "f2feacce5bb672a2b00931db8f4d0bb6af99bf545720b4d96c909c6be8a46a9e",
+      "origin": "ai"
+    },
+    "dataList[id=10422].desc": {
+      "pl": "Zdaniem Outis i Meursaulta wśród nas kryje się zdrajca. Niko z Warsztatu Różanego Klucza wypiera się wszystkiego, lecz podejrzenia mają solidne podstawy. Patrzyłem, jak Grzesznicy krzyżują broń z ludźmi, z którymi jeszcze przed chwilą swobodnie rozmawiali. Tym razem zdradził ktoś z zewnątrz, ale… jak długo przetrwa „nasza” więź?",
+      "kr_sha256": "37252915f6362faeab18ae25bf69552a5bc16fa8122143718e591e5eee710ebb",
+      "en_sha256": "a6b810b70f6452609b013eefc0fe2fce222614b9ee5c1f1d135678ab55ba2bfa",
+      "origin": "ai"
+    },
+    "dataList[id=10422].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10422].title": {
+      "pl": "Zdrajca 2",
+      "kr_sha256": "822dd052c7c8a17bfdb3b9faa10dbbbb802479afff12218fdaad3636fb4b6dd3",
+      "en_sha256": "476142d412df01b0225e42026702aaf929fb75ec214ce28a1e8a6001ea9a0859",
+      "origin": "ai"
+    },
+    "dataList[id=10423].desc": {
+      "pl": "Wyszło na jaw, że za wszystkim stali Shrenne oraz Fikserzy z Warsztatu Różanego Klucza. Zanim zdążyliśmy zapytać o powód, jeden z Fikserów po przymusowym wstrzyknięciu ampułki regeneracyjnej rozpuścił się na naszych oczach. Czy te ampułki… nie miały leczyć ciała? Na razie musimy rozprawić się z Nikiem i resztą Fikserów.",
+      "kr_sha256": "d0e8524fe19b7777ed58c3d4623157bae7dca621818e539367935ea0a9e3973e",
+      "en_sha256": "836a8f18f12ed16fff32cdcf94575fb83fe4d9b5bbe0970ac5d6611082371a5f",
+      "origin": "ai"
+    },
+    "dataList[id=10423].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10423].title": {
+      "pl": "Zdrajca 3",
+      "kr_sha256": "25bcb3afe64f3bc8572b716e72facbd3d9edc6393faf089d0d9fe9e5fabf0533",
+      "en_sha256": "37ee9c49d9c8652cd1a90b99e100cd5949b7e8776a8c0c48456db59333796352",
+      "origin": "ai"
+    },
+    "dataList[id=10424].desc": {
+      "pl": "Wyszło na jaw, że za wszystkim stali Shrenne oraz Fikserzy z Warsztatu Różanego Klucza. Zanim zdążyliśmy zapytać o powód, jeden z Fikserów po przymusowym wstrzyknięciu ampułki regeneracyjnej rozpuścił się na naszych oczach. Czy te ampułki… nie miały leczyć ciała? Na razie musimy rozprawić się z Nikiem i resztą Fikserów.",
+      "kr_sha256": "d0e8524fe19b7777ed58c3d4623157bae7dca621818e539367935ea0a9e3973e",
+      "en_sha256": "836a8f18f12ed16fff32cdcf94575fb83fe4d9b5bbe0970ac5d6611082371a5f",
+      "origin": "ai"
+    },
+    "dataList[id=10424].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10424].title": {
+      "pl": "Zdrajca 4",
+      "kr_sha256": "4821f9ef5d425261d8d9e55b3f52cac9290f73f9083589e5fe4e144ecbcaac6c",
+      "en_sha256": "4f2a06077afb67aa0d40444255239bea37d2cc48056afbf162e351ac8f84c419",
+      "origin": "ai"
+    },
+    "dataList[id=10425].desc": {
+      "pl": "Wyszło na jaw, że za wszystkim stali Shrenne oraz Fikserzy z Warsztatu Różanego Klucza. Zanim zdążyliśmy zapytać o powód, jeden z Fikserów po przymusowym wstrzyknięciu ampułki regeneracyjnej rozpuścił się na naszych oczach. Czy te ampułki… nie miały leczyć ciała? Na razie musimy rozprawić się z Nikiem i resztą Fikserów.",
+      "kr_sha256": "d0e8524fe19b7777ed58c3d4623157bae7dca621818e539367935ea0a9e3973e",
+      "en_sha256": "836a8f18f12ed16fff32cdcf94575fb83fe4d9b5bbe0970ac5d6611082371a5f",
+      "origin": "ai"
+    },
+    "dataList[id=10425].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10425].title": {
+      "pl": "Zdrajca 5",
+      "kr_sha256": "5052142760a9dac6a48b4e8d6df85622a6ad846257809161f6a117b1a7e896d7",
+      "en_sha256": "deb97b29a23e0cbfbc20d3b90bd183258ffdaee52dcab7c5e7c221f4d8a69550",
+      "origin": "ai"
+    },
+    "dataList[id=10426].desc": {
+      "pl": "Pokonawszy wszystkich Fikserów z Warsztatu Różanego Klucza, musimy wziąć Shrenne w krzyżowy ogień pytań. Ona sama stoi nieruchomo i przygląda się wszystkiemu bez cienia paniki.",
+      "kr_sha256": "edf2fa2dbaec9a581f129668fb7e99efaf56a36b0d7d9677d3558b7a776fa959",
+      "en_sha256": "1355550194901b1cc40c2b31016073b1f1918c2ef4d0a56cbdb4769161e6f99c",
+      "origin": "ai"
+    },
+    "dataList[id=10426].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10426].title": {
+      "pl": "Czerwona Linia",
+      "kr_sha256": "b5f57b0e6f554ef279ae46c9be7bd2380dcc96dafb85a1d5d41e5ea40db9baf3",
+      "en_sha256": "25f10b759ac81041653dfb8699e6e89385d00c12b0f7f4616f56b29bd625c8bf",
+      "origin": "ai"
+    },
+    "dataList[id=10427].desc": {
+      "pl": "Nasłani przez kogoś skrytobójcy odebrali życie także Shrenne. Dongrang, który zaczynał pracę w Skrzydle w tym samym czasie co ona, nie wydawał się szczególnie wstrząśnięty jej śmiercią — stwierdził jedynie, że wewnętrzne rozłamy są jak błędne koło. Jak bardzo ufam Grzesznikom i jak bardzo oni ufają mnie? Pozostawiając te pytania bez odpowiedzi, ruszyliśmy w stronę rezonującej Złotej Gałęzi.",
+      "kr_sha256": "50a2479b0ecc5ec052c85d38702b9688f75b493e90a4df22eaf6b266c8843e94",
+      "en_sha256": "d736fa262ee318bceb41f5fef89ac7b9873644303673f2a7871f3ae30c765657",
+      "origin": "ai"
+    },
+    "dataList[id=10427].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10427].title": {
+      "pl": "Ponowne Spotkanie",
+      "kr_sha256": "9a1a8febbde5257e96fa321e3274adb475b2552d5441fb9561ae34669ce72dd0",
+      "en_sha256": "c4ffb4577963b70779c47e4a458be6430584d31d4b4000f4ef1f71e3b766d27e",
+      "origin": "ai"
+    },
+    "dataList[id=10428].desc": {
+      "pl": "Niespodziewany atak Dongbaek przebił pierś Yi Sanga. Cofnięcie wskazówek zasklepi ranę w ciele, ale czy wystarczy, by wypełnić pustkę w sercu? Nie mogłem wiedzieć, o czym śni pogrążony w ciszy Yi Sang.",
+      "kr_sha256": "0230106305e2dd8aac93075d70a913b11c07da58464489aeab0f6629dc66e38d",
+      "en_sha256": "7336c7972f0deac69d8719acb305b04229dfb631ef892a5d3c8d42950de353ac",
+      "origin": "ai"
+    },
+    "dataList[id=10428].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10428].title": {
+      "pl": "Dziura",
+      "kr_sha256": "bdf45aec9d9cea46cc2fabed2c23c3aa0bd92adca0c1ca071b71cba929c51433",
+      "en_sha256": "c4061b600b85a89ad24d07ac4d48dadca58ef964c5f20dff5e9018bdfb39a259",
+      "origin": "ai"
+    },
+    "dataList[id=10429].desc": {
+      "pl": "Yi Sang otworzył oczy, jakby nic się nie stało, a telefon Samja zaczął raz po raz wibrować od połączeń.",
+      "kr_sha256": "3f88049bce6c31745f6d648296d00995136d9ac993c1d91b8d600dc2d14b7f65",
+      "en_sha256": "f349250334c36b4d568558db63a6c687042d0f9479b8a74236d2e25006ca6ba3",
+      "origin": "ai"
+    },
+    "dataList[id=10429].place": {
+      "pl": "Filia Lobotomy Corp. w K Corp.",
+      "kr_sha256": "786afa22ffc740f0c4cf03526416572db134853d175d06fe8e7ab071742bf112",
+      "en_sha256": "8a806549cc4a533d6f17deab42d2a1ecc1af1c55e8e49631ada93d8ecc57a535",
+      "origin": "ai"
+    },
+    "dataList[id=10429].title": {
+      "pl": "Napaść",
+      "kr_sha256": "41ea986c343945d4638a01d5569d0ec65ccff6ab13131a300a0de697fc0b9ce9",
+      "en_sha256": "7dabeb6342b33d863483f6c40284dd16b780f9a7f41bebbeed9e61e9c6f76497",
+      "origin": "ai"
+    },
+    "dataList[id=10430].desc": {
+      "pl": "Laboratorium K Corp. padło ofiarą nagłego ataku. Wygląda na to, że Sojusz Wyzwolenia Technologii opanował nawet sposób cofania Anomalii do postaci jaj. Czym prędzej ruszyliśmy z powrotem do budynku.",
+      "kr_sha256": "78d858049d54383e08fa158b2ca0cc09fe4bf44b7f640a41400405331b5509b3",
+      "en_sha256": "f28ab48b8c1df2459f748fe19c6a2e1659797a34b71031f28718489ae08da739",
+      "origin": "ai"
+    },
+    "dataList[id=10430].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10430].title": {
+      "pl": "Gwiazdozbiory",
+      "kr_sha256": "a29b1e674f6e9192c920b3c37cafe9d7fa854bdeff03a3ad8f694c36b4ca3672",
+      "en_sha256": "d4714deb4b1230df39b6156a861e78c01f068c00cc7fadb8e2cb90ddb05e0357",
+      "origin": "ai"
+    },
+    "dataList[id=10431].desc": {
+      "pl": "Zhakowane przez członków Sojuszu Wyzwolenia Technologii maszyny K Corp. podające ampułki regeneracyjne uznały nas za wrogów. Chcąc nie chcąc, musimy przebijać się przez siły ochrony K Corp.",
+      "kr_sha256": "c3e96f015bc67dbe0bf93192746c89cd192de034c434d7d7eef3b3cbd83888c9",
+      "en_sha256": "59afb764ee9ea1cd6975adc1d8837b96d0983e67a298c0316198d003b001101e",
+      "origin": "ai"
+    },
+    "dataList[id=10431].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10431].title": {
+      "pl": "Przejęcie",
+      "kr_sha256": "87bcb50a92f59690e53f47e08e1663f782183c2c6ddec0769bf3d64d9261a90d",
+      "en_sha256": "ee10599c247afd9442628aa31fd48ee34fe7589acbed6b979d83edaf81f14347",
+      "origin": "ai"
+    },
+    "dataList[id=10432].desc": {
+      "pl": "Zhakowane przez członków Sojuszu Wyzwolenia Technologii maszyny K Corp. podające ampułki regeneracyjne uznały nas za wrogów. Chcąc nie chcąc, musimy przebijać się przez siły ochrony K Corp.",
+      "kr_sha256": "f83f356a0448adb1e603f1f600386128a7622d602e9ce1be37826de732ce454f",
+      "en_sha256": "59afb764ee9ea1cd6975adc1d8837b96d0983e67a298c0316198d003b001101e",
+      "origin": "ai"
+    },
+    "dataList[id=10432].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10432].title": {
+      "pl": "Przejęcie 2",
+      "kr_sha256": "a21108b816359a0b743f0e6aef9bae1b00b0ae33c0f3fff694b7c0625dea3ff4",
+      "en_sha256": "392b8968e4b22458cbd4171247ef11c72f72462df2c3f53d7e17ef4efde8d075",
+      "origin": "ai"
+    },
+    "dataList[id=10433].desc": {
+      "pl": "Członkowie Sojuszu Wyzwolenia Technologii ani myśleli się wycofywać — czekali na nas, jakby mieli w zanadrzu tajną broń…",
+      "kr_sha256": "f5c89ac9f66c34f463f4781f45e523047c38da7dd3eca1053822801ff205d70f",
+      "en_sha256": "5f91a9606928765c97e65c38df5c57c612587d84e5ac1360c8e0335e6b3212d9",
+      "origin": "ai"
+    },
+    "dataList[id=10433].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10433].title": {
+      "pl": "Bystrzy Złoczyńcy",
+      "kr_sha256": "be4534318034c507584eb149af968acf65c4c1ea4b4ed7843725700781384a50",
+      "en_sha256": "0e2280427fe78f325307e9c9db864165893017e4d16561e2d9cb73c459a3df87",
+      "origin": "ai"
+    },
+    "dataList[id=10434].desc": {
+      "pl": "Członkowie Sojuszu Wyzwolenia Technologii ani myśleli się wycofywać — czekali na nas, jakby mieli w zanadrzu tajną broń…",
+      "kr_sha256": "742787ae6716d2af376b0c0172defd1daa24bae37f1c4da743edc0237a373d28",
+      "en_sha256": "5f91a9606928765c97e65c38df5c57c612587d84e5ac1360c8e0335e6b3212d9",
+      "origin": "ai"
+    },
+    "dataList[id=10434].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10434].title": {
+      "pl": "Bystrzy Złoczyńcy 2",
+      "kr_sha256": "a02247b801f8c48122ea55e5f20ce15de4a2063efd3a850f4ee1394a1161684f",
+      "en_sha256": "6c28cb354e6949c35c27e2aa6d084cc10f672e3ff63691bb99d7fba23f7fc1ee",
+      "origin": "ai"
+    },
+    "dataList[id=10435].desc": {
+      "pl": "Telefon Samja znów urywa się od połączeń. Może pod nieobecność Dongranga i Samja zdołamy zdobyć przydatne informacje, których od nich samych nie usłyszymy…",
+      "kr_sha256": "02bb5c5b78f2c61c539eed67bf7c38f10a7074438a2af05188cea6dbf1afee69",
+      "en_sha256": "d79cbad16888a719bcb30286e31bb600a16da2c87b6ef95bd1446c5d5cfb8c51",
+      "origin": "ai"
+    },
+    "dataList[id=10435].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10435].title": {
+      "pl": "Pilne Wezwanie",
+      "kr_sha256": "03237a073631fbbacccdbb950151f195724137688bef021ab3fa6eca8dd41e05",
+      "en_sha256": "0dd1f0463cd4f703083b5a7f9b7c751d8861497cd84bb04eece1c35a2cf71d28",
+      "origin": "ai"
+    },
+    "dataList[id=10436].desc": {
+      "pl": "Korzystając z chwilowej nieobecności Dongranga i Samja, wysłaliśmy Meursaulta, by sprawdził skrzynkę pocztową Shrenne. Być może dowiemy się czegoś więcej o Sojuszu Wyzwolenia Technologii.",
+      "kr_sha256": "8800afb19300063b7183c7b7a7cfc51f4e6b0ee4207107e1e84724f1c3f5523b",
+      "en_sha256": "ae5fd5ca975441b5de6790fbfc55b78caf3644d08b2fe9802abf4378c0c6b541",
+      "origin": "ai"
+    },
+    "dataList[id=10436].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10436].title": {
+      "pl": "Pilne Wezwanie 2",
+      "kr_sha256": "5392168ff6dfbe63c1954372b37e77095b60293d5da08aecc5d82163c38484e7",
+      "en_sha256": "59924a5aa36b8a8f8478d7f37521eaae3557b763f35b164a76d70c7a8e4ef4e7",
+      "origin": "ai"
+    },
+    "dataList[id=10437].desc": {
+      "pl": "Korzystając z chwilowej nieobecności Dongranga i Samja, wysłaliśmy Meursaulta, by sprawdził skrzynkę pocztową Shrenne. Być może dowiemy się czegoś więcej o Sojuszu Wyzwolenia Technologii.",
+      "kr_sha256": "8800afb19300063b7183c7b7a7cfc51f4e6b0ee4207107e1e84724f1c3f5523b",
+      "en_sha256": "ae5fd5ca975441b5de6790fbfc55b78caf3644d08b2fe9802abf4378c0c6b541",
+      "origin": "ai"
+    },
+    "dataList[id=10437].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10437].title": {
+      "pl": "Pilne Wezwanie 3",
+      "kr_sha256": "bb1b6924b08fc6c8a98b7163ef2c03f45bacfad842d7b7679ce73cddd9b3e458",
+      "en_sha256": "16387b91c809ad83d9acbf31f58e8551f13556759adf4752da55325f39111594",
+      "origin": "ai"
+    },
+    "dataList[id=10438].desc": {
+      "pl": "Meursault wrócił. Zobaczmy, jakie informacje udało mu się zdobyć.",
+      "kr_sha256": "6d4697b7aae469d7210cb7a999fc5e35829f53575ac0cb6b4aeba49854d81af5",
+      "en_sha256": "302d101229515b01f70b32e36b38f62cca3759bfb3e378cef622ed1a17dfe4dd",
+      "origin": "ai"
+    },
+    "dataList[id=10438].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10438].title": {
+      "pl": "Świetlana Przeszłość",
+      "kr_sha256": "3e2be475fb938661f957e7fbf755477a5b49a1d1da8c943438da50a14862c59b",
+      "en_sha256": "f3ac83cdd35c7ac1333fd7da7e69cda1cf8febbcc694ec2ca71e4fbbc74ae620",
+      "origin": "ai"
+    },
+    "dataList[id=10439].desc": {
+      "pl": "Zhakowane przez członków Sojuszu Wyzwolenia Technologii maszyny K Corp. podające ampułki regeneracyjne uznały nas za wrogów. Chcąc nie chcąc, musimy przebijać się przez siły ochrony K Corp.",
+      "kr_sha256": "c3c095829a63234cfa3e3ae415d561370f0120b480bf38f9801c5d1ee1976c75",
+      "en_sha256": "59afb764ee9ea1cd6975adc1d8837b96d0983e67a298c0316198d003b001101e",
+      "origin": "ai"
+    },
+    "dataList[id=10439].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10439].title": {
+      "pl": "Świetlana Przeszłość 2",
+      "kr_sha256": "1e2aeea27ea425c3e32753200920a101996a32cb6eeea0ae86fb872fbdc52c77",
+      "en_sha256": "d886b28ec9374e2da7c0d169196437b6b82e2440830f3d281c9681dd4308a04a",
+      "origin": "ai"
+    },
+    "dataList[id=10440].desc": {
+      "pl": "Zhakowane przez członków Sojuszu Wyzwolenia Technologii maszyny K Corp. podające ampułki regeneracyjne uznały nas za wrogów. Chcąc nie chcąc, musimy przebijać się przez siły ochrony K Corp.",
+      "kr_sha256": "c3c095829a63234cfa3e3ae415d561370f0120b480bf38f9801c5d1ee1976c75",
+      "en_sha256": "59afb764ee9ea1cd6975adc1d8837b96d0983e67a298c0316198d003b001101e",
+      "origin": "ai"
+    },
+    "dataList[id=10440].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10440].title": {
+      "pl": "Świetlana Przeszłość 3",
+      "kr_sha256": "2c07d64e8aee7c98454e1149ceb0b5cca671de8873a474c62c414659c83bb637",
+      "en_sha256": "a29cd4da8516b6e755ea8aefcb8d3674184bcca59a4aa0153cb9d2534eb34c52",
+      "origin": "ai"
+    },
+    "dataList[id=10441].desc": {
+      "pl": "Naprzeciwko wyłonili się groźnie wyglądający zbrojni K Corp. Wrócili też Dongrang i Samjo — najwyraźniej ich rozmowa przebiegła pomyślnie.",
+      "kr_sha256": "597719b5a30d3cd720762d4ae63952259d1aa00df47181ad4c1034f8aca63b5d",
+      "en_sha256": "ec0ccb74ebdc115f4bcaafd147a2f4852deb9b5633ca69a64ef098b393d0d782",
+      "origin": "ai"
+    },
+    "dataList[id=10441].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10441].title": {
+      "pl": "Klasa 1.",
+      "kr_sha256": "750114638039488a1252607403537aba5d4507df9bde86fe33f05c4f62d5e486",
+      "en_sha256": "51dfeec5574b42b3034c7a3e85eeecd53e821602926cf6fd525de608fb048507",
+      "origin": "ai"
+    },
+    "dataList[id=10442].desc": {
+      "pl": "Naprzeciwko wyłonili się groźnie wyglądający zbrojni K Corp. Wrócili też Dongrang i Samjo — najwyraźniej ich rozmowa przebiegła pomyślnie.",
+      "kr_sha256": "597719b5a30d3cd720762d4ae63952259d1aa00df47181ad4c1034f8aca63b5d",
+      "en_sha256": "ec0ccb74ebdc115f4bcaafd147a2f4852deb9b5633ca69a64ef098b393d0d782",
+      "origin": "ai"
+    },
+    "dataList[id=10442].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10442].title": {
+      "pl": "Klasa 1. 2",
+      "kr_sha256": "1d1474f6431028bcac47a3f7ea15a2849c44af24e4056672f7df7e353c986f2f",
+      "en_sha256": "7242eff34fb8fc814b462d5b2acd561b758eb02b276d042739f450a595fb534c",
+      "origin": "ai"
+    },
+    "dataList[id=10443].desc": {
+      "pl": "Natknęliśmy się na znajomego członka Sojuszu Wyzwolenia Technologii — tego samego, który wcześniej wtargnął do laboratorium razem z Ran.",
+      "kr_sha256": "f821680327dd93758b43852ba97549e6e51b2ae83298ba78b8bf8ee4b03ff643",
+      "en_sha256": "51dbe8ec23efd36dd44566999c279a59bf558447546e5082abf930c4d7f9fb21",
+      "origin": "ai"
+    },
+    "dataList[id=10443].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10443].title": {
+      "pl": "Epoka bez Technologii",
+      "kr_sha256": "d16cec386d7fcf357794c7bcc7cc7622a78df8c8a046cda249b0c083034c228d",
+      "en_sha256": "dffba71d3e47ba7dfb218a49abb84c6eeaa07eda95b1ed3e53340377f9b9f668",
+      "origin": "ai"
+    },
+    "dataList[id=10444].desc": {
+      "pl": "Pokonaliśmy człowieka imieniem Marile. Poznaliśmy wreszcie cel Sojuszu Wyzwolenia Technologii: powrót do epoki pozbawionej wszelkiej technologii.",
+      "kr_sha256": "c305632a05551c38e50f79e674c5bbb9720ddc51cca5bf90e82fe30b84a428be",
+      "en_sha256": "ad30cf5a98c403191fb7ff8915041055b547a04070cd835c696ef4618596e3c4",
+      "origin": "ai"
+    },
+    "dataList[id=10444].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10444].title": {
+      "pl": "Epoka bez Technologii 2",
+      "kr_sha256": "8fc47f72ac87eb25c1b3109ae1fc17a83cc584614d31ad816d79a0fbfdec558f",
+      "en_sha256": "71fdac75d872bf031d3e6afadf82161ffc724143850d528d824cadd84287492a",
+      "origin": "ai"
+    },
+    "dataList[id=10445].desc": {
+      "pl": "Niezadowolona Ryōshū zaczepia Yi Sanga, a między nami wywiązuje się rozmowa o powodach wstąpienia do firmy.",
+      "kr_sha256": "f8c1394023f55ef1ff3676d67695f7246e62734eb5d36059bcc39bb34f9153f9",
+      "en_sha256": "67afdd37ea18afdf5e45272dab0442f4e758a6f26783c25f7c8788e1e62a2c8e",
+      "origin": "ai"
+    },
+    "dataList[id=10445].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10445].title": {
+      "pl": "Propozycja Pracy",
+      "kr_sha256": "ed9f0f266a2ac49525e42a1e1a17119073299534f6ec79619919b755a60b151b",
+      "en_sha256": "323cc14102eeeef91a2a1a7055e612794d5ad2b2753300d6cb92a1df007ca13d",
+      "origin": "ai"
+    },
+    "dataList[id=10446].desc": {
+      "pl": "Zmierzając do wspomnianej przez Dongranga „sali projekcyjnej”, musimy pokonać zastępujących nam drogę wrogów.",
+      "kr_sha256": "c0b92cefd37da297d40fb8d481f6f8aa0419a5ac077b6466dd5ee1dcff7baca4",
+      "en_sha256": "b1ab44443b2ad4e41727cfe1bab2d3a888cd4e67044e7a24c5e2d8934b9670b6",
+      "origin": "ai"
+    },
+    "dataList[id=10446].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10446].title": {
+      "pl": "Propozycja Pracy 2",
+      "kr_sha256": "adfda9c5719eb5d42985e4b5cf622e38cd8278082d7d65330feb78551f151182",
+      "en_sha256": "8e2501e6efd673c1e3bb4f21ee578ef36e19a06132cf42f6bcc9bf5634980882",
+      "origin": "ai"
+    },
+    "dataList[id=10447].desc": {
+      "pl": "Dotarliśmy wreszcie do „sali projekcyjnej”. W półmroku trudno cokolwiek dostrzec, lecz pośrodku pomieszczenia wisi u góry coś, co zdaje się spoglądać na nas z wysoka.",
+      "kr_sha256": "66dba171a5e08771551250ac667b469fdb6f914d80a6e946c840c7e74a0da4c0",
+      "en_sha256": "5a0a2c7e679399f9bc12f30cc9777199b179dfb9b99b400ebefe27c7c3edd6af",
+      "origin": "ai"
+    },
+    "dataList[id=10447].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10447].title": {
+      "pl": "Sala Projekcyjna",
+      "kr_sha256": "871be51812a9693b9a42b097b7ea1fc15daa999a45bb1b972a8f368eecde3e84",
+      "en_sha256": "e795b45c5d269192d4df2470b7aa71164ac9aff48b1b36f55b987f2b0c86067c",
+      "origin": "ai"
+    },
+    "dataList[id=10448].desc": {
+      "pl": "Dawne więzi, z pozoru bezpowrotnie zerwane, splotły się na nowo, a Dongbaek ujawniła obsesyjną determinację, by odebrać Osobliwość.",
+      "kr_sha256": "d015654568e10e4147c300c88c81e4d03c951098c28872f5e17c25723c99a9ce",
+      "en_sha256": "4df1aa9cd3538454b8e3e5cb5a034117e1372ba4d81bc50dab878c793cae4bb9",
+      "origin": "ai"
+    },
+    "dataList[id=10448].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10448].title": {
+      "pl": "Pąk",
+      "kr_sha256": "24f977533c43785986052bc783b7663887c193e5c9b1084f024f44cd44ef89de",
+      "en_sha256": "900c03379649a46d53440a3d89edb89d167de6189a0b9663d62545e439b8dbc5",
+      "origin": "ai"
+    },
+    "dataList[id=10449].desc": {
+      "pl": "Złota Gałąź, która przebiła Dongbaek, rozbłysła oślepiającym światłem i zgasła. Chwilę później przestrzeń budynku K Corp. wokół nas zaczęła się wykrzywiać i przeobrażać. Co się dzieje?",
+      "kr_sha256": "5996a431916505202112d0e83d27f59d98f8c13577a4d9a8ed6ea19c6a4137ca",
+      "en_sha256": "c1b7b6d021ec6948486b61a7631661a019900cd5ea5244b46329db20a19549f5",
+      "origin": "ai"
+    },
+    "dataList[id=10449].place": {
+      "pl": "Przebudowane Laboratorium K Corp.",
+      "kr_sha256": "329f052116a3a27ff7dfb115177ffedc2fa2f62415401929a16528ab29aa9f9e",
+      "en_sha256": "44932b57d698f25fc60e16b63250827d531b9288e40184dd100bf1766a63c3bd",
+      "origin": "ai"
+    },
+    "dataList[id=10449].title": {
+      "pl": "Nic",
+      "kr_sha256": "7fe97b694951cb3ea1a410e81533bb1af5637e2055c5a9c0f0a2cfbbba491334",
+      "en_sha256": "67e1bca0889ba21ce995cb2e05f0a0f19aad003a39ddcd8a336eaadb9c8a1b4f",
+      "origin": "ai"
+    },
+    "dataList[id=10450].desc": {
+      "pl": "Złota Gałąź, która przebiła Dongbaek, rozbłysła oślepiającym światłem i zgasła. Chwilę później przestrzeń budynku K Corp. wokół nas zaczęła się wykrzywiać i przeobrażać. Co się dzieje?",
+      "kr_sha256": "5996a431916505202112d0e83d27f59d98f8c13577a4d9a8ed6ea19c6a4137ca",
+      "en_sha256": "c1b7b6d021ec6948486b61a7631661a019900cd5ea5244b46329db20a19549f5",
+      "origin": "ai"
+    },
+    "dataList[id=10450].place": {
+      "pl": "Przebudowane Laboratorium K Corp.",
+      "kr_sha256": "329f052116a3a27ff7dfb115177ffedc2fa2f62415401929a16528ab29aa9f9e",
+      "en_sha256": "44932b57d698f25fc60e16b63250827d531b9288e40184dd100bf1766a63c3bd",
+      "origin": "ai"
+    },
+    "dataList[id=10450].title": {
+      "pl": "Nic 2",
+      "kr_sha256": "c03cdf4c4f5c3fd9df415d7654bcdb78098915fa6f7b0c8f0763cc8e18c61be8",
+      "en_sha256": "8aab903b53cf2c89a350d102dc9e5b69c2efd571df9aa3128ecdfaf05c09d02e",
+      "origin": "ai"
+    },
+    "dataList[id=10451].desc": {
+      "pl": "Członkowie Sojuszu Wyzwolenia Technologii, których mieliśmy za martwych, ruszyli na nas do ataku. W nieustannie przebudowującej się przestrzeni idziemy dalej śladem pobliskiej Złotej Gałęzi.",
+      "kr_sha256": "09750cfaaae9f06f48fefdd50519468e72793fd08db5b9d49d8769df9e74f704",
+      "en_sha256": "72bca7f5b884bdaa7a801665bb9be7760df3cfa42c4d1f49a9546738463a36fc",
+      "origin": "ai"
+    },
+    "dataList[id=10451].place": {
+      "pl": "Przebudowane Laboratorium K Corp.",
+      "kr_sha256": "329f052116a3a27ff7dfb115177ffedc2fa2f62415401929a16528ab29aa9f9e",
+      "en_sha256": "44932b57d698f25fc60e16b63250827d531b9288e40184dd100bf1766a63c3bd",
+      "origin": "ai"
+    },
+    "dataList[id=10451].title": {
+      "pl": "Więź",
+      "kr_sha256": "bd51f896b7204bce8114d15760eaf39f1ea5bd7ccb3f1c76b2365796b1c62373",
+      "en_sha256": "164c690a353e7b5106d3de3de2d1d1811b7b7c30ab0c4640c15c8a141b226280",
+      "origin": "ai"
+    },
+    "dataList[id=10452].desc": {
+      "pl": "Członkowie Sojuszu Wyzwolenia Technologii, których mieliśmy za martwych, ruszyli na nas do ataku. W nieustannie przebudowującej się przestrzeni idziemy dalej śladem pobliskiej Złotej Gałęzi.",
+      "kr_sha256": "09750cfaaae9f06f48fefdd50519468e72793fd08db5b9d49d8769df9e74f704",
+      "en_sha256": "72bca7f5b884bdaa7a801665bb9be7760df3cfa42c4d1f49a9546738463a36fc",
+      "origin": "ai"
+    },
+    "dataList[id=10452].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10452].title": {
+      "pl": "Więź 2",
+      "kr_sha256": "08c0b0ed437128ed0bd4c5d6f4c64f71359abad3bd82fd056010ad852a1c85fa",
+      "en_sha256": "d55d7ba8d639b67d7096509ce4b3961c2f48c190ac2709cfb582a223dd551a27",
+      "origin": "ai"
+    },
+    "dataList[id=10453].desc": {
+      "pl": "Członkowie Sojuszu Wyzwolenia Technologii, których mieliśmy za martwych, ruszyli na nas do ataku. W nieustannie przebudowującej się przestrzeni idziemy dalej śladem pobliskiej Złotej Gałęzi.",
+      "kr_sha256": "09750cfaaae9f06f48fefdd50519468e72793fd08db5b9d49d8769df9e74f704",
+      "en_sha256": "72bca7f5b884bdaa7a801665bb9be7760df3cfa42c4d1f49a9546738463a36fc",
+      "origin": "ai"
+    },
+    "dataList[id=10453].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10453].title": {
+      "pl": "Więź 3",
+      "kr_sha256": "ce97641b8164f025dee581cc13725327413352de38faed7afc7e86f25c97985f",
+      "en_sha256": "ec7c8376f84d13d12fd24e2cd71c4d5b534729d6a44fbc95fecb07b9fc479853",
+      "origin": "ai"
+    },
+    "dataList[id=10454].desc": {
+      "pl": "Członkowie Sojuszu Wyzwolenia Technologii, których mieliśmy za martwych, ruszyli na nas do ataku. W nieustannie przebudowującej się przestrzeni idziemy dalej śladem pobliskiej Złotej Gałęzi.",
+      "kr_sha256": "09750cfaaae9f06f48fefdd50519468e72793fd08db5b9d49d8769df9e74f704",
+      "en_sha256": "72bca7f5b884bdaa7a801665bb9be7760df3cfa42c4d1f49a9546738463a36fc",
+      "origin": "ai"
+    },
+    "dataList[id=10454].place": {
+      "pl": "Laboratorium K Corp.",
+      "kr_sha256": "616ae24a6aafa345e20c1b2ef380d2ce9198d94c47814329ceb9d33747d961fe",
+      "en_sha256": "c89273327011ea4d98148ebb214b0908ae4d6673432cccfd1955fa5ccb58d308",
+      "origin": "ai"
+    },
+    "dataList[id=10454].title": {
+      "pl": "Krąg Dziewięciu we Wspomnieniach",
+      "kr_sha256": "27ad9505426ed88019e2cb4b0d90098ba431ce5ef170c422398091ab99a2b6a7",
+      "en_sha256": "c2c69cde252c9b32a9ff3548108197d758d8c7fcf23205d87b4a5266d2577a10",
+      "origin": "ai"
+    }
+  }
+}

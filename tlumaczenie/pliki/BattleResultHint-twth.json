@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=battleTip_912512_1].content": {
+      "pl": "We wczesnej fazie walki Docent Rufo zyskuje Ochronę równą liczbie podległych jej Studentów. Na początku celuj w Studentów.",
+      "kr_sha256": "79a1c33675756ee51f5bddfec0751a59a309b027b9e0d15e79f556bdab40c1bd",
+      "en_sha256": "fe9f7d2e1d4d546c3631fef593c456af648c436be48eb219aca110ae6e842264",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_912512_2].content": {
+      "pl": "Tożsamości z Palette Vibrante mogą mieć trudność z wygraniem Starych z Rufo. Wtedy sięgnij po Umiejętności obrony.",
+      "kr_sha256": "004281e3db5fa9d03556adb9c3069ec338a99b29e87aefdda905a2f9b1d70f1e",
+      "en_sha256": "11d52c66988ca8adc0963dc4e40038e9444849c8f05c0d3393dc093c8e9c983a",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_912512_3].content": {
+      "pl": "W późnej fazie walki Docent Rufo zyskuje wysoką Ochronę. Im więcej efektów negatywnych, tym niższy jej stos — uwzględnij to.",
+      "kr_sha256": "b4bb8dcfb4a215f854664854abf4f366f20ddd93423c5228455ab307b121c970",
+      "en_sha256": "76860da838563196b84839ba636a893346e40b08f303ff8f075b3d860e3b8cc8",
+      "origin": "ai"
+    }
+  }
+}

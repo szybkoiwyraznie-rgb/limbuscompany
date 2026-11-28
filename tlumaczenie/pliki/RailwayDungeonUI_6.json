@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=railway_6_check_first_stage_unit_hp_mp].content": {
+      "pl": "Stan Grzeszników",
+      "kr_sha256": "be572ccaccc09dfde60d43849e68a967760259649c27545757e9d48956361df6",
+      "en_sha256": "e93f2a1be6a11f67156c547bf13644ae8ab94e657531d34b962a5eeae08595f2",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_future].content": {
+      "pl": "Przyszłość",
+      "kr_sha256": "44779ffe007a1d51faa712889dd1ce2a1de025cede445c6d13c2b2cb2dcf9494",
+      "en_sha256": "4a65d69ae3e0236063fd18204c8ec9e5039c3b7c36198cee06d60fb0c6036536",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_must_participate_all].content": {
+      "pl": "Nie wszyscy Grzesznicy zostali wystawieni.\n\n※ Aby wejść na Linię 6 Kolei Załamania, w składzie muszą znaleźć się wszyscy Grzesznicy.",
+      "kr_sha256": "2ab9f786dbf698a5106d79244a1bc1495e1d4b1d9e86a1d44291cf03b28fdb78",
+      "en_sha256": "8e56fc680033a38d299d87de39be428200be4110cd920e21b50d2f7042874898",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_past].content": {
+      "pl": "Przeszłość",
+      "kr_sha256": "0dc6d1ac6fa3964883252113395749c1336ae415f0404e0cb942c0e2e9a031dc",
+      "en_sha256": "a56baf18959c04951542da030b8ec6b8fbc4408f18a697352f49c2797a3ecd72",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_present].content": {
+      "pl": "Teraźniejszość",
+      "kr_sha256": "72d2bae2a744d54f09405071ab5d322573eb61c4e368d2ed3590599490d4205d",
+      "en_sha256": "225b703158226b02e20bbb1d688f54ce897f9b0cb42eb6b6467fd65750747086",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui__attack_resistance_buff_for_ui_empty].content": {
+      "pl": "Brak aktywnego efektu",
+      "kr_sha256": "cf991c5b3456109cceede33f98f766b5c1b66f04240f39ee0d97052bba8b561c",
+      "en_sha256": "cf116b40718eb60ea0b7f71bb3f82dea9bee918b1542381238825e6ce9e0e495",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui_attack_resistance_buff_for_ui].content": {
+      "pl": "Odporność na {0} +0,25, Odporność na {1} +0,25",
+      "kr_sha256": "e0827e69367b8ef7fa25530b1d7a83aea761045818a3eb5d28b3880a578670c2",
+      "en_sha256": "bed87304aedfd278ca63d8cb1149d9319d777773dbd5b857453d2e4bd870a021",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui_attack_resistance_buff_for_ui_only_one].content": {
+      "pl": "Odporność na {0} +0,25",
+      "kr_sha256": "453ccd92f6e71bc2191a8c07660a0b6ac2a1bd9b2a938757b23286a397fb48b5",
+      "en_sha256": "bde0a62925e7aee3a7e949a6f0793022544d537347e18e01c440f4a4aec0253a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui_battle_effect].content": {
+      "pl": "Aktywne efekty",
+      "kr_sha256": "9a98501a4ab7e7a0e3a85485080cb04f74a13ea8a5586a10560881bbbe5532e5",
+      "en_sha256": "d01db4d8cfb04929e24ca8bc61708e46690e27d9fe86c067222725e0e826f272",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui_empty_battle_effect_desc].content": {
+      "pl": "Brak aktywnych efektów.",
+      "kr_sha256": "0d891fd3ca23a2e8c3a108ca9d69c89dcf3256bf4bfb2177327a5c77229ca5f5",
+      "en_sha256": "8919e914db9e706d9e38371925f24d9387583c1380e78e82289683748340a26c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui_empty_passive_effect_desc].content": {
+      "pl": "Wyświetli się po ukończeniu Odcinka 2.",
+      "kr_sha256": "245682c87cc0c5572517b3856647c754a5693aee3e6befcf167e388dfd4badef",
+      "en_sha256": "6b3b4f427a30ee2d7ab72a581ee7bb205927c5e69d72dc40b4b52a21d7abdedd",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui_empty_statistics_desc].content": {
+      "pl": "Wyświetli się po ukończeniu walki na danym odcinku.",
+      "kr_sha256": "ec6f85bf52a66e0570ce5f0dc61f4cdb8926baf0fab6e01ac3613221413f35ed",
+      "en_sha256": "a2c3a76da0ce4561146c8ea3acd0d3845aad6fb9d9eb0c732a5edb7fb632b000",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_ui_passive_effect_title].content": {
+      "pl": "Pasywka Motyla Splecionych Żywotów::Imago",
+      "kr_sha256": "9a178e5960eb1d1afb5eb92b3cac7a9cffd477d3144932651ea936e2603782ce",
+      "en_sha256": "9f267aa91cb7d2da7ba2689115426af400a549be7777dad8cfe9c060a384c9eb",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_warning_enter_node_1].content": {
+      "pl": "Przy wejściu na Odcinek 5 zachowany zostanie procent PŻ oraz SP z chwili ukończenia Odcinka 1.\n\nRozpocząć walkę w wybranym składzie?",
+      "kr_sha256": "9ce4a75008fc149ac50d728deeedbb2e7a87b0cfe15be98a8040088475d9e5e5",
+      "en_sha256": "d7159a0409c6cc69bcf11f600a560011c965ead2ab6fd014b0f0c988cae28f8a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_6_banner_reward_condition_1].content": {
+      "pl": "Zdobywane za ukończenie Kolei Załamania — Linii 6",
+      "kr_sha256": "764871a68edfc18d0354d59c2b66c76b948fa326c10a60efc1525cdbbe1e0178",
+      "en_sha256": "3e887f60bcea473b2e0b9829cfa4152da41c1c44c97f131101caecb9352c9523",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_6_banner_reward_condition_2].content": {
+      "pl": "Zdobywane za ukończenie Kolei Załamania — Linii 6 w maks. {0} łącznych turach przed końcem <color=#990000>Sezonu 7: Kumo no Ito · otI on akA</color>",
+      "kr_sha256": "34e33aac2f7eb990ff27978031682065926ebfd3b5adbe6f6372a24498b9ef95",
+      "en_sha256": "ab50bca2407da36e5292523b70e56a9153b8f81290d85d9cff1a3c0eba85f812",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_6_reward_condition_special_ticket].content": {
+      "pl": "Zdobywane za ukończenie Linii 6 w maks. 111 łącznych turach przed końcem Sezonu 7: Kumo no Ito · otI on akA.",
+      "kr_sha256": "a346f5dfa9332ed87f7007c50c5c8ee44ff1cd1dc56336771663278d4760cf4d",
+      "en_sha256": "38106e64b5c298919c8efb67fedca2ef7507e2428b38eb161573a6a4364fb3c2",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_6_reward_condition_special_ticket_warning].content": {
+      "pl": "<color=#990000>※ Niemożliwe do zdobycia po zakończeniu Sezonu 7: Kumo no Ito · otI on akA.</color>",
+      "kr_sha256": "c18752f078ffa3d742493b4c66a58d5b57381ef239d61547c01dec3d155a228f",
+      "en_sha256": "e3e65143e4747c72cfef392e38c065586ec9a1f08e6c0d0f2aa06ed4c0a7583a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_6_reward_condition_warning].content": {
+      "pl": "※ W przypadku odbioru nagród po zakończeniu Sezonu 7: Kumo no Ito · otI on akA zadziała przeniesienie sezonowe — liczba walut sezonowych (<color=#990000>Skrzyń Odłamków E.G.O oraz Imiennych Skrzyń Odłamków E.G.O</color>) zostanie zmniejszona o połowę.\n(Nieprzeniesione Skrzynie Odłamków E.G.O zostaną zamienione na Skrzynie Nici.)",
+      "kr_sha256": "f50dcb0bae0c3e5f2c20efdd3a4fbe0b15897c1e5c8cdd083b6aab678721f684",
+      "en_sha256": "1a73c6b9064bdbaf0d2446438cec16d9a7a7b96db25be7e88418b579430cf622",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_enter_recommend_growth].content": {
+      "pl": "- Tożsamości: Synchronizacja poz. {1}, poziom {0}\n- E.G.O: Splot Nici poz. {2}",
+      "kr_sha256": "e2f1a127f9eb65680237a0d2f08435be0bd32bc23932805742cfaee823bc0d9a",
+      "en_sha256": "fa76709b34db1e8b01244c0f3209106986b4e9e89d6864209ed86fa64f07771b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_enter_recommend_growth_level_max].content": {
+      "pl": "- Tożsamości: Synchronizacja poz. {1}, poziom {0} (limit poziomu: {3})\n- E.G.O: Splot Nici poz. {2}",
+      "kr_sha256": "cfa0d10e34cb445efad5bad50167a424fd45afe265403512794009471bacbe31",
+      "en_sha256": "f2d65349892252a07feb012ef6283a88d49345b6dab072557b15aa208f955fa9",
+      "origin": "ai"
+    }
+  }
+}

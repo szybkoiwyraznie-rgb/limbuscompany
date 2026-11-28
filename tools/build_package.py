@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the translator package (story part) in the SRW layout.
+"""Build the complete translator package (story + views) in the SRW layout.
 
 ``plik_dla_tlumacza_vN.zip``::
 
@@ -7,22 +7,23 @@
     sceny.zip        spis-rozdzialow.md, spis-scen.md, mowcy-i-miejsca.md,
                      NN_<chapter>[_a].md  (scenes in reading order), identity-NN.md,
                      pozostale.md
+    widoki.zip       spis-widokow.md, mowcy-rpg-i-anomalii.md,
+                     01_slownik_bojowy*.md, 02_tozsamosc_NN_<Sinner>*.md,
+                     03_ego_postaci*.md, 03_dary_ego*.md, 04_anomalie_*.md,
+                     04_wydarzenia_*.md, 04_wrogowie_*.md, 05_komentatorzy*.md,
+                     05_muzyka_i_piosenki.md, 06_tryb_rpg_canto10*.md,
+                     07_notatki_dantego_*.md, 07_rozdzialy_*.md, 07_loch_*.md,
+                     08_interfejs_*.md, 08_samouczki_*.md, 08_wydarzenia_*.md,
+                     08_przedmioty_sklep_i_profil*.md
 
-Every scene starts with a context header (chapter, stage title and place,
-battle phase, previous/next scene, speakers, locations); every line is one
-element::
+Every scene in ``sceny.zip`` starts with a context header (chapter, stage title
+and place, battle phase, previous/next scene, speakers, locations); every view
+section in ``widoki.zip`` groups related game entities (Sinner Identities with
+StaticData stats, skills, coins, passives, voice lines; E.G.O; Abnormalities;
+RPG floors; UI) and records the exact ``Localize`` JSON leaf address on
+``źródło:`` for lossless import.
 
-    14. [Dialog - 카론 (Charon)] 베르.
-       miejsce: 메피스토펠레스 내부 — Aboard Mephistopheles
-       limit: do 340 znaków
-       EN: Verg.
-       PL:
-
-Speaker names, epithets and locations are separate strings in the game data;
-they are translated once in ``mowcy-i-miejsca.md`` and only shown as context in
-the scenes. Repeated lines in one file are marked ``(powtórzenie elementu N)``.
-
-Sources: the story index (``wiedza/indeks_fabuly.json``) and a Localize
+Sources: ``wiedza/indeks_fabuly.json``, ``index/static-data/`` and a ``Localize``
 snapshot with ``kr`` (source) and ``en`` (reference), by default ``index/localize``.
 The ZIP goes to ``local/pakiet/`` and the owner's Drive (ZIPs are not versioned).
 """
@@ -43,15 +44,19 @@ if __package__ in (None, ""):
 
 from tools.build_reading import Chapters, PHASE_TEXT, slug
 from tools.lcb_text import Texts, one_line, stage_label
-from tools.localize import Snapshot
+from tools.localize import Snapshot, list_row_steps
+from tools.package_views import build_views
+from tools.static_data import StaticData
 
 
 ROOT = Path(__file__).resolve().parent.parent
 LINES_PER_FILE = 8000
 SCENE_LIMIT_QUANTILE = 0.999
 TOKEN = re.compile(r"<[^<>]+>|\{\d+\}")
-TMP_TAG = re.compile(r"</?(?:i|b|u|s|color|size|sprite|link|style|font|mark|align|ruby|noparse|br)(?:[= ][^<>]*)?>",
-                     re.I)
+TMP_TAG = re.compile(
+    r"</?(?:(?:i|b|u|s|br|sup|sub|nobr|noparse)|(?:color|size|sprite|link|style|font|mark|align|ruby|voffset|line-height|cspace|material)(?:[= ][^<>]*)?)>",
+    re.I,
+)
 ZIP_TIME = (2026, 1, 1, 0, 0, 0)
 
 
@@ -104,12 +109,16 @@ class Story:
 
     def pair(self, stem: str) -> list[tuple[int, dict, dict]]:
         src_rows = self.src.story(stem) or []
-        ref_rows = by_id(self.ref.story(stem))
+        ref_by_step = {
+            step: row
+            for step, row in list_row_steps(self.ref.story(stem) or [])
+            if isinstance(row, dict)
+        }
         out = []
-        for row in src_rows:
-            if row.get("id") == -1:
+        for step, row in list_row_steps(src_rows):
+            if not isinstance(row, dict) or row.get("id") == -1:
                 continue
-            out.append((len(out) + 1, row, ref_rows.get(row.get("id"), {})))
+            out.append((len(out) + 1, row, ref_by_step.get(step, {})))
         return out
 
     def speaker(self, src: dict, ref: dict) -> tuple[str, str] | None:
@@ -118,7 +127,7 @@ class Story:
         model = src.get("model") if isinstance(src.get("model"), str) else ""
         name_src = clean(src.get("teller")) or clean(self.models_src.get(model, {}).get("name")) or model
         name_ref = clean(ref.get("teller")) or clean(self.models_ref.get(model, {}).get("name"))
-        return name_src, name_ref
+        return name_src or name_ref, name_ref
 
 
 def text_block(prefix: str, text: str) -> list[str]:
@@ -135,9 +144,10 @@ class Glossary:
         self.items: dict[tuple[str, str], dict] = {}
 
     def add(self, kind: str, src: str, ref: str, where: str) -> None:
-        if not src:
+        key_src = src or (f"{ref} (tylko EN)" if ref else "")
+        if not key_src:
             return
-        item = self.items.setdefault((kind, src), {"ref": ref, "count": 0, "first": where})
+        item = self.items.setdefault((kind, key_src), {"ref": ref, "count": 0, "first": where})
         item["count"] += 1
         if not item["ref"] and ref:
             item["ref"] = ref
@@ -197,32 +207,40 @@ def scene_block(story: Story, scene: dict, seq: int, total: int, chapter_name: t
         who = story.speaker(src, ref)
         if who:
             speakers.setdefault(who[0], who[1])
-        if isinstance(src.get("place"), str) and src["place"].strip():
-            places.setdefault(clean(src["place"]), clean(ref.get("place")))
+        pl_s, pl_r = clean(src.get("place")), clean(ref.get("place"))
+        if pl_s or pl_r:
+            places.setdefault(pl_s or pl_r, pl_r)
     if speakers:
         lines.append("- uczestnicy:")
         lines += [f"  - {s}" + (f" — {r}" if r and r != s else "") for s, r in speakers.items()]
     if places:
         lines.append("- miejsca:")
-        lines += [f"  - {s}" + (f" — {r}" if r else "") for s, r in places.items()]
+        lines += [f"  - {s}" + (f" — {r}" if r and r != s else "") for s, r in places.items()]
     lines.append("")
     for index, src, ref in pairs:
+        pl_s, pl_r = clean(src.get("place")), clean(ref.get("place"))
+        ti_s, ti_r = clean(src.get("title")), clean(ref.get("title"))
+        te_s, te_r = clean(src.get("teller")), clean(ref.get("teller"))
         text = clean(src.get("content"))
         if not text:
+            if pl_s or pl_r:
+                glossary.add("place", pl_s, pl_r, where)
+            if ti_s or ti_r:
+                glossary.add("title", ti_s, ti_r, where)
+            if te_s or te_r:
+                glossary.add("teller", te_s, te_r, where)
             continue
         who = story.speaker(src, ref)
         label = f"Dialog - {who[0]}" + (f" ({who[1]})" if who[1] and who[1] != who[0] else "") if who else "Narracja"
         lines.append(f"{index}. [{label}] {text}")
-        if isinstance(src.get("place"), str) and src["place"].strip():
-            lines.append(f"   miejsce: {clean(src['place'])}" + (f" — {clean(ref.get('place'))}"
-                                                                    if ref.get("place") else ""))
-            glossary.add("place", clean(src["place"]), clean(ref.get("place")), where)
-        if isinstance(src.get("title"), str) and src["title"].strip():
-            lines.append(f"   tytuł mówcy: {clean(src['title'])}" + (f" — {clean(ref.get('title'))}"
-                                                                        if ref.get("title") else ""))
-            glossary.add("title", clean(src["title"]), clean(ref.get("title")), where)
-        if isinstance(src.get("teller"), str) and src["teller"].strip():
-            glossary.add("teller", clean(src["teller"]), clean(ref.get("teller")), where)
+        if pl_s or pl_r:
+            lines.append(f"   miejsce: {pl_s or '—'}" + (f" — {pl_r}" if pl_r else ""))
+            glossary.add("place", pl_s, pl_r, where)
+        if ti_s or ti_r:
+            lines.append(f"   tytuł mówcy: {ti_s or '—'}" + (f" — {ti_r}" if ti_r else ""))
+            glossary.add("title", ti_s, ti_r, where)
+        if te_s or te_r:
+            glossary.add("teller", te_s, te_r, where)
         elif isinstance(src.get("model"), str) and who:
             glossary.add("model", who[0], who[1], where)
         english = clean(ref.get("content"))
@@ -330,16 +348,56 @@ def build(index: dict, story: Story) -> tuple[dict[str, str], dict]:
 
 
 def readme(version: int, counts: dict) -> str:
-    return f"""# Limbus Company — pakiet dla tłumacza (koreański → polski), wersja {version}
+    has_views = "widoki_elementy" in counts
+    views_bullet = ""
+    if has_views:
+        views_bullet = (
+            f"\n- `widoki.zip` — **100% pozostałych tekstów gry** ({counts['widoki_pliki_gry']} plików źródłowych, "
+            f"{counts['widoki_liscie_json']} niepustych pól w grze → {counts['widoki_elementy']} elementów w "
+            f"{counts['widoki_pliki_md']} plikach `.md`, z czego **{counts['widoki_do_tlumaczenia']}** unikalnych do przetłumaczenia): "
+            "słownik bojowy, karty i kwestie Tożsamości połączone dla każdego Grzesznika, E.G.O i Dary E.G.O, "
+            "Anomalie, wydarzenia i wrogowie, komentatorzy bitwy, teksty piosenek, tryb RPG z Canto X, "
+            "Notatki Dantego, Teatr, Lochy, interfejs, samouczki, wydarzenia sezonowe i sklep."
+        )
+    views_section = ""
+    if has_views:
+        views_section = """
+## 2. Widoki, postacie, umiejętności i interfejs (`widoki.zip`)
+
+Zacznij od `spis-widokow.md` (pełna tabela działów) oraz od słowników terminologii:
+1. `01_slownik_bojowy_*.md` — tagi umiejętności (`[On Hit]`, `[On Use]`), grzechy, słowa kluczowe bitwy i statusy (`Burn`, `Bleed`, `Tremor`, `Sinking`…).
+2. `mowcy-rpg-i-anomalii.md` (oraz `mowcy-i-miejsca.md` w `sceny.zip`) — imiona mówców i tabela modeli postaci, tłumaczone raz.
+
+Przykład elementu umiejętności w `widoki.zip`:
+
+```text
+7. [E.G.O — Przebudzenie (Awakening) (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 공격 위력 감소 2 부여
+   źródło: Skills_Ego.json :: dataList[id=2010111].levelList[level=1].coinlist[#0].coindescs[#0].desc
+   limit: do 120 znaków
+   tokeny: zachowaj dokładnie: [OnSucceedAttackHead], [Reduction]
+   znaczenie tagów: [OnSucceedAttackHead] = [앞면 적중시] / [Heads Hit]; [Reduction] = 공격 위력 감소 / Attack Power Down
+   EN: [OnSucceedAttackHead] Inflict 2 [Reduction]
+   PL: [OnSucceedAttackHead] Nałóż 2 [Reduction]
+```
+
+Najważniejsze zasady w `widoki.zip`:
+- **Nie tłumacz angielskich identyfikatorów w nawiasach kwadratowych** wypisanych w `tokeny:` (np. `[OnSucceedAttackHead]`, `[Combustion]`, `[Vibration]`, `[Reduction]`). Gra sama podstawia w ich miejsce polskie nazwy z `01_slownik_bojowy_*.md`; linia `znaczenie tagów:` podpowiada Ci, jaki to status, żeby dobrać poprawną odmianę zdania.
+- **`\\n` w `widoki.zip`** oznacza celowe przejście do nowej linii na karcie lub w opisie — zostaw `\\n` w jednej linii po `PL:`.
+- **Symbole `{0}`, `{1}`** to podstawiane przez grę liczby lub imiona — muszą zostać w `PL:`.
+- **Piosenki (`05_muzyka_i_piosenki.md`)**: koreański oryginał używa stylu czcionki `<style="DKR_…">`, natomiast w języku polskim należy użyć łacińskiego stylu z linii `EN:` (`<style="DEN_…">` lub `<style="den…">`), wskazanego w `tokeny:`.
+- Nie zmieniaj linii `źródło:` — po niej narzędzie importujące bezbłędnie trafia we właściwe pole pliku JSON gry (także dla połączonych poziomów ulepszeń 1–4).
+"""
+
+    return f"""# Limbus Company — kompletny pakiet dla tłumacza (koreański → polski), wersja {version}
 
 ## 0. W skrócie
 
-- W środku: `sceny.zip` — {counts['sceny']} scen fabuły w **kolejności czytania**, {counts['elementy']} elementów,
-  z czego {counts['do_tlumaczenia']} do przetłumaczenia (reszta to powtórzenia).
+- `sceny.zip` — **{counts['sceny']} scen fabuły w kolejności czytania**, {counts['elementy']} elementów,
+  z czego **{counts['do_tlumaczenia']}** do przetłumaczenia (oraz **{counts['napisy_slownika']}** pozycji w `mowcy-i-miejsca.md`).{views_bullet}
 - Źródłem jest **koreański**; `EN:` to oficjalna wersja angielska jako odniesienie.
-- Polski tekst wpisujesz w jednej linii po `PL:`. Nic więcej w pliku nie zmieniasz.
+- Polski tekst wpisujesz zawsze w **jednej linii** po `PL:`. Nic innego w pliku nie zmieniasz.
 
-## 1. Jak wygląda jeden element
+## 1. Sceny fabularne (`sceny.zip`)
 
 ```text
 14. [Dialog - 카론 (Charon)] 베르.
@@ -349,28 +407,32 @@ def readme(version: int, counts: dict) -> str:
    PL: Werg.
 ```
 
-- `[Dialog - mówca]` — kto mówi (koreańska nazwa z gry i angielska w nawiasie); `[Narracja]` — narrator
-  (najczęściej Dante; jego myśli i opis).
-- `miejsce:` / `tytuł mówcy:` — tylko kontekst; te napisy tłumaczysz raz, w `mowcy-i-miejsca.md`.
-- `tokeny:` — znaczniki gry (`<i>`, `<color=…>`, `<ruby=…>`); muszą zostać w tekście, w tej samej kolejności.
+- Każda scena zaczyna się od `## Scena N/{counts['sceny']} — <plik>` i pełnej metryki kontekstowej: rozdział, miejsce w rozdziale, etap, moment (przed walką / w trakcie walki / po walce / eksploracja), sąsiednie sceny, uczestnicy i miejsca (`spis-rozdzialow.md`, `spis-scen.md`).
+- `[Dialog - mówca]` — kto mówi; `[Narracja]` — narrator (najczęściej Dante).
+- `miejsce:` / `tytuł mówcy:` — kontekst w scenie; same napisy tłumaczysz raz w `mowcy-i-miejsca.md`.
+- W `sceny.zip` ukośnik ` / ` oznacza łamanie linii w dymku; okno dialogowe gry samo zawija wiersze.
 - `(powtórzenie elementu N…)` — ta sama kwestia była już wcześniej w tym pliku; nic nie wpisujesz.
+{views_section}
+## 3. Zasady wspólne
 
-## 2. Nagłówek sceny — kontekst
-
-Każda scena zaczyna się od `## Scena N/{counts['sceny']} — <plik>` i listy: rozdział, miejsce w rozdziale,
-etap (numer, tytuł, miejsce i opis z gry), moment (przed walką / w trakcie walki / po walce / eksploracja),
-poprzednia i następna scena, uczestnicy i miejsca. `spis-rozdzialow.md` i `spis-scen.md` pokazują całość.
-
-## 3. Zasady
-
-- Kwestie Dantego w nawiasach `<…>` to tykanie zegara, które rozumieją tylko Grzesznicy — nawiasy zostają.
+- Kwestie Dantego w nawiasach `<…>` to tykanie zegara, które słyszą tylko Grzesznicy — nawiasy `<…>` zostają w `PL:`.
+- Znaczniki formatowania TextMeshPro (`<i>`, `</i>`, `<color=…>`, `</color>`, `<ruby=…>`) muszą zostać w tekście.
 - Imiona i nazwy własne: według słowniczka projektu; w razie wątpliwości zostaw jak w EN i dopisz `[?]`.
-- Limit to liczba znaków, którą da się policzyć; gra sama łamie linie.
 
 ## 4. Co odesłać
 
-Te same pliki `.md` z wypełnionymi `PL:` (całe lub część) — spakowane w zip, nazwy plików bez zmian.
+Te same pliki `.md` z wypełnionymi polami `PL:` (możesz odsyłać partiami — dowolny podzbiór plików z `sceny.zip` i/lub `widoki.zip`), spakowane w ZIP bez zmiany nazw plików.
 """
+
+
+def pack_zip_bytes(files: dict[str, str]) -> bytes:
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as archive:
+        for name in sorted(files):
+            info = zipfile.ZipInfo(name, ZIP_TIME)
+            info.compress_type = zipfile.ZIP_DEFLATED
+            archive.writestr(info, files[name].encode("utf-8"))
+    return buf.getvalue()
 
 
 def write_zip(path: Path, files: dict[str, bytes]) -> None:
@@ -386,25 +448,85 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("snapshot", type=Path, nargs="?", default=ROOT / "index" / "localize",
                         help="Localize: index/localize (default), a collector ZIP or a directory with <lang>/")
     parser.add_argument("--index", type=Path, default=ROOT / "wiedza" / "indeks_fabuly.json")
+    parser.add_argument("--static-data", type=Path, default=ROOT / "index" / "static-data",
+                        help="StaticData directory for Identity/skill/passive context (default: index/static-data)")
     parser.add_argument("--version", type=int, default=1)
     parser.add_argument("--out", type=Path, default=ROOT / "local" / "pakiet")
-    parser.add_argument("--only", action="append", type=int, help="sub-chapter id(s) (sample package)")
+    parser.add_argument("--only", action="append", type=int, help="sub-chapter id(s) (story-only sample package)")
+    parser.add_argument("--no-views", action="store_true", help="omit widoki.zip (build story scenes only)")
+    parser.add_argument(
+        "--tlumaczenie",
+        type=Path,
+        default=ROOT / "tlumaczenie",
+        help="katalog przekładu (domyślnie: tlumaczenie/) używany przy --wypelnij-pl / --tylko-ai",
+    )
+    parser.add_argument(
+        "--wypelnij-pl",
+        "--prefill-pl",
+        dest="prefill_pl",
+        action="store_true",
+        help="wpisz istniejące przekłady tłumacza w linie PL:, pomijając tymczasowe wpisy AI ('origin': 'ai')",
+    )
+    parser.add_argument(
+        "--tylko-ai",
+        "--only-ai",
+        dest="only_ai",
+        action="store_true",
+        help="zbuduj pakiet weryfikacyjny zawierający wyłącznie wpisy AI ('origin': 'ai')",
+    )
     args = parser.parse_args(argv)
+
     index = json.loads(args.index.read_text(encoding="utf-8"))
+    include_views = not args.no_views and not args.only
     if args.only:
         index = {**index, "rozdzialy": [c for c in index["rozdzialy"] if c["id"] in args.only],
                  "identity": [], "nieprzypisane": []}
+
+    static = StaticData(args.static_data) if include_views and args.static_data and args.static_data.exists() else None
+    view_files: dict[str, str] | None = None
     with Snapshot.open(args.snapshot) as snapshot:
-        files, counts = build(index, Story(snapshot))
-    scenes = io.BytesIO()
-    with zipfile.ZipFile(scenes, "w", zipfile.ZIP_DEFLATED) as archive:
-        for name in sorted(files):
-            info = zipfile.ZipInfo(name, ZIP_TIME)
-            info.compress_type = zipfile.ZIP_DEFLATED
-            archive.writestr(info, files[name].encode("utf-8"))
+        scene_files, counts = build(index, Story(snapshot))
+        if include_views:
+            view_files, view_stats = build_views(snapshot, static)
+            counts.update(view_stats)
+            counts["lacznie_elementy"] = counts["elementy"] + counts["widoki_elementy"]
+            counts["lacznie_do_tlumaczenia"] = (
+                counts["do_tlumaczenia"] + counts["napisy_slownika"] + counts["widoki_do_tlumaczenia"]
+            )
+
+    if args.prefill_pl or args.only_ai:
+        from tools.audit_update import prefill_bundles
+
+        entry_filter = "ai" if args.only_ai else "human"
+        scene_files, view_files, pref_stats = prefill_bundles(
+            scene_files=scene_files,
+            view_files=view_files,
+            localize_path=args.snapshot,
+            story_index_path=args.index,
+            tlumaczenie_dir=args.tlumaczenie,
+            entry_filter=entry_filter,
+        )
+        counts.update(pref_stats)
+        if not args.only_ai:
+            counts["do_tlumaczenia"] = pref_stats["sceny_pozostale_pl"]
+            counts["napisy_slownika"] = pref_stats["slownik_pozostale_pl"]
+            if include_views:
+                counts["widoki_do_tlumaczenia"] = pref_stats["widoki_pozostale_pl"]
+                counts["lacznie_do_tlumaczenia"] = pref_stats["lacznie_pozostale_pl"]
+
+    payload: dict[str, bytes] = {"sceny.zip": pack_zip_bytes(scene_files)}
+    if view_files is not None:
+        payload["widoki.zip"] = pack_zip_bytes(view_files)
+
+    payload["README.md"] = readme(args.version, counts).encode("utf-8")
     args.out.mkdir(parents=True, exist_ok=True)
-    target = args.out / f"plik_dla_tlumacza_v{args.version}.zip"
-    write_zip(target, {"README.md": readme(args.version, counts).encode("utf-8"), "sceny.zip": scenes.getvalue()})
+    pkg_name = (
+        f"paczka_ai_weryfikacja_v{args.version}.zip"
+        if args.only_ai
+        else f"plik_dla_tlumacza_v{args.version}.zip"
+    )
+    target = args.out / pkg_name
+    write_zip(target, payload)
     digest = hashlib.sha256(target.read_bytes()).hexdigest()
     print(json.dumps({**counts, "plik": str(target), "bajty": target.stat().st_size, "sha256": digest},
                      ensure_ascii=False))

@@ -1,0 +1,59 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Która strona to w końcu prawdziwy ja…",
+      "kr_sha256": "c3321f9e829120c4bd601ec093672cc6cf1236a734b345d316a808c6f20112d9",
+      "en_sha256": "cd7cdaf69b2aa8dfa784af6976aa49ae4cbfb378a5824deb29bc8a90bd0e7186"
+    },
+    "dataList[id=10].content": {
+      "pl": "Bo tylko patrząc samotnie na księżyc, mogło choć trochę ukoić serce.",
+      "kr_sha256": "01dc055ae6d6f23ebd27d859e23ce1cc803773888412bfbe98b57cf582fb1a30",
+      "en_sha256": "4c4442f9699bc923fec352fb6c6de538f7b3bcbd7fc219fc36e3da7703648e19"
+    },
+    "dataList[id=1].content": {
+      "pl": "Dziecko bało się samego siebie.",
+      "kr_sha256": "dbeee7bcd91a82587d9340fbc3387e50942f17861136a71f6c9a10cd0965d934",
+      "en_sha256": "a585a31202b72f1a65fb173e8a9b9930a4264693d68e7436279f366038eecfe4"
+    },
+    "dataList[id=2].content": {
+      "pl": "Nie umiało zapanować nad tym, jak się zmienia, a brakowało mu odwagi, by po prostu zdecydować.",
+      "kr_sha256": "88092dd125877f39522b9404a10bfe6feff0f35eb118ce323c8c580a07dbc62e",
+      "en_sha256": "68cd05030dde7119090e32db594564255b58e858d7ef15445d91188dc0515e16"
+    },
+    "dataList[id=3].content": {
+      "pl": "A jeśli jest tylko obłąkanym mordercą? Od takich myśli w głowie dziecka wszystko wirowało.",
+      "kr_sha256": "602b5c015f3d04768493cdc7597d6898d6e0c95d3143c18cc38f4f5d178560ce",
+      "en_sha256": "c5aac96a59f190168be0b40b8a9af0faf233cb276bae580de6a074c542e14bd5"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ludzie z Rodu Ostrza, których dziecko poznało, wychwalali taką naturę jako najlepiej pasującą do Rodu, najbliższą prawdziwemu salsu,",
+      "kr_sha256": "c19fafd7d9295a91049551f5c2e6b144fc07766a43cfc8953dfc780a1daf02ba",
+      "en_sha256": "e98b553cf78cae8fbb9ff58111719891e0c1d0dfe1ca3d67c3173b1e2a07ed2e"
+    },
+    "dataList[id=5].content": {
+      "pl": "ale za komplement może to uchodzić tylko wtedy, gdy samo dziecko tego chce.",
+      "kr_sha256": "a3601a1e950c789150896c0fc329c273c6a98fbf8742c9c7f59f885740ac980d",
+      "en_sha256": "5ebc1f5c9a37b28c04023566810c595a7d57637e18ab04d0402f43dfb6fc8c72"
+    },
+    "dataList[id=6].content": {
+      "pl": "A dziecko takie słowa raczej przytłaczają.",
+      "kr_sha256": "81b9ceaf99d26ea0813b0e12eaf26bba68a1287b85ed618e1ab0f124babc545e",
+      "en_sha256": "760d74ce3301a9087ba44635a4e284fde4adb03c525552a935d9a86997ecf1cd"
+    },
+    "dataList[id=7].content": {
+      "pl": "Dlatego pewnie wciąż się zastanawia, gdzie stanąć: po stronie rozkoszy czy niepokoju.",
+      "kr_sha256": "87be58cca1dbf570503de6213821488bcd927f7730c73c0e0ba5246dc6aa65b7",
+      "en_sha256": "bc806822449fa91124e8e1cef42d3890261c53fdea751841f46df66c9c9ccf1e"
+    },
+    "dataList[id=8].content": {
+      "pl": "Jak jasno świeci księżyc…",
+      "kr_sha256": "25e1d9c5b4ab2929d902a7c6f6c491287f756d432d2412ec32cb8575a48ecc5f",
+      "en_sha256": "cd838e8ebd8e62bfa117c96792ee4f61b03d7ec8156ce78d27afefa26ebfd29d"
+    },
+    "dataList[id=9].content": {
+      "pl": "Dziecko westchnęło głęboko i spojrzało w niebo.",
+      "kr_sha256": "869d6e5bf6f34782339a76f0ac31ccf06bac9a2475d71047434327f1d259d3ec",
+      "en_sha256": "49fb095d74dc2ea9936340d1d988bb587fc7f629b57f618f32c98ca11fe10ae8"
+    }
+  }
+}

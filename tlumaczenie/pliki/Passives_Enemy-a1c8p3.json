@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=9021301].desc": {
+      "pl": "na Początku tury zyskuje 5 [Breath] i 2 Licznika [Breath]\nna etapie początku walki, jeżeli sojusznik z [Breath] zada wrogowi trafienie krytyczne Umiejętnością, na następnym Początku tury nakłada losowemu sojusznikowi 5 Siły [Breath] i 2 Licznika [Breath]. (uruchamia się 1 raz na turę)",
+      "kr_sha256": "677629f6924443095321b9d699392e5d1f801d62ea960762a0df2949931fb010",
+      "en_sha256": "df6b5f7729f649de153245cdcd92d6d22327871b5168dc7d7546c263c26f67ad",
+      "origin": "ai"
+    },
+    "dataList[id=9021301].name": {
+      "pl": "Four-leaf Clover",
+      "kr_sha256": "621e8c733d49dfd51e27b6a3f85adcf947d77c65c3ded0825aac4ae497715d0f",
+      "en_sha256": "37e84a0bf83ad7a778867bc516db9e64e74f548fbdc548e1df4a25d5012c29ff",
+      "origin": "ai"
+    },
+    "dataList[id=9021302].desc": {
+      "pl": "przy 50% HP lub mniej: przy trafieniu wrogów z [Laceration], przywraca 1% całkowitego HP za każdy [Laceration] celu (maks. 10%; 1 raz na walkę)",
+      "kr_sha256": "409143850c613d6a762545f40b8d493cb85bab0c9289eddf7b73d34f638958e2",
+      "en_sha256": "98ebc663d90ec8e21431aa1504e9e377beaf60409e32fb17d158badb5310046e",
+      "origin": "ai"
+    },
+    "dataList[id=9021302].name": {
+      "pl": "Tasty Flesh",
+      "kr_sha256": "4d5a694ab99e9987b64ce820f7fa35b1d0399dee55c8e2c9ec1e0c787ad0fc13",
+      "en_sha256": "6c4b6978417952ff5c641fb7fd2eeb3b5869c47efd93a0f84174e91cd4c5219e",
+      "origin": "ai"
+    },
+    "dataList[id=9021701].desc": {
+      "pl": "jeżeli ta jednostka uruchomiła [VibrationExplosion] w poprzedniej turze, zyskuje 1 [Enhancement] i 1 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "2b8d33bfaaa89208b503188426bc269f58f98c453808f7eacf58ce5e2dda2c61",
+      "en_sha256": "21f07f9623695b0d573a0ebe163553114ebb26e6e11bf02a6e512e82e66a5c74",
+      "origin": "ai"
+    },
+    "dataList[id=9021701].name": {
+      "pl": "Esecuzione della Regola - Preparation Stage",
+      "kr_sha256": "2eac077c34af5b394e59da66cae241448c16247012523d322746d5f3629c5bb6",
+      "en_sha256": "ad03391f41f650ca7165340f10a1d6c7a193376d48ce737f216deaf5fbfaeac3",
+      "origin": "ai"
+    },
+    "dataList[id=9021702].desc": {
+      "pl": "zadaje +10% obrażeń Oszołomionym wrogom\njeżeli w poprzedniej turze któryś wróg przeszedł w Oszołamienie: w następnej turze nakłada 2 [Vibration] przy trafieniu Umiejętnością po wygranej w Starciu (2 razy na turę)",
+      "kr_sha256": "3d3a48e263d2b2253b49b52ac69d3606a7f771266fa8e4f2579eeefb7e0fec7a",
+      "en_sha256": "320a224885fd242cb78895e283c1b90f692c5f46889ab1a5057db5bbdca5d871",
+      "origin": "ai"
+    },
+    "dataList[id=9021702].name": {
+      "pl": "Esecuzione della Regola - Crush the Lower Jaw",
+      "kr_sha256": "2a2752005b4766830aba1887f7b429fdf15d1db1722f79bc50120c6aa61bc091",
+      "en_sha256": "ed3d0eaaab5bdf96903f400aaa875b467de3fec0125823d3eaea9796a2c11db8",
+      "origin": "ai"
+    },
+    "dataList[id=9021703].desc": {
+      "pl": "jeżeli został pokonany co najmniej 1 sojusznik, zyskuje 1 [ParryingResultUp] od następnej tury",
+      "kr_sha256": "00434e55cde67d0af7a5eb97b708e8dd5c7f61116a87029f5e3fc4fa38390f66",
+      "en_sha256": "905ed20f36877127209e082b7b0e17b72f302d257c442869993695248f693d58",
+      "origin": "ai"
+    },
+    "dataList[id=9021703].name": {
+      "pl": "Regola Infranta",
+      "kr_sha256": "c7563475d2f4bdcbf7ea6dd45aad889c2d863425c1e48515dcbc9b159564a9ef",
+      "en_sha256": "ebd287795d34f8c8df3200a29ae0856f158f20e46e3597ee952f3e2d2d6c80e2",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,162 @@
+536|120|[BulletHole] 1 소모|Spend 1 [BulletHole]
+538|260|처음 사용한 코인이면,\n- 피해량 +(자신의 [Charge] 횟수 x 5)% (최대 100%)\n- 크리티컬 피해량 +(자신의 [Breath] 위력 x 횟수)% (최대 100%)\n- 해당 코인에 한해 대상의 관통 속성 내성을 취약으로 변경함|If this is the first Coin:\n- Deal +([Charge] Count x 5)% damage (max 100%)\n- Deal +([Breath] Potency x Count)% damage on Critical Hit (max 100%)\n- For this Coin, change target's Pierce Resist. to Fatal
+540|120|[EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)|[EndCoin] At 1+ [BulletHole], Reuse this Coin (4 times per Skill)
+544|560|스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">7</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음|If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">7</style>)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]
+546|120|이 코인은 메인 타겟에게만 적중함<style="highlight"></style>|This Coin hits only the main target<style="highlight"></style>
+547|120|[BulletHole] 1 소모<style="highlight"></style>|Spend 1 [BulletHole]<style="highlight"></style>
+548|120|크리티컬 피해량 <style="highlight">+15%</style>|Deal <style="highlight">+15%</style> damage on Critical Hit
+549|260|처음 사용한 코인이면,\n- 피해량 +(자신의 [Charge] 횟수 x 5)% (최대 100%)\n- 크리티컬 피해량 +(자신의 [Breath] 위력 x 횟수)% (최대 100%)\n- 해당 코인에 한해 대상의 관통 속성 내성을 취약으로 변경함<style="highlight"></style>|If this is the first Coin:\n- Deal +([Charge] Count x 5)% damage (max 100%)\n- Deal +([Breath] Potency x Count)% damage on Critical Hit (max 100%)\n- For this Coin, change target's Pierce Resist. to Fatal<style="highlight"></style>
+551|120|<style="highlight">[CriticalOnSucceedAttack] 마지막 코인 위력 +1</style>|<style="highlight">[CriticalOnSucceedAttack] Final Coin Power +1</style>
+552|120|[EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)<style="highlight"></style>|[EndCoin] At 1+ [BulletHole], Reuse this Coin (4 times per Skill)<style="highlight"></style>
+555|120|<style="highlight">[OnStartCoin] 공격 대상이 1명이면, 피해량 +50% (집중 전투의 경우, 본체로 판정)</style>|<style="highlight">[OnStartCoin] When attacking just 1 target, deal +50% damage (in Focused Encounters, a Core)</style>
+557|560|스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">10</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음|If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">10</style>)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]
+558|120|크리티컬 피해량 <style="highlight">+20%</style>|Deal <style="highlight">+20%</style> damage on Critical Hit
+559|120|<style="highlight">[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (스킬당 1회)</style>|<style="highlight">[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (once per Skill)</style>
+561|120|[CriticalOnSucceedAttack] 마지막 코인 위력 +1<style="highlight"></style>|[CriticalOnSucceedAttack] Final Coin Power +1<style="highlight"></style>
+563|120|크리티컬 피해량 +50%<style="highlight"></style>|Deal +50% damage on Critical Hit<style="highlight"></style>
+564|130|[OnStartCoin] 공격 대상이 1명이면, 피해량 <style="highlight">+100%</style> (집중 전투의 경우, 본체로 판정)|[OnStartCoin] When attacking just 1 target, deal +<style="highlight">100</style>% damage (in Focused Encounters, a Core)
+565|120|<style="highlight">[OnStartCoin] 자신의 [Charge] 횟수 4당 코인 위력 +1 (최대 5)</style>|<style="highlight">[OnStartCoin] Coin Power +1 for every 4 [Charge] Count (max 5)</style>
+569|420|[CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 5)\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)|[CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max 5)\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)
+571|120|[OnStartCoin] [BlackWingHole] 5 얻음|[OnStartCoin] Gain 5 [BlackWingHole]
+572|120|[OnStartCoin] 자신의 [Charge] 횟수 5 증가|[OnStartCoin] Gain +5 [Charge] Count
+573|120|[OnStartCoin] [Breath] 5 얻음|[OnStartCoin] Gain 5 [Breath]
+575|120|이 코인의 뒷면 확률은 정신력과 관계 없이 (자신이 보유한 [BulletHole] x 20)% 확률로 적용됨|This Coin has ([BulletHole] on self x 20)% chance to flip Tails regardless of this unit's SP
+576|120|[CoinHead]\n- 이 코인은 적중하지 않음|[CoinHead]\n- This Coin does not hit
+577|120|- [EndCoin] [Breath] 5 얻음|- [EndCoin] Gain 5 [Breath]
+578|120|- [EndCoin] 자신의 [Breath] 횟수 3 증가|- [EndCoin] Gain +3 [Breath] Count
+579|120|- [EndCoin] [BulletHole] 2 얻음|- [EndCoin] Gain 2 [BulletHole]
+580|120|- [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)|- [EndCoin] Refund half of the E.G.O resources consumed by this Skill (rounded down)
+581|120|[CoinTail]\n- 피해량 +(자신의 충전 횟수 x 3)% (최대 60%)|[CoinTail]\n- Deal +([Charge] Count x 3)% damage (max 60%)
+582|120|- 크리티컬 피해량 +70%|- Deal +70% damage on Critical Hit
+583|120|- [OnSucceedAttack] 이 코인 최종 피해량의 10%만큼 관통 피해|- [OnSucceedAttack] Deal Pierce damage equal to 10% of this Coin's final damage
+584|120|- [EndCoin] 자신의 [BulletHole] 전부 소모|- [EndCoin] Consume all [BulletHole] on self
+585|120|[OnSucceedAttack] [Sinking] 5 부여|[OnSucceedAttack] Inflict 5 [Sinking]
+587|540|[CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">7</style>)\n\n<style="highlight">[BeforeAttack] 공격 대상이 1명이면, 피해량 +100% (집중 전투의 경우, 본체로 판정)</style>\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)|[CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">7</style>)\n\n<style="highlight">[BeforeAttack] When attacking just 1 target, deal +100% damage (in Focused Encounters, a Core)</style>\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)
+589|120|[OnStartCoin] [BlackWingHole] 5 얻음<style="highlight"></style>|[OnStartCoin] Gain 5 [BlackWingHole]<style="highlight"></style>
+590|120|[OnStartCoin] 자신의 [Charge] 횟수 5 증가<style="highlight"></style>|[OnStartCoin] Gain +5 [Charge] Count<style="highlight"></style>
+591|120|[OnStartCoin] [Breath] 5 얻음<style="highlight"></style>|[OnStartCoin] Gain 5 [Breath]<style="highlight"></style>
+593|120|이 코인의 뒷면 확률은 정신력과 관계 없이 (자신이 보유한 [BulletHole] x 20)% 확률로 적용됨<style="highlight"></style>|This Coin has ([BulletHole] on self x 20)% chance to flip Tails regardless of this unit's SP<style="highlight"></style>
+594|120|[CoinHead]\n- 이 코인은 적중하지 않음<style="highlight"></style>|[CoinHead]\n- This Coin does not hit<style="highlight"></style>
+595|120|- [EndCoin] [Breath] 5 얻음<style="highlight"></style>|- [EndCoin] Gain 5 [Breath]<style="highlight"></style>
+596|120|- [EndCoin] 자신의 [Breath] 횟수 3 증가<style="highlight"></style>|- [EndCoin] Gain +3 [Breath] Count<style="highlight"></style>
+597|120|- [EndCoin] [BulletHole] 2 얻음<style="highlight"></style>|- [EndCoin] Gain 2 [BulletHole]<style="highlight"></style>
+598|120|- [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)<style="highlight"></style>|- [EndCoin] Refund half of the E.G.O resources consumed by this Skill (rounded down)<style="highlight"></style>
+599|120|[CoinTail]\n- 피해량 +(자신의 충전 횟수 x <style="highlight">4)% (최대 80%)</style>|[CoinTail]\n- Deal +([Charge] Count x <style="highlight">4)% damage (max 80%)</style>
+600|120|- 크리티컬 피해량 <style="highlight">+100%</style>|- Deal <style="highlight">+100%</style> damage on Critical Hit
+601|120|- [OnSucceedAttack] 이 코인 최종 피해량의 <style="highlight">15%</style>만큼 관통 피해|- [OnSucceedAttack] Deal Pierce damage equal to <style="highlight">15</style>% of this Coin's final damage
+602|120|- [EndCoin] 자신의 [BulletHole] 전부 소모<style="highlight"></style>|- [EndCoin] Consume all [BulletHole] on self<style="highlight"></style>
+603|120|[OnSucceedAttack] [Sinking] 5 부여<style="highlight"></style>|[OnSucceedAttack] Inflict 5 [Sinking]<style="highlight"></style>
+605|640|[CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">10</style>)\n\n[BeforeAttack] 공격 대상이 1명이면, 피해량 <style="highlight">+200% (집중 전투의 경우, 본체로 판정)\n[BeforeAttack] 최종 위력 +(자신의 [BulletHole] 수치)</style>\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)\n<style="highlight">[EnemyKill] 정신력 5 회복</style>|[CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">10</style>)\n\n[BeforeAttack] When attacking just 1 target, deal +<style="highlight">200</style>% damage (in Focused Encounters, a Core)\n<style="highlight">[BeforeAttack] Gain Final Power +([BulletHole] on self)</style>\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)\n<style="highlight">[EnemyKill] Heal 5 SP</style>
+607|120|<style="highlight">- [EndCoin] 자신에게 부여된 해제 가능한 부정적인 효과 무작위 1개 제거</style>|<style="highlight">- [EndCoin] Remove 1 random removable negative effect applied to self</style>
+610|120|[CoinTail]\n- 피해량 +(자신의 충전 횟수 x <style="highlight">5)% (최대 100%)</style>|[CoinTail]\n- Deal +([Charge] Count x <style="highlight">5)% damage (max 100%)</style>
+611|120|- 크리티컬 피해량 <style="highlight">+130%</style>|- Deal +<style="highlight">130</style>% damage on Critical Hit
+612|120|- [OnSucceedAttack] 이 코인 최종 피해량의 <style="highlight">20%</style>만큼 관통 피해|- [OnSucceedAttack] Deal Pierce damage equal to <style="highlight">20</style>% of this Coin's final damage
+613|120|<style="highlight">- [EnemyKill] 자신의 최대 체력의 5%만큼 체력 회복</style>|<style="highlight">- [EnemyKill] Heal 5% HP</style>
+617|50|레모라지 앵테른(l'hémorragie interne)|L'Hémorragie interne
+618|530|[AlwaysUseEGOPassive]\n자신의 [BulletHole]이 5면, ‘구멍’ E.G.O 스킬(각성, 침식) 사용 시 E.G.O 자원을 소모하지 않음\n\n턴 시작 시 [BulletHole] 1 얻음\n\n[WhenUseEGOPassive]\n턴 시작 시, [BlackWingHole] 1 얻음\n\n자신이 [Bullet]을 누적 3개 소모하거나 잃을 때마다 정신력을 5 회복하고, 다음 턴에 [ResultEnhancement] 1 얻음 (특수 [Bullet] 포함. 턴당 [Bullet] 최대 9개까지 판정)|[AlwaysUseEGOPassive]\nIf this unit has 5 [BulletHole], does not consume E.G.O Resource when using "Hollow" E.G.O's Skills (both Awakening and Corrosion)\n\nTurn Start: Gain 1 [BulletHole]\n\n[WhenUseEGOPassive]\nTurn Start: Gain 1 [BlackWingHole]\n\nHeal 5 SP every time this unit consumes or loses 3 cumulative [Bullet], and gain 1 [ResultEnhancement] next turn (including Unique [Bullet]; counts up to 9 [Bullet] per turn)
+619|210|타자의 시선이 나에게 박혀 구멍을 내고 온갖 것을 쏟아내게 한다. 쏟아져 나온 것은 탄환이 되어 다시 네게 쏘아져 구멍을 뚫는다.|The gaze of another nails into me, driving a hollow from which multitudes spill forth.\nThe discharge is then forged into a bullet that punches a hollow into you.
+620|40|허환경|Land of Illusion
+621|120|홍루 연출 전용 EGO 장비|Hong Lu's Battle Cinematic Exclusive E.G.O
+623|120|홍루 기본 EGO 장비|Hong Lu’s Base E.G.O
+627|120|[EndSkill] 정신력 15 회복|[EndSkill] Heal 15 SP
+629|130|[EndSkill] 다음 턴에 모든 아군의 정신력 감소 효율 -2, E.G.O 사용시 정신력 감소량 -2|[EndSkill] Next turn: -2 SP Loss Efficiency to all allies; -2 to amount of SP lost from E.G.O use
+632|140|[EndSkill] 본인과 아군의 정신력 15 회복\n[EndSkill] 본인과 아군의 화상 제거|[EndSkill] Heal 15 SP for this unit and all allies\n[EndSkill] Remove Burn from this unit and all allies
+634|40|파문|Ripple
+635|150|전투 시작 시 정신력이 가장 낮은 아군의 정신력을 조작 패널에서 가장 높은 자신의 완전 공명 수만큼 회복 \n패닉 상태의 아군 제외|Combat Start: Heal (this unit's highest A-Reson.) SP for the ally that has the least SP, excluding allies in Panic
+636|40|분홍욕망|Roseate Desire
+637|120|홍루 전용 EGO 장비|Hong Lu’s E.G.O Gear
+639|40|분홍신|Pink Shoes
+643|120|[OnSucceedAttack] 방어 레벨 감소 5 부여|[OnSucceedAttack] Inflict 5 [DefenseDown]
+646|120|[CantIdentify]\n속도가 가장 빠른 대상 공격|[CantIdentify]\nTargets the unit with the fastest Speed
+649|120|[OnSucceedAttackTail] 다음 턴에 속박 4 부여|[OnSucceedAttackTail] Inflict 4 [Binding] next turn
+651|120|[OnSucceedAttack] 다음 턴에 속박 4 부여|[OnSucceedAttack] Inflict 4 [Binding] next turn
+653|40|구속하는 리본|Binding Ribbons
+654|180|조작 패널에서 가장 왼쪽의 스킬로 공격하는 대상에게 공격 종료 시 \n다음 턴에 (색욕 완전 공명 수/4)만큼 색욕 취약 부여|Inflict (Lust A-Reson. / 4) [ScarletTakeDamageUp] next turn on the target of the leftmost Skill on the Dashboard at the Skill's Attack End
+655|40|차원찢개|Dimension Shredder
+656|120|홍루의 전용 EGO 장비|Hong Lu’s E.G.O Gear
+659|150|가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수 3 증가. 다음 턴에 신속 2를 얻음|Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Gain +3 [Charge] Count; Gain 2 [Agility] next turn
+660|120|[OnSucceedAttack] 취약 1, 차원 균열 2 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] and 2 [DimensionRift]
+661|150|가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수 5 증가. 다음 턴에 신속 2를 얻음|Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Gain +5 [Charge] Count; Gain 2 [Agility] next turn
+662|120|[OnSucceedAttack] 취약 1, 차원 균열 4 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] and 4 [DimensionRift]
+665|250|[CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 다음 턴에 신속 2를 얻음.\n충전 횟수 10을 소모하여 적중시 부여하는 취약, 차원 균열 +1|[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain 2 [Agility] next turn\nSpend 10 [Charge] Count to inflict +1 more [Vulnerable] and [DimensionRift] On Hit with this Skill
+666|120|[OnSucceedAttack] 취약 1, 차원 균열 3 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] and 3 [DimensionRift]
+667|250|[CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 다음 턴에 신속 <style="highlight">3</style>을 얻음.\n충전 횟수 10을 소모하여 적중시 부여하는 취약, 차원 균열  <style="highlight">+2</style>|[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain <style="highlight">3</style> [Agility] next turn\nSpend 10 [Charge] Count to inflict <style="highlight">+2</style> more [Vulnerable] and [DimensionRift] On Hit with this Skill
+669|50|뒤얽힌 현상 복구|Entangled Phenomena Restoration
+670|280|부정적인 효과를 가진 적에게 공격 적중 시 자신의 충전 횟수 1 증가 (턴 당 최대 4회)\n체력이 0이 될 때 충전 횟수를 전부 소모하고, 소모한 값에 비례하여 체력 회복 (전투당 1회 발동. 회복량 최대값: 전체 체력의 25%)|On Hit against an enemy that has negative status effects, gain +1 [Charge] Count (4 times per turn).\nWhen HP falls to 0, consume all [Charge] Count and heal HP based on Stacks consumed (once per Encounter; max 25% HP)
+675|120|[EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 10 회복|[EndSkillHead] Heal 2 allies with the lowest HP percentages for 10 HP
+676|120|[EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 10 회복|[EndSkillTail] Heal 10 SP for 2 allies with the least SP
+677|120|[EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 12 회복|[EndSkillHead] Heal 2 allies with the lowest HP percentages for 12 HP
+678|120|[EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 12 회복|[EndSkillTail] Heal 12 SP for 2 allies with the least SP
+679|150|[CriticalEndSkill] 현재 체력 비율이 가장 낮은 아군 1명의 체력 6 회복, 정신력이 가장 낮은 아군 1명의 정신력 6 회복|[CriticalEndSkill] Heal the ally with the lowest HP percentage for 6 HP; Heal the ally with the least SP for 6 SP
+680|120|[EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 15 회복|[EndSkillHead] Heal 2 allies with the lowest HP percentages for 15 HP
+681|120|[EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 15 회복|[EndSkillTail] Heal 15 SP for 2 allies with the least SP
+682|150|[CriticalEndSkill] 현재 체력 비율이 가장 낮은 아군 1명의 체력 8 회복, 정신력이 가장 낮은 아군 1명의 정신력 8 회복|[CriticalEndSkill] Heal the ally with the lowest HP percentage for 8 HP; Heal the ally with the least SP for 8 SP
+685|120|[CantIdentify]\n체력이 가장 낮은 대상 공격|[CantIdentify] Targets the unit with the least HP
+691|60|먼 바다의 갈매기 울음 소리|Seagull Squawking Of The Distant Seas
+692|260|적 사망 시 정신력이 가장 낮은 아군 1명의 정신력 1 회복\n적이 사망할 때마다 회복량 2 증가 (최대 9)\n웨이브 시작시 증가된 값 초기화|When an enemy is defeated, the ally that has the least SP heals 1 SP\nWhenever an enemy is defeated, the amount of SP healed increases by 2 (max 9)\nThe amount above is reset at the start of a new wave
+693|40|들끓는 부식|Effervescent Corrosion
+697|120|[OnSucceedAttack] (탐식 공명 수/2)만큼 파열 부여|[OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)
+698|120|[OnSucceedAttack] 다음 턴에 속박 2 부여|[OnSucceedAttack] Inflict 2 Bind next turn
+699|120|[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1|[BeforeAttack] At 50%- HP, Atk Weight +1
+700|120|[OnSucceedAttackHead] 다음 턴에 탐식 취약 2 부여|[OnSucceedAttackHead] Inflict 2 Gluttony Fragility next turn
+701|120|[OnSucceedAttack] 다음 턴에 속박 2 부여<style="highlight"></style>|[OnSucceedAttack] Inflict 2 Bind next turn<style="highlight"></style>
+702|120|[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1\n최대 체력의 25% 미만이면, 추가로 공격 가중치 +1|[BeforeAttack] At 50%- HP, Atk Weight +1;\nAt 25%- HP, gain an additional Atk Weight +1
+703|120|[OnSucceedAttack] 다음 턴에 탐식 취약 2 부여|[OnSucceedAttack] Inflict 2 Gluttony Fragility next turn
+706|120|[CantIdentify]\n본체 체력이 가장 낮은 대상 공격|[CantIdentify]\nTargets the unit with the least HP
+707|120|[OnSucceedAttack] (탐식 공명 수/3)만큼 파열 횟수 증가|[OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)
+708|120|[OnSucceedAttack] 피해량의 20%만큼 자신의 체력 회복|[OnSucceedAttack] Heal 20% of damage dealt
+710|120|[CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1|[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1
+711|120|[OnSucceedAttack] 피해량의 30%만큼 자신의 체력 회복|[OnSucceedAttack] Heal 30% of damage dealt
+712|170|[CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1\n최대 체력의 25% 미만이면, 추가로 공격 가중치 +1|[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1\nAt 25%- HP, additional Atk Weight +1
+713|120|[OnSucceedAttack] 피해량의 50%만큼 자신의 체력 회복|[OnSucceedAttack] Heal 50% of damage dealt
+714|40|녹색 진액|Green Slime
+715|160|피격 시 현재 체력이 최대 체력의 50% 미만이면, 공격자에게 파열 1 부여. (턴 당 가장 많은 탐식 완전 공명 수만큼 발동)|If struck at less than 50% HP, inflict 1 [Burst] on the attacker. (Activates (Highest Gluttony A-Reson) times per turn)
+716|40|낮은울음|Cavernous Wailing
+720|140|대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 20%)|If target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max 20%)
+723|290|대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">25%</style>)\n<style="highlight">- 최대 공명 수가 4 이상이면, 대신 피해량 +(5 + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 35%)</style>|If target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">25%</style>)\n<style="highlight">- At 4+ highest Reson., deal +(5 + ([Vibration] on target + [Vibration] Count on target)/2)% damage instead (max 35%)</style>
+724|120|[OnSucceedAttack] [Vibration] 3, <style="highlight">[Vibration] 횟수 2</style> 부여|[OnSucceedAttack] Inflict 3 [Vibration] and <style="highlight">+2 [Vibration] Count</style>
+725|120|<style="highlight">[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]</style>|<style="highlight">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>
+727|300|대상에게 [Vibration]이 있으면, 피해량 +(<style="highlight">5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">30%</style>)\n- 최대 공명 수가 4 이상이면, 대신 피해량 +(<style="highlight">7.5</style> + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합/<style="highlight">1.5</style>)% (최대 <style="highlight">40%</style>)|If target has [Vibration], deal +(<style="highlight">5 +</style> ([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">30%</style>)\n- At 4+ highest Reson., deal +(<style="highlight">7.5 +</style> ([Vibration] on target + [Vibration] Count on target)/<style="highlight">1.5</style>)% damage instead (max <style="highlight">40%</style>)
+728|120|[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 <style="highlight">3</style> 부여|[OnSucceedAttack] Inflict 3 [Vibration] and <style="highlight">+3</style> [Vibration] Count
+729|120|[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]<style="highlight"></style>|[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style="highlight"></style>
+732|260|[CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 25%)\n- 최대 공명 수가 4 이상이면, 피해량 최대 수치가 35%로 증가|[CantIdentify]\nTargets randomly\nIf target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max 25%)\n- At 4+ highest Reson., raise the above cap to (max 35%)
+733|120|[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여|[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count
+735|330|[CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">30%</style>)\n- 최대 공명 수가 4 이상이면, <style="highlight">대신 피해량 +(5 + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 40%)</style>|[CantIdentify]\nTargets randomly\nIf target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">30%</style>)\n- At 4+ highest Reson., <style="highlight">deal +(5 + ([Vibration] on target + [Vibration] Count on target)/2)% damage instead (max 40%)</style>
+736|120|[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여<style="highlight"></style>|[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style="highlight"></style>
+738|120|[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.<style="highlight"></style>|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style="highlight"></style>
+740|340|[CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(<style="highlight">5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">40%</style>)\n- 최대 공명 수가 4 이상이면, 대신 피해량 +(<style="highlight">7.5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/<style="highlight">1.5</style>)% (최대 <style="highlight">50%</style>)|[CantIdentify]\nTargets randomly\nIf target has [Vibration], deal +(<style="highlight">5</style> + ([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">40%</style>)\n- At 4+ highest Reson., deal +(<style="highlight">7.5</style> + ([Vibration] on target + [Vibration] Count on target)/<style="highlight">1.5</style>)% damage instead (max <style="highlight">50%</style>)
+741|120|[OnSucceedAttack] [Vibration] <style="highlight">6</style>, [Vibration] 횟수 <style="highlight">6</style> 부여|[OnSucceedAttack] Inflict <style="highlight">6</style> [Vibration] and <style="highlight">+6</style> [Vibration] Count
+745|40|우울감|Gloominess
+746|240|자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여. (턴 당 최대 3회, E.G.O 스킬 포함)|When this unit uses a Skill to trigger [VibrationExplosion] on an enemy, inflict 1 [AttackDown] and 2 [DefenseDown] on the enemy next turn. (3 times per turn, including E.G.O Skills)
+747|120|[VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여|When triggering [VibrationExplosion], inflict 1 [AttackDown] and 2 [DefenseDown] next turn
+752|120|대상의 [Burst] 7 당 코인 위력 +1 (최대 2)|Coin Power +1 for every 7 [Burst] on target (max 2)
+753|120|[OnSucceedAttack] [Snare] 2 부여|[OnSucceedAttack] Inflict 2 [Snare]
+754|120|[OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)|[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)
+757|220|<style="highlight">대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style="highlight">[BeforeAttack] 다음 턴에 [Agility] 2 얻음</style>|<style="highlight">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on target (max 2)\n<style="highlight">[BeforeAttack] Gain 2 [Agility] next turn
+758|120|[OnSucceedAttack] [Snare] 2 부여<style="highlight"></style>|[OnSucceedAttack] Inflict 2 [Snare]<style="highlight"></style>
+759|120|[OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)<style="highlight"></style>|[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)<style="highlight"></style>
+760|140|<style="highlight">[OnSucceedAttack] 자신의 속도/2만큼 [Laceration]을 무작위로 공격 대상에게 나누어 부여 (최대 3)</style>|<style="highlight">[OnSucceedAttack] Randomly inflict [Laceration] equal to (this unit's Speed/2) between the targets (max 3)</style>
+761|140|<style="highlight">[OnSucceedAttack] 자신의 속도/2만큼 [Burst]을 무작위로 공격 대상에게 나누어 부여 (최대 3)</style>|<style="highlight">[OnSucceedAttack] Randomly inflict [Burst] equal to (this unit's Speed/2) between the targets (max 3)</style>
+762|220|대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음<style="highlight"></style>|If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn<style="highlight"></style>
+763|120|<style="highlight">[OnSucceedAttack] 다음 턴에 [TakeHpHealReduce] 2 부여</style>|<style="highlight">[OnSucceedAttack] Inflict 2 [TakeHpHealReduce] next turn</style>
+765|140|<style="highlight">[OnSucceedAttack] 자신의 속도만큼 [Laceration]을 무작위로 공격 대상에게 나누어 부여 (최대 7)</style>|<style="highlight">[OnSucceedAttack] Randomly inflict [Laceration] equal to this unit's Speed between the targets (max 7)</style>
+766|130|<style="highlight">[OnSucceedAttack] 자신의 속도만큼 [Burst]을 무작위로 공격 대상에게 나누어 부여 (최대 7)</style>|<style="highlight">[OnSucceedAttack] Randomly inflict [Burst] equal to this unit's Speed between the targets (max 7)</style>
+769|120|[CantIdentify]\n무작위 대상 공격\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)|[CantIdentify]\nTargets randomly\nCoin Power +1 for every 7 [Burst] on target (max 2)
+770|120|[OnSucceedAttack] [Snare] 3 부여|[OnSucceedAttack] Inflict 3 [Snare]
+773|120|[OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% (최대 20%)|[OnSucceedAttack] Deal +1% damage for every [Laceration] on target (Max 20%)
+774|120|[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% (최대 20%)|[OnSucceedAttack] Deal +1% damage for every [Burst] on target (Max 20%)
+775|260|[CantIdentify]\n무작위 대상 공격\n<style="highlight">대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style="highlight">[BeforeAttack] 다음 턴에 [Agility] 2 얻음</style>|[CantIdentify]\nTargets randomly\n<style="highlight">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on target (max 2)\n<style="highlight">[BeforeAttack] Gain 2 [Agility] next turn</style>
+776|120|[OnSucceedAttack] [Snare] 3 부여<style="highlight"></style>|[OnSucceedAttack] Inflict 3 [Snare]<style="highlight"></style>
+779|120|[OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% <style="highlight">(최대 30%)</style>|[OnSucceedAttack] Deal +1% damage for every [Laceration] on target <style="highlight">(max 30%)</style>
+780|120|[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% <style="highlight">(최대 30%)</style>|[OnSucceedAttack] Deal +1% damage for every [Burst] on target <style="highlight">(max 30%)</style>
+781|340|[CantIdentify]\n무작위 대상 공격\n대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n<style="highlight">[BeforeAttack] 탐식 또는 색욕 공명이 4 이상이면 공격 가중치 +1</style>|[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n<style="highlight">[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>
+782|120|<style="highlight">[OnSucceedAttack] 다음 턴에 [TakeHpHealReduce] 3 부여</style>|<style="highlight">[OnSucceedAttack] Inflict 3 [TakeHpHealReduce] next turn</style>
+785|120|[OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% (최대 30%)<style="highlight"></style>|[OnSucceedAttack] Deal +1% damage for every [Laceration] on target (max 30%)<style="highlight"></style>
+786|120|[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% (최대 30%)<style="highlight"></style>|[OnSucceedAttack] Deal +1% damage for every [Burst] on target (max 30%)<style="highlight"></style>
+787|40|사냥의 시간|Time to Hunt
+788|210|[Burst], [Laceration] 피해로 적 또는 아군이 사망하면, 무작위 적 1명에게 [Snare] 2를 부여하고, 다음 턴에 [Agility] 1 얻음 (턴 당 1회)|If an enemy or an ally is killed due to [Burst] or [Laceration] damage, inflict 2 [Snare] against a random enemy, and gain 1 [Agility] next turn (once per turn)
+789|50|오혈읍루 [汚血泣淚]|Tears of the Tarnished Blood [汚血泣淚]
+791|60|오혈읍루 - 시[始]|Tears of the Tarnished Blood - Inception [始]
+792|40|응룡|Yinglong
+793|140|[CantDuel]\n대상 수비 스킬 무시\n이 스킬은 적에게 적중하지 않음\n[EndSkill] [DragonLance] 얻음|[CantDuel]\nIgnores the target's Defense Skill\nThis Skill does not hit an enemy\n[EndSkill] Gain [DragonLance]
+794|160|이 스킬의 최종 위력만큼 자신이 고정 피해를 받음\n- 이 피해로 흐트러지거나 체력이 1 미만으로 감소하지 않음|This unit takes fixed damage by this Skill's Final Power\n- This damage does not Stagger or reduce this unit's HP below 1

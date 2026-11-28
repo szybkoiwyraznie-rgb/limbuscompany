@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=mainui_personality_blocked].content": {
+      "pl": "Niedostępny",
+      "kr_sha256": "9b25a00b3cd6bb518a697613bc0bec901904dbb7b33c73b4d7b832d426be7d34",
+      "en_sha256": "0bd49426268bff8005ffd30d8c934f327745d40d179dac399ab0a2a623180bc0",
+      "origin": "ai"
+    },
+    "dataList[id=railway5_clear_info].content": {
+      "pl": "Podsumowanie ukończenia",
+      "kr_sha256": "75c40718df11fea39bb8d61e83dc663543dcf7d1adc4690e258cdbd1fc238e04",
+      "en_sha256": "d0321c201f4932178f044ff2b9b93666d10ab4ffef092809347af3385ee4fc7b",
+      "origin": "ai"
+    },
+    "dataList[id=railway5_clear_info_clear_turn_count].content": {
+      "pl": "Tury ukończenia",
+      "kr_sha256": "2a0b6393218cd15a1e7dfb2e8dccb25b7ef9003b3b546318315226c59b9fc007",
+      "en_sha256": "0464dafd7b399fd699da74eb2a435b148bb8cd91ebd9c996b13615e2ff595ae2",
+      "origin": "ai"
+    },
+    "dataList[id=railway5_clear_info_ego_stock].content": {
+      "pl": "Pozostałe zasoby",
+      "kr_sha256": "3491c24e9b74b5ba4174d54575bfbfe9f051e43e9bdadb95e08d28151fba0fc3",
+      "en_sha256": "8bab04da9dca25ae0b564450cc7104f2ce2a1f5dc969bc2f57b07135e2017027",
+      "origin": "ai"
+    },
+    "dataList[id=railway5_clear_info_node_ui].content": {
+      "pl": "Podsumowanie ukończenia",
+      "kr_sha256": "75c40718df11fea39bb8d61e83dc663543dcf7d1adc4690e258cdbd1fc238e04",
+      "en_sha256": "d0321c201f4932178f044ff2b9b93666d10ab4ffef092809347af3385ee4fc7b",
+      "origin": "ai"
+    },
+    "dataList[id=railway5_clear_info_selected_buffs].content": {
+      "pl": "Wybrane wzmocnienia",
+      "kr_sha256": "311ae0278c914834a96131ccf7c807dbf92b2a28b2508e8225189c38e880ce14",
+      "en_sha256": "3af9defc30fd5ab55538fc598d6922a4cbd0f8c8deeb5e82ab9b1525eb017803",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_ally_buff].content": {
+      "pl": "Wzmocnienia",
+      "kr_sha256": "7fc055e2f609cdd29ce8d864d0cd598ba17311157a1346955f101f7e28381ad8",
+      "en_sha256": "966dac794eade9c360a1b4dad2eb41b645c07a87b6dd4753efa344ee623b1716",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_banned_personality_exist].content": {
+      "pl": "W składzie znajduje się niedostępna Tożsamość.\n\n※ Na Odcinkach 3 i 4 Linii 6 Kolei Załamania nie można używać Tożsamości wybranych na bezpośrednio poprzedzającym odcinku.",
+      "kr_sha256": "194b22516a0186d63304e400c43e2d42ef37fafe36526a31a2ed6ca3d50056c5",
+      "en_sha256": "578c1263e4e8e644c0b8476f5c07cafe2a7d25d3767f4c79846e6d9c5054f359",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_enemy_buff].content": {
+      "pl": "Próby",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "9d3e674e1c363b5f13a043437f4049d6c13fce7acdb39a81df7116a8d3ad78d7",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_must_participate_all].content": {
+      "pl": "Nie wszyscy Grzesznicy zostali wystawieni.\n\n※ Aby wejść na Linię 5 Kolei Załamania, w składzie muszą znaleźć się wszyscy Grzesznicy.",
+      "kr_sha256": "033010f92e3ecd93b8919c64607a1e032a47236dc7a4ea210e1d3eb28f428e95",
+      "en_sha256": "a7f26ee1e54dc6de91779e26a5fd50d8ff31658e2246081e6f0d488439c3cf1e",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_section].content": {
+      "pl": "Odcinek {0}",
+      "kr_sha256": "83ed2ebb4497c979c5c7744fa0adf566a7a244175dff379944a31ee504b18423",
+      "en_sha256": "8cb6df47490030cbfece61734a70cadf9f69f611a586d91b25d6701de64fb844",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_select_buff_title].content": {
+      "pl": "Wybór wzmocnień",
+      "kr_sha256": "1512c0a2696cfadec2aeae44d19721fc97a9883f17b21f42b8ded55224f995b2",
+      "en_sha256": "bf0d52e717c75cc2fd2ff7de5cadef4e2382556adb4c17bffa550cb86668eb7c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_stage_level_warning].content": {
+      "pl": "※ Obecny śr. poziom Tożsamości: <color=#990000>{0}</color> (zalecany: <color=#990000>{1}</color>)",
+      "kr_sha256": "7ddc0e4eb051c6cbe63ff4bef06f18455f4886d7b1d93ee41f4a6ed5c088aa58",
+      "en_sha256": "1e5d12c103b2178b8de3ec866c2e265c937d334d61d8fa4dd1479d52153869ce",
+      "origin": "ai"
+    },
+    "dataList[id=railway_5_warning_enter_node_1].content": {
+      "pl": "Tożsamości biorące udział w walce na Odcinku 1 nie będą mogły wystąpić na Odcinku 2.\n\nRozpocząć Odcinek 1 w tym składzie?",
+      "kr_sha256": "1cb724b5dc98331ef84b2f4b8a27e727086b36b401b0a95c7ce60c521ee09711",
+      "en_sha256": "a05628c85e0146ccc56f8d814ea2d33618aa214706cc6172eb335e44bdba9a74",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_banner_reward_condition_1].content": {
+      "pl": "Zdobywane za ukończenie Kolei Załamania — Linii 5",
+      "kr_sha256": "44f35a380ed49b5dc974d18fb85e0290c785c0f957e3345bfd148b3065e15f99",
+      "en_sha256": "47e7c2ed6e525e806819cf637745a4fa99055a7cd226936f00dc3754b6a79ed0",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_banner_reward_condition_2].content": {
+      "pl": "Zdobywane za ukończenie Kolei Załamania — Linii 5 w maks. {0} łącznych turach przed końcem <color=#9a0634>Sezonu 5: Oblivion</color>",
+      "kr_sha256": "28089356acaf9a50fe845ff4eeeb22556a52a4af16053b4d7f8b8879df892946",
+      "en_sha256": "ed5a3ab81b063e2a7cdc17c97e9042535daf798c2b76d745b2fdb9460097efce",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_entrance_recommended_gacksung].content": {
+      "pl": "- E.G.O: Splot Nici poz. 4",
+      "kr_sha256": "acfd64c6e48791b5a62b177fb6e3560f6656f7e77d2abc2abf3ce0fbbbf7cb90",
+      "en_sha256": "edf27e92e93875c4aa75d21044fc254a127586109162950adc269a407029f1b3",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_entrance_recommended_level].content": {
+      "pl": "- Tożsamości: Synchronizacja poz. 4, poziom 50",
+      "kr_sha256": "2880ea59d2eee8ba6a650f01e4d1493d06023bd710215edd8c1193377ef337b4",
+      "en_sha256": "abdc7c6de131767a8db076cdf985220fb8285aba4cd83c9ab0908ed01d51f751",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_required_condition_to_enter_format].content": {
+      "pl": "※ Informacja\n\nAby wejść na etap {0}, każdy Grzesznik musi posiadać co najmniej 2 Tożsamości.",
+      "kr_sha256": "eb2c1e37d191110755b64717dec425203bd07115d238d1579a63dfb93e31847a",
+      "en_sha256": "f8fbcbfc639617b7a053a0ed7f03576e52524dcc4cd10702cee1ef599ca5d0a9",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_reward_condition_special_ticket].content": {
+      "pl": "Zdobywane za ukończenie Linii 5 w maks. 100 łącznych turach przed końcem Sezonu 5: Oblivion.",
+      "kr_sha256": "88e9ae3f73bb1faefbf14259afddf30f4ffab5d8132f8460d0130f1ff827cb04",
+      "en_sha256": "4631003a1c1dff6644212da4d6bd6c89b7a0dd4dcc212e988577384b0632c845",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_reward_condition_special_ticket_warning].content": {
+      "pl": "<color=#990000>※ Niemożliwe do zdobycia po zakończeniu Sezonu 5: Oblivion.</color>",
+      "kr_sha256": "62068aa62536288b89481064e5fe361255e867d813a7a3ce4a473f052ddf9873",
+      "en_sha256": "926ae92c05cccb85652c6e8dc2770e8c088d0e306fa28a5c32d08ea603b5838c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_reward_condition_warning].content": {
+      "pl": "※ W przypadku odbioru nagród po zakończeniu Sezonu 5: Oblivion zadziała przeniesienie sezonowe — liczba walut sezonowych (<color=#990000>Skrzyń Odłamków E.G.O oraz Imiennych Skrzyń Odłamków E.G.O</color>) zostanie zmniejszona o połowę.\n(Nieprzeniesione Skrzynie Odłamków E.G.O zostaną zamienione na Skrzynie Nici.)",
+      "kr_sha256": "4e96dd926f09feb7e1fadcefd3cfd5e89df15f615fa32a8483693c30f9c7fde5",
+      "en_sha256": "5f672ea2b10805d988abb48f75ed986fc17ebf8cab73afe47b9f3695a28d6fc2",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_5_statistics_button].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "d6a8c525cd47a79d05e3e588124ecdebdd6a51e8a471a75da38e2761a11984ed",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_advice_5_level_desc].content": {
+      "pl": "- Tożsamości: Synchronizacja poz. 4, poziom 50\n- E.G.O: Splot Nici poz. 4",
+      "kr_sha256": "8304b31cd70a152be2edeef0e59809655db357732cf0d7a5c246f86f3832cb0b",
+      "en_sha256": "12a40c0326e0a738979d80452abf36362c38818bd3628f16cd2ecbf9f0f5f364",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_advice_5_openCondition_desc].content": {
+      "pl": "Ukończ Canto VII",
+      "kr_sha256": "cc1416892a8bcec1e16370613cb46aa99c5db7234663f6c111c2e2f5790640d5",
+      "en_sha256": "de219777833c21627df691de5243dcf4f8c8f73467eb34b988e77624752cc38a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_end_date_until].content": {
+      "pl": "~ <font=\"ExcelsiorSans SDF\">{0}</font>",
+      "kr_sha256": "220e4bf564b11fd310a0c4900d60a57b4bdb41503b58a1b25f0a2418ca9f4045",
+      "en_sha256": "220e4bf564b11fd310a0c4900d60a57b4bdb41503b58a1b25f0a2418ca9f4045",
+      "origin": "ai"
+    }
+  }
+}

@@ -104,20 +104,130 @@ Polecenie właściciela:
   uczestnicy), spisy rozdziałów i scen, mówcy/miejsca tłumaczone raz.
 - **Czytanka** w „ludzkim” układzie: dokładna chronologia, nazwy Canto i etapów
   we właściwych miejscach, mówcy jak w SRW (`**Imię:** tekst`), bez
-  identyfikatorów w tekście.
+  identyfikatorów w tekście. Poprawki właściciela z 2026-11-25 po lekturze
+  próbki: pojedynczy `\n` między kwestiami w scenie (bez pustych linii między
+  wierszami dialogu), kwestie Dantego bez nawiasów `<…>` / `\<…>`, `"Me"` →
+  `"Ja"`, ciągi `■…` (cenzura / zaniki pamięci z gry) → `***`.
 - **Plik ID** (profile Identity): co naprawdę jest w danej Identity —
   statystyki, umiejętności, pasywki, opisy i kwestie w czytelnej formie.
 
 Szczegóły: [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md), [CZYTANKI.md](CZYTANKI.md).
 
+### D-08 · 2026-11-25 · Jeden kompletny pakiet dla tłumacza obejmujący 100% gry
+
+Polecenie właściciela (zamyka O-02): pakiet dla tłumacza zawiera **wszystkie
+teksty gry do przetłumaczenia** naraz, nie tylko fabułę — tj. `sceny.zip` (całe
+`StoryData/`) oraz `widoki.zip` (wszystkie pozostałe 1458 plików `Localize`:
+słownik bojowy, karty i kwestie Tożsamości połączone ze statystykami per
+Grzesznik, E.G.O i Dary E.G.O, Anomalie, wydarzenia i wrogowie, komentatorzy,
+piosenki, tryb RPG z Canto X, Notatki Dantego, Teatr, Lochy, UI, samouczki,
+wydarzenia sezonowe i sklep) z maksymalnym zachowaniem kontekstu z danych gry.
+Tłumacz sam wybiera kolejność i tempo pracy, odsyłając dowolne partie plików
+`.md` (zalecany start w `README.md`: słownik bojowy i słowniki mówców).
+
+### D-09 · 2026-11-25 · Nazwa języka `Polski` i konfiguracja `Lang/config.json`
+
+Polecenie właściciela (zamyka O-01) oraz uściślenie po pierwszym teście w grze
+(`E-010`, `v.1.119.1`):
+
+- Nazwa katalogu i wartość klucza `"lang"` w `LimbusCompany_Data/Lang/config.json`
+  to **`Polski`** (`LimbusCompany_Data/Lang/Polski/`).
+- Nazwa składa się wyłącznie ze znaków ASCII (brak ryzyka problemów ze
+  ścieżkami w Windows/Unity) i nie koliduje z cudzą paczką `Polish`.
+- Archiwum wynikowe (`tools/build_lang.py`) dostarcza pełny 5-kluczowy plik
+  `LimbusCompany_Data/Lang/config.json` (`"lang": "Polski"`, `"titleFont": ""`,
+  `"contextFont": ""`, `"samplingPointSize": 78`, `"padding": 5`).
+- Pierwszy test w grze (`E-010`) potwierdził, że przycisk **`Select Custom
+  Language`** na ekranie startowym (lewy dolny róg, obok `Clear all caches`)
+  pojawia się już przy jednym zainstalowanym języku i potwierdza poprawne
+  wykrycie katalogu `Lang/Polski/`. Jeśli przy pierwszej instalacji gra otworzy
+  się po angielsku, jednorazowe kliknięcie `Select Custom Language` → `Polski`
+  i restart gry aktywuje język na stałe dla wszystkich kolejnych uruchomień.
+
+### D-10 · 2026-11-25 · Niemodyfikowane czcionki SIL OFL 1.1 (`Pretendard-Regular.ttf` + `Mikodacs.otf`) w `assets/fonts/`
+
+Trzy kolejne testy w grze (`v.1.119.1`, build Steam `26652290` — `E-010`,
+`E-011`, `E-012`) rozstrzygnęły i zamknęły **O-03**:
+
+- W Limbus Company `v.1.119.1` własny język w `LimbusCompany_Data/Lang/Polski/`
+  **wymaga** obecności niepustych plików `.ttf`/`.otf` w podkatalogach
+  `Font/Context/` oraz `Font/Title/` — bez nich gra pomija paczkę językową nawet
+  po wybraniu `Polski` w `Select Custom Language` (`E-011`).
+- W `assets/fonts/` wersjonujemy w 100% **niemodyfikowane** pliki na licencji
+  **SIL Open Font License 1.1** odpowiadające krojom samej gry:
+  `Context/Pretendard-Regular.ttf` (`orioncactus/pretendard` v1.309) oraz
+  `Title/Mikodacs.otf` (v0.28 polskiego projektanta Grzegorza Luka,
+  `glukfonts.pl`). Brak modyfikacji gwarantuje pełną zgodność z zastrzeżonymi
+  nazwami `Pretendard` i `Mikodacs` (pkt 3 SIL OFL 1.1).
+- Test w grze (`E-012`) na `LCB_TEST_DROGI_Polski_26652290_v3.zip` potwierdził
+  natychmiastowe uruchomienie gry w języku `Polski` i czyste renderowanie
+  kompletu **18/18 polskich znaków diakrytycznych** (`ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`) bez
+  kwadratów ani artefaktów.
+
+### D-11 · 2026-11-26 · Tymczasowy przekład UI, technikaliów i kart meta przez agenty (`AI-tymczasowe`, `"origin": "ai"`) z pełnym priorytetem Tłumacza
+
+Polecenie właściciela (przeniesione z `szybkoiwyraznie-rgb/wherewindsmeet`):
+
+- Aby gra była szybko i wygodnie grywalna po polsku jeszcze przed ukończeniem
+  wszystkich działów `widoki.zip` przez ludzkiego Tłumacza, agenty Arena (ten
+  oraz równoległe sesje) mogą tworzyć **tymczasowy przekład `AI-tymczasowe`**
+  wyłącznie dla **interfejsu (UI), ustawień, samouczków, opisów technicznych
+  mechanik/statusów oraz kart meta/statystyk** (Tożsamości, umiejętności,
+  pasywki, E.G.O, Dary E.G.O, statystyki/skille wrogów, UI/zadania/przedmioty
+  trybu RPG).
+- **Ściśle wyłączone z `AI-tymczasowe` (100% zarezerwowane dla Tłumacza):**
+  cały `StoryData/*` (`sceny.zip`), kwestie głosowe (`PersonalityVoiceDlg/*`,
+  `EGOVoiceDig/*`, `BattleAnnouncerDlg/*`), piosenki (`BgmLyrics/*`), dymki
+  bojowe (`BattleSpeechBubbleDlg*`), dzienniki obserwacji (`AbnormalityGuides*`),
+  opisy lore w Notatkach Dantego (`StoryTheaterDanteNoteDetail*`, `Story-*`),
+  biogramy Grzeszników (`IntroduceCharacter.description`), zdarzenia i dialogi
+  Anomalii/Lochów (`AbEvents*`, `AbDlg*`, `ActionEvents*`) oraz dialogi i
+  narracja RPG Canto X (`rpg-loc-dialogue*`, `rpg-loc-narration*`).
+- **Oznaczenie pochodzenia i reguły priorytetu:**
+  - każdy wpis AI w `tlumaczenie/pliki/*.json` i `tlumaczenie/slowniki.json`
+    nosi jawne pole `"origin": "ai"` (`tools/import_zwrotki.py --ai`), a zwrotki
+    źródłowe agentów są wersjonowane w `zwrotki/ai/PXX_<slug>.md`;
+  - import `--ai` nigdy nie nadpisuje wpisu Tłumacza (`skipped_human_existing`),
+    natomiast zwrotka Tłumacza zawsze nadpisuje wpis AI (`replaced_ai`) i usuwa
+    znacznik `"origin": "ai"`;
+  - paczka do gry (`tools/build_lang.py`) domyślnie włącza wpisy Tłumacza oraz
+    `AI-tymczasowe` (z rozbiciem `human_leaves` / `ai_leaves` w `MANIFEST.json`
+    i opcją `--no-ai`);
+  - pakiety robocze i przyrostowe dla Tłumacza (`tools/build_package.py
+    --wypelnij-pl`, `tools/audit_update.py --delta-out`) **pomijają wpisy
+    `"origin": "ai"`**, zostawiając Tłumaczowi puste pola `PL:` (osobny pakiet
+    kontrolny samych wpisów AI buduje flaga `--tylko-ai`).
+- **Bramka startowa:** po przygotowaniu technicznym i podziale na `87` paczek
+  (`paczki_ai/MANIFEST.json`, `docs/PLAN_TLUMACZENIA_AI.md`) agenty czekają na
+  wyraźny sygnał właściciela przed rozpoczęciem tłumaczenia.
+
+### D-12 · 2026-11-25 · Wszystkie artefakty pracy w Gicie; poza Gitem tylko binaria gry
+
+Decyzja właściciela po utracie artefaktów paczki P59 (`/tmp` znika razem z
+piaskownicą, a ignorowane `local/` nie przechodzi przez odtworzenie sesji —
+oba mechanizmy skasowały pliki pracy):
+
+- **Jedyne pliki, których nie wolno trzymać w Git, to binarne pliki gry**
+  (bundle Unity, `*.assets`, pliki wykonywalne, czcionki gry, archiwa, zapisy,
+  zrzuty) oraz dane prywatne — jak w D-06 i [DATA_POLICY.md](DATA_POLICY.md).
+- **Wszystko inne** — rendery paczek, wyciągi AI (`parsed`/`work`/`krmatch`/
+  `fresh`), pliki `merged`/`filled`, skrypty builderów, `krmap`, indeksy,
+  teksty, bazy — trafia do commitowanego drzewa (katalog `local/` przestaje
+  być ignorowany) i jest zapisywana w checkpointach.
+- **Zakaz pracy w `/tmp`** dla czegokolwiek, co ma przetrwać turę; narzędzia
+  i pipeline AI zapisują pośrednie artefakty wyłącznie pod ścieżkami w repo.
+- Surowe ZIP-y od właściciela nadal żyją w ignorowanym `google_drive/`.
+
 ## Otwarte (decyduje właściciel; agent przygotowuje opcje)
+
+Brak otwartych decyzji — wszystkie `O-01` … `O-07` zostały rozstrzygnięte.
 
 | Nr | Pytanie | Kiedy potrzebne | Uwagi |
 |---|---|---|---|
-| O-01 | Nazwa języka w `config.json` / folderu (`Polski`? `PL`?) | przed pierwszą paczką testową | nazwa widoczna w grze; inna niż w istniejącej fanowskiej paczce `Polish`, by mogły współistnieć |
-| O-02 | Kolejność prac: interfejs najpierw czy fabuła (Prologue + Canto I) najpierw | przed pierwszym pakietem | sugestia agenta: mały pakiet UI (test drogi end-to-end), potem fabuła |
-| O-03 | Czcionki: czy domyślna czcionka gry wystarcza dla polskich znaków | przed testem w grze | właściciel: prawdopodobnie tak — **najpierw test bez własnych czcionek**; zewnętrzne (OFL) tylko awaryjnie; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
-| O-04 | Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX) | po lekturze próbek | układ wg D-07; po akceptacji zamrożony |
+| ~~O-01~~ | ~~Nazwa języka w `config.json` / folderu (`Polski`? `PL`?)~~ | — | **zamknięte 2026-11-25: `Polski`** → D-09 |
+| ~~O-02~~ | ~~Kolejność prac / zakres pierwszego pakietu~~ | — | **zamknięte 2026-11-25: od razu cała gra (`sceny.zip` + `widoki.zip`, 100% tekstów z kontekstem)** → D-08 |
+| ~~O-03~~ | ~~Czcionki i wyświetlanie polskich znaków w `Lang/Polski/`~~ | — | **zamknięte 2026-11-25: wymagane `Font/{Context,Title}` z niemodyfikowanymi czcionkami SIL OFL 1.1 (`Pretendard-Regular.ttf` + `Mikodacs.otf`); działanie i 18/18 polskich liter potwierdzone w grze (`E-012`)** → D-10 |
+| ~~O-04~~ | ~~Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX)~~ | — | **zamknięte 2026-11-25: układ zaakceptowany i zamrożony; ewentualne usterki zgłaszane na bieżąco w trakcie czytania** → D-07 |
 | ~~O-05~~ | ~~Czy tłumacz czyta po koreańsku~~ | — | **zamknięte 2026-11-25: tak** → D-05 potwierdzona |
 | ~~O-06~~ | ~~Czy teksty gry mają być w repozytorium (publicznym)~~ | — | **zamknięte 2026-11-25: tak, jako JSON/MD; binaria nigdy** → D-06 |
 | ~~O-07~~ | ~~Czy wolno pracować na publicznych lustrach~~ | — | **zamknięte 2026-11-25: tak** → D-06 |

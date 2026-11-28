@@ -1,0 +1,39 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "<Naprawdę będziesz tylko patrzył?>",
+      "kr_sha256": "8f24af23f0b28266300a154b8a5a1f783af8c1c49f684214134610a5219c7beb",
+      "en_sha256": "2433a73755abec32f02980fc04c54e5a4e9836c6ae6a1caf4377509ef5cc9d7a"
+    },
+    "dataList[id=1].content": {
+      "pl": "Nic panu nie da takie patrzenie, panie Kierowniku.",
+      "kr_sha256": "e2b0d539094e9c38027872dd1d41793d8bd68e3e4f73ae4c29fec4dfd398272a",
+      "en_sha256": "f6103a56287979a7ee6bd72d76fcced84596c3e10f54915e38609eab0cd0fba6"
+    },
+    "dataList[id=2].content": {
+      "pl": "Gdyby przewodnik, którego nikt nie słucha, jeszcze dobywał miecza, czyż nie byłoby to zuchwalstwem?",
+      "kr_sha256": "2ab686cc78ecfb8dcc528aa596f0d55c00a795984109bd021e91cad18c754c9b",
+      "en_sha256": "aa93c763930dd36aa909fb3be3c2a7aa32453d52021001999dbb90bc775aad6c"
+    },
+    "dataList[id=3].content": {
+      "pl": "Ach, wtrącę się ostatni raz: Osobliwością K Corp. są pociski HP, po których większość ran goi się w okamgnieniu.",
+      "kr_sha256": "493d3f1603b3f1e7b6bddda60ec9a89f8a1c306af96ab90764be51b3a1e28895",
+      "en_sha256": "c5926d7422a16de08bad93a00663a119d270051b72c4d937998b32f040239189"
+    },
+    "dataList[id=4].content": {
+      "pl": "Coś jak ta pańska zdolność, panie Kierowniku.",
+      "kr_sha256": "cc7b33eaaa726c0ba57dde06cf796d050e18fe6ee1211eb31ab1a276acdc9a16",
+      "en_sha256": "5478cd38ddb30df5e3d3bca02709e7bf6d885df9c1d8de34b5358097c2b4dfbf"
+    },
+    "dataList[id=5].content": {
+      "pl": "<Zaczekaj…!>",
+      "kr_sha256": "427acf2ac1ce06cac802e57466f445825cacf8c822fac0a67acc29595602ae29",
+      "en_sha256": "166b26f9fb3a14e7bac75573c8f3cd30646fb1f96f82017d7e37b6f41e6d7c30"
+    },
+    "dataList[id=6].content": {
+      "pl": "Moje wątłe wołanie zostało całkowicie zignorowane (pewnie nikt go nawet nie usłyszał), a strażnicy K Corp. krok po kroku zaciskali krąg.",
+      "kr_sha256": "e918882b56fc039e089c56cdec84b2443882ae16bb478ab0dd87915b039ef4ff",
+      "en_sha256": "77fbb804f0a1100511646a2592d7f9f359ddd56ffbcb9605187aea87a480c302"
+    }
+  }
+}

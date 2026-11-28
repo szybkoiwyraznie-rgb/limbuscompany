@@ -1,0 +1,196 @@
+{
+  "entries": {
+    "dataList[id=128901].desc": {
+      "pl": "na koniec tury, jeżeli jednostka nie otrzymała obrażeń w tej turze, zyskuje 2 [Agility] w następnej turze\njeżeli Szybkość jednostki jest wyższa niż Szybkość celu ataku, zadaje +5% obrażeń za każdą 1 różnicę Szybkości (maks. 50%)",
+      "kr_sha256": "1d3e51594c7b0a48a83920e60103b2a2893b437d1732e2785c0e43a11f4d7da4",
+      "en_sha256": "c24813eef6a59ccefe8394b34a5bbf3a0a303509a103bfbc059c3a99de30cb6b",
+      "origin": "ai"
+    },
+    "dataList[id=128901].name": {
+      "pl": "Diversion",
+      "kr_sha256": "f140ee233cca4fdcfcf69ca9fe0f2bd2c245c44fc1fdcf07202cdc2663885177",
+      "en_sha256": "cb09c599618476f24605b2844680f290599d1cf61c5a91140c28b266e8786a21",
+      "origin": "ai"
+    },
+    "dataList[id=128902].desc": {
+      "pl": "przy trafieniu Atakiem Jednostronnym, nakłada 1 [NervousImpairment]",
+      "kr_sha256": "269577410018c6d972f4b72637ea4595521dbc3781a7ee13f1a5f2371cc1917e",
+      "en_sha256": "b9a7e11c53ff80d9a23f539d28c74d874bb4ca4e062dfd48baff37941fa1e012",
+      "origin": "ai"
+    },
+    "dataList[id=128902].name": {
+      "pl": "Dipped Blade",
+      "kr_sha256": "29fa645af9205c7d431ee2ae243febf7cc689b3e43a0dc27ccb2677d9987027e",
+      "en_sha256": "4ac777d270744048324781cdd68e18e60b7785c93bca042c2d40a21a5305c6e0",
+      "origin": "ai"
+    },
+    "dataList[id=128903].desc": {
+      "pl": "na początku tury, przywraca 3 SP za każdego ocalałego sojusznika",
+      "kr_sha256": "979d2a374356e1a45a58e3beccd728a6d2fcbb18dc94ffb52517203fce4e1735",
+      "en_sha256": "fd22bb520a5f4079d2dc3fe821f8cd0de2678ccdbdb7322942b8d22958f271e4",
+      "origin": "ai"
+    },
+    "dataList[id=128903].name": {
+      "pl": "Abyssal Worship",
+      "kr_sha256": "48a0cb2f82c4e34712fef8e9bc06b8bbe62886b2eb93a7483c582bcd02c8d05a",
+      "en_sha256": "2254bfa9af8c451f4d635777201b83a718f3bd0997fb9063fe0fca70dd029a1c",
+      "origin": "ai"
+    },
+    "dataList[id=9102701].desc": {
+      "pl": "nakłada o 1 więcej Siły [Sinking] przy trafieniu celów bez [Sinking]",
+      "kr_sha256": "0bbb9223ba4daa8e745f0b3c743c756d105342be929f048624dfe0333ce7b5af",
+      "en_sha256": "13416337c7e33f7494b6e5d1eced0f003f8ac69fd439bc76f3aa3f9ddd41d9d1",
+      "origin": "ai"
+    },
+    "dataList[id=9102701].name": {
+      "pl": "Abyssal Horror",
+      "kr_sha256": "4838bdb71fed3f000f18259a92d0572215afa7072fe49f953d1bf1f4e681dc2f",
+      "en_sha256": "bfc1980ae2ade7e558dd4658c5882deccb6e21884e3d437962e2225b28110584",
+      "origin": "ai"
+    },
+    "dataList[id=9102801].desc": {
+      "pl": "nakłada o 2 więcej Siły [Sinking] przy trafieniu celów bez [Sinking]",
+      "kr_sha256": "860864dd576011ecf82553e0f19d37132a254704eac5d4a0c4186639a2b5f94b",
+      "en_sha256": "942324227c2180f064b4de6d825b80c600706625979309818b9e73a7fc575d6e",
+      "origin": "ai"
+    },
+    "dataList[id=9102801].name": {
+      "pl": "Abyssal Horror",
+      "kr_sha256": "4838bdb71fed3f000f18259a92d0572215afa7072fe49f953d1bf1f4e681dc2f",
+      "en_sha256": "bfc1980ae2ade7e558dd4658c5882deccb6e21884e3d437962e2225b28110584",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].desc": {
+      "pl": "gdy jednostka znajduje się na [NetherseaBrandUnit]: zyskuje Moc Starcia +2, a nakładane przy trafieniu [NervousImpairment] są podwojone",
+      "kr_sha256": "1e608b9d2afd4f8bbeca697d2892a3fc12f53498dbd61a2b01a976eaf9b4fcf4",
+      "en_sha256": "8573ffa51616c2e527e5af7d024d4fbf6112a15a2280454fd3923c0ed1f6c9f5",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].name": {
+      "pl": "Nethersea Brand Utopia",
+      "kr_sha256": "bc2dbbd773c34e99599d2f39d87913ad86d2f63856a9e65cb6c9f713f415b0eb",
+      "en_sha256": "cae58f7325ea08130daa225b00598d30cbd4611b9e0a558326160fcc5df8867f",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].desc": {
+      "pl": "w stanie [WaitingforCommandMod] nie używa Umiejętności ataku, dopóki nie otrzyma obrażeń.\n\ngdy jednostka otrzyma obrażenia w stanie [WaitingforCommandMod], przechodzi w stan [ParticipationMod] i od następnej tury używa Umiejętności ataku",
+      "kr_sha256": "adbe60efe3dcc9b69a2503135420a7e38e114d2534388be557b8e30be5207056",
+      "en_sha256": "91a2f49b715eaf227c725d40b32725e09e17dd20255bfb7c5b21d58bdb2f9ab9",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].name": {
+      "pl": "Standby",
+      "kr_sha256": "9173285132e3a18a5c7375081918586dc257ed3222c9985abe498dc16d2a68b6",
+      "en_sha256": "fcd589c1bc20cd2df52fad1f802dd6c09654fd29048b78260567223fa2b8ef69",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].desc": {
+      "pl": "na początku tury w stanie [ParticipationMod]:\n- nakłada 3 [NervousImpairment] wszystkim wrogom z mniej niż 15 [NervousImpairment]\n- Minimalna i Maksymalna Szybkość +3\nzyskuje 1 [AttackUp] za każde 10% brakującego HP (maks. 8)\n\nna koniec tury w stanie [ParticipationMod], otrzymuje stałe obrażenia równe 10% HP",
+      "kr_sha256": "d118656d39c4dbc577476286b37dbc66cf33e683c76797ff6b6c7a6b24366223",
+      "en_sha256": "03b2a6c16b5c31b2cc20727a7faf9fdde99c9ef34343f770672a5ce35ca0421f",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].name": {
+      "pl": "Combat-Ready",
+      "kr_sha256": "48d2c6bfdd0d2f2c5c76cd8c072d08aaf5774cac45e6f6c3094a8ead2f9aa360",
+      "en_sha256": "34620ff10a55a5d7e03404e31bf7c8aefc32f0ea5650a3ebca495a659b685cd4",
+      "origin": "ai"
+    },
+    "dataList[id=9102903].desc": {
+      "pl": "podczas Starcia z celem albo przy trafieniu Atakiem Jednostronnym, nakłada 2 [NervousImpairment] na cel\n- jeżeli jednostka znajduje się na [NetherseaBrandUnit], nakłada dodatkowo 1 [NervousImpairment]",
+      "kr_sha256": "ebee01f9273e3058ef20e7c9482a56177d2af44e17cc094cc775858a047e983a",
+      "en_sha256": "dabc46c74ebd533b1d83efdfbef15473039dbb10271116f30c1924b43d6acbbe",
+      "origin": "ai"
+    },
+    "dataList[id=9102903].name": {
+      "pl": "Survival Reflexes",
+      "kr_sha256": "3fc52ed656e43bd30cd810587dfc7aa6679b0b86a6ea9c732085ff51a5a8787a",
+      "en_sha256": "452e5d924fa7e7788ebf319f410a90bb0400bc91e8a2625ba7a1859e2bc9b75e",
+      "origin": "ai"
+    },
+    "dataList[id=9102904].desc": {
+      "pl": "gdy jednostka znajduje się na [NetherseaBrandUnit]: zyskuje Moc Końcowa +2 i Moc Monety +2, a nakładane przy trafieniu [NervousImpairment] są podwojone",
+      "kr_sha256": "b7710def1c046b02a592ca2e5fbf1dbe22f70e9703d52e64e691cd42ee2b8d41",
+      "en_sha256": "0a2eb8fa8dfee1838cc1de9e302e953d5c031dcc06efd654998856739d3f332d",
+      "origin": "ai"
+    },
+    "dataList[id=9102904].name": {
+      "pl": "Nethersea Brand Utopia",
+      "kr_sha256": "bc2dbbd773c34e99599d2f39d87913ad86d2f63856a9e65cb6c9f713f415b0eb",
+      "en_sha256": "cae58f7325ea08130daa225b00598d30cbd4611b9e0a558326160fcc5df8867f",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].desc": {
+      "pl": "-0.5 do wszystkich Odporności Afiniczności",
+      "kr_sha256": "40fe98ce3c97f0353007db31516be1f39597c5a123cc4e79657c046bbbe0b5ee",
+      "en_sha256": "a5888cca84f1f9087964e33b1d2542de98f65658c9356c7815f96afb8b2d20f6",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].name": {
+      "pl": "In-depth Cognition",
+      "kr_sha256": "fb35b9892e08eef1c09727c60da5aa8396cf543369799fba2eb51d47347122be",
+      "en_sha256": "3000aa6d7b18a7847007ee8d484a53fdd1b4efc9941a4a1d99db37a61f333d5e",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].desc": {
+      "pl": "po śmierci, tworzy [NetherseaBrandUnit] na terenie jednostek sojuszniczych w następnej turze.",
+      "kr_sha256": "5d20f279e3e31209a00b5c57c55bbf889dd26a350352326efa7477810a30b7b7",
+      "en_sha256": "da0b88b5dd1f42196a9485550da7e63f2eaaa887c18e4b978855baacc09e1ab4",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].name": {
+      "pl": "Propagatory Instinct",
+      "kr_sha256": "f581bade39956b6a3015aacd90b8ae525ff6937928deae4855a9d3cfc52992da",
+      "en_sha256": "3be89c048eefe61664b59f02b0f1483710c2e9336444689971a8c96ee6354ff9",
+      "origin": "ai"
+    },
+    "dataList[id=9103003].desc": {
+      "pl": "gdy jednostka znajduje się na [NetherseaBrandUnit]: zyskuje Moc Końcowa +1 i Moc Monety +1, a nakładane przy trafieniu [NervousImpairment] są podwojone",
+      "kr_sha256": "9b7988738943416c12aa308e5069a7235b57fe93a8d054202872129f04c7bf00",
+      "en_sha256": "a543f3f8efc98657a5574d5da11e23e3f07bb67cf4c47c1aab3ae29d337053dd",
+      "origin": "ai"
+    },
+    "dataList[id=9103003].name": {
+      "pl": "Nethersea Brand Utopia",
+      "kr_sha256": "bc2dbbd773c34e99599d2f39d87913ad86d2f63856a9e65cb6c9f713f415b0eb",
+      "en_sha256": "cae58f7325ea08130daa225b00598d30cbd4611b9e0a558326160fcc5df8867f",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].desc": {
+      "pl": "Umiejętności ataku wyznaczają najbliższego wroga jako główny cel i wybierają cele drugorzędne od przodu\n\n\ngdy jednostka znajduje się na [NetherseaBrandUnit]...\n- wyznacza najdalszego wroga jako cel, a wszystkie Monety Umiejętności zmieniają się w [SuperCoin]y\n- zyskuje Moc Końcowa +2 i Moc Monety +2; nakładane przy trafieniu [NervousImpairment] są podwojone",
+      "kr_sha256": "dcb897a628ca7b1949a197aff98853459fba41141dc932f5b3d1f399157bc24d",
+      "en_sha256": "6335ae3bcdfb7b41e63eb1c034898bec01872525158d5c0b5ae8c14b6af737e6",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].name": {
+      "pl": "Nethersea Brand Utopia",
+      "kr_sha256": "bc2dbbd773c34e99599d2f39d87913ad86d2f63856a9e65cb6c9f713f415b0eb",
+      "en_sha256": "cae58f7325ea08130daa225b00598d30cbd4611b9e0a558326160fcc5df8867f",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].summary": {
+      "pl": "gdy jednostka znajduje się na [NetherseaBrandUnit], Umiejętności są wzmocnione",
+      "kr_sha256": "5c38a927fff076ee34935fd6f1036b36e05949f699a2d688a390e75051ee6522",
+      "en_sha256": "a38e9894c1edcd4083d3b1fb1531a2d3344d1ea64d63c6356a3401fc1d34d5ac",
+      "origin": "ai"
+    },
+    "dataList[id=9103201].desc": {
+      "pl": "Szybkość jednostki jest stała: 1. pojawia się w stanie nieaktywnym w walkach, w których może wystąpić [NetherseaBrandUnit].\n\ngdy [NetherseaBrandUnit] pojawi się na polu walki, jednostka staje się aktywna i podatna na obrażenia.\n- gdy HP jednostki spadnie do 1 od obrażeń, uruchamia Hand of the Saint i usuwa całe [NetherseaBrandUnit] z pola walki. po uruchomieniu tego efektu, Hand of the Saint jest nieaktywna przez następną turę.\n- jednostka otrzymuje obrażenia tylko od Umiejętności celujących głównie w tę jednostkę i nie otrzymuje żadnych innych obrażeń.\n- gdy przechodzi w stan nieaktywny, usuwa wszystkie swoje efekty i przywraca HP do maksimum",
+      "kr_sha256": "f0c5c89942c4d421c74036419683d1fb53c6aa5a490fcb1aff843c7c73d98826",
+      "en_sha256": "e2f57c24a119e09da0a644cf101f14955a73aa489e1a8473d201dcdbc4833f8b",
+      "origin": "ai"
+    },
+    "dataList[id=9103201].name": {
+      "pl": "Debris Removal",
+      "kr_sha256": "adc90855e5df2f1a1a9c04aeb38c9e64f0192c0d2f8b54d1b7f866b15173aed2",
+      "en_sha256": "2d78bcc416b37eab1b1fc397ab34e37bc943d903e5afcf5c1acf2ac2fabf4e1d",
+      "origin": "ai"
+    },
+    "dataList[id=9103201].summary": {
+      "pl": "usuwa całe [NetherseaBrandUnit] z pola walki",
+      "kr_sha256": "a80775ed402224e01b8382ae8e80b83d815879234b55de5bf3808cdc3b3aa207",
+      "en_sha256": "f3c11e80523e9a8f06be55b00ee35deb9fe90e3a13a1192a93376c376f46aced",
+      "origin": "ai"
+    }
+  }
+}

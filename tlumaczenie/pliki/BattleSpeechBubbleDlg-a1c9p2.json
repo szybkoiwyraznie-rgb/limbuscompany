@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=9SV-BAT1-01].dlg": {
+      "pl": "To nie potrwa długo.",
+      "kr_sha256": "adbf79105aae83eaf5f103a04aee7b8190b2f5b1ff38968fe1e0d3715e261612",
+      "en_sha256": "742d2bc8e1e4349c50dda0fad146c60170c30e0c683b1c966b55db6c38eca58d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-02].dlg": {
+      "pl": "Czas rozstrzygnąć ten układ.",
+      "kr_sha256": "fec41b6df38788715d7c24ebdc965ccfe64d060724016bcbe05baee5823c6289",
+      "en_sha256": "8be6f21c1440b75a4b6d8b04a46df8548ae2742e50d0ce20a99cc8c9b3be0d32",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-04_2-01].dlg": {
+      "pl": "Gungnir.",
+      "kr_sha256": "3ce413e8cbdd46e43f56840ffd7eedf6aa67352615d3ef43b68a3fc993fd3c77",
+      "en_sha256": "5084f28815852ed58fc5251d0e4fbdfd88bed7f5d4fe3da69feb59e068792b07",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-04_2-02].dlg": {
+      "pl": "Gungnir.",
+      "kr_sha256": "3ce413e8cbdd46e43f56840ffd7eedf6aa67352615d3ef43b68a3fc993fd3c77",
+      "en_sha256": "5084f28815852ed58fc5251d0e4fbdfd88bed7f5d4fe3da69feb59e068792b07",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-04_2].dlg": {
+      "pl": "Gungnir.",
+      "kr_sha256": "3ce413e8cbdd46e43f56840ffd7eedf6aa67352615d3ef43b68a3fc993fd3c77",
+      "en_sha256": "5084f28815852ed58fc5251d0e4fbdfd88bed7f5d4fe3da69feb59e068792b07",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-05_1-01].dlg": {
+      "pl": "Pozwólcie, że wybiję wam furtkę.",
+      "kr_sha256": "e4ac883c695f3239e61c033ec515b8d6050c31487801d5f0ec94c1e1db22213b",
+      "en_sha256": "aee445bde62a4135faf34a183e1495c974d9371718f8a6276aadc151740d8a36",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-05_1].dlg": {
+      "pl": "Pozwólcie, że wybiję wam furtkę.",
+      "kr_sha256": "e4ac883c695f3239e61c033ec515b8d6050c31487801d5f0ec94c1e1db22213b",
+      "en_sha256": "aee445bde62a4135faf34a183e1495c974d9371718f8a6276aadc151740d8a36",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-05_2].dlg": {
+      "pl": "Teraz.",
+      "kr_sha256": "84c5ada3b4e9eec6e30eb83e49430fbf813542913bae0745c02dd3d654eb9909",
+      "en_sha256": "ad679280d5d454098660f053af92ae712ffaa21e89eea6520a87039069b4976f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-06_2-01].dlg": {
+      "pl": "Powróć do mnie.",
+      "kr_sha256": "d87ce948c27a1d73e7d132508c59c904c07b0652efcebe9597946c6083e3574d",
+      "en_sha256": "f52a63b0de8ed0dfc0f59252c53551764eaff183904e130579e8d44884c23904",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-06_2-02].dlg": {
+      "pl": "Powróć do mnie.",
+      "kr_sha256": "d87ce948c27a1d73e7d132508c59c904c07b0652efcebe9597946c6083e3574d",
+      "en_sha256": "f52a63b0de8ed0dfc0f59252c53551764eaff183904e130579e8d44884c23904",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-06_2-03].dlg": {
+      "pl": "Powróć do mnie.",
+      "kr_sha256": "d87ce948c27a1d73e7d132508c59c904c07b0652efcebe9597946c6083e3574d",
+      "en_sha256": "f52a63b0de8ed0dfc0f59252c53551764eaff183904e130579e8d44884c23904",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-06_2].dlg": {
+      "pl": "Powróć do mnie.",
+      "kr_sha256": "d87ce948c27a1d73e7d132508c59c904c07b0652efcebe9597946c6083e3574d",
+      "en_sha256": "f52a63b0de8ed0dfc0f59252c53551764eaff183904e130579e8d44884c23904",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-08].dlg": {
+      "pl": "Tu przejmuję stery.",
+      "kr_sha256": "a369f6a7a7d59f8c4d177c0b49be4e95c6888ebf2ff063c4b0b1a423f69867ac",
+      "en_sha256": "800547bb5fd50dd55ac980a806610d2dac0ee7924595a29822d81ec6657e2acf",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-09].dlg": {
+      "pl": "Może odsuniecie się na moment?",
+      "kr_sha256": "c3806c88e1b5772df40ab90090098990390518ef01e32667f29b8ce0cdecc5e1",
+      "en_sha256": "050c73952b01c510acbc2762e7bb0b208a96611080b72cdc7fd95e6dd97e3ffa",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-10].dlg": {
+      "pl": "Wykonywałem jedynie swoje obowiązki.",
+      "kr_sha256": "6f190e9579a6a569175694e2a968266e30837fdc427e6c29038d636e05ab91a4",
+      "en_sha256": "90255ac9d68c472fa3ebcf3d631d8d252e0eeead1d0baf45ce5123de7883a18f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-01].dlg": {
+      "pl": "R-rodzina mówiła, że powinniśmy sobie w-wzajemnie pomagać.",
+      "kr_sha256": "471b2584a23bcf0c85bbc078d0da73e9b75afa1ab29ca4b97d930080b6373c60",
+      "en_sha256": "a275f9dd22ffb2f1d7c2445126d891264d94b712fee2619ef453aa16763e8b0c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-02].dlg": {
+      "pl": "Prokura. Z-zaczynam.",
+      "kr_sha256": "1b36d41f4f27230d7f79cffc805b0cef7679530e88ed20d2e2f8943e456e7c16",
+      "en_sha256": "4b6c2b9c44b507aa5b6184ed254f3962e860fbeb5fe5eba78ac6a79a1123a1e5",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-03].dlg": {
+      "pl": "Rozstrzygnąć. Odblokować. Przewyższyć.",
+      "kr_sha256": "a3569ea1db2408e8f47a9e5233bb6d9d3727c8c3cfeb13a231cb9204c43091e1",
+      "en_sha256": "6f8edd25c0eb16152762753fb30828122a55e6e4498e756c21083845d7219872",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-04].dlg": {
+      "pl": "Z-zlecenia... n-nie da się... sprzeciwić.",
+      "kr_sha256": "6d4e6614c769803458009c7cb6fb8b32780f5704c01a677a0f0b164678fa2949",
+      "en_sha256": "8abdd97a3632f6951313f6aa3443af7f9c0ba41a282127d761e9dc130371089a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-05].dlg": {
+      "pl": "<i><color=#50acff>(bip)</color></i> J-ja też tak myślę. <i><color=#50acff>(bip)</color></i>",
+      "kr_sha256": "0c50a88b9c7fbd772c769bbc2099c4b37f32a7266207c908e6b1be658f56d14f",
+      "en_sha256": "071185cf046bb78dde38c18860cd943af330462797d1626c805d25bd845cf226",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-06].dlg": {
+      "pl": "<i><color=#50acff>(bip)</color></i> „Gwiazda\", „Spojrzenie\", „Zwierciadło\", „Robactwa\"... „Zahartowany Miecz\". Ch-chyba się zgadza! Z-zlecenie wskazuje na was.",
+      "kr_sha256": "9af558f61fe6b1d9152378799bde3aa71fc3b1487e5da688611f1c138f60a7f6",
+      "en_sha256": "7a7250f2ccf0518a7925f3607494888fee032bd7fa13130cb3773bb5e75ed794",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-07].dlg": {
+      "pl": "P-proszę, nie myślcie o mnie źle.",
+      "kr_sha256": "6144e982521bf340666ecd418acfc1d89423917d196548d3c5544d107097f54d",
+      "en_sha256": "a7ec40ebfa3591513b586461ca3b351658fc46480a31055e5c284d787d0b4261",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-11].dlg": {
+      "pl": "<i><color=#50acff>(bip)</color></i> Zapisane. Absolutne.",
+      "kr_sha256": "fe756953afe335a0d7b21bdf48a647b73fbe5548f49d945f037b53c85f641fb2",
+      "en_sha256": "cf6400089b96b415a76402aaa2b17f5059f64061f5806204023eb07b3ce076da",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-12].dlg": {
+      "pl": "N-nasze losy s-są już rozstrzygnięte!",
+      "kr_sha256": "6ea9b3a4a1635d4af9df9968f9cbac8660a35aa75e53497fc3073e38cf797767",
+      "en_sha256": "b566fc22dbf8d7f0308cd1b49ed17d62679489d7bb21828f6c783dba4ff1f45a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-13-1].dlg": {
+      "pl": "<i><color=#50acff>(bip)</color></i> M-muszę iść naprzód. P-podziążać za cieniem...!",
+      "kr_sha256": "548b76e331c989cf37cbcb150683f9f313f72ccedea10c05d25773bf5b7f2374",
+      "en_sha256": "2de8a83b1c3be5202ec9da77102b364c5e075ad54506443b52f6f8cdf57335ec",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-13-2].dlg": {
+      "pl": "Idę za cieniem... ku mojej immanentnej tęsknocie, z której rodzi się ten Mang.",
+      "kr_sha256": "96c0690a7d01a8713f3b3301ab8452d3d68f4d9094f53d5028902bae567e8f2c",
+      "en_sha256": "e27bb22e658cf4e9876099a97284dc7f9d931685bfcf2c431f52b93bc5b52e1e",
+      "origin": "ai"
+    }
+  }
+}

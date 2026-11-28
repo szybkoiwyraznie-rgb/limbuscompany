@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=1001].name": {
+      "pl": "Linia 1",
+      "kr_sha256": "38b37e6b57637f8bab894fb391e3d3d684e60ec307be4a4cab4c2647b38f533a",
+      "en_sha256": "f65eb5539b742c495786c95d8c4f330bcd466a441b05d59b9e8693a970c311af",
+      "origin": "ai"
+    },
+    "dataList[id=1002].name": {
+      "pl": "Linia 2",
+      "kr_sha256": "a24ff449a09d89443f272c5495e8991dac973d0d61a3427821477ccd5ddbb62d",
+      "en_sha256": "3e11232aa71497133e6e6cb99f8a85404eea60b54036a60fb5221f73dbf2f92a",
+      "origin": "ai"
+    },
+    "dataList[id=1].name": {
+      "pl": "Linia 1",
+      "kr_sha256": "38b37e6b57637f8bab894fb391e3d3d684e60ec307be4a4cab4c2647b38f533a",
+      "en_sha256": "f65eb5539b742c495786c95d8c4f330bcd466a441b05d59b9e8693a970c311af",
+      "origin": "ai"
+    },
+    "dataList[id=2].name": {
+      "pl": "Linia 2",
+      "kr_sha256": "a24ff449a09d89443f272c5495e8991dac973d0d61a3427821477ccd5ddbb62d",
+      "en_sha256": "3e11232aa71497133e6e6cb99f8a85404eea60b54036a60fb5221f73dbf2f92a",
+      "origin": "ai"
+    },
+    "dataList[id=3].name": {
+      "pl": "Linia 3",
+      "kr_sha256": "9922abe124214e2b2c254ab6bb0ac642f21a1ab812030dd248b4be63cf60b508",
+      "en_sha256": "19691186b5050b0bef9802e1f03522db9fd696eb8d0ca57c239074a7aaa79fd8",
+      "origin": "ai"
+    },
+    "dataList[id=4].longName": {
+      "pl": "Linia 4",
+      "kr_sha256": "af0a6d923684c65fe964d1a63523315b0c26005b66c813ae69e38fef5fb23385",
+      "en_sha256": "4b58da959abe64e96b772a175ae74671d3c5d35aaa3ebe3a3e0af7981a248724",
+      "origin": "ai"
+    },
+    "dataList[id=4].name": {
+      "pl": "Linia 4",
+      "kr_sha256": "af0a6d923684c65fe964d1a63523315b0c26005b66c813ae69e38fef5fb23385",
+      "en_sha256": "4b58da959abe64e96b772a175ae74671d3c5d35aaa3ebe3a3e0af7981a248724",
+      "origin": "ai"
+    },
+    "dataList[id=5].longName": {
+      "pl": "Linia 5",
+      "kr_sha256": "9a27fb3e2e4b2473320a76b1675583ba2a0be4ca023df0c6dc55d944d3a4da17",
+      "en_sha256": "eb443fa7b54e15493242164bfab82311384beea9021de59e3af7f86266067180",
+      "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Linia 5",
+      "kr_sha256": "9a27fb3e2e4b2473320a76b1675583ba2a0be4ca023df0c6dc55d944d3a4da17",
+      "en_sha256": "eb443fa7b54e15493242164bfab82311384beea9021de59e3af7f86266067180",
+      "origin": "ai"
+    },
+    "dataList[id=6].name": {
+      "pl": "Linia 6",
+      "kr_sha256": "4b20a67585ed3b237f233d63342b19ded3625c39368bc33adc0ed7f6069dc6b2",
+      "en_sha256": "de1ea832ccf6a722aeed8b89ee1571891d3687fe57e089d2ac2673fc2e8b1053",
+      "origin": "ai"
+    }
+  }
+}

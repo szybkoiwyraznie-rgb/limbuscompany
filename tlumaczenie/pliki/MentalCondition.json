@@ -1,0 +1,328 @@
+{
+  "entries": {
+    "dataList[id=OnDieAllyAsLevelRatio].add": {
+      "pl": "Gdy polegnie sojusznik o poziomie równym lub wyższym od tej jednostki,\nrośnie zależnie od różnicy poziomów\n<size=95%>(Bazowo {0}, +{0} za każdy poziom różnicy)</size>",
+      "kr_sha256": "7fd31765d1ea0f67dd4632358739eb315ce1de98d647cfa4d5d83fba060b576f",
+      "en_sha256": "66563bab6af9f6c1e60986601839db5d3cf123e157db6e6a28141869c9a7f524",
+      "origin": "ai"
+    },
+    "dataList[id=OnDieAllyAsLevelRatio].min": {
+      "pl": "Gdy polegnie sojusznik o poziomie równym lub wyższym od tej jednostki,\nspada zależnie od różnicy poziomów\n<size=95%>(Bazowo {0}, +{0} za każdy poziom różnicy)</size>",
+      "kr_sha256": "1c871113f5856de1b3b924d7ccd4a52e13e8854351e5221ab9735132b73f7f5f",
+      "en_sha256": "45a8d924e9495d2971dd5c9bbf819e8570296f10578d18bff5cf0bc0354f1106",
+      "origin": "ai"
+    },
+    "dataList[id=OnDieAllyMp].add": {
+      "pl": "Gdy polegnie sojusznik, rośnie o {0} niezależnie od jego poziomu",
+      "kr_sha256": "7119267fa4d151695e1c134bbd856117428687c4bb48645a165015e19cc926f1",
+      "en_sha256": "de128ff4f80bcc97ced08e0077d14e7944b355f85fb0d7b186861f84a0ea9dbd",
+      "origin": "ai"
+    },
+    "dataList[id=OnDieAllyMp].min": {
+      "pl": "Gdy polegnie sojusznik, spada o {0} niezależnie od jego poziomu",
+      "kr_sha256": "8624573c5df822a19e529733c0741a9bf5710c4f43f6ba59d2e16bcd62141f29",
+      "en_sha256": "6f128153e107ad577792de1e8ea5b76991b1ab08a868c84615299644afb89f32",
+      "origin": "ai"
+    },
+    "dataList[id=OnDieBladeLineageAlly].add": {
+      "pl": "Gdy polegnie sojusznik z Rodu Ostrza, zyskaj {0} niezależnie od jego poziomu",
+      "kr_sha256": "d1fd9b61424723d9337c0c8de9f138425a2157280a2e21989dc4262b71a34a3a",
+      "en_sha256": "9a769ac6e7f4b794168bfe893b32829903dca05e8a8e70678f9dc2f0a9d81e0f",
+      "origin": "ai"
+    },
+    "dataList[id=OnDieBladeLineageAlly].min": {
+      "pl": "Gdy polegnie sojusznik z Rodu Ostrza, trać {0} niezależnie od jego poziomu",
+      "kr_sha256": "59b22b7e9ed52b9d41980270fb91df9c173d842ca435071d59292df40700099a",
+      "en_sha256": "1ee70c04d7b83e9508df40135ac4b3732dcbf7a4529e81930db722440fe57d4e",
+      "origin": "ai"
+    },
+    "dataList[id=OnEndAttackMp].add": {
+      "pl": "Rośnie o {0} na koniec ataku",
+      "kr_sha256": "a1306622d191ae5d92f0e959b237b88d5699e755636c86f8c95286bf0cfd8a9e",
+      "en_sha256": "3daa18601f6302eb7e09dcf4b7666cbd8e450ed6758347e51dc0b97934a7ecd6",
+      "origin": "ai"
+    },
+    "dataList[id=OnEndAttackMp].min": {
+      "pl": "Spada o {0} na koniec ataku",
+      "kr_sha256": "4d66ce49a7b5d37b211bbdac1568f63db76f4c09c18326cedab07e7135bbcbfa",
+      "en_sha256": "e553191966dd1cdd2322a522d8c2f2a9e01b38543cbd5949c646bec075d3a63f",
+      "origin": "ai"
+    },
+    "dataList[id=OnGiveNegativeBuffStackToEnemy].add": {
+      "pl": "Rośnie o {1} za każde nałożenie wrogowi {0} Siły efektu negatywnego",
+      "kr_sha256": "f1431ad466e13610e1fe6a757f8ebaa639dcf6943ae4b34f30b1649a09b11f7f",
+      "en_sha256": "7e8e18a83bfc664917cfadd0a08564f63919a793464029f6a479891e178c8616",
+      "origin": "ai"
+    },
+    "dataList[id=OnGiveNegativeBuffStackToEnemy].min": {
+      "pl": "Spada o {1} za każde nałożenie wrogowi {0} Siły efektu negatywnego",
+      "kr_sha256": "4c352a4c1cb50c3d4365461bb9384e6d681e9447c371dde4de0b554a7c27bc38",
+      "en_sha256": "1f368c873a944a83c2c3b73587b72186ac77527ee66c89761bd3aab77fc20c3d",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyAsLevelRatioMultiply].add": {
+      "pl": "Rośnie o {0} po pokonaniu wroga o poziomie równym lub wyższym od tej jednostki",
+      "kr_sha256": "5d762a5505cb8cb7134651c499590d98b71195e0b985e5ed6bf3494c2e9e3e2b",
+      "en_sha256": "4f9e2782bd5589eab419ecd8cd6718cdb9a66ae65292adf546ff1b378c43b6f3",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyAsLevelRatioMultiply].min": {
+      "pl": "Spada o {0} po pokonaniu wroga o poziomie równym lub wyższym od tej jednostki",
+      "kr_sha256": "fec0039b326893c0d5d7f230ad2743e7cc58f1bd1b0ec1469db5d4c881fe22f4",
+      "en_sha256": "d8f01e41f1bb74151faabbd6781d9a6c9cc490ae549e876cef6004cd970377fc",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyByOtherAllyAsLevelRatioMultiply].add": {
+      "pl": "Rośnie o {0} gdy sojusznik pokona wroga o poziomie równym lub wyższym od tej jednostki",
+      "kr_sha256": "09fe994c3cc761bd8df288d7f80c2d60bb1bdcf059f4b9f95ad3d17341dc7505",
+      "en_sha256": "29b1a2f4ccd92a372be19256d57d53fc9140910554e281c5de942096542fd9ea",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyByOtherAllyAsLevelRatioMultiply].min": {
+      "pl": "Spada o {0} gdy sojusznik pokona wroga o poziomie równym lub wyższym od tej jednostki",
+      "kr_sha256": "31271c771094957f4e5140a2179e12ccae0a7e35b58ffacba6a56583c4c130df",
+      "en_sha256": "97541ace716213427938c3beb9abf2a708706d83fca27f7211a399274896052e",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyByOtherAllyExceptSupportiveAction].add": {
+      "pl": "Rośnie o {0} gdy sojusznik pokona wroga o poziomie równym lub wyższym od tej jednostki",
+      "kr_sha256": "09fe994c3cc761bd8df288d7f80c2d60bb1bdcf059f4b9f95ad3d17341dc7505",
+      "en_sha256": "29b1a2f4ccd92a372be19256d57d53fc9140910554e281c5de942096542fd9ea",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyByOtherAllyExceptSupportiveAction].min": {
+      "pl": "Spada o {0} gdy sojusznik pokona wroga o poziomie równym lub wyższym od tej jednostki. Nie spada, jeśli wroga pokonano Atakiem Wsparcia.",
+      "kr_sha256": "0261b0add67e29deff7e3e74fcfb7309da78899a07adab5cce981ce425e88ce3",
+      "en_sha256": "bf91250d6061fd1904645cb9b6082bd8d76dbe3b60fcb1b39228699d37792cb5",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyByOtherAlly].add": {
+      "pl": "Rośnie o {0} gdy sojusznik pokona wroga niezależnie od jego poziomu",
+      "kr_sha256": "0e8342f61c9ade58d0d931fde8729533e7d0734afdffce364e1144392d505b33",
+      "en_sha256": "9068fa23d403f8128a06e587cb4e3f1f2cee353f9ca59a7ba60f27b85880f9c7",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyByOtherAlly].min": {
+      "pl": "Spada o {0} gdy sojusznik pokona wroga niezależnie od jego poziomu",
+      "kr_sha256": "28cb807e3df9e1060c9b7dce267072cbabe2dd8d0e7f263179500fe0ccc96aa2",
+      "en_sha256": "b8123dfa788940f2bce98bf6f188ea0675cb92975405421cb427252178725aef",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyMp].add": {
+      "pl": "Rośnie o {0} po pokonaniu wroga niezależnie od jego poziomu",
+      "kr_sha256": "3c1270e0334aa042a53034689ef7df3e02371a622542e4512c078ec027b6aa19",
+      "en_sha256": "fe430c7c487caa139dce30c5880e675a1b28e2251b2297f2d3fe2d7e09383a56",
+      "origin": "ai"
+    },
+    "dataList[id=OnKillEnemyMp].min": {
+      "pl": "Spada o {0} po pokonaniu wroga niezależnie od jego poziomu",
+      "kr_sha256": "3f4f04e980bf110ff4f47cbf6c7684f16fead7d06ff1cb3ebc0f489f8485e49e",
+      "en_sha256": "8d41ed8068830d95f27048582352227fb8e96fc935314ce7d2fc4067b575252a",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelAnyTarget].add": {
+      "pl": "Rośnie o {0} po przegranym Starciu",
+      "kr_sha256": "c1473a00e159e64ba6f4c7f9e47737092e7c6072d54a3b9f959490413b32de45",
+      "en_sha256": "71207e97268e88c42eb8c3d240e7915061b0d1706d3c25368ef23bc529ca455b",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelAnyTarget].min": {
+      "pl": "Spada o {0} po przegranym Starciu",
+      "kr_sha256": "94a0947f9bf651015270fcd8833c4e851d2eafdeaeae576de6c223f2f9422344",
+      "en_sha256": "95e69d5608be6bd795fe0350d61b35e5b512a77eaf1d868bff9074884d1c451b",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis].add": {
+      "pl": "Rośnie po przegranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +<color=red>{1}%</color> za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "0b6329fd107c7d16d816d65d5711f3d5b90932a7ac8ef8ea93f7ca5cccc6d646",
+      "en_sha256": "1ea732316b9360e37f1c17c3ad84c6c858456224ffe56f3d2edd7e3a370a3aaf",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis].min": {
+      "pl": "Spada po przegranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +<color=red>{1}%</color> za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "d10670c84620e3bf1c61fe4487914ed3d52a9c31f264cdd0a378c0d680e59195",
+      "en_sha256": "f9a301522a3bce3155d13c3adfb9e2ac38523d705b227b7cab15820875d29ab7",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelAsParryingCountMultiplyAndPlusPercent].add": {
+      "pl": "Rośnie po przegranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "6bf7249617a9c9420969b007ea47685eef56e6da3984f918327b833a4b6ff917",
+      "en_sha256": "90b732ad9e295a50a7824583411059559e2000a64f6cbaae8741392d2aad5c14",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelAsParryingCountMultiplyAndPlusPercent].min": {
+      "pl": "Spada po przegranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "4c3f52097ee6a07e50e364411c80c6f72aa4427b124e2496e70bd7495f9a703c",
+      "en_sha256": "c78a44c2300c245896ec6ae4f7e5d650a377f2811e86b3967e5b85496235f15b",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelLessMpTarget].add": {
+      "pl": "Rośnie o {0} po przegranym Starciu z wrogiem o niższej Poczytalności (SP)",
+      "kr_sha256": "51c6b591d35650b11392b5f947d6ce9034751c417af18877937b466ba3afc6c9",
+      "en_sha256": "1d4e42cbcabd6250bb4008a7344a076433a7a14fc6679617e89cc07a288a3bc9",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelLessMpTarget].min": {
+      "pl": "Spada o {0} po przegranym Starciu z wrogiem o niższej Poczytalności (SP)",
+      "kr_sha256": "b62e8aa140a8269c42ab650ba44019e7e7468d6e4b46b2a50da3e87daab7b818",
+      "en_sha256": "b4ee7d8ec45963b2bf310ec3b2441a07e6edaac483cd58c9496f5c137b7eb11e",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent].add": {
+      "pl": "Rośnie po przegranym Starciu z wolniejszym wrogiem zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "2196e1982b9dd82f57923b7343935b4caa10f362fd1cc2380f0e2e2cac67ff13",
+      "en_sha256": "68bac6a738dfe50ca2d319d8d591f6f012318c365416f63c0bbf9670a5ac1463",
+      "origin": "ai"
+    },
+    "dataList[id=OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent].min": {
+      "pl": "Spada po przegranym Starciu z wolniejszym wrogiem zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "9b8e56253a3060c408390e0d3e466524d8b43a3d65ffe37260cf7be29ccc5d20",
+      "en_sha256": "10dde73064285611bf5a8c018a8595da16866e802331087711d52845fc000d11",
+      "origin": "ai"
+    },
+    "dataList[id=OnOneSideAttackEnd].add": {
+      "pl": "Rośnie o {0} po Ataku Jednostronnym",
+      "kr_sha256": "af65200a4967364d404f9cf8632ee4f5e03b21e732fff2484d3198ccf1125252",
+      "en_sha256": "d7ff64ec8261fa8e5a5e81cafbc154984f6d402bf9348dcab9ddded38ae667ca",
+      "origin": "ai"
+    },
+    "dataList[id=OnOneSideAttackEnd].min": {
+      "pl": "Spada o {0} po Ataku Jednostronnym",
+      "kr_sha256": "188b18f318eafa710166b474c3ca758e58c9ef5e9124751a0848e4c2755a649f",
+      "en_sha256": "b8bf13740127ceb0790cb5f709efa7f795a017c6ddbdcca2e1c1a1b301cfe308",
+      "origin": "ai"
+    },
+    "dataList[id=OnRoundStartAfterEvent].add": {
+      "pl": "Rośnie o {0} na początku tury",
+      "kr_sha256": "082761ee1bd6f9e6a7d35e9865c25e5e86658c011fa026bf154e470ee3c12b56",
+      "en_sha256": "38499ae0a5a195b2ec55da6ccac3e8483acca8be616057e6d2d88df354c871e7",
+      "origin": "ai"
+    },
+    "dataList[id=OnRoundStartAfterEvent].min": {
+      "pl": "Spada o {0} na początku tury",
+      "kr_sha256": "c7d72f441d45905eccaf1a72e047635b5589669681d85a8c74c2632837eb0b16",
+      "en_sha256": "6cb4d279e77f2ab265630d3b2a69fa9395f415c772e529db860cd886fbe6c4ff",
+      "origin": "ai"
+    },
+    "dataList[id=OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality].add": {
+      "pl": "Koniec Tury: Zyskaj {0} SP, jeśli Cel Nakazu został trafiony atakiem",
+      "kr_sha256": "61b91b89d1d7dd234c12c6b47d12f7b0652ae8ccad48e63c07df75cab1ac746c",
+      "en_sha256": "dd584af6e092a064c662b496b56eb9189ac3608386e33ccd89f13f96d24cdcc0",
+      "origin": "ai"
+    },
+    "dataList[id=OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality].min": {
+      "pl": "Koniec Tury: Trać {0} SP, jeśli Cel Nakazu został trafiony atakiem",
+      "kr_sha256": "a014fed7f2bf69cd898ecda3014fcd1b107c2df8e42fbd283aac87800681262a",
+      "en_sha256": "a392f79f7451358eb4ea982a04a7fea7724fbf4e6528d063d5f1b8c6adf570db",
+      "origin": "ai"
+    },
+    "dataList[id=OnTakeAttackDamagePerWithMax].add": {
+      "pl": "<color=red>Rośnie po trafieniu przez wroga\n<size=95%>(Bazowo {0}, maks. +{1} na turę)</size></color>",
+      "kr_sha256": "948ad5338e859819bc1305b33ffdc3619d0fdde2494656aff392cf9122d7909f",
+      "en_sha256": "60ad75b803a598e911398c583d81921cd8df635a577fdcf0440b7f92f8e39b08",
+      "origin": "ai"
+    },
+    "dataList[id=OnTakeAttackDamagePerWithMax].min": {
+      "pl": "<color=red>Spada po trafieniu przez wroga\n<size=95%>(Bazowo {0}, maks. -{1} na turę)</size></color>",
+      "kr_sha256": "a250c88dfe9a9662d1357a6b4ac8764e59fbaee25d21f043b3b2eac155cfdd28",
+      "en_sha256": "4a55294fb3a64f935b503caf878ce1974d6e186bade7850b9d1d2207d23964b0",
+      "origin": "ai"
+    },
+    "dataList[id=OnUseSkillMp].add": {
+      "pl": "Rośnie o {0} przy użyciu umiejętności",
+      "kr_sha256": "3f882fcba1a08eb570e30f573d9377453e7769a6d015150675913624a84e5163",
+      "en_sha256": "b9f3f1d234088732b6534baf673f690fde921c3209a11db01c3992f279d2a46c",
+      "origin": "ai"
+    },
+    "dataList[id=OnUseSkillMp].min": {
+      "pl": "Spada o {0} przy użyciu umiejętności",
+      "kr_sha256": "51071e17a6d2ba76347f1108573a42946ab7a478d05321652371f0805c6af98e",
+      "en_sha256": "d6cdda0c95b4eda8e2707c9d97079a9bc8335bb33ad8593c6f553176edf7c378",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAnyTarget].add": {
+      "pl": "Rośnie o {0} po wygranym Starciu",
+      "kr_sha256": "f388598ca318350a78d4eb65985f07430764d205f6d2f294152cea44970bdc25",
+      "en_sha256": "550ffeb513467f3d1abd1046a76787510471f02148ae5ed5ced81f0ca17e74aa",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAnyTarget].min": {
+      "pl": "Spada o {0} po wygranym Starciu",
+      "kr_sha256": "c008044b1bbeb00423fd206d627ffb6789bb9db16600d919aa23ce777b257b3f",
+      "en_sha256": "95e69d5608be6bd795fe0350d61b35e5b512a77eaf1d868bff9074884d1c451b",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThanWithEmphasis].add": {
+      "pl": "<color=red>Przy {2} lub więcej SP:</color> rośnie po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +<color=red>{1}%</color> za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "4439257fa2b7fe78fd37fa336612cc765ea78493e6eb6444d8586292566d3979",
+      "en_sha256": "2c5017715b4b2fc6c4ddaf7fe70cbd0ee5cab7f0e9bad107413ebe1553eafb38",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThanWithEmphasis].min": {
+      "pl": "<color=red>Przy {2} lub więcej SP:</color> spada po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +<color=red>{1}%</color> za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "f757219a998ab7cfde988fe406a7816c1bd867e33b4e75df3184f9337e6dfa7b",
+      "en_sha256": "b40a29873b6d4855cfc208f44d6f8f14e08dcad1442c2ebb5f60e18af2f2cb34",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThan].add": {
+      "pl": "Przy {2} lub więcej SP: rośnie po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "1fa8c10c413241d600fc3e0c3138ae29f37c7670e44b830748cc5c32804a594f",
+      "en_sha256": "1d58478bb510274aa6f98546ad9d3fee3df607808dd97ec34b81f0400086ccd3",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThan].min": {
+      "pl": "Przy {2} lub więcej SP: spada po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "c3af4b959412c8495706e1d70c2c3371e883dbbd34730a285e97f13a2f434f40",
+      "en_sha256": "f9b00acb0ca1643139c21179aadd2711f8d92dcecff1e8631c3beef35999c101",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis].add": {
+      "pl": "Rośnie po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +<color=red>{1}%</color> za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "94e1453fbdefe45361578909f65f50d1272949719a9345bf5f04407c35eeec55",
+      "en_sha256": "f23cef394231767b7edb58128bd9440a7bbf698246c9201e9dab31b48cab64e7",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis].min": {
+      "pl": "Spada po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +<color=red>{1}%</color> za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "1a680befab919fe144df8c1d31c80bc51589108961885322c6e7d158f9c50edf",
+      "en_sha256": "b85640ac2ef6d2a89debba7df6c4f92e2fc866ed7f0ce027ef6ed026efc3db15",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax].add": {
+      "pl": "Rośnie po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.; maks. {2}%)</size>",
+      "kr_sha256": "96e9cd8844b3c383720e8d6353b0035c9add4e7ba3ab983893017169bc6ea829",
+      "en_sha256": "abe7521fc65325e040f01ffbf8f0ea95b12fef6e2f628110927f5618550967e0",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax].min": {
+      "pl": "Spada po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.; maks. {2}%)</size>",
+      "kr_sha256": "af6cfab9e19e26234e61b4b26c2a0e0f623a8c74ab86c46dd67d16a69f58c910",
+      "en_sha256": "34486647b42cd418615f162a75aefba1383a0b06463c0dc4af7ef49af9545629",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercent].add": {
+      "pl": "Rośnie po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "17a9267266ffd4e4cfb1e5448cc9166ad01cd42aad5741ab54a03c9f6f5c99c3",
+      "en_sha256": "2c619217d0d63061cb49e5e00f8775770974d132be6e281d5be86422999e9ecf",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelAsParryingCountMultiplyAndPlusPercent].min": {
+      "pl": "Spada po wygranym Starciu zależnie od liczby starć\n<size=95%>(Bazowo {0}, +{1}% za każde starcie powyżej 1.)</size>",
+      "kr_sha256": "7e128175db8bf3c7d3ef28a506aa7c0625dcc1b27553aca818441ef8d71a9e59",
+      "en_sha256": "3cc684cf5b50e38730066a41d9a3628c9ac449c6b8e2125f52c41553d6fdaff8",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelLessMpTarget].add": {
+      "pl": "Rośnie o {0} po wygranym Starciu z wrogiem o niższej Poczytalności (SP)",
+      "kr_sha256": "265ef952e99133610961e04968aa3b3b59846787ee734e3144f594be4f13ea63",
+      "en_sha256": "40919ed959b998018943c8e0a413e37bd2b01311e43b58cd278af58433c0faee",
+      "origin": "ai"
+    },
+    "dataList[id=OnWinDuelLessMpTarget].min": {
+      "pl": "Spada o {0} po wygranym Starciu z wrogiem o niższej Poczytalności (SP)",
+      "kr_sha256": "173162cc4184d6e6817b05b01d89d507d02d317134b6070757015e932c7f04b0",
+      "en_sha256": "6d6fa216b8530f0003b465f846bac3cf0c62a5b8f9e180ea09877b326fdebc87",
+      "origin": "ai"
+    }
+  }
+}

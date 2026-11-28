@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=1041].lowMoraleDescription": {
+      "pl": "Moc Starcia -1; otrzymywane obrażenia -10%",
+      "kr_sha256": "448eefaf21f3e6a0b8dd94d0934488770f0140cebd6ac5967e0ac8e9d47d0f01",
+      "en_sha256": "2368f8d2c4284cceedf1166b25cda04b6f9143a965ff44074b21273c19989095",
+      "origin": "ai"
+    },
+    "dataList[id=1041].panicDescription": {
+      "pl": "Moc Starcia -2; otrzymywane obrażenia -20%",
+      "kr_sha256": "10fd1c311693dcf2977a76b6728d1a5e797110dc31c8870650e99c3b1eb80fde",
+      "en_sha256": "4b881767e4d8cb371e26808178e40c3afffdb0865a767410c9ab16117b50c444",
+      "origin": "ai"
+    },
+    "dataList[id=1041].panicName": {
+      "pl": "Ramię Cienia",
+      "kr_sha256": "bfd16f4de1e99faedbbe2019bf7156eeb3ff4728a3700b8cad0d684267ca1a14",
+      "en_sha256": "cade1d5d7a5c0b0ed92235ee6615a975c42af242fd86054b8333cfeff1d95932",
+      "origin": "ai"
+    },
+    "dataList[id=1059].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 2 [AttackUp] i 1 [Vulnerable]",
+      "kr_sha256": "77c4bc7439edbabe678d3727b35de8ccb6b13db57c2244e0b56621f9088c8e2e",
+      "en_sha256": "4ef6567d3dca3c1bacf5e6b214e82feda58d08c75a041e220b6814aa433d5e47",
+      "origin": "ai"
+    },
+    "dataList[id=1059].panicDescription": {
+      "pl": "Początek Tury: Maks. Szybkość +1, zyskaj 2 [AttackUp] i 2 [Vulnerable]",
+      "kr_sha256": "91c8ac67b2fa8470614630b0a6e1d444929906e83b0db08e9c55d7d447d4180a",
+      "en_sha256": "b39fa9a5862106507c3aa417f1e6fef21bb5ede5d7369af62bd7dd09f6cb5823",
+      "origin": "ai"
+    },
+    "dataList[id=1059].panicName": {
+      "pl": "Rumak bez Uzdy",
+      "kr_sha256": "799ecc196f4fa73d37206b3cc5e374dacefc0a76fa1895f1a8294daa72f467d1",
+      "en_sha256": "f1c7d71c44f2bd1f73a07e75e4bc52e29edbf448066b1346ab0fcd5d2ceffde2",
+      "origin": "ai"
+    },
+    "dataList[id=1060].lowMoraleDescription": {
+      "pl": "Otrzymywane obrażenia od Jia Xichun +10%; obrażenia Kontrataków +30%",
+      "kr_sha256": "8eed4c522d670d68a86b60dead3c94bf09a3257749d9bdadaac2741899527dba",
+      "en_sha256": "53e1c07d09353d088afa6892b61e782249f791d5a0fc3441fca330bc76beb482",
+      "origin": "ai"
+    },
+    "dataList[id=1060].panicDescription": {
+      "pl": "Moc Końcowa +1; otrzymywane obrażenia od Jia Xichun +20%; obrażenia Kontrataków +50%",
+      "kr_sha256": "a48d7e288a4110bb33867d15660c86b07984f868c680bba0cfd6ed08c8dfc960",
+      "en_sha256": "21f7b04fa2e92cdb9c16ac53a6a7e9735a9b837705400f8bf373f08cf95c6253",
+      "origin": "ai"
+    },
+    "dataList[id=1060].panicName": {
+      "pl": "Nocny Wędrowiec Pijanej Dłoni",
+      "kr_sha256": "ef428ef75f50ab3be22b192fb09a47e1a471a26d7dcfd3937341bc5e86108893",
+      "en_sha256": "2a9e406febc668cfa051473c0c56387ca78fdd46cbd4a402574a47e7024a78ca",
+      "origin": "ai"
+    }
+  }
+}

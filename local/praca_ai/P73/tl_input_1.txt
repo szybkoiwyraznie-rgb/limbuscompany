@@ -1,0 +1,131 @@
+1||(ulepszenie 1) — nazwa] 이연참|Double Slash
+2||(ulepszenie 1) — opis] 대상의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 2)|Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)
+3||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여|[OnSucceedAttack] Inflict 2 [Vibration]
+4||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Vibration]
+5||(ulepszenie 1) — nazwa] 삼연격|Triple Slash
+7||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Vibration] Count
+8||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 1 부여, [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict 1 [Vibration] and +2 [Vibration] Count
+9||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+10||(ulepszenie 1) — nazwa] 이연참-폭[爆]|Double Slash - Blast [爆]
+11||(ulepszenie 1) — opis] 대상의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 4)\n[DefeatDuel] [BulletPropellant] 1 감소|Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 4)\n[DefeatDuel] Lose 1 [BulletPropellant]
+13||(ulepszenie 1) — moneta 2, efekt 1 — opis] [BulletPropellant] 1 소모|Spend 1 [BulletPropellant]
+14||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Combustion] 3 부여, [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count
+15||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Vibration] 3 부여, [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Vibration] and +2 [Vibration] Count
+16||(ulepszenie 1) — nazwa] 삼연격-폭[爆]|Triple Slash - Blast [爆]
+21||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count
+24||(ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationExplosion] 2회. 대상의 [Vibration] 횟수 2 감소|[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2
+25||(ulepszenie 1) — nazwa] 폭쇄참 [爆碎斬]|Blasting Shatterslash [爆碎斬]
+26||(ulepszenie 1) — opis] [Prey]을 보유한 대상을 우선으로 지정\n속도에 상관없이 이 스킬과 합을 할 수 있음\n대상의 [Combustion]과 [Vibration]의 합 6당 코인 위력 +1 (최대 3)\n[DefeatDuel] 자신의 정신력 10 감소|Prioritizes targets with [Prey]\nCan clash with this Skill regardless of Speed\nCoin Power +1 for every 6 ([Combustion] + [Vibration]) on target (max 3)\n[DefeatDuel] Lose 10 SP
+27||(ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+29||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Combustion] 3 부여|[OnSucceedAttack] Inflict 3 [Combustion]
+31||(ulepszenie 1) — moneta 1, efekt 5 — opis] [UnBrokenCoinOnSucceedAttack] [Vibration] 4 부여, [Vibration] 횟수 4 증가|[UnBrokenCoinOnSucceedAttack] Inflict 4 [Vibration] and +4 [Vibration] Count
+34||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Combustion] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Combustion] Count
+35||(ulepszenie 1) — moneta 2, efekt 4 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Vibration] Count
+36||(ulepszenie 1) — moneta 2, efekt 5 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]|[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]
+39||(ulepszenie 1) — moneta 3, efekt 3 — opis] 이 코인 효과로 [BulletPropellant]을 소모하였다면, 피해량 +50%|If this unit spent [BulletPropellant] due to this Coin's effect, deal +50% damage
+40||(ulepszenie 1) — moneta 3, efekt 4 — opis] [OnSucceedAttack] [Combustion] 3 부여, [Combustion] 횟수 3 증가|[OnSucceedAttack] Inflict 3 [Combustion] and +3 [Combustion] Count
+42||(ulepszenie 1) — nazwa] 쾌도난마 [快刀亂麻]|Tanglecleaver [快刀亂麻]
+43||(ulepszenie 1) — opis] [Prey]을 보유한 대상을 우선으로 지정\n속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[WhenUse] [BattleSense]을 전부 소모. 소모한 수치가\n- 10 이상이면, 10당 공격 가중치 +1 (최대 2)\n- 25일 경우, 메인 타겟의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 5)\n[DefeatDuel] [ResultReduction] 4 얻음\n[DefeatDuel] [Paralysis] 1 얻음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않으며, [Combustion] 위력과 횟수, [Vibration] 위력과 횟수 부여량이 절반으로 감소 (다른 효과로 증가되는 수치 제외)\n[EndSkill] [FullReload] (턴당 1회)\n- [BulletPropellantSpecial]을 보유하였다면, 대신 [ReloadKeepAmmo] (턴당 1회)\n[EndSkill] 이번 턴 종료|Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 2)\n- ... 25 Stack, Final Power +1 for every 4 ([Combustion] + [Vibration]) on the main target (max 5)\n[DefeatDuel] Gain 4 [ResultReduction]\n[DefeatDuel] Gain 1 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn
+45||(ulepszenie 1) — moneta 1, efekt 2 — opis] [BulletPropellant] 전부 소모|Spend all [BulletPropellant]
+46||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 소모한 [BulletPropellant]만큼 [Combustion] 부여, [Combustion] 횟수 증가, [Vibration] 부여, [Vibration] 횟수 증가|[OnSucceedAttack] Inflict [Combustion], [Combustion] Count, [Vibration], and [Vibration] Count by [BulletPropellant] spent
+48||(ulepszenie 1) — moneta 1, efekt 5 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationExplosion] 3회. 대상의 [Vibration] 횟수 3 감소|[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 3 times; then, reduce target's [Vibration] Count by 3
+49||(ulepszenie 1) — nazwa] 초절맹호살격난참 [超絕猛虎殺擊亂斬]|Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]
+50||(ulepszenie 1) — opis] [Prey]을 보유한 대상을 우선으로 지정\n속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[WhenUse] [BattleSense]을 전부 소모. 소모한 수치가\n- 10 이상이면, 10당 공격 가중치 +1 (최대 4)\n- 25 이상이면, 메인 타겟의 [Combustion]과 [Vibration]의 합 4당 최종 위력 +1 (최대 6)\n- 50일 경우, 코인 위력 +1, 피해량 +50%\n[DefeatDuel] [ResultReduction] 2 얻음\n[DefeatDuel] [Paralysis] 6 얻음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않으며, [Combustion] 위력과 횟수, [Vibration] 위력과 횟수 부여량이 절반으로 감소 (다른 효과로 증가되는 수치 제외)\n[EndSkill] [FullReload] (턴당 1회)\n- [BulletPropellantSpecial]을 보유하였다면, 대신 [ReloadKeepAmmo] (턴당 1회)\n[EndSkill] 이번 턴 종료|Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 4)\n- ... 25 Stack, Final Power +1 for every 4 ([Combustion] + [Vibration]) on the main target (max 6)\n- ... 50 Stack, Coin Power +1 and deal +50% damage\n[DefeatDuel] Gain 2 [ResultReduction]\n[DefeatDuel] Gain 6 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn
+53||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Combustion] 6 부여|[OnSucceedAttack] Inflict 6 [Combustion]
+56||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Combustion] 횟수 6 증가|[OnSucceedAttack] Inflict +6 [Combustion] Count
+59||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [Vibration] 6 부여|[OnSucceedAttack] Inflict 6 [Vibration]
+62||(ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] [Vibration] 횟수 6 증가|[OnSucceedAttack] Inflict +6 [Vibration] Count
+68||(ulepszenie 1) — moneta 6, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationExplosion] 5회. 대상의 [Vibration] 횟수 5 감소|[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 5 times; then, reduce target's [Vibration] Count by 5
+69||(ulepszenie 1) — nazwa] 천퇴성도 장전|Reloading Tiantui Star's Blade
+70||(ulepszenie 1) — opis] [DuelCounter]\n[DefeatDuel] [BulletPropellant] 1 감소\n[EndSkill] [FullReload] (턴당 1회)\n- [BulletPropellantSpecial]을 보유하였다면, 대신 [ReloadKeepAmmo] (턴당 1회)|[DuelCounter]\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)
+75||(ulepszenie 1) — nazwa] 맹호표탄 지원|Savage Tigermark Support
+76||(ulepszenie 1) — opis] [EndBattle] 자신이 생존한 상태일 경우, 뇌횡에게 [BulletPropellantSpecial] 6 부여\n[EndBattle] [DisengageCombat]|[EndBattle] If this unit survives, give 6 [BulletPropellantSpecial] to Lei Heng\n[EndBattle] [DisengageCombat]
+77||(ulepszenie 1) — nazwa] 경멸|Contempt
+78||(ulepszenie 1) — opis] 대상의 [GazeReplica]이 3 이상이면 이 스킬에서 부여하는 부정적인 효과가 2배가 됨\n[WhenUse] 대상의 [Laceration]이 6 이상이면 코인 위력 +1|If target has 3+ [GazeReplica], double the amount of negative effects inflicted with this Skill\n[WhenUse] If target has 6+ [Laceration], Coin Power +1
+79||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+80||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] [Laceration] 4 부여|[OnSucceedAttackHead] Inflict 4 [Laceration]
+81||(ulepszenie 1) — nazwa] 경외|Awe
+84||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+85||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttackHead] 다음 턴에 [DefenseDown] 3 부여|[OnSucceedAttackHead] Inflict 3 [DefenseDown] next turn
+87||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Laceration] Count
+88||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [AttackDmgDown] 1 부여|[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn
+89||(ulepszenie 1) — nazwa] 경멸, 경외 【잠재 해방】|Contempt, Awe 【Unleashed】
+90||(ulepszenie 1) — opis] [CantChangeTarget]|[CantChangeTarget]
+91||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+92||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 정신력 10 피해|[OnSucceedAttack] Deal 10 SP damage
+94||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] (대상의 [GazeReplica] x 5)만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold equal to ([GazeReplica] on target x 5)
+95||(ulepszenie 1) — moneta 3, efekt 3 — opis] [EndSkill] 대상의 [GazeReplica] 제거|[EndSkill] Remove [GazeReplica] on the target
+96||(ulepszenie 1) — nazwa] 경멸스러운 것|Contemptuous Thing
+97||(ulepszenie 1) — opis] 홍루를 우선으로 지정\n[WhenUse] 대상에게 [GraspReplica] 4 부여\n[WhenUse] 다음 턴에 [AttackDmgUp] 2 얻음|Prioritizes Hong Lu\n[WhenUse] Inflict 4 [GraspReplica]\n[WhenUse] Gain 2 [AttackDmgUp] next turn
+99||(ulepszenie 1) — nazwa] 경외하도록|Be Awed
+100||(ulepszenie 1) — opis] [GraspReplica]가 부여된 대상 우선으로 사용|Prioritizes targets with [GraspReplica]
+101||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+102||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+103||(ulepszenie 1) — nazwa] 받아내야만 할거다|You Must Confront This
+104||(ulepszenie 1) — opis] [DuelCounter]\n[DefeatDuel] 대상의 [GazeReplica] 2 감소\n[DefeatDuel] 대상의 [GraspReplica] 1 감소|[DuelCounter]\n[DefeatDuel] Reduce target's [GazeReplica] by 2\n[DefeatDuel] Reduce target's [GraspReplica] by 1
+106||(ulepszenie 1) — nazwa] 경외, 경멸 【잠재 해방】|Awe, Contempt【Unleashed】
+107||(ulepszenie 1) — opis] [BeforeAttack] [GazeReplica]이 4 이상인 수감자의 수만큼 공격 가중치 증가|[BeforeAttack] Gain Atk Weight by the number of Sinners with 4+ [GazeReplica]
+109||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+110||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 [GazeReplica]이 4 이상이면, [GazeReplica] 1 부여|[OnSucceedAttack] If target has 4+ [GazeReplica], inflict 1 [GazeReplica]
+111||(ulepszenie 1) — nazwa] 나선형 왜곡장|Spiral Warp Field
+112||(ulepszenie 1) — opis] [CanDuelGuard]\n[StartBattle] 가환과 구보가 보호막 30 얻음\n[WinDuel] 가환과 구보가 보호막 30 얻음|[CanDuelGuard]\n[StartBattle] Jia Huan and Gubo gain 30 Shield\n[WinDuel] Jia Huan and Gubo gain 30 Shield
+114||(ulepszenie 1) — nazwa] 전방 사격|Front Line Fire
+115||(ulepszenie 1) — opis] 가장 앞에 있는 대상 공격\n[WhenUse] [BoseProjektilReplica] 1 얻음\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 횟수 1 얻음|Targets the frontmost target\n[WhenUse] Gain 1 [BoseProjektilReplica]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +1 [Breath] Count
+116||(ulepszenie 1) — moneta 1, efekt 1 — opis] 크리티컬 피해량 +50%|+50% Damage on Critical Hit
+118||(ulepszenie 1) — nazwa] 후방 사격|Rear Line Fire
+119||(ulepszenie 1) — opis] 가장 뒤에 있는 대상 공격\n[WhenUse] [BoseProjektilReplica] 1 얻음\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 횟수 2 얻음|Targets the rearmost target\n[WhenUse] Gain 1 [BoseProjektilReplica]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +2 [Breath] Count
+120||(ulepszenie 1) — moneta 1, efekt 1 — opis] 크리티컬 피해량 +70%|+70% Damage on Critical Hit
+122||(ulepszenie 1) — nazwa] 마법진으로 쪼개어 나뉘어지는 탄환|Sigilshattered Bullet
+123||(ulepszenie 1) — opis] 가장 앞에 있는 대상 공격\n[WhenUse] [Breath] 3, [Breath] 횟수 2 얻음|Targets the frontmost target\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count
+124||(ulepszenie 1) — moneta 1, efekt 1 — opis] 이 코인에는 메인 타겟만 피해를 입음|This Coin deals damage only against the main target
+125||(ulepszenie 1) — moneta 1, efekt 2 — opis] [EnemyKill] 마지막 코인의 피해량 +100%|[EnemyKill] The final Coin deals +100% damage
+126||(ulepszenie 1) — moneta 2, efekt 1 — opis] 이 코인에는 서브 타겟만 피해를 입음|This Coin deals damage only against the sub-targets
+127||(ulepszenie 1) — moneta 2, efekt 2 — opis] 크리티컬 피해량 +100%|+100% Damage on Critical Hit
+128||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count
+129||(ulepszenie 1) — nazwa] 전우의 피를 뒤집어 쓴 탄환|Bullet Drenched with the Blood of a Comrade
+130||(ulepszenie 1) — opis] [CantChangeTarget]\nN사 직원을 우선으로 지정\n- 지정한 대상을 공격하지 못했으면, 스킬이 취소됨\n[WhenUse] [Breath] 5 얻음\n[EndBattle] 정신력 20 회복|[CantChangeTarget]\nPrioritizes N Corp. Employees\n- If this unit failed to attack the targeted unit, cancel this Skill\n[WhenUse] Gain 5 [Breath]\n[EndBattle] Heal 20 SP
+132||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] (대상의 적중시 현재 체력)만큼 마지막 코인에 오만 추가 피해|[OnSucceedAttack] Inflict (target's HP at the "On Hit' timing) Pride bonus damage with the final Coin
+133||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상 처치|[OnSucceedAttack] Kills the target
+137||(ulepszenie 1) — moneta 2, efekt 4 — opis] [OnSucceedAttack] [Sinking] 4 부여, [Sinking] 횟수 2 증가|[OnSucceedAttack] Inflict 4 [Sinking] and +2 [Sinking] Count
+138||(ulepszenie 1) — nazwa] 추억을 깨는 탄환|Reminiscence Shattering Bullet
+139||(ulepszenie 1) — opis] [WideAreaRampage]\n자신의 [BoseProjektilReplica] 당 피해량 +10%\n[WhenUse] 정신력 10 감소\n[EndSkill] [BoseProjektilReplica]을 전부 소모|[WideAreaRampage]\nDeal +10% damage for every [BoseProjektilReplica] on self\n[WhenUse] Lose 10 SP\n[EndSkill] Spend all [BoseProjektilReplica] on self
+141||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+142||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Sinking] 3 부여|[OnSucceedAttack] Inflict 3 [Sinking]
+143||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] 정신력 5 감소|[OnSucceedAttack] Lose 5 SP
+156||(ulepszenie 1) — nazwa] 근접 전투|Melee Combat
+157||(ulepszenie 1) — opis] [DuelCounter]|[DuelCounter]
+158||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Breath] Count
+159||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음|[OnSucceedAttack] Gain 2 [Breath]
+160||(ulepszenie 1) — nazwa] 전흑선환- 미[未]|Completed Heixian Bolus - Wei [未]
+161||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]과 [Burst]의 합이 5 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합이 7 이상이면 [Breath] 5 얻고, [Breath] 횟수 2 증가|[WhenUse] If target has 5+ ([Laceration] + [Burst]), Clash Power +1\n[WhenUse] If target has 7+ ([Laceration] + [Burst]), gain 5 [Breath] and +2 [Breath] Count
+162||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Burst]
+164||(ulepszenie 1) — nazwa] 전흑선환 - 인[寅]|Completed Heixian Bolus - Yin [寅]
+165||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 코인 위력 +1 (최대 3)|[WhenUse] Coin Power +1 for every 5 ([Laceration] + [Burst]) on target (max 3)
+166||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여|[OnSucceedAttack] Inflict 2 [DefenseDown] next turn
+167||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Breath] 5 얻음|[OnSucceedAttack] Gain 5 [Breath]
+168||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+169||(ulepszenie 1) — nazwa] 전흑선환 - 사[巳]|Completed Heixian Bolus - Si [巳]
+170||(ulepszenie 1) — opis] [WhenUse] 메인 공격 대상의 [Laceration]과 [Burst]의 합이 10 이상이면, 공격 가중치 +1|[WhenUse] If the main target has 10+ ([Laceration] + [Burst]), Atk Weight +1
+171||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Poison] 3 부여|[OnSucceedAttack] Inflict 3 [Poison]
+173||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Poison] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Poison]
+174||(ulepszenie 1) — nazwa] 전흑선환 - 유[酉]|Completed Heixian Bolus - You [酉]
+175||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]과 [Burst]의 합이 10 이상이면, 코인 위력 +1\n크리티컬 적중 시마다 [Laceration], [DefenseDown] 1 부여|[WhenUse] If target has 10+ ([Laceration] + [Burst]), Coin Power +1\nInflict 1 [Laceration] and [DefenseDown] with every Critical Hit
+177||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst] Count
+178||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 정신력 2 회복|[OnSucceedAttack] Heal 2 SP
+180||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]
+185||(ulepszenie 1) — nazwa] 전흑선환 - 혼[混]|Completed Heixian Bolus - Hun [混]
+186||(ulepszenie 1) — opis] [WhenUse] 메인 공격 대상에게 부여된 부정적인 효과 수 1개당 코인 위력 +1 (최대 2)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 다음 턴에 [Binding] 2, [DefenseDown] 6 얻음|[WhenUse] Coin Power +1 for every type of negative effect on the main target (max 2)\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Gain 2 [Binding] and 6 [DefenseDown] next turn
+189||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]
+193||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 횟수 3 증가|[UnBrokenCoinOnSucceedAttack] Inflict +3 [Burst] Count
+194||(ulepszenie 1) — nazwa] 전흑선환 - 유[酉] - 수비|Completed Heixian Bolus - You [酉] - Defense
+195||(ulepszenie 1) — opis] [CanDuelGuard]\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합이 5 이상이면, 코인 위력 +2\n[WhenUse] 정신력 8 회복\n[WhenUse] [Breath] 3 얻고, [Breath] 횟수 2 증가|[CanDuelGuard]\n[WhenUse] If target has 5+ ([Laceration] + [Burst]), Coin Power +2\n[WhenUse] Heal 8 SP\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count
+197||(ulepszenie 1) — nazwa] 보옥요람[寶玉搖籃]|Precious Jade's Cradle [寶玉搖籃]
+198||(ulepszenie 1) — opis] [CantChangeTarget]\n홍루 우선 공격\n대상이 홍루면 피해량이 0으로 고정됨\n[EndSkill] 대상이 홍루면, 흐트러짐 상태로 만들고 다음 턴에 [ExpensiveJade]으로 만듦. 이후 턴 종료|[CantChangeTarget]\nPrioritizes Hong Lu\nWhen this Skill targets Hong Lu, deal 0 damage\n[EndSkill] When this Skill targets Hong Lu, Stagger him, then turn him into [ExpensiveJade] next turn; then, end the turn
+200||(ulepszenie 1) — nazwa] 괴력난신 - 인사유[寅巳酉]|Supernatural, Strength, Chaos, and Spirits - Yin Si You [寅巳酉]
+201||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 5 ([Laceration] + [Burst]) on target (max 2)
+202||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2, [Burst] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration] and 2 [Burst]
+204||(ulepszenie 1) — nazwa] 너희는 그 눈의 힘과 특별함을 아직도 한참을 모르고 있구나|You do not know the fathoms of the eye's powers, its special nature
+205||(ulepszenie 1) — opis] 홍루 우선 공격\n[WhenUse] 보옥이 있으면, 이 스킬의 모든 코인이 [SuperCoin]이 됨\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 코인 위력 +1 (최대 2)|Prioritizes Hong Lu\n[WhenUse] When there is Baoyu, the Precious Jade, convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 2)
+206||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3, [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count and +3 [Burst] Count
+207||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1, [Burst] 1 부여|[OnSucceedAttack] Inflict 1 [Laceration] and 1 [Burst]
+209||(ulepszenie 1) — nazwa] 선인님들 지켜봐주세요...!|Please Watch me, O Xianren...!

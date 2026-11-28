@@ -1,0 +1,79 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "…Po co ty w ogóle siedzisz w Seven?",
+      "kr_sha256": "7ba5497a83d0de05eaf473e2bc4871908157beb8f5259d6801509f1a018af7a3",
+      "en_sha256": "39780d80fd1c0251b13d72528a6cb15ebfd225a708517f0ba24709738f65c878"
+    },
+    "dataList[id=10].content": {
+      "pl": "Dziecko uniosło miecz w dziwnej pozycji i w mgnieniu oka zaczęło nim śmigać.",
+      "kr_sha256": "626c06c8e519028db324a32fffb43bc57272eca37a8529cdad040b98f1a5683c",
+      "en_sha256": "c1ef5ffe277145e57f2f215037a105ab72f298915685c07c28c3f6dfd595857e"
+    },
+    "dataList[id=11].content": {
+      "pl": "Wszystko, czego dotknęło ostrze, zostawało obdarte, odcięte, poszatkowane, rozrzucone…",
+      "kr_sha256": "f0fd3b94ef14366fc94fd72d2d9c3a1a74314f7a26294bfc70a9e9f85ce89989",
+      "en_sha256": "37e24c99265d12083833fbbd8fb83ef868156a117106120fab95256208aa1224"
+    },
+    "dataList[id=12].content": {
+      "pl": "M.S.S.S…",
+      "kr_sha256": "d9640ddc50e739f7ee071022233086ed058becc304862c12179a3ddeecb10ee8",
+      "en_sha256": "bbbf0e0bf3bd1dbf9082bd70d1bcb81ce9417d7f7d738d00ed8bea7c1c0de65b"
+    },
+    "dataList[id=13].content": {
+      "pl": "Mieczem stworzony szczyt sztuki.",
+      "kr_sha256": "91e43f0e9f0bb719bad162f49ba4f843c55bcc01b92f5593c79c1a5e57f9457a",
+      "en_sha256": "d783b5b420712242bc20a67a9d1898bcfd2f5454f8bb7fac4155601919c3f565"
+    },
+    "dataList[id=14].content": {
+      "pl": "I zgodnie z tymi słowami to, co miała przed sobą, zmieniło się w bryłę mięsa zupełnie niepodobną do człowieka.",
+      "kr_sha256": "56fe03df540e5f84c450482620743fe1ddacade0333d9e3eee426c21b3fbf1bb",
+      "en_sha256": "44ad8b5eaa7f08978da2e5fa04e854c02ceff63004834fdc9d21fa1be62615eb"
+    },
+    "dataList[id=1].content": {
+      "pl": "Nic. Spec.",
+      "kr_sha256": "36addeec8e9fa6f5f35bb102e4ae643e2ff29e793f9c012717d2811a87b118bc",
+      "en_sha256": "3e6038eaee0cee7c876995a040ccf8d6439ed8a9bb7e02cf0851408eb8d3d026"
+    },
+    "dataList[id=2].content": {
+      "pl": "Dziecko na każde pytanie odpowiadało chłodno.",
+      "kr_sha256": "a1370872200d8bce5ff0bd1cd9a803a7079fbe3aedcadb034029c065cd84bf84",
+      "en_sha256": "0c67603c9261847cb16714c42711d057aa21cdd9d9fe53d92a61c9a3f4b04356"
+    },
+    "dataList[id=3].content": {
+      "pl": "To też właściwie nic nie znaczyło, ale Stowarzyszenie Seven zwróciło uwagę właśnie na tę cechę dziecka.",
+      "kr_sha256": "8fb3afdf856c058c5b73567e02ac2fad3cca1a48a9d11de120feee2c61eaf072",
+      "en_sha256": "335873b3a27ae8fee5d504b226c90dd6fd5270d29c32abd8f1de883ffb403bd3"
+    },
+    "dataList[id=4].content": {
+      "pl": "‘Asymetria informacji’.",
+      "kr_sha256": "68d465e9db4dbbc76bf9b131319a5e757f7489adb55c6ed07b074a23505bd7d1",
+      "en_sha256": "951984b38f97444ca36a8a6851bcaf5ca54a1a3c29b79dffb2641cf6acdb09fe"
+    },
+    "dataList[id=5].content": {
+      "pl": "Seven zbiera informacje, ale swoich nikomu nie oddaje. Taka panowała u nich zasada.",
+      "kr_sha256": "b899306ba529465840c9bb764b87c006c6cb52e83766c2fcf71f865e32e3a1d5",
+      "en_sha256": "c92db8f12cff1b53215ac7fce593a7d359ef6ef52540b3d6456cbb1bdc60c9ed"
+    },
+    "dataList[id=6].content": {
+      "pl": "A dziecko bardzo niechętnie dzieliło się z innymi czymkolwiek. Można by rzec: umiało trzymać język za zębami?",
+      "kr_sha256": "8ef2475b37a67bebac5c78d7cf44fe2b18bfa79d6420cc449e3971b6acdf4862",
+      "en_sha256": "d2273f5509a624ad1dc78f93510de1e7affd8017dd6468e05313af4565f38c6a"
+    },
+    "dataList[id=7].content": {
+      "pl": "Choć oczywiście wcale nie robiło tego celowo.",
+      "kr_sha256": "ba7df23b0a0163d98bc5ab03ded13c4a497878252cb270abc6de56b1e20ae260",
+      "en_sha256": "ab8670468ca3884e49681a9d15b7a4e7eaf6068fc6d39d4bad7c887b2caa0876"
+    },
+    "dataList[id=8].content": {
+      "pl": "Bardziej prawdopodobne, że dziecku po prostu potrzebne było miejsce, gdzie mogłoby pomachać mieczem.",
+      "kr_sha256": "3e07826a388ccc6027a33c1bf6af890d2f4c15cc084989ff8be8f7318daac90c",
+      "en_sha256": "cec5d131429f90e8bf96d0f49a43f57634287954a166583965d44326a613a3c2"
+    },
+    "dataList[id=9].content": {
+      "pl": "…Hm. Patrz uważnie.",
+      "kr_sha256": "ca68d928b8c62f79170cf333997bf5c294339416bc5234676808340fe4bac968",
+      "en_sha256": "ee513c88b3ff0bb78fbbcd6286dd49d70b8ae2bcee2502a70611675566e1e632"
+    }
+  }
+}

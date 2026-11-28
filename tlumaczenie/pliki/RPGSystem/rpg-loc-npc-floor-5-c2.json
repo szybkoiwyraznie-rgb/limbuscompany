@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[key=N105011_C2].displayName": {
+      "pl": "Bufet",
+      "kr_sha256": "6d0e2a824abd9d8a9048ebbb35f6c52b949deac6f7dca5812455f40a21e40dfc",
+      "en_sha256": "3a399d340872b1fc7d63c89aaa215f779a4ea693087ab0b168d81e497fd247ec",
+      "origin": "ai"
+    },
+    "dataList[key=N105030_C2].displayName": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=N105031_C2].displayName": {
+      "pl": "Stół Uczty",
+      "kr_sha256": "14b9f5b201afe5ec64130c12e6f287e2fa64a2eb7fbd2573baf42c855873f12a",
+      "en_sha256": "b8cad5d8faf93f46c8358f7c477f0e0a26883122ae7a9a9d01d9d68b5586bdd7",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=FOURTH_MATCH_FLAME].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=MAGICAL_GIRL].name": {
+      "pl": "Czarodziejka",
+      "kr_sha256": "7ae0464e45f26ddc85a5954cec581bcfca46bc7ce4babc30734fbbe342e56ede",
+      "en_sha256": "7a637b1aff315a0c274f1b7e7efd27455285b7083eb134acf7195d1aac8a77a6",
+      "origin": "ai"
+    }
+  }
+}

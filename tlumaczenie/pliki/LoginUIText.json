@@ -1,0 +1,556 @@
+{
+  "entries": {
+    "dataList[id=ask_to_remove_all_cache].content": {
+      "pl": "Wyczyścić całą pamięć podręczną?",
+      "kr_sha256": "20759ff0038060b1ca867e9ae24f13cd01d97db48d3a88ba78a670efbfc4e6db",
+      "en_sha256": "32f410ecbdc65bc3256c6324f17e083aa4510282cb856ea654cb6db08c73cc8a",
+      "origin": "ai"
+    },
+    "dataList[id=content_game_data_download].content": {
+      "pl": "Pobieranie {0} danych.",
+      "kr_sha256": "020260c41769487e5d75f9131dd1a6808d8a5220c27d412fedf63e73112ca75c",
+      "en_sha256": "cf8c8ce2abd8ce6353d08a5a26391f28fc2452639ac6a20590533958206416c4",
+      "origin": "ai"
+    },
+    "dataList[id=content_game_data_download_description].content": {
+      "pl": "W przypadku braku miejsca na urządzeniu nastąpi powrót do ekranu tytułowego.",
+      "kr_sha256": "c4f908e7b6830faac738c021c7c4151c0282d36099b1c408045360b99fa490b0",
+      "en_sha256": "51fa925cdcc8c80c7883129c5ea987f29a72d60b8dd6d43b4c5ce5ab6a4c5f65",
+      "origin": "ai"
+    },
+    "dataList[id=content_game_data_download_recommend].content": {
+      "pl": "Zalecane jest pobieranie przez sieć Wi-Fi.",
+      "kr_sha256": "4c1b0f8be759d0b5252d7f2969446f719be0cda2c1887fe13f08c06e728a672a",
+      "en_sha256": "71e93cc911d396ca9793fcb70a40c453f69f2b48c8f8e7e0d43a58f7a33580a8",
+      "origin": "ai"
+    },
+    "dataList[id=create_guest].content": {
+      "pl": "Utwórz konto gościa",
+      "kr_sha256": "eeb016e646f2f23b0aaeda6320633b8fdffbfc87124663b20d93e03849c9c450",
+      "en_sha256": "dec78fa7f9886362ff977b99f50e69fb491747291910e4c6782c0c75d79c741a",
+      "origin": "ai"
+    },
+    "dataList[id=custom_localize_button].content": {
+      "pl": "Wybierz własny język",
+      "kr_sha256": "64dab847214ce9ad88e88cb148797b80022179364d727210535d7a62c1642ba3",
+      "en_sha256": "5afc69b68763f3df3ea383e722b57e5447c3f91f5d8dc5edfc6f4ec82e011db5",
+      "origin": "ai"
+    },
+    "dataList[id=custom_localize_desc].content": {
+      "pl": "※ Zmiana języka zostanie zastosowana po ponownym uruchomieniu gry.",
+      "kr_sha256": "6d242a708879ab4736bdc47515e2f33df74e3fcea5e5cfccfd1723a93147f9cd",
+      "en_sha256": "0604d1a815d4f1e19e5a119879b3b93ab9c8b461a00ffcea25d19b7b38bad114",
+      "origin": "ai"
+    },
+    "dataList[id=custom_localize_title].content": {
+      "pl": "Wybierz własny język",
+      "kr_sha256": "64dab847214ce9ad88e88cb148797b80022179364d727210535d7a62c1642ba3",
+      "en_sha256": "5afc69b68763f3df3ea383e722b57e5447c3f91f5d8dc5edfc6f4ec82e011db5",
+      "origin": "ai"
+    },
+    "dataList[id=forcequit_cache_initialize_fail].content": {
+      "pl": "Nie udało się poprawnie uruchomić klienta gry.\nSprawdź stan połączenia sieciowego i spróbuj ponownie.\nKontakt: limbussupport+bug@projmoon.com",
+      "kr_sha256": "5b6dfe714338a9311e83c43e539d461488e08b3af4cabf9814f88e9992198f7b",
+      "en_sha256": "7a5ecc393490fb1f745000a7170a353d8b1202ccc8f308c8ab5b4ca5f7b6afbf",
+      "origin": "ai"
+    },
+    "dataList[id=forcequit_content].content": {
+      "pl": "Nie można kontynuować działania gry.\nGra zostanie zamknięta.",
+      "kr_sha256": "612e8477974321b38cbfe1cbacbfbfd2ab45841e3ece04a2d3052db3d0b0f772",
+      "en_sha256": "b49a8d72f42418bb3eb67a1b8960ec14f2cfb33651a5f7689e7e9a1b098c003f",
+      "origin": "ai"
+    },
+    "dataList[id=guestlogin_failed_try_newguest].content": {
+      "pl": "Logowanie gościa nie powiodło się.\nKonto gościa nie istnieje lub jest już powiązane.\n\nCzy chcesz utworzyć nowe konto gościa?",
+      "kr_sha256": "bcb490f737421e5beee497c5a2762f9d8e07314f25547c09708246571ed53088",
+      "en_sha256": "28608abfd73c2e771d47f61fa677c7e3a416100310bd99e2cbafcb34bd851255",
+      "origin": "ai"
+    },
+    "dataList[id=invalid_login_is_not_guest].content": {
+      "pl": "To konto gościa jest już powiązane z platformą.\nKliknij [Zmień konto], aby zalogować się przez powiązaną platformę.",
+      "kr_sha256": "5758198a382ee8f64c1e1a04ff1fbe6e8501f8fe72e3fea10639edfa9af908d5",
+      "en_sha256": "60fc11b70fdbdb6b8766627ea381cc6e03a18bf0f95bc314414121bf6c8b6c84",
+      "origin": "ai"
+    },
+    "dataList[id=invalid_login_no_guest_uid].content": {
+      "pl": "Konto gościa nie istnieje\nlub zostało usunięte.",
+      "kr_sha256": "3a584a2b7b49a7740e0e99840b5061a1b292c17b403b9df697617e9daf9c9d53",
+      "en_sha256": "038c54aa7eba665b1305c3328df6a7444d4ba2576d3288f56f973f3307c19c97",
+      "origin": "ai"
+    },
+    "dataList[id=login_cancel].content": {
+      "pl": "Anuluj",
+      "kr_sha256": "be876433993ab7ba221512b5703b32060626f390aa50d7ed464a847a34539a6c",
+      "en_sha256": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "origin": "ai"
+    },
+    "dataList[id=login_scene_mini_story_unlock_code_105].content": {
+      "pl": "5",
+      "kr_sha256": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "en_sha256": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "origin": "ai"
+    },
+    "dataList[id=login_scene_mini_story_unlock_code_9105].content": {
+      "pl": "5.5",
+      "kr_sha256": "4819f5315cb49422b0b21be64e48bb69c9c157cf41c6631994f931ab9fba86bd",
+      "en_sha256": "4819f5315cb49422b0b21be64e48bb69c9c157cf41c6631994f931ab9fba86bd",
+      "origin": "ai"
+    },
+    "dataList[id=login_scene_mini_story_warning_spoiler_format].content": {
+      "pl": "Ta historia rozgrywa się po Rozdziale {0} Głównej Opowieści. Czy mimo to chcesz ją obejrzeć?",
+      "kr_sha256": "db9cf95e053f186db8a29b0545179e00e485ba705be326bc7c6715cdb97e9a6b",
+      "en_sha256": "d4155732c1ef46e6bdfc7964de823aafd41a37bd65996ab49d77032b3068d6c4",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_loading_battlehint].content": {
+      "pl": "Wskazówki Bojowe",
+      "kr_sha256": "5d8ee6c0b430a4bd0c5a6620dc3f66919ae80ce11adb0051d4c0933427f2f5d5",
+      "en_sha256": "8732d17a346b3423f54d33e30da7719be24837c2c80815bfd991c0b75ad5b7b2",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_ok].content": {
+      "pl": "Potwierdź",
+      "kr_sha256": "1aacb54c499242964cc07e606bd5b1d628a56b6dd22267ae14202fbd35884fc4",
+      "en_sha256": "eebdd24a77d9ad32222660c07777163bf5f6732df2b172351f3f8d5783e4f529",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_sign_in_with_apple].content": {
+      "pl": "Zaloguj przez Apple",
+      "kr_sha256": "c66502ada808b7ee034108fa374abf4412c4c8fff8f083445e02471ffef5db04",
+      "en_sha256": "396d40caca74206aee484fdcffd4fff758c6f9772a17724388e815b72fe31fd1",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_sign_in_with_google].content": {
+      "pl": "Zaloguj przez Google",
+      "kr_sha256": "853426b095cda098626b3279b789697dddbdbe0bd7b20a300cd4deee8bbd8ba2",
+      "en_sha256": "1dbcee6824432178cc78fb788a641916632604e164350ba5df29375d365f31fa",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_sign_in_with_guest].content": {
+      "pl": "Zaloguj jako gość",
+      "kr_sha256": "6431a040c84efe97ff63d38f153adce1c4483a087c5b185619e5b4fbc6c5c46a",
+      "en_sha256": "00dce14d2608ba76c4ff4d354de8671ff240c75456d1acada3b26d3f8d2a552e",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_sign_in_with_steam].content": {
+      "pl": "Zaloguj przez Steam",
+      "kr_sha256": "6e9306bcaef1e0b5ab5f80c2c95db9447ec5db493d8399582192edc11df37c95",
+      "en_sha256": "aa3aac123b530a5223221d4509742a55e73942e6e06081ed045c94c6bc0b8f7d",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_sign_out_current_account].content": {
+      "pl": "Wyloguj obecne konto",
+      "kr_sha256": "1b564cd2e5e9f6448a6668e32f4beb5fafb1b8243ba7c3006c03b536f5bc56b8",
+      "en_sha256": "0b184bc5d53419982a5a51e0283555322b055f14adbb6d6ea2ef1fffdbe8beb0",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_sign_out_current_account_desc].content": {
+      "pl": "Czy chcesz wylogować obecne konto?\nW przypadku konta gościa dane mogą zostać utracone.",
+      "kr_sha256": "e4f1eee1d3233b807c7bf2420499467e889dbac93c8e458041ff4967f307943e",
+      "en_sha256": "ef022b84380907bb66b7ff77bca31d14153a779decb169eab4cbf950d62209b2",
+      "origin": "ai"
+    },
+    "dataList[id=loginui_sign_out_switch_account_desc].content": {
+      "pl": "Czy chcesz wylogować obecne konto\ni przełączyć na wybrane?\nW przypadku konta gościa dane mogą zostać utracone.",
+      "kr_sha256": "95dcf4e73a5d0dce0a9a7946b91a6df52d9ccef8d38b5f2557a6589482b200ba",
+      "en_sha256": "4e31aeaaa5555a2e81d1b196dea5f90279f4d57b6daad5df96e7adf8ed678919",
+      "origin": "ai"
+    },
+    "dataList[id=need_verify_integrity_steam].content": {
+      "pl": "Wykryto brakujące zasoby.\nUżyj funkcji „Sprawdź spójność plików gry” na Steam.",
+      "kr_sha256": "9774e56c1d43f74a33f2e54610b5183216f477e27c7ebeaf5e026fe4af916f8e",
+      "en_sha256": "cf6aac3e1df9aabdbdfc320b8c61c96527d8db646683f7c75697f23bd8f521de",
+      "origin": "ai"
+    },
+    "dataList[id=networkingerror_close].content": {
+      "pl": "Zamknij",
+      "kr_sha256": "1e8c10206f5b35bd96122e14038b5afd38e326a758874332b3931d6db9b25259",
+      "en_sha256": "7d9eb7acb13e24625c404401d8e88b2350e32162455885f18276cf802f7701ed",
+      "origin": "ai"
+    },
+    "dataList[id=networkingerror_content].content": {
+      "pl": "Połączenie sieciowe jest niestabilne.\nSprawdź połączenie z internetem.",
+      "kr_sha256": "05cb005ee8a4a95d6801b7c59e04460aec08882a18b8396ee1d57a6e2319a48a",
+      "en_sha256": "d0a0c7424298fa44fde878679c6b16fa8e626e01cddb81c240d3734e98504c59",
+      "origin": "ai"
+    },
+    "dataList[id=networkingerror_retry].content": {
+      "pl": "Ponów",
+      "kr_sha256": "1d9e7fda2b3ac5d5bdc415a9f4e3170adce6efee0017d1ea6e7278cbc4a338c2",
+      "en_sha256": "942087cc2d41e01304b7195558d093d10c72af8e838c7556d6a02d471ee71852",
+      "origin": "ai"
+    },
+    "dataList[id=networkingerror_update].content": {
+      "pl": "Przejdź do sklepu",
+      "kr_sha256": "88c289b95c8d3173a037d9d0d9f90750617c4e7ba96cc45f6851f61b00f65631",
+      "en_sha256": "7c3e3f319d5c47ef297181ae17be96388073c7ad333fa2af401f1257908c4d6a",
+      "origin": "ai"
+    },
+    "dataList[id=panel_clearcatalog].content": {
+      "pl": "Czy usunąć katalog?",
+      "kr_sha256": "e39272f09766cda00bc01e229661a3e1d212fd097e1b455bcad4912238543c80",
+      "en_sha256": "746674d8803d1a23c1dc05cbb7ce736482b36f51a2a82854d9271c4887074b6c",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_11_text].content": {
+      "pl": "Kierowniku… jesteś zajęty? N-nic wielkiego, tylko… Enkefalina zaraz zacznie się przelewać…",
+      "kr_sha256": "9c9262f3e98819deb88c65b1c3d89f14036d301cae58957c5335f51501bced57",
+      "en_sha256": "cb2597e856a36e42b81a492cc5fb392018da284ec9a64bf41df1f256987ed285",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_11_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_12_text].content": {
+      "pl": "Melduję, Kierowniku Wykonawczy. Enkefalina osiągnęła pełny stan. Zalecam jej zużycie bądź konwersję.",
+      "kr_sha256": "9227564d184fb0f48921efa14b6f9cfeef73a2419dd2b4ee818eb7d42556aec1",
+      "en_sha256": "7b828095fa67631bfbb0c663b3c24f0be6c207cd35fef44d119673a2b183a6ea",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_12_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_13_text].content": {
+      "pl": "Eee, Kierowniku! Słuchaj no, bak w autobusie pełny… Może byś tak zerknął?",
+      "kr_sha256": "6d49d24be3f5df6ce67e09f6c50b5f54c57b843ad1d28682f7544ca628747a1c",
+      "en_sha256": "3056d4e31f8af908b4ce6637e34c4dfe9b8efb4f346d7e34866d283909f55d34",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_13_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_14_text].content": {
+      "pl": "Koniec przerwy, Kierowniku Dante. Nie trzymaj autobusu na postoju zbyt długo.",
+      "kr_sha256": "6d19a326c9d54b1ee6f2a91ea4f38bea9bb6797032159c84402cffe33d60b29e",
+      "en_sha256": "af27b6ef454815a5f894c55dc272a082c4a203afca38e362ab635e84f12b567a",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_14_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_15_text].content": {
+      "pl": "Mefi ma pełny brzuszek. Charon mówi, że pora na brum-brum.",
+      "kr_sha256": "091aefa3b6e875b1bcdb893a3609d3238e34f5d6ac6902171038c5786a730958",
+      "en_sha256": "c663dbddb6b73a13b693615d9b3b9031c467a357e9376d1a0aa1ed0ac858e60c",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_15_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_1_text].content": {
+      "pl": "Nie ma w tym nic osobliwego. Przybyłem jedynie powiadomić, iż Enkefalina wypełniła się po brzegi… To wszystko z mej strony.",
+      "kr_sha256": "93ee2904ebb5ca5bc6755d0b682d82163d0e55e1b39aa5caf902af1c73c30871",
+      "en_sha256": "c4aff6e1aca8ccff82e8170de136d72de95073ce2d07e26f7c47742f63267c6e",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_1_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_2_text].content": {
+      "pl": "Ładowanie Enkefaliny zakończone, Kierowniku. W trosce o wydajność zalecam przetworzenie jej w moduły.",
+      "kr_sha256": "8b32f5aaaee5fff82e7b0af63e79f838b8052c9f9257e4ac407c40b6fb5f4b7a",
+      "en_sha256": "9e7097ba377803e9dda6cb74d915632dee3e6576db5255a250e8e1b46af80f5c",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_2_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_3_text].content": {
+      "pl": "KIEROWNIKU SZLACHETNY!!! ZBIORNIK PALIWA JEST PEŁEN PO BRZEGI!!! PRZYBYWAJ, ALBOWIEM PRZYGODA WZYWA!!!",
+      "kr_sha256": "6e82d116de3cbdbbfbcc05a142187b715dfbedafc67cbbf11015fd8ee309e750",
+      "en_sha256": "c02023447673a60589e8e0efda46e8abc234bde0fdb4be8d3341cefa481b5e1d",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_3_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_4_text].content": {
+      "pl": "E.N. (Enkefalina Naładowana.)",
+      "kr_sha256": "032c6a2d5c8dcf5a2075bf252bdb0c3ebf9a60a576c44d54c49a5034ae135039",
+      "en_sha256": "358c3e45d6081ed64eaec2ad57780cf72d58654eb27f1f81fb29783c89ce8f84",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_4_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_5_text].content": {
+      "pl": "Ładowanie Enkefaliny zostało zakończone, Kierowniku.",
+      "kr_sha256": "9ccf8836436be955af24dc063ba7e869883f271eebcfb3f803246f34c054935d",
+      "en_sha256": "bce1d2f7c4be0608e82da75a3c919bda2a009a990df84832cfb552c573c877b3",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_5_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_6_text].content": {
+      "pl": "Ojej~ Wygląda na to, że Enkefalina już się naładowała~ Zajrzymy tam razem?",
+      "kr_sha256": "5c1154d79a4966ab712a74baf2465971ed55183eba170057b768b0dd436ee35b",
+      "en_sha256": "cabd90739afc0e615f6f12791344766f537b8a88f351ec4b1d5b64ae9a2123e0",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_6_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_7_text].content": {
+      "pl": "Ej, to całe… Enkefa-coś tam? No, to zielone paliwo jest już pełne. Idź rzuć okiem.",
+      "kr_sha256": "3abf9158af68cf9519d038314f55ffe9ee1a08f62417acc24c003bf7fa732f68",
+      "en_sha256": "7b175b23c1a8993bd78f327339a36786d5ce130b0e678ecb9a14d3b47a43c374",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_7_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_8_text].content": {
+      "pl": "Enkefalina naładowana… Hm. Autobus może znów ruszać w drogę. Chodźmy.",
+      "kr_sha256": "405d907bcb0556ebe3322767eaf7312c3c363027005edff3a41796407d4ee279",
+      "en_sha256": "4d4cacf1c597b1ace5762b198f6e87784481ea1500c71f7937cfb31e176fd444",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_8_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_9_text].content": {
+      "pl": "Dante~ Enkefalina już pełna! Jak nie przerobisz jej na moduły, więcej się nie zmieści~",
+      "kr_sha256": "39b9b6a93dd72881031466b0ed790a9d19069a9e65875b40a8d6acf67267dc2a",
+      "en_sha256": "d5097969051bba0c1404c76bac9c636cf4ee091d7476d2b900a54aa576085b54",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_9_title].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_default_text].content": {
+      "pl": "Enkefalina została w pełni naładowana.",
+      "kr_sha256": "5698bfb0a5e6499d379915660bc85e305ef76229205d27f3136b8916fef2a12e",
+      "en_sha256": "fb4a469f2853be11cea547bee27dc820b00a0732d2f11bb91943776be8236e61",
+      "origin": "ai"
+    },
+    "dataList[id=push_notification_message_full_stamina_default_title].content": {
+      "pl": "Limbus Company",
+      "kr_sha256": "d19f74604eb5468429c7458ce1e79137a1714fed721bbd3f4b492493b493976e",
+      "en_sha256": "e6090d79d97583b7eb2ba74fe9e4cdb43cb785e2d2d690720f74e49fa51703db",
+      "origin": "ai"
+    },
+    "dataList[id=secession_canceled].content": {
+      "pl": "Pomyślnie przywrócono konto.",
+      "kr_sha256": "585fdecd6c0a0b53ffb2859fd7089ebfbd2ed14b37f06259c89204acd0063636",
+      "en_sha256": "9ec575370876c0adb6faf33f9bf24c7d020871155fccfa0dbde7c04874b15652",
+      "origin": "ai"
+    },
+    "dataList[id=secession_remain_days].content": {
+      "pl": "To konto jest w trakcie usuwania.\nPozostały czas: {0} dni {1} godz. {2} min\n\nZalogowanie się teraz przywróci konto.\nCzy chcesz przywrócić konto?",
+      "kr_sha256": "6a23148cb2f2658690a9c58651df2b4b0ff51afc9830f8a5244252d8013abd1b",
+      "en_sha256": "68c1b23cd0bd92570c94700433bf96ba641d65d7bc3153eae9d998a46294d982",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_content].content": {
+      "pl": "Wystąpił błąd serwera.\nSpróbuj ponownie za chwilę.",
+      "kr_sha256": "b1d4181232d8908eed3df075385184c0e307958c9cada91864cfca6143b9de15",
+      "en_sha256": "311e5b4453451337e49c81c1ae4585f20719e4160254a7a4ec03a3bc214d3587",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_invalid_purchasing_package].content": {
+      "pl": "Transakcja nie powiodła się.",
+      "kr_sha256": "0abf76e038754369d3328463b8b0c16620078b1c26418e4c2da2e0efa7aad46e",
+      "en_sha256": "395d65e0734619266302cd9fc8512da6d0e533efe4f429d186ae232935e8dbe6",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_remain_restore_purchasing].content": {
+      "pl": "Poprzednia transakcja wciąż trwa.\nUżyj przycisku [Przywróć zakupy] i spróbuj ponownie.",
+      "kr_sha256": "fe94a1a3f832b02c5ea3015fac40bffe082985359ebe5c6af2bc442144a6ae88",
+      "en_sha256": "f0cf1bf9647c110f92f8a48c1c4896698eb88d2f28c8310c536d23e8f696d8eb",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_blocking_endpoint].content": {
+      "pl": "Ta funkcja jest obecnie objęta przerwą techniczną.",
+      "kr_sha256": "2cfa498cd428052e567f9c628f5bab0a80f7fed76b7ee246448361e1d83f5f2f",
+      "en_sha256": "b67913b538fe033ae5d6463059b98f4cd612633d49d24e344dbc6130172f446e",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_error_thirdparty_api].content": {
+      "pl": "Błąd połączenia z serwerem zewnętrznym. Spróbuj ponownie później.",
+      "kr_sha256": "d89453ae786d6d5ed0dea8a7b801004c8a4c1672de3a1e8c2fb01db8f3a1ded2",
+      "en_sha256": "2276ae9c057a6772d47e325da4e0d319a732820307e5f07e7590c7cf58c60fc4",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_openpreparation].content": {
+      "pl": "Trwają przygotowania do otwarcia!",
+      "kr_sha256": "aba53b89b04ec0084ddc27b844f6a6bb6f42aa4abddc2c53db03d375288c6255",
+      "en_sha256": "3001e91674494f46160ee139e113fd8a6a015d1230f93aff1b141ef8df919785",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_regularcheck].content": {
+      "pl": "Trwa planowa przerwa techniczna serwera.",
+      "kr_sha256": "e1b891ab657b2120ff3d5fbc52e4d416b564dee0c28febcaea063ea6c06a20f8",
+      "en_sha256": "84e956e97b08bb10b74a47d8f7007314baa3479c7f733b741d67b44bed43c276",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_server_busy].content": {
+      "pl": "Serwer jest obecnie przeciążony.\nSpróbuj ponownie za chwilę.",
+      "kr_sha256": "130aa35f31fa2ef5359991d596ddc05d314cabed159a07c53689f19a70e143fc",
+      "en_sha256": "ac49598df3b45ca68784acf42b9566b51ff68e593cdff2bca0ffd050a3045bb9",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_temporary_check].content": {
+      "pl": "Trwa tymczasowa przerwa techniczna serwera.",
+      "kr_sha256": "0e4592277d74ebeb8ff01686a403058b29c89cbf3bc0450fddd2be14eb93661c",
+      "en_sha256": "7f202b83f15627230613b132b4fa4e41489b6904a00ad5e29475c0cc138402c4",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_ban].content": {
+      "pl": "Dostęp tego konta do gry został ograniczony.",
+      "kr_sha256": "69250a0fb7f9866a8f49d7db9beb8753e8015b101c397cd3d02aafbf411626ae",
+      "en_sha256": "7123ba6a9f5d0ac5b6bd85135bee282ebc2a2fb74ba9f3e641ae6fe8996ceb13",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_ban_reason].content": {
+      "pl": "Opis",
+      "kr_sha256": "cb0f24046b508710d6315e71bd9b21b920cf15301b0cf055dc9569c507576ea3",
+      "en_sha256": "526e0087cc3f254d9f86f6c7d8e23d954c4dfda2b312efc29194ae8a860106ba",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_ban_reason_cheat].content": {
+      "pl": "Nieprawidłowa aktywność w grze",
+      "kr_sha256": "60aaca32adf3f43529b47817bb9494be870feecd04b96cddaaf34affba740e20",
+      "en_sha256": "1f846edf208fc09789927cc7dc8fe0c997694f1ee31619bcd1ffd4521981d61b",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_ban_reason_refund].content": {
+      "pl": "Nadużycie systemu zwrotów sklepu",
+      "kr_sha256": "0b2be229bc27ae5c72c57737f4d47240835a77561944b71ad23fca11e24a0bd3",
+      "en_sha256": "9208e5034add5e60c5525e3c9b88194156d93eec9df331d176fe49526d22ccab",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_ban_startdate].content": {
+      "pl": "Data",
+      "kr_sha256": "ff65069ded4b6cd31e66c2817335dbaeb7aced0ad41d4ae1dd22d6bea4216130",
+      "en_sha256": "99c40ab405926cb5ad1def9cff4d7ce624f8f8abfff4e85f655347fcb949d08e",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invalidauth].content": {
+      "pl": "Wystąpił błąd.\nZaloguj się ponownie.",
+      "kr_sha256": "f0980f1b152964e4a6c34bd2c82cb8134246fdd6bf0ecdeac3ad55dd1b7f53c9",
+      "en_sha256": "470c1e0d971810bf1feecaa4ad776fa481616cf378cec26b4c3f463f85470ce9",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invalidclientversion].content": {
+      "pl": "Klient gry jest nieaktualny.\nZaktualizuj grę do najnowszej wersji.",
+      "kr_sha256": "234ed026f2f54391de7e517474af520bddf2071eeb11d0b40c6caaa3d6254803",
+      "en_sha256": "3a50f963cd13709d0fa5056f881afa2e4452d761919cffab94e6019442dbba39",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invaliduser].content": {
+      "pl": "Konto nie istnieje lub zostało usunięte.",
+      "kr_sha256": "474ed83b7a1450d2e38197cf77343617ba886b295f826712a684783ac7a54660",
+      "en_sha256": "cf2618a073026d1c7e52b89f816421ed5043ac91fd8540d23364a50de8a7336b",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invaliduuid].content": {
+      "pl": "To żądanie zostało już przetworzone.\nUruchom grę ponownie w celu synchronizacji.",
+      "kr_sha256": "ba4cf40d57e5d2bd2362abe1c47fef4158243eacab36be3c840b26c1730ad3bf",
+      "en_sha256": "91e7d8e0a48d363239bbd6c3e4f8e378f1a766ffc6fdc9befd945d18a20e70d9",
+      "origin": "ai"
+    },
+    "dataList[id=speed_hack_warning].content": {
+      "pl": "Wykryto użycie nieautoryzowanego oprogramowania.",
+      "kr_sha256": "162c8a8f9b2b6149efd423900a17d18afbd968ba43d4063d7c60a439caede45b",
+      "en_sha256": "693ddf7f023fa4cff572fb3051c8b1a10d88b8d9f859c0ae938a084b03390177",
+      "origin": "ai"
+    },
+    "dataList[id=steam_overlay_cannot_activate_text].content": {
+      "pl": "Włącz opcję [Włącz nakładkę Steam podczas gry]\nw ustawieniach gry w Bibliotece Steam,\na następnie uruchom grę ponownie.",
+      "kr_sha256": "b72ca58bc17a07da81df68d42d249bfa905b0ad8f6e7860eb336670792c24190",
+      "en_sha256": "3ff271917045b4d62f5f845dd31fc92283ab23dfc00310f7f4ef009723a1c429",
+      "origin": "ai"
+    },
+    "dataList[id=steam_overlay_cannot_activate_title].content": {
+      "pl": "Błąd transakcji Steam",
+      "kr_sha256": "e3c419941f0279885af6d8efbf937619dc5c1f1a837531ec763bb226395081ec",
+      "en_sha256": "0de9d0620643f74e39e5f0c380f4b4ba3c7a0cdb67c2139250a88995272df31b",
+      "origin": "ai"
+    },
+    "dataList[id=switch_account].content": {
+      "pl": "Zmień konto",
+      "kr_sha256": "9bda167ab4f3af9f5a12b111d1a694f1f2ba478d5e3c0ae4d701656484dac1c4",
+      "en_sha256": "a723a2d8d30638d3a53cb0a3d68484fd1acf9fab18c04ea659929b89e2a3332e",
+      "origin": "ai"
+    },
+    "dataList[id=switch_allcacheclear].content": {
+      "pl": "Wyczyść całą pamięć podręczną",
+      "kr_sha256": "000c0fa3491e9eed5b951291e26324c05ded64927ef7ec745bc66b83a3b2a0e4",
+      "en_sha256": "ef191e4b1ed8be578a9306d8d038c2787b79af48134d86b05872dcdd3185322a",
+      "origin": "ai"
+    },
+    "dataList[id=switch_clearcatalog].content": {
+      "pl": "Usuń katalog",
+      "kr_sha256": "9b24e626362479ad5b17e217a08f83fef5c1b61bc64e3c43fa2d609ef7164454",
+      "en_sha256": "1cdd4c9004ac4765877ded3e716cd45268ef2597e8e3c32f6197811fc4cdd17f",
+      "origin": "ai"
+    },
+    "dataList[id=switch_oldcacheclear].content": {
+      "pl": "Wyczyść starą pamięć podręczną",
+      "kr_sha256": "a366e2339f8ee328613d4ee3e61bc2e95b735c8034ad8a11fdb2db668c7aaac7",
+      "en_sha256": "564054ac93e457ec892aed9344e239bf2b72ff26b1fb62e07f418a8e95e3bf28",
+      "origin": "ai"
+    },
+    "dataList[id=title_game_data_download].content": {
+      "pl": "Pobieranie danych gry",
+      "kr_sha256": "75d89133b5806e81d98606f7100cd7f89b245a192671909a00abfdf251118f32",
+      "en_sha256": "6545cb30ec16b1350c48faee8a2d332bd88d85aaf1a13e453c492789c2bc5273",
+      "origin": "ai"
+    },
+    "dataList[id=try_new_guest].content": {
+      "pl": "Utworzyć nowe konto gościa?",
+      "kr_sha256": "181290b6b4baeb780c749a449cc4ef6c599ba9cda96af5bc28b70a0e39d81b95",
+      "en_sha256": "753ae0881367b33cdca7b3656516b9ec2e486f49bcbeb88447328b280d67c779",
+      "origin": "ai"
+    },
+    "dataList[id=user_agreements].content": {
+      "pl": "Warunki korzystania",
+      "kr_sha256": "a99b644ecb0ee8c90b1329657ed22eacd3439d1aba9fd28bbad68d5439009416",
+      "en_sha256": "4afa55bf7aec7ddc5dfb904271f881be278e7629ce258675bf4b62f460017abb",
+      "origin": "ai"
+    }
+  }
+}

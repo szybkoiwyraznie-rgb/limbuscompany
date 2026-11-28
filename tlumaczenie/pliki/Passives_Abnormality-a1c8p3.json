@@ -1,0 +1,520 @@
+{
+  "entries": {
+    "dataList[id=113501].desc": {
+      "pl": "przy trafieniu własnym atakiem we wroga nakłada 1 [GazeReplica] (1 raz na Osobowość na turę)\ngdy zostaje zaatakowana przez wroga, nakłada 1 [GazeReplica] atakującemu (1 raz na Osobowość na turę)\nna Początku tury, jeżeli Hong Lu jest na polu bitwy, nakłada 1 [GazeReplica] Hong Lu",
+      "kr_sha256": "a35aa5e3edf41befe2981ae9f9a0707f301156a27acc1765e1f0a5294033f4ae",
+      "en_sha256": "b052d9e8747dceba6805a76422a54b4eba5511bb7bb0c66a6aedc758ecc206d3",
+      "origin": "ai"
+    },
+    "dataList[id=113501].name": {
+      "pl": "My Little Brother's Hand I Let Slip",
+      "kr_sha256": "162c91cb2b33201a60d646684d98b2c92c00a35f72542eea7fa3259b29eb0675",
+      "en_sha256": "7dcaf8cf7d73d03be919797a61d9f34d632e0ba38e48fb13487a9d4f0411f201",
+      "origin": "ai"
+    },
+    "dataList[id=113502].desc": {
+      "pl": "priorytet: cele z [GraspReplica]\ngdy istnieją cele z [GraspReplica], przybiera nowy wzorzec; wszystkie Odporności +0.1",
+      "kr_sha256": "91b2dc27b4e6063d6dd00da291d02a69181aa9c834064c2b878fcc7bb6e212bd",
+      "en_sha256": "866e7e00b73e8c2df4c9dd9854c9115ca3a17d9f75ec9678d1fe05c1ee1cbf20",
+      "origin": "ai"
+    },
+    "dataList[id=113502].name": {
+      "pl": "Grasp",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=113503].desc": {
+      "pl": "po dołączeniu do tej walki zyskuje 1 [EgoErodeReplica] z każdym upływającym końcem tury\n- na koniec tury, jeżeli HP jest niższe niż 50% Maks. HP albo SP wynosi -20 lub mniej, zyskuje dodatkowe 1 [EgoErodeReplica]",
+      "kr_sha256": "16478cef18393d981e83537f77b258a164a5b76f6adb9871c1abf86c4220f763",
+      "en_sha256": "12d183fae4bb0c9ad0f52641dd38507ad8cfb6e1727077e9b45050f964ed867d",
+      "origin": "ai"
+    },
+    "dataList[id=113503].name": {
+      "pl": "E.G.O Corrosion - N Corp.",
+      "kr_sha256": "873de636d54cfc22078d17de42ebdf1c2a167ff1accd7b0920f9df9f53a62cbd",
+      "en_sha256": "7307a2a02bac1ea80c12cbbb508fbcc29b555433a398c266eea23fe73bb9a3f3",
+      "origin": "ai"
+    },
+    "dataList[id=113504].desc": {
+      "pl": "jeżeli jest 4+ Grzeszników z 4+ Licznikami [GazeReplica], używa Umiejętności „Awe[TabExplain], Contempt[TabExplain] 【Unleashed】”",
+      "kr_sha256": "a16b78be42b7374ef94e85fc5c207716620c7391364fd4b27f8455c699cab2aa",
+      "en_sha256": "57a5ce159dc2cc3cf74345e3dfd788209b41ee313482578ebc3411ca862eaf12",
+      "origin": "ai"
+    },
+    "dataList[id=113504].name": {
+      "pl": "E.G.O Temporary Max Attunement",
+      "kr_sha256": "5e39345994383ceea29407ad1fcf73acab7107d635b8f9c7e6b0a62ee4f949f7",
+      "en_sha256": "4d0a800262fea142431724a60b0d14057a921271a88b102ebdf854f82341377b",
+      "origin": "ai"
+    },
+    "dataList[id=113505].desc": {
+      "pl": "gdy mają inni żyjący sojusznicy, jeżeli 5+ wrogów wskazuje tę jednostkę jako cel główny, ci wrogowie tracą po 10 HP i SP",
+      "kr_sha256": "7f8a15637e22fdf3e8120d43b59ff2c04f6b8cb79d9eef18cdb53704c37c1ec8",
+      "en_sha256": "74f318fd29db407532f8bd7ab6465a2bf8b9825588d836d84d528b26ce2e95c0",
+      "origin": "ai"
+    },
+    "dataList[id=113505].name": {
+      "pl": "Better avert your gazes",
+      "kr_sha256": "02a0b76d1d0b2a6cae97b208b8be5f18eff08f1bb20e42b052f2252a97041f95",
+      "en_sha256": "c2ed3a787eebd65198faaf03c5d7e404f4b1eed28816a3b2ae3cea7616843d1e",
+      "origin": "ai"
+    },
+    "dataList[id=113601].desc": {
+      "pl": "przy trafieniu przywraca 5 SP; po przegranej w Starciu traci 5 SP",
+      "kr_sha256": "ae40ad642a8d7f667c25f2ab75d097f939a9c17679c8a00ac1b03e99be7eef15",
+      "en_sha256": "15fd7aa2d023bed61152a33c9784764175ba1b11d06a09c9dbb4b2a777b3160f",
+      "origin": "ai"
+    },
+    "dataList[id=113601].name": {
+      "pl": "The Cost of Fell Bullets",
+      "kr_sha256": "9005a070f2fdaae913eb81b4f5f7db4c5cece5801df5566847e13944dddcab18",
+      "en_sha256": "0ef297620de2b1d5bf24c4936700a4e9c2ae058408129307b93930a1e99a626a",
+      "origin": "ai"
+    },
+    "dataList[id=113602].desc": {
+      "pl": "przy pokonaniu wroga zyskuje 3 Licznika [Breath]",
+      "kr_sha256": "52ecedb19b2b683c33f2a2b6f95fe99817dc80c42e1e2a93faa05502bd24d01d",
+      "en_sha256": "a0bc7671ec88990005fb68dee2dde13ba5f1f41bfcd4c2b244c5b90da5cd0710",
+      "origin": "ai"
+    },
+    "dataList[id=113602].name": {
+      "pl": "Szarża",
+      "kr_sha256": "4f98c06be3a21b9bdd2315b641c64d6e2f3cfab13d21516abc46bf26468ec9c4",
+      "en_sha256": "7195caf836b01f4af8b49681eca5924b0806c1766247234bb832000009a82043",
+      "origin": "ai"
+    },
+    "dataList[id=113603].desc": {
+      "pl": "przy SP niższym niż -20 używa specjalnego wzorca",
+      "kr_sha256": "4f6747094e0f40919475b088a03901f9acee35e7265848e646f7c4f270b0c0c1",
+      "en_sha256": "07832b5c721f67c3586871327f06e6144cc064a6c6586ab96999f72d6643fbf6",
+      "origin": "ai"
+    },
+    "dataList[id=113603].name": {
+      "pl": "A new era is upon us, my dear fellow.",
+      "kr_sha256": "b63871c455f8afcd3a2bfaaeb3db4a5466378808db5c9803f9f3477f29c0e09d",
+      "en_sha256": "0b9ac6eff414b98666073ddb51e391f234ca25f7fed64843c495d449a6e583d0",
+      "origin": "ai"
+    },
+    "dataList[id=113604].desc": {
+      "pl": "jeżeli HP pracownika N Corp. (poza Jia Huan) wynosi mniej niż 50%, używa specjalnego wzorca",
+      "kr_sha256": "5a5b778876758e88f3a8e6adb30227e07242a2c6d4156154809ff1dc7a366dde",
+      "en_sha256": "ee66f0f2638752e964a674c106acc6699f02b8c00cce252a88b80f76bc5b8f8e",
+      "origin": "ai"
+    },
+    "dataList[id=113604].name": {
+      "pl": "Please, dedicate yourself for the new ideal.",
+      "kr_sha256": "da89946c9519a11e1f95afa3f91fa01365f918c7f12b82b2be06072b94acc01e",
+      "en_sha256": "814dcfab86e5e2e212877abd40aaa3a48c728b280e288a2ee6cf19e714fca397",
+      "origin": "ai"
+    },
+    "dataList[id=114501].desc": {
+      "pl": "otrzymuje o 30% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\n\ngdy wyrzuca Monetę zużywającą [BulletPropellant]: brak [BulletPropellant] nie anuluje ataków jednostki, ale efekty tej Monety „nakłada [Combustion]” i „nakłada Licznik [Combustion]” nie uruchamiają się przy trafieniu\n\npodczas Starcia zwiększa Licznik [Vibration] celu o (1 + liczba rozegranych Stareć / 3)\n(maks. 3; maks. 3 razy na turę wobec tego samego celu)",
+      "kr_sha256": "a96eb91495f1b6a8f675a83c9b42ceb1e99c0a6262f522a7ef9f1376e8959186",
+      "en_sha256": "af17123fe885e1f9efc3f658bed6e28fa928d3dec2706064f8fa9bd12414994f",
+      "origin": "ai"
+    },
+    "dataList[id=114501].name": {
+      "pl": "The Thumb's Officer, Capo IIII",
+      "kr_sha256": "bebf3e9f057d41d53144582ac7e3f07f8441e966659225247da2e18474c8c21e",
+      "en_sha256": "ae7186e775ed74e89917be56301511d23a1acf7f78be8e7ea4ae72cdd4509487",
+      "origin": "ai"
+    },
+    "dataList[id=114502].desc": {
+      "pl": "na Początku walki oraz na Początku tury, w której przybiera nowy wzorzec:\n- zyskuje 1 [Bothersome]\n- przywraca 5 SP za każde 10% brakującego HP jednostki (maks. 40)",
+      "kr_sha256": "89b4796a517967fc00c3d4ba6c2c203ccc8c439b50d6c9215bebc0d2fc8a34d6",
+      "en_sha256": "0c5634a52a4340a86e08740a179708db338fa1b174e2afb697d2cc6fa0249c62",
+      "origin": "ai"
+    },
+    "dataList[id=114502].name": {
+      "pl": "Ten Blades of the East",
+      "kr_sha256": "9646b9f26c12bcf763445fafbccc2191bf97cfc4773530cfea133edf09a86b07",
+      "en_sha256": "b3b4638d018967a41144533b0df4d881923af10e02bc0b34002cde80e4217b51",
+      "origin": "ai"
+    },
+    "dataList[id=114503].desc": {
+      "pl": "na Początku tury nakłada 1 [Prey] celowi, który zadał tej jednostce najwięcej obrażeń w poprzedniej turze\n\npo tym, jak Lei Heng zaatakuje cel z [Prey], jeżeli cel:\n- przeszedł w Oszołamienie, wszyscy wrogowie tracą 10 SP i zyskują 1 [ParryingResultDown] w tej i następnej turze (1 raz na turę)\n- został pokonany, uruchamia powyższy efekt dodatkowy raz",
+      "kr_sha256": "aa7004dd7e3a075f004532d959405e37bb55503d01363b71b613fa0427ae0266",
+      "en_sha256": "96248a00103d825c12e8a0f44c08b0202523b50e1a0de552361bb0c1262b4849",
+      "origin": "ai"
+    },
+    "dataList[id=114503].name": {
+      "pl": "Chosen Prey",
+      "kr_sha256": "413218540755005fe4f1944e16a6cc9a7a8780f6c0fb177db58561ccfd8680c1",
+      "en_sha256": "e7fd96dd41815ee18d9bb2ce6dc8db7c760f9100d09cb6f19b6dcc5b001a5745",
+      "origin": "ai"
+    },
+    "dataList[id=114504].desc": {
+      "pl": "Ataki Jednostronne zadają przy trafieniu +30% obrażeń i nakładają 1 [Vulnerable] w następnej turze\n\nMonety Umiejętności, które zużyły [BulletPropellant], zadają przy trafieniu +20% obrażeń i nakładają 2 [DefenseDown] w następnej turze\n\npowyższe efekty nie uruchamiają się, jeżeli cel wyposażył Umiejętność obrony",
+      "kr_sha256": "be1c6cba6536c9ce5fa44711fafb70a6db0ce22c44bf0af03581cd56a3ea44a7",
+      "en_sha256": "6a9163715cddf9400fb9b741463420233d7ea32e013c123b1b83338cfd4dd9db",
+      "origin": "ai"
+    },
+    "dataList[id=114504].name": {
+      "pl": "Tiantui Star's Blade [天退星刀]",
+      "kr_sha256": "b2e3ce12cc41a5c5a99981992055c576595d6239c95669d14f115f0f3ca3f168",
+      "en_sha256": "1eeaf17b4a395e22220bf2d4c0b798f9d6c4ea67f1c9b187c4981dc49bfcdf64",
+      "origin": "ai"
+    },
+    "dataList[id=114505].desc": {
+      "pl": "na koniec tury, jeżeli HP spadło do 90% lub mniej, albo na koniec 2. tury, ładuje [BulletPropellant] i przybiera nowy wzorzec w następnej turze\n- jeżeli jest w Oszołamieniu, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "3c0f5fe0620a01a09babe5d2ebe40dec49e4e7a6c9c071f0a98f64bd2460e481",
+      "en_sha256": "dd65ac61d8141af1b17e29d60b8c196df572a10ba136e725759261d1ecccc817",
+      "origin": "ai"
+    },
+    "dataList[id=114505].name": {
+      "pl": "Tigermark Round Reload",
+      "kr_sha256": "3605648a0ec2b6530724880ebb5d934d36a013611f8439b2f5da8f0e8283a2a8",
+      "en_sha256": "47243f08d809250a6357089c60c4b9997bf8869f49a4debd2a9f3bcf634b4ad5",
+      "origin": "ai"
+    },
+    "dataList[id=114506].desc": {
+      "pl": "na koniec tury, jeżeli HP spadło do 80% lub mniej, albo na koniec 4. tury, przybiera nowy wzorzec w następnej turze\n- używa potężnego ataku („Tanglecleaver”), powtarza go co 3. turę. Min. i Maks. Szybkość +10 w turach, w których używa tej Umiejętności\n- na Początku tej tury zyskuje 25 [BattleSense]\n- jeżeli jest w Oszołamieniu, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "ddd79355289d2056b53a858cb8a106e8acebca946b07c5caaaecd92ebb795f4a",
+      "en_sha256": "acc5825ef60fe3cc02e44e4034360a0017b24a2244506c8185f250980efec2c8",
+      "origin": "ai"
+    },
+    "dataList[id=114506].name": {
+      "pl": "Lei Heng [雷橫]",
+      "kr_sha256": "cc00a00a1706a0effa66080380bf6a2a19d236e4da14c9b48e1242ec8f2006a7",
+      "en_sha256": "a93a06ac397da9cb538f85b3c70deb73bc56f15df290953ad9532d626724996c",
+      "origin": "ai"
+    },
+    "dataList[id=114507].desc": {
+      "pl": "jeżeli na koniec tury HP spadło do 60% lub mniej, albo jeżeli w następnej turze ma po raz drugi w tej walce użyć potężnego ataku („Tanglecleaver”), przybiera nowy wzorzec w następnej turze\n- na Początku tej tury zyskuje 1 [Irritation]\n- na Początku tej tury zyskuje 18 [BulletPropellantSpecial] i natychmiast je ładuje\n· jeżeli zużyje wszystkie [BulletPropellantSpecial], ten efekt zmienia się w [BulletPropellant], a w następnej turze przywołuje 2 jednostki „Stern Soldato of the Thumb”, które dostarczają jej [BulletPropellantSpecial]\n- jeżeli jest w Oszołamieniu, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "5b707dba3ef514016c3295c602d45836ef76ab42656cc8b2e36f72ac4b6711b0",
+      "en_sha256": "eceb790a49acc6de52bed9d645ab097fdf00f2611444132cbb1b63f48ad39898",
+      "origin": "ai"
+    },
+    "dataList[id=114507].name": {
+      "pl": "Tiantui Star [天退星]",
+      "kr_sha256": "514e702ffe7f93a730e6f8b6eb080e1e8e7b2dbce7368cdf4a32ab7298d0d99a",
+      "en_sha256": "d1c7efebf5a98e3d3aa34b0589eb7d5693958a551702a1ba48f1f9ca87083ee9",
+      "origin": "ai"
+    },
+    "dataList[id=114508].desc": {
+      "pl": "jeżeli na koniec tury HP spadło do 40% lub mniej, albo jeżeli w następnej turze ma po raz trzeci w tej walce użyć potężnego ataku („Tanglecleaver”), przybiera nowy wzorzec w następnej turze\n- potężny atak „Tanglecleaver” zmienia się w „Savage Tigerslayer's Perfected Flurry of Blades”. Min. i Maks. Szybkość +15 w turach, w których używa tej Umiejętności\n- [BattleSense] zmienia się w [RestoredBattleSense]\n- [Irritation] zmienia się w [HugeIrritation]\n- jeżeli jest w Oszołamieniu, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "440b9b5369d3bda1bd5600c5f9ea9bad182c393017f56621455a01c749e4db55",
+      "en_sha256": "7f4bf3f4530c8949e8f0692bdfac96c30c419b71faa68783a45075e2625f1663",
+      "origin": "ai"
+    },
+    "dataList[id=114508].name": {
+      "pl": "Lei Heng, The Pinky's Tiantui Star",
+      "kr_sha256": "31ec32d274a1110d591b4bc010c83dfbea8cf7a31b95f1f9448199b16f42f12d",
+      "en_sha256": "5635a4379350276fdd23c5a7736dbaed2a56d4d5c8eb101e4ba5dfcc21818d5a",
+      "origin": "ai"
+    },
+    "dataList[id=114510].desc": {
+      "pl": "na Początku walki, proporcjonalnie do wartości Szybkości tej jednostki:\n- przywraca SP równe wartości Szybkości. przy SP poniżej 0 przywracana wartość jest podwójna\n- zyskuje (wartość Szybkości / 3) [SlashDamageUp] (maks. 5)\n\nna Początku walki, jeżeli ta jednostka ma 3+ [Binding], powyższy efekt nie uruchamia się; zamiast tego zyskuje [DefenseDown] równy posiadanemu [Binding] (maks. 9)",
+      "kr_sha256": "dfa0dd711ee206f49233028e98adb6e4eec17305db1ec3a94e2de391af0b2901",
+      "en_sha256": "7cd2d2672dc0b0f7c3c9ce6daa2fc9ef61b02cd6a164ea22cc85a86578029fce",
+      "origin": "ai"
+    },
+    "dataList[id=114510].name": {
+      "pl": "Chachihu [揷翅虎]",
+      "kr_sha256": "d276285af848c7f62abec5873fcd1311d05fa216a295e525dada88d39183ba75",
+      "en_sha256": "1e4eb7f246c9a0b9eeb242d2ba47d93a4acd7c56954c3a00d238f004968a621b",
+      "origin": "ai"
+    },
+    "dataList[id=114512].desc": {
+      "pl": "jeżeli ta jednostka użyła potężnego ataku („Tanglecleaver” albo „Savage Tigerslayer's Perfected Flurry of Blades”), zyskuje [Complacency] w następnej turze równy liczbie użyć tych Umiejętności (maks. 5)",
+      "kr_sha256": "8c88e5c7ad236441372c07b348957b231e2162c96566fa3a17aaf139d84a1f86",
+      "en_sha256": "9eab523fce708b0937a84622e48a1530dec82bcda833bd146a8a64d0c2b4141e",
+      "origin": "ai"
+    },
+    "dataList[id=114512].name": {
+      "pl": "Tiantui Star's Blade - Overheat",
+      "kr_sha256": "b1777961f058279d78a8d72bba6e7f134dc46a8750366b89c090f4c40878b661",
+      "en_sha256": "4f261ae5aa7be01cd43373a7723371efd04d57850fe15336eb9c1b739670919a",
+      "origin": "ai"
+    },
+    "dataList[id=114513].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka jest w Panice, SP wraca do 0\n\nprzy dochodzeniu do siebie z Paniki: na Początku następnej tury przywraca SP równe brakującemu procentowi HP (maks. 30)",
+      "kr_sha256": "db531684167d1ebe1e48a1d5e48db718cdad29ee01fc8b981d4d1ace8855a698",
+      "en_sha256": "74a9033ccb2eda769b305140c340618d0b8df7148157726f89bb37d170a46671",
+      "origin": "ai"
+    },
+    "dataList[id=114513].name": {
+      "pl": "Panic Recovery",
+      "kr_sha256": "e3eea3f6529e6ea9565259f8e85095edeb4be438bbfe369a0fada18fd86a7598",
+      "en_sha256": "a1848737a6c2cddb3006496555ff7af839eee9d501150244fb99855fcccf2d14",
+      "origin": "ai"
+    },
+    "dataList[id=114601].desc": {
+      "pl": "HP nie spada poniżej 50%",
+      "kr_sha256": "d917d5f8c577ff80e9cc4e98624e4222d7e6707df31a5e877f597cc63ad19df9",
+      "en_sha256": "aa8b9dd6a0ddbf030186af6885a32d186052dc941320c7111bb92759a0fc97a5",
+      "origin": "ai"
+    },
+    "dataList[id=114601].name": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=114602].desc": {
+      "pl": "porażka w walce, gdy Hong Lu ginie. wszystkie Umiejętności wskazują Hong Lua jako cel priorytetowy",
+      "kr_sha256": "33f66743a855b10f50caeacca308a52cfcbc7a2c8fd19792ef57a25fd80993ca",
+      "en_sha256": "89c21206c4e2e4fbe394a6b813539fc94b8f1bf476b35fe3fe15a3407ad3536d",
+      "origin": "ai"
+    },
+    "dataList[id=114602].name": {
+      "pl": "Little Baoyu, the lineage of Family Hierarchs cannot end here...",
+      "kr_sha256": "40167fc6a18de573256b30deecae9e730131f644a6dd753edf5167e66c345e4b",
+      "en_sha256": "3e29a961515bc28c883c5c6163145379d4e69d4ecc4594a69c71433e06fed9ce",
+      "origin": "ai"
+    },
+    "dataList[id=114603].desc": {
+      "pl": "przy trafieniu po wygranej w Starciu z Hong Lu: nakłada 1 [PileObedient] (1 raz na Umiejętność)",
+      "kr_sha256": "818fb8b4ea1f6e7722d5bc7910bffc7760f680b50c8a8c1d6e899a4e5b718cdf",
+      "en_sha256": "a642317457e2805699956ca6fa7be8793ee50a1e2497be0e67926d121fcf9cdd",
+      "origin": "ai"
+    },
+    "dataList[id=114603].name": {
+      "pl": "Who shall serve the elders, who shall convey the revered Xianhuang Worm's will to Hongyuan then?!!!",
+      "kr_sha256": "a02ad7dfe2467e1cf41c6ee0c3dec030592d966c6ee9a5e8b5f02b31a93b3a92",
+      "en_sha256": "f7df33bec620c6e08ba9b3df1ba0d740663b25c3d949c540a85b897f686c12f8",
+      "origin": "ai"
+    },
+    "dataList[id=114604].desc": {
+      "pl": "Początek walki: zyskuje [GoldenBoughSync]",
+      "kr_sha256": "de96024c574bebcc71191f70363a70d353602c7b25bd4ce4faf4de675fe01d68",
+      "en_sha256": "89d23f78000e35bc4e18c3c66535c44cc8dce619dde8409754b2ccaa13b7222d",
+      "origin": "ai"
+    },
+    "dataList[id=114604].name": {
+      "pl": "Golden Bough Assimilation - Malattunement",
+      "kr_sha256": "f8c3ec52fff835c822f960638306e03465cd486ef9fdcdb1a8164cbeaa6de49e",
+      "en_sha256": "edf661a683ed112d39d2342bfca276a382abf711663c3a8a909ce105016a40cd",
+      "origin": "ai"
+    },
+    "dataList[id=114605].desc": {
+      "pl": "za każde użycie Umiejętności innego typu zyskuje 1 [AttackUp] i 1 [DefenseDown] (3 razy na turę)",
+      "kr_sha256": "7efb8db6bba0954a9fe71d89436915ae098e6290328c328b4c86cd9b28d69187",
+      "en_sha256": "707315a1d7085c2583fc24cb2669444e0275d9f8b1c4b8c454e511d6e72d6ff9",
+      "origin": "ai"
+    },
+    "dataList[id=114605].name": {
+      "pl": "Forbidden Pill of Hongyuan - Completed Heixian Bolus [全黑仙丸]",
+      "kr_sha256": "a02f3ad08c51743fd5fc60b80c8619b037ca207f5a296ad8cc0e9dfcc8b50e0f",
+      "en_sha256": "b25607c5bf1f921b733a145a88d950b140d32dc8c3d55a2e4386c8ef4322067a",
+      "origin": "ai"
+    },
+    "dataList[id=114606].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, na początku następnej tury dochodzi do siebie z Paniki, a SP wraca do 0\n\nprzy dochodzeniu do siebie z Paniki zyskuje 2 [Enhancement] i 2 [Endurance] w następnej turze; jeżeli Hong Lu ma [Obedient], przywraca 15 SP",
+      "kr_sha256": "c50d8de3e9aa5e77e8a5b16e22b1c18c14288b8898a98c0f56e6525d4069ee91",
+      "en_sha256": "6d54a57e84d86cc78cd84d7bbacc1b418b735ee8ccdc2162aca8d8839f748eb2",
+      "origin": "ai"
+    },
+    "dataList[id=114606].name": {
+      "pl": "Hongyuan has always been a putty in the hands of the revered Xianren",
+      "kr_sha256": "a21c13aa9e51062d0a595cd067ffaa2b9145d97259d51ee10fa219ba3be0fe99",
+      "en_sha256": "b943cf736467f4e0d6cc02eaae73b5de63c2c3bd4227c7f1af4b4b94ad7fbc44",
+      "origin": "ai"
+    },
+    "dataList[id=115201].desc": {
+      "pl": "porażka w walce, gdy Hong Lu ginie. na Początku tury, jeżeli istnieją jednostki przywołane przez tę jednostkę, przywraca 10 SP",
+      "kr_sha256": "95906a5a8f57f50c009ac7b0fbbd19804e9c11fa365fd4c4eba5aeb3e90907f4",
+      "en_sha256": "d2ca1051227bf84f6c638f08cf66dfc0f7d9b778d7ceaf4517f8136eff3f04ef",
+      "origin": "ai"
+    },
+    "dataList[id=115201].name": {
+      "pl": "Watch this little girl...!",
+      "kr_sha256": "50320ed37958f658c11b955bd36021a9dc71262e758d123460a4e339d74ba56f",
+      "en_sha256": "90910eb3a23bc03547c9e67d2e0faebe2276a73293facdfbcd08d905a52f26c2",
+      "origin": "ai"
+    },
+    "dataList[id=115202].desc": {
+      "pl": "Początek 2. Fazy: zyskuje [GoldenBoughSyncDistorted]",
+      "kr_sha256": "fdf4ec94023445b4c81a406de94239433cdb8cd349fee47314732e09e24f387f",
+      "en_sha256": "9f7462a01ab77c6789204548a7578c18c13bac4316ea9e7b0bf0578160af173a",
+      "origin": "ai"
+    },
+    "dataList[id=115202].name": {
+      "pl": "Golden Bough Assimilation - Distortion",
+      "kr_sha256": "3f4006640d4e210ac77273137ac7de52d0ac6fd8a7c7ae7696362a3c829ff183",
+      "en_sha256": "87effe840ccdcfa0fba7b48ffd5279a6191806d2e89509f685af8c40cb3627a0",
+      "origin": "ai"
+    },
+    "dataList[id=115203].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, na początku następnej tury dochodzi do siebie z Paniki, a SP wraca do 0\n\nprzy dochodzeniu do siebie z Paniki:\n- zyskuje 2 [Enhancement], 2 [Endurance] i 1 [Agility] w następnej turze\n- jeżeli istnieją jednostki przywołane przez tę jednostkę, przywraca 15 SP\n- jeżeli Hong Lu ma [Obedient], przywraca 15 SP",
+      "kr_sha256": "576408aaae48960caa09bb5285176a1be22e5deb4d1ab0cf2bb60ba35319e6d4",
+      "en_sha256": "e93f647186f876c785997532da92ec2fa780ad75728fa42ae455c5d180a92574",
+      "origin": "ai"
+    },
+    "dataList[id=115203].name": {
+      "pl": "Every Family Hierarch has the duty to surrender their bodies to the Xianhuang Worm and his honored will",
+      "kr_sha256": "6ec6bff6fbe213f85e5618e07dcfe6e6476b69ba120c8fbdb67731eb9690b89b",
+      "en_sha256": "ca0e32985b4f501c01a1dee286caac089b16d15a111af82d0211a10544b6bd1d",
+      "origin": "ai"
+    },
+    "dataList[id=115204].desc": {
+      "pl": "HP nie spada poniżej 85%",
+      "kr_sha256": "929dbe04b0641646c7829423d470791374d737b37669ee76032e7069fc0fa1b5",
+      "en_sha256": "d60b1fdfa2c8e93a3979d461c89bfdf44ef745034c2758e77adc87f078db84d6",
+      "origin": "ai"
+    },
+    "dataList[id=115204].name": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=115205].desc": {
+      "pl": "HP nie spada poniżej 65%",
+      "kr_sha256": "1b9de7b4a880ad1253f5cf98934c85ba8644c9ef136e69ecf88bf7738ce33583",
+      "en_sha256": "f79c20c1fefcb442efed0b175590b514301ec56ff7c48b063f8b241aa3fb7c0a",
+      "origin": "ai"
+    },
+    "dataList[id=115205].name": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=115206].desc": {
+      "pl": "HP nie spada poniżej 50%",
+      "kr_sha256": "d917d5f8c577ff80e9cc4e98624e4222d7e6707df31a5e877f597cc63ad19df9",
+      "en_sha256": "aa8b9dd6a0ddbf030186af6885a32d186052dc941320c7111bb92759a0fc97a5",
+      "origin": "ai"
+    },
+    "dataList[id=115206].name": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=115207].desc": {
+      "pl": "przy 10+ nałożonym [Burst], otrzymuje +10% obrażeń\nprzy 5+ typach nałożonych negatywnych efektów, otrzymuje +10% obrażeń",
+      "kr_sha256": "fe887c47c3abf554b734eab9acfb8bdae91771ef6acc8ccdccad9e8fcaf23d3d",
+      "en_sha256": "ccbf6702520d52c82e9abc9fd92d252726b01420faa3e63ca5eefb6420a92b6f",
+      "origin": "ai"
+    },
+    "dataList[id=115207].name": {
+      "pl": "Rot and Decay in the Husk of Gold and Jade [金玉其外 敗絮其中]",
+      "kr_sha256": "e4e7fbac925f307ce3c4dccc2cb8d31cd5a1c9563df9ef79245ce87d9ab584fc",
+      "en_sha256": "c0f9caebb45c10ff485002a6d375dd3fdb30e5732f1e747f2ecabe7ea80a350e",
+      "origin": "ai"
+    },
+    "dataList[id=115208].desc": {
+      "pl": "przy 0 HP, Część Korpusu przechodzi w Oszołamienie w następnej turze\nnastępnie zostaje wycięta, a Część Korpusu zyskuje 2 [Vulnerable]",
+      "kr_sha256": "f0e6aea3441e336887b03f3ac3d59b0c7a526fda092c77f81ed004daa1b53048",
+      "en_sha256": "7900c5b850d6df13f237b0152def680a0dcc65292ddb56fe240293d3b05c0fc7",
+      "origin": "ai"
+    },
+    "dataList[id=115208].name": {
+      "pl": "A Family Hierarch without the revered Xianhuang Worm will never serve Hongyuan",
+      "kr_sha256": "382e0bf817fcc2178e0c024e48e3b342384113dadaa1f9871aed4f0fa91cb223",
+      "en_sha256": "7275437c9817140050fbd15ea58de294365e2ec8ebd6d156beb9faa1bd595efc",
+      "origin": "ai"
+    },
+    "dataList[id=115209].desc": {
+      "pl": "HP nie spada poniżej 20%",
+      "kr_sha256": "0832a2d49e07e99f8ac60bc326f0d8393eb07314ab39492113645f862519dbdc",
+      "en_sha256": "6163f466baf68208339570a3823fdacdf0f2720959f749714c9a5c7164a79fa0",
+      "origin": "ai"
+    },
+    "dataList[id=115209].name": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=115301].desc": {
+      "pl": "dopóki ta jednostka żyje, Jia Mu zyskuje na Początku tury 200 Tarczy dla Korpusu i każdej Części",
+      "kr_sha256": "a865c9b373b625d3b24d91852944fd66e3beeed8566dbdcad84ac90f72c8eca9",
+      "en_sha256": "5044f74c72e525e449a9c066687a3a886bcf4208f423cdcea3d2ac9a93f3d36d",
+      "origin": "ai"
+    },
+    "dataList[id=115301].name": {
+      "pl": "Witness Me, O Revered Xianren!",
+      "kr_sha256": "19b219e0a370aa60fa7107e6894ade0c17bcb3f015e8743cfe20d2ba2f01bb9b",
+      "en_sha256": "d328e378a5e4e431db49373d9ab86bbc9ff01a6066c489ba4b41ce2501af4548",
+      "origin": "ai"
+    },
+    "dataList[id=115302].desc": {
+      "pl": "dopóki ta jednostka żyje, uwięziona postać podlega następującym efektom:\n- staje się „unieruchomiona”\n- bonusy, HP i SP tej postaci nie mogą się zmieniać",
+      "kr_sha256": "385a618726636bb8b6a01a6456038a9e187928812a38498772fe4801f42dd466",
+      "en_sha256": "f72b3208228df492c4d61f865a31752e0bcc66650418c54093c1e12a04488add",
+      "origin": "ai"
+    },
+    "dataList[id=115302].name": {
+      "pl": "Duties of the Precious Jade",
+      "kr_sha256": "367d1559acc68467dad1e603331daf0acaaeadd99288a60ee0a1b4b6dfbf12f2",
+      "en_sha256": "3d38dc3cdb9b63267cd4f60ed4841ef6c97f50c3bd2260123399410f4ee4fbaa",
+      "origin": "ai"
+    },
+    "dataList[id=115303].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, uwięziona postać wraca do walki w następnej turze.",
+      "kr_sha256": "13099a568629b43ee7afc7fa938873d21d3d8467e41826b621779cbda68ce047",
+      "en_sha256": "480557deb09a764062a1cf0784277c62ad43de421898e65d34aeeaae4320255b",
+      "origin": "ai"
+    },
+    "dataList[id=115303].name": {
+      "pl": "Departure",
+      "kr_sha256": "a796439e9043455b6c32b29d75f7cb64aa06ea1221670df7ce3126299e53660b",
+      "en_sha256": "8356983b07321db40ed23cfe8c3a3ef0ab12c18b6b873cb5588d8604e1310bdc",
+      "origin": "ai"
+    },
+    "dataList[id=115304].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana przez Grzeszników, uruchamiają się następujące efekty:\n- wszyscy sojusznicy przywracają 10 SP; wszyscy sojusznicy zyskują 2 [AttackDmgUp] w następnej turze\n- nakłada 5 [Binding], 3 [AttackDown] i 5 [Vulnerable] na Jia Mu przez następne 2 tury\n- postać uwięziona w tej jednostce przywraca SP do 45. przy powrocie zyskuje 2 [Enhancement]\n- zyskuje po 3 zasobów E.G.O każdej Afinności",
+      "kr_sha256": "eed14b6aff03285499629115e46f75ad4fe6134ab85ba9efa440f974d136ad14",
+      "en_sha256": "f4879deed5935536def1eb5cd2cbc941c357275f1baddd25ff5c29e777fe0858",
+      "origin": "ai"
+    },
+    "dataList[id=115304].name": {
+      "pl": "Refute the Evil; Restore Justice [破邪顯正]",
+      "kr_sha256": "de6740eb8f013d062f29e3e5ccbc55dcb88bcdacffecb28c7658bed296e8a708",
+      "en_sha256": "fd8d64949c22dbda2557356d5e740edd49e7ab03761b2de476606e89ae7d4d26",
+      "origin": "ai"
+    },
+    "dataList[id=115401].desc": {
+      "pl": "posiada efekt [SupremeEternalLife]",
+      "kr_sha256": "d3d04cb0bdb6f16b0b81c9bb29ca741366defddccfe9fb2898bdfb96ae9cb00d",
+      "en_sha256": "caae287577c55ae3924f1d4eba70b56296199731227efed3905a161b283f1f71",
+      "origin": "ai"
+    },
+    "dataList[id=115401].name": {
+      "pl": "O The Supreme Xianren of Immortality",
+      "kr_sha256": "cd338929594b1756ea4fd1bb01a67cf5d778d500d432df6fd0dc9a85179cdc6f",
+      "en_sha256": "6dfb666aa8451ba74757f32ecb4477300536ecc2bb77941c84d8be3a2a9a4413",
+      "origin": "ai"
+    },
+    "dataList[id=115402].desc": {
+      "pl": "HP nie spada poniżej 1\n\nprzy 1 HP, efekt [SupremeEternalLife] zmienia się w [ImperfectEternalLife]",
+      "kr_sha256": "241ffcbb29ffd551c846f16d1e0f5ea2e6a76bdba6dd75ae38171fd421710f6b",
+      "en_sha256": "c7dce9319d3f474e3be13ffdbe93d501ed41a7ec4dd575136a99ed6a142d4f3d",
+      "origin": "ai"
+    },
+    "dataList[id=115402].name": {
+      "pl": "Let us be eternally free from aging and death",
+      "kr_sha256": "562218e0250dfdd5bc58c926e5d30c505483b690af810c11cd29ec9740d254e2",
+      "en_sha256": "a390734d331880f8fa0c96e20446334151a85b97f560b76b67e54ea8bb1fb970",
+      "origin": "ai"
+    },
+    "dataList[id=115403].desc": {
+      "pl": "jeżeli przy otrzymaniu trafienia HP tej jednostki spadnie do 1, przywraca 10 SP Grzesznikowi, który ją zaatakował; następnie zyskuje 3 losowe zasoby E.G.O najsłabiej posiadanych Afinności Grzechu (uruchamia się 1 raz, dopóki ta jednostka żyje)",
+      "kr_sha256": "53258cea2e4ac82a74678bcbac26feafd253ace934269e91ed1b8a7af3bfd984",
+      "en_sha256": "47502540c739d22765d4728590084036472be117f11697c9530199223a3966a8",
+      "origin": "ai"
+    },
+    "dataList[id=115403].name": {
+      "pl": "Knowledge of Immortality",
+      "kr_sha256": "55acd614626d2780e36ec677b9085f2fab51169b76d4d8fd8f863267068cce35",
+      "en_sha256": "a4a9358a021d726c17c8bb431e6e608f25d5d31168dd6a1a105a71bc619b3f6b",
+      "origin": "ai"
+    },
+    "dataList[id=117101].desc": {
+      "pl": "na Początku tury zyskuje 5 [Vulnerable]\nna koniec tury dostarcza [BulletPropellantSpecial] Lei Heng.\n\njeżeli ta jednostka zostanie zabita, nie dostarczy [BulletPropellantSpecial] Lei Heng, a Lei Heng zyska 1 [Vulnerable] i 1 [ParryingResultDown] w następnej turze",
+      "kr_sha256": "45d6313c8008e756329e7d015c0a7c637f74d5851d3383a1f0e14f26be41b988",
+      "en_sha256": "8530fe56ebeab00b196c34227b3773658e0c0612340cb870778d09f8b021414b",
+      "origin": "ai"
+    },
+    "dataList[id=117101].name": {
+      "pl": "Savage Tigermark Support",
+      "kr_sha256": "ecee0bd70d5cf67b139d604b2c455c69991fe2c68ddb4885ea51ca793b3a9d16",
+      "en_sha256": "932c682270fe97e59df00a69ea29de658e839d67fd80b40c12670b4469e2b04a",
+      "origin": "ai"
+    }
+  }
+}

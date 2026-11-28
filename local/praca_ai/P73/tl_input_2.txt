@@ -1,0 +1,131 @@
+210||(ulepszenie 1) — opis] 홍루 우선 공격\n[WinDuel] [Breath] 5 얻음, [Breath] 횟수 2 증가\n[DefeatDuel] 다음 턴에 [AttackUp] 2, [DefenseDown] 2 얻음|Prioritizes Hong Lu\n[WinDuel] Gain 5 [Breath] and +2 [Breath] Count\n[DefeatDuel] Gain 2 [AttackUp] and 2 [DefenseDown] next turn
+211||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2, [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] and 2 [Vulnerable] next turn
+212||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count and +2 [Burst] Count
+213||(ulepszenie 1) — nazwa] 어르신들의 보살핌이 없는 가주가 어떻게 될지 알고 있느냐!|You do not know the fate of a Hierarch without the Xianren's care!
+214||(ulepszenie 1) — opis] [WhenUse] 정신력 25 회복\n[DefeatDuel] 피해량이 50%만큼 감소하고, 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Heal 25 SP\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+216||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] (대상의 [Burst]과 [Laceration]의 합)당 피해량 2.5% 증가 (최대 50%)|[UnBrokenCoinOnSucceedAttack] Deal +2.5% damage for every ([Burst] + [Laceration]) on target (max 50%)
+220||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Laceration] 3 부여. [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count
+223||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [Burst] 3 부여. [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count
+224||(ulepszenie 1) — nazwa] 부질 없는 짓을...!|Nothing But a Meaningless Struggle...!
+225||(ulepszenie 1) — opis] [CanDuelGuard]\n[WinDuel] 가모의 정신력 15 회복. 가모의 정신력이 0 미만이면, 대신 30 회복|[CanDuelGuard]\n[WinDuel] Jia Mu heals 15 SP. At 0 SP, heal 30 SP instead.
+227||(ulepszenie 1) — nazwa] 너는 여전히 아무것도 할 수 없단다|Still, you can do nothing
+228||(ulepszenie 1) — opis] [WhenUse] [OutpouringAnger] 얻음\n[WhenUse] 정신력 8 회복\n[WhenUse] 메인 타겟의 체력이 50% 미만이거나, 메인 타겟의 [Burst]과 [Laceration]의 합이 10 이상이면 [SuperCoin]이 됨\n[DefeatDuel] [Vulnerable] 1 얻음\n- 홍루에게 합 패배 시 대신 2 얻음|[WhenUse] Gain [OutpouringAnger]\n[WhenUse] Heal 8 SP\n[WhenUse] If the main target has less than 50% HP, or if the main target has 10+ ([Burst] + [Laceration]), convert this Skill's Coins to [SuperCoin]s\n[DefeatDuel] Gain 1 [Vulnerable]\n- When losing a clash against Hong Lu, gain 2 [Vulnerable] instead
+229||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4, [Burst] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration] and 4 [Burst]
+230||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+231||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 정신력 피해 10, 피해량의 50%만큼 흐트러짐 손상|[OnSucceedAttack] Deal 10 SP damage and raise target's Stagger Threshold by 50% of damage dealt
+232||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+233||(ulepszenie 1) — moneta 1, efekt 5 — opis] [OnSucceedAttack] 정신력 8 회복|[OnSucceedAttack] Heal 8 SP
+234||(ulepszenie 1) — nazwa] 선인들의 그 어떤 비호도 못받는 이름뿐인 가주는 벌레만도 못하게 죽어버릴게다!!!|A Hierarch without the Xianren's blessing is a Hierarch in name only; she will die an insect's death!!!
+235||(ulepszenie 1) — opis] [WhenUse] 본체의 체력이 30% 이하면, 코인 위력 +3, 피해량 +30%\n[WhenUse] 본체의 체력이 50% 미만이면 이 스킬의 코인이 [SuperCoin]이 됨\n[DefeatDuel] 피해량이 50%만큼 감소하고, 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] At 30% or less Core HP: Coin Power +3, deal +30% damage\n[WhenUse] At less than 50% Core HP: convert this Skill's Coins to [SuperCoin]s\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+236||(ulepszenie 1) — moneta 1, efekt 1 — opis] [UnBrokenCoinOnSucceedAttack] 쌓이는 순종 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 Heaping Obedience
+237||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+238||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Burst] Count
+239||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] 정신력 5 회복|[OnSucceedAttack] Heal 5 SP
+240||(ulepszenie 1) — moneta 2, efekt 1 — opis] [UnBrokenCoinOnSucceedAttack] [PileObedient] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [PileObedient]
+244||(ulepszenie 1) — nazwa] 감히 배알하거라|Be honored to be in audience of such a great man
+245||(ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[WhenUse] 다음 턴에 몸통 부위에 [Enhancement] 2, [Endurance] 2, [AttackDmgUp] 2 부여\n[WhenUse] 자신의 정신력을 30까지 회복\n[DefeatDuel] 피해량이 50%만큼 감소하고, 이 스킬의 피해로 대상이 흐트러지지 않음|Can Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n[WhenUse] Gain 2 [Enhancement], 2 [Endurance], and 2 [AttackDmgUp] to the Body Part next turn\n[WhenUse] Heal this unit's SP up to 30 SP\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+247||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Sinking] 10 부여|[UnBrokenCoinOnSucceedAttack] Inflict 10 [Sinking]
+248||(ulepszenie 1) — nazwa] 선황충님 소녀와 함께 해주셔요|Be with this little girl, O Xianren
+249||(ulepszenie 1) — opis] [StartBattle] 몸통 부위와 본체에 각 최대 체력의 10%만큼 보호막 부여\n[WhenUse] 다음 턴에 몸통 부위에 [Enhancement] 1, [Endurance] 1, [AttackDmgUp] 2 부여\n[WhenUse] 정신력 15 회복|[StartBattle] Body and Core Parts gain Shield equal to 10% of their max HP, respectively\n[WhenUse] Body Part gains 1 [Enhancement], 1 [Endurance], and 2 [AttackDmgUp] next turn\n[WhenUse] Heal 15 SP
+251||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Sinking] 3 부여, [Sinking] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Sinking] and +2 [Sinking] Count
+252||(ulepszenie 1) — nazwa] 선인이시여...!|O Xianren...!
+253||(ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[StartBattle] 다음 턴에 어르신 나무 5개 생성\n[DefeatDuel] 피해량이 50%만큼 감소하고, 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 턴 종료|Can Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n[StartBattle] Generate 5 Elder Trees next turn\n[DefeatDuel] Deal -50% damage and this damage dealt by this Skill cannot Stagger the target\n[EndSkill] Ends turn
+255||(ulepszenie 1) — nazwa] 사미윤의 힘이 되어주셔요!|Please give me, Shi Miyin, your strength!
+256||(ulepszenie 1) — opis] 대상의 체력이 50% 이상이면, 코인 위력 +1|If target has 50%+ HP, Coin Power +1
+257||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [ImperfectEternalLife]가 없는 아군 중 체력이 가장 낮은 아군의 체력을 회복 대상 최대 체력의 15%만큼 회복|[OnSucceedAttack] Among targets without [ImperfectEternalLife], choose and heal 15% HP for the ally with the least HP
+261||(ulepszenie 1) — nazwa] 극선착적공양[極仙榨滴供養]|An Offering of Extreme Extracted Immortality [極仙榨滴供養]
+262||(ulepszenie 1) — opis] [CantIdentify]\n이 스킬은 아군에게 피해를 주지 않음\n속도에 상관없이 이 스킬과 합을 할 수 있으며, 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[WhenUse] [SupremeEternalLife]를 보유한 아군 1명당 코인 위력 +2, 피해량 +20%\n[WhenUse] [SupremeEternalLife]를 가진 아군이 없는 경우 대신 모든 대상에게 보호막 200 부여\n[EndSkill] 턴 종료|[CantIdentify]\nThis Skill cannot deal damage to allies\nCan Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n[WhenUse] Coin Power +2 and deal +20% damage for every 1 ally with [SupremeEternalLife]\n[WhenUse] If there aren't any allies with [SupremeEternalLife], apply 200 Shield to all targets\n[EndSkill] Ends turn
+264||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 아군이면 남은 체력을 흡수하고, 대상의 [ImperfectEternalLife]를 흡수하여 다음 턴에 모든 부위가 흡수한 수치만큼 해당 효과를 얻음. 이후 흡수한 대상을 제거함|[OnSucceedAttack] If the target is an ally, siphon their remaining HP and their [ImperfectEternalLife]. Then, apply the same amount of [ImperfectEternalLife] Stack to all of this unit's Parts next turn. Eliminate the Siphoned unit afterward.
+265||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 8, [Burst] 8 부여|[UnBrokenCoinOnSucceedAttack] Inflict 8 [Laceration] and 8 [Burst]
+266||(ulepszenie 1) — nazwa] 문안 인사 드립니다|I greet you now
+268||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상에게 정신력 피해 5|[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage
+269||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn
+270||(ulepszenie 1) — nazwa] 얌전히 있을게요|I'll be docile
+273||(ulepszenie 1) — nazwa] 즐거움을 드릴게요|I'll be your amusement
+274||(ulepszenie 1) — opis] [CantDuel]\n[EndSkill] 이 캐릭터가 사망하고, 가모의 정신력을 45까지 회복. 다음 턴에 가모에게 [Enhancement] 2, [AttackDmgUp] 5 부여|[CantDuel]\n[EndSkill] Kills this unit and heals Jia Mu's SP up to 45 SP. Apply 2 [Enhancement] and 5 [AttackDmgUp] to Jia Mu next turn
+276||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 정신력 피해 15|[OnSucceedAttack] Deal 15 SP damage
+277||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 피해량의 50%만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt
+278||(ulepszenie 1) — nazwa] 생기를 다오|Give me your vitality
+280||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 20%만큼 체력 회복|[OnSucceedAttack] Heal 20% of Max HP
+281||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Burst] 2 부여|[OnSucceedAttack] Inflict 2 [Burst]
+284||(ulepszenie 1) — nazwa] 즐거움을 주려무나|Please me
+285||(ulepszenie 1) — opis] 대상의 체력이 50% 이상이면, 합 위력 +2\n[WhenUse] 가모의 정신력 10 회복|If target has 50%+ HP, Clash Power +2\n[WhenUse] Heal 10 SP for Jia Mu
+287||(ulepszenie 1) — nazwa] 선인의 지혜로운 조언|The Xianren's Wise Counsel
+288||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 가모에게 [Enhancement] 1, [AttackDmgUp] 1 부여|[WhenUse] Apply 1 [Enhancement] and 1 [AttackDmgUp] to Jia Mu next turn
+291||(ulepszenie 1) — nazwa] 선인의 참된 조언|The Xianren's True Counsel
+292||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 가모에게 [Endurance] 1, [Protection] 1 부여|[WhenUse] Apply 1 [Endurance] and 1 [Protection] to Jia Mu next turn
+294||(ulepszenie 1) — nazwa] 생기가 필요해...|I need more vitality...
+296||(ulepszenie 1) — opis] [CanDuelGuard]\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 코인 위력 +1 (최대 3)\n[WinDuel] [Burst] 횟수 1 증가, [DefenseDown] 2 부여|[CanDuelGuard]\n[WhenUse] Coin Power +1 for every 5 ([Laceration] + [Burst]) on target (max 3)\n[WinDuel] Inflict +1 [Burst] Count, inflict 2 [DefenseDown]
+298||(ulepszenie 1) — nazwa] 상처 터뜨리기|Burst Wounds
+301||(ulepszenie 1) — nazwa] 상처 옭아매기|Snag Wounds
+302||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 2 이상이면, 코인 위력 +1|[WhenUse] If target has 2+ [Laceration], Coin Power +1
+303||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+305||(ulepszenie 1) — nazwa] 살점 녹이기|Flesh Melting
+306||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 3 이상이면, 합 위력 +1|[WhenUse] If target has 3+ [Laceration], Clash Power +1
+308||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 1 얻음|[OnSucceedAttack] Gain 1 [Agility] next turn
+309||(ulepszenie 1) — nazwa] 드리우는 그늘|Casting Shade
+310||(ulepszenie 1) — opis] [WhenUse] [Paralysis] 1 부여|[WhenUse] Inflict 1 [Paralysis]
+311||(ulepszenie 1) — nazwa] 상처 헤집기|Tear Up Wound
+314||(ulepszenie 1) — nazwa] 상처 훑기|Skim Wounds
+318||(ulepszenie 1) — nazwa] 살점 뜯기|Flesh Tearing
+324||(ulepszenie 1) — nazwa] 진탕 찌르기|Concussive Stab
+325||(ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 7 ([Combustion] + [Vibration]) on target (max 2)
+328||(ulepszenie 1) — nazwa] 작열 찌르기|Burning Stab
+331||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Combustion] Count
+332||(ulepszenie 1) — nazwa] 추진 베기|Propulsion Slice
+333||(ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)\n[DefeatDuel] 피해량이 75%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Coin Power +1 for every 7 ([Combustion] + [Vibration]) on target (max 2)\n[DefeatDuel] Deal -75% damage and damage dealt by this Skill cannot Stagger the target
+335||(ulepszenie 1) — moneta 1, efekt 2 — opis] [BudgetBulletPropellant] 1 소모|Spend 1 [BudgetBulletPropellant]
+336||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Vibration] 4 부여|[OnSucceedAttack] Inflict 4 [Vibration]
+337||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] [Combustion] 4 부여|[OnSucceedAttack] Inflict 4 [Combustion]
+340||(ulepszenie 1) — moneta 2, efekt 2 — opis] [BudgetBulletPropellant] 1 소모.|Spend 1 [BudgetBulletPropellant]
+341||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+342||(ulepszenie 1) — nazwa] 추진탄 재장전|Propellant Ammo Reload
+343||(ulepszenie 1) — opis] [StartBattle] [FullReload] (턴 당 1회)\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합이 6 이상이면, 코인 위력 +3\n[WhenUse] 다음 턴에 [AttackDmgUp] 1 얻음|[StartBattle] [FullReload] (once per turn)\n[WhenUse] If target has 6+ ([Combustion] + [Vibration]), Coin Power +3\n[WhenUse] Gain 1 [AttackDmgUp] next turn
+344||(ulepszenie 1) — nazwa] 진탕 꿰뚫기|Concussive Penetration
+348||(ulepszenie 1) — nazwa] 작열 꿰뚫기|Burning Penetration
+350||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여|[OnSucceedAttack] Inflict 2 [Combustion]
+352||(ulepszenie 1) — nazwa] 추진 가르기|Propulsion Cleave
+356||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 2 증가,|[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count,
+357||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] [Combustion] 2 부여, [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count
+364||Pasywka wroga [114501] — nazwa] 엄지 간부 카포 IIII|The Thumb's Officer, Capo IIII
+365||Pasywka wroga [114501] — opis] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -30%\n\n[BulletPropellant]을 소모하는 코인을 굴릴 때, [BulletPropellant]이 없는 경우에도 공격을 취소하지 않는 대신 해당 코인의 적중 시 [Combustion] 부여, [Combustion] 횟수 증가 효과가 발동하지 않음\n\n합 진행 시, (1 + 합을 진행한 횟수/3)만큼 대상의 [Vibration] 횟수 증가\n(최대 3, 하나의 대상에게 턴당 최대 3회 적용)|Take -30% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n\nWhen flipping a Coin that consumes [BulletPropellant]: while not having [BulletPropellant] does not cancel this unit's attacks, the Coin's "inflict [Combustion]" and "inflict [Combustion] Count" effects do not activate\n\nIn a Clash, inflict +(1 + (# of Clashes / 3)) [Vibration] Count\n(max 3; 3 times per turn against the same target)
+366||Pasywka wroga [114502] — nazwa] 동부십검|Ten Blades of the East
+367||Pasywka wroga [114502] — opis] 스테이지 시작 시와 패턴이 변경되는 턴 시작 시,\n- [Bothersome] 1 얻음\n- 자신의 잃은 체력 10%당 정신력 5 회복 (최대 40)|At Encounter Start, and at the Turn Start of gaining a new pattern:\n- Gain 1 [Bothersome]\n- Heal 5 SP for every 10% missing HP on self (max 40)
+368||Pasywka wroga [114503] — nazwa] 사냥감 선정|Chosen Prey
+369||Pasywka wroga [114503] — opis] 턴 시작 시, 이전 턴에 자신에게 가장 많은 피해를 입힌 대상에게 [Prey] 1 부여\n\n뇌횡이 [Prey]을 보유한 대상을 공격하여 공격 종료 시 대상이\n- 흐트러진 경우, 모든 적의 정신력이 10 감소하고 이번 턴과 다음 턴에 [ParryingResultDown] 1 부여 (턴당 1회)\n- 사망한 경우, 위의 효과가 1회 추가로 발동|Turn Start: inflict 1 [Prey] against the target that dealt the most damage to this unit last turn\n\nAfter Lei Heng attacks the target with [Prey], if the target is:\n- Staggered, all enemies lose 10 SP and gain 1 [ParryingResultDown] for this turn and next turn (once per turn)\n- Defeated, activate the above effect once more
+370||Pasywka wroga [114504] — nazwa] 천퇴성도 [天退星刀]|Tiantui Star's Blade [天退星刀]
+371||Pasywka wroga [114504] — opis] 일방 공격 적중 시 피해량이 30%만큼 증가하고, 다음 턴에 [Vulnerable] 1 부여\n\n[BulletPropellant]을 소모하여 적중한 스킬 코인의 피해량이 20%만큼 증가하고, 다음 턴에 [DefenseDown] 2 부여\n\n대상이 수비 스킬을 장착한 경우에는 위의 효과가 적용되지 않음|Unopposed Attacks deal +30% damage On Hit and inflict 1 [Vulnerable] next turn\n\nSkill Coins that spent [BulletPropellant] deal +20% damage On Hit and inflict 2 [DefenseDown] next turn\n\nThe above effects do not activate if the target equipped a Defense Skill
+372||Pasywka wroga [114505] — nazwa] 호표탄 장전|Tigermark Round Reload
+373||Pasywka wroga [114505] — opis] 턴 종료 시점에 체력이 90% 이하가 되었거나 2번째 턴 종료 시, [BulletPropellant]을 장전하고 다음 턴에 패턴이 변경됨\n- 흐트러짐 상태면, 흐트러짐 해제|Turn End: at 90% or less HP, or at the end of the 2nd turn, reload [BulletPropellant] and gain a new pattern next turn\n- If this unit is Staggered, recover from Stagger
+374||Pasywka wroga [114506] — nazwa] 뇌횡 [雷橫]|Lei Heng [雷橫]
+375||Pasywka wroga [114506] — opis] 턴 종료 시점에 체력이 80% 이하가 되었거나 4번째 턴 종료 시, 다음 턴에 패턴이 변경됨\n- 강력한 공격('쾌도난마')을 사용하며, 3번째 턴마다 반복함. 이 스킬을 사용하는 턴의 속도 최솟값, 최댓값 +10\n- 해당 턴 시작 시, [BattleSense] 25 얻음\n- 흐트러짐 상태면, 흐트러짐 해제|Turn End: at 80% or less HP, or at the end of the 4th turn, gain a new pattern next turn\n- Use a powerful attack ('Tanglecleaver'), repeat every 3rd turn. +10 to Min & Max Speed for turns in which this unit uses this Skill\n- At the start of that turn, gain 25 [BattleSense]\n- If this unit is Staggered, recover from Stagger
+376||Pasywka wroga [114507] — nazwa] 천퇴성 [天退星]|Tiantui Star [天退星]
+377||Pasywka wroga [114507] — opis] 턴 종료 시점에 체력이 60% 이하가 되었거나 다음 턴에 강력한 공격('쾌도난마')을 이번 전투에서 두 번째로 사용할 예정이면, 다음 턴에 패턴이 변경됨\n- 해당 턴 시작 시, [Irritation] 1 얻음\n- 해당 턴 시작 시, [BulletPropellantSpecial] 18 얻고 즉시 장전\n· [BulletPropellantSpecial]을 전부 소모할 경우, 해당 효과가 [BulletPropellant]으로 변경되고 다음 턴에 엄격한 엄지 솔다토 2명을 소환하여 [BulletPropellantSpecial]을 보급받음\n- 흐트러짐 상태면, 흐트러짐 해제|If this unit's HP dropped to 60% or below at Turn End, or if this unit is set to use a powerful attack ('Tanglecleaver') next turn for the second time this Encounter, gain a new pattern next turn\n- When that turn starts, gain 1 [Irritation]\n- When that turn starts, gain 18 [BulletPropellantSpecial] and reload immediately\n· If this unit spends all [BulletPropellantSpecial], convert the effect to [BulletPropellant] and summon 2 of "Stern Soldato of the Thumb" units next turn and have them supply this unit with [BulletPropellantSpecial]\n- When Staggered, recover from Stagger
+378||Pasywka wroga [114508] — nazwa] 소지 천퇴성 뇌횡|Lei Heng, The Pinky's Tiantui Star
+379||Pasywka wroga [114508] — opis] 턴 종료 시점에 체력이 40% 이하가 되었거나 다음 턴에 강력한 공격('쾌도난마')을 이번 전투에서 세 번째로 사용할 예정이면, 다음 턴에 패턴이 변경됨\n- 강력한 공격 '쾌도난마'가 '초절맹호살격난참'으로 변경됨. 이 스킬을 사용하는 턴의 속도 최솟값, 최댓값 +15\n- [BattleSense]이 [RestoredBattleSense]으로 변경\n- [Irritation]가 [HugeIrritation]으로 변경\n- 흐트러짐 상태면, 흐트러짐 해제|Turn End: at 40% or less HP, or if this unit is set to use a powerful attack ('Tanglecleaver') next turn for the third time this Encounter, gain a new pattern next turn\n- Replace the powerful attack 'Tanglecleaver' with 'Savage Tigerslayer's Perfected Flurry of Blades'. +15 to Min & Max Speed for turns in which this unit uses this Skill\n- Convert [BattleSense] to [RestoredBattleSense]\n- Convert [Irritation] to [HugeIrritation]\n- If this unit is Staggered, recover from Stagger
+380||Pasywka wroga [114510] — nazwa] 삽시호 [揷翅虎]|Chachihu [揷翅虎]
+381||Pasywka wroga [114510] — opis] 전투 시작 시 자신의 속도에 비례하여,\n- 수치만큼 정신력을 회복. 정신력이 0 미만이면 회복 수치가 2배로 적용됨\n- (수치/3)만큼 [SlashDamageUp] 얻음 (최대 5)\n\n전투 시작 시 자신이 [Binding]을 3 이상 보유하였다면 위의 효과가 발동하지 않고, 보유한 [Binding] 수치만큼 [DefenseDown] 얻음 (최대 9)|Combat Start: based on this unit's Speed value,\n- Heal SP equal to Speed value. At less than 0 SP, double the heal amount\n- Gain (Speed Value / 3) [SlashDamageUp] (max 5)\n\nCombat Start: if this unit has 3+ [Binding], the above effect does not activate; gain [DefenseDown] equal to [Binding] on self (max 9)
+382||Pasywka wroga [114512] — nazwa] 천퇴성도 오버히트|Tiantui Star's Blade - Overheat
+383||Pasywka wroga [114512] — opis] 강력한 공격('쾌도난마', '초절맹호살격난참')을 사용하였다면, 이번 전투 동안 강력한 공격을 사용한 횟수만큼 다음 턴에 [Complacency] 얻음 (최대 5)|If this unit used a powerful attack ('Tanglecleaver' or 'Savage Tigerslayer's Perfected Flurry of Blades'), gain [Complacency] next turn equal to the number of times those skills were used (max 5)
+385||Pasywka wroga [117101] — opis] 턴 시작 시, [Vulnerable] 5 얻음\n턴 종료 시, 뇌횡에게 [BulletPropellantSpecial]을 지원함.\n\n사망 시 뇌횡에게 [BulletPropellantSpecial]을 지원하지 못하고, 다음 턴에 뇌횡이 [Vulnerable] 1, [ParryingResultDown] 1 얻음|Turn Start: gain 5 [Vulnerable]\nTurn End: supply [BulletPropellantSpecial] to Lei Heng\n\nIf this unit is killed, this unit cannot supply [BulletPropellantSpecial] for Lei Heng; Lei Heng gains 1 [Vulnerable] and 1 [ParryingResultDown] next turn
+386||Pasywka wroga [113501] — nazwa] 놓쳤던 동생의 손|My Little Brother's Hand I Let Slip
+387||Pasywka wroga [113501] — opis] 적에게 자신의 공격 적중 시, [GazeReplica] 1 부여 (인격 당 턴 당 1회)\n적에게 자신이 공격당하면, 공격자에게 [GazeReplica] 1 부여 (인격 당 턴 당 1회)\n턴 시작시 홍루가 전투에 등장해 있으면, 홍루에게 [GazeReplica] 1 부여|On Hit against an enemy, inflict 1 [GazeReplica] (once per Identity per turn)\nWhen attacked by an enemy, inflict 1 [GazeReplica] against the attacker (once per Identity per turn)\nTurn Start: if Hong Lu is on the field, inflict 1 [GazeReplica] against Hong Lu
+388||Pasywka wroga [113502] — nazwa] 손아귀|Grasp
+389||Pasywka wroga [113502] — opis] [GraspReplica]가 부여된 대상 우선 공격\n[GraspReplica]가 부여된 대상이 있으면 패턴이 변경되고, 모든 내성 +0.1|Prioritizes targets with [GraspReplica]\nGains a new pattern when there are targets with [GraspReplica]; +0.1 to all Resistances
+390||Pasywka wroga [113503] — nazwa] E.G.O 침식 - N사|E.G.O Corrosion - N Corp.
+391||Pasywka wroga [113503] — opis] 이 캐릭터가 등장한지 1턴 경과할 때마다 턴 종료시 [EgoErodeReplica] 1 얻음\n- 턴 종료시 자신의 체력이 최대 체력의 50% 미만이거나 정신력이 -20 이하면, [EgoErodeReplica] 1 추가로 얻음|After entering this Encounter, gain 1 [EgoErodeReplica] at every passing Turn End\n- Turn End: at less than 50% HP, or at -20 SP or less, gain 1 additional [EgoErodeReplica]
+392||Pasywka wroga [113504] — nazwa] E.G.O 순간 감응도 최대화|E.G.O Temporary Max Attunement
+393||Pasywka wroga [113504] — opis] [GazeReplica]이 4 이상인 수감자들이 4명 이상이면, '경외[TabExplain], 경멸[TabExplain] 【잠재 해방】' 스킬 사용|If there are 4+ Sinners with 4+ [GazeReplica] Stacks, use the Skill 'Awe[TabExplain], Contempt[TabExplain] 【Unleashed】' Skill
+394||Pasywka wroga [113505] — nazwa] 나만 노려봐서는 안 될 텐데|Better avert your gazes
+395||Pasywka wroga [113505] — opis] 아군이 있을 때 적 5명 이상이 자신을 메인 타겟으로 지정하면, 해당 적의 체력, 정신력 10 감소|Where there are other surviving allies, if this unit becomes the main target from 5+ enemies, those enemies lose 10 HP and SP
+396||Pasywka wroga [113601] — nazwa] 흉탄 비용|The Cost of Fell Bullets
+397||Pasywka wroga [113601] — opis] 공격 적중 시, 정신력 5 회복\n합 패배 시, 정신력 5 감소|On Hit, heal 5 SP; on Clash Lose, lose 5 SP
+398||Pasywka wroga [113602] — nazwa] 약진|Charge Forth
+399||Pasywka wroga [113602] — opis] 적 처치 시, [Breath] 횟수 3 증가|On enemy Kill, gain +3 [Breath] Count
+400||Pasywka wroga [113603] — nazwa] 벗이여, 새로운 시대가 오고 있다네.|A new era is upon us, my dear fellow.
+401||Pasywka wroga [113603] — opis] 정신력이 -20 미만이면, 특수 패턴 사용|At less than -20 SP, use a special pattern
+402||Pasywka wroga [113604] — nazwa] 부디 새로운 이상을 위해 헌신해주게.|Please, dedicate yourself for the new ideal.
+403||Pasywka wroga [113604] — opis] 가환을 제외한 N사 직원의 체력이 50% 미만이면, 특수 패턴 사용|If an N Corp. Employee(except Jia Huan)'s HP is less than 50%, use a special pattern
+404||Pasywka wroga [114601] — nazwa] -|-
+405||Pasywka wroga [114601] — opis] 체력이 최대 체력의 50% 미만으로 감소하지 않음|HP does not drop below 50%
+406||Pasywka wroga [114602] — nazwa] 보옥아 여기서 가주의 대가 끊기면 안된다…|Little Baoyu, the lineage of Family Hierarchs cannot end here...

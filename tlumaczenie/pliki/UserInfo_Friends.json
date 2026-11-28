@@ -1,0 +1,430 @@
+{
+  "entries": {
+    "dataList[id=Accept].content": {
+      "pl": "Akceptuj",
+      "kr_sha256": "831defcf7a44a3a6d7f05549ca091a5ca42279127e756584c9208580d54ad430",
+      "en_sha256": "89713b9c9c1b8f659c9f49db25e4a47886dd673fee248c3f650391f09a759cef",
+      "origin": "ai"
+    },
+    "dataList[id=Accept_Friends].content": {
+      "pl": "Oczekujące",
+      "kr_sha256": "4060b8eba451aa5b319b61595945d18121a05cded121b3bc0d4688787e92c865",
+      "en_sha256": "94835ea2fcf775cd77cb9c9cee01b5cbd9bc515467aab1215f48a5ade9ca5274",
+      "origin": "ai"
+    },
+    "dataList[id=Add_Friends].content": {
+      "pl": "Dodaj znajomego",
+      "kr_sha256": "29565699c815e62b703673ff424de3b8ae4ced323a5ab79d783611a7d5cc1dad",
+      "en_sha256": "ecd07343ab50b4038a08bced540bd8d767dab72d8f7b39ba0d081bb3e0a52575",
+      "origin": "ai"
+    },
+    "dataList[id=Ago].content": {
+      "pl": "{0} dni temu",
+      "kr_sha256": "2692e0a9dbdaec0e6b852d8fa451b0c51b0617736d8f43c8e03049fb5facb180",
+      "en_sha256": "1fccd42cb34cbe2bbce39e7e4b0b66dd18eaced9f59f19133eb2d4ab8b345a3a",
+      "origin": "ai"
+    },
+    "dataList[id=All].content": {
+      "pl": "Wszystko",
+      "kr_sha256": "a4b69faf0c1113faf1f7cf9d9a6224cf3b62a16c6e841a22882adafcced64db9",
+      "en_sha256": "a52ace420f2175d08b1577a1bea5445e36801229c074ef9ed6c55a73401fd9c2",
+      "origin": "ai"
+    },
+    "dataList[id=BannerSelect].content": {
+      "pl": "Baner ozdobny",
+      "kr_sha256": "8a81023c16eaeb64e4d146e47488c78b837f659057fc9a59b88866d155933e49",
+      "en_sha256": "b7f4d98f98d51f8e0dca27ea5b64679b328281af1d0b0985816c208d1c9a1d46",
+      "origin": "ai"
+    },
+    "dataList[id=Btn_Search].content": {
+      "pl": "Szukaj",
+      "kr_sha256": "832f7474f0cc68b70c2e82282e64c79b6c0ab6ab11e692f039f700c06d8d1cf4",
+      "en_sha256": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9",
+      "origin": "ai"
+    },
+    "dataList[id=Change].content": {
+      "pl": "Zmień",
+      "kr_sha256": "16f64fe47b163b818b136db270665271f82a2ffb37c856d29917fe30dade7291",
+      "en_sha256": "c0bf75bd78bf9572596720d596bd5a20a5b9145cde0fe50dec1e783cb184d69b",
+      "origin": "ai"
+    },
+    "dataList[id=Change_Introduce].content": {
+      "pl": "Zmień wizytówkę",
+      "kr_sha256": "cca13a6b61883d04ea952b0c09658c81f16ec971b0ed783028ed836a4245e88d",
+      "en_sha256": "3d55a456c4f608f19034d7a7b1f90218450bf539994973fd8a044a39a0ec310d",
+      "origin": "ai"
+    },
+    "dataList[id=CharacterNumber].content": {
+      "pl": "Nr",
+      "kr_sha256": "00e65ebb3d8a52e54e6fe2981b12b60193e4b27699137f4179119795daf2ad90",
+      "en_sha256": "3843971dcfdee5083e6289e1bbdbb003e538b5a8a668fc43ae4f19d415ac18a2",
+      "origin": "ai"
+    },
+    "dataList[id=Choosing].content": {
+      "pl": "Wybieranie",
+      "kr_sha256": "de1898ed8023a5414ccb8174e6aee76c1b6e6a402c5fbd50141ea7cfc31c994f",
+      "en_sha256": "aba5693ac28de39a5c20382618009f4c531ab4761976cb0c8a48629504b456bc",
+      "origin": "ai"
+    },
+    "dataList[id=Company].content": {
+      "pl": "Firma",
+      "kr_sha256": "a109dcd7f6f11c2e17035cb65e4c4a1c3c59541478844d9a13fe94b5acb3f13c",
+      "en_sha256": "de4743c879734dc38cb3e270ecefcae077c3c2e626f9298115d5a03c8613f89b",
+      "origin": "ai"
+    },
+    "dataList[id=Day_Ago].content": {
+      "pl": "dd.MM",
+      "kr_sha256": "dcef56084054c720479b3a772065759dc5726ee69ac5865c42dfd8ed510fa6eb",
+      "en_sha256": "e7d041db67f09ec9d4cb183e02b39ea9c424ff945033ddc49485f5ee3ca5ca0b",
+      "origin": "ai"
+    },
+    "dataList[id=Delete_Friends].content": {
+      "pl": "Usuń znajomego",
+      "kr_sha256": "e856cbc4c5e7d38594751dd79ffdd80342c4c3fcd7ad7c6467ab694d646b908a",
+      "en_sha256": "68b2b4f55b9393aa74b083c9f388e5033e17f4178d74690ba760cd104b71c077",
+      "origin": "ai"
+    },
+    "dataList[id=Delete_Friends_Apply].content": {
+      "pl": "Czy na pewno chcesz usunąć tego gracza z listy znajomych?",
+      "kr_sha256": "153649e593c012ab2644bc7f13d7ca5915e5a7e133c608b377107b58548c32aa",
+      "en_sha256": "7c30b26b75177df002b24586be4694ee4503c6c11c273dc77f2c0828feda3403",
+      "origin": "ai"
+    },
+    "dataList[id=Friends].content": {
+      "pl": "Znajomi",
+      "kr_sha256": "1202aff936337891e07925c4ada650bec9606da9b7307f39115cd719cc9fc4dc",
+      "en_sha256": "bd104d1b98d032274986497eeb7997c44a1d674b29140e43cd525d33468ecb6e",
+      "origin": "ai"
+    },
+    "dataList[id=GetConditionTitle].content": {
+      "pl": "Warunki zdobycia",
+      "kr_sha256": "faac82e97f98de613c803cea25de8ea80b14b70b50eb75037b73cc37d89ba94a",
+      "en_sha256": "e0cdd07f6a270b8269217510822daa4ace573309134278f75f5e16ed59a3583b",
+      "origin": "ai"
+    },
+    "dataList[id=Group].content": {
+      "pl": "Przynależność",
+      "kr_sha256": "01603d13dd6590d7676446f682aed959803754281fa23ce912d6c1bf93cbcb15",
+      "en_sha256": "a17d8c66cc79a03bc1391044938d960f8e69446834fcf0a64a67fb34fb6884a6",
+      "origin": "ai"
+    },
+    "dataList[id=IntroduceSort_ABC].content": {
+      "pl": "Alfabetycznie",
+      "kr_sha256": "1d43d4dfbaf4ce8eb2f005f531f61e24663f18a8ba9bc3c9c6dbcfd5d73fe4b0",
+      "en_sha256": "a49d631f8c6cf6fb1660fb5229dfa0c08b55727549c0e48cc0cef1f7770ba0e2",
+      "origin": "ai"
+    },
+    "dataList[id=IntroduceSort_Acquisition].content": {
+      "pl": "Wg zdobycia",
+      "kr_sha256": "5938d9c9be03ebc7b4a267cdc0c4455ec06a4eab8e4e4ba645af3ff5477300e3",
+      "en_sha256": "498e5b1e5eb17fa7b600a8d3eb0ce96ace2da07cc02ae95bb2fc18d38fcd4779",
+      "origin": "ai"
+    },
+    "dataList[id=IntroduceSort_Default].content": {
+      "pl": "Domyślnie",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=IntroduceSort_Release].content": {
+      "pl": "Wg premiery",
+      "kr_sha256": "94557ed287652eee4856e857d1ccd06deeebadd15fe8c93ab84f055d2e749b96",
+      "en_sha256": "1fb0ecfb5d039ebc6d64e5060590ee452634dab48921d1a8669804a8bb275f83",
+      "origin": "ai"
+    },
+    "dataList[id=LastLoginDay].content": {
+      "pl": "Ostatnio online:",
+      "kr_sha256": "a300f23c0431c7a66357bd7ea353020bc88a9c6c9a03bfaab0c618e35e7a1d77",
+      "en_sha256": "1cb29cda24d60df2477454468740f1e8a11233006f3f7be19398a449578af0f3",
+      "origin": "ai"
+    },
+    "dataList[id=Last_Reload].content": {
+      "pl": "{0} sek. temu",
+      "kr_sha256": "ec9348baf6d19f2b60e9ef1a4347d17baa85d3eef859fea50dab8786fb005d16",
+      "en_sha256": "e0f12c2bb11ee4a6c78a17733f5e5689c6748905a1f0bcaa53b12402e89f6c9e",
+      "origin": "ai"
+    },
+    "dataList[id=Manager].content": {
+      "pl": "Kierownik",
+      "kr_sha256": "78496a61deb74f2d0ad4862ba7cb4fcdcf98552cda96b506c72ca858dfe0e470",
+      "en_sha256": "8b2085f74dfa9c78a23b7d573c23d27d6d0b0e50c82a9b13138b193325be3814",
+      "origin": "ai"
+    },
+    "dataList[id=NO_AcceptFriends].content": {
+      "pl": "Brak otrzymanych zaproszeń.",
+      "kr_sha256": "ef9618a7a04ad5899584ba991814973b2a1d5f731a3ae1d43b8c21b02ffe7e2b",
+      "en_sha256": "a4f0e9f0e54795f561eead9e96419a715e1e23f47b5ac0de9df1ba6bd6e2ffa6",
+      "origin": "ai"
+    },
+    "dataList[id=NO_Friends].content": {
+      "pl": "Nikogo tu jeszcze nie ma.",
+      "kr_sha256": "bf1b9ff518c60e11f71515424785a8a14ccf218397d8ee3e746987c893990653",
+      "en_sha256": "b376ced2acba432b3323e19bb07cb51f1ce5f52515598d22155a35d940b69412",
+      "origin": "ai"
+    },
+    "dataList[id=NO_SendFriends].content": {
+      "pl": "Brak wysłanych zaproszeń.",
+      "kr_sha256": "504f0afc50943601d5091b08f1978345aea05c7a1c16f3f3dfc10226587e88f1",
+      "en_sha256": "07e9176a32fb6e436f83e2c5e1e4292e009684a648867df774eb4eff1390ea6e",
+      "origin": "ai"
+    },
+    "dataList[id=Name].content": {
+      "pl": "Nazwa",
+      "kr_sha256": "253d1510caf5362045ce50b1bdc33758fc4b3fd6ddc552d8dc0619784bd9c7d1",
+      "en_sha256": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+      "origin": "ai"
+    },
+    "dataList[id=Personality].content": {
+      "pl": "Tożsamości",
+      "kr_sha256": "6d270e76fd91b9dfc77fcb9a6f5601ea61ca74046f8914bcb74fcb83c74426ab",
+      "en_sha256": "8d4d8fef65ea881d9f2b04af4b3de0161c7664bcbfd69753529446fc85845b4f",
+      "origin": "ai"
+    },
+    "dataList[id=Rarity].content": {
+      "pl": "Rzadkość",
+      "kr_sha256": "8f679824c3656cd5d9cacc35671f11e7d6921987b2063068d35361ec842df472",
+      "en_sha256": "feddcf308625463b129c9019c7ff68dbac24d299d33320828a498a2cf365f38a",
+      "origin": "ai"
+    },
+    "dataList[id=ReLoad].content": {
+      "pl": "Odśwież",
+      "kr_sha256": "8259f9d353516e60d2990fbd0630ae3c0d082f46a47b18426f9fa6025af79f52",
+      "en_sha256": "0e91610117029a62a478b7fa7df0b8598bebe3ab1e192d4b1882e310719c9671",
+      "origin": "ai"
+    },
+    "dataList[id=Refuse].content": {
+      "pl": "Odrzuć",
+      "kr_sha256": "cc6314d04dbd1563ff5a34b8a4be0ff0a26c8b2058ac5eff392fdf20a5d328bb",
+      "en_sha256": "a2d285b352873457207a34a015267524bb4613c3e8c961c8998da4e08e0d5745",
+      "origin": "ai"
+    },
+    "dataList[id=Reset_Company_Title].content": {
+      "pl": "Resetuj ustawienia",
+      "kr_sha256": "b81deee16407b6b0fdb964f0acab3d3121f663fa2f6b3a2cfdc7159343f4ffa8",
+      "en_sha256": "c17307e2f5ac4d4095cf0ba78f044a79f7d3f045aaff0013be05290240acf8a5",
+      "origin": "ai"
+    },
+    "dataList[id=Reset_Company_desc].content": {
+      "pl": "Czy na pewno chcesz zresetować ustawienia profilu firmy?",
+      "kr_sha256": "fc0a837d3a5211789cbccc214026f9a075fd3f05ab233aba8c89e0269aa9b20b",
+      "en_sha256": "65596ae6b0c812e037069aba4adc396289f987385a862a38da43077ab2cbfab4",
+      "origin": "ai"
+    },
+    "dataList[id=SearchFriends].content": {
+      "pl": "Szukaj po ID",
+      "kr_sha256": "2b8ae518245ba34ad6292b11b6ee72bebfb1012f32700492fa004a79e4198c3c",
+      "en_sha256": "801a7a77bbbb93427338fdb5041664053f8ec88b9dbefe8e55029d92d3792720",
+      "origin": "ai"
+    },
+    "dataList[id=Season].content": {
+      "pl": "Sezon",
+      "kr_sha256": "a3142392a362d1eae6d434b16005a27ff6bbbb01c3a18e24b592d70da4de6f98",
+      "en_sha256": "bad2b893e5a466919e6513c50ff6623b1d3a115ee0d2db5f0baa650357dac2d7",
+      "origin": "ai"
+    },
+    "dataList[id=Season_0].content": {
+      "pl": "Standardowe",
+      "kr_sha256": "9fc77664c060608b7210ac43db497de30e4d1ca85e02a4fda5b90198937f4230",
+      "en_sha256": "b455784ab53072773e72df494aa4b12ac467976447e250c694c11b6f1268e235",
+      "origin": "ai"
+    },
+    "dataList[id=Season_1].content": {
+      "pl": "Sezon 1",
+      "kr_sha256": "5bafaf265b20364f236f5a20bcb8872f95d8d4e7986b6adba869360276c187e6",
+      "en_sha256": "c5a365e2aa6217c9203636c381f5a16ef4e915230a7a1d1d46086d256b68c636",
+      "origin": "ai"
+    },
+    "dataList[id=Season_2].content": {
+      "pl": "Sezon 2",
+      "kr_sha256": "36faa37ff11ccf547762bb0861b69ec3e7ddbbab02cd7a1906e0d6849fc65b81",
+      "en_sha256": "45dbab8558fba7b8db7a7647336d26e3e94356d605c8f60cf12af034589baedc",
+      "origin": "ai"
+    },
+    "dataList[id=SendAcceptReceivedFriend_1].content": {
+      "pl": "Twoja lista znajomych jest pełna.",
+      "kr_sha256": "9f0434987137981d5d4aa6edbd65050411d75d7a8294a3b9c8f4cae66e1effc3",
+      "en_sha256": "79360054767bd54b6093db065f1001edbecfae8f05a25794d55f35d9fcdc2d83",
+      "origin": "ai"
+    },
+    "dataList[id=SendAcceptReceivedFriend_2].content": {
+      "pl": "Lista znajomych tego gracza zdążyła się zapełnić.",
+      "kr_sha256": "7531281dbba474a6f9386661fd5be0b890947b2c617fe802059411010af3b6bc",
+      "en_sha256": "0449c2974c022b7dcda6472fe748f0f6ef887d17d1edae3167c05fb08d142e2d",
+      "origin": "ai"
+    },
+    "dataList[id=SendAcceptReceivedFriend_3].content": {
+      "pl": "Gracz anulował zaproszenie do znajomych.",
+      "kr_sha256": "dbc99cba56235bd4217ab2f359da670dffeea2db6f4aedaeea316433cbc0f510",
+      "en_sha256": "b2608050d7a7405ade5633b49c47aba7c1c6aa27904c9f9ad2fa4ad84747d205",
+      "origin": "ai"
+    },
+    "dataList[id=SendAcceptReceivedFriend_4].content": {
+      "pl": "Wystąpił nieoczekiwany błąd.",
+      "kr_sha256": "cc12d6a0edb897bb3010e90b86ee2b78b33e9140053ffe36d3c4518660bb3a9c",
+      "en_sha256": "18da7c03c274bd9cacc13ddfc0a8526f0fc309641e3b43bda9cfe24688a7da53",
+      "origin": "ai"
+    },
+    "dataList[id=SendSendFriend_1].content": {
+      "pl": "Osiągnięto limit wysłanych zaproszeń.",
+      "kr_sha256": "691b13e7f8423bbcf387563e4f97324cc418e273411ab394be17c876a6ffd1e9",
+      "en_sha256": "b8af18c72fe8caf91a949a6556187ad381b058e155e661b51fe02e7bda566a05",
+      "origin": "ai"
+    },
+    "dataList[id=SendSendFriend_2].content": {
+      "pl": "Twoja lista znajomych jest pełna.",
+      "kr_sha256": "9f0434987137981d5d4aa6edbd65050411d75d7a8294a3b9c8f4cae66e1effc3",
+      "en_sha256": "79360054767bd54b6093db065f1001edbecfae8f05a25794d55f35d9fcdc2d83",
+      "origin": "ai"
+    },
+    "dataList[id=SendSendFriend_3].content": {
+      "pl": "Lista oczekujących zaproszeń tego gracza jest pełna.",
+      "kr_sha256": "16cb12587080b139b74b777a16d223c4d93ef4ba06bf80a1cfab28f4ee7414b6",
+      "en_sha256": "aa9b434955884068b8169162e13a1c8eb62c870ade4082f1d5b4f5ebfd717bc8",
+      "origin": "ai"
+    },
+    "dataList[id=SendSendFriend_4].content": {
+      "pl": "Lista znajomych tego gracza jest pełna.",
+      "kr_sha256": "7531281dbba474a6f9386661fd5be0b890947b2c617fe802059411010af3b6bc",
+      "en_sha256": "11c801f12bd6fafb0eab2abdbd199599e88c5c59e398bd6d96d25f7f5e8c76cf",
+      "origin": "ai"
+    },
+    "dataList[id=SendSendFriend_5].content": {
+      "pl": "Nieprawidłowy użytkownik.",
+      "kr_sha256": "b32bad4c3bc90a30b649d0240faa603bcf7750c97f2a3ad4f25dfc312a8cbae7",
+      "en_sha256": "2552e1a177c38088d67bbdd953db017359b9bdc25c8ebb48c5a8ff6ed162f797",
+      "origin": "ai"
+    },
+    "dataList[id=SendSendFriend_6].content": {
+      "pl": "Ten gracz znajduje się już na liście zaproszeń.",
+      "kr_sha256": "9f9c86c6b479f88437c09209d1811b0b457b876aaa5efe8686a6b2f96abf4425",
+      "en_sha256": "2feebaa3432ca52dbde0d21b219d69d0a94a42aa53d9abad11e8da0d877a19c1",
+      "origin": "ai"
+    },
+    "dataList[id=SendSendFriend_7].content": {
+      "pl": "Wystąpił nieoczekiwany błąd.",
+      "kr_sha256": "cc12d6a0edb897bb3010e90b86ee2b78b33e9140053ffe36d3c4518660bb3a9c",
+      "en_sha256": "18da7c03c274bd9cacc13ddfc0a8526f0fc309641e3b43bda9cfe24688a7da53",
+      "origin": "ai"
+    },
+    "dataList[id=Send_Add_Friends].content": {
+      "pl": "Wysłać zaproszenie do znajomych?",
+      "kr_sha256": "3c6e5910192c1b24ace2b6c4a9e05e340cd4a313f4507f4c994e5a20c8d61469",
+      "en_sha256": "fed555f7cf0b735f50084db5b7719b7ca63a73e0b40ff0c795980012451f9d71",
+      "origin": "ai"
+    },
+    "dataList[id=Sentence].content": {
+      "pl": "Fraza",
+      "kr_sha256": "22f146433241fd2aa3fe9cc3b6ac69b550fd681de081db9af779e2781f93b6a6",
+      "en_sha256": "159410b8c9be321a89f79bc5a7ac24040ef0a5e9fe8badf415817729b41c5b71",
+      "origin": "ai"
+    },
+    "dataList[id=SimilarBanner].content": {
+      "pl": "Lista banerów",
+      "kr_sha256": "f989d740f5597d8a791fdcc9f27db4e43c4ba92bc29828e80aaed38e8c6b91ee",
+      "en_sha256": "209df0ababcc249fb387e4d02e2c781b6108f5383e8b9a96d6fcdb06d88bbdd0",
+      "origin": "ai"
+    },
+    "dataList[id=SimilarTicket].content": {
+      "pl": "Lista biletów",
+      "kr_sha256": "b4311a4c4beab2fe86d4106923eddc96a4f5f3ec76ef37e86f01eaa66526a05e",
+      "en_sha256": "8b6c2bdfd40114bf4127bad1a39c8ac76bf08ffb971ce92eb47d2210177fb683",
+      "origin": "ai"
+    },
+    "dataList[id=Sorting_LastLogin].content": {
+      "pl": "Ostatnio online",
+      "kr_sha256": "a300f23c0431c7a66357bd7ea353020bc88a9c6c9a03bfaab0c618e35e7a1d77",
+      "en_sha256": "2320b1e6dc53b85cdbc6324f98fe74ead8bc5644b5301d40d0ee48e95fdf4af2",
+      "origin": "ai"
+    },
+    "dataList[id=Sorting_Level].content": {
+      "pl": "Poziom konta",
+      "kr_sha256": "88d8d82af49d52a834fa8b45c94414bf1de3519583a1c86828af1dec4f679f07",
+      "en_sha256": "1709305c9fa966d14f56f0da3c3614bbc10adcf53d72f90341bb96d24afcfca3",
+      "origin": "ai"
+    },
+    "dataList[id=SupportPersonality_Reset].content": {
+      "pl": "Resetuj",
+      "kr_sha256": "893f3d9463683c71bf5eeca6a25c54fac365b5dbd5d7b69bbc0f5e82f5f72c70",
+      "en_sha256": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "origin": "ai"
+    },
+    "dataList[id=TicketCustom_Button].content": {
+      "pl": "Personalizuj",
+      "kr_sha256": "5dd775b562fc797fc0d6a58f073ce0eb1e7c0163b1bdbc99abac648834b016cd",
+      "en_sha256": "c5276e27afba47df67704ededdb5cf2cfaaf0a9d7d1be1eabb0d4087dd2b724b",
+      "origin": "ai"
+    },
+    "dataList[id=TicketCustom_Popup_EGOBG].content": {
+      "pl": "Tło",
+      "kr_sha256": "d643b25289201a43324e233c4d2f709a495495decc0cc7f4a1c6761b80e76507",
+      "en_sha256": "ece8229c938aa523c30b65ef56f8ce362a6cea9f8b6b3b9aeb512fd8e0883094",
+      "origin": "ai"
+    },
+    "dataList[id=TicketCustom_Popup_L].content": {
+      "pl": "Ramka 1",
+      "kr_sha256": "c30a44d1bd338eb16d144029d95224b9f6e378b6e372922cbc2842e4de6d048c",
+      "en_sha256": "f0afd753c8cb524041a38c595247b3f6b59935bb46806302e86d61637bcdbcfe",
+      "origin": "ai"
+    },
+    "dataList[id=TicketCustom_Popup_R].content": {
+      "pl": "Ramka 2",
+      "kr_sha256": "7820a90d14a0f70704318e03e23cf495ca10235157b3c77a912c1f0102d567f9",
+      "en_sha256": "02c9066bbfdedba9e090bb2c28703e449e0f29fbbb83890317b98d9557b8baae",
+      "origin": "ai"
+    },
+    "dataList[id=Today].content": {
+      "pl": "Dzisiaj",
+      "kr_sha256": "3bc6235e1d18162fb94cd242a101ce19f00f7bb5d4682419f2dba8102d00ad45",
+      "en_sha256": "535d4f12df50d794a2ba0b0ee10a9528c41399e63d887d3bf1161cf1ff69653e",
+      "origin": "ai"
+    },
+    "dataList[id=Uid_Copy].content": {
+      "pl": "Kopiuj",
+      "kr_sha256": "37b3d3b11b2637f6449dc624c288f92076677b75a6569ffe7e34f48b9676ea22",
+      "en_sha256": "e21f935f11d7e966dbbae78da9daa378fe8142a14e7c0cd7434183005faa6c5c",
+      "origin": "ai"
+    },
+    "dataList[id=Uid_Copy_ModalDesc].content": {
+      "pl": "Identyfikator został skopiowany.",
+      "kr_sha256": "f158e2ed55074faceaaafeda28b6e2a83321bdb257e0ffb4fd19b677757d2562",
+      "en_sha256": "6f80fface35218d795b9d82515fceadfb9e192d151807a896c459c0f5f3eb268",
+      "origin": "ai"
+    },
+    "dataList[id=Uid_Copy_ModalTitle].content": {
+      "pl": "Skopiowano",
+      "kr_sha256": "92e825d2066bd126e195c06353905e8ce65d14564df53b1e52bb9b4581085404",
+      "en_sha256": "77b7488d1a012d03cccc33dfc2f8119b18636b7176ec364963412c169b579658",
+      "origin": "ai"
+    },
+    "dataList[id=Uninstall].content": {
+      "pl": "Zdejmij",
+      "kr_sha256": "293182ec397e6b89978c3957a898edf744881e68b437a474a5350481d0b26da8",
+      "en_sha256": "4543c883301ab0ca4fe7a4a8cf7d0146aed15f9c5079e31aa9b81bd5c02972cd",
+      "origin": "ai"
+    },
+    "dataList[id=Using].content": {
+      "pl": "W użyciu",
+      "kr_sha256": "053c773abb66ad2c08423df622a2818a474686b16616aef5557ee5f7ba24f376",
+      "en_sha256": "ba0eb24926ce4a1d4384fbefe8f345f3d8492e1488c5c28fc097a60835af9c7f",
+      "origin": "ai"
+    },
+    "dataList[id=WaitCancle].content": {
+      "pl": "Anuluj",
+      "kr_sha256": "25fa53c0d70d17c26e7e91a7501816a8450f8ab42bf05d5e90fe0c6ec123977d",
+      "en_sha256": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "origin": "ai"
+    },
+    "dataList[id=Waiting_Friends].content": {
+      "pl": "Wysłane",
+      "kr_sha256": "fd5310a4051019a6b43fcfbe39aef09918a0182214b3d0e16c8af6d5911486fc",
+      "en_sha256": "128387839c5b81944554c75b53aab6a0256101cfedf5edf264e352f506fc1207",
+      "origin": "ai"
+    },
+    "dataList[id=Word].content": {
+      "pl": "Słowo",
+      "kr_sha256": "bc97e79178e9c6075345be5bc2541c10a3f2173d1282cedaa24cd765c17d6ee6",
+      "en_sha256": "3a2860ece5a4ee0b48b41ee96dd8054cf9bc6f113249ec601478b2582d72ead4",
+      "origin": "ai"
+    }
+  }
+}

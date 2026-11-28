@@ -1,0 +1,280 @@
+{
+  "entries": {
+    "dataList[id=AntiSheepGround].desc": {
+      "pl": "- Maks. 1\n- Posiadając ten efekt, przy wygranej w Starciu z Umiejętnością 'Odmowa Uziemienia' nakłada na cel 1 Podłączenia\n- Zmalekuje Licznik Ładowania celu o połowę\n- Znika w następnej turze",
+      "kr_sha256": "fa9c801c1c1be5abd8eb8726cf7faaca287be90db8a5b78ea27fe78308e42b97",
+      "en_sha256": "af939e5ccf96a560a9b2d0a58b5ec7e131ab3799b742eddc08eab76230f0fda1",
+      "origin": "ai"
+    },
+    "dataList[id=AntiSheepGround].name": {
+      "pl": "Wtyczka Uziemiająca Stacji Wielkiej Owcy",
+      "kr_sha256": "be12c1ac769504ec0a765685e4a9d0c8f4ca294efc559a2c63a4029b5f83a08f",
+      "en_sha256": "176e551cc57d81519e7cd3e9df530d3774538a6793f4ee7565a57c22d3a58e6d",
+      "origin": "ai"
+    },
+    "dataList[id=BandageOfTheBoundKing].desc": {
+      "pl": "Po śmierci nakłada na wszystkich wrogów Moc Zatonięcia 2 i Licznik 1\nNakłada Bandaże Króla w Spętaniu na jednostkę, która go pokonała. Jeśli cel już posiada ten efekt albo pokonująca jednostka nie istnieje, nakłada go na losowego wroga bez tego efektu",
+      "kr_sha256": "19882bfb49d409dd4bc8550200c6ac7eb5486103d4cb5a1c695556f72fae0b89",
+      "en_sha256": "d76c5197116505678612d191eb42eaf5e7fc57575cd99c2686fc69d9b267e616",
+      "origin": "ai"
+    },
+    "dataList[id=BandageOfTheBoundKing].name": {
+      "pl": "Bandaże Króla w Spętaniu",
+      "kr_sha256": "af22d6be19e5f74f6f910bba6497245adaf0e7badd048f61f18c236656ef154e",
+      "en_sha256": "59702280f27d99341512e17595aa3052a22452a6fd20448b2e1c1d7073bc24ce",
+      "origin": "ai"
+    },
+    "dataList[id=BigWelcome].desc": {
+      "pl": "Po zakończeniu ataku, jeśli cel popadł w stan Oszołomienia lub zginął, zyskuje +1 zasobu E.G.O atrybutu Pychy i +1 zasobu losowego pozostałego atrybutu (maks. 3 razy na turę)",
+      "kr_sha256": "567886bd752398eb635c0139789cdf80600862ebfa0a0470b50d86fabd035761",
+      "en_sha256": "dcc6c857111fcdb57d91da2b24bf85bf4f977c1d179c6d21f043cf342d37c168",
+      "origin": "ai"
+    },
+    "dataList[id=BigWelcome].name": {
+      "pl": "Wspaniałe Powitanie",
+      "kr_sha256": "b240eb707aaf5de6d2b6a4bf360cc08b74d7a9226b8c9ab8cc4ab9f606cc13e1",
+      "en_sha256": "c8ce171a887191f7fcf409cf49012de7f850dab064f84f360237c473ff7c8a1c",
+      "origin": "ai"
+    },
+    "dataList[id=BreathSupport].desc": {
+      "pl": "Na początku fali zyskuje 4 Mocy Oddechu i 4 Licznika Oddechu.",
+      "kr_sha256": "fd448eacc39439ddf3c6d4d44b4ef8af71bd2a1619b4025705bd346f13d124a6",
+      "en_sha256": "7fe5a96430dc468c6ae07443c965a605f6addd26ccf30402d2b8887660b419b2",
+      "origin": "ai"
+    },
+    "dataList[id=BreathSupport].name": {
+      "pl": "Pojedynek na Oddechu",
+      "kr_sha256": "e03da3b5e18cf7b616f4675ab500c431e0171badcbe47fe275a471459b92fd58",
+      "en_sha256": "ebd7b753a2cb00a46b8e89ec098b371ab746d7ffcbc2b5a262bd0fb118f1fab9",
+      "origin": "ai"
+    },
+    "dataList[id=ComeForwardToTheKing].desc": {
+      "pl": "Waga Ataku wszystkich Umiejętności ataku rośnie o wartość (maks. 2)\nPo przegranej w Starciu zyskuje w następnej turze 1 Wrażliwości",
+      "kr_sha256": "90ea5fda24d52d6b1ae39a8f7d1211875ac8f1c72ef353f13835ef6563bafb2f",
+      "en_sha256": "79725ad4a8f3637225a446a87c3d2171cf60983ebc88e8b2a78e6ff8fd2ad184",
+      "origin": "ai"
+    },
+    "dataList[id=ComeForwardToTheKing].name": {
+      "pl": "Czas Audiencji",
+      "kr_sha256": "29f4d7167cdffcb236939b873517362b3747a46ca255a72f6a10fc748254cf4b",
+      "en_sha256": "951cf7fb1d2df42029c840e0be2d0ac1b973fbdeb4c20a826b9c17bc79eab7de",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectedPlug].desc": {
+      "pl": "Na koniec tury:\n- Maks. 3\n- Przy 3 popada w stan Oszołomienia na następną turę.\n- Przy 3 zużywa całe Ładowanie.",
+      "kr_sha256": "ce006a0b4e9023a69780b9e1b26731324d620d9525b11e76e5dac913368f1158",
+      "en_sha256": "42319d73a1b73bdc82e5f1f15bec192bb0da9d1ebad0c71509440cfde6c130c0",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectedPlug].name": {
+      "pl": "Podłączony",
+      "kr_sha256": "e90537cdf4ea6a7b20664e46b31e3ee61b0aa9b42e2da57c8e988e83980b8b9b",
+      "en_sha256": "cc0b984e95ce7eedc11c41daed3e116fe97c3cf1b2cd3ac5742d5d5423b187c1",
+      "origin": "ai"
+    },
+    "dataList[id=FirmWill].desc": {
+      "pl": "Po śmierci sojusznika nie traci Poczytalności.",
+      "kr_sha256": "d920a422566a27292140126ba60f2442a35a0cf731eb8d709b60f77f8e2d1796",
+      "en_sha256": "4b9472a8e55981ff9e19ab5774b714c757fe81baa3e846a69527e9d36e3c3993",
+      "origin": "ai"
+    },
+    "dataList[id=FirmWill].name": {
+      "pl": "Niezłomna Wola",
+      "kr_sha256": "247caf4e340c4d4ee705469624b786e23ff73e8eefa37f75cd09c1437e9bf616",
+      "en_sha256": "7165cd5e7dafb0343a921a369188af68ee4417a2b01390172aa551e2ec59091c",
+      "origin": "ai"
+    },
+    "dataList[id=RefractedWill].desc": {
+      "pl": "Spadek Poczytalności po śmierci sojusznika, wynikający z bazowych czynników obniżających Poczytalność, stosuje się w połowie (bez części dziesiętnych)",
+      "kr_sha256": "956e0f70dc519f368f329c25dd302a617dd50734890ada1c7fc8d44a753f56cc",
+      "en_sha256": "d9832ec192fee707bff5a299a224ce77fd74157abda4e09acf26c0aff50a6bae",
+      "origin": "ai"
+    },
+    "dataList[id=RefractedWill].name": {
+      "pl": "Załamana Determinacja",
+      "kr_sha256": "8fead2f5095766fde731cf7e6c1ee1585178bb5521787d0dd20147dec4a98fda",
+      "en_sha256": "fc99ebaa6c29c96fb5e7802335b1f159c22139c3f0d322fab1b4f40052b2fd8c",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4A].desc": {
+      "pl": "Poziom Tożsamości +2",
+      "kr_sha256": "b20fd0e11fd798fc1b83af1be39cd84d1aaa700bb800f33fce302d8798fe77d2",
+      "en_sha256": "953b73e655b13be70eeabbe55f9650ff9f580cbee06676cfe3e7f0812573b884",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4A].name": {
+      "pl": "Efekt Rozmieszczenia nr 1",
+      "kr_sha256": "29a8f0ef2b15166907362bd50897a090d8b808e0a053e7874696632b112de503",
+      "en_sha256": "974079c5d7469607ecf2883b55349ca8d1be02573e90b1fc3fc1f5f71052aa28",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4B].desc": {
+      "pl": "Skuteczność odzyskiwania SP +3\nPoczątkowe SP +10",
+      "kr_sha256": "3744d364f6048e9accbf31c134022d316ea12c650fba02bad6f57ea4e56c52d3",
+      "en_sha256": "ef925ba481d7115776acf8980c4d907b44e14b68e826595561e09531005e68ee",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4B].name": {
+      "pl": "Efekt Rozmieszczenia nr 2",
+      "kr_sha256": "5061bdc080c60d5016b99cde231232bfb9ae32a7b131e3aabcc168eef44f38d9",
+      "en_sha256": "34b310563be7ef848492f5d27b126d27bf5c71eac7568544c03807e09c3fa275",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4C].desc": {
+      "pl": "Poziom Ataku +2",
+      "kr_sha256": "48838ce56e3ff5e8ce5b424334f25e538cae18bb096ad6e6d1e2149f4625a0f0",
+      "en_sha256": "7b3dff79f769fef1d6e7da69938b412d2ea5ed03234d87ad15cf5464466c5c26",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4C].name": {
+      "pl": "Efekt Rozmieszczenia nr 3",
+      "kr_sha256": "1f3fe9c4ca9fa0d909c03c3d5e14fba8d1dade3e934c4b1ee6c111b222c9d66f",
+      "en_sha256": "61a524d6e854440d4de6557be010fef0cca12d3820838c96e62d74199f554696",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4D].desc": {
+      "pl": "Poziom Obrony +2",
+      "kr_sha256": "5bb5a8cdd33a2baed0c8fd162defba834441ec4f22f77d8c500e6e13ebb21a09",
+      "en_sha256": "1ff3c4deaf5cdcc1ac4527265f43bad434b96a18b24944c35713744282f85f73",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4D].name": {
+      "pl": "Efekt Rozmieszczenia nr 4",
+      "kr_sha256": "7315a4e163446659757775a10622cf09ee5984dccce32d5798c350bb8035b611",
+      "en_sha256": "f657ffe11a8e08b08ac6e6a4e53e1707f43a85cd5b86e3f05fb6845c529bdbac",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4E].desc": {
+      "pl": "Maksymalna Szybkość +2",
+      "kr_sha256": "96e821378f3244cabb84a07c86ce136b4b9d84d613e766ef113fe2a747f53e9d",
+      "en_sha256": "1f91b86c9bced3920df5d5e1c9777dd594fa6e301a0d39c115befa65fd1ca848",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4E].name": {
+      "pl": "Efekt Rozmieszczenia nr 5",
+      "kr_sha256": "7928aa70fa388c777c0108a202ced1c95d3f5f4bdff7808f586bab1081ba0429",
+      "en_sha256": "65a8365c647d54f116ff5fd49fbbc7b591aa2e2a978c0b7514c7ca6baae72311",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4F].desc": {
+      "pl": "Maks. HP +5%",
+      "kr_sha256": "d561a7e92a74f7065b5a30a8e65d6af9dbd25439e26f6b3a38515c363b5e00e9",
+      "en_sha256": "57d7c2fdc3be717ad0fbe0883c8582f2a0afad24aacfb0b96de808183b42f7eb",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4F].name": {
+      "pl": "Efekt Rozmieszczenia nr 6",
+      "kr_sha256": "02c9bf003aaee26fcc2dbdaadacb78190eb5147153d806a5e9b57a8870649045",
+      "en_sha256": "69d8c26c66ef9d06f4c4ecd488f663432c06028b8c487501cac3503f816536ca",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4G].desc": {
+      "pl": "Moc Starcia +1\nPoczątkowe SP +15",
+      "kr_sha256": "7c62ddf44e88feb02ebb3f87c1e23a9cb8edb04242641c4bc89df71b2dde284c",
+      "en_sha256": "377c41f54fb0ce5cf210aeb7edf5f6f45df929e5b09e3821b04deb5bf8bf9a8b",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4G].name": {
+      "pl": "Efekt Rozmieszczenia nr 7",
+      "kr_sha256": "60826ac047e34ea3d987f20c81b9089f2c7aa1de35dffa8dafe728919904bf38",
+      "en_sha256": "da32da97f5053517f38e0a1a9ab7c78d8f4dc6764043b5ebf3ba740d6270c7bc",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4H].desc": {
+      "pl": "Otrzymywane Obrażenia -10%\nPoczątkowe SP +15",
+      "kr_sha256": "2b8b5995d16e3729da761d5dcc2d87fa51d1f99852e9a1cdaa23eb76722b9e34",
+      "en_sha256": "8bae8ac7fa44e03cd6ce61156373d2711d3f7f6343a73afc5702e6f00bf8c9ab",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4H].name": {
+      "pl": "Efekt Rozmieszczenia nr 8",
+      "kr_sha256": "a0c5c2d511cf2c19c7fea48a47ad23c173a490427d24ce3f57d2a700db6cd879",
+      "en_sha256": "075ff3a063b7ef902ca42abbe93c64fc61a3ff8fc9611b7f01608c341ec86da9",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4I].desc": {
+      "pl": "Wartość Prowokacji +5\nPoczątkowe SP +20",
+      "kr_sha256": "1c6f4ad479b3680eb379bad5f8a8f6f4141d129f0129161e359a758849aa9e9a",
+      "en_sha256": "732c2372d749be72a61a7a16fd590ba320a747411d8e9d6b1196c8db5817634c",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4I].name": {
+      "pl": "Efekt Rozmieszczenia nr 9",
+      "kr_sha256": "1c8a670945fdadb2a224e56a3dd499e6e13e5dced138b8568dfdc6ccbe512de5",
+      "en_sha256": "b0981e35c8877a3034a4d37d451139b4a45cffa86a3bab2a2bcb46fe103b53db",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4J].desc": {
+      "pl": "Zadawane Obrażenia +10%\nPoczątkowe SP +20",
+      "kr_sha256": "3bc7a0e28530ff286b6220783791f4776a3a337a9e3510d44a8114bdc6fe92e7",
+      "en_sha256": "f6a46547fd949dec3097613a66c32f0bc71179d84e3fe4217dbf21ed922da313",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4J].name": {
+      "pl": "Efekt Rozmieszczenia nr 10",
+      "kr_sha256": "35f9ce16ab69bc41aaec7b97e901b71c307f38196702f18eaad78b3b6778385f",
+      "en_sha256": "7068eab083b49da51c14d282e0e3f0535dcc5cb877887d0d25718c547125e363",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4K].desc": {
+      "pl": "Moc Końcowa +1\nPoczątkowe SP +30",
+      "kr_sha256": "a6b0b390b697c573d1e2f63a0ab98bfac86fc98e2953dae56ca2dfe6be267cae",
+      "en_sha256": "ca8f525c7af5eb72aa9483eba03b81e8bb1f3acee03ccde5a9e64cf6aab71553",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4K].name": {
+      "pl": "Efekt Rozmieszczenia nr 11",
+      "kr_sha256": "d3cdaed23116c3c3c504d9a1a777df85b80fb9fb8a3af7fd9033cc16ae139b81",
+      "en_sha256": "5feed2da379db3f15b65e41fd5cab342cc411071800dde0f3e40b9d04f75dfd3",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4L].desc": {
+      "pl": "Poziom Tożsamości +3\nPoczątkowe SP +30",
+      "kr_sha256": "b69bd735a9dcc35daac616fbb480d730846a252c3832c4e67d53cff37ab37968",
+      "en_sha256": "4ca47d00b27d54ba66d05abae9b969396ee1604aefbf3e22cacca7c9eeecfa6c",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4L].name": {
+      "pl": "Efekt Rozmieszczenia nr 12",
+      "kr_sha256": "4480798abc295b0ce0ed601bbb39fbce9afe15a5530437049d7673e3dcc825a2",
+      "en_sha256": "0b2a290d091966f99d5c5725d66bd656085e19676a52a78d317170752376f636",
+      "origin": "ai"
+    },
+    "dataList[id=ThundercloudFormation].desc": {
+      "pl": "- Maks. 5\n- Przy wartości 1 używa potężnej Umiejętności\n- Na koniec tury maleje o 1. Po popadnięciu w stan Oszołomienia rośnie o 1",
+      "kr_sha256": "05848f186170a06e760d983359c4d9b3adae0f40795465cf50ca945d809d18d6",
+      "en_sha256": "0f714ca9417ff008964e9d09c88c09e6656b7e2857f4897020fc996d0317a5bf",
+      "origin": "ai"
+    },
+    "dataList[id=ThundercloudFormation].name": {
+      "pl": "Gromadząca się Chmura Gromu",
+      "kr_sha256": "76a9aaeab9a2af2040ca8a2fdd2b21a543da8776fd07491e216991c41ee0578b",
+      "en_sha256": "920c1920756a862be817743f1cfcb9f65fa76b5f1ebb7083aa848650f7f38bbd",
+      "origin": "ai"
+    },
+    "dataList[id=UninvitedGuest].desc": {
+      "pl": "Gdy ginie Tożsamość posiadająca Nieproszonego Gościa, efekt przenosi się na Tożsamość, która go nie posiada.",
+      "kr_sha256": "e2e41c7fa1c72a9384cf9abd0c9b98cabca999841f2ef91ea0562b3313307605",
+      "en_sha256": "2ab18e6a3649a9c9e90a36ff8010c0f3216e8e87238522c207586acd77a6d0ad",
+      "origin": "ai"
+    },
+    "dataList[id=UninvitedGuest].name": {
+      "pl": "Nieproszony Gość",
+      "kr_sha256": "8181719a3358c492c778dcc27cec9d1c6286222257e8d7b410264cc5b40b78ee",
+      "en_sha256": "1fe9fbd895cc6e6e6bca5ca291355383b07abc71281e5e2d7e125d95f4d1a0ca",
+      "origin": "ai"
+    },
+    "dataList[id=VioletPeccatulumTwo].desc": {
+      "pl": "- Zadawane Obrażenia +15%\n- Otrzymywane Obrażenia -15%\n- Postacie posiadające ten efekt oznaczone są aurą Peccatulum Zazdrości 2. stadium",
+      "kr_sha256": "9134e683e86aeb4a4ee467a6de8b5fc4701a37f0892436cee0ecf2f7be1e047c",
+      "en_sha256": "d4b669b40fa18f84c850f8fb3e53446e4bd9b7707dfe587dd1c1de198baed571",
+      "origin": "ai"
+    },
+    "dataList[id=VioletPeccatulumTwo].name": {
+      "pl": "Peccatulum Zazdrości 2. stadium",
+      "kr_sha256": "973febd7342ff5932b4a5e716d2b34d4c1eb3e003f2a9af413a8ca8982343438",
+      "en_sha256": "f02f587994e81bea3842a007a474c28d76787057a725ccdeb77cf64aec1e8ee6",
+      "origin": "ai"
+    }
+  }
+}

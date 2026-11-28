@@ -1,0 +1,3970 @@
+### 1 (L740)  [] — 
+TOK: \n
+KR: [BeforeAttack] 자신을 제외한 무작위 아군 1 + (질투 공명 수 / 3)명에게 [MagicalGirlResponse] 1 부여 (최대 3명)\n<style="highlight">- 자신에게 [MagicalGirlAppear]이 있으면, 대신하여 무작위 아군 1 + (질투 공명 수 / 3)에게 [MagicalGirlResponse] 2 부여 (최대 3명)</style>\n\n[BeforeAttack] ([Charge] - 1)만큼 공격 가중치 증가 (최대 <style="highlight">5</style>)\n[EndSkill]  자신의 [Charge] 횟수를 전부 소모하여 체력 비율이 가장 낮은 아군 2 + (질투 공명 수 / 2)명의 체력을 (소모한 [Charge] 횟수)%만큼 회복  (최대 5명, 최대 <style="highlight">8</style>%)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [ArcanaQueenOfHate] 1 얻음
+EN: [BeforeAttack] Apply 1 [MagicalGirlResponse] to (1 + (Envy Reson. / 3)) random other allies (max 3 allies)\n<style="highlight">- If this unit has [MagicalGirlAppear], apply 2 [MagicalGirlResponse] to (1 + (Envy Reson. / 3)) random other allies instead (max 3 allies)</style>\n\n[BeforeAttack] Gain +([Charge] - 1) Atk Weight (max <style="highlight">5</style>)\n[EndSkill] Consume all [Charge] Count on self to heal (2 + (Envy Reson. / 2)) allies with the least HP percentages by ([Charge] Count consumed)% HP (max 5 allies, max <style="highlight">8</style>%)\n\n[EndSkill] If this unit is Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [ArcanaQueenOfHate]
+
+### 2 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst]을 ([Charge] - 1)만큼 부여 (최대 <style="highlight">3</style>)
+EN: [OnSucceedAttack] Inflict ([Charge] - 1) [Burst] (max <style="highlight">3</style>)
+
+### 3 (L850)  [] — 
+TOK: \n
+KR: [BeforeAttack] 자신을 제외한 무작위 아군 1 + (질투 공명 수 / <style="highlight">2</style>)명에게 [MagicalGirlResponse] 1 부여 (최대 <style="highlight">4</style>명)\n- 자신에게 [MagicalGirlAppear]이 있으면, 대신하여 무작위 아군 1 + (질투 공명 수 /<style="highlight"> 2</style>)에게 [MagicalGirlResponse] 2 부여 (최대 <style="highlight">4</style>명)\n\n[BeforeAttack] ([Charge] - 1)만큼 공격 가중치 증가 (최대 5)\n<style="highlight">- 자신에게 [MagicalGirlAppear]이 있으면, 대신하여 [Charge]만큼 공격 가중치 증가 (최대 5)</style>\n\n[EndSkill]  자신의 [Charge] 횟수를 전부 소모하여 체력 비율이 가장 낮은 아군 2 + (질투 공명 수 / 2)명의 체력을 (소모한 [Charge] 횟수)%만큼 회복  (최대 5명, 최대 <style="highlight">10</style>%)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [ArcanaQueenOfHate] 1 얻음
+EN: [BeforeAttack] Apply 1 [MagicalGirlResponse] to (1 + (Envy Reson. / <style="highlight">2</style>)) random other allies (max <style="highlight">4</style> allies)\n- If this unit has [MagicalGirlAppear], apply 2 [MagicalGirlResponse] to (1 + (Envy Reson. / <style="highlight">2</style>)) random other allies instead (max <style="highlight">4</style> allies)\n\n[BeforeAttack] Gain +([Charge] - 1) Atk Weight (max 5)\n<style="highlight">- If this unit has [MagicalGirlAppear], gain +([Charge]) Atk Weight instead (max 5)</style>\n\n[EndSkill] Consume all [Charge] Count on self to heal (2 + (Envy Reson. / 2)) allies with the least HP percentages by ([Charge] Count consumed)% HP (max 5 allies, max <style="highlight">10</style>%)\n\n[EndSkill] If this unit is Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [ArcanaQueenOfHate]
+
+### 4 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신의 [Charge] 횟수 <style="highlight">2</style> 증가 (턴 당 최대 <style="highlight">10</style>)
+EN: [OnSucceedAttack] Gain +<style="highlight">2</style> [Charge] Count (<style="highlight">10</style> per turn)
+
+### 5 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 메인 타겟에게 [VillainMark] 부여
+EN: [OnSucceedAttack] Inflict [VillainMark] against the main target next turn
+
+### 6 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst]을 ([Charge] - 1)만큼 부여 (최대 <style="highlight">4</style>)
+EN: [OnSucceedAttack] Inflict ([Charge] - 1) [Burst] (max <style="highlight">4</style>)
+
+### 7 (L120)  [] — 
+TOK: 
+KR: <style="highlight">- 자신에게 [MagicalGirlAppear]이 있으면, [Burst] 횟수 1 증가</style>
+EN: <style="highlight">- If this unit has [MagicalGirlAppear], inflict +1 [Burst] Count</style>
+
+### 8 (L70)  [] — 
+TOK: 
+KR: 맥시마이즈드 리버스드 아르카나 슬레이브 -  이레이징 오브 헤이트리드
+EN: Maximized Reversed Arcana Slave - Erasure of Hatred
+
+### 9 (L40)  [] — 
+TOK: 
+KR: 증오의 여왕
+EN: The Queen of Hatred
+
+### 10 (L690)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [Charge]만큼 공격 가중치 증가 (최대 5)\n\n[BeforeAttack] 자신의 [Charge] 횟수를 전부 소모하여 소모한 [Charge] 횟수당 피해량 +1% (최대 20%)\n\n[BeforeAttack] 메인 타겟에게 [VillainMark]이 있으면, [Charge]당 피해량 +3% (최대 15%)\n\n[BeforeAttack] 질투 공명 수 3당, 피해량 +5% (최대 10%, 소수점 버림)\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -12 (최대 -24)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [HystericGauge] 1 얻음
+EN: [CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n\n[BeforeAttack] Consume all [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max 20%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +3% damage for every [Charge] (max 15%)\n\n[BeforeAttack] Deal +5% damage for every 3 Envy Reson. (max 10%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]
+
+### 11 (L120)  [] — 
+TOK: 
+KR: [SuperCoin]
+EN: [SuperCoin]
+
+### 12 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신의 [Charge] 횟수 1 증가 (턴 당 최대 7)
+EN: [OnSucceedAttack] Gain +1 [Charge] Count (7 times per turn)
+
+### 13 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 14 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackTail] 다음 턴에 메인 타겟에게 [VillainMark] 부여
+EN: [OnSucceedAttackTail] Inflict [VillainMark] against the main target next turn
+
+### 15 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking]을 ([Charge] - 1)만큼 부여 (최대 2)
+EN: [OnSucceedAttack] Inflict ([Charge] - 1) [Sinking] (max 2)
+
+### 16 (L910)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [Charge]만큼 공격 가중치 증가 (최대 5)\n<style="highlight">- 자신에게 [NoVillain]가 있으면, 대신하여 ([Charge] + 1)만큼 공격 가중치 증가 (최대 5)</style>\n\n[BeforeAttack] 자신의 [Charge] 횟수를 전부 소모하여 소모한 [Charge] 횟수당 피해량 +<style="highlight">2</style>% (최대 <style="highlight">40</style>%)\n\n[BeforeAttack] 메인 타겟에게 [VillainMark]이 있으면, [Charge]당 피해량 +<style="highlight">5</style>% (최대 <style="highlight">25</style>%)\n<style="highlight">-  자신에게 [HystericGauge]가 있으면, 대신하여 [Charge]당 피해량 +7% (최대 35%)</style>\n\n[BeforeAttack] 질투 공명 수 2당, 피해량 +<style="highlight">7</style>% (최대 <style="highlight">21</style>%, 소수점 버림)\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -12 (최대 -24)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [HystericGauge] 1 얻음
+EN: [CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n<style="highlight">- If this unit has [NoVillain], gain +([Charge] + 1) Atk Weight instead (max 5)</style>\n\n[BeforeAttack] Consume all [Charge] Count and deal +<style="highlight">2</style>% more damage for every [Charge] Count consumed (max <style="highlight">40</style>%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +<style="highlight">5</style>% damage for every [Charge] (max <style="highlight">25</style>%)\n<style="highlight">- If this unit has [HystericGauge], deal +7% damage for every [Charge] instead (max 35%)</style>\n\n[BeforeAttack] Deal +<style="highlight">7</style>% damage for every 2 Envy Reson. (max <style="highlight">21</style>%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]
+
+### 17 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신의 [Charge] 횟수 2 증가 (턴 당 최대 <style="highlight">10</style>)
+EN: [OnSucceedAttack] Gain +2 [Charge] Count (<style="highlight">10</style> per turn)
+
+### 18 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking]을 ([Charge] - 1)만큼 부여 (최대 <style="highlight">3</style>)
+EN: [OnSucceedAttack] Inflict ([Charge] - 1) [Sinking] (max <style="highlight">3</style>)
+
+### 19 (L910)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [Charge]만큼 공격 가중치 증가 (최대 5)\n- 자신에게 [NoVillain]가 있으면, 대신하여 ([Charge] + 1)만큼 공격 가중치 증가 (최대 5)\n\n[BeforeAttack] 자신의 [Charge] 횟수를 전부 소모하여 소모한 [Charge] 횟수당 피해량 <style="highlight">+2.5</style>% (최대 <style="highlight">50</style>%)\n\n[BeforeAttack] 메인 타겟에게 [VillainMark]이 있으면, [Charge]당 피해량 +5% (최대 25%)\n-  자신에게 [HystericGauge]가 있으면, 대신하여 [Charge]당 피해량 +<style="highlight">10</style>% (최대 <style="highlight">50</style>%)\n\n[BeforeAttack] 질투 공명 수 2당, 피해량 <style="highlight">+10%</style> (최대 <style="highlight">30%</style>, 소수점 버림)\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -12 (최대 -24)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [HystericGauge] 1 얻음
+EN: [CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n- If this unit has [NoVillain], gain +([Charge] + 1) Atk Weight instead (max 5)\n\n[BeforeAttack] Consume all [Charge] Count and deal <style="highlight">+2.5%</style> more damage for every [Charge] Count consumed (max <style="highlight">50</style>%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +5% damage for every [Charge] (max 25%)\n- If this unit has [HystericGauge], deal +<style="highlight">10</style>% damage for every [Charge] instead (max <style="highlight">50</style>%)\n\n[BeforeAttack] Deal+<style="highlight">10</style>% damage for every 2 Envy Reson. (max <style="highlight">30</style>%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]
+
+### 20 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신의 [Charge] 횟수 2 증가 (턴 당 최대 <style="highlight">14</style>)
+EN: [OnSucceedAttack] Gain +2 [Charge] Count (<style="highlight">14</style> per turn)
+
+### 21 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack]</style> 다음 턴에 메인 타겟에게 [VillainMark] 부여
+EN: <style="highlight">[OnSucceedAttack]</style> Inflict [VillainMark] against the main target next turn
+
+### 22 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking]을 ([Charge] - 1)만큼 부여 (최대 <style="highlight">4</style>)
+EN: [OnSucceedAttack] Inflict ([Charge] - 1) [Sinking] (max <style="highlight">4</style>)
+
+### 23 (L120)  [] — 
+TOK: 
+KR: <style="highlight">- 자신에게 [NoVillain]가 있으면, [Sinking] 횟수 1 증가</style>
+EN: <style="highlight">- If this unit has [NoVillain], inflict +1 [Sinking] Count</style>
+
+### 24 (L40)  [] — 
+TOK: 
+KR: 아르카나 적성 회로
+EN: Arcana Aptitude Circuit
+
+### 25 (L530)  [] — 
+TOK: \n
+KR: 전투 중 누적으로 [Charge] 횟수를 10 소모할 때마다, [Charge] 1 얻음\n- 이미 자신의 [Charge] 횟수를 소모하여 [Charge]을 얻고 있다면, 중복되지 않음\n- 자신의 [Charge]당 자신의 [Charge] 횟수를 소모하는 기본 공격 스킬의 피해량 +5% (최대 25%)\n\n로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, 스킬 3이 1개 추가됨
+EN: Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count\n- If this unit already gains [Charge] by consuming [Charge] Count on self, this effect does not stack with that effect\n- This unit's Base Attack Skills that consume [Charge] Count: deal +5% damage for every [Charge] on self (max 25%)\n\nIf this unit is Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 additional Skill 3 use
+
+### 26 (L50)  [] — 
+TOK: 
+KR: 난 가위를 낼게, 너는?
+EN: I'll Go fer Scissors. How 'Bout You?
+
+### 27 (L120)  [] — 
+TOK: 
+KR: 돈키호테의 전용 EGO 장비
+EN: Don Quixote’s E.G.O Gear
+
+### 28 (LNone)  [] — 
+TOK: 
+KR: 난 가위를 낼게, 너는?
+REPEAT: 26 — inherit
+
+### 29 (L40)  [] — 
+TOK: 
+KR: 놀아줄래
+EN: Will You Play?
+
+### 30 (L300)  [] — 
+TOK: \n
+KR: [WinDuelEndSkill] 현재 체력 비율이 가장 낮은 아군 (2 + 질투 공명 수 / 2)명의 체력을 각자의 최대 체력 2%만큼 회복하고 정신력 5 회복 (최대 3명)\n[DefeatDuel] (질투 공명 수 x 5)만큼 보호막 얻음 (최대 20)\n[DefeatDuel] 메인 타겟에게 가하는 피해량 +100%
+EN: [WinDuelEndSkill] Heal 2% HP and 5 SP each for (2 + Envy Reson. / 2) allies that have the lowest current HP percentages (max 3 units)\n[DefeatDuel] Gain (Envy Reson. x 5) Shield (max 20)\n[DefeatDuel] Deal +100% damage to the main target
+
+### 31 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 32 (L120)  [] — 
+TOK: 
+KR: [WinDuelAttack] 다음 턴에 [ResultReduction] 1 부여 (대상별 턴당 1회)
+EN: [WinDuelAttack] Inflict 1 [ResultReduction] next turn (once per turn per target)
+
+### 33 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Laceration]
+
+### 34 (L300)  [] — 
+TOK: \n
+KR: [WinDuelEndSkill] 현재 체력 비율이 가장 낮은 아군 (2 + 질투 공명 수 / 2)명의 체력을 각자의 최대 체력 <style="highlight">4</style>%만큼 회복하고 정신력 5 회복 (최대 <style="highlight">4</style>명)\n[DefeatDuel] (질투 공명 수 x 5)만큼 보호막 얻음 (최대 <style="highlight">25</style>)\n[DefeatDuel] 메인 타겟에게 가하는 피해량 +<style="highlight">150</style>%
+EN: [WinDuelEndSkill] Heal <style="highlight">4</style>% HP and 5 SP each for (2 + Envy Reson. / 2) allies that have the lowest current HP percentages (max <style="highlight">4</style> units)\n[DefeatDuel] Gain (Envy Reson. x 5) Shield (max <style="highlight">25</style>)\n[DefeatDuel] Deal +<style="highlight">150</style>% damage to the main target
+
+### 35 (L300)  [] — 
+TOK: \n
+KR: [WinDuelEndSkill] 현재 체력 비율이 가장 낮은 아군 (2 + 질투 공명 수 / 2)명의 체력을 각자의 최대 체력 <style="highlight">6</style>%만큼 회복하고 정신력 5 회복 (최대 4명)\n[DefeatDuel] (질투 공명 수 x 5)만큼 보호막 얻음 (최대 <style="highlight">30</style>)\n[DefeatDuel] 메인 타겟에게 가하는 피해량 +<style="highlight">200</style>%
+EN: [WinDuelEndSkill] Heal <style="highlight">6</style>% HP and 5 SP each for (2 + Envy Reson. / 2) allies that have the lowest current HP percentages (max 4 units)\n[DefeatDuel] Gain (Envy Reson. x 5) Shield (max <style="highlight">30</style>)\n[DefeatDuel] Deal +<style="highlight">200</style>% damage to the main target
+
+### 36 (LNone)  [] — 
+TOK: 
+KR: 난 가위를 낼게, 너는?
+REPEAT: 26 — inherit
+
+### 37 (LNone)  [] — 
+TOK: 
+KR: 놀아줄래
+REPEAT: 29 — inherit
+
+### 38 (L300)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n질투 공명 수가 2 이상이면, 최종 위력 +1\n[WinDuel] 메인 타겟에게 가하는 피해량 +60%\n[DefeatDuel] (질투 공명 수 x 5)만큼 보호막 얻음 (최대 20)\n[DefeatDuel] 이 스킬의 [ResultReduction] 부여량 +1
+EN: [CantIdentify]\nTargets randomly\nAt 2+ Envy Reson., Final Power +1\n[WinDuel] Deal +60% damage to the main target\n[DefeatDuel] Gain Shield equal to (Envy Reson. x 5) (max 20)\n[DefeatDuel] This Skill inflicts +1 more [ResultReduction]
+
+### 39 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 40 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 41 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 42 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [ResultReduction] 1 부여 (대상별 턴당 1회)
+EN: [OnSucceedAttack] Inflict 1 [ResultReduction] next turn (once per turn per target)
+
+### 43 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 6 부여
+EN: [OnSucceedAttack] Inflict 6 [Laceration]
+
+### 44 (L310)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n질투 공명 수 2<style="highlight">당</style>, 최종 위력 +1 <style="highlight">(최대 2)</style>\n[WinDuel] 메인 타겟에게 가하는 피해량 +<style="highlight">80</style>%\n[DefeatDuel] (질투 공명 수 x 5)만큼 보호막 얻음 (최대 <style="highlight">25</style>)\n[DefeatDuel] 이 스킬의 [ResultReduction] 부여량 +1
+EN: [CantIdentify]\nTargets randomly\nFinal Power +1 <style="highlight">for every 2 Envy Reson. (max 2)</style>\n[WinDuel] Deal +<style="highlight">80</style>% damage to the main target\n[DefeatDuel] Gain Shield equal to (Envy Reson. x 5) (max <style="highlight">25</style>)\n[DefeatDuel] This Skill inflicts +1 more [ResultReduction]
+
+### 45 (L320)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n질투 공명 수 2당, 최종 위력 +1 (최대 <style="highlight">3</style>)\n[WinDuel] 메인 타겟에게 가하는 피해량 +<style="highlight">100</style>%\n[DefeatDuel] (질투 공명 수 x 5)만큼 보호막 얻음 (최대 <style="highlight">30</style>)\n[DefeatDuel] 이 스킬의 [ResultReduction] 부여량 +1
+EN: [CantIdentify]\nTargets randomly\nFinal Power +1 for every 2 Envy Reson. (max <style="highlight">3</style>)\n[WinDuel] Deal +<style="highlight">100</style>% damage to the main target\n[DefeatDuel] Gain Shield equal to (Envy Reson. x 5) (max <style="highlight">30</style>)\n[DefeatDuel] This Skill inflicts +1 more [ResultReduction]
+
+### 46 (L50)  [] — 
+TOK: 
+KR: 이번엔 그대가 바늘을 삼킬 차례라네..!
+EN: 'Tis Thy Turn to Swallow the Needle!
+
+### 47 (L430)  [] — 
+TOK: \n
+KR: 질투 속성인 스킬의 피해량 +10%\n- 질투 공명 수 1당, 추가로 해당 스킬의 피해량 +1% (최대 7%)\n\n턴 시작 시 (이번 전투 동안 누적된 자신의 체력 피해(보호막 피해 포함) / 20)만큼 [AttackUp] 얻음 (최대 3)\n\n전투 시작 시 질투 완전 공명을 했으면, 모든 적에게 [NiddleEGO] 1 부여 (집중 전투일 경우, 부위로 판정)
+EN: Envy Skills deal +10% damage\n- Said Skills deal +1% more damage for every 1 Envy Reson. (max 7%)\n\nTurn Start: Gain [AttackUp] equal to (cumulative HP damage taken by this unit in this Encounter (including Shield damage) / 20) (max 3)\n\nCombat Start: On Envy A-Reson., inflict 1 [NiddleEGO] to all enemies (in Focused Encounters, all Parts)
+
+### 48 (L40)  [] — 
+TOK: 
+KR: 삼라염상
+EN: Forest for the Flames
+
+### 49 (L120)  [] — 
+TOK: 
+KR: 료슈의 기본 EGO 장비
+EN: Ryōshū’s Base E.G.O
+
+### 50 (LNone)  [] — 
+TOK: 
+KR: 삼라염상
+REPEAT: 48 — inherit
+
+### 51 (L40)  [] — 
+TOK: 
+KR: 료슈
+EN: Ryōshū
+
+### 52 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 화상 4 부여
+EN: [OnSucceedAttackHead] Inflict 4 [Combustion]
+
+### 53 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 6 부여
+EN: [OnSucceedAttack] Inflict 6 [Combustion]
+
+### 54 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 다음 턴에 취약 1 부여
+EN: [OnSucceedAttackHead] Inflict 1 [Vulnerable] next turn
+
+### 55 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 취약 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+
+### 56 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 다음 턴에 취약 1 부여
+REPEAT: 54 — inherit
+
+### 57 (L40)  [] — 
+TOK: 
+KR: 예술
+EN: Art
+
+### 58 (L120)  [] — 
+TOK: 
+KR: 이전 턴에 자신이 처치한 적의 수당 5%만큼 가하는 피해 증가, 받는 피해 증가
+EN: Deal and take +5% damage for every enemy this unit defeated last turn
+
+### 59 (L40)  [] — 
+TOK: 
+KR: 4번째 성냥불
+EN: 4th Match Flame
+
+### 60 (L120)  [] — 
+TOK: 
+KR: 료슈 전용 EGO 장비
+EN: Ryōshū’s E.G.O Gear
+
+### 61 (LNone)  [] — 
+TOK: 
+KR: 4번째 성냥불
+REPEAT: 59 — inherit
+
+### 62 (L40)  [] — 
+TOK: 
+KR: 불타버린 소녀
+EN: Scorched Girl
+
+### 63 (L130)  [] — 
+TOK: \n
+KR: 대상에게 [Combustion]이 있으면 스킬 위력 +2.\n[EnemyKill] 다음 턴에 공격 위력 증가 1 얻음
+EN: Skill Power +2 against units that have [Combustion]\n[EnemyKill] Gain 1 [Enhancement] next turn
+
+### 64 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Combustion]
+
+### 65 (L130)  [] — 
+TOK: \n
+KR: 대상에게 [Combustion]이 있으면 스킬 위력 +2.\n[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음
+EN: Skill Power +2 against units that have [Combustion]\n[EnemyKill] Gain 2 [Enhancement] next turn
+
+### 66 (L200)  [] — 
+TOK: \n
+KR: 대상에게 [Combustion]이 있으면 스킬 위력 +2.\n대상의 화상 위력 1당 5%만큼 피해량이 증가 (최대 100%)\n[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음
+EN: Skill Power +2 against units that have [Combustion]\nDeal +5% damage per 1 [Combustion] on target (Max 100%)\n[EnemyKill] Gain +2 [Enhancement] next turn
+
+### 67 (L250)  [] — 
+TOK: \n
+KR: 대상에게 [Combustion]이 있으면 스킬 위력 +2.\n<style="highlight">[BeforeAttack] 모든 공격 대상의 [Combustion]의 합</style> 1당<style="highlight">,</style> 피해량 +5% (최대 100%)\n[EnemyKill] 다음 턴에 [Enhancement] 2 얻음
+EN: Skill Power +2 against units that have [Combustion]\n<style="highlight">[BeforeAttack]</style> Deal +5% damage for every <style="highlight">1 total sum of [Combustion] on all targets</style> (max 100%)\n[EnemyKill] Gain 2 [Enhancement] next turn
+
+### 68 (L140)  [] — 
+TOK: 
+KR: [OnSucceedAttack] <style="highlight">이 코인 최종 피해량의 (대상의 [Combustion] 위력 x 2)%만큼 분노 피해 (최대 20%)</style>
+EN: <style="highlight">[OnSucceedAttack] Deal (([Combustion] on target x 2)% of this Coin's final damage) Wrath damage (max 20%)</style>
+
+### 69 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Combustion] 4 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 4 [Combustion]<style="highlight"></style>
+
+### 70 (LNone)  [] — 
+TOK: 
+KR: 4번째 성냥불
+REPEAT: 59 — inherit
+
+### 71 (LNone)  [] — 
+TOK: 
+KR: 불타버린 소녀
+REPEAT: 62 — inherit
+
+### 72 (L230)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상에게 [Combustion]이 있으면 스킬 위력 +2.\n[EnemyKill] 다음 턴에 공격 위력 증가 2 얻음.\n[EnemyKillFail] 다음 턴에 화상 10을 얻음
+EN: [CantIdentify]\nTargets randomly\nSkill Power +2 against units that have [Combustion]\n[EnemyKill] Gain 2 [Enhancement] next turn\n[EnemyKillFail] Gain 10 [Combustion] next turn
+
+### 73 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 4 부여
+REPEAT: 64 — inherit
+
+### 74 (L250)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상에게 [Combustion]이 있으면 스킬 위력 +4.\n[EnemyKill] 다음 턴에 공격 위력 증가 3 얻음.\n[EnemyKillFail] 다음 턴에 공격 위력 증가 3, 화상 10 얻음
+EN: [CantIdentify]\nTargets randomly\nSkill Power +4 against units that have [Combustion]\n[EnemyKill] Gain 3 [Enhancement] next turn\n[EnemyKillFail] Gain 3 [Enhancement] and 10 [Combustion] next turn
+
+### 75 (L320)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상에게 [Combustion]이 있으면 스킬 위력 +4.\n대상의 화상 위력 1당 5%만큼 피해량이 증가 (최대 100%)\n[EnemyKill] 다음 턴에 공격 위력 증가 3 얻음.\n[EnemyKillFail] 다음 턴에 공격 위력 증가 3, 화상 10 얻음
+EN: [CantIdentify]\nTargets randomly\nSkill Power +4 against units that have [Combustion]\nDeal +5% damage per 1 [Combustion] on target (Max 100%)\n[EnemyKill] Gain 3 [Enhancement] next turn\n[EnemyKillFail] Gain 3 [Enhancement] and 10 [Combustion] next turn
+
+### 76 (L400)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상에게 [Combustion]이 있으면 스킬 위력 +4.\n<style="highlight">[BeforeAttack] 모든 공격 대상의 [Combustion]의 합</style> 1당<style="highlight">,</style> 피해량 +5% (최대 100%)\n<style="highlight">[DefeatDuel] 기본 위력 -16</style>\n[EnemyKill] 다음 턴에 [Enhancement] 3 얻음\n[EnemyKillFail] 다음 턴에 [Enhancement] 3, [Combustion] 10 얻음
+EN: [CantIdentify]\nTargets randomly\nSkill Power +4 against units that have [Combustion]\n<style="highlight">[BeforeAttack]</style> Deal +5% damage for every <style="highlight">1 total sum of [Combustion] on all targets</style> (max 100%)\n<style="highlight">[DefeatDuel] Base Power -16</style>\n[EnemyKill] Gain 3 [Enhancement] next turn\n[EnemyKillFail] Gain 3 [Enhancement] and 10 [Combustion] next turn
+
+### 77 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[SuperCoin]</style>
+EN: <style="highlight">[SuperCoin]</style>
+
+### 78 (L140)  [] — 
+TOK: 
+KR: [OnSucceedAttack] <style="highlight">이 코인 최종 피해량의 (대상의 [Combustion] 위력 x 3)%만큼 분노 피해 (최대 30%)</style>
+EN: <style="highlight">[OnSucceedAttack] Deal (([Combustion] on target x 3)% of this Coin's final damage) Wrath damage (max 30%)</style>
+
+### 79 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Combustion] 4 부여<style="highlight"></style>
+REPEAT: 69 — inherit
+
+### 80 (LNone)  [] — 
+TOK: 
+KR: 4번째 성냥불
+REPEAT: 59 — inherit
+
+### 81 (L120)  [] — 
+TOK: 
+KR: 4번째로 사용하는 스킬의 최종 위력 +4, 적중 시마다 화상 4 부여
+EN: Every 4th Skill this unit uses gains Final Power +4 and inflicts 4 [Combustion] On Hit
+
+### 82 (LNone)  [] — 
+TOK: 
+KR: 4번째 성냥불
+REPEAT: 59 — inherit
+
+### 83 (L570)  [] — 
+TOK: \n
+KR: 4번째로 사용하는 스킬의 최종 위력 +4, 적중 시마다 [Combustion] 4 부여\n- 해당 스킬이 분노 속성이면, 추가로 피해량 +(모든 공격 대상의 화상 위력 / 2)% (최대 20%)\n- 해당 스킬이 E.G.O 스킬이면, 첫번째 코인 시작 시\n· 더하기 코인이면, 정신력 10 회복\n· 빼기 코인이면, 정신력 15 감소 (이 효과로 정신력이 -40 미만이 되지 않음)
+EN: Every 4th Skill this unit uses gains Final Power +4 and inflicts 4 [Combustion] On Hit\n- If the said Skill is a Wrath Skill, deal +([Combustion] Potency on all targets / 2)% additional damage (max 20%)\n- If the said Skill is an E.G.O Skill, apply the following effects at Coin Start of the first Coin:\n· If the said Coin is a Plus Coin, heal 10 SP\n· If the said Coin is a Minus Coin, lose 15 SP (this effect cannot reduce this unit's SP below -40)
+
+### 84 (L120)  [] — 
+TOK: 
+KR: 4번째로 사용하는 스킬이 강화됨
+EN: Every 4th Skill used is enhanced
+
+### 85 (L40)  [] — 
+TOK: 
+KR: 적안
+EN: Red Eyes
+
+### 86 (L120)  [] — 
+TOK: 
+KR: 료슈의 전용 EGO 장비
+EN: Ryōshū’s E.G.O Gear
+
+### 87 (LNone)  [] — 
+TOK: 
+KR: 적안
+REPEAT: 85 — inherit
+
+### 88 (L40)  [] — 
+TOK: 
+KR: 거미봉오리
+EN: Spider Bud
+
+### 89 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Binding] next turn
+
+### 90 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Binding]이 3 이상 있을 때 다음 턴에 더하기 코인 약화 1 부여
+EN: [OnSucceedAttack] If target has 3+ [Binding], inflict 1 Plus Coin Drop next turn
+
+### 91 (L130)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 속도가 자신보다 느릴 때 다음 턴에 참격 취약 2 부여
+EN: [OnSucceedAttack] If target's Speed is slower than user's, inflict 2 Slash Fragility next turn
+
+### 92 (LNone)  [] — 
+TOK: 
+KR: 적안
+REPEAT: 85 — inherit
+
+### 93 (LNone)  [] — 
+TOK: 
+KR: 거미봉오리
+REPEAT: 88 — inherit
+
+### 94 (L120)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격
+EN: [CantIdentify]\nTargets randomly
+
+### 95 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 3 부여
+REPEAT: 89 — inherit
+
+### 96 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Binding]이 3 이상 있을 때 다음 턴에 더하기 코인 약화 2 부여
+EN: [OnSucceedAttack] If target has 3+ [Binding], inflict 2 Plus Coin Drop next turn
+
+### 97 (L130)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 속도가 자신보다 느릴 때 다음 턴에 참격 취약 1-3 부여
+EN: [OnSucceedAttack] If target's Speed is slower than user's, inflict 1-3 Slash Fragility next turn
+
+### 98 (L40)  [] — 
+TOK: 
+KR: 거미줄
+EN: Spider's Webs
+
+### 99 (L120)  [] — 
+TOK: 
+KR: 합 승리 시 다음 턴에 속박 1 부여 (턴 당 최대 3회)
+EN: On Clash Win, inflict 1 [Binding] next turn (3 times per turn)
+
+### 100 (L40)  [] — 
+TOK: 
+KR: 적안(開)
+EN: Red Eyes (Open)
+
+### 101 (LNone)  [] — 
+TOK: 
+KR: 료슈의 전용 EGO 장비
+REPEAT: 86 — inherit
+
+### 102 (LNone)  [] — 
+TOK: 
+KR: 적안(開)
+REPEAT: 100 — inherit
+
+### 103 (LNone)  [] — 
+TOK: 
+KR: 거미봉오리
+REPEAT: 88 — inherit
+
+### 104 (L120)  [] — 
+TOK: 
+KR: 메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 코인 위력 +4
+EN: If main target's Speed is slower than user's by 3 or more, Coin Power +4
+
+### 105 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Binding]이 3 이상 있을 때 피해량 +20%
+EN: [OnSucceedAttack] If target has 3+ [Binding], deal +20% damage
+
+### 106 (L160)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 이 스킬로 대상을 흐트러짐 상태로 만들거나 처치하면, 체력이 가장 낮은 아군 1명과 자신의 체력을 최대 체력의 10%만큼 회복
+EN: [OnSucceedAttack] If this skill staggers or defeats a target, heal user and the ally with the least HP by 10% of Max HP
+
+### 107 (L120)  [] — 
+TOK: 
+KR: 메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 코인 위력 +7
+EN: If main target's Speed is slower than user's by 3 or more, Coin Power +7
+
+### 108 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Binding]이 3 이상 있을 때 피해량 +40%
+EN: [OnSucceedAttack] If target has 3+ [Binding], deal +40% damage
+
+### 109 (LNone)  [] — 
+TOK: 
+KR: 적안(開)
+REPEAT: 100 — inherit
+
+### 110 (LNone)  [] — 
+TOK: 
+KR: 거미봉오리
+REPEAT: 88 — inherit
+
+### 111 (L140)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 최종 위력 +7
+EN: [CantIdentify]\nTargets randomly\nIf main target's Speed is slower than user's by 3 or more, Final Power +7
+
+### 112 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Binding]이 3 이상 있을 때 피해량 +30%
+EN: [OnSucceedAttack] If target has 3+ [Binding], deal +30% damage
+
+### 113 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 이 스킬로 대상을 흐트러짐 상태로 만들거나 처치하면, 체력이 가장 낮은 아군 1명과 자신의 체력을 최대 체력의 10%만큼 회복
+REPEAT: 106 — inherit
+
+### 114 (L140)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 3 이상 느릴 때 최종 위력 +10
+EN: [CantIdentify]\nTargets randomly\nIf main target's Speed is slower than user's by 3 or more, Final Power +10
+
+### 115 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Binding]이 3 이상 있을 때 피해량 +50%
+EN: [OnSucceedAttack] If target has 3+ [Binding], deal +50% damage
+
+### 116 (L40)  [] — 
+TOK: 
+KR: 포식
+EN: Predator
+
+### 117 (L120)  [] — 
+TOK: 
+KR: 이번 턴에 최대 체력의 10%를 초과하여 체력을 회복한 경우, 다음 턴에 공격 위력 증가 1을 얻음
+EN: If this unit healed more than 10% of its Max HP this turn, gain 1 [Enhancement] next turn.
+
+### 118 (L40)  [] — 
+TOK: 
+KR: 소다
+EN: Soda
+
+### 119 (LNone)  [] — 
+TOK: 
+KR: 료슈의 전용 EGO 장비
+REPEAT: 86 — inherit
+
+### 120 (LNone)  [] — 
+TOK: 
+KR: 소다
+REPEAT: 118 — inherit
+
+### 121 (L40)  [] — 
+TOK: 
+KR: 웰치어스
+EN: Wellcheers
+
+### 122 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 침잠 4 부여
+EN: [OnSucceedAttack] Inflict 4 Sinking
+
+### 123 (L120)  [] — 
+TOK: 
+KR: [EnemyKill] 현재 보유 중인 E.G.O 자원 중 무작위 속성 1개의 E.G.O 자원을 3개 얻음
+EN: [EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned
+
+### 124 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 침잠 5 부여
+EN: [OnSucceedAttack] Inflict 5 Sinking
+
+### 125 (L130)  [] — 
+TOK: 
+KR: [EnemyKill] 현재 보유 중인 E.G.O 자원 중 무작위 속성 1개의 E.G.O 자원을 3개 얻음. 모든 아군의 정신력 3 회복
+EN: [EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP
+
+### 126 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 침잠 6 부여
+EN: [OnSucceedAttack] Inflict 6 Sinking
+
+### 127 (L450)  [] — 
+TOK: \n
+KR: <style="highlight">대상의 현재 체력이 최대 체력의 25% 미만이면, 피해량 +40%\n[BeforeAttack] 최대 공명수가 4 이상이면, 공격 가중치 +1\n\n[EndSkill] 다음 턴에 자신을 포함한 무작위 아군 2+ (최대 공명 수)명에게 [GainSinStockAdder] 1 부여 (최대 7명)\n[EndSkill] 공격 대상 중 흐트러짐이나 패닉 상태인 대상이 있으면, 가장 적게 보유한 E.G.O 자원 1개를 얻음. 자신의 정신력 3 회복</style>
+EN: <style="highlight">If target has less than 25% HP, deal +40% damage\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n\n[EndSkill] Apply 1 [GainSinStockAdder] next turn to (2 + highest Reson.) random allies, including this unit (max 7)\n[EndSkill] If there are Staggered or Panicked units among targets, gain 1 E.G.O resource for the least-owned Affinity; heal 3 SP</style>
+
+### 128 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] [Vibration] 4 부여</style>
+EN: <style="highlight">[OnSucceedAttack] Inflict 4 [Vibration]</style>
+
+### 129 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 6 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 6 [Sinking]<style="highlight"></style>
+
+### 130 (L130)  [] — 
+TOK: 
+KR: [EnemyKill] 현재 보유 중인 E.G.O 자원 중 무작위 속성 1개의 E.G.O 자원을 3개 얻음. 모든 아군의 정신력 3 회복<style="highlight"></style>
+EN: [EnemyKill] Gain 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP<style="highlight"></style>
+
+### 131 (LNone)  [] — 
+TOK: 
+KR: 소다
+REPEAT: 118 — inherit
+
+### 132 (LNone)  [] — 
+TOK: 
+KR: 웰치어스
+REPEAT: 121 — inherit
+
+### 133 (LNone)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격
+REPEAT: 94 — inherit
+
+### 134 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 침잠 4 부여
+REPEAT: 122 — inherit
+
+### 135 (L120)  [] — 
+TOK: </color>, <color=#f8c200>
+KR: [EndSkill] 모든 아군에게 <sprite name="GainSinStockAdder"><color=#f8c200><u><link="GainSinStockAdder">E.G.O 자원 획득량 +</color></link></u>1 부여
+EN: [EndSkill] All allies gain +1 <sprite name="GainSinStockAdder"><color=#f8c200><u><link="GainSinStockAdder">E.G.O Resource Amp</color></link></u>.
+
+### 136 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 침잠 5 부여
+REPEAT: 124 — inherit
+
+### 137 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 침잠 6 부여
+REPEAT: 126 — inherit
+
+### 138 (L120)  [] — 
+TOK: </color>, <color=#f8c200>
+KR: [EndSkill] 모든 아군에게 <sprite name="GainSinStockAdder"><color=#f8c200><u><link="GainSinStockAdder">E.G.O 자원 획득량 +</color></link></u>1, 다음 턴에 신속 1 부여
+EN: [EndSkill] All allies gain +1 <sprite name="GainSinStockAdder"><color=#f8c200><u><link="GainSinStockAdder">E.G.O Resource Amp</color></link></u>., apply 1 Haste next turn
+
+### 139 (L380)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n\n<style="highlight">대상의 현재 체력이 최대 체력의 25% 미만이면, 피해량 +40%\n[DefeatDuel] 기본 위력 -12\n[BeforeAttack] 최대 공명수가 4 이상이면, 공격 가중치 +1\n[EndSkill] 공격 대상 중 흐트러짐이나 패닉 상태인 대상이 있으면, 가장 적게 보유한 E.G.O 자원 1개를 얻음. 자신의 정신력 3 회복</style>
+EN: [CantIdentify]\nTargets randomly\n\n<style="highlight">If target has less than 25% HP, deal +40% damage\n[DefeatDuel] Base Power -12\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[EndSkill] If there are Staggered or Panicked units among targets, gain 1 E.G.O resource for the least-owned Affinity; heal 3 SP</style>
+
+### 140 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[SuperCoin]</style>
+REPEAT: 77 — inherit
+
+### 141 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] [Vibration] 4 부여</style>
+REPEAT: 128 — inherit
+
+### 142 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 6 부여<style="highlight"></style>
+REPEAT: 129 — inherit
+
+### 143 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 모든 아군에게 [GainSinStockAdder] 1, 다음 턴에 [Agility] 1 부여<style="highlight"></style>
+EN: [EndSkill] All allies gain 1 [GainSinStockAdder], apply 1 [Agility] next turn<style="highlight"></style>
+
+### 144 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[EndSkillTail] 다음 턴에 모든 아군에게 [GainSinStockAdder] 1 부여 (턴 당 1회)</style>
+EN: <style="highlight">[EndSkillTail] All allies gain 1 [GainSinStockAdder] next turn (once per turn)</style>
+
+### 145 (L40)  [] — 
+TOK: 
+KR: 뚜껑 따인 음료수
+EN: Opened Can
+
+### 146 (L120)  [] — 
+TOK: 
+KR: [Sinking]이 5 이상 부여된 적에게 공격 적중 시 수비 위력 감소 1 부여 (턴 당 최대 5회)
+EN: On Hit, if target has 5+ [Sinking], inflict 1 [Disarming] (5 times per turn)
+
+### 147 (LNone)  [] — 
+TOK: 
+KR: 뚜껑 따인 음료수
+REPEAT: 145 — inherit
+
+### 148 (L270)  [] — 
+TOK: \n
+KR: [Sinking]이 5 이상 부여된 적에게 공격 적중 시 [Disarming] 1 부여 (턴 당 최대 5회)\n\n<style="highlight">흐트러짐 또는 패닉 상태인 적에게 공격 적중 시 다음 턴에 [AttackUp] 1 얻음 (턴 당 3회. 집중 전투인 경우, 본체로 판정)</style>
+EN: On Hit, if target has 5+ [Sinking], inflict 1 [Disarming] (5 times per turn)\n\n<style="highlight">On Hit against an enemy in Staggered or Panic states, gain 1 [AttackUp] next turn (3 times per turn; in Focused Encounters, the Core)</style>
+
+### 149 (L40)  [] — 
+TOK: 
+KR: 맹목
+EN: Blind Obsession
+
+### 150 (LNone)  [] — 
+TOK: 
+KR: 료슈의 전용 EGO 장비
+REPEAT: 86 — inherit
+
+### 151 (LNone)  [] — 
+TOK: 
+KR: 맹목
+REPEAT: 149 — inherit
+
+### 152 (L40)  [] — 
+TOK: 
+KR: 꿈먹는 탁류
+EN: Dream-Devouring Siltcurrent
+
+### 153 (L120)  [] — 
+TOK: 
+KR: [BeforeAttack] 호흡 4 얻음
+EN: [BeforeAttack] Gain 4 Poise
+
+### 154 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 충전 횟수 2 증가
+EN: [OnSucceedAttack] Gain +2 Charge Count
+
+### 155 (L120)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 자신의 충전 횟수 2 증가
+EN: [CriticalOnSucceedAttack] Gain +2 Charge Count
+
+### 156 (L120)  [] — 
+TOK: \n
+KR: [BeforeAttack] 호흡 4 얻음\n[EndSkill] 이 스킬이 적중한 대상 중 사망한 캐릭터 수만큼 호흡 2를 얻음
+EN: [BeforeAttack] Gain 4 Poise\n[EndSkill] Gain 2 Poise for every unit defeated by this Skill
+
+### 157 (LNone)  [] — 
+TOK: 
+KR: 맹목
+REPEAT: 149 — inherit
+
+### 158 (LNone)  [] — 
+TOK: 
+KR: 꿈먹는 탁류
+REPEAT: 152 — inherit
+
+### 159 (L230)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 호흡 4 얻음. 자신의 충전 횟수를 2씩 소모하여, 호흡 1을 얻음 (최대 10)\n[EndSkill] 이 스킬이 적중한 대상 중 사망한 캐릭터 수만큼 자신의 충전 횟수 4 증가
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 4 Poise. Consume 2 Charge Count to gain 1 Poise (Max 10)\n[EndSkill] Gain +4 Charge Count for every unit defeated by this Skill
+
+### 160 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신의 호흡 횟수 1 증가
+EN: [OnSucceedAttack] Gain +1 Poise Count
+
+### 161 (L120)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 자신의 [Breath]이 10 이상이면, 크리티컬 피해량 +30%
+EN: [CriticalOnSucceedAttack] At 10+ [Breath], gain +30% Critical Damage
+
+### 162 (L40)  [] — 
+TOK: 
+KR: 꿈 먹기
+EN: Dream Devouring
+
+### 163 (L120)  [] — 
+TOK: 
+KR: 오만 속성 스킬로 크리티컬 적중 시 호흡 횟수 1 증가 (턴 당 최대 3회)
+EN: On Crit with a Pride affinity Skill, gain 1 [Breath] Count (3 times per turn)
+
+### 164 (L40)  [] — 
+TOK: 
+KR: 경멸, 경외
+EN: Contempt, Awe
+
+### 165 (LNone)  [] — 
+TOK: 
+KR: 료슈의 전용 EGO 장비
+REPEAT: 86 — inherit
+
+### 166 (LNone)  [] — 
+TOK: 
+KR: 경멸, 경외
+REPEAT: 164 — inherit
+
+### 167 (L40)  [] — 
+TOK: 
+KR: 경멸의 나선
+EN: Spiral of Contempt
+
+### 168 (L220)  [] — 
+TOK: \n
+KR: [BeforeAttack] 최대 공명 수만큼 공격 가중치 증가 (최대 2)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [GazePersonality] 얻음 (최대 7)\n[EndSkill] 2턴 동안 턴 종료 시 정신력 10 감소
+EN: [BeforeAttack] Gain (highest Reson.) Atk Weight (max 2)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End
+
+### 169 (L120)  [] — 
+TOK: 
+KR: [EndSkill] [Laceration] 10을 공격 대상에게 균등하게 나눠서 부여
+EN: [EndSkill] Evenly inflict 10 [Laceration] between all targets
+
+### 170 (L220)  [] — 
+TOK: \n
+KR: [BeforeAttack] 최대 공명 수만큼 공격 가중치 증가 (최대 <style="highlight">4</style>)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [GazePersonality] 얻음 (최대 7)\n[EndSkill] 2턴 동안 턴 종료 시 정신력 10 감소
+EN: [BeforeAttack] Gain (highest Reson.) Atk Weight (max <style="highlight">4</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End
+
+### 171 (L120)  [] — 
+TOK: 
+KR: [EndSkill] [Laceration] <style="highlight">15</style>를 공격 대상에게 균등하게 나눠서 부여
+EN: [EndSkill] Evenly inflict <style="highlight">15</style> [Laceration] between all targets
+
+### 172 (L420)  [] — 
+TOK: \n
+KR: [BeforeAttack] 최대 공명 수만큼 공격 가중치 증가 (최대 <style="highlight">6</style>)\n[BeforeAttack] <style="highlight">이번 턴과 다음 턴에</style> (최대 공명 수 + 1)만큼 [GazePersonality] 얻음 (최대 7)\n<style="highlight">[EndSkill] 이 스킬을 포함하여 색욕 공명을 했다면, 자신이 보유한 기본 공격 스킬과 동일한 속성의 E.G.O 자원 +1</style>\n[EndSkill] 2턴 동안 턴 종료 시 정신력 10 감소
+EN: [BeforeAttack] Gain (highest Reson.) Atk Weight (max <style="highlight">6</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] <style="highlight">this turn and next turn</style> (max 7)\n<style="highlight">[EndSkill] If this Skill was part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>\n[EndSkill] For 2 turns, lose 10 SP at Turn End
+
+### 173 (L120)  [] — 
+TOK: 
+KR: [EndSkill] [Laceration] 15를 공격 대상에게 균등하게 나눠서 부여<style="highlight"></style>
+EN: [EndSkill] Evenly inflict 15 [Laceration] between all targets<style="highlight"></style>
+
+### 174 (LNone)  [] — 
+TOK: 
+KR: 경멸, 경외
+REPEAT: 164 — inherit
+
+### 175 (LNone)  [] — 
+TOK: 
+KR: 경멸의 나선
+REPEAT: 167 — inherit
+
+### 176 (L120)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [GazePersonality] 7 얻음
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]
+
+### 177 (L170)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Laceration]이 있으면, 피해량 +(대상의 [Laceration] 위력과 [Laceration] 횟수의 합)% (최대 20%)
+EN: [OnSucceedAttack] If target has [Laceration], deal +([Laceration] on target + [Laceration] Count on target)% damage (max 20%)
+
+### 178 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] (1 + 최대 공명 수 x 1.5) 부여 (최대 10, 소수점 버림)
+EN: [OnSucceedAttack] Inflict (1 + (highest Reson. x 1.5)) [Laceration] (max 10, rounded down)
+
+### 179 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Laceration] Count
+
+### 180 (L170)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Laceration]이 있으면, 피해량 +(대상의 [Laceration] 위력과 [Laceration] 횟수의 합)% (최대 <style="highlight">40%</style>)
+EN: [OnSucceedAttack] If target has [Laceration], deal +([Laceration] on target + [Laceration] Count on target)% damage (max <style="highlight">40%</style>)
+
+### 181 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] <style="highlight">(3 + 최대 공명 수 x 2)</style> 부여 (최대 <style="highlight">15</style>, 소수점 버림)
+EN: [OnSucceedAttack] Inflict <style="highlight">(3 + (highest Reson. x 2))</style> [Laceration] (max <style="highlight">15</style>, rounded down)
+
+### 182 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 <style="highlight">3</style> 증가
+EN: [OnSucceedAttack] Inflict +<style="highlight">3</style> [Laceration] Count
+
+### 183 (L270)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [GazePersonality] 7 얻음\n<style="highlight">[EndSkill] 이 스킬을 포함하여 색욕 공명을 했다면, 자신이 보유한 기본 공격 스킬과 동일한 속성의 E.G.O 자원 +1</style>
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]\n<style="highlight">[EndSkill] If this Skill was a part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>
+
+### 184 (L170)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상에게 [Laceration]이 있으면, 피해량 +(대상의 [Laceration] 위력과 [Laceration] 횟수의 합)% (최대 <style="highlight">60%</style>)
+EN: [OnSucceedAttack] If target has [Laceration], deal +([Laceration] on target + [Laceration] Count on target)% damage (max <style="highlight">60%</style>)
+
+### 185 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] <style="highlight">(10 + 최대 공명 수 x 2.5)</style> 부여 (최대 <style="highlight">25</style>, 소수점 버림)
+EN: [OnSucceedAttack] Inflict <style="highlight">(10 + (highest Reson. x 2.5))</style> [Laceration] (max <style="highlight">25</style>, rounded down)
+
+### 186 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 <style="highlight">5</style> 증가
+EN: [OnSucceedAttack] Inflict +<style="highlight">5</style> [Laceration] Count
+
+### 187 (L40)  [] — 
+TOK: 
+KR: 시선의 흔적
+EN: Mark of the Gaze
+
+### 188 (L280)  [] — 
+TOK: 
+KR: 자신이 적에게 기본 공격 스킬을 사용할 때마다 자신이 사용한 스킬 속성 이외의 제일 적게 보유한 무작위 속성 E.G.O 자원 1개를 추가로 얻음 (턴 당 2회)
+EN: Whenever this unit uses a base Attack Skill against an enemy, gain 1 additional E.G.O resource for a random, least-owned Affinity that doesn't correspond to the Affinity of the Attack Skill used (2 times per turn)
+
+### 189 (L40)  [] — 
+TOK: 
+KR: 흉통
+EN: Thoracalgia
+
+### 190 (LNone)  [] — 
+TOK: 
+KR: 료슈의 전용 EGO 장비
+REPEAT: 86 — inherit
+
+### 191 (LNone)  [] — 
+TOK: 
+KR: 흉통
+REPEAT: 189 — inherit
+
+### 192 (L40)  [] — 
+TOK: 
+KR: 지난 날의 침낭
+EN: Sleeping Bag of a Bygone Day
+
+### 193 (L420)  [] — 
+TOK: \n
+KR: [BeforeAttack] 최대 공명 수만큼 [Breath] 얻음 (최대 4)\n- [Breath]이 15 이상이면, 대신 최종 위력 + (최대 공명 수) (최대 4)\n[BeforeAttack] (최대 공명 수/2)만큼 [Breath] 횟수 증가 (최대 2)\n- [Breath] 횟수가 5 이상이면, 대신 코인 위력 + (최대 공명 수/2) (최대 2)\n[TargetKill] 다음 턴에 [HoldingBreath] 1 얻음 (턴 당 최대 2)
+EN: [BeforeAttack] Gain (highest Reson.) [Breath] (max 4)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 4)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain 1 [HoldingBreath] next turn (2 times per turn)
+
+### 194 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [HoldingBreath] 2 얻음 (턴 당 1회)
+EN: [OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)
+
+### 195 (L420)  [] — 
+TOK: \n
+KR: [BeforeAttack] 최대 공명 수만큼 [Breath] 얻음 (최대 <style="highlight">6</style>)\n- [Breath]이 15 이상이면, 대신 최종 위력 + (최대 공명 수) (최대 <style="highlight">6</style>)\n[BeforeAttack] (최대 공명 수/2)만큼 [Breath] 횟수 증가 (최대 2)\n- [Breath] 횟수가 5 이상이면, 대신 코인 위력 + (최대 공명 수/2) (최대 2)\n[TargetKill] 다음 턴에 [HoldingBreath] <style="highlight">2</style> 얻음 (턴 당 최대 <style="highlight">4</style>)
+EN: [BeforeAttack] Gain (highest Reson.) [Breath] (max <style="highlight">6</style>)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max <style="highlight">6</style>)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max 2)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max 2)\n[TargetKill] Gain <style="highlight">2</style> [HoldingBreath] next turn (<style="highlight">4</style> times per turn)
+
+### 196 (L120)  [] — 
+TOK: 
+KR: <style="highlight">크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 20%)</style>
+EN: <style="highlight">Deal +([Breath] Potency + Count)% damage on Critical Hit (max 20%)</style>
+
+### 197 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [HoldingBreath] 2 얻음 (턴 당 1회)<style="highlight"></style>
+EN: [OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)<style="highlight"></style>
+
+### 198 (L420)  [] — 
+TOK: \n
+KR: [BeforeAttack] 최대 공명 수만큼 [Breath] 얻음 (최대 6)\n- [Breath]이 15 이상이면, 대신 최종 위력 + (최대 공명 수) (최대 6)\n[BeforeAttack] (최대 공명 수/2)만큼 [Breath] 횟수 증가 (최대 <style="highlight">3</style>)\n- [Breath] 횟수가 5 이상이면, 대신 코인 위력 + (최대 공명 수/2) (최대 <style="highlight">3</style>)\n[TargetKill] 다음 턴에 [HoldingBreath] 2 얻음 (턴 당 최대 <style="highlight">6</style>)
+EN: [BeforeAttack] Gain (highest Reson.) [Breath] (max 6)\n- At 15+ [Breath], gain Final Power +(highest Reson.) instead (max 6)\n[BeforeAttack] Gain (highest Reson. / 2) [Breath] Count (max <style="highlight">3</style>)\n- At 5+ [Breath] Count, gain Coin Power +(highest Reson. / 2) instead (max <style="highlight">3</style>)\n[TargetKill] Gain 2 [HoldingBreath] next turn (<style="highlight">6</style> times per turn)
+
+### 199 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 <style="highlight">40%</style>)
+EN: Deal +([Breath] Potency + Count)% damage on Critical Hit (max <style="highlight">40%</style>)
+
+### 200 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [HoldingBreath] <style="highlight">4</style> 얻음 (턴 당 1회)
+EN: [OnSucceedAttack] Gain <style="highlight">4</style> [HoldingBreath] (once per turn)
+
+### 201 (LNone)  [] — 
+TOK: 
+KR: 흉통
+REPEAT: 189 — inherit
+
+### 202 (LNone)  [] — 
+TOK: 
+KR: 지난 날의 침낭
+REPEAT: 192 — inherit
+
+### 203 (L730)  [] — 
+TOK: \n
+KR: [CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n공격 대상에 아군이 포함되어 있으면 피해량 +30%\n\n[BeforeAttack] [Breath]이 15 미만이면, 최대 체력의 10%만큼 체력을 소모하여 [Breath] 5 얻고, [Breath] 횟수 5 증가\n- 이 효과로 흐트러지거나 사망하지 않음\n\n[EndSkill] 대상이 사망했으면, 다음 턴에 [HoldingBreath] 2 얻음 (턴 당 1회). 대상이 아군이면 아래 효과 추가 발동\n- 처치된 아군으로 인해 대기 해제되거나 전투에 참여하는 아군이 [Breath] 2 얻고, [Breath] 횟수 2 증가
+EN: [CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n\n[EndSkill] If target is defeated, gain 2 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain 2 [Breath] and +2 [Breath] Count
+
+### 204 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [HoldingBreath] 4 얻음 (턴 당 1회)
+EN: [OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)
+
+### 205 (L860)  [] — 
+TOK: \n
+KR: [CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n공격 대상에 아군이 포함되어 있으면 피해량 +30%\n\n[BeforeAttack] [Breath]이 15 미만이면, 최대 체력의 10%만큼 체력을 소모하여 [Breath] 5 얻고, [Breath] 횟수 5 증가\n- 이 효과로 흐트러지거나 사망하지 않음\n<style="highlight">- 공격 대상에 포함된 아군 1명당 [Breath] 1 얻음 (최대 2)</style>\n\n[EndSkill] 대상이 사망했으면, 다음 턴에 [HoldingBreath] 2 얻음 (턴 당 1회). 대상이 아군이면 아래 효과 추가 발동\n- 처치된 아군으로 인해 대기 해제되거나 전투에 참여하는 아군이 [Breath] <style="highlight">4</style> 얻고, [Breath] 횟수 2 증가\n<style="highlight">- 이 스킬로 소모한 정신력의 절반만큼 회복</style>
+EN: [CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n<style="highlight">- Gain 1 [Breath] for every ally targeted by this Skill (max 2)</style>\n\n[EndSkill] If target is defeated, gain 2 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain <style="highlight">4</style> [Breath] and +2 [Breath] Count\n<style="highlight">- Recover half of SP used by this Skill</style>
+
+### 206 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 20%)</style>
+REPEAT: 196 — inherit
+
+### 207 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [HoldingBreath] 4 얻음 (턴 당 1회)<style="highlight"></style>
+EN: [OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)<style="highlight"></style>
+
+### 208 (L910)  [] — 
+TOK: \n
+KR: [CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n공격 대상에 아군이 포함되어 있으면 피해량 +30%\n\n[BeforeAttack] [Breath]이 15 미만이면, 최대 체력의 10%만큼 체력을 소모하여 [Breath] 5 얻고, [Breath] 횟수 5 증가\n- 이 효과로 흐트러지거나 사망하지 않음\n- 공격 대상에 포함된 아군 1명당 [Breath] <style="highlight">2</style> 얻음 (최대 <style="highlight">4</style>)\n\n[EndSkill] 대상이 사망했으면, 다음 턴에 [HoldingBreath] 3 얻음 (턴 당 1회). 대상이 아군이면 아래 효과 추가 발동\n- 처치된 아군으로 인해 대기 해제되거나 전투에 참여하는 아군이 [Breath] 4 얻고, [Breath] 횟수 <style="highlight">4</style> 증가\n<style="highlight">- 이 스킬로 소모한 정신력을 회복하고, 소모한 E.G.O 자원을 속성 별로 1개씩 얻음</style>
+EN: [CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\nIf an ally is one of this Skill's targets, deal +30% damage\n\n[BeforeAttack] At less than 15 [Breath], consume 10% HP to gain 5 [Breath] and +5 [Breath] Count\n- Cannot be Staggered or defeated due to this effect\n- Gain <style="highlight">2</style> [Breath] for every ally targeted by this Skill (max <style="highlight">4</style>)\n\n[EndSkill] If target is defeated, gain 3 [HoldingBreath] next turn. (once per turn) If the said target was an ally, activate the following as well:\n- Allies that are made to participate or are Substituted into this Encounter due to the defeated allies gain 4 [Breath] and +<style="highlight">4</style> [Breath] Count\n<style="highlight">- Recover SP used by this Skill and regain 1 of each E.G.O resources consumed</style>
+
+### 209 (LNone)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 <style="highlight">40%</style>)
+REPEAT: 199 — inherit
+
+### 210 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [HoldingBreath] <style="highlight">7</style> 얻음 (턴 당 1회)
+EN: [OnSucceedAttack] Gain <style="highlight">7</style> [HoldingBreath] (once per turn)
+
+### 211 (L40)  [] — 
+TOK: 
+KR: 숨
+EN: Breath
+
+### 212 (L430)  [] — 
+TOK: \n
+KR: 이 E.G.O 스킬을 사용한 다음 턴 시작 시, [NebulizerInhale] 1 얻음 (턴 당 1회)\n- 이 스킬로 적을 처치하였다면 처치한 대상 수만큼 [NebulizerInhale] 추가로 얻음\n- 이 스킬로 아군을 처치하였다면 (처치한 대상 수 X 2)만큼 [NebulizerInhale] 추가로 얻음\n- 이 수치는 이번 전투 동안 누적됨
+EN: Next Turn Start after using this E.G.O Skill: gain 1 [NebulizerInhale] (once per turn)\n- If this Skill defeated enemies, gain additional [NebulizerInhale] equal to the number of targets defeated\n- If this Skill defeated allies, gain (targets defeated x 2) additional [NebulizerInhale]\n- This value Stacks over this Encounter's duration
+
+### 213 (L40)  [] — 
+TOK: 
+KR: 삼천대세계 [三千大世界]
+EN: Great Trichiliocosm [三千大世界]
+
+### 214 (LNone)  [] — 
+TOK: 
+KR: 료슈 전용 EGO 장비
+REPEAT: 60 — inherit
+
+### 215 (L40)  [] — 
+TOK: 
+KR: 삼천대세계[三千大世界]
+EN: Great Trichiliocosm [三千大世界]
+
+### 216 (L50)  [] — 
+TOK: 
+KR: 나생접[羅生蝶]
+EN: Butterfly of Entangled Lives [羅生蝶]
+
+### 217 (L170)  [] — 
+TOK: \n
+KR: [BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n\n[EndSkill] [RyoshuEGOPF] 1 얻음\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소
+EN: [BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n\n[EndSkill] Gain 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP at Turn End for 3 turns
+
+### 218 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 219 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Combustion] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Combustion]
+
+### 220 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 221 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Laceration]
+
+### 222 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 223 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +30%
+EN: Deal +30% Damage on Critical Hit
+
+### 224 (L150)  [] — 
+TOK: 
+KR: [OnStartCoin] 자신의 [RyoshuEGOPF]을 모두 소모하고, 소모한 수치 5당 피해량 +1% (최대 100%)
+EN: [OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed (max 100%)
+
+### 225 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] [RyoshuEGOPF]에 비례하여 피해량이 증가
+EN: [OnStartCoin] Deal more damage based on [RyoshuEGOPF]
+
+### 226 (L220)  [] — 
+TOK: \n
+KR: [BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n<style="highlight">[BeforeAttack] 자신의 [Breath] 횟수 2 증가</style>\n\n[EndSkill] [RyoshuEGOPF] 1 얻음\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소
+EN: [BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n<style="highlight">[BeforeAttack] Gain +2 [Breath] Count</style>\n\n[EndSkill] Gain 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP at Turn End for 3 turns
+
+### 227 (L120)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+EN: [SuperCoin]<style="highlight"></style>
+
+### 228 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Combustion] 2 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 2 [Combustion]<style="highlight"></style>
+
+### 229 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>
+EN: <style="highlight">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>
+
+### 230 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 231 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 2 [Laceration]<style="highlight"></style>
+
+### 232 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[CriticalOnSucceedAttack] 마지막 코인 위력 +3 (스킬 당 1회)</style>
+EN: <style="highlight">[CriticalOnSucceedAttack] Coin Power +3 for the final Coin (once per Skill)</style>
+
+### 233 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 234 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +30%<style="highlight"></style>
+EN: +30% Damage on Critical Hit<style="highlight"></style>
+
+### 235 (L150)  [] — 
+TOK: 
+KR: <style="highlight">[OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 위력) 10당 피해량 +1% (최대 30%)</style>
+EN: <style="highlight">[OnStartCoin] Deal +1% damage for every 10 ([Combustion] Potency + [Laceration] Potency) on all targets (max 30%)</style>
+
+### 236 (L140)  [] — 
+TOK: 
+KR: <style="highlight">[OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 횟수) 10당 코인 위력 +1 (최대 3)</style>
+EN: <style="highlight">[OnStartCoin] Coin Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets (max 3)</style>
+
+### 237 (L380)  [] — 
+TOK: \n
+KR: [OnStartCoin] 자신의 [RyoshuEGOPF]을 모두 소모하고, 소모한 수치 5당 피해량 +1% (최대 100%)\n- 공격 대상이 1명이면, 이 효과가 1.5배로 적용됨 (집중 전투인 경우, 본체를 기준으로 판정)
+EN: [OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed (max 100%)\n- When attacking just a single target, the damage modifying effect above is applied at 1.5x its value (in Focused Encounters, a Core and its connected Parts count as a single target)
+
+### 238 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnStartCoin] [RyoshuEGOPF]에 비례하여 피해량이 증가</style>
+EN: <style="highlight">[OnStartCoin] Deal more damage based on [RyoshuEGOPF]</style>
+
+### 239 (L220)  [] — 
+TOK: \n
+KR: [BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n[BeforeAttack] 자신의 [Breath] 횟수 <style="highlight">3</style> 증가\n\n[EndSkill] [RyoshuEGOPF] 1 얻음\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소
+EN: [BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n[BeforeAttack] Gain <style="highlight">+3</style> [Breath] Count\n\n[EndSkill] Gain 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP at Turn End for 3 turns
+
+### 240 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [Binding] 1 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 1 [Binding] next turn<style="highlight"></style>
+
+### 241 (L120)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 마지막 코인 위력 <style="highlight">+5</style> (스킬 당 1회)
+EN: [CriticalOnSucceedAttack] Coin Power <style="highlight">+5</style> for the final Coin (once per Skill)
+
+### 242 (L150)  [] — 
+TOK: 
+KR: [OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 위력) 10당 피해량 +1% <style="highlight">(최대 50%)</style>
+EN: [OnStartCoin] Deal +1% damage for every 10 ([Combustion] Potency + [Laceration] Potency) on all targets <style="highlight">(max 50%)</style>
+
+### 243 (L140)  [] — 
+TOK: 
+KR: [OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 횟수) 10당 코인 위력 +1 <style="highlight">(최대 5)</style>
+EN: [OnStartCoin] Coin Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets <style="highlight">(max 5)</style>
+
+### 244 (L380)  [] — 
+TOK: \n
+KR: [OnStartCoin] 자신의 [RyoshuEGOPF]을 모두 소모하고, 소모한 수치 5당 피해량 +1% <style="highlight">(최대 198%)</style>\n- 공격 대상이 1명이면, 이 효과가 <style="highlight">2배</style>로 적용됨 (집중 전투인 경우, 본체를 기준으로 판정)
+EN: [OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed <style="highlight">(max 198%)</style>\n- When attacking just a single target, the damage modifying effect above is applied at <style="highlight">2x</style> its value (in Focused Encounters, a Core and its connected Parts count as a single target)
+
+### 245 (LNone)  [] — 
+TOK: 
+KR: [OnStartCoin] [RyoshuEGOPF]에 비례하여 피해량이 증가
+REPEAT: 225 — inherit
+
+### 246 (LNone)  [] — 
+TOK: 
+KR: 삼천대세계[三千大世界]
+REPEAT: 215 — inherit
+
+### 247 (LNone)  [] — 
+TOK: 
+KR: 나생접[羅生蝶]
+REPEAT: 216 — inherit
+
+### 248 (L500)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 20을 초과하는 [Breath]을 최대 20까지 소모하여, 소모한 [Breath] 1당 최대 체력의 1% 회복 (최소 1), 이 스킬 피해량 +1%\n[BeforeAttack] 자신의 [Breath] 횟수 3 증가\n[BeforeAttack] 자신의 [RyoshuEGOPF]이 999면, 기본 위력 +1\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -3 (최대 -9)\n\n[EndSkill] [RyoshuEGOPF] 10 얻음
+EN: [CantIdentify]\nTargets randomly\n[BeforeAttack] Consume a maximum of 20 surplus [Breath] past 20 [Breath] on self, and for every [Breath] consumed, heal 1% of max HP (min 1 HP) and deal +1% damage with this Skill\n[BeforeAttack] Gain +3 [Breath] Count\n[BeforeAttack] At 999 [RyoshuEGOPF], Base Power +1\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n\n[EndSkill] Gain 10 [RyoshuEGOPF]
+
+### 249 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 250 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 219 — inherit
+
+### 251 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 252 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 221 — inherit
+
+### 253 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 254 (LNone)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +30%
+REPEAT: 223 — inherit
+
+### 255 (LNone)  [] — 
+TOK: 
+KR: [OnStartCoin] 자신의 [RyoshuEGOPF]을 모두 소모하고, 소모한 수치 5당 피해량 +1% (최대 100%)
+REPEAT: 224 — inherit
+
+### 256 (LNone)  [] — 
+TOK: 
+KR: [OnStartCoin] [RyoshuEGOPF]에 비례하여 피해량이 증가
+REPEAT: 225 — inherit
+
+### 257 (L500)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 20을 초과하는 [Breath]을 최대 20까지 소모하여, 소모한 [Breath] 1당 최대 체력의 1% 회복 (최소 1), 이 스킬 피해량 +1%\n[BeforeAttack] 자신의 [Breath] 횟수 3 증가\n[BeforeAttack] 자신의 [RyoshuEGOPF]이 999면, 기본 위력 <style="highlight">+2</style>\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -3 (최대 -9)\n\n[EndSkill] [RyoshuEGOPF] <style="highlight">20</style> 얻음
+EN: [CantIdentify]\nTargets randomly\n[BeforeAttack] Consume a maximum of 20 surplus [Breath] past 20 [Breath] on self, and for every [Breath] consumed, heal 1% of max HP (min 1 HP) and deal +1% damage with this Skill\n[BeforeAttack] Gain +3 [Breath] Count\n[BeforeAttack] At 999 [RyoshuEGOPF], Base Power <style="highlight">+2</style>\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n\n[EndSkill] Gain <style="highlight">20</style> [RyoshuEGOPF]
+
+### 258 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 259 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Combustion] 2 부여<style="highlight"></style>
+REPEAT: 228 — inherit
+
+### 260 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>
+REPEAT: 229 — inherit
+
+### 261 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 262 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여<style="highlight"></style>
+REPEAT: 231 — inherit
+
+### 263 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[CriticalOnSucceedAttack] 마지막 코인 피해량 +30% (스킬 당 1회)</style>
+EN: <style="highlight">[CriticalOnSucceedAttack] Deal +30% damage with the final Coin (once per Skill)</style>
+
+### 264 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 265 (LNone)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +30%<style="highlight"></style>
+REPEAT: 234 — inherit
+
+### 266 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 위력) 10당 피해량 +1% (최대 30%)</style>
+REPEAT: 235 — inherit
+
+### 267 (L140)  [] — 
+TOK: 
+KR: <style="highlight">[OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 횟수) 10당 최종 위력 +1 (최대 3)</style>
+EN: <style="highlight">[OnStartCoin] Final Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets (max 3)</style>
+
+### 268 (L380)  [] — 
+TOK: \n
+KR: [OnStartCoin] 자신의 [RyoshuEGOPF]을 모두 소모하고, 소모한 수치 5당 피해량 +1% (최대 100%)\n<style="highlight">- 공격 대상이 1명이면, 이 효과가 1.5배로 적용됨 (집중 전투인 경우, 본체를 기준으로 판정)</style>
+EN: [OnStartCoin] Consume all [RyoshuEGOPF] on self and deal +1% damage for every 5 [RyoshuEGOPF] consumed (max 100%)\n<style="highlight">- When attacking just a single target, the damage modifying effect above is applied at 1.5x its value (in Focused Encounters, a Core and its connected Parts count as a single target)</style>
+
+### 269 (LNone)  [] — 
+TOK: 
+KR: [OnStartCoin] [RyoshuEGOPF]에 비례하여 피해량이 증가
+REPEAT: 225 — inherit
+
+### 270 (L500)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 20을 초과하는 [Breath]을 최대 20까지 소모하여, 소모한 [Breath] 1당 최대 체력의 1% 회복 (최소 1), 이 스킬 피해량 +1%\n[BeforeAttack] 자신의 [Breath] 횟수 <style="highlight">5</style> 증가\n[BeforeAttack] 자신의 [RyoshuEGOPF]이 999면, 기본 위력 <style="highlight">+3</style>\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -3 (최대 -9)\n\n[EndSkill] [RyoshuEGOPF] <style="highlight">33</style> 얻음
+EN: [CantIdentify]\nTargets randomly\n[BeforeAttack] Consume a maximum of 20 surplus [Breath] past 20 [Breath] on self, and for every [Breath] consumed, heal 1% of max HP (min 1 HP) and deal +1% damage with this Skill\n[BeforeAttack] Gain <style="highlight">+5</style> [Breath] Count\n[BeforeAttack] At 999 [RyoshuEGOPF], Base Power <style="highlight">+3</style>\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n\n[EndSkill] Gain <style="highlight">33</style> [RyoshuEGOPF]
+
+### 271 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [Binding] 1 부여<style="highlight"></style>
+REPEAT: 240 — inherit
+
+### 272 (L120)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 마지막 코인 피해량 <style="highlight">+50%</style> (스킬 당 1회)
+EN: [CriticalOnSucceedAttack] Deal <style="highlight">+50%</style> damage with the final Coin (once per Skill)
+
+### 273 (LNone)  [] — 
+TOK: 
+KR: [OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 위력) 10당 피해량 +1% <style="highlight">(최대 50%)</style>
+REPEAT: 242 — inherit
+
+### 274 (L140)  [] — 
+TOK: 
+KR: [OnStartCoin] (모든 대상의 [Combustion] + [Laceration] 횟수) 10당 최종 위력 +1 <style="highlight">(최대 5)</style>
+EN: [OnStartCoin] Final Power +1 for every 10 ([Combustion] Count + [Laceration] Count) on all targets <style="highlight">(max 5)</style>
+
+### 275 (L380)  [] — 
+TOK: \n
+KR: [OnStartCoin] 자신의 [RyoshuEGOPF]을 모두 소모하고, 소모한 수치 5당 피해량 <style="highlight">+1.25% (최대 248%)</style>\n- 공격 대상이 1명이면, 이 효과가 <style="highlight">2배</style>로 적용됨 (집중 전투인 경우, 본체를 기준으로 판정)
+EN: [OnStartCoin] Consume all [RyoshuEGOPF] on self and deal <style="highlight">+1.25%</style> damage for every 5 [RyoshuEGOPF] consumed <style="highlight">(max 248%)</style>\n- When attacking just a single target, the damage modifying effect above is applied at <style="highlight">2x</style> its value (in Focused Encounters, a Core and its connected Parts count as a single target)
+
+### 276 (L40)  [] — 
+TOK: 
+KR: 삼도[三途]
+EN: Sanzu [三途]
+
+### 277 (L160)  [] — 
+TOK: 
+KR: 공격 스킬 종료 시 적이 흐트러짐 상태가 되었거나 사망했으면, 다음 턴에 [CriticalDamageUp] 1 얻음 (턴당 3회)
+EN: After using an Attack Skill, if the enemy is Staggered or defeated, gain 1 [CriticalDamageUp] next turn (3 times per turn)
+
+### 278 (L40)  [] — 
+TOK: 
+KR: 타인의 사슬
+EN: Chains of Others
+
+### 279 (L120)  [] — 
+TOK: 
+KR: 뫼르소 연출 전용 EGO 장비
+EN: Meursault's Battle Cinematic Exclusive E.G.O
+
+### 280 (LNone)  [] — 
+TOK: 
+KR: 타인의 사슬
+REPEAT: 278 — inherit
+
+### 281 (L120)  [] — 
+TOK: 
+KR: 뫼르소의 기본 EGO 장비
+EN: Meursault’s Base E.G.O
+
+### 282 (LNone)  [] — 
+TOK: 
+KR: 타인의 사슬
+REPEAT: 278 — inherit
+
+### 283 (L40)  [] — 
+TOK: 
+KR: 뫼르소
+EN: Meursault
+
+### 284 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 3 부여
+REPEAT: 89 — inherit
+
+### 285 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 3 얻음
+EN: [OnSucceedAttack] Gain 3 [Binding] next turn
+
+### 286 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Reduction] next turn
+
+### 287 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 공격 위력 감소 2 얻음
+EN: [OnSucceedAttack] Gain 2 [Reduction] next turn
+
+### 288 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Binding] next turn
+
+### 289 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 5 얻음
+EN: [OnSucceedAttack] Gain 5 [Binding] next turn
+
+### 290 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 공격 위력 감소 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Reduction] next turn
+
+### 291 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 공격 위력 감소 4 얻음
+EN: [OnSucceedAttack] Gain 4 [Reduction] next turn
+
+### 292 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 다음 턴에 보호 2 얻음
+EN: [OnSucceedAttackHead] Gain 2 Protection next turn
+
+### 293 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 공격 위력 감소 3 얻음
+EN: [OnSucceedAttack] Gain 3 [Reduction] next turn
+
+### 294 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 보호 2 얻음
+EN: [OnSucceedAttack] Gain 2 Protection next turn
+
+### 295 (LNone)  [] — 
+TOK: 
+KR: 타인의 사슬
+REPEAT: 278 — inherit
+
+### 296 (LNone)  [] — 
+TOK: 
+KR: 뫼르소
+REPEAT: 283 — inherit
+
+### 297 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [Binding] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Binding] next turn
+
+### 298 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [Binding] 3 얻음
+EN: [OnSucceedAttack] Gain 3 [Binding] next turn
+
+### 299 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [Reduction] 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Reduction] next turn
+
+### 300 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [Reduction] 3 얻음
+EN: [OnSucceedAttack] Gain 3 [Reduction] next turn
+
+### 301 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 [Protection] 2 얻음
+EN: [OnSucceedAttack] Gain 2 [Protection] next turn
+
+### 302 (L40)  [] — 
+TOK: 
+KR: 판단 거부
+EN: Refusal to Judge
+
+### 303 (L120)  [] — 
+TOK: 
+KR: 전투 시작 시 자신이 3개 이상의 스킬의 타겟이 되었다면, 보호 3을 얻음
+EN: Combat Start: Gain 3 [Protection] if this unit is targeted by 3 or more Skills
+
+### 304 (L40)  [] — 
+TOK: 
+KR: 나사빠진 일격
+EN: Screwloose Wallop
+
+### 305 (L120)  [] — 
+TOK: 
+KR: 뫼르소 전용 EGO 장비
+EN: Meursault’s E.G.O Gear
+
+### 306 (LNone)  [] — 
+TOK: 
+KR: 나사빠진 일격
+REPEAT: 304 — inherit
+
+### 307 (L50)  [] — 
+TOK: 
+KR: 너 맞아볼래? 매우?
+EN: You Want To Get Beat? Hurtily?
+
+### 308 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 보호 3 얻음
+EN: [EndSkill] Gain 3 Protection
+
+### 309 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 마비 3 부여
+EN: [OnSucceedAttackHead] Inflict 3 [Paralysis]
+
+### 310 (L120)  [] — 
+TOK: \n
+KR: [EndSkill] 보호 3 얻음\n[EndSkill] 다음 턴에 시술 1 얻음
+EN: [EndSkill] Gain 3 Protection\n[EndSkill] Gain 1 Surgery next turn
+
+### 311 (LNone)  [] — 
+TOK: 
+KR: 나사빠진 일격
+REPEAT: 304 — inherit
+
+### 312 (LNone)  [] — 
+TOK: 
+KR: 너 맞아볼래? 매우?
+REPEAT: 307 — inherit
+
+### 313 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 다음 턴에 시술 2 얻음
+EN: [EndSkill] Gain 2 Surgery next turn
+
+### 314 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 마비 3 부여
+REPEAT: 309 — inherit
+
+### 315 (L120)  [] — 
+TOK: 
+KR: 피해량의 30%만큼 흐트러짐 손상 입힘
+EN: Raise Stagger Threshold by 30% of damage dealt
+
+### 316 (L40)  [] — 
+TOK: 
+KR: 마지막 개조
+EN: Final Augment
+
+### 317 (L230)  [] — 
+TOK: 
+KR: 체력이 25%미만일 때 <나사빠진 일격> E.G.O 스킬 사용시 매 턴마다 공격 위력 증가, 수비 위력 증가, 신속 3을 얻고, 3턴 뒤 사망함.
+EN: If the E.G.O Skill <Screwloose Wallop> is used when this unit is at less than 25% HP, this unit gains 3 [Enhancement], [Endurance], and [Agility] every turn, but dies in 3 turns
+
+### 318 (L40)  [] — 
+TOK: 
+KR: 집행
+EN: Pursuance
+
+### 319 (LNone)  [] — 
+TOK: 
+KR: 뫼르소 전용 EGO 장비
+REPEAT: 305 — inherit
+
+### 320 (LNone)  [] — 
+TOK: 
+KR: 집행
+REPEAT: 318 — inherit
+
+### 321 (L40)  [] — 
+TOK: 
+KR: 하늘 집행관의 보좌
+EN: Heavenly Executor’s Scribe
+
+### 322 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명 최대 체력의 15%만큼 체력 회복
+EN: [EndSkill] Heal 2 other allies with the least HP for 15% of Max HP
+
+### 323 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 진동 폭발
+EN: [OnSucceedAttackHead] Trigger [VibrationExplosion]
+
+### 324 (L130)  [] — 
+TOK: 
+KR: [EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명 최대 체력의 30%만큼 체력을 회복, 다음 턴에 보호 2 부여
+EN: [EndSkill] Heal 2 other allies with the least HP for 30% of Max HP; Apply 2 Protection next turn
+
+### 325 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 폭발
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]
+
+### 326 (LNone)  [] — 
+TOK: 
+KR: 집행
+REPEAT: 318 — inherit
+
+### 327 (LNone)  [] — 
+TOK: 
+KR: 하늘 집행관의 보좌
+REPEAT: 321 — inherit
+
+### 328 (L170)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명에게 다음 턴에 취약 1 부여, 다음 턴에 피해량 증가 2 부여
+EN: [CantIdentify] Targets randomly\n[EndSkill] Apply 1 [Vulnerable] and 2 [AttackDmgUp] next turn to 2 other allies with the least HP
+
+### 329 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 진동 폭발
+REPEAT: 323 — inherit
+
+### 330 (L170)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력이 가장 낮은 아군 2명에게 다음 턴에 취약 2 부여, 다음 턴에 피해량 증가 3 부여
+EN: [CantIdentify] Targets randomly\n[EndSkill] Apply 2 [Vulnerable] and 3 [AttackDmgUp] next turn to 2 other allies with the least HP
+
+### 331 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 폭발
+REPEAT: 325 — inherit
+
+### 332 (L40)  [] — 
+TOK: 
+KR: 하늘의 계시
+EN: Revelation from Above
+
+### 333 (L170)  [] — 
+TOK: 
+KR: 조작 패널에서 가장 왼쪽의 스킬로 합 승리 시 다음 턴에 무작위 아군에게 공격 위력 증가 또는 수비 위력 증가 1 부여
+EN: After winning a Clash with the leftmost Skill on the Dashboard, apply 1 [Enhancement] or [Endurance] to a random ally next turn
+
+### 334 (L40)  [] — 
+TOK: 
+KR: 카포테
+EN: Capote
+
+### 335 (L120)  [] — 
+TOK: 
+KR: 뫼르소의 전용 EGO 장비
+EN: Meursault’s E.G.O Gear
+
+### 336 (LNone)  [] — 
+TOK: 
+KR: 카포테
+REPEAT: 334 — inherit
+
+### 337 (L40)  [] — 
+TOK: 
+KR: 놋쇠 황소
+EN: Brazen Bull
+
+### 338 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 다음 턴에 신속 1, 분노 위력 증가 1, 타격 위력 증가 1 얻음
+EN: [EndSkill] Gain 1 [Agility], 1 Wrath Power Up, and 1 Blunt Power Up next turn
+
+### 339 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 4 부여
+REPEAT: 64 — inherit
+
+### 340 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 화상 수치만큼 진동 부여
+EN: [OnSucceedAttack] Inflict [Vibration] by [Combustion] on target
+
+### 341 (L240)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion] 시 진동 횟수 3 감소. [VibrationExplosion]로 대상이 흐트러진 경우, 무작위 적 5명의 화상 횟수 1 증가
+EN: [OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count by 3; if the [VibrationExplosion] Staggered the target, inflict +1 [Combustion] Count on 5 random enemies
+
+### 342 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 다음 턴에 신속 2, 분노 위력 증가 1, 타격 위력 증가 1 얻음
+EN: [EndSkill] Gain 2 [Agility], 1 Wrath Power Up, and 1 Blunt Power Up next turn
+
+### 343 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 7 부여
+EN: [OnSucceedAttack] Inflict 7 [Combustion]
+
+### 344 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 무작위 적 5명에게 화상 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Combustion] on 5 random enemies
+
+### 345 (L240)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion] 시 진동 횟수 2 감소. [VibrationExplosion]로 대상이 흐트러진 경우, 무작위 적 5명의 화상 횟수 2 증가
+EN: [OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count by 2; if the [VibrationExplosion] Staggered the target, inflict +2 [Combustion] Count on 5 random enemies
+
+### 346 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 10 부여
+EN: [OnSucceedAttack] Inflict 10 [Combustion]
+
+### 347 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 무작위 적 5명에게 화상 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Combustion] on 5 random enemies
+
+### 348 (L240)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion] 시 진동 횟수 2 감소. [VibrationExplosion]로 대상이 흐트러진 경우, 무작위 적 5명의 화상 횟수 3 증가
+EN: [OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count by 2; if the [VibrationExplosion] Staggered the target, inflict +3 [Combustion] Count on 5 random enemies
+
+### 349 (LNone)  [] — 
+TOK: 
+KR: 카포테
+REPEAT: 334 — inherit
+
+### 350 (LNone)  [] — 
+TOK: 
+KR: 놋쇠 황소
+REPEAT: 337 — inherit
+
+### 351 (L150)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 신속 1, 분노 위력 증가 1, 타격 위력 증가 1 얻음
+EN: [CantIdentify]\nTargets randomly\n[EndSkill] Gain 1 [Agility], 1 Wrath Power Up, and 1 Blunt Power Up next turn
+
+### 352 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 6 부여
+REPEAT: 53 — inherit
+
+### 353 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 화상 수치만큼 진동 부여
+REPEAT: 340 — inherit
+
+### 354 (L240)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion] 시 진동 횟수 3 감소. [VibrationExplosion]로 대상이 흐트러진 경우, 무작위 캐릭터 5명의 화상 횟수 2 증가
+EN: [OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count by 3; if the [VibrationExplosion] Staggered the target, inflict +2 [Combustion] Count on 5 random units
+
+### 355 (L150)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 신속 2, 분노 위력 증가 1, 타격 위력 증가 1 얻음
+EN: [CantIdentify]\nTargets randomly\n[EndSkill] Gain 2 [Agility], 1 Wrath Power Up, and 1 Blunt Power Up next turn
+
+### 356 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 10 부여
+REPEAT: 346 — inherit
+
+### 357 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 무작위 캐릭터 5명에게 화상 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Combustion] on 5 random units
+
+### 358 (L240)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion] 시 진동 횟수 2 감소. [VibrationExplosion]로 대상이 흐트러진 경우, 무작위 캐릭터 5명의 화상 횟수 3 증가
+EN: [OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count by 2; if the [VibrationExplosion] Staggered the target, inflict +3 [Combustion] Count on 5 random units
+
+### 359 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 화상 12 부여
+EN: [OnSucceedAttack] Inflict 12 [Combustion]
+
+### 360 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 무작위 캐릭터 5명에게 화상 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Combustion] on 5 random units
+
+### 361 (L240)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. [VibrationExplosion] 시 진동 횟수 2 감소. [VibrationExplosion]로 대상이 흐트러진 경우, 무작위 캐릭터 5명의 화상 횟수 4 증가
+EN: [OnSucceedAttack] Trigger [VibrationExplosion], then reduce [Vibration] Count by 2; if the [VibrationExplosion] Staggered the target, inflict +4 [Combustion] Count on 5 random units
+
+### 362 (L40)  [] — 
+TOK: 
+KR: 삭히지 못한 흥분
+EN: Untempered Agitation
+
+### 363 (L220)  [] — 
+TOK: 
+KR: 전투 시작 시 자신이 2개 이상의 스킬의 타겟이 되었다면, 스킬 기본 위력이 1 증가하고, 피격 시 공격자에게 화상 1 부여 (턴 당 최대 5회)
+EN: Combat Start: If this unit is targeted by 2 or more Skills, this unit’s Skills gain +1 Base Power; when hit, inflict 1 [Combustion] on the attacker (5 times per turn)
+
+### 364 (L40)  [] — 
+TOK: 
+KR: 후회
+EN: Regret
+
+### 365 (LNone)  [] — 
+TOK: 
+KR: 뫼르소의 전용 EGO 장비
+REPEAT: 335 — inherit
+
+### 366 (LNone)  [] — 
+TOK: 
+KR: 후회
+REPEAT: 364 — inherit
+
+### 367 (L40)  [] — 
+TOK: 
+KR: 버려진 살인마
+EN: Forsaken Murderer
+
+### 368 (L120)  [] — 
+TOK: 
+KR: [BeforeAttack] 자신에게 부여된 해제 가능한 부정적인 효과 중 무작위 1개 제거
+EN: [BeforeAttack] Remove 1 random removable negative effect applied to self
+
+### 369 (L140)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 횟수 2 증가, (분노 완전 공명 수)/3만큼 추가 증가
+EN: [OnSucceedAttack] Inflict +2 [Vibration] Count; Inflict (Wrath A-Reson. /3) additional [Vibration] Count
+
+### 370 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 폭발
+REPEAT: 325 — inherit
+
+### 371 (L260)  [] — 
+TOK: \n
+KR: [OnSucceedAttack] 진동 폭발\n진동 폭발 시 대상에게 흐트러짐 구간이 없는 경우,\n최종 흐트러짐 손상의 (6 + 2x(분노 완전 공명 수))%만큼 분노 피해를 줌
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised
+
+### 372 (L120)  [] — 
+TOK: 
+KR: [BeforeAttack] 자신에게 부여된 해제 가능한 부정적인 효과 중 무작위 2개 제거
+EN: [BeforeAttack] Remove 2 random removable negative effects applied to self
+
+### 373 (L140)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 횟수 3 증가, (분노 완전 공명 수)/3만큼 추가 증가
+EN: [OnSucceedAttack] Inflict +3 [Vibration] Count; Inflict (Wrath A-Reson. /3) additional [Vibration] Count
+
+### 374 (L260)  [] — 
+TOK: \n
+KR: [OnSucceedAttack] 진동 폭발\n진동 폭발 시 대상에게 흐트러짐 구간이 없는 경우,\n최종 흐트러짐 손상의 (12 + 3x(분노 완전 공명 수))%만큼 분노 피해를 줌.
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised.
+
+### 375 (LNone)  [] — 
+TOK: 
+KR: 후회
+REPEAT: 364 — inherit
+
+### 376 (LNone)  [] — 
+TOK: 
+KR: 버려진 살인마
+REPEAT: 367 — inherit
+
+### 377 (L140)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신에게 부정적인 효과가 부여되어 있으면 공격 가중치 +1
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +1
+
+### 378 (L230)  [] — 
+TOK: \n
+KR: [OnSucceedAttack] 진동 폭발.\n진동 폭발 시 진동 수치의 30%만큼 흐트러짐 손상 증가.\n진동 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion].\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 30% of [Vibration] on target.\nReduce [Vibration] Count by 1
+
+### 379 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 다음 턴에 속박 3, 타격 위력 증가 1을 얻음.
+EN: [EndSkill] Gain 3 [Binding] and 1 [HitResultUp] next turn.
+
+### 380 (L430)  [] — 
+TOK: \n
+KR: [OnSucceedAttack] 진동 폭발.\n진동 폭발 시 진동 수치의 40%만큼 흐트러짐 손상 증가.\n진동 폭발 시 대상에게 흐트러짐 구간이 없는 경우,\n최종 흐트러짐 손상의 (6 + 2x(분노 완전 공명 수))%만큼 분노 피해를 줌.\n진동 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 40% of [Vibration] on target.\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count by 1
+
+### 381 (L140)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신에게 부정적인 효과가 부여되어 있으면 공격 가중치 +2
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +2
+
+### 382 (L430)  [] — 
+TOK: \n
+KR: [OnSucceedAttack] 진동 폭발.\n진동 폭발 시 진동 수치의 50%만큼 흐트러짐 손상 증가.\n진동 폭발 시 대상에게 흐트러짐 구간이 없는 경우,\n최종 흐트러짐 손상의 (12 + 3x(분노 완전 공명 수))%만큼 분노 피해를 줌.\n진동 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50% of [Vibration] on target.\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count by 1
+
+### 383 (L40)  [] — 
+TOK: 
+KR: 구속당한 분노
+EN: Bound Wrath
+
+### 384 (L160)  [] — 
+TOK: \n
+KR: 자신의 조작 패널에서 가장 왼쪽에 위치한 스킬의 기본 위력 1 감소. 코인 위력 2 증가\n턴 시작 시 속도가 4 이하면, 타격 위력 증가 1을 얻음.
+EN: Base Power -1 and Coin Power +2 to the leftmost Skill on this unit's Dashboard\nTurn Start: At 4- Speed, Gain 1 [HitResultUp]
+
+### 385 (L40)  [] — 
+TOK: 
+KR: 전기울음
+EN: Electric Screaming
+
+### 386 (LNone)  [] — 
+TOK: 
+KR: 뫼르소의 전용 EGO 장비
+REPEAT: 335 — inherit
+
+### 387 (LNone)  [] — 
+TOK: 
+KR: 전기울음
+REPEAT: 385 — inherit
+
+### 388 (L40)  [] — 
+TOK: 
+KR: 꿈꾸는 전기양
+EN: Dreaming Electric Sheep
+
+### 389 (L250)  [] — 
+TOK: \n
+KR: [BeforeAttack] 자신의 [Charge] 횟수 8 증가\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 3)
+EN: [BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally that has the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 3)
+
+### 390 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Burst]
+
+### 391 (L360)  [] — 
+TOK: \n
+KR: [BeforeAttack] 자신의 [Charge] 횟수 8 증가\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 4)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여
+EN: [BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally that has the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 4)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies
+
+### 392 (L470)  [] — 
+TOK: \n
+KR: [BeforeAttack] 자신의 [Charge] 횟수 12 증가\n[EndSkill] 자신을 제외하고 [Charge] 횟수가 가장 낮은 아군 1명의 [Charge] 횟수 8 증가\n- (최대 질투 공명 수 - 2)만큼 부여 대상 수 증가 (최대 <style="highlight">5</style>)\n- 최대 질투 공명 수가 4 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여\n<style="highlight">- 최대 질투 공명 수가 6 이상이면, 자신과 부여 대상에게 [VioletDamageUp] 1 부여</style>
+EN: [BeforeAttack] Gain +12 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally that has the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max <style="highlight">5</style>)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies\n<style="highlight">- At 6+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies</style>
+
+### 393 (LNone)  [] — 
+TOK: 
+KR: 전기울음
+REPEAT: 385 — inherit
+
+### 394 (LNone)  [] — 
+TOK: 
+KR: 꿈꾸는 전기양
+REPEAT: 388 — inherit
+
+### 395 (L320)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 질투 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[BeforeAttack] 자신의 [Charge] 횟수가 10이상이면, [Charge] 횟수를 최대 20 소모하여 소모한 [Charge] 횟수 1 당 피해량 +2% (최대 40%)
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +2% damage for every [Charge] Count consumed (max 40%)
+
+### 396 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Paralysis] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Paralysis]
+
+### 397 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst] 3 부여
+REPEAT: 390 — inherit
+
+### 398 (L320)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 질투 공명 수 - 2)만큼 공격 가중치 증가 (최대 <style="highlight">3</style>)\n[BeforeAttack] 자신의 [Charge] 횟수가 10이상이면, [Charge] 횟수를 최대 20 소모하여 소모한 [Charge] 횟수 1 당 피해량 +<style="highlight">2.5</style>% (최대 <style="highlight">50</style>%)
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max <style="highlight">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style="highlight">2.5</style>% damage for every [Charge] Count consumed (max <style="highlight">50</style>%)
+
+### 399 (L420)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 질투 공명 수 - 2)만큼 공격 가중치 증가 (최대 3)\n<style="highlight">[BeforeAttack] 자신의 충전 횟수가 10 이상이면, 적중시 효과로 부여하는 효과가 2회 부여됨</style>\n[BeforeAttack] 자신의 [Charge] 횟수가 10이상이면, [Charge] 횟수를 최대 20 소모하여 소모한 [Charge] 횟수 1 당 피해량 +<style="highlight">3</style>% (최대 <style="highlight">60</style>%)
+EN: [CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 3)\n<style="highlight">[BeforeAttack] At 10+ [Charge] Count, apply the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style="highlight">3</style>% damage for every [Charge] Count consumed (max <style="highlight">60</style>%)
+
+### 400 (L40)  [] — 
+TOK: 
+KR: 과부하 케이블
+EN: Overloading Cables
+
+### 401 (L240)  [] — 
+TOK: \n
+KR: 전투 시작 시 공명이 4 이상 발동하였다면, [AttackUp] 2, [DefenseUp] 2 얻음.\n해당 공명이 질투 공명이었다면, 자신의 조작 패널 양 옆 아군에게도 부여
+EN: Combat Start: At 4+ Reson., gain 2 [AttackUp] and 2 [DefenseUp].\nIf the Reson. was an Envy Reson., apply the above effects to the 2 units adjacent to this unit on the Dashboard as well
+
+### 402 (L40)  [] — 
+TOK: 
+KR: 갈망-미르칼라
+EN: Yearning-Mircalla
+
+### 403 (LNone)  [] — 
+TOK: 
+KR: 뫼르소의 전용 EGO 장비
+REPEAT: 335 — inherit
+
+### 404 (L40)  [] — 
+TOK: 
+KR: 갈망 - 미르칼라
+EN: Yearning - Mircalla
+
+### 405 (L40)  [] — 
+TOK: 
+KR: 사백송이의 장미
+EN: Four-hundred Roses
+
+### 406 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소
+EN: [EndSkill] For 3 turns, lose 10 SP at Turn End
+
+### 407 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 221 — inherit
+
+### 408 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 221 — inherit
+
+### 409 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 410 (L120)  [] — 
+TOK: 
+KR: [WinDuelAttack] [RoseWedge] 횟수 2 증가
+EN: [WinDuelAttack] Inflict +2 [RoseWedge] Count
+
+### 411 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [RoseWedge] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict +1 [RoseWedge] Count
+
+### 412 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 413 (L120)  [] — 
+TOK: 
+KR: [WinDuelAttack] 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)
+EN: [WinDuelAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)
+
+### 414 (L120)  [] — 
+TOK: \n
+KR: <style="highlight">대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소
+EN: <style="highlight">If target has 6+ [Laceration], Coin Power +1</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End
+
+### 415 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여<style="highlight"></style>
+REPEAT: 231 — inherit
+
+### 416 (L150)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>
+EN: <style="highlight">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>
+
+### 417 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 2 부여<style="highlight"></style>
+REPEAT: 231 — inherit
+
+### 418 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>
+REPEAT: 416 — inherit
+
+### 419 (L120)  [] — 
+TOK: 
+KR: [WinDuelAttack] [RoseWedge] 횟수 2 증가<style="highlight"></style>
+EN: [WinDuelAttack] Inflict +2 [RoseWedge] Count<style="highlight"></style>
+
+### 420 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [RoseWedge] 횟수 1 증가<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +1 [RoseWedge] Count<style="highlight"></style>
+
+### 421 (L230)  [] — 
+TOK: 
+KR: [WinDuelAttack] 대상의 [Laceration] <style="highlight">1 + (최대 공명 수 / 2)회 발동. (최대 3회. 발동된 횟수만큼 [Laceration] 횟수 감소)</style>
+EN: [WinDuelAttack] Activate the target's [Laceration] <style="highlight">(1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)
+
+### 422 (L140)  [] — 
+TOK: \n
+KR: 대상의 [Laceration] <style="highlight">6 당 코인 위력 +1 (최대 2)</style>\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소
+EN: <style="highlight">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End
+
+### 423 (L150)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)<style="highlight"></style>
+EN: [OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)<style="highlight"></style>
+
+### 424 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 최대 공명이 4 이상이면, 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)<style="highlight"></style>
+REPEAT: 423 — inherit
+
+### 425 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [RoseWedge] 횟수 <style="highlight">2</style> 증가
+EN: [OnSucceedAttack] Inflict +<style="highlight">2</style> [RoseWedge] Count
+
+### 426 (L230)  [] — 
+TOK: 
+KR: [WinDuelAttack] 대상의 [Laceration] 1 + (최대 공명 수 / 2)회 발동. (최대 3회. 발동된 횟수만큼 [Laceration] 횟수 감소)<style="highlight"></style>
+EN: [WinDuelAttack] Activate the target's [Laceration] (1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)<style="highlight"></style>
+
+### 427 (L180)  [] — 
+TOK: 
+KR: <style="highlight">[EnemyKill] 적의 남은 체력을 초과하여 피해를 준 경우, 초과한 피해량을 고정 피해로 적 전체에 나눠서 가함. (최소 1)</style>
+EN: <style="highlight">[EnemyKill] When dealing excess damage past the enemy's remaining HP, deal the excess damage as fixed damage between all enemies. (min 1)</style>
+
+### 428 (LNone)  [] — 
+TOK: 
+KR: 갈망 - 미르칼라
+REPEAT: 404 — inherit
+
+### 429 (LNone)  [] — 
+TOK: 
+KR: 사백송이의 장미
+REPEAT: 405 — inherit
+
+### 430 (L440)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n[WhenUse] 자신의 최대 체력의 10% 만큼 소모하여, 모든 적과 아군이 (자신이 소모한 체력 / 2)만큼 피해를 받음\n- 자신의 현재 체력이 최대 체력의 50% 미만이면, 대신 모든 아군에게 [Laceration]을 5 부여하고 1회 발동시킴 ([Laceration] 횟수 1 감소). 아군이 입은 [Laceration] 피해만큼 자신의 체력을 회복
+EN: [CantIdentify]\nTargets randomly\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration] on all allies once instead (lose 1 [Laceration] Count). Heal HP equal to the amount of [Laceration] damage dealt to allies
+
+### 431 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신과 대상에게 [Laceration] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Laceration] on self and the target
+
+### 432 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신과 대상에게 [Laceration] 2 부여
+REPEAT: 431 — inherit
+
+### 433 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 434 (LNone)  [] — 
+TOK: 
+KR: [WinDuelAttack] [RoseWedge] 횟수 2 증가
+REPEAT: 410 — inherit
+
+### 435 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [RoseWedge] 횟수 1 증가
+REPEAT: 411 — inherit
+
+### 436 (L120)  [] — 
+TOK: 
+KR: - 대상에게 [RoseWedge]가 없었으면, [RoseWedge] 위력이 추가로 4 증가
+EN: - If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency
+
+### 437 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 438 (LNone)  [] — 
+TOK: 
+KR: [WinDuelAttack] 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)
+REPEAT: 413 — inherit
+
+### 439 (L520)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n<style="highlight">자신과 대상의 [Laceration] 합이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신의 최대 체력의 10% 만큼 소모하여, 모든 적과 아군이 (자신이 소모한 체력 / 2) 만큼 피해를 받음\n- 자신의 현재 체력이 최대 체력의 50% 미만이면, 대신 모든 아군에게 [Laceration]을 5 부여하고 1회 발동시킴 ([Laceration] 횟수 1 감소). 아군이 입은 [Laceration] 피해만큼 자신의 체력을 회복
+EN: [CantIdentify]\nTargets randomly\n<style="highlight">At 6+ ([Laceration] on self + [Laceration] on target), Coin Power +1</style>\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration] on all allies once instead (lose 1 [Laceration] Count). Heal HP equal to the amount of [Laceration] damage dealt to allies
+
+### 440 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신과 대상에게 [Laceration] <style="highlight">3</style> 부여
+EN: [OnSucceedAttack] Inflict <style="highlight">3</style> [Laceration] on self and the target
+
+### 441 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신과 대상에게 [Laceration] <style="highlight">3</style> 부여
+REPEAT: 440 — inherit
+
+### 442 (LNone)  [] — 
+TOK: 
+KR: [WinDuelAttack] [RoseWedge] 횟수 2 증가<style="highlight"></style>
+REPEAT: 419 — inherit
+
+### 443 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [RoseWedge] 횟수 1 증가<style="highlight"></style>
+REPEAT: 420 — inherit
+
+### 444 (L120)  [] — 
+TOK: 
+KR: - 대상에게 [RoseWedge]가 없었으면, [RoseWedge] 위력이 추가로 4 증가<style="highlight"></style>
+EN: - If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency<style="highlight"></style>
+
+### 445 (L230)  [] — 
+TOK: 
+KR: [WinDuelAttack] 대상의 [Laceration] <style="highlight">1 + (최대 공명 수 /2)회 발동. (최대 3회, 발동된 횟수만큼 [Laceration] 횟수 감소)</style>
+EN: [WinDuelAttack] Activate the target's [Laceration] <style="highlight">(1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)</style>
+
+### 446 (L530)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n자신과 대상의 [Laceration] 합 6 당 코인 위력 +1 <style="highlight">(최대 3)</style>\n[WhenUse] 자신의 최대 체력의 10% 만큼 소모하여, 모든 적과 아군이 (자신이 소모한 체력 / 2) 만큼 피해를 받음\n- 자신의 현재 체력이 최대 체력의 50% 미만이면, 대신 모든 아군에게 [Laceration]을 5 부여하고 1회 발동시킴 ([Laceration] 횟수 1 감소). 아군이 입은 [Laceration] 피해만큼 자신의 체력을 회복
+EN: [CantIdentify]\nTargets randomly\nCoin Power +1 for every 6 ([Laceration] on self + [Laceration] on target) <style="highlight">(max 3)</style>\n[WhenUse] Consume up to 10% of this unit's max HP and deal (HP consumed / 2) damage to all enemies and allies\n- At less than 50% of this unit's max HP, inflict and activate 5 [Laceration] on all allies instead (lose 1 [Laceration] Count). Heal HP equal to the amount of [Laceration] damage dealt to allies
+
+### 447 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신과 대상에게 [Laceration] 3 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 3 [Laceration] on self and the target<style="highlight"></style>
+
+### 448 (L130)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>
+EN: <style="highlight">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 [Laceration] Count)</style>
+
+### 449 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 자신과 대상에게 [Laceration] 3 부여<style="highlight"></style>
+REPEAT: 447 — inherit
+
+### 450 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 자신과 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)</style>
+REPEAT: 448 — inherit
+
+### 451 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [RoseWedge] 횟수 <style="highlight">2</style> 증가
+REPEAT: 425 — inherit
+
+### 452 (L230)  [] — 
+TOK: 
+KR: [WinDuelAttack] 대상의 [Laceration] 1 + (최대 공명 수 /2)회 발동. (최대 3회, 발동된 횟수만큼 [Laceration] 횟수 감소)<style="highlight"></style>
+EN: [WinDuelAttack] Activate the target's [Laceration] (1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)<style="highlight"></style>
+
+### 453 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[EnemyKill] 적의 남은 체력을 초과하여 피해를 준 경우, 초과한 피해량을 고정 피해로 적 전체에 나눠서 가함. (최소 1)</style>
+REPEAT: 427 — inherit
+
+### 454 (L40)  [] — 
+TOK: 
+KR: 잔혹한 만찬
+EN: Bloodthirsty Banquet
+
+### 455 (L340)  [] — 
+TOK: \n
+KR: 자신이 [Laceration] 피해를 가하거나 받을 때, [Laceration] 피해만큼 자신의 체력을 회복 (턴 당 최대 10)\n- [Laceration]을 부여하는 스킬, 코인 효과 발동 시, 대상에게 [RoseWedge]가 있으면 대상에게 [Laceration] 1 부여. (턴 당 2회)
+EN: When this unit deals or takes [Laceration] damage, heal HP equal to the [Laceration] damage (max 10 per turn)\n- When activating a Skill/Coin effect that inflicts [Laceration], if the target has [RoseWedge], inflict 1 [Laceration] against the target. (2 times per turn)
+
+### 456 (L40)  [] — 
+TOK: 
+KR: 분쇄될 과거
+EN: Crushbound Past
+
+### 457 (LNone)  [] — 
+TOK: 
+KR: 뫼르소의 전용 EGO 장비
+REPEAT: 335 — inherit
+
+### 458 (LNone)  [] — 
+TOK: 
+KR: 분쇄될 과거
+REPEAT: 456 — inherit
+
+### 459 (L40)  [] — 
+TOK: 
+KR: 증기 운반 기계
+EN: Steam Transport Machine
+
+### 460 (L270)  [] — 
+TOK: \n
+KR: [EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\n[EndSkill] 홀수 턴에 (나태 공명 수)가 홀수거나, 짝수 턴에 (나태 공명 수)가 짝수면 정신력 10 회복
+EN: [EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] When activating odd-numbered (Sloth Reson.) in odd-numbered turns, or when activating even-numbered (Sloth Reson.) in even-numbered turns, heal 10 SP
+
+### 461 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Vibration] Count
+
+### 462 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] (나태 공명 수 / 2) 만큼 [Vibration] 횟수 증가 (최대 3)
+EN: [OnSucceedAttack] Inflict +(Sloth Reson. / 2) [Vibration] Count (max 3)
+
+### 463 (L150)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 메인 타겟이면, 대상의 현재 [Vibration]으로 [FusionVibration]
+EN: [OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type
+
+### 464 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Vibration]
+
+### 465 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] 메인 타겟의 [Vibration] 1당, 이 코인의 피해량 +1% (최대 50%)
+EN: [OnStartCoin] This Coin deals +1% damage for every [Vibration] on the main target (max 50%)
+
+### 466 (L150)  [] — 
+TOK: 
+KR: [OnStartCoin] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수) 1당, 이 코인의 피해량 +1% (최대 100%)
+EN: [OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)
+
+### 467 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 468 (L220)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 이 코인의 효과로 인한 피해량 증가량이 100% 이상이면, [VibrationExplosion] 2회. [Vibration] 횟수 2 감소
+EN: [OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2
+
+### 469 (L390)  [] — 
+TOK: \n
+KR: <style="highlight">[BeforeAttack] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수)가 30 이상이면, 가중치 +1</style>\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\n[EndSkill] 홀수 턴에 (나태 공명 수)가 홀수거나, 짝수 턴에 (나태 공명 수)가 짝수면 정신력 10 회복
+EN: <style="highlight">[BeforeAttack] If the main target has 30+ ([Vibration] + [Vibration] Count), gain +1 Atk Weight</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] When activating odd-numbered (Sloth Reson.) in odd-numbered turns, or when activating even-numbered (Sloth Reson.) in even-numbered turns, heal 10 SP
+
+### 470 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 횟수 2 증가<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +2 [Vibration] Count<style="highlight"></style>
+
+### 471 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] (나태 공명 수 / 2) 만큼 [Vibration] 횟수 증가 (최대 3)<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +(Sloth Reson. / 2) [Vibration] Count (max 3)<style="highlight"></style>
+
+### 472 (L150)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 메인 타겟이면, 대상의 현재 [Vibration]으로 [FusionVibration]<style="highlight"></style>
+EN: [OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type<style="highlight"></style>
+
+### 473 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 4 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 4 [Vibration]<style="highlight"></style>
+
+### 474 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] 메인 타겟의 [Vibration] 1당, 이 코인의 피해량 +1% (최대 50%)<style="highlight"></style>
+EN: [OnStartCoin] This Coin deals +1% damage for every [Vibration] on the main target (max 50%)<style="highlight"></style>
+
+### 475 (L150)  [] — 
+TOK: 
+KR: [OnStartCoin] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수) 1당, 이 코인의 피해량 +1% (최대 100%)<style="highlight"></style>
+EN: [OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)<style="highlight"></style>
+
+### 476 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style="highlight"></style>
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style="highlight"></style>
+
+### 477 (L220)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 이 코인의 효과로 인한 피해량 증가량이 100% 이상이면, [VibrationExplosion] 2회. [Vibration] 횟수 2 감소<style="highlight"></style>
+EN: [OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style="highlight"></style>
+
+### 478 (L640)  [] — 
+TOK: \n
+KR: [BeforeAttack] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수)가 30 이상이면, 가중치 +1\n<style="highlight">- 100 이상이면, 대신 가중치 +3</style>\n<style="highlight">[BeforeAttack] 최대 공명 수 2 당, 공격하는 모든 대상에게 진동 1 부여 (최대 3)</style>\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\n<style="highlight">[EndSkill] 자신의 최대 체력의 ([AccumulatedPastSinner] x 2)% 만큼 체력 회복</style>\n[EndSkill] 홀수 턴에 (나태 공명 수)가 홀수거나, 짝수 턴에 (나태 공명 수)가 짝수면 정신력 10 회복
+EN: [BeforeAttack] If the main target has 30+ ([Vibration] + [Vibration] Count), gain +1 Atk Weight\n<style="highlight">- At 100+, gain +3 Atk Weight instead</style>\n<style="highlight">[BeforeAttack] For every 2 highest Reson., inflict 1 [Vibration] against all targets this unit attacks (max 3)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End\n<style="highlight">[EndSkill] Heal ([AccumulatedPastSinner] x 2)% HP</style>\n[EndSkill] When activating odd-numbered (Sloth Reson.) in odd-numbered turns, or when activating even-numbered (Sloth Reson.) in even-numbered turns, heal 10 SP
+
+### 479 (L150)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 이 코인의 효과로 인한 피해량 증가량이 50% 이상이면, [VibrationExplosion] 1회.</style>
+EN: <style="highlight">[OnSucceedAttack] If this Coin's effects raised the damage dealt by +50% or more, trigger [VibrationExplosion] once.</style>
+
+### 480 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 이 코인의 효과로 인한 피해량 증가량이 100% 이상이면, [VibrationExplosion] 2회. [Vibration] 횟수 2 감소<style="highlight"></style>
+REPEAT: 477 — inherit
+
+### 481 (LNone)  [] — 
+TOK: 
+KR: 분쇄될 과거
+REPEAT: 456 — inherit
+
+### 482 (LNone)  [] — 
+TOK: 
+KR: 증기 운반 기계
+REPEAT: 459 — inherit
+
+### 483 (L460)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n최대 공명 수 당, 피해량 +10% (최대 100%)\n- 최대 공명이 나태 공명이었으면, 대신 피해량 +20% (최대 100%)\n[BeforeAttack] 홀수 턴에 (나태 공명 수)가 짝수거나, 짝수 턴에 (나태 공명 수)가 홀수면 피해량 +12%
+EN: [CantIdentify]\nTargets randomly\nDeal +10% damage for every highest Reson. (max 100%)\n- If the highest Reson. was a Sloth Reson., deal +20% damage for every highest Reson. instead (max 100%)\n[BeforeAttack] When activating even-numbered (Sloth Reson.) in odd-numbered turns, or when activating odd-numbered (Sloth Reson.) in even-numbered turns, deal +12% damage
+
+### 484 (LNone)  [] — 
+TOK: 
+KR: [OnStartCoin] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수) 1당, 이 코인의 피해량 +1% (최대 100%)
+REPEAT: 466 — inherit
+
+### 485 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 5, [Vibration] 횟수 2 부여
+EN: [OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count
+
+### 486 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] (나태 공명 수) 만큼 [Vibration] 횟수 증가 (최대 6)
+EN: [OnSucceedAttack] Inflict +(Sloth Reson.) [Vibration] Count (max 6)
+
+### 487 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 메인 타겟이면, 대상의 현재 [Vibration]으로 [FusionVibration]
+REPEAT: 463 — inherit
+
+### 488 (L130)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion] 2회. [Vibration] 횟수 2 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2
+
+### 489 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 이 코인의 효과로 인한 피해량 증가량이 100% 이상이면, [VibrationExplosion] 2회. [Vibration] 횟수 2 감소
+REPEAT: 468 — inherit
+
+### 490 (L580)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n최대 공명 수 당, 피해량 +10% (최대 100%)\n- 최대 공명이 나태 공명이었으면, 대신 피해량 +20% (최대 100%)\n<style="highlight">[BeforeAttack] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수)가 30 이상이면, 가중치 +2</style>\n[BeforeAttack] 홀수 턴에 (나태 공명 수)가 짝수거나, 짝수 턴에 (나태 공명 수)가 홀수면 피해량 +12%
+EN: [CantIdentify]\nTargets randomly\nDeal +10% damage for every highest Reson. (max 100%)\n- If the highest Reson. was a Sloth Reson., deal +20% damage for every highest Reson. instead (max 100%)\n<style="highlight">[BeforeAttack] If the main target has 30+ ([Vibration] + [Vibration] Count), gain +2 Atk Weight</style>\n[BeforeAttack] When activating even-numbered (Sloth Reson.) in odd-numbered turns, or when activating odd-numbered (Sloth Reson.) in even-numbered turns, deal +12% damage
+
+### 491 (LNone)  [] — 
+TOK: 
+KR: [OnStartCoin] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수) 1당, 이 코인의 피해량 +1% (최대 100%)<style="highlight"></style>
+REPEAT: 475 — inherit
+
+### 492 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 5, [Vibration] 횟수 2 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count<style="highlight"></style>
+
+### 493 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] (나태 공명 수) 만큼 [Vibration] 횟수 증가 (최대 6)<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +(Sloth Reson.) [Vibration] Count (max 6)<style="highlight"></style>
+
+### 494 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 메인 타겟이면, 대상의 현재 [Vibration]으로 [FusionVibration]<style="highlight"></style>
+REPEAT: 472 — inherit
+
+### 495 (L130)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion] 2회. [Vibration] 횟수 2 감소<style="highlight"></style>
+EN: [OnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style="highlight"></style>
+
+### 496 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 이 코인의 효과로 인한 피해량 증가량이 100% 이상이면, [VibrationExplosion] 2회. [Vibration] 횟수 2 감소<style="highlight"></style>
+REPEAT: 477 — inherit
+
+### 497 (L640)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n최대 공명 수 당, 피해량 +10% (최대 100%)\n- 최대 공명이 나태 공명이었으면, 대신 피해량 +20% (최대 100%)\n[BeforeAttack] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수)가 30 이상이면, 가중치 +2\n[BeforeAttack] 홀수 턴에 (나태 공명 수)가 짝수거나, 짝수 턴에 (나태 공명 수)가 홀수면 피해량 +12%\n<style="highlight">[EndSkill] 자신의 최대 체력의 ([AccumulatedPastSinner] x 3)% 만큼 체력 회복</style>
+EN: [CantIdentify]\nTargets randomly\nDeal +10% damage for every highest Reson. (max 100%)\n- If the highest Reson. was a Sloth Reson., deal +20% damage for every highest Reson. instead (max 100%)\n[BeforeAttack] If the main target has 30+ ([Vibration] + [Vibration] Count), gain +2 Atk Weight\n[BeforeAttack] When activating even-numbered (Sloth Reson.) in odd-numbered turns, or when activating odd-numbered (Sloth Reson.) in even-numbered turns, deal +12% damage\n<style="highlight">[EndSkill] Heal ([AccumulatedPastSinner] x 3)% HP</style>
+
+### 498 (L180)  [] — 
+TOK: 
+KR: [OnStartCoin] 메인 타겟의 ([Vibration] 위력 + [Vibration] 횟수) 1당, 이 코인의 피해량 <style="highlight">+2%</style> (최대 100%)
+EN: [OnStartCoin] This Coin deals <style="highlight">+2%</style> damage for every ([Vibration] on the main target + [Vibration] Count on the main target) (max 100%)
+
+### 499 (L40)  [] — 
+TOK: 
+KR: 메트로놈
+EN: Metronome
+
+### 500 (L600)  [] — 
+TOK: \n
+KR: 턴 시작시, 홀수 턴이면 [AttackDmgUp] 1, 짝수 턴이면 [Protection] 1 얻음\n- 메트로놈 E.G.O 기프트와 중첩하여 발동되지 않음. (해당 기프트가 강화 상태인 경우, 이 효과의 값을 차감한 뒤 얻음)\n- 다른 아군에게 부여하는 효과는 영향을 주지 않음\n\nEGO스킬 사용 시, 다음 턴에 [AccumulatedPastSinner] 1 얻음 (전투 당 1회)\n- 이후 턴 종료시마다, [AccumulatedPastSinner] 1 얻음
+EN: Turn Start: in odd-numbered turns, gain 1 [AttackDmgUp]; in even-numbered turns, gain 1 [Protection]\n- Does not stack with the Metronome E.G.O Gift. (If the said E.G.O Gift is at an enhanced state, its effect subtracts the values gained from this effect)\n- Does not affect the instances of its effect applied to other allies\n\nWhen using E.G.O Skill, gain 1 [AccumulatedPastSinner] next turn (once per Encounter)\n- Gain 1 [AccumulatedPastSinner] at every subsequent Turn End
+
+### 501 (L50)  [] — 
+TOK: 
+KR: 착영휘도[着影揮刀]
+EN: Shadow-vested Bladesinger [着影揮刀]
+
+### 502 (LNone)  [] — 
+TOK: 
+KR: 뫼르소의 전용 EGO 장비
+REPEAT: 335 — inherit
+
+### 503 (LNone)  [] — 
+TOK: 
+KR: 착영휘도[着影揮刀]
+REPEAT: 501 — inherit
+
+### 504 (L40)  [] — 
+TOK: 
+KR: 그슨대
+EN: Geseundae
+
+### 505 (L980)  [] — 
+TOK: \n
+KR: 전투에서 처음 사용 시 정신력 소모량 15 감소\n- 검계 우두머리 뫼르소면, 필요한 E.G.O 자원이 분노 1, 오만 1, 질투 1 감소\n자신의 [Breath] 4당, 합 위력 +1, 피해량 +6% (각각 최대 4, 최대 12%)\n이번 전투에서 [AlcoholKimPersonal]를 얻었으면, 메인 타겟에게 가하는 피해량 +60%\n- 검계 우두머리 뫼르소면, 해당 효과가 피해량 +120%로 적용\n[BeforeAttack] (최대 공명 수 / 2)만큼 공격 가중치 증가 (최대 2, 소수점 버림)\n[BeforeAttack] 편성 순서가 가장 빠른 아군 (3 + 최대 공명 수)명의 [Breath] 횟수 4 증가\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 검계 소속 아군 인격 4명의 정신력 10 회복\n[EndSkill] 다음 턴에 [AlcoholKimPersonal] 4 얻음
+EN: When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max 4, max 12% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +60% damage against the main target\n- Blade Lineage Mentor Meursault deals +120% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn
+
+### 506 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 33 — inherit
+
+### 507 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 179 — inherit
+
+### 508 (L980)  [] — 
+TOK: \n
+KR: 전투에서 처음 사용 시 정신력 소모량 15 감소\n- 검계 우두머리 뫼르소면, 필요한 E.G.O 자원이 분노 1, 오만 1, 질투 1 감소\n자신의 [Breath] 4당, 합 위력 +1, 피해량 +6% (각각 최대 <style="highlight">6</style>, 최대 <style="highlight">24</style>%)\n이번 전투에서 [AlcoholKimPersonal]를 얻었으면, 메인 타겟에게 가하는 피해량 +<style="highlight">80</style>%\n- 검계 우두머리 뫼르소면, 해당 효과가 피해량 +<style="highlight">160</style>%로 적용\n[BeforeAttack] (최대 공명 수 / 2)만큼 공격 가중치 증가 (최대 2, 소수점 버림)\n[BeforeAttack] 편성 순서가 가장 빠른 아군 (3 + 최대 공명 수)명의 [Breath] 횟수 4 증가\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 검계 소속 아군 인격 4명의 정신력 10 회복\n[EndSkill] 다음 턴에 [AlcoholKimPersonal] 4 얻음
+EN: When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max <style="highlight">6</style>, max <style="highlight">24</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style="highlight">80</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style="highlight">160</style>% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn
+
+### 509 (L980)  [] — 
+TOK: \n
+KR: 전투에서 처음 사용 시 정신력 소모량 15 감소\n- 검계 우두머리 뫼르소면, 필요한 E.G.O 자원이 분노 1, 오만 1, 질투 1 감소\n자신의 [Breath] 4당, 합 위력 +1, 피해량 +6% (각각 최대 <style="highlight">8</style>, 최대 <style="highlight">30</style>%)\n이번 전투에서 [AlcoholKimPersonal]를 얻었으면, 메인 타겟에게 가하는 피해량 +<style="highlight">100</style>%\n- 검계 우두머리 뫼르소면, 해당 효과가 피해량 +<style="highlight">200</style>%로 적용\n[BeforeAttack] (최대 공명 수 / 2)만큼 공격 가중치 증가 (최대 2, 소수점 버림)\n[BeforeAttack] 편성 순서가 가장 빠른 아군 (3 + 최대 공명 수)명의 [Breath] 횟수 4 증가\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 검계 소속 아군 인격 4명의 정신력 10 회복\n[EndSkill] 다음 턴에 [AlcoholKimPersonal] 4 얻음
+EN: When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max <style="highlight">8</style>, max <style="highlight">30</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style="highlight">100</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style="highlight">200</style>% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn
+
+### 510 (LNone)  [] — 
+TOK: 
+KR: 착영휘도[着影揮刀]
+REPEAT: 501 — inherit
+
+### 511 (LNone)  [] — 
+TOK: 
+KR: 그슨대
+REPEAT: 504 — inherit
+
+### 512 (L770)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 4당, 합 위력 +2, 피해량 +6% (각각 최대 8, 최대 12%)\n이번 전투에서 [AlcoholKimPersonal]를 얻었으면, 메인 타겟에게 가하는 피해량 +60%\n- 검계 우두머리 뫼르소면, 해당 효과가 피해량 +120%로 적용\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -8)\n[BeforeAttack] 모든 적과 아군이 [Breath] 횟수 4, [SlashDamageUp] 1, [SlashTakeDamageUp] 1 얻음\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 검계 소속 아군 인격 4명의 정신력 10 회복\n[EndSkill] 다음 턴에 [AlcoholKimPersonal] 4 얻음
+EN: [CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max 8, max 12% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +60% damage against the main target\n- Blade Lineage Mentor Meursault deals +120% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn
+
+### 513 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 514 (L120)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 마지막 코인의 최종 위력 +2 (코인당 1회)
+EN: [CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)
+
+### 515 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Laceration]
+
+### 516 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 517 (LNone)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 마지막 코인의 최종 위력 +2 (코인당 1회)
+REPEAT: 514 — inherit
+
+### 518 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 515 — inherit
+
+### 519 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 520 (LNone)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 마지막 코인의 최종 위력 +2 (코인당 1회)
+REPEAT: 514 — inherit
+
+### 521 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 515 — inherit
+
+### 522 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 523 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 179 — inherit
+
+### 524 (L780)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 4당, 합 위력 +2, 피해량 +6% (각각 최대 <style="highlight">12</style>, 최대 <style="highlight">24</style>%)\n이번 전투에서 [AlcoholKimPersonal]를 얻었으면, 메인 타겟에게 가하는 피해량 +<style="highlight">80</style>%\n- 검계 우두머리 뫼르소면, 해당 효과가 피해량 +<style="highlight">160</style>%로 적용\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -8)\n[BeforeAttack] 모든 적과 아군이 [Breath] 횟수 4, [SlashDamageUp] 1, [SlashTakeDamageUp] 1 얻음\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 검계 소속 아군 인격 4명의 정신력 10 회복\n[EndSkill] 다음 턴에 [AlcoholKimPersonal] 4 얻음
+EN: [CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max <style="highlight">12</style>, max <style="highlight">24</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style="highlight">80</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style="highlight">160</style>% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn
+
+### 525 (L780)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 4당, 합 위력 +2, 피해량 +6% (각각 최대 <style="highlight">16</style>, 최대 <style="highlight">30</style>%)\n이번 전투에서 [AlcoholKimPersonal]를 얻었으면, 메인 타겟에게 가하는 피해량 +<style="highlight">100</style>%\n- 검계 우두머리 뫼르소면, 해당 효과가 피해량 +<style="highlight">200</style>%로 적용\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -8)\n[BeforeAttack] 모든 적과 아군이 [Breath] 횟수 4, [SlashDamageUp] 1, [SlashTakeDamageUp] 1 얻음\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 검계 소속 아군 인격 4명의 정신력 10 회복\n[EndSkill] 다음 턴에 [AlcoholKimPersonal] 4 얻음
+EN: [CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max <style="highlight">16</style>, max <style="highlight">30</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style="highlight">100</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style="highlight">200</style>% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn
+
+### 526 (L50)  [] — 
+TOK: 
+KR: 칼끝에 맺힌 술방울
+EN: Beads of Liquor at Bladepoint
+
+### 527 (L1400)  [] — 
+TOK: \n
+KR: [AlwaysUseEGOPassive2050911]\n\n기본 스킬의 공격 적중 시 대상에게 [Laceration] 2 부여 (스킬당 1회)\n\n이 인격은 [Laceration], [Breath]을 부여하는 인격으로 취급됨\n- 이 효과로 인해서 기본 스킬이 [Laceration]과 [Breath]을 부여하는 스킬로 취급됨\n\n[WhenUseEGOPassive]\n\n아군 사망 시 다음 턴에 [AlcoholKimPersonal] 1 얻음\n- 사망한 아군이 검계 소속이면, 대신 [AlcoholKimPersonal] 2 얻음\n\n턴 시작 시 자신에게 [AlcoholKimPersonal]가 있으면, [GhostKimPersonal] 상태가 됨\n- 검계 우두머리 뫼르소면, 추가로 [RootSoupKimPersonal] 얻음\n\n턴 시작 시 자신에게 [AlcoholKimPersonal]가 없으면, 자신의 [GhostKimPersonal], [GrudgePersonal], [RootSoupKimPersonal] 소멸함\n\n[AlcoholKimPersonal]가 있을 때 체력이 0이 되는 피해를 받으면, 자신의 체력을 최대 체력의 ([AlcoholKimPersonal] 수치 x 25)%만큼 회복하고 [AlcoholKimPersonal] 소멸함 (전투당 1회, 인격 패시브 우선 발동)\n- 흐트러짐 상태면, 흐트러짐 해제 (강제 흐트러짐 제외)
+EN: [AlwaysUseEGOPassive2050911]\n\nOn Hit with a Base Skill, inflict 2 [Laceration] on target (once per Skill)\n\nThis Identity counts as an "Identity that applies [Laceration] and [Breath]"\n- This Identity's Base Skills count as "Skills that apply [Laceration] and [Breath]"\n\n[WhenUseEGOPassive]\n\nWhen an ally is defeated, gain 1 [AlcoholKimPersonal] next turn\n- If the defeated ally is in Blade Lineage, gain 2 [AlcoholKimPersonal] instead\n\nTurn Start: If this unit has [AlcoholKimPersonal], enter [GhostKimPersonal] state\n- Blade Lineage Mentor Meursault gains [RootSoupKimPersonal] as well when the above effect activates\n\nTurn Start: If this unit does not have [AlcoholKimPersonal], the following effects expire - [GhostKimPersonal], [GrudgePersonal], and [RootSoupKimPersonal]\n\nWhen this unit has [AlcoholKimPersonal]: When this unit takes damage that brings its HP down to 0, heal ([AlcoholKimPersonal] Stack x 25)% HP; then, [AlcoholKimPersonal] expires (once per Encounter; this effect activates after Identity Passives with similar effects)\n- When Staggered, recover from Stagger (excluding forced Staggers)
+
+### 528 (L120)  [] — 
+TOK: 
+KR: [AlcoholKimPersonal] 얻음
+EN: Gain [AlcoholKimPersonal]
+
+### 529 (L40)  [] — 
+TOK: 
+KR: 구멍
+EN: Hollow
+
+### 530 (LNone)  [] — 
+TOK: 
+KR: 뫼르소의 전용 EGO 장비
+REPEAT: 335 — inherit
+
+### 531 (LNone)  [] — 
+TOK: 
+KR: 구멍
+REPEAT: 529 — inherit
+
+### 532 (L40)  [] — 
+TOK: 
+KR: 구멍난 사람
+EN: Hollowed Man
+
+### 533 (L560)  [] — 
+TOK: \n
+KR: 스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 5)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음
+EN: If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max 5)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]
+
+### 534 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 535 (L120)  [] — 
+TOK: 
+KR: 이 코인은 메인 타겟에게만 적중함
+EN: This Coin hits only the main target
+
+### 536 (L120)  [] — 
+TOK: 
+KR: [BulletHole] 1 소모
+EN: Spend 1 [BulletHole]
+
+### 537 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +10%
+EN: Deal +10% damage on Critical Hit
+
+### 538 (L260)  [] — 
+TOK: \n
+KR: 처음 사용한 코인이면,\n- 피해량 +(자신의 [Charge] 횟수 x 5)% (최대 100%)\n- 크리티컬 피해량 +(자신의 [Breath] 위력 x 횟수)% (최대 100%)\n- 해당 코인에 한해 대상의 관통 속성 내성을 취약으로 변경함
+EN: If this is the first Coin:\n- Deal +([Charge] Count x 5)% damage (max 100%)\n- Deal +([Breath] Potency x Count)% damage on Critical Hit (max 100%)\n- For this Coin, change target's Pierce Resist. to Fatal
+
+### 539 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Sinking]
+
+### 540 (L120)  [] — 
+TOK: 
+KR: [EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)
+EN: [EndCoin] At 1+ [BulletHole], Reuse this Coin (4 times per Skill)
+
+### 541 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 542 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +30%
+EN: Deal +30% damage on Critical Hit
+
+### 543 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Sinking] Count
+
+### 544 (L560)  [] — 
+TOK: \n
+KR: 스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">7</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음
+EN: If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">7</style>)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]
+
+### 545 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 546 (L120)  [] — 
+TOK: 
+KR: 이 코인은 메인 타겟에게만 적중함<style="highlight"></style>
+EN: This Coin hits only the main target<style="highlight"></style>
+
+### 547 (L120)  [] — 
+TOK: 
+KR: [BulletHole] 1 소모<style="highlight"></style>
+EN: Spend 1 [BulletHole]<style="highlight"></style>
+
+### 548 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 <style="highlight">+15%</style>
+EN: Deal <style="highlight">+15%</style> damage on Critical Hit
+
+### 549 (L260)  [] — 
+TOK: \n
+KR: 처음 사용한 코인이면,\n- 피해량 +(자신의 [Charge] 횟수 x 5)% (최대 100%)\n- 크리티컬 피해량 +(자신의 [Breath] 위력 x 횟수)% (최대 100%)\n- 해당 코인에 한해 대상의 관통 속성 내성을 취약으로 변경함<style="highlight"></style>
+EN: If this is the first Coin:\n- Deal +([Charge] Count x 5)% damage (max 100%)\n- Deal +([Breath] Potency x Count)% damage on Critical Hit (max 100%)\n- For this Coin, change target's Pierce Resist. to Fatal<style="highlight"></style>
+
+### 550 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 1 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 1 [Sinking]<style="highlight"></style>
+
+### 551 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[CriticalOnSucceedAttack] 마지막 코인 위력 +1</style>
+EN: <style="highlight">[CriticalOnSucceedAttack] Final Coin Power +1</style>
+
+### 552 (L120)  [] — 
+TOK: 
+KR: [EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)<style="highlight"></style>
+EN: [EndCoin] At 1+ [BulletHole], Reuse this Coin (4 times per Skill)<style="highlight"></style>
+
+### 553 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 554 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 <style="highlight">+50%</style>
+EN: Deal <style="highlight">+50%</style> damage on Critical Hit
+
+### 555 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnStartCoin] 공격 대상이 1명이면, 피해량 +50% (집중 전투의 경우, 본체로 판정)</style>
+EN: <style="highlight">[OnStartCoin] When attacking just 1 target, deal +50% damage (in Focused Encounters, a Core)</style>
+
+### 556 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 횟수 3 증가<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +3 [Sinking] Count<style="highlight"></style>
+
+### 557 (L560)  [] — 
+TOK: \n
+KR: 스킬 시전 중 공격 대상 사망 시, 체력이 가장 낮은 공격 대상을 우선 지정 (집중 전투의 경우, 부위로 판정)\n\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">10</style>)\n자신의 [BulletHole] 1당 합 위력 +2\n\n[BeforeAttack] 자신의 [Breath] 횟수 3, [Charge] 횟수 5 증가\n[BeforeAttack] 정신력을 (5-보유한 [BulletHole]) x 3 만큼 소모하여, [BulletHole]을 최대치로 얻음\n\n[EndSkill] [BlackWingHole] 2 얻음
+EN: If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">10</style>)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]
+
+### 558 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 <style="highlight">+20%</style>
+EN: Deal <style="highlight">+20%</style> damage on Critical Hit
+
+### 559 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (스킬당 1회)</style>
+EN: <style="highlight">[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (once per Skill)</style>
+
+### 560 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 1 부여<style="highlight"></style>
+REPEAT: 550 — inherit
+
+### 561 (L120)  [] — 
+TOK: 
+KR: [CriticalOnSucceedAttack] 마지막 코인 위력 +1<style="highlight"></style>
+EN: [CriticalOnSucceedAttack] Final Coin Power +1<style="highlight"></style>
+
+### 562 (LNone)  [] — 
+TOK: 
+KR: [EndCoin] [BulletHole]이 1 이상이면 이 코인 재사용 (스킬당 4회)<style="highlight"></style>
+REPEAT: 552 — inherit
+
+### 563 (L120)  [] — 
+TOK: 
+KR: 크리티컬 피해량 +50%<style="highlight"></style>
+EN: Deal +50% damage on Critical Hit<style="highlight"></style>
+
+### 564 (L130)  [] — 
+TOK: 
+KR: [OnStartCoin] 공격 대상이 1명이면, 피해량 <style="highlight">+100%</style> (집중 전투의 경우, 본체로 판정)
+EN: [OnStartCoin] When attacking just 1 target, deal +<style="highlight">100</style>% damage (in Focused Encounters, a Core)
+
+### 565 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnStartCoin] 자신의 [Charge] 횟수 4당 코인 위력 +1 (최대 5)</style>
+EN: <style="highlight">[OnStartCoin] Coin Power +1 for every 4 [Charge] Count (max 5)</style>
+
+### 566 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 횟수 3 증가<style="highlight"></style>
+REPEAT: 556 — inherit
+
+### 567 (LNone)  [] — 
+TOK: 
+KR: 구멍
+REPEAT: 529 — inherit
+
+### 568 (LNone)  [] — 
+TOK: 
+KR: 구멍난 사람
+REPEAT: 532 — inherit
+
+### 569 (L420)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 5)\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)
+EN: [CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max 5)\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)
+
+### 570 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 571 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] [BlackWingHole] 5 얻음
+EN: [OnStartCoin] Gain 5 [BlackWingHole]
+
+### 572 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] 자신의 [Charge] 횟수 5 증가
+EN: [OnStartCoin] Gain +5 [Charge] Count
+
+### 573 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] [Breath] 5 얻음
+EN: [OnStartCoin] Gain 5 [Breath]
+
+### 574 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]
+REPEAT: 11 — inherit
+
+### 575 (L120)  [] — 
+TOK: 
+KR: 이 코인의 뒷면 확률은 정신력과 관계 없이 (자신이 보유한 [BulletHole] x 20)% 확률로 적용됨
+EN: This Coin has ([BulletHole] on self x 20)% chance to flip Tails regardless of this unit's SP
+
+### 576 (L120)  [] — 
+TOK: \n
+KR: [CoinHead]\n- 이 코인은 적중하지 않음
+EN: [CoinHead]\n- This Coin does not hit
+
+### 577 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] [Breath] 5 얻음
+EN: - [EndCoin] Gain 5 [Breath]
+
+### 578 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] 자신의 [Breath] 횟수 3 증가
+EN: - [EndCoin] Gain +3 [Breath] Count
+
+### 579 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] [BulletHole] 2 얻음
+EN: - [EndCoin] Gain 2 [BulletHole]
+
+### 580 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)
+EN: - [EndCoin] Refund half of the E.G.O resources consumed by this Skill (rounded down)
+
+### 581 (L120)  [] — 
+TOK: \n
+KR: [CoinTail]\n- 피해량 +(자신의 충전 횟수 x 3)% (최대 60%)
+EN: [CoinTail]\n- Deal +([Charge] Count x 3)% damage (max 60%)
+
+### 582 (L120)  [] — 
+TOK: 
+KR: - 크리티컬 피해량 +70%
+EN: - Deal +70% damage on Critical Hit
+
+### 583 (L120)  [] — 
+TOK: 
+KR: - [OnSucceedAttack] 이 코인 최종 피해량의 10%만큼 관통 피해
+EN: - [OnSucceedAttack] Deal Pierce damage equal to 10% of this Coin's final damage
+
+### 584 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] 자신의 [BulletHole] 전부 소모
+EN: - [EndCoin] Consume all [BulletHole] on self
+
+### 585 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Sinking]
+
+### 586 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 횟수 3 증가
+REPEAT: 543 — inherit
+
+### 587 (L540)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">7</style>)\n\n<style="highlight">[BeforeAttack] 공격 대상이 1명이면, 피해량 +100% (집중 전투의 경우, 본체로 판정)</style>\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)
+EN: [CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">7</style>)\n\n<style="highlight">[BeforeAttack] When attacking just 1 target, deal +100% damage (in Focused Encounters, a Core)</style>\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)
+
+### 588 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 589 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] [BlackWingHole] 5 얻음<style="highlight"></style>
+EN: [OnStartCoin] Gain 5 [BlackWingHole]<style="highlight"></style>
+
+### 590 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] 자신의 [Charge] 횟수 5 증가<style="highlight"></style>
+EN: [OnStartCoin] Gain +5 [Charge] Count<style="highlight"></style>
+
+### 591 (L120)  [] — 
+TOK: 
+KR: [OnStartCoin] [Breath] 5 얻음<style="highlight"></style>
+EN: [OnStartCoin] Gain 5 [Breath]<style="highlight"></style>
+
+### 592 (LNone)  [] — 
+TOK: 
+KR: [SuperCoin]<style="highlight"></style>
+REPEAT: 227 — inherit
+
+### 593 (L120)  [] — 
+TOK: 
+KR: 이 코인의 뒷면 확률은 정신력과 관계 없이 (자신이 보유한 [BulletHole] x 20)% 확률로 적용됨<style="highlight"></style>
+EN: This Coin has ([BulletHole] on self x 20)% chance to flip Tails regardless of this unit's SP<style="highlight"></style>
+
+### 594 (L120)  [] — 
+TOK: \n
+KR: [CoinHead]\n- 이 코인은 적중하지 않음<style="highlight"></style>
+EN: [CoinHead]\n- This Coin does not hit<style="highlight"></style>
+
+### 595 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] [Breath] 5 얻음<style="highlight"></style>
+EN: - [EndCoin] Gain 5 [Breath]<style="highlight"></style>
+
+### 596 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] 자신의 [Breath] 횟수 3 증가<style="highlight"></style>
+EN: - [EndCoin] Gain +3 [Breath] Count<style="highlight"></style>
+
+### 597 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] [BulletHole] 2 얻음<style="highlight"></style>
+EN: - [EndCoin] Gain 2 [BulletHole]<style="highlight"></style>
+
+### 598 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)<style="highlight"></style>
+EN: - [EndCoin] Refund half of the E.G.O resources consumed by this Skill (rounded down)<style="highlight"></style>
+
+### 599 (L120)  [] — 
+TOK: \n
+KR: [CoinTail]\n- 피해량 +(자신의 충전 횟수 x <style="highlight">4)% (최대 80%)</style>
+EN: [CoinTail]\n- Deal +([Charge] Count x <style="highlight">4)% damage (max 80%)</style>
+
+### 600 (L120)  [] — 
+TOK: 
+KR: - 크리티컬 피해량 <style="highlight">+100%</style>
+EN: - Deal <style="highlight">+100%</style> damage on Critical Hit
+
+### 601 (L120)  [] — 
+TOK: 
+KR: - [OnSucceedAttack] 이 코인 최종 피해량의 <style="highlight">15%</style>만큼 관통 피해
+EN: - [OnSucceedAttack] Deal Pierce damage equal to <style="highlight">15</style>% of this Coin's final damage
+
+### 602 (L120)  [] — 
+TOK: 
+KR: - [EndCoin] 자신의 [BulletHole] 전부 소모<style="highlight"></style>
+EN: - [EndCoin] Consume all [BulletHole] on self<style="highlight"></style>
+
+### 603 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 5 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 5 [Sinking]<style="highlight"></style>
+
+### 604 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 횟수 3 증가<style="highlight"></style>
+REPEAT: 556 — inherit
+
+### 605 (L640)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n이 스킬은 수비 스킬을 발동시키지 않음 (합 가능 수비 포함)\n(자신의 [Breath] 위력 + [Charge] 횟수) 4당 합 위력 +1 (최대 <style="highlight">10</style>)\n\n[BeforeAttack] 공격 대상이 1명이면, 피해량 <style="highlight">+200% (집중 전투의 경우, 본체로 판정)\n[BeforeAttack] 최종 위력 +(자신의 [BulletHole] 수치)</style>\n[BeforeAttack] 자신에게 [BulletHole]이 없으면, [BulletHole] 1 얻음\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2 (최대 -4)\n<style="highlight">[EnemyKill] 정신력 5 회복</style>
+EN: [CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style="highlight">10</style>)\n\n[BeforeAttack] When attacking just 1 target, deal +<style="highlight">200</style>% damage (in Focused Encounters, a Core)\n<style="highlight">[BeforeAttack] Gain Final Power +([BulletHole] on self)</style>\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)\n<style="highlight">[EnemyKill] Heal 5 SP</style>
+
+### 606 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>
+REPEAT: 229 — inherit
+
+### 607 (L120)  [] — 
+TOK: 
+KR: <style="highlight">- [EndCoin] 자신에게 부여된 해제 가능한 부정적인 효과 무작위 1개 제거</style>
+EN: <style="highlight">- [EndCoin] Remove 1 random removable negative effect applied to self</style>
+
+### 608 (LNone)  [] — 
+TOK: 
+KR: - [EndCoin] [BulletHole] 2 얻음<style="highlight"></style>
+REPEAT: 597 — inherit
+
+### 609 (LNone)  [] — 
+TOK: 
+KR: - [EndCoin] 이 스킬에서 소모한 E.G.O 자원을 절반 돌려받음 (소수점 버림)<style="highlight"></style>
+REPEAT: 598 — inherit
+
+### 610 (L120)  [] — 
+TOK: \n
+KR: [CoinTail]\n- 피해량 +(자신의 충전 횟수 x <style="highlight">5)% (최대 100%)</style>
+EN: [CoinTail]\n- Deal +([Charge] Count x <style="highlight">5)% damage (max 100%)</style>
+
+### 611 (L120)  [] — 
+TOK: 
+KR: - 크리티컬 피해량 <style="highlight">+130%</style>
+EN: - Deal +<style="highlight">130</style>% damage on Critical Hit
+
+### 612 (L120)  [] — 
+TOK: 
+KR: - [OnSucceedAttack] 이 코인 최종 피해량의 <style="highlight">20%</style>만큼 관통 피해
+EN: - [OnSucceedAttack] Deal Pierce damage equal to <style="highlight">20</style>% of this Coin's final damage
+
+### 613 (L120)  [] — 
+TOK: 
+KR: <style="highlight">- [EnemyKill] 자신의 최대 체력의 5%만큼 체력 회복</style>
+EN: <style="highlight">- [EnemyKill] Heal 5% HP</style>
+
+### 614 (LNone)  [] — 
+TOK: 
+KR: - [EndCoin] 자신의 [BulletHole] 전부 소모<style="highlight"></style>
+REPEAT: 602 — inherit
+
+### 615 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 5 부여<style="highlight"></style>
+REPEAT: 603 — inherit
+
+### 616 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 횟수 3 증가<style="highlight"></style>
+REPEAT: 556 — inherit
+
+### 617 (L50)  [] — 
+TOK: 
+KR: 레모라지 앵테른(l'hémorragie interne)
+EN: L'Hémorragie interne
+
+### 618 (L530)  [] — 
+TOK: \n
+KR: [AlwaysUseEGOPassive]\n자신의 [BulletHole]이 5면, ‘구멍’ E.G.O 스킬(각성, 침식) 사용 시 E.G.O 자원을 소모하지 않음\n\n턴 시작 시 [BulletHole] 1 얻음\n\n[WhenUseEGOPassive]\n턴 시작 시, [BlackWingHole] 1 얻음\n\n자신이 [Bullet]을 누적 3개 소모하거나 잃을 때마다 정신력을 5 회복하고, 다음 턴에 [ResultEnhancement] 1 얻음 (특수 [Bullet] 포함. 턴당 [Bullet] 최대 9개까지 판정)
+EN: [AlwaysUseEGOPassive]\nIf this unit has 5 [BulletHole], does not consume E.G.O Resource when using "Hollow" E.G.O's Skills (both Awakening and Corrosion)\n\nTurn Start: Gain 1 [BulletHole]\n\n[WhenUseEGOPassive]\nTurn Start: Gain 1 [BlackWingHole]\n\nHeal 5 SP every time this unit consumes or loses 3 cumulative [Bullet], and gain 1 [ResultEnhancement] next turn (including Unique [Bullet]; counts up to 9 [Bullet] per turn)
+
+### 619 (L210)  [] — 
+TOK: 
+KR: 타자의 시선이 나에게 박혀 구멍을 내고 온갖 것을 쏟아내게 한다. 쏟아져 나온 것은 탄환이 되어 다시 네게 쏘아져 구멍을 뚫는다.
+EN: The gaze of another nails into me, driving a hollow from which multitudes spill forth.\nThe discharge is then forged into a bullet that punches a hollow into you.
+
+### 620 (L40)  [] — 
+TOK: 
+KR: 허환경
+EN: Land of Illusion
+
+### 621 (L120)  [] — 
+TOK: 
+KR: 홍루 연출 전용 EGO 장비
+EN: Hong Lu's Battle Cinematic Exclusive E.G.O
+
+### 622 (LNone)  [] — 
+TOK: 
+KR: 허환경
+REPEAT: 620 — inherit
+
+### 623 (L120)  [] — 
+TOK: 
+KR: 홍루 기본 EGO 장비
+EN: Hong Lu’s Base E.G.O
+
+### 624 (LNone)  [] — 
+TOK: 
+KR: 허환경
+REPEAT: 620 — inherit
+
+### 625 (L40)  [] — 
+TOK: 
+KR: 홍루
+EN: Hong Lu
+
+### 626 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 침잠 2 부여
+EN: [OnSucceedAttackHead] Inflict 2 [Sinking]
+
+### 627 (L120)  [] — 
+TOK: 
+KR: [EndSkill] 정신력 15 회복
+EN: [EndSkill] Heal 15 SP
+
+### 628 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 침잠 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Sinking]
+
+### 629 (L130)  [] — 
+TOK: 
+KR: [EndSkill] 다음 턴에 모든 아군의 정신력 감소 효율 -2, E.G.O 사용시 정신력 감소량 -2
+EN: [EndSkill] Next turn: -2 SP Loss Efficiency to all allies; -2 to amount of SP lost from E.G.O use
+
+### 630 (LNone)  [] — 
+TOK: 
+KR: 허환경
+REPEAT: 620 — inherit
+
+### 631 (LNone)  [] — 
+TOK: 
+KR: 홍루
+REPEAT: 625 — inherit
+
+### 632 (L140)  [] — 
+TOK: \n
+KR: [EndSkill] 본인과 아군의 정신력 15 회복\n[EndSkill] 본인과 아군의 화상 제거
+EN: [EndSkill] Heal 15 SP for this unit and all allies\n[EndSkill] Remove Burn from this unit and all allies
+
+### 633 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Sinking] 5 부여
+REPEAT: 585 — inherit
+
+### 634 (L40)  [] — 
+TOK: 
+KR: 파문
+EN: Ripple
+
+### 635 (L150)  [] — 
+TOK: \n
+KR: 전투 시작 시 정신력이 가장 낮은 아군의 정신력을 조작 패널에서 가장 높은 자신의 완전 공명 수만큼 회복 \n패닉 상태의 아군 제외
+EN: Combat Start: Heal (this unit's highest A-Reson.) SP for the ally that has the least SP, excluding allies in Panic
+
+### 636 (L40)  [] — 
+TOK: 
+KR: 분홍욕망
+EN: Roseate Desire
+
+### 637 (L120)  [] — 
+TOK: 
+KR: 홍루 전용 EGO 장비
+EN: Hong Lu’s E.G.O Gear
+
+### 638 (LNone)  [] — 
+TOK: 
+KR: 분홍욕망
+REPEAT: 636 — inherit
+
+### 639 (L40)  [] — 
+TOK: 
+KR: 분홍신
+EN: Pink Shoes
+
+### 640 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 수비 위력 감소 2 부여
+EN: [OnSucceedAttack] Inflict 2 Defense Power Down
+
+### 641 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 방어 레벨 감소 2 부여
+EN: [OnSucceedAttack] Inflict 2 [DefenseDown]
+
+### 642 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 방어 레벨 감소 4 부여
+EN: [OnSucceedAttack] Inflict 4 [DefenseDown]
+
+### 643 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 방어 레벨 감소 5 부여
+EN: [OnSucceedAttack] Inflict 5 [DefenseDown]
+
+### 644 (LNone)  [] — 
+TOK: 
+KR: 분홍욕망
+REPEAT: 636 — inherit
+
+### 645 (LNone)  [] — 
+TOK: 
+KR: 분홍신
+REPEAT: 639 — inherit
+
+### 646 (L120)  [] — 
+TOK: \n
+KR: [CantIdentify]\n속도가 가장 빠른 대상 공격
+EN: [CantIdentify]\nTargets the unit with the fastest Speed
+
+### 647 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 수비 위력 감소 2 부여
+REPEAT: 640 — inherit
+
+### 648 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 방어 레벨 감소 2 부여
+REPEAT: 641 — inherit
+
+### 649 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackTail] 다음 턴에 속박 4 부여
+EN: [OnSucceedAttackTail] Inflict 4 [Binding] next turn
+
+### 650 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 방어 레벨 감소 4 부여
+REPEAT: 642 — inherit
+
+### 651 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Binding] next turn
+
+### 652 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 방어 레벨 감소 5 부여
+REPEAT: 643 — inherit
+
+### 653 (L40)  [] — 
+TOK: 
+KR: 구속하는 리본
+EN: Binding Ribbons
+
+### 654 (L180)  [] — 
+TOK: \n
+KR: 조작 패널에서 가장 왼쪽의 스킬로 공격하는 대상에게 공격 종료 시 \n다음 턴에 (색욕 완전 공명 수/4)만큼 색욕 취약 부여
+EN: Inflict (Lust A-Reson. / 4) [ScarletTakeDamageUp] next turn on the target of the leftmost Skill on the Dashboard at the Skill's Attack End
+
+### 655 (L40)  [] — 
+TOK: 
+KR: 차원찢개
+EN: Dimension Shredder
+
+### 656 (L120)  [] — 
+TOK: 
+KR: 홍루의 전용 EGO 장비
+EN: Hong Lu’s E.G.O Gear
+
+### 657 (LNone)  [] — 
+TOK: 
+KR: 차원찢개
+REPEAT: 655 — inherit
+
+### 658 (L40)  [] — 
+TOK: 
+KR: 길 잃은 승객
+EN: Wayward Passenger
+
+### 659 (L150)  [] — 
+TOK: \n
+KR: 가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수 3 증가. 다음 턴에 신속 2를 얻음
+EN: Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Gain +3 [Charge] Count; Gain 2 [Agility] next turn
+
+### 660 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 취약 1, 차원 균열 2 부여
+EN: [OnSucceedAttack] Inflict 1 [Vulnerable] and 2 [DimensionRift]
+
+### 661 (L150)  [] — 
+TOK: \n
+KR: 가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수 5 증가. 다음 턴에 신속 2를 얻음
+EN: Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Gain +5 [Charge] Count; Gain 2 [Agility] next turn
+
+### 662 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 취약 1, 차원 균열 4 부여
+EN: [OnSucceedAttack] Inflict 1 [Vulnerable] and 4 [DimensionRift]
+
+### 663 (LNone)  [] — 
+TOK: 
+KR: 차원찢개
+REPEAT: 655 — inherit
+
+### 664 (LNone)  [] — 
+TOK: 
+KR: 길 잃은 승객
+REPEAT: 658 — inherit
+
+### 665 (L250)  [] — 
+TOK: \n
+KR: [CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 다음 턴에 신속 2를 얻음.\n충전 횟수 10을 소모하여 적중시 부여하는 취약, 차원 균열 +1
+EN: [CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain 2 [Agility] next turn\nSpend 10 [Charge] Count to inflict +1 more [Vulnerable] and [DimensionRift] On Hit with this Skill
+
+### 666 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 취약 1, 차원 균열 3 부여
+EN: [OnSucceedAttack] Inflict 1 [Vulnerable] and 3 [DimensionRift]
+
+### 667 (L250)  [] — 
+TOK: \n
+KR: [CantIdentify]\n현재 체력이 가장 많은 대상 공격\n\n[BeforeAttack] 다음 턴에 신속 <style="highlight">3</style>을 얻음.\n충전 횟수 10을 소모하여 적중시 부여하는 취약, 차원 균열  <style="highlight">+2</style>
+EN: [CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain <style="highlight">3</style> [Agility] next turn\nSpend 10 [Charge] Count to inflict <style="highlight">+2</style> more [Vulnerable] and [DimensionRift] On Hit with this Skill
+
+### 668 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 취약 1, 차원 균열 4 부여
+REPEAT: 662 — inherit
+
+### 669 (L50)  [] — 
+TOK: 
+KR: 뒤얽힌 현상 복구
+EN: Entangled Phenomena Restoration
+
+### 670 (L280)  [] — 
+TOK: \n
+KR: 부정적인 효과를 가진 적에게 공격 적중 시 자신의 충전 횟수 1 증가 (턴 당 최대 4회)\n체력이 0이 될 때 충전 횟수를 전부 소모하고, 소모한 값에 비례하여 체력 회복 (전투당 1회 발동. 회복량 최대값: 전체 체력의 25%)
+EN: On Hit against an enemy that has negative status effects, gain +1 [Charge] Count (4 times per turn).\nWhen HP falls to 0, consume all [Charge] Count and heal HP based on Stacks consumed (once per Encounter; max 25% HP)
+
+### 671 (LNone)  [] — 
+TOK: 
+KR: 소다
+REPEAT: 118 — inherit
+
+### 672 (LNone)  [] — 
+TOK: 
+KR: 홍루의 전용 EGO 장비
+REPEAT: 656 — inherit
+
+### 673 (LNone)  [] — 
+TOK: 
+KR: 소다
+REPEAT: 118 — inherit
+
+### 674 (LNone)  [] — 
+TOK: 
+KR: 웰치어스
+REPEAT: 121 — inherit
+
+### 675 (L120)  [] — 
+TOK: 
+KR: [EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 10 회복
+EN: [EndSkillHead] Heal 2 allies with the lowest HP percentages for 10 HP
+
+### 676 (L120)  [] — 
+TOK: 
+KR: [EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 10 회복
+EN: [EndSkillTail] Heal 10 SP for 2 allies with the least SP
+
+### 677 (L120)  [] — 
+TOK: 
+KR: [EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 12 회복
+EN: [EndSkillHead] Heal 2 allies with the lowest HP percentages for 12 HP
+
+### 678 (L120)  [] — 
+TOK: 
+KR: [EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 12 회복
+EN: [EndSkillTail] Heal 12 SP for 2 allies with the least SP
+
+### 679 (L150)  [] — 
+TOK: 
+KR: [CriticalEndSkill] 현재 체력 비율이 가장 낮은 아군 1명의 체력 6 회복, 정신력이 가장 낮은 아군 1명의 정신력 6 회복
+EN: [CriticalEndSkill] Heal the ally with the lowest HP percentage for 6 HP; Heal the ally with the least SP for 6 SP
+
+### 680 (L120)  [] — 
+TOK: 
+KR: [EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 15 회복
+EN: [EndSkillHead] Heal 2 allies with the lowest HP percentages for 15 HP
+
+### 681 (L120)  [] — 
+TOK: 
+KR: [EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 15 회복
+EN: [EndSkillTail] Heal 15 SP for 2 allies with the least SP
+
+### 682 (L150)  [] — 
+TOK: 
+KR: [CriticalEndSkill] 현재 체력 비율이 가장 낮은 아군 1명의 체력 8 회복, 정신력이 가장 낮은 아군 1명의 정신력 8 회복
+EN: [CriticalEndSkill] Heal the ally with the lowest HP percentage for 8 HP; Heal the ally with the least SP for 8 SP
+
+### 683 (LNone)  [] — 
+TOK: 
+KR: 소다
+REPEAT: 118 — inherit
+
+### 684 (LNone)  [] — 
+TOK: 
+KR: 웰치어스
+REPEAT: 121 — inherit
+
+### 685 (L120)  [] — 
+TOK: \n
+KR: [CantIdentify]\n체력이 가장 낮은 대상 공격
+EN: [CantIdentify] Targets the unit with the least HP
+
+### 686 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 다음 턴에 속박 1 부여
+EN: [OnSucceedAttackHead] Inflict 1 Bind next turn
+
+### 687 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 3 부여
+EN: [OnSucceedAttack] Inflict 3 Tremor
+
+### 688 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 4 부여
+EN: [OnSucceedAttack] Inflict 4 Tremor
+
+### 689 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 1 부여
+EN: [OnSucceedAttack] Inflict 1 Bind next turn
+
+### 690 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 진동 5 부여
+EN: [OnSucceedAttack] Inflict 5 Tremor
+
+### 691 (L60)  [] — 
+TOK: 
+KR: 먼 바다의 갈매기 울음 소리
+EN: Seagull Squawking Of The Distant Seas
+
+### 692 (L260)  [] — 
+TOK: \n
+KR: 적 사망 시 정신력이 가장 낮은 아군 1명의 정신력 1 회복\n적이 사망할 때마다 회복량 2 증가 (최대 9)\n웨이브 시작시 증가된 값 초기화
+EN: When an enemy is defeated, the ally that has the least SP heals 1 SP\nWhenever an enemy is defeated, the amount of SP healed increases by 2 (max 9)\nThe amount above is reset at the start of a new wave
+
+### 693 (L40)  [] — 
+TOK: 
+KR: 들끓는 부식
+EN: Effervescent Corrosion
+
+### 694 (LNone)  [] — 
+TOK: 
+KR: 홍루의 전용 EGO 장비
+REPEAT: 656 — inherit
+
+### 695 (LNone)  [] — 
+TOK: 
+KR: 들끓는 부식
+REPEAT: 693 — inherit
+
+### 696 (L40)  [] — 
+TOK: 
+KR: 걷는 진주
+EN: Ambling Pearl
+
+### 697 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] (탐식 공명 수/2)만큼 파열 부여
+EN: [OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)
+
+### 698 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 2 부여
+EN: [OnSucceedAttack] Inflict 2 Bind next turn
+
+### 699 (L120)  [] — 
+TOK: 
+KR: [BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1
+EN: [BeforeAttack] At 50%- HP, Atk Weight +1
+
+### 700 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttackHead] 다음 턴에 탐식 취약 2 부여
+EN: [OnSucceedAttackHead] Inflict 2 Gluttony Fragility next turn
+
+### 701 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 2 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 2 Bind next turn<style="highlight"></style>
+
+### 702 (L120)  [] — 
+TOK: \n
+KR: [BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1\n최대 체력의 25% 미만이면, 추가로 공격 가중치 +1
+EN: [BeforeAttack] At 50%- HP, Atk Weight +1;\nAt 25%- HP, gain an additional Atk Weight +1
+
+### 703 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 탐식 취약 2 부여
+EN: [OnSucceedAttack] Inflict 2 Gluttony Fragility next turn
+
+### 704 (LNone)  [] — 
+TOK: 
+KR: 들끓는 부식
+REPEAT: 693 — inherit
+
+### 705 (LNone)  [] — 
+TOK: 
+KR: 걷는 진주
+REPEAT: 696 — inherit
+
+### 706 (L120)  [] — 
+TOK: \n
+KR: [CantIdentify]\n본체 체력이 가장 낮은 대상 공격
+EN: [CantIdentify]\nTargets the unit with the least HP
+
+### 707 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] (탐식 공명 수/3)만큼 파열 횟수 증가
+EN: [OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)
+
+### 708 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 피해량의 20%만큼 자신의 체력 회복
+EN: [OnSucceedAttack] Heal 20% of damage dealt
+
+### 709 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 다음 턴에 속박 2 부여
+REPEAT: 698 — inherit
+
+### 710 (L120)  [] — 
+TOK: \n
+KR: [CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1
+EN: [CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1
+
+### 711 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 피해량의 30%만큼 자신의 체력 회복
+EN: [OnSucceedAttack] Heal 30% of damage dealt
+
+### 712 (L170)  [] — 
+TOK: \n
+KR: [CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1\n최대 체력의 25% 미만이면, 추가로 공격 가중치 +1
+EN: [CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1\nAt 25%- HP, additional Atk Weight +1
+
+### 713 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 피해량의 50%만큼 자신의 체력 회복
+EN: [OnSucceedAttack] Heal 50% of damage dealt
+
+### 714 (L40)  [] — 
+TOK: 
+KR: 녹색 진액
+EN: Green Slime
+
+### 715 (L160)  [] — 
+TOK: 
+KR: 피격 시 현재 체력이 최대 체력의 50% 미만이면, 공격자에게 파열 1 부여. (턴 당 가장 많은 탐식 완전 공명 수만큼 발동)
+EN: If struck at less than 50% HP, inflict 1 [Burst] on the attacker. (Activates (Highest Gluttony A-Reson) times per turn)
+
+### 716 (L40)  [] — 
+TOK: 
+KR: 낮은울음
+EN: Cavernous Wailing
+
+### 717 (LNone)  [] — 
+TOK: 
+KR: 홍루의 전용 EGO 장비
+REPEAT: 656 — inherit
+
+### 718 (LNone)  [] — 
+TOK: 
+KR: 낮은울음
+REPEAT: 716 — inherit
+
+### 719 (L40)  [] — 
+TOK: 
+KR: 울음 두꺼비
+EN: Blubbering Toad
+
+### 720 (L140)  [] — 
+TOK: 
+KR: 대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 20%)
+EN: If target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max 20%)
+
+### 721 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Vibration]
+
+### 722 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 467 — inherit
+
+### 723 (L290)  [] — 
+TOK: \n
+KR: 대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">25%</style>)\n<style="highlight">- 최대 공명 수가 4 이상이면, 대신 피해량 +(5 + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 35%)</style>
+EN: If target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">25%</style>)\n<style="highlight">- At 4+ highest Reson., deal +(5 + ([Vibration] on target + [Vibration] Count on target)/2)% damage instead (max 35%)</style>
+
+### 724 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 3, <style="highlight">[Vibration] 횟수 2</style> 부여
+EN: [OnSucceedAttack] Inflict 3 [Vibration] and <style="highlight">+2 [Vibration] Count</style>
+
+### 725 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]</style>
+EN: <style="highlight">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>
+
+### 726 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style="highlight"></style>
+REPEAT: 476 — inherit
+
+### 727 (L300)  [] — 
+TOK: \n
+KR: 대상에게 [Vibration]이 있으면, 피해량 +(<style="highlight">5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">30%</style>)\n- 최대 공명 수가 4 이상이면, 대신 피해량 +(<style="highlight">7.5</style> + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합/<style="highlight">1.5</style>)% (최대 <style="highlight">40%</style>)
+EN: If target has [Vibration], deal +(<style="highlight">5 +</style> ([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">30%</style>)\n- At 4+ highest Reson., deal +(<style="highlight">7.5 +</style> ([Vibration] on target + [Vibration] Count on target)/<style="highlight">1.5</style>)% damage instead (max <style="highlight">40%</style>)
+
+### 728 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 <style="highlight">3</style> 부여
+EN: [OnSucceedAttack] Inflict 3 [Vibration] and <style="highlight">+3</style> [Vibration] Count
+
+### 729 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]<style="highlight"></style>
+EN: [OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style="highlight"></style>
+
+### 730 (LNone)  [] — 
+TOK: 
+KR: 낮은울음
+REPEAT: 716 — inherit
+
+### 731 (LNone)  [] — 
+TOK: 
+KR: 울음 두꺼비
+REPEAT: 719 — inherit
+
+### 732 (L260)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 25%)\n- 최대 공명 수가 4 이상이면, 피해량 최대 수치가 35%로 증가
+EN: [CantIdentify]\nTargets randomly\nIf target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max 25%)\n- At 4+ highest Reson., raise the above cap to (max 35%)
+
+### 733 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count
+
+### 734 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 467 — inherit
+
+### 735 (L330)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">30%</style>)\n- 최대 공명 수가 4 이상이면, <style="highlight">대신 피해량 +(5 + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 40%)</style>
+EN: [CantIdentify]\nTargets randomly\nIf target has [Vibration], deal +(([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">30%</style>)\n- At 4+ highest Reson., <style="highlight">deal +(5 + ([Vibration] on target + [Vibration] Count on target)/2)% damage instead (max 40%)</style>
+
+### 736 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style="highlight"></style>
+
+### 737 (LNone)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]</style>
+REPEAT: 725 — inherit
+
+### 738 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.<style="highlight"></style>
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style="highlight"></style>
+
+### 739 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>
+EN: <style="highlight">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>
+
+### 740 (L340)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(<style="highlight">5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style="highlight">40%</style>)\n- 최대 공명 수가 4 이상이면, 대신 피해량 +(<style="highlight">7.5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/<style="highlight">1.5</style>)% (최대 <style="highlight">50%</style>)
+EN: [CantIdentify]\nTargets randomly\nIf target has [Vibration], deal +(<style="highlight">5</style> + ([Vibration] on target + [Vibration] Count on target)/2)% damage (max <style="highlight">40%</style>)\n- At 4+ highest Reson., deal +(<style="highlight">7.5</style> + ([Vibration] on target + [Vibration] Count on target)/<style="highlight">1.5</style>)% damage instead (max <style="highlight">50%</style>)
+
+### 741 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Vibration] <style="highlight">6</style>, [Vibration] 횟수 <style="highlight">6</style> 부여
+EN: [OnSucceedAttack] Inflict <style="highlight">6</style> [Vibration] and <style="highlight">+6</style> [Vibration] Count
+
+### 742 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]<style="highlight"></style>
+REPEAT: 729 — inherit
+
+### 743 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style="highlight"></style>
+REPEAT: 476 — inherit
+
+### 744 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style="highlight"></style>
+REPEAT: 476 — inherit
+
+### 745 (L40)  [] — 
+TOK: 
+KR: 우울감
+EN: Gloominess
+
+### 746 (L240)  [] — 
+TOK: 
+KR: 자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여. (턴 당 최대 3회, E.G.O 스킬 포함)
+EN: When this unit uses a Skill to trigger [VibrationExplosion] on an enemy, inflict 1 [AttackDown] and 2 [DefenseDown] on the enemy next turn. (3 times per turn, including E.G.O Skills)
+
+### 747 (L120)  [] — 
+TOK: 
+KR: [VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여
+EN: When triggering [VibrationExplosion], inflict 1 [AttackDown] and 2 [DefenseDown] next turn
+
+### 748 (L40)  [] — 
+TOK: 
+KR: 올가미
+EN: Lasso
+
+### 749 (LNone)  [] — 
+TOK: 
+KR: 홍루의 전용 EGO 장비
+REPEAT: 656 — inherit
+
+### 750 (LNone)  [] — 
+TOK: 
+KR: 올가미
+REPEAT: 748 — inherit
+
+### 751 (L40)  [] — 
+TOK: 
+KR: 장미 사냥꾼
+EN: Rose Hunter
+
+### 752 (L120)  [] — 
+TOK: 
+KR: 대상의 [Burst] 7 당 코인 위력 +1 (최대 2)
+EN: Coin Power +1 for every 7 [Burst] on target (max 2)
+
+### 753 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Snare] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Snare]
+
+### 754 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)
+EN: [OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)
+
+### 755 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 515 — inherit
+
+### 756 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Burst]
+
+### 757 (L220)  [] — 
+TOK: \n
+KR: <style="highlight">대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style="highlight">[BeforeAttack] 다음 턴에 [Agility] 2 얻음</style>
+EN: <style="highlight">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on target (max 2)\n<style="highlight">[BeforeAttack] Gain 2 [Agility] next turn
+
+### 758 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Snare] 2 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 2 [Snare]<style="highlight"></style>
+
+### 759 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)<style="highlight"></style>
+
+### 760 (L140)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 자신의 속도/2만큼 [Laceration]을 무작위로 공격 대상에게 나누어 부여 (최대 3)</style>
+EN: <style="highlight">[OnSucceedAttack] Randomly inflict [Laceration] equal to (this unit's Speed/2) between the targets (max 3)</style>
+
+### 761 (L140)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 자신의 속도/2만큼 [Burst]을 무작위로 공격 대상에게 나누어 부여 (최대 3)</style>
+EN: <style="highlight">[OnSucceedAttack] Randomly inflict [Burst] equal to (this unit's Speed/2) between the targets (max 3)</style>
+
+### 762 (L220)  [] — 
+TOK: \n
+KR: 대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음<style="highlight"></style>
+EN: If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn<style="highlight"></style>
+
+### 763 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 다음 턴에 [TakeHpHealReduce] 2 부여</style>
+EN: <style="highlight">[OnSucceedAttack] Inflict 2 [TakeHpHealReduce] next turn</style>
+
+### 764 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)<style="highlight"></style>
+REPEAT: 759 — inherit
+
+### 765 (L140)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 자신의 속도만큼 [Laceration]을 무작위로 공격 대상에게 나누어 부여 (최대 7)</style>
+EN: <style="highlight">[OnSucceedAttack] Randomly inflict [Laceration] equal to this unit's Speed between the targets (max 7)</style>
+
+### 766 (L130)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 자신의 속도만큼 [Burst]을 무작위로 공격 대상에게 나누어 부여 (최대 7)</style>
+EN: <style="highlight">[OnSucceedAttack] Randomly inflict [Burst] equal to this unit's Speed between the targets (max 7)</style>
+
+### 767 (LNone)  [] — 
+TOK: 
+KR: 올가미
+REPEAT: 748 — inherit
+
+### 768 (LNone)  [] — 
+TOK: 
+KR: 장미 사냥꾼
+REPEAT: 751 — inherit
+
+### 769 (L120)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)
+EN: [CantIdentify]\nTargets randomly\nCoin Power +1 for every 7 [Burst] on target (max 2)
+
+### 770 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Snare] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Snare]
+
+### 771 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 179 — inherit
+
+### 772 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Burst] Count
+
+### 773 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% (최대 20%)
+EN: [OnSucceedAttack] Deal +1% damage for every [Laceration] on target (Max 20%)
+
+### 774 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% (최대 20%)
+EN: [OnSucceedAttack] Deal +1% damage for every [Burst] on target (Max 20%)
+
+### 775 (L260)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n<style="highlight">대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style="highlight">[BeforeAttack] 다음 턴에 [Agility] 2 얻음</style>
+EN: [CantIdentify]\nTargets randomly\n<style="highlight">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on target (max 2)\n<style="highlight">[BeforeAttack] Gain 2 [Agility] next turn</style>
+
+### 776 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Snare] 3 부여<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict 3 [Snare]<style="highlight"></style>
+
+### 777 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 2 증가<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +2 [Laceration] Count<style="highlight"></style>
+
+### 778 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst] 횟수 2 증가<style="highlight"></style>
+EN: [OnSucceedAttack] Inflict +2 [Burst] Count<style="highlight"></style>
+
+### 779 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% <style="highlight">(최대 30%)</style>
+EN: [OnSucceedAttack] Deal +1% damage for every [Laceration] on target <style="highlight">(max 30%)</style>
+
+### 780 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% <style="highlight">(최대 30%)</style>
+EN: [OnSucceedAttack] Deal +1% damage for every [Burst] on target <style="highlight">(max 30%)</style>
+
+### 781 (L340)  [] — 
+TOK: \n
+KR: [CantIdentify]\n무작위 대상 공격\n대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n<style="highlight">[BeforeAttack] 탐식 또는 색욕 공명이 4 이상이면 공격 가중치 +1</style>
+EN: [CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n<style="highlight">[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>
+
+### 782 (L120)  [] — 
+TOK: 
+KR: <style="highlight">[OnSucceedAttack] 다음 턴에 [TakeHpHealReduce] 3 부여</style>
+EN: <style="highlight">[OnSucceedAttack] Inflict 3 [TakeHpHealReduce] next turn</style>
+
+### 783 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Laceration] 횟수 2 증가<style="highlight"></style>
+REPEAT: 777 — inherit
+
+### 784 (LNone)  [] — 
+TOK: 
+KR: [OnSucceedAttack] [Burst] 횟수 2 증가<style="highlight"></style>
+REPEAT: 778 — inherit
+
+### 785 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% (최대 30%)<style="highlight"></style>
+EN: [OnSucceedAttack] Deal +1% damage for every [Laceration] on target (max 30%)<style="highlight"></style>
+
+### 786 (L120)  [] — 
+TOK: 
+KR: [OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% (최대 30%)<style="highlight"></style>
+EN: [OnSucceedAttack] Deal +1% damage for every [Burst] on target (max 30%)<style="highlight"></style>
+
+### 787 (L40)  [] — 
+TOK: 
+KR: 사냥의 시간
+EN: Time to Hunt
+
+### 788 (L210)  [] — 
+TOK: 
+KR: [Burst], [Laceration] 피해로 적 또는 아군이 사망하면, 무작위 적 1명에게 [Snare] 2를 부여하고, 다음 턴에 [Agility] 1 얻음 (턴 당 1회)
+EN: If an enemy or an ally is killed due to [Burst] or [Laceration] damage, inflict 2 [Snare] against a random enemy, and gain 1 [Agility] next turn (once per turn)
+
+### 789 (L50)  [] — 
+TOK: 
+KR: 오혈읍루 [汚血泣淚]
+EN: Tears of the Tarnished Blood [汚血泣淚]
+
+### 790 (LNone)  [] — 
+TOK: 
+KR: 홍루의 전용 EGO 장비
+REPEAT: 656 — inherit
+
+### 791 (L60)  [] — 
+TOK: 
+KR: 오혈읍루 - 시[始]
+EN: Tears of the Tarnished Blood - Inception [始]
+
+### 792 (L40)  [] — 
+TOK: 
+KR: 응룡
+EN: Yinglong
+
+### 793 (L140)  [] — 
+TOK: \n
+KR: [CantDuel]\n대상 수비 스킬 무시\n이 스킬은 적에게 적중하지 않음\n[EndSkill] [DragonLance] 얻음
+EN: [CantDuel]\nIgnores the target's Defense Skill\nThis Skill does not hit an enemy\n[EndSkill] Gain [DragonLance]
+
+### 794 (L160)  [] — 
+TOK: \n
+KR: 이 스킬의 최종 위력만큼 자신이 고정 피해를 받음\n- 이 피해로 흐트러지거나 체력이 1 미만으로 감소하지 않음
+EN: This unit takes fixed damage by this Skill's Final Power\n- This damage does not Stagger or reduce this unit's HP below 1
+

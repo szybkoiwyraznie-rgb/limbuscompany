@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[key=D10110].texts[#3].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=D10111].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=D10111].texts[#2].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=D10111].texts[#5].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=D10111].texts[#6].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=D1011].texts[#0].speaker": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=D1013].texts[#0].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=D1021].texts[#27].text": {
+      "pl": "...?",
+      "kr_sha256": "be0c3978e6706e92c5ae017b61691752b2e2d218df5380fbfdf01dd020fa5704",
+      "en_sha256": "8169830f63907329bbd1b0996f91032b9e9c08b44d0f6194fc3f224de7aa5b7e",
+      "origin": "ai"
+    }
+  }
+}

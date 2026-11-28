@@ -1,0 +1,96 @@
+8641||PersonVoice#Voice_Heathcliff_Oufi_10708.json] …계약을 잘못 해석했나?|... Did I misunderstand the terms of the contract?
+8642||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 계약대로지.|As stipulated in the contract.
+8643||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 계약이 또 어그러졌나보지?|Another broken contract, eh?
+8644||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 마지막 경고였다, 그게. 지금부터는 계약 집행 방해의 죄를 물어서… 전부 패버린다!|That was your final warning. Now, as obstruction of contract execution has been observed, I am compelled to... beat the shite out of you all!
+8645||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 그럼, 지금부터 상호 입회 하의 계약 검토를 진행하겠다. 헛짓거리는 하지 말자고, 우리.|Now, we will proceed to review the contract with mutual attendance of both parties. Let's not do anything stupid and waste each other's time, yeah?
+8646||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 아침부터 보채지 좀 마라… 오늘 입회해야 할 계약 건만 다섯이라고. 아침은 좀 쉬게 해줘.|Quit naggin' me... it's only the morn. I've got five different contract attendances lined up today, so let me rest the morning away at least.
+8647||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 거기, 졸지 마라. 아직 제일 중요한 건을 확인하지 않았어. 나도 빨리 퇴근하고 자고 싶으니까, 업무에 협조해달라고…|You there, wake up. We haven't even gone over the most important clauses yet. Yeah, yeah. I want to head home as much as you do, so cooperate. Yeah?
+8648||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 다음으로 검토할 부분은… 미안하지만, 계약 진행 중에 취식행위를 하는 건 본 중개인이 용인할 수 없다. 점심은 이따가 먹어.|Next.. we will review... Please, as a participating intermediary, I cannot permit the attendees to consume food in the middle of a contract write-up. Get somethin' to eat later.
+8649||PersonVoice#Voice_Heathcliff_Oufi_10708.json] …침묵 또한 계약 검토를 불성실하게 참여하는 것으로 간주한다. 뭐라도 말해.|... Total silence may also count under negligence to properly review the contract. Say something.
+8650||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 외우피의 일은 계약의 중개와 입회. 그리고 그 계약을 이행하지 않으려 하거나 계약 자체에 훼방을 놓는 놈들을… 흥, 말을 듣게 하는 거지, 뭐.|The Öufi's primary field is mediating and observing contracts. If any poor sod refuses to carry out the terms, or obstructs the contract fulfillment... hmph, then we'll be forced to make them comply.
+8651||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 이 치렁치렁하고 답답한 옷은 그다지 마음에 들지는 않지만… 이런 것들이 계약을 집행하는 자의 권위를 상징한대나, 뭐래나.\n마음대로 벗을 수도 없으니 익숙해지는 수 밖에… 고급스러운 건 사실이고.|Can't say I enjoy this overly posh, uncomfortable clothing, but... these apparently represent the authority of the executors of a contract, or something along those lines.\nWell, since I can't be caught out of uniform... I suppose I'll have to get used to it. And it *is* quite posh.
+8652||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 외우피의 무기는 절단에 특화되어 있지. 계약이 이행되지 않거나, 규율을 어긴 자들을 처형하는 것이 중요하다고 하더라고.|Weapons of the Öufi specialize in amputation. It is an important part of our job to execute those that have failed to carry out the contract, or those who have broken any relevant regulations. Or so they say.
+8653||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 아… 뭐, 이렇게 됐다. 그러게 마음에 안 드는 일이 있으면 서면으로 항의해야지, 소리나 꽥꽥 지르면서 계약을 방해하면 쓰나.|Well... I suppose it is what it is. You should have submitted a formal complaint instead of screamin' and throwin' a tantrum before everyone else during the contract. That's obstruction.
+8654||PersonVoice#Voice_Heathcliff_Oufi_10708.json] 외우피가 주관하는 계약은 반드시 완수되어야 한다. 그것이 어긋나는 일은 있을 수 없어야 해. 어떤 계약이든 말이지.\n…누군가 피를 보는 약속이 되더라도.|A contract overseen by the Öufi, no matter the conditions, must be fulfilled. It cannot, and should not, fall through.\n...Even if it means that there must be blood.
+8655||PersonVoice#Voice_Heathcliff_Qui_10707.json] 으윽…|Aagh...
+8656||PersonVoice#Voice_Heathcliff_Qui_10707.json] 끊어놨어. 숨통. 죄다. 배로 이제, 돌아가자.|Killed everyone. Let's return. To ship.
+8657||PersonVoice#Voice_Heathcliff_Qui_10707.json] 들리지 않네, 심장 고동 소리. 모든 고래. 심장소리. 멈춰도. 있을까? 돌아갈 곳, 내가.|No more heart beating. Even when all Whale hearts stop beating... to where I return?
+8658||PersonVoice#Voice_Heathcliff_Qui_10707.json] 노을, 보고 싶네… 일렁이는… 하늘.|Miss the sunset... the shimmering... sky...
+8659||PersonVoice#Voice_Heathcliff_Qui_10707.json] 관, 짜야해. …보내줘. 관에 넣어. 내 몸만은. 캐시에게. 언젠가…|Must build coffin. Send me away. Put me in the coffin. So at least my body... finds way back to Cathy. One day...
+8660||PersonVoice#Voice_Heathcliff_Qui_10707.json] 꽂아 넣어.|Stab deep.
+8661||PersonVoice#Voice_Heathcliff_Qui_10707.json] 느려졌네, 저거. 맞추기, 쉽군.|That one. Slowed. Easy target.
+8662||PersonVoice#Voice_Heathcliff_Qui_10707.json] 가까워진다, 항해의 끝.|End of voyage. Nearing.
+8663||PersonVoice#Voice_Heathcliff_Qui_10707.json] 다시 묶어줄까? 절박매듭.|Want me to tie knot again? Desperate's Knot?
+8664||PersonVoice#Voice_Heathcliff_Qui_10707.json] 가자, 죽이러.|Let's go. Let's kill.
+8665||PersonVoice#Voice_Heathcliff_Qui_10707.json] 이런 건, 못해. 다른 사람이, 잘하겠지. 더.|Can't do it. Someone else can do better.
+8666||PersonVoice#Voice_Heathcliff_Qui_10707.json] 해냈어, 해결.|Did it. Job done.
+8667||PersonVoice#Voice_Heathcliff_Qui_10707.json] 밧줄, 단단히 묶어라.|Rope. Knot tight.
+8668||PersonVoice#Voice_Heathcliff_Qui_10707.json] 왔군, 때가. 고래를, 죽이고. 심장을, 터트리고. 나갈 때.|It is time. Time to kill the Whale. To destroy the Whale-heart. Time to escape.
+8669||PersonVoice#Voice_Heathcliff_Qui_10707.json] 밧줄. 꽉 잡아라. …가라앉기 싫으면.|This rope. Hold on tight. ... Or sink.
+8670||PersonVoice#Voice_Heathcliff_Qui_10707.json] 해가 떴다. 해야 할 일들을 시작해라. 성실, 하게.|Sunrise. Time to start work. Work hard.
+8671||PersonVoice#Voice_Heathcliff_Qui_10707.json] 밤은, 좋지. 밤이 오면, 노을도 오니까. 그리고, 덮어져. 내 몸도, 문신도.|Nights are good. Sunset comes, before night comes. Shadow covers my body. Covers my tattoos.
+8672||PersonVoice#Voice_Heathcliff_Qui_10707.json] 인어 지느러미살, 육포. 맛있는데. 너희는. 별로인가, 그렇게?|Mermaid fin jerky. Good nosh. What, not good enough for you?
+8673||PersonVoice#Voice_Heathcliff_Qui_10707.json] (작살을 갈고 매듭을 묶는 소리)|(Sounds of whetting a harpoon and tying ropes to it)
+8674||PersonVoice#Voice_Heathcliff_Qui_10707.json] 이건… 창피야. 내 껍질에, 직접 새겼던. 지우고 싶지만, 지울 수 없는.|This... is shame. Engraved it myself, on my skin. Want to erase. But can't erase.
+8675||PersonVoice#Voice_Heathcliff_Qui_10707.json] 숨어 있어. 내 말 속에도, 낙인이. 중지가. 그래서 헤집어 놓았어. 뇌와 혀를, 직접.|The Middle branded my tongue. My speech. So I cut them up. Cut up my brain and my tongue. Did it to myself.
+8676||PersonVoice#Voice_Heathcliff_Qui_10707.json] 이 매듭, 중지에서 썼어. 자주. 절박매듭. 풀리지 않지, 웬만한 일에는.|This knot, called Desperate's Knot. Used in the Middle. Hard to undo.
+8677||PersonVoice#Voice_Heathcliff_Qui_10707.json] 작살잡이는, 고래를 죽여. 고래를 죽이면, 끝낼 수 있겠지. 이 항해.|Harpooneers kill Whale. Kill the Whale... and it'll be over. This voyage.
+8678||PersonVoice#Voice_Heathcliff_Qui_10707.json] 선장 명령, 어긴 적 없지. 항상. 하지만, 아닌 것 같다. 내가 가려는 방향. 다르거든. 이제는, 알고 싶어. 내가 가고 싶은 방향.|Never broke Captain's orders. Never. But no more. My way. Not her way. It's different now. Now... want to know my path.
+8679||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 외로웠나? 벌써부터 죽어버리게.|Kicked it already? Were you getting lonely or what.
+8680||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 하…!|Hah…!
+8681||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 어때? 끝내주게 강하고 믿을 수 없이 빨랐지?|How’s that? Remarkably strong and unbelievably fast, eh?
+8682||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 근육이 신나서 날뛰는군. 더 해치울 거 없어? 난 이제 시작인데!|My muscles are quivering with excitement. Got anyone else to scuffle? I’m just getting started!
+8683||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 쉴 시간 따위 없어. 바로 다시 간다!|No time for rest. We’re going right back in!
+8684||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 깡총!|Hop on!
+8685||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 더 날뛰어보라고!|Go on and get wild for me!
+8686||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 후, 씹는 맛이 있는데.|Huff, that feels good to chew.
+8687||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 화끈한 계획이라도 생각난 거야?|Got some sort of bombastic plan?
+8688||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 싱싱한 풀이 보이네!|I spy with my eyes a fresh patch of grass!
+8689||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 난 시키는 대로 했어. 불만은 상부에 찌르라고.|I was following the orders. You can say your complaints to the high heid yins.
+8690||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 샐러드 먹는 것만큼 쉽구만.|Easy as salad.
+8691||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 자, 풀 뜯을 시간이다.|Right, time to graze some grass.
+8692||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 그래, 진작 이랬어야지!|Alright, now that’s what I like to see!
+8693||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 깡총깡총… 뛰면서… 토끼가 왔다. 다 쳐부수러!|Hippity-hop… Out on a bop… The rabbit hops in. To smash it to bits!
+8694||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 뭐? 새벽에 세수하러 온 토끼 처음 보냐?|What? Never seen a hare up early to wash his face before?
+8695||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 이래 보여도 난 야행성이야. 어둠은 날 더 날뛰게 해준다는 뜻이지.|I may not look it, but I’m a nocturnal creature—means the dark spurs me further.
+8696||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 어디 괜찮은 작전 없나? 생각만 해도 피가 돌고 눈이 붉어질 것 같은… 그런 화끈한 작전 말이야.|Got any good missions for me? The kind that gets the blood pumping and eyes fierce… One of those exciting ones.
+8697||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 그거 알아? 토끼는, 귀도 밝아.|Did you know? A rabbit’s got good ears, too.
+8698||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 이봐! 가만히 앉아서 시시껄렁한 수다나 떨 시간에 임무나 하나 더 보내줘.|Oi there! If you’ve got time for silly chinwags, send me on a mission instead.
+8699||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 난 토끼야. 풀이 있는 곳이라면 어디든 가서 전부 해치워 버리지.|I’m a rabbit. I go anywhere with grass to graze.
+8700||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 토끼가 약하다고 누가 그러지? 굶주린 토끼 떼들을 만나면 무슨 일이 일어나는지, 본 적 있어?|Who says rabbits’re weak? Ever seen what happens when you try to fight a horde of starving coneys?
+8701||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 혹시 내가 싸우다가 형씨까지 공격하더라도 너무 원망하지는 마. 토끼의 습성이니까.|Don’t get too bitter if I wallop you while I’m fightin’, mate. It’s in the rabbit’s nature.
+8702||PersonVoice#Voice_Heathcliff_RCorp4_10703.json] 그 시계 대가리 좀 쓸만한 거 같은데, 같이 토끼 팀이 되어서 뜀박질해 볼 생각은 없어?|That clock of yours seems pretty useful, so why don’tcha join the Rabbit Team and hop with me?
+8703||PersonVoice#Voice_Heathcliff_Seven_10706.json] 큭…|Kah...
+8704||PersonVoice#Voice_Heathcliff_Seven_10706.json] 결국 이번에도 내 삘이 맞았지? 나도 쓸만한 머리다, 이거야!|I was right on the money in the end, weren't I? I'm no nitwit, I'll have you know!
+8705||PersonVoice#Voice_Heathcliff_Seven_10706.json] 이것까지가 내 직감이었어. 이번에도… 틀리진 않았지?|And that's as far as my intuition will carry me. I'm not wrong again... am I?
+8706||PersonVoice#Voice_Heathcliff_Seven_10706.json] 아… 이상한… 데. 이런 패턴일… 리가.|Ah... That's... odd. That deviates... from the patterns.
+8707||PersonVoice#Voice_Heathcliff_Seven_10706.json] 사후 처리를 하는 과정에서 망할 줄은 몰랐는데… 이런 결론을 떠올린 게 아니었다고.|Bloody hell, I didn't expect things to go cock-up in the post—contract management... This isn't at all how I thought it'd go.
+8708||PersonVoice#Voice_Heathcliff_Seven_10706.json] 너냐?!|Is it you?!
+8709||PersonVoice#Voice_Heathcliff_Seven_10706.json] 휘청거리기는.|Reeling, are you?
+8710||PersonVoice#Voice_Heathcliff_Seven_10706.json] 그래, 얘는 처리했고.|Right, so that one's taken care of.
+8711||PersonVoice#Voice_Heathcliff_Seven_10706.json] 어? 왜. 이 놈이 아냐? 그럴리 없는데.|Huh? What. It's not him? No way.
+8712||PersonVoice#Voice_Heathcliff_Seven_10706.json] 사건을 끝내러 가볼까?|Let's go solve this case, yeah?
+8713||PersonVoice#Voice_Heathcliff_Seven_10706.json] 아니라고…? 그럴리가, 내 감으로는…|It's not? No way. But my hunch...
+8714||PersonVoice#Voice_Heathcliff_Seven_10706.json] 흥, 이런 걸 줄 알았지.|Hmph, I knew it.
+8715||PersonVoice#Voice_Heathcliff_Seven_10706.json] 사후 처리로구만.|A post—contract management, is it?
+8716||PersonVoice#Voice_Heathcliff_Seven_10706.json] 아. 어. 잠깐만. 지금 단서가 막 이어지려고 해. …그게 그래서 그런거였나… 이따 얘기해. 어.|Ah. Uh—huh. Hold that thought. I'm starting to connect the dots. ...Ahh, so that's how that happened... Right. We'll chat later. Uh—huh, cheers.
+8717||PersonVoice#Voice_Heathcliff_Seven_10706.json] 현장 자료들을 볼 때 이번 사건에 대한 결론은… 아, 생각했었는데! 기다려봐.|All evidence points to the conclusion that this case was... Agh, bloody hell, I almost had it! Wait a moment.
+8718||PersonVoice#Voice_Heathcliff_Seven_10706.json] 아침부터 거치적거리지 마라. 한창 머리 돌리고 있어서 예민하니까.|Don't disturb me this morning. I'm trying to wrap my head around this case, and I don't want any disruptions.
+8719||PersonVoice#Voice_Heathcliff_Seven_10706.json] 야근을 내가 하고 싶어서 하겠냐. 그냥… 이걸 지금 끝맺어 놓지 않으면 잠이 안온다고. 신경 쓰이는게 너무 많으니까.|I'm not here because I want to be here. It's just... I can't get a wink of sleep before this case is wrapped up. Otherwise, it'll nag at the back of my mind all night.
+8720||PersonVoice#Voice_Heathcliff_Seven_10706.json] 차… 아니, 점심이니까 마시고 싶긴 한데. 당연히… 하, 지금은 거기 가기 좀 그래. 자꾸 결론이 늦어져서 눈치 보인다고.\n카운터 너머에서 쏘아볼 눈을 생각하면… 으.|Tea...? Well, it's midday, so I wouldn't mind a cuppa, but... Haah, it's a bit awkward to go there at the moment. I'm long overdue for the conclusion of this case, and I don't want the cafeteria lass givin' me the glares over the counter.
+8721||PersonVoice#Voice_Heathcliff_Seven_10706.json] 그러니까… 그게 그렇게 되어서… 하, 이 새끼들 봐라?|So... that's how it— Haah, would you look at that.
+8722||PersonVoice#Voice_Heathcliff_Seven_10706.json] 프로파일러 같은 거창한 말로 부르지 마라… 내가 하는 건 그리 대단한 것도 아냐. 그냥 이런 저런 흔적들을 보고 직감으로 추측하는 것 뿐이지.|Don't call me a profiler or some other grand title. I'm doing nothing fancy... I just make conjectures based on junk I find here and there.
+8723||PersonVoice#Voice_Heathcliff_Seven_10706.json] 하… 완벽한 확신이 있는 건 아니지만… 이 새끼 굴러먹던 거 생각하면 무조건 이 놈들이 노릴거라고.\n…아, 방금 새끼라고 한 건 고객님한테 한 말 아니다? 아무튼 아니라고.|Haah... Can't say I'm absolutely certain, but look at his records. I reckon this wanker's already got a target on his back.\nUh, did I just—no, no. I didn't just refer to our client as 'this wanker'. Shut up, I didn't.
+8724||PersonVoice#Voice_Heathcliff_Seven_10706.json] 쯧. 사건에 대한 결론을 내놓는 것 보다 그걸 글로 만들어 내는게 더 어렵단 말이지.\n내가 생각하는 걸 떠들면 깔끔하게 문장으로 만들어주는 놈이 있음 좋겠는데.|Tsk. You know what's harder than drawing conclusions about a case? Writing the follow—up report.\nIf only some bloke could organize my thoughts into a neat report as I narrate them.
+8725||PersonVoice#Voice_Heathcliff_Seven_10706.json] 뒷처리… 아니, 사후 처리에 대한 의뢰는 역시 우리 쪽에 맡기는게 좋네. 내 추측이 정말 맞았는지 확인도 할 수 있고…\n감정이입 했던 만큼 저 놈들을 쳐죽여줄 수도 있고.|I think we're pretty good at this shi—I mean, post—contract management. I can also confirm if my predictions were right...\nBesides, I get to smash some heads. I got pretty invested in the case over the course of this investigation, you know.
+8726||PersonVoice#Voice_Heathcliff_Seven_10706.json] 이런 것들 처리하는 일이 당연히 훨씬 쉽지. 머리 쓸 일도 없잖아. 뭐… 그렇다고 사건 분석하는게 싫은 건 아니고. 나름 재밌어. 이것도.|Of course, taking care of these idiots is a much easier job. I don't even need to use my brain. Well... not that I dislike case analyses. That's got its own charms.
+8727||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 실력도 없는데 드러내고 다니니 그러지.|Shouldn’t be out in the open if you don’t have the skills to handle it.
+8728||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 쳇…!|Tch…!
+8729||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 이 정도야 기본이지. 또 찌를 거 없냐?|This was simple. Anything else for me to stab?
+8730||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 다 내 먹잇감들이었지.|They were all prey to me.
+8731||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 아직 내 칼은 안 끝났어! 형씨, 한 번 더 가자고!|My sword says it ain’t done yet! Mate, we’re going back in!
+8732||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 그래, 베러 가자!|Aye, I’ll go cut ‘em!
+8733||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 어때, 죽을 것 같지?|How’s that? Hurts to death, don’t it?
+8734||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 타겟, 제거~|Target wiped~
+8735||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 그래, 누굴 조지면 되는 거야?|Alright, who do you want me to scrap?
+8736||PersonVoice#Voice_Heathcliff_ShiAsso4_10702.json] 그냥 눈에 보이는 거 다 박살 내면 되는 거지?|Just have to crush everything I see, aye?

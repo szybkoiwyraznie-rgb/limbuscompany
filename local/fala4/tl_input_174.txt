@@ -1,0 +1,96 @@
+16920||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 다시 한 번 5층에 도착했다.|We are on the fifth floor once again.
+16921||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <마침내… 여기까지 왔네.>|<We're... finally here.>
+16922||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 허, 이렇게 재회할 줄은 몰랐는데…|Huh... Not quite the reunion I had in mind...
+16923||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 우리가 온 것을… 눈치채진 못한 것 같소. 그저 계속… 계속 먹기만 하고 있구료.|It would seem our arrival has gone... unperceived. The feast persists still, with nary a pause to mark our presence.
+16924||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 운명에서, 정해진 결말에서 벗어난 후에 기억을 되찾은 그레고르와 이상이 착잡한 표정으로 앞을 바라본다.|Now that we had broken free of fate and of the predetermined ending, the Sinners had regained their memories in this place. Gregor and Yi Sang regards the sight ahead of us sadly.
+16925||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 우리가 뿌이라 부르던, 마지막엔 뷔페라 이름을 밝히고 백화점을 모두 뜯어먹은 존재.|At the end of Gregor and Yi Sang's troubled gaze was the being we had once called Pwie—or "Buffet," as they had revealed their name. The being who had devoured the entire department store in the previous loop.
+16926||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <우리가 신부에게 잡혀있는 시간 동안… 르루주가 승리한 것 같아.>|<Looks like the Rouges won while the Chaplain had us trapped.>
+16927||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <신부가 르누아르의 목소리였다면… 그들도 혼란스러운 상태였을 테니, 오히려 더 쉽게 차지했을지도.>|<If the Chaplain is indeed the Voice for the Noirs... His absence must have thrown the Noirs into disarray and made things easier for the Rouges.>
+16928||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 규율이 무너진 백화점에서, 뿌이는 5층까지 올라와 그때와 같이 모든 걸 남김없이 먹어 치웠다.|With the Grand Magasin's rules broken, Pwie had reached the fifth floor and eaten everything in sight, just as before.
+16929||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하지만 그 모습은 이전 결말에서 봤던 모습과는 다르게…|But unlike the figure we had seen in that earlier ending...
+16930||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 비대해지지도 않았고 오히려 완숙해진 위압감을 뿜어내고 있다.|They had not grown bloated like a termite queen. Instead, their presence felt all the more imposing, as though they had come fully into their own.
+16931||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 이방인들이군. 하지만… 익숙해. 기억에 있는 자들…|Strangers, yet... familiar. Faces from my memory...
+16932||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뫼르소의 부름에 뿌이가 천천히 고개를 들어 우리를 바라본다.|Pwie slowly turned to look at us.
+16933||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …그것은 내 이름이 아니다.|... That is not my name.
+16934||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 나는 뷔페. 르루주의 새로운 목소리…|I am Buffet, the new Voice of Le Rouge...
+16936||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하지만… 우리에게 너는 뿌이라 불렸다.|However... you were Pwie to us.
+16937||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 말에 뿌이는 흥미라도 느낀 듯이, 천천히 음식을 먹던 손을 내려놓았다.|Pwie slowly lowered the food in their hands, as though Meursault's words had stirred an interest in them.
+16938||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …이거 보아하니 기억 못하는 거 같은데?|... Doesn't look like they remember us, does it?
+16939||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <뿌이도 재고 정리 이전을 기억하고 있었어. 그렇다면 지금도 우리를 기억하고 있어야…>|<Back then, Pwie remembered what happened before the Liquidation—when the Noirs gained the upper hand. Which means they should still remember us...>
+16940||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …우리와 달리 그 모든 시간을 온전히 느꼈다면, 망각했을지도 모르오. 혹은 감정이 퇴색되었거나.|Unlike ourselves, they may have had to bear witness to every minute, every second that passed within that interval. Perhaps those memories have since been consigned to oblivion... or perhaps the sentiments once bound to them have simply faded in color.
+16941||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뿌이… 아니 뷔페. 우리는 이 앞을 지나가야 한다.|Pwie... no, Buffet. We must pass through.
+16942||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그럴 수는 없다. 이곳은 만찬을 즐기는 장소.|You cannot. This is a place for feasting.
+16943||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 이 모든 것을 먹을 때까진… 머물러 있어야 한다.|You must remain... until all has been consumed.
+16944||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그럴 수는 없다. 우리는, 여기서 나가야 하기에.|We cannot. We must leave this place.
+16945||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …그렇다면 섭취할 수밖에 없겠군.|... Then I have no choice but to consume you.
+16946||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 이제… 더 이상, 허기지지 않아도 된다.|You don't have to be hungry... anymore.
+16947||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <…이건.>|<... What's this?>
+16948||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하얀 식탁보 위로 여러가지 접시들이 놓인다.|An assortment of dishes is laid out on the table, which is covered with a white tablecloth.
+16949||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 보나페티! 코스 요리야.|It's a full-course meal. Bon appétit!
+16950||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 저것들이 5층을 넘지 못했던 이유는…|The reason those things never made it past the fifth floor...
+16951||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 시지프 백화점 레스토랑의 매너를 지키지 않아서였어.|... was that they wouldn't mind their manners in the Restaurant of Grand Magasin Sisyphe.
+16952||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 알다시피, 레스토랑에서는 문명적인 식사를 해야 하잖아? 야만적인 섭취가 아니라.|You know restaurants call for civilized dining, right? Use the right utensil, put on airs, and all that. Dine, not <i>consume</i> like some starved troglodyte.
+16953||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 순서도 모르고, 기다릴 줄도 모르고, 맛이 남기도 전에 다음 걸 우겨넣는 건, 식사가 아니지!|What not to do when dining... Let's see, not knowing what the next course is, not wanting to wait, stuffing in the next mouthful before you've even had the time to properly taste the last bit... Nope, that's no way to dine!
+16954||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 너희는, 백화점에 들어와서 온갖 욕망을 지닌 자들을 보았지.|You must've met people with all sorts of desires here in the Grand Magasin.
+16955||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 백화점을 지키려는 르누아르들과, 백화점을 고갈시키려는 르루주들. 그리고 옷을 소비하는 것에만 관심 있는 르카키들. 추가적으로, 백화점의 햇빛을 느끼며 숨어있는 르네앙까지.|The Noirs want to preserve the department store. And the Rouges, of course, want to bleed it to depletion. There are the Kakis, interested in nothing but consuming more clothes. Next, for good measure, the Néants, who hide away to bask in the sunlight.
+16956||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 너희는 르누아르들로부터, 그들이 지키려는 가치에 대해 들었지.|The Noirs told you about the values they were trying to protect.
+16957||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그리고, 그들이 기뻐할 만한 소식을 전했어. 르루주의 목소리가 영영 들리지 않게 되었다는 사실을.|And you brought them some lovely news—that the Rouge's Voice had been silenced for good.
+16958||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 중에 그 목소리의 주인을 죽인 장본인이 있다는 것은… 우리만의 비밀로 둘게.|As for one of you being the culprit of that heinous murder... let's keep that our little secret, shall we?
+16959||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 위기를 느꼈던 르루주들이 오래전부터 계획하고 있던 것이 있었지. 자신들의 손으로 새 목소리를 빚는 것. 목소리가 없으면, 견딜 수가 없는 것들이니.|Anyway, that gave the Rouges a huge danger warning, so they've all been "scheming" for a long time. The plan was to birth a new Voice, molded with their own hands. They simply can't bear to go without one, after all.
+16960||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하지만 르누아르들은 너희를 통해 그 계획을 짓밟았어.|The Noirs used you to crush that little plan underfoot.
+16961||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 르루주들의 소망은 찢겼고 그 안에서 기어 나온 것은 제대로 말도 내뱉지 못한 채로 도로 잠들어버렸지.|The cradle of the Rouge's hope was torn apart, and what crawled out there went back to sleep again before it could even learn to get a proper word out.
+16962||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그렇게 르누아르들은 백화점에서 바라는 영원을 지켰어. 완벽한 정지. 아무것도 변하지 않고 아무것도 태어나지 않는.|That's how the Noirs brought the eternity they so wished for into this department store. Perfect stillness—with nothing ever changing, nothing being born.
+16963||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 천천히 식고 영원히 굳어가는 이 수프처럼.|Just like this soup. Slowly cooling and forever congealing until it becomes a solid mass.
+16965||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 이어서 다음 접시가 놓였다.|Another dish was set down before us.
+16966||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 먼저, 수프. 오래 고아서 걸쭉하고 진해. 겉은 잔잔한데, 한술 뜨면 바닥에 가라앉아 있던 것들이 묵직하게 딸려 올라와.|Now, for starters: the soup. It's been simmering long enough for everything inside to melt together into something wonderfully thick and rich. The surface looks pristine and smooth, but stir your spoon a little, and everything that's been lying at the bottom comes swirling right back up.
+16967||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 백화점은 되돌아갔어. 너희도 1층에서 다시 시작했지. 바보 같은 시계 머리는 이런 생각을 떠올렸을 거야.|What happened in the aftermath was that the Grand Magasin was reverted to the beginning, and so were you, forced to start over from the first floor. And if I'm to hazard a guess as to what your silly clockhead must've had in its mind...
+16968||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 다른 선택을 하면, 다른 결과가 올 거라고.|... It probably thought that a different choice would bring a different result.
+16969||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그래서 이번에는, 르루주의 손을 잡았지. 그들의 소망을 이루어 주고, 르루주가 절실하게 바라는 피조물이 태어나도록 도왔어.|So this time, you threw in your lot with the Rouges. Granted their wish. Helped bring the creature they so desperately wanted into their world.
+16970||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그것뿐이야? 이름까지 붙여줬지. 신발을 신기고 옷을 입히며, 5층까지 무사히 올라갈 수 있도록 해주었어.|And did you leave it at that? Of course not. You gave the thing a name. Put shoes on its feet and clothes on its back. You even saw it safely up to the fifth floor.
+16971||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 덕에… 그것은 자격을 얻어 마침내 5층, 이 자리까지 왔지.|Thanks to you... it finally earned its place to be here—the restaurant of the fifth floor.
+16972||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하지만 그것 또한 백화점의 고갈을 바라는 르루주일 뿐.|Aww, but what you'd placed your hope in for the second time was nothing more than a Rouge in the end. An entity that wanted to consume the Grand Magasin to the point of depletion.
+16973||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 모든 것을 먹어 치우고 백화점은 뼈만 남았네? 멈출 수 없는 배고픔만을 깨달으면서.|It ate everything. Left the department store stripped to the bone... only to learn that its hunger will never ever be sated.
+16974||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 자 이제…|All right, then...
+16975||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 두 번째, 애피타이저.|The appetizer.
+16976||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 이건 배를 채우는 게 아니라, 손님들이 배가 고프다는 걸 깨닫게 만드는 요리야.|This isn't to fill your stomach, by the way. It's a morsel of food served to remind the customers just how hungry they are.
+16977||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 백화점은 얄궂게도 다시 한번 재고를 정리했지.|The Grand Magasin, unfortunately for you, decided to go through with another Liquidation.
+16978||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그동안 백화점에는 시스템적으로 아주, 아~주 많은 시간이 흘렀고…|Meanwhile, a very, veeeery long time had passed in the system of the Grand Magasin...
+16979||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 르누아르의 목소리가 들리지 않는 사이, 르루주는 승리를 거머쥐었어. 르루주의 피조물은… 이전과 같이 본능이 향하는 대로 5층에 자리를 잡았고.|Le Noir's Voice had gone quiet during that time, and Le Rouge claimed victory. Their creation... settled on the fifth floor, following its instincts just as before.
+16980||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 피조물은 인공적으로 만들어졌어도 이 시스템 안에서는 신이긴 하니까 너희와의 기억을 가지고 좀 더 영리하게 백화점을 장악한 것 같아. 자기가 비대해져 추해지는 최후까지도 막았고.|Artificial or not, it was still a god within this system. Seems it used its memories with you to take over the department store a little more cleverly. Even spared itself that ugly, bloated end form or whatever it is.
+16981||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 푸핫. 그리고 뒤따라온 너희가 다시 그 숨을 끊었네? 참 질기고 고된 길이야. 그렇지 않아?|Haha! Here's the funny part: along you came next and snuffed out its life again, just like you did the first time! What a long, clingy path to walk. Wouldn't you agree?
+16982||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 누가 의체를 달고 있는 멍청이 아니랄까 봐, 너희는 여전히 갈피를 못 잡더라고.|And in your infinite wisdom that led you to drill that subhuman prosthetic into your spine, you've figured out... precisely nothing!
+16983||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 르누아르도, 르루주도 아니라면, 무엇을 어떻게 바꿔야 하지?|The big question was, if neither Le Noir nor Le Rouge was the answer, then just what exactly were you supposed to change, and how?
+16984||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 보다 못한 이 자비로운 거인은 힌트를 줬어.|Being a merciful Giant, I couldn't stand to watch your stupidity any longer. So I gave you a hint.
+16985||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 같은 거인을… 해치는 것이었지.|To kill... a fellow Giant.
+16986||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 말이 심하네! 어차피 여긴… 실재하는 세계도 아니잖아?|Hey, that's way too harsh, don't you think? It's not as if this world... actually exists.
+16987||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 여기서 죽어봤자, 고객들이랑 다르게 거인의 아바타가 죽더라도 현실에서 좀 무리가 갈 뿐이야.|Unlike the customers, when a Giant's avatar dies here, all it does is put a little strain on us in the real world.
+16988||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 목숨이 보장되지 않는 직장에 누가 제 발로 출퇴근을 하겠어? 참고로 블랙 조크야. 못 알아챘을까 봐.|I mean, who'd willingly clock in at a job that couldn't even guarantee the employees would live to clock out, right...? Just a joke with a touch of dark humor, by the way. In case you numbskulls took it seriously.
+16989||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 무엇보다… 신부가 그렇게 무리할 줄은 몰랐어. N사의 엘리트… 우수사원이었다니까, 하여튼.|Besides... I didn't know the Chaplain would push himself that far. N Corp.'s model employee, that one. Honestly.
+16990||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그렇게 해서… 너희는 마침내 간수를 없애고, 백화점을 규칙으로부터 풀어놓았지.|Anyhow, in the end... you finally managed to get rid of the Warden and unshackled the Grand Magasin from its rules.
+16991||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그러니 이제 남은 건…|And that leaves us with...
+16992||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 조그만 접시가 놓인다.|A small plate was set down on the table.
+16993||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 메인 요리야. 이것저것 덧붙일 필요 없어.|Time for the main course, of course! No need to dress it up with all the trimmings.
+16994||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 제일 오래 걸리는 요리이고, 코스의 하이라이트니까.|It's the dish that takes the longest to cook. The highlight of a full-course meal.
+16995||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 디저트. 코스요리의 마무리이자, 마침표.|The dessert. The meal's finale. Its full stop.
+16996||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 덕분에 내가 손 쓸 일이 확 줄어 버리긴 했지.|Saved me a great deal of legwork, I'll give them that.
+16997||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 거인들은 모두… 세상을 무서워하는 자들이다.|The Giants... are all people who fear the world.
+16998||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 당신 또한, 마찬가지겠군.|You must be the same.
+16999||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 맞아. 지금도 무서워서 매일 벌벌 떨고 있어. 보여? 내 심장이 덜덜 떨리는 거?|Exactly. Scared out of my wits every single day—even now. Can you hear it? See my poor heart trembling?
+17000||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 요리는, 마지막 맛으로 기억되는 법인 거 알지?|You do know that the memory of a full-course meal is always defined by the finishing dish, right?
+17001||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 당신은… 백화점을 충실하게 운영해야 할 의무가 있는 거인이다.|You... are a Giant, who is obliged to administer this department store faithfully.
+17002||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 왜 우리가 백화점의 꼭대기로 올라가는 것을 도와주는 거지?|Why are you helping us reach the top floor?
+17003||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 맞아, 나는 거인이야. 그것도 이곳에서 제일 열심히 일했던 거인.|You're right. I'm a Giant. The hardest-working Giant this place has ever had, in fact.
+17004||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 다른 세명이 방에서 마이크나 붙들고 있을 동안, 나는 아예 여기서 살다시피 했거든. 야근 비율을 따지자면 내가 제일 높아. 수당은… 안 나왔지만.|I practically <i>lived</i> across these floors while the other three sat in their rooms clutching microphones. Nobody else put in more overtime than I did. Well, unpaid overtime... that is.
+17005||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 백화점을 떠받쳐야 하는 우리 거인들은… 서로에게 직접 해를 끼치기 어려워. 서로가, 서로를 감시하고 있거든.|You see, we Giants have to hold up the Grand Magasin together... which makes it difficult for us to cause direct harm to one another. We're all keeping an eye on each other.
+17006||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그래서 내게 필요했던 건… 외계로부터 들어오는 변수였어. 향하는 목적만 같다면 난 그때그때 맞춰서 친구도, 요리사도 되어줄 수 있거든. 친화력이 좋아서.|So what I needed... was a variable from the outside world. I don't mind playing friend or chef as the occasion demands, so long as our purposes align. I'm a people person.
+17007||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 너희도 그렇잖아. 이곳을, 너희만의 힘으로 정석대로 들어오진 않았을 테니까.|You're no different. You didn't get in here entirely on your own, did you? And certainly not via the "normal" route.
+17008||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 너희를 눈 여겨 보는 자들이 나 말고도 많더라? 화장실에 나타난 그자도 그렇고.|Quite a few others have taken an interest in you, you know. That one in the restroom, for a start.
+17009||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뫼르소는 식사를 끝내고 식기를 내려놓았다.|Meursault finished his meal.
+17010||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그러자, 막혀있는 공간 사이로 6층으로 가는 길이 열렸다.|Once he laid down the utensils, a path to the sixth floor opened through the space that had been barring our way.
+17011||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 브라보! 완벽한 코스였어.|Bravo! Can I get a "compliments to the chef"?
+17012||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 다시 보게 된다면 그땐 정말 목을 딸 수 있기를.|Here's hoping we can finally get to the "off with your head" stage the next time we meet!
+17013||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 손을 힘차게 흔드는 크로머의 배웅을 받으며… 우리는 6층으로 올라가기로 했다.|We left the table to ascend to the sixth floor, with Kromer waving us off as enthusiastically as ever.
+17014||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 자~ 오래 기다리셨습니다.|*hums* All right~ Here we are! You've all waited <i>so</i> patiently.
+17015||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 이건 나한테 하는 말이기도 해. 나 진짜 많이 기다렸거든. 미치기 일보 직전이었어.|That goes for me, too, by the way. You've got no idea how long the wait was for me. I was <i>this</i> close to losing my mind.
+17016||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 내게 먹을 입이 없었다는 것은 둘째 치고, 먹을 생각도 들지 않았다.|I had no mouth to dine, but even if I could, eating was the last thing on my mind.
+17017||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하지만 뫼르소는 정갈하게 숟가락을 들기 시작했다.|Meursault, however, neatly picked up his spoon.

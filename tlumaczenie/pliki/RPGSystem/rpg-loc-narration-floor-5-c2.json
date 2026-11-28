@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[key=NAR_SISYP_FALL_2].texts[#0].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_FALL_2].texts[#1].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_FALL_2].texts[#2].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_FINALE].texts[#3].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_INTRO].texts[#10].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_INTRO].texts[#11].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_INTRO].texts[#12].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_INTRO].texts[#9].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_LATE_1].texts[#1].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_MID_4].texts[#0].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_MID_4].texts[#1].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_MID_4].texts[#2].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_MID_9].texts[#0].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_MID_9].texts[#1].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    },
+    "dataList[key=NAR_SISYP_MID_9].texts[#2].speaker": {
+      "pl": "Kromer",
+      "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+      "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f",
+      "origin": "ai"
+    }
+  }
+}

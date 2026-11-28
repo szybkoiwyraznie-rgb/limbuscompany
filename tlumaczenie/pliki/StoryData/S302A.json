@@ -1,0 +1,109 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Charon w dobrym humorze dojechała w dobrym humorze.",
+      "kr_sha256": "58b38cddf908df3a771f32dce4012a167513b282aa538e212dbad3b959bb11cf",
+      "en_sha256": "15cd4423f1d34d9a9c0ab221d484976ee4a844eae0088cd1bd10f184eb67ecbb"
+    },
+    "dataList[id=10].content": {
+      "pl": "Kiedy pytałem, o co chodzi, tylko w milczeniu kręcili głowami.",
+      "kr_sha256": "b21cfa11040b4db7cc3c8342a3d5ca26143403397c627e078e17d411fb6b85ba",
+      "en_sha256": "37210c4154d7f6c9be88e708e715969d6f7c68a4472456e440b3104ac416fcac"
+    },
+    "dataList[id=11].content": {
+      "pl": "No proszę, jak miło by było, gdybyście zawsze tak pilnowali porządku. Jak kurczaczki na szkolnej wycieczce.",
+      "kr_sha256": "e63d5ec3676ab7afbf186d692de7011c8e8f1424112b0fdc304cd5a213113c58",
+      "en_sha256": "79f10d121ee546ed60534122d101609131a20ae4bb313b24f8d000cc23437ead"
+    },
+    "dataList[id=12].content": {
+      "pl": "Ojej, a pan czemu…",
+      "kr_sha256": "6c1fdcb82d13b04b76f9ff953a1bad363eb7d49dbea1bb5d6a27bc3e337aaf9e",
+      "en_sha256": "309de1141c446dbd6cb6f0608746858b67ed51bf71a3c628454a6121d2f158d4"
+    },
+    "dataList[id=13].content": {
+      "pl": "<Co cię napadło, że wysiadłeś z nami…?>",
+      "kr_sha256": "d2c35e9127fd043aad1a51097d5b0162f7711d71e00e48cc513c868cabc8893a",
+      "en_sha256": "4f4d3ed1ccf287e225286e3ffa64f1cd9ab69c25b04f3d51c1eea483645f43fe"
+    },
+    "dataList[id=14].content": {
+      "pl": "Vergilius chyba zauważył, jak dziwnie się poruszyłem, zaskoczony niespodziewanym towarzystwem, bo powoli otworzył usta.",
+      "kr_sha256": "354aa9793a0c77feac53d51eea2dfbbd7c39d4436fc9563cb9b8550de5ba6a78",
+      "en_sha256": "610503b709a2974705d36cf165b5079b870a116c8227722176e6c555dd62bbdd"
+    },
+    "dataList[id=15].content": {
+      "pl": "Bo to jest Gniazdo, Dante.",
+      "kr_sha256": "5b91c7c93769735d7a3bb020c76f72c29ad202d40c90f2f35efe784efea64a42",
+      "en_sha256": "cdf1687cd8a02251f5c9d6fd3fba3f252b7f00b61310755223f02771d1e64b7a"
+    },
+    "dataList[id=16].content": {
+      "pl": "Gdyby ktoś tutaj zrobił coś nieprzewidzianego…",
+      "kr_sha256": "74e12f8ebddb2cf8dd25ade895efca04b59ee207894c908a7b8717d241b9cc01",
+      "en_sha256": "920ee9507a2852b033c079da8331d4900906e59199af7b07740ec18ae88bda21"
+    },
+    "dataList[id=17].content": {
+      "pl": "Trudno byłoby panu, Dante, wziąć całą odpowiedzialność na siebie.",
+      "kr_sha256": "70889eedf8865177a5033e8a28e59a447888d68a7f997bd2730e5a735ed0f52c",
+      "en_sha256": "92fe6d418e41e3e6d79c15bc462e39bd24551da61befa1936456b0ea4d3bd56f"
+    },
+    "dataList[id=18].content": {
+      "pl": "Te słowa Vergiliusa brzmiały zupełnie tak, jakby mówił:",
+      "kr_sha256": "6ab085f320bc94f5f936164487bb90185094b30c324c4558f683480b2518bb92",
+      "en_sha256": "118c9a7703cc93d8adba1c4f49bb848fda119b2cc04a7fba6e52773e18b082e5"
+    },
+    "dataList[id=19].content": {
+      "pl": "“Sam nie jesteś szczególnie godny zaufania, więc idę za tobą”… ale",
+      "kr_sha256": "e3571cb264127daba311e1422f399ec76470ee2dcecd8ec68b242360aa97d651",
+      "en_sha256": "aef6147f2d7b8e5ae85b4273d3f622c99ecb99e4cf9e0bb4136dded66f76e77c"
+    },
+    "dataList[id=1].content": {
+      "pl": "No, wysiadać. Pora na kontrolę.",
+      "kr_sha256": "56493fb1cdcbecaa4a547fa29e3ecb466cacc97e6b29c3438e4ecdc9cb67895e",
+      "en_sha256": "6a890278056b6bcb0a25ffa6deb3a75659fb54faebe4c3bfd6e7471730f79cc1"
+    },
+    "dataList[id=20].content": {
+      "pl": "…postanowiłem nic nie mówić.",
+      "kr_sha256": "85111305c23f070d6d46315b1622e651880d8b39f55afec620c52212379d2410",
+      "en_sha256": "0319b0071f1de99f60b33cd5d87b973dc3a6ece43c7a3bb14ef4e4c4aa089acc"
+    },
+    "dataList[id=2].content": {
+      "pl": "A, tak na wszelki wypadek. Jeśli zamierzacie zachowywać się jak zwykle,",
+      "kr_sha256": "a5ff049e7982a5bb999123066526be9ff2266bb2057afa73bf447b42b4340142",
+      "en_sha256": "24d6344a2c325edcfaf1868092b40657d4b2981d0ce5e0cdb463a2947df8c138"
+    },
+    "dataList[id=3].content": {
+      "pl": "czyli robić gorszące rozróby w nadziei, że potem jakoś się wszystko załatwi…",
+      "kr_sha256": "24959f50fa03433e28b443eb08a66e2fb48565f222379daae3862d6a12a0e39c",
+      "en_sha256": "dc730f57c9244c8cbcc218ffa8a23579970f1b7fbda3af221af22f21df1667f4"
+    },
+    "dataList[id=4].content": {
+      "pl": "to tu, na punkcie kontrolnym, porzućcie wszelką nadzieję.",
+      "kr_sha256": "db80c832ea548c1f8421fb43f338fa84720de09df40728baebfc4659b18ae957",
+      "en_sha256": "3e9927d62469eb1ebaaf809563df564984c3ca2b43dba899ba547a6c7484369c"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ale groźnie to ujął, pomyślałem, choć jak się okazało, zupełnie niepotrzebnie…",
+      "kr_sha256": "ab6a9daa3b7ae18609cfbe2441e28f7c1b88726e07f8afc7a087f45ded93d6f8",
+      "en_sha256": "13f517fda9f3755188475d1f566796354f962fa0d94d7ccd450f570778d4ede1"
+    },
+    "dataList[id=6].content": {
+      "pl": "Witamy serdecznie wszystkich odwiedzających K Corp.",
+      "kr_sha256": "723efc5b731f30cb750c9b016ea8caf5c90c2b19afe7262cf181734e3c198d9d",
+      "en_sha256": "6d23d3c3b892714013df047d69cca3bbf362dfe499201af602803e4802efe70f"
+    },
+    "dataList[id=7].content": {
+      "pl": "Prosimy wchodzić pojedynczo, zgodnie z kolejnością, i ustawić się w miejscu wskazanym w instrukcji.",
+      "kr_sha256": "df027a9c25878025410693c42945796d75c6f5138fa478b1c5ed5d8e41ccb1e5",
+      "en_sha256": "f1d5f2762117c5a8ec398038d4ed44b6ad7f66e6d89762ac2b76d02af77d5f33"
+    },
+    "dataList[id=8].content": {
+      "pl": "Najeżona atmosfera kontroli granicznej, przytłaczająca każdego, kto trafia tu po raz pierwszy, sprawiła, że Grzesznicy potulnieli, jakby onieśmieleni.",
+      "kr_sha256": "52f080b1ae842565d5ba65269ee405406c3eca74d5acd9973c6257cc103ae932",
+      "en_sha256": "7c852fb1e9c1e967447900be4045aa1de2429bb3a1400432c4b6ece2e31b6eb1"
+    },
+    "dataList[id=9].content": {
+      "pl": "Co jakiś czas słychać było pochlipywanie Sinclaira i uspokajające szepty Rodion i Gregora.",
+      "kr_sha256": "186902b0d21088e8cd236ed3bf04bc13323c0a23d89764954e7cedd484d06fd1",
+      "en_sha256": "ea85a8a1b9db5fb95d9213035e7da06d380d0b904788ccc4cf1ab98621865120"
+    }
+  }
+}

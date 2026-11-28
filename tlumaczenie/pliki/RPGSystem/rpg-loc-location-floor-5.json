@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[key=150100].text": {
+      "pl": "Korytarz",
+      "kr_sha256": "9d00137ef85a652be05425539ff0d895df127d4af8c47f3da795fc77dc40ec00",
+      "en_sha256": "5ff30619e9df240ef480b983b8e0e4b052de3bb10af8a306a2e7ef0d6c1d8973",
+      "origin": "ai"
+    },
+    "dataList[key=150200].text": {
+      "pl": "Korytarz",
+      "kr_sha256": "9d00137ef85a652be05425539ff0d895df127d4af8c47f3da795fc77dc40ec00",
+      "en_sha256": "5ff30619e9df240ef480b983b8e0e4b052de3bb10af8a306a2e7ef0d6c1d8973",
+      "origin": "ai"
+    },
+    "dataList[key=150201].text": {
+      "pl": "Korytarz",
+      "kr_sha256": "9d00137ef85a652be05425539ff0d895df127d4af8c47f3da795fc77dc40ec00",
+      "en_sha256": "5ff30619e9df240ef480b983b8e0e4b052de3bb10af8a306a2e7ef0d6c1d8973",
+      "origin": "ai"
+    },
+    "dataList[key=150300].text": {
+      "pl": "Korytarz",
+      "kr_sha256": "9d00137ef85a652be05425539ff0d895df127d4af8c47f3da795fc77dc40ec00",
+      "en_sha256": "5ff30619e9df240ef480b983b8e0e4b052de3bb10af8a306a2e7ef0d6c1d8973",
+      "origin": "ai"
+    }
+  }
+}

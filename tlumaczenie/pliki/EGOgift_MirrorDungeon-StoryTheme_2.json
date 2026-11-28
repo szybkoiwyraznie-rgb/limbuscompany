@@ -1,0 +1,424 @@
+{
+  "entries": {
+    "dataList[id=19427].desc": {
+      "pl": "— opis] [Efekt wyłącznie na Przydziale #6]\nNa koniec tury, jeżeli HP jest poniżej 40% Maks. HP, zyskuje w następnej turze 1 [Enhancement]\n\nNa koniec tury przy oszołomionym sojuszniku zyskuje w następnej turze [Aggro] +6 i 4 [DefenseUp]",
+      "kr_sha256": "cfc952a0dd0cf5f83262469c58ad587bd8a5d0fab764fb726b04cc0622ae63f1",
+      "en_sha256": "6953eed02785af1344f22e84bff270180a249d6b26bfae254d5bf42cb145b9e1",
+      "origin": "ai"
+    },
+    "dataList[id=19427].name": {
+      "pl": "— nazwa] Harpun Chroniący Miasto+",
+      "kr_sha256": "08ba8ec63a3dde0a820871ba6be617625686532a728b48b87124c8fccd14299d",
+      "en_sha256": "1ced64b9856fc65905878e583eca781a74c3135e1fdb9af82a74657ab850b940",
+      "origin": "ai"
+    },
+    "dataList[id=19427].simpleDesc[abilityID=194271].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje w następnej turze Wartość Prowokacji 6 i Wzrost Poziomu Obrony 4",
+      "kr_sha256": "5f9b025df1d2eab54ff9178ab6298c7e6dd9e3ab90ae03621ddc54e3c07293ed",
+      "en_sha256": "64128544b4b880086f4ea1e391b7ab5f97d71017082efd4b2d27b0a3f389f3a6",
+      "origin": "ai"
+    },
+    "dataList[id=19427].simpleDesc[abilityID=19427].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "ccb38797577bfea7794a093e4858d3bd9393249c45db803c45462ea4ebc75249",
+      "en_sha256": "bad2df4cae123133eb7d0087924aff79defe3c9835a47bef50d347bf22ee7afb",
+      "origin": "ai"
+    },
+    "dataList[id=19431].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #5 i #6]\n\nGdy HP spadnie do <style=\"upgradeHighlight\">65%</style> lub mniej, przy wygranej w starciu zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] (2 razy na turę na postać)\n\nGdy HP spadnie do <style=\"upgradeHighlight\">40%</style> lub mniej, zamiast tego zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] przy użyciu Umiejętności (2 razy na turę na postać)\n\n<style=\"upgradeHighlight\">Przy wygranej w starciu po co najmniej 5 starciach Umiejętność, która wygrała, zadaje +(liczba Starcí x 2)% obrażeń (maks. 20%)</style>",
+      "kr_sha256": "92ab91da50ed8d39cb156e7b0853880d73e23629d7666c348b11c912f543cb2a",
+      "en_sha256": "99418beb22d32d6a6db1f26d2a71c38911dd8762fc377c39977e3ee9a171d1db",
+      "origin": "ai"
+    },
+    "dataList[id=19431].name": {
+      "pl": "— nazwa] Zniszczone Skrzypce+",
+      "kr_sha256": "eefc7b1e5d1e5dc9d1b9d9e6b678f9d4c0c2eef71ebadd4bcb33e0d2336a6049",
+      "en_sha256": "34bce37e6e5ebe40bcb11f55620440c35907668e522692bafaa150e239e4d3a4",
+      "origin": "ai"
+    },
+    "dataList[id=19431].simpleDesc[abilityID=194311].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Leczenia HP",
+      "kr_sha256": "640cfe35231db29750a175f51bbf07fb6f456b88448d0ae8762c91fc13cdb72a",
+      "en_sha256": "84b2fac768e52438e609bfe43b622c877a83118dd5a78cfd9a02a7e771597da2",
+      "origin": "ai"
+    },
+    "dataList[id=19431].simpleDesc[abilityID=194312].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń w zależności od liczby Starć",
+      "kr_sha256": "8e492cb829fb3dacc024cc9c7ddde372be569062ada02e953629b7bc7cd6c8a6",
+      "en_sha256": "0ef8a3ab7cf88b9e39ffd3a78c8063bdc9dc34cc378a58fa12347faa0362d166",
+      "origin": "ai"
+    },
+    "dataList[id=19431].simpleDesc[abilityID=19431].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Leczenia HP",
+      "kr_sha256": "640cfe35231db29750a175f51bbf07fb6f456b88448d0ae8762c91fc13cdb72a",
+      "en_sha256": "84b2fac768e52438e609bfe43b622c877a83118dd5a78cfd9a02a7e771597da2",
+      "origin": "ai"
+    },
+    "dataList[id=19435].desc": {
+      "pl": "— opis] Na początku tury nakłada <style=\"upgradeHighlight\">2</style> [Binding] na wroga, który doszedł do siebie z Oszołomienia w poprzedniej turze\n\nGdy sojusznik z najwyższym procentem HP trafi atakiem, a cel jest oszołomiony, zadaje +<style=\"upgradeHighlight\">10%</style> obrażeń za każdy poziom Oszołomienia.",
+      "kr_sha256": "f6a926ec624f377a8a3e544776c46f5d8b8bf3d1c62ce45bcf1978f2f87c23bf",
+      "en_sha256": "51fcb4393dfcdf2c309760aa8b8b876f9ae7b65f89890e7f32bd93fca7090ff6",
+      "origin": "ai"
+    },
+    "dataList[id=19435].name": {
+      "pl": "— nazwa] Sztuka Wiązania Kamerdynera+",
+      "kr_sha256": "1f9c1d62e1e7ad9c27f7a03b569bf71b7e92f1711e83442d1e1a4f0ad4741858",
+      "en_sha256": "4fcdcff1fa48039ea71a24397a77ecdd31e11c9a4a0364b0a2e330955c4f2742",
+      "origin": "ai"
+    },
+    "dataList[id=19435].simpleDesc[abilityID=194351].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń w zależności od poziomu Oszołomienia celu",
+      "kr_sha256": "58021e2d7a0350bb71e6daa1b4f435dd7f70f2ab8efb86bb929c1e3a375e06bf",
+      "en_sha256": "625978e9ad11d8c7336594ec36caaed61c5f7b610efd74a63b4d3753acb14ea9",
+      "origin": "ai"
+    },
+    "dataList[id=19435].simpleDesc[abilityID=19435].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Spętania na wroga, który doszedł do siebie z Oszołomienia",
+      "kr_sha256": "788f653b50d06dbd766221bdceeeb51fc1dc24d17995e4d84f638b94805dbae6",
+      "en_sha256": "70b44ea2686945fdfa03e8e5dd7ca4121d91c2634d66e0e1e52124e33577ee5e",
+      "origin": "ai"
+    },
+    "dataList[id=19440].desc": {
+      "pl": "— opis] Podstawowe Umiejętności wszystkich sojuszników Krwiożerców zyskują Moc Monet +1\n\nW potyczkach, w których wrogowie mają posiłki: gdy pojawi się nowy wróg, nakłada na niego na początku walki <style=\"upgradeHighlight\">5</style> [Laceration] i 3 Licznika [Laceration].\n\nJeżeli wśród sojuszników jest <Krwiożerca>: gdy pojawia się nowy wróg, wywołuje [Laceration] na wszystkich wrogach raz i zmniejsza Licznik [Laceration] wszystkich wrogów o 1",
+      "kr_sha256": "101a88083878957ced5c970710368dad303db83f8f13bd8aa7ae73c643122cf0",
+      "en_sha256": "49c02bc882f256825f990107c5c0526608b61e584d03abddb9eb07ce01069600",
+      "origin": "ai"
+    },
+    "dataList[id=19440].name": {
+      "pl": "— nazwa] Maska Parady+",
+      "kr_sha256": "594824e52e767f571ff3ad23f142c0d98514be06124b47c42224ff91620a24a3",
+      "en_sha256": "62bc73cbbadd2882973bd6073d1adf1a68d9775c5425cd6fa4e0ed751e98d03d",
+      "origin": "ai"
+    },
+    "dataList[id=19440].simpleDesc[abilityID=1944051].simpleDesc": {
+      "pl": "— opis skrócony] Wywołuje Krwawienie na wszystkich wrogach raz (zmniejsza ich Licznik Krwawienia o 1)",
+      "kr_sha256": "8e25a1532468d4ceaf038ac9bc9f4694fdc7490fa82e5586829a998311a004ee",
+      "en_sha256": "1e5b582eb6457aeeb5d142ebdd9ca444743dbd9f4ae6479bb57c086540a90e84",
+      "origin": "ai"
+    },
+    "dataList[id=19440].simpleDesc[abilityID=194405].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 5 Krwawień i 3 Licznika Krwawienia na wrogów z posiłkami",
+      "kr_sha256": "e4dae1febc0eec31f963ed37cf1c0a5bd69adcb9ad6f10df91bd3277d69600a7",
+      "en_sha256": "be934f2edb22b91b94441dcfbd6439197941d41dbe1e65c6b001a3d9835df446",
+      "origin": "ai"
+    },
+    "dataList[id=19440].simpleDesc[abilityID=94402].simpleDesc": {
+      "pl": "— opis skrócony] Moc Monet Podstawowych Umiejętności +1",
+      "kr_sha256": "c3928a61eb891c30286567a1bd5c381bd0cd03f6eba8690b9dc1f9dc0e9e557b",
+      "en_sha256": "9921ef2c2b852421a19ca08d2053f715cc2bd158820c0ac5078f0dfb74248ff8",
+      "origin": "ai"
+    },
+    "dataList[id=29427].desc": {
+      "pl": "— opis] [Efekt wyłącznie na Przydziale #6]\nNa koniec tury, jeżeli HP jest poniżej 50% Maks. HP, zyskuje w następnej turze 1 [Enhancement]\n\nNa koniec tury przy oszołomionym sojuszniku zyskuje w następnej turze [Aggro] +6 i 4 [DefenseUp]",
+      "kr_sha256": "8b5dee29de7ec13ee2d6f18ee3488f2da23fa0a871979edd4f478a2d5631157a",
+      "en_sha256": "d721e583a47d5087ee1c0729fb1a3c81522081513dc612304b44da70f9f28a67",
+      "origin": "ai"
+    },
+    "dataList[id=29427].name": {
+      "pl": "— nazwa] Harpun Chroniący Miasto++",
+      "kr_sha256": "ff8bfa6eeb654c139539d11661bea4f91309a614d0390dacce7c53c0112c8382",
+      "en_sha256": "8fb6c8609361b3391a2a578ad0a89262daa0667567a28c85bedd058b1c24ca41",
+      "origin": "ai"
+    },
+    "dataList[id=29427].simpleDesc[abilityID=294271].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje w następnej turze Wartość Prowokacji 6 i Wzrost Poziomu Obrony 4",
+      "kr_sha256": "5f9b025df1d2eab54ff9178ab6298c7e6dd9e3ab90ae03621ddc54e3c07293ed",
+      "en_sha256": "64128544b4b880086f4ea1e391b7ab5f97d71017082efd4b2d27b0a3f389f3a6",
+      "origin": "ai"
+    },
+    "dataList[id=29427].simpleDesc[abilityID=29427].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "ccb38797577bfea7794a093e4858d3bd9393249c45db803c45462ea4ebc75249",
+      "en_sha256": "bad2df4cae123133eb7d0087924aff79defe3c9835a47bef50d347bf22ee7afb",
+      "origin": "ai"
+    },
+    "dataList[id=29431].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #5 i #6]\n\nGdy HP spadnie do 65% lub mniej, przy wygranej w starciu zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] (2 razy na turę na postać)\n\nGdy HP spadnie do 40% lub mniej, zamiast tego zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] przy użyciu Umiejętności (2 razy na turę na postać)\n\nPrzy wygranej w starciu po co najmniej 5 starciach Umiejętność, która wygrała, zadaje <style=\"upgradeHighlight\">+(liczba Starcí x 3)% obrażeń (maks. 30%)</style>",
+      "kr_sha256": "66261d5399bf7ebd4840df32b4d16e493d184b87ffd7ec1e35b5212f77de974f",
+      "en_sha256": "39a041be76f284f2d1cb864b8f6424881c8a5237150c6869bf95d5123491d2f5",
+      "origin": "ai"
+    },
+    "dataList[id=29431].name": {
+      "pl": "— nazwa] Zniszczone Skrzypce++",
+      "kr_sha256": "523b8038767ce642a24e5852901b4c630e9da67ba38935a7a6d44733f1909466",
+      "en_sha256": "60b2e713f0c194e8fe61b852ecb65ee298d4ab0786dbf4271aff0d08ff0fc427",
+      "origin": "ai"
+    },
+    "dataList[id=29431].simpleDesc[abilityID=294311].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Leczenia HP",
+      "kr_sha256": "640cfe35231db29750a175f51bbf07fb6f456b88448d0ae8762c91fc13cdb72a",
+      "en_sha256": "84b2fac768e52438e609bfe43b622c877a83118dd5a78cfd9a02a7e771597da2",
+      "origin": "ai"
+    },
+    "dataList[id=29431].simpleDesc[abilityID=294312].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń w zależności od liczby Starć",
+      "kr_sha256": "8e492cb829fb3dacc024cc9c7ddde372be569062ada02e953629b7bc7cd6c8a6",
+      "en_sha256": "0ef8a3ab7cf88b9e39ffd3a78c8063bdc9dc34cc378a58fa12347faa0362d166",
+      "origin": "ai"
+    },
+    "dataList[id=29431].simpleDesc[abilityID=29431].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Leczenia HP",
+      "kr_sha256": "640cfe35231db29750a175f51bbf07fb6f456b88448d0ae8762c91fc13cdb72a",
+      "en_sha256": "84b2fac768e52438e609bfe43b622c877a83118dd5a78cfd9a02a7e771597da2",
+      "origin": "ai"
+    },
+    "dataList[id=29435].desc": {
+      "pl": "— opis] Na początku tury nakłada <style=\"upgradeHighlight\">3</style> [Binding] na wroga, który doszedł do siebie z Oszołomienia w poprzedniej turze\n\nGdy sojusznik z najwyższym procentem HP trafi atakiem, a cel jest oszołomiony, zadaje +<style=\"upgradeHighlight\">12.5%</style> obrażeń za każdy poziom Oszołomienia.",
+      "kr_sha256": "27c9448c2bb9b24b83cd176d4e90496bf377b45d75a5f6ff9c2de83e9ebcac35",
+      "en_sha256": "1656d93d0e882d94f870d7f0769ce2044faaaf6941b39c32f43203faef7b5c7f",
+      "origin": "ai"
+    },
+    "dataList[id=29435].name": {
+      "pl": "— nazwa] Sztuka Wiązania Kamerdynera++",
+      "kr_sha256": "56d3e8291757a052d1e5f9cf2579739816cc1cc57578e8f0bcf2764c16e13bf6",
+      "en_sha256": "71dd414a8c19a2bee6eebd8cf79792156ac2fc17aa557f0b5d4fcd480ff1c531",
+      "origin": "ai"
+    },
+    "dataList[id=29435].simpleDesc[abilityID=294351].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń w zależności od poziomu Oszołomienia celu",
+      "kr_sha256": "58021e2d7a0350bb71e6daa1b4f435dd7f70f2ab8efb86bb929c1e3a375e06bf",
+      "en_sha256": "625978e9ad11d8c7336594ec36caaed61c5f7b610efd74a63b4d3753acb14ea9",
+      "origin": "ai"
+    },
+    "dataList[id=29435].simpleDesc[abilityID=29435].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Spętania na wroga, który doszedł do siebie z Oszołomienia",
+      "kr_sha256": "a6a950e627f9d6c576353209a0dd2947fe578fc2a5fbc74e156119a9d67b1468",
+      "en_sha256": "f7f896dabb1f9d8d4aea6cc7ad77372a93afdf4a00d5a66e8b2eddbd112fcbf9",
+      "origin": "ai"
+    },
+    "dataList[id=9427].desc": {
+      "pl": "— opis] [Efekt wyłącznie na Przydziale #6]\nNa koniec tury, jeżeli HP jest poniżej 30% Maks. HP, zyskuje w następnej turze 1 [Enhancement]",
+      "kr_sha256": "4cf2112fee381780f077eaa2401f8363215f121c506e35c6984ecd446de2bf16",
+      "en_sha256": "489733ded0f5e80e94a8e39272700014c3a87b6d64dcb9867bb6d2757967d2b1",
+      "origin": "ai"
+    },
+    "dataList[id=9427].name": {
+      "pl": "— nazwa] Harpun Chroniący Miasto",
+      "kr_sha256": "014c90c5ca49a61f1c45d1c2df146cc018515d87fc8aeb0785f7c0baeb9fb208",
+      "en_sha256": "9624e393101467e6b0afc43c57213eb058de8fa6dce7ec8d900d243b04899624",
+      "origin": "ai"
+    },
+    "dataList[id=9427].simpleDesc[abilityID=9427].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "ccb38797577bfea7794a093e4858d3bd9393249c45db803c45462ea4ebc75249",
+      "en_sha256": "bad2df4cae123133eb7d0087924aff79defe3c9835a47bef50d347bf22ee7afb",
+      "origin": "ai"
+    },
+    "dataList[id=9428].desc": {
+      "pl": "— opis] Przy trafieniu Umiejętnością ataku wroga z [Laceration] lub 'Szczególnym Krwawieniem' zyskuje 1 [Breath] (3 razy na turę na Tożsamość)\n\nPrzy Krytyce przy trafieniu Umiejętnością, z 50% szansą zyskuje w następnej turze 1 [PenetrateResultUp] (2 razy na turę na Tożsamość, łącznie z Umiejętnościami E.G.O i Kontrami)\n\nPrzy trafieniu awersem Krytyką Podstawową Umiejętnością, wartość negatywnego efektu nakładanego tą monetą rośnie o 1 (1 raz na turę na Tożsamość, łącznie z Kontrami, poza Umiejętnościami E.G.O)",
+      "kr_sha256": "c6beb7c3c4c35269af13c4edc20c8b77704e1e435a054bc90d105e289bac8ee5",
+      "en_sha256": "d871612fda1c0a27845ffba3f849c57cc92e676df7529d6c56c755e9d650d158",
+      "origin": "ai"
+    },
+    "dataList[id=9428].name": {
+      "pl": "— nazwa] Serce Wieloryba",
+      "kr_sha256": "cf549cf1597e6ae3a7d11c82f606f9c8648ab6fa00797292f2df52cea2067bff",
+      "en_sha256": "e6c1df7158dc15cb7d1dc979dc65163546425cc2334db95d95e325151a5bab5a",
+      "origin": "ai"
+    },
+    "dataList[id=9428].simpleDesc[abilityID=94281].simpleDesc": {
+      "pl": "— opis skrócony] Szansa na zyskanie [PenetrateResultUp] w następnej turze",
+      "kr_sha256": "6169965ef3ee5777c425342c16dc565d50a1ab699da81bdc160199867218c73e",
+      "en_sha256": "e03145655c6b8957edce06b057bb4e3240d749f528600b4d00dfe5029754feb2",
+      "origin": "ai"
+    },
+    "dataList[id=9428].simpleDesc[abilityID=94282].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada o 1 więcej wartości negatywnego efektu",
+      "kr_sha256": "72f4c53ff8efdd47ac1328cfa51f1ad2ef0866564245b51662814698d697c704",
+      "en_sha256": "c252ff2b84f246277d7efcc945235fde422d8c11c42181646b610a1122da7412",
+      "origin": "ai"
+    },
+    "dataList[id=9428].simpleDesc[abilityID=9428].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Oddechu",
+      "kr_sha256": "b5f741db77a76bbb3459a0cc4323d56a7885487163fcf6dd36bb15a9a4cd2f64",
+      "en_sha256": "a3076a4355d3997776f80576d30fff5ca213b512d1bb8ba593c0c260db827860",
+      "origin": "ai"
+    },
+    "dataList[id=9431].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #5 i #6]\n\nGdy HP spadnie do 45% lub mniej, przy wygranej w starciu zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] (2 razy na turę na postać)\n\nGdy HP spadnie do 20% lub mniej, zamiast tego zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] przy użyciu Umiejętności (2 razy na turę na postać)",
+      "kr_sha256": "715cadc3e4aa50085345d37be5ece315dbc9ae447575a8199f9858044afdd870",
+      "en_sha256": "126524b66211b923ae96f71ab909145d11180308ce9f6ccb36407aa0d082261b",
+      "origin": "ai"
+    },
+    "dataList[id=9431].name": {
+      "pl": "— nazwa] Zniszczone Skrzypce",
+      "kr_sha256": "23f7f54d51ae769d7e040911dd14c38d82f488b7c2661a34f66bfda1c475e62c",
+      "en_sha256": "5383a0620d9df1a35e1fb4dabe365088185c9144c30ce4070c84f5df57144802",
+      "origin": "ai"
+    },
+    "dataList[id=9431].simpleDesc[abilityID=94311].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Leczenia HP",
+      "kr_sha256": "640cfe35231db29750a175f51bbf07fb6f456b88448d0ae8762c91fc13cdb72a",
+      "en_sha256": "84b2fac768e52438e609bfe43b622c877a83118dd5a78cfd9a02a7e771597da2",
+      "origin": "ai"
+    },
+    "dataList[id=9431].simpleDesc[abilityID=9431].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Leczenia HP",
+      "kr_sha256": "640cfe35231db29750a175f51bbf07fb6f456b88448d0ae8762c91fc13cdb72a",
+      "en_sha256": "84b2fac768e52438e609bfe43b622c877a83118dd5a78cfd9a02a7e771597da2",
+      "origin": "ai"
+    },
+    "dataList[id=9432].desc": {
+      "pl": "— opis] Na koniec tury, gdy oszołomi, dochodzi do siebie z Oszołomienia, a na początku następnej tury nakłada 4 Moc [Sinking] i 4 Licznika [Sinking] na wszystkich wrogów (1 raz na potyczkę, poza wymuszonym Oszołomieniem, w potyczkach skupionych liczone per Partia)\n- Liczba aktywacji na potyczkę rośnie o 1 za każdą parę Tożsamości Wuthering Heights i Rodziny Edgar w składzie (maks. 4 na potyczkę, łącznie z rezerwą)\n\nPrzy zabiciu wroga zwiększa Licznik [Sinking] o 2 wroga z najmniejszym Licznikiem [Sinking] (3 razy na turę, w potyczkach skupionych liczone per Partia)",
+      "kr_sha256": "9cf958d5580efc47dcffe30fa3a02a1dc6980201e3519a70d13d33b51cff3af9",
+      "en_sha256": "033c7a1d2fb1957c3c29739f3fcc2ed157a37aa084a53f22f3b381d81429d16b",
+      "origin": "ai"
+    },
+    "dataList[id=9432].name": {
+      "pl": "— nazwa] Organka w Kształcie Rezydencji",
+      "kr_sha256": "5f18b359c484d718afcb2725b2516894e6c51a095bb9bad37e913c4104dbad52",
+      "en_sha256": "7c983fc394c042be35f3cdd6eeaf93b7f1e1f9b80ccd2dacd423a74f99397c5b",
+      "origin": "ai"
+    },
+    "dataList[id=9432].simpleDesc[abilityID=94321].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Licznik Zatonięcia o 2 wroga z najmniejszym Licznikiem Zatonięcia",
+      "kr_sha256": "36228cbb8753f300589e2278e73e6ef113e23ed21f3680f7ce80c8879294d838",
+      "en_sha256": "284408a066b5e08c2289aa4c8e7f73b2f193b58138ccef6b889943de6d02e756",
+      "origin": "ai"
+    },
+    "dataList[id=9432].simpleDesc[abilityID=9432].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze 4 Moc Zatonięcia i 4 Licznika Zatonięcia na wszystkich wrogów",
+      "kr_sha256": "b5077b6a650e10aa3bf3f02177f2e23dbb8c7d1950236e14699fbafe9c3572cd",
+      "en_sha256": "ea1cb122be14626781bad0e18899ae5682fbca9da43fdc59f83bd92a5c141093",
+      "origin": "ai"
+    },
+    "dataList[id=9435].desc": {
+      "pl": "— opis] Na początku tury nakłada 1 [Binding] na wroga, który doszedł do siebie z Oszołomienia w poprzedniej turze\n\nGdy sojusznik z najwyższym procentem HP trafi atakiem, a cel jest oszołomiony, zadaje +7.5% obrażeń za każdy poziom Oszołomienia.",
+      "kr_sha256": "923012dda75856da9d3857a914e4131dbdb402d058b908df34748752496230cc",
+      "en_sha256": "1123a554514c895030a90295fc351f5f8e64353ef66299a810990088f8f8429a",
+      "origin": "ai"
+    },
+    "dataList[id=9435].name": {
+      "pl": "— nazwa] Sztuka Wiązania Kamerdynera",
+      "kr_sha256": "a01fb073f2a4f36331061a5ab5d861a7cc9de700558517a66cf1704aa9ebf847",
+      "en_sha256": "34c5a82a9b03a4076081a6d50a4339ef41679e58f37b857cc59818808364e147",
+      "origin": "ai"
+    },
+    "dataList[id=9435].simpleDesc[abilityID=94351].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń w zależności od poziomu Oszołomienia celu",
+      "kr_sha256": "58021e2d7a0350bb71e6daa1b4f435dd7f70f2ab8efb86bb929c1e3a375e06bf",
+      "en_sha256": "625978e9ad11d8c7336594ec36caaed61c5f7b610efd74a63b4d3753acb14ea9",
+      "origin": "ai"
+    },
+    "dataList[id=9435].simpleDesc[abilityID=9435].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 Spętania na wroga, który doszedł do siebie z Oszołomienia",
+      "kr_sha256": "d105eaaf7ab8b9c0ae5ac660fa6a906524a97b0e37c2f14940dddab590247401",
+      "en_sha256": "1bd8bf2e4968d5cad893fc7486cfc493d029e3e813c64596f91f1d9aeb874b50",
+      "origin": "ai"
+    },
+    "dataList[id=9436].desc": {
+      "pl": "— opis] Przy trafieniu atakiem wroga z Poczytalnością, jeżeli Poczytalność celu wynosi -45, zadaje obrażenia Posępności równe Moc [Sinking] celu\n\nW potyczkach skupionych, przy trafieniu atakiem wrogów z sumą Mocy [Sinking] i Licznika [Sinking] co najmniej 10,\nzadaje obrażenia Posępności równe (Moc [Sinking] celu/2) (1 raz na Umiejętność)\n\nJeżeli Umiejętność, która trafiła wroga, nakłada [Sinking] (łącznie z Licznikiem i 'Szczególnym <noparse>Zatonięciem</noparse>'), zamiast (Moc [Sinking]/2) zadaje obrażenia Posępności równe (Moc [Sinking])\n(dotyczy tylko Umiejętności nakładającej [Sinking], która jako pierwsza trafiła atakiem w turze)",
+      "kr_sha256": "9b0b11daa995c418d7d7afa8137a082382af3a2208f3dcec993662029f5fbab6",
+      "en_sha256": "e2120eff5ee7a3a06cfbdf9dbe68b954e2ff43f3404aa336b333540f58b0ae7f",
+      "origin": "ai"
+    },
+    "dataList[id=9436].name": {
+      "pl": "— nazwa] Refrakcyjna Rura Szklana",
+      "kr_sha256": "2115cd8d839a5c1b236899b40137836bcfc7c06c16d1758c5a3ad29e43ecb5bd",
+      "en_sha256": "988b26a65676ed6a9071b3de1789d727217456dae1a6cc5415039817cb067001",
+      "origin": "ai"
+    },
+    "dataList[id=9436].simpleDesc[abilityID=94361].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Posępności w zależności od Zatonięcia celu",
+      "kr_sha256": "4d6ac0840fad9089ca0197c5c696308c0a512bac5182ba7771db19c311042a5c",
+      "en_sha256": "f1f095dd7698a20192cd823ee0144383dde3d33741cd9ab2393f5832391e90b5",
+      "origin": "ai"
+    },
+    "dataList[id=9436].simpleDesc[abilityID=9436].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia Posępności w zależności od Zatonięcia celu",
+      "kr_sha256": "4d6ac0840fad9089ca0197c5c696308c0a512bac5182ba7771db19c311042a5c",
+      "en_sha256": "f1f095dd7698a20192cd823ee0144383dde3d33741cd9ab2393f5832391e90b5",
+      "origin": "ai"
+    },
+    "dataList[id=9437].desc": {
+      "pl": "— opis] Przy trafieniu celów z sumą [Laceration], 'Szczególnego Krwawienia' i [Burst] co najmniej 10, zyskuje 1 Moc [Breath] i +1 Licznika [Breath] (do 2 razy na Umiejętność)",
+      "kr_sha256": "f4eb28e207da93c25a7e32be9083d02a563d46c81dd1e7d30994f8dfddf2ccb9",
+      "en_sha256": "114dfc78b7a095b351b25c30a50b18d8653e4757ce5b0e16a652d86b90f9797d",
+      "origin": "ai"
+    },
+    "dataList[id=9437].name": {
+      "pl": "— nazwa] Bilet Całodniowy La Manchaland",
+      "kr_sha256": "5eec8d3456fdb636b0b770426b2758a5d5e467e44a7621694d735365e8641acf",
+      "en_sha256": "a50e054462a5cfe8cc5e83bf69ba4f222441898d6d60f1e92f46ca7bba832ccb",
+      "origin": "ai"
+    },
+    "dataList[id=9437].simpleDesc[abilityID=9437].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Moc Oddechu i Licznik Oddechu",
+      "kr_sha256": "f86ef60b9e285ff771c76ea43e3ba7a1db774c73857961adfe6ca7668c6bc946",
+      "en_sha256": "eb89f48cdd68f220e4f1e44d830edb78f792a139ad250259a8921cd9bb93a1c1",
+      "origin": "ai"
+    },
+    "dataList[id=9438].desc": {
+      "pl": "— opis] Przy zabiciu wroga 1 sojusznik z najniższą Poczytalnością odzyskuje 3 Poczytalności.\n\nNa koniec ataku, jeżeli ginie wróg z sumą [Laceration], 'Szczególnego Krwawienia' i [Burst] ≥ 10, 1 sojusznik zyskuje w następnej turze 2 [AttackUp] (pierwszeństwo ma sojusznik, który go zabił)",
+      "kr_sha256": "67923b82865c72fb604ebebab094bf3636e5799958a17c91262d7bb307a74307",
+      "en_sha256": "00b45df540595daf0244f8b3e5d7b27373579cdaa144e0bb69376575ad566ad8",
+      "origin": "ai"
+    },
+    "dataList[id=9438].name": {
+      "pl": "— nazwa] Znak Zwycięstwa",
+      "kr_sha256": "5ba888ff1e5a101b6a9d5e544f96c2e17307773ce79927c14efc1c8624cd704c",
+      "en_sha256": "d079a07f4df9cb20955ba1e601b2f2ad553d14e55deb34fd96875247620efe94",
+      "origin": "ai"
+    },
+    "dataList[id=9438].simpleDesc[abilityID=9438#2].simpleDesc": {
+      "pl": "— opis skrócony] Losowy sojusznik zyskuje w następnej turze 2 Wzrostu Poziomu Ataku",
+      "kr_sha256": "e1fbf579107ffd031793029a593471ca11ae77d611ccc47885096076225054d2",
+      "en_sha256": "e2bbbea47cda7b0e0b049ec8a6cb727d6a0b6f142706441e177ea67cb44893fc",
+      "origin": "ai"
+    },
+    "dataList[id=9438].simpleDesc[abilityID=9438].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje 3 Poczytalności",
+      "kr_sha256": "5474f2e8734d6663dce210a40aa286bc427eac8a47b018a8a140106b50dbac17",
+      "en_sha256": "977f209a75a1ff3f8914b86f1caddc411a0a283c3eb3cfa0f72ad065487eb248",
+      "origin": "ai"
+    },
+    "dataList[id=9439].desc": {
+      "pl": "— opis] Przy śmierci sojusznika zyskuje po 1 zasobie E.G.O atrybutu jego Umiejętności 1 i 2.\n\nNa koniec ataku, jeżeli ginie wróg, zyskuje 1 losowy zasób E.G.O (do 1 razy na Umiejętność)",
+      "kr_sha256": "7218d8f86427d0df6e0ccc28b41ac9e2759c2364709ddac766e5b1b5ca87c1ec",
+      "en_sha256": "a6dbd663ff4ad5e61b4cd45196f776daad06d6996d85d9f68893741f9f05ca0d",
+      "origin": "ai"
+    },
+    "dataList[id=9439].name": {
+      "pl": "— nazwa] Żarłoczny Sześcian",
+      "kr_sha256": "2276abc362a39334c79e34ddd6b068ca375651dccfcc0569fca3dc2e3be2a229",
+      "en_sha256": "29f061ed82dc134ac7741321b5a3d69c2d2e3b18232c9640624de0687dfce191",
+      "origin": "ai"
+    },
+    "dataList[id=9439].simpleDesc[abilityID=9439].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 losowy zasób E.G.O",
+      "kr_sha256": "554ad3da5bd1bf79f045b56caedccb2c2543f26ccc4b1ac2b1540a016cdf0284",
+      "en_sha256": "899b8647a9b86698963a49348d3217ff777b830640c4c1d943660a537a3d77e7",
+      "origin": "ai"
+    },
+    "dataList[id=9440].desc": {
+      "pl": "— opis] Podstawowe Umiejętności wszystkich sojuszników Krwiożerców zyskują Moc Monet +1\n\nW potyczkach, w których wrogowie mają posiłki: gdy pojawi się nowy wróg, nakłada na niego na początku walki 3 [Laceration] i 3 Licznika [Laceration].\n\nJeżeli wśród sojuszników jest <Krwiożerca>: gdy pojawia się nowy wróg, wywołuje [Laceration] na wszystkich wrogach raz i zmniejsza Licznik [Laceration] wszystkich wrogów o 1",
+      "kr_sha256": "d6a33a8d566ffbadcf8f537fd6587e3f1592abe7a93b5dac60fd1ff930dc7a08",
+      "en_sha256": "f6e2760bde60750839761354526be5de28b5c93dfb20309a564f537a2e94f490",
+      "origin": "ai"
+    },
+    "dataList[id=9440].name": {
+      "pl": "— nazwa] Maska Parady",
+      "kr_sha256": "870b94329ee785484576acc5f2300eb82c3aa7d5e4c74fbaef4ed77eea348b3e",
+      "en_sha256": "629d30ee8d5791b7f1796f5b9d5ed0c51028a40277b420d522243d93d7e6c5d7",
+      "origin": "ai"
+    },
+    "dataList[id=9440].simpleDesc[abilityID=94401].simpleDesc": {
+      "pl": "— opis skrócony] Wywołuje Krwawienie na wszystkich wrogach raz (zmniejsza ich Licznik Krwawienia o 1)",
+      "kr_sha256": "8e25a1532468d4ceaf038ac9bc9f4694fdc7490fa82e5586829a998311a004ee",
+      "en_sha256": "1e5b582eb6457aeeb5d142ebdd9ca444743dbd9f4ae6479bb57c086540a90e84",
+      "origin": "ai"
+    },
+    "dataList[id=9440].simpleDesc[abilityID=94402].simpleDesc": {
+      "pl": "— opis skrócony] Moc Monet Podstawowych Umiejętności +1",
+      "kr_sha256": "c3928a61eb891c30286567a1bd5c381bd0cd03f6eba8690b9dc1f9dc0e9e557b",
+      "en_sha256": "9921ef2c2b852421a19ca08d2053f715cc2bd158820c0ac5078f0dfb74248ff8",
+      "origin": "ai"
+    },
+    "dataList[id=9440].simpleDesc[abilityID=9440].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Krwawienia i 3 Licznika Krwawienia na wrogów z posiłkami",
+      "kr_sha256": "ee1afb259dab020fc46e0dec630ca557b2ff2bd8df09bcda4241c5fda131502d",
+      "en_sha256": "42315be70b267fe8d931c8751d1e9cf042b049b039729fb10acc790028fe3fd5",
+      "origin": "ai"
+    }
+  }
+}

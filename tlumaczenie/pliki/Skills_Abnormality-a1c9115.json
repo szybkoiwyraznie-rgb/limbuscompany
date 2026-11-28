@@ -1,0 +1,298 @@
+{
+  "entries": {
+    "dataList[id=112204].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 10 Mocy Końcowej",
+      "kr_sha256": "a08b047672a3233d5efda648c6b4d55ab0f46ae2e880ebdd7870e94fd46e8ad7",
+      "en_sha256": "285e539cc5a7a194cffc0fd5a3a47a738d59453bd9bf9825e5d3eff5f2b94d56",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "eb4d40cf4b26c28c823ac51fb1a78ae2476e99f9fb65f69c6cc507ddac11dbc0",
+      "en_sha256": "a4569b87359161ba11b2c04ea44739d0d9b7fbc51c59ed1f74c55c8717d488fd",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 Licznika [Laceration]",
+      "kr_sha256": "6c7dc88567911636be3355e0aa75c738adbe7f433cdf962b1f934dd9eb7ef2ae",
+      "en_sha256": "1645f956a4fd0eaf348564f9f994e5102f2e2db560e178e1662e63c4325f2d1b",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 10 Mocy Końcowej",
+      "kr_sha256": "a08b047672a3233d5efda648c6b4d55ab0f46ae2e880ebdd7870e94fd46e8ad7",
+      "en_sha256": "285e539cc5a7a194cffc0fd5a3a47a738d59453bd9bf9825e5d3eff5f2b94d56",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [SlashDamageUp] w następnej turze",
+      "kr_sha256": "ea69f4c9a436cdf35d96040d0387c583b29181d18958c6d7158b4efa7d3769c5",
+      "en_sha256": "ca5dcad6543d539dacb3f5f881d962621b69aab52e2c48cc70950916d1e99ed6",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [SlashResistDown]",
+      "kr_sha256": "92626b644a52ca70f8347837946c4fbe7edc27efda06a05949a2f4e8ce5be17a",
+      "en_sha256": "5f18008c8f834bf0e66680733727fd9fabd6f1c4bcb67ea349f146d56543851f",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 10 Mocy Końcowej",
+      "kr_sha256": "a08b047672a3233d5efda648c6b4d55ab0f46ae2e880ebdd7870e94fd46e8ad7",
+      "en_sha256": "285e539cc5a7a194cffc0fd5a3a47a738d59453bd9bf9825e5d3eff5f2b94d56",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "7ad54c5205d064f7f3d4389c69f030ef5995312323626173de52c14c7c66d89f",
+      "en_sha256": "18288a6e2be3fc6a9b427e83272ea533332bdfb4aaec628066a4f35d633b2258",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "34e11426d10908f6cba3600645c5d0aeef8834a4e1797248bef8d8e7fd9f355f",
+      "en_sha256": "a3eb687b2aaa407cd425c125334a8cddf33960677d72f821a5659ca498b03b37",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 Licznika [Laceration]",
+      "kr_sha256": "bf4d250968ea760396b427742fcb6408e72f719c64e0498da3e0cb5e8a7d8a81",
+      "en_sha256": "461bdcff5a9ab17e2e57e3f17749421e90b7d86a78548ddb8480f3d3333df093",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 3 Licznika [Breath]",
+      "kr_sha256": "1ee4ca6dc45a767b0c3b8115bd04689fd8449c56acfdabf58c4acd95e4d02651",
+      "en_sha256": "fdb64a16af3ed89ec85bc757afcabd33fc4f0ce65ab5fbeb32dc8dc0fe13e314",
+      "origin": "ai"
+    },
+    "dataList[id=112204].levelList[level=1].name": {
+      "pl": "Obalenie",
+      "kr_sha256": "33f981dbc5d4b55125c3438cc18155e82756c9ed9a79dacb68fbbc4dab7f46de",
+      "en_sha256": "d3b5249ceee7a323d32abd57f63205618fbba48fbde71cc1b871802bbf6f0ddd",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 20 Mocy Końcowej",
+      "kr_sha256": "23592492a4048f7626ca750fc0b3a587547b2f18eb326c287b81836b2deab026",
+      "en_sha256": "14d101d11c1948683b1901ec28a76a89f8e07369df8ab76746e43972a48b4759",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [SlashResistDown]",
+      "kr_sha256": "d85a05ce7c005387cd7be28334ffa13bf546696b6942dfd53b5aac59e40742e5",
+      "en_sha256": "f0c9ae493a3dbab003657ae0ecb2a1800e5834d11bfdddcd17b78e4c6845f3cf",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 20 Mocy Końcowej",
+      "kr_sha256": "23592492a4048f7626ca750fc0b3a587547b2f18eb326c287b81836b2deab026",
+      "en_sha256": "14d101d11c1948683b1901ec28a76a89f8e07369df8ab76746e43972a48b4759",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] +100% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "14a5040002712e912eb15be9b05caa58c0af85e2b05f9c0c8941963a33a2e815",
+      "en_sha256": "f8136a070988081e08dc6dc165a260484b0833a25c52812a3f7e8221ba147db7",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 10 [Laceration] i 2 Licznika [Laceration]",
+      "kr_sha256": "0a03c1c5832b786f21bf8ea4e12562560e38e000eed0c7d5cc3b5bc101d07440",
+      "en_sha256": "6a7f6374763c84840f50fee928155498237e9a721b3d4f2989ff6e261dc24a0e",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 20 Mocy Końcowej",
+      "kr_sha256": "23592492a4048f7626ca750fc0b3a587547b2f18eb326c287b81836b2deab026",
+      "en_sha256": "14d101d11c1948683b1901ec28a76a89f8e07369df8ab76746e43972a48b4759",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] jeżeli Tarcza nie została w całości zużyta, dzieli wartość [Grudge] przez Wagę Ataku i zadaje ją jako stałe obrażenia.",
+      "kr_sha256": "7ff2526742215dbcbf424cdf24fe3e5b2905ab15456905fd28acb812542f187f",
+      "en_sha256": "891c8502e49d0ced80ef5f8f6e167127e78eadfe18a269abac66435311d218d4",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 100 Tarczy\n[WhenUse] jeżeli Tarcza nie została w całości zużyta, Moc Starcia +5",
+      "kr_sha256": "8bbc6bb5e8ee9862b1b77fe3e84588c5e15e90b6b8fed2a215a0fc21cbb77ba7",
+      "en_sha256": "b3efb5844c941a636c319541b0a07478fc86b210fc9aa7a6663fd8107cf9c9d2",
+      "origin": "ai"
+    },
+    "dataList[id=112205].levelList[level=1].name": {
+      "pl": "Łamanie Kości",
+      "kr_sha256": "884d0287c30a78f00929c1ed543efd1cd156d129c406a5226da27e704d209a7f",
+      "en_sha256": "a965c4610b07eb25aea802413d68498d153679ec427fcac81e358bbd9a95b47e",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 23 Mocy Końcowej",
+      "kr_sha256": "c7189be91df39c7015b54f5df9ff0517362c0ec0d30b9bf4837026cd5cb73fd4",
+      "en_sha256": "3ea939cd95d2c5c184cfd5891866f62b44f353edcd6899d0a8e2cf1843ae0e47",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [SlashResistDown]",
+      "kr_sha256": "07eb73766074ed76c69cb448ed882b121d584c6dafa483212823620470bbbea9",
+      "en_sha256": "963bb3d91e39e020e78afaa7bd418412946b9a57b73d39dfa83d152e26cdcf15",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 23 Mocy Końcowej",
+      "kr_sha256": "c7189be91df39c7015b54f5df9ff0517362c0ec0d30b9bf4837026cd5cb73fd4",
+      "en_sha256": "3ea939cd95d2c5c184cfd5891866f62b44f353edcd6899d0a8e2cf1843ae0e47",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] +100% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "14a5040002712e912eb15be9b05caa58c0af85e2b05f9c0c8941963a33a2e815",
+      "en_sha256": "f8136a070988081e08dc6dc165a260484b0833a25c52812a3f7e8221ba147db7",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 5 [Paralysis] w następnej turze",
+      "kr_sha256": "f3f070fb32286176382f92b0b76565f08f8b9bf67db4d19880c54e6882bcb652",
+      "en_sha256": "107759831a1e6689b1678cf2530111136bd4ff15fbea54fb94f353b6a6f6ac81",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#1].coindescs[#4].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 10 [Laceration] i 2 Licznika [Laceration]",
+      "kr_sha256": "0a03c1c5832b786f21bf8ea4e12562560e38e000eed0c7d5cc3b5bc101d07440",
+      "en_sha256": "6a7f6374763c84840f50fee928155498237e9a721b3d4f2989ff6e261dc24a0e",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 23 Mocy Końcowej",
+      "kr_sha256": "c7189be91df39c7015b54f5df9ff0517362c0ec0d30b9bf4837026cd5cb73fd4",
+      "en_sha256": "3ea939cd95d2c5c184cfd5891866f62b44f353edcd6899d0a8e2cf1843ae0e47",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] jeżeli Tarcza nie została w całości zużyta, dzieli wartość [Grudge] przez Wagę Ataku i zadaje ją jako stałe obrażenia.",
+      "kr_sha256": "7ff2526742215dbcbf424cdf24fe3e5b2905ab15456905fd28acb812542f187f",
+      "en_sha256": "891c8502e49d0ced80ef5f8f6e167127e78eadfe18a269abac66435311d218d4",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 250 Tarczy\n[WhenUse] zyskuje 3 Licznika [Breath]\n[WhenUse] jeżeli Tarcza nie została w całości zużyta, Moc Starcia +10",
+      "kr_sha256": "047a35d0cff997b4324f02dcb2bd8b88a8df82a6223edf330992b683b06d36d7",
+      "en_sha256": "3e120899b0616d8aaa73a02c102458751ffe7e1e2f5663e88b4d82ded3766009",
+      "origin": "ai"
+    },
+    "dataList[id=112305].levelList[level=1].name": {
+      "pl": "Łamanie Kości",
+      "kr_sha256": "884d0287c30a78f00929c1ed543efd1cd156d129c406a5226da27e704d209a7f",
+      "en_sha256": "a965c4610b07eb25aea802413d68498d153679ec427fcac81e358bbd9a95b47e",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 25 Mocy Końcowej",
+      "kr_sha256": "38bfe2b851dc691136dd5054aae9f22dea9e6d16f91e7e5d506209df1ccd0ae5",
+      "en_sha256": "bf656cdf15b6f185b7c1d169eb4c8a071bca237a9785e28a54671494d356bd88",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 25 Mocy Końcowej",
+      "kr_sha256": "38bfe2b851dc691136dd5054aae9f22dea9e6d16f91e7e5d506209df1ccd0ae5",
+      "en_sha256": "bf656cdf15b6f185b7c1d169eb4c8a071bca237a9785e28a54671494d356bd88",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli ta Moneta jest Rozbita, traci 25 Mocy Końcowej",
+      "kr_sha256": "38bfe2b851dc691136dd5054aae9f22dea9e6d16f91e7e5d506209df1ccd0ae5",
+      "en_sha256": "bf656cdf15b6f185b7c1d169eb4c8a071bca237a9785e28a54671494d356bd88",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zadaje stałe obrażenia równe wartości [Grudge].",
+      "kr_sha256": "50a6dd4a333f882eec0e909fd2264502515caf8ef8851b89546fcd4152d63b48",
+      "en_sha256": "ffa82558b1fac09b74c3061033261164d1334937865666000ab26ab790d9c532",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].desc": {
+      "pl": "[CantChangeTarget]\npriorytet: jednostka z najmniejszym HP\n[EnemyKill] wartość [Grudge] podwaja się.\n[EnemyKill] przywraca HP równe wartości [Grudge]",
+      "kr_sha256": "31987ec713eae9fd503845337f24741639265235969eeb6c0cc773f83c751c88",
+      "en_sha256": "4504311b7cfe794cb6052d8e85e4c259346cd77ff0e7f5469152dbd403b8dc9a",
+      "origin": "ai"
+    },
+    "dataList[id=112309].levelList[level=1].name": {
+      "pl": "Łamanie Kości",
+      "kr_sha256": "884d0287c30a78f00929c1ed543efd1cd156d129c406a5226da27e704d209a7f",
+      "en_sha256": "a965c4610b07eb25aea802413d68498d153679ec427fcac81e358bbd9a95b47e",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "entries": {
+    "dataList[id=10501].stageList[id=10501].title": {
+      "pl": "Długa Rzeka",
+      "kr_sha256": "d08d5b17f100d32124777af5ec3e0dda82045ad323eb72aa849aa1a58e1a3988",
+      "en_sha256": "2782dcaaf94b984dd9208dd860efe8cac40904249246ffcb950ddfa0f98a2c04",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10502].desc": {
+      "pl": "Gdy tylko otworzyłem oczy, uderzyła mnie obrzydliwa faktura tego miejsca. Próbowałem odtworzyć w pamięci plan Ishmael. Jesteśmy…",
+      "kr_sha256": "eaaef471e57a67c5a6b215d2cb4139462325820f0c5aebf5b7794efddce62a89",
+      "en_sha256": "e6690cb37601b52e2a9fa2e5ab1cdef92d6f30b5bf33529698a955b1ea6fccba",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10502].title": {
+      "pl": "Długa Rzeka",
+      "kr_sha256": "d08d5b17f100d32124777af5ec3e0dda82045ad323eb72aa849aa1a58e1a3988",
+      "en_sha256": "2782dcaaf94b984dd9208dd860efe8cac40904249246ffcb950ddfa0f98a2c04",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10503].desc": {
+      "pl": "W poszukiwaniu połkniętej Złotej Gałęzi z własnej woli wpłynęliśmy do paszczy Bladego Wieloryba. Cała dwunastka Grzeszników dotarła na dół zgodnie z planem… tylko gdzie podziała się nasza łódź?",
+      "kr_sha256": "9253f75e4bf4ce888931730faa37dca16bafe04b04f2d7c63ffe3dde1178767e",
+      "en_sha256": "114048145c52186353d23ce501dcde1a617719f12aa064632080712795160fec",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10503].title": {
+      "pl": "Długa Rzeka 2",
+      "kr_sha256": "281eb3607f8a81ed8ee3613be3c9cdbbc2543b4ba227c15b081b136498679643",
+      "en_sha256": "51f5e0a8a77dbdeba72de126c149299c946c03f912b6d653987652ff404faf03",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10504].desc": {
+      "pl": "W poszukiwaniu połkniętej Złotej Gałęzi z własnej woli wpłynęliśmy do paszczy Bladego Wieloryba. Cała dwunastka Grzeszników dotarła na dół zgodnie z planem… tylko gdzie podziała się nasza łódź?",
+      "kr_sha256": "9253f75e4bf4ce888931730faa37dca16bafe04b04f2d7c63ffe3dde1178767e",
+      "en_sha256": "114048145c52186353d23ce501dcde1a617719f12aa064632080712795160fec",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10504].title": {
+      "pl": "Długa Rzeka 3",
+      "kr_sha256": "da0289e1afb4ed371dcc99237f30557ef6000c5546678fbc5ba29b5d323d339e",
+      "en_sha256": "cb48981f524f72429c978eae04a6a8fce813b72107e641e047c9237ebe48ce03",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10505].desc": {
+      "pl": "Uciekając ile sił w nogach przed ulewą kwasu żołądkowego, usłyszeliśmy nagle czyjeś głosy. Syreny?",
+      "kr_sha256": "482947688be2e584a128f5d5000ade9ae38c27ecead30848cff9fcb3a56a2355",
+      "en_sha256": "81485a57b3fba2d197d1b9e5acd1e7029f8fb7d24a255663da2e230c17561078",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10505].title": {
+      "pl": "Żołądek Wieloryba",
+      "kr_sha256": "1d5aab753b8229d719a5bc39ba90750de826bc1fdfbd7b23fa750841a40401b3",
+      "en_sha256": "3cd8b92c1034f43a9bd03eb12edbb6df29928841a602d57a12d0c7089fc471c4",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10506].desc": {
+      "pl": "Uciekając ile sił w nogach przed ulewą kwasu żołądkowego, usłyszeliśmy nagle czyjeś głosy. Syreny?",
+      "kr_sha256": "482947688be2e584a128f5d5000ade9ae38c27ecead30848cff9fcb3a56a2355",
+      "en_sha256": "81485a57b3fba2d197d1b9e5acd1e7029f8fb7d24a255663da2e230c17561078",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10506].title": {
+      "pl": "Żołądek Wieloryba 2",
+      "kr_sha256": "a4ffb1e041555c9f008b69e8327ad57d973c21579d28b33f6a0536e1cbf3219f",
+      "en_sha256": "2b22b2f8d3f76ef803a4f9bb97bdf74ac63a7586579d57c4c5f0406cfcd1e3e9",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10507].desc": {
+      "pl": "Choć części ich ciał pokrywała biel, nie byli Syrenami. Nieznajomi poprowadzili nas przed siebie; jedynie Ishmael przystanęła, wpatrując się wymownie w jedną z postaci.",
+      "kr_sha256": "ea6c7d131191dec23b82ff12ebd8e452d16c7d9e426dfa097262a00af497d850",
+      "en_sha256": "93406d95fc1cc42c12f96b6fbd3c819c35c05ffd85f890fd2e1d6b679e92c74f",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10507].title": {
+      "pl": "Miasteczko Pequod",
+      "kr_sha256": "e156f19bacc52a5d8cd57202623963adb2d9651d375f38cdea9825ddfc19879d",
+      "en_sha256": "7ae93f1d3206e9edd9d397e060eebae4398106513a1df1575b3b6e482da0fc68",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10508].desc": {
+      "pl": "Nieznajomi zaprowadzili nas do osady zwanej Miasteczkiem Pequod. Tam Ishmael ujrzała twarz kogoś, kogo tak żarliwie pragnęła znów zobaczyć żywym.",
+      "kr_sha256": "20101280ead25ecefd175349c91dc4281f6c3af6ac52123adc398075d902a3ae",
+      "en_sha256": "ef4450576c494ba53380b6e6ef0f53026c3658efea87ea05f1e932a8d5d1be1c",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10508].title": {
+      "pl": "Miasteczko Pequod 2",
+      "kr_sha256": "73aa3e8c3d86f2151f9d6a1b2c7d7f28812b57b02574d8e0ceb14c7ca7e9343f",
+      "en_sha256": "529a5b057c4873a50a7950a3a8b899a671084a0029876ba116a4017e009e04d9",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10509].desc": {
+      "pl": "Nieznajomi zaprowadzili nas do osady zwanej Miasteczkiem Pequod. Tam Ishmael ujrzała twarz kogoś, kogo tak żarliwie pragnęła znów zobaczyć żywym.",
+      "kr_sha256": "20101280ead25ecefd175349c91dc4281f6c3af6ac52123adc398075d902a3ae",
+      "en_sha256": "ef4450576c494ba53380b6e6ef0f53026c3658efea87ea05f1e932a8d5d1be1c",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10509].title": {
+      "pl": "Miasteczko Pequod 3",
+      "kr_sha256": "6fc9cb4d1d1d90cdf748d8c1784661dedcedf141e9eb6480477b41f05b19832f",
+      "en_sha256": "d288dc9d9b64bd557cbf50530d4a0487baf52bb83f42dda27d2380cb309c6874",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10510].desc": {
+      "pl": "Spotkaliśmy dawnych załogantów Pequoda oraz kapitan Ahab. Z pewnym siebie uśmiechem Ahab zaprosiła nas na rozmowę.",
+      "kr_sha256": "93628a2b35b8f8c4c61c237ac5b6ce5eae40e0bf156618524ea48effcb72153b",
+      "en_sha256": "4de84b066c0a2a009d30e1b8eeabd5398fbed9a0d3767c761e9c177d89c4dbc9",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10510].title": {
+      "pl": "Kajuta Kapitańska",
+      "kr_sha256": "aafa55e9a3fdafb6d8c55aa48171545d35991d355d616b626fd755e8990c1f6f",
+      "en_sha256": "f2558ff5662cc2a1a8e7e4ec39bc65d5aa468a7efba6d0e1bf80372d81bf0db5",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10511].desc": {
+      "pl": "Kapitan Ahab zdawała się przejrzeć nas na wylot. Wśród Grzeszników narastał rozdźwięk i niepokój.",
+      "kr_sha256": "c910be38607d27446fce7759ffe3ef5fab15d5db7078441b48ee6f8daca716ef",
+      "en_sha256": "59229ce38712411c509c3e11b701e5f68fa4fd034d7a52ffd3c1a29803850393",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10511].title": {
+      "pl": "Kajuta Kapitańska 2",
+      "kr_sha256": "0df460afef0236f8c48eb226e1e11f28bb589f6eb1bfc20126b2e8ecb79f1068",
+      "en_sha256": "0642f0ae307bf909e1c277e3e2f79022183cba03c4a3f8298245432d757bd198",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10512].desc": {
+      "pl": "Ahab składa Ishmael zabójczą propozycję nie do odrzucenia. W głębi ducha pragnąłem chyba, by Ishmael jej nie przyjęła — choć sam nie potrafiłem wskazać innego wyjścia.",
+      "kr_sha256": "962c70e758eb09ca862e816864af3065e0ef6c936aebb00feff15a16aab95e62",
+      "en_sha256": "2eae3aa57b80804dba426bdd5238525ac251ad1df312dc67d607e04683d99564",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10512].title": {
+      "pl": "Kajuta Kapitańska 3",
+      "kr_sha256": "106057aabea990ac9c84bcfbafaddaece7651b8cdfe96aa68895526f5f474def",
+      "en_sha256": "b7a5bfc9e6150c71411b5dbf43f183dbbbafdf293432f5d682ae2887ccb41f1b",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10513].desc": {
+      "pl": "Ahab składa Ishmael zabójczą propozycję nie do odrzucenia. W głębi ducha pragnąłem chyba, by Ishmael jej nie przyjęła — choć sam nie potrafiłem wskazać innego wyjścia.",
+      "kr_sha256": "962c70e758eb09ca862e816864af3065e0ef6c936aebb00feff15a16aab95e62",
+      "en_sha256": "2eae3aa57b80804dba426bdd5238525ac251ad1df312dc67d607e04683d99564",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10513].title": {
+      "pl": "Kajuta Kapitańska 4",
+      "kr_sha256": "57883f3e4f71606f97accaa8c33f20fad78f61405218bbf15e6d68212fccdc96",
+      "en_sha256": "a640210542e2a6d1ae1a3998039b6ab6c4943c4810340dfba47b9645a5eed992",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10514].title": {
+      "pl": "Wyjście z Miasteczka Pequod",
+      "kr_sha256": "56214ac3b532fb536f010e9ebb37c2d784fccfc5337e1d69e34e67f9b391cea7",
+      "en_sha256": "d00929607ff7809d93564e6b8d4fe94b57afbc2c314cfec1891fc2caedb52a81",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10515].desc": {
+      "pl": "Ustaliliśmy, że Ahab ze swoją załogą przebije się przez trzustkę, a my przejdziemy przez prawy przedsionek, by spotkać się przed sercem. Jako sterniczka dołączyła do nas Queequeg.",
+      "kr_sha256": "03085bdf906f6841d48b41624299eb8c728555a24e8b35430d38cd49de906cf0",
+      "en_sha256": "d0b8e9f31376e03483111935f7eb526e1829d8e6308535b6d3d9586a250c36a6",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10515].title": {
+      "pl": "Queequeg",
+      "kr_sha256": "acd5214782254738f27301b03e96d4e285d25939311e6abfbdf673ca9ad9f1f1",
+      "en_sha256": "dff5ff6c1934cf274d45ebd286917d3a5c27ac65af289f9489b464776cd18ac1",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10516].desc": {
+      "pl": "Ustaliliśmy, że Ahab ze swoją załogą przebije się przez trzustkę, a my przejdziemy przez prawy przedsionek, by spotkać się przed sercem. Jako sterniczka dołączyła do nas Queequeg.",
+      "kr_sha256": "03085bdf906f6841d48b41624299eb8c728555a24e8b35430d38cd49de906cf0",
+      "en_sha256": "d0b8e9f31376e03483111935f7eb526e1829d8e6308535b6d3d9586a250c36a6",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10516].title": {
+      "pl": "Queequeg 2",
+      "kr_sha256": "1dd350ae2b7b31decb9907b5d0472a15a11280811f3d1463da1a355e08c27c2a",
+      "en_sha256": "cfb96335348a20047bd18f0d1c4305eafbbaec657155f275fb8796aa0f8bc210",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10517].desc": {
+      "pl": "Ustaliliśmy, że Ahab ze swoją załogą przebije się przez trzustkę, a my przejdziemy przez prawy przedsionek, by spotkać się przed sercem. Jako sterniczka dołączyła do nas Queequeg.",
+      "kr_sha256": "03085bdf906f6841d48b41624299eb8c728555a24e8b35430d38cd49de906cf0",
+      "en_sha256": "d0b8e9f31376e03483111935f7eb526e1829d8e6308535b6d3d9586a250c36a6",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10517].title": {
+      "pl": "Queequeg 3",
+      "kr_sha256": "cfe43ce7df3e391519b64a6f3940d51ca3841e7a3f15c874cae048ad25506d05",
+      "en_sha256": "08e195af63f32181bf9d4453a6cb07110195663f27007d827e1ab74b6d7a2c95",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10518].desc": {
+      "pl": "Ustaliliśmy, że Ahab ze swoją załogą przebije się przez trzustkę, a my przejdziemy przez prawy przedsionek, by spotkać się przed sercem. Jako sterniczka dołączyła do nas Queequeg.",
+      "kr_sha256": "03085bdf906f6841d48b41624299eb8c728555a24e8b35430d38cd49de906cf0",
+      "en_sha256": "d0b8e9f31376e03483111935f7eb526e1829d8e6308535b6d3d9586a250c36a6",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10518].title": {
+      "pl": "Queequeg 4",
+      "kr_sha256": "8a73cf52e8ee8c6864308b749d53425d746755bea442e8210d4ad979395cc7ad",
+      "en_sha256": "598e79719206018670bd1f76ee1098928e40bceb6b99fd4e7745c4cf22e334cf",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10519].desc": {
+      "pl": "Ustaliliśmy, że Ahab ze swoją załogą przebije się przez trzustkę, a my przejdziemy przez prawy przedsionek, by spotkać się przed sercem. Jako sterniczka dołączyła do nas Queequeg.",
+      "kr_sha256": "03085bdf906f6841d48b41624299eb8c728555a24e8b35430d38cd49de906cf0",
+      "en_sha256": "d0b8e9f31376e03483111935f7eb526e1829d8e6308535b6d3d9586a250c36a6",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10519].title": {
+      "pl": "Queequeg 5",
+      "kr_sha256": "d95cad07d1e76de0cc112fb9dc8f6aa47a73a5ce9ebaf5efd7a4f06182eafd9e",
+      "en_sha256": "04fd658f0d267706b6588061c2ac09d32dd9cf055270f2b5813b599ab1e01c6a",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10520].desc": {
+      "pl": "Wygląda na to, że Ishmael łączyła z Queequeg szczególna więź. Znów nawiedza mnie wizja z przeszłości Ishmael… a z jej głębi dobiega przeraźliwy płacz.",
+      "kr_sha256": "0b9dfdbfb02566e64323c2809aa7b91326d20cf30fddbcd86e54450bdda9e087",
+      "en_sha256": "e3a093540834cff816164e9cbc827ad67b9b51123c092c3c81cb69e50cd684b9",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10520].title": {
+      "pl": "Prawy Przedsionek",
+      "kr_sha256": "fccb4ad18fc0d1fa852e151f7e8e13f710900377bd1f42c457ca3c56b3406680",
+      "en_sha256": "1de9d29dcce2f6b38c93804ffdb28418b7e87bb4af0cc2e134235273247c7199",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10521].desc": {
+      "pl": "Wygląda na to, że Ishmael łączyła z Queequeg szczególna więź. Znów nawiedza mnie wizja z przeszłości Ishmael… a z jej głębi dobiega przeraźliwy płacz.",
+      "kr_sha256": "6a17d72589b2cebb21a7ccbba753a63e3c737dbcc34cb4db85f59dd2aa256675",
+      "en_sha256": "e3a093540834cff816164e9cbc827ad67b9b51123c092c3c81cb69e50cd684b9",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10521].title": {
+      "pl": "Prawy Przedsionek 2",
+      "kr_sha256": "68797c73f281a64a2002a94202fde9d44bca7a5fe400d38cb1ce63b7eed635cb",
+      "en_sha256": "fece153f0b8d54e30f1ff9c87b830edb339ed177df92c7a5977d568345c75b29",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10522].desc": {
+      "pl": "Wygląda na to, że Ishmael łączyła z Queequeg szczególna więź. Znów nawiedza mnie wizja z przeszłości Ishmael… a z jej głębi dobiega przeraźliwy płacz.",
+      "kr_sha256": "6a17d72589b2cebb21a7ccbba753a63e3c737dbcc34cb4db85f59dd2aa256675",
+      "en_sha256": "e3a093540834cff816164e9cbc827ad67b9b51123c092c3c81cb69e50cd684b9",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10522].title": {
+      "pl": "Prawy Przedsionek 3",
+      "kr_sha256": "067ff10a3a49996338a68d81ced060dd26c58b735a7f8383718abc0af31ab271",
+      "en_sha256": "edb45771724f27e9dfdcfffab8827227defafbe742adf77f2c0852f57758d2b2",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10523].desc": {
+      "pl": "Gdy Ishmael dopnie swego, czy zostanie jej jeszcze jakiekolwiek „potem”? Ja… chciałem chyba tylko pójść ze wszystkimi na lody.",
+      "kr_sha256": "f6815a96f3319be56d0fe8776e0908618cc26f68d6a35891464118cb5a4d3929",
+      "en_sha256": "e0d9776f5155e2804f9880f5d1264aa23ef4aecea637b61f3a30073bb8c7b539",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10523].title": {
+      "pl": "Prawa Komora",
+      "kr_sha256": "c25513ee62fc4884a31a21e063e910915da6656e6d06e724e70cb9904ab08e88",
+      "en_sha256": "881da0c80d7aabf0c01f283ae38e7c29f1c876d0ed2a230f9a1fd9853c6466e0",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10524].desc": {
+      "pl": "Gdy Ishmael dopnie swego, czy zostanie jej jeszcze jakiekolwiek „potem”? Ja… chciałem chyba tylko pójść ze wszystkimi na lody.",
+      "kr_sha256": "f6815a96f3319be56d0fe8776e0908618cc26f68d6a35891464118cb5a4d3929",
+      "en_sha256": "e0d9776f5155e2804f9880f5d1264aa23ef4aecea637b61f3a30073bb8c7b539",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10524].title": {
+      "pl": "Prawa Komora 2",
+      "kr_sha256": "c047e1635063846fde3e43bec15f34caab3d5576f6d5d647d20cfe171c09d24e",
+      "en_sha256": "2e3c2425c78171c947648d7ba25245ef7d85a796c5bfb65ed7324aea43cb6226",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10525].desc": {
+      "pl": "Gdy Ishmael dopnie swego, czy zostanie jej jeszcze jakiekolwiek „potem”? Ja… chciałem chyba tylko pójść ze wszystkimi na lody.",
+      "kr_sha256": "f6815a96f3319be56d0fe8776e0908618cc26f68d6a35891464118cb5a4d3929",
+      "en_sha256": "e0d9776f5155e2804f9880f5d1264aa23ef4aecea637b61f3a30073bb8c7b539",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10525].title": {
+      "pl": "Prawa Komora 3",
+      "kr_sha256": "3b9d6811ebe76ba548b3951135add88fab4a5f9778ab96f67687d31b3ed2c459",
+      "en_sha256": "96a511aa5e3aa1e8f87f72572c4f0074f58b6a8d6b9566bbd66a8028425dbe46",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10526].desc": {
+      "pl": "Załoga i Ishmael krzyczeli z całych płuc, że śmierć Bladego Wieloryba zakończy wszystko. A teraz Ishmael…",
+      "kr_sha256": "91dbc513944ab8da81e080aaabad5946c74af15afe6a58ed0ccb4c1fde6f0448",
+      "en_sha256": "a1f410a3e654344c4156464114fd3fb836a30c64d14adaff1cd59740df3ed8bc",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10526].title": {
+      "pl": "Most ze Ścięgien",
+      "kr_sha256": "c1acb9b1027bcc07bde5ddc544f97cabc1356dccbdb085bb5e0536f2f05ad3d1",
+      "en_sha256": "456952ece55b53675564dd593d74b8794dd84e7ee1a4538fb7d6cb488b4f6994",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10527].desc": {
+      "pl": "Załoga i Ishmael krzyczeli z całych płuc, że śmierć Bladego Wieloryba zakończy wszystko. A teraz Ishmael…",
+      "kr_sha256": "91dbc513944ab8da81e080aaabad5946c74af15afe6a58ed0ccb4c1fde6f0448",
+      "en_sha256": "a1f410a3e654344c4156464114fd3fb836a30c64d14adaff1cd59740df3ed8bc",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10527].title": {
+      "pl": "Most ze Ścięgien 2",
+      "kr_sha256": "9d874263b71f70b2c4494cc0efd2070e204b2af81b36d200dcf1ca897c4b4a19",
+      "en_sha256": "ff1a5df8478538a6855da118eb78fc4810e4ba81e17e924044d11f0691ca78f2",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10528].desc": {
+      "pl": "Załoga i Ishmael krzyczeli z całych płuc, że śmierć Bladego Wieloryba zakończy wszystko. A teraz Ishmael…",
+      "kr_sha256": "91dbc513944ab8da81e080aaabad5946c74af15afe6a58ed0ccb4c1fde6f0448",
+      "en_sha256": "a1f410a3e654344c4156464114fd3fb836a30c64d14adaff1cd59740df3ed8bc",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10528].title": {
+      "pl": "Echo Bicia Serca",
+      "kr_sha256": "7243bd5793b19eabe673d2c3d47093bb904977843efbc7dbdf3b643c34658250",
+      "en_sha256": "fb057a92c940c5fbf3cb8c6999bc4cc8986af5313c485cdf42ac4731ada16acf",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10529].desc": {
+      "pl": "Załoga i Ishmael krzyczeli z całych płuc, że śmierć Bladego Wieloryba zakończy wszystko. A teraz Ishmael…",
+      "kr_sha256": "91dbc513944ab8da81e080aaabad5946c74af15afe6a58ed0ccb4c1fde6f0448",
+      "en_sha256": "a1f410a3e654344c4156464114fd3fb836a30c64d14adaff1cd59740df3ed8bc",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10529].title": {
+      "pl": "Echo Bicia Serca 2",
+      "kr_sha256": "4078ab709452b910752381235b823415eaac2929b999527c4836b76b0db831ad",
+      "en_sha256": "f7252b026124741909a085e9de57f5c65367e17016fef23b42707f443c3f0c58",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10530].desc": {
+      "pl": "Załoga i Ishmael krzyczeli z całych płuc, że śmierć Bladego Wieloryba zakończy wszystko. A teraz Ishmael…",
+      "kr_sha256": "91dbc513944ab8da81e080aaabad5946c74af15afe6a58ed0ccb4c1fde6f0448",
+      "en_sha256": "a1f410a3e654344c4156464114fd3fb836a30c64d14adaff1cd59740df3ed8bc",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10530].title": {
+      "pl": "Echo Bicia Serca 3",
+      "kr_sha256": "5f0535ffcafd1c21eaef29daa20d6ca2e318b71b50a41e58eb6c8c624e8a9f7d",
+      "en_sha256": "a5fe4c9975f302b56c1c3e4182df02442ccb517b8524b6b96ed535f0fdf5362d",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10531].desc": {
+      "pl": "Załoga i Ishmael krzyczeli z całych płuc, że śmierć Bladego Wieloryba zakończy wszystko. A teraz Ishmael…",
+      "kr_sha256": "91dbc513944ab8da81e080aaabad5946c74af15afe6a58ed0ccb4c1fde6f0448",
+      "en_sha256": "a1f410a3e654344c4156464114fd3fb836a30c64d14adaff1cd59740df3ed8bc",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10531].title": {
+      "pl": "Echo Bicia Serca 4",
+      "kr_sha256": "33f8bf549e3e36e0b761273b7c03a1979e05499ae9914710ed5268812c0d4fa8",
+      "en_sha256": "3868e903c6634ec9cfa9175d4971e0a9d1515ecc36e23b3caa3a5df8d60e1ae6",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10532].title": {
+      "pl": "Miejsce Zbiórki przed Sercem",
+      "kr_sha256": "2e02724a46d1cb28c328abfca3bb641cdbd4c07978f5e001a6f07f2099ae3f86",
+      "en_sha256": "5e1ececa9428c0ad8d32ebc87137ea13551693cc239f7d003c41ca2731728185",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10533].desc": {
+      "pl": "Słychać łomot serca Bladego Wieloryba. Na drodze stoi nam już tylko drgająca przed nami Anomalia.",
+      "kr_sha256": "7ac8643a843f9cebfcc527bcbd41f80531fdba491e66862da8a40b7eb531456f",
+      "en_sha256": "55bfc200d04530e01aa02708a136e6a52f48c470aaaf2b57d81a47a9476fc5db",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10533].title": {
+      "pl": "Miejsce Zbiórki przed Sercem",
+      "kr_sha256": "2e02724a46d1cb28c328abfca3bb641cdbd4c07978f5e001a6f07f2099ae3f86",
+      "en_sha256": "5e1ececa9428c0ad8d32ebc87137ea13551693cc239f7d003c41ca2731728185",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10534].desc": {
+      "pl": "Na miejscu zbiórki spotkaliśmy Ahab, lecz garstka ocalałych za jej plecami wyraźnie stopniała. Ujrzałem wizję ścieżki, którą przeszła Ahab — usłanej ciałami jej własnych ludzi.",
+      "kr_sha256": "aab2528da183eb0f17290862491cde0f4b62f7996d64735581c64c0bd053b5cd",
+      "en_sha256": "f46aa33249a4d42ccbab8c11acae7cab2fce4fd4c1a64cd21658d5b388d71843",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10534].title": {
+      "pl": "Miejsce Zbiórki przed Sercem 2",
+      "kr_sha256": "8859bfa3d02111a13e697f2c46e002175cd9354f07194767cc4069f4c1ed1ce7",
+      "en_sha256": "2256fd9251612a5cb698a7fb1acf39c8caee004b893bd187cafea9291fd3e2d0",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10535].desc": {
+      "pl": "Na miejscu zbiórki spotkaliśmy Ahab, lecz garstka ocalałych za jej plecami wyraźnie stopniała. Ujrzałem wizję ścieżki, którą przeszła Ahab — usłanej ciałami jej własnych ludzi.",
+      "kr_sha256": "aab2528da183eb0f17290862491cde0f4b62f7996d64735581c64c0bd053b5cd",
+      "en_sha256": "f46aa33249a4d42ccbab8c11acae7cab2fce4fd4c1a64cd21658d5b388d71843",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10535].title": {
+      "pl": "Miejsce Zbiórki przed Sercem 3",
+      "kr_sha256": "dc33a2f126eee6535ae016a994f51c373bfadba0a172fd5d4ca33b9c099fd44c",
+      "en_sha256": "9e4dd40c5920a4c8d7250b3b84d8e733c82aa16b966882ec6c547063ebdb6771",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10536].desc": {
+      "pl": "Ahab żąda Złotej Gałęzi tkwiącej w mojej głowie. Nie zamierzam jednak dobrowolnie oddać życia.\n…Wrota prowadzące do serca stają otworem.",
+      "kr_sha256": "81940aeff77f8b56f3546d4c9ad3fae685781eba13faa3890159b8af3e0abaa8",
+      "en_sha256": "be4c9611b0cb9a0c97503743f6233b986efcbc05b069ec068437d5cb05940032",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10536].title": {
+      "pl": "Serce Wieloryba",
+      "kr_sha256": "67746ee451d3b29f26691f2bc016f63e07bff4ee8d5918ac15331fad1a1451f2",
+      "en_sha256": "710f3f774da66b622c7deb6618ff179947c1e5283e21fa517a6f0901413775bb",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10537].desc": {
+      "pl": "Przed nami pulsuje serce Bladego Wieloryba. Światy Ishmael i Ahab zderzają się ze sobą.",
+      "kr_sha256": "7b82921e44ac720eb3a5ecc4e69ff4c7f2a8a4588f9d8b3d0c3641680bc0167d",
+      "en_sha256": "dc55c899c47683ffe207b8b84090a546c71bf09bacce8b3f976799c658793a4a",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10537].title": {
+      "pl": "Serce Wieloryba 2",
+      "kr_sha256": "7de2c0591ade38ed135cc3af68884874e8a1117e9ddf4184f44ba7d5bcb8331c",
+      "en_sha256": "ce0f014d6b639fd888becf15d629af4cf81b2f896f82dce3976107319144c89f",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10538].desc": {
+      "pl": "Przed nami pulsuje serce Bladego Wieloryba. Światy Ishmael i Ahab zderzają się ze sobą.",
+      "kr_sha256": "7b82921e44ac720eb3a5ecc4e69ff4c7f2a8a4588f9d8b3d0c3641680bc0167d",
+      "en_sha256": "dc55c899c47683ffe207b8b84090a546c71bf09bacce8b3f976799c658793a4a",
+      "origin": "ai"
+    },
+    "dataList[id=10501].stageList[id=10538].title": {
+      "pl": "Serce Wieloryba 3",
+      "kr_sha256": "19f2597e0e279c5493fdc47100288584e176e3bcd173c3b94a28e38f2fb65dce",
+      "en_sha256": "105dc4e97c1f8d9c3ffeedb1c583ea87edeeedddd132adbf934f7dfb6ba71a0c",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[key=Q2001].description": {
+      "pl": "Wreszcie dotarliśmy na 2. piętro. To miejsce jest czerwone, mroczne i przesycone grozą. Rozglądajmy się.",
+      "kr_sha256": "06ff7205b1a413c206234e26c5ea9b9fa068536afff5fe81cf19bfce4b4a6e5e",
+      "en_sha256": "828ba7edb2874f9506c81e7d6d58297c605a1e74fe06501c4aee95d7788b5b04",
+      "origin": "ai"
+    },
+    "dataList[key=Q2001].steps[#0].goalDescription1": {
+      "pl": "Rozejrzyj się po 2. piętrze",
+      "kr_sha256": "5008a3482745415f69890b72d8c7a56a7f2bec608555facf820c66310e1c3658",
+      "en_sha256": "99e9ed193f77ee8e2307718ff2c73f37804a0dcc0cce8174f20be64e843ce9ac",
+      "origin": "ai"
+    },
+    "dataList[key=Q2001].title": {
+      "pl": "Rozejrzyj się po 2. piętrze",
+      "kr_sha256": "5008a3482745415f69890b72d8c7a56a7f2bec608555facf820c66310e1c3658",
+      "en_sha256": "99e9ed193f77ee8e2307718ff2c73f37804a0dcc0cce8174f20be64e843ce9ac",
+      "origin": "ai"
+    },
+    "dataList[key=Q2002].description": {
+      "pl": "Flannel i Felt byli niezwykle poruszeni widząc broń, którą przynieśliśmy. Poprosili, byśmy powstrzymali Le Rouge przed tym, co robią w Salonie Prestiżu na 2. piętrze. Czy remont na 2. piętrze już się skończył? Czas zejść na dół.",
+      "kr_sha256": "d6ed01d3f7c292e56a56c0d80b89e1ad4ac3481577b3e2e64aec8217b24fe5fe",
+      "en_sha256": "815964c9373a92f9cc244e99ce3996266540df1b629a586e7ff4ef0cf44e7827",
+      "origin": "ai"
+    },
+    "dataList[key=Q2002].steps[#0].goalDescription1": {
+      "pl": "Udaj się na 2. piętro",
+      "kr_sha256": "1b865c222b1613b740e6e409259d5f19503a83bd194aa7f2812d9266e8cf0dab",
+      "en_sha256": "fb09a0045a0931a97260fd90dfa35fdbe8285edb30fda4b15f9e3963d7831246",
+      "origin": "ai"
+    },
+    "dataList[key=Q2002].title": {
+      "pl": "Udaj się na 2. piętro",
+      "kr_sha256": "1b865c222b1613b740e6e409259d5f19503a83bd194aa7f2812d9266e8cf0dab",
+      "en_sha256": "fb09a0045a0931a97260fd90dfa35fdbe8285edb30fda4b15f9e3963d7831246",
+      "origin": "ai"
+    },
+    "dataList[key=Q2003].description": {
+      "pl": "Na 2. piętrze wciąż trwała rzeź. Le Noir strzegący wejścia do Salonu Prestiżu, zobaczywszy nasz Złoty Gwóźdź, przepuścił nas, prosząc, byśmy zniszczyli fałszywego boga, którego tworzy Le Rouge. Co czeka w środku? Wejdźmy do Salonu Prestiżu.",
+      "kr_sha256": "d473494c911082bed05ea7bf5bb14d369e2843364cbd60e41aa62314da610b6c",
+      "en_sha256": "d73e6c3d5330322b2dd80cf55184d8e0215da20aea3f206a103587fe6185e50b",
+      "origin": "ai"
+    },
+    "dataList[key=Q2003].steps[#0].goalDescription1": {
+      "pl": "Wejdź do Salonu Prestiżu",
+      "kr_sha256": "f6314c875581001fd5995e72791a56f4cd1491768878450c45a010df5444ea21",
+      "en_sha256": "fbc41baa33e1686896709692ed7c8b1cf8d1ebe2c25a3743424e1bdf9a155d11",
+      "origin": "ai"
+    },
+    "dataList[key=Q2003].title": {
+      "pl": "Wejdź do Salonu Prestiżu",
+      "kr_sha256": "f6314c875581001fd5995e72791a56f4cd1491768878450c45a010df5444ea21",
+      "en_sha256": "fbc41baa33e1686896709692ed7c8b1cf8d1ebe2c25a3743424e1bdf9a155d11",
+      "origin": "ai"
+    },
+    "dataList[key=Q2004].description": {
+      "pl": "Pozbyliśmy się Le Rouge strzegących Salonu Prestiżu. Pójdźmy za Meursaultem za Zasłonę.",
+      "kr_sha256": "ef1a9a3e295b19eeb19e86859087415d2bfc63ff39a184827225005437980443",
+      "en_sha256": "1da146bf5c56b60635f4232a1bf3c8ee95ac58603eb8b8bf344386fce2672865",
+      "origin": "ai"
+    },
+    "dataList[key=Q2004].steps[#0].goalDescription1": {
+      "pl": "Wejdź za Zasłonę",
+      "kr_sha256": "299fa82664ef3d76d64089224bc80dfd4076c1f03aefd0bcbcb78e7fc542e57a",
+      "en_sha256": "64d92217369804c36b8e77dd9590676efb024488fe8cbdf7fab8709af678b946",
+      "origin": "ai"
+    },
+    "dataList[key=Q2004].title": {
+      "pl": "Wejdź za Zasłonę",
+      "kr_sha256": "299fa82664ef3d76d64089224bc80dfd4076c1f03aefd0bcbcb78e7fc542e57a",
+      "en_sha256": "64d92217369804c36b8e77dd9590676efb024488fe8cbdf7fab8709af678b946",
+      "origin": "ai"
+    },
+    "dataList[key=Q2011].description": {
+      "pl": "Chyba trzeba wejść w głąb Zasłony. Pomóżmy Le Noir wytłumić nawałę Le Rouge, a potem pozbądźmy się Dyrektora Marki Le Rouge, który jej strzeże.",
+      "kr_sha256": "80202537b6254ded4b27dc7b91cf6914747314370b0e09b706feee90af65d744",
+      "en_sha256": "2c9512c59863d60099106553cb5f32b183798795f43484e8133183fb92f0766b",
+      "origin": "ai"
+    },
+    "dataList[key=Q2011].steps[#0].goalDescription1": {
+      "pl": "Zabij Dyrektora Marki Le Rouge",
+      "kr_sha256": "df4d20d106776238bfe8b871899bc76b7dcecd17504c7afbcac273bdcc3b0662",
+      "en_sha256": "70b73fed4b2d19c49154009f3fe04a0dedb976aea4084dae6d4fb773ae801c49",
+      "origin": "ai"
+    },
+    "dataList[key=Q2011].title": {
+      "pl": "Odepchnij nawałę Le Rouge",
+      "kr_sha256": "5d171d11a0a07ad6cf115a10653e9929811b76c76b65d89cad3443b7169ff2ae",
+      "en_sha256": "464fe42be2864429b168f11e3c8f59d66bd5de53554393d1e6a87eff2aefd0c3",
+      "origin": "ai"
+    }
+  }
+}

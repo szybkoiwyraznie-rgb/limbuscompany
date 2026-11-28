@@ -1,0 +1,376 @@
+{
+  "entries": {
+    "dataList[id=9550].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9550].name": {
+      "pl": "Załamany Ojciec Małego Palca - Shiomi Yoru",
+      "kr_sha256": "030ab3c11cd3c8c18729c05b7326276a8fc4ffe747ef188a7ad89dad6091bd85",
+      "en_sha256": "a20948647201bcf2ff5ee7efb27a02332b5c36605309ead87e1ebf5a6612b7ce",
+      "origin": "ai"
+    },
+    "dataList[id=9551].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9551].name": {
+      "pl": "Załamany Ojciec Wskazującego - Rien",
+      "kr_sha256": "49e35cd187ecd4d774b80286f08f9dba7b274e16562cae109be635532ae88fd2",
+      "en_sha256": "1e952ed65106eb7336e081b94a22ecd9f4f0fac9fcf4af11ac6f74ecb4518253",
+      "origin": "ai"
+    },
+    "dataList[id=9552].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9552].name": {
+      "pl": "Załamany Ojciec Wskazującego - Rien",
+      "kr_sha256": "49e35cd187ecd4d774b80286f08f9dba7b274e16562cae109be635532ae88fd2",
+      "en_sha256": "1e952ed65106eb7336e081b94a22ecd9f4f0fac9fcf4af11ac6f74ecb4518253",
+      "origin": "ai"
+    },
+    "dataList[id=9553].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9553].name": {
+      "pl": "Załamany Distorted Hohenheim",
+      "kr_sha256": "61c0e997a962b793efbd03389f9d5e280fceb26c0840a77e493de88cc02a6d5a",
+      "en_sha256": "00ba9a026a05f7d1c6e1da2279ee6110048f69aff51330160588369685ece8e6",
+      "origin": "ai"
+    },
+    "dataList[id=9554].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9554].name": {
+      "pl": "Załamany Ojciec Serdecznego - Callisto",
+      "kr_sha256": "bd4a69c9f7d7dc3ba6d9512d9927c5edea54745df8bf66cb93d6e587878e7559",
+      "en_sha256": "b8f3b289c7c5ecd52da2dd0d635525e532cd31185bceb1de9ace0574d46f3167",
+      "origin": "ai"
+    },
+    "dataList[id=9555].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9555].name": {
+      "pl": "Załamana Uczennica Serdecznego - Albina",
+      "kr_sha256": "671d1346dc8fd21f17928e5c866acdef08cae24c740c14a6e0c7f74a437f7f28",
+      "en_sha256": "a4505968b2f36c7538f3e5e9d1476aa1baca74cc21143c71e7fe47b1bd6b8af0",
+      "origin": "ai"
+    },
+    "dataList[id=955601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=955601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=955602].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=955602].name": {
+      "pl": "Pluszowa Zabawka",
+      "kr_sha256": "0107283a24c66d348a285f7a9762b74fd36c4ab5046fbb088b78d8ba46068e83",
+      "en_sha256": "faf57bf80f9bb3c1eace6e9307eb7443a82d343033fa2ec26edb6610a57a4ba1",
+      "origin": "ai"
+    },
+    "dataList[id=9556].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9556].name": {
+      "pl": "Załamany Zagrasz ze Mną?",
+      "kr_sha256": "fc815a1aad83dba71a831bacc19e73d2afe0531ffedebb9f61c9e7fe899c31d0",
+      "en_sha256": "338da6529999cfa6148742509e7a8798724ac5ee0acaca99b5565d84e7df1163",
+      "origin": "ai"
+    },
+    "dataList[id=956301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9563].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9563].name": {
+      "pl": "Załamany Motyl Splątanego Żywotu::Poczwarka",
+      "kr_sha256": "0920e01127431b376e27e0d8f12b9f5cd9baa277a50a89c0a20315467e676895",
+      "en_sha256": "529a6eb01d643ccf47043d28ede05da10fa4863f341a809f3cbd72daae77415e",
+      "origin": "ai"
+    },
+    "dataList[id=956401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9564].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9564].name": {
+      "pl": "Załamany Iluzoryczny Motyl Splątanego Żywotu::Przeszłość",
+      "kr_sha256": "6bab98fd191f41fba541902048d4df6ca694b890aed471417a4c3127f6b3f804",
+      "en_sha256": "ee2e61aec2a537030d384133132ea5d7475f8b3fb8a1d89cb7d5b51cf6ba3586",
+      "origin": "ai"
+    },
+    "dataList[id=956501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9565].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9565].name": {
+      "pl": "Załamany Iluzoryczny Motyl Splątanego Żywotu::Teraźniejszość",
+      "kr_sha256": "7ba309d6cc1b1a31a345661a0995f47ef676684557a1f17a41fe6814f7440ba8",
+      "en_sha256": "1445a608c5f45ffa9aefe9809c16aafb6aa4347cc172065414315be03f463376",
+      "origin": "ai"
+    },
+    "dataList[id=956601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9566].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9566].name": {
+      "pl": "Załamany Iluzoryczny Motyl Splątanego Żywotu::Przyszłość",
+      "kr_sha256": "454b19fd8eaadfe25d9d4e71cd0937f9618e4970fe7a7e40cf4b9ebb00753319",
+      "en_sha256": "c3287c4ab2645516a08e7785597197cdc7a02153315287ae24a5dc7b4234c343",
+      "origin": "ai"
+    },
+    "dataList[id=956701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9567].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9567].name": {
+      "pl": "Załamany Motyl Splątanego Żywotu::Imago",
+      "kr_sha256": "db2e9242acf20c964f3b5c8557433d38d66531a91b73b114cdd66bdc6a613170",
+      "en_sha256": "e1a6eb402f6533985a94b71499a4a07e9d12140cd16ccf21595e672d37518120",
+      "origin": "ai"
+    },
+    "dataList[id=956801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956801].name": {
+      "pl": "Inverted Scale",
+      "kr_sha256": "99aa6f6f9be0f401ef4cc213f1bf7418fdffca3399d656c9e043b05ac4f8b27c",
+      "en_sha256": "36ec327b26b587db481584b0e370e6870708aca592a703561c06a8c8b8842e32",
+      "origin": "ai"
+    },
+    "dataList[id=956802].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956802].name": {
+      "pl": "Głowa",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=9568].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9568].name": {
+      "pl": "Załamany Yinglong",
+      "kr_sha256": "4f985012397662c5d4e915600c926254a5c1161092e7ab1409f2e62a73c43a64",
+      "en_sha256": "53e97e20122a2347065b13ddb2c88776875fc544d95034a4e0288cdef4e31048",
+      "origin": "ai"
+    },
+    "dataList[id=956901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956901].name": {
+      "pl": "Flower-burying Wedge",
+      "kr_sha256": "b6fd4c34d0bb67882689845d323da85b595b6717802286cb188ebd7b911b45ee",
+      "en_sha256": "e0ee53e8c8ed972218457df99e538b54c9d196f7eb0e1d6fac793a7e82cd49cc",
+      "origin": "ai"
+    },
+    "dataList[id=956902].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956902].name": {
+      "pl": "Inverted Scale",
+      "kr_sha256": "99aa6f6f9be0f401ef4cc213f1bf7418fdffca3399d656c9e043b05ac4f8b27c",
+      "en_sha256": "36ec327b26b587db481584b0e370e6870708aca592a703561c06a8c8b8842e32",
+      "origin": "ai"
+    },
+    "dataList[id=956903].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956903].name": {
+      "pl": "Głowa",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=956904].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=956904].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=9569].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9569].name": {
+      "pl": "Załamany Yinglong",
+      "kr_sha256": "4f985012397662c5d4e915600c926254a5c1161092e7ab1409f2e62a73c43a64",
+      "en_sha256": "53e97e20122a2347065b13ddb2c88776875fc544d95034a4e0288cdef4e31048",
+      "origin": "ai"
+    },
+    "dataList[id=957001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=957001].name": {
+      "pl": "Hongyu, the Crimson Jade",
+      "kr_sha256": "e565669be0ce17d1a2e703ff1cff4727ea7e8cb1fc8fde797a84bbd7273b0f38",
+      "en_sha256": "74fd56c157ee36a31f3afd123a3a6ee4f163fe4eeeea8165643d77360bec3a78",
+      "origin": "ai"
+    },
+    "dataList[id=9570].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9570].name": {
+      "pl": "Załamany Hongyu, Szkarłatny Jadeit [紅玉]",
+      "kr_sha256": "4f4e965f6e7a26112cdacf60eed6026cb57d8c77500de04e443ce9ed14f08eb8",
+      "en_sha256": "08e4f9693136099397e29f887c54e70fd3815da028aed5f9c50cbe6d3bb3ce7d",
+      "origin": "ai"
+    },
+    "dataList[id=957101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=957101].name": {
+      "pl": "Flower-burying Pin",
+      "kr_sha256": "bfe0a8359a731d80705b44e4b1b6c06d20bc169e8c84d2bc836720a2c39bad85",
+      "en_sha256": "dacaa1e58a8cc5b62aafb945ec5f14a522edc3bdf357106ab4d7420e40e0161c",
+      "origin": "ai"
+    },
+    "dataList[id=9571].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9571].name": {
+      "pl": "Załamany Klin Pogrzebania Kwiatów",
+      "kr_sha256": "a8e2bcf9b6548d1f47ea4f7c601e2c73e5a149ad19fc450a8a9af19628cd1e8d",
+      "en_sha256": "4ea9d6565f4851f06b757c10fd9af82e43f3e10b4a326946f0ee82c0deba8344",
+      "origin": "ai"
+    }
+  }
+}

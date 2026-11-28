@@ -1,0 +1,922 @@
+{
+  "entries": {
+    "dataList[id=40000101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Starcia +1\n[WhenUse] Moc Bazowa +1 za każde 3 [Burst] celu (maks. 2)",
+      "kr_sha256": "b0a30f4bad8ef3c6f694a69c1fb6e4c012745c611bf252a3b8f4e3bc5b3cfd68",
+      "en_sha256": "3bac216edbc51dc8ea15e66a8cae7048f1ac48c7f878454b71ee4ab3e5faacb9",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=1].name": {
+      "pl": "Crimson Strike",
+      "kr_sha256": "d006d16cb4cb34ee18179ea701e513c169d94d84c0e67281e199c1a9ee1c0465",
+      "en_sha256": "f887df992ab882f78b9cb2ca69a7f02156b15bb32846ca427301343ad20fd340",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=2].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=2].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Starcia +1\n[WhenUse] Moc Bazowa +1 za każde 3 [Burst] celu (maks. 2)\n[WhenUse] Moc Monety +1 za każde 6 [Burst] celu (maks. 2)",
+      "kr_sha256": "29aebc016dc85e2b51927366062e961bc22a504943a0a5ad4d5a04789abe2135",
+      "en_sha256": "5c9b8a3632d8c389a3aa59958e5a6ca2da1eafb196594b15e80e0c9d35d249e4",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=2].name": {
+      "pl": "Crimson Strike Second Form - Rupture (破)",
+      "kr_sha256": "c2a7ee5a1a370af5593113c76f5a4d3cf7f87f87d1bf40d0dfe3eb909384bc49",
+      "en_sha256": "7db918c7b3bfb1a028b6b221de4f04ef263698301f45594ab6dbcc8bfdd7f50e",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst] i zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "26e4ace5b8f46143a8654b26552ccdb00288ee4cc80f5322dabe348bc20feba1",
+      "en_sha256": "baae51985d0c4c2773b0df1e395e2ffe515f1786aad602f500cccf6cbe81e198",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst] i zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "26e4ace5b8f46143a8654b26552ccdb00288ee4cc80f5322dabe348bc20feba1",
+      "en_sha256": "baae51985d0c4c2773b0df1e395e2ffe515f1786aad602f500cccf6cbe81e198",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=3].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Starcia +2\n[WhenUse] Moc Bazowa +1 za każde 3 [Burst] celu (maks. 2)\n[WhenUse] Moc Monety +1 za każde 6 [Burst] celu (maks. 2)",
+      "kr_sha256": "052d4114528c43a38ba4e25fd794ef2b7dfdd0687072d70183a45eb4ada58623",
+      "en_sha256": "1ae4dc321c45fc34daed27cde5a8790c05a725ed44ad81cd5e1c60a98d31697e",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=3].name": {
+      "pl": "Crimson Strike Third Form - Might (强)",
+      "kr_sha256": "c43db5321bfa87e6eb9c428ff83d0db46cb58e1c9d054d031faff283b5657a3d",
+      "en_sha256": "5714419d38c2e5bb60712662d3afda63c4bb1949b19029095d8629861e98bdbd",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst] i zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "26e4ace5b8f46143a8654b26552ccdb00288ee4cc80f5322dabe348bc20feba1",
+      "en_sha256": "baae51985d0c4c2773b0df1e395e2ffe515f1786aad602f500cccf6cbe81e198",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst] i zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "26e4ace5b8f46143a8654b26552ccdb00288ee4cc80f5322dabe348bc20feba1",
+      "en_sha256": "baae51985d0c4c2773b0df1e395e2ffe515f1786aad602f500cccf6cbe81e198",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "c3921d543b05347df8976bb130a4f834f8f63aceb86f6508cdf03806dca571c1",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=4].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Starcia +2\n[WhenUse] Moc Bazowa +1 za każde 3 [Burst] celu (maks. 2)\n[WhenUse] Moc Monety +1 za każde 6 [Burst] celu (maks. 2)\n[WhenUse] zyskuje 3 [Agility] w następnej turze (1 raz na turę)",
+      "kr_sha256": "81c7eade5e46c817a368a716300b7520307615e88a461b1071b6d1fc214c51d3",
+      "en_sha256": "2af4f07fdcce041036a8af540bde311d631860eac4d7482551bc0d6d68b330df",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=4].name": {
+      "pl": "Crimson Strike Fourth Form - Binding (束)",
+      "kr_sha256": "492ac92b297200f11f1409915c92f3c84ea6203cab1eaedb6791999c76f8b731",
+      "en_sha256": "456aff1827b571d33a1d20895c94a2fe8a20072747de0368a6f84a9bca1069ed",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst] i zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "26e4ace5b8f46143a8654b26552ccdb00288ee4cc80f5322dabe348bc20feba1",
+      "en_sha256": "baae51985d0c4c2773b0df1e395e2ffe515f1786aad602f500cccf6cbe81e198",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 2 [Burst]",
+      "kr_sha256": "d6e18969c58e34d772dbc2ca8d46166ef15ac77f7d18dd3eba22830bffbd06ea",
+      "en_sha256": "e66d38e67df61e34d72302dd16e152b331d46b3a4ec5b78f494221ae85a57586",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst] i zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "26e4ace5b8f46143a8654b26552ccdb00288ee4cc80f5322dabe348bc20feba1",
+      "en_sha256": "baae51985d0c4c2773b0df1e395e2ffe515f1786aad602f500cccf6cbe81e198",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "9480905eeb2445873f17c70632dfe51ab8bc4ea85de0517f1790f3d416b26d4a",
+      "en_sha256": "d4f5876434dfc44ded565e692622b52e31ca92924adc897751bb8a38fc2ac36d",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding]",
+      "kr_sha256": "0f4e7788fbb2dc04a6e0e905e5ee4875d0b83471a47fe76071ec1d5681a07ff7",
+      "en_sha256": "60986901c77b4f823bc1bb558f647dcf0113714d2d0019f1c23e52a57156c27b",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] używa tej Monety ponownie (maks. 2 razy)",
+      "kr_sha256": "0a7883dbd7111f1e793572e9985b9d0865de5f0ecdef6af80daea540e8dcbed9",
+      "en_sha256": "4efb6c0209f48593df82589fb9dea28edd8aa7d7fec4356c24b013e3f11ebae1",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Starcia +2\n[WhenUse] Moc Bazowa +1 za każde 3 [Burst] celu (maks. 2)\n[WhenUse] Moc Monety +1 za każde 6 [Burst] celu (maks. 2)\n[WhenUse] zyskuje 3 [Agility] w następnej turze (1 raz na turę)\n[WhenUse] zyskuje 3 [Breath] i 2 Licznika [Breath]",
+      "kr_sha256": "6555a0e7f2545633dc0ae4dbcba2b53a7d331c3a746d65c83010a02fbc857547",
+      "en_sha256": "726c75b1804f2b61c720f1730a6ddbfbe73060722f56376fb7846923250ee2f7",
+      "origin": "ai"
+    },
+    "dataList[id=40000101].levelList[level=5].name": {
+      "pl": "Crimson Strike Fifth Form - March (進)",
+      "kr_sha256": "29b07099c3c68111cd5fa1d6ed408822a2d6ac727a2a59b144ee444a8719adad",
+      "en_sha256": "b1b03fd71f8eca868dd794fd4d6f7408df5b09791a3674c92e287b3711c7bd96",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 1",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "cfa8f043f4d3e99d1aba492ff37d1946cb62ae6617ac6cfb8606da92dfbf9b33",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 1",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "7f5beabca7f12b820832cd2748027219b7dd6e7576b8a1f1b518c222a3107f04",
+      "en_sha256": "2927a5c99e927c6431e35fc01057a9489709449c1a473e90f512ce719d0d5603",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika [Breath]. Zyskuje [Breath] równe wartości [Burst] celu (maks. 5)",
+      "kr_sha256": "6ecaaa1c34b14c4b1da7d4970eb586738925bb2d01d9d11adece7608f8ed222e",
+      "en_sha256": "1bed67629227aa41f2616a944ab217b0cc0e9e4b464e10039f26f570e4122a0a",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 3 [Breath] w następnej turze. Zyskuje Licznik [Breath] w następnej turze równy Licznikowi [Burst] celu (maks. 2)",
+      "kr_sha256": "9d35b763b7d56ceabcfbef490884c112e2e615bc490af9bebb3efdf892937b61",
+      "en_sha256": "cd4b86c48d840e42dce14bbae1f95110b666a66aa601e8f83cb1e98cad2b6103",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "+50% obrażeń krytycznych",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "11cbba75e7875c445dda98c9909f9f127f7366b4fe2ba413958fd3ca0d52531f",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[CriticalEnemyTargetKillFail] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "8d1b8ec16d9c7ca7bd42139ebbac2787a3aafec0fcfddeb71c1ff458e8dca156",
+      "en_sha256": "7de17bbfc7cad380d4689373dfc98a9ec707a2fe5525f572f41c702ffa3f0f0d",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[CriticalEnemyTargetKill] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "32791bc127d1cf4c81852c17bb84cbb5052505f1a8f4e9e976ae864170526200",
+      "en_sha256": "7b4979f2635e7edabe39a6e552d2ba986bd7aca0b7d88015488f10cbdb85cb43",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Monety +1\n[WhenUse] Moc Monety +1 za każde 6 [Burst] celu (maks. 2)",
+      "kr_sha256": "48c54a6807af9cd10f5221d312a6f8449ec4ce91d53d0da6d3d7894b8a8874a6",
+      "en_sha256": "f59ef123f33a167c93804694f96361856d4a4a870e5d247fedb3ff5ed74a069a",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=1].name": {
+      "pl": "Crimson Phoenix",
+      "kr_sha256": "eeb098870ed0f9de95c99afccbfcd169b4947b68305c84a1b6c49728c4b0053a",
+      "en_sha256": "b549f2ba946556c435132bebf3da52a50deba42d9dae2ea4dcfed36059657b81",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "cfa8f043f4d3e99d1aba492ff37d1946cb62ae6617ac6cfb8606da92dfbf9b33",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "7f5beabca7f12b820832cd2748027219b7dd6e7576b8a1f1b518c222a3107f04",
+      "en_sha256": "2927a5c99e927c6431e35fc01057a9489709449c1a473e90f512ce719d0d5603",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika [Breath]. Zyskuje [Breath] równe wartości [Burst] celu (maks. 5)",
+      "kr_sha256": "6ecaaa1c34b14c4b1da7d4970eb586738925bb2d01d9d11adece7608f8ed222e",
+      "en_sha256": "1bed67629227aa41f2616a944ab217b0cc0e9e4b464e10039f26f570e4122a0a",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 3 [Breath] w następnej turze. Zyskuje Licznik [Breath] w następnej turze równy Licznikowi [Burst] celu (maks. 2)",
+      "kr_sha256": "9d35b763b7d56ceabcfbef490884c112e2e615bc490af9bebb3efdf892937b61",
+      "en_sha256": "cd4b86c48d840e42dce14bbae1f95110b666a66aa601e8f83cb1e98cad2b6103",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#3].coindescs[#0].desc": {
+      "pl": "+50% obrażeń krytycznych",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "11cbba75e7875c445dda98c9909f9f127f7366b4fe2ba413958fd3ca0d52531f",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[CriticalEnemyTargetKillFail] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "8d1b8ec16d9c7ca7bd42139ebbac2787a3aafec0fcfddeb71c1ff458e8dca156",
+      "en_sha256": "7de17bbfc7cad380d4689373dfc98a9ec707a2fe5525f572f41c702ffa3f0f0d",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[CriticalEnemyTargetKill] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "32791bc127d1cf4c81852c17bb84cbb5052505f1a8f4e9e976ae864170526200",
+      "en_sha256": "7b4979f2635e7edabe39a6e552d2ba986bd7aca0b7d88015488f10cbdb85cb43",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ rodzajów negatywnych efektów, Moc Monety +1\n[WhenUse] Moc Monety +1 za każde 6 [Burst] celu (maks. 2)",
+      "kr_sha256": "cb134025d7f5d592aa3a5e175c775c8740d7d8b0b3821af0c279e073f33a0591",
+      "en_sha256": "bc9177885a7ef7fa8da6d75fff4a9defcf84da2a3667cb1be0eef2d026919b4d",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=2].name": {
+      "pl": "Crimson Phoenix Second Form - Rupture (破)",
+      "kr_sha256": "f1038996ce1b565071cd3f61aa440933bee077f8b1a827ee2ef843917fb45537",
+      "en_sha256": "9fbb59a01e385369f95cdaf874033763e19bfa0703bd3990515fab990329b3c7",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Combustion] o 2",
+      "kr_sha256": "cf916a7ff280bbae8895d59cb033dd10d70213a287321d6ba014640731e9b1e2",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "cfa8f043f4d3e99d1aba492ff37d1946cb62ae6617ac6cfb8606da92dfbf9b33",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Combustion] o 2",
+      "kr_sha256": "cf916a7ff280bbae8895d59cb033dd10d70213a287321d6ba014640731e9b1e2",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "7f5beabca7f12b820832cd2748027219b7dd6e7576b8a1f1b518c222a3107f04",
+      "en_sha256": "2927a5c99e927c6431e35fc01057a9489709449c1a473e90f512ce719d0d5603",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje [Breath] równe ([Burst] + [Combustion]) celu (maks. 10)",
+      "kr_sha256": "51cd08988332525f6de0a6732aff2c994e302ca03f5e5fbcc717a680f2363973",
+      "en_sha256": "86098693d99ebba8e569600035eadd9f8aa611f342c87efd199db64ca29b7f28",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Breath] o liczbę równą (Licznik [Burst] + Licznik [Combustion]) celu (maks. 5)",
+      "kr_sha256": "82ade0673e133e6d5849a37ce18c906ef59aec6b13fe6745c2b6364111d289cf",
+      "en_sha256": "b30db055c5c32a98b195e76cfa331343ebcefb5847bfbbb571ee3c187d533b88",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "+50% obrażeń krytycznych",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "11cbba75e7875c445dda98c9909f9f127f7366b4fe2ba413958fd3ca0d52531f",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[CriticalEnemyTargetKillFail] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "8d1b8ec16d9c7ca7bd42139ebbac2787a3aafec0fcfddeb71c1ff458e8dca156",
+      "en_sha256": "7de17bbfc7cad380d4689373dfc98a9ec707a2fe5525f572f41c702ffa3f0f0d",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[CriticalEnemyTargetKill] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "32791bc127d1cf4c81852c17bb84cbb5052505f1a8f4e9e976ae864170526200",
+      "en_sha256": "7b4979f2635e7edabe39a6e552d2ba986bd7aca0b7d88015488f10cbdb85cb43",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ rodzajów negatywnych efektów, Moc Monety +1\n[WhenUse] Moc Monety +1 za każde 6 [Burst] celu (maks. 2)",
+      "kr_sha256": "cb134025d7f5d592aa3a5e175c775c8740d7d8b0b3821af0c279e073f33a0591",
+      "en_sha256": "bc9177885a7ef7fa8da6d75fff4a9defcf84da2a3667cb1be0eef2d026919b4d",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=3].name": {
+      "pl": "Crimson Phoenix Third Form - Blaze (炎)",
+      "kr_sha256": "2805bd7aac6bcdc77c0500fe9ee1393fbe4d4b4b26ff774d43dad20d242ddb66",
+      "en_sha256": "5be8b704a0c8228305c5a7aada3b6fe8376065547e2b861db684059b187a90f7",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Combustion] o 2",
+      "kr_sha256": "cf916a7ff280bbae8895d59cb033dd10d70213a287321d6ba014640731e9b1e2",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "cfa8f043f4d3e99d1aba492ff37d1946cb62ae6617ac6cfb8606da92dfbf9b33",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 3 [Combustion]",
+      "kr_sha256": "ce71200937804ad51a8c66abf65637ca953b0d068f0584cab83e7cc4f788d716",
+      "en_sha256": "514a57d8d87100d89b5ac0e767d94c662b1cdc2c603d044cd949a16129584eec",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Combustion] o 2",
+      "kr_sha256": "cf916a7ff280bbae8895d59cb033dd10d70213a287321d6ba014640731e9b1e2",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "7f5beabca7f12b820832cd2748027219b7dd6e7576b8a1f1b518c222a3107f04",
+      "en_sha256": "2927a5c99e927c6431e35fc01057a9489709449c1a473e90f512ce719d0d5603",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 3 [Combustion]",
+      "kr_sha256": "ce71200937804ad51a8c66abf65637ca953b0d068f0584cab83e7cc4f788d716",
+      "en_sha256": "514a57d8d87100d89b5ac0e767d94c662b1cdc2c603d044cd949a16129584eec",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje [Breath] równe ([Burst] + [Combustion]) celu (maks. 10)",
+      "kr_sha256": "51cd08988332525f6de0a6732aff2c994e302ca03f5e5fbcc717a680f2363973",
+      "en_sha256": "86098693d99ebba8e569600035eadd9f8aa611f342c87efd199db64ca29b7f28",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Breath] o liczbę równą (Licznik [Burst] + Licznik [Combustion]) celu (maks. 5)",
+      "kr_sha256": "82ade0673e133e6d5849a37ce18c906ef59aec6b13fe6745c2b6364111d289cf",
+      "en_sha256": "b30db055c5c32a98b195e76cfa331343ebcefb5847bfbbb571ee3c187d533b88",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 2 [Vulnerable]",
+      "kr_sha256": "58725a172386eaf79d47c17b391d7b3642f20bb0ee0b3b2aeeb1ba6de171b07e",
+      "en_sha256": "3feee611cc094c3308a0cec65d6ea5ee688ad06d659cf4ae70ad6603be0b4322",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "+50% obrażeń krytycznych",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "11cbba75e7875c445dda98c9909f9f127f7366b4fe2ba413958fd3ca0d52531f",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[CriticalEnemyTargetKillFail] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "8d1b8ec16d9c7ca7bd42139ebbac2787a3aafec0fcfddeb71c1ff458e8dca156",
+      "en_sha256": "7de17bbfc7cad380d4689373dfc98a9ec707a2fe5525f572f41c702ffa3f0f0d",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[CriticalEnemyTargetKill] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "32791bc127d1cf4c81852c17bb84cbb5052505f1a8f4e9e976ae864170526200",
+      "en_sha256": "7b4979f2635e7edabe39a6e552d2ba986bd7aca0b7d88015488f10cbdb85cb43",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ rodzajów negatywnych efektów, Moc Monety +1\n[WhenUse] Moc Monety +1 za każde 3 [Burst] celu (maks. 2)\n[WhenUse] zyskuje 3 [Breath] i 2 Licznika [Breath]",
+      "kr_sha256": "8db393a81f6d5e9e5003d91627d0d3ee8e0ace6f7869cf923feaf0ef2cb13ae6",
+      "en_sha256": "58ae18f758ac5e227e235462af1bd2a383b0958653e0e609e82e6667cd9ff83b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=4].name": {
+      "pl": "Crimson Phoenix Fourth Form - Qi (氣)",
+      "kr_sha256": "0111f143e3ed45e0825f6afb55d01e56799987cab7ccf9cecde75fd4969d6589",
+      "en_sha256": "1a05099e26c57b207565bbddde7d851048b869db004b98b871a525c1af3d582a",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Combustion] o 2",
+      "kr_sha256": "cf916a7ff280bbae8895d59cb033dd10d70213a287321d6ba014640731e9b1e2",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "cfa8f043f4d3e99d1aba492ff37d1946cb62ae6617ac6cfb8606da92dfbf9b33",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 3 [Combustion]",
+      "kr_sha256": "ce71200937804ad51a8c66abf65637ca953b0d068f0584cab83e7cc4f788d716",
+      "en_sha256": "514a57d8d87100d89b5ac0e767d94c662b1cdc2c603d044cd949a16129584eec",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Combustion] o 2",
+      "kr_sha256": "cf916a7ff280bbae8895d59cb033dd10d70213a287321d6ba014640731e9b1e2",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "7f5beabca7f12b820832cd2748027219b7dd6e7576b8a1f1b518c222a3107f04",
+      "en_sha256": "2927a5c99e927c6431e35fc01057a9489709449c1a473e90f512ce719d0d5603",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 3 [Combustion]",
+      "kr_sha256": "ce71200937804ad51a8c66abf65637ca953b0d068f0584cab83e7cc4f788d716",
+      "en_sha256": "514a57d8d87100d89b5ac0e767d94c662b1cdc2c603d044cd949a16129584eec",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje [Breath] równe ([Burst] + [Combustion]) celu (maks. 10)",
+      "kr_sha256": "51cd08988332525f6de0a6732aff2c994e302ca03f5e5fbcc717a680f2363973",
+      "en_sha256": "86098693d99ebba8e569600035eadd9f8aa611f342c87efd199db64ca29b7f28",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Breath] o liczbę równą (Licznik [Burst] + Licznik [Combustion]) celu (maks. 5)",
+      "kr_sha256": "82ade0673e133e6d5849a37ce18c906ef59aec6b13fe6745c2b6364111d289cf",
+      "en_sha256": "b30db055c5c32a98b195e76cfa331343ebcefb5847bfbbb571ee3c187d533b88",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 2 [Vulnerable]",
+      "kr_sha256": "58725a172386eaf79d47c17b391d7b3642f20bb0ee0b3b2aeeb1ba6de171b07e",
+      "en_sha256": "3feee611cc094c3308a0cec65d6ea5ee688ad06d659cf4ae70ad6603be0b4322",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#3].coindescs[#0].desc": {
+      "pl": "+50% obrażeń krytycznych",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "11cbba75e7875c445dda98c9909f9f127f7366b4fe2ba413958fd3ca0d52531f",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[CriticalEnemyTargetKillFail] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "8d1b8ec16d9c7ca7bd42139ebbac2787a3aafec0fcfddeb71c1ff458e8dca156",
+      "en_sha256": "7de17bbfc7cad380d4689373dfc98a9ec707a2fe5525f572f41c702ffa3f0f0d",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[CriticalEnemyTargetKill] zyskuje 3 [AttackUp] w następnej turze",
+      "kr_sha256": "32791bc127d1cf4c81852c17bb84cbb5052505f1a8f4e9e976ae864170526200",
+      "en_sha256": "7b4979f2635e7edabe39a6e552d2ba986bd7aca0b7d88015488f10cbdb85cb43",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#3].coindescs[#3].desc": {
+      "pl": "[CriticalEnemyTargetKillFail] używa Crimson Cleave na celu",
+      "kr_sha256": "fea562f707c39ba26aa6b8e3d610bf2fdcf2013bf89f35b45d4230f7bebd551c",
+      "en_sha256": "c53b9508017aeea15afffa27d99a6efc39fca52eba9d49f82371bd86a49d99a0",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].coinlist[#3].coindescs[#4].desc": {
+      "pl": "[CriticalEnemyTargetKill] używa Crimson Cleave na losowym wrogu",
+      "kr_sha256": "fac4b065da6d51a91b20107a43ec16fc938571103aad69b872cf013b7ebe8f0e",
+      "en_sha256": "3253d61d5e4f90600cec8ef289350be60f447f644bf93adf265824dda7999702",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ rodzajów negatywnych efektów, Moc Monety +1\n[WhenUse] Moc Monety +1 za każde 3 [Burst] celu (maks. 2)\n[WhenUse] zyskuje 3 [Breath] i 2 Licznika [Breath]",
+      "kr_sha256": "8db393a81f6d5e9e5003d91627d0d3ee8e0ace6f7869cf923feaf0ef2cb13ae6",
+      "en_sha256": "58ae18f758ac5e227e235462af1bd2a383b0958653e0e609e82e6667cd9ff83b",
+      "origin": "ai"
+    },
+    "dataList[id=40000102].levelList[level=5].name": {
+      "pl": "Crimson Phoenix Fifth Form - Wings (翼)",
+      "kr_sha256": "61fd11fcde35272d4c3ecf91c9fb77efcc2d44151546efc3af0eeec935e7a69b",
+      "en_sha256": "4401be611e5762604402f38080888bbb11f08bd8cbcce8871ae4e2edd9bba7c4",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 Krwawienia",
+      "kr_sha256": "daf77265726de05cf90d9670ea1171fcd6045c26ef67a88e92bf3d76c1583de5",
+      "en_sha256": "6cde94fcbf67fd3cf79fe52ae2906e5da24a79e747305ef0a0d137bb9b041656",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "+200% obrażeń krytycznych",
+      "kr_sha256": "fbf41542d9a5efd2ea3cb33bc528b6464f67393e8366d12bda31e7329cab8c2f",
+      "en_sha256": "2487c739baf632257ed5fc697eee88d1aec5d135231e0c280a0b8c3ab8164d9d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 3",
+      "kr_sha256": "a86eb97035641b837338b512b4795b828831348be9be0ce54b3beb5065fbc9e6",
+      "en_sha256": "b090fa425c0d66e16a835e1c7f52df50846c10d1d1e6ba41ce0769b4fc1554e4",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] Waga Ataku +1 za każde 4 rodzaje negatywnych efektów celu (maks. 2)\n[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Bazowa +5\n[WhenUse] jeżeli cel ma 15+ ([Burst] + Licznik [Burst]), Moc Monety +5\n[WinDuel] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "1eac0a5d7bf7b68bdd025f6f236d91293196fd2fac8fb0db5d9c1eae9524ae86",
+      "en_sha256": "fe44cc19d62319c0bf2ed0464e74120e76bd9c8220e1812c1539fdecb0b02699",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=1].name": {
+      "pl": "Crimson Spring",
+      "kr_sha256": "85d1b76979fca9feaa2ca14068ea6957ef19c8b17a0c75454ccaacf7ac6ff125",
+      "en_sha256": "542d9cee5eb48a07ac0b539685ee7ccf7cc89d13a6d25ecfc769737f6736b568",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 Krwawienia",
+      "kr_sha256": "daf77265726de05cf90d9670ea1171fcd6045c26ef67a88e92bf3d76c1583de5",
+      "en_sha256": "6cde94fcbf67fd3cf79fe52ae2906e5da24a79e747305ef0a0d137bb9b041656",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "+200% obrażeń krytycznych",
+      "kr_sha256": "fbf41542d9a5efd2ea3cb33bc528b6464f67393e8366d12bda31e7329cab8c2f",
+      "en_sha256": "2487c739baf632257ed5fc697eee88d1aec5d135231e0c280a0b8c3ab8164d9d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=2].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 3",
+      "kr_sha256": "a86eb97035641b837338b512b4795b828831348be9be0ce54b3beb5065fbc9e6",
+      "en_sha256": "b090fa425c0d66e16a835e1c7f52df50846c10d1d1e6ba41ce0769b4fc1554e4",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=2].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=2].desc": {
+      "pl": "[BeforeAttack] Waga Ataku +1 za każde 3 rodzaje negatywnych efektów celu (maks. 2)\n[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Bazowa +5\n[WhenUse] Moc Monety +1 za każde 3 ([Burst] + Licznik [Burst] celu) (maks. 5)\n[WinDuel] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "a11a42a9a328ded60573c5045fb3f693fbe2471ea45c77b7253272fb2eff6076",
+      "en_sha256": "491c9288c52cda47af7283c8ed32f462dd0823b99fd22270153ed71708341e48",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=2].name": {
+      "pl": "Crimson Spring Second Form - Passion (熱)",
+      "kr_sha256": "2a09af41cf342c82483548f20aae867389eb4c14162cc7a930848ad79283f8c6",
+      "en_sha256": "e893ce82da4d56ca75c0c34b3a1a30f5f93ca3e0ff4cef89910cb191ec83e922",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Krwawienia",
+      "kr_sha256": "60958c4f6852ed172e8ac792a696c2ed8f99fdf2176036c5f98893903436f791",
+      "en_sha256": "dadc1cc6f019d8d215761e751fba0943493613b656b55c92d35afe3cba6172e1",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 2",
+      "kr_sha256": "0b52e08951212013f47c77f8bb7e81d0ed637c4e678c85d51b095e6dbc61012b",
+      "en_sha256": "66a8e00e7546bde83a1591a0eae8ad4e66e77de368a657d042c0ddff1700aa65",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 Krwawienia",
+      "kr_sha256": "daf77265726de05cf90d9670ea1171fcd6045c26ef67a88e92bf3d76c1583de5",
+      "en_sha256": "6cde94fcbf67fd3cf79fe52ae2906e5da24a79e747305ef0a0d137bb9b041656",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "+200% obrażeń krytycznych",
+      "kr_sha256": "fbf41542d9a5efd2ea3cb33bc528b6464f67393e8366d12bda31e7329cab8c2f",
+      "en_sha256": "2487c739baf632257ed5fc697eee88d1aec5d135231e0c280a0b8c3ab8164d9d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 3",
+      "kr_sha256": "a86eb97035641b837338b512b4795b828831348be9be0ce54b3beb5065fbc9e6",
+      "en_sha256": "b090fa425c0d66e16a835e1c7f52df50846c10d1d1e6ba41ce0769b4fc1554e4",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] Waga Ataku +1 za każde 3 rodzaje negatywnych efektów celu (maks. 2)\n[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Bazowa +5\n[WhenUse] Moc Monety +1 za każde 3 ([Burst] + Licznik [Burst] celu) (maks. 5)\n[WinDuel] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "a11a42a9a328ded60573c5045fb3f693fbe2471ea45c77b7253272fb2eff6076",
+      "en_sha256": "491c9288c52cda47af7283c8ed32f462dd0823b99fd22270153ed71708341e48",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=3].name": {
+      "pl": "Crimson Spring Third Form - Decapitation (斬)",
+      "kr_sha256": "52626c5298642a8400b3b24ecc2425b741d3db587794537ead9a27cd8cd972f7",
+      "en_sha256": "b0fb67a12d7183875f2d378159aedd214b882913effd1a5eeae6031470fa4aae",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Krwawienia",
+      "kr_sha256": "60958c4f6852ed172e8ac792a696c2ed8f99fdf2176036c5f98893903436f791",
+      "en_sha256": "dadc1cc6f019d8d215761e751fba0943493613b656b55c92d35afe3cba6172e1",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 2",
+      "kr_sha256": "0b52e08951212013f47c77f8bb7e81d0ed637c4e678c85d51b095e6dbc61012b",
+      "en_sha256": "66a8e00e7546bde83a1591a0eae8ad4e66e77de368a657d042c0ddff1700aa65",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 Krwawienia",
+      "kr_sha256": "daf77265726de05cf90d9670ea1171fcd6045c26ef67a88e92bf3d76c1583de5",
+      "en_sha256": "6cde94fcbf67fd3cf79fe52ae2906e5da24a79e747305ef0a0d137bb9b041656",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "+200% obrażeń krytycznych",
+      "kr_sha256": "fbf41542d9a5efd2ea3cb33bc528b6464f67393e8366d12bda31e7329cab8c2f",
+      "en_sha256": "2487c739baf632257ed5fc697eee88d1aec5d135231e0c280a0b8c3ab8164d9d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 3",
+      "kr_sha256": "a86eb97035641b837338b512b4795b828831348be9be0ce54b3beb5065fbc9e6",
+      "en_sha256": "b090fa425c0d66e16a835e1c7f52df50846c10d1d1e6ba41ce0769b4fc1554e4",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] Waga Ataku +1 za każde 3 rodzaje negatywnych efektów celu (maks. 2)\n[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Bazowa +5\n[WhenUse] Moc Monety +1 za każde 3 ([Burst] + Licznik [Burst] celu) (maks. 5)\n[WinDuel] zwiększa Licznik [Burst] o 2\n[WhenUse] zyskuje 5 [Breath] i 2 Licznika [Breath]",
+      "kr_sha256": "02d417e0d89963b6d464d7b02b90d57afbefd14591affc6b497a2283b442bee1",
+      "en_sha256": "c448eb26c72f8f6a05aa314cfd9981b9a1172e5aaca28f7f6e8b43f7e546337a",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=4].name": {
+      "pl": "Crimson Spring Fourth Form - Flow (巡)",
+      "kr_sha256": "5381976bc703b238df73dde1343333c89fe2381086222689c184ff2b0e28199d",
+      "en_sha256": "37836de93187124b38d331a1f776028e3b64aae0b6fa3f19d33427f9efd1b2cd",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Krwawienia",
+      "kr_sha256": "60958c4f6852ed172e8ac792a696c2ed8f99fdf2176036c5f98893903436f791",
+      "en_sha256": "dadc1cc6f019d8d215761e751fba0943493613b656b55c92d35afe3cba6172e1",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 2",
+      "kr_sha256": "0b52e08951212013f47c77f8bb7e81d0ed637c4e678c85d51b095e6dbc61012b",
+      "en_sha256": "66a8e00e7546bde83a1591a0eae8ad4e66e77de368a657d042c0ddff1700aa65",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 Krwawienia",
+      "kr_sha256": "daf77265726de05cf90d9670ea1171fcd6045c26ef67a88e92bf3d76c1583de5",
+      "en_sha256": "6cde94fcbf67fd3cf79fe52ae2906e5da24a79e747305ef0a0d137bb9b041656",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#1].coindescs[#1].desc": {
+      "pl": "+200% obrażeń krytycznych",
+      "kr_sha256": "fbf41542d9a5efd2ea3cb33bc528b6464f67393e8366d12bda31e7329cab8c2f",
+      "en_sha256": "2487c739baf632257ed5fc697eee88d1aec5d135231e0c280a0b8c3ab8164d9d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik Krwawienia o 3",
+      "kr_sha256": "a86eb97035641b837338b512b4795b828831348be9be0ce54b3beb5065fbc9e6",
+      "en_sha256": "b090fa425c0d66e16a835e1c7f52df50846c10d1d1e6ba41ce0769b4fc1554e4",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje 2 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "df898270bb1bb195a59988ace3583fece96cdb938d458234da12d9486ae8354d",
+      "en_sha256": "1f5e8b348cedadf463629a45998cf4393a86c0af8197a9742bf104a7bc9a1e1d",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje +10% obrażeń za każdy rodzaj negatywnego efektu celu (maks. 50%)",
+      "kr_sha256": "68876e7c384ba257823d82e8e50bbffd893e415ee05f26837d42b7bb64aa6b45",
+      "en_sha256": "c897b86d843bfadcf6a8f2d0c10e76dd75390f854a69c0e0d2a201cf9becd003",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#2].coindescs[#1].desc": {
+      "pl": "+50% obrażeń krytycznych",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "11cbba75e7875c445dda98c9909f9f127f7366b4fe2ba413958fd3ca0d52531f",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Agility] w następnej turze (1 raz na turę)",
+      "kr_sha256": "72862d8233e2cc632f45bd45c8d838a96c88b39d632a17ee46108464b956e311",
+      "en_sha256": "0b34d3cd83cdb8e98fe02cf3545146f36df52f16562ca0f030a10cb5730b9548",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].desc": {
+      "pl": "[BeforeAttack] Waga Ataku +1 za każde 3 rodzaje negatywnych efektów celu (maks. 2)\n[WhenUse] jeżeli cel ma 5+ rodzajów negatywnych efektów, Moc Bazowa +5\n[WhenUse] Moc Monety +1 za każde 3 ([Burst] + Licznik [Burst] celu) (maks. 5)\n[WinDuel] zwiększa Licznik [Burst] o 2\n[WhenUse] zyskuje 5 [Breath] i 2 Licznika [Breath]",
+      "kr_sha256": "02d417e0d89963b6d464d7b02b90d57afbefd14591affc6b497a2283b442bee1",
+      "en_sha256": "c448eb26c72f8f6a05aa314cfd9981b9a1172e5aaca28f7f6e8b43f7e546337a",
+      "origin": "ai"
+    },
+    "dataList[id=40000103].levelList[level=5].name": {
+      "pl": "Crimson Spring Fifth Form - 花 (Blossom)",
+      "kr_sha256": "80b623ce7bad3a9bef53ec877f13489429ad9b3c6a160d1a375090e401313663",
+      "en_sha256": "8fd8f7905b53cba9d59de28bd06330b37fa8387a60918e752a96b262a64f48ce",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] zyskuje 1 [Breath] w następnej turze. (maks. 3 razy na Umiejętność)",
+      "kr_sha256": "7fa7e5c6b031dc687dd30208fa3dd618c1f6528fea964d3901b75012b945f945",
+      "en_sha256": "b387e050488ea55aa8d848c965a5701a1fbd360e4b080f13a290a61781b33bf2",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=1].name": {
+      "pl": "Adept Evasion",
+      "kr_sha256": "957fa15db815a5ba8aad34b863690679cd1f68c2317a393929261b9dce9b5087",
+      "en_sha256": "eb392ec5e2a78b0aac0bab8a5e8eada41384ddee6dfdc5db317a452f8a2f6ec5",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=2].desc": {
+      "pl": "[OnSucceedEvade] zyskuje 3 [Breath] w następnej turze. (maks. 2 razy na Umiejętność)",
+      "kr_sha256": "406f9637478acab46b9875b5edf40e927291408ec5c9f79d5ca2ac90f72dcb84",
+      "en_sha256": "9a20ad41fdfd3a8b9bf5107a85e145175bb3f3888c56cae1352d9200be99d7ba",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=2].name": {
+      "pl": "Adept Evasion",
+      "kr_sha256": "957fa15db815a5ba8aad34b863690679cd1f68c2317a393929261b9dce9b5087",
+      "en_sha256": "eb392ec5e2a78b0aac0bab8a5e8eada41384ddee6dfdc5db317a452f8a2f6ec5",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=3].desc": {
+      "pl": "[WhenUse] Moc Bazowa +2 za każde 2 rodzaje negatywnych efektów celu (maks. 10)\n[OnSucceedEvade] zyskuje 3 [Breath] w następnej turze. (maks. 2 razy na Umiejętność)",
+      "kr_sha256": "31015d378afd0c537e933caba63e846c2788f6fc8e2446c0179b1c1649ccaa44",
+      "en_sha256": "78b2d36b2bcba3815e53d0f03e3695c247903f8b35a69d0e9ffe2ece8363f492",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=3].name": {
+      "pl": "Adept Evasion",
+      "kr_sha256": "957fa15db815a5ba8aad34b863690679cd1f68c2317a393929261b9dce9b5087",
+      "en_sha256": "eb392ec5e2a78b0aac0bab8a5e8eada41384ddee6dfdc5db317a452f8a2f6ec5",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=4].desc": {
+      "pl": "[WhenUse] Moc Bazowa +2 za każde 2 rodzaje negatywnych efektów celu (maks. 10)\n[OnSucceedEvade] zyskuje 3 [Breath] w następnej turze. (maks. 2 razy na Umiejętność)\n[OnSucceedEvade] używa Crimson Cleave (1 raz na turę)",
+      "kr_sha256": "a7cae4fa63665ba1244770693ac55d1c3fb7d134cef42771f69ddd9204d3465b",
+      "en_sha256": "3e7c6f12605732796216a20101e88a9787703efec4e791ceae9183640ad08d32",
+      "origin": "ai"
+    },
+    "dataList[id=40000104].levelList[level=4].name": {
+      "pl": "Adept Evasion - Redirected Counter",
+      "kr_sha256": "c27b4cb56affbcae17c395f3957d6dc96de12d225101fdd1c054eb7d4f2be408",
+      "en_sha256": "8b57019d995c976d4be9f5e2faed4a8361874359e71584ffaba27ee9163b7bbe",
+      "origin": "ai"
+    }
+  }
+}

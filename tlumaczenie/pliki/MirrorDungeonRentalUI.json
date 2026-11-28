@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=mirror_rental_already_reward_acquired].content": {
+      "pl": "Nagrody odebrane",
+      "kr_sha256": "aef4420baf0ef0e42f5e039c7f93151b5bf68650947c825fe295d67ea40c1b66",
+      "en_sha256": "3c0def9522f19884da78aa721b73ed3be8af87d5d94f298dac425c283af3d0dc",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_ask_to_enter].content": {
+      "pl": "Wejść do: {0},\nkorzystając z wypożyczonego składu?",
+      "kr_sha256": "673ec9f773f45024f12ee28e56499352fb85e516923e68a0e645db3525e02dfa",
+      "en_sha256": "acdc1cdba8520dd981403615fc05b5ede15d862c6c826b6b9ca398a5ba94bb03",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_button_label].content": {
+      "pl": "Wypożycz",
+      "kr_sha256": "19882a6bb45334dc3175dd7d7fe322e66ffef99c3023eb2d1c1c45a4d714611b",
+      "en_sha256": "dbd6652e88f2b0b3089cbdd61956d31c478ce903be169427361134e5039b6e49",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_failed_to_enter].content": {
+      "pl": "Nieprawidłowe dane wypożyczonego składu. Odświeżono interfejs.\n(kod błędu: {0})",
+      "kr_sha256": "1ed8bf1f8267a81208a6af5c8fdc45544325f8cd3005757c87c131004512b2b5",
+      "en_sha256": "7caa87d8b57a16c4d13e7fb192233708ad01fe09b5e5149e02e0bf2f651ba976",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_keyword_label].content": {
+      "pl": "Słowa kluczowe",
+      "kr_sha256": "8167bc6750957c639ec0930e315e6b380a3023f26e0470c29038bc99736400f9",
+      "en_sha256": "8bfdb93cafaa91477de5fa9fa09d33946f57adae516e2ab45a309df988f36ba1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_no_item].content": {
+      "pl": "Brak dostępnych składów do wypożyczenia.",
+      "kr_sha256": "d2714fa8b8def29b9f5146098f8a29a4cd59228070c5aa11472519f7b66a4358",
+      "en_sha256": "cd6e547e89b0aa2a2228c225bd62c303c947010c5105ca02032b0b88b9e037c9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_period].content": {
+      "pl": "Okres wypożyczenia",
+      "kr_sha256": "e6ffe50b523b22562298b9d0e1dc6dec85fffaf55ed13d6e30e6453141b269c2",
+      "en_sha256": "8688a75a7a8a0d603ba09972f50b933d5e2a9e328e42e68e429fc920b1dd56db",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_title].content": {
+      "pl": "Wypożyczenie składu",
+      "kr_sha256": "6109e0626fad19880856b4d1b4864c87394d3e3ea86f579f343ccf4d057c7182",
+      "en_sha256": "e95d181352d00ea9ac842bf5669e5ff6ed6a6b82b68808c477565e030abcd076",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_unable_by_running_other].content": {
+      "pl": "Loch w toku",
+      "kr_sha256": "94da63c6519229f00e9a26e56a09885bbfae31757cbd713bfdc2dd43eb9937bd",
+      "en_sha256": "8b787e818d3b88069a167ce70395844a2cd09a38979b2d509581ce653b2471a4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_rental_warnings].content": {
+      "pl": "• W okresie wypożyczenia można jednorazowo wypożyczyć skład, aby rozegrać Lustrzany Loch.\n\n• Podczas gry wypożyczonym składem nie można wymieniać Tożsamości ani umiejętności E.G.O w Sklepie oraz nie można wejść w Tryb Superpozycji Równoległej.\n\n• Ukończenie Lustrzanego Lochu wypożyczonym składem również zapewnia nagrody za ukończenie oraz walutę wydarzenia.\n\n• Można przy tym zużyć maksymalnie 1 z 3 szans na Cotygodniową Premię.\n\n• Odebranie nagrody za ukończenie Lustrzanego Lochu zużywa limit wypożyczenia.",
+      "kr_sha256": "db8b7a4033bbd5d198cf588b1bf6f8c1d87160f7f3a12b676373b2ade90a74db",
+      "en_sha256": "6c703fc8432dcec4b539cafe48acbb467ec63114debae917f7108c939e880973",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_unable_to_infinity_by_rental].content": {
+      "pl": "Niedostępne dla wypożyczonego składu",
+      "kr_sha256": "7bdf2db3f567afb55331b9b971416044bc8d3ad3f7e5befb3773da255cf78c6f",
+      "en_sha256": "8659a3724853942d52a6da427a6a8690925bc9b294324e5318fea5f9c66cb7a1",
+      "origin": "ai"
+    },
+    "dataList[id=unable_to_change_formation_by_rental_formation].content": {
+      "pl": "Stały skład",
+      "kr_sha256": "6eb5afcf94b1011d647ee215643506b62c651e773f15f9994911e491b3435ba2",
+      "en_sha256": "1a7e982bcd949ac3aa0e951e154794bb65471c2b0d8cb43561dcf3ec044bc803",
+      "origin": "ai"
+    }
+  }
+}

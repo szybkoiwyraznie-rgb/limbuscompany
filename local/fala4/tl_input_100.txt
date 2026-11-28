@@ -1,0 +1,96 @@
+9705||PersonVoice#Voice_Meursault_LCB_10501.json] 규정대로 부탁드리겠습니다.|Please take care of this by the rules.
+9706||PersonVoice#Voice_Meursault_LCB_10501.json] 그저 명령대로 행한 것일 뿐.|I simply followed orders.
+9707||PersonVoice#Voice_Meursault_LCB_10501.json] 마땅히 했어야 할 일에 칭찬은 불필요한 과정입니다.|It’s what should have been done; compliments are redundant.
+9708||PersonVoice#Voice_Meursault_LCB_10501.json] 전략을 다시 재고해보시길.|I implore you to revise the strategy.
+9709||PersonVoice#Voice_Meursault_LCB_10501.json] 규정에 따라, 실행합니다.|I shall execute the order according to the rules.
+9710||PersonVoice#Voice_Meursault_LCB_10501.json] 다음 판단을 부탁합니다.|I am awaiting your next order.
+9711||PersonVoice#Voice_Meursault_LCB_10501.json] 규정대로.|Done accordingly.
+9712||PersonVoice#Voice_Meursault_LCB_10501.json] 무슨 문제라도 있으십니까, 관리자님.|Is there a problem, Manager?
+9713||PersonVoice#Voice_Meursault_LCB_10501.json] 규정이라면. 따르겠습니다.|If the rules say so.
+9714||PersonVoice#Voice_Meursault_LCB_10501.json] 네, 원하신다면.|Yes, if that is what you want.
+9715||PersonVoice#Voice_Meursault_LCB_10501.json] 뫼르소. 그렇게 불러주시겠습니까, 관리자님.|Meursault. Please refer to me as such, Manager.
+9716||PersonVoice#Voice_Meursault_LCB_10501.json] 정해진 시간에 기상하는 것은 사칙에 명시된 내용입니다. 관리자님을 포함한 대다수의 수감자들은 이 사실을 모르는 것 같군요.|The company rules say that its employees are to get up at designated hours. It appears most Sinners are unaware of this fact, and so are you.
+9717||PersonVoice#Voice_Meursault_LCB_10501.json] 구태여 좋냐 안 좋냐를 따지자면 밤보다는 낮을 선호하는 편입니다. 보이지 않을수록 이해가 어렵기 때문입니다.|If I had to compare the times of day against each other, I prefer day to night. Darkness obscures vision, and what is hard to see is hard to understand.
+9718||PersonVoice#Voice_Meursault_LCB_10501.json] 점심시간에는 무얼 하냐고 물으신다면… 무엇을 해야 하는지 규정된 바는 없습니다.|If you ask me how I intend to spend my afternoon… No rules state what to do.
+9719||PersonVoice#Voice_Meursault_LCB_10501.json] 복귀하실 때까지 기다리겠습니다.|I shall wait here until you return.
+9720||PersonVoice#Voice_Meursault_LCB_10501.json] 저한테 무슨 볼일이라도 있으신 겁니까, 관리자님? 귀책되어야 할 사유가 있다면, 분명하게 말씀해주시는 게 좋습니다.|Do you have any business with me, Manager? If there is a particular reason, do make it clear.
+9721||PersonVoice#Voice_Meursault_LCB_10501.json] 다들 제게 평소에 웃고 다니라고 하더군요. 관리자님께서도 그걸 원하시는 겁니까?|People suggest that I smile more often. Do you want that as well, Manager?
+9722||PersonVoice#Voice_Meursault_LCB_10501.json] …자꾸만 말을 거시는군요. 관리자님의 규정에서는 그렇게 명시되어 있는 겁니까?|…You continue to speak with me. Are you encouraged by the rules to do so?
+9723||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 더 진한 불꽃이었다면…|If only the fire were more intense…
+9724||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 읏!|Nkh!
+9725||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 타격점이 분명하게 보이더군요.|I was able to see where to strike.
+9726||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 네, 이번 불꽃은 저도 마음에 들었습니다.|Yes, I was fond of the fire I managed to ignite now.
+9727||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 괜찮습니다. 문제점을 파악했습니다.|It’s alright. I’ve grasped the problem.
+9728||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 제 불을 따라오십시오.|Follow my fire.
+9729||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 잘 풀린 것 같습니다.|It seems to have gone well.
+9730||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 자연스러운 것입니다.|A natural outcome.
+9731||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 잘 풀리지 않고 있습니까?|Is it not progressing well?
+9732||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 이 불꽃이 필요하시다면.|If you need this fire of mine.
+9733||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 불꽃도 흔들릴 때가 있습니다.|Fires are susceptible to sudden gusts.
+9734||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 길을 밝힐 뿐입니다.|I lit the path as required.
+9735||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 불꽃을 바라신다면.|If it’s a fire you wish for.
+9736||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 더욱 진한 불꽃이 되도록 정진하겠습니다.|I will strive to become a keener flame.
+9737||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 불꽃이 필요하신 거라면 피워드립니다.|If it is fire you need, then I will provide it.
+9738||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 때가 되어서 자연스럽게 눈이 떠진 것뿐입니다. 그러니 제 기상 시간에 대해 감탄하실 필요는 없습니다.|My eyes opened because it was time to wake up. There is no need to be amazed by how early I rise.
+9739||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 어두운 게 싫으시다면 주위를 밝혀드릴 수 있습니다. 제 불꽃은 6과에서 제일 밝은 불꽃입니다.|I can brighten your surroundings if you dislike the dark. My fire is the brightest in Section 6.
+9740||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 남는 시간에는 다른 이들의 훈련을 도와주고 있습니다. 처음엔 한 명이었는데 어느새 일과가 되어버렸더군요.|In my spare time, I help others with their training. I only did it for one person at first, but as time went on, it became a regular routine.
+9741||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 급한 일이 생긴 거라면, 떠나셔도 됩니다.|You may leave me if you’re urgently needed.
+9742||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 만약 일이 잘 풀리지 않는다면… 엉킨 부분을 찬찬히 살펴보면 됩니다.|If things are not going well… you start by carefully examining the problem.
+9743||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 말이 없어서 답답하다는 평가를 자주 듣습니다. 부정적인 요인은 아니므로, 구태여 고칠 노력은 하지 않고 있습니다.|Others often assess my infrequency of speech as stifling. As it is not a negative factor, I do not make an active effort to rectify it.
+9744||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 때가 되어서 이곳으로 왔고, 관리자님을 만난 것처럼… 때가 된다면 황금가지 역시 찾을 수 있을 겁니다.|I arrived here and met you because it was time… Similarly, we will find the Golden Bough when the right time comes.
+9745||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 지금까지의 관리 경험으로 미루어 보건대, 관리자님 정도라면 막힘없이 불꽃을 피워낼 수 있을 것입니다. 원하신다면…|Judging from the managerial experience so far, someone of your caliber should be able to create a flame with ease. If you want…
+9746||PersonVoice#Voice_Meursault_LiuAsso6_10502.json] 기억을 잃은 것에 연연해하지 마시길. 관리자님이라면 자연스러운 순간에 찾아낼 수 있을 겁니다.|Don’t let your loss of memory distract you too much. I am certain the moment of recovery will come naturally.
+9747||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 큭.|Kgh.
+9748||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 처리했으니, 장부에서 한 줄 그어도 되겠군요.|This has been taken care of. We can cross that out from the Book of Vengeance.
+9749||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 앙갚음 장부대로 받은 것을 돌려주었습니다. 이것이 가족을 건드렸을 때의 결과입니다. 기억하셔야 합니다.|Conditions as written on the Book of Vengeance have been fulfilled. This is what happens when one lays their hands upon a member of our family. Do not forget that.
+9750||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 나로… 끝나지는 않…을 것이다… 중지는 기억한다…|I won't... Be the last... of us... The Middle... Remembers...
+9751||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 괜찮습니다. 저들의 만행은 장부에 적혔습니다… 중지는 기억합니다. 그러니 기필코 식구들이 나설겁니다.|It is all right. Their crimes are now written in the Book of Vengeance... The Middle remembers. The family will now come to claim their vengeance.
+9752||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 되갚아주마.|Vengeance comes for you.
+9753||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 그 정도 각오로 우리 식구를 건드렸나.|You should have prepared for retribution when you slighted a member of our family.
+9754||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 되갚았습니다.|Vengeance has been executed.
+9755||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 장부를 읽고 있습니다.|I am reading the Book.
+9756||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 몸을 풀어두죠.|I will conduct a warm-up exercise.
+9757||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] …저보다 적합한 식구가 해줄 것입니다.|... A family member better suited for this job will take over.
+9758||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 음, 가능했군요.|Hm. I have done it.
+9759||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 형님과 누님들을 위해.|For my senior Brothers and Sisters.
+9760||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 어디서 무슨 일이라도 당했습니까? 이리 와서 자세히 설명해 보시죠. 장부에 적어두어 반드시 갚아드리겠습니다.|Has something happened to you? Please, come here and tell me what transpired, in full detail. I will add it to the Book of Vengeance so that this offense may be avenged.
+9761||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 뫼르소입니다. 작은 형님을 보필하고 있습니다. 이상입니다.|I am Meursault. I aid the Big Brother in his endeavors.\nThat is all.
+9762||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 일어나셨습니까. 함께 거실로 가시죠. 다른 아우들과 형님, 누님께서 이야기를 나누고 싶어하십니다.|Good morning. Let us head to the living room together. My fellow junior Brothers, senior Brothers, and Sisters want to have a chat with you.
+9763||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 저는… 형님께서 호출하셔서, 사업장에 가보아야 합니다. 형님과 나누는 술자리에 빠질 수는 없죠. 그것은 규율입니다.|I... have been summoned by a senior Brother and must visit our site of business. I can not 'flake' on a drinking night with my senior Brothers. That is the rule.
+9764||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 특별히 바깥 활동이 예정되어 있지 않으시다면, 남아 있는 식구들과 식사를 하시죠. 함께 떠들며 식사하는 것은 중지의 중요한 일과입니다.|If you have no particular outdoor activities scheduled, then join the other remaining family for a meal. It is important that the Middle always dine and chat together.
+9765||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 혼자만 있는 건… 익숙치 않군요.|I am not used to... being on my lonesome.
+9766||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 저희 아우들 사이에 서열은 없습니다. 그런 것이 중요하지도 않습니다. 형님을 보좌하며 서로가 밀어주고 당겨준다. 그뿐입니다.|Us junior Brothers do not concern ourselves with seniority amongst ourselves. It is a detail of very little significance. All we wish to do is to support each other and our senior Brothers, and no more.
+9767||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 식구 안에서 일어나는 사소한 실수. 그 실수를 나서서 덮어주는 것은 제 사소한 즐거움입니다. 그것이 의리라고 배웠습니다.|Little mistakes may occur within a family. It is my little joy to sweep such little mistakes under the rug. I have been taught that that is true loyalty.
+9768||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 이 사슬에는 결속과 연결이라는 의미가 깃들어있다고 합니다. 저희 모두, 같은 사슬에 연결되어 운명을 함께 하며 같은 것을 짊어지고 책임지는 것입니다.\n그 사슬을 벗을 필요도, 벗을 수도 없고, 벗으려는 자도 필요없겠지요.|These chains represent solidarity and connection. Together, we who are bound by the same chain bear the responsibilities hand in hand. We will face our destinies and share the weight together.\nWe have no need to remove these chains. We have no means to remove these chains. And we have no need for those who intend to remove these chains.
+9769||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 앙갚음 장부에는 많은 것들이 쓰여있습니다. 동료가 죽었을 때의 복수법부터… 걷다가 발을 밟혔을 때 되갚음까지. 이번에 행할 것은… 3조 1항…|Many things are written in The Book of Vengeance. From instructions for avenging a Brother's death to instructions for avenging getting our foot stepped on in the streets. This time, I will refer to Title 3, Section 1...
+9770||PersonVoice#Voice_Meursault_MiddleFinger_10507.json] 중지는 반드시 되돌려 줍니다. 우리 사람이 아니라면, 그 어떠한 일에도 사소함이란 있을 수 없는 것입니다.|The Middle always pays their debts. There are no 'little mistakes', unless the mistake is from one of us.
+9771||PersonVoice#Voice_Meursault_Ncorp_10504.json] 신앙이 빈약하군.|Such feeble faith.
+9772||PersonVoice#Voice_Meursault_Ncorp_10504.json] 쥐는 자께서 만족하셨다면, 그것으로 족합니다.|If the One Who Grips is satisfied, that is enough for me.
+9773||PersonVoice#Voice_Meursault_Ncorp_10504.json] 쥐는 자께 완벽한 승리를 바치리라.|I devote this superb victory to the One Who Grips.
+9774||PersonVoice#Voice_Meursault_Ncorp_10504.json] 망치는… 그대들을 계속 쫓을 것이다…|The hammer… shall pursue you to the end…
+9775||PersonVoice#Voice_Meursault_Ncorp_10504.json] 모든 것은… 미력한 본인의 죄…|It is all… the fault of my weakness…
+9776||PersonVoice#Voice_Meursault_Ncorp_10504.json] 참회하게 되리라.|You shall repent.
+9777||PersonVoice#Voice_Meursault_Ncorp_10504.json] 무가치한 저항일 뿐이다.|A worthless resistance.
+9778||PersonVoice#Voice_Meursault_Ncorp_10504.json] 이단을 정화했다.|The heretic has been purged.
+9779||PersonVoice#Voice_Meursault_Ncorp_10504.json] 말씀을 받드오니.|I heed your words.
+9780||PersonVoice#Voice_Meursault_Ncorp_10504.json] 흙으로도 돌아가지 못 하리라.|They shan’t rest beneath the earth.
+9781||PersonVoice#Voice_Meursault_Ncorp_10504.json] 본인이 미력하였기에.|It was the fault of my inability.
+9782||PersonVoice#Voice_Meursault_Ncorp_10504.json] 쥐는 자께서 성공을 명하셨으므로.|For the One Who Grips had ordered me to succeed.
+9784||PersonVoice#Voice_Meursault_Ncorp_10504.json] 인정 받기에는 아직 미력하나, 귀하의 뜻이 그러하다면.|Though I believe myself to be ever too puny to deserve such recognition, I will accept if you insist.
+9785||PersonVoice#Voice_Meursault_Ncorp_10504.json] 쥐는 자의 망치는 이곳에 있나니.|Here is the hammer of the One Who Grips.
+9786||PersonVoice#Voice_Meursault_Ncorp_10504.json] 육체를 바르게 하기에 적합한 시간입니다. 귀하께서도 집회에 참여하여 마음을 씻어내는 것이 어떠한지.|The time is ripe to discipline the body. I suggest that you participate in the gathering as well to help cleanse your mind.
+9787||PersonVoice#Voice_Meursault_Ncorp_10504.json] 귀하는 침소에 일찍 들어 육신을 보존하소서. 본인은 지금부터… 쥐여져야 하므로.|I suggest you retire to bed early so that you may preserve your strength. As for myself… there is a matter that needs me to be gripped.
+9788||PersonVoice#Voice_Meursault_Ncorp_10504.json] 이 시간에 귀하를 마주칠 줄은 미처 모르고 있었습니다. 근무에 고충이 있다면, 본인에게 언제든 말씀하시기를.|I did not anticipate encountering you at this hour. If you have any woes regarding your work, please don’t hesitate to inform me.
+9789||PersonVoice#Voice_Meursault_Ncorp_10504.json] 망치는 언제나 그 자리에, 쥐일 때를 기다리고 있으므로.|The hammer always waits in place, ready to be gripped.
+9790||PersonVoice#Voice_Meursault_Ncorp_10504.json] 쥐는 자를 보필하는 것은 으뜸 영광입니다. 본인은, 아직도 지명의 순간을 잊지 않고 있습니다.|It is one’s highest honor to aid the One Who Grips. I still have not forgotten the moment I was appointed as such.
+9791||PersonVoice#Voice_Meursault_Ncorp_10504.json] 이 못이 궁금하시군요. 이것은 N사의 경험 통조림을 만드는데 쓰입니다. 자세한 사용 방법은… 직접 현장을 찾으심이.|So you are curious about this nail. This one is used to manufacture N Corp’s canned experiences. As for its use… You would do well to see where it’s used yourself.
+9792||PersonVoice#Voice_Meursault_Ncorp_10504.json] 이 가면은 쥐는 자께서 하사해주신 것입니다. 과거에 쓰던 것은 이 생명수의 관을 가리기에 부적절해진 터라.|This mask has been bestowed upon me by the One Who Grips. The one I wore in the past could no longer conceal the tubes carrying lifefluid.
+9793||PersonVoice#Voice_Meursault_Ncorp_10504.json] …최근에 쥐는 자께서 눈 여겨 보시는 자가 있는 것 같습니다. 못의 자질이 있다던가. 귀하께서 인선을 하실 때의 판단을 알고 싶습니다. 혜안을 나누어주시옵소서.|…It seems that there is someone recently holding the attention of the One Who Grips. It involves something about the potential to serve as a Nail. I would like to know how you determine who to appoint. Please share your wisdom.
+9794||PersonVoice#Voice_Meursault_Ncorp_10504.json] 저는 단 한 명의 못을 위한 망치일 뿐입니다. 쥐는 자께서는 못의 씨앗인 그 자를 가르치라 하시지만… 아니. 쥐는 자의 뜻이 그렇다면, 따를 뿐입니다.|I am but a Hammer, serving a single Nail. Although the One Who Grips insists that I teach that disciple, a seed with the bearings of a Nail… Nay. If the One Who Grips instructs, then I am to follow.
+9796||PersonVoice#Voice_Meursault_Rcorp_10506.json] 나쁘지 않은 결과 입니다. 오늘 부족했던 점은 훈련으로 충당하겠습니다.|An adequate result. I will make up for the mistakes today with additional training.
+9797||PersonVoice#Voice_Meursault_Rcorp_10506.json] 부족함이 없는 결과군요. 부화장의 엄격한 선별이 맺은 결실입니다.|A flawless result. An outcome made possible by the rigorous selection process of the Hatchery.
+9798||PersonVoice#Voice_Meursault_Rcorp_10506.json] 아… 다시 선별과정을 거쳐야 하는 것인가…|Ah... must I repeat the selection process...?
+9799||PersonVoice#Voice_Meursault_Rcorp_10506.json] 전투 경험이… 부족했군요… 다시 부화장으로 보내질테죠…|I lacked... combat experience... I will be sent back to the Hatchery, then...
+9800||PersonVoice#Voice_Meursault_Rcorp_10506.json] 흐읍!|Haah!
+9801||PersonVoice#Voice_Meursault_Rcorp_10506.json] 전열이 무너졌군.|Their lines are broken.
+9802||PersonVoice#Voice_Meursault_Rcorp_10506.json] 생명활동의 정지를 확인했다.|Confirming cessation of biological activity.

@@ -1,0 +1,131 @@
+699||Umiejętność wroga [952804] (ulepszenie 1) — nazwa] 광폭한 추격|Furious Chase
+700||Umiejętność wroga [952804] (ulepszenie 1) — opis] 체력이 가장 낮은 적 공격\n[WhenUse] 대상의 [Laceration] 3당, 기본 위력 +2 (최대 4)|Prioritizes targets with the least HP\n[WhenUse] Base Power +2 for every 3 [Laceration] on target (max 4)
+701||Umiejętność wroga [952804] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 6 증가|[OnSucceedAttack] Inflict +6 [Laceration] Count
+702||Umiejętność wroga [952804] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict 3 [Burst] and +3 [Burst] Count
+703||Umiejętność wroga [952805] (ulepszenie 1) — nazwa] 날 선 경계|Sharp Alertness
+704||Umiejętność wroga [952805] (ulepszenie 1) — opis] [OnSucceedEvade] [AggressiveBokgak] 1 얻음|[OnSucceedEvade] Gain 1 [AggressiveBokgak]
+705||Umiejętność wroga [952901] (ulepszenie 1) — nazwa] 휘감는 팔|Coiling Arms
+706||Umiejętność wroga [952901] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 기본 위력 +2|[WhenUse] If target has 2+ types of negative effects, Base Power +2
+708||Umiejętność wroga [952902] (ulepszenie 1) — nazwa] 똬리 틀기|Coil Up
+709||Umiejętność wroga [952902] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 코인 위력 +1\n[DefeatDuel] [AggressiveBokgak] 1 잃음|[WhenUse] If target has 2+ types of negative effects, Coin Power +1\n[DefeatDuel] Lose 1 [AggressiveBokgak]
+710||Umiejętność wroga [952902] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 체력 20 회복|[OnSucceedAttack] Heal 20 HP
+711||Umiejętność wroga [952902] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+712||Umiejętność wroga [952903] (ulepszenie 1) — nazwa] 양팔 휘두르기|Swinging Arms
+713||Umiejętność wroga [952903] (ulepszenie 1) — opis] 파괴된 팔의 수만큼 기본 위력 -1\n[WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 합 위력 +2|Base Power -1 for every broken Arm\n[WhenUse] If target has 2+ types of negative effects, Clash Power +2
+715||Umiejętność wroga [952903] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis] next turn
+717||Umiejętność wroga [952904] (ulepszenie 1) — nazwa] 양팔 후려치기|Thrashing Arms
+718||Umiejętność wroga [952904] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 기본 위력 +2\n[DefeatDuel] [AggressiveBokgak] 1 잃음|[WhenUse] If target has 2+ types of negative effects, Base Power +2\n[DefeatDuel] Lose 1 [AggressiveBokgak]
+719||Umiejętność wroga [952904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 손상 10|[OnSucceedAttack] Raise Stagger Threshold by 10
+720||Umiejętność wroga [952904] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 5 부여|[OnSucceedAttack] Inflict 5 [Binding] next turn
+721||Umiejętność wroga [952905] (ulepszenie 1) — nazwa] 숨죽이기|Held Breath
+722||Umiejętność wroga [952905] (ulepszenie 1) — opis] [StartBattle] [AggressiveBokgak] 5 얻음|[StartBattle] Gain 5 [AggressiveBokgak]
+723||Umiejętność wroga [952906] (ulepszenie 1) — nazwa] 고통의 몸부림|Pained Writhing
+724||Umiejętność wroga [952906] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 있으면, 기본 위력 +3\n[WhenUse] 체력 12 소모. 다음 턴에 [Laceration] 5를 얻음\n[DefeatDuel] 기본 위력 -5\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] If target has a negative effect, Base Power +3\n[WhenUse] Lose 12 HP; gain 5 [Laceration] next turn\n[DefeatDuel] Base Power -5\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+726||Umiejętność wroga [952906] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Poison] 3 부여|[OnSucceedAttack] Inflict 3 [Poison]
+731||Umiejętność wroga [952907] (ulepszenie 1) — nazwa] 고통의 발악|Pained Struggle
+732||Umiejętność wroga [952907] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 있으면, 기본 위력 +4\n[WhenUse] 체력 12 소모. 다음 턴에 자신의 [Laceration] 횟수 3 증가|[WhenUse] If target has a negative effect, Base Power +4\n[WhenUse] Lose 12 HP; gain +3 [Laceration] Count next turn
+735||Umiejętność wroga [953201] (ulepszenie 1) — nazwa] 깊은 찌르기|Deep Thrust
+736||Umiejętność wroga [953201] (ulepszenie 1) — opis] [WhenUse] 대상에게 [Nail]이 있으면, 코인 위력 +1|[WhenUse] If target has [Nail], Coin Power +1
+737||Umiejętność wroga [953201] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+738||Umiejętność wroga [953202] (ulepszenie 1) — nazwa] 쥐어짐|The Gripping
+739||Umiejętność wroga [953202] (ulepszenie 1) — opis] [StartBattle] 다음 턴에 대상에게 [Cromer_Target]를 부여|[StartBattle] Inflict [Cromer_Target] on target next turn
+741||Umiejętność wroga [953203] (ulepszenie 1) — nazwa] 광소|Cackle
+742||Umiejętność wroga [953203] (ulepszenie 1) — opis] [WhenUse] 대상에게 정신력 피해 10|[WhenUse] Deal 10 SP damage
+743||Umiejętność wroga [953203] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Enhancement] 2 얻음|[OnSucceedAttack] Gain 2 [Enhancement] next turn
+744||Umiejętność wroga [953204] (ulepszenie 1) — nazwa] 죄악을 꿰뚫는 못|Sin-skewering Nail
+746||Umiejętność wroga [953204] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Nail] 1 부여|[OnSucceedAttack] Inflict 1 [Nail] next turn
+750||Umiejętność wroga [953205] (ulepszenie 1) — nazwa] 정화|Purify
+751||Umiejętność wroga [953205] (ulepszenie 1) — opis] [WhenUse] 대상 체력이 60% 미만이면 기본 위력 +2\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] If target has less than 60% HP, Base Power +2\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+753||Umiejętność wroga [953205] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Nail] 1 부여|[OnSucceedAttack] Inflict 1 [Nail]
+759||Umiejętność wroga [953205] (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상에게 [Nail]이 5이상 있으면, 흐트러짐 상태로 만들고 [Nail]을 없앰|[OnSucceedAttack] If target has 5+ [Nail], Stagger them and remove the [Nail]
+760||Umiejętność wroga [953206] (ulepszenie 1) — nazwa] 처단할지어다!|I Shall Claim Your Life!
+761||Umiejętność wroga [953206] (ulepszenie 1) — opis] [DefeatDuel] 흐트러짐 상태가 됨|[DefeatDuel] Become Staggered
+762||Umiejętność wroga [953206] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상을 흐트러짐 상태로 만들고, 다음 턴에 취약 10 부여|[OnSucceedAttack] Stagger target and inflict 10 Fragile next turn
+763||Umiejętność wroga [953207] (ulepszenie 1) — nazwa] 가소로워|You Are Nothing
+764||Umiejętność wroga [953207] (ulepszenie 1) — opis] [OnSucceedEvade] 대상에게 정신력 피해 5|[OnSucceedEvade] Deal 5 SP damage
+765||Umiejętność wroga [953301] (ulepszenie 1) — nazwa] 첫 사람의 날개|Protoplast’s Wings
+766||Umiejętność wroga [953301] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 기본 위력 +3|[WhenUse] If target has 2+ types of negative effects, Base Power +3
+772||Umiejętność wroga [953303] (ulepszenie 1) — nazwa] 무구한 날개짓|Innocent Flutters
+773||Umiejętność wroga [953303] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 있으면, 코인 위력 +1|[WhenUse] If target has a negative effect, Coin Power +1
+774||Umiejętność wroga [953303] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+775||Umiejętność wroga [953303] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 4 부여|[OnSucceedAttack] Inflict 4 [Paralysis] next turn
+778||Umiejętność wroga [953304] (ulepszenie 1) — nazwa] 부러진 날개|Broken Wings
+779||Umiejętność wroga [953304] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 있으면, 기본 위력 +3|[WhenUse] If target has a negative effect, Base Power +3
+782||Umiejętność wroga [953304] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis] next turn
+783||Umiejętność wroga [953304] (ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Binding] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Binding] next turn
+790||Umiejętność wroga [953306] (ulepszenie 1) — nazwa] 격노한 날개짓|Enraged Flutters
+791||Umiejętność wroga [953306] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 기본 위력 +3\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] If target has 2+ types of negative effects, Base Power +3\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+796||Umiejętność wroga [953307] (ulepszenie 1) — nazwa] 고결한 정화|Noble Purification
+797||Umiejętność wroga [953307] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 있으면, 코인 위력 +1\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] If target has a negative effect, Coin Power +1\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+800||Umiejętność wroga [953307] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn
+807||Umiejętność wroga [953308] (ulepszenie 1) — nazwa] 영예로운 쥐어짐|Honorable Grip
+808||Umiejętność wroga [953308] (ulepszenie 1) — opis] [WhenUse] 대상의 체력이 닳아있으면, 기본 위력 +2\n[WhenUse] 대상의 체력이 60% 미만이면 피해량 +80%\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] If target isn't at full HP, Base Power +2\n[WhenUse] If target has less than 60% HP, deal +80% damage\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+810||Umiejętność wroga [953308] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 체력이 30% 미만이면 즉시 처치하고, 체력을 50 회복|[UnBrokenCoinOnSucceedAttack] If target’s HP is below 30%, kill them and heal 50 HP
+811||Umiejętność wroga [953308] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Enhancement]를 2 얻음|[OnSucceedAttack] Gain 2 [Enhancement] next turn
+812||Umiejętność wroga [953309] (ulepszenie 1) — nazwa] 참회하라!!|Repent!!
+817||Umiejętność wroga [953310] (ulepszenie 1) — nazwa] 온전한 살덩이|Peerless Flesh
+818||Umiejętność wroga [953310] (ulepszenie 1) — opis] [StartBattle] 자신의 모든 부위에 [Protection] 1 부여|[StartBattle] Apply 1 [Protection] to all of this unit's Parts
+820||Umiejętność wroga [953401] (ulepszenie 1) — opis] [WhenUse] 자신을 제외한 아군 1명에게 [Enhancement] 2 부여|[WhenUse] Apply 2 [Enhancement] to 1 other ally
+821||Umiejętność wroga [953401] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 무작위 아군 1명에게 [AttackDmgUp] 2 부여|[OnSucceedAttack] Apply 2 [AttackDmgUp] to a random ally next turn
+823||Umiejętność wroga [953402] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Protection] 3 부여|[WhenUse] Apply 3 [Protection] next turn
+825||Umiejętność wroga [953403] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 [AttackDmgUp] 3 부여|[WhenUse] Apply 3 [AttackDmgUp] next turn
+827||Umiejętność wroga [953404] (ulepszenie 1) — opis] [CantIdentify]\n[Cycle]가 가장 높은 대상에게 사용\n대상의 [Cycle]당 +2%\n[Cycle]가 없는 대상에게는 피해량 -50%|[CantIdentify]\nTargets the unit with the most [Cycle]\nDeal +2% damage for every [Cycle] on target\nIf target has no [Cycle], deal -50% damage
+829||Umiejętność wroga [953404] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [Cycle]가 있으면 [Cycle] 50 부여|[OnSucceedAttack] If target has [Cycle], inflict 50 [Cycle]
+834||Umiejętność wroga [953406] (ulepszenie 1) — opis] [DefeatDuel] 자신을 제외한 무작위 아군 1명에게 [Cycle] 20 부여|[DefeatDuel] Inflict 20 [Cycle] on 1 random other ally
+835||Umiejętność wroga [953406] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Cycle]를 20 부여|[OnSucceedAttack] Inflict 20 [Cycle]
+838||Umiejętność wroga [953407] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Cycle]를 10 부여|[OnSucceedAttack] Inflict 10 [Cycle]
+844||Umiejętność wroga [953502] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDmgDown] 1 부여|[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn
+846||Umiejętność wroga [953503] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+852||Umiejętność wroga [953602] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [PlusCoinValueDown] 2 부여|[OnSucceedAttack] Inflict 2 [PlusCoinValueDown] next turn
+859||[refraction1bokgak] Pasywka wroga [950101] — opis] 턴 시작 시 자신의 체력이 50% 미만이면, 최대 체력의 20% 회복|Turn Start: At less than 50% HP, heal 20% HP
+860||[refraction1bokgak] Pasywka wroga [950901] — nazwa] 파티 타임|Hora de Fiesta
+861||[refraction1bokgak] Pasywka wroga [950901] — opis] 턴 시작 시 자신의 체력이 50% 미만이면, [Enhancement] 1, [Endurance] 1 얻음|Turn Start: at less than 50% HP, gain 1 [Enhancement] and 1 [Endurance]
+863||[refraction1bokgak] Pasywka wroga [951001] — opis] 눈 부위 파괴 시, 정신력이 가장 낮은 적 정신력 35 감소|When an Eye Part breaks, the enemy with the least SP loses 35 SP
+864||[refraction1bokgak] Pasywka wroga [951701] — nazwa] 고귀한 희생있도다|Noble be Thy Sacrifice
+865||[refraction1bokgak] Pasywka wroga [951701] — opis] 아군 사망 시, 다음 턴에 [Enhancement] 1 얻음|When an ally dies, gain 1 [Enhancement] next turn
+866||[refraction1bokgak] Pasywka wroga [951702] — nazwa] 처단의 기쁨|Joy of Execution
+867||[refraction1bokgak] Pasywka wroga [951702] — opis] 적 처치 시, 다음 턴에 [AttackDmgUp] 2 얻음|On Kill, gain 2 [AttackDmgUp] next turn
+868||[refraction1bokgak] Pasywka wroga [951703] — nazwa] 두드릴지라|Thou Shalt Hammer
+869||[refraction1bokgak] Pasywka wroga [951703] — opis] 턴 시작 시 자신에게 [Assemble]이 있으면, [AttackDmgUp] 5 얻음|Turn Start: If this unit has [Assemble], gain 5 [AttackDmgUp]
+870||[refraction1bokgak] Pasywka wroga [951801] — nazwa] 피뢰침|Lightning Rod
+871||[refraction1bokgak] Pasywka wroga [951801] — opis] 전봇대 피격 시, 이번 턴에 [ElectricShock] 2 부여\n자신의 [DogThunder]가 5 이상이면, 다음 턴부터 부위마다 피격 시 이번 턴에 [ElectricShock] 3 부여 ([DogThunder]가 0이 되기전까지 지속)\n나태 속성 공격에 피격 시 [ElectricShock] 부여량이 절반으로 감소 (소수점올림)|When the Telephone Pole is hit, inflict 2 [ElectricShock] on the attacker this turn.\nAt 5+ [DogThunder], all Parts will inflict 3 [ElectricShock] on the attacker, starting next turn.\n(Lasts until [DogThunder] reaches 0.)\nWhen hit by a Sloth attack, the amount of [ElectricShock] inflicted is halved. (rounded up)
+872||[refraction1bokgak] Pasywka wroga [951802] — nazwa] 번개|Lightning
+873||[refraction1bokgak] Pasywka wroga [951802] — opis] 전봇대가 파괴되지 않았으면 공격 종료 시, [DogThunder] 1 얻음\n전봇대 피격 시, [DogThunder] 1 소모|While the Telephone Pole isn’t broken, gain 1 [DogThunder] after an attack\nWhenever the Telephone Pole is hit by an attack, lose 1 [DogThunder]
+874||[refraction1bokgak] Pasywka wroga [951803] — nazwa] 부서지는 파편|Breaking Pieces
+875||[refraction1bokgak] Pasywka wroga [951803] — opis] 전봇대가 흐트러짐 상태거나 부위 파괴되었으면, [DogThunder]가 0이 되고 이번 턴에 골목파수견의 공격 스킬이 전부 취소됨|When the telephone pole is Staggered or Broken, lose all [DogThunder];\nAll Attack Skills of the Alleyway Watchdog will then be canceled for the turn
+877||[refraction1bokgak] Pasywka wroga [951901] — opis] 턴 시작 시 [Charge] 횟수가 10 이상이면, 패턴 변경|Turn Start: At 10+ [Charge] Count, gain a new pattern
+879||[refraction1bokgak] Pasywka wroga [952001] — opis] 사망 시, kqe-1j-23가 100 피해를 받고, 다음 턴에 흐트러짐 상태가 되며, 이번 전투동안 [Duress]을 부여하는 스킬 사용 불가|On death, kqe-1j-23 takes 100 damage, becomes Staggered next turn, and is prohibited from using all Skills that inflict [Duress] for the rest of the Encounter
+880||[refraction1bokgak] Pasywka wroga [952101] — nazwa] 피주머니|Blood Sac
+881||[refraction1bokgak] Pasywka wroga [952101] — opis] [BloodPocket]가 있으면, 몸통의 분노 내성 -50%, 우울 내성 +50%|If this unit has [BloodPocket]:\n- The Body's Wrath Resist. -50%\n- The Body's Gloom Resist. +50%
+882||[refraction1bokgak] Pasywka wroga [952102] — nazwa] 물주머니|Fluid Sac
+883||[refraction1bokgak] Pasywka wroga [952102] — opis] [WaterPocket]가 있으면, (수치 x 20)만큼 본체 체력 회복|If this unit has [WaterPocket], heal its Core by (Stack x 20)
+884||[refraction1bokgak] Pasywka wroga [952201] — nazwa] 맥동하는 팔|Pulsating Arms
+885||[refraction1bokgak] Pasywka wroga [952201] — opis] 턴 시작 시 [AggressiveBokgak]만큼 [Enhancement]와 [Protection]를 얻음|Turn Start: gain [Enhancement] and [Protection] by [AggressiveBokgak] Stack
+886||[refraction1bokgak] Pasywka wroga [952202] — nazwa] 훼손당한 팔|Damaged Arms
+887||[refraction1bokgak] Pasywka wroga [952202] — opis] 공격으로 피해를 1 이상 받으면 [AggressiveBokgak]을 1 잃음|Lose 1 [AggressiveBokgak] whenever this unit takes 1+ damage from attacks
+888||[refraction1bokgak] Pasywka wroga [952203] — nazwa] 껍데기 회복|Regenerating Shell
+889||[refraction1bokgak] Pasywka wroga [952203] — opis] 한 턴 동안 공격으로 피해를 받지 않으면, 턴 종료 시 체력을 5% 회복하고, [AggressiveBokgak]을 1 얻음|Turn End: if the unit didn’t take any damage from attacks during the turn, heal 5% HP and gain 1 [AggressiveBokgak]
+890||[refraction1bokgak] Pasywka wroga [952204] — nazwa] 광기에 찬 눈동자|Frantic Eyes
+891||[refraction1bokgak] Pasywka wroga [952204] — opis] [AggressiveBokgak]이 4 이상이면 공격적으로, 4 미만이면 방어적으로 스킬 패턴이 변경됨|Behavior depends on the [AggressiveBokgak] Stack.\nUses aggressive Skills at 4+ [AggressiveBokgak], and becomes defensive at less than 4
+892||[refraction1bokgak] Pasywka wroga [952401] — nazwa] HP탄|HP Bullets
+893||[refraction1bokgak] Pasywka wroga [952401] — opis] 턴 시작 시 체력 15 회복\n체력이 50% 미만이면 체력 15 추가 회복|Turn Start: heal 15 HP\nAt less than 50% HP, heal 15 additional HP
+895||[refraction1bokgak] Pasywka wroga [952701] — opis] 턴 시작 시, [AttackDmgUp] 2, [Vulnerable] 2 얻음|Turn Start: gain 2 [AttackDmgUp] and 2 [Vulnerable]
+898||[refraction1bokgak] Pasywka wroga [952801] — nazwa] 팽창된 공격성|Amplified Aggression
+899||[refraction1bokgak] Pasywka wroga [952801] — opis] 피격 시 [AggressiveBokgak] 1을 얻음\n턴 종료 시 [AggressiveBokgak]이 4 이상이면 [Enrage] 상태가 됨|When hit, gain 1 [AggressiveBokgak]\nTurn End: At 4+ [AggressiveBokgak], enter [Enrage] state
+900||[refraction1bokgak] Pasywka wroga [952802] — nazwa] 광란|Frenzy
+901||[refraction1bokgak] Pasywka wroga [952802] — opis] [Enrage] 상태가 되면 [Enhancement] 3, [Vulnerable] 3을 얻고, 스킬 패턴이 변경되며, 피격 시 [AggressiveBokgak]을 얻지 않음|In the [Enrage] state, gain 3 [Enhancement] and 3 [Vulnerable], gain a new Skill pattern, and does not gain [AggressiveBokgak] when hit
+902||[refraction1bokgak] Pasywka wroga [952803] — nazwa] 일렁이는 분노|Shimmering Rage
+903||[refraction1bokgak] Pasywka wroga [952803] — opis] 체력이 50% 미만이면 매 턴마다 [Enrage] 상태가 됨|At less than 50% HP, enters [Enrage] every turn
+904||[refraction1bokgak] Pasywka wroga [952901] — nazwa] 썩어가는 피부|Rotting Skin
+905||[refraction1bokgak] Pasywka wroga [952901] — opis] 턴 시작 시 체력이 50% 미만이면, 피격 시 공격자에게 [Poison] 3을 부여함|Turn Start: At less than 50% HP, when hit, inflict 3 [Poison] against the attacker
+906||[refraction1bokgak] Pasywka wroga [952902] — nazwa] 허물 벗기|Molt
+907||[refraction1bokgak] Pasywka wroga [952902] — opis] 파괴 후 1턴 뒤 다른 팔이 파괴되지 않았으면, 해당 팔과 동일한 체력으로 팔이 재생하고 재생한 체력 수치만큼 본체의 체력을 회복함\n\n양 팔이 파괴되면 스킬 패턴이 변경됨|After this Part is broken, if the other Arm is not broken at the end of the following turn, this Part regenerates with the same HP as the other Arm; then, heal the Core by the amount of the regenerated Arm's HP\n\nWhen both Arms are broken, gain a new Skill pattern
+909||[refraction1bokgak] Pasywka wroga [952903] — opis] 매 턴마다 [Vulnerable] 5를 얻고, 모든 적에게 [Poison] 10을 부여함|Gain 5 [Vulnerable] and inflict 10 [Poison] against all enemies every turn
+910||[refraction1bokgak] Pasywka wroga [952904] — nazwa] 꿈틀거리는 본능|Wriggling Instincts
+911||[refraction1bokgak] Pasywka wroga [952904] — opis] [AggressiveBokgak] 수치가 4 이상이면 공격적으로, 0이면 방어적으로 스킬 패턴이 변경됨|Behavior depends on the [AggressiveBokgak] Stack.\nUses aggressive Skills at 4+ [AggressiveBokgak] Stack, and becomes defensive at 0
+912||[refraction1bokgak] Pasywka wroga [953301] — nazwa] 넘치는 희열|Overflowing Ecstasy
+913||[refraction1bokgak] Pasywka wroga [953301] — opis] 3턴 부터, 2턴마다 [Cromer_Ecstasy] 상태가 됨|Starting from turn 3, become [Cromer_Ecstasy] every 2 turns
+914||[refraction1bokgak] Pasywka wroga [953302] — nazwa] 피어난 순수|Blooming Purity
+915||[refraction1bokgak] Pasywka wroga [953302] — opis] 턴 종료 시 크로머의 본체 체력이 50% 미만이 되면 남은 턴동안 [Cromer_Madness] 상태가 됨|Turn End: If Kromer’s main body is brought to less than 50% HP, she gains [Cromer_Madness] for the remaining turns
+916||[refraction1bokgak] Pasywka wroga [953303] — nazwa] 무결한 육체|Flawless Flesh
+917||[refraction1bokgak] Pasywka wroga [953303] — opis] 팔 파괴 시 해당 부위가 [Reduction] 2를 얻음|When the Arm is broken, the Part gains 2 [Reduction]

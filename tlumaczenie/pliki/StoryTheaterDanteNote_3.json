@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=AbnormalityInterpret].content": {
+      "pl": "Splot Nici",
+      "kr_sha256": "92c48bfa94cdf90c990c236c2c639ea41b2489a704a8ce9a00f55787edc271dc",
+      "en_sha256": "358844d8ed1b124df0d9b2b23efd54492b1705616e8c121db7bcaa9d39137163",
+      "origin": "ai"
+    },
+    "dataList[id=NestR].content": {
+      "pl": "R Corp.",
+      "kr_sha256": "7a9faf4ee45c0c085613ac9c1627f09c56a833a2907b13554f0e7e8b2e6443b6",
+      "en_sha256": "578558412493aca859fc180afeea30c174d10547fabd58da6bcf3578350d1261",
+      "origin": "ai"
+    },
+    "dataList[id=NestW].content": {
+      "pl": "W Corp.",
+      "kr_sha256": "6de0755c0dedabd159df88879f7b6b6de8bab184fdc47917bd1b085aa501b3f6",
+      "en_sha256": "837a8506767e9199657a0c3c0ac6bd4f705f51af6ca6f4a23260fa9c99d72a35",
+      "origin": "ai"
+    },
+    "dataList[id=PersonalitySync].content": {
+      "pl": "Synchronizacja Tożsamości",
+      "kr_sha256": "f2482929d88766c79a979af07d3f6c55446748c4ea09d7c6dd905f62dbe9a901",
+      "en_sha256": "2239edf406a0324e82013ac540bf5f608471735e65f9eaa56dc2a67c3ad705b5",
+      "origin": "ai"
+    },
+    "dataList[id=PersonalityUpgrade].content": {
+      "pl": "Ulepszanie Tożsamości",
+      "kr_sha256": "8783ad138db541b6a1f9909c889853362f5a7aee77bb1bafe7994664845e2bb6",
+      "en_sha256": "59dacdf0dafc2e181249161d460ad3986f614d00189277a6aa2685a3401acb70",
+      "origin": "ai"
+    }
+  }
+}

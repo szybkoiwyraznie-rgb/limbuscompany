@@ -122,3 +122,21 @@ Nowe lekcje z tego projektu dopisuj na końcu, z datą i odnośnikiem do wpisu w
     tylko poza repo”, choć w WWM i SRW teksty gry są w Git. Zasada jest prosta:
     **teksty gry (JSON/MD) w repozytorium, binaria nigdy**. Przy wątpliwości
     zapytaj, zamiast pisać w raporcie ograniczenie, którego nikt nie ustalił.
+30. **Custom Language w `v.1.119.1` wymaga pełnego 5-kluczowego `config.json`
+    oraz czcionek w `Font/Context/` i `Font/Title/`.** (LCB, 2026-11-25,
+    `E-010`–`E-012`.) Bez niepustych plików `.ttf`/`.otf` w obu podkatalogach
+    silnik pomija własny język po cichu nawet po wybraniu go w `Select Custom
+    Language`; wewnątrz `Font/{Context,Title}/` trzymaj wyłącznie pliki
+    czcionek (licencje osobno), a na przyciskach UI pilnuj limitów długości, bo
+    stałe ramki nie zmniejszają czcionki automatycznie.
+
+31. **Zasada nazw: fonetyka vs. konkretne znaczenie — jedna dla całej gry.** (LCB,
+    2026-11-25, decyzja właściciela.) Jeżeli literacja koreańska podaje fonetyczną
+    nazwę obcą (angielską, łacińską, japońską, chińską — 크로머, 바바 야가, 클로버,
+    보스, 홍옥), zostaje zapis alfabetem łacińskim 1:1 z EN. Jeżeli koreański wyraz
+    znaczy coś konkretnego (불한당=Chuligan, 굴절된=Załamany, 목화=Bawełna,
+    인어=Syrena, 주인님=Pan), tłumaczymy na polski. Zasada obowiązuje **wszędzie** —
+    też tam, gdzie wcześniejsze checkpointy (P78, P84) świadomie zostawiły nazwy
+    1:1; redo takich decyzji: PRIORYTET-1 i P84-REDO w `SLOWNIK_TERMINOW.md`.
+    Kanony rodzin bierz z `local/krmap.json` i już przetłumaczonych plików,
+    zamiast wymyślać na nowo; niespójne warianty notuj w SŁOWNIKU do ujednolicenia.

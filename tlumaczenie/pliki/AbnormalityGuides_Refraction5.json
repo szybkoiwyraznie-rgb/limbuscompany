@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=8630].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8630].name": {
+      "pl": "Der Fluchschütze",
+      "kr_sha256": "1f9d73b27beedb97ca9a33e21af9249434160212473d97a11be86930378fb0fc",
+      "en_sha256": "2b8e4074aa3fe1d16dd33620a31cfd47bc5c93d661da9a8dfc54a8b964254720",
+      "origin": "ai"
+    },
+    "dataList[id=8630].storyList[level=1].story": {
+      "pl": "Hej! To robimy teraz logi audio, co? U mnie śmiga! Świetnie!\n\nAle ja nie wiem, jak to cudo ma nagrać choćby jedno słowo z tego huraganu!\n\nA, ten ku— Ten zwariowany skurwysyn nie przestaje strzelać z krwawej broni w naszą stronę! Nie słyszę własnych myśli, cholera!\n\nTsk… Chyba poradzą sobie z szumem w postprodukcji. No dobra, zaczynamy, chyba!\n\nTen ma jakiś dziwaczny dym albo ogień, czy jakąś gnojkę palącą się od głowy! Ubrany też w jakiś żołnierski kostium!\n\nSłuchałem go ziającego i ziającego, i podobno był w jakiejś wojnie czy coś!\n\nChyba celuje w nasze głowy, ale to nie jest nic nadzwyczajnego, co nie? Każdy, kto idzie na zabójstwo, i tak idzie na głowę!\n\nJa też, zwłaszcza gdy chcę mieć pewność, że są martwi na dobre!\n\nNie wygląda jednak na najbardziej skomplikowanego wroga! Widzę jasno, w kogo ten gnój celuje.\n\n→ No więc, Heath, o słynnych ostatnich słowach…\n\n→ Mm. Konwersja audio-na-tekst wygląda na sprawną. Dobra robota.\n\n→ Haah… no i o co chodzi. Myślałem, że powaliłem go, gdy się zderzyliśmy, to co z diabłem się stało?\n\n→ Obserwacja: raz namierzony przez istotę, pocisk zawsze trafia cel, niezależnie od wyniku zderzenia.\n\n→ Hoh? Czemuż tedy po prostu nie uniknąłeś pocisku?!\n\n… Myślisz, że dostanie w twarz to mój celowy zamysł, dziewko?!",
+      "kr_sha256": "4026c347493befccadc58909ce8542837d253ff523cd2836dd450a8cb3a16a5e",
+      "en_sha256": "1bc79d82be307cdb2e71981e6b46a3878fea8d690665256f928b155cf61074f1",
+      "origin": "ai"
+    },
+    "dataList[id=8630].storyList[level=2].story": {
+      "pl": "Mówiąc o tym, słyszałem, że pocisk Anomalii trafił też wszystkich wokół mnie, gdy mnie zabił.\n\nRobaczek mówi mi, że używa czegoś zwanego „strzelbą”.\n\nPodobno nadrabia krótki zasięg szerszym rozrzutem pocisków, które mogą trafić więcej niż jednego wroga naraz, więc… to musiało być to.\n\nTeraz, gdy o tym myślę, ten drań wybierał najpierw najbliższego sobie, gdy namierzał cel.\n\n… Hm. Nie bolało aż tak, gdy trafił mnie z dystansu.\n\nMusimy tylko dbać, żeby nasze głowy były nietknięte przez całą walkę, co?\n\nCzekaj, on właśnie przywołał jakiegoś robakogłowego znikąd. Gdzieś go już widziałem…?\n\nO, nieważne. Skupię się na skopaniu tego gościa z bronią.\n\n→ No tak, a o drugich słynnych ostatnich słowach, Heath…\n\n→ Huh. Przywołuje sojuszników… tylko po to, by ich zabić? Co?\n\n→ C-co do diabła… To Dyrektor Zarządzający starej G Corp., prawda? Co się tu dzieje?\n\n→ To Kolej Załamania. Zatem najpewniej jest on rekonstrukcją jednostki niezbędnej Anomalii, wziętej z odłamków Głębi Jaźni.\n\n… Więc wciągnęli go w inną wojnę, co. Tsk. Nawet po śmierci nie może…",
+      "kr_sha256": "2e9da81a48f197ad2d63866c2b2110fad7395596bab678ee49808ff7723dd89a",
+      "en_sha256": "4539a1c6c31ec923b950118e991f207da12461fc362bb4924defad9761822814",
+      "origin": "ai"
+    },
+    "dataList[id=8630].storyList[level=3].story": {
+      "pl": "Hej, wszyscy widzieliście? Jak zareagował, gdy kazaliśmy mu przyjrzeć się jego wisiorkowi?\n\nZaryczał, wpadł w szał, potem… coś jakby stracił całą parę.\n\nJakby cała motywacja wyciekła z niego. Zimne strzały, zimne obrony…\n\nCholera, po co w ogóle nosiłeś wisiorek, skoro nie chciałeś ich pamiętać?\n\nNo, to na pewno uprościło nam sprawę, ale… Nie podoba mi się to.\n\nI zanim cokolwiek powiesz… Pamiętam, Faust, pani mądrasiu. Dałaś mi już dosyć przypomnień.\n\nTo tylko Anomalia, a historie Anomalii nie są warte, bym im poświęcał ucho.\n\nHah. Chodzi tylko o to… że nie tak łatwo to powiedzieć i odpuścić, wiesz?\n\nNie sądzę, by wiedział, gdy to mówił. To też nie tak, że powiedział mi to prosto w twarz.\n\nPowiedział tylko, że wciąż pamięta tych, których kocha.\n\n… Więc… skoro to za nami i zrobione…\n\nPamiętasz, jak rozbił mi głowę na czerwoną papkę na samym początku?\n\nTo musi znaczyć, że moja pamięć jest w porządku, co? Heh, i to… to nie jest takie złe, prawda?\n\n→ Co? Uh… m-mówisz, że… podobało ci się uczucie, gdy głowa rozpada się na kawałki?\n\n→ Huh? Yeah. Jeśli chcesz być techniczny, chłopcze.\n\n… Ale czemu? Głupcem być możesz, ale nie ty z lubością cieszysz się z cierpienia Zarządcy Wykonawczego.\n\n→ Co ty z diabłem bełkoczesz? Patrz, nie mówię, że lubię patrzeć, jak Zegarowa Łepko cierpi, to…\n\n→ Młody Heathcliffie… to podły nawyk, znajdować radość w cierpieniu innych.\n\n→ Agh! Wszyscy źle to rozumiecie! Hej, Zarządco! Wiesz, o czym mówię, prawda?!\n\n→ C-cóż, jasne, że wiem. Ale… (Coś tu było napisane, ale zostało pośpiesznie zatarte.)\n\n… Nieważne. Porozmawiajmy o tym później na konsultacji.",
+      "kr_sha256": "da780dd7b89c8b131075f5107ae0278840a4a426d035987171d9f51e530a2e97",
+      "en_sha256": "235a435e17722108190fbc3e047f32f89a24718b7e63df8271ab986f1e79d7c3",
+      "origin": "ai"
+    },
+    "dataList[id=8632].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8632].name": {
+      "pl": "Sleeping Bag of a Bygone Day",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=8632].storyList[level=1].story": {
+      "pl": "Wykonuję sprawozdanie poobojowe zgodnie z rozkazem Zarządcy Wykonawczego.\n\nZ istotą zetknęliśmy się około godziny 10:40 dziś.\n\nPrzybiera ona formę gigantycznej czaszki, co wyjaśnia łatwość identyfikacji tego wroga.\n\n(Ciężki oddech) Rozmiar czaszki jest dość onieśmielający, a jej cechą jest to, co wygląda na podporę jakby kręgosłupa otoczonego żebrami.\n\nChoć może robię tu dość duży skok logiczny… (Ciężki oddech) można przyjąć, że reszta jej kształtu nie jest tak niepodobna do ludzkiej budowy kostnej.\n\nPoczątkowo próbowaliśmy wykorzystać odpowiedniki zwykłych słabości zidentyfikowanych na ciałach ludzkich na podstawie tego podobieństwa. Jednak…\n\n… gdy zaobserwowaliśmy jej rozciągliwy kręgosłup (Ciężki oddech) i przekształcanie żeber w formy ramion lub skrzydeł, plan natychmiast odrzucono.\n\nPo raz kolejny okazuje się prawdziwe, że(Ciężki oddech) taktyki oparte na normalnym rozumieniu powszechnych zmysłów(Ciężki oddech) nie zawsze są użyteczne wobec tych potworów. Nie było to jednak wszystko na nic.\n\nW procesie analizy tego wroga zdołaliśmy zidentyfikować ciemną istotę o sylwetce humanoidy wewnątrz jej ciała(Ciężki oddech). Choć jej dokładne funkcje dopiero zostaną zidentyfikowane, nasze obecne założenie kazałoby sądzić, że może być to główna forma istoty, lub jej rdzeń.\n\nPrzypuszczam, że jej środki agresji będą w pierwszej mierze priorytetyzować ataki natury fizycznej z użyciem jej struktur kostnych, ale… z uwagi na brak dowodów nie mogę powiedzieć na pewno.\n\nWszelkie brakujące informacje zostaną(Ciężki oddech) uzupełnione przez kolejne obserwacje; proszę konsultować ten przewodnik przy waszych(Ciężki oddech) przyszłych rozkazach.\n\nDziękuję.\n\n→ Cholera… według podręcznika jak zawsze. Jak ty w ogóle przyniosłeś cały swój szablon do nagrania głosowego?\n\n→ Łatwo. To umiejętność oczekiwana od tych w służbie Zarządcy Wykonawczego.\n\n→ No tak, pewnie… Weź jednak trochę oddechu, co? W tym raporcie było rozpraszająco dużo „Ciężkiego oddechu”.\n\n→ Hmph. Musi to być nerwowy oddech niedoświadczonych kurcząt. Ja, Outis, nie pozwalam, by tak proste raporty odbierały mi tchnienie.\n\n→ T-to nie ja. To leci z tej czaszki od momentu, gdy ją znaleźliśmy…\n\n→ Hmm. Nie ma płuc ani tchawicy, a jednak oddycha. Przez gdzie podąża jej powietrze, tak się zastanawiam — jak doskonale dziwaczne.",
+      "kr_sha256": "e5bc0c7c41a47b850867e777c4a0e49b1cda09452f517c32903f27ef5e44ce52",
+      "en_sha256": "da21e00e6e6d8c29e3e46d0e5add6159905ddc6a8fb8743ef85f95d922aa65b3",
+      "origin": "ai"
+    },
+    "dataList[id=8632].storyList[level=2].story": {
+      "pl": "Zmierzyliśmy się z istotą w znaczącym wymiarze około godziny 11:00 dziś.\n\nJej pierwsze akcje w walce to próby fizycznego rażenia nas kośćmi. Dokładnie tak, jak się spodziewaliśmy.\n\nJej najwybitniejszą formą ataku jest wydłużanie kręgosłupa, by szarpać wrogów znaczącymi szczękami. Zaobserwowano jednak także inną, nieoczekiwaną formę ataku.\n\nNieprzerwanie wypuszcza oddech. Wydech niesie nadzwyczajny poziom wstrząsu i ciśnienia powietrza, które wyrządza dość znaczące obrażenia każdemu Grzesznikowi złapanemu bezpośrednio w promieniu jego wybuchu.\n\nNasi sojusznicy dalecy są od najpewniejszej siły bojowej, a liczebna niekorzyść może łatwo prowadzić do fatalnych skutków; proszę uwzględnić tę radę.\n\nJednak… nie wygląda na to, by ta istota wymagała wysokiego poziomu strategizowania, by ją pokonać. Utrzymywanie wysokiej presji powinno być więcej niż wystarczające.\n\nJeszcze jedna rzecz do zapamiętania: po pewnym czasie wypuściła dużą objętość „powietrza” przez wydech.\n\nTo „powietrze” zdawało się poprawiać równowagę każdego, kto je wdychał, wyostrzając celność ich ataków. Wtedy zaczął się mobilizować cień-istota wewnątrz czaszki, próbując ukraść „powietrze” wszystkim, którzy je mieli.\n\nPróbowano różnorodnych strategii, by przerwać ten proces, lecz na próżno.\n\nNajoptymalniejszą, i jedyną strategią przeciw utracie tego powietrza byłoby upewnienie się, że każda jednostka z osobna stawia opór istocie jak najlepiej.\n\nAtaki istoty stawały się wysoce wzmocnione, gdy wciągnęła dużą objętość tego powietrza; zapobiegnięcie temu skutkowi musi być głównym celem tej batalii.\n\nKończę raport.\n\nDziękuję.\n→ W tym raporcie rozpoznawanie „Ciężkiego oddechu” wyłączono dla czytelności. Jednak zapisy „Ciężkiego oddechu” z poprzedniego raportu nie zostaną usunięte, w służbie pogłębienia poczucia realizmu wcześniejszego raportu.\n→ O, yeah. Ta cieniopodobna humanoida wciągnęła wcześniej Gregora… wszystko z tobą w porządku?\n→ … To nie jest dobry moment, starzy. Myślałem, że ta rzecz poszarpa mnie na kawałki, kończyna po kończynie.",
+      "kr_sha256": "a08c708087a6e646a52ddf5be06cf64e05a0836c47c630ee9bbb0e2060b37a2f",
+      "en_sha256": "62a03a0dd22ebd07910301786c88447d76a2a156d400ec68367ac599ab8f0a54",
+      "origin": "ai"
+    },
+    "dataList[id=8632].storyList[level=3].story": {
+      "pl": "Piszę, by poinformować, że podczas naszego zetknięcia z istotą zebrano dalszy wywiad.\n\nUstalono, że po utracie żeber istota zaczyna przygotowywać wysoce fatalny atak.\n\nJednak wraz z eliminacją jej ochronnego szkieletu jej obrona staje się wysoce porowata, znacząc, że stała się znacznie podatniejsza na nasze natarcia.\n\nZ drugiej strony, choć niezniszczenie żeber nieuchronnie prowadzi do przeciągniętej batalii, oszczędziłoby nam to kłopotu wymyślania kontrśrodek wobec wysoce niebezpiecznych ataków.\n\nMm. Ten moment wzywa strategicznego osądu.\n\nMam wiarę w Zarządcę Wykonawczego, że, jak zawsze czynił, wynajdzie doskonałą decyzję, uwzględniającą zachowania istoty i inne czynniki pola bitwy.\n\nTak więc pozostawiam tę część batalii genialnemu strategicznemu umysłowi Zarządcy Wykonawczego.\n\nKończę raport.\n\nDziękuję.\n→ Spoko… dzięki.\n→ Czy to tylko mnie się zdaje, czy Dante zdaje się być o wiele mniej… entuzjastyczny, gdy odpowiada Outis?\n→ Nie, nie… to nie to, co tu się dzieje! Jestem bardzo entuzjastyczny.\n→ Twoje taktyki wyobcowania nie wbiją nawet najmniejszego klina między Zarządcę Wykonawczego i mnie. Twoje wysiłki są na nic.\n→ Nie… nie sądzę, by ona też to miała na myśli. W każdym razie chcę, żebyś wiedział, że naprawdę doceniam te szczegółowe raporty…",
+      "kr_sha256": "93169a817b32799f877945b09875102b738f70280e06b14865886e314f4d7cd1",
+      "en_sha256": "1fdb4c540b2346c777964b0e845a36f6d1b2481fa171d59b526e477228dd2737",
+      "origin": "ai"
+    },
+    "dataList[id=8633].clue": {
+      "pl": "Poszlaka",
+      "kr_sha256": "1a7fd9fbfca3998210afea9bdd9177695acffb1d45fa78e72d106818bf1de9a6",
+      "en_sha256": "4faf9cda1911b5d77ceeff204bb2f75acc9efeadacc7ec94442673971362686a",
+      "origin": "ai"
+    },
+    "dataList[id=8633].name": {
+      "pl": "Four-hundred Roses",
+      "kr_sha256": "ff441815191bd6008d69a2ad43c7f4c40d248cad057d9de3ce658b4957727ffc",
+      "en_sha256": "8be5b465e620dce26a4909f8847bcabdf938a2ee5824e092628da72d4103495c",
+      "origin": "ai"
+    },
+    "dataList[id=8633].storyList[level=1].story": {
+      "pl": "Smród krwi jest duszący.\n\nNa pierwszy rzut oka wygląda jak zwyczajna róża, istotnie…\n\n… lecz między każdym płatkiem lśnią oczy. Oczy z wyrazami, które znam.\n\nBłyszczące oczy nieprzezwyciężonego pragnienia, oczy nie tak odmienne od oczu głodnej krwi Rodziny.\n\nNie pragnie zabijać, ani nie pragnie szkodzić. Tamto stworzenie… ono tylko tęskni za krwią.\n\nNie przypuszczam, by tamten kwiat zawsze był tak bestialską rzeczą.\n\n… Hah. To nie tak, jakbym był w jakiejkolwiek pozycji, by litować się nad tamtym stworzeniem.\n\nHm. Zobaczmy, z czym mamy do czynienia… Czyżby uderzała nas winoroślą? Tak proste strategie nie przedstawią nam małego lub żadnego ryzyka.\n\nIstotnie, czerwone, zakrwawione płatki najpewniej wykorystają swoje krwawe zasoby, by na nas napaść. Będziemy musieli uważać na ten aspekt.\n\nHm, jak powinienem sformułować te obserwacje, by naturalnie przekazać te ustalenia Zarządcy Esq—\n\n… Chwilka. C-czy to urządzenie— Stańcie, czyż to kontraptum już nie zaczęło… nagrywać?\n\nM-młoda Faust, muszę Cię o przysługę prosić— być może, udostępniłabyś mi szansę odrzucenia tego zapisu na rzecz nowego…\n→ Z dobrym uzasadnieniem, tak. To możliwe.\n→ Ooh! Wtedy proszę cię, młoda Faust! Najmniejszy błąd został tu popełniony, z racji mojego niedoświadczenia w tej szczególnej metodzie nagrywania głosu.\n→ Odmowa z powodu niewystarczającej przyczyny. Ten zapis zostanie utrzymany w obecnym stanie.\n→ (Następują dziesiątki próśb Don Quixote o ponowne nagranie, każda pojedyncza zaś podążona wiadomością odmowy od Faust.)",
+      "kr_sha256": "1b3afb47b938adce42e95ae5e2514bc87c0b3e5ca50c31077819d2b8763393dc",
+      "en_sha256": "c3657b8ec2c20cb343128126a43535dd86d00ca245840e4728d94da6c190984f",
+      "origin": "ai"
+    },
+    "dataList[id=8633].storyList[level=2].story": {
+      "pl": "Zaiste! Była batalia epickich proporcji!\n\nBestia z rozpaczy szuka, by nas zranić!\n\nJasne jak błękitne niebo jest to, że ten wróg używa rozlanej krwi do rażenia nas nimi!\n\nNiestety, tak więc wszyscy przyszliby do wiary, że nieprzystoi karmić tego strasznego wroga krwią… lecz ja, Don Quixote, uwarzyłem pomysł najwspanialszy!\n\nHeh heh. Przepasz swoje lędźwie, albowiem zamierzam zasugerować nową strategię…\n\nTen wróg… zaiste, staje się coraz posłuszniejszy, pijąc więcej krwi!\n\nMarry, jasne jest, że stworzenie może stać się nieco trudniejsze do zabicia, lecz to jawi się jako najcudowniejsza sposobność, by trafić dwie pieczenie jednym strzałem; chronić naszych sojuszników, przynosząc sąd tej złej Anomalii!\n\nTo było dość imponujące popis inteligencji, czyż nie tak?\n→ Uh, myślę, że stworzenie staje się wyjątkowo trudniejsze do zabicia, im więcej krwi wypije.\n→ Yeah… C-co jeśli po prostu… ubijemy ją jak najszybciej umiemy i nie nakarmimy jej żadną krwią?\n→ Mm. Jednak zaobserwowano, że istota staje się wysoce agresywna, gdy nie dostaje krwi.\n→ Hm. Wtedy możemy karmić ją właśnie tą właściwą ilością krwi. Jak to wam, ludzie? I tak dawanie jej tyle krwi było udręką.",
+      "kr_sha256": "539bcf1953f81ad9da2f32797ebd22c5a68ea85d0359f01d4373849df0f71178",
+      "en_sha256": "358f5d3c3b78edaf8158b813d7b7acc14b21cd632ef03e77e02ae7426c2a151b",
+      "origin": "ai"
+    },
+    "dataList[id=8633].storyList[level=3].story": {
+      "pl": "Hm… zaiste, sugestia młodego Gregora, by karmić bestię właśnie tą właściwą ilością krwi, była najbardziej pomocna.\n\nAha! Oczywiście, ja, Don Quixote, wydobyłem na jaw również dość znaczący wywiad!\n\nGłowa! Tej róży! Jest jej słabością! Lo, spójrzcie na jej płatki!\n\nWygląda na to, że wraz ze zniszczeniem jej głowy bestia nie zdoła dobrze pić krwi!\n\nTo najpomyślniejsze odkrycie, czyż nie? Bo uderzanie w jej ciało było bolesną udręką i dla nas.\n\nPowiedzę z wielką pewnością, że nie ucierpicie więcej od waszych ran pękających przy każdym uderzeniu w jej ciało!\n\nHeh heh… Czas jest bliski, by plugawa róża została dodana do mojej listy pokonanych wrogów!\n\nAh, młoda Faust, muszę złożyć Ci prośbę najwyższej doniosłości…\n\nKiedy ta batalia się skończy…\n\nProszę Cię, czyż nie pozwolisz mi zredagować najpierwniejszego zapisu…?\n→ Jesteś w tym uporczywszy, niż uprzednio zakładano. Odmowa, po raz dwudziesty szósty.\n→ Jej pierwszy raport był jednak dość dobry, co? Szczerze, myślę, że ten wydawał się trochę bardziej prawdziwym raportem niż… reszta.\n→ Lubię te luźne raporty waaaaaay bardziej. Nie mogę nie zaczynać ziewać, czytając raporty Ishy albo Fau, wiesz? Za strasznie suche.\n→ Co…? Czyż nie powinniśmy utrzymywać stopnia profesjonalizmu, pisząc raport? Znaczy, chyba Don Quixote zwykle jest dość dobra w swoich raportach, ale…\n→ Hoh? Zbłądziłem, albowiem nie pojmuję pary waszej! Styl moich zapisów zawsze był konsekwentny, tak jak gwiazdy wstają nocą!\n→ Donqui… czy po prostu będziesz udawać, że to nigdy się nie stało?\n… To, uh. Twoja tendencja do chowania głowy w piasek jak struś nie zniknęła, co? Nawet z powrotem twojej pamięci.",
+      "kr_sha256": "be043598495db60f5aa7eb93681b876edc64e684207e06a5a1db896e6a67379a",
+      "en_sha256": "d814fd902fc7aa0d4fba6a965f4f135b5c09a133cff12f864beefaf12c1c5553",
+      "origin": "ai"
+    }
+  }
+}

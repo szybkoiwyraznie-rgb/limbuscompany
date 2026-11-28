@@ -1,0 +1,96 @@
+13005||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 경계심 가득한 시선이 느껴진다. 구경하는 걸 말릴 생각은 없어 보이는데, 왜 저렇게 빤히 쳐다보는 걸까…|We can almost feel his guarded stare against our skin. If he's not about to stop us from browsing, why is he watching us like a hawk...?
+13006||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <color=#7d7d7d>오늘도… 선언하노라. 우리들의 안식의 전당은 영구히 보존되어야 마땅하니라.</color>|<color=#7d7d7d>Heed ye, for again I proclaim this day. Blessed be the hall of our rest with eternal preservation.</color>
+13007||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 단테에게 있는… 시침과 분침… 을 말하는 것 같아요.|If I were to hazard a guess... I'd say the "blasphemous trinkets" are referring to Dante's clock hands...?
+13008||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <color=#7d7d7d>황금을 도려내는 자들을 몰아내라. 그들이 우리의 구역에 발을 디디지 못하게 하라.</color>|<color=#7d7d7d>Thou shalt not suffer those who would scrape out the Golden.\nThou shalt cleanse our domain of apostasy.</color>
+13009||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 용서치 않겠습니다… 그 찬란한 송진을 제 손으로 직접 거둬내어 이 바래어가는 전당을 돈독히 하겠습니다… 네, 들립니다, 목소리가… 모든 르누아르의 의지를 대신하여 제가 이곳에서…|I shall grant them no mercy... I shall reclaim that radiant resin with my own hands and shore up the fading light of this sanctuary... Yes—your voice reaches me. As the hand of the will that is Le Noir, I shall make my stand here and...!
+13010||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <color=#7d7d7d>몰아내라… 황금빛을 보존해라… 새어나오는 부정한 빛을 막고 우리를 영원한 안식 속에 지켜주는 사명을 이어받을지니…</color>|<color=#7d7d7d>Thou shalt banish the apostates...\nThou shalt preserve the Golden hue...\nThou art hallow'd with the divine duty to shade the profane light, O keeper of eternal rest...</color>
+13011||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <color=#7d7d7d>저 추한 자들에 의해 오늘도 고결한 황금송진들이 찢기고 훼손되며 강탈당하였도다. 언제까지 연약하게 무너질 종말만을 기다릴 것인가.</color>|<color=#7d7d7d>Yet even today, ye do naught as the hideous and the wicked ceaselessly tear out the Golden from its walls and take its aureate light for themselves. How long will ye forgive your own craven spirits and feebly accept the end of days?</color>
+13012||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 기억하겠습니다. 황금송진을 뜯어가려는 불경자들을… 발견한다면…|I shall heed your command, Lord. Apostates who dare plunder the Golden Resin shall—
+13014||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 고객 분들에게도… 불경하게 바랜 빛이 보이는군요.|I see among our clientele... those who gladly bask in the tarnished glow of sacrilege.
+13015||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 우리…? 우리는 평화롭게 쇼핑하고 있을 뿐인데?|Why is he looking at us...? Hey, we were just shopping and minding our own business!
+13016||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 관리자님을 향해 말하고 있다.|The employee is speaking to the Manager.
+13017||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 르루주들이 이곳으로 침범하여 질서를 어지럽히고 모욕하는 짓을 하다니, 멋대로 그 오래된 휴전을 깰 셈인가?|That the forces of Le Rouge would seek to foment disorder and profane the sacred domain... Answer, what is this brazen attempt to null the ancient truce?
+13018||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 우리는 르루주… 그게 뭔지도 모르겠고 아무도 아니야. 어디에도 안 속해 있다고!|You listen here, Buddy. I don't even know what this funny "Rouge" business is, 'kay? We're nobodies, we're not in any forces of whatever, and we don't want any trouble!
+13019||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그대들이 르카키라는 말입니까? 보란 듯이 그 불손한 장식품을 과시하며 우리 매장을 거닐고 있는 그대들이?|Ah, then you claim to be Kakis? You, who strut through our store flaunting those irreverent trinkets on your face? Do you expect us to believe you?
+13020||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그러고 보니 옷들의 재질이 특이한데… 이 옷들은 재료가 뭘까요?|I don't recognize the material... What do you think these clothes are made of?
+13021||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 고객들이다. 옷을 입기도 하지만 동시에 옷이 되기도 하지.|The customers. This means they purchase and wear clothing, but may also become clothing themselves.
+13022||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 고객들이요? 아… 그래서 아까 뫼르소 씨를 옷감이라고 불렀던 거군요…|Customers? Oh... I see now. That's why the clerk called you "material" earlier.
+13023||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 백화점엔… 이렇게 갇힌 고객이라는 사람들이 몇 명 정도 있는데?|Right... So how big is Sisyphe's "clientele"? The customers trapped in this place?
+13024||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 약 3억 명.|Approximately 300 million.
+13025||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …뭐라고요?|... Pretty sure I misheard that.
+13026||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 잘못 들은 것이 아니다. 시지프 백화점에는 현존하는 이레로 수많은 사람들이 들어왔고 그들은 영구적으로 남아있기에.|You did not. There is no discharge date for the Sisyphe Penalty, and those who enter remain permanently. Its population is theoretically on an infinite upward trend.
+13027||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 잠… 잠깐… 무기를 거두십시오.|W-wait... Lower your weapons, please...
+13028||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 보다시피 벽 곳곳에는, 붉은 것들이 만든 흉한 이빨 자국도 있습니다.|As you have doubtless noticed... The walls are riddled with the hideous bite marks left by those blasphemous red ones.
+13029||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 백화점이 언제나 굳건하게 버틸 수 있도록 단단히 붙들어 둘 황금송진을 저렇게 추하게 목구멍으로 쑤셔 넣으려 하다니…|Grain of the Golden Resin, indeed... But those Rouge savages are busy shoveling that very essence of the stalwart bastion into their gullets...!
+13030||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 황금송진이라는 게… 어떤 건데요?|Okay, so... just what is the "Golden Resin"?
+13031||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <저기 보이는 균열들을 메우고 있는 황금빛을 말하는 걸 거야.>|<He's probably referring those patches of gold filling the fractures on the walls.>
+13032||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저게… 황금송진…|So they're the "Golden Resin," huh...
+13033||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 바야흐로 아홉그루 시즌 전, 백화점에 갑자기 금이 가기 시작하며 몰락의 시대가 왔습니다…|The time was nine arboreal Seasons ago—when the Age of Ruin descended upon Grand Magasin Sisyphe in the form of cataclysmic cracks forming upon its walls.
+13034||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 자비가 베풀어져 황금송진이 이 건물에 자리 잡아 백화점의 붕괴를 막아 주었으니… 어찌 섬기지 않을 수 있겠습니까… 어찌 그들은 송진을 뜯어내는 짓을 벌이는 겁니까…|Then, mere moments before doom took us, salvation arrived in a form that couldn't be anything else but divine—brilliant resin of gold, materializing in the cracks that would have been our ruin, patching them back to wholeness. Are we not to praise and worship this providence? Alas... The Rouges fail to comprehend the unequivocal logic in this veneration, and instead elect to flay the walls... Preposterous.
+13035||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 지금은 비록 저들과 위태로운 휴전을 이어가고 있으나… 우리 모두는 알고 있습니다… 이 모든 평화가 그저 찰나에 불과하다는 사실을…|Though a precarious truce between the two factions is in place... None fail to see the truth that is plainly before them: this peace is but a momentary lull, nothing more.
+13036||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그럼 언젠간 제게도 더 이상 방송이 아닌 그 분의 진정한 목소리가 들릴 것입니다…|Then... only then... shall my mind be opened to the true "Voice," beyond the broadcast.
+13037||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …? 아까 목소리가 들렸다고 혼잣말하셨잖아요.|...? What was all that fuss about voices earlier, then?
+13038||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 자세히 보니 그건 우리가 영구히 보존하려는 황금송진과는 비슷하지만 어딘가 다른 궤적이군요…|Your aureate traces are... while similar, quite unlike the Golden Resin we must preserve.
+13039||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 음…! 아아… 그랬죠… 저는 목소리가 들립니다… 그러니까 지금부터 더 명확하고 빈번하게 들릴 것이라는 뜻이었습니다…|Uh...! Right, indeed... I <i>do</i> hear the "Voice..." What I meant to say is that my mind shall be opened <i>further</i> so that I may hear it more frequently...
+13040||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그럼… 우리에게 위층으로 갈 수 있는 방법에 대해 알려줄래?|Anyways... If ya know a way upstairs, care to let us in on the secret?
+13041||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 고객센터에 도달하고자 하는 고객들입니까…|Ah, so you are customers who seek to reach the Customer Service Center, I see...
+13042||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 지상층으로 올라가기 위해서는 그 품격에 맞는 소비가 필요합니다.|To rise is to gain prestige, and to be prestigious is to spend and consume until your expenditure befits the status they demand.
+13043||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저는 비록 이 매장에 남아서 고객들을 응대해야 하느라 이 자리를 벗어나진 못하지만…|Though I am bound to my post, to remain in this establishment and attend to its customers...
+13044||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그대들이라도 올라가서 대신 전해주십시오. 황금송진을 향한 이 영원한 충절을…|... perhaps you may be able to ascend in my stead and relay the account of my eternal fidelity toward the Golden Resin...
+13045||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 한마디로 올라가려면 돈을 벌어야 한다는 말 같네요. 하나만 더 물어본다면, 돈은 어떻게 벌 수 있나요?|Gotcha. So if we want to go upstairs, we're gonna need to spend some cash. One more question, if you wouldn't mind—how exactly do we make money around here?
+13046||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …돈?|... Money?
+13047||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 여기 말로는 눈알… 같아. 맞지?|The lingo for money here seems to be "eyeballs"... Right?
+13048||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 오오… 그대들은 정말 남다른 의지를 품은 이방인들이로군요.|Oh... You strangers truly possess a determination unlike any other.
+13049||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아까 아니라고 말했잖아요! 왜 이제 와서…|Yeah, well, why didn't you listen when we said as much? Could've avoided this whole mess...
+13050||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 눈알을 가질 수 있는 방도를 일러주겠습니다. 마네킹들로부터 얻을 수 있습니다. 마네킹들은 기회만 된다면 끊임없이 전시를 하려고 할 테니 그대들이 성실하게 임하고자 한다면 눈알을 모을 수 있을 것입니다.|Then I shall reveal the means by which eyeballs may be won. Take them from the Mannequins. They seek every opportunity to exhibit themselves without end; if you apply yourselves diligently, you will gather all the eyeballs you require.
+13051||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그리고 이 앞은… 부디 경계를 소홀히 하지 마시길. 그곳은 르루주의 영역입니다. 천박한 드레이핑으로 원단을 고정시키지도 못할 뿐만 아니라 우리의 황금송진을 제멋대로 찢고 이어 붙여 모독을 하는 자들…|And another thing—pray, be constantly vigilant beyond this point, for you will be entering the territory of the Rouges. The vulgar, heathen fiends cannot even drape a bolt of fabric properly, so they rend our Golden Resin and stitch it back together in whatever blasphemous shape that pleases them...
+13052||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <…>|<…….>
+13053||RPGSystem#rpg-loc-dialogue-floor-1-b.json] … 르루주… 네, 그럴게요.|... The Rouges... All right. Will keep that in mind.
+13054||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그럼 마음껏 매장을 둘러보도록 하십시오, 용감한 이방인들이여.|If there isn't anything else, brave strangers, I am honored to inform you that this establishment is now open to your perusal.
+13055||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이스마엘이 분이 풀리지 않는 듯 성큼 다가가자 직원이 다급하게 외쳤다.|Ishmael took a threatening stride toward the employee, who quickly shrank back.
+13056||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 오오, 그렇군요… 당신의 목소리가 다시 울립니다…! 이자들은 정말 아무것도 모르는 이방인들이었군요. 그저 우리 브랜드의 가치에 이끌려서 온 고객들일 뿐… 이들을 다시 응대하겠습니다.|Oh! I understand... Your voice resounds within me once more! These are true strangers, innocent of our ways—customers drawn here by the worth of our brand, and nothing more. I shall receive them anew.
+13057||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 고객들이여, 무례를 용서하십시오. 그대들에게 보이는 그 황금빛은 저희가 기어이 사수해야 마땅할 신성한 황금송진과 너무나도 닮아 있었습니다.|Forgive my affront, dear customers. The golden light that hangs over you much resembles the blessed Golden Resin we must preserve.
+13058||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 지금까지 황금가지의 기운을… 단번에 알아보는 사람들은 드물었어. 어떻게 알아챈 거야?|We haven't met too many people who could pick up the Golden Bough's presence like you did... How'd ya do it?
+13059||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 우리는 모두 그 황금의 맥박을 느끼고 갈구합니다…|Every one of us feels that golden pulse... and thirsts for it.
+13060||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그 빛은 우리를 인도하고… 염원하는 형태로 우리를 제직해주는 황금빛…|Our guiding light... The golden gleam that weaves us into our desired forms...
+13061||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저희는 그 빛을 원합니다… 하지만 천박한 욕망에 굴복해버린 르루주 놈들과는 다르게 르누아르는 그 축복의 결을 수호하고 영구히 남겨두려 할 뿐…|We desire it too, that brilliance. But unlike the Rouges who surrendered to their base urges, we Noirs are the eternally sworn guards of the blessed grain.
+13062||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 여기는 둘러볼 만큼 다 본 것 같네.|I think we've looked at pretty much everything they have to offer here.
+13063||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이제 위에 있는 매장으로 가보죠.|Well, let's head to the other store up ahead and find out.
+13064||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그래. 다음 매장으로 가보자.>|<Yeah, to the next store we go.>
+13065||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 오… 안타깝게도 이곳은 이방인들이 살 만한 옷이 없습니다. 조금 더 패션을 이해하고, 등급도 올리신 후에 다시 방문해주시길.|Oh... How regrettable. We carry nothing suitable for Strangers of your... sensibilities. Return once you've cultivated some understanding of fashion—and raised your rank, too.
+13066||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 등급은 어떻게 올릴 수 있는데?|And how do we raise that?
+13067||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 백화점에서 등급을 올리는 방법은 하나뿐이지 않겠습니까?|There is but one way to raise one's standing in a department store, is there not?
+13068||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …돈을 써야겠죠. 그것도 꽤 많이.|... Spend money. Lots of it.
+13069||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그럼 다음에 뵙겠습니다. 충격적인 패션의 이방인분들.|Precisely. Then until we meet again, Strangers of truly... arresting fashion.
+13070||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 다음에 찾아오시길.|Please come back later.
+13071||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 정장… 이랑 비슷하게 생겼지만, 좀 더 고급스러워 보이는 디자인이다.|It looks something like a suit... only cut from a far more classy design.
+13072||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 디자인이 생각보다 괜찮은데?|Huh. That's actually a lot nicer than I expected. So chic!
+13073||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …일단 다른 쪽도 둘러보죠.|... Let's look around some more.
+13074||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이 옷 단테한테 어울릴 것 같지 않아?|Ooh, don'tcha think this one's made for Dante?
+13075||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <그런가?>|<Y-you think so?>
+13076||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 핏이 완전 단테 껀데? 아까 받은 눈알도 있으니까 하나 사는 건 어때?|Ya bet! That fit is practically beggin' for ya. And we've got those eyeballs from earlier—why not treat yourself?
+13077||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 잠깐만요. 일단 여기서 쓸 수 있는 돈인 거 같은데, 좀 더 신중하게…|Hang on. It's the only kind of currency they'll accept around here. We should set our priorities right before we splash cash like—
+13078||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 히익… 눈알 450개라니 너무 비싸잖아!|Eeep... 450 eyeballs? What a ripoff!
+13079||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 비싼 게 아니라 저희가 가난한 걸 수도 있지만요.|Or maybe we're just too broke.
+13080||RPGSystem#rpg-loc-dialogue-floor-1-b.json] …지금까지 쓴 눈알이 450개는 가뿐히 넘지만 굳이 말하지 않기로 했다.|... I considered for a moment whether I should mention that we've spent multiples of 450 eyeballs in our journey so far, but I decided against it.
+13081||RPGSystem#rpg-loc-dialogue-floor-1-b.json] <확실히 이곳의 옷들은 유행을 안 타는 느낌이네.>|<Yeah, these garments don't seem that interested in being "trendy.">
+13082||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이름값이 있으면 유행에 휘둘릴 필요가 없어서 그래.|When a designer's name carries enough weight, ya don't chase trends. Trends chase ya instead.
+13083||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이렇게 고급스럽고 비싼 건 가만히만 있어도 사람들이 줄을 서거든.|Slap a famous label and a ridiculous price on something this fancy, and people will line up before ya lift a finger.
+13084||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아득바득… 유행에 따라갈 필요가 없는 거지.|No need to run yourself ragged.. to keep up with every little craze.
+13085||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저희와 비슷한 느낌의 스타일을 추구하시는군요… 세련되고… 우아하고… 색감도 탁월해요…|Ah... Do I spy a true connoisseur of fashion? A style much like our own... sophisticated... elegant... and that command of color—exquisite.
+13086||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아… 혹시 제가 너무 말을 많이 하나요?|Ah, do pardon me... I got carried away, didn't I?
+13087||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 사실 저는 이 브랜드의 디자이너예요.|The truth is, I am the designer of this label.
+13088||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 이곳에서 자신만의 브랜드를 런칭한다는 건 쉬운 일이 아니니까요. 이 백화점에서 매장 한 칸을 따내기까지 얼마나 많은 노력을 했는지 몰라요.|Gosh, I could go on for hours about all the troubles I had to overcome to have this tiny corner of the department store to myself. It's no easy task launching a designer label at Sisyphe, you know.
+13089||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그래도 이자는… 우리에게 호의적으로 보여, 그치?|Well... at least she seems to fall into the friendly camp.
+13090||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 혹시 찾으시는 스타일이 있나요? 원하신다면 제 컬렉션 중 스스로의 몸을 제일 잘 표현할 수 있는 것으로 추천해드릴 수 있어요.|Is there a particular silhouette you're after? If you like, I can select a line from my collection that will articulate your physique to perfection.
+13091||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 저희는… 계속해서 위층으로 가려고 하는데요.|We're... trying to find our way upstairs, actually.
+13092||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 위층이라면…|The upper floors...
+13093||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아, 당신들도 결국… 명품 매장으로 들어가고 싶으신 거죠, 역시?|Ah, I knew it... You're more interested in the Luxury brands too, aren't you?
+13094||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 제 브랜드도 질이 좋고 명품 못지않는 클래식함이 있는데…|But I assure you, the quality standards and the classique air of my designs are not so far behind those of Luxury brands...
+13095||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 하하, 그치?|Hah! See? Someone gets it.
+13096||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 맞아요, 많은 고객들이 명품 매장을 가고 싶어 하죠. 이해해요. 저도 한때는 명품관을 가고 싶어서 눈알들을 미친 듯이 모았던 때가 있었으니까…|Yes, of course, the allure of Luxury brands is undeniable. There once was a time when even I devoted myself to collecting eyeballs like a thing possessed, all for the chance of witnessing the Luxury Hall...
+13097||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 아뇨, 그냥 저흰…|No, we're just...
+13098||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 원래 이 매장에 있다가 이번에 명품관에 입점한 르루주가 있어요. 그자는 저보다 패턴을 뜨거나 설계를 짜는 실력은 한참 부족했죠. 심지어 제가 손수 가르쳐주기까지 했다니까요?|I know a Rouge who used to work here before they were allowed to join the Luxury Hall. I don't want to badmouth, but I do take umbrage with how they approved somebody who is so clearly my inferior in patterning and design. And to think this "Luxury designer" learned their craft under <i>my</i> tutelage as a greenhorn, can you believe it?
+13099||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 그런데 어느 날… 자신이 만든 모든 옷에…|Until... listen, this is where it gets really ridiculous...
+13100||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 목덜미와 소맷단에 자신의 치아를 박아 넣어서 정확히 76개의 치아 자국을 내더군요. 고객들은 그걸 보고 파괴적인 실루엣이라고 하며 미친 듯이 사들였어요.|... they used their teeth to line each and every one of their items with exactly 76 tooth marks along the necklines and hems. Whatever it was that the customers saw, the general reception claimed it cast a "deconstructive silhouette," and practically emptied their shelves.
+13101||RPGSystem#rpg-loc-dialogue-floor-1-b.json] 실력이 아니라 우연이죠… 제 패턴은 훨씬 완벽하고 세련되었는데.|Eh, I wouldn't attribute <i>that</i> to their skill when it ultimately amounts to a fluke... My designs are far more sophisticated than theirs, not to mention incomparably elegant.

@@ -1,0 +1,1810 @@
+{
+  "entries": {
+    "dataList[id=7SV-BV-001-1].dlg": {
+      "pl": "Ty... nas... porzuciłeś...",
+      "kr_sha256": "b2d077bbcc8b3ae64e9a4a74d8a9bcc5d71347febfce0623b5742b3be5e783b9",
+      "en_sha256": "41e386130a6a2a4604c2fe8a2178df5d50a98238ba1e81c3d29858acfe05558e",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-001-2].dlg": {
+      "pl": "M-musimy... wydostać... się stąd...",
+      "kr_sha256": "60f3a48ad604f17331ce70f47459d9bd893ccb27e2234230bd17e8a244701aa6",
+      "en_sha256": "725305e92506557958db84429ee9d9df154c769a11d39850596c8df3a2c5d3a3",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-005].dlg": {
+      "pl": "Najlepiej będzie, jeśli zbadam wasze wzorce zachowań.",
+      "kr_sha256": "32fc1564bbcd1e7d37cb20fd61f96c5de7e8cbf2fbd8699fb07d09f4444dbb53",
+      "en_sha256": "18f7f55f5ebeeaf52830c9c68af80501e2446177d4e81e987442ca98d51aad4d",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-006].dlg": {
+      "pl": "Te dane w zupełności wystarczą.",
+      "kr_sha256": "4571fb9251245bdcbf4d8bdb7c0b81266d91f06d2a41826af93ead6945d1eff0",
+      "en_sha256": "c19b231e7144d23f791611898e7e71ab2b0125e4a3204685e5b76930c4360968",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-007].dlg": {
+      "pl": "... Wciąż Cię to nie przekonuje? Cóż, nie ma to znaczenia. Nie mówiłem tego dla Twojego zrozumienia. Ani dla zgody, o ile o to chodzi.",
+      "kr_sha256": "d0e30619279e69f448b541e414b73e99cf770ae719fdc780d82a2362da65aefb",
+      "en_sha256": "5fe4c02038e54606724da7e3752748e771399ad82a3cf087906205e02d3f40ae",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-008].dlg": {
+      "pl": "Cóż, ucieczki i tak nie ma. Te otchłanie, w których się znajdujemy — zbudowane są w całości ze „mnie\".",
+      "kr_sha256": "d71581a62570dcd0f500c8ea146ee9ba9162e53ebabc3ebc861d44a4e7349b6b",
+      "en_sha256": "24f30b034d3ca83c567e9d5384e79e2ce9c101125135d5904e036816e5daa90a",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-009].dlg": {
+      "pl": "Umarli milczą. A wypełnienie tej ciszy zawsze spada na żywych.",
+      "kr_sha256": "f4a47b8b8d4b94e041a594a428bbe3ca3febae18839acea3d1d36117a16f4b5d",
+      "en_sha256": "d07ae35140b6a6020158c30fe61072a3e8e0188adfa365b35bd6847740d8df24",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-010].dlg": {
+      "pl": "...Krew",
+      "kr_sha256": "b4b856813dc7a0a22e316416ffa3242aac49ab5070329830be53d409919d6b7a",
+      "en_sha256": "563902ded618f291ac522ccb7d84e4e1392e8a23e4b684d49b84d9fc3f2304b2",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-011].dlg": {
+      "pl": "...muszę pić krew...",
+      "kr_sha256": "aedf241bfae508596f029b721e277b5a8e17caf745634c5df9c9e2be4c5e8193",
+      "en_sha256": "7dce82a39034ab6effccbd20664163e2bd78a5338c9e8c45705ff0f7e406cb47",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-012].dlg": {
+      "pl": "Wciąż...za mało...",
+      "kr_sha256": "283a95f7c5d8bd10ffd6d83668371f08c353289cf6f9db8ab82467ead931a201",
+      "en_sha256": "fdb62b5834bc32354d31bab70b6d3e7fd3f5ecd5994436195408452b8f095141",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-014-1_4-01].dlg": {
+      "pl": "Zagłada.",
+      "kr_sha256": "6906556e57df39cc9ff243592800b76ae20584baf5026bdac7fd69c204d2ac91",
+      "en_sha256": "8c2a12de85f72325a9175a36f10b90b472a76a640cce0a29c049d59ed183278b",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-014-1_4].dlg": {
+      "pl": "Zagłada.",
+      "kr_sha256": "6906556e57df39cc9ff243592800b76ae20584baf5026bdac7fd69c204d2ac91",
+      "en_sha256": "8c2a12de85f72325a9175a36f10b90b472a76a640cce0a29c049d59ed183278b",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-014-1_5-01].dlg": {
+      "pl": "To na mnie spoczywa.",
+      "kr_sha256": "fa010bcb70807f49e6c63fdaa1442871b0639ddc7b8019c853aca649fe80aa1f",
+      "en_sha256": "1405690a578d8cbf7da95dc59036f5be0e1d6899ef7ebf1435a39c701355f36d",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-014-1_5].dlg": {
+      "pl": "To na mnie spoczywa.",
+      "kr_sha256": "fa010bcb70807f49e6c63fdaa1442871b0639ddc7b8019c853aca649fe80aa1f",
+      "en_sha256": "1405690a578d8cbf7da95dc59036f5be0e1d6899ef7ebf1435a39c701355f36d",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-016].dlg": {
+      "pl": "...Niech rozleje się kaskadą.",
+      "kr_sha256": "a41eab14e49a2356b91101f8a87ccb55748a9ecc86f543f5abd903147ea01f80",
+      "en_sha256": "3ded8bd41934fa82e90095f8e68a54eb3ad0d63584e65217d61d425af318e864",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-017].dlg": {
+      "pl": "Tak... dla was, pogrążonych w uścisku śmierci...",
+      "kr_sha256": "894c99347b3b89ee8dd856f4c3ebf49156b13b1421105284cc5748796ade721d",
+      "en_sha256": "31d4a2a5e7a524a7fc9ccc32b956459ffc1a1e81be675e82f6d68e29cfa6621c",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-018-1_3-01].dlg": {
+      "pl": "Pozostańcie przebici.",
+      "kr_sha256": "aec59a6b7798aaefa71dd802fffb4aac7d7b143a4be669fa51a55dd4931c1715",
+      "en_sha256": "5b9b16ccf4f2ab98c504fd2cb389803118865987320e577c8c63d049e0ce3619",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-018-1_3-02].dlg": {
+      "pl": "Pozostańcie przebici.",
+      "kr_sha256": "aec59a6b7798aaefa71dd802fffb4aac7d7b143a4be669fa51a55dd4931c1715",
+      "en_sha256": "5b9b16ccf4f2ab98c504fd2cb389803118865987320e577c8c63d049e0ce3619",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-018-1_3].dlg": {
+      "pl": "Pozostańcie przebici.",
+      "kr_sha256": "aec59a6b7798aaefa71dd802fffb4aac7d7b143a4be669fa51a55dd4931c1715",
+      "en_sha256": "5b9b16ccf4f2ab98c504fd2cb389803118865987320e577c8c63d049e0ce3619",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-020-1_3].dlg": {
+      "pl": "...Pragnienie...",
+      "kr_sha256": "011f17e17f2be13ae0068e417afbe692454c4a8270c1b6a12e1d66ea413cb8f1",
+      "en_sha256": "7373fdc4fc6ec369796fe4df34b6ae82882922a51cb5bd4dd9e9b65d986f3f14",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-021_1].dlg": {
+      "pl": "Całą krew na świecie...!",
+      "kr_sha256": "cf99ead3f21c6595bbac06a450380e33d027f681434574d918bc8ba7b8481c67",
+      "en_sha256": "99ffcff56dea9056d4892b060d5c0316fc845b0918bd10269d7c1d78ead788a5",
+      "origin": "ai"
+    },
+    "dataList[id=7SV-BV-021_2].dlg": {
+      "pl": "Którą rodzina miała prawo wypić...!",
+      "kr_sha256": "b15f668fcc99feeb3bb3d424bc124ef0437f341b7803ab02c4f738e21f7f3685",
+      "en_sha256": "50f8514371e5808c80f544faa87db397e760d730e10727bcd8e0a251fb8bf1d2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-12].dlg": {
+      "pl": "Zrozumiałem.",
+      "kr_sha256": "31ed163142377e5da9a129edb7c078710db5f96062f71485607a1f8aa0b9d91b",
+      "en_sha256": "a2542670074ea3e0c6876ad6d0f75e2dc933461c6b765c0c5fab376a498215b8",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-13].dlg": {
+      "pl": "...Ścinam go.",
+      "kr_sha256": "cbbd2919029b7cf08f5e416b695722f371be8630f887a83f269be9774715a00a",
+      "en_sha256": "dc0cb5bbe7f144dc7e4d00d626704e3b56ed41415b5b5dad97906bee72846f0c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-BR3-3].dlg": {
+      "pl": "Przebijam się przez.",
+      "kr_sha256": "f464d817cadce7ec8f5ff319b1e16b9905db42f6585dc57226a213eead066d7e",
+      "en_sha256": "aec9f5d1ba1d921d65357548a2d7c034f4239a62661329c54073d6f1458969a7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-BR3-5].dlg": {
+      "pl": "Przebity.",
+      "kr_sha256": "f495bedfd1015b51a67cf37a35c512937c561fd16bf172490cf596eb8dc02765",
+      "en_sha256": "1b3f9daed30f4c464716cc105b19dfbeff2c80d285f743c6d8e70e94f2831905",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-BR4-5-01].dlg": {
+      "pl": "To koniec.",
+      "kr_sha256": "a897159a8517b42e5bf84020915f365caf8685a246c848e17a7c38f594dd5c9c",
+      "en_sha256": "53c0fc2a1a49c11e5a91023b8b2206caada1986666be64e50cdb633797f6af97",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT1-BR4-5].dlg": {
+      "pl": "To koniec.",
+      "kr_sha256": "a897159a8517b42e5bf84020915f365caf8685a246c848e17a7c38f594dd5c9c",
+      "en_sha256": "53c0fc2a1a49c11e5a91023b8b2206caada1986666be64e50cdb633797f6af97",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-02-1].dlg": {
+      "pl": "Nie należało stawać mi na drodze.",
+      "kr_sha256": "912379ffe85585aa60b9fc637a1dac742f58175c3bc9b26a98799ad39681cb8f",
+      "en_sha256": "2d48630955ffc2bcfbc761ab5c1bdf0ac7258e5a73892ee4a471d1964ea0c910",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-02-2].dlg": {
+      "pl": "To niczego nie zmieni.",
+      "kr_sha256": "b00e67fe62b743896e6deb384529e2deec3903f2501c3e35a9edbd1892928e3e",
+      "en_sha256": "1a8005dde0c1b1f02d0404c029790a8e7c06eb699612ddd9d7639fd31bd301d2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-02-3].dlg": {
+      "pl": "Hę. Jaka męczarnia.",
+      "kr_sha256": "566fe9f93974526088820b4f4cd028c206fedcd20d374a5ae52814fe4820a3c6",
+      "en_sha256": "08aa27731a2377927e068374c86378e0da82e3787f7aaa23deb5468c0c3ac7af",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-03-1].dlg": {
+      "pl": "...Widziałeś to naprzód, co?",
+      "kr_sha256": "86aae219e7f2107dbf8ae2db03b1e6ea691b8f17654f973313bf7a6bf6722575",
+      "en_sha256": "4fb2cf8fa084db5e878b1de9a6cb7a6f725881b33e1d392e4942f1b1d2335621",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-03-2].dlg": {
+      "pl": "Ta relikwia nie posłuży wam wiecznie.",
+      "kr_sha256": "80c208be108c8a4bcf8aa08768c59f9d32db7672d35ae3fe64d68fe0711cef20",
+      "en_sha256": "eb03fa1601a45cff28eabba976fcc78cc5aa486f476d8a6f4c97f55291282b23",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-03-3].dlg": {
+      "pl": "Jak długo myślisz, że wybrniecie?",
+      "kr_sha256": "a86053c0b7367be7db9f61e23d3b80807cdb8d145078604d94f5efc32594536b",
+      "en_sha256": "bdbb00917a101107b957c82482e5d1479d2041724077ecba3f0c57ee770d53fd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-04-1-01].dlg": {
+      "pl": "To zawieszenie się wyłącznie na tym, co widzą oczy... Klątwa tak nieodmiennie ludzka.",
+      "kr_sha256": "74beecabe3bef6867e36c44c6c0cce0aff295ef638d789cc553e2d55b2547b67",
+      "en_sha256": "d751244f49e44450f58909b0f7fc4cb8191c8a4fbb225e1941767258d36b024b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-04-1].dlg": {
+      "pl": "To zawieszenie się wyłącznie na tym, co widzą oczy... Klątwa tak nieodmiennie ludzka.",
+      "kr_sha256": "74beecabe3bef6867e36c44c6c0cce0aff295ef638d789cc553e2d55b2547b67",
+      "en_sha256": "d751244f49e44450f58909b0f7fc4cb8191c8a4fbb225e1941767258d36b024b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-04-2].dlg": {
+      "pl": "Czas uiścić cenę.",
+      "kr_sha256": "c20bfad720843fa66fb0d4d7a404a928bf3dc2ff06ab19eb724a45d4ca14dff9",
+      "en_sha256": "e95f6ab493cb7e919e8e8fce20b73982a680bb9cfa1d4b8e06eca741bbc5ef59",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-04-3].dlg": {
+      "pl": "Zbyt wiele pokładłeś w tej pipidówce. Nierozsądnie.",
+      "kr_sha256": "1be784c72fbabb5799c3047498789ad216d512220d0c37cb9a0b7ca710ef4f62",
+      "en_sha256": "9460d797120777fdce67b7bec78cf85b69b43869c27e1c21d0fde6021fb928a0",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-05-1].dlg": {
+      "pl": "Dante. Rozumiem, że w takich okolicznościach trudno nie kierować wzroku tutaj. Ale... lepiej skupcie się na walce, niż pozwolić tym zgonom was rozproszyć.",
+      "kr_sha256": "395875c04839c9d13548ecf187eb15becbb0ae2a0e97d6bc9de554333e402256",
+      "en_sha256": "a984bc1aba311bac70fa9dd60b68e114c781ae7796f670efda7c56b04d74c006",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-05-2].dlg": {
+      "pl": "Dante. Lepiej skupcie się na Grzeszniku nr 4, niż pozwolić tym zgonom rozproszyć waszą uwagę.",
+      "kr_sha256": "ef894c8cffcd4eb95a155186ffe917dd2c2fd57659709ca895ca111798ec0af9",
+      "en_sha256": "8148a5092ed77b03cc5466261df5017a6d8dbd6d922002489f67da71ec4466b8",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-06].dlg": {
+      "pl": "...Hę. Przystosował się.",
+      "kr_sha256": "1ce77951dfd7c3d5b9ad0eec683644d3ca362ba9d5e60dd4bb428ef9ac875171",
+      "en_sha256": "2a37f0eb65054ff25c147886571eb1bd950f1563744ebcd87bdd1c987eccfe72",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-07-01].dlg": {
+      "pl": "Może... panowanie Cesarza w końcu dobiega końca.",
+      "kr_sha256": "4c268ca10a698888a042a97d8fa143b72787c5f6da9c905f95fbf40f8b9ccf3d",
+      "en_sha256": "688f830a613760e825396be907e24b27a2edfc5d958a241bc1f7be9f586f03a2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-07].dlg": {
+      "pl": "Może... panowanie Cesarza w końcu dobiega końca.",
+      "kr_sha256": "4c268ca10a698888a042a97d8fa143b72787c5f6da9c905f95fbf40f8b9ccf3d",
+      "en_sha256": "688f830a613760e825396be907e24b27a2edfc5d958a241bc1f7be9f586f03a2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-08].dlg": {
+      "pl": "Postawię swoje życie.\\nBy móc wyryć to wszystko w tych oczach...\\ni nie dać się temu związać...",
+      "kr_sha256": "9fbe5258cd9926ed1e21a2d926588d06ba3c49cb26b883ce06d80769788bde89",
+      "en_sha256": "973bd9e1a45662ca2f0643bb29eccbef3337df5a4249a56a03c84b0fcfe24957",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT10-09].dlg": {
+      "pl": "...Już tyle przejdę. Będę dalej strzegł tego przepływu.",
+      "kr_sha256": "71bc998ea87273f0d6cc66c127edc5b4c3652911a346e387b9e934b1852e8193",
+      "en_sha256": "7d07c1faaf2281460ed8dfac6e6df192934e9b0506d53ed2d174ea760db4e754",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT11-03].dlg": {
+      "pl": "Te przeklęte potwory...! Spalcie na popiół!",
+      "kr_sha256": "5b076b28ef37ba51a0e01afe99fd14ba9960bd760577518bd10034867e11d58f",
+      "en_sha256": "df21b7442ca2c72866bc7815bd333bf40ab700287e88dbf17ad81d7456d46ada",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT11-04-1].dlg": {
+      "pl": "Przepraszam, szefie. Ale nic lepszego, by ich powalić, nie przychodzi mi do głowy.",
+      "kr_sha256": "52e35b92aa1efcaecba403fe45632445b06fe7f6301ed6d9ae2d76c9a4c4f27d",
+      "en_sha256": "27e7947f8e55040cb0765e1a8bc511fcf1c0261cac7af379d629276bf61478a9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT11-04-2-01].dlg": {
+      "pl": "Jeśli mogę spalić te potworne rzeczy na popiół, to chętnie...! Rzucę się w wirujący ogień...!",
+      "kr_sha256": "c8d496648f2c25c290b0d858412c9893c7207da9b61fae81c5ccf35d3b885039",
+      "en_sha256": "1719859d5b5426522c5aa32fba934e46ba372234c7155e9016c86e46df0e7fa2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT11-04-2].dlg": {
+      "pl": "Jeśli mogę spalić te potworne rzeczy na popiół, to chętnie...! Rzucę się w wirujący ogień...!",
+      "kr_sha256": "c8d496648f2c25c290b0d858412c9893c7207da9b61fae81c5ccf35d3b885039",
+      "en_sha256": "1719859d5b5426522c5aa32fba934e46ba372234c7155e9016c86e46df0e7fa2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT11-05].dlg": {
+      "pl": "Khh... przysięgam, że was zabiję. Oboju... Na pewno...",
+      "kr_sha256": "9b907c3baf9fdb1663173efcc830c1c7fae6d1a2e29db1c61ceea75a7c10c2c5",
+      "en_sha256": "8499c9d3da83208e76d2bb2cf6c0a1c1bab387bea5baf8d0374a63ecc6fb4005",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-04-1].dlg": {
+      "pl": "Ja również kiedyś szukałem odpowiedzi w wiedzy.",
+      "kr_sha256": "ccd577c80b973a22356a88c9145ce6c16c98d53537d9b814c9cf4d5bc004a6c1",
+      "en_sha256": "932cc2886e1b89000bbcf227ce98f544d39cbdf54758ca61c0fb8a26bdf644e9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-04-2].dlg": {
+      "pl": "Choć teraz zrozumiałem, że wiedza nie zna odpowiedzi.",
+      "kr_sha256": "93bb23c0054ce5620d581136f99999de8305faefce3a8c12a5736edb4cc884c1",
+      "en_sha256": "60f74fb81766f04de2ce6fc5eaa63e557516378692174e34ad77850a13d4a7f7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-04-3].dlg": {
+      "pl": "Przy tej technice przydałaby się butelka wina...",
+      "kr_sha256": "735958d3a9ef50bc1c74c6445676fe8f53ccb1be81f53e2716c56953cf2ded01",
+      "en_sha256": "6ead74ffa5207df05a946bcfb610cec31d5bcee968658e263595be0d82b07bb9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-04-4].dlg": {
+      "pl": "Wygląda na to, że moja przeszłość też staczała zaciekłe walki.",
+      "kr_sha256": "fffe702eece631899b5362ab8b9d81bcac16a4c353811644a4c2c5c80355e8b0",
+      "en_sha256": "5d1cc1312e2156e2172bd8bc1d7a523c540de2f4ffc2bd68007f8a93d48415dd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-05-1].dlg": {
+      "pl": "Pokażę wam jedyną naukę, która ukształtowała moje życie.",
+      "kr_sha256": "53b4b0a619a78061b8bb20bcdfd9c0d7110a1c49cfd0cbd0c212370228c94a3a",
+      "en_sha256": "0274f3eb12a882b8b1dd9620d50d25feb914b1b3e608993b52e9f8281dc1dd41",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-05-2-01].dlg": {
+      "pl": "Tę samotną ścieżkę trudu — ścieżkę własnego wyboru.",
+      "kr_sha256": "9c3791d31836d09260ea32229c5bca9dbec7fb5db012644187f4950de108b8a6",
+      "en_sha256": "5353127f1f88c34e73c3a3af3b0bb3e0e1f93bb2575c88723634f5fc1a7b970b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-05-2].dlg": {
+      "pl": "Tę samotną ścieżkę trudu — ścieżkę własnego wyboru.",
+      "kr_sha256": "9c3791d31836d09260ea32229c5bca9dbec7fb5db012644187f4950de108b8a6",
+      "en_sha256": "5353127f1f88c34e73c3a3af3b0bb3e0e1f93bb2575c88723634f5fc1a7b970b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-05-3].dlg": {
+      "pl": "Pustka dźwięku, pustka formy, a na końcu... pustka umysłu.",
+      "kr_sha256": "5910dcd5d531c0f5e4626390e86b6e001fb78ceff15e74afd9492e37dd5c1490",
+      "en_sha256": "ad21dbd1318ed8e10b7f03907a850b4bf89611b14e9bb6d5c8ab3edd07d96ab6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-07-1-01].dlg": {
+      "pl": "Ta odmiana sztuki nie leży w moim guście.",
+      "kr_sha256": "4e25772ec7665db6b17634a5578b81e984bfe90f11b65212a158651c10551ac5",
+      "en_sha256": "6848fc259bc67f9f2a0c12a704020dbbd9395f159a004d2344d9f7fcfcdce92c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-07-1].dlg": {
+      "pl": "Ta odmiana sztuki nie leży w moim guście.",
+      "kr_sha256": "4e25772ec7665db6b17634a5578b81e984bfe90f11b65212a158651c10551ac5",
+      "en_sha256": "6848fc259bc67f9f2a0c12a704020dbbd9395f159a004d2344d9f7fcfcdce92c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-07-2].dlg": {
+      "pl": "Koniec. Nie mam już czego słuchać.",
+      "kr_sha256": "fbcebb3f880df2a981f6b41e9021b4d861aa6346d89e10b117cdd5c16b11565d",
+      "en_sha256": "6f8b5ec408efb4f20440fe5d4244b48bf5826b1d6ba5a8fa13c37e339672c5f6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-07-3].dlg": {
+      "pl": "Sztuki nie wolno nadmiernie wyjaśniać.",
+      "kr_sha256": "c4be1da21b10800c40f60c9bceac6dcacb6f49a9047385189e83a77252c12f23",
+      "en_sha256": "676d164a88200a9ee332b7531f1a507165221c4f3d0b284f9b78dd1223e70e59",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT12-BR3-7].dlg": {
+      "pl": "Te protezy... pozwolę je odrzucić.",
+      "kr_sha256": "5022f19d0a8ea61670754f451e87784ba569ab61853f291b45b4d7ba9b6c8655",
+      "en_sha256": "f291846b2fff1f95ef447b454237c5734d3504cc65a78d1073052edbbcc1e3f0",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-03-01].dlg": {
+      "pl": "Oto mój atak specjalny! Violet~ Breaking Slam!!!",
+      "kr_sha256": "797614d8062f9c2088feb415815785d33b7035adf0f2ac4fcdbd553454d1bf1b",
+      "en_sha256": "27b29baee645ea9b188925342c52d78c37ba6d0413149b9710bb39d0d7ae7c30",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-03].dlg": {
+      "pl": "Fuu... To jak finałowy pojedynek z odcinka 24!",
+      "kr_sha256": "36f521c69e44c4f3a0f18cd19d1bba8e190eba87f3a8b3a46e1e4a5ceabfab16",
+      "en_sha256": "484eb6ca95524319098ed1135b6bab35209859a30a35ace8530b6162d013889b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-05].dlg": {
+      "pl": "To już przerabia moje nerwy...! Co się dzieje dalej w tym kliszy... wiesz, nie?!",
+      "kr_sha256": "33fd10c6f74ef26317dceea6db5ca5c1ffa6851657f8eb23883a7b787197e823",
+      "en_sha256": "4123570b85fc496f99a56264006fa8089a7c74e66cc971f992a1cb688eb5b2b4",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-06-01].dlg": {
+      "pl": "Nasz tata to zajebisty, co?!",
+      "kr_sha256": "fe469ec1501987e59c3b864c2edca097bc8821c5585494934d39ce951f422fdc",
+      "en_sha256": "be54f085f50d4d8ce22c2e35db6e7795bef1845dad7d30fe2bc77ad4f089bea9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-06-02].dlg": {
+      "pl": "Krr~ i znowu patrzę na to z pierwszego rzędu?!",
+      "kr_sha256": "83f5a5565c7aefb2e6b954bff26e271062c762b5bb2ede19d4ad6f8e5bfff737",
+      "en_sha256": "7d16369cec50bfc86d3d5556c6c34a2141cf72c3ac234a8296cfb624e36ba087",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-06].dlg": {
+      "pl": "Ooo, tatuś zaraz im przyklei!",
+      "kr_sha256": "37a6d5cd700bd3d041822f8dbe341975e7933b34ff724a38aac0670680b5f8de",
+      "en_sha256": "5bd8acd1140cec764abcde6c7a5df4d317dc8ba9a5ab8b21323e0fe43cc18a24",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-07].dlg": {
+      "pl": "I tak wam to oddam...!",
+      "kr_sha256": "4a21b21c4efa056579b90fb45fdc80602bd1d6ed0eebeef9bc87c804a5bb16de",
+      "en_sha256": "630741b1442ebb5bbf0f6f34cb221b0a2b622f49d4470261d207ac0677534f3e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-BR2-2-01].dlg": {
+      "pl": "Raz! Dwa! Trzy! Hata!",
+      "kr_sha256": "a7c736119396869109529a000ce6a46a28c5eca13f791035bdce91a4e1c3e1fc",
+      "en_sha256": "1e149ee2817e9c22fef9ba9a8d404b758d085eda944cbec5f6113fa3ccaaf9df",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-BR2-2-02].dlg": {
+      "pl": "Raz! Dwa! Trzy! Hata!",
+      "kr_sha256": "a7c736119396869109529a000ce6a46a28c5eca13f791035bdce91a4e1c3e1fc",
+      "en_sha256": "1e149ee2817e9c22fef9ba9a8d404b758d085eda944cbec5f6113fa3ccaaf9df",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT13-BR2-2].dlg": {
+      "pl": "Raz! Dwa! Trzy! Hata!",
+      "kr_sha256": "a7c736119396869109529a000ce6a46a28c5eca13f791035bdce91a4e1c3e1fc",
+      "en_sha256": "1e149ee2817e9c22fef9ba9a8d404b758d085eda944cbec5f6113fa3ccaaf9df",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-01].dlg": {
+      "pl": "Nie pytaj, kim jestem. To bezsensowne pytanie.",
+      "kr_sha256": "619901f111e7bf71b4bcd59e0ee79dbc1820b9b424f02fdf7ab6458f9abde2c1",
+      "en_sha256": "c07b71dc97c5a4ff11dadf9c56846c5ae8382f5a8186da0faaa33c2f3ea37338",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-02-1].dlg": {
+      "pl": "Z tęsknotą czekałem.",
+      "kr_sha256": "52d64f5debf5960ea4041dfa879a186ef9d0673d00a7d83bbc369a8e5bbc27e1",
+      "en_sha256": "0ab3324380410c7d969b0366a8d5e175e074cf0ba423f5369876334907feab36",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-02-2].dlg": {
+      "pl": "Z rozpaczą liczyłem.",
+      "kr_sha256": "52293f2f9fcfe112357a74cf7aa463b41a3b84f126c9d8a902355df94da3b09c",
+      "en_sha256": "59b978ff0d9f731286a0c93a92d67773a6ecadd7c5e035748f8146ad2aabac37",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-02-3].dlg": {
+      "pl": "Niezliczenie winiłem.",
+      "kr_sha256": "2287d643972e32a7a3f37762cd1b61a318d7d57f5fc7298397602632d9016acc",
+      "en_sha256": "7a46d7757ab2313763257d1b1929e092228aed7fa0d06d7d045c1c5186c7d2e6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-02-4].dlg": {
+      "pl": "Z tęsknotą czekałem.",
+      "kr_sha256": "52d64f5debf5960ea4041dfa879a186ef9d0673d00a7d83bbc369a8e5bbc27e1",
+      "en_sha256": "0ab3324380410c7d969b0366a8d5e175e074cf0ba423f5369876334907feab36",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-03-01].dlg": {
+      "pl": "Mang Urazy (怨望).",
+      "kr_sha256": "0ecda718d51c30f268510fbefb7bf09e474524b6218845521dfdde0dee5ac5f9",
+      "en_sha256": "e0fd64c6db5d9b6a8474970b9c4fa30eba6715c7a6b14fa3f9932a81a2dd60d6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-03-02].dlg": {
+      "pl": "Mang Urazy (怨望), Mang Daremności (非望).",
+      "kr_sha256": "274ce5bf322d913429614c5305ec9e81fd9851585fe77c280ccf6c8e6d481b68",
+      "en_sha256": "d55b527ab926285a399129d1fceb3e9f2486d6f4d5f879d27288b6ec8a1b41da",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-03].dlg": {
+      "pl": "Mang Urazy (怨望), Mang Daremności (非望), Mang Rozczarowania (落望). Co jest trwałe... to tylko moje nieszczęsne serce.",
+      "kr_sha256": "375dccd15e6b0b5f459f1d94adf33b0025f02b671f7394a03d49b03759343699",
+      "en_sha256": "90e9fa22261b1b4e635ee5660acc4ea04637354d6de22a747b6cfefd075c9bf2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-04].dlg": {
+      "pl": "Ten miecz... nie był dostatecznie silny, by przeciąć.",
+      "kr_sha256": "3465772cfa4a1de584b5e2b2faa7f18abd11076c4db4f04a1a695b1da8f32873",
+      "en_sha256": "53408a78ebdebcfb652fd537daf108d9391494df754cde6414537edd4a1e99af",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-05].dlg": {
+      "pl": "...Jeszcze nie. Nie chcę... jeszcze wracać.",
+      "kr_sha256": "f04ec1a8aad95c14c7641b5ad5eadc497e09b014994ab90cd54d7112f779f49c",
+      "en_sha256": "dfcb719bcfe2e71f05a48a833bd9473baa0b6111c7c60c6bf3250c4bcc0c516e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-07-01].dlg": {
+      "pl": "Mang Urazy (怨望).",
+      "kr_sha256": "0ecda718d51c30f268510fbefb7bf09e474524b6218845521dfdde0dee5ac5f9",
+      "en_sha256": "e0fd64c6db5d9b6a8474970b9c4fa30eba6715c7a6b14fa3f9932a81a2dd60d6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-07-02].dlg": {
+      "pl": "Mang Urazy (怨望), Mang Daremności (非望).",
+      "kr_sha256": "274ce5bf322d913429614c5305ec9e81fd9851585fe77c280ccf6c8e6d481b68",
+      "en_sha256": "d55b527ab926285a399129d1fceb3e9f2486d6f4d5f879d27288b6ec8a1b41da",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-07].dlg": {
+      "pl": "Mang Urazy (怨望), Mang Daremności (非望), Mang Rozczarowania (落望). Co jest trwałe... to tylko moje nieszczęsne serce.",
+      "kr_sha256": "375dccd15e6b0b5f459f1d94adf33b0025f02b671f7394a03d49b03759343699",
+      "en_sha256": "90e9fa22261b1b4e635ee5660acc4ea04637354d6de22a747b6cfefd075c9bf2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-08].dlg": {
+      "pl": "Patrząc bokiem, uraza może złagodnieć...",
+      "kr_sha256": "1a5221618ad2f2dc9840a750cb5d321355a298efbecd8aec84aef906340db3c5",
+      "en_sha256": "a5aade9d7d1965b1772557f57883e82b83d0b47ad52651b1a8fbdfb32536826a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-09].dlg": {
+      "pl": "A dnie i noce pogrążają się w zapomnieniu, gdy rozcinam nawet schyłek dnia.",
+      "kr_sha256": "83b585e7c127bc9b748453d99a2fd89f7e4a6c44af1363e057b99f4e2cba4192",
+      "en_sha256": "2c3077f7ac92d538c430f67d4cc6adaa6430ced56dc631d8a5326f2c0324ca72",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-10-1].dlg": {
+      "pl": "Mogę o tym opowiedzieć, ale czy komuś to zostanie w pamięci?",
+      "kr_sha256": "070fded88d4393f5c40d1e59e04a363c7a7710ad395796d0302e23dabeb716af",
+      "en_sha256": "9ade2b1c9f5bcd0b8c5cbb15190e395cd0e0c7c0e4bbd7161d8eab6cab5db442",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-10-2].dlg": {
+      "pl": "Hortensje zakwitły tamtego dnia, a powrotu wciąż nie było;",
+      "kr_sha256": "fd526ab0a1621b8f111f2f673f6c09fd59984738e83cd14c8cbdfb6ab263f5a7",
+      "en_sha256": "dabb04516eb7e88d07b7a725db4c12872ad03075ac00e197bfabaf832d0429d2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-10-3].dlg": {
+      "pl": "Nawet obietnica z kilku słów utonęła w zapomnieniu.",
+      "kr_sha256": "959c72f1e992e8efe471a01cac6ae90946a4dba25e1c8d439997b54fef1d3f5d",
+      "en_sha256": "326627f2c03b6ff97d93554dcf0ce7b5c1ccbdbb4800343acbf223b75643413c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT14-10-4].dlg": {
+      "pl": "Lepiej... ucinać to tutaj.",
+      "kr_sha256": "e2a73564a0cc4eeee70f51d581ae16ed90dfe912ecc92339a98508b295c7cfad",
+      "en_sha256": "243468d4a22e414015a56a4d599e2875ab456f01545e41faab4d06ed4b9fc1b2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-01-01].dlg": {
+      "pl": "Zajrzyjmy głębiej razem. Zobaczmy, jaką jeszcze piękność w tobie zostawiono.",
+      "kr_sha256": "3a38f49d4401f27a46dc8cddc082aa7b875a8ce327519b166ef01b4266ebb67d",
+      "en_sha256": "d5d1a3bb1405f8aa4b97f7ed420e236a26c7d4fb4847eb10b7f46b1c5df998ef",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-01].dlg": {
+      "pl": "Zajrzyjmy głębiej razem. Zobaczmy, jaką jeszcze piękność w tobie zostawiono.",
+      "kr_sha256": "3a38f49d4401f27a46dc8cddc082aa7b875a8ce327519b166ef01b4266ebb67d",
+      "en_sha256": "d5d1a3bb1405f8aa4b97f7ed420e236a26c7d4fb4847eb10b7f46b1c5df998ef",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-04-01].dlg": {
+      "pl": "Żyły i tętnice. Kiedy dwa odcienie twojej krwi zaczną się przeplatać, ahh...! To prawdziwa sztuka!",
+      "kr_sha256": "bb27da13a484a18c439fd794ddb94e35e73660774dac255d37286322da50f0be",
+      "en_sha256": "2f6c029e6e91657c5ed8e2a94c2fef04f37314ebb1fc112ba0d0ff3451ac51a7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-04].dlg": {
+      "pl": "Słyszycie? Melodię Tibii — harmonię pary ramion i 24 żeber!",
+      "kr_sha256": "83815261787ede4ad97e962de024ef320932fb92f6fb5363849e59d03afc5f11",
+      "en_sha256": "3afe3221ebb701209e3a0f741568b089bac5f037744d19129e8587cd220a9089",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-05].dlg": {
+      "pl": "Albina. Nadszedł czas, by zaprezentować sztukę Corporismu.",
+      "kr_sha256": "7c6819c678f815d58db93cd3bc7396d5aad94cc063ecc582c99ba91519592c7c",
+      "en_sha256": "a35ce4ff6743d728b3e32c593ec189d761e5b54c3cd3f98bcf2a5610c2a584bd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-06-2-01].dlg": {
+      "pl": "Tak gorliwy udział widowni... nieźle!",
+      "kr_sha256": "a4b00bfb28c6d98211d1b1d8325708e30d674b921ffe19ae64708ad773e7c583",
+      "en_sha256": "1c46adacc3234454c325b60eab56ffabc6e35390711b8f07e46eab35a88efdd1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-06-2].dlg": {
+      "pl": "Tak gorliwy udział widowni... nieźle!",
+      "kr_sha256": "a4b00bfb28c6d98211d1b1d8325708e30d674b921ffe19ae64708ad773e7c583",
+      "en_sha256": "1c46adacc3234454c325b60eab56ffabc6e35390711b8f07e46eab35a88efdd1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-07].dlg": {
+      "pl": "Nadszedł godzina zamknięcia galerii. Więc — do widzenia!",
+      "kr_sha256": "2e89d1da2a775539f2b036d91d3114aa42a9d63625db34895b36c991fce0ae10",
+      "en_sha256": "1758fcb4bb7abab01dfa52b028a5922ad31a441bef9f3ff031b09f47c728d76f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-08-1-01].dlg": {
+      "pl": "Uwagi proszę kierować do mnie — Maestro tej galerii!",
+      "kr_sha256": "807083c508d3728e38c9af4a5d0e868de7c521710bd8b5374258355168bf1709",
+      "en_sha256": "9d1e05e43fb8b9df4a3d0f8b6f9a4f34d9527687d94864575af2d74874882171",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-08-1].dlg": {
+      "pl": "Uwagi proszę kierować do mnie — Maestro tej galerii!",
+      "kr_sha256": "807083c508d3728e38c9af4a5d0e868de7c521710bd8b5374258355168bf1709",
+      "en_sha256": "9d1e05e43fb8b9df4a3d0f8b6f9a4f34d9527687d94864575af2d74874882171",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-08-2-01].dlg": {
+      "pl": "Wandalizm jest tu zabroniony!",
+      "kr_sha256": "95c786897616a74e8149c32b9a970f85d75ba1418186e94db3cae0f2612cc364",
+      "en_sha256": "b79fadc151e384515efe1169aad20d0ef2d7b5b06d773c5354bb7fb7c60d3d19",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-08-2].dlg": {
+      "pl": "Wandalizm jest tu zabroniony!",
+      "kr_sha256": "95c786897616a74e8149c32b9a970f85d75ba1418186e94db3cae0f2612cc364",
+      "en_sha256": "b79fadc151e384515efe1169aad20d0ef2d7b5b06d773c5354bb7fb7c60d3d19",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-09].dlg": {
+      "pl": "Nie mogę pozwolić widowni na widok tak chamskiego przytułku.",
+      "kr_sha256": "94b8a865d834bf73e2da12b234f1f0b3195b21c15f4039f49959e30f4531d3ab",
+      "en_sha256": "2da715b30131a41a8c4151108adc60a8f323f39ac33238018ea976bd944794d1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-10-01].dlg": {
+      "pl": "Jak ci się podoba? Śmiało... Podziel się ze mną swoimi wrażeniami!",
+      "kr_sha256": "2b4c652552164314b5715a67895dc19fc08cd3085ecd180ed54d0ddbcf47756a",
+      "en_sha256": "2d07e6fb9fcfefbb36ead67e100f7694955521acbdf002c163dc2811dc3a0256",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-10].dlg": {
+      "pl": "Te oczy... to ciało... To ty. Ty jesteś zaszczytnym oceniającym, który oceni moje dzieło!",
+      "kr_sha256": "34b1a4fa8c1b73125d5d9c50f85c60ae1c0165570f007bb2e08c1c71965f3dca",
+      "en_sha256": "e868d8f8cd21a58c4a447d2f44d4e168fb76bc7d460a262dc53ed7d3b7f9761d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-11-01].dlg": {
+      "pl": "Sztuka Corporismu! Pozwolę pokazać ją w pełnej jędrności!",
+      "kr_sha256": "91ff790d0e6480d9c93747e89b325502380feadff75f1e13c7ed2a5ca8d0c979",
+      "en_sha256": "dd8e30bdc6798c636effa6a34f12928d7dcfd2c38ac56b16a8522fe5cf6b10c1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-11].dlg": {
+      "pl": "Sztuka Corporismu! Pozwolę pokazać ją w pełnej jędrności!",
+      "kr_sha256": "91ff790d0e6480d9c93747e89b325502380feadff75f1e13c7ed2a5ca8d0c979",
+      "en_sha256": "dd8e30bdc6798c636effa6a34f12928d7dcfd2c38ac56b16a8522fe5cf6b10c1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-12].dlg": {
+      "pl": "Nie, nie Albinie! Niech <i>ja</i> to usłyszę!",
+      "kr_sha256": "d5fea12fb3433b29369af45930cd52e94cdde17fe9f0fdd01fce62c49658d5ca",
+      "en_sha256": "bd272bd87cbdc84ffd0a8b33da21dec4293bfb87f803b2918445693dca50d8dd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-13].dlg": {
+      "pl": "Albina stanie się arcydziełem. Dzięki bliznom, które jej zostawiłeś.",
+      "kr_sha256": "0afe9e6989df7786bbe53278837af47f00ce3d2a59970270a5902784d1ff57be",
+      "en_sha256": "7d2fd063988e91473f2547366ac79322375688ffe2e01083c5e4ea19111681da",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT15-14].dlg": {
+      "pl": "Zostało mi jeszcze wiele do pokazania.",
+      "kr_sha256": "3df98d000e0fc937445b292534f44cee1753d5f24235f9fcb86e9745be187867",
+      "en_sha256": "7456c4e22613291cdabaed8cb6db5ebb773772eae94202c7dd8da9c26dcdb3f2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-13-1].dlg": {
+      "pl": "Rozbiorę was... z każdą iskrą natchnienia.",
+      "kr_sha256": "84e7003fbf4a37b5d424eddafae934121efb8c2f1038d95af319e144d42e8357",
+      "en_sha256": "29e57aed2bb4f515bc79180a0138f4690290e3684919122ec05a68d82c78e8dd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-13-2].dlg": {
+      "pl": "Ta przepona rozstępuje się tak gibko... Pokaż mi więcej. Pokaż swą wewnętrzną istotę.",
+      "kr_sha256": "cdd8777486e47ac81b06687902695aa2bd845732e9912b02f2f0c7d832e79726",
+      "en_sha256": "721c3b217e96dce3c4906d099144caa86f85dac399d438d6baea80d27aeccaff",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-14-1].dlg": {
+      "pl": "Tym razem dopracuję ją do końca. Arcydzieło godne uznania Maestra...!",
+      "kr_sha256": "e4a4fec7c309443dfbf49a8cd76830857ae7a38ea61b4f573d9ccdf9a468d40d",
+      "en_sha256": "7e3608344537a38b836d7f0c2f44b39f27fbeb9ebe3b123741f1a5604b153848",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-14-2].dlg": {
+      "pl": "Nastaw uszy i słuchaj. Słuchaj tętna Fascii... tego pulsującego dźwięku życia.",
+      "kr_sha256": "8fa399ed655322c1cc6c019fa70a0401604445bb80c1e194579df0dc7543d950",
+      "en_sha256": "edf9146c7d965537ba0a42804f1943524d75940c177e9f003d7d05b9f6c15fe1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-15].dlg": {
+      "pl": "Przykro mi, Fascio. Wciąż jesteś niedokończona...",
+      "kr_sha256": "5dd84b04ef5092cee35e757d6ec2af26beb5e994358c3e4873bcf848cc70e727",
+      "en_sha256": "7c4a16bb273466f6177b0a772651e99f09853a53e3f92ce5610065193720973b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-16].dlg": {
+      "pl": "Jaka oddana obserwacja... moja sztuka jest zaszczycona.",
+      "kr_sha256": "1e0b8c6cdae6f9ecc2b6a6acb21e7ece6b1a683f77fb085886f4f4f5ea24be63",
+      "en_sha256": "c37eac76ab51a0163517970582fd9bb56d2dd7f597cfe033fcc9b3bb53bef0b9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-18-1].dlg": {
+      "pl": "Dzieło proszę oglądać wyłącznie oczami.",
+      "kr_sha256": "c6409ae1669e5072d1573e39aa48e6faef1f8b0061139654f6c931ee16cf9aaa",
+      "en_sha256": "dee28e55b4379aa591fcbde76cd2b605db558989e52e1a145d53a5c1e9a7c824",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-18-2].dlg": {
+      "pl": "Nie pochwalam aktów wandalizmu.",
+      "kr_sha256": "5c4552a7d462f2f374d8b9fb979f05ca6f25a15a17eca01372aa76ab4fbcca8d",
+      "en_sha256": "f0ffdbc0ab4a663fdad785c87cc45d3064b42e687aa820c9d0613f36d01bc374",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-19].dlg": {
+      "pl": "Popatrzcie na pełną precyzję wyważenia stawów. Idealne współbrzmienie krwi. Che bello.",
+      "kr_sha256": "717fecd40fc9f3956599e9c2761d81f74ac44daa9b97c8d9efd8c92b5c35608d",
+      "en_sha256": "bf8dd0e3239392835e3e59e7156ccea41618e621f93592b1f3d6b9fc23a6dab5",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-20-1].dlg": {
+      "pl": "To drżenie... Fascio, przestraszyłaś się?",
+      "kr_sha256": "7088dff3261d6ee5344c6d8c0e7866a4b0d75e436bd7af91b3d96cd6a98a287b",
+      "en_sha256": "70756efb57650d8d20887d85481ce6dc2cdd72ba4380f8871f1d6e3d3db01fc1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-20-2].dlg": {
+      "pl": "Fascia... wrzeszczy...",
+      "kr_sha256": "9db54949c022bd03365cfddc2dcff0d3c2afd3759ffb3f4ba62c24134a22425b",
+      "en_sha256": "8f8990c81f6a7c158dfd3810819d75d4d1bdc77817d4d3f64d7d7c90a56c2953",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT16-21].dlg": {
+      "pl": "Pokaż i mnie. Sztukę, którą objąłeś wzrokiem.",
+      "kr_sha256": "b66ed8823fd845b6e7a8db55b2e93f66c85dde7e079179b750940f3d522316c9",
+      "en_sha256": "42a0049ee0ad6b5a8620be31d0d899e19f7f867283675fa864b09999759a7b13",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-01].dlg": {
+      "pl": "...Jeśli cię tu wypuszczę, już nigdy nie wrócisz do domu. Mogę zmusić cię, byś został, ale nic z tego nie będę mieć. Lecz... to wciąż lepsze niż ta pusta żałoba, która gryzie moje serce, prawda? Hah. Dobrze. Zacznijmy.",
+      "kr_sha256": "9a39cea24b305877f06469fe92e2255aa73967a69b97c4472544a92b533aa1e6",
+      "en_sha256": "48cc1222211534260925097c018b79c323bed34936e63fe224dee64bb388ef07",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-03].dlg": {
+      "pl": "Pogrążony w śnie, ja gdzieś zaginęło. (無我夢中)",
+      "kr_sha256": "a4f9ed923161ca4cef2ab29a1f72000b18798a444126a14e1b66a8bf4dc59854",
+      "en_sha256": "242ea9ccf74ceec596accaf28bcde98d8a93e5c79f8fcf9702f61b17a686bf17",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-04].dlg": {
+      "pl": "Jak Naraka z Avīci i Rauravy. (阿鼻叫喚)",
+      "kr_sha256": "a130096a09fa6bc3dcec633d373db0b76196e3a843f92ebab168727fd33132b2",
+      "en_sha256": "2e62c75416f57e941cf557feccb2563de08a8d33343fd32f742e4ba8b4609496",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-05].dlg": {
+      "pl": "Cięte i rozdarte, aż i forma zniknie. (支離滅裂)",
+      "kr_sha256": "178dfadb91880251211a50cdc92de3a7fda1f275f9c70e0a3db902c154609240",
+      "en_sha256": "2b3945aafe4de3760b06347d8a59258c82069873af33a6367b9d3e1db6924d2e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-07].dlg": {
+      "pl": "Znam twoje nawyki na wylot.",
+      "kr_sha256": "edd7b0dc43154ab1706a1ad1cb1cd349a15c7c8cf967f6272d0426906c3feba8",
+      "en_sha256": "50692e78dace6f43883f5ef7520a358b4f49a8b19e23527a8a13806c50a8205a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-08].dlg": {
+      "pl": "Tu es belle à force d'être.",
+      "kr_sha256": "79a07c4c12613e7d80ddcf4e60bf6f35afa303b79f850e819e929a3f6893d7e5",
+      "en_sha256": "4ca9b22c4befb87e8d99752523e0698e36bb50626c33eef2deaac7bdc63d77e4",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-09].dlg": {
+      "pl": "Hahaha. Nieźle!",
+      "kr_sha256": "95d54587d77dd5663d94e327593678d1669732efac464e593c76c9b0c80b4cf8",
+      "en_sha256": "4e3ff0a94a99b8a7efc2be11638b862fe924efa039cc0659525263315e391ab9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-10].dlg": {
+      "pl": "Un.",
+      "kr_sha256": "d4b6682bc2133af42606f4375e645cd1b3e13d3c961f4590490c85f34bfb58b4",
+      "en_sha256": "70277bfc409b502132d7a48b2a3b386294264b31f7bf024a5fb0cafabb8ac122",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-11].dlg": {
+      "pl": "Deux.",
+      "kr_sha256": "61c21732b948fd45f8d427128e338a07795f6c69284e3b2ec0b6615c85778cea",
+      "en_sha256": "1eb32d1ee4458814f94f8b92d1bd3e06e16dca6fab43d53f700840321f27fdf4",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-12].dlg": {
+      "pl": "Trois.",
+      "kr_sha256": "69515a073d6fc090e8791aefe76276b1fda1c51d6c8b5cff3b8d8e46eaf3c11e",
+      "en_sha256": "81ddbfc98bff37eaafc7e0793eeae7f3ee1d866a78915b00374ef376447c1047",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-13].dlg": {
+      "pl": "Quatre.",
+      "kr_sha256": "78b45bae6636f9158ebb23d52ce7d560d02c3ea208e45368fa535585910c5156",
+      "en_sha256": "2f7820a5325de01510971fb541180d3730df116b28942068bb1e5a7040528833",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-14].dlg": {
+      "pl": "Cinq.",
+      "kr_sha256": "b53afd3b2f0ac68ea038dd37e3bc8d7994d8999b906d697fb61aef99ab1e7199",
+      "en_sha256": "a62a3699a6ab74ba0e901dc48a1d800e5f60f3fb52da7925f8b9b367cbbaa769",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-15].dlg": {
+      "pl": "Six.",
+      "kr_sha256": "ed15a866898e353e8b374eebc992e5fd126e8021609719ac9358a8ba3870fc10",
+      "en_sha256": "cfd6e8dd2766d6cf27044370c0d45023b7b6ff5e3bdb73947831ff7bdada2e03",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-16].dlg": {
+      "pl": "Sept. Zostały dwa.",
+      "kr_sha256": "4a6e5882482a8caafea69fb1021895fa9520a1e1e262f962b03c855bd4b0df66",
+      "en_sha256": "58d65319653739e890eb04857b4f7238a37f83c6c8e2de9f7afca95ddbb4881d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-17].dlg": {
+      "pl": "Huit. Został jeden.",
+      "kr_sha256": "b4da6f1bc20f346304401e982b1af3d780a0dad25cdc0a94bff89a60f26c2aee",
+      "en_sha256": "cedc293c37185aa07f698debe50b3f7133afca759ea148b8355be96407c725d4",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-18].dlg": {
+      "pl": "Neuf. Wykonano.",
+      "kr_sha256": "c04268796b29700d7dd7569a4ee72faa7a3454c9b7d66d9a1318b03e5961df3c",
+      "en_sha256": "46ba4fb8b7a11a1e8338d672555da53b623daf2c12e1b1b45cffda263e6a3b6e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-19].dlg": {
+      "pl": "„Przebij serce włócznią i zawieś do góry nogami.\"",
+      "kr_sha256": "2a2ea755b689245cb3aa49825897d5f2cee9a6b22b58a6f7f900773847de9a22",
+      "en_sha256": "19e9926d14dff5e6c433b52f1c69e54bf26d2dd3b191bce1afc2edd010e2956b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-20].dlg": {
+      "pl": "„Młotem miażdż pod ciężarem.\"",
+      "kr_sha256": "0161d1d4f3017a46d50061caf0909420efed69fb25b9fb0d1408a87248a2a51a",
+      "en_sha256": "f367de066e78c3d86e80d8994ff0c1b27afb65c0d0f416cc6c85f861f16d12e2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-21].dlg": {
+      "pl": "„Dziobaj mieczem i gryź.\"",
+      "kr_sha256": "7f138e83a004d2f01f2e17710b9b2306f042e852ed66102678938a9c5a6acf77",
+      "en_sha256": "2d6927380588096cc01b485a233551ac73bf34a050f3c7c3bfbbb1fffc1b82aa",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-22].dlg": {
+      "pl": "Po wszystkim, co się stało... ten dzień jednak nastał.",
+      "kr_sha256": "0ce46adbf94ac56b290f2d07e9b6fb172d8d7005e595666d140521ffea8b55dd",
+      "en_sha256": "6b43175557898318a92a980d7089be00c3528f22d65719b17e31b309152f826b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-23].dlg": {
+      "pl": "Wiesz o tym, prawda, skarbie? Przewidywanie moich ruchów nie ma sensu.",
+      "kr_sha256": "a5116ca6bbec7c4450989b2de2d1fec27b241f49b7b6fcd678fbf9958d9cb6db",
+      "en_sha256": "eb3b6a85ffd27f1fd4c786e68072c06108c39f8528bc9093f40b60dd287f0f39",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-24-01].dlg": {
+      "pl": "Nie masz powodu wychodzić, skarbie. Zapomniałaś wszystkiego. Nie masz nic.",
+      "kr_sha256": "0005f0ff69945ea8ccc1fe4ba08427847295f441998e103b6431d1690bb6c356",
+      "en_sha256": "0d21bbf4ea96ee35ccc1e8eace870e96f160352cac415b30fd0158251b2ee1b9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-24].dlg": {
+      "pl": "Nie masz powodu wychodzić, skarbie. Zapomniałaś wszystkiego. Nie masz nic.",
+      "kr_sha256": "0005f0ff69945ea8ccc1fe4ba08427847295f441998e103b6431d1690bb6c356",
+      "en_sha256": "0d21bbf4ea96ee35ccc1e8eace870e96f160352cac415b30fd0158251b2ee1b9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-25].dlg": {
+      "pl": "Droga na zewnątrz jest jedna. Ta sama, którą przyszłaś — droga do domu.",
+      "kr_sha256": "2804da33877083f258c7b9972fb141e2d79cebddbe9420e8aa38f43ae55dfefe",
+      "en_sha256": "eb542891894571587c199b5d2b8244b95f2d18237ce8e1c7e351acc24133c55f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-26-1].dlg": {
+      "pl": "Ta rana... nie wymagała leczenia.",
+      "kr_sha256": "676ca617072a27c05a61060ec94286fa95f6536b6bf561d318f7dc76cec714eb",
+      "en_sha256": "5e55ee9c751186d3016787926a9f829745fce5d7c1c40bfce56d4e219fc63400",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-26-2].dlg": {
+      "pl": "A wróciwszy do domu, na pewno znów by się rozgorzała...",
+      "kr_sha256": "10b4ac494792ef30fea60fef8b5d4b0d6f495e534047f38ed8a377092221a63d",
+      "en_sha256": "2ac48cc38dc831e4c654e54866b34df2bdaa499ca99788e358ac073925edf254",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-26-3].dlg": {
+      "pl": "Możesz się przyzwyczaić już teraz, nieprawdaż?",
+      "kr_sha256": "2855b04fa2f04f55e6e08dba57f43f0b055fad513f47e3b86065ba5c30b8d1b0",
+      "en_sha256": "367992537786172894d0a8a103f0ce687aa303f98c10deb64f5ec351a3493466",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-26-5].dlg": {
+      "pl": "Skarbie, wszystko będzie dobrze, jeśli zostaniesz. Dom Pajęczyn nie musi zniknąć.",
+      "kr_sha256": "d25be46978cc93b1f98250444f2250b78f5785690526dc7d7b34b4b67ffd8aa8",
+      "en_sha256": "dd99f35d756227be69d1b4023410392dd756a50ca78e1d2dd1e943b1f87373fd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-26-6].dlg": {
+      "pl": "Więc... nie odchodź.",
+      "kr_sha256": "a75adf9e52c8a0d6bd261f2ed2f4f8729eafd2d5d619cb8e1ace8046428223cb",
+      "en_sha256": "38efc7db7352d91c58cda83009624e92f60bead4f460f90b6bf76fe07472d482",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-28].dlg": {
+      "pl": "„Opleć długimi pasami zamarzniętej krwi.\"",
+      "kr_sha256": "c47aced00c2a8a71eb8aeb9c0043ee34a8940f14e86a8d9f51a948aafe377770",
+      "en_sha256": "38aa49bc8d75c4a74b87f04ba7ac45651ea13bb5e6237294201a8f6eb1273420",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-29].dlg": {
+      "pl": "„Klaszcz bezdźwięcznie, tnij bez głosu.\"",
+      "kr_sha256": "023ab1f0681269d477e535b57e348a4c5e32cf0e401341e5a6931427d40ef195",
+      "en_sha256": "df56e17e938ec9821c07af16f76066dc7fbc67444f3b2efb94b9073e402025d6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-30].dlg": {
+      "pl": "„Ostrym ostrzem zawołaj niczym zapach liści i ryk wodospadu.\"",
+      "kr_sha256": "da70876afed9ed91dcbc86a2cca2fa240cf22c973b65014bcacb7adaa11ea83d",
+      "en_sha256": "c0ab2ff00af929bf0b3f5a1ec3bbbe3245671e3a04c2178f4648255d6d2c9cdf",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-31].dlg": {
+      "pl": "Nie ma co błąkać się na zewnątrz. Oto piekło, które ci przeznaczone.",
+      "kr_sha256": "f27f19fe390eb43d50e3e119db7fe361c6f03049d705549917f059f7bfc0a1d8",
+      "en_sha256": "b2e8948316642db0b0b34cc7e6ae92fdad637e0a4c6065c6508ea3477a0d12ae",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-32-01].dlg": {
+      "pl": "Twoje miejsce jest tutaj, w tym piekle.",
+      "kr_sha256": "c02fb60a101247ff96c79feb00d138ef10523deeda869174bd48b3e163bc4b37",
+      "en_sha256": "7defa35a1a1d29edcd56d5aa908eb68e56f35b16c2c380910f8b3190415f977b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-32].dlg": {
+      "pl": "Twoje miejsce jest tutaj, w tym piekle.",
+      "kr_sha256": "c02fb60a101247ff96c79feb00d138ef10523deeda869174bd48b3e163bc4b37",
+      "en_sha256": "7defa35a1a1d29edcd56d5aa908eb68e56f35b16c2c380910f8b3190415f977b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-33].dlg": {
+      "pl": "Tępa istota żyjąca sfabrykowanym życiem. Taki jesteś. I taki jestem ja...",
+      "kr_sha256": "180cb9414ca74601b675e98135657e47ead93f091ee551f4028203d7796f0f58",
+      "en_sha256": "fdaf898d594bb9f8cb90614e385ba444f249a2415969e11e078255fbfd129424",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-34].dlg": {
+      "pl": "Za daleko zaszedłeś, by być wolnym. Uciekaj, jeśli chcesz... ale żołnierze bogów pójdą twoim tropem.",
+      "kr_sha256": "ac31aca097b8d45fe533dc64f2a2460fe6732359389e019c13cc69d90751fd52",
+      "en_sha256": "434460358a45ee19cc7a756ac8b6e786365fb3783fbcac31e3bc3df4a06d262a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-35-01].dlg": {
+      "pl": "Nie przecinasz tej więzi, skarbie.\\n... To nie jest coś, co łatwo uciąć.",
+      "kr_sha256": "1e391e37e4752e4001a70e141e8ac087faf90570a3d1dc312c34f55c667e5cd0",
+      "en_sha256": "b28e226fe0a5b3fec9a10b54d9f4f73dd0165de5c7e7a704e14b8cdd943be42d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-35].dlg": {
+      "pl": "Nie przecinasz tej więzi, skarbie.\\n... To nie jest coś, co łatwo uciąć.",
+      "kr_sha256": "1e391e37e4752e4001a70e141e8ac087faf90570a3d1dc312c34f55c667e5cd0",
+      "en_sha256": "b28e226fe0a5b3fec9a10b54d9f4f73dd0165de5c7e7a704e14b8cdd943be42d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-36-01].dlg": {
+      "pl": "Nie obwiniaj mnie, moja droga córko. To jest to, a to jest tamto.",
+      "kr_sha256": "127b5c1152a2a6e1b9b3eac65f2dcfd1727e539f051e0f1a2da3cdd6633c1e8d",
+      "en_sha256": "dd95fd4536921c7e41cf2dcd857b368d4825ebea21de0289111569e0d8ddd6ac",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-36].dlg": {
+      "pl": "Nie obwiniaj mnie, moja droga córko. To jest to, a to jest tamto.",
+      "kr_sha256": "127b5c1152a2a6e1b9b3eac65f2dcfd1727e539f051e0f1a2da3cdd6633c1e8d",
+      "en_sha256": "dd95fd4536921c7e41cf2dcd857b368d4825ebea21de0289111569e0d8ddd6ac",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-37-01].dlg": {
+      "pl": "Podważam niebo samo... i odsuwam wszystko, co pragnie mi porwać córkę.",
+      "kr_sha256": "5107b9ba405a33b9457e6aeeabe12ec1ab68428b3efe658d6ff052e44b258b5e",
+      "en_sha256": "f79fb8730c6a31f0635446377cf853d96741596b8b5b8eee05f9913108dab815",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-37].dlg": {
+      "pl": "Podważam niebo samo... i odsuwam wszystko, co pragnie mi porwać córkę.",
+      "kr_sha256": "5107b9ba405a33b9457e6aeeabe12ec1ab68428b3efe658d6ff052e44b258b5e",
+      "en_sha256": "f79fb8730c6a31f0635446377cf853d96741596b8b5b8eee05f9913108dab815",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT17-38].dlg": {
+      "pl": "To nie jest twój los. Wyplątaj się z niego, Yoshihide.",
+      "kr_sha256": "3e50d14bd12be077fd8f3263c918397792e14fa4fbc8118895ae74f02a030d10",
+      "en_sha256": "bc88484059bcf413d698de76aaebc67fef62e87d425c160c42a6e3be27ad6a1f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-14].dlg": {
+      "pl": "...J-jeśli dam radę przejść tę próbę... to też będę m-mogła zostać córką m-mistera Riena, jak Yoshihide, moja starsza siostra!",
+      "kr_sha256": "c2e3805e074f60f186bf3e54b6e7af6ef675317746d962211f4d9238df698bc1",
+      "en_sha256": "89290a644cab529f2af857471c7cfe03279256fe0ad5d6cf717faace9bcee85a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-17].dlg": {
+      "pl": "„Zegar\", „droga powrotna\", „czystobiały\". P-proszę nie przeszkadzać. M-moja starsza siostra musi zostać ukończona. Dla z-zlecenia... i dla mnie.",
+      "kr_sha256": "90309498adabce1cf2d51f197bbce85a7880205f4cbfda128326bc36945c7d96",
+      "en_sha256": "12cf9920e20c397790cf4db260016214fd6b8558c89bebef9bdb0d59561cf4f5",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-25].dlg": {
+      "pl": "Po prostu p-podążam za swoją upragnioną nadzieją.",
+      "kr_sha256": "a50f6c73a7461a2edfbdf48ac2acff6bf7e440a0a53f79c7274da0e272801338",
+      "en_sha256": "992602156e1683b29c6d335f57b8a78cd57f84755f0e1344513170c99a81e2ec",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT18-26].dlg": {
+      "pl": "...C-czy to nie jedno i to samo? M-moja immanentna tęsknota — i z-zlecenie...",
+      "kr_sha256": "7e3ccfa0ffc36dc388409eadf27e4e5cb9e6dac1a60ffe79cd35476de247fb8c",
+      "en_sha256": "f316cfd8bb22f9080904f6ff9c5bb9927d025cc3cff6ab5101396b290663db3a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT2-03-1].dlg": {
+      "pl": "Ezra. Vespa. Wspierajcie personel LCB, osłaniając mnie.",
+      "kr_sha256": "f536b6b49fc678f4f3261a85bb84ee48de7d559ae515a3c1e90bd29e644656ba",
+      "en_sha256": "1fbbcb60ee2ecf51d3d15688a4130751ec9f71ae8f6e51b7844167bc86024c95",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT2-03].dlg": {
+      "pl": "Ezra. Vespa. Wspierajcie personel LCB, osłaniając mnie.",
+      "kr_sha256": "f536b6b49fc678f4f3261a85bb84ee48de7d559ae515a3c1e90bd29e644656ba",
+      "en_sha256": "1fbbcb60ee2ecf51d3d15688a4130751ec9f71ae8f6e51b7844167bc86024c95",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT2-04].dlg": {
+      "pl": "Wszystkie okrutne chwile mojego życia wirują wokół mnie.",
+      "kr_sha256": "5d23430ba55fa339916382ee1c2c0a24ed49b906bda15965389e87b223ef2531",
+      "en_sha256": "482e9eea16209ef1bf910ea01f5faf19792cf1b9c4845b025966460bf3b28396",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT2-05].dlg": {
+      "pl": "*powiew* Cała ta złośliwość, napełniona po brzegi.",
+      "kr_sha256": "eef490a97cb731405ce4b848e84c029a0e4a81ed00364a10de5acbb2abcd8238",
+      "en_sha256": "2683221420125da77aa9f40fb98ed22326780bd7df0805d983622c2221426a6a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT2-06].dlg": {
+      "pl": "Crimson Point.",
+      "kr_sha256": "eb58d900e0fdc537171b3ab24344e02e4803fc8d303a2211bd228fee7fd6a229",
+      "en_sha256": "7090e191c87324c6ea10f128c9ce7bf4319dad61647d1b78583d86b4d5d2f361",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT2-07].dlg": {
+      "pl": "Crimson... Point.",
+      "kr_sha256": "ae77e52ed0193c66872f2b25ddfbaf45e10aa9f19206a1b2e862c166b250d28c",
+      "en_sha256": "7fb02eca56d41476f94414cc40b080bc8655a5ba7def6c669b72f907c5714099",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-06_1].dlg": {
+      "pl": "No tak, czas rozpakować jedną warstwę przy tej walce!",
+      "kr_sha256": "5de43e13aca2ae01836734a4c5da2350289e419c8cf242d200efb2da2e34c433",
+      "en_sha256": "26468d7c0f2a2694d46a3733f40233ee8526d1e524655a31e2834dc44d7595ca",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-06_2-01].dlg": {
+      "pl": "Ciekawe... To tak smakuje spotkanie z ■■■■■ ■■■■■ w walce!",
+      "kr_sha256": "42c24ab7461e7834b829806380a97324fbb306bc7f1e1aa4a1f7ceed4ffe0104",
+      "en_sha256": "8201bf2d73870061c40c54eef2afb086e902c897eea94f671340ef2f0237bf46",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-06_2].dlg": {
+      "pl": "Ciekawe... To tak smakuje spotkanie z Fikserem Koloru w walce!",
+      "kr_sha256": "2a59887a4aefbd70d706b990216c1d933a80b27a3eab2fd7fd2988e1068dee5f",
+      "en_sha256": "8b9416099709d83450703a1bbb2fe978e8238be232cb659e3c5f79c7deb43962",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-06_3].dlg": {
+      "pl": "Wypychasz mnie do pełnej luzu... Hah!",
+      "kr_sha256": "8ae23c28060a142d73c4f92ef576f882c04631064d783ef673c04f5671966acd",
+      "en_sha256": "7a939368284102121bd4125a6fed75e092055c28ad565e898dcc4d641aab3fbd",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-11-01].dlg": {
+      "pl": "*wzdych* Nawet zapisywać nie będę. To będzie egzekucja doraźna!",
+      "kr_sha256": "421da02bdd354bda53c4d291ae26f2bf87949a253ef5ece063432a9a3b8cadfd",
+      "en_sha256": "ccdd144e5c6e5cb9c175fe27a2f3dd345a1121fcac9d0a4b63601c3997fe946f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-11].dlg": {
+      "pl": "*wzdych* Nawet zapisywać nie będę. To będzie egzekucja doraźna!",
+      "kr_sha256": "421da02bdd354bda53c4d291ae26f2bf87949a253ef5ece063432a9a3b8cadfd",
+      "en_sha256": "ccdd144e5c6e5cb9c175fe27a2f3dd345a1121fcac9d0a4b63601c3997fe946f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-12-1].dlg": {
+      "pl": "Tak trzymać, córeczko!",
+      "kr_sha256": "374e0ae17dbee7963f7c5b921ef9a6ee6e555686f9c359f80df14e37af0b16bc",
+      "en_sha256": "cae9444eeb7a878942bd6767810f419cac1cb6b329d80b7e5286aedfdc0b66e6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-12-2].dlg": {
+      "pl": "Świetna robota! Oto naklejka za dobre postępy.",
+      "kr_sha256": "45e939a8f83bfcea6cb2cd6c361f8d19504d187ecde735350b13135d1ce93d0e",
+      "en_sha256": "84970ccf10802b6cf649f3c2f9aa3ebbe0c45866570d9ee366637bc1c7f7d476",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-12-3].dlg": {
+      "pl": "Moja mała zawsze najlepsza!",
+      "kr_sha256": "414ad077e2301e8c600ee66fc0b151f3d161fe0ac7adcbdd5cbe0821f3f03f4b",
+      "en_sha256": "dd4e89601f6276e8847cb6bc35cad6cd3c321f407e69a9e25213268a9e4cf380",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-13-01].dlg": {
+      "pl": "Ty...!",
+      "kr_sha256": "01bd49619ae223e2bb42a5d2428a86172ba76d340eb4294d2234775bcebaf568",
+      "en_sha256": "65d76a0f2176989650df52baa3ac52ecb925cb4eb43be8d5c66796b113c07a8d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-13].dlg": {
+      "pl": "Ty...!",
+      "kr_sha256": "01bd49619ae223e2bb42a5d2428a86172ba76d340eb4294d2234775bcebaf568",
+      "en_sha256": "65d76a0f2176989650df52baa3ac52ecb925cb4eb43be8d5c66796b113c07a8d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR3-1-01].dlg": {
+      "pl": "Z tymi zabawkami...",
+      "kr_sha256": "87504044f57ff78774d98edeb332c7c057f817325521cdc7fccfadb9b6329931",
+      "en_sha256": "e4864c15dbd9169499794a354bd804b3004d8877e1b82e16d5fe918d1979fab0",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR3-1].dlg": {
+      "pl": "Z tymi zabawkami...",
+      "kr_sha256": "87504044f57ff78774d98edeb332c7c057f817325521cdc7fccfadb9b6329931",
+      "en_sha256": "e4864c15dbd9169499794a354bd804b3004d8877e1b82e16d5fe918d1979fab0",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR3-2-01].dlg": {
+      "pl": "...już się nie bawię...",
+      "kr_sha256": "bec3186d97c9fe93bd5d7c029efa0168d9f1d550b1c62c0e7cae7c7228a591f6",
+      "en_sha256": "cbc318e8cee67f11ca169e04c19c07f9075c668006a6f1ab3ba68c6bcc8ae9f6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR3-2].dlg": {
+      "pl": "...już się nie bawię...",
+      "kr_sha256": "bec3186d97c9fe93bd5d7c029efa0168d9f1d550b1c62c0e7cae7c7228a591f6",
+      "en_sha256": "cbc318e8cee67f11ca169e04c19c07f9075c668006a6f1ab3ba68c6bcc8ae9f6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR3-3-01].dlg": {
+      "pl": "...mam dość!",
+      "kr_sha256": "4f4448efc09a3016b6134ed215ff8bfa962cabb0387432c176d821716b918f1a",
+      "en_sha256": "6903bb54c8c0765331efe25d6169b29b7270c0e01ddaa083193cfa7e7a0f6de6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR3-3].dlg": {
+      "pl": "...mam dość!",
+      "kr_sha256": "4f4448efc09a3016b6134ed215ff8bfa962cabb0387432c176d821716b918f1a",
+      "en_sha256": "6903bb54c8c0765331efe25d6169b29b7270c0e01ddaa083193cfa7e7a0f6de6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR5-1-01].dlg": {
+      "pl": "(ulepszenie 1) — nazwa] Chodź Tu!",
+      "kr_sha256": "e0f6a6cd013b40a8b4e7ecf0d4b98ca579ff9ea0c7426aeeabbce8946d1bbb14",
+      "en_sha256": "4f09b088777c78a92e3f64b0e5778575178fb7049033bc4b9cd00f53585e4f5b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR5-1].dlg": {
+      "pl": "(ulepszenie 1) — nazwa] Chodź Tu!",
+      "kr_sha256": "e0f6a6cd013b40a8b4e7ecf0d4b98ca579ff9ea0c7426aeeabbce8946d1bbb14",
+      "en_sha256": "4f09b088777c78a92e3f64b0e5778575178fb7049033bc4b9cd00f53585e4f5b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR7-2].dlg": {
+      "pl": "Uwaga, będzie gorąco.",
+      "kr_sha256": "f3272da8432105f72f7d3b68356d3697ccf35baad1d2785ef7b4d51a03d0746c",
+      "en_sha256": "fa73f1b4c5ce47f53ce46fd04aaa8c93b175cdff31adb75cf21082f1ea63956d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR7-3].dlg": {
+      "pl": "Piekielnie gorąco!",
+      "kr_sha256": "1835ea0059d095fe94b73b76a372f4b9e900d53197b08e2022f618b2ff83144f",
+      "en_sha256": "1e5d23edf3888fdafed26c24574f5f7720ca91a68dbc5281a701b67e0e93c561",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR8-4-01].dlg": {
+      "pl": "Hah! Bullseye!",
+      "kr_sha256": "66c62fcf8625b9a32493670edee6f03d809a4a50f10923f0dc394d2d2cfd6c89",
+      "en_sha256": "6baa3753cef14c1dc155020c33d57951d550ebc03ec66837f94b52de0fab5d75",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR8-4].dlg": {
+      "pl": "Hah! Bullseye!",
+      "kr_sha256": "66c62fcf8625b9a32493670edee6f03d809a4a50f10923f0dc394d2d2cfd6c89",
+      "en_sha256": "6baa3753cef14c1dc155020c33d57951d550ebc03ec66837f94b52de0fab5d75",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR9-1-01].dlg": {
+      "pl": "(ulepszenie 1) — nazwa] Chodź Tu!",
+      "kr_sha256": "e0f6a6cd013b40a8b4e7ecf0d4b98ca579ff9ea0c7426aeeabbce8946d1bbb14",
+      "en_sha256": "4f09b088777c78a92e3f64b0e5778575178fb7049033bc4b9cd00f53585e4f5b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR9-1-02].dlg": {
+      "pl": "(ulepszenie 1) — nazwa] Chodź Tu!",
+      "kr_sha256": "e0f6a6cd013b40a8b4e7ecf0d4b98ca579ff9ea0c7426aeeabbce8946d1bbb14",
+      "en_sha256": "4f09b088777c78a92e3f64b0e5778575178fb7049033bc4b9cd00f53585e4f5b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT3-BR9-1].dlg": {
+      "pl": "(ulepszenie 1) — nazwa] Chodź Tu!",
+      "kr_sha256": "e0f6a6cd013b40a8b4e7ecf0d4b98ca579ff9ea0c7426aeeabbce8946d1bbb14",
+      "en_sha256": "4f09b088777c78a92e3f64b0e5778575178fb7049033bc4b9cd00f53585e4f5b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT4-01].dlg": {
+      "pl": "Oto... stan Muga, stan nie-ja... Zapomniała nawet o sobie.",
+      "kr_sha256": "44f54649f2e3df7ceac49990bdc7dac493c99435a0d7f03507dfdbf36e943aff",
+      "en_sha256": "49d71791f6ba2121c33da3f88b251c2ea22b5b8c755dc2922cef93a606d6962c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT4-02].dlg": {
+      "pl": "Pokorna służba nie zdołała uratować pana... Smutek to jedyne, co mi zostało...",
+      "kr_sha256": "6eff9e470ebf8e941b75a132a41fd21710c64220716ec0256d91c5a0a0419fbe",
+      "en_sha256": "07088207fbca15b21145f6863b598d00033c057fe715d43ad8f8e8955f5ce8d0",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT5-01].dlg": {
+      "pl": "Wzmocnienie rezonansu E.G.O... Ogień.",
+      "kr_sha256": "1de7d1c7b8cca33191c3e0507ef2ff541041ce635cc1cbd4be0264cb668f2274",
+      "en_sha256": "278e4e6d11fd8f9ac5ae7b018926715ea40ad73b009470208082b572d400310f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT5-02].dlg": {
+      "pl": "Prawdziwy badacz... nie ma zainteresowania fałszywymi imitacjami!",
+      "kr_sha256": "8b87709d07deba80b41b6b9e625a42a66d65701e0373f98e92e85fa57fae4991",
+      "en_sha256": "cdd76f8b082b1020c17abc10b3c927480db0d3dae9c2579c57acba82b3989c93",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT5-03].dlg": {
+      "pl": "Rozświetlmy... drogę naprzód, by dobrze widzieć te życia, które muszę uratować.",
+      "kr_sha256": "e668f2ac137fd0d6e5a09c9800561bf7ded95a92274e8b07a77cb7f619533b1b",
+      "en_sha256": "709e9830a4a70fa84f723c421582e8641cf88b032233240fedf28b0936637bb1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT5-04].dlg": {
+      "pl": "Więc to ty... Ty jesteś bestią tego lasu.",
+      "kr_sha256": "edae476b8425fb5b0a4ee0c728cf44e01bee1a582735b379fab62b137029952d",
+      "en_sha256": "ef3a731c68278d57eaae9593fbfa6838c3bb07bc3c4bc0fa905f0f71e12b4911",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT5-05].dlg": {
+      "pl": "No to klops…",
+      "kr_sha256": "a8bbf03cc16bc6aeb02aad1a3648c1359e330bd32db41afab372298ebaeeda11",
+      "en_sha256": "d931ecd9e0c3cc778294610935d105e5099901da282ce3946c1bbe9f51992bed",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-06-1].dlg": {
+      "pl": "To zostaw nam!",
+      "kr_sha256": "4e0fd18fff281ff006b21641382d4ee65059d1b436d828d81db3c3798a96d010",
+      "en_sha256": "7049c6a984a3994300d294d91a64fb2c3e955e2137e60e7ba24dbd9ab5213670",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-06-2].dlg": {
+      "pl": "Najpierw musisz przejść przez mnie!",
+      "kr_sha256": "e1e08082f52a4c88eb6456bf5ece6f69f3f9a6a1f240db3c930b12683a4346b9",
+      "en_sha256": "5558e109fb4064eff985c3f91621c3390324cd2e39e3bd699ebe2ea7447b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-06-3].dlg": {
+      "pl": "No Way I'm Letting Our Junior Steal all the Spotlight!",
+      "kr_sha256": "215828fba85b48d7ba85bcee4c17e92cf985d95f58fa874d98b7beb94af72305",
+      "en_sha256": "a9e63eda472e14fe9942928a52785b6b48cc2c655b0c3716d64163901bbfd451",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-07-01].dlg": {
+      "pl": "Tak jest!!",
+      "kr_sha256": "4d16472f13f633fb82846959716a4b6061cc5bbaf53107b4cf13064e5a30fce0",
+      "en_sha256": "b312e32bff90316d9d4368cb6b737a24824f3f07d28fa06a356a97799ba955ab",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-07-02].dlg": {
+      "pl": "Tak jest!!",
+      "kr_sha256": "4d16472f13f633fb82846959716a4b6061cc5bbaf53107b4cf13064e5a30fce0",
+      "en_sha256": "b312e32bff90316d9d4368cb6b737a24824f3f07d28fa06a356a97799ba955ab",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-07].dlg": {
+      "pl": "Tak jest!!",
+      "kr_sha256": "4d16472f13f633fb82846959716a4b6061cc5bbaf53107b4cf13064e5a30fce0",
+      "en_sha256": "b312e32bff90316d9d4368cb6b737a24824f3f07d28fa06a356a97799ba955ab",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-1-01].dlg": {
+      "pl": "Acceleration Punch!",
+      "kr_sha256": "96ce58030f23bead840eb92e68be76b1d198830d26d52b47323e8415c2206dc8",
+      "en_sha256": "630d7bbf1c309c3d1422c0b7612e4036e5ce8579e2af7238c97d626898f01133",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-1-02].dlg": {
+      "pl": "Acceleration Punch!",
+      "kr_sha256": "96ce58030f23bead840eb92e68be76b1d198830d26d52b47323e8415c2206dc8",
+      "en_sha256": "630d7bbf1c309c3d1422c0b7612e4036e5ce8579e2af7238c97d626898f01133",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-1-03].dlg": {
+      "pl": "Acceleration Punch!",
+      "kr_sha256": "96ce58030f23bead840eb92e68be76b1d198830d26d52b47323e8415c2206dc8",
+      "en_sha256": "630d7bbf1c309c3d1422c0b7612e4036e5ce8579e2af7238c97d626898f01133",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-1-04].dlg": {
+      "pl": "Acceleration Punch!",
+      "kr_sha256": "96ce58030f23bead840eb92e68be76b1d198830d26d52b47323e8415c2206dc8",
+      "en_sha256": "630d7bbf1c309c3d1422c0b7612e4036e5ce8579e2af7238c97d626898f01133",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-1-05].dlg": {
+      "pl": "Acceleration Punch!",
+      "kr_sha256": "96ce58030f23bead840eb92e68be76b1d198830d26d52b47323e8415c2206dc8",
+      "en_sha256": "630d7bbf1c309c3d1422c0b7612e4036e5ce8579e2af7238c97d626898f01133",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-1].dlg": {
+      "pl": "Acceleration Punch!",
+      "kr_sha256": "96ce58030f23bead840eb92e68be76b1d198830d26d52b47323e8415c2206dc8",
+      "en_sha256": "630d7bbf1c309c3d1422c0b7612e4036e5ce8579e2af7238c97d626898f01133",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-3-01].dlg": {
+      "pl": "Fiu... Pach!!",
+      "kr_sha256": "18661e25d9cbc359edf5c127d73ff4a84c5ddf94b7584b2269977d65ed39a61a",
+      "en_sha256": "a3cb3d66e3154b8ee70b67020cfeb530cf54105bc76b1b7d55f90ccb112cc14c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR1-3].dlg": {
+      "pl": "Fiu... Pach!!",
+      "kr_sha256": "18661e25d9cbc359edf5c127d73ff4a84c5ddf94b7584b2269977d65ed39a61a",
+      "en_sha256": "a3cb3d66e3154b8ee70b67020cfeb530cf54105bc76b1b7d55f90ccb112cc14c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR2-1-01].dlg": {
+      "pl": "Pięciokrotność ciężaru!",
+      "kr_sha256": "7973a9df31a6178fb83214bbbe769f24c6a6e3cc5dbd6e3010cff455a47d67a3",
+      "en_sha256": "8520ef2d7e3c852cfa3fc558048fa0028e6fba4bc2a70da0cf60c405606d12e5",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR2-1].dlg": {
+      "pl": "Pięciokrotność ciężaru!",
+      "kr_sha256": "7973a9df31a6178fb83214bbbe769f24c6a6e3cc5dbd6e3010cff455a47d67a3",
+      "en_sha256": "8520ef2d7e3c852cfa3fc558048fa0028e6fba4bc2a70da0cf60c405606d12e5",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR2-2-01].dlg": {
+      "pl": "Tryb Ostrych Pięści: aktywować!",
+      "kr_sha256": "bcc2a0cdc1fe1f1ed22bf2bfe2cd91d4b67b6d0b81de9ed178931b866a8a7d69",
+      "en_sha256": "37ad9f1430ea5b1a3199f5f8cade3d8b5c4989b05142c2babc27c1dd3574e2ec",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR2-2-02].dlg": {
+      "pl": "Tryb Ostrych Pięści: aktywować!",
+      "kr_sha256": "bcc2a0cdc1fe1f1ed22bf2bfe2cd91d4b67b6d0b81de9ed178931b866a8a7d69",
+      "en_sha256": "37ad9f1430ea5b1a3199f5f8cade3d8b5c4989b05142c2babc27c1dd3574e2ec",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR2-2].dlg": {
+      "pl": "Tryb Ostrych Pięści: aktywować!",
+      "kr_sha256": "bcc2a0cdc1fe1f1ed22bf2bfe2cd91d4b67b6d0b81de9ed178931b866a8a7d69",
+      "en_sha256": "37ad9f1430ea5b1a3199f5f8cade3d8b5c4989b05142c2babc27c1dd3574e2ec",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR2].dlg": {
+      "pl": "Tryb Ostrych Pięści: aktywować!",
+      "kr_sha256": "bcc2a0cdc1fe1f1ed22bf2bfe2cd91d4b67b6d0b81de9ed178931b866a8a7d69",
+      "en_sha256": "37ad9f1430ea5b1a3199f5f8cade3d8b5c4989b05142c2babc27c1dd3574e2ec",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-10].dlg": {
+      "pl": "...i wiertło!",
+      "kr_sha256": "b1a5102caf6c6744597e2691dd4390e8b5150daf79245fc215ad4154ad53628a",
+      "en_sha256": "f1f718f1a19e1e0b5212aa3e8dbad7cacdc6ec9df4d5e43620cc2730325eae30",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-3-01].dlg": {
+      "pl": "Rozproszcie się!",
+      "kr_sha256": "90d06182102d051c0fb258171b592350ae862ca105b32ec74752ab66baf94f74",
+      "en_sha256": "480d6ee97e4d9e84aaec30265023a587132a2b07c09bbb045534ced24b9d1d9f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-3].dlg": {
+      "pl": "Rozproszcie się!",
+      "kr_sha256": "90d06182102d051c0fb258171b592350ae862ca105b32ec74752ab66baf94f74",
+      "en_sha256": "480d6ee97e4d9e84aaec30265023a587132a2b07c09bbb045534ced24b9d1d9f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-4-01].dlg": {
+      "pl": "Raz! Dwa! Rozproszyć!",
+      "kr_sha256": "41db32f7ef7196e1754444bcc92a0748bedb1c61959892f62fd8c962d48f223f",
+      "en_sha256": "c36acef83551dcb9af5d077431134088f441f9539367ec2ea0e02dbdaeaacdf3",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-4-02].dlg": {
+      "pl": "Raz! Dwa! Rozproszyć!",
+      "kr_sha256": "41db32f7ef7196e1754444bcc92a0748bedb1c61959892f62fd8c962d48f223f",
+      "en_sha256": "c36acef83551dcb9af5d077431134088f441f9539367ec2ea0e02dbdaeaacdf3",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-4].dlg": {
+      "pl": "Raz! Dwa! Rozproszyć!",
+      "kr_sha256": "41db32f7ef7196e1754444bcc92a0748bedb1c61959892f62fd8c962d48f223f",
+      "en_sha256": "c36acef83551dcb9af5d077431134088f441f9539367ec2ea0e02dbdaeaacdf3",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-7-01].dlg": {
+      "pl": "Screw Hammer!",
+      "kr_sha256": "aa0d014a94e5000b29a52ea97830716990f8fee50b7ed80556ffba0bf664f9c1",
+      "en_sha256": "71313141a28698f358a96ed3e9030bf10c20bb2a773e3a7bac276f9c5ccde5c7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-7-02].dlg": {
+      "pl": "Screw Hammer!",
+      "kr_sha256": "aa0d014a94e5000b29a52ea97830716990f8fee50b7ed80556ffba0bf664f9c1",
+      "en_sha256": "71313141a28698f358a96ed3e9030bf10c20bb2a773e3a7bac276f9c5ccde5c7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-7].dlg": {
+      "pl": "Screw Hammer!",
+      "kr_sha256": "aa0d014a94e5000b29a52ea97830716990f8fee50b7ed80556ffba0bf664f9c1",
+      "en_sha256": "71313141a28698f358a96ed3e9030bf10c20bb2a773e3a7bac276f9c5ccde5c7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR3-8].dlg": {
+      "pl": "Obrrracać się...",
+      "kr_sha256": "ea6c6ec59d3dfc969429876a91634f338a4cf4986ee61ac5cc80c37b7eb537a2",
+      "en_sha256": "69dc8ada55ba130be1da58e4c495d057b2c6221800adef08233272a8942eef28",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-1-01].dlg": {
+      "pl": "Tryb Ataku Totalnego, Mk. 17!",
+      "kr_sha256": "9e3a0d768824a4fd848b2f38350c7e631a5e0f818927b64fe42010cc738d235b",
+      "en_sha256": "a3f4654ad6dbac04025311a3fe52ebe39d0b9e6cffb4ccdd1a4e4f94f81cfd55",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-1].dlg": {
+      "pl": "Tryb Ataku Totalnego, Mk. 17!",
+      "kr_sha256": "9e3a0d768824a4fd848b2f38350c7e631a5e0f818927b64fe42010cc738d235b",
+      "en_sha256": "a3f4654ad6dbac04025311a3fe52ebe39d0b9e6cffb4ccdd1a4e4f94f81cfd55",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-2-01].dlg": {
+      "pl": "YuRia Axe!",
+      "kr_sha256": "751730620beb17a7ebc2ce6f67cea98b0ceecdf95f5409e1a05f896c4044850c",
+      "en_sha256": "1ae53c75ee73ba3e4645b440c043b3e7eae9a5815a43505b6018214bb93ef613",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-2-02].dlg": {
+      "pl": "YuRia Axe!",
+      "kr_sha256": "751730620beb17a7ebc2ce6f67cea98b0ceecdf95f5409e1a05f896c4044850c",
+      "en_sha256": "1ae53c75ee73ba3e4645b440c043b3e7eae9a5815a43505b6018214bb93ef613",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-2-03].dlg": {
+      "pl": "YuRia Axe!",
+      "kr_sha256": "751730620beb17a7ebc2ce6f67cea98b0ceecdf95f5409e1a05f896c4044850c",
+      "en_sha256": "1ae53c75ee73ba3e4645b440c043b3e7eae9a5815a43505b6018214bb93ef613",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-2].dlg": {
+      "pl": "YuRia Axe!",
+      "kr_sha256": "751730620beb17a7ebc2ce6f67cea98b0ceecdf95f5409e1a05f896c4044850c",
+      "en_sha256": "1ae53c75ee73ba3e4645b440c043b3e7eae9a5815a43505b6018214bb93ef613",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-5-01].dlg": {
+      "pl": "DOSTAJESZ TOOOO!",
+      "kr_sha256": "c9e716381129b9b2c59b941c323559474bcdc5b5732216507151c40a0a78c093",
+      "en_sha256": "67a1413ae203e01274adac2a839ff78cb73ee446960bd84f80f19c1b2bc8491c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-5-02].dlg": {
+      "pl": "DOSTAJESZ TOOOO!",
+      "kr_sha256": "c9e716381129b9b2c59b941c323559474bcdc5b5732216507151c40a0a78c093",
+      "en_sha256": "67a1413ae203e01274adac2a839ff78cb73ee446960bd84f80f19c1b2bc8491c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-5].dlg": {
+      "pl": "DOSTAJESZ TOOOO!",
+      "kr_sha256": "c9e716381129b9b2c59b941c323559474bcdc5b5732216507151c40a0a78c093",
+      "en_sha256": "67a1413ae203e01274adac2a839ff78cb73ee446960bd84f80f19c1b2bc8491c",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR4-8].dlg": {
+      "pl": "Rozwalone!",
+      "kr_sha256": "72ab522af14b83131a47ed12eee71efcf3c36b888aee956d3c2cbcfd8c35c32c",
+      "en_sha256": "19594ff1963db3f819d3c78778c8a3e9f4db5639c3b4c1306d9de253ea8def2f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR5-1].dlg": {
+      "pl": "Znowu! Liczę na ciebie, szefie!",
+      "kr_sha256": "d031d5ede1d3c85b6f79fa158b9d6c1a5d8ca91af21c07c5a5f7d66d6a423eb4",
+      "en_sha256": "93a23dadcb9d462eb55f93b16c26bbfdb66cd7d55570381ab386e1188e3e7446",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT6-BR5-3].dlg": {
+      "pl": "Twoim przeciwnikiem jestem ja!",
+      "kr_sha256": "2c651cc7375d8a7317ea4e20efa78d7d063a397b6c0a000049d57fef1854901c",
+      "en_sha256": "d7821754c39c8cdf000fa9d51b91253b236c842fcb661c2d98e98893e7b115f8",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT7-08].dlg": {
+      "pl": "Tym wrogiem zajmę się ja.",
+      "kr_sha256": "d79b4940ceb0355961937ee687a1a9df95d16c9cb84308d11b85f82ddb2a538a",
+      "en_sha256": "57bd7dffc482457dfe053d1f470446705c5175b53c63b1d6666fcf1f363fccb2",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT7-09-1].dlg": {
+      "pl": "Nie przejdziesz tędy.",
+      "kr_sha256": "1bebc9223fd9c24d6e7b807c6fc07280ab8a43c0f251414b4c19a530fe8235ad",
+      "en_sha256": "d8abbb0e2f5d7569ab01b39e395cfa7d9ea60d24e904df0358d9902dbbbec88e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT7-09-2].dlg": {
+      "pl": "Po prostu robię swoją część.",
+      "kr_sha256": "98d8bddb5562103fcc762e4f262fcbefc02eeb2ac8c5a4b1e615e47a125bbc52",
+      "en_sha256": "ebc8295af554dbf124d658a50341c1e70ee9ab8d2f1d3dceb7178948346cc593",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT7-09-3].dlg": {
+      "pl": "Agh.",
+      "kr_sha256": "e815df7b3401f6a1d03a2daf14942ddbb58a6f66c0d1d5ddcc877e8a73b7a9fd",
+      "en_sha256": "19178665e073cdbd306b9e326c88d1840c8d59b1cc16c9c870fd2dd96648e5ed",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-06-1].dlg": {
+      "pl": "Hahahahaha!",
+      "kr_sha256": "67594b2fd237f4a9abd755308135438c5b643cc65d4d3893e37acc47472dc67e",
+      "en_sha256": "fec73661556381f7f5e2a4167a51206521de2b7a7e6fe874dd6a3236fb7db22e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-06-3].dlg": {
+      "pl": "Polowanie zakończone!",
+      "kr_sha256": "fdc21bf307f4a59d2ba1cbac5957e9d7ef150f71839c1fe1880a0229aeb17324",
+      "en_sha256": "767803ba4e1119ac4219cff1eb90f79b3a6689df94266fb6af3afba067b3bef1",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-06-4-01].dlg": {
+      "pl": "Posiekam was wszystkich!",
+      "kr_sha256": "90f5686d3daf2d9554509932d1bf8921714fc7ecbb3799779ab1940d0ef49454",
+      "en_sha256": "e34b7422960d3d66e7b0175fa1c6abb13bf41fd39201c7e7e0b7a147d06af587",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-07-1].dlg": {
+      "pl": "Tak, nienawidzę was wszystkich! Przeklętą Famiglię, ciebie, i Ticket też!",
+      "kr_sha256": "9f627063fb26d1ceed0774bf76a67d496264899ad3e35217c43fe810122c87e4",
+      "en_sha256": "8b41561969cd72c74059175edf1c81193e61e3d24eb568b783029a9ac7064991",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-07-2].dlg": {
+      "pl": "Mam do... dość! Was i Ticket również!!!",
+      "kr_sha256": "f648860b13feee5f0265e693fbb8df7518175ec60cd794e7bcac8f928ce38bac",
+      "en_sha256": "702be3d2e30271b7644b5671ca0cbc18a5fb30f99d3ce7cc990c35ef2a736dd7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-08].dlg": {
+      "pl": "Co, trudno wam trafić?",
+      "kr_sha256": "9cd21e8475982156c98e8f5025d229e77c3714b012e6f113032ab3bd586627ba",
+      "en_sha256": "b6aa53d69c1cd5dc916d916aa4d90e59577d2d805f77cd24284802b84a838086",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-09-01].dlg": {
+      "pl": "Przy takiej postawie nie zahaczysz nawet o moje poły.",
+      "kr_sha256": "a32422a736a40b4190eaf6cd14ab5838710ce5dd78c3dfc326d4a7b7530d31d0",
+      "en_sha256": "cbe1c09fbb60ef76d696802bdf54a59fe87fbf862b93d88f80fc34c033723e4d",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-09].dlg": {
+      "pl": "Za moich czasów nie śmieliście nawet podnieść na mnie wzroku.",
+      "kr_sha256": "4616c618512d7540989ea89d1bf4c695e8105e200eefa7c261dd88924f8b3da9",
+      "en_sha256": "3e4dede0f931e26ea29c5e9e9642848bdfc28ec55262c1cb097d9438876da306",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-10-01].dlg": {
+      "pl": "Widzę cię na wylot.",
+      "kr_sha256": "7beb6b1932fbc6d32c81bc87388212c2adf2a9490e7e1520ddc9804e7fc19443",
+      "en_sha256": "6a3a4eb279fc8a77f59d1941e176b93d69833f7c2ca63453c9c7dd4bcdf358a9",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-10].dlg": {
+      "pl": "Co mówiłem? Mam to oko i dam wam radę.",
+      "kr_sha256": "21248bcf54bd7ef5809153ed4986c1ad2395b340d799ddc6637c56730e7c79d5",
+      "en_sha256": "6c286c418017cbdda69a30788752f57e2e3185c8af0bd6cbeb3dfdbd1c67e8ac",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-11-1].dlg": {
+      "pl": "Co do diabła—",
+      "kr_sha256": "ebd3ffc588fde495f57db6935c82ce482ec4eb78991f1115dea641a6fdfa5494",
+      "en_sha256": "9ead00055a7785299c639296c9e67f5309115d11f25d58d74a5335c81d7d5ce5",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-11-2-01].dlg": {
+      "pl": "Cholera!",
+      "kr_sha256": "6963a0ec96aaa067b9b290a685612c76ed79e670e3475a24b028bdba9cb54c48",
+      "en_sha256": "9b6622e207072de128420c894f72e8a0709eaeff816bb968e148522f73c1939a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-11-2-02].dlg": {
+      "pl": "Cholera!",
+      "kr_sha256": "6963a0ec96aaa067b9b290a685612c76ed79e670e3475a24b028bdba9cb54c48",
+      "en_sha256": "9b6622e207072de128420c894f72e8a0709eaeff816bb968e148522f73c1939a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-11-2-03].dlg": {
+      "pl": "Cholera!",
+      "kr_sha256": "6963a0ec96aaa067b9b290a685612c76ed79e670e3475a24b028bdba9cb54c48",
+      "en_sha256": "9b6622e207072de128420c894f72e8a0709eaeff816bb968e148522f73c1939a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-11-2].dlg": {
+      "pl": "Cholera!",
+      "kr_sha256": "6963a0ec96aaa067b9b290a685612c76ed79e670e3475a24b028bdba9cb54c48",
+      "en_sha256": "9b6622e207072de128420c894f72e8a0709eaeff816bb968e148522f73c1939a",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-12-01].dlg": {
+      "pl": "Cholera... znowu?!",
+      "kr_sha256": "02d9d2a9580f53d72a9128c962bb0c84dfb9e0d20c87343c4bc1cae06e64c57d",
+      "en_sha256": "8e7e3def3a30e71419e068d0ea30737053dbcb215fb99a0cee866213bf02a0ca",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-12].dlg": {
+      "pl": "...Cóż. Już się przegrzał?",
+      "kr_sha256": "790c4d3b55efdee5cf4a817f964730c190d919a317e5bbfb4b458f6fbc724b1c",
+      "en_sha256": "8158b35453bf12a0f68fd4464d962807102946671df96248c089bbb62d6ce7d3",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-13].dlg": {
+      "pl": "Lucio! Chyba skończyłeś z opróżnianiem— Hah, przeczuwałem. Tępo.",
+      "kr_sha256": "8f06934ef4f6d7b052409f8a081e51fce64faeb4248115aebe64df022694ab3b",
+      "en_sha256": "e261874c3effb9297f57053a1c5d3e91f62293892abe13118c03fefb6aebcaa6",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-14-1].dlg": {
+      "pl": "Zapracowałem się jak jakiś przeklęty pies przez dziesięciolecia, wspinając się w górę...! I mam pozwolić, byście to spieprzali?!",
+      "kr_sha256": "c5f2d8cce28db997907b3df5051342f24b289126d3d9f703a6c9c8841d0bd116",
+      "en_sha256": "5269477cbd73d04017d281a5580a0609fbeae29f770af68413d291c61cd55e0e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-14-2].dlg": {
+      "pl": "A pieprzyć gadanie! Jestem Valencina della Famiglia Bognatelli...! Nie zamierzam gnić w tym chlewie!",
+      "kr_sha256": "928cfbb2c0e0a83d815ef6b05b79da826af291055f505c4918d8ff7a66334f9f",
+      "en_sha256": "7aaa2f8612d41c298f56976cddb35d327ef930398f6ae1349f08cec707a12e29",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-15].dlg": {
+      "pl": "Zmykaj, Lucio, zawadzasz! Słuchaj, nie masz prawa umrzeć, póki nie przekazisz Ticket wszystkiego, co zapomniała. Jasne?",
+      "kr_sha256": "b4b10fb8fd0a8d644484b6f240ffcdfbfb39f6f84ccc76eb580bc8e8687276c6",
+      "en_sha256": "7f636223d96af2a1d4ad0faad62baf90125f0932389a9acfef1af22f0537825e",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-BR4-1].dlg": {
+      "pl": "Spadaj!",
+      "kr_sha256": "ce74c6b1f9d6dc947ce427b1cd9a51cfab0737a1026683a7ca7d5d5022727f01",
+      "en_sha256": "7620626861c21490960076b9bb2d52071f83f98b8a300e1f9a3aebf7a361d7d0",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-BR4-2].dlg": {
+      "pl": "Pewni siebie dziś? To odbijcie to, skurwysyny.",
+      "kr_sha256": "bdf21a7ecfa81f13684f8d1fdc60aa0e80e21052e7a2ed3bad6dfe66b19a8756",
+      "en_sha256": "b6a004584519091b26bf0cb78812055cf857ee02649cc967028a56142baa53fb",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-BR4-4].dlg": {
+      "pl": "Wyrównaj moją nienawiść.",
+      "kr_sha256": "6d54ec9ffa6ffeade23150a3651a3a318754f6ad1ff5a6b611c7c42598192d9f",
+      "en_sha256": "aedbf77c31d96bea155a8de56050ec888da0d12243f64b910d033650260e2d51",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT8-BR5-2-01].dlg": {
+      "pl": "Rozproszenie zrówna cię z ziemią!",
+      "kr_sha256": "f56d88a54fcbca8816244c64dfd2013a3d4b48e158e93362532056d6e36d2af4",
+      "en_sha256": "65d16141c00c4f5742e9e4e5eaadad8969920a9643e80b57d15bbe6f55b23c49",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-01].dlg": {
+      "pl": "Wdzierać się. Zarażać.",
+      "kr_sha256": "6a5fe4a50cdefb0d40e250279ca74f279f812fae5277c8e65b0a955f7279cfca",
+      "en_sha256": "dedba3d6be5a10fafe4129b9d7c4ba4079bb2645c38ee7203ffe1a60e31256ef",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-02].dlg": {
+      "pl": "Wdzierać się. Zarażać. Rozkwitać.",
+      "kr_sha256": "a8af02515ed76d85090b21f54aafdaba366b92233ee8380eeeb03485d5576615",
+      "en_sha256": "40c1d14a1ee7717c16e7aeb145b3486669af0e1a13470c3bde28e63c57e03ea3",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-03].dlg": {
+      "pl": "Chaotyczne, nieświadome... Pożeranie.",
+      "kr_sha256": "c97f6e1dcbf26fa60c81224f920789e591907d10537a417e6e1a19708cd463d8",
+      "en_sha256": "6e48c2e38a45acfb6b9014694c59925cc62073c034b86ff5a5eeadd13b34ce3b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-04].dlg": {
+      "pl": "Słyszę to. Odrażające, gryzące echo zza okna.",
+      "kr_sha256": "0ddd7a04a48a653246f5a76381f285e40f59d9d43271fb2046a845eeb2ac5fd5",
+      "en_sha256": "74b99cbec9377aff8dabc60fd15d144ae0556aebcc60f385ce40b8ba80667de7",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-05].dlg": {
+      "pl": "Przekopcie każdy kąt, wpełźcie na każdy szczyt i wyrwijcie się do lotu.",
+      "kr_sha256": "2802b6b2ff5eb5d7f69f20eef5214431a03a9866561a6c466a748154cf1687a4",
+      "en_sha256": "b726d5551b788d41bd7ff1d5cb28e5d95c9118d9b8a44340d08af1932229e632",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-06].dlg": {
+      "pl": "Rozmnażanie. Zarażanie. Przerażanie... Głębiną upadku... Przemienienie.",
+      "kr_sha256": "771fa57a94131dd471b1be34a669275df1e36dcb8afa162720f3bb774e85216b",
+      "en_sha256": "e4ad0e5a7d12c836edba10125eb83d208859d0a790cd922b8fa18133fe0abdeb",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-07].dlg": {
+      "pl": "Wszystko, co stanie drodze... obróci się w pył.",
+      "kr_sha256": "a72ad96c3240850bb1fc3821c9618155b6e7c258b49c26d003b565679bcbde3b",
+      "en_sha256": "306db0f9deaa8069229b4d0b61d704bd0df6efba33901be79df69414e55b6b38",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-08].dlg": {
+      "pl": "Uczta. Rozpusta.",
+      "kr_sha256": "ade960b84bc84530966a33af293d5d3ebaa3578281192852eff6fe7524ebc320",
+      "en_sha256": "de291a99322bf3b9548605c18b43c1cd930c32ede55f7f6713f25777482b7314",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-09].dlg": {
+      "pl": "Nagle, któregoś dnia... Obudzicie się z koszmaru i spostrzegacie, że pełzająca śmierć tropiła wasze kroki.",
+      "kr_sha256": "30213ac9885729438f9e07a78bef07179bfb1198e8a6bf7e8cce3fbf5e48c545",
+      "en_sha256": "5f9a9f025ebdf392378acfa323e3cfef6038d28a1e0acab765500c83bebe860f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-10].dlg": {
+      "pl": "Wykluczyć zagrożenie.",
+      "kr_sha256": "cba7757cde4b8680b37a87ecdf9115aba344ea104ce1eba0aae38eefb6ac2bc8",
+      "en_sha256": "026595fa6d1f0e2b0ddd64ed0c0c65c47ae07c3a1257d4e47ad21685bbc935ec",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-11].dlg": {
+      "pl": "Wstręt. Zaniedbanie. Pogarda. Izolacja. Znajoma cisza, nic więcej.",
+      "kr_sha256": "8bbdcac08243a7c23a0ad82808e12a48bd4258c8d54077e9efcc7d205fd9eb93",
+      "en_sha256": "50fa98e786b0ed4308d98e203962285342817ab862a771acaffa1ca7e72298d4",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-12-01].dlg": {
+      "pl": "Pusty, obcy... cienisty i odpychający... kąt?",
+      "kr_sha256": "62aee00fcecb07910b8d9c156ab560c70757adcc5878bc12155b8adc7e4185d5",
+      "en_sha256": "8b3cf96bcc1e86400b765e53d3ee1e8fff70654960fabd404dfcacc33f044e72",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-12].dlg": {
+      "pl": "Pusty, obcy... cienisty i odpychający... kąt?",
+      "kr_sha256": "62aee00fcecb07910b8d9c156ab560c70757adcc5878bc12155b8adc7e4185d5",
+      "en_sha256": "8b3cf96bcc1e86400b765e53d3ee1e8fff70654960fabd404dfcacc33f044e72",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-13].dlg": {
+      "pl": "Niech rój zaleje wszystko. Niech najczarniejsza ciemność szaleje.",
+      "kr_sha256": "21d1efdbea2298f32d0b0ecba753c4e1613648f317cc978ce39c769346579f05",
+      "en_sha256": "1ae7bb3595387746f344d496a8c265e08ae7632eff4b1f008e7941c0d7ca46e8",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-14-1].dlg": {
+      "pl": "Marsz. Marsz. Konsumpcja.",
+      "kr_sha256": "4881f55d3f3589631b9e21f65227a5d471851320ab8274a0d1454f8da10d9f20",
+      "en_sha256": "a99e4628f5b5301c4e03dfec961a5e2e9e41cc727338413b9567fa908bc63ea3",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-14-2].dlg": {
+      "pl": "Rozmnażanie. Konsumpcja. Wymazywanie.",
+      "kr_sha256": "d97a4871fcca7ff95f55db9b6b9716e3edee982f8a095b4bae1447404d0d131f",
+      "en_sha256": "faed4ae1b1b2188113ef72c110848325e3ee520c27c254226e9afc7848d13de3",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT9-14-3].dlg": {
+      "pl": "Wymazywanie. Odtworzenie. Marsz.",
+      "kr_sha256": "f9d77161562a010aec0aa84006b5db8af4ccdf14263a15f64837ab221bbd8241",
+      "en_sha256": "15454f15ebd252f21867722c0b91becd0aa6f6c40782b1c1f1004be94ee03a6f",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT99-01].dlg": {
+      "pl": "Mówisz... jakbym miał wybrać pozostanie.",
+      "kr_sha256": "95dd5ec87dd90aad6d3fe47126dab9821aa31f2b228471cb1512ad3a96ee17f2",
+      "en_sha256": "df41875dd092df058f0225b0c44fdece560b7f1f1823b2ff47f7ba4ca537e04b",
+      "origin": "ai"
+    },
+    "dataList[id=9SV-BAT99-03].dlg": {
+      "pl": "OSHARE\\n(Pokonaj Piekłognący Żar dla Arayi, ku Wytępieniu Rzeczywistości)",
+      "kr_sha256": "9e3ddee4c6270856268b4f3734372521c9c4e3a3d5429792418b0d99894f9b23",
+      "en_sha256": "df9df497b0d4aa678a54b80e54370323a789916c55d4885b51e70d07bcca80ac",
+      "origin": "ai"
+    }
+  }
+}

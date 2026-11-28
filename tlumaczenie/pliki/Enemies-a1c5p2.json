@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=809701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=809701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8097].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8097].name": {
+      "pl": "Sturdy Little Brother of the Middle",
+      "kr_sha256": "eeccd31d955a4815c2d78dcf32ec368f0416f90ee561e8f5728b4f57b52adb6b",
+      "en_sha256": "63b1cbd231fbfd355e08defd9dfa26bb2e1f9c73a8a1545ced8f11f9663d573c",
+      "origin": "ai"
+    },
+    "dataList[id=809801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=809801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8098].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8098].name": {
+      "pl": "Stern Little Brother of the Middle",
+      "kr_sha256": "713df8cd641bc33b7211c737224e4a2bbff5c2fd421fbdba514dfab96d589bec",
+      "en_sha256": "8a9a50378726b47465714ae5e4a6d54528c2a936aa790c3fa8db130104754d96",
+      "origin": "ai"
+    },
+    "dataList[id=809901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=809901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8099].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8099].name": {
+      "pl": "Ricardo",
+      "kr_sha256": "9bfd250b7e5797efefe672081b89d379e9b412d38379fa5f836bcdcc10ba0bfe",
+      "en_sha256": "6568e1158933296b86cdc3472474c883d9bac7b5b14092313cdc2aabdd8d4e79",
+      "origin": "ai"
+    },
+    "dataList[id=90088].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90088].name": {
+      "pl": "Whale of the Thousand Strands Mermaid",
+      "kr_sha256": "f26970e71977cd991396997d7383e82f845d276080fb9489f823bbdedc672f1a",
+      "en_sha256": "efe5914aee4dec800a79ce80fcc83ac5fdea38019dfac1d9a21c7d3b9f9db75e",
+      "origin": "ai"
+    },
+    "dataList[id=90089].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90089].name": {
+      "pl": "Pallid White Mermaid",
+      "kr_sha256": "e7edc878a7cd0ad46f9fda38f5d565a7db7411a69feaf522c10e9b5f6aef28ee",
+      "en_sha256": "9f1e268853c3a4c4e3d2bbd626a1b7734221606df32922e648602578e2839149",
+      "origin": "ai"
+    },
+    "dataList[id=90090].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90090].name": {
+      "pl": "Pallid Blue Mermaid",
+      "kr_sha256": "af7ee3437c9deb469de7eab45628e76fdb0a931005d7add8d98523a5b8183c76",
+      "en_sha256": "8414710051854dab0f70960badbdf236709bbab1b1aa22da7414589b170a2b5e",
+      "origin": "ai"
+    },
+    "dataList[id=90091].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90091].name": {
+      "pl": "Pallid Entwined Mermaid",
+      "kr_sha256": "ae0cdb0e7ef1182561c22b0a496615dc141ae483da55457793c23794e92f5568",
+      "en_sha256": "70751ee1a2b62f85629c52ab472f56713f7f661cc4bdd0f2082995322e37d1ff",
+      "origin": "ai"
+    },
+    "dataList[id=90092].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90092].name": {
+      "pl": "Pallidified Thing-Shield",
+      "kr_sha256": "2abdf2a1b6cbaa2576d980739e03701da722385910a2fef54a4be00cd4d3782a",
+      "en_sha256": "bd7e2a3ce039267e30806e3b09f965ad7326729a89aa61d88e0cf3aa1e958555",
+      "origin": "ai"
+    },
+    "dataList[id=90093].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90093].name": {
+      "pl": "Pallidified Thing-Club",
+      "kr_sha256": "badf91ccfcd4830381908e2fc7f1872c3fdb6b1fd6d235a5b38aedcc3db47940",
+      "en_sha256": "011780a98a5a8c9c5f27c61f03ad96b3c77f0db1e68a6a7102e6378a9f7f0dac",
+      "origin": "ai"
+    },
+    "dataList[id=90094].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90094].name": {
+      "pl": "Pallidified Thing-Pirate",
+      "kr_sha256": "1b43379a2a965be9ab6469a5c0298e2a1ac2d3120468a886ecf2a78fa9761a4b",
+      "en_sha256": "efda2f25cc4d549abad99ba8b334540fa0be05093cef9002417476d3ec932a2b",
+      "origin": "ai"
+    },
+    "dataList[id=90095].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90095].name": {
+      "pl": "Pallidified Thing-Hook",
+      "kr_sha256": "ce9513bac6bad2a6197cbd7b74d6875c30641513fff6e5b6124742d9463ddee5",
+      "en_sha256": "0b28d59df1c3d94311c5ccd2099e053d8ead795a5ce4c72fda24036c68f7028b",
+      "origin": "ai"
+    },
+    "dataList[id=90096].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90096].name": {
+      "pl": "Sturdy Little Brother of the Middle",
+      "kr_sha256": "eeccd31d955a4815c2d78dcf32ec368f0416f90ee561e8f5728b4f57b52adb6b",
+      "en_sha256": "63b1cbd231fbfd355e08defd9dfa26bb2e1f9c73a8a1545ced8f11f9663d573c",
+      "origin": "ai"
+    },
+    "dataList[id=90097].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90097].name": {
+      "pl": "Stern Little Brother of the Middle",
+      "kr_sha256": "713df8cd641bc33b7211c737224e4a2bbff5c2fd421fbdba514dfab96d589bec",
+      "en_sha256": "8a9a50378726b47465714ae5e4a6d54528c2a936aa790c3fa8db130104754d96",
+      "origin": "ai"
+    },
+    "dataList[id=90100].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90100].name": {
+      "pl": "Pallid and Blue Mermaid",
+      "kr_sha256": "17c70a55ba77c9c04d1449913d19d8b2a14a2fae4d449d9a4cfe2f7ebe561f58",
+      "en_sha256": "a3015d1f0c29b907d4844b055cdef6ac300b76e1518d0a2f1a0d9409532129e0",
+      "origin": "ai"
+    },
+    "dataList[id=97501].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97501].name": {
+      "pl": "Pallidified Thing-Club",
+      "kr_sha256": "badf91ccfcd4830381908e2fc7f1872c3fdb6b1fd6d235a5b38aedcc3db47940",
+      "en_sha256": "011780a98a5a8c9c5f27c61f03ad96b3c77f0db1e68a6a7102e6378a9f7f0dac",
+      "origin": "ai"
+    },
+    "dataList[id=97502].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97502].name": {
+      "pl": "Pallidified Thing-Shield",
+      "kr_sha256": "2abdf2a1b6cbaa2576d980739e03701da722385910a2fef54a4be00cd4d3782a",
+      "en_sha256": "bd7e2a3ce039267e30806e3b09f965ad7326729a89aa61d88e0cf3aa1e958555",
+      "origin": "ai"
+    },
+    "dataList[id=97503].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97503].name": {
+      "pl": "Pallidified Thing-Hook",
+      "kr_sha256": "ce9513bac6bad2a6197cbd7b74d6875c30641513fff6e5b6124742d9463ddee5",
+      "en_sha256": "0b28d59df1c3d94311c5ccd2099e053d8ead795a5ce4c72fda24036c68f7028b",
+      "origin": "ai"
+    },
+    "dataList[id=97504].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97504].name": {
+      "pl": "Pallidified Thing-Pirate",
+      "kr_sha256": "1b43379a2a965be9ab6469a5c0298e2a1ac2d3120468a886ecf2a78fa9761a4b",
+      "en_sha256": "efda2f25cc4d549abad99ba8b334540fa0be05093cef9002417476d3ec932a2b",
+      "origin": "ai"
+    },
+    "dataList[id=97505].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97505].name": {
+      "pl": "Pallid White Mermaid",
+      "kr_sha256": "e7edc878a7cd0ad46f9fda38f5d565a7db7411a69feaf522c10e9b5f6aef28ee",
+      "en_sha256": "9f1e268853c3a4c4e3d2bbd626a1b7734221606df32922e648602578e2839149",
+      "origin": "ai"
+    },
+    "dataList[id=97506].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97506].name": {
+      "pl": "Pallid Blue Mermaid",
+      "kr_sha256": "af7ee3437c9deb469de7eab45628e76fdb0a931005d7add8d98523a5b8183c76",
+      "en_sha256": "8414710051854dab0f70960badbdf236709bbab1b1aa22da7414589b170a2b5e",
+      "origin": "ai"
+    },
+    "dataList[id=97507].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=97507].name": {
+      "pl": "Pallid Entwined Mermaid",
+      "kr_sha256": "ae0cdb0e7ef1182561c22b0a496615dc141ae483da55457793c23794e92f5568",
+      "en_sha256": "70751ee1a2b62f85629c52ab472f56713f7f661cc4bdd0f2082995322e37d1ff",
+      "origin": "ai"
+    }
+  }
+}

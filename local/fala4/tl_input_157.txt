@@ -1,0 +1,96 @@
+15255||RPGSystem#rpg-loc-dialogue-floor-3.json] 명령하시는 대로, 피해 보겠습니다.|I will attempt to evade as you command.
+15256||RPGSystem#rpg-loc-dialogue-floor-3.json] <…자신 없긴 한데, 좋아. 다시 가보자.>|<... Yeah... my command's the part where I'm not so confident about. But fine, let's try this again.>
+15257||RPGSystem#rpg-loc-dialogue-floor-3.json] <생각보다 터지는 게 빠르네…>|<Whoa. That thing blew up much sooner than I'd expected.>
+15258||RPGSystem#rpg-loc-dialogue-floor-3.json] …썩 듣기 좋은 소리는 아니군.|... That wasn't a very pleasant noise.
+15259||RPGSystem#rpg-loc-dialogue-floor-3.json] 관리자님, 괜찮으십니까?|Are you unhurt, Executive Manager?
+15260||RPGSystem#rpg-loc-dialogue-floor-3.json] <소름 끼치는 소리긴 했지만… 나는 멀쩡해.>|<I'm a bit rattled by the noise, but... otherwise unhurt.>
+15261||RPGSystem#rpg-loc-dialogue-floor-3.json] <뫼르소의 머리가 터져버린 게 문제지…>|<Meursault, on the other hand... got his head exploded.>
+15262||RPGSystem#rpg-loc-dialogue-floor-3.json] 머릿속이 무언가로 가득 차서 부풀어 오르는 듯한 감각이었습니다.|It felt as though something were slowly filling and inflating my head.
+15263||RPGSystem#rpg-loc-dialogue-floor-3.json] 묵묵하게 감상을 말하는 뫼르소의 옆으로 싱클레어가 멋쩍게 머리를 긁적였다.|Hearing Meursault's placid description of that horrible death, Sinclair scratched the back of his head and awkwardly chimed in.
+15264||RPGSystem#rpg-loc-dialogue-floor-3.json] 아… 저는 오티스 씨가 귀를 막으라고 말해주셔서 괜찮아요.|Ah... I'm glad I didn't have to go through that. Thanks for telling me to plug my ears, Miss Outis.
+15265||RPGSystem#rpg-loc-dialogue-floor-3.json] <다행이네. 그럼… 조금만 쉬었다가 다시 밖으로 나가자.>|<That's good. Then... Let's take five and head out again.>
+15266||RPGSystem#rpg-loc-dialogue-floor-3.json] 무엇이죠? 누가 저를 때리고 있는 거죠?|Huh? What's happening? Who's hitting me?
+15267||RPGSystem#rpg-loc-dialogue-floor-3.json] 아아… 목소리여, 도와주세요… 눈이 뽑히고 다리가 묶인 것도 모자라 저는 이유도 모르고 무참히 죽어가고 있어요!|Ooh... Voice, help me... Was becoming blinded and nailed not enough? Must I now be killed by the hands of an assailant who refuses me even the courtesy of telling me what I'm dying for?
+15268||RPGSystem#rpg-loc-dialogue-floor-3.json] 수많은 손에 둘러싸인 그것은 아무 반응이 없다.|It remains silent, enveloped under a cocoon of numerous hands.
+15269||RPGSystem#rpg-loc-dialogue-floor-3.json] 역시… 돌아와줬네. 기다리고 있었어.|Ah... You've returned. We've been waiting for you.
+15270||RPGSystem#rpg-loc-dialogue-floor-3.json] <어차피 우리도 2층에서 옷을 살 수 있어야 5층으로 나아갈 수 있다고 했으니까…>|<Well... our goals seem to align anyway. We need those Luxury clothes from the second floor to be admitted to the fifth floor.>
+15271||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리도 목적은 같다.|Our goals align.
+15272||RPGSystem#rpg-loc-dialogue-floor-3.json] 후, 눈물겨운 조력이네.|*sigh* Much obliged.
+15273||RPGSystem#rpg-loc-dialogue-floor-3.json] 황금원단은 우리도 종종 취급했었어… 수선사에게 의뢰하면 정말 가끔씩 우리 작품에 가져다 쓸 수 있었지.|We're not entirely unfamiliar with the Golden Fabric—we've even used it for some of our works, though we had to commission the Alterationist for it.
+15274||RPGSystem#rpg-loc-dialogue-floor-3.json] 문제는 그 원단의 재료가 된다는 황금 실타래인데… 우리도 그걸 어디서 얻어오는지까진 모르거든.|The tricky part's going to be the Golden Skein, though... I have no idea where that's sourced from.
+15275||RPGSystem#rpg-loc-dialogue-floor-3.json] 아, 그건 이 쪽지에 있는 레시피대로면… 고치에게서부터 얻는 걸지도 모르겠네요.|According to the recipe on the note... we might be able to get it from some kind of cocoon.
+15276||RPGSystem#rpg-loc-dialogue-floor-3.json] 그렇다면 황금고치를 통해서 황금 실타래를 얻는다라고 볼 수 있겠군. 이봐 플라넬, 고치는 주로 어디에서 볼 수 있었지?|That means you're going to need the Golden Cocoon to obtain the Golden Skein. Flannel, where do people usually come by the cocoons?
+15277||RPGSystem#rpg-loc-dialogue-floor-3.json] 고치는 지하 1층… 허, 지하?|The cocoon can be found on B1... Huh. The basement floors?
+15278||RPGSystem#rpg-loc-dialogue-floor-3.json] 지하…! 저층으로 가는군. 그렇다면 지하 2층의 플로어 매니저도 거치는 것인가. 그렇다면 황금 실타래를 어떻게 만들지도 예상이 되는군.|B1F...! I see, this journey will bring you to the subterranean floors. Then I presume you will be dealing with B2's Floor Manager as well... which answers the question concerning how the Golden Skein is to be spun.
+15279||RPGSystem#rpg-loc-dialogue-floor-3.json] 어… 뭔가 위험한 곳인가요?|Uh... Is it dangerous down there?
+15280||RPGSystem#rpg-loc-dialogue-floor-3.json] 4층의 르누아르에게 우리의 말을 전해준 건가?|Did you relay our message to the Noirs on the fourth floor?
+15281||RPGSystem#rpg-loc-dialogue-floor-3.json] 위험하다기보다는… 흔치 않은 분위기를 가진 곳이라고 해야겠군.|Not dangerous per se, but... certainly <i>unique</i> in its atmosphere.
+15282||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리도 정말 간혹, 정말 드물게 원사를 선점하기 위해 들를 뿐인데… 그곳은 대단히, 흠… 원초적인 곳이거든.|We have been down there a few times before, yes. But only to lay an early claim to the raw fibers... That place is, hm, you see, quite <i>primal</i>.
+15283||RPGSystem#rpg-loc-dialogue-floor-3.json] 아무튼, 고치를 얻으면 지하 2층을 들러봐. 그 플로어 매니저는 마침 우리 르누아르와 오랜 시즌을 함께해 온 협력자이니, 감정평가서를 보여주면 협력할 거야.|Anyway, I suggest you explore B2 once you acquire the cocoon. B2's Floor Manager is a long-time collaborator of the Noirs, so I'm sure it'll all go smoothly as long as you bring the Authenticity Certificate with you.
+15284||RPGSystem#rpg-loc-dialogue-floor-3.json] 아, 그리고 못은… 기다란 뼈 정도면 될 텐데… 이건, 뭐가 적합할지 고민해 봐야 할 것 같군.|As for the "Nail"... A long piece of bone should do, but... which one? We'll have to think about it.
+15285||RPGSystem#rpg-loc-dialogue-floor-3.json] 역겨운 반대편 르루주 놈이 쓸 만하겠지. 그 척추뼈를 뽑아 대못으로 쓰면 그나마 값어치를 할 것이라고, 예전부터 생각했었으니까.|I say it's about time we made use of that revolting Rouge on the other end of this floor. I've always thought her spinal cord would come in useful as a long nail.
+15286||RPGSystem#rpg-loc-dialogue-floor-3.json] 어느 쪽이든 여태 얻어본 적 없는 물건 같군.|Neither is in our possession, nor have we seen anything like it before.
+15287||RPGSystem#rpg-loc-dialogue-floor-3.json] 들러야 할 곳도 제각각이라, 고생 좀 할 것 같은데…|It's going to be a very roundabout journey, with all the pieces scattered throughout the floors.
+15288||RPGSystem#rpg-loc-dialogue-floor-3.json] 눈알은 두둑하게 챙겨주도록 할 테니… 다녀와 주길 부탁하지.|And of course, we will be sure to compensate you handsomely with eyeballs.
+15289||RPGSystem#rpg-loc-dialogue-floor-3.json] <둘에게 협조한다면… 5층에 올라가기 걸맞은 옷을 얻을 수 있을지 물어봐 줘.>|<Can you also ask them, once we're done carrying out their tasks, if they'll let us have some clothes from the second floor so we can get onto the fifth?>
+15290||RPGSystem#rpg-loc-dialogue-floor-3.json] 관리자님께서, 이 협력의 결과로 5층에 올라가는 게 가능할지 물어보시는군.|The Executive Manager would like to ask the two of you if this collaboration would secure us access to the fifth floor.
+15291||RPGSystem#rpg-loc-dialogue-floor-3.json] 그렇다.|We did.
+15292||RPGSystem#rpg-loc-dialogue-floor-3.json] 그건 확실하지 않지만… 르누아르는 이 공을 크게 살 것이다.|I can't guarantee that, unfortunately, but... I promise that you will have Le Noir's eternal gratitude.
+15293||RPGSystem#rpg-loc-dialogue-floor-3.json] 내가 할 수 있는 것이라곤 감정평가서를 써서 보내 보는 일 정도겠지만…|It is not within my authority to grant you anything of the like, but I can write you another Authenticity Certificate for this collaboration, at the very least.
+15294||RPGSystem#rpg-loc-dialogue-floor-3.json] 최대한 협력할 수 있도록 하지.|I'll be sure to pull all the strings I have and put in as good a word as I can to the other Noirs.
+15295||RPGSystem#rpg-loc-dialogue-floor-3.json] <…좋아. 그럼 할 건 정해진 것 같네.>|<... Good enough for me. Let's go.>
+15296||RPGSystem#rpg-loc-dialogue-floor-3.json] 고맙군… 그들이 뭐라고 하던가?|Much appreciated... Did they have anything to say about it?
+15297||RPGSystem#rpg-loc-dialogue-floor-3.json] 이것을 전달해달라고 말했다.|The Noirs on the fourth floor wanted us to deliver this to you.
+15298||RPGSystem#rpg-loc-dialogue-floor-3.json] 초조해하는 르누아르의 직원에게 우리가 아는 정보를 전달해주었다.|Along with the note, we relayed what we learned from the fourth floor as the two Noirs listened anxiously.
+15299||RPGSystem#rpg-loc-dialogue-floor-3.json] 목소리를 잃은 르루주들이 명품관에 숨어들어 새로운 목소리를 만들고 있다니…|Le Rouge, abandoned by their Voice, is conspiring within the Luxury Hall to give life to a new Voice...?
+15300||RPGSystem#rpg-loc-dialogue-floor-3.json] …그리고 그들의 목표이자 숙원을 저지하기 위해 전부 찢을 수 있는 것은… 황금원단과 못.|... I see... And an implement made of "Nail" and Golden Fabric is needed if we're to have any hope of stopping their vile plan from coming to fruition.
+15301||RPGSystem#rpg-loc-dialogue-floor-3.json] 확실하군. 상층의 고귀한 자의 이야기대로면… 그 새로운 목소리를 사전에 찢어놓는 것으로 명품관을 르누아르의 것으로 만들 수 있을 것이다.|If it really is as the noble one on the upper floor says, then our path forward is clear. ... We can claim the Luxury Hall as Le Noir's by tearing apart that new "Voice" of theirs before it is born.
+15302||RPGSystem#rpg-loc-dialogue-floor-3.json] …이방인들, 또 도움을 구할 수 있을까.|... I hate to ask again, but we are in need of your assistance once again, strangers.
+15303||RPGSystem#rpg-loc-dialogue-floor-3.json] <이제 남은 건… 못인가.>|<And now...we just need the "Nail" to complete this.>
+15304||RPGSystem#rpg-loc-dialogue-floor-3.json] 르누아르 매장에서… 못은 이 층에 있는 르루주의 척추…로 적합할 거라고 했었습니다.|According to the Noir employees, the Rouge vendor's... spinal cord... would make a decent long nail.
+15305||RPGSystem#rpg-loc-dialogue-floor-3.json] <음… 일단 그자에게 가보자…>|<Hm... Well, let's go check up on her, then.>
+15306||RPGSystem#rpg-loc-dialogue-floor-3.json] <…아까보다 뒤틀림이 더 심해지고 있는 것 같아.>|<... I think her Distortion's getting worse...>
+15307||RPGSystem#rpg-loc-dialogue-floor-3.json] 안에서 말소리가 들려오고 있는 것 같아요…|<I can hear something from the inside. Muttering...>
+15308||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>너희가 내린 선택의 결과야. 이렇다니까. 주의하지 않는 사이에 무수한 작은 변화들이 축적되다가, 어느 날 사건이 발생하는 거지.</color>|<color=#ebcaa2>Witness the culmination of your choices. Events follow events without rhyme or reason in a vaguely-defined series of additions until, one day, it <i>happens</i>.</color>
+15309||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>저자는 지금까지 맞지 않는 옷을 입고 있었던 거야.</color>|<color=#ebcaa2>This one's been squeezing herself into an ill-fitting outfit.</color>
+15310||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>아니면… 이제서야 자신의 치수를 찾은 걸 수도 있고. 익숙해지면 불편한 옷도 불편하다고 느끼지 못하거든.</color>|<color=#ebcaa2>Or maybe she's only now learned of her exact measurements? Familiarity's a powerful thing... It can acclimatize you to even the most uncomfortable of outfits.</color>
+15311||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>마 퓌스, 기억나? 내가 몸에 맞지 않던 초록색 원피스를 입고 왔을 때 한참 동안 당신한테 불평을 엄청 쏟아 냈었잖아.</color>|<color=#ebcaa2>Remember, ma puce? The ill-fitting green dress I wore to our date. Remember how long I complained?</color>
+15312||RPGSystem#rpg-loc-dialogue-floor-3.json] 빨리 이 실을 수선실에 전달하는 것이 좋을 것 같다.|Should probably get this skein to the Alteration Shop as soon as possible.
+15313||RPGSystem#rpg-loc-dialogue-floor-3.json] 르루주 직원을 만나 봐야 하지 않을까?|Should probably visit the Rouge vendor.
+15314||RPGSystem#rpg-loc-dialogue-floor-3.json] 더 이상 움직이지 않는 르루주에게서 척추를 뽑아냈다.|Ripped the spine off the Rouge who'd stopped moving.
+15315||RPGSystem#rpg-loc-dialogue-floor-3.json] 으윽… 뽑아내는 게 여간 쉽지가 않네요…|Ugh... didn't know it was this hard to remove a spine.
+15316||RPGSystem#rpg-loc-dialogue-floor-3.json] …시체에서부터 뽑은 뼈를 못이라고 부르는 건가.|... So, this is what they meant by "nail"? A spine removed from a corpse?
+15317||RPGSystem#rpg-loc-dialogue-floor-3.json] 그렇다. 이것을 못이라고 정의하는 것이다.|It is <i>defined</i> as a nail.
+15318||RPGSystem#rpg-loc-dialogue-floor-3.json] 우리는 르루주로부터 구한 못에 황금원단을 둘렀다.|We draped the Golden Fabric around the nail we took from the Rouge.
+15319||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 드디어 화장실에서 벗어날 수 있다니, 아아… 이토록 감개무량할 때가…|Ah... At last, to be graced with the sweet release from the gaol that was the restroom...
+15320||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그렇게 마음대로 주워도 되는 것인가…?|"Picked up" a child, thou sayest...?
+15321||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 암묵적인 합의는 이뤄냈다.|There was a mutual consent of unspoken nature.
+15322||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <르루주 쪽에서 부탁을 했어, 이것을 5층까지 데려가 달라고…>|<The Rouges requested that we bring them to the fifth floor...>
+15323||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 오오, 부탁을! 그것은 의뢰와도 마찬가지겠군! 반갑네! 본인은 돈키호테일세! 장차 최고의 해결사가 되는 것이 꿈이지! 그대는 누구인가!?|Ooh, a re<i>quest</i>, thou sayest? This be a contract, then! Well met, I am Don Quixote! 'Tis my dream to become the best Fixer there is! And whoever might thou be?!
+15325||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 누, 누구인가…?|W-whomst...?
+15326||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 우… 으…|Uuh... eeh...
+15328||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그… 관리자 나리가 대신 소개해 주면 안 되겠는가…? 그래도 뭐라고 부를지 이름 정도는 알아야 할 터인데…|Eh, Manager Esquire? Wouldst thou do the honors of introduction...? I would much like to call this child by a name, though they might not speak their own...
+15330||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <그, 그러게…>|<H-huh, we never asked their name...>
+15331||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 설마 지금까지 이름을 몰랐다는 말인겐가!? 그럼 도당체 여지껏 무엇이라 불렀기에!?|Hoh?! Hast thou traveled so long with this child and thought not to ask their name!? Pray, just <i>what</i> have you been calling this child thus far?!
+15332||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너무하셨어요, 단테님. 그래도 함께 다녀야 할 분인데 제대로 된 이름은 알아두셨어야죠.|That's a bit insensitive, Dante. They're someone who'll be coming along with us on this journey—the least we could do is try to learn their name, even if it's only for a short while.
+15333||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <브랜드 디렉터… 그자에게 이름을 듣질 못했어…>|<The Brand Director... didn't tell us the kid's name...>
+15334||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <뭐, 뭐라고 불러야 하지? 우리가 지어줘야 하나?>|<U-uhm, what should I call this kid? Should we name them?>
+15335||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으음… 우선 직접 물어볼까요? 아직 말을 다 떼지 못한 분들도, 자기 이름은 때때로 발음하시기도 하거든요.|Hmm... Why don't we ask them? Even children who are still learning how to speak sometimes know how to pronounce their own names.
+15336||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …일리가 있군.|... That is a reasonable conjecture.
+15337||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 후후, 안녕하세요~|Fuhu, hello there~
+15338||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이름을 알려주었으면 한다.|We would like you to tell us your name.
+15339||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으으…|Buu...
+15340||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 쁘…|Pwuh...
+15341||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 쁘우이|Pwuh-Pwuhie...
+15342||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 우이…|Pwie...
+15343||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아하, 귀여운 이름이네요~|Aha! What an adorable name you have~
+15344||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이라고 하나봐요, 단테님.|I think their name is Pwie, Dante.
+15345||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 오오오, 좋은 이름이지 않는가, 뿌이 군!|Oooh, what a whimsical name thou hast, young Pwie!
+15346||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <방금… 이름을 다 말하긴 한 거였어?>|<Uhm... Are you sure that's their full name?>
+15347||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 관리자 나리… 편협하게 생각하면 안 된다네… 모든 이름은 다 고귀하고 가치가 있는 것이니…|Such narrow-mindedness! Expand the horizons of thy mind, Manager Esquire, for all names are noble and worthy of their breaths!
+15348||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <괜히 훈계만 들었네…>|<Yeah, yeah... Thanks for the lecture.>
+15349||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 흠흠, 우리의 모험에 동참하게 된 것을 환영하네, 뿌이 군!|Ahem! I welcome thee with open arms into our adventuring party, young Pwie!
+15350||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 결코 만만치 않을 것이야, 하지만 이 돈키호테와 함께라면 어떤 역경도…|I must warn thee afore we are to proceed: the journey ahead shall be fraught with danger! Yet worry thee not—for no matter the hardship, I, Don Q—
+15351||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그런데 아까부터 왜 그렇게 멀리 있는 것인가? 낯가림이라도 하는 것이오?|... Wherefore is it that thou standest at such a distance, young Pwie?
+15353||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <무서워하는 것 같아…>|<I think they're afraid...>
+15354||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아니, 어째서인가?|Afraid? Wherefore?

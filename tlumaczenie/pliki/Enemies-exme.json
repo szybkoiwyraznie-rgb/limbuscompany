@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=1448].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1448].name": {
+      "pl": "Ch'unokkun - Incapacitate",
+      "kr_sha256": "38a440655dd2ba32b9e796db84f715d76551c11ce28dd48e7538a040dc20685e",
+      "en_sha256": "a22c16aaca86f5bd90d6258fed91dd9b81cf8f22a73a5f679867aa6b46b8b413",
+      "origin": "ai"
+    },
+    "dataList[id=1449].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1449].name": {
+      "pl": "Ch'unokkun - Bind",
+      "kr_sha256": "725ad573931d86f2886ae908b99b7b971d41d6d7f2d459e5f8c459d6a5240471",
+      "en_sha256": "d1f8450182c669d1cbf20abe703ce89bb92b7abc03e555336a9a7db3e033b57a",
+      "origin": "ai"
+    },
+    "dataList[id=1450].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1450].name": {
+      "pl": "Flash Phenomenon - Im Gyeong-eop",
+      "kr_sha256": "2f39cf59b309777cea05e53b7cc4d0bfd595add4e222024e32dc047ebb799872",
+      "en_sha256": "b75c86a56f1fbf03ad8c579bc2931fe1d34a0b21db6b36a5c9de1201f817ac90",
+      "origin": "ai"
+    },
+    "dataList[id=1451].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1451].name": {
+      "pl": "Imagined Im Gyeong-eop",
+      "kr_sha256": "e4ca4530227b5e0144eff21dd5f9ff7e44a3342392b455296378a660d0911d4a",
+      "en_sha256": "6b31dba8c5814a5bc507ab3028b0c4568a6aa852d0a25df3ecc4ae2e1a120d96",
+      "origin": "ai"
+    },
+    "dataList[id=1452].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1452].name": {
+      "pl": "Icy N Corp. Class 2 Staff",
+      "kr_sha256": "eaef4844f58b99f64a8fa6d40c412e59d5babd3fa62b4570925b3b9eeaf7e2df",
+      "en_sha256": "6dcd98c5b68d28b7791756a5c73700a7526c3f18f9e92da2bfb0bfb966b1b52d",
+      "origin": "ai"
+    },
+    "dataList[id=1453].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1453].name": {
+      "pl": "Reticent N Corp. Class 2 Staff",
+      "kr_sha256": "62c965a54a64256be21d88b458fa919c7410d31ffb60424a9ece72ca12263840",
+      "en_sha256": "7bc83363435a071bd85c2dbc0b97c0e5e02902f4f854e1665bb34cb83abe7a16",
+      "origin": "ai"
+    },
+    "dataList[id=91057].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91057].name": {
+      "pl": "Hateful Blade Lineage Salsu",
+      "kr_sha256": "5641359993f0a6d8fc3ead5002575359edc17a94b56d37552febf32cbb2db32e",
+      "en_sha256": "08c87c8c90b833f06bf46419e123a36dcff32b1e8f6f0e91d06a223d2d795947",
+      "origin": "ai"
+    },
+    "dataList[id=91058].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91058].name": {
+      "pl": "Resentful Blade Lineage Salsu",
+      "kr_sha256": "0557cd977cd81378edf2124a5cd5cd101c4b81d12ce24d7131bb8f72a021c895",
+      "en_sha256": "e65a209822c02b52806e66f12124868de0bc7ad03c724431ffaed1309e63a820",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=nightCleanUp_reward_popup_num_of_owned_items].content": {
+      "pl": "Liczba posiadanych przedmiotów",
+      "kr_sha256": "ca6f20373ec6b4dc103bd49676601983319e3d49475254f0dc67ec56ed4f82d1",
+      "en_sha256": "40924e91b5594bcf8980840f8d6fb60e4ed9dd81358d663c02a7f27a0bd00379",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_bonusUIDesc].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane Tożsamości, zwiększasz zdobywanie <color=#625aff>[Kanistrów Płynnego Paliwa Sprzątacza]</color>.\nSuma wzrostu zdobyczy może osiągnąć maksymalnie <color=#625aff>120%</color>.",
+      "kr_sha256": "bab02a8641e9a9f133180e2c50848d409c2fee1f545f77f52e1783f03b94c484",
+      "en_sha256": "bfb3c03bede921074f9c8b7141881187e46bd6d26071fef3abeb56a43b4e7925",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_bonus_popup_title].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_rewardShopButton].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_scrap_guide_desc].content": {
+      "pl": "Ukończoną pierwsze etapy wydarzenia i Głównej Opowieści albo Lustrzane Lochy, zdobywasz <color=#625aff>[Kanister Płynnego Paliwa Sprzątacza]</color>, a z pewnym prawdopodobieństwem dodatkowo <color=#625aff>[Wielki Zbiornik Płynnego Paliwa]</color>.\n\n<color=#625aff>[Wielki Zbiornik Płynnego Paliwa]</color> od razu zamienia się na 20 <color=#625aff>[Kanistrów Płynnego Paliwa Sprzątacza]</color>.",
+      "kr_sha256": "fbedeab762947e0e42ab55ab4748cdbfc7a28d2081dff4a97ddd98a8835c7bf6",
+      "en_sha256": "a1cfa3989fdcd0459edea45e64fc5e419ba5d02e5e18fb861d1af8ebca8ff65b",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_scrap_guide_title].content": {
+      "pl": "Informacje o walucie wydarzenia",
+      "kr_sha256": "cbeab819cdf99d729fa7db1f9bff96b409a22df700287972151eb04f950d0eda",
+      "en_sha256": "8f0c8a131e41638cfd4afe7b13d020121cf950f5bc9d4c6e0e44e0a5fef797bc",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_stage_button_default].content": {
+      "pl": "Etap",
+      "kr_sha256": "d3fce9c9851dcea8c8256dfc81df5b4eed21aacc6c226fd819c77b77b8139df7",
+      "en_sha256": "3a17aa4e4abb73f667b9a0796216db5abed121ac5a745ab1f4b519fc837ce354",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_stage_button_end_event].content": {
+      "pl": "Zakończenie okresu wydarzenia",
+      "kr_sha256": "b54ce6259c86e50ae5d93bc0d651caa89288d0752e088bbc7d4c9b54bfa74d34",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_stage_button_locked].content": {
+      "pl": "Odblokowanie po ukończeniu 7.5-14",
+      "kr_sha256": "ee0e5d91b22f341bb893649a16c3e0dd86e9acda7eb079cee2bd2399782dcfa3",
+      "en_sha256": "f95a4789830ac70b583d98159d9b46ce94083fc1e9562b183608c88329f5f9ca",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_storybutton_default].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    },
+    "dataList[id=night_clean_up_storybutton_start].content": {
+      "pl": "<size=75%>Odblokowanie po obejrzeniu pierwszej\nfabuły wydarzenia</size>",
+      "kr_sha256": "aac35011096df2e4e65e55e6a19d39017713b99086faa9cd2644b0c64ac14699",
+      "en_sha256": "373b5f96c8b4ae96426d5770bafedf1f3bb75aeb66805e733c370f6c9ba6c062",
+      "origin": "ai"
+    },
+    "dataList[id=nightcleanup_reward_popup_desc].content": {
+      "pl": "Ukończoną pierwsze etapy wydarzenia i Głównej Opowieści albo Lustrzane Lochy, zdobywasz <color=#e50000>[Kanister Płynnego Paliwa Sprzątacza]</color>.\n\nW oknie <color=#e50000>[Wymiany nagród]</color> możesz kupić różne nagrody za zebrane <color=#e50000>[Kanistry Płynnego Paliwa Sprzątacza]</color>.",
+      "kr_sha256": "3ce8433b04d07d05a72d849a61d4a64be8ad6f1517f520406d7fe05d6a8dca19",
+      "en_sha256": "5def6ffd330925030ebc79275cb8a138f1962c52e73d4b8a9f3cfd60c09eedab",
+      "origin": "ai"
+    }
+  }
+}

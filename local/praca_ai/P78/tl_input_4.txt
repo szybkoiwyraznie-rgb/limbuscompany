@@ -1,0 +1,131 @@
+1108||Wróg / część [90052] — nazwa] 당당한 장미스패너 공방 해결사|Prideful Rosespanner Workshop Fixer
+1110||Wróg / część [90053] — nazwa] 떨고있는 장미스패너 공방 해결사|Shaking Rosespanner Workshop Fixer
+1112||Wróg / część [91008] — nazwa] 장미스패너 공방 대표 니코|Rosespanner Workshop Rep Niko
+1114||Wróg / część [90054] — nazwa] 위협받는 K사 1등급 직원|Threatened K Corp. Class 1 Staff
+1116||Wróg / część [90055] — nazwa] 불안한 K사 1등급 직원|Unnerved K Corp. Class 1 Staff
+1118||Wróg / część [90056] — nazwa] 해킹된 K사 재생 드론|Hacked K Corp. Regen Drone
+1122||Wróg / część [90058] — nazwa] 로보토미 E.G.O::출렁임|Lobotomy E.G.O::Sloshing
+1124||Wróg / część [90059] — nazwa] 로보토미 E.G.O::홍적|Lobotomy E.G.O::Red Sheet
+1130||Wróg / część [91009] — nazwa] 로보토미 E.G.O::홍적 - 마리르|Lobotomy E.G.O::Red Sheet - Marile
+1132||Wróg / część [90062] — nazwa] 되살아난 로보토미 E.G.O::출렁임|Reawakened Lobotomy E.G.O::Sloshing
+1134||Wróg / część [90063] — nazwa] 되살아난 로보토미 E.G.O::홍적|Reawakened Lobotomy E.G.O::Red Sheet
+1136||Wróg / część [90064] — nazwa] 되살아난 K사 검문소 요원|Revived K Corp. Security
+1140||Wróg / część [90066] — nazwa] 되살아난 K사 1등급 직원|Revived K Corp. Class 1 Staff
+1144||Wróg / część [90068] — nazwa] 되살아난 K사 3등급 직원|Revived K Corp. Class 3 Staff
+1146||Wróg / część [90069] — nazwa] 되살아난 K사 3등급 직원 - 강화|Revived K Corp. Class 3 Empowered Staff
+1148||Wróg / część [90070] — nazwa] 심상속 T사 징수직 3등급 직원|Imagined T Corp. Class 3 Collector
+1150||Wróg / część [91010] — nazwa] 되살아난 로보토미 E.G.O::홍적 - 마리르|Reawakened Lobotomy E.G.O::Red Sheet - Marile
+1152||Wróg / część [90071] — nazwa] K사 구속 드론|K Corp. Arrest Drone
+1156||Wróg / część [90073] — nazwa] 두려워하는 K사 검문소 요원|Terrified K Corp. Checkpoint Security
+1158||Wróg / część [90074] — nazwa] 떨고있는 K사 검문소 요원|Shaking K Corp. Checkpoint Security
+1160||Wróg / część [90075] — nazwa] 굳어있는 K사 검문소 요원|Stiffened K Corp. Checkpoint Security
+1162||Wróg / część [90076] — nazwa] 눈치보는 K사 검문소 요원|Timid K Corp. Checkpoint Security
+1164||Wróg / część [8055] — nazwa] 만개한 꽃|Fully Bloomed Flower
+1170||Wróg / część [8056] — nazwa] 허영의 나무|Tree of Vanity
+1172||Wróg / część [805601] — nazwa] 허영의 열매|Fruit of Vanity
+1174||Wróg / część [8057] — nazwa] 응어리가 맺힌 나무|Resentful Tree
+1176||Wróg / część [805701] — nazwa] 응어리|Resentment
+1178||Wróg / część [8060] — nazwa] 욕망의 나무|Tree of Desires
+1180||Wróg / część [806001] — nazwa] 욕망|Desire
+1184||Wróg / część [8058] — nazwa] 요정초롱|Faelantern
+1192||Wróg / część [8061] — nazwa] 흡수하는 나무|Absorbing Tree
+1194||Wróg / część [806101] — nazwa] 나무|Tree
+1202||Wróg / część [8059] — nazwa] 키다리 요정|Fairy-Long-Legs
+1234||Wróg / część [8062] — nazwa] 거대한 잎사귀|Giant Leaf
+1238||Wróg / część [8075] — nazwa] 울음 두꺼비|Blubbering Toad
+1242||Wróg / część [807502] — nazwa] 왼쪽 눈|Left Eye
+1244||Wróg / część [807503] — nazwa] 오른쪽 눈|Right Eye
+1246||Wróg / część [8076] — nazwa] kqe-1j-23|kqe-1j-23
+1250||Wróg / część [8077] — nazwa] 마을 주민의 심장|Heart of the Townsfolk
+1252||Wróg / część [807701] — nazwa] 심장|Heart
+1254||Wróg / część [8078] — nazwa] 나는 비워내느니|My Form Empties
+1256||Wróg / część [807801] — nazwa] 불상|Buddha Mūrti
+1258||Wróg / część [807802] — nazwa] 석좌|Stone Seat
+1260||Wróg / część [8079] — nazwa] 이끌린 귀도|Lured Guido
+1264||Wróg / część [8080] — nazwa] 이끌린 아이드|Lured Aida
+1268||Wróg / część [8081] — nazwa] 이끌린 짓물린 G사 부장|Lured Festered G Corp. H. Manager
+1284||Wróg / część [90082] — nazwa] K사 3등급 적출직 직원|K Corp. Class 3 Excision Staff
+1285||Wróg / część [90082] — opis] 적|Enemy Unit
+1338||Wróg / część [8092] — nazwa] 키다리 요정|Fairy Longlegs
+1366||Wróg / część [8263] — nazwa] 여왕 요정|Fairy Queen
+1374||Wróg / część [8264] — nazwa] 요정 덩이|Fairy Mass
+1390||Wróg / część [1058] — nazwa] 어느 날의 초상|Portrait of a Certain Day
+1392||Wróg / część [1059] — nazwa] 초상화|Portrait
+1396||Wróg / część [1061] — nazwa] 꿈꾸는 전기양|Dreaming Electric Sheep
+1398||Wróg / część [1062] — nazwa] 발전기|Generator
+1400||Wróg / część [1063] — nazwa] 묶인 왕|The King in Binds
+1412||Wróg / część [1222] — nazwa] 흉탄의 사수|Der Fluchschütze
+1414||Wróg / część [1174] — nazwa] 지난 날의 침낭|Sleeping Bag of a Bygone Day
+1416||Wróg / część [1175] — nazwa] 사백송이의 장미|Four-hundred Roses
+1422||Wróg / część [90077] — nazwa] 날카로운 크랲게|Sharp Trash Crab
+1424||Wróg / część [90078] — nazwa] 뾰족한 크랲게|Pointy Trash Crab
+1426||Wróg / część [90079] — nazwa] 딱딱한 크랲게|Hard Trash Crab
+1428||Wróg / część [90080] — nazwa] 잔탄 크랲게|Cannoneer Crab
+1430||Wróg / część [90081] — nazwa] 포검 크랲게|Bayonet Artillery Crab
+1432||Wróg / część [8063] — nazwa] 킹크랲게|King Trash Crab
+1436||Wróg / część [806302] — nazwa] 소라|Shell
+1458||(ulepszenie 1) — nazwa] 방어|Guard
+1459||(ulepszenie 1) — nazwa] 회피|Evade
+1460||(ulepszenie 1) — nazwa] 반격|Counter
+1462||(ulepszenie 1) — nazwa] 불신|Distrust
+1463||(ulepszenie 1) — nazwa] 빛바랜 줄기|Pale Stem
+1465||(ulepszenie 1) — nazwa] 뿌리 가시|Root Spike
+1466||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 출혈 횟수 3 증가|[OnSucceedAttackHead] Inflict +3 Bleed Count next turn
+1467||(ulepszenie 1) — nazwa] 모두의 아픔|Shared Pain
+1468||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 취약 1 부여|[OnSucceedAttackHead] Inflict 1 Fragile next turn
+1469||(ulepszenie 1) — nazwa] 허무의 열매|Vain Fruit
+1470||(ulepszenie 1) — nazwa] 물어뜯기|Nibble
+1471||(ulepszenie 1) — nazwa] 탐욕스러운 식사|Greedy Gluttons
+1472||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 체력 1 회복|[OnSucceedAttackHead] Heal 1 HP
+1475||(ulepszenie 1) — nazwa] 구르기|Roll
+1476||(ulepszenie 1) — nazwa] 나태한 손아귀|Slothful Grip
+1477||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 속박 3 부여|[OnSucceedAttackHead] Inflict 3 Bind next turn
+1478||(ulepszenie 1) — nazwa] 지지기|Sear
+1479||(ulepszenie 1) — nazwa] 폭발하는 분노|Explosive Wrath
+1480||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 화상 2 부여|[OnSucceedAttackHead] Inflict 2 Burn next turn
+1481||(ulepszenie 1) — nazwa] 내려치기|Slam
+1483||(ulepszenie 1) — nazwa] 땅울림|Quake
+1484||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 1 부여|[OnSucceedAttack] Inflict 1 Bind next turn
+1485||(ulepszenie 1) — nazwa] 산제물 의식|Live Offering
+1486||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count next turn
+1487||(ulepszenie 1) — nazwa] 타오르는 우주|Universe Aflame
+1488||(ulepszenie 1) — nazwa] 굳건한 제단|Stalwart Altar
+1490||(ulepszenie 1) — opis] [CantDuel] 아군을 타겟으로 지정|[CantDuel] Targets allies
+1491||(ulepszenie 1) — nazwa] 찌르기|Lunge
+1492||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 출혈 횟수 1 증가|[OnSucceedAttackHead] Inflict +1 Bleed Count next turn
+1493||(ulepszenie 1) — nazwa] 할퀴기|Claw
+1495||(ulepszenie 1) — nazwa] 고통스러운 찌르기|Severe Lunge
+1497||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 화상 횟수 1 증가|[OnSucceedAttackHead] Inflict +1 Burn Count next turn
+1498||(ulepszenie 1) — nazwa] 고통스러운 할퀴기|Raw Claw
+1501||(ulepszenie 1) — nazwa] 불 뿜기|Belch Fire
+1502||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 화상 1 부여|[OnSucceedAttack] Inflict 1 Burn next turn
+1503||(ulepszenie 1) — nazwa] 발아|Sprout
+1504||(ulepszenie 1) — nazwa] 황금 과실|Golden Fruit
+1505||(ulepszenie 1) — moneta 1, efekt 1 — opis] [DefeatDuel] 자신에게 피해 20|[DefeatDuel] Take 20 damage
+1506||(ulepszenie 1) — moneta 1, efekt 2 — opis] [DefeatDuel] 황금빛 1 잃음|[DefeatDuel] Lose 1 Golden Sheen
+1507||(ulepszenie 1) — nazwa] 단단한 황금|Solid Gold
+1508||(ulepszenie 1) — nazwa] 영양분 흡수|Absorb Nutrients
+1509||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 본체의 체력 3 회복|[OnSucceedAttack] Main body heals 3 HP
+1510||(ulepszenie 1) — nazwa] 허물어지는 과육|Deteriorating Flesh
+1512||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 취약 2 부여|[OnSucceedAttack] Inflict 2 Fragile next turn
+1513||(ulepszenie 1) — nazwa] 포획|Entangle
+1514||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 본체의 체력 10 회복|[OnSucceedAttack] Main body heals 10 HP
+1515||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed next turn
+1516||(ulepszenie 1) — nazwa] 일을 하자...|Let’s Get to Work…
+1517||(ulepszenie 1) — nazwa] 열심히!|Work Hard!
+1518||(ulepszenie 1) — opis] [WhenUse] 자신에게 피해 10.\n 스킬 위력 +1|[WhenUse] Lose 10 HP; Skill Power +1
+1519||(ulepszenie 1) — nazwa] 바빠...|So Busy…
+1520||(ulepszenie 1) — nazwa] 해치우자...|Best Get It Over With…
+1521||(ulepszenie 1) — nazwa] 부지런히!|Stay Diligent!
+1524||(ulepszenie 1) — nazwa] 일할 시간이다!|Worktime!
+1525||(ulepszenie 1) — nazwa] 일하자!|Get to Work!
+1526||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 신속 2 얻음|[OnSucceedAttack] Gain 2 Haste next turn
+1527||(ulepszenie 1) — nazwa] 신난다!!|So Excited!!
+1528||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신에게 피해 3|[OnSucceedAttack] Take 3 damage
+1530||(ulepszenie 1) — nazwa] 응☆징|PUNISH☆MENT
+1531||(ulepszenie 1) — opis] [WhenUse] 자신에게 피해 10.\n 스킬 위력 +2|[WhenUse] Lose 10 HP; Skill Power +2
+1532||(ulepszenie 1) — nazwa] 비.상.이.다!!!|E-MER-GEN-CY!!!
+1536||(ulepszenie 1) — nazwa] 방해하지마?!|Don’t Stop Me?!
+1537||(ulepszenie 1) — nazwa] 억압된 몸짓|Repressed Gesture
+1538||(ulepszenie 1) — nazwa] 조여드는 욕망|Constricting Desires
+1539||(ulepszenie 1) — nazwa] 분홍빛 춤|Rosy Dance

@@ -1,0 +1,118 @@
+{
+  "entries": {
+    "dataList[id=136601].desc": {
+      "pl": "przy pojawieniu się zyskuje 1~3 [RunHallway]\nna początku tury, przy 0 [RunHallway], używa Umiejętności „Herd Migration\"\n(jeżeli jednostka jest Oszołamiona, dochodzi do siebie z Oszołamienia przy aktywacji tego efektu)\n\njeżeli na polu bitwy jest „BunBun\", ta pasywka nie aktywuje się",
+      "kr_sha256": "1de0d690eaf8551718245925e08f21c55c3a378ee5a12a411889958e15ec87a8",
+      "en_sha256": "b3b3dbcba1c71bc74bc0b581723900a0626765da5ab0bef4f0108b09bc1a2c28",
+      "origin": "ai"
+    },
+    "dataList[id=136601].flavor": {
+      "pl": "„Ordeale różnią się znacznie od Anomalii — to wyraziste uosobienia intensywnych traum, losowo wyciąganych ze snów ludzkości płynących w najgłębszych zakątkach tego przedsiębiorstwa.\"",
+      "kr_sha256": "1f4b36b63a2594b40b6513863ee9bcbd70f4c14aa91281f6936811d05b41e09f",
+      "en_sha256": "6485343861a94f16b64db551d61da9b481cd41c54173760840422cd4657ad786",
+      "origin": "ai"
+    },
+    "dataList[id=136601].name": {
+      "pl": "Wandering Ordeal",
+      "kr_sha256": "3429f83b7fc0fa0649bd7b6bf40a67bfd5354efa68904c8af30a611224c84e25",
+      "en_sha256": "cb20b46b8c3176f0358ce78cd0c2adf422c5b803f4b64cd06a11553d6b738039",
+      "origin": "ai"
+    },
+    "dataList[id=136602].desc": {
+      "pl": "przy trafieniu atakiem w Typ obrażeń, wobec którego cel jest „Słaby\" lub „Fatal\" (Odporność > 1), nakłada 1 [Binding] w następnej turze (1 raz na Umiejętność)",
+      "kr_sha256": "6853841c8fdacce54a2b3eebee025dd2dab82ae7ff4e89fce993334a2cfdc618",
+      "en_sha256": "749559697e6dded24c440d52d8101445b108036320bbe6ef47517c08b5d6309c",
+      "origin": "ai"
+    },
+    "dataList[id=136602].flavor": {
+      "pl": "„Jak to? Taki pyszny napój nosi nazwę BongBong?\"",
+      "kr_sha256": "ebfdafdb662e5c2d234ad23e1fb973fd66dcb3044604f8e9f31bab8c4473481a",
+      "en_sha256": "a0fd3ad10aeac035e525504075ef0d54ef239bd248b956daf0815a1cf6813cce",
+      "origin": "ai"
+    },
+    "dataList[id=136602].name": {
+      "pl": "Tailored for the Palate",
+      "kr_sha256": "621c67d569da4a765fe3a049f452767b9d4637727f41e9d784c98047205e75f9",
+      "en_sha256": "d9d82e1c681aa20cd09ee109629bcbf3466691664358549f4193aa0ccc10d96a",
+      "origin": "ai"
+    },
+    "dataList[id=136603].desc": {
+      "pl": "nakłada 1 [PumpkinJelly] na cel, który pokonał tę jednostkę",
+      "kr_sha256": "34dee9864c674d901600e713ea42363883ef2bc23e34d1d6e4631845a60f6b2e",
+      "en_sha256": "6deff6c0917b95cc83ce759d57486a3abc4d8580d1ceddfb342fed4a712b37b0",
+      "origin": "ai"
+    },
+    "dataList[id=136603].name": {
+      "pl": "The Secret of Taste",
+      "kr_sha256": "00383baeed61334ebc135fb13c6dbd002e28d12c3cf35626b265d3e48f1c0c50",
+      "en_sha256": "f05787bf6c241beaf9c1774d91b81c265c820b6e6101807d5e8a5c7e22683d3a",
+      "origin": "ai"
+    },
+    "dataList[id=136901].desc": {
+      "pl": "na początku walki zyskuje 3 [RunHallway]\nna początku tury, przy 0 [RunHallway], używa Umiejętności „Herd Migration\"\n(jeżeli jednostka jest Oszołamiona, dochodzi do siebie z Oszołamienia przy aktywacji tego efektu)\n\njeżeli na polu bitwy nie pozostał żaden „BongBong\" poza „BongBongami przywołanymi przez tę jednostkę\", efekty Umiejętności „Herd Migration\" nie aktywują się, a jednostka zyskuje 3 [RunHallway] w następnej turze",
+      "kr_sha256": "42e97f5bffac335b7ba0aa4a38b4786c1dffc66d556cc496dc6b99bdc2b9ada1",
+      "en_sha256": "c4ea49142a76a615e9b121a11bb92e22be61db49249830f92ef8140e55295b7e",
+      "origin": "ai"
+    },
+    "dataList[id=136901].flavor": {
+      "pl": "„Te Ordeale wyskakują z tego mętno-białego dymu... a ten dym to w ogóle co, kapitanie?!\"",
+      "kr_sha256": "8a8be7625e0e07b14cdeae277c0ae947862d337516672f67ef1b10d72985d2c2",
+      "en_sha256": "d3b75138929702dee92cf740dda02fac0c97628d63a6d12e0619fff8aa1cdc23",
+      "origin": "ai"
+    },
+    "dataList[id=136901].name": {
+      "pl": "Wandering Ordeal",
+      "kr_sha256": "3429f83b7fc0fa0649bd7b6bf40a67bfd5354efa68904c8af30a611224c84e25",
+      "en_sha256": "cb20b46b8c3176f0358ce78cd0c2adf422c5b803f4b64cd06a11553d6b738039",
+      "origin": "ai"
+    },
+    "dataList[id=136902].desc": {
+      "pl": "gdy po wycofaniu tej jednostki upłyną 4 tury, „ta jednostka\" i wszystkie „BongBongi przywołane przez tę jednostkę\" wracają na pole bitwy w liczbie dostępnych slotów. Następnie zyskuje 3 [RunHallway]\n\njeżeli przy próbie powrotu wszystkie sloty bojowe są zajęte, wycofuje 1 losową jednostkę BongBong i wraca na pole bitwy.",
+      "kr_sha256": "e3776b5e46f33fb598675c8a51b8017812494e59af12744da307ddc1f4bec64b",
+      "en_sha256": "d05a97b9b03726d23c8aa8cb036e591fa779c81b4d169e574edc7f201e4b111b",
+      "origin": "ai"
+    },
+    "dataList[id=136902].name": {
+      "pl": "Lasting Ordeal",
+      "kr_sha256": "85b07fc0ff6db26f144201b32e4f4472b2f2c8073c1a9ea7305cdbd45de4f783",
+      "en_sha256": "eef674cdd7f7eb06730235da407918d1158bfc1614ba6bc6e4108fcc5bbd2563",
+      "origin": "ai"
+    },
+    "dataList[id=136903].desc": {
+      "pl": "przy otrzymaniu trafienia atakiem bez kontr, otrzymuje +100% obrażeń\npodczas Starcia z <color=#ff6000><mark=#ff000040><b><u>Umiejętnościami zużywającymi amunicję</u></b></mark></color> Moc Starcia -3, a wszystkie monety jej Umiejętności ataku zmieniają się w zwykłe monety.",
+      "kr_sha256": "3f5bc1fb24980267c128a7846caeb7c90b2215b6db2955affb403ddc90df2738",
+      "en_sha256": "46e0ba5e2336421761417f92db911dd1ecc39a8d8b6d8f59f7409ba80ec038aa",
+      "origin": "ai"
+    },
+    "dataList[id=136903].flavor": {
+      "pl": "„Wiem, że te gazowane bąble są pyszne, ale bądźcie ostrożni, dobrze? Są nieprzetworzone i mocno kwaśne. Kilka kropel musujących bąbli małych BongBongów może i nie jest groźne, ale polewaszcie się nierozcieńczonym płynem tych ogromnych BunBunów, roztopicie się w kałużę.\"",
+      "kr_sha256": "e389828d5de0c759d93a3a0e6ff8f80e368475abc0db5933e43b07422b03a08e",
+      "en_sha256": "b8cb506764a07abab35903dfca9df5a373b773acb00ee62c363bedde72aac937",
+      "origin": "ai"
+    },
+    "dataList[id=136903].name": {
+      "pl": "Fragile Orange Bubble",
+      "kr_sha256": "f55efaaab1bf3320e5bc77fc8f95d4aaf86751cdc1b20c0062af7555dd216def",
+      "en_sha256": "ba7145065eb21596b794420ca4dad3597e1d379f60abdb8fcff26455e1a1880f",
+      "origin": "ai"
+    },
+    "dataList[id=136904].desc": {
+      "pl": "przy pokonaniu wroga przywołuje 1 BongBong\nna koniec tury, przy 0 [RunHallway], przywołuje w następnej turze maksymalną liczbę BongBongów",
+      "kr_sha256": "56a03e14bd4b79ff799eae6a098d0ad807f33f00d9b4947381d2798e8897e8c7",
+      "en_sha256": "39b6c901f07370933c4de8a818639a96727fe7c7c1895fb15d3dd7bd8f6204fe",
+      "origin": "ai"
+    },
+    "dataList[id=136904].flavor": {
+      "pl": "„Ponoć przepis na tę gazowaną wodę to tajemnica firmowa. Mają swoją własną recepturę.\"",
+      "kr_sha256": "0e3f8acbef0a324d114f3460816652eecf3c805cb33b556985e19ae66d8b4341",
+      "en_sha256": "9c80079fd7f2bd1ae8edbec93fb72f89d8f3e0f36d066d9446785043cf8ab122",
+      "origin": "ai"
+    },
+    "dataList[id=136904].name": {
+      "pl": "Food Production",
+      "kr_sha256": "84015f12afdb656857c60a7016e156bb790c7d92378a48b2170009aa593d1a4b",
+      "en_sha256": "1023f33093b83c0bf7672c8220a81a097854a5aebe113b1b7b692b4e20d1c1fc",
+      "origin": "ai"
+    }
+  }
+}

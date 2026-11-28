@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=MRcAfBa].desc": {
+      "pl": "Gdy Nasiąknięta Bawełna znajduje się w stanie Czerwono Ubarwionej Bawełny, na koniec tury zyskuje Krwawienie równe połowie wartości Bawełny i Licznik Krwawienia",
+      "kr_sha256": "16adcbb8218285ada2d334e7dee93012ce310d8e3a14599c26fc323c88a05754",
+      "en_sha256": "c83f3d64691358315974cb02f15ff10d6855097886a9ba488ab046a22c556ba0",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAfBa].name": {
+      "pl": "Bawełna",
+      "kr_sha256": "f919c1f697c781d28eee9350c75d7e147bdf589120bc30b6ad7d652bf97b3575",
+      "en_sha256": "29ecfd8565ad600309bd454d970b973ecf0e8e419c53d577e7218ae27ecdceda",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAfBa].summary": {
+      "pl": "Na koniec tury zyskuje Krwawienie równe połowie wartości Bawełny i Licznik Krwawienia",
+      "kr_sha256": "f1a8fd0bd5db37d4d603b11d1de30ee9754a9aa266106f58ea22991859c601e2",
+      "en_sha256": "4765286b44790309514340026fc1b4f7467db8f0656570168561d0600cca943e",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAfBb].desc": {
+      "pl": "Na początek tury Krwawienie i Licznik Krwawienia nadawane przez Umiejętności ataku podwajają się.\nGdy cel posiada Bawełnę, Moc Starcia rośnie o połowę wartości Bawełny",
+      "kr_sha256": "3f5ddb6dfdc9e7ce9a2d1ffcd8671ec5ccbca50c245ac5fc07ba9a22f4ea1521",
+      "en_sha256": "8a493c9091ff1f7b0f032251bdf2fed193952203133353126af9e67baffe9c7f",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAfBb].name": {
+      "pl": "Czerwono Ubarwiona Bawełna",
+      "kr_sha256": "663c4c497f46dce8bda6da05e774cf6a0dd94f10dcf05fad425f733549dc2297",
+      "en_sha256": "5da9546a791b58365299f44e5c49c29f61be72c8346768c11c22f6f8fce564b4",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAfBb].summary": {
+      "pl": "Moc Starcia rośnie o połowę wartości Bawełny",
+      "kr_sha256": "5d460a82512df97d835d32b6d1af4f9cbbe1b6ae5fe8b618312b0e021c58f919",
+      "en_sha256": "c3183b14ac4acddedbbb7d3af6066f42a949a9ad555f645be9139296328fb7de",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAiBa].desc": {
+      "pl": "Maks. 5\nPo uzyskaniu Ognika Umiejętności nieposiadające atrybutu Gniewu, w liczbie równej wartości Ognika, zyskują atrybut Gniewu.\nPrzy zniszczeniu części Skrzydła ostatni atakujący zyskuje Drgający Ognik równy posiadanej wartości Ognika. Posiadany Ognik znika.",
+      "kr_sha256": "2bcc11de6c4e5f9cab053fefddc1f1c46a407ac8b14a68a6a30427868eeb9ed3",
+      "en_sha256": "abc2328c0bc7c903aa0e7b7ddb05c8951b442362566c41364c36b628ecd36f78",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAiBa].name": {
+      "pl": "Ognik",
+      "kr_sha256": "914f926af38fae4e501ff5bc38fe4bb39b8af4e6b0f389ee0c0f8737bcb2d716",
+      "en_sha256": "cb1655db847dad4c82840dd4673a6af736cc3cc437db70c23f357ac82b47cc43",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAiBb].desc": {
+      "pl": "Maks. 5\nPo otrzymaniu trafienia określoną Umiejętnością zyskuje Iskrę. Drgający Ognik znika.",
+      "kr_sha256": "e2c785e46d506a89c71be4e0e5a523da97a0d81b033bad0bf6f126633982ecd9",
+      "en_sha256": "641ca6b87a0826a2ff9adcc6973ecebd9ddef446dd6a8094eaffc1129e0840d4",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAiBb].name": {
+      "pl": "Drgający Ognik",
+      "kr_sha256": "8d20424d588ad72196bbf6307331f1cfa5fbe39ff22329f6d596719728c62d2d",
+      "en_sha256": "07bb7f8346706c9624a6772ef490544269ecbe8046c82b8171527f9ae635c6d6",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAiBc].desc": {
+      "pl": "Na początku walki nakłada na sąsiednie Tożsamości (po obu stronach, według Szybkości) Podpalenie równe posiadanemu Podpaleniu.\nPrzy posiadaniu Iskry nie może zyskać Ognika.\nNa koniec tury maleje o 1",
+      "kr_sha256": "820821806ac5f77fbe09738116c84e9aa3097a8fa9879b3745d2d5b12b0e70fb",
+      "en_sha256": "d2c198371a27ca9d3484b1eada40f328ed56d7dc9eb552ce7293dc056a1b5322",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAiBc].name": {
+      "pl": "Iskra",
+      "kr_sha256": "adaaab0aedc42a23d799f41a242b3216c80842e05c043992b995f2600b330951",
+      "en_sha256": "529bc3b07127ecb7e53a4dcf1991d9152c24537d919178022b2c42657f79a26b",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBa].desc": {
+      "pl": "Na koniec tury traci 3 zasobów E.G.O o atrybucie wybranej Umiejętności.\nNa koniec tury zyskuje w następnej turze 3 Spadki Obrażeń.",
+      "kr_sha256": "87bce31f5c8d96e47e8c5f91e32544ce039c41a664ac8425bf9fe199de2c6510",
+      "en_sha256": "e13a982c74ed3ce56019de8b03694099a461cfdaa390fc0cac4f111bde92c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBa].name": {
+      "pl": "Pogarda",
+      "kr_sha256": "d42f1744b43d6d54932b3d0dfe2d2f53fe4ace375d4d23e21ea65f0c0ea5f8e1",
+      "en_sha256": "14139fd94d8983f7ee4adc1ca30f3e925492fb7fb7cceed75135b207a1da2ff0",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBbDisplay].desc": {
+      "pl": "Maks. 3\nJednostka nie może działać\nNa koniec tury, przy wartości 2 lub mniej, zadaje obrażenia równe połowie Maks. HP celu; wszystkie części Spirali Pogardy odzyskują HP w wysokości tych obrażeń.\nNa koniec tury maleje o 1.\nJeśli wskutek tych obrażeń HP spadnie do 0, odzyskanie HP nie jest możliwe.",
+      "kr_sha256": "751d0b095f8001f32a7cb8962c2a756fdef771b8f4e3a7c900c30a1f6d0f3288",
+      "en_sha256": "cbc602ef9bf469dd373aa58fc1ccedd2e48ce1d943921f2f301bd8ca1ff39554",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBbDisplay].name": {
+      "pl": "Uchwyt",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBb].desc": {
+      "pl": "Maks. 3\nJednostka nie może działać\nNa koniec tury, przy wartości 2 lub mniej, zadaje obrażenia równe połowie Maks. HP celu; wszystkie części Spirali Pogardy odzyskują HP w wysokości tych obrażeń.\nNa koniec tury maleje o 1.\nJeśli wskutek tych obrażeń HP spadnie do 0, odzyskanie HP nie jest możliwe.",
+      "kr_sha256": "751d0b095f8001f32a7cb8962c2a756fdef771b8f4e3a7c900c30a1f6d0f3288",
+      "en_sha256": "cbc602ef9bf469dd373aa58fc1ccedd2e48ce1d943921f2f301bd8ca1ff39554",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBb].name": {
+      "pl": "Uchwyt",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBc].desc": {
+      "pl": "Zadaje +10% obrażeń za każdą wartość Spojrzenia\nNa koniec tury, przy wartości Spojrzenia 7, zyskuje 15 Krwawienia. Zamienia się w Pogardę.",
+      "kr_sha256": "af18532bf690fe3f5661668c277cdba9d8d4a1bee8c4908738d56a198ea87467",
+      "en_sha256": "762e4246f30342e0dad01ee12fe22c8cd677f8befb5a4d0770717e586e9284f8",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBc].name": {
+      "pl": "Spojrzenie",
+      "kr_sha256": "e13568f722a5e0b607d4895c0555778cd123a2249acb17d2acffe2bdd57b97a1",
+      "en_sha256": "5c0bae02462bd34b066970f039d9ee645f6386d242da5f4a1f1d2450a607b894",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBd].desc": {
+      "pl": "Zyskuje 1 na koniec każdej tury.\nNa koniec tury Tożsamości ze Spojrzeniem otrzymują (4 x wartość) stałych obrażeń HP i Poczytalności",
+      "kr_sha256": "686cd8abcd28b45add3134124ee5b9507e2c766407be5e95d191d0eceac7f8ed",
+      "en_sha256": "b327ec35881ccd31ea6cc3d46b8acf220e4363c78bf5bc3654a75bb0ab1ef59c",
+      "origin": "ai"
+    },
+    "dataList[id=MRcAmBd].name": {
+      "pl": "Wszystkowidzące Spojrzenie",
+      "kr_sha256": "493da77cdebb8b5b5453efc0685fcdc0878b1f0448d1f33ee38e3b31611c402f",
+      "en_sha256": "583685b6264275a843f778dce94cc832fe95fc849e3add378aef7ffb481992ee",
+      "origin": "ai"
+    }
+  }
+}

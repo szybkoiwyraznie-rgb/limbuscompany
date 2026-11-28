@@ -1,0 +1,96 @@
+17313||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 유체는… 어디서 찾을 수 있죠?|Where can we find the larva?
+17314||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 도망간 유체가 갈 곳은 딱 하나뿐인 거예요.|There's only one place an escaped larva would run to, you hear?
+17315||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 해변.|The Shore.
+17316||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 하지만 서둘러야 한다는 거예요. 유체는 해변에서 파도소리를 들으며 죽을 거예요.|But you must hurry, you hear? That larva's gone there to die while listening to the waves, you hear?
+17317||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이런 데에 해변이란 곳이 있었어?|Are you saying there's a <i>beach</i> down here?
+17318||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 표정이 왜 그래? 사색이 되어 가지고선…|Something happen? Why the long face?
+17319||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <아… 그, 오른쪽에서 새어나오던 모래가 그러면…>|<Oh, then that must be where the sand leaking from the opening on the right came from...>
+17320||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 해변은, 수산시장을 거치면 곧장 나온다는 거예요.|Pass through the fish market to find the Shore, you hear?
+17321||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그럼 너희는, 얼른 유체를 가져오는 거예요. 죽은 유체는 소용없는 거예요. 살아있어야 하는 거예요!|You go now bring the larva back, you hear? Dead larva is useless, you hear? It has to stay alive, you hear?
+17322||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 유체를 구해오면 우리 부셰님이 요리해 주신다는 거예요. 지글지글… 보글보글…|Bring the larva back alive, and Boucher will cook it to perfection, you hear? Sizzle sizzle, simmer simmer...
+17323||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 큰일났다… 인 거예요.|A full-blown disaster... you hear?
+17324||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그나마 하나 살아 있던 유체가 도망갔다는 거예요…|The one and only surviving larva in storage—it's escaped, you hear...?
+17325||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <이건… 예상과 다른 전개인데…>|<This... isn't how things went last time...>
+17326||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <…그게 도망가기도 하는 거였어?>|<... Those things can run away?>
+17327||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이전과 달라진 것이라곤… 훨씬 빨리 지하1층에 내려온 것 뿐이다.|The only obvious difference from before... was that we had reached B1 much sooner.
+17328||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아니, 정확히는 더 많은 게 달라지긴 했지만…|Well, not the <i>only</i> difference, strictly speaking, I guess...
+17329||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <어떻게 해야 하지?>|<What now...?>
+17330||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …창고 관리를 제대로 해야 했던 거 아니야?|... Maybe you should've kept a closer eye on your inventory. Don't you work here?
+17331||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 부셰! 부셰!|Boucher! Boucher!
+17332||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아… 그 고기는… 무척이나 맛이 황홀했지.|Ah... I remember that cut of meat. Its flavor was nothing short of ecstatic.
+17333||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그럼 이방인들, 그 대가로 무엇을 요구하지?|So, speak then, strangers. What do you want in exchange?
+17334||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 우리는 황금고치… 떠밀려온 유체로 만들어진 요리가 필요하다.|We demand a dish cooked with the Golden Cocoon—a larva that has stranded ashore.
+17335||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 하, 마치 내 식품 창고에 꿈틀거리는 유체가 있다는 걸 이미 아는 듯한 말이군.|Hah. You speak as though you already know there's a living larva squirming in my storage.
+17336||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 저기 플람베 머리통이 너희들의 헤드 셰프인가?|Is the flambé-head over there your Head Chef?
+17337||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …그런 셈이죠.|... You could say that.
+17338||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 헛소리를 할 녀석들론 보이지 않아. 그래, 거래하지.|You don't strike me as the sort to bluff about ingredients. Very well—a bargain it is.
+17339||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 부셰라는 자에게 '피식자의 사유'를 넘겨주었다.|Handed over the "Ruminations of the Prey" to Boucher.
+17340||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 탐스럽군.|Now that is what I call "downright delectable."
+17341||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 한동안은 이걸로 다들 배 터지게 폭식을 할 수 있겠어.|This should give me something to feed everyone to the point of bursting—and maybe even beyond that—for seasons to come.
+17342||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 부셰|Boucher
+17343||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …이방인들을 데리고 왔군. 무슨 일이지, 헤드 셰프?|... You brought strangers with you. What is it, Head Chef?
+17344||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 흘러내리는 육즙… 너무 달콤해 보인다는 거예요. 이걸 저희가 먹을 수 있다니 꿈꾸는 것 같다는 거예요!|Look at that meaty juice, you hear...? Looks so yummy, so sweet, you hear? Getting to eat this is like a dream on a plate, you hear?
+17345||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수셰프, 이자들에게 창고에 있는 유체 중 하나를 꺼내서 건네주도록.|Sous Chef. Bring a larva from the storage and give it to them.
+17346||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 알겠다는 거예요, 부셰!|On it, Boucher, you hear?
+17347||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그리고, 지난번처럼 재료 몰래 주워 먹고 오면 안된다.|And no secretly sampling any ingredients like last time.
+17348||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그건 그냥 신선도를 확인한 거였다는 거예요!|That was just quality control to check how fresh they were, you hear?!
+17349||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 너희, 여기서 딱 기다리라는 거예요!|You, waity-waity here, you hear?
+17350||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 헤드 셰프가 아니라 수셰프인 거예요. 저번에 승급했다는 거예요.|It's Sous Chef; not Head Chef, you hear? I got promoted last time, you hear?
+17351||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 하아… 그래, 수셰프에서 헤드 셰프로 승급했지.|*sigh*... Yes. You were promoted from Sous Chef to Head Chef.
+17352||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그치만 수셰프가 더 높아 보인다는 거예요. 그러니까 승급해서 수셰프인 거예요.|But Sous Chef sounds fancier, you hear? Which means I was promoted to Sous Chef, you hear?
+17353||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …무슨 일로 찾아온 거지, 수셰프?|... Why have you come here, Sous Chef?
+17354||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 여기 이방인이… 저희의 소다에… 무려 그걸… 기여한다고 한 거예요!|These strangers... they said they'd contribute... <i>that</i>... to our soda, you hear?
+17355||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …그냥 뜸 들이지 말고 말해. 그게 뭐지?|... Stop braising the sentence and serve it already. What ingredient is it?
+17356||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 피식자의 사유라는 거예요! 부셰님이 틈만 나면 이야기 했던…|Ruminations of the Prey! The ingredient Boucher is always talking about... you hear?
+17357||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …피식자의 사유?|... Ruminations of the Prey?
+17358||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <낚시… 를 하고 있는 거라면, 맞는 것 같기도 한데.>|<They're... uh.... fishing, it looks like. Technically.>
+17359||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이상한 냄새나.|It smells odd.
+17360||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 파도 소리와 함께 부패한 냄새가 같이 밀려들어오는군요.|The sound of surf brings with it the smell of putrefaction.
+17361||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그럴듯하네. 눈을 감으면 휴양지 기분도 나겠어. 이 냄새만 아니면 말이지.|Almost convincing, isn't it? Shut your eyes, and you could almost imagine yourself at a seaside resort... right up until the smell punches you in the nose.
+17362||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 너희, 기분 좋아 보여. 왜 그러는 거야?|You all look a little happier. Why?
+17363||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 보통은… 해변하면 휴가, 바캉스라는 이미지니까.|Well... 'cause vacations and trips are the first things that spring to mind when it comes to beaches, I suppose?
+17364||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <여기 색은 까맣지만…>|<The water at this beach is... uh, black, though.>
+17365||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 애초에 물의 형태와도 다릅니다.|The substance does not conform to the physical characteristics of water either.
+17366||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 저기 둥둥 떠다니는 것들은 뭐야?|What are those things floating out there?
+17368||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 바다에 잠기려는 유체들이지.|Larvae trying to sink themselves back into the sea.
+17369||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 알다시피, 모든 건 바다에서부터 올라오는 거잖나. 뭍에서 실컷 살아보다 지치면 결국, 왔던 것으로 다시 돌아가려 하지|As you may know, everything springs forth from the sea. For larvae, once they've had their fill of living on land, they begin to long to return to the place they came from.
+17370||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 저들은 그 걸음을 조금 서두르는 것뿐이고…|And those are the impatient ones, trying to hurry their return...
+17371||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 운이 좋으면 숨이 붙어있는 것을 찾을 수도 있겠지…|Well, with some luck, you may still find one with breath clinging by a thread.
+17372||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 떠밀려오는 건지 떠내려가는 건지는 몰라.|There's no way to tell, though, if a larva is washing ashore or being carried back out....
+17373||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 백화점보다 오래된 것에서 나온 거니까.|... because they come from something that's even older than the Grand Magasin.
+17374||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 저거… 움직이고 있어.|There, that one—it's still squirming.
+17375||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <여기가… 해변이야?>|<Is this... the Shore?>
+17376||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 떠밀려온 유체를 찾았군.|So. You found a stranded one on the beach.
+17377||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아직 살아있는 게 남아 있었나. 불쌍하군.|I didn't think any still had breath to lose. Poor thing.
+17378||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 조심해, 그걸 찾느라 혈안이 되어 있는 놈들이 널려 있으니까.|Keep your guard up. The Shore is crawling with starved residents who'd tear each other apart for that catch.
+17379||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 자… 그러면 오늘은 어떤 비린내에게 미끼를 던질까…|Now then... which stinking fish will take the hook today...?
+17380||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 우리는 해변가에서 간신히 숨 쉬고 있는 유체를 발견했다.|We approached the larva Pwie pointed at. It was drawing one thin, desperate breath after another.
+17381||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 예상보다 빠르게 찾을 수 있었군요.|We located it considerably sooner than expected.
+17382||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수셰프 말대로 조금만 늦었으면 이것도 저 둥둥 떠다니는 것들이랑 같은 꼴이 되었겠어. 간신히 빌빌 거리고 있구만…|Sous Chef wasn't exaggerating. A few minutes later and this one would've joined the rest bobbing out there in the water. I mean, it looks barely alive...
+17383||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <그러게… 기운이 없어 보이는데.>|<Yeah... It looks like it's running on fumes.>
+17384||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이전에 비해, 확연히 줄어든 움직임을 보이고 있습니다.|Its range of movement has decreased markedly since the last time we saw it.
+17385||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아파하는 것 같아.|I think it's hurting.
+17386||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 지난번의 나처럼.|Like how I was last time.
+17387||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <자꾸 죄책감이 들게 하네…>|<Pwie really knows how to guilt trip without meaning to...>
+17388||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아파하는 거, 보고 싶지 않아.|I don't want to watch things hurting.
+17389||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그러면… 뺏어야지…|Then... we'll take it from you...
+17390||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 조금이라도 늦었으면 이것은 바다가 되었어요. 너희, 보기보다 빨랐던 거예요.|A moment later and it would've become one with the sea, you hear? You were more lickety-split than I thought, you hear?
+17391||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이걸 부셰님이 잘 조리해주시는 거예요.|Now, Boucher will cook it to perfection like I said, you hear?
+17392||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 왜 안 넘기는 거예요…?|Uh, what's the holdup, you hear?
+17393||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이, 왜 손에 힘을 주고 있는 거야?|Uh, Pwie... Aren't you gonna let go?
+17394||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 주면 이거, 앞으로 어떻게 되는 거야?|What's going to happen to it if I let go?
+17395||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 일종의 가공을 거치는 듯 합니다.|It appears the larva will undergo a form of culinary processing.
+17396||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 나는 가공이 뭔지 몰라. 그리고 나는 이걸 아프게 하고 싶지 않아.|I don't know what "processing" means. I just don't want it to hurt.
+17397||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이거 참… 애들 장난감 뺏는 기분이라 영… 불편한데.|Now this is awkward... Feels like taking a doll from a baby, except it's alive...
+17398||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이는 자그마한 두 손으로 유체를 꼭 쥔 채 품에 안고 있었다.|Pwie clutched the larva in their two tiny hands, pressing it protectively against their chest.
+17399||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뫼르소가 무릎을 꿇고 뿌이와 눈높이를 맞춘다.|Meursault lowered himself onto one knee until he and Pwie were looking directly into one another's eyes.
+17400||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 나는 거짓말을 하지 않는다.|I do not lie.
+17401||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그러니까 이어 말하겠다.|So I will tell you this:
+17402||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이건 잘못되지 않아.|Nothing bad will happen to it.
+17403||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …너, 나를 아프게 했어. 지금은 안 그러는 거야?|... You hurt me before. You aren't going to hurt it too?
+17405||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이는 그제서야 조심스럽게 품에 안고 있던 유체를 뫼르소에게 주었다.|Only after getting Meursault's reassurance did Pwie loosen their grip and carefully place the larva into Meursault's hands.
+17406||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 창고에서 꺼내오기만 하는데 한 세월이 걸렸나.|Did you go out foraging for it or something? What took you so long?
+17407||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 잠깐 착오가 있었지만 수셰프가 모조리 해결했다는 거예요!|There was a minor spill, but Sous Chef took care of it squeaky-clean, you hear?
+17408||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 내놔, 조리를 해주지.|Bring it here. I'll prepare it.
+17409||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …수산시장에서 보니까 이것도 꽤 귀한 재료 같은데… 우리에게 넘겨줘서 고맙군, 그래.|... This thing must be quite an ingredient, from the way people went mad for it at the Fish Market... Thanks for letting us have it, pal.
+17410||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 많은 사람들이 착각하는데, 진정한 쉐프는 고치를 쓰지 않아… 고치는 어떤 맛이든 낼 수 있지만… 그건 그 맛을 느끼도록 착각시킬 뿐이지.|Many misunderstand that cocoons are the favorite ingredient of us chefs, but a true practitioner of our vocation doesn't rely on cocoons. Cocoons may imitate any flavor imaginable... but that's it. Just deceiving the tongue into believing that the flavor is real.

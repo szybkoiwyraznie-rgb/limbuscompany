@@ -1,0 +1,1750 @@
+{
+  "entries": {
+    "dataList[id=2020511].levelList[level=1].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 Obniżenia Poziomu Obrony (maks. 10)",
+      "kr_sha256": "df696128d7c5bdd3fa93db5230f496366a8fffcfcdff93f1a4ebed7503bf5ca0",
+      "en_sha256": "c6fbacf9030115df0703d8a21b2a2a5e3eff4bcf2851e5cebd1a98f3c0768143",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=1].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=3].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 3 [Combustion]",
+      "kr_sha256": "a7bff4717172a20c087e711af4b8903c536b90ec42b57a7b38a33a8e6f659beb",
+      "en_sha256": "9ce2a222dce384fec1bf704cb52554896bf9e1e891570131e55aaba85a7d0a6d",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 Obniżenia Poziomu Obrony (maks. 10)",
+      "kr_sha256": "df696128d7c5bdd3fa93db5230f496366a8fffcfcdff93f1a4ebed7503bf5ca0",
+      "en_sha256": "c6fbacf9030115df0703d8a21b2a2a5e3eff4bcf2851e5cebd1a98f3c0768143",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] przy 4+ (najwyższym Rezonansie Absolutnym Żądzy) Waga Ataku +1",
+      "kr_sha256": "e735788520754cad4b60a080fc432374626615b89e7503e0432d7b87f6c72556",
+      "en_sha256": "7c267b02af653e994b13fa15b18b65fd5c4fbdaa9efc8169cee6e60b52661090",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=3].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=4].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Combustion]",
+      "kr_sha256": "ec7e7eb450e067173ef370829eaffeecf85e56ce469754163306a9120e3d54c9",
+      "en_sha256": "ad75333e1148013d6a391622284f8cc1408aaebcb375a884e4a8d748fdcb628e",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 Obniżenia Poziomu Obrony (maks. 10)",
+      "kr_sha256": "df696128d7c5bdd3fa93db5230f496366a8fffcfcdff93f1a4ebed7503bf5ca0",
+      "en_sha256": "c6fbacf9030115df0703d8a21b2a2a5e3eff4bcf2851e5cebd1a98f3c0768143",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] przy 4+ (najwyższym Rezonansie Absolutnym Żądzy) Waga Ataku +1\nprzy 6+ (najwyższym Rezonansie Absolutnym Żądzy) dodatkowo Waga Ataku +1",
+      "kr_sha256": "9b5ff55556920fac39ec75c539f00dffb2dec22a5c33dac317be45a75f76a079",
+      "en_sha256": "0ddbf737db9803725844d123097dc1b63df67c77771f64d0b2de2524cfd87c5c",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=4].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=5].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "3f943e98d072bec45608a7d548e96f4081ff93dccbba7e920c34dc461f8b9fac",
+      "en_sha256": "9e9b333d3b941937f22a22690d37eddfabb9443bd64d3d36be45ecc49e9390fa",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada 5 [DefenseDown]</style>",
+      "kr_sha256": "09fd60a6cbb0715c466eca8897ebf90ade764daad7750eb0e2a81c7c3eac3b72",
+      "en_sha256": "480a82110c2eb00b5229889ac59b1607895a919d6a85b5111588950b3fcf6bf5",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 [DefenseDown] (<style=\"highlight\">maks. 5; ten efekt nie obniża Siły [Combustion] celu poniżej 1)\n- jeżeli cel ma mniej niż 10 Siły [Combustion], ta jednostka może użyć nadmiaru własnej Siły [Combustion] ponad 30 do powyższego efektu</style>",
+      "kr_sha256": "ca9c1cc85002e5f3cadb651db318e71d7115017437839869d4e1253a79ba61e0",
+      "en_sha256": "c1f1bfa4681fb2334dfb8ec83e0d8a2c7333244c31ede9a7358eef4ac4c9bfa1",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=5].desc": {
+      "pl": "<style=\"highlight\">Potrzebny do użycia tej Umiejętności zasób E.G.O Obżarstwa zmniejsza się o 1</style>\n[BeforeAttack] przy 4+ (<style=\"highlight\">najwyższego Rezonansu</style>) Waga Ataku +1\nprzy 6+ (<style=\"highlight\">najwyższego Rezonansu</style>) dodatkowo Waga Ataku +1\n\n<style=\"highlight\">[BeforeAttack] +5% obrażeń za każde 1 (suma Siły [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 100%)</style>",
+      "kr_sha256": "39a72a952002ac1cc0c84833798e7bd18d8848a36377c7271a6b9570bf33fb54",
+      "en_sha256": "b56a2c4bfc0193eb3bebc414525fdc221b7efe07e0f0f4d19eb62a0ba6d98a74",
+      "origin": "ai"
+    },
+    "dataList[id=2020511].levelList[level=5].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=1].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 4 [Combustion]",
+      "kr_sha256": "8aeb9424fb0232ff30e741460f58b3805f24ab2b342db5e2d284bc5d862305a2",
+      "en_sha256": "e8681de13f9745e32bdc8a1e7fcab1ceaad5934476ae5b0fc900c9ffb222a8d9",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 Obniżenia Poziomu Obrony (maks. 10)",
+      "kr_sha256": "df696128d7c5bdd3fa93db5230f496366a8fffcfcdff93f1a4ebed7503bf5ca0",
+      "en_sha256": "c6fbacf9030115df0703d8a21b2a2a5e3eff4bcf2851e5cebd1a98f3c0768143",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=1].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=3].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 2 Spętania następnej tury",
+      "kr_sha256": "187553efd36b19d1e456c7634930063ce9c07fd93e21c41c5f54e6681cfdc07e",
+      "en_sha256": "fd4c87bd980382598d3fed0b991a59a80b3cc31d7e32851bdbe1e30d677e3e64",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Combustion]",
+      "kr_sha256": "a93a083ed61092abc1a6c217850ea98fc40cd30b7937d69ef8fb5fef1bd4cc5c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 Obniżenia Poziomu Obrony (maks. 10)",
+      "kr_sha256": "df696128d7c5bdd3fa93db5230f496366a8fffcfcdff93f1a4ebed7503bf5ca0",
+      "en_sha256": "c6fbacf9030115df0703d8a21b2a2a5e3eff4bcf2851e5cebd1a98f3c0768143",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy 4+ (najwyższym Rezonansie Absolutnym Żądzy) Waga Ataku +1",
+      "kr_sha256": "c5839000ca8d7b496f77e9bde7e6f9320c80cd881122de7b31147eb7c1fe3c94",
+      "en_sha256": "80d4706c6de16209eed46338dcf447f4564abcfccac4f6cec85f3a5974689804",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=3].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=4].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 2 Spętania następnej tury",
+      "kr_sha256": "187553efd36b19d1e456c7634930063ce9c07fd93e21c41c5f54e6681cfdc07e",
+      "en_sha256": "fd4c87bd980382598d3fed0b991a59a80b3cc31d7e32851bdbe1e30d677e3e64",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Combustion]",
+      "kr_sha256": "a93a083ed61092abc1a6c217850ea98fc40cd30b7937d69ef8fb5fef1bd4cc5c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 Obniżenia Poziomu Obrony (maks. 10)",
+      "kr_sha256": "df696128d7c5bdd3fa93db5230f496366a8fffcfcdff93f1a4ebed7503bf5ca0",
+      "en_sha256": "c6fbacf9030115df0703d8a21b2a2a5e3eff4bcf2851e5cebd1a98f3c0768143",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy 4+ (najwyższym Rezonansie Absolutnym Żądzy) Waga Ataku +1\nprzy 6+ (najwyższym Rezonansie Absolutnym Żądzy) dodatkowo Waga Ataku +1",
+      "kr_sha256": "2139debe45a9819c3889ebc2c81e38a3d0ae7a3b42c9aff7c3762cba905fb343",
+      "en_sha256": "0845d425d9c0e7f400aba6ff4cf08345f160c0fdf97b707090b1ea6eb2789c28",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=4].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[SuperCoin]</style>",
+      "kr_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "en_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack]</style> nakłada 2 [Binding] następnej tury",
+      "kr_sha256": "35fbd4cfdf795da0a50d560f74f68871bb9bcca0828950857751a7bd3e453a35",
+      "en_sha256": "538c4ef971294edb626a3b82505e9168747c431aee553d4c1df1e285cfbb579c",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "d5338dd8be1e22a66700c2aa4357d16af9ba285534fb2718e0e9c69509d861ed",
+      "en_sha256": "ac90b71b572b0436ce709553fdc8c6c003607ee373009d4f2e8a4da03da42964",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].coinlist[#0].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada 5 [DefenseDown]</style>",
+      "kr_sha256": "09fd60a6cbb0715c466eca8897ebf90ade764daad7750eb0e2a81c7c3eac3b72",
+      "en_sha256": "480a82110c2eb00b5229889ac59b1607895a919d6a85b5111588950b3fcf6bf5",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] zamienia 2 [Combustion] celu na 1 [DefenseDown] (<style=\"highlight\">maks. 5; ten efekt nie obniża Siły [Combustion] celu poniżej 1)\n- jeżeli cel ma mniej niż 10 Siły [Combustion], ta jednostka może użyć nadmiaru własnej Siły [Combustion] ponad 30 do powyższego efektu</style>",
+      "kr_sha256": "ca9c1cc85002e5f3cadb651db318e71d7115017437839869d4e1253a79ba61e0",
+      "en_sha256": "c1f1bfa4681fb2334dfb8ec83e0d8a2c7333244c31ede9a7358eef4ac4c9bfa1",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">Potrzebny do użycia tej Umiejętności zasób E.G.O Obżarstwa zmniejsza się o 1</style>\n[BeforeAttack] przy 4+ (<style=\"highlight\">najwyższego Rezonansu</style>) Waga Ataku +1\nprzy 6+ (<style=\"highlight\">najwyższego Rezonansu</style>) dodatkowo Waga Ataku +1\n\n<style=\"highlight\">[BeforeAttack] +6% obrażeń za każde 1 (suma Siły [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 120%)\n[DefeatDuel] Moc Bazowa -10</style>",
+      "kr_sha256": "54c56e66fc96fde7796c11b9cc1ea846f83a81e1109df80102cbce9c417ca496",
+      "en_sha256": "c4fa92ddda178836375d3bad9c147be63cae3b1e26905cd0cc5c68a9319487e2",
+      "origin": "ai"
+    },
+    "dataList[id=2020521].levelList[level=5].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].abName": {
+      "pl": "Kaczka Czasu",
+      "kr_sha256": "e345138ba6ab4d9bff81e11b06b52c109998edb07c59efface548c31e28a9d64",
+      "en_sha256": "467ee11550606573e16d0626248e3c9214ecaf8a22e8c952ff5d6a7d9b7edeed",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration] i +5 Licznika [Vibration]",
+      "kr_sha256": "cb7732ac27b038e178037a23574a40b1b4893c6f2471f7e871847039841dc7b4",
+      "en_sha256": "36915bb47aa325d194d8827971474209d5fffdf0ad51fdf4405d5ff85b9928d8",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wyzwala [FusionVibration] w [VibrationContinue]",
+      "kr_sha256": "ea0aa9359da5537db1ce785b463cce99da03fed258637ef8a277efa070d6832d",
+      "en_sha256": "e025374fdbdf9d09cacf3e930ce5276c2a87636874a101ca8f7eb4f6e86e5e33",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zmniejsza o połowę Maksymalną Prędkość celu",
+      "kr_sha256": "87c50c1735c74de5054858be9ba88cf3f70260caf00bca605eafd7f172eafb89",
+      "en_sha256": "0c0fc330a0380fb3dc2131f7dc6a9dd89c2d62819a21853133f36a72f6380d17",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].desc": {
+      "pl": "Jeżeli Prędkość celu jest niższa niż tej jednostki, zadaje +(2,5 x (różnica Prędkości))% obrażeń (maks. 25%)\n[BeforeAttack] przy 3+ najwyższego Rezonansu nakłada Siłę [Vibration] równą najwyższemu Rezonansowi (maks. 5)\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "387f6bf8432b4dabb4d3b1e800c9d4c58e8b84c2d935fd1f6a399e53e813c398",
+      "en_sha256": "9dbad04789cd4d401251339e46841a89e2b00fd46c0ba6eda8ff0eb1535eefba",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=1].name": {
+      "pl": "Wieczne Trwanie",
+      "kr_sha256": "b940d2e9bfc69971ea94eb9ea203dce1271076f78a550f1b2aaaf357afc4061c",
+      "en_sha256": "05c3a7bd5d1b293995a0ccc52b2018002c4b37cff7a7c0af39dc83ef1f05b456",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].abName": {
+      "pl": "Kaczka Czasu",
+      "kr_sha256": "e345138ba6ab4d9bff81e11b06b52c109998edb07c59efface548c31e28a9d64",
+      "en_sha256": "467ee11550606573e16d0626248e3c9214ecaf8a22e8c952ff5d6a7d9b7edeed",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration] i +5 Licznika [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "a0fe78a590418030c81b5ba039b41cbf18375414a23e586ac2e74891877929af",
+      "en_sha256": "dcc515de85ec325723d0f19b2b0bfd3dc7cc63cfc90bff35ba116e040daca9c1",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wyzwala [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>",
+      "kr_sha256": "fa7c9203dbf7307cd4048b1a126afaf89b32375509a0fd41ff6be2279f36d316",
+      "en_sha256": "55df5a656c361a1c724efda514a87936a6ceac1f4377d01633009e19a4f68219",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zmniejsza o połowę Maksymalną Prędkość celu<style=\"highlight\"></style>",
+      "kr_sha256": "67a627819ceac9c26b5c91a3e2338a79f76a1f9f13bbe8c1c625ea691426e192",
+      "en_sha256": "335729d4800c4d4adc17eaf7f907c34aa9131d094c88d58ccc3d13fec26e3e12",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].desc": {
+      "pl": "Jeżeli Prędkość celu jest niższa niż tej jednostki, zadaje +(<style=\"highlight\">3,5</style> x (różnica Prędkości))% obrażeń (maks. <style=\"highlight\">35%</style>)\n[BeforeAttack] przy 3+ najwyższego Rezonansu nakłada Siłę [Vibration] równą najwyższemu Rezonansowi (maks. 5)\n<style=\"highlight\">- jeżeli najwyższy Rezonans to Rezonans Absolutny Lenistwa, nakłada Licznik [Vibration] równy nałożonej Sile [Vibration] (maks. 5)</style>\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "6664fee1855ddd6616f61f1d27c0e049c4c23c9cef8764eba6ab593851b288f3",
+      "en_sha256": "74a980cd040b935a25f5c8b224efbe5f0eab313bd220067c3b814e65548ef286",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=3].name": {
+      "pl": "Wieczne Trwanie",
+      "kr_sha256": "b940d2e9bfc69971ea94eb9ea203dce1271076f78a550f1b2aaaf357afc4061c",
+      "en_sha256": "05c3a7bd5d1b293995a0ccc52b2018002c4b37cff7a7c0af39dc83ef1f05b456",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].abName": {
+      "pl": "Kaczka Czasu",
+      "kr_sha256": "e345138ba6ab4d9bff81e11b06b52c109998edb07c59efface548c31e28a9d64",
+      "en_sha256": "467ee11550606573e16d0626248e3c9214ecaf8a22e8c952ff5d6a7d9b7edeed",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">10</style> [Vibration] i <style=\"highlight\">+10</style> Licznika [Vibration]",
+      "kr_sha256": "86e732709d832c9a563a7a474335912b2d719c9a490b47a1df4fb80c38268197",
+      "en_sha256": "d9ccc8f508258b3af78ff07ff6d9e2f11a557883d76a7069d168534e0934fd75",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wyzwala [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>",
+      "kr_sha256": "fa7c9203dbf7307cd4048b1a126afaf89b32375509a0fd41ff6be2279f36d316",
+      "en_sha256": "55df5a656c361a1c724efda514a87936a6ceac1f4377d01633009e19a4f68219",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1</style>",
+      "kr_sha256": "0351a8ab4185458d9c16c806c8e2b82838751a39b1d4fbea290c3f2113cb480f",
+      "en_sha256": "b8f82c68ad6afd6bd826eca9ddea6faf2d057eba48b62e19fa47b229ded61512",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zmniejsza o połowę Maksymalną Prędkość celu<style=\"highlight\"></style>",
+      "kr_sha256": "67a627819ceac9c26b5c91a3e2338a79f76a1f9f13bbe8c1c625ea691426e192",
+      "en_sha256": "335729d4800c4d4adc17eaf7f907c34aa9131d094c88d58ccc3d13fec26e3e12",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].desc": {
+      "pl": "Jeżeli Prędkość celu jest niższa niż tej jednostki, zadaje +(<style=\"highlight\">5</style> x (różnica Prędkości))% obrażeń (maks. <style=\"highlight\">50%</style>)\n[BeforeAttack] przy 3+ najwyższego Rezonansu nakłada Siłę [Vibration] równą (<style=\"highlight\">2</style> x (najwyższy Rezonans)) (maks. <style=\"highlight\">10</style>)\n- jeżeli najwyższy Rezonans to Rezonans Absolutny Lenistwa, nakłada Licznik [Vibration] równy nałożonej Sile [Vibration] (maks. <style=\"highlight\">10</style>)\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "3f97a010ac7039c68a10ddf679b32bcba9a9e18cc4cb75d74235a2a2d58cc8cf",
+      "en_sha256": "f63351ce5c7cbcd1b77dc3527c7fb2f531b8673bca197d0e1e48293f927d100c",
+      "origin": "ai"
+    },
+    "dataList[id=2020611].levelList[level=4].name": {
+      "pl": "Wieczne Trwanie",
+      "kr_sha256": "b940d2e9bfc69971ea94eb9ea203dce1271076f78a550f1b2aaaf357afc4061c",
+      "en_sha256": "05c3a7bd5d1b293995a0ccc52b2018002c4b37cff7a7c0af39dc83ef1f05b456",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].abName": {
+      "pl": "Kaczka Czasu",
+      "kr_sha256": "e345138ba6ab4d9bff81e11b06b52c109998edb07c59efface548c31e28a9d64",
+      "en_sha256": "467ee11550606573e16d0626248e3c9214ecaf8a22e8c952ff5d6a7d9b7edeed",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration] i +3 Licznika [Vibration]",
+      "kr_sha256": "4839a03d99292aed034c570ec40cafaaa9c20b0b6253feb62e2516d4bfe58b13",
+      "en_sha256": "3817c7794a9be62a26c426d2bc1a9512419bb699a84d792a278a4b9337080624",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wyzwala [FusionVibration] w [VibrationContinue]",
+      "kr_sha256": "ea0aa9359da5537db1ce785b463cce99da03fed258637ef8a277efa070d6832d",
+      "en_sha256": "e025374fdbdf9d09cacf3e930ce5276c2a87636874a101ca8f7eb4f6e86e5e33",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zmniejsza o połowę Maksymalną Prędkość celu",
+      "kr_sha256": "87c50c1735c74de5054858be9ba88cf3f70260caf00bca605eafd7f172eafb89",
+      "en_sha256": "0c0fc330a0380fb3dc2131f7dc6a9dd89c2d62819a21853133f36a72f6380d17",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nJeżeli Prędkość głównego celu ataku jest niższa niż tej jednostki, zadaje +(1,5 x (różnica Prędkości))% obrażeń (maks. 12%)\n[BeforeAttack] przy 3+ najwyższego Rezonansu nakłada 3 Siły [Vibration]",
+      "kr_sha256": "f069d02df750c4c2943d91aef0d4594cb948f498bef247a9d96e76eee8c7b914",
+      "en_sha256": "437732c205c7cac03edec0a455f67193b31ee10e6749b1e088aa78f143546a4c",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=1].name": {
+      "pl": "Wieczne Trwanie",
+      "kr_sha256": "b940d2e9bfc69971ea94eb9ea203dce1271076f78a550f1b2aaaf357afc4061c",
+      "en_sha256": "05c3a7bd5d1b293995a0ccc52b2018002c4b37cff7a7c0af39dc83ef1f05b456",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].abName": {
+      "pl": "Kaczka Czasu",
+      "kr_sha256": "e345138ba6ab4d9bff81e11b06b52c109998edb07c59efface548c31e28a9d64",
+      "en_sha256": "467ee11550606573e16d0626248e3c9214ecaf8a22e8c952ff5d6a7d9b7edeed",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration] i +3 Licznika [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "dcd96089a86867d738715d8c3d11d27a81efd41aa1128f417b06b9bec4f25442",
+      "en_sha256": "049ea9910d5b4d5d8056f8af642f4eeec1e7d5aa7fa10689b4fa554c8b204ec0",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wyzwala [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>",
+      "kr_sha256": "fa7c9203dbf7307cd4048b1a126afaf89b32375509a0fd41ff6be2279f36d316",
+      "en_sha256": "55df5a656c361a1c724efda514a87936a6ceac1f4377d01633009e19a4f68219",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zmniejsza o połowę Maksymalną Prędkość celu<style=\"highlight\"></style>",
+      "kr_sha256": "67a627819ceac9c26b5c91a3e2338a79f76a1f9f13bbe8c1c625ea691426e192",
+      "en_sha256": "335729d4800c4d4adc17eaf7f907c34aa9131d094c88d58ccc3d13fec26e3e12",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nJeżeli Prędkość głównego celu ataku jest niższa niż tej jednostki, zadaje +(<style=\"highlight\">2</style> x (różnica Prędkości))% obrażeń (maks. <style=\"highlight\">16%</style>)\n[BeforeAttack] przy 3+ najwyższego Rezonansu nakłada Siłę [Vibration] równą najwyższemu Rezonansowi (maks. 4)\n<style=\"highlight\">- [BeforeAttack] jeżeli najwyższy Rezonans to Rezonans Absolutny Lenistwa, nakłada +2 Licznika [Vibration]</style>",
+      "kr_sha256": "981f8c7e6a5e02c949a49accf5f7aea7b651a8cbe60d8535d5d1f8460b877130",
+      "en_sha256": "058c0cb56cdb583a53fd20bafa5b90fbba1d9abaed6e9e16e786ca2636fa8b28",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=3].name": {
+      "pl": "Wieczne Trwanie",
+      "kr_sha256": "b940d2e9bfc69971ea94eb9ea203dce1271076f78a550f1b2aaaf357afc4061c",
+      "en_sha256": "05c3a7bd5d1b293995a0ccc52b2018002c4b37cff7a7c0af39dc83ef1f05b456",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].abName": {
+      "pl": "Kaczka Czasu",
+      "kr_sha256": "e345138ba6ab4d9bff81e11b06b52c109998edb07c59efface548c31e28a9d64",
+      "en_sha256": "467ee11550606573e16d0626248e3c9214ecaf8a22e8c952ff5d6a7d9b7edeed",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">5</style> [Vibration] i <style=\"highlight\">+5</style> Licznika [Vibration]",
+      "kr_sha256": "a939d1172256eaf4c35cf17d00dad8e82167b584c3e7286569563f0a42757d51",
+      "en_sha256": "69773de2734fdf769d0f24d849622242fa80558e0d35b81201602601606fd8fe",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wyzwala [FusionVibration] w [VibrationContinue]<style=\"highlight\"></style>",
+      "kr_sha256": "fa7c9203dbf7307cd4048b1a126afaf89b32375509a0fd41ff6be2279f36d316",
+      "en_sha256": "55df5a656c361a1c724efda514a87936a6ceac1f4377d01633009e19a4f68219",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].coinlist[#0].coindescs[#4].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1</style>",
+      "kr_sha256": "0351a8ab4185458d9c16c806c8e2b82838751a39b1d4fbea290c3f2113cb480f",
+      "en_sha256": "b8f82c68ad6afd6bd826eca9ddea6faf2d057eba48b62e19fa47b229ded61512",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].coinlist[#0].coindescs[#5].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zmniejsza o połowę Maksymalną Prędkość celu<style=\"highlight\"></style>",
+      "kr_sha256": "67a627819ceac9c26b5c91a3e2338a79f76a1f9f13bbe8c1c625ea691426e192",
+      "en_sha256": "335729d4800c4d4adc17eaf7f907c34aa9131d094c88d58ccc3d13fec26e3e12",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nJeżeli Prędkość głównego celu ataku jest niższa niż tej jednostki, zadaje +(<style=\"highlight\">2,5</style> x (różnica Prędkości))% obrażeń (maks. <style=\"highlight\">20%</style>)\n[BeforeAttack] przy 3+ najwyższego Rezonansu nakłada Siłę [Vibration] równą najwyższemu Rezonansowi (maks. <style=\"highlight\">5</style>)\n- [BeforeAttack] jeżeli najwyższy Rezonans to Rezonans Absolutny Lenistwa, <style=\"highlight\">nakłada Licznik [Vibration] równy nałożonej Sile [Vibration] (maks. 5)</style>",
+      "kr_sha256": "2c0937dfb451aa3e46fbe31217ca1226fdaecc00495e947e58aece2e04eca259",
+      "en_sha256": "ab67ba30daf2f484ade6604dbc3a89c01769b1a9875e6ef6d7c32212a533d1eb",
+      "origin": "ai"
+    },
+    "dataList[id=2020621].levelList[level=4].name": {
+      "pl": "Wieczne Trwanie",
+      "kr_sha256": "b940d2e9bfc69971ea94eb9ea203dce1271076f78a550f1b2aaaf357afc4061c",
+      "en_sha256": "05c3a7bd5d1b293995a0ccc52b2018002c4b37cff7a7c0af39dc83ef1f05b456",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=1].abName": {
+      "pl": "Łowca Róż",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=1].desc": {
+      "pl": "+1 do Mocy Monety za każde 7 [Burst] celu (maks. 2)",
+      "kr_sha256": "4088ac487b601a84b917acd71e73ea450bcf276866afc25d5483d61133a56471",
+      "en_sha256": "6bac9b21af6bb8fbb6c2c849d606bb53fa4d61c5369b157bfee1c5117ade0cbd",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=1].name": {
+      "pl": "Lasso",
+      "kr_sha256": "291a495a9de9e08b026f908362790d2e10c6aaf40d9a948bca8962ad533e9936",
+      "en_sha256": "eeed3deb90f4a83e4145c38462dfae950d2ff70a28b2328e3c6034ccea077bce",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=3].abName": {
+      "pl": "Łowca Róż",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Burst]",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">jeżeli suma Prędkości tej jednostki i celu wynosi 6+, +1 do Mocy Monety</style>\n+1 do Mocy Monety za każde 7 [Burst] celu (maks. 2)\n<style=\"highlight\">[BeforeAttack] następnej tury zyskuje 2 [Agility]\n[BeforeAttack] przy 4+ Rezonansu Obżarstwa lub Żądzy, zyskuje +1 Wagi Ataku</style>",
+      "kr_sha256": "6095568ea245210907ebb05e1a15b3768b255520de3fb6cebf55cef8aa3c3cc4",
+      "en_sha256": "5136ad7061af3a4097ba1cf9d0b559fd1c3ce45c635e458963a5cc5bef3d59c0",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=3].name": {
+      "pl": "Lasso",
+      "kr_sha256": "291a495a9de9e08b026f908362790d2e10c6aaf40d9a948bca8962ad533e9936",
+      "en_sha256": "eeed3deb90f4a83e4145c38462dfae950d2ff70a28b2328e3c6034ccea077bce",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=4].abName": {
+      "pl": "Łowca Róż",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Burst]",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=4].desc": {
+      "pl": "jeżeli suma Prędkości tej jednostki i celu wynosi 6+, +1 do Mocy Monety\n+1 do Mocy Monety za każde 7 [Burst] celu (maks. 2)\n[BeforeAttack] następnej tury zyskuje 2 [Agility]\n[BeforeAttack] przy 4+ najwyższego Rezonansu, +1 do Wagi Ataku\n<style=\"highlight\">- jeżeli to Rezonans Obżarstwa, +1 do Wagi Ataku</style>",
+      "kr_sha256": "5f4d08f162792cdf46337f817cb28dae988e4659bed9fd8a9d4da5a5c299ee77",
+      "en_sha256": "d7aaa54b4cfb07b354179bd4c39545710557dd67456b731c5927674a953bf211",
+      "origin": "ai"
+    },
+    "dataList[id=2020711].levelList[level=4].name": {
+      "pl": "Lasso",
+      "kr_sha256": "291a495a9de9e08b026f908362790d2e10c6aaf40d9a948bca8962ad533e9936",
+      "en_sha256": "eeed3deb90f4a83e4145c38462dfae950d2ff70a28b2328e3c6034ccea077bce",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=1].abName": {
+      "pl": "Łowca Róż",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Snare]",
+      "kr_sha256": "23eb659458b1959d081587d944763dd3add5f65b9b54c8a1760b198335193397",
+      "en_sha256": "d53d51b5e01bdd40057ad83efad709b75e5be72f34ad4cfe37955fa0f3f72398",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n+1 do Mocy Monety za każde 7 [Burst] celu (maks. 2)",
+      "kr_sha256": "9b70decc0868e72cc8aefe1c245f11eeb214d8c3726be5bcd4697afaba77751a",
+      "en_sha256": "23c7bf1238746a1a4b6a35df7afc15ab382100fff21d114feb4a12218c99b4a5",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=1].name": {
+      "pl": "Lasso",
+      "kr_sha256": "291a495a9de9e08b026f908362790d2e10c6aaf40d9a948bca8962ad533e9936",
+      "en_sha256": "eeed3deb90f4a83e4145c38462dfae950d2ff70a28b2328e3c6034ccea077bce",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=3].abName": {
+      "pl": "Łowca Róż",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Snare]",
+      "kr_sha256": "23eb659458b1959d081587d944763dd3add5f65b9b54c8a1760b198335193397",
+      "en_sha256": "d53d51b5e01bdd40057ad83efad709b75e5be72f34ad4cfe37955fa0f3f72398",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje +2% obrażeń za każdy 1 [Burst] celu (maks. 30%)",
+      "kr_sha256": "2e951280e23a1420e74d100ec17683eb4f90d011aea669d41619c7aa581ecfc6",
+      "en_sha256": "9ebbef5bd8839973fd8a5ec6375aa0d2897956eaf005de02abc88144405b8eb5",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">jeżeli suma Prędkości tej jednostki i celu wynosi 6+, +1 do Mocy Monety</style>\n+1 do Mocy Monety za każde 7 [Burst] celu (maks. 2)\n<style=\"highlight\">[BeforeAttack] następnej tury zyskuje 2 [Agility]</style>",
+      "kr_sha256": "1a408a991f4c2dd092afaa525330db538ba6d5318b03925385e1236a6cc6f2af",
+      "en_sha256": "1f59a3702e32e07e06285099a6c97acbf3c27c1b4ec93cdb61d89d6a94984e78",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=3].name": {
+      "pl": "Lasso",
+      "kr_sha256": "291a495a9de9e08b026f908362790d2e10c6aaf40d9a948bca8962ad533e9936",
+      "en_sha256": "eeed3deb90f4a83e4145c38462dfae950d2ff70a28b2328e3c6034ccea077bce",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=4].abName": {
+      "pl": "Łowca Róż",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Burst]",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Burst]",
+      "kr_sha256": "5aa7402f26c3d0ee14a6ed8f34541115abcff47bb62e1b8368aeb3b99f18f7ee",
+      "en_sha256": "8b1367ff62f67bd7be5e8cd4f61c8bc80eb6eaa0f84657c2a3285e3d246b0041",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Snare]",
+      "kr_sha256": "93208e4f2fe5cb69891d84b5234270d804e9b1850a25205eb0170d53f52c722e",
+      "en_sha256": "607ad01e12857be81490961da461addbf7764d3543f5d539a4fb211f561ad070",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje +2% obrażeń za każdy 1 [Burst] celu (maks. 60%)",
+      "kr_sha256": "5395cf5b253c0c0521edf362998005db5be2aa5df47f6da736ef3b0655c3e4f0",
+      "en_sha256": "720969f58004b1330d114238ec46757a2837c7580b3e750d792716a33d872eee",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\njeżeli suma Prędkości tej jednostki i celu wynosi 6+, +1 do Mocy Monety\n+1 do Mocy Monety za każde 7 [Burst] celu (maks. 2)\n[BeforeAttack] następnej tury zyskuje 2 [Agility]\n<style=\"highlight\">[EndSkill] jeżeli cel zostaje Oszołomiony lub pokonany, następnej tury zyskuje 1 [ShamrockResultUp]</style>",
+      "kr_sha256": "2d2b911f809c5293f50469d05f65e93705ceaa9fd9dce45f41e53eab7dd23795",
+      "en_sha256": "eb3a9b5d134548725b6b097f5643456e5f497e0083bde9a55b51f832202bd9a9",
+      "origin": "ai"
+    },
+    "dataList[id=2020721].levelList[level=4].name": {
+      "pl": "Lasso",
+      "kr_sha256": "291a495a9de9e08b026f908362790d2e10c6aaf40d9a948bca8962ad533e9936",
+      "en_sha256": "eeed3deb90f4a83e4145c38462dfae950d2ff70a28b2328e3c6034ccea077bce",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=1].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] nakłada wszystkim sojusznikom Siłę [Breath] równą (najwyższemu Rezonansowi) (maks. 4)\n- przy Rezonansie Pychy 3+ zwiększa o 1 Licznika [Breath] jednostkom objętym i nakłada na nie 1 [ReleaseBreath] następnej tury",
+      "kr_sha256": "e6b68c6b72a2d8982971359ca18313766783acb775fe1bd28ee618a1fa44c593",
+      "en_sha256": "efa13bf48d1d0630689566e92daff49257762bc84043c458336c5d72e986d1f8",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=1].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=3].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Zwiększa własny Licznik [Breath] o 1</style>",
+      "kr_sha256": "d7795c5a10c1dc1fa68639644fd9a88a9b35a1356761e7524b7be35c119e79da",
+      "en_sha256": "6fb31158514c7975b594e54f430f3614d4251cf928a5067fd68d9ea877445d6a",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">+(Siła [Breath] + Licznik [Breath])% obrażeń krytycznych (maks. 20%)</style>",
+      "kr_sha256": "7772f51c73cc6afc1ca84e3652d8826f6e8708b5411f23419e444946d8b7da20",
+      "en_sha256": "0f73e95214c85576774365931f850dd01bfb689ffda6c288b15123af8dbddda5",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] nakłada wszystkim sojusznikom Siłę [Breath] równą (najwyższemu Rezonansowi) (maks. <style=\"highlight\">6</style>)\n- przy Rezonansie Pychy 3+ zwiększa o 1 Licznika [Breath] jednostkom objętym i nakłada na nie 1 [ReleaseBreath] następnej tury",
+      "kr_sha256": "c1803fad335ad3401d5a7a666f3c3155c203681af80b9ac09532a714b72d4515",
+      "en_sha256": "a9299178cc9b25bc08153870e276faf052ec1f5a8f15d33bda3e97aad72cd0f6",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=3].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=4].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje +1 Licznika [Breath]<style=\"highlight\"></style>",
+      "kr_sha256": "5d3130f78fea9af63112aea77068d1c715e401a83c671778afef2878c3713bcf",
+      "en_sha256": "906e10dc23511d5dd35e375f54d211c3d076cacf6fbea6e945b84ebed7e7ac90",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "+(Siła [Breath] + Licznik [Breath])% obrażeń krytycznych (maks. <style=\"highlight\">40%</style>)",
+      "kr_sha256": "63c6f7ed9cccf9d2f3622f1d250c1322bba32912718530874eb3464327431c8d",
+      "en_sha256": "d0a50439198ec7dcab65793118f25868dcc6200b22884d46eb0099f59bd0c786",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] nakłada wszystkim sojusznikom Siłę [Breath] równą (najwyższemu Rezonansowi) (maks. 6)\n- przy Rezonansie Pychy 3+ zwiększa o 1 Licznika [Breath] jednostkom objętym i nakłada na nie 1 [ReleaseBreath] następnej tury<style=\"highlight\"></style>",
+      "kr_sha256": "305466d8397ec72406a186e572235ec48d563ea23398f3459dd1401dfbda4cdc",
+      "en_sha256": "b7ca57d71c44f3816db8f55dadeb35d9143516e6461c955488c58d34651b4b11",
+      "origin": "ai"
+    },
+    "dataList[id=2020811].levelList[level=4].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=1].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy Sile [Breath] poniżej 20 zyskuje Siłę [Breath] do 20 i traci HP równe (zyskana Siła [Breath] x 2)% Maks. HP\n- ten efekt nie powoduje Oszołomienia ani śmierci\n[BeforeAttack] nakłada wszystkim sojusznikom Siłę [Breath] równą (najwyższemu Rezonansowi) (maks. 4)\n- przy Rezonansie Pychy 3+ zwiększa o 1 Licznika [Breath] jednostkom objętym i nakłada na nie 1 [ReleaseBreath] oraz 1 [IndigoDamageUp] następnej tury",
+      "kr_sha256": "9877ec77bc88c2a015c4f98cd04b47acc2225d46bce5b4a159e98fbd00456806",
+      "en_sha256": "2c91ec6d4b9e4b253c207239ce3b34c9caff864e3279102b07f2a0458d992df4",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=1].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=3].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Zwiększa własny Licznik [Breath] o 1</style>",
+      "kr_sha256": "d7795c5a10c1dc1fa68639644fd9a88a9b35a1356761e7524b7be35c119e79da",
+      "en_sha256": "6fb31158514c7975b594e54f430f3614d4251cf928a5067fd68d9ea877445d6a",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">+(Siła [Breath] + Licznik [Breath])% obrażeń krytycznych (maks. 20%)</style>",
+      "kr_sha256": "7772f51c73cc6afc1ca84e3652d8826f6e8708b5411f23419e444946d8b7da20",
+      "en_sha256": "0f73e95214c85576774365931f850dd01bfb689ffda6c288b15123af8dbddda5",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy Sile [Breath] poniżej 20 zyskuje Siłę [Breath] do 20 i traci HP równe (zyskana Siła [Breath] x 2)% Maks. HP\n- ten efekt nie powoduje Oszołomienia ani śmierci\n[BeforeAttack] nakłada wszystkim sojusznikom Siłę [Breath] równą (najwyższemu Rezonansowi) (maks. <style=\"highlight\">6</style>)\n- przy Rezonansie Pychy 3+ zwiększa o 1 Licznika [Breath] jednostkom objętym i nakłada na nie 1 [ReleaseBreath] oraz 1 [IndigoDamageUp] następnej tury",
+      "kr_sha256": "9cf085a559ad2454be82aa0e764b8afba678828e013a0bda0d373ebb3f00aeb1",
+      "en_sha256": "a816f7b7cec0cd22d586a487cefa628a2a5f30b77d899bae107fbaa0e5ec902c",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=3].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=4].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje +1 Licznika [Breath]<style=\"highlight\"></style>",
+      "kr_sha256": "5d3130f78fea9af63112aea77068d1c715e401a83c671778afef2878c3713bcf",
+      "en_sha256": "906e10dc23511d5dd35e375f54d211c3d076cacf6fbea6e945b84ebed7e7ac90",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "+(Siła [Breath] + Licznik [Breath])% obrażeń krytycznych (maks. <style=\"highlight\">40%</style>)",
+      "kr_sha256": "63c6f7ed9cccf9d2f3622f1d250c1322bba32912718530874eb3464327431c8d",
+      "en_sha256": "d0a50439198ec7dcab65793118f25868dcc6200b22884d46eb0099f59bd0c786",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy Sile [Breath] poniżej 20 zyskuje Siłę [Breath] do 20 i traci HP równe (zyskana Siła [Breath] x 2)% Maks. HP\n- ten efekt nie powoduje Oszołomienia ani śmierci\n[BeforeAttack] nakłada wszystkim sojusznikom Siłę [Breath] równą (najwyższemu Rezonansowi) (maks. 6)\n- przy Rezonansie Pychy 3+ zwiększa o 1 Licznika [Breath] jednostkom objętym i nakłada na nie 1 [ReleaseBreath] oraz 1 [IndigoDamageUp] następnej tury<style=\"highlight\"></style>",
+      "kr_sha256": "5b7b96cacbd7ad7044260c9c1c7f8d4c0271234d80fd9b03f23e02073224b9e7",
+      "en_sha256": "94b4ad10a5fb444a649a78d2be397ce56210e22e946cf2c097d795402f8e4786",
+      "origin": "ai"
+    },
+    "dataList[id=2020821].levelList[level=4].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=1].abName": {
+      "pl": "Kal'tsit",
+      "kr_sha256": "0b3e14bf028bd6db6fc140fe5f904d72084e2fac97a10772dc5bdcfcc0b0075a",
+      "en_sha256": "c571bef9245737a870b97f7ca6bf13a8d83a74569c117d4bc5db6a9d41813570",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=1].desc": {
+      "pl": "Jeżeli cel główny ma [Combustion] lub [Burst], +1 do Mocy Końcowej\n[BeforeAttack] zadaje +1% obrażeń za każde 1 (suma Siły i Licznika [Burst] celu głównego) (maks. 15%)\n[EndSkill] zyskuje 4 [CuredFilm]\n[EndSkill] leczy siebie i 1 sojusznika z najniższym procentem HP o 15% Maks. HP tej jednostki\n- jeżeli HP tej jednostki jest pełne, zamiast tego leczy 2 innych sojuszników\n[EndSkill] leczy 10 SP dla 2 sojuszników z najniższym SP, wliczając tę jednostkę",
+      "kr_sha256": "20eb0f5faf3861fb457a33230ca0a09d3472f045733fea0a32c23b02307e73b1",
+      "en_sha256": "2aad8f2f301bf842e9b6820615f1f5604a303f1b58f4d74c7338a87cf4f9ac5e",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=1].name": {
+      "pl": "Rozkaz : Roztopienie",
+      "kr_sha256": "902b6615166eaee104717fa61d3886e6467932240a135556a1b98dd94158aa25",
+      "en_sha256": "32a302bf4d6354abc9eb679089ef3451dad97738f02787fa82949d846c4bc9bf",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=3].abName": {
+      "pl": "Kal'tsit",
+      "kr_sha256": "0b3e14bf028bd6db6fc140fe5f904d72084e2fac97a10772dc5bdcfcc0b0075a",
+      "en_sha256": "c571bef9245737a870b97f7ca6bf13a8d83a74569c117d4bc5db6a9d41813570",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Burst]",
+      "kr_sha256": "b2528a893d4716438519359cd34c88a427fb331926b09a9324637d60f25fe985",
+      "en_sha256": "7ac16bb519790eb3721966f7608f115f8b9b29265fe76be9528a67ef772e0c5c",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Combustion]",
+      "kr_sha256": "2ded9a981374ef75f098d42e5a47ce468c76d02842ce287871c06a5b0e83b251",
+      "en_sha256": "93c452f397a64277ed2885186e856e2310c547138706b32097ab09a13716bdff",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=3].desc": {
+      "pl": "Jeżeli cel główny ma [Combustion] lub [Burst], do Mocy Końcowej <style=\"highlight\">+2</style>\n[BeforeAttack] zadaje +1% obrażeń za każde 1 (suma Siły i Licznika [Burst] celu głównego) (maks. 15%)\n<style=\"highlight\">- jeżeli ta jednostka posiada [CuredFilm], mnoży ten efekt i jego maksymalny limit x 1,5</style>\n[EndSkill] zyskuje <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] leczy siebie i 1 sojusznika z najniższym procentem HP o <style=\"highlight\">20%</style> Maks. HP tej jednostki\n- jeżeli HP tej jednostki jest pełne, zamiast tego leczy 2 innych sojuszników\n[EndSkill] leczy 10 SP dla 2 sojuszników z najniższym SP, wliczając tę jednostkę",
+      "kr_sha256": "d43e20fc2b245f7e2f6c95009597701a1039b745cb33784edcc806dcf789fa48",
+      "en_sha256": "9c9aa8ee44000bc9409567a50f3b176f3e9d6a2efefd196d523f7257f7b28602",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=3].name": {
+      "pl": "Rozkaz : Roztopienie",
+      "kr_sha256": "902b6615166eaee104717fa61d3886e6467932240a135556a1b98dd94158aa25",
+      "en_sha256": "32a302bf4d6354abc9eb679089ef3451dad97738f02787fa82949d846c4bc9bf",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=4].abName": {
+      "pl": "Kal'tsit",
+      "kr_sha256": "0b3e14bf028bd6db6fc140fe5f904d72084e2fac97a10772dc5bdcfcc0b0075a",
+      "en_sha256": "c571bef9245737a870b97f7ca6bf13a8d83a74569c117d4bc5db6a9d41813570",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Burst]",
+      "kr_sha256": "8ee9af47a0a0762409c0248b3bfdd60592bb19f6beed1e9c5e1e911b41fdd7b5",
+      "en_sha256": "cd904b17f584557ce946705b271c0f6551dfadb3d00e00e9919d724075f1473c",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Combustion]",
+      "kr_sha256": "9fca55b3f4c75eca42f7748df59002760509da0547c06631b66f860422b5a8b3",
+      "en_sha256": "307edd036adceaa9ed9cf4bb2637847025de2c1a8f3ca02914b66bb7f51665a8",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=4].desc": {
+      "pl": "Jeżeli cel główny ma [Combustion] lub [Burst], do Mocy Końcowej <style=\"highlight\">+3</style>\n[BeforeAttack] zadaje +1% obrażeń za każde 1 (suma Siły i Licznika [Burst] celu głównego) (maks. <style=\"highlight\">25%</style>)\n- jeżeli ta jednostka posiada [CuredFilm], mnoży ten efekt i jego maksymalny limit x <style=\"highlight\">2</style>\n[EndSkill] zyskuje <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] leczy siebie i 1 sojusznika z najniższym procentem HP o <style=\"highlight\">30%</style> Maks. HP tej jednostki\n- jeżeli HP tej jednostki jest pełne, zamiast tego leczy 2 innych sojuszników\n[EndSkill] leczy <style=\"highlight\">15</style> SP dla 2 sojuszników z najniższym SP, wliczając tę jednostkę",
+      "kr_sha256": "a873a6c9cb981d506c45d801d4a99092ffee86d75da55dfd14c52b93fcd8ab7c",
+      "en_sha256": "79b7a2f7aaf29832ee045d52e381100a8561c87aa1f9b6ff4a713604b545dec0",
+      "origin": "ai"
+    },
+    "dataList[id=2020911].levelList[level=4].name": {
+      "pl": "Rozkaz : Roztopienie",
+      "kr_sha256": "902b6615166eaee104717fa61d3886e6467932240a135556a1b98dd94158aa25",
+      "en_sha256": "32a302bf4d6354abc9eb679089ef3451dad97738f02787fa82949d846c4bc9bf",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=1].abName": {
+      "pl": "Kal'tsit",
+      "kr_sha256": "0b3e14bf028bd6db6fc140fe5f904d72084e2fac97a10772dc5bdcfcc0b0075a",
+      "en_sha256": "c571bef9245737a870b97f7ca6bf13a8d83a74569c117d4bc5db6a9d41813570",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy 4+ najwyższego Rezonansu zyskuje +1 Wagi Ataku\n[EndSkill] zyskuje 4 [CuredFilm]\n[EndSkill] jeżeli obrażenia tej Umiejętności nie Oszołomiły ani nie zabiły żadnego celu, otrzymuje obrażenia HP równe 20% Maks. HP tej jednostki i zyskuje Tarczę równą otrzymanym obrażeniom HP z tego efektu\n- te obrażenia nie zabijają tej jednostki. Na koniec tury Licznik [CuredFilm] zostaje zmaksymalizowany, a następnej tury zyskuje 2 [AttackDmgUp] (1 raz na turę)",
+      "kr_sha256": "f4b8d7259fe7c3363fadfb40bac52fd42f69d57585ffa4cd13fdd331883f307d",
+      "en_sha256": "8231ed233245a27ac72d140a6575ce1c3bdc4c51d1ed5cec94ed158c08f44742",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=1].name": {
+      "pl": "Rozkaz : Roztopienie",
+      "kr_sha256": "902b6615166eaee104717fa61d3886e6467932240a135556a1b98dd94158aa25",
+      "en_sha256": "32a302bf4d6354abc9eb679089ef3451dad97738f02787fa82949d846c4bc9bf",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].abName": {
+      "pl": "Kal'tsit",
+      "kr_sha256": "0b3e14bf028bd6db6fc140fe5f904d72084e2fac97a10772dc5bdcfcc0b0075a",
+      "en_sha256": "c571bef9245737a870b97f7ca6bf13a8d83a74569c117d4bc5db6a9d41813570",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Nakłada +1 Licznika [Burst]</style>",
+      "kr_sha256": "abae10d1a7f334fe4b39a0525091cfc14af22dbf6ea2a3c965c6fa19017dacb4",
+      "en_sha256": "68c51b31115f339f88a61e9f7c115ba35ff2c6bce8be4d8587267030464d5ed5",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Combustion]",
+      "kr_sha256": "2ded9a981374ef75f098d42e5a47ce468c76d02842ce287871c06a5b0e83b251",
+      "en_sha256": "93c452f397a64277ed2885186e856e2310c547138706b32097ab09a13716bdff",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">jeżeli cel główny ma 6+ (Siła [Burst] + Licznik [Burst]), +1 do Mocy Bazowej</style>\n[BeforeAttack] przy <style=\"highlight\">3</style>+ najwyższego Rezonansu zyskuje +1 Wagi Ataku\n[EndSkill] zyskuje <style=\"highlight\">7</style> [CuredFilm]\n[EndSkill] jeżeli obrażenia tej Umiejętności nie Oszołomiły ani nie zabiły żadnego celu, otrzymuje obrażenia HP równe 20% Maks. HP tej jednostki i zyskuje Tarczę równą otrzymanym obrażeniom HP z tego efektu\n- te obrażenia nie zabijają tej jednostki. Na koniec tury Licznik [CuredFilm] zostaje zmaksymalizowany, a następnej tury zyskuje 2 [AttackDmgUp] (1 raz na turę)",
+      "kr_sha256": "267d6ab377f3aa96fe1e61d8dd0863594e57ee64511545ef8612a55f33c3bafc",
+      "en_sha256": "74e61c1017dba3c0631e562d00e898a633a835c225971c7e7539f16216d06c8f",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=3].name": {
+      "pl": "Rozkaz : Roztopienie",
+      "kr_sha256": "902b6615166eaee104717fa61d3886e6467932240a135556a1b98dd94158aa25",
+      "en_sha256": "32a302bf4d6354abc9eb679089ef3451dad97738f02787fa82949d846c4bc9bf",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].abName": {
+      "pl": "Kal'tsit",
+      "kr_sha256": "0b3e14bf028bd6db6fc140fe5f904d72084e2fac97a10772dc5bdcfcc0b0075a",
+      "en_sha256": "c571bef9245737a870b97f7ca6bf13a8d83a74569c117d4bc5db6a9d41813570",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Nakłada 1 [Burst]</style>",
+      "kr_sha256": "028323e8e8c523fe58ba4b4ac8130ae6a1c2d15faf757cf0c81e21de9c4bb012",
+      "en_sha256": "53826b95fc5e0309069204b8a02dc8c83baa387d58736a0629fd180de87e6490",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Burst] celu o <style=\"highlight\">2</style>",
+      "kr_sha256": "52a5f4e5ace5a1e78fcefba1c3e6e3bbc3c227fce7895561386c9c93f75f1781",
+      "en_sha256": "a01c85d98078904faa85d14e49cdf88a529bfb0194ba905605af330493f94926",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnStartCoin] jeżeli obrażenia tej Umiejętności nie Oszołomiły ani nie zabiły żadnego celu, zadaje +30% obrażeń</style>",
+      "kr_sha256": "8cdfee154266d1bef34df93dc10c2a3ea68dac9e50ffd82799d97a74be20430b",
+      "en_sha256": "9d421b11d22c6fd105fc9a027b5080e5db6947826b76bfd48f7a1b11cb80eeb1",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Combustion]",
+      "kr_sha256": "9fca55b3f4c75eca42f7748df59002760509da0547c06631b66f860422b5a8b3",
+      "en_sha256": "307edd036adceaa9ed9cf4bb2637847025de2c1a8f3ca02914b66bb7f51665a8",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">+1 do Mocy Bazowej za każde 6 (Siła [Burst] + Licznik [Burst]) na celu głównym (maks. 2)</style>\n<style=\"highlight\">[BeforeAttack] zyskuje +1 Wagi Ataku za każde 3 najwyższego Rezonansu (maks. 2)</style>\n[EndSkill] zyskuje <style=\"highlight\">10</style> [CuredFilm]\n[EndSkill] jeżeli obrażenia tej Umiejętności nie Oszołomiły ani nie zabiły żadnego celu, otrzymuje obrażenia HP równe 20% Maks. HP tej jednostki i zyskuje Tarczę równą <style=\"highlight\">(otrzymanym obrażeniom HP z tego efektu x 2)</style>\n- te obrażenia nie zabijają tej jednostki. Na koniec tury Licznik [CuredFilm] zostaje zmaksymalizowany, a następnej tury zyskuje 2 [AttackDmgUp] (1 raz na turę)",
+      "kr_sha256": "94b859c48075f9bbd46c739b88ba2855b028ebeefbfef10d06f32c7f785e594b",
+      "en_sha256": "3c653f68ac2879674907bf3f017c8093c005c020d50828241d1476c5edcc8040",
+      "origin": "ai"
+    },
+    "dataList[id=2020921].levelList[level=4].name": {
+      "pl": "Rozkaz : Roztopienie",
+      "kr_sha256": "902b6615166eaee104717fa61d3886e6467932240a135556a1b98dd94158aa25",
+      "en_sha256": "32a302bf4d6354abc9eb679089ef3451dad97738f02787fa82949d846c4bc9bf",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=1].abName": {
+      "pl": "Ćma Szkarłatnego Płomienia",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[EndCoin] przy 15+ własnego [Combustion] nakłada 1 [FaustFlameMothEmber] na wszystkie cele ataku (1 raz na turę; w walkach skupionych liczone per Część)",
+      "kr_sha256": "a6a5240f9f05aef0acf9addcfa14a4bbdb60974b9d3d4a03adcdd9246c644f83",
+      "en_sha256": "6500f06b2163e0a990fe97950c085424fb89155fa0b5c8de1192869a135a7838",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] +1 do Mocy Końcowej za każde 10 (suma [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 2)\n[EndSkill] zyskuje 10 [Combustion] i +1 Licznika [Combustion]\n[EndSkill] przy 15+ własnego [Combustion] następnej tury zyskuje 1 [CrimsonDamageUp] (1 raz na turę)",
+      "kr_sha256": "7083af164b36380663bba5fe6a433d27a47e6ac589418ed6200281167c5c2161",
+      "en_sha256": "de01e64622d2d2d42539db5ced7de2bcb508f4170183c622a28dfd49c06f181d",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=1].name": {
+      "pl": "Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
+      "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=3].abName": {
+      "pl": "Ćma Szkarłatnego Płomienia",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada [Combustion] równe (Rezonans Gniewu / 2) (maks. 3, zaokrąglone w dół)</style>",
+      "kr_sha256": "f9b1a34e5b7144a8265ac408993bd55f30efe0eff9126958a527ba3f23cb3876",
+      "en_sha256": "87c6701a794fb0b855be42d0153506a650abfd9f2d07b8be0f511ea3730ecf66",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[EndCoin] przy 15+ własnego [Combustion] nakłada 1 [FaustFlameMothEmber] na wszystkie cele ataku (1 raz na turę; w walkach skupionych liczone per Część)",
+      "kr_sha256": "a6a5240f9f05aef0acf9addcfa14a4bbdb60974b9d3d4a03adcdd9246c644f83",
+      "en_sha256": "6500f06b2163e0a990fe97950c085424fb89155fa0b5c8de1192869a135a7838",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] +1 do Mocy Końcowej za każde 10 (suma [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 2)\n[EndSkill] zyskuje 10 [Combustion] i +1 Licznika [Combustion]\n[EndSkill] przy 15+ własnego [Combustion] następnej tury zyskuje 1 [CrimsonDamageUp] (1 raz na turę)",
+      "kr_sha256": "7083af164b36380663bba5fe6a433d27a47e6ac589418ed6200281167c5c2161",
+      "en_sha256": "de01e64622d2d2d42539db5ced7de2bcb508f4170183c622a28dfd49c06f181d",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=3].name": {
+      "pl": "Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
+      "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=4].abName": {
+      "pl": "Ćma Szkarłatnego Płomienia",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Combustion] równe (Rezonans Gniewu / 2) (maks. 3, zaokrąglone w dół)<style=\"highlight\"></style>",
+      "kr_sha256": "ee3e7a4e06ad7e11714e6c9a107d78e0106c11eb9f96503343d86a7b7162cb97",
+      "en_sha256": "9f32e7f0b9a6de125311741e54d920208eb74f3be901b0bc10965c5f30303b97",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada Licznik [Combustion] równy (Rezonans Gniewu / 3) (maks. 2, zaokrąglone w dół)</style>",
+      "kr_sha256": "4ae214c4412d6a301af74df80737b79aa2b742ab6902cc50328098d7caa58c43",
+      "en_sha256": "9c2609466268db4cf61c897f4f2468fdc455280861e5e4c7972617ce285c27d4",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[EndCoin] przy 15+ własnego [Combustion] nakłada 1 [FaustFlameMothEmber] na wszystkie cele ataku (1 raz na turę; w walkach skupionych liczone per Część)<style=\"highlight\"></style>",
+      "kr_sha256": "14285bcc68b49fedab6df2f8855e0f5c69cdeda3930f602259b8eec4d378f1c7",
+      "en_sha256": "e361c213c117e7ccc4d3e6ef5176a54da57bfac8cf8cb0ceed420b2044c0d633",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] +1 do Mocy Końcowej za każde 10 (suma [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 2)\n[EndSkill] zyskuje 10 [Combustion] i +1 Licznika [Combustion]\n[EndSkill] przy 15+ własnego [Combustion] następnej tury zyskuje 1 [CrimsonDamageUp] (1 raz na turę)",
+      "kr_sha256": "7083af164b36380663bba5fe6a433d27a47e6ac589418ed6200281167c5c2161",
+      "en_sha256": "de01e64622d2d2d42539db5ced7de2bcb508f4170183c622a28dfd49c06f181d",
+      "origin": "ai"
+    },
+    "dataList[id=2021011].levelList[level=4].name": {
+      "pl": "Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
+      "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=1].abName": {
+      "pl": "Ćma Szkarłatnego Płomienia",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "6aa4c8465441a1da6a142e4682b336de17247c0c05728decfe418cb8983552c5",
+      "en_sha256": "68373c9596cc2897674710317e85d3e251c2e0ae26159169bab7a9aafd3cb483",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[EndCoin] losowo nakłada 3 [FaustFlameMothEmber] między cele ataku (1 raz na turę, z wyłączeniem celów z maksymalną Siłą [FaustFlameMothEmber]. W walkach skupionych liczone per Część)",
+      "kr_sha256": "2b267986d2a687c7a57130d2f5880764589a0ae858387fb48b1eff8172fac7eb",
+      "en_sha256": "6f28c3e48647c69a01cd0b5463504a88fb572812a190997780976b9e9abc1f7a",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] +1 do Mocy Końcowej za każde 10 (suma [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 2)\n[EndSkill] zyskuje 10 [Combustion] i +1 Licznika [Combustion]\n[EndSkill] przy 25+ własnego [Combustion] następnej tury zyskuje 2 [CrimsonDamageUp] (1 raz na turę)\n[EndSkill] jeżeli tej jednostce brakuje 50%+ HP, odzyskuje 5 SP za każde 10 własnego [Combustion] (maks. 10)",
+      "kr_sha256": "1c4cc9c03282f050f8fef7a5d9239be0d8378e0284de3976b6e245ebd68a242b",
+      "en_sha256": "6c1406466bcc31d7d833950958c8f3afa439e6265ecce666a2d9caa5b05f655b",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=1].name": {
+      "pl": "Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
+      "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=3].abName": {
+      "pl": "Ćma Szkarłatnego Płomienia",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "6aa4c8465441a1da6a142e4682b336de17247c0c05728decfe418cb8983552c5",
+      "en_sha256": "68373c9596cc2897674710317e85d3e251c2e0ae26159169bab7a9aafd3cb483",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada [Combustion] równe (Rezonans Gniewu / 2) (maks. 3, zaokrąglone w dół)</style>",
+      "kr_sha256": "f9b1a34e5b7144a8265ac408993bd55f30efe0eff9126958a527ba3f23cb3876",
+      "en_sha256": "87c6701a794fb0b855be42d0153506a650abfd9f2d07b8be0f511ea3730ecf66",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[EndCoin] losowo nakłada 3 [FaustFlameMothEmber] między cele ataku (1 raz na turę, z wyłączeniem celów z maksymalną Siłą [FaustFlameMothEmber]. W walkach skupionych liczone per Część)",
+      "kr_sha256": "2b267986d2a687c7a57130d2f5880764589a0ae858387fb48b1eff8172fac7eb",
+      "en_sha256": "6f28c3e48647c69a01cd0b5463504a88fb572812a190997780976b9e9abc1f7a",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] +1 do Mocy Końcowej za każde 10 (suma [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 2)\n[EndSkill] zyskuje 10 [Combustion] i +1 Licznika [Combustion]\n[EndSkill] przy 25+ własnego [Combustion] następnej tury zyskuje 2 [CrimsonDamageUp] (1 raz na turę)\n[EndSkill] jeżeli tej jednostce brakuje 50%+ HP, odzyskuje 5 SP za każde 10 własnego [Combustion] (maks. 10)",
+      "kr_sha256": "1c4cc9c03282f050f8fef7a5d9239be0d8378e0284de3976b6e245ebd68a242b",
+      "en_sha256": "6c1406466bcc31d7d833950958c8f3afa439e6265ecce666a2d9caa5b05f655b",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=3].name": {
+      "pl": "Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
+      "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].abName": {
+      "pl": "Ćma Szkarłatnego Płomienia",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "6aa4c8465441a1da6a142e4682b336de17247c0c05728decfe418cb8983552c5",
+      "en_sha256": "68373c9596cc2897674710317e85d3e251c2e0ae26159169bab7a9aafd3cb483",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada Licznik [Combustion] równy (Rezonans Gniewu / 3) (maks. 2, zaokrąglone w dół)</style>",
+      "kr_sha256": "4ae214c4412d6a301af74df80737b79aa2b742ab6902cc50328098d7caa58c43",
+      "en_sha256": "9c2609466268db4cf61c897f4f2468fdc455280861e5e4c7972617ce285c27d4",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Combustion] równe (Rezonans Gniewu / 2) (maks. 3, zaokrąglone w dół)<style=\"highlight\"></style>",
+      "kr_sha256": "ee3e7a4e06ad7e11714e6c9a107d78e0106c11eb9f96503343d86a7b7162cb97",
+      "en_sha256": "9f32e7f0b9a6de125311741e54d920208eb74f3be901b0bc10965c5f30303b97",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[EndCoin] losowo nakłada <style=\"highlight\">6</style> [FaustFlameMothEmber] między cele ataku (1 raz na turę, z wyłączeniem celów z maksymalną Siłą [FaustFlameMothEmber]. W walkach skupionych liczone per Część)",
+      "kr_sha256": "522490ad2ab6b00986e648867e6c725dffeac480bb2d08b4fe83ef4d75ce9334",
+      "en_sha256": "923b0897c5c69c88017ee19b641a1ddf4c01cbd94eb06f734f70447ae3a8dbc9",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] +1 do Mocy Końcowej za każde 10 (suma [Combustion] wszystkich celów ataku i własnego [Combustion]) (maks. 2)\n[EndSkill] zyskuje 10 [Combustion] i +1 Licznika [Combustion]\n[EndSkill] przy 25+ własnego [Combustion] następnej tury zyskuje 2 [CrimsonDamageUp] (1 raz na turę)\n[EndSkill] jeżeli tej jednostce brakuje 50%+ HP, odzyskuje 5 SP za każde 10 własnego [Combustion] (<style=\"highlight\">maks. 15</style>)",
+      "kr_sha256": "d730d60c45c797f7620d72f29e809036b3fc5674323038693750202bc51acdc3",
+      "en_sha256": "6b9872e0f5b1b8816761c5bb84a8b9a9109b76dc9847c305b22f3c5c91f46ea6",
+      "origin": "ai"
+    },
+    "dataList[id=2021021].levelList[level=4].name": {
+      "pl": "Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
+      "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=1].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nPrzy pierwszym użyciu w walce zużywa o 5 mniej SP oraz o 2 mniej zasobów E.G.O: Posępności, Pychy i Zawiści\nprzy 1+ [BulletHole] uruchamia się zamiast tego jako „Boucher un trou”\nTa Umiejętność nie trafia wroga, nie wyzwala Umiejętności Obrony, a efekty zewnętrzne nie mogą wyzwolić jej ponownego użycia\n[EndSkill] zyskuje 5 [BulletHole]\n[EndSkill] zyskuje 5 Siły [Breath]\n[EndSkill] zyskuje +3 Licznika [Breath]\n[EndSkill] zyskuje +5 Licznika [Charge]\n[EndSkill] zyskuje 4 [BlackWingHole]",
+      "kr_sha256": "df0f12236cb063f584c0d9ca82e41c7a0523f8a7706d693964f23b7c9d40af42",
+      "en_sha256": "6c765ed2c50c44221dfcfd1522553ad0db5ba02ad616efa639c091550a9ea97e",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=1].name": {
+      "pl": "Le Trou",
+      "kr_sha256": "5e97165c739f6ee36f96a1119577cb7e4885a307874b965eec6f15f1d5488451",
+      "en_sha256": "23034607a7a6489a6e78f705645b8d98a20efdc97defbb946a8d85f12016f9aa",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=3].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=3].desc": {
+      "pl": "[CantDuel]\nPrzy pierwszym użyciu w walce zużywa o 5 mniej SP oraz o 2 mniej zasobów E.G.O: Posępności, Pychy i Zawiści\nprzy 1+ [BulletHole] uruchamia się zamiast tego jako „Boucher un trou”\nTa Umiejętność nie trafia wroga, nie wyzwala Umiejętności Obrony, a efekty zewnętrzne nie mogą wyzwolić jej ponownego użycia\n[EndSkill] zyskuje 5 [BulletHole]\n[EndSkill] zyskuje 5 Siły [Breath]\n[EndSkill] zyskuje +3 Licznika [Breath]\n[EndSkill] zyskuje +5 Licznika [Charge]\n[EndSkill] zyskuje 4 [BlackWingHole]",
+      "kr_sha256": "df0f12236cb063f584c0d9ca82e41c7a0523f8a7706d693964f23b7c9d40af42",
+      "en_sha256": "6c765ed2c50c44221dfcfd1522553ad0db5ba02ad616efa639c091550a9ea97e",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=3].name": {
+      "pl": "Le Trou",
+      "kr_sha256": "5e97165c739f6ee36f96a1119577cb7e4885a307874b965eec6f15f1d5488451",
+      "en_sha256": "23034607a7a6489a6e78f705645b8d98a20efdc97defbb946a8d85f12016f9aa",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=4].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=4].desc": {
+      "pl": "[CantDuel]\nPrzy pierwszym użyciu w walce zużywa o 5 mniej SP oraz o 2 mniej zasobów E.G.O: Posępności, Pychy i Zawiści\nprzy 1+ [BulletHole] uruchamia się zamiast tego jako „Boucher un trou”\nTa Umiejętność nie trafia wroga, nie wyzwala Umiejętności Obrony, a efekty zewnętrzne nie mogą wyzwolić jej ponownego użycia\n[EndSkill] zyskuje 5 [BulletHole]\n[EndSkill] zyskuje 5 Siły [Breath]\n[EndSkill] zyskuje +3 Licznika [Breath]\n[EndSkill] zyskuje +5 Licznika [Charge]\n[EndSkill] zyskuje 4 [BlackWingHole]",
+      "kr_sha256": "df0f12236cb063f584c0d9ca82e41c7a0523f8a7706d693964f23b7c9d40af42",
+      "en_sha256": "6c765ed2c50c44221dfcfd1522553ad0db5ba02ad616efa639c091550a9ea97e",
+      "origin": "ai"
+    },
+    "dataList[id=2021111].levelList[level=4].name": {
+      "pl": "Le Trou",
+      "kr_sha256": "5e97165c739f6ee36f96a1119577cb7e4885a307874b965eec6f15f1d5488451",
+      "en_sha256": "23034607a7a6489a6e78f705645b8d98a20efdc97defbb946a8d85f12016f9aa",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=1].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "Ponawia tę Monetę (zużyte [BulletHole] - 1) razy (maks. 4 razy)",
+      "kr_sha256": "e5396d4556c408580743a0fb952827060d5afc391a1566d7d52d99b02fabd0db",
+      "en_sha256": "80c7d0d3448341a52d90f7f1fd56b82fbfade16fe720d9c56c4a8173a1edb3f5",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=1].desc": {
+      "pl": "Efekty zewnętrzne nie mogą wyzwolić ponownego użycia tej Umiejętności\n+1 do Mocy Starcia za każde 4 (Siła [Breath] + Licznik [Charge]) na tej jednostce (maks. 5)\n+2 do Mocy Starcia za każdy [BulletHole]\n[BeforeAttack] zużywa wszystkie [BulletHole] i stosuje poniższe efekty:\n- za każdy zużyty [BulletHole] zyskuje 2 Siły [Breath], +1 Licznika [Breath] i +2 Licznika [Charge]\n- za każdy zużyty [BulletHole] zadaje +8% obrażeń\njeżeli ta Umiejętność zużyła 5 [BulletHole], odzyskuje 5 SP\n[EndSkill] zyskuje 1 [BulletHole]",
+      "kr_sha256": "2d1e7e7732f6a2fb314bdd209e0b16998741aeb8174bf9f46e2b8c6e4e31ecbc",
+      "en_sha256": "eb96b6c8338dbea8764aee239e32a8ae664ae9d42a0f5c23d125f2f81f8efc27",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=1].name": {
+      "pl": "Boucher un trou",
+      "kr_sha256": "d94f18642d8b952bfadc604fca01f951183ba09afab01e58964fd10dba37ae56",
+      "en_sha256": "ec25b1138dd40d7a8c1181b159e725ddcbf4232be8551ec6766ab4fa0963f3cc",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=3].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "(Ponawia tę Monetę (zużyte [BulletHole] - 1) razy (maks. 4 razy)<style=\"highlight\"></style>",
+      "kr_sha256": "5cc3351b92cf68e468ff186def683689346b3c3b8354d3b2e23d95ac9b896289",
+      "en_sha256": "4485c2ad4158bb4a5967d83081654e6c12af40fb960b83fea27aa806e4399141",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "c653b9ce30fb2412e4e1b7bd578597247eaed75c3bcbe38392814918b1208eae",
+      "en_sha256": "5c01f0ec818de5102cc53ef4caf09a9204f11a6119c847d7abe8f1d37b9e5913",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=3].desc": {
+      "pl": "Efekty zewnętrzne nie mogą wyzwolić ponownego użycia tej Umiejętności\n<style=\"highlight\">zadaje +5%% obrażeń za każdą nadwyżkę Wagi Ataku ponad liczbę rzeczywistych celów (w walkach skupionych liczone per Część)</style>\n+1 do Mocy Starcia za każde 4 (Siła [Breath] + Licznik [Charge]) na tej jednostce (maks. <style=\"highlight\">7</style>)\n+2 do Mocy Starcia za każdy [BulletHole]\n<style=\"highlight\">[BeforeAttack] przy ataku na tylko 1 cel zadaje +50% obrażeń (w walkach skupionych Rdzeń z połączonymi Częściami liczą się jako 1 cel)</style>\n[BeforeAttack] zużywa wszystkie [BulletHole] i stosuje poniższe efekty:\n- za każdy zużyty [BulletHole] zyskuje 2 Siły [Breath], +1 Licznika [Breath] i +2 Licznika [Charge]\n- za każdy zużyty [BulletHole] zadaje +8% obrażeń\njeżeli ta Umiejętność zużyła 5 [BulletHole], odzyskuje 5 SP\n[EndSkill] zyskuje 1 [BulletHole]",
+      "kr_sha256": "b7041efd6a3fbed5d1ae6b258895c3c4641f820fc33b3e7a38f420f3c3ea071f",
+      "en_sha256": "6cbb307c75b7b08a6fc8e7176031814fe4f87ae273967c0f96ed558fc556f277",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=3].name": {
+      "pl": "Boucher un trou",
+      "kr_sha256": "d94f18642d8b952bfadc604fca01f951183ba09afab01e58964fd10dba37ae56",
+      "en_sha256": "ec25b1138dd40d7a8c1181b159e725ddcbf4232be8551ec6766ab4fa0963f3cc",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=4].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "(Ponawia tę Monetę (zużyte [BulletHole] - 1) razy (maks. 4 razy)<style=\"highlight\"></style>",
+      "kr_sha256": "5cc3351b92cf68e468ff186def683689346b3c3b8354d3b2e23d95ac9b896289",
+      "en_sha256": "4485c2ad4158bb4a5967d83081654e6c12af40fb960b83fea27aa806e4399141",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "c653b9ce30fb2412e4e1b7bd578597247eaed75c3bcbe38392814918b1208eae",
+      "en_sha256": "5c01f0ec818de5102cc53ef4caf09a9204f11a6119c847d7abe8f1d37b9e5913",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=4].desc": {
+      "pl": "Efekty zewnętrzne nie mogą wyzwolić ponownego użycia tej Umiejętności\nzadaje <style=\"highlight\">+10%</style>% obrażeń za każdą nadwyżkę Wagi Ataku ponad liczbę rzeczywistych celów (w walkach skupionych liczone per Część)\n+1 do Mocy Starcia za każde 4 (Siła [Breath] + Licznik [Charge]) na tej jednostce (maks. <style=\"highlight\">10</style>)\n+2 do Mocy Starcia za każdy [BulletHole]\n[BeforeAttack] przy ataku na tylko 1 cel zadaje <style=\"highlight\">+100%</style> obrażeń (w walkach skupionych Rdzeń z połączonymi Częściami liczą się jako 1 cel)</style>\n[BeforeAttack] zużywa wszystkie [BulletHole] i stosuje poniższe efekty:\n- za każdy zużyty [BulletHole] zyskuje 2 Siły [Breath], +1 Licznika [Breath] i +2 Licznika [Charge]\n- za każdy zużyty [BulletHole] zadaje +8% obrażeń\n<style=\"highlight\">[EndSkill] nakłada 5 Siły [Breath] i +2 Licznika [Breath] na (2 + najwyższy Rezonans) sojuszników (maks. 7 jednostek)</style>\njeżeli ta Umiejętność zużyła 5 [BulletHole], odzyskuje 5 SP\n[EndSkill] zyskuje 1 [BulletHole]",
+      "kr_sha256": "3e5c9459a4a26b1d26fd4ef2666ac5ef5eab7d12bb5b1566f7dd0001e38f1e57",
+      "en_sha256": "4b69c1495261fe4fb77858a92724db3658864d784da36a2db679c9021ad0e9f7",
+      "origin": "ai"
+    },
+    "dataList[id=2021112].levelList[level=4].name": {
+      "pl": "Boucher un trou",
+      "kr_sha256": "d94f18642d8b952bfadc604fca01f951183ba09afab01e58964fd10dba37ae56",
+      "en_sha256": "ec25b1138dd40d7a8c1181b159e725ddcbf4232be8551ec6766ab4fa0963f3cc",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n+1 do Mocy Starcia za każde 4 (Siła [Breath] + Licznik [Charge]) na tej jednostce (maks. 5)\n\n[BeforeAttack] zyskuje +3 Licznika [Breath] i +5 Licznika [Charge]\n[BeforeAttack] zużywa do 15 nadwyżkowych Liczników [Charge] ponad 10, zadając +(zużyte Liczniki [Charge] x 2)% obrażeń\n[BeforeAttack] przy maksymalnym [BulletHole] zużywa wszystkie [BulletHole], nakładając następnej tury na wszystkich sojuszników poniższe efekty:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (1 raz na turę)\n- 1 [CriticalDamageUp] (1 raz na turę)\n[BeforeAttack] -3 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -9)\n[EndSkill] zyskuje 1 [BulletHole] i 2 [BlackWingHole]",
+      "kr_sha256": "d86bc6a747ada0b489faf5ba4ff709ae83b86519b0b4ee4410acb415cab771ad",
+      "en_sha256": "930b3319766c95b1ed3bf58671e1604df7032583f270cc3a3f0f0a0e2d9477ac",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=1].name": {
+      "pl": "Dziura",
+      "kr_sha256": "bdf45aec9d9cea46cc2fabed2c23c3aa0bd92adca0c1ca071b71cba929c51433",
+      "en_sha256": "07e7305c53404dc1f5780fd802a6c69f837bbadd142d5f67f4f1109f16ffaa73",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "0f44fa7172b9d57841e6309a3159a66be9033a03c4e1fe170966e69440ae940b",
+      "en_sha256": "c565d076123ca036510e391e23c0caeb29b5d4e3f82393c0839a5777e9fcc333",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "d6f40094c547c8484a656e20f017b9c4e09468dab1132447b734df6b2efabe13",
+      "en_sha256": "36590a0a5eccf42297a33337e827163e0c2133c12ef28c5c2a51d4d3eff62679",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n+1 do Mocy Starcia za każde 4 (Siła [Breath] + Licznik [Charge]) na tej jednostce (maks. <style=\"highlight\">7</style>)\n\n[BeforeAttack] zyskuje +3 Licznika [Breath] i +5 Licznika [Charge]\n[BeforeAttack] zużywa do 15 nadwyżkowych Liczników [Charge] ponad 10, zadając +(zużyte Liczniki [Charge] x <style=\"highlight\">3</style>)% obrażeń\n[BeforeAttack] przy maksymalnym [BulletHole] zużywa wszystkie [BulletHole], nakładając następnej tury na wszystkich sojuszników poniższe efekty:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (1 raz na turę)\n- 1 [CriticalDamageUp] (1 raz na turę)\n[BeforeAttack] -3 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -9)\n[EndSkill] zyskuje 1 [BulletHole] i 2 [BlackWingHole]\n<style=\"highlight\">[EndSkill] nakłada 5 Siły [Breath] i +2 Licznika [Breath] na (2 + najwyższy Rezonans) losowych sojuszników (maks. 7 jednostek)</style>",
+      "kr_sha256": "c27466b544fac661651d2178ecbc1c79caa7c96bce32e9d78b87d0d9702c4e45",
+      "en_sha256": "63e90f519256e332ed45af69db9ee5301f497485d2d08c5ed1babc22a5ab5f58",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=3].name": {
+      "pl": "Dziura",
+      "kr_sha256": "bdf45aec9d9cea46cc2fabed2c23c3aa0bd92adca0c1ca071b71cba929c51433",
+      "en_sha256": "07e7305c53404dc1f5780fd802a6c69f837bbadd142d5f67f4f1109f16ffaa73",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].abName": {
+      "pl": "Wydrążony Człowiek",
+      "kr_sha256": "8f9f72346589bde76d838f1f3bd1da2904cc69762d03c7b1d833f4c3a756c699",
+      "en_sha256": "e3b7b45bc31432a8d7312ea1876c4b3b55677bab1456598740e16f97afd5817f",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "0f44fa7172b9d57841e6309a3159a66be9033a03c4e1fe170966e69440ae940b",
+      "en_sha256": "c565d076123ca036510e391e23c0caeb29b5d4e3f82393c0839a5777e9fcc333",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "d6f40094c547c8484a656e20f017b9c4e09468dab1132447b734df6b2efabe13",
+      "en_sha256": "36590a0a5eccf42297a33337e827163e0c2133c12ef28c5c2a51d4d3eff62679",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n+1 do Mocy Starcia za każde 4 (Siła [Breath] + Licznik [Charge]) na tej jednostce (maks. <style=\"highlight\">10</style>)\n\n[BeforeAttack] zyskuje +3 Licznika [Breath] i +5 Licznika [Charge]\n[BeforeAttack] zużywa do 15 nadwyżkowych Liczników [Charge] ponad 10, zadając +(zużyte Liczniki [Charge] x <style=\"highlight\">5</style>)% obrażeń\n[BeforeAttack] przy maksymalnym [BulletHole] zużywa wszystkie [BulletHole], nakładając następnej tury na wszystkich sojuszników poniższe efekty:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (1 raz na turę)\n- 1 [CriticalDamageUp] (1 raz na turę)\n[BeforeAttack] -3 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -9)\n[EndSkill] zyskuje 1 [BulletHole] i 2 [BlackWingHole]\n[EndSkill] nakłada 5 Siły [Breath], +2 Licznika [Breath], <style=\"highlight\">i 2 [BlackWingHole]</style> na (2 + najwyższy Rezonans) losowych sojuszników (maks. 7 jednostek)",
+      "kr_sha256": "b8839174b4e392378a58ff642d9a7483a1aebf256bc9970ca19879a4dfdf3368",
+      "en_sha256": "8908a711f5f0e106fad4b2d5e6702a9fb5201ff47b9146f0438910908e9c146b",
+      "origin": "ai"
+    },
+    "dataList[id=2021121].levelList[level=4].name": {
+      "pl": "Dziura",
+      "kr_sha256": "bdf45aec9d9cea46cc2fabed2c23c3aa0bd92adca0c1ca071b71cba929c51433",
+      "en_sha256": "07e7305c53404dc1f5780fd802a6c69f837bbadd142d5f67f4f1109f16ffaa73",
+      "origin": "ai"
+    }
+  }
+}

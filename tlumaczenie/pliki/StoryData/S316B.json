@@ -1,0 +1,134 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "No dobrze, co teraz? Jeśli będziemy się poruszać po cichu, przemkniemy niezauważeni przez pozostałych Inkwizytorów.",
+      "kr_sha256": "030acaa684a29588f5eb010506c32732adb7bac2b27cd17bc01cb1bb34e94b29",
+      "en_sha256": "9284f3ac7a5c456eecd5b953fc7b3949ff8b60fb77da59f4720890f397e7b1a8"
+    },
+    "dataList[id=10].content": {
+      "pl": "Może taki, któremu towarzyszy jego własny rodzaj odwagi.",
+      "kr_sha256": "7ce1e77c18879fd5da0710e3108c6ba95c178cdbc5743afef600acf88998af80",
+      "en_sha256": "0b776a7d5502d93e2f262afe3477e4690ea2671de7555538fa2651a7c7c012a6"
+    },
+    "dataList[id=11].content": {
+      "pl": "Skoro tak…",
+      "kr_sha256": "f20d25765edea86c45b39d06475fb28ae58f8cba46aae60857b2972b64864422",
+      "en_sha256": "e794672a32cc744e24c075ca3ff382c7a5a99ba857a71568d37767cead1d2117"
+    },
+    "dataList[id=12].content": {
+      "pl": "<Boisz się, Sinclair?>",
+      "kr_sha256": "13390321ea99a94ce8d5c857a60d6ca12d4ac10eb3e81a84c57091d216c36b17",
+      "en_sha256": "0d8b68c1c9a211d1d19db2a339e5734dd243e3f0b439c5b1f82a9953381b9dc5"
+    },
+    "dataList[id=13].content": {
+      "pl": "…!",
+      "kr_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd",
+      "en_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd"
+    },
+    "dataList[id=15].content": {
+      "pl": "Sinclair gwałtownie odwrócił głowę i spojrzał na mnie z niedowierzaniem.",
+      "kr_sha256": "ec9b5e87a6df7ab88340639445893974e3b85c41f6f897c9ff3110a7403ad802",
+      "en_sha256": "14d5e7aa9e46f7771a8804624d5dfd6a04b2bf12679ca795be8995671ca5f5a1"
+    },
+    "dataList[id=16].content": {
+      "pl": "<Hm? Powiedziałem coś nie tak?>",
+      "kr_sha256": "aa5bdfb4b863b924401a54f8a6c6207d8ad8b801f0f68a9a3b1e570f7315b020",
+      "en_sha256": "2182421cc1dc85c27bc5e9d7b530e6399af82bbf508250b9a8cff326e6893db0"
+    },
+    "dataList[id=17].content": {
+      "pl": "Nie… Po prostu przypomniał mi się przyjaciel, który dawno temu zapytał mnie o to samo.",
+      "kr_sha256": "00b28d755c11d7cc6069b9fa5b1ee0a08c6e7711e9534d6131bb956eb9a40d86",
+      "en_sha256": "c5b422feef5898378ffc0339da91400e92f58fac8e9e88e7b4c569362f547db4"
+    },
+    "dataList[id=18].content": {
+      "pl": "Po krótkiej ciszy Sinclair znów się odezwał. Głos miał całkiem ściśnięty.",
+      "kr_sha256": "766f6cc33f99ab0d5d19b89d796b5d19cd0b9a834561f7fdc5f9af4131cd413e",
+      "en_sha256": "faed30f201fc135bc5a36aaf2c6da3db620b7dec9e01d4c014e0ca25fe99072a"
+    },
+    "dataList[id=19].content": {
+      "pl": "…Zgadzam się z panem Heathcliffem.",
+      "kr_sha256": "3d191035e5129499648df67e23db34b563a9dd196545534f7348a3808cd188f2",
+      "en_sha256": "c90329adf76d1384600cc4d7fa13debac969d379e9e6909899f82d35bff3c890"
+    },
+    "dataList[id=1].content": {
+      "pl": "Dante… ja… z góry przepraszam.",
+      "kr_sha256": "66f8682c6eba9e2f5eebb7c9d03cddcf7be7e68a886ccc99aad8b56497f58b1b",
+      "en_sha256": "7f1192d5365923ff16069c150d96d67f8da1227e3ebbf1655cff0c51c0cc76cf"
+    },
+    "dataList[id=20].content": {
+      "pl": "Nawet z protezą zamiast głowy pan, Dante, byłby tym samym człowiekiem.",
+      "kr_sha256": "4654ba44cead7eb6432e3f5881e235be914d6a6bf068a5a69b467e474d16a3ea",
+      "en_sha256": "c49cedb94043b42ab30850c508e08776e733ac9abcf5f06fe5e7f23a2c92bdc1"
+    },
+    "dataList[id=21].content": {
+      "pl": "I moja rodzina pewnie też.",
+      "kr_sha256": "4c40ed206fed70340838f8aa94cf1daac94207d1b36971522c8f29da243330b2",
+      "en_sha256": "6a5dfbc4d3016606a52b20b86849ecfa689f7fb3d6285f747c3ed7883c2676d1"
+    },
+    "dataList[id=22].content": {
+      "pl": "<Dzięki, Sinclair.>",
+      "kr_sha256": "e77832d213dbd4d39b895d49915de09f8d9c3ed064e0f5ad09332e4969dfaa45",
+      "en_sha256": "93d700df6de4807cee83a53c750abc34bd45bf07826946f7be22ec87a3fe1a88"
+    },
+    "dataList[id=23].content": {
+      "pl": "…Ech.",
+      "kr_sha256": "b76c63b2fd7a4bfae2d91106a959e6df5ab717357ba918e4ae79a4b16bfc9967",
+      "en_sha256": "7f4fae7fba8b38398fe79f788e6a407f58e093c0c73e6c17d4abf1d32220c501"
+    },
+    "dataList[id=24].content": {
+      "pl": "Nie ma za co. Zaraz będę ginął do znudzenia, więc jak mi pan będzie tak dziękował, zrobi mi się głupio. Ha, ha.",
+      "kr_sha256": "53fe0a4a2cf5202cb2f58e452a2b36ef5a2856b094c2b3b12d2f0d99d8c352b2",
+      "en_sha256": "c3d54c284f5d3ffff057025a4d4f4b923abc2495f9883c7521654f50ee8e64e2"
+    },
+    "dataList[id=25].content": {
+      "pl": "Kiedy nagle dotarło do mnie, że nie zdążyłem zapytać, co w końcu odpowiedział temu przyjacielowi…",
+      "kr_sha256": "b77dad0b30f2e125e7d05f7500a029aec0d68f26bbef102a06d496058871899c",
+      "en_sha256": "febf7ca6f6223ad62d6813c46a9fbaa32467463c4d5878e336600eb31ab75214"
+    },
+    "dataList[id=26].content": {
+      "pl": "Sinclair był już daleko przede mną.",
+      "kr_sha256": "fe2b6f1922d6342255b15de281f44df8dda1f88cb835ab06f60aa43d20ba7794",
+      "en_sha256": "af280be1e04b3b41671aa7ff6b6b57c9d66077a87e81d3658c6ca6f3515eedb3"
+    },
+    "dataList[id=2].content": {
+      "pl": "Jak pan wie… nie mam takiego doświadczenia w walce jak inni…",
+      "kr_sha256": "5181d94375769260e4ca82227d31993f9c0814cf31a7b8793167be134e4b3e7f",
+      "en_sha256": "806eba9f69f3b9b42ee9eb077f4749921f54bed28249fcab008e6d6b3c3dbb53"
+    },
+    "dataList[id=3].content": {
+      "pl": "Więc możliwe, że tamci będą mi raz po raz przebijać serce…",
+      "kr_sha256": "abc8314e5922d3bc8a4454905951a0c328de3ae4ecebd911d8d0677ec8915791",
+      "en_sha256": "6049cd82cd133aa4e8e3bbf2035ab78e6f0ccd8541aff682df66b7d6b5001cae"
+    },
+    "dataList[id=4].content": {
+      "pl": "Mimo to… wytrzyma pan to?",
+      "kr_sha256": "d6ad7fc0cb84948c47e649497d35261f6d351469da839536eaec9da7329c81ef",
+      "en_sha256": "c8df6148b91acbec6fc800ba8da99b6033605650f7971d270dc6326f9aadaa94"
+    },
+    "dataList[id=5].content": {
+      "pl": "Sinclair cały dygotał, aż żal było patrzeć.",
+      "kr_sha256": "29b28fe6ff8b382a4b710b2720ad1d526b6473f5dc941cfc13d4bd043eaf0d8b",
+      "en_sha256": "9db08dba0da615bad5c74c0c46871a0060fbfdfa8e58ca571a6405cbe00c77ac"
+    },
+    "dataList[id=6].content": {
+      "pl": "Rozpaczliwie, z całych sił próbował stłumić strach przed tym, co go czekało.",
+      "kr_sha256": "7b12f5d2128fb6374f1a3375823ac9d2506fb956576ddb6cd1716dc4244a8b8b",
+      "en_sha256": "f51f6aa97bba0f1d9299b3a806387636a44f0f61e0cb7cd86c200aa360e4ca3c"
+    },
+    "dataList[id=7].content": {
+      "pl": "Nie żeby Sinclair do tej pory nie ginął. Za każdym razem sumiennie go wskrzeszałem.",
+      "kr_sha256": "24707e85745ddd5308b7f7ba72ea61882fa2d51ee96a0f4ea353febefd95bd34",
+      "en_sha256": "6a62527d0fbaada1f3d1459664f5dd4c0c34e131f11c00f3b107a8ac9b94c06c"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ale pierwszy raz prosił mnie o wyrozumiałość. Wyglądało na to, że jest zdecydowany stanąć przed nimi, nawet jeśli będzie ginął raz za razem.",
+      "kr_sha256": "b69582709c3c3712939f1d9dac67f9968f7147dbb1d78c0e67ca3b9b3f432758",
+      "en_sha256": "9ae81dc30fbe9241d4ac3a388909a0a035824cd2175d75292621c5c0b320088b"
+    },
+    "dataList[id=9].content": {
+      "pl": "To był inny strach niż ten, który zwykle ogarniał go w walce…",
+      "kr_sha256": "c982e7c2881b99bdc308d97bca25c8eb7b33b74a8c3665ed792b3a100e8b2e2c",
+      "en_sha256": "116594048fde555a8b01fcfe06b7d2dc34ba7fc7d3b65a3183d1b2fcd6fcfd92"
+    }
+  }
+}

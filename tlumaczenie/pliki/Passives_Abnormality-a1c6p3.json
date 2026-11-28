@@ -1,0 +1,364 @@
+{
+  "entries": {
+    "dataList[id=816101].desc": {
+      "pl": "o ile ta jednostka nie jest w Oszołamieniu i nie ma zniszczonej Części, otrzymuje o 80% mniej obrażeń [Combustion].",
+      "kr_sha256": "c6c48f230e5a68cfb7f045ef7adb22b9ff5889d4cf251b9820a1bec9d69ac65c",
+      "en_sha256": "a5dd59a288131e011e667e27e1ccbb23ee5884915e34c7e8cc850945dbacb1d8",
+      "origin": "ai"
+    },
+    "dataList[id=816101].name": {
+      "pl": "Sin Nullification",
+      "kr_sha256": "e06009fda98bfc9b155d549a90c79184e357e7dcc61214de3a45f82bce777322",
+      "en_sha256": "7c77fe4be5073a892fac4c64c73123fa5fa9823f084f1195b409791dbf5a191c",
+      "origin": "ai"
+    },
+    "dataList[id=816102].desc": {
+      "pl": "gdy cel ma [Combustion], przy trafieniu rozprzestrzenia połowę [Combustion] celu na 2 jednostki przyległe do celu na Dashboardzie.",
+      "kr_sha256": "a8641b438f4b92c30ec503b47d03d446795118ec98118bf73d7672919fbe4ac8",
+      "en_sha256": "1ec1e4f2450db6fe8600ab57720006fcb4f7314076e71cd1e96b196d6aa9e923",
+      "origin": "ai"
+    },
+    "dataList[id=816102].name": {
+      "pl": "Proliferating Flame",
+      "kr_sha256": "ea720c7373c8fbdefb6c1f8d58d348d9ada1cceec4940a30bec7191f6b873f08",
+      "en_sha256": "0d0b84e902a6e1a3cd629a46c2d04048617d761986ccb1d3b136b93529072910",
+      "origin": "ai"
+    },
+    "dataList[id=816103].desc": {
+      "pl": "gdy ginie, nakłada 12 [Combustion] i 8 Licznika [Combustion] wszystkim wrogom",
+      "kr_sha256": "9142b977db18e65359fc590b375b2da464f1215317c48f30462d2b0e892eaaa5",
+      "en_sha256": "5816f3e550438db43708c07c2ae1f1715f5ebd73342e8daecb35d15e6a61a819",
+      "origin": "ai"
+    },
+    "dataList[id=816103].name": {
+      "pl": "Erupting Wrath",
+      "kr_sha256": "69820fc3c1f90b3658475a0ce8001d8367d48b76632e22bdcdb98e888d0797ab",
+      "en_sha256": "261acb09380e6ca90594b8037c7acb3549fcbe126d504e9c865e74da905d758b",
+      "origin": "ai"
+    },
+    "dataList[id=816104].desc": {
+      "pl": "w tej turze, jeżeli sojusznik (łącznie z tą jednostką) przegrywa Starcie lub otrzymuje obrażenia od ataku wroga, zyskuje 1 [AttackUp] i przywraca 1 SP (do 12 razy)",
+      "kr_sha256": "3c724e4a20306a331708f078e95e633254c504d55554f143375ca14b67908f80",
+      "en_sha256": "ebae33c4a57c5be5a8be4c21a26527a73b27f7e3a6d6b66cb2960d2cea67708a",
+      "origin": "ai"
+    },
+    "dataList[id=816104].name": {
+      "pl": "Nightmare",
+      "kr_sha256": "14974d6d375732d2da285f4f31e0b0b103f7d2b32a3872634bab938103691336",
+      "en_sha256": "864e8d565eac5de10aced470ce96018502bebf4262bbb9eb7e3eca8c0e045d10",
+      "origin": "ai"
+    },
+    "dataList[id=816408].desc": {
+      "pl": "wygrana w Starciu: przywraca 5 SP\nprzegrana w Starciu: traci 10 SP i zyskuje 2 [Binding] w następnej turze. (1 raz na turę)\njeżeli podczas tury nie trafiła przeciwnika ani razu, na koniec tury traci 5 SP",
+      "kr_sha256": "aa90ff248d0940d5de2bbd512d437d7f81397869c9bbc7970d6918e0d6852fdd",
+      "en_sha256": "8c4fac2f93f79941a7e281f163b7b40695c6baa15a7ce3a5a69f3e8ffcb48a1c",
+      "origin": "ai"
+    },
+    "dataList[id=816408].name": {
+      "pl": "Moment of Vengeance",
+      "kr_sha256": "b96ebb1a52bc598ba3aec8d0f24cd3aad8605e0d3e5ac8f1627340a614abfb13",
+      "en_sha256": "a6d47c24b1442debb5e246afd37a9ec2f9cd422b61547c74d7f05d46ed52ae45",
+      "origin": "ai"
+    },
+    "dataList[id=816601].desc": {
+      "pl": "wygrana w Starciu: Moc Starcia -1 w następnym Starciu (maks. 2)\nprzegrana w Starciu: Moc Starcia +1 w następnym Starciu (maks. 2)",
+      "kr_sha256": "22ba365f5c24159803ba0fc16e60bbaad0b22c0663610cd0a5fb9cf562c447f5",
+      "en_sha256": "c9e0e08cd94100e6639b86bafb3ecea2fffbc7fc2ee6f34d1343a1aaa5af09e7",
+      "origin": "ai"
+    },
+    "dataList[id=816601].name": {
+      "pl": "Chaotic Hunt",
+      "kr_sha256": "0b91a89dc47548576556b493a8c34493a6acaaab6daec534e03ab34c18283a63",
+      "en_sha256": "8e62991d969d28dc3e805b263bace762cd16db1a4889d7595e21ba80cd2d960e",
+      "origin": "ai"
+    },
+    "dataList[id=816602].desc": {
+      "pl": "Początek tury: zyskuje 2 [AttackDmgUp].",
+      "kr_sha256": "5c7ecaf0c8bf59e14d04e0e225b392ece1d15a49cbe5f4773b2d965551a877da",
+      "en_sha256": "021948ee0b2eba821321d29760c99698a3803da3bdf54a3ae5823221616c78b0",
+      "origin": "ai"
+    },
+    "dataList[id=816602].name": {
+      "pl": "Humanity Abandoned",
+      "kr_sha256": "fe6f7c7ac1e4825f133d3b99ca1a8608b13caf6e53b059c6a264a44b4fe18bd7",
+      "en_sha256": "9d6031ef2ffb968587f0e1a3c705bfbaa9cebeb758ddf400227dae270cb63546",
+      "origin": "ai"
+    },
+    "dataList[id=816603].desc": {
+      "pl": "- gdy ta jednostka ma Chain, wszystkie Części zyskują 1 [Enhancement] i 2 [AttackDmgUp]\n- gdy Chain zostaje zniszczony, od następnej tury na koniec tury zyskuje 2 [Binding], a wszystkie odporności fizyczne rosną o 0.7 do końca tej walki",
+      "kr_sha256": "492e0e9766ea3b4ef499de6143c621780d7c7527bd49ea18f2ec307460d8ebb3",
+      "en_sha256": "5b1bf0bc9ee8a1a19fc7a1a849d49db055c4517dffa4b8db0d6bb733879c5465",
+      "origin": "ai"
+    },
+    "dataList[id=816603].name": {
+      "pl": "Sack",
+      "kr_sha256": "9724c510d95978899e68bc01e29ebbceb55fe8f0117f25d4e3f82ff0c5d0c25d",
+      "en_sha256": "006a933c950f8356a5be8cc019e182f156b74dc5ddd9f1c7137f7c652214bd48",
+      "origin": "ai"
+    },
+    "dataList[id=816604].desc": {
+      "pl": "gdy HP tej jednostki wynosi 35% lub mniej: jeżeli procent aktualnego HP celu jest wyższy, Moc Starcia +2",
+      "kr_sha256": "072ff5d1503f2e0de1a5e2df7638b31190ae3a7239747b53c794453ff36313b7",
+      "en_sha256": "f7a5237c6cdba89b868639903494138f15220657673cb36333f9735430485c21",
+      "origin": "ai"
+    },
+    "dataList[id=816604].name": {
+      "pl": "Ressentiment",
+      "kr_sha256": "cd4123a4f4ff3b919cac795aa23af41762b4a273e85ae1598c7193e6f0ea789b",
+      "en_sha256": "fadce3883ef36794485af4a4f29af904e8c2ba98d561ccb48d16146190bce21e",
+      "origin": "ai"
+    },
+    "dataList[id=816605].desc": {
+      "pl": "gdy procent aktualnego HP tej jednostki wynosi 30% lub mniej:\n- Umiejętności Uderzeniem zadają +20% obrażeń\n- z każdą upływającą turą zyskuje dodatkowo 1 [Enhancement] i 2 [Vulnerable]. (do 3 razy)",
+      "kr_sha256": "602399886395af987f0a8231ddf3f77a8e7a528376f26cb30e61b30c21fad71d",
+      "en_sha256": "5b8543218a2638596173a81f0b4dd0a3766fead2c814df443541c8664bed4a3c",
+      "origin": "ai"
+    },
+    "dataList[id=816605].name": {
+      "pl": "Spite-driven",
+      "kr_sha256": "9a9910bfc060995066ea22cdbecbc129521df8754db020ea692bbde468d31fa6",
+      "en_sha256": "1e8d338b582991a3946acb5d8fe84cb01137d0e09f21fbd298e93a85ede157ab",
+      "origin": "ai"
+    },
+    "dataList[id=816606].desc": {
+      "pl": "gdy Chain zostaje zniszczony, nakłada [AaCfPcBg] losowemu wrogowi.\nod następnej tury priorytet: Identyfikacje z [AaCfPcBg].",
+      "kr_sha256": "a8f4a4bba37814726c2aeef0efe562b2d62b40362752c7c7af2cd6b3656a8567",
+      "en_sha256": "18ebdb14ea1654a751a9a3bee271eff9a7a2ccac6e110f8c73c5ef153d32bda5",
+      "origin": "ai"
+    },
+    "dataList[id=816606].name": {
+      "pl": "Infernal Hound",
+      "kr_sha256": "b127032055b99717d3f5d690d615a22f4fec8c6a38fbae47634ce4b7fb913d58",
+      "en_sha256": "7d31416fea77ba9c1727873c8ea6413123510b87cb13760de30f365a5b71a556",
+      "origin": "ai"
+    },
+    "dataList[id=817101].desc": {
+      "pl": "wygrana w Starciu: jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, przywraca 3 SP",
+      "kr_sha256": "ed5e9413935bf9dc25203fca0a5b5590d1903dab9f7b3a4ddae0d48ee22716d6",
+      "en_sha256": "cc5ab86a6b7694d8f5352ce524effdfe8ce8346213c60168c7b8692e6b947b7d",
+      "origin": "ai"
+    },
+    "dataList[id=817101].name": {
+      "pl": "Superiority",
+      "kr_sha256": "8d87a3fd1e00f6d9ddfb1d0362b7f98328ffac7292f91b2c63524057c8a4733f",
+      "en_sha256": "4284db1aeb9375794b889102a7b2ff9cd4c26da5c6df37422e7558bef14b8df7",
+      "origin": "ai"
+    },
+    "dataList[id=817102].desc": {
+      "pl": "jeżeli istnieją wrogowie w Oszołamieniu, priorytet: cele w Oszołamieniu dla Umiejętności ataku\nprzy trafieniu w wroga w Oszołamieniu zadaje +20% obrażeń",
+      "kr_sha256": "d0e431191b4df8addb8fe34d661313cfeed3fdaa1d5f2e180c8e24f2f04a034f",
+      "en_sha256": "7e9461099213bc698a5e0ed42fb4aab538f0cfcc070e4bebabbf23415961a556",
+      "origin": "ai"
+    },
+    "dataList[id=817102].name": {
+      "pl": "The Uninvited",
+      "kr_sha256": "33c3756aa32067f59b831d8ac2732c057f5c7baf84c7c1906dcb56aec59953dc",
+      "en_sha256": "36dc68eb41f319104abc87437a7aed7f12dec63b554c4c96131e0a7c50a0f64b",
+      "origin": "ai"
+    },
+    "dataList[id=817103].desc": {
+      "pl": "po przybraniu nowego wzorca i po zakończeniu walki nakłada [AaCfPcBc] na 1 losową Identyfikację bez [AaCfPcBc] w następnej turze",
+      "kr_sha256": "f423767066b55daf92b66c4229168a87f3fad9ae683618706fc4b8ae041a8ab8",
+      "en_sha256": "1a873f151d1b9bd60d371171322646e62f03b2a83cafe6ba05cf6a5d717f1378",
+      "origin": "ai"
+    },
+    "dataList[id=817103].name": {
+      "pl": "Receiving Arts 9: Binding",
+      "kr_sha256": "df87244ae44354d0618957dfa78d6a162f96f1ea2b1681468356eaad10b73065",
+      "en_sha256": "8e61e4b158aa112170655e204ecf0a293ec0ccab284901101926eb71f36ac343",
+      "origin": "ai"
+    },
+    "dataList[id=817104].desc": {
+      "pl": "gdy ta jednostka przechodzi w Oszołamienie, wszystkie [AaCfPcBc] o wartości 2 lub mniejszej znikają",
+      "kr_sha256": "f02c05821bea2c3e18d4305e00e24bcaa43df43e8f01e14192723fac70c3ec19",
+      "en_sha256": "5163aa81f7531d6b6b9203ebaeced7dcbbb816216c70e0eaf46773b14dbad7ba",
+      "origin": "ai"
+    },
+    "dataList[id=817104].name": {
+      "pl": "Release From Binds",
+      "kr_sha256": "6c148ca5d79b82d94f32d47d618315cb1278f520e5d2ae598e7ba21a3495252a",
+      "en_sha256": "84f8af4c99171b1da23d16d9df62247bdd674a877140d0770462c409c8c2fffd",
+      "origin": "ai"
+    },
+    "dataList[id=817201].desc": {
+      "pl": "gdy sojusznik z efektem Explosive Emotions tej samej Afinności co ta jednostka ginie: jednostka traci swój efekt Explosive Emotions, zabija wszystkich pozostałych sojuszników i zyskuje [AaCfPbBd] w następnej turze.\nwszyscy Grzesznicy zyskują efekt odpowiednich Explosive Emotions i ochronę przed odpowiadającą Afinnością.",
+      "kr_sha256": "0f1034e791149b47f97a8a638e487a7ba622f11e9c10518f9b7347684fd3efea",
+      "en_sha256": "999bf759a68ef6c099cfe389f7bfb5c3276dc8640ef9e71cb9bb27f7efe321c9",
+      "origin": "ai"
+    },
+    "dataList[id=817201].name": {
+      "pl": "Spreading Emotions",
+      "kr_sha256": "b32c16bad421c2db787470c7415b53df0696635059c26779fa5241afea51058b",
+      "en_sha256": "f47087e09826fa487580721bc3ba2fd2dc82e0cc9eb4c3f80d9dacacc28513b2",
+      "origin": "ai"
+    },
+    "dataList[id=817202].desc": {
+      "pl": "gdy ta jednostka ma efekt Explosive Emotions, Afinność wszystkich Umiejętności zmienia się na odpowiadającą Afinność.\nnawet po wygaśnięciu efektu Explosive Emotions zmienione Afinności Umiejętności pozostają do końca Fazy.",
+      "kr_sha256": "0630925db80491d6f7730d0c2b4a052f9419796c6e104bb19a41e61a16c937df",
+      "en_sha256": "5ac8c0df51c9723dc24b0826ae30e5accaccb5e39b98f1470a722a850e88e2ea",
+      "origin": "ai"
+    },
+    "dataList[id=817202].name": {
+      "pl": "Amalgamated Resentment",
+      "kr_sha256": "679faea70964eca90ce3a4ccfa411cf61b2cb8bdc5a6a6ff88731655c837c829",
+      "en_sha256": "77e9698815bb735c2fce5d6d4d04374da28ab8323dfad4a870a6cdd5da6477e1",
+      "origin": "ai"
+    },
+    "dataList[id=817203].desc": {
+      "pl": "przybiera nowy wzorzec przy 75% i 35% Maks. HP.\nprzy zmianie wzorca zmniejsza o połowę Siłę i Licznik każdego negatywnego efektu należącego do tej jednostki",
+      "kr_sha256": "b4452a597a197699993022af3e6500c00f1065ad2f1efed16fbb674d612b3832",
+      "en_sha256": "557aa403fc70ae762e8d8a46815692d7793e17813d7825fef4c338309660b7a0",
+      "origin": "ai"
+    },
+    "dataList[id=817203].name": {
+      "pl": "Continuing Revenge",
+      "kr_sha256": "88607fbdb22962cb9d8807aa45a0252d76378ee9a0c31632b19fe7b4e54f8558",
+      "en_sha256": "b51d6180356f2c72bed43fb3b28481f2ca15b3abf26615b9f713fa99d3b8bf93",
+      "origin": "ai"
+    },
+    "dataList[id=817401].desc": {
+      "pl": "Koniec tury: jeżeli HP obu Rąk wynosi 1, jednostka zostaje unieruchomiona (Immobilized).",
+      "kr_sha256": "4889fb5c9a181aef345ecf5b5298457de855a9c8fcbef81c92b127ce985370c3",
+      "en_sha256": "d2704a5c3b168b0aff511ce352c212052ae2b495c0fb47f4334b5e1fedec167d",
+      "origin": "ai"
+    },
+    "dataList[id=817401].name": {
+      "pl": "A Distant Identity",
+      "kr_sha256": "97154e1377f1e4cdcc3fdb71503c4e919aad1b1dfcd018de0b3a41f07a739183",
+      "en_sha256": "c7ef74386f0aa7c59e826566f597372e30dd39ed851d23c2392500bf4dbc2b28",
+      "origin": "ai"
+    },
+    "dataList[id=817402].desc": {
+      "pl": "HP nie spada poniżej 1.",
+      "kr_sha256": "1d4706be64c733768357f6ed0998fd93225c5b798c68c74679c0e311faf9761f",
+      "en_sha256": "a662551f471ad6178d3c1deed0d5a8fec1ee2892ed6bf9255f54f3ea1e8cacf6",
+      "origin": "ai"
+    },
+    "dataList[id=817402].name": {
+      "pl": "Cold Body",
+      "kr_sha256": "7e194c3b26efc64e1c07794fbbba4fac62b7e4efe07073c4d6daf0741e79c8e1",
+      "en_sha256": "e2497f8b8458081ca15d3095668421a739dc787240e89484e8fc00fad971d4bb",
+      "origin": "ai"
+    },
+    "dataList[id=817403].desc": {
+      "pl": "Koniec tury: jeżeli HP obu Rąk wynosi 1, w następnej turze zyskuje Tarczę.\npo zużyciu całej Tarczy zostaje unieruchomiona (Immobilized).",
+      "kr_sha256": "1f933b47aa16b088daaef7fad46cf288eb3621175dd9c2505563a461e1518c87",
+      "en_sha256": "9e55e67c73dbc1b3375e933bafcaa2f37df14dbc852658b86bf036ed97784d2b",
+      "origin": "ai"
+    },
+    "dataList[id=817403].name": {
+      "pl": "A Shaky Ego",
+      "kr_sha256": "4b320759f9179e1b436f500827e982be0dec9af36f9749b1d94fa3e1ee0b650b",
+      "en_sha256": "fcd26165f801d2c29df50a3955e3806cd3743316b693e910afadb161eefb28b7",
+      "origin": "ai"
+    },
+    "dataList[id=817404].desc": {
+      "pl": "Początek tury: jeżeli istnieje Ręka z 2+ HP, zyskuje 10 [Protection], a wszystkie wartości Odporności wynoszą 0.2.\nPoczątek tury: jeżeli HP obu Rąk wynosi 1, [Protection] znika, a wszystkie wartości Odporności wracają do pierwotnych.",
+      "kr_sha256": "9f08d5a8652fa39c930685cf66d0db76973e1afd99b806d50920fabd41a47254",
+      "en_sha256": "72796210269b1c11ca436a31dca3210622c0d060344fe4ea6d0171f04fed1e88",
+      "origin": "ai"
+    },
+    "dataList[id=817404].name": {
+      "pl": "Broken Heart",
+      "kr_sha256": "1db37e9ee08d706acd31a614792cd8415c087db18a86010ec810e8a80ebe7485",
+      "en_sha256": "fbca576fc6411ca56ab453fc7eb408197a01356004d109b1b6c6d3bc6a40790f",
+      "origin": "ai"
+    },
+    "dataList[id=817405].desc": {
+      "pl": "podczas Starcia z Heathcliffem: Moc Starcia -3 i zadaje -50% obrażeń Heathcliffowi\njeżeli Heathcliff ginie, ta jednostka wygrywa walkę",
+      "kr_sha256": "79e50ebfcd1182e66f4ce0ec5442854d624f1b8e157ea8b695484975c1d9d9b3",
+      "en_sha256": "5d8c036b08dca3119c9be3a7d7c0428125190166989a819483d1a050e5d546f4",
+      "origin": "ai"
+    },
+    "dataList[id=817405].name": {
+      "pl": "For Every Heathcliff",
+      "kr_sha256": "020c32c088dd459d64d0455e09e42bb9f9d9886121a7caa070ee40d332d473f8",
+      "en_sha256": "a4d2fbcb177a848662894b526cd2d57da640fd51f6e833574da357617f804dd9",
+      "origin": "ai"
+    },
+    "dataList[id=819201].desc": {
+      "pl": "jeżeli na koniec tury następnej po turze, w której ta Ręka spadła do 1 HP, druga Ręka ma 2+ HP, jednostka przywraca HP równe 50% aktualnego HP drugiej Ręki. (zaokrąglone w dół)",
+      "kr_sha256": "7d27138dfa3cf9e61b08df58ad0d5cf785405555b4ff68db6debb5ec1d6d2ed7",
+      "en_sha256": "c95ead355cdcb6624d71bd200bfea7fd16ac527c038cc014b032e7f857f290db",
+      "origin": "ai"
+    },
+    "dataList[id=819201].name": {
+      "pl": "Misery-severing Hand",
+      "kr_sha256": "23f1bb5ad49d863646c0172cc0928c8233729048fdb546eafe55530cf798580f",
+      "en_sha256": "6c85fd1a98beda09c7315e79bb46d0fee52b2a1d520c316ef62f9519c1f2d61b",
+      "origin": "ai"
+    },
+    "dataList[id=821401].desc": {
+      "pl": "podczas gdy HP wynosi 1, jednostka jest w Oszołamieniu; HP nie spada poniżej 1.",
+      "kr_sha256": "b3ec162cc67402168308c87cf2d52723f2946204b46d9d4c0eccf7cc260d6837",
+      "en_sha256": "47c79482d309fed9b792cd5ad0b1c8a92f039a72bda60b1b81ae8ce4ce8f6fe5",
+      "origin": "ai"
+    },
+    "dataList[id=821401].name": {
+      "pl": "Deep Bereavement",
+      "kr_sha256": "5d01c7b3a6a699b97db0c2406461d95aa7f130a5b7c3a94e29d89bd6340fc746",
+      "en_sha256": "24e5f72da90993c03641f240a1873c7e62e1fc9f51c7e4789bcb214433bce4e2",
+      "origin": "ai"
+    },
+    "dataList[id=821601].desc": {
+      "pl": "nie może zostać pokonana przy 0 HP. HP nie spada poniżej 1.",
+      "kr_sha256": "bfa20e827935ed920dd485713eed400f534f3638f5d053c9dcbb2a2cdeebb6bc",
+      "en_sha256": "d3c4d9492a2c4cb1ac04d01a734be83f5d72d799e838577314058e42e08e2339",
+      "origin": "ai"
+    },
+    "dataList[id=821601].name": {
+      "pl": "Wild Hunt of Desolation",
+      "kr_sha256": "de1c6d1a4ddf4a974e2a25fa6868db72bcbc84706d20148e998bb99aebdcca0f",
+      "en_sha256": "03d31755854de51536e8bf9c8c6fba2d09096ee0671d5f8374f72f034fe14a64",
+      "origin": "ai"
+    },
+    "dataList[id=9101602].desc": {
+      "pl": "jeżeli aktualne HP celu jest wyższe niż HP tej jednostki, Moc Starcia +2 i zadaje +20% obrażeń",
+      "kr_sha256": "9099876f235e51f44e57b21f6d4f15f308d0d6ad2966a82e0ad479811c744091",
+      "en_sha256": "ac0573183977340e90c61371340d8c7b70b8e1f3664b5e7f5fbb5f3537a1371e",
+      "origin": "ai"
+    },
+    "dataList[id=9101602].name": {
+      "pl": "Antagonism",
+      "kr_sha256": "a6fab7937df66791544db4f694a5a5f74a42c79a529e673da9d1337a1cce7ed7",
+      "en_sha256": "65dd365b12a0c82a3db6eab4d69ecaf3e62e3f0fe2c52772826de47073c62377",
+      "origin": "ai"
+    },
+    "dataList[id=9101603].desc": {
+      "pl": "wygrana w Starciu: przywraca 5 SP\nprzegrana w Starciu z Heathcliffem: traci 10 SP i zyskuje 2 [Binding] w następnej turze. (1 raz na turę)\njeżeli podczas tury nie trafiła Heathcliffa ani razu, na koniec tury traci 5 SP",
+      "kr_sha256": "92d973628b7d2efcb30f50439160521b6411bb4eeab4fdb07a4a6d5acc499d70",
+      "en_sha256": "3cf7909879141142915da0042eb933cb3f834ff23b69d60d3abdb055e0caad82",
+      "origin": "ai"
+    },
+    "dataList[id=9101603].name": {
+      "pl": "Long-awaited Moment",
+      "kr_sha256": "b4bb3384314aa571faa14faf3ca9eabebbff22a231f7ade67a51d1316f28dc58",
+      "en_sha256": "98cdaed8a09120c5c1f925eb6ab813133fbe1a5cb56ac148bffa7df4c1df64ea",
+      "origin": "ai"
+    },
+    "dataList[id=9101606].desc": {
+      "pl": "im niższe HP tej jednostki, tym wyższy Poziom Obrony\n(+1 Poziom Obrony za każde 10% brakującego HP, zaokrąglone w dół)",
+      "kr_sha256": "ac3bbc080838d3392a58ef99d3452dcd1209170bfd7557e6be111c88c4b064c3",
+      "en_sha256": "83096985cfebb330561bf977e884670dc4ad927bd0c6e49a8fe3d1c25d9dbc76",
+      "origin": "ai"
+    },
+    "dataList[id=9101606].name": {
+      "pl": "Vying Spirit",
+      "kr_sha256": "519118b84f3b927b1b124a34558fc3a80d3490e40468f7642f79386efce64958",
+      "en_sha256": "4132d16ba898072be442caf102560db945bfc2ea2928a7782b2efad9fa07963e",
+      "origin": "ai"
+    },
+    "dataList[id=9101607].desc": {
+      "pl": "na czas tej walki funkcje odwrotu Identyfikacji Heathcliffa nie działają.",
+      "kr_sha256": "a8eda3234635173ef4af5b67fa125decc5069a1e943a3199649568df95f275a4",
+      "en_sha256": "d11eccb2a7ecc3a3b0a77c9424c7dbe97b4cd5bb08f7c89773b030c1e6afbb4f",
+      "origin": "ai"
+    },
+    "dataList[id=9101607].name": {
+      "pl": "Cannot Retreat",
+      "kr_sha256": "9cd29b6fb2eddc559c33a3f71533fdf4e35b57546fd008acc526181b23450a87",
+      "en_sha256": "3b84215656f8b15aa293082eb5be7dbcdc72a37abd56f4a28438346bc0b50b49",
+      "origin": "ai"
+    }
+  }
+}

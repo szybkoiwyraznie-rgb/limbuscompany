@@ -1,0 +1,418 @@
+{
+  "entries": {
+    "dataList[id=BlessingOfIndexPrescriptAlly].desc": {
+      "pl": "- Poziom Ataku +1 za każde 3 stosy\n- Maks. 9",
+      "kr_sha256": "e5d779ec0afd34b8f3ec0fbe7fa50c8b30a99c449f4b08041571a64b9dcd2db5",
+      "en_sha256": "b940610c2ccbb5fdefc82e6a7b3b89e35b80f620a4bec591895281acf75ed3ab",
+      "origin": "ai"
+    },
+    "dataList[id=BlessingOfIndexPrescriptAlly].name": {
+      "pl": "Łaska Nakazu",
+      "kr_sha256": "56b42c5ec9eab00f0aff1e3df18870f4a35ad428bfd7036712e9af090eed2cf7",
+      "en_sha256": "298b53814e1b9a68da5cdbfaf69c24dcf02f25c06baeb95f934bc57d30b695c3",
+      "origin": "ai"
+    },
+    "dataList[id=BoneBladeTheRings].desc": {
+      "pl": "- Na początku tury zyskuje 4 Wzrostu Mocy Bazowej\n- Nakładając Krwawienie Umiejętnościami ataku, nakłada dodatkowo 2 Siły Krwawienia",
+      "kr_sha256": "986fd17ba61e6f09a457c5486a7358932112084d11dc412eba8b89ebe4637828",
+      "en_sha256": "76a5c69939e191ccdb34ea50de8259e9d634d6bc9fb9178492916760dea711be",
+      "origin": "ai"
+    },
+    "dataList[id=BoneBladeTheRings].name": {
+      "pl": "Dzieło: Fascia",
+      "kr_sha256": "1ea4ad97d8f8a7930a74bf349326a32587840ee6ddaf9e630cd0cbf66f99b6e4",
+      "en_sha256": "79b6ce6a1f7dfa3a37e0de7a9758fb99aead669cb7c675e86281047a0b3dd4b3",
+      "origin": "ai"
+    },
+    "dataList[id=BreathLoss_LowMorale].desc": {
+      "pl": "Na początku tury traci 3 Siły Oddechu",
+      "kr_sha256": "07d3f87ebef96ca7acbd574624162c39cdec78526e5bc0d622182031058a35ad",
+      "en_sha256": "0234830ed4395997a4d53504f65fddb9c6c0ff78c18b9be2e460c28a48fe2a9b",
+      "origin": "ai"
+    },
+    "dataList[id=BreathLoss_LowMorale].name": {
+      "pl": "Urywany Oddech",
+      "kr_sha256": "033a3cd7bdb64c30f94dffa8f3f128475a1374b8156fa2872e61907757ad8e42",
+      "en_sha256": "dd6e861e8642f49161542c464b860c5f135fca371e287e0f4f4b74e75b3e6ec6",
+      "origin": "ai"
+    },
+    "dataList[id=BreathLoss_Panic].desc": {
+      "pl": "Na początku tury traci 5 Siły Oddechu",
+      "kr_sha256": "de76930141acf45797798867f797ff7dfe1ab8603c4240b623432513b5e81505",
+      "en_sha256": "285fc8e0f394d6250b58ff4c84ec3bf9c5577a756ab9666f179891722efdf85d",
+      "origin": "ai"
+    },
+    "dataList[id=BreathLoss_Panic].name": {
+      "pl": "Urywany Oddech",
+      "kr_sha256": "033a3cd7bdb64c30f94dffa8f3f128475a1374b8156fa2872e61907757ad8e42",
+      "en_sha256": "dd6e861e8642f49161542c464b860c5f135fca371e287e0f4f4b74e75b3e6ec6",
+      "origin": "ai"
+    },
+    "dataList[id=CalmAnalysisMoses].desc": {
+      "pl": "- Zadaje +25% obrażeń Faelantern",
+      "kr_sha256": "79ba0b033d755848fc8cae3661e832d82a3f2875cc12ec7658c960f43e25943b",
+      "en_sha256": "9db81d8bb9ed64433f243c3c142cf9201f7f69792e6fc662116e7d2bc2a11627",
+      "origin": "ai"
+    },
+    "dataList[id=CalmAnalysisMoses].name": {
+      "pl": "Spokojna Analiza",
+      "kr_sha256": "90397d890c6df8448f33cd3af9d3b01f846d1e7f66ce82ab1ec589e0af5955f7",
+      "en_sha256": "bbef72dbf81f8b6b9616a4a24acbcc8b9490767946591bd2e89e06c036944cfb",
+      "origin": "ai"
+    },
+    "dataList[id=DicipleLittleFinger].desc": {
+      "pl": "- Maks. stosów: 50\n- Na początku tury zyskuje 5 Tarczy za każdy stos\n- +1% obrażeń Krytycznych za każdy stos\n- Przy trafieniu traci 1 stos",
+      "kr_sha256": "493933b810d3f5659952173bc486d2a17c922fc82e75d45cdff5591cd1c5ae1e",
+      "en_sha256": "8c4b02f974deb41a8f7c1efc05ca8550b238084e43c32ffea1f12b11a1aba395",
+      "origin": "ai"
+    },
+    "dataList[id=DicipleLittleFinger].name": {
+      "pl": "Błękitne Ostrze w Blasku Księżyca",
+      "kr_sha256": "d23c83fc222a1e43f8512f60349b20edc809bca567583dd511cdb429402d7610",
+      "en_sha256": "61ca04cef72b5aba20297b50914915f6fbdd2a0ebc03e6c9e3e2ecfe9e0f2394",
+      "origin": "ai"
+    },
+    "dataList[id=DuelEdge].desc": {
+      "pl": "- Maks. wartości: 20\n- W Starciu z „Uczniem Kciuka - Lucio” Umiejętności tego wroga zyskują Siłę i zadają więcej obrażeń\n- Znika na koniec tury, jeżeli w tej turze nie odbyło się Starcie z „Uczniem Kciuka - Lucio\"",
+      "kr_sha256": "a72c41e79011d0f2a920f33b579e09a481d8dcf0c8bc71be28cc1741774c985b",
+      "en_sha256": "031984bcb63caf610aee349c3cf234ebbb58fb00f502176254d9c8be3b0ba9a4",
+      "origin": "ai"
+    },
+    "dataList[id=DuelEdge].name": {
+      "pl": "Eskalacja Pojedynku",
+      "kr_sha256": "383eba1c8154b70cf655a2ffddf34492c54f48fae8790b1101398729b4e381b1",
+      "en_sha256": "dcbe4a5d448f63898cfb78dd668de67b033f96286160b14797b18d5de32bfdcb",
+      "origin": "ai"
+    },
+    "dataList[id=HostageCharon].desc": {
+      "pl": "- W Starciu z „Uczniem Kciuka - Lucio” Moc Starcia -1\n- Zadaje -20% obrażeń „Uczniowi Kciuka - Lucio\"",
+      "kr_sha256": "7a05c43b8f08e49c58f15203b074788e073dcc23567527a869c5171eb8ea5962",
+      "en_sha256": "9826590c7fa1c975d4d523cd250a7dec0a3f1e97d618e589dcefe922a792a78e",
+      "origin": "ai"
+    },
+    "dataList[id=HostageCharon].name": {
+      "pl": "Wzięcie Zakładnika",
+      "kr_sha256": "4e1384fd431c4df80d1134f8c923a6481b1aa343b7bf9bc81940dff1898f42c6",
+      "en_sha256": "b409149662296c2f62cd0881413f5a85ebb235fb46f601012f3414f322499690",
+      "origin": "ai"
+    },
+    "dataList[id=HowDareYouApple].desc": {
+      "pl": "- Maks. stosów: 4\n- Zadaje +20% obrażeń za każdy stos\n- Zużywane przy użyciu określonych Umiejętności",
+      "kr_sha256": "bd39eecab57f88fca4fb0675db074cc45d6a2a5ab6408ba0bb82d09fdd5bc136",
+      "en_sha256": "9ed61d4b937daacd727b6f7ed7f16cc6f5aea1fd6f301f7a4327b54167898592",
+      "origin": "ai"
+    },
+    "dataList[id=HowDareYouApple].name": {
+      "pl": "Zuchwałość...!",
+      "kr_sha256": "2537d88d14247155d205152f0fc76fdf9e0f0a270d1eba642d4cf6fecfcd4efe",
+      "en_sha256": "ee3638e4cb76cdd44b471ed0cf506ab78cada4d9a91dddbd60672615840809c2",
+      "origin": "ai"
+    },
+    "dataList[id=HumanFleshTheRings].desc": {
+      "pl": "- Maks. stosów: 2\n- Specjalny Ładunek (Siła zablokowana)",
+      "kr_sha256": "25a2061b10694cd58a3acbb8fa02d403bea0db89e10a8b016045333fa6960892",
+      "en_sha256": "c23cf17ee6647449a6f35033089ee2c030d77f51f0ea316ad63444d266d330ca",
+      "origin": "ai"
+    },
+    "dataList[id=HumanFleshTheRings].name": {
+      "pl": "Materiał Biologiczny",
+      "kr_sha256": "7306b6934789d624b52a71ec8c5c1882d9336a97c4b2e71b3797f366cc25934f",
+      "en_sha256": "e820c3b638c68270d48d3dc37e727457bac95d96ce4c05f3a42ff25e7cc1ba29",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_0].desc": {
+      "pl": "Używa Umiejętności oznaczonej Znakiem Nakazu lub trafia nią cel.\n\n- Na początku tury zdobywany przy Łasce Nakazu 0–2\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 3",
+      "kr_sha256": "e30827d9a42729a2a57f883eef225046f5dd878a92bde03ff0cb71bb4fa4fe44",
+      "en_sha256": "b1b486d1f606aad5863a6d471040992f22096e5d1adb1348a1b7d156b3ff7069",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_0].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_0].name": {
+      "pl": "Nakaz [Kartka] I",
+      "kr_sha256": "b5b9dafff57bc64a49cba829b2a723de5fca96e97abde14c0bc7101c57ee3f8c",
+      "en_sha256": "e2790d36167ee0dcd01a4ac810760f690f7accd641013792a29b7366f383d0da",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_1].desc": {
+      "pl": "Umiejętność oznaczona Znakiem Nakazu trafia cel.\n\n- Na początku tury zdobywany przy Łasce Nakazu 3–5\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 6",
+      "kr_sha256": "45fbd44cb2a449114aa48281dcdf6fb2594827a087d3706139b150439846ec39",
+      "en_sha256": "d45d5bdf1a47d95e66cd9c8de4c19ac3b3079f4da2023a2254cf1f74b1e46ba6",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_1].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_1].name": {
+      "pl": "Nakaz [Kartka] II",
+      "kr_sha256": "9b046eb59313bba2e7aa19c653fd4b3f57d0be1b8d8d75e81e0254b2d5d6415a",
+      "en_sha256": "6e123f5b3c4db0c0804f8acc4239318a3b50dd4c3882e6d9b6708eddfb8089e8",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_2].desc": {
+      "pl": "Trafia cel Umiejętność Przebudzenia E.G.O lub „Umiejętność 3” oznaczona Znakiem Nakazu.\n\n- Na początku tury zdobywany przy Łasce Nakazu 6–8\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 9",
+      "kr_sha256": "6f9c8c6acbe95d2de4d90046cfe3e0167597b138a8b79d7cd011f4c00d5df9c5",
+      "en_sha256": "6da736ca3dd02c6d52f1204246f37ab31cea776e8a6cdca232a4d79a55b2202e",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_2].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_2].name": {
+      "pl": "Nakaz [Kartka] III",
+      "kr_sha256": "1cba5dd877ca82ae04eb3b2d2b7d61ba8fdec493d5deda0448e30b4b48b3a125",
+      "en_sha256": "b0da024a415a4d7c37ec62ae40e33adea2353f7f773605816a4a0e3339727bd9",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_3].desc": {
+      "pl": "Zabija wszystkich wrogów, zanim nadejdzie kolejny Nakaz.\n\n- Na początku tury, przy 9 Łaskach Nakazu",
+      "kr_sha256": "6bc6ef2a95d015be6386ea5605a3be62f1645e56f6baaf24688b12a27888f4e6",
+      "en_sha256": "0fb484fe1f5288d6e8c16023692888a0a22ee0ba1bf7c1c7a575e84d4b1a5333",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_3].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptFaust_3].name": {
+      "pl": "Nakaz [Kartka] IV",
+      "kr_sha256": "69581c6c9d3370acb28c9203f178d476ec910a176ac9bb36fba38f385d35bf0c",
+      "en_sha256": "4eb02c4e29f2f02779ec2eda17b4019b988a4155470fa8d00945fbc7130b7117",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptTargetMarkToEnemy].desc": {
+      "pl": "- Nakłada Znak Nakazu na jedną podstawową Umiejętność ataku na Panelu dowodzenia tej jednostki",
+      "kr_sha256": "a1553a76221a64f47f047b2bb5c75904cde31bb8c77c71b75a1aa301ade24801",
+      "en_sha256": "a48565d497a6ba4387c9a9176945e37cd909d95b1c9f41b24a9f666d26d9ece1",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptTargetMarkToEnemy].name": {
+      "pl": "Znak Nakazu",
+      "kr_sha256": "fa1e7fc4e7d48d94a32c7b40e1ed46bebf71ff58bde45b1aac2d437142d33c4d",
+      "en_sha256": "74858d5b93ad2e5e191ea6b2dd578696d1a4fc23cfb7910e819e6192a1184201",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptTargetToEnemy].desc": {
+      "pl": "- Otrzymuje +10% obrażeń od jednostek Wskazującego\n- Niezależnie od liczby Tożsamości Wskazującego efekt nakładany jest co turę tylko na jeden cel",
+      "kr_sha256": "d4e06b0f4b2bcb4ff9cb1be3d148f655052fe9c5d99239589e355c712670d590",
+      "en_sha256": "ad03d8cf63e1dee14ccfbe5e2b0f7f8821517d39c83ed3a9555b87c771457b70",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptTargetToEnemy].name": {
+      "pl": "Cel Nakazu",
+      "kr_sha256": "690667fe6b1ca590cb6155a7dacb3d33b21b8d2ad5cfc40c04a8ea7b529609d7",
+      "en_sha256": "726b19b48af271d22b23101fbbc7dcf56f462337758d78c92bf81c7ea60e3818",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_Base].desc": {
+      "pl": "- Zgodnie z określonymi warunkami otrzymuje Nakaz [Kartka]",
+      "kr_sha256": "04edd4c27b1d767f480499932650463bd43bd05b4ccc4867829b13f3d7867e3b",
+      "en_sha256": "9109a38db997e5e81363d7837815fcd650a25d711fe25ceefa659f649748f5f9",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_Base].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_Base].name": {
+      "pl": "Nakaz",
+      "kr_sha256": "625cd848f49398dc27ba78d72a6fe6f06ae67cf4cab6a3de18fed84a2a2acd53",
+      "en_sha256": "a27d43899988cf98b789b4444ad96d82ef8e4e46e261ac386879e8cc2cfb8bac",
+      "origin": "ai"
+    },
+    "dataList[id=IronMaiden_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Spadek Poziomu Ataku i 1 Wzrost Poziomu Obrony",
+      "kr_sha256": "2336335e17eed23456a7d1f73516626ee01aaed2b330fbfb09d90f7d29e92f6d",
+      "en_sha256": "a5e618edb3b324855f0ea30a7e719f97743aee5317846626f115a583a90e8de0",
+      "origin": "ai"
+    },
+    "dataList[id=IronMaiden_LowMorale].name": {
+      "pl": "Iron Maiden",
+      "kr_sha256": "2e0fd907914736ffe2be94d5dc5e6f08353ee9033ea667f64c1f40b6e2b30f44",
+      "en_sha256": "c6c2591d6e93ccd5fc440b6d316a5d824397509993ef6717943e05716ddf1a75",
+      "origin": "ai"
+    },
+    "dataList[id=IronMaiden_LowMorale].summary": {
+      "pl": "Na początku tury zyskuje 1 Spadek Poziomu Ataku i 1 Wzrost Poziomu Obrony",
+      "kr_sha256": "fa9b22a5ac2b2e79955fe9943d3d9968f04d1a97353e4ff70bc4fa360376ac7c",
+      "en_sha256": "9e70c84d875f058037c86882a4761e2b76bfc5869968a413075afb22162b929c",
+      "origin": "ai"
+    },
+    "dataList[id=IronMaiden_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Spadku Poziomu Ataku i 2 Wzrost Poziomu Obrony",
+      "kr_sha256": "650fa5d9d534c43f639b88d80f217816604e3ebd768849452e9ff302885690f4",
+      "en_sha256": "f94dc8999a72d961bfc4bc3c9ac362ab848789728f45bbf153dd188fcda55902",
+      "origin": "ai"
+    },
+    "dataList[id=IronMaiden_Panic].name": {
+      "pl": "Iron Maiden",
+      "kr_sha256": "2e0fd907914736ffe2be94d5dc5e6f08353ee9033ea667f64c1f40b6e2b30f44",
+      "en_sha256": "c6c2591d6e93ccd5fc440b6d316a5d824397509993ef6717943e05716ddf1a75",
+      "origin": "ai"
+    },
+    "dataList[id=IronMaiden_Panic].summary": {
+      "pl": "Na początku tury zyskuje 2 Spadku Poziomu Ataku i 2 Wzrost Poziomu Obrony",
+      "kr_sha256": "e048f1b5a45c06218a9fc902be5a4a57b2e7947a5f8f328a06bec7618d664b3b",
+      "en_sha256": "348110a5f34ab7e4506e9ef515adfa0e2c594a2fee4df737f80e43c41db96b79",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexAlly].desc": {
+      "pl": "- Na początku tury,\n· Zyskuje 1 Spadek Poziomu Obrony za każde 10 stosów\n· Zyskuje 1 Wrażliwości za każde 20 stosów\n- Maks. 100 stosów",
+      "kr_sha256": "9e2eee400a91fe5d9d30c7c59a57f3bf2887b9174d7c0a624539c2c1f374c962",
+      "en_sha256": "e6ec689871dae1b68e9e602c1c2bbf03bc8c55e355efa61d1083a99e63d35ae4",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexAlly].flavor": {
+      "pl": "Przyjmuje Nakaz i wypełnia go. Wypełnienie staje się karmą, która — krążąc bez końca — nawarstwia się znowu.",
+      "kr_sha256": "d4fa62780d2682207b10b042eb5207d4ebd385fc2aa40dd65c5e65e58de2de2e",
+      "en_sha256": "d5881ca89e47589febbc67736d8592358378037fc3dbb189f7a5c2eaa25f7d9d",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexAlly].name": {
+      "pl": "Karma",
+      "kr_sha256": "20785c39571b296683ca312c7547f0bc5ccf32c7cbe95362fecd79248b82e24c",
+      "en_sha256": "dae1a80d8d2ad225ddc898ff8a1c32286c668dc1c79998e720d05c6948b1294b",
+      "origin": "ai"
+    },
+    "dataList[id=MuscleContraction].desc": {
+      "pl": "- Maks. 2 stosów\n- Zadaje +15% obrażeń za każdy stos\n- Na początku walki przy 2 stosach wszystkie Monety Umiejętności ataku tej jednostki stają się Niezniszczalnymi Monetami.\n- Po zakończeniu ataku traci efekt",
+      "kr_sha256": "551eef9a282e41805196e7249dfaf94c8d959235e8552ca34a7bde56f1c05e6d",
+      "en_sha256": "4722f8821d6288eca6d8bd8334d5ca4cf54675fc66bea4e934fa4cbf338a9019",
+      "origin": "ai"
+    },
+    "dataList[id=MuscleContraction].name": {
+      "pl": "Automatyczna Praca Włókien Mięśniowych",
+      "kr_sha256": "f888dde0398f64a9b5e0a66c418f24a4b9d10a5ba4fe2dc8b89ecc3ea0f917ef",
+      "en_sha256": "5d7cabd8c86f7829795941c1b4ea75535fd7e213091b817091eb45ae4983967f",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationMoses].desc": {
+      "pl": "- Nie może być celem Zauroczenia\n- Zadaje +25% obrażeń Wróżce",
+      "kr_sha256": "78f39cbd80beadc42cad7d1c4589a3f3f0babfe4e6aafdbb98fdc4e9def721b2",
+      "en_sha256": "77a161e227aef264818f234946717b4620c9aeaf3e725b2e0ea0bbd4e75d7f30",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationMoses].name": {
+      "pl": "Spostrzegawczość",
+      "kr_sha256": "f6f1b882ac740dcd23f8d1743fd518bad3dc81f4438b98dcfe0b9e748b145b81",
+      "en_sha256": "d93fadd64684d1f7d010e9b1050a368abf9be26cac069567783b3ab3c02d6303",
+      "origin": "ai"
+    },
+    "dataList[id=RapidGrowthApple].desc": {
+      "pl": "- Maks. stosów: 3\n- Poziom Obrony części maleje o 1 za każdy stos (min. Poziom Obrony 1)\n- Znika po zniszczeniu wszystkich części Ramion",
+      "kr_sha256": "3df1c68bf22b4ffeba5edf6dfc4375d7435a82a3685c90ef5ff6d94dac955f0a",
+      "en_sha256": "4717691407bb5c6f79dc40bb006241c380513f3fa85299b95226492b4e96ba1b",
+      "origin": "ai"
+    },
+    "dataList[id=RapidGrowthApple].name": {
+      "pl": "Przyspieszony Wzrost",
+      "kr_sha256": "d772e1046062ccb738d8f1616b6ac07a91b68c1890016d1bd684f3b2c2d6580c",
+      "en_sha256": "f6ca69820643b16797f0eb7ac4f38e2ed64f3ff2887d185daaf97b54cc3bf7cd",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuSlotPlusA1C9].desc": {
+      "pl": "- Liczba Slotów Umiejętności +1\n- Zadaje +10% obrażeń wrogom z Domu Pajęczyn\n- Po Oszołomieniu wychodzi z Oszołomienia na początku następnej tury i zyskuje 1 Wzrost Mocy Ataku (1 raz na walkę)\n- Wycofanie niemożliwe",
+      "kr_sha256": "524de0917a240a9d37636f384564aa2e486537b90c5acaa2d61d98c5d124b051",
+      "en_sha256": "e18f28d65948327036ce18678e6e17cea2aa35bfbfae1e19d8a7af21f5018266",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuSlotPlusA1C9].name": {
+      "pl": "Smród Przeszłości",
+      "kr_sha256": "71769c63359805d9b0d777f31b350b130dfa639edc526d2334343683b88ca323",
+      "en_sha256": "9d68b2bdbf0770358d0678d448601e3aef746a7576e36eba3acc4d3ebb68173e",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuSlotPlusA1C9].summary": {
+      "pl": "Zadaje więcej obrażeń wrogom z Domu Pajęczyn",
+      "kr_sha256": "d71763e3227de0b4fadb20508cddf0188ebbe2ec1d95b71d835b45fd09fcc769",
+      "en_sha256": "2cf53588510ec7327e485ea642b286f94a12c434aa29405ffe96e27f7cd2fc53",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuStartA1C9].desc": {
+      "pl": "- Zadaje +10% obrażeń wrogom z Domu Pajęczyn\n- Po Oszołomieniu wychodzi z Oszołomienia na początku następnej tury i zyskuje 1 Wzrost Mocy Ataku (1 raz na walkę)",
+      "kr_sha256": "e4109b2087d2443984de132642f2eb8e4c0805dfcd1bf577e1b78c8934e22423",
+      "en_sha256": "bc0bf24744663f407b7c87dadbdf1ae6557b86ce158c5c1dcbe14c92f8cef1c1",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuStartA1C9].name": {
+      "pl": "Odrodzona Euforia",
+      "kr_sha256": "77cb6b392522ef03304c71ba5152629d2c6b1e4c19da2211362fdaf7f5a4594a",
+      "en_sha256": "4acb2ec8a9af9e1e5118673e859c74f1677468ecad16806fa0cbab0ce460aba8",
+      "origin": "ai"
+    },
+    "dataList[id=SeveredTendon].desc": {
+      "pl": "- Maks. 3 stosów\n- Podstawowa Siła podstawowej Umiejętności ataku -1 za każdy stos\n- Na koniec tury traci 1 stos",
+      "kr_sha256": "e7fa16eccf195212acce40f0ad4cdcd01d0b364419c5d08b6dd29fd85604e914",
+      "en_sha256": "8a3520dd0ba85563dbe09e2b27fbef66047d6eb336ffbd4386d22e821ae9ac1c",
+      "origin": "ai"
+    },
+    "dataList[id=SeveredTendon].name": {
+      "pl": "Przecięte Ścięgno",
+      "kr_sha256": "5904d8aa2bde6834b24d0046e8e72a261f34acf55716ef70cfd38288fa6a850c",
+      "en_sha256": "e9acb4f536ababf6cfd4fe6df5ebec52e41dae7e71030c76fc68e545b0de7b76",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersCommand].desc": {
+      "pl": "- Traci 5 Poziomów Ataku",
+      "kr_sha256": "10ee5dd3bcb0af82baa0b0073bfd1b8aeda38d4a7c444f0d94b908c94ca319c4",
+      "en_sha256": "85027d08ead8e7cfbe393a1477cf64b3ed29de3900e2afdd3cc5388f647ea5be",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersCommand].name": {
+      "pl": "Rozkaz Ojca Kciuka",
+      "kr_sha256": "9063a31ad2e15cfc48c5591a67ef0234865ad2de589eb1cc804fd5401f673e46",
+      "en_sha256": "a708afd7489ff567cb5c7dd31410edf00c1487a82b71ebd9f2e6e8976cb91fd5",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersPet_LowMorale].desc": {
+      "pl": "- Moc Starcia +1 w Starciu z celami posiadającymi Eskalację Pojedynku\n- Przegrana w Starciu: 1 Wrażliwości w następnej turze (raz na turę)",
+      "kr_sha256": "1c1854330daaba42f973bd0e6360e043ddd8b5ab98df5738f63626b79d73ecd0",
+      "en_sha256": "807224d7450060187006731e9f046ed89529f53fa0e8e204fa5f19888e445e5f",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersPet_LowMorale].name": {
+      "pl": "Podręcznik",
+      "kr_sha256": "a849ca740ba90accb71732bf3c456eeac8c5ae9fed0924b3143298d756e36a86",
+      "en_sha256": "884786adffa34d9b1e4f9dcfb10e3a0eb8ca236d6dd7fee9c9b5871fbd6bd3a3",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersPet_Panic].desc": {
+      "pl": "- Moc Starcia +2 w Starciu z celami posiadającymi Eskalację Pojedynku\n- Przegrana w Starciu: 1 Wrażliwości w następnej turze (raz na turę)",
+      "kr_sha256": "305e361ca13217a0788c30bea0438706d0b8da134c38f614b85355b1751d5c25",
+      "en_sha256": "3e211fb4b4d6f9f5bdb4a04ebaac32a0710182eb4da8a8a44a2e0c872cb1e55f",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersPet_Panic].name": {
+      "pl": "Podręcznik",
+      "kr_sha256": "a849ca740ba90accb71732bf3c456eeac8c5ae9fed0924b3143298d756e36a86",
+      "en_sha256": "884786adffa34d9b1e4f9dcfb10e3a0eb8ca236d6dd7fee9c9b5871fbd6bd3a3",
+      "origin": "ai"
+    },
+    "dataList[id=UnsteadyTheRings].desc": {
+      "pl": "- Maks. stosów: 3\n- Przy użyciu „Uciskanego Ciała” traci 10 Mocy Końcowej za każdy stos\n- Jeżeli po zakończeniu ataku „Uciskanego Ciała” wartość wynosi 3, efekt znika, a jednostka pozostaje w stanie Oszołomienia do następnej tury",
+      "kr_sha256": "3371a99d311a06f77e3e373d3a80ee8091ce9cecc16861c4fc6c6f7a06cfddf5",
+      "en_sha256": "37d57c8fc06eed104a9d1e3843a3ed0b216363d7211fa8a2f8cb8e21b361f7ed",
+      "origin": "ai"
+    },
+    "dataList[id=UnsteadyTheRings].name": {
+      "pl": "Rozkołysana Zbroja",
+      "kr_sha256": "38f7b9932a05c8bc0e2c938c951090d5a4962b164c2328df54244354315a0d17",
+      "en_sha256": "4ec044babadd59923527c841dc5d3c74b116a9b9cbce462a2de773e4d183a7e9",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+14770||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <방법을 찾기 전까진, 가까이 다가가지 말자.>|<Either way, let's steer clear of that thing until we find a way around it.>
+14771||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <찾았다. 이게 2호구나.>|<Ah, here it is. "Series 2.">
+14772||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 바닥을 살펴보았으나, 특별한 점은 보이지 않습니다, 관리자님.|A close observation the floor beneath the installation has revealed nothing, Manager.
+14773||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 으윽… 마네킹이라고 하지만, 결국 사, 사람이겠죠.|Nngh... I assume all these "Mannequins" are just people, too.
+14774||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 싱클레어는 거북하다는 표정으로 작품… 을 살펴보다가, 무언가를 발견한 듯이 가리켰다.|Sinclair scrutinized the "artwork" with discomfort clear in his face... then, as if he'd recognized something, raised a finger toward it.
+14775||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 어? 저쪽에 반지… 같은 게 있어요.|Huh? Do you see that over there? It looks like a ring.
+14776||RPGSystem#rpg-loc-dialogue-floor-3-b.json] 한바퀴 감겨 있는 반지… 약지, 그 중에서 스튜던트의 반지군.|A single-coiled ring... It must've belonged to a Student of the Ring.
+14777||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <가져오기엔… 너무 높은 곳에 있네.>|<Ah... it's too high for us to reach, though.>
+14778||RPGSystem#rpg-loc-dialogue-floor-3-b.json] <다른 곳으로 가보자.>|<Let's keep looking.>
+14779||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 수선사의 가위다. 수많은 시간이 지나 무뎌졌음에도, 여전히 무언가를 자를 수 있을 것만 같다.|The Alterationist's scissors. Though its edges have dulled, it seems just about ready to snip into anything.
+14780||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 가죽들이 모두 뜯겨 나간 장식품이다.|A decor stripped of its leather.
+14781||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 소파에선 아무 소리도 들리지 않는다.|The couch is silent.
+14782||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 바닥에 죽은 새들과 늘어진 테이프가 우수수 떨어져 있다.|Dead birds and tapes lay about on the ground.
+14783||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 세월의 흐름과 별개로, 누군가 의도적으로 무너뜨린 것 같은 기둥이다.|A fallen pillar, though it does not appear to be time's doing. Someone purposefully pushed it to the ground.
+14784||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 걸려있던 가죽 대부분이 뜯겨 나갔다. 이빨 자국 같은 것이 눈에 띈다.|Most of the leather has been torn away. Some have what appear to be teeth marks on them.
+14785||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 진열장 사이로 여전히 잘 보존된 옷들이 보인다.|The clothes inside the display stand are still well-preserved.
+14786||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 눈알… 이었던 것이 안에 가득 들어있다. 썩어 문드러져 쓸 수는 없을 것 같다.|It's full of eyeb—<i>things</i> that were once eyeballs. It smells rancid—we can't use these.
+14787||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 무너진 기둥이다. 이 정도면 뛰어넘을 수 있을 것 같은데…|A fallen pillar. It's only waist-high... Should be pretty easy to jump over.
+14788||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] <뫼르소, 이거 그냥 뛰어 넘으면 안 돼?>|<Meursault, can't we just leap over this thing?>
+14789||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] …시도해보겠습니다.|... I will make an attempt.
+14790||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 몸을 푼 뫼르소가 힘껏 기둥을 뛰어넘으려 점프했지만…|Meursault backed off a few feet from the pillar, stretched his arms and legs, then attempted a running jump...
+14791||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 무언가에 걸린 듯, 그대로 바닥에 곤두박질 쳤다.|... but immediately fell flat to the ground, as though something had tripped him mid-flight.
+14792||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] <…미안.>|<... Sorry.>
+14793||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 괜찮다는 듯 뫼르소는 옷을 툭툭 털고는 다시 일어섰다.|Meursault dusted himself and got back to his feet, apparently unhurt.
+14794||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 무너진 기둥이다. 뫼르소도 뛰어넘지 못했다.|A fallen waist-high pillar. Not even Meursault could jump over it.
+14795||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 무너진 단상 사이로, 르누아르의 감정평가서가 보인다.|Beneath the fallen podium is an Authenticity Certificate of Le Noir.
+14796||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] [3층 플로어 매니저님께.]|[Dear 3F Floor Manager.]
+14797||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] [목소리께서 어떠한 이유로 부재한 지금, 르누아르는 당신의 방송이 반드시 필요합니다.]|[In troubling times as these, where our Voice has fallen silent for reasons we are not at liberty to divulge, we of Le Noir desperately require your broadcast.]
+14798||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] [따라갈 유행조차 없어지기 전, 부디 르누아르에 찾아와주시길.]|[We implore you to visit Le Noir before even the very idea of trends becomes obsolete.]
+14799||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] …자리를 비우신 걸 보면, 르누아르로 전향하신 걸까요?|... Well, the podium is vacant. Maybe Le Noir has successfully recruited it?
+14800||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 반대일지도 모르지. 전향하지 않았기에, 응징 당했을 가능성도 배제할 순 없다.|Or the Rouges have. There's no evidence suggesting it's sided with either. Don't overlook the possibility that it was punished for refusing to choose a side.
+14801||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 어느 쪽이든 하나를 선택하긴 했을 거다. 중립이라는 입장을 끝까지 고수할 순 없었을 테지.|But I believe it would have had to decide where its allegiance lay. There's no such thing as true neutrality to the end.
+14802||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 르누아르의 감정평가서가 남겨져 있다. 한 번만 보낸 게 아닌 듯, 서너개가 떨어져있다.|An Authenticity Certificate of Le Noir. There's another next to it, then another. They must've sent several.
+14803||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 누군가 의도적으로 부숴둔 환풍기다. 안에 가득 차있던 먼지들이 말끔히 사라져 있다.|Someone destroyed this ventilation fan in an act of deliberate vandalism. The thick layer of dust inside it has been cleared away.
+14804||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 환풍기가 작동하고 있다. 주변 공기가 조금은 맑아진 것 같은 기분이 든다.|The ventilation fan is turning. The air around us feels slightly less stagnant.
+14805||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 소리를 전달하던 관들이 실처럼 엉켜있다.|The pipes that once relayed sounds lay tangled like threads.
+14806||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 낡아버린 주사위다. 그 긴 세월 동안, 누구도 굴려주지 않은 듯 보인다.|An old die. No one seems to have played with it for many, many seasons.
+14807||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 수많은 것들의 잔해가 뒤섞여있다. 대부분은 유행에 따라 그저 흘러가던 르카키들의 옷이다.|A pile of vestiges and remnants from all sorts of things. Mostly clothes of Le Kaki, who simply floated by like buoys to the trends of fashion.
+14808||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 망가진 관 앞에 테이프가 쌓여있다. 뒤적이다보면, 르누아르 매장에서 곧잘 들려오던 목소리가 한껏 늘어진 채로 재생되다 끊어진다.|There is a pile of tapes in front of the broken pipe. After searching through it for a while, the same Voice that once spoke in Le Noir stores plays for a bit, stretching and dragging... until it falls silent.
+14809||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 관에서 미약한 떨림이 느껴진다. 관으로 머리를 가져대면, 안쪽에서 울리던 소리가 들려온다.|There is an almost imperceptible vibration coming from the pipe. Upon leaning close to the opening, the vibration clears and turns into a voice.
+14810||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] [질서대로오… 행하라아아…]|[Dooo... As order... commandsssss...]
+14811||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] [고통을… 기억하노라아아…]|[Rememberrrrrr.... the paaaaaaaain...]
+14812||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 옛 목소리가 떠나지 못하고 제자리를 맴돌고 있다.|An ancient voice remains stuck in a cycle, pinned to the spot, and unable to leave.
+14813||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 언뜻 멀쩡해 보이지만, 황금송진으로 꿰매 둔 부분은 모두 뜯어져 있다.|It looks whole at first glance, but a closer inspection reveals that any parts that have been patched over with the Golden Resin have been pulled apart.
+14814||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 부러진 틈 사이로, 뼛조각과 살점이 붙어있다.|Shards of bone and globs of flesh can be seen between the cracks.
+14815||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 먼지가 뿌옇게 내려앉은 옷이다. 황금빛이 도는 실은 한 올도 남아있지 않다.|Clothing blanketed in a thick layer of dust, not a single thread of gold to be seen.
+14816||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 르누아르의 마네킹이다. 백화점의 마네킹인지, 바깥의 마네킹인지. 그것을 구분하는 것은 이제 의미가 없을 것 같다.|Mannequins that belong to Le Noir. Is it a Mannequin of the Grand Magasin, or is it a mannequin of the outside world?\nIt doesn't matter anymore.
+14817||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 황금빛도, 붉은빛도 모두 바래진 채, 질 나쁜 가죽만이 남아있다.|When both the golden hue and the rouge crimson have tarnished, what remains is a low-quality patch of leather.
+14818||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 실패들은 여전히 잘 관리되고 있다.|The spools of thread are still well-cared for.
+14819||RPGSystem#rpg-loc-dialogue-floor-3-c2.json] 자르고 싶은 열망이 모두 식어버린 듯, 날이 무뎌진 가위다.|A dulled pair of scissors. The desire to snip-snip has all but disappeared.
+14820||RPGSystem#rpg-loc-dialogue-floor-3.json] 지저귐을 들으라… 들으라아아…!|Heeeeaaaar.... it warbling...!
+14821||RPGSystem#rpg-loc-dialogue-floor-3.json] 플로어 매니저가 몸을 일으킨다. 여기서 끝을 봐야 한다.|The Floor Manager rises from their pedestal. Time to end this.
+14822||RPGSystem#rpg-loc-dialogue-floor-3.json] !그림자계 전투 진입!|!SHADOWED BATTLE!
+14823||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#515aee>과감하면서… 그럼에도 신중하게…</color>|<color=#515aee>Boldness... tempered by prudence...</color>
+14824||RPGSystem#rpg-loc-dialogue-floor-3.json] 뫼르소 씨가 누군가와 연인 사이였다는 게… 잘 상상이 되진 않아요.|I'm sorry. It's just that... It's hard to picture you being romantically involved with... anyone.
+14825||RPGSystem#rpg-loc-dialogue-floor-3.json] 으레 연인들과 다를 바가 없었지.|Our relationship entailed elements that are no different from what is conventionally expected from "romantic partners."
+14826||RPGSystem#rpg-loc-dialogue-floor-3.json] 우린 데이트를 했고 함께 시간을 보냈다.|We went on dates and spent time together.
+14827||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>이제 가 봐야겠다.</color>|<color=#ebcaa2>Time to bid each other adieu.</color>
+14828||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>마 퓌스, 보고 싶어도 조금만 참아.</color>|<color=#ebcaa2>I know you're dying to see me, ma puce, but try to exercise some restraint for now.</color>
+14829||RPGSystem#rpg-loc-dialogue-floor-3.json] …사라졌나?|... Is she gone?
+14830||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>…정말 갔을까?</color>|<color=#ebcaa2>... Am I?</color>
+14831||RPGSystem#rpg-loc-dialogue-floor-3.json] …쯧, 익숙한 장난질이군.|... Tsk. A familiar mischief.
+14832||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#ebcaa2>푸, 나는 출근해서 이렇게 누군가랑 장난칠 일이 많이 없거든. 그럼 정말 가볼게.</color>|<color=#ebcaa2>Sorry, couldn't help myself. It's not often that I get to fool around like this at work. Leaving for real now—tchao!</color>
+14833||RPGSystem#rpg-loc-dialogue-floor-3.json] 어떻게 된 거예요, 뫼르소 씨?!|What the hell, Meursault?!
+14834||RPGSystem#rpg-loc-dialogue-floor-3.json] 필요 이상으로 흥분을 하는군. 시지프 시스템에서 일할 무렵, 교제를 시작했고 N사에서 영구 추방을 당하면서 자연스럽게 헤어지게 되었다.|The anger you display is disproportionate to the significance of the matter at hand. The explanation is simple: our romantic intimacy began during my tenure at Sisyphe System. My permanent exile from N Corp. led to the natural dissolution of our relationship.
+14835||RPGSystem#rpg-loc-dialogue-floor-3.json] …들리나? 어딘가에서 가위질 소리가 들려오는군.|... Wait, do you hear that? Sounds like a pair of scissors.
+14836||RPGSystem#rpg-loc-dialogue-floor-3.json] 소리가 들리는 곳은 이쪽 방향이 아닙니다, 관리자님.|This isn't where the noise is coming from, Manager.
+14837||RPGSystem#rpg-loc-dialogue-floor-3.json] <이곳도 목소리가 들리네, 아까와는 다른 목소리지만…>|<There's a Voice here, too... Though it's different from the one we heard earlier.>
+14838||RPGSystem#rpg-loc-dialogue-floor-3.json] 아직도 모르는군. 도시에 신앙은… 숨겨져있다.|You still don't seem to understand that the religions of the City are... veiled.
+14839||RPGSystem#rpg-loc-dialogue-floor-3.json] <숨겨졌다고?>|<Veiled?>
+14840||RPGSystem#rpg-loc-dialogue-floor-3.json] …오티스는 무언가를 곰곰히 생각하는 듯, 내 질문에 답하진 않고 어딘가를 골똘이 쳐다보고 있었다.|... Outis's eyes seemed to be lingering on something that I couldn't see. She ignored my question, deep in thought.
+14841||RPGSystem#rpg-loc-dialogue-floor-3.json] 제가 믿음이 부족해서 여전히 그분의 목소리가 귓가에 속삭여지지는 않아요. 다리가 못으로 박힌 탓에, 황금가죽을 모아오질 못하는 탓에 그런 걸까요?|She still does not whisper her Voice into my ears—I do not have the faith to hear it. Is it because I am nailed to the ground? Because I can no longer fulfill my duty of gathering the Golden Hide?
+14842||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#cf0000>욕망하라. 욕망은 그대를 이롭게 바꾼다.</color>|<color=#cf0000>Yearn and desire. Desire shall be your transformation and ascension.</color>
+14843||RPGSystem#rpg-loc-dialogue-floor-3.json] 그래도 저렇게 간절하게 원하고 있는데 원하는 목소리가 들리면 좋을 텐데요. 정확히 어떤 방식으로 목소리가 작동하는지는 모르겠지만요…|I don't understand how exactly this "Voice" works, but she's so desperate to hear it that it makes me wish it would speak to her again.
+14844||RPGSystem#rpg-loc-dialogue-floor-3.json] 저자가 원하는 목소리가 새로이 들리는 일은 없을 것이다.|The Voice she desires to hear will never speak to her again.
+14845||RPGSystem#rpg-loc-dialogue-floor-3.json] 무언가를 단정하는 일이 거의 없었던 뫼르소치곤, 굉장히 단호한 말이었다.|Meursault, who usually makes it a point never to deliver a judgment of his own, spoke with unexpected conclusiveness.
+14846||RPGSystem#rpg-loc-dialogue-floor-3.json] …어떻게 단언하시는 거예요?|Well, how are you so sure about that?
+14847||RPGSystem#rpg-loc-dialogue-floor-3.json] 저 목소리의 주인을 알고 있기 때문이다.|I know to whom that voice belongs.
+14848||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#cf0000>시지프의 옷은… 욕망을 먹고… 욕망을 먹고…</color>|<color=#cf0000>The vestments of Sisyphe gorge upon desire... gorge upon desire...</color>
+14849||RPGSystem#rpg-loc-dialogue-floor-3.json] 욕망을 먹고… 아아… 또다시 멈췄어… 제발 계속 말해주세요…|Upon desire, and... Ahh, she's stopped again... Please don't stop... Speak to me again, please...
+14850||RPGSystem#rpg-loc-dialogue-floor-3.json] 네가 목소리의 주인을 알고 있다고?|You do? Yet another one?
+14852||RPGSystem#rpg-loc-dialogue-floor-3.json] 저것은 나의 어머니의 목소리다.|That is my mother's voice.
+14853||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#cf0000>욕망하여라… 걸친 만큼, 그대는 그 이상이 되리니.</color>|<color=#cf0000>Fan your desires... The more you are donned... the higher shall your self ascend...</color>
+14854||RPGSystem#rpg-loc-dialogue-floor-3.json] 맞아요… 당신이 원하는 건 고작 이 정도의 황금가죽이 아니죠… 지금도 우리 르루주들이 저를 대신해서 황금가죽을 긁어내기 위해 백화점을 헤매고 있습니다…|I understand... These meager patches of the Golden Hide cannot sate your desires... In my stead, countless Rouges have ventured out to scour the Grand Magasin as I speak...
+14855||RPGSystem#rpg-loc-dialogue-floor-3.json] 도시에서는 신앙이라는 게 아주 일부 집단에서만 통용되는 느낌이었는데, 이곳에서는 믿음으로 굳게 결집하고 있네요.|People are really rallying around religion in here... I thought it was a pretty niche concept in the City.
+14856||RPGSystem#rpg-loc-dialogue-floor-3.json] <color=#cf0000>시지프는… 시지프는… (늘어지는 소리)</color>|<color=#cf0000>Sisyphe... Siiiisssyyyypphheeeeee...</color>
+14857||RPGSystem#rpg-loc-dialogue-floor-3.json] 알고 싶어요. 그분이 왜 저에게 새로운 이야기를 더 이상 들려주지 않으시는지… 어째서 같은 말만을 반복하시는지…|I must know why the Voice no longer tells me any new tales... Why she only repeats and repeats the same stories without end...
+14858||RPGSystem#rpg-loc-dialogue-floor-3.json] 이상하잖아요. 그럴 리가 없는 거잖아요. 못이 박히기 전엔 저만큼 열심히 르누아르들을 찢어 먹고 황금가죽을 긁어모아 왔던 자는 없어요…|This can't be right, can it? This <i>isn't</i> right, something's terribly wrong here... I've flayed the Golden Hide, torn apart and devoured the Noirs much more diligently than anyone else ever did... until they nailed me down...
+14859||RPGSystem#rpg-loc-dialogue-floor-3.json] 이방인분들께… 제 남은 눈알들을 전부 드릴게요.|Dear strangers, I've a request... I'll give you every last eyeball I have left, and in return...
+14860||RPGSystem#rpg-loc-dialogue-floor-3.json] 저를 대신해서 이 층에 있는 방송실에 가주실 수 있나요? 한때 그분의 목소리가 무엇보다 커다랗고 선명하게 들렸던 장소였답니다. 그곳에 가면 뭔가 알 수 있을지도 몰라요.|... would you go to the Public Address room for me? It's on this floor. No other place here carried her Voice with such volume and clarity... Maybe there, you'll find a clue to what happened to the Voice.
+14861||RPGSystem#rpg-loc-dialogue-floor-3.json] <…뫼르소의 어머니가 죽었더라도, 이들은 알 방법이 없겠구나…>|<Right... the people inside Sisyphe have no way of knowing that Meursault's mother... has already passed away.>
+14862||RPGSystem#rpg-loc-dialogue-floor-3.json] <그들이 목소리라고 부르는 자는 이미…>|<Can you tell them that the "Voice" they worship has already—>
+14863||RPGSystem#rpg-loc-dialogue-floor-3.json] 이 정도의 신앙심을 가진 자에게는 말해도 소용이 없을 것 같습니다.|I doubt the plain truth will be able to breach the walls of reality her adamant faith has built, Executive Manager.
+14864||RPGSystem#rpg-loc-dialogue-floor-3.json] 그러니 일단… 저자의 요청대로 해주는 게 어떻겠습니까? 그곳에서 얻을 정보와 눈알이 더 가치가 있을 것 같군요.|So... May I suggest that we comply with her request for now? I presume we have much intelligence and eyeballs to gain from undertaking this task.
+14865||RPGSystem#rpg-loc-dialogue-floor-3.json] <방송실로 가자.>|<Sure, let's head to the PA room.>
+14866||RPGSystem#rpg-loc-dialogue-floor-3.json] 목소리가 또다시 들리지 않아.|The Voice, it's... it's forsaken me again.

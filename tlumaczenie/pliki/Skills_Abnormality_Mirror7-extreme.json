@@ -1,0 +1,2914 @@
+{
+  "entries": {
+    "dataList[id=139001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [Laceration]",
+      "kr_sha256": "cedd3cfa30f52b2c7016b9dc0705b67d59443c9d9b0764d98f4fbe973d61f7e8",
+      "en_sha256": "f0e337fdb9679e27beda0b93a2117349ec24b4342056e6c1e575bdd349bf3f45",
+      "origin": "ai"
+    },
+    "dataList[id=139001].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 4",
+      "kr_sha256": "91e5206c0bad40989c5d94f3c0d82d2775fffe31b9625757a962b2cde02611d6",
+      "en_sha256": "b6a7210ee81efe5effcd9a594e38b78ce17c7c646116dd7aac0c5e11c6ebc9f2",
+      "origin": "ai"
+    },
+    "dataList[id=139001].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma [Combustion] albo [Laceration], Moc Bazowa +2",
+      "kr_sha256": "5d87beb45455ae5fa7459b173101fa86e500530062a09061e67de5a6866a403c",
+      "en_sha256": "255a34949dd487839102c06478987c9de8268a94ae12a5a9db4207f3dbf0badf",
+      "origin": "ai"
+    },
+    "dataList[id=139001].levelList[level=1].name": {
+      "pl": "Downward Slam",
+      "kr_sha256": "da2b793754905366d755c754f52f0bfc32bebd558d664e9447b59ed41045085e",
+      "en_sha256": "5b180dc7cc325d7f3f211dee9f4ea37de9427398fefe1e9eb22ffa313ae843db",
+      "origin": "ai"
+    },
+    "dataList[id=139002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [Laceration]",
+      "kr_sha256": "cedd3cfa30f52b2c7016b9dc0705b67d59443c9d9b0764d98f4fbe973d61f7e8",
+      "en_sha256": "f0e337fdb9679e27beda0b93a2117349ec24b4342056e6c1e575bdd349bf3f45",
+      "origin": "ai"
+    },
+    "dataList[id=139002].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 4",
+      "kr_sha256": "91e5206c0bad40989c5d94f3c0d82d2775fffe31b9625757a962b2cde02611d6",
+      "en_sha256": "b6a7210ee81efe5effcd9a594e38b78ce17c7c646116dd7aac0c5e11c6ebc9f2",
+      "origin": "ai"
+    },
+    "dataList[id=139002].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma [Combustion] albo [Laceration], Moc Bazowa +2",
+      "kr_sha256": "5d87beb45455ae5fa7459b173101fa86e500530062a09061e67de5a6866a403c",
+      "en_sha256": "255a34949dd487839102c06478987c9de8268a94ae12a5a9db4207f3dbf0badf",
+      "origin": "ai"
+    },
+    "dataList[id=139002].levelList[level=1].name": {
+      "pl": "Downward Slam",
+      "kr_sha256": "da2b793754905366d755c754f52f0bfc32bebd558d664e9447b59ed41045085e",
+      "en_sha256": "5b180dc7cc325d7f3f211dee9f4ea37de9427398fefe1e9eb22ffa313ae843db",
+      "origin": "ai"
+    },
+    "dataList[id=139003].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=139003].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma [Combustion] albo [Laceration], Moc Starcia +3",
+      "kr_sha256": "7ab9552c99d29fccff6ca279499996e1176720bec9bba699de6d8350f8c7009c",
+      "en_sha256": "77730b57f4bce2a2c6b0d1686343ab80057431a53ce2664207970f5a9a0fda62",
+      "origin": "ai"
+    },
+    "dataList[id=139003].levelList[level=1].name": {
+      "pl": "Dudnienie",
+      "kr_sha256": "0ea5677366b51a38cf1266dbef213b3a7f17157a29b4422a39b02a9f3287431e",
+      "en_sha256": "46dc99ecbadf8eb35f82819e8d6d11b88538fc90ef6c908db72b711bde294865",
+      "origin": "ai"
+    },
+    "dataList[id=139004].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] o 3 w następnej turze",
+      "kr_sha256": "c1de800b7a290d9cceed1d64b35c46f58470f261dab93548710208d3f31d5aa1",
+      "en_sha256": "145bc651d072dd4b19b09ed3ecc34bd3da40f68f570473ce14421cd781c766aa",
+      "origin": "ai"
+    },
+    "dataList[id=139004].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma [Combustion] albo [Laceration], Moc Starcia +3",
+      "kr_sha256": "7ab9552c99d29fccff6ca279499996e1176720bec9bba699de6d8350f8c7009c",
+      "en_sha256": "77730b57f4bce2a2c6b0d1686343ab80057431a53ce2664207970f5a9a0fda62",
+      "origin": "ai"
+    },
+    "dataList[id=139004].levelList[level=1].name": {
+      "pl": "Żywa Ofiara",
+      "kr_sha256": "ac91a2271233d4d2d9cc46fc5fe2cfd269565c52635cf5c12ed12a74673e58dd",
+      "en_sha256": "637d1ead7ce13fc8fd6b84a8245461ee1b0f1c049f3fa4e9aef750c3c895aa97",
+      "origin": "ai"
+    },
+    "dataList[id=139005].levelList[level=1].name": {
+      "pl": "Wszechświat w Ogniu",
+      "kr_sha256": "e378c95ef989b2df6a0bd0d6c78f94957be5a6c803d9139a45d74a260c838357",
+      "en_sha256": "3cfaf47b2f5bc7736049cba005db0c94747f693e86a3a7659f13458b3501a78a",
+      "origin": "ai"
+    },
+    "dataList[id=139006].levelList[level=1].desc": {
+      "pl": "[StartBattle] Zwiększa Licznik [Combustion] o 3 wszystkim wrogom z [Combustion]",
+      "kr_sha256": "dc88c1384f903668e24aaa45ff146885fa498a73c14cca7feb575ddea6ba4369",
+      "en_sha256": "5ff167575e0c7e71ef9feb7c94693411097cbd588e9bbb009c125a3b3b9aa9df",
+      "origin": "ai"
+    },
+    "dataList[id=139006].levelList[level=1].name": {
+      "pl": "Trwały Ołtarz",
+      "kr_sha256": "e08aeea563b1bd53b3d0d236bc3c4bb1ad2ffa64e6564d19f1607a31ce8e64a1",
+      "en_sha256": "196bf3826cd390687c14f4e722f30ef55c630cb8b573378b678e0632bd3a88a0",
+      "origin": "ai"
+    },
+    "dataList[id=139007].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nceluje w sojuszników",
+      "kr_sha256": "27cc2ff887be03c85fa286c502c6f3e95637851ed459446713b0629034983e0d",
+      "en_sha256": "2492a9955e8eee1a796713ce1941363e2a50cac031a1d196d5827775e362cb6d",
+      "origin": "ai"
+    },
+    "dataList[id=139007].levelList[level=1].name": {
+      "pl": "Wszechświat w Ogniu",
+      "kr_sha256": "e378c95ef989b2df6a0bd0d6c78f94957be5a6c803d9139a45d74a260c838357",
+      "en_sha256": "3cfaf47b2f5bc7736049cba005db0c94747f693e86a3a7659f13458b3501a78a",
+      "origin": "ai"
+    },
+    "dataList[id=139101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 4",
+      "kr_sha256": "91e5206c0bad40989c5d94f3c0d82d2775fffe31b9625757a962b2cde02611d6",
+      "en_sha256": "b6a7210ee81efe5effcd9a594e38b78ce17c7c646116dd7aac0c5e11c6ebc9f2",
+      "origin": "ai"
+    },
+    "dataList[id=139101].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każdego innego żywego Doomsday Clay Doll",
+      "kr_sha256": "138f34f24c053635b436c54600eb129e6fd142194fadb07fb25a8576e7f3418b",
+      "en_sha256": "82c5240a27857374c20aaf2bb3fd52be5725a79edf05277ae0c8a6f3e3388a47",
+      "origin": "ai"
+    },
+    "dataList[id=139101].levelList[level=1].name": {
+      "pl": "Pchnięcie",
+      "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
+      "en_sha256": "12dbd5aa23e8edaab3f1bc895fe5a3bf3546bf9e49c02b9ded70328ae827d76d",
+      "origin": "ai"
+    },
+    "dataList[id=139102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "b59b2da484d428ea24d2d2e56ff0acf6bac249784f7383715079cc5b51bc9f86",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=139102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 4",
+      "kr_sha256": "91e5206c0bad40989c5d94f3c0d82d2775fffe31b9625757a962b2cde02611d6",
+      "en_sha256": "b6a7210ee81efe5effcd9a594e38b78ce17c7c646116dd7aac0c5e11c6ebc9f2",
+      "origin": "ai"
+    },
+    "dataList[id=139102].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każdego innego żywego Doomsday Clay Doll",
+      "kr_sha256": "138f34f24c053635b436c54600eb129e6fd142194fadb07fb25a8576e7f3418b",
+      "en_sha256": "82c5240a27857374c20aaf2bb3fd52be5725a79edf05277ae0c8a6f3e3388a47",
+      "origin": "ai"
+    },
+    "dataList[id=139102].levelList[level=1].name": {
+      "pl": "Clawing",
+      "kr_sha256": "fe4c2368deea2d3541b55d393ed4a3c2102ea5b2f15f1c6a54995d3b3ee34dc8",
+      "en_sha256": "587cfbbbcd42a71ba7f33f8051d5c354707fa1ff227cab11452c3ba2147a8682",
+      "origin": "ai"
+    },
+    "dataList[id=139201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Combustion]",
+      "kr_sha256": "6c4c1d83ba89efa4d736ad1e14dbdfd39b2b566172855adc4c095b088c682836",
+      "en_sha256": "921c5763b1e5455cd4601e4655c36468f0568f29e3ad52bdfcc73b4dc64e0ab1",
+      "origin": "ai"
+    },
+    "dataList[id=139201].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], nakłada 5 [Combustion]",
+      "kr_sha256": "a94629141bd9e43f77118c7ad88c15fdf2b8bb9306a2df5f3013edea8bc914dd",
+      "en_sha256": "57dfb6df95223e87a04d4a7973474ac598ae3731f43667f7bd22dfbfbc37f8d5",
+      "origin": "ai"
+    },
+    "dataList[id=139201].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +2 za każdego innego żywego Doomsday Clay Doll",
+      "kr_sha256": "ea1508c6775c0bdf725eb24fe2bdff35de910887cd03563dc494cdb30faa571d",
+      "en_sha256": "77bd2688b6933d41f5fedbd0c17e0c99ad35e838bbe2cde2fc8e8402e9145bb7",
+      "origin": "ai"
+    },
+    "dataList[id=139201].levelList[level=1].name": {
+      "pl": "Ziajanie Ogniem",
+      "kr_sha256": "a6fe2ef1c0ac3f91911dff60d2515bfe8be1efff0931133c062dfabcee4324c3",
+      "en_sha256": "2faea3c925909d2c59df8acce6d99f91afc5bcb282de5147c13a3f662d8c453a",
+      "origin": "ai"
+    },
+    "dataList[id=139202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=139202].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika [Combustion]",
+      "kr_sha256": "020d1170ef8276dcf8917a1f82b169fb5d7f6653960511148beb0e0fa2240674",
+      "en_sha256": "152e47d8af6c038095430ed1788bbf8b59ceefa6673e1070424d81fadd3e3cb9",
+      "origin": "ai"
+    },
+    "dataList[id=139202].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +2 za każdego innego żywego Doomsday Clay Doll",
+      "kr_sha256": "ea1508c6775c0bdf725eb24fe2bdff35de910887cd03563dc494cdb30faa571d",
+      "en_sha256": "77bd2688b6933d41f5fedbd0c17e0c99ad35e838bbe2cde2fc8e8402e9145bb7",
+      "origin": "ai"
+    },
+    "dataList[id=139202].levelList[level=1].name": {
+      "pl": "Brutalny Sztych",
+      "kr_sha256": "d94b63b133491a98134fee171ba961f19b3a16cf0a43b694b330eb5f82b6a713",
+      "en_sha256": "efee2243cbf1a66f247cdc858c22d808fc7dfa7a3fac303274bfc10311f53d2c",
+      "origin": "ai"
+    },
+    "dataList[id=139203].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Combustion]",
+      "kr_sha256": "6c4c1d83ba89efa4d736ad1e14dbdfd39b2b566172855adc4c095b088c682836",
+      "en_sha256": "921c5763b1e5455cd4601e4655c36468f0568f29e3ad52bdfcc73b4dc64e0ab1",
+      "origin": "ai"
+    },
+    "dataList[id=139203].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], nakłada 5 [Combustion]",
+      "kr_sha256": "a94629141bd9e43f77118c7ad88c15fdf2b8bb9306a2df5f3013edea8bc914dd",
+      "en_sha256": "57dfb6df95223e87a04d4a7973474ac598ae3731f43667f7bd22dfbfbc37f8d5",
+      "origin": "ai"
+    },
+    "dataList[id=139203].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=139203].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika [Combustion]",
+      "kr_sha256": "020d1170ef8276dcf8917a1f82b169fb5d7f6653960511148beb0e0fa2240674",
+      "en_sha256": "152e47d8af6c038095430ed1788bbf8b59ceefa6673e1070424d81fadd3e3cb9",
+      "origin": "ai"
+    },
+    "dataList[id=139203].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +2 za każdego innego żywego Doomsday Clay Doll",
+      "kr_sha256": "ea1508c6775c0bdf725eb24fe2bdff35de910887cd03563dc494cdb30faa571d",
+      "en_sha256": "77bd2688b6933d41f5fedbd0c17e0c99ad35e838bbe2cde2fc8e8402e9145bb7",
+      "origin": "ai"
+    },
+    "dataList[id=139203].levelList[level=1].name": {
+      "pl": "Bolesne Drapanie",
+      "kr_sha256": "39533831e8f425428fe7e4eacea1e30885d9fa180dd960a9691a0c37cda12db9",
+      "en_sha256": "f2b53e6a2e13bd0b915095c06d782ebe30a0710a62b2909e3def7861cca19d11",
+      "origin": "ai"
+    },
+    "dataList[id=139301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "2c75c57f4685a0fcb28573e3f0173cbbd0797b6e386ce50769f1f16423574467",
+      "en_sha256": "c79f3c3a2b473310b3d68b8494c2a91412e6837617323768d5bd562c01fd62e4",
+      "origin": "ai"
+    },
+    "dataList[id=139301].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "c3921d543b05347df8976bb130a4f834f8f63aceb86f6508cdf03806dca571c1",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=139301].levelList[level=1].desc": {
+      "pl": "zadaje +10% obrażeń za każde 50 [AccumulatedPastMirror]\n[WhenUse] Moc Bazowa +1 za każde 10 (Siła [Vibration] + Licznik) celu (maks. 3)\n[WhenUse] jeżeli [AccumulatedPastMirror] jednostki jest liczbą nieparzystą, ta Umiejętność zadaje +30% obrażeń",
+      "kr_sha256": "825ba45df465e3aebc9907fecafb3d37f38467f1a08b6e602501f301da76bb60",
+      "en_sha256": "7b3e79dc29fa6b8fc220102754210dab1f5f7979077fb8ba517609317a8cb926",
+      "origin": "ai"
+    },
+    "dataList[id=139301].levelList[level=1].name": {
+      "pl": "6463",
+      "kr_sha256": "0da43cdf1450379df99443aee87dd26fe79d4392cf44b4676e58682eddebd921",
+      "en_sha256": "0da43cdf1450379df99443aee87dd26fe79d4392cf44b4676e58682eddebd921",
+      "origin": "ai"
+    },
+    "dataList[id=139302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "2c75c57f4685a0fcb28573e3f0173cbbd0797b6e386ce50769f1f16423574467",
+      "en_sha256": "c79f3c3a2b473310b3d68b8494c2a91412e6837617323768d5bd562c01fd62e4",
+      "origin": "ai"
+    },
+    "dataList[id=139302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "5d76ed052893c5a8d60ed2845bca627bf47ae5b3593f24ec3e4daf7a6e6a2810",
+      "en_sha256": "035d3ebdcc297b2bbb652cdd0adfa7a8a39c40903d9db2d4459ce208e1e5eba0",
+      "origin": "ai"
+    },
+    "dataList[id=139302].levelList[level=1].desc": {
+      "pl": "zadaje +10% obrażeń za każde 50 [AccumulatedPastMirror]\n[WhenUse] Moc Bazowa +1 za każde 10 (Siła [Vibration] + Licznik) celu (maks. 3)\n[WhenUse] jeżeli [AccumulatedPastMirror] jednostki jest liczbą parzystą, zyskuje 3 [Protection] (1 raz na turę)",
+      "kr_sha256": "23cb6916b160468e04907fe04878fbb444c5747e035b48c92c01d3c325caf22f",
+      "en_sha256": "bd2901078ca53eee061f18eb6529586ff7fb23a8e0cdfe87e9e2c72d39c7d7f5",
+      "origin": "ai"
+    },
+    "dataList[id=139302].levelList[level=1].name": {
+      "pl": "6753",
+      "kr_sha256": "7a84a9b5bf05133e958a0c51f057e87cf3b23c560e74e1b4198ec3ebb531073c",
+      "en_sha256": "7a84a9b5bf05133e958a0c51f057e87cf3b23c560e74e1b4198ec3ebb531073c",
+      "origin": "ai"
+    },
+    "dataList[id=139303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "2c75c57f4685a0fcb28573e3f0173cbbd0797b6e386ce50769f1f16423574467",
+      "en_sha256": "c79f3c3a2b473310b3d68b8494c2a91412e6837617323768d5bd562c01fd62e4",
+      "origin": "ai"
+    },
+    "dataList[id=139303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "5d76ed052893c5a8d60ed2845bca627bf47ae5b3593f24ec3e4daf7a6e6a2810",
+      "en_sha256": "035d3ebdcc297b2bbb652cdd0adfa7a8a39c40903d9db2d4459ce208e1e5eba0",
+      "origin": "ai"
+    },
+    "dataList[id=139303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 50% zadanych obrażeń",
+      "kr_sha256": "73202c325140defdfc6e56271a8e8232812fa5951c48c998db52351731bf4344",
+      "en_sha256": "69aad7f65d32102e13d411b3fe37c3cf3b1df6d74c1f4b54e33db54fba4d2d30",
+      "origin": "ai"
+    },
+    "dataList[id=139303].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje +1% obrażeń za każdy [AccumulatedPastMirror] (maks. 50%)",
+      "kr_sha256": "aec7174cf7b0ff6dda29a2a163f47cdbd4e28aac620ee0fdb21445b0566c7cc5",
+      "en_sha256": "256c9bded6bb7af57ef89aeed5ce9630c19d1f06a1978951a09e9fc0ac3dd2cb",
+      "origin": "ai"
+    },
+    "dataList[id=139303].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 5 [Breath] jednostki (maks. 3)",
+      "kr_sha256": "2e1237d3c36777c68d60a5bbc0669d261da768cb99ff6173e787312a277c65a4",
+      "en_sha256": "13f7cb66a1dbf846ef488f4ba8cd00cb6b8b4dff14ef5b5aaa158355bd59ea15",
+      "origin": "ai"
+    },
+    "dataList[id=139303].levelList[level=1].name": {
+      "pl": "853",
+      "kr_sha256": "7fc81a57656ec055615121454cb5343aaf3db93c762fe310d976e5fe8d05e66d",
+      "en_sha256": "7fc81a57656ec055615121454cb5343aaf3db93c762fe310d976e5fe8d05e66d",
+      "origin": "ai"
+    },
+    "dataList[id=139304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o wartość [Breath]",
+      "kr_sha256": "7c957ab798193b53f5ae48de427629e9dd29ccc09e181428a28a349e6bd4e5e1",
+      "en_sha256": "e91a661980575e1ce0f6700c0888d6f12c365b29dbe18f9ac1770f155333b8a3",
+      "origin": "ai"
+    },
+    "dataList[id=139304].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje +20% obrażeń za każde 3 [Breath] (maks. 100%)",
+      "kr_sha256": "937264b223bf4ff932c9aaf89fdb70ef8de617f96299c662255d939a4b8a9ff9",
+      "en_sha256": "8dac3aecc9e9034c05d5cdd1d5e65c768b74a6bc45985e1baf9422f3b1ff507d",
+      "origin": "ai"
+    },
+    "dataList[id=139304].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wszystkie Części zyskują 4 [Breath]",
+      "kr_sha256": "725e4bfa0e747b7db1717fe4b8ae6926ed3692a8ee1d0fb87705879f7ff88a9c",
+      "en_sha256": "dcd1eb4ac145dbd0f6941eccd6f6cafbca85068d415a191c47f88b12f5dac4a2",
+      "origin": "ai"
+    },
+    "dataList[id=139304].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +2 za każde 10 (Siła [Vibration] + Licznik) celu (maks. 4)\n[WhenUse] wszystkie Części zyskują 3 [Breath] i +3 Licznika [Breath]",
+      "kr_sha256": "583bac81ccf39bbd39b1231aa907456c2551e913b647e469b134f7159bee3e19",
+      "en_sha256": "17751dad31cca6046b6b38268706ddb615406a514a49310529b21fe2992e8bb7",
+      "origin": "ai"
+    },
+    "dataList[id=139304].levelList[level=1].name": {
+      "pl": "5384",
+      "kr_sha256": "24975a89cbba02cb0b417ba53aa3c8bcc3e7c556ab592799a1bc3242574d51f2",
+      "en_sha256": "24975a89cbba02cb0b417ba53aa3c8bcc3e7c556ab592799a1bc3242574d51f2",
+      "origin": "ai"
+    },
+    "dataList[id=139305].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przy 5+ [Breath], podnosi Próg Oszołomienia o 50% zadanych obrażeń",
+      "kr_sha256": "adee70f7732e2642d71aafe94ddc9f2135e31f44b92d142daa7f709cbfce68f4",
+      "en_sha256": "b33d1ecaf92051c71a321566890109bee6ae1e1cea43eedbf39dc0d92db4d54d",
+      "origin": "ai"
+    },
+    "dataList[id=139305].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] wszystkie Części zyskują 8 [Breath] i +4 Licznika [Breath]",
+      "kr_sha256": "ea4348f8569d3bcc0b9f53e73e294e4d00a6ce49181e25199bf9bb6b0c38d65c",
+      "en_sha256": "700e5b67e81b5739aa779fa833be1ac73dba89614bdfefcd430d2fd060aba451",
+      "origin": "ai"
+    },
+    "dataList[id=139305].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=139305].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika [Combustion]",
+      "kr_sha256": "020d1170ef8276dcf8917a1f82b169fb5d7f6653960511148beb0e0fa2240674",
+      "en_sha256": "152e47d8af6c038095430ed1788bbf8b59ceefa6673e1070424d81fadd3e3cb9",
+      "origin": "ai"
+    },
+    "dataList[id=139305].levelList[level=1].desc": {
+      "pl": "przy 7+ [Breath], Moc Monety +1",
+      "kr_sha256": "888cb4c3981fe21c695c23c020d3e6d05f443fea8411fb898489584c4c95d1c3",
+      "en_sha256": "92e6bc972536095a879f8e73e57e0cfa307bc68e0bdb564a71ef01920ff5c136",
+      "origin": "ai"
+    },
+    "dataList[id=139305].levelList[level=1].name": {
+      "pl": "6475384",
+      "kr_sha256": "699d29e7f5634adb6f5c9683eaf03f9f7d9f01cda6a672e12c07d1116cf4d396",
+      "en_sha256": "699d29e7f5634adb6f5c9683eaf03f9f7d9f01cda6a672e12c07d1116cf4d396",
+      "origin": "ai"
+    },
+    "dataList[id=139306].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "zadaje +1% obrażeń za każdy [AccumulatedPastMirror] (maks. 200%)",
+      "kr_sha256": "47b75c8c0340f02fa2b2f633a4974ef1692b10e9b06465c27f48599a6372eed8",
+      "en_sha256": "f6ab192f564714893a840353f66af05f2892cf22a492d6f49daacbda9b1729df",
+      "origin": "ai"
+    },
+    "dataList[id=139306].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion] za każde 50 [AccumulatedPastMirror]; następnie zmniejsza Licznik [Vibration] celu o 1 (maks. 5 razy)",
+      "kr_sha256": "438a275545388f0e972647fd6e6406e9b023f3b2951246a64a28b9b729c78e99",
+      "en_sha256": "91bc4ecb4f947f0542a1541907fc9ec3a2ac73a3c771f0dbd8e868a8cfb5a260",
+      "origin": "ai"
+    },
+    "dataList[id=139306].levelList[level=1].desc": {
+      "pl": "przy 10+ [Breath], Moc Umiejętności +2",
+      "kr_sha256": "e4acc7dad3b02a779fd6414fd4008c2f27bcdfc300669e726f2a1e4a4a1c43f2",
+      "en_sha256": "77a2d9e628b4167f3ee6aeaf6cc670fed4242521ebd14cb9f64649c76c1f66ad",
+      "origin": "ai"
+    },
+    "dataList[id=139306].levelList[level=1].name": {
+      "pl": "974569A",
+      "kr_sha256": "dc65486d79badf98b51049b4d863b5871c061217c22b57a28c8eee8a8aff1c13",
+      "en_sha256": "dc65486d79badf98b51049b4d863b5871c061217c22b57a28c8eee8a8aff1c13",
+      "origin": "ai"
+    },
+    "dataList[id=139401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "b59b2da484d428ea24d2d2e56ff0acf6bac249784f7383715079cc5b51bc9f86",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=139401].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=139401].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każdego żywego Raw Chicken\n[WhenUse] nakłada +1 więcej negatywnego efektu za każde 2 żywe Raw Chicken",
+      "kr_sha256": "f378e9346ced564c5cad66d67d8a58ff42992b6c31b11cbced57381dacbb51fd",
+      "en_sha256": "9186019375e5ac8c5a64436da811598525293e182e5c71f058bb0bad847119f5",
+      "origin": "ai"
+    },
+    "dataList[id=139401].levelList[level=1].name": {
+      "pl": "Kgh!",
+      "kr_sha256": "d38553abc847110ca630b971bd63fe2128a09e9227619a0387b1ac5717f0d1d3",
+      "en_sha256": "83d8352b7d69e66f994cb5d2379387b096f404a9422de148ac602e4532c1ef0e",
+      "origin": "ai"
+    },
+    "dataList[id=139402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "b59b2da484d428ea24d2d2e56ff0acf6bac249784f7383715079cc5b51bc9f86",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=139402].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=139402].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=139402].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Paralysis] i +5 Licznika [Vibration]",
+      "kr_sha256": "e2beea4c16e2749b6646700f62032037fd89b0051d63af06f85f3ce2564eca41",
+      "en_sha256": "a972682fe3d5780fc0edf1c2a69b733a0f02adcfa78b8477f1519f8e5c188422",
+      "origin": "ai"
+    },
+    "dataList[id=139402].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=139402].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każdego żywego Raw Chicken\n[WhenUse] nakłada +1 więcej negatywnego efektu za każde 2 żywe Raw Chicken",
+      "kr_sha256": "f378e9346ced564c5cad66d67d8a58ff42992b6c31b11cbced57381dacbb51fd",
+      "en_sha256": "9186019375e5ac8c5a64436da811598525293e182e5c71f058bb0bad847119f5",
+      "origin": "ai"
+    },
+    "dataList[id=139402].levelList[level=1].name": {
+      "pl": "Khk",
+      "kr_sha256": "d15beeb9412da7b36973bbafb69d271af52036ebca874721bc8f3fe790d85124",
+      "en_sha256": "22b198650052673e4ffcd764541b15278a55d63d30a083e72377c894010f1833",
+      "origin": "ai"
+    },
+    "dataList[id=139403].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 [Sinking]",
+      "kr_sha256": "1ad6fabcc1d0b3be3e0b9ce1adea2d3348decdc0e2af816653a7d75acc5533ca",
+      "en_sha256": "3d28d4ac170af7a732f7d0beda971b596310c07bf73fbb4e6a6a656b6ad7a4f4",
+      "origin": "ai"
+    },
+    "dataList[id=139403].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] cel traci 10 SP",
+      "kr_sha256": "0bb31fde828c0c78bf1f0c6949ecd8d72168af8190f0842ec1b00bb800cf3833",
+      "en_sha256": "e4c523e2dc421629e2ea4f159a008e4e0e10c055936fe590a86365ddcd275818",
+      "origin": "ai"
+    },
+    "dataList[id=139403].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najniższym SP\n[OnSucceedAttack] przywołuje Raw Chicken",
+      "kr_sha256": "12d289a922b85dd807d7fb5f5ce7fa0e57b2156bc112cf6788dd8e0f3ded0552",
+      "en_sha256": "3900b8273a1f4ab9212a9721c546cca5cd380591400bf4fd54a0eaf1a6b5399b",
+      "origin": "ai"
+    },
+    "dataList[id=139403].levelList[level=1].name": {
+      "pl": "Keghgh!",
+      "kr_sha256": "f4d538c9f44040e51b21fdc585884e0e0dd1bc9fe4b1703c48b18f080bddaecf",
+      "en_sha256": "17e8b1877ea91f618393640b7d5d17e9919bafca9c5f2c1ce60ddf6d80706345",
+      "origin": "ai"
+    },
+    "dataList[id=139404].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje Tarczę równą (żywe Raw Chicken x 100)",
+      "kr_sha256": "3fd21e6ff506adc3b29c18ed240458997b47684b254108727f75117d472d6a4e",
+      "en_sha256": "ba4a04549b12f8e6f1b5f4d9decb0b6ac6fd74c531fffc5e8fb1950e4f8a708d",
+      "origin": "ai"
+    },
+    "dataList[id=139404].levelList[level=1].name": {
+      "pl": "Keghgh...",
+      "kr_sha256": "1d2a83255666d51ebb84d0e385ac5632fa24fae7e0faeb3019765c8cdb398352",
+      "en_sha256": "e7720334be549ae781da47c75c0975c13d6a629e1cad8e8751d303d5bc30d8c6",
+      "origin": "ai"
+    },
+    "dataList[id=139501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable]",
+      "kr_sha256": "4b560083555c1e279fd4c91a86eb8b8e0a171d06e14732a34e2b6f24792b72a6",
+      "en_sha256": "ccf08ed2364a096752cdecff1598fef033a20111588689cb6edecfc32a5bf71c",
+      "origin": "ai"
+    },
+    "dataList[id=139501].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najniższym HP\n[WhenUse] jeżeli Szybkość jednostki jest niższa niż Szybkość celu, zyskuje Moc Starcia równą Szybkości jednostki[TabExplain] (maks. 3)",
+      "kr_sha256": "45f703474833fc333ff3f64c73e01832acc594d1aba3d3ea47343b2628e0e219",
+      "en_sha256": "562e47af81ac10efaeb4fad10c8a2dc9c6d0f83dca53ed2a570ddbf445df389f",
+      "origin": "ai"
+    },
+    "dataList[id=139501].levelList[level=1].name": {
+      "pl": "Cluckkegh",
+      "kr_sha256": "e31c00fe99f96d4c2d9a62634087b61624070ddab731fec5148e012b5e6bafd4",
+      "en_sha256": "f434ec2639df8aed5b42b88523535a65cd41a84e5788f9b476b156ab54019a9a",
+      "origin": "ai"
+    },
+    "dataList[id=139502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=139502].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=139502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 7 HP",
+      "kr_sha256": "baeeded85c102fa8b411d59d218506d59a9743801da75a3cfeeb4128a4fe5233",
+      "en_sha256": "4cc7d6c862f71c188ebd03d4183f4dabd10e5b180dab1ea756f53fbc7afa03da",
+      "origin": "ai"
+    },
+    "dataList[id=139502].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "b59b2da484d428ea24d2d2e56ff0acf6bac249784f7383715079cc5b51bc9f86",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=139502].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najniższym HP\n[WhenUse] jeżeli Szybkość jednostki jest niższa niż Szybkość celu, zyskuje Moc Starcia równą Szybkości jednostki[TabExplain] (maks. 3)",
+      "kr_sha256": "45f703474833fc333ff3f64c73e01832acc594d1aba3d3ea47343b2628e0e219",
+      "en_sha256": "562e47af81ac10efaeb4fad10c8a2dc9c6d0f83dca53ed2a570ddbf445df389f",
+      "origin": "ai"
+    },
+    "dataList[id=139502].levelList[level=1].name": {
+      "pl": "Bawkbabawk",
+      "kr_sha256": "43fd69c817b0630ea30f4c1b133e11050fc4f2871170141498c804c586ae3535",
+      "en_sha256": "256337b4c751ced4883a26987a2564a47fdfc76f9ec3740620f9ac0403fcc220",
+      "origin": "ai"
+    },
+    "dataList[id=139503].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] cel traci 15 SP",
+      "kr_sha256": "6e557eb0ebe71c11611b25262570a6e827a62bf1700db91c9ed20745ad60b5e0",
+      "en_sha256": "e40e202ac968c77fad366fc0bbc3cac1acc1c9b372529437ea384c3f6f12ad87",
+      "origin": "ai"
+    },
+    "dataList[id=139503].levelList[level=1].name": {
+      "pl": "Khgh",
+      "kr_sha256": "1fbc68729da71737234fe7fb78fdafc837f0a949026dd380a8282249a53bda8c",
+      "en_sha256": "abca9733823cb29384fc15b9aa7f7da903bf880d78e678216c9023d1ba58d688",
+      "origin": "ai"
+    },
+    "dataList[id=139601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Agility] w następnej turze",
+      "kr_sha256": "d2d043760d3231a655cc8cf51bee5d6fdd323f36e3397f51da1c0f5bc0e0a155",
+      "en_sha256": "9b00781f02a39eee90b7c295d28f8ecb0bbea1947ade6e40c354679bb6fab6cf",
+      "origin": "ai"
+    },
+    "dataList[id=139601].levelList[level=1].desc": {
+      "pl": "jeżeli jednostka nie otrzymała obrażeń w poprzedniej turze, Moc Monety +3\n[WhenUse] jeżeli Szybkość jednostki jest wyższa niż Szybkość celu, zyskuje Moc Starcia równą Szybkości jednostki[TabExplain] (maks. 3)",
+      "kr_sha256": "fa4fdd8358cbe68bbf31ff6c7e0321874fe320ec63c08d3c9e1aeac3d63282ad",
+      "en_sha256": "71b0b6cc6c5255ca7754f4936f805dad155a8e4cb681c7ec745ab6706eef06fd",
+      "origin": "ai"
+    },
+    "dataList[id=139601].levelList[level=1].name": {
+      "pl": "Khghgh!",
+      "kr_sha256": "5d4b2f2b5321c4b7ec06f8bd736c87ae8094de33f58f1d2a488753ac88cad5e1",
+      "en_sha256": "70d810e4ac502eb5f63c5c76668b0284c5fb32b7d236c8670456063152685a7f",
+      "origin": "ai"
+    },
+    "dataList[id=139602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=139602].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=139602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 7 HP",
+      "kr_sha256": "baeeded85c102fa8b411d59d218506d59a9743801da75a3cfeeb4128a4fe5233",
+      "en_sha256": "4cc7d6c862f71c188ebd03d4183f4dabd10e5b180dab1ea756f53fbc7afa03da",
+      "origin": "ai"
+    },
+    "dataList[id=139602].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "84854da32f0f4198c19a34b2dfea3cb309aef1e3f6ab52d95e68edf21f95ecb2",
+      "en_sha256": "35e217289b73fb512ac55373cfd44a73d8c7f7f9620fee4a407130c8a8f88bf2",
+      "origin": "ai"
+    },
+    "dataList[id=139602].levelList[level=1].desc": {
+      "pl": "jeżeli jednostka nie otrzymała obrażeń w poprzedniej turze, Moc Monety +3\n[WhenUse] jeżeli Szybkość jednostki jest wyższa niż Szybkość celu, zyskuje Moc Starcia równą Szybkości jednostki[TabExplain] (maks. 3)",
+      "kr_sha256": "fa4fdd8358cbe68bbf31ff6c7e0321874fe320ec63c08d3c9e1aeac3d63282ad",
+      "en_sha256": "71b0b6cc6c5255ca7754f4936f805dad155a8e4cb681c7ec745ab6706eef06fd",
+      "origin": "ai"
+    },
+    "dataList[id=139602].levelList[level=1].name": {
+      "pl": "Kawkbaawk!",
+      "kr_sha256": "e27cfafe54ca1f86239680dd737c2ec3f749e08952bbba0f2cced8d47aed0b26",
+      "en_sha256": "c23319d8ec61f9728c5e74c750c9fc484a670876e02aae12bae582514e2c6a02",
+      "origin": "ai"
+    },
+    "dataList[id=139603].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] cel traci 15 SP",
+      "kr_sha256": "6e557eb0ebe71c11611b25262570a6e827a62bf1700db91c9ed20745ad60b5e0",
+      "en_sha256": "e40e202ac968c77fad366fc0bbc3cac1acc1c9b372529437ea384c3f6f12ad87",
+      "origin": "ai"
+    },
+    "dataList[id=139603].levelList[level=1].name": {
+      "pl": "Krgh!",
+      "kr_sha256": "21e35ea61e3c53b3558d87f07e784ff9790af627195d48326626ee3f0dd6c7e0",
+      "en_sha256": "0e78fdfaba7ada57df46854acf3530a935a4992338873cbe76e992023bceff3c",
+      "origin": "ai"
+    },
+    "dataList[id=139701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis]",
+      "kr_sha256": "0afb9904f6f5f1c1ca9a8be8401da1bfb362f1efd7d67310b8d5519d105afcf5",
+      "en_sha256": "5a855c69c558417dbcda041aede7496bf927b7165a90e62dedaa863e94d29c5d",
+      "origin": "ai"
+    },
+    "dataList[id=139701].levelList[level=1].desc": {
+      "pl": "priorytet: cele z największym HP\n[WhenUse] jeżeli Szybkość jednostki jest niższa niż Szybkość celu, zyskuje Moc Starcia równą Szybkości jednostki[TabExplain] (maks. 3)",
+      "kr_sha256": "397d40afee1dc7dcd322816cc1221b63b7b6a4cb53305ee0657ec6a4ba7da1ed",
+      "en_sha256": "9908ffff4ea58bd42d267a6f50878e65eb68716eaa8dd5fe9321744daaafdfbf",
+      "origin": "ai"
+    },
+    "dataList[id=139701].levelList[level=1].name": {
+      "pl": "Khgh",
+      "kr_sha256": "1fbc68729da71737234fe7fb78fdafc837f0a949026dd380a8282249a53bda8c",
+      "en_sha256": "abca9733823cb29384fc15b9aa7f7da903bf880d78e678216c9023d1ba58d688",
+      "origin": "ai"
+    },
+    "dataList[id=139702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=139702].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=139702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 7 HP",
+      "kr_sha256": "baeeded85c102fa8b411d59d218506d59a9743801da75a3cfeeb4128a4fe5233",
+      "en_sha256": "4cc7d6c862f71c188ebd03d4183f4dabd10e5b180dab1ea756f53fbc7afa03da",
+      "origin": "ai"
+    },
+    "dataList[id=139702].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] i 1 [Paralysis] w następnej turze",
+      "kr_sha256": "8276526e9236cc88ac82893edd6465bc1f4832fa8d8dc5809aef09eeef3a3b82",
+      "en_sha256": "cd9431361816350bede0067a3dfdf4929871c9ae6f9a576cdbbe12223b1b0ca6",
+      "origin": "ai"
+    },
+    "dataList[id=139702].levelList[level=1].desc": {
+      "pl": "priorytet: cele z największym HP\n[WhenUse] jeżeli Szybkość jednostki jest niższa niż Szybkość celu, zyskuje Moc Starcia równą Szybkości jednostki[TabExplain] (maks. 3)",
+      "kr_sha256": "397d40afee1dc7dcd322816cc1221b63b7b6a4cb53305ee0657ec6a4ba7da1ed",
+      "en_sha256": "9908ffff4ea58bd42d267a6f50878e65eb68716eaa8dd5fe9321744daaafdfbf",
+      "origin": "ai"
+    },
+    "dataList[id=139702].levelList[level=1].name": {
+      "pl": "Khgaawahk",
+      "kr_sha256": "adbb1baec0f17db625aa21722061edea8c94df693bd99f4c71b903f9bb27f11a",
+      "en_sha256": "c91f6eea50dcf4b7b5a23af0f43857cd2038d9a370ebb7b1d1958c7e0f2be7f8",
+      "origin": "ai"
+    },
+    "dataList[id=139703].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] cel traci 15 SP",
+      "kr_sha256": "6e557eb0ebe71c11611b25262570a6e827a62bf1700db91c9ed20745ad60b5e0",
+      "en_sha256": "e40e202ac968c77fad366fc0bbc3cac1acc1c9b372529437ea384c3f6f12ad87",
+      "origin": "ai"
+    },
+    "dataList[id=139703].levelList[level=1].name": {
+      "pl": "Khk!",
+      "kr_sha256": "0679e7a354f08a03dbf2e22d61f8c23c10416d5c7b09221c8993edebdc7a934d",
+      "en_sha256": "9e2d85324a46ae179c85f79f79615ebfc1a287570bf32ae2dff596b3a3ad6163",
+      "origin": "ai"
+    },
+    "dataList[id=139801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=139801].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking] i +5 Licznika [Sinking]",
+      "kr_sha256": "2f09b6f3257e73d9462e500f9585e23fcdefd4b771c11b68026fe4ad5ae5a00e",
+      "en_sha256": "db00ae75ceb28e701af6d0181bec036b4ebd148bd92737ca3ad74a535710066c",
+      "origin": "ai"
+    },
+    "dataList[id=139801].levelList[level=1].desc": {
+      "pl": "[WhenUse] cel traci 15 SP",
+      "kr_sha256": "b52e0fa4ffee3c258f8ea427fc7c410c96e8da41b9bac3c3de0855e493b60c74",
+      "en_sha256": "aa9f3570f5f5caddc11ad79fc43b98e6e8bc97ea12599adde84aff74c16b2800",
+      "origin": "ai"
+    },
+    "dataList[id=139801].levelList[level=1].name": {
+      "pl": "Klaps Płaczu",
+      "kr_sha256": "d66e9022063a35a61e699dad38e7b48f0423f20a15782c22e3464d920081fe28",
+      "en_sha256": "7de4bf2bf82166d70ac5b4312818bce89a114ab659a7dd626dee6eafb2d53374",
+      "origin": "ai"
+    },
+    "dataList[id=139802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[AlwaysUse] zadaje obrażenia Poczytalności równe połowie wyświetlanych obrażeń",
+      "kr_sha256": "c1d8a042442f6a9d94953c64201ae559748158479a8b0f4138891784561f2a2c",
+      "en_sha256": "3a13f8bfe3e56c4e02b21f007c47adf6a2e97566ade8baa644501c62d61d5ed8",
+      "origin": "ai"
+    },
+    "dataList[id=139802].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[AlwaysUse] nie zadaje obrażeń HP",
+      "kr_sha256": "975b0db29fc835b5be7ef81685941a9697675c879bd7e06e2868e36c3dbc7bc7",
+      "en_sha256": "bdd83892a693d53e754052b7a3501ae872458b45a09ae47e1d0a9be9b91a53aa",
+      "origin": "ai"
+    },
+    "dataList[id=139802].levelList[level=1].desc": {
+      "pl": "[StartDuel] cel przywraca 10 SP",
+      "kr_sha256": "4ffa830ea8fd9e601081fc74355e28fdba779915eb0740bc66395a96519ab751",
+      "en_sha256": "6e1bbb90c786e4c2326a8bbb74d8daec672325aa1afd6ad9b5c4c5048f85c85c",
+      "origin": "ai"
+    },
+    "dataList[id=139802].levelList[level=1].name": {
+      "pl": "Posępne Klaskanie",
+      "kr_sha256": "6f43340b092c58a876c542a8f915a9c8641693f665ae47fed8b33e721e53c97b",
+      "en_sha256": "4fcd9baf4ca526dbab7669971ea6500e596e0abdf42ef4b1c90a64cae4b9d819",
+      "origin": "ai"
+    },
+    "dataList[id=139803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia HP równe Siły [Sinking] celu",
+      "kr_sha256": "809c1d0b14bbb1f6d9512ba01a7e6a223c48913d4889c453b30d3bab2effc03e",
+      "en_sha256": "663c55e4291e3edd952e78acaf286e82941a923facd771bf9176e17b4237affb",
+      "origin": "ai"
+    },
+    "dataList[id=139803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia Poczytalności równe Siły [Sinking] celu",
+      "kr_sha256": "915c13e149c65fa15c15740e4b40a0b624aa5c68dada28c1f964fb69872aaef2",
+      "en_sha256": "ba4348a908de46ff4a084d0614f2eec20ac91b184079e95ee7b11bcb0aa4519c",
+      "origin": "ai"
+    },
+    "dataList[id=139803].levelList[level=1].desc": {
+      "pl": "[WhenUse] cel traci 10 SP\njeżeli SP celu poniżej 0, zadaje +50% obrażeń",
+      "kr_sha256": "82a34d0e07c71fffed30312d8d45187e592c72ef6c161ede3f4e4e53bd1e5ce1",
+      "en_sha256": "fc8128a56690dca140a8f56d7ea8ae957908b8047a32454af88877075aa1d5b4",
+      "origin": "ai"
+    },
+    "dataList[id=139803].levelList[level=1].name": {
+      "pl": "Rozpływająca się Gałka Oczowa",
+      "kr_sha256": "484f4b89259ab231cfa893b9fc60809869735933d554ea7d64da0fbf6d17b3a9",
+      "en_sha256": "181505fdc3c4818d8399d87fb73a0a3dbb29d9376359ba8c8c48428c49cfc83c",
+      "origin": "ai"
+    },
+    "dataList[id=139804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "9823e26e0003162cb88fde76c2e472e58cece675f0736b560cb1c64a8e7f5d80",
+      "en_sha256": "a568365989517493ef9d5b3c630871eb37354d055f327a7d69f3111c62a73fd1",
+      "origin": "ai"
+    },
+    "dataList[id=139804].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia HP równe Siły [Sinking] celu",
+      "kr_sha256": "809c1d0b14bbb1f6d9512ba01a7e6a223c48913d4889c453b30d3bab2effc03e",
+      "en_sha256": "663c55e4291e3edd952e78acaf286e82941a923facd771bf9176e17b4237affb",
+      "origin": "ai"
+    },
+    "dataList[id=139804].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia Poczytalności równe Siły [Sinking] celu",
+      "kr_sha256": "915c13e149c65fa15c15740e4b40a0b624aa5c68dada28c1f964fb69872aaef2",
+      "en_sha256": "ba4348a908de46ff4a084d0614f2eec20ac91b184079e95ee7b11bcb0aa4519c",
+      "origin": "ai"
+    },
+    "dataList[id=139804].levelList[level=1].desc": {
+      "pl": "[WhenUse] cel traci 5 SP\npriorytet: cele z największą liczbą [Sinking]\njeżeli SP celu poniżej 0, zadaje +30% obrażeń",
+      "kr_sha256": "53b9990289756d0e3d80fb10c962cdfa64d5b3ac0720c025828956a54cfda93e",
+      "en_sha256": "086a4c5cdc7298d87377b5a0597c7b2bcf93b869bd21bfdabc410b272c137b41",
+      "origin": "ai"
+    },
+    "dataList[id=139804].levelList[level=1].name": {
+      "pl": "Nawał Posępności",
+      "kr_sha256": "76bd82c58ab23277bc45ec321f9597360e361176f5cb21b86a167aacbd5b796f",
+      "en_sha256": "a8890096ad704c3848bcd0d5dd387a5509a5ad515468bb4a5100c466546c5e87",
+      "origin": "ai"
+    },
+    "dataList[id=139805].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] podwaja [Sinking] i Licznik [Sinking] celu",
+      "kr_sha256": "69bc4702f2a8288dabf8e312a6596c3d2a8abd5092d426496ec999ce75d11665",
+      "en_sha256": "e934d3e775c43b57eb2ad6737e4fa99433f414a98a418a1e3dda7c2f1b09f805",
+      "origin": "ai"
+    },
+    "dataList[id=139805].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] przerywa wszystkie Umiejętności\n[DefeatDuel] zyskuje 3 [Vulnerable]\njeżeli SP celu poniżej 0, zadaje +100% obrażeń",
+      "kr_sha256": "cb4f5da5b20ececc22ae6a37d49f6c9ee076c5e302442da94dcfaa47aa18f173",
+      "en_sha256": "82aa1a293b02cc91e1c471b967aa30a5292d752952ea0ff865772e846b2c51d4",
+      "origin": "ai"
+    },
+    "dataList[id=139805].levelList[level=1].name": {
+      "pl": "Ciężarek Gałki Oczowej",
+      "kr_sha256": "3bd07f7c9c1bc9198bdd5dbd611827e9906cf1b25c52d5a21efb8f1a9e203c73",
+      "en_sha256": "af25df2331376ad761cf84b69302db362124bf6fdacbab26156a30725827dc2a",
+      "origin": "ai"
+    },
+    "dataList[id=139806].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 2 [Protection]",
+      "kr_sha256": "1269886189e3176ad6d7434dfa1519e5a04a6fa01275eaaf923b0e2422b06504",
+      "en_sha256": "281e6634f88ff9575164aa454d23f6e708a2ae6d8e5f1e9c0f9e9bf91ae59a71",
+      "origin": "ai"
+    },
+    "dataList[id=139806].levelList[level=1].name": {
+      "pl": "Croohoo",
+      "kr_sha256": "b111fd0048f7382bcec766a418dc24bc94b75aea5691095ca54d597d6a7479f7",
+      "en_sha256": "aca21889388d2dc6e7894ade08f6b7f4de282c5a9780eadf663dd967007b0ebe",
+      "origin": "ai"
+    },
+    "dataList[id=139901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 [Reduction]",
+      "kr_sha256": "be6ac1b2292c23adfcf07d5e753a32f50e7b0bdfb85f63f6a65ad953f19cc639",
+      "en_sha256": "ecc775a91c128283fc14508a1aaceb25b47171176c04648beeaab402d0db890d",
+      "origin": "ai"
+    },
+    "dataList[id=139901].levelList[level=1].name": {
+      "pl": "Klaskanie",
+      "kr_sha256": "07a913f927488c7c13cc3849cd9646150707daa48db877b5f51e07416ebcb90b",
+      "en_sha256": "146b0417ca146dfea55b9bc9eb4bf9f00d42f73e439d79c19c93a40d94cfccf2",
+      "origin": "ai"
+    },
+    "dataList[id=139902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Reduction] w następnej turze",
+      "kr_sha256": "3782d3ea1cd39660c8c27d3f5def8f394babeb38c6ba354048e91187e8d003fb",
+      "en_sha256": "485df7f849d31caa691b56d50c66d4431780caa12d09a240734d3dcd42f2b716",
+      "origin": "ai"
+    },
+    "dataList[id=139902].levelList[level=1].name": {
+      "pl": "Mocne Klaskanie",
+      "kr_sha256": "290c0c92f77fcbde20c11cc7dfe6f634bce2d12154c3604fe758e5c001b80215",
+      "en_sha256": "3068823f3eb1b2bde4c8631bb26fe3bfbe25fc55938f92a1c540b1b571517075",
+      "origin": "ai"
+    },
+    "dataList[id=139903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "1258a58dc8c295e7fc06534a58c882d686cf8889bc4872a72c52f6f7cf25606f",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=139903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vulnerable] w następnej turze",
+      "kr_sha256": "b1a8da0518c0a8f08eff66daecc9030bd15879063795d62af6be981b07cbb461",
+      "en_sha256": "642e4cbe2bb13b72ff291e84869b546a346b5bf12e630214d34336b785e7ae59",
+      "origin": "ai"
+    },
+    "dataList[id=139903].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] przerywa wszystkie Umiejętności\n[DefeatDuel] zyskuje 3 [Vulnerable]\njeżeli SP celu poniżej 0, zadaje +100% obrażeń",
+      "kr_sha256": "cb4f5da5b20ececc22ae6a37d49f6c9ee076c5e302442da94dcfaa47aa18f173",
+      "en_sha256": "82aa1a293b02cc91e1c471b967aa30a5292d752952ea0ff865772e846b2c51d4",
+      "origin": "ai"
+    },
+    "dataList[id=139903].levelList[level=1].name": {
+      "pl": "Bicz Ogonem",
+      "kr_sha256": "cb42108e99ee13e68fd6ede1a82c57ed915775da213e6dd5279c16504a0627ac",
+      "en_sha256": "1bd4075ef5eda51b41eec0ef1d800a54a8e866fcd42ca89400d61800fda8fcb0",
+      "origin": "ai"
+    },
+    "dataList[id=139904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "c3921d543b05347df8976bb130a4f834f8f63aceb86f6508cdf03806dca571c1",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=139904].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] przerywa wszystkie Umiejętności\n[DefeatDuel] zyskuje 3 [Vulnerable]\njeżeli SP celu poniżej 0, zadaje +100% obrażeń",
+      "kr_sha256": "cb4f5da5b20ececc22ae6a37d49f6c9ee076c5e302442da94dcfaa47aa18f173",
+      "en_sha256": "82aa1a293b02cc91e1c471b967aa30a5292d752952ea0ff865772e846b2c51d4",
+      "origin": "ai"
+    },
+    "dataList[id=139904].levelList[level=1].name": {
+      "pl": "Ucisk Worka",
+      "kr_sha256": "85e264ad9473c8110b341033760fbba18513be160812d7857cb836f0002889c1",
+      "en_sha256": "870b356e3aa65da7d3f6f6892ff59c096285d272c053d090f2eb68392369e776",
+      "origin": "ai"
+    },
+    "dataList[id=139905].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=139905].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +50% obrażeń",
+      "kr_sha256": "cd805417cc52426d26cb25b17cbd74d926b16ae2912fef343533ab8ec0686219",
+      "en_sha256": "228b33cf39b9a000a0ca7279a39f2063630e2990580277e61bcf9e11290660d4",
+      "origin": "ai"
+    },
+    "dataList[id=139905].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 20 [Laceration]",
+      "kr_sha256": "fe942bdfa3b7eb4463e8ece12689191e9a5f61fefeb554d1409c22697b4609f3",
+      "en_sha256": "90fa805059696f979f31cf3e01f12f3450bdf7fc1b103b45f3c90fbb10b75e37",
+      "origin": "ai"
+    },
+    "dataList[id=139905].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 50% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "0d4ce42fdbbc8a5bb0316ceb1ade7e435aa3de1dc179c1536a8167f2b5387c51",
+      "en_sha256": "e147d39a16386ecce5f870e2d5eba511a14ed6e52f57549c15f0fb29449c772a",
+      "origin": "ai"
+    },
+    "dataList[id=139905].levelList[level=1].name": {
+      "pl": "Działo Krwi",
+      "kr_sha256": "8b6cfceb04aaa8b526a20b60d69f4012102562bc220656662b3e80bf05967b2f",
+      "en_sha256": "0d1b6e03484f0cc2ef58bc2c72473a9180842108aca0be57ffa1cb9a2b25502c",
+      "origin": "ai"
+    },
+    "dataList[id=139906].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=139906].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +100% obrażeń",
+      "kr_sha256": "43e5e948435c09a85d0f84b11baeb3ea236e8005dd7cdfe9c3ff2e0920655446",
+      "en_sha256": "e7f5f9aa34cab9156b830b929426903a07d0b32af76388c77681e4daaa472e8f",
+      "origin": "ai"
+    },
+    "dataList[id=139906].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 30 [Laceration]",
+      "kr_sha256": "c3d82cf057bb7693d95c4cbdfe9e183c32247cb2ddce77d9e914b6b98580cc40",
+      "en_sha256": "c2723d567238828e8915f2d25e725c1df04f4390838383d5762cb23d6c69bba9",
+      "origin": "ai"
+    },
+    "dataList[id=139906].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 50% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "0d4ce42fdbbc8a5bb0316ceb1ade7e435aa3de1dc179c1536a8167f2b5387c51",
+      "en_sha256": "e147d39a16386ecce5f870e2d5eba511a14ed6e52f57549c15f0fb29449c772a",
+      "origin": "ai"
+    },
+    "dataList[id=139906].levelList[level=1].name": {
+      "pl": "Zbieranie Krwi",
+      "kr_sha256": "17478493e7dd0d8dd139305f92177a7436c850dcd7c8338bbc0ab3bf60cfea30",
+      "en_sha256": "b094d361e077b036f637e6fef76395080f3f0948cb1b4a2619590169aec6167b",
+      "origin": "ai"
+    },
+    "dataList[id=140001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Laceration] w następnej turze",
+      "kr_sha256": "67d855a2958e3dcf108391310ad09d396a4333fcc4afe008c82bbebf0631e074",
+      "en_sha256": "3861a16d1921c76c9b11c12b1c3cffde762225bddbdcfba4835b0aa27ff2af69",
+      "origin": "ai"
+    },
+    "dataList[id=140001].levelList[level=1].desc": {
+      "pl": "Moc Monety +2 za każdy [DogThunder] jednostki (maks. 6)\n[WhenUse] zadaje +20% obrażeń za każde 5 (suma [Laceration] i [Burst] celu) (maks. 80%)",
+      "kr_sha256": "ae2030b129737e0f6382f88017ccb64f6130989909a8a3d92baf36be9744456a",
+      "en_sha256": "fa89ca7d9015c3989c36adf5e6a00241031fdc9a02edc0a927065b76e0bae024",
+      "origin": "ai"
+    },
+    "dataList[id=140001].levelList[level=1].name": {
+      "pl": "Clawing",
+      "kr_sha256": "fe4c2368deea2d3541b55d393ed4a3c2102ea5b2f15f1c6a54995d3b3ee34dc8",
+      "en_sha256": "587cfbbbcd42a71ba7f33f8051d5c354707fa1ff227cab11452c3ba2147a8682",
+      "origin": "ai"
+    },
+    "dataList[id=140002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Burst] w następnej turze",
+      "kr_sha256": "8e619e07a5fba7a673aff46285ab6aee13e0b6ec34858c26c8eb4d122df14fae",
+      "en_sha256": "aee48ea87b5efd03f48c2a14e45cafe5a49fd33c53401ee308f930de7751640f",
+      "origin": "ai"
+    },
+    "dataList[id=140002].levelList[level=1].desc": {
+      "pl": "Moc Monety +2 za każdy [DogThunder] jednostki (maks. 6)\n[WhenUse] zadaje +20% obrażeń za każde 5 (suma [Laceration] i [Burst] celu) (maks. 80%)",
+      "kr_sha256": "ae2030b129737e0f6382f88017ccb64f6130989909a8a3d92baf36be9744456a",
+      "en_sha256": "fa89ca7d9015c3989c36adf5e6a00241031fdc9a02edc0a927065b76e0bae024",
+      "origin": "ai"
+    },
+    "dataList[id=140002].levelList[level=1].name": {
+      "pl": "Stałe Napięcie",
+      "kr_sha256": "d641643d622be8ef26780262a08a88746729ec1e365a4f50e4b394d2e8da5122",
+      "en_sha256": "e9bcbc8f68a717299820d535975d79ad4b2d81cd50b1213d45a95c288bc68da9",
+      "origin": "ai"
+    },
+    "dataList[id=140003].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Burst] w następnej turze",
+      "kr_sha256": "8e619e07a5fba7a673aff46285ab6aee13e0b6ec34858c26c8eb4d122df14fae",
+      "en_sha256": "aee48ea87b5efd03f48c2a14e45cafe5a49fd33c53401ee308f930de7751640f",
+      "origin": "ai"
+    },
+    "dataList[id=140003].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Burst] o 4 w następnej turze",
+      "kr_sha256": "595d4f87503473b9dcfd49ad0f3bbe7bd44214d4483b815aed5fc9e3ee9a3a63",
+      "en_sha256": "29bf5cf50b6b9a51582730b5e21324cf0260ed68bdb1f6d2b57fbf78c98a5562",
+      "origin": "ai"
+    },
+    "dataList[id=140003].levelList[level=1].desc": {
+      "pl": "Moc Monety +1 za każdy [DogThunder] jednostki (maks. 3)\n[WhenUse] zadaje +15% obrażeń za każde 5 (suma [Laceration] i [Burst] celu) (maks. 60%)",
+      "kr_sha256": "80d424c6211133ec6a306f052e9903ecc2086b243c8392c733277e159ef7b9af",
+      "en_sha256": "54d48ed59cc96bbb443231e4895c972f2823f8041bbfd34416ec2e25704a786f",
+      "origin": "ai"
+    },
+    "dataList[id=140003].levelList[level=1].name": {
+      "pl": "Elektromotoryczny Pościg",
+      "kr_sha256": "e6e3c1eec2b55ad04cd195441b52959a0747a880a319d7145b57862a78f855eb",
+      "en_sha256": "078590f9026b057bb7adbba0c74d9ab9f7906e315f822c0fc4420da759174bf7",
+      "origin": "ai"
+    },
+    "dataList[id=140004].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140004].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Paralysis]",
+      "kr_sha256": "9eb0956591a8ef36fe77a6ac7d24309272d5a816e79eafd4efd06ac43379916f",
+      "en_sha256": "780c26bb1a11d9ce52efd976e5b86e4eef714ea607f935012260e93c78a23711",
+      "origin": "ai"
+    },
+    "dataList[id=140004].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=140004].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Disarming]",
+      "kr_sha256": "3fc7c4c41459894f77c95f24de5871e3c40c0030c0284d0db1a95944ad57b08b",
+      "en_sha256": "ec77ade2eb4bf196d1c06b1945b5ce8abefb4424cfa68b26299d3559d7ae9634",
+      "origin": "ai"
+    },
+    "dataList[id=140004].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "d03bdb97c965344f6cf7e8eac453f1f22d1687c279c4657e5d84569dd62fd066",
+      "en_sha256": "a0eb4f4d8439c96f11855aa0d7b7c493331a38ecf7efad46941495230ca0365e",
+      "origin": "ai"
+    },
+    "dataList[id=140004].levelList[level=1].name": {
+      "pl": "Wyj",
+      "kr_sha256": "ecf4534eb96abb690be8346af913ca00046bd328804e326e11b08101258537b8",
+      "en_sha256": "7d61692bb448a6de4af39c8222f21dff0942cba53694b15c795b93fa25172321",
+      "origin": "ai"
+    },
+    "dataList[id=140005].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140005].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Paralysis]",
+      "kr_sha256": "9eb0956591a8ef36fe77a6ac7d24309272d5a816e79eafd4efd06ac43379916f",
+      "en_sha256": "780c26bb1a11d9ce52efd976e5b86e4eef714ea607f935012260e93c78a23711",
+      "origin": "ai"
+    },
+    "dataList[id=140005].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Burst] w następnej turze",
+      "kr_sha256": "794f98851572b5260633366c447f1877f9ff15fc9e18289573fb1bcb980de41a",
+      "en_sha256": "a7314393bf3686e819307a0f782c6f9dfaa75b7f8b49a707ea52b3711b1a18f7",
+      "origin": "ai"
+    },
+    "dataList[id=140005].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "d03bdb97c965344f6cf7e8eac453f1f22d1687c279c4657e5d84569dd62fd066",
+      "en_sha256": "a0eb4f4d8439c96f11855aa0d7b7c493331a38ecf7efad46941495230ca0365e",
+      "origin": "ai"
+    },
+    "dataList[id=140005].levelList[level=1].name": {
+      "pl": "Zelektryfikowany Wyj",
+      "kr_sha256": "1b51c094be60becba14d598108a92ee7880514ab7f09c3741a11f8e616973ec9",
+      "en_sha256": "dad6de9ec558dde5a3bfe130cfc3bd222467248354d77885e7ab7d3ea8711704",
+      "origin": "ai"
+    },
+    "dataList[id=140006].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Burst] i +2 Licznika [Burst] w następnej turze",
+      "kr_sha256": "ed1f2375e9b223ddf4fdb3e3d3ae4609e44c48fa833149c3c3a447c7d6318a47",
+      "en_sha256": "bef34c94f6f05668a78730b78dd695e6885b56424ca18f849b247188b97a31dc",
+      "origin": "ai"
+    },
+    "dataList[id=140006].levelList[level=1].desc": {
+      "pl": "Moc Monety +1 za każdy [DogThunder] jednostki (maks. 3)\n[WhenUse] zadaje +20% obrażeń za każde 5 (suma [Laceration] i [Burst] celu) (maks. 80%)",
+      "kr_sha256": "3ef5c6bc9f9d309c45830b32a60804ca9ffdffe4747afc663a1b02ce74f43980",
+      "en_sha256": "f2c414e40947f8c19b2c4e336c44271ddce38dd62ae19d31cc1b5f64c4ea66de",
+      "origin": "ai"
+    },
+    "dataList[id=140006].levelList[level=1].name": {
+      "pl": "Piorunochron",
+      "kr_sha256": "27d465063232a608d3acae920052946de5c4128135cd956476c204e7c0e86dc1",
+      "en_sha256": "5d907e09f9c22fec429d7e0e83ddf443cd4f6d0204328c3d7203456032a48dab",
+      "origin": "ai"
+    },
+    "dataList[id=140007].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Burst] w następnej turze",
+      "kr_sha256": "794f98851572b5260633366c447f1877f9ff15fc9e18289573fb1bcb980de41a",
+      "en_sha256": "a7314393bf3686e819307a0f782c6f9dfaa75b7f8b49a707ea52b3711b1a18f7",
+      "origin": "ai"
+    },
+    "dataList[id=140007].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Burst] o 2 w następnej turze",
+      "kr_sha256": "51e23686dfc865a53f4e0ae15c13db39585b6b184ea9530ca3696e40dbff69e2",
+      "en_sha256": "1294120c3e51f4ae4b27b92ee1c0ec5aa23daab31cbe51d9f4c4c47d02ec08b2",
+      "origin": "ai"
+    },
+    "dataList[id=140007].levelList[level=1].desc": {
+      "pl": "[WhenUse] zadaje +15% obrażeń za każde 5 (suma [Laceration] i [Burst]) celu (maks. 60%)",
+      "kr_sha256": "860754dfc8bcb9368e735f81e29eac9d19819f4ef375b9f6767beef4e0c3f96a",
+      "en_sha256": "361cb2c2d3523606a2fee419da0152db257601eb97f301e6f3cff2ff15cc3a19",
+      "origin": "ai"
+    },
+    "dataList[id=140007].levelList[level=1].name": {
+      "pl": "Czerwone Pociski",
+      "kr_sha256": "8bc9b7a77c2f2bc9ccb8cb74b0d235b3798b79664959b9df9573ee962066e7f8",
+      "en_sha256": "db3d6c8d4580a48c4b6d3aa596399c183a478a401d41fac32c1e0529fa5111e3",
+      "origin": "ai"
+    },
+    "dataList[id=140008].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140008].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=140008].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Disarming]",
+      "kr_sha256": "3fc7c4c41459894f77c95f24de5871e3c40c0030c0284d0db1a95944ad57b08b",
+      "en_sha256": "ec77ade2eb4bf196d1c06b1945b5ce8abefb4424cfa68b26299d3559d7ae9634",
+      "origin": "ai"
+    },
+    "dataList[id=140008].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "d03bdb97c965344f6cf7e8eac453f1f22d1687c279c4657e5d84569dd62fd066",
+      "en_sha256": "a0eb4f4d8439c96f11855aa0d7b7c493331a38ecf7efad46941495230ca0365e",
+      "origin": "ai"
+    },
+    "dataList[id=140008].levelList[level=1].name": {
+      "pl": "Wyj",
+      "kr_sha256": "ecf4534eb96abb690be8346af913ca00046bd328804e326e11b08101258537b8",
+      "en_sha256": "7d61692bb448a6de4af39c8222f21dff0942cba53694b15c795b93fa25172321",
+      "origin": "ai"
+    },
+    "dataList[id=140101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi 7 obrażeń Poczytalności",
+      "kr_sha256": "3dc67836cb832da87c91dfb1933e5979f60f49660c5d771768c1bd98d1dd2521",
+      "en_sha256": "9d66863a39b74a688c1ad704ec378a41782cd9fe78e3d0b2202aecf2e4ae9d39",
+      "origin": "ai"
+    },
+    "dataList[id=140101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi 7 obrażeń Poczytalności",
+      "kr_sha256": "3dc67836cb832da87c91dfb1933e5979f60f49660c5d771768c1bd98d1dd2521",
+      "en_sha256": "9d66863a39b74a688c1ad704ec378a41782cd9fe78e3d0b2202aecf2e4ae9d39",
+      "origin": "ai"
+    },
+    "dataList[id=140101].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli SP celu poniżej 0, Moc Bazowa +2\n[WhenUse] zyskuje 1 [Aggressive]",
+      "kr_sha256": "3417e1b9cbf0c1e2adf15cb4f13d4a9c03142546550feb834b68071c6dda7361",
+      "en_sha256": "600b9664ace017191b78767a6a182ce9db231322d60e57b9b7a74f7e73a71299",
+      "origin": "ai"
+    },
+    "dataList[id=140101].levelList[level=1].name": {
+      "pl": "Dziwne Oczy",
+      "kr_sha256": "3b8bf6978163633c98b82526efa637d9f71ec4c93e152f310abc9c2b0d24f164",
+      "en_sha256": "e38d017fe58d2722400678f26cca784a8d9fc931c45ccda2c6a5fba0e1d49a1c",
+      "origin": "ai"
+    },
+    "dataList[id=140102].levelList[level=1].desc": {
+      "pl": "kopiuje Umiejętność, która ją trafiła\n[WhenUse] zadaje 10 obrażeń Poczytalności\n[WhenUse] zyskuje 2 [Aggressive]",
+      "kr_sha256": "f0d01e73795807862f02ed4f396523ff11185f7968aa47d7a7f80448cbf8fb2f",
+      "en_sha256": "dee49313425b1c1895ef53b065463012aafcc37f0fcd1e5142b120ebd94d502e",
+      "origin": "ai"
+    },
+    "dataList[id=140102].levelList[level=1].name": {
+      "pl": "Niedoskonała Imitacja",
+      "kr_sha256": "116ab120b80eef5bb7d8f2be05c9b24fcedc1b4f1267b88d00e2fd219ce6e961",
+      "en_sha256": "711c2a567df32206a702660854148d6ecbdbe2f3226a13054cfacea85c4074f7",
+      "origin": "ai"
+    },
+    "dataList[id=140103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140103].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi 7 obrażeń Poczytalności",
+      "kr_sha256": "3dc67836cb832da87c91dfb1933e5979f60f49660c5d771768c1bd98d1dd2521",
+      "en_sha256": "9d66863a39b74a688c1ad704ec378a41782cd9fe78e3d0b2202aecf2e4ae9d39",
+      "origin": "ai"
+    },
+    "dataList[id=140103].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] przywraca 10% HP",
+      "kr_sha256": "7f3530d29befb4dda1ad2d36f68d441779e582ce162e258a3e5e5d0626fedf08",
+      "en_sha256": "5b7c11b333a1e7818ab4de557291e2cef9169e076a423030ef8db605f09ad4c3",
+      "origin": "ai"
+    },
+    "dataList[id=140103].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli SP celu poniżej 0, Moc Bazowa +2\n[WhenUse] zyskuje 5 [Aggressive]\n[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "74470dbd8a0c41cfd70ccd973d3575b74dda019425049228835d048e3dfffb8e",
+      "en_sha256": "9b84157a5242cf2c595743fb3f2d1b26f2de28bc87427590bddc1773d33e4034",
+      "origin": "ai"
+    },
+    "dataList[id=140103].levelList[level=1].name": {
+      "pl": "Poprawa Skorupy",
+      "kr_sha256": "1166555862a4abafb757cff29a74616c0fd97a9f855f72e7dbf6868ca6cc489d",
+      "en_sha256": "54e229a44904b880ade230f27c9481bdbc9f7df0c73c633be5565bb18ae41a51",
+      "origin": "ai"
+    },
+    "dataList[id=140104].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=140104].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Laceration]",
+      "kr_sha256": "46a8c444d54672a1f61932531bfb3dc87615da1a112bc8cd2ce0809808f35323",
+      "en_sha256": "1fa6143b5d0a7c4c1fb52424898bcff915d16288421d34affa719cbc2aa0f7e6",
+      "origin": "ai"
+    },
+    "dataList[id=140104].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli SP celu poniżej 0, Moc Bazowa +2\n[WhenUse] zyskuje 1 [Aggressive]",
+      "kr_sha256": "3417e1b9cbf0c1e2adf15cb4f13d4a9c03142546550feb834b68071c6dda7361",
+      "en_sha256": "600b9664ace017191b78767a6a182ce9db231322d60e57b9b7a74f7e73a71299",
+      "origin": "ai"
+    },
+    "dataList[id=140104].levelList[level=1].name": {
+      "pl": "Wybuch Kości",
+      "kr_sha256": "7df7032d4d25a899ef054172a21b0853f2e5fa486cfc04c2c87339742d11d104",
+      "en_sha256": "263627374fcb1f79f048685fd2dadef6d171fdb19a1751ee730a2bc7a94bec47",
+      "origin": "ai"
+    },
+    "dataList[id=140201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 obrażeń SP",
+      "kr_sha256": "eb5f7d9d2592865d68a2600786076f6076204973cc3e2ce1392083cc2cfb2221",
+      "en_sha256": "6a892a7f8e997b2acec405eed0b7f452028f8fc4826dbbe79afdc9a3ba538733",
+      "origin": "ai"
+    },
+    "dataList[id=140201].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 obrażeń SP",
+      "kr_sha256": "eb5f7d9d2592865d68a2600786076f6076204973cc3e2ce1392083cc2cfb2221",
+      "en_sha256": "6a892a7f8e997b2acec405eed0b7f452028f8fc4826dbbe79afdc9a3ba538733",
+      "origin": "ai"
+    },
+    "dataList[id=140201].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli SP celu poniżej 0, Moc Bazowa +2\n[WhenUse] zyskuje 1 [Aggressive]",
+      "kr_sha256": "3417e1b9cbf0c1e2adf15cb4f13d4a9c03142546550feb834b68071c6dda7361",
+      "en_sha256": "600b9664ace017191b78767a6a182ce9db231322d60e57b9b7a74f7e73a71299",
+      "origin": "ai"
+    },
+    "dataList[id=140201].levelList[level=1].name": {
+      "pl": "Dziwne Oczy",
+      "kr_sha256": "3b8bf6978163633c98b82526efa637d9f71ec4c93e152f310abc9c2b0d24f164",
+      "en_sha256": "e38d017fe58d2722400678f26cca784a8d9fc931c45ccda2c6a5fba0e1d49a1c",
+      "origin": "ai"
+    },
+    "dataList[id=140202].levelList[level=1].desc": {
+      "pl": "kopiuje Umiejętność, która ją trafiła\n[WhenUse] zadaje 10 obrażeń Poczytalności\n[WhenUse] zyskuje 2 [Aggressive]",
+      "kr_sha256": "f0d01e73795807862f02ed4f396523ff11185f7968aa47d7a7f80448cbf8fb2f",
+      "en_sha256": "dee49313425b1c1895ef53b065463012aafcc37f0fcd1e5142b120ebd94d502e",
+      "origin": "ai"
+    },
+    "dataList[id=140202].levelList[level=1].name": {
+      "pl": "Niedoskonała Imitacja",
+      "kr_sha256": "116ab120b80eef5bb7d8f2be05c9b24fcedc1b4f1267b88d00e2fd219ce6e961",
+      "en_sha256": "711c2a567df32206a702660854148d6ecbdbe2f3226a13054cfacea85c4074f7",
+      "origin": "ai"
+    },
+    "dataList[id=140203].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140203].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 obrażeń SP",
+      "kr_sha256": "eb5f7d9d2592865d68a2600786076f6076204973cc3e2ce1392083cc2cfb2221",
+      "en_sha256": "6a892a7f8e997b2acec405eed0b7f452028f8fc4826dbbe79afdc9a3ba538733",
+      "origin": "ai"
+    },
+    "dataList[id=140203].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] przywraca 10% HP",
+      "kr_sha256": "7f3530d29befb4dda1ad2d36f68d441779e582ce162e258a3e5e5d0626fedf08",
+      "en_sha256": "5b7c11b333a1e7818ab4de557291e2cef9169e076a423030ef8db605f09ad4c3",
+      "origin": "ai"
+    },
+    "dataList[id=140203].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli SP celu poniżej 0, Moc Bazowa +2\n[WhenUse] zyskuje 5 [Aggressive]\n[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "74470dbd8a0c41cfd70ccd973d3575b74dda019425049228835d048e3dfffb8e",
+      "en_sha256": "9b84157a5242cf2c595743fb3f2d1b26f2de28bc87427590bddc1773d33e4034",
+      "origin": "ai"
+    },
+    "dataList[id=140203].levelList[level=1].name": {
+      "pl": "Poprawa Skorupy",
+      "kr_sha256": "1166555862a4abafb757cff29a74616c0fd97a9f855f72e7dbf6868ca6cc489d",
+      "en_sha256": "54e229a44904b880ade230f27c9481bdbc9f7df0c73c633be5565bb18ae41a51",
+      "origin": "ai"
+    },
+    "dataList[id=140204].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=140204].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Laceration]",
+      "kr_sha256": "46a8c444d54672a1f61932531bfb3dc87615da1a112bc8cd2ce0809808f35323",
+      "en_sha256": "1fa6143b5d0a7c4c1fb52424898bcff915d16288421d34affa719cbc2aa0f7e6",
+      "origin": "ai"
+    },
+    "dataList[id=140204].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli SP celu poniżej 0, Moc Bazowa +2\n[WhenUse] zyskuje 1 [Aggressive]",
+      "kr_sha256": "3417e1b9cbf0c1e2adf15cb4f13d4a9c03142546550feb834b68071c6dda7361",
+      "en_sha256": "600b9664ace017191b78767a6a182ce9db231322d60e57b9b7a74f7e73a71299",
+      "origin": "ai"
+    },
+    "dataList[id=140204].levelList[level=1].name": {
+      "pl": "Wybuch Kości",
+      "kr_sha256": "7df7032d4d25a899ef054172a21b0853f2e5fa486cfc04c2c87339742d11d104",
+      "en_sha256": "263627374fcb1f79f048685fd2dadef6d171fdb19a1751ee730a2bc7a94bec47",
+      "origin": "ai"
+    },
+    "dataList[id=140301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=140301].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=140301].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=140301].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 3+ [Laceration], Moc Monety +1",
+      "kr_sha256": "61b77d1ba11acbf21ef9710041cf218e1e7285b6a647db3925476679ae32d485",
+      "en_sha256": "560bd1cf93cfd37a366c9ca633c3ec798262da2fd402d3e3dcaf562cc267e0ab",
+      "origin": "ai"
+    },
+    "dataList[id=140301].levelList[level=1].name": {
+      "pl": "Gwałtowne Drapanie",
+      "kr_sha256": "b5be7a05e1dbcf746b7152aeef9488ae7982f2a9fa8cefb8dde517c135ce3873",
+      "en_sha256": "de873c31fd32920c7a2c46388b55e2da29455fb37f7d7fb8e1083b89e2a203e6",
+      "origin": "ai"
+    },
+    "dataList[id=140302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=140302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=140302].levelList[level=1].desc": {
+      "pl": "celuje w jednostkę z najniższym HP\n[WhenUse] jeżeli cel ma 3+ [Laceration], Moc Monety +1",
+      "kr_sha256": "aeed37a6343772cd8a003cc6acc141d758a247d96209796e1518882c936d7e7f",
+      "en_sha256": "9f344be6214bac6f58cee501cbe6428f3aa8ea01dbbcca8b24e04aafc5fa91cf",
+      "origin": "ai"
+    },
+    "dataList[id=140302].levelList[level=1].name": {
+      "pl": "Wściekły Taran",
+      "kr_sha256": "ee5714bea6fdcd4b32b6bdd0ff589ca582bb7ebc3678b9522786df7be4abaeb5",
+      "en_sha256": "a3e6a5167232405e3f0640baa2ae530edb70726a8aa21e0216f5543edc3eada6",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Vulnerable] w następnej turze",
+      "kr_sha256": "34fb560bf76cfffb3c0d5f97b47709a9871693d94ac26cb2e72c46f278b73d63",
+      "en_sha256": "37c724828d6cf2c9be033e0ea6c59031402df0114d4d1fb861fbdc90d3fc343b",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable] w następnej turze",
+      "kr_sha256": "1c244844170b2a039abc19a8de5522921b277b9c22b48f9a66ef5311412c0497",
+      "en_sha256": "42a5ae8462a38a4e717bd0a6f733dca5323d3860d9e5e8da48be22a3d6cde8d7",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].desc": {
+      "pl": "celuje w jednostkę z najniższym HP\n[WhenUse] jeżeli cel ma 3+ [Laceration], Moc Monety +1\n[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "64a39dfebc9e35b8c94342ad5e2e0aafda21ff8bef05e56b172465c3a46e40d3",
+      "en_sha256": "b8408603bc73452c30f2bc6ce3a8b02f75acb38fb44ae9281e0b42d2d3c162a4",
+      "origin": "ai"
+    },
+    "dataList[id=140303].levelList[level=1].name": {
+      "pl": "Poszarpanie",
+      "kr_sha256": "2ffd81e14805fa7c819857b78481e2efde07d63dd2f0722ed484c91d0a971963",
+      "en_sha256": "f17e645f72381c3ee5d37327157e1b8556bad7cb138b0cc57b4382c6b2cc8597",
+      "origin": "ai"
+    },
+    "dataList[id=140304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 Licznika [Laceration]",
+      "kr_sha256": "c16bea0f5e02c1089632a712b416520e3965d6b8521dc07f742931ba754dbfbf",
+      "en_sha256": "28988343d6d9ebfacc3be42b07e9a01d56f7229297c8cfd2e2cda767b7fadcfe",
+      "origin": "ai"
+    },
+    "dataList[id=140304].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Burst] i 3 Licznika [Burst]",
+      "kr_sha256": "fea4f0c88082a63b299c34201f0968c00119b36f09dffab95a69f08f1bc988dc",
+      "en_sha256": "c82060e42f28278fc84a6dac29014825c6f339c1710d30adc5eb32ab9c1320fc",
+      "origin": "ai"
+    },
+    "dataList[id=140304].levelList[level=1].desc": {
+      "pl": "celuje w jednostkę z najniższym HP\n[WhenUse] Moc Bazowa +2 za każde 3 [Laceration] celu (maks. 4)",
+      "kr_sha256": "6a9002dffd83c4f634e627dab360ef80a0f325df3777a83cec91e5a2992815e4",
+      "en_sha256": "c8714d698b0c34509cd266b35dbb581e577a26e359a5136ca48e6559c9a20629",
+      "origin": "ai"
+    },
+    "dataList[id=140304].levelList[level=1].name": {
+      "pl": "Wściekły Pościg",
+      "kr_sha256": "fd1af3f12e1987eb2e6cd9c962e8a3b1e79960dbd47321909380d675dcf0cb2c",
+      "en_sha256": "91931f10983473459570deefd67a15f967985cc7bf53548d345a25edbe6b5185",
+      "origin": "ai"
+    },
+    "dataList[id=140305].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] zyskuje 1 [Aggressive]",
+      "kr_sha256": "ff0180a511ffdce019e7313064175361f0e28cd224a6b529ab8ac75c7c7e1116",
+      "en_sha256": "2fc7b9e2f599944315ee49e0bae86fde63a179ed5e02ee5ea2d29831e3e4a0e6",
+      "origin": "ai"
+    },
+    "dataList[id=140305].levelList[level=1].name": {
+      "pl": "Ostra Czujność",
+      "kr_sha256": "b9b113c12aef37cb6059fa5890edbf27133d372ba2947be3898906472947ed63",
+      "en_sha256": "b582cc9f602408e10fa0fa489dd26b40ff82b844270f901ffd61dcd492c99a91",
+      "origin": "ai"
+    },
+    "dataList[id=140401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "5d76ed052893c5a8d60ed2845bca627bf47ae5b3593f24ec3e4daf7a6e6a2810",
+      "en_sha256": "035d3ebdcc297b2bbb652cdd0adfa7a8a39c40903d9db2d4459ce208e1e5eba0",
+      "origin": "ai"
+    },
+    "dataList[id=140401].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 2+ rodzaje negatywnych efektów, Moc Bazowa +2",
+      "kr_sha256": "954e577e4f67b694c9c162cd8b9cb267c7e588a6d69e7c1e86c947921de2c81e",
+      "en_sha256": "0f08a82338abe31240d440023d82d45e12b421bea6029b9a720ff78cac939b44",
+      "origin": "ai"
+    },
+    "dataList[id=140401].levelList[level=1].name": {
+      "pl": "Owijające Ramiona",
+      "kr_sha256": "70829e586c11142989c424782fae3473b2769f077cfa87fbafd1c1289c171273",
+      "en_sha256": "37e2e747f45f0c99ceb1838a58547b85da99c1a0f45586457d25b0a4f7cfac56",
+      "origin": "ai"
+    },
+    "dataList[id=140402].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 20 HP",
+      "kr_sha256": "41e273611ce4e96805509f53cb644e27a03ce7927fe9c57ebcdea2d3fd801727",
+      "en_sha256": "d1b3685940fb510f4baa91ed7325e1cba11d61d2a1cd127c75a68f137af411d7",
+      "origin": "ai"
+    },
+    "dataList[id=140402].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "82784b4c54b3e6b01a645624918bacee453e85163773f965dfb5fb7e902b7cd7",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=140402].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 2+ rodzaje negatywnych efektów, Moc Monety +1\n[DefeatDuel] traci 1 [Aggressive]",
+      "kr_sha256": "26dd36a4ab5a5b6f908b812208a0ce1421398d416239aa18be93fb82c43506b5",
+      "en_sha256": "141ad724cc459b0a41d6839c36e09ae764593e1b607ddbf2081ccd11b07facdb",
+      "origin": "ai"
+    },
+    "dataList[id=140402].levelList[level=1].name": {
+      "pl": "Zwinięcie w Kłębek",
+      "kr_sha256": "126358813f2e98ac1c43409ef151f20bc117a15b9f3e30e79e52ea11313e8cf3",
+      "en_sha256": "8271f3bf3fb116047a3d48c8422171f9ccaad3d87b6939be52ce0771395abe09",
+      "origin": "ai"
+    },
+    "dataList[id=140403].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140403].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "84854da32f0f4198c19a34b2dfea3cb309aef1e3f6ab52d95e68edf21f95ecb2",
+      "en_sha256": "35e217289b73fb512ac55373cfd44a73d8c7f7f9620fee4a407130c8a8f88bf2",
+      "origin": "ai"
+    },
+    "dataList[id=140403].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140403].levelList[level=1].desc": {
+      "pl": "Moc Bazowa -1 za każde zniszczone ramię\n[WhenUse] jeżeli cel ma 2+ rodzaje negatywnych efektów, Moc Starcia +2",
+      "kr_sha256": "11717f96bb9d43204756bc47efc4ad4369c8cc129e1a9436344d4aa018ea8178",
+      "en_sha256": "304115bbb4c25823c412463967b3fd283d3d3039fe9ab2599d521d4704d28a11",
+      "origin": "ai"
+    },
+    "dataList[id=140403].levelList[level=1].name": {
+      "pl": "Machanie Ramionami",
+      "kr_sha256": "bcdc8547948ae2fa4d54c0558a786384446d1df064bb4142a186472266c500a4",
+      "en_sha256": "df1238df21d42188d96a32f24a87221324ae8db1140b5c90169bb3a8e6ec544c",
+      "origin": "ai"
+    },
+    "dataList[id=140404].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 10",
+      "kr_sha256": "494723bb084268644220180700cb9c2806653fb4f35b2ca8fe105d13aff335ea",
+      "en_sha256": "a3b38b17bf3be9cdbac97248759f4353bbc758a0b3ea2d7ed1aa4b668dbe4d19",
+      "origin": "ai"
+    },
+    "dataList[id=140404].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Binding] w następnej turze",
+      "kr_sha256": "dcbff974ef6f4db92fa14a7b8dc9d975712d9cdf5bffc9cce56819b7c4a1cfa8",
+      "en_sha256": "146688406500310f9963b7621240fa2e543a722bfce865c1f1e52975c7c128d0",
+      "origin": "ai"
+    },
+    "dataList[id=140404].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 2+ rodzaje negatywnych efektów, Moc Bazowa +2\n[DefeatDuel] traci 1 [Aggressive]",
+      "kr_sha256": "e28aa812bfdf3c0538d3559ec87bfbac99f52f69d0f5461584855a69d0f35ee5",
+      "en_sha256": "41b8836d50d3335885d1830f7858dff4e03a3282d7e82bf5a0e566a0ac243913",
+      "origin": "ai"
+    },
+    "dataList[id=140404].levelList[level=1].name": {
+      "pl": "Walicie Ramionami",
+      "kr_sha256": "6a80e24bb6ca71396271c4d9410cc0fc40e5412e1b6c79bd88f86666bc90fc35",
+      "en_sha256": "74e1c89ad030ad126a899468fcf652234e76b3a0b105b68f659b97abd48b2bc8",
+      "origin": "ai"
+    },
+    "dataList[id=140405].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 5 [Aggressive]",
+      "kr_sha256": "9ec48f55884d1bb6c192d4098343b0afc15e2e4e94ef2d41e89cec12d8c5a419",
+      "en_sha256": "13ca24afb708b9fc42bd2e38ffd63ad69959b8b072ef70343a420adbbac37f1b",
+      "origin": "ai"
+    },
+    "dataList[id=140405].levelList[level=1].name": {
+      "pl": "Zatrzymany Oddech",
+      "kr_sha256": "019aabf1b2401b6d6a5e22ed8b3cecd3fd16f544863fb63716bd55f75a26e124",
+      "en_sha256": "696a5bda533f22d3af3a64dcfb3b1dd5c56450dc0c44807229a91db97c5b7035",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Zatrucia",
+      "kr_sha256": "722d336ca6721b392a1f65b2a830e902bb75d9f15e93079feb99e2ad3e646f1e",
+      "en_sha256": "93295d79e1169142b51cfa2c83b6613ed123a2cdaa6fb35a0f52dcfbd6922757",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Zatrucia",
+      "kr_sha256": "722d336ca6721b392a1f65b2a830e902bb75d9f15e93079feb99e2ad3e646f1e",
+      "en_sha256": "93295d79e1169142b51cfa2c83b6613ed123a2cdaa6fb35a0f52dcfbd6922757",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Zatrucia",
+      "kr_sha256": "722d336ca6721b392a1f65b2a830e902bb75d9f15e93079feb99e2ad3e646f1e",
+      "en_sha256": "93295d79e1169142b51cfa2c83b6613ed123a2cdaa6fb35a0f52dcfbd6922757",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma negatywny efekt, Moc Bazowa +3\n[WhenUse] traci 12 HP; zyskuje 5 [Laceration] w następnej turze\n[DefeatDuel] Moc Bazowa -5\n[DefeatDuel] zadaje o 80% mniej obrażeń, a te obrażenia nie Oszołamują celu",
+      "kr_sha256": "e664c9449afa2a2cf87dfb468294f8d9454d62cb166d6dff6f7b7d21d7d4a323",
+      "en_sha256": "b34d01aa70d47108b6894e4d3531b4aa745ceaad742752904f7d342592b96bbd",
+      "origin": "ai"
+    },
+    "dataList[id=140406].levelList[level=1].name": {
+      "pl": "Bolesne Miętołenie",
+      "kr_sha256": "dcef8aa70a6328797a778c545299963ecb08388a03507a9fb2da4b653ea6af47",
+      "en_sha256": "ed1f1424ebabde5e33f7dbe7f5643d5bb3c842a983ec67e72fe5ee1fe47eed6b",
+      "origin": "ai"
+    },
+    "dataList[id=140407].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "5d76ed052893c5a8d60ed2845bca627bf47ae5b3593f24ec3e4daf7a6e6a2810",
+      "en_sha256": "035d3ebdcc297b2bbb652cdd0adfa7a8a39c40903d9db2d4459ce208e1e5eba0",
+      "origin": "ai"
+    },
+    "dataList[id=140407].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "c3921d543b05347df8976bb130a4f834f8f63aceb86f6508cdf03806dca571c1",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=140407].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma negatywny efekt, Moc Bazowa +4\n[WhenUse] traci 12 HP; w następnej turze zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "9d6341e48db1f3a627be20c66acb703ec9695e8741608e4d0d4454b2613b1e38",
+      "en_sha256": "e8c6de21381569f49e0867f1a2355192168c05a2db2f556345e48e33408a3474",
+      "origin": "ai"
+    },
+    "dataList[id=140407].levelList[level=1].name": {
+      "pl": "Bolesny Opor",
+      "kr_sha256": "d527a40270df3db67a41cd3b84c678fe32eab11525959c6b14ab96651e6f9125",
+      "en_sha256": "bde80f9435541653e8ce9f34e6f0574219ed572962516cdad8b061ebc7ae405b",
+      "origin": "ai"
+    },
+    "dataList[id=140501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=140501].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Starcia +1",
+      "kr_sha256": "0df4d9d7cd93d2c9a86977a37bc0302d20bf7f66f79652e8ba15807b9dab1846",
+      "en_sha256": "2c89832a2dc58fe410374389c333e51f620caa4be1741a8645abb608dd03803f",
+      "origin": "ai"
+    },
+    "dataList[id=140501].levelList[level=1].name": {
+      "pl": "Kulaj przede Mną",
+      "kr_sha256": "ecdb18bbbc8642dc562c49cacf4f97a988162476f9bad907bea36b4d849cc24b",
+      "en_sha256": "abcd28fcb064f91dbee1cc07fd3a3432fdf0729653b6da0dca3203a80b652d02",
+      "origin": "ai"
+    },
+    "dataList[id=140502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=140502].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Starcia +1",
+      "kr_sha256": "0df4d9d7cd93d2c9a86977a37bc0302d20bf7f66f79652e8ba15807b9dab1846",
+      "en_sha256": "2c89832a2dc58fe410374389c333e51f620caa4be1741a8645abb608dd03803f",
+      "origin": "ai"
+    },
+    "dataList[id=140502].levelList[level=1].name": {
+      "pl": "Żałosny Stwór",
+      "kr_sha256": "a7b87cc5cf687b0e1f194918f18364b069502d3c5c64cb2cb881358e9d65599c",
+      "en_sha256": "e62c28e4d45efdd4f3abeee5277366f4f564a298dfd8f4389225738aa0b358cd",
+      "origin": "ai"
+    },
+    "dataList[id=140503].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Laceration] i zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "fb72d985799059a4fe86cc21bab1743b939e1d54e61a5f87df89632a4bb73c6f",
+      "en_sha256": "ab82856402588e458bb4fdd2d15b4677ad65f2c47e1b06ecb0eabdfa4e5f779e",
+      "origin": "ai"
+    },
+    "dataList[id=140503].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ [Laceration], Moc Starcia +1\n[WhenUse] zadaje +5% obrażeń za każdy Licznik [Laceration] celu (maks. 20%)",
+      "kr_sha256": "56f176b44704bd7dcedb783957d2d884bdf8506173a13421d09ebda34cf718d2",
+      "en_sha256": "171a10eddd94de8bb98e2e28a23f658a11dcf9fab66a3026ce6d50c57361aaba",
+      "origin": "ai"
+    },
+    "dataList[id=140503].levelList[level=1].name": {
+      "pl": "Idź... Idź Stąd...!",
+      "kr_sha256": "9c24e3a323bcb94655ede63860f6224634eaf528ef6362da6d22dc6f94e9d695",
+      "en_sha256": "d23792719b27a10026b5f44ed42f3e59cd6af536e779107e86584c94de7a342e",
+      "origin": "ai"
+    },
+    "dataList[id=140504].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=140504].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=140504].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=140504].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=140504].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 [KeptBlood]",
+      "kr_sha256": "ebcd03f638855f6fa9672e4dc56acbd67b8daabc56e70027791525fe4883deec",
+      "en_sha256": "cd264d392bda2a4420a28231a42d7d18b3e45bbd707af19a0f395a59d5135dc4",
+      "origin": "ai"
+    },
+    "dataList[id=140504].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje Wagę Ataku równą liczbie celów z [Laceration] (maks. 5)\n[WhenUse] jeżeli główny cel ma 4+ [Laceration], Moc Bazowa +1\n[WhenUse] jeżeli główny cel ma 3+ Liczników [Laceration], Moc Monet +1\n[DefeatDuel] traci 1 [KeptBlood]",
+      "kr_sha256": "cf9239d238988a646e7b8dc3bb0a75d309f0da9f6a131852fceef90d7a931201",
+      "en_sha256": "8743f28a8fc1f521a17ce5823dd04698f15f0cfc8071f18090cdf14f79c398dd",
+      "origin": "ai"
+    },
+    "dataList[id=140504].levelList[level=1].name": {
+      "pl": "Książę Parady",
+      "kr_sha256": "2cb5bcca87f8f0509b3a1a66c0b4ea45b94165e5e54da3779a20b0616bfca15b",
+      "en_sha256": "327bdab91778cc2e86a12a5ced1b65c4b594ed3edb4eae8da171ff4a31c85367",
+      "origin": "ai"
+    },
+    "dataList[id=140505].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration] i zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "06b8e1de7b7459906fd4d0b99ee396833d51988101587e72ea97e71f6cb6de8c",
+      "en_sha256": "440a008c3ae803c62c800e577e13130a949985e9d2ed0277844be8bc1a4c3cc5",
+      "origin": "ai"
+    },
+    "dataList[id=140505].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 10+ [Laceration], następna Moneta zadaje +20% obrażeń",
+      "kr_sha256": "7ecef94918d602582356742e3b5c98cd3eab9e3971ada3346a26d54258be314a",
+      "en_sha256": "c08d46b6549277314332799addeb6922bbb56a1f769cf5b1bbe0a920d0b3d401",
+      "origin": "ai"
+    },
+    "dataList[id=140505].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 [KeptBlood]",
+      "kr_sha256": "ebcd03f638855f6fa9672e4dc56acbd67b8daabc56e70027791525fe4883deec",
+      "en_sha256": "cd264d392bda2a4420a28231a42d7d18b3e45bbd707af19a0f395a59d5135dc4",
+      "origin": "ai"
+    },
+    "dataList[id=140505].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=140505].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 8+ [Laceration], Moc Monet +1\n[DefeatDuel] traci 1 [KeptBlood]",
+      "kr_sha256": "3ab02f6c67936587152f1bf3ef507e839a07ab96de03e0ea9a97548771652a59",
+      "en_sha256": "74d9f1164d414f0da796150391c3ce775139c17502d172be2a533d5ecb8fdece",
+      "origin": "ai"
+    },
+    "dataList[id=140505].levelList[level=1].name": {
+      "pl": "Krew... Krew... Krew...!",
+      "kr_sha256": "365920498b071c698651800da2e2fcb2844d7cefd793ea74289910b6f4066c21",
+      "en_sha256": "490b9044cb19633846bd0f103316f9a748323f31654d9713984ff96b52522d22",
+      "origin": "ai"
+    },
+    "dataList[id=140506].levelList[level=1].desc": {
+      "pl": "[WhenUseEvade] Moc Bazowa +1 za każdy Licznik [Laceration] celu (maks. 4)",
+      "kr_sha256": "fd40196d95081fbd8d78fb2085634b9b2a3ef684bcc89292bc13f6b151ca106a",
+      "en_sha256": "eb972cd66eb0c5474ef89d7e2f696724a75703927b36f16a539a734dd8982676",
+      "origin": "ai"
+    },
+    "dataList[id=140506].levelList[level=1].name": {
+      "pl": "Zostawcie Mnie...!",
+      "kr_sha256": "b2238bb9e2c904c878c71dec04a745a780cf71f23f2e3924fa84ef65ab94ea4d",
+      "en_sha256": "64d9d8292322b3956be004ad5f602aaa40d432e0a5a2cc1c806baa025c51a02a",
+      "origin": "ai"
+    },
+    "dataList[id=140507].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "e37880c61948160e4da7d76f27c2381813155ba1e592d9cf31ee0221f69f5810",
+      "en_sha256": "27d835ec9df5353592d73744c9318e3b3b919a124747d7b577d5f0adf8c9fdae",
+      "origin": "ai"
+    },
+    "dataList[id=140507].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "e37880c61948160e4da7d76f27c2381813155ba1e592d9cf31ee0221f69f5810",
+      "en_sha256": "27d835ec9df5353592d73744c9318e3b3b919a124747d7b577d5f0adf8c9fdae",
+      "origin": "ai"
+    },
+    "dataList[id=140507].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "e37880c61948160e4da7d76f27c2381813155ba1e592d9cf31ee0221f69f5810",
+      "en_sha256": "27d835ec9df5353592d73744c9318e3b3b919a124747d7b577d5f0adf8c9fdae",
+      "origin": "ai"
+    },
+    "dataList[id=140507].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "e37880c61948160e4da7d76f27c2381813155ba1e592d9cf31ee0221f69f5810",
+      "en_sha256": "27d835ec9df5353592d73744c9318e3b3b919a124747d7b577d5f0adf8c9fdae",
+      "origin": "ai"
+    },
+    "dataList[id=140507].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[WhenUse] zyskuje 4 [Paralysis]\n[WhenUse] podwaja efekt przywracania przez Hardblood[TabExplain] Glaive\n[WhenUse] SP wraca do 0\n[EndSkill] zyskuje 10 [KeptBlood]\nW tej turze nie przechodzi w stan Oszołamienia; po użyciu tej Umiejętności kończy turę.",
+      "kr_sha256": "ac0581e46bd5aee16ca4f5ba3bbbb0ef21768d58cba4eafb58993e29d98fea3c",
+      "en_sha256": "533b416594d4c9f462ee7c3b13d03e46b39d08ec65487a193d10bf5bdb9ed31d",
+      "origin": "ai"
+    },
+    "dataList[id=140507].levelList[level=1].name": {
+      "pl": "Jestem... Księciem... tej Parady...!",
+      "kr_sha256": "9425d6bfb6287c35d71cb4e2f7f0ebda3d6209786f42a2c3d42def0e7bf97485",
+      "en_sha256": "0dbc3b7b431d4f4e271156691df53530a253bcd841757a8245743cd6ebd3ccb5",
+      "origin": "ai"
+    },
+    "dataList[id=140508].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "ec2e2855d7b891d8d90d4017fc09eb5b8834a8109cd06c59135ff0c3d8a12a1e",
+      "en_sha256": "001ece94862fcf3055173304f59856c72d1caa27966bfb5d5de7d0dc4141f0ab",
+      "origin": "ai"
+    },
+    "dataList[id=140508].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "ec2e2855d7b891d8d90d4017fc09eb5b8834a8109cd06c59135ff0c3d8a12a1e",
+      "en_sha256": "001ece94862fcf3055173304f59856c72d1caa27966bfb5d5de7d0dc4141f0ab",
+      "origin": "ai"
+    },
+    "dataList[id=140508].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "ec2e2855d7b891d8d90d4017fc09eb5b8834a8109cd06c59135ff0c3d8a12a1e",
+      "en_sha256": "001ece94862fcf3055173304f59856c72d1caa27966bfb5d5de7d0dc4141f0ab",
+      "origin": "ai"
+    },
+    "dataList[id=140508].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140508].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Laceration] i zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "c1ca259c3f6f4d0967ee75b8808576cb32028105620a03f38fdbe2b6054dadc9",
+      "en_sha256": "40c17df89d245a38509a8d534525df4d54a89ea7d2dd0a6e3332c84552d0a249",
+      "origin": "ai"
+    },
+    "dataList[id=140508].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 5 [Laceration] głównego celu (maks. 3)\n[WhenUse] przy 4+ Licznikach [Laceration] głównego celu, Moc Monet +1\n[WhenUse] zadaje +5% obrażeń za każdy Licznik [Laceration] głównego celu (maks. 20%)\n[WinDuel] podwaja efekt przywracania przez Hardblood[TabExplain] Glaive\n[DefeatDuel] efekt przywracania przez Hardblood[TabExplain] Glaive nie uaktywnia się\n[DefeatDuel] zadaje o 80% mniej obrażeń, a te obrażenia nie Oszołamują celu\n[EndSkill] zyskuje 10 [KeptBlood]",
+      "kr_sha256": "4971cc93c8e23a3f44ff9d5f794b0fa3e7fca84065df24a249e5a93eae40b42c",
+      "en_sha256": "9576160c878d71080629b4ab3235d0dd6015b5a60bb5994c5bf540c2140ce330",
+      "origin": "ai"
+    },
+    "dataList[id=140508].levelList[level=1].name": {
+      "pl": "Nigdy... Nie Wracam...!",
+      "kr_sha256": "0f9a9cda50aa9621fc0d52349dd8bbd61082821a733722461f09eae467715a24",
+      "en_sha256": "7ce0cb990b718759c0627fa492a5a90c58246f7c6b81b014dd98dec6e4ddbd20",
+      "origin": "ai"
+    },
+    "dataList[id=140601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140601].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=140601].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 10+ Licznikach [Charge], zużywa 3 Liczniki [Charge], by zyskać Moc Monet +1\n[WhenUse] przy 15+ Licznikach [Charge], zużywa dodatkowo 3 Liczniki [Charge], by zadać +20% obrażeń\n[WhenUse] przy mniej niż 5 Licznikach [Charge], traci 10% HP i zyskuje +9 Liczników [Charge]",
+      "kr_sha256": "07d3ce28edef0a84da2a1b00ca6dee90814d955c2702e56ba361d9b84e03f9d5",
+      "en_sha256": "c367624cf329f56b1000a07a40e3ec66e4840a9e2337367b5a21e0bc6566ae7e",
+      "origin": "ai"
+    },
+    "dataList[id=140601].levelList[level=1].name": {
+      "pl": "Aktywacja Protezy",
+      "kr_sha256": "8880dd5c0273538ab97f5d6b04b614ca649145f23634ba6be963a2839bf8a11a",
+      "en_sha256": "0de3b78959a0acb71a406962a8a58e9a3da72be0c9b349d7ce91ac11a5fa6767",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis]",
+      "kr_sha256": "0afb9904f6f5f1c1ca9a8be8401da1bfb362f1efd7d67310b8d5519d105afcf5",
+      "en_sha256": "5a855c69c558417dbcda041aede7496bf927b7165a90e62dedaa863e94d29c5d",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "b204b8da0a1e39d33e047e709b130778052fb30c79e33af882d0d3ba7fdc895c",
+      "en_sha256": "4e6210a6e93bdca6ebf45c81a4434362ab1ec33090580e3ab742eb37ca3aaff8",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "b204b8da0a1e39d33e047e709b130778052fb30c79e33af882d0d3ba7fdc895c",
+      "en_sha256": "4e6210a6e93bdca6ebf45c81a4434362ab1ec33090580e3ab742eb37ca3aaff8",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 10+ Licznikach [Charge], zużywa 3 Liczniki [Charge], by zyskać Moc Monet +1\n[WhenUse] przy 15+ Licznikach [Charge], zużywa dodatkowo 3 Liczniki [Charge], by zadać +20% obrażeń\n[WhenUse] przy mniej niż 5 Licznikach [Charge], traci 10% HP i zyskuje +9 Liczników [Charge]",
+      "kr_sha256": "07d3ce28edef0a84da2a1b00ca6dee90814d955c2702e56ba361d9b84e03f9d5",
+      "en_sha256": "c367624cf329f56b1000a07a40e3ec66e4840a9e2337367b5a21e0bc6566ae7e",
+      "origin": "ai"
+    },
+    "dataList[id=140602].levelList[level=1].name": {
+      "pl": "Hardblood Reflux",
+      "kr_sha256": "12fd00b4f86ee4b4cb236d5db3a0207cad6d76d1ece86873229659d68c822e88",
+      "en_sha256": "0839a677d1c9ddefb4d093afff14f5e69f9f26286a0dccf63f9ae367db2b0a7d",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "bc43a439c5ed2fdec38dc2df6ea9fd620726ba46d593d04651c00c2618a9bb71",
+      "en_sha256": "23a9eb74c981742dcca719b350006f76e8a233b09f539f4a15aaf24ab19d0116",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 Licznika [Laceration]",
+      "kr_sha256": "6c7dc88567911636be3355e0aa75c738adbe7f433cdf962b1f934dd9eb7ef2ae",
+      "en_sha256": "1645f956a4fd0eaf348564f9f994e5102f2e2db560e178e1662e63c4325f2d1b",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 6 [Laceration]",
+      "kr_sha256": "d29955626f18c62a1e3fdff3069de22e6db433be6e05ad87122db7f4fd75f978",
+      "en_sha256": "48f711d17345b308c6142efff3393e42166908cd1177903cdb2637ceaa08a843",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "1a4dba19e3caae5ebc84335acec1f5e75b6e0142794e97408ea3ba760b2292c2",
+      "en_sha256": "d3af92cdee20674028fc89eb10e9cccd6d6e0686ee9f560dbedafd254d04249c",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [AttackDown]",
+      "kr_sha256": "6945459428bfb264397e7650dede548a5c3dfc3ec8d5deb770537a360218f679",
+      "en_sha256": "1cf0c222b6479e0b9cf02dcba2942184fba76b78630c350bef81ecf2c303c527",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].desc": {
+      "pl": "[WhenUse] zużywa 10% swojego HP, by zyskać +15 Liczników [Charge]\n[DefeatDuel] zadaje o 50% mniej obrażeń, a te obrażenia nie Oszołamują celu",
+      "kr_sha256": "9ca9ad4698714cb627a576dfb1670600fb1eb607d4b1004d168ef6bdbf74ce7b",
+      "en_sha256": "85bc3f6395c863958b2f71d397a2d09e3adb5d181910d92b7664bdd526eab038",
+      "origin": "ai"
+    },
+    "dataList[id=140603].levelList[level=1].name": {
+      "pl": "Ładowanie z Konwersji Bioenergii",
+      "kr_sha256": "fd20901430893528f91817b5a17d346a44e807e3f09908fc54929a9439e3d60c",
+      "en_sha256": "ed867b8f2a12cc1150874b81c8094c3721efa80f0b157d22df6cae7d38edde26",
+      "origin": "ai"
+    },
+    "dataList[id=140604].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 3 Liczników [Laceration] jednostki (maks. 2)",
+      "kr_sha256": "2631be73d7dbe5b844fa29095929b583b106559700b4d1f9cc818f3ad8d2d1b7",
+      "en_sha256": "46dd21c46f9b22b5d266cee3410f40b2fbeebdc94651dc80d0abbc23b4d5b16e",
+      "origin": "ai"
+    },
+    "dataList[id=140604].levelList[level=1].name": {
+      "pl": "Garda",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=140605].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140605].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=140605].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 1",
+      "kr_sha256": "b204b8da0a1e39d33e047e709b130778052fb30c79e33af882d0d3ba7fdc895c",
+      "en_sha256": "4e6210a6e93bdca6ebf45c81a4434362ab1ec33090580e3ab742eb37ca3aaff8",
+      "origin": "ai"
+    },
+    "dataList[id=140605].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 10+ Licznikach [Charge], zużywa 3 Liczniki [Charge], by zyskać Moc Monet +1\n[WhenUse] przy 15+ Licznikach [Charge], zużywa dodatkowo 3 Liczniki [Charge], by zadać +20% obrażeń\n[WhenUse] przy mniej niż 5 Licznikach [Charge], traci 10% HP i zyskuje +9 Liczników [Charge]",
+      "kr_sha256": "07d3ce28edef0a84da2a1b00ca6dee90814d955c2702e56ba361d9b84e03f9d5",
+      "en_sha256": "c367624cf329f56b1000a07a40e3ec66e4840a9e2337367b5a21e0bc6566ae7e",
+      "origin": "ai"
+    },
+    "dataList[id=140605].levelList[level=1].name": {
+      "pl": "Hardblood Transfusion",
+      "kr_sha256": "993b91d6d95fe6ebd55bb35f76a534ea9be6cb04c1ee3c383ad117e232144755",
+      "en_sha256": "00370886ab158dab12a99a64a14de38226ef2f22640161e3767f56dbf746d1fe",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "bc43a439c5ed2fdec38dc2df6ea9fd620726ba46d593d04651c00c2618a9bb71",
+      "en_sha256": "23a9eb74c981742dcca719b350006f76e8a233b09f539f4a15aaf24ab19d0116",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [Vulnerable]",
+      "kr_sha256": "f31f236f06ca0c47ea050f36ed1feb991b334dce287931ca7d601e883b8a608f",
+      "en_sha256": "00be678928d8cef5249e1bd8ee5ab724aac11b095a4ad1a39db3eeb3c5be3686",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 4 [Laceration]",
+      "kr_sha256": "bc43a439c5ed2fdec38dc2df6ea9fd620726ba46d593d04651c00c2618a9bb71",
+      "en_sha256": "23a9eb74c981742dcca719b350006f76e8a233b09f539f4a15aaf24ab19d0116",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +1 Licznika [Laceration].",
+      "kr_sha256": "c20f0137dc004539fd5c987c91d53661a9ec53fcfc2b5bf4fe2a0d657aebbb0e",
+      "en_sha256": "1645f956a4fd0eaf348564f9f994e5102f2e2db560e178e1662e63c4325f2d1b",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 6 [Laceration]",
+      "kr_sha256": "d29955626f18c62a1e3fdff3069de22e6db433be6e05ad87122db7f4fd75f978",
+      "en_sha256": "48f711d17345b308c6142efff3393e42166908cd1177903cdb2637ceaa08a843",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zwiększa Licznik [Laceration] o 2.",
+      "kr_sha256": "81401d448d142cad8d9851e5ad00c0779a9e0f51e04886ad82d88a1108fe961f",
+      "en_sha256": "d3af92cdee20674028fc89eb10e9cccd6d6e0686ee9f560dbedafd254d04249c",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [AttackDown]",
+      "kr_sha256": "6945459428bfb264397e7650dede548a5c3dfc3ec8d5deb770537a360218f679",
+      "en_sha256": "1cf0c222b6479e0b9cf02dcba2942184fba76b78630c350bef81ecf2c303c527",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].desc": {
+      "pl": "[WhenUse] zużywa 10% swojego HP, by zyskać +15 Liczników [Charge]\n[DefeatDuel] zadaje o 50% mniej obrażeń, a te obrażenia nie Oszołamują celu",
+      "kr_sha256": "9ca9ad4698714cb627a576dfb1670600fb1eb607d4b1004d168ef6bdbf74ce7b",
+      "en_sha256": "85bc3f6395c863958b2f71d397a2d09e3adb5d181910d92b7664bdd526eab038",
+      "origin": "ai"
+    },
+    "dataList[id=140606].levelList[level=1].name": {
+      "pl": "Przeładowanie z Konwersji Bioenergii",
+      "kr_sha256": "b389bd56874fb599a92d02144f6fe1e752f34a595644b3a866041776d6b40c49",
+      "en_sha256": "2ac805becf779b4c1db3a15c1fabb4cf607bcc9c79d599b30e2443411e5f9d7b",
+      "origin": "ai"
+    },
+    "dataList[id=140701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Burst]",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=140701].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140701].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przywraca 15 HP Korpusowi i Części Korpusu",
+      "kr_sha256": "026be152f9a4b087c074af9a5cd2870824cc8763c5a512ef419bee7a70c65c69",
+      "en_sha256": "734d2c0125840deae254b01d15ae418e5d33fe7deb8a55931f13077662d4ed2f",
+      "origin": "ai"
+    },
+    "dataList[id=140701].levelList[level=1].desc": {
+      "pl": "[CantDuel] \nZyskuje +1 Wagi Ataku za każdą turę, w której Wróżka żyje\npriorytet: Tożsamości z [FairyCharm]",
+      "kr_sha256": "55465c7e36e8faa53f41456361b77be903f18bc31e93c70534e899f29a4afcc0",
+      "en_sha256": "20d96566d58c7c53900e14dc81f22a4db871e1605d2a56427a9981724c8ab14d",
+      "origin": "ai"
+    },
+    "dataList[id=140701].levelList[level=1].name": {
+      "pl": "Zahaczona Przynęta",
+      "kr_sha256": "433c74988158a2f8654641d32e25f3f74f49f750828a19673317eca4e63f3e49",
+      "en_sha256": "bdb788649feb0858bcea300065940153764d90ad32528c2450feb83fc4c204ff",
+      "origin": "ai"
+    },
+    "dataList[id=140702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Licznika [Burst]",
+      "kr_sha256": "b5a7880a26d2a849c0af4d42f2f3bed99f365ba68bee852e0933bbd3b775faee",
+      "en_sha256": "def411e0029fc653c2c0d9ee156167cea89249559701b38167a7e48c350cfb28",
+      "origin": "ai"
+    },
+    "dataList[id=140702].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=140702].levelList[level=1].name": {
+      "pl": "Kopiące Korzenie",
+      "kr_sha256": "7bfa4325d535d6481524006388d40057776a0d818683657e87472bffa88a642a",
+      "en_sha256": "81a13efd95a7aad2736df920be980e7ab9f6bcfc5792a6dbb051b416a43cb617",
+      "origin": "ai"
+    },
+    "dataList[id=140703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Burst]",
+      "kr_sha256": "39bc5edc0c7be8ab1fda36627469f20278c1011026bdc29d91e9394400d1e602",
+      "en_sha256": "6138e2c49abb5422fbcedd4ce0acfcc501f2642092114cb31eac4c3bf40fad82",
+      "origin": "ai"
+    },
+    "dataList[id=140703].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "b59b2da484d428ea24d2d2e56ff0acf6bac249784f7383715079cc5b51bc9f86",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=140703].levelList[level=1].name": {
+      "pl": "Rozrastające się Korzenie",
+      "kr_sha256": "78cf5638ea4018d37b0c4ad8d8ef0dd27c75de83f77c2f3b4f23efb3e131fe64",
+      "en_sha256": "13ba1d5c8ad0431c63433357b2e35ef590d1b2a27ac2082ce3bc82104a76c42d",
+      "origin": "ai"
+    },
+    "dataList[id=140704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje +5% obrażeń za każdy [Burst] celu",
+      "kr_sha256": "93874efd068b0a6f6294df675f6ce916f65048d9d9495cf9ff43ced173bee97d",
+      "en_sha256": "3f1193af4a7dd8a32f74351c484388692934437f231d4ea287614d9190479c21",
+      "origin": "ai"
+    },
+    "dataList[id=140704].levelList[level=1].name": {
+      "pl": "Podżerające Pędy",
+      "kr_sha256": "15eff121dfb3baf9ebbfae51200c8321e6f4215df3be2c1c7d9ef0594af1beda",
+      "en_sha256": "c3cc88201ac570ea528391a3245a6be9b3c28fed33a727d3e6823b6fcd2a1639",
+      "origin": "ai"
+    },
+    "dataList[id=140705].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 5+ [Burst], zadaje +100% obrażeń",
+      "kr_sha256": "07d15771a322fb2be20ecb4379db6d5c48ddf1d9127887d22c5135ad90fb176f",
+      "en_sha256": "bea18b6117b7370c9d2e223e53cf308cec38736353b7340c5b12c77fb72fa513",
+      "origin": "ai"
+    },
+    "dataList[id=140705].levelList[level=1].name": {
+      "pl": "Odsłonięta Otchłań",
+      "kr_sha256": "0e7ceb54804ad594cb69763af3b5813f1bf3221d1321fa80c72ef557317b8405",
+      "en_sha256": "6707a4fc853592d6b7ce2c8b7e966596463360cae58382f311dcfb4b7278e554",
+      "origin": "ai"
+    },
+    "dataList[id=140801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], nakłada 1 [Paralysis]",
+      "kr_sha256": "d6c0c0a6d4c2a26ae82671e9e330851d6cb5b48adbf30dc99bb49b3aa8a92bae",
+      "en_sha256": "0b75e543df8b3d38239d046c65b9eb8d61abe1c1cf55c6db8b4515bd2809d413",
+      "origin": "ai"
+    },
+    "dataList[id=140801].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=140801].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 2+ Liczników [Laceration], nakłada 5 [Laceration]",
+      "kr_sha256": "721593da5d10679a5cf674b4ab3995c70b1e2a2640639906a99bb8b88f7dfc24",
+      "en_sha256": "8df10c810c6b51a2f127027888f2c149fd73ba26cce5c2e261f80a1be8b4ff81",
+      "origin": "ai"
+    },
+    "dataList[id=140801].levelList[level=1].name": {
+      "pl": "Brush Wounds",
+      "kr_sha256": "b20806e19382ccc584bf967557b80d438a65264e43c99d8eeaac7b0fa0ffea33",
+      "en_sha256": "8c504685be9f9d42da5ae9c4dfc2a1883b8def8a2ddc17d80bb1e1be3e84bba5",
+      "origin": "ai"
+    },
+    "dataList[id=140802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], nakłada 1 [Binding]",
+      "kr_sha256": "1b29971a0700616e52f2865dac34123eed048a9ba4bd26baf368356af27eba7e",
+      "en_sha256": "db6aa46ef253e975d70e3a5c6866371d0f75b937dba66f576c20361e542d2bf8",
+      "origin": "ai"
+    },
+    "dataList[id=140802].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140802].levelList[level=1].name": {
+      "pl": "Spleciona Rana",
+      "kr_sha256": "714344e500cc7293adb41c750b86d8cb06fd87bc7499bf6c70f68a11eeb81e03",
+      "en_sha256": "dd2f86864936265cc6e06d5fead4600d8f33b7edce04e48ec99de1917267f33e",
+      "origin": "ai"
+    },
+    "dataList[id=140803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=140803].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], przywraca 20 HP",
+      "kr_sha256": "d494fe15e6854c9fb5ad4cf5c5cff5f7b717ac961526843e238b6e97977a5950",
+      "en_sha256": "f0e412185a7948766206bbd1c416411291b64f5d67be888fa4b67219db163934",
+      "origin": "ai"
+    },
+    "dataList[id=140803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 2+ Liczników [Laceration], nakłada 5 [Laceration]",
+      "kr_sha256": "721593da5d10679a5cf674b4ab3995c70b1e2a2640639906a99bb8b88f7dfc24",
+      "en_sha256": "8df10c810c6b51a2f127027888f2c149fd73ba26cce5c2e261f80a1be8b4ff81",
+      "origin": "ai"
+    },
+    "dataList[id=140803].levelList[level=1].name": {
+      "pl": "Zamazane Ciałko",
+      "kr_sha256": "19fae44876783df7f59112fa843a6307f11a3e7fce339a48167acdc906b1f6d9",
+      "en_sha256": "d2fa128e0b2eda94eba05071ccf3bf3b7f12d24bf5a8b7d9d65a8bb87a287d6b",
+      "origin": "ai"
+    },
+    "dataList[id=140804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] usuwa wszystkie Liczniki [Laceration]",
+      "kr_sha256": "65476f7ca9b0122865c882084bd6e1f82cf91bae40f17688e86cfd45a8bca28f",
+      "en_sha256": "0413fb1a98f99226d8c7fa129b1c525ef9a243815387e71c2857cfe9a1c922f7",
+      "origin": "ai"
+    },
+    "dataList[id=140804].levelList[level=1].desc": {
+      "pl": "[WhenUse] przywołuje Giant Clover w następnej turze\n[DefeatDuel] Giant Clover powstaje z 70% HP",
+      "kr_sha256": "19676964aaa052bc001b6c732a665237a99f7599768958dfdff41a5f1f624b80",
+      "en_sha256": "b261ad8466e3f38a85c27fdaf0ddedda71cf78f33dee16711e1bf761abcb3526",
+      "origin": "ai"
+    },
+    "dataList[id=140804].levelList[level=1].name": {
+      "pl": "Rzucający Cień",
+      "kr_sha256": "09b3740a3059abaa6158a83e585985ae2c49b2897e542e2e72de3cf4230892fb",
+      "en_sha256": "e0b37ab990f0de1c7225e8df94912d752b6f1d8469e88d3ecc24373a19a66396",
+      "origin": "ai"
+    },
+    "dataList[id=140805].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 1% HP za każde 3 [Laceration] celu (maks. 30%); usuwa wszystkie Liczniki [Laceration]",
+      "kr_sha256": "5312296674b3c55a88b9c2503ffb6a63df47a15e5304157cbbe9b404d694b845",
+      "en_sha256": "83aa53a61dd04ea180c42ba37f5570b5096ba5069aa2ac3a0628490488238ac2",
+      "origin": "ai"
+    },
+    "dataList[id=140805].levelList[level=1].name": {
+      "pl": "Trawienie",
+      "kr_sha256": "0ee9f8952a4fc208c3d784b6212d84c05599bd6a354c58470f7f21040312bddb",
+      "en_sha256": "7284ba05a437ca53d48b27a30b89cac7e1dbe8412ec3ecb9b511e4d17d694a46",
+      "origin": "ai"
+    },
+    "dataList[id=140901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "2c75c57f4685a0fcb28573e3f0173cbbd0797b6e386ce50769f1f16423574467",
+      "en_sha256": "c79f3c3a2b473310b3d68b8494c2a91412e6837617323768d5bd562c01fd62e4",
+      "origin": "ai"
+    },
+    "dataList[id=140901].levelList[level=1].desc": {
+      "pl": "podczas Starcia nakłada 1 [Exalted]",
+      "kr_sha256": "4abf43a4d9a8bea1e90c9f5fd58271b0d57439aa9a6ba42abccaef6d2d11bd34",
+      "en_sha256": "cb163c153e9f0c2c53b7af001b66756dfa7ac3b2a8e950ece9f514798921c386",
+      "origin": "ai"
+    },
+    "dataList[id=140901].levelList[level=1].name": {
+      "pl": "Chcesz się Zapić?",
+      "kr_sha256": "11b078dd31b69a2e8c9d4183d6af3d021c8c8cee3152f21af90a7f5b592a380a",
+      "en_sha256": "95cacadd034b3dc45fba2bd4fae89ae37f0585289aa5c6020beb23f88a3295b9",
+      "origin": "ai"
+    },
+    "dataList[id=140902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=140902].levelList[level=1].desc": {
+      "pl": "podczas Starcia nakłada 2 [Exalted]\n[WhenUse] przywraca 5% HP",
+      "kr_sha256": "6cc1d12eef87313b0bb39d97ee7b75f18fecbf8bf05e3dd91783f1a53c9da356",
+      "en_sha256": "77a997e0940000ea6154c1306ec66b00d6a266be9f0848de8ec322526a8e0d0f",
+      "origin": "ai"
+    },
+    "dataList[id=140902].levelList[level=1].name": {
+      "pl": "Podzielmy się Napitkiem!",
+      "kr_sha256": "cc0925419f3c23b61fd438902ac79c5e00e94157ada320d7b7bb0acba42446a2",
+      "en_sha256": "cf0c02e331a1424d67df1a197d4c15c176d4dd1577aeeca7b722dd7d5512916d",
+      "origin": "ai"
+    },
+    "dataList[id=140903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia tyle [VibrationExplosion], ile wynosi Licznik [Vibration] celu",
+      "kr_sha256": "646ebad974d42a35aa48e5aa1c0ec7bcff2981f56de64af704c099a1b961a401",
+      "en_sha256": "a84521bda2b127fec6d80ea5561404dd90a1338a03f6abfe156ff9e1282b7b0e",
+      "origin": "ai"
+    },
+    "dataList[id=140903].levelList[level=1].desc": {
+      "pl": "podczas Starcia nakłada 2 [Exalted]\npriorytet: cele z największą liczbą [Vibration]",
+      "kr_sha256": "4f518455690a6c7f3f02215c45fe33ed1282f136cfab03d60acd67974e1beeb8",
+      "en_sha256": "f454a88be2a338a782b0cf3713d0cb1de7008654241b7161a152c541f8b03474",
+      "origin": "ai"
+    },
+    "dataList[id=140903].levelList[level=1].name": {
+      "pl": "Mam tylko To!",
+      "kr_sha256": "97a16c104281bf7f748ccafd146be7de3481cdf8a142b8fc3870a256ee4694f7",
+      "en_sha256": "f210729a0835d136fb2e8b9c7396162f9244fb634f9674edfd9e581f12d6ec62",
+      "origin": "ai"
+    },
+    "dataList[id=140904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Exalted], zadaje +10% obrażeń za każdy [Exalted]",
+      "kr_sha256": "651ecf956b60536ff09c734c79dbad96ca2e4895928d2a9daa734838a08857b8",
+      "en_sha256": "891eaee4a45a6465940cba3982b534c904721878cf56e7066eb82c838db63d0f",
+      "origin": "ai"
+    },
+    "dataList[id=140904].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Tipsiness], zadaje 0 obrażeń, a ta jednostka traci 50 HP",
+      "kr_sha256": "62d9c1750996ff8568c4fe113ad790feaa5bc7b148ac049e7c7ee54cb88271bd",
+      "en_sha256": "2b80b74fce6fc419850a829ee3bab165bfbd2e7320a39a4b63f37cbec58d40c8",
+      "origin": "ai"
+    },
+    "dataList[id=140904].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] usuwa cały [Exalted] lub [Tipsiness] celu",
+      "kr_sha256": "9e8701982082ab949f8ec827c5a09315e5a658cb1cace93ef6cf7f4ded8869a9",
+      "en_sha256": "5fa87117d912cabb9ef595f52a8613781c9c765ac896a82da3e48df1e121e956",
+      "origin": "ai"
+    },
+    "dataList[id=140904].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\npriorytet: cele z [Exalted]\njeżeli cel nie ma [Tipsiness], Moc Starcia +5",
+      "kr_sha256": "393646d87ec196b41782ba635db4f5951d7128e45cda1f5b5ff0e8d849e444ec",
+      "en_sha256": "0f6a7f72eeb541f9aff2c63915caf83c70fbe741ab54e1a1ded1485613d87383",
+      "origin": "ai"
+    },
+    "dataList[id=140904].levelList[level=1].name": {
+      "pl": "To Ja To Zjem!",
+      "kr_sha256": "77da2661345aa4c4b861dfc13b57f0f47d36d65a0bc779b1fcfd23b6668d75a8",
+      "en_sha256": "1ff8e85c5602829018b797c1ed65521dc42751a05b98888c16719ad57b7705c9",
+      "origin": "ai"
+    },
+    "dataList[id=140905].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Exalted], zadaje +100% obrażeń za każdy [Exalted]",
+      "kr_sha256": "c0f1fbfa8cb1f300d6bee6a76e265b6f179492cfbaa217e9b988836eb708b248",
+      "en_sha256": "5c2fc6c3365eabdc4821c1110e5d84a27a816804e641a105f0d9b9fa1e5dcec3",
+      "origin": "ai"
+    },
+    "dataList[id=140905].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Tipsiness], zadaje 0 obrażeń, a ta jednostka traci 50 HP",
+      "kr_sha256": "62d9c1750996ff8568c4fe113ad790feaa5bc7b148ac049e7c7ee54cb88271bd",
+      "en_sha256": "2b80b74fce6fc419850a829ee3bab165bfbd2e7320a39a4b63f37cbec58d40c8",
+      "origin": "ai"
+    },
+    "dataList[id=140905].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] usuwa cały [Exalted] lub [Tipsiness] celu",
+      "kr_sha256": "9e8701982082ab949f8ec827c5a09315e5a658cb1cace93ef6cf7f4ded8869a9",
+      "en_sha256": "5fa87117d912cabb9ef595f52a8613781c9c765ac896a82da3e48df1e121e956",
+      "origin": "ai"
+    },
+    "dataList[id=140905].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [Exalted]\njeżeli cel nie ma [Tipsiness], Moc Starcia +5",
+      "kr_sha256": "fea7caf5d39fc53f5be198e17cf8eb37f2c66aaa34323d4fbccdf056cd6ad4a3",
+      "en_sha256": "45617f8ab4aeb345cb19a0694aed700bb6fcf88e38bb85c5ab623ff2fbd63cd2",
+      "origin": "ai"
+    },
+    "dataList[id=140905].levelList[level=1].name": {
+      "pl": "To Ja To Zjem!",
+      "kr_sha256": "77da2661345aa4c4b861dfc13b57f0f47d36d65a0bc779b1fcfd23b6668d75a8",
+      "en_sha256": "1ff8e85c5602829018b797c1ed65521dc42751a05b98888c16719ad57b7705c9",
+      "origin": "ai"
+    },
+    "dataList[id=140906].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta jednostka zaatakowała Fairy Wine, w następnej turze stosuje następujące efekty:\n- przywraca 10% HP\n- zyskuje 2 [Enhancement]\n- zyskuje 2 [Agility]\n- zyskuje 2 [Protection]",
+      "kr_sha256": "dc1aa6ca56ed1f58868f45bd0e756c8554dbbe8efc21ad56d5e4044ae44564d8",
+      "en_sha256": "244a502924404e3bd71a11f22ae59ac31727c59eae77b1dcbbf9d9db31f2ed2d",
+      "origin": "ai"
+    },
+    "dataList[id=140906].levelList[level=1].desc": {
+      "pl": "priorytet: Fairy Wine",
+      "kr_sha256": "b7e2f4382f7622414a47add9fe91f6f4f9cc68dd1f6501f4ca0dd4b42a448193",
+      "en_sha256": "a66cb812bcf15f8c31dbb14f48a30c7e052c975fb157aeb9daf9655328d5f4a7",
+      "origin": "ai"
+    },
+    "dataList[id=140906].levelList[level=1].name": {
+      "pl": "Nie Tym Razem!",
+      "kr_sha256": "f8c281ee7ed975d16920452ccb98856cb94628bdc71f400d465e921e6e715f0b",
+      "en_sha256": "ce1af2b613bd9adc46bd84b5ea6a9ffaeefca6f79a14d8863227a1d71d5b5304",
+      "origin": "ai"
+    },
+    "dataList[id=140907].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zyskuje 1 [Binding] w następnej turze",
+      "kr_sha256": "3334d8a375a1a92251f25df9656c1d969b4f6323232dfb4b287ff2446dbbb388",
+      "en_sha256": "28477c234678626db7057f91262eb9aea5a16fd49de08a3c422bd89562e3b3d0",
+      "origin": "ai"
+    },
+    "dataList[id=140907].levelList[level=1].name": {
+      "pl": "Smakuje Wam ten Winiak?",
+      "kr_sha256": "ff4087317c92e2c334e0c07d2a21ce9848bc2a026fc49cc9f5fc48c4e0e0b854",
+      "en_sha256": "f2db503945449cdebf941b807e5d7c17ffb751b27d96dfd9a2e3339afed0754a",
+      "origin": "ai"
+    },
+    "dataList[id=141001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 [Reduction]",
+      "kr_sha256": "be6ac1b2292c23adfcf07d5e753a32f50e7b0bdfb85f63f6a65ad953f19cc639",
+      "en_sha256": "ecc775a91c128283fc14508a1aaceb25b47171176c04648beeaab402d0db890d",
+      "origin": "ai"
+    },
+    "dataList[id=141001].levelList[level=1].name": {
+      "pl": "Klaskanie",
+      "kr_sha256": "07a913f927488c7c13cc3849cd9646150707daa48db877b5f51e07416ebcb90b",
+      "en_sha256": "146b0417ca146dfea55b9bc9eb4bf9f00d42f73e439d79c19c93a40d94cfccf2",
+      "origin": "ai"
+    },
+    "dataList[id=141002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Reduction] w następnej turze",
+      "kr_sha256": "3782d3ea1cd39660c8c27d3f5def8f394babeb38c6ba354048e91187e8d003fb",
+      "en_sha256": "485df7f849d31caa691b56d50c66d4431780caa12d09a240734d3dcd42f2b716",
+      "origin": "ai"
+    },
+    "dataList[id=141002].levelList[level=1].name": {
+      "pl": "Mocne Klaskanie",
+      "kr_sha256": "290c0c92f77fcbde20c11cc7dfe6f634bce2d12154c3604fe758e5c001b80215",
+      "en_sha256": "3068823f3eb1b2bde4c8631bb26fe3bfbe25fc55938f92a1c540b1b571517075",
+      "origin": "ai"
+    },
+    "dataList[id=141003].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "1258a58dc8c295e7fc06534a58c882d686cf8889bc4872a72c52f6f7cf25606f",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=141003].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vulnerable] w następnej turze",
+      "kr_sha256": "b1a8da0518c0a8f08eff66daecc9030bd15879063795d62af6be981b07cbb461",
+      "en_sha256": "642e4cbe2bb13b72ff291e84869b546a346b5bf12e630214d34336b785e7ae59",
+      "origin": "ai"
+    },
+    "dataList[id=141003].levelList[level=1].name": {
+      "pl": "Bicz Ogonem",
+      "kr_sha256": "cb42108e99ee13e68fd6ede1a82c57ed915775da213e6dd5279c16504a0627ac",
+      "en_sha256": "1bd4075ef5eda51b41eec0ef1d800a54a8e866fcd42ca89400d61800fda8fcb0",
+      "origin": "ai"
+    },
+    "dataList[id=141004].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "c3921d543b05347df8976bb130a4f834f8f63aceb86f6508cdf03806dca571c1",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=141004].levelList[level=1].name": {
+      "pl": "Ucisk Worka",
+      "kr_sha256": "85e264ad9473c8110b341033760fbba18513be160812d7857cb836f0002889c1",
+      "en_sha256": "870b356e3aa65da7d3f6f6892ff59c096285d272c053d090f2eb68392369e776",
+      "origin": "ai"
+    },
+    "dataList[id=141005].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +50% obrażeń",
+      "kr_sha256": "cd805417cc52426d26cb25b17cbd74d926b16ae2912fef343533ab8ec0686219",
+      "en_sha256": "228b33cf39b9a000a0ca7279a39f2063630e2990580277e61bcf9e11290660d4",
+      "origin": "ai"
+    },
+    "dataList[id=141005].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 20 [Laceration]",
+      "kr_sha256": "934820680176cc0cdc4fac9b965caaf30af3143f1f2c0e8dedaa32b3de178f44",
+      "en_sha256": "d8f14025cbd9b24372171c3358d3d61a953f01b0e6b770d936765a15108102ba",
+      "origin": "ai"
+    },
+    "dataList[id=141005].levelList[level=1].name": {
+      "pl": "Działo Krwi",
+      "kr_sha256": "8b6cfceb04aaa8b526a20b60d69f4012102562bc220656662b3e80bf05967b2f",
+      "en_sha256": "0d1b6e03484f0cc2ef58bc2c72473a9180842108aca0be57ffa1cb9a2b25502c",
+      "origin": "ai"
+    },
+    "dataList[id=141006].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +100% obrażeń",
+      "kr_sha256": "43e5e948435c09a85d0f84b11baeb3ea236e8005dd7cdfe9c3ff2e0920655446",
+      "en_sha256": "e7f5f9aa34cab9156b830b929426903a07d0b32af76388c77681e4daaa472e8f",
+      "origin": "ai"
+    },
+    "dataList[id=141006].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 30 [Laceration]",
+      "kr_sha256": "ecc39bbddc16a540c735b50d410a5feae2f50dd9fca485ce664e395c2122422b",
+      "en_sha256": "f6a0f76d6b6b3232cafe6467515e7866cb176e0dae25516a265bbfaa0144d373",
+      "origin": "ai"
+    },
+    "dataList[id=141006].levelList[level=1].name": {
+      "pl": "Zbieranie Krwi",
+      "kr_sha256": "17478493e7dd0d8dd139305f92177a7436c850dcd7c8338bbc0ab3bf60cfea30",
+      "en_sha256": "b094d361e077b036f637e6fef76395080f3f0948cb1b4a2619590169aec6167b",
+      "origin": "ai"
+    },
+    "dataList[id=141101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=141101].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 [Reduction]",
+      "kr_sha256": "be6ac1b2292c23adfcf07d5e753a32f50e7b0bdfb85f63f6a65ad953f19cc639",
+      "en_sha256": "ecc775a91c128283fc14508a1aaceb25b47171176c04648beeaab402d0db890d",
+      "origin": "ai"
+    },
+    "dataList[id=141101].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 4)",
+      "kr_sha256": "0fb59b806d054ca3e8e6cf3b3e9cb5859faa7afe6c0423410f1a8b28193de099",
+      "en_sha256": "84349e80429bce7613c08d81f51559c4a3aa7d45be90d9968c8c9e74fe3a29c5",
+      "origin": "ai"
+    },
+    "dataList[id=141101].levelList[level=1].name": {
+      "pl": "Klaskanie",
+      "kr_sha256": "07a913f927488c7c13cc3849cd9646150707daa48db877b5f51e07416ebcb90b",
+      "en_sha256": "146b0417ca146dfea55b9bc9eb4bf9f00d42f73e439d79c19c93a40d94cfccf2",
+      "origin": "ai"
+    },
+    "dataList[id=141102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i 3 [Vibration]",
+      "kr_sha256": "f70e52faa602a3d0cb28d6f7c389fa1087f10879101c3008ea391487f8531fc8",
+      "en_sha256": "57787092ab97738bb269c4dad2745ee3aec5b3f8ecf9ec1ab2ae8f2969adf75b",
+      "origin": "ai"
+    },
+    "dataList[id=141102].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Reduction] w następnej turze",
+      "kr_sha256": "3782d3ea1cd39660c8c27d3f5def8f394babeb38c6ba354048e91187e8d003fb",
+      "en_sha256": "485df7f849d31caa691b56d50c66d4431780caa12d09a240734d3dcd42f2b716",
+      "origin": "ai"
+    },
+    "dataList[id=141102].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 4)",
+      "kr_sha256": "0fb59b806d054ca3e8e6cf3b3e9cb5859faa7afe6c0423410f1a8b28193de099",
+      "en_sha256": "84349e80429bce7613c08d81f51559c4a3aa7d45be90d9968c8c9e74fe3a29c5",
+      "origin": "ai"
+    },
+    "dataList[id=141102].levelList[level=1].name": {
+      "pl": "Mocne Klaskanie",
+      "kr_sha256": "290c0c92f77fcbde20c11cc7dfe6f634bce2d12154c3604fe758e5c001b80215",
+      "en_sha256": "3068823f3eb1b2bde4c8631bb26fe3bfbe25fc55938f92a1c540b1b571517075",
+      "origin": "ai"
+    },
+    "dataList[id=141103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Sinking] i 3 [Vibration]",
+      "kr_sha256": "e1c427e6019f27f4ef5f6f4d5079eac37ebdd0762432b5ed9f7a178a28f51350",
+      "en_sha256": "7885059179f38b3bf7d9e28925fae14bbc08679fa6b0a2580c1d56c90a38a149",
+      "origin": "ai"
+    },
+    "dataList[id=141103].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "1258a58dc8c295e7fc06534a58c882d686cf8889bc4872a72c52f6f7cf25606f",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=141103].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 2",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=141103].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vulnerable] w następnej turze",
+      "kr_sha256": "b1a8da0518c0a8f08eff66daecc9030bd15879063795d62af6be981b07cbb461",
+      "en_sha256": "642e4cbe2bb13b72ff291e84869b546a346b5bf12e630214d34336b785e7ae59",
+      "origin": "ai"
+    },
+    "dataList[id=141103].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 3)",
+      "kr_sha256": "12d59a01be79f0db67692129c456bf2c4ee91a9b176513e97edf4c5e39a6779b",
+      "en_sha256": "2a26eac57c317a42ef2e90bed762cfd50f411d76ab77d4549526d0adc3e84906",
+      "origin": "ai"
+    },
+    "dataList[id=141103].levelList[level=1].name": {
+      "pl": "Bicz Ogonem",
+      "kr_sha256": "cb42108e99ee13e68fd6ede1a82c57ed915775da213e6dd5279c16504a0627ac",
+      "en_sha256": "1bd4075ef5eda51b41eec0ef1d800a54a8e866fcd42ca89400d61800fda8fcb0",
+      "origin": "ai"
+    },
+    "dataList[id=141104].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=141104].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "c3921d543b05347df8976bb130a4f834f8f63aceb86f6508cdf03806dca571c1",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=141104].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 3)",
+      "kr_sha256": "12d59a01be79f0db67692129c456bf2c4ee91a9b176513e97edf4c5e39a6779b",
+      "en_sha256": "2a26eac57c317a42ef2e90bed762cfd50f411d76ab77d4549526d0adc3e84906",
+      "origin": "ai"
+    },
+    "dataList[id=141104].levelList[level=1].name": {
+      "pl": "Ucisk Worka",
+      "kr_sha256": "85e264ad9473c8110b341033760fbba18513be160812d7857cb836f0002889c1",
+      "en_sha256": "870b356e3aa65da7d3f6f6892ff59c096285d272c053d090f2eb68392369e776",
+      "origin": "ai"
+    },
+    "dataList[id=141105].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +50% obrażeń",
+      "kr_sha256": "cd805417cc52426d26cb25b17cbd74d926b16ae2912fef343533ab8ec0686219",
+      "en_sha256": "228b33cf39b9a000a0ca7279a39f2063630e2990580277e61bcf9e11290660d4",
+      "origin": "ai"
+    },
+    "dataList[id=141105].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 20 [Laceration]",
+      "kr_sha256": "934820680176cc0cdc4fac9b965caaf30af3143f1f2c0e8dedaa32b3de178f44",
+      "en_sha256": "d8f14025cbd9b24372171c3358d3d61a953f01b0e6b770d936765a15108102ba",
+      "origin": "ai"
+    },
+    "dataList[id=141105].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] aktywuje [Laceration] celu 1 raz (cel traci 1 Licznik [Laceration])",
+      "kr_sha256": "b6aca5a632ca4fbda37201ae8cec5f0a8d19b0ea1d97c71d3559b2b1193a5d76",
+      "en_sha256": "442d54fe2acb65b112033cba1647e97a7b9baf9bda549be0a47eb8fcf8e12597",
+      "origin": "ai"
+    },
+    "dataList[id=141105].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli główny cel ma negatywny efekt, Moc Starcia +5\n- jeżeli główny cel nie ma negatywnego efektu, zamiast tego Moc Starcia -5",
+      "kr_sha256": "5c73575071e7fed8bf002b32f85b460f28cd95773246b0a083600e715cb0f52c",
+      "en_sha256": "ee886ca6b6e823e8fac6669a867887a7f1a6a981155f72939ac03b8ca7bf5e82",
+      "origin": "ai"
+    },
+    "dataList[id=141105].levelList[level=1].name": {
+      "pl": "Działo Krwi",
+      "kr_sha256": "8b6cfceb04aaa8b526a20b60d69f4012102562bc220656662b3e80bf05967b2f",
+      "en_sha256": "0d1b6e03484f0cc2ef58bc2c72473a9180842108aca0be57ffa1cb9a2b25502c",
+      "origin": "ai"
+    },
+    "dataList[id=141106].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +100% obrażeń",
+      "kr_sha256": "43e5e948435c09a85d0f84b11baeb3ea236e8005dd7cdfe9c3ff2e0920655446",
+      "en_sha256": "e7f5f9aa34cab9156b830b929426903a07d0b32af76388c77681e4daaa472e8f",
+      "origin": "ai"
+    },
+    "dataList[id=141106].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 30 [Laceration]",
+      "kr_sha256": "ecc39bbddc16a540c735b50d410a5feae2f50dd9fca485ce664e395c2122422b",
+      "en_sha256": "f6a0f76d6b6b3232cafe6467515e7866cb176e0dae25516a265bbfaa0144d373",
+      "origin": "ai"
+    },
+    "dataList[id=141106].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] aktywuje [Laceration] celu 1 raz (cel traci 1 Licznik [Laceration])",
+      "kr_sha256": "b6aca5a632ca4fbda37201ae8cec5f0a8d19b0ea1d97c71d3559b2b1193a5d76",
+      "en_sha256": "442d54fe2acb65b112033cba1647e97a7b9baf9bda549be0a47eb8fcf8e12597",
+      "origin": "ai"
+    },
+    "dataList[id=141106].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli główny cel ma negatywny efekt, Moc Starcia +5\n- jeżeli główny cel nie ma negatywnego efektu, zamiast tego Moc Starcia -5",
+      "kr_sha256": "5c73575071e7fed8bf002b32f85b460f28cd95773246b0a083600e715cb0f52c",
+      "en_sha256": "ee886ca6b6e823e8fac6669a867887a7f1a6a981155f72939ac03b8ca7bf5e82",
+      "origin": "ai"
+    },
+    "dataList[id=141106].levelList[level=1].name": {
+      "pl": "Zbieranie Krwi",
+      "kr_sha256": "17478493e7dd0d8dd139305f92177a7436c850dcd7c8338bbc0ab3bf60cfea30",
+      "en_sha256": "b094d361e077b036f637e6fef76395080f3f0948cb1b4a2619590169aec6167b",
+      "origin": "ai"
+    },
+    "dataList[id=141201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i 3 [Vibration]",
+      "kr_sha256": "cdbd9bd7abf864f35f313d32f1926c3fe55da2677a0f29fe82e4d27ae14b5114",
+      "en_sha256": "57787092ab97738bb269c4dad2745ee3aec5b3f8ecf9ec1ab2ae8f2969adf75b",
+      "origin": "ai"
+    },
+    "dataList[id=141201].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 [Reduction]",
+      "kr_sha256": "be6ac1b2292c23adfcf07d5e753a32f50e7b0bdfb85f63f6a65ad953f19cc639",
+      "en_sha256": "ecc775a91c128283fc14508a1aaceb25b47171176c04648beeaab402d0db890d",
+      "origin": "ai"
+    },
+    "dataList[id=141201].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +2 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 6)\n[WhenUse] jeżeli cel ma [PlayingWithWaterTogetherMirror], Moc Starcia -3",
+      "kr_sha256": "5a8da9f99f75cb2c4ee94809cbca2a072c2cb87e0d774ec1ad1dcc4391d731ef",
+      "en_sha256": "268674aba477687a864c40b75eb06c5280917017b1d517a8a55ba948fb70f08c",
+      "origin": "ai"
+    },
+    "dataList[id=141201].levelList[level=1].name": {
+      "pl": "Klaskanie",
+      "kr_sha256": "07a913f927488c7c13cc3849cd9646150707daa48db877b5f51e07416ebcb90b",
+      "en_sha256": "146b0417ca146dfea55b9bc9eb4bf9f00d42f73e439d79c19c93a40d94cfccf2",
+      "origin": "ai"
+    },
+    "dataList[id=141202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration] i 5 [Vibration]",
+      "kr_sha256": "ba3bc6da2dabee18d59b5b7f2fcd3d1d0941dc45b206f4cb194aa7302ac491aa",
+      "en_sha256": "8e002b109159f0fdc37c22dfc94aee173652b8671ccb899a26113dc65a3a50de",
+      "origin": "ai"
+    },
+    "dataList[id=141202].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [Switch_Vibration] do [VibrationBleeding]",
+      "kr_sha256": "e5d9a51bcb1993b256e94e743da0edf3564b01066cc0a37cbb562ec6f1e50548",
+      "en_sha256": "85a5efbb2ddf21a6dbd581685b59805c3107268c3a658003800019863ca70384",
+      "origin": "ai"
+    },
+    "dataList[id=141202].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Reduction] w następnej turze",
+      "kr_sha256": "3782d3ea1cd39660c8c27d3f5def8f394babeb38c6ba354048e91187e8d003fb",
+      "en_sha256": "485df7f849d31caa691b56d50c66d4431780caa12d09a240734d3dcd42f2b716",
+      "origin": "ai"
+    },
+    "dataList[id=141202].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +2 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 6)\n[WhenUse] jeżeli cel ma [PlayingWithWaterTogetherMirror], Moc Starcia -3",
+      "kr_sha256": "5a8da9f99f75cb2c4ee94809cbca2a072c2cb87e0d774ec1ad1dcc4391d731ef",
+      "en_sha256": "268674aba477687a864c40b75eb06c5280917017b1d517a8a55ba948fb70f08c",
+      "origin": "ai"
+    },
+    "dataList[id=141202].levelList[level=1].name": {
+      "pl": "Mocne Klaskanie",
+      "kr_sha256": "290c0c92f77fcbde20c11cc7dfe6f634bce2d12154c3604fe758e5c001b80215",
+      "en_sha256": "3068823f3eb1b2bde4c8631bb26fe3bfbe25fc55938f92a1c540b1b571517075",
+      "origin": "ai"
+    },
+    "dataList[id=141203].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking] i 5 [Vibration]",
+      "kr_sha256": "aedeec511973fcb1c8ddf30f51de40fe53a5d97e9bb15930f236b2201954b7f1",
+      "en_sha256": "1fbea1a343c3e034ed7dcf28c8fdaec8cf46cf412370160858f7d7cbc035df28",
+      "origin": "ai"
+    },
+    "dataList[id=141203].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "1258a58dc8c295e7fc06534a58c882d686cf8889bc4872a72c52f6f7cf25606f",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=141203].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 4",
+      "kr_sha256": "a7b735702767121e5775b8fff2f7c16d7d195bb1220b7e26dc171e096e6598d1",
+      "en_sha256": "269fe29772d9a39de41a5aa674529b26a887154c37aa1b02b50b89c1e4c7bd21",
+      "origin": "ai"
+    },
+    "dataList[id=141203].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vulnerable] w następnej turze",
+      "kr_sha256": "b1a8da0518c0a8f08eff66daecc9030bd15879063795d62af6be981b07cbb461",
+      "en_sha256": "642e4cbe2bb13b72ff291e84869b546a346b5bf12e630214d34336b785e7ae59",
+      "origin": "ai"
+    },
+    "dataList[id=141203].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +1 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 3)\n[WhenUse] jeżeli cel ma [PlayingWithWaterTogetherMirror], Moc Starcia -2",
+      "kr_sha256": "2e08177a01394c412ee48bee3791103a2c1742e366482484b8b10d03e159698c",
+      "en_sha256": "0f9314e4e5e6384fffd0342a47cb6c9c59effc6593d2e1dcc4ed6fed61d8ae56",
+      "origin": "ai"
+    },
+    "dataList[id=141203].levelList[level=1].name": {
+      "pl": "Bicz Ogonem",
+      "kr_sha256": "cb42108e99ee13e68fd6ede1a82c57ed915775da213e6dd5279c16504a0627ac",
+      "en_sha256": "1bd4075ef5eda51b41eec0ef1d800a54a8e866fcd42ca89400d61800fda8fcb0",
+      "origin": "ai"
+    },
+    "dataList[id=141204].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [Switch_Vibration] do [VibrationBleeding]",
+      "kr_sha256": "e5d9a51bcb1993b256e94e743da0edf3564b01066cc0a37cbb562ec6f1e50548",
+      "en_sha256": "85a5efbb2ddf21a6dbd581685b59805c3107268c3a658003800019863ca70384",
+      "origin": "ai"
+    },
+    "dataList[id=141204].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=141204].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "c3921d543b05347df8976bb130a4f834f8f63aceb86f6508cdf03806dca571c1",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=141204].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +2 za każde 5 (suma [Laceration] + [Vibration] + [Sinking]) celu (maks. 6)\n[WhenUse] jeżeli cel ma [PlayingWithWaterTogetherMirror], Moc Starcia -2",
+      "kr_sha256": "59194e8602a926c00c33af2870e871fea46faafc03d6e0d550a1acf1447a5b38",
+      "en_sha256": "0232b4e59b103364cbf0427724340583dafc6fcb125c98a22a86f73b9b853d06",
+      "origin": "ai"
+    },
+    "dataList[id=141204].levelList[level=1].name": {
+      "pl": "Ucisk Worka",
+      "kr_sha256": "85e264ad9473c8110b341033760fbba18513be160812d7857cb836f0002889c1",
+      "en_sha256": "870b356e3aa65da7d3f6f6892ff59c096285d272c053d090f2eb68392369e776",
+      "origin": "ai"
+    },
+    "dataList[id=141205].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +50% obrażeń",
+      "kr_sha256": "cd805417cc52426d26cb25b17cbd74d926b16ae2912fef343533ab8ec0686219",
+      "en_sha256": "228b33cf39b9a000a0ca7279a39f2063630e2990580277e61bcf9e11290660d4",
+      "origin": "ai"
+    },
+    "dataList[id=141205].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 20 [Laceration]",
+      "kr_sha256": "934820680176cc0cdc4fac9b965caaf30af3143f1f2c0e8dedaa32b3de178f44",
+      "en_sha256": "d8f14025cbd9b24372171c3358d3d61a953f01b0e6b770d936765a15108102ba",
+      "origin": "ai"
+    },
+    "dataList[id=141205].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] aktywuje [Laceration] celu 1 raz (cel traci 1 Licznik [Laceration])",
+      "kr_sha256": "b6aca5a632ca4fbda37201ae8cec5f0a8d19b0ea1d97c71d3559b2b1193a5d76",
+      "en_sha256": "442d54fe2acb65b112033cba1647e97a7b9baf9bda549be0a47eb8fcf8e12597",
+      "origin": "ai"
+    },
+    "dataList[id=141205].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli główny cel ma negatywny efekt, Moc Starcia +10\n- jeżeli główny cel nie ma negatywnego efektu, zamiast tego Moc Starcia -10",
+      "kr_sha256": "201dc150913092409ef87a5b241dab39397459d79d46542b69fcdd597489da46",
+      "en_sha256": "06ab36d86818c2586e2c0c1ea05f1a58f0551bff386e882087e6ac814eb3ccea",
+      "origin": "ai"
+    },
+    "dataList[id=141205].levelList[level=1].name": {
+      "pl": "Działo Krwi",
+      "kr_sha256": "8b6cfceb04aaa8b526a20b60d69f4012102562bc220656662b3e80bf05967b2f",
+      "en_sha256": "0d1b6e03484f0cc2ef58bc2c72473a9180842108aca0be57ffa1cb9a2b25502c",
+      "origin": "ai"
+    },
+    "dataList[id=141206].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "jeżeli cel ma negatywny efekt, zadaje +100% obrażeń",
+      "kr_sha256": "43e5e948435c09a85d0f84b11baeb3ea236e8005dd7cdfe9c3ff2e0920655446",
+      "en_sha256": "e7f5f9aa34cab9156b830b929426903a07d0b32af76388c77681e4daaa472e8f",
+      "origin": "ai"
+    },
+    "dataList[id=141206].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 30 [Laceration]",
+      "kr_sha256": "ecc39bbddc16a540c735b50d410a5feae2f50dd9fca485ce664e395c2122422b",
+      "en_sha256": "f6a0f76d6b6b3232cafe6467515e7866cb176e0dae25516a265bbfaa0144d373",
+      "origin": "ai"
+    },
+    "dataList[id=141206].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] aktywuje [Laceration] celu 3 razy (cel traci 3 Liczniki [Laceration])",
+      "kr_sha256": "108712acb68e6d5a3ea37cfc5d4f047c76d9bb30eed1f0d098f955df55dfc107",
+      "en_sha256": "5e26f97a3b23dc6e6dd0cb7f636856c3eba9f2729a1205e66898e8647c58d8de",
+      "origin": "ai"
+    },
+    "dataList[id=141206].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli główny cel ma negatywny efekt, Moc Starcia +10\n- jeżeli główny cel nie ma negatywnego efektu, zamiast tego Moc Starcia -10",
+      "kr_sha256": "201dc150913092409ef87a5b241dab39397459d79d46542b69fcdd597489da46",
+      "en_sha256": "06ab36d86818c2586e2c0c1ea05f1a58f0551bff386e882087e6ac814eb3ccea",
+      "origin": "ai"
+    },
+    "dataList[id=141206].levelList[level=1].name": {
+      "pl": "Zbieranie Krwi",
+      "kr_sha256": "17478493e7dd0d8dd139305f92177a7436c850dcd7c8338bbc0ab3bf60cfea30",
+      "en_sha256": "b094d361e077b036f637e6fef76395080f3f0948cb1b4a2619590169aec6167b",
+      "origin": "ai"
+    }
+  }
+}

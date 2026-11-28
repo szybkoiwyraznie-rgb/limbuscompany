@@ -16,23 +16,23 @@
 
 ## Katalog Identity
 
-| Rzadkość | Identity | Sezon | Grzech wyróżniony | Słowa kluczowe |
-|---|---|---|---|---|
-| 0 | LCB Sinner | 0 | Sloth | Tremor |
-| 00 | Liu Assoc. South Section 6 | 0 | Lust | Burn |
-| 000 | W Corp. L2 Cleanup Agent | 0 | Envy | Charge, Rupture |
-| 000 | N Corp. Großhammer | 1 | Wrath | Bleed |
-| 00 | Rosespanner Workshop Fixer | 2 | Gloom | Tremor, Charge |
-| 000 | R Corp. 4th Pack Rhino | 0 | Envy | Charge, Bleed |
-| 00 | The Middle Little Brother | 3 | Envy | Bleed |
-| 000 | Blade Lineage Mentor | 3 | Pride | Poise |
-| 00 | Dead Rabbits Boss | 4 | Glut. | Rupture |
-| 000 | Dieci Assoc. South Section 4 Director | 0 | Glut. | Sinking |
-| 000 | Cinq Assoc. West Section 3 | 5 | Pride | Rupture, Poise |
-| 000 | The Thumb East Capo IIII | 6 | Sloth | Burn, Tremor |
-| 000 | The Prince of La Manchaland | 6 | Wrath | Bleed, Rupture |
-| 000 | Lobotomy E.G.O:: Hornet 【Alteration】 | wydarzenie 9108 | Lust | Burn, Bleed |
-| 000 | The Ring Fauvist Student | 7 | Gloom | Bleed, Sinking |
+| Rzadkość | Identity                               |           Sezon | Grzech wyróżniony | Słowa kluczowe  |
+| -------: | -------------------------------------- | --------------: | ----------------- | --------------- |
+|        0 | LCB Sinner                             |               0 | Sloth             | Tremor          |
+|       00 | Liu Assoc. South Section 6             |               0 | Lust              | Burn            |
+|      000 | W Corp. L2 Cleanup Agent               |               0 | Envy              | Charge, Rupture |
+|      000 | N Corp. Großhammer                     |               1 | Wrath             | Bleed           |
+|       00 | Rosespanner Workshop Fixer             |               2 | Gloom             | Tremor, Charge  |
+|      000 | R Corp. 4th Pack Rhino                 |               0 | Envy              | Charge, Bleed   |
+|       00 | The Middle Little Brother              |               3 | Envy              | Bleed           |
+|      000 | Blade Lineage Mentor                   |               3 | Pride             | Poise           |
+|       00 | Dead Rabbits Boss                      |               4 | Glut.             | Rupture         |
+|      000 | Dieci Assoc. South Section 4 Director  |               0 | Glut.             | Sinking         |
+|      000 | Cinq Assoc. West Section 3             |               5 | Pride             | Rupture, Poise  |
+|      000 | The Thumb East Capo IIII               |               6 | Sloth             | Burn, Tremor    |
+|      000 | The Prince of La Manchaland            |               6 | Wrath             | Bleed, Rupture  |
+|      000 | Lobotomy E.G.O:: Hornet 【Alteration】 | wydarzenie 9108 | Lust              | Burn, Bleed     |
+|      000 | The Ring Fauvist Student               |               7 | Gloom             | Bleed, Sinking  |
 
 ## Profile
 
@@ -40,27 +40,27 @@
 
 > Meursault’s 1st Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 0 |
-| Sezon | 0 |
-| HP | 90 (+3,1 za poziom) |
-| Szybkość (ulepszenia 1–4) | 1–2 / 1–2 / 2–3 / 2–3 |
-| Poziom obrony | poziom +3 |
-| Odporności | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
-| Progi Stagger (HP) | 50% / 20% |
-| Grzech wyróżniony | Sloth |
-| Przynależność | Limbus_Company, Limbus_Company_Lcb |
-| Słowa kluczowe | Tremor |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 0                                                          |
+| Sezon                     | 0                                                          |
+| HP                        | 90 (+3,1 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 1–2 / 1–2 / 2–3 / 2–3                                      |
+| Poziom obrony             | poziom +3                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
+| Progi Stagger (HP)        | 50% / 20%                                                  |
+| Grzech wyróżniony         | Sloth                                                      |
+| Przynależność             | Limbus_Company, Limbus_Company_Lcb                         |
+| Słowa kluczowe            | Tremor                                                     |
+| Data aktualizacji         | 20230227                                                   |
 
 #### Umiejętność 1 (×3): Un, Deux
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Sloth | Blunt | 2 | +3 | 2 | −3 | 1 |
-| 3 | Sloth | Blunt | 2 | +4 | 2 | −3 | 1 |
-| 4 | Sloth | Blunt | 3 | +4 | 2 | −3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Sloth  | Blunt |          2 |         +3 |      2 |           −3 |    1 |
+|          3 | Sloth  | Blunt |          2 |         +4 |      2 |           −3 |    1 |
+|          4 | Sloth  | Blunt |          3 |         +4 |      2 |           −3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Heads Hit] Inflict 1 [Tremor]  
 Moneta 2: [Heads Hit] Inflict 1 [Tremor]
@@ -70,11 +70,11 @@ Moneta 2: [On Hit] Inflict 1 [Tremor]
 
 #### Umiejętność 2 (×2): Nailing Fist
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pride | Blunt | 4 | +8 | 1 | −3 | 1 |
-| 3 | Pride | Blunt | 5 | +8 | 1 | −3 | 1 |
-| 4 | Pride | Blunt | 6 | +9 | 1 | −3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pride  | Blunt |          4 |         +8 |      1 |           −3 |    1 |
+|          3 | Pride  | Blunt |          5 |         +8 |      1 |           −3 |    1 |
+|          4 | Pride  | Blunt |          6 |         +9 |      1 |           −3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Trigger [Tremor Burst]
 
@@ -83,10 +83,10 @@ Moneta 1: [On Hit] Trigger [Tremor Burst]
 
 #### Umiejętność 3 (×1): Des Coups
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Gloom | Blunt | 4 | +1 | 4 | −3 | 1 |
-| 4 | Gloom | Blunt | 4 | +2 | 4 | −3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Gloom  | Blunt |          4 |         +1 |      4 |           −3 |    1 |
+|          4 | Gloom  | Blunt |          4 |         +2 |      4 |           −3 |    1 |
 
 *Od ulepszenia 3:* [On Use] Gain 3 Protection next turn  
 Moneta 4: [Heads Hit] Inflict +2 [Tremor] Count
@@ -99,10 +99,10 @@ Moneta 4: [On Hit] Inflict +2 [Tremor] Count
 
 #### Obrona: Guard
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 8 | +3 | 1 | +3 | 1 |
-| 4 | Sloth | obrona: blok | 10 | +3 | 1 | +3 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |          8 |         +3 |      1 |           +3 |    1 |
+|          4 | Sloth   | obrona: blok |         10 |         +3 |      1 |           +3 |    1 |
 
 #### Pasywka bojowa: Staunchness
 
@@ -144,26 +144,26 @@ At less than 50% HP, gain 1 Protection at the start of the combat phase.
 
 > Meursault’s 2nd Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 0 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 1–4 / 1–5 / 2–5 / 2–5 |
-| Poziom obrony | poziom +1 |
-| Odporności | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
-| Progi Stagger (HP) | 65% / 35% / 15% |
-| Grzech wyróżniony | Lust |
-| Przynależność | Liu |
-| Słowa kluczowe | Burn |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 00                                                         |
+| Sezon                     | 0                                                          |
+| HP                        | 82 (+2,82 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 1–4 / 1–5 / 2–5 / 2–5                                      |
+| Poziom obrony             | poziom +1                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
+| Progi Stagger (HP)        | 65% / 35% / 15%                                            |
+| Grzech wyróżniony         | Lust                                                       |
+| Przynależność             | Liu                                                        |
+| Słowa kluczowe            | Burn                                                       |
+| Data aktualizacji         | 20230227                                                   |
 
 #### Umiejętność 1 (×3): Assault
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lust | Blunt | 2 | +4 | 2 | +1 | 1 |
-| 3 | Lust | Blunt | 3 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lust   | Blunt |          2 |         +4 |      2 |           +1 |    1 |
+|          3 | Lust   | Blunt |          3 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Heads Hit] Inflict 1 Burn  
 Moneta 2: [Heads Hit] Inflict 1 Burn
@@ -176,11 +176,11 @@ Moneta 2: [On Hit] Inflict 2 Burn
 
 #### Umiejętność 2 (×2): Stalwart Stance
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Sloth | Blunt | 5 | +2 | 2 | +1 | 1 |
-| 3 | Sloth | Blunt | 6 | +2 | 2 | +1 | 1 |
-| 4 | Sloth | Blunt | 7 | +2 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Sloth  | Blunt |          5 |         +2 |      2 |           +1 |    1 |
+|          3 | Sloth  | Blunt |          6 |         +2 |      2 |           +1 |    1 |
+|          4 | Sloth  | Blunt |          7 |         +2 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Inflict 2 Burn  
 Moneta 2: [Heads Hit] Inflict 1 Burn
@@ -195,9 +195,9 @@ Moneta 2: [On Hit] Inflict 1 Burn
 
 #### Umiejętność 3 (×1): Perfected Death Fist
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Wrath | Pierce | 5 | +3 | 3 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Wrath  | Pierce |          5 |         +3 |      3 |           +1 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [Heads Hit] Inflict 3 Burn  
 Moneta 3: [On Hit] Inflict +3 Burn Count  
@@ -210,10 +210,10 @@ Moneta 3: [On Hit] If target has 6+ [Burn], inflict 3 Burn on 2 random enemies
 
 #### Obrona: Guard
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 8 | +5 | 1 | +1 | 1 |
-| 4 | Lust | obrona: blok | 8 | +8 | 1 | +1 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |          8 |         +5 |      1 |           +1 |    1 |
+|          4 | Lust    | obrona: blok |          8 |         +8 |      1 |           +1 |    1 |
 
 #### Pasywka bojowa: Great Mountain
 
@@ -259,26 +259,26 @@ When attacked, inflict 1 Burn on a random enemy.
 
 > Meursault’s 3rd Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 79 (+2,73 za poziom) |
-| Szybkość (ulepszenia 1–4) | 4–6 / 4–7 / 4–8 / 4–8 |
-| Poziom obrony | poziom +4 |
-| Odporności | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
-| Progi Stagger (HP) | 60% / 30% |
-| Grzech wyróżniony | Envy |
-| Przynależność | W_Corp |
-| Słowa kluczowe | Charge, Rupture |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 0                                                          |
+| HP                        | 79 (+2,73 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 4–6 / 4–7 / 4–8 / 4–8                                      |
+| Poziom obrony             | poziom +4                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
+| Progi Stagger (HP)        | 60% / 30%                                                  |
+| Grzech wyróżniony         | Envy                                                       |
+| Przynależność             | W_Corp                                                     |
+| Słowa kluczowe            | Charge, Rupture                                            |
+| Data aktualizacji         | 20230227                                                   |
 
 #### Umiejętność 1 (×3): Rip
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Envy | Slash | 4 | +6 | 1 | +0 | 1 |
-| 3 | Envy | Slash | 5 | +6 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Envy   | Slash |          4 |         +6 |      1 |           +0 |    1 |
+|          3 | Envy   | Slash |          5 |         +6 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [On Use] Gain 1 Slash Protection
 
@@ -291,10 +291,10 @@ Moneta 1: [On Hit] Gain +3 Charge Count
 
 #### Umiejętność 2 (×2): Energy Cycle
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gloom | Slash | 4 | +2 | 3 | +0 | 1 |
-| 3 | Gloom | Slash | 5 | +2 | 3 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gloom  | Slash |          4 |         +2 |      3 |           +0 |    1 |
+|          3 | Gloom  | Slash |          5 |         +2 |      3 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Heads Hit] Inflict 1 Rupture  
 Moneta 2: [Heads Hit] Inflict 1 Rupture  
@@ -313,10 +313,10 @@ Moneta 3: [On Hit] Spend 3 Charge Count to inflict 2 Slash Fragility
 
 #### Umiejętność 3 (×1): Energy Current
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pride | Slash | 5 | +1 | 4 | +0 | 1 |
-| 4 | Pride | Slash | 5 | +2 | 4 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pride  | Slash |          5 |         +1 |      4 |           +0 |    1 |
+|          4 | Pride  | Slash |          5 |         +2 |      4 |           +0 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [On Hit] Spend 2 Charge Count to inflict 2 Defense Level Down  
 Moneta 2: [On Hit] Spend 2 Charge Count to inflict 2 Defense Level Down  
@@ -331,10 +331,10 @@ Moneta 4: [On Hit] Spend 2 Charge Count to inflict 2 Defense Level Down
 
 #### Obrona: Guard
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 12 | +3 | 1 | +5 | 1 |
-| 4 | Envy | obrona: blok | 12 | +5 | 1 | +5 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         12 |         +3 |      1 |           +5 |    1 |
+|          4 | Envy    | obrona: blok |         12 |         +5 |      1 |           +5 |    1 |
 
 *Od ulepszenia 4:* [Combat Start] Gain +2 Charge Count
 
@@ -389,26 +389,26 @@ After losing a clash, gain +1 Charge Count. (Up 6 times, counted independently o
 
 > Meursault’s 4th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 1 |
-| HP | 99 (+3,41 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5 |
-| Poziom obrony | poziom +5 |
-| Odporności | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
-| Progi Stagger (HP) | 50% |
-| Grzech wyróżniony | Wrath |
-| Przynależność | N_Corp, N_Corp_Fnatic |
-| Słowa kluczowe | Bleed |
-| Data aktualizacji | 20230309 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 1                                                          |
+| HP                        | 99 (+3,41 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5                                      |
+| Poziom obrony             | poziom +5                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
+| Progi Stagger (HP)        | 50%                                                        |
+| Grzech wyróżniony         | Wrath                                                      |
+| Przynależność             | N_Corp, N_Corp_Fnatic                                      |
+| Słowa kluczowe            | Bleed                                                      |
+| Data aktualizacji         | 20230309                                                   |
 
 #### Umiejętność 1 (×3): Drive
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Sloth | Pierce | 4 | +1 | 2 | +0 | 1 |
-| 3 | Sloth | Pierce | 5 | +1 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Sloth  | Pierce |          4 |         +1 |      2 |           +0 |    1 |
+|          3 | Sloth  | Pierce |          5 |         +1 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Lower user’s Stagger Threshold by 30% of damage dealt  
 Moneta 2: [On Hit] Lower user’s Stagger Threshold by 30% of damage dealt
@@ -423,10 +423,10 @@ Moneta 2: [On Hit] Lower user’s Stagger Threshold by 60% of damage dealt
 
 #### Umiejętność 2 (×2): You Are Cleansed of Sin
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Wrath | Blunt | 5 | +3 | 2 | +0 | 1 |
-| 3 | Wrath | Blunt | 6 | +3 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Wrath  | Blunt |          5 |         +3 |      2 |           +0 |    1 |
+|          3 | Wrath  | Blunt |          6 |         +3 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Inflict 3 Nails  
 Moneta 2: [On Hit] Inflict 3 Bind next turn
@@ -442,9 +442,9 @@ Moneta 2: [On Hit] If target has 5+ Nails, inflict 2 Bind and 2 Attack Power Dow
 
 #### Umiejętność 3 (×1): Annihilate Heretics
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pride | Pierce | 8 | +3 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pride  | Pierce |          8 |         +3 |      2 |           +0 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [On Hit] Inflict 2 Nails next turn  
 Moneta 2: [On Hit] Heal 50% of damage dealt
@@ -456,9 +456,9 @@ HP Heal +3% for each of target's Nails
 
 #### Obrona: Foolishness…!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Wrath | obrona: kontra | 15 | −5 | 1 | +5 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Wrath  | obrona: kontra |         15 |         −5 |      1 |           +5 |    1 |
 
 [Combat Start] Gain 1 Protection  
 At less than 50% HP, Final Power +2
@@ -507,26 +507,26 @@ If the ally is an 'N Corp. Fanatic', also apply 1 Fanatic.
 
 > Meursault’s 5th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 2 |
-| HP | 76 (+2,7 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 3–8 / 3–8 |
-| Poziom obrony | poziom +0 |
-| Odporności | Slash ×0,5 (Endured), Pierce ×2 (Fatal), Blunt ×1 (Normal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | Gloom |
-| Przynależność | Trouble_Shooter |
-| Słowa kluczowe | Tremor, Charge |
-| Data aktualizacji | 20230601 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 00                                                         |
+| Sezon                     | 2                                                          |
+| HP                        | 76 (+2,7 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 3–8 / 3–8                                      |
+| Poziom obrony             | poziom +0                                                  |
+| Odporności                | Slash ×0,5 (Endured), Pierce ×2 (Fatal), Blunt ×1 (Normal) |
+| Progi Stagger (HP)        | 65% / 35%                                                  |
+| Grzech wyróżniony         | Gloom                                                      |
+| Przynależność             | Trouble_Shooter                                            |
+| Słowa kluczowe            | Tremor, Charge                                             |
+| Data aktualizacji         | 20230601                                                   |
 
 #### Umiejętność 1 (×3): Saddled Tasks
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gloom | Blunt | 3 | +6 | 1 | +1 | 1 |
-| 3 | Gloom | Blunt | 4 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gloom  | Blunt |          3 |         +6 |      1 |           +1 |    1 |
+|          3 | Gloom  | Blunt |          4 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Inflict 2 [Tremor]
 
@@ -539,10 +539,10 @@ Moneta 1: [On Hit] Inflict 2 [Tremor]
 
 #### Umiejętność 2 (×2): Forced Break
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pride | Blunt | 4 | +4 | 2 | +1 | 1 |
-| 3 | Pride | Blunt | 5 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pride  | Blunt |          4 |         +4 |      2 |           +1 |    1 |
+|          3 | Pride  | Blunt |          5 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Inflict 3 [Tremor]  
 Moneta 2: [On Hit] If target has 5+ [Tremor], inflict 1 Attack Power Down next turn
@@ -558,9 +558,9 @@ Moneta 2: [On Hit] If target has 5+ [Tremor], inflict 1 Attack Power Down next t
 
 #### Umiejętność 3 (×1): Finishing Runup
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Sloth | Blunt | 4 | +2 | 4 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Sloth  | Blunt |          4 |         +2 |      4 |           +1 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [Heads Hit] Gain +1 Charge Count  
 Moneta 1: [On Hit] Inflict 1 [Tremor]  
@@ -583,10 +583,10 @@ When triggering [Tremor Burst], reduce [Tremor] Count by 3, then spend all Charg
 
 #### Obrona: Guard
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 8 | +5 | 1 | +0 | 1 |
-| 4 | Sloth | obrona: blok | 8 | +8 | 1 | +0 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |          8 |         +5 |      1 |           +0 |    1 |
+|          4 | Sloth   | obrona: blok |          8 |         +8 |      1 |           +0 |    1 |
 
 #### Pasywka bojowa: Chronic Fatigue
 
@@ -632,26 +632,26 @@ When recovering from Stagger, heal 5% of Max HP.
 
 > Meursault’s 6th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 95 (+3 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5 |
-| Poziom obrony | poziom +5 |
-| Odporności | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
-| Progi Stagger (HP) | 40% |
-| Grzech wyróżniony | Envy |
-| Przynależność | R_Corp |
-| Słowa kluczowe | Charge, Bleed |
-| Data aktualizacji | 20230713 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 0                                                          |
+| HP                        | 95 (+3 za poziom)                                          |
+| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5                                      |
+| Poziom obrony             | poziom +5                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
+| Progi Stagger (HP)        | 40%                                                        |
+| Grzech wyróżniony         | Envy                                                       |
+| Przynależność             | R_Corp                                                     |
+| Słowa kluczowe            | Charge, Bleed                                              |
+| Data aktualizacji         | 20230713                                                   |
 
 #### Umiejętność 1 (×3): Weighty Bash
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Envy | Blunt | 4 | +6 | 1 | +0 | 1 |
-| 3 | Envy | Blunt | 5 | +6 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Envy   | Blunt |          4 |         +6 |      1 |           +0 |    1 |
+|          3 | Envy   | Blunt |          5 |         +6 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* At 10+ Charge Count, Final Power +1  
 Moneta 1: [Heads Hit] Gain +2 Charge Count
@@ -667,10 +667,10 @@ Moneta 1: [On Hit] Gain +2 Charge Count
 
 #### Umiejętność 2 (×2): Demolish
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gloom | Slash | 4 | +3 | 3 | +0 | 1 |
-| 3 | Gloom | Slash | 5 | +3 | 3 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gloom  | Slash |          4 |         +3 |      3 |           +0 |    1 |
+|          3 | Gloom  | Slash |          5 |         +3 |      3 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Gain +4 Charge Count  
 Moneta 2: [Heads Hit] Inflict +1 Bleed Count  
@@ -689,10 +689,10 @@ Moneta 3: [On Hit] Inflict +1 Bleed Count
 
 #### Umiejętność 3 (×1): Rhino Ram
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Lust | Slash | 6 | +2 | 3 | +0 | 1 |
-| 4 | Lust | Slash | 6 | +3 | 3 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Lust   | Slash |          6 |         +2 |      3 |           +0 |    1 |
+|          4 | Lust   | Slash |          6 |         +3 |      3 |           +0 |    1 |
 
 *Od ulepszenia 1:* [On Use] At 10+ Charge Count, Coin Power +1  
 Moneta 1: [On Hit] Inflict +1 Bleed Count  
@@ -712,10 +712,10 @@ Moneta 2: [On Hit] Spend 3 Charge Count; Inflict +1 Bleed Count
 
 #### Obrona: Bioelectricity Induction
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 12 | +5 | 1 | +5 | 1 |
-| 4 | Envy | obrona: blok | 15 | +5 | 1 | +5 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         12 |         +5 |      1 |           +5 |    1 |
+|          4 | Envy    | obrona: blok |         15 |         +5 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* [On Use] If attacked while shielded, gain +1 Charge Count (Max 10 per turn)
 
@@ -771,26 +771,26 @@ At the end of the turn, 1 ally that has the highest Charge Count gains Max Speed
 
 > Meursault’s 7th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 3 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6 |
-| Poziom obrony | poziom +3 |
-| Odporności | Slash ×2 (Fatal), Pierce ×1 (Normal), Blunt ×0,5 (Endured) |
-| Progi Stagger (HP) | 55% / 20% |
-| Grzech wyróżniony | Envy |
-| Przynależność | Middle_Finger |
-| Słowa kluczowe | Bleed |
-| Data aktualizacji | 20231123 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 00                                                         |
+| Sezon                     | 3                                                          |
+| HP                        | 82 (+2,82 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6                                      |
+| Poziom obrony             | poziom +3                                                  |
+| Odporności                | Slash ×2 (Fatal), Pierce ×1 (Normal), Blunt ×0,5 (Endured) |
+| Progi Stagger (HP)        | 55% / 20%                                                  |
+| Grzech wyróżniony         | Envy                                                       |
+| Przynależność             | Middle_Finger                                              |
+| Słowa kluczowe            | Bleed                                                      |
+| Data aktualizacji         | 20231123                                                   |
 
 #### Umiejętność 1 (×3): We Remember
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Sloth | Blunt | 2 | +4 | 2 | +1 | 1 |
-| 3 | Sloth | Blunt | 3 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Sloth  | Blunt |          2 |         +4 |      2 |           +1 |    1 |
+|          3 | Sloth  | Blunt |          3 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Heads Hit] Inflict 1 Bleed  
 Moneta 2: [Heads Hit] Inflict 1 Bleed
@@ -805,10 +805,10 @@ Moneta 2: [On Hit] Inflict 1 Bleed
 
 #### Umiejętność 2 (×2): Chains of Loyalty
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Envy | Blunt | 3 | +5 | 2 | +1 | 1 |
-| 3 | Envy | Blunt | 4 | +5 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Envy   | Blunt |          3 |         +5 |      2 |           +1 |    1 |
+|          3 | Envy   | Blunt |          4 |         +5 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* [Combat Start] Apply 1 Envy Power Up to 2 allies adjacent to this unit on the Dashboard.  
 Moneta 1: [Heads Hit] Inflict 1 Bleed  
@@ -825,9 +825,9 @@ Moneta 2: [On Hit] Inflict 1 Bleed
 
 #### Umiejętność 3 (×1): Recording
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Wrath | Blunt | 4 | +3 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Wrath  | Blunt |          4 |         +3 |      3 |           +3 |    1 |
 
 *Od ulepszenia 3:* At 4+ Envy Reson., Coin Power +1  
 Moneta 1: [On Hit] If target has Vengeance Mark, inflict 1 Plus Coin Drop next turn  
@@ -840,9 +840,9 @@ Moneta 3: [On Hit] If target has Vengeance Mark, inflict 2 Envy Fragility next t
 
 #### Obrona: Multifold Retribution
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Envy | obrona: kontra | 4 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Envy   | obrona: kontra |          4 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Heads Hit] Inflict 1 Bleed  
 Moneta 2: [Heads Hit] Inflict 1 Bleed
@@ -904,26 +904,26 @@ The 1 ally with the least SP heals 10 SP at Turn End if there is another ally fr
 
 > Meursault’s 8th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 3 |
-| HP | 82 (+2,73 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6 |
-| Poziom obrony | poziom +3 |
-| Odporności | Slash ×0,5 (Endured), Pierce ×1 (Normal), Blunt ×2 (Fatal) |
-| Progi Stagger (HP) | 80% / 20% |
-| Grzech wyróżniony | Pride |
-| Przynależność | Blade_Lineage |
-| Słowa kluczowe | Poise |
-| Data aktualizacji | 20240222 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 3                                                          |
+| HP                        | 82 (+2,73 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6                                      |
+| Poziom obrony             | poziom +3                                                  |
+| Odporności                | Slash ×0,5 (Endured), Pierce ×1 (Normal), Blunt ×2 (Fatal) |
+| Progi Stagger (HP)        | 80% / 20%                                                  |
+| Grzech wyróżniony         | Pride                                                      |
+| Przynależność             | Blade_Lineage                                              |
+| Słowa kluczowe            | Poise                                                      |
+| Data aktualizacji         | 20240222                                                   |
 
 #### Umiejętność 1 (×3): Draw of the Sword
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pride | Slash | 2 | +4 | 2 | +3 | 1 |
-| 3 | Pride | Slash | 3 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pride  | Slash |          2 |         +4 |      2 |           +3 |    1 |
+|          3 | Pride  | Slash |          3 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [On Use] Gain +2 [Poise] Count  
 Moneta 1: [Heads Hit] Gain 1 [Poise]  
@@ -934,7 +934,7 @@ Moneta 2: [Heads Hit] Gain 1 [Poise]
 Moneta 1: [On Hit] Gain 1 [Poise]  
 Moneta 2: [On Hit] Gain 1 [Poise]
 
-*Od ulepszenia 3:* [\<color=#93f13e>[Combat Start]\</color>] Apply 1 [Sword of the Homeland - Rending] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
+*Od ulepszenia 3:* [Combat Start] Apply 1 [Sword of the Homeland - Rending] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
 [On Use] Gain +2 [Poise] Count  
 Moneta 1: [On Hit] Gain 1 [Poise]  
 Moneta 2: [On Hit] Gain 1 [Poise]
@@ -948,10 +948,10 @@ Moneta 2: [On Hit] Gain 1 [Poise]
 
 #### Umiejętność 2 (×2): Acupuncture
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pride | Slash | 2 | +5 | 3 | +3 | 1 |
-| 3 | Pride | Slash | 3 | +5 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pride  | Slash |          2 |         +5 |      3 |           +3 |    1 |
+|          3 | Pride  | Slash |          3 |         +5 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* [On Use] Gain +2 [Poise] Count  
 [Clash Win] Gain 1 Slash Power Up next turn  
@@ -964,7 +964,7 @@ Moneta 3: +30% Damage on Critical Hit
 Moneta 1: [On Hit] Gain 3 [Poise]  
 Moneta 3: +40% Damage on Critical Hit
 
-*Od ulepszenia 3:* [\<color=#93f13e>[Combat Start]\</color>] Apply 1 [Sword of the Homeland - Penetrating] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
+*Od ulepszenia 3:* [Combat Start] Apply 1 [Sword of the Homeland - Penetrating] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
 [On Use] Gain +2 [Poise] Count  
 [Clash Win] Gain 1 Slash Power Up next turn  
 Moneta 1: [On Hit] Gain 3 [Poise]  
@@ -980,9 +980,9 @@ Moneta 3: +60% Damage on Critical Hit
 
 #### Umiejętność 3 (×1): Yield My Flesh
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Wrath | Slash | 20 | −8 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Wrath  | Slash |         20 |         −8 |      1 |           +0 |    1 |
 
 *Od ulepszenia 3:* [On Use] Gain +3 Aggro to this Skill Slot next turn  
 [On Use] Until this Skill ends, this unit cannot be Staggered from taking damage  
@@ -1002,9 +1002,9 @@ Deal +0.5% damage per 1% missing HP on self (Max 25%)
 
 #### Obrona: Overthrow
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Envy | obrona: kontra | 8 | +10 | 1 | +5 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Envy   | obrona: kontra |          8 |        +10 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* [On Use] Gain 1 Slash Power Up next turn (1 time max)  
 Moneta 1: [On Hit] Gain 2 [Poise]
@@ -1015,10 +1015,10 @@ Moneta 1: [On Hit] Gain 2 [Poise]
 
 #### Obrona: To Claim Their Bones
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pride | obrona: kontra | 4 | +3 | 4 | +5 | 1 |
-| 4 | Pride | obrona: kontra | 4 | +4 | 4 | +5 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pride  | obrona: kontra |          4 |         +3 |      4 |           +5 |    1 |
+|          4 | Pride  | obrona: kontra |          4 |         +4 |      4 |           +5 |    1 |
 
 *Od ulepszenia 1:* [Before Attack] At 10+ [Poise], Atk Weight +1  
 [On Use] Until this Skill ends, this unit cannot be Staggered from taking damage  
@@ -1139,27 +1139,27 @@ Combat Start: 1 ally that has the most [Poise] deals +15% damage on Critical Hit
 
 > Meursault’s 9th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 4 |
-| HP | 76 (+2,6 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 4–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom +2 |
-| Odporności | Slash ×0,5 (Endured), Pierce ×2 (Fatal), Blunt ×1 (Normal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | Glut. |
-| Przynależność | Dead_Rabbits |
-| Słowa kluczowe | Rupture |
-| Data aktualizacji | 20240328 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 00                                                         |
+| Sezon                     | 4                                                          |
+| HP                        | 76 (+2,6 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–6 / 4–6 / 4–7 / 4–7                                      |
+| Poziom obrony             | poziom +2                                                  |
+| Odporności                | Slash ×0,5 (Endured), Pierce ×2 (Fatal), Blunt ×1 (Normal) |
+| Progi Stagger (HP)        | 65% / 35%                                                  |
+| Grzech wyróżniony         | Glut.                                                      |
+| Przynależność             | Dead_Rabbits                                               |
+| Słowa kluczowe            | Rupture                                                    |
+| Data aktualizacji         | 20240328                                                   |
 
 #### Umiejętność 1 (×3): Bat Strike
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lust | Blunt | 4 | +5 | 1 | +1 | 1 |
-| 3 | Lust | Blunt | 5 | +5 | 1 | +1 | 1 |
-| 4 | Lust | Blunt | 5 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lust   | Blunt |          4 |         +5 |      1 |           +1 |    1 |
+|          3 | Lust   | Blunt |          5 |         +5 |      1 |           +1 |    1 |
+|          4 | Lust   | Blunt |          5 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Heads Hit] Inflict 2 [Rupture]
 
@@ -1171,10 +1171,10 @@ Moneta 1: [On Hit] Inflict 2 [Rupture]
 
 #### Umiejętność 2 (×2): Smackdown
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Wrath | Pierce | 3 | +5 | 2 | +1 | 1 |
-| 3 | Wrath | Pierce | 4 | +5 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Wrath  | Pierce |          3 |         +5 |      2 |           +1 |    1 |
+|          3 | Wrath  | Pierce |          4 |         +5 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [On Hit] Inflict 2 [Rupture]  
 Moneta 2: [On Hit] If target has 6+ [Rupture], inflict 2 [Offense Level Down]
@@ -1190,9 +1190,9 @@ Moneta 2: [On Hit] If target has 4+ [Rupture], inflict 2 [Offense Level Down]
 
 #### Umiejętność 3 (×1): Relentless
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Glut. | Blunt | 4 | +2 | 4 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Glut.  | Blunt |          4 |         +2 |      4 |           +3 |    1 |
 
 *Od ulepszenia 3:* [On Use] If target has 6+ [Rupture], Coin Power +1  
 [Clash Win] Inflict 2 [Offense Level Down]  
@@ -1207,9 +1207,9 @@ Moneta 4: [On Hit] If target has 6+ [Rupture], inflict 2 [Offense Level Down] ne
 
 #### Obrona: Counter
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Glut. | obrona: kontra | 7 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Glut.  | obrona: kontra |          7 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Inflict 1 [Rupture]
 
@@ -1271,26 +1271,26 @@ When 1 ally with the fastest Speed hits an enemy that has 3+ [Rupture], inflict 
 
 > Meursault’s 10th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6 |
-| Poziom obrony | poziom +2 |
-| Odporności | Slash ×2 (Fatal), Pierce ×1 (Normal), Blunt ×0,5 (Endured) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | Glut. |
-| Przynależność | Dieci |
-| Słowa kluczowe | Sinking |
-| Data aktualizacji | 20240711 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 0                                                          |
+| HP                        | 82 (+2,82 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6                                      |
+| Poziom obrony             | poziom +2                                                  |
+| Odporności                | Slash ×2 (Fatal), Pierce ×1 (Normal), Blunt ×0,5 (Endured) |
+| Progi Stagger (HP)        | 65% / 35%                                                  |
+| Grzech wyróżniony         | Glut.                                                      |
+| Przynależność             | Dieci                                                      |
+| Słowa kluczowe            | Sinking                                                    |
+| Data aktualizacji         | 20240711                                                   |
 
 #### Umiejętność 1 (×3): Studious Dedication
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Glut. | Blunt | 2 | +4 | 2 | +0 | 1 |
-| 3 | Glut. | Blunt | 3 | +4 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Glut.  | Blunt |          2 |         +4 |      2 |           +0 |    1 |
+|          3 | Glut.  | Blunt |          3 |         +4 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* Gain ([Insight] x 3% of Max HP) Shield if this Skill is Discarded  
 [On Use] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots  
@@ -1310,10 +1310,10 @@ Moneta 2: [On Hit] Inflict +2 [Sinking] Count
 
 #### Umiejętność 2 (×2): Moment of Erudition
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Sloth | Pierce | 3 | +6 | 2 | +1 | 1 |
-| 3 | Sloth | Pierce | 4 | +6 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Sloth  | Pierce |          3 |         +6 |      2 |           +1 |    1 |
+|          3 | Sloth  | Pierce |          4 |         +6 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* [Combat Start] Gain [Erudition] equal to [Insight] on self  
 [On Use] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots  
@@ -1333,10 +1333,10 @@ Moneta 2: [On Hit] Inflict [Sinking] equal to ([Insight] x 2)
 
 #### Umiejętność 3 (×1): Scorch Knowledge
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Gloom | Blunt | 4 | +4 | 3 | +3 | 1 |
-| 4 | Gloom | Blunt | 5 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Gloom  | Blunt |          4 |         +4 |      3 |           +3 |    1 |
+|          4 | Gloom  | Blunt |          5 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 3:* Deal +3% damage for every [Insight] on self (max 18%)  
 [On Use] If target has 6+ [Sinking], Coin Power +1  
@@ -1352,10 +1352,10 @@ Moneta 3: [On Hit] Inflict [Sinking] Potency/Count equal to [Insight] value agai
 
 #### Obrona: Fixated Study
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 12 | +5 | 1 | +4 | 1 |
-| 4 | Gloom | obrona: blok | 15 | +5 | 1 | +4 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         12 |         +5 |      1 |           +4 |    1 |
+|          4 | Gloom   | obrona: blok |         15 |         +5 |      1 |           +4 |    1 |
 
 *Od ulepszenia 1:* [On Use] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots
 
@@ -1407,26 +1407,26 @@ If the unit has [Insight], multiply the above Shield value by 1.5
 
 > Meursault’s 11th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 5 |
-| HP | 69 (+2,39 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7 |
-| Poziom obrony | poziom +2 |
-| Odporności | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | Pride |
-| Przynależność | Cinq |
-| Słowa kluczowe | Rupture, Poise |
-| Data aktualizacji | 20241010 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 5                                                          |
+| HP                        | 69 (+2,39 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7                                      |
+| Poziom obrony             | poziom +2                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
+| Progi Stagger (HP)        | 65% / 35%                                                  |
+| Grzech wyróżniony         | Pride                                                      |
+| Przynależność             | Cinq                                                       |
+| Słowa kluczowe            | Rupture, Poise                                             |
+| Data aktualizacji         | 20241010                                                   |
 
 #### Umiejętność 1 (×3): Allez
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pride | Pierce | 2 | +4 | 2 | +2 | 1 |
-| 3 | Pride | Pierce | 3 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pride  | Pierce |          2 |         +4 |      2 |           +2 |    1 |
+|          3 | Pride  | Pierce |          3 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* [On Use] Gain +2 [Poise] Count  
 Moneta 1: [On Hit] Gain +1 [Poise] Count
@@ -1446,10 +1446,10 @@ Moneta 2: [On Hit] If this unit's Speed is faster than the target's, inflict [Ru
 
 #### Umiejętność 2 (×2): Fente
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Glut. | Pierce | 4 | +3 | 3 | +2 | 1 |
-| 3 | Glut. | Pierce | 4 | +4 | 3 | +2 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Glut.  | Pierce |          4 |         +3 |      3 |           +2 |    1 |
+|          3 | Glut.  | Pierce |          4 |         +4 |      3 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Clash Win] Gain +2 [Poise] Count  
 Moneta 1: [On Hit] Gain +1 [Poise] Count  
@@ -1475,10 +1475,10 @@ Moneta 3: [On Hit] At 7+ Speed, inflict +2 [Rupture] Count
 
 #### Umiejętność 3 (×1): Salut
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Gloom | Pierce | 5 | +3 | 3 | +3 | 1 |
-| 4 | Gloom | Pierce | 5 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Gloom  | Pierce |          5 |         +3 |      3 |           +3 |    1 |
+|          4 | Gloom  | Pierce |          5 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 3:* If this unit's Speed is faster than the target's by 2 or more, Coin Power +1  
 [On Use] If target has 15+ [Rupture] and 3+ [Rupture] Count, this Skill does not consume [Rupture] Count On Hit  
@@ -1502,10 +1502,10 @@ Moneta 3: [Attack End] If this Coin defeated the target or destroyed the Part, R
 
 #### Obrona: Défensive
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 4 | +10 | 1 | +2 | 1 |
-| 4 | Gloom | obrona: unik | 4 | +10 | 1 | +2 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: unik |          4 |        +10 |      1 |           +2 |    1 |
+|          4 | Gloom   | obrona: unik |          4 |        +10 |      1 |           +2 |    1 |
 
 *Od ulepszenia 4:* [On Use] If this unit's Speed is faster than the target's by 3 or more, Coin Power +2
 
@@ -1579,26 +1579,26 @@ The fastest ally, on Clash Win, gains 1 [Haste] next turn (2 times per turn)
 
 > Meursault’s 12th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 6 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6 |
-| Poziom obrony | poziom +2 |
-| Odporności | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
-| Progi Stagger (HP) | 65% |
-| Grzech wyróżniony | Sloth |
-| Przynależność | Thumb_Finger |
-| Słowa kluczowe | Burn, Tremor |
-| Data aktualizacji | 20250619 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 6                                                          |
+| HP                        | 82 (+2,82 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6                                      |
+| Poziom obrony             | poziom +2                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
+| Progi Stagger (HP)        | 65%                                                        |
+| Grzech wyróżniony         | Sloth                                                      |
+| Przynależność             | Thumb_Finger                                               |
+| Słowa kluczowe            | Burn, Tremor                                               |
+| Data aktualizacji         | 20250619                                                   |
 
 #### Umiejętność 1 (×3): Double Slash - Blast [爆]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Sloth | Slash | 3 | +4 | 2 | +3 | 1 |
-| 3 | Sloth | Slash | 4 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Sloth  | Slash |          3 |         +4 |      2 |           +3 |    1 |
+|          3 | Sloth  | Slash |          4 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: Spend 1 [Tigermark Round]  
 Moneta 2: [On Hit] Inflict 1 [Tremor]  
@@ -1618,10 +1618,10 @@ Moneta 2: [On Hit] Inflict 2 [Burn]
 
 #### Umiejętność 2 (×2): Triple Slash - Blast [爆]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lust | Slash | 4 | +3 | 3 | +4 | 1 |
-| 3 | Lust | Slash | 4 | +4 | 3 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lust   | Slash |          4 |         +3 |      3 |           +4 |    1 |
+|          3 | Lust   | Slash |          4 |         +4 |      3 |           +4 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: Spend 1 [Tigermark Round]  
 Moneta 2: [On Hit] Inflict 1 [Tremor]  
@@ -1652,10 +1652,10 @@ Moneta 3: [On Hit] If target has 3+ [Tremor] Count, trigger [Tremor Burst]; then
 
 #### Umiejętność 3 (×1): Tanglecleaver [快刀亂麻]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Wrath | Blunt | 4 | +4 | 3 | +5 | 1 |
-| 4 | Wrath | Blunt | 5 | +4 | 3 | +5 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Wrath  | Blunt |          4 |         +4 |      3 |           +5 |    1 |
+|          4 | Wrath  | Blunt |          5 |         +4 |      3 |           +5 |    1 |
 
 *Od ulepszenia 3:* If this unit has [Savage Tigermark Round], activate 'Savage Tigerslayer's Perfected Flurry of Blades' instead  
 - [Before Use] If this unit does not have [Savage Tigermark Round], cancel activation  
@@ -1689,10 +1689,10 @@ Moneta 3: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count 
 
 #### Umiejętność 4 (×0): Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Wrath | Blunt | 2 | +3 | 5 | +6 | 1 |
-| 4 | Wrath | Blunt | 3 | +3 | 5 | +6 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Wrath  | Blunt |          2 |         +3 |      5 |           +6 |    1 |
+|          4 | Wrath  | Blunt |          3 |         +3 |      5 |           +6 |    1 |
 
 *Od ulepszenia 3:* If the main target has 8+ ([Burn] + [Tremor]), Coin Power +1  
 Moneta 1: [On Hit] Inflict 2 [Tremor]  
@@ -1720,10 +1720,10 @@ Moneta 5: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count 
 
 #### Obrona: I'm Burning Up.
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Sloth | obrona: kontra | 4 | +3 | 2 | +3 | 1 |
-| 4 | Sloth | obrona: kontra | 5 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Sloth  | obrona: kontra |          4 |         +3 |      2 |           +3 |    1 |
+|          4 | Sloth  | obrona: kontra |          5 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Clashable Counter]  
 If the main target has 4+ ([Burn] + [Tremor]), Final Power +1  
@@ -1858,26 +1858,26 @@ When 1 ally with the fastest Speed uses a Skill that spends [Ammo], if their Spe
 
 > Meursault’s 13th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 6 |
-| HP | 88 (+3,05 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom +2 |
-| Odporności | Slash ×0,5 (Endured), Pierce ×1 (Normal), Blunt ×2 (Fatal) |
-| Progi Stagger (HP) | 65% |
-| Grzech wyróżniony | Wrath |
-| Przynależność | La_Mancha_Land |
-| Słowa kluczowe | Bleed, Rupture |
-| Data aktualizacji | 20251030 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 6                                                          |
+| HP                        | 88 (+3,05 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7                                      |
+| Poziom obrony             | poziom +2                                                  |
+| Odporności                | Slash ×0,5 (Endured), Pierce ×1 (Normal), Blunt ×2 (Fatal) |
+| Progi Stagger (HP)        | 65%                                                        |
+| Grzech wyróżniony         | Wrath                                                      |
+| Przynależność             | La_Mancha_Land                                             |
+| Słowa kluczowe            | Bleed, Rupture                                             |
+| Data aktualizacji         | 20251030                                                   |
 
 #### Umiejętność 1 (×3): March Conductor
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Envy | Slash | 2 | +2 | 3 | +2 | 1 |
-| 3 | Envy | Slash | 2 | +3 | 3 | +2 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Envy   | Slash |          2 |         +2 |      3 |           +2 |    1 |
+|          3 | Envy   | Slash |          2 |         +3 |      3 |           +2 |    1 |
 
 *Od ulepszenia 1:* [On Use] On self and 1 ally that has the lowest max HP: Consume up to 10 [Bloodfeast] and apply 1 [Hardblood Armor] for every 5 [Bloodfeast] this unit consumed (once per turn; excludes allies that have max Stack)  
 - Prioritizes \<La Manchaland> and \<Bloodfiend>(Higher Kindred) allies  
@@ -1907,10 +1907,10 @@ Moneta 3: [On Hit] Inflict 2 [Bleed]
 
 #### Umiejętność 2 (×2): Responsibility to Rebuild
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pride | Slash | 3 | +4 | 2 | +3 | 1 |
-| 3 | Pride | Slash | 4 | +6 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pride  | Slash |          3 |         +4 |      2 |           +3 |    1 |
+|          3 | Pride  | Slash |          4 |         +6 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [On Use] On self and 1 ally that has the highest max HP: Consume up to 10 [Bloodfeast] and apply 1 [Hardblood Armor] for every 5 [Bloodfeast] this unit consumed (once per turn; excludes allies that have max Stack)  
 - Prioritizes \<La Manchaland> and \<Bloodfiend>(Higher Kindred) allies  
@@ -1945,9 +1945,9 @@ Moneta 2: [On Hit] Inflict 1 [Lust Fragility] next turn (2 times per turn)
 
 #### Umiejętność 3 (×1): Let us wear the coagulated mantle of blood.
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Lust | Slash | 4 | +3 | 4 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Lust   | Slash |          4 |         +3 |      4 |           +4 |    1 |
 
 *Od ulepszenia 3:* On Hit with this Skill: Heal 40% of the HP damage dealt (max 50 per Skill)  
 [Before Use] At 5 [Hardblood Armor], activate "Ouvertüre" instead  
@@ -1982,9 +1982,9 @@ Moneta 4: [On Hit without Cracking] Inflict 1 [La Mancha Parade] next turn
 
 #### Umiejętność 4 (×0): Ouvertüre
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Lust | Slash | 4 | +3 | 4 | +5 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Lust   | Slash |          4 |         +3 |      4 |           +5 |    3 |
 
 *Od ulepszenia 3:* On Hit with this Skill: Heal 50% of the HP damage dealt (max 85 per Skill)  
 [On Use] Clash Power +2 for every 3 [Bleed] on the main target (max 8)  
@@ -2022,10 +2022,10 @@ Moneta 4: [On Hit without Cracking] Gain 1 [Hardblood Armor] next turn for every
 
 #### Obrona: Coagulation
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lust | obrona: kontra | 5 | +3 | 2 | +3 | 1 |
-| 4 | Lust | obrona: kontra | 5 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lust   | obrona: kontra |          5 |         +3 |      2 |           +3 |    1 |
+|          4 | Lust   | obrona: kontra |          5 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Clashable Counter]  
 [Clash Win] Gain 1 [Hardblood Armor] (2 times per turn)  
@@ -2147,27 +2147,27 @@ For the turn, multiply the amount of [Bloodfeast] generated by 1.5 (2 times per 
 
 > Meursault's 14th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | wydarzenie 9108 |
-| HP | 72 (+2,52 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–8 / 4–8 |
-| Poziom obrony | poziom +0 |
-| Odporności | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | Lust |
-| Przynależność | L_Corp |
-| Słowa kluczowe | Burn, Bleed |
-| Data aktualizacji | 20260305 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | wydarzenie 9108                                            |
+| HP                        | 72 (+2,52 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–8 / 4–8                                      |
+| Poziom obrony             | poziom +0                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×0,5 (Endured), Blunt ×2 (Fatal) |
+| Progi Stagger (HP)        | 65% / 35%                                                  |
+| Grzech wyróżniony         | Lust                                                       |
+| Przynależność             | L_Corp                                                     |
+| Słowa kluczowe            | Burn, Bleed                                                |
+| Data aktualizacji         | 20260305                                                   |
 
 #### Umiejętność 1 (×3): Warning Shot
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lust | Pierce | 3 | +3 | 2 | +3 | 1 |
-| 3 | Lust | Pierce | 3 | +4 | 2 | +3 | 1 |
-| 4 | Lust | Pierce | 4 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lust   | Pierce |          3 |         +3 |      2 |           +3 |    1 |
+|          3 | Lust   | Pierce |          3 |         +4 |      2 |           +3 |    1 |
+|          4 | Lust   | Pierce |          4 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: Spend 1 [Spore Round [Base]]  
 Moneta 1: [On Hit] Inflict 2 [Burn]  
@@ -2191,11 +2191,11 @@ Moneta 2: [On Hit] Inflict 2 [Bleed]
 
 #### Umiejętność 2 (×2): E.G.O Alteration - Buckshot
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Wrath | Pierce | 3 | +3 | 3 | +4 | 2 |
-| 3 | Wrath | Pierce | 3 | +4 | 3 | +4 | 2 |
-| 4 | Wrath | Pierce | 4 | +4 | 3 | +4 | 2 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Wrath  | Pierce |          3 |         +3 |      3 |           +4 |    2 |
+|          3 | Wrath  | Pierce |          3 |         +4 |      3 |           +4 |    2 |
+|          4 | Wrath  | Pierce |          4 |         +4 |      3 |           +4 |    2 |
 
 *Od ulepszenia 1:* Deal -50% damage against sub-targets  
 Moneta 1: Spend 1 [Spore Round [Buckshot]]  
@@ -2228,10 +2228,10 @@ Moneta 3: [On Hit] Inflict +1 [Burn] Count
 
 #### Umiejętność 3 (×1): Field Test - Dust Spark
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Wrath | Pierce | 3 | +3 | 4 | +5 | 2 |
-| 4 | Wrath | Pierce | 4 | +3 | 4 | +5 | 2 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Wrath  | Pierce |          3 |         +3 |      4 |           +5 |    2 |
+|          4 | Wrath  | Pierce |          4 |         +3 |      4 |           +5 |    2 |
 
 *Od ulepszenia 3:* Deal +5% damage for every 5 [Spore] on target (max 15%)  
 [On Use] Coin Power +1 for every 6 ([Burn] + [Bleed]) on the main target (max 2)  
@@ -2285,10 +2285,10 @@ Moneta 4: [On Hit] Inflict +1 [Burn] Count and +2 [Bleed] Count
 
 #### Obrona: Spore Germination
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 3 | +10 | 1 | +3 | 1 |
-| 4 | Wrath | obrona: unik | 4 | +10 | 1 | +3 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: unik |          3 |        +10 |      1 |           +3 |    1 |
+|          4 | Wrath   | obrona: unik |          4 |        +10 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Combat Start][Reload [Germination]] (once per turn)  
 [On Evade] Heal 10 HP (once per turn)
@@ -2402,27 +2402,27 @@ Apply the following effects for this turn (2 times per Encounter)
 
 > Meursault’s 15th Identity
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 7 |
-| HP | 69 (+2,39 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7 |
-| Poziom obrony | poziom −1 |
-| Odporności | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
-| Progi Stagger (HP) | 70% / 40% |
-| Grzech wyróżniony | Gloom |
-| Przynależność | Ring_Finger, Ring_Finger_Fauvism |
-| Słowa kluczowe | Bleed, Sinking |
-| Data aktualizacji | 20260416 |
+| Parametr                  | Wartość bazowa                                             |
+| ------------------------- | ---------------------------------------------------------- |
+| Rzadkość                  | 000                                                        |
+| Sezon                     | 7                                                          |
+| HP                        | 69 (+2,39 za poziom)                                       |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7                                      |
+| Poziom obrony             | poziom −1                                                  |
+| Odporności                | Slash ×1 (Normal), Pierce ×2 (Fatal), Blunt ×0,5 (Endured) |
+| Progi Stagger (HP)        | 70% / 40%                                                  |
+| Grzech wyróżniony         | Gloom                                                      |
+| Przynależność             | Ring_Finger, Ring_Finger_Fauvism                           |
+| Słowa kluczowe            | Bleed, Sinking                                             |
+| Data aktualizacji         | 20260416                                                   |
 
 #### Umiejętność 1 (×3): Rough Portrayal
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Wrath | Blunt | 2 | +3 | 2 | +2 | 1 |
-| 3 | Wrath | Blunt | 2 | +4 | 2 | +2 | 1 |
-| 4 | Wrath | Blunt | 3 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Wrath  | Blunt |          2 |         +3 |      2 |           +2 |    1 |
+|          3 | Wrath  | Blunt |          2 |         +4 |      2 |           +2 |    1 |
+|          4 | Wrath  | Blunt |          3 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [On Hit] Inflict 1 [Bleed]  
 Moneta 2: [On Hit] Inflict +1 [Bleed] Count
@@ -2439,11 +2439,11 @@ Moneta 2: [On Hit] Inflict +1 [Sinking] Count
 
 #### Umiejętność 2 (×2): Visceral Strokes
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pride | Blunt | 3 | +3 | 3 | +3 | 1 |
-| 3 | Pride | Blunt | 3 | +4 | 3 | +3 | 1 |
-| 4 | Pride | Blunt | 4 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pride  | Blunt |          3 |         +3 |      3 |           +3 |    1 |
+|          3 | Pride  | Blunt |          3 |         +4 |      3 |           +3 |    1 |
+|          4 | Pride  | Blunt |          4 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* [On Use] If target does not have [Mauled Color [Rouge]], Clash Power +1  
 Moneta 1: [On Hit] Inflict 1 [Bleed]  
@@ -2467,9 +2467,9 @@ Moneta 3: [On Hit] Inflict 1 [Sinking]
 
 #### Umiejętność 3 (×1): Le Fauvisme - Reveal Submission
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Lust | Blunt | 5 | +4 | 3 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Lust   | Blunt |          5 |         +4 |      3 |           +4 |    1 |
 
 *Od ulepszenia 3:* Deal +10% damage for every type of negative effect on target (max 60%)  
 [On Use] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [Unbreakable Coin]s  
@@ -2492,9 +2492,9 @@ Moneta 3: [On Hit] Inflict 1 [Mauled Color [Rouge]]
 
 #### Obrona: Coloring Preparations
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lust | obrona: kontra | 4 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lust   | obrona: kontra |          4 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Clashable Counter]  
 If this unit has [Le Fauvisme - Masque de Chien], Base Power +2  

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_FAMILY_GA].content": {
+      "pl": "Ród Jia",
+      "kr_sha256": "53284377ed5c55737f6a2d3b79dd0f80c90341fb21270e953897627656699596",
+      "en_sha256": "5084b06599fb32f243430c7317a293a22b79be9b5c2aa8b623c03c194f35377a",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FAMILY_GA_CANDIDATE].content": {
+      "pl": "Kandydat na Głowę Rodu",
+      "kr_sha256": "370985c4c889146fa31ff97026a9a98fd780538e47f07001cea531fc765c4427",
+      "en_sha256": "d7eeaeee21ca4080eaeee8b4d23ff9977746c9f570162cf5bda6dc15fdb0b898",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SECOND_DEPENDENT].content": {
+      "pl": "Drugi Pokrewny",
+      "kr_sha256": "aac005109328482e7d5ce3e6bdced2216cd74d0b5adee62279b74af20f44c674",
+      "en_sha256": "f365f795a62e3e4732a31556939f4aca932fe54c69997fd5f3300b527811009b",
+      "origin": "ai"
+    }
+  }
+}

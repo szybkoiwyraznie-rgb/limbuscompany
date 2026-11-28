@@ -1,0 +1,96 @@
+980||SpeechBubbles#BattleSpeechBubbleDlg.json] 진입 저지.|Barring entry.
+981||SpeechBubbles#BattleSpeechBubbleDlg.json] 진입 저지. 격발!|Barring entry. Fire!
+982||SpeechBubbles#BattleSpeechBubbleDlg.json] 갖고 놀기!|... ain't fun...
+983||SpeechBubbles#BattleSpeechBubbleDlg.json] 그렇지...|There we go!
+984||SpeechBubbles#BattleSpeechBubbleDlg.json] 거기까지.|That's close enough.
+985||SpeechBubbles#BattleSpeechBubbleDlg.json] 팔 하나 가져간다.|Lemme blast that arm off of you.
+986||SpeechBubbles#BattleSpeechBubbleDlg.json] 여기가...|There it is...
+987||SpeechBubbles#BattleSpeechBubbleDlg.json] 급소겠군.|... I've struck your vital point.
+988||SpeechBubbles#BattleSpeechBubbleDlg.json] 피를... 피를!|Blood... Blood!
+989||SpeechBubbles#BattleSpeechBubbleDlg.json] 으아아아아!!!|GRAHHHHHH!!!
+990||SpeechBubbles#BattleSpeechBubbleDlg.json] 버러지 같은 놈들...|Die, vermin...
+991||SpeechBubbles#BattleSpeechBubbleDlg.json] 그쪽 방향이 아닐 텐데!|Not from there—you guessed wrong!
+992||SpeechBubbles#BattleSpeechBubbleDlg.json] 빈틈투성이군.|You were full of openings.
+993||SpeechBubbles#BattleSpeechBubbleDlg.json] 스틸레토!|Stiletto...!
+994||SpeechBubbles#BattleSpeechBubbleDlg.json] 앞을 밝히지. 구해야 할 것이 잘 보이도록.|I will brighten the road ahead, so I can have a good view of the lives I must save.
+995||SpeechBubbles#BattleSpeechBubbleDlg.json] 크윽… 잘 보이는군. 내가 구해야 할 자가 누구인지!|Ngh... I see with such clarity... the life I must save!
+996||SpeechBubbles#BattleSpeechBubbleDlg.json] 통상 배터리, 일시 방전!|Standard Battery, temporary discharge!
+997||SpeechBubbles#BattleSpeechBubbleDlg.json] …새벽녘.|... At the crack of dawn...
+998||SpeechBubbles#BattleSpeechBubbleDlg.json] 엉켰을 때… 가장 찬란한 법이지.|Let it tangle... that's what really brings out the shine.
+999||SpeechBubbles#BattleSpeechBubbleDlg.json] 달빛이 밝다한들.|Though stark be the lunar brilliance...
+1000||SpeechBubbles#BattleSpeechBubbleDlg.json] 그믐까지 밝진 않을 터!|Its lambent gleam shall wane with the rise of the dark moon!
+1001||SpeechBubbles#BattleSpeechBubbleDlg.json] 이상쩍이구료...|Is ideal...
+1002||SpeechBubbles#BattleSpeechBubbleDlg.json] 앗... 무게쭝심을 개선해야게써요.|Ah... I muss impwove my balance.
+1003||SpeechBubbles#BattleSpeechBubbleDlg.json] 이야아아아아앗!!!|Hyaaaaah!!!
+1005||SpeechBubbles#BattleSpeechBubbleDlg.json] 미장... 쁠라스.|Mizan... plas.
+1006||SpeechBubbles#BattleSpeechBubbleDlg.json] 제 취향은 아니네요~|Not my taste!
+1008||SpeechBubbles#BattleSpeechBubbleDlg.json] 재료 내놔!!|Gimme yer meats!
+1009||SpeechBubbles#BattleSpeechBubbleDlg.json] 으으... 아래몸은 징그러.|Ewwie~ Gross!
+1011||SpeechBubbles#BattleSpeechBubbleDlg.json] 쩌를 봐주십시오. 원짱님!|Wiwness me, Executive Teach!
+1012||SpeechBubbles#BattleSpeechBubbleDlg.json] 벌레... 아니야!|Am not... buggy!
+1013||SpeechBubbles#BattleSpeechBubbleDlg.json] 사라져라...! 읏, 크윽...|Begone...! Ngh, agh...
+1014||SpeechBubbles#BattleSpeechBubbleDlg.json] 하... 아르카나 비트.|*sigh* Arcana Beats.
+1015||SpeechBubbles#BattleSpeechBubbleDlg.json] 총알값 아까울 놈은 아니군.|At least it wouldn't be a waste to spend my bullets on you.
+1016||SpeechBubbles#BattleSpeechBubbleDlg.json] 전력으로 상대하마.|Prepare to meet my unbridled might.
+1017||SpeechBubbles#BattleSpeechBubbleDlg.json] 대검... 방호!|Greatsword... Guard!
+1018||SpeechBubbles#BattleSpeechBubbleDlg.json] 그림자 없는 햇살은 없으니, 이 그늘 또한 기꺼이 받아낼 뿐.|No sun has ever risen without a shadow cast.\nSo this shade, too, shall I accept.
+1019||SpeechBubbles#BattleSpeechBubbleDlg.json] ...이상이오. 행색이 이상하나, 그럼에도 이상이오. 내가 맞소. 내가... 아씨의 이상을 함께 좇던, 호위 이상이오.|... It is I, Yi Sang. Odd may be my appearance, yet Yi Sang I remain. It is I, Little Miss—the guard who galloped with you toward your ideal.
+1020||SpeechBubbles#BattleSpeechBubbleDlg.json] 내 앞을 달리시오. 아씨라면, 능히 그리할 수 있소.|Run ahead of me, Little Miss. For you, such an endeavor is well within the realm of possibility.
+1021||SpeechBubbles#BattleSpeechBubbleDlg.json] 모든 것에 견뎠소.|I have endured it all.
+1022||SpeechBubbles#BattleSpeechBubbleDlg.json] 겹겹의 중문. 뚫어보이겠소!|Doors upon doors of structures shall I break through!
+1023||SpeechBubbles#BattleSpeechBubbleDlg.json] 무아몽중|Wading through a dream, the self nowhere to be found (無我夢中).
+1025||SpeechBubbles#BattleSpeechBubbleDlg.json] 지리멸렬|Severed and torn until even the form is undone (支離滅裂).
+1026||SpeechBubbles#BattleSpeechBubbleDlg.json] 내내 유쾌하게. 그대는 선택받았으니.|Mirthfully throughout. You are chosen, after all.
+1027||SpeechBubbles#BattleSpeechBubbleDlg.json] ...하핫. 딸 아이도 이 상처를 기억하고 있으면 좋겠구료.|... Haha. Quite a delight it would indeed be if my darling daughter remembered how this wound came to rest upon me.
+1028||SpeechBubbles#BattleSpeechBubbleDlg.json] 핫. 딸아이도 이 상처를 기억할지.|Hah. Would my daughter remember this keepsake of a burn?
+1029||SpeechBubbles#BattleSpeechBubbleDlg.json] 격정의 마음을 모방하겠소.|Simulate the fervor and the passion.
+1030||SpeechBubbles#BattleSpeechBubbleDlg.json] 재현 종료.|Mirrored and executed.
+1031||SpeechBubbles#BattleSpeechBubbleDlg.json] (비프음) 헤르메스의 의지.|*beep* The Will of Hermes.
+1032||SpeechBubbles#BattleSpeechBubbleDlg.json] 내내 격정적으로.|Sempre furioso.
+1033||SpeechBubbles#BattleSpeechBubbleDlg.json] 아, 돈키호테... (비프음) 그래. 이번 전투를 잘 마치면... 칭찬해주겠소.|Ah, Don Quixote... *beep* Yes, should this battle conclude well enough... You shall deserve my praise.
+1034||SpeechBubbles#BattleSpeechBubbleDlg.json] 셋째.|Marks the third.
+1035||SpeechBubbles#BattleSpeechBubbleDlg.json] 여섯째.|Marks the sixth.
+1036||SpeechBubbles#BattleSpeechBubbleDlg.json] 아홉째. 완료.|Marks the ninth. Executed.
+1037||SpeechBubbles#BattleSpeechBubbleDlg.json] 틈새에 잠복하여|Concealment within rifts.
+1038||SpeechBubbles#BattleSpeechBubbleDlg.json] 좌표를 갱신하였소.|The recalibrated coordinates.
+1039||SpeechBubbles#BattleSpeechBubbleDlg.json] 도약 성공.|And a consummate leap.
+1040||SpeechBubbles#BattleSpeechBubbleDlg.json] 사색의 차원을 반추하겠소.|Ruminate upon the dimensions of quadricolor reflections.
+1041||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 이상의 이상은|Any oddity beyond is at odds with the odd rules with which I deal;
+1042||SpeechBubbles#BattleSpeechBubbleDlg.json] 이상적이지 못한 규정의 위반이오.|a shame your zeal is, at its heart, most unideal.
+1043||SpeechBubbles#BattleSpeechBubbleDlg.json] 근면은 근로를 면치 못하오.|Diligence earns no deliverance from drudgery.
+1044||SpeechBubbles#BattleSpeechBubbleDlg.json] 거듭되는출근반복.|<size=150%>R</size>ECURRING<size=150%>A</size>RRIVAL<size=150%>F</size>OR<size=150%>W</size>ORK<size=150%>R</size>ECURS.
+1045||SpeechBubbles#BattleSpeechBubbleDlg.json] 경고.|<size=150%>W</size>ARNING.
+1046||SpeechBubbles#BattleSpeechBubbleDlg.json] 반드시 적중합니다.|This arrow will strike true.
+1047||SpeechBubbles#BattleSpeechBubbleDlg.json] 일사절명(一射絶命).|One arrow to sever a life (一射絶命).
+1048||SpeechBubbles#BattleSpeechBubbleDlg.json] …조준 중입니다.|... Taking aim.
+1049||SpeechBubbles#BattleSpeechBubbleDlg.json] 적기를 기다리고 있습니다.|On standby for the opportunity.
+1050||SpeechBubbles#BattleSpeechBubbleDlg.json] 지령대로 움직일 뿐입니다.|We simply obey our Prescript.
+1051||SpeechBubbles#BattleSpeechBubbleDlg.json] 굳이 직접 목격하지 않아도 느낄 수 있겠죠.|I need not see to sense the Will that guides me.
+1052||SpeechBubbles#BattleSpeechBubbleDlg.json] 죽는 것도 사는 것도 지령의 뜻. 두렵지 않습니다.|Life and death all follow the plan of the Prescript. I have no fear.
+1053||SpeechBubbles#BattleSpeechBubbleDlg.json] 지령이 이끄는 대로...|As the Prescript orders...
+1054||SpeechBubbles#BattleSpeechBubbleDlg.json] 지령의 뜻이니, 유감은 없으시길.|It was by the Will of the Prescript. You need not rue this.
+1055||SpeechBubbles#BattleSpeechBubbleDlg.json] 보여드려야겠군요. 외면의 예술을.|Allow me to show you—the art of the exterior.
+1056||SpeechBubbles#BattleSpeechBubbleDlg.json] 반달리즘은 사절이랍니다.|I do not appreciate acts of vandalism.
+1057||SpeechBubbles#BattleSpeechBubbleDlg.json] 항상, 저의 영감을 일깨워주시는군요...!|As always, you spark such inspiration within me, Maestro!
+1058||SpeechBubbles#BattleSpeechBubbleDlg.json] 마저 태우겠습니다.|Proceeding with the incineration of what remains.
+1059||SpeechBubbles#BattleSpeechBubbleDlg.json] 잘 했습니다. 보충하죠.|Well done. I will lend you support.
+1060||SpeechBubbles#BattleSpeechBubbleDlg.json] 나머지는 제가.|Please leave the rest to me.
+1061||SpeechBubbles#BattleSpeechBubbleDlg.json] 반응형 사출.|Reactive ejection.
+1062||SpeechBubbles#BattleSpeechBubbleDlg.json] 전부 조각내두죠.|Sectioning every target into pieces.
+1063||SpeechBubbles#BattleSpeechBubbleDlg.json] 지령에게 불확실한 것은 없네.|The Prescript hath no uncertainties.
+1064||SpeechBubbles#BattleSpeechBubbleDlg.json] 절대적.|Absolute.
+1065||SpeechBubbles#BattleSpeechBubbleDlg.json] 필연적.|Inevitable.
+1066||SpeechBubbles#BattleSpeechBubbleDlg.json] 결정, 해금, 초월.|Decide. Unlock. Transcend.
+1067||SpeechBubbles#BattleSpeechBubbleDlg.json] 미래를 과거와 같이.|Let the future be like the past.
+1068||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 뜻을 해금하겠네.|Unlock the Will.
+1069||SpeechBubbles#BattleSpeechBubbleDlg.json] 대행완료.|The procuration hath been done.
+1070||SpeechBubbles#BattleSpeechBubbleDlg.json] 운명적인 죽음일세.|'Tis destined death.
+1071||SpeechBubbles#BattleSpeechBubbleDlg.json] 섬광!|Radiance!
+1073||SpeechBubbles#BattleSpeechBubbleDlg.json] 신벌을 고하겠다!|... Divine punishment shall smite thee!
+1074||SpeechBubbles#BattleSpeechBubbleDlg.json] 그대의 죄, 한없이 무거우므로.|Boundless is the weight of thy sins...
+1075||SpeechBubbles#BattleSpeechBubbleDlg.json] 산산이 조각내리라!|... and in the end, shatter it!
+1076||SpeechBubbles#BattleSpeechBubbleDlg.json] 거듭 내리쳐, 삶을 부수고|With each smite I shall fracture thy life...
+1077||SpeechBubbles#BattleSpeechBubbleDlg.json] 약속된 안식을.|The promised respite.
+1078||SpeechBubbles#BattleSpeechBubbleDlg.json] 내키진 않으나, 도리가 없군. 삿된 자여. 잠시 그대의 심판을 유예하겠노라.|Mm... Thoroughly unpleasant this may be, yet it must be observed. O profane one, I shall stay thy judgment for the present.
+1079||SpeechBubbles#BattleSpeechBubbleDlg.json] 쐐기, 사출!|Wedge, ejection!
+1080||SpeechBubbles#BattleSpeechBubbleDlg.json] 꿰뚫어주겠네!|I shall see thee skewered!

@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=41].name": {
+      "pl": "??",
+      "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
+      "origin": "ai"
+    },
+    "dataList[id=42].name": {
+      "pl": "??",
+      "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
+      "origin": "ai"
+    }
+  }
+}

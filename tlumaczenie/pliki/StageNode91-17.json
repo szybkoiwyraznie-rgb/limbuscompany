@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=911701].title": {
+      "pl": "6. Noc Walpurgii",
+      "kr_sha256": "25ee76f48add44b3b52659df636ce7dc86cfc2cb176d366af7a79d23b1ac2855",
+      "en_sha256": "4908287ae31f24a4991d08ff86196f1001e302dff34ee310a39dbf49aa010019",
+      "origin": "ai"
+    },
+    "dataList[id=911703].title": {
+      "pl": "6. Noc Walpurgii",
+      "kr_sha256": "25ee76f48add44b3b52659df636ce7dc86cfc2cb176d366af7a79d23b1ac2855",
+      "en_sha256": "4908287ae31f24a4991d08ff86196f1001e302dff34ee310a39dbf49aa010019",
+      "origin": "ai"
+    }
+  }
+}

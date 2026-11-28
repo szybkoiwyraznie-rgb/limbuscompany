@@ -1,0 +1,79 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "O! Tuś się podział, mości druhu! Masz, to dla ciebie!",
+      "kr_sha256": "fc7015aa3519e119e5c2056030c1ae73e0356de2c6a9c0e70fb2c85693682be6",
+      "en_sha256": "162d8c8ee4129a680bc194deb35e189f6d39f3a25f103ec26bf59608df483270"
+    },
+    "dataList[id=10].content": {
+      "pl": "Strach i niepokój kazały dziecku się zawahać…",
+      "kr_sha256": "1e523bf968c7ef44d68a4eb581284793ed473d66966741568107b12cb21f263c",
+      "en_sha256": "196d2f7ce326494f0c530fe91913977c4ee120f71ce38c7e6fd8fca2ca39a4c2"
+    },
+    "dataList[id=11].content": {
+      "pl": "Stać tak bezczynnie to wbrew credo Zwei!",
+      "kr_sha256": "30bdd4b75c31e9d466396bfbf11a6a10d9f2bf52d4492beb88e26b47e9bd0604",
+      "en_sha256": "587cdc96756d6279f216cbcd431cd2e477bc2e66d9ea15471cd62dae8c6f7ba0"
+    },
+    "dataList[id=12].content": {
+      "pl": "Na te słowa dziecku przypomniało się nagle to, co samo powiedziało na egzaminie.",
+      "kr_sha256": "2f9292a5967f6bf543bb47679ae8c3980862d7c0583af675d2fa3a2b35853d7b",
+      "en_sha256": "fbecece389f0c5042e04ecf776ce18c09e7ca0e0a30720e2ba64a35ea1607026"
+    },
+    "dataList[id=13].content": {
+      "pl": "Skinęło więc cicho głową i powiedziało:",
+      "kr_sha256": "2d7a513af117c3dfb4a8e1b572538e3351048a949920b5afc3f22448a3524745",
+      "en_sha256": "eef3701a743bb7674538f4a6ca4e5c8fc6a816263caa1d4c4bdd8697bec7770b"
+    },
+    "dataList[id=14].content": {
+      "pl": "Tak… Przecież jesteśmy tarczą klienta.",
+      "kr_sha256": "8d76f585df51ac1e95ae7b394a6e7dc80967f926cebf4af503bafbc6fdcda3a3",
+      "en_sha256": "01023768819631d996dcdbfaa3d4a3bd022a288f84439f32c8412b83bdb2ac70"
+    },
+    "dataList[id=1].content": {
+      "pl": "Ciii… Ciszej, proszę! …Herbata z mlekiem? D-dziękuję…",
+      "kr_sha256": "cac7fc9c8140e6dd078cd1800ea69a68e40df5f1480051394cb118a3918c2110",
+      "en_sha256": "7849125593f07e43be8e88461a081e44861beab8b8bc4030333f2e44c2ebb9bf"
+    },
+    "dataList[id=2].content": {
+      "pl": "Dziecko podchodziło do egzaminu wstępnego do Stowarzyszenia.",
+      "kr_sha256": "073d13489021c9f0807348c0e899811a9706a0c3cfff210517a0730e960c556c",
+      "en_sha256": "c8953d002a5cba7d7b8c59eb23a5275a538cb4ca1994f5416f1987869ce00ff0"
+    },
+    "dataList[id=3].content": {
+      "pl": "Najpierw przechodzi się szkolenie w Stowarzyszeniu, a potem na uproszczonym zleceniu sprawdza się, czy kandydat nadaje się na Fiksera pracującego bezpośrednio dla Stowarzyszenia.",
+      "kr_sha256": "aa438253f4d426526274d43b76f7584716a7edd768f1d2a7a9a61f3dd987057a",
+      "en_sha256": "0860cbd7df0db29fb09729afbb0fce97fb81d39b026b1900daad5fe94250ee25"
+    },
+    "dataList[id=4].content": {
+      "pl": "A więc to ta ważna persona, której mamy strzec?",
+      "kr_sha256": "01fd4842994bd930518fe06ad4f313003ffc7c8a15ecb354f2ef6672de167e44",
+      "en_sha256": "448a56516e575f237866194b4e9950c50145a9a88af2e3c372e20b7283b2d8b2"
+    },
+    "dataList[id=5].content": {
+      "pl": "…Wie o tym każdy w Mieście: stopniami i licencjami Fikserów zarządza Stowarzyszenie Hana.",
+      "kr_sha256": "d386a8932c91f06858ba8cfe0f7aa53ec9443ddd7d726cbb01964b75e2e22ac5",
+      "en_sha256": "9dff9d624d805a19441b98f81aa2da79c6197b81363e9291e3dc48b80ba37bff"
+    },
+    "dataList[id=6].content": {
+      "pl": "Co nie znaczy, że Hana sama przeprowadza wszystkie egzaminy.",
+      "kr_sha256": "c9cdead9539f4f715d0918e7b1348e5b1fb7e21a53b3167d6c7949ff6391e0c8",
+      "en_sha256": "9f05d403d755f844b5ec6d160015705ad47072d1a6ac6fcd2d4f66887f2976bb"
+    },
+    "dataList[id=7].content": {
+      "pl": "Każde Stowarzyszenie samo organizuje egzaminy, a wyniki zgłasza Hanie.",
+      "kr_sha256": "81a7bf36c2531e06a80c7f5c1c75a945542297ec08b5055ef1324cb33953f7c8",
+      "en_sha256": "48b1cdb998de7507c3fc625be93871c4beaae13c4511c644379cc7eb20a8d4b3"
+    },
+    "dataList[id=8].content": {
+      "pl": "I tak dziecko przystąpiło do egzaminu wstępnego w Stowarzyszeniu Zwei…",
+      "kr_sha256": "6fbdb60a4d32712c890b1bafd35e0951e4a05b08262fe5823988f4305127266d",
+      "en_sha256": "65ebdf425673971225259183b02732d9f2bc9d36aa802f86b5b2736862fbb98e"
+    },
+    "dataList[id=9].content": {
+      "pl": "…i nagle zobaczyło, jak ważna persona, której mieli strzec, wplątuje się w awanturę.",
+      "kr_sha256": "87bc0f552eebb153050ea3f8136f6df0a476eb8493bf9faa1707b6c9468f720f",
+      "en_sha256": "5c0be824876c408644bfd43327bec3942806c0e9771c610055e9ca2db317b7d3"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+428||Pasywka wroga [9103201] — nazwa] 잔해 제거|Debris Removal
+429||Pasywka wroga [9103201] — opis] 속도가 1로 고정되며, [NetherseaBrandUnit]이 등장할 수 있는 전투에서 비활성화 상태로 배치됨\n\n전장에 [NetherseaBrandUnit]이 등장하면 활성화되어 피해를 받을 수 있는 상태로 변경됨\n- 피해를 받아 체력이 1이 되면, 성도의 손이 가동되어 전장의 [NetherseaBrandUnit]을 전부 제거. 이 효과 발동 시, 다음 턴 동안 성도의 손이 비활성화됨\n- 자신을 메인 타겟으로 한 스킬의 피해만 받으며, 그 외의 피해를 받지 않음\n- 비활성화 상태가 되면 보유한 효과를 전부 제거하고 체력이 최대로 변경|This unit's Speed is fixed to 1. Spawns in an inactive state in battles that [NetherseaBrandUnit] may appear.\n\nWhen [NetherseaBrandUnit] appears on the battlefield, this unit becomes active and damageable.\n- When this unit's HP drops to 1 from damage, trigger Hand of the Saint and remove all [NetherseaBrandUnit] from the battlefield. When this effect triggers, Hand of the Saint becomes inactive for the next turn.\n- This unit takes damage only from Skills mainly targeting this unit, and it takes no other damage.\n- When it becomes inactive, it removes all effects from self and heals back to max HP.
+430||Pasywka wroga [9103201] — podsumowanie] 전장의 [NetherseaBrandUnit]을 전부 제거|Remove all [NetherseaBrandUnit] on the battlefield
+431||Wróg / część [6002] — nazwa] 흑운회 제3조장 미네|Mine, Patriarch of the Kurokumo Clan's Third Family
+432||Wróg / część [8001] — nazwa] 흑단여왕의 사과|Ebony Queen's Apple
+434||Wróg / część [800101] — nazwa] 열매|Fruit
+436||Wróg / część [800102] — nazwa] 왼쪽 줄기|Left Stem
+438||Wróg / część [800103] — nazwa] 오른쪽 줄기|Right Stem
+440||Wróg / część [800104] — nazwa] 뿌리|Roots
+442||Wróg / część [90004] — nazwa] 숫자 세는 불한당|Number-nuts Hooligan
+443||Wróg / część [90004] — opis] 적 잡몹|Enemy Unit
+444||Wróg / część [90005] — nazwa] 예리한 불한당|Sharp Hooligan
+446||Wróg / część [90006] — nazwa] 허기진 불한당|Famished Hooligan
+448||Wróg / część [90007] — nazwa] 대가리 불한당|Head Hooligan
+450||Wróg / część [90008] — nazwa] 화난 패잔병|Fiery Veteran
+452||Wróg / część [90009] — nazwa] 의아한 패잔병|Puzzled Veteran
+454||Wróg / część [90010] — nazwa] 허름한 패잔병|Scruffy Veteran
+456||Wróg / część [90011] — nazwa] 야비한 패잔병|Crooked Veteran
+458||Wróg / część [90012] — nazwa] 입이 험한 패잔병|Vulgar Veteran
+460||Wróg / część [90013] — nazwa] 날이 선 패잔병|Razor-sharp Veteran
+462||Wróg / część [90001] — nazwa] 강해진 패잔병|Hardened Veteran
+464||Wróg / część [90002] — nazwa] 짙어진 패잔병|Downcast Veteran
+466||Wróg / część [90003] — nazwa] 모질어진 패잔병|Embittered Veteran
+468||Wróg / część [90014] — nazwa] 기억속 어긋난 패잔병|Recollected Awry Soldier
+470||Wróg / część [90015] — nazwa] 기억속 절망하는 패잔병|Recollected Wallowing Soldier
+472||Wróg / część [90016] — nazwa] 기억속 침식된 패잔병|Recollected Overtaken Soldier
+474||Wróg / część [91001] — nazwa] 옛 G사 부장|Old G Corp. Head Manager
+475||Wróg / część [91001] — opis] 적 보스|Enemy Boss
+476||Wróg / część [91002] — nazwa] 기억속 짓물린 G사 부장|Recollected Festered G Corp. H. Manager
+478||Wróg / część [8901] — nazwa] 탐식 죄종|Peccatulum Gulae
+482||Wróg / część [8006] — nazwa] 나태 죄종|Peccatulum Pigritiae
+484||Wróg / część [8007] — nazwa] 분노 죄종|Peccatulum Irae
+486||Wróg / część [8002] — nazwa] 종말 달력|Doomsday Calendar
+494||Wróg / część [8003] — nazwa] 종말 토우|Doomsday Clay Doll
+496||Wróg / część [8004] — nazwa] 불타는 종말 토우|Burning Clay Doll
+498||Wróg / część [8008] — nazwa] 황금빛의 사과|Golden Apple
+500||Wróg / część [8009] — nazwa] 거짓 사과|False Apple
+502||Wróg / część [8010] — nazwa] 나 강해졌나? 정말?|Become Strong? Genuinely?
+504||Wróg / część [8011] — nazwa] 나 세졌어! 진짜?|Grown Powerful! For Realsies?
+506||Wróg / część [8012] — nazwa] 너 맞아볼래? 매우?|You Want To Get Beat? Hurtily?
+508||Wróg / część [8013] — nazwa] 매혹하는 분홍신|Pink Shoes Enchantee
+510||Wróg / część [8014] — nazwa] 홀리는 분홍신|Pink Shoes Possessee
+512||Wróg / część [8015] — nazwa] 또각또각? 걸어!|Clippity-cloppity? Tap Away!
+514||Wróg / część [8016] — nazwa] 우울 죄종|Peccatulum Morositatis
+516||Wróg / część [8017] — nazwa] 색욕 죄종|Peccatulum Luxuriae
+518||Wróg / część [8018] — nazwa] 오만 죄종|Peccatulum Superbiae
+520||Wróg / część [8019] — nazwa] 잠에서 깬 이웃|Slumber-broken Neighbor
+522||Wróg / część [8020] — nazwa] 다시 일어난 이웃|Rearisen Neighbor
+524||Wróg / część [8021] — nazwa] 얼어가는 광산 노예|Freezing Miner Slave
+526||Wróg / część [8022] — nazwa] 추워하는 광산 노예|Shivering Miner Slave
+528||Wróg / część [8023] — nazwa] 바바 야가|Baba Yaga
+530||Wróg / część [8024] — nazwa] 나아가려 하는 이단심문관|Proceeding Inquisitor
+532||Wróg / część [8025] — nazwa] 네 발 짐승|Four-legged Beast
+534||Wróg / część [8026] — nazwa] 모든 것이 있는 이단 심문관|Everything There of an Inquisitor
+536||Wróg / część [8027] — nazwa] 기어다니는 이단 심문관|Crawling Inquisitor
+538||Wróg / część [8028] — nazwa] 꿈틀거리는 이단 심문관|Slithering Inquisitor
+540||Wróg / część [8029] — nazwa] 크로머|Kromer
+542||Wróg / część [8030] — nazwa] 온전한 인간을 꿈꾸는 크로머|Kromer the Dreamer of Human Wholeness
+544||Wróg / część [8031] — nazwa] 단수어|Headless Ichthys
+546||Wróg / część [8032] — nazwa] 골목파수견|Alleyway Watchdog
+548||Wróg / część [890101] — nazwa] 몸통|Body
+556||Wróg / część [800201] — nazwa] 왼팔|Left Arm
+558||Wróg / część [800202] — nazwa] 오른팔|Right Arm
+560||Wróg / część [800203] — nazwa] 얼굴|Face
+562||Wróg / część [800301] — nazwa] 머리|Head
+572||Wróg / część [800903] — nazwa] 다리|Legs
+628||Wróg / część [803003] — nazwa] 큰입|Maw
+634||Wróg / część [803102] — nazwa] 오른다리|Right Leg
+636||Wróg / część [803103] — nazwa] 왼다리|Left Leg
+638||Wróg / część [803104] — nazwa] 꼬리|Tail
+642||Wróg / część [803202] — nazwa] 전봇대|Telepole
+644||Wróg / część [803203] — nazwa] 사람|Person
+648||Wróg / część [90017] — nazwa] 촌스러운 말투의 콩콩이파 조직원|Rustic-sounding Tingtanger
+650||Wróg / część [90018] — nazwa] 세 보이고 싶었던 콩콩이파 조직원|Chest-puffing Tingtanger
+652||Wróg / część [90019] — nazwa] 콩을 싫어하는 콩콩이파 조직원|Bean-hating Tingtanger
+654||Wróg / część [91003] — nazwa] 콩콩이파 보스|Tingtang Boss
+656||Wróg / część [90020] — nazwa] 각 잡힌 카지노 경호원|Rigid Casino Security
+658||Wróg / część [90021] — nazwa] 자신있는 카지노 경호원|Confident Casino Security
+660||Wróg / część [90022] — nazwa] 마음 다잡는 카지노 경호원|Collected Casino Security
+662||Wróg / część [90023] — nazwa] 카지노 경호원 대장|Casino Security Chief
+664||Wróg / część [90024] — nazwa] 흥겨운 마리아치 조직원|Mariachi Alegre
+666||Wróg / część [90025] — nazwa] 경쾌한 마리아치 조직원|Mariachi Vivaz
+668||Wróg / część [91004] — nazwa] 아이드|Aida
+670||Wróg / część [90026] — nazwa] 위협적인 철공회 조직원|Threatening Tieqiu Crewman
+672||Wróg / część [90027] — nazwa] 몸 푸는 철공회 조직원|Flexing Tieqiu Crewman
+674||Wróg / część [90028] — nazwa] 침착한 K사 검문소 요원|Calm K Corp. Checkpoint Security
+676||Wróg / część [90029] — nazwa] 말없는 K사 검문소 요원|Quiet K Corp. Checkpoint Security
+678||Wróg / część [90030] — nazwa] 우직한 K사 검문소 요원|Stern K Corp. Checkpoint Security
+680||Wróg / część [90031] — nazwa] 든든한 K사 검문소 요원|Reliable K Corp. Checkpoint Security
+682||Wróg / część [90032] — nazwa] 받드는 N사 이단 심문관|Servile N Corp. Inquisitor
+684||Wróg / część [90033] — nazwa] 따르는 N사 이단 심문관|Compliant N Corp. Inquisitor
+686||Wróg / część [90034] — nazwa] 섬기는 N사 이단 심문관|Worshipping N Corp. Inquisitor
+688||Wróg / część [90035] — nazwa] 고문하는 N사 이단 심문관|Scourging N Corp. Inquisitor
+690||Wróg / część [90036] — nazwa] 심문에 능한 N사 이단 심문관|Interrogative N Corp. Inquisitor
+692||Wróg / część [90037] — nazwa] 고통을 즐기는 N사 이단 심문관|Sadistic N Corp. Inquisitor
+694||Wróg / część [90038] — nazwa] 집착하는 N사 이단 심문관|Obsessive N Corp. Inquisitor
+696||Wróg / część [90039] — nazwa] 으뜸 기쁨의 N사 이단 심문관|Joyous N Corp. Inquisitor
+698||Wróg / część [90040] — nazwa] 두려움 없는 N사 이단 심문관|Fearless N Corp. Inquisitor
+700||Wróg / część [91005] — nazwa] 집념의 귀도|Guido the Persistent
+740||Wróg / część [90041] — nazwa] 노예|Slave
+742||Wróg / część [8033] — nazwa] 꿈틀거리는 짐승|Wriggling Beast
+992||Wróg / część [90042] — nazwa] 혼란스런 K사 검문소 요원|Confused K Corp. Checkpoint Security
+994||Wróg / część [90043] — nazwa] 정신없는 K사 검문소 요원|Swamped K Corp. Checkpoint Security
+996||Wróg / część [90044] — nazwa] 어지러운 K사 검문소 요원|Hazed K Corp. Checkpoint Security
+998||Wróg / część [90045] — nazwa] 앞이 캄캄한 K사 검문소 요원|Stunned K Corp. Checkpoint Security
+1000||Wróg / część [8034] — nazwa] 닭도리 - a.k.a 봉이|Headchicken a.k.a. Bongy
+1016||Wróg / część [8038] — nazwa] 봉이 아빠|Papa Bongy
+1024||Wróg / część [803902] — nazwa] 닭통|Chicken Bucket
+1026||Wróg / część [8040] — nazwa] 매워진 봉이 아빠|Spiced-up Papa Bongy
+1032||Wróg / część [8041] — nazwa] 놋쇠 황소 - 눈물 흘리는|Brazen Bull - Tearful
+1038||Wróg / część [8042] — nazwa] K사 촬영 드론|K Corp. Filming Drone
+1042||Wróg / część [8043] — nazwa] 로보토미 E.G.O::여우비 - 동백|Lobotomy E.G.O::Sunshower - Dongbaek
+1046||Wróg / część [8044] — nazwa] 동백 E.G.O::동백|Dongbaek E.G.O::Spicebush
+1050||Wróg / część [8045] — nazwa] 충격지네|Shock Centipede
+1056||Wróg / część [8046] — nazwa] 떠돌이 여우|Drifting Fox
+1062||Wróg / część [8047] — nazwa] 누구도 울지 않도록|So That No One Will Cry
+1068||Wróg / część [8048] — nazwa] 신사 요정|Fairy Gentleman
+1074||Wróg / część [8049] — nazwa] 모든 것을 부정하는 동랑|Dongrang, Who Denies All
+1076||Wróg / część [8050] — nazwa] 개화 E.G.O::마름|Effloresced E.G.O::Farmwatch
+1078||Wróg / część [8051] — nazwa] 요정주|Fairy Wine
+1080||Wróg / część [805101] — nazwa] 술통|Wine Barrel
+1082||Wróg / część [8052] — nazwa] 낡은 우산|Old Umbrella
+1084||Wróg / część [805201] — nazwa] 우산|Umbrella
+1090||Wróg / część [8054] — nazwa] 곧 피어날 꽃|Soon-to-bloom Flower
+1092||Wróg / część [805401] — nazwa] 봉우리|Bud
+1096||Wróg / część [90047] — nazwa] 조잡한 톱니 기계 로봇|Crude Sawblade Bot
+1098||Wróg / część [90048] — nazwa] 조잡한 철공 기계 로봇|Crude Wrecking Ball Bot
+1100||Wróg / część [90049] — nazwa] 완성된 톱니 기계 로봇|Complete Sawblade Bot
+1102||Wróg / część [90050] — nazwa] 완성된 철공 기계 로봇|Complete Wrecking Ball Bot
+1104||Wróg / część [91007] — nazwa] 단단한 복합 기계 로봇|Solid Combined Bot
+1106||Wróg / część [90051] — nazwa] 자신있는 장미스패너 공방 해결사|Confident Rosespanner Workshop Fixer

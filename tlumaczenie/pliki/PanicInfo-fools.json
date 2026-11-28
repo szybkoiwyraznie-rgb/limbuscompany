@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1037].lowMoraleDescription": {
+      "pl": "W Starciu z Tożsamościami mającymi [CandyForCharon]: Moc Starcia +3; w Starciu z pozostałymi Tożsamościami: Moc Starcia -1",
+      "kr_sha256": "0146b8bf1a15518772bafd3fa4b747b9b417a96866aa4e9820b93711c0e5ae22",
+      "en_sha256": "8075da61a0a3f9baf8b3d9efc73304b8eaecf6b96dc4b75f29d462d6739e03fd",
+      "origin": "ai"
+    },
+    "dataList[id=1037].panicDescription": {
+      "pl": "W Starciu z Tożsamościami mającymi [CandyForCharon]: Moc Starcia +5; w Starciu z pozostałymi Tożsamościami: Moc Starcia -2",
+      "kr_sha256": "2cbaacd0dc776fcce5ad7c2f62dde7b5785f34048ac76b2d60c19ce76dc280a0",
+      "en_sha256": "4d5ec05d1e1c92e5d9a33791a72406b2c8cb71ab3bbd81362447305487d75175",
+      "origin": "ai"
+    },
+    "dataList[id=1037].panicName": {
+      "pl": "Cukierek",
+      "kr_sha256": "fc8bc61c4689549766ad17a48d7ce8779e6edfcdce3e2354e9c533b1688fe491",
+      "en_sha256": "c2d3bfa8443653d91c5848b16054010e37bb818135bcfc937da1884086c0db21",
+      "origin": "ai"
+    }
+  }
+}

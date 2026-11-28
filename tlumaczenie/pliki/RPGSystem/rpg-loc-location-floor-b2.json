@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[key=220100].text": {
+      "pl": "Przędzalnia",
+      "kr_sha256": "26ad81d82ed4edfc4743d4c502e9a2b6a7907bf60552f37ba3cfa9d690740c34",
+      "en_sha256": "920dc5940da1c272d315519b4d6ef6d541ac420f92e1d48a8df056a3e10f47f9",
+      "origin": "ai"
+    },
+    "dataList[key=220200].text": {
+      "pl": "Gniazdo Przędzy",
+      "kr_sha256": "7abb7f09ab7cd70df4be6bbeb687a0575cfe1e243510c67cd70fa214f8b5e550",
+      "en_sha256": "2fdd27fc97e02663c89d30f98f395ed77c330e950bdb09f5106d839ef1124236",
+      "origin": "ai"
+    },
+    "dataList[key=220300].text": {
+      "pl": "Korytarz",
+      "kr_sha256": "9d00137ef85a652be05425539ff0d895df127d4af8c47f3da795fc77dc40ec00",
+      "en_sha256": "5ff30619e9df240ef480b983b8e0e4b052de3bb10af8a306a2e7ef0d6c1d8973",
+      "origin": "ai"
+    },
+    "dataList[key=220400].text": {
+      "pl": "Farbiarnia",
+      "kr_sha256": "3f54dffc0a74378e443f13e354e40f0f6b0be57fc904ebd9b343320cc94841d6",
+      "en_sha256": "b8c592949c1fb76d4cf84b3c947601373e04f552d6c15600535bb83c63e47858",
+      "origin": "ai"
+    },
+    "dataList[key=220500].text": {
+      "pl": "Magazyn Łez Barwniczych",
+      "kr_sha256": "2d013844f63628cf58feb1a8c5a57ac465ac64d3c9aebfc1f618b08363a5839b",
+      "en_sha256": "62476c2a97f17721c8e8278f3f294e06dfafee1a7ed9ecc4cbf25c7f68bc2e56",
+      "origin": "ai"
+    },
+    "dataList[key=221400].text": {
+      "pl": "Ukryta Hala Schodów Ruchomych",
+      "kr_sha256": "8704ad847d6172d2ed349ac4af788b1c0dd7c05ee69242b64b47da609230a900",
+      "en_sha256": "1546a478d4fda9fa8d29d6a9ecb80cb7353a0a0137a58ae55d8d6f54aac9c9cc",
+      "origin": "ai"
+    },
+    "dataList[key=221500].text": {
+      "pl": "Korytarz Gniazda Przędzy",
+      "kr_sha256": "88172b451b518e86a37a855b720119f53d720d743ecaecb0121dc570627d828c",
+      "en_sha256": "3fae7de3e8c29331bf0a646802ee3b9e21039492e8e5099860ea82aaa8801ca6",
+      "origin": "ai"
+    },
+    "dataList[key=221600].text": {
+      "pl": "Korytarz Magazynu Łez Barwniczych",
+      "kr_sha256": "b4028de64adbac6ba683e521bc2afdb7ee2c6fe403444d2f68d5a26b3d7c496f",
+      "en_sha256": "77554f6c35d2ec796de81870cfd0ff0977565f49e4d386f081715302fc88f047",
+      "origin": "ai"
+    }
+  }
+}

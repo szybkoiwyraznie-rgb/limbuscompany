@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=136601].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=136601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1366].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 1",
+      "kr_sha256": "4776f80e5af14448880380aee469d03fe83c6d94e1a6e7311b2d66a589f892c3",
+      "en_sha256": "352c8617e49cc39f849ccc42e3f9039e7832987f716293e51d5f9fcfc736209c",
+      "origin": "ai"
+    },
+    "dataList[id=1366].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=136701].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=136701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1367].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 2",
+      "kr_sha256": "694c021a59f16e49110e09b04096a5682bad003762fa453dc7abb58b64d082d0",
+      "en_sha256": "01558a2a2479aa365ca28efe592f799107e965035f293c8950dab8550daa33b4",
+      "origin": "ai"
+    },
+    "dataList[id=1367].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=136801].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=136801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1368].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 3",
+      "kr_sha256": "966799387f27542f2a69a46c21db494256d6fdf280a08a92b8608c71384a9ef8",
+      "en_sha256": "857e488b41679675d52c611fd8771f90d21c784aebe3b61b8f1df983503b97e6",
+      "origin": "ai"
+    },
+    "dataList[id=1368].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=136901].desc": {
+      "pl": "Korpus BunBun [Juicy Squeezer - Orange]",
+      "kr_sha256": "cd6133035b707cef1b12306de00f5032e95efb3a5ff1222d57e020fef9c4a46b",
+      "en_sha256": "a042afbd5a7b0ccf012ceba7d117b34aeccf0833dcbdf1d4fd77f74a3a62aab3",
+      "origin": "ai"
+    },
+    "dataList[id=136901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1369].desc": {
+      "pl": "Ordeal of Dusk",
+      "kr_sha256": "7c115abacbee3fd241e8112fbed037784560f911aa7eb5f373f0207c1fef976f",
+      "en_sha256": "6e98347940344c7e4fa456b0fb08b2038011126fb3ad50b2c65021b7c0c388de",
+      "origin": "ai"
+    },
+    "dataList[id=1369].name": {
+      "pl": "BunBun [Juicy Squeezer - Orange]",
+      "kr_sha256": "001d22238d22d7eedb22d0c9f40dd3eebf1aac3917ebda3964becedbf423a0dd",
+      "en_sha256": "01df044c8cbe38101913030a0968ca02bc15e57f578f13cdf6733a48463b9dcf",
+      "origin": "ai"
+    },
+    "dataList[id=137001].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=137001].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1370].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 1",
+      "kr_sha256": "4776f80e5af14448880380aee469d03fe83c6d94e1a6e7311b2d66a589f892c3",
+      "en_sha256": "352c8617e49cc39f849ccc42e3f9039e7832987f716293e51d5f9fcfc736209c",
+      "origin": "ai"
+    },
+    "dataList[id=1370].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=137101].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=137101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1371].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 2",
+      "kr_sha256": "694c021a59f16e49110e09b04096a5682bad003762fa453dc7abb58b64d082d0",
+      "en_sha256": "01558a2a2479aa365ca28efe592f799107e965035f293c8950dab8550daa33b4",
+      "origin": "ai"
+    },
+    "dataList[id=1371].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=137201].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=137201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1372].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 3",
+      "kr_sha256": "966799387f27542f2a69a46c21db494256d6fdf280a08a92b8608c71384a9ef8",
+      "en_sha256": "857e488b41679675d52c611fd8771f90d21c784aebe3b61b8f1df983503b97e6",
+      "origin": "ai"
+    },
+    "dataList[id=1372].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=137301].desc": {
+      "pl": "Korpus BunBun [Juicy Squeezer - Orange]",
+      "kr_sha256": "cd6133035b707cef1b12306de00f5032e95efb3a5ff1222d57e020fef9c4a46b",
+      "en_sha256": "a042afbd5a7b0ccf012ceba7d117b34aeccf0833dcbdf1d4fd77f74a3a62aab3",
+      "origin": "ai"
+    },
+    "dataList[id=137301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1373].desc": {
+      "pl": "Ordeal of Dusk",
+      "kr_sha256": "7c115abacbee3fd241e8112fbed037784560f911aa7eb5f373f0207c1fef976f",
+      "en_sha256": "6e98347940344c7e4fa456b0fb08b2038011126fb3ad50b2c65021b7c0c388de",
+      "origin": "ai"
+    },
+    "dataList[id=1373].name": {
+      "pl": "BunBun [Juicy Squeezer - Orange]",
+      "kr_sha256": "001d22238d22d7eedb22d0c9f40dd3eebf1aac3917ebda3964becedbf423a0dd",
+      "en_sha256": "01df044c8cbe38101913030a0968ca02bc15e57f578f13cdf6733a48463b9dcf",
+      "origin": "ai"
+    },
+    "dataList[id=137401].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=137401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1374].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 1",
+      "kr_sha256": "4776f80e5af14448880380aee469d03fe83c6d94e1a6e7311b2d66a589f892c3",
+      "en_sha256": "352c8617e49cc39f849ccc42e3f9039e7832987f716293e51d5f9fcfc736209c",
+      "origin": "ai"
+    },
+    "dataList[id=1374].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=137501].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=137501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1375].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 2",
+      "kr_sha256": "694c021a59f16e49110e09b04096a5682bad003762fa453dc7abb58b64d082d0",
+      "en_sha256": "01558a2a2479aa365ca28efe592f799107e965035f293c8950dab8550daa33b4",
+      "origin": "ai"
+    },
+    "dataList[id=1375].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=137601].desc": {
+      "pl": "Korpus BongBong [Orange]",
+      "kr_sha256": "978e9c655c293aa5304f4a05df619c51f9e876a3c28dfb79f659eedad6782944",
+      "en_sha256": "0f3971ab8d449d9c3c476b77309ff4aad487e9c2b1cbf8891d560859bccdf773",
+      "origin": "ai"
+    },
+    "dataList[id=137601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1376].desc": {
+      "pl": "Dawn Ordeal - Swarm Movement Prep 3",
+      "kr_sha256": "966799387f27542f2a69a46c21db494256d6fdf280a08a92b8608c71384a9ef8",
+      "en_sha256": "857e488b41679675d52c611fd8771f90d21c784aebe3b61b8f1df983503b97e6",
+      "origin": "ai"
+    },
+    "dataList[id=1376].name": {
+      "pl": "BongBong [Orange]",
+      "kr_sha256": "ecbfa09d1c7f772ca25452fd4118db7d3451571d2679414b4b3f9708e8bb33e7",
+      "en_sha256": "6e729b25fa990dddb139120b09f4d30115e09324d8189601e05b30ae064edbf3",
+      "origin": "ai"
+    },
+    "dataList[id=137701].desc": {
+      "pl": "Korpus BunBun [Juicy Squeezer - Orange]",
+      "kr_sha256": "cd6133035b707cef1b12306de00f5032e95efb3a5ff1222d57e020fef9c4a46b",
+      "en_sha256": "a042afbd5a7b0ccf012ceba7d117b34aeccf0833dcbdf1d4fd77f74a3a62aab3",
+      "origin": "ai"
+    },
+    "dataList[id=137701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1377].desc": {
+      "pl": "Ordeal of Dusk",
+      "kr_sha256": "7c115abacbee3fd241e8112fbed037784560f911aa7eb5f373f0207c1fef976f",
+      "en_sha256": "6e98347940344c7e4fa456b0fb08b2038011126fb3ad50b2c65021b7c0c388de",
+      "origin": "ai"
+    },
+    "dataList[id=1377].name": {
+      "pl": "BunBun [Juicy Squeezer - Orange]",
+      "kr_sha256": "001d22238d22d7eedb22d0c9f40dd3eebf1aac3917ebda3964becedbf423a0dd",
+      "en_sha256": "01df044c8cbe38101913030a0968ca02bc15e57f578f13cdf6733a48463b9dcf",
+      "origin": "ai"
+    }
+  }
+}

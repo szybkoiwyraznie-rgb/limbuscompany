@@ -1,0 +1,406 @@
+{
+  "entries": {
+    "dataList[id=9013601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Sinking]",
+      "kr_sha256": "b262675f94936684085f780d3f83b4e3d1199f0f404fb290e8b5c1d777cd2236",
+      "en_sha256": "f5095780d80269c47e7d902b7457b63ee6962b90c6a38c0f0a89e5408f394f86",
+      "origin": "ai"
+    },
+    "dataList[id=9013601].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=9013601].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Sinking]",
+      "kr_sha256": "b262675f94936684085f780d3f83b4e3d1199f0f404fb290e8b5c1d777cd2236",
+      "en_sha256": "f5095780d80269c47e7d902b7457b63ee6962b90c6a38c0f0a89e5408f394f86",
+      "origin": "ai"
+    },
+    "dataList[id=9013601].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "4000cc413a7856791a3417d453386b42b675217d903583f684a46b9021916364",
+      "en_sha256": "7b458c4b48cde39483eb2455e90bce854b7bb9835460657f98b8c22bc052a946",
+      "origin": "ai"
+    },
+    "dataList[id=9013601].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ [Sinking], nakłada 1 [AttackDown]",
+      "kr_sha256": "99daf26661912adac93b4b7beee1d8626b8869ceeb4874d0cba9292d56c5ebc0",
+      "en_sha256": "1ec30aa83cb6f6050c28cba74fba377e4ee7c806142a0c3be803e666b8248549",
+      "origin": "ai"
+    },
+    "dataList[id=9013601].levelList[level=1].name": {
+      "pl": "...ucanie...",
+      "kr_sha256": "08252d9b448913ffaa5b64f174e3bae7d243de6ebcc37b95578b011425ceb25a",
+      "en_sha256": "15456809a2e574d0d048f44dee3ad00ece73ef37a3f16243f21c4ef50b5bc551",
+      "origin": "ai"
+    },
+    "dataList[id=9013602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [PlusCoinValueDown] w następnej turze",
+      "kr_sha256": "b4bdd17f270be6b0d9641c6483a7a5b3c065ae12a4ec6e4a2953a8a510b3de11",
+      "en_sha256": "c34a8c3237dab5ab044ec41a139df788edd90be478452a19adf79c2e80e0feb6",
+      "origin": "ai"
+    },
+    "dataList[id=9013602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Licznika [Sinking]",
+      "kr_sha256": "b8749445b33a0a9c5d17c87a15e0636ee3347b757b495991a64129db4e0a416e",
+      "en_sha256": "a568365989517493ef9d5b3c630871eb37354d055f327a7d69f3111c62a73fd1",
+      "origin": "ai"
+    },
+    "dataList[id=9013602].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable] w następnej turze",
+      "kr_sha256": "1c244844170b2a039abc19a8de5522921b277b9c22b48f9a66ef5311412c0497",
+      "en_sha256": "42a5ae8462a38a4e717bd0a6f733dca5323d3860d9e5e8da48be22a3d6cde8d7",
+      "origin": "ai"
+    },
+    "dataList[id=9013602].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli SP celu wynosi 10 lub mniej, nakłada 2 [AttackDown]\n[WinDuel] nakłada 1 [Vulnerable]",
+      "kr_sha256": "bf8d05fa1763c6bc44a0512fb64d0f3297edb1bd28a48b0b73deaf1882db40fd",
+      "en_sha256": "ad57930636649bf347139063f7a5e34007d6f031ae281c643a9923e124ef0e59",
+      "origin": "ai"
+    },
+    "dataList[id=9013602].levelList[level=1].name": {
+      "pl": "...czenie...",
+      "kr_sha256": "c6fc326b6bacef11dd647716706c99d95b080e51f84b906cb5b037ea8ba53ebd",
+      "en_sha256": "a7b3daeb8b4a371b3c39d3ef991017b9492f32f6844ecf13dc5d238503f815c2",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Sinking]",
+      "kr_sha256": "cea12786027cb116e14901e23f6eab9266fdcd326d2461770bef2c661cda39b3",
+      "en_sha256": "019d08f0e43cde18d88d095fac48d4ab5be2085ace32dac8642fa1a563277715",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 Licznika [Sinking]",
+      "kr_sha256": "4db941de6605d66a6099cfd2228574d00cfbae4653b29c70aca721064bf2cbd3",
+      "en_sha256": "ac1aacd7f935821eabe45f5eb0029838c68a54a64016799bd909d9f47b1fa5d9",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Sinking]",
+      "kr_sha256": "cea12786027cb116e14901e23f6eab9266fdcd326d2461770bef2c661cda39b3",
+      "en_sha256": "019d08f0e43cde18d88d095fac48d4ab5be2085ace32dac8642fa1a563277715",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 Licznika [Sinking]",
+      "kr_sha256": "4db941de6605d66a6099cfd2228574d00cfbae4653b29c70aca721064bf2cbd3",
+      "en_sha256": "ac1aacd7f935821eabe45f5eb0029838c68a54a64016799bd909d9f47b1fa5d9",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Sinking]",
+      "kr_sha256": "cea12786027cb116e14901e23f6eab9266fdcd326d2461770bef2c661cda39b3",
+      "en_sha256": "019d08f0e43cde18d88d095fac48d4ab5be2085ace32dac8642fa1a563277715",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 Licznika [Sinking]",
+      "kr_sha256": "4db941de6605d66a6099cfd2228574d00cfbae4653b29c70aca721064bf2cbd3",
+      "en_sha256": "ac1aacd7f935821eabe45f5eb0029838c68a54a64016799bd909d9f47b1fa5d9",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 3 [Sinking] celu (maks. 3)\n[WinDuel] wszyscy sojusznicy przywracają 5 SP",
+      "kr_sha256": "228233655d965d2f3686e075ade2f8273a6bd3fa3c7e831e6d96b7738c4ba8d2",
+      "en_sha256": "643ac5687bbbadc357d400fb2d15eaee4b5adbc3fbf77681b363339bee04578d",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].levelList[level=1].name": {
+      "pl": "...kazy...!",
+      "kr_sha256": "ccc0aa06e341f093ff18f0931ece8b7293f37e062012363abbf248765611484f",
+      "en_sha256": "70b3ef3410d9004186796a10e1fd784fc4409816eb230de7b23894c76d2073a1",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi dodatkowe obrażenia Posępności równe [Sinking] celu. Zmniejsza Licznik [Sinking] celu o 1",
+      "kr_sha256": "53c6c82a8f18d80316be9233acfbf564a51edf625bb0c0317dcb80c404117e28",
+      "en_sha256": "1377f5725ffeafd3fd2c6bd5ea218170b2cc0c367661dd98c4aedc6df648b3b8",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi dodatkowe obrażenia Posępności równe [Sinking] celu. Zmniejsza Licznik [Sinking] celu o 1",
+      "kr_sha256": "53c6c82a8f18d80316be9233acfbf564a51edf625bb0c0317dcb80c404117e28",
+      "en_sha256": "1377f5725ffeafd3fd2c6bd5ea218170b2cc0c367661dd98c4aedc6df648b3b8",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi dodatkowe obrażenia Posępności równe [Sinking] celu.",
+      "kr_sha256": "4a5b6fd45a230ffa6635fd2ff06203569b96a49d92a2c80412ffadd5ab36adae",
+      "en_sha256": "de73eafda50bf934049cb9ad1fe3566566c56c5facb13416b7c7bd3611987c7f",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Sinking]",
+      "kr_sha256": "b262675f94936684085f780d3f83b4e3d1199f0f404fb290e8b5c1d777cd2236",
+      "en_sha256": "f5095780d80269c47e7d902b7457b63ee6962b90c6a38c0f0a89e5408f394f86",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ Licznika [Sinking], używa Monety ponownie (do 2 razy)",
+      "kr_sha256": "52c4518675c0555db4bf05d09e5434a8ebd6a31157faa9533e930f507a673b4c",
+      "en_sha256": "f0bc1c437644298ed15d32e78c600faa48f92b675a6d5d05e7ac8eab7decd69f",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 6 [Sinking] celu (maks. 3)\n[WhenUse] zadaje +10% obrażeń za każde 6 Licznika [Sinking] celu (maks. 30%)",
+      "kr_sha256": "056a333fce89e76be6c92824797fb010a83b6cc9d6d152b7fbc1dc111db852ed",
+      "en_sha256": "26e9e120badda9e77413b59a1c2648e0d327825d2e484e71e210ebaf25ae64dc",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].levelList[level=1].name": {
+      "pl": "...py...",
+      "kr_sha256": "51a47cdd50566d2c2001a5f8710bdf9c093cd7259aee9a581ec10ca14d354993",
+      "en_sha256": "f0a14c18d98a219ab1ac563eb89db13677584524fe89abb3f71b3cacf0f32ed5",
+      "origin": "ai"
+    },
+    "dataList[id=9013605].levelList[level=1].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka ma pozostałe HP Tarczy, obniża Próg Oszołomienia o 50",
+      "kr_sha256": "2b9bc7dfcee6ad2ffb31d799b72900fb7d211bc4a83388f5af2aef0530a70ce5",
+      "en_sha256": "85450f542ce0781ead437040842fbacd7901fab9569937b0e635a88d6f5a2eff",
+      "origin": "ai"
+    },
+    "dataList[id=9013605].levelList[level=1].name": {
+      "pl": "Śliz...",
+      "kr_sha256": "3b057a6be7ec272ba671d03ab1befedc2b9da86735b8f37c1146485cdae5a338",
+      "en_sha256": "26855f5c31291ebfbd00769fac45caf3b9599f762e533a74c5b244e00293c684",
+      "origin": "ai"
+    },
+    "dataList[id=9013701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "4fd995f264821ed63a6f30899bc89d891e489babc261919fa65b87528af45c27",
+      "en_sha256": "058a0732cbdc1b377bfb5db2d904991384bde79c24f2e7ebadb870d3a28dad37",
+      "origin": "ai"
+    },
+    "dataList[id=9013701].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 [AttackUp] w następnej turze",
+      "kr_sha256": "4fd995f264821ed63a6f30899bc89d891e489babc261919fa65b87528af45c27",
+      "en_sha256": "058a0732cbdc1b377bfb5db2d904991384bde79c24f2e7ebadb870d3a28dad37",
+      "origin": "ai"
+    },
+    "dataList[id=9013701].levelList[level=1].name": {
+      "pl": "Zwy...ndy...",
+      "kr_sha256": "e24580ecf27479ffd9e688b3872f44c36d5b41be870989dfe27108059ec52cb6",
+      "en_sha256": "1af75353a1dcbf5da35108391743f6b0ee2377a463eb3197687c6270d0be4f85",
+      "origin": "ai"
+    },
+    "dataList[id=9013702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [AttackDown], zadaje dodatkowe obrażenia Uderzeniem równe 20% zadanych obrażeń",
+      "kr_sha256": "80c4a46b23be7c2d4f060002da538591e563abf3c6559082ba394750b8c4c6ec",
+      "en_sha256": "b6939beede32de536cd43c084a23a84287ae9fa3011f4d81d8268851ee18eb00",
+      "origin": "ai"
+    },
+    "dataList[id=9013702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [AttackDown], zadaje dodatkowe obrażenia Uderzeniem równe 20% zadanych obrażeń",
+      "kr_sha256": "80c4a46b23be7c2d4f060002da538591e563abf3c6559082ba394750b8c4c6ec",
+      "en_sha256": "b6939beede32de536cd43c084a23a84287ae9fa3011f4d81d8268851ee18eb00",
+      "origin": "ai"
+    },
+    "dataList[id=9013702].levelList[level=1].desc": {
+      "pl": "[WinDuel] Moc Bazowa +1",
+      "kr_sha256": "eb21af3694809b3b87756d8d9f6dc2f4ba47d7131c72ecdaf9dcee476be24ab3",
+      "en_sha256": "ea52233cde08b3bd985b8d79140a158dfe0f8f417dc5fc9f6abf3e40ecc147cd",
+      "origin": "ai"
+    },
+    "dataList[id=9013702].levelList[level=1].name": {
+      "pl": "Usun...ię...",
+      "kr_sha256": "c0ae9a36a648c11e23b4cf4e67f3265bd6d1e13e72d4af631e5fa9ab91eeee8d",
+      "en_sha256": "d0700e0d11d17cf5a0b7cc2cb324ffcd895d141fe2925718f136c8aece2c3b94",
+      "origin": "ai"
+    },
+    "dataList[id=9013703].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "518e0ecc572fb79dd79411f5c2100d1b0238e699f0d32369439bf80b5a75f0c8",
+      "en_sha256": "f653aec702234c37c1be36ee96e1eed7335839a4f81748d1b8619d8217bdd14d",
+      "origin": "ai"
+    },
+    "dataList[id=9013703].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "518e0ecc572fb79dd79411f5c2100d1b0238e699f0d32369439bf80b5a75f0c8",
+      "en_sha256": "f653aec702234c37c1be36ee96e1eed7335839a4f81748d1b8619d8217bdd14d",
+      "origin": "ai"
+    },
+    "dataList[id=9013703].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "518e0ecc572fb79dd79411f5c2100d1b0238e699f0d32369439bf80b5a75f0c8",
+      "en_sha256": "f653aec702234c37c1be36ee96e1eed7335839a4f81748d1b8619d8217bdd14d",
+      "origin": "ai"
+    },
+    "dataList[id=9013703].levelList[level=1].desc": {
+      "pl": "[WinDuel] jeżeli cel ma 2+ [AttackDown], Moc Bazowa +1\n[WhenUse] jeżeli cel ma [DefenseDown], zadaje dodatkowe obrażenia Uderzeniem równe 30% zadanych obrażeń",
+      "kr_sha256": "928b299d8a193a27d47c55c1b039706e174ba7a0f991e625d02ca13f3491a013",
+      "en_sha256": "69a580cedd8b135dc42867805d546f37fb98d5871ae90c337f2b105548133345",
+      "origin": "ai"
+    },
+    "dataList[id=9013703].levelList[level=1].name": {
+      "pl": "Guziki...",
+      "kr_sha256": "06b0212f444c5348e4311b1c8c3e5df0ee518bdb1e9ddc8c8d0343317bfe717d",
+      "en_sha256": "35a433a28c8a2802c71deeb1c905fcae47ff428249f43536d57ad100072b3fa0",
+      "origin": "ai"
+    },
+    "dataList[id=9013704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable]",
+      "kr_sha256": "1ef2cb4ccce0ad445521511f2d936d966565989a6318c9c4c870647828f1740e",
+      "en_sha256": "4fc40fe44f33fe8a19b77bbc111e5ec57f7d11ace5a97f948d5d8da75da5826b",
+      "origin": "ai"
+    },
+    "dataList[id=9013704].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "1258a58dc8c295e7fc06534a58c882d686cf8889bc4872a72c52f6f7cf25606f",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=9013704].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "84854da32f0f4198c19a34b2dfea3cb309aef1e3f6ab52d95e68edf21f95ecb2",
+      "en_sha256": "35e217289b73fb512ac55373cfd44a73d8c7f7f9620fee4a407130c8a8f88bf2",
+      "origin": "ai"
+    },
+    "dataList[id=9013704].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje +30% obrażeń za każde 2 [AttackDown] celu (maks. 120%)",
+      "kr_sha256": "41ba4b226f747767aded1014ef9228b189019159dc9e7512a3c7259fff96d1b0",
+      "en_sha256": "966be20edd9a06e4b455e610fe1457890fe986ea403bbacf904f1ca14a3b1328",
+      "origin": "ai"
+    },
+    "dataList[id=9013704].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] jeżeli cel ma 3+ negatywnych efektów, używa Monety ponownie (1 raz)",
+      "kr_sha256": "353be728a06649b5a5efdf1c86ccbe9c9d8a01a4d17d92866a3c62e144e33b97",
+      "en_sha256": "9f484b0eb574c21e79dfd3ae2917053d87251fc42c63feb8366421a693b3f887",
+      "origin": "ai"
+    },
+    "dataList[id=9013704].levelList[level=1].desc": {
+      "pl": "priorytet: cele z największą liczbą negatywnych efektów\n[WinDuel] Moc Monety +1 za każde 3 [DefenseDown] celu (maks. 3)",
+      "kr_sha256": "748bde4b42e8fa06ac101461d0d619cad530c1c0e2ca577dfbcbb8bd88c38c0a",
+      "en_sha256": "258f9c00096f6a7fe9b05266bf825759f6d140e1e6dfdaf221d502fad8002d8e",
+      "origin": "ai"
+    },
+    "dataList[id=9013704].levelList[level=1].name": {
+      "pl": "...ię...",
+      "kr_sha256": "fa89778372abd6a4b038d94ffe1d02f48ccff19d7008868ef6320ea2c7f8f45e",
+      "en_sha256": "542ab1b50ad3f4b8137c70771fdbdd1f9a8801d74c75f1cfc202447d2b365739",
+      "origin": "ai"
+    },
+    "dataList[id=9013705].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje dodatkowo 20 HP Tarczy za każdego żyjącego sojusznika",
+      "kr_sha256": "82ae06203f7bc6d7fb7ae3ec0efaaa17f324f479da0fe832d12e862407fb2d03",
+      "en_sha256": "93e08d89d1f79661d8c803ac64f07d48531cfc98abdbe1eef32f59fa13f20567",
+      "origin": "ai"
+    },
+    "dataList[id=9013705].levelList[level=1].name": {
+      "pl": "Garda",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=9013801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [DefenseDown] w następnej turze",
+      "kr_sha256": "dbac80301a886e48ceb5d24b369de976eb1456c0e5d78b1534d9a9429f8a5b1d",
+      "en_sha256": "a29017fe823b018e5fb224bb9b98e1e11c581490d993aa934ece937540d508e5",
+      "origin": "ai"
+    },
+    "dataList[id=9013801].levelList[level=1].name": {
+      "pl": "Marc...",
+      "kr_sha256": "34743239b63727aba69577370e3986539296d2ab3bc0e6f20207ea0a711886fd",
+      "en_sha256": "2fce97f69efcabd73ec9302bfec1f0f100d43d11226a5fec9aa1c9ef229bc0f8",
+      "origin": "ai"
+    },
+    "dataList[id=9013802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown] w następnej turze",
+      "kr_sha256": "de281c31d6239de2f665b8b19c03e83535cacde67fecb4ca105cd46c7c349806",
+      "en_sha256": "5e64a02c958a1f67be44ed3c6a90e3db330144a7f275e7c20601ffc25fbbda06",
+      "origin": "ai"
+    },
+    "dataList[id=9013802].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 2+ negatywnych efektów, Moc Bazowa +1",
+      "kr_sha256": "25dfaee3c2dfa38a73c48f78d3523208103b622b946e16e3a479487d3b36e492",
+      "en_sha256": "52c1fa4039addccee6fb2f743d62d4e6a56e2b229c9681ee0a9bed80e9a5f6b3",
+      "origin": "ai"
+    },
+    "dataList[id=9013802].levelList[level=1].name": {
+      "pl": "...tnij...",
+      "kr_sha256": "f704d71edae0fd94e96e0ed8e58cc8228a1c8177ca2213ccb0803c7079ef4589",
+      "en_sha256": "0df60ed509a8860f5e75adf357174fa3173a8f77dabeb1b5788786236cf0df07",
+      "origin": "ai"
+    },
+    "dataList[id=9013803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=9013803].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [PenetrateTakeDamageUp] w następnej turze",
+      "kr_sha256": "70002be9d6991611e504cc48f962f11dec4a60399261b91bcb7853096ed8d179",
+      "en_sha256": "ef8a7b8564e2c2d002f05b2d44af32a64454289f61c6a58f3440c049aadafbe6",
+      "origin": "ai"
+    },
+    "dataList[id=9013803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=9013803].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ negatywnych efektów, Moc Monety +1",
+      "kr_sha256": "542051a9c37aa716a1ae236725a03c492b613abe081eb5d685ca34a5b5fff7b7",
+      "en_sha256": "0f379ac129ff87a69149ce09112d8dfd528b7792e601af0013372f698eca706d",
+      "origin": "ai"
+    },
+    "dataList[id=9013803].levelList[level=1].name": {
+      "pl": "Fl...he",
+      "kr_sha256": "fb6b04421479b55dae096e9ad89b5c221156159a61789d450341f9095f6bd06c",
+      "en_sha256": "1745b8929439d682ff40662928e4b30c38708377a69f0b35ab3a0130d4f7c895",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable]",
+      "kr_sha256": "4b560083555c1e279fd4c91a86eb8b8e0a171d06e14732a34e2b6f24792b72a6",
+      "en_sha256": "ccf08ed2364a096752cdecff1598fef033a20111588689cb6edecfc32a5bf71c",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable] w następnej turze",
+      "kr_sha256": "1c244844170b2a039abc19a8de5522921b277b9c22b48f9a66ef5311412c0497",
+      "en_sha256": "42a5ae8462a38a4e717bd0a6f733dca5323d3860d9e5e8da48be22a3d6cde8d7",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 5+ negatywnych efektów, używa Monety ponownie (do 2 razy)",
+      "kr_sha256": "a841b2290141fe19a9775ee4b0a0ca30a123dab6dc769857a0f57572e0913469",
+      "en_sha256": "582ff5a39b00d2775d5beb0cb12a019e77d4dae3ff87c9cacc5b16b4c7f22d53",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] usuwa 1 losowy negatywny efekt celu, który można usunąć",
+      "kr_sha256": "ad816001f61d98cb6cf96c9556d34f42369a91ee48b3894d773ff32935858863",
+      "en_sha256": "b81eccf271cb4f5beb38b813f3a473f71c9133b2a3ddbd21e961330b6b59f276",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ negatywnych efektów, Moc Bazowa +2\n[WhenUse] jeżeli cel ma 5+ negatywnych efektów, zadaje +30% obrażeń",
+      "kr_sha256": "82399e9f43b99b56a2253f735f5199060bb4002b639d015775efb4e207916f8d",
+      "en_sha256": "4fb6c6e51efde6b33fc3315e35ee55dfc64d5e45df4da1c1e0d6f1e423e4feb4",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].levelList[level=1].name": {
+      "pl": "Cou...oit",
+      "kr_sha256": "a2bfbf8143dd2de1b7a1974efa43afa38c2f534eb1c543c9311c12ef015aedee",
+      "en_sha256": "eaee01e969e434618caf64aecd0afc6f8156cc17183d6511e3e0ac37d0825f73",
+      "origin": "ai"
+    },
+    "dataList[id=9013805].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] przywraca 5 SP (do 2 razy)",
+      "kr_sha256": "55e6c63265722a7684c859ba3162fb19ba30c7ba289aff19beb8d4f833e95785",
+      "en_sha256": "0df2b51b3977e0374201636a8a3309cc83e3128bdc71aa9d993b622e6e5df363",
+      "origin": "ai"
+    },
+    "dataList[id=9013805].levelList[level=1].name": {
+      "pl": "...",
+      "kr_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "en_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "origin": "ai"
+    }
+  }
+}

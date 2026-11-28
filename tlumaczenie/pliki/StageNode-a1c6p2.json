@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=10622].title": {
+      "pl": "Bezgłębna Piwnica",
+      "kr_sha256": "f8c0407021f8322d9c8211f289a78faaf7d871bed51a03974885bd39eb398c9d",
+      "en_sha256": "30177631fae4216c0a46ec00c8d1afe0dc5c85c86d565aeebc40adf771a8dcf7",
+      "origin": "ai"
+    },
+    "dataList[id=10623].title": {
+      "pl": "Bezgłębna Piwnica 2",
+      "kr_sha256": "1938784c28621f1aab807e97ecf033d32dc42ce2af1df01cdec91f91dad97402",
+      "en_sha256": "b3169e3dc66373c99e29c90777f5eb68fa3e00743eb80e302c7ac6d4e4712713",
+      "origin": "ai"
+    },
+    "dataList[id=10624].title": {
+      "pl": "Szklane Kapsuły",
+      "kr_sha256": "eb29fac245a0766bab5f1a941588bc14ec6d9cd33791787471986de97f0da3f0",
+      "en_sha256": "e308d9ce67f5871bbf0c33dc02f979cc452bdb45e960b6ad0d121321b0d8cec1",
+      "origin": "ai"
+    },
+    "dataList[id=10625].title": {
+      "pl": "Imitacje",
+      "kr_sha256": "d972064450c46a35bdbaa38803e933d074833849691703ccac78317ca5bb11ce",
+      "en_sha256": "17b37c3d8127b3638e7d78b5b4d8b39e56a22329eba8f0c683205b71471cff13",
+      "origin": "ai"
+    },
+    "dataList[id=10626].title": {
+      "pl": "Imitacje 2",
+      "kr_sha256": "c13e2d1b653919235c93045b5c647cc053e0a6b162ea6573b1bc24c1968ef8c0",
+      "en_sha256": "dcc9477beba47fe1ace5717766cc6b910c9e65ec3ecc67135cee01877362943e",
+      "origin": "ai"
+    },
+    "dataList[id=10627].title": {
+      "pl": "Imitacje 3",
+      "kr_sha256": "fdc809b27f7d38994174dc1d72d4b0a3ded6ae5bd645ab045888084678814690",
+      "en_sha256": "82a38f0dca78c914536b69c3772c74627dc58e3c4a4f1e28e87143d098102e7e",
+      "origin": "ai"
+    },
+    "dataList[id=10628].title": {
+      "pl": "Stęskniona Twarz",
+      "kr_sha256": "0bf309b5987807d7ee3c7f3cba8bdd41984a5e1ebf31b62e8582e26cd7bcd0bb",
+      "en_sha256": "1feabd8783c3bd7441f7e0b99063e1f6baa65ae3b8a6b6f04fed314862266861",
+      "origin": "ai"
+    },
+    "dataList[id=10629].title": {
+      "pl": "Imitacje 4",
+      "kr_sha256": "b59cbdc9f1dd38b7bbba23b317acd9e2a2c28b516c83b8da2097504fd681747b",
+      "en_sha256": "e8e4d5b088ca1fbfb51fdf73b97f34b9a2be11c624169a993ba7d3ee36f5c56d",
+      "origin": "ai"
+    },
+    "dataList[id=10630].title": {
+      "pl": "Źle Zapięty Guzik",
+      "kr_sha256": "d85bacb172d063822b55c3d79247e561df5d54932b81eaf13143e75415acacb3",
+      "en_sha256": "dc971320665d739328320bb742f6ae10d5a1cede73f8fd902ff497d0008e4cdd",
+      "origin": "ai"
+    },
+    "dataList[id=10631].title": {
+      "pl": "Czarna Trawa",
+      "kr_sha256": "96a99cb0e43894492790727759d09c88e49500d3f78326645f207497462894bc",
+      "en_sha256": "f7133d030840d793cd0efe870d465d7e8f1d6e320ed30a8dfa2270383442025e",
+      "origin": "ai"
+    },
+    "dataList[id=10632].title": {
+      "pl": "Skrzypce",
+      "kr_sha256": "9794248e3a3d896d7ab84f9553e024c0ade94f38b429955866cb6066b0db6ea7",
+      "en_sha256": "d6ca1483c5d0ad8036a9d44b4a7f064116f1787f48f53d3747bf377b83a85a32",
+      "origin": "ai"
+    },
+    "dataList[id=10633].title": {
+      "pl": "Matt",
+      "kr_sha256": "66c44321bacfe553429fe565a770b50b51dd11237ed9b413efcbb4270bb20458",
+      "en_sha256": "84a4b19e19aa4e2a562ae0286b1e188ef4f4f9a98a92b8730d20a1e0f2882523",
+      "origin": "ai"
+    },
+    "dataList[id=10634].title": {
+      "pl": "Bestia",
+      "kr_sha256": "77cbaa3bc0bddbab2277a330b0fb0f66e0740aa0c337be53d5376bbc2c3a6ce9",
+      "en_sha256": "8880e4a43c3111bf540bccc6cf483135faedd87b35fa43f3562408b80ad72d9d",
+      "origin": "ai"
+    }
+  }
+}

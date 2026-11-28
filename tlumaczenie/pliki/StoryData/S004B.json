@@ -1,0 +1,114 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Rozumiem… Więc o to chodziło.",
+      "kr_sha256": "465ad963ddbf44386be73949ff2e7245515588151965d550a41b857955ac7dac",
+      "en_sha256": "487a50909e55e29bcbcf1e15251cf00dc2a078bde43c2e1f0bd11e0477c847db"
+    },
+    "dataList[id=10].content": {
+      "pl": "Nie są państwo statkiem Tezeusza.",
+      "kr_sha256": "8b506e3c889ded72565e14d50c09128613ab027eb2fa00ba8179ce10b2533f70",
+      "en_sha256": "a74c57347ff5f4ca55746c4905297e2790aa9fd6226e9a286f16c43e40960c5d"
+    },
+    "dataList[id=11].content": {
+      "pl": "Zapożyczają państwo Tożsamości i ich wspomnienia, ale całość nie jest pomyślana tak, by stracili państwo panowanie nad sobą.",
+      "kr_sha256": "f44e3a9327f778e8c8954207f71c64abe07251def2e315849a00737b29811072",
+      "en_sha256": "dae08812aedbfd356c09e1ceb74fbb8154937e886593d42c3c04614c15dcefe4"
+    },
+    "dataList[id=12].content": {
+      "pl": "Ja, co się w lustrze odbija, bywa zgoła inny, lecz kto od lustra odejdzie, traci i kształt w nim zamknięty.",
+      "kr_sha256": "5bc127b6bcd64b5c0ce830db9a191a11af8b291eef40baa009603ad1bbf2db9c",
+      "en_sha256": "a80db38c8f31b1eeb27cbb224bef47c924ae2355a36f00dfa4aed3e629209223"
+    },
+    "dataList[id=13].content": {
+      "pl": "…To, jak się rozwiniemy, zależy od pana, Dante.",
+      "kr_sha256": "a2fd837f9a61cffc1cd15c7efc39db669174e0dd2f6884d8e2b471de0c217229",
+      "en_sha256": "c83356ea6560f88a8de25c13951729b95b87e12ddc4cf95b02d221f90fd0a16f"
+    },
+    "dataList[id=14].content": {
+      "pl": "Bo to pan będzie nakładał na nas różne możliwości z lustrzanych światów w najskuteczniejszym momencie.",
+      "kr_sha256": "caf3cafcb134ae202176d9d4938e0dda78bd5dca818ea9432a2553e9b8be7682",
+      "en_sha256": "fba2bbe6383598ca1b18a447f7fd09af22fa7677ed80c73d1f20b02b359c8e1f"
+    },
+    "dataList[id=15].content": {
+      "pl": "Chodzi o metamorfozę?",
+      "kr_sha256": "0c5f841292c2e3ea0cba077812f5113cb352e8ee898448f3241debc8d450f2a5",
+      "en_sha256": "0ff7e864a8ae8bd7e7edb50fe92b38169c62b640c3570fa385dc97d712327e0a"
+    },
+    "dataList[id=16].content": {
+      "pl": "Tak, można to nazwać swego rodzaju odrodzeniem i przemianą.",
+      "kr_sha256": "e7f71ecaa33e24d63106efb070768fbc76afd98dab93b7c4647ccf7aa2d3f8ea",
+      "en_sha256": "3541ba39c63b94392999de28754238658a1380c8027ec2987de2894e3fdb791b"
+    },
+    "dataList[id=17].content": {
+      "pl": "Ojej, a gdzie się takich mądrych słówek nauczyłaś?",
+      "kr_sha256": "36551ae24b7f16333b5143305b3bf8fc48b9eb7b0e082c0fdb567e1a6d896882",
+      "en_sha256": "47a6a011b04bd6130c25d751de0040972635b60ae069481fc6327c74d1232500"
+    },
+    "dataList[id=18].content": {
+      "pl": "Zasłyszałam. W poprzednim fachu trzeba było spotykać mnóstwo różnych ludzi.",
+      "kr_sha256": "a6725237fd9614b0bf7cff18fa371a9c4c0f2774a3ebb798999ca45aa7163d56",
+      "en_sha256": "7ffc28d9549388ada5dae167327a02a9ed868a3cd261134a52a51c59befeac84"
+    },
+    "dataList[id=19].content": {
+      "pl": "Przemiana, co…",
+      "kr_sha256": "75c18d6a876520ae0609e5172617b94777f8368c72d7c878de07681f254dfc63",
+      "en_sha256": "0adf91f7a52fcbd70d78889b09ba2423bf7cf18496768d1d32764b59de6f4869"
+    },
+    "dataList[id=1].content": {
+      "pl": "Nie ma potrzeby się spieszyć, Ishmael. Gdy autobus będzie jechał, naturalnie…",
+      "kr_sha256": "3ea15e256a179b686445b3c0f72d9b759caf00512e4e5a9d45a067a3ecd67eee",
+      "en_sha256": "207fa4972ba4f2ce56e808b73ffe75b6da30822567f96ee305b4123f82514c86"
+    },
+    "dataList[id=20].content": {
+      "pl": "Koniec pogawędki?",
+      "kr_sha256": "bb35d18498261d0f5d38b497033ba919430019aa9ab39c051c836a06e2a131c9",
+      "en_sha256": "b2c17b95fe1f57c0e20835bb450a4931a17714e51b45b3a540e0a9788eb5d070"
+    },
+    "dataList[id=21].content": {
+      "pl": "Najpierw torujemy drogę. I tak będziecie na siebie skazani aż do znudzenia, więc reszta później.",
+      "kr_sha256": "29adb1f5ed4d82a83abb857c8a802abc21a3605fd3573aefe9418de39a4b69c1",
+      "en_sha256": "38382cf48b2614e86f330e1c7e4e37fcd3b1a2db5e1900f8c9ebd2bc1d2be374"
+    },
+    "dataList[id=2].content": {
+      "pl": "Naturalnie dostaniesz ważniejsze zadania niż robota dla ulicznych opryszków.",
+      "kr_sha256": "4a57c409a5fc5ba540460596a07de2161a58c3fb72d45e9996ea479bf5f0b5a8",
+      "en_sha256": "30810e4f16640ae0da381d9fea5165a341f93c8890d17898a9e21ce658262d07"
+    },
+    "dataList[id=3].content": {
+      "pl": "Pewnie pali ci się, żeby dotrzeć do celu… ale bądź cierpliwa.",
+      "kr_sha256": "13f18d5f787336ea4d50f9e2d123090438fe98342dc9a0c1ec8d02472a08883b",
+      "en_sha256": "7e378e1b0872fc3fe91c636c620f2d1f6a111f60e3b3c37f769406e67011a229"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Tsk.",
+      "kr_sha256": "7494c9e088279246c10b50af1f3a17801ea21f19bedbaa3b1ad3e3ac8941aafb",
+      "en_sha256": "c54e977a0660e628a6db8039fbdb94173ed4315c1f69739e5f9b51edf0d31b66"
+    },
+    "dataList[id=5].content": {
+      "pl": "Wydobywamy jedną z wszystkich naszych możliwości w lustrzanych światach, więc pamięć mogła zostać nieco nadpisana.",
+      "kr_sha256": "73dbe9c1b1228c73a2c3640f36a92b172f2ed422a1ec2111cbd05009f968ce77",
+      "en_sha256": "9e47c50d491c8d12445605ab9df8c7cd77cc87628460b29b31683c6a210ac556"
+    },
+    "dataList[id=6].content": {
+      "pl": "Szybko się do tego przywyka.",
+      "kr_sha256": "3049cad772f64580a22a874743681118175ce14ab90eaef33484c8bbb14b3121",
+      "en_sha256": "5e597b747e666d649e0a4743a670f890aba168f3043bbc100952bc6bd4b24000"
+    },
+    "dataList[id=7].content": {
+      "pl": "Co jest… To brzmi trochę niebezpiecznie, nie?",
+      "kr_sha256": "c739c1098dd60b29d17d0fa37fdf7220fcf863e9cf12b2f1a26fd5727c1994fc",
+      "en_sha256": "88bcde94099828d19579494f4742484e7b695ac65b7b29ec96accba0521198ee"
+    },
+    "dataList[id=8].content": {
+      "pl": "Jeszcze się okaże, że ja to już nie będę ja? Ha, ha.",
+      "kr_sha256": "613a27be5e353bd69d6ca3f5622da49eb74edf4fcfe386025a3ce9aeb63bbcda",
+      "en_sha256": "140903b605083e1b32f697a2195124238709f3e6232a18671b20cc70f4c27d41"
+    },
+    "dataList[id=9].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=9102401].desc": {
+      "pl": "przy zdobywaniu [VibrationDistribution], nawet gdy nie ma żyjących sojuszników, traktuje tak, jakby był 1 inny żyjący sojusznik\njeżeli ta jednostka zyskuje [VibrationDistribution], gdy nie ma żyjących sojuszników, zyskuje 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "8b062cf75d0f888f7b974640486861228af1e292d46c9cd5243ef4f496830343",
+      "en_sha256": "5d20146d6ca239ec8b655ed0b71f5003b67eb972f985d965839f46a61e690b11",
+      "origin": "ai"
+    },
+    "dataList[id=9102401].name": {
+      "pl": "For Everyone",
+      "kr_sha256": "6c734ad5938703cae861f451e73096f645f9ef4f815bfa250d50ad4696c7f825",
+      "en_sha256": "c0bc2a34abff5831474030b324b0091a2dd1d82d1721ca57772a0219650b9308",
+      "origin": "ai"
+    }
+  }
+}

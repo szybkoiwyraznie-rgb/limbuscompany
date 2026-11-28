@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P1_D1].content": {
+      "pl": "W trakcie wydarzenia dostępna jest Ekstrakcja Celowana Nocy Walpurgii.",
+      "kr_sha256": "2c697e582aaa632a4e17b9dd030bce0514631e823cbf905ba88c14c239f4845d",
+      "en_sha256": "e12da76d248c7cbc4b649856d5bbd99f3603633da0a90d905a37e04439ff1482",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P1_D2].content": {
+      "pl": "W Ekstrakcji Celowanej Nocy Walpurgii zwiększona jest szansa wylosowania Tożsamości oraz E.G.O z bieżącej edycji Nocy Walpurgii.",
+      "kr_sha256": "cad0985fd9dd9bfacf92fa751e1ca4bbb799256714283bcec962cd34c99c5adf",
+      "en_sha256": "469413563a3ee6aa09acfabde05cf13c3c40027141e8d7485423f02124698233",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P1_D3].content": {
+      "pl": "Elegię Fal Ishmael można zdobyć wyłącznie jako [nagrodę wydarzenia Pielgrzymka Współczucia] — nie jest dostępna w Ekstrakcji, Automacie ani Wymianie Yisanga.",
+      "kr_sha256": "04b79fdb8d65b254a71befc883f90e108e5b1d60931eb937002a187f64c01c0c",
+      "en_sha256": "815f01315faf655a9d6bc7f51c7bb1dfbd38ef3ec8ed7e1722e2159cb0cf65bc",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P1_D4].content": {
+      "pl": "※ E.G.O losowane są bez powtórzeń — raz zdobyte E.G.O nie pojawi się ponownie w Ekstrakcji.\n(Na liście Wymiany Yisanga posiadane E.G.O oznaczone jest jako posiadane i nie podlega wymianie).",
+      "kr_sha256": "3ed020f3b3cd604e90d2e70d4213480e073a5d1af13c6fa4b555d643cb4ddd54",
+      "en_sha256": "c391a9c1ff67e221177594fc47b37865208f9f0b96d0cdb27a9d87512053e583",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P1_T1].content": {
+      "pl": "Noc Walpurgii",
+      "kr_sha256": "721a47b63d4017b9cd794700b23c6cf21994f338aee707849d63559b96d918ee",
+      "en_sha256": "108187ba97055be215acdb577c5d14aa6c4fbb713b7cbec17bb3384621325ced",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P2_D1].content": {
+      "pl": "W trakcie wydarzenia Tożsamości oraz E.G.O z bieżącej Nocy Walpurgii mogą pojawić się także w innych Ekstrakcjach (z wyjątkiem powiązanych z sezonem).",
+      "kr_sha256": "5f565161347e513e5dd6434764d1ca6e467f0b3c52f263fd38e391a1c88293d2",
+      "en_sha256": "ddd2296ea4bfa0eaa74b10e167e3dacd0992d070fbc494ca026fd893626c0f70",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P2_D2].content": {
+      "pl": "W takich Ekstrakcjach szansa ich pojawienia się nie jest jednak dodatkowo zwiększona.",
+      "kr_sha256": "cb5ae7f9db31717d61f19d252fa08a743b9564b86b9185b89b29d1ffd3c58e14",
+      "en_sha256": "d3360a3aa499595e7de9b11a26f87c457efe9a082be7c6394caae511a5c32eaf",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P3_D1].content": {
+      "pl": "Po zakończeniu wydarzenia Tożsamości i E.G.O Nocy Walpurgii znikają ze wszystkich list Ekstrakcji.",
+      "kr_sha256": "79d6a4fbddcfd021eaf97c8342df299a468f9035cfd3dd9e21365c065f96ebbe",
+      "en_sha256": "b6fd0cd27cc17029900380ed2bcd7e5c41873b80c4592eea10a694bed4b17e25",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSpecialEvent_Pilgrimage_P3_D2].content": {
+      "pl": "W trakcie wydarzenia we wszystkich Ekstrakcjach (z wyjątkiem powiązanych z sezonem) mogą pojawić się Tożsamości i E.G.O z poprzednich edycji Nocy Walpurgii, lecz bez zwiększonej szansy wylosowania.",
+      "kr_sha256": "157fce4ef3f3f8fa596907f4f2da5d7898ff9e0def884e0d8ac24728138c476f",
+      "en_sha256": "4544ac7c50c1e939cd6b595e5c84d5d47a65190ae9467dd403b224e82ce4ecf2",
+      "origin": "ai"
+    }
+  }
+}

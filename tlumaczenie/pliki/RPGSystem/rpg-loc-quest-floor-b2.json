@@ -1,0 +1,328 @@
+{
+  "entries": {
+    "dataList[key=Q-2000].description": {
+      "pl": "Dotarliśmy na poziom -2. Idźmy dalej.",
+      "kr_sha256": "871fdbf3a632374ab35469b5229df8bdd6f252ef0c7aa538254bb12171171684",
+      "en_sha256": "c6b4a5bdb6a0c39fd64578fef3b8939ea9b4d611fcf16820c18ce41cfa46a21e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2000].steps[#0].goalDescription1": {
+      "pl": "Rozejrzyj się na poziomie -2",
+      "kr_sha256": "816bcf20d8af649477797798e63c30424af6ae65763eb022596ddf0b003073f9",
+      "en_sha256": "34eab12e0fdc173c24a88311f2c0454b98754fea5992683be7d56654a0c8c9b1",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2000].title": {
+      "pl": "Rozejrzyj się na poziomie -2",
+      "kr_sha256": "816bcf20d8af649477797798e63c30424af6ae65763eb022596ddf0b003073f9",
+      "en_sha256": "34eab12e0fdc173c24a88311f2c0454b98754fea5992683be7d56654a0c8c9b1",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2001].description": {
+      "pl": "Zeszliśmy na poziom -2. Siostra Kromer opowiedziała nam o miejscu zwanym Gniazdem Przędzy. Udamy się na lewo.",
+      "kr_sha256": "5943efc01aaf02c119595ba1c2faf2404053c57393cebcd9897e58e7e88342c7",
+      "en_sha256": "4ce4ebf216361db57265ef12ee0d27e9685283e8d3833c6dab76897799ae78fc",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2001].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Gniazda Przędzy po lewej",
+      "kr_sha256": "1e0dc4e12adf205c66c75a75d51317560809e5c63584fab7337a6188cb4fac9c",
+      "en_sha256": "897e7ee56d96853fcec47bd7c60246fb48666c4cc789590dd05629dd69b0a258",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2001].title": {
+      "pl": "Udaj się do Gniazda Przędzy",
+      "kr_sha256": "75a35ede76e73b475b8dff3663712512b2c8db9d13827f853ad5fa7915088d52",
+      "en_sha256": "1624660adfbd7d479c69621896585bc2c2903f2c2a411ed323b715637bdc1151",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].description": {
+      "pl": "Chcieliśmy dotrzeć do Gniazda Przędzy, ale ogromny, nieznany potwór dopadł nas i zabił. Chyba polował na niesiony przez nas Złoty Kokon. Na razie wyjdźmy z toalety i poszukajmy innego sposobu.",
+      "kr_sha256": "c1f37617d6e340d2ed496deb4d3bf91a02ab09d84c12bcd35659a597da1163b5",
+      "en_sha256": "83a9af83aa3211f200fa3f224bc0d9b304aa4459deebc50536bdb7a7d53afea1",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].steps[#0].goalDescription1": {
+      "pl": "Wyjdź z toalety",
+      "kr_sha256": "5744cbca145b663ebb3354a2bcbd3c076274c01c4de4b8c9fadae2c2e7f7569e",
+      "en_sha256": "6e8da88eeadc05d1072c282a5f49c87727d7c827be400860cad7586fd4d26177",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].title": {
+      "pl": "Wyjdź z toalety",
+      "kr_sha256": "5744cbca145b663ebb3354a2bcbd3c076274c01c4de4b8c9fadae2c2e7f7569e",
+      "en_sha256": "6e8da88eeadc05d1072c282a5f49c87727d7c827be400860cad7586fd4d26177",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2003].description": {
+      "pl": "Na szczęście potwór chyba na chwilę gdzieś odszedł. Skorzystajmy z okazji i spróbujmy ponownie dotrzeć do Gniazda Przędzy.",
+      "kr_sha256": "4185e13c37ec133689cc298a144928a19437972f4653fbcb86c64536adf3794b",
+      "en_sha256": "94c949f5325526d7bc294936680d142fec7f4f72069b48ae200c1430a7821190",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2003].steps[#0].goalDescription1": {
+      "pl": "Udaj się ponownie do Gniazda Przędzy",
+      "kr_sha256": "1d0325ca074d72a7e11f5cfbe60661b3676cf9878752e18d260fc9316d73d6e4",
+      "en_sha256": "122f73cd23d506c4a00c6efc13f1a3a865ad0f3c62e0c591e2c2ea449e7f6c3f",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2003].title": {
+      "pl": "Udaj się do Gniazda Przędzy (2)",
+      "kr_sha256": "08e25690fde2e3320a0c7bff0a8d9a3c31f9c91d1f4fcb426e3a3d3d24be1d72",
+      "en_sha256": "aeae3d6f2376876d39eb2c654ecea8e3f287dfbe5f9844ceb032c697f0f1bffd",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004].description": {
+      "pl": "Bez przeszkód dotarliśmy do Gniazda Przędzy. Kierownik Piętra -2 jest na miejscu. Zapytajmy, czy potrafi uprząść Złotą Przędzę ze Złotego Kokonu.",
+      "kr_sha256": "cf4fa191db39040946cf6dedd00e9df6f42d60abc79118ca77b28137fd98351c",
+      "en_sha256": "3d4df30758c1e185f67d371d46e6539365d18a3032bdadf4ed56116ba1ae8732",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Kierownika Piętra -2",
+      "kr_sha256": "eac2e77906dc18f81adf002fd7ada714dc4cf51c7ac87257c183994110871964",
+      "en_sha256": "82665c31d1ba278c45953c2efa612ce8fc4b7cb6bdfc14d6d6e5dc12eaf14872",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004].title": {
+      "pl": "Rozmawiaj z Kierownikiem Piętra -2",
+      "kr_sha256": "18a6a647246701dbe131b5f57330d9b3f8fe0d424a1724e09f8010008a7c1644",
+      "en_sha256": "0676417f9841ddaad28990a014f023634526f18268bb4f696702b9db16701f9d",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2005].description": {
+      "pl": "Kierownik Piętra powiedział, że do uprzędzenia Złotej Przędzy potrzeba Złotego Barwnika. Podobno można go dostać od Palety z Farbiarni. Udamy się do Farbiarni. Po wyjściu na korytarz trzeba iść w górę.",
+      "kr_sha256": "f15e8658cd91a4f16cc84f6dec4967fbde6b853341a3314e2e0935dcbb3747ca",
+      "en_sha256": "343e481db9270b319f3ba19ac1537d8c8b1ff40a41a8ece06a61e4bd21688b0a",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2005].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Farbiarni",
+      "kr_sha256": "6a3c4df03571eb628a6cf84350f7f4ecec2cfdc5f2208d5f2ab42e23fb526496",
+      "en_sha256": "490a187826de77cd1390b655001d36f40d5551be5036fa676bacf49c27df6e6e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2005].title": {
+      "pl": "Udaj się do Farbiarni",
+      "kr_sha256": "6a3c4df03571eb628a6cf84350f7f4ecec2cfdc5f2208d5f2ab42e23fb526496",
+      "en_sha256": "490a187826de77cd1390b655001d36f40d5551be5036fa676bacf49c27df6e6e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2006].description": {
+      "pl": "Podsłuchajmy rozmowy pracujących klientów i zbierzmy plotki.",
+      "kr_sha256": "8966f5232223863701591c2ff24301bb00669e8781e4ca91d5cb2b2cbabd3559",
+      "en_sha256": "5c18312b93dfa2f35f52f2f54423879fce5aaf4cd3fe1a3d4698361cd40842e7",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2006].steps[#0].goalDescription1": {
+      "pl": "Podsłuchaj pracującego klienta",
+      "kr_sha256": "237ab64e76712f42918a5e8167c4d4093109ab5c237b32ff1d9ea795feb05d4f",
+      "en_sha256": "657facbaa5ff191dddc6dd5b8a1eb129016deec184b464790fd596e173d3a289",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2006].steps[#1].goalDescription1": {
+      "pl": "Wypytaj pracującego klienta",
+      "kr_sha256": "4e360f07c640d783e3af6c5e7a752c50d001d29acf137e7f3cb7598fd75db9c5",
+      "en_sha256": "657facbaa5ff191dddc6dd5b8a1eb129016deec184b464790fd596e173d3a289",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2007].description": {
+      "pl": "Kolejka po Złoty Barwnik jest absurdalnie długa. Podobno najwcześniejsze miejsce zajmuje Le Noir o imieniu Naked. Znajdźmy Nakeda i spróbujmy wynegocjować jego miejsce.",
+      "kr_sha256": "d81c214b4babe92b804d8e0701a11cff641293dd5c4845223942c60165e2448e",
+      "en_sha256": "3f53d20b29db9b9156573491c00328816808019d075df14ff759c0208da4e228",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2007].steps[#0].goalDescription1": {
+      "pl": "Znajdź Nakeda i negocjuj",
+      "kr_sha256": "314d8cf77af20bdf4e9062349fc23121c346d3d69bba201978d86b9f1e2a1ec6",
+      "en_sha256": "8ef9f9f801ed8960fa7a7a52e36f9ced0d1b3b83c90d11e2c1523165473ab51c",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2007].title": {
+      "pl": "Znajdź Nakeda i negocjuj",
+      "kr_sha256": "314d8cf77af20bdf4e9062349fc23121c346d3d69bba201978d86b9f1e2a1ec6",
+      "en_sha256": "8ef9f9f801ed8960fa7a7a52e36f9ced0d1b3b83c90d11e2c1523165473ab51c",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2008].steps[#0].goalDescription1": {
+      "pl": "Wypytaj Le Noir z kolejki",
+      "kr_sha256": "3b727aa3aba3f27dee6c461a209e3b4ecd9ef3da9d8a3ae15fdfeecbeb9f9003",
+      "en_sha256": "60fec062c13d83ca9a11640710abb4c6359e899a70ca60fa030eb77b4efd83ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2009].description": {
+      "pl": "Naked nie zamierza oddać Złotego Barwnika za darmo. W zamian zażądał barwnika o nazwie L'Incolore. Wróćmy do Palety i zapytajmy, czy może go zrobić.",
+      "kr_sha256": "120372ded1952f5a3b8a61411645601a467de9c74aa5f976daa8962e5e616476",
+      "en_sha256": "7ae38f105997c92cfa251250517ffe255fbd008523511ee7807a5b69fb64a3a4",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2009].steps[#0].goalDescription1": {
+      "pl": "Zapytaj Paletę o Barwnik L'Incolore",
+      "kr_sha256": "c5584cc71b8d94f6d61e119e1da7977c54e21f830d7e5ba550f96e6c3d8c846e",
+      "en_sha256": "58fca1fee7d3f9972908bea8f628c085e94e25895e5d60ba30833314126261b7",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2009].title": {
+      "pl": "Zapytaj Paletę o Barwnik L'Incolore",
+      "kr_sha256": "c5584cc71b8d94f6d61e119e1da7977c54e21f830d7e5ba550f96e6c3d8c846e",
+      "en_sha256": "58fca1fee7d3f9972908bea8f628c085e94e25895e5d60ba30833314126261b7",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].description": {
+      "pl": "Na szczęście Paleta może zrobić L'Incolore od razu. W zamian prosi o rozbicie Łz o różnych barwach. Podobno można je zdobyć w Magazynie Barwników po prawej. Zbierzmy po 2 Żółte, 2 Czerwone i 2 Niebieskie Łzy i przynieśmy je Palecie.",
+      "kr_sha256": "2df7d3cb7088f9a7b5e24e6c72a02259b1d760065c5aef34716a091bb3a0ad2b",
+      "en_sha256": "003a2aa5034609db51ca183c0678e713fdfa57e98b13180eb5f10d087517fe41",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].steps[#0].goalDescription1": {
+      "pl": "Zbierz żółty Barwnik",
+      "kr_sha256": "a67f0dd7b724fe0ffe73c69008e13cafab1e86aded783bc3a2e616b322684518",
+      "en_sha256": "01695de245376ae93664fa8e18e96d612d00baac442b40cb78d6dfa0b4d851e6",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].steps[#0].goalDescription2": {
+      "pl": "Zbierz czerwony Barwnik",
+      "kr_sha256": "129dec55d905fbdec08ecf485bfbfb3d1c340e439a394b0dfc40b1b8eeb60998",
+      "en_sha256": "bed0c747375bd0f55a762bdfc701dcd0f74f886625e063954d35f6d925924206",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].steps[#0].goalDescription3": {
+      "pl": "Zbierz niebieski Barwnik",
+      "kr_sha256": "e9fd8011a74d9b6dd480206e309890307a9900c336524c79729c20cc1a1ed099",
+      "en_sha256": "969d8793e2df0350a79042cc83bc8c51443fa6ea8da557f7d38cdf8041160e23",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].steps[#1].goalDescription1": {
+      "pl": "Przekaż Barwniki Palecie",
+      "kr_sha256": "857eb81d16b9c8a068d23de76bbe2168e06ed266478d41367c202d38fbb937fc",
+      "en_sha256": "d61a991101ed997d70bd61d29776beb28dbe0780a3b7fbdf57ee9ef2cf03558f",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].title": {
+      "pl": "Rozbij Łzy w Magazynie Barwników",
+      "kr_sha256": "92170a63ea09fcd370967e11ee0ec0e5853bdb9bd119cf2985aa3132329d3d23",
+      "en_sha256": "487e01c8886c27618ca9febe05ad8edd006900864aaebdd9aa81b9a4d866e5fe",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2011].description": {
+      "pl": "Dostaliśmy od Palety barwnik L'Incolore. Nie widzę w nim żadnego koloru, ale… zanieśmy go Nakedowi i zapytajmy, czy wymieni go na Złoty Barwnik.",
+      "kr_sha256": "0477ed13ae1b2ffdfb7fc15b365705616288f63894784936f87be534e9e2754c",
+      "en_sha256": "d824a3fce67701c79d36ad03280c689b2902e1449920ee6ac98b4303226f3180",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2011].steps[#0].goalDescription1": {
+      "pl": "Wymień L'Incolore na Złoty Barwnik u Nakeda",
+      "kr_sha256": "b3627f6d3982c47a74d9ee8368e8712186e8fa24f256806005fae9afa30d4d6d",
+      "en_sha256": "ec782e19d770a78b166ee958c8f2ff6d6ca072d113f2b6e4345fdd01cd175931",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2011].title": {
+      "pl": "Odwiedź Nakeda po Złoty Barwnik",
+      "kr_sha256": "18e270f22bf7d7eed71d6c80d9885ad3e3dd40fe4e8784f121f5e20a8d5806c2",
+      "en_sha256": "e447c082ada21296c512fbde160ebd923268c5e9cff3732a511511ecea781fcc",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2012].description": {
+      "pl": "Odbierzmy Złoty Barwnik od Palety.",
+      "kr_sha256": "6c533c3ea9919490c94d44454832f1684db1a61f08c4e5e9e13215fd4d8f2c08",
+      "en_sha256": "aa1a25b77743361ac798df4300fd7c3fb8bd92425474e2c2c03f8c1818975664",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2012].steps[#0].goalDescription1": {
+      "pl": "Odbierz Złoty Barwnik od Palety",
+      "kr_sha256": "15e5f9c4cf4bb74f716087341d206fbd0d895974988fd692b7ce36121fbf817b",
+      "en_sha256": "8a05e241bce191284f207016d16f0c0ba1f611f74ed10bdb697dc60f8d46c972",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2013].description": {
+      "pl": "Dzięki staraniom Outis Naked w końcu oddał nam Złoty Barwnik. Zanieśmy go Kierownikowi Piętra -2.",
+      "kr_sha256": "540d225148a3a64d857e6f0b61c4721dee0735386182912ff54f1721abe3923c",
+      "en_sha256": "c2604f1cd555afb0d8b9cc5390d309f39c422fcc8e192143120243d10649ce28",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2013].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Kierownika Piętra -2",
+      "kr_sha256": "00cef147f29f6dbf569e5a2f14402b418bfe13aa062bd0c1a74a83b5dbfe987b",
+      "en_sha256": "58b1607b215849b86e291b714e12e66cc48fbdbe3588eb747a6e612408419eb5",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2013].title": {
+      "pl": "Udaj się do Kierownika Piętra -2",
+      "kr_sha256": "00cef147f29f6dbf569e5a2f14402b418bfe13aa062bd0c1a74a83b5dbfe987b",
+      "en_sha256": "58b1607b215849b86e291b714e12e66cc48fbdbe3588eb747a6e612408419eb5",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2014].description": {
+      "pl": "W trakcie uprzędania Złotego Kokonu w Przędzę z korytarza dobiegło kroki. Chyba ktoś pożąda Złotej Przędzy. Blokujmy wejście na korytarz, aż uprzędzenie dobiegnie końca.",
+      "kr_sha256": "25bba6132532cb3024d48f77a7323dc2cfa1097d70317c92affa4c8f66f2ab7b",
+      "en_sha256": "3a6d5e727f91f73b1c91ec4b19f9704e820b4038331f64e78797e77ddf51302d",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2014].steps[#0].goalDescription1": {
+      "pl": "Odepchnij intruzów z korytarza",
+      "kr_sha256": "1310dcca7d92f9c9c62451b63bb31c0afc5b56a9a340e7c3ad2803efa7bfa032",
+      "en_sha256": "514b26bd2b570c8f417a6598ec32edecca76a3ec1de755a1c1ac0e780f1206ea",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2014].title": {
+      "pl": "Odepchnij intruzów z korytarza",
+      "kr_sha256": "1310dcca7d92f9c9c62451b63bb31c0afc5b56a9a340e7c3ad2803efa7bfa032",
+      "en_sha256": "514b26bd2b570c8f417a6598ec32edecca76a3ec1de755a1c1ac0e780f1206ea",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2015].description": {
+      "pl": "Nieznany potwór pada. Wróćmy do Kierownika Piętra -2 i odbierzmy skończoną Złotą Przędzę.",
+      "kr_sha256": "3ec7cbbe1f58983dacf7c30c3558b0738e3dd456dcb46f24383e46b65f6eece9",
+      "en_sha256": "52fc3f04ba7b058678a0d01c96f69536e7a2802338b650abc0e0e4a7f8a43c9a",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2015].steps[#0].goalDescription1": {
+      "pl": "Wróć do Kierownika Piętra -2 po gotową Złotą Przędzę",
+      "kr_sha256": "c34071f49f195f76b4be87b3d3b27f1fc83f84b147c65a1ca412ed630301e168",
+      "en_sha256": "51fb72439534c91bac4a07be605d32ca01722bc0b4b929eb1acb2f68f10fe93a",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2015].title": {
+      "pl": "Odbierz gotową Złotą Przędzę",
+      "kr_sha256": "df4564f3e274f4905cdc13015707989131c0e49657bd51d483d78a135a603efb",
+      "en_sha256": "61078b73b689de6a7990d20f0e466c0e6f61b07a8eff12cd3407fe39191e02c5",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2016A].description": {
+      "pl": "Mamy gotową Złotą Przędzę. Wygląda na to, że na poziomie -2 skończyliśmy. Opuśćmy go.",
+      "kr_sha256": "c016432805cdb1101ac9e94798d88eff85b6143064a44a8cf3becffdeeeb2192",
+      "en_sha256": "13a5b017887b359f84fcb9e9ab721164d43202c06d76c64356062f9397f4ee31",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2016A].steps[#0].goalDescription1": {
+      "pl": "Opuść poziom -2",
+      "kr_sha256": "7ee973c413e6e7b07b5fdc420a7d56eb546d632a2b1d6d53e20a61378d1a0b55",
+      "en_sha256": "e89f24ad60fd3b2a6b676032b843566d77ee791562d64b03a6241304cb0d31b2",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2016A].title": {
+      "pl": "Opuść poziom -2",
+      "kr_sha256": "7ee973c413e6e7b07b5fdc420a7d56eb546d632a2b1d6d53e20a61378d1a0b55",
+      "en_sha256": "e89f24ad60fd3b2a6b676032b843566d77ee791562d64b03a6241304cb0d31b2",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2017].description": {
+      "pl": "Czas wjechać na 3. piętro i przekonać się, czy ze Złotej Przędzy można utkać Złotą Tkaninę.",
+      "kr_sha256": "9ba756d39d4d065ddc9565e18e88b1f68b6f74649e69c211a72c2c72fcdd764e",
+      "en_sha256": "cbbdf724fc5a76e2856758461877a46f50553e1fdff559f154eb95a79e0b69c3",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2017].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na 3. piętro",
+      "kr_sha256": "65ad393cee9f66242dc08021273c702dce889158462ce65779b867b3c4d9638e",
+      "en_sha256": "419169009bb2fde89bc7ab6e38515714afcf49c35bc2f16be239a846dbd9f42b",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2017].title": {
+      "pl": "Wspinaj się na 3. piętro",
+      "kr_sha256": "ca532987c60a4e9200c5f6718dc2e3a3a1eb05cea336425c4c764f5a835f8ce5",
+      "en_sha256": "8e42d05dbd84b8e839ca6e2903b975e6ed9657605a82a293be9283cd640d76f0",
+      "origin": "ai"
+    }
+  }
+}

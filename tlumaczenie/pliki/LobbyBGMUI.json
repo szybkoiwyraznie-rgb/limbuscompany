@@ -1,0 +1,178 @@
+{
+  "entries": {
+    "dataList[id=buy_bgm].content": {
+      "pl": "Zakup BGM",
+      "kr_sha256": "de44121a7160ce28586a3a79057635032b9e935efb3e0b082efdac791ca0efa0",
+      "en_sha256": "4e3fe61d22dd50bf7be3260ebafbad25aa1fb69533c62a5875d639df990e81fc",
+      "origin": "ai"
+    },
+    "dataList[id=not_enough_twine].content": {
+      "pl": "Za mało Nici",
+      "kr_sha256": "e0887d883da6a299d1cb1f62f1dd6680329890f7774ca05ca955c89ee52c3a6b",
+      "en_sha256": "cfc08687e3621d4c4451c62ee66e789f6d69df677233ddd469e63f3c05fc967d",
+      "origin": "ai"
+    },
+    "dataList[id=notice_not_enough_twine].content": {
+      "pl": "※ Za mało Nici.",
+      "kr_sha256": "3155cc118ef9753702d38161db38e23dc63f4fd618b9f3bf5a8c54d7f5738213",
+      "en_sha256": "56c7404ced280cf216706b473e27a11b4ed26c7c6ce035aa6593d7dba6b10fba",
+      "origin": "ai"
+    },
+    "dataList[id=ui_bgm_ui_all_bgm_list_desc].content": {
+      "pl": "※ Wybrany BGM będzie odtwarzany losowo w Oknie",
+      "kr_sha256": "fc92a959cfe4dbb8b433847af5be5e415f9e21bfde532bd14b7466651af767e4",
+      "en_sha256": "f20dd80027cedf59c8014458ccc7459523893b3bbf77666e3d2f6291859d007c",
+      "origin": "ai"
+    },
+    "dataList[id=ui_bgm_ui_all_bgm_list_title].content": {
+      "pl": "Lista wszystkich utworów",
+      "kr_sha256": "795381e2c99eebbf25d93094f74daf810efb1c16a300710a311599151e60cf3e",
+      "en_sha256": "f460f7d584757f77a83317d6d46f35e1772e73a7bd48d20eab5b62c5dbeb3523",
+      "origin": "ai"
+    },
+    "dataList[id=ui_bgm_ui_all_bgm_toggle].content": {
+      "pl": "Wszystkie utwory",
+      "kr_sha256": "ec9ddeb3d3b98de414f49d614b8af3465715cbf5f6d960a34f7a8bf9fb8e62da",
+      "en_sha256": "e3c222324a3cd5c8c91b8170a64dd282ab7e12c947d1a233ea057581e8853806",
+      "origin": "ai"
+    },
+    "dataList[id=ui_bgm_ui_all_playlist_toggle].content": {
+      "pl": "Playlista",
+      "kr_sha256": "3f406f1a63aad2020790621380f76171c9a508c725b97647aa67ee4ff6d9985d",
+      "en_sha256": "7af36c508516cf272af6f3f98b4977910b0efd7b2a5ac5976ff2a0fbf9771113",
+      "origin": "ai"
+    },
+    "dataList[id=ui_jukebox_title].content": {
+      "pl": "Szafa grająca",
+      "kr_sha256": "8b605217811309f6b376a4c2dc61dfaf0c96eb8de4147d811035e707a503ef50",
+      "en_sha256": "b2ced5c6bc6abca1dc2093c84813304ebbdb2bed6163f2d5c6e45a2e7343168c",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_acquired_after_chapter_clear].content": {
+      "pl": "Miksatka",
+      "kr_sha256": "e0fd1148f57679b97df84b75c5d89ed7223c9effbd29762660c93ff20bb29d0b",
+      "en_sha256": "46a24ba4e0a1b31c31d119d108ca125ae4cec0ca211ed8644a536df77662f19e",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_acquired_after_chapter_clear_with_condition].content": {
+      "pl": "Miksatka: {0}",
+      "kr_sha256": "07856c3176753499b03b67abe53b691d1658bb8d30e3e6d9b5108b5f17ac18e4",
+      "en_sha256": "a535ef9dce42062c5a4fd4bd5ba2a7cf3c584ae86d43ade6014e8dc5edd18223",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_add_failed_by_empty_character].content": {
+      "pl": "Aby ustawić BGM, wybierz najpierw Skazańca",
+      "kr_sha256": "d4f33b869657b1c1ae7336bbf1f2f8db5518b0f18f02be8f8d07cb7050e526b8",
+      "en_sha256": "468767aecb2410cd78dff54a18961b1d15cad0259487c11d4fba0d8b968e9e89",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_add_failed_by_playlist_filled].content": {
+      "pl": "Playlista jest pełna.\nNie można dodać utworu.",
+      "kr_sha256": "9c124ea7a0152d5e1490601863ba039e3a2f8a8d7dfc0459ed08d870bdd5119a",
+      "en_sha256": "126901bfae190369e65e5c4786c0c641759389fda1ed9c8528e0af4a58d6106e",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_filter_owned].content": {
+      "pl": "Posiadane",
+      "kr_sha256": "70802961d12a801bba22e249241cb512f77fada40473a9d88f91245ebcff5b0e",
+      "en_sha256": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_no_item_in_playlist].content": {
+      "pl": "Playlista jest pusta.",
+      "kr_sha256": "39b97877ec2db41969996d3be53a5c197ca7adeeb4a1a0ba07c48c4ba6f2baf7",
+      "en_sha256": "0ca4f9021878c6ccf50c98c4e5713f0d34f15f966845f4677776b11f4390d8f4",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_no_item_in_search_list].content": {
+      "pl": "Brak utworów w tej kategorii.",
+      "kr_sha256": "857098ab8dcfb5f797e420758b39e3c891172efd60cfb0ccdcde7538259e4792",
+      "en_sha256": "01255a4bec75e83ba418fde017925a028b340cf8bae5f25c42a230ab8d36b3b7",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_playlist_registered_desc_jukebox].content": {
+      "pl": "Utwory na playliście ({0}/{1})",
+      "kr_sha256": "3abecf571d9412666a22367a35174aa4197146f7b9aa1a801acad66d876b73b3",
+      "en_sha256": "ff7f95012a08c43ac749624389cdf54ffdfff96617d2bfb40e625827691cce96",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_playlist_registered_desc_lobby_bgm].content": {
+      "pl": "Utwory na playliście ({0}/{1})",
+      "kr_sha256": "3abecf571d9412666a22367a35174aa4197146f7b9aa1a801acad66d876b73b3",
+      "en_sha256": "ff7f95012a08c43ac749624389cdf54ffdfff96617d2bfb40e625827691cce96",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_playlist_title].content": {
+      "pl": "Playlista",
+      "kr_sha256": "3f406f1a63aad2020790621380f76171c9a508c725b97647aa67ee4ff6d9985d",
+      "en_sha256": "7af36c508516cf272af6f3f98b4977910b0efd7b2a5ac5976ff2a0fbf9771113",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_should_get_from_vending_machine].content": {
+      "pl": "Dostępne do zakupu w Automacie",
+      "kr_sha256": "8b78c680ff90cd580235f9ba857d6723cb333c35fbc0cd98f19dcbe8e086b19f",
+      "en_sha256": "9e2182c9d8046f5c2063e6fae5603937dbddba6ec0a8b773571460da3a0e139a",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_title].content": {
+      "pl": "Ustawienia BGM Skazańca",
+      "kr_sha256": "58ad407694b8c1bf385fef3494c90671bbdafaba01ffad5b58ac1fa3abcdbe59",
+      "en_sha256": "1c10f40d0ac6fb254c777afbd7ab578157e0ff397d0bc931e908f8fd5cba6dac",
+      "origin": "ai"
+    },
+    "dataList[id=ui_lobby_bgm_title_window].content": {
+      "pl": "Ustawienia BGM Okna",
+      "kr_sha256": "80fe5bd6e8aa2b0b4c3eed615e439f902bf3214b5feb7780a4abed381e99f083",
+      "en_sha256": "c0e8b271595bc0f2fe09264f74bd7a03454f730f7b5dafa74fd6a3e8072bf9f8",
+      "origin": "ai"
+    },
+    "dataList[id=ui_open_jukebox_button].content": {
+      "pl": "Szafa grająca",
+      "kr_sha256": "8b605217811309f6b376a4c2dc61dfaf0c96eb8de4147d811035e707a503ef50",
+      "en_sha256": "b2ced5c6bc6abca1dc2093c84813304ebbdb2bed6163f2d5c6e45a2e7343168c",
+      "origin": "ai"
+    },
+    "dataList[id=ui_playing_character_bgm].content": {
+      "pl": "Odtwarzanie: BGM wybranego Skazańca",
+      "kr_sha256": "eca11686594db6d5c810fcda6834cadec7a1d87b862c9789370a391761ca3c09",
+      "en_sha256": "99dc9a9951d59d5c2156c3d42fba5e0443be7b35549a2e37791b53cc0bb2bd37",
+      "origin": "ai"
+    },
+    "dataList[id=ui_playing_lobby_bgm].content": {
+      "pl": "Odtwarzanie: domyślny BGM Okna",
+      "kr_sha256": "9e1f0a50151d8a40fe1e9f838d73e4bf861837aa30953ab0fc85a194a7d25a45",
+      "en_sha256": "e518835b2ecda6c3c40ee55d3da7b28805ae2cf58d4221795b8d20d60b7f790e",
+      "origin": "ai"
+    },
+    "dataList[id=ui_setting_character_bgm_button].content": {
+      "pl": "Ustawienia BGM Skazańca",
+      "kr_sha256": "58ad407694b8c1bf385fef3494c90671bbdafaba01ffad5b58ac1fa3abcdbe59",
+      "en_sha256": "1c10f40d0ac6fb254c777afbd7ab578157e0ff397d0bc931e908f8fd5cba6dac",
+      "origin": "ai"
+    },
+    "dataList[id=ui_setting_dynamic_ui_select_clear].content": {
+      "pl": "Wyczyść zaznaczenie",
+      "kr_sha256": "fa3ad491d42f68688d13e559e7b99dc25fc2df4d77c3365e528d828ababf7315",
+      "en_sha256": "c52ff5ea803d577544a8224d1404ecefa836b803f029d87cd7450af6c18a70ef",
+      "origin": "ai"
+    },
+    "dataList[id=ui_setting_lobby_bgm_button].content": {
+      "pl": "Ustawienia BGM Okna",
+      "kr_sha256": "80fe5bd6e8aa2b0b4c3eed615e439f902bf3214b5feb7780a4abed381e99f083",
+      "en_sha256": "c0e8b271595bc0f2fe09264f74bd7a03454f730f7b5dafa74fd6a3e8072bf9f8",
+      "origin": "ai"
+    },
+    "dataList[id=ui_settings_popup_tab_title_change_bgm].content": {
+      "pl": "Zmień BGM",
+      "kr_sha256": "9141ebf61ce30080df86cfdc102c5c200817b1c50d8848547d4cc1c6d0c103e5",
+      "en_sha256": "f3584a36dc34c32d3bbce8c137faad5fc7bfba2b3e5e9b75718296dc741d9cf9",
+      "origin": "ai"
+    },
+    "dataList[id=ui_settings_popup_tab_title_change_ui].content": {
+      "pl": "Zmień styl UI",
+      "kr_sha256": "f170b455d70c5a2b90a0c81bf785d9854d1ce6c965072ead0121beb1c3d946bb",
+      "en_sha256": "adf5ae1b4e8de29fbdd3b956dae5aedeb983f95f016cbd261438219af3e48317",
+      "origin": "ai"
+    }
+  }
+}

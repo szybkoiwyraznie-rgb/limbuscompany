@@ -1,0 +1,154 @@
+{
+  "entries": {
+    "dataList[id=10701].stageList[id=10702].title": {
+      "pl": "Pożyczone Imię",
+      "kr_sha256": "e069373fa4c62ff964fb2190eb75eda32d80fd217a01b93fe644c9024bb52a1a",
+      "en_sha256": "fd1b7c18cdf26b3c6c183565d4552c470c025266df714ed67d50d7311ed117c8",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10703].title": {
+      "pl": "Żałosna Klęska",
+      "kr_sha256": "0fbaba428c918b53fa4287e054bea6d82c776538a36e13abd0ce70fe741dbaec",
+      "en_sha256": "3f4e716cb9991bb4fe918b9c23700bf5670a8acc7d93a1205af622547a4247bb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10704].title": {
+      "pl": "Żałosna Klęska",
+      "kr_sha256": "0fbaba428c918b53fa4287e054bea6d82c776538a36e13abd0ce70fe741dbaec",
+      "en_sha256": "3f4e716cb9991bb4fe918b9c23700bf5670a8acc7d93a1205af622547a4247bb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10705].title": {
+      "pl": "Żałosna Klęska",
+      "kr_sha256": "0fbaba428c918b53fa4287e054bea6d82c776538a36e13abd0ce70fe741dbaec",
+      "en_sha256": "3f4e716cb9991bb4fe918b9c23700bf5670a8acc7d93a1205af622547a4247bb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10706].title": {
+      "pl": "Żałosna Klęska",
+      "kr_sha256": "0fbaba428c918b53fa4287e054bea6d82c776538a36e13abd0ce70fe741dbaec",
+      "en_sha256": "3f4e716cb9991bb4fe918b9c23700bf5670a8acc7d93a1205af622547a4247bb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10707].title": {
+      "pl": "Żałosna Klęska",
+      "kr_sha256": "0fbaba428c918b53fa4287e054bea6d82c776538a36e13abd0ce70fe741dbaec",
+      "en_sha256": "3f4e716cb9991bb4fe918b9c23700bf5670a8acc7d93a1205af622547a4247bb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10708].title": {
+      "pl": "Pośród Strzaskanych Marzeń",
+      "kr_sha256": "a1f141ead53fd0fa46831ae3f04e5bcd16f3e265fd801ea15524827f1fb1831c",
+      "en_sha256": "c68c71d73d9a8bc29a9b2a2dc5035e4cc60195a75fcb850f429eb79b065d978c",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10709].title": {
+      "pl": "Wielka Przygoda",
+      "kr_sha256": "4c40e13c2e8c1df246f82fba8e0cfc4494097155fd51eca0ff6925531a66dd70",
+      "en_sha256": "e387b1763e6ded64b4be083afd16303e44a51167f42466e98207af3392a155d2",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10710].title": {
+      "pl": "Wielka Przygoda",
+      "kr_sha256": "4c40e13c2e8c1df246f82fba8e0cfc4494097155fd51eca0ff6925531a66dd70",
+      "en_sha256": "e387b1763e6ded64b4be083afd16303e44a51167f42466e98207af3392a155d2",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10711].title": {
+      "pl": "Wielka Przygoda",
+      "kr_sha256": "4c40e13c2e8c1df246f82fba8e0cfc4494097155fd51eca0ff6925531a66dd70",
+      "en_sha256": "e387b1763e6ded64b4be083afd16303e44a51167f42466e98207af3392a155d2",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10712].title": {
+      "pl": "Wielka Przygoda",
+      "kr_sha256": "4c40e13c2e8c1df246f82fba8e0cfc4494097155fd51eca0ff6925531a66dd70",
+      "en_sha256": "e387b1763e6ded64b4be083afd16303e44a51167f42466e98207af3392a155d2",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10713].title": {
+      "pl": "Antrakt",
+      "kr_sha256": "ee1462a1a52f3fdf8803e3f40323197260bb1debdb3dbb447f2acf5b3dbc207f",
+      "en_sha256": "135741f5dc742d3dc93db62d8f5ecb743fd9017f0a551a05cbc9e646ca71bcbb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10714].title": {
+      "pl": "Izolatorium Tych, Którzy Nie Porzucili Pragnienia",
+      "kr_sha256": "bba9877afc80f503a8b6e68ce9c5f294c6094f4d3dc7da04f0a032ae713337e9",
+      "en_sha256": "81024eca85b7b1a6e7722b9a7a05ba3d8a407eacfb27e46b439cb61b28ca4405",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10715].title": {
+      "pl": "Izolatorium Tych, Którzy Nie Porzucili Pragnienia",
+      "kr_sha256": "bba9877afc80f503a8b6e68ce9c5f294c6094f4d3dc7da04f0a032ae713337e9",
+      "en_sha256": "81024eca85b7b1a6e7722b9a7a05ba3d8a407eacfb27e46b439cb61b28ca4405",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10716].title": {
+      "pl": "Izolatorium Tych, Którzy Nie Porzucili Pragnienia",
+      "kr_sha256": "bba9877afc80f503a8b6e68ce9c5f294c6094f4d3dc7da04f0a032ae713337e9",
+      "en_sha256": "81024eca85b7b1a6e7722b9a7a05ba3d8a407eacfb27e46b439cb61b28ca4405",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10717].title": {
+      "pl": "Antrakt",
+      "kr_sha256": "ee1462a1a52f3fdf8803e3f40323197260bb1debdb3dbb447f2acf5b3dbc207f",
+      "en_sha256": "135741f5dc742d3dc93db62d8f5ecb743fd9017f0a551a05cbc9e646ca71bcbb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10718].title": {
+      "pl": "200 Lat po Zniknięciu",
+      "kr_sha256": "e1c79927c37ef7618f2deaa441c662521f07975ec5e62ebcf17169039b3c596a",
+      "en_sha256": "f3ab1fe33b5852204497f5f642ff9a3b017881ebca81523f919cb623a67023c5",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10719].title": {
+      "pl": "200 Lat po Zniknięciu",
+      "kr_sha256": "e1c79927c37ef7618f2deaa441c662521f07975ec5e62ebcf17169039b3c596a",
+      "en_sha256": "f3ab1fe33b5852204497f5f642ff9a3b017881ebca81523f919cb623a67023c5",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10720].title": {
+      "pl": "200 Lat po Zniknięciu",
+      "kr_sha256": "e1c79927c37ef7618f2deaa441c662521f07975ec5e62ebcf17169039b3c596a",
+      "en_sha256": "f3ab1fe33b5852204497f5f642ff9a3b017881ebca81523f919cb623a67023c5",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10721].title": {
+      "pl": "Antrakt",
+      "kr_sha256": "ee1462a1a52f3fdf8803e3f40323197260bb1debdb3dbb447f2acf5b3dbc207f",
+      "en_sha256": "135741f5dc742d3dc93db62d8f5ecb743fd9017f0a551a05cbc9e646ca71bcbb",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10722].title": {
+      "pl": "Los Dotkniętych Chorobą",
+      "kr_sha256": "985502c85c110aa6597e0a7d8da955d8e662e0203b10af045b7e3e7fef5405e6",
+      "en_sha256": "b4d2e3a58621433675623b9c3045ce769eb46b60d8660b194e16d928ecbbeaf2",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10723].title": {
+      "pl": "Koniec Snu",
+      "kr_sha256": "8487a3f89fc2a0f23a13121a392351483e54f5419a6d19e4a1e8f6924597025e",
+      "en_sha256": "54a08f57f33ebd9ed34ae110c956464f4383b17081cb4d37bac67f0db61dcb32",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10724].title": {
+      "pl": "Karuzela",
+      "kr_sha256": "65b0f6c70b5af283542f7ab4aaf661a219c838eb9c2d2bc25bcd4733b0467b3a",
+      "en_sha256": "755233d8d71beaeb947b566072ba37d3d605cf74d271a06d0ae071a240336bb6",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10725].title": {
+      "pl": "Niekończący się Sen",
+      "kr_sha256": "2fe4c9bef8cb8101d3b6dfd1721272c00c5f11d4b806cbeaddad736597a297d1",
+      "en_sha256": "22ef3eeb240d329c0ab0595c07cdd3da302809068fa3031781c206d3f07ac90f",
+      "origin": "ai"
+    },
+    "dataList[id=10701].stageList[id=10726].title": {
+      "pl": "Śniący La Manchaland",
+      "kr_sha256": "b1fb010cf07d92b6fb852209cd8da3b06d24778eb12f52c3825b4113e62f9b7a",
+      "en_sha256": "e4b2ba11c555c2f912ea97532d85bea6a1984492fb2b17935010e3a23014e5e1",
+      "origin": "ai"
+    }
+  }
+}

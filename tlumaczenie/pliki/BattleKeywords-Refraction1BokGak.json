@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=AggressiveBokgak].desc": {
+      "pl": "Maks. ładunków: 5\nNa koniec tury przy 4 lub więcej ładunkach stan zmienia się na „agresywny”.",
+      "kr_sha256": "6e78f59aa3e387d8c572be31cf53dfe64dc74394749f11bcc9d08ba88bf65376",
+      "en_sha256": "a03b2be169b60c2387e2a463bbf7f66758cb34e9b3ca3aeb99fb6dad6fd450f6",
+      "origin": "ai"
+    },
+    "dataList[id=AggressiveBokgak].name": {
+      "pl": "Instynkt",
+      "kr_sha256": "e757d18dad7117614675c68398061f7c0c5439389f235edee10d8def4924992f",
+      "en_sha256": "eb7ab1d269d88ce79ba3ac2bc31b6ea05082db9a3dec266b26279dd4a830d544",
+      "origin": "ai"
+    },
+    "dataList[id=DeadEGOResource].desc": {
+      "pl": "Przy pokonaniu zyskujesz Zasoby E.G.O odpowiadające Grzechom i rangom każdej Umiejętności ataku tej Tożsamości",
+      "kr_sha256": "cb63eded159f41873b6861dfad199db42f3e59833a67535f1d686ac2fb189678",
+      "en_sha256": "91b049e20873f99804313af1945c4d89d438f9f1c229bb6612074556ba8fe11a",
+      "origin": "ai"
+    },
+    "dataList[id=DeadEGOResource].name": {
+      "pl": "Zostawiona Determinacja",
+      "kr_sha256": "d3c365f0537c2f9503e8cf820630b39d9f1e51362334d24d1a940c8d08e98f71",
+      "en_sha256": "51aa2377bf3d5e8b2b8fb64e828413cca44ef2fc543934718dffb37070b6c437",
+      "origin": "ai"
+    }
+  }
+}

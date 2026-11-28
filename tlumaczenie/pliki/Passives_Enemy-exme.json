@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=9105701].desc": {
+      "pl": "przy 1 Liczniku [Breath] zamiast tracić Licznik [Breath] traci 10 HP (ten efekt nie Oszołomi jednostki i nie obniży jej HP poniżej 1)\n\nUmiejętnościami bazowymi zadaje +((procent brakującego HP jednostki) / 2) obrażeń przy trafieniu krytycznym (maks. 50%)",
+      "kr_sha256": "157f77a8081354138971a2daf0ec85c294e73c811167be439e5b5a15723d6bef",
+      "en_sha256": "b7018f0c364849c837712bb4f5a1d487975e3b016a706874e4749308063417a6",
+      "origin": "ai"
+    },
+    "dataList[id=9105701].name": {
+      "pl": "Bearing of a Salsu",
+      "kr_sha256": "fb6916eb0964a8d299af770b9f493c649b82530e9dcfbb82b9b09c8bc520bd5a",
+      "en_sha256": "26471ced9b57c5f6e096f4413f65c4be7421be9beb033c372068bc03774b7905",
+      "origin": "ai"
+    },
+    "dataList[id=9105702].desc": {
+      "pl": "zyskując Siłę [Breath] efektami własnych Umiejętności i Monet, nakłada 1 [Breath] sojusznikowi bez [Breath] albo z najniższą Siłą [Breath] (maks. 5 razy na turę)\n\nna Początku tury, jeżeli Kim w Bambusowym Kapeluszu jest na polu walki, zyskuje 1 [SlashDamageUp] i nakłada +2 Licznika [Laceration]",
+      "kr_sha256": "b5ce9594d45d7dbb444b71bb3a3281201d48f8ec521b5334c70a1ee16fd7fb84",
+      "en_sha256": "8150f5ffee8aef657407d194ca31d992a46a0a08e52a80055c0afff8a36c348e",
+      "origin": "ai"
+    },
+    "dataList[id=9105702].name": {
+      "pl": "A Breath Taken Together",
+      "kr_sha256": "e39b12ff9879af75abe700a9a5d7c83d1c75ec5a6e7b5f4213f8f6c36c23c645",
+      "en_sha256": "7fa922389d70264d1cb663b7df4c7b7d1218b08c06301ca248b3bc03148ce565",
+      "origin": "ai"
+    },
+    "dataList[id=9105703].desc": {
+      "pl": "po przegranej w Starciu zyskuje 1 [RegretSCorp]",
+      "kr_sha256": "d3ef2fafc29d9b7fe1dedba0b26e01e8a521ee58742f9f08f9a939d418b29099",
+      "en_sha256": "379b16fcdafd00a0c92ab88ea9f8555e00de37e7571639e86f08300c50fc90b5",
+      "origin": "ai"
+    },
+    "dataList[id=9105703].name": {
+      "pl": "Headsplitting Memory",
+      "kr_sha256": "a67f56db35c211bd29b4e1a6526398671738f7b9b6c1d83216377e5fc0f8c2cf",
+      "en_sha256": "97903d57dc6ac6fd13a0c710ca5663cf3784556258c43d09d8f17d83f303cf03",
+      "origin": "ai"
+    },
+    "dataList[id=9105704].desc": {
+      "pl": "jeżeli jednostka zostanie pokonana, na następnym Początku tury nakłada 5 [Breath] i +2 Licznika [Breath] wszystkim sojusznikom z Linii Miecza\n\nna Początku tury przy 20+ Siły [Breath] wyposaża „Slash Series” w skrajnie lewy Slot",
+      "kr_sha256": "994dbfed3150bc7543787d8b109873c75eb2241d9b10e21f4aac451abc808c5c",
+      "en_sha256": "aae0c7de60635b94d9a864c21969cb3c6319a1560fcfb62f65e4619c5c01d5ad",
+      "origin": "ai"
+    },
+    "dataList[id=9105704].name": {
+      "pl": "The Last Breath",
+      "kr_sha256": "8dd50b9b5601ed050000e5f1fc62949e752886124430d71b6e9337941fd7c0c2",
+      "en_sha256": "f316b394d14949033b453a3f970f7c875977d1df8f9211ed2dbbbb85edd5813d",
+      "origin": "ai"
+    },
+    "dataList[id=9105804].desc": {
+      "pl": "jeżeli jednostka zostanie pokonana, na następnym Początku tury nakłada 5 [Breath] i +2 Licznika [Breath] wszystkim sojusznikom z Linii Miecza\n\nna Początku tury przy 20+ Siły [Breath] wyposaża „Slash Series” w skrajnie lewy Slot",
+      "kr_sha256": "994dbfed3150bc7543787d8b109873c75eb2241d9b10e21f4aac451abc808c5c",
+      "en_sha256": "aae0c7de60635b94d9a864c21969cb3c6319a1560fcfb62f65e4619c5c01d5ad",
+      "origin": "ai"
+    },
+    "dataList[id=9105804].name": {
+      "pl": "The Last Breath",
+      "kr_sha256": "8dd50b9b5601ed050000e5f1fc62949e752886124430d71b6e9337941fd7c0c2",
+      "en_sha256": "f316b394d14949033b453a3f970f7c875977d1df8f9211ed2dbbbb85edd5813d",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "entries": {
+    "dataList[id=9103401].desc": {
+      "pl": "na początku tury\n- zyskuje [IndexPrescriptEnemy_0]/[IndexPrescriptEnemy_1]/[IndexPrescriptEnemy_2]/[IndexPrescriptEnemy_3] zależnie od Stosu [BlessingOfIndexPrescriptEnemy] na sobie\n- nakłada [IndexPrescriptTargetToPersonality] na 1 losowego Grzesznika\n(w walce skupionej ataki priorytetowo traktują Grzesznika z [IndexPrescriptTargetToPersonality])",
+      "kr_sha256": "b5e918f715bed7245175e8bad61968a8a95a7c0c2780cd97c6c23dca6988a32c",
+      "en_sha256": "9ab562d66711cb3752713d11ecae8b9dcc79b9e36baa2db7ebe408a1549e1a7a",
+      "origin": "ai"
+    },
+    "dataList[id=9103401].flavor": {
+      "pl": "„Niektórzy z was być może już wiedzą, że zlecenia trafiają do wykonawców różnymi drogami. Spośród nich kartka papieru jest najbardziej zwyczajna — i najbardziej przez wielu preferowana.\"",
+      "kr_sha256": "aeee6788d8c737b2f3bff747047f01e46fe3871139edec9b3dbfe2429fc47b19",
+      "en_sha256": "f287ec97994bd3e68f30d144916ebb901505c9095f0e9cebd6ad1fde0c5629fe",
+      "origin": "ai"
+    },
+    "dataList[id=9103401].name": {
+      "pl": "Prescript Delivered on Paper Slips",
+      "kr_sha256": "5cc238c156e88617be9632b7657c15cf487a8bd3ca6e91d31fe11991ff04129c",
+      "en_sha256": "27368683c61f993bfaa58db866f793055d8b7478f758e9c2156174dc07675abd",
+      "origin": "ai"
+    },
+    "dataList[id=9103402].desc": {
+      "pl": "na koniec tury, jeżeli w tej turze wykonano [IndexPrescript_Base], przywraca 5 Poczytalności i zyskuje 2 [BlessingOfIndexPrescriptEnemy] (1 raz na turę)\n- jeżeli ta jednostka ma [IndexPrescriptEnemy_2] lub gdy wykonuje [IndexPrescript_Base] cel ma [IndexPrescriptTargetToPersonality], zamiast tego przywraca 10 Poczytalności i zyskuje 3 [BlessingOfIndexPrescriptEnemy]\n\nna koniec tury, jeżeli w tej turze nie wykonano [IndexPrescript_Base], zyskuje 10 [KarmaOfIndexEnemy]\n- przy poniżej 6 [BlessingOfIndexPrescriptEnemy], zyskuje 1 [BlessingOfIndexPrescriptEnemy] na koniec tury\n- przy 9 [BlessingOfIndexPrescriptEnemy], nie zyskuje [KarmaOfIndexEnemy]",
+      "kr_sha256": "f9c8dd3150ad1b9e607beb555d0b87f6a9334778c31358ec49473b862cb53706",
+      "en_sha256": "fedbd51877a0021946389fef3bcf622eb1973fded4daa993b9d0933638ceadf3",
+      "origin": "ai"
+    },
+    "dataList[id=9103402].flavor": {
+      "pl": "„A zatem pytanie, które musimy zadać: ile form mogą przyjmować zlecenia Index? Czy wszystkie płyną z jednego źródła, czy za każdą z nich stoi odrębny sprawca?\"\n\n„Rozplątywanie tych zagadek to cel naszego Towarzystwa Badań nad Indeksem. Dołączysz?\"",
+      "kr_sha256": "12c06df3f620a55aafe7d5be806905ec271543b2d45c48856c9faf84a7f26df8",
+      "en_sha256": "7d39cac816fc62f781ec641bcbd266e1c946922c2d2ae8d487775dff8bb2248e",
+      "origin": "ai"
+    },
+    "dataList[id=9103402].name": {
+      "pl": "Will of the Prescript",
+      "kr_sha256": "2772e5e7cbf4ee6e6747944190daf44aa09359a070c901d502d6d5212b3b5e5a",
+      "en_sha256": "ad0cc32ff55317bd14b8197758b565a04a576c7f633e4a969bb8a8c633a3a8e7",
+      "origin": "ai"
+    },
+    "dataList[id=9103403].desc": {
+      "pl": "zadaje +2.5% obrażeń [IndexPrescriptTargetToPersonality] za każdy [BlessingOfIndexPrescriptEnemy] na sobie (maks. 20%)\n- przy 9 [BlessingOfIndexPrescriptEnemy], zamiast tego zadaje +30% obrażeń wszystkim celom\n\nprzy trafieniu celu z [IndexPrescriptTargetToPersonality], zyskuje 1 [Breath] i nakłada 1 [Sinking] (1 raz na turę)\n- za każde 3 [BlessingOfIndexPrescriptEnemy], liczba aktywacji tego efektu na turę rośnie o 1 (maks. 2)",
+      "kr_sha256": "fb8d40c9d41dd55bc7953a8edd30989e1c19a3545a39fe8d3fe52a1be9bd1fa1",
+      "en_sha256": "19a0a45d3cc4fd4d6ae9e95933d3a9426c3f87064fba92e90ef7c443786d029f",
+      "origin": "ai"
+    },
+    "dataList[id=9103403].flavor": {
+      "pl": "Skromne ostrze, niepozorne i niegodne wzmianki.\nJednakże podążając za zleceniem — wypełniając jego dyrektywy, dzięki pomocy Posłańców wyłaniających się z niewidocznych miejsc i naukom Pełnomocników — powoli doskonali się w broń obdarzoną unikatowym charakterem.",
+      "kr_sha256": "4b424ce20b96e28bf028a47421074d4bd669d40a7143d95f3d45459e7bce8eda",
+      "en_sha256": "37b29e3e5a6c81572fc92763786db36760e0d90c4b58b82310c46c4bd5d83994",
+      "origin": "ai"
+    },
+    "dataList[id=9103403].name": {
+      "pl": "Proselyte's Blade",
+      "kr_sha256": "9379365659173c630829ddf8a3c06452a50f9ef9dc58e09031c021b61d20edd1",
+      "en_sha256": "42cd8dfa9fc6441f4b19338186689474607cc41a65c6c7a68d7b2beadfef0a6c",
+      "origin": "ai"
+    },
+    "dataList[id=9104301].desc": {
+      "pl": "przed trafieniem, jeżeli cel nie miał [Laceration], nakłada +3 Licznika [Laceration] (1 raz na turę na wroga)",
+      "kr_sha256": "e2f0a5464ebc1287889f6d87067ba135ddc68d5577ab28d51723cf86f9acfbf1",
+      "en_sha256": "7566c0716e9d615824064cd4e39f7fe0de30fc0d80cc8edb217e1f450a151b19",
+      "origin": "ai"
+    },
+    "dataList[id=9104301].name": {
+      "pl": "Intense Primary Color - Rouge",
+      "kr_sha256": "03cebc9bc077a131ec261850950e25fbcdc0c12de3f038fa7ae02606ed47b1da",
+      "en_sha256": "fd4be6693f92e952cc526f113b27aea345a38b2d9f574b0330fe83e4cb51d499",
+      "origin": "ai"
+    },
+    "dataList[id=9104302].desc": {
+      "pl": "przy trafieniu Umiejętnością nakłada 1 [BearClawWound]\n\nza każde nałożone 4 [BearClawWound] zyskuje 1 [Enhancement] w następnej turze (2 razy na turę)",
+      "kr_sha256": "9ca651c391062af68f39ccdfa65c51355c7b61365255c767326ddfde35ee165c",
+      "en_sha256": "e675f27a281287183a3004ade4841ff26193b1309d730c050705a05babb15fa3",
+      "origin": "ai"
+    },
+    "dataList[id=9104302].flavor": {
+      "pl": "„Pierwszym krokiem zawsze jest tylko jedno zwierzę.\"\n\n„A z każdą kolejną eksploracją sztuki i dzikości, na poprzedni okaz nakłada się kolejną bestię.\"",
+      "kr_sha256": "f71bcc9ab60407895cd9113c601e09a5633e1bef5581d41059cbf863791c6ba7",
+      "en_sha256": "30f33fe6d466fc0f1be1c697e5297b9c626679766169f656a827bcfd16b4b533",
+      "origin": "ai"
+    },
+    "dataList[id=9104302].name": {
+      "pl": "Le Fauvisme - Masque de Chien",
+      "kr_sha256": "cbb12757c75d930943df746acde331747359171f76bfb8dcf686b5ae1f373daf",
+      "en_sha256": "5bf248a42704d0ac0e39502aa2a241f7a13e7b5f379fcfe8c706ab9045f53843",
+      "origin": "ai"
+    },
+    "dataList[id=9104303].desc": {
+      "pl": "gdy ta jednostka lub sojusznik zostanie trafiony, zyskuje 1 [AttackUp] w następnej turze (1 raz na Umiejętność, maks. 3 na turę)",
+      "kr_sha256": "b4c25b0271d99cb82a13add17b5a2bbcf604e37bd065e0d635f0e9e04ea1d373",
+      "en_sha256": "8493303cdfe2916527f55acd3139a1b576b7ea2655351633dc44980042486cd9",
+      "origin": "ai"
+    },
+    "dataList[id=9104303].name": {
+      "pl": "Welling Inspiration",
+      "kr_sha256": "5dc892ff9b105a52b468051830f1fac6f4acebaef1f252b8cd7870f0f4368c7a",
+      "en_sha256": "f755616e924c509d035ca9b8c2d8e2bf429dfdf6d8a180da20a46c851e030d88",
+      "origin": "ai"
+    },
+    "dataList[id=9104304].desc": {
+      "pl": "gdy ta jednostka ginie, nakłada 3 [BearClawWound] na 2 losowych wrogów",
+      "kr_sha256": "56293417a4a43d88e1a025f4c1f776aa9571e9a835599cec7b66a7c518ef7edf",
+      "en_sha256": "a5d559568b95880cdefac4096192a7d050faaae7b56eaa24dc9cb9c2820bf9fe",
+      "origin": "ai"
+    },
+    "dataList[id=9104304].name": {
+      "pl": "Final Brushstroke",
+      "kr_sha256": "ddb757d5af101a0f02a3c941496dcbf089bd98a79316d1cb0b355d0a946e658f",
+      "en_sha256": "cfa0d226b8e5349785672bc0330bfc0c71c3d99a00a03da19ceeb0749086573b",
+      "origin": "ai"
+    },
+    "dataList[id=9104501].desc": {
+      "pl": "przed trafieniem, jeżeli cel nie miał [Sinking], nakłada +3 Licznika [Sinking] (1 raz na turę na wroga)",
+      "kr_sha256": "5f734b07416c1733f7c6fc4467641b4161dff6878d756d0cd70ac220b6ea5bd2",
+      "en_sha256": "a71893cdae8b50585fa5ff4a12b7dc42c06bb4f0dc322952ab1b37bbfcb9d2ca",
+      "origin": "ai"
+    },
+    "dataList[id=9104501].name": {
+      "pl": "Intense Primary Color - Bleu",
+      "kr_sha256": "b66c09703d1dd2e15c2a43a36fe402a9609c1ea3ecbac7bea30bd223c7b214ca",
+      "en_sha256": "22c82a8d55dbe08bebfb223a775706f746e0a3a0fe19acc571281ce796a19b53",
+      "origin": "ai"
+    },
+    "dataList[id=9104502].desc": {
+      "pl": "przy trafieniu Umiejętnością nakłada 1 [EagleClawWound]\n- jeżeli ta jednostka ma [Agility], nakłada o 1 więcej [EagleClawWound]\n\nza każde nałożone 4 [EagleClawWound] zyskuje 1 [Agility] w następnej turze (2 razy na turę)",
+      "kr_sha256": "59a929fdef63ce9717a43557a54041b898917eecdc173a87b41aeb72f32a2dd6",
+      "en_sha256": "e4a106d47147c6e77f2ac0d1d2a07e71ea8cdaa9638d7f99fa0f76569a967116",
+      "origin": "ai"
+    },
+    "dataList[id=9104502].flavor": {
+      "pl": "„Są bestie, które wchodzą i wychodzą z mody w Szkole Fauwizmu — ale prawdziwy artysta musi z fierecką dumą traktować to pojedyncze zwierzę jako szkic podstawowy najlepiej oddający jego unikatowe ja.\"\n\n„Mimo tej mądrości są jednak tacy, którzy przeskakują z bestii na bestię, jakby ja była niczym więcej niż kostiumem do założenia i zdjęcia... Hm\"",
+      "kr_sha256": "72c17e467d8ff279cf175e5bff5a8466ced800b99b8f0622518a29158f67c1bb",
+      "en_sha256": "2118922fd5d94b664e2b2e81061fba6ae0d7a25b2cfc579591b4bbe485c695b1",
+      "origin": "ai"
+    },
+    "dataList[id=9104502].name": {
+      "pl": "Le Fauvisme - Masque de Chèvre-Hibou",
+      "kr_sha256": "17c2b755fcabff3370af46b9fa06f54081fd612144551b7f6d43beb2d8abd093",
+      "en_sha256": "b9513ae816526fcb1a3737dfbbbfd71eb891b298d4e533e4ec7543fd13deb2f4",
+      "origin": "ai"
+    },
+    "dataList[id=9104503].desc": {
+      "pl": "jeżeli Szybkość tej jednostki jest większa od Szybkości celu, Moc Starcia +1",
+      "kr_sha256": "33170e829ff14df119ae0eb33115b0c7aed8f4a3d626b53763bb41b86d7b1cf6",
+      "en_sha256": "3f1c6b491181d37edf06b41cb311fc8e0b74e1ef6fd07998d346acf8daf0cf8f",
+      "origin": "ai"
+    },
+    "dataList[id=9104503].name": {
+      "pl": "Alacritous Expression",
+      "kr_sha256": "bb2d1cd1af5790e0b88fa40abe0dd6ae42490945350a0a0994792258c0892c60",
+      "en_sha256": "f7d2272a375cea66a180772f44d7b0a31885c20f9213a1940402dc30afb7df50",
+      "origin": "ai"
+    },
+    "dataList[id=9104504].desc": {
+      "pl": "gdy ta jednostka ginie, nakłada 3 [EagleClawWound] na 2 losowych wrogów",
+      "kr_sha256": "b23fba9b016296efdd09edc7ebc0822790a432cbf75099d72c1c0fd7a60cd523",
+      "en_sha256": "9022e39a0b2d6bc84e7089308f0a426a2b4b7a3a8c4f1117df8e97157c5ce904",
+      "origin": "ai"
+    },
+    "dataList[id=9104504].name": {
+      "pl": "Final Brushstroke",
+      "kr_sha256": "ddb757d5af101a0f02a3c941496dcbf089bd98a79316d1cb0b355d0a946e658f",
+      "en_sha256": "cfa0d226b8e5349785672bc0330bfc0c71c3d99a00a03da19ceeb0749086573b",
+      "origin": "ai"
+    }
+  }
+}

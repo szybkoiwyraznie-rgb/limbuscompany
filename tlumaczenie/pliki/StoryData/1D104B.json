@@ -1,0 +1,89 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "No cóż, to miejsce chyba się nada.",
+      "kr_sha256": "dc5c06324c5179157058023c4ee94b8c2671840bc7e0f855c0f7bf8071e05f57",
+      "en_sha256": "d86a88a116b6bbab070fee740a6a87abe38366e594d9d094df61f04710dfe8d3"
+    },
+    "dataList[id=10].content": {
+      "pl": "<To światło… widzę tylko ja?>",
+      "kr_sha256": "7644baf8891ebc9b6f7460f0c0abbfad7cb236c6a9a048fe8ced62640d63ea78",
+      "en_sha256": "e239627c25f07a88871125b4aa8579a8f7852208aa90999b7bde140b0334c0cb"
+    },
+    "dataList[id=11].content": {
+      "pl": "Nie. Dzięki panu teraz widzą je wszyscy.",
+      "kr_sha256": "eae1c543b89e5666e5ac110ae98d721d9eb4cdf525c360f8e6cb9d8f2c81a70d",
+      "en_sha256": "e5268cd1fe29d6096ce187e81592ab24b4970b2425b0852215293f79cd95d43c"
+    },
+    "dataList[id=12].content": {
+      "pl": "Choć jesteśmy w lochu, dzięki gwieździe wszyscy możemy korzystać z pańskiej mocy.",
+      "kr_sha256": "ace49ab102928b07a4ce72faf8900f690f15bf830c3dcbc07e7ac44e793bea51",
+      "en_sha256": "1a106ed685a6392ef1fe68d51c3a44c96ce92fa533b7f4d6931f6210c103599e"
+    },
+    "dataList[id=13].content": {
+      "pl": "To niech pan szybko cofnie zegar. Chyba od dłuższej chwili mam zwichnięty bark.",
+      "kr_sha256": "0dc67d8763644aa9d57ccfce75cbef065147aff7c05909e69b6eb76ebf80bfc7",
+      "en_sha256": "859df13f00397763634e449e1cff520137a64fcd0962d956bc6e6bdfec2736c8"
+    },
+    "dataList[id=14].content": {
+      "pl": "Cofnie? Ten zegar naprawdę da się cofnąć?",
+      "kr_sha256": "444bf8edc26bee0e56ed041c0f4eb4201a8adcb027b156922f64a0546fa8451d",
+      "en_sha256": "59ed732c4294667253bdfd9e594836699c4c1ac8f0c0ac316a9d9152e477c9f0"
+    },
+    "dataList[id=15].content": {
+      "pl": "Żeby tylko cofnąć! Szef ma niesamowitą moc. Niech pani Yuri też popatrzy.",
+      "kr_sha256": "1137132f3b4675705488804e53def7b1b335863db366cc3306aaeee6cfaaea0f",
+      "en_sha256": "c6965c6980fb5f5d44e8901e17bb3bfb43edad2a0ef177ff364c887214e8424b"
+    },
+    "dataList[id=16].content": {
+      "pl": "<…Mój ból nikogo nie obchodzi?>",
+      "kr_sha256": "158d0927810aa98ebf80baf01c1b06fcf3111c8d82c21590ac7b6eb904ee8a16",
+      "en_sha256": "d5c01d6de289137802e98295f2980d18461e0df34684f4a43bf513d4457cb831"
+    },
+    "dataList[id=1].content": {
+      "pl": "Ledwie wszedłem przez drzwi, Faust nagle stanęła przede mną.",
+      "kr_sha256": "8971d7e74ca07c0c84e68a37ac9f0a0fdcfdd8bad713187f2be289ca0bd9c2a8",
+      "en_sha256": "4ecba9c2c7a03f54858a45e00529bbc141b706d730c0a39cc89da7c9c48ca744"
+    },
+    "dataList[id=2].content": {
+      "pl": "Dante, proszę zamknąć oczy i odszukać gwiazdę, która kryje się w ciemności.",
+      "kr_sha256": "194b7278e2bcd91bcc912f7ec12dbaf4f530ce278a8cbf9134c99dc96d408d63",
+      "en_sha256": "9a2f8b04f2ab1a013ba8e64a99d4c62666b3f14e54ef15621a2c9ec1573a99ba"
+    },
+    "dataList[id=3].content": {
+      "pl": "Gwiazdę prawdy: niezbyt olśniewającą, łagodnie prześwitującą przez mrok.",
+      "kr_sha256": "4c81291ac24a7abc9eca41ac7eb70eefa8e764e083b39c365801ffa57edacf35",
+      "en_sha256": "70cded7db29ada77f107b3a18fc81b1aa3afab82fea4604b42437d36881c1bb2"
+    },
+    "dataList[id=4].content": {
+      "pl": "<Gwiazdę… To nie będzie bolało, prawda?>",
+      "kr_sha256": "29479a5772026600ed095e676a2c79d46148ae94354b836024540ac85cd446f5",
+      "en_sha256": "569927991b3a9abd7401635b25d39e40cab27ae03c9ae5dcaa180cf3891627bc"
+    },
+    "dataList[id=5].content": {
+      "pl": "Jeśli chodzi tylko o odszukanie gwiazdy, to nie boli.",
+      "kr_sha256": "a8354f269fd9ec1a7a8dcc20d4f359e0e50359df86f3cdbb4fb771299f8c76dd",
+      "en_sha256": "a4e4444c48b0aa8dc854876a47c1c3385e74ba5379172f753905242df29c04a4"
+    },
+    "dataList[id=6].content": {
+      "pl": "Coś w słowach Faust mi się nie podobało, ale na razie postanowiłem jej posłuchać i odciąłem się od widoku.",
+      "kr_sha256": "3f3f90a9acf04966fcbde98b22d0de7e9dbc52e346e6f44e9c5ebe2a83267c87",
+      "en_sha256": "ff7bcdb16df646d20bb6825c888e12f900370a74b8365dd8d557ce4dafeb83e1"
+    },
+    "dataList[id=7].content": {
+      "pl": "Kiedy otworzy pan oczy, gwiazda, która była tak daleko…",
+      "kr_sha256": "4963e73ce380f94dcc6e5898b6286874fe85590e04e19b50eee14283278dc6c4",
+      "en_sha256": "93f8701d40d0d0528d30b1aeac31fb0b999e580724fa0b7b8855b4ec82dc802f"
+    },
+    "dataList[id=8].content": {
+      "pl": "…spojrzy panu prosto w oczy.",
+      "kr_sha256": "82456b434af8c8c2ba395cce54a9e76ced062a835a4fc0dfeda330080a598cea",
+      "en_sha256": "2502e12e6f8bbb4f195f4fe6c67c64d7bb668d28343d6135d654bc5783c9d38c"
+    },
+    "dataList[id=9].content": {
+      "pl": "<Jaka… piękna.>",
+      "kr_sha256": "97ffc4c38bccbaddd54afb2bfae22a8959129172166b506151b723141a4405da",
+      "en_sha256": "0268ac084c7a4e609ca23f7fbe6ecdeb378576e79e916b25c1f5861f44d6c640"
+    }
+  }
+}

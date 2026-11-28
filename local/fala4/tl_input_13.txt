@@ -1,0 +1,96 @@
+1178||SpeechBubbles#BattleSpeechBubbleDlg.json] 저리… 꺼져라!|Sod off, you!
+1179||SpeechBubbles#BattleSpeechBubbleDlg.json] 막아봐라.|See if you can take this.
+1180||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 자리에 있는 것들, 전부 즉결 처형이다!|The punishment for all involved parties and bystanders here... Complete and total extermination, effective immediately!
+1181||SpeechBubbles#BattleSpeechBubbleDlg.json] 이걸로 일대일...|It's just you and me now. A duel...
+1182||SpeechBubbles#BattleSpeechBubbleDlg.json] ...그쪽으론 못가.|... You ain't gettin' past me.
+1183||SpeechBubbles#BattleSpeechBubbleDlg.json] 해체 끝. 이제 같은 수는 안 통할 거다.|Enemy dismantled. You ain't pullin' that shite on me twice.
+1184||SpeechBubbles#BattleSpeechBubbleDlg.json] 달콤한… 아니, 아니야?! 이 개 같은 소리…!|Sweet... No, nooo?! Bloody rubbish...!
+1185||SpeechBubbles#BattleSpeechBubbleDlg.json] 수소봉제예요?! 갈라삼봉으로쳤지?! 스티치쓰루는 춥다고?! 끄아아아아악…!|"Single-stitched, is it?!" "You used a three-needle coverstitch, didn't ya?!" "Sewn-through construction's too cold, isn't it?!" AAAAAARGH...!
+1186||SpeechBubbles#BattleSpeechBubbleDlg.json] 왕의… 이름으로!|In the name... of the King...!
+1187||SpeechBubbles#BattleSpeechBubbleDlg.json] 훗, 저놈을 추적해!|Hah, track 'em down!
+1188||SpeechBubbles#BattleSpeechBubbleDlg.json] 선원들! 나를 보호해라.|Defend me, my sailors!
+1189||SpeechBubbles#BattleSpeechBubbleDlg.json] 나가서 싸워. ...뒤는 내가 봐주지.|Jump into the fray.\nI've got your back.
+1190||SpeechBubbles#BattleSpeechBubbleDlg.json] 하, 나가리판이네... 다음.|Hah, this round's a bust... Next.
+1191||SpeechBubbles#BattleSpeechBubbleDlg.json] 산코(三光)!|Sankō (三光)!
+1192||SpeechBubbles#BattleSpeechBubbleDlg.json] 아메시코(雨四光).|Ameshikō (雨四光)!
+1193||SpeechBubbles#BattleSpeechBubbleDlg.json] 쯧, 비가 오네.|Tsk. And the "Rain" comes pouring down.
+1194||SpeechBubbles#BattleSpeechBubbleDlg.json] 학.|Crane.
+1195||SpeechBubbles#BattleSpeechBubbleDlg.json] 벚.|Cherry Blossom.
+1196||SpeechBubbles#BattleSpeechBubbleDlg.json] 초목과 비...|Willow and Rain...
+1197||SpeechBubbles#BattleSpeechBubbleDlg.json] 고코(五光)!|Gokō (五光)!
+1198||SpeechBubbles#BattleSpeechBubbleDlg.json] 쳐다보긴. 우리 엄마 멋있는 건 알아가지고.|Caught ya starin'. Yeah I know, mama's a badass.
+1199||SpeechBubbles#BattleSpeechBubbleDlg.json] 엄마 만큼은 못하지만, 나도 녹이면서 벨 수 있거든?|Mine's not as good as Mama's, but I can also slice and sizzle at the same time.
+1200||SpeechBubbles#BattleSpeechBubbleDlg.json] 분노 게이지 MAX...!|Rage Meter MAX...!
+1201||SpeechBubbles#BattleSpeechBubbleDlg.json] 어? 오늘은 어디 안 가고 거미집에 있었네. 그래서 내가 전에 말한 빗줄기 속 검객 봤어? 아니, 도망치지 말고...!|Huh? You stayed put at the House of Spiders all day? Okay, then didya check out <i>The Cloudburst Blade</i> I told ya about? Hey, wait! Where are you going?!
+1202||SpeechBubbles#BattleSpeechBubbleDlg.json] 역시 엄마가 욜라 짱이야!|Mama's the sickest badass ever!
+1203||SpeechBubbles#BattleSpeechBubbleDlg.json] 돌아볼 여유는 없으니, 그저 앞을 뚫어낼 수밖에.|I can't afford to look back. I'll simply raise my blade and carve the path onward.
+1204||SpeechBubbles#BattleSpeechBubbleDlg.json] 미리 형세를 살피고 있었죠.|I have been watching the stones on the board.
+1205||SpeechBubbles#BattleSpeechBubbleDlg.json] 기꺼이 나의 안으로.|I gladly withdraw into myself.
+1206||SpeechBubbles#BattleSpeechBubbleDlg.json] 누군가 씌운 거짓을 벗겨내고, 진정한 나의 모습으로!|I slough off the lies someone has draped over me... And embrace my true self!
+1207||SpeechBubbles#BattleSpeechBubbleDlg.json] 후, 일단은 후퇴야. 계속 가방을 쓰다간 죽어버린다고...|Phew. Gotta pull back for now. This trunk's gonna kill me if I push it too hard...
+1208||SpeechBubbles#BattleSpeechBubbleDlg.json] 휴... 일단 기회 한 번 벌었어..|Whew. At least I got myself another chance...
+1209||SpeechBubbles#BattleSpeechBubbleDlg.json] 네르프(nerf) 정렬.|Fils nerveux.
+1210||SpeechBubbles#BattleSpeechBubbleDlg.json] 아하하하하하!|Ahahahaha!
+1211||SpeechBubbles#BattleSpeechBubbleDlg.json] 원색적으로!|Raw with primary colors!
+1212||SpeechBubbles#BattleSpeechBubbleDlg.json] 구경 좀 해볼까?|Let's take a look!
+1213||SpeechBubbles#BattleSpeechBubbleDlg.json] 밀도가 아쉬운데.|Not dense enough. Needs more body.
+1214||SpeechBubbles#BattleSpeechBubbleDlg.json] 나쁘지 않을지도.|Not bad, I'd say.
+1215||SpeechBubbles#BattleSpeechBubbleDlg.json] 내가 공들여 꿰맨 애장품. 특별히 보여줄게.|My prized needlework—I'll make an exception and give you a look.
+1216||SpeechBubbles#BattleSpeechBubbleDlg.json] 임파스토(Impasto)!|Impasto!
+1217||SpeechBubbles#BattleSpeechBubbleDlg.json] 좋아. 이걸로 감상은 끝.|All done. That's long enough for an appraisal session.
+1218||SpeechBubbles#BattleSpeechBubbleDlg.json] 왜? 못맞추겠어?|What, having a hard time landing a hit?
+1219||SpeechBubbles#BattleSpeechBubbleDlg.json] 느려 터졌네.|You're slow as shit.
+1220||SpeechBubbles#BattleSpeechBubbleDlg.json] 너무 뻔하잖아~|Saw that shit coming a mile away~
+1221||SpeechBubbles#BattleSpeechBubbleDlg.json] 훤히 다 보여.|I'm readin' ya like an open book.
+1222||SpeechBubbles#BattleSpeechBubbleDlg.json] 말했잖아. 느리다고.|Told ya already. You're too damn slow!
+1223||SpeechBubbles#BattleSpeechBubbleDlg.json] 하! 내 차례네~?|Hah! My turn, you little shit.
+1224||SpeechBubbles#BattleSpeechBubbleDlg.json] 교본. 이게 어려워?|Textbook. Am I asking for the impossible?
+1225||SpeechBubbles#BattleSpeechBubbleDlg.json] 지긋, 지긋해! 요시히데, 그 새끼도, 너도 전부 다!!!|I'm sick and tired of Yoshihide, that fucking bitch—and you, too! To hell with you all!
+1226||SpeechBubbles#BattleSpeechBubbleDlg.json] 원망하고 말고! 빌어먹을 패밀리도! 너네들도! 전부!|Yeah, I hate you all! The damn Famiglia and every single one of you!
+1227||SpeechBubbles#BattleSpeechBubbleDlg.json] 다음 사람 나와. 뭐, 결과는… 불보듯 뻔하겠지만.|Who's next? C'mon... We all know how this ends anyway.
+1228||SpeechBubbles#BattleSpeechBubbleDlg.json] 내가 이딴 곳에서 쳐뒤질 사람 같아?|Like hell I'm kickin' the bucket in this fucking dump.
+1229||SpeechBubbles#BattleSpeechBubbleDlg.json] 하. 그럼 그렇지. 아둔한 자식. 그걸 못 버티고…|Hah. Figured as much. Idiot... Couldn't even tough that out...
+1230||SpeechBubbles#BattleSpeechBubbleDlg.json] 심장! 심장을 노려!|Go for the heart! The heart!
+1231||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 감정이 내게 지울 수 없는 낙인이라면, 차라리... 이 슬픔과 함께 일어서겠어|If sorrow has become my indelible stigma, then... I choose to rise with it instead.
+1232||SpeechBubbles#BattleSpeechBubbleDlg.json] 이번에야말로 이 싸움을 끝내주겠어.|This time, for sure... I'll end this fight.
+1233||SpeechBubbles#BattleSpeechBubbleDlg.json] 선배를, 스승님을 행복하게 할 수 있다면, 이 끝에서 다함께 기쁨을 나눌 수만 있다면…. 그 어떤 두려움도 저를 도망치게 할 수 없을 거예요.|If I can make my seonbae, my master, happy... If it means that in the end, we'll all share in the joy together... no fear in the world will ever cower me into fleeing.
+1234||SpeechBubbles#BattleSpeechBubbleDlg.json] 설령 녹아내려 추락하더라도 괜찮으니… 이 노을이 식지 않도록, 더 뜨겁게 타올라라!|I don't care if it melts my wings and drags me down... Let this sunset never cool, and let it burn, <i>burn!</i>
+1235||SpeechBubbles#BattleSpeechBubbleDlg.json] 저는 여기서 좌절하는 못난 후배가 되고 싶지 않아요, 선배. 할 수 있다고 믿어 주실 테니까… 해야만 하는 일이니까…!|I refuse to be a disgraceful junior who sinks into the swamp of despair without taking another step, Seonbae. I know you believe in me... Because it's what I must do...!
+1236||SpeechBubbles#BattleSpeechBubbleDlg.json] 고통스럽지만… 견딜게요. 딛고 일어설게요. 스승님의 여명에 어울리는 강한 사람이 되어… 앞으로 그 무엇도 잃지 않도록!|The agony is hard to endure... but endure it I will. No matter how many times I fall, I'll get back up again. I promise, Master, I will reach for the strength worthy of your dawnbreak... so I'll never have to lose anyone ever again!
+1237||SpeechBubbles#BattleSpeechBubbleDlg.json] …날아가야 해. 나를 가로막는 껍질을 깨부수고 더 높은 곳으로.|... I have to soar high. I will break out of this shell that stands in my way—I'll break it altogether and soar to a higher place.
+1238||SpeechBubbles#BattleSpeechBubbleDlg.json] 나를 비추는 주홍빛이 꺼지지 않도록, 거세게 휘몰아쳐라.|Don't let this vermilion fire, the light that shines on me, go out—rage on, conflagrate.
+1239||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 주홍빛이… 꺼지지 않도록…! 거세게 휘몰아쳐라!|Let this shining light of vermilion fire burn...! Rage on, conflagrate!
+1240||SpeechBubbles#BattleSpeechBubbleDlg.json] 자, 잠깐만요! 조금만 쉬었다 해요.|J-just a moment, please! Let's pick this up after a breather.
+1241||SpeechBubbles#BattleSpeechBubbleDlg.json] 이 정도면 늦진 않았겠죠?|I'm not running late yet, am I...?
+1242||SpeechBubbles#BattleSpeechBubbleDlg.json] 존재. 본능. 허기. 누구도 답해주지 않는다면! 그 의문마저! 먹어치우리라!|Existence... Nature... Hunger... If none shall answer my questions, I shall devour the very curiosity itself!
+1243||SpeechBubbles#BattleSpeechBubbleDlg.json] 나를 이루는 기대, 소망. 나는 이에 부응할 테니. 생의 향락을 만끽하라!|Expectation and wishes comprise me... Very well, I shall answer! Revel in the pleasures of life to its fullest extent!
+1244||SpeechBubbles#BattleSpeechBubbleDlg.json] 내 앞으로 가져와.|Bring it before me.
+1245||SpeechBubbles#BattleSpeechBubbleDlg.json] 채워넣어라. 나아가고 싶다는 마음이 자리잡을 수 없을 만큼.|Fill yourselves until even the will to move forward is pushed out of your hearts.
+1246||SpeechBubbles#BattleSpeechBubbleDlg.json] 나는… 완연히 성장했으니, 더는 기다리지 말라.|I have... matured. Thus, you need not lie in waiting any longer.
+1247||SpeechBubbles#BattleSpeechBubbleDlg.json] 쉼없이 먹어치울, 최고의 만찬을.|I summon forth the unparalleled feast of ceaseless gorging.
+1248||SpeechBubbles#BattleSpeechBubbleDlg.json] 나는 한 겹의 거짓조차 두르지 않았으니, 기꺼이 너의 진실로.|If clothes are lies, then I am naked. Come to the truth as you find it.
+1249||SpeechBubbles#BattleSpeechBubbleDlg.json] 탈의. 거짓 없는 재탄.|Undressing. A rebirth most true.
+1250||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 모든 악성까지 남김 없이 먹어치워라.|Devour even the most vicious criticisms.
+1251||SpeechBubbles#BattleSpeechBubbleDlg.json] 모멸. 소란스러운 격분.|Mortification. A fury most uproarious.
+1252||SpeechBubbles#BattleSpeechBubbleDlg.json] 무엇 하나 영원한 것이 없다면, 보이는대로 탐닉해야겠지.|If nothing lasts forever, then we may as well turn to overindulgence.
+1253||SpeechBubbles#BattleSpeechBubbleDlg.json] 운명. 번잡하게 얽힌 색채.|Fate. A restless tangle of colors.
+1254||SpeechBubbles#BattleSpeechBubbleDlg.json] 아프지 마세요.|Don't get hurt.
+1255||SpeechBubbles#BattleSpeechBubbleDlg.json] 괜찮아질 거예요.|You'll be all right.
+1256||SpeechBubbles#BattleSpeechBubbleDlg.json] 흙으로.|Return to dirt.
+1257||SpeechBubbles#BattleSpeechBubbleDlg.json] 저물지 않기를.|Let your being never set.
+1258||SpeechBubbles#BattleSpeechBubbleDlg.json] 아프고 싶지 않아요.|I don't want to hurt.
+1259||SpeechBubbles#BattleSpeechBubbleDlg.json] …지켜주면 안될까요?|... Can you protect me, please?
+1260||SpeechBubbles#BattleSpeechBubbleDlg.json] 제 존재가… 왜 그렇게 기쁘신 걸까요? 저는 아무것도 하지 않았는데…|Why... are you all so happy to see me exist? I haven't even done anything...
+1261||SpeechBubbles#BattleSpeechBubbleDlg.json] …저를 그렇게 역겨워했으면서, 이번에는 왜 도와주는 거예요? 검은 신이 시켜서 이러는 건가요? 아니면…|... If you think I'm so disgusting, why are you helping me now? Did the Obsidian God tell you to? Or...
+1262||SpeechBubbles#BattleSpeechBubbleDlg.json] …아직 아픔을 모르는 그 삶, 생명, 목소리. 제가 끊어드릴게요.|... A being, a life, a Voice that does not yet know pain. ... I will sever it here.
+1263||SpeechBubbles#BattleSpeechBubbleDlg.json] 추해지지 않았을 뿐, 본질은 달라지지 못한 거네요…|Though their appearance hasn't become monstrous, their essence has failed to change...
+1264||SpeechBubbles#BattleSpeechBubbleDlg.json] 뜯고, 삼켜라!|Tear them apart! Devour!
+1265||SpeechBubbles#BattleSpeechBubbleDlg.json] 포식!|Let us feast!
+1266||SpeechBubbles#BattleSpeechBubbleDlg.json] 측면 돌파!|Flank breached!
+1267||SpeechBubbles#BattleSpeechBubbleDlg.json] 훗, 마음에 드네요!|Heh. I like the sound of that!
+1268||SpeechBubbles#BattleSpeechBubbleDlg.json] 합격(合撃)!|Linked strike!
+1269||SpeechBubbles#BattleSpeechBubbleDlg.json] 제가 알아서 한다고요!|Sheesh, stop telling me what to do!
+1270||SpeechBubbles#BattleSpeechBubbleDlg.json] 꿰뚫고,|Skewered!
+1271||SpeechBubbles#BattleSpeechBubbleDlg.json] 흔들어 휩쓴다!|Jolt and sweep!
+1272||SpeechBubbles#BattleSpeechBubbleDlg.json] 좋아, 한 번 해보자... 이거지?|Fine, you wanna have a go at it, yeah?
+1273||SpeechBubbles#BattleSpeechBubbleDlg.json] ...하나만, 하라고요!|... Can't you just stick to one?

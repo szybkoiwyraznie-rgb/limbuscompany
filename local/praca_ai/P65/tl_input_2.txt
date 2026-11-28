@@ -1,0 +1,131 @@
+139||— tekst] 노란|Amber
+140||— tekst] 푸른|Shamrock
+141||— tekst] 새파란|Azure
+142||— tekst] 쪽빛|Indigo?
+143||— tekst] 보랏빛|Violet
+145||— tekst] 무작위 아군|Random Friendly Units
+146||— tekst] 모든 아군|All Allies
+147||— tekst] 모든 적군|All Enemies
+148||— tekst] 선택한 인격|The Selected Identity
+149||— tekst] 체력이 높은 아군|Friendly Units with the most HP
+150||— tekst] 체력이 낮은 아군|Friendly Units with the least HP
+151||— tekst] 정신력이 높은 아군|Friendly Units with the highest SP
+152||— tekst] 정신력이 낮은 아군|Friendly Units with the lowest SP
+153||— tekst] 최대 체력이 아닌 아군|Friendly Units whose HP is not full
+154||— tekst] 이전 효과들의 영향을 받지 않은 아군|Allies unaffected by previous effects
+155||— tekst] 현재 체력 비율이 가장 낮은 아군|Ally with the lowest HP percentage
+156||— tekst] 모든|All
+157||— tekst] <color=#f8c200>유리</color> 판정|<color=#f8c200>Advantage</color>
+158||— tekst] <color=#e30000>불리</color> 판정|<color=#e30000>Disadvantage</color>
+159||— tekst] 판정을 진행할 인격을 선택하세요.|Choose an Identity to perform the check with:
+160||— tekst] 예상 확률 : {0}|Predicted Odds: {0}
+161||— tekst] 모든 속성|All Affinities
+166||— opis] 어시스트 이름|Assist Unit Name
+169||— nazwa] 몸통|Body
+170||— opis] 베스파 부위|Vespa Part
+178||— opis] 모제스 부위|Moses Part
+182||— opis] 에즈라 부위|Ezra Part
+183||— nazwa] LCE E.G.O::홍염살 알리사|LCE E.G.O::Ardor Blossom Star Alyssa
+186||— opis] 알리사 부위|Alyssa Part
+187||— nazwa] 로보토미 E.G.O::램프 호엔하임|Lobotomy E.G.O::Lamp Hohenheim
+190||— opis] 호엔하임 부위|Hohenheim Part
+191||— nazwa] 어느 싱클레어|A Certain Sinclair
+194||— opis] 각성 싱클레어 부위|A Certain Sinclair Part
+195||— nazwa] 무아 료슈|Muga Ryōshū
+198||— opis] 료슈 부위|Ryōshū Part
+203||— nazwa] 섬광 현상 - 영사기|Flash Phenomenon - Projector
+204||— opis] 적 어시스트 이름|Enemy Assist Unit Name
+208||— nazwa] 내면의 자신|The Inner Self
+209||— opis] 3턴부터 매 턴 시작시 마다 [AttackUp] 2 얻음|Starting from Turn 3: gain 2 [AttackUp] at every Turn Start
+210||— nazwa] 알아가는 지식|Widening Knowledge
+211||— opis] 자신의 공격 시작 전 해당 적의 타격 내성 +1.0 (스킬 종료 시 초기화)|Before Attack: the targeted enemy gains +1 Blunt Resist. (resets after Skill ends)
+212||— nazwa] 해결사 정신|Spirit of Fixers
+213||— opis] 자신의 흐트러짐 구간 중 첫번째 흐트러짐 구간 삭제\n피격 시 [Protection] 1, [AttackUp] 1 얻음, 정신력 3 회복 (턴 당 1회)|Remove the first Stagger Threshold from this unit\nWhen hit, gain 1 [Protection], 1 [AttackUp], and heal 3 SP (once per turn)
+214||— nazwa] 천애검|The Tianya Sword
+215||— opis] 턴 종료 시 자신의 [Breath] 위력이 15 이상이면, [Breath] 위력이 절반으로 감소하고 아래 효과 발동\n자신을 포함한 모든 아군의 체력을 10 회복\n자신을 포함한 모든 아군의 정신력 3 회복\n- 자신을 포함한 모든 아군의 해제 가능한 부정적인 효과를 절반으로 감소|Turn End: at 15+ [Breath] Potency, halve [Breath] Potency and gain the following effects:\n- All allies, including this unit, heal 10 HP\n- All allies, including this unit, heal 3 SP\n- Halve all removable negative effects from all allies, including this unit
+216||— nazwa] 전쟁을 대비하는 법|How to Prepare for War
+217||— opis] 스테이지 시작 시 자신의 정신력 10 회복, [AttackUp] 2, [DefenseUp] 2 얻음|Encounter Start: heals 10 SP, gain 2 [AttackUp], and 2 [DefenseUp]
+218||— nazwa] 살아남는 법|How to Survive
+219||— opis] 이번 전투에서 체력이 0이 되는 피해를 받았을 때, 해당 피해를 받지 않고, 해당 턴 동안 체력이 1로 유지됨. (전투 당 1회)|In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (once per Encounter)
+220||— nazwa] 무감정대응|Apathetic Response
+221||— opis] 자신을 제외한 아군 피격 시 [AttackUp] 1 얻고, 다음 턴에 [Agility] 2 얻음 (턴 당 1회)|When other allies are hit, gain 1 [AttackUp]; then, gain 2 [Agility] next turn (once per turn)
+222||— nazwa] 포로 고문 기술|POW Torture Technique
+223||— opis] 공격 적중 시 대상에게 [Binding] 또는 [Laceration] 이 있으면, 다음 턴에 합 위력 증가 1 얻음 (턴 당 2회)|On Hit: if target has [Binding] or [Laceration], gain 1 Clash Power Up next turn (2 times per turn)
+224||— nazwa] 상대를 달래주는 마음|The Reassuring Heart
+225||— opis] 턴 시작 시 자신을 포함한 모든 아군의 정신력을 5 회복\n 전투 시작 시 메인 타겟의 정신력이 자신보다 같거나 높다면 [Protection] 1 얻음 (턴 당 1회)|Turn Start: all allies, including this unit, heals 5 SP\nCombat Start: if the main target's SP is equal to or higher than this unit's, gain 1 [Protection] (once per turn)
+226||— nazwa] 도신|God of Gamblers
+227||— opis] 모든 코인이 파괴되지 않고 합 승리 후 공격 시 적중에 관계 없이 해당 스킬의 마지막 코인까지 모든 코인이 앞면이었으면, 마지막 코인의 피해량 +30%|On Clash Win without losing any Coins: regardless of whether they hit or not, if every Coin flipped by that Skill, down to the final Coin, flipped heads, the final Coin deals +30% damage
+228||— nazwa] 짝꿍이자 라이벌|My Bestie and a Rival
+229||— opis] 턴 시작 시 싱클레어 수감자가 전투에 참여 중이면, 자신과 싱클레어가 [AttackUp] 2 , [DefenseUp] 2 얻음 (대기 인원 제외)|Turn Start: if Sinner Sinclair is participating in this battle, this unit and Sinclair both gain 2 [AttackUp] and 2 [DefenseUp] (does not count if he is a Backup Unit)
+231||— opis] 턴 시작 시 자신을 포함한 모든 아군에게 [DefenseUp] 1 부여|Turn Start: apply 1 [DefenseUp] to all allies, including this unit
+233||— opis] 턴 시작 시 자신을 포함한 모든 아군에게 [AttackUp] 1, [DefenseUp] 1 부여|Turn Start: apply 1 [AttackUp] and 1 [DefenseUp] to all allies, including this unit
+235||— opis] 턴 시작 시 자신을 포함한 모든 아군에게 [AttackUp] 2, [DefenseUp] 2 부여|Turn Start: apply 2 [AttackUp] and 2 [DefenseUp] to all allies, including this unit
+237||— opis] 턴 시작 시 자신을 포함한 모든 아군에게 [AttackUp] 3, [DefenseUp] 3 부여|Turn Start: apply 3 [AttackUp] and 3 [DefenseUp] to all allies, including this unit
+238||— nazwa] 금강환단|Jin Gang Bolus
+239||— opis] 합 패배 시, [Protection] 1, [DefenseUp] 3 얻음 (턴 당 2회)|On Clash Lose, gain 1 [Protection] and 3 [DefenseUp] (2 times per turn)
+241||— opis] 합 패배 시, [Protection] 1 , [AttackUp] 1, [DefenseUp] 3 얻음 (턴 당 2회)|On Clash Lose, gain 1 [Protection], 1 [AttackUp], and 3 [DefenseUp] (2 times per turn)
+243||— opis] 합 패배 시, [Protection] 2, [AttackUp] 1 , [DefenseUp] 3 얻음 (턴 당 2회)|On Clash Lose, gain 2 [Protection], 1 [AttackUp], and 3 [DefenseUp] (2 times per turn)
+245||— opis] 합 패배 시, [Protection] 2, [AttackUp] 1 , [DefenseUp] 4 얻음 (턴 당 2회)|On Clash Lose, gain 2 [Protection], 1 [AttackUp], and 4 [DefenseUp] (2 times per turn)
+247||— opis] 합 패배 시, [Protection] 3, [AttackUp] 1 , [DefenseUp] 4 얻음 (턴 당 2회)|On Clash Lose, gain 3 [Protection], 1 [AttackUp], and 4 [DefenseUp] (2 times per turn)
+248||— nazwa] 어린 붉은 신|The Nascent Crimson God
+249||— opis] [Charge] 효과를 얻을 때, 대신 [ChargeRouge] 얻음\n\n스테이지 시작 시 [ChargeRouge] 위력 1 얻음\n\n턴 시작 시 자신의 [ChargeRouge] 위력이 2 이상이면, (자신의 [ChargeRouge] 위력 x 2)만큼 자신의 [ChargeRouge] 횟수 증가|When this unit gains [Charge], gains [ChargeRouge] instead\n\nEncounter Start: Gain 1 [ChargeRouge] Potency\n\nTurn Start: At 2+ [ChargeRouge] Potency, gain +([ChargeRouge] Potency x 2) [ChargeRouge] Count
+250||— podsumowanie] [ChargeRouge] 얻음|Gain [ChargeRouge]
+251||— tekst klimatyczny] 어리지만 분명 신격을 가졌다.|A young god, but a god nonetheless.
+252||— nazwa] 맥동하는 본성|Pulsating Nature
+253||— opis] 전투에서 [Laceration] 효과가 발동할 때마다 자신의 [ChargeRouge] 횟수 1 증가|Gain +1 [ChargeRouge] Count every time [Laceration] effect is activated in an Encounter
+254||— podsumowanie] [ChargeRouge] 횟수 증가|Gain [ChargeRouge] Count
+255||— tekst klimatyczny] 왜 피를 볼때마다 내 심장이 자꾸 뛰는거야…?|Why... does blood make my heart rush so excitedly?
+256||— nazwa] 여정|The Adventure
+257||— opis] 자신의 [ChargeRouge] 위력에 따라 다음 효과를 전부 얻음\n- 1 : 자신의 [ChargeRouge] 횟수 1당, 가하는 피해량 +2% (최대 20%), 대상의 체력 회복량 +10% (최대 100%, 소수점 버림)\n- 2 : 자신의 [ChargeRouge] 위력 2당, 기본 위력 +1\n- 3 : 턴 시작 시 자신에게 [GourmandiseAlly] 효과가 없고 자신의 [ChargeRouge] 횟수가 15 이상이면, [ChargeRouge] 횟수를 모두 소모하고 [GourmandiseAlly] 3 얻음\n- 4 : 스킬 슬롯 수 +1\n- 5 : 스테이지 시작 시 [GourmandiseAlly] 3을 얻고 모든 적에게 [BloodyMucusAlly] 3 부여|Gain the following effects based on [ChargeRouge] Potency on self\n- 1+: For every [ChargeRouge] Count, deal +2% damage and heal +10% HP on target (max 20%, 100% respectively; rounded down)\n- 2+: Base Power +1 for every 2 [ChargeRouge] Potency on self\n- 3+: Turn Start: If this unit does not have [GourmandiseAlly], and if this unit has 15+ [ChargeRouge] Count, consume all [ChargeRouge] Count and gain 3 [GourmandiseAlly]\n- 4+: Skill Slot +1\n- 5+: Encounter Start: Gain 3 [GourmandiseAlly] and inflict 3 [BloodyMucusAlly] on all enemies
+258||— podsumowanie] 자신의 [ChargeRouge] 위력에 따라 강화됨|Effect enhanced based on [ChargeRouge] Potency on self
+259||— tekst klimatyczny] 그들의 등 뒤를 보며 한 걸음 한 걸음 세상을, 백화점을 알아간다. 그리고 자신에 대한 것도. 자신의 육체 중 눈만이 가장 또렷하고 자연스러웠기에.|With every step they take, toddling from behind their first guardians, the child learns about the world, about the department store... and themself, for their eyes were the clearest and the most natural part of their body.
+260||— nazwa] 도움의 손길|A Helping Hand
+261||— opis] 전투 중 아군이 흐트러짐 상태가 되면, 그 아군에게 '내 손 잡아' 사용 (턴당 2회)|When an ally is Staggered during an Encounter, use "Grab My Hand" on the said ally (2 times per turn)
+262||— nazwa] 주체되지 않는 몸|Body Out of Control
+263||— opis] 자신에게 [GourmandiseAlly] 효과가 있으면 다음 효과를 얻음\n- 가하는 피해량의 20% 만큼 체력 회복\n- 스킬 사용 시 자신의 [Laceration] 횟수 3 증가\n- 스킬 적중 시 [Laceration] 1 얻음|If this unit has [GourmandiseAlly], gain the following effects:\n- Heal HP equal to 20% of damage dealt\n- On Skill Use, gain +3 [Laceration] Count\n- On Hit using a Skill, gain 1 [Laceration]
+264||— podsumowanie] [Laceration] 1 얻음|Gain 1 [Laceration]
+265||— tekst klimatyczny] 팔과 다리 모든게 낯설지만 안에서부터 시작된 미약한 고동은 점차 미칠듯 맥동하려고만 한다.|Though the arms, legs, and everything else about their body feels alien to the child, the faint beating from their core will soon begin its mad pulsation.
+266||— nazwa] 가죽 봉제 못|Leather-sewing Nail
+267||— opis] 공격 스킬로 적을 처치하지 못했을 때, 해당 적에게 '내가 끝내줄게…' 사용 (턴당 1회)|When this unit fails to defeat an enemy using its Attack Skills, use "I'll End It for You..." on the said enemy (once per turn)
+268||— tekst klimatyczny] 가죽을 꿰메기 위해서는 뾰족하기만하지 않은 굵고 튼튼한 못이 필요하댔어. 그렇게해도 뚫리지 않는다면 한번 더..!|They said I needed a thick, sturdy nail to punch through leather for sewing. If that didn't work, I just need to try again...!
+269||— nazwa] 운명 이탈|Fate Lost
+270||— opis] 이 유닛 사망 시 전투 패배|Lose this Encounter if this unit is killed
+271||— tekst klimatyczny] 길을 잘못 들 수는 있어도, 흐름을 거스르거나 이탈하는 것은 ‘그것’에 따라 금지되어 있다.|One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by "it."
+275||— nazwa] 르 비스쾨아브젝트(le Visqueux-Abject)|Le Visqueux-Abject
+276||— opis] 이 유닛은 자신을 메인 타겟으로 지정한 스킬의 피해만 적용되며, 그 외의 피해를 받지 않음\n\n전투에 처음 등장할 때, 전장에 [BuffetField] 생성\n\n턴 시작 시 [BuffetField] 범위 안의 대상에게 다음 효과가 적용됨\n- 아군 (자신 포함)\n· 최대 체력의 5%만큼 체력 회복\n· [Charge] 횟수 4 증가\n· [Protection] 1 부여\n· 대상 아군이 르루주 소속이면, [Enhancement] 2 부여\n· E.G.O 스킬 피해량 +50%\n\n- 적\n· [AttackDown] 3 부여\n· [DefenseDown] 3 부여\n· [BloodyMucusAlly] 2 부여|This unit takes damage only from Skills mainly targeting this unit, and it takes no other damage\n\nUpon entering the Encounter for the first time, generate [BuffetField] on the field\n\nTurn Start: Targets within the [BuffetField] gain the following effects:\n- Allies (including this unit)\n  · Heal 5% HP\n  · Gain +4 [Charge] Count\n  · Gain 1 [Protection]\n  · If the affected ally is a "Le Rouge" unit, gain 2 [Enhancement]\n  · E.G.O Skills deal +50% damage\n\n- Enemies\n  · Gain 3 [AttackDown]\n  · Gain 3 [DefenseDown]\n  · Gain 2 [BloodyMucusAlly]
+277||— tekst klimatyczny] 붉은신은 눈앞의 것을 섭취하고 섭취한다. 그 결과 점막질의 지대가 펼쳐진다. 그것은 섭취의 결과물. 나에게서 나왔지만 내것인지 아닌지의 경계가 흐려지는 비체이자 끈적임. 이 위에서 나의 것은 맥동하고, 아닌것은 녹아내린다. 경계 밖의 것은 공포스럽기에.|In an endless feast, the Crimson God consumes and consumes; what is devoured is then digested and excreted as a field of mucus around them.\nThis is the outcome of consumption, where the distinction between self and other blurs. Is this phlegmatic discharge a part of me, or is it of another? Within this boundary, all that is mine pulsates, while all that is not disintegrates.\n\nFor I am afraid of what lies outside the periphery.
+278||— nazwa] 라 팽 드 랑팡스(La Fin de l'enfance)|La Fin de l'Enfance
+279||— opis] 스테이지 시작시, [ChargeRouge] 위력 5 얻음\n\n턴 종료시 자신의 [ChargeRouge] 횟수가 15 이상이면, '라 노제 (la nausée)' 스킬 장착\n매 턴 시작시 [Aggro] 20 얻음|Encounter Start: Gain 5 [ChargeRouge] Potency\n\nTurn End: At 15+ [ChargeRouge] Count, equip "La Nausée" Skill\nEvery Turn Start: Gain +20 [Aggro]
+280||— tekst klimatyczny] 유년기가 언제 끝나는지를 누가 정해주는가? 붉은 아이는 여정을 통해 성장했다. 여정의 경험을 통해 무언가가 되려하였고, 그렇게 되어가고 있다 생각했지만 그 과정은 갑작스럽게 끝났다. 유년기는 스스로 끝을 맺을수있는게 아니었다. 갑작스럽게 밖에서부터 현실이 들이밀어지며 강제적이면서도 성마르게 통보된다. 이제 끝이라고.|Who determines the childhood's end?\n\nThe crimson child matured throughout the adventure, shaped by their experiences and sketching their own future at the end of the journey—or so they thought. Their childhood came to a sudden halt, and so too did the adventure; it was never something they could've ended on their own terms.\n\nChildhood's end is a sudden, violent intrusion of reality from the world outside, more a forceful notice than a promised ritual: "You're not a child anymore."
+281||— nazwa] 가척|Paired Assault
+282||— opis] 아군이 적을 공격하여 피해를 입히면, 해당 공격 종료시 '빈틈찌르기'로 일방 공격함 (턴 당 2회)|When an ally deals damage by striking an enemy, use the Skill 'Weakness Thrust' as an Unopposed Attack after the ally's attack ends (2 times per turn)
+283||— nazwa] 부자|Aiding Stab
+284||— opis] 적이 자신을 제외한 아군을 공격 종료 후 공격당한 아군의 체력이 25% 미만이면, 공격자를 '가척아원'으로 일방 공격함 (전투 당 1회)|When an enemy attacks another ally, and if the allied unit has less than 25% HP after the attack, use the Skill 'Aiding Strike' as an Unopposed Attack against the attacker (once per Encounter)
+285||— nazwa] 흡조|Siphoning Fulfillment
+286||— opis] 턴 종료시 자신의 호흡 3 당, 다음 턴에 방어 레벨 증가 1 얻음 (최대 6)|Turn End: gain 1 Defense Level Up next turn for every 3 Poise on self (max 6)
+288||— opis] 적 처치시, 정신력이 가장 낮은 수감자 2명의 정신력 10 회복|On Kill, heal 10 SP for 2 Sinners with the least SP
+289||— nazwa] 노란작살 (작명: 에즈라)|The Yellow Harpoon (named by: Ezra)
+290||— opis] 턴 시작시 [YellowHarpoon]을 얻음 (전투당 1회)\n\n정신력이 35인 상태로 전투를 시작함\n\n턴 종료시 적의 체력이 50% 미만일 때, [YellowHarpoonSin] 얻음|Turn Start: Gain [YellowHarpoon] (once per Encounter)\n\nBegins Encounter at 35 SP\n\nTurn End: If the enemy has less than 50% HP, gain [YellowHarpoonSin]
+291||— tekst klimatyczny] <color=#fde55d>“아니이 들어봐바! 막내 넌 그 작살을 진짜 잘 쓰고!\n그 작살은 완전 특별한거고! 넌 노란색을 노리고 있었고!\n그러니까 노란작살이 딱이지!!!”</color>|<color=#fde55d>"Okay, hear me out. Hear me out, Baby bee!\nYou're good with harpoons, right?\nYou use a super snazzy special harpoon, right?\nAnd you're shootin' for the Yellow Color, right?\nBam! There ya have it!\n\n<b>The Yellow Harpoon</b>!!!"</color>
+292||— nazwa] 궁니르|Gungnir
+293||— opis] [BeeSting]이 있는 대상에게 합 승리시 대상의 [Vibration]을\n[VibrationBleeding]로 [Switch_Vibration]\n\n[ArtifactBeeSting]이 있는 대상에게 합 승리시 대상의 [Vibration]을 [VibrationEcho]으로 [FusionVibration]\n\n[BeeSting], [ArtifactBeeSting]이 있는 대상에게 마지막 코인 적중시 [VibrationExplosion]|On Clash Win against targets with [BeeSting], trigger [Switch_Vibration] on their [Vibration] into [VibrationBleeding]\n\nOn Clash Win against targets with [ArtifactBeeSting], trigger [FusionVibration] on their [Vibration] into [VibrationEcho]\n\nOn Hit with the final Coin against targets with both [BeeSting] and [ArtifactBeeSting], trigger [VibrationExplosion]
+294||— tekst klimatyczny] <color=#fde55d>유적 심층에서 발견되는 가장 귀한 등급의 유물.\n과거, 피범벅이 된 소년은 이 창날을 우연히 주웠고, 사용에 적합한 적성을 우연히 가지고 있었다. 우연은 무엇인가.</color>|<color=#fde55d>A precious Relic of the highest rarity, found in the depths of the Ruins.\nIt was by mere coincidence that the young boy, blood-soaked, came to be in possession of this speartip; coincidentally, he also possessed the aptitude to wield it. \n\nWhat is coincidence, indeed?</color>
+295||— nazwa] 최후의 수단|The Last Resort
+296||— opis] 턴 종료 시 자신을 제외한 모든 아군이 외부 효과로 행동 불가능 상태가 되면, 다음 턴에 '홍염살 최대 감응 【열화침식】' 장착|Turn End: If all allies except for this unit are immobilized due to external effects, equip 'A.B.S Max Attunement 【Degraded Corrosion】' next turn
+297||— tekst klimatyczny] ‘전부… 역시…’|'I knew it... Everyone...'
+299||— opis] [Combustion] 피해로 흐트러지거나 체력이 1 미만으로 감소하지 않고, 외부 효과로 행동 불가능 상태가 되지 않음\n\n[Combustion]으로 받는 피해량 -50%|Damage from [Combustion] cannot Stagger this unit and does not reduce this unit's HP below 1; this unit cannot be immobilized due to external effects\n\nTake -50% damage from [Combustion]
+301||— opis] 스테이지 시작 시 [LvUpFireFly] 얻음\n\n자신의 체력이 70% 미만이면, 공격 적중 시 대상과 자신에게 [Combustion] 1 부여|Encounter Start: Gain [LvUpFireFly]\n\nOn Hit: At less than 70% HP, apply 1 [Combustion] to target and self
+302||— nazwa] E.G.O 공명도 증가|E.G.O Resonance Boost
+303||— opis] 턴 시작 시 E.G.O 장비를 착용한 아군 1명당 [AttackUp] 1 얻음|Turn Start: Gain 1 [AttackUp] for every ally wearing E.G.O gear
+304||— nazwa] 불에 뛰어드는 나방과 같이|Like a Moth to a Flame
+305||— opis] 이 캐릭터는 최대 체력이 가장 낮은 적을 우선 공격함\n\n[Combustion]을 부여하는 공격 스킬 또는 [Combustion] 피해로 적 처치 시 정신력 10 회복 (턴당 1회)|This unit prioritizes attacking enemies with the lowest max HP\n\nHeal 10 SP when killing enemies with [Combustion] damage or Attack Skills that apply [Combustion] (max once per turn)
+307||— opis] 호엔하임이 사망한 상태에서 이 유닛 사망 시 전투 패배|Lose this Encounter if this unit is killed after Hohenheim is killed
+309||— nazwa] 역시 본사 E.G.O의 감응도에 따른 침식도는 만만치 않네|Can't Underestimate the HQ's E.G.O Attunement and its Corrosion
+310||— opis] 스테이지 시작 시 [LvUpHohenheimBigBird] 얻음|Encounter Start: Gain [LvUpHohenheimBigBird]
+312||— opis] 턴 시작 시 E.G.O 장비를 착용한 아군 1명당 [DefenseUp] 1 얻음|Turn Start: Gain 1 [DefenseUp] for every ally wearing E.G.O gear
+313||— tekst klimatyczny] 저자 호엔하임.|Written by Hohenheim.
+314||— nazwa] 검은 숲에서 길을 잃었을 때 함부로 빛을 따라가지는 말아야 한다는 건가|Don't Blindly Follow the Light when Lost in the Black Forest
+315||— opis] 턴 시작 시 [LanternHohenheimBigBird]가 없으면, [LanternHohenheimBigBird] 1 얻음\n\n<color=#ff6000><mark=#ff000040><b><u>턴 종료 시 [LanternHohenheimBigBird]가 20이면, 다음 턴에 강력한 공격을 사용하는 적에게 [DelusionHohenheimBigBird] 부여</u></b></mark></color>|Turn Start: If this unit does not have [LanternHohenheimBigBird], gain 1 [LanternHohenheimBigBird]\n\n<color=#ff6000><mark=#ff000040><b><u>Turn End: At 20 [LanternHohenheimBigBird], inflict [DelusionHohenheimBigBird] to the enemy that uses its powerful attack next turn</u></b></mark></color>
+317||— opis] 이 캐릭터는 속도 최댓값이 가장 높은 적을 우선 공격함\n\n스킬 지정 시 속도에 관계 없이 공격 대상을 자신으로 변경할 수 있음 (집중 전투 전용)|This unit prioritizes attacking the enemy with the fastest Max Speed\n\nWhen chaining Skills, this unit can draw enemies' attack toward self regardless of Speed (Focused Encounters only)
+318||— nazwa] 이 눈으로 검은 숲 전체를 지켜봐 왔다는군|Its Eyes Have Watched Over the Entire Black Forest
+319||— opis] 턴 시작 시 자신을 제외한 속도가 가장 낮은 아군 1명에게 다음 턴에 [Agility] (자신의 [Binding] / 2) 부여 (최대 2. 소수점 버림[TabExplain])\n\n모든 아군 중에서 자신이 속도가 가장 낮으면, 기본 공격 스킬로 가하는 피해량 +10%\n- 자신의 속도가 1이면, 대신 피해량 +20%|Turn Start: Apply ([Binding] on self /2) [Agility] to the ally (excluding this unit) with the slowest Speed next turn (max 2, rounded down)\n\nIf this unit has the slowest Speed, deal +10% damage with Base Attack Skills\n- If this unit's Speed is 1, deal +20% damage instead

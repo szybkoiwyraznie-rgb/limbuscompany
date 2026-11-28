@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1035].lowMoraleDescription": {
+      "pl": "Zyskując [Smoke] lub Licznik [Smoke] w walce, zyskaj dodatkowo +1.\nPoczątek Tury: zyskaj 3 [Vulnerable], 2 [AttackDmgUp] i 1 [Endurance]",
+      "kr_sha256": "ff8767fe61b1c4d4412afe2c7e26c525517390d1ea3211f51ce8003edc062a69",
+      "en_sha256": "18e5abb4e0315ac3e11bdb00bca2bef40491863688af86cba01305950be5f4bd",
+      "origin": "ai"
+    },
+    "dataList[id=1035].panicDescription": {
+      "pl": "Zyskując [Smoke] lub Licznik [Smoke] w walce, zyskaj dodatkowo +2.\nPoczątek Tury: zyskaj 3 [Vulnerable], 4 [AttackDmgUp] i 2 [Endurance]",
+      "kr_sha256": "e6f0c7bc8fe3edac0e6371b8d106eff4b630adb71cdb3d06e337b472cc3c8534",
+      "en_sha256": "d68a1d868d5d4a1f7d44d80f9e9a67d4bf0a61817e8d9b5012d60b53eeef114b",
+      "origin": "ai"
+    },
+    "dataList[id=1035].panicName": {
+      "pl": "Kościół",
+      "kr_sha256": "fdfcb6a2e4767309506ed93f95bd60834ec0cca6ec84e7073497e94e354145d9",
+      "en_sha256": "16e783f9137f3570285470d87cf82b8142c469c54680f16d63922d59a16c4e64",
+      "origin": "ai"
+    }
+  }
+}

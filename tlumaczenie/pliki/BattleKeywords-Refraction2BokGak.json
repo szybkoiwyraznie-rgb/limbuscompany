@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=PassedPortal_GreenBokGak].desc": {
+      "pl": "Maks. HP Rdzenia +20%",
+      "kr_sha256": "ecd8cbc920a92899b84628266d54535dd289ccd60aef9ec1f8f08612bc9cf51a",
+      "en_sha256": "8b575de0eec6c8afda8944d836a56b00a328c5678045c94e5c9e22f7d29aa4ed",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_GreenBokGak].name": {
+      "pl": "Wymiar Wrzącej Trucizny",
+      "kr_sha256": "1f9fc6426f85a67440e95f328b3e5e34ed3d7c52d5d5903d84e80f4085f8ce3f",
+      "en_sha256": "9414c60c3ef8b57ec76ae01ba8cb9cd1e559c094e22ca24c2b9ae49f971aaf96",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_GreenBokGak].summary": {
+      "pl": "Maks. HP +20%",
+      "kr_sha256": "6fb9adfe2b0ca0ab4b53561206dec68801213841e9636b77977eb0c778c39da2",
+      "en_sha256": "2d504b6165f6a75112ada020c84e111aaaa176ca69c5d7fe6ead9ad98a367132",
+      "origin": "ai"
+    }
+  }
+}

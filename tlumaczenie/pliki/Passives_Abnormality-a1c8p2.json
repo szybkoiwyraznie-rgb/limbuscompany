@@ -1,0 +1,508 @@
+{
+  "entries": {
+    "dataList[id=113101].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka przegrała Starcie w tej turze, zyskuje 2 [Binding] w następnej turze",
+      "kr_sha256": "db92eb690d94b07907f22bb01c921c7cf63c4d1c0f422e9c592a8fa3575c1230",
+      "en_sha256": "9d1272e5b8c0db409ae98407c2335accdedb7ce323fd5e90eaa4f3aba58b94b8",
+      "origin": "ai"
+    },
+    "dataList[id=113101].name": {
+      "pl": "Failed Ambush",
+      "kr_sha256": "2e53bf9542df5cefa84e565c7b5a41dc4bd7ee60bfe612d0480701d781019af1",
+      "en_sha256": "b55bbfb15848d71890bb3255f05c29c7b8bca1e20924947e521c22e512ce3c13",
+      "origin": "ai"
+    },
+    "dataList[id=113102].desc": {
+      "pl": "Początek 1. tury: zyskuje [RepressedMurderousIntendTwo]\nkończy walkę, gdy Hong Lu ginie",
+      "kr_sha256": "035d0f73ccb76dfaf0895fde09b294a8dd081a0c69c0121893e8f445f5414f18",
+      "en_sha256": "784f74a59902289cf72829204d4a69ff5b08bcd18e3882fa5f00ff3074ed0812",
+      "origin": "ai"
+    },
+    "dataList[id=113102].name": {
+      "pl": "Jia Qiu's Test",
+      "kr_sha256": "a492ba2ab231f48ac949aeb41dc58ad35e77fad09fd42495c717d5edece81a2d",
+      "en_sha256": "4b333f585d0e7beb42bece72031b1c80ff6378b0a9efe1ecdfc5981c17c45587",
+      "origin": "ai"
+    },
+    "dataList[id=113301].desc": {
+      "pl": "Koniec tury: za każdą przegraną w Starciu zyskuje 1 Bind w następnej turze (do 6)\nDotyczy efektów negatywnych",
+      "kr_sha256": "f4efd218715cf030473ceeda8ee426b110f7757f22012e57846d6d9f348f219d",
+      "en_sha256": "ce171f7bab36e0852cbd520cf3e6c301f8de9f6ac89e7dbbc746f77e849fcd8b",
+      "origin": "ai"
+    },
+    "dataList[id=113301].name": {
+      "pl": "Estimation",
+      "kr_sha256": "32f8b563743884f05bc46a93ae3384c50c76c91d2c103756b670f31f9d9b1620",
+      "en_sha256": "baf00c0198f278acf341709a3a1e222bf5220f028b32b390487915bb91bafba3",
+      "origin": "ai"
+    },
+    "dataList[id=113302].desc": {
+      "pl": "Początek 1. tury: przywraca 30 SP\nprzy 85% HP przybiera nowy wzorzec\nna Początku tury przy 60% HP lub mniej zyskuje 500 Tarczy\n- po uruchomieniu tego efektu HP jednostki nie spada poniżej 1",
+      "kr_sha256": "c3081199a3455952dc972f283fc6d52a8e47ed51cb44f612c153c9f026477d78",
+      "en_sha256": "1eb139e60db0e64fdaf1a84cfd46bc37246bbd06cddffdefa6d9446a01f9eb99",
+      "origin": "ai"
+    },
+    "dataList[id=113302].name": {
+      "pl": "Shin (心) Radiance",
+      "kr_sha256": "97a5b35f7c4bc7d1e11ce7cf9d05e9f86cb957b10880ca6014b649f9b3b48106",
+      "en_sha256": "58512cf6154be7cd65f09501ca9e9b0c165a6a0576a975fc0f5833ee26919feb",
+      "origin": "ai"
+    },
+    "dataList[id=113701].desc": {
+      "pl": "Początek 1. tury: przywraca 30 SP i zyskuje [ExaminationOfQiu]",
+      "kr_sha256": "043578a774ab01fbe4ba61fa882add2502e58dcf12b547ea6c69804421e0f5bf",
+      "en_sha256": "b79ba331129762108b2eb3c814af50f14cee85372ae808ee576b8deeb794efb6",
+      "origin": "ai"
+    },
+    "dataList[id=113701].name": {
+      "pl": "Effloresced E.G.O::Érlì",
+      "kr_sha256": "39b5cbe61c29f36d92bc443d9e1c42ee9f35fd9b48f5a096a551e4804af878f8",
+      "en_sha256": "961d575704b0fb5341f08f788b912d415f1adba7a10a752ccc6dea62132a0553",
+      "origin": "ai"
+    },
+    "dataList[id=113702].desc": {
+      "pl": "jeżeli cel ma 4+ negatywne efekty, Moc Starcia +1",
+      "kr_sha256": "75fc13018d083e4c73b9197b63d189ed1c28d7b4a5a06504470629e2bbc71134",
+      "en_sha256": "e1a2df9ff4919e1182b45ec5140ce5927c279e4ac7dac2c3544535b20f1c9ea8",
+      "origin": "ai"
+    },
+    "dataList[id=113702].name": {
+      "pl": "Deteriorate (削貶)",
+      "kr_sha256": "75d659941c44f8f65a993fb5334b46f512df29501b2f99e5fb0fbe95187f07ec",
+      "en_sha256": "12b814d444a2d313701e6af90e3ba553319062a35ad9f1ba0c87da53b4b262a9",
+      "origin": "ai"
+    },
+    "dataList[id=113703].desc": {
+      "pl": "zadaje +10% obrażeń celom z [BurstStop]",
+      "kr_sha256": "69fb8e386ef6680a0a009a2bf3e713cf1a23e6afd6af65cf62dd8af1f21738fd",
+      "en_sha256": "2ab9d37bc941731083e1fe543ae7d56448939f2a6a6d60e169c68d5c7dcaa867",
+      "origin": "ai"
+    },
+    "dataList[id=113703].name": {
+      "pl": "Deathrite [Halt (勿動)]",
+      "kr_sha256": "9baa0b01bc12f1ea6728541670b42e0b7bb423f7f8202d473c53dfd687267226",
+      "en_sha256": "9c4975017b939e11be570c434ce70eeea514b0113413afe89d9e72ce85fd0e9c",
+      "origin": "ai"
+    },
+    "dataList[id=113704].desc": {
+      "pl": "otrzymuje -20% obrażeń od celów z [BurstSuppress]",
+      "kr_sha256": "3018bbf9339806f45cdbab9a3df30bf185ec489b2296c4364f27f284d27017dc",
+      "en_sha256": "61d7d4fa0bb11e54dceb5544aa9b3b1e9599e352d2495b392806984bbe5b495c",
+      "origin": "ai"
+    },
+    "dataList[id=113704].name": {
+      "pl": "Deathrite [Impede (掣肘)]",
+      "kr_sha256": "22d447ccfa4fd3faf2a853f0a7931b78600624a7a56e542766fbfb24adb268bb",
+      "en_sha256": "77751a919b683b270e9f623bfc6ca3bd0a8cbdd638bc04d8978a918d3cc4fa90",
+      "origin": "ai"
+    },
+    "dataList[id=113706].desc": {
+      "pl": "przy 85% HP przybiera nowy wzorzec\nprzy 60% HP przechodzi do nowej Fazy",
+      "kr_sha256": "584a896a7fc27a5bd8987c8e032b800d43d24f605bc15b288de8b4b3cce30b31",
+      "en_sha256": "0d4b21020f1f7f5381320f3067fcc8551ce6e7125bcc7f9050da221aabe047ba",
+      "origin": "ai"
+    },
+    "dataList[id=113706].name": {
+      "pl": "Heed me, Zilu",
+      "kr_sha256": "183f4193313870ffaf89bf541a42c39bce7d2a68f610ee25a70d03e48a768b33",
+      "en_sha256": "e55d14553dbdec1aee5ad46e0b4f3c219f2228571b29b1ef2d40cc08bcdd02f7",
+      "origin": "ai"
+    },
+    "dataList[id=113707].desc": {
+      "pl": "kończy walkę, gdy Hong Lu ginie",
+      "kr_sha256": "1ae751b090f3d5880a068b4a63eb02759bf25e300628d28a09ef42ff8cbe623c",
+      "en_sha256": "926baead37b988f8f4624bd50b1f7050d6707fe47777f978f143d0ba349379bb",
+      "origin": "ai"
+    },
+    "dataList[id=113707].name": {
+      "pl": "This is where your path ends",
+      "kr_sha256": "ada0a3ef090cc8d312866d44f9c751cb6868bab912334666afff8df39768830d",
+      "en_sha256": "4acd759c8ec8585aefad700f7d6dbb559c9adbab0952382d2bce9c87f9dcbdc1",
+      "origin": "ai"
+    },
+    "dataList[id=113708].desc": {
+      "pl": "gdy HP Osobowości spadnie do 1 lub mniej, wycofuje ją z walki",
+      "kr_sha256": "29c6736b14ab036abf85eaa5985412395ff661de3e6c394e1f4cd2aad2212c66",
+      "en_sha256": "65f998254e09b88b66fb41b6ff6c9b1d34590cd2f3121ac1233d5c37e0926679",
+      "origin": "ai"
+    },
+    "dataList[id=113708].name": {
+      "pl": "Overwhelm",
+      "kr_sha256": "bf56e0403ddc021df805bb8b73a8e080bf07682d67c3a8933ccc02dabc9c933a",
+      "en_sha256": "b16a751d3503b8e9564354ff22c1e243e6ec1dc9fe0f77097d611a1d9c3c0e65",
+      "origin": "ai"
+    },
+    "dataList[id=113709].desc": {
+      "pl": "Koniec ataku: przywraca 5 SP za każdy Deathrite celu\nprzy trafieniu, gdy uruchamia się Deathrite celu, przywraca 3 SP za każdy uruchomiony Deathrite",
+      "kr_sha256": "fc8873ca544f26e113754c6caad7d087cbdbb40f787d3a1408831e200eeaad76",
+      "en_sha256": "d52d7298e16275e237cdcf81f43457a88885da2182a178abdad5c44a576f71e6",
+      "origin": "ai"
+    },
+    "dataList[id=113709].name": {
+      "pl": "Infinite Song of Erudition",
+      "kr_sha256": "b0271080f0905fe733328edc42488ab8a5174091eb08dacfdffb8c0981ab5989",
+      "en_sha256": "78d8058f3b05b471a98297394fa50c0cbbfabb5a3d020b9c2e44599b422d508b",
+      "origin": "ai"
+    },
+    "dataList[id=114101].desc": {
+      "pl": "Początek 1. tury: zyskuje [ExaminationOfQiu]",
+      "kr_sha256": "4cddb12876cc771851aae83559279fa367981d5a1cf59ef3c15e09c37f77e597",
+      "en_sha256": "f05be412a5911b594d808cd965ef4caed0b2c8e94ed5676f24b3468c59c6b610",
+      "origin": "ai"
+    },
+    "dataList[id=114101].name": {
+      "pl": "Effloresced E.G.O::Érlì",
+      "kr_sha256": "39b5cbe61c29f36d92bc443d9e1c42ee9f35fd9b48f5a096a551e4804af878f8",
+      "en_sha256": "961d575704b0fb5341f08f788b912d415f1adba7a10a752ccc6dea62132a0553",
+      "origin": "ai"
+    },
+    "dataList[id=114102].desc": {
+      "pl": "jeżeli cel ma 3+ typy Deathrite'ów, Moc Monety +1",
+      "kr_sha256": "d7c7b68a83eefd5ffe1ff41349712163adc5c6af1c6de75a7c24c5eddd11ca42",
+      "en_sha256": "509d10cfa0ad2679e274e76c9e712ff7198bcbb6dc88361c4708d6802679baa8",
+      "origin": "ai"
+    },
+    "dataList[id=114102].name": {
+      "pl": "Diminish (貶)",
+      "kr_sha256": "5045a51d0ccaf83e154fb92da317ba25bb33dcc21300e5362b35fab2eba21c5e",
+      "en_sha256": "60806c293154e5507ca8c6fbea905be3876e9acdc326165d5feef9389c13825b",
+      "origin": "ai"
+    },
+    "dataList[id=114104].desc": {
+      "pl": "kończy walkę przy 50% HP",
+      "kr_sha256": "333c674b52f8580ddabcdfb4a6d4c6139be38752fffd4522d0c44a60fabd5ac3",
+      "en_sha256": "fbeabdbb278dd3bc7b8bd80292b5cc8e051b1a98a54bc1c2b7acefd0d0881a83",
+      "origin": "ai"
+    },
+    "dataList[id=114104].name": {
+      "pl": "I will ask again",
+      "kr_sha256": "976a900ffa4cf4e43d8332c84323379fb0af61b0a274f6eba4ff89d4224a2272",
+      "en_sha256": "afaf8ae2f403ff3c0adc22d8e431a0375523d0e6e8d83018016160a92a7df072",
+      "origin": "ai"
+    },
+    "dataList[id=114105].desc": {
+      "pl": "przy użyciu „Bring Forth a Real Answer” przywołuje Heishou",
+      "kr_sha256": "82fc047c795931a04f51569d720ffadc36a657a41699734e2194761ecf152041",
+      "en_sha256": "5675efb5aa4410ab42ce1639ccf2cb7ced7f0580c096215700897d110c6b2822",
+      "origin": "ai"
+    },
+    "dataList[id=114105].name": {
+      "pl": "Focus",
+      "kr_sha256": "46af41ef7be51a51982bea788c41694d665a0158f7af89a0ba162a98e873f4e9",
+      "en_sha256": "9d3cab2b5efed4eaef42a707dbc813da2ffad53220aa713b5f3c950596fe35f5",
+      "origin": "ai"
+    },
+    "dataList[id=114106].desc": {
+      "pl": "rozpoczyna walkę z połową Siły i Licznika efektów [Burst], [Combustion], [Sinking], [Vibration] i [Laceration], jakie ta jednostka miała na początku tej Fazy.",
+      "kr_sha256": "591ed4e2195d9a2b6649faf580200b15bed75a157bfbfd5243349890ebb7e9d0",
+      "en_sha256": "5aa474112b2e061c5c5f7c7ea074fe78096c2905744cf75385aae01fd5874b7d",
+      "origin": "ai"
+    },
+    "dataList[id=114106].name": {
+      "pl": "Focus",
+      "kr_sha256": "46af41ef7be51a51982bea788c41694d665a0158f7af89a0ba162a98e873f4e9",
+      "en_sha256": "9d3cab2b5efed4eaef42a707dbc813da2ffad53220aa713b5f3c950596fe35f5",
+      "origin": "ai"
+    },
+    "dataList[id=114107].desc": {
+      "pl": "na każdym Początku tury Korpus i Części zyskują 900 Tarczy.\n- o 300 mniej za każdy [Teaching] Hong Lua\n- jeżeli Hong Lu ma 3+ [Teaching], ta jednostka nie zyskuje Tarczy do końca walki",
+      "kr_sha256": "1d585bbc863704957d8b2eb9a1f7089d6ee7c83baa07617b1874616b3dc0d66f",
+      "en_sha256": "b3a57bb8b726eb3050d0d46b82f2ccc2b5ab534be179878c57c7e84a74960f5f",
+      "origin": "ai"
+    },
+    "dataList[id=114107].name": {
+      "pl": "I still await your answer.",
+      "kr_sha256": "4b1d549af713ab53cc78f56ca92752e51985fbce8b7cab0c4cdd2136296ea230",
+      "en_sha256": "cb63f46faac749d3a6d4ce6df32f53828274e6bb27505597c63f9094661baf82",
+      "origin": "ai"
+    },
+    "dataList[id=114401].desc": {
+      "pl": "na Początku tury przywraca 30 SP\nna Początku tury zyskuje do 500 Tarczy\n- HP jednostki nie spada poniżej 1",
+      "kr_sha256": "caf41d826885954b2ad0733e590361b2763a7f92f23b1de76dffd22c62e9f6dc",
+      "en_sha256": "8e6accf185f59879356883efd2ef379377470029a6c3d4461b66683f154f03c7",
+      "origin": "ai"
+    },
+    "dataList[id=114401].name": {
+      "pl": "My Lord",
+      "kr_sha256": "135b5a93d8f69eaad2120ef28e5cce1ed5f6c545a44384bc0892fde25eb7793f",
+      "en_sha256": "d25aa8fdd40d2585aa2ab28b84c49493f460e0031b3ce9cbc1e41be9ad65d254",
+      "origin": "ai"
+    },
+    "dataList[id=115701].desc": {
+      "pl": "Moc Końcowa +2 w Starciach z Hong Lu",
+      "kr_sha256": "d917b3c2f6cf37d828c832ad402659191d26c3407b073fc7c61d298b700cd40b",
+      "en_sha256": "650a96679542f3f67655d107cc51e818b07419f580877e3d12cc17491e6b7646",
+      "origin": "ai"
+    },
+    "dataList[id=115701].name": {
+      "pl": "Hate",
+      "kr_sha256": "1400623fbb428310c96378ca8f6a3fd30f3f4b06b3f8596c7f19bbce223d18e3",
+      "en_sha256": "e562e8ead932801f552bdd268d623fb0d2f8bed4ab1251e5f732b157ebad9227",
+      "origin": "ai"
+    },
+    "dataList[id=115702].desc": {
+      "pl": "na Początku tury zyskuje [AttackUp] równy liczbie Słoików pokonanych w tej walce (maks. 5)",
+      "kr_sha256": "a0b91b2d777a1ea1710de50723bb2d349e02b063e0f3c7402ba46d1c3bdf5df3",
+      "en_sha256": "4281ef0d3a0babc6ee47813932e7aa2f5778f0e74a9a16712680a94d2956cc15",
+      "origin": "ai"
+    },
+    "dataList[id=115702].name": {
+      "pl": "Unleashed Curse",
+      "kr_sha256": "c475d0ee69ab6bb7662426dc4fb98422da436b41052f1c3cb9df575dba32071c",
+      "en_sha256": "323217c1c05add88b4a27c37b10d2886ae1de46edf187694a5acc35695041a64",
+      "origin": "ai"
+    },
+    "dataList[id=115703].desc": {
+      "pl": "zadaje +1% obrażeń za każde 1% brakującego HP jednostki (maks. 50%)",
+      "kr_sha256": "3652243fe0c684ffd965e8fa08f581e6fb9aed2bb454ba278585a10fcf43c878",
+      "en_sha256": "ccab295505949db5ca67711c6aa34e93c542889df13b18f03eb12daa3761a041",
+      "origin": "ai"
+    },
+    "dataList[id=115703].name": {
+      "pl": "Returning the Pain",
+      "kr_sha256": "f53b1915abefac0bbdd47a47ff98458104af546727387ae25fbeac9fd048d9c3",
+      "en_sha256": "08e4e6503ee54c3f00009794e2c24e9b7de36702d3a2173c8d48b832aa03ceba",
+      "origin": "ai"
+    },
+    "dataList[id=115704].desc": {
+      "pl": "gdy Xue Pan traci w tej walce całe HP, walka się kończy",
+      "kr_sha256": "645dfcbfa93fbba7838847f4c8e2d9c5f71194e49e22be58f862be3100d7de7e",
+      "en_sha256": "a890989dbcf5df79373fd636ab8493eabbd9427d42e89c971f9341f141b945a6",
+      "origin": "ai"
+    },
+    "dataList[id=115704].name": {
+      "pl": "The Battle's End",
+      "kr_sha256": "43c4f4716ee31e425a9bc78c33dea5e96cc362173f1f41506efdceb359765570",
+      "en_sha256": "1f4f2b8337481f0afecb334a583dd096afc4c694a77ed05f0618549d8dcccc15",
+      "origin": "ai"
+    },
+    "dataList[id=115801].desc": {
+      "pl": "przy trafieniu Umiejętnością: przywraca HP równe 10% zadanych obrażeń (zaokrąglając w dół)\njeżeli cel ma [MadFeather], dodatkowo przywraca HP równe (liczba [MadFeather] celu)%",
+      "kr_sha256": "a5a529b3f128fcca26c863d81f57475e2e8bc67d0707fa968b14e932c31f2bea",
+      "en_sha256": "2ceb83f5ab7ea13ed255653d05bfe114d1c1fefc4255a809628ad981dda78465",
+      "origin": "ai"
+    },
+    "dataList[id=115801].name": {
+      "pl": "Bolus of... Immortality?",
+      "kr_sha256": "96902896e6f54e7b049cc22cc7df8667a297d3838870137aff162d1daec1d7af",
+      "en_sha256": "c185f2d96fcf20490b88b9925519a28053c1b55200fb2fbe8cbf0c1063dd0191",
+      "origin": "ai"
+    },
+    "dataList[id=115802].desc": {
+      "pl": "przy trafieniu własnym atakiem przywraca 3 SP",
+      "kr_sha256": "b3991f9e8021344ea8b75c0b4ea13cb7baf9459281744371185b6c5bf07195d9",
+      "en_sha256": "bb7ac70429504a4dcb5695527f66091cfa6e6cf971f42cf00d6c4046f5424096",
+      "origin": "ai"
+    },
+    "dataList[id=115802].name": {
+      "pl": "I'VE NEVER FELT BETTER!",
+      "kr_sha256": "bae8e20e718f2d3f52a1f95d65d3bed6a225ac2ae3bb0daf9ea02fb4bf2fdc3b",
+      "en_sha256": "c307da9cac8dd70fc0d6cbc195cd0522f8dcfb73ba356150d67531fe05cbe251",
+      "origin": "ai"
+    },
+    "dataList[id=115803].desc": {
+      "pl": "za każdą przegraną w Starciu zyskuje 1 [AttackUp] w następnej turze (maks. 3)",
+      "kr_sha256": "c13e64c6675fb34a30d895dafa1a0b4b72715ba9aa1e5fa2acfb857cf4e9fd27",
+      "en_sha256": "1486d2b6de027aefadf969be1ce0661ea30ce1fee4d6a81367f9537179c4c315",
+      "origin": "ai"
+    },
+    "dataList[id=115803].name": {
+      "pl": "MY REVENGEANCE HAS JUST BEGUN!",
+      "kr_sha256": "513aa275d48454f57fa5f90d19aaee8c591977a10f00d2d613d5a65d35f0088e",
+      "en_sha256": "5d97f748a2525a9de531313327450303be34595f6998da70ea8dfb324fedf39c",
+      "origin": "ai"
+    },
+    "dataList[id=115804].desc": {
+      "pl": "za każde 3 trafienia tym samym celem w jednej turze nakłada 1 [Vulnerable] temu celowi w następnej turze",
+      "kr_sha256": "eed7aec06f26bc1a844ded34218d5b8280c34e8fd3df08ee2f9656046ce16051",
+      "en_sha256": "9f6bd60c96591253331d604caadbe4c5e870615fac6739db103634e46c42c286",
+      "origin": "ai"
+    },
+    "dataList[id=115804].name": {
+      "pl": "Rupture by Feathers",
+      "kr_sha256": "44253856d6735236482447f9fdfef6c4ca55010f2f73cca50317257b91d0debd",
+      "en_sha256": "72e050b6459a01b998f7ec3260627f01d0c57561849196d4c088d68c5ca0f577",
+      "origin": "ai"
+    },
+    "dataList[id=115805].desc": {
+      "pl": "Poziom Ataku +1 i Poziom Obrony -1 za każde 15% HP łącznie utracone przez jednostkę w tej walce (maks. 6)",
+      "kr_sha256": "07ae27fabc7c4d85c0d6bc64af6a65dac553a851c4c4cd16a061b92f402764b8",
+      "en_sha256": "f88e1febd0f274344265df590e0dd9e454e55b66e829437989276ea4122523ba",
+      "origin": "ai"
+    },
+    "dataList[id=115805].name": {
+      "pl": "Rampage",
+      "kr_sha256": "ab0b6f4eced530c895e5b9919d9c04d19d14422762c4dea26808fafab51c593e",
+      "en_sha256": "9c6aa95845a73edcec9a9568deba187100fbe690f0a6dfcc010810f04e6a9245",
+      "origin": "ai"
+    },
+    "dataList[id=115806].desc": {
+      "pl": "gdy Shi Yihua traci w tej walce całe HP, walka się kończy",
+      "kr_sha256": "63d4dd420f174f9220624e10574ab7ef51b775adeecf5e97c293482c7971dd16",
+      "en_sha256": "ff3812cd5296000f2d53b7f0bc11e1a8c3354701ec7aa1a3af719c79f880d1eb",
+      "origin": "ai"
+    },
+    "dataList[id=115806].name": {
+      "pl": "The Battle's End",
+      "kr_sha256": "43c4f4716ee31e425a9bc78c33dea5e96cc362173f1f41506efdceb359765570",
+      "en_sha256": "1f4f2b8337481f0afecb334a583dd096afc4c694a77ed05f0618549d8dcccc15",
+      "origin": "ai"
+    },
+    "dataList[id=115901].desc": {
+      "pl": "Początek walki: wchodzi do walki z 80% HP",
+      "kr_sha256": "a55abe2ede805a83ba3c9d9ceda683fbb1f7806871c344e5126778491f71eab1",
+      "en_sha256": "f7760e96c65565e7125a8722b529639b2fe254168c901b6bd491ec7d5f170177",
+      "origin": "ai"
+    },
+    "dataList[id=115901].name": {
+      "pl": "Wounded",
+      "kr_sha256": "4e8ae0e392908b605c03bb7b28a02f4eddcacd78ef6d89427e436d8aa19c1592",
+      "en_sha256": "cb7d16c1f9d5c8ef49facc628109415c24a450f28f46e66e26fd624faa038eaf",
+      "origin": "ai"
+    },
+    "dataList[id=115902].desc": {
+      "pl": "Koniec tury: przy SP równym 20 lub mniej wysysa 10 SP od 3 losowych sojuszników z najwyższym SP, przywracając tyle SP\n\nna Początku tury nakłada 2 [AttackDmgUp] wszystkim pozostałym sojusznikom ze SP równym -20 lub mniej",
+      "kr_sha256": "d863e6350a8e6413bd5c02392b8c87cc26532c6d271a415a03e2997992c2c5a2",
+      "en_sha256": "cffeb52b4eed35d36a1daf00df0191ff8884595d5c0e9078af4750f7cb114794",
+      "origin": "ai"
+    },
+    "dataList[id=115902].name": {
+      "pl": "Master of the Deathrite Monks",
+      "kr_sha256": "330649b0e992a534f4acf44847ae5b789efd586a8af080d72d2cd3003ccf4062",
+      "en_sha256": "f95cce9b626b30f3844d89f9f54c74b3e555311de2da855e10063cd05350e593",
+      "origin": "ai"
+    },
+    "dataList[id=115903].desc": {
+      "pl": "gdy nakłada [OminousTalisman] wrogowi, jeżeli cel już posiada [OminousTalisman], zużywa do 3 [OminousTalisman] celu i nakłada tyle samo [DefenseDown] temu celowi w tej turze i następnej",
+      "kr_sha256": "5887b5252708da61dbfe835c5aa6f7539fc51c30282b45403d2ba909408c7c6f",
+      "en_sha256": "0ba355bac014f6ab2af0d2a1ab0df55d6247053529968463d00b3eea63198b48",
+      "origin": "ai"
+    },
+    "dataList[id=115903].name": {
+      "pl": "Wicked Energy",
+      "kr_sha256": "fcf287c1be89fa985ebea1299dcefe5402f0a682668a415cf0996e467e56f009",
+      "en_sha256": "7e60445dfb549c1972b2c3eedcc436d6a0732934fd1a0bd129baf77481e45a9f",
+      "origin": "ai"
+    },
+    "dataList[id=115904].desc": {
+      "pl": "w tej walce, jeżeli ta jednostka otrzymuje obrażenia sprowadzające jej HP do połowy lub mniej, niweluje te obrażenia, natychmiast kończy turę i przesuwa się na sam koniec kolejki pojawiania (jeżeli jest w Oszołamieniu, natychmiast z niego dochodzi do siebie)\n\njeżeli nie ma już wrogów do zastąpienia albo jest ich za mało (tzn. jeżeli liczba wrogów zabitych w tej turze przewyższa liczbę oczekujących na pojawienie się), ten efekt nie uruchamia się",
+      "kr_sha256": "f9d556d12a9a2608b56754ba85e2f4a76db39b22f08ba5a0f26cbe778b37b4ab",
+      "en_sha256": "0289e6846d61f9be3951533fa75df727807ad9957f8c612f3d0a1ba4c3bf07ac",
+      "origin": "ai"
+    },
+    "dataList[id=115904].name": {
+      "pl": "Dammit... Take them out!",
+      "kr_sha256": "2b7cb264dd880b5aaa89d4ec57a9e83266ae309e76269ee0650e391815321eff",
+      "en_sha256": "1179f2622f9deca9f8ab3732fc3ff88db4a80145d24d33cd380419ed08ee6e2a",
+      "origin": "ai"
+    },
+    "dataList[id=115905].desc": {
+      "pl": "gdy Wang Qingshan traci w tej walce całe HP, walka się kończy",
+      "kr_sha256": "63ed35619ed26cb10d48dcdcbb6586939dc75b2ae9bd8883d2a47aac230fc7e2",
+      "en_sha256": "a1e8a775a372719ec689239c5f859e561a48221edde77e4cc9740919fb2bc0d9",
+      "origin": "ai"
+    },
+    "dataList[id=115905].name": {
+      "pl": "The Battle's End",
+      "kr_sha256": "43c4f4716ee31e425a9bc78c33dea5e96cc362173f1f41506efdceb359765570",
+      "en_sha256": "1f4f2b8337481f0afecb334a583dd096afc4c694a77ed05f0618549d8dcccc15",
+      "origin": "ai"
+    },
+    "dataList[id=116001].desc": {
+      "pl": "na Początku tury, jeżeli HP jednostki wynosi 50% lub mniej, poświęca losowego Shi Family Mercenary, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)",
+      "kr_sha256": "a270b9feb261c2f5f4bd2e6c3fb46e12f5b9cd6c5441f27480d3fd6db908f963",
+      "en_sha256": "0dcfe7843b92744757ff7c28acd1f5bee127a70def26c4b1565c38f6a970778e",
+      "origin": "ai"
+    },
+    "dataList[id=116001].name": {
+      "pl": "That's how you use your human resources",
+      "kr_sha256": "d612864a28fb9b1b3257cec4125d24a5632e3db690793878c5a6c68f64761450",
+      "en_sha256": "326e0bdeebea162b9c97334637371f1f9d13d1747c91fb6cda55ff5750698223",
+      "origin": "ai"
+    },
+    "dataList[id=116002].desc": {
+      "pl": "na Początku tury zyskuje 5 [Protection]\n- w zależności od [Charge] jednostki zyskuje mniej na Początku tury\n- przy 5+ [Charge] ta jednostka nie zyskuje już [Protection] z tego Pasywu",
+      "kr_sha256": "bd2c62bc2ae81d63910d80c085d7c33d562aafdd738c13ca0d6aad36b04e87d1",
+      "en_sha256": "fd41613cfbaa91be93b20613b23e6ac88803cb8b6d79103057af3f6dfa9f5400",
+      "origin": "ai"
+    },
+    "dataList[id=116002].name": {
+      "pl": "Jin Gang, Unbreakable Diamond",
+      "kr_sha256": "b75000eddc930e08fc9480c2a98040959d25074eb439520aa0dcde0bc0b59829",
+      "en_sha256": "9bd9feac9882c93ca7b4634f40c1e78d2e4c65a559656a151701761ab2f49b47",
+      "origin": "ai"
+    },
+    "dataList[id=116003].desc": {
+      "pl": "gdy Shi Sijing traci w tej walce całe HP, walka się kończy",
+      "kr_sha256": "1e9af5dc490ec4afcf562b7becaba09733bab1a63326963df8c8077778630ea4",
+      "en_sha256": "9e3712b5624aef06f416664cc3a90edc31c6d1f0a64656a36b7b2b82d8f63709",
+      "origin": "ai"
+    },
+    "dataList[id=116003].name": {
+      "pl": "The Battle's End",
+      "kr_sha256": "43c4f4716ee31e425a9bc78c33dea5e96cc362173f1f41506efdceb359765570",
+      "en_sha256": "1f4f2b8337481f0afecb334a583dd096afc4c694a77ed05f0618549d8dcccc15",
+      "origin": "ai"
+    },
+    "dataList[id=116701].desc": {
+      "pl": "Koniec tury: przy 7+ [Charge], zyskuje 4 [DefenseDown] i 3 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "e5b0ccb3359ab113deb9023e6b1ea1c4649c9823124ea28d3651e17519ed0b61",
+      "en_sha256": "a6df7bf5ca1c7fbc12ec05ba77e3dc6e0d79fed6bf82fb01da6106583a63ca9a",
+      "origin": "ai"
+    },
+    "dataList[id=116701].name": {
+      "pl": "Ugh... these damn engravings...!",
+      "kr_sha256": "ba6e155a18810edf9739faa6f7090fe0d215fe17ea21cc5606a0ed97636cb24b",
+      "en_sha256": "8343fd807c4599779d0065ec99c24fb6b6e8b96faa47601c3e1ed98afa2a5035",
+      "origin": "ai"
+    },
+    "dataList[id=116702].desc": {
+      "pl": "jeżeli ta jednostka nałożyła w tej turze 4 lub więcej [Burst], na koniec tury zyskuje 3 Licznika [Charge] (1 raz na turę)",
+      "kr_sha256": "8aedab6e9edae09f9243110a530124b6a3d65c7b4e7ca2a3aa58af2546774b5c",
+      "en_sha256": "af941fb045db80e237ab43c7b037ec08e37c757c5a67fc5eeb6e255e290b495f",
+      "origin": "ai"
+    },
+    "dataList[id=116702].name": {
+      "pl": "Your shabby weapons are incomparable to mine",
+      "kr_sha256": "f0847883005afb61e221bcdb706caf606ecdfdc1ff6b1177c1583ab1f8c6b11a",
+      "en_sha256": "a6e3b6c595e98d70cedf3c381996fda6a2a9adcb4e53158d045d4ecd04ae4b49",
+      "origin": "ai"
+    },
+    "dataList[id=116703].desc": {
+      "pl": "na Początku tury zyskuje 1 [AttackDmgUp] za każde [Charge] jednostki",
+      "kr_sha256": "baf4fbe496bf212ed1ba3c1ba036af760c2420d6f5a4a932992a48f80a977563",
+      "en_sha256": "4ae0f8c9aa11ad7ab24541143fc0edb62691d89c32e1781f6a56e70fc6e0ede8",
+      "origin": "ai"
+    },
+    "dataList[id=116703].name": {
+      "pl": "Is that all you've got?",
+      "kr_sha256": "612042ee961f70a75c57387796e1f0181d7f2a00b4dc8db682f9ef63a052f697",
+      "en_sha256": "8e1dc9fa7ebbc31da27c858bb199f79e0a6ec01dbb5aa3ce6c42594021595a0f",
+      "origin": "ai"
+    },
+    "dataList[id=116704].desc": {
+      "pl": "gdy Shi Hua... something? traci w tej walce całe HP, walka się kończy",
+      "kr_sha256": "74391bdbe398e72f2004030152368a0a3a58c5e3c6351568fc65e1e8673fee88",
+      "en_sha256": "f0c712c80b2a53ab31b97e5ae6321834dff04203ec5ee88b7ad6bfdeb5ed203c",
+      "origin": "ai"
+    },
+    "dataList[id=116704].name": {
+      "pl": "The Battle's End",
+      "kr_sha256": "43c4f4716ee31e425a9bc78c33dea5e96cc362173f1f41506efdceb359765570",
+      "en_sha256": "1f4f2b8337481f0afecb334a583dd096afc4c694a77ed05f0618549d8dcccc15",
+      "origin": "ai"
+    },
+    "dataList[id=116705].desc": {
+      "pl": "na Początku tury, jeżeli ta jednostka ma [Charge], zyskuje (100 - (([Charge] - 1) x 10)) Tarczy. przy 7+ [Charge] ta jednostka nie zyskuje już Tarczy z tego Pasywu.",
+      "kr_sha256": "d8032fa557fb06220915c5f521d65bc18adb7d32a3f764d310ab51bc0fea7fe1",
+      "en_sha256": "0b1e9add891c54276f8f4852f6d9e97934468802e742f65c2d3ac9b6126d8b05",
+      "origin": "ai"
+    },
+    "dataList[id=116705].name": {
+      "pl": "Deploy Lightning Shield",
+      "kr_sha256": "5cd87b915e3f225bfde4a1dd52d1104a7ce64c8385aea7b7085e6d58e384056c",
+      "en_sha256": "3121366809b83525a5ba31024c6bb66356b87cbaca5b4c7660788eb4101a0bff",
+      "origin": "ai"
+    }
+  }
+}

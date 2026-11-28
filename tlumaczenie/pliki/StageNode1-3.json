@@ -1,0 +1,334 @@
+{
+  "entries": {
+    "dataList[id=10301].desc": {
+      "pl": "Vergilius przedstawia cel tej operacji. Wszyscy są w świetnych humorach, tylko jeden z Grzeszników zaczyna reagować dziwnie niespokojnie…",
+      "kr_sha256": "7608c240e5d832bed7ee04ac48b917a0e84eb45e02219acea152ed85a5c9e8e0",
+      "en_sha256": "8815d14ab3375c0ccb1165250110c6d7bba99c5f18cb9518f764554e1d85b85f"
+    },
+    "dataList[id=10301].place": {
+      "pl": "Na pokładzie Mephistophelesa",
+      "kr_sha256": "4d8e8db7ecbd1beffeef4944954c037245114de4988e89d756d7350fe56ca305",
+      "en_sha256": "5a4a4efef2ba3deecd38e4297ae0f5b713a4fb30b4020a1adaf80dd54791b334"
+    },
+    "dataList[id=10301].title": {
+      "pl": "Nucenie",
+      "kr_sha256": "bd298cadce8de023a4d9ad8ea596be65fd9e081c4afe225c67d49eceb87c7beb",
+      "en_sha256": "094684c00690460340bfe4581e129095fde5b19e774655a61ea81eb504e6459b"
+    },
+    "dataList[id=10302].desc": {
+      "pl": "Podobno jedziemy do Gniazda K Corp. Wszyscy reagują na to tak samo zdumieni. Żeby dostać się do Gniazda, trzeba przejść przez punkt kontrolny, a procedury są tam ponoć bardzo drobiazgowe.",
+      "kr_sha256": "ce6be87f95fad4324753a9760f965139e2b48266921d450fca02660aca94a099",
+      "en_sha256": "859e3d4964a377e37d2afd04c82cdb0da991971be1bf9372a0476a5f08dff917"
+    },
+    "dataList[id=10302].place": {
+      "pl": "Droga do punktu kontrolnego K Corp.",
+      "kr_sha256": "11753609bcb888c69601888a5e0a7a0da0786ec09d5c295a5c9991b143c2b005",
+      "en_sha256": "e88f62ede33b1a357a277cf2212da2378578cc6d20d989c9236e0954e8504b6c"
+    },
+    "dataList[id=10302].title": {
+      "pl": "Kontrola",
+      "kr_sha256": "e5d4b120f28c3201ea695b837f1cbb30d3a9ce71000c95855b4c455ff86fd680",
+      "en_sha256": "6e4fa13da486be425334496f4f3814bdbf972d068bbeb713ba7832191b9c29b6"
+    },
+    "dataList[id=10303].desc": {
+      "pl": "Po gruntownych próbach pod okiem Vergiliusa i Ishmael dotarliśmy tuż przed stanowisko kontroli. Gdybyśmy tylko przeszli bez przeszkód…",
+      "kr_sha256": "5a87c09d389f75d6b6066f470854ede9c6de2a7f32709ebcf028dbb2fb405eca",
+      "en_sha256": "32186b876d4e15443f4f15416267204e308286cd89a7589976c39925ca5e37d4"
+    },
+    "dataList[id=10303].place": {
+      "pl": "Punkt kontrolny K Corp.",
+      "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
+      "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+    },
+    "dataList[id=10303].title": {
+      "pl": "Kod purpurowy",
+      "kr_sha256": "d7f5163b846c2d8541c222fd2d863926558823b920343e1af2bb506b83bc2d40",
+      "en_sha256": "39bbeeec1be1d37ccc3979af777715be1e9115f3e7fc8ae607e24a2f03014f3b"
+    },
+    "dataList[id=10304].desc": {
+      "pl": "Nasza Don Quixote, która nie znosi niesprawiedliwości, znów narozrabiała. W samym środku Gniazda K Corp. ze wszystkich stron zbiegają się pracownicy, a Vergilius, najwyraźniej porządnie zły, skrzyżował ręce i przygląda się w milczeniu.",
+      "kr_sha256": "35fb4da7b2e53a9543275947540bc6cd645557bc6f5a222965f11dc0b755e9c0",
+      "en_sha256": "c8836afa422aad73ac2bc7902c18376fe6630caa609186b73b30a7ac75d198f8"
+    },
+    "dataList[id=10304].place": {
+      "pl": "Punkt kontrolny K Corp.",
+      "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
+      "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+    },
+    "dataList[id=10304].title": {
+      "pl": "Tabu",
+      "kr_sha256": "a541804e0e44252e107e2687246da14a144d7c41bf3f25605ac67d48d245d3ac",
+      "en_sha256": "a936bbb80f0c6c8f8930258a2d68660f8c1834a39bad6179870ff6f1509eb05e"
+    },
+    "dataList[id=10305].desc": {
+      "pl": "Wciąż walczymy ze strażnikami K Corp. Wrogowie zdają się prawie nie odnosić obrażeń… a my słabniemy coraz bardziej.",
+      "kr_sha256": "1320ad847afd462ea6d81dc583e757e4ccaef12ee34425a7d750332b6b8d5f5e",
+      "en_sha256": "99ece9be6524101ca6cd97219c64b425832d7c7632b5858e4908f8d7408bca98"
+    },
+    "dataList[id=10305].place": {
+      "pl": "Punkt kontrolny K Corp.",
+      "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
+      "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+    },
+    "dataList[id=10305].title": {
+      "pl": "Tabu 2",
+      "kr_sha256": "ad897377d964621347884d67efa2016254a0fbbcbff66ff65aea7c0b6503b545",
+      "en_sha256": "234781eb56659daa9e17b895e83b82b0f353ed55fa2527e2cf27d40199bf6965"
+    },
+    "dataList[id=10306].desc": {
+      "pl": "Dzięki pociskom HP, Osobliwości K Corp., śmiertelne rany, które z trudem zadajemy wrogom, goją się w mgnieniu oka. Grzesznikom kończy się cierpliwość.",
+      "kr_sha256": "9a876ebfe000243446d068d2745a1f656005546698fba579d6af61dab3509f69",
+      "en_sha256": "d09cac49319926548e6c7e06e45b1aadbbff2266be14a23a56338efb7fb2d50a"
+    },
+    "dataList[id=10306].place": {
+      "pl": "Punkt kontrolny K Corp.",
+      "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
+      "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+    },
+    "dataList[id=10306].title": {
+      "pl": "Pociski HP",
+      "kr_sha256": "97f72a2d7fc344cafb17c94c867915b01a669a09455bfd498b203f845f114190",
+      "en_sha256": "d45add37d7bc9689c7012ef5d7aa1232c344b3c8955d20b9072bec05eaa748bb"
+    },
+    "dataList[id=10307].desc": {
+      "pl": "Ktoś pędzi ku nam z zewnątrz z zawrotną prędkością. Ten aż przesadnie żwawy i nadmiernie radosny jegomość nazywa się Siegfried. Wymienia pozdrowienia z Vergiliusem, jakby się znali, po czym w okamgnieniu rzuca się na Grzeszników.",
+      "kr_sha256": "3b1c3624073043a7074e79b38063976720fd258d8c5884d8cf9ceecfab5e635b",
+      "en_sha256": "445b185181c92a1d0495361a2d536c61d7ee1faaadced88939d86ca8db6ae019"
+    },
+    "dataList[id=10307].place": {
+      "pl": "Punkt kontrolny K Corp.",
+      "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
+      "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+    },
+    "dataList[id=10307].title": {
+      "pl": "Siegfried",
+      "kr_sha256": "b918def3d6d3f57288419cdcf12aea7b3e9417a29a2b83a71d722bcbb9eafaeb",
+      "en_sha256": "f3ac1545d508987281bab69231117a29a3d92c5e1d165155761fca0d302d81a7"
+    },
+    "dataList[id=10308].desc": {
+      "pl": "Po chaotycznym pierwszym spotkaniu z Siegfriedem natknęliśmy się przed punktem kontrolnym na znajome twarze. Wciąż tak samo pewni siebie, witają nas…",
+      "kr_sha256": "ffa30a7b299843006324b25d46bedb3432ef1e7d5d36470d25bc1c2461a72391",
+      "en_sha256": "0d6119867a2632debfb37319fd14021db5a39d23b8d62d7f7bf941789bcb29eb"
+    },
+    "dataList[id=10308].place": {
+      "pl": "Przed punktem kontrolnym K Corp.",
+      "kr_sha256": "eba0afddeff482fb98093e1b0cdbc875dcaa4e2bf29855fb0c8493382dbce1d5",
+      "en_sha256": "e88f62ede33b1a357a277cf2212da2378578cc6d20d989c9236e0954e8504b6c"
+    },
+    "dataList[id=10308].title": {
+      "pl": "Znów Effie-zod. I Saude",
+      "kr_sha256": "321c62e4bef8917b3879944da0fc92ce0e28d65be50a8e9dbb7ddd0ad65112ee",
+      "en_sha256": "875a0b4c8b856a1de17280f46547821af0183fba5fb067aeadd86d3f4afcb246"
+    },
+    "dataList[id=10309].desc": {
+      "pl": "Wróciliśmy do autobusu, ale atmosfera jest jakaś nieprzyjemna. Vergilius chyba nie zamierza puścić tego płazem. Trzymaj się, Don Quixote…!",
+      "kr_sha256": "1f5f93964d86900bac3d6ebc429d3494d3e27855c71a7e850681816b1d2b2a27",
+      "en_sha256": "caee0b55d305d6e7bcee8fd70273f9c5f57a9c4cac5ced3a6db017db80531fa8"
+    },
+    "dataList[id=10309].place": {
+      "pl": "Na pokładzie Mephistophelesa",
+      "kr_sha256": "4d8e8db7ecbd1beffeef4944954c037245114de4988e89d756d7350fe56ca305",
+      "en_sha256": "5a4a4efef2ba3deecd38e4297ae0f5b713a4fb30b4020a1adaf80dd54791b334"
+    },
+    "dataList[id=10309].title": {
+      "pl": "Umowa z tamtego dnia",
+      "kr_sha256": "db246e7881ccea306d1c7469704126e9fc3c12a57b06c12b6ceb85907263e441",
+      "en_sha256": "fafc1e2223e36e7856c39313229f1c39453990091e5aa11b0e8e37b0941d3c7b"
+    },
+    "dataList[id=10310].desc": {
+      "pl": "Zamieszanie dobiegło końca i wreszcie ruszamy do celu. W drodze do miejsca zwanego Calw, w K Corp., zanim zdążyliśmy nacieszyć się chwilą spokoju, ludzie przedstawiający się jako “Inkwizytorzy” przebili szybę autobusu.",
+      "kr_sha256": "422661e3c4bbd124904772a508ae941ecf69fef219ec7536ad78ff19e4d9e9f5",
+      "en_sha256": "43e073b0a6edb8dd24f1388de1da65468ca3a796c46927f9538a79da6370bad6"
+    },
+    "dataList[id=10310].place": {
+      "pl": "Wjazd do Calw",
+      "kr_sha256": "c368881bd0c70271a505efb95ce6ebe95b0d1017f72eb11b9a28ec50a3f80de7",
+      "en_sha256": "2ca71138c838cc02c4bf8fadf36e2fea060dbe73e5bc2bd7ddb69388456d0bdb"
+    },
+    "dataList[id=10310].title": {
+      "pl": "Inkwizytorzy",
+      "kr_sha256": "242cb40022ef943c947bc6c866154a6e964b8695052e23dd0078fc5311688d6c",
+      "en_sha256": "7a2df87c73ed658aaee65bf18a70263b48c94de6d640a563ef208d690a7c0179"
+    },
+    "dataList[id=10311].desc": {
+      "pl": "Odezwała się grupa zwiadowcza. Nieznany głos z krótkofalówki zdradzał, że dzieje się coś niedobrego. Sinclair zaczął wpadać w przerażenie.",
+      "kr_sha256": "5d4bf9128e986238f1e78fc18db3c5e493e52620ca40db1fc4463d0e053f4a68",
+      "en_sha256": "a9b9aea8d5c5092024601c77a4a28702167e95d6a379829a86da2eec11aa52a1"
+    },
+    "dataList[id=10311].place": {
+      "pl": "Wjazd do Calw",
+      "kr_sha256": "c368881bd0c70271a505efb95ce6ebe95b0d1017f72eb11b9a28ec50a3f80de7",
+      "en_sha256": "2ca71138c838cc02c4bf8fadf36e2fea060dbe73e5bc2bd7ddb69388456d0bdb"
+    },
+    "dataList[id=10311].title": {
+      "pl": "Inkwizytorzy 2",
+      "kr_sha256": "c6bfcd5ce31205079f567c2a236fd879a00205ae051fb26f3d2dba615d4f0497",
+      "en_sha256": "2a683caa2cffa93c9c6f25d5bbb16b53b21498584854a2e33a750ebb8a1c4be6"
+    },
+    "dataList[id=10312].desc": {
+      "pl": "Inkwizytorzy nacierają raz za razem. Co to za jedni, że ot tak żądają mojej głowy?",
+      "kr_sha256": "8563bf0fd627c28d0b081ad8907a36630226bdee5811ef9e6218b3177da7998c",
+      "en_sha256": "236006fc95b32106fbe7da074e52d89d622ab0673b27d0cb9231b3bfcba8e5cd"
+    },
+    "dataList[id=10312].place": {
+      "pl": "Wjazd do Calw",
+      "kr_sha256": "c368881bd0c70271a505efb95ce6ebe95b0d1017f72eb11b9a28ec50a3f80de7",
+      "en_sha256": "2ca71138c838cc02c4bf8fadf36e2fea060dbe73e5bc2bd7ddb69388456d0bdb"
+    },
+    "dataList[id=10312].title": {
+      "pl": "Inkwizytorzy 3",
+      "kr_sha256": "02c7d1fb2f5199ede01228daf03ebe106c89e01c089d0c17af3cd0ce89d4e40a",
+      "en_sha256": "b5bb946c33dcdde00b49ef32e530aeb6b351da15d3b58406c5545681d4542227"
+    },
+    "dataList[id=10313].desc": {
+      "pl": "Dotarliśmy do celu, do miasteczka Calw. Skądś dobiega znajoma piosenka, a na drzewach gęsto wiszą potworne ozdoby.",
+      "kr_sha256": "34de4e6a7f62a81f17ec481cdadee3d2980f1d2c2492c9a18a53e0a30f69d149",
+      "en_sha256": "d1321fd8798b752f95842563101ac2319277799ac0709dd2216668829666aeb6"
+    },
+    "dataList[id=10313].place": {
+      "pl": "W Calw",
+      "kr_sha256": "7894a8d9dcdb3ce2b1d48986934502db8ef34e34b0fc542c126caa3264ddab7d",
+      "en_sha256": "663d7746e539985d712f87358c6611d0e96b97820a0ef4ad803d33c0c0366c55"
+    },
+    "dataList[id=10313].title": {
+      "pl": "Święta noc",
+      "kr_sha256": "c5373e3abbf9b0c1ecb233c9b5309025d7b95ddd24f77ee49fa061cb2822dc49",
+      "en_sha256": "4e8a81e18de26ba7b5331a2afcb7799a01a361aad28ec48a57b83eac4755bf4f"
+    },
+    "dataList[id=10314].desc": {
+      "pl": "W Calw, rodzinnym miasteczku Sinclaira, większość mieszkańców wytwarza części do protez. Faust opowiedziała nam o posiadaczach protez, których unika się tym bardziej, im częściej dochodzi do Zniekształceń.",
+      "kr_sha256": "2fe1294d728c2ef0b5097c0f6251915d91714ae75c54f88d99a97835662d0813",
+      "en_sha256": "7032c0975e3cf952c03281434213754cc5d6559e7453dfba5ba159274aa7c26f"
+    },
+    "dataList[id=10314].place": {
+      "pl": "W Calw",
+      "kr_sha256": "7894a8d9dcdb3ce2b1d48986934502db8ef34e34b0fc542c126caa3264ddab7d",
+      "en_sha256": "663d7746e539985d712f87358c6611d0e96b97820a0ef4ad803d33c0c0366c55"
+    },
+    "dataList[id=10314].title": {
+      "pl": "Święta noc 2",
+      "kr_sha256": "e6efa677a9624f9988037c57cbb8f5b849d3233cfeedb6ddbbf1f30e78216ff4",
+      "en_sha256": "90f34eee86545e544016ad52944c9e863afaee54d116a703406ba9cb667c4e91"
+    },
+    "dataList[id=10315].desc": {
+      "pl": "W kącie miasteczka protezy piętrzą się jak na wysypisku. Nagle zastanawiam się, czym właściwie jest moje prawdziwe ja.",
+      "kr_sha256": "934708eb9d2df985246c7da20676d99da9c3bfb3d66d21d7c33c3555410b25fe",
+      "en_sha256": "e3a05f8e7ae6b102eb23faf300cbd8ce8ecb9c49cf5d8cd68b55762544ed4c30"
+    },
+    "dataList[id=10315].place": {
+      "pl": "W Calw",
+      "kr_sha256": "7894a8d9dcdb3ce2b1d48986934502db8ef34e34b0fc542c126caa3264ddab7d",
+      "en_sha256": "663d7746e539985d712f87358c6611d0e96b97820a0ef4ad803d33c0c0366c55"
+    },
+    "dataList[id=10315].title": {
+      "pl": "Oczyszczenie",
+      "kr_sha256": "40fc585cd76a1db573f5189bef0dae516f2fd762c1080b984661a52e25ee844c",
+      "en_sha256": "3b1327f218699fcc3536a4d93c5f11868c45cf761bdb0e6154ecb1a37981df7d"
+    },
+    "dataList[id=10316].desc": {
+      "pl": "Żal patrzeć, jak rozpaczliwie Sinclair stara się stłumić strach. Patrząc na mnie, przypomina sobie dawnego przyjaciela.",
+      "kr_sha256": "b8f31b8d8e089b999da0c1d8566ab73bee337f0d9fe14ecbe13c0c5e482ca8e4",
+      "en_sha256": "3110fff8ca01f432aa5c2741da01b16a398e46d7390dbacd594d0a142dc97184"
+    },
+    "dataList[id=10316].place": {
+      "pl": "W Calw",
+      "kr_sha256": "7894a8d9dcdb3ce2b1d48986934502db8ef34e34b0fc542c126caa3264ddab7d",
+      "en_sha256": "663d7746e539985d712f87358c6611d0e96b97820a0ef4ad803d33c0c0366c55"
+    },
+    "dataList[id=10316].title": {
+      "pl": "Odwaga",
+      "kr_sha256": "8a755685636f287aad71757a0a711386e686e86ab6059b2091a391545d438dbb",
+      "en_sha256": "869608639a4178f7e379027b2376eaeb05739e91794ff2f3cef4b57810fa2534"
+    },
+    "dataList[id=10317].desc": {
+      "pl": "Stanęliśmy przed posiadłością Sinclairów. Przed nią wiszą przybite gwoździami ciała z protezami. Wśród nich dostrzegamy kogoś, na kogo nie potrafimy spojrzeć wprost.",
+      "kr_sha256": "da60694b63716f37bc41e3228735b75726aea061021295ec3e2516a66e693477",
+      "en_sha256": "c80d63d9270f58693df7d3e2bfed897aa4cae1cd3c639ff0c3baff65d68bd424"
+    },
+    "dataList[id=10317].place": {
+      "pl": "Przed posiadłością Sinclairów",
+      "kr_sha256": "99ffbff67e844f10c9865c32d3e81c0ab891b0a15cd7534f17cc64f7aa6f73fa",
+      "en_sha256": "67c37c39248db27d23cdbd9abe5b2a34f6353dc7abe4fd4d3f4c30516560ad0a"
+    },
+    "dataList[id=10317].title": {
+      "pl": "Pożoga",
+      "kr_sha256": "ac281ef27cce389bf85477a806546208df9574e6ccfb0ccb37ab29d33c9960a5",
+      "en_sha256": "f5d1dce68f65817c9054ed2694be5d9c427b12510be178534f065563771923df"
+    },
+    "dataList[id=10318].desc": {
+      "pl": "Kromer weszła do płonącej rezydencji. Na widok Guida, który idzie ku nam bez draśnięcia, Grzesznicy w jednej chwili tracą ducha.",
+      "kr_sha256": "f2195c0b788f425157d2a85dea992458f84bf7c6c2a9a57d396f4aac0ef9191a",
+      "en_sha256": "8a3f1fb0891ced808a97e5de302114face1d8e25176f35a6c566a1ec23090d60"
+    },
+    "dataList[id=10318].place": {
+      "pl": "Przed posiadłością Sinclairów",
+      "kr_sha256": "99ffbff67e844f10c9865c32d3e81c0ab891b0a15cd7534f17cc64f7aa6f73fa",
+      "en_sha256": "67c37c39248db27d23cdbd9abe5b2a34f6353dc7abe4fd4d3f4c30516560ad0a"
+    },
+    "dataList[id=10318].title": {
+      "pl": "Pożoga 2",
+      "kr_sha256": "cf3ca69ec4717d368850fad28d736f36583b812e80e2513630b7380ee66029b4",
+      "en_sha256": "1213292b42df6cff6bcdf4e8e8901c00e6eec153a5b1589b769cbf956dc5021d"
+    },
+    "dataList[id=10319].desc": {
+      "pl": "Z trudem pokonaliśmy Guida, ale Sinclair ledwo się trzyma. Chyba bez przerwy dręczy go nieznośne poczucie winy.",
+      "kr_sha256": "47e2f15115b35431106daf47606381ba543f514d1518f28e086ab5c6cc112da4",
+      "en_sha256": "8ea7586a3ba99a2230c287fb99ab4b3e2801779add17369061ac6026c9e7f96c"
+    },
+    "dataList[id=10319].place": {
+      "pl": "Przed posiadłością Sinclairów",
+      "kr_sha256": "99ffbff67e844f10c9865c32d3e81c0ab891b0a15cd7534f17cc64f7aa6f73fa",
+      "en_sha256": "67c37c39248db27d23cdbd9abe5b2a34f6353dc7abe4fd4d3f4c30516560ad0a"
+    },
+    "dataList[id=10319].title": {
+      "pl": "Zły sen",
+      "kr_sha256": "cac8377a105dadb76284da0db852b31569b0e3dcb3fa716780d9f88895464653",
+      "en_sha256": "d54f26b43d83029fd13f31fa5c185615d759dd2a38e88697c6701f426db2af66"
+    },
+    "dataList[id=10320].desc": {
+      "pl": "Sinclair zaprowadził nas do piwnicy, z której ciągnie się podejrzany korytarz. Faust przypuszcza, że wykopali go wysłannicy N Corp.",
+      "kr_sha256": "7612f6ac1b3c3dd811c57e3583b9a7cf4b570b2687d9be696df90da413bc9e0d",
+      "en_sha256": "7297a729c4ac0bcd902e4d6976bd67921eecf522c14fc0b10a2027fafa45fe00"
+    },
+    "dataList[id=10320].place": {
+      "pl": "Gdzieś w podziemiach posiadłości Sinclairów",
+      "kr_sha256": "25d21656f7e1db79f76eb17485fa48a9c84b13e7e510678c54dce680f7535033",
+      "en_sha256": "6ebf25b20e5b6d48432d07c45015b45ee7a3f28ad1e7b573e7b3c467b6615c2e"
+    },
+    "dataList[id=10320].title": {
+      "pl": "Podziemny korytarz",
+      "kr_sha256": "b048b20127dfef6164ed9a9d232b60ee7aefde31be3ff37060906cb290a854bc",
+      "en_sha256": "6a7e1b00b7b8b2b60f22fe2bae1545946f16e7db20a2c83524cee5b57e55735b"
+    },
+    "dataList[id=10321].desc": {
+      "pl": "Idziemy dalej podziemnym korytarzem. Filia L Corp. chyba jest coraz bliżej.",
+      "kr_sha256": "572331d3719539e5b01fc48618c75730cc24b6d0e87fb7b5e3f4d8289071332e",
+      "en_sha256": "9fd8f65a55681eb83dbcb8a85fb8092ecc209e4dfbc0018e557e3ea1270e14d5"
+    },
+    "dataList[id=10321].place": {
+      "pl": "Gdzieś w podziemiach posiadłości Sinclairów",
+      "kr_sha256": "25d21656f7e1db79f76eb17485fa48a9c84b13e7e510678c54dce680f7535033",
+      "en_sha256": "6ebf25b20e5b6d48432d07c45015b45ee7a3f28ad1e7b573e7b3c467b6615c2e"
+    },
+    "dataList[id=10321].title": {
+      "pl": "Podziemny korytarz 2",
+      "kr_sha256": "36433d19e6d0057140ed2343b10786eaf2ae581cf4b2a7d697e82860680f1889",
+      "en_sha256": "a72196a02bad202093676cd755bf1b4f2d847e9db75fea58bbfa19b9ddda84c9"
+    },
+    "dataList[id=10322].desc": {
+      "pl": "Dotarliśmy do filii L Corp. Jak w sali tortur, wszędzie walają się narzędzia, strzępy ciał i maszyny.",
+      "kr_sha256": "c652450dc9c955af5f7b822e6320ca1159b7348b8e24229eda4686a7a9673746",
+      "en_sha256": "13b72f52a83bb5c6be8e11fa44dd7a84321ff8f7157658bfb84ce7a8f48a1f63"
+    },
+    "dataList[id=10322].place": {
+      "pl": "Gdzieś w podziemiach posiadłości Sinclairów",
+      "kr_sha256": "25d21656f7e1db79f76eb17485fa48a9c84b13e7e510678c54dce680f7535033",
+      "en_sha256": "6ebf25b20e5b6d48432d07c45015b45ee7a3f28ad1e7b573e7b3c467b6615c2e"
+    },
+    "dataList[id=10322].title": {
+      "pl": "Filia K-02",
+      "kr_sha256": "27e69b6575f9568849401188cb77c364e6e7f42c6789bdbfc609deb3d48e22d3",
+      "en_sha256": "cee12c7eca711e9bc0b8788cacca007a12c99a6debd7c6555f6d9713585f7da5"
+    }
+  }
+}

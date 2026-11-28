@@ -1,0 +1,514 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_ATL].content": {
+      "pl": "Sojusz Wyzwolenia Technologii",
+      "kr_sha256": "20ddb9575d8b60a5e4be885f764804c8442a26fede5b4290ddef055f786b6593",
+      "en_sha256": "7c52e5c7e0cd56cd54c6a032749b4c1b6c18cb4ae3d5b2d44cb6ded7fd175747",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BACKSTREET_COOK].content": {
+      "pl": "R.P.M.",
+      "kr_sha256": "a3fcc89ebcf3b67f58942c06c666b34df547f354b036824a7a8407ea1ddcb25d",
+      "en_sha256": "3b63eb5d23cacd7478b04ac86433f1b36d89c2b56ab4bd8ccd0eb48925c99f97",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BACK_STREET].content": {
+      "pl": "Zaułki",
+      "kr_sha256": "5fe8036ac678d40f7af4ed7504fb1ca7028eebae75d71fc1fb46f33e94cec44c",
+      "en_sha256": "d926d68eee58ffe38dbe33f0a00bcc0547c0e34d29dbb830dee983714dff58ff",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BIG_SISTER_PAST].content": {
+      "pl": "<color=#d40000><s>Wielka Siostra</s></color>",
+      "kr_sha256": "f581449777109a19698fd98ad483ee0e751a0a8139da1ad7cbfff9d64e5d7bfe",
+      "en_sha256": "eb40ace68c4080a685e62ee12195dd45dbd55fac38048493f2a9539ae6eb1dae",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST].content": {
+      "pl": "Wataha Heishou",
+      "kr_sha256": "960dc3897754f974d5c81d35197b4dc0c1ae20650c2b724d959175b163ba7561",
+      "en_sha256": "ab4217d9f333bfb55d736e293da22736a37ebcc73596156f53a8819fb15b0f79",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST_CHICKEN].content": {
+      "pl": "Wataha Heishou - Gałąź You",
+      "kr_sha256": "2582a5d94e16337fae679bddb937703df62cbab8dd9550bc600ccde142522db5",
+      "en_sha256": "76195e481a0a38212cc7ec7e3f307f0240656c17689f51b4473b898d11f5bf30",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST_CHIEF].content": {
+      "pl": "Adept Watahy Heishou",
+      "kr_sha256": "bfd3586318e28460823a723d3f46645f97af4731e9fddf782eb01c27aab83fb4",
+      "en_sha256": "947186dc3b9d1c3952bc00e7006449c07e818f32fa02d85ab2f680c6af84db58",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST_CHIEF_FORMER].content": {
+      "pl": "<color=#d40000><s>Adept Watahy Heishou</s></color>",
+      "kr_sha256": "58310f22fb7a76261989cc45b5602812315f5c1d39862a7d0703531924bcc412",
+      "en_sha256": "cd5fdfe0e33fb75a033988548fba0d0f518e3912862e5d7d80cc07ad50212945",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST_HORSE].content": {
+      "pl": "Wataha Heishou - Gałąź Wu",
+      "kr_sha256": "4ecdd83f23862eeb5bbd8f3ba24501e9f6221627d403077828c12f1ac1bdc893",
+      "en_sha256": "af144fe6841184b3d96604f01429973f3872f8199726736495348733fea7720a",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST_RABBIT].content": {
+      "pl": "Wataha Heishou - Gałąź Mao",
+      "kr_sha256": "628b6c260f9cdbd33d424a3baab62f77636c5effca0b6ae599bf2c921979e236",
+      "en_sha256": "9a91341d5b6982e64fd61488f5f2a35fa731f1e6fc1be39c2fb3c1b071734dc7",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST_SHEEP].content": {
+      "pl": "Wataha Heishou - Gałąź Wei",
+      "kr_sha256": "17d3e7a8d2d50ec9c2ce4522fd3f43c7a3d3e70a9acd1a694768784df860bfd2",
+      "en_sha256": "69c2ca79c5980553a1f8324906fb8736c86d44a1867ef9ef0dbeb483a9b6b99c",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_BEAST_SNAKE].content": {
+      "pl": "Wataha Heishou - Gałąź Si",
+      "kr_sha256": "538a629d14b9150b504d932ecd4e7c923d329d89becd8342e7291f28faa1cf33",
+      "en_sha256": "b254fd115fbfd14892aa1165f82308ab6296ee38e1f8e5a9ec35e06b0c97e947",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLACK_CLOUD].content": {
+      "pl": "Klan Kurokumo",
+      "kr_sha256": "1792e0c659d20b2f261f180c879ec14467948d7ebf54431547025bffd18ffd24",
+      "en_sha256": "3870f3eab78c504db332859af8028fcbbb65223ab9eb8d5e944208d88602a9eb",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLADE_LINEAGE].content": {
+      "pl": "Ród Ostrza",
+      "kr_sha256": "129303ae9e75ea3c4a4d1d6ac563bb142a05e76e72ef193136ad9e45bf5b19f2",
+      "en_sha256": "c20ef31147430fd5b44cb715e99b697595af95f35650a0b11fb6f3fcfa120fa5",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_CINQ].content": {
+      "pl": "Stowarzyszenie Cinq",
+      "kr_sha256": "f3f7d5dcf38f2e534970c0b65abcaf33ab72032e2a9a02d9d298c429737a21c6",
+      "en_sha256": "8dde3e917cb6561e5a6036ea9fc9bbfda2c8fac0951de1900dc4bee3462694f7",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_CLAN].content": {
+      "pl": "Syndykat",
+      "kr_sha256": "65e425a15b2d066d0b07ff6a0c5f2ee1f0e7809e2c0226291d0c421024c01497",
+      "en_sha256": "bf27245ee74c300f0a67e11257683d198c880cad3ab167409fca5e9c60ac05d7",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DAWN].content": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DEAD_RABBITS].content": {
+      "pl": "Martwe Króliki",
+      "kr_sha256": "da1f3b99894b83ff9582be8b9930c4b8472c4988fb87bfd4d0aa87f0ea0f1392",
+      "en_sha256": "4246282a2768bf4b4c49cf10fef3cd4ed760aa6fb121c4f7faa661e227121bb3",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DEVYAT].content": {
+      "pl": "Stowarzyszenie Diewiat'",
+      "kr_sha256": "d30edc3768ba81749fe16f2b0a532e5ad0a19d61cfbe980e1f4889eb2e6b18c8",
+      "en_sha256": "c3b5119c1234b6896e33264f4fe2910f2df07770e7ddb3269c57a8a559cb3ca8",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DIECI].content": {
+      "pl": "Stowarzyszenie Dieci",
+      "kr_sha256": "31f8568b34a3051b562a6037c5bd102383546aa4fe0fa83947e35cc6fcfe5729",
+      "en_sha256": "3b41639809029bc87708719cdc29c8a460b9b5298559d3b586eb452320f32883",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DIHUI_STAR].content": {
+      "pl": "Gwiazda Dihui",
+      "kr_sha256": "37621c37dd0f952100388d9f6203f6d4fe3ad7c7a7303cf40a98b3c1c0d554e3",
+      "en_sha256": "97e43816d0ff435b031f9e5805f07f2f90d498c048f134e5cceda7c39952621d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DIHUI_STAR_CANCELED].content": {
+      "pl": "<color=#d40000><s>Gwiazda Dihui</s></color>",
+      "kr_sha256": "6ee1e5d5b5ce7d740cdfd35fb7f3fd7d6ae9fee998bd414ed336c22ce30892cf",
+      "en_sha256": "97d77f1d9e8e87fba3805c78f2206e6d69b252c07e802f9e8d610dd1ad5ecd3c",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DUAL_HOOK_PIRATE].content": {
+      "pl": "Piraci Podwójnego Haka",
+      "kr_sha256": "4164a3799971097098874f12ff8e60a4aa403147b6e788589fd26439ab916d13",
+      "en_sha256": "7d60e38815b6a8c9505f10f2af3d3e4e03b8e02fb7fd50fd1da8b0f6ba855ba1",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_EGO_EQUIPMENT].content": {
+      "pl": "Rynsztunek E.G.O",
+      "kr_sha256": "13e75100b98168e2aa809fb88c4bb7be2dd64dc4ce33f0363462522a3b52a8e4",
+      "en_sha256": "75581a7d235cbd7e974bc7de85c3fd1f40b9cde9d6ee615d27f8942ea75c71f2",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FAMILY_GA_CANCELED].content": {
+      "pl": "<color=#d40000><s>Ród Jia</s></color>",
+      "kr_sha256": "30f51f89eeea321f35cf600ad865dd615bebdde19ab08578e50868dc745a23b6",
+      "en_sha256": "27005c20a0f7fbef77238e07dab98624441f46d15a3335db6faae00bde9dcfb4",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FAMILY_GA_HIERARCH].content": {
+      "pl": "Głowa Rodu",
+      "kr_sha256": "9cccd6a54d9febe39b6f7e8f7be39b3ceeb84ecb93d76abe4d942ff00790ec7c",
+      "en_sha256": "ae68391b6a381a092abbace86336162566c6f41cf7a58bcc5fc6420e1f8aba22",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FINGER_CANCELED].content": {
+      "pl": "<s>Palce</s>",
+      "kr_sha256": "1b64cc0b4c424804f16a362ad3f3896c85d22bab3f03989401705ed45be3e60c",
+      "en_sha256": "c415ac8ddeab79a5944f64492fc0cb00c786e4439ca3ea828e231af59f47724e",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FIREPUNCH_OFFICE].content": {
+      "pl": "Biuro Ognistej Pięści",
+      "kr_sha256": "d7b80f6c4181e91f976bedd02fc069cee17617dea89572d0b51e5ba6a041b165",
+      "en_sha256": "a2eaf69d6c9df1a20914a77c6d06dfcf9ed1e738dd80a54c68d085ef2d909cbe",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FIXER].content": {
+      "pl": "Fikser",
+      "kr_sha256": "33bd340026548f3bc130a833485832a6a36d478fdff5d743e6499dcfb8d5b00b",
+      "en_sha256": "3461c4f78c8ac0f15bcdadb4fba60a6ab5da6261bc4e0ad7aa5f443b899c0d98",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_G_CORP].content": {
+      "pl": "Korp. G",
+      "kr_sha256": "450b69f03c396aa8fac9de7e49da2d6f3d1960a048e9b6824cf5d3aa6b99a74f",
+      "en_sha256": "0bf41f4353e5011eb95053093374a61d8698c35a46e5d0532990777dc26bffa0",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_HOOK_OFFICE].content": {
+      "pl": "Biuro Haka",
+      "kr_sha256": "a0d410433658a23f25425843f4529ff195be50d2bab19a3cdcb9114dcee22ebb",
+      "en_sha256": "c8256a0167b36a77608d66faf239b187550ff0e8a5921a51bac8d978f7f58609",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_H_CORP].content": {
+      "pl": "Korp. H",
+      "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_JEONG_OFFICE].content": {
+      "pl": "Biuro Jeonga",
+      "kr_sha256": "e9aefc00fd78c484a43767e0ac2df538eb0b73993b42d9815e593d01952d048e",
+      "en_sha256": "3ac5309290b500740bf9a8e559a09873b99ec5e8aa9c89f28c53788b3f36be23",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_KONG_KONG].content": {
+      "pl": "Gang Tingtang",
+      "kr_sha256": "7c61a82cb08fc9e03da9a822914e868754e2736a5f9d4f0874c8b0f2556a6d4f",
+      "en_sha256": "42012305d1227c5882a13be7c627a0103c75fd5c2215c5c42c58f5636e6e090e",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_K_CORP].content": {
+      "pl": "Korp. K",
+      "kr_sha256": "6d215f5c0b6e8f995afcc4be35293b387bb255075d078ef3b749db99add65f28",
+      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LA_MANCHA_LAND].content": {
+      "pl": "La Manchaland",
+      "kr_sha256": "a6a24c0b7aea09579242b06fac8618cd763b4b8e2c8b225ae5fed25260b0bc92",
+      "en_sha256": "54013dbb101a057198be4847b0f60d0ded2c39b7318ff137d030ad53e9b44214",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LE_KHAKI].content": {
+      "pl": "Le Kaki",
+      "kr_sha256": "172f78386785d32bf1bb9bd66daa8456a80ddb520c2469cabe2b9e3fe1d12e92",
+      "en_sha256": "cad0f7d1298bb51c361521b303749a5c1f79f9011ef75c652950fa5b77aa13f9",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LIMBUS_COMPANY].content": {
+      "pl": "Limbus Company",
+      "kr_sha256": "d19f74604eb5468429c7458ce1e79137a1714fed721bbd3f4b492493b493976e",
+      "en_sha256": "e6090d79d97583b7eb2ba74fe9e4cdb43cb785e2d2d690720f74e49fa51703db",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LIMBUS_COMPANY_LCA].content": {
+      "pl": "LCA",
+      "kr_sha256": "db522219962fbd315d7b80019229e27a3a67e9e12e633ed69181b887408d3e7d",
+      "en_sha256": "db522219962fbd315d7b80019229e27a3a67e9e12e633ed69181b887408d3e7d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LIMBUS_COMPANY_LCB].content": {
+      "pl": "LCB",
+      "kr_sha256": "146788c023b4878a045c08e1bf6ba5ddf0f0c8ba63edfb42295afb894a515dc1",
+      "en_sha256": "146788c023b4878a045c08e1bf6ba5ddf0f0c8ba63edfb42295afb894a515dc1",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LIMBUS_COMPANY_LCC].content": {
+      "pl": "LCC",
+      "kr_sha256": "06c78c29bfb28e3db5a86c161af9f4258a1642b99394622b6021f00995a50a82",
+      "en_sha256": "06c78c29bfb28e3db5a86c161af9f4258a1642b99394622b6021f00995a50a82",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LIMBUS_COMPANY_LCE].content": {
+      "pl": "LCE",
+      "kr_sha256": "370e728450bf7fae3cd84e75503a2a25fe5cb8348d3a7ab1d5ceb8425daefcdc",
+      "en_sha256": "370e728450bf7fae3cd84e75503a2a25fe5cb8348d3a7ab1d5ceb8425daefcdc",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED].content": {
+      "pl": "LCE?",
+      "kr_sha256": "aa765f31525f2e3e9a869073c4da887034cdaf9cb454c527c67bb20a2ef71fd0",
+      "en_sha256": "aa765f31525f2e3e9a869073c4da887034cdaf9cb454c527c67bb20a2ef71fd0",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LINTON].content": {
+      "pl": "Ród Edgarów",
+      "kr_sha256": "1d5296404ad9700e559f8ac7e85d703bab255b5a06cb022bebe2bf00218a659f",
+      "en_sha256": "7ee2e6ec86b2a09f8d80d585638019aaee13370c3b87783c325a72988bfbf26e",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LIU].content": {
+      "pl": "Stowarzyszenie Liu",
+      "kr_sha256": "99dd06aa0d41cf5d486da1082e2499213aef43adcbe816a3514f382032b217ff",
+      "en_sha256": "6471314f09127016e9be00dddb3ec3d64a54c539847cee8a7b5fa3e68f65f318",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LOBOTOMY_BRANCH].content": {
+      "pl": "Oddział Lobotomy Corp.",
+      "kr_sha256": "aa3779c447736776a83beaca7666b2367e90e1b3c054d0eb01467e978f7a39b7",
+      "en_sha256": "849851e4327bc5f17d87d7efa8aa3360bfcba6841f395e3f66ddf6f1abe0e3a4",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LOBOTOMY_HEAD].content": {
+      "pl": "Centrala Lobotomy Corp.",
+      "kr_sha256": "10839596a349e756fd6f64624fc72fd9108eb641df1844c27190a15f2041c3cf",
+      "en_sha256": "7d40148593236661b01648409b4e3439c645e24b093f6ff1f95ca529c56a0385",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_MACHINE_BOUND_ORGANISM].content": {
+      "pl": "Mechaniczny Amalgamat",
+      "kr_sha256": "8e03c9205708c34c85203ce29f03318490ecd093933add456c7d1518e1b61e12",
+      "en_sha256": "f3d26a63cbbcbc3307ae932e8f909b1bd70231330c7319c4812ff12a2b3d6a79",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_MARIACHI].content": {
+      "pl": "Los Mariachis",
+      "kr_sha256": "43565b0d40551cdc91361758e6374c090e6ad835af4f4e560a74857f2f4d6e82",
+      "en_sha256": "3be8aeb48723a409302366164e8f7dee2f45982ebc9bd78b7f3a04efcbe0b682",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_MIDDLE_FINGER].content": {
+      "pl": "Środkowy",
+      "kr_sha256": "92cdef3c5bc09f842a88991dc306d5fdcc015dcbadb3b675c19f7a3f7f6ccee5",
+      "en_sha256": "f26dd6afe3cfc0d5692438a915403e3cfad32a4c8405bc337611716949fa3281",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_MIDDLE_FINGER_CANCELED].content": {
+      "pl": "<s>Środkowy</s>",
+      "kr_sha256": "bb264b238a28ba4316fac56b1f0645c01b16e3489a4d130805055b4ab0f3abf3",
+      "en_sha256": "eff1e80774463cf4a34d1f7a0b66b85e24cf6ddc196d5adaf45a42b5efc69dd5",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_MOLAR].content": {
+      "pl": "Biuro Trzonowca",
+      "kr_sha256": "b19ac264bb14704fc198bca2d050e57f47bdb0a9e874a49ba2489f70930a7145",
+      "en_sha256": "ce1b77c8deca421b64466666d8a478e846af8a6ab1af640b720f66628741de02",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_MULTI_CRACK].content": {
+      "pl": "Biuro MultiCrack",
+      "kr_sha256": "e8960c26cf4b4ccdd1f94bcbb3f194a49cf0b571a70f3b5073a96d9ef7c0ce8d",
+      "en_sha256": "60af09b9ff3b6157ab2cf7eeccfac4818b321a2c0ba639a96e3611c945f54e5a",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_NIGHTSTILETTO].content": {
+      "pl": "Nocne Szydła",
+      "kr_sha256": "d8f0098876edec88f3490857becd9ad373315a3cc0d0a3162285d805d5baacc1",
+      "en_sha256": "ed9e9a094b0059315d18d8cf7bd7cbc4aa5beb33e7d79e143d10392457bab359",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_N_CORP].content": {
+      "pl": "Korp. N",
+      "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
+      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_N_CORP_FNATIC].content": {
+      "pl": "Fanatyk Korp. N",
+      "kr_sha256": "fa446429ac2398f3c0657c944805d9870cee0a2cd75ac648bb0243d2290ef73b",
+      "en_sha256": "a01b35c965ba58c5d9adba614ce2d998513cae890de8402acaaf2a4fd92b9f12",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_ON_THE_LAKE].content": {
+      "pl": "Istota z Jeziora",
+      "kr_sha256": "ed2e7a499fa9743576b22d03631b29f4bb7fe4f722250e04ef2160a21fbf2696",
+      "en_sha256": "f1557381fdedba77b0b3105cd1b229738ff87b20f9f3e45fa1cbe126935f8407",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_OUFI].content": {
+      "pl": "Stowarzyszenie Öufi",
+      "kr_sha256": "c919e5f0ca578a5f797a24a1d46ca77fc372ecb3ad47d918ab6fe93a22935bbe",
+      "en_sha256": "1d0ed2fba62a03045dbff4d46080026d0ec9590c3465d75d613e365fe6658b3c",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_OUFI_COOP].content": {
+      "pl": "Biuro Współpracujące - Öufi",
+      "kr_sha256": "fb4eb094d3eb5a209d3b6aa8b4ae43c98831ba830b056c1df43f62d63516d470",
+      "en_sha256": "1f510747f6d15e758316908e63283e98327c75384fd1b6be496905feb6509b98",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_PEQUOD_CREW].content": {
+      "pl": "Załoga Pequoda",
+      "kr_sha256": "03fe5ef4b91a37f7372abe92556a5ec1d74cc0c4c9cc693ae2434c4ca28f9725",
+      "en_sha256": "4f88d933e6b3b1e43c711ed8c7315c129814a6d36e0bea67288f2191c1ec665f",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_RING_FINGER].content": {
+      "pl": "Serdeczny",
+      "kr_sha256": "d6048d1f5f3d6431def3ac8e4297de287e81e3d57350b827b211c40b11c5abe5",
+      "en_sha256": "72cea89b509605b879a2f3d80837c59616467314fdfb113dcecb962e8d4f2ce2",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_RING_FINGER_DOCENT].content": {
+      "pl": "Docent",
+      "kr_sha256": "3025d334556267b1349243cf5a04482d62ab0d66cd8796a1f6698088cb2a9446",
+      "en_sha256": "de40bf149012d6e437168e0cf0d4ff241b1141b802aa82744288649460d377e4",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_RING_FINGER_FAUVISM].content": {
+      "pl": "Szkoła Fowizmu",
+      "kr_sha256": "63765f1690306397e157fea77e69c7bb1f00bae4f130ffef43cbdb79a83dc701",
+      "en_sha256": "0468747cb9dab37965fceb1e459c00c28931fe12a42c7829cd21b32880c61e43",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_RING_FINGER_MAESTRO].content": {
+      "pl": "Maestro",
+      "kr_sha256": "3de193a7c459a32746a6ad641eb8711cc2ea262da2700490e2686b64a069bf73",
+      "en_sha256": "ef2977bc573ad2d2d63971b9fb83a419335bc8677bf51e105389d63198b2493a",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_RING_FINGER_PHYSICAL].content": {
+      "pl": "Szkoła Korporyzmu",
+      "kr_sha256": "8778733118aee101f83c7e32c2cb43efca8b38ff79bea04a750ee74321f5242c",
+      "en_sha256": "df975f85e890b8dc3922668e40e44ab7600a49101ca422966755cb058de5e14e",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_RING_FINGER_POINTILLISM].content": {
+      "pl": "Szkoła Pointylizmu",
+      "kr_sha256": "7bcf5a5f6889e98cd5d82511cb3f123a80d046ec1547f2052ef005c1c4c056a5",
+      "en_sha256": "13907bbfeec753d2af02d97faeccb7b76089991786f67df8a5409b1c1da4e2dc",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_RING_FINGER_STUDENT].content": {
+      "pl": "Student",
+      "kr_sha256": "b66a4a41e30608bac29d6173581fc19fd4b9c6f83c779eb22e804599193fc819",
+      "en_sha256": "2a164d5415787b6e0e8d8d937c708a6f4c856e293022d24bde016e8549fb86b5",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_R_CORP].content": {
+      "pl": "Korp. R",
+      "kr_sha256": "7a9faf4ee45c0c085613ac9c1627f09c56a833a2907b13554f0e7e8b2e6443b6",
+      "en_sha256": "578558412493aca859fc180afeea30c174d10547fabd58da6bcf3578350d1261",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SEVEN].content": {
+      "pl": "Stowarzyszenie Seven",
+      "kr_sha256": "6acde61e08f3aa5d21bd97b55b73f367388cb465b09a16297dc42f69a577d785",
+      "en_sha256": "2ba80e4455ca4672bef2d6607b9d9e1c263b20cac5f1a5a20be02144f5e3ffc6",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SHI].content": {
+      "pl": "Stowarzyszenie Shi",
+      "kr_sha256": "cb7314458d06232fa13583c5bf52c493d966d9dd03f75025ccd5140b0abe46f1",
+      "en_sha256": "90e9a6ce361618aa93e9a4a8e0bdca2a0cdee56a0eed974fe356b42bd436c7b5",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SPIDER_HOUSE_CANCELED].content": {
+      "pl": "<s>Dom Pająków</s>",
+      "kr_sha256": "68019b0e67d0b3d2a3523761e6cd3e38a023e9255779de0a79ea280f5955baa5",
+      "en_sha256": "dfcc6213fd61b10f95dd63b09b9877dda3e42b5a45d9dac7d0e295cd2aa71292",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_THUMB_LEVEL_CAPO_FOUR].content": {
+      "pl": "Capo IIII",
+      "kr_sha256": "f20774b535f4d174aa0afc3077c5147f6085b9a3f51d61073203f355e4ff1dc4",
+      "en_sha256": "d8d04c75ef4e89649c93a244167f721f19f5c3fe30b4ef01f8e9a6a34812baa9",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_THUMB_LEVEL_SOLDATO_THREE].content": {
+      "pl": "Soldato III",
+      "kr_sha256": "4c57183345225595bc7228f7a30757af144e927293b36f2aa09c2fcb9c500286",
+      "en_sha256": "e4a9f38a1124eb622d9b2a7654f74fa140c8716567f5213a6e4881728f0d68e6",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_THUMB_LEVEL_SOLDATO_TWO].content": {
+      "pl": "Soldato II",
+      "kr_sha256": "02fabcf70b6fa4246bcb24e11139aa2bec4426fbc35498ad3fe82227a6c3e19c",
+      "en_sha256": "a5276c91e8800016362ab80bf4e2027db94216b8f8e789b4b54d8b9b01d95f18",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_TIEQIU].content": {
+      "pl": "Szajka Tieqiu",
+      "kr_sha256": "e54f11db3c5ce4c99ffb789879d6c8287d1e752b63bae3a9eba5a7c6a6fca59f",
+      "en_sha256": "f10f173d90c9451bafd3602194ce28e76f53e3273e9a49605173888dfab317ba",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_TROUBLE_SHOOTER].content": {
+      "pl": "Warsztat Różanego Klucza",
+      "kr_sha256": "664414a5300cc7d844a3d2e208fc1658d3e60521ce9f281685a23b2bdae9df41",
+      "en_sha256": "c2df34c86f6885c968803f8ce76e9ed2ffaa83ac8e6c3c79ac85d47ab26aea9d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_TRUST_AGENT].content": {
+      "pl": "Pełnomocnik Wyroczni",
+      "kr_sha256": "e5260b191fe0064c5ca0806e283e22ad95657c04c14798812434f1bf140e9e5c",
+      "en_sha256": "6d4f27a612db1a2464a8dbe918a779c94a95b136e04eb75b627b9ce247aeb11d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_T_CORP].content": {
+      "pl": "Korp. T",
+      "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_WEDGE].content": {
+      "pl": "Biuro Klina",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_WHITE_PARASITE].content": {
+      "pl": "Zbielały",
+      "kr_sha256": "4efad9903bd2bae3549463ec77b281aec2bfd6aec69b961b677f7aa3baefde38",
+      "en_sha256": "b684b798805f6fffb947e801e004b55ef0d5535263603249357319936cd74899",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_WILD_HUNT].content": {
+      "pl": "Dziki Gon",
+      "kr_sha256": "a28edcf0ecc0462f8780017ee7b17bfc2b3f79c7d66fe82275065b06c4aacc32",
+      "en_sha256": "ba587d058d24553b04fd27c79527c52d573b9493e61766a6883e2568d2aeb7d4",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_WUTHERING_HEIGHTS].content": {
+      "pl": "Wichrowe Wzgórza",
+      "kr_sha256": "4597398437997bcde19b5a979b586f1d1580f1ffdb0bb588d8910d9bd897a97b",
+      "en_sha256": "404fcf69f65aa086b9797b4b9794c128e8102b48b7ea4c5afba4a8363ecb63db",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_W_CORP].content": {
+      "pl": "Korp. W",
+      "kr_sha256": "6de0755c0dedabd159df88879f7b6b6de8bab184fdc47917bd1b085aa501b3f6",
+      "en_sha256": "837a8506767e9199657a0c3c0ac6bd4f705f51af6ca6f4a23260fa9c99d72a35",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_YURODIVY].content": {
+      "pl": "Jurodiwi",
+      "kr_sha256": "cf1fdffec79754bcab3cc6a189647bafa1fa350d28cdd66ede9a41ae0f99ea2e",
+      "en_sha256": "714971a22bbf656b48890372de13b2c66e1d554e517becea3c5b3202cc2af637",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_ZWEI].content": {
+      "pl": "Stowarzyszenie Zwei",
+      "kr_sha256": "23f4e40afc334feb3dfcaaa3024a37200d32963717337e57860af416fbc4da76",
+      "en_sha256": "daca0f796fbc87fbd4a366f24ff9ef26a66e5055904d0e0cda86ae32fb7beb19",
+      "origin": "ai"
+    }
+  }
+}

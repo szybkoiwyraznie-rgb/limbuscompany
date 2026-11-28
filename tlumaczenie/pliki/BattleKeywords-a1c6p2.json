@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=AaCfPbBa].desc": {
+      "pl": "- Odporność na Posępność +0,3\n- Pozostałe odporności -0,5\n- Przy trafieniu zadaje atakującemu 3 obrażeń Poczytalności, zyskuje 1 Licznik Zatonięcia i 1 Wzrostu Poziomu Ataku na następną turę (maks. 9 razy na turę)",
+      "kr_sha256": "36191523c827baea79de4b06a49526b78ea716ff692a97810026898df401ef02",
+      "en_sha256": "6ef421bd1d26032b0a630b6bee3a77382eafe106bf1e2ccc4c60ed262736f321",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBa].name": {
+      "pl": "Wybuchowa Posępność",
+      "kr_sha256": "6cbe00a2c3855010b814b99e0141c367e87beee395ef560353e00a5d20acc774",
+      "en_sha256": "7bce4a248a6f41676f97b72f4d845af4fac056332d8282673ccd3492c6c29e35",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBb].desc": {
+      "pl": "- Odporność na Zawiść +0,3\n- Pozostałe odporności -0,5\n- Przy trafieniu nakłada na atakującego 1 Wzrost Poziomu Ataku, 2 Siły Krwawienia i 2 Liczniki Krwawienia, a w następnej turze zyskuje 1 Spadek Poziomu Obrony (maks. 9 razy na turę)",
+      "kr_sha256": "9bdc68670b0ae0913173a004ae9e780fcd66ed86818fce36699f218126862cc8",
+      "en_sha256": "fcd42116908e1f3ff0889e3e8fe6ab065bac715ff642111660806b21c729171b",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBb].name": {
+      "pl": "Wybuchowa Zawiść",
+      "kr_sha256": "62f6a9252114d03d35f475f024bb43c0e5c6531f635afcc5acf974f48ef2c48e",
+      "en_sha256": "fcd6bfd45b03e8fd9899a0a183089bc297fcf3e57f819e42b4662b7ecb807fe6",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBc].desc": {
+      "pl": "- Odporność na Gniew +0,3\n- Pozostałe odporności -0,5\n- Przy trafieniu w następnej turze zyskuje 1 Wzrost Poziomu Ataku i 1 Spadek Poziomu Obrony (maks. 9 razy na turę)",
+      "kr_sha256": "63e64622245596eb09d00b506a29f32b6efbc30954ff6e6ac9c1ee5c11c7e690",
+      "en_sha256": "1b71642fade684605f24d11ee95484201a972050b58aead59c8ae9dd7ab942b6",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBc].name": {
+      "pl": "Wybuchowy Gniew",
+      "kr_sha256": "7a5c2e4b4568317d827835d146a2504059cf2c31da5785b2f099988351c97512",
+      "en_sha256": "6623d659d794503a9540619981aa119973d4b7def6cfcd64faf67f278a4fcdff",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBd].desc": {
+      "pl": "Na początku tury traci 5 Szybkości i zyskuje 5 Spadek Poziomu Obrony",
+      "kr_sha256": "68ae3fdce25ecdafc3a9b5b368dc1fd9e87e9546514f4538a54a64848e3000c8",
+      "en_sha256": "0b871dcbeda3b7f4d6cc88f9f717cf61992a0786d3e0012d1790ea77466c8dec",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBd].name": {
+      "pl": "Głęboka Żałoba",
+      "kr_sha256": "5d01c7b3a6a699b97db0c2406461d95aa7f130a5b7c3a94e29d89bd6340fc746",
+      "en_sha256": "24e5f72da90993c03641f240a1873c7e62e1fc9f51c7e4789bcb214433bce4e2",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBe].desc": {
+      "pl": "- Przez tę turę nie otrzymuje obrażeń, a po zakończeniu ataku nakłada 1 Kompleksu Niższości, po czym znika\n- Maks. 1",
+      "kr_sha256": "8a0f8a0ae77d051d4d1a1a918c50b2c0e1e5df90ce3383642af8a1c032a00916",
+      "en_sha256": "207de6f513d70817c4a76c97453c9d1c61c0c89a303b655d7b72ccf2e99a7dde",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBe].name": {
+      "pl": "Oznaczona Zdobycz",
+      "kr_sha256": "64ada07e4d8351f79de0be8cda51b1dcb2ade896a62dfc986880482ef955d182",
+      "en_sha256": "59f0a790849da99855559c3b2aa8f88a3561a7fd7833b62ac16e20bdf9ea4b0d",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBf].desc": {
+      "pl": "- Przy każdym trafieniu otrzymuje obrażenia HP równe (20% otrzymanych obrażeń HP x wartość)\n- Maks. wartości: 5",
+      "kr_sha256": "08631f1556519fd8219c18894bb7912e0a133a09a90346c6d8204d76f023e35d",
+      "en_sha256": "9dd0f6402de07a5d95dc77983539ecfa135520c81f186d894cfd2aa6129eac8a",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBf].name": {
+      "pl": "Kompleks Niższości",
+      "kr_sha256": "94216496e813a2a65fbf42f33040f286cdc4699747a06ad674acd0d1ad33ca3e",
+      "en_sha256": "49fc4f6fc80fc5f6c1a7474256efe2c2063121807435f79578cee9eb285c20ad",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBf].summary": {
+      "pl": "Otrzymuje obrażenia HP równe (20% otrzymanych obrażeń HP x wartość)",
+      "kr_sha256": "425c3ecdaf961f78c9931cc511d0cea1fdf695be78627710b247a2560a5d991f",
+      "en_sha256": "611b3da080bea0b2e4589ed7b0c0543129c78bf5fdeb8fcf0d7bb479afc563ec",
+      "origin": "ai"
+    }
+  }
+}

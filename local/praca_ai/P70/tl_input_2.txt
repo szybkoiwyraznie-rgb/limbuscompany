@@ -1,0 +1,131 @@
+236||(ulepszenie 1) — nazwa] 기본 공격 2|Normal Attack 2
+237||(ulepszenie 1) — opis] [WhenUse] 대상에게 [AttackDown]이 있다면, 피해량 +20%|[WhenUse] If target has [AttackDown], deal +20% damage
+238||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [HitResistDown] 1 부여|[OnSucceedAttack] Inflict 1 [HitResistDown]
+240||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [HitResistDown] 1 부여|[OnSucceedAttackHead] Inflict 1 [DefenseDown] next turn
+241||(ulepszenie 1) — nazwa] 기본 공격 3|Normal Attack 3
+242||(ulepszenie 1) — opis] [WhenUse] 대상의 [AttackDown]가 2 이상이면, 합위력 +1|[WhenUse] If target has 2+ [AttackDown], Clash Power +1
+245||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 정신력 4 회복|[OnSucceedAttack] Heal 4 SP on self
+251||(ulepszenie 1) — nazwa] 기본 공격 4|Normal Attack 4
+252||(ulepszenie 1) — opis] 부정적인 효과가 가장 많은 대상 우선 공격\n[WhenUse] 대상의 [DefenseDown] 3당 합 위력 +1 (최대 3)|Prioritizes targets with the most negative effects\n[WhenUse] Clash Power +1 for every 3 [DefenseDown] on target (max 3)
+254||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+255||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis] next turn
+256||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [AttackDown] 2당 +20% (최대 100%)|[OnSucceedAttack] Deal +20% damage for every 2 [AttackDown] on target (max 100%)
+257||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 대상의 부정적인 효과가 3개 이상이면, 이 코인 재사용 (최대 1회)|[OnSucceedAttackHead] If target has 3+ negative effects, reuse this coin (1 time max)
+259||(ulepszenie 1) — opis] 대상에게 [Vulnerable]이 있다면, 기본 위력 +1|If target has [Vulnerable], Base Power +1
+260||(ulepszenie 1) — nazwa] 잡배놈들이!|Damn Plebs...!
+264||(ulepszenie 1) — opis] [WinDuel] 기본 위력 +1|[WinDuel] Base Power +1
+265||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘|[OnSucceedAttack] If target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage
+267||(ulepszenie 1) — nazwa] 단추를 맞춰야해|Make Things Right Again
+268||(ulepszenie 1) — opis] [WinDuel] 대상의 [AttackDown]가 2 이상이면, 기본 위력 +1\n[WhenUse] 대상에게 [AttackDown]이 있다면, 피해량 +30%|[WinDuel] If target has 2+ [AttackDown], Base Power +1\n[WhenUse] If target has [AttackDown], deal +30% damage
+272||(ulepszenie 1) — nazwa] 뭉개주마|Get Crushed
+273||(ulepszenie 1) — opis] 부정적인 효과가 가장 많은 대상 우선 공격\n[WinDuel] 대상의 [AttackDown] 3당 코인 위력 +1 (최대 3)|Prioritizes targets with the most negative effects\n[WinDuel] Coin Power +1 for every 3 [AttackDown] on target (max 3)
+277||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [AttackDown] 2당 +30% (최대 120%)|[OnSucceedAttack] Deal +30% damage for every 2 [AttackDown] on target (max 120%)
+280||(ulepszenie 1) — opis] [StartBattle] 자신을 제외한 살아있는 아군 수당 보호막 체력 20을 추가로 얻음.|[StartBattle] Gain 20 additional Shield HP for every surviving other ally
+285||(ulepszenie 1) — opis] [WinDuel] 다음 턴에 [Enhancement], 피해량 증가 1 얻음|[WinDuel] Gain 1 [Enhancement] and 1 Damage Up next turn
+295||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] (대상의 [Laceration] X [Laceration] 횟수)만큼 관통 속성 피해를 입힘|[OnSucceedAttack] Inflict bonus Pierce damage equal to ([Laceration] x [Laceration] Count)
+300||Pasywka wroga [815901] — nazwa] 죄악 저항|Sin Resistance
+301||Pasywka wroga [815901] — opis] 흐트러짐 상태, 부위 파괴 상태가 아니라면, 공격 스킬 적중 시 5만큼 흐트러짐 회복|Unless this unit is Staggered or Part Broken, lower its Stagger Threshold by 5 On Hit with an Attack Skill
+303||Pasywka wroga [816001] — opis] 흐트러짐 상태, 부위 파괴 상태가 아니라면, 자신이 받는 파열 피해 50% 감소|Unless this unit is Staggered or Part Broken, take 50% less [Burst] damage
+304||Pasywka wroga [816501] — nazwa] 끊임없는 열등감|Endless Insecurity
+305||Pasywka wroga [816501] — opis] 자신의 체력이 65% 이하가 되면, 합 승리시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음\n자신의 체력이 40% 이하가 되면, 사용시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음\n한 번이라도 조건이 만족되면, 해당 조건으로 계속 발동됨.|At less than 65% HP: gain 1 [AttackUp] and 1 [TakeHpHealIncrease] on Clash Win\nAt less than 40% HP: gain 1 [AttackUp] and 1 [TakeHpHealIncrease] On Use\nThe effects linger even after the conditions no longer apply, as long as they have been activated at least once.
+306||Pasywka wroga [816501] — podsumowanie] 조건에 따라 자기 강화 긍정 효과를 얻음.|Gain conditional self-enhancing positive status effects.
+307||Pasywka wroga [816502] — nazwa] 향해지는 분노|Directed Wrath
+308||Pasywka wroga [816502] — opis] 첫 흐트러짐 해제 이후 합 승리 시 공격 스킬 적중시 피해량의 10%만큼 추가 분노 피해를 입힘.|After the first recovery from Stagger, and after Clash Win, deal 10% of the damage dealt On Hit as Wrath bonus damage.
+309||Pasywka wroga [816503] — nazwa] 포식|Predation
+310||Pasywka wroga [816503] — opis] 적 처치 시, 본체 및 부위 체력을 200 회복.\n다음 턴에 [Agility] 1, [DefenseUp] 3, [AttackUp] 2 얻음.|On Kill, heal 200 HP for Core and Part.\nGain 1 [Agility], 3 [DefenseUp], and 2 [AttackUp] next turn.
+311||Pasywka wroga [816504] — nazwa] 표식|Marked
+312||Pasywka wroga [816504] — opis] [AaCfPbBe]을 가지고 있는 대상 우선 공격|Prioritizes targets with [AaCfPbBe]
+313||Pasywka wroga [816401] — nazwa] 자기 혐오|Self-loathing
+314||Pasywka wroga [816401] — opis] 모든 스킬이 히스클리프를 타겟으로 함.\n히스클리프가 사망하면, 자신이 전투에서 승리함.|All Skills target Heathcliff.\nWins Encounter if Heathcliff dies.
+315||Pasywka wroga [816402] — nazwa] 폭발하는 감정|Explosive Emotions
+316||Pasywka wroga [816402] — opis] 폭발하는 감정 계열 효과가 있는 동안 해당 속성에 취약해지고, 그 외 속성의 내성에 강인해지며, 피격 시 특수한 효과를 얻음.|When this unit has 'Explosive' Affinity effects: become weaker to the corresponding Affinities and become stronger against every other Affinity; gain a special effect when hit.
+317||Pasywka wroga [816403] — nazwa] 깊은 상실|Deep Bereavement
+318||Pasywka wroga [816403] — opis] 폭발하는 감정 계열 효과를 획득한 턴부터 2턴이 종료되기 전에 해당 효과가 해제되면, 다음 턴부터 2턴 간 [AaCfPbBd]을 얻고, 스킬 패턴이 변경됨.\n그 때까지 해제되지 않았다면 효과가 해제되고, 다음 턴에 [AttackUp] 6, [Agility] 3을 얻음.|If this unit loses an 'Explosive' Affinity effect before the 2nd turn after obtaining that effect ends, gain [AaCfPbBd] for the next 2 turns, and gain a new Skill pattern.\nIf this effect does not expire within that time limit, lose the effect, then gain 6 [AttackUp] and 3 [Agility] next turn.
+319||Pasywka wroga [816404] — nazwa] 나오면 안되는 텍스트|NOTHING TO SEE HERE
+321||Pasywka wroga [816405] — nazwa] 악에 받친|Spite-driven
+322||Pasywka wroga [816405] — opis] 스킬 종료 시 히스클리프에게 공격을 적중시키지 못했으면 폭발하는 감정 1 감소\n턴 종료 시 흐트러짐 상태였으면, 폭발하는 감정 3 감소\n폭발하는 감정은 한 턴 당 최대 3 감소하며, 턴 종료 시 수치가 1이면, 해당 버프가 해제됨|If this unit failed to land a hit on Heathcliff by Skill End, lose 1 Explosive Emotion\nIf this unit is Staggered at Turn End, lose 3 Explosive Emotion\nThis unit does not lose more than 3 Explosive Emotion per turn; if the value of Explosive Emotion is 1 at Turn End, lose the said effect
+323||Pasywka wroga [816406] — nazwa] 복수심|Heart of Vengeance
+324||Pasywka wroga [816406] — opis] 턴 시작 시 정신력이 -45가 아니면, 정신력 15 회복.\n턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.\n턴 종료 시 패닉 상태가 해제되면, 다음 턴 시작 시 [Enhancement] 2 얻음|Turn Start: If not at -45 SP, heal 15 SP.\nTurn End: If Panicked, recover from Panic at the next Turn Start and reset SP to 0.\nTurn End: If this unit recovers from Panic, gain 2 [Enhancement] at the next Turn Start
+325||Pasywka wroga [816505] — nazwa] 내가 설 자리|A Place for Me
+326||Pasywka wroga [816505] — opis] 한 턴동안 체력이 40%이하로 떨어지지않음.\n패턴이 변경됨|HP does not drop below 40% for 1 turn.\nGains a new pattern
+327||Pasywka wroga [816407] — nazwa] 뜻 모를 분노|Fathomless Wrath
+328||Pasywka wroga [816407] — opis] 스킬 종료 시 공격을 적중시키지 못했으면 폭발하는 감정 1 감소\n턴 종료 시 흐트러짐 상태였으면, 폭발하는 감정 3 감소\n폭발하는 감정은 한 턴 당 최대 3 감소하며, 턴 종료 시 수치가 1이면, 해당 버프가 해제됨|If this unit failed to land a hit by Skill End, lose 1 Explosive Emotion\nIf this unit is Staggered at Turn End, lose 3 Explosive Emotion\nThis unit does not lose more than 3 Explosive Emotion per turn; if the value of Explosive Emotion is 1 at Turn End, lose the said effect
+329||Pasywka wroga [9012801] — nazwa] 느슨한 이행|Lenient Rule Fulfillment
+330||Pasywka wroga [9012801] — opis] 합 진행 시, 합 위력 -1|In a Clash, Clash Power -1
+331||Pasywka wroga [9012801] — podsumowanie] 합 위력 -1|Clash Power -1
+332||Pasywka wroga [9012802] — nazwa] 혈점|Bloody Point
+333||Pasywka wroga [9012802] — opis] [Laceration]이 있는 대상에게 적중 시 자신의 정신력 2 회복|Heal 2 SP on self On Hit against targets with [Laceration]
+334||Pasywka wroga [9012802] — podsumowanie] 자신의 정신력 2 회복|Heal 2 SP on self
+335||Pasywka wroga [9013001] — nazwa] 전력 보강|Reinforcements
+336||Pasywka wroga [9013001] — opis] 아군이 죽음을 맞이할 때, 다음 턴부터 슬롯이 1 증가함 (최대 2)|When an ally is defeated, gain 1 Slot next turn (max 2)
+337||Pasywka wroga [9013101] — nazwa] 본연의 멋|Natural Style
+338||Pasywka wroga [9013101] — opis] 합 진행 시, 합 위력 +1|In a Clash, Clash Power +1
+339||Pasywka wroga [9013101] — podsumowanie] 합 위력 +1|Clash Power +1
+344||Pasywka wroga [9013302] — nazwa] 예술의 한 점|A Single Point of Art
+345||Pasywka wroga [9013302] — opis] 합 승리 시, 자신을 포함한 모든 아군의 정신력 3 회복|Clash Win: all allies, including this unit, heals 3 SP
+346||Pasywka wroga [9101501] — nazwa] 육체 시술 - 육체 증폭|Body Augment - Phys. Boost
+347||Pasywka wroga [9101501] — opis] 턴 종료 시 자신의 정신력이 -10 이하일 때, 다음 턴에 [AttackUp] 3 얻음.|Turn End: if this unit's SP is at -10 or less, gain 3 [AttackUp] next turn.
+349||Pasywka wroga [9101502] — opis] 아군이 죽음을 맞이할 때, 다음 턴부터 슬롯이 1 증가함 (최대 3)|When an ally is defeated, gain 1 Slot next turn (max 3)
+350||Pasywka wroga [9101503] — nazwa] 육체 시술 - 쿨다운|Body Augment - Cooldown
+351||Pasywka wroga [9101503] — opis] 패닉 상태라면, 턴 종료 시 정신력이 0이 됨.|When in Panic, reset SP to 0 at Turn End.
+352||Pasywka wroga [9101504] — nazwa] 이럴리가 없어|This Can't Be
+353||Pasywka wroga [9101504] — opis] 죽은 아군 수당 다음 턴부터 [AttackDown] 2를 얻음.|Every time an ally is defeated, gain 2 [AttackDown] starting next turn.
+354||Pasywka wroga [9101505] — nazwa] 이번에는 이겼다...!|This Time, I Win...!
+355||Pasywka wroga [9101505] — opis] 5합 이상에서 승리할 경우, 가하는 피해량 +50%|If this unit wins after 5+ Clashes, deal +50% damage
+356||Pasywka wroga [9101604] — nazwa] 쓸모 없는 것들...|Useless Fools...
+357||Pasywka wroga [9101604] — opis] 적이 아군을 처치하면 다음 턴에 [Enhancement] 1, [Agility] 1을 얻음 (턴 당 최대 3)|If an enemy defeats an ally, gain 1 [Enhancement] and 1 [Agility] next turn (3 times per turn)
+358||Pasywka wroga [9101605] — nazwa] 가시 배트|Spiked Bat
+359||Pasywka wroga [9101605] — opis] 공격 적중 시 피해량의 50%만큼 관통 추가 피해를 줌|On Hit, inflict bonus Pierce damage equal to 50% of the damage dealt
+360||Pasywka wroga [9101601] — nazwa] 데드레빗츠 보스?|Dead Rabbits Boss?
+361||Pasywka wroga [9101601] — opis] 턴 시작 시 자신을 제외한 정신력이 가장 낮은 아군 2명에게 [Enhancement] 1 부여\n아군이 사망할 때마다 이번 전투동안 슬롯 수 + 1|Turn Start: apply 1 [Enhancement] to 2 other allies with the least SP\nFor this Encounter, gain a Slot every time an ally is defeated
+362||Wróg / część [8166] — nazwa] 마음이 찢겨진 히스클리프|Heathcliff, The Heartbroken
+363||Wróg / część [816602] — nazwa] 사슬|The Chain
+364||Wróg / część [8167] — nazwa] 와일드헌트 조세핀|Josephine of the Wild Hunt
+365||Wróg / część [8168] — nazwa] 와일드헌트 힌들리|Hindley of the Wild Hunt
+366||Wróg / część [8169] — nazwa] 와일드헌트 린튼|Linton of the Wild Hunt
+367||Wróg / część [8170] — nazwa] 와일드헌트 빼앗겨 울부짖는 힌들리|The Reaved Lamenter of the Wild Hunt
+368||Wróg / część [8171] — nazwa] 넬리|Nelly
+369||Wróg / część [8172] — nazwa] 마왕 히스클리프|Erlking Heathcliff
+371||Wróg / część [8174] — nazwa] 모든 캐서린|Every Catherine
+372||Wróg / część [8192] — nazwa] 모든 캐서린 왼손|Left Hand of Every Catherine
+373||Wróg / część [8193] — nazwa] 모든 캐서린 오른손|Right Hand of Every Catherine
+374||Wróg / część [8161] — nazwa] 분노 죄종??|Peccatulum Irae??
+375||Wróg / część [9999] — nazwa] 베르길리우스|Vergilius
+376||Wróg / część [819201] — nazwa] 왼손|Left Hand
+377||Wróg / część [819301] — nazwa] 오른손|Right Hand
+378||(ulepszenie 1) — nazwa] 찔러대기|Impaling
+379||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 6 부여, [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 6 [Combustion] and +2 [Combustion] Count
+380||(ulepszenie 1) — nazwa] 베어대기|Hewing
+381||(ulepszenie 1) — opis] [WinDuel] 대상에게 [Combustion]이 있을 때, 기본 위력 +2|[WinDuel] If target has [Combustion], Base Power +2
+382||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 8 부여|[OnSucceedAttack] Inflict 8 [Combustion]
+383||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Combustion] Count
+384||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여|[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn
+385||(ulepszenie 1) — nazwa] 분출하는 분노|Erupting Wrath
+386||(ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion] 5당, 코인 위력 +1 (최대 3)\n[WinDuel] 대상의 [Combustion]이 9이상이면, 이 스킬의 가중치 +1|[WhenUse] Coin Power +1 for every 5 [Combustion] on target (max 3)\n[WinDuel] If target has 9+ [Combustion], this Skill gains Atk Weight +1
+387||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Combustion] Count
+388||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [CrimsonTakeDamageUp] 1 부여|[OnSucceedAttackHead] Inflict 1 [CrimsonTakeDamageUp] next turn
+390||(ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion]이 5이상이면, 코인 위력 +2\n[WhenUse] 대상의 [Combustion]이 6이상이면, 이 스킬 재사용 (최대 2)|[WhenUse] If target has 5+ [Combustion], Coin Power +2\n[WhenUse] If target has 6+ [Combustion], reuse this Skill (2 times max)
+391||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDmgUp_Weak] 10 얻음|[OnSucceedAttack] Gain 10 [AttackDmgUp_Weak] next turn
+392||(ulepszenie 1) — nazwa] 상처 훑기|Brush Wounds
+393||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+394||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Laceration] 횟수 1 증가|[OnSucceedAttackHead] Inflict +1 [Laceration] Count
+396||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] [Laceration] 횟수 2 증가|[OnSucceedAttackHead] Inflict +2 [Laceration] Count
+397||(ulepszenie 1) — nazwa] 찢겨진 마음|Broken Heart
+398||(ulepszenie 1) — opis] [WinDuel] 다음 턴에 [DefenseUp] 3 얻음|[WinDuel] Gain 3 [DefenseUp] next turn
+399||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여|[OnSucceedAttack] Inflict 2 [DefenseDown] next turn
+400||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Laceration] 4 부여|[OnSucceedAttackHead] Inflict 4 [Laceration]
+402||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] [Laceration] 횟수 3 증가|[OnSucceedAttackHead] Inflict +3 [Laceration] Count
+403||(ulepszenie 1) — nazwa] 파탄, 탄식 그리고 절규|Ruination, Wailing, and Lamentation
+406||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 증가 1 얻음|[OnSucceedAttack] Gain 1 Attack Power Up next turn
+407||(ulepszenie 1) — moneta 2, efekt 2 — opis] [EnemyKill] 다음 턴에 공격 위력 증가 2 얻음|[EnemyKill] Gain 2 Attack Power Up next turn
+408||(ulepszenie 1) — nazwa] 인간의 말을 해서도 안되는거야|Undeserving of Speech
+409||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 8 이상이면, 합 위력 +1|[WhenUse] If target has 8+ [Laceration], Clash Power +1
+410||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 대상의 [Laceration]이 4이상이면, 다음 코인 피해량 +20%|[OnSucceedAttackHead] If target has 4+ [Laceration], the next Coin deals +20% damage
+411||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 부정적인 효과 수가 3개 이상이면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 3+ negative effects, reuse this coin (1 time max)
+412||(ulepszenie 1) — nazwa] 시체자루|Bodysack
+413||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 5당, 기본 위력 +1 (최대 3)\n[WhenUse] 대상의 부정적인 효과 수당 합 위력 +1 (최대 2)\n[DefeatDuel] [DefenseDown] 20 얻음\n[DefeatDuel] 해방되지 못한 서글픔 1 얻음|[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 3)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] Gain 20 [DefenseDown]\n[DefeatDuel] Gain 1 Fettered Woe
+414||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 1 부여|[OnSucceedAttack] Inflict 1 [DefenseDown]
+415||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 대상의 [Laceration]이 8이상이면, 마지막 코인 피해량 +30%|[OnSucceedAttackHead] If target has 8+ [Laceration], the last Coin deals +30% damage
+420||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 이 스킬의 모든 코인이 앞면이면, 다음 턴에 [Vulnerable] 2 부여|[OnSucceedAttack] If this Skill flips all Heads, inflict 2 [Vulnerable] next turn
+421||(ulepszenie 1) — nazwa] 미친 늑대의 광기|Lunacy of the Frenzied Wolf
+422||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 5당, 기본 위력 +1 (최대 4)\n[WhenUse] 대상의 부정적인 효과 수당 합 위력 +1 (최대 2)\n[DefeatDuel] 대상이 [AaCfPcBg]을 가지고 있다면, 다음 턴에 100만큼 흐트러짐 손상. 흐트러짐 수치가 없을 경우 0에 흐트러짐 수치를 만듦.|[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 4)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] If target has [AaCfPcBg], raise this unit's Stagger Threshold by 100 next turn. If this unit does not have a Stagger threshold, create a new Stagger threshold at 0.

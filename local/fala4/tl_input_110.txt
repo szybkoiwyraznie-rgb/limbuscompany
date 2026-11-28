@@ -1,0 +1,96 @@
+10670||PersonVoice#Voice_Rodion_Tcorp_10909.json] 되도록 색이 있는 곳에서 불러줬으면 좋겠어, 단테.\n유리창 너머가 흐릿해서 잘 보이진 않아도… 기분이 그나마 나아져서 그래.|Mind calling me over in places with color, Dante?\nI can't get a clear view of your world through this opaque window, but... it makes me feel better.
+10671||PersonVoice#Voice_Rodion_Tcorp_10909.json] 여기 T사도 윗사람 아랫사람 따지는 게 심하다니까. 한마디 할 수도 있는 거지, 쪼잔하게…\n그래도 요즘 같이 다니는 상사는 융통성이 있어서 좀 괜찮더라구. 앞으로도 이런 상사만 있으면 좋겠는데.|This place is more hierarchical than it looks. The cocky higher-ups just can't take good-faith criticism, know what I mean? What a bunch of crybabies.\nWell, my current partner and boss is a bit more flexible, though. Hope I get assigned to people like her more often.
+10672||PersonVoice#Voice_Rodion_Tcorp_10909.json] 나도 시간을 징수하지만, 상대가 규칙을 많이 위반한 고액 체납자거나 대단한 거물이면 고등급 직원이, 금기를 어기면 금기사냥꾼이 처리해.\n그러니 평소엔 불심검문을 하고… 가끔은 미등록 발명품 단속까지… 사실상 잡일 담당이나 마찬가지네.|I'm a Time Collector, but... if someone owes a lot of Time Tax, or if they're some big shot, they usually send the higher-ranking Staff after them. And if they broke a Taboo... well, they send the Taboo Hunters after them.\nSo I guess all I do are some stop-and-searches, patrols for unregistered inventions, and... yeah, I guess I'm saddled with all the busywork.
+10673||PersonVoice#Voice_Rodion_Tcorp_10909.json] 달마다 T사에선 징수직 전용 보급 시계에 시간을 넣어줘. 이걸로 체납자를 제압하거나 그럴 때 시간을 꺼내 쓸 수 있지.\n응? 당연히 부족하지~ 고등급 직원은 넉넉하게 넣어준다던데… 아직은 내 시간까지 써서 일해야지 뭐.|T Corp. gives an additional monthly time allowance to T Corp. Collector standard-issue timepieces. This is supposed to give us some extra time to use when taking down tax evaders.\nHm? Oh, it's nowhere near enough, of course. I heard that higher Class staff are given a lot more time, but... oh well. I guess it'll have to come out of my own pocket watch for now.
+10674||PersonVoice#Voice_Rodion_Tcorp_10909.json] 뭐, 너무 그렇게 보진 마. 납부할 시간세에 고작 3시간쯤 더 얹어서 징수한 거니까.\n열심히 일했는데… 내 몫의 시간 정도는 따로 챙길 수 있는 거 아냐? 이렇게라도 안 하면 우리도 시간이 부족하다구.|Hey, don't give me that look. It's simple: I'm just collecting three extra tax hours from them so I can skim a little off the top. Like, that's pocket change.\nI work hard, so I think I'm pretty justified in taking a little time for myself. C'mon, we're always running out of time too, y'know.
+10675||PersonVoice#Voice_Rodion_Zwei_10906.json] 이, 이런…|Oh, oh boy...
+10676||PersonVoice#Voice_Rodion_Zwei_10906.json] 자~ 이번 임무도 순조롭게 끝! 돌아가는 길에 맥주 한 잔 할래?|Whew~ That's another smooth-sailing mission! How about we grab a beer on the way back?
+10677||PersonVoice#Voice_Rodion_Zwei_10906.json] 완벽한 임무였어! 후후, 다음에도 저희 츠바이를 이용해주세요!|A perfect mission! Fuhu, please hire Zwei again!
+10678||PersonVoice#Voice_Rodion_Zwei_10906.json] 아… 이러면… 실적이…|Ah... but... my performance records...
+10679||PersonVoice#Voice_Rodion_Zwei_10906.json] 아… 시말서 써야하잖아… 흑흑.|Crap... Now I've got letters of explanation to write... Sniffle.
+10680||PersonVoice#Voice_Rodion_Zwei_10906.json] 제압 실시!|Subduing target!
+10681||PersonVoice#Voice_Rodion_Zwei_10906.json] 휴~ 기절했나?|Phew~ Did they get knocked out cold?
+10682||PersonVoice#Voice_Rodion_Zwei_10906.json] 위협 대상, 제거~|Threat, removed~
+10683||PersonVoice#Voice_Rodion_Zwei_10906.json] 내 등 뒤에 숨어있어!|Stay behind my back!
+10684||PersonVoice#Voice_Rodion_Zwei_10906.json] 임무 시작.|Commencing mission.
+10685||PersonVoice#Voice_Rodion_Zwei_10906.json] 이, 이런건 내 전문 분야가 아니라…|T-This isn't one of my specialties, y'know...
+10686||PersonVoice#Voice_Rodion_Zwei_10906.json] 훗, 쉽지~|Heh, that's easy~
+10687||PersonVoice#Voice_Rodion_Zwei_10906.json] 선글라스 벗고~|Sunglasses off~
+10688||PersonVoice#Voice_Rodion_Zwei_10906.json] 인정 받는 건 기분 좋은 일이지~ 음… 그것 보다는 임무수당이나 더 챙겨주면 좋겠는데~|It's good to be recognized~ Hm... Though, I'd prefer better pay for the missions~
+10689||PersonVoice#Voice_Rodion_Zwei_10906.json] 음~ 날씨 좋다. 자, 그래서 누굴 보호해야 한다고 했지?|Mm~ What nice weather. Right, so who needed my protection?
+10690||PersonVoice#Voice_Rodion_Zwei_10906.json] 아침에 일어나는 게 쉬운 건 아니지만… 그래도 날씨가 이럴 때면~ 개운하게 일어날 수 있지 않아?|It's no easy feat to wake up early in the morning... But with weather as nice as this, you just feel refreshed when you get up, yeah?
+10691||PersonVoice#Voice_Rodion_Zwei_10906.json] 어유… 이거, 선글라스 좀 벗으면 안되나? 시꺼매서 뭐가 보여야지~|Aw, geez... Can't I take these sunglasses off? I can't see a thing through this dark tint~
+10692||PersonVoice#Voice_Rodion_Zwei_10906.json] 오늘 점심은… 간단하게 도넛하고 커피로 하자고. 뭐? 물린다고? 이게 잠복임무의 정석이라고~!|For lunch... let's keep it simple with donuts and coffee. What? You're sick of 'em? Too bad, these are the staple diet of a Fixer on stakeout~!
+10693||PersonVoice#Voice_Rodion_Zwei_10906.json] 으으으~ 휴. 나 잠깐 낮잠 좀 잘게~|Hnnnngh~ Phew. Lemme take a nap for a minute~
+10694||PersonVoice#Voice_Rodion_Zwei_10906.json] 나는~ 지정보호 전담이야. 고객께서 생활에 불편함을 느끼시지 않게~ 자연스러운 방패가 되어 드릴 수 있거든.|My job~ It's to protect appointed persons. Make sure my client doesn't feel bothered at all~ I can be a natural shield like that.
+10695||PersonVoice#Voice_Rodion_Zwei_10906.json] …후후, 너무 튀지 않냐고? 후~ 나보다는 다른 친구들이 걱정인걸.|...Fuhu, you think I might stand out? Whew~ I'm more worried about the others, really.
+10696||PersonVoice#Voice_Rodion_Zwei_10906.json] 이런 잠복임무… 너무 좀이 쑤시단 말이지… 으으. 무슨 일 안생기나~?|A stealth mission like this... ugh, it's too boring... won't anything please happen?
+10697||PersonVoice#Voice_Rodion_Zwei_10906.json] 아~ 왔구나? 협회 코트를 입고 있는 모습은 익숙하지 않으려나? 뭐, 나도 이런 모습이 있다구~|Ah~ You're here? Not used to seeing me wear the Association coat? Well, I have many forms~
+10698||PersonVoice#Voice_Rodion_Zwei_10906.json] 너무 가까이 오진 마, 피 묻겠다.\n별로… 보기 좋은 모습은 아니잖아?|Don't come too close. You'll get blood on you.\nAnd that's... not a very good look, is it?
+10699||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 쯧…|Tch…
+10700||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 재료가 한 가득이군.|A basketful of ingredients.
+10701||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 이 정도면… 조기소진 걱정은 안 해도 되겠는걸.|With all these goods… I won’t have to worry about running out early.
+10702||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 내가… 재료가 될 생각은 못 했는데…|I never thought… I’d be an ingredient…
+10703||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 쳇… 괜찮아. 재료는 또 찾으면 된다.|Tch… It’s fine. Can always find ingredients elsewhere.
+10704||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 넌 무슨 맛일까?|How will you taste?
+10705||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 피는 확실히 빼는 편이 좋지.|Gotta make sure to drain all the blood.
+10706||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 이제, 쓸만해졌군.|Now, you look useful.
+10707||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 예약 주문인가?|Ordered for pick-up?
+10708||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 맛있는 경험을 기대하지.|Looking forward to a treat.
+10709||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 젠장, 태웠어.|Damn, it’s burnt.
+10710||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 음. 좋은 요리법이었군.|Mhm. That was a good recipe.
+10711||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 손맛이 뭔지 보여주지.|I’ll show you scratch cooking.
+10712||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 드디어, 여덟 명 중 한 명이… 아니야? 쯧, 그럼 관심 없어.|Finally, I’m joining the Eight— This isn’t about that? Tsk, not that interested then.
+10713||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 왔나? 파이 하나 먹고 갈래?|You here? Want a pie to snack on?
+10714||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 아.문.안.연. 영.준. 하고 있다고.|NOUN. I’m busy with the M.E.P.
+10715||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 미안하군, 오늘치 파이는 다 팔렸다. …뭐, 그 팔뚝 하나만 주면 못 만들어 줄 것도 없지만.|Sorry, pies are sold out for today. …Well, I could make you another if you lend a hand.
+10716||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 한참 손님 몰릴 때네. 재료 소진만 안 됐으면 좋겠는데…|These are peak business hours. Hope we don’t run out of ingredients…
+10717||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] …별 말 없으면 나는 간다. '8인의 셰프'가 되기 위해서는 이러고 있을 시간 없어.|…If you’ve got nothing to say, I’ll be off. No time to waste if I want to be one of the ‘Eight Chefs’.
+10718||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 멈춰. 더… 들어오지 마. 지금 제일 중요한 작업 중이니까.|Stop. Don’t… enter further. I’m in the middle of the most important step.
+10719||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 최근에 거래하던 녀석들이 전부 끊겨서 옛날같은 맛은 나지 않지만… 노력 중이다.|Though I can’t replicate the original flavor thanks to supplies being cut off from all my usual providers… I sure can try.
+10720||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 그레고르… 자꾸 셰프의 자리를 노린단 말이지… 하, 가소로워.|Gregor… He keeps eyeing the spot of head chef… Ha, what a laugh.
+10721||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 어쭙잖은 식당하곤 다름을 추구한다. 그게… 미학(味學). 예술이지.|I strive to stand out from other farcical restaurants. That… is gastronomy. It’s an art.
+10722||PersonVoice#Voice_Ryoshu_23GuCooker_10404.json] 젠장, 자꾸 눈에 밟히지 말라고. 단골을 파이로 만들어버리고 싶지 않으니까…\n…쯧, 왜 이렇게 신선해 보여?|Damn it, stop milling about before me. Don’t wanna make a pie out of my regulars…\n…Tsk, why do you have to look this fresh?
+10723||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 칫, 잠깐만 기다려라…|Tch, wait...
+10724||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 시답잖은 사냥이었어. 괜히 길어진 탓에 핏자국이 흥건해져서 아무런 아름다움이 남지 않았군… 쳇.|What a disappointing hunt. Spilled too much blood for this to be beautiful—we took too long... tsk.
+10725||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 좋아… 생동감이 살아있는 좋은 공간이 됐군. 다음 먹잇감도 이런 식이었으면 좋겠어.|Nice... Just look at how vibrant this place has become. Hope the next prey gives a good show, too.
+10726||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 아… 젠장. 즐거운… 시간이었는데.|Ah... dammit. That... was... fun.
+10727||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 도리어 사냥당한다니… 역설적인 걸 싫어하는 건 아니지만, 그다지… 유쾌하진 않군.|The hunter becomes the hunted... I don't hate a good paradox, but it is... unpleasant.
+10728||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 흑수 묘, 뜀박질 준비.|Mao branch of the Heishou Pack, ready to hop.
+10729||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 하. 아직 죽진 마라.|Hah. Don't die just yet.
+10730||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 흥, 가치 없군. 죽어라.|Hmph, worthless. Die.
+10731||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 더 처리할 먹잇감이 있나?|Any more prey I should take care of?
+10732||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 뜀박질 시간.|Time to hop.
+10733||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 이딴 일에 흑수의 시간을 허비했나?|You're wasting the Heishou Pack's time on <i>this</i>?
+10734||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 심심풀이는 되는군.|Just killing time.
+10735||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 이제야 부르나. 존명.|You're late. But your wish is my command.
+10736||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 믿던 짐승에게 목을 물어뜯긴 느낌은 어떻지? 천천히 말해봐라. 보채지 않을 테니.|How does it feel, as the teeth of a beast you once trusted sink deep into your neck? Explain it slowly, and in detail. I won't rush.
+10737||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 아직 정해진 시기가 되지 않았으니… 이 고. 담. 정도는 끝까지 태워도 되겠지.|I still have some time... to finish smoking this L.C.
+10738||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 머저리들이 바삐 움직이는 걸 보니 단잠의 시간이군. …몰랐나? 토끼는 원래 야행성이다.|Look at those idiots busily prancing about... time to sleep. ... Didn't you know? Hares are nocturnal.
+10739||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 달이 기울었다. 뜀박질할 시간인가… 훗, 기대되는군. 오늘은 또 어떤 피칠갑이 벌어질지.|The moon waxes. Time to hop into another bloodbath... heh, how exciting. I wonder what wonderful streaks of blood I'll get to admire today.
+10740||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 이 시간에 한 대 피워두지 않으면, 나중에 태울 틈이 나지 않더군.\n그림자에 제대로 절여진 짐승들을 불러들일 생각이 아니라면, 밤공기는 깨끗한 편이 좋을 테니까.|Last chance today to smoke a cig. Won't get the time later.\nIt's best to keep the night air crisp, unless we're looking to summon the beasts really drenched in shadows.
+10741||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 주군. 검은 머리 짐승은 예로부터 믿지 말라 했다. 명심하도록.|As the old saying goes, don't trust the beasts that are black of fur. Remember that, lord.
+10742||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] R사의 토끼와 비교하는 건 귀가 어두운 무지렁이들이나 하는 짓이지.\n뿌리는 같을지 몰라도, 그들과 우리는 뜯어온 풀부터가 다르다.|Only dense idiots compare us to the Rabbits of R Corp.\nWe share the same roots but have grazed on different grass.
+10743||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] …묘도 흑수도 나를 나타내는 말이 될 수 없다. 부를 때는 료슈라고 불러라, 주군.|... Neither Mao nor Heishou can represent who I am; you will address me as Ryōshū, lord.
+10744||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 예술도 모르는 재미없는 토끼 놈들이지만, 쓸데없는 말을 지껄여대지 않는 대화의 단축은 마음에 들어. 명령만 지킨다면, 내가 하는 일에 왈가왈부하는 놈이 없으니.|The hares are dullards who know nothing about art, but I do like how they don't waste their breath on irrelevant details. Besides, no one chews me out as long as I follow orders.
+10745||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 이 무기에 새겨진 문자는 단순한 장식이 아니다. Q사의 주박이 새겨진 일품이지.\n…그렇다고 내 검과 비교할 수준은 아니다. 이 검과는… 그 무엇도 비할 수 없지.|The glyphs on this weapon aren't there just for show. They're first-rate Q Corp. seals.\nBut it could never measure up to my sword. ... Nothing can.
+10746||PersonVoice#Voice_Ryoshu_Blackwater_10411.json] 흔한 일이다. 어제까지 같은 밥을 먹던 짐승이 오늘은 정적의 손에 재갈이 물려지는 것도, 오늘까지 충성을 다하던 주군이, 내일은 물어뜯을 먹잇감이 되는 것도.|A beast that shared a meal yesterday is leashed and gagged by a political foe today; the lord to whom I pledged my loyalty today becomes prey to be mauled tomorrow. But it's just another day for us.
+10747||PersonVoice#Voice_Ryoshu_Butler_10408.json] 칫…|Tch…
+10748||PersonVoice#Voice_Ryoshu_Butler_10408.json] '집안일'을 해결했으면 일찍 돌아가지. 늦게 자고 내일 오전 업무를 대충하면 전부 모. 분이다.|If the 'housekeeping' is complete... let us return shortly. Don't stay up too late. I'll S.Y.N.C if I see that our morning duties were sloppily carried out.
+10749||PersonVoice#Voice_Ryoshu_Butler_10408.json] 전투 응대는 성공적이었다. 나쁘지 않은 움직임이었어. 이제 다른 쪽 '집안일'로 돌아가지.|That was a successful combat reception. Your moves weren't half bad... Now let us return to other 'housekeeping' work.
+10750||PersonVoice#Voice_Ryoshu_Butler_10408.json] 쿨럭… 아직… 주인놈을 챙겨야… 하는데.|Cough... I have to... protect my fool of a Master...
+10751||PersonVoice#Voice_Ryoshu_Butler_10408.json] 사냥 실패다… 보완할 점이 많이 보이는군. 후, 버틀러들도 문제지만… 주인놈, 확실한 재교육이 필요하겠어.|This hunt was a failure... There is so much that must be addressed. Not only the Butlers, but also... that fool of a Master. They'll need some re-education.
+10752||PersonVoice#Voice_Ryoshu_Butler_10408.json] 전투 응대에 나선다.|Headed out for a combat reception.
+10753||PersonVoice#Voice_Ryoshu_Butler_10408.json] 눈 감을 준비하고…|Get ready to close your eyes...
+10754||PersonVoice#Voice_Ryoshu_Butler_10408.json] 즉시, 꿈을 꾸러 가도록.|Go enjoy your dream. Now.
+10755||PersonVoice#Voice_Ryoshu_Butler_10408.json] 나대지 말고 내 뒤에 서있어라, 주인놈.|Quit it with your idiotic bravado and take cover behind me, you fool of a Master.
+10756||PersonVoice#Voice_Ryoshu_Butler_10408.json] 헌팅 커틀러리, 준비 끝.|Hunting cutlery's at the ready.
+10757||PersonVoice#Voice_Ryoshu_Butler_10408.json] 뭐, 업무 범위 이상이었다. 감당해라.|Well, this was beyond my obligations anyway. Suffer the consequences of your decision.
+10758||PersonVoice#Voice_Ryoshu_Butler_10408.json] 흥, 정돈 끝.|Hmph, housekeeping complete.
+10759||PersonVoice#Voice_Ryoshu_Butler_10408.json] 주인놈 뜻에 따라, 준비 완료.|Ready, as per that foolish Master's orders.
+10760||PersonVoice#Voice_Ryoshu_Butler_10408.json] 그래, 끝을 볼 때가 왔군… 히스클리프. 네 놈은 내가 처리해야 할… '집안일'이니까.|Very well. It's about time we put an end to this, Heathcliff. Because you're... my 'housekeeping chore' to take care of.
+10761||PersonVoice#Voice_Ryoshu_Butler_10408.json] 신. 정. 그렇게 해서 버틀러라고 말할 수 있겠나? 나와, 내가 보여주지. 신속하고, 정확하게…|S.P.D. You call yourself a Butler? I'll demonstrate, so just shut up and watch. It's all about the Speed, Precision, and Decisiveness...
+10762||PersonVoice#Voice_Ryoshu_Butler_10408.json] 버틀러의 아침은 주인의 아침보다 두 시간은 일찍 찾아온다. 직접 두들겨 패서라도 일어나게 하도록.|Butlers must always start their mornings two hours before their Master does. Get them all out of bed, even if you have to beat them up.
+10763||PersonVoice#Voice_Ryoshu_Butler_10408.json] 나이프와 포크를 확실하게 갈아둘 수 있도록. 버틀러의 진짜 즐거움은 '심야 경비 임무'에 있으니까… 후훗.|Make sure that your forks and knives are well-whetted. Everything truly enjoyable about being a Butler happens during the 'night watch' missions... heh.
+10764||PersonVoice#Voice_Ryoshu_Butler_10408.json] 식사 담당은 어디서 뭘 하고 있지? 고용주들의 점심이 5분이 늦어졌다. 이게 지금 말이 되나? 네 놈들도 꿈. 밤. 모. 분 형에 처해지고 싶나?|What the hell is the Kitchen staff doing? Our employers' luncheon has been delayed by 5 minutes. This is completely unacceptable. Any more delay, and I'll S.S.Y.N.C. Is that what you want?
+10765||PersonVoice#Voice_Ryoshu_Butler_10408.json] 멍하니 있지 말고 나이프라도 갈아라. 하… 혀가 닳겠군.|Quit zoning out and whet your knives. Haah... how many times must I repeat myself?

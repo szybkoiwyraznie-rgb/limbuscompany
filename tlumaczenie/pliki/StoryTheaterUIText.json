@@ -1,0 +1,549 @@
+{
+  "entries": {
+    "dataList[id=A].content": {
+      "pl": "A",
+      "kr_sha256": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+      "en_sha256": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+      "origin": "ai"
+    },
+    "dataList[id=After].content": {
+      "pl": "Po walce",
+      "kr_sha256": "d321806293f97e15b141615a24f5bc3055c3c03eb5057d3fe3656ca98372ed5d",
+      "en_sha256": "3456956d50dee74c2f0a690e5c4ed589b88a8b6a9b3f39969c3bff336ae5121d",
+      "origin": "ai"
+    },
+    "dataList[id=B].content": {
+      "pl": "B",
+      "kr_sha256": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+      "en_sha256": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+      "origin": "ai"
+    },
+    "dataList[id=Before].content": {
+      "pl": "Przed walką",
+      "kr_sha256": "06c25de5dbc9c5cbf9fcc38b0ecc2042819f05930481b8d99fb05dc47b6d5e76",
+      "en_sha256": "1289054fb4ad8a6a72e7f8b63bd68ccf96bed21a5fbec3606604e7570c23511c",
+      "origin": "ai"
+    },
+    "dataList[id=CLOSE].content": {
+      "pl": "Zamknij",
+      "kr_sha256": "1e8c10206f5b35bd96122e14038b5afd38e326a758874332b3931d6db9b25259",
+      "en_sha256": "7d9eb7acb13e24625c404401d8e88b2350e32162455885f18276cf802f7701ed",
+      "origin": "ai"
+    },
+    "dataList[id=CV_10].content": {
+      "pl": "Kim Da-ol",
+      "kr_sha256": "11881be36e0f6ef63db934b316979db082f4fb465e9d2e2602734cf1126c16a6",
+      "en_sha256": "4373d0eafd4e21c40dfab6e6d67bb48c3ba9ca6df143965c527d9142ce6451d9",
+      "origin": "ai"
+    },
+    "dataList[id=CV_11].content": {
+      "pl": "Kim Bo-na",
+      "kr_sha256": "9b3772c4f541e4c2f617239082633786b97a47e2a97da8f0c280b0d28251697a",
+      "en_sha256": "94ae761c01b61ff099bd148beb1f35be9950be2803567fc3487129c1e1a51522",
+      "origin": "ai"
+    },
+    "dataList[id=CV_12].content": {
+      "pl": "Choi Han",
+      "kr_sha256": "cb7748650b99a598924057d026c0781ed3f77c071811b94ff47558dfaf1022bf",
+      "en_sha256": "90d3a30443c4943d04bd86d22e11eff8198277c9015096f41cd651de54536471",
+      "origin": "ai"
+    },
+    "dataList[id=CV_1].content": {
+      "pl": "Min Seung-woo",
+      "kr_sha256": "9111c0b68bf53b75607832e3174ecd05481b988857181a781ab88751b892096d",
+      "en_sha256": "41a0a235b79c393ad8c28c537d95030e66227f9454c7967f8ede2dda4e0a33c2",
+      "origin": "ai"
+    },
+    "dataList[id=CV_2].content": {
+      "pl": "Park Ji-yoon",
+      "kr_sha256": "665f83f2023cd27cd73f2c6db971af572a341dc6a1e05812676ff1a98a281ecd",
+      "en_sha256": "fbf49b0db79941163fdbb6439c7cf89e847cf9ac7b307c54bf9e39df410c6e31",
+      "origin": "ai"
+    },
+    "dataList[id=CV_3].content": {
+      "pl": "Kim Yea-lim",
+      "kr_sha256": "4ac9e55abfb796d83705c838c003565b473e475fe38dc4b82e2cf84a3075cd3e",
+      "en_sha256": "48dbccf2f73caa3e01a5308f39d6f836d79f9e7389c3af1f9e4d5e8b274f6308",
+      "origin": "ai"
+    },
+    "dataList[id=CV_4].content": {
+      "pl": "Yi Sae-ah",
+      "kr_sha256": "4af9811979d435161fc5baa2a19f79858e27fd44f312e95cd4a8286e9353ddc3",
+      "en_sha256": "7779d295c10a228ed14a915c46818bc434caedda1b24248048971777ca9c25e7",
+      "origin": "ai"
+    },
+    "dataList[id=CV_5].content": {
+      "pl": "Kwon Sung-hyuk",
+      "kr_sha256": "2edc0d9165fd12d092254435a3541fdb0d74fb00e7c4de73b1ccc53356a91c70",
+      "en_sha256": "81b154140f0a2d9155820079546ff69466976b962e010fa87d7171fa075be7f0",
+      "origin": "ai"
+    },
+    "dataList[id=CV_6].content": {
+      "pl": "Kim Sin-woo",
+      "kr_sha256": "a9767c527eaa07c7b708ec50de94dc8b362a7fe2f3dcdb1db6865c74d28f8674",
+      "en_sha256": "1e9a297e18e98f2c06e900172cce001dee96efae6db7343d516833e4a2ba5a18",
+      "origin": "ai"
+    },
+    "dataList[id=CV_7].content": {
+      "pl": "Hong Seung-hyo",
+      "kr_sha256": "fd052e58d70156a7975b466874eb942268b0a53515ad4ab6f4c948d0ddfa5e3a",
+      "en_sha256": "ce71fcfb1f2227624643eaba161a20255f263fb41aaf7d78beeb2f1aca1a3009",
+      "origin": "ai"
+    },
+    "dataList[id=CV_8].content": {
+      "pl": "Jang Ye-na",
+      "kr_sha256": "b6d386800a61fafae06ab50421e00288f2f9b27b7265294a492b68818a4e3eec",
+      "en_sha256": "e462e92e3892ce4aeae1cb69fce08ec9f3e86844680ee8c27572cab0be0fae0a",
+      "origin": "ai"
+    },
+    "dataList[id=CV_9].content": {
+      "pl": "Yoon A-young",
+      "kr_sha256": "17696a22a85e846eacdd447890ac944114d2c01626310c703b512145f0ffeea3",
+      "en_sha256": "e85163f0900e1813b177f5e9dbd9bc7c88ce6fc81662bcedc1f509c860a5be3b",
+      "origin": "ai"
+    },
+    "dataList[id=C].content": {
+      "pl": "C",
+      "kr_sha256": "6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d",
+      "en_sha256": "6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d",
+      "origin": "ai"
+    },
+    "dataList[id=ChapterTitleConfig_Arknights].content": {
+      "pl": "Arknights",
+      "kr_sha256": "7b9fd15876df1d315dcc3cbed591feeeb00e0b57f9b48c6ad79332d8aaeb1374",
+      "en_sha256": "7b9fd15876df1d315dcc3cbed591feeeb00e0b57f9b48c6ad79332d8aaeb1374",
+      "origin": "ai"
+    },
+    "dataList[id=DATA_DOWNLOAD].content": {
+      "pl": "Pobieranie danych",
+      "kr_sha256": "c1443eb53ef391cd6af6aee5bd3a147d95e490f78a584dff92cdd573aedfa351",
+      "en_sha256": "01258a9640d27d2a4d73e9dc3e30e317cff0d703db72c38064abc3596a3a780f",
+      "origin": "ai"
+    },
+    "dataList[id=DATA_DOWNLOAD_DESC].content": {
+      "pl": "Odtworzyć nagrania głosowe dialogów?\nSpowoduje to pobranie dodatkowych danych.",
+      "kr_sha256": "a9b377bd75f6d15418c29c884c501f5406db7168c015aa0263640c88c97517bd",
+      "en_sha256": "ecd9f3500d55995c1a6692abc1f2bb7098a9ac06e218c75f168ed9ec40045567",
+      "origin": "ai"
+    },
+    "dataList[id=DATA_DOWNLOAD_NO].content": {
+      "pl": "Bez głosu\n(0.00 MB)",
+      "kr_sha256": "77b68a9ce7164fb4427ecc17eb8eb585f98a76db603cca1861ab428e6a0880e5",
+      "en_sha256": "ba7a803d2d1cb7cb6cec75156fe5163eb72e7dd8e485f36e894e77c290ec573d",
+      "origin": "ai"
+    },
+    "dataList[id=DATA_DOWNLOAD_YES].content": {
+      "pl": "Z głosem\n({0} MB)",
+      "kr_sha256": "8ab6a7b207e9d14f1d1d234a2ffa99f1e4b2d5ffdc849ddd3e26786ee7c4c99e",
+      "en_sha256": "bbe6721a272ed50596ee222aa811f3a78a4c0200e2c511c7ed2172fef5d46119",
+      "origin": "ai"
+    },
+    "dataList[id=DEEP_ANALYSIS].content": {
+      "pl": "Analiza:",
+      "kr_sha256": "fd0ec6119e545b41aef9d85a351d61c907ec247f3578e48491fd922a53b6f12a",
+      "en_sha256": "37f6344911fc8aa0b810e876cc0764721496c5a024e2d738ece5cbd82b243a27",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNote_Main].content": {
+      "pl": "Nie wiem nawet, od czego zacząć.\nNic dziwnego, skoro nie pamiętam nawet, jak wiele zapomniałem.\nNa początek będę po prostu zapisywał wszystko, czego nie ma w mojej pamięci, ilekroć na to natrafię.",
+      "kr_sha256": "ee4f48d0d9ed8257e2e1750b2e4abff3dedd215f5d97d92bcf6e85270c08c476",
+      "en_sha256": "eecf1800c3eb4dd3a2ee01ad103eaa14cf5b8730296c8489c0f5374af521513c",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNote_Record].content": {
+      "pl": "Zapiski",
+      "kr_sha256": "6e8b375a38c1e33c5a5425051e00432aa4db51edbe6300eb8d5610e1214a12fb",
+      "en_sha256": "bfdd510698ef3ccbf17f2c67fc47790e1ba72894fb74fe284bbc136b47ef73e6",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNote_Time].content": {
+      "pl": "Chronologicznie",
+      "kr_sha256": "5be2fac3fcfb681776ab4cfa9af7047b40578b68415619ee3a9ed637acb15b94",
+      "en_sha256": "33b93476cf597a3330653b66a658983d892ac264b5d6029a2dc642b9b1f30870",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNote_Update].content": {
+      "pl": "Wg wpisu",
+      "kr_sha256": "047108007e08b38d964d98e796d040ff528a1bde0fc104d5b4a37bedb6d2026c",
+      "en_sha256": "c1c1009d3f37ec058070a62e22caf9ac9dae2169d452487c5c271a8bcf57a291",
+      "origin": "ai"
+    },
+    "dataList[id=DetailStoryDungeon].content": {
+      "pl": "Wewnątrz Lochu Fabularnego",
+      "kr_sha256": "20fbc294b2e4347b9210da5e2a201f2f980d10b5aa24d5cf636b898a7dcccb2c",
+      "en_sha256": "e7daaeec37a65a41d4b6d3198bed8791a49c2f2eec15eb08bfed7e67138c1026",
+      "origin": "ai"
+    },
+    "dataList[id=DetailStoryMini].content": {
+      "pl": "Miniepizody",
+      "kr_sha256": "15f02d7538f1b4dd727d4b4b663d731b505ad4b08c38e2f1d8d47f181f69faaa",
+      "en_sha256": "f8711510de484c6e1a052be7ea9fd0609e1301c6a67c4b2f6eff4821271b7151",
+      "origin": "ai"
+    },
+    "dataList[id=ENTER].content": {
+      "pl": "Wejdź",
+      "kr_sha256": "313416dc1509fceb95fd454e99c5c056b66e5a5902991d20776d35dd44e700b6",
+      "en_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+      "origin": "ai"
+    },
+    "dataList[id=EPISODE].content": {
+      "pl": "Odc. {0}",
+      "kr_sha256": "c45a953b058294a349230de13e1b9ef2a5f37b37688a5ebf5d75db40d0ed2111",
+      "en_sha256": "9fa152b2abd686c3819c16966251a00ffa28fe9cdf07c3024437847439c017f4",
+      "origin": "ai"
+    },
+    "dataList[id=EnterStoryPopupDesc].content": {
+      "pl": "Czy chcesz wejść do:\n{0}?",
+      "kr_sha256": "0587919f0e9b17d1a5b0a4fee003630922892d9a336c425d05a92b1199044b92",
+      "en_sha256": "b49bf840174d17c7c5ed460c5048f522dcd290b97e148ce9b5857bf9099e4ca5",
+      "origin": "ai"
+    },
+    "dataList[id=Inter].content": {
+      "pl": "W trakcie walki",
+      "kr_sha256": "07a0ee7f27c3ec54228ba52ac4ed312a48246de1c97b93ff84541c4429a1afa5",
+      "en_sha256": "524ef0c99f9e34f9b4fab6b2d0eb6ca59ca6b1d9d865c5c53a9bfbf699779fb6",
+      "origin": "ai"
+    },
+    "dataList[id=MAINSTORY].content": {
+      "pl": "Główna Opowieść",
+      "kr_sha256": "a8a35138aa370a3bded99d4074250d644d7e66c469def9d5d986a03b0332eb8b",
+      "en_sha256": "7dde675b1b875b20c0ae034d8890a8fc3887edddddbc0bd9984dcc2421ee44eb",
+      "origin": "ai"
+    },
+    "dataList[id=MINI].content": {
+      "pl": "MINI",
+      "kr_sha256": "8ddefb0087b1484e5e11a368d08a878a0bfb71d12b7ba893c2f754cc425a8c0e",
+      "en_sha256": "3e5d194b606489692d79e71741586af2ba0f38febaa3a331bb040c6df768b7e6",
+      "origin": "ai"
+    },
+    "dataList[id=MIRRORWOLDS].content": {
+      "pl": "Światy Lustrzane",
+      "kr_sha256": "ea9523fcbba5800423505399edd5275c2134ae543b6462d5a4ed08d4ae7be3ef",
+      "en_sha256": "060044e281cdd67f1d6a8744d4b5cb5e4ac774ec91614ea6b08346b36272ae65",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_101].content": {
+      "pl": "Ukończ etap 1-1",
+      "kr_sha256": "4ded123e1d9e8e7fed7e7a72ec8b1f7a2dfe7ca3f1014f39d6bf8a627541bcd4",
+      "en_sha256": "b6f2a8c257155e5740000936900f1bb1b06188c7aeb6226375cf829fbaeaf2cc",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_102].content": {
+      "pl": "Ukończ etap 2-1",
+      "kr_sha256": "f67aa3da3fce08c02be49983546241f89c44117491cec17d13b69a629569acd6",
+      "en_sha256": "253dc906723bdea0cf58637611147b824566f61b89ddd40427d06ffbc7958855",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_103].content": {
+      "pl": "Ukończ etap 3-1",
+      "kr_sha256": "00f008949ef7b0eab05f857cdb9f78d05d19f1c6357b035b420fc9cd7e4f0298",
+      "en_sha256": "131d94d754ffe70f93d50d9c81f2add97d12725b64eda28cf9cd6e19c00b4b2e",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_104].content": {
+      "pl": "Ukończ etap 4-1",
+      "kr_sha256": "c186979be0f1381846636ea44c7f36a31c79f868c0ef00516ef3fe7b6697052e",
+      "en_sha256": "bddc5040e5b99109ee55bd7230ef9fed38b2559aba28d361f3526f86e0da800c",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_105].content": {
+      "pl": "Ukończ etap 5-1",
+      "kr_sha256": "3041d9621f4c40fea47f07fc964cf7c680a9f68d38d08dcd81856afe0018573a",
+      "en_sha256": "d52f80513ef722cabf119842622df8c86b8b16db5bf1a97fae857d7b486f2f73",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_106].content": {
+      "pl": "Ukończ etap 6-1",
+      "kr_sha256": "de951ad68a2175a7f0a006f749503345304c15517c5258e500b1bb6e59eaa4b2",
+      "en_sha256": "269287678ce81458e0a5e71126cdcec3935cde81c72f36b0eaa249cf01477bf4",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_107].content": {
+      "pl": "Ukończ etap 7-1",
+      "kr_sha256": "9eb49a4469fb3b57907772207fc0be1ea2338bcd9fa64781aa357d920366fe55",
+      "en_sha256": "6dc2a32e2fd935d0704a35166ed421e695960f69062f141e30efafcacc067b91",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_108].content": {
+      "pl": "Ukończ etap 8-1",
+      "kr_sha256": "1813e0ed5363d883c4cf74c4fb70b44e3d433c4c71a9d02c4e18ca893adf33d7",
+      "en_sha256": "30973813e7ae2f688d9b5a06c5bb19d92cf4827d5a819cbb3019a095cf8964fc",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_109].content": {
+      "pl": "Ukończ etap 9-1",
+      "kr_sha256": "1a08ad85f4059908d178c90b34ccef39e62437a19ee95b973c4ea603d42e86ab",
+      "en_sha256": "ffe5ad0f7d6a6a4d34b00fa153433aeed7d5cb924fb95db1bb5d5393dc2492c4",
+      "origin": "ai"
+    },
+    "dataList[id=MainStoryOpenCondition_110].content": {
+      "pl": "Ukończ etap 10-1",
+      "kr_sha256": "8b4e2be1a4fe26827f42af6ba3f4b488d5ef0b2ca42a0141a0d3b6c4239c6bd4",
+      "en_sha256": "08ac19b3565697d2e04cd44feba52c77bc815fbfcc2bf73e15caa5678958490d",
+      "origin": "ai"
+    },
+    "dataList[id=NOTE_OF_DANTE].content": {
+      "pl": "Notatki Dantego",
+      "kr_sha256": "04e24960d9b309a22940848a0049594d3fcd5f1c71d4909dd031c5403accb75a",
+      "en_sha256": "f56a75ceb302512603fe1ff522f04084ab5738a710680d266b308ddffba74150"
+    },
+    "dataList[id=NeedsPersonalityButton].content": {
+      "pl": "Pokaż wymagania",
+      "kr_sha256": "25dd8ba155d91c38d36449114c494de65d0b11a097bbea4c9d1e8945bca1fc15",
+      "en_sha256": "c1372a5aa2216cca248ecd93d1aa444f6159b3fbd26398c26e64bbc0e4c48bc9",
+      "origin": "ai"
+    },
+    "dataList[id=NeedsPersonality].content": {
+      "pl": "Wymagana Tożsamość",
+      "kr_sha256": "9452b272baa11a982b62be3307f045491fc7e745912034be5bc32d534d03efa2",
+      "en_sha256": "b33603fb3b24f5b574216b72c33dab0e4bd58d81775fcffa4ca9465819c8164b",
+      "origin": "ai"
+    },
+    "dataList[id=No].content": {
+      "pl": "Anuluj",
+      "kr_sha256": "be876433993ab7ba221512b5703b32060626f390aa50d7ed464a847a34539a6c",
+      "en_sha256": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "origin": "ai"
+    },
+    "dataList[id=OPEN_CONDITION].content": {
+      "pl": "Odblokowanie:",
+      "kr_sha256": "a1433865d8e7489edd075d44f20241c732eb8571947607072c2807d1de68d129",
+      "en_sha256": "0a6aa61524da5388ed44186b23d4d1655d6ace3646b0696f8f7bbf34a375b2c9",
+      "origin": "ai"
+    },
+    "dataList[id=OTHERSTORY].content": {
+      "pl": "Opowieści Poboczne",
+      "kr_sha256": "0f485ed673fe02c4bd71d98684752cc5bec29edfdc1f3fe591b45bc2b41d60fa",
+      "en_sha256": "cb20c1aaf07ba24f5fcc223f2fbfa1d3b3863d86cbb9fef7e70ff8b64b47a4b6",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9010].content": {
+      "pl": "Ukończ etap 3.5-9",
+      "kr_sha256": "8c48d5c94fa90701c8d79eb91e8b028388d9cb4d16f2178974cc5801038d6755",
+      "en_sha256": "9a09208db0bbed14439358b71022552b6072f1700d7da0bbeb948bac81bb3302",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9011].content": {
+      "pl": "Ukończ etap 4.5-11",
+      "kr_sha256": "e7b13b6cb30ffc5cdad5506ee78814b7e246548b929a9602faff0e9ee7a0376d",
+      "en_sha256": "bea1af963b9235625c04d73ced318b045d04fbbbb515cf5ecb9a670f36cd13a9",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9012].content": {
+      "pl": "Ukończ etap 5-36",
+      "kr_sha256": "df061884daf13f002202b863dba01fa951653a34c79667cbe697f5888cacfec5",
+      "en_sha256": "da86b99472395ea4e4b2bd44eff9c627cd4765f4c69150706ecefdfde2ab663f",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9013].content": {
+      "pl": "Ukończ etap 5.5-12",
+      "kr_sha256": "be8a9f1e748342d2994c879ac72f902ea85216af67dfa192cb7a0106891dd373",
+      "en_sha256": "1e94ea42e3e634eecf157e8eaa952e4bdea1e0f75a6a81f9f3908b38fea2f3dc",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9014].content": {
+      "pl": "Ukończ etap 5.5-12",
+      "kr_sha256": "be8a9f1e748342d2994c879ac72f902ea85216af67dfa192cb7a0106891dd373",
+      "en_sha256": "1e94ea42e3e634eecf157e8eaa952e4bdea1e0f75a6a81f9f3908b38fea2f3dc",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9015].content": {
+      "pl": "Ukończ etap 5.5-24",
+      "kr_sha256": "52cc47e3753523b4503f93f9a7bd4e416158698a62910a0edbe3f14de0352003",
+      "en_sha256": "ca3f54524e5953706ebc1622b3e15a8c07a1c575c67038c73110fcc419ff2473",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9016].content": {
+      "pl": "Ukończ etap 6-48",
+      "kr_sha256": "c4112c26537f7cc5aef5195844195ec3133c75df67224abe104d5cd4942b4d2f",
+      "en_sha256": "254ee5c446b4845ecc7d8cf220f550ec97bf8ee83ace7ab7e91a7b9093639162",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9017].content": {
+      "pl": "Ukończ etap 6-48",
+      "kr_sha256": "c4112c26537f7cc5aef5195844195ec3133c75df67224abe104d5cd4942b4d2f",
+      "en_sha256": "254ee5c446b4845ecc7d8cf220f550ec97bf8ee83ace7ab7e91a7b9093639162",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9018].content": {
+      "pl": "Ukończ etap 6.5-30",
+      "kr_sha256": "2aaf72c271dc9a13d7cb6254223100cc6da91c78fb850371bd99158a2ae50574",
+      "en_sha256": "3c9eb1b0bf817d5105bf6b705b021d0a19837c616e5e3ad54c316f8136b544d2",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9019].content": {
+      "pl": "Ukończ etap 7-36",
+      "kr_sha256": "dd3c5580682b07fdc5825b7b347038b9b0869328d39b9ff48b46298204a8ee76",
+      "en_sha256": "744d24d7d1672f30e29e6ca4ce1073d2ac186224bf19184f4bee76a0e95f8cb2",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9020].content": {
+      "pl": "Ukończ etap 8-33",
+      "kr_sha256": "4f978951a7a15cf8f35ba03b630abbe70f602b0773a9e28ce7afe1d05a923c95",
+      "en_sha256": "ad475bad6911f11a71504d586b0ef47deb920be408e180a1fe8acaca4b179f5c",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9021].content": {
+      "pl": "Ukończ 8. Noc Walpurgii (Łatwy)",
+      "kr_sha256": "3a0b4e3dab0709b6b61f41f824f3ddc37d98ad470a155d8ac54038e75db54089",
+      "en_sha256": "ca44eae282edc70ddf883aac9eb8840f4d426cdccaa2f764b4079e525491d478",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9022].content": {
+      "pl": "Ukończ 10. Noc Walpurgii (Łatwy)",
+      "kr_sha256": "04f7507eb13f654dfd412fcea289c508a1b2f9926bc1b76e597e7e24f6c5130a",
+      "en_sha256": "e75ab456533cfbd2f0650e6a624c775dabea61b93a6b7d38e335c185f03deb94",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9103].content": {
+      "pl": "Ukończ etap 3.5-1",
+      "kr_sha256": "ce4848eb40b2f8de8e0816257a7d7fdcf5cdbce315967f8e91742523517df6d3",
+      "en_sha256": "8f91f15a10d681045390db4c14841c3f467a8d28e21f14e2b68b190ecf3bcfda",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9104].content": {
+      "pl": "Ukończ etap 4.5-1",
+      "kr_sha256": "7c46abade52e49f43230e3090766fb3e76467a75a280323d54cae9567ca86ae4",
+      "en_sha256": "d91c7b997aaa1f223b074e1dec2beea8d86828a38c3394550bcc5d17df0ec925",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9105].content": {
+      "pl": "Ukończ etap 5.5-1",
+      "kr_sha256": "64e1754cdacbb6bc22258d615bb953f69f4ba603c8aa29155581da30e6d03c59",
+      "en_sha256": "030fc17440f6deff0e8849550b75cb2114588c557e9f557e22b939430a1de660",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9107].content": {
+      "pl": "Ukończ etap 5.5-13",
+      "kr_sha256": "fe371d9f29581372ff66cc2c6afc46b0c42306869ce9b6b2333019fa1ee406d3",
+      "en_sha256": "100d6805cb17e5a75b45f27ca04e3f95bc55081c407f417258e75a78f7f3bff3",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9109].content": {
+      "pl": "Ukończ etap 6.5-1",
+      "kr_sha256": "86cd78f22d93d7bdaf1cf1a9ff68d407ea8e9ae76077c376472e1935e1a81b94",
+      "en_sha256": "95d1d7659b1f01c0ad1503fc99947730af121e2b1d014c751b59c6da6e43d99c",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9110].content": {
+      "pl": "Ukończ etap 6.5-16",
+      "kr_sha256": "f4b150dc50496f5d9ae2b56e99725da2f3945f22c6f4d3815976775b7fb3be4c",
+      "en_sha256": "b5ab5a5c50515da96115a3c9cb38c3c47d5d51f329f66fbbfa0dcad23e1f4361",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9114].content": {
+      "pl": "Ukończ etap 7.5-1",
+      "kr_sha256": "f1612cfa7cfe471948f1dab60874471d1f13b03c60d75f2cc71e476d995986e1",
+      "en_sha256": "75caab3f6c848def5446585fd6e36e1fcf01dcf162682b7ef185e2d27b70b42c",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9116].content": {
+      "pl": "Ukończ etap 7.5-15",
+      "kr_sha256": "44cb30b28e023487e512b81ca0e8783ac519c783800b6ca806070ad028a81b1f",
+      "en_sha256": "5f7d7522c1d1e4765ad4b2d8d8c940f263ac8f91fa0c59ed6e89c5d24593bda0",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9119].content": {
+      "pl": "Ukończ etap 8.5-1",
+      "kr_sha256": "38268ab6a1b0e771dd6e1e0ca7b70ecab0fcbf0039081004b996d40c1fc6aafe",
+      "en_sha256": "5d359e2625ecca4f004228bb17ea321381e70202ae1d89b3f4c416f7f925733a",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9120].content": {
+      "pl": "Ukończ etap LC-PC-1",
+      "kr_sha256": "3e27d30323646d74234a1bcbd8142afd9ace3e1b1480d0674a011a32184dbc15",
+      "en_sha256": "b1a0d06581eb92eed70c2812ab170a2917b20378353df30a50a47a42bc53eb05",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9125].content": {
+      "pl": "Ukończ etap 9.5-1",
+      "kr_sha256": "d112f48abf48b19e0a5cb627d02f34e7903714245b1ae7147bab5f879856ccaa",
+      "en_sha256": "c2c93c9fd2bdec95cdbf3e276a6f656d2b227b34fe1e450b98596e4379de8401",
+      "origin": "ai"
+    },
+    "dataList[id=OtherStoryOpenCondition_9127].content": {
+      "pl": "Ukończ etap 9.5-15",
+      "kr_sha256": "4f8b4243a238521642e73c83f9a30d6cabb1fc4665ee72543ef8b5dc783de9a9",
+      "en_sha256": "9143c7826eca108a33aeda2dd74853e5e92a60939d83da1ccc842341ed7c9c61",
+      "origin": "ai"
+    },
+    "dataList[id=PAGE].content": {
+      "pl": "Rozdz. {0}",
+      "kr_sha256": "b88ad0af95e008b92dc0c7ee8d72923133d5abbaf6e859303f2d024054f79583",
+      "en_sha256": "a511b2762953a249949e858ff8c39096a8b132752cea444409324385d64e6fff",
+      "origin": "ai"
+    },
+    "dataList[id=PERSONALITYSTORY].content": {
+      "pl": "Historie Tożsamości",
+      "kr_sha256": "6cf9ee33c25de9ead7b2e04028487a413f2c3e9bb9f77a33ed84c929ffad96c5",
+      "en_sha256": "64a44f377d2424e473eaf9f1da503b6aa3a71aacc00935806206db62e20088c7",
+      "origin": "ai"
+    },
+    "dataList[id=PROGRESS].content": {
+      "pl": "Postęp",
+      "kr_sha256": "f7b94e1b96db9a221703262e02359fbd3c6ef8774a240c6610e1c2b3a6a4b6b4",
+      "en_sha256": "4664827f8e89019280ba99cd889f9ea31eaeecf6fc1bb7541c4a0e546685599f",
+      "origin": "ai"
+    },
+    "dataList[id=PersoanlityStory_After].content": {
+      "pl": "(Potem)",
+      "kr_sha256": "b4561da89d7eb6613d9395f7f57ec66345b89ecbaca87ef14f85bd2ce786eac0",
+      "en_sha256": "44c73370e3836cf65a67ad1b04db96a40e0c903ffc0782ea8882d073ab98342a",
+      "origin": "ai"
+    },
+    "dataList[id=PersonalityStory_OpenCodition].content": {
+      "pl": "Odblokowanie na {0}. poz. Synchronizacji",
+      "kr_sha256": "f491bb4aac1f25650c3ea4730f49641b907438e0efca015cf82e3d3b24c16ce9",
+      "en_sha256": "ae5ecf11122d4b29e34eafd93a6f4293f9e32533bc8969752bc2392e7165c288",
+      "origin": "ai"
+    },
+    "dataList[id=PersonalityStory_OpenCodition_UnlockCode106].content": {
+      "pl": "Ukończ Rozdział 6",
+      "kr_sha256": "8edd0bfcaafc048251054378348a3d0870b238ce7ffd30b76e52a9a045d15a91",
+      "en_sha256": "f73bdec56f427d98bb3f377392889a4bae2f504db60d562876d4a01aa44ac4c5",
+      "origin": "ai"
+    },
+    "dataList[id=SECURITY_MATERIAL].content": {
+      "pl": "Akta Poufne",
+      "kr_sha256": "a331cec23f88b97906db81ca187d5bffeb1d330c064c5573614d7856864deb2d",
+      "en_sha256": "68be8150ec0abaa7015abaf980ac9ea66d40fdf8d4fbb5c8e0e0697ff27528a2",
+      "origin": "ai"
+    },
+    "dataList[id=SPEECH].content": {
+      "pl": "Kwestie",
+      "kr_sha256": "52bbdc0aa80e3588189439864b87bf083379e1336ed1646c6c78a671ab3e31f4",
+      "en_sha256": "a14bac75fafd623ab8af9545c764f1029034ed05927fa2adae9e4f6f000ea6bf",
+      "origin": "ai"
+    },
+    "dataList[id=STORY].content": {
+      "pl": "Fabuła",
+      "kr_sha256": "69ec5575f841092b16852c7194633fee1b423dea01790887b6605211e5d7a409",
+      "en_sha256": "e9e509dcd358f8eb150d15470ce48970d0b05c4cf9207c6d90ef063152d718fc",
+      "origin": "ai"
+    },
+    "dataList[id=gacksung].content": {
+      "pl": "Synchronizacja",
+      "kr_sha256": "fe9b2d87551c1dce7451ef1aa9309fea62834cf477c76d11acd3be1fe2a92dd1",
+      "en_sha256": "6ba9ca0217012cc107a466c39ddbeb5d3f210cc8da43b52d8db78f344359448b",
+      "origin": "ai"
+    },
+    "dataList[id=personality_voice_section_after_clear_chapter_format].content": {
+      "pl": "Po\nRozdz. {0}",
+      "kr_sha256": "541b9ed425d73e4037f19fd8e31591ecb66a39b46ed70f6c2f4b99d9e7327ec4",
+      "en_sha256": "314eeb89f14d2aa4e9537863b33cabb2cb86d261f7f9b6674f1566e25f74c53c",
+      "origin": "ai"
+    },
+    "dataList[id=personality_voice_section_before_clear_chapter_format].content": {
+      "pl": "Przed\nRozdz. {0}",
+      "kr_sha256": "e896c5c829266e9fbed4da232b688b7374eb5996b5c729edaf4573fa4ada558c",
+      "en_sha256": "77eae6f74bdf62e684f1a8ca14b50a917671cd332a7ccc839f104328b8b0fb3f",
+      "origin": "ai"
+    },
+    "dataList[id=theStoryOf].content": {
+      "pl": "— historia",
+      "kr_sha256": "97260bc96f9271ee0a0f1af2e41caa09aba0ec3ae23893bc649117c5f8e140c3",
+      "en_sha256": "e58e6f63f2e0fb8deaac95c2e395a12a1752038563c4e39633e038a4c87fa495",
+      "origin": "ai"
+    }
+  }
+}

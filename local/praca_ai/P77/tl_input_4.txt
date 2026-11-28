@@ -1,0 +1,131 @@
+699||(ulepszenie 1) — nazwa] 나는... 이 행진의... 왕자이다...!|I Am... The Prince... of the Parade...!
+700||(ulepszenie 1) — opis] [CantDuel]\n[WhenUse] 경혈[TabExplain]식 글레이브의 회복 효과가 2배로 적용됨\n[WhenUse] 정신력이 0이 됨\n[EndSkill] [KeptBlood] 10 얻음\n이번 턴동안 흐트러짐 상태가 되지 않고 이 스킬 사용 후 턴 종료함.|[CantDuel]\n[WhenUse] Double the amount healed by Hardblood[TabExplain] Glaive\n[WhenUse] Reset SP to 0\n[EndSkill] Gain 10 [KeptBlood]\nDoes not get Staggered this turn; ends turn after using this Skill.
+701||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count
+705||(ulepszenie 1) — nazwa] 절대... 돌아가지 않아...!|I'm... Never... Going Back...!
+706||(ulepszenie 1) — opis] [WhenUse] 메인 타겟의 [Laceration] 5당, 합 위력 +1 (최대 3)\n[WhenUse] 메인 타겟의 [Laceration] 횟수 4 이상이면, 코인 위력 +1\n[WhenUse] 메인 타겟의 [Laceration] 횟수당, 피해량 +5% (최대 20%)\n[WhenUse] 경혈[TabExplain]식 글레이브의 회복 효과가 2배로 적용됨\n[EndSkill] [KeptBlood] 10 얻음|[WhenUse] Clash Power +1 for every 5 [Laceration] on the main target (max 3)\n[WhenUse] If the main target has 4+ [Laceration], Coin Power +1\n[WhenUse] Deal +5% damage for every [Laceration] on the main target (max 20%)\n[WhenUse] Double the amount healed by Hardblood[TabExplain] Glaive\n[EndSkill] Gain 10 [KeptBlood]
+707||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count
+711||(ulepszenie 1) — nazwa] 경화된 팔|Coagulated Arm
+713||(ulepszenie 1) — nazwa] 경혈식 강화 찌르기|Hardblood Jag
+716||(ulepszenie 1) — nazwa] 혈액 수집|Collecting Blood
+717||(ulepszenie 1) — opis] 대상의 [Laceration]이 10 이상이면, 피해량 +20%|If target has 10+ [Laceration], deal +20% damage
+720||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)|[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)
+721||(ulepszenie 1) — moneta 3, efekt 1 — podsumowanie] [OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복|[OnSucceedAttack] Absorb [Laceration] on target to heal
+722||(ulepszenie 1) — nazwa] 반격|Counter
+723||(ulepszenie 1) — opis] [WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)|[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)
+727||(ulepszenie 1) — nazwa] 경혈식 강화 베기|Hardblood Slice
+742||(ulepszenie 1) — nazwa] 경혈식 강화 타격|Hardblood Strike
+754||(ulepszenie 1) — nazwa] 절단|Rip
+755||(ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 2 증가|[WhenUse] Gain +2 [Charge] Count
+756||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Charge] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Charge] Count
+758||(ulepszenie 1) — nazwa] 찍어내리기|Stab Down
+759||(ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 5 증가|[WhenUse] Gain +5 [Charge] Count
+764||(ulepszenie 1) — nazwa] 경혈식 무기 강화|Hardblood Weapon
+765||(ulepszenie 1) — opis] [WhenUse] 보유한 [Charge] 횟수를 전부 소모하고, 최대 체력의 2 x (15 - 소모한 [Charge] 횟수)% 만큼 체력을 소모하여 코인 위력 +2|[WhenUse] Consume all [Charge] Count on self and consume 2(15 - [Charge] Count consumed)% HP to gain Coin Power +2
+766||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+767||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 6 부여|[OnSucceedAttack] Inflict 6 [DefenseDown]
+770||(ulepszenie 1) — nazwa] 가드|Guard
+772||(ulepszenie 1) — nazwa] 찌르기|Thrust
+776||(ulepszenie 1) — nazwa] 베어가르기|Cleave
+785||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable]
+788||(ulepszenie 1) — nazwa] 회피|Evade
+790||(ulepszenie 1) — nazwa] 창 휘두르기|Spear Swing
+795||(ulepszenie 1) — nazwa] 상처 헤집기|Tear Up Wound
+798||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여|[OnSucceedAttack] Inflict 1 [Laceration]
+807||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [AttackDown] 3 부여.|[OnSucceedAttack] Inflict 3 [AttackDown]
+812||(ulepszenie 1) — nazwa] 의체 가동|Activate Prosthesis
+813||(ulepszenie 1) — opis] [WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 [AttackUp] 3을 얻음|[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain 3 [AttackUp]
+815||(ulepszenie 1) — nazwa] 작살 표식|Harpoon Mark
+816||(ulepszenie 1) — opis] [StartBattle] 자신의 [Charge] 횟수가 5 미만이면, 자신의 [Charge] 횟수 5, [Laceration] 횟수 3 증가하고, [Vulnerable] 1을 얻음\n[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 [AttackUp] 3을 얻음|[StartBattle] At 5- [Charge] Count, gain 5 [Charge] Count, 3 [Laceration] Count, and 1 [Vulnerable]\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain 3 [AttackUp]
+820||(ulepszenie 1) — nazwa] 경혈식 강화 작살|Hardblood Harpoon
+821||(ulepszenie 1) — opis] [WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 10 증가|[WhenUse] Consume 10% HP on self to gain +10 [Charge] Count
+823||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 6 부여.|[OnSucceedAttack] Inflict 6 [Laceration]
+824||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가.|[OnSucceedAttack] Inflict +2 [Laceration] Count.
+825||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis]
+829||(ulepszenie 1) — opis] [WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 5 증가|[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain +5 [Charge] Count
+832||(ulepszenie 1) — nazwa] 경혈식 혈액 역류|Hardblood Reflux
+840||(ulepszenie 1) — nazwa] 생체 에너지 전환식 충전|Bioenergy Conversion Charge
+841||(ulepszenie 1) — opis] [WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 15 증가|[WhenUse] Consume 10% HP on self to gain +15 [Charge] Count
+846||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [AttackDown] 2 부여|[OnSucceedAttack] Inflict 2 [AttackDown]
+849||(ulepszenie 1) — nazwa] 경혈식 혈액 이전|Hardblood Transfusion
+854||(ulepszenie 1) — nazwa] 생체 에너지 전환식 재충전|Bioenergy Conversion Recharge
+857||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+863||Pasywka wroga [835001] — nazwa] 머금은 피|Stored Blood
+864||Pasywka wroga [835001] — opis] 턴 종료 시 [KeptBlood] 수치에 따라\n- 5 이하라면, 매 턴마다 (6 - 수치)만큼 다음 턴에 [Binding] 1, [Vulnerable] 1, [AttackDown] 1씩 얻음\n- 5 초과라면, 매 턴마다 (수치 - 5)만큼 다음 턴에 [AttackUp] 2, [DefenseUp] 2씩 얻음|At Turn End, depending on the [KeptBlood] Stack on self:\n- At 5 or fewer Stack: gain 1 [Binding], 1 [Vulnerable], and 1 [AttackDown] next turn for every (6 - Stack)\n- At more than 5 Stack: gain 2 [AttackUp] and 2 [DefenseUp] next turn for every (Stack - 5)
+865||Pasywka wroga [835002] — nazwa] 피가 떨어져서는 안 돼|Must Retain Blood
+866||Pasywka wroga [835002] — opis] [KeptBlood]가 처음으로 0이 되었을 때 패턴 변경\n나는... 이 행진의... 왕자이다...!를 사용할 때, 속도가 10으로 고정됨|Gains a new pattern when [KeptBlood] reaches 0 for the first time\nFix this unit's speed to 10 when using the Skill 'I Am... The Prince... of the Parade...!'
+867||Pasywka wroga [835003] — nazwa] 왕자의 발악|The Prince's Frenzy
+868||Pasywka wroga [835003] — opis] 현재 체력이 최대 체력의 30%가 되었을 때, [BloodyCrave]를 얻음|When this unit reaches 30% HP, gain [BloodyCrave]
+869||Pasywka wroga [835004] — nazwa] 경혈식 글레이브|Hardblood Glaive
+870||Pasywka wroga [835004] — opis] [Laceration] 위력과 횟수의 합이 가장 높은 대상 우선 공격\n공격 적중시 대상에게 [Laceration]이 있으면, 최대 체력의 2%만큼 체력 회복|Prioritizes targets with the highest sum of [Laceration] Potency and Count\nOn Hit, if the target has [Laceration], heal 2% HP
+871||Pasywka wroga [835005] — nazwa] 혈식 - 경화|Sanguivore - Coagulation
+872||Pasywka wroga [835005] — opis] 자신에게 [Laceration]이 있을 때,\n- [Laceration] 5당 공격 레벨 증가 1, 방어 레벨 증가 1을 얻음 (최대 10)\n- [Laceration] 10당 합 위력 증가 1을 얻음 (최대 5)\n- 자신이 받는 [Laceration] 피해 50% 감소 (소수점 버림)|When this unit has [Laceration]:\n- Gain 1 Offense Level Up and 1 Defense Level Up for every 5 [Laceration] (max 10)\n- Gain 1 Clash Power Up for every 10 [Laceration] (max 5)\n- Damage taken from [Laceration] -50% (rounded down)
+873||Pasywka wroga [9014501] — nazwa] 혈액 경화|Blood Coagulation
+874||Pasywka wroga [9014501] — opis] 자신이 피격당할 때마다 [Laceration] 횟수 1 을 얻음\n턴 종료 시, 자신의 [Laceration] 횟수를 3 소모하여 [HardenedBlood] 1 얻음|Gain +1 [Laceration] Count every time this unit is hit\nTurn End: consume 3 [Laceration] Count on self to gain 1 [HardenedBlood]
+875||Pasywka wroga [9014502] — nazwa] 피의 갈증|Thirst for Blood
+876||Pasywka wroga [9014502] — opis] [Laceration]이 부여된 대상을 우선적으로 공격\n턴 종료 시 이번 턴에 피해를 주지 못한 경우, 다음 턴에 [Vulnerable] 2, [AttackUp] 2를 얻음|Prioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 [AttackUp] next turn
+877||Pasywka wroga [9014503] — nazwa] 흡혈|Bloodsucking
+878||Pasywka wroga [9014503] — opis] 자신이 받는 [Laceration] 피해 10% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 10%만큼 체력 회복|Damage taken from [Laceration] -10% (rounded down)\nOn Hit, if the target has [Laceration], heal 10% of the damage dealt
+879||Pasywka wroga [9014801] — nazwa] 억센 흡혈|Rough Bloodsucking
+880||Pasywka wroga [9014801] — opis] 자신이 받는 [Laceration] 피해 20% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복|Damage taken from [Laceration] -20% (rounded down)\nOn Hit, if the target has [Laceration], heal 15% of the damage dealt
+881||Pasywka wroga [9014802] — nazwa] 누전|Power Leakage
+882||Pasywka wroga [9014802] — opis] 자신이 피격당할 때마다 공격자가 [Charge]을 얻는 스킬을 사용했으면, [Charge] 횟수 1을 공격자에게 옮긴다. \n(스킬 당 1회, 피격자가 [Charge]이 없으면 발동하지 않음)|Every time this unit is hit, if the attacker used a Skill that gains [Charge], the attacker steals 1 [Charge] Count from this unit.\n(Once per Skill. Does not activate if this unit does not have [Charge])
+883||Pasywka wroga [9015101] — nazwa] 피를 뇌로 보내기|Blood to Brain
+884||Pasywka wroga [9015101] — opis] 자신이 받는 [Laceration] 피해 30% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복|Damage taken from [Laceration] -30% (rounded down)\nOn Hit, if the target has [Laceration], heal 15% of the damage dealt
+885||Pasywka wroga [9015102] — nazwa] 의체 모델 - L37|Prosthesis Model - L37
+886||Pasywka wroga [9015102] — opis] 턴 시작 시 [Charge] 횟수가 5 미만이면 자신에게 [Reduction] 1 부여\n턴 시작 시 [Charge] 횟수가 5 이상이면 [ParryingResultUp] 2 얻음|Turn Start: At less than 5 [Charge] Count, gain 1 [Reduction]\nTurn Start: At 5+ [Charge] Count, gain 2 [ParryingResultUp]
+887||Pasywka wroga [9015201] — nazwa] 어린 권속|A Young Kindred
+888||Pasywka wroga [9015201] — opis] 자신이 받는 [Laceration] 피해 30% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 25%만큼 체력 회복|Damage taken from [Laceration] -30% (rounded down)\nOn Hit, if the target has [Laceration], heal 25% of the damage dealt
+889||Pasywka wroga [9014803] — nazwa] 끈질김|Tenacious
+890||Pasywka wroga [9014803] — opis] 자신의 스킬로 인해 받는 피해로 체력이 1 미만으로 감소하지 않음|Self-inflicted damage due to this unit's Skills does not reduce this unit's HP under 1
+891||Pasywka wroga [834801] — nazwa] 터진 피주머니|Burst Bloodbag
+892||Pasywka wroga [834801] — opis] 전투 시작시 체력이 전체 체력의 절반인 상태로 전투함|Combat Start: starts the Encounter only with half of max HP
+893||Pasywka wroga [834802] — nazwa] 제 7의 권속|The Seventh Kindred
+894||Pasywka wroga [834802] — opis] 체력 1이 된 아군 수에 따라, 슬롯 +1 (최대 2회)|Gain +1 Slot for every ally at 1 HP (2 times max)
+896||(ulepszenie 1) — opis] [WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 9 증가|[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% damage\n[WhenUse] At less than 5 [Charge] Count, lose 10% HP and gain +9 [Charge] Count
+908||(ulepszenie 1) — opis] [WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 15 증가\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Consume 10% HP on self to gain +15 [Charge] Count\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+913||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 6 부여|[UnBrokenCoinOnSucceedAttack] Inflict 6 [Laceration]
+915||(ulepszenie 1) — moneta 2, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [AttackDown] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [AttackDown]
+927||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Vulnerable] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable]
+930||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가.|[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count
+933||(ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가.|[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count
+936||(ulepszenie 1) — opis] [StartBattle] [Laceration]을 가진 대상만큼 가중치 증가 (최대 5)\n[WhenUse] 메인 타겟의 [Laceration]이 4 이상이면, 기본 위력 +1\n[WhenUse] 메인 타겟의 [Laceration] 횟수가 3 이상이면, 코인 위력 +1\n[DefeatDuel] [KeptBlood] 1 감소|[StartBattle] Gain Atk Weight equal to the number of targets with [Laceration] (max 5)\n[WhenUse] If the main target has 4+ [Laceration], Base Power +1\n[WhenUse] If the main target has 3+ [Laceration] Count, Coin Power +1\n[DefeatDuel] Lose 1 [KeptBlood]
+943||(ulepszenie 1) — opis] [CantDuel]\n[WhenUse] [Paralysis] 4 얻음\n[WhenUse] <noparse>경혈식 글레이브</noparse>의 회복 효과가 2배로 적용됨\n[WhenUse] 정신력이 0이 됨\n[EndSkill] [KeptBlood] 10 얻음\n이번 턴 동안 흐트러짐 상태가 되지 않고 이 스킬 사용 후 턴 종료함|[CantDuel]\n[WhenUse] Gain 4 [Paralysis]\n[WhenUse] Double Hardblood[TabExplain] Glaive's heal effect\n[WhenUse] Reset SP to 0\n[EndSkill] Gain [KeptBlood] 10\nDoes not get Staggered this turn; ends turn after using this Skill.
+949||(ulepszenie 1) — opis] [WhenUse] 메인 타겟의 [Laceration] 5당, 합 위력 +1 (최대 3)\n[WhenUse] 메인 타겟의 [Laceration] 횟수 4 이상이면, 코인 위력 +1\n[WhenUse] 메인 타겟의 [Laceration] 횟수당, 피해량 +5% (최대 20%)\n[WinDuel] <noparse>경혈식 글레이브</noparse>의 회복 효과가 2배로 적용됨\n[DefeatDuel] <noparse>경혈식 글레이브</noparse>의 회복 효과가 발동하지 않음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] [KeptBlood] 10 얻음|[WhenUse] Clash Power +1 for every 5 [Laceration] on the main target (max 3)\n[WhenUse] At 4+ [Laceration] Count on the main target, Coin Power +1\n[WhenUse] Deal +5% damage for every [Laceration] Count on the main target (max 20%)\n[WinDuel] Double Hardblood[TabExplain] Glaive's heal effect\n[DefeatDuel] Hardblood[TabExplain] Glaive's heal effect does not activate\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Gain [KeptBlood] 10
+954||(ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count
+955||Pasywka wroga [123806] — nazwa] 라만차랜드의 악몽|Nightmare of La Manchaland
+956||Pasywka wroga [123806] — opis] 적 중 라만차랜드 소속 혈귀가 있으면, 아래 효과 얻음\n- 라만차랜드 소속 혈귀와 합 진행 시, 합 위력 4 감소\n- 라만차랜드 소속 혈귀에게 공격 시, 정신력 5 감소 (스킬당 최대 1회. 턴당 최대 2회)\n- 라만차랜드 소속 혈귀에게 스킬로 가하는 피해량 20% 감소|If there are La Manchaland Bloodfiends among the enemies, gain the following effects:\n- In a Clash against La Manchaland Bloodfiends, lose 4 Clash Power\n- When attacking La Manchaland Bloodfiends, lose 5 SP (once per Skill; 2 times per turn)\n- Deal -20% Skill damage against La Manchaland Bloodfiends
+958||Pasywka wroga [123801] — opis] 턴 종료 시 [KeptBlood] 수치에 따라\n- 다음 턴에 1 당 [Laceration] 2, [Laceration] 횟수 1 얻음\n- 5 이하라면, 매 턴마다 (6 - 수치)만큼 다음 턴에 [Binding] 1, [Vulnerable] 1, [AttackDown] 1씩 얻고 정신력 5씩 감소 (이 효과로 인하여 정신력이 -20 미만으로 내려가지 않음)\n- 5 초과라면, 매 턴마다 (수치 - 5)만큼 다음 턴에 [AttackUp] 1, [DefenseUp] 1씩 얻고 정신력 8씩 회복 (이 효과로 인하여 정신력이 30 초과로 올라가지 않음)|At Turn End, depending on the [KeptBlood] Stack on self:\n- Inflict +2 [Laceration] and +1 [Laceration] Count on self for every Stack\n- At 5 or fewer Stack: gain 1 [Binding], 1 [Vulnerable], 1 [AttackDown] and lose 5 SP next turn for every (6 - Stack) (this effect cannot reduce this unit's SP below -20)\n- At more than 5 Stack: gain 1 [AttackUp], 1 [DefenseUp], and heal 8 SP next turn for every (Stack - 5) (this effect cannot increase this unit's SP higher than 30)
+960||Pasywka wroga [123805] — opis] 등장 시 정신력 30 회복\n턴 시작 시 자신에게 [Laceration]이 있을 때,\n- [Laceration] 5 당 [AttackUp] 1, [DefenseUp] 1을 얻음 (최대 5)\n- [Laceration] 10 당 [ParryingResultUp] 1을 얻음 (최대 2)\n자신이 받는 [Laceration] 피해 50% 감소 (소수점 버림)|Upon entry, heal 30 SP\nTurn Start: if this unit has [Laceration],\n- Gain 1 [AttackUp] and 1 [DefenseUp] for every 5 [Laceration] (max 5)\n- Gain 1 [ParryingResultUp] for every 10 [Laceration] (max 2)\nTake -50% [Laceration] damage (rounded down)
+962||Pasywka wroga [130502] — opis] 등장 시 정신력 20 회복\n턴 시작 시 [Charge] 횟수 1당, 정신력 1 회복 (최대 15)\n턴 시작 시 [Charge] 횟수가 5 미만이면 자신에게 [Reduction] 1 부여\n턴 시작 시 [Charge] 횟수가 5 이상이면 [ParryingResultUp] 2 얻음\n턴 시작 시 [Charge] 횟수가 10 이상이면 [PlusCoinValueUp] 1 얻음\n턴 시작 시 [Charge] 횟수가 15 이상이면 기본 공격 스킬의 피해량이 (자신의 [Charge] 횟수 x 2)%만큼 추가로 증가|Upon entry, heal 20 SP\nTurn Start: For every 1 [Charge] Count, heal 1 SP (max 15)\nTurn Start: At less than 5 [Charge] Count, inflict 1 [Reduction] on self\nTurn Start: At 5+ [Charge] Count, gain 2 [ParryingResultUp]\nTurn Start: At 10+ [Charge] Count, gain 1 [PlusCoinValueUp]\nTurn Start: At 15+ [Charge] Count, deal +([Charge] Count on self x 2)% damage with Base Attack Skills
+963||Pasywka wroga [814201] — nazwa] 대결|Dueling
+964||Pasywka wroga [814201] — opis] 체력이 50% 이하가 되면 특정 1명을 지정하는 특수 스킬 사용\n해당 턴 부터 다음 2턴 동안 흐트러짐, 패닉 상태가 되지 않음.\n대결 효과를 보유한 캐릭터가 이상이면, 동백이 공격 위력 증가 1을 얻음\n이상이 대결에서 승리한 경우, 다음 턴에 모든 아군이 피해량 증가 3을 얻음.\n동백이 대결에서 승리한 경우, 정신력을 최대로 회복함.|When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Dueling', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gain 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP.
+965||Pasywka wroga [118301] — nazwa] 나는 아직 듣지 못했다.|I am yet to hear your answer.
+966||Pasywka wroga [118301] — opis] 매 턴 시작 시, 본체와 부위에 보호막 900을 얻음.\n- 편성 순서가 가장 빠른 대상에게 [Teaching]이 있으면, 수치당 300을 감소해서 얻음\n- 편성 순서가 가장 빠른 대상에게 [Teaching] 3 이상있으면, 이후 전투동안 보호막을 얻지 않음|Every Turn Start: Core and Part gain 900 Shield.\n- When the unit with the earliest Deployment order has [Teaching], lose 300 Shield per Stack\n- When the unit with the earliest Deployment order has 3+ [Teaching], this unit does not gain Shield for the rest of the Encounter
+967||Pasywka wroga [118701] — nazwa] 소녀를 지켜봐주세요…!|Watch this little girl...!
+968||Pasywka wroga [118701] — opis] 턴 시작 시 자신이 소환한 유닛이 있으면 정신력 10 회복|If there are this unit's summoned units at Turn Start, heal 10 SP
+969||Pasywka wroga [124105] — nazwa] 호표탄 장전|Tigermark Round Reload
+970||Pasywka wroga [124105] — opis] 턴 종료 시점에 체력이 90% 이하가 되었거나 2번째 턴 종료 시, [BulletPropellant]을 장전하고 다음 턴에 패턴이 변경됨\n- 흐트러짐 상태면, 흐트러짐 해제|Turn End: at 90% or less HP, or at the end of the 2nd turn, reload [BulletPropellant] and gain a new pattern next turn\n- If this unit is Staggered, recover from Stagger
+971||Pasywka wroga [124106] — nazwa] 뇌횡 [雷橫]|Lei Heng [雷橫]
+972||Pasywka wroga [124106] — opis] 턴 종료 시점에 체력이 80% 이하가 되었거나 4번째 턴 종료 시, 다음 턴에 패턴이 변경됨\n- 강력한 공격('쾌도난마')을 사용하며, 3번째 턴마다 반복함. 이 스킬을 사용하는 턴의 속도 최솟값, 최댓값 +10\n- 해당 턴 시작 시, [BattleSense] 25 얻음\n- 흐트러짐 상태면, 흐트러짐 해제|Turn End: at 80% or less HP, or at the end of the 4th turn, gain a new pattern next turn\n- Use a powerful attack ('Tanglecleaver'), repeat every 3rd turn. +10 to Min & Max Speed for turns in which this unit uses this Skill\n- At the start of that turn, gain 25 [BattleSense]\n- If this unit is Staggered, recover from Stagger
+973||Pasywka wroga [124107] — nazwa] 천퇴성 [天退星]|Tiantui Star [天退星]
+974||Pasywka wroga [124107] — opis] 턴 종료 시점에 체력이 60% 이하가 되었거나 다음 턴에 강력한 공격('쾌도난마')을 이번 전투에서 두 번째로 사용할 예정이면, 다음 턴에 패턴이 변경됨\n- 해당 턴 시작 시, [Irritation] 1 얻음\n- 해당 턴 시작 시, [BulletPropellantSpecial] 18 얻고 즉시 장전\n· [BulletPropellantSpecial]을 전부 소모할 경우, 해당 효과가 [BulletPropellant]으로 변경되고 다음 턴에 엄격한 엄지 솔다토 2명을 소환하여 [BulletPropellantSpecial]을 보급받음\n- 흐트러짐 상태면, 흐트러짐 해제|If this unit's HP dropped to 60% or below at Turn End, or if this unit is set to use a powerful attack ('Tanglecleaver') next turn for the second time this Encounter, gain a new pattern next turn\n- When that turn starts, gain 1 [Irritation]\n- When that turn starts, gain 18 [BulletPropellantSpecial] and reload immediately\n· If this unit spends all [BulletPropellantSpecial], convert the effect to [BulletPropellant] and summon 2 of "Stern Soldato of the Thumb" units next turn and have them supply this unit with [BulletPropellantSpecial]\n- When Staggered, recover from Stagger
+975||Pasywka wroga [124108] — nazwa] 소지 천퇴성 뇌횡|Lei Heng, The Pinky's Tiantui Star
+976||Pasywka wroga [124108] — opis] 턴 종료 시점에 체력이 40% 이하가 되었거나 다음 턴에 강력한 공격('쾌도난마')을 이번 전투에서 세 번째로 사용할 예정이면, 다음 턴에 패턴이 변경됨\n- 강력한 공격 '쾌도난마'가 '초절맹호살격난참'으로 변경됨. 이 스킬을 사용하는 턴의 속도 최솟값, 최댓값 +15\n- [BattleSense]이 [RestoredBattleSense]으로 변경\n- [Irritation]가 [DerivativeHugeIrritation]으로 변경\n- 흐트러짐 상태면, 흐트러짐 해제|Turn End: at 40% or less HP, or if this unit is set to use a powerful attack ('Tanglecleaver') next turn for the third time this Encounter, gain a new pattern next turn\n- Replace the powerful attack 'Tanglecleaver' with 'Savage Tigerslayer's Perfected Flurry of Blades'. +15 to Min & Max Speed for turns in which this unit uses this Skill\n- Convert [BattleSense] to [RestoredBattleSense]\n- Convert [Irritation] to [DerivativeHugeIrritation]\n- If this unit is Staggered, recover from Stagger
+977||Pasywka wroga [124112] — nazwa] 천퇴성도 오버히트|Tiantui Star's Blade - Overheat
+978||Pasywka wroga [124112] — opis] 강력한 공격('쾌도난마', '초절맹호살격난참')을 사용하였다면, 이번 전투 동안 강력한 공격을 사용한 횟수만큼 다음 턴에 [Complacency] 얻음 (최대 5)|If this unit used a powerful attack ('Tanglecleaver' or 'Savage Tigerslayer's Perfected Flurry of Blades'), gain [Complacency] next turn equal to the number of times those skills were used (max 5)
+979||Pasywka wroga [124301] — nazwa] 더는 못 먹어|I'm Stuffed
+980||Pasywka wroga [124301] — opis] [FullCharon]이 10이상 일 때\n- 턴 시작 시 강제 흐트러짐 발생(1턴 동안)\n- 턴이 종료되면 [HungryCharon], [FullCharon] 모두 제거|At 10+ [FullCharon]...\n- Turn Start: enter a forced Stagger State (for a turn)\n- Turn End: remove [HungryCharon] and [FullCharon] completely
+981||Pasywka wroga [124302] — nazwa] 부릉부릉. 화났어|Vroom-vroom. Angry now
+982||Pasywka wroga [124302] — opis] 전투 시작 시, 베르길리우스가 [HungryCharon]를 1얻음\n[HungryCharon]가 3에 도달하면 강력한 공격('부릉부릉')을 사용\n※[FullCharon]으로 발생한 흐트러짐에서는 전투 시작 시 발동하지 않음|Combat Start: Vergilius gains 1 [HungryCharon]\nAt 3 [HungryCharon], uses a devastating attack ("Vroom-Vroom")\n※ Does not activate at "Combat Start" if this unit is Staggered due to [FullCharon]
+983||Pasywka wroga [124303] — nazwa] 사탕 있어?|Got Candy?
+984||Pasywka wroga [124303] — opis] 편성 순서가 가장 빠른 인격 순서로 [GiveMeCandy]이 없는 적 1명에게 턴 시작 시 [GiveMeCandy] 1을 부여함|Turn Start: in Deployment Order, inflict 1 [GiveMeCandy] against 1 enemy without [GiveMeCandy]
+985||Pasywka wroga [124304] — nazwa] 꼬미 때려도 사탕 안나와|Kkomi's not a Piñata
+986||Pasywka wroga [124304] — opis] 꼬미를 공격한 대상에게 [GiveMeCandy] 1 부여|Inflict 1 [GiveMeCandy] to the target who attacked Kkomi
+987||Pasywka wroga [124001] — nazwa] 깨져 흩날리는 경혈|Shattering, Scattering Hardblood
+988||Pasywka wroga [124001] — opis] 적의 공격, 상태이상 피해로 사망 시 [BloodDinner] 30 증가. 스스로 제거된 경우 발동되지 않음.|When this unit is killed due to enemy attack or Status effect damage, increase [BloodDinner] by 30. Does not activate if this unit killed itself.
+989||Pasywka wroga [124002] — nazwa] 지나온 모험의 기억들|Memories of the Journeys Past
+990||Pasywka wroga [124002] — opis] 모든 아군에게 특수한 효과 부여|Apply special effect to all allies
+992||Pasywka wroga [124003] — opis] 턴 시작 시 모든 적에게 [Laceration] 3부여, [Laceration] 횟수 1 증가|Turn Start: Inflict 3 [Laceration] and +1 [Laceration] Count against all enemies
+994||Pasywka wroga [124004] — opis] 턴 종료 시 돈키호테에게  [RegainedStrength] 1 부여|Turn End: Apply 1 [RegainedStrength] on Don Quixote
+995||Pasywka wroga [131911] — nazwa] 아이언메이든 - 재세동|Iron Maiden - Defibrillation
+996||Pasywka wroga [131911] — opis] 등장 시 정신력 30 회복|Upon entry, heal 30 SP

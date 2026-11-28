@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=9010101].desc": {
+      "pl": "każdy żyjący wróg daje tej jednostce +2% szansy na wyrzucenie Orła. (maks. 95%)",
+      "kr_sha256": "6a6d2c4b21f773db13a0cc5113483fc5dedeb509f205c3ac4ba2f789c5cb2940",
+      "en_sha256": "984ab6df252f66fe318e17cd0709ee4385695df7274da26c7e2e739c137ee0ba",
+      "origin": "ai"
+    },
+    "dataList[id=9010101].name": {
+      "pl": "Fresh Human-omes!",
+      "kr_sha256": "7b5f392d99a4c77ef824f5ae49b41be2c568d6456a6fc59264ab149f47e0d7a4",
+      "en_sha256": "f4f650e235fbde808002804ea3d13de82b2caca2857caab15d07e1239c536dbc",
+      "origin": "ai"
+    },
+    "dataList[id=9010102].desc": {
+      "pl": "Koniec tury: gdy żyjących wrogów jest więcej niż żyjących sojuszników, zyskuje 1 [Agility] i 1 [Enhancement] w następnej turze.",
+      "kr_sha256": "6fe225702c599747c5b6d9782fb2c0cd200709a84197676200c1474a0e24743f",
+      "en_sha256": "e22335a6b9d4e793071bf4a5a209fefdbc10860fb6cf384a3d28204d70f5f524",
+      "origin": "ai"
+    },
+    "dataList[id=9010102].name": {
+      "pl": "Mine-omes",
+      "kr_sha256": "761ece95c109cdec9a02181ea523f9bb02b277bec99b43792760cb9b8c5de27b",
+      "en_sha256": "01305ab4db00ddfc9876082875411d62ff5ab1dd6c3367dbe3cd8642f4b8c494",
+      "origin": "ai"
+    }
+  }
+}

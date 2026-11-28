@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=Ally].content": {
+      "pl": "Sojusznicy",
+      "kr_sha256": "55c35f36a1a8c45b5fad1d77d4246d2423b4efe2288591a2150710579ebc4109",
+      "en_sha256": "15396a3938691618a9226de1747de0620ccb9bdddae9218806671a054873e30e",
+      "origin": "ai"
+    },
+    "dataList[id=ChosenPersonality].content": {
+      "pl": "Wybrana Tożsamość",
+      "kr_sha256": "713692d1c9ce84cd7b105bc5a14d3f7ccea5786e542d5f3b95d52cc6fb8e6a9f",
+      "en_sha256": "23e78ff3c2d46d44406d99dd4dabe11f89a3c9af608421565d579f3d8d314392",
+      "origin": "ai"
+    },
+    "dataList[id=EveryAlly].content": {
+      "pl": "Wszyscy sojusznicy",
+      "kr_sha256": "b1c73556826ce7fec759683a28a94627a08fc3c4422da61ef250f893c29bd244",
+      "en_sha256": "376b39e0650c31a833e1fcd8cd39c99de7b396f3184cfb0a1822ce1c6a458b00",
+      "origin": "ai"
+    },
+    "dataList[id=EveryEnemy].content": {
+      "pl": "Wszyscy wrogowie",
+      "kr_sha256": "cf40bbff1fe4b6332b2adaa575b8689e20bab9178d180231bc768639dbbe746a",
+      "en_sha256": "644c009b36e0f28e34dc9b500e83b0ff84e4ad95e1e53288c9099b7aa227f45c",
+      "origin": "ai"
+    },
+    "dataList[id=Every].content": {
+      "pl": "Wszyscy",
+      "kr_sha256": "f069e2cf4e340740784697dfca4fd920c426986e51eae70ed289d74da71f6fa2",
+      "en_sha256": "a52ace420f2175d08b1577a1bea5445e36801229c074ef9ed6c55a73401fd9c2",
+      "origin": "ai"
+    },
+    "dataList[id=HighestHpAlly].content": {
+      "pl": "Sojusznicy z najwyższym HP",
+      "kr_sha256": "da963ea479f6bc2bc5471d615fd4685a7d5cfcebe2198737a839eac939ac2b57",
+      "en_sha256": "dc83ff3826e0345d896a27711e04b1e927ca57ddbdf8c4c35a1fe28844c89512",
+      "origin": "ai"
+    },
+    "dataList[id=HighestMpAlly].content": {
+      "pl": "Sojusznicy z najwyższą Poczytalnością",
+      "kr_sha256": "5687f3dd7b15d0dd96f953754869702be47d528825e4ac6de73b1f124909510e",
+      "en_sha256": "93b756a549beadd3fe3ff51463a0ab9e7c0e427afc1454c935de480b6cbaf7a4",
+      "origin": "ai"
+    },
+    "dataList[id=LowestHpAlly].content": {
+      "pl": "Sojusznicy z najniższym HP",
+      "kr_sha256": "b4c9538d3966ee070b4735fb4647a4ca3a1c90bb1d241e21f48b9df6b171f7b0",
+      "en_sha256": "d380807f1162dddcd590ca670192fc95a0c4c40bf0f40374c381a5c84ba58590",
+      "origin": "ai"
+    },
+    "dataList[id=LowestHpRatioAlly].content": {
+      "pl": "Sojusznik z najniższym aktualnym procentem HP",
+      "kr_sha256": "97396d0b5cb4b04e3b404d0c9328cd6fe4e892473fe39a4aef8fcae3367943b7",
+      "en_sha256": "92437cea8dd687c2fd4464d4a66c284c8d7aa13e325fea8165a8787eedef95be",
+      "origin": "ai"
+    },
+    "dataList[id=LowestMpAlly].content": {
+      "pl": "Sojusznicy z najniższą Poczytalnością",
+      "kr_sha256": "c168b219aff13fd6ee6b91a77215b5e5723eb36fbd3c6a98ef195db5cd092502",
+      "en_sha256": "fdd917c0cd117a5969baacf3ccf0dbeac9d5459bb9e6fe77982fcecb3a3a23b0",
+      "origin": "ai"
+    },
+    "dataList[id=NotAffectedAlly].content": {
+      "pl": "Sojusznicy nieobjęci poprzednimi efektami",
+      "kr_sha256": "dc7a4db7a527a0357b4737c8ba723f28c1d016a663c51a93928d2228740a5add",
+      "en_sha256": "b42d737375a97736259037c86c9185ef5b9292a22c98d0d2d35c3d8b51594e32",
+      "origin": "ai"
+    },
+    "dataList[id=NotFullHpAlly].content": {
+      "pl": "Sojusznicy bez pełnego HP",
+      "kr_sha256": "77fd058354fdceff87bb1cb4bd6e803696d29ceb5425bbeee6f3a61a5f65c88c",
+      "en_sha256": "936ecbd6b83cd89da02802943da27e01ce2f4a1cf881dc5a89b5fc8b0c0e96e5",
+      "origin": "ai"
+    },
+    "dataList[id=RandomAlly].content": {
+      "pl": "Losowi sojusznicy",
+      "kr_sha256": "81f8fd1c4b7499fd6b4c3aa6bfc9bfb12e3eb417e23c88ec4dbcbc3b9f5b9e76",
+      "en_sha256": "9ec18fc6247ff3ec4277f5db369ed68a280699548922f2fd66879932f40ca554",
+      "origin": "ai"
+    }
+  }
+}

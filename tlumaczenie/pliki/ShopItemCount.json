@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=item_count_basic].content": {
+      "pl": "{1} x{0}",
+      "kr_sha256": "08957ffe3ee92ef191df65ae5c36288ca65c24ef3f7aefd0552f71b976595bd2",
+      "en_sha256": "060c5ffe4ba870a8c3794b4f51ac3874db815a6151d0f1143e79585445a8e27e",
+      "origin": "ai"
+    },
+    "dataList[id=item_count_lunacy_free].content": {
+      "pl": "Otrzymaj {0} Darmowego Szaleństwa w prezencie",
+      "kr_sha256": "5932247d44c947113d10e57738ad70d56bfec91ce6663ecf54acc702c8ba322b",
+      "en_sha256": "40b0d1c63132a2b64f28df40b90e2ebe34b298fa97af03dc93f705e67bda3617",
+      "origin": "ai"
+    },
+    "dataList[id=item_count_page].content": {
+      "pl": "{0} {1}(y)",
+      "kr_sha256": "b4722fbc132db2e04ff23bf9f20faf9569745e3b580e6bb8912bf5cf8f14954d",
+      "en_sha256": "4acc0d1d33bbbf74487ffa1e8822caa422bfc7a1157ead1befc1df3f158454f6",
+      "origin": "ai"
+    }
+  }
+}

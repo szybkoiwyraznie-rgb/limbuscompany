@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=CHAPTER_107].desc": {
+      "pl": "Z ciężkimi sercami\nwysiadamy z pociągu.\nSkrywam w sobie pewną prawdę,\nzapomnianą nawet przez tę, której dotyczy.",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "6dcff7a1a410134d05d139cc9272ece21e0a0d079bbd8473cfa7c968e98b74a4",
+      "origin": "ai"
+    },
+    "dataList[id=CHAPTER_107].title": {
+      "pl": "Koniec Snu",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "54a08f57f33ebd9ed34ae110c956464f4383b17081cb4d37bac67f0db61dcb32",
+      "origin": "ai"
+    }
+  }
+}

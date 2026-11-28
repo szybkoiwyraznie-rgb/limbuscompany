@@ -1,0 +1,238 @@
+{
+  "entries": {
+    "dataList[id=faq_account].content": {
+      "pl": "Konto",
+      "kr_sha256": "b0b3d3bc6c2762fee8cfa5bf84a116d0fc90f9a98a26ec5edffaad7d3f1f7f2b",
+      "en_sha256": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_1].content": {
+      "pl": "ID konta wyświetla się nad poziomem w dolnym interfejsie gry.",
+      "kr_sha256": "3fd2265151c2ba6d080b6c2918d2a6985b47346d484c78caaf0cf43358d37906",
+      "en_sha256": "c2cfb172d3fd28eeed1659de6be23ca588812e73e5637c7c0ff95b9d40871c00",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_2].content": {
+      "pl": "Powiązanie można wykonać w Ustawienia → zakładka Inne → sekcja Konto.\n\nJeśli używasz konta gościa, po powiązaniu zostanie ono zamienione na powiązane konto. Bez powiązania nie można przenieść konta na inne urządzenie ani odzyskać go po reinstalacji.",
+      "kr_sha256": "c275b4284ee3d57ff3ec3b0c9c72ce898743c0267ce66b25a8bf7b38b558b436",
+      "en_sha256": "f6bd011e1a3bb5ddc0f8ede20cb68ff0e8a27cc764ffbba7c418173fe7586eea",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_3].content": {
+      "pl": "Jeśli nie pamiętasz ID lub hasła powiązanego konta, skontaktuj się z obsługą klienta usługi, do której konto powiązałeś.\n\nObsługa Google: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\nObsługa Apple: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nObsługa Steam: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>\n\n※ Uwaga\nPamiętaj, że w przypadku konta gościa zmiana urządzenia, usunięcie aplikacji itp. może spowodować utratę wszystkich danych konta.",
+      "kr_sha256": "e896a60ba5f250b8f3f45e99a20c8121bb73f0face9c96779f2ec3b40d2fb90e",
+      "en_sha256": "6d870d9c92aac0b297e8cd221ba066659b9e20e5e1e406bdafad62b03e6980c6",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_4].content": {
+      "pl": "Nawet po zmianie urządzenia albo usunięciu i ponownej instalacji aplikacji możesz grać dalej, logując się na istniejące konto.\n\nPamiętaj jednak, że konto gościa po reinstalacji lub zmianie urządzenia nie zostanie odzyskane. Zalecamy powiązanie konta.",
+      "kr_sha256": "62bcddbe66cc8a7526eb1193fb9d2d2958f22f26dd12906e068abb5761180724",
+      "en_sha256": "39798f1c1a71a0ef74eca580c93c57d45dc1a105713d935c9a4397a22449177b",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_5].content": {
+      "pl": "Usunięcie konta (opuszczenie gry) jest możliwe tylko w stanie powiązania konta.\nKonto gościa najpierw trzeba powiązać, a potem opuścić grę.\nW grze: Ustawienia → zakładka Konto → Usuń konta.",
+      "kr_sha256": "bad3d4259288707260aeb401a061de736cf51192df02f2d1e4466edb24d3f93f",
+      "en_sha256": "45cf6dd4e6985ce34774cf2d312dbfafe0505485dc7aecccd624807e44825830",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_6].content": {
+      "pl": "Jeśli zalogujesz się na dotychczasowe konto przed upływem okresu karencji (14 dni), konto można przywrócić.",
+      "kr_sha256": "a5e9373ef5b64a4a6741bc1937572cc704cbb0811ff005f0c52eb22d25ab4b88",
+      "en_sha256": "5d28a59c3015fbab679c8b699a71b9e0b716faec17eb1c60e229f034a5f2e0a6",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_7].content": {
+      "pl": "Aby zapewnić sprzyjające środowisko gry, działamy zgodnie z zasadami eksploatacji.\nDziałania naruszające zasady, które wyrządzą szkodę innym graczom lub usłudze, mogą skutkować ograniczeniem grania.\n\n<color=#F8C200><u><link=\"https://limbuscompany.kr/policy/\">[Zasady eksploatacji gry]</link></u></color>\n\nJeśli konto ograniczono zgodnie z zasadami, nie możemy pomóc dodatkowymi działaniami. Mamy nadzieję na wyrozumiałość.",
+      "kr_sha256": "ada8fd1ac0e1eaf8932e8bfe443b703e1398fe84cd2932157b9b560db57740e9",
+      "en_sha256": "7d4d1decfca058b4d3444d8677b3d4795849fc31a5bfdc46859769438d86877c",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_desc_8].content": {
+      "pl": "Gdy problem dotyczy powiązanego konta, nie możemy pomóc, bo nie da się zweryfikować, czy nie doszło do kradzieży konta. W takim wypadku skontaktuj się z obsługą klienta poniżej.\n\nObsługa Google: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color>\nObsługa Apple: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color>\nObsługa Steam: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>",
+      "kr_sha256": "b0f3061132ed4422f0ee9a3bcdc3f14f5247997999b06c6fc82bb50fbe6fde94",
+      "en_sha256": "8666d00752570fea2d968ad9303d9b55486b05ab74ff2cf46334cd523132ef53",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_1].content": {
+      "pl": "Gdzie mogę sprawdzić ID konta?",
+      "kr_sha256": "5d032dcb40ccaa604fa54b699eb850a12eb5fbb5d1b5e32bfd0423d9cdef4b47",
+      "en_sha256": "1e9cbcb88d95bd8ad373b8e8ddad9a73d829df9d8147594293b1a5a4b12cdb93",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_2].content": {
+      "pl": "Jak połączyć konto?",
+      "kr_sha256": "ed42cd7c3bba372894a0404ab5c9edde5cb7c4a5a650ec0a0cf1cbeed07987a6",
+      "en_sha256": "6833faaa848c3cc68ce0959c435c9480a9c842463ee8a68c60f39cc33545fe5e",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_3].content": {
+      "pl": "Zapomniałem konta. / Zapomniałem hasła.",
+      "kr_sha256": "33829649f22ccaf3f2e268de0d11b8017dbc70b5b93f4db17311aa482c912209",
+      "en_sha256": "1bcc912a5b9f3ac6dbb6d5828e14743880135f59326578dcc6b951bfe75124ed",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_4].content": {
+      "pl": "Czy mogę dalej grać na koncie po zmianie urządzenia lub reinstalacji?",
+      "kr_sha256": "4d9b805ca8f36465e75e0ab656b07d041e7f68b3682146a9073f8e4afb3da9d6",
+      "en_sha256": "8526c22196f29910546b731e01bfc5713f690b64008fd59fb63113b8da3a71a9",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_5].content": {
+      "pl": "Jak usunąć (opuścić) konto?",
+      "kr_sha256": "600246beed805bcf4ea87d4f1e8c650fb6c0e6dbd0bbb1146ef2a43508375905",
+      "en_sha256": "5d3a49fa07823886cede39eab16b0aa967ece9073d0f1d323bb39057d4891c5d",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_6].content": {
+      "pl": "Czy usunięte konto da się odzyskać?",
+      "kr_sha256": "59ef9471fcc3bba3807b6a8adbe568288eab3b8b5319d151489ddc8d12d84b04",
+      "en_sha256": "d106e6f52c6efa848c4e1625ee32eca35db6af388f2bebbe4d149385373c820d",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_7].content": {
+      "pl": "Moje konto zostało zablokowane. Dlaczego?",
+      "kr_sha256": "60c33c8923a68ae7b8ef208da378e3d59da0280c8793093e06a2a5e2cac21fa5",
+      "en_sha256": "f0cc9a76fc8e65eaad7e93849651e8cde76ff1fb6848f7c8534939df134b822f",
+      "origin": "ai"
+    },
+    "dataList[id=faq_account_title_8].content": {
+      "pl": "Rozwiązanie problemu z łączeniem kont",
+      "kr_sha256": "4cd5c7f6bac8a72f6430a1bc0f30409738ca2694b95821571a23d368605e5779",
+      "en_sha256": "7f4b9338e26dd932a11f99ce980887f3e49502b9be057a95460a1bb1ebce1681",
+      "origin": "ai"
+    },
+    "dataList[id=faq_description].content": {
+      "pl": "Najczęściej zadawane pytania\nmożna sprawdzić tutaj.",
+      "kr_sha256": "5e102be661e9c0d9c4e7a23a5067e10645601ad7f8c3a215b77bdb36b48bd273",
+      "en_sha256": "fe6577e29ed34c27a1c08ee2ba0de6307b8185b3d9e0e85ed8c8e68d0901dc4e",
+      "origin": "ai"
+    },
+    "dataList[id=faq_normal].content": {
+      "pl": "Ogólne",
+      "kr_sha256": "512989791c19de3fcf9c18e11580d2895d2a146264cc803e52c86bede3453e4e",
+      "en_sha256": "c910d474dcd724bff83ddedeb06bf1eceaf9fb3af7c76bb282be057f36e6dffa",
+      "origin": "ai"
+    },
+    "dataList[id=faq_normal_desc_1].content": {
+      "pl": "Sprawy nieujęte w FAQ (najczęstszych pytaniach) prosimy zgłaszać mailem do obsługi klienta.\n\nSprawy kont\n<color=#F8C200><u><link=\"mailto:limbussupport+account@projmoon.com\">limbussupport+account@projmoon.com</link></u></color>\n\nSprawy płatności\n<color=#F8C200><u><link=\"mailto:limbussupport+payment@projmoon.com\">limbussupport+payment@projmoon.com</link></u></color>\n\nZgłoszenia błędów\n<color=#F8C200><u><link=\"mailto:limbussupport+bug@projmoon.com\">limbussupport+bug@projmoon.com</link></u></color>\n\nProblemy z aplikacją\n<color=#F8C200><u><link=\"mailto:limbussupport+applicationissue@projmoon.com\">limbussupport+applicationissue@projmoon.com</link></u></color>\n\nInne sprawy\n<color=#F8C200><u><link=\"mailto:limbussupport+others@projmoon.com\">limbussupport+others@projmoon.com</link></u></color>",
+      "kr_sha256": "2e73ef827c836f1ad80f158137f3b195397daeaf1e967b038d1ae99aeb27868f",
+      "en_sha256": "843edb2c48915f7dca7f991a5f49c330f31223230b6ca79846cf2f6246aef765",
+      "origin": "ai"
+    },
+    "dataList[id=faq_normal_title_1].content": {
+      "pl": "Nie ma tu odpowiedzi na moje pytanie. Gdzie się zgłosić?",
+      "kr_sha256": "5f3bc02537d509eabd284753f236a7eb9cde1ae341b332c41239af16d4ca6ac9",
+      "en_sha256": "8c1e3407eeab573628f7f46f333fa67dff2dbb8b899d52b17f915d2c06424002",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment].content": {
+      "pl": "Płatności",
+      "kr_sha256": "8d4f3299dd01d1b16e676006e1b945bec62cf09d40ed15d77269e15ba99fb6ff",
+      "en_sha256": "7048f38b33f135df36b3d9d382f167d45cfdda857b616899c9d8c9acd2751f64",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_common_template].content": {
+      "pl": "■ Formularz zgłoszenia ANDROID\n1) UID (numer użytkownika):\n2) Sprawa: anulowanie zakupu\n3) Konto płatności Google: (format e-mail)\n4) Data i godzina płatności:\n5) Nazwa produktu:\n6) Zrzut ekranu paragonu:",
+      "kr_sha256": "920028c379993c8ffb6b552f8ecb405d37695d215bb770f903ec8ca2cc4d3d86",
+      "en_sha256": "2da2efc07ff541986635457bfc731bf9abcb1f0cba27253275cdf25a370c9492",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_1].content": {
+      "pl": "Przy zakupie <b>Miesięcznego Pakietu Szaleństwa</b> otrzymujesz od razu 650 Szaleństwa, a przez 30 dni od dnia zakupu możesz odbierać codzienne nagrody jak poniżej. Przy zakupie <b>Miesięcznego Półpakietu Szaleństwa</b> otrzymujesz od razu 130 Szaleństwa, a przez 30 dni od dnia zakupu możesz odbierać codzienne nagrody jak poniżej.\n\n■ Codzienne nagrody Miesięcznego Pakietu Szaleństwa:\n65 darmowego Szaleństwa\n\n■ Codzienne nagrody Miesięcznego Półpakietu Szaleństwa:\n39 darmowego Szaleństwa\n\n\n※ Uwagi\n1) Wszystkie nagrody trafiają do gry pocztą.\n2) Oba pakiety działają niezależnie.\n3) Oba pakiety można dokupić maksymalnie 2 razy. (maks. wydłużenie do 67 dni)\n4) W dni bez zalogowania nagroda danego dnia nie zostanie wydana.",
+      "kr_sha256": "fd727167d49771592466588075b771957dcd00844cb1784847894f62036c9081",
+      "en_sha256": "8dc86d22436a1c605c20032f1b46167fd27652762676d0cd6479861923c53756",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_2].content": {
+      "pl": "Zwrot jest możliwy, jeśli zgłoszono w ciągu 7 dni od zakupu i nabyty przedmiot nie został użyty.",
+      "kr_sha256": "f5c2697779980b2d2bf1a20f888be82a9670ba8a98742a4214b39adaaf6d87f7",
+      "en_sha256": "bcda18877e4612133ed51d86afb1e832ceb5a2e1123fa6b4abe1bf0b28a0bf7a",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_3].content": {
+      "pl": "Pakiety, przedmioty okresowe, przedmioty z bonusami itp. uznaje się za użyte natychmiast po odbiorze, dlatego niestety nie możemy pomóc w ich zwrocie. Mamy nadzieję na wyrozumiałość",
+      "kr_sha256": "fb84167a35f9553146de53a4280ec97cdbf914a9d5b25c4e7c00434fb2f7c182",
+      "en_sha256": "0d7106549f635bec4082359a59c940503734fb15b865231e46e35b8039b95124",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_4].content": {
+      "pl": "<b>Sposób weryfikacji w Google Play</b>\n1. Wejdź do Centrum płatności Google (<color=#F8C200><u><link=\"https://payments.google.com/\">https://payments.google.com/</link></u></color>)\n2. Zaloguj się na konto Google użyte do zakupu\n3. Wybierz „Aktywność”\n4. Wybierz transakcję do sprawdzenia\n5. Sprawdź ID transakcji (format GPA. 0000-0000-0000-00000)\n\n<b>Sposób weryfikacji w App Store</b>\n1. Wejdź na stronę iTunes (<color=#F8C200><u><link=\"https://www.apple.com/kr/itunes/\">https://www.apple.com/kr/itunes/</link></u></color>)\n2. Po zalogowaniu wybierz [Konto]\n3. W historii zakupów wybierz [Pokaż wszystko]\n\n<b>Sposób weryfikacji w Steam</b>\n1. Wejdź na stronę pomocy (<color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>)\n2. Wybierz kategorię Zakupy\n3. Wybierz [Pokaż pełną historię zakupów]\n4. Wybierz transakcję do sprawdzenia",
+      "kr_sha256": "acac97e433b486d3b9e4ae35356a847d556158752699e700408df04881bbe3cf",
+      "en_sha256": "dfbffed46a680fdc1f156043eb3d7760c9cfd2e2db442270f64f2a08b220c786",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_5].content": {
+      "pl": "Jeśli przedmiot został opłacony kilkukrotnie, wyślij zapytanie do działu obsługi klienta w grze wraz z paragonem i historią transakcji.",
+      "kr_sha256": "a8d1575a92a5df3bf4735b6bb59103cb28262c5cc12025d59dc7d3957162cf2a",
+      "en_sha256": "ccd90f7a2b795517a7eb1230b38a0c0861e084fbbb30150d9bae292510af5f1c",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_6].content": {
+      "pl": "Jeśli kupiłeś przedmiot w grze, ale z powodu błędu nie został wydany, wyślij zapytanie do działu obsługi klienta w grze wraz z paragonem zakupu.",
+      "kr_sha256": "5bb3d85848e64a03e050a420161838260a66436cf47fc031fb7e25c40ffb6c30",
+      "en_sha256": "af256c1684dd022dd940d4db6a80f71cca0c21993d72cbba6e8b0b86d64490e0",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_7].content": {
+      "pl": "Przedmioty dostępne w grze są sprzedawane przez Play Store (Google) i App Store; przyczyn nieudanych płatności może być wiele, bo form płatności jest też wiele.\n\n■ Sposoby rozwiązania problemu z płatnością\n1) Uruchom grę ponownie w stabilnym środowisku sieciowym\n2) Przy problemach z ustawieniami konta:\n\nStrona wsparcia Google\nLink: <color=#F8C200><u><link=\"https://payments.google.com/payments/u/2/home#oneTimePurchase\">https://payments.google.com/payments/u/2/home#oneTimePurchase</link></u></color>\n\nStrona wsparcia Apple\nLink: <color=#F8C200><u><link=\"https://expresslane.apple.com/GetproductgroupList.action\">https://expresslane.apple.com/GetproductgroupList.action</link></u></color>\n\nStrona wsparcia STEAM\nLink: <color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color>\n\n3) Przy problemach z realizacją płatności:\n- Przy problemach z metodą płatności, jak limity mikropłatności, skontaktuj się z obsługą firmy kartowej lub operatora.",
+      "kr_sha256": "a64744f7310191125bfb71c11944db41a91ec1ba932cd571cc33b74cefb3d672",
+      "en_sha256": "39b43712b66421daa4f0ce08f94d066402438c1deebfb344b5a6cd0fdca0211b",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_desc_8].content": {
+      "pl": "Płatne przedmioty w Limbus Company są sprzedawane zgodnie z zasadami danego sklepu (Google Play, App Store, STEAM). Różnice w kwotach mogą wynikać z kursów walut, podatków i opłat sklepu lub operatora płatności. Sprawdź szczegóły w sklepie.",
+      "kr_sha256": "131043906ab27eb54642825d24316653e2cc468d0f1e0b7dea3f7a25a7354eea",
+      "en_sha256": "55b6715824d31b8f38ae287e0554a7f5f6634caf3fdf9848b3a8bf283788cf12",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_1].content": {
+      "pl": "Jak działa Miesięczny Pakiet Szaleństwa / Miesięczny Półpakiet Szaleństwa?",
+      "kr_sha256": "98fe1f03f2a214c9646f97c13ec72bc20fd7388cc82e13ed194d1c8aa6005967",
+      "en_sha256": "99eff10ec70072c5f44e3eeb31a5c8a09f2ec69d540d6b1d583177bc71bbfdcd",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_2].content": {
+      "pl": "Chcę zwrócić zakupiony przedmiot. Jak to zrobić?",
+      "kr_sha256": "4c226b04b3a91a3b60ac2a2fdad5247fb9f27bc76ed95e051ccd436c28d8fbd4",
+      "en_sha256": "0326ed9728327cb63ac94ee73e7e4876088e1cea935f23323c8b0b26b9d00456",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_3].content": {
+      "pl": "Które zakupy można zwrócić?",
+      "kr_sha256": "daffed726c8c32bec2b2c57bca216a108870bfcef72aa967982b0bb7aa39f915",
+      "en_sha256": "d6b1113d4aa7b271f0791553fb424306c93ea1584539f79dad82f6f5f3ad45d9",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_4].content": {
+      "pl": "Gdzie mogę sprawdzić historię zakupów i paragony?",
+      "kr_sha256": "2c56d06f787e952c477780fdb3c62b9db469d2bedf42f018ca9e395b77317c6f",
+      "en_sha256": "e8c864df9f2ba39d16a16e6fa5bddb15864df5694758b58f24f7f62f5da9eac1",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_5].content": {
+      "pl": "Ten sam przedmiot został opłacony kilkukrotnie.",
+      "kr_sha256": "9276f13724bb5cb4fdef37d384b41b4968adde673068850f19de2cabed665052",
+      "en_sha256": "e17181aaef55db128febe0ac6ddee54cddfc747dbb1ef183a943951d980ec025",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_6].content": {
+      "pl": "Zapłaciłem, ale przedmiotu wciąż nie ma. Co robić?",
+      "kr_sha256": "a3f0e6c16472f58432e801064d2e29e676b4ad60baf940d97ac51939e1a9c1be",
+      "en_sha256": "23612a860304adc13432f40918f17be8d0ec31d0c9472413293a1201a077b732",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_7].content": {
+      "pl": "Płatność ciągle nie przechodzi. Dlaczego?",
+      "kr_sha256": "8bb9c1b3881ac37ef6b8cb1b2f651eceab4320be82d4388cfd87098eeba5e149",
+      "en_sha256": "985512d196bc08f9763f8310ba1fd8f1c56677c5cbcd7d3da462481fab727295",
+      "origin": "ai"
+    },
+    "dataList[id=faq_payment_title_8].content": {
+      "pl": "Cena przedmiotu różni się od obciążonej kwoty.",
+      "kr_sha256": "7651a2fc22bfbf303c3ac63fb50a5ea803594e1b1a909dd962b524d47d766406",
+      "en_sha256": "bad56e2792a1e120571409dd9067f2953d0e25027a7e0fb1443bf6894e302036",
+      "origin": "ai"
+    }
+  }
+}

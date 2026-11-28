@@ -1,0 +1,519 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Kolejka szybko się przesuwa. Za jakieś dziesięć minut będzie nasza kolej.",
+      "kr_sha256": "397976de47d23e961144370d0c9a35a8f7854fa63586f96652814866dfea60a0",
+      "en_sha256": "b988f540eab6dc433662a4b6143b020cf75b1483660d94177027251f06cb6b52"
+    },
+    "dataList[id=100].content": {
+      "pl": "Zapewne mowa o nich. Pasuje do K Corp.",
+      "kr_sha256": "4620f2a22dcfa476a5bd866c73c3cd4b74c9cc43bf8137d7589c7e726d8a6e50",
+      "en_sha256": "c01500530544612f46e17c16709433e172abad5f85ef08080dec18c32561ee44"
+    },
+    "dataList[id=101].content": {
+      "pl": "Wszyscy odwrócili głowy tam, gdzie wskazywał palec Faust…",
+      "kr_sha256": "462db796559defaa885b00865cbd16b50440d51b619cd1c9a70a7a8b14d4678e",
+      "en_sha256": "7098f6e11eee1215259b01e9736ce71be0813455074ca57847eb583b148776b7"
+    },
+    "dataList[id=102].content": {
+      "pl": "a ludzie w groźnie wyglądających uniformach również patrzyli na nas.",
+      "kr_sha256": "afa19196f7b6240ad65365d0b9d4a0c193e567d1eb199b91d5f9cd68e44136ff",
+      "en_sha256": "447724a80a4c59a4caf62776d02da9c1fd85c08d5508cf05f391d6e66671d076"
+    },
+    "dataList[id=10].content": {
+      "pl": "Gdyby ktoś nie był w stanie tego zapamiętać, niech lepiej trzyma język za zębami.",
+      "kr_sha256": "dfd432697a90903d083f61c165569d03bea8fa611440aaabb4418a694eb02821",
+      "en_sha256": "110ae0a6cd1c3e07b1564e89f8eb4a27b8596116d09e5e49aab9dda48f852d84"
+    },
+    "dataList[id=11].content": {
+      "pl": "Wystarczy po prostu pokazać legitymację pracowniczą.",
+      "kr_sha256": "8dffb4d606fbf0815b8c49ae5e06551405883bca926593107604aa917553b8b3",
+      "en_sha256": "1e7df45267e5ed705654016394f4bdcf646b949efb6d4d32df59c42a78da4a8f"
+    },
+    "dataList[id=12].content": {
+      "pl": "<Trzymać gębę na kłódkę i nie robić kłopotów. Nic prostszego.>",
+      "kr_sha256": "1772f6b4f49e6dac59ef5ecd3e04ad94e4d3364ac0ed0498912a2d19a0e4fc06",
+      "en_sha256": "b3da4d6f3b5743a3d88d597225f6939e4c0b2e8907e444c6a8e17a9b6bb8a1df"
+    },
+    "dataList[id=13].content": {
+      "pl": "Zerkając ukradkiem, rzuciłem złośliwą uwagę.",
+      "kr_sha256": "0cf8b43eb5ee2fc37d312eac51052682fadd16addf15f91acd4759ce7989a4ab",
+      "en_sha256": "664680a0fb13c8fa3bd266b825ddef489fdb7c4f781b34e59b4b528a7ba5d8d7"
+    },
+    "dataList[id=14].content": {
+      "pl": "W duchu bałem się, że Faust na mnie doniesie, ale…",
+      "kr_sha256": "97c2af80ae217fa8d608c176a929823f144a37189b919030dda9e92ce575e8f3",
+      "en_sha256": "37ef7fe9399cf861b6b1c6cf805c3b78706b5fa9600a02d07722428557f41636"
+    },
+    "dataList[id=15].content": {
+      "pl": "Vergilius na szczęście tylko wpatrywał się w pustkę i nic nie powiedział.",
+      "kr_sha256": "9522ced2bf2aaebbc4d168f736f9622aaa02f8f250741e03153a965356b2fbf4",
+      "en_sha256": "927e8336d4526ada2b265bad3343c7a8513b003e87d78e8319141dd391b2aa32"
+    },
+    "dataList[id=16].content": {
+      "pl": "A teraz.",
+      "kr_sha256": "55a59a78c2034d26fd56806266989f45ae3b7a13c0d7ad808e2e68424928b70f",
+      "en_sha256": "87f1c3aa15e9cd97e425578cbbed5976bc0388c5d188373d77b95731dd956741"
+    },
+    "dataList[id=17].content": {
+      "pl": "Kto ma pytanie, niech najpierw się zastanowi, czy to naprawdę pytanie warte zadania.",
+      "kr_sha256": "db6171244e1cc0ae40a84fd2c78ae93b49815a8c897e5231d7ff25b945e697ed",
+      "en_sha256": "3808ee3c7696fa2a7db9eb4769de1fe55ec6ccef0a59ea7dfc2ce272a53fae33"
+    },
+    "dataList[id=18].content": {
+      "pl": "I dopiero wtedy w ciszy podniesie rękę.",
+      "kr_sha256": "7a7dae3eece5e841867d3d7d993c58c735b75c9bc8e18fdc96e0c11ba4c47f61",
+      "en_sha256": "074b9d6f999d1499b29efbda56146326d7c58c7d7126db67811a58041ed3e7ab"
+    },
+    "dataList[id=19].content": {
+      "pl": "Kilka osób podniosło rękę, w tym ja.",
+      "kr_sha256": "4592abf5fd090223e7d332b6a1fac2d2864f0129e0a2f7ed26ad50c96b7c0419",
+      "en_sha256": "b6989526b21b13ca8ba4d73aed7ca9a92bde5bc05dad0638e2e8eeca5424be83"
+    },
+    "dataList[id=1].content": {
+      "pl": "Czy na pytania muszą odpowiedzieć wszyscy, całą trzynastką? Pana Dantego przecież nikt tam nie zrozumie, to co wtedy?",
+      "kr_sha256": "2d46e25ba33eb2804bfc64c52a07941bcf21775e8bf7d68b42929b326b5052f5",
+      "en_sha256": "b5b82deb8f45415b2a6c4740f0ea3034029338476f3b6e4bb1519f678eb943ca"
+    },
+    "dataList[id=20].content": {
+      "pl": "Rodion.",
+      "kr_sha256": "354a2288e9b0da20d66f1ddcd5fe0e27489abd0e1253cda134265e6db306fd6b",
+      "en_sha256": "85dd63eb94e922d0b201f14164f3b382e896e926bc2eb0a1abe9ec86c9e691d9"
+    },
+    "dataList[id=21].content": {
+      "pl": "Skoro to wyjazd służbowy, to broń możemy wnieść, nie~?",
+      "kr_sha256": "f64b275d45f0fd6805c9356e944dd465c9fa16c152dbcf06836013bcf0f97ca8",
+      "en_sha256": "0da151941df5c92663e49ec952c126c0fec9cce424403f95eba1bf88d72d05d4"
+    },
+    "dataList[id=22].content": {
+      "pl": "Owszem. Następny.",
+      "kr_sha256": "549e82293d1cf8a3dee24c23d74b0ff6bb5ed068cd78e00541e3025c3f3ab17a",
+      "en_sha256": "a13c8326ab9c8d66a36058c6a48ee0443b5f97550b9e108db5a00903da8eb72f"
+    },
+    "dataList[id=23].content": {
+      "pl": "To dziwaczna ręka Grega i odjazdowa zegarowa głowa Dantego też przejdą?",
+      "kr_sha256": "56733646b30fdece4a3bfbfe8283e0bec6fede096ebdf4d751c6d8ab5e6c5d5c",
+      "en_sha256": "f328ab1a832f8e87625d5a5671db63f03e33ef2dbebc70a0ff7214b5eb6f4b15"
+    },
+    "dataList[id=24].content": {
+      "pl": "Tak. Dla jasności: głowa Kierownika jest klasyfikowana nie jako broń, tylko jako proteza, więc przeszłaby nawet na wizie turystycznej. Mimo że ma moc wskrzeszania.",
+      "kr_sha256": "e64c2abee4d0370808f5f1cffdaf96765126f685c937b5057998b8b377561ce5",
+      "en_sha256": "8469fc74cf93cdf5f6db05f983885899425d923ca76bf5dc7a5b879575111c5d"
+    },
+    "dataList[id=25].content": {
+      "pl": "Odpowiedziała za Vergiliusa Ishmael, która najwyraźniej postanowiła odgrywać prymuskę.",
+      "kr_sha256": "82761f2e3902472b7ee8f041e3d98da89f407a3e3c8ae349b8abdf2bcd6b27cd",
+      "en_sha256": "b8b9e8c899462fb40565d602a1f663b2e8484b60546d7183350eedff8395ab06"
+    },
+    "dataList[id=26].content": {
+      "pl": "Czułem to już wtedy w kasynie…",
+      "kr_sha256": "b36f4b61202765f75092017e62137f6148e9b0945530bb11f14e3cfc3d561458",
+      "en_sha256": "8264bd588d3faaa41db6cc3f34ac43fde6eccc5bfaddd0e367e97a4fb99ea68c"
+    },
+    "dataList[id=27].content": {
+      "pl": "Ishmael chyba uznała, że skoro ja, któremu ufała, okazałem się takim gamoniem, sama musi brać sprawy w swoje ręce.",
+      "kr_sha256": "fffad16245b92f46d3af7d9cd6131de8180d6707f29b652af1d5fecd07222c26",
+      "en_sha256": "60624f7ad13629487083d943cb37b698da057ce5f54aa898e5d8682f80c41a27"
+    },
+    "dataList[id=28].content": {
+      "pl": "Dokładnie.",
+      "kr_sha256": "89eeb830970f76c8d09b8c651d619b87bb120c095215b338a25700337fadb10f",
+      "en_sha256": "004cb3c1fad17973a7213af09fd2c8b1e22bad1e7a645a02cf877387ef353fe4"
+    },
+    "dataList[id=29].content": {
+      "pl": "Gregor i ja opuściliśmy ręce w tej samej chwili.",
+      "kr_sha256": "76cde83c88971e455e013cec91040fd4b57bf51565e4ca9db038afd29eaef98c",
+      "en_sha256": "03cddf274325bedfb246f4fe80fe42f7ceb261c6a92545dd88d9a7754fe2c906"
+    },
+    "dataList[id=2].content": {
+      "pl": "Najwyraźniej Ishmael, kiedy się denerwowała, zaczynała mówić szybciej i zadawać coraz więcej pytań.",
+      "kr_sha256": "92677d2f9aa83e4bb9b8b867a9fd46b7d09aabd44b3e7fab18fa3b9e2286b6c5",
+      "en_sha256": "82ffb70c2bb3f9f6abdf762a06c7c1ea197528014aa1d829dd985489702be077"
+    },
+    "dataList[id=30].content": {
+      "pl": "I jeszcze jedno, Ryōshū. Zgaś papierosa, zanim się odezwiesz.",
+      "kr_sha256": "e50d5ca52e73b5efa0d6cbc053ef3a14865a39465f7ea6e1db936690f15d6a6f",
+      "en_sha256": "dd5b1c5a007c94ef770086ee9f6a0f7512aa6ca3e5396f9e6ab3cb0f940caf0c"
+    },
+    "dataList[id=31].content": {
+      "pl": "…Nie podnosiłam ręki.",
+      "kr_sha256": "c56142cd2279d1749270710aff2f8b18b0530214101e43d4f5639d8f100ff4ad",
+      "en_sha256": "59500904a7a2774253c16a9b44ed9a557da72e6f7bdfb477b4f2b860406c763c"
+    },
+    "dataList[id=32].content": {
+      "pl": "…",
+      "kr_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=33].content": {
+      "pl": "Vergilius najwyraźniej próbował zignorować rękę Don Quixote, wyciągniętą wytrwale aż do samego końca…",
+      "kr_sha256": "866db84768d7edfdf87a0a6b9f5c32422cf48deb9c723db603bafde5c93777fa",
+      "en_sha256": "345222a2460fcec78e3d1385a1524f0050c51a46f5dfb39a4d1e42bb18bb3008"
+    },
+    "dataList[id=34].content": {
+      "pl": "ale wobec ręki sterczącej tak sztywno, że nie zamierzała opaść za nic w świecie, musiał w końcu ustąpić.",
+      "kr_sha256": "7163e72131c0e5cb46d7b9f277d211d101907f3d7115c69d6e0b9ddfd51b0996",
+      "en_sha256": "c68554d7288f91a515f222d27339fc87bf5a61a45ba982ff5586a9e399bc5e94"
+    },
+    "dataList[id=35].content": {
+      "pl": "…Dobrze, Don Quixote. O co chodzi?",
+      "kr_sha256": "4758ea360467f6f16a1076a20082698a5cab883a2e8d31b2c35f1ffdc7840f91",
+      "en_sha256": "1c02d3f0ca242f20dba8e983feec2723c8e8d95e4c2ff5cc1f6b4e16fb3bc7a5"
+    },
+    "dataList[id=36].content": {
+      "pl": "Czemuż służy owa szklana ściana?",
+      "kr_sha256": "758f8187012a32de22de24b81e1fa5d1363974820f4358e2480150544f70e555",
+      "en_sha256": "77ca7f7ec6db391acc3015f9173ff47389a0e8f7544297ecc6bf9373bfba84fe"
+    },
+    "dataList[id=37].content": {
+      "pl": "Wszyscy spojrzeli tam, gdzie wskazywała Don Quixote: na szklaną ścianę w głębi hali odpraw.",
+      "kr_sha256": "8cea1fcb32d3decce952e0cc0d6922db34a4e5a3debf4ad0bb459c11563ef89e",
+      "en_sha256": "272ab95c8392f3028817e1bed9f3020142d3fe32f4f766980bd621ac6ceccc6f"
+    },
+    "dataList[id=38].content": {
+      "pl": "Za przejrzystą taflą, która dzieliła wnętrze mniej więcej na pół…",
+      "kr_sha256": "390777b773da478e70f2fc42b119def03c66af080d97866ef2e4559514f3a928",
+      "en_sha256": "9411c1621f0b4c639804db3824b207c4839ce2d691511e31693a7f4e113749b7"
+    },
+    "dataList[id=39].content": {
+      "pl": "w kolejce czekało tylu ludzi, że trudno ich było zliczyć.",
+      "kr_sha256": "8ce2179f8fd0111bc85e131563a52522430c21f64a2a95d75ee70346b67be079",
+      "en_sha256": "a11b558d80a2e126c483f0973b07070aaac9fc1a358f5dfece7dc7eb7d9160ba"
+    },
+    "dataList[id=3].content": {
+      "pl": "Właśnie miałem do tego przejść.",
+      "kr_sha256": "f32054a002f4c0c6378a062c4db21d995a68d78ea0f4f51ed13d820f0385fc59",
+      "en_sha256": "d35cfc2c47e1b3e6808de7d6b56e841f1f8d62675affa7ff1194143a61c050ef"
+    },
+    "dataList[id=40].content": {
+      "pl": "Tam to już nawet nie czekają, tylko po prostu siedzą na podłodze.",
+      "kr_sha256": "f5dadf92a31674535d16a073b8677d67fa286c28ca7122c00d0801c914f3c3d9",
+      "en_sha256": "f111b1d2e196b9c084bb40de8ed59d1f96a5c9378c1a45aa2c6d6b0483eb3fe4"
+    },
+    "dataList[id=41].content": {
+      "pl": "Widać stoją tak od dobrych paru godzin.",
+      "kr_sha256": "0c702c8f0c2bc1088f13416f71ea07153d45ec46fe269c2daa9c88147e33fba5",
+      "en_sha256": "92854fe0a982b5199c10d0cd96d13675882b6ad4a6e2cc0f9e982e25cd0c1564"
+    },
+    "dataList[id=42].content": {
+      "pl": "Dużo uzbrojonych strażników. Trzy razy więcej niż tutaj.",
+      "kr_sha256": "2a67599b80ccbf245cb6cd9b360093e1080a58ce28521a3381045189ddde316b",
+      "en_sha256": "dc09a8a1376be2ffa21106e7ff93fbb14358d2d8f7539529c05c88e5766fd1cc"
+    },
+    "dataList[id=43].content": {
+      "pl": "…Szklane ściany w budynkach zwykle służą bezpieczeństwu.",
+      "kr_sha256": "1e6c74cdc6afe518d32c77ce490d7e251c7fc2673648c5d6b05a0d47d48f3598",
+      "en_sha256": "ba629e1f1b9cc91c898362a6924abe9c562dccd06e096c1e3f4d67a70caf007f"
+    },
+    "dataList[id=44].content": {
+      "pl": "No~ mówiąc po ludzku, to strefa dla ludzi z Zaułków. Każde Gniazdo robi to po swojemu, ale tak czy siak, wjechać do innego Gniazda bez porządnej wizy jest strasznie, ale to strasznie trudno.",
+      "kr_sha256": "fed7085fdd17084786e224e49f65ac13c0f1489f12d4ddc295fbbd088682e533",
+      "en_sha256": "a0842f977071a648c6a1d91cbb01d3ef73cd908582d6a70f48b0ea3f57bd9ba1"
+    },
+    "dataList[id=45].content": {
+      "pl": "Jak myślicie, czemu tamci napadli na nas pod punktem kontrolnym, i to ryzykując życie? Chcieli dostać się do Gniazda, nawet jeśli musieliby nam zabrać wizy siłą.",
+      "kr_sha256": "393d762c4710fba49279acfd54224201828197d8081d3fdaab38544851f918cc",
+      "en_sha256": "9f444d7b9d5ba2b95a1c124c008e4540957d5c8af55554b29a50a39d2bda0037"
+    },
+    "dataList[id=46].content": {
+      "pl": "…I jest to problem, którego nie jesteśmy w stanie rozwiązać.",
+      "kr_sha256": "1582b1ecf6bbd56f58b5bb74670ef41bb4b684da8df6f79d4c9a1cf1dd5b0ca1",
+      "en_sha256": "6884003c23570a25f9e00b6b46cb1602e6912e82ea8becdfccbc8d6f1adbe6e7"
+    },
+    "dataList[id=47].content": {
+      "pl": "Dla Don Quixote taka odpowiedź nie była jednak zadowalająca.",
+      "kr_sha256": "8556309ae17fe2f83d208c0d6dade5a103f831e78d22b6a09742e8a8c9d6bdc2",
+      "en_sha256": "3094d7f5e8097984079ca65bf456e99149c450b300020e7472385ad8993206c1"
+    },
+    "dataList[id=48].content": {
+      "pl": "Nie wiedziałem, czy to przez ponurą i przytłaczającą atmosferę po drugiej stronie szklanej ściany,",
+      "kr_sha256": "a5eba8dea8dd868e1256d9033bd1feae1f85a4726d6c11a6ea41ff337b07f3a9",
+      "en_sha256": "2c98f0cdad828295beaff5f4be10c548a4d573fabe267421c8ed1252cf13bfa4"
+    },
+    "dataList[id=49].content": {
+      "pl": "czy przez zamieszanie, które właśnie tam wybuchło.",
+      "kr_sha256": "25de6ac9f04cb224299eb96cf6eaa779f9a7fb78b4de7e7707e88e5911c3fc16",
+      "en_sha256": "c1b3b6449fe3967950490b5593f43d4d38eff2fad95e5c44a7e39136baddddfc"
+    },
+    "dataList[id=4].content": {
+      "pl": "Słuchajcie uważnie. Urzędnik K Corp. zada osobom z tej kolejki tylko bardzo proste pytania.",
+      "kr_sha256": "10b0e6685641e536d1138005a96f5e31e78695360cda76381a5927abe2f76b5e",
+      "en_sha256": "59dbe53f26c2471f5da6c8ace5328b3a8d730df7fe65fe427c8cb43db3bf2b4c"
+    },
+    "dataList[id=50].content": {
+      "pl": "Kierowniku, nasza kolej.",
+      "kr_sha256": "dbdd7a4f2c146a1faedcd048c86b97e948167bd5694ac5757f67f9766a31b85a",
+      "en_sha256": "1cee79ba22b69d1a39554ae2e95c8abfb570b654e683bbd825e2cae1d9b20331"
+    },
+    "dataList[id=51].content": {
+      "pl": "<Co? A, tak…>",
+      "kr_sha256": "2f156ae27f8027c197783b354277b6404540415242412e50a707b2779b01b73d",
+      "en_sha256": "2516ec35cbc24ffb8070321dcf814ba5611d8001a4af397cba1cc493e4fc13ce"
+    },
+    "dataList[id=52].content": {
+      "pl": "Nasza kolejka przesuwała się tak szybko, że nim zdążyliśmy zamienić kilka słów, przyszła nasza kolej.",
+      "kr_sha256": "da62ee67be724fdb0dd46154c9ce18a64756486de040717f711982d326d24c1d",
+      "en_sha256": "c6e5aa01271191a3339d2769f8771c07493bec2eced447d96ac4c904b0652e3e"
+    },
+    "dataList[id=53].content": {
+      "pl": "Pamiętajcie. Kiedy zapytają, w jakim celu przyjechaliście…",
+      "kr_sha256": "f16bb9f5a009abbc1948c945e0a4292b298fab12e597446d70813b2802c58378",
+      "en_sha256": "738432537faef159a7adc209d91064fd602bce1bed0bb64329eb8d2b08d9114e"
+    },
+    "dataList[id=54].content": {
+      "pl": "…Powiedz to jeszcze raz, a zrobię R.Z.E.Ź. tobie i temu całemu urzędnikowi.",
+      "kr_sha256": "e2b0b359f07fa760fdf5c5ac5414cb956cea13226b17faa59537c8d324d5a4e3",
+      "en_sha256": "9bb4944e3f2daf61887fc12e213a853a3709d850f539c0a057c6962133430ab5"
+    },
+    "dataList[id=55].content": {
+      "pl": "Wbrew obawom Ishmael kontrola szła jak po maśle.",
+      "kr_sha256": "b0c187dd852b44d796c5c4fc7b6e445f155c3c80faaa9113738051cd1d87042e",
+      "en_sha256": "a0a647ad9622c52ae4e0ad327b764a9a0455104e4536daa62323940c2ca515ea"
+    },
+    "dataList[id=56].content": {
+      "pl": "Proszę podać przynależność i cel przyjazdu.",
+      "kr_sha256": "3d2857a115fb61a915e68dadde9752b5cdaa74504dae001d1ca83fd0daa58703",
+      "en_sha256": "a925072c510467b104629eae553bc6ad7411b6f1aa0b4521b2151a7b9f299095"
+    },
+    "dataList[id=57].content": {
+      "pl": "Ach, przyjechałem w sprawach służbowych z Limbus Company. Proszę sprawdzić legitymację pracowniczą.",
+      "kr_sha256": "983419374e621fe1133c1c733776b5a1ca3228d4fce23b1da9529529a2527a12",
+      "en_sha256": "a664a7a81efbb63839e6456ab20c45148a068923635f5a8b89dc228cabd379ec"
+    },
+    "dataList[id=58].content": {
+      "pl": "…Sprawdzone. Następny.",
+      "kr_sha256": "ebb95234811c86387bfa4e2d5ed4fb97a2cf78e30450cb604f43a6897caf976f",
+      "en_sha256": "9becb92e990cb8443e99b61954cbeff8c4d4b96beb2afc73d14f0f0d478c882f"
+    },
+    "dataList[id=59].content": {
+      "pl": "Jestem z Limbus Company. W interesach. Ponoć wystarczy zerknąć na legitymację.",
+      "kr_sha256": "5870e1233af7d006073c5d4ff0fe5aae6991b1818497d1b05e414655d8ae3633",
+      "en_sha256": "a12785a2ed6846a30d8f48ae5436f0c0e392e082f290e810cbce1c75b0437993"
+    },
+    "dataList[id=5].content": {
+      "pl": "I wy też macie odpowiadać bardzo prosto.",
+      "kr_sha256": "6c6ed9909e09f10d9b9fb0bf9b66c7017cc3cb6082702ea8c2310b2ffcc2472b",
+      "en_sha256": "cbd909a5ade8e033612f84c18a59211ded1bc884040b209e7c1cfe9b32153a31"
+    },
+    "dataList[id=60].content": {
+      "pl": "…Sprawdzone. Następny.",
+      "kr_sha256": "ebb95234811c86387bfa4e2d5ed4fb97a2cf78e30450cb604f43a6897caf976f",
+      "en_sha256": "9becb92e990cb8443e99b61954cbeff8c4d4b96beb2afc73d14f0f0d478c882f"
+    },
+    "dataList[id=61].content": {
+      "pl": "Może dlatego, że pierwszy z nas już udowodnił, że jesteśmy z Limbus Company,",
+      "kr_sha256": "09788f1e1fc81114038f00492074722188ea32aab10b18754b4b77f7cb52bb3e",
+      "en_sha256": "d16d4dfd2b05aa27dc152d0bc8787572f5bd930bd7b7d1b2194ac998927d3508"
+    },
+    "dataList[id=62].content": {
+      "pl": "urzędnik zadawał wszystkim to samo pytanie tym samym płaskim tonem, z obojętnym wzrokiem zerkał raz na twarz, raz na legitymację (choć sądząc po tempie, był to raczej odruch z przyzwyczajenia niż prawdziwe sprawdzanie) i przepuszczał Grzeszników.",
+      "kr_sha256": "350cea24bf5e02866fd9accfb50401e9bdd392d5a50576e23fcb5a2c20e90535",
+      "en_sha256": "76d5e65dc0f4769b2303881b67ea05768e7a1afd8f378a284495c332f3f87f28"
+    },
+    "dataList[id=63].content": {
+      "pl": "… …",
+      "kr_sha256": "eaff833f16d840c046c0f33e4dd23bb5f26eb536d079ce4ba7d6d02d6fda0e73",
+      "en_sha256": "1976ebf2eb8a17d78206fc07cf900387526e62d116fbc29f3acd2276e739cc02"
+    },
+    "dataList[id=64].content": {
+      "pl": "…Chyba coś się tam stało.",
+      "kr_sha256": "58a73553c19980a49a426778260d0af53da0ec69038a3cca84624312b619ac9e",
+      "en_sha256": "49e56fa744f4d0d76ff38f11dd94304112be82aa53e44372a7e3e8ca2ffb1c87"
+    },
+    "dataList[id=65].content": {
+      "pl": "Szklana ściana była jednak najwyraźniej tak gruba, że nie przepuszczała nawet dźwięku,",
+      "kr_sha256": "60165386202276105a1936583e2b9ffa8f6c50d24ec1b17c0fad6cda935a7a61",
+      "en_sha256": "6125849f6afa712aa328c9139666b975c955dd4c882011c7e17e91e1d22fd033"
+    },
+    "dataList[id=66].content": {
+      "pl": "więc trudno było dociec, co dokładnie się wydarzyło.",
+      "kr_sha256": "37a656462a46ddb29eff0839ea578551774d2b4af3ec2e3bb8c5bdcec2531931",
+      "en_sha256": "714bcf201751a5ac1da6ae4ddd64477ae0b15918a12f77cfc5bbd489521fc7a7"
+    },
+    "dataList[id=67].content": {
+      "pl": "Widać było jednak wyraźnie, jak strażnicy wloką kogoś ze skutymi rękami,",
+      "kr_sha256": "fd70f7be2e1d8b45b8b3a068ab94ea283b39b40763f20f65161ca00fd143af6a",
+      "en_sha256": "a4aaacef8b45bb19197c696425ff96cd3b31b408c3009af88462e0b8b5efe17e"
+    },
+    "dataList[id=68].content": {
+      "pl": "a przed nim małe dziecko, które nie wie, co robić, i tylko płacze.",
+      "kr_sha256": "30c5a54d48416072317a24588e300acd3860b4f1cdc3c3033915720b7d11835f",
+      "en_sha256": "e6b4a1964cbd6e4b6dea1e1205e2606c36b22e11109eb4cf6802b19c8250bf25"
+    },
+    "dataList[id=69].content": {
+      "pl": "…Nie zwracajmy na to uwagi. Nie wiem dokładnie, ale ktoś chyba naruszył Tabu Skrzydła.",
+      "kr_sha256": "b9edf9fc23883e34609a7e5beca76fb0963cdb5af2d2bfa0ce4b3065df717a4a",
+      "en_sha256": "0d3874d35574bf1a69e6551902c09c5ff88c498cc1db32a97e50517e2e6be493"
+    },
+    "dataList[id=6].content": {
+      "pl": "Kiedy urzędnik zapyta, w jakim celu przyjechaliście…",
+      "kr_sha256": "bbca0a2a0185951036b04bd1b9c655447eb9805c8d86ee9451f227154744ae1c",
+      "en_sha256": "5d858f47bb3082a2c19880d3261ffe8ec7baeaef4b6dcb01ae045f2d5cd955a4"
+    },
+    "dataList[id=70].content": {
+      "pl": "No jasne. Jakie tam tabu może złamać biedota? Chyba tylko takie, że nie wsunęła komu trzeba dość kasy pod stołem.",
+      "kr_sha256": "b026cd72907c9bd4e73ea2fe037734bfa9efadb293d97dbe6c10e078b9a5cb92",
+      "en_sha256": "fb7bf7cccc43598193eddbdb5871bc59d09f1fdad896d7d1a4413927fa060a51"
+    },
+    "dataList[id=71].content": {
+      "pl": "…Drwisz ze mnie?",
+      "kr_sha256": "423c2c02243d2a9db4df371d895c1ee3c22f647ce4a1c034da097462fcf551bf",
+      "en_sha256": "a7ae5a79ff8fee55f42244e57b3b7abb0d6bcfcd3da703a78511da9536b2f470"
+    },
+    "dataList[id=72].content": {
+      "pl": "Ha. Co jest, przecież miało cię to nie obchodzić? A jakoś bardzo cię obchodzi.",
+      "kr_sha256": "e4c7147761f767512ab6ffbd7d9540c77e6ba95f583cef424c80d21497ba3c8f",
+      "en_sha256": "ab09e95bec021d419a31ebcf93e0ca2166431ce5952a634df7db114cfba54dbe"
+    },
+    "dataList[id=73].content": {
+      "pl": "Patrzyłem, jak Heathcliff podnosi głos, zadowolony, że pierwszy raz udało mu się dopiec Ishmael, kiedy…",
+      "kr_sha256": "539b835bde6e86bd0b359dd6dc5e5d4540d74c8f3c43ca762c989e6e048214b3",
+      "en_sha256": "813071bb820882fe3481b46a2a0f37b1344b9c3e0fe59d49e365fb829ec42265"
+    },
+    "dataList[id=74].content": {
+      "pl": "osoba, po której można się było tego spodziewać, znów wkroczyła do akcji w chwili, w której nikt się tego nie spodziewał.",
+      "kr_sha256": "1369e77b78f03347e8bcfd2aa8f9f70dcce38e5509a93a897065c5ad2661ed10",
+      "en_sha256": "c51ec2f38175f39fdc8cecea5e9fbb33558e6df2ed1eecf15dd5cab1780ded42"
+    },
+    "dataList[id=75].content": {
+      "pl": "Proszę podać przynależność i cel przyjazdu.",
+      "kr_sha256": "3d2857a115fb61a915e68dadde9752b5cdaa74504dae001d1ca83fd0daa58703",
+      "en_sha256": "a925072c510467b104629eae553bc6ad7411b6f1aa0b4521b2151a7b9f299095"
+    },
+    "dataList[id=76].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=77].content": {
+      "pl": "Przybyłam, by słabym wolność przynieść!",
+      "kr_sha256": "afffe44d9a3d2b2fbc6cfb315d0c7f1a716be69256ddeca1e05fdc97c84d3359",
+      "en_sha256": "31de30d676893275447007f1d514147fa063eb0510908f45148a8d93cfec0e9c"
+    },
+    "dataList[id=78].content": {
+      "pl": "Po raz pierwszy na twarzy urzędnika pojawia się coś na kształt emocji.",
+      "kr_sha256": "81a8a1169abbd4059d1289f8f5856959ffd1cf17fcf4debe5a1afa2f6ae2623b",
+      "en_sha256": "65ae83be0aaa0fed0d204bf3352f56c7fb4622dd6ae587c1b51b82f3f9605a8e"
+    },
+    "dataList[id=79].content": {
+      "pl": "Osłupienie.",
+      "kr_sha256": "31bbd3d1b803c192822bf1d2e6d271983d97d291285eae02f96271242a9b9947",
+      "en_sha256": "ff04f9ebf5c7772db070af3cc5f486f524b8bfd8cafc3c1a87b4d2100a664948"
+    },
+    "dataList[id=7].content": {
+      "pl": "“Przyjechałem w sprawach służbowych Limbus Company, proszę sprawdzić moją wizę służbową.”",
+      "kr_sha256": "715d66d96b098d46e7f581e9953e73de5929a86a9e0e5a4ee520eb7e03d58597",
+      "en_sha256": "d5211fe268a6459009a6ad73ad59a9340181cbc08bfad9ec880afbc0b6b5e0f0"
+    },
+    "dataList[id=80].content": {
+      "pl": "Twarz, na której dosłownie maluje się osłupienie, patrzy w górę na Don Quixote.",
+      "kr_sha256": "a9d039cb1dc3c054101d1aaa7a4f21177b47b5b2f2a9f5947c136c421e9ead08",
+      "en_sha256": "02df45111384f65504cb3287b10cc8ede93c9d2e142c80e2c69737b5f00696d1"
+    },
+    "dataList[id=81].content": {
+      "pl": "Uwolnij tych ludzi! Azaliż nie widzisz, jak cierpią?",
+      "kr_sha256": "41917c90030083c304a7971f1852f15cc690056ebc0ea64a4aac52fcd3752146",
+      "en_sha256": "47f9a3a4a357b4c804bc0d86cc9abb323ce0244364ae23e2cec29021990a10f6"
+    },
+    "dataList[id=82].content": {
+      "pl": "…Proszę podać przynależność i cel przyjazdu.",
+      "kr_sha256": "c9f8a7c5d91bddfe90ae5187e6e75c946ba7c7ea0f2f2936a190e1e012403f38",
+      "en_sha256": "e475d86409bd26c4725adb8f741b3b73e08328448c4d69f718d305ece2d01c80"
+    },
+    "dataList[id=83].content": {
+      "pl": "Urzędnik z uporem ignorował jej słowa i tylko powtarzał wyuczoną formułkę,",
+      "kr_sha256": "1664291694bffdfb461cceb6b1a975fc417953402b137c9b999883ccfc07e7c3",
+      "en_sha256": "56fa43012228211f2a668094d8752853404c7bee8d7e4f8d07ae97def65d0286"
+    },
+    "dataList[id=84].content": {
+      "pl": "a nastrój Don Quixote psuł się z każdą chwilą; widać to było jak na dłoni.",
+      "kr_sha256": "d8676799a4c01f456df6f42ea265c9ca78eb6c08ada3d7f2b0cb8778f913a80c",
+      "en_sha256": "5c101a55e816753f832c8a76865cc67c01ab12cd5ec4a129dad14f3133f819a3"
+    },
+    "dataList[id=85].content": {
+      "pl": "I wtedy.",
+      "kr_sha256": "a7071b181bf68523d2788b5ff16321e17ada4e66fcc40e82f4ee296ddac8184e",
+      "en_sha256": "5fa1b60944e2fadffd54d40865b2fa0a4e46f293accd930091220929bd6101d5"
+    },
+    "dataList[id=86].content": {
+      "pl": "Kiedy znów spojrzałem przez szybę…",
+      "kr_sha256": "6881d77cd9d2d61a284412fea05dc8771922f3ede88e58f62226d23782cc611b",
+      "en_sha256": "9be54a25848ca553588b908957159e55322fa8341f3c8f9c12fcb704a9b55ec7"
+    },
+    "dataList[id=87].content": {
+      "pl": "zobaczyłem, jak usta dziecka rozpaczliwie wołają za odciąganym człowiekiem.",
+      "kr_sha256": "457c024d466e9901d394304da8c5e253d3a7edae7092ee699366656a39b6487e",
+      "en_sha256": "274e9404082e17b11e715d704246793b1fdfed0f911fe3a3626124d58e71fb6e"
+    },
+    "dataList[id=88].content": {
+      "pl": "Taaa",
+      "kr_sha256": "d6ce479be9ddc9b7de97f62dc4c7c9c1319300d5635e0de0f35d474f380b2ea5",
+      "en_sha256": "91042a2b2b2d607c34fe80b7abf1b2e597a467a4640d5d51a07434533f3b037c"
+    },
+    "dataList[id=89].content": {
+      "pl": "aaato!",
+      "kr_sha256": "0f3e2fb1a29dcef5c2b844f5f8fee54729bb4f679ea5e010d4d70feded61772b",
+      "en_sha256": "b8abcf3ce088355b755f2ee4fd38655d0bbf8ad86edbc323120804315157acfe"
+    },
+    "dataList[id=8].content": {
+      "pl": "Tak macie odpowiedzieć. Nauczcie się tego na pamięć, słowo w słowo.",
+      "kr_sha256": "8040b20b1d605711c9e8fd027de6a5428adfa5477cfbae1de3b0a3dcd48c282b",
+      "en_sha256": "0961efa936cbd07a49736b32e93b96439d1250d3053675131fd045967475540f"
+    },
+    "dataList[id=90].content": {
+      "pl": "Skoro ty nie kwapisz się do czynu, jam sama to załatwię!",
+      "kr_sha256": "65fa687254885e99c69bea809a61ae1575e949d28e882d78b081c573baec7fa7",
+      "en_sha256": "f78e1d4018352da8817d751c5177a7a51cb38c2d2a8a1afef7e381f5338dfed7"
+    },
+    "dataList[id=91].content": {
+      "pl": "…Ech.",
+      "kr_sha256": "b76c63b2fd7a4bfae2d91106a959e6df5ab717357ba918e4ae79a4b16bfc9967",
+      "en_sha256": "7f4fae7fba8b38398fe79f788e6a407f58e093c0c73e6c17d4abf1d32220c501"
+    },
+    "dataList[id=92].content": {
+      "pl": "Kod purpurowy, kod purpurowy. Naruszenie Tabu K185 na miejscu.",
+      "kr_sha256": "3cc3da4c9f90398bc1da2ce28c74a8cde20967bc165ac7664bc8adde62571ddc",
+      "en_sha256": "38f3bcbdd8ab7ac5dd7ee43e1427ae333e3e69ffd7f57e62be3a76dfbe19700b"
+    },
+    "dataList[id=93].content": {
+      "pl": "Wzywam wsparcie Trombocytów. Powtarzam, Trombocyty…",
+      "kr_sha256": "58e7b83993cf2248acfc4dd50446a29a7ecfb788a45e90ab019e9d13800bec0d",
+      "en_sha256": "8dfe845ca496f47e0090000659bb0644db83d1767618f47cdc608b9facfb75d2"
+    },
+    "dataList[id=94].content": {
+      "pl": "Urzędnik, który zdawał się nie znać żadnych słów poza jedną formułką, zaczął w końcu wypowiadać do radiostacji groźnie brzmiące słowa,",
+      "kr_sha256": "194f8b2ce679872c3dcb94e659a929bef0d1b2e4b28bdcf5220eca87157d315b",
+      "en_sha256": "c8ce38a07104aa511b4fc018b372170c516ea27edc3c2c41048e50085fd1179b"
+    },
+    "dataList[id=95].content": {
+      "pl": "Komunikat. Kod purpurowy, kod purpurowy. Hala Obiegu 2, stanowisko kontrolne 14. Trombocyty, Leukocyty.",
+      "kr_sha256": "d3676c2a8dc7e3f54ca64e3d142da5781a0b44968bdd315a4c755d9a4c75457c",
+      "en_sha256": "a5e6c17ceba879efbf5218669207116eb1ef539501e5d9c346196b52049295d0"
+    },
+    "dataList[id=96].content": {
+      "pl": "a grube stalowe drzwi zatrzaskiwały się z łoskotem, wśród niezrozumiałych komunikatów i bezlitośnie wyjących syren.",
+      "kr_sha256": "f57fa6bf3fc1cd1b63aebf07a99e75b86dc2cd6256025869a51183d945449e62",
+      "en_sha256": "683aab4d5b28a1bbe98895b192dd276b73a01f832a7c0918b140ae8eb3857227"
+    },
+    "dataList[id=97].content": {
+      "pl": "…Trzeba było jej rozwalić łeb, wsadzić do worka na zwłoki i tak przenieść.",
+      "kr_sha256": "34373524da512e214518767893f71ea12197d978d18a0ab1140593b5e71b8435",
+      "en_sha256": "8014d3e976ab53bc1a3adb728d2737cb6250e0a87ed68ebaf6c4f4aede2c9358"
+    },
+    "dataList[id=98].content": {
+      "pl": "Nie sądzę, żeby to wiele zmieniło.",
+      "kr_sha256": "86457b2267834a41982eee805a486b0a1b3643e30b2bfae5def0577da0d75a92",
+      "en_sha256": "748192a5b5e7e4e4ba8dbb8e1736f086f2e420c76cd008acc2b5814af79fea97"
+    },
+    "dataList[id=99].content": {
+      "pl": "Trombo-, leuko-… Zda się, że chodzi o płytki krwi i białe krwinki.",
+      "kr_sha256": "bea05459b6e16d1eb2fa4fd0a0d6fde6cbdcc91fe9877e59afe55ba5f7393e70",
+      "en_sha256": "1330e536057d7612cbc97786f60abfe06272a6b1881e9b58993d4323ce190043"
+    },
+    "dataList[id=9].content": {
+      "pl": "Resztą zajmę się ja. Wy macie tylko udowodnić, że nie narobicie kłopotów.",
+      "kr_sha256": "67021cbdaee510addc3728d4ed3ea191b816a3ae4e3fe7c16ea4aeb50b3f7671",
+      "en_sha256": "65d26abfec7c18909ea310baf2b0df26cb88877b1cbc6e48738c401f6db1a8cf"
+    }
+  }
+}

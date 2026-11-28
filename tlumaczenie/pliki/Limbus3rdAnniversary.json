@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=anniversary_3rd_day_1_date].content": {
+      "pl": "Dzień 1",
+      "kr_sha256": "c9454879f8d68afca17485b6b2e04d0b65ccb86bb8c4211cbe9634f8cd9e494b",
+      "en_sha256": "2ea9099a1d0e61e6c9362bca5f2a503edd99fb9bd6f28316b58aaa7389868023",
+      "origin": "ai"
+    },
+    "dataList[id=anniversary_3rd_day_1_reward].content": {
+      "pl": "<size=70%>Banner 3. rocznicy Limbus Company</size>\nKupon wyboru Tożsamości Sezonu 1",
+      "kr_sha256": "469470d1bf02666cd550b1fb864f4061c0913ddf4bbd63b4420fc504f5218001",
+      "en_sha256": "768fa42e7c59a8f4a6f28240444226827aa53d3b8b391167a9df288da723e8de",
+      "origin": "ai"
+    },
+    "dataList[id=anniversary_3rd_day_7_date].content": {
+      "pl": "Dzień 7",
+      "kr_sha256": "e0acea575f0997105cb47cedae948d35321e624bf2921efb0327e4b8138c7fe4",
+      "en_sha256": "cca3178054520347098db5362fe130d792dc929f8f9047bf88d9e3901bee20db",
+      "origin": "ai"
+    },
+    "dataList[id=anniversary_3rd_day_7_reward].content": {
+      "pl": "3rd Anniversary",
+      "kr_sha256": "5f1215ca131ff250a8dac66077dd879b08c177921dd71df24ac5d97aad681846",
+      "en_sha256": "5f1215ca131ff250a8dac66077dd879b08c177921dd71df24ac5d97aad681846",
+      "origin": "ai"
+    },
+    "dataList[id=anniversary_3rd_last_day_reward].content": {
+      "pl": "Kupon wyboru Tożsamości 3. rocznicy\nKomentator Angela (Dyrektorka Biblioteki — Pierwsze Dni)\nSpecjalny banner 3. rocznicy Limbus Company\n3rd Anniversary (Special)",
+      "kr_sha256": "76bac169a5df705bfb6bb665509df87e2b4746cffcd1558b1ede58952692734e",
+      "en_sha256": "05828c65db0e635655a86555ad8ab38fbb979eb43812c4b2507191b9cfa4dcd1",
+      "origin": "ai"
+    },
+    "dataList[id=anniversary_3rd_last_day_reward_desc].content": {
+      "pl": "Zdobycie duplikatu posiadanego już Komentatora da zamiast tego 50 Skrzynek Nici.",
+      "kr_sha256": "d25ff8d6200386558d0d792050faae92136e02c96a6f5c1186a0b31259f145bf",
+      "en_sha256": "1a793d0c2173bc289e87fcdae733353c18db78d621e0974b0cdec4891fbb8888",
+      "origin": "ai"
+    },
+    "dataList[id=select_identity_popup_permanent_personality_label].content": {
+      "pl": "Zawsze dostępne",
+      "kr_sha256": "8902fb4885bd7fcb80ddfb467e95be092031776d3473c780bcee775a3c3b263d",
+      "en_sha256": "8c20b364e7cae12a080b71129171306efdd7fde8d75f7ed1c4aa2776bc6dc9d3",
+      "origin": "ai"
+    },
+    "dataList[id=select_identity_popup_title_season_2].content": {
+      "pl": "Wybierz Tożsamość Sezonu 2",
+      "kr_sha256": "84230e1489897c005ed5a77523321acd1f77a05fa84fdf07ebe35f20bae5e18f",
+      "en_sha256": "7c99ac76339132c7e2439b3e218b6e3695f53e265635b5daff8790645b7f5696",
+      "origin": "ai"
+    },
+    "dataList[id=select_identity_popup_title_season_3].content": {
+      "pl": "Wybierz Tożsamość Sezonu 3",
+      "kr_sha256": "edbae8fb3854dca3defefb32e9b95494c3d05f1e9e7ce886dd830494ca961294",
+      "en_sha256": "7eae79063853a92d340ac71b1c92e1e4d5bc4fda5b539baef29d1659fad76886",
+      "origin": "ai"
+    }
+  }
+}

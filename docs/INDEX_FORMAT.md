@@ -53,15 +53,14 @@ alfabetycznym — jedna liczba mówi, czy zawartość się zmieniła.
 
 | Część | Źródło | Pliki | Bajty |
 |---|---|---|---|
-| `localize/kr` | lustro TW `LimbusTraditionalMandarin/story-data` @ `f218bbec` (2026-11-19) | 2449 | 24 594 177 |
-| `localize/en` | jw. | 2406 | 25 492 917 |
-| `static-data/` (12 tabel) | lustro `LEAGUE-OF-NINE/OpenLethe` @ `8f24cba5` (dane 2026-11-12) | 1153 | 21 620 590 |
+| `localize/kr` | zbieracz właściciela `LCB_DANE_20261125_190908_2e6403.zip` (build Steam **`26652290`**, E-007) | 2449 | 25 222 309 |
+| `localize/en` | jw. (build Steam **`26652290`**) | 2406 | 26 225 485 |
+| `static-data/` (12 tabel) | lustro `LEAGUE-OF-NINE/OpenLethe` @ `8f24cba5` (dane 2026-11-12; build nieznany, brak pliku licencji) | 1153 | 21 620 590 |
 
-Build Steam obu luster jest **nieznany**. W lustrze TW brakuje
-`EN_StoryText.json`, a `EN_ChapterBannerConfig` jest pusty (E-004).
-OpenLethe nie ma pliku licencji — zapisane w manifeście. Po paczce zbieracza
-właściciela (`LCB_DANE_*.zip`, znany build) `index/localize` zostanie
-podmieniony tym samym poleceniem.
+Pliki `localize/{kr,en}` pochodzą już bezpośrednio z instalacji Steam
+właściciela (build `26652290`, oryginalne CRLF + BOM). `INWENTARZ.jsonl` ze
+zbieracza potwierdził, że `StaticData` nie występuje w katalogu Steam jako
+luźne pliki JSON, więc tabele struktury pozostają z lustra OpenLethe.
 
 ## Odświeżenie
 

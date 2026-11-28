@@ -1,0 +1,299 @@
+{
+  "entries": {
+    "dataList[id=10101].stageList[id=0].title": {
+      "pl": "Hol Zespołu Kontroli",
+      "kr_sha256": "5d7d07ca316de3816d4a6e22ded7598ff4dbdc764b219c76269bc55a2433a861",
+      "en_sha256": "6f2cb350cad8b15c0fb88f0cfa421306967c45d043239e28bb6116b62eb473dd"
+    },
+    "dataList[id=10101].stageList[id=100117].desc": {
+      "pl": "Cofnąłem zegar i wszyscy Grzesznicy szczęśliwie doszli do siebie, ale filia wygląda coraz złowieszczej. Szedłem dalej z nadzieją, że tylko mi się wydaje, jakby kolce oplatające korytarz jeżyły się, gotowe w każdej chwili przebić czyjeś ciało.",
+      "kr_sha256": "8880a6cedb7d20055b0b196e17ed8934c3c34cf4067118ddebf216b97b0ea838",
+      "en_sha256": "f23d4d433ef10651b929dc0981b1bfa471e12bf803da1c2aee9c51b4b0c1d970"
+    },
+    "dataList[id=10101].stageList[id=100117].title": {
+      "pl": "Linia obrony 23-7, 11:00",
+      "kr_sha256": "566fcd981b128dd31b0deee111054e836ab54c65c1d82e02338145b7d38e5b73",
+      "en_sha256": "658cd784ef7fd809c29c18e55db0103dbf7d3b0629ffc4f472645da6d23bf4e0"
+    },
+    "dataList[id=10101].stageList[id=100].title": {
+      "pl": "Hol Zespołu Informacji",
+      "kr_sha256": "55b17a35282081bfb4beae569fa9ff08fead511d2fbce82cad129469320b3d65",
+      "en_sha256": "079be57cfca335e1e0098225c457ba338e8a076bb5e9b1d40a47386b8e8b4bb2"
+    },
+    "dataList[id=10101].stageList[id=10].desc": {
+      "pl": "Pierwsza filia Lobotomy Corporation, na jaką trafiliśmy, już od wejścia przedstawiała widok nad wyraz makabryczny. Oniemiali, wpatrywaliśmy się w trupy o owadzich ciałach.",
+      "kr_sha256": "220bb16f6e11dc23c3186fdcf39d392a3504ec0202b075fa13ea90e0afd9b433",
+      "en_sha256": "d3802fdc4d30a54660ef4ddcc7eb22d79ba39df66ecde71e39399ca855d7e8ee"
+    },
+    "dataList[id=10101].stageList[id=10].title": {
+      "pl": "Hol Zespołu Kontroli",
+      "kr_sha256": "5d7d07ca316de3816d4a6e22ded7598ff4dbdc764b219c76269bc55a2433a861",
+      "en_sha256": "6f2cb350cad8b15c0fb88f0cfa421306967c45d043239e28bb6116b62eb473dd"
+    },
+    "dataList[id=10101].stageList[id=110].desc": {
+      "pl": "W głębi korytarza pełnego ciemności majaczy czyjaś sylwetka. Ona także w bezruchu patrzy, jak powoli się zbliżamy. Nie byłem pewien niczego poza jednym: nikt tu nikomu nie będzie rad.",
+      "kr_sha256": "a64a7564134b37653d037485975c959c962c303039a4cc10220eeee3ae0611bc",
+      "en_sha256": "08f96965ef9b9c224292c445f3941d07c57060a8492cc5ca0064926ff574475e"
+    },
+    "dataList[id=10101].stageList[id=110].title": {
+      "pl": "Poczekalnia dla personelu",
+      "kr_sha256": "1f134385b1692c843db2afb58238fc321bf8d6705271b3e549fd58e326b31576",
+      "en_sha256": "701ec09eef019355837acab05a35daa85be227ab75786b5b293da334afbaab18"
+    },
+    "dataList[id=10101].stageList[id=11].desc": {
+      "pl": "Pierwsza filia Lobotomy Corporation, na jaką trafiliśmy, już od wejścia przedstawiała widok nad wyraz makabryczny. Oniemiali, wpatrywaliśmy się w trupy o owadzich ciałach.",
+      "kr_sha256": "220bb16f6e11dc23c3186fdcf39d392a3504ec0202b075fa13ea90e0afd9b433",
+      "en_sha256": "d3802fdc4d30a54660ef4ddcc7eb22d79ba39df66ecde71e39399ca855d7e8ee"
+    },
+    "dataList[id=10101].stageList[id=11].title": {
+      "pl": "Strefa izolatek Zespołu Kontroli",
+      "kr_sha256": "f61fbfffe747172ee6bafdf18922124c0e5f96c474783ccf2f9be2ffba7202d3",
+      "en_sha256": "609634c630a691ee8a3e975d4074b018b5ceb3b5bd5e318dfafd7c1ab59d001f"
+    },
+    "dataList[id=10101].stageList[id=120].desc": {
+      "pl": "Zostawiliśmy za sobą ostrzeżenie dawnego przełożonego Gregora, “Nie idźcie dalej”, i ruszyliśmy naprzód. Jakby za karę za tę głupotę skądś zaczął się sączyć gryzący swąd.",
+      "kr_sha256": "9d552617b5942ea9ccc8e655c2d5037876618696cd67c6b934e18c1d75d74fa7",
+      "en_sha256": "2d288c1b7345df8606e96d69f34d538fdc9217bfa61f590b24092d916b35224e"
+    },
+    "dataList[id=10101].stageList[id=120].title": {
+      "pl": "Korytarz izolatek 5",
+      "kr_sha256": "123489139a0dcc71c3fe42f0f03890764ff951cc6137ddd827fc6b0ad02c1dd9",
+      "en_sha256": "06f051de4d8648bd55540802c11c0f6d771d4ae4fc10aa327d88aab254bbaa58"
+    },
+    "dataList[id=10101].stageList[id=121].desc": {
+      "pl": "W głębi korytarza pełnego ciemności majaczy czyjaś sylwetka. Ona także w bezruchu patrzy, jak powoli się zbliżamy. Nie byłem pewien niczego poza jednym: nikt tu nikomu nie będzie rad.",
+      "kr_sha256": "a64a7564134b37653d037485975c959c962c303039a4cc10220eeee3ae0611bc",
+      "en_sha256": "08f96965ef9b9c224292c445f3941d07c57060a8492cc5ca0064926ff574475e"
+    },
+    "dataList[id=10101].stageList[id=121].title": {
+      "pl": "Korytarz izolatek 4",
+      "kr_sha256": "a1df9c951ea2e3f3060c1edee79543588474cf718f19ac0b9be29aa6cc338b0b",
+      "en_sha256": "ac84d5f3fda4f375213375583b0d08afc0a0159931944fb98ef4030d866f8951"
+    },
+    "dataList[id=10101].stageList[id=12].desc": {
+      "pl": "Pierwsza filia Lobotomy Corporation, na jaką trafiliśmy, już od wejścia przedstawiała widok nad wyraz makabryczny. Oniemiali, wpatrywaliśmy się w trupy o owadzich ciałach.",
+      "kr_sha256": "220bb16f6e11dc23c3186fdcf39d392a3504ec0202b075fa13ea90e0afd9b433",
+      "en_sha256": "d3802fdc4d30a54660ef4ddcc7eb22d79ba39df66ecde71e39399ca855d7e8ee"
+    },
+    "dataList[id=10101].stageList[id=12].title": {
+      "pl": "Strefa izolatek Zespołu Kontroli",
+      "kr_sha256": "f61fbfffe747172ee6bafdf18922124c0e5f96c474783ccf2f9be2ffba7202d3",
+      "en_sha256": "609634c630a691ee8a3e975d4074b018b5ceb3b5bd5e318dfafd7c1ab59d001f"
+    },
+    "dataList[id=10101].stageList[id=130].desc": {
+      "pl": "Spotkaliśmy Anomalię, która najpewniej sprowadziła na to miejsce niejedną katastrofę. Według Yuri Anomalie trzymano kiedyś pod ścisłym nadzorem, w karbach protokołów postępowania. Co się z nimi działo po zamknięciu filii, wolałem nie powierzać nawet wyobraźni.",
+      "kr_sha256": "17469316bd2133b9e0c4217952177a7cf9c41ed48c7882d106503d02e03edbcd",
+      "en_sha256": "b450ec5da02f36ac166a44c0799ec8eb90dd1d4f1a997e5c727387a17e28c6e8"
+    },
+    "dataList[id=10101].stageList[id=130].title": {
+      "pl": "Aneks kuchenny",
+      "kr_sha256": "3655e17d0bc2de1e9023dca49be4f90cd49610ff4138334f66bffa29a6cdb488",
+      "en_sha256": "5bd7296f3a7142096e9e8b63920829283f33088ae9096c14949b0cdb686af825"
+    },
+    "dataList[id=10101].stageList[id=140].desc": {
+      "pl": "Spotkaliśmy Anomalię, która najpewniej sprowadziła na to miejsce niejedną katastrofę. Według Yuri Anomalie trzymano kiedyś pod ścisłym nadzorem, w karbach protokołów postępowania. Co się z nimi działo po zamknięciu filii, wolałem nie powierzać nawet wyobraźni.",
+      "kr_sha256": "17469316bd2133b9e0c4217952177a7cf9c41ed48c7882d106503d02e03edbcd",
+      "en_sha256": "b450ec5da02f36ac166a44c0799ec8eb90dd1d4f1a997e5c727387a17e28c6e8"
+    },
+    "dataList[id=10101].stageList[id=140].title": {
+      "pl": "Stołówka pracownicza",
+      "kr_sha256": "57615f66d47882aed4eaa25a08568374f4c94ea25c2047bf8bed2edf74c3de07",
+      "en_sha256": "d5fe60af2faabfe51607c62676ab4f4c8ebbc6530ff489618185be14fd1db892"
+    },
+    "dataList[id=10101].stageList[id=150].desc": {
+      "pl": "Spotkaliśmy Anomalię, która najpewniej sprowadziła na to miejsce niejedną katastrofę. Według Yuri Anomalie trzymano kiedyś pod ścisłym nadzorem, w karbach protokołów postępowania. Co się z nimi działo po zamknięciu filii, wolałem nie powierzać nawet wyobraźni.",
+      "kr_sha256": "17469316bd2133b9e0c4217952177a7cf9c41ed48c7882d106503d02e03edbcd",
+      "en_sha256": "b450ec5da02f36ac166a44c0799ec8eb90dd1d4f1a997e5c727387a17e28c6e8"
+    },
+    "dataList[id=10101].stageList[id=150].title": {
+      "pl": "Blok Anomalii krytycznych",
+      "kr_sha256": "8988732412b178339c8b292519875bcc55e5a1747df71add09eafa72d223a01b",
+      "en_sha256": "c9ec9a4cd808fde936dd20fc9da6f91945a09f8c16dec98d29d96fe320850ca5"
+    },
+    "dataList[id=10101].stageList[id=200].title": {
+      "pl": "Linia obrony 23-7, 11:00",
+      "kr_sha256": "566fcd981b128dd31b0deee111054e836ab54c65c1d82e02338145b7d38e5b73",
+      "en_sha256": "658cd784ef7fd809c29c18e55db0103dbf7d3b0629ffc4f472645da6d23bf4e0"
+    },
+    "dataList[id=10101].stageList[id=20].desc": {
+      "pl": "Walczyliśmy z czymś, co przypominało Anomalię, a wyraźnie nią nie było, i ogarnęła nas konsternacja. Sądząc z miny, nawet Yuri nie wiedziała, co to takiego.",
+      "kr_sha256": "716b258be71d7d742cf549aa0952bad7ccf566e87be9125256776609d323eef8",
+      "en_sha256": "e9d8b8620f9c50949cc4b18d2c5c51ccd33364d3ffc91196667ef03aecf0aa40"
+    },
+    "dataList[id=10101].stageList[id=20].title": {
+      "pl": "Korytarz izolatek 1",
+      "kr_sha256": "45756cc02f88f5d8aa9ea3ffbd4f64bca5bbcff1af59a8fbd8415ea371a4d2f6",
+      "en_sha256": "e1bbad03bed67705f1c32430a7368e540729b93cd81fe0ff47bfad80c976cfcc"
+    },
+    "dataList[id=10101].stageList[id=210].desc": {
+      "pl": "Ledwie weszliśmy piętro wyżej, ujrzeliśmy chmarę czerwi. Zaraz potem w błysku złotego światła powitały nas, niczym przywidzenie, mętne niebo, kanonada i wojenne okrzyki. Po urywanym głosie, który dobywał się spomiędzy zębów Gregora, poznałem, że jesteśmy w samym środku pola bitwy.",
+      "kr_sha256": "0393898a858aaffcdb435d1ac3fc386302b5a5d885e450bf94e556d16b821cf2",
+      "en_sha256": "3a34e5825f99d409154f3041fb60cb8f7c4f6d8e39dfa11bc3acd93a1d8dfa84"
+    },
+    "dataList[id=10101].stageList[id=210].title": {
+      "pl": "Linia obrony 23-7, 11:00",
+      "kr_sha256": "566fcd981b128dd31b0deee111054e836ab54c65c1d82e02338145b7d38e5b73",
+      "en_sha256": "658cd784ef7fd809c29c18e55db0103dbf7d3b0629ffc4f472645da6d23bf4e0"
+    },
+    "dataList[id=10101].stageList[id=211].desc": {
+      "pl": "Ledwie weszliśmy piętro wyżej, ujrzeliśmy chmarę czerwi. Zaraz potem w błysku złotego światła powitały nas, niczym przywidzenie, mętne niebo, kanonada i wojenne okrzyki. Po urywanym głosie, który dobywał się spomiędzy zębów Gregora, poznałem, że jesteśmy w samym środku pola bitwy.",
+      "kr_sha256": "0393898a858aaffcdb435d1ac3fc386302b5a5d885e450bf94e556d16b821cf2",
+      "en_sha256": "3a34e5825f99d409154f3041fb60cb8f7c4f6d8e39dfa11bc3acd93a1d8dfa84"
+    },
+    "dataList[id=10101].stageList[id=211].title": {
+      "pl": "Linia obrony 23-7, 11:00",
+      "kr_sha256": "566fcd981b128dd31b0deee111054e836ab54c65c1d82e02338145b7d38e5b73",
+      "en_sha256": "658cd784ef7fd809c29c18e55db0103dbf7d3b0629ffc4f472645da6d23bf4e0"
+    },
+    "dataList[id=10101].stageList[id=212].desc": {
+      "pl": "Ledwie weszliśmy piętro wyżej, ujrzeliśmy chmarę czerwi. Zaraz potem w błysku złotego światła powitały nas, niczym przywidzenie, mętne niebo, kanonada i wojenne okrzyki. Po urywanym głosie, który dobywał się spomiędzy zębów Gregora, poznałem, że jesteśmy w samym środku pola bitwy.",
+      "kr_sha256": "0393898a858aaffcdb435d1ac3fc386302b5a5d885e450bf94e556d16b821cf2",
+      "en_sha256": "3a34e5825f99d409154f3041fb60cb8f7c4f6d8e39dfa11bc3acd93a1d8dfa84"
+    },
+    "dataList[id=10101].stageList[id=212].title": {
+      "pl": "Linia obrony 23-7, 11:00",
+      "kr_sha256": "566fcd981b128dd31b0deee111054e836ab54c65c1d82e02338145b7d38e5b73",
+      "en_sha256": "658cd784ef7fd809c29c18e55db0103dbf7d3b0629ffc4f472645da6d23bf4e0"
+    },
+    "dataList[id=10101].stageList[id=220].desc": {
+      "pl": "Na polu bitwy walczymy z ludźmi o owadzich ciałach, takich jak Gregor. Nie wiedziałem, gdzie jesteśmy ani kim oni są, ale miałem przeczucie, że to może być sprawka Złotej Gałęzi.",
+      "kr_sha256": "29f6f4acc72f438da21e1727bfaf25c1d71b5073fa1f989d14bc000acfa81198",
+      "en_sha256": "5dee745e0b9a7677cbcb1acc83dfa44dcd1475263ff7dbfe97a7b50788c3daac"
+    },
+    "dataList[id=10101].stageList[id=220].title": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=10101].stageList[id=221].desc": {
+      "pl": "Na polu bitwy walczymy z ludźmi o owadzich ciałach, takich jak Gregor. Nie wiedziałem, gdzie jesteśmy ani kim oni są, ale miałem przeczucie, że to może być sprawka Złotej Gałęzi.",
+      "kr_sha256": "29f6f4acc72f438da21e1727bfaf25c1d71b5073fa1f989d14bc000acfa81198",
+      "en_sha256": "5dee745e0b9a7677cbcb1acc83dfa44dcd1475263ff7dbfe97a7b50788c3daac"
+    },
+    "dataList[id=10101].stageList[id=221].title": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=10101].stageList[id=230].desc": {
+      "pl": "Na polu bitwy walczymy z ludźmi o owadzich ciałach, takich jak Gregor. Nie wiedziałem, gdzie jesteśmy ani kim oni są, ale miałem przeczucie, że to może być sprawka Złotej Gałęzi.",
+      "kr_sha256": "29f6f4acc72f438da21e1727bfaf25c1d71b5073fa1f989d14bc000acfa81198",
+      "en_sha256": "5dee745e0b9a7677cbcb1acc83dfa44dcd1475263ff7dbfe97a7b50788c3daac"
+    },
+    "dataList[id=10101].stageList[id=230].title": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=10101].stageList[id=240].desc": {
+      "pl": "Tomah, żołnierz o chłopięcej twarzy, wita nas, jakby w ogóle nas nie pamiętał, a otoczenie coraz bardziej traci sens. Czy tak potworne obrazy kryją się we wspomnieniach Gregora?",
+      "kr_sha256": "f8edcad4b2bc7c5473bbc7b9784ebdc77dec611aa4d670b294cbe82a6d6cb2c8",
+      "en_sha256": "ca40b533d8c7caf6702032bac47ac9d5853d3778ba2fe880c164198eaee45d1d"
+    },
+    "dataList[id=10101].stageList[id=240].title": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=10101].stageList[id=241].desc": {
+      "pl": "Tomah, żołnierz o chłopięcej twarzy, wita nas, jakby w ogóle nas nie pamiętał, a otoczenie coraz bardziej traci sens. Czy tak potworne obrazy kryją się we wspomnieniach Gregora?",
+      "kr_sha256": "f8edcad4b2bc7c5473bbc7b9784ebdc77dec611aa4d670b294cbe82a6d6cb2c8",
+      "en_sha256": "ca40b533d8c7caf6702032bac47ac9d5853d3778ba2fe880c164198eaee45d1d"
+    },
+    "dataList[id=10101].stageList[id=241].title": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=10101].stageList[id=242].desc": {
+      "pl": "Tomah, żołnierz o chłopięcej twarzy, wita nas, jakby w ogóle nas nie pamiętał, a otoczenie coraz bardziej traci sens. Czy tak potworne obrazy kryją się we wspomnieniach Gregora?",
+      "kr_sha256": "f8edcad4b2bc7c5473bbc7b9784ebdc77dec611aa4d670b294cbe82a6d6cb2c8",
+      "en_sha256": "ca40b533d8c7caf6702032bac47ac9d5853d3778ba2fe880c164198eaee45d1d"
+    },
+    "dataList[id=10101].stageList[id=242].title": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=10101].stageList[id=250].desc": {
+      "pl": "Tomah, żołnierz o chłopięcej twarzy, wita nas, jakby w ogóle nas nie pamiętał, a otoczenie coraz bardziej traci sens. Czy tak potworne obrazy kryją się we wspomnieniach Gregora?",
+      "kr_sha256": "f8edcad4b2bc7c5473bbc7b9784ebdc77dec611aa4d670b294cbe82a6d6cb2c8",
+      "en_sha256": "ca40b533d8c7caf6702032bac47ac9d5853d3778ba2fe880c164198eaee45d1d"
+    },
+    "dataList[id=10101].stageList[id=250].title": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=10101].stageList[id=251].desc": {
+      "pl": "Tomah, żołnierz o chłopięcej twarzy, wita nas, jakby w ogóle nas nie pamiętał, a otoczenie coraz bardziej traci sens. Czy tak potworne obrazy kryją się we wspomnieniach Gregora?",
+      "kr_sha256": "f8edcad4b2bc7c5473bbc7b9784ebdc77dec611aa4d670b294cbe82a6d6cb2c8",
+      "en_sha256": "ca40b533d8c7caf6702032bac47ac9d5853d3778ba2fe880c164198eaee45d1d"
+    },
+    "dataList[id=10101].stageList[id=251].title": {
+      "pl": "Linia obrony 23-7, 15:36",
+      "kr_sha256": "dca9a1d3c18928565e4283a55667acadd97d502b786cb9e7970f22369981224e",
+      "en_sha256": "fbd047322d5bd9de339a2c4d6efba43064400b1fe62470288c5a27bfdab1cfad"
+    },
+    "dataList[id=10101].stageList[id=260].desc": {
+      "pl": "Tomah, żołnierz o chłopięcej twarzy, wita nas, jakby w ogóle nas nie pamiętał, a otoczenie coraz bardziej traci sens. Czy tak potworne obrazy kryją się we wspomnieniach Gregora?",
+      "kr_sha256": "f8edcad4b2bc7c5473bbc7b9784ebdc77dec611aa4d670b294cbe82a6d6cb2c8",
+      "en_sha256": "ca40b533d8c7caf6702032bac47ac9d5853d3778ba2fe880c164198eaee45d1d"
+    },
+    "dataList[id=10101].stageList[id=260].title": {
+      "pl": "Linia obrony 23-7, 15:36",
+      "kr_sha256": "dca9a1d3c18928565e4283a55667acadd97d502b786cb9e7970f22369981224e",
+      "en_sha256": "fbd047322d5bd9de339a2c4d6efba43064400b1fe62470288c5a27bfdab1cfad"
+    },
+    "dataList[id=10101].stageList[id=270].desc": {
+      "pl": "Olbrzymia dłoń ze wspomnień Gregora zagnała nas z powrotem do izolatki. Ale tak jak zejście z pola bitwy nie kończy wojny, tak i do Złotej Gałęzi wciąż mamy przed sobą kawał drogi.",
+      "kr_sha256": "3c6129165bb3c7fad088616f0172316826dad8899075e5f59afa8dc6e2a8f42a",
+      "en_sha256": "d60819e256bc63b52ce87db3d3d068766eb552a1e7b88ebcbdc17543c3a6e236"
+    },
+    "dataList[id=10101].stageList[id=270].title": {
+      "pl": "Linia obrony 23-7, 15:36",
+      "kr_sha256": "dca9a1d3c18928565e4283a55667acadd97d502b786cb9e7970f22369981224e",
+      "en_sha256": "fbd047322d5bd9de339a2c4d6efba43064400b1fe62470288c5a27bfdab1cfad"
+    },
+    "dataList[id=10101].stageList[id=30].desc": {
+      "pl": "Walka za walką Grzesznicy odnosili mniejsze i większe rany, i opadali z sił. Nadeszła pora, by cofnąć zegar. Faust rozgląda się, jakby szukała odpowiedniego miejsca.",
+      "kr_sha256": "c484cba532d948407d54b1daa1d247ca98665b5bd5a0ed56cbde494fc6609706",
+      "en_sha256": "0a6bc05e550114ddc8f7367d9054de17e429809b6b0b9f680f619e37699e870e"
+    },
+    "dataList[id=10101].stageList[id=30].title": {
+      "pl": "Korytarz izolatek 2",
+      "kr_sha256": "c8f8d722033807faa9d660aff9ab9ff17a8f5033d1b175d4cfc3add8a53619d2",
+      "en_sha256": "c1bf1561b6ec689960f2862b58147368ec8cf167fcd92eddd9ef3a580b64481c"
+    },
+    "dataList[id=10101].stageList[id=31].desc": {
+      "pl": "Walka za walką Grzesznicy odnosili mniejsze i większe rany, i opadali z sił. Nadeszła pora, by cofnąć zegar. Faust rozgląda się, jakby szukała odpowiedniego miejsca.",
+      "kr_sha256": "c484cba532d948407d54b1daa1d247ca98665b5bd5a0ed56cbde494fc6609706",
+      "en_sha256": "0a6bc05e550114ddc8f7367d9054de17e429809b6b0b9f680f619e37699e870e"
+    },
+    "dataList[id=10101].stageList[id=31].title": {
+      "pl": "Korytarz izolatek 2",
+      "kr_sha256": "c8f8d722033807faa9d660aff9ab9ff17a8f5033d1b175d4cfc3add8a53619d2",
+      "en_sha256": "c1bf1561b6ec689960f2862b58147368ec8cf167fcd92eddd9ef3a580b64481c"
+    },
+    "dataList[id=10101].stageList[id=40].desc": {
+      "pl": "Walka za walką Grzesznicy odnosili mniejsze i większe rany, i opadali z sił. Nadeszła pora, by cofnąć zegar. Faust rozgląda się, jakby szukała odpowiedniego miejsca.",
+      "kr_sha256": "c484cba532d948407d54b1daa1d247ca98665b5bd5a0ed56cbde494fc6609706",
+      "en_sha256": "0a6bc05e550114ddc8f7367d9054de17e429809b6b0b9f680f619e37699e870e"
+    },
+    "dataList[id=10101].stageList[id=40].title": {
+      "pl": "Pokój socjalny",
+      "kr_sha256": "75e019c0d28a8a7c4a0ce82d0d9177ee403e50b6b233cee08ded29ad3c5b680f",
+      "en_sha256": "2f25ac63ecfc8e74dc67c9906e4026d728b8af481b510e0f946bab3d6ccfb0ac"
+    },
+    "dataList[id=10101].stageList[id=50].desc": {
+      "pl": "Cofnąłem zegar i wszyscy Grzesznicy szczęśliwie doszli do siebie, ale filia wygląda coraz złowieszczej. Szedłem dalej z nadzieją, że tylko mi się wydaje, jakby kolce oplatające korytarz jeżyły się, gotowe w każdej chwili przebić czyjeś ciało.",
+      "kr_sha256": "481b38b7f75de14a6f23d0948efcf11e2e8f6996af83963dd10aeda5dfae8294",
+      "en_sha256": "f23d4d433ef10651b929dc0981b1bfa471e12bf803da1c2aee9c51b4b0c1d970"
+    },
+    "dataList[id=10101].stageList[id=50].title": {
+      "pl": "Łącznik Zespołu Informacji",
+      "kr_sha256": "7b496854c8a461fd76d52198fe637ca65f2a6b84dcf7c28732ff8fe058b59798",
+      "en_sha256": "3d4e0a606362e4a8cbb8d22aedfb6384dc4b6971cf3bfe29ee6a02e9d364a698"
+    }
+  }
+}

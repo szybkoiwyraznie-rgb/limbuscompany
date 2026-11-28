@@ -1,0 +1,96 @@
+9900||PersonVoice#Voice_Meursault_Wcorp_10503.json] 여전히 유별난 사람이시군요.|You are certainly a peculiar individual.
+9901||PersonVoice#Voice_Meursault_Wcorp_10503.json] 목적지까지 가기 위하여.|Onto our destination.
+9902||PersonVoice#Voice_Meursault_Wcorp_10503.json] 규정에 없던 내용이군요.|This was not in the procedures.
+9903||PersonVoice#Voice_Meursault_Wcorp_10503.json] 규정대로 했을 뿐입니다.|I merely followed the procedures.
+9904||PersonVoice#Voice_Meursault_Wcorp_10503.json] 네, 목적지를 향해.|Understood, I’ll get you to your destination.
+9905||PersonVoice#Voice_Meursault_Wcorp_10503.json] 승진은… 익숙합니다.|Promotions… That, I am used to.
+9906||PersonVoice#Voice_Meursault_Wcorp_10503.json] 목적지를 말씀해주신다면, 안내해드리겠습니다.|Tell me your destination, and I’ll guide you there.
+9907||PersonVoice#Voice_Meursault_Wcorp_10503.json] 이해가 되지 않는 것은 많지만, 그중 하나가 지각을 하는 자들입니다. 회사에서 요구하는 기본적인 소양이라고 생각합니다.|There are many things I fail to comprehend, and those who are late to work are one of them. I believe timely arrival is a basic requirement for an employee to meet.
+9908||PersonVoice#Voice_Meursault_Wcorp_10503.json] 저와 대화하는 걸 즐겨하는 이는 드뭅니다. 그렇지 않은 관리자님은 유별난 사람이겠군요.|Few people enjoy conversing with me. That would make you a strange one, Manager.
+9909||PersonVoice#Voice_Meursault_Wcorp_10503.json] 이 시간대에는 햇빛을 쬐곤 합니다. 햇빛을 아무 때나 볼 수 있다는 것이 낯선 탓이었을 수도 있겠군요.|I often expose myself to sunlight at this hour. It may be attributed to the fact that the nature of my occupation prevented me from seeing it frequently.
+9910||PersonVoice#Voice_Meursault_Wcorp_10503.json] 제시간에만 돌아오시길.|Do make sure to return in time.
+9911||PersonVoice#Voice_Meursault_Wcorp_10503.json] 시체들을 보는 건 익숙합니다. 그것이 유쾌하다는 뜻은 아니지만.|I am familiar with dead bodies. Familiarity does not assure pleasantness, however.
+9912||PersonVoice#Voice_Meursault_Wcorp_10503.json] 돈키호테는 W사에 입사한 것이 자랑스럽다고 하더군요. 조금 신기했습니다.|Don Quixote says she is proud to have joined W Corp. I found that rather curious.
+9913||PersonVoice#Voice_Meursault_Wcorp_10503.json] 만약 워프 열차를 이용하신다면 미리 말씀 주셔도 괜찮습니다, 관리자님의 파편은 제가 모아드리겠습니다.|If you’re ever taking a WARP train, you may let me know, Manager. I will personally pick up your pieces.
+9914||PersonVoice#Voice_Meursault_Wcorp_10503.json] 누군가와 공감한다는 것이 그렇게 중요한 일이었다면… 사규에 명시되었어야 했을 겁니다.|If it is actually that important to empathize with others… they should have stated as much in the company guidelines.
+9915||PersonVoice#Voice_Meursault_Wcorp_10503.json] W사는 유독 퇴사자가 많은 기업이었습니다. 그들의 마지막 모습은 항상 눈물과 침 범벅이더군요. 구태여 이해하려는 노력은 하지 않았습니다.|W Corp. saw particularly many resignations. The quitting employees always had copious amounts of tears and saliva about their faces. I did not make an active effort to comprehend their behavior.
+9916||PersonVoice#Voice_Outis_Blackwater_11112.json] …큭.|... Kah.
+9917||PersonVoice#Voice_Outis_Blackwater_11112.json] 명을 수행했습니다. 비록 묘의 손실은 컸지만, 신경 쓰실 것 없습니다. 사라진 만큼 묘는 다시 얼굴을 드러낼 것입니다.|I have carried out your command. The Mao branch has suffered significant losses, yet it is not for you to worry. More of us shall appear to fill the void.
+9918||PersonVoice#Voice_Outis_Blackwater_11112.json] 그림자가 그들을 덮었습니다. 청소부가 다녀가고 날이 밝으면, 죽은 자의 흔적을 찾으려는 자들이 와도 아무것도 알 수 없을 것입니다. 볕이 들면 그림자는 거두어지므로.|They are now in the shadows. Once the Sweepers finish their night's labor, once the day breaks anew, those seeking traces of the departed shall leave empty-handed. The umbra dissipates in the sun's light.
+9919||PersonVoice#Voice_Outis_Blackwater_11112.json] 내가… 죽어도… 묘는…|I may die here... but... the Mao branch shall...
+9920||PersonVoice#Voice_Outis_Blackwater_11112.json] 제 실패가 흑수의 실패는 아닙니다. 저 역시 수많은 짐승 중 하나인, 아무것도 아닌 자일 뿐. 곧 실패를 덮기 위한 다른 짐승 떼가 나타날 것입니다.|My failure is not the failure of our Heishou Pack. I am but one of many beasts... for I am nobody, nothing at all. More will arrive in droves to erase this failure.
+9921||PersonVoice#Voice_Outis_Blackwater_11112.json] 베어내리.|I will cut them down.
+9922||PersonVoice#Voice_Outis_Blackwater_11112.json] 불쌍하게 울부짖는군.|What a pathetic cry.
+9923||PersonVoice#Voice_Outis_Blackwater_11112.json] 이제 끝내지.|You're finished.
+9924||PersonVoice#Voice_Outis_Blackwater_11112.json] 주군께서 찾아오시는 건… 아니, 말씀하십시오.|My lord, to be present here in your person is— No, my lord. Please, do speak your will.
+9925||PersonVoice#Voice_Outis_Blackwater_11112.json] 야음을 틈타.|Through the dead of night.
+9926||PersonVoice#Voice_Outis_Blackwater_11112.json] …이 일에 더 적합한 토끼를 찾죠.|... Let us find a hare better suited to handle this.
+9927||PersonVoice#Voice_Outis_Blackwater_11112.json] 간단한 명령입니다.|Effortlessly handled.
+9928||PersonVoice#Voice_Outis_Blackwater_11112.json] 명을 받듭니다.|I accept your command.
+9929||PersonVoice#Voice_Outis_Blackwater_11112.json] 일러주신 적은 처리되었습니다. 다음으로 뜀박질할 곳을 알려주시겠습니까.|Your foe has been eliminated. To where must I hop next?
+9930||PersonVoice#Voice_Outis_Blackwater_11112.json] 토끼에게 붙을 이름은 없다. 나는 그저, 아무것도 아닌 그림자 속 짐승일 뿐이니.|The hare has no name. I am nothing but an animal lurking in the shadows.
+9931||PersonVoice#Voice_Outis_Blackwater_11112.json] 부르심이 없다면, 저는 볕이 들어 있는 동안 없는 것과 마찬가지의 존재입니다. 주군께선 주군의 집무에 충실하소서.|Without your calling, the shadow dissipates under the sun. You may focus on your business of the day, my lord.
+9932||PersonVoice#Voice_Outis_Blackwater_11112.json] 각자 자리했습니다. 아주 작은 신호만 전해주신다면, 토끼 떼가 달빛을 전부 가리울 것입니다. 적들의 눈에 마지막으로 담는 빛도 그것이 마지막일 테죠.|All in position. Give us but the smallest signal, and this husk of hares shall descend and blot out the very moon—the very last light your foes shall ever see.
+9933||PersonVoice#Voice_Outis_Blackwater_11112.json] 오찬이 준비되었다 합니다. 말씀하신 대로 식사 중에 일어날 부딪힘을 대비하기 위해, 저는 응달 속에 숨도록 하겠습니다.|Your luncheon is prepared. Now, I retreat into the shadows to ready myself for the assault you foresaw would unfold over this meal.
+9935||PersonVoice#Voice_Outis_Blackwater_11112.json] 주군께 감히 충고하건대, 저희를 도구로서 가까이하시되 마음으로는 멀리 두소서. 그림자에 사는 짐승들은 그저 주군이라 정해진 자에게 충성할 뿐, 사람에게 충성하지는 않으므로.|Impertinent as it may be, I must impart to you a word of advice. Hold us close as tools in your hands, my lord, but never close to your heart. The loyalty of beasts lurking in the umbra lies with the title, not the one who wears it.
+9936||PersonVoice#Voice_Outis_Blackwater_11112.json] 하나가 죽어도 둘이 나타나 상대할 것입니다. 사로잡힌다 한들, 저희는 그저 사라질 뿐 주군의 말은 들은 적이 없고, 주군의 행적은 본 적도 없는 몸입니다.|Where a shadow falls, two shall spring from whence it fell. Were we to be captured, we will dissipate like the traceless dust; we will have never heard nor seen of you, my lord.
+9937||PersonVoice#Voice_Outis_Blackwater_11112.json] 다른 흑수에게는 관심이 없습니다. 이미 그들에 대해, 필요한 정보는 전부 알고 있으므로. 주군께서 몇 무리의 흑수를 부리시는지, 그들이 각각 누구인지… 제게 알리실 필요 없습니다.\n제가 듣더라도 그건 한 순간의 그림자 연극일 뿐, 저는 도로 그것을 모르는 자로 돌아갈 것입니다.|I have no interest in the other Heishou, for I already know all that I must know about them. You needn't inform me of which Pack you wield, or the individualities of whom you wield.\nWere you to regale me of them nonetheless, it shall be but the ephemeral play of shadows, to be forgotten soon since.
+9938||PersonVoice#Voice_Outis_Blackwater_11112.json] 주군, 이 자리는 끝이 난 것 같습니다. 다른 토끼들은 이 건물에 더 물어뜯을 것은 없는지 주위를 맴돌고 있습니다.\n명하실 것이 더 없다면, 물러가겠습니다만… 혹시나 숨은 짐승이 없는지 주의 깊게 관찰토록 하겠습니다.|There is no more to be done here, my lord. The other hares are scouring the building in search of more to graze on.\nIf you have no remaining commands, I will excuse myself... but I will remain vigilant of other lurking beasts.
+9939||PersonVoice#Voice_Outis_Blackwater_11112.json] 야음의 땅은 짐승들에게 있어 가장 우위를 갖는 공간이다.\n…알겠나. 토끼가 네놈을 바라보고 있던 시점부터, 네 명줄이 그 순간 끊어졌다는 것이다.|The cover of darkness provides a great advantage to the beasts...\nDo you understand? Your life was forfeit the moment this hare locked its eyes upon you.
+9940||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 칫…|Tsk...
+9941||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 퍼레이드는 문제 없었지만… 몇몇 복장 불량이 보이는군. 내 의상이 그런 식으로 보여지는 건 용납 못한다고 말했을 텐데…!|The Parade itself went off without a hitch... but I saw some of you wearing outfits not up to my uniform regulations. Haven't I told you that I will not tolerate anyone wearing the clothes of my own making in such slovenly manners?
+9942||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 카니발 그 자체를 대표할 만한 퍼레이드였어… 훗. 주인공 의상이 오늘 따라 한층 더 돋보이는군. 누구 작품이겠나?|That was a Parade worthy of the Carnival... Heh. The Lady of the Parade wears a particularly dazzling dress... I needn't tell you whose design it is, must I?
+9943||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 가, 가면은 씌운 채로…! 죽여… 줘…|A-at least let me keep the mask on...! ... Then... kill me...
+9944||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 모든 게! 전부! 엉망이지 않나! 집에 돌아가기 부끄럽군… 아… 내가 돌아갈 집이 남아는 있던가?|Are! You! Seeing! This! Mess! I'm almost ashamed to return home in this state... Oh... But... to what home will I return? Is it even there, still?
+9945||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 떨거지는 잘라낸다!|I'll snip off the carbage!
+9946||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 허. 실밥이 터졌나?|Huh. Did the seams burst?
+9947||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 기워낼 가치는 없군. 그대로 무너져라.|Not even worth a patchwork. Fall apart where you stand.
+9948||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 음? 가면 꿰맨 끈이 떨어졌나?|Hm? Did the strap for your mask fall off?
+9949||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 카니발 타임.|Carnival time.
+9950||PersonVoice#Voice_Outis_Bloodfiend_11111.json] …이 어트랙션, 왜 작동을 안하지?|... Why won't this ride start?
+9951||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 훗. 당연히 내가 1등 스코어지.|Heh. I knew I'd be coming first.
+9952||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 나를 불렀나?|You called?
+9953||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 퍼레이드의 준비는 끝났나? 의상은? 무대 장식은? 하… 물렁해 빠진 것들. 내가 최종 점검한다!|How are the preparations for the Parade going? Costumes? Stage prop? Haah... you lazy bums. I will take over the final review of the preparations!
+9954||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 잘 왔군. 이제 진짜 치장이란 게 무엇인지 직접 보여주도록 하지… 기대하도록.|Welcome. I'll show you what it means to really 'dress up'... You may look forward to it.
+9955||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 퍼레이드가 밤에 있다고 늘어져들 있지 마라. 거기 너, 옷의 실밥이 터져있군. 당장 꿰맬 테니 어디 가지 말고 서있어. 아침은 결식이다.|Don't laze around just because the Parade doesn't start until nightfall. You there, your seams are tearing. Stand still and I'll fix you right up—and you're skipping breakfast today.
+9956||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 음… 좋아. 아주 아름다워. 내 의상과 가면들이 밤거리를 거니는 걸 보면 피곤한 기분 따위는 싹 날아가지.\n…잠깐, 저녀석 옷을 또 거꾸로…|Mm... very well. Positively dashing. Feasting my eyes on the costumes and the masks of my creation walking the night streets does wonders for alleviating my fatigue.\n... Hold on, that fool's worn his outfit inside-out again...
+9957||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 혈액바… 그 골판지 같은 걸 씹는 것 보단 차라리 굶는게 낫지. 아! 차라리 나와 슈팅 게임 코너나 점검하지. 아직도 나를 넘어선 점수를 낸 녀석을 본 적이 없거든.|Hemobars... I'd rather starve than chew on that piece of cardboard. Ah! Why don't you help me test the shooting range? No one's managed to best my score just yet.
+9958||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 이곳이 내 집이야. 집으로 돌아가던 길이었는데… 아니, 여기에 내 가족이 있고 어버이와 자식들이 있어.|This is my home. I was on my journey home, when— no. This is where my Family is. This is where my Father and Children are.
+9959||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 실력이 출중하니까 대표 이발사의 자리를 꿰차는 거다. 제3권속일 뿐이지만, 그 실력만큼은 이 가족 안에서 내가 가장 뛰어나다…\n아, 이건 어버이에 대한 도전이 아니니 오해하진 말도록.|I'm not THE Barber for nothing. Though I am but a Third Kindred, my skill with the art of cutting is second to none in our Familia...\n... This is not a challenge against the Father, so I would prefer if you didn't misconstrue my claims.
+9960||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 피부에 직접 꿰어놓기 위해서는 질기고 튼튼한 실… 아니, 아예 가죽 끈이 낫겠어.\n하아… 또 아무 가죽이나 쓸 순 없지. 내가 직접 구하러 다녀야겠군.|I need sturdy, durable string to sew these onto the skin... hm, no. I suppose leather straps would work better for that purpose.\nHaah... I suppose I can't use just any leather. I'll go find it myself.
+9961||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 잠깐… 누구야, 어제 어트랙션 관리한 놈! 총을 맞았는데 과녁이 안 넘어가잖아! 어버이께서 안 보고 계신다고 대충대충 할 생각이냐!|Wait... which one of you was responsible for the attraction maintenance yesterday?! You saw me hit the target, yes? Did you see it go down? No! Don't tell me you're slacking because Father isn't here to watch your every move!
+9962||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 싹둑, 싹둑. 거스러미 같은 천 조각은 전부 잘라내야하지. 카니발에 어울리지 않는 손님도 마찬가지야. 전부 귀퉁이 천만도 못하니.|Snip, snip. Every thread of fabric hanging like hangnails must be snipped off. Same goes for guests who do not mesh so well with the Carnival, those lesser than even my scraps of leftover fabric.
+9963||PersonVoice#Voice_Outis_Bloodfiend_11111.json] 하! 하하하하! 어이가 없어서 웃음이 다 나는군! 그런 격식 없는 복장으로 이 몸이 만든 어트랙션을 즐기려하다니!\n죽여… 아니지. 그대로 가만히. 직접 오려서 격식이라는 걸 만들어 주지!|Ha! Hahahaha! The sheer audacity makes me laugh! How dare you saunter in here with clothes so unbecoming of my attraction?!\nI'll kill— No. Sit still, and I'll cut you up and teach you what it means to dress for the occasion!
+9964||PersonVoice#Voice_Outis_Butler_11108.json] 들린다… 저 밑에서 나를 부르는 물소리가…|Oh, I hear it. The rush of the hypogean waters... it beckons me...
+9965||PersonVoice#Voice_Outis_Butler_11108.json] 자, 이제 워더링하이츠로 복귀한다. 밀려있는 저택 일이 한가득이니.|Now, let us return to Wuthering Heights. There are many tasks at hand.
+9966||PersonVoice#Voice_Outis_Butler_11108.json] 보고 계시는군요, 마님. 칭찬 감사합니다. 불청객들을 남김없이 모조리 처리했습니다.|Ah, you have witnessed me, my Mistress. I thank for your commendations; every single uninvited guest has been dealt with.
+9967||PersonVoice#Voice_Outis_Butler_11108.json] 안돼, 아직… 그 물을 한 모금 마시기 전엔…|No, I can't... not before I drink from the waters...
+9968||PersonVoice#Voice_Outis_Butler_11108.json] 교육과 준비가… 부족했습니다. 죄송합니다, 마님.|My deepest apologies, Mistress. We were... underprepared.
+9969||PersonVoice#Voice_Outis_Butler_11108.json] 이 땅과 마님에게 손끝이라도 대려는 자가 있다면…|If anyone even dares to lay their hands on this land, on the Mistress...
+9970||PersonVoice#Voice_Outis_Butler_11108.json] 불청객은 찌그러져 있도록.|Leave now or suffer, uninvited guest.
+9971||PersonVoice#Voice_Outis_Butler_11108.json] 초대받지 않은 것들은 모조리 치워버린다.|Every uninvited thing must be removed from the premises.
+9972||PersonVoice#Voice_Outis_Butler_11108.json] 불편한 점이라도 있으십니까.|Is something not to your liking?
+9973||PersonVoice#Voice_Outis_Butler_11108.json] 다음 오찬까지는 돌아오겠습니다.|I shall return before the next luncheon.
+9974||PersonVoice#Voice_Outis_Butler_11108.json] 저의 실책입니다, 죄송합니다. …마님.|This was my fault. My deepest apologies... Mistress.
+9975||PersonVoice#Voice_Outis_Butler_11108.json] 분부대로 완료했습니다.|I have done as you commanded.
+9976||PersonVoice#Voice_Outis_Butler_11108.json] 불청객을 맞이할 시간인가 보군요.|Time to receive the uninvited guests.
+9977||PersonVoice#Voice_Outis_Butler_11108.json] 아, 마님이 내리신 선물이군요. 감사히 받아들이겠습니다.|Ah, a gift from the Mistress of the manor. I most graciously accept her offering.
+9978||PersonVoice#Voice_Outis_Butler_11108.json] 신발의 흙은 제대로 터셨습니까? 부디 당부드리건대, 이 저택에서 제 허락 없이 가구 하나 함부로 건드시지 않는 편이 좋을 겁니다.|Did you make sure to clean the dirt from your boots? I implore you to not touch a single thing, even furniture, in this manor without my explicit permission.
+9979||PersonVoice#Voice_Outis_Butler_11108.json] 이 저택의 숨통을 터주어야 할 시간이군. 자, 다들 커튼을 열어라. 몰아치는 바람과 한 줌의 햇빛이 이곳 허파까지 들어올 수 있도록 활짝.|It's time to let the manor breathe. Open the curtains. Let the rushing gale and the pale ray of sunlight breathe through the manor's lungs!
+9980||PersonVoice#Voice_Outis_Butler_11108.json] 폭풍이 몰아치고 있군요. 그러니 창문을 열어놓겠습니다. 그래야 마님이… 마님의 말씀이 더 선명하게 들릴 테니까.|The tempest howls... I shall open the windows. So that... so that the voice of my Mistress grow clearer to my ears.
+9981||PersonVoice#Voice_Outis_Butler_11108.json] 추위를 느끼신다면 이 난롯가에 몸을 녹이십시오. 아마 당신이 이 저택에서 따뜻함을 느낄 수 있는 유일한 장소일테니까요.|Warm yourself by this hearth should you feel the chill in your bones. It is the only place in this manor where you may feel any degree of warmth.
+9982||PersonVoice#Voice_Outis_Butler_11108.json] 당신이 이 저택에 발을 들인 순간부터, 어디에 숨어있든 마님은 느낄 수 있습니다.|She's noticed your presence the moment you stepped foot in this manor. You cannot hide from the Mistress, no matter where you are.
+9983||PersonVoice#Voice_Outis_Butler_11108.json] 혹시 찾을 것이 있다면 제게 말씀하십시오. 이 곳의 모든 식기와 가구의 배치는 제 손아귀 안에 있으니까요.|Do not hesitate to ask me if you are looking for something. I know this manor like the back of my hand; I know every location of every item in this house, from furniture to the smallest utensil.
+9984||PersonVoice#Voice_Outis_Butler_11108.json] 시럽은 두 스푼 반, 온도는 적당히 미지근하게, 오늘 보실 서류는 올려두었습니다. 미친 늑대의 사냥은 얼마 남지 않았으며, 저희는 모두 빠짐없이 준비되었습니다.|Two and a half spoons of syrup, temperature moderately yet pleasantly warm. Documents waiting for your review have been placed on the desk.\n... The hunt for the frenzied wolf is nigh, and our preparation cannot be more complete.
+9985||PersonVoice#Voice_Outis_Butler_11108.json] 제 선대들은 모두 이 저택 아래에 묻혀있습니다. 이 기약 없는 계약은 까마득하겠지만, 반드시 이행될 날이 올 것입니다.|My ancestors are all laid to rest beneath this manor. Though the end of this contract lies in an ineffably far future... I know that its terms shall one day come to be.
+9986||PersonVoice#Voice_Outis_Butler_11108.json] 이따금 이 땅 깊은 곳에서부터 참을 수 없는 갈증을 느낄 때가 있지만… 언젠간 보답받을 그날을 위해 견디고 있습니다. 마침내 모든 고행이 끝나고 한 모금을 목울대에 넣을 때, 얼마나 황홀할지…|There are times when I would feel this insatiable, hypogean thirst... But I endure, for I await the day when this suffering would be rewarded. When that single swill of the waters graces my parched throat... oh, it shall be so ecstatic...
+9987||PersonVoice#Voice_Outis_Butler_11108.json] 우리는 이 저택이 딛은 땅과 계약을 맺은 존재들입니다. 그 계약이 완수되기 전까지 어떤 것도 저희를 감히 막을 수 없죠. 몰아치는 폭풍도, 벼락도, 그 망할 늑대 놈도.|We are contracted with the earth that this manor is built upon. No wuthering tempest, no lightning, no accursed wolf shall stand in our way until the contract is fulfilled.
+9989||PersonVoice#Voice_Outis_Cinq_11106.json] 깔끔한 결투였습니다. 모두가 이 검 앞에 침묵했군요.|A fair duel. All fell silent before this blade.
+9990||PersonVoice#Voice_Outis_Cinq_11106.json] 방금의 결투를 그림으로 그려냈다면, 분명 이것은 걸작이었을 것입니다.|I can say with certainty that a painting of this duel would become nothing short of a masterpiece.
+9991||PersonVoice#Voice_Outis_Cinq_11106.json] 크윽… 이런… 수치가…|Gah... what... a shame...
+9992||PersonVoice#Voice_Outis_Cinq_11106.json] 결과에 승복하는 것도 결투자의 예법… 이겠죠.|I suppose a proper duelist must accept when she is... beaten.
+9993||PersonVoice#Voice_Outis_Cinq_11106.json] 완벽한 거리군.|A perfect distance.
+9994||PersonVoice#Voice_Outis_Cinq_11106.json] 흥, 뻔하지.|Hmph, predictable.
+9995||PersonVoice#Voice_Outis_Cinq_11106.json] 자, 나의 승리다.|Ah, my victory.
+9996||PersonVoice#Voice_Outis_Cinq_11106.json] …지금은 바쁩니다.|... I'm a bit preoccupied at the moment.
+9997||PersonVoice#Voice_Outis_Cinq_11106.json] 나의 상대는, 어디 있는가!|Step forth, my opponent!

@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=10th_anniversary_event_desc].content": {
+      "pl": "Zaloguj się w trakcie wydarzenia, aby odebrać [Bilet Dekstrakcji Gwarantowanej 3★ oraz Szaleństwo]",
+      "kr_sha256": "d27710f0a0bcc56b4e82b27a48040a821c6ef00c64c6f39439317a10a9009add",
+      "en_sha256": "7efd7b0b4cebb21357be28a6c82968ce65e010de2ec438f791c6e17cdeac933f",
+      "origin": "ai"
+    },
+    "dataList[id=9128_chapter_notice_button_title].content": {
+      "pl": "Uwagi o rozdziale",
+      "kr_sha256": "40a55384c4559a137ddec00740cd41e72336f6706d988f6dd0bfed74224f7418",
+      "en_sha256": "e981ddae45d8f4ca53f1ccbe613ad254a041dacf65a06026099a6302d332113b",
+      "origin": "ai"
+    },
+    "dataList[id=9128_chapter_notice_enter_title].content": {
+      "pl": "Czy chcesz wejść do <color=#3246AB>[Rozdziału {0}: {1}]</color>?",
+      "kr_sha256": "d12365e5df7aa8668fa8b03c6eed1e64c277ee68321c9f4f3d996f385f9a1f9d",
+      "en_sha256": "2aa8963b1d26c7e67a6be7bf45127b9e9f2ec25860c130c6812391765ae821d8",
+      "origin": "ai"
+    },
+    "dataList[id=9128_chapter_notice_popup_desc].content": {
+      "pl": "◆ <color=#ff6000><mark color=#ff000040><b><u>Rozdział 10 Głównej Opowieści można rozegrać</u></b></mark></color> nawet bez ukończenia poprzednich rozdziałów.\n◆ Zawiera <color=#ff6000><mark color=#ff000040><b><u>spoilery aż do Rozdziału 9.5</u></b></mark></color>.\n◆ Jeśli ukończysz Rozdział 10 bez przejścia wcześniejszych rozdziałów, <color=#ff6000><mark color=#ff000040><b><u>zawartość wymagająca postępów fabularnych (Lustrzane Lochy, Kolej Załamania, Wydobycie, Walki Projekcyjne itd.) pozostanie zablokowana</u></b></mark></color> do czasu spełnienia odpowiednich warunków.\n◆ Aby odblokować przyszłą zawartość wymagającą Rozdziału 10, <color=#ff6000><mark color=#ff000040><b><u>ukończ zarówno Rozdział 10, jak i etap 9.5-26</u></b></mark></color>.\n◆ W Rozdziale 10 <color=#ff6000><mark color=#ff000040><b><u>udostępniane są wybrane Tożsamości Wsparcia dla Meursaulta</u></b></mark></color> (Synchronizacja / Splot Nici na poziomie 4).\n◆ W Rozdziale 10 <color=#ff6000><mark color=#ff000040><b><u>wszystkie sojusznicze Tożsamości mają gwarantowany co najmniej 3. poziom Synchronizacji</u></b></mark></color> (poziom Splotu Nici E.G.O nie ulega zmianie).",
+      "kr_sha256": "15893a3a27f8243c71781dac356a58c9cdcc3c88f6c5296339b7186eaeab687d",
+      "en_sha256": "1f869d0528e629cea1fc852f0d1b4c1bbd9d65513a26e7ae4aa900f1413c281a",
+      "origin": "ai"
+    },
+    "dataList[id=9128_chapter_notice_popup_title].content": {
+      "pl": "Obecnie rozgrywany rozdział to <color=#3246AB>[Rozdział {0}: {1}]</color>.",
+      "kr_sha256": "28af84abbb19093e834e858195abdab740950cdadcfac7dfa14a9ab9d8c18c38",
+      "en_sha256": "e7df0b0bae9544aa5fa6d2bfe4ba76d2ca53f1455ef20f25a0224e20677e50d9",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueConfirm_Desc_Rpg_Stage].content": {
+      "pl": "Na etapie 10-4 użycie funkcji Kontynuacji w trakcie walki nadal pozwala uzyskać ukończenie EX.\n\nJednakże jeśli po użyciu Kontynuacji <color=#990000>wygrasz walkę bez ponawiania, porażki ani poddania i postęp zostanie zapisany</color>,\n<color=#990000>późniejsze porzucenie etapu 10-4 nie zwróci waluty zużytej na Kontynuację.</color>\nZużyte Szaleństwo nie podlega zwrotowi.",
+      "kr_sha256": "c02f919926faea9ceeb447f0e16d69d170a364a9d3b21f519b5a9d62d6dca39a",
+      "en_sha256": "0fdee92f2201c5b2923bcaba2266948a06a66d6af3e21d9f4041adda601ff3f8",
+      "origin": "ai"
+    },
+    "dataList[id=battle_walpu10_ego_page_history_ashes].content": {
+      "pl": "Aby spalić na popiół wszystko, co jasne…",
+      "kr_sha256": "a99afcb8afc4b910761348dddc0b169c7bd24d972f6fea8d19d165b8d69a0396",
+      "en_sha256": "7903e468e6d83e8d25b1886a1d5b7a8e2d80a7824fd650b367056a75123d3077",
+      "origin": "ai"
+    },
+    "dataList[id=battle_walpu10_ego_page_history_gluttony].content": {
+      "pl": "Dlaczego trwamy u twego boku?\nOczywiście po to, by cię chronić!",
+      "kr_sha256": "e35d4f72f9827b0b258c51d4952f1a9edc52fa1e56f2b3b985d331b5944e6e47",
+      "en_sha256": "a1a2acd449130fb756db964e31ad19a0c48f390f256681df17267a9583e6aff8",
+      "origin": "ai"
+    },
+    "dataList[id=battle_walpu10_ego_page_history_nostalgic_embrace].content": {
+      "pl": "Przytulisz mnie mocno? Od razu zrobi ci się lżej na duszy.",
+      "kr_sha256": "f1bb99620354f817a40037eec148ecd50c82ad665bac05ebd3c8dca1134adc19",
+      "en_sha256": "7a2ccce7f2bfd8ace127803179213432f849f03703673e16a09452d4288c63d6",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_friend_support_companion_impossible].content": {
+      "pl": "Na tym etapie nie można użyć Tożsamości Wsparcia dla powiązanego Grzesznika ({0}).",
+      "kr_sha256": "fe7ee6d7d28b1a462d0a0ed3e84e76fc8785f20d6d8362ebb925b453e308007e",
+      "en_sha256": "655ba5a1e8f7bd6ee17eda69eca9c168d4c677282e99a20cfd0c991ada1aeba9",
+      "origin": "ai"
+    },
+    "dataList[id=exp_dungeon_10_open_condition].content": {
+      "pl": "Ukończ 9.5-26 oraz 10-4",
+      "kr_sha256": "8111d21965754b1fed5729cc4014db6f7dae59d230fe126f122b0070c4cac90b",
+      "en_sha256": "40b213c9d11fffdd9fc22fee0fa005945cce44f5952984e4d2f1b0b823803ed1",
+      "origin": "ai"
+    },
+    "dataList[id=formation_deck_code_condition_reset].content": {
+      "pl": "Tożsamości niespełniające warunków składu zastąpiono Tożsamościami Bazowymi.",
+      "kr_sha256": "e853189edd29eb32c0245967b779e05ce6b923f794d1119aa184d19027f77ada",
+      "en_sha256": "ba79bc4b3de9c12f87de149c8eb0dad8c3acfaa04e374726d88fde03683194e6",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_current_owned].content": {
+      "pl": "Zasoby E.G.O",
+      "kr_sha256": "d7752f028dd06fb1630ebd3bbab28a63da99f51d9f64a9f96e21df7e3f7a1ef6",
+      "en_sha256": "2dd34475cf065d8ecbc32eac435b6651f5853b4c0894b2ba32ae76cd164a30fb",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_current_owned_desc].content": {
+      "pl": "Liczba posiadanych obecnie zasobów E.G.O.",
+      "kr_sha256": "e9281e2aaa0c8cad76faa434bce630e58690c1f549d266da6092c1f24ae809b5",
+      "en_sha256": "ed7d4f737ffba394b4d9c4b46b32bb14736bbc77ff40e38866c3a1342f05b2c9",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ui_panel_start_battle_lor].content": {
+      "pl": "Rozpocznij Przyjęcie",
+      "kr_sha256": "d3556375911284a89db4c95f4886f82df3d4c13bc1e1fe1b0df4e76dde9912b6",
+      "en_sha256": "e11ddc7735f5c411be5ce93e1b94e6af48ac5971619c802c47a6cf8092d65333",
+      "origin": "ai"
+    },
+    "dataList[id=gacha_307_additional_explain_desc].content": {
+      "pl": "Fikserka Biura Klina Don Quixote oraz Fikser Biura Klina Sinclair są traktowani w Ekstrakcji jako pojedyncza Tożsamość 3★ — wylosowanie jednej z nich zawsze przyznaje obie naraz.\n\n· Szanse pojawienia się pary Fikserka Biura Klina Don Quixote i Fikser Biura Klina Sinclair:\n  - W Ekstrakcji Celowanej, w której para jest wyróżnioną Tożsamością 3★: taka sama szansa jak dla 1 wyróżnionej Tożsamości 3★\n  - W pozostałych Ekstrakcjach, w których para występuje: taka sama szansa jak dla 1 niewyróżnionej Tożsamości 3★\n(szczegółowe wartości znajdziesz w oknie [Szczegóły szans] danej Ekstrakcji).\n\n· Gwiezdny Blask również naliczany jest jak za jedną Tożsamość 3★ — przy pierwszym zdobyciu pary otrzymasz łącznie 300 szt. Gwiezdnego Blasku.\n\n· W Ekstrakcji Celowanej z tą parą obie Tożsamości można wymienić łącznie za 200 pkt Yisang [Ideału].\n\n· Ponowne wylosowanie posiadanej już pary przyznaje 25 Odłamków E.G.O Don Quixote oraz 25 Odłamków E.G.O Sinclaira z bieżącego sezonu zamiast standardowej liczby Odłamków.\n\n· Po dodaniu pary do Automatu obie Tożsamości można kupić razem za łącznie 400 Odłamków E.G.O Don Quixote i Sinclaira. Należy użyć co najmniej po 1 Odłamku każdego z dwojga Grzeszników, a pozostałą proporcję można dobrać dowolnie.\n\n· Podnoszenie poziomu, Synchronizację oraz Projekcję Wyglądu wykonuje się osobno dla każdej z dwóch Tożsamości, zużywając standardową ilość materiałów dla Tożsamości 3★ danego Grzesznika.",
+      "kr_sha256": "a0e1c41d78280e536dd158e82aaa5d5f0a9cd9745d174ffd7791d58fd0a0c28f",
+      "en_sha256": "93cafa32cb80a5b5629b0375c67579e2aa477160a2d649dbadb423f5693e04b6",
+      "origin": "ai"
+    },
+    "dataList[id=gacha_307_additional_explain_title].content": {
+      "pl": "Tożsamości Parzyste",
+      "kr_sha256": "f418df9cad36887f73a41a839de9ba9d419055c973b98591f28a01f99bf8e287",
+      "en_sha256": "5ce7ba46dfcf1390fbcc824b874883398987f1db228611a81abe1afe450d8094",
+      "origin": "ai"
+    },
+    "dataList[id=gacha_additional_explain_button_label].content": {
+      "pl": "Tożsamości Parzyste",
+      "kr_sha256": "f418df9cad36887f73a41a839de9ba9d419055c973b98591f28a01f99bf8e287",
+      "en_sha256": "5ce7ba46dfcf1390fbcc824b874883398987f1db228611a81abe1afe450d8094",
+      "origin": "ai"
+    },
+    "dataList[id=main_ui_rpg_accept_defeat].content": {
+      "pl": "Poddaj się",
+      "kr_sha256": "c1f1102e79f0f0f9ee8e99c36715d8eda79c8ba673c01bf363ea6bcfd925c80f",
+      "en_sha256": "33d9fa026b03ea8e56a80e519ac9a9c15ef87cc4306db4fe00501083d7e7c0b0",
+      "origin": "ai"
+    },
+    "dataList[id=main_ui_rpg_accept_defeat_desc].content": {
+      "pl": "Wróć do Źródełka z ostatniego zapisu",
+      "kr_sha256": "8267acc711cbdec42ec7ca904f75f12d0477636f23c16db02c6b9419b61e7575",
+      "en_sha256": "8d74f66baac2d10665d209effbbb81032fc3cf807fd7ad1f608089cc14c8726c",
+      "origin": "ai"
+    },
+    "dataList[id=main_ui_rpg_battle_defeated_desc].content": {
+      "pl": "<color=#990000>Wszyscy Grzesznicy polegli.</color>\nWybierz dalsze działanie.",
+      "kr_sha256": "6bfb98288b79aa766dd80f7110f094b7da9e725bd713d9f77f06a211bf3cb86b",
+      "en_sha256": "8bf2c447bc40c1d3c07c91d7e5c4feb9c3dc41eb56a00b28450fc6a086a10a29",
+      "origin": "ai"
+    },
+    "dataList[id=main_ui_rpg_battle_defeated_title].content": {
+      "pl": "Porażka w Walce",
+      "kr_sha256": "448c75d266c787bab94bce60c9c5028fc5b71b8d644e8dc4dcc89ee47bc1713c",
+      "en_sha256": "1eab7b2380371620a593fae59c97a9c386e4df3e7faa4ae5dd5bf15de814024b",
+      "origin": "ai"
+    },
+    "dataList[id=main_ui_rpg_retry].content": {
+      "pl": "Ponów próbę",
+      "kr_sha256": "a04d1b511a2ed020936cab39a4396f5ba0832aa0b8cf6837af16809fad7dea1c",
+      "en_sha256": "df0fe9e00d354b01c502bf2d9c755a2b0d8a1ec3719a389d086ad2f8667ef8f4",
+      "origin": "ai"
+    },
+    "dataList[id=main_ui_rpg_retry_desc].content": {
+      "pl": "Rozpocznij tę walkę od początku",
+      "kr_sha256": "6e49ca0fc6d3b95e360a8d201b4cc59f45dd92fd41a1dd07b948217cac457bbd",
+      "en_sha256": "a6d2598b48f3bf31ec3b9ce8a583c8a18c9be129bb823fb69370f010ceced32b",
+      "origin": "ai"
+    },
+    "dataList[id=notice_of_pity_point_progress_or_not_already_have_companion].content": {
+      "pl": "Posiadasz już obie wybrane Tożsamości. Czy chcesz wymienić 200 pkt Yisang [Ideału] na po 25 Odłamków E.G.O każdego z tych Grzeszników?",
+      "kr_sha256": "4351015c020b831f005a824724b3cabe4c565f31dcb89c4d8772d8c3dcbec696",
+      "en_sha256": "b2b452c2b1582c06a3be3f3076358776904a32092ae930a7e8a3a70715dd665c",
+      "origin": "ai"
+    },
+    "dataList[id=notice_of_story_same_content].content": {
+      "pl": "Zawartość identyczna z {0} — odebrano wyłącznie nagrodę.",
+      "kr_sha256": "13a0793396b32b559e8f318d6d8273b2dec5dfa9a8b3d7c4fde8ed15d14abe0d",
+      "en_sha256": "339ef435737b540245c211cb3d12baca316db2f8e05bfa2ad42964801ea1dd33",
+      "origin": "ai"
+    },
+    "dataList[id=notice_of_vending_machine_companion_1].content": {
+      "pl": "Obie Tożsamości można kupić razem za łącznie 400 Odłamków E.G.O Don Quixote i Sinclaira. Należy użyć co najmniej po 1 Odłamku każdego z dwojga Grzeszników, a pozostałą proporcję można dobrać dowolnie.",
+      "kr_sha256": "6cefedcf6ec87598b361abed987776aa4e056f930985a7acc7679ec4ad593ab7",
+      "en_sha256": "2b069a96e99a2894e1c6703cfd31907369286f2fca11fd33475eaa4fe28cf52d",
+      "origin": "ai"
+    },
+    "dataList[id=settings_battle_effect_gate].content": {
+      "pl": "Ukryj rekwizyty Tożsamości/E.G.O w kluczowych walkach fabularnych",
+      "kr_sha256": "3e5db4b7bccfe8081b80f0a54133d162f701c078d4cca1332365476f0f324380",
+      "en_sha256": "908097ce3dfeef1c6e0e3d9c0e1ce0665566df094b121db45081bdabf3e0b281",
+      "origin": "ai"
+    }
+  }
+}

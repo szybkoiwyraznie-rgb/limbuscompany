@@ -1,0 +1,106 @@
+{
+  "entries": {
+    "dataList[id=85560101AMBER].content": {
+      "pl": "Bursztynowy",
+      "kr_sha256": "590486163ad4893a836cdf9500081d358828b2e7f50eb00d78946025fb52d1db",
+      "en_sha256": "a5cccbcead7dcd65375ec6ea6ec28e3cd59af94417bbbee3276764c5d60ae5e9",
+      "origin": "ai"
+    },
+    "dataList[id=85560101AZURE].content": {
+      "pl": "Błękitny",
+      "kr_sha256": "7fb41a4af8214e2aadbac99d6ccb412b3799237778cc4db6158b068b5b713f25",
+      "en_sha256": "3140d22d8cb307e2e7ffbae4a07225e09537ce90c32033582f01d979c0ad8f26",
+      "origin": "ai"
+    },
+    "dataList[id=85560101CRIMSON].content": {
+      "pl": "Karmazynowy",
+      "kr_sha256": "c00ed601d54c3e8fccc1c1f8829d8cdf6335b90fc6ad85564534de1761c0ab64",
+      "en_sha256": "133f94844291880fffae2ac52cc43e8c725c24997ab8b43a07aad8894290bd84",
+      "origin": "ai"
+    },
+    "dataList[id=85560101INDIGO].content": {
+      "pl": "Indygo",
+      "kr_sha256": "bc9f1471505a11787bcc7afa2d0c7d263f6e465bc942badb97c82c4336d563f5",
+      "en_sha256": "af564ee93fcd2c56af7df4fcea1bbf38e18a637ff734283e604b60397559c4cf",
+      "origin": "ai"
+    },
+    "dataList[id=85560101SCARLET].content": {
+      "pl": "Szkarłatny",
+      "kr_sha256": "712a85b56c8012afb9239a10556e149b72c9f916baa7b3c47b1487b3fce0b4a5",
+      "en_sha256": "f11da03479fb834c862fae946e9fe8091c9edf34a2b84e29219d05b5abf09dea",
+      "origin": "ai"
+    },
+    "dataList[id=85560101SHAMROCK].content": {
+      "pl": "Koniczynowy",
+      "kr_sha256": "5dce503bafa05c08e44a32312a76f77a729619102c2945c7b3f8e3ae5f2fef79",
+      "en_sha256": "bd09b63386acd78f1d874c69057f4d5c592faf3a0469fe91ca81b59435a2caaf",
+      "origin": "ai"
+    },
+    "dataList[id=85560101VIOLET].content": {
+      "pl": "Fioletowy",
+      "kr_sha256": "57035fb880a9318ec780d1ed58771b9fc6085f916eaaf6e14d322dad9927284e",
+      "en_sha256": "2a36428839a37e680cdce701c1100a695cf2cac101f81f594ba4ec8c8c8a8d3b",
+      "origin": "ai"
+    },
+    "dataList[id=ADD].content": {
+      "pl": "Dodanie",
+      "kr_sha256": "8bfb4afcb29e40efa2105a162c157a425d63abe52bf094b92ae0d361616653da",
+      "en_sha256": "9fd728c66c9a256b121472dabf32a34317aed01d8427d70ec830289cf23a7cc8",
+      "origin": "ai"
+    },
+    "dataList[id=EGO_GIFT].content": {
+      "pl": "Dary E.G.O",
+      "kr_sha256": "92eb16c2f8c5a7d468fbe2e0ae40b6e970f3afa405d2463f785c84ae07ac9315",
+      "en_sha256": "3b29846471e3afd6d84f2229d76dc40f94d3f89f1c90c299c982ef8ff9993d7d",
+      "origin": "ai"
+    },
+    "dataList[id=FAILURE].content": {
+      "pl": "który nie zaliczył testu",
+      "kr_sha256": "1f7361bce31e2be44c634f8264bd20e3f1fb05c67f10870b5c817a2fcc4dc940",
+      "en_sha256": "0e0293506dfb8d6fedec8dd4076fc6d6ff7f8fab78592a06357eacfb9f4187bc",
+      "origin": "ai"
+    },
+    "dataList[id=IncludeSkillAttribute].content": {
+      "pl": "z Umiejętnością ataku o Afiniczności [ATTRIBUTES]",
+      "kr_sha256": "0b7346072ab72e6b93faeada6d4477272a576e9f92fab4b915638b845ce7de21",
+      "en_sha256": "59fff1961859776d08de6685edbe2047657b2223343deb3bd0f896c2e1336059",
+      "origin": "ai"
+    },
+    "dataList[id=LowestMp].content": {
+      "pl": "z najniższą Poczytalnością",
+      "kr_sha256": "ba7ff1d1f547c247f01102ed9c30789f3bb89d1e3946f5d47624fc2ed86ae166",
+      "en_sha256": "076d354ffc8f2295a70ee8096c1a7451fb3351894d159f70cf416c5c7cfeb615",
+      "origin": "ai"
+    },
+    "dataList[id=NextBattle].content": {
+      "pl": "uczestniczący w następnej walce",
+      "kr_sha256": "a3608a3705f9f77b5ee11d9d2dab33ce5e7915bb0e87e1a2883bfef2a6497584",
+      "en_sha256": "d81972da8490da1ff1414e40b0b0dbb80a588c594cc4f9684c3cdb8e0af8287d",
+      "origin": "ai"
+    },
+    "dataList[id=NotIncludeSkillAttribute].content": {
+      "pl": "bez Umiejętności ataku o Afiniczności [ATTRIBUTES]",
+      "kr_sha256": "8639275a6b6c7e61968224c6f69e3e35594b7d4c44a6d691f3a5e04ba357ea03",
+      "en_sha256": "5a5e6475807c4246d491e32543d7e1f2a742fdb288f1bf4e93a070997f3863e2",
+      "origin": "ai"
+    },
+    "dataList[id=OnStageStart].content": {
+      "pl": "Po wejściu na etap",
+      "kr_sha256": "fb4cdde237d915b0dcab8460890e072f1b9c06850a12371d5b2cea57c6c82003",
+      "en_sha256": "8855a4a95cd812f51564c01750e358df5398b0e252bc8daa58882f6b4e76252b",
+      "origin": "ai"
+    },
+    "dataList[id=SUB].content": {
+      "pl": "Odjęcie",
+      "kr_sha256": "dcf119656c35fe9af2b0c8085f2dba5348dd03b950a88de496e5e29b4e47e11d",
+      "en_sha256": "63df016f961c5684d4c795008031fd4d9483e23dc827fe95dc385c782038b22b",
+      "origin": "ai"
+    },
+    "dataList[id=SUCCESS].content": {
+      "pl": "który zaliczył test",
+      "kr_sha256": "d8b51f812ced974579d3ffcfbbe033cfff1801aabe4578b1dd16d09fb2c8defc",
+      "en_sha256": "1cc054b3bc01803dd8347f5b73509fd08a0698f2dcc7d179b8f4a30c514a4ff0",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=44].desc": {
+      "pl": "Zdobyto na 1. Poziomie Darmowej Przepustki Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "8ad2ea6f828a20b09ce151ac67c7a777db7ae7c5d5759f21b682fbe49abfed9d",
+      "origin": "ai"
+    },
+    "dataList[id=44].name": {
+      "pl": "Banner Świętowania Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "a8ae5964fce22c886b8d49ac0c2d84ac7ad53413ae60f37290c6922555bf2430",
+      "origin": "ai"
+    },
+    "dataList[id=45].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "df96693e514f14333e233ca64a3257f56c23fc5ab12bceb57ca2cdc45e613498",
+      "origin": "ai"
+    },
+    "dataList[id=45].name": {
+      "pl": "Banner Ukończenia Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "ef9a49014b47e06a768a867ae3585d2b00cd6618d2ad0d5fd9bacf0396d966cf",
+      "origin": "ai"
+    },
+    "dataList[id=46].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "e25d47b1849b43c70a345ed72c7eb561e1913c826913f11e89b02b6144c1cd86",
+      "origin": "ai"
+    },
+    "dataList[id=46].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "be4f66c9f04d3d40444d6f101fd9b8c297c453b4eb6215e1d912a714cd59293f",
+      "origin": "ai"
+    },
+    "dataList[id=47].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "e25d47b1849b43c70a345ed72c7eb561e1913c826913f11e89b02b6144c1cd86",
+      "origin": "ai"
+    },
+    "dataList[id=47].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 5 II",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "96ed9aee8a8f9c9577089805c6e8335eb777d7f73971fd904bb5349de71ec5ee",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=1488].name": {
+      "pl": "The Overseer",
+      "kr_sha256": "438a4cc8bfbe13d96f3cc8077e8abedace2a3dbb754724d2537627838ff51063",
+      "en_sha256": "23845d7ca03935699f7123636c13b518aef2017ec4af1ee3876050394c92255b",
+      "origin": "ai"
+    },
+    "dataList[id=1491].name": {
+      "pl": "Tanned Prisoner",
+      "kr_sha256": "785b2e474dfd43bf6ac19b370516f61b2cb0bd500967ad7d870b9f0b377590c8",
+      "en_sha256": "60a533d5fbfc4b153c209ae9ad10e912b41668b4beb9f73201d0eb106a82aaa7",
+      "origin": "ai"
+    },
+    "dataList[id=149501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1495].name": {
+      "pl": "Annette the Alterationist",
+      "kr_sha256": "eebddf8db1b7edba8ddff68fb62e96a456cd33acffaa862791553bdf1bc07b66",
+      "en_sha256": "96de05204474e17f2376c82a1c6a5ff8fba30037202918671ab87d5338d6d74a",
+      "origin": "ai"
+    },
+    "dataList[id=150101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1501].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=150201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1502].name": {
+      "pl": "One Who Emerged from the Earth",
+      "kr_sha256": "82d25188cf52a9d5280eabb75318f3903e003d7e0cdfa045fc6f3cd8664e1bdd",
+      "en_sha256": "01e4b2d2089294cfafea40b48c1f35993e3bbaca3927061237909d5785060ba7",
+      "origin": "ai"
+    },
+    "dataList[id=150301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=150302].name": {
+      "pl": "Lewe Ramie",
+      "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
+      "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
+      "origin": "ai"
+    },
+    "dataList[id=150303].name": {
+      "pl": "Prawe Ramie",
+      "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
+      "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
+      "origin": "ai"
+    },
+    "dataList[id=1503].name": {
+      "pl": "Blackthread of the Elden Sea",
+      "kr_sha256": "bc6d89e735cdebff7ac8f7569c065a6dff3fca805cf33bdbee74acb69e156c32",
+      "en_sha256": "206e0787d827d7c65b2d3aeeabe41f3692cb2f96c2ba6dce2a4bd9ac0e5862e2",
+      "origin": "ai"
+    },
+    "dataList[id=150401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1504].name": {
+      "pl": "Flannel",
+      "kr_sha256": "1a40344390fa883beb5f025fa578177b42042fd28a388a9743874a4b8fe0091c",
+      "en_sha256": "afa8bb6bcf374495decd3aa31190682b58fcb2121ca031fc70015deb67479b37",
+      "origin": "ai"
+    },
+    "dataList[id=150501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1505].name": {
+      "pl": "Maison du Noir",
+      "kr_sha256": "15d27f53d2c04cac213bf91d2109b6f648582022225f36af45ea669702804e9d",
+      "en_sha256": "d24d3609c17bbd66b91ce241d85c27a239ce47b63477a3ee9173f45b852d21e8",
+      "origin": "ai"
+    },
+    "dataList[id=1506].name": {
+      "pl": "Le Noir's Brand Manager",
+      "kr_sha256": "3a6ec7c3d2411800e4a1ae0460430883e92f6780fd493226411d09ef95fdd5ad",
+      "en_sha256": "7aa54e5865ccd0666ee602cf8010d2e1c526d272681b44e3bd4f81964fd15263",
+      "origin": "ai"
+    },
+    "dataList[id=1513].name": {
+      "pl": "Le Noir Sales Associate",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[id=151901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1519].name": {
+      "pl": "Putty",
+      "kr_sha256": "4ff97d99c8605be8f3de3ca9fbee9eeae2f35397dd1436167f7aa7fcd01e55d6",
+      "en_sha256": "9b5fdd443bbeeaa19405d20abfd7866b4a65cd4e82b82f50e68f6a4a53c40a76",
+      "origin": "ai"
+    },
+    "dataList[id=1531].name": {
+      "pl": "Le Noir Sales Associate",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    }
+  }
+}

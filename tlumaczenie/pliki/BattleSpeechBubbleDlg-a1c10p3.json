@@ -1,0 +1,622 @@
+{
+  "entries": {
+    "dataList[id=10SV-051_1].dlg": {
+      "pl": "Accord.",
+      "kr_sha256": "cee4aa8e3084f6befd11ef35a32633d73fe0eb563c7a399048005ffb54d3b8e1",
+      "en_sha256": "110b15b2db9b9770abb27544bce973ac5ad3c5d1c9ba5a2abb4283f42eddc035",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-051_2].dlg": {
+      "pl": "Pique!",
+      "kr_sha256": "1c8fc681e505f1e4f3b892887a315cf655fef9d45ca1b5bd119d508de337cdd2",
+      "en_sha256": "a75cebf9837aad2b9a900e3217be5e212c66e9cc48ff6d3fd2ea319c3792b590",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-052_1].dlg": {
+      "pl": "Wylewajcie się.",
+      "kr_sha256": "e1cd7488ea5e8a6897b04a755b916ec25ef70c46933a1c9cf11529e222eb47f0",
+      "en_sha256": "df9960ab75d4694a140a443644e465a243b8253552f2b6b540d0c71b6e56ccf9",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-053_1].dlg": {
+      "pl": "Spożywajcie. Ucztycie się.",
+      "kr_sha256": "5b86b8a618c844a9d804c73c6eef10d65f49f432800cf1283fb453b996bf6cfb",
+      "en_sha256": "28bcb623cb61866bb856837bca1aaacff28aa63c9813ad9ac20b348d24fe1483",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-053_2].dlg": {
+      "pl": "Napełniajcie się. Napełniajcie znów.",
+      "kr_sha256": "37fcdeb8424b75e5e07849888d3e8e0f80dba15ca13b1a32007127aa16413599",
+      "en_sha256": "d3784ea9996feb61043e19fae5edab008456c133f13b178828a3d1f7e0781b5a",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-054].dlg": {
+      "pl": "Nie odpoczywajcie, nim głód drapie dalej..",
+      "kr_sha256": "a6825974465d3e8580d8e7c78a20560fb59c2aa0b0be269555c7ff50481e5168",
+      "en_sha256": "2d9bb6a86e830a590c4a0cd06a9d03859f2daa9d858b6d41cc34275865b3bdf9",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-055_1].dlg": {
+      "pl": "Bez końca...",
+      "kr_sha256": "eca2877bdbf23af80f3d549e3689d91098d4889981c1220468fb0495dec161f3",
+      "en_sha256": "c14f32b6983ef3655fc147ef625737ca1aa0faf4e923381360ef53f2b43dd7a6",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-055_2].dlg": {
+      "pl": "Pójdziemy naprzód!",
+      "kr_sha256": "e89aa3e62516bf0bba88dfda3acf5c773e1de48d418745374b3b12e8a9e41f96",
+      "en_sha256": "5d93153e4a411fab9a4c3d04fbe4618258fbb29e54c8d2163d3c2531c96d5024",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-056_1].dlg": {
+      "pl": "Bez śladu resztki.",
+      "kr_sha256": "dd0612e3592ee3a830bf29e5bd3c40f2fb6dff47b86721a6beb66ca872c0056e",
+      "en_sha256": "1d67bcf6ee39772c0df2b15274837f9e4acf9fb5188df5fc7e6530c40f0bceaa",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-056_2].dlg": {
+      "pl": "Ani okruszka!",
+      "kr_sha256": "74050de4e7b2f6f90dafb98ed82d0cbfbc17de5e01448bd47469c16c80b0e589",
+      "en_sha256": "72b1a8a913233c09c821faf04a12e55d346d9bb959fd5a13e4799c9e00fd03f3",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-056_3].dlg": {
+      "pl": "Pożerajcie wszystko!",
+      "kr_sha256": "ffdaf5fe657633a0cc0e7cb07ecd442aa81cc6b6c461c8cfdc722e1a01bfb255",
+      "en_sha256": "c53e8b93bf3b5e55ba5d0c3f6f0bc09ddd03bfd3002f176b0a954eab4a514554",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-057_1].dlg": {
+      "pl": "Głód, którego żadna uczta nie nasyci.",
+      "kr_sha256": "070fb317c94e69953475c8aae3545b255adb45e44106cbd42a1b3f412931645b",
+      "en_sha256": "b152142578e82bb17d2186e9b786903f86680c9496c85075e20f2b9bd91729ea",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-057_2].dlg": {
+      "pl": "Pustka w środku.",
+      "kr_sha256": "75d840a36d57e3f8f22901c1eb04e2b2b474849ee58d80ee51f2e7c21f08f61f",
+      "en_sha256": "3258f77a7507d6a20a8bccafb284c752cc549090f7a706c41324b214b4187f59",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-058-01].dlg": {
+      "pl": "... i napełnić Rouges po brzegi!",
+      "kr_sha256": "80747c94e90db7db756f21afa1216d696b0ec815aa7b4c772ccae04a8e0c393e",
+      "en_sha256": "310c0d9fb8683f32b54b5cbb4acd5b722bbe04078494d54ad539a01ef547c64e",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-058].dlg": {
+      "pl": "Pożeram nawet te wspomnienia...",
+      "kr_sha256": "037ae4b1b183811a1263a320a0f25bb223dd91e308fca9306b93142d6c88f1c7",
+      "en_sha256": "0f2ac752b82a32572c260de8a8cf357514faa807f6cf5dea406c233a6ad43751",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-059].dlg": {
+      "pl": "Moje istnienie... natura... głód... wciąż nie rozumiem.",
+      "kr_sha256": "3218885da65ce861ded7549343a86b4efa9ad6355044dc828ce39aef447d6f05",
+      "en_sha256": "9554cbf19e26fc772f068b4911f205c1ea07ba4940b7cfbe0b56c6bafd4c3a58",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-059_1].dlg": {
+      "pl": "Moje istnienie...",
+      "kr_sha256": "73cc23e3c937e485ceea333eb6283f34798c37a6168400f05822eb6373f35c0c",
+      "en_sha256": "544b0176aabc819d64d6e707456a0bfbdd710433df03741c421a468e0bede0dc",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-059_2].dlg": {
+      "pl": "Natura...",
+      "kr_sha256": "44368acbc4440037fb4e93faf183d73b914305740b763bb99065cfb615ee8897",
+      "en_sha256": "e432eda588597857b317bf1382a1931691105a5859792836ee25ea15ee7325c8",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-059_3].dlg": {
+      "pl": "Głód.",
+      "kr_sha256": "ce6b3a248eb7050ad3b6d9d23be508cbedee3e55417dd60b98ea52fe29190e93",
+      "en_sha256": "3b450aee453c67559f8a3606482aa0618832aaf54fd99e7648fcc3b714bdf064",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-059_4].dlg": {
+      "pl": "Wciąż nie rozumiem.",
+      "kr_sha256": "0b8a519fca523165d3350df6013f62686395cb68cd6fb65401507c385d9802e8",
+      "en_sha256": "6c38e4734db408172a2d9e28348a3a21939c0472f305a736daf6fec0b6d7f980",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-061].dlg": {
+      "pl": "Pamiętam. Chodziłam po Grand Magasin w tych ślicznych kwiatowych bucikach, które mi podarowałeś.",
+      "kr_sha256": "da1940fbcd80362b0351935a2b93c96db15b2edd8cfa7042c16888927b0889b8",
+      "en_sha256": "54551d805ce9c1ee9c8ce7e637715721ad4107306dcf16b62d2612e3dc058768",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-062].dlg": {
+      "pl": "Znowu zraniłam... tych, których chciałam chronić przed bólem.",
+      "kr_sha256": "fa054d10b2ab0f92ccbee1686323d51d660679ed68ba30c88c733d599f62fbd9",
+      "en_sha256": "e7f5f11c7f93dfb25e8aa9b4c0e4ac95751fb43af5a0b2bd0a81e0da49bc1e3e",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-063].dlg": {
+      "pl": "I pożarłam... tych, którzy nazywali mnie potworem.",
+      "kr_sha256": "db5416fbb91d05518584b501cb800951059c79d3538ffd43b14cc61f996c7e37",
+      "en_sha256": "1cec1deda405bc65d6abc29a40b7e3e3d9a6e797823398edb6769338d2cbd540",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-064].dlg": {
+      "pl": "Prowadzona naturą, związana obowiązkiem... przyodziałam cnotę i wzniosłam się jako Głos Le Rouge...",
+      "kr_sha256": "e7146b0910ab5d8c40811b533dab1f3410932ff1913e4009ec2b894ace027dc7",
+      "en_sha256": "f6750257ee581e27b2aadf9e6a9c56063bb113674d0e8b089bf1d32c6ab7c6b7",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-065].dlg": {
+      "pl": "A więc... już nigdy nie będę mogła chodzić obok was.",
+      "kr_sha256": "d6c881f8e410375f3c196139e9c39e5ff8958a46cfa0eb9a9cbe390af9119c01",
+      "en_sha256": "8079ae48dc6a402a2ec336938f26a86295f774b28c129fc662bfa16c3cf9b89b",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-066].dlg": {
+      "pl": "Nie opieraj się pobudkom natury.",
+      "kr_sha256": "5fb76e823ba4b88fd09ffb75dd42c57fa0af2f49a49dc632f4355c053d9015a9",
+      "en_sha256": "e13ef8347eed7c7d95251aadedb8ed8d0875b8a1b1bea99659db3a608824342e",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-067-01].dlg": {
+      "pl": "Jako Głos, który nosi pragnienia i oczekiwania wszystkich, moja rola... to udzielić odpowiedzi.",
+      "kr_sha256": "8580ed3131179c8a8ba44d1ae2821046ff5ba24fb27e8ff5fa2100bfa3f07a47",
+      "en_sha256": "f3364e2fdc4d6ceef28d0b4936c42723508e8244f09823e0eef43cf53fc31ef1",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-067].dlg": {
+      "pl": "Wciąż mam tak wiele pytań... Ale nie wolno mi już ich zadawać.",
+      "kr_sha256": "72d04202e8652f73529c9ff8971a926a15e122a79e056efaf54f73ce0cb079dd",
+      "en_sha256": "f7387080cf6e58117377225ef512789c21cba0680e372642c3984405593c6ea8",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-069].dlg": {
+      "pl": "Ma puce. Nadszedł czas, by zamienić życie w los.",
+      "kr_sha256": "533a8e54f47b130cb2923bc44d5c6ed49bb809ec5491f13ddfb075290997b43f",
+      "en_sha256": "8f9604eecec08e5e8e61e1322cadca97f13c9d350b94b879954020e3b909e2a6",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-070_a].dlg": {
+      "pl": "Przestań. Nie przybijajcie mego świata — <i>jego</i> i mojego — waszym spojrzeniem.",
+      "kr_sha256": "b7985063342318e35efaefa8eed4a9392adc715bccfc24180440a19c2b99bc9e",
+      "en_sha256": "91c6fda9bd3e09551a179c3900b35cef68bb04f47a6580ce4a5faf0a4c2b8c99",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-070_b].dlg": {
+      "pl": "Przestań na mnie patrzeć. Niczego o mnie nie rozumiesz. Nie zgaduj, kim jestem, według własnego widzimisię.",
+      "kr_sha256": "5851d4018db66bf10c43996d9ee06ac86f2c3c1f787bd4fec90d462f6f8bb64c",
+      "en_sha256": "dd3266ab1021f36910e73f22bb124739c74b3e691bcf207d127bdad64b2041bb",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-071].dlg": {
+      "pl": "Jeśli mogę tak dryfować w nieskończoność... to już nigdy nie będę się bać.",
+      "kr_sha256": "fb32988eb3cf0b0e1f34e637084f5452a1e54bd404d1db2ebb30c55cf8aebf0d",
+      "en_sha256": "49640b3a682b42890d011e130975e26ae3ee4ca2fe067d52334f032d87b80861",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-072].dlg": {
+      "pl": "Pomaluję cały świat... swoim sercem. Swoimi gwałtownymi barwami.",
+      "kr_sha256": "4927fb30cad5dd61c8e685533b63ec1b2a47d3a307989cb97532d5783ede2767",
+      "en_sha256": "e3799d6b2a37ac81c3a0cc7a9c2bbaf228940842cf77b12cdabcb754eb3c211e",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-073-01].dlg": {
+      "pl": "Obowiązek? Żal? Odpowiedzialność?",
+      "kr_sha256": "2d3dd03fbc361bb9d8940007dc241c8b748f479a22447b8500f9b597967a24d4",
+      "en_sha256": "2879e5b4b6a4f61d69ba60a57c4c9199a323272fa322c8442c87f6002fe006d0",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-073-02].dlg": {
+      "pl": "Pozwólmy im odejść. Wszystkim.",
+      "kr_sha256": "a527d535f59226c5c424c8dbd1d631c0e3e702b21948d3c2831a729f41e0a15a",
+      "en_sha256": "37d1d1b419a66ffe92031b3e40d0e0c0b0da2ce68864bf13ba89378ef2ce4add",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-073].dlg": {
+      "pl": "Emocje przybite do mojego serca...",
+      "kr_sha256": "ac2d49f360d8045d31cd1e1bc88a686ac2b4fed8056fe8a6e674dadfe2fcfbde",
+      "en_sha256": "75ce8e24ac1558dd005766b04402ee33a3870fb16228623aef75e20e12f305ef",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-074].dlg": {
+      "pl": "Nie zdołałeś mnie dosięgnąć.",
+      "kr_sha256": "9b27c79175b84c53c09058e8da6541cee80e049c2d16fcc849d8df538bc7bb4c",
+      "en_sha256": "298dd53ad5e2802b3ea0596eef7771d4d83ef53d968953b1ce2558edb4e2fa72",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-075].dlg": {
+      "pl": "Ty też chcesz być zrozumiany, prawda? To czemu skrywasz serce i sam podstawiasz się pod ich gwoździe? Ma puce, dziś naprawdę ciężko mi cię... zrozumieć.",
+      "kr_sha256": "fcb3291444b654d2f2c7eb6771ce44606098da4aab3f2e8b766b140698573d79",
+      "en_sha256": "ca0947fd672bbd99a99e5699984089723fbab1487663282fc88fbf5e55e9b97f",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-076_a-01].dlg": {
+      "pl": "Côté!",
+      "kr_sha256": "fc321335329fbeec4fd093da41f1cc4c838132b4e8d1fcfafb628a64f7bbb8ec",
+      "en_sha256": "7259f3da87c04b086a8cb0e085024cf6eeab3fe1077d5b7ccac4e91825a0aa28",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-076_a-02].dlg": {
+      "pl": "Assemblé!",
+      "kr_sha256": "0aacbabd6f3c0bd0cdc3654a981b7a258ec645250381934298001d7064dfd853",
+      "en_sha256": "af9ced3b47cb62606d48769850d0d171cee5347530aa3402b39f62cca57591c2",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-076_a].dlg": {
+      "pl": "Marche!",
+      "kr_sha256": "4ab6dff0fbe91e37fc5b324acbab8347793e602ef85439c446bfc8afc0658133",
+      "en_sha256": "5a52a932657f9f95bbf5ce5945daff5aa0e62036b55f56ec075bca80909bf20a",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-076_b-01].dlg": {
+      "pl": "Deux!",
+      "kr_sha256": "b5d1157bafd96ae6887ace5774ccf7c20257de9e9ef9a0b73073f503236c1192",
+      "en_sha256": "e078b0507b11687c20bb36296530b75c1fddd9880860efd315afe7bdc5c0c3b7",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-076_b-02].dlg": {
+      "pl": "Trois!",
+      "kr_sha256": "d5c9aca700c8e36fa3b64aefcbda124916aa87fed0e6afcb4768df23fac243f9",
+      "en_sha256": "8c27ff66c792188e34d10ebd607aa5603bae678f9ee06a6be6e5d7a92c6cddc5",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-076_b].dlg": {
+      "pl": "Un!",
+      "kr_sha256": "eff0bed5ffc403470e3d2b00c5ad8a0e0ae8bdb5a87db16d3c3902f87c2ecaf6",
+      "en_sha256": "459cc2917d9b85e97831357d84d53020ada0e9e656020cb62d8e629e6d58d7d3",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-077].dlg": {
+      "pl": "Nie należało dawać, skoro nie miałaś zamiaru przyjmować.",
+      "kr_sha256": "8ffde815059bc36847d8c4463b2f0ff70abd293ad5ca4c3ecaf21e831b042f99",
+      "en_sha256": "73fae9334bef436271f87c2f287f43396f88a008246962cfd5293dc0b83d7d2b",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-078_a].dlg": {
+      "pl": "Jak ci się podoba? Czyż nie pięknie?",
+      "kr_sha256": "6aab4a0df3806b92f0615bc48498ef67e264e476e1fb6f24978cbb9124e7bf25",
+      "en_sha256": "84db665d6c70234152247fbb66a5d987d46e48a4ae45a038818cdc116bf895d3",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-078_b].dlg": {
+      "pl": "Widzisz? Rozumiemy się nawzajem.",
+      "kr_sha256": "80fe627228dcb03875d306d187c739e7b032dda5107982668d1f39832efa9f2a",
+      "en_sha256": "5903dd55a503afba3fc48f355a774a3746e1de5c98c83319a1935924c8ee6801",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-078_c].dlg": {
+      "pl": "Ma puce... mój świat stanie się kompletny tylko z tobą w nim.",
+      "kr_sha256": "055f62e3bfac3471c1bd5f550b28a54dc74f700af6dbc18461feff8c249b5375",
+      "en_sha256": "5853793941f170ff8783a619bb7143fbbc0d9282c845875ce54498da70aca105",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-079-01].dlg": {
+      "pl": "To nie ten tempo.",
+      "kr_sha256": "a2f8880d199039d1e1edb1edd9d568aeebb121da3bd2c327795569486f986f3e",
+      "en_sha256": "d4a8873fb684715937285cbff0a2ed05277a83deab3b5dff4e06136783e50922",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-079].dlg": {
+      "pl": "Zła noga. To nie ten krok!",
+      "kr_sha256": "7b398a911c7966f88b66dcf24c8accece1afbbca767529b3e412f4de279b257b",
+      "en_sha256": "171166d0377b096cbde181051e8e5af8d0a6967a6f9a5299da4e239f7c4753ce",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-080_a].dlg": {
+      "pl": "Przyszedłeś do mnie pierwszym krokiem, zatrzymałeś się na drugim, a na trzecim oddaliłeś się.",
+      "kr_sha256": "3bc343b746a07d4fdd150be22cc7d9c4e9b3100304037d685f434eee8f4e1f4e",
+      "en_sha256": "7d409df91eacf061ab7ce782f9d19d2f6ef4d2df5f4c0ee40fdb65758c1c899d",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-080_b].dlg": {
+      "pl": "No dobrze... a co potem? Dokąd wyciągniesz teraz stopę?",
+      "kr_sha256": "b02279b98bf1fa5a6df201ffc5aa23f98e2a45ac9fead1e8eb21439cf7a01349",
+      "en_sha256": "8d51e7048a9b63731dec3136139751ae0a98967255bc75d71bb0df6d139ef795",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-080_c].dlg": {
+      "pl": "Zabłądziłaś...? To po prostu wróć do mnie, jak pierwszy krok tego tańca.",
+      "kr_sha256": "2691d56135a34b12a60c69a15ca4428f8b506c14c30fac1f8e28d6945f8ac3cc",
+      "en_sha256": "5151fc1cdcd88216f154830b43a8ca96f7a6cbe914d5162585b06e9374d6de74",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-081_a].dlg": {
+      "pl": "Za późno na rozprawy o rozsądku. Scena — świat — nigdy nie była sprawiedliwa od początku.",
+      "kr_sha256": "c6db56ec0cedeb20cb11ae654afb8f292b50b61aebd5ecf5ad538f4c7e80df04",
+      "en_sha256": "d44fe5c854d534165096b9eecd6cea10e57180925863ab2ae8b0b1eef5f76058",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-081_b].dlg": {
+      "pl": "Jesteście okrążeni spojrzeniami. Czy jest gdziekolwiek wytoczyć krok?",
+      "kr_sha256": "81d430299ca2b7a9750a33ebf7b36d15b82f6f51b0b9358812a86b8904b1812a",
+      "en_sha256": "c87116417441afc0d144dde05377c12f91004c1d9a5a81257748139ac11446fa",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-081_c].dlg": {
+      "pl": "Piekło to inni ludzie. Przerażające, potworne piekło, którego nie chcę stawić czoła.",
+      "kr_sha256": "b345a34acd4869e186f1fe64b725f0a1058194b5d60d7b8d36af7d4d06b56ad7",
+      "en_sha256": "e1d8a841b9fa75389916826dca0f8cc46d734b939a446136a6c65b3a93e5965e",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-081_d].dlg": {
+      "pl": "Przestań myśleć. Przestań myśleć nawet o tym, by nie myśleć.",
+      "kr_sha256": "9424a2db3f4951beb1163137906dab84776e9f4e8a40d139315239da4392dfa6",
+      "en_sha256": "ea52fd8ba7f89af5dbe93074bd427bf7128d140fc2aee968ca1d2e222206a3b2",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-082].dlg": {
+      "pl": "Czas wznowić nasz taniec. Tańczcie w świecie, jaki widzę. Tańczcie na znaczeniu, które sam naznaczę.",
+      "kr_sha256": "a5cec10dc5e441e2c1e092a0b3b1f5927bcffd86a3d3f895adbbc3400c6b2096",
+      "en_sha256": "569f4b32c0b879a84c79186f8108a3dfd547c1581068816e907661d3ece41135",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-083].dlg": {
+      "pl": "Złap rytm. Forte... a potem piano.",
+      "kr_sha256": "f05a4fcf7e5a73b23c98851aca3a965b5b31ad32264848bb9bd478f7835695cf",
+      "en_sha256": "d9a737ae1536e2263e260d13d4488cff73366aabc17214fb516dcf5a1ca43b66",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-084].dlg": {
+      "pl": "Nie mogłeś zapomnieć... Kpiisz sobie ze mnie?",
+      "kr_sha256": "0694454162062290a1f4c882facaa66139a44d25cef379f7cd94d190c37e2cdb",
+      "en_sha256": "b81311c33837441995e49a49fdc6a5ef3d56fa31196f94cfa200908eac7b0b10",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-085].dlg": {
+      "pl": "Żaden z was nigdy nie dosięgnie tej ściany.",
+      "kr_sha256": "9dc5423b924407885c7d08baaa8de194eea0d1d2c74b38ddbdd3fc5c46303c2e",
+      "en_sha256": "ddfdc84ed239243c603ce5227332f5d22dd6edc1daae7836d60d3c06ef7f01de",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-086].dlg": {
+      "pl": "Nic nie istnieje tak, jak każe moje spojrzenie... aż się kręci w głowie.",
+      "kr_sha256": "14ced5717058a2d248be57a2231dcc9394cac2f0c6ef40f89a50e86d1768907c",
+      "en_sha256": "9108918808bf493d0426adf27a72b9178ab8a16c68fd4965946f446e53a80570",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-087-01].dlg": {
+      "pl": "Moje lęki.",
+      "kr_sha256": "ce15d48e58580a2ec490e296445b66504867e8b12756f3928088c2589fdc6c1b",
+      "en_sha256": "1885c8b2a1058436788301ede1fa03bf6eded533fd34079cdaf509f311a3f3be",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-087-02].dlg": {
+      "pl": "Poczuj — niezrozumienie przybitego pod obcym, wyobcowującym spojrzeniem.",
+      "kr_sha256": "dc89266f7991cd5804e9b7d4d7bda76ccdea3c59f7d1c36869d4fe3dbe6cb94a",
+      "en_sha256": "7f09594e1ff23a0b8d5b68945c484d98ad657e09415b34f2b424852daebe2e7d",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-087].dlg": {
+      "pl": "Mój niepokój.",
+      "kr_sha256": "1541ac55d94257450a516ea9ef48897eb98935b47e32c3df726e405f72a96269",
+      "en_sha256": "7e5c7aa42692248c5975ccde999da40608dbc8b0cc0b0feda678badde406d136",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-089-01].dlg": {
+      "pl": "Nie potrafisz mnie zrozumieć, Jeanne... dlatego wciąż próbujesz. Ja więc także...",
+      "kr_sha256": "9e26f199390097d3e115e45341a07080cd01d11f57ecb04595f64ce5f953d647",
+      "en_sha256": "cbfc60d6927c3376f77fdc7c98c31096d1db6e08f583e79886c3a90d2a50f507",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-089].dlg": {
+      "pl": "Nie potrafisz mnie zrozumieć, Jeanne... dlatego wciąż próbujesz. Ja więc także...",
+      "kr_sha256": "9e26f199390097d3e115e45341a07080cd01d11f57ecb04595f64ce5f953d647",
+      "en_sha256": "cbfc60d6927c3376f77fdc7c98c31096d1db6e08f583e79886c3a90d2a50f507",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-119].dlg": {
+      "pl": "Wiek Wieczności nastał. Cierpieć będzie przestępca...",
+      "kr_sha256": "dad733bd5a8af1b20433edd09af677d7232673764f1d7b86e31201ce4ba06e7b",
+      "en_sha256": "0539e97f57d0a1fc0a7a5d982ffbc770904e23ecca4ee01d47aebe2ecd47195a",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-120_A].dlg": {
+      "pl": "Zemsta nad tobą.",
+      "kr_sha256": "641de622030d20bbedb72470043ecfab9c15b0223931830219a01154beeeaf4e",
+      "en_sha256": "cbc17c0d4cfbcb85ba53f3aa2dd30964a5a50e86e001be4d2e14dcb357c750bd",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-120_B].dlg": {
+      "pl": "Bać się będziesz.",
+      "kr_sha256": "ab97d82ea80caca818250eb7af4afeabe00ae361aea26a27e6ac620ff1e2932d",
+      "en_sha256": "1efa6e7dd825895b06a71581863a080419d991309eaa8bca42a7a90739083ffc",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-121].dlg": {
+      "pl": "Potępiony bądź...!",
+      "kr_sha256": "0e5639bd932dd27eba94cf1ebf529477f344c5f595fd4eba882c399a466da155",
+      "en_sha256": "650173d39c98a984b7eae2fe9b89e311f190b83924c09ed07dbc8536fa7f2b14",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-122].dlg": {
+      "pl": "Spójrz na swe grzechy. Przyjmij swoją karę.",
+      "kr_sha256": "bda697e93d5468d5e0cd37ddbb8226f1c1e3a8674eb3afd88ad4d0ceec72e4f8",
+      "en_sha256": "37997e6a7d6032761cd6d0d6bfe42facd43ee2a1fd1e21c7590c62f88f60117f",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-123].dlg": {
+      "pl": "Bądź posłuszny.",
+      "kr_sha256": "ccf4f2facf27c6594a4bea946a111ebf6cbdd51a8cf1b41e2cb19ef81b8a3fb0",
+      "en_sha256": "f806bd128541d648923808f35fe4fac0b4db865d3aa18ef2a3cb429e34ac57e6",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-124].dlg": {
+      "pl": "Niech przestępca pamięta.\\nCi, którzy nie pokutują...\\nWrócą do prochu...",
+      "kr_sha256": "107f9c3fd504c2428b4a0949376c6900dd903010a0514e5890f15f7c554e8654",
+      "en_sha256": "5875f2b8f745b430ae41521c15053dc8c1183e16c9b2e8bec2d92d3deb952c9e",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-125_A].dlg": {
+      "pl": "Wspomnij swój grzech!",
+      "kr_sha256": "0444660bfa4367b6a11d4ffb3a86242b6fc80739ee9a25617bb17fbfd8b693fb",
+      "en_sha256": "fc24d4ebd44aeed0e961318a23af0afa37fc465af761a5fd919b45c144c4c9b2",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-125_B].dlg": {
+      "pl": "Żałuj!",
+      "kr_sha256": "46f6174cb522737bfb1d716ad85e6a467f69b849ab07bbc56c85b2a199d57d3c",
+      "en_sha256": "fcd98316a64a30a79ef5d20b2d18fde35fd42a31945961788df91bebb2097a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-125_C].dlg": {
+      "pl": "Oto dowód sądu.",
+      "kr_sha256": "041196e24be0e99d3bcee02e49425bfea5268449a5366b07f3d15185808ac1ad",
+      "en_sha256": "b5dc18d03d4e9e9765503376a43042e1d354c44f2c5b73aa017b0d9bbaa33fa6",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-126].dlg": {
+      "pl": "Świat został zamknięty...\\nŻadnego odpoczynku nie zaznają ci, którzy opierają się bez wiary i uciekają od tego, co mają znieść...",
+      "kr_sha256": "d7964b6ccc894afddedf81ecebe93a9cf83ec48dbe31d66aa784c8eba177fee0",
+      "en_sha256": "7259fccea7a10b4cdd046a6e22f60be1e5b3ae4dbd8c6d7bfc08766660a2c08c",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-127].dlg": {
+      "pl": "Dzień jest jak tysiąc lat... a tysiąc lat jak jeden dzień. O przestępco, rozlicz wieczność i żałuj grzechów swych...",
+      "kr_sha256": "95a0d4ffab4f4f16b05af7202568002657c766010c80073b4612529d02279b60",
+      "en_sha256": "3d41c468498abb1a1016263af83b4fe63b05d74b5a73a160b97159ec98362916",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-128_A].dlg": {
+      "pl": "Dusze pogrążą się w rozpadzie.",
+      "kr_sha256": "8afcd44e4085584112552b37478f2e0ef2d05b682b320c65d2ed026e8b1e407c",
+      "en_sha256": "729406d9bc37fd4cd45109da4cd08e00d6e56f02f030ba2728bba12e7837e707",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-128_B].dlg": {
+      "pl": "Drżyj wobec tego, czego pojąć nie zdołasz.",
+      "kr_sha256": "19081ef0b1a7d6be40cde71a08c95dd23f74f83a97235758985ad808854ee2c6",
+      "en_sha256": "24bde275c5fd4350d9dfddb4ac627d395c70422941aab1f6ea67cfab87c64352",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-128_C].dlg": {
+      "pl": "Oczy głupca zasnuje mgła.\\nSpoglądaj już tylko na swój grzech.",
+      "kr_sha256": "0e763185e27ce8525af2b658000700715d6a4570de51e9b304e6bb089420e45b",
+      "en_sha256": "98132f6d2426950954005f3d86ed380d2bf0e6ebf3d7fe86d182bb7390cdee57",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-129_A].dlg": {
+      "pl": "Niech młot sądu spadnie na serce przestępcy, pełne nieprawości i kłamstwa...!",
+      "kr_sha256": "420e4ecb11b879054477799f6f81c4f9c76fbc778a9dca2dd686cb63e087ff63",
+      "en_sha256": "d5baf266dfe9d0cfaf81a4817462487b0be40238b405330aba90399855195908",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-129_B].dlg": {
+      "pl": "Judgment... Sentencing... Condemnation!",
+      "kr_sha256": "b52a3b02aaa7193fd206b728dddc93cca516487a48ad365459ab85333c3e58e0",
+      "en_sha256": "3c3ed7c9d9e598461f1189ce9b7193dd471fe66833fc57e8a012ddce2efe4072",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-130].dlg": {
+      "pl": "Podporządkuj się Porządkowi...!",
+      "kr_sha256": "702d6363ef103214b55cf56f6a43c0a151cc02d715020e9c0a32f0401d0d858f",
+      "en_sha256": "798d00dc1322abb344e2b91d9976799169765cdb6795f4b28fb42c03cb6e20b4",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-131].dlg": {
+      "pl": "Przestrzegaj reguł...",
+      "kr_sha256": "49db020977b7380b30c3cc36bb3275897193808edc00c0e79663bb9a56216bba",
+      "en_sha256": "ac9831a489ec47772630a96f3f1710d615d2cc9d0480bf36bbff2d22d2b7e3e1",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-132].dlg": {
+      "pl": "Czyż pokładasz ufność w miłosierdziu?",
+      "kr_sha256": "90f009efafc0fa39103b04fbfdfdd61a011c3f8b815f6d2848a911e98d47a731",
+      "en_sha256": "d3d2805629ca56fcda8a2eb70f934dd1de892273a7d3454ef7cb0ac8771fde1d",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-133].dlg": {
+      "pl": "Odłamek fałszywego boga? Przestępco, nie odkładaj obowiązku ani nie zrzucaj brzemienia.",
+      "kr_sha256": "0019c7df77c616de7cc317acfa9bdc659537f8fcfac603b41d9d088f49d365a0",
+      "en_sha256": "e4f5a2697af2f71b9e26564bddd469e78d99969ea572e6871cc9afc283bb7d93",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-134].dlg": {
+      "pl": "Szczerze mówiąc, nawet wielka pokuta już nic tu nie poradzi... Kopytując tak dalej, sam sobie utrudnisz sprawę.",
+      "kr_sha256": "32434d3ff8f1495efc2fa92886576ba29668a3419a0ce5061b3a6cf5d40b67b6",
+      "en_sha256": "08a5dde3eec91503c4cc10418c24153c5e73be1e8a5bf67c3518db1291192d60",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-135].dlg": {
+      "pl": "Wiesz, że to wykroczenie polegające na zniszczeniu mienia, prawda?",
+      "kr_sha256": "0d43c9d0a6925c4502aa712544cded13a3cb6a064354c362c8d9653837e2a149",
+      "en_sha256": "de39fc99c10d618280ba8a08903faa2041286f75e261727e5f73d3181e53cc79",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-136].dlg": {
+      "pl": "Przed bogiem staje się samotnie.",
+      "kr_sha256": "360e5b3c6f4891d8272abcddde09a8235ac0150b859321e48fd881efa868c6b6",
+      "en_sha256": "a7a3d0c9064678fb5105ce6333c582ee040fa615a8098e5299952fb824184da1",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-137_a].dlg": {
+      "pl": "Stoisz w obecności boga.",
+      "kr_sha256": "08cf69e546dc9c4df1cfd050c36e5a26e76b883fa25559aa6095f8aea465dc7b",
+      "en_sha256": "3402a7ed29d0d29941e55874fb1a8c41d851e5985467f61b4237a7023244b539",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-137_b].dlg": {
+      "pl": "A gdzie pokuta?",
+      "kr_sha256": "3f88b51c24dca47bf687b8113539bd7b08d3be96283c3e61d51de877fd6330ec",
+      "en_sha256": "31d77ec0c9454c85d4a50ef5fa2903d9c1777af0c47659d69ec5e4af98bc3ea0",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-137_c].dlg": {
+      "pl": "Spójrz wprost na to, co, co uczyniłeś.",
+      "kr_sha256": "347efc717c6d24bcf209a19c3ba0e966762e46264bd8e9619f76cfd3d3b13d83",
+      "en_sha256": "91ca8f5439cf901a0fb193de069afa9bf92302ef2099a576ea8c594203722c30",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-138].dlg": {
+      "pl": "„Ostatecznie wieczność obnaży twą rozpacz, a grzech twój przybije do wiecznej karty...\" O to mi chodzi.",
+      "kr_sha256": "539ccf459c92a3631a66508568a6ae9b59d7c176619c08a43b67da0a06d9dd59",
+      "en_sha256": "93bd53b3ea6fc0f7f9de69f0cd3fd2c014f900aaf31ebf560d48726cc958e329",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-139].dlg": {
+      "pl": "Haah... mam dość tego widowiska. Spotkanie waszej kompanii przy każdym wchodzeniu na zmianę staje się prawdziwą męczarnią.",
+      "kr_sha256": "26737198d702ea1329f2304d8374474f5d1af3c569d0bc14e0f4da8daafc10fc",
+      "en_sha256": "a00cf8504539033523869756ddec0feef341f8ea9ff56c062de190502184e86a",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-140].dlg": {
+      "pl": "Tak, to położy temu kres.",
+      "kr_sha256": "a75f5503674eeb37764ff4073046b46891d0015b1c50b319582635e2731688b6",
+      "en_sha256": "e18e3386aa52c20f63db3c43e7af80565fa66760efd5af41dc9664f1a0c3a7ea",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-141].dlg": {
+      "pl": "Czemu gonić za zrozumieniem, którego nigdy nie zaznałeś? Czy nie prościej kapitulować i żałować?",
+      "kr_sha256": "4e9e52441cbeeaba97f6f316228959d6296eab893f4dfc7429955e45c1fcb396",
+      "en_sha256": "aacb99bc282b6a61ad648a79677fbc4b0ca35c937bf7dfb6e76124f4d4201476",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-142].dlg": {
+      "pl": "„Niezależny osąd\"... Tymi słowami nie operujemy w tym miejscu.",
+      "kr_sha256": "6c82c0b2a0ca031ba59c4469709b7035b208957f67af9c8782fed6ddf879907c",
+      "en_sha256": "84e25f3c9260f03b5564b22c11a7dbdc5c26a6a222d1c2b2961acc4f51744fb1",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-143_a].dlg": {
+      "pl": "Tak Bóg chciał.",
+      "kr_sha256": "bff41466a97a4c9d4c17bff6545cddab81a4ace47a6091d4a44bdcd30d16385f",
+      "en_sha256": "ab105994480f4bf641ef57398e51330aef7a24aab8666a6460c357c6c4d9d450",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-143_b].dlg": {
+      "pl": "„Bóg działa niezbadanymi drogami\"... Cóż, coś w tym stylu.",
+      "kr_sha256": "dc7a84aa3f45a066fe97625add9ad3e69a610a01f18f2be094f730d99d38cefb",
+      "en_sha256": "8346204920c0bcce8c1ce6b9c5db511b4708a37046418fbebb633a4d49494a77",
+      "origin": "ai"
+    },
+    "dataList[id=10SV-144].dlg": {
+      "pl": "Hej, a myślałeś, że od boskiej kary przysługuje przerwa?",
+      "kr_sha256": "6d13f7cc99ee4bedad6dc699672d4a536228a78859a73e1b34655c9dba14c663",
+      "en_sha256": "86bad319ce564055ce1a41aab264237210d996303d9d0e3c88cd896363f242b8",
+      "origin": "ai"
+    },
+    "dataList[id=s1003V-416].dlg": {
+      "pl": "...?",
+      "kr_sha256": "be0c3978e6706e92c5ae017b61691752b2e2d218df5380fbfdf01dd020fa5704",
+      "en_sha256": "8169830f63907329bbd1b0996f91032b9e9c08b44d0f6194fc3f224de7aa5b7e",
+      "origin": "ai"
+    }
+  }
+}

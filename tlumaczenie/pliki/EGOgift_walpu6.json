@@ -1,0 +1,154 @@
+{
+  "entries": {
+    "dataList[id=9805].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #1]\n\nPoczątek walki: zyskuje [KnightBless]",
+      "kr_sha256": "ad05c7a37d5f5279ae7ac3675fbfca94467ba7f94072f7b3c2266f4f55a970f8",
+      "en_sha256": "44be5c2c56e5ecfb33126aa75660881f3999b3c373b2ba27c109d6eb76f1440b",
+      "origin": "ai"
+    },
+    "dataList[id=9805].name": {
+      "pl": "Błogosławieństwo Popielatego Gwiazdozbioru",
+      "kr_sha256": "bcca2135fb95299473f0deae94dac5cadf3fed1d7b1b17bbe321836130239c34",
+      "en_sha256": "9c093f02aa4c02f7bc7adbff5b4602eaa15d012ff75acdb07d62052bb6b0f6b1",
+      "origin": "ai"
+    },
+    "dataList[id=9805].simpleDesc[abilityID=9744].simpleDesc": {
+      "pl": "Zyskuje [KnightBless]",
+      "kr_sha256": "cd969558bb6d753e46522ed38ad7548a1aa951e5500d30eb6b39c173354bbd97",
+      "en_sha256": "3136b9c703a05dbf7f745f2ddc27b4c1a9e90a8edbe19c9fefa48a2ed91b088d",
+      "origin": "ai"
+    },
+    "dataList[id=9806].desc": {
+      "pl": "Za każdym razem, gdy sojusznik zostanie trafiony, nakłada 3 [Sinking] na atakującego\n\nPo śmierci sojusznika wszyscy sojusznicy następną turę zyskują 2 [Enhancement] (1 raz na turę)",
+      "kr_sha256": "26ab5dc6fc2c3dc9b19455e21e68f00d1d1997fd3d5ce241396a3ac1d980cfc0",
+      "en_sha256": "c1508757ad7a0e0c1a2289e6e8044fdd92df2378e0f2dddeec7e840f58987151",
+      "origin": "ai"
+    },
+    "dataList[id=9806].name": {
+      "pl": "Ten, Którego Nie Wybrano",
+      "kr_sha256": "eac504646bcab1312f9fffc5a243d3618bb92e7e83976c48c3141a80d6f4fbfc",
+      "en_sha256": "4597b235e63168ae1e16e78027e0c85b401c085536d8aa7f0dd677fbde1e0512",
+      "origin": "ai"
+    },
+    "dataList[id=9806].simpleDesc[abilityID=98061].simpleDesc": {
+      "pl": "Zyskuje [Enhancement]",
+      "kr_sha256": "07385e0993beacc77a76d7cd7d3496c435c8064ad30b890a78bfa62e8c99006e",
+      "en_sha256": "71fe97129d4b1e165ef3ac1516c4c980e86061b437cb1a13632402fb0206d6d2",
+      "origin": "ai"
+    },
+    "dataList[id=9806].simpleDesc[abilityID=9806].simpleDesc": {
+      "pl": "Nakłada [Sinking]",
+      "kr_sha256": "5328c698c452dbec125c4abe175d3cc31d130e6062c8a20a5942d8dbba740c9c",
+      "en_sha256": "8021699154effb22414626840958da473329540309c414d78c7a7b33ef96dd73",
+      "origin": "ai"
+    },
+    "dataList[id=9807].desc": {
+      "pl": "Gdy sojusznik trafi Umiejętnością, a cel ma SP ≤ -20, zadaje celowi obrażenia Posępności równe Sile [Sinking] celu (1 raz na Umiejętność)\n\n- Jeżeli to była Umiejętność Kłucia, zadaje dodatkowe stałe obrażenia równe (Licznik [Sinking] celu / 2)",
+      "kr_sha256": "4216879724be22d6b7848f3aa4f827e4ad2db2ee9a3d3c0dcfeb56b87422e7f0",
+      "en_sha256": "c3216d9ebfd21d720f302cc6a808a17255efd70ae3b9f8e4da26ae762ea036a2",
+      "origin": "ai"
+    },
+    "dataList[id=9807].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
+      "origin": "ai"
+    },
+    "dataList[id=9807].simpleDesc[abilityID=9807].simpleDesc": {
+      "pl": "Dodatkowe obrażenia",
+      "kr_sha256": "1f08efad267f1d09f7b041f70e30a49662444293af0cad567e0c8d5bcfaad90a",
+      "en_sha256": "aaa8dd4c94d3fd2f02a195eba562cc843a18af410dd41758f9cd8ca1577044a1",
+      "origin": "ai"
+    },
+    "dataList[id=9808].desc": {
+      "pl": "Za każdym razem, gdy sojusznik trafi Umiejętnością zyskującą lub zużywającą Liczniki [Charge] albo Szczególne Ładowanie, losowy sojusznik odzyskuje 3 HP lub SP (1 raz na Monetę; z wyjątkiem sojuszników z pełnym HP lub SP)\n\nGdy sojusznik dojdzie do siebie z Paniki lub Korozji E.G.O, odzyskuje 20 SP",
+      "kr_sha256": "b99e79fd2be978a3cd8ad3968bcef304e295ca5256e96e1fd66fba5501068a81",
+      "en_sha256": "290d0ae00496e573eb9e3bbb1f2ab53c9ab83f69560760846999004d1f9373b7",
+      "origin": "ai"
+    },
+    "dataList[id=9808].name": {
+      "pl": "Czuły Dar Magicznej Dziewczynki",
+      "kr_sha256": "7fa75cbefc9918a2297e18019bf0d96f8830a6457ecca48fd032b458a1d7db1e",
+      "en_sha256": "2bbb992eff2979b598fbcc109645540db43b5ea32e9b559653130f29a6b6d599",
+      "origin": "ai"
+    },
+    "dataList[id=9808].simpleDesc[abilityID=98081].simpleDesc": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=9808].simpleDesc[abilityID=9808].simpleDesc": {
+      "pl": "Losowo leczy HP lub SP",
+      "kr_sha256": "18c40500287fbbd56e8e88c5143d805201a5d360dcf75649f50903bc20f8e1ae",
+      "en_sha256": "d310614e2f50acdf0eed8caee341d0c8ad2d54eece01d2989f7d192aa36b77a5",
+      "origin": "ai"
+    },
+    "dataList[id=9809].desc": {
+      "pl": "Zużywając Liczniki [Charge] Umiejętnością ataku, następna tura zyskuje (zużyte Liczniki [Charge] / 2) [AttackUp] (maks. 10 na turę; łącznie ze Szczególnym Ładowaniem)\n\nNa koniec tury: jeżeli w tej turze sojusznik stracił SP, dotknięty sojusznik następnej tury zyskuje 1 [Enhancement] i 1 [Vulnerable]",
+      "kr_sha256": "43b547026b22291362da22a3dd9cf330aa1d87dbd2bd36db99ebb5f6b8c7f6c9",
+      "en_sha256": "aa8285280be642a135e2a4da070839efc0726b390d7485f8f11c91a72d5592d7",
+      "origin": "ai"
+    },
+    "dataList[id=9809].name": {
+      "pl": "Zużyta Pożyteczność, Kapiąca Nienawiść",
+      "kr_sha256": "8741a4c36b98e3e6db129f96c88c13b70254d8b8d57806d429a05804b9a809b5",
+      "en_sha256": "3e9ba814a07016697e41c5ede2e5b585a9343623b04df84736e6c93e9a4b3a92",
+      "origin": "ai"
+    },
+    "dataList[id=9809].simpleDesc[abilityID=98091].simpleDesc": {
+      "pl": "Zyskuje [AttackUp] i [DefenseDown]",
+      "kr_sha256": "7617ff747d82bad24e54e7555e9180ced9b7908491e6137a71bf4c5c40cfcb8f",
+      "en_sha256": "d551a10fbf89934e1a589a1e53f6f246720ac1d57558f72cfa9a6b17ad0b8980",
+      "origin": "ai"
+    },
+    "dataList[id=9809].simpleDesc[abilityID=9809].simpleDesc": {
+      "pl": "Zyskuje [AttackUp]",
+      "kr_sha256": "50f7002497c52e9a32973115982fe05d7390456c25ffaee63de7164faadd242d",
+      "en_sha256": "e5f09d6b92e123e9e729b26d07ce7abedf8460a08d65f52afbbf5561566c0f29",
+      "origin": "ai"
+    },
+    "dataList[id=9810].desc": {
+      "pl": "Początek walki: wszyscy sojusznicy zyskują 2 [TraumaShield]",
+      "kr_sha256": "7e9e937459c4fa04f86c32bf1e41c75d50274da76509f482480ad54162471369",
+      "en_sha256": "6d742214daa4ec3154745c1f12e88ad6a394050d4b183bf30d525b2c93130cbe",
+      "origin": "ai"
+    },
+    "dataList[id=9810].name": {
+      "pl": "Osłona Przed Traumą",
+      "kr_sha256": "85823475f23b6d915377c6a6d48adb5a8c097e90778c08d0780554f8efbc9caf",
+      "en_sha256": "616ac05aa508f29ddb63bb399b347efaabd1b308fafa132e918e2d95f7bebe4c",
+      "origin": "ai"
+    },
+    "dataList[id=9810].simpleDesc[abilityID=9810].simpleDesc": {
+      "pl": "Zyskuje [TraumaShield]",
+      "kr_sha256": "58d67ef5b123b85700207a856faee13773e8112ca0b46f674f1ee8507b1dcced",
+      "en_sha256": "909b46c9457ee27d1dbc955e2c2ea5d29fbeeb310f7d413f07499520530ba88b",
+      "origin": "ai"
+    },
+    "dataList[id=9811].desc": {
+      "pl": "Po śmierci sojusznika w walce zyskuje po 2 Zasobów E.G.O każdego Grzechu\n\nPoczątek Walki: jeżeli w tej turze któryś sojusznik wszedł z Rezerwy, leczy 10 SP 2 sojuszników z najniższym SP (1 raz na turę; z wyjątkiem Paniki i Korozji E.G.O)",
+      "kr_sha256": "b48d86fad5ad4d651f4127778a5ccd6af0c2223ae8c24d52d12c08df4b2763cd",
+      "en_sha256": "667944d1ab83c1d7fd895aec137a5d2d94d230047a3903639e5f03c4ed99676c",
+      "origin": "ai"
+    },
+    "dataList[id=9811].name": {
+      "pl": "Zbycie Wartości",
+      "kr_sha256": "d328a648fa950695dbee6ea26dd7ba0a0bfa89b8dd408dd1c41703bc9798bf5b",
+      "en_sha256": "2075ee4d50c0ac447a74455921518f882c2901f8b363913c2dfc9d80e828789b",
+      "origin": "ai"
+    },
+    "dataList[id=9811].simpleDesc[abilityID=98111].simpleDesc": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=9811].simpleDesc[abilityID=9811].simpleDesc": {
+      "pl": "Zyskuje Zasoby E.G.O",
+      "kr_sha256": "95d2cefd2c9535ccf64ce7f86ff464906e58c48a2c0935efe90fd8bcf3a20a74",
+      "en_sha256": "cc4a86393adc7a411f351b07e947f7d539f8324297faf228f9f404e97cb6dea3",
+      "origin": "ai"
+    }
+  }
+}

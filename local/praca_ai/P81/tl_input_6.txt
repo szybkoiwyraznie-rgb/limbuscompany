@@ -1,0 +1,9 @@
+774||[refraction] Wróg / część [850401] — opis] 부위|
+775||[refraction] Wróg / część [8505] — nazwa] 흥겨운 마리아치 조직원|Mariachi Alegre
+776||[refraction] Wróg / część [8505] — opis] 본체|
+777||[refraction] Wróg / część [850501] — nazwa] 몸통|
+778||[refraction] Wróg / część [850501] — opis] 부위|
+779||[refraction] Wróg / część [8506] — nazwa] 경쾌한 마리아치 조직원|Mariachi Vivaz
+780||[refraction] Wróg / część [8506] — opis] 본체|
+781||[refraction] Wróg / część [850601] — nazwa] 몸통|
+782||[refraction] Wróg / część [850601] — opis] 부위|

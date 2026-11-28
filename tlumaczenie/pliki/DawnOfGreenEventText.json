@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=EVENT_NEWYEAR_2024_HARD].content": {
+      "pl": "Trudny",
+      "kr_sha256": "fac94f696643f1bedee656b154eb1c5d9c27ecb455e190b37be53968cf49c549",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=EVENT_NEWYEAR_2024_NORMAL].content": {
+      "pl": "Normalny",
+      "kr_sha256": "512989791c19de3fcf9c18e11580d2895d2a146264cc803e52c86bede3453e4e",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=dawn_of_green_hard_stage].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=dawn_of_green_hard_stage_unlock_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Normalnego",
+      "kr_sha256": "97375c5bf69a039361cc726a088c3752a24791c9838e1ffd170893a66cb46e75",
+      "en_sha256": "c1a239564a6e69705cc66915a7563dfe9425bbb83a61156f63400f87d2f69444",
+      "origin": "ai"
+    },
+    "dataList[id=dawn_of_green_normal_stage].content": {
+      "pl": "Normalny",
+      "kr_sha256": "54ca33ea350613bcd6ffae4b0d5b80ac504e0142c75b1cae6dd8512d7a63fa43",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=dawn_of_green_reward_button].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=dawn_of_green_story_theater_button].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    },
+    "dataList[id=dawnofgreen_rewardpage_desc].content": {
+      "pl": "Próba Zielonego Świtu — stłum istoty Zielonego Świtu na poziomach Normalnym i Trudnym i ukończ misje.\n\nZa ukończone misje otrzymasz różne nagrody.",
+      "kr_sha256": "deef1ad801b1a7cc20c409f726dba92afb61dddc0cc5bd0ca6e0ebc84b6ab138",
+      "en_sha256": "8f41ec42f81223bfc8b990300a98d05a8de1385ae4cd89fbc007049996299646",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_battleresult_wa].content": {
+      "pl": "Stłumione próby",
+      "kr_sha256": "116b6f0aeda11dca3ea6afd7d475d71bb0596de66c5ea59a077e1aaac61e87f9",
+      "en_sha256": "cf9c4d6859add41216165aae08708c006ec488e2712334b86204d9a8f3114d43",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10001].content": {
+      "pl": "Pokonaj istoty Zielonego Świtu w jednej walce",
+      "kr_sha256": "7592d5531259e688fdc9223206c80a20fc5e479601f80f46aaba3fd00725b529",
+      "en_sha256": "743af79d08a8937824e658902bfd93a48137ab868d6112f813df2f1033f0aa13",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10002].content": {
+      "pl": "Pokonaj w jednej walce istoty Zielonego Świtu — Wątpliwość — γ",
+      "kr_sha256": "994e4546bc3bc41b64a54d4a125af1e6b43ef5ea520e09a7af3a0f0fd048d65f",
+      "en_sha256": "386373999a1a1ad234bf63cb0b3934890224f49bbaa23e1a35ee4e6a699c06b7",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10003].content": {
+      "pl": "Pokonaj w jednej walce istoty Zielonego Świtu — Wątpliwość — δ",
+      "kr_sha256": "a6b229c8271057664ada56d42fac372b84f5362bd363ec9844365e95ed61656c",
+      "en_sha256": "4b091efdeef65b7fa81760dd42a4f3477a0e182833d59de4473ecf2e5b3f8e8f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10004].content": {
+      "pl": "Zakończ Tłumienie bez strat wśród sojuszników",
+      "kr_sha256": "ab0bafa04db2d880b9732b33c5e1caed3fa29c6035e49af03559dcf0348757a8",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10005].content": {
+      "pl": "Zakończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "ff5263b5f62f791f4da1f2f8120f2cca6c4e6aba9a5fb02509e7a700acdadd79",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10006].content": {
+      "pl": "Pokonaj 3 istoty Zielonego Świtu jednym użyciem Umiejętności ataku",
+      "kr_sha256": "e1ee2d50b6636fa515eb5177ab35632df3ad1df785d41ca72725b89ee61ec421",
+      "en_sha256": "1f0c0b87d8360515ac796f7bb97ca835b2f15c2ed6fa8a4c74eb6404a5bcf2b3",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10007].content": {
+      "pl": "Pokonaj w jednej walce istoty Zielonego Świtu Umiejętnością ataku Kapitana Zespołu Dowodzenia",
+      "kr_sha256": "11a149aed754f51a6c675cd6280cf4f207547a07dc8036e708688eb0b5b5773c",
+      "en_sha256": "7abbb4050c1ba29d043ca4d69bea1b1e9d274fca71cf166d5eafadb14480749c",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10008].content": {
+      "pl": "Zakończ Tłumienie, w którym Kapitan Zespołu Dowodzenia przeżyje, otrzymawszy mniej niż 10 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "05465a7e770bf1c21cea32eb9687b8e6cb69f4d03bf9a594fcb147347a2bc427",
+      "en_sha256": "e46c48dba6b2c8eb6662ed81c8913e6291897295e695c4f84cc19612f2aae847",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20001].content": {
+      "pl": "Pokonaj istoty Zielonego Świtu w jednej walce",
+      "kr_sha256": "7592d5531259e688fdc9223206c80a20fc5e479601f80f46aaba3fd00725b529",
+      "en_sha256": "743af79d08a8937824e658902bfd93a48137ab868d6112f813df2f1033f0aa13",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20002].content": {
+      "pl": "Pokonaj w jednej walce istoty Zielonego Świtu — Wątpliwość — γ",
+      "kr_sha256": "994e4546bc3bc41b64a54d4a125af1e6b43ef5ea520e09a7af3a0f0fd048d65f",
+      "en_sha256": "386373999a1a1ad234bf63cb0b3934890224f49bbaa23e1a35ee4e6a699c06b7",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20003].content": {
+      "pl": "Pokonaj w jednej walce istoty Zielonego Świtu — Wątpliwość — δ",
+      "kr_sha256": "a6b229c8271057664ada56d42fac372b84f5362bd363ec9844365e95ed61656c",
+      "en_sha256": "4b091efdeef65b7fa81760dd42a4f3477a0e182833d59de4473ecf2e5b3f8e8f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20004].content": {
+      "pl": "Zakończ Tłumienie bez strat wśród sojuszników",
+      "kr_sha256": "ab0bafa04db2d880b9732b33c5e1caed3fa29c6035e49af03559dcf0348757a8",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20005].content": {
+      "pl": "Zakończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "ff5263b5f62f791f4da1f2f8120f2cca6c4e6aba9a5fb02509e7a700acdadd79",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20006].content": {
+      "pl": "Pokonaj 7 istot Zielonego Świtu jednym użyciem Umiejętności ataku",
+      "kr_sha256": "8589b49c473a699a358de2d1844a5e768064d28f666f0e2350a8973170800582",
+      "en_sha256": "2197a6ef0af32db8da06ad1bd873e4c45545a8d023b0c180e352f281e37c45a8",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20007].content": {
+      "pl": "Pokonaj w jednej walce istoty Zielonego Świtu Umiejętnością ataku Kapitana Zespołu Dowodzenia",
+      "kr_sha256": "11a149aed754f51a6c675cd6280cf4f207547a07dc8036e708688eb0b5b5773c",
+      "en_sha256": "7abbb4050c1ba29d043ca4d69bea1b1e9d274fca71cf166d5eafadb14480749c",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20008].content": {
+      "pl": "Zakończ Tłumienie, w którym Kapitan Zespołu Dowodzenia przeżyje, otrzymawszy mniej niż 5 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "0af1eb62c604e21815c205ef055ee0dc038c45af0631fe1b8f64430121e79c3d",
+      "en_sha256": "cb785ac758ba7d44b0f537557b5c884b72deda3bd65edf0ebd0686dc05c8d8bf",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_30001].content": {
+      "pl": "Ukończ wszystkie misje na poziomach Normalnym i Trudnym",
+      "kr_sha256": "34ec00a83694138fc6ada47c639f1f386ba5797192d2af75c84976c3a9c3a893",
+      "en_sha256": "cb0df574de6799e066f42301f6b27d9d224ec6b90e1bc4a8e592a8b23f81f185",
+      "origin": "ai"
+    },
+    "dataList[id=reward_Hard].content": {
+      "pl": "Trudny",
+      "kr_sha256": "fac94f696643f1bedee656b154eb1c5d9c27ecb455e190b37be53968cf49c549",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=reward_Noraml].content": {
+      "pl": "Normalny",
+      "kr_sha256": "512989791c19de3fcf9c18e11580d2895d2a146264cc803e52c86bede3453e4e",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    }
+  }
+}

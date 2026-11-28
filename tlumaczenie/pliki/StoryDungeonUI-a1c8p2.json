@@ -1,0 +1,70 @@
+{
+  "entries": {
+    "dataList[id=ego_gift_list_8].content": {
+      "pl": "Posiadane Artefakty",
+      "kr_sha256": "8de60a1fb295a028a1aa79e9658144ffa85eacf4ba6125b9a81d3efb33c3b3fd",
+      "en_sha256": "d2b23c1e40b579e0dda664ba3f185b6fdf417d5db17217b3b9e93f4eba3c61c5",
+      "origin": "ai"
+    },
+    "dataList[id=gabook].content": {
+      "pl": "Jia Baoyu",
+      "kr_sha256": "2840fb6f6ed83344ce1ea4fc6a732055f350e8a44a04779abc429e42e0adbddd",
+      "en_sha256": "3a53ec0aeed51c9971e5e9b2593fc3737bcac3f39db291fa12fbacb9bc9a9a63",
+      "origin": "ai"
+    },
+    "dataList[id=gachiu].content": {
+      "pl": "Jia Qiu",
+      "kr_sha256": "cb5f98b8fcf0df12f4fbfcb5e5a6921d2d4eec112bad64547c0d86dbe81b513a",
+      "en_sha256": "3d7b54387043069ad6b413ab1f06bf2d92cc3f66c72d331c9c407ddc8a781be5",
+      "origin": "ai"
+    },
+    "dataList[id=gahwan].content": {
+      "pl": "Jia Huan",
+      "kr_sha256": "66f9588b73fb74a45a2b218da02efcd3d9860149e6b9f876d91db9895b0c6740",
+      "en_sha256": "1313906876dda43b500fff9557389602d98f24ed5ed1256cedfe6888471f964c",
+      "origin": "ai"
+    },
+    "dataList[id=get_ego_gift_desc_8].content": {
+      "pl": "Zdobyto Artefakt.",
+      "kr_sha256": "977f8528b87c5418c94c376490f8cfb5f295fe56ec76c5527c2454c7b17e4fff",
+      "en_sha256": "d4dc752030d8d951d355aa2570584b67e048faff8721a57da7cde5215a1f9919",
+      "origin": "ai"
+    },
+    "dataList[id=rankUITitle].content": {
+      "pl": "Ranking",
+      "kr_sha256": "8f363885a3ff887a28ba0edf871dbf924c9f976f8a1076e398873dcb338f61ad",
+      "en_sha256": "2ef9d509bd5a5dff88115972a3e5df5b5291899aa186cae59aa77c17565c7d62",
+      "origin": "ai"
+    },
+    "dataList[id=storyDungeon_108_coinCount].content": {
+      "pl": "Monety",
+      "kr_sha256": "cde4842b8ab41342df4067accdb7fabc1e8b372b0197a8cbec325dbd2f227e16",
+      "en_sha256": "7ae57d9d0e8c44f9756c2b5531af3a47f624de1067be52dd373688ba7a8ab2a8",
+      "origin": "ai"
+    },
+    "dataList[id=story_dungeon_cannot_move_to_target_node_side_popup_content].content": {
+      "pl": "Nie można przejść na ten węzeł.",
+      "kr_sha256": "165ff6cf467366b5721afe7eefe9d17c5a6c4fdf2a4a6c91d2b773df89ee9543",
+      "en_sha256": "7f9a0a44ede5664c9771cbef7c1d34a6ee443c105f3cb75a63185883ba6c825a",
+      "origin": "ai"
+    },
+    "dataList[id=subtractor_ego_gift_desc].content": {
+      "pl": "Utracono {0} ×{1}.",
+      "kr_sha256": "99fdd849ee56f7c5afe6c93093cb005286dd8abc462d18aab0a7dd06d76cbddd",
+      "en_sha256": "825927e9c8705b44fc0d785ec702c8bb13cb5d57da2828c275422a1aa839c29f",
+      "origin": "ai"
+    },
+    "dataList[id=subtractor_ego_gift_title].content": {
+      "pl": "Utrata Daru E.G.O",
+      "kr_sha256": "2ab7e05131f4c1b318ad3e354b283eb02313b31bc8e3578d318198695d6dc2cf",
+      "en_sha256": "d8a25e45cd51f62ab76e34eff27419e12742797475769ef904d12c497b5e44cc",
+      "origin": "ai"
+    },
+    "dataList[id=subtractor_ego_gift_title_8].content": {
+      "pl": "Utrata Artefaktu",
+      "kr_sha256": "0ebbeb6fcf39fffde7ff4fdf89470d58217ea182e9a7f6eb7e7cc9fd1fe28a60",
+      "en_sha256": "885bf150349511bbd83175114042158b6257cd22ddef1973cd145c4296d42d1a",
+      "origin": "ai"
+    }
+  }
+}

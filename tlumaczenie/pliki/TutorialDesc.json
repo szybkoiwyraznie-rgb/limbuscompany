@@ -1,0 +1,472 @@
+{
+  "entries": {
+    "dataList[id=tutorial_1001_01].content": {
+      "pl": "W lochach bytują istoty zwane „Anomaliami”.\nStarcia z nimi są tu nieuniknione.",
+      "kr_sha256": "4da930412918d3a72f2f7a52578d6598a9f88c2d589a1c5efbd15fc1d907ef47",
+      "en_sha256": "451ed9e227eac1663bc43bf75352d9d9331c2e82e504294c82d040ef4bfbe53f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_02].content": {
+      "pl": "Każda Anomalia składa się z co najmniej jednej części ciała.\nKażda część posiada własne pola umiejętności i wyprowadza osobne ataki.",
+      "kr_sha256": "484f926a713cd47a4b071460008c07abffb20181d93935d62cfc35e12a83c67b",
+      "en_sha256": "d0940daf98ad6d50c48866f1aa32825004bac10cd8fef6626136fb37b9393d00",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_02_popup_title].content": {
+      "pl": "Anomalie i ich części",
+      "kr_sha256": "820a96292c072ae8010670b948d4e54d5572418b1247b17c891482fe6658a211",
+      "en_sha256": "29cfc7450e19fd631fc974fd0ced0ad725c9ba924fc9c641662f5534842f3eba",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_03].content": {
+      "pl": "Wybierz umiejętność sojusznika i przeciągnij ją na pole umiejętności Anomalii.",
+      "kr_sha256": "6480a5d21a9a0d51f282f5007e81df8ba052c3240653bcb65abe6330c303a3ff",
+      "en_sha256": "3341c3fbd5ceb3977d05d50c5f52f80fd45146620ea8c65444a2ecc1603b8f5c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_04].content": {
+      "pl": "Umiejętnościom Anomalii również przypisana jest „Szybkość”.\nDecyduje ona o kolejności działań i stanowi warunek przejęcia celu ataku Anomalii.",
+      "kr_sha256": "7ec6417acce189f9581874b3a4639e3120d361d5cb44d6df9074bbdb92da769b",
+      "en_sha256": "b98b56f8c9a0b3ff78f857f119483e5b5d14ddcdb79944543213423d32a7394c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_05].content": {
+      "pl": "Przeciągnięcie umiejętności sojusznika o „wyższej Szybkości”\nna pole umiejętności Anomalii\nwywołuje „Starcie” i przekierowuje cel jej ataku.",
+      "kr_sha256": "3034e7baae463e2b123793f9c32be68bf09a3738e8c09b2f801bb9f4ba9baad5",
+      "en_sha256": "aaca1bf2bf871ee9fa17eb7db96769fe99298730fb1622a202590240ed07057c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_06].content": {
+      "pl": "Przeciągnij umiejętność szybszego sojusznika, aby zmienić cel Anomalii.",
+      "kr_sha256": "ac8f17e383659f442ce6b5dc2b585cce2c7bcc88f25ccd0ed72f58824d0d779e",
+      "en_sha256": "c7bd73ce50a0ca48866c3dca99c0a0d9e0c8c1aa768c5844e0d9dde5f5ee623f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_07].content": {
+      "pl": "Cel Anomalii został zmieniony. W tej turze obie postacie zewrą się w Starciu.",
+      "kr_sha256": "9ea9f9071ef086c2bd42a347c5452430472f9816e2f4c382be9821f0747d38b4",
+      "en_sha256": "9239a117c6a378f0b6e99adb2f9cfa09f140f293a01441fa696e5d3a73e758ad",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_08].content": {
+      "pl": "Wykorzystując różnicę Szybkości,\nmożesz swobodnie przejmować cele ataków Anomalii.\nW starciach skupionych kluczowe jest takie „przekierowywanie celów”,\nby wymuszać „Starcia” korzystne dla naszej drużyny.",
+      "kr_sha256": "777681cdf6356ebcbbd4e335731895277e794c6be51236e00e4b23ac8e2c563f",
+      "en_sha256": "934754b711299d0d69df9b5608a30cc9fba91e4fe6ca9799dc90020484a9e10a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_09].content": {
+      "pl": "Wydaj teraz rozkazy pozostałym Grzesznikom.",
+      "kr_sha256": "a5a4dc20078aac6b3f90a7161506401a3fb3bfe3636489ec05ba077da07de16e",
+      "en_sha256": "57a359be1f4390d2f49621dd84d275586aa6cfbdd6a548655f1c25c74849c9d6",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_10].content": {
+      "pl": "Po wybraniu umiejętności dla wszystkich Grzeszników naciśnij tutaj, aby rozpocząć walkę.",
+      "kr_sha256": "5e88ca89193a1656750698ca8e2f6795b640f7fe270b1847108cb9d6d85fa46c",
+      "en_sha256": "2e79cf6cda113c6dec1eac015e8ba57a8efb19d0c1ee00ecfbc3638964b850a6",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_99].content": {
+      "pl": "Gdy PŻ danej części ciała Anomalii spadną do 0, ulega ona „Zniszczeniu części”.\nWszystkie odporności fizyczne zniszczonej części zmieniają się wówczas na Podatne.\nW zależności od części jej zniszczenie może zablokować niektóre umiejętności lub wyłączyć pasywki.\nNiektóre Anomalie po utracie części wpadają jednak w szał lub potrafią ją zregenerować.",
+      "kr_sha256": "76303e7222dcb26359c16d84fda818cd42b8562cb2a3f5b08674aa8356349bea",
+      "en_sha256": "6e5fb88eb6c2e88cb13bb5d701dbe7ce7b5185e1fdd8c632132357b7b10f1555",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_99_popup_title].content": {
+      "pl": "Zniszczenie części",
+      "kr_sha256": "a2edfc40d57bf85df7f79cc04a6e9717103f627af0e24a46b365286e801ea691",
+      "en_sha256": "f5fd55afe9f1f1714026fc151fc72237cd1d1a317f19b4961bff059832bca91c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_101_01].content": {
+      "pl": "Przedstawię podstawy wydawania rozkazów niezbędne do prowadzenia walki.",
+      "kr_sha256": "391057ae76cfd82c4c603e1d83f95fe78780b88ea9dc171fafb62e8836e3de6e",
+      "en_sha256": "e8f941ae8f5ad85bc1f4fd38d43e96c62d8a9e36dff17007d7aef452c7e72cb6",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_101_02].content": {
+      "pl": "Łącząc umiejętności na panelu dowodzenia u dołu ekranu, wydajesz rozkazy Grzesznikom.",
+      "kr_sha256": "996e996a51d6257523dd189c83120ccda1fdc46ada4d65c317477a1fc10f40c6",
+      "en_sha256": "be7a675db342d5e3860ca7a2387467e4d92ba805e2e6b972ac040e3c30c3ed61",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_101_03].content": {
+      "pl": "Naciśnij lewe koło zębate.",
+      "kr_sha256": "1584cd7776ad6731aadbde33e4c9ab7f0065f80748943576a712c333ce26daf2",
+      "en_sha256": "d36d9e3824e3844fa093395c2492cbf2a75b74f5c9de358d2bfea9571bc283ee",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_101_04].content": {
+      "pl": "Przeciągnij łańcuch przez ikony umiejętności od lewego koła zębatego aż do prawego.",
+      "kr_sha256": "606811fff2baaf157190c13b5879930873b75178efab0e3394973fa45e1eb266",
+      "en_sha256": "cbd75de3857c32652bf94ec7664fa20ad3a97d7bec4c7e2debb1591b9b644543",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_101_05].content": {
+      "pl": "Po połączeniu wszystkich ikon umiejętności naciśnij prawe koło zębate, aby rozpocząć walkę.",
+      "kr_sha256": "11531e620d111d8bf0b8f2405b09b8011e983e021579474dafd716bc651c4fa4",
+      "en_sha256": "db61486b917f098d1e438ed7d1bea95c8c1baa564fc984832c1268cacf240b56",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_102_01].content": {
+      "pl": "Przyda się silniejsze uderzenie. Połączmy umiejętności tak, by wzmocnić atak.",
+      "kr_sha256": "a2cf58f216d1ab2f168fd89dd74bb2e30c768ef6e18a4c94f668236e811b005a",
+      "en_sha256": "1a25e1a6f6f6667eb4d287b0b68809bb1674e88925fd0fb628e6ce34348677fe",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_102_02].content": {
+      "pl": "Połączenie w tej turze co najmniej 2 umiejętności tego samego Grzechu wywoła „Rezonans”.",
+      "kr_sha256": "1a2b531a7eb122ace9b3d8382565d704fe89b95a7be243c82bdfa0fc317e5e29",
+      "en_sha256": "f52f9baf9616d4ea7fcff64a09800588cf879f16bfd46bcf9f3695dee53dde4c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_102_03].content": {
+      "pl": "Rezonans zwiększa obrażenia proporcjonalnie do liczby połączonych umiejętności tego samego Grzechu.\nIm dalej w łańcuchu znajduje się dana umiejętność, tym większą premię do Mocy otrzymuje.",
+      "kr_sha256": "03e02cc97d92c89d3d01aece68196c56f4bbc6953c91989993fcdf7408ccde57",
+      "en_sha256": "6fd8047605c6ebe83b2cbe6ed88683908f3aabed8f9d72f1a068c0f5af12e720",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_102_03_popup_title].content": {
+      "pl": "Wprowadzanie Rezonansu",
+      "kr_sha256": "78720771bd404e4eef4c43e04e9a66519647b0a0634677bb251729c334537c2c",
+      "en_sha256": "10e8c7e4ce05b73a1b20a3276a54cfb555ffb43a260cfefd9f8fee079081d9cb",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_103_01].content": {
+      "pl": "To wciąż za mało — potrzebujemy jeszcze silniejszego natarcia.\nSpróbuj ponownie połączyć umiejętności.",
+      "kr_sha256": "80d9aa5fc916ec257f9a2e7b52e3dd1e03cbe0a8fa946d8a6d7c91a36e51c39f",
+      "en_sha256": "6a9769d9e05ee9a5cae0e616a11bf386626ebae68dcf5bd569a71e6a00619ae7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_103_02].content": {
+      "pl": "Połączenie „co najmniej 3 pod rząd” umiejętności tego samego Grzechu wywołuje „Pełny Rezonans”.",
+      "kr_sha256": "58c626969714963ecdb5e83b177c9424c3022c29c6ac78b31907e2bb601b7e50",
+      "en_sha256": "5b239478813e49ea13501c934ce22796d0ec83bc870461b155b2fdb8c6113040",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_103_03].content": {
+      "pl": "Połączenie pod rząd co najmniej 3 umiejętności tego samego Grzechu aktywuje „Pełny Rezonans”.\nW ramach „Pełnego Rezonansu” wszystkie połączone umiejętności tego Grzechu otrzymują jednakowo najwyższą premię do Mocy.\nPremia rośnie wraz z liczbą umiejętności objętych Pełnym Rezonansem.",
+      "kr_sha256": "7e79d99ae2ef0cd43374f00f5ec8ab7aac4f4c3cab70c5db97fbfbde3282ddc3",
+      "en_sha256": "9d799d5d9ba2257746e739948502c8d21931a85703a531c4f9c938d3984fc744",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_103_03_popup_title].content": {
+      "pl": "Pełny Rezonans",
+      "kr_sha256": "da3ee1cce36ccabe7ead0be06bc7bd3148a96d803f52acb7345906c80511edf3",
+      "en_sha256": "e040959858edf3d6dca29a6589dcf23b48c06e94a2ff6a1821353a77d70b8721",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_104_01].content": {
+      "pl": "Na pasku PŻ każdej postaci widnieją żółte linie oznaczające progi Oszołomienia.",
+      "kr_sha256": "74f8c6e5c2fe022d2b077d82d2bab0795a750c41d262a1643f36d03ea99b7b22",
+      "en_sha256": "ef9d7fc004b29f7b00cdecab7ab1d2e57a5610e4c32cec4fdbb100fc7a61002a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_104_02].content": {
+      "pl": "Gdy PŻ spadną poniżej progu Oszołomienia, postać przechodzi w stan „Oszołomienia”.\n„Oszołomienie” zmienia wszystkie odporności fizyczne na Podatne.\nKażdy kolejny próg Oszołomienia przekroczony w tej samej turze podnosi stopień „Oszołomienia”.\nIstnieją 3 stopnie „Oszołomienia” — im wyższy stopień, tym większe obrażenia przyjmuje cel.",
+      "kr_sha256": "2e4e2cb5aaee2f075c0e015de7eefbe7d64f232f4d7965c278379ac8840bee97",
+      "en_sha256": "9b922474b64ce40e481d04c33d19946046dd5bbadff844d15b4554dfbc0a3100",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_104_02_popup_title].content": {
+      "pl": "Oszołomienie",
+      "kr_sha256": "836c57630ee17be686c179f4654bf088290d9549af12e059511ab8de238c769c",
+      "en_sha256": "2eceafdb5ec0d4326c7ea57a9233175791914fa881c7e3961d95777246aa5193",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_104_03].content": {
+      "pl": "Doskonale. Wróg został „Oszołomiony”. Kontynuuj walkę, wydając rozkazy zgodnie z dotychczasowymi wskazówkami.",
+      "kr_sha256": "71c0e982fcc18b2729a1ab70caa2b2353fbaac7e269d2fb26e3337088949c00f",
+      "en_sha256": "e0b762500bd4b63cd5651c68b5a6fbf96b4885022d3d8f6ec4c0cca8a5a68806",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1101_01].content": {
+      "pl": "W lochach napotkasz także Anomalie złożone z wielu części ciała.\nW takim przypadku\nkażda część ma odrębne odporności, umiejętności oraz pasywki.",
+      "kr_sha256": "8a7422d013495fb91094ab0bcbd1abb67b866c3252eb00c9e4ab9634969f04bf",
+      "en_sha256": "e1604c0270ae25cad626430cb0e1b476e8e4a24fe3acb4a10d1b6d8feed42f7d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1101_02].content": {
+      "pl": "Na taką okoliczność przygotowaliśmy „Kompendium Anomalii”.\nZawiera ono dane o odpornościach, umiejętnościach i pasywkach poszczególnych części.\nKliknij Anomalię, aby otworzyć jej wpis w kompendium.",
+      "kr_sha256": "75440a4945543fd54aa5873052c792abc08236af5764af5f0a60042a2118b388",
+      "en_sha256": "6cbf63faa326da08b3a279a518980c85f9f324496662d50cf417649bc25841a0",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1101_03].content": {
+      "pl": "Kompendium Anomalii gromadzi informacje o każdej części ciała.\nPrzy pierwszym spotkaniu wpis Anomalii pozostaje niepełny.\nDane uzupełniają się stopniowo wraz z kolejnymi walkami przeciwko niej.\nWielokrotne starcia z Anomalią podnoszą jej Poziom Obserwacji.\nIm wyższy Poziom Obserwacji, tym większe obrażenia zadajesz danej Anomalii.",
+      "kr_sha256": "ef56953c8edf5433fce0a7b12db95fbd12778a7eb576b7f1b10b562068980141",
+      "en_sha256": "5ec63d567b9a41632b282067a59f85bcc6041091d2ed7c5afe2ea590b39facf7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1101_03_popup_title].content": {
+      "pl": "Kompendium jest jednak na razie niekompletne.\nPowierzchowne oględziny nie wystarczyły, by w pełni rozpracować Anomalie.\nWpisy będą uzupełniane w miarę kolejnych starć pod twoim dowództwem.",
+      "kr_sha256": "a1ddb33eaaf35258243bea3a394430aaea2cec74270e83340ddb960d5970de4a",
+      "en_sha256": "e0b086eec0312686c69f0f98347cf0cdec2171b4a0344106ee563b3e2435477e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1201_01].content": {
+      "pl": "Podczas starć skupionych niekiedy pojawiają się „wydarzenia” wymagające twojej decyzji.\nMusisz wówczas ocenić sytuację i wskazać odpowiedniego Grzesznika lub działanie.\nReakcja Anomalii zależy od wyniku wyboru, dlatego decyduj rozważnie.",
+      "kr_sha256": "082c193c6ec1341998fe04fd849e6bd615d38d491d75e2b95f0a0563a962f657",
+      "en_sha256": "0046514257782a7ad5de77569d8669f22fd3b2cbd948bd98c6444a335dfc69af",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1301_01].content": {
+      "pl": "Umiejętności obszarowe posiadają Wagę Ataku.\nCele ataku zależą od zakresu celowania danej umiejętności (przód, środek, tył, specjalny itp.).\nStarcie umiejętności obszarowej zachodzi wyłącznie\nprzeciwko bezpośrednio wskazanemu celowi głównemu.\nJeśli umiejętność obszarowa przegra Starcie,\natak zostaje anulowany wobec wszystkich jej celów.\nPrzeciwko umiejętnościom obszarowym również aktywują się umiejętności obrony.",
+      "kr_sha256": "09da968bbf8a5296f5b94d9339326648dff0346b52a8e43768ce81515ed6e4e7",
+      "en_sha256": "6d10c3d3e6dbfa66aad83eaf7211400fd1daf7a0c44eee438d59d09a28f00d02",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1301_01_popup_title].content": {
+      "pl": "Umiejętności obszarowe",
+      "kr_sha256": "f35e88800ec3f63753ba704dd0a20fff2899f1adbc6ca1de85985c786ecbf4b8",
+      "en_sha256": "2f875059adf883100d947b0f5c2b7341857acb8c67e5ff32de21b3cff8089b61",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_01].content": {
+      "pl": "Każde działanie postaci podlega wartości „Szybkości”.",
+      "kr_sha256": "20946ba7e0c0fbec9c39fce68e4a599c0de60a1311601e9563269826017a4e79",
+      "en_sha256": "2e0ef9aa4d4f2ad3e21d2fdb5df227f095a680cc3ae16a6bef2c810d7acdf0e0",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_02].content": {
+      "pl": "Co turę Szybkość każdej postaci jest losowana z przedziału od jej wartości minimalnej do maksymalnej.\nNa podstawie wylosowanej Szybkości ustalane jest ustawienie na polu bitwy.\nWolniejsze postacie stają bliżej przeciwnika, przez co łatwiej stają się celem ataków.",
+      "kr_sha256": "442af23506b02b5632dabd70dd169d602974433ed40f0b1e0164f0a41b8bf75e",
+      "en_sha256": "bef6af1ab492437124c542e5335164cd4d86e5a907958d90942063adadcfe4c7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_02_popup_title].content": {
+      "pl": "Szybkość",
+      "kr_sha256": "4cd90141af3d1b2439fd2040374fb883f28472423d7310ad648d1b165f237f26",
+      "en_sha256": "22776d1874da20b9578a428c1a48384a5d4fc3279b5babf750c2d20347a8ac75",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_05].content": {
+      "pl": "Przed wyprowadzeniem ataku postać rzuca monetami, aby ustalić końcową Moc umiejętności. Im wyższa Moc końcowa, tym większe obrażenia.",
+      "kr_sha256": "df02556c9fd1612707ebfa63bcbec74bb12c898ff7938b73f3adb7db8e4a4111",
+      "en_sha256": "932437d8fd5b67218f57ebf67e87d50f62969857b48f73a1e3648f900cd38c1e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_06].content": {
+      "pl": "Liczba monet oznacza liczbę uderzeń umiejętności. Dwie monety to dwa ciosy.",
+      "kr_sha256": "0fbf2a48c1752888654ada32217044a10760b540a150e7388a38deb1b24fae8c",
+      "en_sha256": "92d5b1dc4d67c00a6fb38b0559befe90122b8b7d06f02354e303c164ce6ec0c3",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_07].content": {
+      "pl": "Przed wyprowadzeniem ataku postać rzuca monetami, aby ustalić końcową Moc umiejętności. Im wyższa Moc końcowa, tym większe obrażenia.",
+      "kr_sha256": "df02556c9fd1612707ebfa63bcbec74bb12c898ff7938b73f3adb7db8e4a4111",
+      "en_sha256": "932437d8fd5b67218f57ebf67e87d50f62969857b48f73a1e3648f900cd38c1e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_08].content": {
+      "pl": "Gdy wypadnie awers, Moc monety zostaje doliczona do Mocy umiejętności, zmieniając Moc końcową. Tym razem wartość wzrośnie.",
+      "kr_sha256": "9ef3fd8a3b93bb580b82e22ca89be596931e7e9e0aa8ab1379827b27b7610f01",
+      "en_sha256": "99cfb8627c718a38acf14e0f28022cff4825fd835361559da7a2c85862c2c788",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_201_09].content": {
+      "pl": "Zwiększona w ten sposób Moc utrzymuje się również przy rzucie kolejną monetą.",
+      "kr_sha256": "bfeafef5744c448aeefb67e6f785a0ecd7d38886b71879871fc475b3b7157912",
+      "en_sha256": "78dba3adda50183c8373ba243371d59df840ab3ac8ec7db44f02870a083f2e9c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_202_01].content": {
+      "pl": "Na początku każdej tury — niezależnie od „Oszołomienia”, „Paniki” czy „Korozji E.G.O” — dodawane są kolejne pola umiejętności zgodnie z kolejnością wystawienia w składzie.",
+      "kr_sha256": "92f38202fe4a1adbb222f4d4dd49a6d58a25a45e83cca9307aeb429408594211",
+      "en_sha256": "3e3f414e5a3ecc5cfa4d5e64b86a8ca4d77424710223d60835563bd2cac1ae10",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_202_02].content": {
+      "pl": "Gdy Grzesznik i stojący naprzeciw wróg użyją przeciw sobie umiejętności ataku, dochodzi do „Starcia”.",
+      "kr_sha256": "a27d0fa45f8e160cc4fd125626cd517ae3f349cfae36797ece8f9b08f19bf4d0",
+      "en_sha256": "2d1db0f1fa37b7794c7ed0afc0027e587005de49ebae810c50374f852675f887",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_202_03].content": {
+      "pl": "„Starcie” następuje, gdy Grzesznik i wróg zaatakują się nawzajem umiejętnościami ataku.\nWygrywa strona o wyższej Mocy Starcia, niszcząc jedną monetę umiejętności przegranego.\nDopóki po obu stronach pozostają monety, rzuty są ponawiane w kolejnych wymianach „Starcia”.\nGdy wszystkie monety jednej ze stron ulegną zniszczeniu, jej umiejętność zostaje anulowana, a Starcie kończy się jej porażką.\nZwycięzca „Starcia” wyprowadza atak pozostałymi monetami, zadając obrażenia zwiększone o premię za liczbę wymian.",
+      "kr_sha256": "b48c3a7ee2386f024cade1601e382ccc69d7fde0bec947034d4df390802fddb0",
+      "en_sha256": "b94647d708fcfb75678f8530c1f7c5ddc3d517763f5d39ff66ee45c74704a35f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_202_03_popup_title].content": {
+      "pl": "Starcie",
+      "kr_sha256": "5a070569570e50d8126d8232bfeb2c914bb92c696a0bb440b99b2c85f99d66fd",
+      "en_sha256": "f9437ba14e35abc5a3a5197c90436abf697027c5ef8adde1232f6bdb1a8f34f3",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_202_04].content": {
+      "pl": "W „Starciu” porównywana jest Moc Starcia obu umiejętności, a zwycięża strona z wyższym wynikiem.\nPasek oraz komunikat u góry ekranu wskazują przewidywane szanse zwycięstwa.",
+      "kr_sha256": "bc02c89e9ccf4840a162f889170975a304dd6cb2acd5db2d5699ebdb648624a1",
+      "en_sha256": "88220f602a7571cee649ca06a204688d631bd38df8f4e89a41b76613319ad2c1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_202_05].content": {
+      "pl": "Na początku Starcia obie postacie rzucają monetami, ustalając swoją Moc Starcia. Postać z wyższą Mocą wygrywa wymianę i niszczy jedną monetę przeciwnika.",
+      "kr_sha256": "a4acded5f3ff43ce4280e7322880ea7b83ce144181351c8c5c8b03cf57398f0f",
+      "en_sha256": "7f6d682f0719caae6a5410a345f801cd5fb12fecd735fb99a49b46e37e83b283",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_202_06].content": {
+      "pl": "Wymiany trwają aż do utraty wszystkich monet przez jedną ze stron.\nGdy ostatnia moneta postaci ulegnie zniszczeniu, jej umiejętność zostaje anulowana, a Starcie kończy się całkowitą porażką.",
+      "kr_sha256": "135d11c93e2932536433a109a4ecf1041ede9e64ae13a912da2361ac865f52aa",
+      "en_sha256": "0b3a494238e9f10e1b14598b4482ab72eae868ff39a740cf0761633689ab0df1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_203_01].content": {
+      "pl": "Kula obok paska PŻ wskazuje „Poczytalność” (SP) postaci.",
+      "kr_sha256": "7ed7dc7b9f4ece28e08cf02f80403c403883e0851bf7b9320a6b1e7cf20ae214",
+      "en_sha256": "7b7f68063977092e77d952703688b28252d22656c9bb3fe3f3d032294f95ab6a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_203_02].content": {
+      "pl": "Kula obok paska PŻ oznacza „Poczytalność” (od -45 do +45).\nIm wyższa Poczytalność, tym większa szansa na wyrzucenie awersu monet umiejętności.\nPokonywanie wrogów podnosi Poczytalność, natomiast śmierć sojuszników ją obniża.\nWrogowie, których Poczytalność spadnie poniżej określonego progu, popadają w „Niskie Morale” lub „Panikę”.",
+      "kr_sha256": "4a25380037d2a86bdc6d0dac0a38cdc0b9a3f8c2f55273149c3427f8f15154e5",
+      "en_sha256": "25f6474f39d69786e0745887ffba9e493eeb9930bf9cd4fd2e4bfa9ee417455f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_203_02_popup_title].content": {
+      "pl": "Poczytalność",
+      "kr_sha256": "b4b7a53a29fa5291157596fb3c9b35bbe4b79a2629f6ebe469e5c32c2357c132",
+      "en_sha256": "46f611c5c91b57048bc6f69260dc41b8201b1abca076c8f2a6f9c65bf5ae2571",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_203_06].content": {
+      "pl": "W tym miejscu możesz sprawdzić efekty działające aktualnie na postać.",
+      "kr_sha256": "3b61324263b5532d00e28f0249761489f1bf0dbd853d41312792e46c6539555e",
+      "en_sha256": "4e377b214f18b8acd10d51f269bbd33243e607c079f691045545022c996a156e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_203_07].content": {
+      "pl": "Dotknięcie ikony w tym obszarze wyświetli szczegółowy opis danego efektu.",
+      "kr_sha256": "7e6d06739127b27905d41714b8c1b3534c8782afc0a340bd23d09aba15046e48",
+      "en_sha256": "9721a4a2620ce38a3c0a8c2feecf475b206643be51cf54780971c7908520fe96",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_203_08].content": {
+      "pl": "Wszyscy wrogowie wpadli w Panikę. To nasza szansa — wydaj rozkazy według własnego uznania.",
+      "kr_sha256": "ad4aa7208404bb1a27bc571ae25b27d0b5226b027d8892f9961069ab13d42e95",
+      "en_sha256": "cdb96043a1812d0c1b33d110557bc6ce75bb5d703563fd850c8fef51b9fe9b9c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_301_01].content": {
+      "pl": "Połącz umiejętności.",
+      "kr_sha256": "e829ae4ee20e0c127f4ed0a4634b08dfa58cfea2637818d1cc58e605788de892",
+      "en_sha256": "f05ad46145d4025fda1cca89ae4667553e3a757ab3c5bc24d2496187922c78a4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_301_02].content": {
+      "pl": "Umiejętności dzielą się pod względem typu ataku na „Cięcie”, „Kłucie” i „Obuch”\noraz pod względem Grzechu na „Gniew”, „Żądzę”, „Lenistwo”, „Obżarstwo”, „Posępność”, „Pychę” i „Zawiść”.\nOstateczne obrażenia zależą od odporności celu na dany typ ataku oraz Grzech.",
+      "kr_sha256": "ad6aba73ac49f6f373d6f88d50c47e80e13babbf4717708b0b01dc8745767b74",
+      "en_sha256": "7a818bd53e349bb55f81c359bfdb80401e74ba3fcf0e85818bf05b0a765e76ca",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_301_02_popup_tItle].content": {
+      "pl": "Typy ataku i Grzechy",
+      "kr_sha256": "601498249b8a223213fd5fb8e44fee013af4869ac64dfca593971e9aefd8249d",
+      "en_sha256": "78e924c79bb4d3a7886ddd575bb8820ec49220ed3f7368946b5385e75309d5e1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_301_03].content": {
+      "pl": "Tutaj sprawdzisz typ ataku oraz Grzech umiejętności, której zamierza użyć sojusznik.",
+      "kr_sha256": "2ca91c57e77b8610591dda70363312732cfe7d56fe446c6256eae7f27b5cb5ed",
+      "en_sha256": "afb40e26353c392cc2a8b0c03972f178e124d8301661bc1bf3aacc76d07daf5c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_301_04].content": {
+      "pl": "W tym miejscu widoczne są odporności i słabości poszczególnych postaci.\nTen przeciwnik jest podatny na Cięcie.",
+      "kr_sha256": "ef21eb582d46ab21ec1e901a4b76c6153c7754cc7daab4d8b8b4061d5b39d4d5",
+      "en_sha256": "93dceda919a4d6b1ba19c89806e36935277bec58bb2a867dd52770e23cb3dc9c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_01].content": {
+      "pl": "Aby odeprzeć natarcie wroga, możesz również użyć umiejętności obrony.\nSparowana z wrogiem umiejętność obrony zadziała przeciwko jego atakowi, natomiast niesparowana aktywuje się w chwili otrzymania ataku jednostronnego.",
+      "kr_sha256": "f34260abd3f34d287d15c73ec1cfde50e0f6c6b922fc7586f584a175b87e942e",
+      "en_sha256": "faf49ade204a336730446c62621d25908573dbe08f11d97d2f0889df5ef984cc",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_02].content": {
+      "pl": "W przeciwieństwie do umiejętności ataku umiejętności obrony należy wygenerować osobno.",
+      "kr_sha256": "e65b6fa9b62cfdb1a4b11ff70768bf2d536bdc266380052ce0266055940e860c",
+      "en_sha256": "8264c8c17b084caa205c17afd75e4f254d0021a6136385dd10c1ba6e8d8973fd",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_03].content": {
+      "pl": "Najpierw wygenerujmy umiejętność Gardy.",
+      "kr_sha256": "7a75af4dc58d98809bbe767c8b175726c8d10cf29bb55d78ac22130e51ade70b",
+      "en_sha256": "934d6d3f6244bd0b3c74951507d2db7b12ee51516391ce954f9fe4cb8a3ad784",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_04].content": {
+      "pl": "Naciśnij portret Gregora.",
+      "kr_sha256": "17271b799fae9f3782b8c689fece7b0aca0585f574e4d96cbda06f94632e6191",
+      "en_sha256": "b83e2c9b61b2a3f9c46374c30409a8ed3e986901d08826409a93fb883bdf8b21",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_05].content": {
+      "pl": "Garda zapewnia Tarczę równą swojej Mocy.\nPrzy otrzymaniu ciosu w pierwszej kolejności pomniejszana jest Tarcza zamiast PŻ.\nKilkukrotne użycie Gardy w jednej turze aktywuje ją odpowiednią liczbę razy.",
+      "kr_sha256": "7965615fce00af0f851ac523dc47b80e6af30a2111071eabe375e8cf64a604c2",
+      "en_sha256": "69d208491cd5f6cdd40686c4843eb8b7e5b537641a91d3e55ae647db39ace018",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_05_popup_title].content": {
+      "pl": "Umiejętność obrony — Garda",
+      "kr_sha256": "80d9d7dc895afd5a7ffd2737eb2abd1a96ba876af7907ce15a06efff0452d2d0",
+      "en_sha256": "57ab7bc8ed2dfb24f0028154961fab1156885adf6a4297c4e495bc7195b2ae0e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_06].content": {
+      "pl": "Dobrze — umiejętność Gardy została wygenerowana. Teraz wygenerujmy umiejętność Kontry.",
+      "kr_sha256": "a8ea1b6cf0f2878514697ce7682dacc4977863aba83e1c1719fec93c18cdaef4",
+      "en_sha256": "edb1a977e3a179c2af695a68b903970e5b8b3101844f20778592e95ecbbc1a99",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_07].content": {
+      "pl": "Naciśnij portret Rodii.",
+      "kr_sha256": "cd4e5bd93bbc38d3698e2f5e5c65a7df60aca6698f68fe322be0c64f0d4ac969",
+      "en_sha256": "5558d17963bcff49be7e872c5a43ef0f98ff2ee951db5c5f48ce93c194409949",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_08].content": {
+      "pl": "W odróżnieniu od pozostałych umiejętności obrony Kontra posiada własny Grzech i po użyciu generuje zasób E.G.O.\nPo przyjęciu trafienia postać wyprowadza atak jednostronny przeciwko agresorowi.\nJeśli jednak cios doprowadzi do Oszołomienia, Kontra nie zostanie wykonana.",
+      "kr_sha256": "49caa6c4537fb9518b68351316ffcc19ebc4fa2592171b74cb2bebeb126e4970",
+      "en_sha256": "64ad91191184e8cb47c64c69b5b3689d143c96b2fc62195d7e4e581f39f03bad",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_08_popup_title].content": {
+      "pl": "Umiejętność obrony — Kontra",
+      "kr_sha256": "2ab7b56ece1f7cd9d810ed7bd4c2a7e7accb6c3a90f3819220680f9ec10b95f3",
+      "en_sha256": "b7c34496b681b35e9fb6bdf522fa07951549b1088fb19fa12aecff9ab0e453d6",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_09].content": {
+      "pl": "Znakomicie.\nNa koniec wygenerujmy umiejętność Uniku.",
+      "kr_sha256": "93b643438a30ec45584f37d9f69e12bbb0185a6446fa95d2571e978e523caec6",
+      "en_sha256": "6cea6362cf531f222e4c0c239bd69d7830b556d506c88bf478824ee294f80f77",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_10].content": {
+      "pl": "Naciśnij portret Faust.",
+      "kr_sha256": "133cead4087b577d94273f9fd019ac9143dae76e6fc3f86a86b739fc84ee8f65",
+      "en_sha256": "6261227f00a60526ceb3211ad88e5b5b25cf134dfa67bc1bd65a76f5f2edd61d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_11].content": {
+      "pl": "Jeśli Moc końcowa Uniku jest równa lub wyższa od Mocy umiejętności przeciwnika, postać całkowicie unika ataku.\nUważaj — jeśli Moc końcowa okaże się niższa, cios trafi z pełną siłą.",
+      "kr_sha256": "a33c74986adb011d4e55de2d3ec8be76fb8d3a3865832c828358e999b1e5d1b0",
+      "en_sha256": "4bcd42b940b1fb611fd3800c51a6e1881d841b93026f8fab604415b2bfc43e30",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_11_popup_title].content": {
+      "pl": "Umiejętność obrony — Unik",
+      "kr_sha256": "2af4ab6bbae692a3c98b6c8569508a18d73c50055c703cf9676ce21c761d454a",
+      "en_sha256": "4e047253900ab2ae718b3643f9f8d9f0e546d1bc420b87662d6fee7aae101c4d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_302_12].content": {
+      "pl": "Umiejętność Uniku również została prawidłowo wygenerowana.\nTeraz połącz wygenerowane umiejętności obrony i wydaj rozkaz do walki.\nCelem jest eliminacja wszystkich wrogów.",
+      "kr_sha256": "be6b6e9872ff9b72d94971b8f8037750fc0b55219e13fd66a695745c0f1ef677",
+      "en_sha256": "5173d2baccde1d87c15714e2ffe0cea069d2e57400bf4a62a99f4d7ad14c2aaa",
+      "origin": "ai"
+    }
+  }
+}

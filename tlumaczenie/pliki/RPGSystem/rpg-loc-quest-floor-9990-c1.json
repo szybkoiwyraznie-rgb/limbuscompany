@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[key=Q9990_C1].description": {
+      "pl": "Czas zejść z wyznaczonej ścieżki.",
+      "kr_sha256": "4b5b66c7262e4723cbadd9263dd1f480cd51127a7561c74591f0cf63a005f70a",
+      "en_sha256": "3823b2623a6fdb76f42585efa6e9a80a258086715037a5035b0a7f4c89701dff",
+      "origin": "ai"
+    },
+    "dataList[key=Q9990_C1].steps[#0].goalDescription1": {
+      "pl": "Pokonaj Strażnika i sprzeciw się przeznaczeniu",
+      "kr_sha256": "1ec8343f1339b924dd0be9b70b6fc87b3394a38f0f6c5404f2f5c8b7b730d7b4",
+      "en_sha256": "92191a5a054a7cc32c5a860c506fac52d573eabbd4441b56765726811e10a998",
+      "origin": "ai"
+    },
+    "dataList[key=Q9990_C1].title": {
+      "pl": "Sprzeciw się przeznaczeniu",
+      "kr_sha256": "4ab75daac9ba0aded05ab1ea21657d9a2cdc5758db342483af471e320dcc9dd1",
+      "en_sha256": "9e7142487235e0ce35a83ea8dd316ec78dd094d58baa6f636bf50e69abf230cf",
+      "origin": "ai"
+    }
+  }
+}

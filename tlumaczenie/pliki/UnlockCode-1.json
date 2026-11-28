@@ -1,0 +1,562 @@
+{
+  "entries": {
+    "dataList[id=100001].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 1",
+      "kr_sha256": "4e3de3817e1f65797ce370cf78d92e42db234157507ddb926b91d06820077c3f",
+      "en_sha256": "0ca1cfa29322450f6ead73e03c7d0a0ef03de7834044d771d377926d530f6425",
+      "origin": "ai"
+    },
+    "dataList[id=100001].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 1",
+      "kr_sha256": "4862cefe96bb3ab227cf282bf050e9a062e026678ff1175bfb9c045c09e41283",
+      "en_sha256": "fc6559b377fb3efbe9af2a7bb183cbac85ebd2e277014496fe15d60e54c16fe2",
+      "origin": "ai"
+    },
+    "dataList[id=100002].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 2",
+      "kr_sha256": "cb863fdd976339c6710f9abee066ecbeff93ad8f28522e0ac351c68e32bff37a",
+      "en_sha256": "2ccb34e7c3ed1832c29603d93c1308ef392a7e656a3683f366399d796a30e3ad",
+      "origin": "ai"
+    },
+    "dataList[id=100002].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 2",
+      "kr_sha256": "fe166b29f5584f5fd48655367d93c499a1ea2cb416e63eda0a258c9a25ff9d90",
+      "en_sha256": "f781033a8b9d23e0b5dafc5d395cba8ea472ef2af3a244fa139711969653a8d0",
+      "origin": "ai"
+    },
+    "dataList[id=100003].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 3",
+      "kr_sha256": "bbab068e1a090b54d5185448ecde4e96a51bd08104856a75f41d3468191f97e4",
+      "en_sha256": "0cfead7f993c30e1bb9a24e887b31c75e2133c65692dbcb9a2c5f6b92c333245",
+      "origin": "ai"
+    },
+    "dataList[id=100003].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 3",
+      "kr_sha256": "56505a448d9469638905a56ef8e9f8b942d92b352face9e5def2e2af3e4ea5ed",
+      "en_sha256": "d42de9d014b36386c214137b9f5c9d797b5116d320c3349a056bc31fa07a5df0",
+      "origin": "ai"
+    },
+    "dataList[id=100004].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 4",
+      "kr_sha256": "c262fe6e2c89d4f1df33032c329da670054d7fac7e9be2958651f8a1de95d1ca",
+      "en_sha256": "02fb04cb4a4f35e9878e26e487bae32e359a7516e7b5b3d7fe28f9c2fb02972c",
+      "origin": "ai"
+    },
+    "dataList[id=100004].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 4",
+      "kr_sha256": "bf23fd1d917e107310abd6ae9c17fdbc634c94e0a2d3ad6920975d953641057e",
+      "en_sha256": "25abf018ca4ac4ccabfe71630311690c5a5a23459af90717e421382986c862f0",
+      "origin": "ai"
+    },
+    "dataList[id=100005].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 5",
+      "kr_sha256": "8030692d6a9334c3159f0abc1972b706406f9f9dc64ecf74025289234d792e97",
+      "en_sha256": "eff914f3de0a7a4d34561ba7882581997e96d34ec938d9f76b7ae0cc7ef9a4c1",
+      "origin": "ai"
+    },
+    "dataList[id=100005].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 5",
+      "kr_sha256": "62395b517aa07164241e2400310b78dab7577572c333aab811a223468eb9446c",
+      "en_sha256": "402d7938b9e10049b4b294b8191f72ae7eb6666d627b5ba89fd8732d6d04da98",
+      "origin": "ai"
+    },
+    "dataList[id=100006].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 6",
+      "kr_sha256": "06b824666e113712c04b79550039052b7ab292b3c9209d723fc80ebecc0a16d8",
+      "en_sha256": "1daee5ebc7619f74da56730bff30a5b6cfda3971fee5914c11e8d27ea8765794",
+      "origin": "ai"
+    },
+    "dataList[id=100006].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 6",
+      "kr_sha256": "9d61694c1af04e4d0a22b943ea0411f2e4b60655860de7983538934583ade7cf",
+      "en_sha256": "971885eb4213fac9128387ebcdefcbedd45b4559b94e66bd0ceac26bdb154a87",
+      "origin": "ai"
+    },
+    "dataList[id=101001].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 1 BokGak",
+      "kr_sha256": "dfcd43be776475f75f24b10f9fa5142f84507cc694cff489bf180edc1fcd7160",
+      "en_sha256": "3b3adbb6f680618cb5034e3a46d5c7f178688b5825021a7370cd1d98145980d5",
+      "origin": "ai"
+    },
+    "dataList[id=101001].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 1 BokGak",
+      "kr_sha256": "ab0a19c8b37516a7ba047f776b340f205bd5ab1bd20b0aeeba8580ff056eb167",
+      "en_sha256": "be815f833493eb213220265685e40388cb4408da3b02369a3a0bb6c0dc02cc23",
+      "origin": "ai"
+    },
+    "dataList[id=101002].openCondition": {
+      "pl": "Ukończ Kolej Załamania — Linia 2 BokGak",
+      "kr_sha256": "198e81bb5d5b8367f44398e51fee9c73cad6b44daec360b1c5db7a1793cb5cbd",
+      "en_sha256": "aa3fbbcc8bdaecae8832137badaaa81252416a2df6536896a4d7606c02e82ae9",
+      "origin": "ai"
+    },
+    "dataList[id=101002].relatedChapterText": {
+      "pl": "Kolej Załamania — Linia 2 BokGak",
+      "kr_sha256": "23a147ba33fc065616db98d7998d9ab0322312e29b7b6ccfbae53590ab498aba",
+      "en_sha256": "fd3f163c068f4288266497c3c49b25f928b5ff4105a07ad97a6fa3069310a036",
+      "origin": "ai"
+    },
+    "dataList[id=101].openCondition": {
+      "pl": "Ukończ Canto I",
+      "kr_sha256": "99e5c2d0a072542ed5925170479bf7f1cdcafae18f3405881305849261e7fff9",
+      "en_sha256": "da2b431db2a056d6006c39ee8a26f11a6d37bedd85be3ef0330919caacff9435",
+      "origin": "ai"
+    },
+    "dataList[id=101].relatedChapterText": {
+      "pl": "Canto I",
+      "kr_sha256": "56556e779c92a4e8c9299908a74447301c9d404a74847940f244345a09416a37",
+      "en_sha256": "56556e779c92a4e8c9299908a74447301c9d404a74847940f244345a09416a37",
+      "origin": "ai"
+    },
+    "dataList[id=102].openCondition": {
+      "pl": "Ukończ Canto II",
+      "kr_sha256": "fe6da891082ed3efa7942dae06481fdbfc5d58cec8b74b1d99604475a78783cc",
+      "en_sha256": "ce3f6f8b41447670b37f5c43e7ea395f91bffea1aa56f7ba33287f8053c4238d",
+      "origin": "ai"
+    },
+    "dataList[id=102].relatedChapterText": {
+      "pl": "Canto II",
+      "kr_sha256": "d9d07af87ee38cca9839d7d6ced7acdb691f1456dc24e71510101a7c9a4511b4",
+      "en_sha256": "d9d07af87ee38cca9839d7d6ced7acdb691f1456dc24e71510101a7c9a4511b4",
+      "origin": "ai"
+    },
+    "dataList[id=103].openCondition": {
+      "pl": "Ukończ Canto III",
+      "kr_sha256": "b4d7d07fadc203ba6cec85487036260df31a2b979c0463ab26f4968352a69378",
+      "en_sha256": "3dca116f1f85a58bddbfbef7cb49fa661bfb7dc3a668ba1c621c66f3a9483ae2",
+      "origin": "ai"
+    },
+    "dataList[id=103].relatedChapterText": {
+      "pl": "Canto III",
+      "kr_sha256": "63e21b274576c3c126a8f2e379b6f6dd63b5293486e6c1275d61324872070b8c",
+      "en_sha256": "63e21b274576c3c126a8f2e379b6f6dd63b5293486e6c1275d61324872070b8c",
+      "origin": "ai"
+    },
+    "dataList[id=104].openCondition": {
+      "pl": "Ukończ Canto IV",
+      "kr_sha256": "3427be2a67ccc790f42a76e36d693c2cd9c1535880997d7e40d895e0a4a3bea6",
+      "en_sha256": "a1182268f0dec98f5899990bf40def8a924d8808254da29a8c8b0252750191ee",
+      "origin": "ai"
+    },
+    "dataList[id=104].relatedChapterText": {
+      "pl": "Canto IV",
+      "kr_sha256": "495c29d6ced3d1afd0bbe4d845696e87606c7f54d71fe60d06d0114a676513c0",
+      "en_sha256": "495c29d6ced3d1afd0bbe4d845696e87606c7f54d71fe60d06d0114a676513c0",
+      "origin": "ai"
+    },
+    "dataList[id=105].askLevelUp": {
+      "pl": "Limit poziomu Tożsamości rośnie wraz z postępem fabularnym,\na maksymalny poziom osiągalny tym biletem (Poz. {0})\nzostaje odblokowany po ukończeniu Canto V Głównej Opowieści.",
+      "kr_sha256": "bbcc4f26bbe6df618cbd70cf4096b1f96e447eafc68d2d66cd530dd3d918621d",
+      "en_sha256": "284551a34015c3f2bab081de12ecbf77fbff618061b7de80e1e462f84ae2f43d",
+      "origin": "ai"
+    },
+    "dataList[id=105].openCondition": {
+      "pl": "Ukończ Canto V",
+      "kr_sha256": "6177e676d7a87d3759a656050e7e16450545278d12d2c64beceaf279db35270b",
+      "en_sha256": "68c6baeac97a4b054b5e296ee66f402becbcee1afc81d9d6900ec743b7fbd9fe",
+      "origin": "ai"
+    },
+    "dataList[id=105].relatedChapterText": {
+      "pl": "Canto V",
+      "kr_sha256": "1cd06e6eb0e7d085b22da4109663965f3806ae779eee6eb6781e90a8f7087a25",
+      "en_sha256": "1cd06e6eb0e7d085b22da4109663965f3806ae779eee6eb6781e90a8f7087a25",
+      "origin": "ai"
+    },
+    "dataList[id=106].askLevelUp": {
+      "pl": "Limit poziomu Tożsamości rośnie wraz z postępem fabularnym,\na maksymalny poziom osiągalny tym biletem (Poz. {0})\nzostaje odblokowany po ukończeniu Canto VI Głównej Opowieści.",
+      "kr_sha256": "0c97070b8d1a8ea60a22fbd53c0d3e9db5751de5b9aa8c6154d01520c3242099",
+      "en_sha256": "1ff23cee2a39067547214c22972bb7bd1154004ae688dca2fd6d984e2c75cb52",
+      "origin": "ai"
+    },
+    "dataList[id=106].openCondition": {
+      "pl": "Ukończ Canto VI",
+      "kr_sha256": "28df602d214866ed76d6f56578f24ee492f91d23427f93f5f1a6b9a4ea3e867b",
+      "en_sha256": "e787ebb9ce5f40d065df519ef277356db3614be6e1d0dd66eed0e4841e15797c",
+      "origin": "ai"
+    },
+    "dataList[id=106].relatedChapterText": {
+      "pl": "Canto VI",
+      "kr_sha256": "c281358b451ee01f9175e07fcc31c8d225ad67305f0af074a3c3f1f54c30a6f9",
+      "en_sha256": "c281358b451ee01f9175e07fcc31c8d225ad67305f0af074a3c3f1f54c30a6f9",
+      "origin": "ai"
+    },
+    "dataList[id=107].openCondition": {
+      "pl": "Ukończ Canto VII",
+      "kr_sha256": "0b43fb3491db7a358f88b235b76f66fc7e40bdc06ddf59e18902da475291590e",
+      "en_sha256": "3a65c8b4e04c1e944770fc3f0286eed07990d07df67111fd962c02b2298c212b",
+      "origin": "ai"
+    },
+    "dataList[id=107].relatedChapterText": {
+      "pl": "Canto VII",
+      "kr_sha256": "f5ff692948fda64f50780c3a346946fb29c49ad72fd03452f2fc21072b00c5dc",
+      "en_sha256": "f5ff692948fda64f50780c3a346946fb29c49ad72fd03452f2fc21072b00c5dc",
+      "origin": "ai"
+    },
+    "dataList[id=108].askLevelUp": {
+      "pl": "Limit poziomu Tożsamości rośnie wraz z postępem fabularnym,\na maksymalny poziom osiągalny tym biletem (Poz. {0})\nzostaje odblokowany po ukończeniu Canto VIII Głównej Opowieści.",
+      "kr_sha256": "9200e5772df1e7729d55b0788bd1c69ad9cd6cf54a4176bff62e20f90ede4ece",
+      "en_sha256": "d303518a829f14d958c2e9208fb39670c757e8ac31fd9e51d01b3cf1f94bf483",
+      "origin": "ai"
+    },
+    "dataList[id=108].openCondition": {
+      "pl": "Ukończ Canto VIII",
+      "kr_sha256": "5d41942e38525a20fa3b8630d9832ef262286ddcd10723f44358f5eb50817c42",
+      "en_sha256": "a42c788c02e1f7a0d8786d09393d5045efff9228379a0bfef22289de574dcce3",
+      "origin": "ai"
+    },
+    "dataList[id=108].openConditionNumber": {
+      "pl": "Ukończ 8-33",
+      "kr_sha256": "e4a29c2d1c0383a06e83f4c58bd07c4dad45b42203fc3442b97c69e817eb85fb",
+      "en_sha256": "ad475bad6911f11a71504d586b0ef47deb920be408e180a1fe8acaca4b179f5c",
+      "origin": "ai"
+    },
+    "dataList[id=108].relatedChapterText": {
+      "pl": "Canto VIII",
+      "kr_sha256": "cea0c0343a6e300e3b2efb4894b392ecc1c2a47a36d29476f925fa87eccdde20",
+      "en_sha256": "cea0c0343a6e300e3b2efb4894b392ecc1c2a47a36d29476f925fa87eccdde20",
+      "origin": "ai"
+    },
+    "dataList[id=109].openCondition": {
+      "pl": "Ukończ Canto IX",
+      "kr_sha256": "e9f643aa374bfa61d3da691655fb758da438da01a8a9ffb807b0038217b115c9",
+      "en_sha256": "6cf2cd7d74adebf6bcf39e00ca432a9c2ba84eaf117ed0e1ba126860d63ada71",
+      "origin": "ai"
+    },
+    "dataList[id=109].relatedChapterText": {
+      "pl": "Canto IX",
+      "kr_sha256": "d2f5b5b6081701111ecfbb843aea2abf0cb06768911a24069dd3d022a0967ca9",
+      "en_sha256": "d2f5b5b6081701111ecfbb843aea2abf0cb06768911a24069dd3d022a0967ca9",
+      "origin": "ai"
+    },
+    "dataList[id=110].openCondition": {
+      "pl": "Ukończ Canto X",
+      "kr_sha256": "c1ab5bcd2065401d8e9e194d80931200a155c6bb0b507056cb9a36bf6c7de04c",
+      "en_sha256": "e0cd411eaa00fe870ec6087c8cc1f08be89ba8c823878b855f7bdbca549155cc",
+      "origin": "ai"
+    },
+    "dataList[id=110].openConditionNumber": {
+      "pl": "Ukończ 10-7",
+      "kr_sha256": "d22aa4b8d14dff11a6230c4196dad2276af66a62d5ab81e371edd310382349f4",
+      "en_sha256": "e08b5925077606d56a5e9a0399083e52718f0959f4a54c7a286d120a13c50a0b",
+      "origin": "ai"
+    },
+    "dataList[id=110].relatedChapterText": {
+      "pl": "Canto X",
+      "kr_sha256": "60ad51a3d5f4ec428c18b4fd8d980574dd47d0e1de514cb0ba77ac304f8c8b97",
+      "en_sha256": "60ad51a3d5f4ec428c18b4fd8d980574dd47d0e1de514cb0ba77ac304f8c8b97",
+      "origin": "ai"
+    },
+    "dataList[id=9103].openCondition": {
+      "pl": "Ukończ Piekielny Kurczak",
+      "kr_sha256": "7781e360454f8e25c7411c65bd75e09d51f10c12b9a5db01ea0217cc81d3d712",
+      "en_sha256": "cae0589968608a7019ccb41d03521460c045c8ac543cab737ba2039d409d4938",
+      "origin": "ai"
+    },
+    "dataList[id=9103].relatedChapterText": {
+      "pl": "Piekielny Kurczak",
+      "kr_sha256": "e1db8d4ca1f3bb4bea17bc3b65f6099f7a4d3996a27ae8e4ab61a6e41d068674",
+      "en_sha256": "c1fc0b633108c3c9cf396b0c65d9fc696aecdb7139851cd1b12ece1babdfb808",
+      "origin": "ai"
+    },
+    "dataList[id=9104].openCondition": {
+      "pl": "Ukończ M.O.R.Z.E.",
+      "kr_sha256": "d081299fbe7305f8cea76773759af05b0fc4395b097ac0f4c19d8754f531ca7b",
+      "en_sha256": "788a4a24fc47fec5d4edd9d968c5d9311b9f347b4b7001f5c60a085b8647d965",
+      "origin": "ai"
+    },
+    "dataList[id=9104].relatedChapterText": {
+      "pl": "M.O.R.Z.E.",
+      "kr_sha256": "cc3ae1afdc4354d088fd9ef9d262fbee86ee6d6d73aba14702f3cae076052c6c",
+      "en_sha256": "d2b3207ad16d682a9feb240ad96e01ea3166764cf1dc8564f79777257af832a0",
+      "origin": "ai"
+    },
+    "dataList[id=9105].openCondition": {
+      "pl": "Ukończ Cud w Dystrykcie 20",
+      "kr_sha256": "13bf4fc9cfb666a3015d0889ae39c13868ab5d838660d708e3f8b3b4ec9b2205",
+      "en_sha256": "f78649017c2374a15b9a438573f0a0f3be64313f2725dddc79935180b75292ea",
+      "origin": "ai"
+    },
+    "dataList[id=9105].relatedChapterText": {
+      "pl": "Cud w Dystrykcie 20",
+      "kr_sha256": "87cb35473a95d38f2fab5ded3b0c9431c6baa80fda9802f74f0a04a3e8780b64",
+      "en_sha256": "dc2938bba856b83dd7f780265b71563695d405cb0b5c94c9eec927c4789e5094",
+      "origin": "ai"
+    },
+    "dataList[id=9106].openCondition": {
+      "pl": "Ukończ 2. Noc Walpurgii",
+      "kr_sha256": "0aeeefe4b8ac7ed296fbd85dc3b3e1b3de4a3c81bd8471a6981ae7b4bfde18b0",
+      "en_sha256": "990cd665c2b32f5ea20bf607d87106f33feaa0df785953d377a74b6b7ef79155",
+      "origin": "ai"
+    },
+    "dataList[id=9106].relatedChapterText": {
+      "pl": "2. Noc Walpurgii",
+      "kr_sha256": "5a263c7332e2cb8169cf5055a8e38c2cb5236590d9f2fdc159e393c62382d642",
+      "en_sha256": "680bc0e50dd6f16b776c0ea36c10a0e2d3cc47a7af37e4d0ba585cd8dba1e8a5",
+      "origin": "ai"
+    },
+    "dataList[id=9107].openCondition": {
+      "pl": "Ukończ Oddam Ciało, by Złamać Ich Kości",
+      "kr_sha256": "314038dc2b9a6fef37b7878321ec98f92eb11202054e4695a42cdbcb08e2ae4c",
+      "en_sha256": "5946d6557b17742e00372155e3f765793cce102f01145dbc5a159160d518cc58",
+      "origin": "ai"
+    },
+    "dataList[id=9107].relatedChapterText": {
+      "pl": "Oddam Ciało, by Złamać Ich Kości",
+      "kr_sha256": "9509ec09eb2b43783f11239f2ca90599d3658ab19069fb09a3ca4b93231cb723",
+      "en_sha256": "c720dfea4335cbf0876933d387d947209aeb83862fd66e0f451e965431a88374",
+      "origin": "ai"
+    },
+    "dataList[id=9108].openCondition": {
+      "pl": "Ukończ 3. Noc Walpurgii",
+      "kr_sha256": "396a1e858d5e85de988d52b46afc02ab4b4f51445bc1e4da6f74a5c3369863ad",
+      "en_sha256": "2a53a663903788640f14773e437789cb2dec579653aeccc5bbae7a78ee5c1dad",
+      "origin": "ai"
+    },
+    "dataList[id=9108].relatedChapterText": {
+      "pl": "3. Noc Walpurgii",
+      "kr_sha256": "34e66607f61a263ee7ded2c957d85628e0b36a3aec0b17c6f27d9c8e37a434e4",
+      "en_sha256": "130a807d566d1c689b9b6bc3798c94938a3634b5ceca2e5e89df598448eb741c",
+      "origin": "ai"
+    },
+    "dataList[id=9109].openCondition": {
+      "pl": "Ukończ Czas Zabijania Czasu",
+      "kr_sha256": "32a31b899be375746d3a2c8870eb783a9310e2b074efa74e46a3b316f63013ab",
+      "en_sha256": "fced2247ad98a99856ab15cf39b7903f09d7d322307abeb3731a7f54a435cce4",
+      "origin": "ai"
+    },
+    "dataList[id=9109].relatedChapterText": {
+      "pl": "Czas Zabijania Czasu",
+      "kr_sha256": "c69542103a65b1ae48bbc11729f9d1fe743394e73df134c756cca95aeb4e4ed0",
+      "en_sha256": "4f6bb38b5d15b5696ef94bc157228a44c4e1f9b13f394949b1eeab46e961ae3a",
+      "origin": "ai"
+    },
+    "dataList[id=9110].openCondition": {
+      "pl": "Ukończ Morderstwo w Ekspresie WARP",
+      "kr_sha256": "3cb3331231b52fc49222db56a98524fd8bcc35c3306457c62e09c53b75e15cb6",
+      "en_sha256": "7a443aff28248d7cbc0d6d221362d67b47f9d5191d0c2f6f3782ca19cd1671d7",
+      "origin": "ai"
+    },
+    "dataList[id=9110].relatedChapterText": {
+      "pl": "Morderstwo w Ekspresie WARP",
+      "kr_sha256": "318990182fc982c44a6bba37ac09862e88c03d83d0e7cbf3fcc7c238e20814ca",
+      "en_sha256": "3b0ffebe3a4479ed6d080e22cfdd588937949981eebddfef7079bf342adf51a4",
+      "origin": "ai"
+    },
+    "dataList[id=9111].openCondition": {
+      "pl": "Ukończ 4. Noc Walpurgii",
+      "kr_sha256": "9ff96f39cd47defd2528c53601dec416ac290f765a68dbacd1d33ed4235e0c53",
+      "en_sha256": "8d5fa2b0fa69ed84e53f90d43a206a3dfa532af35ae1b68e335f0e1da0dbcd3f",
+      "origin": "ai"
+    },
+    "dataList[id=9111].relatedChapterText": {
+      "pl": "4. Noc Walpurgii",
+      "kr_sha256": "88a728eab80aeef76ca7af34128cf7ad92bd1a784bd64eb12fc38296d58d61b8",
+      "en_sha256": "983d701a0218e49288b44349a52615495a9e76c8d4fbac47b72faabfea8749db",
+      "origin": "ai"
+    },
+    "dataList[id=9113].openCondition": {
+      "pl": "Ukończ 5. Noc Walpurgii",
+      "kr_sha256": "12ecef15acf0f38778678f51b20fb87b38a604805ad5c62f00a99594145220c8",
+      "en_sha256": "3d029e5ec3f66aa900041b3e93ffa5297e8c10e421598b4472a11f78b9bd9e36",
+      "origin": "ai"
+    },
+    "dataList[id=9113].relatedChapterText": {
+      "pl": "5. Noc Walpurgii",
+      "kr_sha256": "b07f20e993258f969643cd5ea1b727b7b3fb6877a99b98c57c9ddf54de3b62e5",
+      "en_sha256": "fc46c8e4fcab9fdd47f2e49569ef946f6ca83ac6e0a46d465ee0f1518600683f",
+      "origin": "ai"
+    },
+    "dataList[id=9114].openCondition": {
+      "pl": "Ukończ Okresowe Badania LCB",
+      "kr_sha256": "c3e885302b9fbdcf22081e50ae0155b60a528855ca6ba796b623381db4e80846",
+      "en_sha256": "a77b62373328fdda13a618db64623c9e7f3b1d89aaeeb08114058816b4056429",
+      "origin": "ai"
+    },
+    "dataList[id=9114].relatedChapterText": {
+      "pl": "Okresowe Badania LCB",
+      "kr_sha256": "65c5e58a8bd7a86fe398040bee99a7add09898b4b1b363a24746832ccc2c98d6",
+      "en_sha256": "5a1f00b1efc7ac94c8e8c40a3ba4610ee90675355389d7025457fdcaf18b741a",
+      "origin": "ai"
+    },
+    "dataList[id=9116].openCondition": {
+      "pl": "Ukończ Nocne Sprzątanie",
+      "kr_sha256": "66f099b13b09a9d0eca24a85df95e5624fd89973d739ded3a767c8872be8f23c",
+      "en_sha256": "93c5b3d1f7c41d790b1dae0177dd9be8cac28da7f077da5fbaac7755d6ba3120",
+      "origin": "ai"
+    },
+    "dataList[id=9116].relatedChapterText": {
+      "pl": "Nocne Sprzątanie",
+      "kr_sha256": "0e5d3b316cc6023f3e65d07f618dd0b16950d03736e7c5c88382863bde671114",
+      "en_sha256": "0f36a2f9ac9610687d75510e61862a902fab0ae6e8260394e567b107a7d7b9d9",
+      "origin": "ai"
+    },
+    "dataList[id=9117].openCondition": {
+      "pl": "Ukończ 6. Noc Walpurgii",
+      "kr_sha256": "6118931b13b6357b0abc2c215fc537b89d956389710af764821b8ad1398fb159",
+      "en_sha256": "4da84c64f6aa0e2c23427666c453d28c70a500ba746a8af3ae3bd59bb13453ef",
+      "origin": "ai"
+    },
+    "dataList[id=9117].relatedChapterText": {
+      "pl": "6. Noc Walpurgii",
+      "kr_sha256": "25ee76f48add44b3b52659df636ce7dc86cfc2cb176d366af7a79d23b1ac2855",
+      "en_sha256": "4908287ae31f24a4991d08ff86196f1001e302dff34ee310a39dbf49aa010019",
+      "origin": "ai"
+    },
+    "dataList[id=9119].openCondition": {
+      "pl": "Ukończ Wiosenny Szlif",
+      "kr_sha256": "890c1f9582ab3701abb90d504932ba9b6417b9b55d0d4ecebe2f0ee17b09ed26",
+      "en_sha256": "9e208466fbb26678aef2ba8a4481077ec7ab851602fe81d3426739efb620eff2",
+      "origin": "ai"
+    },
+    "dataList[id=9119].relatedChapterText": {
+      "pl": "Wiosenny Szlif",
+      "kr_sha256": "6752961b28158e5ae4597a751f56155788f1bbb4bbc35d15401c371d23dd20f0",
+      "en_sha256": "f67d2577b913960a2f6a63f1557db66fc048cea270a266f4d964a9f0c39cb129",
+      "origin": "ai"
+    },
+    "dataList[id=9123].openCondition": {
+      "pl": "Ukończ 8. Noc Walpurgii",
+      "kr_sha256": "b65a82702edcfc25631788c79af85906b7c91546f71a8f47fbf7b5bcabfddfef",
+      "en_sha256": "9278f00c64317c377af0cd536802652d4aee3db08840a64534cc53e657c79786",
+      "origin": "ai"
+    },
+    "dataList[id=9123].relatedChapterText": {
+      "pl": "8. Noc Walpurgii",
+      "kr_sha256": "325f0c082f4c7e51a13abedddd0a24b814fba622a20bd1161269835ca04f71d2",
+      "en_sha256": "79a80d26661516c0df4babcfe2b236227587f0a1911f7f1eb38efb920fc74098",
+      "origin": "ai"
+    },
+    "dataList[id=912520].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Splatanie Pasm (Normalny)",
+      "kr_sha256": "e723e17877e09dcc954b7aefc888c70c354976a556ca3d2e84ca166cd08467a6",
+      "en_sha256": "a203b47f7ebd0c545c6908209a98fe5830daa9d3d76b863e3459c1d34ae13006",
+      "origin": "ai"
+    },
+    "dataList[id=912521].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Splatanie Pasm (Trudny)",
+      "kr_sha256": "94bd6632873f633d2d53c694d6b0568e52846911aaa6ffc570b61e8d05dda7b2",
+      "en_sha256": "8cf8f4599c451e2ba4da5e13a2c218d337708a6184ebb1c6318a0d8dee2df7c4",
+      "origin": "ai"
+    },
+    "dataList[id=9125].openCondition": {
+      "pl": "Ukończ Splatanie Pasm",
+      "kr_sha256": "8af398abfbfe82128a8c23fee19da6ab34bb0389d421c8f035e509471d99ef60",
+      "en_sha256": "04eae65ccee1800ac0736994eb2cebe516fdec32ea3f0ad88ea976777f6b3975",
+      "origin": "ai"
+    },
+    "dataList[id=9125].openConditionNumber": {
+      "pl": "Ukończ 9.5-14",
+      "kr_sha256": "5f967041871e4a8bd0ec2bd6c8c4bc9800e877fa15ade6573be034126db8667c",
+      "en_sha256": "b9d20d6c9086b1693f14b08d4b67720dd5e4595515092b8f132917fcc1487d83",
+      "origin": "ai"
+    },
+    "dataList[id=9125].relatedChapterText": {
+      "pl": "Splatanie Pasm",
+      "kr_sha256": "3833f728fb44196fc3a13162c0d6fd08614bf7c7a193876fad0340a66795992b",
+      "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36",
+      "origin": "ai"
+    },
+    "dataList[id=912620].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Nocne Sprzątanie BokGak (Normalny)",
+      "kr_sha256": "ef68385f18245ecf9833d36016e15b37ac9f684552d51fc70e0cbb30d679a78d",
+      "en_sha256": "76dbf54b625383c35413825699d38e35288c33f45fee1716f22ae2b243d12230",
+      "origin": "ai"
+    },
+    "dataList[id=912621].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Nocne Sprzątanie BokGak (Trudny)",
+      "kr_sha256": "b02fa194dcf5b285b9d66253b0ef1b430d0b1d4d8b409760eed753c55e4342d9",
+      "en_sha256": "27d08f3facf753ef5c7d7eb2ff4b5f52279e1547da32e422917b7706c1621438",
+      "origin": "ai"
+    },
+    "dataList[id=9126].openCondition": {
+      "pl": "Ukończ Nocne Sprzątanie BokGak",
+      "kr_sha256": "64e0ad44da0b90418d1e413a1461c9d2092006650219a7c6ff89b968141ed8a9",
+      "en_sha256": "2ee1d67605a6a852dc9f7135e90b7db55b584ceb4141f97f7273c1bf20100ea6",
+      "origin": "ai"
+    },
+    "dataList[id=9126].openConditionNumber": {
+      "pl": "Ukończ 7.5-26 (Trudny)",
+      "kr_sha256": "f856eaeb38cdbadaa6fc30395429ee779c3a8a26ceb61a3ca114c2e714909834",
+      "en_sha256": "ac19fdfa7962bb0210f0e2102a16cce1b2cae041328be0ecc324d26c32f72f6e",
+      "origin": "ai"
+    },
+    "dataList[id=9126].relatedChapterText": {
+      "pl": "Nocne Sprzątanie BokGak",
+      "kr_sha256": "aa8b7ae3b04835bc3a63539ffdf7b570f8f46618af28c0cf7635ed39decaa8eb",
+      "en_sha256": "bdb10e10b3a806369f31ac52a1fec2441bc70c07185b453d5809c2a0dbc94c8a",
+      "origin": "ai"
+    },
+    "dataList[id=912720].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Pamięć Doświadczenia (Normalny)",
+      "kr_sha256": "de55f6df7f884cc51c56a980e4c64ddb3861cf431d64c257fbb6e5286cbd3301",
+      "en_sha256": "83e21d18d733a0aa958abad5c05be67152997cb8b928990cdd7a88a0c3c552ef",
+      "origin": "ai"
+    },
+    "dataList[id=912721].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Pamięć Doświadczenia (Trudny)",
+      "kr_sha256": "43c90e37a35b7a1517bb18c44a3a899baa2f949df71915b22afc0e6a9999f2c3",
+      "en_sha256": "44ab935d33fee1cb500e6c71723ac5541bec57dc6b282302c7d4ae9d8d8de449",
+      "origin": "ai"
+    },
+    "dataList[id=912722].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Chachihu (Normalny)",
+      "kr_sha256": "4014752a063fce239476cbec157eb943bb7dbff2b4b384162a12aa32ce792be0",
+      "en_sha256": "5e5c443a25a9e1d773a0002894ec206cca59f8ebc5ea6d43dc99dc24e08b260d",
+      "origin": "ai"
+    },
+    "dataList[id=912723].openCondition": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Chachihu (Trudny)",
+      "kr_sha256": "a7ada658d6772958903ed8f035da9a8f840328a4253f7054b4f0ff6297755ff8",
+      "en_sha256": "c15f301c7b142886f0939c685e5b72b36905f9a5af3251c8debfe66b6d50d749",
+      "origin": "ai"
+    },
+    "dataList[id=9127].openCondition": {
+      "pl": "Ukończ Pamięć Doświadczenia",
+      "kr_sha256": "5908f2109467823dea0a95c15fe0fb744792cebdfb56a87eab12de1a7ff8f1b3",
+      "en_sha256": "4e1f5d6ec1422f4099fed96d546aa8bbfc82197b34ac93e28aa2061a7b412b39",
+      "origin": "ai"
+    },
+    "dataList[id=9127].openConditionNumber": {
+      "pl": "Ukończ 9.5-26",
+      "kr_sha256": "f2117aedf904f66b24a4aada476d0d7c7ff08bceffc0eb7d05783be828eded07",
+      "en_sha256": "8d48318e2e634f1f93490828b570839f0ed7ba20521c2cad16ea3f71da6542b4",
+      "origin": "ai"
+    },
+    "dataList[id=9127].relatedChapterText": {
+      "pl": "Pamięć Doświadczenia",
+      "kr_sha256": "f9eb86699cc3a3ef89e3845d4f72b1be96dcd5b68ad7cad3f55e08ab7a938439",
+      "en_sha256": "9c7cf3d4194cada8e7293e15fea03daca222d9e843c9e158aaf19e1e0dd44db4",
+      "origin": "ai"
+    },
+    "dataList[id=9128].openCondition": {
+      "pl": "Ukończ Canto X",
+      "kr_sha256": "c1ab5bcd2065401d8e9e194d80931200a155c6bb0b507056cb9a36bf6c7de04c",
+      "en_sha256": "e0cd411eaa00fe870ec6087c8cc1f08be89ba8c823878b855f7bdbca549155cc",
+      "origin": "ai"
+    },
+    "dataList[id=9128].openConditionNumber": {
+      "pl": "Ukończ 10-7",
+      "kr_sha256": "d22aa4b8d14dff11a6230c4196dad2276af66a62d5ab81e371edd310382349f4",
+      "en_sha256": "e08b5925077606d56a5e9a0399083e52718f0959f4a54c7a286d120a13c50a0b",
+      "origin": "ai"
+    },
+    "dataList[id=9128].relatedChapterText": {
+      "pl": "Canto X",
+      "kr_sha256": "60ad51a3d5f4ec428c18b4fd8d980574dd47d0e1de514cb0ba77ac304f8c8b97",
+      "en_sha256": "60ad51a3d5f4ec428c18b4fd8d980574dd47d0e1de514cb0ba77ac304f8c8b97",
+      "origin": "ai"
+    },
+    "dataList[id=9129].openCondition": {
+      "pl": "Ukończ 10. Noc Walpurgii",
+      "kr_sha256": "3daa59c1158ee471cab81d70b521aaf891bb30ced7575560b3473ec386cec64f",
+      "en_sha256": "05f8279059e5b0ec64fab5b598531e277c620508881fa17b28bb4c542de0e5ce",
+      "origin": "ai"
+    },
+    "dataList[id=9129].relatedChapterText": {
+      "pl": "10. Noc Walpurgii",
+      "kr_sha256": "85e528729bdc6b7b222fc9c9bc35453d294f912619efe990f0b38603bc6fde20",
+      "en_sha256": "0c541f3f2fa5ca0ec9d43762dfc9f96ec2606d09ac782ab46f48e20a3ffd417e",
+      "origin": "ai"
+    }
+  }
+}

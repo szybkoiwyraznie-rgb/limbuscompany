@@ -1,0 +1,4970 @@
+### 1 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 10 부여. [Combustion] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 10 [Combustion] and +2 [Combustion] Count
+
+### 2 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 등불과 같은 눈
+EN: Eyes Bright Like Lamps
+
+### 3 (L260)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CanDuelGuard]\n공격자의 속도가 자신의 속도보다 높으면 속도 차이 2당, 코인 위력 +1 (최대 2)\n- 자신의 속도가 1이면, 대신 코인 위력 +2\n[StartBattle] [LanternHohenheimBigBird] 6 얻음
+EN: [CanDuelGuard]\nIf the target's Speed is faster than this unit's, Coin Power +1 for every 2 Speed difference (max 2)\n- At 1 Speed, Coin Power +2 instead\n[StartBattle] Gain 6 [LanternHohenheimBigBird]
+
+### 4 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 속사
+EN: Rapid Fire
+
+### 5 (L230)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 속도가 자신보다 높으면 속도 차이 2당, 코인 위력 +1 (최대 2)\n- 자신의 속도가 1이면, 대신 코인 위력 +2\n[WhenUse] [LanternHohenheimBigBird] 5 얻음
+EN: If the target's Speed is faster than this unit's, Coin Power +1 for every 2 Speed difference (max 2)\n- At 1 Speed, Coin Power +2 instead\n[WhenUse] Gain 5 [LanternHohenheimBigBird]
+
+### 6 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여. [Combustion] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict 2 [Combustion] and +1 [Combustion] Count
+
+### 7 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여. [Sinking] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict 3 [Sinking] and +1 [Sinking] Count
+
+### 8 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 영거리 주시
+EN: Intense Stare: Zero-Range
+
+### 9 (L230)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 속도가 자신보다 높으면 속도 차이 2당, 코인 위력 +1 (최대 2)\n- 자신의 속도가 1이면, 대신 코인 위력 +2\n[WhenUse] [LanternHohenheimBigBird] 4 얻음
+EN: If the target's Speed is faster than this unit's, Coin Power +1 for every 2 Speed difference (max 2)\n- At 1 Speed, Coin Power +2 instead\n[WhenUse] Gain 4 [LanternHohenheimBigBird]
+
+### 10 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Combustion]
+
+### 11 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict +1 [Combustion] Count
+
+### 12 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여. [Sinking] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict 5 [Sinking] and +1 [Sinking] Count
+
+### 13 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 등불에 현혹된 것에는 구원을
+EN: Salvation for those Enchanted by the Lamp
+
+### 14 (L500)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 일방 공격 종료시까지 자신은 체력 피해를 입지 않고, 부정적인 효과가 부여되지 않음\n대상의 속도가 자신보다 높으면 속도 차이 1당, 코인 위력 +1 (최대 6)\n- 자신의 속도가 1이면, 대신 코인 위력 +6\n적에게 [DelusionHohenheimBigBird]이 있으면, 공격 종료 전까지 대상의 관통 내성 +0.5\n[EndSkill] 대상의 [DelusionHohenheimBigBird] 제거
+EN: Until the end of the Unopposed Attack, this unit does not take HP damage and does not gain negative effects\nIf the target's Speed is faster than this unit's, Coin Power +1 for every 1 Speed difference (max 6)\n- At 1 Speed, Coin Power +6 instead\nIf target has [DelusionHohenheimBigBird], +0.5 to target's Pierce Resist. until Attack End\n[EndSkill] Remove [DelusionHohenheimBigBird] from target
+
+### 15 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+EN: [SuperCoin]
+
+### 16 (L150)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnStartCoin] [LanternHohenheimBigBird]을 전부 소모하고, 소모한 수치 1당 피해량 +15% (최대 300%)
+EN: [OnStartCoin] Consume all [LanternHohenheimBigBird] Stack and deal +15% damage for every Stack consumed (max 300%)
+
+### 17 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Sinking] 8 부여. [Sinking] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 8 [Sinking] and +2 [Sinking] Count
+
+### 18 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] [Combustion] 6 부여. [Combustion] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 6 [Combustion] and +2 [Combustion] Count
+
+### 19 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 달구어 꿰뚫기
+EN: Heated Puncture
+
+### 20 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 2)
+EN: Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)
+
+### 21 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Combustion]
+
+### 22 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Combustion] Count
+
+### 23 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Combustion]
+
+### 24 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 작열절삭
+EN: Scorching Incision
+
+### 25 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 2)
+REPEAT: 20 — inherit
+
+### 26 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 23 — inherit
+
+### 27 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 23 — inherit
+
+### 28 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 23 — inherit
+
+### 29 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 흐름을 따라
+EN: Following the Flow
+
+### 30 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 2)
+REPEAT: 20 — inherit
+
+### 31 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 3 부여
+REPEAT: 10 — inherit
+
+### 32 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Vulnerable]
+
+### 33 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 3 부여
+REPEAT: 10 — inherit
+
+### 34 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 길을 열도록 하지
+EN: I Shall Open the Path
+
+### 35 (L260)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 3)\n[WhenUse] 정신력이 0 이상이면, 망(望) 하나를 생성함\n- 코인 위력 + 1, 피해량 +30%\n[EndSkill] 망을 생성했으면, 정신력 1만큼 소모
+EN: Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 3)\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Coin Power +1 and deal +30% damage\n[EndSkill] If this Skill generated Mang, consume 1 SP
+
+### 36 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 3 부여
+REPEAT: 10 — inherit
+
+### 37 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Combustion] Count
+
+### 38 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [SlashTakeDamageUp] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [SlashTakeDamageUp]
+
+### 39 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 3 부여
+REPEAT: 10 — inherit
+
+### 40 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 닥치도록
+EN: Silence
+
+### 41 (L260)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 4)\n[WhenUse] 정신력이 0 이상이면, 망(望) 두개를 생성함\n- 코인 위력 + 2, 피해량 +60%\n[EndSkill] 망을 생성했으면, 정신력 3만큼 소모
+EN: Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 4)\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2 and deal +60% damage\n[EndSkill] If this Skill generated Mang, consume 3 SP
+
+### 42 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 23 — inherit
+
+### 43 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 23 — inherit
+
+### 44 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 23 — inherit
+
+### 45 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여
+REPEAT: 23 — inherit
+
+### 46 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 내출혈
+EN: Internal Bleeding
+
+### 47 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상과 자신의 [Laceration]의 합 1당 피해량 + 1% (최대 20%)\n[WhenUse] [Laceration] 3 얻음, 자신의 [Laceration] 횟수 5 증가
+EN: Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 20%)\n[WhenUse] Gain 3 [Laceration] and +5 [Laceration] Count
+
+### 48 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 1 부여
+REPEAT: 21 — inherit
+
+### 49 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Laceration]
+
+### 50 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 1 증가
+REPEAT: 11 — inherit
+
+### 51 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Laceration] Count
+
+### 52 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 1 부여
+REPEAT: 21 — inherit
+
+### 53 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 54 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 망혈참
+EN: Blinding Bloodcleaver
+
+### 55 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상과 자신의 [Laceration]의 합 1당 피해량 + 1% (최대 20%)\n[WhenUse] [Laceration] 3 얻음, 자신의 [Laceration] 횟수 5 증가
+REPEAT: 47 — inherit
+
+### 56 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 1 부여
+REPEAT: 21 — inherit
+
+### 57 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 58 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Laceration]
+
+### 59 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 1 부여
+REPEAT: 32 — inherit
+
+### 60 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 58 — inherit
+
+### 61 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 피에 잠겨 익사하도록
+EN: Drown in Blood
+
+### 62 (L350)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상과 자신의 [Laceration]의 합 1당 피해량 + 1% (최대 30%)\n[WhenUse] [Laceration] 6 얻음, 자신의 [Laceration] 횟수 5 증가\n[WhenUse] 정신력이 0 이상이면, 망(望) 두개를 생성함\n- 코인 위력 + 2, 피해량 +60%\n[EndSkill] 망을 생성했으면, 정신력 5만큼 소모
+EN: Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 30%)\n[WhenUse] Gain 6 [Laceration] and +5 [Laceration] Count\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2 and deal +60% damage\n[EndSkill] If this Skill generated Mang, consume 5 SP
+
+### 63 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 1 부여
+REPEAT: 21 — inherit
+
+### 64 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 58 — inherit
+
+### 65 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 1 증가
+REPEAT: 11 — inherit
+
+### 66 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 4 증가
+EN: [OnSucceedAttack] Inflict +4 [Laceration] Count
+
+### 67 (L150)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 대상과 자신의 [Laceration]의 합 5당, [BloodBranch] 1 부여 (최대3)
+EN: [OnSucceedAttack] Inflict 1 [BloodBranch] for every 5 ([Laceration] on self + [Laceration] on target) (max 3)
+
+### 68 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 1 부여
+REPEAT: 21 — inherit
+
+### 69 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 58 — inherit
+
+### 70 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 죽은 혈귀를 위한 장례
+EN: Funeral for a Dead Bloodfiend
+
+### 71 (L350)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상과 자신의 [Laceration]의 합 1당 피해량 + 1% (최대 50%)\n[WhenUse] [Laceration] 10 얻음, 자신의 [Laceration] 횟수 5 증가\n[WhenUse] 정신력이 0 이상이면, 망(望) 세개를 생성함\n- 코인 위력 + 3, 피해량 +90%\n[EndSkill] 망을 생성했으면, 정신력 3만큼 소모
+EN: Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 50%)\n[WhenUse] Gain 10 [Laceration] and +5 [Laceration] Count\n[WhenUse] At 0+ SP, generate 3 Mang (望)\n- Coin Power +3 and deal +90% damage\n[EndSkill] If this Skill generated Mang, consume 3 SP
+
+### 72 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 73 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 74 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Laceration]
+
+### 75 (L150)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상과 자신의 [Laceration]의 합 5당, [BloodBranch] 1 부여 (최대5)
+EN: [OnSucceedAttack] Inflict 1 [BloodBranch] for every 5 ([Laceration] on self + [Laceration] on target) (max 5)
+
+### 76 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여
+REPEAT: 74 — inherit
+
+### 77 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 5, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여
+REPEAT: 74 — inherit
+
+### 78 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 내려베기
+EN: Downward Swing
+
+### 79 (L120)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 속도가 6 이상이면, 피해량 +20%\n[WhenUse] [Breath] 4 얻음. [Breath] 횟수 2 증가
+EN: [WhenUse] At 6+ Speed, deal +20% damage\n[WhenUse] Gain 4 [Breath] and +2 [Breath] Count
+
+### 80 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict +1 [Burst] Count
+
+### 81 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 8 부여
+EN: [OnSucceedAttack] Inflict 8 [Burst]
+
+### 82 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 5 부여
+REPEAT: 74 — inherit
+
+### 83 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 연속 베기
+EN: Halberd Combo
+
+### 84 (L150)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 속도가 6 이상이면, 피해량 +30%\n[WhenUse] [Breath] 1 얻음. [Breath] 횟수 3 증가\n[WinDuel] 피해량 +30%
+EN: [WhenUse] At 6+ Speed, deal +30% damage\n[WhenUse] Gain 1 [Breath] and +3 [Breath] Count\n[WinDuel] Deal +30% damage
+
+### 85 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Burst] Count
+
+### 86 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Burst]
+
+### 87 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 6 부여
+EN: [OnSucceedAttack] Inflict 6 [Laceration]
+
+### 88 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 참호전 특화 교전창술
+EN: Trench-specialized Spear Combat
+
+### 89 (L140)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 속도가 7 이상이면, 피해량 +40%\n[WhenUse] [Breath] 횟수 4 증가\n[WinDuel] [Enhancement] 1 얻음
+EN: [WhenUse] At 7+ Speed, deal +40% damage\n[WhenUse] Gain +4 [Breath] Count\n[WinDuel] Gain 1 [Enhancement]
+
+### 90 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 6 부여
+EN: [OnSucceedAttack] Inflict 6 [Burst]
+
+### 91 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+REPEAT: 85 — inherit
+
+### 92 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Laceration] Count
+
+### 93 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 진진종참
+EN: True Decapitation Deathblow
+
+### 94 (L310)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 자신에게 [WillAwakenSinclair]가 있으면, 공격 종료 전까지 공격 대상의 참격 내성 +1\n[WhenUse] [Breath] 5당, 기본 위력 +2 (최대 8)\n[WhenUse] 자신의 정신력이 5 이상이면 망을 1개 생성. 기본 위력 +3\n[EndSkill] 이 스킬에서 망을 생성했으면, 정신력 -5
+EN: If this unit has [WillAwakenSinclair], +1 to target's Slash Resist. until Attack End\n[WhenUse] Base Power +2 for every 5 [Breath] (max 8)\n[WhenUse] At 5+ SP, generate 1 Mang; Base Power +3\n[EndSkill] If this Skill generated Mang, lose 5 SP
+
+### 95 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [ExtractCoin]
+EN: [ExtractCoin]
+
+### 96 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] ([Burst] + [Burst] 횟수) 1당 피해량 +1% (최대 100%)
+EN: Deal +1% damage for every ([Burst] + [Burst] Count) on the target (max 100%)
+
+### 97 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 자신의 ([Breath] x 4)만큼 오만 피해를 줌 (최대 80)
+EN: [OnSucceedAttack] Deal ([Breath] on self x 4) Pride damage (max 80)
+
+### 98 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] 피해량 +150%
+EN: [CriticalOnSucceedAttack] Deal +150% damage
+
+### 99 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 취수낭랑
+EN: Plastered Sleep, Unrestrained Ripples
+
+### 100 (L580)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 자신에게 [WillAwakenSinclair]가 있으면, 공격 종료 전까지 공격 대상의 참격 내성 +1\n속도에 관계없이 공격 대상을 자신으로 변경할 수 있음\n[WhenUse] [Breath] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과 1개당, 기본 위력 +2 (최대 4)\n[WhenUse] 다음 턴에 [Agility] 5 얻음\n[WhenUse] [Breath] 10 얻음. [Breath] 횟수 2 증가\n[WhenUse] 자신의 정신력이 10 이상이면 망을 2개 생성. 기본 위력 +6\n[EndSkill] 이 스킬에서 망을 생성했으면, 정신력 -10
+EN: If this unit has [WillAwakenSinclair], +1 to target's Slash Resist. until Attack End\nCan draw any attack to this unit regardless of Speed\n[WhenUse] Base Power +1 for every 3 [Breath] (max 2)\n[WhenUse] Base Power +2 for every type of negative effect on target (max 4)\n[WhenUse] Gain 5 [Agility] next turn\n[WhenUse] Gain 10 [Breath] and +2 [Breath] Count\n[WhenUse] At 10+ SP, generate 2 Mang; Base Power +6\n[EndSkill] If this Skill generated Mang, lose 10 SP
+
+### 101 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [ExtractCoin]
+REPEAT: 95 — inherit
+
+### 102 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 7 부여. [Laceration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 7 [Laceration] and +2 [Laceration] Count
+
+### 103 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Vulnerable] next turn
+
+### 104 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] 피해량 +400%
+EN: [CriticalOnSucceedAttack] Deal +400% damage
+
+### 105 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 연기 거두기
+EN: Abate the Smoke
+
+### 106 (L280)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantDuel]\n최대 체력이 가장 낮은 적을 우선 지정함\n이 스킬은 수비 스킬을 발동시키지 않음\n[BeforeAttack] 적들의 슬롯 수 합만큼 공격 가중치 증가\n[WhenUse] 자신의 속도가 4 이상이면, 피해량 +50%
+EN: [CantDuel]\nTargets the enemy with the lowest max HP\nThis Skill does not trigger the target's Defense Skill\n[BeforeAttack] Gain +(total number of all enemies' Slots) Atk Weight\n[WhenUse] At 4+ Speed, deal +50% damage
+
+### 107 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 이 코인 최종 피해량의 40%만큼 참격 피해
+EN: [OnSucceedAttackHead] Deal (40% of this Coin's final damage) Slash damage
+
+### 108 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 베기
+EN: Sever
+
+### 109 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상 변경 불가능\n자신의 [CutbondRyoshu] 10당, 최종 위력 +1 (최대 3)\n대상의 [Laceration] 6당 최종 위력 +1 (최대 3)
+EN: Cannot change target\nFinal Power +1 for every 10 [CutbondRyoshu] on self (max 3)\nFinal Power +1 for every 6 [Laceration] on target (max 3)
+
+### 110 (L140)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] ‘아라야는 나와 다른 곳에서 살아야 한다.’
+EN: 'I cannot let Araya live a life like my own. She must lead a new life away from this place, away from me.'
+
+### 111 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 112 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 1 부여, [Laceration] 횟수 2 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration] and +2 [Laceration] Count
+
+### 113 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 114 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count
+
+### 115 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 칠하기
+EN: Paint
+
+### 116 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상 변경 불가능\n자신의 [CutbondRyoshu] 10당, 최종 위력 +1 (최대 3)\n대상의 [Laceration] 6당 최종 위력 +1 (최대 3)
+REPEAT: 109 — inherit
+
+### 117 (L120)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — tekst klimatyczny] ‘거미집을 탈출한다.’\n\n‘아라야가 사루처럼 되기 전에.’
+EN: 'We will escape the House of Spiders...'\n\n'Before Araya meets the same fate as Saru.'
+
+### 118 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 119 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count
+
+### 120 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 121 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+
+### 122 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 흩뿌리기
+EN: Splatter
+
+### 123 (L280)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상 변경 불가능\n이 스킬과 합을 진행한 스킬의 가장 빠른 코인이 일정 확률로 소멸\n자신의 [CutbondRyoshu] 10당 최종 위력 +1 (최대 5)\n대상의 [Laceration] 6당 최종 위력 +1 (최대 4)
+EN: Cannot change target\nRandom chance to delete the earliest Coin on the Skill this unit Clashed with\nFinal Power +1 for every 10 [CutbondRyoshu] on self (max 5)\nFinal Power +1 for every 6 [Laceration] on target (max 4)
+
+### 124 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] ‘아비들을 전부 베어내며, 아라야까지 지킬 수는 없다.’
+EN: 'But I cannot guarantee Araya's safety while fighting off the Nursefathers' pursuit.'
+
+### 125 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 126 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 1 부여, [Laceration] 횟수 1 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration] and +1 [Laceration] Count
+
+### 127 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 128 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가
+REPEAT: 119 — inherit
+
+### 129 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 130 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 3 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +3 [Laceration] Count
+
+### 131 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 그려내기
+EN: Brushstroke
+
+### 132 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상 변경 불가능\n이 스킬과 합을 진행한 스킬의 가장 빠른 코인이 일정 확률로 소멸\n자신의 [CutbondRyoshu] 10당 최종 위력 +1 (최대 5)\n대상의 [Laceration] 6당 최종 위력 +1 (최대 4)
+REPEAT: 123 — inherit
+
+### 133 (L240)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — tekst klimatyczny] ‘아라야를 숨긴다. 아비들이 자주 드나드는 시간 금고들이 쌓여 있는 방이 있다.’\n\n‘그 방에 있는 금고에 아라야를 대피시킨다. 시간 금고라면 안전하다.’
+EN: 'I will hide her. I will hide her right under their noses—in that room full of Time Vaults where they're always coming and going.'\n\n'Time Vaults are safe. I can put Araya in one of those.'
+
+### 134 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 135 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가
+REPEAT: 119 — inherit
+
+### 136 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 137 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 1 부여, [Laceration] 횟수 2 증가
+REPEAT: 112 — inherit
+
+### 138 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 139 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가
+REPEAT: 121 — inherit
+
+### 140 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 천살 [天殺]
+EN: Slay the Heavens - Tiansha [天殺]
+
+### 141 (L210)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상 변경 불가능\n이 스킬과 합을 진행한 스킬의 가장 빠른 코인이 일정 확률로 소멸\n자신의 [CutbondRyoshu] 4당, 최종 위력 +1 (최대 12)
+EN: Cannot change target\nRandom chance to delete the earliest Coin on the Skill this unit Clashed with\nFinal Power +1 for every 4 [CutbondRyoshu] on self (max 12)
+
+### 142 (L350)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — tekst klimatyczny] ‘그리고 금고에 내 검으로 검흔을 새겨 놓는다.’\n\n‘내가 다시 돌아왔을 때, 그 검흔이 드러나면 금고가 섞여도 알아낼 수 있을 것이다.’\n\n‘나무를 숨기려면 숲에 숨겨야 한다.’
+EN: 'And then, I will make a small mark on Araya's safe with my blade.'\n\n'That way, when I return, the mark made by my sword will become fresh again and I'll be able to pick out hers even if the Vaults get shuffled around.'\n\n'The best place to hide a tree is in the forest.'
+
+### 143 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 144 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 145 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 146 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 147 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 148 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Laceration]
+
+### 149 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 150 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 151 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 5, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 152 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+
+### 153 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] ‘나를 지우며, 너를 지운다.’
+EN: 'Erasing Me, Erasing You.'
+
+### 154 (L130)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상 변경 불가능\n이 스킬과 합을 진행한 스킬의 가장 빠른 코인이 일정 확률로 소멸
+EN: Cannot change target\nRandom chance to delete the earliest Coin on the Skill this unit Clashed with
+
+### 155 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] ‘오랜 시간이 걸려도, 아라야에게는 찰나 같을 수 있기를.’
+EN: 'However much time slips by, I hope it feels like only a fleeting moment to her.'
+
+### 156 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 157 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 158 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 159 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 160 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 5, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 161 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 세법
+EN: Rending Arts
+
+### 162 (L210)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Agility]이 3 이상이면, 기본 위력 +2\n[WhenUse] 자신의 [Breath] 횟수 2 증가
+EN: [WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] At 3+ [Agility], Base Power +2\n[WhenUse] Gain +2 [Breath] Count
+
+### 163 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 3 얻음
+EN: [OnSucceedAttack] Gain 3 [Breath]
+
+### 164 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 165 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 자법
+EN: Acupuncture
+
+### 166 (L250)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Agility]이 3 이상이면, 기본 위력 +2\n[WhenUse] 자신의 [Breath] 횟수 2 증가\n[WinDuel] 자신의 [Breath] 횟수 2 증가
+EN: [WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] At 3+ [Agility], Base Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain +2 [Breath] Count
+
+### 167 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음
+EN: [OnSucceedAttack] Gain 2 [Breath]
+
+### 168 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Laceration]
+
+### 169 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음
+REPEAT: 167 — inherit
+
+### 170 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 171 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음
+REPEAT: 167 — inherit
+
+### 172 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 173 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [CriticalOnSucceedAttack] 다음 턴에 [Agility] 2 얻음
+EN: [CriticalOnSucceedAttack] Gain 2 [Agility] next turn
+
+### 174 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 청린화
+EN: Lucent Rippling Flame
+
+### 175 (L380)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 자신의 잃은 체력 1%당 피해량 0.5% 증가 (최대 25%)\n자신의 [Agility] 1당, 크리티컬 피해량 +25% (최대 150%)\n[WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합이 6 이상이면, 코인 위력 +1 (최대 2)\n[WhenUse] [WindBlade] 수치가 5 이상이면, [SuperCoin]으로 변경됨\n[WinDuel] [Breath] 5 얻음
+EN: Deal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +25% damage on Critical Hit for every [Agility] on self (max 150%)\n[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Coin Power +1 (max 2)\n[WhenUse] At 5+ [WindBlade], convert into [SuperCoin]\n[WinDuel] Gain 5 [Breath]
+
+### 176 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 3 증가
+EN: [OnSucceedAttack] Gain +3 [Breath] Count
+
+### 177 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [CriticalOnSucceedAttack] [WindBlade] 1 얻음
+EN: [CriticalOnSucceedAttack] Gain 1 [WindBlade]
+
+### 178 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음
+REPEAT: 167 — inherit
+
+### 179 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] [WindBlade] 1 얻음
+REPEAT: 177 — inherit
+
+### 180 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 181 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [CriticalOnSucceedAttack] [WindBlade] 1 얻음
+REPEAT: 177 — inherit
+
+### 182 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 상전 청린화
+EN: Even the Balance - Lucent Rippling Flame
+
+### 183 (L290)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantDuel]\n이 스킬은 수비 스킬을 발동시키지 않음\n자신의 잃은 체력 1%당 피해량 0.5% 증가 (최대 25%)\n자신의 [Agility] 1당, 크리티컬 피해량 +20% (최대 100%)\n[EndSkill] [WindBlade] 모두 소모
+EN: [CantDuel]\nThis Skill does not trigger Defense Skills\nDeal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +20% damage on Critical Hit for every [Agility] on self (max 100%)\n[EndSkill] Consume all [WindBlade] on self
+
+### 184 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 5 얻음
+EN: [OnSucceedAttack] Gain 5 [Breath]
+
+### 185 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 186 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 187 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 188 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [CriticalOnSucceedAttack] 자신의 [Agility]이 5 이상이면, 코인 재사용 (스킬당 1회)
+EN: [CriticalOnSucceedAttack] At 5+ [Agility], Reuse this Coin (once per Skill)
+
+### 189 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 골단
+EN: To Claim Their Bones
+
+### 190 (L350)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantDuel]\n이 스킬은 수비 스킬을 발동시키지 않음\n자신의 잃은 체력 1%당 피해량 0.5% 증가 (최대 25%)\n자신의 [Agility] 1당, 크리티컬 피해량 +10% (최대 50%)\n[WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 4당, 기본 위력 +1 (최대 4)
+EN: [CantDuel]\nThis Skill does not trigger Defense Skills\nDeal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +10% damage on Critical Hit for every [Agility] on self (max 50%)\n[WhenUse] Base Power +1 for every 4 ([Breath] on self + [Laceration] on target) (max 4)
+
+### 191 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 3 얻음
+REPEAT: 163 — inherit
+
+### 192 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 193 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Paralysis] next turn
+
+### 194 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 앞길을 밝힐게요
+EN: I'll Light the Path Forward
+
+### 195 (L150)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CanDuelGuard]\n[StartBattle] [SupportProtect] 1 얻음\n[WhenUse] [Breath] 5 얻음\n[WinDuel] 자신의 [Breath] 횟수 2 증가
+EN: [CanDuelGuard]\n[StartBattle] Gain 1 [SupportProtect]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count
+
+### 196 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 197 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 형세 읽기
+EN: Observing the Stones on the Board
+
+### 198 (L240)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CanDuelGuard]\n[SupportProtect] 전용 스킬\n[WhenUse] [Breath] 5 얻음\n[WhenUse] [Breath]이 25를 초과했으면, [Breath] 5를 소모하여 [WindBlade] 3 얻음\n[WinDuel] 자신의 [Breath] 횟수 2 증가
+EN: [CanDuelGuard]\n[SupportProtect] Exclusive Skill\n[WhenUse] Gain 5 [Breath]\n[WhenUse] At more than 25 [Breath], consume 5 [Breath] to gain 3 [WindBlade]\n[WinDuel] Gain +2 [Breath] Count
+
+### 199 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 200 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 발검
+EN: Draw of the Sword
+
+### 201 (L130)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 2 증가\n[WinDuel] [Breath] 3 얻음
+EN: [WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 3 [Breath]
+
+### 202 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 3 얻음
+REPEAT: 163 — inherit
+
+### 203 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여
+REPEAT: 74 — inherit
+
+### 204 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] [Laceration] 횟수 2 증가
+EN: [CriticalOnSucceedAttack] Inflict +2 [Laceration] Count
+
+### 205 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 자법
+REPEAT: 165 — inherit
+
+### 206 (L130)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 7 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WinDuel] [Breath] 2 얻음
+EN: [WhenUse] At 7+ [Breath], Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 2 [Breath]
+
+### 207 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 4 얻음
+EN: [OnSucceedAttack] Gain 4 [Breath]
+
+### 208 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] 크리티컬 피해량 +20%
+EN: Deal +20% damage on Critical Hit
+
+### 209 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] 크리티컬 피해량 +40%
+EN: Deal +40% damage on Critical Hit
+
+### 210 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 211 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 살주
+EN: Overthrow
+
+### 212 (L230)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [DuelCounter]\n[StartBattle] 이번 턴과 다음 턴에 [SlashDamageUp] 2 얻음\n[WhenUse] 자신의 [Breath]이 8 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WinDuel] [Breath] 4 얻음
+EN: [DuelCounter]\n[StartBattle] Gain 2 [SlashDamageUp] this turn and next turn\n[WhenUse] At 8+ [Breath], Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 4 [Breath]
+
+### 213 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 5 얻음
+REPEAT: 184 — inherit
+
+### 214 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 2 증가
+EN: [OnSucceedAttack] Gain +2 [Breath] Count
+
+### 215 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] 크리티컬 피해량 +80%
+EN: Deal +80% damage on Critical Hit
+
+### 216 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8 부여
+EN: [OnSucceedAttack] Inflict 8 [Laceration]
+
+### 217 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 육참
+EN: Yield My Flesh
+
+### 218 (L490)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 최대 위력이 가장 높은 스킬 슬롯을 우선 지정함\n[WhenUse] 이 스킬 종료 시까지\n- 자신의 [Breath] 1당, 공격으로 받는 피해량 -2% (최소 -80%)\n- 자신의 [Breath] 1당, 합 위력 -1 (최소 -30)\n- 피해로 인해 흐트러짐 상태가 되지 않음\n[WinDuel] [Breath] 5 얻음\n[DefeatDuel] 피격 후 ‘골단’ 사용\n[EndBattle] 다음 턴까지 ‘육참’ 사용 불가능
+EN: Targets the Skill Slot that has the highest max Power\n[WhenUse] Until this Skill ends:\n- Take -2% damage from Attacks for every [Breath] on self (min -80%)\n- Clash Power -1 for every [Breath] on self (min -30)\n- Cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] Use "To Claim Their Bones" after being hit\n[EndBattle] Cannot use "Yield My Flesh" until next turn
+
+### 219 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] 크리티컬 피해량 +150%
+EN: Deal +150% damage on Critical Hit
+
+### 220 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [SlashResistDown] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [SlashResistDown] next turn
+
+### 221 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 4 부여
+EN: [OnSucceedAttack] Inflict 4 [DefenseDown] next turn
+
+### 222 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 골단
+REPEAT: 189 — inherit
+
+### 223 (L300)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 10 이상이면, 코인 위력 +1\n[WhenUse] 이 스킬 공격 가중치보다 낮은 공격 대상 1당, 피해량 +40% (집중 전투인 경우, 부위로 판정)\n[WhenUse] 자신의 [Breath] 횟수 4 증가\n[EndSkill] 자신의 [Breath] 전부 소모
+EN: [WhenUse] At 10+ [Breath], Coin Power +1\n[WhenUse] Deal +40% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Parts)\n[WhenUse] Gain +4 [Breath] Count\n[EndSkill] Consume all [Breath] on self
+
+### 224 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [CriticalOnSucceedAttack] 마지막 코인 위력 +2 (코인당 1회)
+EN: [CriticalOnSucceedAttack] Coin Power +2 for the final Coin (once per Coin)
+
+### 225 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [CriticalOnSucceedAttack] 마지막 코인 위력 +2 (코인당 1회)
+REPEAT: 224 — inherit
+
+### 226 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [CriticalOnSucceedAttack] 마지막 코인 위력 +2 (코인당 1회)
+REPEAT: 224 — inherit
+
+### 227 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count
+
+### 228 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여
+REPEAT: 193 — inherit
+
+### 229 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 유리아 공방 - 총공 모드, 마크 17!
+EN: YuRia Atelier - All-out Attack Mode, Mk. 17!
+
+### 230 (L170)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 부정적인 효과 종류당, 피해량 +50% (최대 100%)\n[WhenUse] 대상의 [Vibration]이 6 이상이면, 기본 위력 +3
+EN: Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] If target has 6+ [Vibration], Base Power +3
+
+### 231 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 특별 수제작, 골든 리트리버 전용 도끼.
+EN: Special Handmade Golden Retriever-Exclusive Axe.
+
+### 232 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 233 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 234 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 235 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Vibration] Count
+
+### 236 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 237 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 238 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [Vibration] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Vibration]
+
+### 239 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 240 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소
+EN: [OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count
+
+### 241 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 242 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 원호해줄게! 뒤로 빠져있어!
+EN: I'll Cover You! Get Behind Me!
+
+### 243 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CanDuelGuard]\n[SupportProtect] 전용 스킬\n[WinDuel] 아군 정신력 4 회복 (본인 포함)\n- LCD 소속이면, 대신 정신력 8 회복
+EN: [CanDuelGuard]\n[SupportProtect] Exclusive Skill\n[WinDuel] Heal 4 SP for all allies (including this unit)\n- Heal 8 SP instead for LCD Units
+
+### 244 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 245 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 몸 좀 풀어볼까?
+EN: Time for Some Warm-up!
+
+### 246 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 최종 위력 +2
+EN: If target has 3+ ([Combustion] + [Laceration]), Final Power +2
+
+### 247 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 3
+EN: [OnSucceedAttack] Deal 3 Blunt bonus damage
+
+### 248 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 3
+REPEAT: 247 — inherit
+
+### 249 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 250 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 추가 타격 피해 3
+REPEAT: 247 — inherit
+
+### 251 (L140)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 다음 턴에 [Binding] 2 부여
+EN: [OnSucceedAttack] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 2 [Binding] next turn
+
+### 252 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 욜라 패기
+EN: Totally Badass Ass-kicking
+
+### 253 (L210)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 최종 위력 +2\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 [Laceration] 2 부여
+EN: If target has 3+ ([Combustion] + [Laceration]), Final Power +2\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 2 [Laceration] On Coin Hit
+
+### 254 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 5
+EN: [OnSucceedAttack] Deal 5 Blunt bonus damage
+
+### 255 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 손상 5
+EN: [OnSucceedAttack] Raise Stagger Threshold by 5
+
+### 256 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 5
+REPEAT: 254 — inherit
+
+### 257 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 손상 5
+REPEAT: 255 — inherit
+
+### 258 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 자신의 [ResentmentSpiderDaughterTwo]이 3 이상이면, 이 코인 3회 재사용
+EN: [OnSucceedAttack] At 3+ [ResentmentSpiderDaughterTwo], Reuse this Coin 3 times
+
+### 259 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 배 가르기!
+EN: Disemboweling!
+
+### 260 (L460)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[EndSkill] 자신의 [ResentmentSpiderDaughterTwo]이 3 이상이면, 다음 턴에 [VioletDamageUp] 1 얻음
+EN: Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit\n[EndSkill] At 3+ [ResentmentSpiderDaughterTwo], gain 1 [VioletDamageUp] next turn
+
+### 261 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 262 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 263 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 십자난무!
+EN: Crossing Dervish!
+
+### 264 (L350)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가
+EN: Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit
+
+### 265 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 266 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 267 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 268 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 269 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 270 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 271 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 272 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 추가 타격 피해 5
+REPEAT: 254 — inherit
+
+### 273 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 다음 턴에 [Binding] 2 부여
+REPEAT: 251 — inherit
+
+### 274 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 바이올렛 브레이크 슬램!
+EN: Violet~ Breaking Slam!
+
+### 275 (L650)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Combustion]과 [Laceration]의 합이 3 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[WhenUse] 자신의 체력이 40% 이하거나 [ReinforcedTattooSpiderDaughterTwo]이 2 이상이면, 피해량 +60%\n[WhenUse] 자신의 [ResentmentSpiderDaughterTwo]이 2 이상이면, 코인 적중시 50% 확률로 [Paralysis] 1 부여\n[EndSkill] 자신의 [ResentmentSpiderDaughterTwo]을 전부 소모
+EN: Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit\n[WhenUse] At 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], deal +60% damage\n[WhenUse] At 2+ [ResentmentSpiderDaughterTwo], 50% chance to inflict 1 [Paralysis] On Coin Hit\n[EndSkill] Consume all [ResentmentSpiderDaughterTwo] on self
+
+### 276 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 277 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 278 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 279 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 280 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 281 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 282 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 283 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 추가 타격 피해 5
+REPEAT: 254 — inherit
+
+### 284 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] 흐트러짐 손상 5
+REPEAT: 255 — inherit
+
+### 285 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 5, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 286 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 287 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 가만 안둬
+EN: I'll Get You Back for This...!
+
+### 288 (L490)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpiderTwo] 상태일 때 열선[TabExplain] 효과가 적용됨\n피격 시 자신의 [ReinforcedTattooSpiderDaughterTwo] 1당 이 스킬 1회 재사용 (최대 2회)\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughterTwo]이 있으면, 코인 적중시 [Laceration] 1 부여\n[WhenUse] 자신의 체력이 40% 이하거나 [ReinforcedTattooSpiderDaughterTwo]이 2 이상이면, 피해량 +40%
+EN: Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nWhen hit, Reuse this Skill once for every [ReinforcedTattooSpiderDaughterTwo] on self (max 2 times)\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 1 [Laceration] On Coin Hit\n[WhenUse] At 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], deal +40% damage
+
+### 289 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 290 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 291 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 회복 10
+EN: [OnSucceedAttack] Lower user's Stagger Threshold by 10
+
+### 292 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 사랑으로!
+EN: With Love!
+
+### 293 (L160)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]과 [Sinking]의 합 5 당 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 [PowerOfLoveAndJustice] 횟수 10 증가
+EN: [WhenUse] Base Power +1 for every 5 ([Burst] + [Sinking]) on target (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice]
+
+### 294 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Burst]
+
+### 295 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 1 부여
+REPEAT: 294 — inherit
+
+### 296 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 정의의 이름으로!
+EN: In the Name of Justice!
+
+### 297 (L160)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]과 [Sinking]의 합 7 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [PowerOfLoveAndJustice] 횟수 10 증가
+EN: [WhenUse] Coin Power +1 for every 7 ([Burst] + [Sinking]) on target (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice] Count
+
+### 298 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+REPEAT: 85 — inherit
+
+### 299 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst]과 [Sinking]의 합이 10 이상이면, 다음 턴에 [Binding] 1 부여
+EN: [OnSucceedAttack] If target has 10+ ([Burst] + [Sinking]), inflict 1 [Binding] next turn
+
+### 300 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 아르카나 비트
+EN: Arcana Beats
+
+### 301 (L400)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 절망의 기사를 메인 타겟으로 지정함\n[ColdBlackTear]이 가장 많은 아군을 서브 타겟으로 지정함\n- 없을 시, 체력이 가장 적은 아군을 서브 타겟으로 지정함\n아군에게는 피해를 0으로 부여하고, [Sinking] 및 [ColdBlackTear] 효과를 발동하지 않음\n\n[WinDuel] 서브 타겟인 아군의 [ColdBlackTear] 1 제거
+EN: Mainly targets 'The Knight of Despair'\nSub-targets the ally with the most [ColdBlackTear]\n- If there are none, sub-targets the ally with the least HP\nInflicts 0 damage and does not activate the effects of [Sinking] and [ColdBlackTear] against allies\n\n[WinDuel] Remove 1 [ColdBlackTear] from the sub-targeted ally
+
+### 302 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 적군인 경우, [Burst] 1 부여
+EN: [OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]
+
+### 303 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 아군인 경우, 체력 5 회복
+EN: [OnSucceedAttack] If target is an ally, heal 5 HP
+
+### 304 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상이 적군인 경우, [Burst] 1 부여
+REPEAT: 302 — inherit
+
+### 305 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상이 아군인 경우, 체력 5 회복
+REPEAT: 303 — inherit
+
+### 306 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상이 적군인 경우, [Burst] 1 부여
+REPEAT: 302 — inherit
+
+### 307 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상이 아군인 경우, 체력 5 회복
+REPEAT: 303 — inherit
+
+### 308 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 그 기술을 사용하는 수 밖에!
+EN: Looks Like I'll Have to Use This Power!
+
+### 309 (L140)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] [ChasingArcana]를 1 얻음\n[StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함
+EN: [StartBattle] Gain 1 [ChasingArcana]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn
+
+### 310 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 영창 - 아르카나 슬레이브
+EN: Chanting - Arcana Slave
+
+### 311 (L140)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함\n[EndBattle] 남은 보호막 수치가 없다면, 퇴각함
+EN: [StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn\n[EndBattle] At 0 Shield HP, Retreats
+
+### 312 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 아르카나 슬레이브
+EN: ARCANA SLAVE
+
+### 313 (L220)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantDuel]\n잊혀진 기사의 검에게 피해를 주지 않음\n[WornOutKnight]가 있는 적 적중시 턴 종료\n[EndBattle] [UsedTooMuchPower] 얻음
+EN: [CantDuel]\nDoes not deal damage against Sword of a Forgotten Knight[TabExplain]\nEnds Turn when hitting enemies with [WornOutKnight]\n[EndBattle] Gain [UsedTooMuchPower]
+
+### 314 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 체력을 현재 체력의 (100 - ([CollapsedPride] 수치 x 33))% 로 만듦
+EN: [OnSucceedAttack] Reduce target's HP to (100 - ([CollapsedPride] Stack x 33))%
+
+### 315 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 아르카나 슬레이브
+REPEAT: 312 — inherit
+
+### 316 (L320)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantDuel]\n코인 효과로만 피해를 줌\n마음을 부수는 검, 마음을 찢는 검, 마음을 꿰뚫는 검에게 피해를 주지 않음\n[WornOutKnight]가 있는 체력 600 이하의 적 적중시 턴 종료\n[EndBattle] [UsedTooMuchPower] 얻음
+EN: [CantDuel]\nDeals damage only with Coin effects\nDoes not deal damage against Heart-breaking Sword, Heart-tearing Sword, and Heart-piercing Sword\nEnds Turn when hitting enemies that has [WornOutKnight] and 600- HP\n[EndBattle] Gain [UsedTooMuchPower]
+
+### 317 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] ([CollapsedPride] 수치 x 200)만큼 고정 피해를 줌
+EN: [OnSucceedAttack] Deal ([CollapsedPride] x 200) fixed damage
+
+### 318 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 그 기술을 사용하는 수 밖에!
+REPEAT: 308 — inherit
+
+### 319 (L150)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] [ChasingArcanahard]를 1 얻음\n[StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함
+EN: [StartBattle] Gain 1 [ChasingArcanahard]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn
+
+### 320 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 적격
+EN: Crimson Strike
+
+### 321 (L170)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)
+EN: [WhenUse] If target has 5+ types of negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)
+
+### 322 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+REPEAT: 85 — inherit
+
+### 323 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–5) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음
+EN: [OnSucceedAttackHead] Gain 1 [AttackUp] next turn
+
+### 324 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+REPEAT: 85 — inherit
+
+### 325 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 1–5) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음
+REPEAT: 323 — inherit
+
+### 326 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 2) — nazwa] 적격 2형 - 파(破)
+EN: Crimson Strike Second Form - Rupture (破)
+
+### 327 (L250)  [] — 
+TOK: \n
+KR: (ulepszenie 2) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)
+EN: [WhenUse] If target has 5+ types of negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+
+### 328 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 3) — nazwa] 적격 3형 - 강(强)
+EN: Crimson Strike Third Form - Might (强)
+
+### 329 (L250)  [] — 
+TOK: \n
+KR: (ulepszenie 3) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +2\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)
+EN: [WhenUse] If target has 5+ types of negative effects, Clash Power +2\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+
+### 330 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 2 부여,[Burst] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count
+
+### 331 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 2 부여,[Burst] 횟수 2 증가
+REPEAT: 330 — inherit
+
+### 332 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 4) — nazwa] 적격 4형 - 속(束)
+EN: Crimson Strike Fourth Form - Binding (束)
+
+### 333 (L320)  [] — 
+TOK: \n
+KR: (ulepszenie 4) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +2\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 다음 턴에 [Agility] 3 얻음 (턴 당 1회)
+EN: [WhenUse] If target has 5+ types of negative effects, Clash Power +2\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)\n[WhenUse] Gain 3 [Agility] next turn (once per turn)
+
+### 334 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 4) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Binding] next turn
+
+### 335 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 5) — nazwa] 적격 5형 - 진(進)
+EN: Crimson Strike Fifth Form - March (進)
+
+### 336 (L380)  [] — 
+TOK: \n
+KR: (ulepszenie 5) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +2\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 다음 턴에 [Agility] 3 얻음 (턴 당 1회)\n[WhenUse] [Breath] 3 얻음,[Breath] 횟수 2 증가
+EN: [WhenUse] If target has 5+ types of negative effects, Clash Power +2\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)\n[WhenUse] Gain 3 [Agility] next turn (once per turn)\n[WhenUse] Gain 3 [Breath] aind +2 [Breath] Count
+
+### 337 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] [Burst] 2 부여
+EN: [CriticalOnSucceedAttack] Inflict 2 [Burst]
+
+### 338 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Binding] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Binding]
+
+### 339 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 2, efekt 4 — opis] [CriticalOnSucceedAttack] 이 코인 재사용 (최대 2회)
+EN: [CriticalOnSucceedAttack] Reuse this Coin (2 times max)
+
+### 340 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 적봉
+EN: Crimson Phoenix
+
+### 341 (L170)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)
+EN: [WhenUse] If target has 5+ types of negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+
+### 342 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 1 증가
+REPEAT: 80 — inherit
+
+### 343 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [DefenseDown] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [DefenseDown]
+
+### 344 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 1 증가
+REPEAT: 80 — inherit
+
+### 345 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [AttackUp] 3 얻음
+EN: [OnSucceedAttack] Gain 3 [AttackUp] next turn
+
+### 346 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 자신의 호흡 횟수 1 증가. 대상의 [Burst]만큼 [Breath] 얻음 (최대 5)
+EN: [OnSucceedAttack] Gain +1 [Breath] Count. Gain [Breath] equal to [Burst] on target (max 5)
+
+### 347 (L160)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 호흡 위력 3 얻음. 대상의 [Burst] 횟수만큼 다음 턴에 [Breath] 횟수 증가 (최대 2)
+EN: [OnSucceedAttackHead] Gain 3 [Breath] next turn. Gain [Breath] Count equal to [Burst] Count on target next turn (max 2)
+
+### 348 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–5) — moneta 4, efekt 1 — opis] 크리티컬 피해량 +50%
+EN: Deal +50% Damage on Critical Hit
+
+### 349 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–5) — moneta 4, efekt 2 — opis] [CriticalEnemyTargetKillFail] [Burst] 횟수 2 증가
+EN: [CriticalEnemyTargetKillFail] Inflict +2 [Burst] Count
+
+### 350 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–5) — moneta 4, efekt 3 — opis] [CriticalEnemyTargetKill] 다음 턴에 [AttackUp] 3 얻음
+EN: [CriticalEnemyTargetKill] Gain 3 [AttackUp] next turn
+
+### 351 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 2) — nazwa] 적봉 제2형 - 파(破)
+EN: Crimson Phoenix Second Form - Rupture (破)
+
+### 352 (L170)  [] — 
+TOK: \n
+KR: (ulepszenia 2–3) — opis] [WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)
+EN: [WhenUse] If target has 4+ types of negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)
+
+### 353 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 2–5) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+REPEAT: 85 — inherit
+
+### 354 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 2–5) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+REPEAT: 85 — inherit
+
+### 355 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 3) — nazwa] 적봉 제3형 - 염(炎)
+EN: Crimson Phoenix Third Form - Blaze (炎)
+
+### 356 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Combustion] 횟수 2 증가
+REPEAT: 22 — inherit
+
+### 357 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [DefenseDown] 3 부여
+REPEAT: 343 — inherit
+
+### 358 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Combustion] 횟수 2 증가
+REPEAT: 22 — inherit
+
+### 359 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [AttackUp] 3 얻음
+REPEAT: 345 — inherit
+
+### 360 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Burst]과 [Combustion]의 합 만큼 [Breath] 얻음 (최대 10)
+EN: [OnSucceedAttack] Gain [Breath] equal to ([Burst] + [Combustion]) on target (max 10)
+
+### 361 (L140)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst] 횟수와 [Combustion] 횟수의 합 만큼 [Breath] 횟수 증가 (최대 5)
+EN: [OnSucceedAttack] Gain [Breath] Count equal to ([Burst] Count + [Combustion] Count) on target (max 5)
+
+### 362 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 4) — nazwa] 적봉 제4형 - 기(氣)
+EN: Crimson Phoenix Fourth Form - Qi (氣)
+
+### 363 (L230)  [] — 
+TOK: \n
+KR: (ulepszenia 4–5) — opis] [WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)\n[WhenUse] [Breath] 3 얻음,[Breath] 횟수 2 증가
+EN: [WhenUse] If target has 4+ types of negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count
+
+### 364 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 4–5) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] [Combustion] 3 부여
+EN: [CriticalOnSucceedAttack] Inflict 3 [Combustion]
+
+### 365 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 4–5) — moneta 2, efekt 4 — opis] [CriticalOnSucceedAttack] [Combustion] 3 부여
+REPEAT: 364 — inherit
+
+### 366 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 4–5) — moneta 3, efekt 3 — opis] [CriticalOnSucceedAttack] [Vulnerable] 2 부여
+EN: [CriticalOnSucceedAttack] Inflict 2 [Vulnerable]
+
+### 367 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 5) — nazwa] 적봉 제5형 - 익(翼)
+EN: Crimson Phoenix Fifth Form - Wings (翼)
+
+### 368 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 4, efekt 4 — opis] [CriticalEnemyTargetKillFail] 대상에게 적참 사용
+EN: [CriticalEnemyTargetKillFail] Use Crimson Cleave against the target
+
+### 369 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 4, efekt 5 — opis] [CriticalEnemyTargetKill] 무작위 대상에게 적참 사용
+EN: [CriticalEnemyTargetKill] Use Crimson Cleave against a random enemy
+
+### 370 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 적춘
+EN: Crimson Spring
+
+### 371 (L340)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [BeforeAttack] 대상의 부정적인 효과 4개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합이 15 이상이면, 코인 위력 +5\n[WinDuel] [Burst] 횟수 2 증가
+EN: [BeforeAttack] Gain +1 Atk Weight for every 4 types of negative effects on target (max 2)\n[WhenUse] If target has 5+ types of negative effects, Base Power +5\n[WhenUse] If target has 15+ ([Burst] + [Burst] Count), Coin Power +5\n[WinDuel] Inflict +2 [Burst] Count
+
+### 372 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 7 부여
+EN: [OnSucceedAttack] Inflict 7 Bleed
+
+### 373 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 1, efekt 2 — opis] 크리티컬 피해량 +200%
+EN: Deal +200% Damage on Critical Hit
+
+### 374 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] 출혈 횟수 3 증가
+EN: [CriticalOnSucceedAttack] Inflict +3 Bleed Count
+
+### 375 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 1–2) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] [Breath] 2 얻음. [Breath] 횟수 1 증가
+EN: [CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count
+
+### 376 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 2) — nazwa] 적춘 제2형 - 열(熱)
+EN: Crimson Spring Second Form - Passion (熱)
+
+### 377 (L350)  [] — 
+TOK: \n
+KR: (ulepszenia 2–3) — opis] [BeforeAttack] 대상의 부정적인 효과 3개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합 3당, 코인 위력 +1(최대 5)\n[WinDuel] [Burst] 횟수 2 증가
+EN: [BeforeAttack] Gain +1 Atk Weight for every 3 types of negative effects on target (max 2)\n[WhenUse] If target has 5+ types of negative effects, Base Power +5\n[WhenUse] Coin Power +1 for every 3 ([Burst] + [Burst] Count on target) (max 5)\n[WinDuel] Inflict +2 [Burst] Count
+
+### 378 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 3) — nazwa] 적춘 제3형 - 참(斬)
+EN: Crimson Spring Third Form - Decapitation (斬)
+
+### 379 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여
+EN: [OnSucceedAttack] Inflict 3 Bleed
+
+### 380 (L120)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 1, efekt 2 — opis] [CriticalOnSucceedAttack] 출혈 횟수 2 증가
+EN: [CriticalOnSucceedAttack] Inflict +2 Bleed Count
+
+### 381 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] [Breath] 2 얻음. [Breath] 횟수 1 증가
+REPEAT: 375 — inherit
+
+### 382 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 7 부여
+REPEAT: 372 — inherit
+
+### 383 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 2, efekt 2 — opis] 크리티컬 피해량 +200%
+REPEAT: 373 — inherit
+
+### 384 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 2, efekt 3 — opis] [CriticalOnSucceedAttack] 출혈 횟수 3 증가
+REPEAT: 374 — inherit
+
+### 385 (LNone)  [] — 
+TOK: 
+KR: (ulepszenia 3–5) — moneta 2, efekt 4 — opis] [CriticalOnSucceedAttack] [Breath] 2 얻음. [Breath] 횟수 1 증가
+REPEAT: 375 — inherit
+
+### 386 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 4) — nazwa] 적춘 제4형 - 순(巡)
+EN: Crimson Spring Fourth Form - Flow (巡)
+
+### 387 (L410)  [] — 
+TOK: \n
+KR: (ulepszenia 4–5) — opis] [BeforeAttack] 대상의 부정적인 효과 3개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합 3당, 코인 위력 +1(최대 5)\n[WinDuel] [Burst] 횟수 2 증가\n[WhenUse] [Breath] 5 얻음,[Breath] 횟수 2 증가
+EN: [BeforeAttack] Gain +1 Atk Weight for every 3 types of negative effects on target (max 2)\n[WhenUse] If target has 5+ types of negative effects, Base Power +5\n[WhenUse] Coin Power +1 for every 3 ([Burst] + [Burst] Count on target) (max 5)\n[WinDuel] Inflict +2 [Burst] Count\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count
+
+### 388 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 5) — nazwa] 적춘 제5형 - 花(화)
+EN: Crimson Spring Fifth Form - 花 (Blossom)
+
+### 389 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 부정적인 효과 1개당 피해량 +10% (최대 50%)
+EN: [OnSucceedAttack] Deal +10% damage for every type of negative effect on target (max 50%)
+
+### 390 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 3, efekt 2 — opis] 크리티컬 피해량 +50%
+REPEAT: 348 — inherit
+
+### 391 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 5) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 3 얻음 (턴 당 1회)
+EN: [OnSucceedAttack] Gain 3 [Agility] next turn (once per turn)
+
+### 392 (L40)  [] — 
+TOK: 
+KR: (ulepszenia 1–3) — nazwa] 수회
+EN: Adept Evasion
+
+### 393 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [Breath] 1 얻음. (스킬 당 최대 3회)
+EN: [OnSucceedEvade] Gain 1 [Breath] next turn. (3 times per Skill)
+
+### 394 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 2) — opis] [OnSucceedEvade] 다음 턴에 [Breath] 3 얻음. (스킬 당 최대 2회)
+EN: [OnSucceedEvade] Gain 3 [Breath] next turn. (2 times per Skill)
+
+### 395 (L190)  [] — 
+TOK: \n
+KR: (ulepszenie 3) — opis] [WhenUse] 대상의 부정적인 효과 2개 당 기본 위력 +2 (최대 10)\n[OnSucceedEvade] 다음 턴에 [Breath] 3 얻음. (스킬 당 최대 2회)
+EN: [WhenUse] Base Power +2 for every 2 types of negative effect on target (max 10)\n[OnSucceedEvade] Gain 3 [Breath] next turn. (2 times per Skill)
+
+### 396 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 4) — nazwa] 수회유환
+EN: Adept Evasion - Redirected Counter
+
+### 397 (L250)  [] — 
+TOK: \n
+KR: (ulepszenie 4) — opis] [WhenUse] 대상의 부정적인 효과 2개 당 기본 위력 +2 (최대 10)\n[OnSucceedEvade] 다음 턴에 [Breath] 3 얻음. (스킬 당 최대 2회)\n[OnSucceedEvade] 적참을 사용 (턴 당 1회).
+EN: [WhenUse] Base Power +2 for every 2 types of negative effect on target (max 10)\n[OnSucceedEvade] Gain 3 [Breath] next turn. (2 times per Skill)\n[OnSucceedEvade] Use Crimson Cleave (once per turn)
+
+### 398 (L40)  [] — 
+TOK: 
+KR: Wróg / część [91059] — nazwa] 목마른 르카키
+EN: Thirsty Kaki
+
+### 399 (L40)  [] — 
+TOK: 
+KR: Wróg / część [91060] — nazwa] 배고픈 르카키
+EN: Hungry Kaki
+
+### 400 (L120)  [] — 
+TOK: 
+KR: Wróg / część [91060] — opis] 부위
+EN: Part
+
+### 401 (L50)  [] — 
+TOK: 
+KR: Wróg / część [1465] — nazwa] 르누아르 점원 구스타프
+EN: Le Noir Sales Associate Gustave
+
+### 402 (L120)  [] — 
+TOK: 
+KR: Wróg / część [1465] — opis] 1층 보스
+EN: 1F Boss
+
+### 403 (L50)  [] — 
+TOK: 
+KR: Wróg / część [1494] — nazwa] 르루주 점원 미모사
+EN: Le Rouge Sales Associate Mimosa
+
+### 404 (L120)  [] — 
+TOK: 
+KR: Wróg / część [1494] — opis] 1층 NPC
+EN: 1F NPC
+
+### 405 (L40)  [] — 
+TOK: 
+KR: Wróg / część [1480] — nazwa] 가죽 지갑
+EN: Leather Wallet
+
+### 406 (L40)  [] — 
+TOK: 
+KR: Wróg / część [1466] — nazwa] 리나모비블
+EN: L'Inamovible
+
+### 407 (L50)  [] — 
+TOK: 
+KR: Wróg / część [91066] — nazwa] 르누아르 점원[햇살]
+EN: Le Noir Sales Associate [Sunshone]
+
+### 408 (L40)  [] — 
+TOK: 
+KR: Wróg / część [1481] — nazwa] 3층 플로어 매니저
+EN: 3F Floor Manager
+
+### 409 (L50)  [] — 
+TOK: 
+KR: Wróg / część [1484] — nazwa] 붉은 신[미생]
+EN: The Crimson God [Inchoate Life]
+
+### 410 (L40)  [] — 
+TOK: 
+KR: Wróg / część [148401] — nazwa] 생명줄
+EN: Lifecord
+
+### 411 (L120)  [] — 
+TOK: 
+KR: Wróg / część [148401] — opis] 붉은 신 부위
+EN: The Crimson God Part
+
+### 412 (L50)  [] — 
+TOK: 
+KR: Wróg / część [91067] — nazwa] 르루주 점원[햇살]
+EN: Le Rouge Sales Associate [Sunshone]
+
+### 413 (L40)  [] — 
+TOK: 
+KR: Wróg / część [1474] — nazwa] 수셰프
+EN: Sous Chef
+
+### 414 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [1475] — nazwa] 가죽 지갑
+REPEAT: 405 — inherit
+
+### 415 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [91061] — nazwa] 목마른 르카키
+REPEAT: 398 — inherit
+
+### 416 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [91062] — nazwa] 배고픈 르카키
+REPEAT: 399 — inherit
+
+### 417 (L40)  [] — 
+TOK: 
+KR: Wróg / część [1482] — nazwa] 포레그
+EN: Four-legs
+
+### 418 (L40)  [] — 
+TOK: 
+KR: Wróg / część [1483] — nazwa] 원레그
+EN: One-leg
+
+### 419 (L40)  [] — 
+TOK: 
+KR: Wróg / część [91063] — nazwa] 날실 바늘이
+EN: Warp Needlekin
+
+### 420 (L40)  [] — 
+TOK: 
+KR: Wróg / część [91064] — nazwa] 씨실 바늘이
+EN: Weft Needlekin
+
+### 421 (L40)  [] — 
+TOK: 
+KR: Wróg / część [1496] — nazwa] 바느질의 왕
+EN: King of Needleworks
+
+### 422 (L50)  [] — 
+TOK: 
+KR: Wróg / część [1497] — nazwa] 붉은 신의 뜯긴 살점
+EN: Ripped Flesh of the Crimson God
+
+### 423 (L120)  [] — 
+TOK: 
+KR: Wróg / część [1497] — opis] 붉은 신이 폭주 상태에서 처치한 대상으로 만들어낸 반시체
+EN: A half-corpse created from units the Crimson God killed in its rampage
+
+### 424 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [1498] — nazwa] 날실 바늘이
+REPEAT: 419 — inherit
+
+### 425 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [1499] — nazwa] 씨실 바늘이
+REPEAT: 420 — inherit
+
+### 426 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [1529] — nazwa] 목마른 르카키
+REPEAT: 398 — inherit
+
+### 427 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [1530] — nazwa] 배고픈 르카키
+REPEAT: 399 — inherit
+
+### 428 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 셔츠는 여기에 있습니다.
+EN: Right this way for the shirts.
+
+### 429 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] [ChargeNoir] 횟수 7 얻음
+EN: [WhenUse] Gain +7 [ChargeNoir] Count
+
+### 430 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [ChargeNoir] 횟수 3 얻음
+EN: [OnSucceedAttack] Gain +3 [ChargeNoir] Count next turn
+
+### 431 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가
+REPEAT: 235 — inherit
+
+### 432 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Binding] next turn
+
+### 433 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 슬랙스는 이곳에 진열되어 있습니다.
+EN: The slacks display is right here.
+
+### 434 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] [ChargeNoir] 횟수 4 얻음
+EN: [WhenUse] Gain +4 [ChargeNoir] Count
+
+### 435 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [ChargeNoir] 횟수 3 얻음
+REPEAT: 430 — inherit
+
+### 436 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Vibration]
+
+### 437 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Reduction] next turn
+
+### 438 (L80)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 시착 불가 상품입니다, 고객님.
+EN: I'm afraid this item cannot be tried on, Dear Customer.
+
+### 439 (L190)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [CantChangeTarget]\n대상이 <color=#ff6000><mark=#ff000040><b><u>수비 스킬을 장착했으면, 이 스킬이 취소됨</u></b></mark></color>\n[WhenUse] 자신의 [ChargeNoir]당 피해량 +10% (최대 50%)
+EN: [CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>If target has equipped Defense Skills, cancel this Skill</u></b></mark></color>\n[WhenUse] Deal +10% damage for every [ChargeNoir] on self (max 50%)
+
+### 440 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [NoirNoComply] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [NoirNoComply]
+
+### 441 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. 진동 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 442 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [ChargeNoir] 횟수 5를 소모하여 [VibrationExplosion].
+EN: [OnSucceedAttack] Consume 5 [ChargeNoir] Count to trigger [VibrationExplosion]
+
+### 443 (L80)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 뭐라도 편하게 시착해 보시죠, 고객님.
+EN: Please, feel free to try something on, Dear Customer.
+
+### 444 (L270)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [CantChangeTarget]\n[StartBattle] 대상이 <color=#ff6000><mark=#ff000040><b><u>수비 스킬을 장착했으면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경되고 최종 위력 +5</u></b></mark></color>\n[WhenUse] 자신의 [ChargeNoir]당 피해량 +10% (최대 50%)
+EN: [CantChangeTarget]\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If target has equipped Defense Skills, convert all Coins in this Skill to [SuperCoin]s and gain Final Power +5</u></b></mark></color>\n[WhenUse] Deal +10% damage for every [ChargeNoir] on self (max 50%)
+
+### 445 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [NoirNoComply] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [NoirNoComply]
+
+### 446 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. 진동 횟수 1 감소
+REPEAT: 441 — inherit
+
+### 447 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [ChargeNoir] 횟수 5를 소모하여 [VibrationExplosion].
+REPEAT: 442 — inherit
+
+### 448 (L70)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 상품에 손상이 가지 않도록 부탁드립니다.
+EN: Please take care not to damage the merchandise.
+
+### 449 (L270)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [CantChangeTarget]\n[StartBattle] 대상이 <color=#ff6000><mark=#ff000040><b><u>공격 스킬을 장착했으면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경되고 최종 위력 +5</u></b></mark></color>\n[WhenUse] 자신의 [ChargeNoir]당 피해량 +10% (최대 50%)
+EN: [CantChangeTarget]\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If target has equipped Attack Skills, convert all Coins in this Skill to [SuperCoin]s and gain Final Power +5</u></b></mark></color>\n[WhenUse] Deal +10% damage for every [ChargeNoir] on self (max 50%)
+
+### 450 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 공격 스킬을 장착했으면, [NoirNoComply] 1 부여
+EN: [OnSucceedAttack] If target has equipped Attack Skills, inflict 1 [NoirNoComply]
+
+### 451 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. 진동 횟수 1 감소
+REPEAT: 441 — inherit
+
+### 452 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [ChargeNoir] 횟수 5를 소모하여 [VibrationExplosion].
+REPEAT: 442 — inherit
+
+### 453 (L70)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 고객님! 상품에 주름이 잡히지 않도록 부탁드립니다!
+EN: Excuse me! Please try not to wrinkle the clothes!
+
+### 454 (L160)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 수비 스킬을 장착하지 않은 대상에게 가하는 피해량 +(각 대상의 [NoirNoComply] x 100)%
+EN: [StartBattle] If target has not equipped Defense Skills, deal +([NoirNoComply] on target x 100)% damage, respectively
+
+### 455 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 456 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 수비 스킬을 장착했으면, 대상의 [NoirNoComply] 1 감소
+EN: [OnSucceedAttack] If target has equipped Defense Skills, target loses 1 [NoirNoComply]
+
+### 457 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 해당 상품은 사이즈가 없어서 따로 본사에 재고를 확인해 보겠습니다.
+EN: We don't have that item in your size. Allow me to check the stocks with the head office.
+
+### 458 (L190)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이 스킬을 사용하는 슬롯에 메인 타겟으로 스킬을 3개 이상 지정했으면, [NoirBindArmor] 3 감소, 다음 턴에 [Enhancement] 2 얻음
+EN: [StartBattle] If the Skill Slot using this Skill is a main target of 3 or more Skills, lose 3 [NoirBindArmor] and gain 2 [Enhancement] next turn
+
+### 459 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 스티칭
+EN: Stitching
+
+### 460 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [ChargeRouge] 횟수 6 증가
+EN: [WhenUse] Gain +6 [ChargeRouge] Count
+
+### 461 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [ChargeRouge] 횟수 2 증가
+EN: [OnSucceedAttack] Gain +2 [ChargeRouge] Count
+
+### 462 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 463 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 58 — inherit
+
+### 464 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 스탬핑
+EN: Stamping
+
+### 465 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [ChargeRouge] 횟수 4 증가
+EN: [WhenUse] Gain +4 [ChargeRouge] Count
+
+### 466 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [ChargeRouge] 횟수 2 증가
+REPEAT: 461 — inherit
+
+### 467 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict +1 [Laceration] Count
+
+### 468 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 469 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여
+REPEAT: 32 — inherit
+
+### 470 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 트리플 스티칭
+EN: Triple Stitching
+
+### 471 (L270)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[DefeatDuel] 이 스킬 피해로 대상이 흐트러지지 않음\n[EndSkill] 자신의 [ChargeRouge] 횟수를 3 소모하여, 체력 30 회복
+EN: [StartBattle] At lower than 50% HP, convert all Coins in this Skill to [SuperCoin]s\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[EndSkill] Consume 3 [ChargeRouge] Count on self to heal 30 HP
+
+### 472 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 4 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]
+
+### 473 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeRouge] 횟수 2 증가
+REPEAT: 461 — inherit
+
+### 474 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 이 코인 최종 피해량만큼 자신의 체력 회복
+EN: [OnSucceedAttack] Heal HP on self equal to this Coin's final damage
+
+### 475 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 4 부여
+REPEAT: 472 — inherit
+
+### 476 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeRouge] 횟수 2 증가
+REPEAT: 461 — inherit
+
+### 477 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 이 코인 최종 피해량만큼 자신의 체력 회복
+REPEAT: 474 — inherit
+
+### 478 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 4 부여
+REPEAT: 472 — inherit
+
+### 479 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeRouge] 횟수 2 증가
+REPEAT: 461 — inherit
+
+### 480 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 이 코인 최종 피해량만큼 자신의 체력 회복
+REPEAT: 474 — inherit
+
+### 481 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 공격적 마케팅
+EN: Aggressive Marketing
+
+### 482 (L390)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경되고, [DefenseDown] 3, [ChargeRouge] 횟수 6 얻음\n[DefeatDuel] 피해량 -80%, 이 스킬 피해로 대상이 흐트러지지 않음\n[WhenUse] 자신의 [ChargeRouge] 1당 이 스킬 피해량 +10% (최대 30%)
+EN: [StartBattle] At lower than 50% HP, convert all Coins in this Skill to [SuperCoin]s, gain 3 [DefenseDown], and +6 [ChargeRouge] Count\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[WhenUse] This Skill deals +10% damage for every [ChargeRouge] on self (max 30%)
+
+### 483 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count
+
+### 484 (L140)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 이 코인 최종 피해량만큼 자신의 체력 회복 (스킬당 최대 100)
+EN: [UnBrokenCoinOnSucceedAttack] Heal HP on self equal to this Coin's final damage (max 100 HP per Skill)
+
+### 485 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 자신의 [ChargeRouge] 횟수를 3 소모하여, 이 코인 재사용 (최대 3회)
+EN: [OnSucceedAttack] Consume 3 [ChargeRouge] Count on self to Reuse this Coin (max 3 times)
+
+### 486 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [ReUseOnSucceedAttack] 대상의 [Laceration] 발동. 대상의 [Laceration] 횟수 1 감소
+EN: [ReUseOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count
+
+### 487 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 써는 거예요
+EN: Cutting up the meat, you hear?
+
+### 488 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상에게 [SapsareeSpices]가 있으면, 최종 위력 +1
+EN: [WhenUse] If target has [SapsareeSpices], Final Power +1
+
+### 489 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 490 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 491 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 크게 써는 거예요
+EN: Cutting up big chunks, you hear?
+
+### 492 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [SapsareeSpices] 1당, 최종 위력 +1 (최대 2)
+EN: [WhenUse] Final Power +1 for every [SapsareeSpices] on target (max 2)
+
+### 493 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 494 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 495 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 난도질 하는 거예요
+EN: Chop, mince, dice, you hear?
+
+### 496 (L160)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상에게 [SapsareeSpices]가 있으면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration] 6당, 코인 위력 +1 (최대 2)
+EN: [WhenUse] If target has [SapsareeSpices], Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)
+
+### 497 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 498 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 499 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 500 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 제 시그니쳐인 거예요
+EN: My signature knife work, you hear?
+
+### 501 (L330)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [SapsareeYammi] 2당, 코인 위력 +1\n[WhenUse] 메인 타겟에게 [SapsareeSpices]가 있으면, 최종 위력 +3\n[DefeatDuel] 피해량이 80%만큼 감소하고, 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 보유한 [SapsareeYammi] 모두 소모
+EN: [WhenUse] Coin Power +1 for every 2 [SapsareeYammi] on self\n[WhenUse] If the main target has [SapsareeSpices], Final Power +3\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Consume all [SapsareeYammi] on self
+
+### 502 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 이 기술을 익혀서 마침내 수셰프로 승급되었다 한다.
+EN: This is the technique that saw her promoted to the position of Sous Chef.
+
+### 503 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 504 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 505 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]
+
+### 506 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 507 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 508 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 509 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 510 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 511 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 512 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 재료를 얻는 거예요
+EN: I'm collecting ingredients, you hear?
+
+### 513 (L210)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantDuel][CantChangeTarget]\n보유한 효과가 가장 많은 아군을 우선 지정\n이 스킬을 사용하는 동안 아군의 기본 정신력 감소 조건을 비활성화
+EN: [CantDuel] [CantChangeTarget]\nPrioritizes allies that have the most types of effects\nDeactivates allies' "Base factors decreasing Sanity" while using this Skill
+
+### 514 (L120)  [] — 
+TOK: </color>, <color=#ff6000>
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>대상 아군 처치</u></b></mark></color>
+EN: [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Kill the targeted ally</u></b>
+
+### 515 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 다들 모이라는 거예요!
+EN: Everyone come come, you hear?
+
+### 516 (L120)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CanDuelGuard]\n다음 턴에 가죽 지갑을 전장에 가능한 만큼 소환
+EN: [CanDuelGuard]\nSummon all available Leather Wallets to the field
+
+### 517 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 518 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 맛있는거 쳐먹으라는 거예요
+EN: Yummers! Slurp that up, you hear?
+
+### 519 (L130)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 메인 타겟과 서브 타겟 모두 아군을 지정하는 스킬\n대상이 아군이면 피해량이 항상 0으로 고정
+EN: This Skill targets allies for both main and sub-targets\nWhen targeting an ally, always deal 0 damage
+
+### 520 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 적군일 시, [SapsareeSpices] 1 부여
+EN: [OnSucceedAttack] If target is an enemy, inflict 1 [SapsareeSpices]
+
+### 521 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 아군일 시, 다음 턴에 [AttackUp] 2 부여
+EN: [OnSucceedAttack] If target is an ally , apply 2 [AttackUp] next turn
+
+### 522 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 적군일 시, [SapsareeSpices] 1 부여
+REPEAT: 520 — inherit
+
+### 523 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 아군일 시, 다음 턴에 [DefenseUp] 2 부여
+EN: [OnSucceedAttack] If target is an ally , apply 2 [DefenseUp] next turn
+
+### 524 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 적군일 시, [SapsareeSpices] 1 부여
+REPEAT: 520 — inherit
+
+### 525 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 아군일 시, 다음 턴에 [ParryingResultUp] 1 부여
+EN: [OnSucceedAttack] If target is an ally , apply 1 [ParryingResultUp] next turn
+
+### 526 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 앗! 제 식사시간인거예요
+EN: Aah! I'm on lunch break, you hear?
+
+### 527 (L380)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantIdentify]\n이 스킬은 적중하지 않으며, 피해량이 항상 0으로 고정\n[EndSkill] 자신이 보유한 [SapsareeCooking] 1당, 최대 체력의 1%를 회복하고 [SapsareeYammi] 1 얻음\n[EndSkill] 자신이 보유한 [SapsareeCooking] 1당, 자신을 제외한 모든 아군이 최대 체력의 20%를 회복하고 [SapsareeYammi] 1 얻음\n[EndSkill] [SapsareeCooking] 모두 소모
+EN: [CantIdentify]\nThis Skill does not hit and deals 0 damage\n[EndSkill] For every [SapsareeCooking] on self, heal 1% HP on self and gain 1 [SapsareeYammi]\n[EndSkill] For every [SapsareeCooking] on self, all other allies heal 20% HP and gain 1 [SapsareeYammi]\n[EndSkill] Consume all [SapsareeCooking]
+
+### 528 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 요리!!! 요리하게 해달라는 거예요!
+EN: Cooking!! Lemme get cooking, you hear?!
+
+### 529 (L210)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantIdentify]\n다음 턴에 가죽 지갑을 전장에 가능한 만큼 소환\n[EndSkill] [SapsareeHungry]를 모두 소모하며, 이번 턴 동안 [SapsareeHungry]를 얻지 않음
+EN: [CantIdentify]\nSummon all available Leather Wallets to the field\n[EndSkill] Consume all [SapsareeHungry]; does not gain [SapsareeHungry] for the rest of this turn
+
+### 530 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 531 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 532 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 533 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 534 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 535 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 536 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 537 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 냠냠
+EN: Nom Nom
+
+### 538 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 2)
+EN: [WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)
+
+### 539 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 540 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 쩝쩝
+EN: Munch Munch
+
+### 541 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 6당, 코인 위력 +1 (최대 2)
+EN: [WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)
+
+### 542 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 543 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 544 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꺼어어억
+EN: Buuuurp
+
+### 545 (L320)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 최종 위력 +2 (최대 4)\n[WhenUse] 자신의 [SapsareeYammi]가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [SapsareeYammi]가 5 이상이면, 가중치 +2\n[WhenUse] 자신의 [SapsareeYammi] 모두 소모
+EN: [WhenUse] Final Power +2 for every 4 [Laceration] on target (max 4)\n[WhenUse] At 3+ [SapsareeYammi], convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] At 5+ [SapsareeYammi], gain +2 Atk Weight\n[WhenUse] Consume all [SapsareeYammi] on self
+
+### 546 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 정신력 10 피해
+EN: [OnSucceedAttack] Deal 10 SP damage
+
+### 547 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [SapsareeSpices] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [SapsareeSpices]
+
+### 548 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 푸드코트 대기
+EN: Standby at the Food Court
+
+### 549 (L130)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [StartBattle] <color=#ff6000><mark=#ff000040><b><u>[SapsareeShield] 1 얻음</u></b></mark></color>\n[WhenUse] 대상의 ([Laceration] 위력 x 5)만큼 보호막 얻음
+EN: [StartBattle] <color=#ff6000><mark=#ff000040><b><u>Gain 1 [SapsareeShield]</u></b></mark></color>\n[WhenUse] Gain ([Laceration] Potency on target x 5) Shield
+
+### 550 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 조리되고 싶지 않아.
+EN: I don't want to be cooked.
+
+### 551 (L270)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [SupportProtect] 전용 스킬\n[DefeatDuel] [Vulnerable] 5 얻음\n<color=#ff6000><mark=#ff000040><b><u>[EndSkillAll] 자신이 살아있다면, 수셰프가 자신에게 '재료를 얻는 거예요' 사용</u></b></mark></color>\n(수셰프가 흐트러짐 상태이면, 발동하지 않음)
+EN: [SupportProtect] exclusive Skill\n[DefeatDuel] Gain 5 [Vulnerable]\n<color=#ff6000><mark=#ff000040><b><u>[EndSkillAll] If this unit is alive, Sous Chef uses "I'm collecting ingredients, you hear?" on self</u></b></mark></color>\n(Does not trigger if Sous Chef is Staggered)
+
+### 552 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 고기의 역할을 다 할 시간.
+EN: Time for the meat to fulfill its role.
+
+### 553 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 554 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 공복 꺼억
+EN: Buuuurp on Empty Stomach
+
+### 555 (L260)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 최종 위력 +2 (최대 4)\n[WhenUse] 자신이 보유한 효과가 3개 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신이 보유한 효과가 5개 이상이면, 가중치 +2
+EN: [WhenUse] Final Power +2 for every 4 [Laceration] on target (max 4)\n[WhenUse] At 3+ types of effects, convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] At 5+ types of effects, gain +2 Atk Weight
+
+### 556 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 정신력 10 피해
+REPEAT: 546 — inherit
+
+### 557 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 밍기적
+EN: Dawdle
+
+### 558 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 ([Laceration] 위력 x 5)만큼 보호막 얻음
+EN: [WhenUse] Gain ([Laceration] Potency on target x 5) Shield
+
+### 559 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 르카키들은 보통 할 게 없으면 멍하니 있기만 한다.
+EN: Unless there's something to do, most of Le Kaki space out and do nothing.
+
+### 560 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 안내방송
+EN: Customer Announcement
+
+### 561 (L240)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] 합 가능 수비 스킬과 합 진행 시, 합 위력 +20\n이 스킬은 대상의 수비 스킬을 발동시키지 않음\n이 스킬로 가하는 피해량이 0으로 고정됨\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] 대상에게 [Wariness] 10 부여</u></b></mark></color>
+EN: In a Clash against a Clashable Defense Skill, Clash Power +20\nThis Skill does not trigger the target's Defense Skill\nThis Skill deals 0 damage\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Inflict 10 [Wariness] on target</u></b></mark></color>
+
+### 562 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 들어라… 목소리를 들어라….
+EN: Listen... Hear the Voice...
+
+### 563 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 564 (L150)  [] — 
+TOK: </color>, <color=#ff6000>
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] <color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] 대상의 [Wariness]을 전부 제거하고 [ReliefSense] 1 부여 (수감자별 턴당 1회)</u></b></mark></color>
+EN: <color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Remove all [Wariness] on target and apply 1 [ReliefSense] (once per Sinner per turn)</u></b></mark></color>
+
+### 565 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 경고방송
+EN: Warning Announcement
+
+### 566 (L380)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantChangeTarget]\n- 지정된 수감자와 [Wariness] 수치가 동일한 수감자일 경우, 속도에 관계 없이 대상 변경 가능\n[Wariness]이 제일 높은 대상을 우선 타겟팅함\n이 스킬은 대상의 수비 스킬을 발동시키지 않음\n[EndSkill] 대상의 [Wariness] 전부 소모
+EN: [CantChangeTarget]\n- Any Sinner that has the same [Wariness] Stack as the targeted Sinner can draw this Skill to itself regardless of Speed\nPrioritizes targets that have the highest [Wariness] Stack\nThis Skill does not trigger the target's Defense Skill\n[EndSkill] Consume all [Wariness] on target
+
+### 567 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 568 (L130)  [] — 
+TOK: </color>, <color=#ff6000>
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>(대상의 정신력 + 45)만큼 정신력 피해를 입히고, 다음 턴에 [HorribleTerror] 1 부여</u></b></mark></color>
+EN: [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Deal (target's SP + 45) SP damage; then, inflict 1 [HorribleTerror] next turn</u></b></mark></color>
+
+### 569 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 들어줘서… 고맙다…
+EN: Thank you... for listening...
+
+### 570 (L420)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantChangeTarget]\n- 지정된 수감자와 [ReliefSense] 수치가 동일한 수감자일 경우, 속도에 관계 없이 대상 변경 가능\n[ReliefSense]가 제일 높은 대상을 우선 타겟팅함\n[DefeatDuel] 이 스킬과 합을 한 스킬로부터 받는 피해량 +150%\n[EndSkill] 대상의 [ReliefSense]를 전부 제거
+EN: [CantChangeTarget]\n- Any Sinner that has the same [ReliefSense] Stack as the targeted Sinner can draw this Skill to itself regardless of Speed\nPrioritizes targets that have the highest [ReliefSense] Stack\n[DefeatDuel] Take +150% damage from the Skill that Clashed with this Skill\n[EndSkill] Remove all [ReliefSense] on target
+
+### 571 (L220)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 매혹에는 여러 종류가 있다. 결과도 다르며 과정도 다르다. 하지만 매혹의 상태는 동일하다. 마음이 열렸고 취약해진다는 것.
+EN: Enthrallment takes many forms, with different paths and different endings. Yet the state itself is always the same: the heart opens and, in opening, becomes vulnerable.
+
+### 572 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 573 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 돌진
+EN: Onrush
+
+### 574 (L410)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 3)\n[WhenUse] 체력이 50% 이하면, 다음 효과가 적용됨\n- 이 스킬로 부여하는 [Vibration] 위력과 횟수 +2\n- 마지막 코인이 [SuperCoin]으로 변경되고 적중 시, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [WhenUse] Final Power +1 for every 4 ([Vibration] + [Sinking]) on target (max 3)\n[WhenUse] At lower than 50% HP, gain the following effects:\n- This Skill inflicts +2 more [Vibration] Potency and Count\n- Convert the final Coin to [SuperCoin]; On Hit, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 575 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Vibration]
+
+### 576 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict +1 [Vibration] Count
+
+### 577 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 육중한 돌진
+EN: Crushing Onrush
+
+### 578 (L460)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 3)\n[WhenUse] 체력이 50% 이하면, 다음 효과가 적용됨\n- 이 스킬로 부여하는 [Vibration] 위력과 횟수 +2\n- 두 번째, 세 번째 코인이 [SuperCoin]으로 변경되고 두 번째 코인 적중 시, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [WhenUse] Final Power +1 for every 4 ([Vibration] + [Sinking]) on target (max 3)\n[WhenUse] At lower than 50% HP, gain the following effects:\n- This Skill inflicts +2 more [Vibration] Potency and Count\n- Convert the second and third Coins to [SuperCoin]s; On Hit using the second Coin, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 579 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Vibration]
+
+### 580 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가
+REPEAT: 235 — inherit
+
+### 581 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 241 — inherit
+
+### 582 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 층 울리기
+EN: Floorwide Echo
+
+### 583 (L570)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantChangeTarget]\n패닉 상태인 대상을 우선으로 지정\n[ReliefSense]를 보유한 수감자일 경우, 대상 변경 가능\n[WhenUse] 대상에게 [ReliefSense]가 없으면, 공격 가중치 +2\n[WhenUse] 메인 타겟의 [Vibration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 4)\n[DefeatDuel] 다음 효과가 적용됨\n- 피해량 -50%\n- 이 스킬의 피해로 대상이 흐트러지지 않고, 적중 시 대상의 [Sinking] 효과가 발동하지 않음
+EN: [CantChangeTarget]\nPrioritizes targets that are in Panic\nSinners that have [ReliefSense] can draw this Skill to itself\n[WhenUse] If target does not have [ReliefSense], gain +2 Atk Weight\n[WhenUse] Final Power +1 for every 4 ([Vibration] + [Sinking]) on the main target (max 4)\n[DefeatDuel] Gain the Following effects:\n- Deal -50% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] effect on target
+
+### 584 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Sinking] Count
+
+### 585 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 586 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [UnresolvedFeelings]만큼 [Sinking] 부여 (최대 15)
+EN: [UnBrokenCoinOnSucceedAttack] Inflict [Sinking] equal to [UnresolvedFeelings] (max 15)
+
+### 587 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 쾅! 쾅! 콰와앙!
+EN: WHUMP! THUMP! KRA-KOOM!
+
+### 588 (L660)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있음\n[StartBattle] 보호막 100 얻음\n- 잃은 체력 1%당, 보호막 4 추가로 얻음 (최대 200)\n- 공격 시작 전에 보호막이 파괴되지 않았을 때, 남은 보호막 수치 100당 마지막 코인 1회 재사용 (최대 2회)\n[WhenUse] 메인 타겟의 [Vibration]과 [Sinking]의 합 6당, 최종 위력 +1, 코인 위력 +1 (각각 최대 4)\n[DefeatDuel] 다음 효과가 적용됨\n- 피해량 -75%\n- 이 스킬의 피해로 대상이 흐트러지지 않고, 적중 시 대상의 [Sinking] 효과가 발동하지 않음
+EN: Can Clash with this Skill regardless of Speed\n[StartBattle] Gain 100 Shield\n- Gain 4 more Shield for every 1% missing HP (max 200)\n- Before Attack, if Shield is not broken, Reuse final Coin once for every 100 remaining Shield (max 2 times)\n[WhenUse] Final Power +1 and Coin Power +1 for every 6 ([Vibration] + [Sinking]) on the main target (max 4 each)\n[DefeatDuel] Gain the following effects:\n- Deal -75% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] effect on target
+
+### 589 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 590 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] ([UnresolvedFeelings]/3)만큼 [Sinking] 부여 (최대 10)
+EN: [UnBrokenCoinOnSucceedAttack] Inflict ([UnresolvedFeelings] / 3) [Sinking] (max 10)
+
+### 591 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [ReUseOnSucceedAttack] 대상에게 [ReliefSense]가 없으면, [Wariness] 1 부여
+EN: [ReUseOnSucceedAttack] If target does not have [ReliefSense], inflict 1 [Wariness]
+
+### 592 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 층 울리기
+REPEAT: 582 — inherit
+
+### 593 (L980)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantChangeTarget]\n패닉 상태인 대상을 우선으로 지정\n[ReliefSense]를 보유한 수감자일 경우, 대상 변경 가능\n이 스킬은 대상의 수비 스킬을 발동시키지 않음\n속도에 상관없이 이 스킬과 합을 할 수 있음\n[WhenUse] 공격 가중치 +3\n- 메인 타겟의 [ReliefSense] 1당, 증가하는 공격 가중치가 1씩 감소\n[WhenUse] 다음 효과가 적용됨\n- 메인 타겟의 [Vibration]과 [Sinking]의 합 4당, 최종 위력 +1 (최대 4)\n- 메인 타겟의 [Wariness] 3당, 합 위력 +1 (최대 3)\n- 피해량 +(대상의 [Wariness] x 10)% (최대 100%, 타겟별로 적용)\n[DefeatDuel] 다음 효과가 적용됨\n- 피해량 -50%\n- 이 스킬의 피해로 대상이 흐트러지지 않고, 적중 시 대상의 [Sinking] 효과가 발동하지 않음
+EN: [CantChangeTarget]\nPrioritizes targets that are in Panic\nSinners that have [ReliefSense] can draw this Skill to itself\nThis Skill does not trigger the target's Defense Skill\nCan Clash with this Skill regardless of Speed\n[WhenUse] Gain +3 Atk Weight\n- Reduce Atk Weight gain by 1 for every 1 [ReliefSense] on the main target\n[WhenUse] Gain the following effects:\n- Final Power +1 for every 4 ([Vibration] + [Sinking]) on the main target (max 4)\n- Clash Power +1 for every 3 [Wariness] on the main target (max 3)\n- Deal +([Wariness] on target x 10)% damage (max 100%; calculated separately for each target)\n[DefeatDuel] Gain the following effects:\n- Deal -50% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] effect on target
+
+### 594 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 595 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Sinking] 횟수 3 증가
+EN: [UnBrokenCoinOnSucceedAttack] Inflict +3 [Sinking] Count
+
+### 596 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 597 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [UnresolvedFeelings]만큼 [Sinking] 부여 (최대 15)
+REPEAT: 586 — inherit
+
+### 598 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 599 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [UnresolvedFeelings]만큼 [Sinking] 부여 (최대 15)
+REPEAT: 586 — inherit
+
+### 600 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 쾅! 쾅! 콰앙! 콰아아앙!!!
+EN: WHUMP! THUMP! KRA-KOOM! BOOM-CRACK!
+
+### 601 (L970)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 이 스킬은 대상의 수비 스킬을 발동시키지 않음\n속도에 상관없이 이 스킬과 합을 할 수 있음\n[StartBattle] 보호막 100 얻음\n- 잃은 체력 1%당, 보호막 4 추가로 얻음 (최대 400)\n- 공격 시작 전에 보호막이 파괴되지 않았을 때, 남은 보호막 수치 100당 마지막 코인 1회 재사용 (최대 3회)\n[WhenUse] 다음 효과가 적용됨\n- 메인 타겟의 [Vibration]과 [Sinking]의 합 6당, 최종 위력 +1, 코인 위력 +1 (각각 최대 4)\n- 메인 타겟의 [Wariness] 2당, 합 위력 +1 (최대 5)\n- 피해량 +(대상의 [Wariness] x 10)% (최대 100%, 타겟별로 적용)\n[DefeatDuel] 다음 효과가 적용됨\n- 피해량 -75%\n- 이 스킬의 피해로 대상이 흐트러지지 않고, 적중 시 대상의 [Sinking] 효과가 발동하지 않음
+EN: This Skill does not trigger the target's Defense Skill\nCan Clash with this Skill regardless of Speed\n[StartBattle] Gain 100 Shield\n- Gain 4 more Shield for every 1% missing HP (max 400)\n- Before Attack, if Shield is not broken, Reuse final Coin once for every 100 remaining Shield (max 3 times)\n[WhenUse] Gain the following effects:\n- Final Power +1 and Coin Power +1 for every 6 ([Vibration] + [Sinking]) on the main target (max 4 each)\n- Clash Power +1 for every 2 [Wariness] on the main target (max 5)\n- Deal +([Wariness] on target x 10)% damage (max 100%; calculated separately for each target)\n[DefeatDuel] Gain the following effects:\n- Deal -75% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] effect on target
+
+### 602 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 603 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] ([UnresolvedFeelings]/2)만큼 [Sinking] 부여 (최대 15)
+EN: [OnSucceedAttack] Inflict ([UnresolvedFeelings] / 2) [Sinking] (max 15)
+
+### 604 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [ReUseOnSucceedAttack] 대상에게 [ReliefSense]가 없으면, [Wariness] 1 부여
+REPEAT: 591 — inherit
+
+### 605 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 들려! 들린다고!
+EN: I hear it... I can hear it!
+
+### 606 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] [ChargeRouge] 횟수 5 얻음
+EN: [WhenUse] Gain +5 [ChargeRouge] Count
+
+### 607 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [ChargeRouge] 횟수 2 얻음
+EN: [OnSucceedAttack] Gain +2 [ChargeRouge] Count
+
+### 608 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [ChargeRouge] 횟수 2 얻음
+REPEAT: 607 — inherit
+
+### 609 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 610 (L80)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 한번 더 옷을 갈아입을 수 있었어!
+EN: I have been granted another chance to change my clothes!
+
+### 611 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] [ChargeRouge] 횟수 5 얻음
+REPEAT: 606 — inherit
+
+### 612 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [ChargeRouge] 횟수 2 얻음
+REPEAT: 607 — inherit
+
+### 613 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [ChargeRouge] 횟수 2 얻음
+REPEAT: 607 — inherit
+
+### 614 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 615 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 내 믿음이 무의미하지 않았던거야!
+EN: My faith wasn't in vain!
+
+### 616 (L170)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 자신의 [ChargeRouge] 1당 피해량 +10% (최대 50%)\n[WhenUse] [ChargeRouge] 횟수를 5 소모하여 최종 위력 +2
+EN: [WhenUse] Deal +10% damage for every [ChargeRouge] on self (max 50%)\n[WhenUse] Consume 5 [ChargeRouge] Count to gain Final Power +2
+
+### 617 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 618 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 619 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 긁어내! 뜯어내! 벗겨내!
+EN: Scrape! Flay! Peel!
+
+### 620 (L360)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] 자신의 현재 체력이 최대 체력의 50% 미만이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] 자신의 [ChargeRouge] 1당 피해량 +10% (최대 50%)\n[WhenUse] 자신의 [ChargeRouge] 횟수 1당 피해량 +3% (최대 60%)\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -2
+EN: [StartBattle] At lower than 50% HP, convert all Coins in this Skill to [SuperCoin]s\n[WhenUse] Deal +10% damage for every [ChargeRouge] on self (max 50%)\n[WhenUse] Deal +3% damage for every [ChargeRouge] Count on self (max 60%)\n\n[BeforeAttack] Base Power -2 for every Cracked Coin
+
+### 621 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가
+REPEAT: 467 — inherit
+
+### 622 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 58 — inherit
+
+### 623 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 이 세상에 의미는 있던 거였어!
+EN: So this world wasn't meaningless after all!
+
+### 624 (L310)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] 수비 스킬을 장착한 대상 1명당, 이 스킬 피해량 -10%\n[StartBattle] 공격 스킬을 장착한 대상 1명당, 다음 턴에 [DefenseDown] 1 얻음\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -1
+EN: [StartBattle] This Skill deals -10% damage for every target that has equipped Defense Skills\n[StartBattle] Gain 1 [DefenseDown] next turn for every target that has equipped Attack Skills\n\n[BeforeAttack] Base Power -1 for every Cracked Coin
+
+### 625 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 626 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 627 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 확실히 나와 함께하신다!
+EN: The Voice is with me, this I know!
+
+### 628 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [OnDirectAttack] 이 스킬 피해량 -80%
+EN: [OnDirectAttack] This Skill deals -80% damage
+
+### 629 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 630 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [DefeatDuelAttack] 이 스킬 최종 피해량만큼 체력 회복
+EN: [DefeatDuelAttack] Heal HP equal to this Skill's final damage
+
+### 631 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 더욱 나답게… 다시 한번 더 나답게…!
+EN: Be myself... Be utterly myself...!
+
+### 632 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [DuelCounter]\n[RougeThreeCocoon] 전용 스킬\n\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 흐트러짐 상태가 되지 않음.
+EN: [DuelCounter]\n[RougeThreeCocoon] exclusive Skill\n\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 633 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 634 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]
+
+### 635 (L120)  [] — 
+TOK: </color>, <color=#ff6000>
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>자신의 [RougeThreeCocoonHit]이 10 이상이면, 이 코인 재사용 (스킬당 1회)</u></b></mark></color>
+EN: [OnSucceedAttack] At 10+ <color=#ff6000><mark=#ff000040><b><u>[RougeThreeCocoonHit] on self, Reuse this Coin (once per Skill)</u></b></mark></color>
+
+### 636 (L120)  [] — 
+TOK: </color>, <color=#ff6000>
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>자신의 [RougeThreeCocoonHit]이 20 이상이면, 이 코인 재사용 (스킬당 1회)</u></b></mark></color>
+EN: [ReUseOnSucceedAttack]<color=#ff6000><mark=#ff000040><b><u> At 20+ [RougeThreeCocoonHit], Reuse this Coin (once per Skill)</u></b></mark></color>
+
+### 637 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 5 — opis] [ReUseOnSucceedAttack] [ChargeRouge] 횟수 1 얻음
+EN: [ReUseOnSucceedAttack] Gain +1 [ChargeRouge] Count
+
+### 638 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 다그닥
+EN: Clip-clop
+
+### 639 (L240)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse]\n- 대상의 [Vibration] 4당 최종 위력 +1 (최대 3)\n- 자신의 [ChargeNoir] 횟수가 8 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeNoir] 횟수가 15 미만이면, [ChargeNoir] 횟수 2 증가
+EN: [WhenUse]\n- Final Power +1 for every 4 [Vibration] on target (max 3)\n- At 8+ [ChargeNoir] Count, Coin Power +1\n[WhenUse] At fewer than 15 [ChargeNoir] Count, gain +2 [ChargeNoir] Count
+
+### 640 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 1 부여
+REPEAT: 579 — inherit
+
+### 641 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 1 증가
+EN: [OnSucceedAttack] Gain +1 [ChargeNoir] Count
+
+### 642 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여
+REPEAT: 575 — inherit
+
+### 643 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 1 증가
+REPEAT: 641 — inherit
+
+### 644 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 다그닥, 쿵!
+EN: Clip-clop, Buck!
+
+### 645 (L270)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse]\n- 대상의 [Vibration] 4당 최종 위력 +1 (최대 3)\n- 자신의 [ChargeNoir] 횟수가 8 이상이면, 코인 위력 +1\n[WhenUse]\n- 자신의 [ChargeNoir] 횟수 3 증가\n- 자신의 [ChargeNoir]이 3 이상이면, 마지막 코인이 [SuperCoin]으로 변경됨
+EN: [WhenUse]\n- Final Power +1 for every 4 [Vibration] on target (max 3)\n- At 8+ [ChargeNoir] Count, Coin Power +1\n[WhenUse]\n- Gain +3 [ChargeNoir] Count\n- At 3+ [ChargeNoir], convert the final coin to [SuperCoin]
+
+### 646 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여, [Vibration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 3 [Vibration] and +2 [Vibration] Count
+
+### 647 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 3 증가
+EN: [OnSucceedAttack] Gain +3 [ChargeNoir] Count
+
+### 648 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 2 증가
+EN: [OnSucceedAttack] Gain +2 [ChargeNoir] Count
+
+### 649 (L200)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수가 15 이상이면, [ChargeNoir] 횟수 3을 소모하여 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [OnSucceedAttack] At 15+ [ChargeNoir] Count, consume 3 [ChargeNoir] Count to trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 650 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 잘라주세요! 제발!
+EN: Please, cut them off! I beg you!
+
+### 651 (L370)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있음\n[WhenUse]\n- 자신의 [ChargeNoir] 횟수가 10 이상이면, [ChargeNoir] 횟수 10을 소모하여 기본 위력 +1, 코인 위력 +1\n- 자신의 [ChargeNoir] 횟수가 10 미만이면, [ChargeNoir] 횟수 5 증가\n- 자신의 [ChargeNoir]이 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨
+EN: Can Clash with this Skill regardless of Speed\n[WhenUse]\n- At 10+ [ChargeNoir] Count, consume 10 [ChargeNoir] Count to gain Base Power +1 and Coin Power +1\n- At fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n- At 3+ [ChargeNoir], convert all Coins on this Skill to [SuperCoin]s
+
+### 652 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여
+REPEAT: 238 — inherit
+
+### 653 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Vibration] Count
+
+### 654 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 241 — inherit
+
+### 655 (L180)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 이 스킬에서 [ChargeNoir] 횟수를 소모했다면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [OnSucceedAttack] If this Skill consumed [ChargeNoir] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 656 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 다그닥거리는 이 소리, 끔찍해….
+EN: Clippety-clop, what an awful sound...
+
+### 657 (L630)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WideAreaRampage]\n자신의 [ChargeNoir]당 피해량 +3% (최대 15%)\n이 스킬 적중 시마다 대상에게 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n[StartBattle] (자신의 [ChargeNoir] - 2)만큼 [NoirBindArmor] 얻음 (최대 3)\n[WhenUse]\n- 모든 타겟에게 [Vibration] 3 부여, [Vibration] 횟수 3 증가\n- 자신의 [ChargeNoir] 횟수가 10 이상이면, [ChargeNoir] 횟수 10을 소모하여 기본 위력 +2, 코인 위력 +2\n[DefeatDuel]\n- 피해량 -50%\n- 이 스킬의 피해와 효과로 대상이 흐트러지지 않음
+EN: [WideAreaRampage]\nDeal +3% damage for every [ChargeNoir] on self (max 15%)\nOn Hit, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count\n[StartBattle] Gain ([ChargeNoir] on self - 2) [NoirBindArmor] (max 3)\n[WhenUse]\n- Inflict 3 [Vibration] and +3 [Vibration] Count on all targets\n- At 10+ [ChargeNoir] Count, consume 10 [ChargeNoir] Count to gain Base Power +2 and Coin Power +2\n[DefeatDuel]\n- Deal -50% damage\n- Damage and effects caused by this Skill cannot Stagger the target
+
+### 658 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 659 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 660 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 661 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 불결한 것!
+EN: Revolting Thing!
+
+### 662 (L440)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] [NoirSuit]가 50 이상이면, 방어 레벨 증가 1 얻음\n[WhenUse] [Realisation]가 있으면,\n- 피해량 +(자신의 [ChargeNoir] 위력 x 8)% (최대 40%)\n- [Realisation] 4 소모\n[WhenUse] 자신의 [ChargeNoir] 횟수가 12 이상이면,\n[ChargeNoir] 횟수를 2 소모하여 합 위력 +1\n[WhenUse] 자신의 [ChargeNoir] 횟수가 10 미만이면, [ChargeNoir] 횟수 2 증가
+EN: [WhenUse] At 50+ [NoirSuit], gain 1 Defense Level Up\n[WhenUse] If this unit has [Realisation]:\n- Deal +([ChargeNoir] Potency on self x 8)% damage (max 40%)\n- Consume 4 [Realisation]\n[WhenUse] At 12+ [ChargeNoir] Count, consume 2 [ChargeNoir] Count to gain Clash Power +1\n[WhenUse] At fewer than 10 [ChargeNoir] Count, gain +2 [ChargeNoir] Count
+
+### 663 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여
+REPEAT: 575 — inherit
+
+### 664 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 1 증가
+REPEAT: 641 — inherit
+
+### 665 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 1 부여, [Vibration] 횟수 1 증가
+EN: [OnSucceedAttack] Inflict 1 [Vibration] and +1 [Vibration] Count
+
+### 666 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 1 증가
+REPEAT: 641 — inherit
+
+### 667 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 다리가 하나가 아닌 게 부끄럽지도 않나?
+EN: Aren't you ashamed of that extra leg?
+
+### 668 (L480)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] [NoirSuit]가 있으면,\n수치 40당, [DefenseUp] 1 얻음 (최대 2)\n[WhenUse] [Realisation]가 있으면,\n- 피해량 +(자신의 [ChargeNoir] 위력 x 6)% (최대 30%)\n- [Realisation] 6 소모\n[WhenUse] 자신의 [ChargeNoir] 횟수가 12 이상이면,\n[ChargeNoir] 횟수를 2 소모하여 최종 위력 +1\n[WhenUse] 자신의 [ChargeNoir] 횟수가 15 미만이면, [ChargeNoir] 횟수 3 증가
+EN: [WhenUse] If this unit has [NoirSuit]:\n- Gain 1 [DefenseUp] for every 40 Stack (max 2)\n[WhenUse] If this unit has [Realisation]:\n- Deal +([ChargeNoir] Potency on self x 6)% damage (max 30%)\n- Consume 6 [Realisation]\n[WhenUse] At 12+ [ChargeNoir] Count, consume 2 [ChargeNoir] Count to gain Final Power +1\n[WhenUse] At fewer than 15 [ChargeNoir] Count, gain +3 [ChargeNoir] Count
+
+### 669 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 4 부여, [Vibration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict 4 [Vibration] and +2 [Vibration] Count
+
+### 670 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 2 증가
+REPEAT: 648 — inherit
+
+### 671 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 1 증가
+REPEAT: 641 — inherit
+
+### 672 (L160)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [ChargeNoir] 위력이 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [OnSucceedAttack] At 3+ [ChargeNoir] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 673 (L70)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 자비롭게 그 하나 떼어 내 주지.
+EN: I'll cut that one off You. Consider it a mercy.
+
+### 674 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 언젠가 르누아르의 브랜드 매니저를 만났을 때, 이 자가 어떻게 반응할지 궁금하지 않아?
+EN: Ever wonder how this one would react upon meeting Le Noir's Brand Manager?
+
+### 675 (L600)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있음\n[WhenUse] [NoirSuit]가 있으면, 수치 30당 합 위력 +1 (최대 3)\n[WhenUse] [Realisation]가 있으면, 수치 2당 피해량 +1% (최대 50%)\n[WhenUse]\n- 자신의 [ChargeNoir] 횟수가 10 이상이면, [ChargeNoir] 횟수 10을 소모하여 코인 위력 +2\n- 자신의 [ChargeNoir] 횟수가 10 미만이면, [ChargeNoir] 횟수 5 증가\n[DefeatDuel]\n- 피해량 -50%\n- 자신의 [DefenseUp] 수치만큼, 자신에게 흐트러짐 피해
+EN: Can Clash with this Skill regardless of Speed\n[WhenUse] If this unit has [NoirSuit], Clash Power +1 for every 30 Stack (max 3)\n[WhenUse] If this unit has [Realisation], deal +1% damage for every 2 Stack (max 50%)\n[WhenUse]\n- At 10+ [ChargeNoir] Count, consume 10 [ChargeNoir] Count to gain Coin Power +2\n- At fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n[DefeatDuel]\n- Deal -50% damage\n- Raise this unit's Stagger Threshold equal to its [DefenseUp] Stack
+
+### 676 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Vibration]
+
+### 677 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 진동 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Vibration] Count
+
+### 678 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 679 (L140)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 680 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 이 스킬에서 [ChargeNoir] 횟수를 소모했다면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 655 — inherit
+
+### 681 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 원 킥
+EN: Single Kick
+
+### 682 (L670)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] [NoirSuit]가 있으면,\n- 수치 3당, 피해량 +1% (최대 30%)\n- 수치 15당, [DefenseUp] 1 얻음 (최대 5)\n[WhenUse] 자신의 [ChargeNoir] 횟수가 10 이상이면,\n[ChargeNoir] 횟수를 10 소모하여 코인 위력 +2\n- 체력이 50% 이하면, 남은 [ChargeNoir] 횟수를 최대 10까지 추가로 소모하여 피해량 +(추가 소모한 [ChargeNoir] 횟수 x 2.5)% (최대 25%)\n[WhenUse] 자신의 [ChargeNoir] 위력이 3/5 이상이면, 코인 위력 +1/+2\n[DefeatDuel]\n- 피해량 -75%\n- 이 스킬의 피해와 효과로 대상이 흐트러지지 않음
+EN: [WhenUse] If this unit has [NoirSuit]:\n- Deal +1% damage for every 3 Stack (max 30%)\n- Gain 1 [DefenseUp] for every 15 Stack (max 5)\n[WhenUse] At 10+ [ChargeNoir], consume 10 [ChargeNoir] Count to gain Coin Power +2\n- At 50% or lower HP, additionally consume up to 10 remaining [ChargeNoir] Count and deal +(additionally consumed [ChargeNoir] Count x 2.5)% damage (max 25%)\n[WhenUse] At 3+/5+ [ChargeNoir] Potency, Coin Power +1/+2\n[DefeatDuel]\n- Deal -75% damage\n- Damage and effects caused by this Skill cannot Stagger the target
+
+### 683 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 684 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vibration] 3 부여
+REPEAT: 238 — inherit
+
+### 685 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 686 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가
+REPEAT: 653 — inherit
+
+### 687 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 688 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] 자신의 [DefenseUp] 1당, 피해량 +5% (최대 100%)
+EN: Deal +5% damage for every [DefenseUp] on self (max 100%)
+
+### 689 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 241 — inherit
+
+### 690 (L190)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 자신의 [ChargeNoir] 위력이 3/5 이상이면, [VibrationExplosion] 1회/2회. 대상의 [Vibration] 횟수 1/2 감소
+EN: [UnBrokenCoinOnSucceedAttack] At 3+/5+ [ChargeNoir] Potency, trigger [VibrationExplosion] once/twice; then, reduce target's [Vibration] Count by 1/2
+
+### 691 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 원 킥 - 쿠튀르 뮐티플
+EN: Single Kick - Couture Multiple
+
+### 692 (L560)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] [Realisation]가 있으면,\n- 수치 2당, 피해량 +1% (최대 50%)\n- 피해량 +(자신의 [ChargeNoir] 위력 x 6)% (최대 30%)\n- [Realisation] 15 소모\n[WhenUse] 자신의 [ChargeNoir] 횟수가 10 이상이면,\n[ChargeNoir] 횟수를 10 소모하여 최종 위력 +2, 코인 위력 +1\n[WhenUse] 자신의 [ChargeNoir] 위력이 3/5 이상이면, 코인 위력 +1/+2\n[DefeatDuel]\n- 피해량 -75%\n- 이 스킬의 피해와 효과로 대상이 흐트러지지 않음
+EN: [WhenUse] If this unit has [Realisation]:\n- Deal +1% damage for every 2 Stack (max 50%)\n- Deal +([ChargeNoir] Potency on self x 6)% damage (max 30%)\n- Consume 15 [Realisation]\n[WhenUse] At 10+ [ChargeNoir] Count, consume 10 [ChargeNoir] Count to gain Final Power +2 and Coin Power +1\n[WhenUse] At 3+/5+ [ChargeNoir] Potency, Coin Power +1/+2\n[DefeatDuel]\n- Deal -75% damage\n- Damage and effects caused by this Skill cannot Stagger the target
+
+### 693 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 694 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vibration] 3 부여
+REPEAT: 238 — inherit
+
+### 695 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 696 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가
+REPEAT: 653 — inherit
+
+### 697 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 698 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 699 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 241 — inherit
+
+### 700 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 자신의 [ChargeNoir] 위력이 3/5 이상이면, [VibrationExplosion] 1회/2회. 대상의 [Vibration] 횟수 1/2 감소
+REPEAT: 690 — inherit
+
+### 701 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 이 코인 최종 피해량의 20%만큼 관통 피해
+EN: [UnBrokenCoinOnSucceedAttack] Deal (20% of this Coin's final damage) Pierce damage
+
+### 702 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 경사가 어떻고
+EN: Bla Bla Warp Bla
+
+### 703 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가
+REPEAT: 467 — inherit
+
+### 704 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 705 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 위사가 저쨌니
+EN: Yap Yap Weft Yap
+
+### 706 (L210)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WideAreaRampage]\n\n대상의 [NiddlePin] 1당 피해량 +5% (최대 25%)\n\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 흐트러지지 않음
+EN: [WideAreaRampage]\n\nDeal +5% damage for every [NiddlePin] on target (max 25%)\n\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 707 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 708 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 709 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [NiddlePin] 1 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 1 [NiddlePin]
+
+### 710 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 711 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 712 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 709 — inherit
+
+### 713 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 714 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 715 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 709 — inherit
+
+### 716 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 땀수! 땀수! 땀수!
+EN: Stitch! Per! Inch!
+
+### 717 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 718 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [NiddlePin] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [NiddlePin]
+
+### 719 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 720 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 721 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 718 — inherit
+
+### 722 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 723 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 724 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 718 — inherit
+
+### 725 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 726 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 727 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 718 — inherit
+
+### 728 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 505 — inherit
+
+### 729 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 인치당 땀수 20 이상으로!!!
+EN: 20 stitches an inch, minimum!!!
+
+### 730 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [DefeatDuel] 피해량 -80%, 이 스킬의 피해로 흐트러지지 않음
+EN: [DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 731 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 732 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 58 — inherit
+
+### 733 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 709 — inherit
+
+### 734 (L80)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 스티치가 너무 균일하다고? 손 피크가 아니라고? 집합!!!
+EN: Too even, you say? Not pick-stitching, you say? Assemble!!!
+
+### 735 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 다음 턴에 바늘이[TabExplain] 3개 소환
+EN: [StartBattle] Summon 3 Needlekin[TabExplain] next turn
+
+### 736 (L70)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 핸드 스티칭하라고!!!
+EN: You want me to hand-stitch this?! HAND-STITCH???!!!
+
+### 737 (L250)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 흐트러지지 않은 아군을 우선으로 지정하며, 피해량이 항상 0으로 고정\n대상의 수비 스킬을 발동시키지 않음\n\n[EndSkill] 대상 바늘이가 무작위 공격 스킬 발동 (흐트러짐 무시)
+EN: Prioritizes allies that are not Staggered; deals 0 damage\nDoes not trigger the target's Defense Skill\n\n[EndSkill] Targeted Needlekin[TabExplain] activates a random Attack Skill (ignores Stagger)
+
+### 738 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 이번 턴과 다음 턴에 공격 위력 증가 1 부여
+EN: [OnSucceedAttack] Apply 1 Attack Power Up this turn and next turn
+
+### 739 (L90)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 옆선 바깥에 박음선 두 줄 보이면 더블니들. 탈락!
+EN: Double stitching past the side seam? Double-needle! Rejected!
+
+### 740 (L360)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [WhenUse] <color=#ff6000><mark=#ff000040><b><u>전장의 바늘이[TabExplain] 1개당 피해량 +50%\n • 전장에 바늘이가 없으면, 스킬이 취소됨</u></b></mark></color>\n\n[EndSkill] 모든 바늘이[TabExplain] 처치\n • 이 효과로 처치한 바늘이[TabExplain] 1개당 다음 턴에 [Enhancement] 1 얻음
+EN: [WhenUse] <color=#ff6000><mark=#ff000040><b><u>Deal +50% damage for every Needlekin[TabExplain] on the field\n • If there are no Needlekin[TabExplain] on the field, cancel this Skill</u></b></mark></color>\n\n[EndSkill] Kill every Needlekin[TabExplain]\n • Gain 1 [Enhancement] next turn for every Needlekin[TabExplain] killed by this effect
+
+### 741 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 742 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [NiddlePinned]인 대상에게 가하는 피해량 +100%
+EN: [OnSucceedAttack] Deal +100% damage against [NiddlePinned] targets
+
+### 743 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 단추 X자 봉제 아니면 탈락!
+EN: No cross-stitch buttons? Rejected!
+
+### 744 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [DefeatDuel] 대상의 [NiddlePin] 2 감소
+EN: [DefeatDuel] Reduce [NiddlePin] on target by 2
+
+### 745 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [NiddlePin]을 1 소모하여 고정 피해 5
+EN: [OnSucceedAttack] Consume 1 [NiddlePin] on target to deal 5 fixed damage
+
+### 746 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [NiddlePin]을 1 소모하여 고정 피해 5
+REPEAT: 745 — inherit
+
+### 747 (L90)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 피크스티치 일부러 눈에 띄게 박았냐고?! 그렇게 쳐박아주마!
+EN: Pick stitch too obvious, you say?! I'll pick-stitch your ass!
+
+### 748 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [CantDuel]
+EN: [CantDuel]
+
+### 749 (L120)  [] — 
+TOK: </color>, <color=#ff6000>
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>[NiddlePin]을 5 이상 보유한 대상에게 [NiddlePinned] 2 부여</u></b></mark></color>
+EN: [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Inflict 2 [NiddlePinned] against targets that have 5+ [NiddlePin]</u></b></mark></color>
+
+### 750 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 그냥… 쳐먹어!!!
+EN: Just... Eat!!
+
+### 751 (L300)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [NiddlePinned] 상태인 적 우선 공격\n- [NiddlePin] 수치가 가장 높은 대상 우선 공격\n[NiddlePin]을 5 이상 보유한 대상은 이 공격의 대상을 변경할 수 없음\n\n대상의 [NiddlePin] 1당 피해량 +10% (최대 50%)
+EN: Prioritizes [NiddlePinned] enemies\n- Prioritizes targets that have the highest [NiddlePin] Stack\nTargets that have 5+ [NiddlePin] Stack cannot redirect this Skill to itself\n\nDeal +10% damage for every [NiddlePin] on target (max 50%)
+
+### 752 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 753 (L130)  [] — 
+TOK: </color>, <color=#ff6000>
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>대상이 [NiddlePinned]면 최대 체력의 99%만큼 고정 피해</u></b></mark></color>
+EN: [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>If target is [NiddlePinned], deal fixed damage equal to 99% of target's max HP</u></b></mark></color>
+
+### 754 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [EnemyKill] 자신의 최대 체력의 5%만큼 체력 회복
+EN: [EnemyKill] Heal 5% HP on self
+
+### 755 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 흑…
+EN: Hrgh...
+
+### 756 (L370)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 대상에게 [Laceration]이 없다면, 피해량 -80%, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>\n[WinDuel] 대상의 긍정적인 효과 무작위 1개 제거 (충전, 호흡 제외), 자신이 [Nutrition] 1 얻음
+EN: [WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target does not have [Laceration], deal -80% damage and convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>\n[WinDuel] Remove 1 random positive effect on target (excluding Charge and Poise); then, gain 1 [Nutrition]
+
+### 757 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 758 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [BloodyMucus] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [BloodyMucus]
+
+### 759 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 흐윽…
+EN: Nngh...
+
+### 760 (L240)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 대상에게 [Laceration]이 없다면, 피해량 -80%, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>
+EN: [WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target does not have [Laceration], deal -80% damage and convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>
+
+### 761 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 762 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [BloodyMucus]
+
+### 763 (L150)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 긍정적인 효과 무작위 1개 제거 (충전, 호흡 제외), 자신이 [Nutrition] 1 얻음
+EN: [OnSucceedAttack] Remove 1 random positive effect on target (excluding Charge and Poise) to gain 1 [Nutrition]
+
+### 764 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 765 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 766 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 뿌…페…
+EN: Pw... ffeh...
+
+### 767 (L260)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: (ulepszenie 1) — opis] [WhenUse] 메인 타겟의 [Laceration] 4당, 최종 위력 +1 (최대 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 메인 타겟에게 [Laceration]이 없다면, 피해량 -80%, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨</u></b></mark></color>
+EN: [WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If the main target does not have [Laceration], deal -80% damage and convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>
+
+### 768 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 769 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 770 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 긍정적인 효과 무작위 1개 제거 (충전, 호흡 제외), 자신이 [Nutrition] 1 얻음
+REPEAT: 763 — inherit
+
+### 771 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 772 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 773 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 추..워…
+EN: It's... cold...
+
+### 774 (L540)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 체력이 가장 낮은 대상을 우선으로 지정\n대상의 잃은 체력 1%당, 피해량 +5% (최대 250%)\n[WhenUse] 대상의 [Laceration] 4당, 최종 위력 +2 (최대 4)\n[WhenUse] 대상의 현재 체력이 50% 미만이면, 기본 위력 +3\n[WinDuel] 대상의 긍정적인 효과 무작위 1개 제거 (충전, 호흡 제외), 자신이 [Nutrition] 2 얻음\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음
+EN: Prioritize targets that have the lowest current HP\nDeal +5% damage for every 1% missing HP on target (max 250%)\n[WhenUse] Final Power +2 for every 4 [Laceration] on target (max 4)\n[WhenUse] If target has lower than 50% HP, Base Power +3\n[WinDuel] Remove 1 random positive effect on target (excluding Charge and Poise) to gain 2 [Nutrition]\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 775 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 776 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 4 부여
+REPEAT: 58 — inherit
+
+### 777 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 778 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 2 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 2 [BloodyMucus]
+
+### 779 (L60)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 아파…! 몸이… 제 멋대로…!!!
+EN: It hurts...! My body... won't listen...
+
+### 780 (L600)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 체력이 가장 낮은 대상을 메인 타겟으로 우선 지정\n대상의 잃은 체력 3%당, 피해량 +5% (최대 50%)\n[WhenUse] 메인 타겟의 [Laceration] 4당, 최종 위력 +2 (최대 4)\n[WhenUse] 메인 타겟의 현재 체력이 50% 미만이면, 기본 위력 +2\n[WinDuel] 메인 타겟의 긍정적인 효과 무작위 1개 제거 (충전, 호흡 제외), 자신이 [Nutrition] 2 얻음\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음
+EN: Prioritize targets that have the lowest current HP as the main target\nDeal +5% damage for every 3% missing HP on target (max 50%)\n[WhenUse] Final Power +2 for every 4 [Laceration] on the main target (max 4)\n[WhenUse] If the main target has lower than 50% HP, Base Power +2\n[WinDuel] Remove 1 random positive effect on the main target (excluding Charge and Poise) to gain 2 [Nutrition]\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 781 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 782 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 783 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 784 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 1 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 1 [BloodyMucus]
+
+### 785 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 786 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여
+REPEAT: 168 — inherit
+
+### 787 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 788 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 784 — inherit
+
+### 789 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 790 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 791 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 792 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 784 — inherit
+
+### 793 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 배고파… 추워… 아파…!
+EN: Hungry... cold... hurts...!
+
+### 794 (L600)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 체력이 가장 낮은 대상을 메인 타겟으로 우선 지정\n대상의 잃은 체력 1%당, 피해량 +1% (최대 30%)\n[WhenUse] 메인 타겟의 [Laceration] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 메인 타겟의 현재 체력이 50% 미만이면, 기본 위력 +2\n[WhenUse] 자신의 [ChargeRouge] 횟수가 10 이상이면, [ChargeRouge] 횟수를 모두 소모하고 코인 위력 +2, 가중치 +2\n[DefeatDuel] 피해량 -95%, 이 스킬의 피해로 대상이 흐트러지지 않음
+EN: Prioritize targets that have the lowest current HP as the main target\nDeal +1% damage for every 1% missing HP on target (max 30%)\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the main target (max 2)\n[WhenUse] If the main target has lower than 50% HP, Base Power +2\n[WhenUse] At 10+ [ChargeRouge] Count, consume all [ChargeRouge] on self and gain Coin Power +2 and +2 Atk Weight\n[DefeatDuel] Deal -95% damage and damage dealt by this Skill cannot Stagger the target
+
+### 795 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 796 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 797 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 6 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 6 [Laceration]
+
+### 798 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 799 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 784 — inherit
+
+### 800 (L140)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소
+EN: [UnBrokenCoinOnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count
+
+### 801 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 802 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 784 — inherit
+
+### 803 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소
+REPEAT: 800 — inherit
+
+### 804 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 805 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 784 — inherit
+
+### 806 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 1회 발동. 대상의 [Laceration] 횟수 1 감소
+REPEAT: 800 — inherit
+
+### 807 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 저..리가…
+EN: Go... away...
+
+### 808 (L140)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 2)\n[WinDuel] 자신의 [ChargeRouge] 횟수 3 증가
+EN: [WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n[WinDuel] Gain +3 [ChargeRouge] Count
+
+### 809 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 810 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여
+REPEAT: 432 — inherit
+
+### 811 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 배…고파…
+EN: I'm... hungry...
+
+### 812 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 최종 위력 +1 (최대 2)\n[WinDuel] 자신의 [ChargeRouge] 횟수 3 증가
+REPEAT: 808 — inherit
+
+### 813 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 814 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 815 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여
+REPEAT: 432 — inherit
+
+### 816 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 뭐라도… 먹고…싶어…
+EN: Something... to eat... Anything...
+
+### 817 (L150)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 메인 타겟의 [Laceration] 4당, 최종 위력 +1 (최대 2)\n[WinDuel] 자신의 [ChargeRouge] 횟수 3 증가
+EN: [WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 2)\n[WinDuel] Gain +3 [ChargeRouge] Count
+
+### 818 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 819 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여
+REPEAT: 432 — inherit
+
+### 820 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 목소리가 들려…
+EN: I hear... the Voice...
+
+### 821 (L430)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 메인 타겟의 [Laceration] 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeRouge] 횟수가 15 미만이면, 15까지 증가하고 증가한 수치 5당 다음 턴에 [BuffetFailed] 1 얻음\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음
+EN: [WhenUse] Coin Power +1 for every 6 [Laceration] on the main target (max 2)\n[WhenUse] At fewer than 15 [ChargeRouge] Count, gain up to 15 [ChargeRouge] Count and gain 1 [BuffetFailed] next turn for every 5 [ChargeRouge] Count gained from this effect\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 822 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 백화점에는 여러 목소리가 있다. 누구의 목소리일까.
+EN: Many Voices inhabit this department store. Whose could this be?
+
+### 823 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 824 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 825 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 826 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 827 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 828 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 829 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 하..지마…
+EN: Don't... do that...
+
+### 830 (L190)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CanDuelGuard]\n[SupportProtect] 전용 스킬\n[WhenUse] 자신의 ([ChargeRouge] 횟수 x 10)만큼 보호막 얻음\n[WinDuel] 자신의 [ChargeRouge] 횟수 3 증가
+EN: [CanDuelGuard]\n[SupportProtect] Exclusive Skill\n[WhenUse] Gain ([ChargeRouge] Count on self x 10) Shield\n[WinDuel] Gain +3 [ChargeRouge] Count
+
+### 831 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 832 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 하…고…싶어
+EN: I... wanna...
+
+### 833 (L310)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 자신의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] 메인 타겟의 [Laceration] 4당, 최종 위력 +2 (최대 4)\n[DefeatDuel] 자신의 [ChargeRouge] 횟수 2 감소\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음
+EN: At 6+ [Laceration], Coin Power +1\n[WhenUse] Final Power +2 for every 4 [Laceration] on the main target (max 4)\n[DefeatDuel] Lose 2 [ChargeRouge] Count\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 834 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 835 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 836 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 837 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 838 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 839 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 840 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 난…뭐야…?
+EN: What... am I...?
+
+### 841 (L330)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 메인 타겟의 [Laceration] 4당, 최종 위력 +1 (최대 3)\n[WhenUse] 자신의 [ChargeRouge] 횟수가 10 이상이면, [ChargeRouge] 횟수를 10 소모하고 코인 위력 +2\n[DefeatDuel] 피해량 -80%, 이 스킬의 피해로 대상이 흐트러지지 않음
+EN: [WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 3)\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +2\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+
+### 842 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 843 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 844 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 845 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 846 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 847 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Binding] 4 부여
+EN: [UnBrokenCoinOnSucceedAttack] Inflict 4 [Binding] next turn
+
+### 848 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 늘어진 손짓
+EN: Feeble Beckoning
+
+### 849 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] …손 잡아줘
+EN: ... Hold my hand
+
+### 850 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 851 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 762 — inherit
+
+### 852 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [BloodyMucus] 1 부여
+REPEAT: 784 — inherit
+
+### 853 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 때리기
+EN: Batter
+
+### 854 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Vibration]이 4 이상이면, 최종 위력 +1
+EN: If target has 4+ [Vibration], Final Power +1
+
+### 855 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여
+REPEAT: 238 — inherit
+
+### 856 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 몸통 박치기
+EN: Body Slam
+
+### 857 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Vibration]이 4 이상이면, 최종 위력 +1
+REPEAT: 854 — inherit
+
+### 858 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여
+REPEAT: 238 — inherit
+
+### 859 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 860 (L210)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신에게 [Laceration]이 있으면, 수치 위력 절반만큼 대상에게 [Laceration] 횟수 부여 (최대 5, 턴당 1회, 소수점 버림)
+EN: [OnSucceedAttack] If this unit has [Laceration], inflict ([Laceration] Potency on self / 2) [Laceration] Count on target (max 5; once per turn; rounded down)
+
+### 861 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 내리찍기
+EN: Slam Down
+
+### 862 (L150)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Vibration]이 4 이상이면, 최종 위력 +1\n[WhenUse] 자신의 [Laceration]당 피해량 +1% (최대 20%)
+EN: If target has 4+ [Vibration], Final Power +1\n[WhenUse] Deal +1% damage for every [Laceration] on self (max 20%)
+
+### 863 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 864 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vibration] 2 부여
+REPEAT: 575 — inherit
+
+### 865 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 866 (L200)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 자신에게 [Laceration]이 있으면, 수치 위력만큼 대상에게 [Laceration] 횟수 부여 (최대 8, 턴당 1회)
+EN: [UnBrokenCoinOnSucceedAttack] If this unit has [Laceration], inflict ([Laceration] Potency on self) [Laceration] Count on target (max 8; once per turn)
+
+### 867 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 868 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 241 — inherit
+
+### 869 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방어
+EN: Guard
+
+### 870 (L120)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] 정신력 5 회복\n[StartBattle] 다음 턴에 [ResultEnhancement] 1 얻음
+EN: [StartBattle] Heal 5 SP\n[StartBattle] Gain 1 [ResultEnhancement] next turn
+
+### 871 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 치기
+EN: Strike
+
+### 872 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Vibration]이 4 이상이면, 최종 위력 +1
+REPEAT: 854 — inherit
+
+### 873 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가
+REPEAT: 653 — inherit
+
+### 874 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 몸통 밀치기
+EN: Body Check
+
+### 875 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Vibration]이 4 이상이면, 최종 위력 +1
+REPEAT: 854 — inherit
+
+### 876 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가
+REPEAT: 653 — inherit
+
+### 877 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 878 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신에게 [Laceration]이 있으면, 수치 위력 절반만큼 대상에게 [Laceration] 횟수 부여 (최대 5, 턴당 1회, 소수점 버림)
+REPEAT: 860 — inherit
+
+### 879 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 내려치기
+EN: Slam Down
+
+### 880 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Vibration]이 4 이상이면, 최종 위력 +1\n[WhenUse] 자신의 [Laceration]당 피해량 +1% (최대 20%)
+REPEAT: 862 — inherit
+
+### 881 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 882 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가
+REPEAT: 235 — inherit
+
+### 883 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 884 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 자신에게 [Laceration]이 있으면, 수치 위력만큼 대상에게 [Laceration] 횟수 부여 (최대 8, 턴당 1회)
+REPEAT: 866 — inherit
+
+### 885 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 886 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 241 — inherit
+
+### 887 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방어
+REPEAT: 869 — inherit
+
+### 888 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [StartBattle] 정신력 5 회복\n[StartBattle] 다음 턴에 [ResultEnhancement] 1 얻음
+REPEAT: 870 — inherit
+
+### 889 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 건드리지 마…!
+EN: Don't touch me...!
+
+### 890 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse]\n- 대상의 [Vibration]이 6 이상이면, 코인 위력 +1\n- 자신의 [ChargeNoir] 횟수가 10 이상이면, 코인 위력 +1\n\n[WhenUse] 자신의 [ChargeNoir] 횟수 2 증가
+EN: [WhenUse]\n- If target has 6+ [Vibration], Coin Power +1\n- At 10+ [ChargeNoir] Count, Coin Power +1\n\n[WhenUse] Gain +2 [ChargeNoir] Count
+
+### 891 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 1 부여
+REPEAT: 579 — inherit
+
+### 892 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 1 부여
+REPEAT: 579 — inherit
+
+### 893 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [ChargeNoir] 횟수 2 증가
+EN: [OnSucceedAttack] Gain +2 [ChargeNoir] Count
+
+### 894 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 손대지 마…!
+EN: Get your hands off me...!
+
+### 895 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse]\n- 대상의 [Vibration]이 6 이상이면, 코인 위력 +1\n- 자신의 [ChargeNoir] 횟수가 10 이상이면, 코인 위력 +1\n\n[WhenUse] 자신의 [ChargeNoir] 횟수 4 증가
+EN: [WhenUse]\n- If target has 6+ [Vibration], Coin Power +1\n- At 10+ [ChargeNoir] Count, Coin Power +1\n\n[WhenUse] Gain +4 [ChargeNoir] Count
+
+### 896 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [ChargeNoir] 횟수 2 증가
+REPEAT: 648 — inherit
+
+### 897 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여
+REPEAT: 575 — inherit
+
+### 898 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가
+REPEAT: 235 — inherit
+
+### 899 (L50)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 아무것도 하면 안 된다고…!
+EN: We shouldn't be doing anything...!
+
+### 900 (L230)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 자신의 [ChargeNoir] 위력당 피해량 +4% (최대 20%)\n\n[WhenUse] 자신의 [ChargeNoir] 횟수가 10 이상이면, [ChargeNoir] 횟수 10을 소모하여 코인 위력 +1, 피해량 +20%
+EN: Deal +4% damage for every [ChargeNoir] Potency on self (max 20%)\n\n[WhenUse] At 10+ [ChargeNoir] Count, consume 10 [ChargeNoir] Count to gain Coin Power +1 and deal +20% damage
+
+### 901 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여
+REPEAT: 238 — inherit
+
+### 902 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여
+REPEAT: 238 — inherit
+
+### 903 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가
+REPEAT: 653 — inherit
+
+### 904 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+REPEAT: 241 — inherit
+
+### 905 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 뒤지기
+EN: Rummage
+
+### 906 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Laceration]이 6 이상이면, 최종 위력 +1
+EN: If target has 6+ [Laceration], Final Power +1
+
+### 907 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 있을 텐데… 뭔가 있을 텐데…
+EN: There has to be something here... something worth finding...
+
+### 908 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 909 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 잡아뺏기
+EN: Snatch Up
+
+### 910 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Laceration] 3당, 최종 위력 +1 (최대 2)
+EN: Final Power +1 for every 3 [Laceration] on target (max 2)
+
+### 911 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 이건 내 거야!
+EN: This one's mine!
+
+### 912 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 913 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 914 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] [Laceration] 2 부여
+EN: [CriticalOnSucceedAttack] Inflict 2 [Laceration]
+
+### 915 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 찾았다!
+EN: Got one!
+
+### 916 (L210)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Laceration] 3당, 최종 위력 +1 (최대 3)\n[WhenUse] 자신의 체력이 50% 미만이거나, 대상의 [Laceration]이 10 이상이면, 모든 코인이 [SuperCoin]으로 변경됨
+EN: Final Power +1 for every 3 [Laceration] on target (max 3)\n[WhenUse] At lower than 50% HP, or if target has 10+ [Laceration], convert all Coins to [SuperCoin]s
+
+### 917 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 918 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] 크리티컬 피해량 +30%
+EN: Deal +30% damage on Critical Hit
+
+### 919 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 920 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [CriticalOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 914 — inherit
+
+### 921 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어딜! 이건 내거야!
+EN: Nah, man! That one's mine!
+
+### 922 (L170)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상이 보유한 효과 2개당, [Breath] 2 얻음 (최대 5)\n[WhenUse] 대상이 보유한 효과가 4개 이상이면, 자신의 [Breath] 횟수 1 증가
+EN: [WhenUse] Gain 2 [Breath] for every 2 types of effect on target (max 5)\n[WhenUse] If target has 4+ effects, gain +1 [Breath] Count
+
+### 923 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 924 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 925 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 뒤지기
+REPEAT: 905 — inherit
+
+### 926 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Laceration]이 6 이상이면, 최종 위력 +1
+REPEAT: 906 — inherit
+
+### 927 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 있을 텐데… 뭔가 있을 텐데…
+REPEAT: 907 — inherit
+
+### 928 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 929 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 잡아뺏기
+REPEAT: 909 — inherit
+
+### 930 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Laceration] 3당, 최종 위력 +1 (최대 2)
+REPEAT: 910 — inherit
+
+### 931 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — tekst klimatyczny] 이건 내 거야!
+REPEAT: 911 — inherit
+
+### 932 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 933 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 934 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 914 — inherit
+
+### 935 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 찾았다!
+REPEAT: 915 — inherit
+
+### 936 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Laceration] 3당, 최종 위력 +1 (최대 3)\n[WhenUse] 자신의 체력이 50% 미만이거나, 대상의 [Laceration]이 10 이상이면, 모든 코인이 [SuperCoin]으로 변경됨
+REPEAT: 916 — inherit
+
+### 937 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 938 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] 크리티컬 피해량 +30%
+REPEAT: 918 — inherit
+
+### 939 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 940 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 3 — opis] [CriticalOnSucceedAttack] [Laceration] 2 부여
+REPEAT: 914 — inherit
+
+### 941 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어딜! 이건 내거야!
+REPEAT: 921 — inherit
+
+### 942 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상이 보유한 효과 2개당, [Breath] 2 얻음 (최대 5)\n[WhenUse] 대상이 보유한 효과가 4개 이상이면, 자신의 [Breath] 횟수 1 증가
+REPEAT: 922 — inherit
+
+### 943 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여
+REPEAT: 148 — inherit
+
+### 944 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가
+REPEAT: 92 — inherit
+
+### 945 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 홈질 - 날실
+EN: Running Stitch - Warp
+
+### 946 (L160)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면, 최종 위력 +1\n\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 모든 코인이 [SuperCoin]이 됨
+EN: If target has 4+ [Laceration], Final Power +1\n\n[WhenUse] If target has 6+ [Laceration], convert all Coins to [SuperCoin]s
+
+### 947 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 948 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [PenetrateResistDown] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [PenetrateResistDown] next turn
+
+### 949 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 시침질 - 날실
+EN: Tacking Stitch - Warp
+
+### 950 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면, 최종 위력 +1
+EN: If target has 4+ [Laceration], Final Power +1
+
+### 951 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여
+REPEAT: 49 — inherit
+
+### 952 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 718 — inherit
+
+### 953 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여
+REPEAT: 432 — inherit
+
+### 954 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 박음질 - 날실
+EN: Backstitch - Warp
+
+### 955 (L170)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Laceration] 4당 최종 위력 +1 (최대 2)\n\n[WhenUse] 대상의 [Laceration]당 피해량 +1% (최대 20%)
+EN: Final Power +1 for every 4 [Laceration] on target (max 2)\n\n[WhenUse] Deal +1% damage for every [Laceration] on target (max 20%)
+
+### 956 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 957 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가
+REPEAT: 152 — inherit
+
+### 958 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 이 코인 1회 재사용 (스킬당 1회)
+EN: [UnBrokenCoinOnSucceedAttack] Reuse this Coin once (once per Skill)
+
+### 959 (L130)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 위력만큼 관통 피해 (최대 30)
+EN: [UnBrokenCoinOnSucceedAttack] Deal Pierce damage equal to [Laceration] Potency on target (max 30)
+
+### 960 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 5 — opis] [ReUseOnSucceedAttack] [NiddlePin] 1 부여
+EN: [ReUseOnSucceedAttack] Inflict 1 [NiddlePin]
+
+### 961 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 공그르기 - 날실
+EN: Blind Stitch - Warp
+
+### 962 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 다음 턴에 [PenetrateResultUp] 1 얻음
+EN: [StartBattle] Gain 1 [PenetrateResultUp] next turn
+
+### 963 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 홈질 - 씨실
+EN: Running Stitch - Weft
+
+### 964 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면, 최종 위력 +1\n\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 모든 코인이 [SuperCoin]이 됨
+REPEAT: 946 — inherit
+
+### 965 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 966 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn
+
+### 967 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 시침질 - 씨실
+EN: Tacking Stitch - Weft
+
+### 968 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면, 최종 위력 +1
+REPEAT: 950 — inherit
+
+### 969 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가
+REPEAT: 51 — inherit
+
+### 970 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 718 — inherit
+
+### 971 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여
+REPEAT: 432 — inherit
+
+### 972 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 박음질 - 씨실
+EN: Backstitch - Weft
+
+### 973 (LNone)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 대상의 [Laceration] 4당 최종 위력 +1 (최대 2)\n\n[WhenUse] 대상의 [Laceration]당 피해량 +1% (최대 20%)
+REPEAT: 955 — inherit
+
+### 974 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]
+REPEAT: 15 — inherit
+
+### 975 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가
+REPEAT: 152 — inherit
+
+### 976 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 이 코인 1회 재사용 (스킬당 1회)
+REPEAT: 958 — inherit
+
+### 977 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [Laceration] 위력만큼 관통 피해 (최대 30)
+REPEAT: 959 — inherit
+
+### 978 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 5 — opis] [ReUseOnSucceedAttack] [NiddlePin] 1 부여
+REPEAT: 960 — inherit
+
+### 979 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 공그르기 - 씨실
+EN: Blind Stitch - Weft
+
+### 980 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 다음 턴에 [PenetrateResultUp] 1 얻음
+REPEAT: 962 — inherit
+
+### 981 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [146501] — nazwa] 르누아르 원단
+EN: Le Noir: Fabric
+
+### 982 (L160)  [] — 
+TOK: \n
+KR: Pasywka wroga [146501] — opis] 스테이지 시작시, [NoirBindArmor] 5 얻음\n턴 시작시 자신의 최대 체력의 ([NoirBindArmor] 수치)%만큼 보호막 얻음
+EN: Encounter Start: Gain 5 [NoirBindArmor]\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack)% of this unit's max HP
+
+### 983 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [146501] — tekst klimatyczny] 르누아르 원단은 갑옷과 같이 탄탄하고 고정된 실루엣으로 고객의 체형을 보정해준다.
+EN: Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette.
+
+### 984 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [146502] — nazwa] 고객 안내
+EN: Ushering Customers
+
+### 985 (L190)  [] — 
+TOK: \n
+KR: Pasywka wroga [146502] — opis] 대상의 [NoirNoComply] 1당 대상에게 가하는 피해량과 받는 피해량 +10%\n[NoirNoComply]이 3인 대상에게 가하는 피해량 +200%
+EN: Deal +10% damage to and take +10% damage from target for every [NoirNoComply] on target\nDeal +200% damage to targets that have 3 [NoirNoComply]
+
+### 986 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [146502] — tekst klimatyczny] 르누아르에서는 엄격한 본사 관리 매뉴얼을 통해 고객분들을 응대하고 있습니다.
+EN: Le Noir serves its valued customers in strict accordance with Head Office management protocol.
+
+### 987 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [146503] — nazwa] 보존
+EN: Preservation
+
+### 988 (L260)  [] — 
+TOK: \n
+KR: Pasywka wroga [146503] — opis] 전투 중 누적으로 자신의 [ChargeNoir] 횟수를\n- 3 소모할 때마다 [NoirBindArmor] 1 얻음\n- 10 소모할 때마다 [ChargeNoir] 1 얻음
+EN: Gain 1 [NoirBindArmor] for every 3 cumulative [ChargeNoir] Count this unit consumes in this Encounter\nGain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter
+
+### 989 (L160)  [] — 
+TOK: 
+KR: Pasywka wroga [146503] — tekst klimatyczny] 응축하여 힘을 모아 고정한다. 변화시키지 않는 것이 변화시키는 것보다 더 큰 힘이 필요할 때가 있다.
+EN: Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it.
+
+### 990 (L50)  [] — 
+TOK: 
+KR: Pasywka wroga [146603] — nazwa] 대사작용
+EN: Metabolic Action and Reaction
+
+### 991 (L230)  [] — 
+TOK: \n
+KR: Pasywka wroga [146603] — opis] 전투에 처음으로 등장하면, [ChargeRouge] 횟수 10 얻음\n\n전투 중 누적으로 자신의 [ChargeRouge] 횟수를 10 소모할 때마다 [ChargeRouge] 1 얻음
+EN: Upon entering the Encounter for the first time, gain 10 [ChargeRouge] Count\n\nGain 1 [ChargeRouge] for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter
+
+### 992 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [149401] — nazwa] 르루주 자켓
+EN: Le Rouge: Jacket
+
+### 993 (L480)  [] — 
+TOK: \n
+KR: Pasywka wroga [149401] — opis] 턴 종료시, [ChargeRouge] 횟수를 최대 10까지 얻거나 잃음\n\n자신이 피격당할 때, 공격자가 [Charge]을 얻는 스킬을 사용했으면 [Charge] 횟수 1을 공격자에게 옮김 (공격자 스킬당 1회)\n해당 효과가 발동될 때마다 [AttackUp] 1 얻음\n턴 시작시, 자신의 15를 초과하는 [ChargeRouge] 횟수를 최대 5까지 소모하여 최대 체력의 (소모값)% 회복
+EN: Turn End: Gain or lose up to 10 [ChargeRouge] Count\n\nWhen hit, if the attacker used Skills that gain [Charge], transfer 1 [ChargeRouge] Count as [Charge] Count to the attacker (once per the attacker's Skill)\nGain 1 [AttackUp] every time the effect above activates\nTurn Start: Consume up to 5 excess [ChargeRouge] Count beyond 15 on self to heal ([ChargeRouge] Count consumed)% HP
+
+### 994 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [149402] — nazwa] 근섬유 데님
+EN: Myofiber Denim
+

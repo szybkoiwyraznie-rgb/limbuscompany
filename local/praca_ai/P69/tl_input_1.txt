@@ -1,0 +1,131 @@
+1||Pasywka wroga [9008901] — nazwa] 백화|Pallidification
+2||Pasywka wroga [9008901] — opis] 매 턴마다 자신을 제외한 살아있는 백화인 아군당 자신의 공격 레벨과 방어 레벨이 2씩 증가한다.|Gain 2 Offense Level and Defense Level for every living Pallidified ally (not counting this unit)
+3||Pasywka wroga [9008902] — nazwa] 덮쳐오는 부정|Crashing Filth
+4||Pasywka wroga [9008902] — opis] 전체 체력의 10%만큼 남았을 경우, 적중 시 정신력 피해 20을 입히고 다음 턴에 창백한 소음 1을 부여한 뒤, 사망함.|At 10% of Max HP, inflict 20 SP damage On Hit, inflict 1 Pallid Noise next turn, then dies.
+5||Pasywka wroga [9008903] — nazwa] 퍼져가는 불결|Spreading Flames
+6||Pasywka wroga [9008903] — opis] 턴 종료 시 백화 상태의 아군이 있을 때, 자신을 제외한 백화 상태 아군 수만큼 정신력 20이상의 모든 적 정신력 감소|If there are surviving Pallidified allies at Turn End, all enemies with 20 or more SP lose 1 SP for every surviving Pallidified ally (not counting this unit)
+9||Pasywka wroga [9009101] — nazwa] 응어리 치유|Healing Resentment
+10||Pasywka wroga [9009101] — opis] 턴 종료 시 백화 상태의 아군이 있을 때, 자신을 제외한 모든 백화 상태 아군을 (자신을 제외한 백화 상태 아군 수 * 3)만큼 체력 회복|If there are surviving Pallidified allies at Turn End, all other Pallidified allies heal (# of other Pallidified allies * 3) HP
+11||Pasywka wroga [9009201] — nazwa] 쌓여가는 유기|Cumulating Organic Material
+12||Pasywka wroga [9009201] — opis] 자신을 제외한 살아있는 아군당 자신의 방어 레벨이 1 증가|Defense Level +1 for every surviving ally (not counting this unit)
+13||Pasywka wroga [9009202] — nazwa] 붕괴한 무기|Disintegrating Inorganic Material
+14||Pasywka wroga [9009202] — opis] 아군이 죽었다면, 다음 턴에 취약 1 얻음|Gain 1 Fragile next turn if an ally dies
+15||Pasywka wroga [9009301] — nazwa] 얽혀있는 유기|Intertwined Organic Material
+16||Pasywka wroga [9009301] — opis] 자신을 제외한 살아있는 아군당 자신의 공격 레벨이 1 증가|Offense Level +1 for every surviving ally (not counting this unit)
+17||Pasywka wroga [9009302] — nazwa] 헤쳐진 무기|Scattered Inorganic Material
+18||Pasywka wroga [9009302] — opis] 아군이 죽었다면, 다음 턴에 공격 위력 감소 1 얻음|Gain 1 Attack Power Down next turn if an ally dies
+19||Pasywka wroga [9009401] — nazwa] 유기적인 호흡|Organic Breathing
+20||Pasywka wroga [9009401] — opis] 자신의 공격으로 적을 처치했다면, 다음 턴에 모든 백화 상태의 아군에게 호흡 5 부여. 호흡 횟수 1 증가|If this unit dealt the final blow, apply 5 Poise to all Pallidified allies. Apply 1 Poise Count
+21||Pasywka wroga [9009501] — nazwa] 유기적인 경화|Organic Hardening
+22||Pasywka wroga [9009501] — opis] 자신의 공격으로 적을 처치했다면, 다음 턴에 모든 아군에게 보호 1, 방어 레벨 증가 2 부여|If this unit dealt the final blow, apply 1 Protection and 2 Defense Level Up to all allies.
+23||Pasywka wroga [9009601] — nazwa] 원한 문신|Vengeance Tattoo
+24||Pasywka wroga [9009601] — opis] 이번 전투에서 중지 소속 아군이 사망할 때마다 공격 레벨 증가 1을 얻음 (최대 5)|Every time a Middle ally is killed in this encounter, gain 1 Offense Level Up (Max 5)
+25||Pasywka wroga [9009602] — nazwa] 사소한 원한|Little Vengeance
+26||Pasywka wroga [9009602] — opis] 합 패배시 다음 턴에 빼기 코인 강화 1얻음 (턴 당 최대 2번)|Upon Clash Lose, gain 1 Minus Coin Boost next turn (2 times per turn)
+27||Pasywka wroga [9009603] — nazwa] 배로 갚기|Multifold Retribution
+28||Pasywka wroga [9009603] — opis] 체력이 20%이하일 때, 배로 갚기를 사용한다. (웨이브당 한 번)|Use "Multifold Retribution' at 20% or less HP. (Once per wave)
+29||Pasywka wroga [9009604] — nazwa] 의리 사슬|Chains of Loyalty
+30||Pasywka wroga [9009604] — opis] 중지 소속 아군 사망 시 다음 턴에 더하기 코인 강화 1을 얻음.|When a Middle ally is killed, gain 1 Plus Coin Boost next turn.
+31||Pasywka wroga [809901] — nazwa] 작은 형님|The Big Brother
+32||Pasywka wroga [809901] — opis] 턴 시작 시 자신을 포함한 모든 아군의 정신력 10 회복|All allies heal 10 SP at Turn Start
+34||Pasywka wroga [809902] — opis] 중지 소속 아군 사망 시 다음 턴에 더하기 코인 강화 1을 얻음. (최대 2)|When an ally from the Middle is killed, gain 1 Plus Coin Boost next turn. (Max 2)
+35||Pasywka wroga [809903] — nazwa] 위압|Domineer
+36||Pasywka wroga [809903] — opis] 자신을 공격한 대상이 스킬 피해로 자신에게 체력 피해를 12 이상 입히지 못한 경우, 대상의 정신력 10 감소|If an enemy that attacked this unit fails to deal more than 12 HP damage with their Skill, the enemy loses 10 SP
+37||Pasywka wroga [809904] — nazwa] 머리 털기|Brush it Off
+38||Pasywka wroga [809904] — opis] 패닉 상태가 되면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.|When in panic, recover from panic at the start of the next turn and reset SP to 0.
+39||Pasywka wroga [809905] — nazwa] 퍼석해져버린 머리|In the World of Bristly
+40||Pasywka wroga [809905] — opis] 합에서 3회 패배하면, 다음 턴에 방어 레벨 감소 6를 얻음|Gain 6 Defense Level Down next turn after losing a Clash 3 times
+41||Pasywka wroga [9008904] — opis] 정신력이 -20인 상태로 전투에 참전함.|Begins encounter with -20 SP.
+42||Wróg / część [8100] — nazwa] 살갗 예언자|Skin Prophet
+43||Wróg / część [8100] — opis] 본체|Core
+44||Wróg / część [810001] — nazwa] 몸통|Body
+45||Wróg / część [810001] — opis] 부위|Part
+46||Wróg / część [8107] — nazwa] 촛불|Candle
+50||Wróg / część [8102] — nazwa] 꿈먹는 탁류|Dream-Devouring Siltcurrent
+54||Wróg / część [810202] — nazwa] 형광등|Fluorescence
+56||Wróg / część [8108] — nazwa] 표류물|Flotsam
+60||Wróg / część [8101] — nazwa] 걷는 진주|Ambling Pearl
+62||Wróg / część [810101] — nazwa] 껍질|Shell
+64||Wróg / część [810102] — nazwa] 진주|Pearl
+66||Wróg / część [8109] — nazwa] 녹색 점액|Green Slime
+70||Wróg / część [8103] — nazwa] ???|???
+76||Wróg / część [8110] — nazwa] 눈이 먼 피쿼드타운 주민|Blinded Pequod Town Villager
+80||Wróg / część [8111] — nazwa] 입이 막힌 피쿼드타운 주민|Gagged Pequod Town Villager
+88||Wróg / część [8104] — nazwa] 스타벅|Starbuck
+92||Wróg / część [8105] — nazwa] 에이해브|Ahab
+98||Wróg / część [8106] — nazwa] 개화 E.G.O::가스하푼|Effloresced E.G.O::GasHarpoon
+102||Wróg / część [8112] — nazwa] 퀴케그|Queequeg
+110||(ulepszenie 1) — nazwa] 분열하리라|All Shall Scatter
+111||(ulepszenie 1) — opis] 표식 대상 우선 공격|Prioritizes enemies with Marked
+112||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 켜진 촛불의 수만큼 정신력 피해|[OnSucceedAttack] Deal SP damage by the number of lit Candles
+114||(ulepszenie 1) — nazwa] 열망하며...|Longing...
+116||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 분노 취약 1 부여|[OnSucceedAttack] Inflict 1 Wrath Fragility next turn
+117||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 4 부여|[OnSucceedAttack] If target has [Combustion], inflict 4 Burn
+120||(ulepszenie 1) — nazwa] 9장 2절|9:2
+121||(ulepszenie 1) — opis] 다음 턴에 모든 촛불을 끔.\n[AaCePcBa]이 있는 대상에게 적중 시 최대 체력의 5%만큼 추가 감소.\n[DefeatDuel] 화상 10 부여. 대상에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복|Snuffs out all Candles next turn.\nUpon hitting targets with [AaCePcBa], target loses additional 5% of its max HP.\n[DefeatDuel] Inflict 10 Burn. Inflict target with Marked next turn.\n[EndBattle] All Candles heal to max HP.
+122||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 최대 체력을 10%만큼 감소.|[OnSucceedAttack] Target's max HP decreases by 10%.
+123||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 화상 5 부여, 화상 횟수 2 증가|[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count
+126||(ulepszenie 1) — nazwa] 6장 5절|6:5
+127||(ulepszenie 1) — opis] [CantDuel][CantChangeTarget]\n대상의 피해를 자신이 받음. 다음 턴에 흐트러짐.\n[AaCePcBa]이 없는 무작위 적에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복|[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to max HP
+128||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 최대 체력을 10%만큼 감소.|[OnSucceedAttack] This unit's max HP decreases by 10%.
+129||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신에게 화상 10 부여|[OnSucceedAttack] Inflict 10 Burn on self
+132||(ulepszenie 1) — nazwa] 드러낼지어다|All Shall be Revealed
+133||(ulepszenie 1) — opis] [CantDuel]|[CantDuel]
+134||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 분노 취약 1 부여|[OnSucceedAttack] Inflict 1 Wrath Fragility
+135||(ulepszenie 1) — nazwa] 타오를지니|All Shall Burn
+137||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 3 부여.|[OnSucceedAttack] If target has [Combustion], inflict 3 Burn.
+138||(ulepszenie 1) — nazwa] 피워진 불씨|Sparked Flame
+139||(ulepszenie 1) — opis] [AaCePcBa]이 있는 대상 우선 공격|Prioritizes targets with [AaCePcBa]
+140||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 6 부여, 화상 횟수 2 증가|[OnSucceedAttack] Inflict 6 Burn and +2 Burn Count
+141||(ulepszenie 1) — nazwa] 꺼지지 않도록|So That It Will Burn
+142||(ulepszenie 1) — opis] [StartBattle] 보호막 20을 얻음\n보호막이 모두 소진되면, 다음 턴에 불이 꺼진다.|[StartBattle] Gain 20 Shield\nSnuff out the lights next turn when out of Shield
+143||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 1, 화상 횟수 1 부여|[OnSucceedAttack] Inflict 1 Burn and +1 Burn Count
+144||(ulepszenie 1) — nazwa] 독성 점액|Toxic Fluid
+145||(ulepszenie 1) — opis] [StartBattle] 녹색 점액 1 감소|[StartBattle] Consume 1 Green Slime
+146||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 독 3 부여|[OnSucceedAttack] Inflict 3 Poison
+148||(ulepszenie 1) — nazwa] 부식 점액|Corrosive Fluid
+150||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Poison]만큼 방어 레벨 감소 부여|[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target
+151||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 유충 1 부여|[OnSucceedAttack] Inflict 1 Larva
+154||(ulepszenie 1) — nazwa] 마비 액체|Paralytic Fluid
+156||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [Poison]이 있다면, 마비 1 부여|[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze
+157||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 유충 2 부여|[OnSucceedAttack] Inflict 2 Larva
+160||(ulepszenie 1) — nazwa] 잠식 액체|Devouring Fluid
+161||(ulepszenie 1) — opis] [StartBattle] 녹색 점액 2 감소\n[WhenUse] 유충 3 부여|[StartBattle] Consume 2 Green Slime\n[WhenUse] Inflict 3 Larva
+162||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 독 4 부여|[OnSucceedAttack] Inflict 4 Poison
+163||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 마비 1 부여|[OnSucceedAttackHead] Inflict 1 Paralyze next turn
+166||(ulepszenie 1) — nazwa] 들끓는 녹색 점액|Effervescent Green Slime
+167||(ulepszenie 1) — opis] [StartBattle] [AaCePcBh]만큼 공격 가중치가 증가\n[StartBattle] [AaCePcBh]을 10 얻음.|[StartBattle] Gain Atk Weight by [AaCePcBh]\n[StartBattle] Gain 10 [AaCePcBh]
+168||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 독 10 부여|[OnSucceedAttack] Inflict 10 Poison
+169||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 정신력 7 감소|[OnSucceedAttack] Lose 7 SP
+170||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 유충 3 부여|[OnSucceedAttack] Inflict 3 Larva
+171||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttackHead] 다음 턴에 마비 1, 방어 레벨 감소 3 부여|[OnSucceedAttackHead] Inflict 1 Paralyze and 3 Defense Level Down next turn
+172||(ulepszenie 1) — nazwa] 포식|Predation
+173||(ulepszenie 1) — opis] [CantDuel][CantChangeTarget]\n녹색 점액을 우선 공격\n녹색 점액을 공격 시 처치한다.|[CantDuel][CantChangeTarget]\nTargets Green Slime primarily\nDefeats Green Slime upon attacking
+174||(ulepszenie 1) — moneta 1, efekt 1 — opis] [TargetKill] [AaCePcBh]을 3 얻음.|[TargetKill] Gain 3 [AaCePcBh].
+175||(ulepszenie 1) — nazwa] 흘러넘친 독|Overflowing Poison
+176||(ulepszenie 1) — opis] [OnSucceedEvade] 대상에게 독 5 부여|[OnSucceedEvade] Inflict 5 Poison
+177||(ulepszenie 1) — nazwa] 박치기|Headbutt
+178||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 4 부여|[OnSucceedAttack] Inflict 4 Sinking
+179||(ulepszenie 1) — nazwa] 들이박기|Pound
+180||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 횟수 3 증가|[OnSucceedAttack] Inflict +3 Sinking Count
+182||(ulepszenie 1) — nazwa] 짓누르기|Press
+183||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 4 부여|[OnSucceedAttack] Inflict 4 [Sinking]
+184||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가|[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]
+187||(ulepszenie 1) — nazwa] 맹목|Blind Obsession
+188||(ulepszenie 1) — opis] [DefeatDuel] 자신의 형광등 부위가 부위 전체 체력의 34%만큼 감소.\n[DefeatDuel] 맹목 1을 얻음|[DefeatDuel] This unit's Fluorescence Part loses 34% of Max HP.\n[DefeatDuel] Gain 1 Blind Obsession
+190||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 침잠 4 부여|[OnSucceedAttackHead] Inflict 4 Sinking
+195||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 침잠쇄도|[OnSucceedAttack] Sinking Deluge
+196||(ulepszenie 1) — nazwa] 덮쳐오는 탁류|Crashing Siltcurrent
+197||(ulepszenie 1) — opis] [CantDuel][StartBattle] 지형을 변화시킴|[CantDuel][StartBattle] Alters the environment
+198||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 3 부여, 침잠 횟수 2 증가|[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count
+199||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 정신력 감소 효율 -2|[OnSucceedAttackHead] Gain -2 SP Loss Efficiency next turn
+201||(ulepszenie 1) — nazwa] 길잃은 맹목|Wayward Blind Obsession
+202||(ulepszenie 1) — opis] [CantDuel][CantChangeTarget] 파괴된 표류물을 공격\n[EndSkill] 자신의 형광등 부위가 부위 전체 체력의 34%만큼 감소.\n[EndBattle] 맹목 1을 얻음.|[CantDuel][CantChangeTarget] Targets destroyed Flotsam\n[EndSkill] Fluorescence Part loses 34% of Max HP.\n[EndBattle] Gain 1 Blind Obsession.
+203||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상을 파괴함.|[OnSucceedAttack] Destroys target.
+204||(ulepszenie 1) — nazwa] 휩쓸기|Sweep
+205||(ulepszenie 1) — opis] [EndBattle] 표류물을 생성함|[EndBattle] Create Flotsam
+210||(ulepszenie 1) — nazwa] 몸부림|Wriggle
+211||(ulepszenie 1) — opis] [StartBattle] 맹목 전부 소모\n[StartBattle] 모든 표류물과 파괴된 표류물 파괴|[StartBattle] Spend all Blind Obsession\n[StartBattle] Destroy all Flotsam and destroyed Flotsam
+213||(ulepszenie 1) — nazwa] 찌르기|Stab
+214||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 출혈 4 부여|[OnSucceedAttackHead] Inflict 4 Bleed
+215||(ulepszenie 1) — nazwa] 상처 헤집기|Tear Up Wound

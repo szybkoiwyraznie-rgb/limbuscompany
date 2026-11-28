@@ -1,0 +1,340 @@
+{
+  "entries": {
+    "dataList[id=9010101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [Breath]",
+      "kr_sha256": "4b891fc06c6b48352b859f63447dec8154f05aae59a2d2700a534d140ab550e4",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=9010101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "05ef0825eedf94cff6f236726e12aa027623975817471b1d596329d6dbb9595c",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=9010101].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 Licznika [Breath]",
+      "kr_sha256": "bcbee268c61f779201ef0487a23ccf4ddb90bee899e548291acdae1c26c14c26",
+      "en_sha256": "7c776e4d3dda25fadb204a5e423681fca0c6f86cf7a9fdce06aafb7c54daf7d9",
+      "origin": "ai"
+    },
+    "dataList[id=9010101].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 2 [Paralysis]",
+      "kr_sha256": "d9c1e0ada429fe7a444411c6823f3a8d6c1f53de5555849ff12906852dddd561",
+      "en_sha256": "ebab647996794abfa2b08041ada871adad30e1d1dad32c961d9e8601d8ae33e0",
+      "origin": "ai"
+    },
+    "dataList[id=9010101].levelList[level=1].name": {
+      "pl": "Człowiek-om!",
+      "kr_sha256": "d1916410c013e22c091cf5b6f6150a7f9f04d91906befde72d4352d5751dcc28",
+      "en_sha256": "d389a7e4a8b12025e6c536cdb0ad77d4be353750597a92a0484b90744053214d",
+      "origin": "ai"
+    },
+    "dataList[id=9010102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [Breath]",
+      "kr_sha256": "4b891fc06c6b48352b859f63447dec8154f05aae59a2d2700a534d140ab550e4",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=9010102].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 Licznika [Breath]",
+      "kr_sha256": "bcbee268c61f779201ef0487a23ccf4ddb90bee899e548291acdae1c26c14c26",
+      "en_sha256": "7c776e4d3dda25fadb204a5e423681fca0c6f86cf7a9fdce06aafb7c54daf7d9",
+      "origin": "ai"
+    },
+    "dataList[id=9010102].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "+40% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "f281dc94687aae68ce2588789502ae7f4c63343e7e55769b687551c61c441064",
+      "en_sha256": "465fa22f8f1d7b3d2b3fec2e72749ad8bb63ed304cefad6349966be39f5408c1",
+      "origin": "ai"
+    },
+    "dataList[id=9010102].levelList[level=1].desc": {
+      "pl": "[WinDuel] przywraca 5 SP",
+      "kr_sha256": "af356af0f1da37ed87ea8eb608c33442ecc4262621a4b3fef7a2bacebe36a36f",
+      "en_sha256": "9d3f4ea20676afba430c56ec081e3bb982fd49c8c83f2d46fe35a31b149224b6",
+      "origin": "ai"
+    },
+    "dataList[id=9010102].levelList[level=1].name": {
+      "pl": "Złapać Ich-om!",
+      "kr_sha256": "d63ffc2d672bb53abb45f961dc750e077f43af2adb03b39d70dfb58f861798af",
+      "en_sha256": "71c93f3c0c2b6a01773104173069fee774cbfa0d356aacd1d6fab0def05d5547",
+      "origin": "ai"
+    },
+    "dataList[id=9010103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "+30% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "0196b147de225579e5264b4637ee62c8ef5617cdbefd357ca6458472798e08fc",
+      "en_sha256": "962738e6a24d4ed0c8181c562022b42834e6592498f747587c5fcd7a12cb681d",
+      "origin": "ai"
+    },
+    "dataList[id=9010103].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "05ef0825eedf94cff6f236726e12aa027623975817471b1d596329d6dbb9595c",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=9010103].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "+30% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "0196b147de225579e5264b4637ee62c8ef5617cdbefd357ca6458472798e08fc",
+      "en_sha256": "962738e6a24d4ed0c8181c562022b42834e6592498f747587c5fcd7a12cb681d",
+      "origin": "ai"
+    },
+    "dataList[id=9010103].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 Licznika [Breath]",
+      "kr_sha256": "5f105895ad44ef5050c75417f5e90fabb325cdb294a6e0e165ad34fd44ebf081",
+      "en_sha256": "5f2e641c6d577ce31640cf0447b04637114176596c9455762ca6905693876f12",
+      "origin": "ai"
+    },
+    "dataList[id=9010103].levelList[level=1].name": {
+      "pl": "Om, Om!!",
+      "kr_sha256": "00f348e802ae9db138ed6a15d76524bd527a6b9334dc17ee053d398db3f9d584",
+      "en_sha256": "1e100eddb7752351b63c9cb74dcd4cfe091529b18f269398a907ccd28521f5df",
+      "origin": "ai"
+    },
+    "dataList[id=9010201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [Breath] i 2 Licznika [Breath]",
+      "kr_sha256": "7fe6b12298fa39a430b9cc0b1944a1d9a6cc5e518679d320d645337e8daf3d0c",
+      "en_sha256": "f91159fd9bf23ade682945e2ffd426150853eab8bc7fe69ee8f3f7ecee8bf7ed",
+      "origin": "ai"
+    },
+    "dataList[id=9010201].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "05ef0825eedf94cff6f236726e12aa027623975817471b1d596329d6dbb9595c",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=9010201].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 Licznika [Breath]",
+      "kr_sha256": "bcbee268c61f779201ef0487a23ccf4ddb90bee899e548291acdae1c26c14c26",
+      "en_sha256": "7c776e4d3dda25fadb204a5e423681fca0c6f86cf7a9fdce06aafb7c54daf7d9",
+      "origin": "ai"
+    },
+    "dataList[id=9010201].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 3 [Binding] w następnej turze",
+      "kr_sha256": "d20262b25184832c4e252c5bb0c16c57418c3b7edef8e63eab3ce2603007f890",
+      "en_sha256": "3a430454ea098c3525b016985bb021920e48332623ec0f5d111de62c6d5a264c",
+      "origin": "ai"
+    },
+    "dataList[id=9010201].levelList[level=1].name": {
+      "pl": "Świeżuteńkie Mięsko-om",
+      "kr_sha256": "4da3aba448c88d7d470ea2ade1d981080b4223d8911f40fa5690c0cfda88b68c",
+      "en_sha256": "750def757b81436cf0fc5557547375553910c75bbddcec02e7cfcc0e2dc08947",
+      "origin": "ai"
+    },
+    "dataList[id=9010202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [Breath] i 2 Licznika [Breath]",
+      "kr_sha256": "7fe6b12298fa39a430b9cc0b1944a1d9a6cc5e518679d320d645337e8daf3d0c",
+      "en_sha256": "f91159fd9bf23ade682945e2ffd426150853eab8bc7fe69ee8f3f7ecee8bf7ed",
+      "origin": "ai"
+    },
+    "dataList[id=9010202].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "+40% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "f281dc94687aae68ce2588789502ae7f4c63343e7e55769b687551c61c441064",
+      "en_sha256": "465fa22f8f1d7b3d2b3fec2e72749ad8bb63ed304cefad6349966be39f5408c1",
+      "origin": "ai"
+    },
+    "dataList[id=9010202].levelList[level=1].desc": {
+      "pl": "[WinDuel] przywraca 5 SP",
+      "kr_sha256": "af356af0f1da37ed87ea8eb608c33442ecc4262621a4b3fef7a2bacebe36a36f",
+      "en_sha256": "9d3f4ea20676afba430c56ec081e3bb982fd49c8c83f2d46fe35a31b149224b6",
+      "origin": "ai"
+    },
+    "dataList[id=9010202].levelList[level=1].name": {
+      "pl": "Żwawy Jak Trzeba-om!",
+      "kr_sha256": "ea704cad30ee7d1c81da4b58f9a564d896c09acd00c157bc0ec070a263a75c71",
+      "en_sha256": "53655b50ce5c54703ac1dcd64618eba404281678f6086e16b87bc3cba2fa9fe7",
+      "origin": "ai"
+    },
+    "dataList[id=9010203].levelList[level=1].desc": {
+      "pl": "[EndBattle] jeżeli ta jednostka ma Tarczę, zyskuje 1 [Enhancement] w następnej turze.",
+      "kr_sha256": "09f89dbe7cf9ee65ebae7ae38310a4a606006804200a8d4c83b13fef0b13faf6",
+      "en_sha256": "37e5b4c9860d29b2e1226176794ee517556d15c6cd17017d6e907ad968861660",
+      "origin": "ai"
+    },
+    "dataList[id=9010203].levelList[level=1].name": {
+      "pl": "Niczego To Nie Daje-om!",
+      "kr_sha256": "4ede0ec1c43f9f931c481e5031985e51e49ea5383dbee7f1adea2b9bca36b398",
+      "en_sha256": "05f0100cf0b68ecd6611a35e4dfcc63e2d282bea14e91b90433d108b6872875d",
+      "origin": "ai"
+    },
+    "dataList[id=9010301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 Licznika [Breath]",
+      "kr_sha256": "493c661a24f90500659a36f0de0679c0d55a4833780cfcdf71995ee10b14e822",
+      "en_sha256": "a57dbcb123a4417e3436ccd41716b57e7d97141c9f47b086da80c22a4416a602",
+      "origin": "ai"
+    },
+    "dataList[id=9010301].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "05ef0825eedf94cff6f236726e12aa027623975817471b1d596329d6dbb9595c",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=9010301].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 1 Licznika [Breath]",
+      "kr_sha256": "bcbee268c61f779201ef0487a23ccf4ddb90bee899e548291acdae1c26c14c26",
+      "en_sha256": "7c776e4d3dda25fadb204a5e423681fca0c6f86cf7a9fdce06aafb7c54daf7d9",
+      "origin": "ai"
+    },
+    "dataList[id=9010301].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 2 [Paralysis]",
+      "kr_sha256": "d9c1e0ada429fe7a444411c6823f3a8d6c1f53de5555849ff12906852dddd561",
+      "en_sha256": "ebab647996794abfa2b08041ada871adad30e1d1dad32c961d9e8601d8ae33e0",
+      "origin": "ai"
+    },
+    "dataList[id=9010301].levelList[level=1].name": {
+      "pl": "Zrobię z Was Mebel-om!",
+      "kr_sha256": "d86fcb3fa86fb2395e9369363bbe31eb7e388dadc30b8bcb9573537d54e7362d",
+      "en_sha256": "fe9485213b81f81ef18dbbe8a6e2672fb7d98f7f1a03a96bc49a085c8676199b",
+      "origin": "ai"
+    },
+    "dataList[id=9010302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 Licznika [Breath]",
+      "kr_sha256": "5f105895ad44ef5050c75417f5e90fabb325cdb294a6e0e165ad34fd44ebf081",
+      "en_sha256": "5f2e641c6d577ce31640cf0447b04637114176596c9455762ca6905693876f12",
+      "origin": "ai"
+    },
+    "dataList[id=9010302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "0b7e988fc262b434fd3f266c266b2fe7605285ac176b17b71f810b9c4f0d4f3e",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=9010302].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "+40% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "f281dc94687aae68ce2588789502ae7f4c63343e7e55769b687551c61c441064",
+      "en_sha256": "465fa22f8f1d7b3d2b3fec2e72749ad8bb63ed304cefad6349966be39f5408c1",
+      "origin": "ai"
+    },
+    "dataList[id=9010302].levelList[level=1].desc": {
+      "pl": "[WinDuel] przywraca 5 SP",
+      "kr_sha256": "af356af0f1da37ed87ea8eb608c33442ecc4262621a4b3fef7a2bacebe36a36f",
+      "en_sha256": "9d3f4ea20676afba430c56ec081e3bb982fd49c8c83f2d46fe35a31b149224b6",
+      "origin": "ai"
+    },
+    "dataList[id=9010302].levelList[level=1].name": {
+      "pl": "Ruchy z Tym-om!",
+      "kr_sha256": "94429c34fdd6231299807fbb6e773f1ca74aad92ca43732623fdc3deb101cb21",
+      "en_sha256": "89ae96ba7027f5897d1daedd2ae7fbb6b060d420c3f9667002a99121bfc66c5a",
+      "origin": "ai"
+    },
+    "dataList[id=9010303].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] zyskuje 5 [Breath] i 2 Licznika [Breath] w następnej turze.\n[OnDefeatEvade] podnosi Próg Oszołomienia o 10",
+      "kr_sha256": "3e49f0ed228023d99bca2b7ca0f25332c46eedc668ef74021b496e8fcc6f0e33",
+      "en_sha256": "6181595714689ec4c925baa6f6e7ab112bcdf7e061d91bf9e601e261a93e2b54",
+      "origin": "ai"
+    },
+    "dataList[id=9010303].levelList[level=1].name": {
+      "pl": "Hoom Hoom~",
+      "kr_sha256": "c746b48e4bf4b0881eb9e6dca0695d23addb19af225656d518356e273075aabe",
+      "en_sha256": "0dd0498c7ed637713731b2130f20509210f02e98049b1531f83dd2222bcc3968",
+      "origin": "ai"
+    },
+    "dataList[id=9010401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "05ef0825eedf94cff6f236726e12aa027623975817471b1d596329d6dbb9595c",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=9010401].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "a86dcc4bed82e866452d9f0ee7c1a21a274bd79cfbb0d52db471e04b1cf7f40c",
+      "en_sha256": "2052adfc8f0a1e84d5111ebfd72ab85f7548f6deee9d9e0d6399827903049f07",
+      "origin": "ai"
+    },
+    "dataList[id=9010401].levelList[level=1].name": {
+      "pl": "Porwę Was-om!",
+      "kr_sha256": "7f2900572b53ac740d139034c6e5cf94b756597689a60a1d4b2024394d6369ca",
+      "en_sha256": "063c7d169934a59eca0825d4ec29e146b0b71f46911fcf7370430432a5820b19",
+      "origin": "ai"
+    },
+    "dataList[id=9010402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [Breath] i 3 Licznika [Breath]",
+      "kr_sha256": "06dcc4e4da495e1b6ab396b7aec987044072fdc686303c31ea0ab341e2ecb360",
+      "en_sha256": "c79f8051de917a5e11cc505ffbac91376d78e32bf5fa020977c6338e3ec6e6a5",
+      "origin": "ai"
+    },
+    "dataList[id=9010402].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "+50% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "337b988fb15dcc7948145871ef0e5c20a35132c1a5bc394982b981d43e1880fb",
+      "origin": "ai"
+    },
+    "dataList[id=9010402].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath] i 1 Licznika [Breath]",
+      "kr_sha256": "da6ead180d0447b50150c5574da33f0ffd1eb82f80b11414afb982ef9cf2dd3a",
+      "en_sha256": "a4569b87359161ba11b2c04ea44739d0d9b7fbc51c59ed1f74c55c8717d488fd",
+      "origin": "ai"
+    },
+    "dataList[id=9010402].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "+50% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "8ce757ee83435c8f956108da9c9bed9fe16b0454dab0ae61dc6a6e3a92c483cb",
+      "en_sha256": "337b988fb15dcc7948145871ef0e5c20a35132c1a5bc394982b981d43e1880fb",
+      "origin": "ai"
+    },
+    "dataList[id=9010402].levelList[level=1].desc": {
+      "pl": "[WinDuel] przywraca 5 SP",
+      "kr_sha256": "af356af0f1da37ed87ea8eb608c33442ecc4262621a4b3fef7a2bacebe36a36f",
+      "en_sha256": "9d3f4ea20676afba430c56ec081e3bb982fd49c8c83f2d46fe35a31b149224b6",
+      "origin": "ai"
+    },
+    "dataList[id=9010402].levelList[level=1].name": {
+      "pl": "Złoto Znalezione-om!",
+      "kr_sha256": "6131fb92b6ddac974e674a732678eb23950377899d35a10dadef2bf0cf0944da",
+      "en_sha256": "239fb86d3f3dc2e2a918f101cd9f3fd796b6573335e35593436a2b129ef91314",
+      "origin": "ai"
+    },
+    "dataList[id=9010403].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] ostatnia Moneta zadaje +20% obrażeń",
+      "kr_sha256": "00edaaa2a69481bea23a39f29d22bb58bcfa6c9cde0ab2b781440f455601a643",
+      "en_sha256": "c4a7df869e7077d641d63bad29ea28bbbca860a4c534ce6c1d86b4694f312d01",
+      "origin": "ai"
+    },
+    "dataList[id=9010403].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath]",
+      "kr_sha256": "05ef0825eedf94cff6f236726e12aa027623975817471b1d596329d6dbb9595c",
+      "en_sha256": "8151d4e35d4b5825057d33622ff56e6546d2ab664b19401c2b257c51889433a1",
+      "origin": "ai"
+    },
+    "dataList[id=9010403].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] ostatnia Moneta zadaje +20% obrażeń",
+      "kr_sha256": "00edaaa2a69481bea23a39f29d22bb58bcfa6c9cde0ab2b781440f455601a643",
+      "en_sha256": "c4a7df869e7077d641d63bad29ea28bbbca860a4c534ce6c1d86b4694f312d01",
+      "origin": "ai"
+    },
+    "dataList[id=9010403].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 Licznika [Breath]",
+      "kr_sha256": "5f105895ad44ef5050c75417f5e90fabb325cdb294a6e0e165ad34fd44ebf081",
+      "en_sha256": "5f2e641c6d577ce31640cf0447b04637114176596c9455762ca6905693876f12",
+      "origin": "ai"
+    },
+    "dataList[id=9010403].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] nie zużywa Licznika [Breath]. zadaje dodatkowe obrażenia Uderzeniem równe [Breath]",
+      "kr_sha256": "9eb7b17552c55531f23fd1b2837593ab55718362e25b48ea100b87b310a77156",
+      "en_sha256": "2432e9ed44d892a8eb8ee72d06454d65904592c8cc7c75b601bb48dbff89e610",
+      "origin": "ai"
+    },
+    "dataList[id=9010403].levelList[level=1].desc": {
+      "pl": "[WinDuel] zyskuje 3 [Breath]",
+      "kr_sha256": "c7c2f88a0b2ca242983bb58524aa9c57f36e2d1990c7d59deb0bbb6b4b8d03aa",
+      "en_sha256": "831cb903fa34e98d0d1752a87be160a54d3fea87ebb7c83653c21196b0616535",
+      "origin": "ai"
+    },
+    "dataList[id=9010403].levelList[level=1].name": {
+      "pl": "Materiał Lokalny-om!",
+      "kr_sha256": "a7cc4b54d6226f4456b71131ade8f87e5cdda245c068599bbb2e209cc7e90b49",
+      "en_sha256": "6e5bd5b41db18fe9ad3d24126a0ab6f2cd86d5a4c8492e1076289dba1361a2fd",
+      "origin": "ai"
+    },
+    "dataList[id=9010404].levelList[level=1].desc": {
+      "pl": "[EndBattle] jeżeli ta jednostka ma Tarczę, zyskuje 2 [Enhancement] w następnej turze.",
+      "kr_sha256": "999d5d8a2fac1ebffdb7af4dc7190a7425da65097da143fbac39b53e5708090b",
+      "en_sha256": "28ade149a1be20e9034355b9b5979bd5972d84570ddd32ffb5b3bac914460ec1",
+      "origin": "ai"
+    },
+    "dataList[id=9010404].levelList[level=1].name": {
+      "pl": "Niczego To Nie Daje-om!",
+      "kr_sha256": "4ede0ec1c43f9f931c481e5031985e51e49ea5383dbee7f1adea2b9bca36b398",
+      "en_sha256": "05f0100cf0b68ecd6611a35e4dfcc63e2d282bea14e91b90433d108b6872875d",
+      "origin": "ai"
+    }
+  }
+}

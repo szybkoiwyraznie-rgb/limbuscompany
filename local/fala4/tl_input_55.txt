@@ -1,0 +1,96 @@
+5332||Announcer#Announcer_Gebura_39.json] 상황이 끝나면 티페리트에게 방금 상황 녹화되어 있냐고 물어봐.\n이 정도면 앤젤라 님에게도 증명할 수 있을 거야, 이 일에 토끼 따위의 협력은 필요하지 않다는 걸.|Once we have the situation under control, ask Tiphereth whether this has been videotaped.\nThis should be more than enough proof to Miss Angela that we don't need help from the likes of the Rabbits.
+5333||Announcer#Announcer_Gebura_39.json] …여기서 멈출 필요 없어. 우리는 충분히 계속 싸울 수 있으니까.|... Don't stop here. We don't need a break... we can still fight.
+5334||Announcer#Announcer_Gebura_39.json] 시끄러워! 계속 싸울 수 있다고 했잖아!\n젠장… 왜 이 빌어처먹을 몸뚱이는 내 마음대로 움직이질 않는 건데… 도대체 왜!|Shut up! I said I can still fight!\nDammit... why won't this shitty body move like I want it to... why!
+5335||Announcer#Announcer_Gebura_39.json] 정신 차려. 어차피 죽게 생긴 거, 칼 한 번, 총알 한 발이라도 저것들 머리통에 꽂아넣고 죽어야 할 거 아냐?|Get it together. You're as good as dead anyway—might as well take them with you. Get your one final stab, one final bullet into that bastard's face.
+5336||Announcer#Announcer_Gebura_39.json] 쫄지 마. 환상체가 이해할 수 없는 힘을 가졌지만, 그건 그것들에게서 뽑아낸 E.G.O 장비도 마찬가지잖아?\n아낌없이 휘둘러. 그 괴물들이 울부짖고, 소리지를 때까지.|No chickening out. Abnormalities may have mysterious powers, sure, but same goes for the E.G.O gears we've extracted from them.\nDon't be stingy and put them to good use until you can hear those monsters wailing and screeching.
+5337||Announcer#Announcer_Gebura_39.json] 여기서 죽으면 유언도 유품도 남지 않고 폐기될 거야. 젖병이든, 담요든…\n그러니 죽고 싶지 않다면 하나라도 더 저 괴물의 몸에 무기를 찔러넣어!|You die here, and your things—last words, wills, possessions, everything—are going straight to the trash heap. Even things like nursing bottles or blankets...\nSo, unless you wanna die yourself, kill that monster! Stab it dead!
+5338||Announcer#Announcer_Gnome_23.json] 방금 움찔했움! 저기가 약점인 거 같움!|- It just twitched-ome!\n- Hit 'em right where it hurts-ome!
+5339||Announcer#Announcer_Gnome_23.json] 연장 솜씨가 현란하지움! 선물 만들고 도구 연습만 하는 것이움?|- Ya got some g'knack for the g'knick-g'knackery-ome!\n- Do ya spend your off-hours just practicing arts and crafts or something-ome?
+5340||Announcer#Announcer_Gnome_23.json] 조금만 더 힘내라움! 맞움! 선물 받을 친구들을 떠올리시움! 고통은 금방이지만 기쁨은 오래갈 것이움!|- Just a little more-ome!\n- Oh yeah-ome! Just think about how happy our friends will be when they open the present-omes!\n- May joy outlast the pain-ome!
+5341||Announcer#Announcer_Gnome_23.json] 왜 농땡이를 피우고 있는 것이움? 정신 차리시움! 도도루 실장이 보면 큰일나움!|- Quit lollygaggin'-ome!\n- Get it together-ome! Don't let manager Dodoru see this-ome!
+5342||Announcer#Announcer_Gnome_23.json] 움!!! 이건 아군이었던 것 같지 않움? 움움! 시체만 남은 것 같움!|- OME!!! Ain't this one a friend-ome?\n- Ome, ome! Just a dead body now-ome!
+5343||Announcer#Announcer_Gnome_23.json] 다들 재료 손질이 빨라지지 않았움? 좋은 재료 덕에 신이 난 것 아니겠움!|- Is it just me, or is everyone working faster-ome?\n- Working with good materials helps-ome!
+5344||Announcer#Announcer_Gnome_23.json] 움? 다들 상태가 왜 이러움? 그러게 말이움. 방독면 안 쓰고 잠가루 뿌렸움?|- Ome? What the heck happened-ome?\n- Beats me-ome. Forgot your gas masks when sprinkling 'em with them sleepy powder-omes?
+5345||Announcer#Announcer_Gnome_23.json] 움!!! 재료가 잔뜩 있움! 어디움? 어디있움!? 저쪽에 있움! 도구 챙겼으면 달리라움!|- Ome!!! A whole pile of material-omes!\n- Where-ome? Where-ome!?\n- Over there-ome! Get a move on-ome!
+5346||Announcer#Announcer_Gnome_23.json] 우움! 선물을 잔뜩 만들 수 있을 것 같움! 움움! 기쁘고 신나는 날이움!|- Omme! We can make loads of gifts from these-ome!\n- Ome, ome! What joy, what joy-ome!
+5347||Announcer#Announcer_Gnome_23.json] 비상이움! 비상이움! 재료가 곧 상할 거라움! 선물도 못 만드움! 비상… 시끄러움! 그만 소리치고 빨리 도우라움!|- G'emergency! G'emergency!\n- Raw material's 'bout to go bad-ome! Can't make gifts with 'em-ome!\n- Shut up-ome! Quit yappin' and come give us a hand-ome!
+5348||Announcer#Announcer_Gnome_23.json] 선물 포장을 그렇게 하면 어떡하움! 이건 도도루 실장에게 말해둘 것이움!|- This is some shoddy packaging work-ome!\n- We're telling manager Dodoru-ome!
+5349||Announcer#Announcer_Gnome_23.json] 아…! 도구 잘못 챙겨갔잖움! 우움! 다른 거 챙겨가시움!|- G'osh darnit-ome! Wrong tool-ome!\n- Ome! Try something else-ome!
+5350||Announcer#Announcer_Gnome_23.json] 얼레? 왜 이 꼬라지가 된 것이움? 이럴 땐 농땡이 치다가 상황 보고 돌아오는 거움!|- G'olly! What's goin' on here-ome?\n- Let's all take a quick break and come back when it all blows over-ome!
+5351||Announcer#Announcer_Gnome_23.json] 여기 걸어다니는 노다지가 헤롱헤롱하고 있움! 움! 당장 손질하라움!|- Raw material there, lookin' woozy-ome!\n- Ome! Get trimmin', stat-ome!
+5352||Announcer#Announcer_Gnome_23.json] 손질 끝낸 것 같움! 그럼 다음 손질로 바로 가시움!|- Trimming work donez-ome!\n- Let's keep goin'-ome!
+5353||Announcer#Announcer_Gnome_23.json] 움움! 손질이 잘됐움! 기가 막히게 갈무리했지 뭐움?|- Ome, ome! G'ood work-ome!\n- Now that's some fine work-ome!
+5354||Announcer#Announcer_Gnome_23.json] 원래 저렇게 악을 쓰는 놈들로 만들어야 좋은 선물이 나움! 맞는 말이움!|- Rowdy raw materials make for good gifts-ome!\n- Darn tootin'-ome!
+5355||Announcer#Announcer_Gnome_23.json] 움! 잠가루가 솔솔 잘 들었움! 선물로 만들기 편할 것이움!|- Ome! Sleepy powder's doin' g'work-ome!\n- Easy breezy body squeezy right into a toy mold-ome!
+5356||Announcer#Announcer_Gnome_23.json] 분위기가 이상하다움! 공장장이 화났을 때도 이런 분위기 아니었움? 그럼 도망쳐야 하는 거잖움!|- Something's lookin' mighty funny-ome!\n- Reminds me of when the factory director gets pissed-ome...\n- Then we gotta skedaddle-ome!!!
+5357||Announcer#Announcer_Gnome_23.json] 움? 어디서 이상한 소리 안 나움? 우움!? 저거 보시움! 뭔가 큰일 날 거 같지 않움?|- Ome? Did anyone else hear that-ome?\n- Oome! Look g'over there-ome!\n- Something bad's a-comin'-ome!
+5358||Announcer#Announcer_Gnome_23.json] 움! 우움! 우우움!|- Ome!\n- Oome!\n- Oooome!
+5359||Announcer#Announcer_Gnome_23.json] 이제 끌고 가도 될 거 같움! 빨리 빨리 옮기시움!|- Let's drag'em away-ome!\n- Hustle, hustle-ome! Let's roll-ome!
+5360||Announcer#Announcer_Gnome_23.json] 한 놈, 두 놈, 세 놈, 우우움!! 세상에 완전 대박이잖움!|- One kill-ome, two kill-omes, three kill-omes, oooome!\n- Holy shit-ome!
+5361||Announcer#Announcer_Gnome_23.json] 움!? 우움!? 우우우우움!!!|- Ome!\n- Oooome?!\n- Oooooooome!!!
+5362||Announcer#Announcer_Gnome_23.json] 와움! 벌써 재료를 저기까지 손질해둔 것이움? 오늘 공장 일찍 문 닫을 수 있을 것 같지움!|- G'wow! Ahead of schedule on ingredient trimming-ome!\n- Maybe we can punch outta work early today-ome!
+5363||Announcer#Announcer_Gnome_23.json] 움? 움? 움?|- Ome?\n- Ome?\n- Ome?
+5364||Announcer#Announcer_Gnome_23.json] 도대체 뭐하는 것이움! 똑바로 하시움! 이러다가 재료한테 잡아먹히겠숨!|- What the heck are ya doin'-ome! Get it together-ome!\n- Don't let the raw materials eat you-ome!
+5365||Announcer#Announcer_Gnome_23.json] 다들 상태가 왜 이러움! 슬슬 쉴 시간이긴 한 것 같움…|- Why's everyone lookin' so down-ome?!\n- Well, we've been going for a while without a break-ome...
+5366||Announcer#Announcer_Gnome_23.json] 허리 아프다고 농땡이 부리지 말라움! 쉬는 것도 끝나고 쉬는 게 맞움!|- Work through that back pain-ome! No dillying or dallying-ome!\n- Break comes after work-ome!
+5367||Announcer#Announcer_Gregor_2.json] 좋아, 방금은 전략의 승리야. 계속 밀어붙이자.|Sehr gut, that was sound strategy. Keep advancing.
+5368||Announcer#Announcer_Gregor_2.json] 유효타. 좋아, 계속 집중하지.|That strike was effective. Good, stay focused.
+5369||Announcer#Announcer_Gregor_2.json] 우리가 우세해. 서둘러 끝내 보자고.|Things’re going our way. Let’s end this quick.
+5370||Announcer#Announcer_Gregor_2.json] 이런, 아군 대열이 무너졌다. 재정비를 해보는게 좋아.|No good, our formation’s broken. We ought to reorganize.
+5371||Announcer#Announcer_Gregor_2.json] 아군이 열외됐다. 윽… 보기만 해도 아프네… 관리자 양반!|Man down. Ugh… That hurts to watch… Manager Bud!
+5372||Announcer#Announcer_Gregor_2.json] 기세가 올랐어. 적군들에게 본 때를 보여줘도 될 것 같은데?|We’re in good spirits. Wanna show ‘em what we’re really made of?
+5373||Announcer#Announcer_Gregor_2.json] 다들 상태가 별로야. 아니, 아군의 상태를 잘 살피는 것도 관리자의 일 아냐?|Our pals are looking tossed-up. Hey, isn’t it your job to keep them in good condition?
+5374||Announcer#Announcer_Gregor_2.json] 최선을 다해 보지. …방금 벌레 말은 듣지 않는다는 사람, 누구야?|I’ll do my best. …Who just said they won’t listen to a bug?
+5375||Announcer#Announcer_Gregor_2.json] 내가 응원하는 게 도움이 되긴 하려나… 힘내긴 해보자고.|Dunno how helpful my cheerleading will be, but… might as well do what I can.
+5376||Announcer#Announcer_Gregor_2.json] …촉이 안 좋아. 이번 판단이 되게 중요할 것 같은데.|…I’ve got a bad feeling. The decisions you make here might matter a lot.
+5377||Announcer#Announcer_Gregor_2.json] 좋은 판단은 아니었어. 뭐… 머리 좀 식히고 다시 가보자고.|Not the best option we could’ve picked. Welp… Let’s keep cool heads and try again.
+5378||Announcer#Announcer_Gregor_2.json] 어… 방금은 좋지 않았어. 뭐, 그럴 수도 있지. 포기하지만 말자고.|Whoop… That wasn’t so good. Well, dumm gelaufen. We’ll pull through, long as we don’t give up.
+5379||Announcer#Announcer_Gregor_2.json] …이 기세로 가면 우리가 질 거라는 거, 알고 있지?|…You know we’re gonna taste dirt if this keeps up, right?
+5380||Announcer#Announcer_Gregor_2.json] 한 방 먹였네. 이 기세를 모아서 뚫어보자고.|Got ‘em good there. Let’s push ahead and break their ranks.
+5381||Announcer#Announcer_Gregor_2.json] 좋아, 부위 파괴에 성공했어. 계속 몰아붙이자고.|Great, we got one of its parts. Don’t give it an inch to recover.
+5382||Announcer#Announcer_Gregor_2.json] 부위 하나가 박살났군. 근사한 한 방이었어.|One of its parts broke. That was a smooth hit.
+5383||Announcer#Announcer_Gregor_2.json] 자극제라도 맞았나…? 적군이 더 강해진 것 같아.|Did they get stimulants or something…? Our enemies seem to have gotten stronger.
+5384||Announcer#Announcer_Gregor_2.json] 사기가 꺾였군. 이 기회에 마음껏 공격해보자고.|Their morale is down. Now’s our chance to knock ‘em senseless.
+5385||Announcer#Announcer_Gregor_2.json] 적군이 신통방통한 전술을 쓰려고 하고 있군. 뭐가 나올지 보자고.|Seems our enemies are brewing curious tactics. Let’s let them cook.
+5386||Announcer#Announcer_Gregor_2.json] 저것들, 행동거지가 심상치 않은데? 넋 놓고 있다가는 호되게 당할지도 몰라.|Looks like they might be up to something? We’d better get ready ‘less we want trouble.
+5387||Announcer#Announcer_Gregor_2.json] 음… 그레고르다. 아… 아… 목 좀 풀고 시작해도 되겠지?|Ahem… Gregor here. Ahh… Ahhh… Cool to clear my throat before I start?
+5388||Announcer#Announcer_Gregor_2.json] 탱고 다운… 아, 옛날 버릇이… 적 사살. 좋아.|Tango down—oops, old habits die hard… Enemy defeated. Good.
+5389||Announcer#Announcer_Gregor_2.json] 밀어붙이려면 지금이야. 승리가 눈 앞에 있거든. 아, 훈장은 사양이다.|No time like now to charge forward. Victory’s just within reach. Don’t want any medals, though.
+5390||Announcer#Announcer_Gregor_2.json] 아까처럼만 해. 그럼 이번 전투도 쉽게 쉽게 갈 수 있을거야.|Just remember this flow. You’ve got this one in the bag.
+5391||Announcer#Announcer_Gregor_2.json] 후, 방금 건 제대로 한 건 했어. 돌아가면 맥주라도 사야겠는걸.|Whew, that there was mean piece of work. I might have to buy ‘em a beer or two.
+5392||Announcer#Announcer_Gregor_2.json] 적의 일격에 우리 아군이 심하게 다친 모양이야. 버틸 수 있겠어?|One of our men looks badly hurt by the attack. Think they can hold out?
+5393||Announcer#Announcer_Gregor_2.json] 큭… 이봐, 괜찮나?|Verdammt… Hey, you alright?
+5394||Announcer#Announcer_Gregor_2.json] 지금 다들 체력이 거덜난 것 같은데, 다른 대책은 없어?|Our guys are looking pretty spent. Got a way out of this?
+5395||Announcer#Announcer_Gregor_2.json] 너희, 죄다 아픈 것 같은데 괜찮아?|Y’all look roughed up bad. Sure you’re alright?
+5396||Announcer#Announcer_Heathcliff_14.json] 오! 방금 좀 똑똑했다? 옛날에 조직에서 싸울 때도 두뇌파로 적을 다 밀어버리는 놈이 있었지.|Ooh! That was a smart move, yeah? Reminds me of the brainy sort I met back in my Syndicate days.
+5397||Announcer#Announcer_Heathcliff_14.json] 이런 건 몽둥이가 약이지! 그대로 두드려 패!|Violence really is the best solution, innit? Beat its arse!
+5398||Announcer#Announcer_Heathcliff_14.json] 그래. 결국 마지막까지 서 있는 놈이 이기는 거라니까? 잘 들어. 아픈 거 생각하지 말고 저 새끼 죽은 다음만 생각해. 그럼 공격이 더 매서워지거든?|Right. What'd I say? The winner's always the last one standin'. Listen. Don't think about how much it'll hurt... think about what you'll do after that bloke's dead. It'll give you strength.
+5399||Announcer#Announcer_Heathcliff_14.json] 아, 씨… 좀 피하면서 하라니까. 야, 저거 정신 차릴 때까지 앞에서 시선 좀 끌어줘야겠어.|Bloody hell... I told you to get out of the way, didn't I? Oi, someone! Draw the enemy's attention 'till that one gets back up.
+5400||Announcer#Announcer_Heathcliff_14.json] 시계 돌리느라 고생 좀 하겠다, 야. 뭐… 잘만 싸워보면 좀 덜 아프게 되살릴 수도 있지 않겠냐.|Good luck turning the clock on that one... looks like it'll hurt. Oi, maybe there's a way to die in ways that are less painful for Clockhead to go through?
+5401||Announcer#Announcer_Heathcliff_14.json] 오, 니네들 기분이 좋아 보인다? 뭐 재밌는 거라도 봤어?|Ooh, you're all full of beans! See anything funny?
+5402||Announcer#Announcer_Heathcliff_14.json] 왜 다 죽상인데? 인상 펴! 어디 초상이라도 났나…|What's up with the grimace? C'mon, smile! What, did someone die or something?
+5403||Announcer#Announcer_Heathcliff_14.json] 어… 뭐야. 그… 크흠, 화이팅이다.|Uh... I mean. Uh, Ahem. Good luck, mate.
+5404||Announcer#Announcer_Heathcliff_14.json] 가서 할 수 있는 건 다 해보고 오라고! 저거 다 한 주먹거리도 안 되는 놈들이니까!|Do whatever you want out there! I'm sure you'll knock 'em all down with a single strike!
+5405||Announcer#Announcer_Heathcliff_14.json] 한 번 삐끗하면 그대로 나가리야. 생각 잘 해.|One little mistake and you'll be a goner! Think hard on it before makin' a move.
+5406||Announcer#Announcer_Heathcliff_14.json] 거… 흠. 내 입에서 멍청하냐는 소리는 안 나오게 해라.|That was... Hm. Don't make me call you stupid, now.
+5407||Announcer#Announcer_Heathcliff_14.json] 그, 뭐냐… 거의 칼로 물 베기 아니냐. 아니, 베어지지 않는 정도는 아니긴 한데… 그래, 뭐. 두드리다 보면 깨지겠지.|That's uh... that ain't very effective, yeah? I mean, I suppose it wasn't completely useless, but... well, you'll get there eventually.
+5408||Announcer#Announcer_Heathcliff_14.json] 하, 이거 완전 조졌는데. 계속 해봐야 시계 돌릴 때 더 아프기만 하고 좋을 게 없을 것 같은데?|Hah, what a mess... You can keep going, but it'll just hurt more when you inevitably have to turn the clock later.
+5409||Announcer#Announcer_Heathcliff_14.json] 저것들 너덜너덜하잖아! 일단 정신 못 차리는 놈 대가리부터 뭉개!|Look at 'em, they're in tatters! That one's looking particularly knackered... smash that one's head in!
+5410||Announcer#Announcer_Heathcliff_14.json] 캬~ 다리 한 쪽이 작살났네. 저러면 이제 매타작을 피할 방법이 없지!|Niiiice~ You broke the sod's leg. It ain't running from this fight any time soon!
+5411||Announcer#Announcer_Heathcliff_14.json] 아까부터 거슬리던 부위를 터트려버렸으니 어려울 것도 없네. 야, 조져!|You destroyed the part that's been getting on my nerves. This is our chance! Lads, lasses! Get 'em!
+5412||Announcer#Announcer_Heathcliff_14.json] 단체로 왜 저렇게 떠들썩한 거야? 뭔가 싸한데…|What are all them sods all excited about? I've got a bad feeling about this...
+5413||Announcer#Announcer_Heathcliff_14.json] 야, 쟤네 완전 술에 꼴은 놈들처럼 흐느적거리는데?|Oi, they all look bloody pissed on liquor!
+5414||Announcer#Announcer_Heathcliff_14.json] 내가 이상한 기류는 기가 막히게 느끼거든? 저게 뭔가를 할 거 같기는 한데, 어떻게 해야 할지는 모르겠으니까 머리 좀 굴려봐.|I'm good at sussing things out, yeah? They're obviously about to do something, but I haven't a clue as to what. Think about it, why don't you?
+5415||Announcer#Announcer_Heathcliff_14.json] 야! 저 새끼 좀 봐! 뭐 또 이상한 짓 하려고 하잖아… 일단 피해!|Oi! Look at that twit over there! Something's goin' on... C'mon, hide!
+5416||Announcer#Announcer_Heathcliff_14.json] 캐시를 만나면 무슨 말을 해야 되지…  아, 녹음 들어갔다고. 흠, 마이크 잡고 이러는 거 익숙하진 않은데. 뭐, 해보지.|What should I tell Cathy when I finally see her...? Oh, the recording's started already? Ahem. I ain't too used to this mic business... but let's go.
+5417||Announcer#Announcer_Heathcliff_14.json] 하나 눕혔네. 이렇게 눕혀가다 보면 어느새 끝나는 게 싸움인 법이지.|One down. Keep knocking 'em down, and we'll be the only ones standing in the end. Now that's a proper fight, innit?
+5418||Announcer#Announcer_Heathcliff_14.json] 혼자서… 뭘 어떻게 한 거야? 야, 좀… 그런 건 배우자. 나도.|You did that... all on your own? Teach me how to do that, too.
+5419||Announcer#Announcer_Heathcliff_14.json] 예사롭지가 않은데…? 아주 작살을 내놨어!|Blimey, that was some strike! You left 'em in shambles!
+5420||Announcer#Announcer_Heathcliff_14.json] 헹. 저 새끼, 팔 다리 다 털렸는데 이제 뭐 어쩔건데? 야! 아까는 좋았다?|Heh, that cost 'em an arm and a leg... what now? Oi, that was a bloody amazing strike, by the way!
+5421||Announcer#Announcer_Heathcliff_14.json] 우왁! 아… 저건 진짜 아프겠는데. 야, 괜찮냐?|Woah! Ah... that looked like it hurt. You all right, mate?
+5422||Announcer#Announcer_Heathcliff_14.json] 방금 당한 건 좀 살펴보고 가야겠는데. 내가 아무리 덮어놓고 달려드는 놈이라도 이건 좀 아니야…|Might want to get that looked at before we go rushing in again. I know I've a temper, but that looked bad even in my eyes. Take a moment to recover.
+5423||Announcer#Announcer_Heathcliff_14.json] 하… 옛날에도 이럴 때가 자주 있었지. 죄다 피떡이 되어가지고 죽을랑 말랑. …그래도 도망가는 건 모양 빠지잖냐?|Haah... This ain't the first time I've seen this sorry sight. Bloodied, teetering on the brink of death... But we don't want to run away and look like cowards, yeah?
+5424||Announcer#Announcer_Heathcliff_14.json] 이러다 다 죽겠네… 뭐, 시계 대가리도 있으니까 겁먹지 말고 일단 밀어붙여보지?|You'll all get killed at this rate... Well, Clockhead's here to bring you back, so don't let that stop you! Keep pushing, yeah?
+5425||Announcer#Announcer_Hod_18.json] 관리자님. 클리포트 폭주 게이지가 증가하고 있어요. 이대로면 곧 시련이 올 거예요!|Manager, the Qliphoth Meltdown gauge is rising. At this rate, the Ordeal will be here at any minute!
+5426||Announcer#Announcer_Hod_18.json] 관리자님. 클리포트 폭주 게이지가 한 칸 남았어요! 곧 자색 정오의 시련이 올 거예요!|Manager, there's only one bar left of the Qliphoth Meltdown gauge! Prepare for the Noon of Violet!
+5427||Announcer#Announcer_Hod_18.json] 물리 간섭 보호장이 직원들을 보호해주었어요. 재생로가 복구되어서 정말 다행이네요.|The Physical Intervention Shield protected the employees. I'm so relieved that we managed to restore the Regenerator.

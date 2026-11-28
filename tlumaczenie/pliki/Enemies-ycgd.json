@@ -1,0 +1,112 @@
+{
+  "entries": {
+    "dataList[id=8151].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8151].name": {
+      "pl": "Peccatulum Irae?",
+      "kr_sha256": "2045a78841c3a514fb80c81bbf7f9ad69dbd66c81bec2b33a706fe04a4858e22",
+      "en_sha256": "88ae96df0ab24ace7baeb047b5fac9a8343c17dab432a0a730bb8dae4605071a",
+      "origin": "ai"
+    },
+    "dataList[id=8152].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8152].name": {
+      "pl": "Peccatulum Morositatis?",
+      "kr_sha256": "b27a34a40b2aca0488c0d47525ebffb65149188e812bdffcee80b07eec954ed4",
+      "en_sha256": "010e8d50c283a1c097fbf5ef059db3d45773f5b4c1891dc015faca68bdfff02e",
+      "origin": "ai"
+    },
+    "dataList[id=8153].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8153].name": {
+      "pl": "Wypaczający Kim w Bambusowym Kapeluszu",
+      "kr_sha256": "3d94b7d486e1414031b6f128024509530ce496a16157001f282b99c3e6a5cd7e",
+      "en_sha256": "0edaea37504cf23a85cefc99b55aaa372ff2e5724293ae52385da4934d218170",
+      "origin": "ai"
+    },
+    "dataList[id=8154].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8154].name": {
+      "pl": "Wypaczony Kim w Bambusowym Kapeluszu",
+      "kr_sha256": "7507f569211eea6ae7e187a1c8a4752933e5d5faf86e97cf5ec81b25eb94ca7c",
+      "en_sha256": "c9cd75b1d8735dd786c4008038c514248c970c5362e71bba66a3e1793df2c9c9",
+      "origin": "ai"
+    },
+    "dataList[id=90110].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90110].name": {
+      "pl": "Determined Kurokumo Henchman",
+      "kr_sha256": "0ab1f3efe08bf03487fd87085b0b6200ef79c89354e9aae3608127aec0335c2e",
+      "en_sha256": "56466ecf2b17fdfbde4ec71d3ba1d4ccfab9e43995ffef2198f5a2ce597a5dbf",
+      "origin": "ai"
+    },
+    "dataList[id=90111].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90111].name": {
+      "pl": "Tense Kurokumo Henchman",
+      "kr_sha256": "427053f64f19fb0018735fcfe3612120005bf1cf70df2b417872481f20618a86",
+      "en_sha256": "f7e27633b2c8d6ffb866392ef41580d623fcc19e6e74f51089dbb68a61bd4272",
+      "origin": "ai"
+    },
+    "dataList[id=90112].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90112].name": {
+      "pl": "Adept Kurokumo Henchwoman",
+      "kr_sha256": "2ab2e4bb0b3fd71033f0988c3cb44d49355180bdd0c0dc7aa62e2db2f2d522d3",
+      "en_sha256": "ab28793e0d73402f88fb1767c4e3a64daf8843d82f1c51d87d23d0a723d99977",
+      "origin": "ai"
+    },
+    "dataList[id=90113].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90113].name": {
+      "pl": "Tired Kurokumo Henchwoman",
+      "kr_sha256": "ce5bd0d4471b4f1249a6804ef9fa9f97220e28638d1c9bc2edec6ddc672f4621",
+      "en_sha256": "4f4ee672f1fcbce11071888412fedf5f4269f76aee513e27270fed3f6aadd7b0",
+      "origin": "ai"
+    },
+    "dataList[id=91013].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91013].name": {
+      "pl": "Jun, Kapitan Klanu Kurokumo",
+      "kr_sha256": "7fada5cf1e8cc71b09abbac973d1de3a0b45aec73283e8b2ec696e89572f94f2",
+      "en_sha256": "213f8b2e3b071b6173431ec73f28c3ab405d738bc60cbec1eb896da1717a7285",
+      "origin": "ai"
+    }
+  }
+}

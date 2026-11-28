@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "dataList[id=814701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=814701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8147].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8147].name": {
+      "pl": "Dawn of Green - Doubt - α",
+      "kr_sha256": "4368a7a644fcc413437e924d0e60206f6ad915ec1887ffca96bc063becd449ec",
+      "en_sha256": "88eaa4ef920059433d10927345c1266b55198170444799e8d4a67d0c0fd0e85a",
+      "origin": "ai"
+    },
+    "dataList[id=814801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=814801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8148].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8148].name": {
+      "pl": "Dawn of Green - Doubt - β",
+      "kr_sha256": "3fe7b2fc83b1ebfb211caa714381980c7bbc4db4d35d32481fcf72daeb25b54c",
+      "en_sha256": "6bf3353375954850eacd5259fc94a1fb399146e6b6a4f7c6dbd67b7bd4c6ad5b",
+      "origin": "ai"
+    },
+    "dataList[id=814901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=814901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8149].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8149].name": {
+      "pl": "Dawn of Green - Doubt - γ",
+      "kr_sha256": "1314ce550c325024dd19feaca2a4ffa96888044fd4ba015ac1c4233e683824fa",
+      "en_sha256": "7d35b65497e0c967c496fcd09b7bfae36c1910d31b4d8dc1808f4d8ad76ac247",
+      "origin": "ai"
+    },
+    "dataList[id=815001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=815001].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8150].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8150].name": {
+      "pl": "Dawn of Green - Doubt - δ",
+      "kr_sha256": "838cfc4b2d496296e9d573034ee12b9541c3cf7d4b878a1bcfcf376e0378a1c4",
+      "en_sha256": "41557853d1f2ff09abdc88142ce93b6a6144519af801f39934f587d6cab2c2da",
+      "origin": "ai"
+    },
+    "dataList[id=90106].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90106].name": {
+      "pl": "Dawn of Green - Doubt - α",
+      "kr_sha256": "4368a7a644fcc413437e924d0e60206f6ad915ec1887ffca96bc063becd449ec",
+      "en_sha256": "88eaa4ef920059433d10927345c1266b55198170444799e8d4a67d0c0fd0e85a",
+      "origin": "ai"
+    },
+    "dataList[id=90107].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90107].name": {
+      "pl": "Dawn of Green - Doubt - β",
+      "kr_sha256": "3fe7b2fc83b1ebfb211caa714381980c7bbc4db4d35d32481fcf72daeb25b54c",
+      "en_sha256": "6bf3353375954850eacd5259fc94a1fb399146e6b6a4f7c6dbd67b7bd4c6ad5b",
+      "origin": "ai"
+    },
+    "dataList[id=90108].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90108].name": {
+      "pl": "Dawn of Green - Doubt - γ",
+      "kr_sha256": "1314ce550c325024dd19feaca2a4ffa96888044fd4ba015ac1c4233e683824fa",
+      "en_sha256": "7d35b65497e0c967c496fcd09b7bfae36c1910d31b4d8dc1808f4d8ad76ac247",
+      "origin": "ai"
+    },
+    "dataList[id=90109].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90109].name": {
+      "pl": "Dawn of Green - Doubt - δ",
+      "kr_sha256": "838cfc4b2d496296e9d573034ee12b9541c3cf7d4b878a1bcfcf376e0378a1c4",
+      "en_sha256": "41557853d1f2ff09abdc88142ce93b6a6144519af801f39934f587d6cab2c2da",
+      "origin": "ai"
+    }
+  }
+}

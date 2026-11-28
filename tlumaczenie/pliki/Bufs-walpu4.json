@@ -1,0 +1,178 @@
+{
+  "entries": {
+    "dataList[id=BulletLament].desc": {
+      "pl": "- Szczególna amunicja\n- Suma Mocy i Licznika: maks. 20\n- Zużywana przez określone Umiejętności.\n- Przy zużyciu losowo zużywa Żywe Motyle (Moc) albo Martwe Motyle (Licznik).\n- Gdy wartości są niewystarczające, atak zostaje anulowany.",
+      "kr_sha256": "0e2ae8b1d331b3f707eafed4a644f2d6b97995c62711637c7f92f7c8a9a9ab05",
+      "en_sha256": "f043fce2fb44d31f7d638f4695aea00b85ac0471fc854375859a5cee9c34aee9",
+      "origin": "ai"
+    },
+    "dataList[id=BulletLament].name": {
+      "pl": "Żywe i Martwe Motyle",
+      "kr_sha256": "85789ff012d5d91859253a748862863e9bf885d61d3dc821685e90aba0664113",
+      "en_sha256": "b91b5d47b2e9d1d0fb2bb12ce7ec7efe4dd3878329807be43f7777ba0d87d996",
+      "origin": "ai"
+    },
+    "dataList[id=Emptiness].desc": {
+      "pl": "- Nie może posiadać Czerwonego Oka ani Skruchy\n- Gdy efektem podstawowej Umiejętności zyskuje Czerwone Oko, leczy siebie i sojusznika z najniższym procentem HP o (uzyskane Czerwone Oko)% własnego Maks. HP (2 na turę)\n- Gdy efektem podstawowej Umiejętności zyskuje Skruchę, leczy siebie i sojusznika z najniższą Poczytalnością o (uzyskana Skrucha/2) Poczytalności (2 na turę)\n- Na koniec tury efekt znika",
+      "kr_sha256": "3cbda06c5a2744b2c9a81796fe58601edad222488e58a43c9a3a8eeef1a7d17d",
+      "en_sha256": "3529dd002888e200c62f45bcb681c3f2e8844c7de45baace68d8d14812f2ef53",
+      "origin": "ai"
+    },
+    "dataList[id=Emptiness].name": {
+      "pl": "Ostały się Tylko Popioły",
+      "kr_sha256": "3bf9e6aebf5f715dd36c2b3f84d5f22797339cfea7d135dc6923d975691f2049",
+      "en_sha256": "add71f68676f6029814a9740aa6937d9c940a3d5096b76d8ab736b5030d97dfb",
+      "origin": "ai"
+    },
+    "dataList[id=ImpendingCollapse].desc": {
+      "pl": "Na koniec tury traci 1 stos\nNa początku tury, przy 1 stosie lub mniej, używa specjalnej Umiejętności",
+      "kr_sha256": "41648d183ee31df12c369a3dfffec7afca02d981ee4c335daf98022a9d48552e",
+      "en_sha256": "4223d596530be5ec0bce159a5d46e8ae3b26c665f907568f7f014ed9dfcd2476",
+      "origin": "ai"
+    },
+    "dataList[id=ImpendingCollapse].name": {
+      "pl": "Nieuchronny Upadek",
+      "kr_sha256": "68c13d9c5ac108074da8a7fd9a25f834f00e325a93aae31919662092b8adaffe",
+      "en_sha256": "cb985d63f490f4bcae2460adfb6921257ed00966ce76db642b319a279f5f3ac1",
+      "origin": "ai"
+    },
+    "dataList[id=MentalCrack].desc": {
+      "pl": "Wydajność Spadku Poczytalności +1 za stos (maks. 5)\nPo 5 stosach stosy znikają, a jednostka traci 10 Poczytalności\nCo turę traci 1 stos",
+      "kr_sha256": "0825381ca4900463e8eae54716292d71db3b614ed6707c90423a6ac7a219a3e5",
+      "en_sha256": "4405f71cdb70154fdee2a5aaf0affde0f43f8548463038d6704b925e2ebf7587",
+      "origin": "ai"
+    },
+    "dataList[id=MentalCrack].name": {
+      "pl": "Pęknięcie Umysłu",
+      "kr_sha256": "3f4a78736176523655e99db46bbc3cf6fafe3dc65739be65638d8383cb3105c1",
+      "en_sha256": "4993f7d917c6a903962fb08f8904eab1be01bfdf8f6d13bba19ae6668ef71cff",
+      "origin": "ai"
+    },
+    "dataList[id=PenanceFirst].desc": {
+      "pl": "- Zyskuje 2 Poczytalności przy trafieniu monetą podstawowej Umiejętności ataku dającej Skruchę\n- Maks. wartość: 20\n- Szczególne ładowanie (stała moc)\n- Na początku tury zyskuje Tarczę równą (Skrucha)% Maks. HP\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów\n- Według wartości wzmocnienie przechodzi przez etapy:\n · Etap 1 (1–7): Skrucha\n · Etap 2 (8–15): Skrucha - Czujność\n · Etap 3 (16–20): Skrucha - Wyznanie\n- Pierwsza linia tego wzmocnienia leczy Poczytalność według etapu wzmocnienia (etap x 2)",
+      "kr_sha256": "ff601b0007c5342c8d0b06595f50ccab65d796ab96c6372e999b2fbee3f6c8d9",
+      "en_sha256": "c6f12db1fdb504d73403033c860f46b900d485d5b7bd708f56faccf8372c865f",
+      "origin": "ai"
+    },
+    "dataList[id=PenanceFirst].name": {
+      "pl": "Skrucha",
+      "kr_sha256": "a7bcd80df203837f4099bf8d73b7aacb9e483460948e7b2417a112f66778f927",
+      "en_sha256": "cc30f3828d08bfeddfab17de85733436091fcde6946bd0e78e247969ad1b1b59",
+      "origin": "ai"
+    },
+    "dataList[id=PenanceSecond].desc": {
+      "pl": "- Zyskuje 4 Poczytalności przy trafieniu monetą podstawowej Umiejętności ataku dającej Skruchę\n- Maks. wartość: 20\n- Szczególne ładowanie (stała moc)\n- Na początku tury zyskuje Tarczę równą (Skrucha)% Maks. HP\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów\n- Według wartości wzmocnienie przechodzi przez etapy:\n · Etap 1 (1–7): Skrucha\n · Etap 2 (8–15): Skrucha - Czujność\n · Etap 3 (16–20): Skrucha - Wyznanie\n- Pierwsza linia tego wzmocnienia leczy Poczytalność według etapu wzmocnienia (etap x 2)",
+      "kr_sha256": "e8efff7fb4638f8ce85ea6f3e7b83a59547963da32b5bc4f88fec3aa48ce0b42",
+      "en_sha256": "4f2c957667d78a1aec0145b560bdea3d498c580eae649a1da24c393971fd76a8",
+      "origin": "ai"
+    },
+    "dataList[id=PenanceSecond].name": {
+      "pl": "Skrucha - Czujność",
+      "kr_sha256": "10b3c1f55ab605b67957839330d0f86fb96e4e658201d56e7bfacc8fce38d680",
+      "en_sha256": "235a87c9c7545c271e4d7c27c783e554e65a8668098963c0ff568c5402174302",
+      "origin": "ai"
+    },
+    "dataList[id=PenanceThird].desc": {
+      "pl": "- Zyskuje 6 Poczytalności przy trafieniu monetą podstawowej Umiejętności ataku dającej Skruchę\n- Maks. wartość: 20\n- Szczególne ładowanie (stała moc)\n- Na początku tury zyskuje Tarczę równą (Skrucha)% Maks. HP\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów\n- Według wartości wzmocnienie przechodzi przez etapy:\n · Etap 1 (1–7): Skrucha\n · Etap 2 (8–15): Skrucha - Czujność\n · Etap 3 (16–20): Skrucha - Wyznanie\n- Pierwsza linia tego wzmocnienia leczy Poczytalność według etapu wzmocnienia (etap x 2)",
+      "kr_sha256": "4b32b06c40589ed9d00e84836d22e75426d0710a3920c7939c345e64481e5ecc",
+      "en_sha256": "97e0c1676aa93be9f594309b74f4d51a246cba2f1f756266c79ffbc91650efc7",
+      "origin": "ai"
+    },
+    "dataList[id=PenanceThird].name": {
+      "pl": "Skrucha - Wyznanie",
+      "kr_sha256": "9f7ed5f44c2605a197506dceb8aaf63cc45c0621ceaa7b7f5cbc0b9f34751d9b",
+      "en_sha256": "c13aa11eb650e34dcd1bb73bbf16567fdd6ea897e0106022323eedf4df348e8b",
+      "origin": "ai"
+    },
+    "dataList[id=RedEyeFirst].desc": {
+      "pl": "- Podstawowe monety Umiejętności ataku nadają +1 więcej Krwawienia\n- Maks. wartość: 20\n- Szczególne ładowanie (stała moc)\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów\n- Według wartości wzmocnienie przechodzi przez etapy:\n · Etap 1 (1–7): Czerwone Oko\n · Etap 2 (8–15): Czerwone Oko - Czujność\n · Etap 3 (16–20): Czerwone Oko - Pożeranie\n- Pierwsza linia tego wzmocnienia nadaje dodatkowe Krwawienie równe etapowi wzmocnienia (maks. 3)",
+      "kr_sha256": "a548ae8f2b07e371afc6e94f7466468d6d1566cdbc58c8cf5a34b0d053708abd",
+      "en_sha256": "51da8d4df0593e18d39e0f72796be22314b983573f8df8d960a81f48b09a0232",
+      "origin": "ai"
+    },
+    "dataList[id=RedEyeFirst].name": {
+      "pl": "Czerwone Oko",
+      "kr_sha256": "d7daefa36f5ad2057316f51869f8755cb20845245ca706d534c8d0bef70e2283",
+      "en_sha256": "e495bbd3606a212f07a64af464afb50ba9ac5bbf404ce8271246e91c90b97074",
+      "origin": "ai"
+    },
+    "dataList[id=RedEyeSecond].desc": {
+      "pl": "- Podstawowe monety Umiejętności ataku nadają +2 więcej Krwawienia\n- Maks. wartość: 20\n- Szczególne ładowanie (stała moc)\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów\n- Według wartości wzmocnienie przechodzi przez etapy:\n · Etap 1 (1–7): Czerwone Oko\n · Etap 2 (8–15): Czerwone Oko - Czujność\n · Etap 3 (16–20): Czerwone Oko - Pożeranie\n- Pierwsza linia tego wzmocnienia nadaje dodatkowe Krwawienie równe etapowi wzmocnienia (maks. 3)",
+      "kr_sha256": "aa1bf4d91e87e45d1ab9a2fb976057e2f317f0f0c9c1a07832fe56930f98318b",
+      "en_sha256": "e78682ad8c8fea34cafcef2cb82cad83b4a46f35f025a893aaf6f2e3cb1975ce",
+      "origin": "ai"
+    },
+    "dataList[id=RedEyeSecond].name": {
+      "pl": "Czerwone Oko - Czujność",
+      "kr_sha256": "e3addeed7fe6148521a4dbca63a23cd2cbae199522e73bc033949cea0eca7ea4",
+      "en_sha256": "49b13440a5dba569f0c4550a382619cc8279605d6aed3339824d82bde3f6bb08",
+      "origin": "ai"
+    },
+    "dataList[id=RedEyeThird].desc": {
+      "pl": "- Podstawowe monety Umiejętności ataku nadają +3 więcej Krwawienia\n- Maks. wartość: 20\n- Szczególne ładowanie (stała moc)\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów\n- Według wartości wzmocnienie przechodzi przez etapy:\n · Etap 1 (1–7): Czerwone Oko\n · Etap 2 (8–15): Czerwone Oko - Czujność\n · Etap 3 (16–20): Czerwone Oko - Pożeranie\n- Pierwsza linia tego wzmocnienia nadaje dodatkowe Krwawienie równe etapowi wzmocnienia (maks. 3)",
+      "kr_sha256": "9ab3abe178ef6652198b03908c7d0870e640cfebdf6788784301de18b18ad5a4",
+      "en_sha256": "25aa5b71becc4ab27ea10b6ed545aa6b31fefba9d94366d917f757c321d837c8",
+      "origin": "ai"
+    },
+    "dataList[id=RedEyeThird].name": {
+      "pl": "Czerwone Oko - Pożeranie",
+      "kr_sha256": "915fc4d50cc9e27d0d8b9fce5914a373df6a715d762080437a47a9a7f7db3ff7",
+      "en_sha256": "3904182b84d7de436523a264ad2767bfa31bc44a5271ead45febdc21757527d7",
+      "origin": "ai"
+    },
+    "dataList[id=ReloadLament].desc": {
+      "pl": "- Zużywa ((30 - posiadane Żywe i Martwe Motyle)/2) Poczytalności (zaokrąglone w dół)\n- Zeruje posiadane Żywe i Martwe Motyle, a ich sumę przywraca do maksimum według szans z pasywu „Widzę Umierające Motyle”.\n- Przy Przeładowaniu zyskuje co najmniej 1 Żywe i 1 Martwego Motyla.",
+      "kr_sha256": "83673a8213a8bc646c9f4412cc55fa300642994c7f583d4c5eb4980d27b7cd0c",
+      "en_sha256": "ecbb7c4811a8485d395f0b42a9986cceb717944abe5850a4a1fd367cf1bf2672",
+      "origin": "ai"
+    },
+    "dataList[id=ReloadLament].name": {
+      "pl": "Przeładowanie",
+      "kr_sha256": "afd1e2db1d07327792ba3fed315ef2edfcf79603a675b797362f55a59fa5066d",
+      "en_sha256": "bdc090ec61e3fcfc65f469951dfe00f3f2ecfc6003c44deac8e05b7237092de6",
+      "origin": "ai"
+    },
+    "dataList[id=SinkingBlack].name": {
+      "pl": "Efekt Starej Wersji",
+      "kr_sha256": "621e0e80a5e3fbbd45f9ed1164c3882d0a2c5623e5041698561f3ea47e6c668d",
+      "en_sha256": "c77de270f1b39778217942eb9f779a8ef67c62a54719dbea7703328122475959",
+      "origin": "ai"
+    },
+    "dataList[id=SinkingWhite].desc": {
+      "pl": "- Szczególne Zatonięcie\n- Wartość bazowa: 0, maks.: 15\n- Przy trafieniu atakujący odzyskuje {2} Poczytalności.\n- Przy trafieniu, jeśli Poczytalność jest niższa od 0, otrzymuje {3} obrażeń Posępności.\n- Na koniec tury Martwe Motyle tego efektu resetują się do 0, po czym zyskuje Zatonięcie równe Żywym Motylom (Mocy), a Żywe Motyle stają się Martwymi Motylami (Licznik).\n- Efekt znika, gdy Żywe i Martwe Motyle osiągną 0.",
+      "kr_sha256": "41d650505c336ae0288938c1c20c01df7f7b0a1fcb68e1d3c656d35b9f704507",
+      "en_sha256": "eff09aae1f69afd30d531d17299d79f0de18850778a8afd7770e1b85db351d44",
+      "origin": "ai"
+    },
+    "dataList[id=SinkingWhite].name": {
+      "pl": "Motyl",
+      "kr_sha256": "2cb37f504898faa6fd3f01574fc329df956a1051aade4616005fd89855b6c5a5",
+      "en_sha256": "a30f6a02eaa26200e5fef37612610be42ff953b75987d93deb645f83b0770845",
+      "origin": "ai"
+    },
+    "dataList[id=TrainTeamCaptain].desc": {
+      "pl": "Sloty tej postaci: +1\nLiczba Umiejętności 1: -1, liczba Umiejętności 3: +1\nNa początku tury odzyskuje 15 Poczytalności\nGdy Umiejętnościami nadaje Podpalenie, Krwawienie, Rozdarcie, Zatonięcie lub Wstrząs, wartość nadania +1 (również szczególne stany)\nGdy Umiejętnościami zyskuje Oddech lub Ładowanie (również szczególne ładowanie), wartość +1\nPrzy zabiciu wroga: +2 zasobu E.G.O atrybutu zabijającej Umiejętności, +1 zasobu każdego pozostałego atrybutu",
+      "kr_sha256": "5a1b68141e27d9d4d40b5c5f76ecd8d778521dbd479c99dd8719993775e68744",
+      "en_sha256": "e7bdd01ec29513d3505093ecba2cb65e431e59200aa722f0e253c288182b6d47",
+      "origin": "ai"
+    },
+    "dataList[id=TrainTeamCaptain].name": {
+      "pl": "Kapitan Zespołu Szkoleniowego",
+      "kr_sha256": "c10638a089b4621e54c146aed192347cbd94cef372b60c1b48c8174693c2a829",
+      "en_sha256": "2ce84c87334b4b60622942f261cb21a516e31ea60bc54a96d470133536aa5cfb",
+      "origin": "ai"
+    },
+    "dataList[id=VioletUnderstand].desc": {
+      "pl": "Za każdy stos zadaje +5% obrażeń\nZa każdy stos otrzymuje +5% obrażeń\n(maks. 5)",
+      "kr_sha256": "cf82c70face889e785ec6358c8c8383f48cb07867cd3ffc39d9368aff48a86ab",
+      "en_sha256": "0d52186915c2dc10b5257060beb3db34ebb0c92e81476835ad311f8f3bc56084",
+      "origin": "ai"
+    },
+    "dataList[id=VioletUnderstand].name": {
+      "pl": "Zrozumienie",
+      "kr_sha256": "da2995a8c183c1cabd41954740ecd5db28218079d148e888b12055c20562be2c",
+      "en_sha256": "6bec5244819cfbe8df72d47698b8acd3181c92af1045e733d8d76811ac659795",
+      "origin": "ai"
+    }
+  }
+}

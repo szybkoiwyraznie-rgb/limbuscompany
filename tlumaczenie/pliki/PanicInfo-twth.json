@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=1088].lowMoraleDescription": {
+      "pl": "- Jeśli atakowany cel ma <color=#ff0000>Rozszarpaną Barwę</color>, zadawane obrażenia +10%\n- Zyskaj 1 [Vulnerable]",
+      "kr_sha256": "4ca18f194b69e2089f7d4d6a4e4b95aab00a053fe058f6891a933f0f897344e2",
+      "en_sha256": "0ad3b265f49c08ea2f11426496708ea6004ab3ae221a65f6e0693f2dfe576b89",
+      "origin": "ai"
+    },
+    "dataList[id=1088].panicDescription": {
+      "pl": "- Jeśli atakowany cel ma <color=#ff0000>Rozszarpaną Barwę</color>, zadawane obrażenia +20%\n- Zyskaj 2 [Vulnerable]",
+      "kr_sha256": "9f80f9a2f7b97716748697f82d2052c6976c12f9d1d7d28a94ff31d1929904b0",
+      "en_sha256": "8b310e8d78e755664719322f4a40a502c15d50001e0b71823c573c1714cd5b44",
+      "origin": "ai"
+    },
+    "dataList[id=1088].panicName": {
+      "pl": "Gasnące Natchnienie",
+      "kr_sha256": "6b7e24072b45ee7bea49f105e0f6d848d106bda79a9c10f7da0e02a1fe09ca5f",
+      "en_sha256": "d887b1b7ed534ccbce963ec5481911535c1647c3809fc57ea0627aa9e996a17e",
+      "origin": "ai"
+    },
+    "dataList[id=1090].lowMoraleDescription": {
+      "pl": "- Zadawane obrażenia +2,5% za każdy <color=#ff0000>rodzaj efektu negatywnego</color> na atakowanym celu (maks. 15%)\n- Zyskaj 1 [Vulnerable]",
+      "kr_sha256": "522b5ef302e85dc8044f3c05b064892cfed39b7cfbb502c1d36e0cf27748a8a8",
+      "en_sha256": "39a4931f0ba8d0ddf40b0deccb49fce67f4faa7b1c89b45b1be3001e38dd6e39",
+      "origin": "ai"
+    },
+    "dataList[id=1090].panicDescription": {
+      "pl": "- Zadawane obrażenia +5% za każdy <color=#ff0000>rodzaj efektu negatywnego</color> na atakowanym celu (maks. 30%)\n- Zyskaj 2 [Vulnerable]",
+      "kr_sha256": "c945dc094916ba497c04f4dd6a78e54a952a8e17cffef755fdf066011e0f2186",
+      "en_sha256": "a0ddacc23bea252c4d7a76c6e5cbf2b500c6d1bbc8dc61ff3629c9c6ac25afb4",
+      "origin": "ai"
+    },
+    "dataList[id=1090].panicName": {
+      "pl": "Coloriage Impulsif",
+      "kr_sha256": "d0c52faa1a7a5f51f88d684695e156964d9392cbf795b70a29b455d8b790bc5f",
+      "en_sha256": "321b5361ad445fa24dc456e47470225fb0d897d9fad78d269aa1f701fe49d582",
+      "origin": "ai"
+    }
+  }
+}

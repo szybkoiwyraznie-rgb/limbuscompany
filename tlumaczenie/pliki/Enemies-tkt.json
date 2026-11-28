@@ -1,0 +1,196 @@
+{
+  "entries": {
+    "dataList[id=827701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=827701].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8277].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8277].name": {
+      "pl": "The Time Ripper",
+      "kr_sha256": "b1b59c590de456e802a3b9d44e5b148b638e1f2bf856f45d8c6a131586244e78",
+      "en_sha256": "f385f98dcb3224d134be8b31a02b27c1d3a16d5e21ecef90a59516f0d16278b1",
+      "origin": "ai"
+    },
+    "dataList[id=827801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=827801].name": {
+      "pl": "Brain",
+      "kr_sha256": "33a0f34e53d5a8871d2e94c37aea277a1b9a8ff5382dd33a8fecd2b3065c45f7",
+      "en_sha256": "7e4d5c460c04457ee9f1bc63bad577f7c312fc20a590f1b710aff1242d580a79",
+      "origin": "ai"
+    },
+    "dataList[id=827802].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=827802].name": {
+      "pl": "Brain",
+      "kr_sha256": "33a0f34e53d5a8871d2e94c37aea277a1b9a8ff5382dd33a8fecd2b3065c45f7",
+      "en_sha256": "7e4d5c460c04457ee9f1bc63bad577f7c312fc20a590f1b710aff1242d580a79",
+      "origin": "ai"
+    },
+    "dataList[id=827803].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=827803].name": {
+      "pl": "Brain",
+      "kr_sha256": "33a0f34e53d5a8871d2e94c37aea277a1b9a8ff5382dd33a8fecd2b3065c45f7",
+      "en_sha256": "7e4d5c460c04457ee9f1bc63bad577f7c312fc20a590f1b710aff1242d580a79",
+      "origin": "ai"
+    },
+    "dataList[id=827804].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=827804].name": {
+      "pl": "Brain",
+      "kr_sha256": "33a0f34e53d5a8871d2e94c37aea277a1b9a8ff5382dd33a8fecd2b3065c45f7",
+      "en_sha256": "7e4d5c460c04457ee9f1bc63bad577f7c312fc20a590f1b710aff1242d580a79",
+      "origin": "ai"
+    },
+    "dataList[id=827805].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=827805].name": {
+      "pl": "Brain",
+      "kr_sha256": "33a0f34e53d5a8871d2e94c37aea277a1b9a8ff5382dd33a8fecd2b3065c45f7",
+      "en_sha256": "7e4d5c460c04457ee9f1bc63bad577f7c312fc20a590f1b710aff1242d580a79",
+      "origin": "ai"
+    },
+    "dataList[id=8278].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8278].name": {
+      "pl": "The Time Ripper",
+      "kr_sha256": "b1b59c590de456e802a3b9d44e5b148b638e1f2bf856f45d8c6a131586244e78",
+      "en_sha256": "f385f98dcb3224d134be8b31a02b27c1d3a16d5e21ecef90a59516f0d16278b1",
+      "origin": "ai"
+    },
+    "dataList[id=827901].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=827901].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8279].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8279].name": {
+      "pl": "Unfolded Time Rippers",
+      "kr_sha256": "377be2aaad489aeb4ca93e1c0e72958d53fac1abbfe321b71e02eb4d073728a8",
+      "en_sha256": "6c07c425020b9047a68821ac9666e54e7f42b0b756641b1dbd86d0ea165d6a5e",
+      "origin": "ai"
+    },
+    "dataList[id=90140].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90140].name": {
+      "pl": "Aggressive Yurodivy",
+      "kr_sha256": "1f258f29ac3a9593da54e2fe60395249990e42a2d3ef7e693021f431953f6daf",
+      "en_sha256": "0c305ff12bcd4ec16ccc16a3a767db96992cf6524c45cf73c6dbcad929868071",
+      "origin": "ai"
+    },
+    "dataList[id=90141].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90141].name": {
+      "pl": "Quick-witted Yurodivy",
+      "kr_sha256": "f52d73019e32b1da19ab78dd6cbf22f7cb785af1fbed57c6de4ec32626ebbcdd",
+      "en_sha256": "73843b94ea66e3393bb1e4aa10040da1dd68ae37cbdb4b373770512bf5f1b59b",
+      "origin": "ai"
+    },
+    "dataList[id=90142].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90142].name": {
+      "pl": "T Corp. Class 2 Collection Staff",
+      "kr_sha256": "9697bf6152b28fa68f5a418a7c60f539717d2491f953959dc8c2dfe765487111",
+      "en_sha256": "a7c6398785248d7fe40ca95ae21da40fd071859cddf9d67cb29a126738949443",
+      "origin": "ai"
+    },
+    "dataList[id=90143].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90143].name": {
+      "pl": "T Corp. Class 3 Collector - Neutralize",
+      "kr_sha256": "113b7dcefe666ba9d5118b950c72690cc71f203b44ede10437558135a48a12eb",
+      "en_sha256": "462349a3de6e212824a8f1c40a30ad30f58c5cc46089f2d950c67857ba36b5eb",
+      "origin": "ai"
+    },
+    "dataList[id=90144].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90144].name": {
+      "pl": "T Corp. Class 3 Collector - Suppress",
+      "kr_sha256": "222da307f9cac6dd4d36841dd350803a7d6d81ad40f1521fe86559f0139525e6",
+      "en_sha256": "986964aab5ada19d7476d3de53e9f4073e170f644634d971dfcb29bc940248e1",
+      "origin": "ai"
+    },
+    "dataList[id=91017].desc": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91017].name": {
+      "pl": "District 20 Yurodiviye Captain",
+      "kr_sha256": "4fe3cbecab58b3c4d7b034519ab90b1a1fce21156b4c53f3007ce5c430f9b5db",
+      "en_sha256": "4c6a27c363144e3328f99b70377ace70b1476afad3b04a61151ccd9f4c2c60a0",
+      "origin": "ai"
+    }
+  }
+}

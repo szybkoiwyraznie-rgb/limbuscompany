@@ -1,0 +1,166 @@
+{
+  "entries": {
+    "dataList[id=809901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "29b31205115168d18a1d280708e452caef2010a51505623f32f536d506f7490e",
+      "en_sha256": "c133ca6195fd42754995b8f84493b45c65692c89b38e0ebcad05831143a556f9",
+      "origin": "ai"
+    },
+    "dataList[id=809901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "29b31205115168d18a1d280708e452caef2010a51505623f32f536d506f7490e",
+      "en_sha256": "c133ca6195fd42754995b8f84493b45c65692c89b38e0ebcad05831143a556f9",
+      "origin": "ai"
+    },
+    "dataList[id=809901].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Paraliżu",
+      "kr_sha256": "7212113e0da7e7344688c2d4c39a0e9c68e21fdba936d70e17b3f8f018c2a1ea",
+      "en_sha256": "2a0aee28c6b1b6af07a1876c12647a4fe39c0ad1b35df4ea893585521c399c59",
+      "origin": "ai"
+    },
+    "dataList[id=809901].levelList[level=1].name": {
+      "pl": "Uderzenia Pięścią",
+      "kr_sha256": "57992fc3e44c762d91dd8b2186a5de0b4deb8b8d1621e6065551dceb898e7802",
+      "en_sha256": "122224098ac978ae16bf5a4224fc0221d6e05be1ca7d4416a697af6745cee37b",
+      "origin": "ai"
+    },
+    "dataList[id=809902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "cf8fcf0003a60e28158514c40b942def2d00a4ad12a62211bcb1dd7082b88525",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=809902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "cf8fcf0003a60e28158514c40b942def2d00a4ad12a62211bcb1dd7082b88525",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=809902].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Paraliżu w następnej turze",
+      "kr_sha256": "fa4440a87d7cf682879dad41e515c729fcac7f5b2a84d8c94abcfb70b668a2f5",
+      "en_sha256": "71cefbd62411c8deb6d72bfd4b5503893204c60cd18baf9ff117f7b9138c6117",
+      "origin": "ai"
+    },
+    "dataList[id=809902].levelList[level=1].name": {
+      "pl": "Kopniak",
+      "kr_sha256": "4c25db1ce7c09dd5dc15c846102aeeb788af33cb84035a699202e42e34c89979",
+      "en_sha256": "1479215c83d910453c77b6ca61247a90339d553f03076298ebc988efc4dc4f6e",
+      "origin": "ai"
+    },
+    "dataList[id=809903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel traci 5 SP",
+      "kr_sha256": "591bdb706ed1cd5ce474a5c9c154779faf6dd815aee6cd0afb8068e4f6bd23bf",
+      "en_sha256": "02698cc4d342e3476e7c1034f6b9fddb9b7ad00a39d33782dfa2cce28a930c72",
+      "origin": "ai"
+    },
+    "dataList[id=809903].levelList[level=1].name": {
+      "pl": "Odwet",
+      "kr_sha256": "85daf541fa07a3bb4a30419144bdca0e511091bd1944ed28748afe3a1bd726a4",
+      "en_sha256": "debb0b1b8f38af9cc24bd716b46de16bb10ef8b07d196b28c894e0f5327ed986",
+      "origin": "ai"
+    },
+    "dataList[id=809904].levelList[level=1].desc": {
+      "pl": "[StartBattle] nakłada 1 Wzrost Mocy Ataku wszystkim sojusznikom\n[StartBattle] nakłada 2 Spadek Mocy Ataku 2 wrogom z najniższym SP",
+      "kr_sha256": "d92053f2774d0785109de2b15eb2a3a5fbed00cba50f657710b6422becebf9dd",
+      "en_sha256": "7c6b1e22b11f7124eece1b118d82192f26a27daacb69b7c2c9df594a99a3991d",
+      "origin": "ai"
+    },
+    "dataList[id=809904].levelList[level=1].name": {
+      "pl": "Przytłaczanie",
+      "kr_sha256": "87f9986f3c491022ccd643fdd2cd2179303643f554464813876ec0f91f49fced",
+      "en_sha256": "2e1dce001f2501ca7f3460c1f3566e8506bd1a29522fc7d3d9c0269de5d1aa7b",
+      "origin": "ai"
+    },
+    "dataList[id=809905].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 2 [AaCePbBi]. Zyskuje 5 Wiązania w następnej turze.",
+      "kr_sha256": "c20ce2d7d5c6be754ed183cbdce12d7eb75f2d7231d9b793871ba350d0e3cab5",
+      "en_sha256": "a7adaa46cc4029751da56cf1703916cc99dfda7ce1dff938c7f6415c587a08cd",
+      "origin": "ai"
+    },
+    "dataList[id=809905].levelList[level=1].name": {
+      "pl": "Wyryj To w Pamięci",
+      "kr_sha256": "fa6c85ff04b301ed194ecd8d2a463c917c9512800f28ee08124e5f446ca0d6b4",
+      "en_sha256": "df1fcc867d864368011dbdb92dd7857f5895c0787e6ba99ebce85b8ec3abe62c",
+      "origin": "ai"
+    },
+    "dataList[id=809906].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 10 SP sobie",
+      "kr_sha256": "f323db961ceccdf35764d9340495caf21673fb3f503129c3e73d826bc546cee6",
+      "en_sha256": "85fc998747891ae46c703cbd7b07e9531ceb7e46fbc304ab3dcf12b6d01021dd",
+      "origin": "ai"
+    },
+    "dataList[id=809906].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Wiązania i 2 Spadek Mocy Ataku w następnej turze",
+      "kr_sha256": "3900711dd0ed1f0cd4aaeacf46ba86c709588537985977a2e2e284fae29fdc75",
+      "en_sha256": "fd7179f13ce1197aa4a03a0f7c5ae0a45133f70d13466cf9e94e4d9d4a0eaea3",
+      "origin": "ai"
+    },
+    "dataList[id=809906].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel traci 20 SP",
+      "kr_sha256": "ad0082e9695c7cfa7c21bd5a734e8d1409e1f33984d042d541891b38cadbd3f5",
+      "en_sha256": "94b5b074e7bfcf558a2194a2d3466df5bf79d04027479ba8b23307eaef6990d4",
+      "origin": "ai"
+    },
+    "dataList[id=809906].levelList[level=1].desc": {
+      "pl": "jeżeli SP celu jest poniżej 0, Moc Monety +3",
+      "kr_sha256": "9df17823a5032a76b8522c48b9635acc02892658e5f15602d96c4eb6ebbeb473",
+      "en_sha256": "56db807df8a1aa199eca5d1caf05fc003b0acc6a77b702f55eb942ba2566efe9",
+      "origin": "ai"
+    },
+    "dataList[id=809906].levelList[level=1].name": {
+      "pl": "Uważaj na Kark!",
+      "kr_sha256": "c5bd9e28ee54691dd3ea9ef67b12d09be8a1f4c3689f691757ef05f0942eea19",
+      "en_sha256": "2ad4831aee9851b6b5e8708a9fbef6dbd1411f00fb352fe632605f72b0b7ce0c",
+      "origin": "ai"
+    },
+    "dataList[id=809907].levelList[level=1].desc": {
+      "pl": "[StartBattle] przywołuje 2 sojuszników w następnej turze",
+      "kr_sha256": "0cc4e75514385e95596b5b18c407424495da9a1d56adf17b0ad95cbeebf23ed6",
+      "en_sha256": "f031c1a6e2ff3be8ae5be8940c9d7ee33c815e91f3283c96c92159d5c71cf5f5",
+      "origin": "ai"
+    },
+    "dataList[id=809907].levelList[level=1].name": {
+      "pl": "Zbiórka",
+      "kr_sha256": "7bcf832aeaf41d3cc77a404f686983b0165f72eeb18034865ad2a5c0c5fae740",
+      "en_sha256": "cfc3f8e950bb812b948d85c1d4e52c27c29f6b8faa0b7215577b675f4225aba4",
+      "origin": "ai"
+    },
+    "dataList[id=809908].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 2 [AaCePbBi]. Zyskuje 5 Wiązania i 5 Wzrost Obrażeń w następnej turze.",
+      "kr_sha256": "c2df97de65cf4dae16e47bf7e56aa0ab0dcf6d8af2833c16d661a1c76482acea",
+      "en_sha256": "76ac325699ff40cf8cb3085d66c6e80e7f2eafdb4ed4b4e61bb68b9cfb55f35a",
+      "origin": "ai"
+    },
+    "dataList[id=809908].levelList[level=1].name": {
+      "pl": "Przeżuwanie Zemsty",
+      "kr_sha256": "5af562bab168cec35ecadfa50d8eeb5efc9e3d1013999bbc7c510d9630cf706d",
+      "en_sha256": "04810092f6d3ba01513ed850f8ac3768ecb7c3d000d0f6cd6ee76cdf92f1590e",
+      "origin": "ai"
+    },
+    "dataList[id=809909].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 30",
+      "kr_sha256": "c6725239b9f4eda38ba787ae1ae639b89222a3c88f76e6cb071ad4473846c223",
+      "en_sha256": "f5f51e61f73b8ab005884a4846c435c368cf5f39e7a773b77aeb2c6cbb7b3f4b",
+      "origin": "ai"
+    },
+    "dataList[id=809909].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Paraliżu w następnej turze",
+      "kr_sha256": "2780b21d875b769f6f188cd8899dfaef43a89dce27904086b9bf3e27e6f2be1c",
+      "en_sha256": "19a10145800396c26dd5101f241e50be460f95fbbef1386987547e2cfb9bbb07",
+      "origin": "ai"
+    },
+    "dataList[id=809909].levelList[level=1].desc": {
+      "pl": "jeżeli SP głównego celu jest poniżej 0, Moc Końcowa +5",
+      "kr_sha256": "3017b4b82549e21dd785d8757c931361a89b44b40829766db6f733c55c80ebe4",
+      "en_sha256": "3e7ba9aa6c641a563beec462fc08233eb18df9a246ca4d04a59f2a40242a37fa",
+      "origin": "ai"
+    },
+    "dataList[id=809909].levelList[level=1].name": {
+      "pl": "MOJE KUPONY NA WŁOSYYYYY!!!",
+      "kr_sha256": "aefe725317a52c7c10e4ae6c4bed8e470acd2cca80a2e4342acaab5b1c424340",
+      "en_sha256": "e9467c97206f87236a2b88e3bf2d9a3224a7e2afe4c9bd9acdc12037b213b83b",
+      "origin": "ai"
+    }
+  }
+}

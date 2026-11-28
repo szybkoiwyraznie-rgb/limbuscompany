@@ -1,0 +1,298 @@
+{
+  "entries": {
+    "dataList[id=2036].desc": {
+      "pl": "— opis] Gdy Umiejętność ataku (poza Umiejętnościami E.G.O) nakładająca Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' zadaje wrogowi obrażenia, zadaje +10% obrażeń.\n\nJeżeli ta Umiejętność po raz pierwszy w tej turze wywoła [VibrationExplosion] na wrogu, nakłada w następnej turze +2 Licznika [Vibration] (1 raz na turę).",
+      "kr_sha256": "8c1b971d3bdc8025be50239ae223783fd0916859fb6c49be39446d7fbd8aaed7",
+      "en_sha256": "07e2efe9c3ddbe91d985f48fbf6d586e78378147d2a99c04bb2a56773e20d06f",
+      "origin": "ai"
+    },
+    "dataList[id=2036].name": {
+      "pl": "— nazwa] Srebrne Etui na Zegarek",
+      "kr_sha256": "0536c5555e7cc98e5929ea36bbd6861195f4153114d6ac94f3710f3cfd97a5fa",
+      "en_sha256": "30be23fad7ffa4183950b0af400207ab132a9a60b876aa016d982f7d8677c29e",
+      "origin": "ai"
+    },
+    "dataList[id=2036].simpleDesc[abilityID=20361].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze +2 Licznika [Vibration]",
+      "kr_sha256": "a5859c75579c4cd059aafb5b7f2665d7a7e720bf03377c649b69f193254c7161",
+      "en_sha256": "b9486fa4d68832077aa7db204bade927703eb58383d568aa4545c530e43d6818",
+      "origin": "ai"
+    },
+    "dataList[id=2036].simpleDesc[abilityID=2036].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +10% obrażeń",
+      "kr_sha256": "faf5b0bc5ee77ce387f2b5419afeb4c3899454ac914182dde518806d4feb4910",
+      "en_sha256": "f3216727e01bcbad6ed60f8f1ef2828fb38e72037e7908eb691ac3be4ba72393",
+      "origin": "ai"
+    },
+    "dataList[id=2037].desc": {
+      "pl": "— opis] Podczas starcia z wrogiem szybszym niż jednostka, Moc Starcia +1.\n\nGdy zadaje obrażenia wrogowi szybszemu, nakłada w następnej turze 3 Moc [Vibration] i +2 Licznika [Vibration] na cel (1 raz na turę).",
+      "kr_sha256": "a27134c1eb5f254dd597bf8ee90843b401639ca580907e2ba227dfc7cc576039",
+      "en_sha256": "6bfcda73753a85d143dd9a678855bb586499855678e726a4a4a0ab4947cdc375",
+      "origin": "ai"
+    },
+    "dataList[id=2037].name": {
+      "pl": "— nazwa] Wyblakłe Etui na Zegarek",
+      "kr_sha256": "cfb19e4df47b491ac4fe13f80bdc21a4f015c6ba16773b2ad3d0c7769ae81f2d",
+      "en_sha256": "e6f6fae1ca789c4eb9695408308c489413226673115e7b46ccfc2377e6d362b4",
+      "origin": "ai"
+    },
+    "dataList[id=2037].simpleDesc[abilityID=20371].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze 3 Moc [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "ea1532f775453f258cd68fc34d0496dd59f3c7853d0d0fafdc56bb6676837f65",
+      "en_sha256": "dab4e3893eef515e04f4956da65ef45f6121b733bd568b6f1b48ce5f7a61f5b6",
+      "origin": "ai"
+    },
+    "dataList[id=2037].simpleDesc[abilityID=2037].simpleDesc": {
+      "pl": "— opis skrócony] Moc Starcia +1",
+      "kr_sha256": "aead141ecfbed3ac2f0b7b26ebce09e09ff8d87ed087d9f68e6d28a2ef441653",
+      "en_sha256": "baaa4fc8c8714120770e182c094d5bfa33a360a4e789cba2e420e10168714feb",
+      "origin": "ai"
+    },
+    "dataList[id=2038].desc": {
+      "pl": "— opis] Na koniec tury nakłada w następnej turze 1 [Binding] na najszybszego wroga (w przypadku Anomalii — jedna Partia).\n\nJeżeli cel ma [Vibration] lub 'Szczególny Wstrząs', zamiast tego nakłada 2 [Binding].\n\nGdy sojusznik atakuje cel z [Binding], zadaje +(5 + (2.5 x wartość [Binding]))% obrażeń (maks. 15%).",
+      "kr_sha256": "859d311ced556390563b49e87c475dbde5d5522b93d224c57111f8a5c2e71ef8",
+      "en_sha256": "0f5636e56121e9de4307e552b927322c87511fe7c6806d0c5450d973b20b2b6b",
+      "origin": "ai"
+    },
+    "dataList[id=2038].name": {
+      "pl": "— nazwa] Ostrzeżenie",
+      "kr_sha256": "1705b92eadfea081b7cd9526220684d81a26fd31cb822556fd3db120fd481982",
+      "en_sha256": "7268a723cf6136f9e6e73778725c66ff0e3eae4208842d65eec587686ce4e547",
+      "origin": "ai"
+    },
+    "dataList[id=2038].simpleDesc[abilityID=20381].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(5 + (2.5 x wartość [Binding]))% obrażeń",
+      "kr_sha256": "3eb10fe6f6cb173a7d14f681284013a0ac003fe690a9cd99976b5530acc83833",
+      "en_sha256": "50c80f081a68ef42361aba7f3fe17ecb4a864fa4955cdcce8705b7094f1576ce",
+      "origin": "ai"
+    },
+    "dataList[id=2038].simpleDesc[abilityID=2038].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "14b32414d3a8b310b5ac75ea9b0a59157307571253aea33063bea13e6688ea7f",
+      "en_sha256": "505f86df107c07a33399cb917e81a41c573f8efbcd5b028c4f4eb2b8a4dc0c52",
+      "origin": "ai"
+    },
+    "dataList[id=2039].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali nakłada Moc [Vibration] równą (9-bieżąca Szybkość) na 3 wrogów z najniższą Szybkością (min. 3).\n\nZadaje +10% obrażeń celom z 12+ Moc [Vibration] lub 'Szczególny Wstrząs' na początku tury.",
+      "kr_sha256": "86bf8c65dd6786deb1a6b85aea8867760176729f42378058d6a8cd93f607e2ee",
+      "en_sha256": "4d64ac16c3e4b1bd478e860d37f8c8902f3fcfc2aa0eb651f73728862c8f9fd3",
+      "origin": "ai"
+    },
+    "dataList[id=2039].name": {
+      "pl": "— nazwa] Grawerowane Wskazówki Zegara",
+      "kr_sha256": "23f1c9c0ea4a23a2d11c4aab839d06bc60561e3b63627008f376a53a1f61c1df",
+      "en_sha256": "0c545d885f994a63ee310874593e55d368b15f3135ba0df23e413eaf63e0e59b",
+      "origin": "ai"
+    },
+    "dataList[id=2039].simpleDesc[abilityID=20391].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +10% obrażeń.",
+      "kr_sha256": "5a463428c33bac5de9bc791ae268d2c133d0bb84723b24fb715f4d82c9d87329",
+      "en_sha256": "f3216727e01bcbad6ed60f8f1ef2828fb38e72037e7908eb691ac3be4ba72393",
+      "origin": "ai"
+    },
+    "dataList[id=2039].simpleDesc[abilityID=2039].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Moc [Vibration] równą (9-bieżąca Szybkość)",
+      "kr_sha256": "f857bede16140bc847723294501eab3deccd0b30b5f90165aa21990e320d1ac4",
+      "en_sha256": "5f2ae3e2ae8bfb3ca71495ef8cac9bad77f8b57864bdfeb42b7544f26ca8b3f5",
+      "origin": "ai"
+    },
+    "dataList[id=2040].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali nakłada (9-bieżąca Szybkość) Moc [Vibration] (min. 3) i tyle samo Licznika [Vibration], ile wynosi połowa tej wartości (zaokrąglone w górę; w przypadku Anomalii — jedna Partia) na 1 wroga z najwyższą Szybkością.\n\nOtrzymuje -10% obrażeń od celów z 12+ Moc [Vibration] lub 'Szczególny Wstrząs' na początku tury.",
+      "kr_sha256": "437f2bc32acf074e9591acb570d24df1fbe19976abb7d04cde5f67668d8f50f9",
+      "en_sha256": "acf5d924ba967a7fbf31adf22e6a5bc43c394662b9d7afc136ddb25dc0822f27",
+      "origin": "ai"
+    },
+    "dataList[id=2040].name": {
+      "pl": "— nazwa] Zardzewiałe Wskazówki Zegara",
+      "kr_sha256": "7b2c884cdbcfe7a67bc9ab9b70c356bff27d07b3128b373611577eb5e2f95277",
+      "en_sha256": "903ca959a68cb61097891d763dd6b92b5391f91b79f8e63fd4d4edd7dff9fdb2",
+      "origin": "ai"
+    },
+    "dataList[id=2040].simpleDesc[abilityID=20401].simpleDesc": {
+      "pl": "— opis skrócony] Otrzymuje -10% obrażeń.",
+      "kr_sha256": "5daea7afa34681366955ddbe35fb30b11bef6f49947079e9e24ad0718239b58d",
+      "en_sha256": "380bedee6d8b2a0633374a9c7b0715dc85afc5439c859f7df7ca31c9a5e989a7",
+      "origin": "ai"
+    },
+    "dataList[id=2040].simpleDesc[abilityID=2040].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada (9-bieżąca Szybkość) Moc [Vibration] i połowę tej wartości Licznika [Vibration]",
+      "kr_sha256": "4e737ca355d5ed920f2df142c2584c56e0dba2d6ed05d4b60ccc0c2b6832b2df",
+      "en_sha256": "54127a40b634f69d52a551eaaf3b391d4f2ae2cb5c2c76be514b168e56188681",
+      "origin": "ai"
+    },
+    "dataList[id=2041].desc": {
+      "pl": "— opis] Gdy sojusznik z Umiejętnością ataku (poza Umiejętnościami E.G.O) nakładającą Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' wygrywa starcie z wrogiem, nakłada 2 Moc [Vibration] i +2 Licznika [Vibration] (2 razy na turę).\n\nTożsamości Yurodivy: efekt jest wzmocniony i nakładają 3 Moc [Vibration] i +3 Licznika [Vibration] (3 razy na turę).\n\nGdy ta Tożsamość prowadzi starcie z wrogiem o wyższym Poziomie Ataku, zyskuje Moc Starcia +2, a gdy atakuje po wygranej w starciu, zadaje +20% obrażeń.",
+      "kr_sha256": "e2409e4ec3e3d5e0d0dc033a2389a35482f47d728e84c5455dbb2a4c5049cfd9",
+      "en_sha256": "836e4e8a2b809aa183c030280e5baa8ba00d3c4fc67f7222ea850992508ca780",
+      "origin": "ai"
+    },
+    "dataList[id=2041].name": {
+      "pl": "— nazwa] Kielich Kapnących Kropli",
+      "kr_sha256": "cdc09f4997667067d489b37412d6a53aa990c26ba6a4b437eb337575c43e6de6",
+      "en_sha256": "8fbdc05dfa4c768904f3cf2fa07ba34aca13c2056fbf85d686abb7a1147d5253",
+      "origin": "ai"
+    },
+    "dataList[id=2041].simpleDesc[abilityID=20411].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc [Vibration] i +3 Licznika [Vibration]",
+      "kr_sha256": "bbb3b3599f53c508f9cdd3d4b7da71d6e4b6d6a195667939fda6f30530d1b056",
+      "en_sha256": "b5544ad4c027951858130418e17ea93a44fa43167f0b7b2f493a2ce2a6ba90cf",
+      "origin": "ai"
+    },
+    "dataList[id=2041].simpleDesc[abilityID=20412].simpleDesc": {
+      "pl": "— opis skrócony] Moc Starcia +2, zadaje +20% obrażeń",
+      "kr_sha256": "e28d622175402c8396f71c5664517b2880a2223b3726e065c5604fa98f2d70e2",
+      "en_sha256": "00ebd9730cc5024ded345a11655f403cbbb7dae1b7ffd01d4e4f4b7958920cff",
+      "origin": "ai"
+    },
+    "dataList[id=2041].simpleDesc[abilityID=2041].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Moc [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "25ac193f046c98d9200388b7acad873ec5a02e2d1d853b4c7d5cd4b0d784a083",
+      "en_sha256": "0b0eaee6aa621e1bccab86dae3228e76eac5928284ac48e26007766e9f003ea4",
+      "origin": "ai"
+    },
+    "dataList[id=2042].desc": {
+      "pl": "— opis] Zadaje +(5 + różnica Szybkości x 2.5)% obrażeń wrogom szybszym o co najmniej 2 Szybkości (maks. 15%).\n\nNa koniec tury, jeżeli w tej turze zadano wrogom szybszym o co najmniej 2 Szybkości obrażenia Umiejętnością ataku (poza Umiejętnościami E.G.O) chociaż raz, nakłada w następnej turze na wroga 2 [Binding] i 1 [ResultReduction] (1 raz na turę).",
+      "kr_sha256": "74200998f56db3eeb41d1905d2ac2dd6496f5bd2a1c19108750d450217904bb4",
+      "en_sha256": "563dc4e628e2200686c52a9de08d394825b20f6462268292fff95ed9f838dfa7",
+      "origin": "ai"
+    },
+    "dataList[id=2042].name": {
+      "pl": "— nazwa] Rachunek za Przedpłacony Czas",
+      "kr_sha256": "8c08f635eb5951eecbaf2c4df5fa4e5b08d38d771c2f7ec8a69d37eeea3c1b22",
+      "en_sha256": "0cd3ccc74e4ffc53e0bede8fa223d6c8bc54c4976074846640378485fd54eb6f",
+      "origin": "ai"
+    },
+    "dataList[id=2042].simpleDesc[abilityID=20421].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze 2 [Binding] i 1 [ResultReduction] na wroga",
+      "kr_sha256": "da8edd9aafe9429deeb45455970642b341689c3a6b6ab4b29d43e0fadc182eb8",
+      "en_sha256": "01bfc37886cd6ed85b212a6ec21091d5a8e6c6655125331ef38a3720f7162a14",
+      "origin": "ai"
+    },
+    "dataList[id=2042].simpleDesc[abilityID=2042].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(5 + różnica Szybkości x 2.5)% obrażeń",
+      "kr_sha256": "6d2edd32b36c1ab4cf97ccfd521a5fb824c25d524070a5adcc09c745304695f9",
+      "en_sha256": "f8dccc5c40959cde21c746e4d1576b43c186c0fbe1e58c7c039b27082e44e7c4",
+      "origin": "ai"
+    },
+    "dataList[id=2043].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nUmiejętności 3 sojuszników nakładających Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs zyskują Moc Monet +2 i zadają +25% obrażeń.\n\nGdy sojusznik nakładający Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs [Switch_Vibration] wroga Umiejętnością ataku (wliczając Umiejętności E.G.O), przekształcana Moc [Vibration] i Liczniki [Vibration] są stosowane 1,5 razy większe (tylko przy przekształceniu w inny typ) i nakłada 5 [DefenseDown] na następną turę (1 raz na turę).\n\nNa początku tury 3 wrogów o najniższej Szybkości zyskuje Moc [Vibration] równą (12-obecna Szybkość) (min. 6; maks. 1 raz na falę).",
+      "kr_sha256": "4b4796443d98acb22e02994d41064793e681efbe30525d604a2fabe66de44f4a",
+      "en_sha256": "463ecb0847db8e911143fff92c64b85371d2e2ac2b34e8dfb8e758dab15c1024",
+      "origin": "ai"
+    },
+    "dataList[id=2043].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ L",
+      "kr_sha256": "6ddf31bd75977e026b9a3cf9ee8f0d5320cba2738aac6f64d8fded6ab6d3aa82",
+      "en_sha256": "82cfad4c3fbcd377156517c19b5e4f44bad6b8020966f567d7538c6f518c78af",
+      "origin": "ai"
+    },
+    "dataList[id=2043].simpleDesc[abilityID=20431].simpleDesc": {
+      "pl": "— opis skrócony] Przekształcana Moc [Vibration] i Licznik [Vibration] są mnożone x 1.5",
+      "kr_sha256": "9486151291d18dd45e5aeb9c9031991200f3594ad9264d0eb53ffe80d94b4c8d",
+      "en_sha256": "f29df7b27e32aa494e088c778119acf0ea2c9239b1b836702ccc16c5b93db8ef",
+      "origin": "ai"
+    },
+    "dataList[id=2043].simpleDesc[abilityID=20432].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada (12-bieżąca Szybkość) Moc [Vibration]",
+      "kr_sha256": "b297460460defc75135c9356a1220059123fa1925589e712c0b79ebbe93bd1cc",
+      "en_sha256": "bb4fd6de69b252b7bce9e819ed06e90d5e235526e7d20435a73291b2f049acd0",
+      "origin": "ai"
+    },
+    "dataList[id=2043].simpleDesc[abilityID=2043].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet +2 i zadaje +25% obrażeń",
+      "kr_sha256": "819a563a3369e2633832ea16cdb07202c917f35099eb6cb4cc840c44b0ac1dfa",
+      "en_sha256": "a236b015d0378e651ff243e64d29819bda5d68cf9507eda2fa08579ef0440427",
+      "origin": "ai"
+    },
+    "dataList[id=2044].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nUmiejętności 3 sojuszników nakładających Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs zyskują Moc Monet +2 i zadają +25% obrażeń.\n\nGdy sojusznik nakładający Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs zadaje obrażenia wrogowi o co najmniej 2 Szybkości wolniejszemu od niego, zadaje +(Moc [Vibration] celu, maks. 25)% obrażeń, a przy każdym zadaniu obrażeń nakłada 2 [DefenseDown] (maks. 6).\n\nNa początku tury nakłada 1 wrogowi z najwyższą Szybkością Moc [Vibration] równą (12-obecna Szybkość) (min. 6) i Liczniki [Vibration] równe połowie tej wartości (zaokrąglając w górę; w przypadku Anomalii — 1 Partię; maks. 1 raz na falę).",
+      "kr_sha256": "dac1d412452dfecfa544ce33e7345d5d0d63c1bf9743abc04d4d3637ce224c06",
+      "en_sha256": "f653878d4f6b6b87693603ed54682c15acde49fd5e10dc078785979451b7e5c7",
+      "origin": "ai"
+    },
+    "dataList[id=2044].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ E",
+      "kr_sha256": "073766ca8f5e01c39d8199293118b7c9873c74b82f7ce0cd2b32c978f6ebbc12",
+      "en_sha256": "ee17541915d2f1811ad7be1f86801653d2f8f98f64bd956383c256b50f812642",
+      "origin": "ai"
+    },
+    "dataList[id=2044].simpleDesc[abilityID=20441].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(Moc [Vibration] celu)% obrażeń i nakłada 2 [DefenseDown] za każdym razem, gdy zadaje obrażenia",
+      "kr_sha256": "acfd9d8463f1a11e02a58dfc64174a753f6f45dd2ab19a0f40496ce63ff558cb",
+      "en_sha256": "2b5e7fa2b2a89665f039808d3d70447f5ad2ec7b409810ae7e7e8b277192c969",
+      "origin": "ai"
+    },
+    "dataList[id=2044].simpleDesc[abilityID=20442].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada (12-bieżąca Szybkość) Moc [Vibration] i połowę tej wartości Licznika [Vibration]",
+      "kr_sha256": "493030d3fb4b2d4eea641798647121b4b03a40ec82a2485a712a17837e9ba7df",
+      "en_sha256": "2af3cce089b37d0eef834a4f8a31b25834a1d969577138bc8892c83d8338e1ff",
+      "origin": "ai"
+    },
+    "dataList[id=2044].simpleDesc[abilityID=2044].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet +2 i zadaje +25% obrażeń",
+      "kr_sha256": "819a563a3369e2633832ea16cdb07202c917f35099eb6cb4cc840c44b0ac1dfa",
+      "en_sha256": "a236b015d0378e651ff243e64d29819bda5d68cf9507eda2fa08579ef0440427",
+      "origin": "ai"
+    },
+    "dataList[id=2045].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nUmiejętności 3 sojuszników nakładających Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs zyskują Moc Monet +2 i zadają +25% obrażeń.\n\nJeżeli Tożsamość należy do Jurodiwi, efekt jest wzmocniony: Umiejętność 3 zyskuje Moc Monet +2 i zadaje +(25 + suma Mocy [Vibration] i Liczników [Vibration] celu, maks. 100)% obrażeń.\n\nTożsamości Jurodiwi zwiększają na początku tury własne Liczniki [Vibration] o 3.",
+      "kr_sha256": "b2bc3706e5bdc630ef76e01d8c8313cac38640588563c815c4b35be7601033ca",
+      "en_sha256": "bc18d572f00c956ff58c4da6a345e36da8ba23fa5180994f20063da51cd8b812",
+      "origin": "ai"
+    },
+    "dataList[id=2045].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ Y",
+      "kr_sha256": "e412d303e0142b5093e81e46b6a201aee9fda3874be8787b94a78e0040f82e7c",
+      "en_sha256": "f026544e8f66c645826bd7b848f38974fe52d3790e2c52db3faadd8532940e4b",
+      "origin": "ai"
+    },
+    "dataList[id=2045].simpleDesc[abilityID=20451].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet +2 i zadaje +(25 + suma Mocy [Vibration] i Licznika [Vibration] celu)% obrażeń",
+      "kr_sha256": "881aa7ab830a8ac16847184f64287219cbe2708afca524c9a9ad7c21aa344354",
+      "en_sha256": "58b1b9407736a6b547d276cbda9d6f5a907e243d12d636ca00a4b3f693b32f97",
+      "origin": "ai"
+    },
+    "dataList[id=2045].simpleDesc[abilityID=20452].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje +3 Licznika [Vibration]",
+      "kr_sha256": "4798fd74b9240bd384c5033c348b384d9c8a7a56ea0daaf72ee8e6cc3170b098",
+      "en_sha256": "65282ec56d18f3371b234e2ad011076fa46166472ad32bf203d9f1b67d8c7c0a",
+      "origin": "ai"
+    },
+    "dataList[id=2045].simpleDesc[abilityID=2045].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet +2 i zadaje +25% obrażeń",
+      "kr_sha256": "819a563a3369e2633832ea16cdb07202c917f35099eb6cb4cc840c44b0ac1dfa",
+      "en_sha256": "a236b015d0378e651ff243e64d29819bda5d68cf9507eda2fa08579ef0440427",
+      "origin": "ai"
+    },
+    "dataList[id=2046].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nUmiejętności 3 sojuszników nakładających Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs zyskują Moc Monet +2 i zadają +25% obrażeń.\n\nGdy sojusznik nakładający Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs prowadzi Starcie z wrogiem o co najmniej 2 Szybkości szybszym od niego, zyskuje Moc Starcia +2 i zadaje +(Moc [Vibration] celu, maks. 50)% obrażeń.\n\nNa początku tury 3 najwolniejsi sojusznicy zyskują, w kolejności od najwolniejszego, 5 [AttackUp], 3 [AttackUp] i 2 [AttackUp].",
+      "kr_sha256": "b510941f3ad6f49f8a64c14e125d1dcda61b0397435da568e96e6d5556755c55",
+      "en_sha256": "dbb7375b0b093f46ca26e3a5e963b02798b688d95fb5197e50bc82aad404a41b",
+      "origin": "ai"
+    },
+    "dataList[id=2046].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ P",
+      "kr_sha256": "7281f9ea80b0bc528c1a35c3aeeaf19bfa877d8a198c5be4aa80ec019abb19c1",
+      "en_sha256": "9ed063aa720fed3172e8d09183730676d407728203c9b26e80030240e4b68895",
+      "origin": "ai"
+    },
+    "dataList[id=2046].simpleDesc[abilityID=20461].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia +2 i zadaje +(Moc [Vibration] celu)% obrażeń",
+      "kr_sha256": "7870c68c0c8d2511f62ca637f51002de3bcb1fafae90057738770ae325ade45d",
+      "en_sha256": "074122a11d6c661b4fe4ad7eef85fb94f30019534ce8b4ec6ef8d5700446c9d3",
+      "origin": "ai"
+    },
+    "dataList[id=2046].simpleDesc[abilityID=20462].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [AttackUp]",
+      "kr_sha256": "50f7002497c52e9a32973115982fe05d7390456c25ffaee63de7164faadd242d",
+      "en_sha256": "e5f09d6b92e123e9e729b26d07ce7abedf8460a08d65f52afbbf5561566c0f29",
+      "origin": "ai"
+    },
+    "dataList[id=2046].simpleDesc[abilityID=2046].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet +2 i zadaje +25% obrażeń",
+      "kr_sha256": "819a563a3369e2633832ea16cdb07202c917f35099eb6cb4cc840c44b0ac1dfa",
+      "en_sha256": "a236b015d0378e651ff243e64d29819bda5d68cf9507eda2fa08579ef0440427",
+      "origin": "ai"
+    }
+  }
+}

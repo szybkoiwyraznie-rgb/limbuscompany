@@ -1,0 +1,220 @@
+{
+  "entries": {
+    "dataList[id=910401].desc": {
+      "pl": "Po długiej podróży tunelem dotarliśmy wreszcie nad tak zwane Wielkie Jezioro.\nNa widok rozległego błękitnego brzegu Grzesznicy z przejęciem zaczęli snuć plany plażowego wypoczynku.\nTylko… czy naprawdę przyjechaliśmy tu odpoczywać?",
+      "kr_sha256": "cc43245aca9207a1dd0a594bbe160e6d7eeb30f75ebda752066bf1bc6a216019",
+      "en_sha256": "e9bcdab45b48d7a263bd827e73e42d2e0d33d1d17bffa582d10276b23efcc424",
+      "origin": "ai"
+    },
+    "dataList[id=910401].place": {
+      "pl": "Wnętrze Mefistofelesa",
+      "kr_sha256": "a3064f2606c0d998f9aef2cb12b6518b9481c365a1ac5b60a98ff284bff19685",
+      "en_sha256": "a8d5f19555ad0bd2be4274f16f1301b15dc2ee845ddcdade3130106a8e3077bb",
+      "origin": "ai"
+    },
+    "dataList[id=910401].title": {
+      "pl": "Morze!",
+      "kr_sha256": "ea2bb8ab9b6cd3683d46e58462494baf46e7b60c656bb8991511498a09a4b5e0",
+      "en_sha256": "2a9a42c38219e396db55c4f0eb9ba3730194f1d547dba01fc5634b4106dd1a70",
+      "origin": "ai"
+    },
+    "dataList[id=910402].desc": {
+      "pl": "Oczywiście wylądowaliśmy pośrodku lepkiego, cuchnącego zielonego błota.\nWokół piętrzą się góry złomu naniesionego nie wiadomo skąd, a błękit wody majaczy w oddali niczym nieosiągalne marzenie.\nCo my tu właściwie mamy robić?",
+      "kr_sha256": "886b560aacdd211b503525370170b079469791174a5e6aa3eea2ca59394ab2a9",
+      "en_sha256": "d047ea9d55848d7b602af71b5c2e805f200a4060e91e342c4ac03fd2a3d6818c",
+      "origin": "ai"
+    },
+    "dataList[id=910402].place": {
+      "pl": "Zaułki Dystryktu 21",
+      "kr_sha256": "05a22e6e2ae6ab7dcb9bd5c85c51a278715c1ab44121ac9dce7bf4fad2811b33",
+      "en_sha256": "95c66a5e61b49fd9289a5f59af1e2b7ab5256ea2cc342a5db93f628ca4aa241a",
+      "origin": "ai"
+    },
+    "dataList[id=910402].title": {
+      "pl": "Złomowisko na Mieliznach",
+      "kr_sha256": "74f79b479d1167a4db3b54702bfa546e703dfa7e4e41bf2fd7b3840f2c99c9c4",
+      "en_sha256": "84a745859b9f1c7c4daf8356238e958e59dc965517743bad16a99ed14f196c19",
+      "origin": "ai"
+    },
+    "dataList[id=910403].desc": {
+      "pl": "W hałdach odpadów czaiły się stworzenia przypominające kraby oblepione rozmaitym żelastwem. Sądząc po słowach Ishmael, słyną z nich tutejsze Zaułki U Corp.\nSwoją drogą, Ishmael od rana chodzi posępna… O co może chodzić?",
+      "kr_sha256": "f7947b0915b0dbe21d7c5bfcadeff2491269ce1c50d966f547221a1a2616867f",
+      "en_sha256": "fc8506d6b38107c51d7b61b0a4a9afc64bd2944e9bd10c3efe5ef02795118766",
+      "origin": "ai"
+    },
+    "dataList[id=910403].place": {
+      "pl": "Zaułki Dystryktu 21",
+      "kr_sha256": "05a22e6e2ae6ab7dcb9bd5c85c51a278715c1ab44121ac9dce7bf4fad2811b33",
+      "en_sha256": "95c66a5e61b49fd9289a5f59af1e2b7ab5256ea2cc342a5db93f628ca4aa241a",
+      "origin": "ai"
+    },
+    "dataList[id=910403].title": {
+      "pl": "Złomokraby?",
+      "kr_sha256": "04e821aae455a7681a4e18e50005a4f8d52c313711aa90fb15fab6471e93202f",
+      "en_sha256": "1a95f2b0eb7ea2aea0a7bba104974276f4ea0a1538d5228d31990f4153d41840",
+      "origin": "ai"
+    },
+    "dataList[id=910404].desc": {
+      "pl": "Dwójka imieniem Mika i Rain najwyraźniej już na nas czekała — widać LCCB uprzedziło ich o naszym przybyciu.\nAby dotrzeć do kolejnego celu, musimy przebudować tutaj Mefistofelesa.",
+      "kr_sha256": "7852543ecd49fdd041bd785766d4c7f981256c249a2e0c32fc3953cba4bf8b17",
+      "en_sha256": "4bf0f6208d85347c0ca8b975902117ae396abe4244a40139e06a8914d331f76f",
+      "origin": "ai"
+    },
+    "dataList[id=910404].place": {
+      "pl": "Warsztat Szkutniczy Molar",
+      "kr_sha256": "095a30dfe608eb3aca6bac6fb8816163c4631feecd84da05a77eddc076264cad",
+      "en_sha256": "38e6f485430e15c5b75ee2c6e81bd1e97ab1489c2dfa7080f9fc89bbaa20d7a1",
+      "origin": "ai"
+    },
+    "dataList[id=910404].title": {
+      "pl": "Ekipa z Warsztatu Szkutniczego",
+      "kr_sha256": "0ddaf012d51db68df3e52b914a595ecd43c2853a6edef72b0f0fd663ad919a1a",
+      "en_sha256": "beec1bb31ff98dfbfb5326e2757f467c75127380253611041dfc0e35dd6d44b6",
+      "origin": "ai"
+    },
+    "dataList[id=910405].desc": {
+      "pl": "Pora nazbierać złomu i przerobić autobus na łódź.",
+      "kr_sha256": "49e264e6d9ca90c51141a07c8e7223bbcb113d682f32f69e09821fc7af56d1c5",
+      "en_sha256": "2616ee06ec885263eb310f860c16d00747318b40aabb9b3f792d444ca967361a",
+      "origin": "ai"
+    },
+    "dataList[id=910405].place": {
+      "pl": "Zaułki Dystryktu 21",
+      "kr_sha256": "05a22e6e2ae6ab7dcb9bd5c85c51a278715c1ab44121ac9dce7bf4fad2811b33",
+      "en_sha256": "95c66a5e61b49fd9289a5f59af1e2b7ab5256ea2cc342a5db93f628ca4aa241a",
+      "origin": "ai"
+    },
+    "dataList[id=910405].title": {
+      "pl": "Czas Zbierać Złom!",
+      "kr_sha256": "c520c23759480c9ba3fd0b65b5e74f7437cfade4adb2306a2af3b33349c71e0c",
+      "en_sha256": "f6e50e45ebf43fd3f2778119e5d0fb509ce39b7d95376ae303e972079817ed26",
+      "origin": "ai"
+    },
+    "dataList[id=910406].desc": {
+      "pl": "Zebraliśmy wreszcie dość części, by ruszyły prace nad przebudową autobusu.\nCiekawe, czy dostaniemy chwilę wytchnienia?\nJeśli tak… powinienem w tym czasie porozmawiać z Ishmael.",
+      "kr_sha256": "a01e4eb1a072915873d3d2c5df35d5636bc8a76d1060fcf491fb5f709f811bd2",
+      "en_sha256": "7a14d202065f0b956ac65fa5fbcd189d63663708e0fba619118174987a33fbf2",
+      "origin": "ai"
+    },
+    "dataList[id=910406].place": {
+      "pl": "Warsztat Szkutniczy Molar",
+      "kr_sha256": "095a30dfe608eb3aca6bac6fb8816163c4631feecd84da05a77eddc076264cad",
+      "en_sha256": "38e6f485430e15c5b75ee2c6e81bd1e97ab1489c2dfa7080f9fc89bbaa20d7a1",
+      "origin": "ai"
+    },
+    "dataList[id=910406].title": {
+      "pl": "Prowizoryczna Przebudowa",
+      "kr_sha256": "033ea9fa87911753f3d1c0bccfa3155469d22e9e7d9687b69255c5a91ee73fed",
+      "en_sha256": "965b21abbf87eb689f1dab742a9d157d17594608731c5c214c58f6a43c5bc140",
+      "origin": "ai"
+    },
+    "dataList[id=910407].desc": {
+      "pl": "Zastanawiając się, jak załagodzić narastający rozłam między Ishmael a resztą Grzeszników, za radą Don Quixote i Yi Sanga zarządziłem mecz siatkówki plażowej.\nOby wspólny ruch zbliżył wszystkich do siebie.",
+      "kr_sha256": "4c391da2998f51b65e84e5d9712ae99143bfb790569cdeefda590ff47afca7a7",
+      "en_sha256": "bed685fdd2cd63fc8ccb43327ef96a39a1777639fda3ba77a49245fb872fb583",
+      "origin": "ai"
+    },
+    "dataList[id=910407].place": {
+      "pl": "Zaułki Dystryktu 21",
+      "kr_sha256": "05a22e6e2ae6ab7dcb9bd5c85c51a278715c1ab44121ac9dce7bf4fad2811b33",
+      "en_sha256": "95c66a5e61b49fd9289a5f59af1e2b7ab5256ea2cc342a5db93f628ca4aa241a",
+      "origin": "ai"
+    },
+    "dataList[id=910407].title": {
+      "pl": "Siatkówka… Plażowa?",
+      "kr_sha256": "2ec5d98b55154e397f40b0f29a918a3691e59957e84e9e8944f579f7e77736f7",
+      "en_sha256": "b99e9203607bd874fbef3f944cdd020fb547df58b7e7e06ac7edb30efdf9cf9a",
+      "origin": "ai"
+    },
+    "dataList[id=910408].desc": {
+      "pl": "Wbrew nadziejom… siatkówka plażowa zakończyła się kompletną klapą.\nWszyscy z posępnymi minami walczą ze Złomo<size=110%>krab</size>ami.\nChyba… muszę wreszcie zabrać głos.",
+      "kr_sha256": "6b34fb1336b702ec629e809e122fa409d243b0f67be0c7ce9ca1bebef83ace55",
+      "en_sha256": "87b20fa24dbbde0b8518cbd033a158a3c99b92a9dc148d49d7744773f9ef6961",
+      "origin": "ai"
+    },
+    "dataList[id=910408].place": {
+      "pl": "Warsztat Szkutniczy Molar",
+      "kr_sha256": "095a30dfe608eb3aca6bac6fb8816163c4631feecd84da05a77eddc076264cad",
+      "en_sha256": "38e6f485430e15c5b75ee2c6e81bd1e97ab1489c2dfa7080f9fc89bbaa20d7a1",
+      "origin": "ai"
+    },
+    "dataList[id=910408].title": {
+      "pl": "Rozłam",
+      "kr_sha256": "73b1ccbfb1f2b2f9399b42fd4a28cfdc8b6732fc7b19db5026c7936cc9ecd7d5",
+      "en_sha256": "caa74c0543e24a1abb9a3edcacb1665f2ad5f668b59b5b3d052c48c0cdafb8a5",
+      "origin": "ai"
+    },
+    "dataList[id=910409].desc": {
+      "pl": "Nastrój jest bardziej ponury niż barwa tutejszego błota…\nMimo to musimy dalej zbierać złom.",
+      "kr_sha256": "2398f01eef215dd12716d47b145518cfbab0ca883bf8c8b54783e08ab8c3c199",
+      "en_sha256": "489d1ebbc089d07a03e45e1a120800786e4695ae887b9e346e0dd43f00f3d9cc",
+      "origin": "ai"
+    },
+    "dataList[id=910409].place": {
+      "pl": "Zaułki Dystryktu 21",
+      "kr_sha256": "05a22e6e2ae6ab7dcb9bd5c85c51a278715c1ab44121ac9dce7bf4fad2811b33",
+      "en_sha256": "95c66a5e61b49fd9289a5f59af1e2b7ab5256ea2cc342a5db93f628ca4aa241a",
+      "origin": "ai"
+    },
+    "dataList[id=910409].title": {
+      "pl": "Czas Zbierać Złom…",
+      "kr_sha256": "ac08015cb7787f409967d9404b963182d9430dc0bb093f44c07a431f2cbe8baf",
+      "en_sha256": "6e501b6aebbd999e7253b821781e8d5ac5cdaa769e47db6344b0e284d09886d9",
+      "origin": "ai"
+    },
+    "dataList[id=910410].desc": {
+      "pl": "Na zbieraniu kolejnych gór złomu minęło kilka następnych dni.\nPrzyglądałem się z oddali pracującym Grzesznikom,\ngłowiąc się, co począć z Ishmael i Heathcliffem…",
+      "kr_sha256": "0225192249d9fa8e7cabaee9fbabff1b7d7a42b5108f78fee813d4019b90f39d",
+      "en_sha256": "0573cf36de8394fe79b21f099cd0d635e85f5e983b5d6ad53d61eb4856e671eb",
+      "origin": "ai"
+    },
+    "dataList[id=910410].place": {
+      "pl": "Warsztat Szkutniczy Molar",
+      "kr_sha256": "095a30dfe608eb3aca6bac6fb8816163c4631feecd84da05a77eddc076264cad",
+      "en_sha256": "38e6f485430e15c5b75ee2c6e81bd1e97ab1489c2dfa7080f9fc89bbaa20d7a1",
+      "origin": "ai"
+    },
+    "dataList[id=910410].title": {
+      "pl": "Niezręczny Czas",
+      "kr_sha256": "ce248efff8e228ee4af5951bb87fc232f1436909af6d2da763b7a81dd3547651",
+      "en_sha256": "972ee07dec307866161fb679377e064c86470e0d21ad5d2182e2cca58b9060a8",
+      "origin": "ai"
+    },
+    "dataList[id=910411].desc": {
+      "pl": "Choć między nami wciąż nic się nie wyjaśniło, przebudowa Mefistofelesa dobiegła niemal końca.\nMika z poważną miną poprosiła, bym zebrał wszystkich na rejs próbny.\nCieszę się z ukończenia prac… ale czy naprawdę możemy ruszać dalej w takim stanie?",
+      "kr_sha256": "60db0cf6f8716455139ab2f7b3c74244949ca800aaedfa2d22e826f7a5e1a246",
+      "en_sha256": "f0ea435bcc9623372c9d0327c46cc83b1e5afc22990b4de72e07c35a5ee29976",
+      "origin": "ai"
+    },
+    "dataList[id=910411].place": {
+      "pl": "Warsztat Szkutniczy Molar",
+      "kr_sha256": "095a30dfe608eb3aca6bac6fb8816163c4631feecd84da05a77eddc076264cad",
+      "en_sha256": "38e6f485430e15c5b75ee2c6e81bd1e97ab1489c2dfa7080f9fc89bbaa20d7a1",
+      "origin": "ai"
+    },
+    "dataList[id=910411].title": {
+      "pl": "Ostatnia Część",
+      "kr_sha256": "87bef299d19f809c8bb7e3fbf31fb39fc4ac27a2042c69209fccaed3ce8f306a",
+      "en_sha256": "4392687ce2d91f8cc5de0cce412a79391716c24287345526db0159987c5ee359",
+      "origin": "ai"
+    },
+    "dataList[id=910412].desc": {
+      "pl": "Pokonajmy Króla Złomo<size=110%>krab</size>ów i zdobądźmy wielki kawał złomu.",
+      "kr_sha256": "11aabb75089cee554d483d35ca38f64a28522b90475a20afa1317c36dce1262c",
+      "en_sha256": "1476cd9861d5781639e011fe791a12669673781c7c808c15fa4ed7359074e730",
+      "origin": "ai"
+    },
+    "dataList[id=910412].place": {
+      "pl": "Zaułki Dystryktu 21",
+      "kr_sha256": "05a22e6e2ae6ab7dcb9bd5c85c51a278715c1ab44121ac9dce7bf4fad2811b33",
+      "en_sha256": "95c66a5e61b49fd9289a5f59af1e2b7ab5256ea2cc342a5db93f628ca4aa241a",
+      "origin": "ai"
+    },
+    "dataList[id=910412].title": {
+      "pl": "Polowanie na Króla Złomokrabów",
+      "kr_sha256": "952d865fcf96171f284b1f7d51a8b2a523d2cc66cec1be24c9fbadbcb3316965",
+      "en_sha256": "adeb25dde0295c55771ef361a5646d30cf5dbd1e8e54908eb7b2708055111b83",
+      "origin": "ai"
+    }
+  }
+}

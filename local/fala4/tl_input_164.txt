@@ -1,0 +1,96 @@
+15945||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저희가 5층으로 갈 방법에 대해서도 알려주시는 건가요?|And you'll also tell us how to reach the fifth floor, yes?
+15946||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 응… 나는 집으로, 너희는 5층으로.|Mhm... I go home, and you go to the fifth floor.
+15947||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나를 따라와.|Follow me.
+15948||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 탁탁탁.|*tap* *tap* *tap*
+15949||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 여기야. 여기.|Here, here.
+15950||RPGSystem#rpg-loc-dialogue-floor-4-b.json] … 너희들도 들리지?|... You hear it too, don't you?
+15951||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뭐… 뭐가 말이오?|H-hear what...?
+15952||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 집으로 가는 길을 알려주는 속삭임 말이야. 이 신발의 고동 소리가 빨라지고 있잖아.|The whisper guiding us home. Don't you hear it? The heartbeat from the shoes—it's quickening.
+15953||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자, 여기서… 신발을 부딪힌다, 세 번.|Now, this spot... is where I'll clap the heels together. Three times.
+15954||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그자의 신발이 맞부딪히자…|As the heels of the shoes struck each other...
+15955||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 벽에서부터 어딘가로 통하는 입구가 보였다.|An opening appeared in the wall, leading somewhere beyond.
+15956||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그대가 집에 갈 수 있는 길이… 정말 이곳이 맞다는 건가?|Art thou certain... that this truly be thy homeward road?
+15957||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 응, 이곳은… 미아보호실.|Mhm. This... is the Lost Child Center.
+15958||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 집에 가지 못하고 길을 잃은 아이들이… 모이는 곳…|A gathering place... for children... lost on their way home...
+15959||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 기다리고 있을게.|I'll be waiting.
+15960||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 집으로 가려면 아낌없이 나눠주던 자의 심장이 필요해…|I need the heart of the giving soul to go home...
+15961||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 찾는다면 내게 알려줄래?|Can you please let me know when you find it?
+15962||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이 층에 있는 가구관으로 가면 찾을 수 있을 것 같습니다, 관리자님.|The heart is likely in the Furniture Hall on the same floor, Manager.
+15963||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …꽃 향기들이…|... It smells of flowers...
+15964||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 흔적도 없이 사라진다면…|If only we can all vanish without a trace...
+15965||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그래서 우리 모두가 흙으로 돌아갈 수 있다면…|If only we can all return to the earth...
+15966||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그렇다면 나를 보고 울고 있던 그 사람의 얼굴도 다시 볼 수 있게 되겠지.|Then I'll get to see their face again... The one who wept for me.
+15967||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 보랏빛 꽃잎들이 우리를 집에 데려다 줄 거야…|The violet petals will take us all back home...
+15968||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <환상체까지… 이곳에…>|<There's an <i>Abnormality</i> in here...?>
+15969||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 환상체의 잔해 위에는… 신발처럼 생긴 것이 가지런히 놓여있었다.|Something resembling a pair of shoes was placed neatly atop the Abnormality's remains.
+15970||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그게… 5층으로 향하는 열쇠였어…|There you go, the key... to the fifth floor...
+15971||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …죽을 걸 알면서 이곳으로 오신 건가요?|... You came here knowing that you'd die?
+15972||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아… 향기로워.|Ah... What a sweet scent.
+15973||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나는… 미아들과 함께… 무덤으로… 돌아가리…|I will... go back to the grave... with the lost... children...
+15974||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저자… 저희에게 5층으로 향하는 방법에 대해서 아직 알려주지 않았습니다, 관리자님.|She... has not yet informed us how to reach the fifth floor, Manager.
+15975||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …안쪽으로 사라졌어. 저 깊은 곳으로.|... She was taken that way. Deeper in.
+15976||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그럼 저자를 구하기 위해 가보면 될 일일세.|Then we need only venture further to her aid!
+15977||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …너희도 위험할 수 있는데.|... This might be dangerous for you, too.
+15978||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 물론, 이 또한 모험이니까!|Verily, I say, for no adventure is without peril!
+15979||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <에스컬레이터로 가는 길이 막혀있네.>|<The way to the escalator is blocked.>
+15980||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 우선… 근처의 매장을 가보는 것이 적합할 것 같습니다.|It would be reasonable to explore the nearby stores first.
+15982||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어서 오세요, 매장이 조금 정신없죠? 오픈 한지 얼마되지 않아서 새롭게 페인트 칠을 하는 중이었어요.|Welcome! Come right in. Excuse the mess; we've only just opened—so we've been repainting the interior.
+15983||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 보다시피 움직이는 르누아르들이 많으면 벽지가 매끄럽게 발리지 않아요. 미관상 보기에도 좋지 않죠.|As you can see, the wallpaper won't stick smoothly when too many Noirs keep moving beneath it. The finish is far from the ideal interior design, too.
+15984||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저희 브랜드는 런칭한 지 얼마 되지 않은 브랜드예요. 6층에 계시는 모델, 브리앙님과도 최근에 성공적인 콜라보를 성사시켰죠.|Our brand is, well, brand new. Despite that, we recently completed a successful collaboration with Briand, the model on the sixth floor.
+15985||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 매장만 무사히 오픈이 된다면 르루주 최고의 가방관이 될 거예요.|If I can ensure this establishment opens without issues, it might become the best Handbags Hall that's ever been erected by the Rouges!
+15986||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하아… 벽을 바르는 건… 너무 행복한 일이야…|Ahh... Papering the wall... what a pleasing endeavor...
+15987||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저… 에스컬레이터로 가는 길이 막혀있네만.|Um... 'twould seem the path toward the escalator hath been blocked...
+15988||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그게 뭐가 중요한가요? 중요한 건 이 벽이 얼마나 매끄럽게 발리느냐… 그거죠.|And why should that matter? All that matters is how perfectly smooth the wallpaper will look once it's up on the walls.
+15989||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 정말 열중해서 바르고 계시네요.|She's really absorbed in her work.
+15990||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <옆의 직원에게 말을 걸어보자…>|<Let's try speaking to the salesperson next to this one...>
+15992||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …저자는 나를 따르는 자구나.|... This one seems to be my follower.
+15993||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 물론이죠, 그대를 뵙자마자 제 모든 맥박이 당신을 향하고 제 안의 환희가 차오르고 있으니…|But of course! The instant I beheld you, all the blood vessels in my body started to thrum for no one else but you. Your presence fills me with rapture...
+15994||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 신실한 르루주라면 모두 당신을 아낄 것이며 당신에게 모든 걸 바치려고 할 겁니다.|Every Rouge who calls themselves faithful will cherish you, worship you, and offer everything at their disposal only for you.
+15996||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이방인들이여, 부디 이 분을 극진히 보살펴 주세요.|Honored strangers, please care for our most precious one with the utmost devotion.
+15997||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그럴 것이라네. 우리는 무려 신발도 신겼지.|That we shall. We have even shod Young Pwie in a pair of shoes.
+15998||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …또한, 부탁이 있습니다. 저자… 르네는 벽을 바라보며 혼잣말을 할 때가 많아요. 물론… 혼잣말 정도는 괜찮죠. 가방 디자인에 대한 뼛속 가득한 고민은 모든 가방 디자이너가 짊어져야 할 숙명이니까.|... I have another request. Renée often mutters to herself while staring at the wall. A little self-directed discourse is harmless, of course; every handbag designer is fated to contemplate the great dilemma of design in the marrow of their bones.
+15999||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하지만 르네는… 말이죠…|But Renée, you see...
+16000||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 벽에 얼굴을 가까이 대면서 끊임없이… 끊임없이 혼잣말을 해요. 하… 그런 소름끼치는 짓을 하는 걸 이제는 그만 보고 싶어요.|She likes to press her face against the wall and mutter without end... It's simply incessant. I'd like to stop being an unwilling audience to her hair-raising antics.
+16001||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 처음에는 허기짐을 참지 못하고 벽을 뜯어먹고 있는 거라고 생각했지만… 그것도 아니에요. 그냥 벽에 얼굴을 끊임없이 문대고 있잖아요.|At first, I thought she was taking a bite or two out of the wall, unable to contain her hunger... but no. She's simply rubbing her face against the wall. Never stops.
+16002||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그자가 벽에서 무엇을 보고 있는지… 무엇과 이야기하고 있는지… 여러분이 살펴 봐주실 수 있나요?|Would you be so kind as to inspect what she sees in the wall... and who she's speaking to?
+16003||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그리고 나면… 에스컬레이터까지 막힌 길을 뚫어드릴 수 있을 것 같아요.|Once that's dealt with... I believe I can clear the path leading to the escalator.
+16004||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …어서오세요.|... Welcome.
+16005||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <벽 사이에서부터… 목소리가…>|<There's a voice... coming from inside the wall...>
+16006||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 햇살이 이곳에 처음 손길을 뻗었을 때부터 나는 한결같이 그 빛을 따르고 있어왔어.|I've been following the sunlight faithfully from the first moment it reached out to this place.
+16007||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그러니 르루주던 르누아르던 눈 앞의 황금가죽에만 정신을 팔리는 건 어리석어. 균열이 온 순간부터… 붕괴의 시절은 곧 도래할 미래였으니까.|That's why the Rouges and the Noirs are both fools for obsessing over the Golden Hide without a care for the future. The collapse of the department store was sealed... when the cracks first appeared on the walls.
+16008||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 만약 나를 매장에서 내쫓을 거라면… 이 양지바른 벽에 나를 묻게 해줘. 햇빛 속에 영원히 머무를 수 있게…|If you're going to kick me out of the shop... at least let me bury myself in this sunlit wall. Let me remain in the light forever...
+16009||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …이방인, 당신들은 어떻게 생각하시나요? 제가 저것에게 자비를 베풀어야 할까요?|... What do you say, strangers? Ought I show this thing mercy?
+16010||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …당신들의 말을 귀담아 듣도록 하죠.|I will lend my ears to your judgment.
+16011||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 벽 속에 묻어주도록 하지. 네겐… 마지막 인테리어 작업이 되겠군.|I'll bury you inside the wall. It will be... your final piece of interior work.
+16012||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 고마워. 나는 이 안에서 햇살을 받으며 반드시 찾아올 고갈을 기다릴 거야…|Thank you. I'll wait in here, basking in sunshine, until everything inevitably dries up...
+16013||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그럴 수는 없어, 르네.|That's a no, Renée.
+16014||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 르네앙 따위를 살려둘 수 없다.|I can't let a vile Néant live.
+16015||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …그래, 햇살은… 따르지 않는 자를 책망하지 않지.|... You do that. The sunlight... never scorns those who do not follow it, anyway.
+16016||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 기다리고, 품어줄 뿐.|All it wants is to wait... and to embrace.
+16017||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 거짓말처럼 더 이상 어떤 소리도 들려오지 않는다.|It's quiet. Like nothing had happened.
+16018||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 찾으시는 가방이 있으면 말씀해주세요. 오픈한지 얼마 되지 않아 전부 신상이랍니다.|Please call me up if you need help finding anything. We've just opened, so our handbags collection is brand-new.
+16019||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 마음에 드는 게 있다면 메보셔도 좋아요.|Don't hesitate to try them and see how they look on you.
+16021||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 새로운 점원을 다시 뽑아야겠네요. 벽을 덧바르는 일은 이제 시키지 말아야 겠지만…|Oh, well. We'll need to hire a new clerk. I suppose I shouldn't assign the next one to wallpapering...
+16023||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …머지 않았단다, 아이들아.|... It's not long now, my children.
+16024||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …혐오스러운 것이 귀찮게도 구는군.|... What a tiresome little abomination.
+16025||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 마침 잘됐어. 에스컬레이터를 타고 싶다면… 배회하는 마네킹들에게서 황금 재료를 가져와주게.|Well, this might prove convenient. Bring me golden materials from the roaming mannequins if you wish to know the way there.
+16026||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 내가 요구하는 만큼 가져와 준다면, 못 알려줄 것도 없지.|Get me enough of what I ask for, and I may tell you.
+16027||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…부탁을 들어주자.>|<... Let's do as he says.>
+16028||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 백화점에서 무엇보다 가치 있고 사랑스러운 존재들로 태어나기 위해…|Soon, you will be born as the most precious and beloved beings in this department store...
+16029||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …안녕하세요, 여기 에스컬레이터까지 가는 방법에 대해 아시나요?|... Hello. Do you happen to know how to get to the escalator of this floor?
+16030||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …알더라도 의미는 없지. 에스컬레이터 따위 타면 시끄럽기만 할 뿐이거든.|... Whether or not I know, it would do you little good. Getting on an escalator only makes noise.
+16031||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 요란한 쇳소리는 아직 완성되지 못한 아이들의 여린 정신을 갉아먹는다. 아름다운 것들일수록 예민한 법이니.|That vulgar grinding of metal gnaws at the delicate minds of my unfinished children—the more beautiful the being, the more sensitive it is. And they are nothing if not sensitive.
+16032||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아이들이… 어디에 있다는 말인가?|Children, thou sayest...? Where be these children?
+16033||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 곧 깨어날 거야. 이 백화점의 황금 재료만을 모아 탄생시키고 있는 내 걸작들이.|They will wake soon. My masterpieces, born only of this department store's golden materials.
+16034||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이번으로 예순여덟 번째 시도라네. 그러니 분명 성공할 거야. 예순여덟은 좋은 숫자거든.|This is my 68th attempt. Surely it will succeed. 68 is an excellent number.
+16035||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그런 건… 궁금하지 않아.|I don't... care about that.
+16036||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 내가 궁금한 건… 에스컬레이터까지 가는 방법이야.|What I want to know is... how to get to the escalator.
+16037||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이건 내가 한땀 한땀 바느질을 한 원단이야. 질기고 단단하지.|This fabric was sewn stitch by stitch by my own hand. It's tough and resilient.
+16038||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 응응, 내 피부 질겨. 절대 안 뜯어져.|Mmhmm! My skin's tough. It never tears.
+16040||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …아… 빠?|... Pa... pa?
+16041||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 히이이익, 눈 앞에 보이는 것들이 너무 추해요, 제 눈을 가려주세요, 아버지…|Eeeek! Those uggos are burning my eyes! Shield my eyes, Papa...
+16042||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이제 최고, 되었어?|Are we... the best pieces now...?
+16043||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아이들이라는 게… 저 가방들이었군?|The children he meant... were those bags?
+16044||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그런데 누구를 보고 추하다고 말하는 겐가?|Who might these "uggos" be?
+16045||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저희인 것 같아요.|I think they mean us.
+16046||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <백화점에 올 때부터 한결같이 들어오던 소리였지…>|<Just another variation of the unsolicited fashion advice we've been getting since entering this department store...>

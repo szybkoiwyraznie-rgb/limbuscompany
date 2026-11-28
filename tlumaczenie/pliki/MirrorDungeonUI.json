@@ -1,0 +1,256 @@
+{
+  "entries": {
+    "dataList[id=dungeon_final_area].content": {
+      "pl": "Ostatni osiągnięty obszar",
+      "kr_sha256": "f67da39c6adb3394ee2d1d63bad7f4520183fd80403ede1137ea82f014e426f5",
+      "en_sha256": "321e0dd40e049427537721ad0f9f24c626f2f70e8e2489dbbd4e41c0b9d6f56e",
+      "origin": "ai"
+    },
+    "dataList[id=explore_dungeon_finished].content": {
+      "pl": "Wyprawa ukończona",
+      "kr_sha256": "6c18e927863031d2907e2cdd3a5a5221cf5ed031d1fa03165179182f0fdc2af9",
+      "en_sha256": "175de5cc477d99267d7714dea31f928927522a2c75b46d69cf3541d938f44b3b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_error_desc].content": {
+      "pl": "Dane zostały utracone z powodu błędu serwera.",
+      "kr_sha256": "07e3d6e47405c97d5a1562363a8c75729e24288612179bdf3cb9d8d33687f17b",
+      "en_sha256": "440bc558b13fad6f0995afde140bd46ed6cd8fe139cfe902166b9b234f7cea5d",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordunge_achievement_history_button_label].content": {
+      "pl": "Projekcja Lustra / Osiągnięcia",
+      "kr_sha256": "f9151fe3cf1b71fa7ae37837776ae54a8a9be8611a673c6a4112a9802c2ab76d",
+      "en_sha256": "8b1bc193e9b8b140d07b288b1f6eff0295d6eab7fa264b95fd5b441477d41c22",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordunge_ego_gift_history_button_label].content": {
+      "pl": "Kompendium Darów E.G.O",
+      "kr_sha256": "ca7d3ca26b161f2370a4be7e54f476ad8baea6e16a23aff361d8528d040d26c2",
+      "en_sha256": "d7adb32dd19ed77dcfa25e6cc6626797eccf7a4685d01b89466e1fcb472e7bc2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_ego_gift_popup].content": {
+      "pl": "Zdobyto Dar E.G.O!",
+      "kr_sha256": "8b0bac37c1d9aaafdd98a98e437bebd11617a85c6166bbf7d612afade4e932a0",
+      "en_sha256": "0eea61a2291a438f9979eced4b75c59f7935cfef110ee6e75e9205bfe6963fd2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards].content": {
+      "pl": "Odbierz nagrody",
+      "kr_sha256": "bb40c01b6cac5081c0ed8e9fff86d9e3de44ee26f3d12530946347feda229ed5",
+      "en_sha256": "07c5bb625e05c9a04778398074a5e72201cbc8f52784c5ba6987d398dcead78a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_additional_exp].content": {
+      "pl": "Dzienna premia PD Przepustki",
+      "kr_sha256": "5ecd963c17072825496180d47e177a49eff5dd7a7ceb3bb98d42d8163b96b559",
+      "en_sha256": "edbac9d982989e70d05ab1fbd3c9e75f1e690ad41c4fb3fe9fe7e01e49803da8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_additional_exp_weekly].content": {
+      "pl": "Tygodniowa premia PD Przepustki",
+      "kr_sha256": "3d5446a90b14f502153e47136f581cd979a8d53ae30d980623d76d2c7601122d",
+      "en_sha256": "955ede963268eb6ddfb8a185bb7af5b963f26adeb8d93916df73981cec9b3446",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_after_levelup].content": {
+      "pl": "Ukończono etap {0}",
+      "kr_sha256": "6ebdf44c9230706778e76760716ec29726a872fa54eb4249bb8c365d1a7c37da",
+      "en_sha256": "0e34e078f6f42cd379d88ecdddd8f4c83937cf1683d89bf9c17aedb7ae2aae1e",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_already_in_member].content": {
+      "pl": "W drużynie",
+      "kr_sha256": "3cb66cfe321febe34cc1696dd02f9aad8c2626ae9b94d61599136f272dd6a82b",
+      "en_sha256": "2d8cde6c6cdeac91a6aa955b4daf65ed07147a6d1f5a1763bb2ea7c77cb2752b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_ask_select_character_level_up].content": {
+      "pl": "Pozostałe wybory rozwoju Tożsamości",
+      "kr_sha256": "885bf14d9ebaffa43afbef7d5ad965f588654355bcb09cf41f7c412bec73bada",
+      "en_sha256": "4e2c03d1a221c8e6f3eeff46355b5bdf518f4e6d22717e1ab5687f079ddd5d25",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_daily_free].content": {
+      "pl": "1 raz dziennie za darmo",
+      "kr_sha256": "abad229d4cad0c96fe03317c3c8d95d4d27402c18143effc7a81b12bbff9fef1",
+      "en_sha256": "552ce73c6faccf4563b134aee72cb09913e45e21e3756db5788eece31f3e2c0c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_dungeon_name_simulation].content": {
+      "pl": "Symulacja: {0}",
+      "kr_sha256": "958546e73adbf34bb35d08855af74cf078fdf8e5980fcbb98f6df7abfc7f44f4",
+      "en_sha256": "a74e410a68b8ff15bbd8c2352b98dbd2072189b44d4488e5c3b917296ab1cbe5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_entrance_quit_former_simulation].content": {
+      "pl": "Zakończyć bieżącą symulację?",
+      "kr_sha256": "b254258c1aacb5f2ba129e438e32e29dfd68e85c46972b08a104303cfc3781ab",
+      "en_sha256": "1ea99fcbd6c0bc8aed69d4c3f87d5528aa196826b9fe5371af66fac28fd81158",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_participated].content": {
+      "pl": "Bierze udział",
+      "kr_sha256": "9c2a049f1234b81fb172a7eca3ae7801168fe44d73e17efcc1299a142fba9882",
+      "en_sha256": "554f4235112e7913d82b330dd6811fe82897b453f8f3711c6a87cf5a666298fb",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_progress].content": {
+      "pl": "Wznów wyprawę",
+      "kr_sha256": "dcf9e41d1c971f5b8de0639857201c940634dc62fe530007ff880167d4d53b47",
+      "en_sha256": "d640c7421da066618a39daf4266da5f61f66a9b1afcd626481b831a17064965d",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_progress_rate_simulation].content": {
+      "pl": "Postęp symulacji: {0}",
+      "kr_sha256": "6b2a37f71bf6b51ddac09d6561cfe2280458b89595d282177dd1c0760b82b479",
+      "en_sha256": "ce25d782b43eec91fc355bb4f523a71dd1be3b0e0a455114f7b57689cb9684c8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resume_simulation].content": {
+      "pl": "Wznów symulację",
+      "kr_sha256": "83a47d97f668c3e30c1b16a123d98729801843b7d41be59ae990688b21106ed3",
+      "en_sha256": "1425876edebdddb16872918f1ab17c48104e627c4c6b7d92e9331c44b43acd2b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_select_start_character].content": {
+      "pl": "Wejdź do Świata Lustrzanego",
+      "kr_sha256": "a5b60f00fc1affe66172069360140f122e6a0ba31577e78bdc013c27ea0e25d7",
+      "en_sha256": "29461a445ea4c205405873dada212f5f71efb6e16230043e284c17331933429b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_simulation_info_1].content": {
+      "pl": "◆ Brak kosztu Enkefaliny",
+      "kr_sha256": "7aeddff4f0d8f9764deb874e2c975313a495a818fb15557f7ed95b1806c7a921",
+      "en_sha256": "79cce1995686fdd6cac6d4a484d863b54f8ffb6e4b547f91c8e0dec0d5b0d21e",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_simulation_info_2].content": {
+      "pl": "◆ Brak nagród",
+      "kr_sha256": "ae107b288ed69669e30d60e3274da98566ea908590dd607232f782ed022d868f",
+      "en_sha256": "2bd796d1049b1f98e74d609b9d9eb5fc731afeda3d15332cf8facf203763324d",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_simulation_info_no_use_module].content": {
+      "pl": "◆ Nie zużywa Modułów Enkefaliny",
+      "kr_sha256": "d1b43a45dddeda27e5ef28ecac646dcf9ed4075e2e80b02ead8cf648f0d13c89",
+      "en_sha256": "f7025dcffe05697dbf7f55e51b4be5febc52e8d53fe79b7f5a96e2d382279eee",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_simulation_on].content": {
+      "pl": "! Symulacja w toku !",
+      "kr_sha256": "5a0bed11737d12e625969dfe8530e912567c7fc1f020b11c330087df46c8ffc3",
+      "en_sha256": "dff423c9cf72585b1e7a4caec986a34a900ea3ba347284f4ef8e09e5631b80a6",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_stop].content": {
+      "pl": "Przerwij wyprawę",
+      "kr_sha256": "827cc0ea410a3c08e79a76553e28a1bc9ffcf504fbcd47042383e95bb82c4353",
+      "en_sha256": "40fc7b878fd090217d474afebd1412571899f5aa6ad2ff987ae1b6b6b61059c0",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_stop_simulation].content": {
+      "pl": "Przerwij symulację",
+      "kr_sha256": "c36a55279edc5097a5b8ddf3039f311464eb254df1292fa33e30a153b6da892d",
+      "en_sha256": "2b33df9b3fe8a5967e11812bc166a36ecb011ee8f4b7746d64c05b11586c5273",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_success_to_levelup].content": {
+      "pl": "Wzrost poziomu Tożsamości!",
+      "kr_sha256": "497bd9bb6fea5e93b0b72db5b059ea455f5173dc028047326b576acc6b4eb127",
+      "en_sha256": "a48b3729dd3ba96112752d8a63a1e800ce9d4c413c53f7d7ed468c484b48c410",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_warning_not_equip_ego].content": {
+      "pl": "Nie wyposażono E.G.O.\nCzy mimo to kontynuować?",
+      "kr_sha256": "35ba7d069d9523bca7cc7e6fade7874561a88e90f0418bd1417c04bda7bfbc5f",
+      "en_sha256": "e8f8002824ddb86710f8b5061590db30b0c4d3a2285f37cb8008d972ad9561d6",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_weekly_reset].content": {
+      "pl": "Poprzedni zapis rozgrywki wygasł.\nOdbierz nagrody.",
+      "kr_sha256": "72beb3cac5763a6013b2009f123fdeb971c273639da1e9f901382dc43ca1e6b4",
+      "en_sha256": "f81dd9063d5cbd6f5de73be67d3d66ceb083e9d56cf9b8f38bd05081c77405f5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_weekly_reset_description].content": {
+      "pl": "Tygodniowy zapis został zresetowany.\nPrzejście do Okna.",
+      "kr_sha256": "6925527930aafaec4c8f37cbd02456f97aebe98f32496089c28c3ca6edf28280",
+      "en_sha256": "752099f33f0bd31bfb5649d60d6f9f0be225d40c3ae63f3e3e723dbd8b9655d6",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_able_to_equip].content": {
+      "pl": "Można wyposażyć",
+      "kr_sha256": "3ab03309a616e6b3170f845064b7b6e382d84e2aff4c7e08f2d2e1dd2af380d3",
+      "en_sha256": "bf0664808790c286180bafb2f3c3644dd7bf8d1d27472e33f8838c8c4eb2f0bb",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_acquire_new_character].content": {
+      "pl": "Zdobyto Tożsamość",
+      "kr_sha256": "a664801656f02f3046a898b93d1fa5f25b2a564d3d9dcb540a0364ce700e12f8",
+      "en_sha256": "fad30223c13110676c5a1eb60650bf41ad8d5e0f4aba64a0c20533d42f8f81f4",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_ask_level_up].content": {
+      "pl": "Rozwinąć wybraną Tożsamość?",
+      "kr_sha256": "0dce54ecc92468ee67da2af1c7af737c164979af33d736d151d1eaf5c6bd19f8",
+      "en_sha256": "cc645739e9fa3adea7ffede1744800daf75532acdfb666008ccc2c2fcc0061e8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_continue].content": {
+      "pl": "Kontynuować wyprawę?",
+      "kr_sha256": "0c697b726c9a95694b5e520dbf22e5f2403d0af1e7797b6fae4203db6fcd828a",
+      "en_sha256": "ca4945fb514cfb019ce1d073f85900777d8e05c92dc7a3f1c16674b0e9e7fa70",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_current_reward].content": {
+      "pl": "Bieżące nagrody",
+      "kr_sha256": "4743878fb4c585f0d695c3c788f3bea92e8d069cf064a5e97635fb68299bc81c",
+      "en_sha256": "9bda664d3efa220d0405027643033f1dedab52e5c817f605e4f816acf9cfe982",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_level_up].content": {
+      "pl": "Wybierz Tożsamość do rozwinięcia",
+      "kr_sha256": "5c289dbdeaae02b3caacd50892ca026a8d37d5c363a34884466f2104fb4990c8",
+      "en_sha256": "2fb19013f2623071e2dc20cb01b5d96262e642620b310f42caf8e825f7d9c12c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_level_up_complete].content": {
+      "pl": "Rozwinięto Tożsamość",
+      "kr_sha256": "66af8baaf303dc37d7e75a3d7310e8ee6bf4ad038f91337a8755ac0d01c8bde9",
+      "en_sha256": "8a71a9979d780570c77f81d9d16ecf46246e613ce324dafa251b258862e1d7c8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_select_character].content": {
+      "pl": "Wybierz Grzesznika",
+      "kr_sha256": "f6c50477a11b1e944b8b27bce72c7d4dace9851117c30371e247662909b7801e",
+      "en_sha256": "770b9c6b10864c9c842a8c197d80f59571136b2c9bc25dbf19f46986f0108c5c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeonui_warning_stop_dungeon].content": {
+      "pl": "※ Po przerwaniu wyprawy nagrody zostaną przyznane na podstawie dotychczas ukończonych pięter.",
+      "kr_sha256": "051f2ec9f525749fa236618ccd33099f9b8ff20a55a052020cdb6f64f03293fe",
+      "en_sha256": "98162d74fc253bce361c20acc056157b541cb9cbff727d0bb4e69785bcf0bf29",
+      "origin": "ai"
+    },
+    "dataList[id=participated_personality].content": {
+      "pl": "Użyte Tożsamości",
+      "kr_sha256": "5228e1612cfbe5619af0b9db967e8d5c405f22fadd13efcef493f003118479a5",
+      "en_sha256": "8d4d8fef65ea881d9f2b04af4b3de0161c7664bcbfd69753529446fc85845b4f",
+      "origin": "ai"
+    },
+    "dataList[id=select_ego_gift].content": {
+      "pl": "Wybierz Dar E.G.O",
+      "kr_sha256": "f530ed4cce8291e90bf4155e05604b87f41ebd3a4c7bab200ccac550d9479636",
+      "en_sha256": "0d2fc30708f26ca2ff4c64a521d0ff394fb581529e14ea1c7dea1d302b562dff",
+      "origin": "ai"
+    },
+    "dataList[id=total_progress_rate].content": {
+      "pl": "Całkowity postęp",
+      "kr_sha256": "e2ce54dcea8bd6528dbd09c973cda8866be30374a32e22a5f7b0362c87634cc2",
+      "en_sha256": "970a2e2d58b45b6ef52ebb9543f42a3d10ef0c6f6876908f71fd1bc84775a598",
+      "origin": "ai"
+    }
+  }
+}

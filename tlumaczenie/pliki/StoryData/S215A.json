@@ -1,0 +1,119 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "<Co robimy? Jak będziemy się tylko tak bić…>",
+      "kr_sha256": "a0e8868ca51910a6ea2a758d5f7c27ddce6569e3779458272a99f11089e91d2c",
+      "en_sha256": "ce19f44aaa2a1b1509c1b6c45088e120cdd038df9484dced881dd785f8ac4f5e"
+    },
+    "dataList[id=10].content": {
+      "pl": "Ja żem się aż ciut zachwycił.",
+      "kr_sha256": "f3c8c479579720365781f9638fe5563c2f7e20b1de4291394fb3bad5ab853f88",
+      "en_sha256": "5286203d8ec9e98ada4177842d3970abdd6b52139727b16d86069a4d82c7864f"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ojej, jak ona to tam wykręciła… Czarodziejka ozora czy cosik?",
+      "kr_sha256": "2b1259e51f04ab379c919a44dab02187f28dae4f2dd522ba7b7fd66039dbf4ad",
+      "en_sha256": "f432e0f28c4303a2708e17a64bb9cfadd55580397372ddc1401552225a01c965"
+    },
+    "dataList[id=12].content": {
+      "pl": "Nie. To diabelski ozór.",
+      "kr_sha256": "873e05a42d9902e3fcdf351c9b2de8b82dd8e3a7227fd4ab890a04a8f2aacf8f",
+      "en_sha256": "9bdfd67970d883a9053b209d03e8d6e06f0b71471cdfc81ca19deef9038f08a3"
+    },
+    "dataList[id=13].content": {
+      "pl": "Nawet Heathcliff, który w Zaułkach musiał przejść niejedno, co chwila aż się wzdrygał.",
+      "kr_sha256": "3fa12f2182c182b789b429eddce0b7786334dad78fe10916b72cc17c22b0162d",
+      "en_sha256": "d1056af538281f451073e74f06d1c310912dde5205d754fab9114b706b6fe1fa"
+    },
+    "dataList[id=14].content": {
+      "pl": "Nie sposób nie nazwać tego twórczym. Zaiste, pióro… nie. Język mocniejszy jest od miecza.",
+      "kr_sha256": "baeebc7d63b93b64d80e3b3a878c056d94f0d12e126f4cb35f99c5e73cbaf2f9",
+      "en_sha256": "e52882e694bdfd63f4543ba70b54be246caa2ffaf4d453cbae360ce1b999bbef"
+    },
+    "dataList[id=15].content": {
+      "pl": "Swoje przeżyłam wśród marynarzy, więc myślałam, że do ostrych słówek już przywykłam…",
+      "kr_sha256": "a511ed061e028051608024f7d3618cdf067949ed42878602f31f7babc2111c78",
+      "en_sha256": "983836f53acb7894f37c7d2dcf8feec69d17d8a6e00fa6c72b6714dcadd03b59"
+    },
+    "dataList[id=16].content": {
+      "pl": "A tu proszę. Świat, który znałam, był ledwie czubkiem góry lodowej.",
+      "kr_sha256": "14cf206265a6c0f82f8a43bd01c5c35a7fb3ffd13365722fa6a35e9b264bde65",
+      "en_sha256": "5fae0f630eef8ffa774741e42361e245293e45edd04eeb1c756da29934f99d53"
+    },
+    "dataList[id=17].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=18].content": {
+      "pl": "Zupełnie nie rozumiałam, co sobie myśleli na górze, zbierając państwa w jeden zespół.",
+      "kr_sha256": "dccc5b001279cf97dece9095e2b5684e38f65802a7d3e6896201bd4b39ae8766",
+      "en_sha256": "d9abeeda5b4c018ddbcec82511561b1fdc27ed93093d03393018b578fcc11fb4"
+    },
+    "dataList[id=19].content": {
+      "pl": "Zapewne nie planowano tego z myślą o tym, żeby ktoś to rozumiał.",
+      "kr_sha256": "42b6b54e0fa8dd07683e01f27a4bcda11201e4e9a1d6659a2e9127a27406953f",
+      "en_sha256": "bb230a369a0c07fb4878ec677976dd0c2bd76edaeae09bf094a7b5effb144803"
+    },
+    "dataList[id=1].content": {
+      "pl": "Ku mojemu zdziwieniu Ishmael parsknęła śmiechem.",
+      "kr_sha256": "f1a58d6ec8c1781ec5f80bf424a84e321700e09b601913e509486f686742eb23",
+      "en_sha256": "5dd29bb96dda0b1ba85d211a81db4387d4d6db5900111acc39f409e2e3c0df27"
+    },
+    "dataList[id=20].content": {
+      "pl": "Nadal nie do końca to rozumiem, ale…",
+      "kr_sha256": "1af67deb369f6f9154bff4f4219061569b6117afc2e90242612c2a651f035212",
+      "en_sha256": "e708b62b433e7e39dbb62870f70e518609ab1b9f84ee015ec948ace3c9b5ea12"
+    },
+    "dataList[id=21].content": {
+      "pl": "Tak jak jest… też nie jest źle.",
+      "kr_sha256": "d91219fc46b7ef05e9bc49df5ca9bcda088f2dafd28e07035405141b8a78a180",
+      "en_sha256": "53f59fab2861ed1e1f31a6a400ac7b0e7b7027d8705a361d0ae5efad6e5bc95d"
+    },
+    "dataList[id=22].content": {
+      "pl": "Saude, wygląda na to, że wreszcie pani to zaakceptowała. Gratuluję.",
+      "kr_sha256": "f9482fd1f3aa5a76ccaed27dbe342d37662e27c32a37bdbc65a4408aff3c3943",
+      "en_sha256": "d1031705f0767d157a17907aaedeb04319fe142d41618e0dfb877a7c57fb1f60"
+    },
+    "dataList[id=2].content": {
+      "pl": "Jak to co? Przecież mamy asa w rękawie.",
+      "kr_sha256": "080491ad2519dd3f830657b027f4d4e6622a1465387844e63c9503ec2086e08b",
+      "en_sha256": "660311fee50d34bba736953af157e591b8fbed0fdfead0cbfba7806aed5b03ee"
+    },
+    "dataList[id=3].content": {
+      "pl": "<Mamy?>",
+      "kr_sha256": "3dfa0eaef576e659a35290c4423393ab34c4aff2ea2258bca21e99c59c45ebc6",
+      "en_sha256": "5b8588505054f1376dd3d71ff437c28348e50a686220bcc2427af830d52d4242"
+    },
+    "dataList[id=4].content": {
+      "pl": "Oni jeszcze nie słyszeli ‘prawdziwego’ ozora.",
+      "kr_sha256": "878635ab4fd2fe186b1b2f5780314c82ec6a4e19844edb7647b176e6f3709081",
+      "en_sha256": "106884a67543d5d3942ee3cf2d830cb2c9bdf277a76a28e8195e34dd791ff003"
+    },
+    "dataList[id=5].content": {
+      "pl": "Najpierw porządnie @#$@#$, potem @$#%, a na koniec $#%@#$.",
+      "kr_sha256": "c9ddf8d73d4eb091b0fff8e9b9db0c915ce4823c7326efd10857be3bce6dc656",
+      "en_sha256": "6ee8be15553a6c9464a77d0f90c87baa6adf2738f57f25c9e5af6f8bc1b466ed"
+    },
+    "dataList[id=6].content": {
+      "pl": "Potem @$%@$% trzeba @%$#$^ i wymoczyć w #$#@.",
+      "kr_sha256": "8159c684e3545d4cf7ddba0ddd65e0144aa45f6919b37281729e6755dbb915ef",
+      "en_sha256": "0cbbbc550211731a5d1b6e97328e4a2f0e08ac9fdc5f42c77872d87615ec4883"
+    },
+    "dataList[id=7].content": {
+      "pl": "Na koniec…",
+      "kr_sha256": "b3ed9faff7ad428d44cc9f747a1f5aaecc5c6c556f5107365f8d9238a6da50bb",
+      "en_sha256": "210c9859386dac361f33d7e8c55360def54aba58a8e2fca4d9d85610b121eea6"
+    },
+    "dataList[id=8].content": {
+      "pl": "Czy na świecie mógł w ogóle istnieć opis aż tak szczegółowy, okrutny i potworny?",
+      "kr_sha256": "ce71662e4f3dff1d66b66dea983f9be5adc0f8cf04422471e6c61bbc79599574",
+      "en_sha256": "62d70198cb94b7a27b4ae3c5d35ae40c8b1e88ceb90b287657e8e1c6ad43bb96"
+    },
+    "dataList[id=9].content": {
+      "pl": "Członkowie Tieqiu, zupełnie nie po swojemu, słuchali z błyszczącymi oczami, a kilku nawet robiło notatki.",
+      "kr_sha256": "72595e29afe07ddbc8044373f76040599bb0acae79c95a598f555508ea367a33",
+      "en_sha256": "b0cddab82642e2ac1ff1118fe4169c1ada2a764ae5b49f3619ca20376fce2f03"
+    }
+  }
+}

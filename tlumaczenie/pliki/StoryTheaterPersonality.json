@@ -1,0 +1,1456 @@
+{
+  "entries": {
+    "dataList[id=23GuCooker_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=23GuCooker_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=LiuAsso5_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=P10102].content": {
+      "pl": "Południowa Sekcja 6 Stowarzyszenia Seven: historia Yi Sanga",
+      "kr_sha256": "af8340b3c5147389ed5b8ef2cd7fc59a966a7504c57507c69a63db2d0c6ace85",
+      "en_sha256": "802e0d6bd8a65970bb192b87b118cdb3927d21937c30b0bf9a6c41d2f1cb4883"
+    },
+    "dataList[id=P10103].content": {
+      "pl": "Salsu Rodu Ostrza: historia Yi Sanga",
+      "kr_sha256": "6c941e31225320d0bd933df49d398a548c7d3528fb46395638185815c65daef5",
+      "en_sha256": "46c5b3a67c20ba4ee18c7284fef4d882c827e9d4485e91ed1eaa51ee66345d76"
+    },
+    "dataList[id=P10104].content": {
+      "pl": "Rozkwitłe E.G.O::Krzew Korzenny: historia Yi Sanga",
+      "kr_sha256": "16e9788172d44d5dd3906861682f1aa28586e206ba231982d89304168d1fed0d",
+      "en_sha256": "3416903cf1da5d242d16dc50c5852c486172793563045daec0abb44851e0ea9b",
+      "origin": "ai"
+    },
+    "dataList[id=P10105].content": {
+      "pl": "Fikser Biura Trzonowca: historia Yi Sanga",
+      "kr_sha256": "e5f4c266cfd9395ab675835d46715c7f1378028d10c8078ea9a9903f2d6684a9",
+      "en_sha256": "c5a82f473eb983ff0cd33eba2d6196c2ed8c1101529b56c0dff46338f73d4aa4",
+      "origin": "ai"
+    },
+    "dataList[id=P10106].content": {
+      "pl": "Agent porządkowy 3. poziomu W Corp.: historia Yi Sanga",
+      "kr_sha256": "604422dd73f5a669ccf2264723e6df6d56460d13d9c1d78a169b082591fcda86",
+      "en_sha256": "9ed1bd98c5b5bb77f39fc99bbfa2959ecac707b2070db3b5478778e0e293ef0a",
+      "origin": "ai"
+    },
+    "dataList[id=P10107].content": {
+      "pl": "Pierwszy oficer Pequoda: historia Yi Sanga",
+      "kr_sha256": "52fd0c45007861082921caa08d396af98d95d4a2be85a468f9a0fd883c14fc97",
+      "en_sha256": "b3b9e0539a16c4d8cb089e4f1a964a64f51b6400664ce99ef2aaae07da9e2de1",
+      "origin": "ai"
+    },
+    "dataList[id=P10108].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Dieci: historia Yi Sanga",
+      "kr_sha256": "3809b57f1e11eb0bd32278679720b43ddcb9ccbcba38e9eb01ccb10c4c07ea51",
+      "en_sha256": "d70fb4e1a2efce990cdf5a3800bc8ffc6c47b7572fca477ef8e6a666be9a4631",
+      "origin": "ai"
+    },
+    "dataList[id=P10109].content": {
+      "pl": "Student Pointylizmu Serdecznego: historia Yi Sanga",
+      "kr_sha256": "d89463a98a273be8ee464431c39a576fa7974e940409bb6b05d2361a69f4beac",
+      "en_sha256": "d9c12acb4c21fa359c304abca6082f1868a7023a7b6b3b38a2a28f6cd5e01c0d",
+      "origin": "ai"
+    },
+    "dataList[id=P10202].content": {
+      "pl": "Agent porządkowy 2. poziomu W Corp.: historia Faust",
+      "kr_sha256": "fd066ab648ae89ed047636105d795d82732b08f87c0ec83556af799a6803746d",
+      "en_sha256": "5848f61773d202cbbdae9f0ebea6bd00f483002ddb683e8ab7dcf6b301660256"
+    },
+    "dataList[id=P10203].content": {
+      "pl": "Ocalała pracownica Lobotomy Corporation: historia Faust",
+      "kr_sha256": "3a32fdf61e523097b42601373fb8276942ea2c2e2fda6e9e8d3819d51e1c0df3",
+      "en_sha256": "9529302b1fb2308a90cbad8eee1b913ad99474883246ce41bc2bfde2939ec1aa"
+    },
+    "dataList[id=P10204].content": {
+      "pl": "Dzierżąca: historia Faust",
+      "kr_sha256": "637c9c1e65bc4efff44fda46c3bc2f5c194a22c823bb116ef173f25a78203af9",
+      "en_sha256": "bf7b328befaf61d61859f349724ad2a74f508e6b9500b910ba0a1f8926dc967a"
+    },
+    "dataList[id=P10205].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Zwei: historia Faust",
+      "kr_sha256": "a142218ba07734940569edd35c127830285ad845eb4d56ec14a33332cc62c78c",
+      "en_sha256": "b7018c8e745967316da8cbcffc7fd4dad8f107fc21d65d383bf11eb9b4d4b56f",
+      "origin": "ai"
+    },
+    "dataList[id=P10206].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Seven: historia Faust",
+      "kr_sha256": "d3b131391aa39b4e7987d2bf094ca653ab1fcb9ca8b5caf418d69f6fdcce5577",
+      "en_sha256": "0299592c31c7338d2374d4dc431c553c339006d4fdd4b0e854e9f095dbcf4735",
+      "origin": "ai"
+    },
+    "dataList[id=P10207].content": {
+      "pl": "Lobotomy E.G.O::Żal: historia Faust",
+      "kr_sha256": "d338edff70118ae0e1c334c99732bbf85df1966229c64cc6cb889696b4d5d0d0",
+      "en_sha256": "90d009f0e3aabe8a7f92b849a492a68f7e2158ee78cbca656a7d15adafb3b018",
+      "origin": "ai"
+    },
+    "dataList[id=P10208].content": {
+      "pl": "Salsu Rodu Ostrza: historia Faust",
+      "kr_sha256": "1640a85233806c0efebfde52ff13d5397e071f1d9be09b2d3124dc5f9f322f0b",
+      "en_sha256": "3550ea8b6949e4235c965bfea62edbce2521b264bb17704d8e40f155acafdf2c",
+      "origin": "ai"
+    },
+    "dataList[id=P10209].content": {
+      "pl": "Kamerdynerka Wichrowych Wzgórz: historia Faust",
+      "kr_sha256": "3dbb904b70d25be8d3eb1522a216b30fd85ed287fe50840c9dfca984abfa7973",
+      "en_sha256": "99cea6df57cfacc60de8d3edee2eb3dd8ea44daf9bc206aa990542a36f1f13b2",
+      "origin": "ai"
+    },
+    "dataList[id=P10302].content": {
+      "pl": "Agent porządkowy 3. poziomu W Corp.: historia Don Quixote",
+      "kr_sha256": "a77a50cb7c2ae6ce4488856b7aad09ca9719f2a88158c8f44bbcc130143d3750",
+      "en_sha256": "66808a89f2466c4ad0c52cfc90d344d97c391f7143531cffc1eee75db3147a6a"
+    },
+    "dataList[id=P10303].content": {
+      "pl": "Dyrektor Południowej Sekcji 5 Stowarzyszenia Shi: historia Don Quixote",
+      "kr_sha256": "233b9ae8b949faecccffc85fd7cb90f298998b1555867e0c244334930efbadf7",
+      "en_sha256": "5b555538bb3ad392dd9e1e7109937cc921d27fb7d0256801a28737e846e9a704"
+    },
+    "dataList[id=P10304].content": {
+      "pl": "Średni Młot N Corp.: historia Don Quixote",
+      "kr_sha256": "4dad773893286ee79b3016952a161bc3f8199495e9f585c0bf47bdc07ed39d7f",
+      "en_sha256": "87b741766601fa53ec019773d80f6a328ccba45c8210e43851ab6ffe76193af6"
+    },
+    "dataList[id=P10305].content": {
+      "pl": "Dyrektor Południowej Sekcji 5 Stowarzyszenia Cinq: historia Don Quixote",
+      "kr_sha256": "771dc6cf4ae6bb77a7050ae277f163348a5004a3eec67bcf58df56ff55b56f49",
+      "en_sha256": "c1dd76825922d5afcadb77b8a2386bc6e80676ae09f2bd2cddaa18c71cb036f2",
+      "origin": "ai"
+    },
+    "dataList[id=P10306].content": {
+      "pl": "Młodsza Siostra Środkowego: historia Don Quixote",
+      "kr_sha256": "bb837c0060460a105e43e793af45015b9e5c0f68b3888dcaaa030ff4bc93d027",
+      "en_sha256": "6073ea5cea1582580229101766a38759216db4d3e78c8bc0904244a81a8f68f6",
+      "origin": "ai"
+    },
+    "dataList[id=P10307].content": {
+      "pl": "Lobotomy E.G.O::Latarnia: historia Don Quixote",
+      "kr_sha256": "51c884ed65c2836ab99a171194ecbb904f4c183cf2265332d97bf4eb5da32a14",
+      "en_sha256": "b0e274192056dd0144d69284be8d922c2ca4e9c27b7600093fd7aa108fb4f3d0",
+      "origin": "ai"
+    },
+    "dataList[id=P10308].content": {
+      "pl": "Salsu Rodu Ostrza: historia Don Quixote",
+      "kr_sha256": "6682bff940a268881cb97a5b0d6c3f288c0f45a08afd8392e6001487312f073f",
+      "en_sha256": "f430e8d55809c61dbc33653c4cb08522460eb64affe70e4bfebceca446c1a765",
+      "origin": "ai"
+    },
+    "dataList[id=P10402].content": {
+      "pl": "Południowa Sekcja 6 Stowarzyszenia Seven: historia Ryōshū",
+      "kr_sha256": "1079803bf5c5364d4017eb9284cf9ed75193ebfa9d55d4f43eaadb352f99e14a",
+      "en_sha256": "81e1340d45f3439568cb2a0b2e3d406a6b515085e5c1af86262062d4799ea67e"
+    },
+    "dataList[id=P10403].content": {
+      "pl": "Wakashu Klanu Kurokumo: historia Ryōshū",
+      "kr_sha256": "dbde2d022c49c1675580b12969bb1ce908b00bbe8089d9da5d46f96c8966de79",
+      "en_sha256": "6fd2d049cdd27c8e6ea051d8f15a1e0dd531b6e77c3389214564da38ab2ec600"
+    },
+    "dataList[id=P10404].content": {
+      "pl": "Szef kuchni R.P.M.: historia Ryōshū",
+      "kr_sha256": "9d89260af6b17ce2183b5306191caed7c0c91e84985cb7b51877c4571698e785",
+      "en_sha256": "b13f9557eeeb0a61fbea61e8ba8cc60383ac78123c29d48111785ce1712f2956"
+    },
+    "dataList[id=P10405].content": {
+      "pl": "Agent porządkowy 3. poziomu W Corp.: historia Ryōshū",
+      "kr_sha256": "801228f294d691218598b37e69e6fb0ec35a2467edf054f18e34c6811c6f4b9f",
+      "en_sha256": "43c72b9f9fdaab605bb1cee535af6c691fd61a209137d95edb0986974b102a4f",
+      "origin": "ai"
+    },
+    "dataList[id=P10406].content": {
+      "pl": "Zastępca kierownika LCCB: historia Ryōshū",
+      "kr_sha256": "b64447197933908e0bcf3a990bc17cb7d02a679306141f5605341dec4f42c922",
+      "en_sha256": "6248d588083ee1ffb69a436c1c2cfd2da16e8ba7a24f3f7399cc01fe425cf9f7",
+      "origin": "ai"
+    },
+    "dataList[id=P10407].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Liu: historia Ryōshū",
+      "kr_sha256": "d04d28d16df0c8d06707572794574039b88259a36e65a54550e8b2ef3dbb3f40",
+      "en_sha256": "23ec89890e35f7b91c9588e0992cc3c1236c5113d0c0706798260c61847c8953",
+      "origin": "ai"
+    },
+    "dataList[id=P10408].content": {
+      "pl": "Główna Kamerdynerka Rodu Edgarów: historia Ryōshū",
+      "kr_sha256": "e67c42ad82a2b51c13036dd731b2ec71480516f82201981be12a001dc692f5ce",
+      "en_sha256": "a6dbf425e41c5e74612117f51dd2a86e7ecd23a622a104b38fa9ecadbf3136f9",
+      "origin": "ai"
+    },
+    "dataList[id=P10409].content": {
+      "pl": "Jurodiwa z Dystryktu 20: historia Ryōshū",
+      "kr_sha256": "14e1285c00547bae1003821f7f905c9c2745cd71b38c6ceb6f149df1f5d136a7",
+      "en_sha256": "30d574f814ba552ed9c772f7f2f486be4b5cd5471354dc18f0f27df6649f5db5",
+      "origin": "ai"
+    },
+    "dataList[id=P10502].content": {
+      "pl": "Południowa Sekcja 6 Stowarzyszenia Liu: historia Meursaulta",
+      "kr_sha256": "a3a4586477e5edd9268c1f2bf11a8068355a40bdfbc5da74554f815df3c7f770",
+      "en_sha256": "c1d4a20221bd3a196f83abc8b1bbe2c161a0a2297c9775ec4e82a0e7a8412779"
+    },
+    "dataList[id=P10503].content": {
+      "pl": "Agent porządkowy 2. poziomu W Corp.: historia Meursaulta",
+      "kr_sha256": "97ffc80c5d0516d16aad9fffe805ebc0dd359fe0cf249d5e688a447ea87d8de4",
+      "en_sha256": "d236411416e34be185fe2649dbbf13776508dc615816cb1995c3302cf45c64aa"
+    },
+    "dataList[id=P10504].content": {
+      "pl": "Wielki Młot N Corp.: historia Meursaulta",
+      "kr_sha256": "0f9ebb679572beaa3b8072d766b04bb4890c07ce476a5d1ed5b4707889e925a6",
+      "en_sha256": "3ef9034d8beefa349cb6f15ef51dbe8407fe13dda2eaa5a5988336217a249ade"
+    },
+    "dataList[id=P10505].content": {
+      "pl": "Fikser Warsztatu Różanego Klucza: historia Meursaulta",
+      "kr_sha256": "4b68b0c033cec2d6c9dcbf0e25bf6f60d03673543680e5e42d20410902a4edd4",
+      "en_sha256": "f9fd6212297f047e75c318d3fa9f708ae7e216ab243b4a2bbc3c49420d1b08c0",
+      "origin": "ai"
+    },
+    "dataList[id=P10506].content": {
+      "pl": "Zespół Nosorożców 4. Stada R Corp.: historia Meursaulta",
+      "kr_sha256": "aa42bc0cbd971861618283f5ce28055498ea6d5ac958218c093616ebdda36218",
+      "en_sha256": "79de1c14c2ecb3c4eb8f0f8c4cd6ad0a711198e303de53566ad37790a0bd288d",
+      "origin": "ai"
+    },
+    "dataList[id=P10507].content": {
+      "pl": "Młodszy Brat Środkowego: historia Meursaulta",
+      "kr_sha256": "b417b96e857c779bf54e444c025809c5ccf1d4263bb2a3f3fcb0c50b741297f1",
+      "en_sha256": "f26cdb1233be214edb57353f5a9496f1ca5001280c5e313ffffd9c145c14dc80",
+      "origin": "ai"
+    },
+    "dataList[id=P10508].content": {
+      "pl": "Mentor Rodu Ostrza: historia Meursaulta",
+      "kr_sha256": "ce3efcde6c7d4074b0ff8b13ad77e2fa45968b88b7fd585c2c718480dd04d78b",
+      "en_sha256": "26fac6e93bd8d9b62b2306504b9eaac1352d02c491a9a5ccfd916747bafb8b7c",
+      "origin": "ai"
+    },
+    "dataList[id=P10509].content": {
+      "pl": "Szef Martwych Królików: historia Meursaulta",
+      "kr_sha256": "260127909badc73ea25701adc64ea0f19642e6d02d655344dfcfa83784ad8af9",
+      "en_sha256": "c059f9c7095ca146f6ec2fac35b16dad48bb2774d5e3cca9097b5084293ddf49",
+      "origin": "ai"
+    },
+    "dataList[id=P10602].content": {
+      "pl": "Wakashu Klanu Kurokumo: historia Hong Lu",
+      "kr_sha256": "3155cf9c93b8ba1de5a51f4dc1804f711563f3b34fbbffd8a5e6809328f5f9cd",
+      "en_sha256": "563b510be5b008c07909ae6266767c7f120248b65c2bb0627aa672145be30d6c"
+    },
+    "dataList[id=P10603].content": {
+      "pl": "Szef gangu Tingtang: historia Hong Lu",
+      "kr_sha256": "4b66141a45d2f416392ca16731a93150fb404c2eace20a147302b0fe971fa5b2",
+      "en_sha256": "21c0d7cb202f7c5e02d87ef9253383a98c4a4257a8bcede1fd018787027bfc90"
+    },
+    "dataList[id=P10604].content": {
+      "pl": "Południowa Sekcja 5 Stowarzyszenia Liu: historia Hong Lu",
+      "kr_sha256": "3ee31d5615c6b4e1c24bae4c7e61fac2f01e780111ab783ddf918fdf9ae9f382",
+      "en_sha256": "970725341d76b7ed9a4950dea8d532911e7c02842a7c05ebc258a0d652c8e653"
+    },
+    "dataList[id=P10605].content": {
+      "pl": "Pracownik wycinania 3. klasy K Corp.: historia Hong Lu",
+      "kr_sha256": "8e349deeaa13c24ccde5406fe2347f1fbf975fa9b27372fa6aad7589f778a006",
+      "en_sha256": "373eca20fc38550c7123ccf5e7fa8e0e325c6a301c64cd5aae941ed0cf5a399f",
+      "origin": "ai"
+    },
+    "dataList[id=P10606].content": {
+      "pl": "Agent porządkowy 2. poziomu W Corp.: historia Hong Lu",
+      "kr_sha256": "61dc01b5bf0d02126a84eef9d9d664d4b6cb22e1f6b2773311f4a96c79e53b1c",
+      "en_sha256": "3eb9e036d13efcd2288e4ba607e295d381241d8ac59dc95174538f4edf88ff6f",
+      "origin": "ai"
+    },
+    "dataList[id=P10607].content": {
+      "pl": "Fikser Biura Haka: historia Hong Lu",
+      "kr_sha256": "29f97eb139c74f10d455d7bb2ad8b25cd292e1ce14b06b152b2c2952f8803853",
+      "en_sha256": "fa20d0dca5a1ca7ad65cfd66c5c02ed9dd97d78ecd44302c9c422ca7349cdd0b",
+      "origin": "ai"
+    },
+    "dataList[id=P10608].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Dieci: historia Hong Lu",
+      "kr_sha256": "9b4b9283a7571f55623ae7f8af0f3660a4496ca508be23fdc7bf57e534d053f1",
+      "en_sha256": "9fdda90da2a627d9fece510b54416aca5e31c3e3eb49007c0d886e33cb260549",
+      "origin": "ai"
+    },
+    "dataList[id=P10609].content": {
+      "pl": "Jurodiwy z Dystryktu 20: historia Hong Lu",
+      "kr_sha256": "1c6f2a9d8af977a362bbd8c54bffdbec810afcfb90815e619c9bac461b3bd799",
+      "en_sha256": "4c9c39b22c8be299c46fe896cbe3ef11dc1c74de63b4b72d6286fa8fab53edf3",
+      "origin": "ai"
+    },
+    "dataList[id=P10702].content": {
+      "pl": "Południowa Sekcja 5 Stowarzyszenia Shi: historia Heathcliffa",
+      "kr_sha256": "c271cc92838b4318367c9b2fb8e35a63437da227ecca796d7bec473226d5e67c",
+      "en_sha256": "f742b1d06f07efcdf52af2501c86600b143c0e26417201cfcaad595be6dd02aa"
+    },
+    "dataList[id=P10703].content": {
+      "pl": "Zespół Królików 4. Stada R Corp.: historia Heathcliffa",
+      "kr_sha256": "a4423500680f3da3985c40be1bda415c2c48e63eb652824c88886fbf3844b805",
+      "en_sha256": "2d8a05e4fc8a91031de20e5aecd80586f90e8bb2a7804071ca4f748805e7644e"
+    },
+    "dataList[id=P10704].content": {
+      "pl": "Mały Młot N Corp.: historia Heathcliffa",
+      "kr_sha256": "f2c3fd740acf9cb0c1c66f873a07ac7715082243e9e8488dde613ac34dfb510d",
+      "en_sha256": "4eb03e98c4ef5339b5327c2980d116511da8f1b697962153776a49a11bc0d9a9"
+    },
+    "dataList[id=P10705].content": {
+      "pl": "Lobotomy E.G.O::Lisi Deszcz: historia Heathcliffa",
+      "kr_sha256": "bdf8edc6635f0a4897836d5f0d5c19b806ce6265a3a3ad37938a200a4c94a890",
+      "en_sha256": "5411abf274968590d0e20e83eb037cdfee2b42cb6befb4a0bad89b69b67b26a3",
+      "origin": "ai"
+    },
+    "dataList[id=P10706].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Seven: historia Heathcliffa",
+      "kr_sha256": "d33f33723729c3f643b7e453b46bfb0bee562eb63ecac9848bd0f29c151815ed",
+      "en_sha256": "c97a0aa52fbf1981bf74f84c516af4273ce5a463f88b9e3c62afd8cb46fa2bb7",
+      "origin": "ai"
+    },
+    "dataList[id=P10707].content": {
+      "pl": "Harpunnik Pequoda: historia Heathcliffa",
+      "kr_sha256": "dd8ba1693dac916494bdfbaf8da0f6cebb008a7b9a1324bbcfa8f1626d1e165b",
+      "en_sha256": "eda51c62b552a2fc86124b12774702d45670b1cc86ae7eeaead69419a9c98fc2",
+      "origin": "ai"
+    },
+    "dataList[id=P10708].content": {
+      "pl": "Południowa Sekcja 3 Stowarzyszenia Öufi: historia Heathcliffa",
+      "kr_sha256": "a38e0c0198e0b25b143ab6683be2912c517e1b4fb1f601c87001fe78ab3a14f8",
+      "en_sha256": "891531f5deec3bd9d1f4e7cd20c81a08aa22f7f0fa44f1f4b9508cfe503c428d",
+      "origin": "ai"
+    },
+    "dataList[id=P10802].content": {
+      "pl": "Zespół Reniferów 4. Stada R Corp.: historia Ishmael",
+      "kr_sha256": "15946f37dd0e5a20654b4a1ea5f7d1835f562929d9eb73d26c961f948467bbdd",
+      "en_sha256": "6cf8c71450cd32ea653e938095eed018ae9e83dbfbadd9e69da8b3c8c3efefe9"
+    },
+    "dataList[id=P10803].content": {
+      "pl": "Południowa Sekcja 5 Stowarzyszenia Shi: historia Ishmael",
+      "kr_sha256": "7df73ba84456634753e5f188fa8b69eadac92757f0592800acad10f8d4b98aa7",
+      "en_sha256": "8c2e24bc4704646fdec1fbada4aeb203209a14858f601791cb1b5166e68548dc"
+    },
+    "dataList[id=P10804].content": {
+      "pl": "Zastępca kierownika LCCB: historia Ishmael",
+      "kr_sha256": "1f6e0c7225edb9f7fb72f652ab03602470531455a401e2f2c0485f22b5dc37b2",
+      "en_sha256": "fa9b6e35891d9f9ebb701da784c55d9b1f909f00181bc1f3ac3991c2aec1003d"
+    },
+    "dataList[id=P10805].content": {
+      "pl": "Lobotomy E.G.O::Chlupot: historia Ishmael",
+      "kr_sha256": "3aef835bc028274dcfd26dc678ea6ba24788775484d36e40ce1a94289cb1fa11",
+      "en_sha256": "97c3c8e5b5f6f854a4f1507485edba89e444b5b6c5d09af67840e042fda99f2f",
+      "origin": "ai"
+    },
+    "dataList[id=P10806].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Liu: historia Ishmael",
+      "kr_sha256": "9d70e57c319d0b591e2abebfe3ca0a16aa22c70f29f41c606779e91526d28e57",
+      "en_sha256": "af4d24036fcf1a91558d630ac3624c2ba268a255287d19e7f0034e6053ad176d",
+      "origin": "ai"
+    },
+    "dataList[id=P10807].content": {
+      "pl": "Fikserka Stoczni Trzonowca: historia Ishmael",
+      "kr_sha256": "6b1ab0a898bed519bf7cc13a718b2cc1faef9214b4384ddebc26cefa05774da5",
+      "en_sha256": "30f715ef97ede75cd0812e55f2854c63095a1daba22e88a89ab3367085b62632",
+      "origin": "ai"
+    },
+    "dataList[id=P10808].content": {
+      "pl": "Kapitan Pequoda: historia Ishmael",
+      "kr_sha256": "54f21f93dca958ecaf5c9a6f9c449a5cc50c917f32ae3febf973e2e1e14d46d9",
+      "en_sha256": "a45d206196d6a38036d21c7cb3c6c753ae92e8764fe15a4d93103e09ded37f0a",
+      "origin": "ai"
+    },
+    "dataList[id=P10809].content": {
+      "pl": "Kamerdynerka Rodu Edgarów: historia Ishmael",
+      "kr_sha256": "773474410f53d2f24f193278782d12e841279deedc08426d3e4ea26930848a94",
+      "en_sha256": "68e7a363bb94f4b1bc5423a207d52a6e857467860c611e6a9252aedbab8b8a5e",
+      "origin": "ai"
+    },
+    "dataList[id=P10902].content": {
+      "pl": "Wakashu Klanu Kurokumo: historia Rodion",
+      "kr_sha256": "8a1260f3b3cfb0a414b2336d409645834bfbdd9a21061326fe849a8014018de7",
+      "en_sha256": "1cba03069a4ddb762a328ad1a4c602e494b0140cb158b494c30e80c806b8c060"
+    },
+    "dataList[id=P10903].content": {
+      "pl": "Zastępca kierownika LCCB: historia Rodion",
+      "kr_sha256": "52e2a7ecbe74ec3546b855a5cd17ca32e3a717599f3b80fcc821acc293609a9c",
+      "en_sha256": "737d728aaf8784b0557425db9ba096fb9939a06c832f34debcdf919e2dd90d33"
+    },
+    "dataList[id=P10904].content": {
+      "pl": "Średni Młot N Corp.: historia Rodion",
+      "kr_sha256": "e0c368ca85cf925be2e3aed779f92f9ccab541e2c6d463ea3df6a38df213618c",
+      "en_sha256": "819daeb11258043250ae89ac8a727663e0fde0ac0dd3c0de293f04845938fe69"
+    },
+    "dataList[id=P10905].content": {
+      "pl": "Szefowa Warsztatu Różanego Klucza: historia Rodion",
+      "kr_sha256": "a91df0815113f3407145c7fa88ea3878a17e8d598a9a57c09b9347d7523e2143",
+      "en_sha256": "cf43d34a07c1a342e2e0d54e31a74d8c1f2750f2d06f800a25b34c208cd71d0a",
+      "origin": "ai"
+    },
+    "dataList[id=P10906].content": {
+      "pl": "Południowa Sekcja 5 Stowarzyszenia Zwei: historia Rodion",
+      "kr_sha256": "52d6f8b9d91cf2c124b8695524b09dfe752772d6e2b651d089e389fc1a12e52d",
+      "en_sha256": "b545cef980cfccc9a466f5eabb7e009642b8354549f08afc3170de42f35a8a98",
+      "origin": "ai"
+    },
+    "dataList[id=P10907].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Dieci: historia Rodion",
+      "kr_sha256": "75360c2364d880b8ec0245b1e4edbeb1273ea74bc372298e3f29be292cde2b6f",
+      "en_sha256": "03ee8e4a7ade3bbbbefc262d7a43c52f3f11450084e580380e6266a4c37fdc46",
+      "origin": "ai"
+    },
+    "dataList[id=P10908].content": {
+      "pl": "Dyrektor Południowej Sekcji 4 Stowarzyszenia Liu: historia Rodion",
+      "kr_sha256": "51195a1c06cb2c6c84a79d98b961cde66627fb2d9de96395971cd05f7c10e51e",
+      "en_sha256": "4e0e1e985e7e196d140ac048cba1aee453fb696629a3c364db3484a0f780656c",
+      "origin": "ai"
+    },
+    "dataList[id=P11002].content": {
+      "pl": "Salsu Rodu Ostrza: historia Sinclaira",
+      "kr_sha256": "58b614ffb58416fe5d56aa26af9962c0552cbf96d321287d03b6edc71befa348",
+      "en_sha256": "7dac61d877e59d38550427e6182dd277392375c5a7e6738dee2c0d7940401ef9"
+    },
+    "dataList[id=P11003].content": {
+      "pl": "Południowa Sekcja 6 Stowarzyszenia Zwei: historia Sinclaira",
+      "kr_sha256": "a0f6b5cf31eff4278d0bc8605747d1a4054faf68a022c445f9e616f1c9b6c9e7",
+      "en_sha256": "ad2189d6545c1fcf8e336a98c6a1bc51ed09c7f003c077ab6a6699e7c3d84659"
+    },
+    "dataList[id=P11004].content": {
+      "pl": "Szef Los Mariachis: historia Sinclaira",
+      "kr_sha256": "a201b549b122c2507b789a29f693d4467bc0b3d0e214714e42e90ec7c859c89a",
+      "en_sha256": "56ecbdd03b56c2e8ae04b89db2185150729172d3c8be6488ace19781c611cb9a"
+    },
+    "dataList[id=P11005].content": {
+      "pl": "Ten, który będzie dzierżył: historia Sinclaira",
+      "kr_sha256": "4a2987fd8b38eb3c5dfdd3106de5316ea3d75d41244bfdbb4d0a60d47f9265bf",
+      "en_sha256": "0882a83f5ffbb2b1de1c88b7787b1a947f61ac454138a7c3bdc68a9732c7862f"
+    },
+    "dataList[id=P11006].content": {
+      "pl": "Lobotomy E.G.O::Szkarłatny Talizman: historia Sinclaira",
+      "kr_sha256": "7306f852f0321f16bbf0f8a5c4aa3936aecd06a6120e05d210e57b4e78e579fa",
+      "en_sha256": "ee7c3ad0348887c233f10a5b7c0abfe2274837d4950a39d5d176fd0fa4232c04",
+      "origin": "ai"
+    },
+    "dataList[id=P11007].content": {
+      "pl": "Fikser Stoczni Trzonowca: historia Sinclaira",
+      "kr_sha256": "136c7d7822668e6f1bbc2d8029ecd7abe36e3b6f88b37b4b1026a81088763a60",
+      "en_sha256": "3f0a19f9c2d7f34de6b42f5ddeda92759a3a32e250d12eb9e42942706485202e",
+      "origin": "ai"
+    },
+    "dataList[id=P11008].content": {
+      "pl": "Dyrektor Południowej Sekcji 4 Stowarzyszenia Cinq: historia Sinclaira",
+      "kr_sha256": "1dc60c66c1ff95f6760e5bc65626d0dd9747d8fc9574261cc0270cfcf4e61cf5",
+      "en_sha256": "29029340c7d493b07dabbea2558659e3a310ac1c4d7abfad4c36240df226683e",
+      "origin": "ai"
+    },
+    "dataList[id=P11009].content": {
+      "pl": "Fikser Biura Świtu: historia Sinclaira",
+      "kr_sha256": "4b8338e773c464858075355ab58a6b126bca9c8277dc8552b17c8a71d7df1df4",
+      "en_sha256": "77e59144025b91864623c4d2abd44bad7e36dc296ba340a2d3e367950e94ed91",
+      "origin": "ai"
+    },
+    "dataList[id=P11102].content": {
+      "pl": "Salsu Rodu Ostrza: historia Outis",
+      "kr_sha256": "e5be672f44097afa55322c91f0e197f81931f919bb89c07ddcd02ff1425e6bc3",
+      "en_sha256": "9a4317d6c275b5dedfb7453d2d72bd0713bfe3438653b576ed9d8a8ef459c5d6"
+    },
+    "dataList[id=P11103].content": {
+      "pl": "Dyrektor G Corp.: historia Outis",
+      "kr_sha256": "ea782977132bb6cb9121ef7d09fe13610fab13c47be512c801e2b8fc831136d8",
+      "en_sha256": "8e58ec93eb67da25ee3e0bec70fa52ac2760898e68eadb5948700354576bab05"
+    },
+    "dataList[id=P11104].content": {
+      "pl": "Dyrektor Południowej Sekcji 6 Stowarzyszenia Seven: historia Outis",
+      "kr_sha256": "4f82c739790f1230f95d3b57ae96f908ddced9c51d7f081265875066f9c5174c",
+      "en_sha256": "549e9cdb761b26b08e0c138c3b6dd7e716f8395c28710dfe0dabc684d2e0147c"
+    },
+    "dataList[id=P11105].content": {
+      "pl": "Fikserka Biura Trzonowca: historia Outis",
+      "kr_sha256": "3d0ef8a1be9956546ea18e33ded049b7d17ce7be0b601adbab083d5156b2eb43",
+      "en_sha256": "b01b4da0d50f04863063efe06fbf3a46607d29d0ded6edf89eaf83dd0ff2538b",
+      "origin": "ai"
+    },
+    "dataList[id=P11106].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Cinq: historia Outis",
+      "kr_sha256": "3f8670b12aeaabc4c473b05cfb4991993b13317d51539be05b8d4750204a2689",
+      "en_sha256": "81afea5c258672ce272713b298511d036935f6edcf002dd44bf555bbe5e3c06f",
+      "origin": "ai"
+    },
+    "dataList[id=P11107].content": {
+      "pl": "Lobotomy E.G.O::Magiczny Pocisk: historia Outis",
+      "kr_sha256": "bfc859faceef1965360f95b5986470ca16cf101c40b0d34703f37bd6a3d8551c",
+      "en_sha256": "7d81dee4ab3db9db48c46d08625231930c2bd3fed9b6e5df67a50d752f1942cb",
+      "origin": "ai"
+    },
+    "dataList[id=P11108].content": {
+      "pl": "Główna Kamerdynerka Wichrowych Wzgórz: historia Outis",
+      "kr_sha256": "1c7195846a081b71450216c351cd6f907682f0c312b503f42fa39d4de4cfe4c3",
+      "en_sha256": "4ca766cf914604bed87facec55effc00129cff9e51dc8d0ea9a4d31b6bfa73f3",
+      "origin": "ai"
+    },
+    "dataList[id=P11109].content": {
+      "pl": "Studentka Pointylizmu Serdecznego: historia Outis",
+      "kr_sha256": "7d362c2123f617a5ccc1050b967bd7cc8ee6a5a32a8c9af5b173557267498871",
+      "en_sha256": "999a5e910d62d3b6f07772ab9abbb378ef6c56e0c9cbc5b2d1e86af54fec4605",
+      "origin": "ai"
+    },
+    "dataList[id=P11202].content": {
+      "pl": "Południowa Sekcja 6 Stowarzyszenia Liu: historia Gregora",
+      "kr_sha256": "44554eebfefa1a95d83398a3e72ae815d19020ef025c78b2aed9a5afcbf4f8d0",
+      "en_sha256": "a120bbab433bd7b157be27c68954fd202c369c322599262c36db02238f49426a"
+    },
+    "dataList[id=P11203].content": {
+      "pl": "Zastępca kierownika pierwszej klasy G Corp.: historia Gregora",
+      "kr_sha256": "b48ee44eeb3f3424b9a9e2ddf5581029b1c321a8e5df921bf9c92803264e9ef0",
+      "en_sha256": "296a3577a79d69129ca43f839bdba3db31016d6be73081b74b82281f5327cf18"
+    },
+    "dataList[id=P11204].content": {
+      "pl": "Pomoc kuchenna R.P.M.: historia Gregora",
+      "kr_sha256": "bd6d9e7cf734a4feba21101202086bbb7fff2d6314f344afaa06d9829198279c",
+      "en_sha256": "447bbdd3feaf9265d936fda5b4e1b9dba7e08665ee13d60ed1ad9ed1b6eb1096"
+    },
+    "dataList[id=P11205].content": {
+      "pl": "Fikser Warsztatu Różanego Klucza: historia Gregora",
+      "kr_sha256": "054e43ac3ce84c37e94f1ec9959e2edb2a5f82150fe8676abd28046ae17d75ef",
+      "en_sha256": "0ec1c319871dc10ff87a04525d103163d8b0f1528b583b64c894b1a9e498857a",
+      "origin": "ai"
+    },
+    "dataList[id=P11206].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Zwei: historia Gregora",
+      "kr_sha256": "e696cb1fd237ea1666bb79ece9ee67df2fca35d7bf91ff247ebbd25c2a00baec",
+      "en_sha256": "df1aab273041373ed406639f5a693504b49081449aa38bd12f509344d8c34b53",
+      "origin": "ai"
+    },
+    "dataList[id=P11207].content": {
+      "pl": "Pierwszy oficer Piratów Podwójnego Haka: historia Gregora",
+      "kr_sha256": "381c46a64ca4d2cac8827ecb6082a8e9b001d95ff730b01850549241ab74de6b",
+      "en_sha256": "ea5418b58b5711fb6857ee1e9614d8f3d4064894dd832390a3216eeb36386776",
+      "origin": "ai"
+    },
+    "dataList[id=P11208].content": {
+      "pl": "Kapitan Klanu Kurokumo: historia Gregora",
+      "kr_sha256": "b7a809a487392839334eeb44b7d4ee9ef075032b8769a4fcc76808feb05e0816",
+      "en_sha256": "3f075b66fe824889eef2439630e1e674b12f7e7da000a1bdc56726688242f992",
+      "origin": "ai"
+    },
+    "dataList[id=P11209].content": {
+      "pl": "Dziedzic Rodu Edgarów: historia Gregora",
+      "kr_sha256": "118d5d8379b4d18fe17156988af184eeb11cb5a7bbfc022c3cab649df4e0965d",
+      "en_sha256": "56fa34df2d0c547d184f4b9dcc6d01a037412e791bc6cb62cab959ddf9d00782",
+      "origin": "ai"
+    },
+    "dataList[id=SevenAsso6_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=Wcorp_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=Wcorp_honglu_profile].content": {
+      "pl": "Hong Lu\nM\n23 września\nA\n178 CM\n74 KG",
+      "kr_sha256": "138974875b59633c4dbde1d9d09dffb4d30475f1697de0058e13a975ea433641",
+      "en_sha256": "5e8c8cd1216318375890d57dc5115d6b0015ce1481ea613bb9fbf0301acbe583",
+      "origin": "ai"
+    },
+    "dataList[id=Wcorp_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=Wcorp_ryoshu_profile].content": {
+      "pl": "Ryōshū\nK\n23 września\nA\n171 CM\n58 KG",
+      "kr_sha256": "b6b9491c422fe316aa58d4d63ee5e3ad0cfd328ffde0a1b9a2156cdfefa8bed7",
+      "en_sha256": "81497baabbe05bf8b4747d26e521cef78004b140cc88562810b47f5f19eb6b68",
+      "origin": "ai"
+    },
+    "dataList[id=acheive].content": {
+      "pl": "Zdobycie",
+      "kr_sha256": "2d00d14fe14bdbdce8853e2db7506763f6ca18935d06ba529f362ab7c4b21983",
+      "en_sha256": "a0f0155586e8f4973d5d2c4d089150c01f1842aafc1afd85a111475befa0d80c",
+      "origin": "ai"
+    },
+    "dataList[id=ahab_ishmael_profile#2].content": {
+      "pl": "Możesz czuć przygnębienie na widok licznych ułomności swoich Grzeszników, lecz bez obaw — ta Grzeszniczka należy do nielicznych, którzy wykonują zadania bez zbędnego narzekania. Potrafi podejmować rozsądne decyzje, więc szukając trzeźwej rady, warto zagaić rozmowę, spoglądając w jej stronę. Pamiętaj jednak: przetrwała absurdalny rejs po dalekim, bezmiernym akwenie. Jej cierpliwość jest głęboka, lecz jeśli raz zawiedziesz jej zaufanie, niezwykle trudno będzie je odzyskać.",
+      "kr_sha256": "f9422022d37cf1d75eafe5be34c4a79ae3a285236bcac650f982927312cb3848",
+      "en_sha256": "2a95d12a329bc6043dcdaa8bbcaaa489f96218879f4799ce3fd19acf25bf8424",
+      "origin": "ai"
+    },
+    "dataList[id=ahab_ishmael_profile].content": {
+      "pl": "Ishmael\nK\n23 września\nA\n171 CM\n57 KG",
+      "kr_sha256": "dd125e8f5124b2e579727605e55ac50d999cdf626120f7e425a1ff52a1266948",
+      "en_sha256": "cf3ba059ad8ec96af92ac1875d18acb7c0eb91339d85ec9d19244ee798b123a7",
+      "origin": "ai"
+    },
+    "dataList[id=alone_dialog].content": {
+      "pl": "Bezczynność",
+      "kr_sha256": "13fdf5681a9bcb1d50a66cf1114f60887b1fa41f77dfde584ffb4551a5169f26",
+      "en_sha256": "ab0171ca0494d441cb6fe96e2efbe1c2a129f1d87cd6c17f03613cfd111149dd",
+      "origin": "ai"
+    },
+    "dataList[id=blade__donquixote_analysis].content": {
+      "pl": "Gdyby mierzyć wartość Grzeszników samym zapałem, ta Grzeszniczka otrzymałaby najwyższą notę. Jako zapalona kolekcjonerka i wielbicielka wszystkiego, co związane z Fikserami, obwiesza się od stóp do głów pamiątkami z nimi związanymi. Nie wpływa to na jej skuteczność bojową, nie ma więc potrzeby nakładania na nią zakazów. Sama głęboko wczuwa się w rolę „sprawiedliwego Fiksera” (czy ktoś taki w ogóle kiedykolwiek istniał?), przez co zachowuje się przesadnie niczym trzeciorzędna aktorka. Dla sprawnego przebiegu misji najlepiej wtórować jej w tej grze.",
+      "kr_sha256": "edaf49aa32d4f3893a350763f798cb24fb5cf75eebef07413be79c38bef1d980",
+      "en_sha256": "68bd008388fd5de25bece9416f0b0112dd32f96cf1019d75e2c2069db780fc93",
+      "origin": "ai"
+    },
+    "dataList[id=blade_donquixote_profile].content": {
+      "pl": "Don Quixote\nK\n23 września\nA\n163 CM\n52 KG",
+      "kr_sha256": "64a820c80678823e748792da852f9fdce2072be5a641e80797a015db25c451cf",
+      "en_sha256": "dd60747a244b2f8e319f323c91e147062aebeea0995e574c9f5405892eb5c3f7",
+      "origin": "ai"
+    },
+    "dataList[id=blade_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=blade_faust_profile].content": {
+      "pl": "Faust\nK\n23 września\nA\n174 CM\n59 KG",
+      "kr_sha256": "032c624c7be4a371e4899547dd7116bf3da0b266e1baf35e8758d05648be3d8b",
+      "en_sha256": "0258adfe4047baff7b2a8d225fa585ff8d206003832b7cf899904f04d823fda8",
+      "origin": "ai"
+    },
+    "dataList[id=blade_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=blade_meursault_profile].content": {
+      "pl": "Meursault\nM\n23 września\nA\n188 CM\n82 KG",
+      "kr_sha256": "8cc8a395c3e4ff042f64f7520e688fd52b1609e1360ae9d6ec5c687a85dafb6e",
+      "en_sha256": "f33b3404ca7c902057d1d7a11a6a03b72621ac26a7751ed92129f48dad772d93",
+      "origin": "ai"
+    },
+    "dataList[id=blade_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=blade_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    },
+    "dataList[id=blade_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=butler_ishmael_profile#2].content": {
+      "pl": "Możesz czuć przygnębienie na widok licznych ułomności swoich Grzeszników, lecz bez obaw — ta Grzeszniczka należy do nielicznych, którzy wykonują zadania bez zbędnego narzekania. Potrafi podejmować rozsądne decyzje, więc szukając trzeźwej rady, warto zagaić rozmowę, spoglądając w jej stronę. Pamiętaj jednak: przetrwała absurdalny rejs po dalekim, bezmiernym akwenie. Jej cierpliwość jest głęboka, lecz jeśli raz zawiedziesz jej zaufanie, niezwykle trudno będzie je odzyskać.",
+      "kr_sha256": "f9422022d37cf1d75eafe5be34c4a79ae3a285236bcac650f982927312cb3848",
+      "en_sha256": "2a95d12a329bc6043dcdaa8bbcaaa489f96218879f4799ce3fd19acf25bf8424",
+      "origin": "ai"
+    },
+    "dataList[id=butler_ishmael_profile].content": {
+      "pl": "Ishmael\nK\n23 września\nA\n171 CM\n57 KG",
+      "kr_sha256": "dd125e8f5124b2e579727605e55ac50d999cdf626120f7e425a1ff52a1266948",
+      "en_sha256": "cf3ba059ad8ec96af92ac1875d18acb7c0eb91339d85ec9d19244ee798b123a7",
+      "origin": "ai"
+    },
+    "dataList[id=butler_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=butler_outis_profile].content": {
+      "pl": "Outis\nK\n23 września\nA\n177 CM\n64 KG",
+      "kr_sha256": "34f92451c290a2076bafbdd11566c29c4e5cc9767296444a2755e790d0047900",
+      "en_sha256": "fc947cf106c2055da46441deed787186ef3763dd55d29aa6b5d911dc5fd701eb",
+      "origin": "ai"
+    },
+    "dataList[id=butler_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=butler_ryoshu_profile].content": {
+      "pl": "Ryōshū\nK\n23 września\nA\n171 CM\n58 KG",
+      "kr_sha256": "b6b9491c422fe316aa58d4d63ee5e3ad0cfd328ffde0a1b9a2156cdfefa8bed7",
+      "en_sha256": "81497baabbe05bf8b4747d26e521cef78004b140cc88562810b47f5f19eb6b68",
+      "origin": "ai"
+    },
+    "dataList[id=cinq_donquixote_analysis].content": {
+      "pl": "Gdyby mierzyć wartość Grzeszników samym zapałem, ta Grzeszniczka otrzymałaby najwyższą notę. Jako zapalona kolekcjonerka i wielbicielka wszystkiego, co związane z Fikserami, obwiesza się od stóp do głów pamiątkami z nimi związanymi. Nie wpływa to na jej skuteczność bojową, nie ma więc potrzeby nakładania na nią zakazów. Sama głęboko wczuwa się w rolę „sprawiedliwego Fiksera” (czy ktoś taki w ogóle kiedykolwiek istniał?), przez co zachowuje się przesadnie niczym trzeciorzędna aktorka. Dla sprawnego przebiegu misji najlepiej wtórować jej w tej grze.",
+      "kr_sha256": "edaf49aa32d4f3893a350763f798cb24fb5cf75eebef07413be79c38bef1d980",
+      "en_sha256": "68bd008388fd5de25bece9416f0b0112dd32f96cf1019d75e2c2069db780fc93",
+      "origin": "ai"
+    },
+    "dataList[id=cinq_donquixote_profile].content": {
+      "pl": "Don Quixote\nK\n23 września\nA\n163 CM\n52 KG",
+      "kr_sha256": "64a820c80678823e748792da852f9fdce2072be5a641e80797a015db25c451cf",
+      "en_sha256": "dd60747a244b2f8e319f323c91e147062aebeea0995e574c9f5405892eb5c3f7",
+      "origin": "ai"
+    },
+    "dataList[id=cinq_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=cinq_outis_profile].content": {
+      "pl": "Outis\nK\n23 września\nA\n177 CM\n64 KG",
+      "kr_sha256": "34f92451c290a2076bafbdd11566c29c4e5cc9767296444a2755e790d0047900",
+      "en_sha256": "fc947cf106c2055da46441deed787186ef3763dd55d29aa6b5d911dc5fd701eb",
+      "origin": "ai"
+    },
+    "dataList[id=cinq_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    },
+    "dataList[id=cinq_sinclair_profile].content": {
+      "pl": "Sinclair\nM\n23 września\nA\n163 CM\n54 KG",
+      "kr_sha256": "f8aad9ba7f6b11159663cc9ac06b59337af8d7b77a6e1d63262c100f0f8153e9",
+      "en_sha256": "e677dcc476a33071c1a8aaaa75598f0fc7def44df752e671a8750b3c3cc7a478",
+      "origin": "ai"
+    },
+    "dataList[id=cong_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=dawn_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    },
+    "dataList[id=dawn_sinclair_profile].content": {
+      "pl": "Sinclair\nM\n23 września\nA\n163 CM\n54 KG",
+      "kr_sha256": "f8aad9ba7f6b11159663cc9ac06b59337af8d7b77a6e1d63262c100f0f8153e9",
+      "en_sha256": "e677dcc476a33071c1a8aaaa75598f0fc7def44df752e671a8750b3c3cc7a478",
+      "origin": "ai"
+    },
+    "dataList[id=deadrabbit_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=deadrabbit_meursault_profile].content": {
+      "pl": "Meursault\nM\n23 września\nA\n188 CM\n82 KG",
+      "kr_sha256": "8cc8a395c3e4ff042f64f7520e688fd52b1609e1360ae9d6ec5c687a85dafb6e",
+      "en_sha256": "f33b3404ca7c902057d1d7a11a6a03b72621ac26a7751ed92129f48dad772d93",
+      "origin": "ai"
+    },
+    "dataList[id=dialog01].content": {
+      "pl": "Rozmowa #1",
+      "kr_sha256": "43da8f2faf5af065a534f87945d13e2671f10c1f1b86cbf5539f9d5668181a0f",
+      "en_sha256": "d8327e49baa7a80f1b8defc3401ed37a42b9d7b85b6c0f3e613314864c7823c1",
+      "origin": "ai"
+    },
+    "dataList[id=dialog02].content": {
+      "pl": "Rozmowa #2",
+      "kr_sha256": "ae22d4fc09a33be838e1721a7aa26d5dbd2dd2aab86575413ab771d478069747",
+      "en_sha256": "5667ed9b7c638fc696d15f04daa524129cb2c0d508d0ad864d0321c196679e8d",
+      "origin": "ai"
+    },
+    "dataList[id=dialog03].content": {
+      "pl": "Rozmowa #3",
+      "kr_sha256": "65e016ef58165be68acb39554fb899828842c8c1029509638e067da9d0efde1f",
+      "en_sha256": "aacd498edfed5f3978d9299ac7428f48d6348071bc1c00bf0dade7576403c647",
+      "origin": "ai"
+    },
+    "dataList[id=dieci_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=dieci_honglu_profile].content": {
+      "pl": "Hong Lu\nM\n23 września\nA\n178 CM\n74 KG",
+      "kr_sha256": "138974875b59633c4dbde1d9d09dffb4d30475f1697de0058e13a975ea433641",
+      "en_sha256": "5e8c8cd1216318375890d57dc5115d6b0015ce1481ea613bb9fbf0301acbe583",
+      "origin": "ai"
+    },
+    "dataList[id=dieci_rodion_analysis].content": {
+      "pl": "Grzeszniczka, w której aż nazbyt wyraźnie widać nieszczęsne piętno wychowania w Zaułkach. Kocha pieniądze, hazard i zakłady, dlatego wymaga bacznego nadzoru Kierownika. Ma w zwyczaju zbywać polecenia nieudolnym mrugnięciem oka lub głupkowatym żartem — zalecamy niekiedy przyjąć surową postawę, by przypomnieć jej o hierarchii. Nieregularnie popada w przygnębienie; Kierownik nie jest w stanie nic na to poradzić, najwydajniej więc po prostu przeczekać ten stan w ciszy.",
+      "kr_sha256": "214505df2f89f608127bed810f9eeddb0cbfa9d7d5d35b1d623661eb58332971",
+      "en_sha256": "a7e6a2e26780de9d4df99f62a52b9f4757d8d43db6cfa12ea71c336624722cb7",
+      "origin": "ai"
+    },
+    "dataList[id=dieci_rodion_profile].content": {
+      "pl": "Rodion\nK\n23 września\nA\n182 CM\n65 KG",
+      "kr_sha256": "fe4909213baaade87bf11ab848406cf5996f3ba714cc3bbcb2eb6aa407295dbc",
+      "en_sha256": "c11c78fe54b5f3770f42dce7180db7e83694a78a50be8a25b4e6377f2b3a9ffc",
+      "origin": "ai"
+    },
+    "dataList[id=dieci_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=dieci_yisang_profile].content": {
+      "pl": "Yi Sang\nM\n23 września\nA\n176 CM\n70 KG",
+      "kr_sha256": "f146894c14026ff08b245c8751108aee5f727398249345ddfe9f29bf246b1e37",
+      "en_sha256": "e4b719367b0b8bfd2725b150c731c568d5043a35be84fc1bc73967958df424ef",
+      "origin": "ai"
+    },
+    "dataList[id=dinner_dialog].content": {
+      "pl": "Wieczorna rozmowa w lobby",
+      "kr_sha256": "03ddf3d90ffacb24495729cf40e9515fa1e4dbdd7b80524085c777ef07b4b399",
+      "en_sha256": "19112f002e52decfa4665aa3549a5eb315e89f35ac7867504674c93d22b80ddd",
+      "origin": "ai"
+    },
+    "dataList[id=ex_success].content": {
+      "pl": "Zwycięstwo EX",
+      "kr_sha256": "8f9090b2b9873ef453a6d7a1c149e30fc95612fa7adc885f2123df364b90701c",
+      "en_sha256": "ef8930303094339d262c5d6c877069e33b9ea30a2f955a05fcbf01ceebae07dc",
+      "origin": "ai"
+    },
+    "dataList[id=failure].content": {
+      "pl": "Porażka w walce",
+      "kr_sha256": "448c75d266c787bab94bce60c9c5028fc5b71b8d644e8dc4dcc89ee47bc1713c",
+      "en_sha256": "c042d1d12f19d17b9cd47e4060e47cecce7eae63306e79578ba5013276f5e528",
+      "origin": "ai"
+    },
+    "dataList[id=gcorp_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=gcorp_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=hook_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=hook_gregor_profile].content": {
+      "pl": "Gregor\nM\n23 września\nA\n167 CM\n68 KG",
+      "kr_sha256": "8144e2436b70b040a971c5c81fc82d19f6d21c44d0383523110f31ff9f5a2054",
+      "en_sha256": "a485920c01eab2433e9545755ef6fae23b146041fee5aaeeb1c81bca2e0f5287",
+      "origin": "ai"
+    },
+    "dataList[id=hook_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=hook_honglu_profile].content": {
+      "pl": "Hong Lu\nM\n23 września\nA\n178 CM\n74 KG",
+      "kr_sha256": "138974875b59633c4dbde1d9d09dffb4d30475f1697de0058e13a975ea433641",
+      "en_sha256": "5e8c8cd1216318375890d57dc5115d6b0015ce1481ea613bb9fbf0301acbe583",
+      "origin": "ai"
+    },
+    "dataList[id=kcorp_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=kcorp_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=kcorp_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=kcorp_rodion_analysis].content": {
+      "pl": "Grzeszniczka, w której aż nazbyt wyraźnie widać nieszczęsne piętno wychowania w Zaułkach. Kocha pieniądze, hazard i zakłady, dlatego wymaga bacznego nadzoru Kierownika. Ma w zwyczaju zbywać polecenia nieudolnym mrugnięciem oka lub głupkowatym żartem — zalecamy niekiedy przyjąć surową postawę, by przypomnieć jej o hierarchii. Nieregularnie popada w przygnębienie; Kierownik nie jest w stanie nic na to poradzić, najwydajniej więc po prostu przeczekać ten stan w ciszy.",
+      "kr_sha256": "214505df2f89f608127bed810f9eeddb0cbfa9d7d5d35b1d623661eb58332971",
+      "en_sha256": "a7e6a2e26780de9d4df99f62a52b9f4757d8d43db6cfa12ea71c336624722cb7",
+      "origin": "ai"
+    },
+    "dataList[id=kurokumo_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=kurokumo_gregor_profile].content": {
+      "pl": "Gregor\nM\n23 września\nA\n167 CM\n68 KG",
+      "kr_sha256": "8144e2436b70b040a971c5c81fc82d19f6d21c44d0383523110f31ff9f5a2054",
+      "en_sha256": "a485920c01eab2433e9545755ef6fae23b146041fee5aaeeb1c81bca2e0f5287",
+      "origin": "ai"
+    },
+    "dataList[id=kurokumo_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=kurokumo_rodion_analysis].content": {
+      "pl": "Grzeszniczka, w której aż nazbyt wyraźnie widać nieszczęsne piętno wychowania w Zaułkach. Kocha pieniądze, hazard i zakłady, dlatego wymaga bacznego nadzoru Kierownika. Ma w zwyczaju zbywać polecenia nieudolnym mrugnięciem oka lub głupkowatym żartem — zalecamy niekiedy przyjąć surową postawę, by przypomnieć jej o hierarchii. Nieregularnie popada w przygnębienie; Kierownik nie jest w stanie nic na to poradzić, najwydajniej więc po prostu przeczekać ten stan w ciszy.",
+      "kr_sha256": "214505df2f89f608127bed810f9eeddb0cbfa9d7d5d35b1d623661eb58332971",
+      "en_sha256": "a7e6a2e26780de9d4df99f62a52b9f4757d8d43db6cfa12ea71c336624722cb7",
+      "origin": "ai"
+    },
+    "dataList[id=kurokumo_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=lcb_rodion_analysis].content": {
+      "pl": "Grzeszniczka, w której aż nazbyt wyraźnie widać nieszczęsne piętno wychowania w Zaułkach. Kocha pieniądze, hazard i zakłady, dlatego wymaga bacznego nadzoru Kierownika. Ma w zwyczaju zbywać polecenia nieudolnym mrugnięciem oka lub głupkowatym żartem — zalecamy niekiedy przyjąć surową postawę, by przypomnieć jej o hierarchii. Nieregularnie popada w przygnębienie; Kierownik nie jest w stanie nic na to poradzić, najwydajniej więc po prostu przeczekać ten stan w ciszy.",
+      "kr_sha256": "214505df2f89f608127bed810f9eeddb0cbfa9d7d5d35b1d623661eb58332971",
+      "en_sha256": "a7e6a2e26780de9d4df99f62a52b9f4757d8d43db6cfa12ea71c336624722cb7",
+      "origin": "ai"
+    },
+    "dataList[id=lccb_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=lccb_ryoshu_profile].content": {
+      "pl": "Ryōshū\nK\n23 września\nA\n171 CM\n58 KG",
+      "kr_sha256": "b6b9491c422fe316aa58d4d63ee5e3ad0cfd328ffde0a1b9a2156cdfefa8bed7",
+      "en_sha256": "81497baabbe05bf8b4747d26e521cef78004b140cc88562810b47f5f19eb6b68",
+      "origin": "ai"
+    },
+    "dataList[id=lcorp_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=lego_donquixote_analysis].content": {
+      "pl": "Gdyby mierzyć wartość Grzeszników samym zapałem, ta Grzeszniczka otrzymałaby najwyższą notę. Jako zapalona kolekcjonerka i wielbicielka wszystkiego, co związane z Fikserami, obwiesza się od stóp do głów pamiątkami z nimi związanymi. Nie wpływa to na jej skuteczność bojową, nie ma więc potrzeby nakładania na nią zakazów. Sama głęboko wczuwa się w rolę „sprawiedliwego Fiksera” (czy ktoś taki w ogóle kiedykolwiek istniał?), przez co zachowuje się przesadnie niczym trzeciorzędna aktorka. Dla sprawnego przebiegu misji najlepiej wtórować jej w tej grze.",
+      "kr_sha256": "edaf49aa32d4f3893a350763f798cb24fb5cf75eebef07413be79c38bef1d980",
+      "en_sha256": "68bd008388fd5de25bece9416f0b0112dd32f96cf1019d75e2c2069db780fc93",
+      "origin": "ai"
+    },
+    "dataList[id=lego_donquixote_profile].content": {
+      "pl": "Don Quixote\nK\n23 września\nA\n163 CM\n52 KG",
+      "kr_sha256": "64a820c80678823e748792da852f9fdce2072be5a641e80797a015db25c451cf",
+      "en_sha256": "dd60747a244b2f8e319f323c91e147062aebeea0995e574c9f5405892eb5c3f7",
+      "origin": "ai"
+    },
+    "dataList[id=lego_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=lego_faust_profile].content": {
+      "pl": "Faust\nK\n23 września\nA\n174 CM\n59 KG",
+      "kr_sha256": "032c624c7be4a371e4899547dd7116bf3da0b266e1baf35e8758d05648be3d8b",
+      "en_sha256": "0258adfe4047baff7b2a8d225fa585ff8d206003832b7cf899904f04d823fda8",
+      "origin": "ai"
+    },
+    "dataList[id=lego_heathcliff_analysis].content": {
+      "pl": "Grzesznik przedkładający natychmiastowy czyn nad logiczny namysł. Jego myśli i emocje malują się wprost na twarzy i w słowach, których nawet nie próbuje kryć — toteż budowanie z nim relacji może przyprawić Kierownika o ból głowy (bądź uraz fizyczny skutkujący bólem głowy). Pragniemy zaznaczyć, że nie świadczy to o trwałym uszkodzeniu jego procesów myślowych. Jeśli napad furii nie ustępuje przez dłuższy czas, prosimy o kontakt z działem kadr. Gdy jednak pojmiesz, że to typ prostolinijny i nieskomplikowany, łatwo będzie nad nim zapanować.",
+      "kr_sha256": "59ea38b2cc036a5f979fb5ab82a0d96a49213825c46fb95eb90c3a475c4ba433",
+      "en_sha256": "39475f2fc6c08ead67231ec7a2e4e8bf1eca08ef43c504a0198173e0f01ced37",
+      "origin": "ai"
+    },
+    "dataList[id=lego_ishmael_analysis].content": {
+      "pl": "Możesz czuć przygnębienie na widok licznych ułomności swoich Grzeszników, lecz bez obaw — ta Grzeszniczka należy do nielicznych, którzy wykonują zadania bez zbędnego narzekania. Potrafi podejmować rozsądne decyzje, więc szukając trzeźwej rady, warto zagaić rozmowę, spoglądając w jej stronę. Pamiętaj jednak: przetrwała absurdalny rejs po dalekim, bezmiernym akwenie. Jej cierpliwość jest głęboka, lecz jeśli raz zawiedziesz jej zaufanie, niezwykle trudno będzie je odzyskać.",
+      "kr_sha256": "f9422022d37cf1d75eafe5be34c4a79ae3a285236bcac650f982927312cb3848",
+      "en_sha256": "2a95d12a329bc6043dcdaa8bbcaaa489f96218879f4799ce3fd19acf25bf8424",
+      "origin": "ai"
+    },
+    "dataList[id=lego_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=lego_outis_profile].content": {
+      "pl": "Outis\nK\n23 września\nA\n177 CM\n64 KG",
+      "kr_sha256": "34f92451c290a2076bafbdd11566c29c4e5cc9767296444a2755e790d0047900",
+      "en_sha256": "fc947cf106c2055da46441deed787186ef3763dd55d29aa6b5d911dc5fd701eb",
+      "origin": "ai"
+    },
+    "dataList[id=lego_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    },
+    "dataList[id=lego_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=liu_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=liu_ishmael_analysis].content": {
+      "pl": "Możesz czuć przygnębienie na widok licznych ułomności swoich Grzeszników, lecz bez obaw — ta Grzeszniczka należy do nielicznych, którzy wykonują zadania bez zbędnego narzekania. Potrafi podejmować rozsądne decyzje, więc szukając trzeźwej rady, warto zagaić rozmowę, spoglądając w jej stronę. Pamiętaj jednak: przetrwała absurdalny rejs po dalekim, bezmiernym akwenie. Jej cierpliwość jest głęboka, lecz jeśli raz zawiedziesz jej zaufanie, niezwykle trudno będzie je odzyskać.",
+      "kr_sha256": "f9422022d37cf1d75eafe5be34c4a79ae3a285236bcac650f982927312cb3848",
+      "en_sha256": "2a95d12a329bc6043dcdaa8bbcaaa489f96218879f4799ce3fd19acf25bf8424",
+      "origin": "ai"
+    },
+    "dataList[id=liu_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=liu_rodion_analysis].content": {
+      "pl": "Grzeszniczka, w której aż nazbyt wyraźnie widać nieszczęsne piętno wychowania w Zaułkach. Kocha pieniądze, hazard i zakłady, dlatego wymaga bacznego nadzoru Kierownika. Ma w zwyczaju zbywać polecenia nieudolnym mrugnięciem oka lub głupkowatym żartem — zalecamy niekiedy przyjąć surową postawę, by przypomnieć jej o hierarchii. Nieregularnie popada w przygnębienie; Kierownik nie jest w stanie nic na to poradzić, najwydajniej więc po prostu przeczekać ten stan w ciszy.",
+      "kr_sha256": "214505df2f89f608127bed810f9eeddb0cbfa9d7d5d35b1d623661eb58332971",
+      "en_sha256": "a7e6a2e26780de9d4df99f62a52b9f4757d8d43db6cfa12ea71c336624722cb7",
+      "origin": "ai"
+    },
+    "dataList[id=liu_rodion_profile].content": {
+      "pl": "Rodion\nK\n23 września\nA\n182 CM\n65 KG",
+      "kr_sha256": "fe4909213baaade87bf11ab848406cf5996f3ba714cc3bbcb2eb6aa407295dbc",
+      "en_sha256": "c11c78fe54b5f3770f42dce7180db7e83694a78a50be8a25b4e6377f2b3a9ffc",
+      "origin": "ai"
+    },
+    "dataList[id=liu_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=liu_ryoshu_profile].content": {
+      "pl": "Ryōshū\nK\n23 września\nA\n171 CM\n58 KG",
+      "kr_sha256": "b6b9491c422fe316aa58d4d63ee5e3ad0cfd328ffde0a1b9a2156cdfefa8bed7",
+      "en_sha256": "81497baabbe05bf8b4747d26e521cef78004b140cc88562810b47f5f19eb6b68",
+      "origin": "ai"
+    },
+    "dataList[id=lunch_dialog].content": {
+      "pl": "Popołudniowa rozmowa w lobby",
+      "kr_sha256": "7782b0e666c84a42a22101b0283be9916130a9ad437ac5ef40d20a43f341dc2a",
+      "en_sha256": "87d4e2dd9ec0cb8fd9715985c089fa98b481356aeb9921e2671cd9968c49136b",
+      "origin": "ai"
+    },
+    "dataList[id=mariachi_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    },
+    "dataList[id=middlefinger_donquixote_analysis].content": {
+      "pl": "Gdyby mierzyć wartość Grzeszników samym zapałem, ta Grzeszniczka otrzymałaby najwyższą notę. Jako zapalona kolekcjonerka i wielbicielka wszystkiego, co związane z Fikserami, obwiesza się od stóp do głów pamiątkami z nimi związanymi. Nie wpływa to na jej skuteczność bojową, nie ma więc potrzeby nakładania na nią zakazów. Sama głęboko wczuwa się w rolę „sprawiedliwego Fiksera” (czy ktoś taki w ogóle kiedykolwiek istniał?), przez co zachowuje się przesadnie niczym trzeciorzędna aktorka. Dla sprawnego przebiegu misji najlepiej wtórować jej w tej grze.",
+      "kr_sha256": "edaf49aa32d4f3893a350763f798cb24fb5cf75eebef07413be79c38bef1d980",
+      "en_sha256": "68bd008388fd5de25bece9416f0b0112dd32f96cf1019d75e2c2069db780fc93",
+      "origin": "ai"
+    },
+    "dataList[id=middlefinger_donquixote_profile].content": {
+      "pl": "Don Quixote\nK\n23 września\nA\n163 CM\n52 KG",
+      "kr_sha256": "64a820c80678823e748792da852f9fdce2072be5a641e80797a015db25c451cf",
+      "en_sha256": "dd60747a244b2f8e319f323c91e147062aebeea0995e574c9f5405892eb5c3f7",
+      "origin": "ai"
+    },
+    "dataList[id=middlefinger_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=middlefinger_meursault_profile].content": {
+      "pl": "Meursault\nM\n23 września\nA\n188 CM\n82 KG",
+      "kr_sha256": "8cc8a395c3e4ff042f64f7520e688fd52b1609e1360ae9d6ec5c687a85dafb6e",
+      "en_sha256": "f33b3404ca7c902057d1d7a11a6a03b72621ac26a7751ed92129f48dad772d93",
+      "origin": "ai"
+    },
+    "dataList[id=molar_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=molar_outis_profile].content": {
+      "pl": "Outis\nK\n23 września\nA\n177 CM\n64 KG",
+      "kr_sha256": "34f92451c290a2076bafbdd11566c29c4e5cc9767296444a2755e790d0047900",
+      "en_sha256": "fc947cf106c2055da46441deed787186ef3763dd55d29aa6b5d911dc5fd701eb",
+      "origin": "ai"
+    },
+    "dataList[id=molar_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=molar_yisang_profile].content": {
+      "pl": "Yi Sang\nM\n23 września\nA\n176 CM\n70 KG",
+      "kr_sha256": "f146894c14026ff08b245c8751108aee5f727398249345ddfe9f29bf246b1e37",
+      "en_sha256": "e4b719367b0b8bfd2725b150c731c568d5043a35be84fc1bc73967958df424ef",
+      "origin": "ai"
+    },
+    "dataList[id=morning_dialog].content": {
+      "pl": "Poranna rozmowa w lobby",
+      "kr_sha256": "6273d25d2d109a2479b226f5100e9dcc0f323d6df497f253d361761f11417ce5",
+      "en_sha256": "7b17292888584a24c1abae17c250ca48b05cbdf69cbc802ff912df00d158509c",
+      "origin": "ai"
+    },
+    "dataList[id=ncorp_donquixote_analysis].content": {
+      "pl": "Gdyby mierzyć wartość Grzeszników samym zapałem, ta Grzeszniczka otrzymałaby najwyższą notę. Jako zapalona kolekcjonerka i wielbicielka wszystkiego, co związane z Fikserami, obwiesza się od stóp do głów pamiątkami z nimi związanymi. Nie wpływa to na jej skuteczność bojową, nie ma więc potrzeby nakładania na nią zakazów. Sama głęboko wczuwa się w rolę „sprawiedliwego Fiksera” (czy ktoś taki w ogóle kiedykolwiek istniał?), przez co zachowuje się przesadnie niczym trzeciorzędna aktorka. Dla sprawnego przebiegu misji najlepiej wtórować jej w tej grze.",
+      "kr_sha256": "edaf49aa32d4f3893a350763f798cb24fb5cf75eebef07413be79c38bef1d980",
+      "en_sha256": "68bd008388fd5de25bece9416f0b0112dd32f96cf1019d75e2c2069db780fc93",
+      "origin": "ai"
+    },
+    "dataList[id=ncorp_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=ncorp_heathcliff_analysis].content": {
+      "pl": "Grzesznik przedkładający natychmiastowy czyn nad logiczny namysł. Jego myśli i emocje malują się wprost na twarzy i w słowach, których nawet nie próbuje kryć — toteż budowanie z nim relacji może przyprawić Kierownika o ból głowy (bądź uraz fizyczny skutkujący bólem głowy). Pragniemy zaznaczyć, że nie świadczy to o trwałym uszkodzeniu jego procesów myślowych. Jeśli napad furii nie ustępuje przez dłuższy czas, prosimy o kontakt z działem kadr. Gdy jednak pojmiesz, że to typ prostolinijny i nieskomplikowany, łatwo będzie nad nim zapanować.",
+      "kr_sha256": "59ea38b2cc036a5f979fb5ab82a0d96a49213825c46fb95eb90c3a475c4ba433",
+      "en_sha256": "39475f2fc6c08ead67231ec7a2e4e8bf1eca08ef43c504a0198173e0f01ced37",
+      "origin": "ai"
+    },
+    "dataList[id=ncorp_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=ncorp_rodion_analysis].content": {
+      "pl": "Grzeszniczka, w której aż nazbyt wyraźnie widać nieszczęsne piętno wychowania w Zaułkach. Kocha pieniądze, hazard i zakłady, dlatego wymaga bacznego nadzoru Kierownika. Ma w zwyczaju zbywać polecenia nieudolnym mrugnięciem oka lub głupkowatym żartem — zalecamy niekiedy przyjąć surową postawę, by przypomnieć jej o hierarchii. Nieregularnie popada w przygnębienie; Kierownik nie jest w stanie nic na to poradzić, najwydajniej więc po prostu przeczekać ten stan w ciszy.",
+      "kr_sha256": "214505df2f89f608127bed810f9eeddb0cbfa9d7d5d35b1d623661eb58332971",
+      "en_sha256": "a7e6a2e26780de9d4df99f62a52b9f4757d8d43db6cfa12ea71c336624722cb7",
+      "origin": "ai"
+    },
+    "dataList[id=ncorp_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    },
+    "dataList[id=organization].content": {
+      "pl": "Wystawienie do składu",
+      "kr_sha256": "5a395c8fe5a087078de6dc0d515363f6894fac8808305c43e1845dd9f0d0a5d4",
+      "en_sha256": "870a8ffd98f4f2bd5041ee4cebde82de4bdeb253fac88c5469a2f15f15614186",
+      "origin": "ai"
+    },
+    "dataList[id=oufi_heathcliff_analysis].content": {
+      "pl": "Grzesznik przedkładający natychmiastowy czyn nad logiczny namysł. Jego myśli i emocje malują się wprost na twarzy i w słowach, których nawet nie próbuje kryć — toteż budowanie z nim relacji może przyprawić Kierownika o ból głowy (bądź uraz fizyczny skutkujący bólem głowy). Pragniemy zaznaczyć, że nie świadczy to o trwałym uszkodzeniu jego procesów myślowych. Jeśli napad furii nie ustępuje przez dłuższy czas, prosimy o kontakt z działem kadr. Gdy jednak pojmiesz, że to typ prostolinijny i nieskomplikowany, łatwo będzie nad nim zapanować.",
+      "kr_sha256": "59ea38b2cc036a5f979fb5ab82a0d96a49213825c46fb95eb90c3a475c4ba433",
+      "en_sha256": "39475f2fc6c08ead67231ec7a2e4e8bf1eca08ef43c504a0198173e0f01ced37",
+      "origin": "ai"
+    },
+    "dataList[id=oufi_heathcliff_profile].content": {
+      "pl": "Heathcliff\nM\n23 września\nA\n180 CM\n78 KG",
+      "kr_sha256": "045847e032b928db32e0ff2e146df40dbfc9c4917edf856c1cc8683f3579f208",
+      "en_sha256": "523c83c62fe9f941744de8501ca922eef014661c6241a53894dc0c66f45a7673",
+      "origin": "ai"
+    },
+    "dataList[id=qui_heathcliff_analysis].content": {
+      "pl": "Grzesznik przedkładający natychmiastowy czyn nad logiczny namysł. Jego myśli i emocje malują się wprost na twarzy i w słowach, których nawet nie próbuje kryć — toteż budowanie z nim relacji może przyprawić Kierownika o ból głowy (bądź uraz fizyczny skutkujący bólem głowy). Pragniemy zaznaczyć, że nie świadczy to o trwałym uszkodzeniu jego procesów myślowych. Jeśli napad furii nie ustępuje przez dłuższy czas, prosimy o kontakt z działem kadr. Gdy jednak pojmiesz, że to typ prostolinijny i nieskomplikowany, łatwo będzie nad nim zapanować.",
+      "kr_sha256": "59ea38b2cc036a5f979fb5ab82a0d96a49213825c46fb95eb90c3a475c4ba433",
+      "en_sha256": "39475f2fc6c08ead67231ec7a2e4e8bf1eca08ef43c504a0198173e0f01ced37",
+      "origin": "ai"
+    },
+    "dataList[id=qui_heathcliff_profile].content": {
+      "pl": "Heathcliff\nM\n23 września\nA\n180 CM\n78 KG",
+      "kr_sha256": "045847e032b928db32e0ff2e146df40dbfc9c4917edf856c1cc8683f3579f208",
+      "en_sha256": "523c83c62fe9f941744de8501ca922eef014661c6241a53894dc0c66f45a7673",
+      "origin": "ai"
+    },
+    "dataList[id=rcorp_heathcliff_analysis].content": {
+      "pl": "Grzesznik przedkładający natychmiastowy czyn nad logiczny namysł. Jego myśli i emocje malują się wprost na twarzy i w słowach, których nawet nie próbuje kryć — toteż budowanie z nim relacji może przyprawić Kierownika o ból głowy (bądź uraz fizyczny skutkujący bólem głowy). Pragniemy zaznaczyć, że nie świadczy to o trwałym uszkodzeniu jego procesów myślowych. Jeśli napad furii nie ustępuje przez dłuższy czas, prosimy o kontakt z działem kadr. Gdy jednak pojmiesz, że to typ prostolinijny i nieskomplikowany, łatwo będzie nad nim zapanować.",
+      "kr_sha256": "59ea38b2cc036a5f979fb5ab82a0d96a49213825c46fb95eb90c3a475c4ba433",
+      "en_sha256": "39475f2fc6c08ead67231ec7a2e4e8bf1eca08ef43c504a0198173e0f01ced37",
+      "origin": "ai"
+    },
+    "dataList[id=rcorp_ishmael_analysis].content": {
+      "pl": "Możesz czuć przygnębienie na widok licznych ułomności swoich Grzeszników, lecz bez obaw — ta Grzeszniczka należy do nielicznych, którzy wykonują zadania bez zbędnego narzekania. Potrafi podejmować rozsądne decyzje, więc szukając trzeźwej rady, warto zagaić rozmowę, spoglądając w jej stronę. Pamiętaj jednak: przetrwała absurdalny rejs po dalekim, bezmiernym akwenie. Jej cierpliwość jest głęboka, lecz jeśli raz zawiedziesz jej zaufanie, niezwykle trudno będzie je odzyskać.",
+      "kr_sha256": "f9422022d37cf1d75eafe5be34c4a79ae3a285236bcac650f982927312cb3848",
+      "en_sha256": "2a95d12a329bc6043dcdaa8bbcaaa489f96218879f4799ce3fd19acf25bf8424",
+      "origin": "ai"
+    },
+    "dataList[id=rcorp_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=rcorp_meursault_profile].content": {
+      "pl": "Meursault\nM\n23 września\nA\n188 CM\n82 KG",
+      "kr_sha256": "8cc8a395c3e4ff042f64f7520e688fd52b1609e1360ae9d6ec5c687a85dafb6e",
+      "en_sha256": "f33b3404ca7c902057d1d7a11a6a03b72621ac26a7751ed92129f48dad772d93",
+      "origin": "ai"
+    },
+    "dataList[id=rings_outis_analysis].content": {
+      "pl": "Zależnie od kompetencji Kierownika Grzeszniczka ta może stać się znakomitą doradczynią. Ma jednak skłonność do nadmiernego wtrącania się, toteż zalecamy kwitować jej uwagi krótkim przytaknięciem. Jest biegła w taktyce i posiada bogate doświadczenie, warto więc korzystać z jej rad; zna się również świetnie na technologii warsztatowej, dzięki czemu można powierzyć jej drobne naprawy autobusu.\n[UWAGA] — W przeciwieństwie do pozostałych Grzeszników wgląd w akta dotyczące jej przeszłości jest zabroniony.\n[OSTRZEŻENIE] — Dopilnuj, by jej przebiegły umysł nie pracował nad niczym wykraczającym poza misję firmy.",
+      "kr_sha256": "5aca4cfcc9601ad1a1690f8854edaf07e102869ec2c692febcfe64714ebd1ec0",
+      "en_sha256": "a2bb4d7d96bf7e93b16ca43f5daeb18d2056a716e74f70671d81e89ba4b5f116",
+      "origin": "ai"
+    },
+    "dataList[id=rings_outis_profile].content": {
+      "pl": "Outis\nK\n23 września\nA\n177 CM\n64 KG",
+      "kr_sha256": "34f92451c290a2076bafbdd11566c29c4e5cc9767296444a2755e790d0047900",
+      "en_sha256": "fc947cf106c2055da46441deed787186ef3763dd55d29aa6b5d911dc5fd701eb",
+      "origin": "ai"
+    },
+    "dataList[id=rings_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=rings_yisang_profile].content": {
+      "pl": "Yi Sang\nM\n23 września\nA\n176 CM\n70 KG",
+      "kr_sha256": "f146894c14026ff08b245c8751108aee5f727398249345ddfe9f29bf246b1e37",
+      "en_sha256": "e4b719367b0b8bfd2725b150c731c568d5043a35be84fc1bc73967958df424ef",
+      "origin": "ai"
+    },
+    "dataList[id=seven_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=seven_faust_profile].content": {
+      "pl": "Faust\nK\n23 września\nA\n174 CM\n59 KG",
+      "kr_sha256": "032c624c7be4a371e4899547dd7116bf3da0b266e1baf35e8758d05648be3d8b",
+      "en_sha256": "0258adfe4047baff7b2a8d225fa585ff8d206003832b7cf899904f04d823fda8",
+      "origin": "ai"
+    },
+    "dataList[id=seven_heathcliff_analysis].content": {
+      "pl": "Grzesznik przedkładający natychmiastowy czyn nad logiczny namysł. Jego myśli i emocje malują się wprost na twarzy i w słowach, których nawet nie próbuje kryć — toteż budowanie z nim relacji może przyprawić Kierownika o ból głowy (bądź uraz fizyczny skutkujący bólem głowy). Pragniemy zaznaczyć, że nie świadczy to o trwałym uszkodzeniu jego procesów myślowych. Jeśli napad furii nie ustępuje przez dłuższy czas, prosimy o kontakt z działem kadr. Gdy jednak pojmiesz, że to typ prostolinijny i nieskomplikowany, łatwo będzie nad nim zapanować.",
+      "kr_sha256": "59ea38b2cc036a5f979fb5ab82a0d96a49213825c46fb95eb90c3a475c4ba433",
+      "en_sha256": "39475f2fc6c08ead67231ec7a2e4e8bf1eca08ef43c504a0198173e0f01ced37",
+      "origin": "ai"
+    },
+    "dataList[id=seven_heathcliff_profile].content": {
+      "pl": "Heathcliff\nM\n23 września\nA\n180 CM\n78 KG",
+      "kr_sha256": "045847e032b928db32e0ff2e146df40dbfc9c4917edf856c1cc8683f3579f208",
+      "en_sha256": "523c83c62fe9f941744de8501ca922eef014661c6241a53894dc0c66f45a7673",
+      "origin": "ai"
+    },
+    "dataList[id=seven_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=seven_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=shi_donquixote_analysis].content": {
+      "pl": "Gdyby mierzyć wartość Grzeszników samym zapałem, ta Grzeszniczka otrzymałaby najwyższą notę. Jako zapalona kolekcjonerka i wielbicielka wszystkiego, co związane z Fikserami, obwiesza się od stóp do głów pamiątkami z nimi związanymi. Nie wpływa to na jej skuteczność bojową, nie ma więc potrzeby nakładania na nią zakazów. Sama głęboko wczuwa się w rolę „sprawiedliwego Fiksera” (czy ktoś taki w ogóle kiedykolwiek istniał?), przez co zachowuje się przesadnie niczym trzeciorzędna aktorka. Dla sprawnego przebiegu misji najlepiej wtórować jej w tej grze.",
+      "kr_sha256": "edaf49aa32d4f3893a350763f798cb24fb5cf75eebef07413be79c38bef1d980",
+      "en_sha256": "68bd008388fd5de25bece9416f0b0112dd32f96cf1019d75e2c2069db780fc93",
+      "origin": "ai"
+    },
+    "dataList[id=shi_heathcliff_analysis].content": {
+      "pl": "Grzesznik przedkładający natychmiastowy czyn nad logiczny namysł. Jego myśli i emocje malują się wprost na twarzy i w słowach, których nawet nie próbuje kryć — toteż budowanie z nim relacji może przyprawić Kierownika o ból głowy (bądź uraz fizyczny skutkujący bólem głowy). Pragniemy zaznaczyć, że nie świadczy to o trwałym uszkodzeniu jego procesów myślowych. Jeśli napad furii nie ustępuje przez dłuższy czas, prosimy o kontakt z działem kadr. Gdy jednak pojmiesz, że to typ prostolinijny i nieskomplikowany, łatwo będzie nad nim zapanować.",
+      "kr_sha256": "59ea38b2cc036a5f979fb5ab82a0d96a49213825c46fb95eb90c3a475c4ba433",
+      "en_sha256": "39475f2fc6c08ead67231ec7a2e4e8bf1eca08ef43c504a0198173e0f01ced37",
+      "origin": "ai"
+    },
+    "dataList[id=shi_ishmael_analysis].content": {
+      "pl": "Możesz czuć przygnębienie na widok licznych ułomności swoich Grzeszników, lecz bez obaw — ta Grzeszniczka należy do nielicznych, którzy wykonują zadania bez zbędnego narzekania. Potrafi podejmować rozsądne decyzje, więc szukając trzeźwej rady, warto zagaić rozmowę, spoglądając w jej stronę. Pamiętaj jednak: przetrwała absurdalny rejs po dalekim, bezmiernym akwenie. Jej cierpliwość jest głęboka, lecz jeśli raz zawiedziesz jej zaufanie, niezwykle trudno będzie je odzyskać.",
+      "kr_sha256": "f9422022d37cf1d75eafe5be34c4a79ae3a285236bcac650f982927312cb3848",
+      "en_sha256": "2a95d12a329bc6043dcdaa8bbcaaa489f96218879f4799ce3fd19acf25bf8424",
+      "origin": "ai"
+    },
+    "dataList[id=starb_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=starb_yisang_profile].content": {
+      "pl": "Yi Sang\nM\n23 września\nA\n176 CM\n70 KG",
+      "kr_sha256": "f146894c14026ff08b245c8751108aee5f727398249345ddfe9f29bf246b1e37",
+      "en_sha256": "e4b719367b0b8bfd2725b150c731c568d5043a35be84fc1bc73967958df424ef",
+      "origin": "ai"
+    },
+    "dataList[id=success].content": {
+      "pl": "Zwycięstwo w walce",
+      "kr_sha256": "20c307a80057a5550d4707dd81fc5d3468fd507534ae688f005a956eb34a933e",
+      "en_sha256": "0c2da8a1e7ba0be26f0cf72e7344ed93faadc6f099de861d2dacc8ac4a99f895",
+      "origin": "ai"
+    },
+    "dataList[id=sync_dialog01].content": {
+      "pl": "Rozmowa po Synchronizacji #1",
+      "kr_sha256": "e5d82a8beeb0245da4845fe51a4668374a236c0f0c6717796be8507a51eef742",
+      "en_sha256": "9025c513445fdc92e21675fa2270acaf1579626457e3ee8fd320430b9a2c7252",
+      "origin": "ai"
+    },
+    "dataList[id=sync_dialog02].content": {
+      "pl": "Rozmowa po Synchronizacji #2",
+      "kr_sha256": "84c0b9a53a4fdb0a084aed3120e5e16671c4081479d7377a7cec25cab42eade5",
+      "en_sha256": "07acdb67bce97a9af6a88dbe6db0fc03f455593a1d4831b027c98b6d56e4bec6",
+      "origin": "ai"
+    },
+    "dataList[id=synchronization].content": {
+      "pl": "Synchronizacja",
+      "kr_sha256": "3f2f3c5aa1f4ddc364e3a26066717df29775612ebcdb3974c40d03d0d16e5359",
+      "en_sha256": "9341ec2398fd2d9b7f73bd11722ac15c4bf18328298088e9a37c33bd697eae34",
+      "origin": "ai"
+    },
+    "dataList[id=ucorp_ishmael_analysis].content": {
+      "pl": "Możesz czuć przygnębienie na widok licznych ułomności swoich Grzeszników, lecz bez obaw — ta Grzeszniczka należy do nielicznych, którzy wykonują zadania bez zbędnego narzekania. Potrafi podejmować rozsądne decyzje, więc szukając trzeźwej rady, warto zagaić rozmowę, spoglądając w jej stronę. Pamiętaj jednak: przetrwała absurdalny rejs po dalekim, bezmiernym akwenie. Jej cierpliwość jest głęboka, lecz jeśli raz zawiedziesz jej zaufanie, niezwykle trudno będzie je odzyskać.",
+      "kr_sha256": "f9422022d37cf1d75eafe5be34c4a79ae3a285236bcac650f982927312cb3848",
+      "en_sha256": "2a95d12a329bc6043dcdaa8bbcaaa489f96218879f4799ce3fd19acf25bf8424",
+      "origin": "ai"
+    },
+    "dataList[id=ucorp_ishmael_profile].content": {
+      "pl": "Ishmael\nK\n23 września\nA\n171 CM\n57 KG",
+      "kr_sha256": "dd125e8f5124b2e579727605e55ac50d999cdf626120f7e425a1ff52a1266948",
+      "en_sha256": "cf3ba059ad8ec96af92ac1875d18acb7c0eb91339d85ec9d19244ee798b123a7",
+      "origin": "ai"
+    },
+    "dataList[id=ucorp_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    },
+    "dataList[id=ucorp_sinclair_profile].content": {
+      "pl": "Sinclair\nM\n23 września\nA\n163 CM\n54 KG",
+      "kr_sha256": "f8aad9ba7f6b11159663cc9ac06b59337af8d7b77a6e1d63262c100f0f8153e9",
+      "en_sha256": "e677dcc476a33071c1a8aaaa75598f0fc7def44df752e671a8750b3c3cc7a478",
+      "origin": "ai"
+    },
+    "dataList[id=wcorp_donquixote_analysis].content": {
+      "pl": "Gdyby mierzyć wartość Grzeszników samym zapałem, ta Grzeszniczka otrzymałaby najwyższą notę. Jako zapalona kolekcjonerka i wielbicielka wszystkiego, co związane z Fikserami, obwiesza się od stóp do głów pamiątkami z nimi związanymi. Nie wpływa to na jej skuteczność bojową, nie ma więc potrzeby nakładania na nią zakazów. Sama głęboko wczuwa się w rolę „sprawiedliwego Fiksera” (czy ktoś taki w ogóle kiedykolwiek istniał?), przez co zachowuje się przesadnie niczym trzeciorzędna aktorka. Dla sprawnego przebiegu misji najlepiej wtórować jej w tej grze.",
+      "kr_sha256": "edaf49aa32d4f3893a350763f798cb24fb5cf75eebef07413be79c38bef1d980",
+      "en_sha256": "68bd008388fd5de25bece9416f0b0112dd32f96cf1019d75e2c2069db780fc93",
+      "origin": "ai"
+    },
+    "dataList[id=wcorp_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=wcorp_meursault_analysis].content": {
+      "pl": "Wymaga jasnych i krótkich rozkazów — niewymagających żadnego własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e",
+      "origin": "ai"
+    },
+    "dataList[id=wcorp_yisang_analysis].content": {
+      "pl": "Dawniej najmłodszy główny badacz w Skrzydle [UTAJNIONO]; odznacza się inteligencją przewyższającą większość pozostałych Grzeszników. Szacujemy, że codzienna rozmowa z tym Grzesznikiem może okazać się trudna dla Kierownika wyłonionego w naszym obecnym procesie rekrutacji. Całkowite unikanie kontaktu niesie jednak własne zagrożenia. Jeśli Grzesznik milczy przez dłuższy czas, oznacza to, że przetwarza w głowie ciąg przemyśleń — zalecamy cierpliwie zaczekać.",
+      "kr_sha256": "89da1dc5b23572f9a6abb39b9ce9a3ea001daacb2b19c7a24f755f41e2827aee",
+      "en_sha256": "830f04bb0f0c2d1e5c40005b1ffb4aaa098b87625a061094900195fe18224439",
+      "origin": "ai"
+    },
+    "dataList[id=wcorp_yisang_profile].content": {
+      "pl": "Yi Sang\nM\n23 września\nA\n176 CM\n70 KG",
+      "kr_sha256": "f146894c14026ff08b245c8751108aee5f727398249345ddfe9f29bf246b1e37",
+      "en_sha256": "e4b719367b0b8bfd2725b150c731c568d5043a35be84fc1bc73967958df424ef",
+      "origin": "ai"
+    },
+    "dataList[id=wuthering_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=wuthering_faust_profile].content": {
+      "pl": "Faust\nK\n23 września\nA\n174 CM\n59 KG",
+      "kr_sha256": "032c624c7be4a371e4899547dd7116bf3da0b266e1baf35e8758d05648be3d8b",
+      "en_sha256": "0258adfe4047baff7b2a8d225fa585ff8d206003832b7cf899904f04d823fda8",
+      "origin": "ai"
+    },
+    "dataList[id=wuthering_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=wuthering_gregor_profile].content": {
+      "pl": "Gregor\nM\n23 września\nA\n167 CM\n68 KG",
+      "kr_sha256": "8144e2436b70b040a971c5c81fc82d19f6d21c44d0383523110f31ff9f5a2054",
+      "en_sha256": "a485920c01eab2433e9545755ef6fae23b146041fee5aaeeb1c81bca2e0f5287",
+      "origin": "ai"
+    },
+    "dataList[id=yuro_honglu_analysis].content": {
+      "pl": "Grzesznik, który przed staniem się zasobem naszej firmy żył w pełnym dostatku. Pragnie wolności, lecz niekiedy na widok potraw przyrządzonych przez innych Grzeszników zdradza zupełną nieznajomość kultury niższych warstw i zadaje uwłaczające pytania, doprowadzając towarzyszy do białej gorączki. Nie wynika to jednak ze złośliwości, a ze zwykłej ciekawości — nie dopuszczaj więc, by sięgano z tego powodu po ostrza.",
+      "kr_sha256": "30ef02e51ed5cecbfdeb8cc84d2d8f2a3805411ed74297c9858e97c464e8a1c6",
+      "en_sha256": "6399a25911179df7633850e85e7c956ca73b2bf6aa6e86bdd2471033bf305195",
+      "origin": "ai"
+    },
+    "dataList[id=yuro_honglu_profile].content": {
+      "pl": "Hong Lu\nM\n23 września\nA\n178 CM\n74 KG",
+      "kr_sha256": "138974875b59633c4dbde1d9d09dffb4d30475f1697de0058e13a975ea433641",
+      "en_sha256": "5e8c8cd1216318375890d57dc5115d6b0015ce1481ea613bb9fbf0301acbe583",
+      "origin": "ai"
+    },
+    "dataList[id=yuro_ryoshu_analysis].content": {
+      "pl": "Każdy Grzesznik ma własne credo i obowiązkiem Kierownika Wykonawczego jest je szanować — lecz w niektórych przypadkach trudno będzie nawet udawać zrozumienie. Z pewnością zauważyłeś już, że ta Grzeszniczka na co dzień milczy, paląc papierosa za papierosem, a jej oczy rozbłyskują euforią wyłącznie w trakcie walki. Uważa, że bezmyślne roztrzaskiwanie głów wrogów to prostacki akt cofający sztukę w rozwoju. [OSTRZEŻENIE] — za tą Grzeszniczką stoją wpływy, z którymi nawet nasza firma miałaby problem; stanowczo odradzamy ściąganie na siebie jej osobistej urazy.",
+      "kr_sha256": "33519b2938f6cab93f38cc435f7c54d087fe8134dd7ba65db85174fa7526497c",
+      "en_sha256": "bbfc5c88bb4c784c4af3b990089f12dccd8c02b13abdf7a80aae4371a68d74df",
+      "origin": "ai"
+    },
+    "dataList[id=yuro_ryoshu_profile].content": {
+      "pl": "Ryōshū\nK\n23 września\nA\n171 CM\n58 KG",
+      "kr_sha256": "b6b9491c422fe316aa58d4d63ee5e3ad0cfd328ffde0a1b9a2156cdfefa8bed7",
+      "en_sha256": "81497baabbe05bf8b4747d26e521cef78004b140cc88562810b47f5f19eb6b68",
+      "origin": "ai"
+    },
+    "dataList[id=zwei_faust_analysis].content": {
+      "pl": "Grzeszniczka, która skonstruowała silnik Mefistofelesa — autobusu Limbus Company. Sama utrzymuje, że w całym Mieście nie ma nikogo dorównującego jej wiedzą i mądrością, i nie sposób odmówić jej racji. Jej wyniosła postawa podczas rozmów z Kierownikiem może budzić irytację, lecz wobec faktu, iż traktuje z subtelną wyższością absolutnie każdego, nie ma najmniejszych szans na zmianę. Zalecamy po prostu przytaknąć i puścić to mimo uszu. Choć jej geniusz nie ma sobie równych, sami nie wiemy jeszcze, jak z niego właściwie korzystać. Być może odkryje to właśnie Kierownik?",
+      "kr_sha256": "dbb7516d0bb25d9ddbf37587e5cdb47a5447aef0a656368fa641e8e2729f290f",
+      "en_sha256": "87604e09d3ee70485e76255e9df4ed7a550d776fcd6f73919220cc6ff2ccb598",
+      "origin": "ai"
+    },
+    "dataList[id=zwei_faust_profile].content": {
+      "pl": "Faust\nK\n23 września\nA\n174 CM\n59 KG",
+      "kr_sha256": "032c624c7be4a371e4899547dd7116bf3da0b266e1baf35e8758d05648be3d8b",
+      "en_sha256": "0258adfe4047baff7b2a8d225fa585ff8d206003832b7cf899904f04d823fda8",
+      "origin": "ai"
+    },
+    "dataList[id=zwei_gregor_analysis].content": {
+      "pl": "Pod względem charakteru z tym Grzesznikiem obcuje się stosunkowo łatwo. Jednak nagły przypływ emocji lub gwałtowna zmiana otoczenia sprawiają, że część — a niekiedy całość — jego ciała przeobraża się w tkankę owadzią (przypominającą pancerz chitynowy zbliżony do ■■■■). Jeśli nie chcesz uchodzić za nieuprzejmego Kierownika (choć nie masz takiego obowiązku), zalecamy starannie panować nad mimiką i nie okazywać obrzydzenia. Posługuje się czasem cynicznym tonem, lecz przy odrobinie wyczucia bez trudu można się z nim porozumieć.",
+      "kr_sha256": "fdddd0654077ca11bd8e83039c1e1c42a6a988022b33300decf09fdf6b92e2f3",
+      "en_sha256": "fcc6fd1aeb530e38bdef94622569a6c65ad340dd203328080b67f3f85b38d0e4",
+      "origin": "ai"
+    },
+    "dataList[id=zwei_gregor_profile].content": {
+      "pl": "Gregor\nM\n23 września\nA\n167 CM\n68 KG",
+      "kr_sha256": "8144e2436b70b040a971c5c81fc82d19f6d21c44d0383523110f31ff9f5a2054",
+      "en_sha256": "a485920c01eab2433e9545755ef6fae23b146041fee5aaeeb1c81bca2e0f5287",
+      "origin": "ai"
+    },
+    "dataList[id=zwei_rodion_analysis].content": {
+      "pl": "Grzeszniczka, w której aż nazbyt wyraźnie widać nieszczęsne piętno wychowania w Zaułkach. Kocha pieniądze, hazard i zakłady, dlatego wymaga bacznego nadzoru Kierownika. Ma w zwyczaju zbywać polecenia nieudolnym mrugnięciem oka lub głupkowatym żartem — zalecamy niekiedy przyjąć surową postawę, by przypomnieć jej o hierarchii. Nieregularnie popada w przygnębienie; Kierownik nie jest w stanie nic na to poradzić, najwydajniej więc po prostu przeczekać ten stan w ciszy.",
+      "kr_sha256": "214505df2f89f608127bed810f9eeddb0cbfa9d7d5d35b1d623661eb58332971",
+      "en_sha256": "a7e6a2e26780de9d4df99f62a52b9f4757d8d43db6cfa12ea71c336624722cb7",
+      "origin": "ai"
+    },
+    "dataList[id=zwei_rodion_profile].content": {
+      "pl": "Rodion\nK\n23 września\nA\n182 CM\n65 KG",
+      "kr_sha256": "fe4909213baaade87bf11ab848406cf5996f3ba714cc3bbcb2eb6aa407295dbc",
+      "en_sha256": "c11c78fe54b5f3770f42dce7180db7e83694a78a50be8a25b4e6377f2b3a9ffc",
+      "origin": "ai"
+    },
+    "dataList[id=zwei_sinclair_analysis].content": {
+      "pl": "Nawet biorąc pod uwagę chwiejność właściwą jego wiekowi, ten Grzesznik wyjątkowo łatwo wzdryga się lub krzywi, gdy ktoś się do niego odezwie. Nie nawykł jeszcze do prawdziwej walki, więc początkowo sam widok wnętrzności będzie dla niego ciężką próbą. Ponieważ wśród załogi nie brakuje jednostek skłonnych do przemocy, wobec tego Grzesznika zalecamy metodę marchewki zamiast kija. W jego spojrzeniu czai się nieuświadomiona przezeń żądza krwi — to obiecujący znak, że przy odpowiednich bodźcach wyrośnie na znakomitego specjalistę w branży naszej firmy.",
+      "kr_sha256": "88f9d20ee2df3af80a9496b928686d84b468d35103f42fe7e76967ce76f9f312",
+      "en_sha256": "08033386ad8de61a1e21b7389e9e9eb51eb8034b21de97353ccb0b816a7a7258",
+      "origin": "ai"
+    }
+  }
+}

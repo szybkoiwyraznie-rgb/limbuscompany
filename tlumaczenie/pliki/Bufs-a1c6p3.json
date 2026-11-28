@@ -1,0 +1,214 @@
+{
+  "entries": {
+    "dataList[id=AaCfPcBa].desc": {
+      "pl": "Przy trafieniu zyskuje w następnej turze 1 Wzrost Poziomu Ataku (3 razy na turę)\nNa początek tury, przy Poczytalności poniżej 0, zyskuje 3 Wzrosty Mocy Ataku.\nW walkach, w których ta jednostka musi zostać obowiązkowo rozmieszczona, jej funkcje wycofania nie działają.",
+      "kr_sha256": "07025ab44d58103ee6fdb7f9fc68c592458a05f7cb9361aae128a58f8f3d2a51",
+      "en_sha256": "33287cec445c997d6a5d652003146c93f58bc1e766cd67d9bb919209edf46497",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBa].name": {
+      "pl": "Postanowienie",
+      "kr_sha256": "cca36bb53d51212b9d1da928c188652cee834214844908f768dd8e2252a61e75",
+      "en_sha256": "c07513328104b15e2b3be00a018a690231b1fdf8fa441b5103182b3d8199aa55",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBa].summary": {
+      "pl": "Przy trafieniu zyskuje 1 Wzrost Poziomu Ataku.\nNa początek tury, przy Poczytalności poniżej 0, zyskuje 3 Wzrosty Mocy Ataku.",
+      "kr_sha256": "d865777a98744dba78daee7796edaa5a0f39e45da56ffbace955ce50a281500c",
+      "en_sha256": "a0c9b8ac729ef7b1c3d07bd34c4b03f7468520dfa62a24430763f3b6f81c24bc",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBb].desc": {
+      "pl": "Służy do zwiększania Wagi Ataku określonych Umiejętności ataku",
+      "kr_sha256": "154d18aac4e08db01ed52a679111d0db694457ea2e5b01d4b29204d8a189a302",
+      "en_sha256": "48874ed81eec37f19c5668e3e3405dfc419f50e8c0e6ea399a83404c12d72ede",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBb].name": {
+      "pl": "Znak Kamerdynera",
+      "kr_sha256": "b1f63eeba1a1815b9cc006bffc99b58921f4e1aa06d252b836ce1c1da6fe0b80",
+      "en_sha256": "84c6345ea9da541aeaed931a17cd056416f4aca77397e159eaa07de7f85f2bbd",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBc].desc": {
+      "pl": "- Maks. 3\n- Na koniec tury rośnie o 1\n- Na koniec tury zyskuje w następnej turze Spętanie równe wartości.\n- Na koniec tury, przy wartości 3, popada w stan Oszołomienia na resztę walki.\nNie znika.",
+      "kr_sha256": "0d1bd7b099a3eb29a717d12c5af537d3064e2bf3254fa30d6de928cce8bc6d4f",
+      "en_sha256": "987d5497c9308162817eb0b07d3cad320274d3323bb2504b069c5118f1519a85",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBc].name": {
+      "pl": "Technika Spętań",
+      "kr_sha256": "4be3b38379daa130f9cc58500bb0058260044069e433eb82420547a53024c5d2",
+      "en_sha256": "7487d0d541b225241eb35654f11fb40b0bfd0da8d1dead425f5068567484e2bb",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBc].summary": {
+      "pl": "W następnej turze zyskuje Spętań w liczbie wartości.\nPrzy wartości 3 przechodzi w stan Oszołomienia na resztę walki.",
+      "kr_sha256": "31bdca313d7026ddac8d2424614b460e1f075f37a02932e619a1d1e6951d3756",
+      "en_sha256": "3e728bf7ab2842216abad61a62f8bcc70085d05bbcbf6590297281fbcea8d17d",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBe].desc": {
+      "pl": "Po zakończeniu ataku zadaje 5 obrażeń Poczytalności.",
+      "kr_sha256": "8dcb431f48d6e55eb56fde443ff2540ef6ec633562662aa4067107beed87a44d",
+      "en_sha256": "5f6766b587a41f759382113068fea4e0a7566697b7cb0e9bc1b7affecfb7e719",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBe].name": {
+      "pl": "Głęboka Żałoba",
+      "kr_sha256": "5d01c7b3a6a699b97db0c2406461d95aa7f130a5b7c3a94e29d89bd6340fc746",
+      "en_sha256": "24e5f72da90993c03641f240a1873c7e62e1fc9f51c7e4789bcb214433bce4e2",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBf].desc": {
+      "pl": "- Przy określonym warunku, przy wartości 3+ na koniec tury, wszystkie części przechodzą w Oszołomienie w następnej turze.\nNakłada 3 Wrażliwości na część Łańcucha i znika",
+      "kr_sha256": "9e451cec804288fb81f35787461f748f88b787c11bf8232f6d079fdbb7af3c6b",
+      "en_sha256": "37b47291aea2598353f2ccb909c99846ed5520d4aac6c8353ed7b3c072478671",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBf].name": {
+      "pl": "Skuty Żal",
+      "kr_sha256": "81e057d9c56fa024d5aece2d775e707ff37947e653f7ea8cb54338c38c7f4408",
+      "en_sha256": "89f40010e96473c36c055c5dbed57649c52dac0c870945bcbce1cff0d4b24c05",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBg].desc": {
+      "pl": "Staje się głównym celem ataków Heathcliffa ze Złamanym Sercem.\nGdy ginie, efekt przenosi się na inną Tożsamość.",
+      "kr_sha256": "c483573637ff7ae81646be8c09ac45a39fde765e41f77fb70f25c63fcc8f27f2",
+      "en_sha256": "18c0cbfad85dc714138f752ac10bd2ef86ba088a03d2974da4942becdf0a9b09",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBg].name": {
+      "pl": "Cel Gniewu",
+      "kr_sha256": "96ebd85ee35b46ca7bb8445a60d9eeb99cb9894c32d2691d22f169e578302da6",
+      "en_sha256": "f11ba51c8e593d56c4fc4eb96f651d1081c2ba11b20446e214b185d8014139b7",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBh].desc": {
+      "pl": "Jeżeli atakujący posiada Wybuchowy Gniew, otrzymuje +100% obrażeń",
+      "kr_sha256": "6cbdab491d3e6dcb0c14715dbf4b2cbe2ed6d0e9377d8a5d640e19b23f8cde40",
+      "en_sha256": "33561bc31b9216adb1d406af90d5a9051b3fe1b962181fb5182788b37fdf54cf",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBh].name": {
+      "pl": "Rozdzierający Gniew",
+      "kr_sha256": "be975ccf6d146282611509abe4277c3759bc2e337cf0ce45a0195a9d66bd79c5",
+      "en_sha256": "1bedf7bb1a138e1e63938b7022f9fcc4ea57ac8325dcd69a1db0c282d86f4012",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBi].desc": {
+      "pl": "Na koniec tury otrzymuje obrażenia stałe zależne od wartości i traci efekt",
+      "kr_sha256": "3da8f464fcde7ad6da2b0fce2af4f938dc8df7633d524ca0e38a9a6d2402c000",
+      "en_sha256": "9271f4d305b54b849ce7f606b92accbcd3486420ad03a98c3e065fb77ef0ac37",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBi].name": {
+      "pl": "Nadtermogeneza",
+      "kr_sha256": "952af6d4420aef0ee118d43c8f0ca3400c78eb190ca1875946b72a72825dd59d",
+      "en_sha256": "b0b48721a13c6581074506b2ed739e737e76869f6e64dc7ed915cd77939e8808",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBm].desc": {
+      "pl": "- Po wygranym Starciu nakłada na cel Rwające Serce i zadaje 7 obrażeń HP.\n- Po przegranej w Starciu lub po Ataku Jednostronnym zyskuje Rwające Serce i otrzymuje 7 obrażeń HP.\n- Na koniec Umiejętności maleje o 1",
+      "kr_sha256": "4b66d6dc8fa001d82ec15e8983ba669a2e74b0cf99276e689cd08a260bf21da1",
+      "en_sha256": "cbf1af86adbaa7cff3007d7d5f605ee988a648d2bf5b2bb5ea3bc26310e8b368",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBm].name": {
+      "pl": "Grom Cierpienia",
+      "kr_sha256": "4b60125493856465c8f6afe8c4dfefc158e59ea60a121a930cac3028076f5301",
+      "en_sha256": "9f6188e39a3d9f32a1dbd150e2048d565fce2f6fe09d25d19ae2eaa1ec6e03e7",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBn].desc": {
+      "pl": "- Zwiększa odporność na wszystkie Grzechy o (wartość x 0,2)\n- Przy wartości 3 przechodzi w stan Oszołomienia.",
+      "kr_sha256": "2a3b95ae65deab79b1bb13cf5410fd0ea16e5018a0fabdcc6a601d4428c1ca82",
+      "en_sha256": "3b45651dc33ef5ee0d96a632ac0c1b5885dc62bbc9c0f152e509ca695c8a8435",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBn].name": {
+      "pl": "Rwające Serce",
+      "kr_sha256": "25204303c8063320b5426173fbf5d714ee3a2e08272b80fd3b4ece764eb0e027",
+      "en_sha256": "904a1d658e57fefa131a66e68e42edbfac46854308cb8b40771e40288516d1ff",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBo].desc": {
+      "pl": "Na koniec tury odzyskuje 10 Poczytalności. Przy trafieniu zyskuje w następnej turze 1 Wzrost Poziomu Ataku (3 razy na turę)\nNa początek tury, przy Poczytalności poniżej 0, zyskuje 3 Wzrosty Mocy Ataku.\nDopóki w tej walce przeżywa co najmniej 1 sojusznik poza nim samym, HP Heathcliffa nie spada poniżej 1.\nW tej walce funkcje wycofania nie działają.",
+      "kr_sha256": "901d39eeb7be9da11a31c9790808ed26dac45f02f04aaaba5c8ccd290e38127b",
+      "en_sha256": "4b9bf020193bed25d8167e94f4217fbac95da823f658fb12b35a0967da667e95",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBo].name": {
+      "pl": "Postanowienie",
+      "kr_sha256": "cca36bb53d51212b9d1da928c188652cee834214844908f768dd8e2252a61e75",
+      "en_sha256": "c07513328104b15e2b3be00a018a690231b1fdf8fa441b5103182b3d8199aa55",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBo].summary": {
+      "pl": "Na koniec tury odzyskuje 10 Poczytalności.\nPrzy trafieniu: 1 Wzrost Poziomu Ataku.\nNa początek tury przy Poczytalności ujemnej: 3 Wzrosty Mocy Ataku.",
+      "kr_sha256": "2a5ebfb9371236c11bd823a8fe4b3c969c9686c10d10e6b28721001354104b5a",
+      "en_sha256": "af5f1f75e48b9fd055b079e027d5a88a8930591ab00b51cfb47c4b4e8a519ad8",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBp].desc": {
+      "pl": "- Na koniec tury odzyskuje 10 Poczytalności\n- Co turę zyskuje 3 Wzrostu Mocy Ataku i 5 Ochrony\n- Przy trafieniu odzyskuje 5 Poczytalności. W następnej turze zyskuje 1 Wzrost Poziomu Ataku. (3 razy na turę)\n- Na początku tury, jeżeli Poczytalność jest niższa od 0, zyskuje 3 Wzrostu Mocy Ataku.\n- Dopóki w tej walce żyje co najmniej 1 sojusznik poza Heathcliffem, HP Heathcliffa nie spada poniżej 1.\nW tej walce funkcje wycofania tej jednostki nie działają.",
+      "kr_sha256": "f4ac989cb1076b77b2c76ca05468304511c3a76ca0f95f637234114083c60ac9",
+      "en_sha256": "47e52e5b701a13a9df5822be9e747a9e0561d6dc903ffcb0490c259747d4b34c",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBp].name": {
+      "pl": "Odwaga, by się Zbliżyć",
+      "kr_sha256": "61964141ebb577bd844ddb99d986b8a71ff427bf62a06f10c31731bd35dbe692",
+      "en_sha256": "585b3668514ac2fbe956b584fc2441ebb0dd47082f8d20bf5af7d49a0bca7239",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBq].desc": {
+      "pl": "- Maks. Szybkość +2\n- Co turę zyskuje 3 Wzrostu Obrażeń i 3 Wrażliwości\n- Jeżeli głównym celem jest Heathcliff, Umiejętność ataku zyskuje Moc Końcowa +2\n- Po przegranej w Starciu z Heathcliffem w następnej turze zyskuje 3 Spętań i 3 Spadku Obrażeń",
+      "kr_sha256": "40c40d191cd64e478992500ae84909f8d4ed060387b558cbe861b6da8ee79ca6",
+      "en_sha256": "6e5c21c3c967b7f9a99ba07ada611b33f4506f48034a8eba586e7130d36a936a",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBq].name": {
+      "pl": "Złamane Serce",
+      "kr_sha256": "1db37e9ee08d706acd31a614792cd8415c087db18a86010ec810e8a80ebe7485",
+      "en_sha256": "fbca576fc6411ca56ab453fc7eb408197a01356004d109b1b6c6d3bc6a40790f",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBr].desc": {
+      "pl": "Moc Starcia -6 w Starciu z celami posiadającymi Grom Cierpienia",
+      "kr_sha256": "60c4b1c0bc4eaf0302fdec3faaf062366f3b23fd200d56a9960d9d17059d7815",
+      "en_sha256": "f11dff6dca01b91cb5ab1b9423cc946ed3adf0cab9107f883cbc87813cfa9428",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBr].name": {
+      "pl": "Niech się... Przebudzi w Męce!",
+      "kr_sha256": "7b2361d8bd74caa7a1a48acc3c69e5a47c98f678b6de2f883f64a246ba157ac7",
+      "en_sha256": "829faaceca3f8a9e2afc8b2140bc3f1dd00ad861aa3d0fbda41c15036282f06f",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBs].desc": {
+      "pl": "Pozostała wartość Tarczy: {0}",
+      "kr_sha256": "0d2fdec1e8e3e12fe3ba93241831faaef712c1826e77ed431ed2e50cf4114db1",
+      "en_sha256": "eb77389810e8e9898cf172f383879dddb4866adb022315c86bd56bcb9cef9090",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBs].name": {
+      "pl": "Nie Przeszkadzaj",
+      "kr_sha256": "d815fa060e7a59894bb3a34bd342c388e2b684566d20aa4e9a1eeb01794bfa55",
+      "en_sha256": "dfcf5b8aa63481abbd8c8aad4eed368a289c84e209c9eb7ce5c91c4305f624a5",
+      "origin": "ai"
+    },
+    "dataList[id=RageResonance].desc": {
+      "pl": "Na koniec tury zyskuje w następnej turze {0} Wzrostu Poziomu Ataku (efekt nasila się z każdą turą)",
+      "kr_sha256": "bfaf059c3ece3049f482cf5a8843ed207c19a6ed41ee981afe5057dd5e7d06d4",
+      "en_sha256": "a0909e421cc561f43fe16bdeee0e96a9cee5d0e59223adbea5af1d7c767d05c7",
+      "origin": "ai"
+    },
+    "dataList[id=RageResonance].name": {
+      "pl": "Uchwycony Gniew",
+      "kr_sha256": "f1f25224d90a9d6c044ac4d1026198e3965f7369a420d88f9f85acb07aa63bb3",
+      "en_sha256": "b895b3a80785769a2bb8f6096507fa01919beb1f8a35b5b811ebfa0b84b8ec04",
+      "origin": "ai"
+    }
+  }
+}

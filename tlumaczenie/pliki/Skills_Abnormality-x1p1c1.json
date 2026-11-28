@@ -1,0 +1,370 @@
+{
+  "entries": {
+    "dataList[id=136501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136501].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 obrażeń Poczytalności",
+      "kr_sha256": "0a9b81112ca2b7a7dec97f8838607d4ff6144f3961bb0ae7aec0db13af3c3f56",
+      "en_sha256": "6a892a7f8e997b2acec405eed0b7f452028f8fc4826dbbe79afdc9a3ba538733",
+      "origin": "ai"
+    },
+    "dataList[id=136501].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "464e6cdd554dd1e5b27450bd1d8f9996f69ee1fcdd56f49c62afa36955a3c55c",
+      "en_sha256": "a002a29aeb88575dc1b8fc5a705caccd9a16d00769e47e3b0f2dc506d3f2b9da",
+      "origin": "ai"
+    },
+    "dataList[id=136501].levelList[level=1].name": {
+      "pl": "Cluck!",
+      "kr_sha256": "78c1be963166feae4cb72fc028d43d5d9ffee87bd0507dda7b791cd7bd58d852",
+      "en_sha256": "8513595ffa67acd941f2cfee45a2ff0769d23f38831dc6f060e55bdcb6f3cd06",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 obrażeń Poczytalności",
+      "kr_sha256": "3db8d84b08fdbb874f70d654c2781b82af59c649e605bf468650112252d4b8d2",
+      "en_sha256": "337dd6729a60a2649d59e9d83b16deff83d9db4f1cd89b22b8e10bd878c60d5a",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "fd18918b114bab319e710c403bb860bf1dc447dad7375f0e56f337897d1dc4ba",
+      "en_sha256": "fa5cf219ab693bcee5871b46ca8da7237def7872779f8ff2f458f356348d4bd2",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 obrażeń Poczytalności",
+      "kr_sha256": "3db8d84b08fdbb874f70d654c2781b82af59c649e605bf468650112252d4b8d2",
+      "en_sha256": "337dd6729a60a2649d59e9d83b16deff83d9db4f1cd89b22b8e10bd878c60d5a",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "fd18918b114bab319e710c403bb860bf1dc447dad7375f0e56f337897d1dc4ba",
+      "en_sha256": "fa5cf219ab693bcee5871b46ca8da7237def7872779f8ff2f458f356348d4bd2",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 obrażeń Poczytalności",
+      "kr_sha256": "3db8d84b08fdbb874f70d654c2781b82af59c649e605bf468650112252d4b8d2",
+      "en_sha256": "337dd6729a60a2649d59e9d83b16deff83d9db4f1cd89b22b8e10bd878c60d5a",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "fd18918b114bab319e710c403bb860bf1dc447dad7375f0e56f337897d1dc4ba",
+      "en_sha256": "fa5cf219ab693bcee5871b46ca8da7237def7872779f8ff2f458f356348d4bd2",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].desc": {
+      "pl": "[WideAreaRampage]",
+      "kr_sha256": "70dcd1e82dd3c89c899771c8ae3f2bfe82677d1c37ec95895f33bddfe28b3213",
+      "en_sha256": "70dcd1e82dd3c89c899771c8ae3f2bfe82677d1c37ec95895f33bddfe28b3213",
+      "origin": "ai"
+    },
+    "dataList[id=136502].levelList[level=1].name": {
+      "pl": "Cluckcoo!",
+      "kr_sha256": "f7099ea48f0b7a378d3ee80d8325840327887cddb7f66c38208e707610433157",
+      "en_sha256": "cde848e90ae9dc0ac7e6318c5e9d7de8ad5af9a483ed9d6ce156ff79011d9859",
+      "origin": "ai"
+    },
+    "dataList[id=136503].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136503].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 obrażeń Poczytalności",
+      "kr_sha256": "0a9b81112ca2b7a7dec97f8838607d4ff6144f3961bb0ae7aec0db13af3c3f56",
+      "en_sha256": "6a892a7f8e997b2acec405eed0b7f452028f8fc4826dbbe79afdc9a3ba538733",
+      "origin": "ai"
+    },
+    "dataList[id=136503].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "464e6cdd554dd1e5b27450bd1d8f9996f69ee1fcdd56f49c62afa36955a3c55c",
+      "en_sha256": "a002a29aeb88575dc1b8fc5a705caccd9a16d00769e47e3b0f2dc506d3f2b9da",
+      "origin": "ai"
+    },
+    "dataList[id=136503].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136503].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 obrażeń Poczytalności",
+      "kr_sha256": "0a9b81112ca2b7a7dec97f8838607d4ff6144f3961bb0ae7aec0db13af3c3f56",
+      "en_sha256": "6a892a7f8e997b2acec405eed0b7f452028f8fc4826dbbe79afdc9a3ba538733",
+      "origin": "ai"
+    },
+    "dataList[id=136503].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "464e6cdd554dd1e5b27450bd1d8f9996f69ee1fcdd56f49c62afa36955a3c55c",
+      "en_sha256": "a002a29aeb88575dc1b8fc5a705caccd9a16d00769e47e3b0f2dc506d3f2b9da",
+      "origin": "ai"
+    },
+    "dataList[id=136503].levelList[level=1].name": {
+      "pl": "Bawkcoo!",
+      "kr_sha256": "ff137983b0556081b47f9df09e56d009931b09c0c27be6bed3eb55ecd19b81bf",
+      "en_sha256": "ad994a36a22b3e7a598843ff6aa7aaa91a98fe0624d1636abe55fd1301d1933e",
+      "origin": "ai"
+    },
+    "dataList[id=136504].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136504].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=136504].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Paralysis]",
+      "kr_sha256": "2f02ac455900552bfadcb48d6f029a3267b4a33ffc1d6b95153755f778e4d9a9",
+      "en_sha256": "f8bb8a43c57b3bb8ed07bacf44a337405e74317d0e3e9ac0b6bc72e185843625",
+      "origin": "ai"
+    },
+    "dataList[id=136504].levelList[level=1].name": {
+      "pl": "Bawkkawkcoo!",
+      "kr_sha256": "b28ea6237b5691c813592691da5ab105c88af1493038da1f2ec52247212b3d35",
+      "en_sha256": "77d3c34cba01bdce4d7431bcf7e65e7a07bf72a95d91f55048b85dd3a1650d65",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [Paralysis]",
+      "kr_sha256": "7cb08c5af046f504df6754dbcd2c45497e885d77fdabfc8662c2c78c74018e62",
+      "en_sha256": "51bfb6ebdd414cbeb7ad0a44c9b274cd2ac5b637f6b28e8291779dc666fe5128",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] zadaje 3 obrażeń Poczytalności",
+      "kr_sha256": "36972850176c47b0e7e0bcf09d828a372678a8b08496ce686f218597aed046b5",
+      "en_sha256": "5ddf385f260bf02dce09e75be4ca331e3218d766347fbd4cda3712908251a811",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [Paralysis]",
+      "kr_sha256": "7cb08c5af046f504df6754dbcd2c45497e885d77fdabfc8662c2c78c74018e62",
+      "en_sha256": "51bfb6ebdd414cbeb7ad0a44c9b274cd2ac5b637f6b28e8291779dc666fe5128",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] zadaje 3 obrażeń Poczytalności",
+      "kr_sha256": "36972850176c47b0e7e0bcf09d828a372678a8b08496ce686f218597aed046b5",
+      "en_sha256": "5ddf385f260bf02dce09e75be4ca331e3218d766347fbd4cda3712908251a811",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [Paralysis]",
+      "kr_sha256": "7cb08c5af046f504df6754dbcd2c45497e885d77fdabfc8662c2c78c74018e62",
+      "en_sha256": "51bfb6ebdd414cbeb7ad0a44c9b274cd2ac5b637f6b28e8291779dc666fe5128",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] zadaje 3 obrażeń Poczytalności",
+      "kr_sha256": "36972850176c47b0e7e0bcf09d828a372678a8b08496ce686f218597aed046b5",
+      "en_sha256": "5ddf385f260bf02dce09e75be4ca331e3218d766347fbd4cda3712908251a811",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 50% mniej obrażeń, a obrażenia z tej Umiejętności nie Oszołamiają celu",
+      "kr_sha256": "2d93c24fc362de1786a4dd874f2f88883f99596a933ee9624378488838c5ed0e",
+      "en_sha256": "e147d39a16386ecce5f870e2d5eba511a14ed6e52f57549c15f0fb29449c772a",
+      "origin": "ai"
+    },
+    "dataList[id=136505].levelList[level=1].name": {
+      "pl": "Bawkkawkcluckcoo!",
+      "kr_sha256": "bb575d3603a055bf096f3721a49837cfe4696ec13e99216b4d6b4cf216de01f8",
+      "en_sha256": "62a49d58b039ae2d33b16cf083cce92a36fc70f37157be350403e83e9c109314",
+      "origin": "ai"
+    },
+    "dataList[id=136506].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=136506].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[WinDuel] zadaje 5 obrażeń Poczytalności",
+      "kr_sha256": "a6c31bd5eb53b5f9dc81fe27391cf8ef6c70b2bb29b1c439e8ef115451c22938",
+      "en_sha256": "c05ecec4d0f2b4a8aa784a67327d21a7d719faf73fc65368935a44a2a46a09f5",
+      "origin": "ai"
+    },
+    "dataList[id=136506].levelList[level=1].name": {
+      "pl": "Khhcluck!",
+      "kr_sha256": "b7e104384cf9fa512d81e56b00e8209179b6ebccb1c7f52b8d13fd8559e73c34",
+      "en_sha256": "cca92dadbb88b01bdba711a1fbbc9ebb12de79bddd538d183d565a00f7356535",
+      "origin": "ai"
+    },
+    "dataList[id=138701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel przywraca 5 Poczytalności",
+      "kr_sha256": "4797b4c45728adae7c6fb855d96a651817dd5b44b868f3d04d424091e718845e",
+      "en_sha256": "4ccb7d11455ea0003f9a1e020fc9f00243fc300e09182d64b33ae95c60906fb4",
+      "origin": "ai"
+    },
+    "dataList[id=138701].levelList[level=1].desc": {
+      "pl": "[WhenUse] cel przywraca 5 Poczytalności",
+      "kr_sha256": "170c728b2e68fee5bdaf2d62be91e00d3ba227092312a954d1b1980c3ee825ee",
+      "en_sha256": "dbd4219b33f367b38bbef485a34863100cb5dc721286dc0642853a1ae1709bd0",
+      "origin": "ai"
+    },
+    "dataList[id=138701].levelList[level=1].name": {
+      "pl": "Kgh!",
+      "kr_sha256": "d38553abc847110ca630b971bd63fe2128a09e9227619a0387b1ac5717f0d1d3",
+      "en_sha256": "83d8352b7d69e66f994cb5d2379387b096f404a9422de148ac602e4532c1ef0e",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].desc": {
+      "pl": "[WideAreaRampage]",
+      "kr_sha256": "70dcd1e82dd3c89c899771c8ae3f2bfe82677d1c37ec95895f33bddfe28b3213",
+      "en_sha256": "70dcd1e82dd3c89c899771c8ae3f2bfe82677d1c37ec95895f33bddfe28b3213",
+      "origin": "ai"
+    },
+    "dataList[id=138702].levelList[level=1].name": {
+      "pl": "Khgh",
+      "kr_sha256": "1fbc68729da71737234fe7fb78fdafc837f0a949026dd380a8282249a53bda8c",
+      "en_sha256": "abca9733823cb29384fc15b9aa7f7da903bf880d78e678216c9023d1ba58d688",
+      "origin": "ai"
+    },
+    "dataList[id=138703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=138703].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=138703].levelList[level=1].name": {
+      "pl": "Screecoo!",
+      "kr_sha256": "70b722acc4248e6a54ba0360d5909d10e84938709ecf6a01d5af0c114704f56a",
+      "en_sha256": "20eec96b379b8850446f46ac8d1f9ecf1953b56e7f4e52a870ce8c8c1c21a44c",
+      "origin": "ai"
+    },
+    "dataList[id=138704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138704].levelList[level=1].name": {
+      "pl": "Khk",
+      "kr_sha256": "d15beeb9412da7b36973bbafb69d271af52036ebca874721bc8f3fe790d85124",
+      "en_sha256": "22b198650052673e4ffcd764541b15278a55d63d30a083e72377c894010f1833",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].desc": {
+      "pl": "[CantDuel]",
+      "kr_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "en_sha256": "b4cc8c5846b518cd993537778084a2b05aa580bf10afc31bd85bf8ab09231b47",
+      "origin": "ai"
+    },
+    "dataList[id=138705].levelList[level=1].name": {
+      "pl": "Apokalipsa Drobiu",
+      "kr_sha256": "17046c14a6e522f70bed7e6dc5409c64505a37a429e4a6c2e241943e4288257d",
+      "en_sha256": "a19597050c628ccaa6ff440b1440f7bb10d084f77581fc4a680c6ef13f5cc65a",
+      "origin": "ai"
+    },
+    "dataList[id=138706].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=138706].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[WinDuel] cel przywraca 5 Poczytalności",
+      "kr_sha256": "27049cd3200c9964ee809644cb6b90ba320098b9bcb1dee6e2430c5c59863d00",
+      "en_sha256": "2a301829339ac1bd0ae4bdcd6760198aef0f60e853356301a244b0fa89b35273",
+      "origin": "ai"
+    },
+    "dataList[id=138706].levelList[level=1].name": {
+      "pl": "Keghgh",
+      "kr_sha256": "f64b08edcf2b1290e4daf7f80c89aee825f25618a4c7b7ca9680a94791eda5c9",
+      "en_sha256": "c3735932b4c47ce196bc0df402d913c5fe6e93f71d763b4f3b4496481b35f2e3",
+      "origin": "ai"
+    }
+  }
+}

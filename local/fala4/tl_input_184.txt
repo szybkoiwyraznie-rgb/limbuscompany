@@ -1,0 +1,96 @@
+17895||RPGSystem#rpg-loc-dialogue-floor-b1.json] <주고 정보를 듣자.>|<Let's just pay them what they want and get the directions.>
+17896||RPGSystem#rpg-loc-dialogue-floor-b1.json] 알겠습니다.|Understood, Manager.
+17897||RPGSystem#rpg-loc-dialogue-floor-b1.json] 크흠. 저쪽 복도로 나가서, 소용돌이 껍질을 따라가면 됩니다.|Ahem. Go out into that corridor and follow the spiral shells.
+17898||RPGSystem#rpg-loc-dialogue-floor-b1.json] 소용돌이 껍질?|Spiral shells?
+17899||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그, 그건 눈알 열 개를 더 내면…|F-for another 10 eyeballs, we can explain—
+17900||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아마도 달팽이 껍질… 일 것이다.|They are likely... shells of snails.
+17901||RPGSystem#rpg-loc-dialogue-floor-b1.json] 본래 그들이 기어다녔던 장소였을 테니.|That area had once been their habitat, most likely.
+17902||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이런 고치를 본 적 있나?|Have you ever seen a cocoon resembling this one?
+17903||RPGSystem#rpg-loc-dialogue-floor-b1.json] 필요한 정보는 모두 얻은 것 같군요. 더 볼일이 남아 있으신가요?|It appears we have obtained all necessary information. Do we have any further business here?
+17904||RPGSystem#rpg-loc-dialogue-floor-b1.json] 파우스트의 말에 고객들은 눈을 데구르르 굴리더니, 우리에게 받은 눈알을 들고 순식간에 사라졌다.|As soon as Faust finished speaking, the customers' eyes darted about, exchanging glances. Then they scurried away, our eyeballs preciously nestled in their hands.
+17905||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그럼 푸드코트로 가겠습니다.|We will proceed to the Food Court next.
+17906||RPGSystem#rpg-loc-dialogue-floor-b1.json] 모, 모르겠는데요…|I-I don't think so...
+17907||RPGSystem#rpg-loc-dialogue-floor-b1.json] 맛있게 생긴 걸 보면… 푸드코트에 유행하는 새로운 먹거리 아니야?|Sure looks tasty... maybe it's some new menu that's caught on at the Food Court?
+17908||RPGSystem#rpg-loc-dialogue-floor-b1.json] 으음… 먹거리는 아닐 것… 같긴 한데…|Hmm... Doesn't look... very... edible to me...
+17909||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그레고르는 주변에 널려있는 고기들의 상태를 보다가 말끝을 흐렸다.|Gregor glanced at the condition of the meat chunks strewn around us and let the sentence trail off.
+17910||RPGSystem#rpg-loc-dialogue-floor-b1.json] …여기 사는 사람들한텐 먹는 걸 수도 있겠군.|... Though the people here might say otherwise.
+17911||RPGSystem#rpg-loc-dialogue-floor-b1.json] <그럼 푸드코트 쪽으로 가볼까.>|<Maybe we should try the Food Court?>
+17912||RPGSystem#rpg-loc-dialogue-floor-b1.json] 푸드코트는 어느 길로 가면 갈 수 있지?|Which route leads to the Food Court?
+17914||RPGSystem#rpg-loc-dialogue-floor-b1.json] 한 가지 확인하고 싶은 게 있다만… 너희가 필요한 건 유체가 아니라, 황금고치인 게 맞나?|One thing before I hand over the goods. You don't need the larva, do you? You need just the Golden Cocoon?
+17915||RPGSystem#rpg-loc-dialogue-floor-b1.json] 좋은 재료 거래 고마웠다는 거예요.|Thanks for the win-win deal, you hear?
+17916||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그리고 이거는 서비스인 거예요.|And here's a little something on the house, you hear?
+17917||RPGSystem#rpg-loc-dialogue-floor-b1.json] 으잉? 서비스?|Huh? On the house?
+17918||RPGSystem#rpg-loc-dialogue-floor-b1.json] 소다 한 컵, 마셔도 된다는 거예요. 이번 시즌 막바지 컵이라, 톡톡 튀는 게 덜하긴 하지만… 그래도 맛있다는 거예요.|You can have one cup of soda, you hear? It's from the tail end of this season, so it's not as fizzy... but the flavor's all there, you hear?
+17919||RPGSystem#rpg-loc-dialogue-floor-b1.json] 탄산 빠진 콜라… 같은 건가?|In other words... the equivalent of flat soda pop.
+17920||RPGSystem#rpg-loc-dialogue-floor-b1.json] 감사히 받아가죠.|Thank you.
+17921||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이제 이 층에서 해야 할 일은 끝난 건가요?|Are there no remaining tasks on this floor?
+17922||RPGSystem#rpg-loc-dialogue-floor-b1.json] <고치로 실타래를 만드는 건, 지하 2층에서 가능하다고 했으니까… 아마도.>|<They said the cocoon could be spun into a skein on B2, so... yeah, we're done here.>
+17923||RPGSystem#rpg-loc-dialogue-floor-b1.json] 내려가는 건, 아까 복도 아래쪽에 있던 그 길로 가면 될 거 같던데.|I saw a passage farther down the corridor that should take you fellas below.
+17924||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그럼 복도 아래쪽으로 가겠습니다.|We will proceed now to the lower end of the corridor.
+17925||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아, 근데 잠깐만… 이거, 맛이라도 좀 보고 가면 안 되나? 간만에 돌아다녔더니 목이 타서…|Wait—can I at least take a small sip of the soda before you head down? I'm thirsty after all this walking...
+17926||RPGSystem#rpg-loc-dialogue-floor-b1.json] 상징계에서 그레고르 씨는 실질적인 목마름을 느끼지 못할 텐데요.|Odd. You should not be able to feel thirst as a "real" sensation in the Symbolic, Herr Gregor.
+17927||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아니… 허, 참… 기분이 그렇다는 거지.|No, I—come on, I just feel that way, okay?
+17928||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아무튼 서비스로 받은 그거, 마셔보고 가자고.|Anyway, let's try the free drink before we go.
+17929||RPGSystem#rpg-loc-dialogue-floor-b1.json] 파우스트도 그 소다의 맛은 궁금하네요.|Faust is also curious about the soda's flavor.
+17930||RPGSystem#rpg-loc-dialogue-floor-b1.json] <나는 어차피 못 먹으니까, 세 명이서 나눠 마셔.>|<I can't drink it anyway, so the three of you can have it .>
+17931||RPGSystem#rpg-loc-dialogue-floor-b1.json] …저는 괜찮습니다, 관리자님.|... I will decline, Manager.
+17932||RPGSystem#rpg-loc-dialogue-floor-b1.json] 엥…? 왜. 어차피 여기선 그… 느낌만 먹는 거라며?|Eh...? But why? Thought we eat the... what was it, the "feeling" of it in here...
+17933||RPGSystem#rpg-loc-dialogue-floor-b1.json] 가장 기억에 남는 음식 맛을 볼 수 있는데, 먹어 볼 수 있는 거 아냐?|Which means you could taste the meal you remember best if you will it. Isn't that worth a try?
+17934||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그렇기에, 더더욱 먹을 수 없다.|That is precisely why I cannot consume it.
+17935||RPGSystem#rpg-loc-dialogue-floor-b1.json] 잘됐군.|Excellent.
+17936||RPGSystem#rpg-loc-dialogue-floor-b1.json] 상상 속 가치와 한없이 비슷한 맛일지언정.|Its flavor might approximate the value of the food preserved in my memory with near-perfect accuracy,
+17937||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그 맛은 아니기에.|but it would not be the same.
+17938||RPGSystem#rpg-loc-dialogue-floor-b1.json] 꼭 진짜 가치가 있을 필요는 없는 거 아닌가?|I don't know, not sure the flavor has to retain real "worth."
+17939||RPGSystem#rpg-loc-dialogue-floor-b1.json] 가치라는 건 그때그때 느낌 따라 달라지는 거니까.|Something's "worth" changes depending on how you feel about it at that moment, right?
+17940||RPGSystem#rpg-loc-dialogue-floor-b1.json] 어떤 놈들에겐 그것만으로도 꽤 괜찮을걸.|For some folks... that's enough. More than enough, I'd say.
+17941||RPGSystem#rpg-loc-dialogue-floor-b1.json] 말하고자 하는 바는 정확히 이해했다. 하지만…|I understand your point fully. However...
+17942||RPGSystem#rpg-loc-dialogue-floor-b1.json] 지금의 나는 하지 못할 것 같군.|I do not believe I am presently capable of it.
+17943||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아니 뭐… 먹기 싫다는 걸 억지로 먹으란 건 아니고, 그냥 그렇다는 거지.|Hey, don't drink it if you don't want to—I'm not trying to press the matter here. Just sharing my thoughts, that's all.
+17944||RPGSystem#rpg-loc-dialogue-floor-b1.json] …어쩔 수 없겠네요.|... It cannot be helped.
+17945||RPGSystem#rpg-loc-dialogue-floor-b1.json] 부셰는 그 말에 이를 드러내며 웃더니, 수셰프가 가져온 재료를 유리창 내부에서 난도질하기 시작했다.|Through the window, we saw Boucher's mouth splitting open into a toothy grin as he began hacking into the ingredients the Sous Chef had brought him.
+17946||RPGSystem#rpg-loc-dialogue-floor-b1.json] 의외인 건 뫼르소가 완고한 태도를 조금은 내려놓았다는 것이다.|What surprised me, though, was that Meursault didn't push back with his usual obstinate demeanor in this exchange. At least not as much as he normally would.
+17947||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그레고르의 의견이 의미가 있었던 걸까.|Maybe Gregor's opinion got across to him after all?
+17948||RPGSystem#rpg-loc-dialogue-floor-b1.json] 어쩌면 그레고르의 말대로 맛은 중요하지 않을지도 모른다.|Perhaps Gregor is right. It's not the flavor itself that matters.
+17949||RPGSystem#rpg-loc-dialogue-floor-b1.json] 추억은 어쩌면 좋았던 기억을 위주로 재편집된 무언가일 테니.|What we call "nostalgia" is probably something reconstructed around the memories we found pleasant.
+17950||RPGSystem#rpg-loc-dialogue-floor-b1.json] 고통스러웠던 기억마저도 또렷이 떠오른다면, 추억이란 단어는 불필요할지도.|Memories fade with time. If they don't—if painful memories linger with clarity at all times... Perhaps "nostalgia" is never to be.
+17951||RPGSystem#rpg-loc-dialogue-floor-b1.json] 받아가라, 손님들. 너희가 원하던 황금고치다.|Take it, guests. The Golden Cocoon you requested.
+17952||RPGSystem#rpg-loc-dialogue-floor-b1.json] <우는 것 같은데…?>|<... Is it... <i>crying?</i>>
+17953||RPGSystem#rpg-loc-dialogue-floor-b1.json] 윽… 소리가 영 듣기 거북하군, 그래.|Ugh... Not the most pleasant sound in the world, is it?
+17954||RPGSystem#rpg-loc-dialogue-floor-b1.json] 방금 태어난 요리니까 당연하지. 탄생은 두려움이고 외로움 뒤에 울음이 뒤따르는 법이잖나.|Why would it be? The dish was only just born. To come into the world is to be swallowed by terror, and terror is such a lonely thing—which is, naturally, accompanied by weeping.
+17955||RPGSystem#rpg-loc-dialogue-floor-b1.json] …그보다 슬슬 조리 준비를 해야 하니, 더 볼일이 없다면 떠나주면 좋겠군.|... In any case, I must begin preparing for service. I would prefer that you leave if you have no further business here.
+17956||RPGSystem#rpg-loc-dialogue-floor-b1.json] <생긴 모습에 따라… 던지는 방식이 다른 것 같아.>|<Anyway, I think we can look at their appearances to predict what kind of trajectory their throws'll have.>
+17957||RPGSystem#rpg-loc-dialogue-floor-b1.json] <잘 구분해서, 피하거나… 맞서보자.>|<Let's try to commit their patterns to memory and overcome this threat.>
+17958||RPGSystem#rpg-loc-dialogue-floor-b1.json] <1층에 있던 그것들이랑 똑같네…>|<Just like those things on the first floor, huh...>
+17959||RPGSystem#rpg-loc-dialogue-floor-b1.json] 부딪힌 즉시 그림자계로 넘어가는군요.|Colliding with that enemy immediately dragged us into the Shadowed.
+17960||RPGSystem#rpg-loc-dialogue-floor-b1.json] <1층에 있던 마네킹들보다 나은 것 같기도 하고, 아닌 것 같기도 하고…>|<Is that better than the Mannequins or the first floor... or worse? I don't know.>
+17961||RPGSystem#rpg-loc-dialogue-floor-b1.json] 허. 그렇게 벌레 팔, 벌레 팔 노래를 부르더니…|Huh. For all that song and dance about buggy-buggy this, buggy-buggy that...
+17962||RPGSystem#rpg-loc-dialogue-floor-b1.json] …상징계에서 활동하고 있는 이상, 외부적인 요인으로는 뫼르소 씨를 제외한 수감자들에게 관여하기 쉽지 않았을 겁니다.|... As a being of the Symbolic, it would have been difficult for her, an external force, to interface with the Sinners; the only exception being Meursault.
+17963||RPGSystem#rpg-loc-dialogue-floor-b1.json] 그 반대도 마찬가지일 테지만요.|Of course, that limitation goes both ways.
+17964||RPGSystem#rpg-loc-dialogue-floor-b1.json] <그럼… 우리가 자르려고 하면, 자를 수도 있는 거야?>|<So... we <i>can</i> cut Gregor's arm off, technically?>
+17965||RPGSystem#rpg-loc-dialogue-floor-b1.json] 예. 더해, 제가 주체로 있다면 전달 또한 가능할 것입니다.|Correct. And as long as I am the subject, I can be the medium by which it is transferred to the Sous Chef's hands.
+17966||RPGSystem#rpg-loc-dialogue-floor-b1.json] <…그래도 역시 그레고르 팔은 내키지가 않아.>|<... Hmm. Nah, I've got a bad feeling about cutting off Gregor's arm in here.>
+17967||RPGSystem#rpg-loc-dialogue-floor-b1.json] <푸드코트로 다시 가보자.>|<Let's head back to the Food Court.>
+17968||RPGSystem#rpg-loc-dialogue-floor-b1.json] 이게 무엇인지 한 번 말해볼까?|Now, why don't you tell me what this is?
+17969||RPGSystem#rpg-loc-dialogue-floor-b1.json] 커피… 어머니께서 좋아하는 브랜드의 커피입니다.|Coffee... Coffee from the brand you like, Mother.
+17970||RPGSystem#rpg-loc-dialogue-floor-b1.json] 아니야. 그건 멋대로 규정된 통념… 기억이란다.|No. You're just telling me what convention has arbitrarily imposed upon it... A memory.
+17971||RPGSystem#rpg-loc-dialogue-floor-b1.json] 익숙함에 빠지면 안 돼, 뫼르소. 네가 경험한 것으로 새롭게 정의해야지.|Don't fall into the familiarity trap, Meursault. Define it anew through your experiences.
+17972||RPGSystem#rpg-loc-dialogue-floor-b1.json] 손댈 때마다 찰랑거리고, 빛을 머금었는데도 검고…|It ripples whenever I touch it. It holds the light, yet remains black...
+17973||RPGSystem#rpg-loc-dialogue-floor-b1.json] 쓰고… 뜨겁고… 눈앞이 축축하게 젖어들어서…|It is bitter... hot... and it makes everything before my eyes grow wet...
+17975||RPGSystem#rpg-loc-dialogue-floor-b1.json] 소다 한 컵 하고 가는 거예요.|Take a cup of soda, you hear?
+17976||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 우리는 지하 2층 플로어 매니저를 처치하고 그자가 손에 쥐고 있던 알록달록한 실타래를 가져갔다.|We killed B2F's Floor Manager and took the Colorful Skein from their hands.
+17977||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] …싱클레어, 가 아닌 걸 보니 지하 2층이겠군요. 여기에는 다시 무슨 일로…|... Not Sinclair? We must be on the B2, then. What are we doing here, Executive Manager...?
+17978||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <재료가 더 필요해졌어.>|<We need more ingredients.>
+17979||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 줄 선 바늘이|Queueing Needlekin
+17980||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 휴… 줄이 안 줄어. 1 센치미티도 안 줄었어.|Ugh... this line isn't getting shorter. Hasn't budged an inch.
+17981||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 바늘이들은 실을 받아야 하는데.|Needlekin need thread.
+17982||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 쪼용 쪼용해야 해. 닥치고 기다려 이 바늘들아! 라고 했단 말이야.|Have to be quiety-quiet. They said, "Shut up and just wait, stupid Needlekin!"
+17983||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 어디서 담배 냄새가 나. 여기는 끔연이라구!|I smell ciggy smoke... No smokey-smoke here, okay?!
+17984||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 앞으로는 못 가. 검은 옷들이 서서 아무도 안 보내 줘.|Can't go any farther... the black clothes are standing there and won't let anybody through.
+17985||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 잠시 통제 중이다. 소란 피우지 말고 얌전히 기다려라.|This area is under temporary control. Keep quiet and wait patiently.
+17986||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이 층은 지금 통제 중에 있다. 허튼 짓 하지 말도록.|Everyone on this floor is being watched. Don't try anything stupid.
+17987||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 막고 있는 르누아르들을 먼저 해치워야 합니다, 관리자님.|We should deal with the Noirs blocking our path first, Manager.
+17988||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이곳으론 갈 수 없습니다, 관리자님.|We cannot go through yet, Manager.
+17989||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 다른 곳부터 가는 게 어떻겠습니까, 관리자님. 더 중요한 일이 남아있는 것 같습니다.|I recommend that we attend to another matter first, Manager. There appears to be something of greater priority remaining.
+17991||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 안녕? 너희는 무슨 색을 제일 좋아해?|Hi. What's your favorite color?
+17994||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 원함을 가지고 찾아온 이방인들이구나. 목소리의 말대로 마음껏 솔직해지거라.|You have brought desire with you, strangers. As the Voice says, be true to your desires.
+17995||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 플로어 매니저는… 타래둥지로 가면 만날 수 있어.|The Floor Manager is... in the Skein Nest.

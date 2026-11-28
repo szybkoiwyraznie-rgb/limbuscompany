@@ -1,0 +1,99 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Dziecku nie zostało nic. Za to straconych rzeczy miało aż nadto.",
+      "kr_sha256": "52dc8b927d813a2d6fa157bc599133f856e53e6d9b4814c9175522c2047cc346",
+      "en_sha256": "afabf56150db70806534c19ef5071c8d681154a31b8109ece3e17ea79a0552de"
+    },
+    "dataList[id=10].content": {
+      "pl": "Nikt nie słucha tego wyschniętego głosu. Nawet zwykły robak.",
+      "kr_sha256": "399abefd1cbea0e22c05d1a180689c058e59f9255726b4daa472fce8b3a5a8cb",
+      "en_sha256": "3214ef4df16c4295a48255ad99791a09713bd308547819fed0f8ca6c1654684e"
+    },
+    "dataList[id=11].content": {
+      "pl": "Kiedy wreszcie zapomną, że pracowałam w upadłym Skrzydle?",
+      "kr_sha256": "139e13b67714cbfc7344a4ff193fe5384c82353e304959e76488b6570f46452b",
+      "en_sha256": "c7d5370fadd506abcacb38d6e8d8686c7981e19b794407fd4f45c0cf47221f3f"
+    },
+    "dataList[id=12].content": {
+      "pl": "Jeśli czegoś nie straciła, to faktu, że pracowała w dawnym L Corp.… Tak, tam, gdzie przebywały moje dzieci.",
+      "kr_sha256": "bd9427775a216a68d3bbcccca771264f85b59371979877d76bfb831435cf8e7e",
+      "en_sha256": "93104863a51481716f00553af01b537f61c50b1850925e093d0e166d6e038691"
+    },
+    "dataList[id=13].content": {
+      "pl": "Czy był jakiś powód, dla którego musiałam wyjść żywa z tego piekła na ziemi?",
+      "kr_sha256": "61a1b416f22fff684afc9662ed146240aa4f15f6b11622ac0377cba1e743931e",
+      "en_sha256": "74d6737bf3a6ad56c167f16d646b47469407db8b7b0e9d71c60af520c3641567"
+    },
+    "dataList[id=14].content": {
+      "pl": "Czy jest gdzieś miejsce, które mnie potrzebuje?",
+      "kr_sha256": "13e1acf5dbec2f13f64d280bc6bc1a0719f8d23746577c008603038b3cd2ff4d",
+      "en_sha256": "badad6be64364e9ef74c197caf74e6768c49ccfe6b93f1f5edc47d4cd537cd13"
+    },
+    "dataList[id=15].content": {
+      "pl": "Czy w tym zasypanym miejscu przeżył ktoś jeszcze? Czym były te białe noce i czarne jak smoła dni?",
+      "kr_sha256": "48530e7e11bb982e44cf537c5a40aff10e3399b3c8337326b81b5a301ab82234",
+      "en_sha256": "8dfb2e81b496fbc239662d0fa3084abf9af00f80ba0a78bf0b68f3fd60a1efa1"
+    },
+    "dataList[id=16].content": {
+      "pl": "Dziecko cicho westchnęło,",
+      "kr_sha256": "06e4cb9b44be83243e5879a90aa4baf063df92474564b748f3bcd72b8e9a595a",
+      "en_sha256": "86080603a99a8125e15d322dee08f5098e6d279ba65ed6891f3e2889586dc0c1"
+    },
+    "dataList[id=17].content": {
+      "pl": "Faust nie może wiedzieć niczego.",
+      "kr_sha256": "92655bbc3cde8f3541ef71a67ea3472f919f6d49ee9d4fea7662e6f175162c62",
+      "en_sha256": "bc5cd049485b9de20ca0a804c93653bd5f7c8c904423fd17e3eabb957e1be5b7"
+    },
+    "dataList[id=18].content": {
+      "pl": "Westchnienie nie wypełniło nawet kąta zaułka. Rozproszyło się i znikło.",
+      "kr_sha256": "2aee9e5e00e69720729e403d0bf0f1d5d6b10cafc45c57a6a60d983b86da3b0f",
+      "en_sha256": "dee34c09969d5cf5923ddf1ff74d5323ebce842d373a4446c76b8600137c67e9"
+    },
+    "dataList[id=1].content": {
+      "pl": "Utracone prawe oko, utraceni koledzy, utracona praca, utracone zaufanie. I niezliczone inne straty, które krążyły jej po głowie.",
+      "kr_sha256": "649ffd9eb045869db95925ec5da21f0626fdb8687a2cdfd261d5f9854f6efef4",
+      "en_sha256": "d33754346cd77c345c57e108fbeea818abf2d33b41fc0ccfd27d632932eb14f4"
+    },
+    "dataList[id=2].content": {
+      "pl": "Zadanie wykonane. Wracam.",
+      "kr_sha256": "07cabf6eedd88605cbbcd71b13a564675ac6c652444215bd593e08ed84f68570",
+      "en_sha256": "f8102f206952434783da8c22386b66024efe41886af922d36c0087b0419fd02b"
+    },
+    "dataList[id=3].content": {
+      "pl": "Po tym krótkim meldunku dziecko wsunęło nadajnik do kieszeni.",
+      "kr_sha256": "dcd7a19bad558d937e0a8e27ac85e28ff43211d3c7dce4cd517c24088ebadac9",
+      "en_sha256": "a3f42cb24e6f8968e2637e7b12cf93acbdb7f6557593b1515579222ea11ff088"
+    },
+    "dataList[id=4].content": {
+      "pl": "Świat, na który dziecko spoglądało jednym okiem…",
+      "kr_sha256": "7e5160a99cb7b2a62b82ba80e585ac572bdfb0924a4ede88c7578b56d9edee89",
+      "en_sha256": "b5840271d19abfce7b881f2e9f98b6dc670fc8bd87b6db2d6508cd426f95d8f8"
+    },
+    "dataList[id=5].content": {
+      "pl": "…to były tylko zwłoki kogoś przeciętego na pół, zimny bruk Zaułków Miasta i dawno nienaprawiana niebieska lampa, mrugająca bez końca.",
+      "kr_sha256": "cb8579e43b9052d0f0da20e1b2739f46f35070b392f93c22460dccc415be9a0b",
+      "en_sha256": "b401ab42ac24dbe60fac3862c1e6adac1fd97b0c4ead4d6f947ba716f5050aa8"
+    },
+    "dataList[id=6].content": {
+      "pl": "Wiesz może?",
+      "kr_sha256": "720c0fb63f12467562c059668506ad8fd38b892dc06972dce621262fbc190ccd",
+      "en_sha256": "30f95d3e232d33dc393e32ee698769eb9212d600a3455b2486761c4f0c47b36f"
+    },
+    "dataList[id=7].content": {
+      "pl": "Dziecko zadało pytanie komuś, kto nie mógł odpowiedzieć.",
+      "kr_sha256": "c60b5802b4fbd7b51c9c561323c1b609cd0aa33f9232c44ef2d290a575451047",
+      "en_sha256": "4b7ae0f9a7c7810230ab9e7161293be0d0ee04e90d37d80021b44a69505c4208"
+    },
+    "dataList[id=8].content": {
+      "pl": "Nie czeka jednak na odpowiedź i mówi dalej.",
+      "kr_sha256": "86273e72bbba538d0a32e9a101537d1d9dd1fd3c5539ebecd7e977c6046b715c",
+      "en_sha256": "7159288c15ee9b639e2db95c8d78d7014d0424bd33255ba47bbb5b7d5ae586a3"
+    },
+    "dataList[id=9].content": {
+      "pl": "Kiedyż wreszcie Faust zostanie doceniona?",
+      "kr_sha256": "e773d14e51c6ae54680bcd9f345bee8bb7bf447dbf54999f1d2520a7afe8ffec",
+      "en_sha256": "08f056626fa63120e941c51f77a593b19f96d9ede802fdc8e058c2572e7d1111"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "entries": {
+    "dataList[id=109].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Płatne Szaleństwo x 1690\n· Bilet Dekaekstrakcji x 2\n· Bilet Treningu Tożsamości IV x 60\n· Bilet Treningu Tożsamości III x 30",
+      "kr_sha256": "5ab007713982951256b4ebcc7194b16ee7cb7f3684979e9ecf319c65dd7d3829",
+      "en_sha256": "b0477b8f5e5e722fd4c16eea4ac6ff9e56b56902fd92eedcf7afc9459a004fc3",
+      "origin": "ai"
+    },
+    "dataList[id=109].name": {
+      "pl": "Miesięczny Pakiet Wsparcia Rozwoju I",
+      "kr_sha256": "df51dc7c3ba221a7eb8c82651d329ae4a6f8cc6d8f42b2e4654e34b02e8e292c",
+      "en_sha256": "c26bc340ccbf8c8774289c528368e83257d6b056b5072bc3567afff15d591dc0",
+      "origin": "ai"
+    },
+    "dataList[id=162].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 60\n· Bilet Treningu Tożsamości III x 30",
+      "kr_sha256": "cad3408ddf1678e707df2ec2b8d9b20e9cf25349c0ce88f3318377fe5f1b53de",
+      "en_sha256": "35937a947dbe7364b865bddbb93cc5b9b644b8b21d69a11bdfed0bd5db8b4cae",
+      "origin": "ai"
+    },
+    "dataList[id=162].name": {
+      "pl": "Tygodniowy Pakiet PD",
+      "kr_sha256": "bb14f98ffb5ef2b7b5dd21e56117a398af67fbae5fe1d310eeab05112d104164",
+      "en_sha256": "bac65b61db646bd60d12e94acfd51737316336dc5539139fc1382ce01be1fbb2",
+      "origin": "ai"
+    },
+    "dataList[id=163].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 140\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "f430bfb7e135f1d1fe420512d6883e511d04101989adfa70e4b17243df81fd0e",
+      "en_sha256": "6b495f2274c22e566eea1b7e3422ad663f8e691291ad11e4fefb5d317ad4584a",
+      "origin": "ai"
+    },
+    "dataList[id=163].name": {
+      "pl": "Miesięczny Pakiet PD I",
+      "kr_sha256": "955726eb0d4e25db1e949e7c2f57ae2810ea3bcefc340cbbd5d23e123b4a6e3e",
+      "en_sha256": "8fd3ebea652a1ef8b9c27614339e3fbd9682938067d91f313465b0e6c86ef0fb",
+      "origin": "ai"
+    },
+    "dataList[id=164].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 270\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "6eb1d9e142393ba42b58938eaa86a430639eedac37f05aaebf7832876ac302cf",
+      "en_sha256": "b8db727aecb7305a2b05568ad7a028f91e6d64dd63671c3ceb550379f9635438",
+      "origin": "ai"
+    },
+    "dataList[id=164].name": {
+      "pl": "Miesięczny Pakiet PD II",
+      "kr_sha256": "69375f9808831b191aee30c77072bb9ee547a440eeb58b45e3b7f560fdc701d6",
+      "en_sha256": "b8fcbbce2fcb9a4a2e98e0e5b80f737004dd494b2b39abba48be123e41bb339a",
+      "origin": "ai"
+    },
+    "dataList[id=165].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 500\n· Bilet Treningu Tożsamości III x 170",
+      "kr_sha256": "17836536c0b198e3c200bef6cd2ebb228f3b39c52f3213b0ea4d1bcdd45437b0",
+      "en_sha256": "3c28e1cd87e47da6ab00093a7f239c649cd0cafaec97ac3992df9142d718aecc",
+      "origin": "ai"
+    },
+    "dataList[id=165].name": {
+      "pl": "Miesięczny Pakiet PD III",
+      "kr_sha256": "b4a8a2745696a12ac83ab64ea9b0684b92c7df3acf5f5e17f436798a4fdef18c",
+      "en_sha256": "77e88c0e48fbc5c1931da20625786b45faa407f9738923eca7b024bbbd42191f",
+      "origin": "ai"
+    },
+    "dataList[id=504].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Pawilon Obuwia Le Noir Ryōshū i Haute Couture::Boutique du Rouge Ishmael” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "4c97aac0a3e41bce2475aaacc84cb833a8136dfd3c5c17a8f9b16d48a44753e9",
+      "en_sha256": "b384ea2a3eb5a73558fd3ea3309224e8e7b46b145f6681a65b4670d007a072ee",
+      "origin": "ai"
+    },
+    "dataList[id=504].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=505].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Pawilon Obuwia Le Noir Ryōshū i Haute Couture::Boutique du Rouge Ishmael” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "cdc8852728dae2a2effdaeb48c4fa251b73cdb07b0dac669aa9d3a3880e09932",
+      "en_sha256": "6baeb8c751f794afaa949773727bf0c77d870c29c0cdecb2fe66761b65201d6e",
+      "origin": "ai"
+    },
+    "dataList[id=505].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=506].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Pracownia Poprawek Rodion” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "7e5890129f623403afcefec9cf34f88f8375013bdb25bbf1277d6bf741366350",
+      "en_sha256": "8a5c5cd0749846f4b7cc1a74d96e510f71a41df8367b0584ad6d26934e81a694",
+      "origin": "ai"
+    },
+    "dataList[id=506].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=507].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Pracownia Poprawek Rodion” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "bc727bea880a065aac8b2539f7a216ae2a6dfb8ea36732f554500a398f292464",
+      "en_sha256": "22dfbd01ee9ed7794735e728d7ea555302f89705b53a3e1515fda24f9e1cd553",
+      "origin": "ai"
+    },
+    "dataList[id=507].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=508].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Menedżerka Marki Le Noir Don Quixote” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "fcfcec7f73c3998cf51b1bc16c69c0b30ac561d4b4e96d488b5a12cbd6a85011",
+      "en_sha256": "a51a95a26f0f2cdf527972574a56cff8acbd8fd178390e2c0eaa6f7378f7725e",
+      "origin": "ai"
+    },
+    "dataList[id=508].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=509].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Menedżerka Marki Le Noir Don Quixote” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "7e693658cf98608e7c21863ec8a4849bd5fd40ece7541d59ae685000e70499ca",
+      "en_sha256": "f85d9017c5c227c740871ed0979465809d17310e9c23d5aaa4208892b8aafd33",
+      "origin": "ai"
+    },
+    "dataList[id=509].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=510].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Czerwony Bóg Le Rouge Sinclair” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "fcfb422948e81e930b7d072c10dd8771246aae98c9b9a5f5f3c714ed9bcb8b86",
+      "en_sha256": "e855f86920a61cdbdb9326b34ea677fd93a544894a1dc0f0fa0c6aa08443b3ad",
+      "origin": "ai"
+    },
+    "dataList[id=510].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=511].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Czerwony Bóg Le Rouge Sinclair” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "5565fb73742905d473a30c9659ea806b3af4dc7a6d9a7f9e9307672b378ddd63",
+      "en_sha256": "8ca4509220debf27cee86d82a6535c6c9e4790492b7174dddf1c35f80e7aa5ce",
+      "origin": "ai"
+    },
+    "dataList[id=511].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=512].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Król Szycia Le Rouge Heathcliff i Haute Couture::Radiowęzeł 3F Le Noir Hong Lu” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "1b0bfbe6229e3ef81071fca8c140fd8cbf0cb01f4db5949db1d7a0e71120a3f8",
+      "en_sha256": "9c3f30b9d046867fa7acfdb94935a966ee9214b2e04422bbed95b42fde82925c",
+      "origin": "ai"
+    },
+    "dataList[id=512].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=513].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Król Szycia Le Rouge Heathcliff i Haute Couture::Radiowęzeł 3F Le Noir Hong Lu” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "ec99cf5ba09d75af3727ab4a63da8c24aee0c0aee70975b5a56485edbf0b8e65",
+      "en_sha256": "8277ec0588eaeea16e57af4cc9e6c17337cceb214636813a5118b5aead4505c3",
+      "origin": "ai"
+    },
+    "dataList[id=513].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=514].desc": {
+      "pl": "Pakiet z okazji premiery „Ekstrakcja Celowana 10. Nocy Walpurgii” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "c88e6188f77ac81bf6edde8f11319022254a2433bb80df0a1996081708a876de",
+      "en_sha256": "13efc0f098afdcb868e64e2f4d6c5046ba4d6eef1e86c29c92b0400e3634f2c9",
+      "origin": "ai"
+    },
+    "dataList[id=514].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=515].desc": {
+      "pl": "Pakiet z okazji premiery „Ekstrakcja Celowana 10. Nocy Walpurgii” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "76b8b88a8929b14bcb4ef99c77fc3945774b94af4d1522a33723db01589bad0b",
+      "en_sha256": "b2143098a177376333d4a76564047082ef24f6fa2fb01869c879a655ec5c307e",
+      "origin": "ai"
+    },
+    "dataList[id=515].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=516].desc": {
+      "pl": "Pakiet z okazji premiery „Ekstrakcja Celowana 10. Nocy Walpurgii” — zawiera następujące składniki:\n\n· Moduł Skoku — Splot Nici E.G.O [HE] x 1",
+      "kr_sha256": "8c49c1b352b6026b731ac3fb23297d4b6db1d8ee16342424403f1c3041385eca",
+      "en_sha256": "0ea00ec1db95aa96bf64d5e4ab04c29ed103410edff2dc5cf0f252cd4ba56ef7",
+      "origin": "ai"
+    },
+    "dataList[id=516].name": {
+      "pl": "Pakiet Rozwoju E.G.O",
+      "kr_sha256": "ff1ccd346010490ffe8a52e2728716b4f285cf92682e57acd83e3b55b6f86fd2",
+      "en_sha256": "23524eeaca8d04a4df2f010929f9de34e6089df00e82fd8136de1313e0e49576",
+      "origin": "ai"
+    },
+    "dataList[id=517].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości — Haute Couture::Gniazdo Pasm B2F Le Rouge Gregor i Haute Couture::Suszarnia B3F Le Noir Yi Sang” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "b7c112a7db6902e85667103a86951e0ab1f3ce5e76e4dddf84a429c41ae835e4",
+      "en_sha256": "03f755ea13744bc048321de8b4891edad26949ff314bcbb78eac185f07eb5793",
+      "origin": "ai"
+    },
+    "dataList[id=517].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=518].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana Tożsamości — Haute Couture::Gniazdo Pasm B2F Le Rouge Gregor i Haute Couture::Suszarnia B3F Le Noir Yi Sang” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "6696c30a2b327ff137c4ff279a46f2f1ab6c141fa45f7bfd0e8088e216d652d0",
+      "en_sha256": "52b385030d16770914607775380e68edf6df591a0cef1a9cb98aef6311dc76bc",
+      "origin": "ai"
+    },
+    "dataList[id=518].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=607].desc": {
+      "pl": "Oferta sezonowa — zawiera następujące składniki:\n\n· Płatne Szaleństwo x 1300",
+      "kr_sha256": "84b947ff24ce1d575a5acd4ea4ddef938b4f7cb2978550c41517332fba77758b",
+      "en_sha256": "1deb0a81f0339c8fda94cdef87ef654853f45c357524cbb41b3dcb9b981e860d",
+      "origin": "ai"
+    },
+    "dataList[id=607].name": {
+      "pl": "Pakiet Szaleństwa Startowego Sezonu 8",
+      "kr_sha256": "f624af1c94610f95416a1d38c042ab40ba553e2a77aaf042a70ac3db36297539",
+      "en_sha256": "d53a92ed609f51422b5c6f82cda3e6022743a631e13e5a261aa9a8a35e2f1902",
+      "origin": "ai"
+    },
+    "dataList[id=608].desc": {
+      "pl": "Dostępny do zakupu w okresie Sezonu 8: PUNCTUM — zawiera następujące składniki:\n\n· Płatne Szaleństwo x 5040\n· Bilet Dekaekstrakcji x 3\n· Bilet Treningu Tożsamości IV x 90\n· Bilet Treningu Tożsamości III x 40\n· Nić x 80\n· Imienna Skrzynka Odłamków E.G.O Sezonu 8 x 40",
+      "kr_sha256": "17fd225151bc8ac42dddfd46505ed94c220780b8d96b6d3987c758b2d8c86e02",
+      "en_sha256": "dfa3761b2a4c4813395a51cb4e6c6102d0dbd21d96ff1e0c4ba697a02d6cdb2a",
+      "origin": "ai"
+    },
+    "dataList[id=608].name": {
+      "pl": "Wsparcie Osadnika Sezonu 8",
+      "kr_sha256": "9a9c911cb255cd0d1f25859326f4a6dc822d9dc1df9553d91143d86a5f7dbc5b",
+      "en_sha256": "0fbc5c66e7a7a587e9217df48a80bb692b0622baf116c14941c08633e217b406",
+      "origin": "ai"
+    }
+  }
+}

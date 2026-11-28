@@ -1,0 +1,49 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Czerwie z bezgłośnym wrzaskiem rozpadają się na kawałki.",
+      "kr_sha256": "d583106bafe191a0e099ff90ed92641c4ef98c1e47acfbdf79f24a0bf5486106",
+      "en_sha256": "5a9f8fdf1777520b8873db4490ba542e2839b7d9e735262106bdd11a86add73b"
+    },
+    "dataList[id=1].content": {
+      "pl": "Za nimi faluje złote światło.",
+      "kr_sha256": "8a43df2faf2813b1d9aa281fe5b422f084d24a134ea1e0c89a1dd184a44015f0",
+      "en_sha256": "a682e53a8fd3e2ab8ffca19c40d04a0fd20af66755e267821670414062ac0b6c"
+    },
+    "dataList[id=2].content": {
+      "pl": "<To… Złota Gałąź?>",
+      "kr_sha256": "ed145c26c5f788c308deec6e84cd07f531c89cbea159f77d11fcfad0d232fdac",
+      "en_sha256": "40aa51652c7fdd5b25bc2b5268745b653c7fd47e29233b3ad8d89bd32cba45b9"
+    },
+    "dataList[id=3].content": {
+      "pl": "Kiedy już mam zrobić krok, żeby podejść bliżej, jabłko zaczyna drgać.",
+      "kr_sha256": "db83583e2333e362e05f9d9a3f565b704f7b68afab32e0f760b656631f101338",
+      "en_sha256": "a114c12d59b845586c056a8ebe7a5916de2023078620a47e8533cf45ad04e0e3"
+    },
+    "dataList[id=4].content": {
+      "pl": "Przepraszam… czy państwo są… z Limbus Company?",
+      "kr_sha256": "711e646f7b1290a1d665d1bc41189978b660e489b340e900b13062750b20c3e5",
+      "en_sha256": "ff8fb78272e49436ba27c9642626e62be7c16cb9a4b7bcd226235faab4befce3"
+    },
+    "dataList[id=5].content": {
+      "pl": "<Yuri? Nic ci nie jest?>",
+      "kr_sha256": "38bcb32e8a95c6a192e7e3572e2222f8f4e4992f038029d01563ab9adc3638b9",
+      "en_sha256": "2330e48b6cc373b776f73b71dfdb38adb9cb823c5c697791fe049f36dbccb5b7"
+    },
+    "dataList[id=6].content": {
+      "pl": "Choć wyraźnie widziałem, jak ją połknęło, pytanie samo mi się wyrwało.",
+      "kr_sha256": "e41ed09c67d71ea73a3b4453fd8a30a56888e3204619803113d262c265a03922",
+      "en_sha256": "15be8d40cd86bae9c3dc47ec40baf5e0c63d57350a4655e344a9521efb159877"
+    },
+    "dataList[id=7].content": {
+      "pl": "…Jak wrócimy do autobusu, mogę Charon… nauczyć?",
+      "kr_sha256": "1c15656e0177064caa4132ce7c12dbf994a9a01f625e6e1f4ad85cad9628cf97",
+      "en_sha256": "72079772acb59aedc39ceadd768afe4093dd27a5b6335fe3ba646e609f6a78e8"
+    },
+    "dataList[id=8].content": {
+      "pl": "I wydało mi się, że mignęły mi różowe włosy, które tak spodobały się Rodion.",
+      "kr_sha256": "7114ae0216990812291a11218b0350177e84de26887487dd70ddade1f512d6cc",
+      "en_sha256": "1d1d9f0b2fab7a3204b79422546e42464863e2f614b4ac406fcfb75c1a538ec9"
+    }
+  }
+}

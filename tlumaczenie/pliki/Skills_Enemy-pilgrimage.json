@@ -1,0 +1,406 @@
+{
+  "entries": {
+    "dataList[id=9102701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=9102701].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=9102701].levelList[level=1].name": {
+      "pl": "Gryzienie",
+      "kr_sha256": "f2a6f92047a8143ff4c57a92c5176f3e3004cf63b2ae696578d330901f3bbc39",
+      "en_sha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
+      "origin": "ai"
+    },
+    "dataList[id=9102702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking] i zwiększa Licznik [Sinking] o 2",
+      "kr_sha256": "fb0fe020be29c13c474e0046a309391189ba4da5ac20c41f9eceb843eb21131a",
+      "en_sha256": "975a6092f706ef147448bdb55f339f7ea0975e91e9d84ebbf87734574509ad6e",
+      "origin": "ai"
+    },
+    "dataList[id=9102702].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 6+ [Sinking], Moc Starcia +1",
+      "kr_sha256": "0eb71e0030daf2f5eda0962959a7ea074ff5de32629fa1bb2e32a23072b41b03",
+      "en_sha256": "a3649a8e26b5ce2f3fb4d522594f91da93bc8cafcc9dab840cc5e7bcd4bac346",
+      "origin": "ai"
+    },
+    "dataList[id=9102702].levelList[level=1].name": {
+      "pl": "Natarcie",
+      "kr_sha256": "6ea52186e3a273e705de98bdfd41977faa62152d23f67ea13a404472802c3230",
+      "en_sha256": "dc5520573a9f4e46a7c42f1bdacc7a2ac40392969a4c2f244b2bc11807f4b8d1",
+      "origin": "ai"
+    },
+    "dataList[id=9102801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "a1496a84e45301bf76a8cb7559a1085dac9125627cc0d7651cf9ad01f2d4f4ea",
+      "en_sha256": "72e6254810b0f722ec53ec3c7941902de81c18758cbe2dcffc846abe47b736ad",
+      "origin": "ai"
+    },
+    "dataList[id=9102801].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [NervousImpairment]",
+      "kr_sha256": "800b6ad71bdbeef53b90eaa04d548b46400f3925d6263a780981aa08302891ab",
+      "en_sha256": "c456ae4b9f3d2094091bbed7a26e59a518d8028687040dd98784101d3be42451",
+      "origin": "ai"
+    },
+    "dataList[id=9102801].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 6+ [Sinking], Moc Starcia +1\n[StartBattle] przy HP 33% lub mniej, wszystkie Monety tej Umiejętności zmieniają się w [SuperCoin]y",
+      "kr_sha256": "46cbf52a7de3aa98002f57205fbaba955dd9b33f25a6968abb3787226bc8c1c0",
+      "en_sha256": "0fd49f3112b7d66db038da6da89e689f41afd66037aa69c84b05cef9f06cf76b",
+      "origin": "ai"
+    },
+    "dataList[id=9102801].levelList[level=1].name": {
+      "pl": "Rozbicie",
+      "kr_sha256": "da2b793754905366d755c754f52f0bfc32bebd558d664e9447b59ed41045085e",
+      "en_sha256": "0bbbc39a422e402e92a5d8ae48eb7d5fcdd99c2206ddb8fc26ee93c65e19a0db",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [NervousImpairment]",
+      "kr_sha256": "800b6ad71bdbeef53b90eaa04d548b46400f3925d6263a780981aa08302891ab",
+      "en_sha256": "c456ae4b9f3d2094091bbed7a26e59a518d8028687040dd98784101d3be42451",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "e85a6ec7183754a9afad268fb9d90af8d2c2cde42dccaaada24be526d9e451e8",
+      "en_sha256": "d9a1ec9ffaef9ba7cd45e0b2530b7825d6e62293ad5c954972425a936ee4cd42",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [NervousImpairment]",
+      "kr_sha256": "800b6ad71bdbeef53b90eaa04d548b46400f3925d6263a780981aa08302891ab",
+      "en_sha256": "c456ae4b9f3d2094091bbed7a26e59a518d8028687040dd98784101d3be42451",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 6+ [Sinking], Moc Starcia +1\n[StartBattle] przy HP 33% lub mniej, ostatnia Moneta tej Umiejętności zmienia się w [SuperCoin]",
+      "kr_sha256": "45bae29284538574deef44c9f40f0bbc6f53939cf7bdf460506c723df1085bb3",
+      "en_sha256": "695ef5a1001de3c459806bf3cbdee1431c50795f0ed1f41fcb44044d586b3e75",
+      "origin": "ai"
+    },
+    "dataList[id=9102802].levelList[level=1].name": {
+      "pl": "Rozrzucanie Strzępów",
+      "kr_sha256": "4830c189e861fbef48c6e76d489057515b42e60eef96461f4857c5e9a10df012",
+      "en_sha256": "1257a6ca3d3203a1cd61643cac0f7a0c0b6ff8056079723643f97669e0ecf3fa",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "e85a6ec7183754a9afad268fb9d90af8d2c2cde42dccaaada24be526d9e451e8",
+      "en_sha256": "d9a1ec9ffaef9ba7cd45e0b2530b7825d6e62293ad5c954972425a936ee4cd42",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 4 [Sinking]",
+      "kr_sha256": "c6b8273b4358b3abb2adfaa1b152db993b3e0196ce82426ea3d09ecdd599fb73",
+      "en_sha256": "21f6cef09a699bfc2d3bf3bae0fdf504d5b397003c24e7206020ddc841840704",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [NervousImpairment]",
+      "kr_sha256": "0ac21576226a182a33d3dd5aa7a971ee74980a9df8608eb4379c20bd1acf4470",
+      "en_sha256": "592c74cfa0ee1fcb6f75e7dffcd2dc7704a1a899fbce8a39c28d80b199e397b6",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] celu (maks. 3)\n[StartBattle] przy HP 50% lub mniej, wszystkie Monety tej Umiejętności zmieniają się w [SuperCoin]y",
+      "kr_sha256": "3bc9291d6725d5835de851ccbb2c82cb06b93dbfa741f6170e9afbab37426345",
+      "en_sha256": "84f422688f5dca80e98120e0a1d56bf7281bf9d01e96a683c00737a905aef1df",
+      "origin": "ai"
+    },
+    "dataList[id=9102901].levelList[level=1].name": {
+      "pl": "Skrawkowanie Życia",
+      "kr_sha256": "83fc2593ffeb9ee8ac97cbe9b6477ec9ed607c40eb79c79af9d4b8cf069de9b9",
+      "en_sha256": "f3347622758e66c8766d6f2f3edf79c8b3b303824b047c4eafbefdee5bb82326",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "e85a6ec7183754a9afad268fb9d90af8d2c2cde42dccaaada24be526d9e451e8",
+      "en_sha256": "d9a1ec9ffaef9ba7cd45e0b2530b7825d6e62293ad5c954972425a936ee4cd42",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Sinking]",
+      "kr_sha256": "a1496a84e45301bf76a8cb7559a1085dac9125627cc0d7651cf9ad01f2d4f4ea",
+      "en_sha256": "72e6254810b0f722ec53ec3c7941902de81c18758cbe2dcffc846abe47b736ad",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 6 [Sinking]",
+      "kr_sha256": "ad10d1db5c144b2b0d8b247f884dde851c6edc488d99992023c3865a02097331",
+      "en_sha256": "8972254752b3d4c285c9ac0cabfd5be6bc951b9660a707291df9f32e2f12f954",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [NervousImpairment]",
+      "kr_sha256": "0ac21576226a182a33d3dd5aa7a971ee74980a9df8608eb4379c20bd1acf4470",
+      "en_sha256": "592c74cfa0ee1fcb6f75e7dffcd2dc7704a1a899fbce8a39c28d80b199e397b6",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] celu (maks. 3)\n[StartBattle] przy HP 50% lub mniej, wszystkie Monety tej Umiejętności zmieniają się w [SuperCoin]y",
+      "kr_sha256": "3bc9291d6725d5835de851ccbb2c82cb06b93dbfa741f6170e9afbab37426345",
+      "en_sha256": "84f422688f5dca80e98120e0a1d56bf7281bf9d01e96a683c00737a905aef1df",
+      "origin": "ai"
+    },
+    "dataList[id=9102902].levelList[level=1].name": {
+      "pl": "Furia",
+      "kr_sha256": "0ff25a2c05e21fd17aaec38bf0fbdc72b0e3caeffeee0b6983572d2d23611175",
+      "en_sha256": "148b8f01ccb30c07d3bd3fb26370f7976cdc4a08a1e1d2c6be996306d8cc274e",
+      "origin": "ai"
+    },
+    "dataList[id=9102903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9102903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9102903].levelList[level=1].name": {
+      "pl": "Zbiór Substancji Odżywczych",
+      "kr_sha256": "e19607da22db4e9fbe7f4a377643a88d844ea6a12d60b47ba2d3098aa1c3674a",
+      "en_sha256": "5d7d8c9a91545b22703c3f66af339665a3de6efeb885d65c2de82e32c8c225f1",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [NervousImpairment]",
+      "kr_sha256": "800b6ad71bdbeef53b90eaa04d548b46400f3925d6263a780981aa08302891ab",
+      "en_sha256": "c456ae4b9f3d2094091bbed7a26e59a518d8028687040dd98784101d3be42451",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "216a92d7acf9c03f3649e5d571f24773e00fe51280069c6b6cefcad70e147e22",
+      "en_sha256": "a2ae0d7c62119fc83daa3941fabd01380d0499bc683d79f4e53229859349c750",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] celu (maks. 2)",
+      "kr_sha256": "be50d744f643c56105e3287c737e598326796ee4bb7440ac7c4d77eb482048ea",
+      "en_sha256": "86db80f9c11143cd88cb21f88aeff2ff2ecb94326afb6ac5dd0d369802ceb283",
+      "origin": "ai"
+    },
+    "dataList[id=9103001].levelList[level=1].name": {
+      "pl": "Rozcinający Zagryz",
+      "kr_sha256": "cc8f13cc7c947a5d0097d29261a415a2c84fd2608f522487c5d685a155feabb8",
+      "en_sha256": "9deb6e3be03cdcef1591afe553028f6ac7dbbfc8d7bc269d591cee704257d8e9",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [NervousImpairment]",
+      "kr_sha256": "800b6ad71bdbeef53b90eaa04d548b46400f3925d6263a780981aa08302891ab",
+      "en_sha256": "c456ae4b9f3d2094091bbed7a26e59a518d8028687040dd98784101d3be42451",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "c05e5364f1094d254f4330f719eafbc3be627729cbf76c2d10571243e831b3f7",
+      "en_sha256": "aedce0895226219678dac80a180c4626bdd919a93edab234c89d723317dc867e",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [NervousImpairment]",
+      "kr_sha256": "15699930a12087c1dcc9a95cca4bd94d95e2deeb123afdc110a15f3341718d31",
+      "en_sha256": "a490a3f2c644b04afd40a8b52acd97b58ecf79686116aee0a56c9c445817fe43",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] celu (maks. 2)",
+      "kr_sha256": "be50d744f643c56105e3287c737e598326796ee4bb7440ac7c4d77eb482048ea",
+      "en_sha256": "86db80f9c11143cd88cb21f88aeff2ff2ecb94326afb6ac5dd0d369802ceb283",
+      "origin": "ai"
+    },
+    "dataList[id=9103002].levelList[level=1].name": {
+      "pl": "Nieustanne Żerowanie",
+      "kr_sha256": "97686865eb150cea58b898118fd37b6704503196d255a72164177f78c40e1e29",
+      "en_sha256": "cc33563d938611fbdc392d9410050612fb466ea7fc848f92e19f681890a30ead",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "e85a6ec7183754a9afad268fb9d90af8d2c2cde42dccaaada24be526d9e451e8",
+      "en_sha256": "d9a1ec9ffaef9ba7cd45e0b2530b7825d6e62293ad5c954972425a936ee4cd42",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [NervousImpairment]",
+      "kr_sha256": "800b6ad71bdbeef53b90eaa04d548b46400f3925d6263a780981aa08302891ab",
+      "en_sha256": "c456ae4b9f3d2094091bbed7a26e59a518d8028687040dd98784101d3be42451",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "216a92d7acf9c03f3649e5d571f24773e00fe51280069c6b6cefcad70e147e22",
+      "en_sha256": "a2ae0d7c62119fc83daa3941fabd01380d0499bc683d79f4e53229859349c750",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 3 [Sinking] i zwiększa Licznik [Sinking] o 2",
+      "kr_sha256": "0211029bd1f2e8dfadb3b22f8f2225020f7d665a3eadd26198545990d21f5d87",
+      "en_sha256": "47d366ac584c63d259b0e69691fe1d74f8fedf40f25aaebe62c44877b8a0c2c7",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] głównego celu (maks. 2)",
+      "kr_sha256": "fb9fce507afa12c5afa1b99ecde59278ed997d173b5f2428aec4f9d98e6459ef",
+      "en_sha256": "e222a68015bd86cc48294cb5b1ae30a6358b174e20936ffc153fc9fb0c4ac43a",
+      "origin": "ai"
+    },
+    "dataList[id=9103101].levelList[level=1].name": {
+      "pl": "Przebicie Życia",
+      "kr_sha256": "b0dceee522ac3fdbe3427fb5a2bfd202c484283175da2cc53388a45216b3c574",
+      "en_sha256": "dc940019a7159d7f0bee3a364c61ef99b7bade56b9435094d6953be0e17bd301",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +1 Licznika [Sinking]",
+      "kr_sha256": "6f92e7a575bdf083df13b07e7f4b73df72ab3b860f3dc4ecf4b162d135e11847",
+      "en_sha256": "f1c9a3408cd8bd0609ec190ce0d5116d24d45ef9ca8abe592eff0673200d1123",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NervousImpairment]",
+      "kr_sha256": "f47811310dbffad3fa01f2e1880b1c5e032c1212f78869a4ace0487a04d358f4",
+      "en_sha256": "af00715b2e84353817cf4ccbf0772d15e9655201084cbe59d6832ee59954f4a1",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada +1 Licznika [Sinking]",
+      "kr_sha256": "6f92e7a575bdf083df13b07e7f4b73df72ab3b860f3dc4ecf4b162d135e11847",
+      "en_sha256": "f1c9a3408cd8bd0609ec190ce0d5116d24d45ef9ca8abe592eff0673200d1123",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [NervousImpairment]",
+      "kr_sha256": "15699930a12087c1dcc9a95cca4bd94d95e2deeb123afdc110a15f3341718d31",
+      "en_sha256": "a490a3f2c644b04afd40a8b52acd97b58ecf79686116aee0a56c9c445817fe43",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 2 [Sinking] i zwiększa Licznik [Sinking] o 3",
+      "kr_sha256": "742640e5bc44b661c839ef4a37bda38023044995b3f825a828ee2eba9f1368a6",
+      "en_sha256": "b7ddbd8eca93c8e5137077b0e36fd83754e0a3e47484246aceaadd32f69ae7fd",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [NervousImpairment]",
+      "kr_sha256": "0ac21576226a182a33d3dd5aa7a971ee74980a9df8608eb4379c20bd1acf4470",
+      "en_sha256": "592c74cfa0ee1fcb6f75e7dffcd2dc7704a1a899fbce8a39c28d80b199e397b6",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].desc": {
+      "pl": "Moc Końcowa +1 za każde 6 [Sinking] głównego celu (maks. 2)",
+      "kr_sha256": "fb9fce507afa12c5afa1b99ecde59278ed997d173b5f2428aec4f9d98e6459ef",
+      "en_sha256": "e222a68015bd86cc48294cb5b1ae30a6358b174e20936ffc153fc9fb0c4ac43a",
+      "origin": "ai"
+    },
+    "dataList[id=9103102].levelList[level=1].name": {
+      "pl": "Wyrzut",
+      "kr_sha256": "0e83c090e4cf8de7e59f82159bc0f0e4a3c2ac43b05bf3a85ad9cf5df4e765df",
+      "en_sha256": "1de694364549a0059c4f2b2ef78036425dadd89897070f9881db785ecad195b5",
+      "origin": "ai"
+    }
+  }
+}

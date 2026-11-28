@@ -1,0 +1,796 @@
+{
+  "entries": {
+    "dataList[id=FellBulletGroggy].desc": {
+      "pl": "- Nie można go usunąć\n- Jeśli na koniec tury osiąga 0, w następnej turze popada w stan Oszołomienia\n- Przy użyciu Umiejętności 'Wystrzał Wskazanego Celu', jeśli cel nie posiada Napiętnowania, maleje o 1\n- Jeśli Umiejętność 'Wystrzał Wskazanego Celu' przegra Starcie, maleje o 1\n- Jeśli sojusznik wskazany jako cel przed użyciem Umiejętności 'Wystrzał Wskazanego Celu' zginie, maleje o 1",
+      "kr_sha256": "ad11d2049e505913e4a0d97011d225cdcf9f1e5937cb88d8b315bda2d6ccd88f",
+      "en_sha256": "74ad5decea334c8be568988ec2ee497834d8d51da6d302dfcf0135e07ae77f1b",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletGroggy].name": {
+      "pl": "Napiętnowany",
+      "kr_sha256": "76f43aab8322321c4c39c07ba9a2aa7b7ea70b5b76710fdeb2193d184cd06079",
+      "en_sha256": "cb0aca91016f72f20840f1382d270b71cb90011e286a316ec69a6895a98ab9a3",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletMark].desc": {
+      "pl": "- Staje się celem Der Fluchschütze\n- Znika na koniec tury",
+      "kr_sha256": "9ad86c6b2c8432d9ccb887b327295bb295e0b257e4d140db6739f2e41e102087",
+      "en_sha256": "32b8aed6bb064d91735c6f0658559bf59d9ffe45040b9fbe21f4e2d3967e6cbd",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletMark].name": {
+      "pl": "Napiętnowany",
+      "kr_sha256": "76f43aab8322321c4c39c07ba9a2aa7b7ea70b5b76710fdeb2193d184cd06079",
+      "en_sha256": "cb0aca91016f72f20840f1382d270b71cb90011e286a316ec69a6895a98ab9a3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR501].desc": {
+      "pl": "+1 do Mocy Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia nadawanej wrogom przez Umiejętności i efekty monet",
+      "kr_sha256": "93ada601523f33e2a047e362f32c8747c6fe0839d4759855e5c4c077539fe0e9",
+      "en_sha256": "0a1e32372c2b6443289046c5727ad6008e4b000b82cd83b4138a0b2918041b38",
+      "origin": "ai"
+    },
+    "dataList[id=MRR501].name": {
+      "pl": "Załamanie Nadawania",
+      "kr_sha256": "9b44f6f3bb7c2a70edc8bae54b76c10aa3630596c565be97818ae2563c70f494",
+      "en_sha256": "ecb178c9fdf0e4c80e222c171698293f9cf037ee81d39bcab058fc4d0a800c22",
+      "origin": "ai"
+    },
+    "dataList[id=MRR502].desc": {
+      "pl": "+1 do Licznika Oddechu i Ładowania zyskiwanych przez sojuszników dzięki Umiejętnościom i efektom monet",
+      "kr_sha256": "9df66972816caec8c0fb8e3f92401bad24e20b861d10df85c03fb594fedd0857",
+      "en_sha256": "53b6eb62e9769e1ff8a7c8b2c66f376d73452ddfa6a660923d851c4c44393280",
+      "origin": "ai"
+    },
+    "dataList[id=MRR502].name": {
+      "pl": "Załamanie Zyskiwania",
+      "kr_sha256": "240e4d28fe71fabd794db910bf84c96e523c73a50b3f9aab2a394d6ffb01a0ea",
+      "en_sha256": "1e84f46160babf7fe0f7f916d7a9cef42372c39464df126a28b14f8977ce83cf",
+      "origin": "ai"
+    },
+    "dataList[id=MRR503].desc": {
+      "pl": "Na koniec tury 3 sojuszników z najniższą Poczytalnością odzyskuje 8 Poczytalności (poza tymi w stanie Paniki lub Korozji)",
+      "kr_sha256": "2445c0b1ef1518a385a84f3928c097c7c927b4dd66db9c6e07c26f6bd42da3f7",
+      "en_sha256": "5888a95aa0560f04a2c46b532e4044aa8a5430e896d0d2d9b4745e7262203128",
+      "origin": "ai"
+    },
+    "dataList[id=MRR503].name": {
+      "pl": "Załamany Umysł",
+      "kr_sha256": "5131dbeac80eaaf863af122b0fad7c1f82556cad1b236729a527f3d274c7f85c",
+      "en_sha256": "7507ad7e8a73c23d67bf47b2669d0eac0da1bb77eb39c1f0c589b4746d6fbc7f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR504].desc": {
+      "pl": "Przy trafieniu krytycznym, jeśli posiadana Moc Oddechu przekracza 20, zużywa nadwyżkę Mocy Oddechu (maks. 20), by zadać +(zużyta wartość x 2.5)% obrażeń krytycznych (maks. 50%)",
+      "kr_sha256": "1c530ecd592424f99ec4f4e0a9abe2f2eccf96b662630e0b8e7078a85d376c27",
+      "en_sha256": "a6ffd23fa5f2220a7516ee0f199fa3d1d2e6d6be3dcffa34201c8b4ad8dfd29f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR505].desc": {
+      "pl": "Przy trafieniu Umiejętnością zużywającą 8+ Licznika Ładowania: +0.1 do Odporności celu na Zazdrość na czas tej walki (raz na Umiejętność na jednego wroga; maks. wzrost: 0.3)\nUmiejętności zyskujące lub zużywające Licznik Ładowania zadają +(10 + zyskana/zużyta wartość x 2)% obrażeń (maks. 50%)",
+      "kr_sha256": "a72eb84d96bd6d6e6e90739b727947a5811d426d51b21a1131b52e840dc2f3c6",
+      "en_sha256": "2e57d58872908241788431a59a44a34edb1eea0bb8d20ad9e86373c675d1a464",
+      "origin": "ai"
+    },
+    "dataList[id=MRR505].name": {
+      "pl": "Załamane Ładowanie",
+      "kr_sha256": "2677cb5917acb76ec51778a016defc85f2e106576f017049dc3e0f58b2d6b785",
+      "en_sha256": "069e19ade65719bf6edc78d85221c644c6caad4347c1c3ffc9ca903ae2d32bc6",
+      "origin": "ai"
+    },
+    "dataList[id=MRR506].desc": {
+      "pl": "Na koniec tury zadaje wszystkim częściom wrogów obrażenia Gniewu równe Mocy Podpalenia, maleje Licznik Podpalenia o 1, wywołuje Wybuch Wstrząsu i maleje Licznik Wstrząsu o 1 (wywoływane tylko przy Liczniku 2+)",
+      "kr_sha256": "b798a899b2d3a262226ea02095dae390be081f67dca71cc5a373cf759b7d7819",
+      "en_sha256": "55ed6f2f323f6e2ef1b1dbd34049d9377d0247dd6d7d756e27c3f3da33d41e12",
+      "origin": "ai"
+    },
+    "dataList[id=MRR506].name": {
+      "pl": "Załamany Wybuch",
+      "kr_sha256": "6d003c9444c7c9ada57cf4423a464045c24da3c197f93c45432be0ae71c02901",
+      "en_sha256": "5cd51d4e9e484686f8058d4379364edc8b9eb6fcc158a35afda826eb20fc56b4",
+      "origin": "ai"
+    },
+    "dataList[id=MRR507].desc": {
+      "pl": "Umiejętności, które nadają Moc Rozdarcia lub Licznik Rozdarcia, zyskują Moc Końcową +2",
+      "kr_sha256": "47f4e156b1ff0aa3d3ce47ed5c5aef859602db651c62b0113a90ac771f57f172",
+      "en_sha256": "1bd94d26023012f29db4a0242f9b630716f1e53ea227948a8e8db07238b53540",
+      "origin": "ai"
+    },
+    "dataList[id=MRR507].name": {
+      "pl": "Załamane Rozdarcie",
+      "kr_sha256": "3c19435f7f4a235ce6e209fee35388444aaa82eebb1ee1e945eed99b02f6e286",
+      "en_sha256": "1018b79dc3578c3939c252c15f636e3bce593d5043e72d2666ddc3779c4d34ef",
+      "origin": "ai"
+    },
+    "dataList[id=MRR508].desc": {
+      "pl": "Zadaje +(Moc Zatonięcia celu)% obrażeń wrogom bez Poczytalności lub z Poczytalnością poniżej 0 (maks. 45%)",
+      "kr_sha256": "844a1e078bc0034ba245dc952388a1cbd94f53bafa02c4c0c3f9189eeaa42ad8",
+      "en_sha256": "eb83cfac7e427f4b24247b19c27d2882fb2ab115d5a8375e46d8e649caf1a5e5",
+      "origin": "ai"
+    },
+    "dataList[id=MRR508].name": {
+      "pl": "Załamane Zatonięcie",
+      "kr_sha256": "8bee68439e7a14c764ac6285a5674706ea7fec6fbb09e5d21fa0d52542d97b1d",
+      "en_sha256": "ae26e6cbf945dda889d8988bc54d9b81aac90c82896ff28bb66ac03dd4d6636a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR509].desc": {
+      "pl": "Zadaje +30% obrażeń częściom zniszczonym lub w stanie Oszołomienia",
+      "kr_sha256": "d14ece0fef5049b1d22f9dcf635461c1514447205b54c74e63fd1b62dff894f6",
+      "en_sha256": "d4ebe68b1f433ecd4dc94a98615b08e7c9c3aa578069f2cab88ccdfc07bf29da",
+      "origin": "ai"
+    },
+    "dataList[id=MRR509].name": {
+      "pl": "Zniszczony Słaby Punkt",
+      "kr_sha256": "8e47f004adaf439027f06fab5e04764cce3a27c46b700bdce0baf6ebe5e22e8d",
+      "en_sha256": "5ba308c73587367d3c212a214c4674556008087bd2c56752dcb8a6935b625c1f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR510].desc": {
+      "pl": "Na początek pierwszej tury fali wszyscy sojusznicy zyskują 5 Mocy Oddechu i 5 Licznika Oddechu. Jeśli wywołano Rezonans Pychy, na początku walki wszyscy sojusznicy dodatkowo zyskują 3 Mocy Oddechu i 3 Licznika Oddechu",
+      "kr_sha256": "669c687d39cdc277a0d5b5b5a71570076ad8c4e3014d5ad5581a0289d37476e9",
+      "en_sha256": "ea4f39c12d9b649b499b051c0d8d6e942900de98dd66bb94f8cbf737471efa6a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR510].name": {
+      "pl": "Nebulizator",
+      "kr_sha256": "c2f5748844736ca7309dc50acad0c315e569dbd04d85b2f72bf5f009789d7d6e",
+      "en_sha256": "0d9f1418e74983cf806ef8793389e3f236962c540ad6cf866a6160bf13d28b32",
+      "origin": "ai"
+    },
+    "dataList[id=MRR511].desc": {
+      "pl": "Sojusznik rozmieszczony jako nr 1 zyskuje Minimalną i Maksymalną Szybkość +1. Ta jednostka traci 1 Umiejętność 1, a zyskuje 1 Umiejętność 3",
+      "kr_sha256": "78768fc12cc8cd06738f5c757ca2bb7f7c134d38b45cc0fa299b00e245cf1b52",
+      "en_sha256": "2cd675fe597bc81cc76babaf931a0827d1626a69d23829753882f07c3cba0d2e",
+      "origin": "ai"
+    },
+    "dataList[id=MRR511].name": {
+      "pl": "Samotny Strzelec",
+      "kr_sha256": "a55c994e207da3c42665ff40dfa278f4be5867f33c50018c0a7e36425f5dc053",
+      "en_sha256": "ba093c8eb12180683e06fab953a3e457d65c23925bcfbd80f2da99fc1df87573",
+      "origin": "ai"
+    },
+    "dataList[id=MRR512].desc": {
+      "pl": "Od rozmieszczonego jako nr 7 wzwyż: na początek tury, w której wchodzi z rezerwy, odzyskuje 30 Poczytalności, zyskuje 1 Wzrost Mocy Ataku na czas tej walki i +2 zasobu E.G.O atrybutu swojej podstawowej Umiejętności ataku",
+      "kr_sha256": "b473ae736c4fa8bc72b2f3dfe677ffa16b87e47ca0e44c10befe418524dc12bb",
+      "en_sha256": "35427e206e069346f0dc7743c1f15696b4ebc0204667c817de4850ca9facc6bf",
+      "origin": "ai"
+    },
+    "dataList[id=MRR512].name": {
+      "pl": "Trwały Duch Walki",
+      "kr_sha256": "4d76c754588b05cb9556bfa52f043ba6b495607073148b7ad5c0b0825ff7d55a",
+      "en_sha256": "b3ddb70c4822919513a88327538fc5c3cf1ac539368cb093d62d0960e8c6cd71",
+      "origin": "ai"
+    },
+    "dataList[id=MRR513].desc": {
+      "pl": "Po zakończeniu Umiejętności ataku lub Kontrataku, jeśli wróg ginie, zyskuje +2 zasobu E.G.O atrybutu użytej Umiejętności (raz na Umiejętność, łącznie z Umiejętnościami E.G.O)",
+      "kr_sha256": "26011a3543283180d2772726d3adc312e65981af5b888f53055ffd6a9f9d69fe",
+      "en_sha256": "03c94afc4d19351e6c9fb33a9c911f4212e4d52aa40a1a8629888031d5d30089",
+      "origin": "ai"
+    },
+    "dataList[id=MRR513].name": {
+      "pl": "Żniwa Zasobów",
+      "kr_sha256": "95a867aba4f23fbeedcb3bc61733e5bd2b48a2fe42c69b848ce1140274206669",
+      "en_sha256": "de7bf02797ff0a7f8b07ac7dc6e1d67c82d345ffc5afe8b4032f156c5f12c1c8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR514].desc": {
+      "pl": "Gdy wzmocnienia wprowadzą nowych wrogów, na początku ich walki nakłada na nich 5 Krwawienia i 3 Licznika Krwawienia. Jeśli wśród sojuszników jest <Krwiożerca>, po spełnieniu powyższego warunku wywołuje Krwawienie wszystkich wrogów i maleje Licznik Krwawienia wszystkich wrogów o 1",
+      "kr_sha256": "7e1135f333bae3adca7c45deec0199e84bdebf4e8f355253c07a7dfbc95c39e9",
+      "en_sha256": "036fc89a97651d524f03d32fefbe6cd29d1d57327f6515dc319c4d774607aca3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR515].desc": {
+      "pl": "Wszyscy sojusznicy otrzymują -50% obrażeń",
+      "kr_sha256": "7e3e5d58cc77f1070d39bfd694ee36efb4846cf43e87eadbdf53258d797d846c",
+      "en_sha256": "6a5c717aa54f0f773dab8d37fc37f07e81534b4c81e6a372f6deba05137f9e91",
+      "origin": "ai"
+    },
+    "dataList[id=MRR515].name": {
+      "pl": "Zacięta Obrona",
+      "kr_sha256": "1431add1d9cd029b61fc17cbe3141d90f1d340438999e17178aeead566dd4e11",
+      "en_sha256": "50d57e326acb4e1a30d9764eba1f5086a415aedf9cded279923f91285eadc5f4",
+      "origin": "ai"
+    },
+    "dataList[id=MRR516].desc": {
+      "pl": "Wszyscy sojusznicy zadają +30% obrażeń",
+      "kr_sha256": "fe4849ad7b2af75f93d02df869746b3031580ef99f46806d60836e8b6f0952ee",
+      "en_sha256": "bb2b29b215e2188cc79c436883dbb2147eadbc94093e7842fdf935eb529eedd7",
+      "origin": "ai"
+    },
+    "dataList[id=MRR516].name": {
+      "pl": "Życie albo Śmierć",
+      "kr_sha256": "39212f5f382b7462210ba4a3a833d57dd99b98451e5a1ebc08402ff73a60cb11",
+      "en_sha256": "45767674e7ed8d4534a444adaa65c0c6bba991da2c76194afb9121560fec818d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR517].desc": {
+      "pl": "Gdy sojusznik zostanie trafiony Umiejętnością, w następnej turze zyskuje 2 Wzrosty Poziomu Ataku (maks. 6)",
+      "kr_sha256": "4a0e2c17b65e68bea6c0e37bd2556aae8c3e8430e6672e5c44db443bf90c81ea",
+      "en_sha256": "6b3eb1eac839d42f38b91a2e493817f179af4288bc8baf4516c6b02a51470490",
+      "origin": "ai"
+    },
+    "dataList[id=MRR517].name": {
+      "pl": "Wściekły Kontratak",
+      "kr_sha256": "48ea53c8232b9788247fd3ba970b7b1c6b4f4d46a3ba645357feae37a7da3912",
+      "en_sha256": "c3ea5bc7c7c9ab7b7ba609c7618a2d03cabd3edd041711cde280b65a7c817aae",
+      "origin": "ai"
+    },
+    "dataList[id=MRR518].desc": {
+      "pl": "Na początku walki 3 sojuszników rozmieszczonych najwcześniej zyskuje 10 Mocy Oddechu",
+      "kr_sha256": "9d3be6e5e853d5305dc7dd6343b67093e47aceed2b3cccf0fc0068445b1ab25e",
+      "en_sha256": "72351dc3946ee0afc12e991c765b1a3192b4f9b453fcd781b15ccb8feca10bd6",
+      "origin": "ai"
+    },
+    "dataList[id=MRR518].name": {
+      "pl": "Wisiorek Nostalgii",
+      "kr_sha256": "f7635b70c70e77fff2100a2c3af38e197240cc37ad852bcfb9c09ea8e1f27909",
+      "en_sha256": "53c074b68b6a066d0782f7e29ae2646a1d52a24a8e14a26c2dc96313d74bfd44",
+      "origin": "ai"
+    },
+    "dataList[id=MRR519].desc": {
+      "pl": "(Umiejętności zużywające Pociski zyskują Moc Starcia +2 i zadają +(60/liczba monet)% obrażeń. Przy 0 Pocisków na początek następnej tury zyskuje 2 Pociski (raz na walkę dla każdej Tożsamości)\nOdporność na Posępność ostatecznego bossa 3. odcinka zmienia się na słabość (x1.5)",
+      "kr_sha256": "83143369293a1e1ef83fa6cc55222e79153644e5045da821b78513639812afdc",
+      "en_sha256": "008a95b3eb679e3ad592e938aa2751b8025afb790f61ccd3e9f46a15e9b92c96",
+      "origin": "ai"
+    },
+    "dataList[id=MRR520].desc": {
+      "pl": "Za każdym razem, gdy ginie sojusznik, zadaje wszystkim częściom wszystkich wrogów stałe obrażenia równe 50% Maks. HP zmarłego sojusznika",
+      "kr_sha256": "f2732f189383efc5e9a9c28bf23708387533051e32fca0ae298d7407706fe5bc",
+      "en_sha256": "908598cb87953005b1bae53d232eee66f4d5bb5b8b77b8e81966dc000231a56d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR520].name": {
+      "pl": "Powódź Mrocznych Pocisków",
+      "kr_sha256": "8e19adc22fa43996ceed4536f17a5a08a2850666df536c95e99e26affb227801",
+      "en_sha256": "5ef6e2f62d3f3deb23222f66a774b0f19c51271b6ce211adaf1d6e549c4fbd23",
+      "origin": "ai"
+    },
+    "dataList[id=MRR521].desc": {
+      "pl": "Maks. HP wszystkich sojuszników +25%; usuwa pierwszy Próg Oszołomienia",
+      "kr_sha256": "71f32f2dce26a8a13d9000b31586564c75a9c918124ff178e453d4a02feb2964",
+      "en_sha256": "a630933bf6fb6ec15db72b6536e1e4bb7679a4131d6b6ba603d9e1b94e91994b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR521].name": {
+      "pl": "Manipulacja HP",
+      "kr_sha256": "cbd8851d7f9ddb04061b7e1c98479b8e027218569ce0d9aa15f8c35575a011df",
+      "en_sha256": "3d4ed4a044e8d64cadd35cae86229b0f26c53a6b4448f777b319ffefa5e34a7f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR522].desc": {
+      "pl": "Umiejętności wszystkich sojuszników zyskują Moc Końcową +1",
+      "kr_sha256": "447ce2079938e8a3126bc1ca888d79f9075b8a747d974d8c8429e7df4b5951c8",
+      "en_sha256": "bda68a9961b104391c7f451cea18db450c3a571d1dd6e2e231b90780f3e47ecc",
+      "origin": "ai"
+    },
+    "dataList[id=MRR522].name": {
+      "pl": "Ryzykowny Pojedynek",
+      "kr_sha256": "18d699ffb2f9552a67f343292ec24b1758e58a995531cdf3235173479a09dc97",
+      "en_sha256": "95daf468e293b30f2a0b677d778e49386b87e879a956e8433795be180e4fbe84",
+      "origin": "ai"
+    },
+    "dataList[id=MRR523].desc": {
+      "pl": "Przy trafieniu, jeśli HP wroga zmalało, odzyskuje HP równe 10% zadanych obrażeń. Na koniec tury Licznik Krwawienia wszystkich sojuszników maleje o 3",
+      "kr_sha256": "f615b4a1b959e5811b628da3dc89be4065e7f02153b18784fd580052d25f03b3",
+      "en_sha256": "96445d553910fdbd59f8f430f15e9c0e3117c6a2e6177252ca52717f90b33074",
+      "origin": "ai"
+    },
+    "dataList[id=MRR523].name": {
+      "pl": "Krwawa Biesiada",
+      "kr_sha256": "9213a72b8bcde1900c6291743d5a9ecfb8885876a33e956984be04a288e94ad9",
+      "en_sha256": "da3e82d58734850d6fb6478539cc5057bb4471e03babf613d3353e4df2a8d542",
+      "origin": "ai"
+    },
+    "dataList[id=MRR524].desc": {
+      "pl": "Każdy sojusznik zadaje +1% obrażeń za każde 10 skumulowanej zużytej Krwawej Uczty (maks. 30%)",
+      "kr_sha256": "2fd1b42943c11554e15fc8a4669f450ad0e9b5ad61876bb1f219b15e9dab4263",
+      "en_sha256": "3c5cf4ec2f6d9f2878f2dc1ff9f73db09561eeb018ed43feb6bf4df50cfe56a9",
+      "origin": "ai"
+    },
+    "dataList[id=MRR524].name": {
+      "pl": "Święto Krwi",
+      "kr_sha256": "c87ab9b4700e3c8788d07fdb2ebac4813388512a2b93b560adc6fb9fea666600",
+      "en_sha256": "bf0bce18fc8edd56ccc98c7bcf7ec49b5d33484a4ab30b9333e4d39297415d51",
+      "origin": "ai"
+    },
+    "dataList[id=MRR526].desc": {
+      "pl": "Umiejętności Cięcia zyskują Moc Monet Plus +1 i Moc Monet Minus -1\nOdporność na Cięcie ostatecznego bossa 3. odcinka zmienia się na słabość (x1.5)",
+      "kr_sha256": "a8265fe3126884120d3011e731037a4ef16ed4c344029950c98d411b8d21d090",
+      "en_sha256": "0d5d5e7c410816e8ca5c701490d442607a981b2a487a3b83ba38afc91b183de7",
+      "origin": "ai"
+    },
+    "dataList[id=MRR526].name": {
+      "pl": "Załamane Cięcie",
+      "kr_sha256": "8319941727b295872132056aae54d231511b9ac7b025483d550d867b5021cdde",
+      "en_sha256": "1808539dc21fc09e072bd66f03234308ea4081d11580cdcb54d4e41cfcd3609a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR527].desc": {
+      "pl": "Umiejętności Przebicia zyskują Moc Monet Plus +1 i Moc Monet Minus -1\nOdporność na Przebicie ostatecznego bossa 3. odcinka zmienia się na słabość (x1.5)",
+      "kr_sha256": "af9f236bb38e92cdd1a633099b285c1beb65e65470457488a9bfed65e9d025c4",
+      "en_sha256": "125ecb5aa18eddb05903b40ba4eaa3148eeb56ac8c3655a3d18bda35d2799179",
+      "origin": "ai"
+    },
+    "dataList[id=MRR527].name": {
+      "pl": "Załamane Przebicie",
+      "kr_sha256": "0537b328d2614f18d85106269375531ebd0eb8fbd930849f14982a9d0878375c",
+      "en_sha256": "bc2b1512773934a79829d108edfbb3f659d56403351687ee07959df56691c711",
+      "origin": "ai"
+    },
+    "dataList[id=MRR528].desc": {
+      "pl": "Umiejętności Uderzenia zyskują Moc Monet Plus +1 i Moc Monet Minus -1\nOdporność na Uderzenie ostatecznego bossa 3. odcinka zmienia się na słabość (x1.5)",
+      "kr_sha256": "270a212382e47c059bee7bf8e357e17f30274c20565e97a22c7f06f72e4703d0",
+      "en_sha256": "5418fdbf48a2962910d8154fd4bd53898373e86517ff0e9ed341da1219eb8188",
+      "origin": "ai"
+    },
+    "dataList[id=MRR528].name": {
+      "pl": "Załamane Uderzenie",
+      "kr_sha256": "aed97aad45a89357e64362eb459e447d2d05398c160b7d06670ec7bff39c538c",
+      "en_sha256": "3f4c55845fceb4e79258589814e85ba34c8607ce1299142b888e83f52d641280",
+      "origin": "ai"
+    },
+    "dataList[id=MRR529].desc": {
+      "pl": "Poziom wrogów +1",
+      "kr_sha256": "0a0b986ca2d0fed1788063ec96e5d19b779a712be903ace7c746c6590a7eb641",
+      "en_sha256": "00910a791976e6f139f068b081e31c6895a349078ceb556a8758d4d02489b935",
+      "origin": "ai"
+    },
+    "dataList[id=MRR529].name": {
+      "pl": "Załamanie Rozwoju I",
+      "kr_sha256": "3277c00d0f0b7686cde6610995e4782101e03d72e747d622ed1cdc58748dc3dd",
+      "en_sha256": "f7b83498db4ec063d4f10df349848391f0351c4cf3b6803f7e8580fd99c65a0e",
+      "origin": "ai"
+    },
+    "dataList[id=MRR530].desc": {
+      "pl": "Poziom wrogów +2",
+      "kr_sha256": "d0013dd57218b01822b7779370f5d655c8947e5aa9063cc963e9967e9fd8eda8",
+      "en_sha256": "6f8d54f0cb99694c8cf7e67ca25f3d6d439735c7a17ec2a02b8ce9d89bd6bdc9",
+      "origin": "ai"
+    },
+    "dataList[id=MRR530].name": {
+      "pl": "Załamanie Rozwoju II",
+      "kr_sha256": "b3e3ed5cde1a2527527053dcb1bf38e09fa1de3a44587a7451acb4cc97ef2645",
+      "en_sha256": "e0659bf150526d94fd3cc31b0149ae9725b677b04492507f129988e5e1ee333d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR531].desc": {
+      "pl": "Wrogowie wzmocnieni w trakcie walki zyskują 2 Wzrosty Mocy Starcia na początek tury, w której się pojawiają",
+      "kr_sha256": "79a721f098f0e74dde91e3f09d4ddbdbab5504da685dc5082c67fb0fc324be96",
+      "en_sha256": "bac776633af05f0656a88eb29606ea48935da7668080caa04126696cecd947a8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR532].desc": {
+      "pl": "Po zakończeniu ataku Umiejętnością Przebudzenia E.G.O zużywa łącznie 2 zasoby E.G.O — po 1 z atrybutów posiadających więcej niż 1, w kolejności od najliczniejszego",
+      "kr_sha256": "e405041e4dd9147a23223c46d2bd65eb65ce5aeb43260bc6e0f9b637a68af4a9",
+      "en_sha256": "f74b047e42a633783c74e98c6f25219b77130bf5130e731e20746fccfb8fcd5c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR532].name": {
+      "pl": "Wyparowanie Zasobów",
+      "kr_sha256": "416c8a7a350352190263cd6bce0ccd1b0005cdf4abf495a31183fe474100d3ed",
+      "en_sha256": "a06ebc22ed4b6aff74ab8f7aa768c75a05ea4fd6ace65f0265ed9ff6e0cadddd",
+      "origin": "ai"
+    },
+    "dataList[id=MRR533].desc": {
+      "pl": "+1 do Mocy i Licznika Krwawienia nadawanych przez wrogów celom posiadającym Krwawienie za pomocą Umiejętności i efektów monet",
+      "kr_sha256": "ec52daadab7788365bce8b5d5f8f3354cc8c5a1dae73e803f71caf70d7a21694",
+      "en_sha256": "a7150eb6f48084d72244edef28a5c492e19c248543a932e1d5e627a948b037cc",
+      "origin": "ai"
+    },
+    "dataList[id=MRR533].name": {
+      "pl": "Rozkwitła Krew",
+      "kr_sha256": "9cbd5493ffbcc03f70e63a28e064ba2c13483d003344d249bf6a929bae1a296b",
+      "en_sha256": "6e6905c45a0c17a5e40df243abf3d4d75f00c171940150d16ff72832d12fc647",
+      "origin": "ai"
+    },
+    "dataList[id=MRR534].desc": {
+      "pl": "Wszyscy wrogowie otrzymują -20% obrażeń",
+      "kr_sha256": "60c8607ce2c9c71de37be13a742d1a589db0655ec32045e7cb7da8b898ca8f64",
+      "en_sha256": "3d2672f822ed00c45bee95c1e1a23f7b8239e061be3c65b7ec1d972c161e4c28",
+      "origin": "ai"
+    },
+    "dataList[id=MRR534].name": {
+      "pl": "Zacięta Obrona",
+      "kr_sha256": "1431add1d9cd029b61fc17cbe3141d90f1d340438999e17178aeead566dd4e11",
+      "en_sha256": "50d57e326acb4e1a30d9764eba1f5086a415aedf9cded279923f91285eadc5f4",
+      "origin": "ai"
+    },
+    "dataList[id=MRR535].desc": {
+      "pl": "Maks. HP wszystkich sojuszników -50%",
+      "kr_sha256": "071b9069e32603d6cb6f9994312948a77a456a0f511efd1c5e56eef3c5e2c428",
+      "en_sha256": "cd2e8af4bb1f8e779ef13e1b64650938db6c5df8c4eae4a6200ae14244054c7a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR536].desc": {
+      "pl": "Gdy wróg zostanie trafiony Umiejętnością, w następnej turze zyskuje losowo 1 z 2: 1 Wzrost Poziomu Ataku lub 1 Wzrost Poziomu Obrony (maks. 4 razy na wroga)",
+      "kr_sha256": "163321144ba4d89660554784fdf5e3a18926705935f55086cc812b3825f5be63",
+      "en_sha256": "ef189b109b0968c94dd4cf49584f8991904173db8213ee25fbdd26eab81bdcb2",
+      "origin": "ai"
+    },
+    "dataList[id=MRR536].name": {
+      "pl": "Załamana Wściekłość",
+      "kr_sha256": "42ab081da70a86c12f27664bb4fb63d6f046a37778833ba29aab6fb19524b784",
+      "en_sha256": "c4597bb1152c399109ac187a2891c8d4d6ecbd667053641527dff14ff1d559aa",
+      "origin": "ai"
+    },
+    "dataList[id=MRR537].desc": {
+      "pl": "Maks. HP wrogów +20%",
+      "kr_sha256": "8b5aa8070a45c7f9486cc06c7d17748b7cbedc432833d732a935207b31177ba4",
+      "en_sha256": "f60e1ebce4c98d847181e4e4cbc7b72601b9ab768edce7e988803c06fa478bd5",
+      "origin": "ai"
+    },
+    "dataList[id=MRR537].name": {
+      "pl": "Załamanie HP II",
+      "kr_sha256": "1a8154af18a19b978405bbf593c70d5adbe1f259bd373c40f4dbcd5e49307541",
+      "en_sha256": "688ff88b593eb86dfb7055e45786e8ec4567967129304306b4e189b61d83c0a8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR538].desc": {
+      "pl": "Umiejętności wrogów zyskują Moc Końcową +1",
+      "kr_sha256": "63c0b3f8e94ed6252ce19b8d8821ccae3065112a9ba52fc264826d6840b6a351",
+      "en_sha256": "89715d1ec420f8aca011fee6cd358ede3f005a8250818cccd7bc02f62217d0d9",
+      "origin": "ai"
+    },
+    "dataList[id=MRR539].desc": {
+      "pl": "Odzyskiwanie HP z Umiejętności i efektów monet wrogów rośnie o 20%",
+      "kr_sha256": "1c23b80e68dbfd6c6614edf1e4cc4ec9df6cecb7c637107b0918dc656bd4035b",
+      "en_sha256": "b338615f5e6d66d8fe322c643fdd354deabaf26a2c70c6f6019d8a051292127b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR539].name": {
+      "pl": "Krwawa Biesiada",
+      "kr_sha256": "9213a72b8bcde1900c6291743d5a9ecfb8885876a33e956984be04a288e94ad9",
+      "en_sha256": "da3e82d58734850d6fb6478539cc5057bb4471e03babf613d3353e4df2a8d542",
+      "origin": "ai"
+    },
+    "dataList[id=MRR540].desc": {
+      "pl": "Umiejętności wrogów zużywające Krwawą Ucztę zyskują Moc Końcową +1 i zadają +10% obrażeń",
+      "kr_sha256": "bb9adb34986dddc63e736082f471870edf754772a190c2c05f642e874c3ea062",
+      "en_sha256": "d09277504c0726c1cfedae4531c6fd027d726b5cdd251fe383bd2158f504a63b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR541].desc": {
+      "pl": "Gdy głównym celem wszystkich wrogów jest sojusznik z najniższą Mocą Krwawienia, przy ataku zyskuje Moc Końcową Umiejętności +1",
+      "kr_sha256": "1e1ed2857b34d9a67375e5bdce14bac05fa1c8bf4b4f40b1ebb21ad52c14e07b",
+      "en_sha256": "2d4ba340bcd40e9904cc6c2dd405e9d66cbcd1e3212e5c547f99cef5b53e01f0",
+      "origin": "ai"
+    },
+    "dataList[id=MRR542].desc": {
+      "pl": "Maks. HP wrogów +10%",
+      "kr_sha256": "6a2aad98fbf3fe0a5cc8cbf6e8938a61123129966ba01e2e7d8769f5691a4691",
+      "en_sha256": "d8f165221f93a63e888ae5614e74e3065e2a59f71ef209b2b41844563b698b2c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR542].name": {
+      "pl": "Załamanie HP",
+      "kr_sha256": "aaed43c64e26ffc0e921f2d91c5d785ce6f8ea96ab1e9de461b8aadec9d15543",
+      "en_sha256": "24ad4d6585149dff885c06610a9cbe339e893b35c8be7264249c525dd6c45447",
+      "origin": "ai"
+    },
+    "dataList[id=MRR543].desc": {
+      "pl": "Po śmierci zyskuje zasoby E.G.O zgodne z atrybutem posiadanych podstawowych Umiejętności ataku, w ilości równej ich randze",
+      "kr_sha256": "d1ced9576248919a0fcc92b8f91de04fd322f5f346cf91f4fc4ec574adc45c2c",
+      "en_sha256": "fc4401be0151f47dcf6c54e4ee82f3e3df0dc37dc2cf56c53820fa04375e2747",
+      "origin": "ai"
+    },
+    "dataList[id=MRR543].name": {
+      "pl": "Trwała Wola",
+      "kr_sha256": "5e3f3b905290de931ccc4a06aaf61665f163112a9ca02aaa964d6e226edb0a20",
+      "en_sha256": "0b4c4bf2e6e650ea3b2319d8cc89a058830692b6e4493b21495e2f2c803b3057",
+      "origin": "ai"
+    },
+    "dataList[id=MRR544].desc": {
+      "pl": "Na początek tury Moc Końcowa Umiejętności wszystkich sojuszników +1~3",
+      "kr_sha256": "ad763491b5f693984320fb1459880369f6f7b1a0591956016d5dedb2e21c2a2d",
+      "en_sha256": "51e24a098eb8e8f56b302da652c571a2a6afdd58175856a47dc30c78440a3409",
+      "origin": "ai"
+    },
+    "dataList[id=MRR544].name": {
+      "pl": "Ruletka Mocy",
+      "kr_sha256": "f5ab5500f0a85dcdac92944ac43737a3491caf3d90f1c4b3be43f37cb66f2470",
+      "en_sha256": "816d0445d5e2cdff809f5008a6f7bd8c52df0fa0e5f069574effdeda67d51950",
+      "origin": "ai"
+    },
+    "dataList[id=MRR545].desc": {
+      "pl": "Wszyscy sojusznicy zadają +20% obrażeń",
+      "kr_sha256": "4679fb5a6ad6ce718042131e0892dd4094515d0453f06cb009fd9c92671725e7",
+      "en_sha256": "226f8b43003130777d4df52ae25e00b151b038cd3aae65e591107655777f36ce",
+      "origin": "ai"
+    },
+    "dataList[id=MRR545].name": {
+      "pl": "Szklane Działo",
+      "kr_sha256": "0d9aa965d02ecb8df35677686fce6cb9ee87ad0e7aff1bbe87abf7f2c1c6146e",
+      "en_sha256": "1f3a13c35cfc4dd9ef2499cc141984981ffec4a7169bad438f9b07654331df4c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR546].desc": {
+      "pl": "Wszyscy sojusznicy zadają +10% obrażeń\nOdporności Cięcia, Przebicia i Uderzenia ostatecznego bossa 3. odcinka zmieniają się na słabość (x1.3)",
+      "kr_sha256": "752d522ca6c01a21d120552db2a84222a94f3cb88e14d889d6a6d10855724157",
+      "en_sha256": "fa23433e2b391e091d3a53f3156f3bd5e3cfbe138f49d3bc97dff8998857d64f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR546].name": {
+      "pl": "Wysokie Ryzyko",
+      "kr_sha256": "73975843ebff99f949eb6c8e0aee52cc585aec6c64ae1b53fb1bb9ae1d4e8aa3",
+      "en_sha256": "69f0c01e76de6e647313d2b0189b893733be2a762b05db8c25cc2a46136f7e9a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR547].desc": {
+      "pl": "Na początek tury Moc Końcowa Umiejętności wrogów +1~3",
+      "kr_sha256": "3f9674e8ac3901f086fba20fa42eb4169efc1a18c3e2c8a3c560c3b15e1598ac",
+      "en_sha256": "cb30c9841b034e6fab1f49918861d0c54d52300cb5e802f7cfd813e954ac88b5",
+      "origin": "ai"
+    },
+    "dataList[id=MRR547].name": {
+      "pl": "Ruletka Mocy",
+      "kr_sha256": "f5ab5500f0a85dcdac92944ac43737a3491caf3d90f1c4b3be43f37cb66f2470",
+      "en_sha256": "816d0445d5e2cdff809f5008a6f7bd8c52df0fa0e5f069574effdeda67d51950",
+      "origin": "ai"
+    },
+    "dataList[id=MRR548].desc": {
+      "pl": "Moc Starcia wrogów +2",
+      "kr_sha256": "5b0252ece4121604692ce8f7b42de27450a2e499e91e29770b5ea409e89a44c5",
+      "en_sha256": "aba27774feeb891b350f9714009315389fa6e096b15e8f8b42c1ccb0921c6730",
+      "origin": "ai"
+    },
+    "dataList[id=MRR548].name": {
+      "pl": "Ryzykowny Pojedynek",
+      "kr_sha256": "18d699ffb2f9552a67f343292ec24b1758e58a995531cdf3235173479a09dc97",
+      "en_sha256": "95daf468e293b30f2a0b677d778e49386b87e879a956e8433795be180e4fbe84",
+      "origin": "ai"
+    },
+    "dataList[id=MRR549].desc": {
+      "pl": "Maks. HP wszystkich sojuszników -25%",
+      "kr_sha256": "b540c3fb705217459ed4c66eacf42654a41ea95334944c540f62f33a4a0f7972",
+      "en_sha256": "611d988aac49ae01e2feef308f9fb0378203591621ba99aa0d9c85cd601ea3c1",
+      "origin": "ai"
+    },
+    "dataList[id=MRR549].name": {
+      "pl": "Życie albo Śmierć",
+      "kr_sha256": "39212f5f382b7462210ba4a3a833d57dd99b98451e5a1ebc08402ff73a60cb11",
+      "en_sha256": "45767674e7ed8d4534a444adaa65c0c6bba991da2c76194afb9121560fec818d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR550].desc": {
+      "pl": "Moc Monet Plus wrogów +1",
+      "kr_sha256": "c92dafe101f78f09ef287bb34a1d628c62fc42711e2948e777c52fcbfcd72188",
+      "en_sha256": "2664ed23898ae2bba48d65d1c13b3d39a722a731a1eece7ea88c0b912256b66b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR550].name": {
+      "pl": "Umiarkowane Ryzyko",
+      "kr_sha256": "cac694f0979d3ea865927cb706823c6ba07275454b259250cfecc97754ce1f02",
+      "en_sha256": "505dbcb83ff14eb635bf93ba9e97fba689dcc0b939cfc0a863b09bad4fc9c349",
+      "origin": "ai"
+    },
+    "dataList[id=MRR551].desc": {
+      "pl": "Na początek tury nakłada na wrogów o pełnym HP Moc Krwawienia 5 i +3 Licznika Krwawienia (raz na walkę dla każdego Parta każdego wroga)",
+      "kr_sha256": "f177dbab458b0b96493d481fa5ddfccd7de11bd098a6b0d01ac45e1a4f68763b",
+      "en_sha256": "4b5a22b62d95acfc5d8a61becc3ae5802ee1f32e6fc905c451a8b22959311208",
+      "origin": "ai"
+    },
+    "dataList[id=MRR551].name": {
+      "pl": "Załamane Krwawienie",
+      "kr_sha256": "d96da11bcc0471e1f1a9f89fda514df99a6b9715aa47e677030c92f27a7afeaa",
+      "en_sha256": "1daec1a30df81c583a2cad8322575fed80b553c583489e37a4e349fb71db4a7c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR552].desc": {
+      "pl": "Za każdym razem, gdy ginie wróg, wróg z najniższym obecnym HP zyskuje 2 Wzrosty Mocy Starcia w następnej turze",
+      "kr_sha256": "30fc877c49454c5b8092a7d9070bde9f8d5a09797261753006c3c890d4de1318",
+      "en_sha256": "5f4c0a3e5b896d8752115d25c8dd50f0df1a25d37159780a7eb5e6f562b327ca",
+      "origin": "ai"
+    },
+    "dataList[id=MRR553].desc": {
+      "pl": "Umiejętności E.G.O zadają +30% obrażeń",
+      "kr_sha256": "1107d91ea45db4b0c45704c9172fa10712cda9ec13fb4f63718d6e7bad20fd50",
+      "en_sha256": "0982066b8247c3632f64635e22a12f657f4480d24dc8cf8f8690eeda54926782",
+      "origin": "ai"
+    },
+    "dataList[id=MRR553].name": {
+      "pl": "Pojedynczy Oddech",
+      "kr_sha256": "a7029041e404be91775534b0fbb47084bfc5aaeae6c45172c23989f97f31e7d8",
+      "en_sha256": "9c5c0e21ed46d502897ffcdeb626351338a282bdc01b1c99a9537e3085ba3d1c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR554].desc": {
+      "pl": "Wszyscy sojusznicy zadają +15% obrażeń",
+      "kr_sha256": "d4630ba43a86b2fe82f55ec0d62c07410990af2789384501c645fa0cff8b3bd9",
+      "en_sha256": "796eac10888cf6ff53fe8a995eb15cc208523ce081ac9472826c41d949d86c2e",
+      "origin": "ai"
+    },
+    "dataList[id=MRR555].desc": {
+      "pl": "Moc Starcia wrogów +1",
+      "kr_sha256": "c73a2684d5fd5830a23d8898af57bf97c1a88248721cedd0b0b72e9ce6c64165",
+      "en_sha256": "938b6df39847d7a8ff160312601ca9cb052be7d17d8b4349f52e9db89986ca0b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR555].name": {
+      "pl": "Załamanie Mocy Starcia",
+      "kr_sha256": "936b6b3f60e0a0b895c13c6eeba74c7865946a74560ab414671cbbd905b3cb0e",
+      "en_sha256": "c1497f64f6aaf09c61c9f8e12532812c3ce64a0ed33a4856f2aedff629e374a9",
+      "origin": "ai"
+    },
+    "dataList[id=MRR556].desc": {
+      "pl": "Wszyscy sojusznicy otrzymują +30% obrażeń",
+      "kr_sha256": "7ae6a69754cac4263bc63e13d58515169acc5c500a0bfad65d83dc4a457f4b5c",
+      "en_sha256": "e233692e2f3f1aafa29baaf26fc4973554713ba286b839d3177b51cff32887cd",
+      "origin": "ai"
+    },
+    "dataList[id=MRR556].name": {
+      "pl": "Szklane Działo",
+      "kr_sha256": "0d9aa965d02ecb8df35677686fce6cb9ee87ad0e7aff1bbe87abf7f2c1c6146e",
+      "en_sha256": "1f3a13c35cfc4dd9ef2499cc141984981ffec4a7169bad438f9b07654331df4c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR557].desc": {
+      "pl": "Obrażenia krytyczne +(10 + suma posiadanej Mocy Oddechu i Licznika Oddechu)% (maks. 50%)",
+      "kr_sha256": "c4bb3f9494a6a63be8ec26f9b438231bdf6a6102d64cef0703baa51215d28597",
+      "en_sha256": "33e16d1243df89b465dd7122861642c4a10362860e5e328c1f94c75dd099eedb",
+      "origin": "ai"
+    },
+    "dataList[id=MRR557].name": {
+      "pl": "Załamany Oddech",
+      "kr_sha256": "3a16b04bd4be160b58714faa5bc0b5e81e006e47833fc508f8cd3d3238697c15",
+      "en_sha256": "79c0348c5bd3d6d4e53199fcbca7b886f45546ed658bbdfb192a81be626233eb",
+      "origin": "ai"
+    },
+    "dataList[id=MRR558].desc": {
+      "pl": "Umiejętności atrybutu Gniewu zadają +30% obrażeń\nOdporność na Gniew ostatecznego bossa 3. odcinka zmienia się na słabość (x1.25)",
+      "kr_sha256": "20590de8226134afe7e58ee4664a73e7c52c725d658a6b6da45f13962e10fcd8",
+      "en_sha256": "c918c155a95e06ea5e2cc211acd706120b6a80ae391cac7e78adcbb5cb388bef",
+      "origin": "ai"
+    },
+    "dataList[id=MRR558].name": {
+      "pl": "Załamany Gniew",
+      "kr_sha256": "b27aac91559a375b351b6920b0bfcf1c2e13b57acea5135b9c39ae29759d9e36",
+      "en_sha256": "2dc274eca231d90ab8d8f0c8ee642138c45b9cd9ccd0d1249de1ea8c3c749b6d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR559].desc": {
+      "pl": "Umiejętności atrybutu Żądzy zadają +30% obrażeń\nOdporność na Żądzę ostatecznego bossa 3. odcinka zmienia się na słabość (x1.25)",
+      "kr_sha256": "8224a2ee7a70dc243dcb85dfbf82c62c8257790e36ef3c617b4e30f185ac5617",
+      "en_sha256": "8c1157c4bf5a9642f0966d27993c6296bdb0995366bd28dfefc689dd71370233",
+      "origin": "ai"
+    },
+    "dataList[id=MRR559].name": {
+      "pl": "Załamana Żądza",
+      "kr_sha256": "48308dbf6b8c2665b6d97d5fb5adf80756abd842b0866088446f4d2b35b2fb58",
+      "en_sha256": "90f70de3b68f51d2e38c4fae82e2b8ce4f8a7354e9f4b458a4bb5f10027553ec",
+      "origin": "ai"
+    },
+    "dataList[id=MRR560].desc": {
+      "pl": "Umiejętności atrybutu Lenistwa zadają +30% obrażeń\nOdporność na Lenistwo ostatecznego bossa 3. odcinka zmienia się na słabość (x1.25)",
+      "kr_sha256": "bff8ed5f1dc9aa0d0527c8acc1450d63d5db2b95675ce07f84b19ca53811dced",
+      "en_sha256": "6de238fbbd343144f3bf4a7fb226e16309b7a3e5b8db5c7dff152d51da35d820",
+      "origin": "ai"
+    },
+    "dataList[id=MRR560].name": {
+      "pl": "Załamane Lenistwo",
+      "kr_sha256": "3b8dbc41926b0de650f1532b5e7a747c428c81bfe0c36b4e7d78a6a7a9941562",
+      "en_sha256": "2acdcbd94b4a5b854c52c76220715bd603aa7745aaf74e94635cedef994b06ef",
+      "origin": "ai"
+    },
+    "dataList[id=MRR561].desc": {
+      "pl": "Umiejętności atrybutu Obżarstwa zadają +30% obrażeń\nOdporność na Obżarstwo ostatecznego bossa 3. odcinka zmienia się na słabość (x1.25)",
+      "kr_sha256": "db9a2d18a15d1387132a9bc68afe37c9f66b896a578815c77582285ea65b5172",
+      "en_sha256": "4875e5caa5eb6eeff002ffca60b987f13815e5d71c231b586e8401222d624b3b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR561].name": {
+      "pl": "Załamane Obżarstwo",
+      "kr_sha256": "ff9d65a79eb24560b76b822c01e30c87944c6b9fb56824d6ca3e94bc5ccd7232",
+      "en_sha256": "b9e6411a8e0b1e754816d232aea1a505c1ede41be8bff16f6e04ad214ccb81a8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR562].desc": {
+      "pl": "Umiejętności atrybutu Posępności zadają +30% obrażeń\nOdporność na Posępność ostatecznego bossa 3. odcinka zmienia się na słabość (x1.25)",
+      "kr_sha256": "5ce68fd08c9d55e911a385b8d3c5e1c168fb5b1ecd02f46f6175362822397221",
+      "en_sha256": "87c8659e34fe48264dceab09e7ea9a9d81a2042779f203f9ebd3f63eb1cdafb8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR562].name": {
+      "pl": "Załamana Posępność",
+      "kr_sha256": "6aa6a32bad4d0ced50a1b8eb2a6de56a84443022e8ddc13e6a83c23fabe22639",
+      "en_sha256": "cf5ef371506ec6e7240b5df738f770164b7ff0420ac398eb40dc26c27329bdab",
+      "origin": "ai"
+    },
+    "dataList[id=MRR563].desc": {
+      "pl": "Umiejętności atrybutu Pychy zadają +30% obrażeń\nOdporność na Pychę ostatecznego bossa 3. odcinka zmienia się na słabość (x1.25)",
+      "kr_sha256": "85135b58a77918a2ce1d9b11f7d178f2337a11205332bfed0039a44657c377b9",
+      "en_sha256": "90c76c0ee5e01b61da1e79198ac801f16cf05bf27abf18d01c1b23dabeffd179",
+      "origin": "ai"
+    },
+    "dataList[id=MRR563].name": {
+      "pl": "Załamana Pycha",
+      "kr_sha256": "a598444c93b11a50f459bc1b0cad0167f7c2e436f47cac59c7108859ae197bd5",
+      "en_sha256": "af9cd9aeba095c5324c3a2439a4bb9c0308d74055ac0a4f1928de404ac18d481",
+      "origin": "ai"
+    },
+    "dataList[id=MRR564].desc": {
+      "pl": "Umiejętności atrybutu Zazdrości zadają +30% obrażeń\nOdporność na Zazdrość ostatecznego bossa 3. odcinka zmienia się na słabość (x1.25)",
+      "kr_sha256": "b8fad66879e90162057807fae6af4dcfff61f56dded96f6e33b17089360188f9",
+      "en_sha256": "7bcdb8fe35c877991aa6c97880665b79b5c2515a77371718ded32251aa0fb385",
+      "origin": "ai"
+    },
+    "dataList[id=MRR564].name": {
+      "pl": "Załamana Zazdrość",
+      "kr_sha256": "17ada02954243fb7d46740709f862721601d5b950402b3ece369a1c2e2d919f5",
+      "en_sha256": "3e4e0c5c4a44883fc11d66c8caf9fab982215772b4a8e8c0958dc585d96276af",
+      "origin": "ai"
+    },
+    "dataList[id=MRR565].desc": {
+      "pl": "Minimalna i maksymalna Szybkość wszystkich sojuszników +2, Maks. HP +25%",
+      "kr_sha256": "ac8682cfd21fcd0517c3545a53aa635c150ded6b3b443da2974d65fd72960eb2",
+      "en_sha256": "cccd4f0f73b4591a5b21a366db731b91668dd49b98bbd5bb6f6274fef7d3e84f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR565].name": {
+      "pl": "Komfort",
+      "kr_sha256": "69c28d1d412eb95f89cb190e38e54a11175c3ed984b2c4825a2899d8fea6ade4",
+      "en_sha256": "74e9e5e4ec1d1a66b24f7166271f2c3cf6d99b75c00c7506d65c38ce064bade3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR566].desc": {
+      "pl": "Moc Starcia wrogów +1, zadają +10% obrażeń",
+      "kr_sha256": "b2e7e675c3511324477e7b67c983b8133c4c90b1496245dae6aec47c324413d2",
+      "en_sha256": "1a098690330ae146a6d3954abe2ba777937ad7ff0824a16d0f8fdaa3bbfd1104",
+      "origin": "ai"
+    },
+    "dataList[id=MRR566].name": {
+      "pl": "Załamanie Agresywności",
+      "kr_sha256": "b031e7b534ad352d97b620dcd54cf68100489b4d45df7917703a89472f8b2e9d",
+      "en_sha256": "bead7c76688f8cf50d8f72b85b7ecc426296d40e2c6b60c6118d3064dc9ef3c8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR567].desc": {
+      "pl": "Moc Monet Plus wrogów +2",
+      "kr_sha256": "6789eb6a19844780c7f6e7e44b04a8234deca285736a668156c5f526691c90c5",
+      "en_sha256": "3e63468976c794ebb9cb3f55a5494e403b40250ef9d70be6d71d66fc069e8086",
+      "origin": "ai"
+    },
+    "dataList[id=MRR567].name": {
+      "pl": "Wysokie Ryzyko",
+      "kr_sha256": "73975843ebff99f949eb6c8e0aee52cc585aec6c64ae1b53fb1bb9ae1d4e8aa3",
+      "en_sha256": "69f0c01e76de6e647313d2b0189b893733be2a762b05db8c25cc2a46136f7e9a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR568].desc": {
+      "pl": "Poziom Obrony wrogów +3",
+      "kr_sha256": "8705360113693b2ec94ad99de90acf4476e3926881877f93b78f6d5403696459",
+      "en_sha256": "b296e3f212a18e6f0c5406e59dc15f6b7f076108cb1a43acdf7ad6700fb1a530",
+      "origin": "ai"
+    },
+    "dataList[id=MRR568].name": {
+      "pl": "Załamanie Obrony",
+      "kr_sha256": "da2c6a6acc6d10368044f1cc08923637d7724d2158fa125e451a22d9668e39ee",
+      "en_sha256": "5dfe853fc4e5ab424658c4bf6c7fa2f8e15d529cc16c252cc3497bb8307a6ed5",
+      "origin": "ai"
+    },
+    "dataList[id=MRR569].desc": {
+      "pl": "Wrogowie zadają +10% obrażeń",
+      "kr_sha256": "1e2e6838af33d20fad03cd58181004379e20428e5ce847fc5552f72a1fed9ec1",
+      "en_sha256": "4ab8356e516ced32a164e339f444ca6e43e11bd10e97cf90c2667647ae1d4cce",
+      "origin": "ai"
+    },
+    "dataList[id=MRR569].name": {
+      "pl": "Załamanie Obrażeń",
+      "kr_sha256": "06db77d01ae0454ca5eebc03d35946aa4a493bf40174be5d851a36562c8bdb82",
+      "en_sha256": "acdf305ff28cdd2cc495bb9965cc17eab2132d0b783a8ba33df9666629458dd3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR5BaseN].name": {
+      "pl": "Aktywne Utrapienia",
+      "kr_sha256": "4f2618d84c8df6be7979e033b3fea9d0aed54c3d9bdd2a72590cbb7c79fdf15a",
+      "en_sha256": "4d57c295ccabbb49c0f4c58df2420337fedc321a283e16bc6dc7040aed8b5ed6",
+      "origin": "ai"
+    },
+    "dataList[id=MRR5BaseP].name": {
+      "pl": "Aktywne Wzmocnienia",
+      "kr_sha256": "46d72ddc74a5ab60b1ccb79772e2bb8c69320dfafa2de880745bb699682601e8",
+      "en_sha256": "3da4ddbea10f3b8ff549201ba003dd41f7965d77870fe051da45f00433cc7677",
+      "origin": "ai"
+    }
+  }
+}

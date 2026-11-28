@@ -1,0 +1,131 @@
+1||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 10 부여. [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 10 [Combustion] and +2 [Combustion] Count
+2||(ulepszenie 1) — nazwa] 등불과 같은 눈|Eyes Bright Like Lamps
+3||(ulepszenie 1) — opis] [CanDuelGuard]\n공격자의 속도가 자신의 속도보다 높으면 속도 차이 2당, 코인 위력 +1 (최대 2)\n- 자신의 속도가 1이면, 대신 코인 위력 +2\n[StartBattle] [LanternHohenheimBigBird] 6 얻음|[CanDuelGuard]\nIf the target's Speed is faster than this unit's, Coin Power +1 for every 2 Speed difference (max 2)\n- At 1 Speed, Coin Power +2 instead\n[StartBattle] Gain 6 [LanternHohenheimBigBird]
+4||(ulepszenie 1) — nazwa] 속사|Rapid Fire
+5||(ulepszenie 1) — opis] 대상의 속도가 자신보다 높으면 속도 차이 2당, 코인 위력 +1 (최대 2)\n- 자신의 속도가 1이면, 대신 코인 위력 +2\n[WhenUse] [LanternHohenheimBigBird] 5 얻음|If the target's Speed is faster than this unit's, Coin Power +1 for every 2 Speed difference (max 2)\n- At 1 Speed, Coin Power +2 instead\n[WhenUse] Gain 5 [LanternHohenheimBigBird]
+6||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여. [Combustion] 횟수 1 증가|[OnSucceedAttack] Inflict 2 [Combustion] and +1 [Combustion] Count
+7||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여. [Sinking] 횟수 1 증가|[OnSucceedAttack] Inflict 3 [Sinking] and +1 [Sinking] Count
+8||(ulepszenie 1) — nazwa] 영거리 주시|Intense Stare: Zero-Range
+9||(ulepszenie 1) — opis] 대상의 속도가 자신보다 높으면 속도 차이 2당, 코인 위력 +1 (최대 2)\n- 자신의 속도가 1이면, 대신 코인 위력 +2\n[WhenUse] [LanternHohenheimBigBird] 4 얻음|If the target's Speed is faster than this unit's, Coin Power +1 for every 2 Speed difference (max 2)\n- At 1 Speed, Coin Power +2 instead\n[WhenUse] Gain 4 [LanternHohenheimBigBird]
+10||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 3 부여|[OnSucceedAttack] Inflict 3 [Combustion]
+11||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Combustion] Count
+12||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여. [Sinking] 횟수 1 증가|[OnSucceedAttack] Inflict 5 [Sinking] and +1 [Sinking] Count
+13||(ulepszenie 1) — nazwa] 등불에 현혹된 것에는 구원을|Salvation for those Enchanted by the Lamp
+14||(ulepszenie 1) — opis] 일방 공격 종료시까지 자신은 체력 피해를 입지 않고, 부정적인 효과가 부여되지 않음\n대상의 속도가 자신보다 높으면 속도 차이 1당, 코인 위력 +1 (최대 6)\n- 자신의 속도가 1이면, 대신 코인 위력 +6\n적에게 [DelusionHohenheimBigBird]이 있으면, 공격 종료 전까지 대상의 관통 내성 +0.5\n[EndSkill] 대상의 [DelusionHohenheimBigBird] 제거|Until the end of the Unopposed Attack, this unit does not take HP damage and does not gain negative effects\nIf the target's Speed is faster than this unit's, Coin Power +1 for every 1 Speed difference (max 6)\n- At 1 Speed, Coin Power +6 instead\nIf target has [DelusionHohenheimBigBird], +0.5 to target's Pierce Resist. until Attack End\n[EndSkill] Remove [DelusionHohenheimBigBird] from target
+15||(ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+16||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnStartCoin] [LanternHohenheimBigBird]을 전부 소모하고, 소모한 수치 1당 피해량 +15% (최대 300%)|[OnStartCoin] Consume all [LanternHohenheimBigBird] Stack and deal +15% damage for every Stack consumed (max 300%)
+17||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Sinking] 8 부여. [Sinking] 횟수 2 증가|[OnSucceedAttack] Inflict 8 [Sinking] and +2 [Sinking] Count
+18||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] [Combustion] 6 부여. [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 6 [Combustion] and +2 [Combustion] Count
+19||(ulepszenie 1) — nazwa] 달구어 꿰뚫기|Heated Puncture
+20||(ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 2)|Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)
+21||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 1 부여|[OnSucceedAttack] Inflict 1 [Combustion]
+22||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Combustion] Count
+23||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Combustion] 2 부여|[OnSucceedAttack] Inflict 2 [Combustion]
+24||(ulepszenie 1) — nazwa] 작열절삭|Scorching Incision
+29||(ulepszenie 1) — nazwa] 흐름을 따라|Following the Flow
+32||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+34||(ulepszenie 1) — nazwa] 길을 열도록 하지|I Shall Open the Path
+35||(ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 3)\n[WhenUse] 정신력이 0 이상이면, 망(望) 하나를 생성함\n- 코인 위력 + 1, 피해량 +30%\n[EndSkill] 망을 생성했으면, 정신력 1만큼 소모|Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 3)\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Coin Power +1 and deal +30% damage\n[EndSkill] If this Skill generated Mang, consume 1 SP
+37||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Combustion] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Combustion] Count
+38||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [SlashTakeDamageUp] 1 부여|[OnSucceedAttack] Inflict 1 [SlashTakeDamageUp]
+40||(ulepszenie 1) — nazwa] 닥치도록|Silence
+41||(ulepszenie 1) — opis] 대상의 [Combustion]과 [Laceration]의 합 6당, 코인 위력 + 1 (최대 4)\n[WhenUse] 정신력이 0 이상이면, 망(望) 두개를 생성함\n- 코인 위력 + 2, 피해량 +60%\n[EndSkill] 망을 생성했으면, 정신력 3만큼 소모|Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 4)\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2 and deal +60% damage\n[EndSkill] If this Skill generated Mang, consume 3 SP
+46||(ulepszenie 1) — nazwa] 내출혈|Internal Bleeding
+47||(ulepszenie 1) — opis] 대상과 자신의 [Laceration]의 합 1당 피해량 + 1% (최대 20%)\n[WhenUse] [Laceration] 3 얻음, 자신의 [Laceration] 횟수 5 증가|Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 20%)\n[WhenUse] Gain 3 [Laceration] and +5 [Laceration] Count
+49||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+51||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+54||(ulepszenie 1) — nazwa] 망혈참|Blinding Bloodcleaver
+58||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+61||(ulepszenie 1) — nazwa] 피에 잠겨 익사하도록|Drown in Blood
+62||(ulepszenie 1) — opis] 대상과 자신의 [Laceration]의 합 1당 피해량 + 1% (최대 30%)\n[WhenUse] [Laceration] 6 얻음, 자신의 [Laceration] 횟수 5 증가\n[WhenUse] 정신력이 0 이상이면, 망(望) 두개를 생성함\n- 코인 위력 + 2, 피해량 +60%\n[EndSkill] 망을 생성했으면, 정신력 5만큼 소모|Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 30%)\n[WhenUse] Gain 6 [Laceration] and +5 [Laceration] Count\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2 and deal +60% damage\n[EndSkill] If this Skill generated Mang, consume 5 SP
+66||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Laceration] Count
+67||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 대상과 자신의 [Laceration]의 합 5당, [BloodBranch] 1 부여 (최대3)|[OnSucceedAttack] Inflict 1 [BloodBranch] for every 5 ([Laceration] on self + [Laceration] on target) (max 3)
+70||(ulepszenie 1) — nazwa] 죽은 혈귀를 위한 장례|Funeral for a Dead Bloodfiend
+71||(ulepszenie 1) — opis] 대상과 자신의 [Laceration]의 합 1당 피해량 + 1% (최대 50%)\n[WhenUse] [Laceration] 10 얻음, 자신의 [Laceration] 횟수 5 증가\n[WhenUse] 정신력이 0 이상이면, 망(望) 세개를 생성함\n- 코인 위력 + 3, 피해량 +90%\n[EndSkill] 망을 생성했으면, 정신력 3만큼 소모|Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 50%)\n[WhenUse] Gain 10 [Laceration] and +5 [Laceration] Count\n[WhenUse] At 0+ SP, generate 3 Mang (望)\n- Coin Power +3 and deal +90% damage\n[EndSkill] If this Skill generated Mang, consume 3 SP
+74||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+75||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상과 자신의 [Laceration]의 합 5당, [BloodBranch] 1 부여 (최대5)|[OnSucceedAttack] Inflict 1 [BloodBranch] for every 5 ([Laceration] on self + [Laceration] on target) (max 5)
+78||(ulepszenie 1) — nazwa] 내려베기|Downward Swing
+79||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 6 이상이면, 피해량 +20%\n[WhenUse] [Breath] 4 얻음. [Breath] 횟수 2 증가|[WhenUse] At 6+ Speed, deal +20% damage\n[WhenUse] Gain 4 [Breath] and +2 [Breath] Count
+80||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Burst] Count
+81||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 8 부여|[OnSucceedAttack] Inflict 8 [Burst]
+83||(ulepszenie 1) — nazwa] 연속 베기|Halberd Combo
+84||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 6 이상이면, 피해량 +30%\n[WhenUse] [Breath] 1 얻음. [Breath] 횟수 3 증가\n[WinDuel] 피해량 +30%|[WhenUse] At 6+ Speed, deal +30% damage\n[WhenUse] Gain 1 [Breath] and +3 [Breath] Count\n[WinDuel] Deal +30% damage
+85||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+86||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst]
+87||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+88||(ulepszenie 1) — nazwa] 참호전 특화 교전창술|Trench-specialized Spear Combat
+89||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 7 이상이면, 피해량 +40%\n[WhenUse] [Breath] 횟수 4 증가\n[WinDuel] [Enhancement] 1 얻음|[WhenUse] At 7+ Speed, deal +40% damage\n[WhenUse] Gain +4 [Breath] Count\n[WinDuel] Gain 1 [Enhancement]
+90||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 6 부여|[OnSucceedAttack] Inflict 6 [Burst]
+92||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+93||(ulepszenie 1) — nazwa] 진진종참|True Decapitation Deathblow
+94||(ulepszenie 1) — opis] 자신에게 [WillAwakenSinclair]가 있으면, 공격 종료 전까지 공격 대상의 참격 내성 +1\n[WhenUse] [Breath] 5당, 기본 위력 +2 (최대 8)\n[WhenUse] 자신의 정신력이 5 이상이면 망을 1개 생성. 기본 위력 +3\n[EndSkill] 이 스킬에서 망을 생성했으면, 정신력 -5|If this unit has [WillAwakenSinclair], +1 to target's Slash Resist. until Attack End\n[WhenUse] Base Power +2 for every 5 [Breath] (max 8)\n[WhenUse] At 5+ SP, generate 1 Mang; Base Power +3\n[EndSkill] If this Skill generated Mang, lose 5 SP
+95||(ulepszenie 1) — moneta 1, efekt 1 — opis] [ExtractCoin]|[ExtractCoin]
+96||(ulepszenie 1) — moneta 1, efekt 2 — opis] ([Burst] + [Burst] 횟수) 1당 피해량 +1% (최대 100%)|Deal +1% damage for every ([Burst] + [Burst] Count) on the target (max 100%)
+97||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 자신의 ([Breath] x 4)만큼 오만 피해를 줌 (최대 80)|[OnSucceedAttack] Deal ([Breath] on self x 4) Pride damage (max 80)
+98||(ulepszenie 1) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] 피해량 +150%|[CriticalOnSucceedAttack] Deal +150% damage
+99||(ulepszenie 1) — nazwa] 취수낭랑|Plastered Sleep, Unrestrained Ripples
+100||(ulepszenie 1) — opis] 자신에게 [WillAwakenSinclair]가 있으면, 공격 종료 전까지 공격 대상의 참격 내성 +1\n속도에 관계없이 공격 대상을 자신으로 변경할 수 있음\n[WhenUse] [Breath] 3당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과 1개당, 기본 위력 +2 (최대 4)\n[WhenUse] 다음 턴에 [Agility] 5 얻음\n[WhenUse] [Breath] 10 얻음. [Breath] 횟수 2 증가\n[WhenUse] 자신의 정신력이 10 이상이면 망을 2개 생성. 기본 위력 +6\n[EndSkill] 이 스킬에서 망을 생성했으면, 정신력 -10|If this unit has [WillAwakenSinclair], +1 to target's Slash Resist. until Attack End\nCan draw any attack to this unit regardless of Speed\n[WhenUse] Base Power +1 for every 3 [Breath] (max 2)\n[WhenUse] Base Power +2 for every type of negative effect on target (max 4)\n[WhenUse] Gain 5 [Agility] next turn\n[WhenUse] Gain 10 [Breath] and +2 [Breath] Count\n[WhenUse] At 10+ SP, generate 2 Mang; Base Power +6\n[EndSkill] If this Skill generated Mang, lose 10 SP
+102||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 7 부여. [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 7 [Laceration] and +2 [Laceration] Count
+103||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable] next turn
+104||(ulepszenie 1) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] 피해량 +400%|[CriticalOnSucceedAttack] Deal +400% damage
+105||(ulepszenie 1) — nazwa] 연기 거두기|Abate the Smoke
+106||(ulepszenie 1) — opis] [CantDuel]\n최대 체력이 가장 낮은 적을 우선 지정함\n이 스킬은 수비 스킬을 발동시키지 않음\n[BeforeAttack] 적들의 슬롯 수 합만큼 공격 가중치 증가\n[WhenUse] 자신의 속도가 4 이상이면, 피해량 +50%|[CantDuel]\nTargets the enemy with the lowest max HP\nThis Skill does not trigger the target's Defense Skill\n[BeforeAttack] Gain +(total number of all enemies' Slots) Atk Weight\n[WhenUse] At 4+ Speed, deal +50% damage
+107||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 이 코인 최종 피해량의 40%만큼 참격 피해|[OnSucceedAttackHead] Deal (40% of this Coin's final damage) Slash damage
+108||(ulepszenie 1) — nazwa] 베기|Sever
+109||(ulepszenie 1) — opis] 대상 변경 불가능\n자신의 [CutbondRyoshu] 10당, 최종 위력 +1 (최대 3)\n대상의 [Laceration] 6당 최종 위력 +1 (최대 3)|Cannot change target\nFinal Power +1 for every 10 [CutbondRyoshu] on self (max 3)\nFinal Power +1 for every 6 [Laceration] on target (max 3)
+110||(ulepszenie 1) — tekst klimatyczny] ‘아라야는 나와 다른 곳에서 살아야 한다.’|'I cannot let Araya live a life like my own. She must lead a new life away from this place, away from me.'
+112||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 1 부여, [Laceration] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration] and +2 [Laceration] Count
+114||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count
+115||(ulepszenie 1) — nazwa] 칠하기|Paint
+117||(ulepszenie 1) — tekst klimatyczny] ‘거미집을 탈출한다.’\n\n‘아라야가 사루처럼 되기 전에.’|'We will escape the House of Spiders...'\n\n'Before Araya meets the same fate as Saru.'
+119||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count
+121||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+122||(ulepszenie 1) — nazwa] 흩뿌리기|Splatter
+123||(ulepszenie 1) — opis] 대상 변경 불가능\n이 스킬과 합을 진행한 스킬의 가장 빠른 코인이 일정 확률로 소멸\n자신의 [CutbondRyoshu] 10당 최종 위력 +1 (최대 5)\n대상의 [Laceration] 6당 최종 위력 +1 (최대 4)|Cannot change target\nRandom chance to delete the earliest Coin on the Skill this unit Clashed with\nFinal Power +1 for every 10 [CutbondRyoshu] on self (max 5)\nFinal Power +1 for every 6 [Laceration] on target (max 4)
+124||(ulepszenie 1) — tekst klimatyczny] ‘아비들을 전부 베어내며, 아라야까지 지킬 수는 없다.’|'But I cannot guarantee Araya's safety while fighting off the Nursefathers' pursuit.'
+126||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 1 부여, [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration] and +1 [Laceration] Count
+130||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 3 증가|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +3 [Laceration] Count
+131||(ulepszenie 1) — nazwa] 그려내기|Brushstroke
+133||(ulepszenie 1) — tekst klimatyczny] ‘아라야를 숨긴다. 아비들이 자주 드나드는 시간 금고들이 쌓여 있는 방이 있다.’\n\n‘그 방에 있는 금고에 아라야를 대피시킨다. 시간 금고라면 안전하다.’|'I will hide her. I will hide her right under their noses—in that room full of Time Vaults where they're always coming and going.'\n\n'Time Vaults are safe. I can put Araya in one of those.'
+140||(ulepszenie 1) — nazwa] 천살 [天殺]|Slay the Heavens - Tiansha [天殺]
+141||(ulepszenie 1) — opis] 대상 변경 불가능\n이 스킬과 합을 진행한 스킬의 가장 빠른 코인이 일정 확률로 소멸\n자신의 [CutbondRyoshu] 4당, 최종 위력 +1 (최대 12)|Cannot change target\nRandom chance to delete the earliest Coin on the Skill this unit Clashed with\nFinal Power +1 for every 4 [CutbondRyoshu] on self (max 12)
+142||(ulepszenie 1) — tekst klimatyczny] ‘그리고 금고에 내 검으로 검흔을 새겨 놓는다.’\n\n‘내가 다시 돌아왔을 때, 그 검흔이 드러나면 금고가 섞여도 알아낼 수 있을 것이다.’\n\n‘나무를 숨기려면 숲에 숨겨야 한다.’|'And then, I will make a small mark on Araya's safe with my blade.'\n\n'That way, when I return, the mark made by my sword will become fresh again and I'll be able to pick out hers even if the Vaults get shuffled around.'\n\n'The best place to hide a tree is in the forest.'
+148||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+152||(ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+153||(ulepszenie 1) — nazwa] ‘나를 지우며, 너를 지운다.’|'Erasing Me, Erasing You.'
+154||(ulepszenie 1) — opis] 대상 변경 불가능\n이 스킬과 합을 진행한 스킬의 가장 빠른 코인이 일정 확률로 소멸|Cannot change target\nRandom chance to delete the earliest Coin on the Skill this unit Clashed with
+155||(ulepszenie 1) — tekst klimatyczny] ‘오랜 시간이 걸려도, 아라야에게는 찰나 같을 수 있기를.’|'However much time slips by, I hope it feels like only a fleeting moment to her.'
+161||(ulepszenie 1) — nazwa] 세법|Rending Arts
+162||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Agility]이 3 이상이면, 기본 위력 +2\n[WhenUse] 자신의 [Breath] 횟수 2 증가|[WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] At 3+ [Agility], Base Power +2\n[WhenUse] Gain +2 [Breath] Count
+163||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 3 얻음|[OnSucceedAttack] Gain 3 [Breath]
+165||(ulepszenie 1) — nazwa] 자법|Acupuncture
+166||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 6당, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Agility]이 3 이상이면, 기본 위력 +2\n[WhenUse] 자신의 [Breath] 횟수 2 증가\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[WhenUse] Coin Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] At 3+ [Agility], Base Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain +2 [Breath] Count
+167||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음|[OnSucceedAttack] Gain 2 [Breath]
+168||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 1 부여|[OnSucceedAttack] Inflict 1 [Laceration]
+173||(ulepszenie 1) — moneta 3, efekt 3 — opis] [CriticalOnSucceedAttack] 다음 턴에 [Agility] 2 얻음|[CriticalOnSucceedAttack] Gain 2 [Agility] next turn
+174||(ulepszenie 1) — nazwa] 청린화|Lucent Rippling Flame
+175||(ulepszenie 1) — opis] 자신의 잃은 체력 1%당 피해량 0.5% 증가 (최대 25%)\n자신의 [Agility] 1당, 크리티컬 피해량 +25% (최대 150%)\n[WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합이 6 이상이면, 코인 위력 +1 (최대 2)\n[WhenUse] [WindBlade] 수치가 5 이상이면, [SuperCoin]으로 변경됨\n[WinDuel] [Breath] 5 얻음|Deal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +25% damage on Critical Hit for every [Agility] on self (max 150%)\n[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Coin Power +1 (max 2)\n[WhenUse] At 5+ [WindBlade], convert into [SuperCoin]\n[WinDuel] Gain 5 [Breath]
+176||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 3 증가|[OnSucceedAttack] Gain +3 [Breath] Count
+177||(ulepszenie 1) — moneta 1, efekt 2 — opis] [CriticalOnSucceedAttack] [WindBlade] 1 얻음|[CriticalOnSucceedAttack] Gain 1 [WindBlade]
+182||(ulepszenie 1) — nazwa] 상전 청린화|Even the Balance - Lucent Rippling Flame
+183||(ulepszenie 1) — opis] [CantDuel]\n이 스킬은 수비 스킬을 발동시키지 않음\n자신의 잃은 체력 1%당 피해량 0.5% 증가 (최대 25%)\n자신의 [Agility] 1당, 크리티컬 피해량 +20% (최대 100%)\n[EndSkill] [WindBlade] 모두 소모|[CantDuel]\nThis Skill does not trigger Defense Skills\nDeal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +20% damage on Critical Hit for every [Agility] on self (max 100%)\n[EndSkill] Consume all [WindBlade] on self
+184||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 5 얻음|[OnSucceedAttack] Gain 5 [Breath]
+188||(ulepszenie 1) — moneta 4, efekt 2 — opis] [CriticalOnSucceedAttack] 자신의 [Agility]이 5 이상이면, 코인 재사용 (스킬당 1회)|[CriticalOnSucceedAttack] At 5+ [Agility], Reuse this Coin (once per Skill)
+189||(ulepszenie 1) — nazwa] 골단|To Claim Their Bones
+190||(ulepszenie 1) — opis] [CantDuel]\n이 스킬은 수비 스킬을 발동시키지 않음\n자신의 잃은 체력 1%당 피해량 0.5% 증가 (최대 25%)\n자신의 [Agility] 1당, 크리티컬 피해량 +10% (최대 50%)\n[WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 4당, 기본 위력 +1 (최대 4)|[CantDuel]\nThis Skill does not trigger Defense Skills\nDeal +0.5% damage for every 1% missing HP on self (max 25%)\nDeal +10% damage on Critical Hit for every [Agility] on self (max 50%)\n[WhenUse] Base Power +1 for every 4 ([Breath] on self + [Laceration] on target) (max 4)
+193||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis] next turn
+194||(ulepszenie 1) — nazwa] 앞길을 밝힐게요|I'll Light the Path Forward
+195||(ulepszenie 1) — opis] [CanDuelGuard]\n[StartBattle] [SupportProtect] 1 얻음\n[WhenUse] [Breath] 5 얻음\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[CanDuelGuard]\n[StartBattle] Gain 1 [SupportProtect]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count
+197||(ulepszenie 1) — nazwa] 형세 읽기|Observing the Stones on the Board
+198||(ulepszenie 1) — opis] [CanDuelGuard]\n[SupportProtect] 전용 스킬\n[WhenUse] [Breath] 5 얻음\n[WhenUse] [Breath]이 25를 초과했으면, [Breath] 5를 소모하여 [WindBlade] 3 얻음\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[CanDuelGuard]\n[SupportProtect] Exclusive Skill\n[WhenUse] Gain 5 [Breath]\n[WhenUse] At more than 25 [Breath], consume 5 [Breath] to gain 3 [WindBlade]\n[WinDuel] Gain +2 [Breath] Count
+200||(ulepszenie 1) — nazwa] 발검|Draw of the Sword
+201||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 2 증가\n[WinDuel] [Breath] 3 얻음|[WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 3 [Breath]
+204||(ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] [Laceration] 횟수 2 증가|[CriticalOnSucceedAttack] Inflict +2 [Laceration] Count
+206||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 7 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WinDuel] [Breath] 2 얻음|[WhenUse] At 7+ [Breath], Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 2 [Breath]
+207||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 4 얻음|[OnSucceedAttack] Gain 4 [Breath]
+208||(ulepszenie 1) — moneta 2, efekt 1 — opis] 크리티컬 피해량 +20%|Deal +20% damage on Critical Hit
+209||(ulepszenie 1) — moneta 3, efekt 1 — opis] 크리티컬 피해량 +40%|Deal +40% damage on Critical Hit
+211||(ulepszenie 1) — nazwa] 살주|Overthrow
+212||(ulepszenie 1) — opis] [DuelCounter]\n[StartBattle] 이번 턴과 다음 턴에 [SlashDamageUp] 2 얻음\n[WhenUse] 자신의 [Breath]이 8 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WinDuel] [Breath] 4 얻음|[DuelCounter]\n[StartBattle] Gain 2 [SlashDamageUp] this turn and next turn\n[WhenUse] At 8+ [Breath], Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 4 [Breath]
+214||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Breath] Count
+215||(ulepszenie 1) — moneta 3, efekt 1 — opis] 크리티컬 피해량 +80%|Deal +80% damage on Critical Hit

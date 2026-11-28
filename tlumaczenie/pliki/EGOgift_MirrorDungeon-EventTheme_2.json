@@ -1,0 +1,1390 @@
+{
+  "entries": {
+    "dataList[id=19751].desc": {
+      "pl": "— opis] Na początku tury wszyscy sojusznicy zyskują [DefenseUp] <style=\"upgradeHighlight\">4</style>.\nKażdy zyskuje Poziom Ataku równy (swoje [DefenseUp]/<style=\"upgradeHighlight\">3</style>) (maks. 10)",
+      "kr_sha256": "d956000db54937eecfb1f5081cb97ff4737cf139c8aae20b76b0fdca05e720ef",
+      "en_sha256": "452773e83911dd0293f255084170b788e1ca2a8f0e6fc8c70512e77565ed1b5d",
+      "origin": "ai"
+    },
+    "dataList[id=19751].name": {
+      "pl": "— nazwa] Zrzuta Węża+",
+      "kr_sha256": "ed4e0ae955d6f59dbf327e63d8a832cc2bed6be6d0caa059bc5df73c9962ddef",
+      "en_sha256": "3908976697405b0484fffb9b6784dcae2d04fbccecba38a37f2decb15510bdd2",
+      "origin": "ai"
+    },
+    "dataList[id=19751].simpleDesc[abilityID=19751].simpleDesc": {
+      "pl": "— opis skrócony] Wszyscy sojusznicy zyskują [DefenseUp] i Poziom Ataku",
+      "kr_sha256": "7048e60cce71487ac3e6af97948800f23ea95a050ef9bb5b49d6a1661d6ce671",
+      "en_sha256": "b90723451356edf735e8dadb8258bd69286bd3d51ad63da33c6181c6c7af97c2",
+      "origin": "ai"
+    },
+    "dataList[id=19752].desc": {
+      "pl": "— opis] Zyskuje 1 [Zazen] przy każdym trafieniu. (<style=\"upgradeHighlight\">3</style> razy na Umiejętność)\nJeżeli jednostka została w turze trafiona Umiejętnością wroga, zyskuje dodatkowo +1 [Zazen].",
+      "kr_sha256": "85d108eab9f981bd27467897fbb8f5bf70c01a7f0db1e2a8ea38a6178d583bee",
+      "en_sha256": "ce99a81c19a70d3bbcac3ffafcac5e9353ea7ec364fe191721754e22ecd508fb",
+      "origin": "ai"
+    },
+    "dataList[id=19752].name": {
+      "pl": "— nazwa] Fałszywa Aureola+",
+      "kr_sha256": "b9e678b1cc1186c8be1eac13bb20a53d350ff5087d455479ac325c8bfbe21ff5",
+      "en_sha256": "282b31eb857252ebfbc01277c26cfaf88ee97719648177f9344b6bf3bced0903",
+      "origin": "ai"
+    },
+    "dataList[id=19752].simpleDesc[abilityID=19752].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 [Zazen] przy każdym trafieniu",
+      "kr_sha256": "781dc41cc1ca75c51805bd77d4a0ad62f9f49d583687e44ffaf658fddee01807",
+      "en_sha256": "12ac973966d353cceac281e87b5ad77a751c0d8c8d16f7dc4d1b11be277acf52",
+      "origin": "ai"
+    },
+    "dataList[id=19753].desc": {
+      "pl": "— opis] W turach nieparzystych wszyscy sojusznicy zyskują 1 [AttackDmgUp]. W turach parzystych wszyscy sojusznicy zyskują 1 [Protection], <style=\"upgradeHighlight\">1 [DefenseUp]</style>.",
+      "kr_sha256": "50bd5679467a71b4f1e66239bfb570c2b7961e790bf571830fb4efaa14b55895",
+      "en_sha256": "a58d0db75b0a481a3cc2eda16b3b7fc383312615d6ca7be3a1677b93380dc33d",
+      "origin": "ai"
+    },
+    "dataList[id=19753].name": {
+      "pl": "— nazwa] Metronom+",
+      "kr_sha256": "fec707dfbea1194f158ea1d21613c28dfe55d3a827e4224663c3a37ae4ed8dbb",
+      "en_sha256": "92b6e3f22223b49ee777e80b0498ae6a065b66355951f2570886ab2a5ef8613e",
+      "origin": "ai"
+    },
+    "dataList[id=19753].simpleDesc[abilityID=19753].simpleDesc": {
+      "pl": "— opis skrócony] Wzmacnia atak lub obronę sojuszników w zależności od numeru tury",
+      "kr_sha256": "16115a317fbcd362cabe8d473584d1958996ee8e13d80287e167cff65651dcb2",
+      "en_sha256": "b8ac68d9181b731e3d715d4cbedba263e354ebaf0957774947e7b5d3f0d0a99d",
+      "origin": "ai"
+    },
+    "dataList[id=19754].desc": {
+      "pl": "— opis] Na początku spotkania maks. HP wszystkich sojuszników rośnie o (bieżące piętro x <style=\"upgradeHighlight\">3</style>)% (maks. <style=\"upgradeHighlight\">30</style>%)",
+      "kr_sha256": "bc4cc566941ad2428e094d2c19f1e833bbde5456479c3f759ee8fad48bdd33cd",
+      "en_sha256": "95a3f2eb34f1d2b6ab167aaf7cb0fd6b8439a930f5aba9e52567f042bc274088",
+      "origin": "ai"
+    },
+    "dataList[id=19754].name": {
+      "pl": "— nazwa] Uzda+",
+      "kr_sha256": "5cfcd9941226aa44b71532cf575c3488ffe8925810062bb3d8e4c654da5aa4c7",
+      "en_sha256": "ba3b76ba7eb4d15b51c023e997458f278a98b23a9014ec80504d0bbd4042de29",
+      "origin": "ai"
+    },
+    "dataList[id=19754].simpleDesc[abilityID=19754].simpleDesc": {
+      "pl": "— opis skrócony] Maks. HP wszystkich sojuszników rośnie wraz z bieżącym piętrem",
+      "kr_sha256": "7cf9c13a2215a46188d3099a3b63971eed2452cfebb83b6b18c2956a098e18c3",
+      "en_sha256": "ef36e5ca9e2cab2c2eba7c5aa151ae398c222fe795492a3ef14e76c98e95526c",
+      "origin": "ai"
+    },
+    "dataList[id=19755].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #6]\n\nNa początku walki zadaje +10% obrażeń za każdą Umiejętność ataku wroga namierzoną na tę jednostkę (maks. 20%)\n\nNa początku walki, jeżeli jest celem co najmniej 2 Umiejętności ataku, zadaje wrogom namierzającym tę jednostkę stałe obrażenia HP i Poczytalności równe <style=\"upgradeHighlight\">(2 x liczba namierzających Umiejętności)</style>. (maks. <style=\"upgradeHighlight\">5</style>; nie rani sojuszników)",
+      "kr_sha256": "c8f2795eacf5f4d6efe155673ee47138814ce8bfbfade96e45fbafa00c87e811",
+      "en_sha256": "e89a4d65b8fbd9a8e8e72e534401844d21a752bb0fae1a3231f83d6fd3b8cfaa",
+      "origin": "ai"
+    },
+    "dataList[id=19755].name": {
+      "pl": "— nazwa] Pogarda Pogardliwego Spojrzenia+",
+      "kr_sha256": "4534b5f287c50a73f0cf46aeec8c26bc2805cac4e2182773bf0c454f96c380ea",
+      "en_sha256": "ba389f6300d9b873b97c50376fb53c65c7996667b09224fa7706c59647c0c2b2",
+      "origin": "ai"
+    },
+    "dataList[id=19755].simpleDesc[abilityID=19755].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń zależnie od liczby namierzających Umiejętności wroga oraz obrażenia stałe",
+      "kr_sha256": "4775dd08e50999800901441f49258bf7e4e9e291a61679c2b3ae1a0254323ae4",
+      "en_sha256": "206943dba092b6e69a7324c97ea0c5ceea8d94d612e0ea536f9bb8d32337ac56",
+      "origin": "ai"
+    },
+    "dataList[id=19756].desc": {
+      "pl": "— opis] Gdy otrzymuje obrażenia śmiertelne, utrzymuje 1 HP przez czas trwania ataku, a po zakończeniu tego ataku odzyskuje 20% Maks. HP. (1 raz na potyczkę)\n\n<style=\"upgradeHighlight\">Jeżeli jednostka ma [Combustion], zamiast tego utrzymuje 1 HP przez czas trwania ataku, a po zakończeniu tego ataku odzyskuje 30% Maks. HP. (1 raz na potyczkę, łącznie z powyższym efektem)</style>",
+      "kr_sha256": "2ab6627030946dcae64aebc4b8e21e4f6bdf5f305ad79aa0d313d3226b86b49f",
+      "en_sha256": "4e44388135244852164769c757379022c60b953feea6ad55669258874a251eb4",
+      "origin": "ai"
+    },
+    "dataList[id=19756].name": {
+      "pl": "— nazwa] Niewyklułe Żar+",
+      "kr_sha256": "1b972cbf5ad0f4458a38f8a1f8b2e596840c356db1ada40c94c2c7e2d445fcca",
+      "en_sha256": "784dd7af48ff5069ed153156ccfcae91305222e632840352e2e1ff0728ff1896",
+      "origin": "ai"
+    },
+    "dataList[id=19756].simpleDesc[abilityID=19756].simpleDesc": {
+      "pl": "— opis skrócony] Nie umiera, gdy otrzymuje obrażenia śmiertelne, i odzyskuje HP",
+      "kr_sha256": "8c26436d6395d636cbabb7b09c0f77c83757780bdd0c75613b50764aa6fa1ad8",
+      "en_sha256": "7d4bb77fa4f3555658b689d6e82a3a0e87f2a09f133908ce978fa1ef6d1ca991",
+      "origin": "ai"
+    },
+    "dataList[id=19757].desc": {
+      "pl": "— opis] Gdy zostanie trafiona podczas walki, nakłada w następnej turze 1 [Paralysis] na atakującego. (1 raz na turę na postać)\n\n<style=\"upgradeHighlight\">Na początku walki przy co najmniej 5 Pełnym Rezonansie Żądzy, nakłada 1 [Paralysis] na wszystkich wrogów.</style>",
+      "kr_sha256": "d05162f09cd9e0fd70baa20e0ce786eea5eaac58813213940e929d199826d510",
+      "en_sha256": "9511a86654cd048322017ecf1cfbe7dabad198d594f011815c1b035b77f15e44",
+      "origin": "ai"
+    },
+    "dataList[id=19757].name": {
+      "pl": "— nazwa] Wtyczka Uziem. Przeciw Owcom+",
+      "kr_sha256": "3e56c2bccf0dea65cc16f22c835246ccd76b3775abe6c03f48434f374d0058f5",
+      "en_sha256": "0ce9b88938e262ddd12388b7d21f4c65a40e1551524475039d5f12e8539e635d",
+      "origin": "ai"
+    },
+    "dataList[id=19757].simpleDesc[abilityID=19757].simpleDesc": {
+      "pl": "— opis skrócony] Na początku walki, gdy zostanie trafiona, nakłada w następnej turze 1 [Paralysis]",
+      "kr_sha256": "06342e261d8a7ea4fb9d75f1699a23a26955617d54b2e15b121c7276090087aa",
+      "en_sha256": "046ef643ab707a4293b436a8e5f282232da6c7cbb064c5c78e74c8c34dc72555",
+      "origin": "ai"
+    },
+    "dataList[id=2080].desc": {
+      "pl": "— opis] Na początku tury wszyscy sojusznicy zyskują 1 [ScarletResultUp].\n\nTożsamości Rodu Ostrza lub Klanu Kurokumo zamiast tego zyskują 2 [ScarletResultUp] i 1 [SlashResultUp].",
+      "kr_sha256": "1597e905405c1aea95fa577ad73237b7933bb2687185cb9fab4a62dec6256edc",
+      "en_sha256": "abcc2a014ecc5f8a8a33d300632eac90d527c20497e14190bd692c6bc94342b8",
+      "origin": "ai"
+    },
+    "dataList[id=2080].name": {
+      "pl": "— nazwa] Zużyta Rękojeść",
+      "kr_sha256": "8c4bbf06fc8ac5a6ccab2c86b3654a63d8600db1ec29ceee88967ed25c2ceb71",
+      "en_sha256": "4843c8f07acaf0763756baa6cd21400010736d01d279186588ff40eb708ca08f",
+      "origin": "ai"
+    },
+    "dataList[id=2080].simpleDesc[abilityID=20801].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Żądzy i Wzrost Mocy Cięcia",
+      "kr_sha256": "50b15102d9cac8e42583b95714c9195b28e49228b0826e6f5de021c7c373684e",
+      "en_sha256": "58c5457080e30c161f1f58253549e946c65df79aec29717490212715185faec9",
+      "origin": "ai"
+    },
+    "dataList[id=2080].simpleDesc[abilityID=2080].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Żądzy",
+      "kr_sha256": "75ee334f5f6681fc2996af532b811ece8aa8d8ff46f34b661e89e6a5de08911e",
+      "en_sha256": "863ad09b7187d64758a0c20f734f2d285aaa2191b49091fab48d4db4ba7ef11a",
+      "origin": "ai"
+    },
+    "dataList[id=2081].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Klanu Kurokumo (liczone na polu).\n\nNa początku tury wszyscy sojusznicy zyskują 2 [ScarletResultUp] i 1 [SlashResultUp].\n\nPodstawowe Umiejętności ataku Tożsamości Klanu Kurokumo zyskują Moc Monet +(4/liczba monet, min. 1), nakładają dodatkowo +1 Moc [Laceration], +1 Licznika [Laceration] i zadają +(80/liczba monet)% obrażeń.\n\nUnieważnia pierwszy Próg Oszołomienia Tożsamości Klanu Kurokumo, a jeżeli HP jest poniżej 50% Maks. HP, na początku tury zyskuje 2 [Protection]. Tożsamości Klanu Kurokumo, które otrzymały w tej turze obrażenia od wroga, zyskują w następnej turze 2 [Agility].",
+      "kr_sha256": "22281ae88a277bfda61108c54a2c169fff5e6a709de36363586109f810642ffa",
+      "en_sha256": "71ee2229531f0fc071d25520c0fc7721dc59ae898b269f5c3362f6ab947ecf1b",
+      "origin": "ai"
+    },
+    "dataList[id=2081].name": {
+      "pl": "— nazwa] Olśnienie",
+      "kr_sha256": "21c6afe99ac92bc63021746065e971d87dc73048706b4b517949c5e1d23e410a",
+      "en_sha256": "f47897d523ea05dfffd068fc4eeed939403666d32ea5a25da26e202a57e5d119",
+      "origin": "ai"
+    },
+    "dataList[id=2081].simpleDesc[abilityID=20811].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet, nakłada więcej Krwawienia i Licznika Krwawienia oraz zadaje więcej obrażeń",
+      "kr_sha256": "779811b95254628bea3a6947c8a2ef387a970609a0e24b2686927a082ce0b599",
+      "en_sha256": "1b5a45f79e45b6051e3dd56a1df73628e7c5aa913878ef4951d6dccf9e6288d7",
+      "origin": "ai"
+    },
+    "dataList[id=2081].simpleDesc[abilityID=20812].simpleDesc": {
+      "pl": "— opis skrócony] Unieważnia pierwszy Próg Oszołomienia; zyskuje Ochronę przy HP poniżej progu; zyskuje Pośpiech po otrzymaniu obrażeń",
+      "kr_sha256": "77fda6b01b51e2964add099859be08dc7789776e9fe95bb29970d7ab5c56acd4",
+      "en_sha256": "4a803b27d9555f0d8f3a79124ef4dfab620338e49cf086a81c3f07f5a432fbfa",
+      "origin": "ai"
+    },
+    "dataList[id=2081].simpleDesc[abilityID=2081].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Żądzy i Wzrost Mocy Cięcia",
+      "kr_sha256": "50b15102d9cac8e42583b95714c9195b28e49228b0826e6f5de021c7c373684e",
+      "en_sha256": "58c5457080e30c161f1f58253549e946c65df79aec29717490212715185faec9",
+      "origin": "ai"
+    },
+    "dataList[id=2082].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Rodu Ostrza (liczone na polu).\n\nNa początku tury wszyscy sojusznicy zyskują 2 [SlashResultUp] i zadają +35% obrażeń.\n\nNa początku tury, gdy Tożsamość Rodu Ostrza zadaje wrogowi Krytykę, zadaje dodatkowe obrażenia Pychy równe (Moc [Breath]/2).\n\nJeżeli Tożsamość Rodu Ostrza ma co najmniej 30 Moc [Breath] na koniec tury, zużywa 10 Moc [Breath] i zyskuje w następnej turze 2 [SlashDamageUp].",
+      "kr_sha256": "f3a70a0d7b48c290bccc99a7b6092b1ae99cc5ef207cc253b7d77b3a4fe11e6a",
+      "en_sha256": "7d42c97c4f71334b37954db5bce9e61e2ed48f26dfa2e3b3079fb212b91fc7c9",
+      "origin": "ai"
+    },
+    "dataList[id=2082].name": {
+      "pl": "— nazwa] Doszlifowanie",
+      "kr_sha256": "15d97335ef44ac9769e53635e8a0fb33a59e32c49a8a5653a2522194a9b4bbd1",
+      "en_sha256": "1b08b31b5c0405ad0275ee23e6f6994171e4cbfc07c30d5268aa29320c611a97",
+      "origin": "ai"
+    },
+    "dataList[id=2082].simpleDesc[abilityID=20821].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia Pychy równe (Moc [Breath]/2)",
+      "kr_sha256": "1c64435e4b47b0fe53447a974111451d6d4b86fc6e9148f19023f4730b62426c",
+      "en_sha256": "5a4806c3e6a0591580b6cf32573242ecebf3b5a9a70f6159b5094e3cce1cd54f",
+      "origin": "ai"
+    },
+    "dataList[id=2082].simpleDesc[abilityID=20822].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Obrażeń Cięcia",
+      "kr_sha256": "39462fe8eb5a511d1e7ab11505143af7c62f6151925c0a01a5a29543f143a29c",
+      "en_sha256": "08b6af3a18ea0639b472717224477bdd56aed166ffaed69d4508dc67e6cff657",
+      "origin": "ai"
+    },
+    "dataList[id=2082].simpleDesc[abilityID=2082].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Cięcia i zadaje więcej obrażeń",
+      "kr_sha256": "d28f195967a9bbd917eb003be0daa7634686ce82a12c1c1728fae40069dfbb8d",
+      "en_sha256": "345ae572a044e4b8a1b02a10fd70e9e843b47e8c5a803463708218257123b085",
+      "origin": "ai"
+    },
+    "dataList[id=29751].desc": {
+      "pl": "— opis] Na początku tury wszyscy sojusznicy zyskują 4 [DefenseUp].\nKażdy zyskuje Poziom Ataku równy (swoje [DefenseUp]/<style=\"upgradeHighlight\">2</style>) (maks. 10)",
+      "kr_sha256": "3c4a56accbda2d43f5a6581ac6795c731b1f1cf870e6aa27ab9fd7e22744276f",
+      "en_sha256": "28f4f745cafb0ca785cb67023827f5576f0c644735837ba0bc46c9f1f0c6283d",
+      "origin": "ai"
+    },
+    "dataList[id=29751].name": {
+      "pl": "— nazwa] Zrzuta Węża++",
+      "kr_sha256": "6e4506b0a5c608ce93ce7d9ce22b51b030617818c28c0e2b2682b59a737a853d",
+      "en_sha256": "5b32e557e6b539ec0e930e31977f392d88e9af6e76f9de0a112aebaf8ee4885c",
+      "origin": "ai"
+    },
+    "dataList[id=29751].simpleDesc[abilityID=29751].simpleDesc": {
+      "pl": "— opis skrócony] Wszyscy sojusznicy zyskują [DefenseUp] i Poziom Ataku",
+      "kr_sha256": "7048e60cce71487ac3e6af97948800f23ea95a050ef9bb5b49d6a1661d6ce671",
+      "en_sha256": "b90723451356edf735e8dadb8258bd69286bd3d51ad63da33c6181c6c7af97c2",
+      "origin": "ai"
+    },
+    "dataList[id=29752].desc": {
+      "pl": "— opis] Zyskuje <style=\"upgradeHighlight\">2</style> [Zazen] przy każdym trafieniu. (3 razy na Umiejętność)\nJeżeli jednostka została w turze trafiona Umiejętnością wroga, zyskuje dodatkowo +1 [Zazen].",
+      "kr_sha256": "bdb8668cb70fd13df6ec6ed942cfcb7984bc9d15f9bb6d0d8c912291cf6561b0",
+      "en_sha256": "b0c23e449054acdb74414cc04e6b005dea2e7105a42db153de80d6ae979223e0",
+      "origin": "ai"
+    },
+    "dataList[id=29752].name": {
+      "pl": "— nazwa] Fałszywa Aureola++",
+      "kr_sha256": "aaedac9dd79191ce7be9d0a6ebb8a8174b88ea02e5e91a93d1ccdc6cd6774304",
+      "en_sha256": "955ecff6acc84fc57d9ad5ca4abc7f1c9c7d1e5b02b48cdb9abdd71a9e634c94",
+      "origin": "ai"
+    },
+    "dataList[id=29752].simpleDesc[abilityID=29752].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 2 [Zazen] przy każdym trafieniu",
+      "kr_sha256": "13941f03c8aef7fede3df821a2ee02105d4d5fb42cfc1aac160e39ea4cb768a1",
+      "en_sha256": "e944cd9b7df2b626f29b43a2467cf515e76197b26c6c35305085f56b08992d80",
+      "origin": "ai"
+    },
+    "dataList[id=29753].desc": {
+      "pl": "— opis] W turach nieparzystych wszyscy sojusznicy zyskują 1 [AttackDmgUp], <style=\"upgradeHighlight\">1 [AttackUp]</style>. W turach parzystych wszyscy sojusznicy zyskują 1 [Protection], 1 [DefenseUp].",
+      "kr_sha256": "d9a70ce0eba50cd9cf98d3024261d52f7ad52acc6017b3155d6e5827d581266c",
+      "en_sha256": "56cb94d6afd833a6370eec916759ce14861e7e690378686393fed4c895a4f634",
+      "origin": "ai"
+    },
+    "dataList[id=29753].name": {
+      "pl": "— nazwa] Metronom++",
+      "kr_sha256": "4e8c28f1d343a478e3ed78d71d44f32abf2a687cf6203867c39776130e9ebf05",
+      "en_sha256": "f078cc188859d9861f4ef75172106d7f0e885ced85ff35da3bda669df7a130bb",
+      "origin": "ai"
+    },
+    "dataList[id=29753].simpleDesc[abilityID=29753].simpleDesc": {
+      "pl": "— opis skrócony] Wzmacnia atak lub obronę sojuszników w zależności od numeru tury",
+      "kr_sha256": "16115a317fbcd362cabe8d473584d1958996ee8e13d80287e167cff65651dcb2",
+      "en_sha256": "b8ac68d9181b731e3d715d4cbedba263e354ebaf0957774947e7b5d3f0d0a99d",
+      "origin": "ai"
+    },
+    "dataList[id=29754].desc": {
+      "pl": "— opis] Na początku spotkania maks. HP wszystkich sojuszników rośnie o (bieżące piętro x <style=\"upgradeHighlight\">5</style>)% (maks. <style=\"upgradeHighlight\">50</style>%)",
+      "kr_sha256": "515892efd4048b127aeaf9db44360ba04894b68cff37be2e17429a4970f6dad0",
+      "en_sha256": "dd20f88012d8f738a56a8b9c46b1291b36f53792dbb6a66919d38bce28df640b",
+      "origin": "ai"
+    },
+    "dataList[id=29754].name": {
+      "pl": "— nazwa] Uzda++",
+      "kr_sha256": "e2efd4b19edfa79f4cd8351dd1d101f21a67976354ca0c28e0b9fd57f3705ed8",
+      "en_sha256": "247fbc0ef34cc63cb6d48861ef6dafb796dd29753619f0399fde56216cc760f4",
+      "origin": "ai"
+    },
+    "dataList[id=29754].simpleDesc[abilityID=29754].simpleDesc": {
+      "pl": "— opis skrócony] Maks. HP wszystkich sojuszników rośnie wraz z bieżącym piętrem",
+      "kr_sha256": "7cf9c13a2215a46188d3099a3b63971eed2452cfebb83b6b18c2956a098e18c3",
+      "en_sha256": "ef36e5ca9e2cab2c2eba7c5aa151ae398c222fe795492a3ef14e76c98e95526c",
+      "origin": "ai"
+    },
+    "dataList[id=29755].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale <style=\"upgradeHighlight\">#1,</style> #6]\n\nNa początku walki zadaje +10% obrażeń za każdą Umiejętność ataku wroga namierzoną na tę jednostkę (maks. <style=\"upgradeHighlight\">30</style>%)\n\nNa początku walki, jeżeli jest celem co najmniej 2 Umiejętności ataku, zadaje wrogom namierzającym tę jednostkę stałe obrażenia HP i Poczytalności równe (2 x liczba namierzających Umiejętności). (maks. <style=\"upgradeHighlight\">10</style>. Nie rani sojuszników)",
+      "kr_sha256": "3b424607e3fc68bcbb1ea8a5f987e3166b6758a2bda149f8dbe8617717ad0ea3",
+      "en_sha256": "dd506a3ca4c59cea6c5378dbe6d7e737d5e2dc5cdd74677dbb1d0e7061dc05ab",
+      "origin": "ai"
+    },
+    "dataList[id=29755].name": {
+      "pl": "— nazwa] Pogarda Pogardliwego Spojrzenia++",
+      "kr_sha256": "62e4f802f832f55f0e7a7625c4445f2e60eeeb44b66680da6fd7670dbe5f98b6",
+      "en_sha256": "2bb1d2a93bb92a85874934ef69b99411b7c61f262b01530b530d90b5446c4f52",
+      "origin": "ai"
+    },
+    "dataList[id=29755].simpleDesc[abilityID=29755].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń zależnie od liczby namierzających Umiejętności wroga oraz obrażenia stałe",
+      "kr_sha256": "4775dd08e50999800901441f49258bf7e4e9e291a61679c2b3ae1a0254323ae4",
+      "en_sha256": "206943dba092b6e69a7324c97ea0c5ceea8d94d612e0ea536f9bb8d32337ac56",
+      "origin": "ai"
+    },
+    "dataList[id=29756].desc": {
+      "pl": "— opis] Gdy otrzymuje obrażenia śmiertelne, utrzymuje 1 HP przez czas trwania ataku, a po zakończeniu tego ataku odzyskuje 20% Maks. HP. (1 raz na potyczkę)\n\nJeżeli jednostka ma [Combustion], zamiast tego utrzymuje 1 HP przez czas trwania ataku, a po zakończeniu tego ataku odzyskuje <style=\"upgradeHighlight\">40</style>% Maks. HP. (1 raz na potyczkę, łącznie z powyższym efektem)",
+      "kr_sha256": "633de3c4d3da9610bb4ffbb96d031620d884ad2312f3320ffe557a32d0574524",
+      "en_sha256": "6250492b4f71b15726feb2dca1eb1f27d7ed89847983b8ff674a3b1bcf70dcb2",
+      "origin": "ai"
+    },
+    "dataList[id=29756].name": {
+      "pl": "— nazwa] Niewyklułe Żar++",
+      "kr_sha256": "6b1717edb5e7c1381648fe41336521674801bad5f523eb926617409392852342",
+      "en_sha256": "75c0f4737c44ecebdf06fa806bb6f5175c6c5290a439e3d683cbd5ddeec86aaf",
+      "origin": "ai"
+    },
+    "dataList[id=29756].simpleDesc[abilityID=29756].simpleDesc": {
+      "pl": "— opis skrócony] Nie umiera, gdy otrzymuje obrażenia śmiertelne, i odzyskuje HP",
+      "kr_sha256": "8c26436d6395d636cbabb7b09c0f77c83757780bdd0c75613b50764aa6fa1ad8",
+      "en_sha256": "7d4bb77fa4f3555658b689d6e82a3a0e87f2a09f133908ce978fa1ef6d1ca991",
+      "origin": "ai"
+    },
+    "dataList[id=9751].desc": {
+      "pl": "— opis] Na początku tury wszyscy sojusznicy zyskują 2 [DefenseUp].\nKażdy zyskuje Poziom Ataku równy (swoje [DefenseUp]/4) (maks. 10)",
+      "kr_sha256": "a0448c98cd191eefb97428397037c0a5f3878d3a7d44d54676c0bf1d38a177d8",
+      "en_sha256": "1e7258751b12f9cdfa1c2e7c099008d1053c17da9f827f04aaa177efb811df64",
+      "origin": "ai"
+    },
+    "dataList[id=9751].name": {
+      "pl": "— nazwa] Zrzuta Węża",
+      "kr_sha256": "ce1b4af2ddd3f34e61122419046d33956c66fbb9ba7385c3908579180621eb4f",
+      "en_sha256": "e18197a72b395d12e795d39912b38c2e37c121e1118174cc9a0f608a3466cff9",
+      "origin": "ai"
+    },
+    "dataList[id=9751].simpleDesc[abilityID=9751].simpleDesc": {
+      "pl": "— opis skrócony] Wszyscy sojusznicy zyskują [DefenseUp] i Poziom Ataku",
+      "kr_sha256": "7048e60cce71487ac3e6af97948800f23ea95a050ef9bb5b49d6a1661d6ce671",
+      "en_sha256": "b90723451356edf735e8dadb8258bd69286bd3d51ad63da33c6181c6c7af97c2",
+      "origin": "ai"
+    },
+    "dataList[id=9752].desc": {
+      "pl": "— opis] Zyskuje 1 [Zazen] przy każdym trafieniu. (2 razy na Umiejętność)\nJeżeli jednostka została w turze trafiona Umiejętnością wroga, zyskuje dodatkowo +1 [Zazen].",
+      "kr_sha256": "5a5c1eb5c6713b3e2c8bef30e07f56d2588dc786a1e4429b7e5ac13404afbff0",
+      "en_sha256": "17273a7a9159f79dbeaba4d39616213850f39de5619bf7a71939d3ce1e334dc2",
+      "origin": "ai"
+    },
+    "dataList[id=9752].name": {
+      "pl": "— nazwa] Fałszywa Aureola",
+      "kr_sha256": "0f210fc618a064d8c2a86aab9d170df998e60907ee5e0d9099f0ebc52cbb23ca",
+      "en_sha256": "a8ea779e409720bfadbe6954a2e5ab178f8ae36a02344b01d1fddd445dd5d65a",
+      "origin": "ai"
+    },
+    "dataList[id=9752].simpleDesc[abilityID=9752].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 [Zazen] przy każdym trafieniu",
+      "kr_sha256": "781dc41cc1ca75c51805bd77d4a0ad62f9f49d583687e44ffaf658fddee01807",
+      "en_sha256": "12ac973966d353cceac281e87b5ad77a751c0d8c8d16f7dc4d1b11be277acf52",
+      "origin": "ai"
+    },
+    "dataList[id=9753].desc": {
+      "pl": "— opis] W turach nieparzystych wszyscy sojusznicy zyskują 1 [AttackDmgUp]. W turach parzystych wszyscy sojusznicy zyskują 1 [Protection].",
+      "kr_sha256": "a4d6568dc84e3826ad6b0295edb2bb0816a6a9466302a67678ed6a753183fcfa",
+      "en_sha256": "36f6ffb5e1245f74ca4b1ee090cc344763d693404b29001d88b7854af736019c",
+      "origin": "ai"
+    },
+    "dataList[id=9753].name": {
+      "pl": "— nazwa] Metronom",
+      "kr_sha256": "b0e9ccda247047ada33d11b2010810d7ef472469ab451988dbe2595167a58e96",
+      "en_sha256": "3634f1227eddd94bde97ddff138a4d7dde0e0774468f81cde68afcab6f9a6c6d",
+      "origin": "ai"
+    },
+    "dataList[id=9753].simpleDesc[abilityID=9753].simpleDesc": {
+      "pl": "— opis skrócony] Wzmacnia atak lub obronę sojuszników w zależności od numeru tury",
+      "kr_sha256": "16115a317fbcd362cabe8d473584d1958996ee8e13d80287e167cff65651dcb2",
+      "en_sha256": "b8ac68d9181b731e3d715d4cbedba263e354ebaf0957774947e7b5d3f0d0a99d",
+      "origin": "ai"
+    },
+    "dataList[id=9754].desc": {
+      "pl": "— opis] Na początku spotkania maks. HP wszystkich sojuszników rośnie o (bieżące piętro x 2)% (maks. 20%)",
+      "kr_sha256": "b1f397f0fcd8f191c3625d8d8ec226db7493259041b376c94596545764a6d475",
+      "en_sha256": "de2a1f20b1012cdaacfb75ac6cb7d2dd0f0d5a9e034d407507d8cf9201e7a42e",
+      "origin": "ai"
+    },
+    "dataList[id=9754].name": {
+      "pl": "Uzda",
+      "kr_sha256": "1aa241e53afaf549f311755b26fb5259beef953c53b18fc95431b98916455a0b",
+      "en_sha256": "5fe61d7c1d50ed0641145351594bfdd870b1f7b3bf652488917159475c30d24f",
+      "origin": "ai"
+    },
+    "dataList[id=9754].simpleDesc[abilityID=9754].simpleDesc": {
+      "pl": "— opis skrócony] Maks. HP wszystkich sojuszników rośnie wraz z bieżącym piętrem",
+      "kr_sha256": "7cf9c13a2215a46188d3099a3b63971eed2452cfebb83b6b18c2956a098e18c3",
+      "en_sha256": "ef36e5ca9e2cab2c2eba7c5aa151ae398c222fe795492a3ef14e76c98e95526c",
+      "origin": "ai"
+    },
+    "dataList[id=9755].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #6]\n\nNa początku walki zadaje +10% obrażeń za każdą Umiejętność ataku wroga namierzoną na tę jednostkę (maks. 20%)\n\nNa początku walki, jeżeli jest celem co najmniej 2 Umiejętności ataku, zadaje wrogom namierzającym tę jednostkę stałe obrażenia HP i Poczytalności w liczbie namierzających Umiejętności. (maks. 3; nie rani sojuszników)",
+      "kr_sha256": "d69ac92348203371fd7a209b9f873cdcda4d9f067b92c0679b8f0a86021f1591",
+      "en_sha256": "f2acdff03a08c85c01425d6e31c959460843aa4b420cb298a457e00c3652092f",
+      "origin": "ai"
+    },
+    "dataList[id=9755].name": {
+      "pl": "— nazwa] Pogarda Pogardliwego Spojrzenia",
+      "kr_sha256": "17728b1d57765235ade535fbfec5f552fb9cf6e37a8cea809f5449cf2b6f8d1f",
+      "en_sha256": "0bcc05ec4694cb45cdd8a59cb463243bbf7cf51d3ce2166001757fac8b1a9e13",
+      "origin": "ai"
+    },
+    "dataList[id=9755].simpleDesc[abilityID=9755].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń zależnie od liczby namierzających Umiejętności wroga oraz obrażenia stałe",
+      "kr_sha256": "4775dd08e50999800901441f49258bf7e4e9e291a61679c2b3ae1a0254323ae4",
+      "en_sha256": "206943dba092b6e69a7324c97ea0c5ceea8d94d612e0ea536f9bb8d32337ac56",
+      "origin": "ai"
+    },
+    "dataList[id=9756].desc": {
+      "pl": "— opis] Gdy otrzymuje obrażenia śmiertelne, utrzymuje 1 HP podczas ataku, a po jego zakończeniu odzyskuje 20% Maks. HP. (1 raz na potyczkę)",
+      "kr_sha256": "fda981799d35c3dfc143f05ad90f72af7bf50ac66e2b7253ecf0ee86e23e8f2e",
+      "en_sha256": "af5468d5de1573b25207bad40ff39682452e48b7e7071e5e2550db3ee11617b6",
+      "origin": "ai"
+    },
+    "dataList[id=9756].name": {
+      "pl": "— nazwa] Niewyklułe Żar",
+      "kr_sha256": "14971ce89a02fea6f4a3e08d0bdf3e013a13e0c89b38baa9e18883c5276a7116",
+      "en_sha256": "81d9d129742aa4dd65d48339adc309dde30db7837e60e933748c8892ebfae838",
+      "origin": "ai"
+    },
+    "dataList[id=9756].simpleDesc[abilityID=9756].simpleDesc": {
+      "pl": "— opis skrócony] Nie umiera, gdy otrzymuje obrażenia śmiertelne, i odzyskuje HP",
+      "kr_sha256": "8c26436d6395d636cbabb7b09c0f77c83757780bdd0c75613b50764aa6fa1ad8",
+      "en_sha256": "7d4bb77fa4f3555658b689d6e82a3a0e87f2a09f133908ce978fa1ef6d1ca991",
+      "origin": "ai"
+    },
+    "dataList[id=9757].desc": {
+      "pl": "— opis] Gdy zostanie trafiona podczas walki, nakłada w następnej turze 1 [Paralysis] na atakującego. (1 raz na turę na postać)",
+      "kr_sha256": "5c0fd28475bcd239979c0525c124beabe87f6d2e058ea63504d7ab0886c1b9b8",
+      "en_sha256": "f443136f62843d20a8de7506ecff4d73ecf219e9418ceb73e4c862fb5ec7c91a",
+      "origin": "ai"
+    },
+    "dataList[id=9757].name": {
+      "pl": "Wtyczka Uziemiająca Stacji Wielkiej Owcy",
+      "kr_sha256": "be12c1ac769504ec0a765685e4a9d0c8f4ca294efc559a2c63a4029b5f83a08f",
+      "en_sha256": "176e551cc57d81519e7cd3e9df530d3774538a6793f4ee7565a57c22d3a58e6d",
+      "origin": "ai"
+    },
+    "dataList[id=9757].simpleDesc[abilityID=9757].simpleDesc": {
+      "pl": "— opis skrócony] Gdy zostanie trafiona, nakłada w następnej turze 1 [Paralysis]",
+      "kr_sha256": "4e528ee999cfab4064b8db677b4db7e7b22263e214115c22f0d6e8875d49f0f0",
+      "en_sha256": "45e75dcfb535bd52284f06f337a5f9a58b78b260d1d2b48410e23079fa432183",
+      "origin": "ai"
+    },
+    "dataList[id=9758].desc": {
+      "pl": "— opis] Na początku tury, jeżeli któraś Tożsamość Weszła z rezerwy, ta Tożsamość odzyskuje 10 Poczytalności, zyskuje 2 [Enhancement] i 2 [ParryingResultUp] oraz po 1 zasobie E.G.O atrybutu swoich Umiejętności 1, 2 i 3.",
+      "kr_sha256": "6c3b50ee029e304ae09fccf47dfd6bc59d047f40c9c77b50bebb296b2e76b844",
+      "en_sha256": "fb6feac67503a0873fee0550da9ac9cdde8d458de9a8a82905351a11eb1557d7",
+      "origin": "ai"
+    },
+    "dataList[id=9758].name": {
+      "pl": "— nazwa] Resztki Króla",
+      "kr_sha256": "37281ecc8453c0ca5a93da44dcb8027ac1a63710c9223f1c9578d6d5907dca22",
+      "en_sha256": "cb5b811735275b74b9b71b237c905001e4263fa33e14519a24f2ad1249b68b8d",
+      "origin": "ai"
+    },
+    "dataList[id=9758].simpleDesc[abilityID=9758].simpleDesc": {
+      "pl": "— opis skrócony] Po wejściu z rezerwy odzyskuje Poczytalność, zyskuje Wzrost Mocy Starcia i zasoby E.G.O",
+      "kr_sha256": "ff79f077bdbdcfc9304ac63e343295bc2a2e5601a10b4bdd9e14f230bf63d9f0",
+      "en_sha256": "3540eafcf4fda962e96d1433eb919f50fb7723e1fcefdf5832cbe9e9dd96a4b4",
+      "origin": "ai"
+    },
+    "dataList[id=9759].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #7]\n\nZyskuje +1 wartości Licznika [Vibration] z efektów Umiejętności i monet\n\n- Jeżeli cel jest w stanie Oszołomienia, Niskiego Moralu lub Paniki, zamiast tego zyskuje +2",
+      "kr_sha256": "72bb2448f39aa2aa4e9e46204fac37a5e57306383eb425f7cf2d316b262429b7",
+      "en_sha256": "05382a46b4ed495fb88b2618ab36ed23d457e441be12e6d58c9c97263951ff12",
+      "origin": "ai"
+    },
+    "dataList[id=9759].name": {
+      "pl": "— nazwa] Zgaszona Lampa",
+      "kr_sha256": "d12bb5d607553a161d720a57006bbfb9cc2452f34e343e306598a1648fb78e89",
+      "en_sha256": "163fb970256b99bebf5bae03ee0b915087def1e799198b5805c284164d71cb12",
+      "origin": "ai"
+    },
+    "dataList[id=9759].simpleDesc[abilityID=9759].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje więcej Licznika [Vibration] z efektów Umiejętności i monet",
+      "kr_sha256": "37c52ccf73cc5d6dafe2d45c9ccdba5b490d427674bb28d187d975cb1dd86532",
+      "en_sha256": "867015e16f9b259253f9262a06e37345f7dd838efab5062d524d043b7528b668",
+      "origin": "ai"
+    },
+    "dataList[id=9760].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #1]\n\nNa początku tury, jeżeli jest wrogów w stanie Oszołomienia, Niskiego Moralu lub Paniki, nakłada 1 [AttackDown] lub 1 [DefenseDown] na wszystkich wrogów. (do 3 razy na turę)\n\nPrzy trafieniu atakiem wroga w stanie Oszołomienia, Niskiego Moralu lub Paniki, nakłada 1 [AttackDown] lub 1 [DefenseDown] (do 3 razy na turę)",
+      "kr_sha256": "13935556e53eae6c3b9b3136039a3d5d464ddb327971f52eb590eb7fab54ec7a",
+      "en_sha256": "2b40c60528cd65bbd3f73b97779dbef26e66a08213858173d476ba82d093305b",
+      "origin": "ai"
+    },
+    "dataList[id=9760].name": {
+      "pl": "— nazwa] Zgaszony Świecznik",
+      "kr_sha256": "c17db996cac19ebf9e5d1c49e9c83b17539fd32fe8817d011f8c1e15e11d1af5",
+      "en_sha256": "b8f15ac7c0387cd33af7e0b8c8b9e26e572bb1ca9afb2536152a9fb603540a6a",
+      "origin": "ai"
+    },
+    "dataList[id=9760].simpleDesc[abilityID=97601].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 [AttackDown] lub 1 [DefenseDown]",
+      "kr_sha256": "b92e38a3d0aba26e4a78c6b39c0e2e66c687ba4c8940b47e03676de872025876",
+      "en_sha256": "8eabfed6fe61e18b9cef76ea1283d9246039d5c764f7f79d964033dcaaa27096",
+      "origin": "ai"
+    },
+    "dataList[id=9760].simpleDesc[abilityID=9760].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 [AttackDown] lub 1 [DefenseDown]",
+      "kr_sha256": "b92e38a3d0aba26e4a78c6b39c0e2e66c687ba4c8940b47e03676de872025876",
+      "en_sha256": "8eabfed6fe61e18b9cef76ea1283d9246039d5c764f7f79d964033dcaaa27096",
+      "origin": "ai"
+    },
+    "dataList[id=9761].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #1, #2, #7 i #8]\n\nZyskuje +1 wartości Licznika [Vibration] z efektów Umiejętności i monet\n  - Jeżeli cel jest w stanie Oszołomienia, Niskiego Moralu lub Paniki, zamiast tego zyskuje +2\n\nNa początku tury, jeżeli jest wrogów w stanie Oszołomienia, Niskiego Moralu lub Paniki, nakłada 2 [AttackDown] lub 2 [DefenseDown] na wszystkich wrogów (do 3 razy na turę)\n\nPrzy trafieniu atakiem wroga w stanie Oszołomienia, Niskiego Moralu lub Paniki, nakłada 1 [AttackDown] lub 1 [DefenseDown] (do 3 razy na turę łącznie dla wszystkich Tożsamości)",
+      "kr_sha256": "f648301392749c0a891f6c314542d7d3b2c314284c41a71b5c162f7103670dc0",
+      "en_sha256": "c40810ad809c8b99d97a5ab9680230a093a7a5637c80f98e89d47f2237af8c86",
+      "origin": "ai"
+    },
+    "dataList[id=9761].name": {
+      "pl": "— nazwa] Potwór Cieni",
+      "kr_sha256": "02dfb31be0c4a579eaa25519c22c608eea851c4f21f85d11302c00d379fa82da",
+      "en_sha256": "8ad251c06d0134ae9479383463d6530dd04e2a2e63a3fd2a628fa1db02f02b2d",
+      "origin": "ai"
+    },
+    "dataList[id=9761].simpleDesc[abilityID=97611].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 [AttackDown] lub 1 [DefenseDown]",
+      "kr_sha256": "b92e38a3d0aba26e4a78c6b39c0e2e66c687ba4c8940b47e03676de872025876",
+      "en_sha256": "8eabfed6fe61e18b9cef76ea1283d9246039d5c764f7f79d964033dcaaa27096",
+      "origin": "ai"
+    },
+    "dataList[id=9761].simpleDesc[abilityID=97612].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 [AttackDown] lub 1 [DefenseDown]",
+      "kr_sha256": "b92e38a3d0aba26e4a78c6b39c0e2e66c687ba4c8940b47e03676de872025876",
+      "en_sha256": "8eabfed6fe61e18b9cef76ea1283d9246039d5c764f7f79d964033dcaaa27096",
+      "origin": "ai"
+    },
+    "dataList[id=9761].simpleDesc[abilityID=9761].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje więcej Licznika [Vibration] z efektów Umiejętności i monet",
+      "kr_sha256": "37c52ccf73cc5d6dafe2d45c9ccdba5b490d427674bb28d187d975cb1dd86532",
+      "en_sha256": "867015e16f9b259253f9262a06e37345f7dd838efab5062d524d043b7528b668",
+      "origin": "ai"
+    },
+    "dataList[id=9762].desc": {
+      "pl": "— opis] Przy każdym trafieniu Umiejętnością sojusznika, nakłada Moc 1 jednego losowego efektu spośród [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (3 razy na turę)\n\nPrzy zabiciu wroga przez sojusznika, nakłada 1 jednego losowego efektu spośród Licznika [Breath], Licznika [Charge], [Agility], [AttackUp] i [DefenseUp] na losowego sojusznika w następnej turze (3 razy na turę)",
+      "kr_sha256": "02c976d908955ec9ab6a5ad1f6d95d1f7b7c7e96d3f6a7f42d4bce416de2e19c",
+      "en_sha256": "38ca7dd193bd4c7791bf139586ba8051124704cece68512d7663e764432ca8b0",
+      "origin": "ai"
+    },
+    "dataList[id=9762].name": {
+      "pl": "— nazwa] Kartonowe Opakowanie",
+      "kr_sha256": "f3af6fe88ebc80f1a787e493c74d2d6bfdc6942cb1b9a1a7c2308bf874541275",
+      "en_sha256": "b3fc3817db4377d996e54f857011564ef809e3afdaf377be4b109dd2e2045039",
+      "origin": "ai"
+    },
+    "dataList[id=9762].simpleDesc[abilityID=97621].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje losowy buff",
+      "kr_sha256": "beca65819f7415d70f046f0a2d25f12179f4c64d21d9589041b5d65dd46ca274",
+      "en_sha256": "625110f8fefc2121277a415f6a894ec27b4c90d3357dea3b1e5f8a8532ec1cad",
+      "origin": "ai"
+    },
+    "dataList[id=9762].simpleDesc[abilityID=9762].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada losowy debuff",
+      "kr_sha256": "e4d21d03bf160f2d5d22bc0c0cf711bc64a443c5d49fa0d5c7f52fdecc6704d5",
+      "en_sha256": "57f2f8c3f4a0c0d2e956e66ae0425b082f3c2c0dcdb0a9262297ccbece301745",
+      "origin": "ai"
+    },
+    "dataList[id=9763].desc": {
+      "pl": "— opis] Na początku tury wszyscy sojusznicy zyskują 1 losowego efektu spośród 'Wzrost Obrażeń Gniewu ~ Żądzy'\n\nNa początku tury nakłada 1 losowego efektu spośród 'Wrażliwości Gniewu ~ Żądzy' na wszystkich wrogów",
+      "kr_sha256": "c934fdd2300f4ebb0a19970520fde32bcb3f5d988fac44ff51e0872c65980cf8",
+      "en_sha256": "0941e52859bc330584868d7dc274599cffb6541a8da304ce2716b65a35591fc6",
+      "origin": "ai"
+    },
+    "dataList[id=9763].name": {
+      "pl": "— nazwa] Wstążka Opakowaniowa",
+      "kr_sha256": "8b4106cb0b54b417cec9de9cb66246edcef1977d6c0a0375ceafc515bd06980f",
+      "en_sha256": "3196ef687fd5534a41e9523df90b37cd3613e72534f1f3b35c83cbb50c3a8a5a",
+      "origin": "ai"
+    },
+    "dataList[id=9763].simpleDesc[abilityID=97631].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Wrażliwość na losowy Atrybut",
+      "kr_sha256": "ec1afeb74004a98302f8d3aacf6e5313c1807138d3485b08b675f22eab2bef12",
+      "en_sha256": "147a71d7608e3dd8459351ea3c3780e5ba94b66a24f97f782a71dd068515f13e",
+      "origin": "ai"
+    },
+    "dataList[id=9763].simpleDesc[abilityID=9763].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje losowy Wzrost Obrażeń Atrybutu",
+      "kr_sha256": "004117107e92c7c05452afc98071a341537467e76d055a02cadc1f6f34bb7e13",
+      "en_sha256": "fcd3d16172dd6ed1edac70120354c96231e61f4a4e9546442159bca7d1826568",
+      "origin": "ai"
+    },
+    "dataList[id=9764].desc": {
+      "pl": "— opis] Przy każdym trafieniu Umiejętnością sojusznika, nakłada Moc 1 dla 2 losowych efektów spośród [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (3 razy na turę)\n\nPrzy każdym trafieniu Umiejętnością sojusznika, nakłada 1 jednego losowego efektu spośród Licznika [Breath], Licznika [Charge], [Agility], [AttackUp] i [DefenseUp] na dwóch losowych sojuszników w następnej turze (3 razy na turę)\n\nNa początku tury wszyscy sojusznicy zyskują po 1 dla 2 losowych efektów spośród 'Wzrost Obrażeń Gniewu ~ Żądzy'\n\nNa początku tury nakłada po 1 dla 2 losowych efektów spośród 'Wrażliwości Gniewu ~ Żądzy' na wszystkich wrogów",
+      "kr_sha256": "d3d2472f9c708a912ff4e19a988c53ce40f15d6f755096a79b148447bc48ed42",
+      "en_sha256": "b10df274780a57dc1e74892e1eb50907c0535c73f34f2fd3ce208769300d0555",
+      "origin": "ai"
+    },
+    "dataList[id=9764].name": {
+      "pl": "Prezent",
+      "kr_sha256": "807cae1b570857696082557e7acbc2ac728fc3918b225f075b3dfd3e65579c45",
+      "en_sha256": "1a596a091cc5094358959b5822212e1da981cfde00b89c95e0e5fdee07ef8dba",
+      "origin": "ai"
+    },
+    "dataList[id=9764].simpleDesc[abilityID=97641].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje losowy buff",
+      "kr_sha256": "beca65819f7415d70f046f0a2d25f12179f4c64d21d9589041b5d65dd46ca274",
+      "en_sha256": "625110f8fefc2121277a415f6a894ec27b4c90d3357dea3b1e5f8a8532ec1cad",
+      "origin": "ai"
+    },
+    "dataList[id=9764].simpleDesc[abilityID=97642].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje losowy Wzrost Obrażeń Atrybutu",
+      "kr_sha256": "004117107e92c7c05452afc98071a341537467e76d055a02cadc1f6f34bb7e13",
+      "en_sha256": "fcd3d16172dd6ed1edac70120354c96231e61f4a4e9546442159bca7d1826568",
+      "origin": "ai"
+    },
+    "dataList[id=9764].simpleDesc[abilityID=9764].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada losowy debuff",
+      "kr_sha256": "e4d21d03bf160f2d5d22bc0c0cf711bc64a443c5d49fa0d5c7f52fdecc6704d5",
+      "en_sha256": "57f2f8c3f4a0c0d2e956e66ae0425b082f3c2c0dcdb0a9262297ccbece301745",
+      "origin": "ai"
+    },
+    "dataList[id=9765].desc": {
+      "pl": "— opis] Na koniec tury sojusznik zyskuje w następnej turze 2 Moc [Breath] za każdą Umiejętność ataku, która zadała obrażenia do końca tury.\n- W walkach skupionych zyskuje 4 Moc [Breath].\n\nNa początku tury nakłada na sojusznika z najmniejszym HP 2 Oddechu, 2 Licznika [Breath] i 2 [Protection].\n\nSojusznik zadaje +(wartość bezwzględna Poczytalności. min. 0)% obrażeń wrogom\n\nGdy sojusznik z Umiejętnościami z monetami Plus dochodzi do siebie z Oszołomienia, odzyskuje całą Poczytalność (nie uruchamia się w stanie Korozji E.G.O).\n\nSojusznik z samymi monetami Minus zyskuje na początku tury 5 [Paralysis]",
+      "kr_sha256": "e45c37dec30b1b90e4ad3dfceeecd23a62c25ba0c750d65adc486a1955c081b1",
+      "en_sha256": "524642cb731bbef43e6599b12f80085ef237c3498b39978a2aa060e09913bdaa",
+      "origin": "ai"
+    },
+    "dataList[id=9765].name": {
+      "pl": "— nazwa] Wesoła Pluszowa Zabawka",
+      "kr_sha256": "31b7f444c46e2dcb0b3e666f5b57dd3978a6b515c51ccffcdfeeb01f0790fde7",
+      "en_sha256": "d072aa210fa5b1856d779aae763269ff4928b5ffd7306a18206e57dd8a18cb29",
+      "origin": "ai"
+    },
+    "dataList[id=9765].simpleDesc[abilityID=97651].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada losowy buff",
+      "kr_sha256": "be4cc80039bcff562322283ade1c6b70b6cf0c3eb5c987bd2a2d7b4eb3c51e42",
+      "en_sha256": "937ea385d3b1db1d5fb915f17bdfc2078f2a30830ac2a3a308155e80f19daf8e",
+      "origin": "ai"
+    },
+    "dataList[id=9765].simpleDesc[abilityID=97652].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada [Breath] i [Protection]",
+      "kr_sha256": "ddb8764ded0a5d1f1e15488523cc1559f0f2cbeece667471e77cec335f1b986f",
+      "en_sha256": "2ee59d14e6f7ded242f2f0a5397b6e964753a4460834252591c69c59082ad45e",
+      "origin": "ai"
+    },
+    "dataList[id=9765].simpleDesc[abilityID=97653].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń",
+      "kr_sha256": "d4ec77ede181a2fd74baa455d2efa19d020faf292083212465668e04884e5ad5",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=9765].simpleDesc[abilityID=97654].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje całą Poczytalność",
+      "kr_sha256": "627afe643c004f3864b355cf43480f32b94c4f57b8ceb6df7646c22347ae2bc5",
+      "en_sha256": "e580a2264e1509c7296c2b10c5aa011faef9be1736624f69e8d2ea78c01174e6",
+      "origin": "ai"
+    },
+    "dataList[id=9765].simpleDesc[abilityID=97655].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [Paralysis]",
+      "kr_sha256": "059d859a15a3fa3228b5f3430b1ac57f30bd29d5182ab2f9fd8c336f124aaf69",
+      "en_sha256": "fc0564154459c66a91da8c4afbbc8c644e87d0994d5e3ebed9e5bd6958f5bada",
+      "origin": "ai"
+    },
+    "dataList[id=9765].simpleDesc[abilityID=9765].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Oddechu",
+      "kr_sha256": "31ac9ae2d668efc7cd1aafb96302da21e815061dff68e291829744b9415d7598",
+      "en_sha256": "b95a4d609174f1e0ad405ab8f1523034adcfec65fff5f7f108088bda25813e7b",
+      "origin": "ai"
+    },
+    "dataList[id=9766].desc": {
+      "pl": "— opis] Jeżeli nie ma żywych [RequestedTarget], nakłada efekt [RequestedTarget] na pierwszego wroga zaatakowanego przez sojusznika. (1 raz na turę)",
+      "kr_sha256": "327c4efd63b08474812605343a7db1b9a98079bb360df5600526eb9f409035f7",
+      "en_sha256": "9774e7cd9acba4be0f8a26570beb41cff97490c05ed2dcf77335222479b67f80",
+      "origin": "ai"
+    },
+    "dataList[id=9766].name": {
+      "pl": "— nazwa] Domniemane Odnowienie Umowy",
+      "kr_sha256": "9af15b8f9fb0a526badf952b92ef0f0ef8467caaa6b05e90bd1bf06e046b03e8",
+      "en_sha256": "14aa97e57eee79226bee4fc56a18f54f50b7943cad9249f6fe968a1b39003518",
+      "origin": "ai"
+    },
+    "dataList[id=9766].simpleDesc[abilityID=9766].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada [RequestedTarget]",
+      "kr_sha256": "dac16160dd487a8d5d8b9b583f9c2fd09ef9e79f77628a3d57b88d3f66223f36",
+      "en_sha256": "a265f7342b604dcc4ea13d1466569151c57828a8109a609059c19cb14fa7ce83",
+      "origin": "ai"
+    },
+    "dataList[id=9767].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #1]\n\nW każdej turze zyskuje 2 [Enhancement] i 1 [Vulnerable]\n\nJeżeli główny cel ma obniżony Poziom Obrony, zyskuje 5 [Breath] przed atakiem\n\nUmiejętności Kłucia Pychy zadają +(50/liczba monet)% obrażeń. (łącznie z E.G.O)",
+      "kr_sha256": "f24f1b3ac7b1513b096ce91a293fd6c4fee2b9ec959ac7bea4308f8146553234",
+      "en_sha256": "df7a28e85cf98d949182fc75d3699a8f9c94c6645eb20b20dce7b001173c721c",
+      "origin": "ai"
+    },
+    "dataList[id=9767].name": {
+      "pl": "— nazwa] Fajka Czarnego Płomienia",
+      "kr_sha256": "4f96e51eb25868b4a972a8fd439a03e5fe43616e78e4677a3914cced4a208fa3",
+      "en_sha256": "609091e3fb324a5f0cb852c76c52bf20b964f6bef0f86fa7e0441eb03ba0ccec",
+      "origin": "ai"
+    },
+    "dataList[id=9767].simpleDesc[abilityID=97671].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [Breath]",
+      "kr_sha256": "5a39e2bb447ba2701207f6703599fba43d6f8f571d57b01019abb3144d10869e",
+      "en_sha256": "b389190f196255d0058668073dd92686a96ed5b2c5ffcfa5fe5da726b431e7f2",
+      "origin": "ai"
+    },
+    "dataList[id=9767].simpleDesc[abilityID=97672].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętności Kłucia zadają więcej obrażeń",
+      "kr_sha256": "0f920f5e74112e1c5df65de71733b8836617671d75ea3d81040c15c5cc072411",
+      "en_sha256": "e4d236653987a07d0964dd40b853326b86b81b8e0f38cb43297e116f4aaee50c",
+      "origin": "ai"
+    },
+    "dataList[id=9767].simpleDesc[abilityID=9767].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [Enhancement] i [Vulnerable]",
+      "kr_sha256": "2a3e9a9658479a6f1824ef8f98e05fc7b88c98bcbc06b677d383956e35302b0b",
+      "en_sha256": "7a2f5ac482fb6ab108324de23dd9df600bdb5d0eb708871b7e15bafc1a1c129d",
+      "origin": "ai"
+    },
+    "dataList[id=9768].desc": {
+      "pl": "— opis] Jeżeli odporność celu na Kłucie wynosi 1.5 lub mniej, Odporność na Kłucie +0.3",
+      "kr_sha256": "85a458566137724b4a0ecd52026c26e9e669cc923815f51b476176333989bd34",
+      "en_sha256": "7122eb9bc8e229bb0e61e2b9ca76959514b697d45f6b464029a589646d291615",
+      "origin": "ai"
+    },
+    "dataList[id=9768].name": {
+      "pl": "— nazwa] Równość",
+      "kr_sha256": "29a0f3ac87d921a7aea09fb480c030015ab1f089a205761fa7734ae77434453e",
+      "en_sha256": "71255f2b68557b0515baaccd0baf1657730689a4d95229923027b83d397f6960",
+      "origin": "ai"
+    },
+    "dataList[id=9769].desc": {
+      "pl": "— opis] Na koniec tury, jeżeli jakiś sojusznik wycofał się w tej turze, 1 sojusznik z najwyższą Szybkością zyskuje 2 [Enhancement] i 1 [AttackDmgUp] na początku następnej tury\n\nNa początku walki, jeżeli któryś sojusznik wszedł z rezerwy w tej turze, sojusznicy, którzy weszli z rezerwy, zyskują 2 [Enhancement] i 2 [Endurance]",
+      "kr_sha256": "1b4d959da5209b2b3a8ec7efbebd2436cfc3dea71a375bddefacc2cc096cc547",
+      "en_sha256": "2add01c9c8ca02496bb3cbb060e8009842a81fa2e0223fb195a8cb5e966f57b7",
+      "origin": "ai"
+    },
+    "dataList[id=9769].name": {
+      "pl": "— nazwa] Szybkie Dowodzenie",
+      "kr_sha256": "3236138f1ec97f0c92c09b4f8f75b50c318739b5865423450222939f50c05c80",
+      "en_sha256": "b6480df95e922df40945cc083f6b55eadb1407ce1ae80f1602c0b7d87967ce4f",
+      "origin": "ai"
+    },
+    "dataList[id=9769].simpleDesc[abilityID=97691].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [Enhancement] i [Endurance]",
+      "kr_sha256": "bc985ef98dbc7acce43452f720bebb2e7bd5fb0c472ca30e43e7b2f1ed751d94",
+      "en_sha256": "e776f17f6fe383d73d2234c902425a047d54bf4cc5482c6a774eeb6d6c5eefb4",
+      "origin": "ai"
+    },
+    "dataList[id=9769].simpleDesc[abilityID=9769].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [Enhancement] i [AttackDmgUp]",
+      "kr_sha256": "697443edc1baf6e91941987c016c2c903942131d7a8b65cd18a00ddf8160ba59",
+      "en_sha256": "18901c30d882ff239e4c2d5f061d6e8fdf2a543f4b7bd565c1959ff4426555eb",
+      "origin": "ai"
+    },
+    "dataList[id=9770].desc": {
+      "pl": "— opis] Na początku tury, jeżeli jednostka ma [Breath], zyskuje 2 [DefenseUp] i 1 [Endurance]\n\nJeżeli jednostka ma [Breath], pierwsza trafiająca moneta zadaje +10% obrażeń\n\nJeżeli ta moneta trafi Krytyką, zadaje +20% obrażeń Krytyką",
+      "kr_sha256": "aa300fb03e9bde8cf954d24ead75575be8cce9b2ad245c19794442b567f2066f",
+      "en_sha256": "7b3c298cd8551c13b8b2489e36d88deccbae79783dcbf5ffc18b4de742f6e82f",
+      "origin": "ai"
+    },
+    "dataList[id=9770].name": {
+      "pl": "— nazwa] Odłamki Zębatki",
+      "kr_sha256": "fb8eb7bd1bac7561e512e0cc442ebe11a4b1dc05beef4df4d0d863652cb96d14",
+      "en_sha256": "57f60c2d513697745830c57b9a5b2ac918675e3f9a4d4b44db2bc231df5accba",
+      "origin": "ai"
+    },
+    "dataList[id=9770].simpleDesc[abilityID=97701].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń pierwszą trafiającą monetą",
+      "kr_sha256": "fc7457591615c0e4ac139c48946764108a9aa98c45997c1fe39e732dcdddd9a3",
+      "en_sha256": "34d083e31943093c0c0754be34ba6348e617c46c0cb2224b0e4acdc7d22d1979",
+      "origin": "ai"
+    },
+    "dataList[id=9770].simpleDesc[abilityID=9770].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [DefenseUp] i [Endurance]",
+      "kr_sha256": "a3af48416108ad264a0ee45920d90adfd82bc6ede39c505f2ad447486cd41d32",
+      "en_sha256": "fc24b9f16cacb045441a9dd42157622ef33c8a0998036190618cee9528e617db",
+      "origin": "ai"
+    },
+    "dataList[id=9771].desc": {
+      "pl": "— opis] Jeżeli Umiejętność mogąca zużyć [Bullet] nie zużyje [Bullet], zyskuje 1 [Enhancement] w tej i następnej turze (1 raz na turę)\n\nPrzy zdobyciu [Bullet], Umiejętność 3 użyta w tej i następnej turze zadaje +50% obrażeń\n\nPrzy użyciu Umiejętności zużywającej [Bullet], zyskuje 3 [Breath] i +1 Licznika [Breath]",
+      "kr_sha256": "2e52d7562008ce84db233783deff8ad84f8ba1b5d33d245f20fb9abab6953bbd",
+      "en_sha256": "82361af2c4a7dbb6735ea4bb57e4f4f89e304e61a6e9f11010b5b99b95f924b0",
+      "origin": "ai"
+    },
+    "dataList[id=9771].name": {
+      "pl": "— nazwa] Podręcznik Walki Wręcz",
+      "kr_sha256": "6c679a4e0980f053df6ca5bbf8e6e54066205aa07378256b830ca0df5aacfbe4",
+      "en_sha256": "fee28198f917210d22a0650a0714a5d9f053902ea4ac3cb1f536891d7544da2c",
+      "origin": "ai"
+    },
+    "dataList[id=9771].simpleDesc[abilityID=97711].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zadaje więcej obrażeń",
+      "kr_sha256": "12f771ef1782b8057a30893320b0db6d4cb348066779ceb7971bd6ebe16d8657",
+      "en_sha256": "ce615ddfe5e151a97f55fae5ed8e5b2ee6fabeb9352d9918b3af035c03324411",
+      "origin": "ai"
+    },
+    "dataList[id=9771].simpleDesc[abilityID=97712].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc i Licznik [Breath]",
+      "kr_sha256": "67ed2880c64462c7f246e3fdd2d62699d5743590abcef6a8c57b3e1daf12a1df",
+      "en_sha256": "7f7e079da31e783056643265e0433bc6ad7579a5baae7d8f72363b30ecbab14c",
+      "origin": "ai"
+    },
+    "dataList[id=9771].simpleDesc[abilityID=9771].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [Enhancement]",
+      "kr_sha256": "07385e0993beacc77a76d7cd7d3496c435c8064ad30b890a78bfa62e8c99006e",
+      "en_sha256": "71fe97129d4b1e165ef3ac1516c4c980e86061b437cb1a13632402fb0206d6d2",
+      "origin": "ai"
+    },
+    "dataList[id=9772].desc": {
+      "pl": "— opis] Gdy Podstawowa Umiejętność ataku nakładająca Moc [Combustion] lub 'Szczególne Podpalenie' wygra starcie z wrogiem, nakłada 2 Moc [Combustion] (2 razy na turę na Tożsamość).\n\nGdy Podstawowa Umiejętność ataku nakładająca Licznik [Combustion] wygra starcie z wrogiem, zwiększa Licznik [Combustion] celu o 2. (3 razy na turę na wroga)\n\nPodstawowe Umiejętności ataku nakładające Moc [Combustion], Licznik [Combustion] lub 'Szczególne Podpalenie' zyskują Poziom Ataku równy liczbie posiadanych Umiejętności (maks. 3).\n- Jeżeli dana Umiejętność ma 3 lub więcej, Poziom Ataku rośnie dodatkowo o 2.",
+      "kr_sha256": "f18e76197dcb561af77e12b70686e5c04ab486288511d6c546d0628da230a973",
+      "en_sha256": "3b9f19d864663326ee516079ad74243e0d455eb597f6b9dea24f74ad166f3448",
+      "origin": "ai"
+    },
+    "dataList[id=9772].name": {
+      "pl": "— nazwa] Zapalające Rękawice",
+      "kr_sha256": "ed5e0ddc519e81850e4965c22dfd43b33a7aadaebf573cebae741ab132a0883d",
+      "en_sha256": "7651510ea580742408df33c626188b7ef9e1aa3c33285eddb069f1f7e2825a10",
+      "origin": "ai"
+    },
+    "dataList[id=9772].simpleDesc[abilityID=97721].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Licznik [Conbustion]",
+      "kr_sha256": "bcd77887b64816e7abb9c1a3f63d404fe36a7d218c85795394b05e56de76c566",
+      "en_sha256": "56c611076086dc7883569a5d0442030e36627457c6a672db5334892c7de02eb0",
+      "origin": "ai"
+    },
+    "dataList[id=9772].simpleDesc[abilityID=97722].simpleDesc": {
+      "pl": "Wzrost Poziomu Ataku",
+      "kr_sha256": "c81a6f5dd960f96547a32a93f447818b319837a534e35bdbb1f64b92d93f35b3",
+      "en_sha256": "2391b626d924ed298ada1369257c77bf3f568eeb1d10e61a8196d98d5a51df86",
+      "origin": "ai"
+    },
+    "dataList[id=9772].simpleDesc[abilityID=9772].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada [Conbustion]",
+      "kr_sha256": "afdbb996542b09496b8e90e9dc68bb6a8c6045cfec37ab10b48a98e8b0d397d9",
+      "en_sha256": "7a4cf40042352edf8adab649bf636a248115c7fd401ad7f3a6804992efe89ee4",
+      "origin": "ai"
+    },
+    "dataList[id=9773].desc": {
+      "pl": "— opis] Gdy Podstawowa Umiejętność ataku nakładająca Licznik [Burst] wygra starcie z wrogiem, zwiększa Licznik [Burst] celu o 3. (2 razy na turę na wroga)\n\nPrzy trafieniu, jeżeli cel nie ma [Burst], efekty monet nakładających Moc [Burst] nakładają zamiast tego Licznik [Burst] (maks. 4, 2 razy na turę na wroga, w przypadku Anomalii liczone per Partia)\n\nPodstawowe Umiejętności ataku nakładające Moc [Burst] lub Licznik [Burst] zyskują Poziom Ataku równy liczbie posiadanych Umiejętności (maks. 3).\n- Jeżeli dana Umiejętność ma 3 lub więcej, Poziom Ataku rośnie dodatkowo o 2.",
+      "kr_sha256": "ee89c0cf671a97a542ee1afa73ee8787885dd1cf8ef39c44a874156328655fb2",
+      "en_sha256": "b43c62c18cef6ca0a7ffcf9caa1d347c87efbe28456fcdf353be1ea148091ce5",
+      "origin": "ai"
+    },
+    "dataList[id=9773].name": {
+      "pl": "— nazwa] Bojówki z Kolcami",
+      "kr_sha256": "3a98a744e060ffa8ea2e1eff25869c37f98b39aee65b94c3f1a1e052fe3df4fd",
+      "en_sha256": "ff1ebb08739b6dfbb7be35829570b16d172f517f72fe27da586c6cf89cda4748",
+      "origin": "ai"
+    },
+    "dataList[id=9773].simpleDesc[abilityID=97731].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Licznik [Burst]",
+      "kr_sha256": "58df8c889a2e0d856188514eced99680fd0bc774aa4757142109f4de4a6ff8b3",
+      "en_sha256": "a8aa06843d8d91b2c0c3e2fe8351ef617aa9a32901f64d3824184da8065ba892",
+      "origin": "ai"
+    },
+    "dataList[id=9773].simpleDesc[abilityID=97732].simpleDesc": {
+      "pl": "Wzrost Poziomu Ataku",
+      "kr_sha256": "c81a6f5dd960f96547a32a93f447818b319837a534e35bdbb1f64b92d93f35b3",
+      "en_sha256": "2391b626d924ed298ada1369257c77bf3f568eeb1d10e61a8196d98d5a51df86",
+      "origin": "ai"
+    },
+    "dataList[id=9773].simpleDesc[abilityID=9773].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Licznik [Burst]",
+      "kr_sha256": "58df8c889a2e0d856188514eced99680fd0bc774aa4757142109f4de4a6ff8b3",
+      "en_sha256": "a8aa06843d8d91b2c0c3e2fe8351ef617aa9a32901f64d3824184da8065ba892",
+      "origin": "ai"
+    },
+    "dataList[id=9774].desc": {
+      "pl": "— opis] Podstawowe Umiejętności ataku nakładające Licznik [Combustion] zadają +20% obrażeń i nakładają +1 Licznika [Combustion]. Gdy ta Umiejętność trafi wroga z [Combustion] lub 'Szczególnym Podpaleniem', nakłada 1 [DefenseDown] (2 razy na turę na Tożsamość)\n\nTożsamości, których wszystkie Podstawowe Umiejętności ataku nakładają Moc [Combustion], Licznik [Combustion] lub 'Szczególne Podpalenie', zyskują na początku tury [AttackUp] równy liczbie przeżytych tur (z pominięciem tury wejścia, maks. 5)",
+      "kr_sha256": "6ac593c5a485550e997257c529a920cb5ef2d9bdfa7a961084648746c2236e7e",
+      "en_sha256": "ded9621fcba2104bc61e56510b3c3d887baf90dfb22e2d8343ea0f5e241e2c8c",
+      "origin": "ai"
+    },
+    "dataList[id=9774].name": {
+      "pl": "— nazwa] Wtyczka Ponownego Zapłonu",
+      "kr_sha256": "d1591105d1afdec6177e585ef9abba331fce193fb792271365da38464ebcab59",
+      "en_sha256": "c63d9c1afb8ed4be967dbff07b5219ea60135c043cc71524e0aa331c596cc1cc",
+      "origin": "ai"
+    },
+    "dataList[id=9774].simpleDesc[abilityID=97741].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [AttackUp]",
+      "kr_sha256": "50f7002497c52e9a32973115982fe05d7390456c25ffaee63de7164faadd242d",
+      "en_sha256": "e5f09d6b92e123e9e729b26d07ce7abedf8460a08d65f52afbbf5561566c0f29",
+      "origin": "ai"
+    },
+    "dataList[id=9774].simpleDesc[abilityID=9774].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada [DefenseDown]",
+      "kr_sha256": "d06586b3fea0e84177003c05a02a6c9472e4608fb9b40e9726855be79bfff2da",
+      "en_sha256": "2012782724eeed6302801eee2a6e085d5bef34730d0d8520e7494a05099c75c3",
+      "origin": "ai"
+    },
+    "dataList[id=9775].desc": {
+      "pl": "— opis] Przy trafieniu ostatnią monetą Podstawowej Umiejętności ataku nakładającej Moc [Burst] lub Licznik [Burst] we wroga z 15 lub mniej Mocy [Burst], zwiększa Licznik [Burst] celu o 3 (1 raz na turę na Tożsamość).\n\nPodstawowe Umiejętności ataku nakładające Licznik [Burst] zyskują Moc Starcia +1 i zadają +20% obrażeń.",
+      "kr_sha256": "d4f0444a28465d0cf6f211e484e355b6d517a46516c3ee22801da684967516cd",
+      "en_sha256": "96759ae5c3400e714fa91d5102680f25448752277aa60225c5e6899d518c078a",
+      "origin": "ai"
+    },
+    "dataList[id=9775].name": {
+      "pl": "— nazwa] Wzmacniacz Mk.4",
+      "kr_sha256": "070d4311a017c356411a4b4bdf84748e186b89fa16a82110a53344b9c280fab8",
+      "en_sha256": "44dbd12920b1163eb9e31355bcc9bc2ba96f13c1ee3d2f6b70302f57e041f7ea",
+      "origin": "ai"
+    },
+    "dataList[id=9775].simpleDesc[abilityID=97751].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia i zadaje więcej obrażeń",
+      "kr_sha256": "dece10534d1f027bb9d8dda383e12901d998b5ed2a9cb23fdf4c146b7636d88d",
+      "en_sha256": "b1e79f460752cb68b355ded80e50a914c72293210c745654e9fd7b7267bdf5dd",
+      "origin": "ai"
+    },
+    "dataList[id=9775].simpleDesc[abilityID=9775].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Licznik [Burst]",
+      "kr_sha256": "58df8c889a2e0d856188514eced99680fd0bc774aa4757142109f4de4a6ff8b3",
+      "en_sha256": "a8aa06843d8d91b2c0c3e2fe8351ef617aa9a32901f64d3824184da8065ba892",
+      "origin": "ai"
+    },
+    "dataList[id=9776].desc": {
+      "pl": "— opis] Na początku tury zwiększa Licznik [Combustion] o 1~2 wszystkich wrogów (w przypadku Anomalii — wszystkich Partii)\n\nGdy wrogowie z [Combustion] zostaną trafieni 5 razy Umiejętnościami ataku sojuszników (łącznie z E.G.O) nakładającymi Moc [Combustion], Licznik [Combustion] lub 'Szczególne Podpalenie', [Combustion] wywołuje się raz, a Licznik [Combustion] maleje o 1 (2 razy na turę na wroga; Anomalie liczone per Partia)",
+      "kr_sha256": "e6448f6a8d7b75b8a88e4b9649bc22572d169e7148d3ad5c29a029ee5dcfe839",
+      "en_sha256": "52451e7bebef72d7e520453ca137857d354fe633324b8fe72e6e8f29193ff8f3",
+      "origin": "ai"
+    },
+    "dataList[id=9776].name": {
+      "pl": "Żar",
+      "kr_sha256": "f209e4b03881d9c8f5782771050589a2f897d44013de6bd49f7cb275b85b53ee",
+      "en_sha256": "8b110a049214c6d8c3107fc0a58480af35fa538296792c8dd7d3af5d6cc8adf8",
+      "origin": "ai"
+    },
+    "dataList[id=9776].simpleDesc[abilityID=97761].simpleDesc": {
+      "pl": "— opis skrócony] Wywołuje [Combustion]",
+      "kr_sha256": "d3656ad41909ff258038cd47776cb6739b47dda66c1702390aab886cd5831a1f",
+      "en_sha256": "6b6a2be5a2afc0a1527e059957b227e3afb9025c6883f73f018d684963c52b13",
+      "origin": "ai"
+    },
+    "dataList[id=9776].simpleDesc[abilityID=9776].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Licznik [Combustion]",
+      "kr_sha256": "0a9b1839fe4bb99b368a420ff098556d7ad55bef7d764b48c0649a3c572320b5",
+      "en_sha256": "56c611076086dc7883569a5d0442030e36627457c6a672db5334892c7de02eb0",
+      "origin": "ai"
+    },
+    "dataList[id=9777].desc": {
+      "pl": "— opis] Za każde 3 wywołania [Burst] na wrogach z [Burst], trafionych Umiejętnościami ataku sojuszników (łącznie z Umiejętnościami E.G.O) nakładającymi Moc [Burst] lub Licznik [Burst], zyskują w następnej turze 2 [AttackDown] (3 razy na turę na wroga, w przypadku Anomalii liczone per Partia)\n\nPrzy zabiciu wroga Podstawową Umiejętnością ataku nakładającą Licznik [Burst], nakłada w następnej turze pozostały Licznik [Burst] zabitego celu na losowego wroga (2 razy na turę).",
+      "kr_sha256": "f52c1ef258a587c580348b67c7e378f509e99dac8699bc9c44c20e872da04d6b",
+      "en_sha256": "411e677f2d2945bdefa87836a9293f64528d9e1f3a91626ce0ad4a9cbbc71c2d",
+      "origin": "ai"
+    },
+    "dataList[id=9777].name": {
+      "pl": "— nazwa] Gałązki",
+      "kr_sha256": "79831b0078c7fb59288e786aadac0789aa945dd16cd722491e9e4ea2f59d9eba",
+      "en_sha256": "53d5f5e2115b5ed9019b6bc74a61800d69c1d0baed5222811e67d76ed9883b12",
+      "origin": "ai"
+    },
+    "dataList[id=9777].simpleDesc[abilityID=97771].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Licznik [Burst]",
+      "kr_sha256": "58df8c889a2e0d856188514eced99680fd0bc774aa4757142109f4de4a6ff8b3",
+      "en_sha256": "a8aa06843d8d91b2c0c3e2fe8351ef617aa9a32901f64d3824184da8065ba892",
+      "origin": "ai"
+    },
+    "dataList[id=9777].simpleDesc[abilityID=9777].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada [AttackDown]",
+      "kr_sha256": "a2a73bb9c4fa2dabd9779f960c1f2124b215c4917764243cfc8608ce5511c4aa",
+      "en_sha256": "ffcb8b88a9c47d86173adcfcb6f0f0cad51e3d1cbf1692153262ea5c41386629",
+      "origin": "ai"
+    },
+    "dataList[id=9778].desc": {
+      "pl": "— opis] Umiejętność 2 Tożsamości Limbus Company zyskuje Poziom Ataku +1 i zadaje +15% obrażeń; Umiejętność 3 zyskuje Poziom Ataku +2 i zadaje +30% obrażeń\n\nJeżeli w rezerwie jest co najmniej 4 Tożsamości Limbus Company, 2 losowi sojusznicy zyskują 2 [AttackUp] na początku tury",
+      "kr_sha256": "36a05d2075cb9224ae2263149e11716db267d1d851f15de514b79df1397572e4",
+      "en_sha256": "625487ccd65ba6cd934721de81c6e63c57aedf7a6848b01b8b873f8c91ff9c76",
+      "origin": "ai"
+    },
+    "dataList[id=9778].name": {
+      "pl": "— nazwa] Sprzęt Operacji Standardowych",
+      "kr_sha256": "9bb0e3209ee6ac74eae596e283c42522c244203a9dfdde383076a4a6699a5b4f",
+      "en_sha256": "82997183e61e4d7e8910c4f913a578142434114967cd403809254142ce45c168",
+      "origin": "ai"
+    },
+    "dataList[id=9778].simpleDesc[abilityID=97781].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=9778].simpleDesc[abilityID=9778].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Poziom Ataku i zadaje więcej obrażeń",
+      "kr_sha256": "3519c89eb1f3833e408aa3a098666446337022c3f65a09ef8674cc454dc03d75",
+      "en_sha256": "6215c593770592dda9e2fed91143b06ec60f15a76b7ef914098dd66709c6c9eb",
+      "origin": "ai"
+    },
+    "dataList[id=9779].desc": {
+      "pl": "— opis] Gdy podczas walki sojusznik ginie lub się wycofuje, na początku następnej tury wszystkie Tożsamości losowo dzielą między siebie 3 [AttackUp]. (2 razy na turę)\n- Jeżeli w trakcie walki zginęło lub się wycofało co najmniej 3 sojuszników, efekt jest wzmocniony i Tożsamości losowo dzielą 6 [AttackUp]. (2 razy na turę)\n\nNa początku tury trzej sojusznicy z najniższą Poczytalnością odzyskują odpowiednio 15, 10 i 5 Poczytalności (nie kumuluje się; wartości przydzielane od najniższej Poczytalności; nie działa przy Panice lub Korozji E.G.O)",
+      "kr_sha256": "1ef9409312de5b02bf6756d57b9ca65e0ec87ae3cb53a004d4025a26352fca2e",
+      "en_sha256": "c15714a5a13cef72acd32fc7c425d4e9ad55e7290763dacc55891f9fcc33a6c9",
+      "origin": "ai"
+    },
+    "dataList[id=9779].name": {
+      "pl": "— nazwa] Karta Autoryzacji Operacji",
+      "kr_sha256": "2d8ea505514e7be4a811ecc2c259c8fc558f35b846e330491b4679a0baa9b2b1",
+      "en_sha256": "68e980b2600aac743b012f837336a69ebf1b67d2c61965dc2781976163167b21",
+      "origin": "ai"
+    },
+    "dataList[id=9779].simpleDesc[abilityID=97791].simpleDesc": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=9779].simpleDesc[abilityID=9779].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=9780].desc": {
+      "pl": "— opis] Umiejętność 2 Tożsamości Limbus Company zyskuje Poziom Ataku +2 i zadaje +20% obrażeń; Umiejętność 3 zyskuje Poziom Ataku +3 i zadaje +40% obrażeń.\n\nNa początku tury losowy sojusznik zyskuje 2 [AttackUp] za każdą Tożsamość Limbus Company, która zginęła lub jest w rezerwie.\n\nGdy podczas walki sojusznik ginie lub się wycofuje, na początku następnej tury wszystkie Tożsamości losowo dzielą między siebie 3 [AttackUp] (przydzielane równomiernie, 2 razy na turę)\n- Jeżeli w trakcie walki zginęło lub się wycofało co najmniej 3 sojuszników, efekt jest wzmocniony i Tożsamości losowo dzielą 6 [AttackUp]\n- Jeżeli w trakcie walki zginęło lub się wycofało co najmniej 3 Tożsamości Limbus Company, efekt jest wzmocniony i Tożsamości losowo dzielą 8 [AttackUp]",
+      "kr_sha256": "183de08d5c4af445a2a02325a6b7420ed7d77553ab9385b8232745a17d3d9eee",
+      "en_sha256": "37738b36ccf8793272588da01acded5c3decdd59bf8b959787e61f9434f4de2c",
+      "origin": "ai"
+    },
+    "dataList[id=9780].name": {
+      "pl": "— nazwa] Sprzęt Operacji Ryzykownych",
+      "kr_sha256": "aa09e686b8880d0ea6ab694e2f68ac669a3417298c8b9c7b752e32dc4b8f2a80",
+      "en_sha256": "a5beea78e8219f63c63719baa74f8593ab643d5c10f20a3ff2db8d16b8373891",
+      "origin": "ai"
+    },
+    "dataList[id=9780].simpleDesc[abilityID=97801].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli Wzrost Poziomu Ataku między sojuszników",
+      "kr_sha256": "00761f7a4074757b476960ae39e91e19195d65175d77546025e75c8ca2e21870",
+      "en_sha256": "47c0b6d4cca0996918b279c867836819b8627cc2623dca878035569092bcb290",
+      "origin": "ai"
+    },
+    "dataList[id=9780].simpleDesc[abilityID=97802].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli Wzrost Poziomu Ataku między sojuszników",
+      "kr_sha256": "00761f7a4074757b476960ae39e91e19195d65175d77546025e75c8ca2e21870",
+      "en_sha256": "47c0b6d4cca0996918b279c867836819b8627cc2623dca878035569092bcb290",
+      "origin": "ai"
+    },
+    "dataList[id=9780].simpleDesc[abilityID=9780].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Poziom Ataku i zadaje więcej obrażeń",
+      "kr_sha256": "3519c89eb1f3833e408aa3a098666446337022c3f65a09ef8674cc454dc03d75",
+      "en_sha256": "6215c593770592dda9e2fed91143b06ec60f15a76b7ef914098dd66709c6c9eb",
+      "origin": "ai"
+    },
+    "dataList[id=9781].desc": {
+      "pl": "— opis] Po przegranej w starciu zyskuje 1 [Protection] i odzyskuje 3~6 Poczytalności (1 raz na turę na Tożsamość).\n\nGdy atakuje wroga efektem [SuperCoin] Umiejętności (poza Umiejętnościami E.G.O), która przegrała starcie: Umiejętności z monetą Plus zyskują Moc Monet Plus +(3/liczba monet) i zadają +20% obrażeń (min. 1 Mocy Monet Plus), a Umiejętności z monetą Minus zadają +40% obrażeń.",
+      "kr_sha256": "bcb6a52231aa65b74caabb87ea324e2001aa8cfa736afb9524686458b73be5a8",
+      "en_sha256": "d1468adb47525189fa915a44926b30a7a8f421426ab7e3ea55df4d18737ac200",
+      "origin": "ai"
+    },
+    "dataList[id=9781].name": {
+      "pl": "— nazwa] Drewniany Kielich",
+      "kr_sha256": "7f2c52dda8dc56b20c28b2a9ce0f57c1cfb7613f50e4f1869e21928e538b2a2d",
+      "en_sha256": "09ae49dfb56328139a5e953b71d20ce8c45811f413e66bea5d201061923ab5db",
+      "origin": "ai"
+    },
+    "dataList[id=9781].simpleDesc[abilityID=97811].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet i zadaje więcej obrażeń",
+      "kr_sha256": "077c19acb3ac339f509ceff6f52521ec238eb6ab088196aa38140f6726cedf26",
+      "en_sha256": "07152fbc95e53955b7dc8076787fe7d943c669610430e8df971a4593d531e7b2",
+      "origin": "ai"
+    },
+    "dataList[id=9781].simpleDesc[abilityID=9781].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Ochronę i odzyskuje Poczytalność",
+      "kr_sha256": "afc1a26ed5d0115e30e82b7b4798ca3854bf4ac70cb508776b6d9c89bcd8b45a",
+      "en_sha256": "873fd2a0711e1ca82b11e71b509b0882848ccd718b1b72ceceb3fcdf9ce73288",
+      "origin": "ai"
+    },
+    "dataList[id=9782].desc": {
+      "pl": "— opis] Na początku tury wszyscy sojusznicy zyskują 1 [ScarletResultUp].\n\nTożsamości Rodu Ostrza lub Klanu Kurokumo zamiast tego zyskują 2 [ScarletResultUp] i 1 [SlashResultUp].",
+      "kr_sha256": "1597e905405c1aea95fa577ad73237b7933bb2687185cb9fab4a62dec6256edc",
+      "en_sha256": "abcc2a014ecc5f8a8a33d300632eac90d527c20497e14190bd692c6bc94342b8",
+      "origin": "ai"
+    },
+    "dataList[id=9782].name": {
+      "pl": "— nazwa] Zużyta Rękojeść",
+      "kr_sha256": "8c4bbf06fc8ac5a6ccab2c86b3654a63d8600db1ec29ceee88967ed25c2ceb71",
+      "en_sha256": "4843c8f07acaf0763756baa6cd21400010736d01d279186588ff40eb708ca08f",
+      "origin": "ai"
+    },
+    "dataList[id=9782].simpleDesc[abilityID=97821].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Żądzy i Wzrost Mocy Cięcia",
+      "kr_sha256": "50b15102d9cac8e42583b95714c9195b28e49228b0826e6f5de021c7c373684e",
+      "en_sha256": "58c5457080e30c161f1f58253549e946c65df79aec29717490212715185faec9",
+      "origin": "ai"
+    },
+    "dataList[id=9782].simpleDesc[abilityID=9782].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Żądzy",
+      "kr_sha256": "75ee334f5f6681fc2996af532b811ece8aa8d8ff46f34b661e89e6a5de08911e",
+      "en_sha256": "863ad09b7187d64758a0c20f734f2d285aaa2191b49091fab48d4db4ba7ef11a",
+      "origin": "ai"
+    },
+    "dataList[id=9783].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Klanu Kurokumo (liczone na polu).\n\nNa początku tury wszyscy sojusznicy zyskują 2 [ScarletResultUp] i 1 [SlashResultUp].\n\nPodstawowe Umiejętności ataku Tożsamości Klanu Kurokumo zyskują Moc Monet +(4/liczba monet, min. 1), nakładają dodatkowo +1 Moc [Laceration], +1 Licznika [Laceration] i zadają +(80/liczba monet)% obrażeń.\n\nUnieważnia pierwszy Próg Oszołomienia Tożsamości Klanu Kurokumo, a jeżeli HP jest poniżej 50% Maks. HP, na początku tury zyskuje 2 [Protection]. Tożsamości Klanu Kurokumo, które otrzymały w tej turze obrażenia od wroga, zyskują w następnej turze 2 [Agility].",
+      "kr_sha256": "22281ae88a277bfda61108c54a2c169fff5e6a709de36363586109f810642ffa",
+      "en_sha256": "71ee2229531f0fc071d25520c0fc7721dc59ae898b269f5c3362f6ab947ecf1b",
+      "origin": "ai"
+    },
+    "dataList[id=9783].name": {
+      "pl": "— nazwa] Olśnienie",
+      "kr_sha256": "21c6afe99ac92bc63021746065e971d87dc73048706b4b517949c5e1d23e410a",
+      "en_sha256": "f47897d523ea05dfffd068fc4eeed939403666d32ea5a25da26e202a57e5d119",
+      "origin": "ai"
+    },
+    "dataList[id=9783].simpleDesc[abilityID=97831].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet, nakłada więcej Krwawienia i Licznika Krwawienia oraz zadaje więcej obrażeń",
+      "kr_sha256": "779811b95254628bea3a6947c8a2ef387a970609a0e24b2686927a082ce0b599",
+      "en_sha256": "1b5a45f79e45b6051e3dd56a1df73628e7c5aa913878ef4951d6dccf9e6288d7",
+      "origin": "ai"
+    },
+    "dataList[id=9783].simpleDesc[abilityID=97832].simpleDesc": {
+      "pl": "— opis skrócony] Unieważnia pierwszy Próg Oszołomienia; zyskuje Ochronę przy HP poniżej progu; zyskuje Pośpiech po otrzymaniu obrażeń",
+      "kr_sha256": "77fda6b01b51e2964add099859be08dc7789776e9fe95bb29970d7ab5c56acd4",
+      "en_sha256": "4a803b27d9555f0d8f3a79124ef4dfab620338e49cf086a81c3f07f5a432fbfa",
+      "origin": "ai"
+    },
+    "dataList[id=9783].simpleDesc[abilityID=9783].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Żądzy i Wzrost Mocy Cięcia",
+      "kr_sha256": "50b15102d9cac8e42583b95714c9195b28e49228b0826e6f5de021c7c373684e",
+      "en_sha256": "58c5457080e30c161f1f58253549e946c65df79aec29717490212715185faec9",
+      "origin": "ai"
+    },
+    "dataList[id=9784].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Rodu Ostrza (liczone na polu).\n\nNa początku tury wszyscy sojusznicy zyskują 2 [SlashResultUp] i zadają +35% obrażeń.\n\nNa początku tury, gdy Tożsamość Rodu Ostrza zadaje wrogowi Krytykę, zadaje dodatkowe obrażenia Pychy równe (Moc [Breath]/2).\n\nJeżeli Tożsamość Rodu Ostrza ma co najmniej 30 Moc [Breath] na koniec tury, zużywa 10 Moc [Breath] i zyskuje w następnej turze 2 [SlashDamageUp].",
+      "kr_sha256": "f3a70a0d7b48c290bccc99a7b6092b1ae99cc5ef207cc253b7d77b3a4fe11e6a",
+      "en_sha256": "7d42c97c4f71334b37954db5bce9e61e2ed48f26dfa2e3b3079fb212b91fc7c9",
+      "origin": "ai"
+    },
+    "dataList[id=9784].name": {
+      "pl": "— nazwa] Doszlifowanie",
+      "kr_sha256": "15d97335ef44ac9769e53635e8a0fb33a59e32c49a8a5653a2522194a9b4bbd1",
+      "en_sha256": "1b08b31b5c0405ad0275ee23e6f6994171e4cbfc07c30d5268aa29320c611a97",
+      "origin": "ai"
+    },
+    "dataList[id=9784].simpleDesc[abilityID=97841].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia Pychy równe (Moc [Breath]/2)",
+      "kr_sha256": "1c64435e4b47b0fe53447a974111451d6d4b86fc6e9148f19023f4730b62426c",
+      "en_sha256": "5a4806c3e6a0591580b6cf32573242ecebf3b5a9a70f6159b5094e3cce1cd54f",
+      "origin": "ai"
+    },
+    "dataList[id=9784].simpleDesc[abilityID=97842].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Obrażeń Cięcia",
+      "kr_sha256": "39462fe8eb5a511d1e7ab11505143af7c62f6151925c0a01a5a29543f143a29c",
+      "en_sha256": "08b6af3a18ea0639b472717224477bdd56aed166ffaed69d4508dc67e6cff657",
+      "origin": "ai"
+    },
+    "dataList[id=9784].simpleDesc[abilityID=9784].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Cięcia i zadaje więcej obrażeń",
+      "kr_sha256": "d28f195967a9bbd917eb003be0daa7634686ce82a12c1c1728fae40069dfbb8d",
+      "en_sha256": "345ae572a044e4b8a1b02a10fd70e9e843b47e8c5a803463708218257123b085",
+      "origin": "ai"
+    },
+    "dataList[id=9785].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Klanu Kurokumo (liczone na polu).\n\nPrzy trafieniu [SuperCoin]em Podstawowej Umiejętności ataku (poza Umiejętnościami E.G.O) zadaje +(40/liczba monet)% obrażeń. Tożsamości Klanu Kurokumo: efekt jest wzmocniony i zadają +(80/liczba monet)% obrażeń.\n\nTożsamości Klanu Kurokumo z Podstawową Umiejętnością ataku Cięcia zyskują na początku tury 2 [SlashDamageUp]. Na koniec tury Tożsamości Klanu Kurokumo zyskują w następnej turze 1 [AttackUp] i 1 [DefenseUp] za każde 10% brakującego HP (każdy maks. 5).\n\nPrzy śmierci Tożsamości Klanu Kurokumo wszystkie Tożsamości Klanu Kurokumo zyskują w następnej turze 2 [AttackDmgUp] (1 raz na turę).",
+      "kr_sha256": "dd1ef43a0ca45e9949606eaa640d8edc2fdf26f7a63f1c2adee2412d0c7fe065",
+      "en_sha256": "3f4caabe77399abe73e0c58e7577ec4a4275ae61c72ec89ab6136b24cab66c79",
+      "origin": "ai"
+    },
+    "dataList[id=9785].name": {
+      "pl": "— nazwa] Rój Chmur",
+      "kr_sha256": "7cb670dd51bfdbf54b227d96c7456d4438744cc90849b6f76bcac0344b42024b",
+      "en_sha256": "af10c4fe3d3cdf60d19fc705e2661af79d6f9e74a583a08f2815f32284168211",
+      "origin": "ai"
+    },
+    "dataList[id=9785].simpleDesc[abilityID=97851].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Obrażeń Cięcia, Wzrost Poziomu Ataku i Wzrost Poziomu Obrony",
+      "kr_sha256": "e6b3c2fe7eeece293a0f8349a7dae78394fb058de83d10d44068036fe64a4276",
+      "en_sha256": "43378f7fe1802f696ba1de444caae61b5aef42a1170730e5fc76e5cd8df30a44",
+      "origin": "ai"
+    },
+    "dataList[id=9785].simpleDesc[abilityID=97852].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Obrażeń",
+      "kr_sha256": "44d430fd5e9ccc23602a5a79699c1c4e1425bf07181567c05a32bd26dd2d7c80",
+      "en_sha256": "bed17143fb007779794c8b9fda035194814db65616d52724503b05ff5e13012c",
+      "origin": "ai"
+    },
+    "dataList[id=9785].simpleDesc[abilityID=9785].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń",
+      "kr_sha256": "d4ec77ede181a2fd74baa455d2efa19d020faf292083212465668e04884e5ad5",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=9786].desc": {
+      "pl": "— opis] Umiejętności Obuchowe zyskują Moc Starcia +1\n- Tożsamości Środkowego: zamiast tego zyskują Moc Starcia +1 i Moc Monet +1\n- Tożsamości Środkowego: jeżeli główny cel ma [RetaliationBook], zamiast tego zyskują Moc Starcia +1, Moc Monet +1 i zadają +10% obrażeń",
+      "kr_sha256": "31c2e1e128cafcc03933a5a18e2f970d489caacce85ccfde5a4298fc16277420",
+      "en_sha256": "7c640852dfb3dcef6dc3dd384dc3eb0f9e57f80e2a73ad42dc2d5dcc3b4a4520",
+      "origin": "ai"
+    },
+    "dataList[id=9786].name": {
+      "pl": "— nazwa] Wzmocnione Tatuaże - Środkowy",
+      "kr_sha256": "5f668230c789150352b1e512bbb1ff31b18a35f1e3828e100f2fa26cba6789c9",
+      "en_sha256": "05efa8fbd2c23a9cb2a1bcf236e17d21f14d37291c69ed0ba56db2b893c82fee",
+      "origin": "ai"
+    },
+    "dataList[id=9786].simpleDesc[abilityID=9786].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia. Tożsamości Środkowego zyskują dodatkowo Moc Monet i zadają więcej obrażeń",
+      "kr_sha256": "0afa8d14953fa7746b02014a1b5eae6744d469defa508076de52fa40538ba5dc",
+      "en_sha256": "38bb3b65e69fe34eac5a1087244a7bac64f897a8b36f223923d7559a5f7ce535",
+      "origin": "ai"
+    },
+    "dataList[id=9787].desc": {
+      "pl": "— opis] Przy pokonaniu Umiejętnością ataku celu z [Burst] (w potyczkach skupionych — zniszczeniu Partii), dzieli Moc [Burst] celu między wszystkich wrogów (w potyczkach skupionych — wszystkie Partie) (po maks. 2, zaokrąglone w dół)\n\nPrzy pokonaniu Umiejętnością ataku celu z [BurstAgility] (w potyczkach skupionych — zniszczeniu Partii), zamiast tego dzieli Moc [Burst] i Licznik [Burst] celu między wszystkich wrogów (w potyczkach skupionych — wszystkie Partie) (po maks. 2, zaokrąglone w dół)",
+      "kr_sha256": "866f6a5c02681b285a99c59223a1958e2f017ef8a5c9d535a46f2d10bc42de5f",
+      "en_sha256": "720c7315fa4ed495cc5bee5bcae2c00b4a2942938f9ff4a2a114ec4add570df2",
+      "origin": "ai"
+    },
+    "dataList[id=9787].name": {
+      "pl": "— nazwa] Talizman Dziwnych Glifów",
+      "kr_sha256": "e944ab95084f60076e9b731cbc6089169d5064cc86c171ab89bbeeb4cc78b3be",
+      "en_sha256": "2a46e8cd4acea430a3f45f9774331c0fc824243b60843fa0e7055113fd5a0c5b",
+      "origin": "ai"
+    },
+    "dataList[id=9787].simpleDesc[abilityID=97871].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Moc Rozdarcia i Licznik Rozdarcia",
+      "kr_sha256": "1e1d04c6b28ca30e856936b3f90aee242b31f2a9d3d2c7bab373a5b1fbb7a02a",
+      "en_sha256": "e03684a89ef1f5113c8cadd458d1f72f08be522e757f985ebc7f6df259540f5d",
+      "origin": "ai"
+    },
+    "dataList[id=9787].simpleDesc[abilityID=9787].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Rozdarcie",
+      "kr_sha256": "f34ebb54c86a2ab5927d632ad4dd129fa5414f4366cf3c7e13e28abff7436c13",
+      "en_sha256": "25c51c16ce8c1ad8e368c45d55649bf5bead30e5b47e5963d3e4ce00eba2831b",
+      "origin": "ai"
+    },
+    "dataList[id=9788].desc": {
+      "pl": "— opis] Gdy Szybkość jest wyższa niż celu, nakłada dodatkowo (różnica Szybkości/3) Mocy Rozdarcia lub Licznika Rozdarcia na cel Umiejętnościami je nakładającymi (maks. 3)",
+      "kr_sha256": "a0633d440e5b6f6003bcc1353fbd076c05f856e35bb805ebdc72ce34e23b31dc",
+      "en_sha256": "1ea01dfd250844889423f909d57084ce05bf062a3816d297f1eb3552d610c414",
+      "origin": "ai"
+    },
+    "dataList[id=9788].name": {
+      "pl": "— nazwa] Zajączy Krok",
+      "kr_sha256": "f9ceb6cfded940f9f9701c72fba03ba47e95a23cd793db68e572f864786161db",
+      "en_sha256": "52a7e6c8217f32687f77bea01fcec17717f8b508f6802fe351bc2372ea1eabaf",
+      "origin": "ai"
+    },
+    "dataList[id=9788].simpleDesc[abilityID=9788].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Rozdarcie lub Licznik Rozdarcia",
+      "kr_sha256": "608976bba60718c48e62a3fe401ce83931335154a3ddaaec559aeba7743fc961",
+      "en_sha256": "0935a960e0b5173d02741dfbfa74568e14d4cc7a24ff3ffd1523d5c51166b2e8",
+      "origin": "ai"
+    },
+    "dataList[id=9789].desc": {
+      "pl": "— opis] Gdy Tożsamość tej samej frakcji zostanie trafiona, wszyscy z tej samej frakcji zadają +5% obrażeń Uderzenia (do 15% na turę)\n\nTożsamości Środkowego: zamiast tego zyskują 1 [AttackUp] i zadają +10% obrażeń Uderzenia (do 3 na turę, maks. 30%)",
+      "kr_sha256": "6e714ab26ce64734b5dde3d5253a7112e64e66de706feae1453eb696c727cb85",
+      "en_sha256": "65292e620e4b5c8103f2154f8b3422d27029a669787c6556b2df110202147a44",
+      "origin": "ai"
+    },
+    "dataList[id=9789].name": {
+      "pl": "Łańcuch Wierności",
+      "kr_sha256": "c324370f062507516b3e6c195921832ee18a90570c8d4d9031873a4984b1c785",
+      "en_sha256": "4de0dbedb4f265e7900cc70da5d64bef67559ee56aa2d82edd7bb8f1a61d3ecd",
+      "origin": "ai"
+    },
+    "dataList[id=9789].simpleDesc[abilityID=9789].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń Uderzenia. Tożsamości Środkowego zyskują dodatkowo Wzrost Poziomu Ataku",
+      "kr_sha256": "908fea7920eeaf8e30b4dfdd433b044a2465154edf0dd2289970860075dc894d",
+      "en_sha256": "8ee07a1688b067717a5690d92821522832c887b6ff483731a1c9498a431b919d",
+      "origin": "ai"
+    },
+    "dataList[id=9790].desc": {
+      "pl": "— opis] Podczas starcia z celem z [Burst], zyskuje Moc Starcia równą (Moc [Burst] celu/20) (maks. 2)\n- Podczas starcia z celem z [BurstAgility], zamiast tego zyskuje Moc Starcia równą (Moc [Burst] celu/15) (maks. 3)\n\nZadając obrażenia efektem [BurstAgility], zadaje obrażenia stałe równe (obrażenia [BurstAgility]/3)",
+      "kr_sha256": "d67d1cfaea3a16e96760ccac9e43009fc30b3a4a082030d0979ff4144c169e30",
+      "en_sha256": "74a369f27327a8313509490c72e6100eb8e5be8aa69b46b64e097b64863c8d48",
+      "origin": "ai"
+    },
+    "dataList[id=9790].name": {
+      "pl": "— nazwa] Wyryte Dziwne Glify",
+      "kr_sha256": "10fbe80d76bc9adc1dcb7a32f8fb3da940d1664ab0470ec2a240f87308c1c660",
+      "en_sha256": "1e9f4574ab6190dca441e01e7f5d00d5375b2446cb4375398c5d3839f6c528ff",
+      "origin": "ai"
+    },
+    "dataList[id=9790].simpleDesc[abilityID=97901].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia, gdy zadaje obrażenia Talizmanem Sfory Heishou - Mao",
+      "kr_sha256": "65af3342b28f733ae47be5b069c2c4bf831cf9496956f3ae5eb57e2e688ea0c7",
+      "en_sha256": "b3437c5f14790bcb5273fc7848a53e3a74dd3ba8e79ee954ace4c2633fd09c6e",
+      "origin": "ai"
+    },
+    "dataList[id=9790].simpleDesc[abilityID=9790].simpleDesc": {
+      "pl": "Wzrost Mocy Starcia",
+      "kr_sha256": "e7b660580984f8796373ad58bb8883cb65d6cf9b51f7eaf3ed5ca1555db7e13d",
+      "en_sha256": "d8b83de6fd4c15a31918f3d1771a03d84034105be5f6b6884d836fea302a7430",
+      "origin": "ai"
+    },
+    "dataList[id=9791].desc": {
+      "pl": "— opis] Na koniec tury Tożsamości Sfory Heishou - Odgałęzienie Mao zyskują w następnej turze 2 [Agility]\n\nJeżeli Szybkość jest wyższa niż celu lub podczas ataków nieopartych, zadaje +10% obrażeń Cięcia za każde (różnica Szybkości/3) (maks. 30%)\n\nJeżeli Szybkość jest wyższa niż celu, otrzymuje -10% obrażeń za każde (różnica Szybkości/3) (maks. 30%)",
+      "kr_sha256": "4049d3fd3b147b1426a742e6b6b1bb164db2e2227bf1866bd575ecad1d9bd962",
+      "en_sha256": "bd7ee46aa3699dea426ccdd1d6edfc7da306d5c9a7b48a48cbd1e356b4b20258",
+      "origin": "ai"
+    },
+    "dataList[id=9791].name": {
+      "pl": "— nazwa] Cienisty Kapelusz Bambusowy",
+      "kr_sha256": "9acdb46aa15c7fb5d2b3addd8e5c97f31c5de0430f05c218634f84e3973e1eae",
+      "en_sha256": "b6b292e93e64f8d65735a7ccb515131d89f51cd603ca6b616668ecde0dcd9bb6",
+      "origin": "ai"
+    },
+    "dataList[id=9791].simpleDesc[abilityID=97911].simpleDesc": {
+      "pl": "Wzrost Obrażeń Cięcia",
+      "kr_sha256": "c6520b281762786b88ea90a44638cf12375c82b6b6d07cc7c509b22c7f39d482",
+      "en_sha256": "149a908668c7ac349d817cbcfdeb389564bb3fce0e247f0cac808a7ad1d6f052",
+      "origin": "ai"
+    },
+    "dataList[id=9791].simpleDesc[abilityID=97912].simpleDesc": {
+      "pl": "— opis skrócony] Otrzymuje mniej obrażeń",
+      "kr_sha256": "30933acd108b85328713f3ee64ff5b30f13878fe0d81383b00d7b0a5cec0fd34",
+      "en_sha256": "c12f70b6ebdf5ef14943cd3c2d44cd05c1b2dd91edbb1f742c38edb105e9187c",
+      "origin": "ai"
+    },
+    "dataList[id=9791].simpleDesc[abilityID=9791].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Pośpiech",
+      "kr_sha256": "9519eae5d4f921e6c677171ffb7e1baaff912704aae1e344f8053fd0b60ad8a9",
+      "en_sha256": "8216425cbeb959021c94e54f1f749979f0fa48d231d7f7f2561e263b1d8530bf",
+      "origin": "ai"
+    },
+    "dataList[id=9792].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 2 Tożsamości Środkowego (liczone na polu).\n\nGdy Tożsamość tej samej frakcji zostanie trafiona, wszyscy z tej samej frakcji zadają +5% obrażeń Uderzenia (do 15% na turę)\nTożsamości Środkowego: zamiast tego zyskują Wzrost Poziomu Ataku 1 i zadają +10% obrażeń Uderzenia (do 3 na turę, maks. 30%)\n\nUmiejętności Obuchowe zyskują Moc Bazową +1\n- Tożsamości Środkowego: zamiast tego zyskują Moc Bazową +1 i Moc Monet +1\n- Tożsamości Środkowego: jeżeli cel ma [RetaliationBook], zamiast tego zyskują Moc Bazową +1, Moc Monet +1 i zadają +30% obrażeń\n\nTożsamości Środkowego: podczas walki minimalna Szybkość +1 i Maks. Szybkość +1",
+      "kr_sha256": "b78ca70fea44fc85e1aa0694702a784892f718b3cf17f856e518c3e71532563b",
+      "en_sha256": "ad4b425ee72960ab853fc71861810986061129bd08d61483bc1ea28c21dabe2a",
+      "origin": "ai"
+    },
+    "dataList[id=9792].name": {
+      "pl": "— nazwa] Nieskończony Łańcuch Więzi",
+      "kr_sha256": "9948014352d859df7b1a1acf57e0d3df8c50b0f44dff357aa9e4b1a8fbe95261",
+      "en_sha256": "b8b793df1841e2a2ba3276639d0b8a9e4e846f871de9eb4fd957735a850bfa64",
+      "origin": "ai"
+    },
+    "dataList[id=9792].simpleDesc[abilityID=97921].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Mocy Umiejętności Obuchowych",
+      "kr_sha256": "80a67e938174c0ed876864b0cd8455f82dde59831aab89420f1fb19cc8167561",
+      "en_sha256": "98623c623ef6b7cd2697432d4ce8df3571b2bbec3e73d56972a3647a7748e88c",
+      "origin": "ai"
+    },
+    "dataList[id=9792].simpleDesc[abilityID=97922].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje minimalną i Maks. Szybkość",
+      "kr_sha256": "e3762230051fb653c76788c784dc9d93fc48842237ad6833619114d1947d4074",
+      "en_sha256": "42ba6723afaaf7351c4bc8e70f4a6a16ee29e498b0b7ca1e083a10c41940d323",
+      "origin": "ai"
+    },
+    "dataList[id=9792].simpleDesc[abilityID=9792].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń Uderzenia. Tożsamości Środkowego zyskują dodatkowo Poziom Ataku",
+      "kr_sha256": "c19b7f25d615c7a6dc8ab24aa36c135ffab9ace800434136baca61383e7aa8a3",
+      "en_sha256": "8ee07a1688b067717a5690d92821522832c887b6ff483731a1c9498a431b919d",
+      "origin": "ai"
+    },
+    "dataList[id=9793].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Burst] lub Licznik [Burst] (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie)\n\nPrzy pokonaniu Umiejętnością ataku celu z [Burst] (w potyczkach skupionych — zniszczeniu Partii), dzieli Moc [Burst] celu między wszystkich wrogów (w potyczkach skupionych — wszystkie Partie) (po maks. 3)\n\nPrzy pokonaniu Umiejętnością ataku celu z [BurstAgility] (w potyczkach skupionych — zniszczeniu Partii), zamiast tego dzieli Moc [Burst] i Licznik [Burst] celu między wszystkich wrogów (w potyczkach skupionych — wszystkie Partie) (po maks. 6)\n\nPodczas starcia z celem z [Burst], zyskuje Moc Starcia równą (Moc [Burst] celu/20) (maks. 2)\n- Podczas starcia z celem z [BurstAgility], zamiast tego zyskuje Moc Monet równą (Moc [Burst] celu/10) (maks. 2)\n\nZadając obrażenia efektem [BurstAgility], zadaje obrażenia stałe równe (obrażenia [BurstAgility]/2)",
+      "kr_sha256": "dc73a1c0102c398e996db47826fc293fc1fb2d6a8aed3d99ce1e9da959fde276",
+      "en_sha256": "441ffacb6863ff91bb025e2dce925afb9eb2a7726246589d7818c77127b040f6",
+      "origin": "ai"
+    },
+    "dataList[id=9793].name": {
+      "pl": "— nazwa] Glif Szklanych Odłamków",
+      "kr_sha256": "ccd68a0c18bcd4a3887789aacd352f41905267e43f81dca3379441f51b607111",
+      "en_sha256": "7f078d34d9425c83b076b154a94f114cfc005aa6493a08c701b064894ed80f13",
+      "origin": "ai"
+    },
+    "dataList[id=9793].simpleDesc[abilityID=97931].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Rozdarcie",
+      "kr_sha256": "f34ebb54c86a2ab5927d632ad4dd129fa5414f4366cf3c7e13e28abff7436c13",
+      "en_sha256": "25c51c16ce8c1ad8e368c45d55649bf5bead30e5b47e5963d3e4ce00eba2831b",
+      "origin": "ai"
+    },
+    "dataList[id=9793].simpleDesc[abilityID=97932].simpleDesc": {
+      "pl": "Wzrost Mocy Starcia",
+      "kr_sha256": "e7b660580984f8796373ad58bb8883cb65d6cf9b51f7eaf3ed5ca1555db7e13d",
+      "en_sha256": "d8b83de6fd4c15a31918f3d1771a03d84034105be5f6b6884d836fea302a7430",
+      "origin": "ai"
+    },
+    "dataList[id=9793].simpleDesc[abilityID=97933].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia, gdy zadaje obrażenia Talizmanem Sfory Heishou - Mao",
+      "kr_sha256": "65af3342b28f733ae47be5b069c2c4bf831cf9496956f3ae5eb57e2e688ea0c7",
+      "en_sha256": "b3437c5f14790bcb5273fc7848a53e3a74dd3ba8e79ee954ace4c2633fd09c6e",
+      "origin": "ai"
+    },
+    "dataList[id=9793].simpleDesc[abilityID=9793].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Rozdarcie",
+      "kr_sha256": "f34ebb54c86a2ab5927d632ad4dd129fa5414f4366cf3c7e13e28abff7436c13",
+      "en_sha256": "25c51c16ce8c1ad8e368c45d55649bf5bead30e5b47e5963d3e4ce00eba2831b",
+      "origin": "ai"
+    },
+    "dataList[id=9794].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #2 i #4]\n\nGdy otrzymuje obrażenia redukujące HP do 0, z 60% szansą nie otrzymuje tych obrażeń i odzyskuje 30 HP. (1 raz na Tożsamość na potyczkę)\nPoniższe sytuacje wyłączają efekt zapobiegania śmierci i odzyskiwania HP:\n- Gdy obrażenia Umiejętności przekraczają Maks. HP jednostki\n- Gdy jednostka ma efekt Spadku Leczenia HP",
+      "kr_sha256": "c55cc3cf635a214aed58b701e9f2fac1137624450ae962e54e7e8116d9155e6c",
+      "en_sha256": "ddb070f817ff78d48415fcc492f78cf516e92c83ef35b3cbbbb8eaf7a88097e0",
+      "origin": "ai"
+    },
+    "dataList[id=9794].name": {
+      "pl": "— nazwa] Chlupoczący Zbiornik Paliwa",
+      "kr_sha256": "3851673f81f5b66460a2b2e39034ee7bd239c38093d6bc881a7bfe0c658ba8f9",
+      "en_sha256": "4389a051c86e3274670cbee3ae963e7a0fe96bc12314358ca9f702886e6e6daa",
+      "origin": "ai"
+    },
+    "dataList[id=9794].simpleDesc[abilityID=9794].simpleDesc": {
+      "pl": "Odzyskiwanie HP",
+      "kr_sha256": "97bffd4ac2751f97188b092b8c96060844f8b739e0200e26bce545612cc11f95",
+      "en_sha256": "88d4b9ecef43d8c1cf3c9e8014e6366550303638f827ff5012e811813a5b6af5",
+      "origin": "ai"
+    }
+  }
+}

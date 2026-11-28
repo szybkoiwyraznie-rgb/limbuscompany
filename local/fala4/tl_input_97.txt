@@ -1,0 +1,96 @@
+9416||PersonVoice#Voice_Ishmael_LiuAsso4_10806.json] 분위기가 좋은 것 같다고요? 뭐… 그렇게 보일 수도 있겠네요. 저희야 워낙, 모여서 부대끼는 일이 잦으니까요.\n흥, 하지만 식사자리에는 잘 안 따라와 주는 걸요.|We look like we get along fine? Well... I see how you get that impression. We gather up and rub shoulders with each other pretty much all the time, after all.\nHmph, and yet they won't join me to dine nearly as often.
+9417||PersonVoice#Voice_Ishmael_LiuAsso4_10806.json] 리우 협회에서는 워낙 다양한 권법이나 무술을 배울 수 있는 기회가 있는데 저는 팔극권이 취향에 맞더라고요.|Liu Association offers opportunities to learn all kinds of martial arts and techniques, Bajiquan was my personal favorite.
+9418||PersonVoice#Voice_Ishmael_LiuAsso4_10806.json] 아… 날붙이에 어떻게 대응하냐고요? 훗, 이 자켓은 그런 것에 쉽게 뚫리지 않는답니다. 저보다 더 윗 과에 계신 분들의 원단은 더 한 것도 막을 걸요?|Ah... You wanna know how we deal with sharp weapons? Heh, this jacket isn't easily penetrated by the likes of them. The fabric used by my coworkers in higher sections can stop even more, I think?
+9419||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 으윽… 머리에… 소음이 너무 심해요…|Urgh… My head… Too much noise…
+9420||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 아!|Argh!
+9421||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 다행… 이네요… 제정신인 동안 끝나서.|How… fortunate… We managed to end this while I was sane.
+9422||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 윽… 전류가 너무 강하게 방출되었어요. 괴롭지만… 다행이에요.|Hngh… The electric discharge was too intense. It hurts, but… at least it’s over.
+9423||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 큭… 머리가… 다른 사람들은 모두 정신 괜찮나요?|Gah… My head… Are everyone else’s psyches alright?
+9424||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 후… 전투에 임하겠습니다.|Huff… Engaging in combat.
+9425||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 정신이 물러… 터졌군요.|Your mind… is too easy to blow.
+9426||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 후… 소란이 줄었네요.|Huff… The noise is reduced a little.
+9427||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 제정신이랍니다… 아직은.|I’m in my right mind… for now.
+9428||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 빨리 시작하시죠.|Let’s hurry up and get to it.
+9429||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 죄송합니다. …윽, 머리가 깨지겠어요.|Apologies. …Nrh, my head is pounding.
+9430||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 완수… 했어요.|Task… complete.
+9431||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 크윽… 준비, 되었어요.|Kngh… I’m—ready.
+9432||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 윽… 하아, 힘이 강해진 것 같긴 한데… 두통도 더 심해진 것 같네요…|Hngh… Haah, I feel my power has grown more potent… but my headache’s gotten worse, too…
+9433||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 후, 복잡한 건 생략하죠. 제가 뭘 하면 되나요?|Huff, let’s skip the formalities. What do I need to do?
+9434||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 아침엔 주로 명상을 하는 편이에요. 최대한 정신을 비워놔야 하거든요.|I normally spend my morning in meditation. I have to cleanse my mind of distractions.
+9435||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 후… 이제야 차분해질 수 있겠네요. 말 걸지 말아주세요. 좀 쉬고 싶거든요.|Phew… I can finally have some peace and quiet. Please don’t talk to me. I need the rest.
+9436||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 하아, 점심시간엔 다들 왜 이렇게 소란스러운 거죠? 조용히 밥만 먹으면 안 되는 걸까요?|Haah, why is everyone so noisy around noon? Can’t they have their meals quietly?
+9437||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 제가 제일 싫어하는 것 중 하나에요. 불러 놓고 먼저 사라지기.|You’re doing one of my least favorite things: calling me here only to leave me behind.
+9438||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 큭… 잠시만요. 머, 머리가 깨질 듯이… 아… 이제 나아졌어요. 요새 자주 이러네요.|Knh… Give me a moment. My—my head, it’s splitting… Ahh… I’m better now. It’s been happening a lot recently.
+9439||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 저는 항상 집중하고 있어야 해요. 그 말은 즉, 관리자님의 사사로운 대화에 맞춰줄 수 없다는 뜻이기도 하고요.|I must remain focused at all times. In other words, I cannot afford to engage in unimportant chitchats with you.
+9440||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 으… 혹시라도 제 뿔이 곧 부서질 듯 진동하고 있으면, 모두에게 대피 명령을 내려주세요…|Unh… If you see my antlers vibrating like they’re about to break, tell everyone to evacuate…
+9441||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 관리자님, 그럴 리는 없겠지만… 혹시 제가 정신을 놓아버리게 되는… \n어느 날이 온다면… 그것도 시계로 해결이 될까요?|Manager, hypothetically speaking… in the slightest chance that I lose my mind…\nIf that does occur… can your clock reverse that, too?
+9442||PersonVoice#Voice_Ishmael_RCorp4_10802.json] 정신을 항상 놓지 않게 버티고 있어야 한다는 건… 잘 때도 정신의 일면은 항상 깨어 있어야 한다는 거예요. \n숙면이란 게 어떤 느낌인지, 기억도 안 나네요.|Keeping tight reins on my sanity… entails maintaining conscious control even in my sleep.\nI don’t remember what deep sleep feels like anymore.
+9443||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 후… 잘 숨었더라면 괜찮았을 텐데.|Huff… You’d have been fine if you stayed hidden.
+9444||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 아!|Ah!
+9445||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 정해진 결말이죠. 다음 작전은 어떤 거죠?|A predetermined conclusion. What’s my next mission?
+9446||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 깔끔한 전투였어요. 적의 모든 급소를 파악했거든요.|That was a smooth battle. I was able to see through all the enemy’s weaknesses.
+9447||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 제가 지나치게 빨랐던 건가요?|Was I too fast for everyone else to follow?
+9448||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 그 누구도 볼 수 없게.|Unseen by any.
+9449||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 다음은 침묵을 안겨드리죠.|I’ll render you silent next.
+9450||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 완전한 침묵.|Total silence.
+9451||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 임무 중에 찾아오시면 안 되는데…|You aren’t supposed to visit me in the middle of a mission…
+9452||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 목표인가요? 손쉽죠.|Is that my target? Should be easy.
+9453||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 이번 임무의 성공 확률은 고지 드렸던 것 같은데요…|I’m sure I told you the likelihood of success for this mission…
+9454||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 이 정도는 하급 임무 축에도 안 드네요.|Wouldn’t even count as a low rank mission.
+9455||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 모두에게, 평등하게.|An equal fate to all.
+9456||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 보여드리죠. 더욱 깔끔하고 확실하게.|I’ll repay the favor with my performance, now that it’s more reliable and efficient.
+9457||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 누구보다 신속하게… 그들에게 침묵을 안겨드리죠.|With impeccable swiftness… I will render them silent.
+9458||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 언제나 아침은 고요하죠. 의외로 행인이 없으니, 암살에도 적합한 시간대입니다.|The morning is always quiet. It’s also a surprisingly viable time for assassination due to the lack of passersby.
+9459||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 달빛이 흩어지네요… 이런 날에는 그림자에 숨어들기 좋죠.|The moonlight scatters… This is an opportune day for blending into the shade.
+9460||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 할 말 있으신가요? 기다려드릴 시간 정도는 있어요.|Is there anything you want to say? I can afford a moment to hear it.
+9461||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 관리자 님…? 제가 못 찾을 거라고 생각하시나요?|Executive Manager…? Do you really think you can hide from me?
+9462||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 저는 언제나 지켜보고 있어요, 관리자님. 그저 저를 불러주기만 하세요.|I’m always watching, Manager. Just call when you need something.
+9463||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 다음 목표를 알려주세요. 신속하게 시작할게요.|Give me my next target. I’ll make quick work of them.
+9464||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 요새 히스클리프 씨가 심기를 거슬리게 하는데… 뭐, 결과는 나쁘지 않으니까요. 이 수첩이요? …아무것도 아니에요.|Heathcliff has been irritating me lately… Though, I can’t deny that he brings serviceable results with him. This note? …It’s nothing to worry about.
+9465||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 제가 예전에 있었던 곳… 거기에 단테 씨가 있었더라면 결과가 조금은 달라졌을까요?\n 그 지옥조차도… 조금은 살만했을까요.|Where I used to be… would things have gone differently if you were there with us?\nCould that hell have been… somewhat bearable?
+9466||PersonVoice#Voice_Ishmael_ShiAsso5_10803.json] 전 붉은 색이 좋아요. 색이 진해질수록 피는 멎지 않고 끝이 앞당겨지니까요. …\n그리고 단테씨의 머리 색과도 같잖아요.|I favor the color red. A deeper hue bespeaks an unstopping hemorrhage and briskly arriving demise.\n…Plus, it’s the color of your head, too.
+9467||PersonVoice#Voice_Ishmael_Sode_10804.json] …의무팀, 의무팀은 없어요?|…Medic, don’t we have a medical team?
+9468||PersonVoice#Voice_Ishmael_Sode_10804.json] 임무 완료. 절차대로 복귀하겠습니다. 교신 끝.|Mission complete. Returning to base per procedure. Out.
+9469||PersonVoice#Voice_Ishmael_Sode_10804.json] 이 정도면 훈장감… 아, 정정! 임무 완료라고 알림. 교, 교신 끝!|This could earn me a medal… Ah, disregard this transmission! Mission complete. I-Ishmael, out!
+9470||PersonVoice#Voice_Ishmael_Sode_10804.json] 제 방식은 완벽했어요. 원인은 다른 곳에서 찾아보길 바란답니다.|My methodology was flawless. If you’re looking for a reason we failed, kindly search elsewhere.
+9471||PersonVoice#Voice_Ishmael_Sode_10804.json] 교전 시작합니다.|Engaging the target.
+9472||PersonVoice#Voice_Ishmael_Sode_10804.json] 표적 무력화.|Target incapacitated.
+9473||PersonVoice#Voice_Ishmael_Sode_10804.json] 표적, 완전 무력화.|Target neutralization confirmed.
+9474||PersonVoice#Voice_Ishmael_Sode_10804.json] …수신.|…Wilco.
+9475||PersonVoice#Voice_Ishmael_Sode_10804.json] 준비는 끝났습니다. 명령 대기.|Preparations are complete. Awaiting orders.
+9476||PersonVoice#Voice_Ishmael_Sode_10804.json] 실패… 라고 알림.|Mission status… failure.
+9477||PersonVoice#Voice_Ishmael_Sode_10804.json] 아, 상황 종료라고 알림.|Ahem, reporting in that we’re all clear.
+9478||PersonVoice#Voice_Ishmael_Sode_10804.json] 작전호출, 입감.|Mission confirmed, now on stand-by.
+9479||PersonVoice#Voice_Ishmael_Sode_10804.json] 승진이요? 네, 알고 있었답니다. …고맙다는 인사는 해야겠네요.|A promotion? Yes, I was aware of it. …I do suppose I owe you some thanks.
+9480||PersonVoice#Voice_Ishmael_Sode_10804.json] 본 측, 이스마엘. 제가 도와드릴 게 있나요?|Ishmael speaking. Is there anything I can help you with?
+9481||PersonVoice#Voice_Ishmael_Sode_10804.json] 아, 아침… 체조 중이랍니다. 미리 몸을 풀어놓고 있어야 되거든요.|Ah, I was… doing my morning routine. I need to warm up my body for what’s to come.
+9482||PersonVoice#Voice_Ishmael_Sode_10804.json] 문제없는 하루였나요, 관리자님? 저는 이제야 좀 쉴 것 같네요.|Did you have an untroubled day, Manager? It looks like I can finally rest.
+9483||PersonVoice#Voice_Ishmael_Sode_10804.json] 밥은 항상 균형 잡힌 식단으로 먹어야 해요. 진정한 프로는 편식 따위 하진 않으니까요.|I make sure to have a balanced diet at all times. True professionals are not picky eaters.
+9484||PersonVoice#Voice_Ishmael_Sode_10804.json] 하… 또 다른 분들 뒤치다꺼리 하러 가신 건가요?|Sigh… Have you gone off to clean up after the others again?
+9485||PersonVoice#Voice_Ishmael_Sode_10804.json] 전 효율적인 작전 설계와 정찰 방법에 대해 누구보다 잘 알고 있답니다.|I know better than anyone about efficient mission planning and reconnaissance.
+9486||PersonVoice#Voice_Ishmael_Sode_10804.json] 관리자님의 핵심 능력 중 하나는 팀의 에이스를 어떻게 잘 써먹느냐는 거겠죠.|One of the key qualities a manager must possess is the ability to utilize the ace members of their team.
+9487||PersonVoice#Voice_Ishmael_Sode_10804.json] 작전이 내려오면, 누구누구처럼 무작정 돌진 하는 것만큼 최악의 행동은 없답니다. 모든 변수를 다 예상해야 해요.|When carrying out missions, there’s nothing worse than charging in without a thought—like a certain someone. You need to anticipate every variable.
+9488||PersonVoice#Voice_Ishmael_Sode_10804.json] 알아요, 제가 가끔은 강박적인 수준으로 사전 계획에 집착하고 있다는 거요. \n하지만 사소한 실수가 분열로, 그리고 전멸로 이어지는 건 다 아시겠죠.|I know—I know I can be obsessive about preplanning at times.\nIn my defense, however, you should be well aware that even a small mistake can lead to discordance and consequently a total wipeout.
+9489||PersonVoice#Voice_Ishmael_Sode_10804.json] 가끔… 관리자님의 능력을 보면 다행이다 싶다가도 뼛속까지 허무해지기도 해요. \n제대로 된 수습도 없이 죽어간 옛 대원들은...|Occasionally… your capabilities reassure me, Manager. But at the same time, it leaves me with this empty feeling.\nThinking about my old teammates—they couldn’t even be given a proper burial…
+9490||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 어우…|Oww...
+9491||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 얼른 돌아가서 씻고 쉬기나 하자고요.|Come on, let's go home 'n clean and rest up.
+9492||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 흠… 이 정도면 보수도 짭짤하겠는데. 다들 땅고기 외식이나 할까요?|Hmm... This'll be pretty lucrative. How about we barbecue some land animal for once?
+9493||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 아… 하… 이렇게 끝나는… 건가?|Ah... Haa... Is this... the end?
+9494||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 에휴… 이러면 위약금 물어야 하는 거 아닌가?|Sigh... Now I gotta pay the penalty fees, don't I?
+9495||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 꽂아 터트려주지.|I'll harpoon and crack you open.
+9496||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 얼얼하지, 정신 못 차릴 거야.|How's that? Painful, I'm sure.
+9497||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 파쇄 완료.|Crushed it.
+9499||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 잠수 준비 끝.|Ready to dive.
+9500||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 견적이 안 나오네, 이거…|Man, I'm not sure about this...
+9501||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 좋아, 잘 됐네!|Nice, I did it!
+9502||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 다들, 연장 챙기죠.|Grab your tools, everyone.
+9503||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 엇챠… 크<size=110%>랲</size> 드라이버를 좀 더 개조해 봤죠. 아무래도 역시 이걸로 그 큰 놈을 잡아봐야 겠어요.|Hup... I made a few modifications to the crab driver. I might try using this one to get the big guy.
+9504||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 하, 가까이 오지 마세요. 아직 잡아야 할 게들이 산더미니까. 그리고… 게 내장 묻을 수도 있어요.|Haah, keep your distance. I still have loads of crabs to hunt. Plus... you do NOT want crab guts on you.
+9505||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 아침에 일찍 일찍 움직여야죠. 저녁거리도 미리 잡아둬야하고, 술 마실 시간도 벌어야 하니까.|Early bird gets the worm, you know. And the dinner. And the time for drinking.
+9506||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 해가 졌으니까, 슬슬 쉬어봐야죠. 마침…? 담궈놓았던 비장의 술이 완성되는 날이거든요! 후후.|Well, the sun's gone down, and it's about time I went home for the day. And guess what? Today I pop the cork off my secret wine! Hehe.
+9507||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 후… 푹푹 찌네요. 정말. 그거 아세요? 여긴 한낮일 때 뻘에서 올라오는 습기랑 비린내가 장난 아니예요. 짜증만 한가득 난다니까요?|Phew... It's sweltering. Seriously. Wanna know what's more? Come midday, this place gets awful humid and begins to reek of fish. It's infuriating.
+9508||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 후우… 푹푹 찌는구만…|Whew... it's so hot out here...
+9509||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 날씨만 좀 선선해도 할 만할 것 같은데, 으…|If only the weather was a bit cooler. Ugh...
+9510||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 어어… 그 크<size=110%>랲</size> 드라이버 위험해요. 폐품으로 급조하고 덧댄 거라, 잘 모르고 사용하면 뼈가 부러질 수도 있다고요.|Hey... Be careful with that crab driver. It's got a makeshift mod with scraps, so it could break your bones if you're not careful.
+9511||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 아, 지금 하고 있는거요? 잇, 이렇게 폐품은 크<size=110%>랲</size>게에게서 전부 떼어 전달해 줘야 하니까요… 그래야 폐품으로 새로운 부품을 만들고, 보트 센터도 운영하고. 요리하기에도 용이해질 테니까요.|Oh, what am I doing? Uh, we have to pull the scraps off the trash crabs first before processing them... That's how we make new stuff with the scrap, run the workshop, and cook us up dinner.
+9512||PersonVoice#Voice_Ishmael_Ucorp_10807.json] 그러고 보니… 그 커다란 놈이 우리 공방이 있는 곳까지 기어 올라온 적이 있었어요. 완전 밑바닥일 때부터 저희를 도와주셨던 분들을 전부 죽이고… 유유히 떠났죠.\n뭐, 그렇다고 특별한 악감정은 없어요. 그 큰 놈도 그렇고, 저도 그렇듯이. 생존을 위해 싸우는 것 뿐이죠. …그게 그놈인지도 모르겠고.|Now that I think about it... the big one once crawled all the way up to our workshop. It killed everyone that helped us get started and... just left.\nI don't harbor any hatred against it, though. The big guy, me, we're both just fighting to survive. ...I don't even know if it's the same one, either.

@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=912501].title": {
+      "pl": "Pogrzeb",
+      "kr_sha256": "95d4d16c44d9745f4653090def8835d09672b9b6d54cf2569075785d3381ff35",
+      "en_sha256": "5fc0b80512c542779aee4b5c9519d748c67042af7ebfe6dc8e8f28495bfb8f61",
+      "origin": "ai"
+    },
+    "dataList[id=912502].title": {
+      "pl": "Ocalała",
+      "kr_sha256": "ef05791d2124f67a44e3302d706121735be7f295696941c4d1212f1f722767ed",
+      "en_sha256": "51b40c9947e4735a4b2e949c262bddab5549473f92b7cbebfce78c1f8acd76b6",
+      "origin": "ai"
+    },
+    "dataList[id=912503].title": {
+      "pl": "Wayfarer",
+      "kr_sha256": "2c0d87209e42b988c6cb508b9d2a2bfa0d3542f436c633b1cdb86920299f9d15",
+      "en_sha256": "231aab7cf65c34e7b3a550cf1609674d48ada951b592ee6f9011cfe4209287fb",
+      "origin": "ai"
+    },
+    "dataList[id=912504].title": {
+      "pl": "Relikty i Znak",
+      "kr_sha256": "b9b163aad96f002bfcaf804ce7a5fb13b815009a88a3708a2dab82d2adf4a726",
+      "en_sha256": "b93cbf43779e875a7554e68eb0d0a5c5db007968e3d22331335afe5b8f330116",
+      "origin": "ai"
+    },
+    "dataList[id=912505].title": {
+      "pl": "Renketsuen",
+      "kr_sha256": "fd889a5a59f115541ea74d642486c4f0d28d4472a8f029d605d53d9b47feb0dc",
+      "en_sha256": "fef8ae526e22f9068de83449d46d55455714f4b28cfdf81be9792d7706d2d3a0",
+      "origin": "ai"
+    },
+    "dataList[id=912506].title": {
+      "pl": "Saru",
+      "kr_sha256": "c0f9b3e13ac26676d5193dd4a633a00f7c6c51f132725167c7cbe8f9be09146f",
+      "en_sha256": "8551675d531b54c6634580c4e869490c499c49656c14f845bb2bf3dac5e2d014",
+      "origin": "ai"
+    },
+    "dataList[id=912507].title": {
+      "pl": "Szkoła",
+      "kr_sha256": "f7b9c878ccca829ab6abc83faec797fda59772e07af6e251e9cedf2c38a85f9e",
+      "en_sha256": "6cd2e331855da821ec18452ef337985a5dc2f2ee6eb0bc2b0c894768d5a95c32",
+      "origin": "ai"
+    },
+    "dataList[id=912508].title": {
+      "pl": "Nieszczęścia",
+      "kr_sha256": "de6a8d39c4f7b97b40c2084c175637c83afdceb4e5927bc037cdfee71a0dcc80",
+      "en_sha256": "ba556fc0e6f03928e71b5ec3ad6ea6c97c72fdcd9914ffc97df8736c2e9395cc",
+      "origin": "ai"
+    },
+    "dataList[id=912509].title": {
+      "pl": "Wspomnienia",
+      "kr_sha256": "603669bd762779d981692da6277555a7202a7dd987bdc5dda3c9ca733bbdba8b",
+      "en_sha256": "e7218b5e4a56497509ef63bbad37e594d8f24ac90928ef6ce542b1142e5426fa",
+      "origin": "ai"
+    },
+    "dataList[id=912510].title": {
+      "pl": "Piwnica",
+      "kr_sha256": "971d372f6886d2d099bf3db9a25da179286bb90c3dc088b250e1169bf86c2ec5",
+      "en_sha256": "3cbc78eb591fda67d004d9d41ea2e84d0abd4cb71cb0dda6b747c78617b293c9",
+      "origin": "ai"
+    },
+    "dataList[id=912511].title": {
+      "pl": "W Ciche Zapomnienie",
+      "kr_sha256": "033a401d633ba8774cc90de654058a54549cca509a0f168fded7875400fadddd",
+      "en_sha256": "b366610ec91602cc20359d06c6fbd543bec28e3a41bd7e97c9574107ed153fd0",
+      "origin": "ai"
+    },
+    "dataList[id=912512].title": {
+      "pl": "S.A.N.G.R.I.A.",
+      "kr_sha256": "49bc60163f0aa4e1e4711f691858abec465e0ebdf07be3508697faab6b98e1b5",
+      "en_sha256": "c20e86e207a836e148092a16ddf230c761506c99c713f4ce945dba7cb1ca8053",
+      "origin": "ai"
+    },
+    "dataList[id=912513].title": {
+      "pl": "Dobre Wspomnienia",
+      "kr_sha256": "1b962b0495dd3fbf78321efb6756d0e77eed5946a1cb1deb91cf47483b56e4e6",
+      "en_sha256": "b2a0d6c3b442e4203405b5b2694e794b03a2da6d41215264bebd3edc8b57ae11",
+      "origin": "ai"
+    },
+    "dataList[id=912514].title": {
+      "pl": "Następny Cel",
+      "kr_sha256": "079487fa83aa85d03dd98b0e66391b7d334635ada04ba2d33f8be1404cafa90f",
+      "en_sha256": "11448242c91a108781d8e17dfc98256c177658230611ee356b7f827b43bf59c1",
+      "origin": "ai"
+    }
+  }
+}

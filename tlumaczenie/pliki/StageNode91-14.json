@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=911401].title": {
+      "pl": "Zbieranie Danych",
+      "kr_sha256": "8fd86c0a2bb53fedc87487f3b448e02a1cce8ab15ee252e1f00e8507c9ff7f94",
+      "en_sha256": "ca8e9b8913f7d28ac3bff568efbc7f3d03836154b7fe739464299a80ff2a89b0",
+      "origin": "ai"
+    },
+    "dataList[id=911402].title": {
+      "pl": "Badania Okresowe",
+      "kr_sha256": "319279d05427fb8aacf5f2a8ca0e588cc614e54557e6bc72f9079dc33bffb2e3",
+      "en_sha256": "72ce5ee47259e52aa8f28e8a2c781a28418f0a64205861b80711489283722193",
+      "origin": "ai"
+    },
+    "dataList[id=911403].title": {
+      "pl": "Pojazd",
+      "kr_sha256": "a6a8f0c4ef1b6c1d0593b2e6adb2c4f89dd2e0c3a5e24015531e284289a87938",
+      "en_sha256": "5e2167f6eb1d9040d1e6f429509262d5211253eb883292619a93b684b3c3191f",
+      "origin": "ai"
+    },
+    "dataList[id=911404].title": {
+      "pl": "Hohenheim",
+      "kr_sha256": "a7432bb6f39f02eb52033042dfc08b1ac28a92e6f7ab053607e982114ebc4b46",
+      "en_sha256": "9e16d427f29b6375b1d4812e1af4b1e73adfe3d4b344c8de37a48f465404b6d4",
+      "origin": "ai"
+    },
+    "dataList[id=911405].title": {
+      "pl": "Asystentka",
+      "kr_sha256": "9ff810a75d5e60192340102dd44ff0d11a491ec5a3bc0cf61058bd35e0d34161",
+      "en_sha256": "b4b6f65e11b1deec7c94a2bb41184805c86a99dc320f56dd1f453587b7eabc77",
+      "origin": "ai"
+    },
+    "dataList[id=911406].title": {
+      "pl": "Bezcelowy Gniew",
+      "kr_sha256": "d6793d79f1db33bdc7c403dba1db6962dfca0e7202e78165b6ad66fdabc9cc54",
+      "en_sha256": "6f12fce80d36f629819e44ab873d13d6414167f66c009756ac7cf34375095016",
+      "origin": "ai"
+    },
+    "dataList[id=911407].title": {
+      "pl": "Bezładne Lenistwo",
+      "kr_sha256": "4532d891dbbed7b4934de8f32728ff40f092f7d86702b5489725cc520786071b",
+      "en_sha256": "d0d907801543c1ba1c64ebbb2f6b44930dd710b7fe062ed326bb1b5d22574b45",
+      "origin": "ai"
+    },
+    "dataList[id=911408].title": {
+      "pl": "Dobrowolne Zatonięcie",
+      "kr_sha256": "3098302c8162cd22bb4b1f8a6a76a3e455e795ea406f661e0ad621bb6a715f9e",
+      "en_sha256": "b688a25950d06f26879e956c7a8f31116a52f62b10295e53fcf3a73b3eb4b853",
+      "origin": "ai"
+    },
+    "dataList[id=911409].title": {
+      "pl": "Stępiony Harpun",
+      "kr_sha256": "b00ebf7f190927ff75411d72902c9a8d4aff120f9b0e33a39e7bcf0096aba850",
+      "en_sha256": "4876c619ff26c21d98be3175b5417c1fc96a3a3d2e064c62b6b4a09cb1a6b389",
+      "origin": "ai"
+    },
+    "dataList[id=911410].title": {
+      "pl": "Ukłucie",
+      "kr_sha256": "55948e68ace9915ce6e48997bb1534be5a71ee627744b1feabb3859e242e61a3",
+      "en_sha256": "59dde11541c3be4476676336c4653c67f8700eea4de08056f0337e152e920ec3",
+      "origin": "ai"
+    },
+    "dataList[id=911411].title": {
+      "pl": "Cena Ciekawości",
+      "kr_sha256": "2f2bb46dfa0d68566297cef0846a01ea4a8eea02ad338dd1708b759801ca8190",
+      "en_sha256": "c73da2c70016083f958fdc572de67b4c96043dd9999d133a7197da82336a5241",
+      "origin": "ai"
+    },
+    "dataList[id=911412].title": {
+      "pl": "Hierarchia",
+      "kr_sha256": "453051e8adad1c6f744829c924a0aa3ed1fdeaaaa3d8e6eaadbec995a37a6f71",
+      "en_sha256": "749c6546f750ebb7796c4365035ddc4cc7d2c70c4699649d272fc3237082b402",
+      "origin": "ai"
+    },
+    "dataList[id=911413].title": {
+      "pl": "Nowe Numery Klasyfikacyjne",
+      "kr_sha256": "882bbbd2d6682f36d4ae12ffe4c2ceebd592467c0ae78ce9d4d1a85a1ea66b98",
+      "en_sha256": "b904e0989705756d51568c98351def62f942d9d5ee5844f14cadbcfc38c2a399",
+      "origin": "ai"
+    },
+    "dataList[id=911414].title": {
+      "pl": "Ostatnie Badanie",
+      "kr_sha256": "43a12442fae557afa60d3e0200ced5663ef8749e7935d31dbae7bdac17379fe2",
+      "en_sha256": "d6a4bb2281d45b87be091021bd46f37e54ad6f3eb86919be6cb4e2573ecf8276",
+      "origin": "ai"
+    }
+  }
+}

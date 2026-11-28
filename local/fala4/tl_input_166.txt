@@ -1,0 +1,96 @@
+16143||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하지만, 택해야만 하는 날이 온다면?|But suppose one day you're forced to?
+16144||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …모르겠다. 고 답하지.|... I would answer that I do not know.
+16145||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 왜 몰라?|Why don't you know?
+16146||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …답을 내릴 수 있다면… 알려주도록 하겠다.|... I will let you know... if I arrive at an answer.
+16147||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 다른 하나는… 황금을 계속 뜯고 먹으려고 해.|and the other side... wants to keep peeling off and eating the Golden.
+16148||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 둘은 서로를 미워해, 그리고 두 마음은 정반대야. 왜 그러는 거야?|They hate each other, and what they want is completely opposite. Why is that?
+16149||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그건… 기억하려는 마음과 경험하려는 마음의 충돌이다.|That is... a conflict between the desire to remember and the desire to experience.
+16150||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 가치를 그대로 붙들어 오래도록 보존하는 것, 그것이 기억하려는 마음이고…|The desire to remember is the impulse to preserve something of value as it is and retain it for as long as possible.
+16151||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 반대로 가치를 원하고 기대하며, 삼키고 겪어내려는 것, 그것이 경험하려는 마음이다.|The desire to experience is the impulse to anticipate that value, then consume it and undergo the experience for oneself.
+16152||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 백화점은, 그 충돌이 갈라져 극단으로 치닫는 생태계라 볼 수 있지.|The department store is an ecosystem in which those two impulses have diverged and been driven to the extremes.
+16153||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 기억과 경험…|Memory, and experience...
+16154||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그럼, 너는 둘 중 무엇을 택했어?|Which one did you choose?
+16155||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 르네앙들은… 백화점에 균열이 생긴 직후부터 생긴 존재들. 제 모습을 숨기고 우리들 사이에 교묘하게 섞여 있죠.|The Néants... appeared soon after the cracks formed in the department store. They conceal themselves and blend in among us insidiously.
+16156||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그들은 겉으론 우리와 동일한 행동을 하는 것 같지만, 저들의 진실된 목적은 따로 있어요.|They may seem to behave like us on the surface, but their true objective lies elsewhere.
+16157||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 새로운 점원을 다시 뽑아야겠네요. 벽을 덧바르는 일은 이제 시키지 말아야겠지만…|Oh, well. We'll need to hire a new clerk. I suppose I shouldn't assign the next one to wallpapering...
+16158||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 5층으로 가는 에스컬레이터는… 르누아르의 디자이너가 있는 가방관에 있어요.|The escalator to the fifth floor is past Le Noir's Handbags Hall where its designer works.
+16159||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 디자이너는 오래전에 정신이 훼까닥해서 최고의 가방을 만든다는 꿈에 사로잡혔다더군요.|I hear that designer lost his mind ages ago and became obsessed with creating the greatest bag in existence.
+16160||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그래봤자… 르누아르겠지만…|Though I don't have high hopes, him being a mere Noir and all...
+16161||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 에스컬레이터가 작동하지 않는다. 좀 더 4층을 조사해보자.|This escalator is out of order. Maybe there's something we could do on the fourth floor to get it moving again.
+16162||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아직 이곳에서 할 일이 남았습니다.|There are remaining tasks here.
+16163||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뜯겨진 벽 아래쪽을 들춰보니, 몸을 굽혀야 겨우 지나갈 수 있을 만한 구멍이 뚫려 있다.|Lifting the uncovered part of the wall reveals an open vent. It's narrow, but we could probably crawl through it.
+16164||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 바닥조차 보이지 않는 짙은 어둠이다.|But the hole extends into impenetrable darkness.
+16165||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>기억나? 오래전에 만들었던 장소야. 모름지기 백화점이라면 길을 잃은 사람들도 응당 있어야 하는 법이니까.</color>|<color=#ebcaa2>Remember this place? We had it built long ago. Can't have a department store without a visitor or two getting lost in its mazes, after all...</color>
+16166||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>무언가를 태어나게 하는 것은, 무언가를 죽이는 것과 다르지 않기 때문에… 우리는 무서워하고 거부감을 느끼는 것이라고.</color>|<color=#ebcaa2>We're afraid of and revolted by both procreation and death because... at the end of the day, birthing something is no different from killing it.</color>
+16167||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>이 세계에 누군가를 초대하고 태어나게 해버리는 것 자체가 죽음과도 같은 무책임한 폭력인 거야.</color>|<color=#ebcaa2>I say inviting someone into this world—forcing them to be born—is pure violence, an act as grossly irresponsible as murder.</color>
+16168||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>영문도 모를 세계에 멋대로 데려오는 탄생과 멋대로 내보내는 죽음.</color>|<color=#ebcaa2>So, there it is. Dragging someone into the world unawares, and removing them from it—neither has an ounce of respect for their volition.</color>
+16169||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>그건 본질적으로 같은거라 생각해.</color>|<color=#ebcaa2>They're fundamentally the same thing.</color>
+16170||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>인간은 본능적으로 그 사실을 알고 있지만, 종을 보존하라는 인간의 본성과 충돌하니 괴로운 거지.</color>|<color=#ebcaa2>Humans know this by instinct. But that is precisely what causes the pain of dissonance. Because it clashes with our nature, which is hardwired to do anything for the preservation of our species.</color>
+16171||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>그러니, 죽음과 탄생에 인간은 두려움을 느끼면서도 끌려. 금기시되는 것에 이끌리는 건 본능이니까.</color>|<color=#ebcaa2>This is why the ideas of birth and death are both so terrifying and alluring at the same time. It's simply how we're made—to be human is to be tempted to play with what is taboo.</color>
+16172||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>르루주는 계속 배설하고 탄생시키지.</color>|<color=#ebcaa2>The Rouges are perpetually excreting. Birthing.</color>
+16173||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>르누아르는 어떤 것도 탄생시키고 싶어 하지 않고, 죽음도 겪고 싶지 않아 해.</color>|<color=#ebcaa2>The Noirs want no part in any of that. They don't want to give birth to anything, nor do they wish to experience death.</color>
+16174||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>그리고… 짜잔, 내게 백화점은 이런 곳이야.</color>|<color=#ebcaa2>And... Ta-da! This is what the Grand Magasin is to me:</color>
+16175||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>욕망이 마구잡이로 폭발하고, 전시되며, 모든 게 사고 팔리는 곳.</color>|<color=#ebcaa2>A place where desire swells and bursts with no restraint, put on exhibit. Everything is for sale here.</color>
+16176||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>너희가 데리고 다니는 그 미아처럼.</color>|<color=#ebcaa2>Much like the little stray you've taken along.</color>
+16177||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>백화점에서부터 탄생한 존재라니. 르루주들이 바라는 대로, 저것이 자라나면 우리 거인들처럼 되는 걸까? 당신 어머니가 앉아있던 빈 자리에 앉아서?</color>|<color=#ebcaa2>A being born of the Grand Magasin itself... I wonder if that thing'll grow up to become a Giant like us, as the Rouges intended? Perhaps it'll find a seat where your mother used to sit?</color>
+16178||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>…그나마 지금까지 별일 없는 걸 보니 머리에서는 그 아이를 문제삼지는 않기로 한 모양이야.</color>|<color=#ebcaa2>... Well, at least the Head hasn't come kicking this place's door down yet... Which means it decided not to take issue with that kid's existence.</color>
+16179||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>왜 그럴까? 저것은 백화점 밖에선 존재조차 할 수 없는 것이니까?</color>|<color=#ebcaa2>Why do you think that is? Is it because that thing can't exist outside Sisyphe anyway?</color>
+16180||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>한번 생각해 본적 있어?</color>|<color=#ebcaa2>Say, have you ever thought about it?</color>
+16181||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>죽음에 대해서 거부감을 느끼는 건 당연한 느낌이잖아.</color>|<color=#ebcaa2>Death, I mean, and the aversion to it. It's a perfectly natural response, isn't it?</color>
+16182||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>그래서 잔인하고 폭력적인 경험 통조림은 여러가지 조건을 만족해야 구매할 수 있게 해놓았지.</color>|<color=#ebcaa2>That's why there are numerous requirements to satisfy before one can purchase Canned Experiences containing cruelty and violence.</color>
+16183||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>그런데 왜 성적인 것에 대해서도 죽음처럼 거부감을 느끼고 검열하려 하는지 생각해 본 적 있어?</color>|<color=#ebcaa2>Now then, some food for thought—have you ever wondered why sexuality, like death, provokes similar aversion and censorship?</color>
+16184||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <color=#ebcaa2>여러 이야기들이 있겠지만… 내 생각은 이래.</color>|<color=#ebcaa2>There are many possible answers, I'm sure... But here's mine.</color>
+16185||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 미끄럼틀이 있네요~ 아이들을 위한 공간이었던 걸까요?|Ah, a slide~! A place for children, maybe?
+16186||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자아 뿌이 군… 여기로 걸어올라간 뒤, 다리를 쭉 펴고! 틀에 몸을 맡기고 이렇게!|Now, young Pwie... climb from this side, and—ah, be sure to stretch both of thy legs forward! And allow the declining path to carry thee...
+16187||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 내려오면 되는 것이라네!|... as I have demonstrated!!
+16188||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이렇게… 올라가서…|Climb... from this side, and...
+16189||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …재밌어.|... That was fun.
+16190||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 즐거워하시는 것 같아 저도 기분이 좋아지네요~|Watching you have fun makes me happy, too~
+16191||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 미끄럼틀이 뭐야?|What's a slide?
+16192||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이쪽 사다리로 올라가서 반대쪽 경사진 틀을 따라 쭉 미끄러져 내려오는 놀이기구랍니다.|It's a playground ride. You climb the ladders on one side, and <i>sliiiide</i> down the decline on the other side.
+16193||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이 씨도 한 번 타보실래요?|Would you like to give it a try, Pwie?
+16194||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …내려가는 건 싫은데.|I don't like going down...
+16195||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 생각보다 재미있답니다~|It's more fun than you might think~
+16196||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 미끄럼틀을 싫어하는 아이들은 없다네. 뿌이 군! 한 번 타보는 게 어떤가?|Indeed, Pwie! Not once have I met a child who disliketh the slide. Prithee, give it a slide!
+16197||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <시간이 많지 않은데… 나중에 하는 건 어때…?>|<We don't have much time, guys... How about we come back to it later?>
+16198||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 관리자 나리, 눈깜짝할 사이면 끝나는 기구인데 한 번만 봐주시게~|Prithee, Manager Esquire! It will only take but a moment!
+16199||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…그래. 미끄럼틀 정도야.>|<... Fine. It's just a slide, after all.>
+16200||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …한 번 더 타도 돼?|... Can I go again?
+16201||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…뭐 그 정도야.>|<... Why not.>
+16202||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 관리자님께서 허락하셨으니, 타도 좋다.|The manager has given their authorization. You may go again.
+16203||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 좋아.|Woo.
+16204||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이는 가벼운 발걸음으로 다시 미끄럼틀에 올라갔다.|Pwie happily bounced up the stairs to the top of the slide once again.
+16205||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나, 한 번 더. 한 번 더 탈래.|I wanna go again. I wanna go again.
+16206||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …관리자님.|... Manager.
+16207||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…슬슬 가야하지 않을까?>|<... We should probably get going.>
+16208||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그치만… 관리자 나리… 저리 좋아하는데 한 번 정도는 더 괜찮지 않겠는가.|'Tis not to disagree with thee, Manager Esquire... Yet hast thou not seen how much joy this activity granteth the child? Just once more, and we shall carry on with haste.
+16210||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …뿌이는 이제 말도 없이 먼저 미끄럼틀에 올라갔다.|... Pwie runs to the top of the slide again without even asking us.
+16211||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <저기, 이제는 진짜…>|<... Uh... Guys, we <i>really</i> gotta...>
+16212||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나중에 더 타게 해주겠다.|You can ride it some more later.
+16213||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나중에…? 언제?|Later...? When?
+16215||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 결국 뿌이가 원하는 만큼 미끄럼틀을 타게 해주었다.|In the end, we let Pwie play as much as they wanted.
+16216||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …그렇게 재밌나?|... Is it really that fun?
+16217||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 단테도… 타고 싶었던 거야?|Did you... want to go on the slide too, Dante?
+16218||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 지금 타실 생각인가요, 관리자님?|Are you thinking of riding the slide right now, Manager?
+16219||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 재미 없는 것 같다.|It's not much fun.
+16220||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 서랍장 안에 종이를 발견했다.|Found a piece of paper inside the drawer.
+16221||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [사람을 찾습니다]|[MISSING PERSON]
+16222||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [인상착의 : 얼굴의 화상자국, 목도리, 가죽 가방…]|[Description: Burn scar on the face, scarf, leather bag...]
+16223||RPGSystem#rpg-loc-dialogue-floor-4-b.json] [실종장소 : 시지프 플라자 1층 ■■■ 기념관 ]|[Last Seen: Plaza Sisyphe, 1F, ■■■ Memorial Hall]
+16224||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…화상 자국?>|<... Burn scar?>
+16225||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 혹시 아시는 분인가요?|Someone you know?
+16226||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <그럴지도… 그런데 시지프 플라자는 도대체 뭐야?>|<... Maybe. Where's Plaza Sisyphe, though?>
+16227||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뫼르소는 대답하지 않고, 고민에 빠진 듯 종이를 바라 보다가, 이내 모른다는 듯 고개를 저었다.|Meursault said nothing. He stared at the paper for a moment, seemingly lost in thought, then shook his head as if to say he didn't know.
+16228||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 대부분 어떤 고객을 찾는 내용이다. 사람을 찾는 문서는 아까 전에 보았던 것이 마지막이다.|Most of the documents are notices searching for particular customers. The one we saw earlier was the last one looking for a "person."
+16229||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …사실이 아니길.|... I truly hope this isn't true.
+16230||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 방송실에 있던 주사위가 여기서 굴러온건가?|Did the dice from the PA Room roll all the way down here?
+16231||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 마치 집을 만들어 놓은 것 같은 블록이다.|Blocks assembled like a house.
+16232||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 혹시나 싶어 건드려봤지만 무너지지 않는다. 단단히 고정된 것 같다.|Tried pushing on it, but it doesn't crumble. It's been solidly fixed.
+16233||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 집으로 돌아가고자 하는 소망을 품고, 길 잃은 모든 것들과 꽃무더기에 파묻혔다.|With the wish of returning home nestled deep within her heart, she's been laid to rest beneath a burial of flower petals next to all those who are lost.
+16234||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 얼핏 미소를 본 것 같다. 이내 반죽이 미끄러져 내려와 얼굴을 완전히 덮어버렸다.|Saw the briefest glimpse of a smile before the wall mixture slid down and buried the face behind it.
+16235||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 응응, 촘촘하고 튼튼한 나를 봐.|Mmhm, mmhm. Look at me, so dense and sturdy.
+16236||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 난 이제 하루하루 비싸질 일만 남았어.|My price won't ever stop going up.
+16237||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 눈 좀 돌려줄래? 자꾸 보면 닳는단 말야.|Do you mind? Look away, or you'll wear me away with your gaze.
+16238||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 검은색 소파다.|A black sofa.
+16239||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 미끄럼틀이다. 내려가는 게 재밌는 걸까, 내려간 뒤에 다시 올라가는 게 재밌는 걸까.|It's a slide. Is the fun part going down... or climbing back up after?
+16240||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 가방처럼 생긴 것들이 미동도 없이 숨을 죽이고 앉아있다.|Handbag... -looking things are sitting still in silent, bated breath.

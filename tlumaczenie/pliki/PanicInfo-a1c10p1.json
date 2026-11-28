@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=1098].lowMoraleDescription": {
+      "pl": "Poziom Obrony -3, Poziom Ataku +1",
+      "kr_sha256": "1ce166da91e53e00848d100494f492da6967148dfc861243a11897470487d902",
+      "en_sha256": "f1b671bc7986c785c5ab6e7abbb450554b03748ce77b7f29c675e9024e54c8c9",
+      "origin": "ai"
+    },
+    "dataList[id=1098].panicDescription": {
+      "pl": "Poziom Obrony -5, Poziom Ataku +2",
+      "kr_sha256": "8a66020f86bc4609786b871e2dcd234cfffa99a256fd0050b14460d6479ae8e4",
+      "en_sha256": "2d4ccc2b699257c8d454453cebf5f0cac8158d2c3cdd64a81a9c9d51b4f784f1",
+      "origin": "ai"
+    },
+    "dataList[id=1098].panicName": {
+      "pl": "Porzucić Skórę!",
+      "kr_sha256": "9b2db86e1a333b5671e3f945347a0754eb7ed2c0bca68f79c73ff0e6604b148a",
+      "en_sha256": "fb1af6d452a268ef5eedeb8e390d5e57a247bf591dfb493a9aad0867c4a1f441",
+      "origin": "ai"
+    },
+    "dataList[id=1099].flavor": {
+      "pl": "Skul się w sobie. Głębiej. Ciaśniej. Niech skorupa stwardnieje wokół tego, co zostało.",
+      "kr_sha256": "ec10445626ee65bbc933f25dbe387df290f1bcda5c9a86115ddbb74643bb87b8",
+      "en_sha256": "42536a164551b2f5a3ed8b670cd8903dd11b18a3d040a260a489b1ed5aae281d",
+      "origin": "ai"
+    },
+    "dataList[id=1099].lowMoraleDescription": {
+      "pl": "Maks. Szybkość -1, Poziom Obrony +1",
+      "kr_sha256": "20d9a22af8eaf0cbac75ae1e6bc64bb30a8f8254a866be8494009f012af03245",
+      "en_sha256": "174be03ca74bf1c4aa7ebf4c663e04fc5d732231a32ad645850d1519d096adaf",
+      "origin": "ai"
+    },
+    "dataList[id=1099].panicDescription": {
+      "pl": "Maks. Szybkość -5, Poziom Obrony +3",
+      "kr_sha256": "bed17daa42308d493aa6bb5dd12fbd7f6d4728295fbd184890fa8309d5dcb9d1",
+      "en_sha256": "364d74555b59eefea13e0f7d63c92eb9eb45e2c1408a7e9362c42b5c5aea6b26",
+      "origin": "ai"
+    },
+    "dataList[id=1099].panicName": {
+      "pl": "Z Powrotem do Skorupy…",
+      "kr_sha256": "6418e0b998720dc29dbda6b57bfebcfbf5e24203b71fcf53c3573d0e8e0a1029",
+      "en_sha256": "61978cdce09063c7836f127a6ceebcdefe1a9b226332981d1c9f19ad88bc60bb",
+      "origin": "ai"
+    },
+    "dataList[id=1102].flavor": {
+      "pl": "Nie łudź się — nie pragniesz „sztuki kulinarnej”. Chcesz tylko poczuć, jakbyś gotował, i udawać ucztowanie.",
+      "kr_sha256": "071e94a9a2a19579602392ff93db190c94a0f17029976f7483e084fd6a249317",
+      "en_sha256": "84cad0b13eabcd6b957de1a2b319dfa0ef2d30ece06ee6d062a10a516217aa73",
+      "origin": "ai"
+    },
+    "dataList[id=1102].lowMoraleDescription": {
+      "pl": "Poziom Ataku +1 oraz otrzymywane obrażenia +3% za każdy ładunek [SapsareeHungry] na sobie",
+      "kr_sha256": "747f89dde448671e40d1341f1146962fdaf836df64a5d321adafacb7e304fb97",
+      "en_sha256": "41b6903fb5fbbce9e9aaf60699dc15f8ad820b6114d54c9e32c0b097a3c84451",
+      "origin": "ai"
+    },
+    "dataList[id=1102].panicDescription": {
+      "pl": "Poziom Ataku +2 oraz otrzymywane obrażenia +5% za każdy ładunek [SapsareeHungry] na sobie",
+      "kr_sha256": "4ed5c186ae4909e2243aa9ac766e32ce6d862d98b3aaf1ca3a728ef0d6f76b13",
+      "en_sha256": "2f6bb279230e50b5e193575a158f498d505e37442a0782da2aeba65f85ea2849",
+      "origin": "ai"
+    },
+    "dataList[id=1102].panicName": {
+      "pl": "Tęsknota Kulinarna",
+      "kr_sha256": "bbcceed056e0622f8898e881f0f4fdecafa9a647116db60fdedb64e716193fb6",
+      "en_sha256": "f3f4fc2ced364f9ccf7558e6075733835b80dbaf1bfb7aaf15f51c0e1d2ddba5",
+      "origin": "ai"
+    },
+    "dataList[id=1104].flavor": {
+      "pl": "Tylko nie znowu — nie mogę przegapić trendu tego sezonu…!",
+      "kr_sha256": "b4972b9906318a9dd918f791a3310ec94392512036c0c62e1e832a55b97dfdd9",
+      "en_sha256": "74555ecf4ce1aeae93b55aff319d4828b8e58c8f3cd74aa040ce0dac39493528",
+      "origin": "ai"
+    },
+    "dataList[id=1104].lowMoraleDescription": {
+      "pl": "Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)\nZyskaj 1 [Vulnerable]",
+      "kr_sha256": "d3cb858080c222647c1ba1d48867bd4c56cd4a31541c071cd5dfffbd74989846",
+      "en_sha256": "01ae736bcf2d4de5910916c051df0ede4a0ecc83036b475319db30f19cd383cd",
+      "origin": "ai"
+    },
+    "dataList[id=1104].panicDescription": {
+      "pl": "Poziom Ataku +1 za każde 20% brakujących PŻ (maks. 2)\nZyskaj 1 [Vulnerable]",
+      "kr_sha256": "d3cb858080c222647c1ba1d48867bd4c56cd4a31541c071cd5dfffbd74989846",
+      "en_sha256": "01ae736bcf2d4de5910916c051df0ede4a0ecc83036b475319db30f19cd383cd",
+      "origin": "ai"
+    },
+    "dataList[id=1104].panicName": {
+      "pl": "FOMO",
+      "kr_sha256": "b0691d0ce0ada509211b97d5704bf8db1416e35fc6134da34328c9905a5d610a",
+      "en_sha256": "b0691d0ce0ada509211b97d5704bf8db1416e35fc6134da34328c9905a5d610a",
+      "origin": "ai"
+    },
+    "dataList[id=1105].lowMoraleDescription": {
+      "pl": "Początek Tury: Zyskaj 1 [Reduction]",
+      "kr_sha256": "f7e5f5fb1cd6bcbb8f8c743e587ea517b354edd04e1d943b220f1ad08d212097",
+      "en_sha256": "140a3ce912e15d3b215a8b3fc4f14908fffc2991f48c950ce56f31ff29176dde",
+      "origin": "ai"
+    },
+    "dataList[id=1105].panicDescription": {
+      "pl": "Początek Tury: Zyskaj 1 [Reduction] oraz 1 [AttackDmgDown]",
+      "kr_sha256": "8ef7d15b4dee7335ee31169d8354d83396406907f471e7952c4e2dba2ffc39d5",
+      "en_sha256": "ff05132e23b7e2d008dc3c1009d6cb3e2c45372cde8330cab7aded174ac6c96d",
+      "origin": "ai"
+    },
+    "dataList[id=1105].panicName": {
+      "pl": "Splątane Szycie",
+      "kr_sha256": "edc67023c75a58efd5287b6ca502b687dc95d5aab29119b72ac8477d068d7a1e",
+      "en_sha256": "83e504dd6a7bfd9ffe55534f303554d45646d247775ea69069e63d2262b0b1b7",
+      "origin": "ai"
+    },
+    "dataList[id=1121].flavor": {
+      "pl": "Dlaczego…? Jak… powstałem? Czym… jestem?",
+      "kr_sha256": "d2ce34db3dbc146f2d2a45dfd309e834af7ddfd65c97bfe8c82186172ff9784e",
+      "en_sha256": "f7e8d20e4387d09859b0006c0fd56d91905e9f44e4dd14cfe1b20ca0153aa393",
+      "origin": "ai"
+    },
+    "dataList[id=1121].lowMoraleDescription": {
+      "pl": "Poziom Obrony -3, Poziom Ataku +3\nW Starciu z celem mającym 5 [BloodyMucus]: Moc Starcia +2",
+      "kr_sha256": "804bff78db73a665354bf418fc07635d0a775d4a4c8edb42d71dc04f84620708",
+      "en_sha256": "38d07b52d28627264e886eac60a592004b6b1819c8b6c75977df1e32468612fc",
+      "origin": "ai"
+    },
+    "dataList[id=1121].panicDescription": {
+      "pl": "Poziom Obrony -5, Poziom Ataku +3\nZadawane obrażenia +10%\nW Starciu z celem mającym co najmniej 3 [BloodyMucus]: Moc Starcia +3",
+      "kr_sha256": "d1fc7adb7ffaec069a12ac2c2a31d92bb019467a897f0bf2694ddd68c35db213",
+      "en_sha256": "2bedf6f6431c09c02e2c41674e1b3ac9ac85bffbf7464b579bd91ebf894e45e6",
+      "origin": "ai"
+    },
+    "dataList[id=1121].panicName": {
+      "pl": "Rozłam Wewnętrzny",
+      "kr_sha256": "d1ae428544d5aa908f65236a3cd34315c1ce4068b6e39e2dadaad59efc929535",
+      "en_sha256": "46fb7d642c7592b1f862647f761855254cb960f8e642c197d20b7d3a80574837",
+      "origin": "ai"
+    }
+  }
+}

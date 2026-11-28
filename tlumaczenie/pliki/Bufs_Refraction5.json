@@ -1,0 +1,334 @@
+{
+  "entries": {
+    "dataList[id=FellBulletGroggy].desc": {
+      "pl": "- Nie można go usunąć\n- Jeśli na koniec tury osiąga 0, w następnej turze popada w stan Oszołomienia\n- Przy użyciu Umiejętności 'Wystrzał Wskazanego Celu', jeśli cel nie posiada Napiętnowania, maleje o 1\n- Jeśli Umiejętność 'Wystrzał Wskazanego Celu' przegra Starcie, maleje o 1\n- Jeśli sojusznik wskazany jako cel przed użyciem Umiejętności 'Wystrzał Wskazanego Celu' zginie, maleje o 1",
+      "kr_sha256": "ad11d2049e505913e4a0d97011d225cdcf9f1e5937cb88d8b315bda2d6ccd88f",
+      "en_sha256": "74ad5decea334c8be568988ec2ee497834d8d51da6d302dfcf0135e07ae77f1b",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletGroggy].name": {
+      "pl": "Ustawienia Celowania",
+      "kr_sha256": "a01b012f82c8a70c8433246838212e6d10ab333846321d79d60d688339fbbe35",
+      "en_sha256": "48ffacc2567ef730c974aedfc406fbb6d690d971faea54d38ddea60ed200093a",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletMark].desc": {
+      "pl": "- Staje się celem Der Fluchschütze\n- Znika na koniec tury",
+      "kr_sha256": "9ad86c6b2c8432d9ccb887b327295bb295e0b257e4d140db6739f2e41e102087",
+      "en_sha256": "32b8aed6bb064d91735c6f0658559bf59d9ffe45040b9fbe21f4e2d3967e6cbd",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletMark].name": {
+      "pl": "Napiętnowany",
+      "kr_sha256": "76f43aab8322321c4c39c07ba9a2aa7b7ea70b5b76710fdeb2193d184cd06079",
+      "en_sha256": "cb0aca91016f72f20840f1382d270b71cb90011e286a316ec69a6895a98ab9a3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR501].name": {
+      "pl": "Załamanie Nadawania",
+      "kr_sha256": "9b44f6f3bb7c2a70edc8bae54b76c10aa3630596c565be97818ae2563c70f494",
+      "en_sha256": "ecb178c9fdf0e4c80e222c171698293f9cf037ee81d39bcab058fc4d0a800c22",
+      "origin": "ai"
+    },
+    "dataList[id=MRR502].name": {
+      "pl": "Załamanie Zyskiwania",
+      "kr_sha256": "240e4d28fe71fabd794db910bf84c96e523c73a50b3f9aab2a394d6ffb01a0ea",
+      "en_sha256": "1e84f46160babf7fe0f7f916d7a9cef42372c39464df126a28b14f8977ce83cf",
+      "origin": "ai"
+    },
+    "dataList[id=MRR503].name": {
+      "pl": "Załamany Umysł",
+      "kr_sha256": "5131dbeac80eaaf863af122b0fad7c1f82556cad1b236729a527f3d274c7f85c",
+      "en_sha256": "7507ad7e8a73c23d67bf47b2669d0eac0da1bb77eb39c1f0c589b4746d6fbc7f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR504].name": {
+      "pl": "Załamany Oddech",
+      "kr_sha256": "3a16b04bd4be160b58714faa5bc0b5e81e006e47833fc508f8cd3d3238697c15",
+      "en_sha256": "79c0348c5bd3d6d4e53199fcbca7b886f45546ed658bbdfb192a81be626233eb",
+      "origin": "ai"
+    },
+    "dataList[id=MRR505].name": {
+      "pl": "Załamane Ładowanie",
+      "kr_sha256": "2677cb5917acb76ec51778a016defc85f2e106576f017049dc3e0f58b2d6b785",
+      "en_sha256": "069e19ade65719bf6edc78d85221c644c6caad4347c1c3ffc9ca903ae2d32bc6",
+      "origin": "ai"
+    },
+    "dataList[id=MRR506].name": {
+      "pl": "Załamany Wybuch",
+      "kr_sha256": "6d003c9444c7c9ada57cf4423a464045c24da3c197f93c45432be0ae71c02901",
+      "en_sha256": "5cd51d4e9e484686f8058d4379364edc8b9eb6fcc158a35afda826eb20fc56b4",
+      "origin": "ai"
+    },
+    "dataList[id=MRR507].name": {
+      "pl": "Załamane Rozdarcie",
+      "kr_sha256": "3c19435f7f4a235ce6e209fee35388444aaa82eebb1ee1e945eed99b02f6e286",
+      "en_sha256": "1018b79dc3578c3939c252c15f636e3bce593d5043e72d2666ddc3779c4d34ef",
+      "origin": "ai"
+    },
+    "dataList[id=MRR508].name": {
+      "pl": "Załamane Zatonięcie",
+      "kr_sha256": "8bee68439e7a14c764ac6285a5674706ea7fec6fbb09e5d21fa0d52542d97b1d",
+      "en_sha256": "ae26e6cbf945dda889d8988bc54d9b81aac90c82896ff28bb66ac03dd4d6636a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR509].name": {
+      "pl": "Zniszczony Słaby Punkt",
+      "kr_sha256": "8e47f004adaf439027f06fab5e04764cce3a27c46b700bdce0baf6ebe5e22e8d",
+      "en_sha256": "5ba308c73587367d3c212a214c4674556008087bd2c56752dcb8a6935b625c1f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR510].name": {
+      "pl": "Nebulizator",
+      "kr_sha256": "c2f5748844736ca7309dc50acad0c315e569dbd04d85b2f72bf5f009789d7d6e",
+      "en_sha256": "0d9f1418e74983cf806ef8793389e3f236962c540ad6cf866a6160bf13d28b32",
+      "origin": "ai"
+    },
+    "dataList[id=MRR511].name": {
+      "pl": "Samotny Strzelec",
+      "kr_sha256": "a55c994e207da3c42665ff40dfa278f4be5867f33c50018c0a7e36425f5dc053",
+      "en_sha256": "ba093c8eb12180683e06fab953a3e457d65c23925bcfbd80f2da99fc1df87573",
+      "origin": "ai"
+    },
+    "dataList[id=MRR512].name": {
+      "pl": "Trwały Duch Walki",
+      "kr_sha256": "4d76c754588b05cb9556bfa52f043ba6b495607073148b7ad5c0b0825ff7d55a",
+      "en_sha256": "b3ddb70c4822919513a88327538fc5c3cf1ac539368cb093d62d0960e8c6cd71",
+      "origin": "ai"
+    },
+    "dataList[id=MRR513].name": {
+      "pl": "Żniwa Zasobów",
+      "kr_sha256": "95a867aba4f23fbeedcb3bc61733e5bd2b48a2fe42c69b848ce1140274206669",
+      "en_sha256": "de7bf02797ff0a7f8b07ac7dc6e1d67c82d345ffc5afe8b4032f156c5f12c1c8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR515].name": {
+      "pl": "Zacięta Obrona",
+      "kr_sha256": "1431add1d9cd029b61fc17cbe3141d90f1d340438999e17178aeead566dd4e11",
+      "en_sha256": "50d57e326acb4e1a30d9764eba1f5086a415aedf9cded279923f91285eadc5f4",
+      "origin": "ai"
+    },
+    "dataList[id=MRR516].name": {
+      "pl": "Życie albo Śmierć",
+      "kr_sha256": "39212f5f382b7462210ba4a3a833d57dd99b98451e5a1ebc08402ff73a60cb11",
+      "en_sha256": "45767674e7ed8d4534a444adaa65c0c6bba991da2c76194afb9121560fec818d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR517].name": {
+      "pl": "Wściekły Kontratak",
+      "kr_sha256": "48ea53c8232b9788247fd3ba970b7b1c6b4f4d46a3ba645357feae37a7da3912",
+      "en_sha256": "c3ea5bc7c7c9ab7b7ba609c7618a2d03cabd3edd041711cde280b65a7c817aae",
+      "origin": "ai"
+    },
+    "dataList[id=MRR518].name": {
+      "pl": "Wisiorek Nostalgii",
+      "kr_sha256": "f7635b70c70e77fff2100a2c3af38e197240cc37ad852bcfb9c09ea8e1f27909",
+      "en_sha256": "53c074b68b6a066d0782f7e29ae2646a1d52a24a8e14a26c2dc96313d74bfd44",
+      "origin": "ai"
+    },
+    "dataList[id=MRR520].name": {
+      "pl": "Powódź Mrocznych Pocisków",
+      "kr_sha256": "8e19adc22fa43996ceed4536f17a5a08a2850666df536c95e99e26affb227801",
+      "en_sha256": "5ef6e2f62d3f3deb23222f66a774b0f19c51271b6ce211adaf1d6e549c4fbd23",
+      "origin": "ai"
+    },
+    "dataList[id=MRR521].name": {
+      "pl": "Manipulacja HP",
+      "kr_sha256": "cbd8851d7f9ddb04061b7e1c98479b8e027218569ce0d9aa15f8c35575a011df",
+      "en_sha256": "3d4ed4a044e8d64cadd35cae86229b0f26c53a6b4448f777b319ffefa5e34a7f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR522].name": {
+      "pl": "Ryzykowny Pojedynek",
+      "kr_sha256": "18d699ffb2f9552a67f343292ec24b1758e58a995531cdf3235173479a09dc97",
+      "en_sha256": "95daf468e293b30f2a0b677d778e49386b87e879a956e8433795be180e4fbe84",
+      "origin": "ai"
+    },
+    "dataList[id=MRR523].name": {
+      "pl": "Krwawa Biesiada",
+      "kr_sha256": "9213a72b8bcde1900c6291743d5a9ecfb8885876a33e956984be04a288e94ad9",
+      "en_sha256": "da3e82d58734850d6fb6478539cc5057bb4471e03babf613d3353e4df2a8d542",
+      "origin": "ai"
+    },
+    "dataList[id=MRR524].name": {
+      "pl": "Święto Krwi",
+      "kr_sha256": "c87ab9b4700e3c8788d07fdb2ebac4813388512a2b93b560adc6fb9fea666600",
+      "en_sha256": "bf0bce18fc8edd56ccc98c7bcf7ec49b5d33484a4ab30b9333e4d39297415d51",
+      "origin": "ai"
+    },
+    "dataList[id=MRR526].name": {
+      "pl": "Załamane Cięcie",
+      "kr_sha256": "8319941727b295872132056aae54d231511b9ac7b025483d550d867b5021cdde",
+      "en_sha256": "1808539dc21fc09e072bd66f03234308ea4081d11580cdcb54d4e41cfcd3609a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR527].name": {
+      "pl": "Załamane Przebicie",
+      "kr_sha256": "0537b328d2614f18d85106269375531ebd0eb8fbd930849f14982a9d0878375c",
+      "en_sha256": "bc2b1512773934a79829d108edfbb3f659d56403351687ee07959df56691c711",
+      "origin": "ai"
+    },
+    "dataList[id=MRR528].name": {
+      "pl": "Załamane Uderzenie",
+      "kr_sha256": "aed97aad45a89357e64362eb459e447d2d05398c160b7d06670ec7bff39c538c",
+      "en_sha256": "3f4c55845fceb4e79258589814e85ba34c8607ce1299142b888e83f52d641280",
+      "origin": "ai"
+    },
+    "dataList[id=MRR529].name": {
+      "pl": "Załamanie Rozwoju I",
+      "kr_sha256": "3277c00d0f0b7686cde6610995e4782101e03d72e747d622ed1cdc58748dc3dd",
+      "en_sha256": "f7b83498db4ec063d4f10df349848391f0351c4cf3b6803f7e8580fd99c65a0e",
+      "origin": "ai"
+    },
+    "dataList[id=MRR530].name": {
+      "pl": "Załamanie Rozwoju II",
+      "kr_sha256": "b3e3ed5cde1a2527527053dcb1bf38e09fa1de3a44587a7451acb4cc97ef2645",
+      "en_sha256": "e0659bf150526d94fd3cc31b0149ae9725b677b04492507f129988e5e1ee333d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR532].name": {
+      "pl": "Wyparowanie Zasobów",
+      "kr_sha256": "416c8a7a350352190263cd6bce0ccd1b0005cdf4abf495a31183fe474100d3ed",
+      "en_sha256": "a06ebc22ed4b6aff74ab8f7aa768c75a05ea4fd6ace65f0265ed9ff6e0cadddd",
+      "origin": "ai"
+    },
+    "dataList[id=MRR533].name": {
+      "pl": "Rozkwitła Krew",
+      "kr_sha256": "9cbd5493ffbcc03f70e63a28e064ba2c13483d003344d249bf6a929bae1a296b",
+      "en_sha256": "6e6905c45a0c17a5e40df243abf3d4d75f00c171940150d16ff72832d12fc647",
+      "origin": "ai"
+    },
+    "dataList[id=MRR534].name": {
+      "pl": "Zacięta Obrona",
+      "kr_sha256": "1431add1d9cd029b61fc17cbe3141d90f1d340438999e17178aeead566dd4e11",
+      "en_sha256": "50d57e326acb4e1a30d9764eba1f5086a415aedf9cded279923f91285eadc5f4",
+      "origin": "ai"
+    },
+    "dataList[id=MRR535].name": {
+      "pl": "Życie albo Śmierć",
+      "kr_sha256": "39212f5f382b7462210ba4a3a833d57dd99b98451e5a1ebc08402ff73a60cb11",
+      "en_sha256": "45767674e7ed8d4534a444adaa65c0c6bba991da2c76194afb9121560fec818d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR536].name": {
+      "pl": "Załamana Wściekłość",
+      "kr_sha256": "42ab081da70a86c12f27664bb4fb63d6f046a37778833ba29aab6fb19524b784",
+      "en_sha256": "c4597bb1152c399109ac187a2891c8d4d6ecbd667053641527dff14ff1d559aa",
+      "origin": "ai"
+    },
+    "dataList[id=MRR537].name": {
+      "pl": "Załamanie HP II",
+      "kr_sha256": "1a8154af18a19b978405bbf593c70d5adbe1f259bd373c40f4dbcd5e49307541",
+      "en_sha256": "688ff88b593eb86dfb7055e45786e8ec4567967129304306b4e189b61d83c0a8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR539].name": {
+      "pl": "Krwawa Biesiada",
+      "kr_sha256": "9213a72b8bcde1900c6291743d5a9ecfb8885876a33e956984be04a288e94ad9",
+      "en_sha256": "da3e82d58734850d6fb6478539cc5057bb4471e03babf613d3353e4df2a8d542",
+      "origin": "ai"
+    },
+    "dataList[id=MRR542].name": {
+      "pl": "Załamanie HP I",
+      "kr_sha256": "82ff190182df7e30488aa48e63e6406db15495da0acbe3b961ccaa6483199362",
+      "en_sha256": "ef734f2d933c679d868286e10e49414d5f99b477f673d9610632aaa1393c563b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR543].name": {
+      "pl": "Trwała Wola",
+      "kr_sha256": "5e3f3b905290de931ccc4a06aaf61665f163112a9ca02aaa964d6e226edb0a20",
+      "en_sha256": "0b4c4bf2e6e650ea3b2319d8cc89a058830692b6e4493b21495e2f2c803b3057",
+      "origin": "ai"
+    },
+    "dataList[id=MRR544].name": {
+      "pl": "Ruletka Mocy",
+      "kr_sha256": "f5ab5500f0a85dcdac92944ac43737a3491caf3d90f1c4b3be43f37cb66f2470",
+      "en_sha256": "816d0445d5e2cdff809f5008a6f7bd8c52df0fa0e5f069574effdeda67d51950",
+      "origin": "ai"
+    },
+    "dataList[id=MRR545].name": {
+      "pl": "Szklane Działo",
+      "kr_sha256": "0d9aa965d02ecb8df35677686fce6cb9ee87ad0e7aff1bbe87abf7f2c1c6146e",
+      "en_sha256": "1f3a13c35cfc4dd9ef2499cc141984981ffec4a7169bad438f9b07654331df4c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR546].name": {
+      "pl": "Wysokie Ryzyko",
+      "kr_sha256": "73975843ebff99f949eb6c8e0aee52cc585aec6c64ae1b53fb1bb9ae1d4e8aa3",
+      "en_sha256": "69f0c01e76de6e647313d2b0189b893733be2a762b05db8c25cc2a46136f7e9a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR547].name": {
+      "pl": "Ruletka Mocy",
+      "kr_sha256": "f5ab5500f0a85dcdac92944ac43737a3491caf3d90f1c4b3be43f37cb66f2470",
+      "en_sha256": "816d0445d5e2cdff809f5008a6f7bd8c52df0fa0e5f069574effdeda67d51950",
+      "origin": "ai"
+    },
+    "dataList[id=MRR548].name": {
+      "pl": "Ryzykowny Pojedynek",
+      "kr_sha256": "18d699ffb2f9552a67f343292ec24b1758e58a995531cdf3235173479a09dc97",
+      "en_sha256": "95daf468e293b30f2a0b677d778e49386b87e879a956e8433795be180e4fbe84",
+      "origin": "ai"
+    },
+    "dataList[id=MRR549].name": {
+      "pl": "Życie albo Śmierć",
+      "kr_sha256": "39212f5f382b7462210ba4a3a833d57dd99b98451e5a1ebc08402ff73a60cb11",
+      "en_sha256": "45767674e7ed8d4534a444adaa65c0c6bba991da2c76194afb9121560fec818d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR550].name": {
+      "pl": "Wysokie Ryzyko",
+      "kr_sha256": "73975843ebff99f949eb6c8e0aee52cc585aec6c64ae1b53fb1bb9ae1d4e8aa3",
+      "en_sha256": "69f0c01e76de6e647313d2b0189b893733be2a762b05db8c25cc2a46136f7e9a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR551].name": {
+      "pl": "Załamane Krwawienie",
+      "kr_sha256": "d96da11bcc0471e1f1a9f89fda514df99a6b9715aa47e677030c92f27a7afeaa",
+      "en_sha256": "1daec1a30df81c583a2cad8322575fed80b553c583489e37a4e349fb71db4a7c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR552].name": {
+      "pl": "Załamany Zapał",
+      "kr_sha256": "fd00bf358b699a0fd9049cd64cc87a85015e38a6cfd5e58fe452cbf34a856867",
+      "en_sha256": "fc99ebaa6c29c96fb5e7802335b1f159c22139c3f0d322fab1b4f40052b2fd8c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR553].name": {
+      "pl": "Jeden Oddech",
+      "kr_sha256": "5bbadd4d67be1f4dc1a1a61e868a9423dc0e85179c15bd4821ccb757254727cc",
+      "en_sha256": "9c5c0e21ed46d502897ffcdeb626351338a282bdc01b1c99a9537e3085ba3d1c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR554].name": {
+      "pl": "Życie albo Śmierć",
+      "kr_sha256": "39212f5f382b7462210ba4a3a833d57dd99b98451e5a1ebc08402ff73a60cb11",
+      "en_sha256": "45767674e7ed8d4534a444adaa65c0c6bba991da2c76194afb9121560fec818d",
+      "origin": "ai"
+    },
+    "dataList[id=MRR555].name": {
+      "pl": "Załamanie Mocy Starcia",
+      "kr_sha256": "936b6b3f60e0a0b895c13c6eeba74c7865946a74560ab414671cbbd905b3cb0e",
+      "en_sha256": "c1497f64f6aaf09c61c9f8e12532812c3ce64a0ed33a4856f2aedff629e374a9",
+      "origin": "ai"
+    },
+    "dataList[id=MRR556].name": {
+      "pl": "Szklane Działo",
+      "kr_sha256": "0d9aa965d02ecb8df35677686fce6cb9ee87ad0e7aff1bbe87abf7f2c1c6146e",
+      "en_sha256": "1f3a13c35cfc4dd9ef2499cc141984981ffec4a7169bad438f9b07654331df4c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR5BaseN].name": {
+      "pl": "Aktywne Utrapienia",
+      "kr_sha256": "4f2618d84c8df6be7979e033b3fea9d0aed54c3d9bdd2a72590cbb7c79fdf15a",
+      "en_sha256": "4d57c295ccabbb49c0f4c58df2420337fedc321a283e16bc6dc7040aed8b5ed6",
+      "origin": "ai"
+    },
+    "dataList[id=MRR5BaseP].name": {
+      "pl": "Aktywne Wzmocnienia",
+      "kr_sha256": "46d72ddc74a5ab60b1ccb79772e2bb8c69320dfafa2de880745bb699682601e8",
+      "en_sha256": "3da4ddbea10f3b8ff549201ba003dd41f7965d77870fe051da45f00433cc7677",
+      "origin": "ai"
+    }
+  }
+}

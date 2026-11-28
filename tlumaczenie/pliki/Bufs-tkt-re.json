@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=AccumulatedPastSinner].desc": {
+      "pl": "- Maks. stosów: 12\n- Na początku tury zyskuje 1 Wzrost Mocy Starcia i 1 Wzrost Poziomu Ataku za każde 3 stosy",
+      "kr_sha256": "86b80c5385228477b7a38d791f268fd6e797594b426144ff8e8d8e68c35edbe4",
+      "en_sha256": "6ba4b9356729d11f672797f52ad4c22651aa04c0ffbb39ce6ecd911e7203ce12",
+      "origin": "ai"
+    },
+    "dataList[id=AccumulatedPastSinner].name": {
+      "pl": "Zakumulowana Przeszłość",
+      "kr_sha256": "8c0b6d0f15859c769374b52354b58e4e708b8b43e061ca4bdb691b770319ad65",
+      "en_sha256": "5673f739081dcc636222cbc77b6297bbcb98570475838dae72c8783ab0cd1681",
+      "origin": "ai"
+    },
+    "dataList[id=OutisNoHat].desc": {
+      "pl": "- Jeżeli ma Pośpiech, podstawowe Umiejętności zyskują +1 więcej Licznika Wstrząsu\n- Jeżeli Szybkość jest większa niż celu, zadaje +(różnica Szybkości x 3)% obrażeń (maks. 15%)",
+      "kr_sha256": "bd8e82c37cb56bdd515b355cceb38c224d1f1744ae4b6988560df7a820e8b7d3",
+      "en_sha256": "74a2d83947e1e6eac97fcdcd6875e873244327ea381c1a0420ba16c21c0aec7a",
+      "origin": "ai"
+    },
+    "dataList[id=OutisNoHat].name": {
+      "pl": "Gwałtowne Windykacje",
+      "kr_sha256": "9c8714ad9c81047f500f42fd3ed72bdb90f3667d0a15a6a383ad9cd49d49d1e1",
+      "en_sha256": "08c7162796761b82b2a17d4f359f5a6b967bbe2aa985ab7626ed778c170deab5",
+      "origin": "ai"
+    }
+  }
+}

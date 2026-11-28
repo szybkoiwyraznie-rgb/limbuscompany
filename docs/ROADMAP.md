@@ -5,13 +5,12 @@ Etapy są sekwencyjne tam, gdzie wymagają danych; w nawiasie — kto blokuje.
 | Etap | Cel | Wynik | Blokuje |
 |---|---|---|---|
 | **0. Fundamenty** ✅ | repo, zasady, CI, zbieracz, walidator, inspekcja | ten PR | — |
-| **1. Rozpoznanie** | pierwsza paczka ze zbieracza, fakty o formacie | [FORMAT_LOCALIZE.md](FORMAT_LOCALIZE.md) z liczbami, E-005; wstępnie zrobione na publicznym lustrze (E-004) | właściciel (uruchomienie zbieracza) |
-| **2. Dane w repo** ✅ | `tools/import_data.py` → `index/` (Localize kr/en + tabele StaticData) z manifestem | `index/`, [INDEX_FORMAT.md](INDEX_FORMAT.md); teraz z luster, potem podmiana na paczkę zbieracza | właściciel (`LCB_DANE_*.zip`) |
-| **3. Droga end-to-end** | paczka testowa (1 tekst + polskie znaki), wybór czcionek | test w grze „Clear all caches” | właściciel (test), O-01, O-03 |
-| **4. Pakiet 000 (UI)** | `build_package.py` (część `widoki`), `import_zwrotki.py`, `build_lang.py` na małym zakresie | pierwsza paczka `Lang/` z prawdziwym przekładem | tłumacz |
-| **4a. Pakiet fabularny** ⏳ | `tools/build_package.py` w układzie SRW (D-07) | **prototyp z lustra gotowy** (E-005): 1001 scen z kontekstem | O-02 |
-| **5. Czytanki** ⏳ | `tools/build_reading.py` (fabuła w kolejności z `wiedza/indeks_fabuly.json`), `tools/build_profiles.py` (plik ID) | **w repo: `czytanki/`** (E-005, E-006); wersja z paczki właściciela | O-04 (akceptacja układu) |
-| **6. Aktualizacje** | `audit_update.py` (różnice po identyfikatorach, jak TW `update-kor.yml`), pakiety uzupełniające | obieg tygodniowy | — |
+| **1. Rozpoznanie** ✅ | pierwsza paczka ze zbieracza, fakty o formacie | [FORMAT_LOCALIZE.md](FORMAT_LOCALIZE.md), E-004, E-007 (build Steam `26652290`) | — |
+| **2. Dane w repo** ✅ | `tools/import_data.py` → `index/` (Localize kr/en + tabele StaticData) z manifestem | `index/`, [INDEX_FORMAT.md](INDEX_FORMAT.md) (build Steam `26652290`, E-007) | — |
+| **3. Droga end-to-end** ✅ | paczka testowa `Lang/Polski/` (przycisk „Clear all caches” + 18 polskich znaków), czcionki OFL | potwierdzone w grze (`v.1.119.1`, build `26652290`, E-012): pełny 5-kluczowy `config.json` + `Pretendard-Regular.ttf` i `Mikodacs.otf` w `Font/{Context,Title}`, 18/18 polskich liter bez artefaktów (D-10, zamyka O-03) | — |
+| **4. Rurociąg przekładu (100% gry)** ✅ | `build_package.py` + `package_views.py` (`sceny.zip` + `widoki.zip`), `import_zwrotki.py`, `build_lang.py` | kompletny pakiet `plik_dla_tlumacza_v2.zip` na Dysku (D-08, E-008) + gotowy importer i generator `Lang/Polski/` (E-009) | — |
+| **5. Czytanki** ✅ | `tools/build_reading.py` (fabuła w kolejności z `wiedza/indeks_fabuly.json`), `tools/build_profiles.py` (plik ID) | `czytanki/` w repo; układ zaakceptowany i zamrożony (D-07, O-04 zamknięte) | — |
+| **6. Aktualizacje** ✅ | `tools/audit_update.py` (różnice po identyfikatorach, wykrywanie nieaktualnych wpisów PL, `--delta-out`) | gotowy obieg tygodniowy (E-012) | — |
 | **7. Skala** | słowa kluczowe, fabuła Canto po Canto, Identity/E.G.O | kolejne pakiety | tłumacz |
 | **8. Wydawanie** | instrukcja instalacji (rozpakuj folder do `Lang/`, wybierz język) | paczka dla innych graczy | decyzja właściciela |
 

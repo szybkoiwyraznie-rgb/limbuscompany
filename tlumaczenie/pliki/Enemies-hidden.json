@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=124301].desc": {
+      "pl": "Vergilius",
+      "kr_sha256": "c17124f4fb2ab4276f551a7e1bf05b8cc4c900b7ae180a011d42f66344f5aea9",
+      "en_sha256": "e449e72b3014d1b6ab496b37e0d75809028066486a9cf88c7b7a4636a88e568c",
+      "origin": "ai"
+    },
+    "dataList[id=124301].name": {
+      "pl": "Główne Ciało",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=124302].desc": {
+      "pl": "Kkomi",
+      "kr_sha256": "605843208d1f47b277cad0926038a0fddd410988f9d3cbfdda0d6d65c628924e",
+      "en_sha256": "2b1c551d502f9e7acecb3ccecf4e491a8970e96cb6f93ec3e957fa83fae24bfd",
+      "origin": "ai"
+    },
+    "dataList[id=124302].name": {
+      "pl": "Kkomi",
+      "kr_sha256": "605843208d1f47b277cad0926038a0fddd410988f9d3cbfdda0d6d65c628924e",
+      "en_sha256": "2b1c551d502f9e7acecb3ccecf4e491a8970e96cb6f93ec3e957fa83fae24bfd",
+      "origin": "ai"
+    }
+  }
+}

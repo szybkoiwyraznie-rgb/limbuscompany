@@ -1,0 +1,70 @@
+{
+  "entries": {
+    "dataList[id=6].nameList[id=0].content": {
+      "pl": "Linia 6 w toku",
+      "kr_sha256": "8eef59a8708a0ba4098cf10aaa4056705f3ed4111487ef4a4145ef5f3444c56b",
+      "en_sha256": "08d5441fe85ed24af70bc4071073904fbff053c8eda7724e248111917e13fc29",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=1].content": {
+      "pl": "Odcinek 1: Ważenie Szat",
+      "kr_sha256": "e4f0312ce25a529bd1c87dca596ff077b1ed560d05448c5a64888d23e32d4aa7",
+      "en_sha256": "e924fda5029438f8b79b94c422afc16044b3bb9edd38e49daadd1b78ce010de0",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=1].shortName": {
+      "pl": "Odcinek 1",
+      "kr_sha256": "76921d8b60021daddf862269bbe886feba13c581ef8b296bc335b7028cf1adf7",
+      "en_sha256": "eaeef31421920cdc458cde49a4262cfea466aeb0870313bf12bef66d97907978",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=2].content": {
+      "pl": "Odcinek 2: Skalanie",
+      "kr_sha256": "bf8d76a3709e7f6a242f53b17d6873479973db95d4df76ebab762198db206694",
+      "en_sha256": "41628e6918a1eb0a99c879ec92be64191f2e7369db1f0c16b1e8a14793a101f3",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=2].shortName": {
+      "pl": "Odcinek 2",
+      "kr_sha256": "6329d035248898de9591e54941ed3b05136b1fe6b91178f53ba40f8d9e31e9ee",
+      "en_sha256": "5d8a4ed65b9b09b9af14d68468636d841e5c47b53b4c0fd630a8ccb39a58a875",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=3].content": {
+      "pl": "Odcinek 3: Niewinne Serce–Oblicze Rzeczy",
+      "kr_sha256": "afc3ec9754a2092aff97fe27d81771d6b9f913f171e31ae957a0af293b4b46e7",
+      "en_sha256": "3580f67114742018c175248d1ce5a6775fc512410976ab75578dc5e83caa7df4",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=3].shortName": {
+      "pl": "Odcinek 3",
+      "kr_sha256": "708f3d82bb6aa12bbc7e8700729070b4fc27d70c434d95fc2ce16f3626c30219",
+      "en_sha256": "3ba51973c43a235ef886351b808991045c95a651bb6c318bf871be78e4c848f2",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=4].content": {
+      "pl": "Odcinek 4: Splot–Zatracenie–Zaślepienie",
+      "kr_sha256": "33550bf4cce60b073ce01dd499349fc08367c765febf9a3535ba51160215f421",
+      "en_sha256": "5ac534daaf7cb337877b4334caf656932f7fcbfe9c564971e877e7e941309b8c",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=4].shortName": {
+      "pl": "Odcinek 4",
+      "kr_sha256": "602cc82784c49592bcd13a8249a0784dea95cd4b3639e12ce3a4890f05c38010",
+      "en_sha256": "f0b004637f2b6af3a877c1b1e6d2ce886c07967568b35bd600fd6dfefdfdb6bf",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=5].content": {
+      "pl": "Odcinek 5: Nadejście",
+      "kr_sha256": "26a9d0ed1483102e0fff1c3cb10577e5cfd1b781534426c6105df03ffb3113b7",
+      "en_sha256": "2a8f166b70ebed42cba3097bde034efea0a4c748f3494c02eec233341dc68eba",
+      "origin": "ai"
+    },
+    "dataList[id=6].nameList[id=5].shortName": {
+      "pl": "Odcinek 5",
+      "kr_sha256": "d96069d99a569e2759e3b296d19394cf06abacad071ee70902341f3f6448e64d",
+      "en_sha256": "7028c49bf8e3ce5a8c7386d1ad9b9ab57d35881392f891f781d893c8a91075e8",
+      "origin": "ai"
+    }
+  }
+}

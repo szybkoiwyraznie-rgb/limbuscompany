@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=827701].desc": {
+      "pl": "na początku walki posiada 1000 [LimitedTime]",
+      "kr_sha256": "9f79523a7940e3c0e96fc9cbc96eedd154e13b0766628f1b61f6a295325b2655",
+      "en_sha256": "a39ad4324ef6a0ab84fd4fac931fb7f9ddd5827442a87f07509560da1d511828",
+      "origin": "ai"
+    },
+    "dataList[id=827701].name": {
+      "pl": "Rescued Time",
+      "kr_sha256": "64082efd50b52b537aa7ab2188a7c5cf48c2afb1b4fc1bc6b39183a778eb801a",
+      "en_sha256": "f976234644b96a60fe3a49198a00498c58a3d126328ce0c5e8f11c2deca3a2a7",
+      "origin": "ai"
+    },
+    "dataList[id=827702].desc": {
+      "pl": "na koniec tury, jeżeli Część jest zniszczona, zużywa 100 Czasu z tej Części, by w następnej turze wyjść ze stanu zniszczonej Części.",
+      "kr_sha256": "56ea83058c5381f717148c71a39024f05550bb1337f468b000a6be702dca9c3d",
+      "en_sha256": "9f896ccd570169d408cc51f106fb5c7416bb0101e7bbd7da47a9b41ba771c7d0",
+      "origin": "ai"
+    },
+    "dataList[id=827702].name": {
+      "pl": "Accelerated Regeneration",
+      "kr_sha256": "d7b6f796e4248cadc78068fa106a4804277c62a1202378ca337bcf96ed4c3909",
+      "en_sha256": "922586c2784b7b657e545525f31ed18c4ac375d7227f9704fe3c8e6948c8050e",
+      "origin": "ai"
+    },
+    "dataList[id=827801].desc": {
+      "pl": "przy 75% HP przechodzi do drugiej fazy. przy zmianie fazy przywraca Poczytalność do 30, a [LimitedTime] zostaje podzielone między wszystkie Części jako [OwnTime].",
+      "kr_sha256": "48c50537e7deb1a9145c54652a3be28ce815c47e53ac2b0788f119a7f62a0ec6",
+      "en_sha256": "dfaa6195cf7327bb00d1ad24705fa5b978334917ce936c2df967d0dae3bdd76f",
+      "origin": "ai"
+    },
+    "dataList[id=827801].name": {
+      "pl": "Everyone's Time",
+      "kr_sha256": "2b59484d7cce3eb87c9d0742f4da9f0305e5107b293bd41f8e0aa3c88051db09",
+      "en_sha256": "b57b85dc06b8c71842ccfca30319644dfe309e262ba9e067d5777720603982ae",
+      "origin": "ai"
+    },
+    "dataList[id=827802].desc": {
+      "pl": "na koniec tury: zyskuje [EquitableDistribution].",
+      "kr_sha256": "f29d5aaa464dacff52f8e0bdb68c97be91aef0a56be1adbcc1b4f2d905c30ecb",
+      "en_sha256": "ddfd1c17baa82416e4f22ebb69490dfd5dd64e5e4f03e72179625e41350e27cc",
+      "origin": "ai"
+    },
+    "dataList[id=827802].name": {
+      "pl": "Equal Expense",
+      "kr_sha256": "a32af6a24c4f2b3279946e0a4ae5c7d4a6426ee94853875327a24331ffdbf539",
+      "en_sha256": "eeb615ba41903a83d7ee8f89fdd19d890fb428ea9418c453b0194d80f247a0e5",
+      "origin": "ai"
+    },
+    "dataList[id=827803].desc": {
+      "pl": "na początku tury wszystkie Części zyskują 5 [Protection].",
+      "kr_sha256": "3979dfbb35d24f7390a32d3f0f729f83bafd80a0f85b9ec022ee98d5eb20bf93",
+      "en_sha256": "8415a2df4eb4717cb252c5324d851a38ab0c205bb9e636f38684dfcc8825f096",
+      "origin": "ai"
+    },
+    "dataList[id=827803].name": {
+      "pl": "For the Time Community",
+      "kr_sha256": "1e59cfdd2d52162ea93888517f9f97891d508a2ba131858afc9077b6705bb077",
+      "en_sha256": "c7348f5c33a0eb6cdd199fca5516511e2e3bd493929970d18966d48a506dad20",
+      "origin": "ai"
+    },
+    "dataList[id=827804].desc": {
+      "pl": "przy 60% HP lub mniej, [EquitableDistribution] zamienia się w [UnfairDistribution].",
+      "kr_sha256": "7a969bc90efd86ba058646ded01206e38c023e9d4ff24d0b91280e3ea8173188",
+      "en_sha256": "d94599418ea671fe06f0768531e92fca6661798722cbf39f33aecf016af92038",
+      "origin": "ai"
+    },
+    "dataList[id=827804].name": {
+      "pl": "Take Theirs First!",
+      "kr_sha256": "8b5856c69f5abdb82ff8819f02fc1293e9f30651e5c35428563f9854bfb7dcc4",
+      "en_sha256": "009126fa0f9a9f6502100688250bc329164b6c1b7bcb230618cc2ab682dd081b",
+      "origin": "ai"
+    }
+  }
+}

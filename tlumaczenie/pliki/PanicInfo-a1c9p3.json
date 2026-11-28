@@ -1,0 +1,220 @@
+{
+  "entries": {
+    "dataList[id=1071].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Vulnerable]",
+      "kr_sha256": "91e1e3a495e3a76f02ddafc60591a26fa41419b216aa9cc2181c4e76ae0264f0",
+      "en_sha256": "05d08592959f99e86072b5d2b0b237ff46ffd61a5c1a1e703b0dcb9cb393f5b0",
+      "origin": "ai"
+    },
+    "dataList[id=1071].panicDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Vulnerable] i 5 [Combustion]",
+      "kr_sha256": "d941c693489a285987e0cf2ab874a8203ad92d16296040d3373ecb37acdafd1d",
+      "en_sha256": "688e5834e6e48d7908e99bd5a455b9a205cfda2caafabd335b9a99840679d01d",
+      "origin": "ai"
+    },
+    "dataList[id=1071].panicName": {
+      "pl": "Zdegradowana Korozja",
+      "kr_sha256": "2add01be73c776e288350d9e5cbb8ba83400fd7398644d7e7f67d583e339dc28",
+      "en_sha256": "214c320e12bd361df9b8c68ab1997db7153a3916e81edf1b250774e0540131ce",
+      "origin": "ai"
+    },
+    "dataList[id=1073].lowMoraleDescription": {
+      "pl": "Zyskujesz o 1 mniej [LanternHohenheimBigBird] z umiejętności",
+      "kr_sha256": "e97bdb1ab91afe6f88e600b0934d342c502f9fa9b9565984a28379494aa9a3ca",
+      "en_sha256": "ac1b1a7c88ad860ec5f4dc9aa8117f6a84ced9337e20bee236b465ea6e516a83",
+      "origin": "ai"
+    },
+    "dataList[id=1073].panicDescription": {
+      "pl": "Nie wykonuje działań w tej turze",
+      "kr_sha256": "6570a172e4e7a3b83157bcb66e35fdde6d0fcac7a6039b7b42ebb2c6a5781242",
+      "en_sha256": "f7178c24de010c91f82b70f2ed5cd6b1289e61ca91547c6a2e807275ccfda70e",
+      "origin": "ai"
+    },
+    "dataList[id=1073].panicName": {
+      "pl": "Fala Senności",
+      "kr_sha256": "b19d0ca07b4efe86d2c63c93877760608e26f3ec02ade231f4cc2b2ed5db4147",
+      "en_sha256": "462ccfa017b2f07cb36080f4b685513406cdbcdeabe1e263504ba8d55d3d5970",
+      "origin": "ai"
+    },
+    "dataList[id=1075].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Enhancement] i 4 [DefenseDown]; zyskaj 1 [AttackDmgUp] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)",
+      "kr_sha256": "60e265d6d8a8ea7212e771f1274f34e80d9aa532ac64473321d1174fddadcd39",
+      "en_sha256": "8f16e05f6ac3ac98e8821e2077e24fed454b9ce380c4f936f6bbbaf9efdad980",
+      "origin": "ai"
+    },
+    "dataList[id=1075].panicDescription": {
+      "pl": "Początek Tury: zyskaj 3 [Enhancement] i 5 [DefenseDown]; zyskaj 1 [AttackDmgUp] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)",
+      "kr_sha256": "28c1fe74f3629bb3c4dc2e8e20dd89645e1c3b1c1ecaaef594e699c0698cfeeb",
+      "en_sha256": "12977c0cd401ece78d4c3ac7b0bdf7e0bbb7b9776435fa18a061729e5d920f28",
+      "origin": "ai"
+    },
+    "dataList[id=1075].panicName": {
+      "pl": "Szaleńcza Furia",
+      "kr_sha256": "9faf1f02bce8aad9157d03056f40c6d17b55322880135846859a46673432d0cd",
+      "en_sha256": "a261fb7814d18d326827d615cacca1ff7e4932a5f77c41b236221b40ba497bfd",
+      "origin": "ai"
+    },
+    "dataList[id=1076].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 2 [DefenseDown]; zyskaj 1 [AttackDmgUp] za każde 30 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)",
+      "kr_sha256": "cc424b25a21e9ecbc1a5cf76e3a7c9f20264ce210138811c3594266c15f128a3",
+      "en_sha256": "c5671708490778e6d5efacb42f75b0887761b4304825c6fa6759f941e6d3b08a",
+      "origin": "ai"
+    },
+    "dataList[id=1076].panicDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Enhancement] i 3 [DefenseDown]; zyskaj 1 [AttackDmgUp] za każde 25 obrażeń PŻ otrzymanych w poprzedniej turze (maks. 5)",
+      "kr_sha256": "5ad17f668a33ccf13f1c5eb30d220e3de816759fb6058274e2837f9c4cd35244",
+      "en_sha256": "9098e74371aba37dc031f964d6bbb5f49d0433f38edf33b74d87928567a718e0",
+      "origin": "ai"
+    },
+    "dataList[id=1076].panicName": {
+      "pl": "Uniesienie",
+      "kr_sha256": "6943e6a2835bf0700b9f274535bc6dea9cdfaf21eea4e1f83df048b93474e581",
+      "en_sha256": "8e7e9a856d39a952ba8a6e473777b9a799fbe98cf63f6a10045c0f625f25618e",
+      "origin": "ai"
+    },
+    "dataList[id=1077].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [AttackUp]",
+      "kr_sha256": "8f0d4d5b92160ea5d7da610fe2381faaba5bf2daf02c75d08a2022ad6c8795b7",
+      "en_sha256": "dd788a3fbc37c782a854462fd0e77ae8775712b342ad7003363343ed9362aafe",
+      "origin": "ai"
+    },
+    "dataList[id=1077].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [AttackUp]",
+      "kr_sha256": "ec7c78cd28a5cb5741bb17788632999b3a925df586537409498b8e010fe5fc60",
+      "en_sha256": "0710c487d75ec81ff1a814b3ec5f86e8af145c2d3b03bcc11b0299253ceb7c5d",
+      "origin": "ai"
+    },
+    "dataList[id=1077].panicName": {
+      "pl": "Przestarzała Sztuka",
+      "kr_sha256": "b4fcbe2397a6c663853cc3e385535ef4379aab2b5c55fcaa45689f1d96e684d6",
+      "en_sha256": "859d613a889500639e85736924248bab0c57efc397e5f7971d50ce3d466b3bcb",
+      "origin": "ai"
+    },
+    "dataList[id=1078].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [SlashDamageUp], 1 [ParryingResultUp] i 1 [Vulnerable]\nNie może zyskać Mang przy użyciu umiejętności",
+      "kr_sha256": "cdcfd9931be1d451c5554fb5acd0721f980c3d0d0ca2c3fffdee15e28d30959b",
+      "en_sha256": "155d8a4397c92f0139d3d48ae7016fdaa360634028f0d02ea909505fcb8e9a58",
+      "origin": "ai"
+    },
+    "dataList[id=1078].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [SlashDamageUp], 2 [ParryingResultUp] i 2 [Vulnerable]\nNie może zyskać Mang przy użyciu umiejętności",
+      "kr_sha256": "0be0ee05d212d8fc1342dbd28a7f46d0c385bbcc5017291ec0b181a9dac374ac",
+      "en_sha256": "bde8ee22c0dca008d0b3b1964fa533d895b8812bd695a804dee0201327bd817d",
+      "origin": "ai"
+    },
+    "dataList[id=1078].panicName": {
+      "pl": "Hańba Rodu",
+      "kr_sha256": "fd7d999d5edbd48cc1068f318b36b2a7f901fb7f673253ceee320a40b184a0e0",
+      "en_sha256": "594c600231ab2ee6d3a954fc6d2549b1844a292e71a8ae5813f6f38bf207e17b",
+      "origin": "ai"
+    },
+    "dataList[id=1079].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 8 [ParryingResultDown] i 5 [ResultReduction]",
+      "kr_sha256": "723aad66fe00b52a444f50c327a57de31a908389cc086ac8ffdfc67f662a1955",
+      "en_sha256": "7b0e5a1a855932ac9b9e5651f827d64d3dd3680670ae288aba43b5c6988cfac9",
+      "origin": "ai"
+    },
+    "dataList[id=1079].panicDescription": {
+      "pl": "Początek Tury: zyskaj 10 [ParryingResultDown] i 5 [ResultReduction]",
+      "kr_sha256": "0990893fbeff3240010e6d926609561b226e37f4d3514d973dfdf27e3bfcf2f9",
+      "en_sha256": "40c59bd8df44e5aab32309d0ae254e40569cc0f79b840d3c10f7afab6d995ed8",
+      "origin": "ai"
+    },
+    "dataList[id=1079].panicName": {
+      "pl": "„Z-zabij… zabij mnie…”",
+      "kr_sha256": "feef61abc1eb6b6246c4e6b63a422ae90b8c3b4d4d35aa44692c5028e3535ca9",
+      "en_sha256": "901e9e73e306db23204b37118765df03b275ebd1576d8091eef960520a7ca209",
+      "origin": "ai"
+    },
+    "dataList[id=1080].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Vulnerable]\nSkuteczność odzyskiwania SP +2",
+      "kr_sha256": "fdb2837174d45655af0d3622c37e229fb7aaac640354ab8c84d28bb11c5ff69c",
+      "en_sha256": "fa3e32141b8fcc0576f1edeef7c39154b3ff1451dffc8f9eb9e28fe8de600bf4",
+      "origin": "ai"
+    },
+    "dataList[id=1080].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Vulnerable] i 2 [ParryingResultUp]",
+      "kr_sha256": "26840c6e2752efa5e9bdb660a09de7b71d7eab1ab652a1d0e85f1e83c9d77ded",
+      "en_sha256": "b0458242e0a4932c67d995ea57d8b7692109a5d2da43df229b744fb673521377",
+      "origin": "ai"
+    },
+    "dataList[id=1080].panicName": {
+      "pl": "Z Drugiej Wojny Dymnej",
+      "kr_sha256": "a3aad346f8f3f10d74951b16a4a7cf88b8154ec3e2047ed958ae1640e817c212",
+      "en_sha256": "a3ddd1466d43f82d15312dd6d1dcaf6238b2259c93206cdc7b5e7dfe85f3caa1",
+      "origin": "ai"
+    },
+    "dataList[id=1081].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Vulnerable] oraz nałóż 2 [Endurance] na Ezrę i Vespę",
+      "kr_sha256": "0fc2292089765e8381ba9c31903fc172911d240e0f50a271e84982bab2ce4b5c",
+      "en_sha256": "c5a3ca3e84a44f16a3f3b41cf3a6f8fdae5173632cf8ef94f6827aa9faa18756",
+      "origin": "ai"
+    },
+    "dataList[id=1081].panicDescription": {
+      "pl": "Zyskaj 1 [Vulnerable] i użyj „Wyrównania Oddechu”",
+      "kr_sha256": "f87ccdad67a844a4418a88457b9a2e8472a713a8a93b1a2a692c0b7a3da12d54",
+      "en_sha256": "d1ad37f09c5b00705bd0cc48d1a98ef18848dfbf78b0c6be9b7a88fdf8f886a1",
+      "origin": "ai"
+    },
+    "dataList[id=1081].panicName": {
+      "pl": "Nieodwracalnie Strzaskane Ciało",
+      "kr_sha256": "9811fde62b630ae84e7301677f43f3aff2b696c36581f9214ac339403f71d3f4",
+      "en_sha256": "4a2d6182bc5a05e313ea3cb6d24002013deb95c7b1e5bf7f7443ec073b3021c0",
+      "origin": "ai"
+    },
+    "dataList[id=1082].lowMoraleDescription": {
+      "pl": "Zyskaj 1 [Reduction] i 2 [DefenseUp]",
+      "kr_sha256": "5f0ed429c8d3022bbfbea3cd7ebcf8bd01395442f3f026045856a035acc9f5c7",
+      "en_sha256": "3078e39f5b4ddf73ae5dd361e055358ae6ce9b18865dd05e014ea16812daaaf4",
+      "origin": "ai"
+    },
+    "dataList[id=1082].panicDescription": {
+      "pl": "Zyskaj 1 [Reduction] i 3 [DefenseUp]",
+      "kr_sha256": "f57cc140b82128c478641575aea0ceeae3cc71f011126aa41b1a72eec9495f6a",
+      "en_sha256": "3f5bc37039aa9305e22735d667830d41b599a1d90b1c9909aae2b441bb117ccd",
+      "origin": "ai"
+    },
+    "dataList[id=1082].panicName": {
+      "pl": "Samoobrona - Maska",
+      "kr_sha256": "d57be37f1b925123fbf83c1f7e39e9a1c2a22aeb7b840e5cfd804a2dd72cca5a",
+      "en_sha256": "78bd98257de848c8d87de0b1e4a7dc671c0315aae95bd55b3e4fc2177f4fac00",
+      "origin": "ai"
+    },
+    "dataList[id=1083].lowMoraleDescription": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=1083].panicDescription": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=1083].panicName": {
+      "pl": "Alaya",
+      "kr_sha256": "ea310c1759a3ea35853b5e43e8894473cc92e9a92ea01e76dbe3f8158c84e357",
+      "en_sha256": "e75edae61b1d52908c4982b47c8b04bcf4fe73cb61a078d66a276dbd0f2f2dbb",
+      "origin": "ai"
+    },
+    "dataList[id=1084].lowMoraleDescription": {
+      "pl": "- Początek Tury: zyskaj 5 [Combustion] i 5 [Laceration]\n- Otrzymywane obrażenia od Grzeszniczki Ryōshū +10%",
+      "kr_sha256": "dc38aef282aacf652dfd85c495ef881e8e59bde338ca2b067a540a6663dd0157",
+      "en_sha256": "e353793d33a2085f78ae97a73ff5cdf3699a03b9df05a68309000cc82ae15f71",
+      "origin": "ai"
+    },
+    "dataList[id=1084].panicDescription": {
+      "pl": "- Początek Tury: zyskaj 5 [Combustion], +3 Licznika [Combustion], 5 [Laceration] i +3 Licznika [Laceration]\n- Otrzymywane obrażenia od Grzeszniczki Ryōshū +20%",
+      "kr_sha256": "f51886dc5bed4f1ccf664ebf71b80c7a1ffc50939cd655d27dfe93a5d9fa30f6",
+      "en_sha256": "5ed3f7339092acbed5c69deec8f8b35f6ee903146422c70675ba9e69d9205ce9",
+      "origin": "ai"
+    },
+    "dataList[id=1084].panicName": {
+      "pl": "Imitacja Ojca",
+      "kr_sha256": "bfac4087802e53b634b246a3c302efdc777efe035ab53c59ba39b73d06012f28",
+      "en_sha256": "7bb878ab8da54f06dd78ffe7a855c40f9fb81f6cfa39fd2b775051ddd2a6dba3",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[key=Q5000_C2].description": {
+      "pl": "Dotarliśmy na 5. piętro. Idźmy dalej w głąb.",
+      "kr_sha256": "98ecb8b9525923db4fc15cb1ab9a446eee7f5d00fce4a8961ce3788ed09a15ee",
+      "en_sha256": "62138eaf3d704addb28bfeee77f323a89def27375a858c5111c81462330bc4ea",
+      "origin": "ai"
+    },
+    "dataList[key=Q5000_C2].steps[#0].goalDescription1": {
+      "pl": "Udaj się na 5. piętro",
+      "kr_sha256": "8e2489796b4af9901a3d8e39dbe81187cef04d13976d476002de2bb80b821550",
+      "en_sha256": "56a2969c8f2408f5449a45d43d6fe32cc779661fa326b368bf0fb2592addd7c1",
+      "origin": "ai"
+    },
+    "dataList[key=Q5000_C2].title": {
+      "pl": "Udaj się na 5. piętro",
+      "kr_sha256": "8e2489796b4af9901a3d8e39dbe81187cef04d13976d476002de2bb80b821550",
+      "en_sha256": "56a2969c8f2408f5449a45d43d6fe32cc779661fa326b368bf0fb2592addd7c1",
+      "origin": "ai"
+    },
+    "dataList[key=Q5001_C2].description": {
+      "pl": "Na 5. piętrze czekał Bufet — tym razem nie rozdęty do poprzednich rozmiarów. On chce, byśmy zostali, ale nie możemy. Żeby iść dalej, musimy pokonać Bufeta.",
+      "kr_sha256": "df10ff77ce3f3f81737f97ed02f762b1bfa593a5c593356c0e92c1c0cd1348d0",
+      "en_sha256": "9aa5296aeb87b3bbe2c080664fc9e4863de588ace1a4025ab8fe3c80a1bb45af",
+      "origin": "ai"
+    },
+    "dataList[key=Q5001_C2].steps[#0].goalDescription1": {
+      "pl": "Stan na drodze Bufetowi",
+      "kr_sha256": "5b21108fc473d2ef99174daa6b095fc529f14898c1c6310c65385b4b483327ba",
+      "en_sha256": "1dc5cf1d104001db87f7ead5889cfd586d9abda8abb2521b8822373a4fba0a72",
+      "origin": "ai"
+    },
+    "dataList[key=Q5001_C2].title": {
+      "pl": "Stan na drodze Bufetowi",
+      "kr_sha256": "5b21108fc473d2ef99174daa6b095fc529f14898c1c6310c65385b4b483327ba",
+      "en_sha256": "1dc5cf1d104001db87f7ead5889cfd586d9abda8abb2521b8822373a4fba0a72",
+      "origin": "ai"
+    },
+    "dataList[key=Q5002_C2].description": {
+      "pl": "Bufet — czerwony bóg Le Rouge, a dawniej nasz towarzysz Pwie — już się nie rusza. Idźmy dalej w głąb 5. piętra.",
+      "kr_sha256": "0140f1540e285a3b463c6cb39a56eef0ed5410617fd8b5ad79c129c627a724f2",
+      "en_sha256": "5ec0290ddf7be0d8b51b0beb6cc4d46a91ce8be5dd7bc450e760b8575ab0babb",
+      "origin": "ai"
+    },
+    "dataList[key=Q5002_C2].steps[#0].goalDescription1": {
+      "pl": "Idź dalej w głąb 5. piętra",
+      "kr_sha256": "d29c6f754c3087b352fdf947113c03039753ac02a9df1ca0f178abb940a24828",
+      "en_sha256": "56a2969c8f2408f5449a45d43d6fe32cc779661fa326b368bf0fb2592addd7c1",
+      "origin": "ai"
+    },
+    "dataList[key=Q5002_C2].title": {
+      "pl": "Idź dalej w głąb 5. piętra",
+      "kr_sha256": "d29c6f754c3087b352fdf947113c03039753ac02a9df1ca0f178abb940a24828",
+      "en_sha256": "56a2969c8f2408f5449a45d43d6fe32cc779661fa326b368bf0fb2592addd7c1",
+      "origin": "ai"
+    },
+    "dataList[key=Q5003_C2].description": {
+      "pl": "Gdy posiłek się skończył, droga na 6. piętro stanęła otworem. Udamy się na górę.",
+      "kr_sha256": "45b2cfc070fbad07fa4b40d231b6101cadd1908498573abd8b9461b69b274b47",
+      "en_sha256": "8eba16a7682f0de0547baca90ff2baa8cc39d6628569cc0e8c37696eec637c22",
+      "origin": "ai"
+    },
+    "dataList[key=Q5003_C2].steps[#0].goalDescription1": {
+      "pl": "Udaj się na 6. piętro",
+      "kr_sha256": "6c7d866b7979bb3b1e1dcf7d00c363b927a5551acc9bd33d004b8f58ff7a2869",
+      "en_sha256": "ea0ea17186c80b4528d8e66f71d598d40997f0b24465d47f603fcf65a7ca5325",
+      "origin": "ai"
+    },
+    "dataList[key=Q5003_C2].title": {
+      "pl": "Udaj się na 6. piętro",
+      "kr_sha256": "6c7d866b7979bb3b1e1dcf7d00c363b927a5551acc9bd33d004b8f58ff7a2869",
+      "en_sha256": "ea0ea17186c80b4528d8e66f71d598d40997f0b24465d47f603fcf65a7ca5325",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+381||[podstawowe] Pasywka wroga [802802] — opis] 파괴 후 1턴 뒤 다른 팔이 파괴되지 않았으면, 해당 팔과 동일한 체력으로 팔이 재생된다.|After this part is broken, if the other arm is not broken at the end of the following turn, this part regenerates with the same HP as it.
+382||[podstawowe] Pasywka wroga [802803] — nazwa] 고통의 몸부림|Pained Writhing
+383||[podstawowe] Pasywka wroga [802803] — opis] 양 팔이 파괴되면 매 턴마다 취약 5를 얻고, 모든 적에게 독 10을 부여한다.|When both arms are broken, the unit gains 5 Fragile and inflicts 10 Poison on all enemies every turn.
+384||[podstawowe] Pasywka wroga [802804] — nazwa] 꿈틀거리는 본능|Wriggling Instincts
+385||[podstawowe] Pasywka wroga [802804] — opis] 본능 수치가 4 이상이면 공격적으로, 0이면 방어적으로 스킬 패턴이 변경된다.|Behavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 0.
+386||[podstawowe] Pasywka wroga [803302] — nazwa] 잘려나간 팔|Severed Arm
+387||[podstawowe] Pasywka wroga [803302] — opis] 팔이 파괴되면 매 턴 시작 시 취약 5를 얻는다.|When the arm is broken, the unit gains 5 Fragile every turn.
+388||[podstawowe] Pasywka wroga [802901] — nazwa] 휘파람의 공포|Fearsome Whistles
+389||[podstawowe] Pasywka wroga [802901] — opis] 어느 표지가 3 미만이면 싱클레어가 매 턴마다 속박 1, 마비 1을 얻는다.|If you have collected less than 3 of A Sign, Sinclair is inflicted with 1 Bind and Paralyze every turn.
+390||[podstawowe] Pasywka wroga [802902] — nazwa] 공포를 이기는 용기|Courage to Triumph Fear
+391||[podstawowe] Pasywka wroga [802902] — opis] 어느 표지가 3 이상이면 싱클레어가 매 턴마다 공격 위력 증가 1, 보호 2를 얻는다.|If you have collected 3 or more of A Sign, Sinclair gains 1 Attack Power Up and 2 Protection every turn.
+392||[podstawowe] Pasywka wroga [802903] — nazwa] 고통을 받아들여야 해!|You Must Accept the Pain!
+393||[podstawowe] Pasywka wroga [802903] — opis] 턴 시작 시 파괴되지 않은 부위가 출혈 또는 화상 상태면, 최대 체력의 15%만큼 체력을 회복하고, 공격 위력 증가 3을 얻는다. 어느 표지의 개수에 비례하여 회복량과 위력 증가 값이 최대 0까지 감소한다.|At the start of the turn, if the unbroken part has Bleed or Burn, heal 15% of Max HP and gain 3 Attack Power Up.\nThe healing and status effects gained are decreased based on the number of A Sign, down to 0.
+394||[podstawowe] Pasywka wroga [802904] — nazwa] 처단의 환희|Bliss of Execution
+395||[podstawowe] Pasywka wroga [802904] — opis] 적을 처치하면 다음 턴 시작 시 신속 2, 피해량 증가 5를 얻는다.|After defeating an enemy, gain 2 Haste and 5 Damage Up next turn.
+396||[podstawowe] Pasywka wroga [803001] — nazwa] 넘치는 희열|Overflowing Ecstasy
+397||[podstawowe] Pasywka wroga [803001] — opis] 3턴부터 2턴마다 희열 상태가 된다.|Starting with Turn 3, becomes Ecstatic every 2 turns.
+398||[podstawowe] Pasywka wroga [803002] — nazwa] 피어난 순수|Blooming Purity
+399||[podstawowe] Pasywka wroga [803002] — opis] 크로머의 본체 체력이 50% 미만이 되면 남은 턴동안 순수 상태가 된다.|If Kromer’s main body is brought to 50% HP, she gains Purity for the remaining turns.
+400||[podstawowe] Pasywka wroga [803003] — nazwa] 무결한 육체|Flawless Flesh
+401||[podstawowe] Pasywka wroga [803003] — opis] 팔 파괴 시 해당 부위가 공격 위력 감소 2를 얻는다.|When the arm is broken, the part is inflicted with 2 Attack Power Down.
+402||[podstawowe] Pasywka wroga [803101] — nazwa] 피주머니|
+403||[podstawowe] Pasywka wroga [803101] — opis] 분노 내성이 상승한다.\n우울 내성이 하락한다.|Wrath Resistance increases.\nGloom Resistance decreases.
+404||[podstawowe] Pasywka wroga [803102] — nazwa] 물주머니|
+405||[podstawowe] Pasywka wroga [803102] — opis] 물주머니가 지속될수록 본체 체력을 (수치 * 20) 만큼 회복한다.|While the Fluid Sac status is active, the Core heals (20 * Fluid Sac Count) HP.
+406||[podstawowe] Pasywka wroga [803103] — nazwa] 끓어오르는 피|Boiling Blood
+407||[podstawowe] Pasywka wroga [803103] — opis] 피주머니 상태에서, 몸통 부위 파괴당하면 모든 적에게 20의 고정 피해를 준다.|If the body is broken while Blood Sac is active, all enemies take 20 fixed damage.
+408||[podstawowe] Pasywka wroga [803201] — nazwa] 피뢰침|Lightning Rod
+409||[podstawowe] Pasywka wroga [803201] — opis] 전봇대 피격 시, 이번 턴에 감전 2 부여.\n가지고 있는 번개가 5 이상이면, 다음 턴부터 부위마다 피격 시 이번 턴에 감전 3 부여.\n(번개가 0이 되기전까지 지속)\n나태 속성 공격에 피격 시 상대에게 원래 감전 부여가 절반으로 감소. (올림)|When the Telephone Pole is hit, inflict 2 Shock on the attacker this turn.\nAt 5+ Lightning, all Parts will inflict 3 Shock on the attacker, starting next turn.\n(Lasts until Lightning reaches 0.)\nWhen hit by a Sloth attack, the amount of Shock inflicted is halved. (Rounded up.)
+410||[podstawowe] Pasywka wroga [803202] — nazwa] 번개|Lightning
+411||[podstawowe] Pasywka wroga [803202] — opis] 전봇대가 부숴지지 않았을 때, 공격 종료 시 번개 1 얻는다. 전봇대 피격 시마다, 번개 1 소모.|While the telephone pole isn’t broken, gain 1 Lightning after an attack.\nWhenever the telephone pole is hit by an attack, lose 1 Lightning.
+412||[podstawowe] Pasywka wroga [803203] — nazwa] 부서지는 파편|Breaking Pieces
+413||[podstawowe] Pasywka wroga [803203] — opis] 전봇대가 흐트러지거나 부위 파괴되었을 때, 번개가 0이 됨. 해당 턴동안 골목파수견의 공격 스킬이 전부 취소된다.|When the telephone pole is Staggered or Broken, lose all Lightning.\nAll attacks of Alleyway Watchdog will then be canceled for the turn.
+414||[podstawowe] Pasywka wroga [803401] — nazwa] 걸어다니는 봉이닭|
+415||[podstawowe] Pasywka wroga [803401] — opis] 턴 종료 시, 무작위 적 1명에게 3만큼 정신력 피해.|At the end of the turn, deal 3 SP damage to a random enemy.
+416||[podstawowe] Pasywka wroga [803701] — nazwa] 힘이 쑥쑥 봉이닭|
+417||[podstawowe] Pasywka wroga [803701] — opis] 턴 종료 시, 다음 턴에 자신 포함 모든 아군에게 피해량 증가 2, 보호 2 부여.|At the end of the turn, apply 2 Damage Up and 2 Protection to all allies next turn.
+418||[podstawowe] Pasywka wroga [803901] — nazwa] 행복해진 닭|
+419||[podstawowe] Pasywka wroga [803901] — opis] 턴 종료 시, 전투에 참여중인 (생닭 수 * 5)만큼 체력 회복.|At the end of the turn, heal 5 HP for each Raw Chicken in battle.
+420||[podstawowe] Pasywka wroga [803902] — nazwa] 우울해진 닭|
+421||[podstawowe] Pasywka wroga [803902] — opis] 턴 종료 시, 전투에 참여중인 (생닭 수 * 5)만큼 모든 적에게 정신력 피해.|At the end of the turn, deal 5 SP damage to all enemies for each Raw Chicken in battle.
+422||[podstawowe] Pasywka wroga [803903] — nazwa] 취약해진 닭|
+423||[podstawowe] Pasywka wroga [803903] — opis] 부위 파괴 시, 매 턴마다 부위 파괴 턴까지 죽은 생닭 수만큼 취약을 얻음.|When a Part breaks, gain 1 Fragile every turn for each Raw Chicken that died before the Part was broken.
+424||[podstawowe] Pasywka wroga [803904] — nazwa] 강해진 닭|
+425||[podstawowe] Pasywka wroga [803904] — opis] 부위 파괴 상태가 아니라면, 매 턴마다 살아있는 닭만큼 피해량 증가를 얻음.|If the Part isn’t broken, gain 1 Damage Up for each living Raw Chicken.
+426||[podstawowe] Pasywka wroga [804101] — nazwa] 팽창하는 슬픔|Expanding Sorrow
+427||[podstawowe] Pasywka wroga [804101] — opis] 턴 종료 시 해소되지 않은 슬픔 이 3 이상 있으면, 다음 턴에 머리가 생성되고 스킬 패턴이 변경된다.|At the end of the turn, if the unit has 3+ Unresolved Sorrow, generates a head next turn and changes behavior.
+428||[podstawowe] Pasywka wroga [804102] — nazwa] 헤어나올 수 없는 슬픔|Inconsolable Sorrow
+429||[podstawowe] Pasywka wroga [804102] — opis] 턴 종료 시 해소되지 않은 슬픔 이 3 이상 있을 때, 머리가 파괴되어 있는 경우, 다음 턴에 흐트러짐 상태가 된다.|At the end of the turn, if the unit has 3+ Unresolved Sorrow and the head is broken, becomes staggered next turn.
+430||[podstawowe] Pasywka wroga [804103] — nazwa] 무력화|Taken by the Horns
+431||[podstawowe] Pasywka wroga [804103] — opis] 머리가 흐트러짐 상태가 되면, 다음 턴에 모든 부위가 흐트러짐 상태가 된다.|When the head is staggered, all parts become staggered next turn.
+432||[podstawowe] Pasywka wroga [804104] — nazwa] 완전 무력화|Downed by the Horns
+433||[podstawowe] Pasywka wroga [804104] — opis] 머리가 파괴되면 다음 턴에 모든 부위가 흐트러짐 상태가 된다. 이후 이번 전투 동안 모든 부위가 공격 위력 감소 3을 얻는다.|When the head is broken, all parts become staggered next turn. Afterwards, all parts have 3 Attack Power Down for the duration of the battle.
+434||[podstawowe] Pasywka wroga [804501] — nazwa] 살아있는 신경|Living Nerves
+435||[podstawowe] Pasywka wroga [804501] — opis] 죽음을 맞이하면 해당 턴 스킬 전부 취소.\n보유한 자가 충전 2배로 늘어남.|Upon death, all Skills are cancelled for the turn.\nDoubles currently owned Self-charge.
+436||[podstawowe] Pasywka wroga [804502] — nazwa] 움직이는 신경|Motioning Nerves
+437||[podstawowe] Pasywka wroga [804502] — opis] 죽음을 맞이한 후 공격 스킬당 자가 충전 1 소모.\n가지고 있는 자가 충전을 전부 소모하기 전까지 적을 공격함.|After dying, attack skills spend 1 Self-charge.\nAttacks enemies until Self-charge runs out.
+438||[podstawowe] Pasywka wroga [804503] — nazwa] 끈질긴 생명력|Undying Persistence
+439||[podstawowe] Pasywka wroga [804503] — opis] 5턴마다 머리 부위 체력만큼 보호막을 얻음.|Every 5 turns, gains a Shield equal to the head's HP.
+440||[podstawowe] Pasywka wroga [804504] — nazwa] 끊겨버린 생명력|Terminated Persistence
+441||[podstawowe] Pasywka wroga [804504] — opis] 똬리틀기 사용 후 보호막을 전부 소모할 시 자가 충전 소모.\n모든 부위가 다음 턴에 흐트러짐 상태가 됨.|After using 'Coil Up', if the Shield is exhausted, spend Self-charge.\nAll parts become staggered next turn.
+442||[podstawowe] Pasywka wroga [804601] — nazwa] 부서진 우산|Broken Umbrella
+443||[podstawowe] Pasywka wroga [804601] — opis] 등 부위 파괴 시, 매 턴마다 취약 3 얻음. 파열 2 추가 부여|After the back is broken, gain 3 Fragile every turn. Inflict +2 Rupture.
+444||[podstawowe] Pasywka wroga [804602] — nazwa] 다해진 우산|Ragged Umbrella
+445||[podstawowe] Pasywka wroga [804602] — opis] 머리 우산 부위 파괴 시, 매 턴마다 공격 레벨 감소 5 얻음, 침잠 2 추가 부여|After the head umbrella is broken, gain 5 Offense Level Down every turn. Inflict +2 Sinking.
+446||[podstawowe] Pasywka wroga [804603] — nazwa] 마지막 발버둥|Last Struggle
+447||[podstawowe] Pasywka wroga [804603] — opis] 전체 체력의 15%만큼 남았다면, 매 턴마다 속도 1로 고정. 공격 위력 감소 1 얻음\n새로 소환된 낡은 우산 체력 30% 증가. 매 턴마다 무언가를 찾는 울음소리 사용|At 15% HP, the unit's Speed is fixed at 1, and gains 1 Attack Power Down.\nNewly spawned Old Umbrellas have 30% more HP. Uses 'Cries Seeking Something' every turn.
+448||[podstawowe] Pasywka wroga [804701] — nazwa] 옮겨붙는 불씨|Spreading Ember
+449||[podstawowe] Pasywka wroga [804701] — opis] 턴 종료 시 자신에게 화상이 있다면, 얽혀온 저주 부적을 가지고 있는 모든 대상에게 가지고 있는 화상만큼 다음 턴에 화상 부여|At the end of the turn, if this unit has Burn, inflict the same amount to all units with Entangled Curse Talisman next turn
+450||[podstawowe] Pasywka wroga [804702] — nazwa] 부서진 수단|Broken Means
+451||[podstawowe] Pasywka wroga [804702] — opis] 팔 부위 파괴 시, 팔이 가하는 피해량 - 20%|When the arm is broken, it deals -20% damage
+452||[podstawowe] Pasywka wroga [804801] — nazwa] 취기가 딸꾹!|Booze Makes You Hicc!
+453||[podstawowe] Pasywka wroga [804801] — opis] 취기 5이상인 적에게 "이건 내가 먹어야지!"를 적중시켰다면, 흐트러짐 상태가 됨.|After using 'I'll Have This!' on enemies with 5+ Tipsy and successfully landing the attack, become staggered.
+454||[podstawowe] Pasywka wroga [804802] — nazwa] 고양되는 내음이죠?|Stimulating Smell, Isn't It?
+455||[podstawowe] Pasywka wroga [804802] — opis] 내부에서 나는 알 수 없는 내음으로 고양감이 생김.\n웨이브 시작 시 무작위 수감자 한 명에게 고양 5 부여.|A mysterious smell from within boosts the spirit.\nA random Sinner gains 5 Morale Boost at the start of the wave.
+456||[podstawowe] Pasywka wroga [805201] — nazwa] 버려진 낡은 우산|Old and Abandoned
+457||[podstawowe] Pasywka wroga [805201] — opis] 자신이 처치되면 다음 턴에 처치한 수감자 신속 2 얻음.\n떠돌이 여우의 모든 부위에 속박 2 부여. 우산 파편 1 부여.|When this unit is defeated, the Sinner that defeated it gains 2 Haste next turn.\nAll parts of Drifting Fox are inflicted with 2 Bind and 1 Umbrella Splinters.
+458||[podstawowe] Pasywka wroga [804301] — nazwa] 위태로운 정신|Perilous Mind
+459||[podstawowe] Pasywka wroga [804301] — opis] 매 턴 종료 시 정신력이 10 감소|At the end of each turn, lose 10 SP.
+460||[podstawowe] Pasywka wroga [804302] — nazwa] 위태로운 마음|Perilous Heart
+461||[podstawowe] Pasywka wroga [804302] — opis] 사기 저하 상태면 공격 위력 증가 2 , 속박 3을 얻음|While in low morale, gain 2 Attack Power Up and 3 Bind.
+462||[podstawowe] Pasywka wroga [804303] — nazwa] 흐트러진 마음|Faltering Heart
+463||[podstawowe] Pasywka wroga [804303] — opis] 패닉 상태면 흐트러짐 상태가 됨|In panic, become staggered.
+464||[podstawowe] Pasywka wroga [804304] — nazwa] 결의|Determination
+465||[podstawowe] Pasywka wroga [804304] — opis] 패닉 상태에서 돌아온 경우, 정신력을 최대로 회복하고, 신속 2, 공격 위력 증가 2를 얻음|When recovering from panic, fully heal SP, and gain 2 Haste and 2 Attack Power Up.
+466||[podstawowe] Pasywka wroga [804305] — nazwa] 로보토미 E.G.O|Lobotomy E.G.O
+467||[podstawowe] Pasywka wroga [804305] — opis] 보호막 체력 1200을 가지고 전투 시작|Starts the battle with 1200 Shield HP
+468||[podstawowe] Pasywka wroga [805301] — nazwa] 마음의 벽|Walled Heart
+469||[podstawowe] Pasywka wroga [805301] — opis] 이 유닛이 파괴될 때마다 동백의 침잠 횟수가 5 증가하고, 모든 수감자의 침잠 2 감소, 모든 수감자가 다음 턴에 보호 1, 공격 위력 증가 2를 얻음|Whenever this unit is broken, Dongbaek is inflicted with +5 Sinking Count, and all Sinners lose 2 Sinking Count; all Sinners gain 1 Protection and 2 Attack Power Up next turn.
+470||[podstawowe] Pasywka wroga [804401] — nazwa] 만발|Into Full Bloom
+471||[podstawowe] Pasywka wroga [804401] — opis] 5턴 시작 시 성장 3을 보유한 곧 피어날 꽃 4개 생성|At the start of Turn 5, spawn 4 Soon-to-bloom Flowers with 3 Growing
+472||[podstawowe] Pasywka wroga [804402] — nazwa] 흐드러지는 마음|Flowering Mind
+473||[podstawowe] Pasywka wroga [804402] — opis] 체력이 50% 이하가 되면 2페이즈로 넘어감. 2페이즈 전까지 체력이 50% 미만으로 감소하지 않음|When HP drops to 50%, proceeds to the next phase. HP does not go below 50% until the phase changes.
+474||[podstawowe] Pasywka wroga [804403] — nazwa] 대결|Dueling
+475||[podstawowe] Pasywka wroga [804403] — opis] 체력이 50% 이하가 되면 특정 1명을 지정하는 특수 스킬 사용\n해당 턴 부터 다음 2턴 동안 흐트러짐, 패닉 상태가 되지 않음.\n대결 효과를 보유한 캐릭터가 이상이면, 동백이 공격 위력 증가 1을 얻음\n이상이 대결에서 승리한 경우, 다음 턴에 모든 아군이 피해량 증가 3을 얻음.\n동백이 대결에서 승리한 경우, 정신력을 최대로 회복함.|When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Dueling', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gain 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP.
+476||[podstawowe] Pasywka wroga [804404] — nazwa] 피어남의 대가|Cost of Blooming
+477||[podstawowe] Pasywka wroga [804404] — opis] 찬란한 봄바람 스킬의 합 패배 시 정신력 -10|If 'Magnificent Spring Breeze' loses in a clash, lose 10 SP
+478||[podstawowe] Pasywka wroga [805401] — nazwa] 자라나는 꽃|Growing Flower
+479||[podstawowe] Pasywka wroga [805401] — opis] 성장 1을 보유하고 생성됨|Spawns with 1 Growing
+480||[podstawowe] Pasywka wroga [804903] — nazwa] 자기 파괴|Self Destruction
+481||[podstawowe] Pasywka wroga [804903] — opis] 모든 스킬을 피아식별 없이 사용. 스킬 사용 시마다 최대 체력의 2%만큼 체력을 잃음|All skills target indiscriminately. With each skill used, this unit loses 2% of Max HP.
+482||[podstawowe] Pasywka wroga [804904] — nazwa] 자기 구제|Self Salvation
+483||[podstawowe] Pasywka wroga [804904] — opis] 체력 회복 효과가 2배로 적용된다.|HP healing effects heal twice as much.
+484||[podstawowe] Pasywka wroga [805601] — nazwa] 빛나는 허영|Radiant Vanity
+485||[podstawowe] Pasywka wroga [805601] — opis] 이 유닛이 살아있으면 턴 시작 시 동랑에게 보호 1, 공격 위력 증가 1을 부여함|While this unit is present, Dongrang gains 1 Protection and 1 Attack Power Up at the start of each turn.
+486||[podstawowe] Pasywka wroga [805602] — nazwa] 간절한 성과|Earnest Accomplishment
+487||[podstawowe] Pasywka wroga [805602] — opis] 이 유닛에 간절한 성과 가 있을 때 아래의 효과가 적용된다.\n- 동랑의 공격으로만 처치 가능.\n- 수감자가 이 유닛의 체력을 1로 만들면, 수감자가 체력을 회복하고 이 유닛이 공허한 영예 를 얻음\n- 동랑이 이 유닛을 처치하면, 동랑이 체력을 회복한 뒤 다음 턴에 강화됨|While this unit has Earnest Accomplishment, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If a Sinner drops this unit's HP to 1, the Sinner heals HP, and this unit gains Empty Honor.\n- If Dongrang defeats this unit, Dongrang heals HP and powers up next turn.
+488||[podstawowe] Pasywka wroga [805603] — nazwa] 공허한 영예|Empty Honor
+489||[podstawowe] Pasywka wroga [805603] — opis] 이 유닛에 공허한 영예 가 있을 때 아래의 효과가 적용된다.\n- 동랑의 공격으로만 처치 가능.\n- 동랑이 처치하면, 동랑이 체력을 잃은 뒤 공허함 1을 얻고 다음 턴에 약화됨|While this unit has Empty Honor, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If Dongrang defeats this unit, Dongrang loses HP, gains 1 Emptiness, and is weakened next turn
+490||[podstawowe] Pasywka wroga [805701] — nazwa] 맺힌 결실|Borne Fruition
+491||[podstawowe] Pasywka wroga [805701] — opis] 이 유닛을 처치한 대상은 체력을 최대 체력의 5%만큼 회복하고, 다음 턴에 신속 1, 공격 위력 증가 1을 얻음|The unit that defeated this unit heals by 5% of Max HP, and gains 1 Haste and 1 Attack Power Up next turn
+492||[podstawowe] Pasywka wroga [805001] — nazwa] 이상을 항하여|Toward the Ideal
+493||[podstawowe] Pasywka wroga [805001] — opis] 현재 체력이 최대 체력의 85%, 50%가 될 때마다 욕망의 나무 2개를 생성하고, 스킬 패턴이 변경됨|When the HP is brought to 85% and 50% of Max HP, respectively, spawns 2 Trees of Desires and changes behavior.
+494||[podstawowe] Pasywka wroga [806001] — nazwa] 빛나는 욕망|Radiant Desire
+495||[podstawowe] Pasywka wroga [806001] — opis] 이 유닛이 살아있으면 동랑이 턴 시작 시 피해량 증가, 보호 1을 얻음|While this unit is present, Dongrang gains 1 Damage Up and 1 Protection at the start of each turn.
+496||[podstawowe] Pasywka wroga [805004] — nazwa] 등돌림의 대가|Price of Neglect
+497||[podstawowe] Pasywka wroga [805004] — opis] 수확의 시간 스킬의 합 패배 시 정신력 -5|If 'Time of Harvest' loses in a clash, lose 5 SP
+498||[podstawowe] Pasywka wroga [805005] — nazwa] 비릿한 웃음|Bitter Smile
+499||[podstawowe] Pasywka wroga [805005] — opis] 패닉 상태가 되면, 다음 턴 시작 시 보호 2를 얻고 정신력이 0으로 돌아옴|When in panic, gain 2 Protection and reset SP to 0 at the start of the next turn.
+500||[podstawowe] Pasywka wroga [805006] — nazwa] 비효율적인 판단|Inefficient Judgement
+501||[podstawowe] Pasywka wroga [805006] — opis] 흐트러짐 상태에서 돌아올 때 공격 위력 증가 1을 얻음|When recovering from stagger, gain 1 Attack Power Up.
+502||[podstawowe] Pasywka wroga [805007] — nazwa] 체력 소모|Exhausting Endeavor
+503||[podstawowe] Pasywka wroga [805007] — opis] 양분이 되어주세요 스킬을 3번 사용하면 다음 턴에 흐트러짐 상태가 됨|After using the skill Please Be My Nutrient 3 times, become staggered next turn.
+504||[podstawowe] Pasywka wroga [805002] — nazwa] 이상을 항하여|
+505||[podstawowe] Pasywka wroga [805002] — opis] 현재 체력이 최대 체력의 85%가 되면 욕망의 나무 2개를 생성하고, 스킬 패턴이 변경됨|When the HP is brought to 85% of Max HP, spawns 2 Trees of Desires and changes behavior.
+506||[podstawowe] Pasywka wroga [805003] — nazwa] 이상을 항하여|
+507||[podstawowe] Pasywka wroga [805003] — opis] 현재 체력이 최대 체력의 50%가 되면 욕망의 나무 2개를 생성하고, 스킬 패턴이 변경됨|When the HP is brought to 50% of Max HP, spawns 2 Trees of Desires and changes behavior.
+508||[podstawowe] Pasywka wroga [805801] — nazwa] 미끼 요정|Fairy Lure
+509||[podstawowe] Pasywka wroga [805801] — opis] 요정 공격 시, 해당 부위 체력만 감소함.|When the fairy is attacked, only that part loses HP.
+510||[podstawowe] Pasywka wroga [805802] — nazwa] 드러난 밑동|Exposed Base
+511||[podstawowe] Pasywka wroga [805802] — opis] 요정 부위 파괴 시, 다음 턴에 뿌리 공격 가능 상태가 됨.\n모든 부위에 다음 턴에 공격 위력 증가 1, 속박 2, 취약 3을 얻음.|When the fairy part is broken, the roots can be attacked next turn.\nAll parts gain 1 Attack Power Up, 2 Bind, and 3 Fragile next turn.

@@ -1,0 +1,96 @@
+7069||EGOvoice#Voice_EGO_Ryoshu_4.json] 항상… 지켜보고 있었지.|I've... always had my eye on you.
+7070||EGOvoice#Voice_EGO_Ryoshu_4.json] 자, 다들 아가리 벌려. 안심하고 쳐마셔보라고, 후후.|Go on, open wide. Relax and cram this drink down your throats, heheh.
+7071||EGOvoice#Voice_EGO_Ryoshu_4.json] 자, 다들 아가리 벌려.|Right, then. Open wide, all of you.
+7072||EGOvoice#Voice_EGO_Ryoshu_4.json] 이 파도 속에서 움직일 수 있는 건, 오직 나다. …깨어져라.|I am the only one who moves in these waves. ... Shatter.
+7073||EGOvoice#Voice_EGO_Ryoshu_4.json] 흩뿌려져라. 추악함에 모든 시선이 이끌릴지어다.|Scatter. Every gaze shall be drawn to this squalidity.
+7074||EGOvoice#Voice_EGO_Ryoshu_4.json] 원망도 뉘우침도 소용이 없었으니, 그저 무언가를 잡으려 애썼을 뿐.|Resentment, penance... all of it, to no avail.\nI was only reaching out to grasp onto something, anything.
+7075||EGOvoice#Voice_EGO_Ryoshu_4.json] 세 번 베어낸다. 과거를 천 번 단조하여 베어내고, 미래에서 천 번 거슬러 찢어 내고, 찰나의 일순. 다시 천 번을 끊어. 삼천대세계(三千大世界).|The three severings: Reforge the past a thousandfold to cut it apart, retrace the future a thousandfold to rip it apart, rive the kṣaṇa of circumvolution another thousandfold. Sanzendaisekai (三千大世界).
+7076||EGOvoice#Voice_EGO_Ryoshu_4.json] 세 번 베어낸다.|The three severings:
+7077||EGOvoice#Voice_EGO_Ryoshu_4.json] 과거를 천 번 단조하여 베어내고,|Reforge the past a thousandfold to cut it apart,
+7078||EGOvoice#Voice_EGO_Ryoshu_4.json] 미래에서 천 번 거슬러 찢어 내고,|retrace the future a thousandfold to rip it apart,
+7079||EGOvoice#Voice_EGO_Ryoshu_4.json] 찰나의 일순. 다시 천 번을 끊어. 삼천대세계(三千大世界).|rive the kṣaṇa of circumvolution another thousandfold.\nSanzendaisekai (三千大世界).
+7080||EGOvoice#Voice_EGO_Ryoshu_4.json] 모든 것을 태우는 것은…|The all-consuming fire…
+7081||EGOvoice#Voice_EGO_Ryoshu_4.json] 영양분이 될 시간이야… 훗.|Time to serve as nutrition... Heh.
+7082||EGOvoice#Voice_EGO_Ryoshu_4.json] 너를 구하러 오겠다는 사람은 없더라고… 깔깔깔|Turns out no one's come to save you... Kehehe.
+7083||EGOvoice#Voice_EGO_Ryoshu_4.json] 점점 졸려질 거야… 그렇지?|Starting to feel drowsy... aren't you?
+7084||EGOvoice#Voice_EGO_Ryoshu_4.json] 거기 그대로 있어… 이 번쩍이는 조명을 네게 꿰어줄테니!|Sit tight... I'll skewer you with the fluorescent light!
+7085||EGOvoice#Voice_EGO_Ryoshu_4.json] 경멸하라…! 꿰뚫을 정도의 뜨거운 혐오감을 쏟아낼지니!|Contempt...! Pulse, burst with this burning, piercing scorn!
+7086||EGOvoice#Voice_EGO_Ryoshu_4.json] 들이쉬고… 내쉬어도… 이 고통은 사라지지 않나…|I breathe in... and out... but it won't stop hurting...
+7087||EGOvoice#Voice_EGO_Ryoshu_4.json] 성수의 미래를 파하고,|Destroy the starborn future.
+7088||EGOvoice#Voice_EGO_Ryoshu_4.json] 장엄한 과거에 머물렀으니.|Dwell in the glorious past.
+7089||EGOvoice#Voice_EGO_Ryoshu_4.json] 현겁의 일섬, 산산히 조각내어.|Dissever all with Bhadrakalpa's singular strike.
+7090||EGOvoice#Voice_EGO_Ryoshu_4.json] 삼천대세계(三千大世界).|Sanzendaisekai (三千大世界).
+7091||EGOvoice#Voice_EGO_Sinclair_10.json] 나의 손으로 잘라낼 수 있다면…|If I can sever it by my own hands…
+7092||EGOvoice#Voice_EGO_Sinclair_10.json] 짓이겨 버리겠어…|I’ll crush you…
+7093||EGOvoice#Voice_EGO_Sinclair_10.json] 이것이 구, 궁극의…! 웃, 우아악…|This is the u-ultimate…! Whoa, uaaahh…
+7094||EGOvoice#Voice_EGO_Sinclair_10.json] 나무와 함께… 베어 넘겨 드리죠.|I'll chop you down... along with the trees.
+7095||EGOvoice#Voice_EGO_Sinclair_10.json] 여기에는 네 약한 부분도 쓰여있지… 자, 여기!|Your weakness is written... Right here!
+7096||EGOvoice#Voice_EGO_Sinclair_10.json] 모든 슬픔과 눈물을 그러모아, 대신 울어드릴 수 있다면…|If only I could gather all the sorrow, all the tears together, and cry in their stead...
+7097||EGOvoice#Voice_EGO_Sinclair_10.json] 당신도 꽂혀보세요. 누군가에게 저주받는 기분이 어떤 것인지…|Why don't you try impaling yourself with it, then.\nFeel what it's like to have someone curse you...
+7098||EGOvoice#Voice_EGO_Sinclair_10.json] 더는 하늘에 오르지 못한다해도… 당신을 품으려, 끝없이 아래로.|Earthbound I have become, but... to embrace you, I endure this endless descent.
+7099||EGOvoice#Voice_EGO_Sinclair_10.json] 잠시, 아파도, 참아주세요…! 장담할게요, 사람만큼 훌륭한 음악을 만들어주는 건… 없어요!|I know it hurts, but please, stop struggling...!\nI promise, nothing could make as fascinating music as a human can...\nNothing!
+7100||EGOvoice#Voice_EGO_Sinclair_10.json] 잠시, 아파도, 참아주세요…!|I know it hurts, but please, stop struggling...!
+7101||EGOvoice#Voice_EGO_Sinclair_10.json] 장담할게요, 사람만큼 훌륭한 음악을 만들어주는 건… 없어요!|I promise, nothing could make as fascinating music as a human can...\nNothing!
+7102||EGOvoice#Voice_EGO_Sinclair_10.json] 또한, 산 제물이 되어라.|You, too, will be a live offering.
+7103||EGOvoice#Voice_EGO_Sinclair_10.json] 후우… 소화… 끝…|Phew… All… churned up…
+7104||EGOvoice#Voice_EGO_Sinclair_10.json] 숲에 발을 들일 때는… 조심했어야죠!|Should've watched your steps in the woods...!
+7105||EGOvoice#Voice_EGO_Sinclair_10.json] 파멸, 멸망, 파멸…! @#()*!%&#@&(!*)|Ruin, devastation, ruin...! @#()*!%&#@&(!*)
+7106||EGOvoice#Voice_EGO_Sinclair_10.json] 찢었으니! 이제 꿰메야지! 히히… 이리와!|Now that you're torn, I'll sew you up! Heheh... Get over here!
+7107||EGOvoice#Voice_EGO_Sinclair_10.json] 당신의 죄는… 이 땅에서 벌할 수 없으니. 눈을 감고, 하늘께서 명하신 형벌을.|The earth has no punishment for your sins.\nShut your eyes, now. Accept the retribution of the heavens.
+7108||EGOvoice#Voice_EGO_Sinclair_10.json] 이리, 좀 더 가까이… 하핫, 그래! 그 비명이 만들어주는 9화음! 최상의… 하모니야.|This way, just a little closer... Hahah! Perfect!\nThat scream, weaving into a ninth chord! Such wondrous... harmony.
+7109||EGOvoice#Voice_EGO_Sinclair_10.json] 이리, 좀 더 가까이…|This way, just a little closer...
+7110||EGOvoice#Voice_EGO_Sinclair_10.json] 하핫, 그래! 그 비명이 만들어주는 9화음!|Hahah! Perfect!\nThat scream, weaving into a ninth chord!
+7111||EGOvoice#Voice_EGO_Sinclair_10.json] 최상의… 하모니야.|Such wondrous... harmony.
+7112||EGOvoice#Voice_EGO_YiSang_1.json] 이상이 무엇이라 생각하시오.|Utter to me what you think the ideal is.
+7113||EGOvoice#Voice_EGO_YiSang_1.json] 태우고 싶은 것을 태울뿐이오.|I burn what I wish to burn.
+7114||EGOvoice#Voice_EGO_YiSang_1.json] 복을 구하고 싶다면 정성을 들여 빌어보시오.|If it is fortune you seek—pray with all sincerity.
+7115||EGOvoice#Voice_EGO_YiSang_1.json] 색색이 황홀하고… 아예 기억 못하게 하려는 길이구료.|Such enchanting colors… The path is intent on thwarting all attempts to memorize it.
+7116||EGOvoice#Voice_EGO_YiSang_1.json] 이 스며들 듯 하는 비에, 우산이 새지나 않나 모르겠소.|I worry that this seeping rain may leak through the umbrella.
+7117||EGOvoice#Voice_EGO_YiSang_1.json] 이것은 그 분의 초상이오. 가까이서… 자세히 보겠는가?|This is a portrait of theirs. Will you observe... a little closer?
+7118||EGOvoice#Voice_EGO_YiSang_1.json] 위장에 묵직히 얹히는 총신을 느끼리라. 흉악한 총탄이 저들을 관통하리라…!|I shall feel the ponderous mass of the gun barrel rest upon my viscera.\nLet this accursed bullet pierce through them...!
+7119||EGOvoice#Voice_EGO_YiSang_1.json] 지금을 쪼개어 일천(一千). 편린들에 비추어진 미래를 쪼개어 다시 이천(二千). 마침내 망그러진 과거는 깨어지겠소. 기어코 일순, 모든걸 그러모아… 삼천대천(三千大天)!|Fracture the present a thousandfold. Fracture the futures cast upon the shards yet another thousandfold. At long last, the ruined past shall finally lie shattered, the constitution of the universe in the wake of a singular, inevitable circumvolution—Trisāhasramahāsāhasra.
+7120||EGOvoice#Voice_EGO_YiSang_1.json] 지금을 쪼개어 일천(一千).|Fracture the present a thousandfold (一千).
+7121||EGOvoice#Voice_EGO_YiSang_1.json] 편린들에 비추어진 미래를 쪼개어 다시 이천(二千).|Fracture the futures cast upon the shards yet another thousandfold (二千).
+7122||EGOvoice#Voice_EGO_YiSang_1.json] 마침내 망그러진 과거는 깨어지겠소.|At long last, the ruined past shall finally lie shattered,
+7123||EGOvoice#Voice_EGO_YiSang_1.json] 기어코 일순, 모든걸 그러모아… 삼천대천(三千大天)!|the constitution of the universe in the wake of a singular,\ninevitable circumvolution—Trisāhasramahāsāhasra (三千大天)!
+7124||EGOvoice#Voice_EGO_YiSang_1.json] 초종. 부고를 전하겠소. 이 처참한 포화, 호접이 그대를 화장할지니! …그 후로 아무것도 남지 않으리.|The First Death Knell. I come bearing an obituary, for your funeral pyre shall come alight in the grievous fusillade of butterflies! ... And in its wake, naught shall remain.
+7125||EGOvoice#Voice_EGO_YiSang_1.json] 초종.|For the dead, the first bell tolls.
+7126||EGOvoice#Voice_EGO_YiSang_1.json] 부고를 전하겠소.|I come bearing an obituary,
+7127||EGOvoice#Voice_EGO_YiSang_1.json] 이 처참한 포화, 호접이 그대를 화장할지니!|For your funeral pyre shall come alight in the grievous fusillade of butterflies!
+7128||EGOvoice#Voice_EGO_YiSang_1.json] …그 후로 아무것도 남지 않으리.|... And in its wake, naught shall remain.
+7129||EGOvoice#Voice_EGO_YiSang_1.json] 잿더미가… 되어버릴 것이오.|It will… turn all to ash.
+7130||EGOvoice#Voice_EGO_YiSang_1.json] 소원을 말하시오… 아주 간절하게…|Speak unto me your wish… Vocalize your eagerness…
+7131||EGOvoice#Voice_EGO_YiSang_1.json] 기실, 뚫린 골목이요.|As a matter of fact, the alley is an open one.
+7132||EGOvoice#Voice_EGO_YiSang_1.json] 너무 춥고… 빗방울은 차차, 굵어만 가구료.|The air is too cold... and raindrops only grow thicker.
+7133||EGOvoice#Voice_EGO_YiSang_1.json] 불청객은 당장 나가시오, 불청객은…!|Leave at once, interloper! Leave this place...!
+7134||EGOvoice#Voice_EGO_YiSang_1.json] 조각조각난 기억도, 저들을 들여다 볼 필요도 없지… 그저 쏘아라, 계속 쏘아라!|There is neither; no fragments of memories, no need to look into them... fire, only fire!
+7135||EGOvoice#Voice_EGO_YiSang_1.json] 오백천만억 나유타 아승기의 세계가 다시금 물드리라.|May the manifold worlds of five hundred thousand\nnayuta asaṃkhyeya be dyed anew.
+7136||EGOvoice#Voice_EGO_YiSang_1.json] 그안의 억겁 미래가 부수어져 티끌이 된 나를 방문하리라.|Within them shall I come to visit me,\nwho has been broken into kalapas,\nwhose immeasurable kalpas of the future have been shattered.
+7137||EGOvoice#Voice_EGO_YiSang_1.json] 가루된 나의 역사는 기어이! 흩어져 소멸… 하리라.|The histories of myself, ground into dust, shall, at last, scatter... and meet annihilation.
+7138||EGOvoice#Voice_EGO_YiSang_1.json] 원내의 일점과 원외의 일점이 호와 접하여,|The proximal and distal points cross the arc,\na lepidopteran proboscis transfixing the umstroke of nectaries.
+7139||EGOvoice#Voice_EGO_YiSang_1.json] 마침내!|And at the committal,
+7140||EGOvoice#Voice_EGO_YiSang_1.json] 직선은 원을 안식케 하리라.|My linear self shall bear the circle to rest.
+7141||EGOvoice#Voice_EGO_YiSang_1.json] E.G.O 해방|E.G.O Liberation
+7142||EGOvoice#Voice_EGO_YiSang_1.json] 새장을 깨고,|Break the birdcage,
+7143||EGOvoice#Voice_EGO_YiSang_1.json] 자유롭게.|And be free.
+7144||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 흐트러질 시 대사|Staggered
+7145||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 별 것 아닌 상처다.|This is nothing.
+7147||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 고작 이 정도로 만족하려고, 패륜의 죄까지 저지른 게 아냐. 더 많은 가족들이 배불리 먹기 위해… 피의 흐름이 멈춰선 안 돼.|I did not commit the sin of filial impiety for this meager outcome. Blood must continue to flow, to sate more of my family...
+7148||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] EX CLEAR 전투 승리|Extra Conditions Fulfilled
+7149||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 오랜 목마름도, 어버이를 향한 죄책감도… 피를 마시는 순간에는 생각나지 않을 거다. 그러니, 가릴 것 없이 마음껏 마셔. 그게 우리가 이룰 수 있는 유일한 꿈이니까.|When the blood wets our throats, we shall be liberated from the deep thirst and the guilt toward our Father. So drink, drink with abandon, for that is the only dream this existence has permitted us.
+7151||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 신부… 네가 말했던 벌이… 이것인가.|Is this... 'the retribution' you spoke of, Priest...?
+7153||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] …예상한 일이야. 어버이와 달리 우리는 약하니까.\n비록 지금은 이렇게 되돌아가지만, 더 많은 피가 흐른 뒤에는…|This was to be expected, for we do not possess the strength that our Father wields.\nThus we retreat for now, but should more blood spill...
+7154||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 공격 시작|Commencing Attack
+7156||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 적 흐트러질 시 대사|Enemy Stagger
+7157||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 꿰뚫리고…|From this impalement...
+7158||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 적 처치|Enemy Killed
+7159||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] …쏟아내라.|... shall it cascade.
+7160||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 전투 중 인격 선택|Viewed in Battle
+7161||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 나는… 어떤 말도 할 수 없어.|I... cannot speak a word.
+7163||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 라만차랜드를 뒤엎는다.|Rebellion comes to La Manchaland.
+7165||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] …불가능한 것에 기대를 품었던 거다. 처음부터 안 될 일이었어.|... Your mistake was putting your faith in an impossibility. It was destined for failure.
+7167||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 지금은 성공했지만, 앞으로는 어떨지.|We triumphed for now, yet I do not know what lies in our future.
+7169||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 책임은 모두 내가 진다.|I shall bear the responsibility for everything.
+7171||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 그 허황되고 유치한 꿈은 즐거우셨습니까. 이제 깨어날 시간입니다. 당신이 외면하고 떠넘겼던 모든 책임을 다하기 위해서.\n…원망하십시오, 어버이시여. 우리 역시 당신을 원망할 테니.|Was it sweet, your hollow, juvenile dream? It is about time you awakened from it. Take responsibility for those you had once abandoned in the hands of others.\nResent us, O Father. For we shall resent you in return.
+7173||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 가족의 관리는 차질이 없을 겁니다. …당신이 내팽개친 것을 돌보는 것이 저의 몫이었을테니.|The Family will be well-cared for.\n... After all, the onus always fell on me to provide for what you abandoned.
+7174||PersonVoice#Voice_DonQuixote_Bloodfiend_10310.json] 아침 인사|Morning Greeting

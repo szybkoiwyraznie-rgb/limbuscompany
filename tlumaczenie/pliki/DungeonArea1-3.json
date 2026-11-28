@@ -1,0 +1,169 @@
+{
+  "entries": {
+    "dataList[id=dungeon_1_3_0101].content": {
+      "pl": "Przedpole bram",
+      "kr_sha256": "f8284dbb64c39b426cc7a1a92c1fc9ad1e67fd469debf642fab33a314a40f17d",
+      "en_sha256": "5f1e49e5f43bf01cd6b24c546e7a06520a3493a7003fbf0fa0f9266976d9c6e5"
+    },
+    "dataList[id=dungeon_1_3_0102].content": {
+      "pl": "Wejście do piwnicy",
+      "kr_sha256": "44576680ca1f692a1c5921bcbf9a5ccba7823f0e7e263cfbe89413a991222028",
+      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a"
+    },
+    "dataList[id=dungeon_1_3_0103].content": {
+      "pl": "Maszynownia",
+      "kr_sha256": "3eedf34819ef3ed1660ccc9ba5e605c5e1402a1f19952f6c2da1a9abf0374ef1",
+      "en_sha256": "6cd89b38d05ea1d960059622cb8d5fbfaa69610bf785bc86e15314dc585e8277"
+    },
+    "dataList[id=dungeon_1_3_0104].content": {
+      "pl": "Brama 1",
+      "kr_sha256": "58ede9325b240dfad4cca6c7d53c721f1f9417215b9e1d4eed07a17f1fe4a611",
+      "en_sha256": "aa0355151629421327581f0b9a5652cecd07ca599166d853b5e622c0074e94b0"
+    },
+    "dataList[id=dungeon_1_3_0105].content": {
+      "pl": "Zamknięte drzwi",
+      "kr_sha256": "bd0ecb49bea27870802ca44196d6da9cba0983109029d0bd2ef51efeb84aedbb",
+      "en_sha256": "7b6316271ed8824603e8c93c4ce2974da23c2f742ce63754f28eb48cd0a5e5dd"
+    },
+    "dataList[id=dungeon_1_3_0106].content": {
+      "pl": "Zapomniany korytarz",
+      "kr_sha256": "1e170afb35e054237e9465e6686a8fa32128fb7a1f3f651048605f43c52b6fff",
+      "en_sha256": "26cfd731032cec8ad39f0d3400e10aeb380f64ff634ccd15c7681db994801bdf"
+    },
+    "dataList[id=dungeon_1_3_0107].content": {
+      "pl": "Strefa izolacji",
+      "kr_sha256": "f0cd6503f5e72fb24e8c4a5a0c2f305b1aa7dba41ef895da5d32bde50edc1adb",
+      "en_sha256": "18254cd4132f125cb72ae95f310b69f290004e37e4359776bb5e6f1afabfa46a"
+    },
+    "dataList[id=dungeon_1_3_0108].content": {
+      "pl": "Izolatki dla skorodowanych",
+      "kr_sha256": "d2f74fdf039d074f1cc5073511dce5b71fa12d518ef5893015af9f39779608c6",
+      "en_sha256": "c6a01b526530da94e4842f59bead4fb1cfe57d1b3ba53ab9b5ad2e25817f93ab"
+    },
+    "dataList[id=dungeon_1_3_0109].content": {
+      "pl": "Ośrodek szkolenia elity",
+      "kr_sha256": "79142a8740412c3065d86b1a5badd68a327f2771ef47026eb5667adab2bfa516",
+      "en_sha256": "38d39d588f576b8d70f67d15e355cfe39cc0fc91b4171f4e1449f31aeb6a6515"
+    },
+    "dataList[id=dungeon_1_3_0110].content": {
+      "pl": "Strefa więzienna",
+      "kr_sha256": "a809630a0c6e4af1fcbd8fc3dbf4181c2109fcd972193c4a378f8e3abb302f90",
+      "en_sha256": "213f1ea4082c3b49bee0b22851ab45f5fe22c24ceedbc61dddbada745b1fbc61"
+    },
+    "dataList[id=dungeon_1_3_0111].content": {
+      "pl": "Stary magazyn",
+      "kr_sha256": "64c72aaec3d9c4841c96e3604fbf09d1006b8070cd0f7c1b9e33602841bcc1e8",
+      "en_sha256": "01b0bcd0724441018b9f15c7f76b3c31dd6f131e7ac3c06c14b7b9dbfc714f15"
+    },
+    "dataList[id=dungeon_1_3_0112].content": {
+      "pl": "Strefa zamknięta",
+      "kr_sha256": "aef98c8bd124cdc271e6445252fcffbc0ce1f7e2e5a386e30b6dd429caae0b41",
+      "en_sha256": "aec33a6a7dca5a8bf9ed42743165c4c1ef4d787cda76dc1f057a6d0cb30e6638"
+    },
+    "dataList[id=dungeon_1_3_0113].content": {
+      "pl": "Kaplica",
+      "kr_sha256": "82141741adb10744c8920d8c8cb8dff4a9c183dc2b85d49bd850a3fe9a89eb22",
+      "en_sha256": "ea6483ea1e01d363a56a83d10f4492eba06f5726371d4af86efced2eb1a5f860"
+    },
+    "dataList[id=dungeon_1_3_0114].content": {
+      "pl": "Sala tortur",
+      "kr_sha256": "d35442ff2d3782f0ce933ab082ed68daf70fc3ccbed3da9d179b915b5df7dfed",
+      "en_sha256": "3b6e8f11dc41c226617f01abca2ae0fa97de90e1403cfda61b638596793ba654"
+    },
+    "dataList[id=dungeon_1_3_0201].content": {
+      "pl": "Korytarz podziemnego kościoła",
+      "kr_sha256": "52d76a0f1916d37935d0eaa1f37d471261adadfbf4fa4462b3c46dc76539f1b2",
+      "en_sha256": "8c3d42af08a22c638ba20c83c7144a1a0f993c9f47c5ca3f86fa9910cca9dc5b"
+    },
+    "dataList[id=dungeon_1_3_0202].content": {
+      "pl": "Zamknięta modlitewnia",
+      "kr_sha256": "9ce11c7e546550f043e6063397cdabbf3cd80be2c03d98176a6f7d46d4479882",
+      "en_sha256": "6f0817a617d0a373de6dc7d8ffccb678402fbfb8cf633d31d9e00c47a9a40ba6"
+    },
+    "dataList[id=dungeon_1_3_0203].content": {
+      "pl": "Komnata\nkrzyków",
+      "kr_sha256": "74db99db974c1f30194dcdacc0dd53cd464219f37ed6864c4d7baa62e896faaa",
+      "en_sha256": "a2c7913d5cf09e1b51ccd9aab76d81a3d32fe3947cfcc2121186b2ddf278a2b9"
+    },
+    "dataList[id=dungeon_1_3_0204].content": {
+      "pl": "Brama 2",
+      "kr_sha256": "da78141c862605a1779fc9092edb111f4f3f97947f895efd009e5fd0a93cf39a",
+      "en_sha256": "e9307812a39271287b48b1e236197432194b6f4651a6ee9fbb7e74f4de287d51"
+    },
+    "dataList[id=dungeon_1_3_0205].content": {
+      "pl": "Most ropienia",
+      "kr_sha256": "a5a12d09352c23560e03ed32ff034f587278625bbdf7bc5126d13a79a359b6c2",
+      "en_sha256": "25dc4b7f114dfa4799397581f463ced718f5defdc36969a5a2152c7633c47c4f"
+    },
+    "dataList[id=dungeon_1_3_0206].content": {
+      "pl": "Podziemny kościół",
+      "kr_sha256": "6fd3702252495aacf9e7b8f8011d93b295e409377b09b2ba8735c968599b2657",
+      "en_sha256": "8c8b9b324d3b14f27eed755fe8a5e09a29ca691c0a0cd1ddba122d58ada2d753"
+    },
+    "dataList[id=dungeon_1_3_0207].content": {
+      "pl": "Ambona kontemplacji",
+      "kr_sha256": "bebde4e8edc989eff698241f1b0432287d8401d18ca44617d42d15f0d565a3cd",
+      "en_sha256": "c57989a20d10b4a23aaf745705d790b58f2b076671ee77204fd434b8e445eaaf"
+    },
+    "dataList[id=dungeon_1_3_0208].content": {
+      "pl": "Wejście do kościoła",
+      "kr_sha256": "ad741987a228a2275f5e68bd7a813a0b2a5d7be0186f3c8d486483447a989d28",
+      "en_sha256": "f962733943bbf1ce9001cd72a993030e10e87c3abb4ea0bf889649d6e4788973"
+    },
+    "dataList[id=dungeon_1_3_0209].content": {
+      "pl": "Ołtarz łez",
+      "kr_sha256": "48856bab3b335c55193b4365221655868c47382d89d73119d540a13d1f2bd993",
+      "en_sha256": "07e0bf20027d421f6aa9caabeb8f3c6238cdff844bf1de6757b68f78b9fd4f89"
+    },
+    "dataList[id=dungeon_1_3_0210].content": {
+      "pl": "Droga do ołtarza",
+      "kr_sha256": "bfc4881fab6a91092c20c02ca9c43e7aa31c2edbc348990f0ce81fdd5839abad",
+      "en_sha256": "0d5860aacecb13a4662638220976644d3f22cc44d0cc5b566830f2fcfcb01890"
+    },
+    "dataList[id=dungeon_1_3_0211].content": {
+      "pl": "Zakrystia",
+      "kr_sha256": "61feab083f7d7361f74461e966a1460a2a7dce09043d23c82e35cdd72a4d931c",
+      "en_sha256": "8d960cc4ec8b483ae2aa4a4a920e215066f94136f1cb93d2852ecf81f3c34614"
+    },
+    "dataList[id=dungeon_1_3_0212].content": {
+      "pl": "Strefa centralna",
+      "kr_sha256": "e99feaa1a852ca7554e903d4ccc27057aa838b94eb2acd8afa7731e578479ec9",
+      "en_sha256": "b5d75cb6425fd067a71a591934d4d9fa7e921947cf985baaf59995c9b7b0fbc4"
+    },
+    "dataList[id=dungeon_1_3_0213].content": {
+      "pl": "Ołtarz pokuty",
+      "kr_sha256": "71389e5b8d56e1e7fac5460896925a266191981bf2152723ad3c3f44472bc6dc",
+      "en_sha256": "01f429d3a0a6594f95e4b68b8a567eea057edbd1bfebd9bd0359d88b4e7bcb32"
+    },
+    "dataList[id=dungeon_1_3_0214].content": {
+      "pl": "Miejsce oczyszczenia",
+      "kr_sha256": "5da4bc865fc2987d74f30161bb2bb58a5a25d1ab0c2b5cce789ddbbc4124f6e5",
+      "en_sha256": "de45bea7fb63246e82a0e2b52e56e9e395407ec56ef0ed4832e2999a412dc89e"
+    },
+    "dataList[id=dungeon_1_3_0215].content": {
+      "pl": "Brama 3",
+      "kr_sha256": "78dc393fa75e439e52e3fa0c5ae9da2bd19644939ca09a4d18054e6083df3a39",
+      "en_sha256": "435f337eef0b5bbee6ebfa1d637f27eb5ff5acf2b9e6b59c16c04ed7ae8eb830"
+    },
+    "dataList[id=dungeon_1_3_0216].content": {
+      "pl": "Probierz godności",
+      "kr_sha256": "09fc73d6576cf2b77cfc3ae7d3d11ae0cb9c7ab283783802ffe5d2660a48cdb1",
+      "en_sha256": "cb1a906a0fcaca05d76509b94fbdb4f9c153ed73baec8486d99d3e95231d7ed1"
+    },
+    "dataList[id=dungeon_1_3_0217].content": {
+      "pl": "Droga do sanktuarium",
+      "kr_sha256": "a0e20d1a71416eed52b7254466273111b026ed39d0b4a920f93e662124c4bd2b",
+      "en_sha256": "4f6547ab1b876d64976b357d82820c10172684f49b5ef6ab5205f6a0f61a9b88"
+    },
+    "dataList[id=dungeon_1_3_0301].content": {
+      "pl": "Plac obrzędów",
+      "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
+    },
+    "dataList[id=dungeon_1_3_0302].content": {
+      "pl": "Wzgórze Trupów",
+      "kr_sha256": "f1951746020bd68bb8be847e62a06c37b732103e9a8b9a2a286434affc8f5715",
+      "en_sha256": "652817dea745cfd0c92fc69ec0f1c5a58bf1b067e2d108dc91dc58808cd0bf1b"
+    }
+  }
+}

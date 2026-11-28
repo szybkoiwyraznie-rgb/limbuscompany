@@ -1,0 +1,1726 @@
+{
+  "entries": {
+    "dataList[id=10001].name": {
+      "pl": "Odłamek E.G.O Sezonu 1 [Wybranego Grzesznika]",
+      "kr_sha256": "2db6607133ce0d2c4a7223f4b98774d701a6ef5e3af450f46e206b821474bdee",
+      "en_sha256": "b61c46658ddb5356d1e12afb182a31fec53d5958634659cace91d6c55704e394",
+      "origin": "ai"
+    },
+    "dataList[id=10002].name": {
+      "pl": "Odłamek E.G.O Sezonu 2 [Wybranego Grzesznika]",
+      "kr_sha256": "94e415cceddea5dae7b077eed6ad33dae7022a806565a2f233639cc549c52ea0",
+      "en_sha256": "a1d76e66da29d66b5d0fbd2616980dccc8483fc46d12724d48c4dea38a666d34",
+      "origin": "ai"
+    },
+    "dataList[id=10101].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Yi Sanga w Automacie.",
+      "kr_sha256": "1b14891f590753f629977375599783c1125d8c6f2f6eb9fe74917250199ab39f",
+      "en_sha256": "146c3fe2a42e8d27882193fdde58bbbd7649c6967481ce99b0f7d74ac6151d07",
+      "origin": "ai"
+    },
+    "dataList[id=10101].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10101].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Yi Sanga",
+      "kr_sha256": "ee12c1a212a601d2600d4bac266d38a80ba1aba9de64a2a40a2e2ec7e1b19e26",
+      "en_sha256": "83c02cbf7096e139f797bc11e452214c37f786ce12d746372e12883e6e5182de",
+      "origin": "ai"
+    },
+    "dataList[id=10102].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Yi Sanga w Automacie.",
+      "kr_sha256": "1b14891f590753f629977375599783c1125d8c6f2f6eb9fe74917250199ab39f",
+      "en_sha256": "146c3fe2a42e8d27882193fdde58bbbd7649c6967481ce99b0f7d74ac6151d07",
+      "origin": "ai"
+    },
+    "dataList[id=10102].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10102].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Yi Sanga",
+      "kr_sha256": "7f2ee367d3404c57c111235ef796b0b2547655b64e57e4b637dd5e7493ade8c4",
+      "en_sha256": "70be34e945e343ba47a290043c0f97d9982c7b9ed1e550ca3e0404cb36d5d442",
+      "origin": "ai"
+    },
+    "dataList[id=10103].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Yi Sanga w Automacie.",
+      "kr_sha256": "1b14891f590753f629977375599783c1125d8c6f2f6eb9fe74917250199ab39f",
+      "en_sha256": "146c3fe2a42e8d27882193fdde58bbbd7649c6967481ce99b0f7d74ac6151d07",
+      "origin": "ai"
+    },
+    "dataList[id=10103].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10103].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Yi Sanga",
+      "kr_sha256": "6bd1fd3df8214994aaee6eeec381f1d1e331cff2940667d5a80242dc8e88560b",
+      "en_sha256": "b2496e1bf0697c52022a4a1b935c49415b945e6f08ae567a5b56bca50965fc69",
+      "origin": "ai"
+    },
+    "dataList[id=101].desc": {
+      "pl": "Pozwala dokonać 1 Ekstrakcji.",
+      "kr_sha256": "48405bf430534e827a190e5d3d511ecb35e7843fd1a705bc2eac6d1e71184860",
+      "en_sha256": "f6b9003915dd53761bc0a4fc954f1b2abc130ca7a6c6483297d6217bf42322d2",
+      "origin": "ai"
+    },
+    "dataList[id=101].flavor": {
+      "pl": "Jednorazowa racja splatana ze Szaleństwa — źródła energii ekstrakcyjnej Mephistophelesa.\nNa pierwszy rzut oka cienka jak kartka, lecz coś wewnątrz zdaje się uparcie pulsować.",
+      "kr_sha256": "2d4303b8cdac862efbc653dabc6cb038fdc5ca49c4ff11e77c4f364ab46adab9",
+      "en_sha256": "c393d8532f13f0297437c127d37489f98773d30946547e2f6fb8d372078d32d8",
+      "origin": "ai"
+    },
+    "dataList[id=101].name": {
+      "pl": "Bilet Ekstrakcji",
+      "kr_sha256": "ff2ab798a64df8ad118c3cd67217db87a8b06bc088953439af9e25eed410d9e0",
+      "en_sha256": "03cb1124a1c5497a2ba22f35733c5a5d5d025863af682d8fdc644b01903d2e10",
+      "origin": "ai"
+    },
+    "dataList[id=10201].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Faust w Automacie.",
+      "kr_sha256": "5ff674508e36067bec0ee5ea6c4d0cafbbb5038ed26003e18f54216bc10e12e0",
+      "en_sha256": "6f6c184c307f4dc6666e59eccfa2992d896d190cd6948a8cc5f78f35dd79ef7c",
+      "origin": "ai"
+    },
+    "dataList[id=10201].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10201].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Faust",
+      "kr_sha256": "eeb8c1a29612124456bb8c12368ea0b388825734da5d31d754cb611770adf257",
+      "en_sha256": "32b4f0c97bbac3f8c82e16b73e8e61a9739c2d062d0fd0b39c41ef81563b5c01",
+      "origin": "ai"
+    },
+    "dataList[id=10202].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Faust w Automacie.",
+      "kr_sha256": "5ff674508e36067bec0ee5ea6c4d0cafbbb5038ed26003e18f54216bc10e12e0",
+      "en_sha256": "6f6c184c307f4dc6666e59eccfa2992d896d190cd6948a8cc5f78f35dd79ef7c",
+      "origin": "ai"
+    },
+    "dataList[id=10202].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10202].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Faust",
+      "kr_sha256": "7bbbf8f2227b05e7a5f8d374b9c436ed06bc1d5aae76d9dd0a03272b10813668",
+      "en_sha256": "b3e7fb78b08a401550c4bfc96b403a43efa8e328610c7ef28af9c6e83cb65620",
+      "origin": "ai"
+    },
+    "dataList[id=10203].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Faust w Automacie.",
+      "kr_sha256": "5ff674508e36067bec0ee5ea6c4d0cafbbb5038ed26003e18f54216bc10e12e0",
+      "en_sha256": "6f6c184c307f4dc6666e59eccfa2992d896d190cd6948a8cc5f78f35dd79ef7c",
+      "origin": "ai"
+    },
+    "dataList[id=10203].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10203].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Faust",
+      "kr_sha256": "d1956bc71d08c2392c0e4d0032ba4b11cc89dfdc77a09da20a30072a7e04a363",
+      "en_sha256": "65480c5a9133c158319ef6b0f012e0e0664bc00bb5427dbdee720250b66d2484",
+      "origin": "ai"
+    },
+    "dataList[id=102].desc": {
+      "pl": "Pozwala dokonać 10 Ekstrakcji.",
+      "kr_sha256": "1d858b6ac4c47351bb352a9bbb793667a4ddcb482482ce59740f16a0fc55e863",
+      "en_sha256": "dc6c9261b7540a24ff64a6bfa7f886307cecd174a7d4727b87f80e64f4e2b084",
+      "origin": "ai"
+    },
+    "dataList[id=102].flavor": {
+      "pl": "Jednorazowa racja splatana ze Szaleństwa — źródła energii ekstrakcyjnej Mephistophelesa.\nNa pierwszy rzut oka cienka jak kartka, lecz coś wewnątrz zdaje się uparcie pulsować.",
+      "kr_sha256": "2d4303b8cdac862efbc653dabc6cb038fdc5ca49c4ff11e77c4f364ab46adab9",
+      "en_sha256": "c393d8532f13f0297437c127d37489f98773d30946547e2f6fb8d372078d32d8",
+      "origin": "ai"
+    },
+    "dataList[id=102].name": {
+      "pl": "Bilet Dekaekstrakcji",
+      "kr_sha256": "87b90d187e563148fd6ba5c5eb250823bc564d638f23a89f1a44147566a88902",
+      "en_sha256": "150cb597e08514b13cbdabe2de015a844c644d432d7f5e8755a1e1c0ed9bff07",
+      "origin": "ai"
+    },
+    "dataList[id=10301].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Don Quixote w Automacie.",
+      "kr_sha256": "73aa69f9189fca3b2f8dc3c3faccb92d2a5f213f7568364bdcaec3a7f591a8db",
+      "en_sha256": "a622ff84c703e6cdfc95e183ca2e3a8408ef2f689249f009760f39a39a9dc42d",
+      "origin": "ai"
+    },
+    "dataList[id=10301].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10301].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Don Quixote",
+      "kr_sha256": "e952673bf55ed63144fdd4906f11f6cf8f36dc21be9f9142852cdba7ff1d2272",
+      "en_sha256": "bd9a0023a8f95df114091f55a43d1c5ca875bbb6211d05717af9ad561051e74e",
+      "origin": "ai"
+    },
+    "dataList[id=10302].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Don Quixote w Automacie.",
+      "kr_sha256": "73aa69f9189fca3b2f8dc3c3faccb92d2a5f213f7568364bdcaec3a7f591a8db",
+      "en_sha256": "a622ff84c703e6cdfc95e183ca2e3a8408ef2f689249f009760f39a39a9dc42d",
+      "origin": "ai"
+    },
+    "dataList[id=10302].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10302].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Don Quixote",
+      "kr_sha256": "8957c7d62a868770268a350863cbf447f125c95cd2bb4aaf0da61a3fd6d728c0",
+      "en_sha256": "e9ead0468cb74998f1ed65ebb175e8c8afacb170652ee1f4ac18435f9572c2ba",
+      "origin": "ai"
+    },
+    "dataList[id=10303].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Don Quixote w Automacie.",
+      "kr_sha256": "73aa69f9189fca3b2f8dc3c3faccb92d2a5f213f7568364bdcaec3a7f591a8db",
+      "en_sha256": "a622ff84c703e6cdfc95e183ca2e3a8408ef2f689249f009760f39a39a9dc42d",
+      "origin": "ai"
+    },
+    "dataList[id=10303].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10303].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Don Quixote",
+      "kr_sha256": "2a97d4d1c529f1da5c94eb31bfdf6738d361cd28fd02f058b3f8b403792be05d",
+      "en_sha256": "dca44aa69f84593306ae0d91ae22e7a28ee53072af20db49cdc3f86ed5ef5ba4",
+      "origin": "ai"
+    },
+    "dataList[id=103].desc": {
+      "pl": "Pozwala dokonać 10 Ekstrakcji, z których jedna Tożsamość 3★ pojawia się na pewno.",
+      "kr_sha256": "97e1d23bf601dc5d7b1fb7dde0491403cdaeb8b43da6071267e6949a85e7e792",
+      "en_sha256": "ecfca01da0a23bb9918a9f9140626981a2d3f29a04d45ceb27bfc14eb5d45690",
+      "origin": "ai"
+    },
+    "dataList[id=103].flavor": {
+      "pl": "Specjalny bilet oznaczony pewnym znakiem. Pozwala na pewne wydobycie Tożsamości ze świata nikłych możliwości. Papier gwałtownie drga i pulsuje.",
+      "kr_sha256": "606a51c51b268abb61eada2e6aac9a0c653bdcd175a9c1ffe88bf709c692b3b3",
+      "en_sha256": "0455e6495ba22b648c39055458d3507a2f96415d9b7ffe42590e8411ca76ca54",
+      "origin": "ai"
+    },
+    "dataList[id=103].name": {
+      "pl": "Bilet Dekaekstrakcji Gwarantowanej 3★",
+      "kr_sha256": "273b29d0136893fa814212ec1865fe4a04b4e6321458075188f91c16b6eadc73",
+      "en_sha256": "7cf5dfe1b616d9ee13917dcb7fdfc0d58b650fce538dc648084fabac716b1849",
+      "origin": "ai"
+    },
+    "dataList[id=10401].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ryōshū w Automacie.",
+      "kr_sha256": "e72a5876cba3d9ca890e142ef7efbe7a8417d3208865404f32549056dc6086b9",
+      "en_sha256": "9944ad41cd96f843077e69df0b9d54888e4d7ef358d83d5c47e1197700020663",
+      "origin": "ai"
+    },
+    "dataList[id=10401].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10401].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Ryōshū",
+      "kr_sha256": "30e701358a8cfd5191eaadc11ba6a77442cc7a9b72e737a18572fe9793604a86",
+      "en_sha256": "eda48d2de983d1f95addaf52eb42beb215e6284c3682ece9c22be5a0b3a6bcb8",
+      "origin": "ai"
+    },
+    "dataList[id=10402].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ryōshū w Automacie.",
+      "kr_sha256": "e72a5876cba3d9ca890e142ef7efbe7a8417d3208865404f32549056dc6086b9",
+      "en_sha256": "9944ad41cd96f843077e69df0b9d54888e4d7ef358d83d5c47e1197700020663",
+      "origin": "ai"
+    },
+    "dataList[id=10402].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10402].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Ryōshū",
+      "kr_sha256": "fdb9ab7e2b7491a2b78a8ef928430ae1737f1b820f55d2d4ef01f33e14a9d5d6",
+      "en_sha256": "191159f64e436a4a2cd7690e6116618514e4b5754129b0477b319d3c42cafb4e",
+      "origin": "ai"
+    },
+    "dataList[id=10403].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ryōshū w Automacie.",
+      "kr_sha256": "e72a5876cba3d9ca890e142ef7efbe7a8417d3208865404f32549056dc6086b9",
+      "en_sha256": "9944ad41cd96f843077e69df0b9d54888e4d7ef358d83d5c47e1197700020663",
+      "origin": "ai"
+    },
+    "dataList[id=10403].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10403].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Ryōshū",
+      "kr_sha256": "9d4401c2b3f00faf822eaf08c72d02a8b7952f26ba286382523c35102629731e",
+      "en_sha256": "174e5ea6bc6d0dad59062d7310452b5686e2a4367e1b839f5e33bf7d99d89792",
+      "origin": "ai"
+    },
+    "dataList[id=104].desc": {
+      "pl": "Pozwala dokonać 10 Ekstrakcji, z których jedna Tożsamość 3★ z [Sezonu 1] pojawia się na pewno.",
+      "kr_sha256": "c58959b02106d8fb2377b1b75dcdef27100ee16e8a0a1e750f293248fa3d4bde",
+      "en_sha256": "a94834315f968e5f76498af667c2ea8693096be6b7e73f233b107b72eac0827e",
+      "origin": "ai"
+    },
+    "dataList[id=104].flavor": {
+      "pl": "Specjalny bilet oznaczony pewnym znakiem. Pozwala na pewne wydobycie Tożsamości ze świata nikłych możliwości. Papier gwałtownie drga i pulsuje.",
+      "kr_sha256": "606a51c51b268abb61eada2e6aac9a0c653bdcd175a9c1ffe88bf709c692b3b3",
+      "en_sha256": "0455e6495ba22b648c39055458d3507a2f96415d9b7ffe42590e8411ca76ca54",
+      "origin": "ai"
+    },
+    "dataList[id=104].name": {
+      "pl": "[Sezon 1] Bilet Dekaekstrakcji Gwarantowanej 3★",
+      "kr_sha256": "4dd5cd7fd2869b0851d3f56deea30c9c233d19abc221c150d6da805369bdf622",
+      "en_sha256": "7349597f86fd13572251120a3d27fec91ce853e02ad505414e46442262b81697",
+      "origin": "ai"
+    },
+    "dataList[id=10501].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Meursault w Automacie.",
+      "kr_sha256": "ab47fd634ecbc638175fbae5212671b799462abc3dd5aee654d585ac3a1c11b7",
+      "en_sha256": "79a232b44621f47ddab8ff5d7df1a42f5f337fe01bc8556c47fd251aa606e647",
+      "origin": "ai"
+    },
+    "dataList[id=10501].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10501].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Meursault",
+      "kr_sha256": "2efb79a6808a595815ff3d02336ee82d0cfb21dfa04bca6660a8cb204857ccec",
+      "en_sha256": "2913f7a79e35b497051bede2311d0d57bd0b00360fbc828d37b2794a08962f8a",
+      "origin": "ai"
+    },
+    "dataList[id=10502].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Meursault w Automacie.",
+      "kr_sha256": "ab47fd634ecbc638175fbae5212671b799462abc3dd5aee654d585ac3a1c11b7",
+      "en_sha256": "79a232b44621f47ddab8ff5d7df1a42f5f337fe01bc8556c47fd251aa606e647",
+      "origin": "ai"
+    },
+    "dataList[id=10502].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10502].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Meursault",
+      "kr_sha256": "56c1c76486a180f9a94b9b4a788aeef3e4919dc5c67b1ff4b58742b774cdd2e6",
+      "en_sha256": "39681a86c6afbb279a49bf08ce445a985b9d0b86bef8f203c648390bc74e07df",
+      "origin": "ai"
+    },
+    "dataList[id=10503].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Meursault w Automacie.",
+      "kr_sha256": "ab47fd634ecbc638175fbae5212671b799462abc3dd5aee654d585ac3a1c11b7",
+      "en_sha256": "79a232b44621f47ddab8ff5d7df1a42f5f337fe01bc8556c47fd251aa606e647",
+      "origin": "ai"
+    },
+    "dataList[id=10503].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10503].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Meursault",
+      "kr_sha256": "ea656fc7a26b773a353252b6872f5b254f481800e0582f551c03a3930fddb435",
+      "en_sha256": "9217b9cfa0ca8f0f9b9139d9ae2ed161e72638cd84cea632fa410f72bdc9733a",
+      "origin": "ai"
+    },
+    "dataList[id=105].desc": {
+      "pl": "Pozwala dokonać 10 Ekstrakcji, z których jedna Tożsamość 3★ z [Sezonu 2] pojawia się na pewno.",
+      "kr_sha256": "6aa65acf98c2544e5218ba9ad07f38edfe684b935dc977490e35103abb8a7af9",
+      "en_sha256": "d61442fe8d33ebe73477c5ee4c5623fda278db8f9a5872a3ba4d7a8f61a18324",
+      "origin": "ai"
+    },
+    "dataList[id=105].flavor": {
+      "pl": "Specjalny bilet oznaczony pewnym znakiem. Pozwala na pewne wydobycie Tożsamości ze świata nikłych możliwości. Papier gwałtownie drga i pulsuje.",
+      "kr_sha256": "606a51c51b268abb61eada2e6aac9a0c653bdcd175a9c1ffe88bf709c692b3b3",
+      "en_sha256": "0455e6495ba22b648c39055458d3507a2f96415d9b7ffe42590e8411ca76ca54",
+      "origin": "ai"
+    },
+    "dataList[id=105].name": {
+      "pl": "[Sezon 2] Bilet Dekaekstrakcji Gwarantowanej 3★",
+      "kr_sha256": "21d9b3b6115609f2b330d89fc8096286f49379e025f304e9388e2798d800cd76",
+      "en_sha256": "ab5492a0e9914fba1a7eead1001b6d2e59d73fb4b198bb2f625372635002adf5",
+      "origin": "ai"
+    },
+    "dataList[id=10601].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Hong Lu w Automacie.",
+      "kr_sha256": "173553c3021f7ea7cf2f1af3b4479cf77afdeb295864624d55963e7e8e5142de",
+      "en_sha256": "4fcb2e2850769339c5c3439fb8c0bbffe6a6ad1e94057ae8165f4a0fb2f96910",
+      "origin": "ai"
+    },
+    "dataList[id=10601].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10601].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Hong Lu",
+      "kr_sha256": "baf6f508b7eb103263f8f513cf6329bb145cfa5852eb89c13f9c77b944555d60",
+      "en_sha256": "776374f4f1231d343167626084517bd16c2ce5bbe9b6de61f87b9a8bb34122bb",
+      "origin": "ai"
+    },
+    "dataList[id=10602].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Hong Lu w Automacie.",
+      "kr_sha256": "173553c3021f7ea7cf2f1af3b4479cf77afdeb295864624d55963e7e8e5142de",
+      "en_sha256": "4fcb2e2850769339c5c3439fb8c0bbffe6a6ad1e94057ae8165f4a0fb2f96910",
+      "origin": "ai"
+    },
+    "dataList[id=10602].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10602].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Hong Lu",
+      "kr_sha256": "5238c5b7e7635a553b7d11cdde512c1289c493c86089ac8a033b08d98bb974b7",
+      "en_sha256": "0ae888e5346008ba1a34841140af5808507dcf70de8ebf0911d3d885c8b8d987",
+      "origin": "ai"
+    },
+    "dataList[id=10603].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Hong Lu w Automacie.",
+      "kr_sha256": "173553c3021f7ea7cf2f1af3b4479cf77afdeb295864624d55963e7e8e5142de",
+      "en_sha256": "4fcb2e2850769339c5c3439fb8c0bbffe6a6ad1e94057ae8165f4a0fb2f96910",
+      "origin": "ai"
+    },
+    "dataList[id=10603].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10603].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Hong Lu",
+      "kr_sha256": "a4a2c87ee7b5f3ce6a9ecf919d3edff216938646d8ba0afb9cc78d9b9fa51f47",
+      "en_sha256": "0c1300cb1408fb8ac56afe6c24e72ea31f798116b9eac3280d23bb1c7ab51abe",
+      "origin": "ai"
+    },
+    "dataList[id=106].desc": {
+      "pl": "Pozwala dokonać 10 Ekstrakcji, z których jedna Tożsamość 3★ z [Sezonu 3] pojawia się na pewno.",
+      "kr_sha256": "64dc2143064b0c5f7405b91b294b7f24a875148bfcf7fb2aac347f94e3f72d74",
+      "en_sha256": "9b5b2357d9e227797e142d863bd98ebe9d8180a23864ec2e6f72bac829d8bf30",
+      "origin": "ai"
+    },
+    "dataList[id=106].flavor": {
+      "pl": "Specjalny bilet oznaczony pewnym znakiem. Pozwala na pewne wydobycie Tożsamości ze świata nikłych możliwości. Papier gwałtownie drga i pulsuje.",
+      "kr_sha256": "606a51c51b268abb61eada2e6aac9a0c653bdcd175a9c1ffe88bf709c692b3b3",
+      "en_sha256": "0455e6495ba22b648c39055458d3507a2f96415d9b7ffe42590e8411ca76ca54",
+      "origin": "ai"
+    },
+    "dataList[id=106].name": {
+      "pl": "[Sezon 3] Bilet Dekaekstrakcji Gwarantowanej 3★",
+      "kr_sha256": "41caff94657261989dcc2346cb642c9d55e57e7ccf4f79967b55b6770c4d3f2e",
+      "en_sha256": "4d30d13d219cb8979b53f337a7ff7b4e4bc04e68e9d9fe15238ed7f1e8bd68ad",
+      "origin": "ai"
+    },
+    "dataList[id=10701].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Heathcliffa w Automacie.",
+      "kr_sha256": "0284169c431de31158eddab6cfeb14e797c50600b26e4ca9879516890f415336",
+      "en_sha256": "ffe88fc3059df3acacb428ff9bd4026732948073114055f8cb6c0a239a19fb35",
+      "origin": "ai"
+    },
+    "dataList[id=10701].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10701].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Heathcliffa",
+      "kr_sha256": "ad7c20dc548e7d883cf02278e81e1368dd88d74621671e3aba652ac697b4c5ee",
+      "en_sha256": "d3906b10fc7d44545261d6754a646f143a75a43390025c34cbfd125254d14e9e",
+      "origin": "ai"
+    },
+    "dataList[id=10702].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Heathcliffa w Automacie.",
+      "kr_sha256": "0284169c431de31158eddab6cfeb14e797c50600b26e4ca9879516890f415336",
+      "en_sha256": "ffe88fc3059df3acacb428ff9bd4026732948073114055f8cb6c0a239a19fb35",
+      "origin": "ai"
+    },
+    "dataList[id=10702].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10702].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Heathcliffa",
+      "kr_sha256": "6a46989915448e7ffd77086cf65faf314639ab6df3f22507c227df098171d11a",
+      "en_sha256": "8855e00d5cb8f1ade0c9e368ac24660e7655e619911aa2615c4b83dad9c05bce",
+      "origin": "ai"
+    },
+    "dataList[id=10703].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Heathcliffa w Automacie.",
+      "kr_sha256": "0284169c431de31158eddab6cfeb14e797c50600b26e4ca9879516890f415336",
+      "en_sha256": "ffe88fc3059df3acacb428ff9bd4026732948073114055f8cb6c0a239a19fb35",
+      "origin": "ai"
+    },
+    "dataList[id=10703].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10703].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Heathcliffa",
+      "kr_sha256": "28625b26daae284e7cc8c807ddb979c518ca63a9d8257a41e8efbdc8a5da5c27",
+      "en_sha256": "1092b56fb9ff8cebaa77486d0b4d3682e6bdf5d0e63c37c5621d3385720a2ab6",
+      "origin": "ai"
+    },
+    "dataList[id=10801].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ishmael w Automacie.",
+      "kr_sha256": "f0284879e99db362b004ba5e4669dcd49e7b09e8407450289f0ec408c3f30f95",
+      "en_sha256": "6c8746d725c3dd63d6816f45f60ed75381cdb016c2b872b320e1c5ef262f4597",
+      "origin": "ai"
+    },
+    "dataList[id=10801].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10801].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Ishmael",
+      "kr_sha256": "0bbc7bf27602907ea87450127e378f95a9e0200597a52437b4b455020608b90a",
+      "en_sha256": "cca6f2b548ba254681afe82a895ac6802eede7b6d66a8dbd675e91164f66e4d3",
+      "origin": "ai"
+    },
+    "dataList[id=10802].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ishmael w Automacie.",
+      "kr_sha256": "f0284879e99db362b004ba5e4669dcd49e7b09e8407450289f0ec408c3f30f95",
+      "en_sha256": "959530412021bed8e71e63114c2b70d4453d46a1012470c34c35e0345f98c26c",
+      "origin": "ai"
+    },
+    "dataList[id=10802].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10802].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Ishmael",
+      "kr_sha256": "2a25f14fb68397ef203f7d0df51d9e9f9681a4bc52fc1c93beffaa4cdc0e2bd0",
+      "en_sha256": "baa5598c8b941d4f2fca4576950e753b74420e100b1062ac6b94ca3370ade9b8",
+      "origin": "ai"
+    },
+    "dataList[id=10803].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ishmael w Automacie.",
+      "kr_sha256": "f0284879e99db362b004ba5e4669dcd49e7b09e8407450289f0ec408c3f30f95",
+      "en_sha256": "959530412021bed8e71e63114c2b70d4453d46a1012470c34c35e0345f98c26c",
+      "origin": "ai"
+    },
+    "dataList[id=10803].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10803].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Ishmael",
+      "kr_sha256": "9a30436bb8d9ca87d25a8685f6c79ad5e4ec8c39bf5c650fbf5e3b1d325ec0d2",
+      "en_sha256": "4b9c7c5e477f9111fad74f52588698e263bb30614e350b0613244b2e9f7f6917",
+      "origin": "ai"
+    },
+    "dataList[id=10901].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Rodion w Automacie.",
+      "kr_sha256": "bb3906d6fb191417a788c038ac7e0cbc91f964858dcac3382d30337bc644e50c",
+      "en_sha256": "3f1c661a4081766ef6a115933c61fe67055ddc070ff1020483ddb07062b155cb",
+      "origin": "ai"
+    },
+    "dataList[id=10901].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10901].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Rodion",
+      "kr_sha256": "59fdc0fb33660822143704f8577123eeefd8ac31dc0057d3219b4685c60f31f2",
+      "en_sha256": "c7a19cb3177b4e0c97221019ab0301c3d7c6b38c4aeb0bc181139a175ea68a39",
+      "origin": "ai"
+    },
+    "dataList[id=10902].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Rodion w Automacie.",
+      "kr_sha256": "bb3906d6fb191417a788c038ac7e0cbc91f964858dcac3382d30337bc644e50c",
+      "en_sha256": "449dc30542035dbf180eecbd5828b16e370514c4fac8df3cdea2ee5a0706e468",
+      "origin": "ai"
+    },
+    "dataList[id=10902].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10902].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Rodion",
+      "kr_sha256": "1882ab82039bbd19fe88ad5342fa99e251de2a1c3d1cc441d2910b5560e95633",
+      "en_sha256": "7a888964f92e742ca689ce9a28c1dfc1fc28495385be19568636e96def9c05c3",
+      "origin": "ai"
+    },
+    "dataList[id=10903].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Rodion w Automacie.",
+      "kr_sha256": "bb3906d6fb191417a788c038ac7e0cbc91f964858dcac3382d30337bc644e50c",
+      "en_sha256": "449dc30542035dbf180eecbd5828b16e370514c4fac8df3cdea2ee5a0706e468",
+      "origin": "ai"
+    },
+    "dataList[id=10903].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=10903].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Rodion",
+      "kr_sha256": "8d980617ab3332158b7a73e691897c642d2f021b374f270533ba8a8cbac0c392",
+      "en_sha256": "23f58c1f95b72fbf338e54e92b15806a0bde9905c9d583746890c78b1dd8124b",
+      "origin": "ai"
+    },
+    "dataList[id=11001].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Sinclair w Automacie.",
+      "kr_sha256": "0ed12768fe4e330fa462188aa0458b0049d01ff624efa0a29a7422863a507494",
+      "en_sha256": "45c810b40fdb6091e3b9bd0a14b2ad329f46b375f68bc15a52166f5df8a507fe",
+      "origin": "ai"
+    },
+    "dataList[id=11001].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11001].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Sinclair",
+      "kr_sha256": "b162f21a655d4bb2099e7e00ed7283d6481d00c31c6e7bf92a6bb1b39fdd2add",
+      "en_sha256": "2309d5a1c37b2a5a2027f0cfbc1bad1b3fdb51f91173b4507879eaa02247659c",
+      "origin": "ai"
+    },
+    "dataList[id=11002].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Sinclair w Automacie.",
+      "kr_sha256": "0ed12768fe4e330fa462188aa0458b0049d01ff624efa0a29a7422863a507494",
+      "en_sha256": "45c810b40fdb6091e3b9bd0a14b2ad329f46b375f68bc15a52166f5df8a507fe",
+      "origin": "ai"
+    },
+    "dataList[id=11002].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11002].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Sinclair",
+      "kr_sha256": "4ac88b64c594b359ddcb106972f5456a8dfbfc6898c75fe4ff23f39c6996a17a",
+      "en_sha256": "3b775d123830e63a779a53b8e67a0fcb7bd6596dca0b675b4f70f061fb558153",
+      "origin": "ai"
+    },
+    "dataList[id=11003].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Sinclair w Automacie.",
+      "kr_sha256": "0ed12768fe4e330fa462188aa0458b0049d01ff624efa0a29a7422863a507494",
+      "en_sha256": "45c810b40fdb6091e3b9bd0a14b2ad329f46b375f68bc15a52166f5df8a507fe",
+      "origin": "ai"
+    },
+    "dataList[id=11003].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11003].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Sinclair",
+      "kr_sha256": "09d8eea67601c278555cf0af91e12c80c413f388eed1ed7b9564a70f2935be29",
+      "en_sha256": "9ec1d335bad54b808140a9708fcc090ebb9d6de86e0ec8c17fa682f3fba67316",
+      "origin": "ai"
+    },
+    "dataList[id=1101].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Odłamków E.G.O losowego Grzesznika.",
+      "kr_sha256": "9e640942392217fccebe0a3a8e40e9c3048b7b747a885fb0d4b253ad66306f91",
+      "en_sha256": "ca778590ed610d291de3289873acb0027ea2df48f8f35b171afda48d179fdf11",
+      "origin": "ai"
+    },
+    "dataList[id=1101].flavor": {
+      "pl": "Odłamki E.G.O Grzeszników losowo zebrano i zapieczętowano w skrzyni. Kto tam siedzi — nikt nie wie.\nTrzymana w ciszy, zdaje się wydawać drobny łomot.",
+      "kr_sha256": "67e793245dd6dc46bb87f4dd51e58d9dbabf385c5cde256752e33d71cef700b2",
+      "en_sha256": "7705b0f587f4de23285ed9301a791c4389f4125181d95b8eaa2c823b558c9d79",
+      "origin": "ai"
+    },
+    "dataList[id=1101].name": {
+      "pl": "[Sezon 1] Skrzynia Odłamków E.G.O",
+      "kr_sha256": "30ee219466b52f2cbd439baefcfacd14bf6a173c586c2b438111cc633659aa5e",
+      "en_sha256": "9270cb8a99c8acaeaaee51e9e1f7873a917ac59e0865d259c551da42b093cc63",
+      "origin": "ai"
+    },
+    "dataList[id=1102].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Odłamków E.G.O losowego Grzesznika.",
+      "kr_sha256": "9e640942392217fccebe0a3a8e40e9c3048b7b747a885fb0d4b253ad66306f91",
+      "en_sha256": "ca778590ed610d291de3289873acb0027ea2df48f8f35b171afda48d179fdf11",
+      "origin": "ai"
+    },
+    "dataList[id=1102].flavor": {
+      "pl": "Odłamki E.G.O Grzeszników losowo zebrano i zapieczętowano w skrzyni. Kto tam siedzi — nikt nie wie.\nTrzymana w ciszy, zdaje się wydawać drobny łomot.",
+      "kr_sha256": "67e793245dd6dc46bb87f4dd51e58d9dbabf385c5cde256752e33d71cef700b2",
+      "en_sha256": "7705b0f587f4de23285ed9301a791c4389f4125181d95b8eaa2c823b558c9d79",
+      "origin": "ai"
+    },
+    "dataList[id=1102].name": {
+      "pl": "[Sezon 2] Skrzynia Odłamków E.G.O",
+      "kr_sha256": "9c4459abc743f27ff41b24df13ec39f61049c3dbf3543cef791650848bdfda29",
+      "en_sha256": "8c7c28cb29c9b393e3156407a855832c833b1332f5f8b763bb60101c47f3d882",
+      "origin": "ai"
+    },
+    "dataList[id=1103].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 losowych Odłamków E.G.O.",
+      "kr_sha256": "9e640942392217fccebe0a3a8e40e9c3048b7b747a885fb0d4b253ad66306f91",
+      "en_sha256": "f429164311a4e3fd8254aa1562289bebefeaf5e5d495bc7786dbbdb6bf965510",
+      "origin": "ai"
+    },
+    "dataList[id=1103].flavor": {
+      "pl": "Odłamki E.G.O Grzeszników losowo zebrano i zapieczętowano w skrzyni. Kto tam siedzi — nikt nie wie.\nTrzymana w ciszy, zdaje się wydawać drobny łomot.",
+      "kr_sha256": "67e793245dd6dc46bb87f4dd51e58d9dbabf385c5cde256752e33d71cef700b2",
+      "en_sha256": "7705b0f587f4de23285ed9301a791c4389f4125181d95b8eaa2c823b558c9d79",
+      "origin": "ai"
+    },
+    "dataList[id=1103].name": {
+      "pl": "[Sezon 3] Skrzynia Odłamków E.G.O",
+      "kr_sha256": "f66c332c80cafda3ea95c1ac943afb9d324b9ec44157199b2f91acc9006400d4",
+      "en_sha256": "3bb024c7021977ed2c57389eb0281c9d925d447a80b577051632212f93b7c7be",
+      "origin": "ai"
+    },
+    "dataList[id=11101].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Outis w Automacie.",
+      "kr_sha256": "6eb65d44a4877233e885b3042b0d61f75b63560ad9b1b135ae9e536efe3787c0",
+      "en_sha256": "6857aaa186984937d52c3e2d75076ae594d2d635253ea0197ae29cf2166d7fcc",
+      "origin": "ai"
+    },
+    "dataList[id=11101].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11101].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Outis",
+      "kr_sha256": "51f6af01d9ab84981ce1ad301e6ed0d9a70aa889fa1293a001a36559e81fbc3f",
+      "en_sha256": "41280d96f5dcc0566456a709dae37f9dd9841c8a425d4d060fc0ff05b5ad70b0",
+      "origin": "ai"
+    },
+    "dataList[id=11102].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Outis w Automacie.",
+      "kr_sha256": "6eb65d44a4877233e885b3042b0d61f75b63560ad9b1b135ae9e536efe3787c0",
+      "en_sha256": "6857aaa186984937d52c3e2d75076ae594d2d635253ea0197ae29cf2166d7fcc",
+      "origin": "ai"
+    },
+    "dataList[id=11102].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11102].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Outis",
+      "kr_sha256": "66b7b235db433e11d2dc55461dcbe4fdd2d002e03019e4e2d71a566055cd494a",
+      "en_sha256": "d48d2e6154ffd82d22647ee32924dd580556fdcdc96bfa1c28f9372dafd090a9",
+      "origin": "ai"
+    },
+    "dataList[id=11103].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Outis w Automacie.",
+      "kr_sha256": "6eb65d44a4877233e885b3042b0d61f75b63560ad9b1b135ae9e536efe3787c0",
+      "en_sha256": "6857aaa186984937d52c3e2d75076ae594d2d635253ea0197ae29cf2166d7fcc",
+      "origin": "ai"
+    },
+    "dataList[id=11103].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11103].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Outis",
+      "kr_sha256": "6ed1633e8781a990b46f671d365113778b527e14901b4cbbe5e10cde9a11367c",
+      "en_sha256": "72ac6244da9c168da5d10e1fa1b47b26137eab78e20d4f4ba198e96848101443",
+      "origin": "ai"
+    },
+    "dataList[id=11201].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Gregora w Automacie.",
+      "kr_sha256": "bc5dc9caba976a26c131c2524382fa28f634089a1e76a4ea01fd4ca573198f55",
+      "en_sha256": "03e276d2dcd714f2e58e978e88ea482df8f4dec17b1249cd03d8d13547696c9c",
+      "origin": "ai"
+    },
+    "dataList[id=11201].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11201].name": {
+      "pl": "[Sezon 1] Odłamek E.G.O Gregora",
+      "kr_sha256": "d97268df6173ff0c40e7440307e47518c7bbc22f0d91e44cc50da0e3e41e067d",
+      "en_sha256": "3d637aea37388f1d8c8bfd94fcc10a7ac52d4176297b3bd31e78be500b40c566",
+      "origin": "ai"
+    },
+    "dataList[id=11202].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Gregora w Automacie.",
+      "kr_sha256": "bc5dc9caba976a26c131c2524382fa28f634089a1e76a4ea01fd4ca573198f55",
+      "en_sha256": "03e276d2dcd714f2e58e978e88ea482df8f4dec17b1249cd03d8d13547696c9c",
+      "origin": "ai"
+    },
+    "dataList[id=11202].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11202].name": {
+      "pl": "[Sezon 2] Odłamek E.G.O Gregora",
+      "kr_sha256": "d301a2f1f98e0da144db2e3518a0b3bf9f91b38bf168ac363f51581fdeda15f3",
+      "en_sha256": "335812519c2c753b34faf73d171fa04dae248a91163b43c9894f37842f3fd2c7",
+      "origin": "ai"
+    },
+    "dataList[id=11203].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Gregora w Automacie.",
+      "kr_sha256": "bc5dc9caba976a26c131c2524382fa28f634089a1e76a4ea01fd4ca573198f55",
+      "en_sha256": "03e276d2dcd714f2e58e978e88ea482df8f4dec17b1249cd03d8d13547696c9c",
+      "origin": "ai"
+    },
+    "dataList[id=11203].flavor": {
+      "pl": "Ulotne chwile Grzeszników uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "25ce9feb02f36a3bddc55e558169449e77c1c44d427be7b9986a24f5a6bcec99",
+      "origin": "ai"
+    },
+    "dataList[id=11203].name": {
+      "pl": "[Sezon 3] Odłamek E.G.O Gregora",
+      "kr_sha256": "d50a5cf052a7cfb1aabf9e83957496f803b463d4f1b15d27e052fc728226a8e2",
+      "en_sha256": "8d45aa692bc3c2e298157fd5a8db43cdd79b0584432ae37b8919620e7230ee7f",
+      "origin": "ai"
+    },
+    "dataList[id=11].desc": {
+      "pl": "Służy do wstępu do Lochów.",
+      "kr_sha256": "aeb4403bb80514076339f0795e887572952c2a7ec55f92e9f2e4b9b9bf85d789",
+      "en_sha256": "21cd75e0c0e1dce5ea03ddf1fb8410f8a4524aa2098ddb04ffd5d32918e63fe0",
+      "origin": "ai"
+    },
+    "dataList[id=11].flavor": {
+      "pl": "Kulisty moduł zaprojektowany do specjalnej izolacji.\n[INFORMACJA] Dozowanie Enkefaliny w postaci płynnej zapewnia stabilniejsze użycie niż postać gazowa.\nEnkefalinę można przekształcić w energię, wsuwając moduł do wyznaczonego gniazda.\n[OSTRZEŻENIE] Modułowanie Enkefaliny jest procesem nieodwracalnym; moduł może być zużyty wyłącznie przez gniazdo.\nStosowanie niezgodne z przeznaczeniem oraz modyfikacje są surowo zabronione.",
+      "kr_sha256": "83f709eb476e457b53694b337f1d837cdea5e5d3e52a170c53d616a1847f2574",
+      "en_sha256": "3f19376e2d0559ba81f1cc128197bef87c583207b2fc3d807f9cf1ab6569afbc",
+      "origin": "ai"
+    },
+    "dataList[id=11].name": {
+      "pl": "Moduł Enkefaliny",
+      "kr_sha256": "7428bd5d46ded81f4f09ee9a477362e7e2d87fe7fe17aacaaf684255a7529b4b",
+      "en_sha256": "c842a3fdc17a7dd43e497f83bf6877cae4023d4aaef08b49baff246a829bdfca",
+      "origin": "ai"
+    },
+    "dataList[id=12004].desc": {
+      "pl": "Można stosować przy Synchronizacji Tożsamości i Splacie Nici E.G.O wszystkich Grzeszników.",
+      "kr_sha256": "7a5b5ee5f2a05f3f2a4bd5875d8206bebfe55b09137d08674a59e7942fbe371a",
+      "en_sha256": "37d1c5453d0465c74625670ebb5fab7e0a4cbe7be131577c947db9c35433f3b8",
+      "origin": "ai"
+    },
+    "dataList[id=12004].flavor": {
+      "pl": "Uniwersalny odłamek, służący do Synchronizacji Tożsamości i Splotu Nici E.G.O niezależnie od Grzesznika.\nNie da się nim jednak wydobyć Tożsamości ani E.G.O, choćby zgromadzić ich całe stosy.\n„Odłamki te są owocem badań nad wszechprzemiennością Złotych Gałęzi; można nimi napełnić każde wyobrażenie czy świat lustra. Co? Ekstrakcja? Oczywiście, że nie. Skoro nadaje się do napełnienia każdego świata, to znaczy, że nie mógł powstać *dla* żadnego konkretnego świata, prawda? - Naczelny Badacz, Obserwatorium Światów Lustra, Dział LCA”",
+      "kr_sha256": "8d501c0b265d2ca20120caffce69353c304dc7d55d72e8738d846f264d398e27",
+      "en_sha256": "3ff8e4f5186d61a56537db9e5ea07a32ed82247cabd98b91730f25a9e87d82a7",
+      "origin": "ai"
+    },
+    "dataList[id=12004].name": {
+      "pl": "Odłamek Sezonu 4 wyłącznie do Synchronizacji i Splotu Nici (Uniwersalny)",
+      "kr_sha256": "994360cec6f11cf5293bd3c4a4b5471bb830923b373ce933a378ea503b5d7632",
+      "en_sha256": "b636f76633e29cc333f636c040c3ccbf00665e1774cd9528810f4c67192aca25",
+      "origin": "ai"
+    },
+    "dataList[id=1201].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Odłamków E.G.O wybranego Grzesznika.",
+      "kr_sha256": "7c424b06c3b48327dc63c56aa5d19e4719b603a11da6fde1e8531a2e5718a1cc",
+      "en_sha256": "3ab21a10a0bf1a2fc5bb1ae9d4e811879056f522c9e8fc4318c699cb7c48158b",
+      "origin": "ai"
+    },
+    "dataList[id=1201].flavor": {
+      "pl": "Skrzynia pozwalająca zdobyć odłamki E.G.O wybranego Grzesznika.\nWedle Faust zawartość zostaje utwierdzona w momencie wyboru dokonanego przez Zarządcę otwierającego skrzynię.",
+      "kr_sha256": "9aa5ffb24315ad47a7fe63c2f0fb6a517d7ebc00eec5027f318aa1a70f70e497",
+      "en_sha256": "b2577763ac9be68ac4b55125217b29816b39c8c2407454cf0570eab2fe40b1a3",
+      "origin": "ai"
+    },
+    "dataList[id=1201].name": {
+      "pl": "[Sezon 1] Skrzynia Wyboru Odłamków E.G.O",
+      "kr_sha256": "c9952c7a3cee4380e2932c788bc58d05a6bb5491dd5dded0a12f252ebb86e18d",
+      "en_sha256": "dc1b8b9aa8cf8d035d1653ff8c64158ff56783f455d2b6dd5865cd579102fb40",
+      "origin": "ai"
+    },
+    "dataList[id=1202].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Odłamków E.G.O wybranego Grzesznika.",
+      "kr_sha256": "7c424b06c3b48327dc63c56aa5d19e4719b603a11da6fde1e8531a2e5718a1cc",
+      "en_sha256": "3ab21a10a0bf1a2fc5bb1ae9d4e811879056f522c9e8fc4318c699cb7c48158b",
+      "origin": "ai"
+    },
+    "dataList[id=1202].flavor": {
+      "pl": "Skrzynia pozwalająca zdobyć odłamki E.G.O wybranego Grzesznika.\nWedle Faust zawartość zostaje utwierdzona w momencie wyboru dokonanego przez Zarządcę otwierającego skrzynię.",
+      "kr_sha256": "9aa5ffb24315ad47a7fe63c2f0fb6a517d7ebc00eec5027f318aa1a70f70e497",
+      "en_sha256": "b2577763ac9be68ac4b55125217b29816b39c8c2407454cf0570eab2fe40b1a3",
+      "origin": "ai"
+    },
+    "dataList[id=1202].name": {
+      "pl": "[Sezon 2] Skrzynia Wyboru Odłamków E.G.O",
+      "kr_sha256": "aca4a4a536f707224537aec7fbd050df909031e024a499096085b4c9a2eda98b",
+      "en_sha256": "2d75e1c95ace4816a8e7d79a7f07f6ccaf04d30c3b34726679dc0da46f943456",
+      "origin": "ai"
+    },
+    "dataList[id=1203].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Odłamków E.G.O wybranego Grzesznika.",
+      "kr_sha256": "7c424b06c3b48327dc63c56aa5d19e4719b603a11da6fde1e8531a2e5718a1cc",
+      "en_sha256": "3ab21a10a0bf1a2fc5bb1ae9d4e811879056f522c9e8fc4318c699cb7c48158b",
+      "origin": "ai"
+    },
+    "dataList[id=1203].flavor": {
+      "pl": "Skrzynia pozwalająca zdobyć odłamki E.G.O wybranego Grzesznika.\nWedle Faust zawartość zostaje utwierdzona w momencie wyboru dokonanego przez Zarządcę otwierającego skrzynię.",
+      "kr_sha256": "9aa5ffb24315ad47a7fe63c2f0fb6a517d7ebc00eec5027f318aa1a70f70e497",
+      "en_sha256": "b2577763ac9be68ac4b55125217b29816b39c8c2407454cf0570eab2fe40b1a3",
+      "origin": "ai"
+    },
+    "dataList[id=1203].name": {
+      "pl": "[Sezon 3] Skrzynia Wyboru Odłamków E.G.O",
+      "kr_sha256": "74a3f760d5a6c9195231b63a488082bb6b7ee524f71679d383f322f3b9911cdb",
+      "en_sha256": "5d89e09e1f255896ce49fb82ca32432eb440cc2bfa5e78e914e24751cfe4b822",
+      "origin": "ai"
+    },
+    "dataList[id=1].desc": {
+      "pl": "Kryształ w kształcie róży. Służy do Ekstrakcji oraz zakupu Skrzynek Enkefaliny.",
+      "kr_sha256": "60463f56280333ee202ead082805bf9d19b7ccbe3e736b9e15413381ffffdbba",
+      "en_sha256": "d7aa60f958d229de8df4244e324ffbc2c85676011a31be990d511a465c14039f",
+      "origin": "ai"
+    },
+    "dataList[id=1].flavor": {
+      "pl": "Kryształowa róża, która zdaje się wciąż patrzeć w jednym kierunku. Ta ludzka rzecz, jak powiadają, zakwita, napiwszy się wód pewnej rzeki.",
+      "kr_sha256": "3096d3ffb97a9cc4cb46840cc92bf8b0a66fba30dfe341c50fddb83541cac175",
+      "en_sha256": "239b72ac28c92be2443a353d2037f22cf80bc94a282d7d0d7fd71dfd93feb3dc",
+      "origin": "ai"
+    },
+    "dataList[id=1].name": {
+      "pl": "Płatne Szaleństwo",
+      "kr_sha256": "82ae7564fddeea8af7c32f984692165069b5a53a2f082c3a58da5777cf8ccc9d",
+      "en_sha256": "2d185ef67cf0e49acb4feb3e48e34ba9a6dd390ccc84db6f1e7404d62a81dd3e",
+      "origin": "ai"
+    },
+    "dataList[id=20001].desc": {
+      "pl": "Rdza blach, śruby i tym podobne — oderwane od pleców <size=110%>krab</size>ów śmietnikowych.\nPodobno nadaje się do modyfikacji Mephistophelesa.",
+      "kr_sha256": "d497bbbb6b9ac01728e9e8cafe5e3abf2ac389bddf7e7f76e4bfc77140c3fb2e",
+      "en_sha256": "8ec1ea66026b56aea7079b57c34fa2f21bbe4a6b51adf563de4c4467f18c0940",
+      "origin": "ai"
+    },
+    "dataList[id=20001].name": {
+      "pl": "Złom do Modyfikacji Autobusu",
+      "kr_sha256": "0079d1dd48eb8882e5bacb2498b9eaa3e3d862a8741eb2e7d32a81b38b797457",
+      "en_sha256": "400d8d1bebc3efb82b3e83ee457883830d379ae302339ac5adc95917c89a9a06",
+      "origin": "ai"
+    },
+    "dataList[id=20002].desc": {
+      "pl": "Duży przedmiot w kształcie podkowy, wyjęty od króla <size=110%>krab</size>ów śmietnikowych.\nPodobno może zastąpić kilka kawałków złomu naraz.",
+      "kr_sha256": "153c68476f4dde40a13a91a5833778435c9082d7e4605dc11d51b74c7d316da1",
+      "en_sha256": "65c5a1fba6f3508848f05938e062286ff7bfe48f7a8fbffe6fb7ba99e3b5fc03",
+      "origin": "ai"
+    },
+    "dataList[id=20002].name": {
+      "pl": "Złom do Modyfikacji Autobusu z Rzadką Podkową",
+      "kr_sha256": "ed82264411d624456cee96b3f40547e22b94f56ecfbf5c2c6d0a14dd1af9e4ef",
+      "en_sha256": "edb6b378d20aeeb8de444f64ff3d2895b6fc3a21d7bdd99bd9fe4d4d9ca9fe50",
+      "origin": "ai"
+    },
+    "dataList[id=20009].desc": {
+      "pl": "Toreba naprędce wypchana ozdobami porozrzucanymi po Fabryce Prezentów.\nDon Quixote świetnie je wykorzysta, by przyozdobić wnętrza Mephistophelesa.",
+      "kr_sha256": "1e746528f833c864a9a51cc6cb6e4bd3daa6b3fda1c95e3826370d9a3aaa4ff3",
+      "en_sha256": "7714f43d12cf5bfded1c8e623c7b8f821ef114a53ba2b5a5a50105e1a3a4dc53",
+      "origin": "ai"
+    },
+    "dataList[id=20009].name": {
+      "pl": "Worek Ozdób",
+      "kr_sha256": "3cd6c97562fb33b4a1029f6212de0871ee256812c30f8f4a876a19fbcc26170a",
+      "en_sha256": "c15cfdeec2728022e3fba8c29d5d9e342dae83fea9cde2e1d3ea3c1a52fbb51f",
+      "origin": "ai"
+    },
+    "dataList[id=20010].desc": {
+      "pl": "Toreba zapełniona po brzegi ozdobami przeznaczonymi na Fabrykę Prezentów.\nDon Quixote świetnie je wykorzysta, by przyozdobić wnętrza Mephistophelesa.",
+      "kr_sha256": "6432c0f23fff585c7cf8ed3eb55da20b13c5a0f476951e0b8ddda485aebc8663",
+      "en_sha256": "a88613c7a6cd9158a86fb6004f454011ca6777b94b8d497bbb8f84ae8557e70a",
+      "origin": "ai"
+    },
+    "dataList[id=20010].name": {
+      "pl": "Ogromny Worek Ozdób",
+      "kr_sha256": "58c577f385c4d3c29eb39ab6664d48bfc3eb3a8008790359e9d56dec8bfe1eea",
+      "en_sha256": "3ac96e4dfbd838a0878cf8e0de82cb60a8bb8f8ad6e13eb33e74de08b2ae58cf",
+      "origin": "ai"
+    },
+    "dataList[id=20012].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>Tam, gdzie padają ci, co machają ostrzami, zostaje pochwa nasiąknięta krwią.\nDla idących drogą miecza domem jest właśnie pochwa.</color>",
+      "kr_sha256": "8c8355ca84744f444622e14d744cfef36f6de843d336ae063dfc46e1bc83cc9f",
+      "en_sha256": "4145007a50d08e36fed4e9e82893041404a43d945c25687bdd7b42f358e7090a",
+      "origin": "ai"
+    },
+    "dataList[id=20012].name": {
+      "pl": "Pochwa Nasiąknięta Krwią",
+      "kr_sha256": "bbd032fb5993f23cb51c8ee1682e0142f971a027d4c065b9e8f933eb3043e143",
+      "en_sha256": "642ab3c53be772941009af3ab571185681849e2da5ff3f68b53d299808f36cfc",
+      "origin": "ai"
+    },
+    "dataList[id=20013].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>Ten, kto macha mieczem nasiąkniętym żalem, zwie się Demonem Ostrza.\nDemonowi Ostrza pochwa już niepotrzebna — nosi ją jednak, bo żal ten przetykany jest nikłym przywiązaniem.</color>",
+      "kr_sha256": "9d6f1a9b8bf4f416e399c901a2e64e9ec6c7e5205b32ef237cce1c67bc44fdc5",
+      "en_sha256": "51933b52ff8a30aeea3138fb6d0d37a3594da897d0d2af42108e15ddc94fd515",
+      "origin": "ai"
+    },
+    "dataList[id=20013].name": {
+      "pl": "Przepełniona Żalem Pochwa",
+      "kr_sha256": "a30d9388099df92d4edaa2460724f923de5b1dd44d8a82e7dda0a004e90cfadb",
+      "en_sha256": "23ad219109ccf471ef97c8241cbe58354feae94d67c883f8f3e428fe2eed68cc",
+      "origin": "ai"
+    },
+    "dataList[id=20017].desc": {
+      "pl": "Każdy żyje z zegarem, który tyka w swoim rytmie.\nCzas płynący szybko. Czas płynący wolno.\nCzas wszystkich zawsze jest rozjechany.",
+      "kr_sha256": "de847cce5b19403e07912752820b8fca90aed282f77823bdfdc25f9eb7f1dcbc",
+      "en_sha256": "c8035512b801f8043aac8115182c635fc0d226b24e5eb8ce36e586c7db2c76f8",
+      "origin": "ai"
+    },
+    "dataList[id=20017].name": {
+      "pl": "Kieszonkowy Zegarek",
+      "kr_sha256": "d9488fc4a3c2a16b2ed8777f3463f1925c689a86d0c3c8df6e5910b5e91a1af4",
+      "en_sha256": "3265fa4fb69199902b58de4fff3e79aaacecc1ab5f75662fe88bb139931cc968",
+      "origin": "ai"
+    },
+    "dataList[id=20018].desc": {
+      "pl": "Ostatecznie wszystkie zegarki dążą do tego samego.\nW chwili, gdy sekundnik zamiera i tchnienie ustaje, czas w końcu płynie w jednym tempie dla wszystkich.",
+      "kr_sha256": "ba534b4aa8477f0371343c4aee5b5c25f4ebcac10525db2e05bdbdeb844e61a5",
+      "en_sha256": "233b60724b2bc78093967fe718c8766752179fd9a9e5e972cebe18e3ffec8ead",
+      "origin": "ai"
+    },
+    "dataList[id=20018].name": {
+      "pl": "Zestaw Kieszonkowych Zegarków",
+      "kr_sha256": "e9fafd4896e7ac6b3594786de1d912c8f172f908fe27c263116f43f424fc0c76",
+      "en_sha256": "019fedfccf992de73a9332e236e562127eb01109436367b6f69fcb03904e6395",
+      "origin": "ai"
+    },
+    "dataList[id=20020].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>Agenci Porządkowi: prosimy zbierać i przechowywać w tym pakiecie szczątki jednego pasażera. Choć zbieranie może sprawiać trudność, pamiętajcie — pojedyncza żyła łączy szczątki pasażera ze sobą. Wyobraźcie sobie nawijanie kłębka wełny i cierpliwie zbierajcie je jedno po drugim.</color>",
+      "kr_sha256": "156477d9bcd60dc893e96cb0283deacedb86b8562555c97a996ca2a380f3aba7",
+      "en_sha256": "94c0ddde8c4fc9b8d27c626f17d5592192206f122b977b72c639b56f2ba258b6",
+      "origin": "ai"
+    },
+    "dataList[id=20020].name": {
+      "pl": "Pakiet Rekonstrukcyjny Cywila",
+      "kr_sha256": "5e312896bb4965e298f23bd4618f3cdf6f04cefbd6540b2766633062cfcd5fff",
+      "en_sha256": "5b29d1819384a17860725a04d11881dd50a2335772e6eedb4afffe031a23026d",
+      "origin": "ai"
+    },
+    "dataList[id=20021].desc": {
+      "pl": "Występuje rzadko; tuż po zdobyciu zamienia się w 20 Pakietów Rekonstrukcyjnych Cywila.\n\n<color=#a16a3b>Czasem trafią się pasażerowie w protezach.\nPamiętajcie: nawet pełna proteza nie usuwa mózgu pasażera.\nWszystko, co mózg uznaje za własne ciało, jest połączone żyłami — więc nie ma się czym martwić przy ich mieszaniu.\nPamiętajcie: krew jest gęstsza niż woda.</color>",
+      "kr_sha256": "321b575a80e449f86d861e671e10a061391099a6bf11e92ba00de70280e353f5",
+      "en_sha256": "1435ff2cd2b5c88ca554ce0def31cfbf25b9697b02b29777e745527dfb04e10a",
+      "origin": "ai"
+    },
+    "dataList[id=20021].name": {
+      "pl": "Pakiet Rekonstrukcyjny Fiksera",
+      "kr_sha256": "71508b0a363848d1a09f393263ac3e9893e609c750f59785b32400096e698407",
+      "en_sha256": "58d8ef030bcc9e5f8ffadb5286f23b07f593d6aeb3efe43ecb89a336661efc2a",
+      "origin": "ai"
+    },
+    "dataList[id=20024].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>Rozmaite drobne, poukładane byle jak dokumenty o LCB, Wypaczeniach i Peccatula — spisane pod nadzorem LCE. Notatki z testów, eksperymentów i badań, gdzie się da.\n\n„Porządkowanie danych to nie zadanie badacza. To obowiązki asystenta.”</color>",
+      "kr_sha256": "4d488da027fd69f51e73b16effc8870f2b3bd4b530034cef6103fdaf32266afa",
+      "en_sha256": "7b0c81a7b66687cc793fed21d1e4f1378a4ed72d98a2f236f3874a85cdbc9a24",
+      "origin": "ai"
+    },
+    "dataList[id=20024].name": {
+      "pl": "Zgromadzone Dane",
+      "kr_sha256": "d8eb8928af57db966dce6a6b4f32e0139ebd034dff6f1ee4a90ce124fa6b29d6",
+      "en_sha256": "fe41d0ce1bc6a6756a2d3af56196ea382530c9647f124afc9af9c7cb3d7d04cb",
+      "origin": "ai"
+    },
+    "dataList[id=20025].desc": {
+      "pl": "Występuje rzadko; tuż po zdobyciu zamienia się w 20 Zgromadzonych Danych.\n\n<color=#a16a3b>Poufne dane zebrane osobiście przez Hohenheima, dostępne do wglądu wyłącznie dla asystentów badawczych LCE. Od osobistych informacji Grzeszników Limbus Company (urodziny, pochodzenie i inne) po pogłębione analizy Abnormalności i Wypaczeń przechowywanych w LCE — zapisane niczego nie pomijając.\n\n„Dane same w sobie nic nie znaczą. Ważne jest to, co się z czym łączy, kiedy się to ujawni i jak się tego użyje. Dopiero wtedy dane stają się informacją o wartości.” - Któryś z oficerów LCA</color>",
+      "kr_sha256": "517611953716b4b88948e0f77f34269190b9283bec949ada3d59efd3f1fa7867",
+      "en_sha256": "c78d1410fe50c4dd32c29d896c26a853a8b7fe09b9b3f15dce0bd6f898549e0b",
+      "origin": "ai"
+    },
+    "dataList[id=20025].name": {
+      "pl": "Tajne Akta",
+      "kr_sha256": "b052cbbeb5f38f13c21dd45389ce965d951f8fb8d55e6e127e8e9b637f43c28b",
+      "en_sha256": "1b0813273e5c8b0a905386af57b5255cc10167c8b5b65b01736973c9204a36e5",
+      "origin": "ai"
+    },
+    "dataList[id=20029].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>To cylindry z paliwem Sprzątaczy, którzy noc w noc czyszczą Miasto w Zaułkach. Mimo nocnych zamieszek dzięki nim ludzie każdego ranka wychodzą na czyste ulice, w drodze do pracy. Sprzątacze rozpuszczają w płynnym paliwie wszystko, czego w Mieście być nie powinno — jak śmieci czy nieautoryzowane zabudowania — i tak trwa dalej ta fala. Co noc, punktualnie, wynurzają się spod Miasta. Ciekawe tylko, z jakiej głębi? - Fragment wywiadu z pracownikiem LCCB</color>",
+      "kr_sha256": "59debe352c58f175ee820575105bd126dad8fee047a3734a3e62e5fbe14b8f85",
+      "en_sha256": "de242c048556c81929f7cea8f2e62515a626f297eff668462f5fdc107ffbdf30",
+      "origin": "ai"
+    },
+    "dataList[id=20029].name": {
+      "pl": "Kanister Płynnego Paliwa Sprzątacza",
+      "kr_sha256": "9c411ff35b011319d4069dfa7b156be5091769d60defb963a854fd299ad59473",
+      "en_sha256": "388c9dd96d4a4b9df161f735ce59e12a98a3993908fb4051887f35c790b51585",
+      "origin": "ai"
+    },
+    "dataList[id=20030].desc": {
+      "pl": "Występuje rzadko; tuż po zdobyciu zamienia się w 20 Kanistrów Płynnego Paliwa Sprzątacza.\n\n<color=#a16a3b>O Sprzątaczych wciąż wiele jest owiane tajemnicą. Kiedy rozpoczęli swoją nocną pracę? Skąd przychodzą? Podobno z instytucjami współpracują wyłącznie z Głową. Płynne paliwo Sprzątaczy buduje ich ciała, topi wrogów i służy za pokarm. Osobista ciekawostka: jak się rozmnażają? Może to ich sprawka — dzieci znikające w Nocach w Zaułkach… albo porywane na Obrzeżach. - Fragment wywiadu z pracownikiem LCCA</color>",
+      "kr_sha256": "51b755b703bcfd861e0f2c67a07bacf09b02a05222fbc42ee0a2c291ec73031a",
+      "en_sha256": "b63683f2c9be247ed9852351c6463f5e0281f3ecf14f97bd53cf1c57db6ea63f",
+      "origin": "ai"
+    },
+    "dataList[id=20030].name": {
+      "pl": "Wielki Zbiornik Płynnego Paliwa",
+      "kr_sha256": "6dca1a82cd57baf40f8909866829ccb0b9ab7077ea76d5d886161512e62b7d01",
+      "en_sha256": "56b208a4153c50fbfb6fea56d6ca827e62354d0d4d042979a0d2864a6baa3d9f",
+      "origin": "ai"
+    },
+    "dataList[id=20034].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>Mądry się nie waha, odważny się nie boi, dobroć nie zna trosk. Bez względu na dziedzinę — budować filary nauki na trzech fundamentach Zhi, Yong i Ren to budować wieżę sięgającą nieba. Stąd intrygujące pytanie: czy nie da się całej edukacji sprowadzić do Zhi, Yong i Ren? - Tianji Star(天機星)</color>",
+      "kr_sha256": "67e87823d877d581afa660b645d28fd4a2c3cd142e4d55da5100ce1bdb3d7cc6",
+      "en_sha256": "3214376ff727ff8f6ef074eb7192b158197b65b05f5278600b6fb2a155252bb5",
+      "origin": "ai"
+    },
+    "dataList[id=20034].name": {
+      "pl": "Wstęp do Zhi, Yong, Ren",
+      "kr_sha256": "84b31d5beaa0f44543535f9af7bf35e55ebcc776497feb1552d76f178f2a7a75",
+      "en_sha256": "c2b5dc741aee9ec28dd09d8d1af49f1d7fb5c7c4168394f50afb925f9c541010",
+      "origin": "ai"
+    },
+    "dataList[id=20035].desc": {
+      "pl": "Występuje rzadko; tuż po zdobyciu zamienia się w 20 Wstępów do Zhi, Yong, Ren.\n\n<color=#a16a3b>Zwój napełniony ezoteryczną wiedzą. Pozwala czytelnikom błyskawicznie wchłaniać treść, mądrość czy techniki, ignorując podstawy, które powinny wyprzedzać naukę. Nikt jeszcze nie wie, czy punktem osobliwym jest sam papier, czy litery, czy tusz, który je tworzy. Tym, co pożądają Tajnego Zwoju, mało obchodzi jego zasada czy metoda. Lecz pamiętaj: jedzenie połknięte w pośpiechu odbija się i wywraca. Strzeż się zawsze własnych możliwości. - Pewien Mistrz</color>",
+      "kr_sha256": "d654429a21415feedc71fe7e3b434734935902240e19e096a3acbee30a3ce70e",
+      "en_sha256": "522a6dcb94a4db1f0d6f10947dcbdd8d4b32820e5155a4d8cc37230f7f542de6",
+      "origin": "ai"
+    },
+    "dataList[id=20035].name": {
+      "pl": "Zdecydowanie Nie Tajny Zwój",
+      "kr_sha256": "aa573953e6af8197eaf45574a4867a7474ffe13ae6582c67e0e71c6e66acd03b",
+      "en_sha256": "59c2e438a7174e3c15f0d0fde6b2b9ef698cd731807d30c3773addab9120900f",
+      "origin": "ai"
+    },
+    "dataList[id=20036].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>Odrywki ciała Morskiego Koszmaru, pobrane do badań. Przez złowieszcze, rozlewające się błękitne światło ledwo dochodzi szum spokojnych fal.</color>",
+      "kr_sha256": "304d49376690146bfe86689846e9555d6e1d05bf8bfa3f24f738c27b239291b2",
+      "en_sha256": "79bfdb2fb1f858ea0e641fb528378a2ae3166f8583fbc1d0fe330cfc04ccf64d",
+      "origin": "ai"
+    },
+    "dataList[id=20036].name": {
+      "pl": "Próbka Morskiego Koszmaru",
+      "kr_sha256": "896df209071bceeab6447ee62c6af8ad194a6cedf6cce1d33a04b6ebcec85996",
+      "en_sha256": "87aaa8fb54636b3fbac9a96428c02e7a51d98937bdc36c5573ceacaaf8fe4906",
+      "origin": "ai"
+    },
+    "dataList[id=20037].desc": {
+      "pl": "Występuje rzadko; tuż po zdobyciu zamienia się w 20 Próbek Morskiego Koszmaru.\n\n<color=#a16a3b>Okaz Morskiego Koszmaru, pobrany do badań. W dłoni, co rozcięła życie, na które jej właściciel kiedyś patrzył z bojaźnią, nie było zawahania. Głębić niegasnące światło trzeba, by ewoluować. To nieunikniony krok.</color>",
+      "kr_sha256": "b8556e30f388ed10b40a8ddf53f4fbb5c8431e9d05ea4828a052b3bea359ad15",
+      "en_sha256": "f6e587ed6a0b76248723866172279319ab1dc4ff57e2a84d5e0411393106132e",
+      "origin": "ai"
+    },
+    "dataList[id=20037].name": {
+      "pl": "Świecąca Próbka Morskiego Koszmaru",
+      "kr_sha256": "3feb1627d669d12ed1e6c1f0c1caf8b80f5f071490cec19639ab95f8c7b94609",
+      "en_sha256": "3f076d93cf98674f6a7ce11690889d72485a2ec735b265199ac1b7a4efbd628d",
+      "origin": "ai"
+    },
+    "dataList[id=20043].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>Ktoś przeciął i ściął tę nić.\nChoćby nić była jedna, nie jest jedną — to wiele cienkich zwite w jedną. Nikt nie jest czysto jedną rzeczą. Dlatego nić po ucięciu nie zostawia dwóch osobnych nici, lecz mnóstwo wyszarpanych nitek — z tego poznajemy, że czas rzeczywiście nie leczy wszystkich ran. Upływ czasu tylko rozplata je dalej, zostawiając krwawiące rany, które nigdy się nie goją.</color>",
+      "kr_sha256": "2a041ca3c85c605e498cea9a46959ec8acb42150550686e3be8bebbbfdb0874e",
+      "en_sha256": "b35c69e05748cf6e5f55eff7349340229d6d1772d099705ed8c44f20e742706b",
+      "origin": "ai"
+    },
+    "dataList[id=20043].name": {
+      "pl": "Odcięta Nić",
+      "kr_sha256": "483fd5f81ccc66eb66739b3bd300a692b24795388731f94f1ae80cb4442c104a",
+      "en_sha256": "5649f6a050b26109ffbf9a9ba521e24919f83406ebd8908648fd887ef69c6bcd",
+      "origin": "ai"
+    },
+    "dataList[id=20044].desc": {
+      "pl": "Występuje rzadko; tuż po zdobyciu zamienia się w 20 Odciętych Nici.\n\n<color=#a16a3b>Aby naprawdę przeciąć nić, trzeba ją spalić, nie ciąć. Ostrze nie wystarczy, by osiągnąć totalne unicestwienie — by palić i topić nawet resztki dawnych więzi, aż po wyszarpane końce rozdzielonych nici. Dopiero z determinacją i sercem można zerwać taką więź.\n\nGdyby z tych uciętych i spopielonych kłębów upleść nową nić — czy połączyłaby serca ponownie? Nie wiadomo. Ale gdyby tak było, byłoby pięknie.</color>",
+      "kr_sha256": "d9485bbaa035b54af93f0aa551bcc9b86f5bd1a3c225ffb2774ee997ec78c780",
+      "en_sha256": "77617bb7326a71f84836367e3a7de60ffc6230f88c16882befada507c6418957",
+      "origin": "ai"
+    },
+    "dataList[id=20044].name": {
+      "pl": "Odcięty i Nadpalony Motek",
+      "kr_sha256": "089bb17e13d5be207b3541f7801f77254c5b178a143e6bc4624f20d0e91a0a2f",
+      "en_sha256": "d6da5072e48bbe64615b6ed2629c174f20e815f36c17da34ab496f0a2c306c69",
+      "origin": "ai"
+    },
+    "dataList[id=20045].desc": {
+      "pl": "Służy do wymiany nagród stałych w sklepie wymiany „Reflectrial][lairtcelfeR”.\n\n<size=75%><color=#a16a3b>Wystrzeliwuje się to przez odkształcone szkło. Ci, którzy odbiją się w tej soczewce, wkrótce zostaną wklejeni w taśmę filmową, a po chwili z niej zdarti — jako cienie zasłaniają drogę. Niestety soczewka ma ograniczoną żywotność; ta, która przepuściła przez siebie palące całe ciało światło, piecze się przez i zostaje wymieniona na nową, by zachować rzucone cienie. Przepalone soczewki zostają w ten sposób jak pamiątki po zmarłych.\n\n„Czy oni w ogóle wiedzą, ile to kosztuje, tak to marnując…? Poprawa zdolności bojowych, analiza procesów — powody jak najbardziej ważne, ale tak to marnować jest ponad moje pojęcie. Ta firma musi mieć naprawdę forsy.”</color></size>",
+      "kr_sha256": "7d70682f8a0c1973e98f7a89308822e58afc0c7263fd5f80682c9adfecd2b347",
+      "en_sha256": "ae4a8824ca9ffc0176dd5e028a408e2dbccbc5a3033a2ed39f4324a36829ebdd",
+      "origin": "ai"
+    },
+    "dataList[id=20045].name": {
+      "pl": "Przepalona Soczewka",
+      "kr_sha256": "244587a7d1d60745e7ad527b28433204327b23a02d7b976315b7f118c484171f",
+      "en_sha256": "6526990b4945774174039e47f816d8859ab103bf99ab8310d3c42bc57125ab0d",
+      "origin": "ai"
+    },
+    "dataList[id=20046].desc": {
+      "pl": "Służy do zakupu różnorodnych nagród w oknie wymiany.\n\n<color=#a16a3b>*pyk*. Dźwięk młota wbijającego gwóźdź. Co jest wbijane? Aparat przechwytuje światło danej chwili, przygarnia je i wbija w szorstki papier, by je wystawić. Czy zdjęcie robi się po to, by zapisać, czy po to, by zapamiętać? Może nazwa fotografii powinna zależeć od tego celu. Bo światło przybite młotem, które tylko zapisano, a nigdy nie zapamiętano, godne jest litości. W wydrukowanych fotografiach martwe światła krzyczą w rozpaczy, spalone i czarne. Martwe światła, które skonały krzycząc tam, gdzie je przybito, zapisują na zdjęciu czyjś uśmiech.</color>",
+      "kr_sha256": "5bbcad71397efa21edc44f020bf67a59f2edf071f257fb79d93eaecff46aa3c6",
+      "en_sha256": "461723f41d7caa45d8722272175562db22a64fd289edf9aee597cbfca234f75f",
+      "origin": "ai"
+    },
+    "dataList[id=20046].name": {
+      "pl": "Zdjęcia",
+      "kr_sha256": "e7cc60e0e3d02581ca799d98715452374439287c936fa9cb598ff7886708c9c5",
+      "en_sha256": "5e3147ab51e0084c3c817707f1aed1510260c13f45697bfe380dc51f6c179151",
+      "origin": "ai"
+    },
+    "dataList[id=20047].desc": {
+      "pl": "Występuje rzadko; tuż po zdobyciu zamienia się w 20 Zdjęć.\n\n<color=#a16a3b>„Niesłychanie dużo zdjęć odzyskano. A, wiecie? Te zdjęcia, choć powstały z materii stworzonej przez Wypaczenie, wciąż istnieją. Niektóre produkty uboczne Wypaczenia znikają, gdy przypadek rozwiązano; inne — nie, nawet gdy wszystko się skończyło. Czy to z natury Wypaczenia wynika? To Wypaczenie chciało coś zapisywać i pamiętać… stąd zdjęcia… więc i ten produkt uboczny pozostał jak zapis, zgodnie z jego naturą? Co powoduje różnicę w takich cechach między Wypaczeniami — trzeba to zbadać. Pracując w LCD, pewnie się wkrótce dowiem. Współpracować z LCE nie chcę.”</color>",
+      "kr_sha256": "5ea4b59bef6636cef39a80970fd976ae82291b6265952fac0a75b5dd7e7d8d82",
+      "en_sha256": "9aff98189e952843665fd144d7e3aebc37bf1b302e12099a917142a720184625",
+      "origin": "ai"
+    },
+    "dataList[id=20047].name": {
+      "pl": "Stosy Zdjęć",
+      "kr_sha256": "69ec6cea437fb32e5817a0866e5fd65b693198fda5f4a7f22c9b721e5f3757ba",
+      "en_sha256": "5722663db6ee8bc510042266fc37ee31fdb8a6dbc878cb968e3420204a2a6cab",
+      "origin": "ai"
+    },
+    "dataList[id=20048].desc": {
+      "pl": "Służy do zakupu nagród limitowanych w sklepie wymiany „Reflectrial][lairtcelfeR”. Po zakończeniu okresu wymiany zamienia się w Przepalone Soczewki.\n\n<size=75%><color=#a16a3b>Światło trafia w taśmę i wyrywa się w niej jakby żłobienie. Informacja, którą niesie to światło, to nie więcej niż sadza dla kolejnego światła, które przez nią przejdzie — jak cień człowieka wypalony na śnie po wielkim wybuchu. Uwięzione w miejscu światło zawiera kogoś, coś z pewnego dnia. Gdy nowe światło przechodzi przez taśmę i soczewkę, na końcu powstaje coś splecionego ze światła. Przez to możemy odtworzyć informację, którą światło niosło. Żywe światło, przechodząc przez martwe, traci siebie i może wytworzyć obraz tylko w formie zwłok martwego światła — ironia. Dlatego projekcja to gorzka technologia: przepuszcza żywe przez martwe, zabijając je, by rzucić pozor życia.\n\n„Skąd się biorą te taśmy? Ktoś osobno nagrywa walki LCB? Racja, że nie… czyżby i to…?”</color></size>",
+      "kr_sha256": "a27187e5c2042e0b9753835c3ed4a9afd7ec42c6af10b63de7cc5df3fd4d45e8",
+      "en_sha256": "8b6bc751d4d242ba37fa195c93bb5c9e5a15146377ebcd565d3c0b63a16e0333",
+      "origin": "ai"
+    },
+    "dataList[id=20048].name": {
+      "pl": "Rozwinięta Taśma",
+      "kr_sha256": "e760ec1535ab0bd308d80bce52f8e2f94faefa33a05867d06d1009cdfd717bfc",
+      "en_sha256": "3adead9f49321cf9226a50ea2a5d8b99e9138ad7fb810f00977534a3d7043035",
+      "origin": "ai"
+    },
+    "dataList[id=201].desc": {
+      "pl": "Służy do Synchronizacji Tożsamości oraz Splotu Nici E.G.O.",
+      "kr_sha256": "1e8e287bb325fae7af3b6f40126a3da53cd97c94d4c4c81a8827b31507ae4e49",
+      "en_sha256": "56c5cf7dd0f9751d364fd7c1dd6f2842b30958bbe85eca284dacc6ab96464014",
+      "origin": "ai"
+    },
+    "dataList[id=201].flavor": {
+      "pl": "Nić — coś w rodzaju sznura, stworzonego, by spleść wszystkie możliwości w jedno.\nNasza firma wykorzystuje Nić na różne sposoby — do Synchronizacji Tożsamości czy Splotu Nici E.G.O — by lepiej ją zgłębić.",
+      "kr_sha256": "d236f61d6b739f5d858f821f0ca14057b97e44ec33fc033131defa3b49a7b8f6",
+      "en_sha256": "ea8b2b8367577d0eccd47b38717ebae4f31a79a34d5844718663c97bc41b3df4",
+      "origin": "ai"
+    },
+    "dataList[id=201].name": {
+      "pl": "Nić",
+      "kr_sha256": "56df27bab5f87c437abf9e58f58cd56440618e7bc058f4a140f0e49825eeed30",
+      "en_sha256": "5373c7f8a5a69019e959540ef127be3302afdd5e2313244e6d08cbd5e975d06d",
+      "origin": "ai"
+    },
+    "dataList[id=211].desc": {
+      "pl": "Daje 50 PD Tożsamości.",
+      "kr_sha256": "5206ffde31c5722488b19e4b314d4cd762bbe8db6624d2cc1b2361918bb772bf",
+      "en_sha256": "4b691136fd51f938cf84392ee91060289c70769ae1eee23f085298e68513f1d8",
+      "origin": "ai"
+    },
+    "dataList[id=211].flavor": {
+      "pl": "Bilet przesiąknięty możliwościami przeszłości, teraźniejszości i przyszłości.\n„Niepoznana myśl wdoła mi się w głowę, zanim zdążyłem mrugnąć.”",
+      "kr_sha256": "03f21d714f31a2b6bacc17ebb60c04d9732ba936059b991f6d68f29a208433ed",
+      "en_sha256": "584883ab149bcba83969c94b20b9e49efe7440ed27916ee0a6b75ca2f1333d38",
+      "origin": "ai"
+    },
+    "dataList[id=211].name": {
+      "pl": "Bilet Treningu Tożsamości I",
+      "kr_sha256": "a79e3a0bbf1d0734cb86b957e19581f2c9c9c6cfe50d1feda263637c9a5521c5",
+      "en_sha256": "2202b5b017fdf7407163bdffe29a59cd3ddcdb8471014fca894ea3abaab7de91",
+      "origin": "ai"
+    },
+    "dataList[id=212].desc": {
+      "pl": "Daje 200 PD Tożsamości.",
+      "kr_sha256": "56ce634ad988c6ee28ba576a8e8149ccfd050fcc2cfe681f2ddb1f3ee2eee2be",
+      "en_sha256": "fa6cda9fe864e8c70a555d82b3e198b4a26aecd2aef5fc78d72ba1319ccd085b",
+      "origin": "ai"
+    },
+    "dataList[id=212].flavor": {
+      "pl": "Bilet przesiąknięty możliwościami przeszłości, teraźniejszości i przyszłości.\n„Mmm~ Nigdy nie byłem w południowej dzielnicy, to czemu wydaje mi się tak znajoma…?”",
+      "kr_sha256": "5b52584474e9ddc674cc7f87613734a6211deb632ea68604de58f98579ccfff0",
+      "en_sha256": "ca4189e4ce69d12c13e81dfe13a59d2abd8b1af1e089583b0853ce46dd1a001f",
+      "origin": "ai"
+    },
+    "dataList[id=212].name": {
+      "pl": "Bilet Treningu Tożsamości II",
+      "kr_sha256": "477a22b6a51ccf2c9e2141f8bb5eb184ed214d41efb0088d9086d33a7751e92e",
+      "en_sha256": "76f51e7843e3c2753c0e2fb7a557db0c63471a63c3b86ead2ffb82f357f697b6",
+      "origin": "ai"
+    },
+    "dataList[id=213].desc": {
+      "pl": "Daje 1000 PD Tożsamości.",
+      "kr_sha256": "b1ee9963aa61c74de75e31ee3c0922ec2fe942f3f07e8f92e08081bc4a707900",
+      "en_sha256": "683c692e8e0688cb14e19ebff8c3a22e2185600b9d471e8cfb606ced5f659f1b",
+      "origin": "ai"
+    },
+    "dataList[id=213].flavor": {
+      "pl": "Bilet przesiąknięty możliwościami przeszłości, teraźniejszości i przyszłości.\n„…Gdybym miał coś tak wygodnego w przeszłości, te koszmarne opresje przeszłyby o wiele łatwiej.”",
+      "kr_sha256": "5e4a7cda5bf109c7ddfea4a9bc096b72ed0ae64c6fef9325ec14f0a16ba96394",
+      "en_sha256": "33760fe1865a328447a1cb8dd49473150a887afdabce74e35fdf0b92cbb7b9a3",
+      "origin": "ai"
+    },
+    "dataList[id=213].name": {
+      "pl": "Bilet Treningu Tożsamości III",
+      "kr_sha256": "d7545800d521ed88aae3c31efa5ba958ea3997d6244e7547758529cba655282d",
+      "en_sha256": "3bb7bf3b7b015c6b852dd052cf5fbffcbcefdba74a322cb2b6464f9e4d02f472",
+      "origin": "ai"
+    },
+    "dataList[id=214].desc": {
+      "pl": "Daje 3000 PD Tożsamości.",
+      "kr_sha256": "e8d429c05b768d7086a14b3255b55b7dd5cfc007d2b3d00db21e961b0c996245",
+      "en_sha256": "d89920846f0a521879e7fcf0c4a30bff8cc43c8df0f94b0c420cadb96b6b16b5",
+      "origin": "ai"
+    },
+    "dataList[id=214].flavor": {
+      "pl": "Bilet migoczący możliwościami przeżytymi, przeżywanymi i tymi, które nadejdą.\n„To uczucie niczym wspomnienia, których nie przeżyliśmy, wciskane siłą do głowy. Mało przyjemne, ale bezdyskusyjnie wydajne.”",
+      "kr_sha256": "2e4d63787d2e3cd4b93fcde7dc89a96b3cf6a064d7101d9c26631ca752777250",
+      "en_sha256": "721cad54c662d44904da2262ccdcedc5874e08db90d7ded4372e04d85f4b1ba3",
+      "origin": "ai"
+    },
+    "dataList[id=214].name": {
+      "pl": "Bilet Treningu Tożsamości IV",
+      "kr_sha256": "59b55b65884e278af89852a437e68746803b7338d124f41ff8d76c1cf3c94a62",
+      "en_sha256": "0fb2860116bf124a0347e5492e35d9e4fd2c104a9d58839ad16ea2f6e2d77ba3",
+      "origin": "ai"
+    },
+    "dataList[id=221].desc": {
+      "pl": "Po użyciu podnosi poziom Tożsamości do 10.",
+      "kr_sha256": "6483239642b90711b8f08203bd862691cc4926fde7c04827c19161c26f29691d",
+      "en_sha256": "d79186a0f49de1774536ac0b9364d28be743ee5dee5a01de10e80d657f1d71de",
+      "origin": "ai"
+    },
+    "dataList[id=221].flavor": {
+      "pl": "Bilet z odblokowanym limitem — pozwala Tożsamości gromadzić nadwyżkę doświadczenia.\n„Oho! To ciało godniejsze jest niż kiedykolwiek, by sprawiedliwość wcielać!”",
+      "kr_sha256": "1ee1fbe715b6e7cf447c836c5facd8c9ae19a1fc99085bac62ef307a2b291240",
+      "en_sha256": "6e9345b304ef06a344768f652fc209bd31e9bdf922889cebe7d7661d26303821",
+      "origin": "ai"
+    },
+    "dataList[id=221].name": {
+      "pl": "Bilet Specjalnego Wzmocnienia I",
+      "kr_sha256": "d61a8bc3a05afda8bbd9aa2af2b1fc526a96b76aa625cac92f15755a7f8797e4",
+      "en_sha256": "d67f16295ad1510efce23fdd0da11c7929fe0a71bef91244bc5eaaef7d452a13",
+      "origin": "ai"
+    },
+    "dataList[id=222].desc": {
+      "pl": "Po użyciu podnosi poziom Tożsamości do 20.",
+      "kr_sha256": "111b218a65ce76478ef43739515a7dc5ac8d7ded8b52a3feb1ea5ccd29929a8f",
+      "en_sha256": "d13b312f688a2d312b787f80d90f5c7936015eb69a359b78a9cc0cd899ae346b",
+      "origin": "ai"
+    },
+    "dataList[id=222].flavor": {
+      "pl": "Bilet z odblokowanym limitem — pozwala Tożsamości gromadzić nadwyżkę doświadczenia.\n„Dziwnie… uspokaja. Czuję, że dam radę z tym, czego kiedyś nie potrafiłem.”",
+      "kr_sha256": "91c5ab850b5b016ae1e519f5bb0bfc3aba8b85546b789332335a1edcfb93d3a1",
+      "en_sha256": "e52534a67e2a914bcd695b00365df118ce9db4fef998488df4552751a4509da6",
+      "origin": "ai"
+    },
+    "dataList[id=222].name": {
+      "pl": "Bilet Specjalnego Wzmocnienia II",
+      "kr_sha256": "f82da67da356a2c57d9705b92a1e2628f72351b67e6e560aa7e3697358ff0f8e",
+      "en_sha256": "d8f9dfb45c29deb53263048cf04a86fd56848046753193907fe299708b03a6e4",
+      "origin": "ai"
+    },
+    "dataList[id=223].desc": {
+      "pl": "Po użyciu podnosi poziom Tożsamości do 30.",
+      "kr_sha256": "3688be10f00b076dcc740b569774564bdcf67cfd5bd3e433c352740ae5fc309a",
+      "en_sha256": "33b3e2c2ee30d74c8723a9cecaf47d98bd7e15c9f58357f1c04de997986e82d1",
+      "origin": "ai"
+    },
+    "dataList[id=223].flavor": {
+      "pl": "Bilet z odblokowanym limitem — pozwala Tożsamości gromadzić nadwyżkę doświadczenia.\n„To by było groźne narzędzie na wojnie. Wyobraź sobie: weterani w kilka sekund.”",
+      "kr_sha256": "8febedaf1bf3a9ff520b46719571ea2ea98b4a6cef5df916f2ab417dbf6685b6",
+      "en_sha256": "1ddf5cf297fb688763ba1e4a0914f64ba4d8291c9813d50e43cc745ac46779ea",
+      "origin": "ai"
+    },
+    "dataList[id=223].name": {
+      "pl": "Bilet Specjalnego Wzmocnienia III",
+      "kr_sha256": "93ae61b2a1826fd0545669064c30d8fb3631047f144e3a5a3cd7918bb08a9f4d",
+      "en_sha256": "734ecdd460099b479d4d21704bace0abb09a70f6445de74fd3fb949a7788cddd",
+      "origin": "ai"
+    },
+    "dataList[id=224].desc": {
+      "pl": "Po użyciu podnosi poziom Tożsamości do 40.",
+      "kr_sha256": "21e173c755bade45412a7ae4cad65314cddd50bac1ca2067b38fb3efd12c815f",
+      "en_sha256": "ca8a87676f87283465b2231da6a5393388b2ca816acec194f81940565ef20d3d",
+      "origin": "ai"
+    },
+    "dataList[id=224].flavor": {
+      "pl": "Bilet z odblokowanym limitem — pozwala Tożsamości gromadzić nadwyżkę doświadczenia.\n„Ś. C. E. M. A. Lata doświadczenia w technice, której nigdy nie używałem… satysfakcji tu brak. Odrażające.”",
+      "kr_sha256": "5bd29dc38b1249082935a782620a91c1e843362e71e0902d4ba1e39a7be7607a",
+      "en_sha256": "98cca20654b7e00c66f2e4e7846b2f35a37236802d7f28556339b70c1e1f65e2",
+      "origin": "ai"
+    },
+    "dataList[id=224].name": {
+      "pl": "Bilet Specjalnego Wzmocnienia IV",
+      "kr_sha256": "08104e4f4cac3c56e1084c6f969a813ecafcc5954d5e93eda4a4c1075c86b3dc",
+      "en_sha256": "70bd3f88a7c045ab1fb5db8bec1b587e857809e64b39984cdc6375fc9a73ae75",
+      "origin": "ai"
+    },
+    "dataList[id=231].desc": {
+      "pl": "Po użyciu podnosi poziom Tożsamości do 40, a Stopień Synchronizacji do 4.",
+      "kr_sha256": "67cb80b345dea4b364d587cac566382d9c8e68997c24d3e906794d2a6e7d3953",
+      "en_sha256": "da7210557345919faf6d355022d8744c97a6f60d7c7f1f22a16f235a01edad71",
+      "origin": "ai"
+    },
+    "dataList[id=231].flavor": {
+      "pl": "Ten bilet trzeba rozdarć, by zadziałał.\nRozdziera wymiar lub czasoprzestrzeń, by w nienormalnym tempie synchronizować i rozwijać Tożsamość.\nPodobno dźwięk rozdzierania uzależnia — jednego biletu mało, chce się rwać kolejne.",
+      "kr_sha256": "20374918d9fa9ff7e71f44dfc62af792d235efff3b3b482ceab8ceab73831421",
+      "en_sha256": "cf9a0b8be99c7f8df957f3abb1251b9bad50734635129133b43cc0611f139f7f",
+      "origin": "ai"
+    },
+    "dataList[id=231].name": {
+      "pl": "Bilet Skoku Rozwoju Tożsamości",
+      "kr_sha256": "a9c37e187f79d8eda4425d91ab46881f33ea259e126c91f5abac457630ecbab8",
+      "en_sha256": "b637507d4244d6f164e6413de9292ef6647f22f229690c76a64a5cfd567c82b2",
+      "origin": "ai"
+    },
+    "dataList[id=232].desc": {
+      "pl": "Po użyciu podnosi Stopień Synchronizacji Tożsamości do 4.",
+      "kr_sha256": "ea6f41095fed06f1cb4830ac01fccc0b40bedec5ff50b57c01f194697293fd43",
+      "en_sha256": "a3b3da7caa06aa69843a15a05246c9398eb85e3c31117ca00dd24de998d1549a",
+      "origin": "ai"
+    },
+    "dataList[id=232].flavor": {
+      "pl": "Moduł Błyskawicznej Synchronizacji Tożsamości opracowany przez zespół badawczo-rozwojowy LCA.\nWmusza drżące, lśniące nici i splata odłamki, gwałtownie podnosząc Synchronizację do ustalonego poziomu.\nCi spoza lustra mogą nie wiedzieć, lecz wewnątrz lustra to wyniszczające wstrzyknięcie zmiata wszystko w krótkiej chwili.",
+      "kr_sha256": "f934c9b59e9e66674a8983500c8e1d068e1a3dd780cb4a752138bf81cc3bc32a",
+      "en_sha256": "721ec487868c0c575ad6e19f28d35beb7455fc43531d1ca2d30ef94153fa372e",
+      "origin": "ai"
+    },
+    "dataList[id=232].name": {
+      "pl": "Moduł Skoku — Synchronizacja Tożsamości",
+      "kr_sha256": "3817b3f6907cf4f58cd0dd01b25d11cbbaeca62ae283c9de3efb5a8a818f9841",
+      "en_sha256": "dc251797129d51267964548a1df9e3d867e6ed726656a9663ec93753dced6ca3",
+      "origin": "ai"
+    },
+    "dataList[id=233].desc": {
+      "pl": "Po użyciu podnosi Stopień Splotu Nici E.G.O do 4. (Można stosować wyłącznie do E.G.O rangi WAW lub niższej)",
+      "kr_sha256": "238ed9330230b4fb38630385f8a251a245f77818b976c9a5da3ed1886a656edb",
+      "en_sha256": "3b4ea9bd72c887bc92dd645bbfd8d6d89dd7b5e2ac80c5cfe51860e730113637",
+      "origin": "ai"
+    },
+    "dataList[id=233].flavor": {
+      "pl": "Pierwszy moduł Splotu Nici E.G.O opracowany przez zespół badawczo-rozwojowy LCA.\nSplata drżące, lśniące nici z masą odłamków, przyspieszając Splot wybranego E.G.O do ustalonego poziomu.\nJeszcze nie wiadomo, ile tego nacisku serce zwane E.G.O znieść może, gdy tak lekkomyślnie Splata się te E.G.O zbudowane z Nienormalnych Psychomentów.",
+      "kr_sha256": "55012d59e493ca88f91cb3d00e3456de14294dc16a3fdbbfe424ebee56f9a144",
+      "en_sha256": "e90c878fb5acb0c8c1e5a22cf4cff8fce8742cc2e5e5c8bfaaec1e67e25a6120",
+      "origin": "ai"
+    },
+    "dataList[id=233].name": {
+      "pl": "Moduł Skoku — Splot Nici E.G.O [WAW]",
+      "kr_sha256": "ae525314dd5d02ce24aa583cacd63efb59089beee386b1cf09a8e9778dcbbdd2",
+      "en_sha256": "d42648611fa94dd000fc4f38bff347a8a972f730093960c7347ba6ca64b69e1d",
+      "origin": "ai"
+    },
+    "dataList[id=234].desc": {
+      "pl": "Po użyciu podnosi Stopień Splotu Nici E.G.O do 4. (Można stosować wyłącznie do E.G.O rangi HE lub niższej)",
+      "kr_sha256": "a9cda0e7518ea51a9bd660c716e6b5d8f51da900a202b7b769e3af6302b056b6",
+      "en_sha256": "4c826d6eec7245c9bd7f2690d32064b24c14375390a2945ad5bc491f153b6b25",
+      "origin": "ai"
+    },
+    "dataList[id=234].flavor": {
+      "pl": "Drugi moduł Splotu Nici E.G.O opracowany przez zespół badawczo-rozwojowy LCA.\nSplata drżące, lśniące nici z masą odłamków, przyspieszając Splot E.G.O rangi [HE] lub niższej do ustalonego poziomu.\nSplot nici z odłamkami daje formę. Ciepłe światło nici przypomina to, które kiedyś przez długi czas zalewało Miasto.",
+      "kr_sha256": "da826135225510451dd61c58bda29a4185a9b17693b8a297818c1c7ba7730ebf",
+      "en_sha256": "f6fe25225ea047a781cbe356f98c2eb7b25e304ceea5468f152791723ce355fe",
+      "origin": "ai"
+    },
+    "dataList[id=234].name": {
+      "pl": "Moduł Skoku — Splot Nici E.G.O [HE]",
+      "kr_sha256": "7c257fb2579306e0178c115cb67423ea4f84c0b4227651e4dcf689b7c924681a",
+      "en_sha256": "9afc7ce7d0a72e942241b4035d93dc502719c6afabf66fc64b09c5267fd0587d",
+      "origin": "ai"
+    },
+    "dataList[id=235].desc": {
+      "pl": "Po użyciu podnosi poziom Tożsamości do 50, a Stopień Synchronizacji do 4.",
+      "kr_sha256": "7d64d6def7850c35e4b2b434837daa0eda44bd3177774c735c3fc4c32660ae2f",
+      "en_sha256": "56a5ce60fda6285ea8bb9cbb9293a507770badd3dd188fa58f4269da671ed7a4",
+      "origin": "ai"
+    },
+    "dataList[id=235].flavor": {
+      "pl": "Ten bilet trzeba rozdarć, by zadziałał.\nRozdziera wymiar lub czasoprzestrzeń, by w nienormalnym tempie synchronizować i rozwijać Tożsamość.\nPodobno dźwięk rozdzierania uzależnia — jednego biletu mało, chce się rwać kolejne.",
+      "kr_sha256": "20374918d9fa9ff7e71f44dfc62af792d235efff3b3b482ceab8ceab73831421",
+      "en_sha256": "cf9a0b8be99c7f8df957f3abb1251b9bad50734635129133b43cc0611f139f7f",
+      "origin": "ai"
+    },
+    "dataList[id=235].name": {
+      "pl": "Bilet Skoku Rozwoju Tożsamości - ver.2",
+      "kr_sha256": "ec825dc09c7221a1b4fcbe9a2fdb4df6db78d0fc725df5d527a1e443b77e23ac",
+      "en_sha256": "b491ee4c57a19fe05b98acc08a8e576a56f6799a53a1ffc53190bb72b96c6542",
+      "origin": "ai"
+    },
+    "dataList[id=237].desc": {
+      "pl": "Po użyciu podnosi Stopień Splotu Nici E.G.O do 4. (Można stosować wyłącznie do E.G.O rangi TETH lub niższej)",
+      "kr_sha256": "eb507efa305910f8eb079d9046ad2bbbc1f90a7031ce9210b777ebdbbc82d57e",
+      "en_sha256": "0a68ca2d16e68169fe8dc3699b217743e9e165bd5ebcb196e8285930fd6f2847",
+      "origin": "ai"
+    },
+    "dataList[id=237].flavor": {
+      "pl": "Czwarty moduł Splotu Nici E.G.O opracowany przez zespół badawczo-rozwojowy LCA.\nSplata drżące, lśniące nici z masą odłamków, przyspieszając Splot E.G.O rangi [TETH] lub niższej do ustalonego poziomu.\nUbrania składają się z materiału, materiał jest tkany z nici. Te nici z kolei zwite są z jeszcze cieńszych włókien. Fraktal, czy jak to mówili? Czasem te powtarzające się wzory budzą we mnie dziwne déjà vu.\n\nCoś się powtarza.",
+      "kr_sha256": "39c6bee7e5ad73bbe7e60ffa78becc99c835113ac23b76450025fb4e677223e2",
+      "en_sha256": "df714f756f07f64682094b3ae1b4decace221e664ced81ea03b23fdc36190029",
+      "origin": "ai"
+    },
+    "dataList[id=237].name": {
+      "pl": "Moduł Skoku — Splot Nici E.G.O [TETH]",
+      "kr_sha256": "37be57bc379557d890040e4baae52aa38745339a23eeab310caad0065e5a7e53",
+      "en_sha256": "ba07a2c6c6ac200c16264e2334cb58237ec0938f979247e8cc843d69ee356ce1",
+      "origin": "ai"
+    },
+    "dataList[id=238].desc": {
+      "pl": "Po użyciu podnosi Stopień Splotu Nici E.G.O do 4. (Można stosować wyłącznie do E.G.O rangi ZAYIN)\n\n<color=#a16a3b>Gwałtownie przyspiesza Splot E.G.O rangi [ZAYIN], splatając go z masą odłamków w krótkim czasie. „Skądinąd: gdy drgnie tutaj nić, kiedyś drgnie tamta… jak tu mówią, wszystko splecione jest nićmi, to czy rozszyfrowywanie czegoś nie jest rozplątywaniem nici. Co się stanie, gdy wszystkie nici, które mnie owijają, się rozplączą?”</color>",
+      "kr_sha256": "f7d53b9519a230ec43f02e33918cf8e29bc8cc2b9740357615a68cd775493e14",
+      "en_sha256": "fd06410ac623e45edd19fcc4c80f36f3dbf89422dc9c99655d26b59b2d2716bf",
+      "origin": "ai"
+    },
+    "dataList[id=238].name": {
+      "pl": "Moduł Skoku — Splot Nici E.G.O [ZAYIN]",
+      "kr_sha256": "9b25bb3747d57fa90f158a06411b5be47bf4d65479fec780ef1cb09e6687b206",
+      "en_sha256": "f21f555053a9ddc80e21e2709011dcc6a29a8e66fd76548dc36eaf5934c379bc",
+      "origin": "ai"
+    },
+    "dataList[id=2].desc": {
+      "pl": "Kryształ w kształcie róży. Służy do Ekstrakcji oraz zakupu Skrzynek Enkefaliny.",
+      "kr_sha256": "60463f56280333ee202ead082805bf9d19b7ccbe3e736b9e15413381ffffdbba",
+      "en_sha256": "d7aa60f958d229de8df4244e324ffbc2c85676011a31be990d511a465c14039f",
+      "origin": "ai"
+    },
+    "dataList[id=2].flavor": {
+      "pl": "Kryształowa róża, która zdaje się wciąż patrzeć w jednym kierunku. Ta ludzka rzecz, jak powiadają, zakwita, napiwszy się wód pewnej rzeki.",
+      "kr_sha256": "3096d3ffb97a9cc4cb46840cc92bf8b0a66fba30dfe341c50fddb83541cac175",
+      "en_sha256": "239b72ac28c92be2443a353d2037f22cf80bc94a282d7d0d7fd71dfd93feb3dc",
+      "origin": "ai"
+    },
+    "dataList[id=2].name": {
+      "pl": "Darmowe Szaleństwo",
+      "kr_sha256": "b1ad6b18663f0161fae5d7a4569d58257c343251cde8e6f28d7c29b1ab1016ce",
+      "en_sha256": "be7a4954ebb7d7b592e791dea7d9c798f0022fe1294652a0d38e5db1c9badb5d",
+      "origin": "ai"
+    },
+    "dataList[id=30006].desc": {
+      "pl": "Służy w Lustrzanych Lochach.\n\n<color=#a16a3b>Blask gwiazd, który można zbierać dopóty, dopóki Lustro Nieśmiertelności pozostaje otwarte. Ludzie, choćby chcieli utkać nowe opowieści z Gwiezdnego Blasku, muszą zgarniać ten, który został na ziemi — gwiazd na niebie już nie ma.</color>",
+      "kr_sha256": "b420f5167d5b19b25fee628dbb8ba3d383a9b852d5ff2d6cacb6864b2a54405e",
+      "en_sha256": "cfa546b0db107d5c7341b8fd46f4182a63a1eb1035189b4389af21ee8d604ca7",
+      "origin": "ai"
+    },
+    "dataList[id=30006].name": {
+      "pl": "Gwiezdny Blask Nieśmiertelności",
+      "kr_sha256": "8b9a08ec7961a8a5adeb4c31cbb15a18324fb443f911ef50150e114167fb35cc",
+      "en_sha256": "2376fd029170034cf28290f3139d3283f4181f959f05ce93a2357e82a884929f",
+      "origin": "ai"
+    },
+    "dataList[id=30007].desc": {
+      "pl": "Służy w Lustrzanych Lochach.\n\n<color=#a16a3b>Gwiezdny Blask, który można zbierać tylko przez ulotny czas. Wzrok uniesiony ku gwiazdom. Gwiazdy, które patrzyły, spadają, czekając na żniwiarza. Zebrane gwiazdy łączone są siłą — muszą lśnić, by rodziły nowe opowieści.</color>",
+      "kr_sha256": "06383d0cce3fd6d6aae1fa3f5af1b627b890cb0ed6b44fbe2a9920273570311d",
+      "en_sha256": "93f054bcc2b58c9c1c0b440e4c33e1c5e9fa3d3098080e16deb20df5e3fbb3c4",
+      "origin": "ai"
+    },
+    "dataList[id=30007].name": {
+      "pl": "Gwiezdny Blask Imion i Pająków",
+      "kr_sha256": "31d50d633acefbd4ecda6b496cd96f5978e54d646d2a48f80e7deacc7d55dc6f",
+      "en_sha256": "ee91bf9eaecb467111099ff0491dd77614df093b04d532be1bb686c8cc6837fc",
+      "origin": "ai"
+    },
+    "dataList[id=30008].desc": {
+      "pl": "Służy w Lustrzanych Lochach.\n\n<color=#a16a3b>Gwiezdny Blask, który można zbierać tylko przez ulotny czas. Zebrany odłamka po odłamku, w końcu znów się rozprasza. Nikt nie wie, jak długo będzie się powtarzać ten cykl migotania i znikania. Mimo to znów gromadzimy Gwiezdny Blask, jakby układać go w stos. I tak samo dobrze wiesz, że i ten Blask, który doszedł na szczyt, wkrótce zniknie — jak głaz toczący się za horyzont, staczający się ze wzgórza.</color>",
+      "kr_sha256": "13dce2e3a0c8cfdd28415c4dee0fdb074dfdd3fa6c7197c71a3c89959464b9f2",
+      "en_sha256": "145a8dc584514337c5c2e44021c39a46cbdbe32b705206a68dbc205fab6890da",
+      "origin": "ai"
+    },
+    "dataList[id=30008].name": {
+      "pl": "Gwiezdny Blask Sisyphe",
+      "kr_sha256": "076aae9cf411f2852027005087341c40352c3f8337ed949bc9a959e6f073f9e7",
+      "en_sha256": "475ddc550d7cb34b34633830d5d17232ad04a41d3af0672d26dd5c4102c030d2",
+      "origin": "ai"
+    },
+    "dataList[id=301].desc": {
+      "pl": "Po użyciu odnawia 60 Enkefaliny.",
+      "kr_sha256": "0d23d9a8dba0adee111f9ef3c8249300ff1379f6dc589d9b3ed1d664498bdee2",
+      "en_sha256": "3e6c11d3a4152b4b47ee795f8a1eeee752d660f80fd93674825c8780b991e5ba",
+      "origin": "ai"
+    },
+    "dataList[id=301].flavor": {
+      "pl": "Stabilny pojemnik do przechowywania Enkefaliny w postaci płynnej.\n[OSTRZEŻENIE] Obchodzenie się z tym pudełkiem bez zachowania ustalonych procedur może skutkować wypadkami, w tym wyciekiem Enkefaliny.\nNiekontrolowane wdychanie Enkefaliny może wywołać całą gamę nieweryfikowanych objawów psychopatologicznych.",
+      "kr_sha256": "2db6301a97d49f70d8b043d94a78b84234d048c6eacfc642a8568716902cfbcb",
+      "en_sha256": "5af0dfe174e3c09ac97731b35e901b0addbeb1895aab0bc5567078f36833b6fa",
+      "origin": "ai"
+    },
+    "dataList[id=301].name": {
+      "pl": "Skrzynka Enkefaliny",
+      "kr_sha256": "5c824190d6c65b418d6a44b007b2b68ed9f54dee52d0f2f4260efc89b19a4cc2",
+      "en_sha256": "550bdf0be8bc0cbc0221e34e9f604ea91eb1765230b5af0b2384e5a0246a6290",
+      "origin": "ai"
+    },
+    "dataList[id=3].desc": {
+      "pl": "Kryształ w kształcie róży. Służy do Ekstrakcji oraz zakupu Skrzynek Enkefaliny.",
+      "kr_sha256": "60463f56280333ee202ead082805bf9d19b7ccbe3e736b9e15413381ffffdbba",
+      "en_sha256": "d7aa60f958d229de8df4244e324ffbc2c85676011a31be990d511a465c14039f",
+      "origin": "ai"
+    },
+    "dataList[id=3].flavor": {
+      "pl": "Człowiek może iść naprzód dopiero wtedy, gdy wchłonie Szaleństwo.",
+      "kr_sha256": "d8f7efa5723fa2a1c85a9bc65f5f735cfdcf895818d3f196c5b79fbd8fbe8f14",
+      "en_sha256": "dbb61cc16cbe888513f0526da73633fd9f983747b54cda4b307168a043d51f45",
+      "origin": "ai"
+    },
+    "dataList[id=3].name": {
+      "pl": "Szaleństwo",
+      "kr_sha256": "033fa39122867455db4fea127d5fc58cb63098702b5b750aeba725b77204f4e7",
+      "en_sha256": "b8b523982746c8c5cb5eccfd535290edbf4ff1f419b1b6c3b5ccb4ad604b7f86",
+      "origin": "ai"
+    },
+    "dataList[id=401].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Nici.",
+      "kr_sha256": "ce06afdf7631b58a55577fbafcfefc08f35de0a285f7ca1fd048c4e3db32a9b5",
+      "en_sha256": "7c0e771c49bfdfebc26c501b43655c9e46939842cbc5663ddfb50480fea939c1",
+      "origin": "ai"
+    },
+    "dataList[id=401].flavor": {
+      "pl": "Skrzynia pełna związanych w kłębki możliwości.\nNikt nie wie, ile z niej wyciągniesz.",
+      "kr_sha256": "2d7fb3bc72efdd69bb058e5ead0f58cc13d64f0bb5cfee76fc4ed8e2538968ee",
+      "en_sha256": "aa72068ca15bef218f12ee8b0ba69288e30dc1d5c11662b2ac01fbac6b98e553",
+      "origin": "ai"
+    },
+    "dataList[id=401].name": {
+      "pl": "Skrzynka Nici",
+      "kr_sha256": "3eb54625ddcf0e62e6d55848f562cfad4253003355b6e4d65496d3bc98d6b239",
+      "en_sha256": "d2063c6fe2fe4bf88e573a64058ed40904063b4ca411e73d222baec3d6244021",
+      "origin": "ai"
+    },
+    "dataList[id=4].name": {
+      "pl": "Yi Sang [理想]",
+      "kr_sha256": "6114f809b8b1bcc94f9b2ee506fdda0aafcba6448307da2f487237eb176986c3",
+      "en_sha256": "b83712c617c8acf753f1792c9bb1a62063970fd44807c5d1582b172a0d14acd5",
+      "origin": "ai"
+    },
+    "dataList[id=501].desc": {
+      "pl": "Po użyciu można wybrać jedną z Tożsamości Sezonu 1 (w tym Tożsamości Wydarzeń), by ją otrzymać.",
+      "kr_sha256": "e4d72fe22bba30f29e3ce0822d9d91273779960c6b48770c031e7c222e07bbf7",
+      "en_sha256": "d4b18718fbee893c957ace0d07c15aa910615a268743cdf6b30e6bc0d3f45f79",
+      "origin": "ai"
+    },
+    "dataList[id=501].flavor": {
+      "pl": "Bilet pozwalający zaobserwować i wyciągnąć jedną z Tożsamości z określonego punktu podróży zespołu LCB za Złotymi Gałęziami.\n„Technologia pozwalająca wyciągać Tożsamości Świata Lustra obserwowane wyłącznie w danym okresie zasługuje na miano skokowego rozwoju Limbus Company. - Badacz Lustra, Obserwatorium Światów Lustra, Dział LCA”",
+      "kr_sha256": "037760b5aad733e8c25ce8d0c2e096713c3dfbb09d7229cd98a05b954af571fc",
+      "en_sha256": "22f9bfab3b6813efbea53f5950a23ce4903ea0358b0d980e80df6eeaee6c0ad2",
+      "origin": "ai"
+    },
+    "dataList[id=501].name": {
+      "pl": "Bilet Wyboru Tożsamości Sezonu 1",
+      "kr_sha256": "8fe653b2f56f79468c95a0cb03a8386af34b8a8942ed63cbccdaabcb27f2ff39",
+      "en_sha256": "c2759d459caa1c76a41be10c863403ca97b3e607cb6d797c8a32b98ca0974856",
+      "origin": "ai"
+    },
+    "dataList[id=502].desc": {
+      "pl": "Po użyciu można wybrać jedną z Tożsamości Sezonu 2 (w tym Tożsamości Wydarzeń), by ją otrzymać.",
+      "kr_sha256": "e244ef4b984422d3b48d80d1b3e22ef3200037ecac22fa17bff0b876a704883a",
+      "en_sha256": "8c7ecc5bdbde9fbd83d7438eed2e3d9bbbc620f81339ed10aa1798d3e7fbf329",
+      "origin": "ai"
+    },
+    "dataList[id=502].flavor": {
+      "pl": "Bilet pozwalający zaobserwować i wyciągnąć jedną z Tożsamości z określonego punktu podróży zespołu LCB za Złotymi Gałęziami.\n„Technologia pozwalająca wyciągać Tożsamości Świata Lustra obserwowane wyłącznie w danym okresie zasługuje na miano skokowego rozwoju Limbus Company. - Badacz Lustra, Obserwatorium Światów Lustra, Dział LCA”",
+      "kr_sha256": "037760b5aad733e8c25ce8d0c2e096713c3dfbb09d7229cd98a05b954af571fc",
+      "en_sha256": "22f9bfab3b6813efbea53f5950a23ce4903ea0358b0d980e80df6eeaee6c0ad2",
+      "origin": "ai"
+    },
+    "dataList[id=502].name": {
+      "pl": "Bilet Wyboru Tożsamości Sezonu 2",
+      "kr_sha256": "615b605e60ccdbab71017ceff22c705011e884aa08e1e2e5d1f1abcdc13273d6",
+      "en_sha256": "36f4ddd536388c24263673c3ffe7eaac5eff6d22146906d87f813b7541e4c174",
+      "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Odłamki E.G.O",
+      "kr_sha256": "583058af2e05b604c54c2c4b2e506b01f28611113fdaa01774e45d8b65ff5876",
+      "en_sha256": "499e14bb1c231668e1e2090630cba29dc108c0af0f7ce72b5ff4f92682e50e4d",
+      "origin": "ai"
+    },
+    "dataList[id=601].desc": {
+      "pl": "Po użyciu można wybrać jedno z E.G.O Przepustki Bitewnej Sezonu 1, by je otrzymać.",
+      "kr_sha256": "e55cd2647d8e3af2e4860efbc05a1a3f4eac99e88358df738f286fdc700d868a",
+      "en_sha256": "bc5072d7a681e9e592c59768b5c0566646c40cef75d9c98d99326afe0f7f75a0",
+      "origin": "ai"
+    },
+    "dataList[id=601].flavor": {
+      "pl": "Bilet pozwalający zaobserwować i wyciągnąć jedno z E.G.O z określonego punktu podróży zespołu LCB za Złotymi Gałęziami.\n„Wyciąganie z głębin E.G.O schwytanego w konkretnym okresie to o wiele trudniejsze badania niż wybieranie Tożsamości. Huhu. - Badacz Obserwacji, Obserwatorium Światów Lustra, Dział LCA”",
+      "kr_sha256": "c1b65d8c2370a43fe5c8a5a2269e9e91c75b12890ca039f7d488872679e7f09e",
+      "en_sha256": "6c77ae1ffbe1c893f0cba7aa2635d9f7b367363049bb6ebc37d9be15af061c32",
+      "origin": "ai"
+    },
+    "dataList[id=601].name": {
+      "pl": "Bilet Wyboru E.G.O Przepustki Bitewnej Sezonu 1",
+      "kr_sha256": "11512b516dc7bcff9a01ca479fff399a1ae849c0967073348a07c5b1de27ab33",
+      "en_sha256": "c2c3d563d2e599f6416060bb4c5bb9ec09d57e5ea56c3cb26a30a37ebd25059c",
+      "origin": "ai"
+    },
+    "dataList[id=751].desc": {
+      "pl": "Po użyciu można wybrać jednego z Komentatorów dostępnych w Wymianie Yi Sanga w menu Ekstrakcji.\n(※ Komentatorzy Nocy Walpurgii są niedostępni)",
+      "kr_sha256": "bd3f95d220bd02b48d611e283d3f1582a35746fd6a712ea64e4493b4725a6cac",
+      "en_sha256": "bbc4a2954633d281c94c6510c8afac1997cc8ee3289929a42c81d099818a9d6f",
+      "origin": "ai"
+    },
+    "dataList[id=751].flavor": {
+      "pl": "Skrytka z nagraniami Komentatorów, którzy donoszą o stanie pola bitwy.\n\n„Hej, więc… na niektórych taśmach są nagrania głosów ludzi dawno martwych. Skąd te głosy?”\n„Mówili, że złapali i zamknęli kilka — takich, co się do sytuacji przydają — głosów zaobserwowanych z tamtej strony Światów Lustra.”\n„Znowu lustro? Lustro to, lustro tamto — równie dobrze moglibyście lustrem załatwić wszystko, ta firma!”\n„A czy już tak nie robimy?”\n„…Racja, ale… czy myśleliśmy kiedyś o cenie tej technologii…?”",
+      "kr_sha256": "000163b6782b005af1addc73c7896110079205866db7d22ef4cbad50d471ee08",
+      "en_sha256": "234dd394cedfbe9fe5a93cc24efe8d68dfed187e929c390b0d337b15db88471e",
+      "origin": "ai"
+    },
+    "dataList[id=751].name": {
+      "pl": "Bilet Wyboru Komentatora [Wymiana Yi Sanga]",
+      "kr_sha256": "e0527cea93ae5c2a0d1dff8c1ca91fb6b678d52e6ec0142d9122692cd3b429c4",
+      "en_sha256": "4ffae2f80398d28e8688c04e09b0fe3965fc68cbfe016805161dc1b618ddc9bb",
+      "origin": "ai"
+    },
+    "dataList[id=752].desc": {
+      "pl": "Po użyciu można wybrać jednego z Komentatorów dostępnych w ograniczonym zakresie Wymiany Yi Sanga w menu Ekstrakcji.\n(※ Komentatorzy Nocy Walpurgii są niedostępni)\n(※ Zakres wymiany: Komentatorzy wydani do końca Sezonu 8)",
+      "kr_sha256": "6be1c51dcdd3057bf2840a86eb6c4443fdeae810f85b61923bf60784f315829d",
+      "en_sha256": "14c64cc26e6048f12cc2f636ebf0d6eca39d26306f8e2634b737e3481a2f4ec2",
+      "origin": "ai"
+    },
+    "dataList[id=752].flavor": {
+      "pl": "Skrytka z nagraniami Komentatorów, którzy donoszą o stanie pola bitwy.\n\n„Hej, więc… na niektórych taśmach są nagrania głosów ludzi dawno martwych. Skąd te głosy?”\n„Mówili, że złapali i zamknęli kilka — takich, co się do sytuacji przydają — głosów zaobserwowanych z tamtej strony Światów Lustra.”\n„Znowu lustro? Lustro to, lustro tamto — równie dobrze moglibyście lustrem załatwić wszystko, ta firma!”\n„A czy już tak nie robimy?”\n„…Racja, ale… czy myśleliśmy kiedyś o cenie tej technologii…?”",
+      "kr_sha256": "7990298afcb32b08f827b0182f243344d8c0ba260194f6a40432a8c77052e14d",
+      "en_sha256": "234dd394cedfbe9fe5a93cc24efe8d68dfed187e929c390b0d337b15db88471e",
+      "origin": "ai"
+    },
+    "dataList[id=752].name": {
+      "pl": "Bilet Wyboru Komentatora [Wymiana Yi Sanga] (Konstrukcja Schematów Beta)",
+      "kr_sha256": "392014c8922b8e915c3bb3630a57201b7946fc1a7ce4cf22273156d2233cb2e8",
+      "en_sha256": "839f335fc6343e4ef51392f9653312352fc7bb802f24be892880e2a7e572986c",
+      "origin": "ai"
+    },
+    "dataList[id=9900].desc": {
+      "pl": "Służy do utkania Fasady Tożsamości przeznaczonej do projekcji.\n\n<color=#a16a3b>Snopki światła zwite w nici, a nici zwinięte w kłębek.\nNici światła zawierają wszystko — gdy jedna z nich zadrży, daleka drgnie razem z nią.\nW ten sposób wszystko utkano z drgań, każde swoje.\nStąd ubranie utkane z nici oszukujące wyglądem nie jest niczym bajecznym.</color>",
+      "kr_sha256": "9f481feaf6ac72f9b98c63e780ece6d81e65fffbadbffb9e416a382eb9bd6c6c",
+      "en_sha256": "3aa750641ab07fd1ff3f4557025cfb6c800fe39e5ab89ab1738780300d5ac819",
+      "origin": "ai"
+    },
+    "dataList[id=9900].name": {
+      "pl": "Motek Nici",
+      "kr_sha256": "9b07f1e37e02345d64e59e2fb7fd00f327c9a340f4f6302837e1961472121e7e",
+      "en_sha256": "2ea379319b1a19ec3f479defa3e98e76ec22dc9780a7c6ccbc12fc9d7f8954ba",
+      "origin": "ai"
+    }
+  }
+}

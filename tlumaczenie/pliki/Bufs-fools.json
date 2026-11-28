@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=CandyForCharon].desc": {
+      "pl": "- Maks. wartości: 1\n- Czy będzie miał cukierek?",
+      "kr_sha256": "5fccf9c3b2d393d37a5893099a9b81dedaa10c5aadcd455851622c63fe44eafc",
+      "en_sha256": "c208429ba560acb16781f345a29004c8c86d0dd80193409226d83ebf472cab70",
+      "origin": "ai"
+    },
+    "dataList[id=CandyForCharon].name": {
+      "pl": "Cukierek?",
+      "kr_sha256": "abae0e2652fe8b2914eaf8163635c7fad7c2910b526a3cc4ca07caaafec84295",
+      "en_sha256": "92919678b68ccb0ab3ee65abaabc34d5492154cbf4268f8248d9a63f4bc480a1",
+      "origin": "ai"
+    },
+    "dataList[id=CandyForCharon_LowMorale].desc": {
+      "pl": "- Obniżone Morale\n- W Starciu z tożsamością posiadającą Cukierek Moc Starcia +3; w Starciu z pozostałymi tożsamościami Moc Starcia -1",
+      "kr_sha256": "71357351d5c00ee5478f06f781f6b4407721f9dfd0ece37c7e88eb3da2eeab19",
+      "en_sha256": "0834496cb734b95538689fcb7c66b7aeb7068dfb9997819d366321f8edd99e1b",
+      "origin": "ai"
+    },
+    "dataList[id=CandyForCharon_LowMorale].name": {
+      "pl": "Cukierek",
+      "kr_sha256": "fc8bc61c4689549766ad17a48d7ce8779e6edfcdce3e2354e9c533b1688fe491",
+      "en_sha256": "c2d3bfa8443653d91c5848b16054010e37bb818135bcfc937da1884086c0db21",
+      "origin": "ai"
+    },
+    "dataList[id=CandyForCharon_LowMorale].summary": {
+      "pl": "Warunkowe Wahanie Mocy Starcia",
+      "kr_sha256": "e97e32e55f84050d0d40606990c1b032ec71ee2897191d182e92c1e33c371085",
+      "en_sha256": "b91387e6584c373a24b82e8146a90e329291a96b801529b6e6fa21342971f8dd",
+      "origin": "ai"
+    },
+    "dataList[id=CandyForCharon_Panic].desc": {
+      "pl": "- Panika\n- W Starciu z tożsamością posiadającą Cukierek Moc Starcia +5; w Starciu z pozostałymi tożsamościami Moc Starcia -2",
+      "kr_sha256": "2ee2a175d5783a4c785e461b8696048b80e00021f12ed00b3738503cb5afafbc",
+      "en_sha256": "4be40233be028f5bfb9cc858d7f6c6c4b46391aaf06b3a4a96b5990dbf741f4b",
+      "origin": "ai"
+    },
+    "dataList[id=CandyForCharon_Panic].name": {
+      "pl": "Cukierek",
+      "kr_sha256": "fc8bc61c4689549766ad17a48d7ce8779e6edfcdce3e2354e9c533b1688fe491",
+      "en_sha256": "c2d3bfa8443653d91c5848b16054010e37bb818135bcfc937da1884086c0db21",
+      "origin": "ai"
+    },
+    "dataList[id=CandyForCharon_Panic].summary": {
+      "pl": "Warunkowe Wahanie Mocy Starcia",
+      "kr_sha256": "e97e32e55f84050d0d40606990c1b032ec71ee2897191d182e92c1e33c371085",
+      "en_sha256": "b91387e6584c373a24b82e8146a90e329291a96b801529b6e6fa21342971f8dd",
+      "origin": "ai"
+    },
+    "dataList[id=TickTockTickTock].desc": {
+      "pl": "- Na koniec tury odzyskuje 10 Poczytalności",
+      "kr_sha256": "949339dbbbf423e24fc8176fb003441f95fac000f636c4d9533dc468ed2899b4",
+      "en_sha256": "b85ae8028026f30e98e729461db0967aea2c1517d792a216c1f66766002b9985",
+      "origin": "ai"
+    },
+    "dataList[id=TickTockTickTock].name": {
+      "pl": "Tik-Tak?!",
+      "kr_sha256": "06866859db62a4c33915558c956d11cdae0c9c6377868de95ec0df5bcf479560",
+      "en_sha256": "956d5f84b5a1cffaff195a7afaee2490d512cc2c2bca80968be230485428b626",
+      "origin": "ai"
+    }
+  }
+}

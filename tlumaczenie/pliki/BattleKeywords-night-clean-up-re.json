@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=RepressedMurderousIntendHard].desc": {
+      "pl": "Podstawowy Poziom Ataku -5\nPodstawowy Poziom Obrony -5",
+      "kr_sha256": "a71cca946e6d84936d65594cfaba8da990fe93e7e946d49c4dbe3996435693ac",
+      "en_sha256": "0392b9a1aa34dd6709910fb71aab5e5a299fa216b328d6c1852280d6006f4666",
+      "origin": "ai"
+    },
+    "dataList[id=RepressedMurderousIntendHard].name": {
+      "pl": "Stłumiona Krwiożerczość",
+      "kr_sha256": "73611ab139ddf082e1501c471aef86c6c2117ca691fdfd0b418b7dcca46e49d6",
+      "en_sha256": "4711630aaa15076dee8fee9f32baa6d9bd3108d089a9b52307b7787f6902ab02",
+      "origin": "ai"
+    },
+    "dataList[id=WeighedMurderousIntendHard].desc": {
+      "pl": "Podstawowy Poziom Ataku -15\nPodstawowy Poziom Obrony -15",
+      "kr_sha256": "088a4182219e004541e21c939693bac91dc59240db0d409aba26ec94db3b78c4",
+      "en_sha256": "bb50ac7ca4d2143cf4487ed76dc9a882e5868900a5b882b1828af00868622215",
+      "origin": "ai"
+    },
+    "dataList[id=WeighedMurderousIntendHard].name": {
+      "pl": "Rozgnieciona Krwiożerczość",
+      "kr_sha256": "88f9c406fca6e7a587c723222e0968a1e83b28ebb32d287501f65af9d7961acd",
+      "en_sha256": "13ab41d6c0859549380e41368e226488cdd63e95e4fafa5a1b3f811b279530eb",
+      "origin": "ai"
+    }
+  }
+}

@@ -30,6 +30,7 @@ if __package__ in (None, ""):
 
 from tools.lcb_text import Texts, one_line, stage_label, to_markdown
 from tools.localize import Snapshot
+from tools.md_table_align import align_markdown_tables
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,7 +41,19 @@ PHASE_TEXT = {
     "w trakcie": "W trakcie etapu",
     "walka": "W trakcie walki",
 }
-LANG_NAMES = {"en": "angielskiej", "kr": "koreańskiej", "jp": "japońskiej"}
+LANG_NAMES = {"en": "angielskiej", "kr": "koreańskiej", "jp": "japońskiej", "pl": "polskiej"}
+SPEAKER_OVERRIDES = {"Me": "Ja"}
+
+
+def _is_dante(model: object, teller: object) -> bool:
+    return (isinstance(model, str) and "단테" in model) or teller in ("Dante", "단테", "Me", "나", "Ja")
+
+
+def _format_speaker(name: str, title: str | None) -> str:
+    if title:
+        epithet = f"({title})" if not title.strip("*") else f"(*{title}*)"
+        return f"{name} {epithet}:" if not name.strip("*") else f"**{name}** {epithet}:"
+    return f"{name}:" if not name.strip("*") else f"**{name}:**"
 
 
 def slug(text: str) -> str:
@@ -109,31 +122,43 @@ def render_scene(lines: list[dict], texts: Texts, out: list[str], place_state: d
             continue
         place = one_line(to_markdown(row.get("place")))
         if place and place != place_state.get("place"):
+            if out and out[-1] != "":
+                out.append("")
             out += [f"#### {place}", ""]
             place_state["place"] = place
-        content = to_markdown(row.get("content"), keywords)
+        model = row.get("model")
+        teller = row.get("teller")
+        content = to_markdown(
+            row.get("content"),
+            keywords,
+            strip_ticking=True,
+            dante=_is_dante(model, teller),
+        )
         if not content:
             continue
         content = re.sub(r"\n+", " ", content)
-        model = row.get("model")
-        teller = row.get("teller")
         if model or teller:
             name = one_line(to_markdown(teller)) if teller else ""
             if not name and isinstance(model, str):
                 name = one_line(to_markdown(models.get(model, {}).get("name"))) or model
+            name = SPEAKER_OVERRIDES.get(name, name)
             title = one_line(to_markdown(row.get("title")))
+            title = SPEAKER_OVERRIDES.get(title, title)
+            shown_title: str | None = None
             if title and title != name and (name, title) not in introduced:
                 introduced.add((name, title))
-                out += [f"**{name}** (*{title}*): {content}", ""]
-            else:
-                out += [f"**{name}:** {content}", ""]
+                shown_title = title
+            out.append(f"{_format_speaker(name, shown_title)} {content}")
         else:
-            out += [content, ""]
+            out.append(content)
         written += 1
+    if out and out[-1] != "":
+        out.append("")
     return written
 
 
-def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str) -> tuple[str, str, dict]:
+def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str,
+                  en_texts: Texts | None = None) -> tuple[str, str, dict]:
     name, details = chapters.heading(chapter)
     out = [f"# {GAME} — {name}", ""]
     for detail in details:
@@ -141,10 +166,20 @@ def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str) ->
     missing = [s["plik"] for s in chapter["sceny"] if texts.story(s["plik"]) is None]
     note = (f"> **Uwaga dla czytelnika:** tekst w wersji {LANG_NAMES.get(lang, lang)}; kolejność scen według "
             "Teatru Opowieści i tabel etapów gry (`wiedza/indeks_fabuly.json`).")
+    if en_texts is not None:
+        note += " Sceny bez przekładu pozostają w oryginale (angielskim)."
     if any(s.get("trasa") for s in chapter["sceny"]):
         note += " Rozdział ma rozgałęzienia (trasy A/B/C); sceny tras podano w kolejności plików."
     if missing:
         note += f" Brak tekstu {len(missing)} scen w tej wersji danych."
+    fallback = 0
+    if en_texts is not None:
+        for scene in chapter["sceny"]:
+            lines = texts.story(scene["plik"])
+            if lines is not None and lines == en_texts.story(scene["plik"]):
+                fallback += 1
+        if fallback:
+            note += f" {fallback} scen(y) w tej Czytance to jeszcze wersja angielska."
     out += [note, "", "## Sceny fabularne", ""]
     stats = {"sceny": 0, "kwestie": 0}
     current_stage = object()
@@ -174,7 +209,8 @@ def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str) ->
         phase = PHASE_TEXT.get(scene.get("etap"))
         if scene.get("trasa"):
             phase = f"{phase} · trasa {scene['trasa']}" if phase else f"Trasa {scene['trasa']}"
-        out += [f"<!-- {scene['plik']} -->", ""]
+        if out and out[-1] != "":
+            out.append("")
         if phase:
             out += [f"*— {phase} —*", ""]
         stats["kwestie"] += render_scene(lines, texts, out, place_state)
@@ -196,21 +232,24 @@ def main(argv: list[str] | None = None) -> int:
     args.out.mkdir(parents=True, exist_ok=True)
     toc = [f"# {GAME} — Czytanki: spis rozdziałów", "",
            f"Wersja językowa: {args.lang}. Kolejność: `{args.index.name}`.", "",
-           "| # | Rozdział | Sceny | Kwestie | Plik |", "|---|---|---|---|---|"]
+           "| # | Rozdział | Sceny | Kwestie | Plik |", "|---:|---|---:|---:|---|"]
     with Snapshot.open(args.snapshot) as snapshot:
         texts = Texts(snapshot, args.lang)
         chapters = Chapters(texts)
         # File names come from the English titles, so every language has the same names.
         naming = Chapters(Texts(snapshot, "en")) if args.lang != "en" and "en" in snapshot.languages else chapters
+        # PL: scenes without a translation keep their English original (fallback).
+        en_texts = Texts(snapshot, "en") if args.lang == "pl" and "en" in snapshot.languages else None
         for chapter in index["rozdzialy"]:
             if args.only and chapter["id"] not in args.only:
                 continue
-            name, text, stats = build_chapter(chapter, texts, chapters, args.lang)
+            name, text, stats = build_chapter(chapter, texts, chapters, args.lang, en_texts)
             file_name = f"{chapter['kolejnosc']:02d}_{slug(naming.heading(chapter)[0])}_{args.lang.upper()}.md"
-            (args.out / file_name).write_text(text, encoding="utf-8")
+            (args.out / file_name).write_text(align_markdown_tables(text), encoding="utf-8")
             toc.append(f"| {chapter['kolejnosc']} | {name} | {stats['sceny']} | {stats['kwestie']} | "
                        f"[{file_name}]({file_name}) |")
-    (args.out / f"00_spis_{args.lang.upper()}.md").write_text("\n".join(toc) + "\n", encoding="utf-8")
+    (args.out / f"00_spis_{args.lang.upper()}.md").write_text(
+        align_markdown_tables("\n".join(toc)) + "\n", encoding="utf-8")
     print(f"zapisano {len(toc) - 6} rozdziałów do {args.out}")
     return 0
 

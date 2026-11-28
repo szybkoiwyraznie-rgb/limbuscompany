@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=9018301].desc": {
+      "pl": "— opis] Po wygranej w starciu zyskuje 2 [Agility] w następnej turze (1 raz na turę)",
+      "kr_sha256": "d16be60482c96339835e840c56ae0b17b77b417c2b34df581e7f2c59b659247a",
+      "en_sha256": "a26d765c292a57a564a6cd876ab27c975c67f8cdad8603f1837b28d231536220",
+      "origin": "ai"
+    },
+    "dataList[id=9018301].name": {
+      "pl": "— nazwa] Wyważone Starcia",
+      "kr_sha256": "7ef2b3b3f32c90755ccc579a006f74654fa6cfe314c72ecf34ec86bd73d82cfb",
+      "en_sha256": "b62fecb6de0da76ef03e6ab20c8405a213f585eb1d4138109f50764daca07242",
+      "origin": "ai"
+    },
+    "dataList[id=9018501].desc": {
+      "pl": "— opis] Na początku sceny zyskuje [RepressedMurderousIntend]",
+      "kr_sha256": "cfdb0357938c0920b4ab3d3c24d4e1ab27e338e6db93ca6ce2b5ffbb10c9f88e",
+      "en_sha256": "f3fbf0498408c1800f02d7980789017a3a086e1bbe5a3c236c25797fd082b687",
+      "origin": "ai"
+    },
+    "dataList[id=9018501].name": {
+      "pl": "— nazwa] Otrzymana Misja",
+      "kr_sha256": "25c327f98fa6f8ac66c6df06e88b3d1ea62203a6150ed30ada7b61bf0ac51b0a",
+      "en_sha256": "df488b634bc03a50eb3a4ed2c0e0aba2ce3c821a6fa28b4a2a57cc90e34ab08f",
+      "origin": "ai"
+    },
+    "dataList[id=9018502].desc": {
+      "pl": "— opis] Przy trafieniu wroga posiadającego [BurstAgility] zwiększa Licznik [Burst] celu o 1 (maks. 3 razy na turę)",
+      "kr_sha256": "f3e1f003169a23a99a56c3ac08959882a5fb7903829c58f2fb32fd3326141c86",
+      "en_sha256": "665ce54b5d3de2a89b6aa3e6cdeb5ce75e5052b9013e1b4da8a6fb890d5aaaa3",
+      "origin": "ai"
+    },
+    "dataList[id=9018502].name": {
+      "pl": "— nazwa] Zwinnik [Mao]",
+      "kr_sha256": "c225a4eefa73e9a96bd2bd69a7b59947b87591d1cd0430a4b907fe91889ea59f",
+      "en_sha256": "a71a3376f4f4bdbd7df54b7871ace2d2930301dba46ab8a86ae37f1c6c2c3a5b",
+      "origin": "ai"
+    },
+    "dataList[id=9018503].desc": {
+      "pl": "— opis] Przy atakowaniu celów z niższą Szybkością nakłada o 1 więcej [Burst] albo zwiększa Licznik [Burst] o 1",
+      "kr_sha256": "4fe968dee4d7d0a0efe381cbf9ff39a392f2145c4546eb81d184eb4342ff7340",
+      "en_sha256": "2772599cc890284d7e17692e2a3fa58c37fddb92124165d8562d9d75cba2bde5",
+      "origin": "ai"
+    },
+    "dataList[id=9018503].name": {
+      "pl": "— nazwa] Duch Bojowy [Mao]",
+      "kr_sha256": "d0ffa0f4af211b598949c6b57e7ded36cd82829522ca9998d71b96cc0ef71d2d",
+      "en_sha256": "496adc19e1d092b4fff49b283c4d5504c52ac6311a6266bea150add8e27c2ccc",
+      "origin": "ai"
+    },
+    "dataList[id=9018504].desc": {
+      "pl": "— opis] Jeżeli Szybkość jest o 3 lub więcej wyższa niż celu, Moc Monet +1",
+      "kr_sha256": "cf8c4598dafda2bd282c424f0cb9f62fd470ede6a5e52196a6ac2704c5036eed",
+      "en_sha256": "3b03e38ec1e4ceec9cce3bf5619d52081f25983666dd2aef11ac6bf5d9ac6994",
+      "origin": "ai"
+    },
+    "dataList[id=9018504].name": {
+      "pl": "— nazwa] Dominacja [Mao]",
+      "kr_sha256": "f90a9f0356d7f846632966c86f56f872bc9d0d59e0a1d84d627c49b18646c70c",
+      "en_sha256": "0873df7a0eeb5bb0137b3450450fc8ade5f09bfd9746544bce532b4ca91d8da6",
+      "origin": "ai"
+    },
+    "dataList[id=9018701].desc": {
+      "pl": "Otrzymuje -10% obrażeń",
+      "kr_sha256": "72f44b672af0d1cc401f8461ef316defecf9073de472f8a12913b193259f9ffa",
+      "en_sha256": "7e5eb5e89c5b74345777eb60869d95b3eb9de04d6f32fbabb3484434f65b72d8",
+      "origin": "ai"
+    },
+    "dataList[id=9018701].name": {
+      "pl": "— nazwa] Upłynnione Ciało",
+      "kr_sha256": "34c901f3edce1b1cba7f01392bd5ed51bbe3e452bfa2c4fb366686550714147d",
+      "en_sha256": "691bd1cc7b20be2248ecdbc223386692657a398eea492211c13d657cc131655c",
+      "origin": "ai"
+    },
+    "dataList[id=9018702].desc": {
+      "pl": "— opis] Na koniec tury, jeżeli ktoś zginął w turze, odzyskuje 5% Maks. HP\nPrzy pokonaniu wroga odzyskuje 2~5% Maks. HP",
+      "kr_sha256": "3848023abae7bc815be22845c01e79cdd4c678be6f025056bf66fd877f4a6dd9",
+      "en_sha256": "34ed7441786b848884e43317236b149bc3e2945df85d904408556877ed2417a0",
+      "origin": "ai"
+    },
+    "dataList[id=9018702].name": {
+      "pl": "— nazwa] Sprzątanie Zwłok",
+      "kr_sha256": "c6d2d476290a6da17fe6ac3cea4e8025d25a83bcfd8aab3c29b5a5cc705a9007",
+      "en_sha256": "f0096505afd18f1c5700794be25441a8c4333b4b62f9b6cb7a0310635c62c8e8",
+      "origin": "ai"
+    },
+    "dataList[id=9018703].desc": {
+      "pl": "— opis] Na koniec tury odzyskuje Poczytalność równą liczbie ocalałych Sprzątaczy",
+      "kr_sha256": "1c0c7aa34b852aa23d218c3441c0902b9e1d78965ce48bc273da150d86b01023",
+      "en_sha256": "0ed89549928c316ee3228e96636297cd5ec73a2fb5997131468e1a46f80c84b8",
+      "origin": "ai"
+    },
+    "dataList[id=9018703].name": {
+      "pl": "— nazwa] Dla Rodziny",
+      "kr_sha256": "2a9ebc70d5f8244537f92e6a2f2f7863413d241c12531a637a6fb972c3253255",
+      "en_sha256": "427d60ffef1d0b24d32faf7942bc85d965c4ac388163a509cc6aea10b957cecf",
+      "origin": "ai"
+    },
+    "dataList[id=9018704].desc": {
+      "pl": "— opis] Jeżeli pojawia się po 2. Falze, wchodzi na pole bitwy z 30 Poczytalności.",
+      "kr_sha256": "4f7bd0f9479158d488d0b7686386e3b7e67413569465cd57da582bdebd5fd136",
+      "en_sha256": "35e8af50b19d8990fb0b45fca2f8ee90eaaf2c355de4206fc3e1b272c5c0f03a",
+      "origin": "ai"
+    },
+    "dataList[id=9018704].name": {
+      "pl": "Noc w Zaułkach",
+      "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
+      "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
+      "origin": "ai"
+    },
+    "dataList[id=9019301].desc": {
+      "pl": "— opis] Po wygranej w starciu nakłada 2 [Binding] na cel w następnej turze (1 raz na turę)",
+      "kr_sha256": "1c7d78c7841d049803018e9e1c053505135d6afeb3ce3c2b07102d17b4e8c305",
+      "en_sha256": "602ab1607aa0be184616443f63bc9bd302b514c305c1b407e18251f31bfafa54",
+      "origin": "ai"
+    },
+    "dataList[id=9019301].name": {
+      "pl": "— nazwa] Stłumione Ruchy",
+      "kr_sha256": "d3f865985bc7ad1e66cc527c1ac074ecf0a5c1c646cbd9c6d11be67f8c317fcd",
+      "en_sha256": "d2b6d7598d57e3f161647855729d91c7630b7f980ffa68731cf692ac36e9cb92",
+      "origin": "ai"
+    },
+    "dataList[id=9102001].desc": {
+      "pl": "— opis] Przy otrzymaniu trafienia nakłada 1 [MiddleFingerBook] na atakującego (maks. 1 cel na turę)\nPrzy użyciu Umiejętności, jeżeli cel ma [MiddleFingerBook], zyskuje Moc Starcia równą (stosy [MiddleFingerBook]/4) (maks. 2)\n- Jeżeli cel ma 8+ stosów [MiddleFingerBook], zyskuje Moc Bazowa równą (stosy [MiddleFingerBook]/3) (maks. 3)",
+      "kr_sha256": "e196e8602c6f0797f671859ed5cd8c920275c3f9e6da44afe94d855d915b8262",
+      "en_sha256": "6e2dde3723318a8c303159688f2146851135a6b9e82434137a1964fb1fc791ca",
+      "origin": "ai"
+    },
+    "dataList[id=9102001].name": {
+      "pl": "Księga Zemsty",
+      "kr_sha256": "e7992abe5dcb6f1972ff5ef5c3a809bb80f5be5e9e445fd0130077ab10de9fd3",
+      "en_sha256": "3bc6ced95ec279399009a374664f756f043eaade1d64d5215463c8121d7717f8",
+      "origin": "ai"
+    },
+    "dataList[id=9102002].desc": {
+      "pl": "— opis] Za każdą śmierć sojusznika Środkowego w tej walce zyskuje 1 [AttackUp] (maks. 5)",
+      "kr_sha256": "d27150ce4a2b73b95671d0cd0b3f596f501ebcedc7400caf1d3b4a3da0fc1bd6",
+      "en_sha256": "e758582b494cb64d7c8335ccbc7502debf86d7a12ab4649979be530757424993",
+      "origin": "ai"
+    },
+    "dataList[id=9102002].name": {
+      "pl": "Tatuaż Zemsty",
+      "kr_sha256": "a86de75e65c09cf73584bfdaa0dfe4e3c41f30723938005bd9727618c768b733",
+      "en_sha256": "bad13faac5d5aa3789b60b854659b1b6f7b4256bf2df7ceaa2b03dbe92f8863e",
+      "origin": "ai"
+    },
+    "dataList[id=9102003].desc": {
+      "pl": "— opis] Gdy sojusznik Środkowego ginie, zyskuje 1 [PlusCoinValueUp] w następnej turze. (maks. 2)",
+      "kr_sha256": "53373f33c578b2277a43c0153e210dd7cb05dd01695eb47593a81bc1c4a1e479",
+      "en_sha256": "377dc0f61a543321c2a2fc2f91ff14520859a865eeeeb2e4770a42b31b4db0c5",
+      "origin": "ai"
+    },
+    "dataList[id=9102003].name": {
+      "pl": "Łańcuch Wierności",
+      "kr_sha256": "c324370f062507516b3e6c195921832ee18a90570c8d4d9031873a4984b1c785",
+      "en_sha256": "4de0dbedb4f265e7900cc70da5d64bef67559ee56aa2d82edd7bb8f1a61d3ecd",
+      "origin": "ai"
+    },
+    "dataList[id=9102004].desc": {
+      "pl": "— opis] Nie może zostać Ogłuszona, dopóki w slocie Umiejętności znajduje się użyteczna Umiejętność Kontr.",
+      "kr_sha256": "0f2d7f3b4c33c000affbf21d7dae21452016fa10a4338cc835339d43aa137fde",
+      "en_sha256": "f5c86afb4f211e1fd06ed51d299e79aa04d1ebbf710244d77a01e4444d110abd",
+      "origin": "ai"
+    },
+    "dataList[id=9102004].name": {
+      "pl": "Chwytanie Okazji",
+      "kr_sha256": "2cad27303c63c7ee710a558518dbacb1a289b0dc8bee7feec7c6b92713e3f039",
+      "en_sha256": "0d51cd56b105ff509f39c7a62a4678029cab9620ba121cc3ad93fcd9014d2b66",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[key=N101022].displayName": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[key=N101024].displayName": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[key=N201002].displayName": {
+      "pl": "Kierownik Piętra",
+      "kr_sha256": "35c5ad38c31fe35a5450b66c70b2db6c18d6d0f98086e4fd25a85f39812d9941",
+      "en_sha256": "347c1798d68d73b5c9519ae584bd762abbdd09a51c7ddd7ff86ad5e7cbe1596d",
+      "origin": "ai"
+    },
+    "dataList[key=N201003].displayName": {
+      "pl": "Sous Chef",
+      "kr_sha256": "5af97ef7743351695eaea0bdeb0651783ac3cfa1af8e50283332a0105ee5b4e5",
+      "en_sha256": "a98ea5e4966c3f5558e724144bba1639fac0482cf26b5ce73594f7f0d26225b1",
+      "origin": "ai"
+    },
+    "dataList[key=N201005].displayName": {
+      "pl": "Degustator Ust",
+      "kr_sha256": "2c7177d11b1e82a9f55ba3ea7d1a698417321f26ccdb0c5556a7bad1f82c767c",
+      "en_sha256": "1ca6d66266a25afd54c5442ff82dbf179d3c493665b91fc34dd341f1a63e1dd0",
+      "origin": "ai"
+    },
+    "dataList[key=N201008].displayName": {
+      "pl": "Spragniony Le Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[key=N201009].displayName": {
+      "pl": "Głodny Le Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[key=N201010].displayName": {
+      "pl": "Głodny Le Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[key=N201017].displayName": {
+      "pl": "Tragarz Le Noir",
+      "kr_sha256": "c5c1c5081192d799e44885c4373849a9defc13a0a2d663b31f5aad10294903ed",
+      "en_sha256": "311ef49f7172e76845509e0af40360487d02197263712fc7bded517d3e6d0073",
+      "origin": "ai"
+    },
+    "dataList[key=N201018].displayName": {
+      "pl": "Tragarz Le Rouge",
+      "kr_sha256": "a92112722155520a59010abeae5d492ce59dc274e930838236089c8a3a157b4a",
+      "en_sha256": "97984ca0b1f9c0f8d335d820892bbd04931e0d90cabc6e16b105c12bf9a6b17b",
+      "origin": "ai"
+    },
+    "dataList[key=N201019].displayName": {
+      "pl": "Spragniony Le Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[key=N201020].displayName": {
+      "pl": "Łakomy Le Kaki",
+      "kr_sha256": "8dda629a2197b955e9b97a072bb4b5d744df474a3417cc8f221c7fbdbed2e43c",
+      "en_sha256": "d9c0413187775c21033db26bde39237a026b1cbd1701d6ff319f9ec845f8f255",
+      "origin": "ai"
+    },
+    "dataList[key=N201021].displayName": {
+      "pl": "Spragniony Le Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[key=N201022].displayName": {
+      "pl": "Wygłodniały Le Kaki",
+      "kr_sha256": "c1b9abbb579dd4837ec7085526516da2a7bd3f1520ef241e24de4ba5e50d48f0",
+      "en_sha256": "2cc6db60eeefe3b706bdae5b51a3686165c93b0b1549f0dedf6142d055ba8cf7",
+      "origin": "ai"
+    },
+    "dataList[key=N201023].displayName": {
+      "pl": "Głodny Le Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[key=N201024].displayName": {
+      "pl": "Łakomy Le Kaki",
+      "kr_sha256": "8dda629a2197b955e9b97a072bb4b5d744df474a3417cc8f221c7fbdbed2e43c",
+      "en_sha256": "d9c0413187775c21033db26bde39237a026b1cbd1701d6ff319f9ec845f8f255",
+      "origin": "ai"
+    },
+    "dataList[key=N201025].displayName": {
+      "pl": "Spragniony Le Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[key=N201026].displayName": {
+      "pl": "Zwłoki Czegoś",
+      "kr_sha256": "7a1c57ce7a23142447efe76ec9d917ad6d27b4171dc32dfcf7c71338e78e8b91",
+      "en_sha256": "c599867a5b938a90d3223fb9e71e6666274b1f6b4ac07866fad0eb643c79ae53",
+      "origin": "ai"
+    },
+    "dataList[key=N201027].displayName": {
+      "pl": "Drzwi do Ciemności",
+      "kr_sha256": "bebb762194bb223c2068085c0748380afbbc999a55f0a758b793da08d3fefac5",
+      "en_sha256": "a27e5ed5f77ff84a11f1f88a99bb3c634e3d5912d59835efee2dc5a8087b48bd",
+      "origin": "ai"
+    },
+    "dataList[key=N201028].displayName": {
+      "pl": "Spragniony Le Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[key=N201029].displayName": {
+      "pl": "Wygłodniały Le Kaki",
+      "kr_sha256": "c1b9abbb579dd4837ec7085526516da2a7bd3f1520ef241e24de4ba5e50d48f0",
+      "en_sha256": "2cc6db60eeefe3b706bdae5b51a3686165c93b0b1549f0dedf6142d055ba8cf7",
+      "origin": "ai"
+    },
+    "dataList[key=N201032].displayName": {
+      "pl": "Ostrożny Le Kaki",
+      "kr_sha256": "e75a1916693e13a5340f4726841b1cb694edbf14f99d6c20708a00771efa8058",
+      "en_sha256": "98635885d1ce8090c506393a2d4e6030cbb8a381d8139b458c09b4cc653e9fbb",
+      "origin": "ai"
+    },
+    "dataList[key=N201033].displayName": {
+      "pl": "Podejrzliwy Le Kaki",
+      "kr_sha256": "2badc0a030b9bd7af408e280478a55fb095bc0e0b94e019efea0dfa7326711b7",
+      "en_sha256": "ea64483413ecfdc56422e331b6097e96dd48c23f3beb719774f65641d2a31702",
+      "origin": "ai"
+    }
+  }
+}

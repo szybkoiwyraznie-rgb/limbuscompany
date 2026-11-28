@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[key=swarm_baggar].displayName": {
+      "pl": "Skórzany Portfel",
+      "kr_sha256": "ddc3cc3397f67f8f587ca2fd89a26f46d5a13984107fc936e874c524206f6fb4",
+      "en_sha256": "c10f8e59e0fb3fe894481713b7542a2bc80c18b71fab17c2f071fc865e3889a2",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_collecter_type_e].displayName": {
+      "pl": "Degustator Ok",
+      "kr_sha256": "e32c130ad1751a8a32f88631acbac847ea4096dabb749f1ee2b80cc2b6869dc7",
+      "en_sha256": "fad1e0898743f907205dd4ab443f88f8b9f72874e177f4088fb84639c029716e",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_collecter_type_m].displayName": {
+      "pl": "Degustator Ust",
+      "kr_sha256": "2c7177d11b1e82a9f55ba3ea7d1a698417321f26ccdb0c5556a7bad1f82c767c",
+      "en_sha256": "1ca6d66266a25afd54c5442ff82dbf179d3c493665b91fc34dd341f1a63e1dd0",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_collector_type_n].displayName": {
+      "pl": "Degustator Nosu",
+      "kr_sha256": "b7593823540adf3266c27f8e8a6cf6a42a3cd88d28a3858092bc2d1d0dda247b",
+      "en_sha256": "7623d0734e8d5d19902602250f9cb192240ebe4c5158e843e39a685e4072fa83",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_denim_baggar].displayName": {
+      "pl": "Portfel z Denimu",
+      "kr_sha256": "65a0b39cf3e48603cea8d3c108f9dfaed94d04e3e703491278b8c5b644c575ca",
+      "en_sha256": "e5080affdfbc1872d58bc5466a9f3070a73bfd41af2f544b587f30650ccd7254",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_horizontal_hide].displayName": {
+      "pl": "Pełzająca Skóra",
+      "kr_sha256": "77c4b44c38cc61bd608e5f52dda1dc969194d84e27975ef7e4611d63aded3daf",
+      "en_sha256": "fdace1115f818875b62480756bc1a5bbbc200fccfbae8fc0c90ce5d41d323c22",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_resident].displayName": {
+      "pl": "Spragniony Le Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_resident_b].displayName": {
+      "pl": "Głodny Le Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_resident_b_fisher].displayName": {
+      "pl": "Głodny Le Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_resident_fisher].displayName": {
+      "pl": "Spragniony Le Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    }
+  }
+}

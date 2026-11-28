@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=Abnormality].content": {
+      "pl": "Anomalie",
+      "kr_sha256": "da7ad24ff794f52735d0630e6a88596ec2fe7103006bbf96c6a21e78702f3a1f",
+      "en_sha256": "0c8db8761a6a14072052126b1b5adcc1a5e5dacdddd7b184daf6542c7809d1fd"
+    },
+    "dataList[id=Association].content": {
+      "pl": "Stowarzyszenia",
+      "kr_sha256": "678449a5835f45cb5d13ef7eddfc7dde0c3083aacb161a65b7efd8c30625c118",
+      "en_sha256": "e22f5ad814367a67a6caaba89d7cd071f05158b94ce394283390d28f5ae1191e",
+      "origin": "ai"
+    },
+    "dataList[id=Cinq].content": {
+      "pl": "Stowarzyszenie Cinq",
+      "kr_sha256": "f3f7d5dcf38f2e534970c0b65abcaf33ab72032e2a9a02d9d298c429737a21c6",
+      "en_sha256": "8dde3e917cb6561e5a6036ea9fc9bbfda2c8fac0951de1900dc4bee3462694f7",
+      "origin": "ai"
+    },
+    "dataList[id=Enkephalin].content": {
+      "pl": "Enkefalina",
+      "kr_sha256": "27cae99d0deec2dc6d09b673f0f40942ddd614e60111252dd78253adf8f824a4",
+      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0"
+    },
+    "dataList[id=LiuAsso].content": {
+      "pl": "Stowarzyszenie Liu",
+      "kr_sha256": "99dd06aa0d41cf5d486da1082e2499213aef43adcbe816a3514f382032b217ff",
+      "en_sha256": "6471314f09127016e9be00dddb3ec3d64a54c539847cee8a7b5fa3e68f65f318",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyCorp].content": {
+      "pl": "Lobotomy Corporation",
+      "kr_sha256": "d7f69356c1d170a9b208225edeefe27fbae676ecddee654bda48c65fab02f36d",
+      "en_sha256": "3dbf4b28819d03113d939ba98106e17cca6ab7eef6768ce2b8dc5e359b53cb50"
+    },
+    "dataList[id=Office].content": {
+      "pl": "Biura",
+      "kr_sha256": "85baa0745234fcd78fe5e066b775db5d0f20597df70bf349f43ac4ef2ebc7ca7",
+      "en_sha256": "11e36f72a8b01a5f20a2347ed28fb791cd8e0957f543ee77507053bcbdf1ca8d"
+    },
+    "dataList[id=ShiAsso].content": {
+      "pl": "Stowarzyszenie Shi",
+      "kr_sha256": "cb7314458d06232fa13583c5bf52c493d966d9dd03f75025ccd5140b0abe46f1",
+      "en_sha256": "90e9a6ce361618aa93e9a4a8e0bdca2a0cdee56a0eed974fe356b42bd436c7b5",
+      "origin": "ai"
+    },
+    "dataList[id=Singularity].content": {
+      "pl": "Osobliwości",
+      "kr_sha256": "57c4d4cbdc817212cb722e473038f3bb373cafb7975564c8a7d86cc5b9b7fbb6",
+      "en_sha256": "d3857409f2ec82b209b390fddd36b0f4d6227bb0cf97c48dd94417708656e1fa"
+    },
+    "dataList[id=String].content": {
+      "pl": "Nić",
+      "kr_sha256": "56df27bab5f87c437abf9e58f58cd56440618e7bc058f4a140f0e49825eeed30",
+      "en_sha256": "5373c7f8a5a69019e959540ef127be3302afdd5e2313244e6d08cbd5e975d06d"
+    }
+  }
+}

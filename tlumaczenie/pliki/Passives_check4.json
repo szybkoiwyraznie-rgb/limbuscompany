@@ -1,0 +1,190 @@
+{
+  "entries": {
+    "dataList[id=1010311].desc": {
+      "pl": "po wygranej w Starciu, zyskuje +1 Licznik [Breath]\nMoc Monet +1 za każde 5 Liczników [Breath] (maks. 3)",
+      "kr_sha256": "b48edf246d9989095530ca501b71c7cacf08e75cccc874429c49654ece025e63",
+      "en_sha256": "0a4c2454e941b57972dab61dce5b178fce5d6b8b816ab7832f4bd8285b1c6f23",
+      "origin": "ai"
+    },
+    "dataList[id=1010311].name": {
+      "pl": "Poised",
+      "kr_sha256": "e28cac1d1a3d1fbe816d10d0f9cdec213579ea2f09186c7a544ea52275fcf062",
+      "en_sha256": "a79878294ea058c4e0a75673a12ad0f80baf3963245b3fea3bf113b46b018540",
+      "origin": "ai"
+    },
+    "dataList[id=1020211].desc": {
+      "pl": "po zakończeniu ataku, zyskuje +1 Licznik [Charge]\npo zakończeniu ataku, losowy sojusznik zyskuje +1 Licznik [Charge]",
+      "kr_sha256": "4836e2567e74cdc2cdfb0008559899d8d90bbbb6efc1129a5e9784f6f90685ca",
+      "en_sha256": "c004b742eadb05cb43b056f42e4da8b9f02e29c1c00919ce1893db35b9fa1c3d",
+      "origin": "ai"
+    },
+    "dataList[id=1020211].name": {
+      "pl": "Self-charging",
+      "kr_sha256": "46e2a42cdbde990af36e81e7a1c6b4ac5000dc603c20d31b9d113b0c4dd1490e",
+      "en_sha256": "4685f1fc51469cdbf7dcdf754c0526340c3aeeecd1b8cf7fa80253acbf2ef308",
+      "origin": "ai"
+    },
+    "dataList[id=1020411].desc": {
+      "pl": "na początku walki: przywraca 15 Poczytalności 2 sojusznikom z najniższą Poczytalnością.\njeżeli sojusznik jest Fanatykiem Korp. N, nakłada dodatkowo 2 [AssemblePersonality]",
+      "kr_sha256": "f44ae75ebf38fe9680e94c0386b06773be23df694c6da771dd01abd8d8d0e4bb",
+      "en_sha256": "56bb32cd65f3655192a9bc18bfb0fd2450c1472d5a9116c46d35c723800ee7e2",
+      "origin": "ai"
+    },
+    "dataList[id=1020411].name": {
+      "pl": "Whistles",
+      "kr_sha256": "bb129273266c514adc8c427bd30c2312d4466b8ed29e9e08bb59414221332064",
+      "en_sha256": "62adbe1a2950f1f13be7d6bdf22daac8ce0b1a01db2d4015b30e858a1bd86ecb",
+      "origin": "ai"
+    },
+    "dataList[id=1020431].desc": {
+      "pl": "na początku walki: przywraca 15 Poczytalności 1 sojusznikowi z najniższą Poczytalnością.\njeżeli sojusznik jest Fanatykiem Korp. N, nakłada 2 [AssemblePersonality]",
+      "kr_sha256": "43263e237196bb79065bda8c7b9e38e738c6ea31d2e50684b0de16e2bbb9ed73",
+      "en_sha256": "5bfe5612708e16ca2d42355a63ab607dbc78101a9ea800c42f7b23c1c6e2a898",
+      "origin": "ai"
+    },
+    "dataList[id=1020431].name": {
+      "pl": "Whispers",
+      "kr_sha256": "ab1f29160d22992e32d32e7601c553a68c9c642e9f4e02ebbad5bfdedfc062db",
+      "en_sha256": "55b8a2f4c4d3dab1743f440bce5dd323ce0b9728b6599eccfb7a7af04b10e757",
+      "origin": "ai"
+    },
+    "dataList[id=1040511].desc": {
+      "pl": "po pokonaniu wroga zyskuje +3 Liczniki Ładowania (uruchamia się maks. 3 razy na turę)",
+      "kr_sha256": "f61b5853ae8e1b78ad7257c65a571a3144974abeaefd8ded781916bb214bb333",
+      "en_sha256": "6528af53ed702609baa1dd7272cdd4e6d33cac92a1ed74a5fb07a66c17b93ae4",
+      "origin": "ai"
+    },
+    "dataList[id=1040511].name": {
+      "pl": "Dimensional Demon Edge",
+      "kr_sha256": "bfe9fe0516f8f13c532bef8dceb00ba2e29bc681f2fb1cf2b57d26d29d771eae",
+      "en_sha256": "afecd9a08c5a537a92dee499c10c96cf12c96c7021b15e395dca4249aac8b4d1",
+      "origin": "ai"
+    },
+    "dataList[id=1040531].desc": {
+      "pl": "gdy sojusznik z najniższym Maks. HP pokona wroga, zyskuje on +3 Liczniki Ładowania (uruchamia się 1 raz na turę)",
+      "kr_sha256": "d4d4ad2ee9c6902fc0e8304dfb7464a405435cb7a56bd805a3be445d463b2b5d",
+      "en_sha256": "ef31976fee4ca6297fd6457212bff6d2093f730684d40af9437a2bf2be20879b",
+      "origin": "ai"
+    },
+    "dataList[id=1040531].name": {
+      "pl": "Dimensional Refraction Edge - Type: Blade Mk7",
+      "kr_sha256": "3147a82e8e9afadfac22dadc8d58b8b0ccc3c91a7a77de88343ddd14380d1bdf",
+      "en_sha256": "3066620d37c6ba240d83e4507499a4ee81ed32dee48a26b3c27c788309b10a37",
+      "origin": "ai"
+    },
+    "dataList[id=1050311].desc": {
+      "pl": "przy trafieniu, zyskuje +1 Licznik Ładowania. (do 6 razy)\npo przegranej w Starciu, zyskuje +1 Licznik Ładowania. (do 6 razy, liczone niezależnie od otrzymanych trafień)",
+      "kr_sha256": "2634f43343949e2dbf8f8fef1b6651c766221eddf906a05dfb218810adc5c189",
+      "en_sha256": "544e95e7084fd0c541f256b2e5df3de88cc5971cf336ce9fa3f172546b5f5672",
+      "origin": "ai"
+    },
+    "dataList[id=1050311].name": {
+      "pl": "Enduring Spirit",
+      "kr_sha256": "b29db516a52c2feae455f10598975b49d391b936425e63705605d07d5d5ab1ea",
+      "en_sha256": "6f78a3ddf3f01db900c51d7bd35e696c224619fd91a89115357e37e84020b64e",
+      "origin": "ai"
+    },
+    "dataList[id=1050611].desc": {
+      "pl": "na koniec tury, za każde 5 Liczników Ładowania, Maks. Szybkość +2 w następnej turze. (maks. 6)\nna początku tury, przy 5+ Licznikach Ładowania, zyskuje 3 Aggro na najbardziej wysuniętym na prawo slocie tej jednostki.",
+      "kr_sha256": "921f163d481f47c957adb31b97e4cd26c8541ebda70f2de243e1e0bccdc22a3a",
+      "en_sha256": "7dfda1eaf7fad1795ee9f8305255c9882e1368ab790bdfa5cb6653d8700b7fca",
+      "origin": "ai"
+    },
+    "dataList[id=1050611].name": {
+      "pl": "Activate rrR-#4 Suit Pressurization",
+      "kr_sha256": "27408f1e235fd41804e30e67ae9067ab1aded185e7f5d22e7d67aba39320b3be",
+      "en_sha256": "23dc191a1a58ce1f5adcfd907d8834d475777e42a6a25d8d161fd4ebfa54e19e",
+      "origin": "ai"
+    },
+    "dataList[id=1060611].desc": {
+      "pl": "jeżeli na początku fazy walki ma 5+ Liczników Ładowania, zyskuje 2 Pośpiechu. <style=\"highlight\">przy 10+ Licznikach Ładowania, dodatkowo zyskuje 1 Pośpiechu.</style>",
+      "kr_sha256": "5eef36be60f914ecc80fe72f180a807799163c48b64c7c576ac07284bfaac1c4",
+      "en_sha256": "8f205c1f799345bfcbec5bedfc5d42fa151b8bd33c561e040efd1cd6b2eae419",
+      "origin": "ai"
+    },
+    "dataList[id=1060611].name": {
+      "pl": "Cleanup Mastery",
+      "kr_sha256": "95d1314a358e6571af7ae3725994a7b6027656e79cfef2875737083ce578a26d",
+      "en_sha256": "09ebdbb11a5413fac20589f4139095dad89722696ba27c7612c778298da0fc43",
+      "origin": "ai"
+    },
+    "dataList[id=1070311].desc": {
+      "pl": "w następnej turze zyskuje Liczniki Ładowania równe (Rezonansowi Gniewu).\nprzy 5+ Licznikach Ładowania, zyskuje 1 Pośpiechu i Wzrost Mocy Ataku.\nZawsze aktywne: na początku etapu, zyskuje +3 Amunicji.",
+      "kr_sha256": "2478b054f44e7f61deee98d75ab11c3418fca53fe9c14176dfdfa88103748f74",
+      "en_sha256": "f9221d4bb2e40364eb5bb3ecb2d1ae81e12bcf03ef82655de57606e6738ba902",
+      "origin": "ai"
+    },
+    "dataList[id=1070311].name": {
+      "pl": "Raring to Graze",
+      "kr_sha256": "6510f3fd3e43b7303e02164b139cc82b2c6835e89bfa0bf9843c2b274a6e8ad0",
+      "en_sha256": "c175c6c76eca72da9e19bbdbf6e968bc78910985986ca537f5ac6fd87785ed6c",
+      "origin": "ai"
+    },
+    "dataList[id=1070411].desc": {
+      "pl": "gdy ginie sojusznik, na początku następnej tury traci 10 Poczytalności i zyskuje 1 Wzrost Mocy Uderzenia\njeżeli w drużynie, włącznie z tą jednostką, przetrwa 4 lub więcej Fanatyków Korp. N, Moc Monet +1.",
+      "kr_sha256": "1f6a08d0f8860616d7939edcf751c2609a2c6082b23b1b91812d4ba16a534579",
+      "en_sha256": "b6134913f05e19d1c03adcfd02e25b7e6d5a38b9dda8c43b8d4a3c9e17806bd3",
+      "origin": "ai"
+    },
+    "dataList[id=1070411].name": {
+      "pl": "Bugger…",
+      "kr_sha256": "f42dbb5ddc002d0062bb5a4c543c71b49f34dde9ab798789450c8c26f15ad7b1",
+      "en_sha256": "c1dcc92a5844fa887c2d328b98b5b5a4cd5e6bcd50133f8c08aaf26bfe08739d",
+      "origin": "ai"
+    },
+    "dataList[id=1080211].desc": {
+      "pl": "na początku fazy walki zyskuje Wzrost Mocy Ataku w liczbie równej (Rezonans Posępności / 3)\njeżeli jednostka nie zada obrażeń w tej turze, traci 15 Poczytalności na koniec tury.",
+      "kr_sha256": "ccc7c36c188587052a1a8ced8776b28dbc0e862c8e58de0da643468ca260c106",
+      "en_sha256": "94360c40d9a179a04443645a4112995916f6b56429d24208c27f34e02d44ccc1",
+      "origin": "ai"
+    },
+    "dataList[id=1080211].name": {
+      "pl": "Brainwave Focus",
+      "kr_sha256": "ad683350d73d26706cca35f487f9f3ad79d2b491032f1eb0aff8ed66978e4c11",
+      "en_sha256": "2e11a343ea3adb4c53f7c654f09e90d0ad5a5ca0259ee04b127b03f8aa0f5f07",
+      "origin": "ai"
+    },
+    "dataList[id=1080511].desc": {
+      "pl": "jeżeli jednostka nie zada obrażeń HP Umiejętnościami ataku w turze, zyskuje Tarczę równą 10% Maks. HP w następnej turze. (maks. 30)",
+      "kr_sha256": "f93239d2fcf47deeef63b413dd40be8c7a2b5c56de098121c6ab303f30d1d32b",
+      "en_sha256": "b0b8dd2f76d6d618785b78ecca12022de029c0b33ece1ba9608120855d9f8dae",
+      "origin": "ai"
+    },
+    "dataList[id=1080511].name": {
+      "pl": "Filling Fluid",
+      "kr_sha256": "9e774f3028fc8f7b6c04a9a9fbfba47ada6fb8972ad25b219476c22e8c1740ab",
+      "en_sha256": "5a6f1b2077d473b57e82bae1d3f7f1b2987f0e4bbeedfbd2338e9bb8fab0bb5f",
+      "origin": "ai"
+    },
+    "dataList[id=1100211].desc": {
+      "pl": "ostatnia Moneta ostatniej Umiejętności w łańcuchu zadaje +20% obrażeń.\nza każdym razem, gdy sojusznik inny niż ta jednostka zyskuje Licznik Poise, ta jednostka zyskuje +1 Licznik Poise z szansą 50%.",
+      "kr_sha256": "d0285ca4fab28452a30ed0a324cbbd40fe89949e175144a10513a7cc205b2711",
+      "en_sha256": "523f3a81544af52efcf9791ec6a585a096885dfd981c8461b3690d30c8b1b8cd",
+      "origin": "ai"
+    },
+    "dataList[id=1100211].name": {
+      "pl": "Slayer",
+      "kr_sha256": "4076ceb0709f48f0f9e4d962dac0fb6fcecad6929465eec66b8ecabc035f762f",
+      "en_sha256": "df029ad32ddc2a0b8797c5cc84131b966cf0e07cd5e11adf2571d771ea388862",
+      "origin": "ai"
+    },
+    "dataList[id=1100211].summary": {
+      "pl": "ostatnia Moneta ostatniej Umiejętności w łańcuchu zadaje +20% obrażeń. zyskuje dodatkowe Liczniki Poise",
+      "kr_sha256": "df48fcf54f02e49c8f4953f8af1e1070fadbecaba018580cf35aae1c91ca1ab7",
+      "en_sha256": "bae1dc483e1bc8de9e631c4c4a21a0d4cd3b750e87c45262cae3847b63dbfd3e",
+      "origin": "ai"
+    },
+    "dataList[id=1100511].desc": {
+      "pl": "przywraca o 50% mniej Poczytalności za wygraną w Starciu lub pokonanie wroga.\njeżeli 5 lub więcej żywych jednostek, włącznie z tą jednostką, to Fanatyków Korp. N, zadają one +10% obrażeń.",
+      "kr_sha256": "9cf7cf35792f650336032aae00b6bebb0052ee37680a071729bc3ca0fe335017",
+      "en_sha256": "b37be5ce81dfe482eb2e87e2dd81f7eed59860b31248346074c260737b46e107",
+      "origin": "ai"
+    },
+    "dataList[id=1100511].name": {
+      "pl": "Mad Flame",
+      "kr_sha256": "bc1f9bbe0ee8ea18be60b984f7c4ac6c60731ee49015c66a51ded8afd3212fac",
+      "en_sha256": "dfd5cb719b05198414614fe4fa5a66f7672b19f8ae8c917e026472469385670c",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "entries": {
+    "dataList[key=N103005].displayName": {
+      "pl": "Flannel",
+      "kr_sha256": "1a40344390fa883beb5f025fa578177b42042fd28a388a9743874a4b8fe0091c",
+      "en_sha256": "afa8bb6bcf374495decd3aa31190682b58fcb2121ca031fc70015deb67479b37",
+      "origin": "ai"
+    },
+    "dataList[key=N103014].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N103016C].displayName": {
+      "pl": "Kierownik 3. Piętra",
+      "kr_sha256": "75d680b98de16a66ce47fd0ee062c8f898072c5944f94d1ce0739d606d432d58",
+      "en_sha256": "5a2de83464ba0083aaf9125aa6fc3aa35ae0277656d3a18cf43ceca429b1c3d4",
+      "origin": "ai"
+    },
+    "dataList[key=N103016].displayName": {
+      "pl": "Kierownik 3. Piętra",
+      "kr_sha256": "75d680b98de16a66ce47fd0ee062c8f898072c5944f94d1ce0739d606d432d58",
+      "en_sha256": "5a2de83464ba0083aaf9125aa6fc3aa35ae0277656d3a18cf43ceca429b1c3d4",
+      "origin": "ai"
+    },
+    "dataList[key=N103017].displayName": {
+      "pl": "Maison du Noir",
+      "kr_sha256": "15d27f53d2c04cac213bf91d2109b6f648582022225f36af45ea669702804e9d",
+      "en_sha256": "d24d3609c17bbd66b91ce241d85c27a239ce47b63477a3ee9173f45b852d21e8",
+      "origin": "ai"
+    },
+    "dataList[key=N103019].displayName": {
+      "pl": "Wirująca Karuzela",
+      "kr_sha256": "44e004e02c5131bff044df03d73fda1883dee78748b7a7f355645b0efd48d43a",
+      "en_sha256": "2a0c799f9f180c8d1a83d243fcab5e22019c305ee2f2860f1e6b56b2de8e43d2",
+      "origin": "ai"
+    },
+    "dataList[key=N103020].displayName": {
+      "pl": "Skórzany Ojciec",
+      "kr_sha256": "1b90ce4618358386be5f08c837b31167c661feed645797d612b3a64d197fcbb2",
+      "en_sha256": "4a9336ca9099968366369a03cee620520a4d858f446b86daf441242be52d902e",
+      "origin": "ai"
+    },
+    "dataList[key=N103028].displayName": {
+      "pl": "Wirująca Karuzela",
+      "kr_sha256": "44e004e02c5131bff044df03d73fda1883dee78748b7a7f355645b0efd48d43a",
+      "en_sha256": "2a0c799f9f180c8d1a83d243fcab5e22019c305ee2f2860f1e6b56b2de8e43d2",
+      "origin": "ai"
+    },
+    "dataList[key=N103029].displayName": {
+      "pl": "Felt",
+      "kr_sha256": "69b431d3efe68cfd19c8431ebe2c2ca0993c66fb9d7ba31d11ce95969474dd62",
+      "en_sha256": "61a44eaf1609cec4f50a29b7d0396472615b910f5e92270a487181f2c611ea17",
+      "origin": "ai"
+    },
+    "dataList[key=N103030].displayName": {
+      "pl": "Maison du Noir",
+      "kr_sha256": "15d27f53d2c04cac213bf91d2109b6f648582022225f36af45ea669702804e9d",
+      "en_sha256": "d24d3609c17bbd66b91ce241d85c27a239ce47b63477a3ee9173f45b852d21e8",
+      "origin": "ai"
+    },
+    "dataList[key=N103071].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    }
+  }
+}

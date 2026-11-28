@@ -1,0 +1,280 @@
+{
+  "entries": {
+    "dataList[id=AntiSheepGround].desc": {
+      "pl": "- Maks. 1\n- Posiadając ten efekt, przy wygranej w Starciu z Umiejętnością 'Odmowa Uziemienia' nakłada na cel 1 Podłączenia\n- Zmalekuje Licznik Ładowania celu o połowę\n- Znika w następnej turze",
+      "kr_sha256": "fa9c801c1c1be5abd8eb8726cf7faaca287be90db8a5b78ea27fe78308e42b97",
+      "en_sha256": "af939e5ccf96a560a9b2d0a58b5ec7e131ab3799b742eddc08eab76230f0fda1",
+      "origin": "ai"
+    },
+    "dataList[id=AntiSheepGround].name": {
+      "pl": "Wtyczka Uziemiająca Stacji Wielkiej Owcy",
+      "kr_sha256": "be12c1ac769504ec0a765685e4a9d0c8f4ca294efc559a2c63a4029b5f83a08f",
+      "en_sha256": "176e551cc57d81519e7cd3e9df530d3774538a6793f4ee7565a57c22d3a58e6d",
+      "origin": "ai"
+    },
+    "dataList[id=BandageOfTheBoundKing].desc": {
+      "pl": "Po śmierci nakłada na wszystkich wrogów Moc Zatonięcia 2 i Licznik 1\nNakłada Bandaże Króla w Spętaniu na jednostkę, która go pokonała. Jeśli cel już posiada ten efekt albo pokonująca jednostka nie istnieje, nakłada go na losowego wroga bez tego efektu",
+      "kr_sha256": "19882bfb49d409dd4bc8550200c6ac7eb5486103d4cb5a1c695556f72fae0b89",
+      "en_sha256": "d76c5197116505678612d191eb42eaf5e7fc57575cd99c2686fc69d9b267e616",
+      "origin": "ai"
+    },
+    "dataList[id=BandageOfTheBoundKing].name": {
+      "pl": "Bandaże Króla w Spętaniu",
+      "kr_sha256": "af22d6be19e5f74f6f910bba6497245adaf0e7badd048f61f18c236656ef154e",
+      "en_sha256": "59702280f27d99341512e17595aa3052a22452a6fd20448b2e1c1d7073bc24ce",
+      "origin": "ai"
+    },
+    "dataList[id=BigWelcome].desc": {
+      "pl": "Po zakończeniu ataku, jeśli cel popadł w stan Oszołomienia lub zginął, zyskuje +1 zasobu E.G.O atrybutu Pychy i +1 zasobu losowego pozostałego atrybutu (maks. 3 razy na turę)",
+      "kr_sha256": "567886bd752398eb635c0139789cdf80600862ebfa0a0470b50d86fabd035761",
+      "en_sha256": "dcc6c857111fcdb57d91da2b24bf85bf4f977c1d179c6d21f043cf342d37c168",
+      "origin": "ai"
+    },
+    "dataList[id=BigWelcome].name": {
+      "pl": "Wspaniałe Powitanie",
+      "kr_sha256": "b240eb707aaf5de6d2b6a4bf360cc08b74d7a9226b8c9ab8cc4ab9f606cc13e1",
+      "en_sha256": "c8ce171a887191f7fcf409cf49012de7f850dab064f84f360237c473ff7c8a1c",
+      "origin": "ai"
+    },
+    "dataList[id=BreathSupport].desc": {
+      "pl": "Na początku fali zyskuje 4 Mocy Oddechu i 4 Licznika Oddechu.",
+      "kr_sha256": "fd448eacc39439ddf3c6d4d44b4ef8af71bd2a1619b4025705bd346f13d124a6",
+      "en_sha256": "7fe5a96430dc468c6ae07443c965a605f6addd26ccf30402d2b8887660b419b2",
+      "origin": "ai"
+    },
+    "dataList[id=BreathSupport].name": {
+      "pl": "Pojedynek na Oddechu",
+      "kr_sha256": "e03da3b5e18cf7b616f4675ab500c431e0171badcbe47fe275a471459b92fd58",
+      "en_sha256": "ebd7b753a2cb00a46b8e89ec098b371ab746d7ffcbc2b5a262bd0fb118f1fab9",
+      "origin": "ai"
+    },
+    "dataList[id=ComeForwardToTheKing].desc": {
+      "pl": "Wszystkie Umiejętności ataku tej jednostki zyskują +{0} Wagi Ataku\nPo przegranej w Starciu zyskuje 1 Wrażliwości w następnej turze",
+      "kr_sha256": "dba0141c06950339f0800ee387d44c5681a27293896259d9463cf84881ce4f3c",
+      "en_sha256": "5381a1de726429fa0644810cfbd88c512dc0c3fd35c0dbefe96511e4e58df65f",
+      "origin": "ai"
+    },
+    "dataList[id=ComeForwardToTheKing].name": {
+      "pl": "Czas Audiencji",
+      "kr_sha256": "29f4d7167cdffcb236939b873517362b3747a46ca255a72f6a10fc748254cf4b",
+      "en_sha256": "951cf7fb1d2df42029c840e0be2d0ac1b973fbdeb4c20a826b9c17bc79eab7de",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectedPlug].desc": {
+      "pl": "Na koniec tury:\n- maks. 3\n- przy 3, w następnej turze staje się Oszołomiony\n- przy 3, zużywa wszystkie własne Liczniki Ładowania",
+      "kr_sha256": "6190adc68901c1af66dffc2e46a319078a3f875f108617c15659d572484d94e3",
+      "en_sha256": "2548d345d9ecbcd68421d892a938eb13f3d6c3db05993a8420137cb29430fdc5",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectedPlug].name": {
+      "pl": "Podłączony",
+      "kr_sha256": "e90537cdf4ea6a7b20664e46b31e3ee61b0aa9b42e2da57c8e988e83980b8b9b",
+      "en_sha256": "cc0b984e95ce7eedc11c41daed3e116fe97c3cf1b2cd3ac5742d5d5423b187c1",
+      "origin": "ai"
+    },
+    "dataList[id=FirmWill].desc": {
+      "pl": "Po śmierci sojusznika nie traci Poczytalności.",
+      "kr_sha256": "d920a422566a27292140126ba60f2442a35a0cf731eb8d709b60f77f8e2d1796",
+      "en_sha256": "4b9472a8e55981ff9e19ab5774b714c757fe81baa3e846a69527e9d36e3c3993",
+      "origin": "ai"
+    },
+    "dataList[id=FirmWill].name": {
+      "pl": "Niezłomna Wola",
+      "kr_sha256": "247caf4e340c4d4ee705469624b786e23ff73e8eefa37f75cd09c1437e9bf616",
+      "en_sha256": "7165cd5e7dafb0343a921a369188af68ee4417a2b01390172aa551e2ec59091c",
+      "origin": "ai"
+    },
+    "dataList[id=RefractedWill].desc": {
+      "pl": "Spadek Poczytalności po śmierci sojusznika, wynikający z bazowych czynników obniżających Poczytalność, stosuje się w połowie (bez części dziesiętnych)",
+      "kr_sha256": "956e0f70dc519f368f329c25dd302a617dd50734890ada1c7fc8d44a753f56cc",
+      "en_sha256": "d9832ec192fee707bff5a299a224ce77fd74157abda4e09acf26c0aff50a6bae",
+      "origin": "ai"
+    },
+    "dataList[id=RefractedWill].name": {
+      "pl": "Załamana Determinacja",
+      "kr_sha256": "8fead2f5095766fde731cf7e6c1ee1585178bb5521787d0dd20147dec4a98fda",
+      "en_sha256": "fc99ebaa6c29c96fb5e7802335b1f159c22139c3f0d322fab1b4f40052b2fd8c",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4A].desc": {
+      "pl": "Poziom Tożsamości +2\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "04b70ace6f9c4f5fb703efe2370698e5f110a571af37d1f5d3b555beebcb7c50",
+      "en_sha256": "9296132875d9d3e0d36d529ef7b930e6db742ced3a69d584daa4c9017f28e8b1",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4A].name": {
+      "pl": "Efekt Rozmieszczenia nr 1",
+      "kr_sha256": "29a8f0ef2b15166907362bd50897a090d8b808e0a053e7874696632b112de503",
+      "en_sha256": "974079c5d7469607ecf2883b55349ca8d1be02573e90b1fc3fc1f5f71052aa28",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4B].desc": {
+      "pl": "Skuteczność leczenia Poczytalności +3\nPoczytalność początkowa +10 (Tożsamości z monetami Minus: -10)\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i liczbie posiadanych Umiejętności ataku",
+      "kr_sha256": "303d7db6461feed465cc1d6074e2d11c651b4156e59be7cd7ca0400a2a9ddd0e",
+      "en_sha256": "0d7981cefdb226ec6f59987cf35a212ff1cc7ed45994d8c944a4e877ce044377",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4B].name": {
+      "pl": "Efekt Rozmieszczenia nr 2",
+      "kr_sha256": "5061bdc080c60d5016b99cde231232bfb9ae32a7b131e3aabcc168eef44f38d9",
+      "en_sha256": "34b310563be7ef848492f5d27b126d27bf5c71eac7568544c03807e09c3fa275",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4C].desc": {
+      "pl": "Poziom Ataku +2\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "3928f8ffa8d462f06ec54bab4e407383c581c923ec5ab89600c04f697cca8f25",
+      "en_sha256": "7776a83d3d41c3d4c2db2e451807753dadbc7268f6644bdeea809b2554d05a44",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4C].name": {
+      "pl": "Efekt Rozmieszczenia nr 3",
+      "kr_sha256": "1f3fe9c4ca9fa0d909c03c3d5e14fba8d1dade3e934c4b1ee6c111b222c9d66f",
+      "en_sha256": "61a524d6e854440d4de6557be010fef0cca12d3820838c96e62d74199f554696",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4D].desc": {
+      "pl": "Poziom Obrony +2\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "a98f6029c96411f2e461cc5d205027830e61ddbacc342ea720a6b395d5f546cf",
+      "en_sha256": "3bc404ae026c22e12e45a26d9eaafcda2b3df80c3e904a0978caf2dd08388e88",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4D].name": {
+      "pl": "Efekt Rozmieszczenia nr 4",
+      "kr_sha256": "7315a4e163446659757775a10622cf09ee5984dccce32d5798c350bb8035b611",
+      "en_sha256": "f657ffe11a8e08b08ac6e6a4e53e1707f43a85cd5b86e3f05fb6845c529bdbac",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4E].desc": {
+      "pl": "Od 2. tury Maksymalna Szybkość +2\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "05952e47fd56af965545590402d3f429026877e16d1f04037a5ac5f73905888f",
+      "en_sha256": "ee369e99f757d1a2ede13f6ef7e51f595db9ce55a4d04ca7b97b9308a2cd1d3b",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4E].name": {
+      "pl": "Efekt Rozmieszczenia nr 5",
+      "kr_sha256": "7928aa70fa388c777c0108a202ced1c95d3f5f4bdff7808f586bab1081ba0429",
+      "en_sha256": "65a8365c647d54f116ff5fd49fbbc7b591aa2e2a978c0b7514c7ca6baae72311",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4F].desc": {
+      "pl": "Maks. HP +5%\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "ae04b0887cf41dacb4d0f5b9aef71d7f95941c55f7311413027cf659b43729ec",
+      "en_sha256": "4f9b5080662ebfe1938c3c76cc874c0b15d4a4cf9a2700f5d97cbf68b2856c50",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4F].name": {
+      "pl": "Efekt Rozmieszczenia nr 6",
+      "kr_sha256": "02c9bf003aaee26fcc2dbdaadacb78190eb5147153d806a5e9b57a8870649045",
+      "en_sha256": "69d8c26c66ef9d06f4c4ecd488f663432c06028b8c487501cac3503f816536ca",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4G].desc": {
+      "pl": "Moc Starcia +1\nPoczytalność początkowa +15 (Tożsamości z monetami Minus: -15)\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "16d5e9213cdc7d9307473da3add9b47ee17d085f043e758f77e2c682a8b60f3c",
+      "en_sha256": "183e68e9d304831ea3e99d189cf5df78083fca40c783c24f55ccd4c0f158fb16",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4G].name": {
+      "pl": "Efekt Rozmieszczenia nr 7",
+      "kr_sha256": "60826ac047e34ea3d987f20c81b9089f2c7aa1de35dffa8dafe728919904bf38",
+      "en_sha256": "da32da97f5053517f38e0a1a9ab7c78d8f4dc6764043b5ebf3ba740d6270c7bc",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4H].desc": {
+      "pl": "Otrzymywane obrażenia -10%\nPoczytalność początkowa +15 (Tożsamości z monetami Minus: -15)\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "ab35bc41cc72500b238f3e149e26021ef89b29215d8b396d14d073e07f7ae290",
+      "en_sha256": "d3903644d6a7cad1bdd59cf9d793a80189ef0f22d8d7c63accd35a91d08a0087",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4H].name": {
+      "pl": "Efekt Rozmieszczenia nr 8",
+      "kr_sha256": "a0c5c2d511cf2c19c7fea48a47ad23c173a490427d24ce3f57d2a700db6cd879",
+      "en_sha256": "075ff3a063b7ef902ca42abbe93c64fc61a3ff8fc9611b7f01608c341ec86da9",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4I].desc": {
+      "pl": "Wartość Prowokacji +5\nPoczytalność początkowa +20 (Tożsamości z monetami Minus: -20)\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "87cdd1d82dc2f20581a9f7f03bb2f2719c10b8116e3e79cb9f0bdb45f62dc0b2",
+      "en_sha256": "b911b42d29a2aa13bd14efa781b8740a895eb908244b9a8f5e60d0a308cb3e38",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4I].name": {
+      "pl": "Efekt Rozmieszczenia nr 9",
+      "kr_sha256": "1c8a670945fdadb2a224e56a3dd499e6e13e5dced138b8568dfdc6ccbe512de5",
+      "en_sha256": "b0981e35c8877a3034a4d37d451139b4a45cffa86a3bab2a2bcb46fe103b53db",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4J].desc": {
+      "pl": "Zadawane obrażenia +10%\nPoczytalność początkowa +20 (Tożsamości z monetami Minus: -20)\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "a5c550e0e41973e3eaaca18e7b60c672bcc00459f6f4addb32e8f9ce03566831",
+      "en_sha256": "6117eac936cc9cb6f3448a96e64bca79c573dd727842942c3b693374c8270589",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4J].name": {
+      "pl": "Efekt Rozmieszczenia nr 10",
+      "kr_sha256": "35f9ce16ab69bc41aaec7b97e901b71c307f38196702f18eaad78b3b6778385f",
+      "en_sha256": "7068eab083b49da51c14d282e0e3f0535dcc5cb877887d0d25718c547125e363",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4K].desc": {
+      "pl": "Moc Końcowa +1\nPoczytalność początkowa +30 (Tożsamości z monetami Minus: -30)\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "165b318be27c2df158405d36bd13217d0694941c2519b07c545da9267a03a90b",
+      "en_sha256": "2e1de3a3edb450af9048f73f8c6b95520a943b04acfbd3808edb8f36bfcd0e09",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4K].name": {
+      "pl": "Efekt Rozmieszczenia nr 11",
+      "kr_sha256": "d3cdaed23116c3c3c504d9a1a777df85b80fb9fb8a3af7fd9033cc16ae139b81",
+      "en_sha256": "5feed2da379db3f15b65e41fd5cab342cc411071800dde0f3e40b9d04f75dfd3",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4L].desc": {
+      "pl": "Poziom Tożsamości +3\nPoczytalność początkowa +30 (Tożsamości z monetami Minus: -30)\nPo śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "4bcc162b344da490e86b7218133ddb96e6b41fa49037eae7fc97e3e29c898e56",
+      "en_sha256": "6f791e74c1cf1b306109527ad17a217498f8c76a10473e5dffe776ee982e49ef",
+      "origin": "ai"
+    },
+    "dataList[id=Refraction4L].name": {
+      "pl": "Efekt Rozmieszczenia nr 12",
+      "kr_sha256": "4480798abc295b0ce0ed601bbb39fbce9afe15a5530437049d7673e3dcc825a2",
+      "en_sha256": "0b2a290d091966f99d5c5725d66bd656085e19676a52a78d317170752376f636",
+      "origin": "ai"
+    },
+    "dataList[id=ThundercloudFormation].desc": {
+      "pl": "- Maks. 5\n- Przy wartości 1 używa potężnej Umiejętności\n- Na koniec tury maleje o 1. Po popadnięciu w stan Oszołomienia rośnie o 1",
+      "kr_sha256": "05848f186170a06e760d983359c4d9b3adae0f40795465cf50ca945d809d18d6",
+      "en_sha256": "0f714ca9417ff008964e9d09c88c09e6656b7e2857f4897020fc996d0317a5bf",
+      "origin": "ai"
+    },
+    "dataList[id=ThundercloudFormation].name": {
+      "pl": "Gromadząca się Chmura Gromu",
+      "kr_sha256": "76a9aaeab9a2af2040ca8a2fdd2b21a543da8776fd07491e216991c41ee0578b",
+      "en_sha256": "920c1920756a862be817743f1cfcb9f65fa76b5f1ebb7083aa848650f7f38bbd",
+      "origin": "ai"
+    },
+    "dataList[id=UninvitedGuest].desc": {
+      "pl": "Gdy ginie Tożsamość posiadająca Nieproszonego Gościa, efekt przenosi się na Tożsamość, która go nie posiada.",
+      "kr_sha256": "e2e41c7fa1c72a9384cf9abd0c9b98cabca999841f2ef91ea0562b3313307605",
+      "en_sha256": "2ab18e6a3649a9c9e90a36ff8010c0f3216e8e87238522c207586acd77a6d0ad",
+      "origin": "ai"
+    },
+    "dataList[id=UninvitedGuest].name": {
+      "pl": "Nieproszony Gość",
+      "kr_sha256": "8181719a3358c492c778dcc27cec9d1c6286222257e8d7b410264cc5b40b78ee",
+      "en_sha256": "1fe9fbd895cc6e6e6bca5ca291355383b07abc71281e5e2d7e125d95f4d1a0ca",
+      "origin": "ai"
+    },
+    "dataList[id=VioletPeccatulumTwo].desc": {
+      "pl": "- Zadawane obrażenia +15%\n- Otrzymywane obrażenia -15%",
+      "kr_sha256": "cae0d5b5830fdd69bd9a6d8421ad4dc2b812f40a5d5933551757aa8d0a54eb33",
+      "en_sha256": "cae90accbd323ec5202e2bacbe4830a1348f9a81879e3bfd1a89a86ed540310d",
+      "origin": "ai"
+    },
+    "dataList[id=VioletPeccatulumTwo].name": {
+      "pl": "Peccatulum Zazdrości 2. stadium",
+      "kr_sha256": "973febd7342ff5932b4a5e716d2b34d4c1eb3e003f2a9af413a8ca8982343438",
+      "en_sha256": "f02f587994e81bea3842a007a474c28d76787057a725ccdeb77cf64aec1e8ee6",
+      "origin": "ai"
+    }
+  }
+}

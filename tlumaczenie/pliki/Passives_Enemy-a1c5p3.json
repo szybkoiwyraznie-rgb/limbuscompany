@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=9009801].desc": {
+      "pl": "Początek tury: zyskuje Poziom Ataku i Poziom Obrony w liczbie równej liczbie żyjących sojuszników (nie licząc tej jednostki)",
+      "kr_sha256": "e14906609fa2adff65811906d7bc9949a19825bceac97ee9cdeef4fd0f8eb129",
+      "en_sha256": "e3f8dee5771eeb3fd23873d7756f2f9ef3902f872b71ecb5ca87f1de418a65c2",
+      "origin": "ai"
+    },
+    "dataList[id=9009801].name": {
+      "pl": "Suppressed Pallidification",
+      "kr_sha256": "3e57bed9078dc6f46c1c39dbe72aef44d9e47adaf1bfa7f733fb901648381436",
+      "en_sha256": "ec269a88e8e20282746414d27aee199a834f1405e11168a76504c062d268f3a2",
+      "origin": "ai"
+    },
+    "dataList[id=9009802].desc": {
+      "pl": "Początek tury: przywraca (liczba innych żyjących sojuszników x 3) SP.",
+      "kr_sha256": "a53cfd7db80613aaa75aea2953e1d2e8857b115a0d2fa5d645cf776b25450ac5",
+      "en_sha256": "db31ea590e0fc56a0053b286c9b930d20fbc013f8a86ac8924bf873d2a33e0a5",
+      "origin": "ai"
+    },
+    "dataList[id=9009802].name": {
+      "pl": "Captain's Orders",
+      "kr_sha256": "87778e502f07950d40da854e34e1b40cefe5770d846a7e5a286f3e36f6782036",
+      "en_sha256": "5ce0a08d3450c334dbec5f830cdf4aac21924c0c1158976442e10ed9ec94d5bf",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].desc": {
+      "pl": "Koniec tury: przy 50% HP lub mniej zyskuje 1 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)",
+      "kr_sha256": "e56a467be715f0ee8d6ff8ca4cd6aadf7eae5cdc72ada022185ddb9dcdf53410",
+      "en_sha256": "6d99b6ed3d4dfd0a653c1f98cab7ce2b432152008782df4a88c561619e808fa7",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].name": {
+      "pl": "Wstrzyknięta Nienawiść i Wrogość",
+      "kr_sha256": "b03987c3aaf46c7f952932f17ecd78cb25db52fe93ccc5df81261e843793c26e",
+      "en_sha256": "1f00596ee7634f00cf86c70c969bb0c0acaf949da4a7e7d7ab84cdced8f798db",
+      "origin": "ai"
+    },
+    "dataList[id=9009804].desc": {
+      "pl": "Koniec tury: przy SP poniżej 0, 50% szans na zmianę wzorca Umiejętności.",
+      "kr_sha256": "f7961a1c92bb6648dbdbe2c8cf0e0b5e3b4bed75200771081d1b7180d8cd7c31",
+      "en_sha256": "bdfa67cd825e01a6c8a73b116acb863e1126081b27be9875a930c76fbf420406",
+      "origin": "ai"
+    },
+    "dataList[id=9009804].name": {
+      "pl": "Crashing Pallidification",
+      "kr_sha256": "bc9ad7a9c4027b508551d7c60f924e04dceb28b4db37eadb46c1a53fd8a60c96",
+      "en_sha256": "155df301278c548de0d434dc8049daaa8ee0bd91fb9aed5e3052c88be79552cd",
+      "origin": "ai"
+    }
+  }
+}

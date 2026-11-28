@@ -1,0 +1,568 @@
+{
+  "entries": {
+    "dataList[id=131911].desc": {
+      "pl": "przy wejściu, przywraca 30 SP",
+      "kr_sha256": "2d6d817ab9ba0734c9453dcced1ca7215b0414d837a063f0fc66dfc24542170a",
+      "en_sha256": "0bd11b2ef6596658ccae6b7bcd40e8d4c35f44d1f690461b6ec2116c287eba87",
+      "origin": "ai"
+    },
+    "dataList[id=131911].name": {
+      "pl": "Iron Maiden - Defibrillation",
+      "kr_sha256": "6bfed5f1e05559471d62db39f872434c3c5de4b55568efa9e32932c8b06bbb3b",
+      "en_sha256": "c65b35971269a2f2be3e8333def8736ea1c8785d334d2a7b3694893ac45dac5a",
+      "origin": "ai"
+    },
+    "dataList[id=135201].desc": {
+      "pl": "co 3 tury, wybiera losowego wroga, ustawia mu Szybkość na 1 i ustanawia go celem wszystkich swoich Umiejętności\n(jeżeli efekt nie mógł się uruchomić wskutek Oszołamienia, uruchamia go w następnej turze)",
+      "kr_sha256": "c87ed973a2b4ecc68164ea5c62c6b70109b46ace6508d384b9675eba79360186",
+      "en_sha256": "44ebba1476a49779496a12cd53b9ab8231d975532cf0af9d70469559367c656a",
+      "origin": "ai"
+    },
+    "dataList[id=135201].name": {
+      "pl": "Hunter's Mark",
+      "kr_sha256": "d841bcceb7a98b800bba975002936a2b54faf73127be00493ab78850c74c4138",
+      "en_sha256": "d3c050dcd5d3e90df06f42c2772e45b8e67b807196af064a26fcc5ce7007b678",
+      "origin": "ai"
+    },
+    "dataList[id=135501].desc": {
+      "pl": "przy wejściu na etap, zyskuje Tarczę równą 20% Maks. HP (utrzymywana przez resztę tej walki)\n\nNa początku tury:\n- zyskuje [IndexPrescript_Base_2nd] zależnie od etapu [UnlockBuff_Base]\n- <color=#ff6000><mark=#ff000040><b><u>nakłada [IndexPrescriptTargetToPersonality] losowemu wrogowi i priorytet: atakowanie go</u></b></mark></color>\n\nzadaje +2.5% obrażeń [IndexPrescriptTargetToPersonality] za każdy [BlessingOfIndexPrescriptEnemy] (maks. 20%)\n- przy 9 [BlessingOfIndexPrescriptEnemy], zamiast tego zadaje +30% obrażeń wszystkim celom",
+      "kr_sha256": "627725671574584c9eb496d37f5e18db77c0f44bceba617695d939f35a1b1d1b",
+      "en_sha256": "6d01c56dd9ed18338d0226d552973d6d98d5f03a099fcc6e206a2b2ef3fc2045",
+      "origin": "ai"
+    },
+    "dataList[id=135501].name": {
+      "pl": "Prescript Delivered on a Device",
+      "kr_sha256": "295c73f7289f81cbfdb2b8b095efc137f0e0e6d88c3ae0f1d02e99ff0fb7eb97",
+      "en_sha256": "4a8d8865a9a715d06dbb1aa9075c3c5c96615cd8dd3944de4fba3175c8bf33d7",
+      "origin": "ai"
+    },
+    "dataList[id=135503].desc": {
+      "pl": "Na koniec tury: przy 3/6/9 [BlessingOfIndexPrescriptEnemy] albo przy HP 90%/70%/50% lub mniej:\n- zyskuje [UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3]\n- przywraca SP do 45\n- zużywa całe [PressureOfPrescript] i dochodzi do siebie z Oszołamienia\n- zyskuje 1 [BlessingOfIndexPrescriptEnemy] w turze po pierwszym zyskaniu [UnlockBuff_Base]\n\njeżeli [UnlockBuff_Base] został zyskany na skutek warunku HP powyżej:\n- zyskuje [KarmaOfIndexStudent] równe (przywrócone SP / 15)\n- jeżeli jednostka miała mniej niż 3/6/9 [BlessingOfIndexPrescriptEnemy], zwiększa Licznik [BlessingOfIndexPrescriptEnemy] do 3/6/9; za każdy zyskany Licznik [BlessingOfIndexPrescriptEnemy] zyskuje 1 [DefenseDown] i 2 [KarmaOfIndexStudent] w następnej turze",
+      "kr_sha256": "a79f6d04b59696080484a49e112e0c1c2ac1d798729ee16eb2cd5f87186e19ce",
+      "en_sha256": "3c20ba6b56df47472a14000feaf6d134bfde1c079fb56f84e48ff6b722ae1858",
+      "origin": "ai"
+    },
+    "dataList[id=135503].name": {
+      "pl": "Unlock",
+      "kr_sha256": "5da49a05ace1b6f5073832cae6c4e59653a8faa7645f62487bfa318b058e4794",
+      "en_sha256": "4ac709aa58bcfe5dca223072cd22986a2ad4e15f577c344466851b65322e416c",
+      "origin": "ai"
+    },
+    "dataList[id=135505].desc": {
+      "pl": "przy [UnlockBuff_3], wywołuje następujące efekty:\n- [BlandishmentShinEnemyDelete], zyskuje Tarczę równą 50% Maks. HP (utrzymywana przez resztę tej walki)\n- zmienia [PressureOfPrescript] w [PressureOfPrescript_2nd] i maksymalizuje jego Licznik\n- na początku tury, zyskuje 1 [PressureOfPrescript_2nd]",
+      "kr_sha256": "73a1edc829fa1c188c6daa4cc0a4e9b522e647d9f7325a46b739e6a8d05d9241",
+      "en_sha256": "6c9eb07c87f9e470dd1251cec75f5c72710d1ea543a26375557e85736091777c",
+      "origin": "ai"
+    },
+    "dataList[id=135505].name": {
+      "pl": "Concentration",
+      "kr_sha256": "16a2a43f1fe3e22c166f8e4633f551ef4b56bd8bfb7893b626b3c47d1bce40b2",
+      "en_sha256": "c2cfec66629abd71488212efd5fbb8c6d88459318d65929dffc0e9d02ad26623",
+      "origin": "ai"
+    },
+    "dataList[id=137901].desc": {
+      "pl": "otrzymuje o 50% mniej końcowych obrażeń, jeżeli „Uczeń Kciuka - Lucio” jest na polu walki",
+      "kr_sha256": "b41b62057f3d690488a6e398968b6cc3165367036b1b81bc1cf2f8e03f048efe",
+      "en_sha256": "7892d6e14d1ef9da2e567a4a6f405ae84205bde519d69631eb1d698c5354669d",
+      "origin": "ai"
+    },
+    "dataList[id=137901].name": {
+      "pl": "Authority Unbroken",
+      "kr_sha256": "41a5f2420dccf30a72161dba2cb056ad0a21c7536b000830e10e91382a3287c1",
+      "en_sha256": "823cc0b7b506f1a6f5f578a90f273bae8c6bfa7deee3d14e38764e0dccfedcf9",
+      "origin": "ai"
+    },
+    "dataList[id=137902].desc": {
+      "pl": "podczas Starcia, <color=#ff6000><mark=#ff000040><b><u>zyskuje 1 [LookingFuture] za każde Starcie</u></b></mark></color>\nmoże zyskać do ([FutureEyeOnMirror] na Początku Tury / 3) [LookingFuture] na turę\njeżeli jednostka ma [FutureEyeOnMirror], <color=#ff6000><mark=#ff000040><b><u>otrzymanie Ataku Jednostronnego albo przegrana w Starciu uruchamia Umiejętność „Precognition”</u></b></mark></color>",
+      "kr_sha256": "a80d239b4224567f52fffca3ca822bc4fe8681de55b017d0bb1f6184b7769297",
+      "en_sha256": "30efeacf9d2e569fba7684b4d3d5e67a6ad55d15c01750e98b761dd91180d76f",
+      "origin": "ai"
+    },
+    "dataList[id=137902].flavor": {
+      "pl": "„Im więcej stoczonych starć, tym gorętszy mój miecz… i tym szybciej przyśpieszy, by doprowadzić nas do przyszłości, którą ujrzałem.”",
+      "kr_sha256": "1e07701b0b3548c1c697f3e3af75aaa322620452e93dfe9fa7fcc3dd7fac19db",
+      "en_sha256": "b3a5b0dfd4a35fde8fa363d9691e064bbb51d5ab4b6ecd90f7b2ecd103344b8d",
+      "origin": "ai"
+    },
+    "dataList[id=137902].name": {
+      "pl": "Accelerating Future",
+      "kr_sha256": "e9e1aefe3c5c0eb6ecf389f849004dc58b324d3ebdef9fe80132573f352ca4db",
+      "en_sha256": "4631a3a8bab65cdc8ee21e01c4a40ea90b46cd486611d8ce2bae2f0864544952",
+      "origin": "ai"
+    },
+    "dataList[id=137904].desc": {
+      "pl": "otrzymuje o 30% mniej obrażeń HP i SP od [Combustion], [Laceration], [Burst], [Sinking]; o 30% mniej podnosi Próg Oszołomienia od [Vibration]\nprzy 1+ [AccelBullet], Umiejętności zużywające [AccelBullet] zadają +30% obrażeń i +150% obrażeń Tarczom\nzyskuje 4 [Breath] za każde zużyte [AccelBullet]\npodczas rzutu Monetą zużywającą [AccelBullet], nie przerywa ataku, nawet jeżeli jednostka nie ma Acceleration Round",
+      "kr_sha256": "e4426ef3ce73bedb5420c62bb5bfa4ebb725de76284df3b3fd07151bf2412bee",
+      "en_sha256": "52575a8794530b9238429fb19ea9b6d7b0b8ec620269b5ea298443f0ae983b5b",
+      "origin": "ai"
+    },
+    "dataList[id=137904].flavor": {
+      "pl": "„Byłaś dziedziczką palermickiego stylu i posiadaczką rodzinnego dziedzictwa — miałaś każde przywileje, o jakie można było marzyć. Jak śmiesz tak ośmieszać się w ten sposób?”\n„Pozwolimy ci zatrzymać Relikwię i miecz, bo splamiła je twoja niehonorowa smroda.”\n„Awans na stanowisko Sottocapo, podbossa… i zdegradowana już po trzech dniach. Nikt inny nie doznał tak żałosnej hańby jak ty, Valencina.”\n„Jesteś hańbą naszej rodziny. La Famiglia Bognatelli odbiera ci swoją miłość.”",
+      "kr_sha256": "8ea1aab1c46d19b913321b10cdf7c777218e275cf105647ae8ae759cc7c22796",
+      "en_sha256": "e9459ade9c255ec64c8e9aee6fc8087d617c04edbdb4627acf6435c51b26c009",
+      "origin": "ai"
+    },
+    "dataList[id=137904].name": {
+      "pl": "The Shame of Famiglia Bognatelli",
+      "kr_sha256": "cf1cba18a3d1baabf2c6f1503694aa6be29b483f27ace661e5d7e0b4411b6178",
+      "en_sha256": "09e80c8ece902cea3e6d0f5fc889855dba2824aeb2754927aa29cb1932b6ab71",
+      "origin": "ai"
+    },
+    "dataList[id=137905].desc": {
+      "pl": "zadaje +15% więcej obrażeń Tarczom za każdy Podpalenie głównego celu (maks. 300%)\nprzy użyciu Umiejętności, jeżeli Umiejętność ataku celu jest Umiejętnością Cięcia albo Przebicia, Moc Starcia +1\njeżeli efekty Umiejętności jednostki uruchomiły [VibrationExplosion], zyskuje 2 [AttackDmgUp] w następnej turze (3 razy na turę)\njeżeli efekty Umiejętności jednostki trafiły krytycznie, przywraca 5 SP",
+      "kr_sha256": "5ffb7201a9f1c0c3d20239b811d65ad887f86a8a1adf890da7001f954d4337d8",
+      "en_sha256": "0f6563cc92b9d8d23054795d52f0875f3ede5d4d340dd2c02b48e6ec89b0c837",
+      "origin": "ai"
+    },
+    "dataList[id=137905].name": {
+      "pl": "La Spada di Palermo",
+      "kr_sha256": "b3f71ef26929cb0dc52f542aaf8034d9715df3e8e751c9451c929ef849b2385e",
+      "en_sha256": "aa5f80179d3ccb7f9cd992c7dc33ddf27e9213886341f810d334aa4a2937269a",
+      "origin": "ai"
+    },
+    "dataList[id=137906].desc": {
+      "pl": "gdy „Uczeń Kciuka - Lucio” zostanie pokonany, uruchamia się passivka „Time to Hunt”",
+      "kr_sha256": "7f774de36d258a250d99c96ed3843f400b6b2f29fe0babd75c23363b417c23ba",
+      "en_sha256": "ce12c62be7f84cd74837453d6908238df8f419bffc78de931eac21f43212c655",
+      "origin": "ai"
+    },
+    "dataList[id=137906].name": {
+      "pl": "Lucio, you useless little shit!",
+      "kr_sha256": "a3d94793da46d869e2a3b3c1b47e36c5160005c07e857a6a13a525508283e335",
+      "en_sha256": "cd6f629a49472347e8e3bbb1232591259a5c2e5ed46f60f97aa98c8b6f2152d7",
+      "origin": "ai"
+    },
+    "dataList[id=137908].desc": {
+      "pl": "następujące przyczyny zmniejszają Licznik [FutureEyeOnMirror] tej jednostki:\n- jeżeli jednostka nie zyska [LookingFuture], traci 1 [FutureEyeOnMirror] za każde Starcie\n- gdy jednostka zostanie zaatakowana Atakiem Jednostronnym, traci 1 [FutureEyeOnMirror]\n- w razie przegranej w Starciu, traci 3 [FutureEyeOnMirror]",
+      "kr_sha256": "9d7d1147e13b93431a11b142ca41c0310544cf27d0ac34e380897068eb40e1e9",
+      "en_sha256": "5feacb8ee49e362b875c70da4dd34f2b92f322c319899bff2ae31b15d950ef45",
+      "origin": "ai"
+    },
+    "dataList[id=137908].flavor": {
+      "pl": "„Oko się rozgrzewa, oczodół zaczyna boleć, a widzenie robi się czerwone.”",
+      "kr_sha256": "b260e513314d09a0f6118a55910b79c12bbc4a5bbd23317d1c12fac1621053ec",
+      "en_sha256": "7485584bb96063c9c7d95a0ef86750e8f3ddc2236d8bdc41ed586340d1e33350",
+      "origin": "ai"
+    },
+    "dataList[id=137908].name": {
+      "pl": "Overloaded",
+      "kr_sha256": "9fd698ba5d34442f097bf678d8a2b0659ab225d585c2727b77b80bc698d341f6",
+      "en_sha256": "b991604729c6632e280a4f147710b6a28fce1bc56f60181b6ed69c2dfbb588e2",
+      "origin": "ai"
+    },
+    "dataList[id=137909].desc": {
+      "pl": "gdy jednostka zostanie trafiona albo gdy „Uczeń Kciuka - Lucio” zostanie pokonany, zyskuje [ObsessionAndGreed] w następnej turze",
+      "kr_sha256": "c294808c0ab08db3931dbe5695abfe1e7485a4269100c63d3d877e3cc2c502f3",
+      "en_sha256": "83bde8d4b4fb00373c2fe1bf96ccb99f6c379b848f42e56ddc3f58e3139eac92",
+      "origin": "ai"
+    },
+    "dataList[id=137909].flavor": {
+      "pl": "„*westchnienie* Dobra. Czyli mówisz, że możemy odzyskać Ticket, wchodząc i robiąc zamieszanie według planu tego fanatyka… Czy to naprawdę przyniesie Ticket z powrotem?”",
+      "kr_sha256": "f4d684edbb680621a14b4f4f2400a95e0c2f0a94f3bdc5c4469ec8e3c2a7e003",
+      "en_sha256": "bd2cafed527c4ff37497e1c3b4c20014c5ca13aa9c4df327adab273a49c8ec48",
+      "origin": "ai"
+    },
+    "dataList[id=137909].name": {
+      "pl": "Serce (心) - Valencina",
+      "kr_sha256": "cfbbb8c149a75140dbd1af4a5379863a1beef2076197cb2905e107752e810f23",
+      "en_sha256": "dfb51ba97442b5203ef6e5fca94d9250176c8d3e2359db308f9169b2fa95c5d1",
+      "origin": "ai"
+    },
+    "dataList[id=137910].desc": {
+      "pl": "na początku tury, jeżeli jednostka jest Oszołomiona, dochodzi do siebie z Oszołamienia\n\nwybiera losowego Grzesznika i nakłada [TeachersPrey]\n- uruchamia się raz na 4 tury po pierwszym uruchomieniu\n- jeżeli jednostka zabije cel Umiejętnością „Disposal”, uruchamia się ponownie w następnej turze",
+      "kr_sha256": "3ea62061b1655b30ba06b997ac2d3de4650a4f3ac316b6a854b7c2b76e4f4c49",
+      "en_sha256": "6bbf98f5c0def15ddda8ec4f16ddf33cac9b56bdb60a50d374cb459d7d0db820",
+      "origin": "ai"
+    },
+    "dataList[id=137910].flavor": {
+      "pl": "Styl Palermitański ma wiele wspólnego z twórcą tej techniki miecza — La Famiglia Bognatelli.\nZarówno Famiglia, jak i ten styl walki słyną z bezlitosnego skupienia na jednej zdobyczy podczas polowania, które kończy Coup de Grâce — śmiało można je nazwać sekcją. Te egzekucje nie odbywają się w cieniu, lecz dumnie, na widoku publicznym.\nTa wspaniała i groźna sztuka miecza przyniosła Famiglii wiele honorów i prestiżu, aż w końcu zapewniła jej miejsce wśród Sette Famiglie Zaułków.\nValencina, mistrzyni Stylu Palermitańskiego, używała go, by polować i zabijać licznych oficerów i tak zwanych zahartowanych w boju żołnierzy podczas Wojny Dymów, stając się prawdziwym „Bohaterem Wojny”.\nIronia losu — nikt nie przypuszczał, że jej upadek będzie tak głęboki, jak niegdyś jej sława.",
+      "kr_sha256": "8db45bc20587dff153da3b34dcd06d30e1f86bd8b4812b26aef5a6c1f52066a8",
+      "en_sha256": "6e710fd047ae9d6c2580e3eea6a276db301f6909ee62ed5e0df7369915238857",
+      "origin": "ai"
+    },
+    "dataList[id=137910].name": {
+      "pl": "Time to Hunt",
+      "kr_sha256": "cd048aa740b0592e062e8781f80ac740f70dbe80db5ed830f786973d315903f7",
+      "en_sha256": "7eeeed3010aee8788a7033c54c99ebab6c70976cfa663372f0b68cbb39769318",
+      "origin": "ai"
+    },
+    "dataList[id=137911].desc": {
+      "pl": "przy wejściu na etap, zyskuje 30 [FutureEyeOnMirror]\ngdy Licznik [FutureEyeOnMirror] spadnie do 0, zmienia [FutureEyeOnMirror] w [FutureEyeOffMirror]",
+      "kr_sha256": "7338a2d9fe011029b7d5cbf18eefeb4587d0060a53a79077b854f6a93b2f0467",
+      "en_sha256": "99c621efea2b2f6a5d3913215a57560e6a1083724f6a18e2e0961d93b6193ecc",
+      "origin": "ai"
+    },
+    "dataList[id=137911].flavor": {
+      "pl": "Ta Relikwia, znana jako Oko Odyna, to jedynie jedna trzecia Relikwii, która została rozbita na trzy części.",
+      "kr_sha256": "19940e71f7038496fa7f541bdee3ee8270ba49ee3f8f7ddad3d2c22af6c7e494",
+      "en_sha256": "59f320107cdca3e5832458aa0a61dc4d3b69dfc3771e22bac957901bf25d9313",
+      "origin": "ai"
+    },
+    "dataList[id=137911].name": {
+      "pl": "The Eye of Precognition",
+      "kr_sha256": "d12dd170addfc19bb7d7c5a860d16054c495e1c67b16439c51da54ada7a4ae71",
+      "en_sha256": "18c2897cd5a6ae22c92ca06f2413da2a2ba4c6bb88d4a513ef0a793ffa40fe3a",
+      "origin": "ai"
+    },
+    "dataList[id=138001].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>otrzymuje o 50% mniej obrażeń od Ataków Jednostronnych</u></b></mark></color>\notrzymuje o 50% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\ngdy przywraca SP z [UnlockBuff_Base], jeżeli SP jednostki poniżej 15, przywraca SP do 15\n\nprzy wejściu na etap, zyskuje [BurningWoundRien_Mask] i przywraca SP do 30\n\njeżeli HP jednostki spadnie do 55% lub mniej, tura się kończy i zmienia się faza\n- usuwa wszystkie efekty poza tymi wyłącznymi dla tej jednostki\n- jeżeli Licznik [StackRienSpecialSkill] jest niższy niż 9, zmienia go na 9",
+      "kr_sha256": "e1fb2b44f1d93c7e13a25f021a623289c98070e21c74e36ff9f706963859a587",
+      "en_sha256": "3ddee27fd42450799396f320fd1d09950d5f54a84e5a29f3f505a5e3121532ed",
+      "origin": "ai"
+    },
+    "dataList[id=138001].flavor": {
+      "pl": "Czekałem na „tę chwilę”, jak przykazywały Nakazy.\nNawet gdy moja droga córka wyszła, czekałem i czekałem.\n\nPewnego razu skontaktowało się ze mną Limbus Company, a ja zobaczyłem, że tylne drzwi stoją otworem.\nI wtedy urządzenie zapiszczało, dając mi znać, że przyszedł wreszcie czas, by zabrać córkę do domu.",
+      "kr_sha256": "53b4ba2b1e3d6d39d974b82f36929f5db9e8f1f54dd2a6ce9059d16ddbc8d84d",
+      "en_sha256": "cf0556845df39e4b85e1db1e87ffbf67ab680be71713a827d1a82b35a5dd8b2c",
+      "origin": "ai"
+    },
+    "dataList[id=138001].name": {
+      "pl": "Rien, The Index Nursefather",
+      "kr_sha256": "b644d0cbb6f8f8ee404b34815d478e9c0a25e94293b79409bb2deb238696d9ca",
+      "en_sha256": "155c82aff6e074ab38ce23b4150f77ced3e6ca9ad7d3f6833e9bce8bb6361498",
+      "origin": "ai"
+    },
+    "dataList[id=138002].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>do każdej Monety przypisywana jest losowa broń; każda broń ma unikalny efekt</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\nprzy użyciu Umiejętności ataku, zyskuje 1 [StackRienSpecialSkill] (maks. 9)\n- można zyskać 1 raz na Umiejętność (nie można zyskać 2 razy od tej samej Umiejętności)\n\n<color=#ff6000><mark=#ff000040><b><u>na początku tury, przy 9 Licznikach [StackRienSpecialSkill], używa potężnej Umiejętności</u></b></mark></color>\n- po zakończeniu Ataku: po pierwszym użyciu potężnej Umiejętności, zyskuje [Shin_Rien]\n- resetuje limit zyskiwania [StackRienSpecialSkill] na Umiejętność\n- Minimalna i Maksymalna Szybkość +15\n- na koniec tury, w następnej turze zyskuje 1 [Vulnerable] i 2 [ResultReduction]\n\nna początku 3. tury, jeżeli Licznik [StackRienSpecialSkill] jest niższy niż 9, zwiększa go do 9 i zyskuje (zyskana wartość x 3) [KarmaOfIndexRien]\n- następnie efekt uruchamia się co 3 tury",
+      "kr_sha256": "50f9884c2006d94f2eab942284bc497e38001183b4364762d83312c9d334c210",
+      "en_sha256": "f699a5f947427ca4491871fd5674cd20814948a0751f71fb46c970dc144a3397",
+      "origin": "ai"
+    },
+    "dataList[id=138002].flavor": {
+      "pl": "Wewnątrz Urządzenia pluska się zbiornik płynu wyglądającego jak ciekły metal, zdolny zmieniać kształt i masę — jego właściwości niemal jak te Singularności.\nPłyn przybiera formę zależną od Nakazu otrzymanego przez Urządzenie; broń, którą wytwarza, zależy od informacji o celu i wyznaczonego limitu czasu na wykonanie zabójstwa.\nPewnego dnia, gdy otrzymał sztylet zbyt mały do zadania, postanowił poczekać, aż Urządzenie wytworzy inną broń. Jednak mimo zbliżającego się terminu nie doczekał się porządnej broni; nie pozostało mu nic innego, jak zabić cel widelcem.",
+      "kr_sha256": "6cb6d00065b522760095a60bf67f73ea9e251168a42f0288e81b23953b096f81",
+      "en_sha256": "61c4fde0a53536d011301a657d8ed8217d793eb494cabb2872bec3f3a2b2ffa6",
+      "origin": "ai"
+    },
+    "dataList[id=138002].name": {
+      "pl": "Oracle Device [Caduceus]",
+      "kr_sha256": "de1fcf45ed5249782658b0ad3f5d7c8dd1eedd14afdfd9229167660f5dc1cefc",
+      "en_sha256": "13bc6847a3249489b81dbd93047ce7e2df361651d075dc6907e7d57bdabf8903",
+      "origin": "ai"
+    },
+    "dataList[id=138003].desc": {
+      "pl": "na początku tury:\n- zyskuje [IndexPrescript_Base_2nd] zależnie od etapu [UnlockBuff_Base]\n- nakłada [IndexPrescriptTargetToPersonality] losowemu Grzesznikowi i priorytet: atakowanie go\n<color=#ff6000><mark=#ff000040><b><u>- gdy używa Umiejętności na [IndexPrescriptTargetToPersonality], wszystkie Monety tej Umiejętności zmieniają się w [SuperCoin]y</u></b></mark></color>\n\ngdy atakuje, jeżeli [IndexPrescriptTargetToPersonality] zginie albo jednostka nie może już zaatakować tego celu, <color=#ff6000><mark=#ff000040><b><u>używa pozostałych Umiejętności na losowym innym Grzeszniku\n- priorytet: cele z najmniejszym aktualnym HP, z wyjątkiem celów z 1 HP</u></b></mark></color>\n- jeżeli losowo wybrany Grzesznik zginie albo jego HP spadnie do 1, powtarza ten efekt na innym Grzeszniku\n\nzadaje +2.5% obrażeń [IndexPrescriptTargetToPersonality] za każdy [BlessingOfIndexPrescriptEnemy] (maks. 20%)\n- przy 9 [BlessingOfIndexPrescriptEnemy], zamiast tego zadaje +30% obrażeń wszystkim celom",
+      "kr_sha256": "d6b5d78ae26b492dea07bb3e57505701704a6d0364d0e1742e3ec1b5e12b9d33",
+      "en_sha256": "b78684412f3b66df01879f6a969ec0cd2bc9ce94d2594a32b438a8a9608eeafe",
+      "origin": "ai"
+    },
+    "dataList[id=138003].flavor": {
+      "pl": "Czy pragniesz, bym założył rodzinę?\n\n„To musiał być los, że spotkałam męża takiego jak ty…”",
+      "kr_sha256": "146c5ebd9780505de6e197fbc2a4fea724f6a26790db67e5ca296aebe227fdb2",
+      "en_sha256": "57f22f93dc9732517cfbf823b3967f5819e1c3324a4155fad0b92b5ff589cb5a",
+      "origin": "ai"
+    },
+    "dataList[id=138003].name": {
+      "pl": "Will of the Prescript",
+      "kr_sha256": "2772e5e7cbf4ee6e6747944190daf44aa09359a070c901d502d6d5212b3b5e5a",
+      "en_sha256": "ad0cc32ff55317bd14b8197758b565a04a576c7f633e4a969bb8a8c633a3a8e7",
+      "origin": "ai"
+    },
+    "dataList[id=138004].desc": {
+      "pl": "na koniec tury: jeżeli [IndexPrescript_Base_2nd] został wykonany w tej turze, przywraca 10 SP i zyskuje 3 [BlessingOfIndexPrescriptEnemy] (1 raz na turę)\n\n<color=#ff6000><mark=#ff000040><b><u>na koniec tury: jeżeli [IndexPrescript_Base_2nd] nie został wykonany w tej turze, zyskuje 8 [KarmaOfIndexRien]</u></b></mark></color>\n- jeżeli jednostka nie ma [UnlockBuff_Base], na koniec tury zyskuje 1 [BlessingOfIndexPrescriptEnemy]\n- przy 9 [BlessingOfIndexPrescriptEnemy], nie zyskuje [KarmaOfIndexRien]",
+      "kr_sha256": "20c17e2a17543d235b901c5fea4e7c27ad921e76a6cdad919b47f0f9e20d2c13",
+      "en_sha256": "548ba36b5690ac6d3a75ab83f2ca2940337f1b2d1220523fe857930d5f786c9b",
+      "origin": "ai"
+    },
+    "dataList[id=138004].flavor": {
+      "pl": "Czy pragniesz, bym stracił rodzinę?\n\n„Kochanie, wybiję się na chwilę na północ.”\n„A, po południu ma przyjść paczka. Odebrałabyś ją za mnie, córeczko?”",
+      "kr_sha256": "a4b38bf0155bb60b42521773fb1f22ac2cd5ebba7c80354ecacf98b528120eb2",
+      "en_sha256": "da889e81644794c3e34e4a6448e074c8e45dc882847bcf5c3cce4d0afe897423",
+      "origin": "ai"
+    },
+    "dataList[id=138004].name": {
+      "pl": "Undertake Prescript",
+      "kr_sha256": "1ffd6ae09a78acfdc55ec11bdaad2f406c96399e90ff1cc4c8d59ea0c0eab2ca",
+      "en_sha256": "60dd326db9fa452a5450e4c34c2fea9c3ca09a1d7a1a6faae7263e4d23114eb4",
+      "origin": "ai"
+    },
+    "dataList[id=138005].desc": {
+      "pl": "na koniec tury: przy 3/6/9 [BlessingOfIndexPrescriptEnemy] albo przy HP 95%/85%/75% lub mniej:\n- zyskuje [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]\n\nna koniec 1. tury: jeżeli etap [UnlockBuff_Base] jest niższy niż 1, zyskuje [UnlockBuff_Rien1]\nna koniec 2. tury: jeżeli etap [UnlockBuff_Base] jest niższy niż 2, zyskuje [UnlockBuff_Rien2]\n\nprzy pierwszym zyskaniu [UnlockBuff_Base], jeżeli SP jednostki poniżej 15, przywraca SP do 15\n\n\ngdy [UnlockBuff_Base] zostaje aktywowany wskutek warunku HP albo tury:\n- przy mniej niż 3/6/9 Licznikach [BlessingOfIndexPrescriptEnemy], zwiększa je do 3/6/9 i zyskuje 5 [KarmaOfIndexRien] na początku następnej tury za każdy zyskany Licznik",
+      "kr_sha256": "ff15d9561e0a4ae9de92e4dedd1b2bca80eddafea412be7659b41f50ff0ba843",
+      "en_sha256": "27eb5958ba3ba3cf9940f55d97f6fbfba5de3d514fd087ad0db79a3100777627",
+      "origin": "ai"
+    },
+    "dataList[id=138005].flavor": {
+      "pl": "„Podążanie za Nakazami odblokowuje to, co zamknięte.”",
+      "kr_sha256": "654d9079fea97fe579b2f0dc2ce4b5ab43bd6644397dab4eddc4bb9ec6a95a8e",
+      "en_sha256": "82404271bfdd78306d578624c4dbea7fe5ecad625a08d6092af610a380d398a9",
+      "origin": "ai"
+    },
+    "dataList[id=138005].name": {
+      "pl": "Unlock",
+      "kr_sha256": "5da49a05ace1b6f5073832cae6c4e59653a8faa7645f62487bfa318b058e4794",
+      "en_sha256": "4ac709aa58bcfe5dca223072cd22986a2ad4e15f577c344466851b65322e416c",
+      "origin": "ai"
+    },
+    "dataList[id=138101].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>otrzymuje o 75% mniej obrażeń od Ataków Jednostronnych</u></b></mark></color>\notrzymuje o 75% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\ngdy przywraca SP z [UnlockBuff_Base], jeżeli SP jednostki poniżej 15, przywraca SP do 15\n\ngdy jednostka wchodzi w nową fazę przy 55% HP, zyskuje następujące efekty:\n- usuwa wszystkie efekty poza tymi wyłącznymi dla tej jednostki\n- zyskuje [IndexPrescript_RienSecondPhase]\n- zmienia [BurningWoundRien_Mask] w [BurningWoundRien]\n- zmienia [KarmaOfIndexRien] w [KarmaOfIndexRien_2Phase]; następnie zyskuje 10 Liczników tego efektu\n- jeżeli jednostka nie ma [Shin_Rien], natychmiast go zyskuje\n\nprzy HP 25% lub mniej, zmienia wzorzec i znacznie wzmacnia pewną Umiejętność",
+      "kr_sha256": "3072e38a2dffc7a030da05fd6830020b7e8b59a513ee854d41ebc53464f5869f",
+      "en_sha256": "b9b19305931f9cba704809044964a20433028b702e923a938435d40c3a019e6a",
+      "origin": "ai"
+    },
+    "dataList[id=138101].flavor": {
+      "pl": "Wydawało mu się, że musi naśladować kogoś — nie wiedział jednak kogo, więc wątpił w Wolę i niemal się jej sprzeciwił. Dopiero, gdy było już za późno, zrozumiał jej zamiar i przyjął wolę Nakazu.\nDopiero wtedy ukończono fałszywego ojca.",
+      "kr_sha256": "6e0eaeb9c2dccae227e03f1318fd850951272472fee30e981f121ce01e9feb9d",
+      "en_sha256": "581b65f880712133b87e7d774ee48ce8bde80ff7b018599f71931a1612d19ffd",
+      "origin": "ai"
+    },
+    "dataList[id=138101].name": {
+      "pl": "Rien, the Father [Imitation]",
+      "kr_sha256": "58c133468a1cfc56fe2453a711433b24821ac066bbbf9eda40df6b328b526643",
+      "en_sha256": "0b9efc5d331d2a87c56bb22961296ac9011af7159fa16950cccea5076aedfcfd",
+      "origin": "ai"
+    },
+    "dataList[id=138102].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>do każdej Monety przypisywana jest losowa broń; każda broń ma unikalny efekt</u></b></mark></color>\n- [RienWeapon01Hatchet2phase]\n- [RienWeapon02Stiletto2phase]\n- [RienWeapon03Greatsword2phase]\n- [RienWeapon04Rapier2phase]\n- [RienWeapon05Sledgehammer2phase]\n- [RienWeapon06Ultragreatsword2phase]\n- [RienWeapon07Lance2phase]\n- [RienWeapon08Chain2phase]\n- [RienWeapon09Scythe2phase]\n\nprzy użyciu Umiejętności ataku, zyskuje 1 [StackRienSpecialSkill] (maks. 9)\n- można zyskać 1 raz na Umiejętność (nie można zyskać 2 razy od tej samej Umiejętności)\n- nie zyskuje Liczników od Umiejętności używanej tylko w specjalnym wzorcu\n\nna początku tury, przy 9 Licznikach [StackRienSpecialSkill], używa potężnej Umiejętności\n- resetuje limit zyskiwania [StackRienSpecialSkill] na Umiejętność\n- Minimalna i Maksymalna Szybkość +15\n- na koniec tury, w następnej turze zyskuje 2 [Vulnerable] i 3 [ResultReduction]\n\nuruchamia następujące efekty od tury, w której zmieniono fazę\n- co 3 tury, jeżeli Licznik [StackRienSpecialSkill] jest niższy niż 9, zwiększa go do 9 i zyskuje (zyskana wartość x 5) [KarmaOfIndexRien_2Phase]",
+      "kr_sha256": "8506c7ce88dabd74acef68b087cec46c42845e57eee638d510e19cb6cdbcaef5",
+      "en_sha256": "f54dd3ca924e4cc183bf0da7ef4dcde88c4df49b3575ceef8f392ab14b00771f",
+      "origin": "ai"
+    },
+    "dataList[id=138102].flavor": {
+      "pl": "Bezkonkurencyjna broń i klątwa — dar Hermesa, boga Miasta, którego Nakazy rozsyłane są falami radiowymi.",
+      "kr_sha256": "6a709bea0ff09d8e8fae434ca9e0eba764b10f815699d04fc685d4276ecd5c9f",
+      "en_sha256": "7353332288542a0a9fe4ffc1ac6686210cb724d3c24df14b8bb15190b1e35226",
+      "origin": "ai"
+    },
+    "dataList[id=138102].name": {
+      "pl": "Oracle Device [Caduceus] - Full Unlock",
+      "kr_sha256": "c69092d840ee66e80d871e9fbb9e9c52bd56055b3949b06f404c07b39bf1f3fb",
+      "en_sha256": "058703ce078dc9d88f511dc9934c089a51f303b3720244031d163cd210d5bf5e",
+      "origin": "ai"
+    },
+    "dataList[id=138103].desc": {
+      "pl": "na początku tury:\n- nakłada [IndexPrescriptTargetToPersonality] losowemu Grzesznikowi i priorytet: atakowanie go\n<color=#ff6000><mark=#ff000040><b><u>- gdy używa Umiejętności na [IndexPrescriptTargetToPersonality], wszystkie Monety tej Umiejętności zmieniają się w [SuperCoin]y</u></b></mark></color>\n- zyskuje [Protection] równe [BlessingOfIndexPrescriptEnemy] (maks. 9)\n<color=#ff6000><mark=#ff000040><b><u>\n· traci 1 Licznika za każde 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color>\n\ngdy atakuje, jeżeli [IndexPrescriptTargetToPersonality] zginie albo jednostka nie może już zaatakować tego celu, <color=#ff6000><mark=#ff000040><b><u>używa pozostałych Umiejętności na losowym innym Grzeszniku\n- priorytet: cele z najmniejszym aktualnym HP, z wyjątkiem celów z 1 HP\n- jeżeli losowo wybrany Grzesznik zginie albo jego HP spadnie do 1, powtarza ten efekt na innym Grzeszniku</u></b></mark></color>\n\nzadaje +5% obrażeń [IndexPrescriptTargetToPersonality] za każdy [BlessingOfIndexPrescriptEnemy] (maks. 40%)\n- przy 9 [BlessingOfIndexPrescriptEnemy], zamiast tego zadaje +50% obrażeń wszystkim celom\n\nuruchamia następujące efekty od pierwszej tury po zmianie fazy:\n- na początku tury, zyskuje [BlackNightmare]\n· jeżeli jednostka użyła potężnego ataku w poprzedniej turze, w tej turze nie ma [BlackNightmare]\n- przy zyskiwaniu [BlackNightmare], jeżeli Licznik [StackRienSpecialSkill] jest niższy niż 9, uruchamia specjalny wzorzec",
+      "kr_sha256": "a0424619abb0e5ccb4e684f95bafc0149b3414cfa06d7288615d55a81d0ba0d3",
+      "en_sha256": "2d0f65a1929d477593ffe3039dddd784cb1d72fee028371f48faf17baf4e159d",
+      "origin": "ai"
+    },
+    "dataList[id=138103].flavor": {
+      "pl": "Założyłem rodzinę.\n\n„Nie powinieneś tu teraz być.”\n„Moje dzieło wciąż trwa. Wolałbym rzeźbić je w spokoju, by osiągnęło najdoskonalsze piękno, jakie potrafię wyrzeźbić.”\n„…Nie mów mi, że przyszedłeś sprzeniewierzyć się Nakazowi.”",
+      "kr_sha256": "f72c5c6bdb43c5441c9930beeeb3e9842f3be2fde73636ca2ddc63de4fba12f5",
+      "en_sha256": "fc7c3a5769538860817779ce8924fe463fac604a02165d56693793a9c17da1af",
+      "origin": "ai"
+    },
+    "dataList[id=138103].name": {
+      "pl": "Will of the Prescript",
+      "kr_sha256": "2772e5e7cbf4ee6e6747944190daf44aa09359a070c901d502d6d5212b3b5e5a",
+      "en_sha256": "ad0cc32ff55317bd14b8197758b565a04a576c7f633e4a969bb8a8c633a3a8e7",
+      "origin": "ai"
+    },
+    "dataList[id=138104].desc": {
+      "pl": "na koniec tury: jeżeli [IndexPrescript_Base_2nd] został wykonany w tej turze, przywraca 15 SP i zyskuje 1 [BlessingOfIndexPrescriptEnemy] (1 raz na turę)\n\n<color=#ff6000><mark=#ff000040><b><u>na koniec tury: jeżeli [IndexPrescript_Base_2nd] nie został wykonany w tej turze, zyskuje 8 [KarmaOfIndexRien_2Phase] i traci 1 [BlessingOfIndexPrescriptEnemy]</u></b></mark></color>\n- jeżeli jednostka użyła potężnej Umiejętności w tej turze, zamiast tego zyskuje 12 [KarmaOfIndexRien_2Phase] i traci 2 [BlessingOfIndexPrescriptEnemy]",
+      "kr_sha256": "1f0ad02083d54b696a5e1fe1abb73fc1d3b8c345c8507e9cf2adabf837187296",
+      "en_sha256": "5bf3effc09b0adf9193f9f42eba6c37f7f7e97cf81832a24aa403a14f12a9889",
+      "origin": "ai"
+    },
+    "dataList[id=138104].flavor": {
+      "pl": "Straciłem… rodzinę.\n \n„Nie odchodź…”\n„Nie odchodź… nie… tato… ratuj nas…”",
+      "kr_sha256": "4a63ecc351968e48e21310d2f2b2c01c271b509c095375c8bda903f6bdf7b443",
+      "en_sha256": "fedb446ff2639e2e02eed03bdfc75a0be6377316226e1544755635aff95f9e68",
+      "origin": "ai"
+    },
+    "dataList[id=138104].name": {
+      "pl": "Undertake Prescript",
+      "kr_sha256": "1ffd6ae09a78acfdc55ec11bdaad2f406c96399e90ff1cc4c8d59ea0c0eab2ca",
+      "en_sha256": "60dd326db9fa452a5450e4c34c2fea9c3ca09a1d7a1a6faae7263e4d23114eb4",
+      "origin": "ai"
+    },
+    "dataList[id=138201].desc": {
+      "pl": "otrzymuje o 30% mniej obrażeń od [Combustion], [Laceration], [Vibration] i [Burst] (zaokrąglone w dół)\noprócz tego o 50% mniej podnosi Próg Oszołomienia (zaokrąglone w dół)",
+      "kr_sha256": "1dca200e8193151f34c87ba792f3ad9efa172b53383c8dc18a6224b2bfde33d2",
+      "en_sha256": "71d396f01b2feb77afb46b1f17ef5bccdf6f4efdd4ed94883d56b704cd371336",
+      "origin": "ai"
+    },
+    "dataList[id=138201].name": {
+      "pl": "Vengeance Tattoos [<s>Great Brother</s>]",
+      "kr_sha256": "5106c0cf81118d0de88a4c529da83a4649452c0a5a5da5dfe1833fc596aece0e",
+      "en_sha256": "8d45280f24c610c0a79b0b26b1337ca05c80e5c8398c4e140ed66b9ba24206e5",
+      "origin": "ai"
+    },
+    "dataList[id=138202].desc": {
+      "pl": "przy wejściu na etap, nakłada [VengeanceBookSpider] na wszystkich Grzeszników\n\njeżeli w tej turze jednostka trafiła więcej niż 3 Umiejętności, zyskuje 1 [ReinforcedTattooSpider] w następnej turze za każdą nadwyżkową Umiejętność",
+      "kr_sha256": "1340609db97b03fe21c8fe72ed666abe05cbca36613011a0d6b033d099dc9488",
+      "en_sha256": "939b6ce5008f512c3bb40bd5bd47a03dd13abc5ccfa8f04e62736fd390a12984",
+      "origin": "ai"
+    },
+    "dataList[id=138202].name": {
+      "pl": "The Book of Vengeance",
+      "kr_sha256": "e7992abe5dcb6f1972ff5ef5c3a809bb80f5be5e9e445fd0130077ab10de9fd3",
+      "en_sha256": "3bc6ced95ec279399009a374664f756f043eaade1d64d5215463c8121d7717f8",
+      "origin": "ai"
+    },
+    "dataList[id=138203].desc": {
+      "pl": "po wygranej w Starciu, zyskuje 1 [DaughterEducationSpider]\n\nprzy trafieniu Umiejętnością, zyskuje 1 [DaughterEducationSpider] (1 raz na Umiejętność; nie uruchamia się dla Rozerwanych Monet)\n\npo wygranej w Starciu pierwszą używaną w turze Umiejętnością, zyskuje dodatkowo 1 [DaughterEducationSpider], a ta Umiejętność zyskuje Moc Monety +1",
+      "kr_sha256": "9a5d784f3cd33157c5091f046399fdb289cc852dd504d7e2727c7cf2e219bf55",
+      "en_sha256": "f163eee27a33e9acfde43486c8f2a729436fd2b620f0f4b9a35167145308e31e",
+      "origin": "ai"
+    },
+    "dataList[id=138203].name": {
+      "pl": "My Daughter's Education",
+      "kr_sha256": "70715ce4cd01455e62847b96da8e5b91ce7c7436f957b9d6fd48fc239584ceeb",
+      "en_sha256": "bf31270ae2e2637e1e34c943afc63975a965d833da43258dacb74ba5ae9320a7",
+      "origin": "ai"
+    },
+    "dataList[id=138204].desc": {
+      "pl": "gdy jednostka zostanie trafiona 2 Umiejętnościami, zyskuje 1 [ResentmentSpider] i traci 1 [DaughterEducationSpider] (liczba otrzymanych trafień jest zawsze zliczana)\n\nprzy maksymalnym Liczniku [ResentmentSpider] używa potężnego ataku\n\nna koniec tury, jeżeli HP jednostki poniżej 90%, 60% albo 40%, zyskuje [ResentmentSpider] do maksymalnego Licznika",
+      "kr_sha256": "6239554e0517a2c44786018ac5cdeb9f9093f1d00fbdad471139858b1f9c9229",
+      "en_sha256": "e87e41f2f1d2bf0d7467c191751ea516a8f79210e4fc67b37cb5e6f1f7c7406a",
+      "origin": "ai"
+    },
+    "dataList[id=138204].name": {
+      "pl": "Resentment",
+      "kr_sha256": "0e23f48c859b2ac21f0cb7ccff4c7df88fd6c0b5570d807f016274f12929f61a",
+      "en_sha256": "f41301f3b74a299a0c33f1fb11fd10d4d1ad92bcfcb81c9f62df05cf8d95b6aa",
+      "origin": "ai"
+    },
+    "dataList[id=138205].desc": {
+      "pl": "gdy [MiddleFatherSwordFour] zostaje uwolniony, jednostka zyskuje [MiddleFatherGutsMirror]",
+      "kr_sha256": "4d585001871c8e0ea853e17c8206658d201beb0827c5bc1575277f8d1a572961",
+      "en_sha256": "f039c4773bdb8202a74fb08d2d972c71c846c8594241d9d5b7ea2767c29d18d0",
+      "origin": "ai"
+    },
+    "dataList[id=138205].name": {
+      "pl": "Vengeance Tattoos Max Output... Unseal Lævateinn!",
+      "kr_sha256": "92cfc7e0c4bc32256589819d8c17c7e406121d1d0ad8d9f53eef64a7a1cad508",
+      "en_sha256": "c85b5f574c13dcdb10b260970ba9b1ceeb97b991bbd8571eda1df9436cf6bb6a",
+      "origin": "ai"
+    },
+    "dataList[id=138301].desc": {
+      "pl": "otrzymuje o 30% mniej obrażeń HP i SP od [Combustion], [Vibration], [Burst] i [Sinking]\notrzymuje o 50% mniej obrażeń od [Laceration]\n\nna początku tury, jeżeli jednostka jest Oszołomiona, dochodzi do siebie z Oszołamienia. następnie zyskuje 2 [CrimsonTakeDamageUp] i do następnej tury nie może używać „Installation Art no. 3: Improvised Ribcage” (1 raz na walkę)\n\nna koniec tury, zyskuje 1 [DefenseDown] w następnej turze za każde 4 [Combustion] jednostki (maks. 15)",
+      "kr_sha256": "ed739ce6741563df623f3d9408754e4e2bbc5f3dd87c769c5177ba70d5f3edba",
+      "en_sha256": "74b4b52644a0b6317e8b8d9f4f44a430fcec8dfada890611e118f7007b5e3e9e",
+      "origin": "ai"
+    },
+    "dataList[id=138301].name": {
+      "pl": "All of My Corpus has been Given to Tibia",
+      "kr_sha256": "f906850f61410194e3c7666bd94b55131e6731ab20c101e63cf68c17159b93fa",
+      "en_sha256": "07e0b3e276e8fdcf298520d20d98f9371597be78d5caac5711a70aa6e871d54f",
+      "origin": "ai"
+    },
+    "dataList[id=138302].desc": {
+      "pl": "na koniec tury, nakłada [RedemptionTheRings] w następnej turze na Grzesznika z najwyższą Szybkością",
+      "kr_sha256": "d672598a2fdc07a12babc4a8d6e67ffd811218cd57a03d5d5b0fe5bf53d54ef7",
+      "en_sha256": "3775e2684469b41193c2d713e87a4647a3de2f499305fcd3a5cbc11e6736f2e6",
+      "origin": "ai"
+    },
+    "dataList[id=138302].name": {
+      "pl": "Please, Do Stop Running and Be Seated",
+      "kr_sha256": "9b7977a93b3b6b934fd24698183088d944d6b504c6609a5b084b13b85ac71c47",
+      "en_sha256": "c84049809c0ed5553587181f3e92d6f1b8985f70880add7408cc7ede2287482e",
+      "origin": "ai"
+    },
+    "dataList[id=138306].desc": {
+      "pl": "jeżeli jednostka ma [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>na początku Starcia traci 1 [SupportProtect]</u></b></mark></color> (1 raz na Umiejętność)",
+      "kr_sha256": "35f3311c83296ed6f53ad2af82d32071a26a0e628c67ffabf33d3165e91568d2",
+      "en_sha256": "ce017d7cc4ee94c6e7311d2ff1e3099630d637d705f4e0b3f0867e44bebb8066",
+      "origin": "ai"
+    },
+    "dataList[id=138306].name": {
+      "pl": "Allow Me to Briefly Enjoy My Pupil's Exhibition",
+      "kr_sha256": "784b3e6b2f7540104e87f5d520a9468cc58810b231294b49640dfce557324461",
+      "en_sha256": "0c878e28cc8cc8c002aedb5655f103be7c675136eec5d980d3771c2ffd2ac351",
+      "origin": "ai"
+    },
+    "dataList[id=138801].desc": {
+      "pl": "rozpoczyna walkę ze stanem [HeatingWireOffSpider]\n\nna początku tury, jeżeli jednostka ma 3+ [GotACompliment], zyskuje [HeatingWireOnSpider] i dodatkowo nakłada [Combustion] Umiejętnościami nakładającymi [Laceration]\n- na koniec tury, jeżeli jednostka ma mniej niż 3 [GotACompliment], zmienia [HeatingWireOnSpider] w [HeatingWireOffSpider]\n\njeżeli „Ojciec Środkowego - Matthias” ma [MiddleFatherSwordFour], jednostka nie przechodzi w stan [HeatingWireOffSpider]",
+      "kr_sha256": "db72430a0086eecb900ff5ae0d77c0a80b4cf54b8d0d16a88de275141e8c6405",
+      "en_sha256": "b34efebd98c6e1aa22d9ec769b5c16f0f66bcec958e7b05895fa72a70fe9c8ce",
+      "origin": "ai"
+    },
+    "dataList[id=138801].flavor": {
+      "pl": "„Lubię tatę, bo zawsze mnie chwali i kupuje mi komiksy.”",
+      "kr_sha256": "d2bf32e5ef30b9f120e547a7f6ec492d4ce1620ccbb501b845e710216e6dac94",
+      "en_sha256": "e9668251547cb301eeaf120a401ed2f545d2319ef46be4948bd06a72a596128d",
+      "origin": "ai"
+    },
+    "dataList[id=138801].name": {
+      "pl": "Am I doing this right, Papa?!",
+      "kr_sha256": "4a821da7671587c3b0b24afe08f77f14c19f24c9476b64ef54febbfd3c4ea32e",
+      "en_sha256": "48737ce10457bc8c7538c2197d0f72e2690a015fb9a4754bcf84f597bf7f9fdb",
+      "origin": "ai"
+    },
+    "dataList[id=138802].desc": {
+      "pl": "jeżeli w tej turze jednostka trafiła więcej niż 2 Umiejętnościami, zyskuje 1 [ReinforcedTattooSpiderDaughter] w następnej turze za każdą nadwyżkową Umiejętność",
+      "kr_sha256": "8b4f492841f84d91d8ed81e28c0c907c329dd75ab5889483e5e78efd93e788fc",
+      "en_sha256": "b60a20c256b78b1e8243f28714b9c405a477fc231d652b107dc6f819b79e920a",
+      "origin": "ai"
+    },
+    "dataList[id=138802].flavor": {
+      "pl": "„Czy kiedyś Środkowy uzna mnie za rodzinę, żebym mógł dalej mieszkać z Siostrami i Braćmi?”",
+      "kr_sha256": "66bf6e1ffcad7ce093f67d994b477a21bb8fa16ccd15f33ff07b3823625f194b",
+      "en_sha256": "50a3a836c4cc29b2521281ef89be840dd051eb2d63bf07cc020a591ca235c04e",
+      "origin": "ai"
+    },
+    "dataList[id=138802].name": {
+      "pl": "The Middle Styled Tattoos",
+      "kr_sha256": "861672e0b2bae3a738a92980289596fdccd6ea5acc40257bde31cafa9cc1aae0",
+      "en_sha256": "a70b30aad9624bcb1c1f7a240c040d6a0672dd2f50825918382449046bc56c08",
+      "origin": "ai"
+    },
+    "dataList[id=138803].desc": {
+      "pl": "po wygranej w Starciu, zyskuje 1 [GotACompliment]\n\nprzy trafieniu Umiejętnością, zyskuje 1 [GotACompliment] (1 raz na Umiejętność; nie uruchamia się dla Rozerwanych Monet)\n\npo wygranej w Starciu pierwszą używaną w turze Umiejętnością, zyskuje dodatkowo 1 [GotACompliment], a ta Umiejętność zyskuje Moc Monety +1",
+      "kr_sha256": "2b041412ca6c7bd6a733cd94f14fe17e5b1e5f34435c7dd5dadde9f06d5c4afb",
+      "en_sha256": "f063650e830aa5b4713405717ca69061c023031ba4084a3af9ca287a7cca107c",
+      "origin": "ai"
+    },
+    "dataList[id=138803].name": {
+      "pl": "Praise is the Wind in Her Sail",
+      "kr_sha256": "8ad24b38431823d75cf1f3a31ee1cc718a0d903a484707aff8752b4f771a762a",
+      "en_sha256": "ec267d8c660489137e829196569cc06a753e8c0a4bd6f5f65d3fa0b56d72ddf9",
+      "origin": "ai"
+    },
+    "dataList[id=138804].desc": {
+      "pl": "gdy jednostka zostanie trafiona 2 Umiejętnościami, zyskuje 1 [ResentmentSpiderDaughter] i traci 1 [GotACompliment] (liczba otrzymanych trafień jest zawsze zliczana)\n\nprzy maksymalnym Liczniku [ResentmentSpiderDaughter] używa potężnego ataku\n\nna koniec tury, jeżeli HP jednostki poniżej 80%, 60% albo 40%, zyskuje [ResentmentSpiderDaughter] do maksymalnego Licznika",
+      "kr_sha256": "11f1812edf468068faecd12a56354196dc2524e5e68ebe8015b8f8a63d160ad5",
+      "en_sha256": "926c5191e22c0e36ecf40df1d9c770669100b209d1cdd99c4dc5f78ce28052bd",
+      "origin": "ai"
+    },
+    "dataList[id=138804].name": {
+      "pl": "I'm pretty sure the Middle never forgets",
+      "kr_sha256": "5677a7932d9e4e839c8a5b8cc8a386dd01c17083bed0997d8572b83cff66ad39",
+      "en_sha256": "50ddbfe104d9b99464f68fa3ac1a167b8b8082640387115264a9854a0002af5a",
+      "origin": "ai"
+    },
+    "dataList[id=141704].desc": {
+      "pl": "jeżeli jednostka ma [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>na początku Starcia traci 1 [SupportProtect]</u></b></mark></color> (1 raz na Umiejętność)",
+      "kr_sha256": "35f3311c83296ed6f53ad2af82d32071a26a0e628c67ffabf33d3165e91568d2",
+      "en_sha256": "ce017d7cc4ee94c6e7311d2ff1e3099630d637d705f4e0b3f0867e44bebb8066",
+      "origin": "ai"
+    },
+    "dataList[id=141704].name": {
+      "pl": "Visitors Must Respect the Rules of the Gallery",
+      "kr_sha256": "5410e9f78b0b71ceffcf149d579495929dabe77415d1b35f93b8dd61caf6823f",
+      "en_sha256": "d593d833270c7afa712d37bf98d667902e4a5907a4a8f6de7f796ef348d37622",
+      "origin": "ai"
+    },
+    "dataList[id=141706].desc": {
+      "pl": "gdy Ojciec Serdecznego wchodzi na etap, jeżeli SP jednostki poniżej 20, przywraca SP do 20",
+      "kr_sha256": "9d87a0ad1513e37e7c6cfdf5e76d5ea29cd7ea5cb882e48f47ab67bb70ab97ad",
+      "en_sha256": "64879bc846c1340601077ea87a72e17e376de3713a5324ddc26b36daa9f3732c",
+      "origin": "ai"
+    },
+    "dataList[id=141706].name": {
+      "pl": "With this Artwork, I will Prove Myself before the Maestro",
+      "kr_sha256": "ea3180772cb49b793a5eedd1e004dc8bec75d6da990a9311105675fa28ff190a",
+      "en_sha256": "98bd07ae3c92e36c9644c24bd6e69180bcf6fa343787b0d8198e311c040e8e2c",
+      "origin": "ai"
+    },
+    "dataList[id=141801].desc": {
+      "pl": "- na początku tury, zyskuje 3 [SupportProtect]\n- jeżeli Ojciec Kciuka wygra Starcie i użyje Ataku na cel, następuje po nim „Colpi Sottani” jako Atak Jednostronny przeciwko temu samemu celowi (2 razy na turę)",
+      "kr_sha256": "471c9f8d64e3458ace606507a78a1218eb7e5c47a7a1a58ce776d94fac1cf36f",
+      "en_sha256": "0f6318673fd2959dbfd3bb73c8bfbf85ea9a6e7b96fa54391a0cd0f9578fac3f",
+      "origin": "ai"
+    },
+    "dataList[id=141801].flavor": {
+      "pl": "„Może teraz mógłbym ją zabić. Może to jest ta chwila.”\n\nZnowu ta sama myśl ogarnia Lucio, gdy pochyla się nad śpiącą mistrzynią.\nAle ten impuls pozostaje nierozwiniętą myślą — strach zrodzony z doświadczenia i wdzięczność za wybawienie z Zaułków trzymają go na smyczy.\nJednak jego uraza jest zbyt głęboka. Lucio składa sobie obietnicę, nawet gdy bez cienia fałszu przysięga pełną wierność:\n„Gdy ta walka się skończy, zabiję ją. Wykłuję jej drugie oko i będę ją kłuć i ciąć, raz za razem, aż przestanie się ruszać.”\nPo raz pierwszy w oczach chłopca pełnego siniaków zapłonął ogień.",
+      "kr_sha256": "b3c41f9ae252fb4869528f06c0ad793bd2a72a2a2e97eedfe3db5638afd1ff46",
+      "en_sha256": "a736cc979c7478f5bbef3badd2ed3bd17d5508fadf1b2f45400ae46b6567e38f",
+      "origin": "ai"
+    },
+    "dataList[id=141801].name": {
+      "pl": "Desperate Struggle",
+      "kr_sha256": "3e2f230814aad6431449e4dace8a76d89889bed29b18e9a29f84c86d22588a02",
+      "en_sha256": "ebac85778c3d90a6fe9c50c82dfbc69e978b0cf4713efad0b051b59326eeef10",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=10].content": {
+      "pl": "Dobry Sierżant, Zły Sierżant",
+      "kr_sha256": "73848897b15634969cf9bbe3bf1c036aaad64bbc44894a93f84e312f9a0323a1",
+      "en_sha256": "da7653af61a4277c05643962011b31dd5929c20d6553d87c38bf548e69bf9bdf",
+      "origin": "ai"
+    },
+    "dataList[id=11].content": {
+      "pl": "Zniszczony, ale Nie Pokonany",
+      "kr_sha256": "7d2ee169e312422930626174e9188235ca40f9eea27957a4b5f6f5c7345bd61a",
+      "en_sha256": "91ca7953f93d8d04d40f1ad1a6a44a17ee84cc3f03b0195051073a38b325afca",
+      "origin": "ai"
+    },
+    "dataList[id=12].content": {
+      "pl": "W Pełni Przygotowany",
+      "kr_sha256": "6306842bc4d3dd0cebb92d5e586e3a84a3fc08d6c78d3057b3afed32748b84ad",
+      "en_sha256": "e850b74be9505fbdb081b09b331befc185f8418d22b59107bd3fb4b7659fdb00",
+      "origin": "ai"
+    },
+    "dataList[id=13].content": {
+      "pl": "Geniusz i Głupek Różnią się O Włos",
+      "kr_sha256": "50d8328871d3c24a954a9acfaf505f96368499ef4a287c0f7c3cf49c8612c871",
+      "en_sha256": "9deea96d3be098805f93e6c526511ae83ff5ced87236a3fd9595ef6a7ec3da5d",
+      "origin": "ai"
+    },
+    "dataList[id=14].content": {
+      "pl": "Rodzina jest Ważna",
+      "kr_sha256": "4a44d8b6b63e2cd6c4be72e9f8f94a88caa05c304901207726a4d2c05950ea3e",
+      "en_sha256": "6e1b5caeef364d436e3d7b982cd2ee7af58251719691fd706a9dad0e24bb35b2",
+      "origin": "ai"
+    },
+    "dataList[id=15].content": {
+      "pl": "Odwaga, by Stawić Czoła",
+      "kr_sha256": "8fffcde4f27e9ab68ca3d3f2ed5a2beb69d77c0d8e4a7f94d64123f717b5d1af",
+      "en_sha256": "817c125fd75e92a2f514f193101aa1e5b0485e12fdd18cce3c48782bcd63cc49",
+      "origin": "ai"
+    },
+    "dataList[id=16].content": {
+      "pl": "Czyny Mówią Same",
+      "kr_sha256": "d50984381a8da20482893ccc954ca6a02ee1eda6cec69f7edc22fdaa29e06351",
+      "en_sha256": "2ac7250bf15d2e693a18ebc8524f979b35ff9637d5bcf34dc638f7f0242cd878",
+      "origin": "ai"
+    },
+    "dataList[id=17].content": {
+      "pl": "Zadymiony Kącik",
+      "kr_sha256": "2033b87b0654c4d35704886b02f2b553cb8d153999cadceb27966aafbc4c2ad6",
+      "en_sha256": "05aa19db09204bdc754b10dcd9f32570614680c1a51240892ceacd71e821ce28",
+      "origin": "ai"
+    },
+    "dataList[id=18].content": {
+      "pl": "Pracownicy Miesiąca w Skrzydle",
+      "kr_sha256": "7c4af88264dd5b5f8fab324964d825e024398eb475b4974e0d7b8fa2742dc7fc",
+      "en_sha256": "eec098af495427d7c788ec64574228c3e8336bf3d5de5870bb93f4e2e6890c1e",
+      "origin": "ai"
+    },
+    "dataList[id=19].content": {
+      "pl": "Rozkaz W Górę, Wykonanie W Dół.",
+      "kr_sha256": "6150612c05fe83ce53a909e687a6e7ac746350982c3a5880f0acc8e88f30751d",
+      "en_sha256": "f70d4775c60d091ab1d77428a244c7a7ff3eff525db2598ba73591b6f4bad33b",
+      "origin": "ai"
+    },
+    "dataList[id=1].content": {
+      "pl": "Zataksydermizowane Geniusze",
+      "kr_sha256": "f77776bb8acaf830fbaa2497a8d4d8613d27051dfd05b8ceb2ff3c984b78e5e1",
+      "en_sha256": "244c58813dfe43687db7d55b5dcc86fe5d9e9e923247906f850100e6336c8f54",
+      "origin": "ai"
+    },
+    "dataList[id=20].content": {
+      "pl": "Estetyka Łasuchów",
+      "kr_sha256": "f78676a29fbeaea5c2dc216fb1c99d2cb70d897d9149300e905e90535436b848",
+      "en_sha256": "e9442c1ab8574b3d55a66c84aae0707e6c4d004a3a54fd5a9918f371d4258fea",
+      "origin": "ai"
+    },
+    "dataList[id=21].content": {
+      "pl": "Wczorajszy Wróg, Dzisiejszy Towarzysz",
+      "kr_sha256": "912a6fce14cf52111f7b444151a73d733f341168a31b7b8378a8351d52d0072a",
+      "en_sha256": "cdf1a88d5f1ea68eff832e03dc2ab0936d9ddbb4a71c063aa39358188f9489b7",
+      "origin": "ai"
+    },
+    "dataList[id=22].content": {
+      "pl": "Opowieści Na Ostrzach",
+      "kr_sha256": "c456d3f3fccea030a7bfc6b419240b73984079104e6bb167bed3eb34333cbe5c",
+      "en_sha256": "68ad90c1f017aea85a974b84ea4caca4dab9d536e087e45018116c30d4255249",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Sekrety Stowarzyszeń Fikserów... dla opornych!",
+      "kr_sha256": "e5036dee3dc63e49297cf3964de900d19b02a7975273c7a53328cbdc43c84884",
+      "en_sha256": "2713c84e2aba7cebf2f8c01db83448547db1606b6dda94831222a7fb56e94386",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Po Porannej Prasie",
+      "kr_sha256": "9e1254bed4f9f6e368f1773e9cce91ec2de2045df91732453f49dbcba5e93a5f",
+      "en_sha256": "2fb1988f8069029dff41b058710097a347913e3193f1c76c3d2bf0a3a46bb6f0",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Życie w Korpo",
+      "kr_sha256": "63c761cd7f44e1bfc4d98e4577d4ad6a757f86e56825e25595274b584a0bca58",
+      "en_sha256": "6451a293b5b7078ede7526217a8ccc91b1cc637edf6fba6c08b83cb1fbea2398",
+      "origin": "ai"
+    },
+    "dataList[id=5].content": {
+      "pl": "Wspólna Bieda",
+      "kr_sha256": "4d39fef86d4e8125e9786ae6226786904d569037eefa1ba292e4e922cfb66024",
+      "en_sha256": "35acea8a87d936be32b8170423a18f95f6f5e9a415799b0fbdb0c559813f3855",
+      "origin": "ai"
+    },
+    "dataList[id=6].content": {
+      "pl": "Prawo Daleko, Pięści Poblisko",
+      "kr_sha256": "baa45b9ec495615dbd1bddce21b92ba5e523c6699ca42f83ba3d0a3d3736286c",
+      "en_sha256": "de7ad9f84db001ec37c2b3e43e7304a03946f8ef5588a134e1e6f66a69b13174",
+      "origin": "ai"
+    },
+    "dataList[id=7].content": {
+      "pl": "Wszechwiedzący Punkt Widzenia Artysty",
+      "kr_sha256": "0e5083bace5841539c2027f0cd23c0e61513f516a85b6218091f72903a161144",
+      "en_sha256": "296f9195c75cf38a4d6c7ba4a554c3e1e4af240859f79d5b7d9609bcd563d070",
+      "origin": "ai"
+    },
+    "dataList[id=8].content": {
+      "pl": "Potrzebna Jest Łagodność",
+      "kr_sha256": "22d487785e9c5ee21d55de0328821a27313fca81e3c3a6e28dc3de212151d612",
+      "en_sha256": "a3c53932184d5416a8e7592556c36592ef36d6cc91544a0323eb107f527fb5d4",
+      "origin": "ai"
+    },
+    "dataList[id=9].content": {
+      "pl": "Duet Rozrywkowy",
+      "kr_sha256": "5ca37cf17ab3779f1f384783a98da3836aeeecb64ba54c6945adc0bd1134762c",
+      "en_sha256": "6c837ce77f6abdcfdd5266a5960338a376bf68bf88efe051baa4c4064519e4df",
+      "origin": "ai"
+    }
+  }
+}

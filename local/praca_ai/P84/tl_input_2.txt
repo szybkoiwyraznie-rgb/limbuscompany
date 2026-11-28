@@ -1,0 +1,96 @@
+222||Umiejętność wroga [857703] (ulepszenie 1) — opis] [WinDuel] 대상의 [Combustion]만큼 [Combustion] 부여.\n[WhenUse] 대상의 [Combustion] 횟수 2 증가.|[WinDuel] Inflict [Combustion] equal to [Combustion] on target.\n[WhenUse] Inflict +2 [Combustion] Count.
+223||Umiejętność wroga [857703] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [MRcAiBb]가 3 이상이면, [Combustion] 횟수 2 증가, [Combustion] 10, [MRcAiBc]를 2 부여.|[OnSucceedAttack] If target has 3+ [MRcAiBb], inflict +2 [Combustion] Count, 10 [Combustion], and 2 [MRcAiBc].
+227||Umiejętność wroga [857704] (ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion]이 7이상이면, 이 스킬의 합 위력 +2|[WhenUse] If target has 7+ [Combustion], this Skill gains Clash Power +2
+231||Umiejętność wroga [857704] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 가장 느린 적에게 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여|[OnSucceedAttackHead] Against the enemy with the slowest Speed, inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn
+233||Umiejętność wroga [857705] (ulepszenie 1) — opis] (이번 턴에 홍염나방이 사용할 분노 스킬 수 * 2)만큼 합 위력이 증가\n[WhenUse] 모든 적에게 (홍염나방이 사용할 분노 스킬 수 * 2)만큼 [Combustion] 부여|Gain Clash Power equal to (# of Wrath Skills that the Ardor Blossom Moth will use this turn x2)\n[WhenUse] Inflict (# of Wrath Skills that the Ardor Blossom Moth will use this turn x2) [Combustion] to all enemies
+235||Umiejętność wroga [857705] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 가장 느린 적에게 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여, [Combustion] 횟수 증가|[OnSucceedAttackHead] Against the enemy with the slowest Speed, Inflict [Combustion] and [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn
+239||Umiejętność wroga [857705] (ulepszenie 1) — moneta 3, efekt 2 — opis] [EndSkill] 이 피해로 흐트러짐 상태가 된 적에게 [Combustion] 10 부여.|[EndSkill] Inflict 10 [Combustion] against targets that have been Staggered by this
+241||Umiejętność wroga [857706] (ulepszenie 1) — opis] [WhenUseEvade] 대상에게 [Combustion] 4 부여.\n[OnSucceedEvade] 다음 턴에 [MRcAiBa] 1 얻음.|[WhenUseEvade] Inflict 4 [Combustion].\n[OnSucceedEvade] Gain 1 [MRcAiBa] next turn.
+243||Umiejętność wroga [857712] (ulepszenie 1) — opis] [CantDuel]\n[CantChangeTarget]\n이 공격 스킬이 가하는 피해는 0이 됨.|[CantDuel]\n[CantChangeTarget]\nDamage dealt by this Attack Skill is fixed to 0.
+245||Umiejętność wroga [858501] (ulepszenie 1) — nazwa] 꿰뚫을지니|It Shall Penetrate
+248||Umiejętność wroga [858502] (ulepszenie 1) — nazwa] 천천히 스며들지니|It Shall Be Insidious
+249||Umiejętność wroga [858502] (ulepszenie 1) — opis] [WinDuel] 코인 효과로 부여하는 [Vulnerable]과 [Binding]이 2배가 됨.|[WinDuel] Double the [Vulnerable] and [Binding] inflicted by Coin effects.
+255||Umiejętność wroga [858503] (ulepszenie 1) — nazwa] 쥘지어다|It Shall Grip
+259||Umiejętność wroga [858503] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackDmgUp] 1 얻음|[OnSucceedAttackHead] Gain 1 [AttackDmgUp] next turn
+260||Umiejętność wroga [858504] (ulepszenie 1) — nazwa] 옥죄이니|It Shall Constrict
+261||Umiejętność wroga [858504] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [MRcAmBb] 3 부여|[OnSucceedAttack] Inflict 3 [MRcAmBb]
+265||Umiejętność wroga [858505] (ulepszenie 1) — nazwa] 지나칠지니|It Shall Shun
+266||Umiejętność wroga [858505] (ulepszenie 1) — opis] 손아귀가 생존해 있다면, 최종 위력 +5|If there is a surviving 'Grasp' unit, Final Power +5
+267||Umiejętność wroga [858505] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 8 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 8 [Laceration] and +3 [Laceration] Count
+270||Umiejętność wroga [858506] (ulepszenie 1) — nazwa] 모든 것을 경멸할지어다|And it Shall Contempt All
+271||Umiejętność wroga [858506] (ulepszenie 1) — opis] 손아귀가 생존해 있다면, 최종 위력 +5\n[EndBattle] 모든 적의 시선 제거|If there is a surviving 'Grasp' unit, Final Power +5\n[EndBattle] Remove [MRcAmBc] from all enemies
+275||Umiejętność wroga [858506] (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttackHead] 30만큼 흐트러짐 손상|[OnSucceedAttackHead] Raise Stagger Threshold by 30
+277||Umiejętność wroga [858507] (ulepszenie 1) — opis] [OnSucceedEvade] 대상에게 정신력 4 피해|[OnSucceedEvade] Deal 4 SP damage
+279||Umiejętność wroga [857101] (ulepszenie 1) — opis] [CantDuel][CantChangeTarget]\n대상의 피해를 자신이 받음. 다음 턴에 흐트러짐.\n[AaCePcBa]이 없는 무작위 적에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복|[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to Max HP
+280||Umiejętność wroga [857101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 최대 체력을 5%만큼 감소.|[OnSucceedAttack] This unit's max HP decreases by 5%.
+285||Umiejętność wroga [857102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [Combustion] 5 부여, [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Combustion] and +2 [Combustion] Count on target
+288||Umiejętność wroga [858201] (ulepszenie 1) — opis] [StartBattle] 최대 체력의 10%만큼 보호막을 얻음. 퀴케그의 자아 1 당 최대 체력의 0.3%만큼 보호막을 추가로 얻음.\n 보호막이 있는동안 피격 시 대상의 정신력 5 감소.\n피격 시 퀴케그의 자아 10당 스킬 1회 재사용|[StartBattle] Gain 10% of Max HP as Shield. For every Queequeg's Ego, gain additional 0.3% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego
+292||[refraction3] Pasywka wroga [858801] — opis] 턴 종료 시 본체 체력이 50% 미만이면, 다음 턴에 [Enhancement] 1을 얻음. (전투 당 1회 발동)|Turn End: At 50%- Core HP, gain 1 [Enhancement] next turn. (once per encounter)
+294||[refraction3] Pasywka wroga [857801] — opis] 턴 종료 시 흐트러짐 상태인 적이 흐트러짐 상태에서 풀려나는 대신 다음 턴에 (흐트러짐 단계 × 8)만큼 [Laceration], [Reduction] 2를 얻음.|Turn End: un-Stagger enemies, and inflict (Stagger LV x 8) [Laceration] and 2 [Reduction] on them next turn.
+295||[refraction3] Pasywka wroga [857802] — nazwa] 얽혀오는 뿌리|Binding Roots
+296||[refraction3] Pasywka wroga [857802] — opis] 턴 종료 시, 목화를 보유한 모든 적에게 다음 턴에 [Binding] 1 부여|Turn End: Apply 1 [Binding] to all enemies with Gossypium
+298||[refraction3] Pasywka wroga [857803] — opis] 남은 본체 체력이 20%이하일 때, 턴 종료 시 [MRcAfBb] 상태가 됨. 이후 [MRcAfBb] 상태가 해제되지 않음.|At 20%- Core HP, become [MRcAfBb] at Turn End. This [MRcAfBb] does not expire.
+299||[refraction3] Pasywka wroga [857804] — nazwa] 피를 머금을|To be Drenched in Blood
+300||[refraction3] Pasywka wroga [857804] — opis] 공격 스킬로 적중 시 대상의 [Laceration]만큼 체력 회복.|When hitting a target with an Attack Skill, heal HP equal to [Laceration] on target.
+302||[refraction3] Pasywka wroga [857805] — opis] 흩뿌려지는 목화로 합 패배 시, 다음 턴에 뒤덮혀오는 목화를 사용함.|If this unit loses a Clash using Scattering Gossypium, use Encroaching Gossypium next turn.
+303||[refraction3] Pasywka wroga [857806] — nazwa] 흐드러지는 목화|Flowering Gossypium
+304||[refraction3] Pasywka wroga [857806] — opis] 몸통 부위 파괴되면, 모든 적의 목화 절반 감소.|When the Body Part is broken, halve the value of Gossypium on all enemies.
+306||[refraction3] Pasywka wroga [857701] — opis] 불씨 수만큼 다른 속성의 스킬 분노 속성으로 변경함.|Convert a number of non-Wrath Affinity Skills equal to the value of Ember into Wrath Affinity.
+308||[refraction3] Pasywka wroga [857702] — opis] 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 적중 시 [Combustion] 부여.\n적중시 (이번 턴에 홍염나방이 사용할 분노 스킬 수 X 2)만큼 체력 회복함.|On Hit, inflict [Combustion] equal to (# of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn).\nOn Hit, heal HP equal to (# of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn x 2).
+312||[refraction3] Pasywka wroga [857704] — opis] 홍염살을 사용할 때, 환상체의 [MRcAiBa]가 0개라면 불씨 지피기를 사용함.|When using Ardor Blossom Star, if the Abnormality has 0 [MRcAiBa], use Stoke the Flames.
+313||[refraction3] Pasywka wroga [858501] — nazwa] 경멸과 시선|Contempt and Gaze
+314||[refraction3] Pasywka wroga [858501] — opis] 대상에게 손 부위 피격당 [MRcAmBc]을 1 부여. (턴 당 최대 3회)\n[MRcAmBa]이 있다면, [MRcAmBc] 얻을 수 없음.\n[MRcAmBa]이 있는 손아귀가 파괴되면, 다음 턴에 환상체 모든 부위에 [Vulnerable] 3 얻음.|Inflict 1 [MRcAmBc] against the target every time the 'Hands' Part is hit. (3 times per turn)\nUnits with [MRcAmBa] cannot gain [MRcAmBc].\nWhen 'Grasp' unit with [MRcAmBa] is broken, all Abnormality Parts gain 3 [Vulnerable] next turn.
+316||[refraction3] Pasywka wroga [858502] — opis] 현재 본체 체력이 최대 체력의 30%이하가 되면, 모든 인격의 [MRcAmBa], [MRcAmBc]을 제거하고 모든 인격에게 [MRcAmBd]를 부여함.|When the Core HP drops below 30% of Max HP, remove [MRcAmBa] and [MRcAmBc] from all Identities; then, inflict [MRcAmBd] against all Identities.
+317||[refraction3] Pasywka wroga [858503] — nazwa] 손아귀 분쇄|Crushing Grasp
+318||[refraction3] Pasywka wroga [858503] — opis] 특정 턴마다, [MRcAmBbDisplay]를 가지고 있는 인격이 없다면, 분쇄를 사용함.|On certain turns, if none of the enemies have [MRcAmBbDisplay], use Crush.
+319||[refraction3] Pasywka wroga [858504] — nazwa] 덧붙여진 경멸|Compounded Contempt
+320||[refraction3] Pasywka wroga [858504] — opis] 턴 종료 시 [Combustion], [Laceration], [Vibration], [Burst], [Sinking]이 10 이상 부여되어있으면, 다음 턴에 부여된 수치 10 당 각 상태이상마다 [CrimsonTakeDamageUp], [ScarletTakeDamageUp], [AmberTakeDamageUp], [ShamrockTakeDamageUp], [AzureTakeDamageUp] 1을 얻음. (최대 3)|Turn End: Gain 1 [CrimsonTakeDamageUp], [ScarletTakeDamageUp], [AmberTakeDamageUp], [ShamrockTakeDamageUp], or [AzureTakeDamageUp] (Max 3) for every 10 Potency of [Combustion], [Laceration], [Vibration], [Burst], or [Sinking] on self, respectively.
+321||[refraction3] Pasywka wroga [858505] — nazwa] 꿰뚫린 시선|Penetrated Gaze
+322||[refraction3] Pasywka wroga [858505] — opis] 크리티컬 적중으로 피격 시 스킬당 1회 [IndigoTakeDamageUp] 1을 얻음 (최대 3)\n[Charge] 횟수를 8 이상 소모한 스킬에 피격 시 스킬당 1회 [VioletTakeDamageUp] 1을 얻음. (최대 3)|When hit with a Critical Hit, gain 1 [IndigoTakeDamageUp] once per Skill (Max 3)\nWhen hit with a Skill that consumed 8+ [Charge] Count, gain 1 [VioletTakeDamageUp] once per Skill. (Max 3)
+324||[refraction3] Pasywka wroga [860401] — opis] 턴 종료 시, [MRcAmBbDisplay] 수치가 2이하라면 대상의 최대 체력 절반만큼 피해를 줌. 경멸의 나선 모든 부위를 피해만큼 회복시킴.|Turn End: at 2 or fewer [MRcAmBbDisplay] Stack, deal damage equal to half of the target's Max HP. Then, all Parts of Spiral of <noparse>Contempt</noparse> heals the same amount of HP as the damage dealt by this effect.
+325||[refraction3] Pasywka wroga [860402] — nazwa] 구출|Rescue
+326||[refraction3] Pasywka wroga [860402] — opis] 경멸을 가지고 있는 상태로 손아귀가 되었다면, 인격에 의해 손아귀가 파괴될 때, 턴 종료 시 모든 인격의 경멸 없앰.|Turn End: If this unit had <noparse>Contempt</noparse> when getting Grasped, remove <noparse>Contempt</noparse> from all Identities when the Grasp is broken by an Identity.
+328||[refraction3] Pasywka wroga [857301] — opis] 턴 시작시 자신의 녹색 점액이 0이면, 흐트러짐 상태가 됨. 진주 부위가 흐트러짐 상태일 때, 진주 부위의 속성 내성이 0.5씩 감소함.\n흐트러짐이 풀릴 때, 녹색 점액 10을 얻음.|Turn Start: If at 0 Green Slime, become Staggered. When the Pearl Part is Staggered, Pearl Part loses all Affinity Resistances by 0.5.\nGain 10 Green Slime when recovering from Stagger.
+330||[refraction3] Pasywka wroga [857302] — opis] 잠식 액체를 사용하는 턴에 속도가 3이 됨.|Fix this Part's speed to 3 for a turn when using Devouring Fluid.
+332||[refraction3] Pasywka wroga [857401] — opis] 턴 종료시, 모든 적에게 (4 + 살아있는 녹색 점액)만큼 독 부여.|Turn End: Apply (4 + Surviving Green Slime) Poison to all enemies.
+334||[refraction3] Pasywka wroga [857501] — opis] 2턴부터 매 턴마다 형광등 부위가 파괴 상태가 아니라면, 이번 턴에 호흡 10을 얻음. 호흡 횟수 3 증가.\n2턴부터 매 턴마다 형광등 부위가 파괴 상태라면, 이번 턴에 마비 1. 피해량 감소 1 얻음.|Starting from turn 2, gain 10 Poise this turn if the Fluorescence Part isn't broken. Gain +3 Poise Count.\nStarting from turn 2, gain 1 Paralyze and 1 Damage Down this turn if the Fluorescence Part is broken.
+335||[refraction3] Pasywka wroga [858601] — nazwa] 연결된 고통|Connected Hurt
+336||[refraction3] Pasywka wroga [858601] — opis] 사망한다면, 연결된 인어들에게 체력 10의 피해를 주고 다음 턴에 공격 위력 증가 2를 부여.|Upon death, deal 10 damage to connected Mermaids. Then, apply 2 Damage Up next turn.
+337||[refraction4] Wróg / część [8605] — nazwa] 굴절된 어느 날의 초상|Refracted Portrait of a Certain Day
+339||[refraction4] Wróg / część [8606] — nazwa] 굴절된 초상화|Refracted Portrait
+343||[refraction4] Wróg / część [8608] — nazwa] 굴절된 꿈꾸는 전기양|Refracted Dreaming Electric Sheep
+345||[refraction4] Wróg / część [8628] — nazwa] 굴절된 발전기|Refracted Generator
+347||[refraction4] Wróg / część [8624] — nazwa] 굴절된 심취한 약지 연구원?|Refracted Enamored Researcher of the Ring?
+348||[refraction4] Wróg / część [8625] — nazwa] 굴절된 광적인 약지 연구원?|Refracted Mad Researcher of the Ring?
+349||[refraction4] Wróg / część [8626] — nazwa] 굴절된 점묘파 약지 연구원?|Refracted Pointillist Researcher of the Ring?
+350||[refraction4] Wróg / część [8627] — nazwa] 굴절된 넬리|Refracted Nelly
+351||[refraction4] Wróg / część [8618] — nazwa] 굴절된 빼앗겨 울부짖는 힌들리|Refracted Hindley, The Reaved Lamenter
+352||[refraction4] Wróg / część [8611] — nazwa] 굴절된 날렵한 에드가 가문 버틀러|Refracted Swift Edgar Family Butler
+353||[refraction4] Wróg / część [8612] — nazwa] 굴절된 재빠른 에드가 가문 버틀러|Refracted Fast Edgar Family Butler
+354||[refraction4] Wróg / część [8613] — nazwa] 굴절된 노련한 에드가 가문 버틀러|Refracted Veteran Edgar Family Butler
+355||[refraction4] Wróg / część [8614] — nazwa] 굴절된 교묘한 에드가 가문 버틀러|Refracted Shifty Edgar Family Butler
+356||[refraction4] Wróg / część [8615] — nazwa] 굴절된 숙달된 에드가 가문 버틀러|Refracted Trained Edgar Family Butler
+358||[refraction4] Wróg / część [8609] — nazwa] 굴절된 험악한 워더링하이츠 버틀러|Refracted Hostile Wuthering Heights Butler
+359||[refraction4] Wróg / część [8610] — nazwa] 굴절된 단련한 워더링하이츠 버틀러|Refracted Trained Wuthering Heights Butler
+360||[refraction4] Wróg / część [8617] — nazwa] 굴절된 조세핀|Refracted Josephine
+361||[refraction4] Wróg / część [8629] — nazwa] 굴절된 묶인 왕|The Refracted King in Binds
+362||[refraction4] Wróg / część [8619] — nazwa] 굴절된 결연한 흑운회 조직원|Refracted Determined Kurokumo Henchman
+363||[refraction4] Wróg / część [8620] — nazwa] 굴절된 긴장한 흑운회 조직원|Refracted Tense Kurokumo Henchman
+364||[refraction4] Wróg / część [8621] — nazwa] 굴절된 능숙한 흑운회 조직원|Refracted Adept Kurokumo Henchwoman
+365||[refraction4] Wróg / część [8622] — nazwa] 굴절된 나른한 흑운회 조직원|Refracted Tired Kurokumo Henchwoman
+366||[refraction4] Wróg / część [8623] — nazwa] 굴절된 흑운회 부조장 쥰|Refracted Kurokumo Clan Captain Jun
+367||[refraction4] Wróg / część [8280] — nazwa] 굴절된 질투 죄종|Refracted Peccatulum Invidiae
+369||[refraction4] Wróg / część [8292] — nazwa] 굴절된 질투 죄종?|Refracted Peccatulum Invidiae?
+371||Umiejętność wroga [860501] (ulepszenie 1) — nazwa] 이곳에서 나가세요|Leave This Place
+372||Umiejętność wroga [860501] (ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking]이 4 이상이면, 합 위력 +1|[WhenUse] If target has 4+ [Sinking], Clash Power +1
+374||Umiejętność wroga [860502] (ulepszenie 1) — nazwa] 그런 표정은 짓지 마시죠|Don't Make That Face
+375||Umiejętność wroga [860502] (ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 횟수가 3 이상이면, 합 위력 +1|[WhenUse] If target has 3+ [Sinking] Count, Clash Power +1
+378||Umiejętność wroga [860503] (ulepszenie 1) — nazwa] 당신은 누군가요?|Who Might You Be?
+379||Umiejętność wroga [860503] (ulepszenie 1) — opis] [UninvitedGuest] 대상 우선 공격\n대상이 [UninvitedGuest]을 가지고 있을 경우, 이 스킬에서 부여하는 [Sinking], [Sinking] 횟수 +1|Prioritizes [UninvitedGuest]\nIf target has [UninvitedGuest], inflict +1 more [Sinking] Potency and Count with this Skill
+384||Umiejętność wroga [860503] (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상에게 [UninvitedGuest]이 있다면, 다음 턴에 [Paralysis] 2 부여|[OnSucceedAttack] If target has [UninvitedGuest], Inflict 2 [Paralysis] next turn
+385||Umiejętność wroga [860504] (ulepszenie 1) — nazwa] 불청객인가요?|Interloper, Are You?
+392||Umiejętność wroga [860505] (ulepszenie 1) — nazwa] 불청객은 나가세요|Leave, Interloper
+393||Umiejętność wroga [860505] (ulepszenie 1) — opis] [UninvitedGuest] 대상 우선 공격\n[UninvitedGuest]을 가진 적만큼 가중치 증가\n[WhenUse] [UninvitedGuest]을 가진 적만큼 합 위력이 증가|Prioritizes [UninvitedGuest]\nGain Atk Weight equal to number of enemies with [UninvitedGuest]\n[WhenUse] Gain Clash Power equal to the number of enemies with [UninvitedGuest]
+396||Umiejętność wroga [860505] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [SinkingSurge]|[OnSucceedAttack] Cause [SinkingSurge]
+397||Umiejętność wroga [860506] (ulepszenie 1) — nazwa] 나의 주인님|My Master
+398||Umiejętność wroga [860506] (ulepszenie 1) — opis] [DefeatDuel] 연결된 초상화의 모습을 보여줌|[DefeatDuel] Reveals the Portrait attached to this Skill Slot

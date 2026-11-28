@@ -1,0 +1,84 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Z mrożącym krew w żyłach odgłosem bok autobusu drga i rozchyla się na pół.",
+      "kr_sha256": "e126e9e13038e69841e1be53cd9bbc4e00f89faec3ddf9d5759b122f9388e551",
+      "en_sha256": "9ab542568c012c7d289c61699bd993e9a7313493559ead6921e2cad21d4990f2"
+    },
+    "dataList[id=10].content": {
+      "pl": "Może i z nimi jest podobnie - tak sobie myślałem, ale…",
+      "kr_sha256": "0d24ebbdea9a54c8137c229f11c29017f7f80098142a2c15310acd77f67e28c5",
+      "en_sha256": "9a36d7c87e8eca06326b7faff4b121196bbd8fafcc54f6517f83455bd639de34"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ach…",
+      "kr_sha256": "a146d5d856831953da0688760cfdfe5c57d9d1deda605e8b5a7f2b81ef5aaf81",
+      "en_sha256": "085283be600618d2027f86568948c0664f7063b79f1d7cffbcaedfdedca6a9b5"
+    },
+    "dataList[id=12].content": {
+      "pl": "Sinclair spuścił głowę, jakbym trafił w czuły punkt.",
+      "kr_sha256": "ae40215433b60303cc33c126d2057eb3542a8fe00bcb65163d8ddca021a5ab63",
+      "en_sha256": "f5e3c27552ef358b416510cde70a962a002509919519102e795e51bf398279ed"
+    },
+    "dataList[id=13].content": {
+      "pl": "Tak, ma pan rację. To był mój wybór. Do wszystkiego się przyzwyczaję… prawda?",
+      "kr_sha256": "076361f460454b65b127162b111ab133956d04ccf9e61ac5d8b5c6c3fff5f40f",
+      "en_sha256": "0f8adadfc9a599eed839efeb6d2e6b13ce061e571ecf151eb07940a80ecfaeb3"
+    },
+    "dataList[id=14].content": {
+      "pl": "Wymamrotał to, jakby powtarzał to sobie albo komuś innemu, nie mnie.",
+      "kr_sha256": "3c60786b4c2af8448ef0d85245950d17b9dcf851d11812b2dceeb167239e8039",
+      "en_sha256": "df034982916cfe62590a4d22be213028127c695243de336efcb2d7d7372ca277"
+    },
+    "dataList[id=15].content": {
+      "pl": "I bez zatrudnienia bym to uczyniła! Patrzcie, znów nadciąga zgraja niegodziwców!",
+      "kr_sha256": "d1c8a6e7582a273b2b5da6e4e69d06d4864fc425187fd0565972f4a3dffab4ed",
+      "en_sha256": "5047fbf6d4ba120326d0e325cd54890aaca8d2d4cd21a23f858df4f307a0bac5"
+    },
+    "dataList[id=1].content": {
+      "pl": "Przed nim, przed paszczą autobusu, leżą porozrzucane ludzkie kształty. Jedni byli jeszcze przytomni, inni już pocięci na kawałki.",
+      "kr_sha256": "db20e9e022e527da5139b404eaf069b31e6ee254f6a990532131305411006ce9",
+      "en_sha256": "e394208ba3ca10fedc1b146046af10c506ffb52ecff14750bff774a5ab1264a8"
+    },
+    "dataList[id=2].content": {
+      "pl": "W końcu paszcza otwiera się na całą szerokość, a autobus zaczyna dosłownie przeżuwać ludzi. Łapczywie, w pośpiechu.",
+      "kr_sha256": "dffe5e11cc91ada2b44221cac3cc1f9a47f538e82f55b865e732f9c368d0a418",
+      "en_sha256": "71014f221f86b299d311de17ec1bf6b8612bdcfafc53b304adc929ae20eb2af3"
+    },
+    "dataList[id=3].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ryōshū przyglądała się temu z wyraźnym zadowoleniem…",
+      "kr_sha256": "acb7492e86dd23ad01b732b536cdeb597150ba3038f57436485f8de9d09242ba",
+      "en_sha256": "9ee1afea758a0a3a35441f617a91faa104e20cfd58093a73c3b7340ef3d703ec"
+    },
+    "dataList[id=5].content": {
+      "pl": "A obok niej w polu widzenia mignął mi Sinclair z niespokojną miną.",
+      "kr_sha256": "ddaefd3d5823d57e03c2b73fc8081ee54746840493a8ca7972275b975d749ac2",
+      "en_sha256": "18c41adde100ceff14a9344c9330fbc4172e81f87d0497b87c98e639b96fd715"
+    },
+    "dataList[id=6].content": {
+      "pl": "Wszyscy tutaj… chyba postradali zmysły. Nie uważa pan?",
+      "kr_sha256": "65d83565c0d09ae634da59f6f6ee7ba4bd88f3104cc96dc301209757d23e2946",
+      "en_sha256": "bd17058d8f45d49d78659ae06bd6090aaf8af1f7a69d899c2e6eab0920fe4a25"
+    },
+    "dataList[id=7].content": {
+      "pl": "Nagle zaciekawiło mnie, jak oni wszyscy tu trafili.",
+      "kr_sha256": "386fcffe58f5b6e6619bfaa615795cffffe50de7a4a0ba33e7f48bd61ef62d06",
+      "en_sha256": "9ef1e284743e0cc3e8a30d6679b4d632c4381900f257ee20ff20786742a8980e"
+    },
+    "dataList[id=8].content": {
+      "pl": "<Tak z ciekawości… Nikogo z was nie zatrudniono pod przymusem, prawda?>",
+      "kr_sha256": "aa1a94a44161b888691fc0360e941ba723a72a211ac2ff5019cd5f4085434ef7",
+      "en_sha256": "174d452bb1b2f6a48c34df17d71410773d25cbb5d013e8811c2890cdd80c0589"
+    },
+    "dataList[id=9].content": {
+      "pl": "Nie wiem, jak wyglądało moje życie, zanim wymieniono mi głowę, ale sądząc po tym, co tu i teraz, mnie też w zasadzie zatrudniono pod przymusem.",
+      "kr_sha256": "370bf271e72f866bfd3643100a890ee66378628a088d2cfa995c6d52d305f393",
+      "en_sha256": "c7cffdd80865c8460a4f5125dfcf8cee279b43f889c9907e3084478fb4342bd4"
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "entries": {
+    "dataList[key=Q4001].description": {
+      "pl": "Z Certyfikatem Autentyczności otrzymanym od Le Noir udamy się na 4. piętro. Podobno z nim inni Le Noir ugoszczą nas z równą, przepychem bijącą hojnością. Może to ułatwić nam chodzenie po domu handlowym.",
+      "kr_sha256": "26f266445e7fe5c2dbdd9914aa99150ad5c09cdd4f5c10cd51f4f4251fc6842d",
+      "en_sha256": "f234b1ddcf4c46fbbb73be98d191225a0defba6318aed69dd253dd4f9c6c1e33",
+      "origin": "ai"
+    },
+    "dataList[key=Q4001].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na 4. piętro",
+      "kr_sha256": "22a1913478e201aab3f7a20dc3c81a512e07a9562edaa63b20e8795636d095be",
+      "en_sha256": "d4d93a2eaa70ef1e8237d47fefb63a5161132e497fe87b153e27c8576d84c764",
+      "origin": "ai"
+    },
+    "dataList[key=Q4001].title": {
+      "pl": "Udaj się na 4. piętro",
+      "kr_sha256": "be8632f1a2587bd5c7bc9ce5d247cb9c6c0baca26b1dc5a857453acf936c703e",
+      "en_sha256": "2bf221e011fb0ed44b657a8224f80ce485a7f1a474869e85965a228728e5df16",
+      "origin": "ai"
+    },
+    "dataList[key=Q4002].description": {
+      "pl": "Dotarliśmy na 4. piętro. Jakie sklepy tu znajdziemy? Najpierw skierujmy się w prawo i rozejrzyjmy się.",
+      "kr_sha256": "2189453de4c100af730839a1178b9600293d771e99a86c73446e8e4c169930cb",
+      "en_sha256": "9773b9d9a01ae8691f46cd495ead35ecbeda9cc6c3c52560a8503e955cef1cd2",
+      "origin": "ai"
+    },
+    "dataList[key=Q4002].steps[#0].goalDescription1": {
+      "pl": "Rozejrzyj się po 4. piętrze",
+      "kr_sha256": "4cc4474c3086d3f7ebca5de7f8fe6b2d5627956c7ecb63e94c9210862d02ad94",
+      "en_sha256": "efc146c2960ea305c0c22d45c42080026c6219c588d930051c7db0143549e53e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4002].title": {
+      "pl": "Rozejrzyj się po 4. piętrze",
+      "kr_sha256": "4cc4474c3086d3f7ebca5de7f8fe6b2d5627956c7ecb63e94c9210862d02ad94",
+      "en_sha256": "efc146c2960ea305c0c22d45c42080026c6219c588d930051c7db0143549e53e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003].description": {
+      "pl": "Surowa Noga, pracownik Salonu Obuwia Le Noir, opowiedział nam o legendarnej broni zdolnej poderwać każdą tkaninę. Na razie opuśćmy Salon Obuwia Le Noir i rozejrzyjmy się po reszcie 4. piętra.",
+      "kr_sha256": "fa186808dba3a8e893539e67870cad07dddac34c0de27bedfa6b5a6e0b33a0b7",
+      "en_sha256": "470f7acab28edc5feb7d87f8dcf60b43e64f7e3d376c11e2ba93bb7a82126359",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003].steps[#0].goalDescription1": {
+      "pl": "Dokończ rozmowę z Surową Nogą",
+      "kr_sha256": "d702147adc8bc14a714f474827875e36116335164f57da19864e6a6ef01cc2dc",
+      "en_sha256": "aecd9f075204f7b1edb0a28921c31170cd98d0afa0036c551decbb8cc6e6d83e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003].steps[#1].goalDescription1": {
+      "pl": "Rozejrzyj się po 4. piętrze",
+      "kr_sha256": "4cc4474c3086d3f7ebca5de7f8fe6b2d5627956c7ecb63e94c9210862d02ad94",
+      "en_sha256": "efc146c2960ea305c0c22d45c42080026c6219c588d930051c7db0143549e53e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003].steps[#1].goalDescription2": {
+      "pl": "Rozmawiasz z Lampą Łukową",
+      "kr_sha256": "4a47b80be18d09d257d1ea3eb09e663ea6ee77e2ab0540185ed017a28afce0e3",
+      "en_sha256": "e00541b4091d28c333b6164a25e84f1555a4d09425d83794766df9cced149f43",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003].title": {
+      "pl": "Rozejrzyj się po 4. piętrze (2)",
+      "kr_sha256": "97829cd00589280ca471825078ccd22caaf1f7fe79033076061b451f2ef612a5",
+      "en_sha256": "889f637aa0c32d2be1e3b6820a6b2e2cebd5e9abdd02a6fd1848cb9086a2631e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4004].description": {
+      "pl": "Oto Salon Mebli. Lampa Łukowa poprosiła, byśmy przynieśli jej ubranie „najmodniejsze i najbardziej stosowne”. Udajmy się do właściciela Salonu Mebli.",
+      "kr_sha256": "4810443b179b9b03835fca59ebd0126c3c8e1be43467d031bab7f04fa8ae8fdc",
+      "en_sha256": "063140105ceaaf215862885fa94aeeca1cb01b8f3cbfde1ebbbc8395508f3e88",
+      "origin": "ai"
+    },
+    "dataList[key=Q4004].steps[#0].goalDescription1": {
+      "pl": "Zagadaj właściciela Salonu Mebli",
+      "kr_sha256": "2b266fb23651e7fd0b03b1ff2f76b124266a41f8d3bc50eeb7da9ff4e85ce66e",
+      "en_sha256": "f0adee0cef70de0538e533cd8cf54bb74c6d76eed14edc5a63328b0da70992cb",
+      "origin": "ai"
+    },
+    "dataList[key=Q4004].title": {
+      "pl": "Spotkaj właściciela Salonu Mebli",
+      "kr_sha256": "682f84ddd966ed84a29785e84d60111daad89d3a4f7c17a0728a33b623e92efa",
+      "en_sha256": "fd5dbcd7606ffb87ee16c66a8e79c2afd443f706d95e05f03db9585e34340a3e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4005].description": {
+      "pl": "Właściciel Salonu Mebli, „Szczęśliwa Szafa”, milcząc pokazuje rzeczy wiszące na jego własnym ciele. Oderwaliśmy od niego odpowiednie ubranie. Przynieśmy je Lampie Łukowej.",
+      "kr_sha256": "c4555d9a3506a03c4de1a3af6e6f91896f714ebb2cf714ea23e5af7fe951b9e8",
+      "en_sha256": "e66bb7c6aabdfb1f6b48959271627e3e2c3002c6aaea56450caca0be547c21e8",
+      "origin": "ai"
+    },
+    "dataList[key=Q4005].steps[#0].goalDescription1": {
+      "pl": "Przynieś Lampie Łukowej nowe ubranie",
+      "kr_sha256": "33ffb1333948d5d95d38ee8283ce2397d122efc9bf5bc60aa77654f2c8c1d27b",
+      "en_sha256": "188e904a4d23fc19e139ef9ac82fa2464db9c0e833f2a646703fb14bd92ddaee",
+      "origin": "ai"
+    },
+    "dataList[key=Q4005].title": {
+      "pl": "Przynieś Lampie Łukowej nowe ubranie",
+      "kr_sha256": "33ffb1333948d5d95d38ee8283ce2397d122efc9bf5bc60aa77654f2c8c1d27b",
+      "en_sha256": "fddaccb73eb53b48f035f83ef88a1b58bdfc99ec540bd775040a270e6871247c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4006].description": {
+      "pl": "Gdy pozostałe Meble zobaczyły, że Lampa Łukowa dostała ubranie, wybuchnęły niezadowoleniem. Wróćmy do Szczęśliwej Szafy i wybierzmy ubrania dla reszty Mebli.",
+      "kr_sha256": "679e07db62c95acb6f420c58455777969efba89024e1432bd2917f697f45a6f7",
+      "en_sha256": "300fc36f0e814fb6c8e484d8992874450488e8582ee817ae8af434093db2aa49",
+      "origin": "ai"
+    },
+    "dataList[key=Q4006].steps[#0].goalDescription1": {
+      "pl": "Weź więcej ubrań od Szczęśliwej Szafy",
+      "kr_sha256": "b4fa1fa3178a3eeabd3a6904f5a72833c36c8221bd1a37cd8636a904f8a6f7d3",
+      "en_sha256": "9fd514b41e6cf6bf72057ea2fe755a6dc22566d81dd6a3c1a2673aff2e080d27",
+      "origin": "ai"
+    },
+    "dataList[key=Q4006].title": {
+      "pl": "Weź więcej ubrań od Szczęśliwej Szafy",
+      "kr_sha256": "b4fa1fa3178a3eeabd3a6904f5a72833c36c8221bd1a37cd8636a904f8a6f7d3",
+      "en_sha256": "31a5f93191f99a4c23df92675223771c60f5d833edddc6e11eee7ccaed1b9e32",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].description": {
+      "pl": "Wybraliśmy kilka ubrań od Szczęśliwej Szafy. Teraz dostarczmy je Meblom.",
+      "kr_sha256": "01620f9ac420b4122b4fb36e535854cda345143c298dfe346dc7d72b000b6c0f",
+      "en_sha256": "f567cfd2d24102474935bace4f7ed04807a890f3c90e4b37b1c426359c4f64d8",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription1": {
+      "pl": "Dostawa dla Kościanego Wieszaka",
+      "kr_sha256": "10e5a819b62bdfead4b05aa046cf4be56b126e17f68fac7613a4e6013fd99f10",
+      "en_sha256": "ec780f8a6398ea7800a6d1e931a0092dc79b17fc83180d1c032de15afeacde4e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription2": {
+      "pl": "Dostawa dla Spokojnego Skórzanego Łóżka",
+      "kr_sha256": "00d8f0425c978bf9a60e1da92e41858c04b5ad17453ac2db9120af71d97a54c2",
+      "en_sha256": "c8a78d289367adc8b71446176b7e397ac7a85d9051c903e20672655f22129b00",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription3": {
+      "pl": "Dostawa dla Wypchanej Skórzanej Kurtyny",
+      "kr_sha256": "d75086657045799855291fa2da9409eb32dab9809d7857d1449aa6771e16f8fe",
+      "en_sha256": "a97b71b26a8f834fb541ce95e382badf977e56a6e60ec880d0555bc111cc4e25",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription4": {
+      "pl": "Dostawa dla Taboretu z Czerwonym Gąbkiem",
+      "kr_sha256": "f2f652d993c3c26899f93a522b6ff71ddc7be102ae0ca4499e5e74e01341b542",
+      "en_sha256": "e02539dca71879450d5795aa8326dad4db510e7de3fe36afa4d3df064456e4c3",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription5": {
+      "pl": "Dostawa dla Sofy ze Skóry",
+      "kr_sha256": "c5215137775e94862fe53405cbf49a881cba1ccc8de61e189a3bc70fdb011225",
+      "en_sha256": "a39472f67fbb273446c7b6d740d08a3d0e59c298505dd19d89d6fb976dcc4403",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription6": {
+      "pl": "Dostawa dla Lampy-Bliźniaka",
+      "kr_sha256": "b64f73e17b6dce9cc99ee2c95de33047bcbf14c4b293100f6b114cb31196b02b",
+      "en_sha256": "9bb0e872abe923923157f91909e1221b397b3a823dc77491ca22652293f2d99c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].title": {
+      "pl": "Dostarcz ubrania Meblom",
+      "kr_sha256": "b2b8aec751fddb90b6d6cd20a0cb5336205192b2e8d484581194abc76fc51886",
+      "en_sha256": "7f9270e4bf94b139c10e967b68003f67b79e47ef54e2597edfb792fdad63f2cb",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008].description": {
+      "pl": "Dopilnowaliśmy, by każde z niezadowolonych Mebli dostało swoje ubranie. Czas wrócić do Szczęśliwej Szafy.",
+      "kr_sha256": "bff2bfeff79b540f0ea86f80cd4f1edd9404cac0311829357b26c7d4b8277b90",
+      "en_sha256": "23214b187ead9dccbacb57aad47483794d134e3ea32769412b8d58764c8c690e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008].steps[#0].goalDescription1": {
+      "pl": "Wróć do Szczęśliwej Szafy",
+      "kr_sha256": "b8d6fcedbfbd70e05fae13084529e27b92e5bf40915aeb509dbfe30f1796e1c5",
+      "en_sha256": "7c5a83ce8094d6631a149198af4b234cb6307c7a6dfb71c072c33b1b3e0d110d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008].steps[#1].goalDescription1": {
+      "pl": "Przyglądamy się zasadzce Mebli",
+      "kr_sha256": "0aeb8bfb93cd7755c25f04612d044e52a24883532a70f9842e228aab32adebe7",
+      "en_sha256": "bfc709bbd4d550c228fcacbcfa0b1205b7c2c378c8773bf647030d02c77eb056",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008].title": {
+      "pl": "Wróć do Szczęśliwej Szafy",
+      "kr_sha256": "b8d6fcedbfbd70e05fae13084529e27b92e5bf40915aeb509dbfe30f1796e1c5",
+      "en_sha256": "7c5a83ce8094d6631a149198af4b234cb6307c7a6dfb71c072c33b1b3e0d110d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4009].description": {
+      "pl": "Według zdobytego przepisu najpierw trzeba zdobyć Złoty Kokon, z którego uzyskamy Złotą Przędzę. Podobno Złoty Kokon można znaleźć na poziomie -1. Zdobądźmy go tam, a potem zejdźmy na poziom -2.",
+      "kr_sha256": "edd9415d4b384783c3326ba21a11315302bbba00dcc8d5bdb246367c86a5dc10",
+      "en_sha256": "0621567c221c599ebc8f91e14635cc5b0fc245281ef9e431a38d2221d355d4f9",
+      "origin": "ai"
+    },
+    "dataList[key=Q4009].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na poziom -1",
+      "kr_sha256": "4a0461fee555de732f3238a1fce6153785a2854bb0acb36c7a853dedc4544f86",
+      "en_sha256": "ca8a9214c77f75ba695ce806849d301240780d169137c5ac58a0ea73ee4223b2",
+      "origin": "ai"
+    },
+    "dataList[key=Q4009].steps[#1].goalDescription1": {
+      "pl": "Rozejrzyj się na poziomie -1",
+      "kr_sha256": "5c5ac7644a4f9efbedc994d2a60b308316ab2e5c859da3bf035569c9817577c8",
+      "en_sha256": "b7c6a469b8ed8cf15f1637b28cd5b17e6871d9d94314951fa9231a0b4b666e4a",
+      "origin": "ai"
+    },
+    "dataList[key=Q4009].title": {
+      "pl": "Udaj się na poziomy podziemne",
+      "kr_sha256": "3bc8d87bd3707b4f074c57db11cb92e22257bed3634937809037ae265057445e",
+      "en_sha256": "9dba087213f1addba4d26437f3a96a9284384e851e748dddaae3d503806a0257",
+      "origin": "ai"
+    },
+    "dataList[key=Q4013].description": {
+      "pl": "Szczęśliwa Szafa, której wyrwano nawet serce, już się nie rusza. Zanim opuścimy Salon Mebli, zagadajmy jeszcze Lampę Łukową.",
+      "kr_sha256": "94033e260e616951346001b43a12edae7c33901716376cbc50e2d45c76922d4c",
+      "en_sha256": "66d166f4f760360730c108e657b2760dd7f9144151259298793ab5ae89a2e0cb",
+      "origin": "ai"
+    },
+    "dataList[key=Q4013].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Lampę Łukową",
+      "kr_sha256": "22d400bda70ac02e7713aa4dc0a0bcf9ad75fd4e1bc8187d357018750b04440e",
+      "en_sha256": "e00541b4091d28c333b6164a25e84f1555a4d09425d83794766df9cced149f43",
+      "origin": "ai"
+    },
+    "dataList[key=Q4013].title": {
+      "pl": "Zagadaj Lampę Łukową",
+      "kr_sha256": "22d400bda70ac02e7713aa4dc0a0bcf9ad75fd4e1bc8187d357018750b04440e",
+      "en_sha256": "e00541b4091d28c333b6164a25e84f1555a4d09425d83794766df9cced149f43",
+      "origin": "ai"
+    }
+  }
+}

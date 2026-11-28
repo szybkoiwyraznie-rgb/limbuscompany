@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=400041].name": {
+      "pl": "Pwie",
+      "kr_sha256": "d06092e6359b46bf074cfe9b9933bef77fdcf1e1788017715f57c3ceac62599d",
+      "en_sha256": "f5751f43077d816cbcc3811b13c8d0e3e65495f574cedaea6cb56dcd80dd1e5e",
+      "origin": "ai"
+    },
+    "dataList[id=400042].name": {
+      "pl": "Pwie",
+      "kr_sha256": "d06092e6359b46bf074cfe9b9933bef77fdcf1e1788017715f57c3ceac62599d",
+      "en_sha256": "f5751f43077d816cbcc3811b13c8d0e3e65495f574cedaea6cb56dcd80dd1e5e",
+      "origin": "ai"
+    }
+  }
+}

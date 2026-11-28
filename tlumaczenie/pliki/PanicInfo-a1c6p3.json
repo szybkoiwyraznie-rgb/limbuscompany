@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=9997].panicDescription": {
+      "pl": "Niemożliwe do zaobserwowania",
+      "kr_sha256": "298859a046965c80c4c73ac1996951489db20392a6ed2f048b1c0d6d17ea40c4",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=9997].panicName": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    }
+  }
+}

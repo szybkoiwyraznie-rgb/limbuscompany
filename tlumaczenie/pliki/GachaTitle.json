@@ -1,0 +1,1330 @@
+{
+  "entries": {
+    "dataList[id=101].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=102].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Korp. N #1",
+      "kr_sha256": "5674d1b107e052a14e673766f759d25257bd5e375b3fc7a7af1d24aadadfe066",
+      "en_sha256": "8a9cfbc050e0d68abd7cec80e009fd28cf58a40511f38a499376938c22c5160a",
+      "origin": "ai"
+    },
+    "dataList[id=103].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=104].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Korp. N #2",
+      "kr_sha256": "b3bbd7465518e2c82b9d75e027397c1fb82a6c91d43cb4f0a5730bfb4b946bd5",
+      "en_sha256": "bbbbed3cbcaa44ca29d1bd1055b55466a714ea3b4efc73978b59d0e2bf16ee5d",
+      "origin": "ai"
+    },
+    "dataList[id=105].content": {
+      "pl": "Ekstrakcja Celowana: Heathcliff",
+      "kr_sha256": "ccc256d6580b02b794b870ee59102d4b8e3c56809af35df787f727b2d9994110",
+      "en_sha256": "61693bdbed1720555f2563cf4eb1f7e395773b229c56582efb71dd73d7484b29",
+      "origin": "ai"
+    },
+    "dataList[id=106].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dyrektorka Sekcji 6 Stowarzyszenia Seven Outis i Sekcja 5 Stowarzyszenia Liu Hong Lu",
+      "kr_sha256": "ff89c872ff1343aafd30feff4bf6232336ab0a183a443ad0b54f8daf64129d5f",
+      "en_sha256": "a214a0368fe82caa19868b261bad5285e2726da8efa2dd16a7f796ba4b579768",
+      "origin": "ai"
+    },
+    "dataList[id=107].content": {
+      "pl": "Ekstrakcja Celowana: Don Quixote",
+      "kr_sha256": "371d323f038a5ca9ae68304cf62d7d5244ed284cf14b993d7eb2d758524c6911",
+      "en_sha256": "bb3b832aab75e8bc1d89db359995829cc03675dcdc35971c94db30e45ad43a21",
+      "origin": "ai"
+    },
+    "dataList[id=108].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Piekielny Kurczak",
+      "kr_sha256": "81a2e4e2aeb56c577828454294ddfa39599f346b5a157d863967d90d697f44e9",
+      "en_sha256": "28cde5d148245e2584c44acde9bd38260b5f7a62e6db561ee86a9a346125a5e3",
+      "origin": "ai"
+    },
+    "dataList[id=109].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=10].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 7",
+      "kr_sha256": "c2531b1c1e7aa8afe2bec851d80b32205276a6ac660e2b909daf4ce3bfe15e31",
+      "en_sha256": "51388ec742ac206ec794b682d21a92942a43ee1a581d3c094d905fc9183609fd",
+      "origin": "ai"
+    },
+    "dataList[id=110].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Korp. N #3",
+      "kr_sha256": "8806530762865e698ef98f7858c2a5b8bd14ae8ea9f1ebf2ba95839be9d11383",
+      "en_sha256": "b9bffbeb5b4468d03a9d36e3fbdb81879eb9808904adaf6d18c6815a1ebd9d75",
+      "origin": "ai"
+    },
+    "dataList[id=111].content": {
+      "pl": "Ekstrakcja Celowana: Faust",
+      "kr_sha256": "2aa061759963bf5e8734f75522a289d825d13847503cbbc8eaa5163cd463f928",
+      "en_sha256": "e0084112da48fc856e0ca10f7da592248e2aa8b4cfe194ae94363c519fcd3c5e",
+      "origin": "ai"
+    },
+    "dataList[id=112].content": {
+      "pl": "Ekstrakcja Celowana: Rozpruwacz Wymiarów dla Yi Sanga i Hong Lu",
+      "kr_sha256": "93ce0b1b2297a38423de0f7f26bb7ee334295a4544e7371ba727aff5873fadcb",
+      "en_sha256": "b29fbff7d716a31da9ba5426ffca64605184b58e18e06ff1b274401aa8ca9899",
+      "origin": "ai"
+    },
+    "dataList[id=113].content": {
+      "pl": "Ekstrakcja Celowana: Meursault",
+      "kr_sha256": "547797a3920f81f4a1d5fa51134bef5b50a3840cdef0bdfce09a9eafef213e73",
+      "en_sha256": "4cea481b8641a467e9a90e185bbcc5b613d8324d22cd121e210e1025d2b74f70",
+      "origin": "ai"
+    },
+    "dataList[id=114].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Warsztat Różanego Klucza",
+      "kr_sha256": "45608deca7234bb3a069ba84c8e621e3f4d912e891dcc46f1f53a749087e2950",
+      "en_sha256": "0dd893e205739305ebdbb47766a09dda42181ec01abe484077d8b83b733cd154",
+      "origin": "ai"
+    },
+    "dataList[id=115].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sojusz Wyzwolenia Technologii i Warsztat Różanego Klucza",
+      "kr_sha256": "18549d3ad90c5a61bdd8b631c55334e2fae144a2fa9a2d4e887c655964447de3",
+      "en_sha256": "d17116c3ecbcc2eaca94f43f700b0c982c6c68442373a90207a9a171c822662f",
+      "origin": "ai"
+    },
+    "dataList[id=116].content": {
+      "pl": "Ekstrakcja Celowana: Outis",
+      "kr_sha256": "524f005fcb78e62e50dae976d6ef799b2e7597418ed32315f2f6791f41185611",
+      "en_sha256": "f9cc33f76fc6a123ccc26641e259ea9fd092a4ad3dea9bac5766b7bb5a54ae19",
+      "origin": "ai"
+    },
+    "dataList[id=117].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sojusz Wyzwolenia Technologii #2",
+      "kr_sha256": "9dd58c76efcc0612cce1823c324ecee5ea9bc8cf4808ae7de0af78918b530b14",
+      "en_sha256": "28ff8697581141ccddf5aa3bb043e5200d0bdebeee19c50cc176a31c999c9bfe",
+      "origin": "ai"
+    },
+    "dataList[id=118].content": {
+      "pl": "Ekstrakcja Celowana: Sinclair",
+      "kr_sha256": "8cfa6b8644e547e0fd52c6cf0af44bd69af9e577a584cd7f59abf792a734f495",
+      "en_sha256": "6f4dc914d954bce0f879fb5b452cc667adb1bc3af25ff5d556c5c225d21ee7c3",
+      "origin": "ai"
+    },
+    "dataList[id=119].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Korp. K i Sojusz Wyzwolenia Technologii #3",
+      "kr_sha256": "7f966b61ee0cb16ffa44613a2f552e682e802bd897266caf8527b24e5e12b6d0",
+      "en_sha256": "ee55123802423ca279821a41c60ac06c4072073e647147912a6fb759534b2073",
+      "origin": "ai"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 8",
+      "kr_sha256": "447d3f1fa1f24f44a32bb1b4e35e824cc5c8c17097d8fc279208b41150746c9a",
+      "en_sha256": "c48bd397bbab9dc7891d946ff2726f387b98d876e70e647156bb6f9599ee1e42",
+      "origin": "ai"
+    },
+    "dataList[id=120].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Czerwone Oczy i Czerwone Oczy (Otwarte)",
+      "kr_sha256": "242a5c33a5509cc2550e6eab9be48808411d559196fb1637dd1a69b8e7eed4aa",
+      "en_sha256": "ccc6a6918395f376109f14c3d074e80a88dfc7fa64f7dbe06cdcb23cbe8aad79",
+      "origin": "ai"
+    },
+    "dataList[id=121].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 4 Południowego Stowarzyszenia Liu Ishmael",
+      "kr_sha256": "2b3f580de1924755c71b328d57fe12ab6d1395db0374064c59329512a4b6551d",
+      "en_sha256": "2f41bd295ca508adfe7b8e9036c1ed45a0bfd9e60667043bae36ed6fdf96ef29",
+      "origin": "ai"
+    },
+    "dataList[id=122].content": {
+      "pl": "Ekstrakcja Celowana: Yi Sang",
+      "kr_sha256": "ae6a28a5321ba1ba50a5066321cf3a8482fdc9bbbeaedf813ce7b65f85764c9d",
+      "en_sha256": "867230a5cadff78cae47256e238faaa0ddb897b430045d7a2792acc6c22c677c",
+      "origin": "ai"
+    },
+    "dataList[id=123].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Zespół Nosorożców 4. Stada R Corp. Meursault i Sekcja 5 Południowego Stow. Zwei Rodion",
+      "kr_sha256": "537137970d483e424058244624a7309bb057d5391b490c0ecbb14c17718b983a",
+      "en_sha256": "e240c52cce825abfc7b5324467708e2bf85af5d76c62860c585fef3643290408",
+      "origin": "ai"
+    },
+    "dataList[id=124].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dyrektorka Sekcji 5 Południowego Stowarzyszenia Cinq Don Quixote",
+      "kr_sha256": "5a9aae7570eb2bc25dc124d2c3564feac6aa092f3d6e100a2124a877c0d94274",
+      "en_sha256": "34aa0a807669d2abc61ee18ae7b58d5c77ecf10f3bd75cf4cdba23ef70f339f1",
+      "origin": "ai"
+    },
+    "dataList[id=125].content": {
+      "pl": "Ekstrakcja Celowana: Ryōshū",
+      "kr_sha256": "79f5d08933a37cafbe541c968f48b55c0171f6f945d9f49c3ecc10ee5df3ce6f",
+      "en_sha256": "76db6e25e24fcc8aa2d3348600c22006aae9f276657d89a7df12302d6ee775c2",
+      "origin": "ai"
+    },
+    "dataList[id=126].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — M.O.R.Z.E.",
+      "kr_sha256": "0d4a9f67953557a7a7f917af2a2dddc8a7963abcb4840be95c18a26f165ffe74",
+      "en_sha256": "5efa8bd43f4bc8c346c49642e1ab0831d22fba16bbee243924419f9ac16abd9b",
+      "origin": "ai"
+    },
+    "dataList[id=127].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 4 Południowego Stowarzyszenia Zwei Gregor i Faust",
+      "kr_sha256": "37a27a725376b7b742db37f2803ed767d8dc6e6b73d02143a3575b1aa685947e",
+      "en_sha256": "1d0dd820f01d303a45519c03ea21ae444ea0ddd5da1b704ce4a7a9ca9d8b1e4a",
+      "origin": "ai"
+    },
+    "dataList[id=128].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=129].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Agentka Oczyszczania L3 W Corp. Ryōshū i Agent Oczyszczania L2 W Corp. Hong Lu",
+      "kr_sha256": "fd9723f304fbd92cef2bd470778d23b480657bb04538edb2c8b1638419227aac",
+      "en_sha256": "dd7a1ce18a737f2c2d4f03a4ad5a618ac4568cada55c8f2079e5901b16850326",
+      "origin": "ai"
+    },
+    "dataList[id=130].content": {
+      "pl": "Ekstrakcja Celowana: Don Quixote",
+      "kr_sha256": "371d323f038a5ca9ae68304cf62d7d5244ed284cf14b993d7eb2d758524c6911",
+      "en_sha256": "bb3b832aab75e8bc1d89db359995829cc03675dcdc35971c94db30e45ad43a21",
+      "origin": "ai"
+    },
+    "dataList[id=131].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 4 Południowego Stowarzyszenia Seven Faust i Heathcliff",
+      "kr_sha256": "b2e7111874c0ac59e562a6be6b8c93ec9543475c3071631d70b02cb72d4170c8",
+      "en_sha256": "049fdfac5457c3d7783f9e548b932d2346b5194736574d117729b41dac535b74",
+      "origin": "ai"
+    },
+    "dataList[id=132].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=133].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 4 Południowego Stowarzyszenia Dieci Rodion",
+      "kr_sha256": "b6cf3023c538d04b4f104d5209a795c43244183a9004f021408d2900a08e0f22",
+      "en_sha256": "62db43ce451de63f056c4e16830922b85052b27363aa84bae41d4a729521ffa6",
+      "origin": "ai"
+    },
+    "dataList[id=134].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=135].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Latarnia dla Sinclaira",
+      "kr_sha256": "5d667dddff1cc48525544a543303de7a2b397e2cc09e26e9ddadd849a466b00c",
+      "en_sha256": "c25779c09b338cbd75e7c49839f4a6067d84b4fb31960069d5486e328ea4e0ab",
+      "origin": "ai"
+    },
+    "dataList[id=136].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Ya Śūnyatā Tad Rūpam dla Heathcliffa",
+      "kr_sha256": "df5cac8ea7d2566382e252935ebe6a5821c04ae74c7c5f6c0d2017c861cf4277",
+      "en_sha256": "d78b6dc4b29d7c80e1add4a686662324d6e7523ed3a51076a24d9d3dfcc2043a",
+      "origin": "ai"
+    },
+    "dataList[id=137].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=138].content": {
+      "pl": "Ekstrakcja Celowana 1. Nocy Walpurgii",
+      "kr_sha256": "c81be9ba0e5929b674c72c8f8ae7f87fe8e96d76512f4a242ff76bec2b50bf7d",
+      "en_sha256": "f9b478b443de8876a8879eeb7b419000f5a39cd5b7d65151e84b5acdd0e0232d",
+      "origin": "ai"
+    },
+    "dataList[id=139].content": {
+      "pl": "Ekstrakcja Celowana: Heathcliff",
+      "kr_sha256": "ccc256d6580b02b794b870ee59102d4b8e3c56809af35df787f727b2d9994110",
+      "en_sha256": "61693bdbed1720555f2563cf4eb1f7e395773b229c56582efb71dd73d7484b29",
+      "origin": "ai"
+    },
+    "dataList[id=140].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Agentka Oczyszczania L3 W Corp. Yi Sang",
+      "kr_sha256": "51b947242e7f946b0d590b61e90f380ce3a4fd321195eff7738fb01f8ba2cc2e",
+      "en_sha256": "1df2be0afadc309e91228411c70e56e271f343844549622f4e174f111a950550",
+      "origin": "ai"
+    },
+    "dataList[id=141].content": {
+      "pl": "Ekstrakcja Celowana: Faust",
+      "kr_sha256": "2aa061759963bf5e8734f75522a289d825d13847503cbbc8eaa5163cd463f928",
+      "en_sha256": "e0084112da48fc856e0ca10f7da592248e2aa8b4cfe194ae94363c519fcd3c5e",
+      "origin": "ai"
+    },
+    "dataList[id=142].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Pierwszy Oficer Piratów Podwójnego Haka Gregor i Zastępca Kierownika LCCB Ryōshū",
+      "kr_sha256": "19c0567313e63c88efa28011fe6b0a35ea841d254534460e0d504357bb026df8",
+      "en_sha256": "ef759587611aa167f341060c2664cbb2cb4574fbdc84ff5d03e72b037c315fe0",
+      "origin": "ai"
+    },
+    "dataList[id=143].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Młodsza Siostra Środkowego Don Quixote i Młodszy Brat Środkowego Meursault",
+      "kr_sha256": "9e83f8a09b43458369f3595cddb584d322b4c33ab9d11e63d941c70f5aaa5bdf",
+      "en_sha256": "135ff08d1e700332f417623f57564b3ef0c520158aad7e49f6f1149a002a7fc5",
+      "origin": "ai"
+    },
+    "dataList[id=144].content": {
+      "pl": "Ekstrakcja Celowana: Outis",
+      "kr_sha256": "524f005fcb78e62e50dae976d6ef799b2e7597418ed32315f2f6791f41185611",
+      "en_sha256": "f9cc33f76fc6a123ccc26641e259ea9fd092a4ad3dea9bac5766b7bb5a54ae19",
+      "origin": "ai"
+    },
+    "dataList[id=145].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Harpunnik Pequoda Heathcliff i Pierwszy Oficer Yi Sang",
+      "kr_sha256": "189e70ea259941744fc30a81bfc32ed3a05a6a7231ec018e824c8fb2b74242a6",
+      "en_sha256": "89f37a9820a00601c08c652c6b31f291c14cf2494502302ba331396f284b871d",
+      "origin": "ai"
+    },
+    "dataList[id=146].content": {
+      "pl": "Ekstrakcja Celowana: Meursault",
+      "kr_sha256": "547797a3920f81f4a1d5fa51134bef5b50a3840cdef0bdfce09a9eafef213e73",
+      "en_sha256": "4cea481b8641a467e9a90e185bbcc5b613d8324d22cd121e210e1025d2b74f70",
+      "origin": "ai"
+    },
+    "dataList[id=147].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Egzekucja dla Rodion",
+      "kr_sha256": "3d689454423f77337471013768a27d86746ef4f7ed08de20cac4a04471d00d70",
+      "en_sha256": "3523ed827e0ce58e18a4696ff26cda7d4fac1b592ff6b943f4f8e9d67cb83d7e",
+      "origin": "ai"
+    },
+    "dataList[id=148].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dyrektorka Sekcji 4 Południowego Stowarzyszenia Cinq Sinclair i Sekcja 4 Outis",
+      "kr_sha256": "c0f0dc409a8b0660d89595012fc51f9876dc5152e44a8fbe0ab323fd127ed03a",
+      "en_sha256": "85404cae88355759e8b2075bc8e195b72acce6c87cf7c108e6edaef949758dc4",
+      "origin": "ai"
+    },
+    "dataList[id=149].content": {
+      "pl": "Ekstrakcja Celowana: Ryōshū",
+      "kr_sha256": "79f5d08933a37cafbe541c968f48b55c0171f6f945d9f49c3ecc10ee5df3ce6f",
+      "en_sha256": "76db6e25e24fcc8aa2d3348600c22006aae9f276657d89a7df12302d6ee775c2",
+      "origin": "ai"
+    },
+    "dataList[id=150].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Cud w Dystrykcie 20",
+      "kr_sha256": "cd53d3d2dfb1a8fc0715a040664286e53c1ab170845160334bcb5fdb7d22c20c",
+      "en_sha256": "27a3d1ded3ca5bd604d9c341db0bf0a501d3420e96a3bb6d4c5ca5adf8848724",
+      "origin": "ai"
+    },
+    "dataList[id=151].content": {
+      "pl": "Ekstrakcja Celowana: Yi Sang",
+      "kr_sha256": "ae6a28a5321ba1ba50a5066321cf3a8482fdc9bbbeaedf813ce7b65f85764c9d",
+      "en_sha256": "867230a5cadff78cae47256e238faaa0ddb897b430045d7a2792acc6c22c677c",
+      "origin": "ai"
+    },
+    "dataList[id=152].content": {
+      "pl": "Ekstrakcja Celowana 2. Nocy Walpurgii",
+      "kr_sha256": "c99067ea541df343396b7261e0e165b734a9dd9f43d86a58d40fef03d0e12ffa",
+      "en_sha256": "3515266a3d4a3c8c87584dbedb2b00694a85c9ac8dafc51c619c9e8d08da4101",
+      "origin": "ai"
+    },
+    "dataList[id=153].content": {
+      "pl": "Ekstrakcja Celowana: Sinclair",
+      "kr_sha256": "8cfa6b8644e547e0fd52c6cf0af44bd69af9e577a584cd7f59abf792a734f495",
+      "en_sha256": "6f4dc914d954bce0f879fb5b452cc667adb1bc3af25ff5d556c5c225d21ee7c3",
+      "origin": "ai"
+    },
+    "dataList[id=154].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 4 Południowego Stowarzyszenia Dieci Hong Lu i Yi Sang",
+      "kr_sha256": "c3204ed4fd437a1d50f6aa7df8747eaf51f5355439359812cfa18c2927fecfb6",
+      "en_sha256": "e2754c2c866cf823834d9512962cf01529e3b34348d4cf66c9972246c0a16e82",
+      "origin": "ai"
+    },
+    "dataList[id=155].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=156].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Kapitan Pequoda Ishmael",
+      "kr_sha256": "754beaa3040c700722cbafd1eb5c4409fd9420748beafdf767f21f5aec878859",
+      "en_sha256": "c50f05e455b461429443b6afac2436c556e0ab403eb992586eeeb418c1018ff7",
+      "origin": "ai"
+    },
+    "dataList[id=157].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Kopczyk Życzeń dla Don Quixote",
+      "kr_sha256": "e350ad4da9926520bbf9fa7cfa55a3098d79b963be88514ca53dc96f0c6b6cd1",
+      "en_sha256": "66f4e35c6bd68f4e73360472825c998fb3c635c6ac6175581e9c8b05870a004b",
+      "origin": "ai"
+    },
+    "dataList[id=158].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=159].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Oddam Ciało, by Złamać Ich Kości",
+      "kr_sha256": "20570d0a0499f5d7cdd39460c9a8f1d1e5d30597b93f04392ed51769398f3b46",
+      "en_sha256": "a3962f769ddd9b87f53f2ae7a14f5ce282a5da1f2e1e7385dd58f37168baa0a9",
+      "origin": "ai"
+    },
+    "dataList[id=160].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=161].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dyrektorka Sekcji 4 Południowego Stowarzyszenia Liu Rodion i Sekcja 4 Ryōshū",
+      "kr_sha256": "dd4c85697d1f44aff333cf2769c8367275170e58c6db7d613dcae12f00fe9314",
+      "en_sha256": "a35ec3a7cd1ef2b78bc6d14301d9e52b5dd9b2a5219e44b3e908002d36fb15ad",
+      "origin": "ai"
+    },
+    "dataList[id=162].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Ogród Cierni dla Gregora",
+      "kr_sha256": "ea77ab9bda0067263aadad48b5fb6d2d762d7b911d48656701697dc4189a645c",
+      "en_sha256": "b7b48212f09bdc917a6409b74cfb7704425030aa0f3fcbfd4ffcd2b530d44b07",
+      "origin": "ai"
+    },
+    "dataList[id=163].content": {
+      "pl": "Ekstrakcja Celowana: Don Quixote",
+      "kr_sha256": "371d323f038a5ca9ae68304cf62d7d5244ed284cf14b993d7eb2d758524c6911",
+      "en_sha256": "bb3b832aab75e8bc1d89db359995829cc03675dcdc35971c94db30e45ad43a21",
+      "origin": "ai"
+    },
+    "dataList[id=164].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 3 Południowego Stowarzyszenia Öufi Heathcliff",
+      "kr_sha256": "ccceeb56b972f27e09c63beb3bf7a84d459898f65c01c7544b4ca6a21238c69f",
+      "en_sha256": "98a1870fbce3a877f8411b9dd1a75001dc11c3010b42fe85c586cd4e94c84b2f",
+      "origin": "ai"
+    },
+    "dataList[id=165].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Główna Kamerdynerka Wichrowych Wzgórz Outis i Szef Martwych Królików Meursault",
+      "kr_sha256": "3f58919a469e4c4703dbd1bef7a6e62cdddab13dae0a796856fa02dc89375635",
+      "en_sha256": "f4aafb3c8df89129f92c0952819fb7de675310695d90a973f4b5884e38b8628f",
+      "origin": "ai"
+    },
+    "dataList[id=166].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=167].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dziedzic Rodu Edgarów Gregor i Kamerdyner Wichrowych Wzgórz Faust",
+      "kr_sha256": "f9bdc0cc2b49035a05d6edacd866c4063c4631382d13235427a88c3f2ce23cf4",
+      "en_sha256": "749e37307ad47d7e0f4806fa6cc5f88d7d399af79c68a43aeee4e0b16ecfeaa9",
+      "origin": "ai"
+    },
+    "dataList[id=168].content": {
+      "pl": "Ekstrakcja Celowana: Heathcliff",
+      "kr_sha256": "ccc256d6580b02b794b870ee59102d4b8e3c56809af35df787f727b2d9994110",
+      "en_sha256": "61693bdbed1720555f2563cf4eb1f7e395773b229c56582efb71dd73d7484b29",
+      "origin": "ai"
+    },
+    "dataList[id=169].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Główna Kamerdynerka Rodu Edgarów Ryōshū i Kamerdyner Ishmael",
+      "kr_sha256": "243b32dbc00729bff78b53a3783cbd8dd14a6d6566dc76293180929ed6bd4729",
+      "en_sha256": "da4ea128ee5f3c1982ac423b27a3d630a4c065ccfa8f02b88baacc88bfc614d2",
+      "origin": "ai"
+    },
+    "dataList[id=170].content": {
+      "pl": "Ekstrakcja Celowana: Ryōshū",
+      "kr_sha256": "79f5d08933a37cafbe541c968f48b55c0171f6f945d9f49c3ecc10ee5df3ce6f",
+      "en_sha256": "76db6e25e24fcc8aa2d3348600c22006aae9f276657d89a7df12302d6ee775c2",
+      "origin": "ai"
+    },
+    "dataList[id=171].content": {
+      "pl": "Ekstrakcja Celowana 3. Nocy Walpurgii",
+      "kr_sha256": "574dcf97856d8b79a160fc035d78529fd269b663cbb0bcc52a9336e8bb786bfd",
+      "en_sha256": "5e1976382af2914a6028060f0a20a9e0421b82bf8ebe5ee0e9486b6e5e98f89a",
+      "origin": "ai"
+    },
+    "dataList[id=172].content": {
+      "pl": "Ekstrakcja Celowana: Faust",
+      "kr_sha256": "2aa061759963bf5e8734f75522a289d825d13847503cbbc8eaa5163cd463f928",
+      "en_sha256": "e0084112da48fc856e0ca10f7da592248e2aa8b4cfe194ae94363c519fcd3c5e",
+      "origin": "ai"
+    },
+    "dataList[id=173].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Student Pointylizmu Serdecznego Yi Sang i Outis",
+      "kr_sha256": "4f0f544554dc22a1f0cb698bf0bbf2ae45588aae6fb0404ad46e1b46d9f09875",
+      "en_sha256": "c3a3c7cdcc272a3690dece51a69bb365a4c8c4dede871a158ecc69ebfb0d61fa",
+      "origin": "ai"
+    },
+    "dataList[id=174].content": {
+      "pl": "Ekstrakcja Celowana: Outis",
+      "kr_sha256": "524f005fcb78e62e50dae976d6ef799b2e7597418ed32315f2f6791f41185611",
+      "en_sha256": "f9cc33f76fc6a123ccc26641e259ea9fd092a4ad3dea9bac5766b7bb5a54ae19",
+      "origin": "ai"
+    },
+    "dataList[id=175].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Głębokie Wyjenie dla Hong Lu i Sinclaira",
+      "kr_sha256": "ecc5d77e6edb9b60c9f6b1b9d17818add008268f11a0e7e2febda043b5c04361",
+      "en_sha256": "5d6f108b6c04038f606e6c95bd3427bb10ed75ab135cac2e780b5412826d08d5",
+      "origin": "ai"
+    },
+    "dataList[id=176].content": {
+      "pl": "Ekstrakcja Celowana: Meursault",
+      "kr_sha256": "547797a3920f81f4a1d5fa51134bef5b50a3840cdef0bdfce09a9eafef213e73",
+      "en_sha256": "4cea481b8641a467e9a90e185bbcc5b613d8324d22cd121e210e1025d2b74f70",
+      "origin": "ai"
+    },
+    "dataList[id=177].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Czas Zabijania Czasu",
+      "kr_sha256": "02f65aac16809f9328c67f5f7637511aca059a3edaeb0b2395c2fefd9a6ba08a",
+      "en_sha256": "9f81cd27818cac6f92f256b7baf64fc6f5436da6035bd4e52d6c353cb0072243",
+      "origin": "ai"
+    },
+    "dataList[id=178].content": {
+      "pl": "Ekstrakcja Celowana: Yi Sang",
+      "kr_sha256": "ae6a28a5321ba1ba50a5066321cf3a8482fdc9bbbeaedf813ce7b65f85764c9d",
+      "en_sha256": "867230a5cadff78cae47256e238faaa0ddb897b430045d7a2792acc6c22c677c",
+      "origin": "ai"
+    },
+    "dataList[id=179].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Poborca 3. klasy T Corp. Don Quixote i Poborca 2. klasy T Corp. Rodion",
+      "kr_sha256": "3540c1fbf26d8bd112ff7b9eed7ab51af4fe35321da93af7304e272354831f4d",
+      "en_sha256": "b855ac4b30d5c3a0ac11771914cbd11e6561e84f10dfa953c4821f239da563d6",
+      "origin": "ai"
+    },
+    "dataList[id=180].content": {
+      "pl": "Ekstrakcja Celowana: Sinclair",
+      "kr_sha256": "8cfa6b8644e547e0fd52c6cf0af44bd69af9e577a584cd7f59abf792a734f495",
+      "en_sha256": "6f4dc914d954bce0f879fb5b452cc667adb1bc3af25ff5d556c5c225d21ee7c3",
+      "origin": "ai"
+    },
+    "dataList[id=181].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości i E.G.O: Dyrektorka Sekcji 4 Stow. Dieci Południa Meursault i Pogarda, Trwoga Ryōshū",
+      "kr_sha256": "06e2c16be1f9faf6c7b92fbb03b7ac65121534b27bab4883885fc0978b0e8807",
+      "en_sha256": "b3deec7fc87abd084651ed2754cc36636e14671084ab106613f2dc2946b5b414",
+      "origin": "ai"
+    },
+    "dataList[id=182].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=183].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Kapitan Agentek Oczyszczania L3 W Corp. Outis i Złowroga Kula Heathcliff",
+      "kr_sha256": "694eeed5115841d9b491170575737d1792ea8daebd7154bf68efb83a3e7a1b74",
+      "en_sha256": "0fb6f5788b6ce58bf9cd280ed21bba07bc43fefe6742cc1f0def5a1a70af650e",
+      "origin": "ai"
+    },
+    "dataList[id=184].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=185].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Szefowa Biura MultiCrack Faust i Rozpruwacz Wymiarów Outis",
+      "kr_sha256": "d09a0ddae1b83e72041c0aabfc4dc91871af057b1f8adee0f9d79989fa1f8d4b",
+      "en_sha256": "c90ac73e79e186cace97583a64f0a823023805aa24a1e62395a6b1fe0a46fbb2",
+      "origin": "ai"
+    },
+    "dataList[id=186].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=187].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Dziki Gon Heathcliff",
+      "kr_sha256": "68e1675c5d08ccf922fe37c7db7f227e391baf49778be7522e0f508f6f4fcfa7",
+      "en_sha256": "c61e6d66c7e98b2558a48ebd7e6788ed729a251b0bb0a48659a6d24d95750990",
+      "origin": "ai"
+    },
+    "dataList[id=188].content": {
+      "pl": "Ekstrakcja Celowana: Don Quixote",
+      "kr_sha256": "371d323f038a5ca9ae68304cf62d7d5244ed284cf14b993d7eb2d758524c6911",
+      "en_sha256": "bb3b832aab75e8bc1d89db359995829cc03675dcdc35971c94db30e45ad43a21",
+      "origin": "ai"
+    },
+    "dataList[id=189].content": {
+      "pl": "Ekstrakcja Celowana 4. Nocy Walpurgii",
+      "kr_sha256": "db9033db9eedffe76a13496759437a178240bb10be3400ac69f758874fec00eb",
+      "en_sha256": "0628b31500f7a6a872b3e4ed9efc873c3b785cc9b7c50e1fa1765a1b94876a8f",
+      "origin": "ai"
+    },
+    "dataList[id=190].content": {
+      "pl": "Ekstrakcja Celowana: Ryōshū",
+      "kr_sha256": "79f5d08933a37cafbe541c968f48b55c0171f6f945d9f49c3ecc10ee5df3ce6f",
+      "en_sha256": "76db6e25e24fcc8aa2d3348600c22006aae9f276657d89a7df12302d6ee775c2",
+      "origin": "ai"
+    },
+    "dataList[id=191].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Sekcja 3 Północnego Stowarzyszenia Diewiat' Rodion i Przeszłe Dni Ishmael",
+      "kr_sha256": "7e53c8ccf090f56490f1514bae3301c4e042ca7d6f653286862254f8d1b63dfd",
+      "en_sha256": "fd8adbacc55b78250e14125aea68bf5c7814c70aa360ee097410a5ec4849eec8",
+      "origin": "ai"
+    },
+    "dataList[id=192].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Sekcja 3 Zachodniego Stowarzyszenia Zwei Ishmael",
+      "kr_sha256": "52309500cd531d9f2bcf129440bd87c58265c4387d43985e1f84061d54d81df8",
+      "en_sha256": "ce04dbf8a5a951e76b2e4dc2df7d4b0ea6ae658e3035655d3aa54ded51bf2562",
+      "origin": "ai"
+    },
+    "dataList[id=193].content": {
+      "pl": "Ekstrakcja Celowana: Faust",
+      "kr_sha256": "2aa061759963bf5e8734f75522a289d825d13847503cbbc8eaa5163cd463f928",
+      "en_sha256": "e0084112da48fc856e0ca10f7da592248e2aa8b4cfe194ae94363c519fcd3c5e",
+      "origin": "ai"
+    },
+    "dataList[id=194].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Sekcja 3 Zach. Stow. Cinq Meursault i Sekcja 3 Zach. Stow. Zwei Sinclair",
+      "kr_sha256": "1106f7747be43e7b72004936e32a8cb38c6ec2804c5870092a60cc4dcb6ab097",
+      "en_sha256": "84b43854ded40ad365e9770428a13c8c657e2e10fc8026767adca587f6986dc6",
+      "origin": "ai"
+    },
+    "dataList[id=195].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Cyruliczka La Manchalandu Outis i Fikser Biura Łowców Kłów Hong Lu",
+      "kr_sha256": "1cd8401e5d0ec3e458320f3badb6eec391d3a914a3b88c777123f947868295de",
+      "en_sha256": "9feb12419ab4fdb99e46c6ad6ef7b25d788db314a36eb318dbd8c9a245dcd17e",
+      "origin": "ai"
+    },
+    "dataList[id=196].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=197].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Kapelan La Manchalandu Gregor",
+      "kr_sha256": "5b92b64c1708d6694ed1d60a43d0480c74e2ae2aa34136027c789e95f16363a2",
+      "en_sha256": "e5f3093c69a5c634208f45625b03120cc7c973aaedd273a415fa3fbe3ce9aaf2",
+      "origin": "ai"
+    },
+    "dataList[id=198].content": {
+      "pl": "Ekstrakcja Celowana: Meursault",
+      "kr_sha256": "547797a3920f81f4a1d5fa51134bef5b50a3840cdef0bdfce09a9eafef213e73",
+      "en_sha256": "4cea481b8641a467e9a90e185bbcc5b613d8324d22cd121e210e1025d2b74f70",
+      "origin": "ai"
+    },
+    "dataList[id=199].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Księżniczka La Manchalandu Rodion i Złowroga Kula Yi Sang",
+      "kr_sha256": "6c102a9e85ee10060c96e184d6fbd18e721c83bbd8037d8d70e4b57a04e6fbd6",
+      "en_sha256": "3bf078d83aa6ce7d859184b38d85f991082856cbba190806c5980124857233eb",
+      "origin": "ai"
+    },
+    "dataList[id=1].content": {
+      "pl": "Ekstrakcja Standardowa",
+      "kr_sha256": "97b2a7bcdc4a64c5c20d1631d162a345ef6ae668738776705056597b22efaf22",
+      "en_sha256": "1a1f098aba756dafcf9c34d0819e1291196ab478d7f0c83802e63f5e43266b46",
+      "origin": "ai"
+    },
+    "dataList[id=200].content": {
+      "pl": "Ekstrakcja Celowana: Outis",
+      "kr_sha256": "524f005fcb78e62e50dae976d6ef799b2e7597418ed32315f2f6791f41185611",
+      "en_sha256": "f9cc33f76fc6a123ccc26641e259ea9fd092a4ad3dea9bac5766b7bb5a54ae19",
+      "origin": "ai"
+    },
+    "dataList[id=201].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Sekcja 3 Północnego Stowarzyszenia Diewiat' Sinclair i Asymetryczna Bezwładność Heathcliff",
+      "kr_sha256": "bb8eeff6a495704da0d7e7b2bcd67a60e496897eb7381d9fdc618a5cde7d4a82",
+      "en_sha256": "2f35aec858d23e719ac96e8e05ed091768a512589d5341e5c4150b4fdae28309",
+      "origin": "ai"
+    },
+    "dataList[id=202].content": {
+      "pl": "Ekstrakcja Celowana: Yi Sang",
+      "kr_sha256": "ae6a28a5321ba1ba50a5066321cf3a8482fdc9bbbeaedf813ce7b65f85764c9d",
+      "en_sha256": "867230a5cadff78cae47256e238faaa0ddb897b430045d7a2792acc6c22c677c",
+      "origin": "ai"
+    },
+    "dataList[id=203].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Zarządczyni La Manchalandu Don Quixote",
+      "kr_sha256": "5c59a9476f4c027692666f37039be1947cbc949f4566325e67966d4c8003e920",
+      "en_sha256": "4f7196dfeaf8d746bd8e383993abfd7ec27bed799ffb910f7e2e7272186879fa",
+      "origin": "ai"
+    },
+    "dataList[id=204].content": {
+      "pl": "Ekstrakcja Celowana: Heathcliff",
+      "kr_sha256": "ccc256d6580b02b794b870ee59102d4b8e3c56809af35df787f727b2d9994110",
+      "en_sha256": "61693bdbed1720555f2563cf4eb1f7e395773b229c56582efb71dd73d7484b29",
+      "origin": "ai"
+    },
+    "dataList[id=205].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Cud w Dystrykcie 20 BokGak",
+      "kr_sha256": "7321f22b718aa5549edb92e7ef5a9d8bd86d0201359fc83720f7be911c7a8a18",
+      "en_sha256": "4d32f82760f1e1b01e7e3899520977400d9ce3e1c77421957b3c28a2c8e776be",
+      "origin": "ai"
+    },
+    "dataList[id=206].content": {
+      "pl": "Ekstrakcja Celowana: Sinclair",
+      "kr_sha256": "8cfa6b8644e547e0fd52c6cf0af44bd69af9e577a584cd7f59abf792a734f495",
+      "en_sha256": "6f4dc914d954bce0f879fb5b452cc667adb1bc3af25ff5d556c5c225d21ee7c3",
+      "origin": "ai"
+    },
+    "dataList[id=207].content": {
+      "pl": "Ekstrakcja Celowana 5. Nocy Walpurgii",
+      "kr_sha256": "417c268146c629d45ebcaa8a9c72cd1a35002fd7629df76763e9abd2d83bddc7",
+      "en_sha256": "8b8f0aa82ca087cc0e30009cd8c9b25c0d62c60d97a67190a2b41ac64b6ea9af",
+      "origin": "ai"
+    },
+    "dataList[id=208].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=209].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Okresowe Badania LCB",
+      "kr_sha256": "ba29172b18d68be48fef458b1968cc29ebdf261fe8e9f048a5a490d2a9efdce3",
+      "en_sha256": "a5d70db9183923a34cecb20cbc9b38400219782deb98191f5481de5ffa1e214c",
+      "origin": "ai"
+    },
+    "dataList[id=210].content": {
+      "pl": "Ekstrakcja Celowana: Ród Ostrza i Klan Kurokumo",
+      "kr_sha256": "d0e61fe09ef7444d2e8a30c6a1c8d8e58ff14da1ac3db44619d0fbd42dc0d6c2",
+      "en_sha256": "5d15bbfd29e452a3a5ac0a51855988f8d785e62358b13ce3f9a59aeedf02f200",
+      "origin": "ai"
+    },
+    "dataList[id=211].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Kapitan Klanu Kurokumo Ishmael",
+      "kr_sha256": "c750fe2180fa6e8b4415aaed1e0af2609b942d36d00e29db4c0dd8c8a254a29b",
+      "en_sha256": "46cbcd623fb9d22f5355426ac3c78f21c666b594819141af6215015753a173c1",
+      "origin": "ai"
+    },
+    "dataList[id=212].content": {
+      "pl": "Ekstrakcja Celowana: Ryōshū",
+      "kr_sha256": "79f5d08933a37cafbe541c968f48b55c0171f6f945d9f49c3ecc10ee5df3ce6f",
+      "en_sha256": "76db6e25e24fcc8aa2d3348600c22006aae9f276657d89a7df12302d6ee775c2",
+      "origin": "ai"
+    },
+    "dataList[id=213].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Sekcja 3 Południowego Stowarzyszenia Liu Yi Sang i Torakalgia Faust",
+      "kr_sha256": "0421343f2f191d7436c296696b2367109b7277c73cdddaa605e3455707c480e2",
+      "en_sha256": "5e623084a9c2040893cdc52910736ecf8c4fd0bc99b8250dbcdf4363129cf6fb",
+      "origin": "ai"
+    },
+    "dataList[id=214].content": {
+      "pl": "Ekstrakcja Celowana: Faust",
+      "kr_sha256": "2aa061759963bf5e8734f75522a289d825d13847503cbbc8eaa5163cd463f928",
+      "en_sha256": "e0084112da48fc856e0ca10f7da592248e2aa8b4cfe194ae94363c519fcd3c5e",
+      "origin": "ai"
+    },
+    "dataList[id=215].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Ocalały z Biura Ognistej Pięści Gregor i Sekcja 3 Wschodniego Stowarzyszenia Cinq Don Quixote",
+      "kr_sha256": "fe562a77a0c9166cb966101ba82abfb3cf1a561fdc6d04eb6e4361a7211c79af",
+      "en_sha256": "6adefd07d3d51e988b9750db52bafe7681fc8ae84e790316f438bf40c1b24020",
+      "origin": "ai"
+    },
+    "dataList[id=216].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=217].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Nocne Sprzątanie",
+      "kr_sha256": "2b8b6b6d381c8b06afc809228effe230ab1694c7ad29bf3f34c05b97615dfe72",
+      "en_sha256": "a9277544d55f756601e2b27b59175f4d25cec1303a1bf988348cb803b2ec23d0",
+      "origin": "ai"
+    },
+    "dataList[id=218].content": {
+      "pl": "Ekstrakcja Celowana: Don Quixote",
+      "kr_sha256": "371d323f038a5ca9ae68304cf62d7d5244ed284cf14b993d7eb2d758524c6911",
+      "en_sha256": "bb3b832aab75e8bc1d89db359995829cc03675dcdc35971c94db30e45ad43a21",
+      "origin": "ai"
+    },
+    "dataList[id=219].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Młodszy Brat Środkowego Sinclair",
+      "kr_sha256": "78d4a72be38de6d9b895db781d38fb50194675caca17b976cd3708fd1e4933d0",
+      "en_sha256": "696ed3fb2a8f561e0c744c27321e31e7e58c11d6cb8bb82d5c1033328cb395e5",
+      "origin": "ai"
+    },
+    "dataList[id=220].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=221].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Próba Wskazującego dla Rodion",
+      "kr_sha256": "60a4fd4a17f8bd34244a87850ef0a2220032f323696ee482f21292b36db8c011",
+      "en_sha256": "a5c50fef8721061e47d7780ec4d2a409ac198191d07530387e76065f965c6273",
+      "origin": "ai"
+    },
+    "dataList[id=222].content": {
+      "pl": "Ekstrakcja Celowana: Sinclair",
+      "kr_sha256": "8cfa6b8644e547e0fd52c6cf0af44bd69af9e577a584cd7f59abf792a734f495",
+      "en_sha256": "6f4dc914d954bce0f879fb5b452cc667adb1bc3af25ff5d556c5c225d21ee7c3",
+      "origin": "ai"
+    },
+    "dataList[id=223].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Zespół Reniferów 4. Stada R Corp. Hong Lu",
+      "kr_sha256": "73cb9fd007e6aad8fb56ca37ed2c610cb52527da617ad2e00de3e6f060fc897f",
+      "en_sha256": "d07a04ecbcf5b4761a1821e9ff0da3ab8f48dceeb3cbbab7688fec858a1e9b85",
+      "origin": "ai"
+    },
+    "dataList[id=224].content": {
+      "pl": "Ekstrakcja Celowana: Outis",
+      "kr_sha256": "524f005fcb78e62e50dae976d6ef799b2e7597418ed32315f2f6791f41185611",
+      "en_sha256": "f9cc33f76fc6a123ccc26641e259ea9fd092a4ad3dea9bac5766b7bb5a54ae19",
+      "origin": "ai"
+    },
+    "dataList[id=225].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Wataha Heishou - Gałąź Si Rodion i Gregor",
+      "kr_sha256": "f4a5d71d11ad533190b8c138b3749c988579618df109088f5f1f379b05cad738",
+      "en_sha256": "5b1ac872db0f173047fc1a831fa54ea3879c550f1d60003b8c56742f68120ec1",
+      "origin": "ai"
+    },
+    "dataList[id=226].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Adept Watahy Heishou - Gałąź Mao Faust",
+      "kr_sha256": "a1e5483e0ce3eaf549eef5fad85649d3e060da282f1503af859becb11eaea907",
+      "en_sha256": "f5c78f77df3b09b5779d2520778f8ffcc1292d2e2a50a7de2b3969681b5fce3c",
+      "origin": "ai"
+    },
+    "dataList[id=227].content": {
+      "pl": "Ekstrakcja Celowana: Heathcliff",
+      "kr_sha256": "ccc256d6580b02b794b870ee59102d4b8e3c56809af35df787f727b2d9994110",
+      "en_sha256": "61693bdbed1720555f2563cf4eb1f7e395773b229c56582efb71dd73d7484b29",
+      "origin": "ai"
+    },
+    "dataList[id=228].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Kandydatka na Głowę Rodu Ishmael",
+      "kr_sha256": "2664b6ba93629224b0ff237d209f07bbcb80df3479d431b4fa65ae3037007d25",
+      "en_sha256": "9a68b0a0983644a9df45256d8b5f9a42537fb35be0d8ee8c4c91164f374bda51",
+      "origin": "ai"
+    },
+    "dataList[id=229].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=230].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Kapo IIII Kciuka ze Wschodu Meursault i Soldato II Sinclair",
+      "kr_sha256": "0eeecefe73e1f7f60c276e00583dea5fc438c4acfda8121f3bc0efb8bc0e7803",
+      "en_sha256": "d7984a93c07531bd179a1df3bac3bd195ef0ecb6196ad12a64800fc024b33f59",
+      "origin": "ai"
+    },
+    "dataList[id=231].content": {
+      "pl": "Ekstrakcja Celowana: La Manchaland — Krwiopijcy",
+      "kr_sha256": "37977259cfce36aab1aab0a228a7f9efbb9d1a860ac05515a42bca01e07b9629",
+      "en_sha256": "2de3c04c751e4a25186119131197ee8bea2d3a1fec5029545c34a5ed740694f4",
+      "origin": "ai"
+    },
+    "dataList[id=232].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Korp. N E.G.O::Złowroga Kula Yi Sang",
+      "kr_sha256": "5de211c0c9fd90000d5b05fc477be30cebab8c63508a9230af0d186d3a576859",
+      "en_sha256": "b0d24cd33406c16309a4a57ba26b1ca0a85ab2cf87a79493052e6a9662fdf8f1",
+      "origin": "ai"
+    },
+    "dataList[id=233].content": {
+      "pl": "Ekstrakcja Celowana 1. i 2. Nocy Walpurgii BokGak",
+      "kr_sha256": "ff7fc1fe62b4b3a451ac780dcd8ac0b15a61d2ab001cdb9130feba404759d845",
+      "en_sha256": "b18141faf213765801a68487fdcf4916be18cae3d703fb26d85552074eaf72f8",
+      "origin": "ai"
+    },
+    "dataList[id=234].content": {
+      "pl": "Ekstrakcja Celowana 6. Nocy Walpurgii",
+      "kr_sha256": "7dca4cbd5f4f0c6b7ab434f79468a9207f29734323e0354411c7442d63eddece",
+      "en_sha256": "27da73888f591f51295ce1010527aa5a8198af0f1ed8718b6f4b1906e51d672b",
+      "origin": "ai"
+    },
+    "dataList[id=235].content": {
+      "pl": "Ekstrakcja Celowana: Yi Sang",
+      "kr_sha256": "ae6a28a5321ba1ba50a5066321cf3a8482fdc9bbbeaedf813ce7b65f85764c9d",
+      "en_sha256": "867230a5cadff78cae47256e238faaa0ddb897b430045d7a2792acc6c22c677c",
+      "origin": "ai"
+    },
+    "dataList[id=236].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Czas Zabijania Czasu BokGak",
+      "kr_sha256": "f0a338cf740a5c8a5e56705f80208ea02b8a4316cd3afc7ca04d56f1bc9dd436",
+      "en_sha256": "59a08e0c88dafb4335e5e2697e84f6a1a5bec7c15f8187ca72f32c3364c3943a",
+      "origin": "ai"
+    },
+    "dataList[id=237].content": {
+      "pl": "Ekstrakcja Celowana: Wataha Heishou",
+      "kr_sha256": "77112b0079772627bcefa9f14776b687ab1e06b786e3f956d17bbb484e02f786",
+      "en_sha256": "cadce0bdeea111cadb1bf1b3bda597b8d0481594df353395a0fce38edb761207",
+      "origin": "ai"
+    },
+    "dataList[id=238].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Władca Hongyuanu Hong Lu",
+      "kr_sha256": "3e06be89cdbda9497763dfc1b1f4944420f46a95c0a46a2db631e74bf0c46e7f",
+      "en_sha256": "d7e1bd7433175316e7ba88dde11d740468eb346b4b8d9c7cc286bfe3f3030873",
+      "origin": "ai"
+    },
+    "dataList[id=239].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=240].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Wiosenny Szlif",
+      "kr_sha256": "58ac51a1d41b5a2e0062bcc52c21f585280fa504ec7dc0cad271eb7866be3289",
+      "en_sha256": "e8285ed6d671170aa2b1294dde8d4e0d46836bed9bdf624c0d4538c41287f11b",
+      "origin": "ai"
+    },
+    "dataList[id=241].content": {
+      "pl": "Ekstrakcja Celowana: Meursault",
+      "kr_sha256": "547797a3920f81f4a1d5fa51134bef5b50a3840cdef0bdfce09a9eafef213e73",
+      "en_sha256": "4cea481b8641a467e9a90e185bbcc5b613d8324d22cd121e210e1025d2b74f70",
+      "origin": "ai"
+    },
+    "dataList[id=242].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Korp. N E.G.O::Pogarda, Trwoga Ryōshū",
+      "kr_sha256": "b82304a8441b7b4d7493d22f054b3d62e80093b892c9f549b072a26977d2a684",
+      "en_sha256": "d33403c98ddf1c61f5acf4c2472e86414da6135dd9148a9d37529742ec13e372",
+      "origin": "ai"
+    },
+    "dataList[id=243].content": {
+      "pl": "Ekstrakcja Celowana: Don Quixote",
+      "kr_sha256": "371d323f038a5ca9ae68304cf62d7d5244ed284cf14b993d7eb2d758524c6911",
+      "en_sha256": "bb3b832aab75e8bc1d89db359995829cc03675dcdc35971c94db30e45ad43a21",
+      "origin": "ai"
+    },
+    "dataList[id=244].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Pielgrzymka Współczucia",
+      "kr_sha256": "40a3bda011e28f003395885354cee30efb62b4c3dfa71fb261e6368aeffacb69",
+      "en_sha256": "4d850caad04792e48d3096438751ebeca43ce787041807358daae6e61de2f5e6",
+      "origin": "ai"
+    },
+    "dataList[id=245].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=246].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 3 Wschodniego Stowarzyszenia Shi Faust",
+      "kr_sha256": "dd55a2304544b2360ed9785e7b596f091573e8da7c631c0e5b9027547f4b934c",
+      "en_sha256": "094eb332dc46a947d0f6ec8bffed9269e078230764f628c1067709727f9de9b3",
+      "origin": "ai"
+    },
+    "dataList[id=247].content": {
+      "pl": "Ekstrakcja Celowana: W Corp.",
+      "kr_sha256": "ad4d5b4715ea98439e886eae9399e69f75adfa5bca8444423fd6b26b4bceae56",
+      "en_sha256": "5cfd8144e8724ab47a106ad2f8360c3034411c8f67f2d25313449354a7359cb4",
+      "origin": "ai"
+    },
+    "dataList[id=248].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Morderstwo w Ekspresie WARP BokGak",
+      "kr_sha256": "c8c841d09e8c34f3144f322766510e5a63bd177eefd79e83a87beb8d86623f0c",
+      "en_sha256": "fe49de1ef5ebdd415c9004a68c3ef1d505a6e54d0a019f3fdd51d750a4f8a5d7",
+      "origin": "ai"
+    },
+    "dataList[id=249].content": {
+      "pl": "Ekstrakcja Celowana 2. i 3. Nocy Walpurgii BokGak",
+      "kr_sha256": "79b8394a752af03cd8baa7d267d153093e090d020389be4bfbc605c5da6c18e5",
+      "en_sha256": "dbe0a7f0b9c11fddb8595f1afffab5b57e323d19194e923ff4fa568c48868197",
+      "origin": "ai"
+    },
+    "dataList[id=250].content": {
+      "pl": "Ekstrakcja Celowana 7. Nocy Walpurgii",
+      "kr_sha256": "2c59603e26960537c4f56ed26bfc0fb0ad20300c4c715675f894fc7ad6e6dc79",
+      "en_sha256": "938f133b3314a4dfdd7bb230d6f11d7fd04c3d41862e974c84c31d82b5b92191",
+      "origin": "ai"
+    },
+    "dataList[id=251].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=252].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Adept Watahy Heishou - Gałąź You Heathcliff i Wataha Heishou - Gałąź Wei Don Quixote",
+      "kr_sha256": "3120263ac702f8ff21a574e33f78dd91043aa1ae3f4c25ede4c37065375d2802",
+      "en_sha256": "3515df57f61cd4133cb3d6015e7a8c3fc265fb1534e03d20162f780bd0a9b517",
+      "origin": "ai"
+    },
+    "dataList[id=253].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=254].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Wędrowna Szermierka z Hongyuanu Ryōshū",
+      "kr_sha256": "6373177576d57ab59875b10e28dd7e37fbb7a36b24bd4996314acb6951827d41",
+      "en_sha256": "3fd68e7f31ba98d4e1ad1ea4d5dc6333df702c8fcb07d7f1b689c5924c9ecf04",
+      "origin": "ai"
+    },
+    "dataList[id=255].content": {
+      "pl": "Ekstrakcja Celowana: Outis",
+      "kr_sha256": "524f005fcb78e62e50dae976d6ef799b2e7597418ed32315f2f6791f41185611",
+      "en_sha256": "f9cc33f76fc6a123ccc26641e259ea9fd092a4ad3dea9bac5766b7bb5a54ae19",
+      "origin": "ai"
+    },
+    "dataList[id=256].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Zespół Reniferów 4. Stada R Corp. Rodion",
+      "kr_sha256": "a24897d706e9506487f18abb09a367d5df5b8ce5b877544d9579f235ab2414f2",
+      "en_sha256": "18eb0ee92081912084aec10d181bf846f337521d2627d397f54030af920e5f7f",
+      "origin": "ai"
+    },
+    "dataList[id=257].content": {
+      "pl": "Ekstrakcja Celowana: Ryōshū",
+      "kr_sha256": "79f5d08933a37cafbe541c968f48b55c0171f6f945d9f49c3ecc10ee5df3ce6f",
+      "en_sha256": "76db6e25e24fcc8aa2d3348600c22006aae9f276657d89a7df12302d6ee775c2",
+      "origin": "ai"
+    },
+    "dataList[id=258].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Akolitka Wskazującego:【Karteczka】 Faust i Dowódczyni 3. Zespołu Szpicy Udjat LCA Outis",
+      "kr_sha256": "109fe2bb36f720738a2178ef098dc16b0cd96cb2e75a0046737223e1c01462e2",
+      "en_sha256": "f5469c55e39b11b57ec07551778ea921aeae42e5ee81b9ce5b314a1d1f628c00",
+      "origin": "ai"
+    },
+    "dataList[id=259].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Pełnomocniczka Wskazującego - Rozkwitłe E.G.O::Pełnomocnictwo Don Quixote",
+      "kr_sha256": "b3d3e1ae483e19c428024674fd263dda5ae1c202e82da08882195de57f728191",
+      "en_sha256": "a7376e8f0acee279565dabfdbc74b3633005eae8899b3087b6f94cbf0de81a51",
+      "origin": "ai"
+    },
+    "dataList[id=260].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=261].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dom Pajęczyn — Uczeń Środkowego Ishmael",
+      "kr_sha256": "63a45892ebb6812f0bf182da74dde044760a25f0393082a167d0f37b8291cb01",
+      "en_sha256": "6f42902ed886cd1b11aefe3cb979b42faf157183cc8ac759f390965c03404eaa",
+      "origin": "ai"
+    },
+    "dataList[id=262].content": {
+      "pl": "Ekstrakcja Celowana: Faust",
+      "kr_sha256": "2aa061759963bf5e8734f75522a289d825d13847503cbbc8eaa5163cd463f928",
+      "en_sha256": "e0084112da48fc856e0ca10f7da592248e2aa8b4cfe194ae94363c519fcd3c5e",
+      "origin": "ai"
+    },
+    "dataList[id=263].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dom Pajęczyn — Uczeń Małego Palca Sinclair i Lobotomy E.G.O::Lampa Gregor",
+      "kr_sha256": "9dbcb6df1b4a0bc3dbfdcbcb97ba3c293cae0d2b33e96084a04190223f80917d",
+      "en_sha256": "6c21820bc60626229df0103f5592b62f8adba658af9739b0b00a830bddb65506",
+      "origin": "ai"
+    },
+    "dataList[id=264].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=265].content": {
+      "pl": "Ekstrakcja Celowana: Hongyuan",
+      "kr_sha256": "2afa8c732cf779e00bb2c4b4e9a5ab436364366acaae742a96718719a2ccab27",
+      "en_sha256": "3ea0ac578255b0a88d4550e01433848b847032e7d2b6d086a557f20df449e4d6",
+      "origin": "ai"
+    },
+    "dataList[id=266].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dom Pajęczyn — Ojciec Wskazującego Yi Sang",
+      "kr_sha256": "85db448ac1097e0ad52bac466ef6f394d998e3d17ae9fef068cfda004e90228b",
+      "en_sha256": "812925dc5f78cbf90f95828e984d1c3f63f26082b6a23afe2479e873922cba63",
+      "origin": "ai"
+    },
+    "dataList[id=267].content": {
+      "pl": "Ekstrakcja Celowana 3. i 4. Nocy Walpurgii BokGak",
+      "kr_sha256": "ebd760ebadaffaced847b17dd7094a74a9dcc945f5c4697ea8650d3fcd5c7ec6",
+      "en_sha256": "463a708de21cef17dc15b8cf752fc25fa42ade165a92f2e8d4611f335ed361c1",
+      "origin": "ai"
+    },
+    "dataList[id=268].content": {
+      "pl": "Ekstrakcja Celowana 8. Nocy Walpurgii",
+      "kr_sha256": "ee16e21d9bed2083d6419a917c9b4032e23ab050a96efe70edbd8c0352d4621d",
+      "en_sha256": "e2bbb4d30956d391147775a76c2ad14ed239894b60a377d41b4941c8fe9dbb17",
+      "origin": "ai"
+    },
+    "dataList[id=269].content": {
+      "pl": "Ekstrakcja Celowana: Heathcliff",
+      "kr_sha256": "ccc256d6580b02b794b870ee59102d4b8e3c56809af35df787f727b2d9994110",
+      "en_sha256": "61693bdbed1720555f2563cf4eb1f7e395773b229c56582efb71dd73d7484b29",
+      "origin": "ai"
+    },
+    "dataList[id=270].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Okresowe Badania LCB BokGak",
+      "kr_sha256": "fbe3456f68a24d2eaaffb11b503331b73d926062668497b91f179231cc12e652",
+      "en_sha256": "24bbcac65730bba48673ebc3714fcaeb82ca9de5618207caa12f1f540c2719cc",
+      "origin": "ai"
+    },
+    "dataList[id=271].content": {
+      "pl": "Ekstrakcja Celowana: Yi Sang",
+      "kr_sha256": "ae6a28a5321ba1ba50a5066321cf3a8482fdc9bbbeaedf813ce7b65f85764c9d",
+      "en_sha256": "867230a5cadff78cae47256e238faaa0ddb897b430045d7a2792acc6c22c677c",
+      "origin": "ai"
+    },
+    "dataList[id=272].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Dom Pajęczyn — Ojciec Serdecznego Hong Lu i Uczennica Serdecznego Faust",
+      "kr_sha256": "ffdd767c62d4a65ac14e2263d9b766270b2c8118491707418f95d6835870ff57",
+      "en_sha256": "68b01feccc93559d753ce967c52623b0bac0c04875e1bce6facb9a6338b14911",
+      "origin": "ai"
+    },
+    "dataList[id=273].content": {
+      "pl": "Ekstrakcja Celowana: Don Quixote",
+      "kr_sha256": "371d323f038a5ca9ae68304cf62d7d5244ed284cf14b993d7eb2d758524c6911",
+      "en_sha256": "bb3b832aab75e8bc1d89db359995829cc03675dcdc35971c94db30e45ad43a21",
+      "origin": "ai"
+    },
+    "dataList[id=274].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Splatanie Pasm",
+      "kr_sha256": "4676bd56e715e1444161d48b3178d25e5e36b2b156291f2390c672e042838604",
+      "en_sha256": "cbbce56e24956d367bc3aa7e68e3946979e263ff224d6c491877966a902a7738",
+      "origin": "ai"
+    },
+    "dataList[id=275].content": {
+      "pl": "Ekstrakcja Celowana: Meursault",
+      "kr_sha256": "547797a3920f81f4a1d5fa51134bef5b50a3840cdef0bdfce09a9eafef213e73",
+      "en_sha256": "4cea481b8641a467e9a90e185bbcc5b613d8324d22cd121e210e1025d2b74f70",
+      "origin": "ai"
+    },
+    "dataList[id=276].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Nocne Sprzątanie BokGak",
+      "kr_sha256": "b92a6c4034549023f52269a2663b031b421829aeff12b3df63fb6c5ba2b183b3",
+      "en_sha256": "d6c76df54e8f9f66d04a25a7ada0401c057cdc5f54ebd50337f12a889861ad56",
+      "origin": "ai"
+    },
+    "dataList[id=277].content": {
+      "pl": "Ekstrakcja Celowana: Sinclair",
+      "kr_sha256": "8cfa6b8644e547e0fd52c6cf0af44bd69af9e577a584cd7f59abf792a734f495",
+      "en_sha256": "6f4dc914d954bce0f879fb5b452cc667adb1bc3af25ff5d556c5c225d21ee7c3",
+      "origin": "ai"
+    },
+    "dataList[id=278].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Ostrze Domu Pajęczyn Ryōshū",
+      "kr_sha256": "e4b678f65b6c1e6dac77602a7d9ed84f0c234e3d8fc635d380d6ce3dbb5a1625",
+      "en_sha256": "b85da7c37e71da6249023443b2208724bc4f8a67c2853eafe16b12506fddc0da",
+      "origin": "ai"
+    },
+    "dataList[id=279].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=280].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Dom Pajęczyn — Ojciec Środkowego Outis",
+      "kr_sha256": "332eb49517c6e80faafbd002227240c3456ee15bf99da0b73dc97bf0f3bf3de6",
+      "en_sha256": "ba12d1874b78ff508790549524b8d567a83a5bb1ad7dc42944abb7d21143c99f",
+      "origin": "ai"
+    },
+    "dataList[id=281].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=282].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Pamięć Doświadczenia",
+      "kr_sha256": "dc0ad11650217ec63e1cb9ddc793126d0f22b57ab6f1284b7aef5e53217bc021",
+      "en_sha256": "717d7559db20745e689067cd613b25771ef15682303c286d6ef1c7ded57216e0",
+      "origin": "ai"
+    },
+    "dataList[id=283].content": {
+      "pl": "Ekstrakcja Celowana: Outis",
+      "kr_sha256": "524f005fcb78e62e50dae976d6ef799b2e7597418ed32315f2f6791f41185611",
+      "en_sha256": "f9cc33f76fc6a123ccc26641e259ea9fd092a4ad3dea9bac5766b7bb5a54ae19",
+      "origin": "ai"
+    },
+    "dataList[id=284].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Dom Pajęczyn — Ojciec Kciuka Rodion i Uczeń Kciuka Heathcliff",
+      "kr_sha256": "e72fd777084badfe0b57b516a71ef89a9dc82a29aea48c87352ea1a941e61eeb",
+      "en_sha256": "73b25a679b65162845f9d3cf37a9a201ff5f9280f417f5d56dc08ba2b68fe79f",
+      "origin": "ai"
+    },
+    "dataList[id=285].content": {
+      "pl": "Ekstrakcja Celowana 4. i 5. Nocy Walpurgii BokGak",
+      "kr_sha256": "88271863b8ef2ba9cde099623f64af61266e1a3e4be94eca2d0767a9b6345a88",
+      "en_sha256": "159d40315295a6409d4279ea13c32f5605b42ec2bad851a2d476e5dda6a1b07a",
+      "origin": "ai"
+    },
+    "dataList[id=286].content": {
+      "pl": "Ekstrakcja Celowana 9. Nocy Walpurgii",
+      "kr_sha256": "1257eb2ec56b9379cdff7af9c80a2c316acea61788cacba439aa46d656664602",
+      "en_sha256": "ad17046dea014746335817e045ebad667674f8dee1f6e74d8f0fa853db4bde59",
+      "origin": "ai"
+    },
+    "dataList[id=287].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=288].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: LCE E.G.O::Rozpruwacz Wymiarów Yi Sang",
+      "kr_sha256": "2337008d26edba53a1013a69a0da0d8bd341c6d37c0457289260d6ceb4479372",
+      "en_sha256": "a4bb2ed175b82ab172828da276ebefc219f1e85bd13553652cdabec545a46e2b",
+      "origin": "ai"
+    },
+    "dataList[id=289].content": {
+      "pl": "Ekstrakcja Celowana: Hong Lu",
+      "kr_sha256": "73058e354d9d83f23fc425bc11ad09911e793f2b1f4799200ce86f1727166ef4",
+      "en_sha256": "4bb3a83df118a7dc1217f093e7aadd27e33e578e65c332a3b7bbd2ef31af95af",
+      "origin": "ai"
+    },
+    "dataList[id=290].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Idę po Nożyce, a Ty? Don Quixote",
+      "kr_sha256": "9103b3c04a92fc6bfb3e7f4bd70b046730cc407923831ead944b6aabdbdb3a6a",
+      "en_sha256": "1b1a8c74e79b8e2e340d72a7b24221067f0734591ed47c277b0d06a45af1c469",
+      "origin": "ai"
+    },
+    "dataList[id=291].content": {
+      "pl": "Ekstrakcja Celowana: Faust",
+      "kr_sha256": "2aa061759963bf5e8734f75522a289d825d13847503cbbc8eaa5163cd463f928",
+      "en_sha256": "e0084112da48fc856e0ca10f7da592248e2aa8b4cfe194ae94363c519fcd3c5e",
+      "origin": "ai"
+    },
+    "dataList[id=292].content": {
+      "pl": "Nowa Ekstrakcja Celowana: Sekcja 3 Wschodniego Stowarzyszenia Cinq Hong Lu",
+      "kr_sha256": "5c7177d1ea9ba509d3e530f4e91e41b7b5bbb9e7a226e1994523105e3c75da7c",
+      "en_sha256": "d24859a774f5acbc61fb8d6d419a6b797ab6fff8d77e2f68604c633b9438f420",
+      "origin": "ai"
+    },
+    "dataList[id=293].content": {
+      "pl": "Ekstrakcja Celowana: Ryōshū",
+      "kr_sha256": "79f5d08933a37cafbe541c968f48b55c0171f6f945d9f49c3ecc10ee5df3ce6f",
+      "en_sha256": "76db6e25e24fcc8aa2d3348600c22006aae9f276657d89a7df12302d6ee775c2",
+      "origin": "ai"
+    },
+    "dataList[id=294].content": {
+      "pl": "Nowa Ekstrakcja Celowana E.G.O: Zgłoszenie Zameldowania dla Gregora",
+      "kr_sha256": "058cbca59fc3885bb8bbdeeef8b0602ac324b158f25e85113643835f08021d57",
+      "en_sha256": "ef032bf1cd6659190d8a58c50aae57617a0f7126ba06cea7295eb53684792842",
+      "origin": "ai"
+    },
+    "dataList[id=295].content": {
+      "pl": "Ekstrakcja Celowana: Meursault",
+      "kr_sha256": "547797a3920f81f4a1d5fa51134bef5b50a3840cdef0bdfce09a9eafef213e73",
+      "en_sha256": "4cea481b8641a467e9a90e185bbcc5b613d8324d22cd121e210e1025d2b74f70",
+      "origin": "ai"
+    },
+    "dataList[id=296].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Boutique du Rouge Ishmael i Pawilon Obuwia Le Noir Ryōshū",
+      "kr_sha256": "38ca9fad60ac0614945273f2beeee2bf8beb72e051501a055b71fd3efdb5391f",
+      "en_sha256": "4e435c52f40be91914656db9c80a6b3d7aa84a23c7fc0044d47de4d7c848ac39",
+      "origin": "ai"
+    },
+    "dataList[id=297].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Pracownia Poprawek Rodion",
+      "kr_sha256": "6db7eb0ec351098b7076b17cb93611a1023acb457a9706b9e8fda15ff7901914",
+      "en_sha256": "3c9b035e25b9931576ef362fedb9ada5873b7baa4666c5217b072cd9cfdb8fc8",
+      "origin": "ai"
+    },
+    "dataList[id=298].content": {
+      "pl": "Ekstrakcja Celowana: Gregor",
+      "kr_sha256": "8e3038dd9385d7ac2a5cfcd372595302cbda0d2f24a9cffbd39835268708babd",
+      "en_sha256": "a51acda7256e3657fc84862b9f8debb9ad4c97ba4e93698295adda298a789b1b",
+      "origin": "ai"
+    },
+    "dataList[id=299].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Menedżerka Marki Le Noir Don Quixote",
+      "kr_sha256": "05e57021afd29aba68fcbe6162247090d925fac11b30bf6280f58333bfe49d69",
+      "en_sha256": "0eefecd7096809ffdf9505fbb9546f2ed48bfd4328a31de32084966e1ebd8fa4",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości",
+      "kr_sha256": "99b43141610e575e236ee031e81daee58f89cd39a7a5bb384c5437e33248d70a",
+      "en_sha256": "b38e522cebb0eff14190a8eafbc0d94e515846f45ccb06e643873bcf7a05591c",
+      "origin": "ai"
+    },
+    "dataList[id=300].content": {
+      "pl": "Ekstrakcja Celowana: Ishmael",
+      "kr_sha256": "92fa03f707efe8e2b0e9614abc689d118196095caf4d2f2580809a3020faa45a",
+      "en_sha256": "d012f575558314aeedffa2a858a48c2318cc759014c72e9c2b88bf00e50b35e5",
+      "origin": "ai"
+    },
+    "dataList[id=301].content": {
+      "pl": "Ekstrakcja Celowana: Serdeczny",
+      "kr_sha256": "cdeaa2f94dcb676cc0d7d3b2940f5d52552f19cf5db52eec649f73917f81bb59",
+      "en_sha256": "e93b1d865592a5f21ce3562df7c13a3040c75177fbc34a96d0b026f2c9b1a8aa",
+      "origin": "ai"
+    },
+    "dataList[id=302].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Czerwony Bóg Le Rouge Sinclair",
+      "kr_sha256": "e2d0a3a44eeecff4e4566364daa7970c01f414dd6fba2d1335f997c9ccaaed36",
+      "en_sha256": "0e1a852642a6a6fa23b3ae38360e32898d09c7629721b58164afc3dc868be97a",
+      "origin": "ai"
+    },
+    "dataList[id=303].content": {
+      "pl": "Ekstrakcja Celowana: Yi Sang",
+      "kr_sha256": "ae6a28a5321ba1ba50a5066321cf3a8482fdc9bbbeaedf813ce7b65f85764c9d",
+      "en_sha256": "867230a5cadff78cae47256e238faaa0ddb897b430045d7a2792acc6c22c677c",
+      "origin": "ai"
+    },
+    "dataList[id=304].content": {
+      "pl": "Ekstrakcja Celowana: Kciuk",
+      "kr_sha256": "a54862cc01e7ad0e263db5453a44edaccf518228f6dfefb0bffd779d722d9e4c",
+      "en_sha256": "b8f934f6fef700936c37c67546ef02ad00fcf188aa779c6b094155d70baf0f0d",
+      "origin": "ai"
+    },
+    "dataList[id=305].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości: Haute Couture::Król Szycia Le Rouge Heathcliff i Haute Couture::Radiowęzeł 3F Le Noir Hong Lu",
+      "kr_sha256": "a4e36a32854b2eda38a9461ee7bc79051915aa94e85b2704143575355900832e",
+      "en_sha256": "34242e1ee22a51b2b67fce631a728fde8d59fbece78f5ef084fa7a2f49a439e3",
+      "origin": "ai"
+    },
+    "dataList[id=306].content": {
+      "pl": "Ekstrakcja Celowana 5. i 6. Nocy Walpurgii BokGak",
+      "kr_sha256": "7c84cd4ddbcfb8f416d491cf74235a73e7d58973dad69e953169e772d9f144cf",
+      "en_sha256": "2c035a67691193a2d149c34691c923f0d12b16d5f9fde285228c209d064e06c8",
+      "origin": "ai"
+    },
+    "dataList[id=307].content": {
+      "pl": "Ekstrakcja Celowana 10. Nocy Walpurgii",
+      "kr_sha256": "3888b7a0663addd9bf3966d0bc819f04124206eca0403e8e1517e1b85f17ba7c",
+      "en_sha256": "01774bfd93fcbe4bffdc56dc85c91a7348980a64af7bada4212a8c5880ecd6d0",
+      "origin": "ai"
+    },
+    "dataList[id=308].content": {
+      "pl": "Ekstrakcja Celowana: Rodion",
+      "kr_sha256": "af2b31e3f052900933d00f1773bf2d4135b7dd7dd5d67c103233af0469c13189",
+      "en_sha256": "b9fb50c29f0a8c8328cc0e3257f86dafc696dfeb3d74346be5d7baa5ecda2619",
+      "origin": "ai"
+    },
+    "dataList[id=309].content": {
+      "pl": "Ekstrakcja Celowana: Środkowy",
+      "kr_sha256": "958accc0495dae857a95850b49724374009cdde991108950769f1967f66f031b",
+      "en_sha256": "d58776684e8cf91871fabf4e98bd8e04e9ead5f7da7c3bcc912d4804cdf02ae3",
+      "origin": "ai"
+    },
+    "dataList[id=310].content": {
+      "pl": "Nowa Ekstrakcja Celowana Tożsamości — Haute Couture::Gniazdo Pasm B2F Le Rouge Gregor i Haute Couture::Suszarnia B3F Le Noir Yi Sang",
+      "kr_sha256": "52c36c72beedd91a900fef5bda8423864e443b872423af1d66c51d8319143740",
+      "en_sha256": "168569f8db3e2085120dd848f4b9baeaadaebd776530e16e7aab485b8e3589c5",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Ekstrakcja Powitalna Nowego Kierownika",
+      "kr_sha256": "aa2f06f83b8ee67f1cc6d113d0198ac0e144aff8c591dc22bc7b9c394a8656b0",
+      "en_sha256": "29ef7b296cc47696e379070fe9eac1862d750feadc99cbedc48ca6de38695a70",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 1",
+      "kr_sha256": "77ebd794ccdf6d36e75c464221b854722314d3d15e52619c91b42dbe2c40084e",
+      "en_sha256": "486a1fb234bfb916649c9d04a39ab6cfe1dea137cf475ae5d6c4b68b63fa2244",
+      "origin": "ai"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 2",
+      "kr_sha256": "4ccf080a544beeb6af67fe27d17981dd23fde61a9a53df8acc9b1bba4de5baf1",
+      "en_sha256": "fe6d5eb2da745dd6097b5f5cf4855da229fc5ce506e0078294037bc5fdbef458",
+      "origin": "ai"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 3",
+      "kr_sha256": "1c1824bbca1c6ad98c9051642a4fa6b7ceb29b142abf758c3e60f05c0ff79757",
+      "en_sha256": "cda6d32acefd7d40075ec5a0c2b583db9409fcef61a82e7f45a8c3bb8514d820",
+      "origin": "ai"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 4",
+      "kr_sha256": "1cedd7ffeca3f6e104be6ea9da328d3aadc36c0466db54b557c435f3a7560234",
+      "en_sha256": "751df23b75c8cfb609dacd741eb657c878073d535e816e813e6bab292cf742c5",
+      "origin": "ai"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 5",
+      "kr_sha256": "04ed06da493dd3b280df2fede1c76c6331ef15ba95a007ac90ca4bb12894f850",
+      "en_sha256": "02b9db84918229ff76ade0ec64ffa23477d4eecf70174d46d7f701a5aea9eda4",
+      "origin": "ai"
+    },
+    "dataList[id=9].content": {
+      "pl": "Ekstrakcja Gwarantowana 3★ Tożsamości Sezonu 6",
+      "kr_sha256": "24df65a08c7e2c4ea388f25d918581fb49a2b04b9cd3413e78f93489127e169f",
+      "en_sha256": "1ab23fa714de12e99a9d00a944983b641bfade90a301622bc0415805532b2995",
+      "origin": "ai"
+    }
+  }
+}

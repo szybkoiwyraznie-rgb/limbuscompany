@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=9017801].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Smoke] o 1",
+      "kr_sha256": "256b5347d9c54ae4686790b59a1e64484d81891f56f56bf4c10ff59caf499633",
+      "en_sha256": "c67f7a70b19fcb1e0c300e52ac910b299000f9c8327d40ca712f78240fe7157f",
+      "origin": "ai"
+    },
+    "dataList[id=9017801].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 [Smoke]",
+      "kr_sha256": "6459485d6bd54fd202847fca32d6efa55598e4a51ae2fe7a596001eea6e680d0",
+      "en_sha256": "7bf619e0cd224178e2fba2644346a78cdaf9b00e6ac5f29721077b6d8c746920",
+      "origin": "ai"
+    },
+    "dataList[id=9017801].levelList[level=1].name": {
+      "pl": "Wola Zębatek",
+      "kr_sha256": "34bb837d0aaa8c3e3656f5c96c7e84b63ccf1e714054e31b1e786fdc7c895e0f",
+      "en_sha256": "47a3fa46f29120d28cd614807ae1fa78ab76f7b26fb886ce130bb6a09079273e",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Smoke]",
+      "kr_sha256": "4bea65191d180e79aee7e3ce50b23d740d23838b274c8bec6c7cb99a8338c8be",
+      "en_sha256": "812b95799f8670154a9efa00cfb3dc6852ec77565c50b5549cee05d84a080d39",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "5e15568ad682fddb61a695c9e655719eb6bd07cb1e58942cd59c97a8a5ca9382",
+      "en_sha256": "22d0ef77e23de680febc1a6868e51f204f820841c74bafe7f773df41c70b1ff0",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Smoke]",
+      "kr_sha256": "4bea65191d180e79aee7e3ce50b23d740d23838b274c8bec6c7cb99a8338c8be",
+      "en_sha256": "812b95799f8670154a9efa00cfb3dc6852ec77565c50b5549cee05d84a080d39",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "5e15568ad682fddb61a695c9e655719eb6bd07cb1e58942cd59c97a8a5ca9382",
+      "en_sha256": "22d0ef77e23de680febc1a6868e51f204f820841c74bafe7f773df41c70b1ff0",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 4 [Smoke] i zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "644e8d90e2a15633385305faefe50a629cba00963132466a1f71c250505e194c",
+      "en_sha256": "a4b45e2f21b6ec4b520a0ba93fd3f5494976546b4f5425ab9eb2a388929109d9",
+      "origin": "ai"
+    },
+    "dataList[id=9017802].levelList[level=1].name": {
+      "pl": "Mięsna Zębatka: Stop",
+      "kr_sha256": "50862bac9a1e24cd006c948502eb0d90e9cb27fe0d4577ac0867608857fb5f00",
+      "en_sha256": "dd1722550c8f1a01c69f313639a92bfa3ba42acbb2dbcacefa819a0a21ecb435",
+      "origin": "ai"
+    },
+    "dataList[id=9017803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Smoke]",
+      "kr_sha256": "d8a4003dce2d0da2ad7c097463a54c82932b2cfa1809aef1fc71aec065723dc3",
+      "en_sha256": "27c0bba02bb7179bdabc0924f9c9ce75495e3168ea1afc688c89d0043cdbc512",
+      "origin": "ai"
+    },
+    "dataList[id=9017803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] ponownie używa monety za każde 3 [Smoke] na celu (maks. 3 aktywacje)",
+      "kr_sha256": "9eee1fd3a9503c1ad54b13ce5b00c9d6b39676d2e5a68d31eb1e40e478e48fc0",
+      "en_sha256": "e19c2561adfe407217c0dd5b0373b3bf370e99709623eb8ee7db4b9d97b84367",
+      "origin": "ai"
+    },
+    "dataList[id=9017803].levelList[level=1].desc": {
+      "pl": "Moc Starcia +1 za każde 3 [Smoke] na celu (maks. 2)\nzadaje +10% obrażeń za każde 3 [Smoke] na sobie (maks. 20%)\n[WhenUse] przy 10 [Smoke], Moc Monet +2\n[EndSkill] zużywa wszystkie [Smoke] na sobie",
+      "kr_sha256": "dc42640cd0807ac3e0054d802e3813dd70cf081dd5ab03b7072f93d047645f79",
+      "en_sha256": "409f0d3ee5868127e8dacce79037a41ff10b0a9aa27833d7d9126a0238cbfbb4",
+      "origin": "ai"
+    },
+    "dataList[id=9017803].levelList[level=1].name": {
+      "pl": "Para",
+      "kr_sha256": "844837af07717e6413f3eb99cf87459ca5e82c59912c852587e14e1dfd945087",
+      "en_sha256": "8665d5b0e66038439c31ba3aba80a19396e2fd199394e74b22acb7004c7a2bae",
+      "origin": "ai"
+    },
+    "dataList[id=9017804].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] zyskuje 3 [Smoke] i zwiększa Licznik [Smoke] o 1\n[OnSucceedEvade] przy 10 [Smoke], zyskuje w następnej turze 1 [ParryingResultUp] i 3 [Protection] (1 raz na turę)",
+      "kr_sha256": "1f9ba0a6f954166e4c4b25c370b4b596390e124986a662f7e230a6d0a0ec2906",
+      "en_sha256": "917c8b52807899f4bf43088b2cba57514d1589cdb72c3f36b30ce21d4c4098ae",
+      "origin": "ai"
+    },
+    "dataList[id=9017804].levelList[level=1].name": {
+      "pl": "Rozkaz Uniku",
+      "kr_sha256": "1d7df095b275f35ea5c2d4901086f9cc8767d7612a4e1000a93a53b32d982d12",
+      "en_sha256": "79515fdc5ead516c8a7e87d79b739a089f3a873a685fabf9b930f0ba7c58793d",
+      "origin": "ai"
+    },
+    "dataList[id=9017901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Smoke] o 1",
+      "kr_sha256": "256b5347d9c54ae4686790b59a1e64484d81891f56f56bf4c10ff59caf499633",
+      "en_sha256": "c67f7a70b19fcb1e0c300e52ac910b299000f9c8327d40ca712f78240fe7157f",
+      "origin": "ai"
+    },
+    "dataList[id=9017901].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 [Smoke].",
+      "kr_sha256": "d676c3122158f7c36e52bfba6c665814b6e9789c21a306aecf71332d7d6c17be",
+      "en_sha256": "7bf619e0cd224178e2fba2644346a78cdaf9b00e6ac5f29721077b6d8c746920",
+      "origin": "ai"
+    },
+    "dataList[id=9017901].levelList[level=1].name": {
+      "pl": "Za Zębatkami",
+      "kr_sha256": "25d041726010aa3fb97847c5c043d6045906c4ddbc9ef2dd8e319b355f3103c3",
+      "en_sha256": "81e8f2f1e172701082e87e8dcbc3a85423790a41d9ef3570d800f2319f4e6432",
+      "origin": "ai"
+    },
+    "dataList[id=9017902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Smoke] o 1",
+      "kr_sha256": "9f5abe93765b8ecb8a82f6f0720049367209f3022311c3d9e5a8a98724a895b3",
+      "en_sha256": "6f6726972893fac623a9f6cde3ee9639e80579649dc30cf3577f033b6856f508",
+      "origin": "ai"
+    },
+    "dataList[id=9017902].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "e8e00107bd3e84aad5fb99e06cf98fe7cf493956e13d6b111c83304ce8a9172c",
+      "en_sha256": "c5bab9f2d727c6562a0f6771fa5334dbb31e4a66377129087843d0459707e5ac",
+      "origin": "ai"
+    },
+    "dataList[id=9017902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Smoke] o 1",
+      "kr_sha256": "9f5abe93765b8ecb8a82f6f0720049367209f3022311c3d9e5a8a98724a895b3",
+      "en_sha256": "6f6726972893fac623a9f6cde3ee9639e80579649dc30cf3577f033b6856f508",
+      "origin": "ai"
+    },
+    "dataList[id=9017902].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "e8e00107bd3e84aad5fb99e06cf98fe7cf493956e13d6b111c83304ce8a9172c",
+      "en_sha256": "c5bab9f2d727c6562a0f6771fa5334dbb31e4a66377129087843d0459707e5ac",
+      "origin": "ai"
+    },
+    "dataList[id=9017902].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 4 [Smoke] i zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "644e8d90e2a15633385305faefe50a629cba00963132466a1f71c250505e194c",
+      "en_sha256": "a4b45e2f21b6ec4b520a0ba93fd3f5494976546b4f5425ab9eb2a388929109d9",
+      "origin": "ai"
+    },
+    "dataList[id=9017902].levelList[level=1].name": {
+      "pl": "Mięsna Zębatka: Chwyt",
+      "kr_sha256": "c6c6f94122d23715854faf086c2706cb32d9e4840c1f1e5860eb86ee4cf36ea9",
+      "en_sha256": "62084713d6f27047639855a01d6776eb945638a2fb1748f43da717a145716682",
+      "origin": "ai"
+    },
+    "dataList[id=9017903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "0f2f1d5d33481a75d50a79d4171a9e28c630828e4026aaee1c5b1b065fdae434",
+      "en_sha256": "fdb0623065aac19a0156a5f5d591d50138cb4936d0fc7835e2d2781ff8f244c9",
+      "origin": "ai"
+    },
+    "dataList[id=9017903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] ponownie używa monety za każde 3 [Smoke] na celu (maks. 3 aktywacje)",
+      "kr_sha256": "9eee1fd3a9503c1ad54b13ce5b00c9d6b39676d2e5a68d31eb1e40e478e48fc0",
+      "en_sha256": "e19c2561adfe407217c0dd5b0373b3bf370e99709623eb8ee7db4b9d97b84367",
+      "origin": "ai"
+    },
+    "dataList[id=9017903].levelList[level=1].desc": {
+      "pl": "Moc Starcia +1 za każde 3 [Smoke] na celu (maks. 2)\nzadaje +10% obrażeń za każde 3 [Smoke] na sobie (maks. 20%)\n[WhenUse] przy 10 [Smoke], Moc Monet +2\n[EndSkill] zużywa wszystkie [Smoke] na sobie",
+      "kr_sha256": "dc42640cd0807ac3e0054d802e3813dd70cf081dd5ab03b7072f93d047645f79",
+      "en_sha256": "409f0d3ee5868127e8dacce79037a41ff10b0a9aa27833d7d9126a0238cbfbb4",
+      "origin": "ai"
+    },
+    "dataList[id=9017903].levelList[level=1].name": {
+      "pl": "Rozkaz Szturmu",
+      "kr_sha256": "a61a15ec28c787906eb6e107259eee09d9eaef67cf3e001071d9fd28e9229ccf",
+      "en_sha256": "7f1b81d3d25ee04256949cef288025c719f59f65d79ba2fdfe7c2c41613babb8",
+      "origin": "ai"
+    },
+    "dataList[id=9017904].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] zyskuje 3 [Smoke] i zwiększa Licznik [Smoke] o 1\n[OnSucceedEvade] przy 10 [Smoke], zyskuje w następnej turze 1 [ParryingResultUp] i 3 [Protection] (1 raz na turę)",
+      "kr_sha256": "1f9ba0a6f954166e4c4b25c370b4b596390e124986a662f7e230a6d0a0ec2906",
+      "en_sha256": "917c8b52807899f4bf43088b2cba57514d1589cdb72c3f36b30ce21d4c4098ae",
+      "origin": "ai"
+    },
+    "dataList[id=9017904].levelList[level=1].name": {
+      "pl": "Rozkaz Uniku",
+      "kr_sha256": "1d7df095b275f35ea5c2d4901086f9cc8767d7612a4e1000a93a53b32d982d12",
+      "en_sha256": "79515fdc5ead516c8a7e87d79b739a089f3a873a685fabf9b930f0ba7c58793d",
+      "origin": "ai"
+    },
+    "dataList[id=9018001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Smoke] i zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "fd78ec6d18240125b08cfabdf246a328ec76be9dd56e7136a6ab0262a6fc7051",
+      "en_sha256": "247afaec54016fc83332a409232fb3a5a9ed61b66bcfa0956e82438a9b1076da",
+      "origin": "ai"
+    },
+    "dataList[id=9018001].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 3 [Smoke] i zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "186d7dde735fb2012cdfc7bb06e0cf8c586ee36757d1c55fd1fb7b18dd2272a8",
+      "en_sha256": "cc727e07713125af24726b39f8d8b2725ddfb7d84b7906e4d8a252044d318695",
+      "origin": "ai"
+    },
+    "dataList[id=9018001].levelList[level=1].name": {
+      "pl": "Mięsna Zębatka: Rozkaz",
+      "kr_sha256": "0dc462a87ee35d6ddb2e7c11d8b3ed1c0025f4761cafc74441bba8784bbd1cff",
+      "en_sha256": "8727cd0154517b77163f207558d1034b1756755b343aa3dc54f1125d75c6b598",
+      "origin": "ai"
+    },
+    "dataList[id=9018002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Smoke] i zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "8122786486d9216f1e8e060b37c76e791e3d4bb46c75753da2d0c064c0ea4a0a",
+      "en_sha256": "e75b62e3b6d61d09f8b9bece9630ae212fb8fd29e967caaa55d5853f3b2d0183",
+      "origin": "ai"
+    },
+    "dataList[id=9018002].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "5e15568ad682fddb61a695c9e655719eb6bd07cb1e58942cd59c97a8a5ca9382",
+      "en_sha256": "22d0ef77e23de680febc1a6868e51f204f820841c74bafe7f773df41c70b1ff0",
+      "origin": "ai"
+    },
+    "dataList[id=9018002].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 4 [Smoke] i zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "644e8d90e2a15633385305faefe50a629cba00963132466a1f71c250505e194c",
+      "en_sha256": "a4b45e2f21b6ec4b520a0ba93fd3f5494976546b4f5425ab9eb2a388929109d9",
+      "origin": "ai"
+    },
+    "dataList[id=9018002].levelList[level=1].name": {
+      "pl": "Zębatka Myśli: Zbiór",
+      "kr_sha256": "8437ce38e2f4d060072e8850df7e46b3dfe7689330df3022d3f67b374bca6a12",
+      "en_sha256": "f3df1825efeb681e0bb4b71f393aec89f79ef1316d5d3f5ad2ed9d101040346a",
+      "origin": "ai"
+    },
+    "dataList[id=9018003].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Smoke] o 1",
+      "kr_sha256": "9f5abe93765b8ecb8a82f6f0720049367209f3022311c3d9e5a8a98724a895b3",
+      "en_sha256": "6f6726972893fac623a9f6cde3ee9639e80579649dc30cf3577f033b6856f508",
+      "origin": "ai"
+    },
+    "dataList[id=9018003].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] ponownie używa monety za każde 5 [Smoke] na celu (maks. 2 aktywacje)",
+      "kr_sha256": "1696195f146241a0361eae36329ccddbe3e8e1598bfdf726ef9e41e8193bb382",
+      "en_sha256": "1e4abde9882b0df3cfe1f6770a8d7445924c8394f5c4693e6ef9a7eeb744cc46",
+      "origin": "ai"
+    },
+    "dataList[id=9018003].levelList[level=1].desc": {
+      "pl": "Moc Monet +1 za każde 3 [Smoke] na celu\nzadaje +10% obrażeń za każde 3 [Smoke] na sobie\nza każde ponowne użycie monety tą Umiejętnością zużywa 3 [Smoke] na sobie\n[WhenUse] przy 10 [Smoke], Moc Monet +1",
+      "kr_sha256": "af1645608cd80b557a678bb6ea37448200f42deed6e54c8a8836509433fa72d0",
+      "en_sha256": "d0cc839ab107cb3ebf122b8d842d48ae597e4ec4b7bada387e008b1f330c4e89",
+      "origin": "ai"
+    },
+    "dataList[id=9018003].levelList[level=1].name": {
+      "pl": "Mięsna Zębatka: Ograniczenie",
+      "kr_sha256": "9cdccfe281a8b8d863cc988e62406adcfa3b192f9a643bb6ef88afdfd0fdacc0",
+      "en_sha256": "0d6f683196dba0b5f8fb314afe48f56268d3585154e7e6206354ca43c02b4882",
+      "origin": "ai"
+    },
+    "dataList[id=9018004].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Smoke]",
+      "kr_sha256": "d8a4003dce2d0da2ad7c097463a54c82932b2cfa1809aef1fc71aec065723dc3",
+      "en_sha256": "27c0bba02bb7179bdabc0924f9c9ce75495e3168ea1afc688c89d0043cdbc512",
+      "origin": "ai"
+    },
+    "dataList[id=9018004].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Smoke] o 2",
+      "kr_sha256": "0f2f1d5d33481a75d50a79d4171a9e28c630828e4026aaee1c5b1b065fdae434",
+      "en_sha256": "fdb0623065aac19a0156a5f5d591d50138cb4936d0fc7835e2d2781ff8f244c9",
+      "origin": "ai"
+    },
+    "dataList[id=9018004].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] ponownie używa monety za każde 3 [Smoke] na celu (maks. 3 aktywacje)",
+      "kr_sha256": "9eee1fd3a9503c1ad54b13ce5b00c9d6b39676d2e5a68d31eb1e40e478e48fc0",
+      "en_sha256": "e19c2561adfe407217c0dd5b0373b3bf370e99709623eb8ee7db4b9d97b84367",
+      "origin": "ai"
+    },
+    "dataList[id=9018004].levelList[level=1].desc": {
+      "pl": "Moc Starcia +1 za każde 3 [Smoke] na celu\nzadaje +20% obrażeń za każde 3 [Smoke] na sobie\n[WhenUse] przy 10 [Smoke], Moc Monet +2\n[EndSkill] zużywa wszystkie [Smoke] na sobie",
+      "kr_sha256": "b5f50f0d1a8bd49205cc6fe3119b2ea842f78cc8b6950c711ac0151147bffb4a",
+      "en_sha256": "e5715f29b97534c17d57e6c5e3a76b3a32d06c80559a996a538427f9d27d2552",
+      "origin": "ai"
+    },
+    "dataList[id=9018004].levelList[level=1].name": {
+      "pl": "Zębatka Myśli: Usunięcie",
+      "kr_sha256": "0d4829441f0a7e9c119914040011f02f583dc479a35de367ca8e42db9d218ffb",
+      "en_sha256": "5ecc028de685cc3c202076d0966d98a4d2e606ede10dcab028680d29f749eb2e",
+      "origin": "ai"
+    },
+    "dataList[id=9018005].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 5 [Smoke] i zwiększa Licznik [Smoke] o 2\n[WhenUse] przy 10 [Smoke], zyskuje w następnej turze 2 [PlusCoinValueUp] i 3 [Protection] (1 raz na turę)",
+      "kr_sha256": "b9bf6147f2fc595fc5743937a36b48c11795eef987ebe01bb97e4a9d7251549c",
+      "en_sha256": "4c9160b468eff107bf0761bc96b8b8181b2080e371d02a73e4629b4819fba1c6",
+      "origin": "ai"
+    },
+    "dataList[id=9018005].levelList[level=1].name": {
+      "pl": "Zębatka Myśli: Para",
+      "kr_sha256": "d0e998f9fcbdf86b48fb9a2fd89518dae1424c89368dfd527274c948be584f69",
+      "en_sha256": "2c2b2bc987ef4636da20b1154448a681d7249832a14ebc3471f804cde0db64ed",
+      "origin": "ai"
+    }
+  }
+}

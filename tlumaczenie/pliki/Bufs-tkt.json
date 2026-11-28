@@ -1,0 +1,232 @@
+{
+  "entries": {
+    "dataList[id=EquitableDistribution].desc": {
+      "pl": "Gdy Współdzielony Czas jest wydawany, Mózgi wydawają go uczciwie, po równo.",
+      "kr_sha256": "9064ff1a7c145d493e070b69d5088859b5d3c85aa327ea41071179e6b3751dbd",
+      "en_sha256": "35a6a709b89277355607fbc79408b5240f2234fe4a10dc3ec7c5f0ada0b5837b",
+      "origin": "ai"
+    },
+    "dataList[id=EquitableDistribution].name": {
+      "pl": "Wspólny Wydatek Czasu",
+      "kr_sha256": "a4fff6880f5b83bd38b8363caea43b358c1b0bdbb3f213e885bfea78e6f22b3c",
+      "en_sha256": "81c8830fa2dde635aacb955039573484a1f169c78f679c423a41dde9c23edcf1",
+      "origin": "ai"
+    },
+    "dataList[id=FusionVibration].desc": {
+      "pl": "- Scala efekt Wstrząsu dodawany przez Splątanie Amplitudy z typem Wstrząsu na celu w Wstrząs - Superpozycja.\n- Podczas Splątania Siła i Licznik obecnego Wstrząsu zostają zachowane.\n- Przy wywołaniu Konwersji Amplitudy na Wstrząsie - Superpozycji efekt Wstrząsu zadziała jako Splątanie Amplitudy.\n- Na koniec tury zamienia się w zwykły Wstrząs",
+      "kr_sha256": "a3a7c368ac142d7101df24a4ee7589fc38d141ec6e03aba8bb23858c91da701c",
+      "en_sha256": "edcbed5e1cfa6be1e2ecf1e23423a0ad9a26f9052d6bab199169884a45ea171e",
+      "origin": "ai"
+    },
+    "dataList[id=FusionVibration].name": {
+      "pl": "Splątanie Amplitudy",
+      "kr_sha256": "dae14437f662438eaf86b4e8a78593ca32840cd8487907d602e10060dbce1331",
+      "en_sha256": "bc9ffe72849eec99202f2ab08b3a6a01afa0ff81edfa9a7fcfa874ef75580cd2",
+      "origin": "ai"
+    },
+    "dataList[id=LimitedTime].desc": {
+      "pl": "- Na początek tury przy wartości 200 lub więcej zyskuje ({0} - 200)/50 Wzrostów Poziomu Ataku i Wzrostów Poziomu Obrony.\n- Na początek tury przy wartości poniżej 200 zyskuje (200 - {0})/50 Spadków Poziomu Ataku i Spadków Poziomu Obrony.",
+      "kr_sha256": "4b8b8110bbf5921615c02a0f1b0ea79cc588f8ff70a2fd180ac7d4acd63e48d4",
+      "en_sha256": "23d2bffd4361aee5179b636cafe2e6374d1e97907e3744f0f9b9d10759412655",
+      "origin": "ai"
+    },
+    "dataList[id=LimitedTime].name": {
+      "pl": "Skradziony Czas",
+      "kr_sha256": "159aed20f63842d21bb97c6c30e39dd5906133b73d530e105751e726a54dfe13",
+      "en_sha256": "2f1f426be51deae816e3fbcae7b6f71118389b498caf123311f1e1ae1ae9303d",
+      "origin": "ai"
+    },
+    "dataList[id=OwnTime].desc": {
+      "pl": "- Na początek tury przy wartości 40+: zyskuje ({0} - 40)/10 Wzrostów Poziomu Ataku i Wzrostów Poziomu Obrony.\n- Przy wartości poniżej 40: zyskuje (40 - {0})/10 Spadków Poziomu Ataku i Spadków Poziomu Obrony.",
+      "kr_sha256": "1f26869cbd83437a5de68b339aae73ff13cb9db318459fce4ee5bd9ed5497149",
+      "en_sha256": "425b5e0f11eb6e8630b96e597706a37c21b2f8e835176ad21cc0795de158e4ed",
+      "origin": "ai"
+    },
+    "dataList[id=OwnTime].name": {
+      "pl": "Współdzielony Czas",
+      "kr_sha256": "ef41a91af23aa7ef97739d04a41b40f00db6c294245f2574486d969aba5f6d38",
+      "en_sha256": "76fe3dd4627953610dcadd7a66e9be718fb66894656f5d1c814888b5ad1e9f1c",
+      "origin": "ai"
+    },
+    "dataList[id=ParryingResultDown].desc": {
+      "pl": "W Starciu traci Moc Starcia równą wartości",
+      "kr_sha256": "60acc1d542290aaccd8c697d20d8df7d9a2f5121dc7577f01e0b27bb01ea5208",
+      "en_sha256": "1f66dbca30932ae491b7958fe74ee1622b486c4b1d60934ba4b032e778637e4f",
+      "origin": "ai"
+    },
+    "dataList[id=ParryingResultDown].name": {
+      "pl": "Spadek Mocy Starcia",
+      "kr_sha256": "06d57f855b4ada66d391a9a7381a110856ac4193c75e0b7d790de70fbdea723f",
+      "en_sha256": "46feabf87f10c54e90b5acc38bd4d60065c0d42d2ba3988420a60a2e99879e96",
+      "origin": "ai"
+    },
+    "dataList[id=ParryingResultUp].desc": {
+      "pl": "W Starciu zyskuje Moc Starcia równą wartości",
+      "kr_sha256": "2cf67eac99435a6a5e9f7407bcfec672f184c96f999bb2578464064d5a54929e",
+      "en_sha256": "a90927ec950af8fd347bb59f1b97a1e4ef96b6e1d08ab222e0ea225f15a22b1f",
+      "origin": "ai"
+    },
+    "dataList[id=ParryingResultUp].name": {
+      "pl": "Wzrost Mocy Starcia",
+      "kr_sha256": "e7b660580984f8796373ad58bb8883cb65d6cf9b51f7eaf3ed5ca1555db7e13d",
+      "en_sha256": "d8b83de6fd4c15a31918f3d1771a03d84034105be5f6b6884d836fea302a7430",
+      "origin": "ai"
+    },
+    "dataList[id=ParryingResultUp].summary": {
+      "pl": "W Starciu zyskuje Moc Starcia równą wartości",
+      "kr_sha256": "2cf67eac99435a6a5e9f7407bcfec672f184c96f999bb2578464064d5a54929e",
+      "en_sha256": "a90927ec950af8fd347bb59f1b97a1e4ef96b6e1d08ab222e0ea225f15a22b1f",
+      "origin": "ai"
+    },
+    "dataList[id=TcorpSpecialInvestigator].desc": {
+      "pl": "- Przy śmiertelnych obrażeniach HP nie spada poniżej 1, natychmiast leczy 80% Maks. HP i wychodzi z Oszołomienia (1 raz na walkę)\n- Po wywołaniu tego efektu, od następnej tury, zyskuje 2 Wzrostu Mocy Ataku na początku każdej tury przez 5 tur.",
+      "kr_sha256": "cf3b97788e1d6c120b462ed5e3c96bb1f913bbe0c7015e9ba26137b2fc7a62e3",
+      "en_sha256": "a1c9b7d370bd159ca3adcb9f709d27350d38314048a713e9fee3f0f3ba3f3c9a",
+      "origin": "ai"
+    },
+    "dataList[id=TcorpSpecialInvestigator].name": {
+      "pl": "Odznaka Specjalnego Śledczego Korporacji T",
+      "kr_sha256": "39787dd31e52be6309a756b7ffcb27af8df4c07b1d9be4b06b6fd37fc8e12334",
+      "en_sha256": "ebf061804215e3f9bc079af7f01e85d3d0cfd5056727faaa116a4ff9a59ae6e5",
+      "origin": "ai"
+    },
+    "dataList[id=TimeAcceleration].desc": {
+      "pl": "- Zyskuje 5 Szybkości\n- Wzmacnia Umiejętności tej jednostki.\n- Zyskuje 1 Wrażliwości; podniesienie Progu Oszołomienia przez Wyładowanie Wstrząsu, Umiejętności lub efekty Monet rośnie o 50%",
+      "kr_sha256": "ccee108aa9abbcb07294cd525c316e74be2909d748e1eddffaaa96e32b30815e",
+      "en_sha256": "742bb2e53f5da7efb69f9f9d9b81a048b4554fb1668be550c81f496372eaa4f6",
+      "origin": "ai"
+    },
+    "dataList[id=TimeAcceleration].name": {
+      "pl": "Przyspieszenie Czasu",
+      "kr_sha256": "36b3238471392434b741adb16e9681b65f36133a44cca983d59cb0dedd4aa1ef",
+      "en_sha256": "6d9cbade35293f411662adc4d5b39eddd991ba64eb6a05650efce5a83439bc68",
+      "origin": "ai"
+    },
+    "dataList[id=TimeAccumulation].desc": {
+      "pl": "Dopóki ten efekt jest aktywny, otrzymywane obrażenia są magazynowane i nie są przyjmowane.\nNa koniec tury maleje o 1\nNa koniec tury, jeżeli zostaje tylko 1 wartość, efekt znika po zadaniu (2 x zmagazynowane obrażenia) obrażeń Lenistwa\nPodczas istnienia tego efektu jego wartość nie może zostać zdobyta ani odnowiona",
+      "kr_sha256": "1f8c0f81d5e8be83e75efa8efb2b1c65fee002489810f5509cf78c8fe06557bf",
+      "en_sha256": "9c61f324f27a0294272c13ae088077bb0b6a792acd55f110196ba45880e4bacf",
+      "origin": "ai"
+    },
+    "dataList[id=TimeAccumulation].name": {
+      "pl": "Opóźnienie Czasu",
+      "kr_sha256": "bf990b468afce345d9cc5cdb4e42f753bad785349d1f9037f0f9fe5da48f625b",
+      "en_sha256": "061894fc926ddd8e93121290e1d026ae9398d5369c68b28071e631590416024c",
+      "origin": "ai"
+    },
+    "dataList[id=TimeKillerWatch].desc": {
+      "pl": "Podczas Przyspieszenia Czasu staje się celem ataków Zabójcy Czasu.",
+      "kr_sha256": "0ae01c1e2a00164ec8267c7f67f1925acd7584e74f65509dcb4fc47b75a9676a",
+      "en_sha256": "35329399a1c1f3b909d02fb98f528f7e12fa88f72df5794262b80c7713405080",
+      "origin": "ai"
+    },
+    "dataList[id=TimeKillerWatch].name": {
+      "pl": "Cel Ratowania Czasu",
+      "kr_sha256": "145c7d532687b16242d1cfa4c1728910bc65ac230b4bbaa5530a542e9afc67e7",
+      "en_sha256": "69437fa69efb796538f857ba31d4687462045a098a3aba014ff2ad8a1293b288",
+      "origin": "ai"
+    },
+    "dataList[id=TimeRentalTwo].desc": {
+      "pl": "Na koniec tury\n- W następnej turze zyskuje {1} Pośpiechu, Wzrostu Mocy Starcia i Wrażliwości.\n- Przy 1 Liczniku zamiast powyższego efektu zyskuje w następnej turze {0} Spętań\n- Zyskuje 1 Siły i traci 1 Licznika\n- Jeżeli ma więcej Spętań niż Pośpiechu, efekt Pożyczonego Czasu znika, a jednostka zostaje oszołomiona.",
+      "kr_sha256": "6883f556e7c2d7103c9481d89c360af102c61d6ee316eed7ec861052c21af327",
+      "en_sha256": "a7360282673551bba7512735fd7a3f76efa57671ad6deb9223c048a536a81878",
+      "origin": "ai"
+    },
+    "dataList[id=TimeRentalTwo].name": {
+      "pl": "Pożyczony Czas Korporacji T",
+      "kr_sha256": "165e4c03b821c5cf67260dd2d522352b5b2da76b07b4b98897fc7c9eb654b0b8",
+      "en_sha256": "9a4c0ef8e50b3e434f64bad883c27ed4c7cf6842da18ada8e8dcec1325b13dd7",
+      "origin": "ai"
+    },
+    "dataList[id=UltraPrecisionTimeAcceleration].desc": {
+      "pl": "Zyskuje bazowe Min. i Maks. Szybkość równe stosom\nUmiejętności nakładające Siłę lub Licznik Wstrząsu albo wywołujące Wyładowanie Wstrząsu zyskują Moc Bazową +(stosy), zadają +(stosy x 10)% obrażeń wrogom, a podniesienie Progu Oszołomienia przez Wyładowanie Wstrząsu rośnie o (stosy x 10)% (w tym Umiejętności E.G.O)\nNa koniec tury maleje o 1\nPrzy 1 stosie wartość nie spada do 0 i utrzymuje się przez całą walkę",
+      "kr_sha256": "ecb4ef00c5427f78e31a66ab2d69832c00769900abdd112d6af82bc1cdf898d9",
+      "en_sha256": "03911e9bb7e77772fd1e1b54dec9dfab67352a02b56373a9e26c3790661345d7",
+      "origin": "ai"
+    },
+    "dataList[id=UltraPrecisionTimeAcceleration].name": {
+      "pl": "Mikroprecyzyjne Przyspieszenie Czasu",
+      "kr_sha256": "5f6266ceb775f7ea2af62cd236fafbe976586d1398eab9db54caf4afaae286d3",
+      "en_sha256": "1eb5c3fe9d592943394f634a7a88cbc9f99883e082a9117323f9adf2905ed741",
+      "origin": "ai"
+    },
+    "dataList[id=UnfairDistribution].desc": {
+      "pl": "Gdy Współdzielony Czas jest wydawany, każdy Mózg wydaje go wedle własnego uznania.\nNa początku tury wszystkie części tracą Ochronę równą liczbie części o różnej pozostałej wartości Czasu.",
+      "kr_sha256": "c7e69147feafba6dded6c19bca8060f06f9d8fc7f8f4a6d9eed4d9e0e6d5861c",
+      "en_sha256": "c250853927774553785bd58e12f0fc66a306de2847c4d99e6f304c03f061353d",
+      "origin": "ai"
+    },
+    "dataList[id=UnfairDistribution].name": {
+      "pl": "Konflikt Wewnętrzny",
+      "kr_sha256": "b11a15f5c79f15a109b4ed86f91b47993ffbc99161482b91cdc5702a74456194",
+      "en_sha256": "a9472713c48486eae2a823efdf5be01db8b6a6b73e6cb890c13c201f7ba666d5",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationChain].desc": {
+      "pl": "- Moc Starcia maleje o 1 za każde 10 Mocy Wstrząsu (maks. 3)\n- Przez {1} tur przy trafieniu Umiejętnościami wywołującymi Wyładowanie Wstrząsu Próg Oszołomienia rośnie o {0}\n- Na koniec tury Licznik maleje o 1\n- (Podlega w ten sam sposób efektom zwiększającym lub zmniejszającym Moc i Licznik Wstrząsu)",
+      "kr_sha256": "3f2a037c847a41789cff301baee18ada467044b35f51da4809e4c61f3381e1fa",
+      "en_sha256": "f023a709f93242ec0468576dca185e9c5c4930300859f53dc0ee4bcf9f64981b",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationChain].name": {
+      "pl": "Wstrząs - Łańcuch",
+      "kr_sha256": "9a87c3e0184be2b5a467f4bca5582f2e952e715c9689a83c29ba74b30995ad26",
+      "en_sha256": "a9f02cd5bbb5d130cbc8d28e49dad668a8389605eb470667a72e4d040cef8aaa",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationChain].summary": {
+      "pl": "Moc Starcia maleje o 1 za każde 10 Mocy Wstrząsu\nPróg Oszołomienia rośnie o {0}",
+      "kr_sha256": "3b103dd9104358b3b509034a480faa5a6edb8e628cdd849b21e7557db1faa180",
+      "en_sha256": "5e2d71f2d9469cf902edeccc27a3b8bcb96b7299509e8fa44a6c9268b1f9a129",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationDistribution].desc": {
+      "pl": "- Na koniec tury zyskuje w następnej turze Wzrost Poziomu Ataku w ilości (suma Liczników Wstrząsu wszystkich sojuszników / liczba żyjących sojuszników) (maks. 5)\n- Przez {1} tur przy trafieniu Umiejętnościami wywołującymi Wyładowanie Wstrząsu Próg Oszołomienia rośnie o {0}\n- Na koniec tury Licznik maleje o 1\n- (Podlega w ten sam sposób efektom zwiększającym lub zmniejszającym Moc i Licznik Wstrząsu)",
+      "kr_sha256": "b926f62bc31dc8fd91bb821e8d19b6d0c23b6af54daec597e25ec23d167c7f51",
+      "en_sha256": "177ce37e326aba3103972cbba64ff970e74fb82325c7156766fb779a9b5d02fb",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationDistribution].name": {
+      "pl": "Wstrząs - Dystrybucja",
+      "kr_sha256": "4dd0301eef0a2f0b8df4bd7936974ae9192bdcf45b687b67c90af4899cbd1e72",
+      "en_sha256": "e246f98170e255d96cee178ddc099f6db4e4390a1e74c8389341d0665f5599d3",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationNesting].desc": {
+      "pl": "- Zdobywany przez Splątanie Amplitudy\n- Przy wywołaniu Konwersji Amplitudy do listy aktywnych efektów Wstrząsu w Wstrząsie - Superpozycji dołącza wynikowy Specjalny Wstrząs",
+      "kr_sha256": "1117fe90002f3ae5f11e43dbca94f02766424469f7b3c09d8f04e8b560bb878a",
+      "en_sha256": "02da56c414c33222ccd855d661699aa19c1388eed3e0062c5ebfd407bd36146f",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationNesting].name": {
+      "pl": "Wstrząs - Superpozycja",
+      "kr_sha256": "970fa62c292e4e98a4bf3488fd847034bfbead517faa1649df7076addfb827d1",
+      "en_sha256": "7e7f73d69b617d03b9eeaec99768399be115cc54d7c8510adddd675f3d433365",
+      "origin": "ai"
+    },
+    "dataList[id=Yurodivy_LowMorale].desc": {
+      "pl": "- Niskie Morale\nZyskuje 1 Wrażliwości. Przy trafieniu zyskuje 1 Licznika Wstrząsu. (maks. 3 razy)",
+      "kr_sha256": "8dd9c0ce3f4827021fdf5b12e3f96b80c1246247fbbb9f8159f72e10300df5c8",
+      "en_sha256": "7e03ed64456faf85dec8abd9fee82964b2fe677c510077e96d82cf9ec2de7980",
+      "origin": "ai"
+    },
+    "dataList[id=Yurodivy_LowMorale].name": {
+      "pl": "Rozbita Jedność",
+      "kr_sha256": "66c9c6c5c940bf5c6edcd3df0e86ceeb1552acb81d0e20975b1f5fe911c4615c",
+      "en_sha256": "ea811d8cae77a188dbe2fab806b239cab13c45eb858039be185508e58040a9cd",
+      "origin": "ai"
+    },
+    "dataList[id=Yurodivy_Panic].desc": {
+      "pl": "- Panika\nZyskuje 2 Wrażliwości. Przy trafieniu zyskuje 2 Licznika Wstrząsu. (maks. 3 razy)",
+      "kr_sha256": "b7d57d15c80266af52f56d7b6abd270c8f6c00a4082a7dd0d88d4b448f85f127",
+      "en_sha256": "75ed835c06c0c52eca9e320920cc4495f6a208f322bd3ea9254685085083125c",
+      "origin": "ai"
+    },
+    "dataList[id=Yurodivy_Panic].name": {
+      "pl": "Rozbita Jedność",
+      "kr_sha256": "66c9c6c5c940bf5c6edcd3df0e86ceeb1552acb81d0e20975b1f5fe911c4615c",
+      "en_sha256": "ea811d8cae77a188dbe2fab806b239cab13c45eb858039be185508e58040a9cd",
+      "origin": "ai"
+    }
+  }
+}

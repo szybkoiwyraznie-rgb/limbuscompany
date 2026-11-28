@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=new_season_former_global_growth_piece_to_current_piece_desc].content": {
+      "pl": "Część posiadanych Odłamków przeznaczonych wyłącznie do Synchronizacji · Analizy Anomalii (wspólnych) przechodzi na bieżący sezon.",
+      "kr_sha256": "26f1fa0f812139a4cee48f56a7589a82575e092f7b922e713f502af9349e8cc0",
+      "en_sha256": "11a8ef649f02dca200a87307c4184173a74d1504ff1888fec9eff72d54ee22cf",
+      "origin": "ai"
+    },
+    "dataList[id=new_season_former_global_growth_piece_to_thread_desc].content": {
+      "pl": "Nieprzeniesione Odłamki przeznaczone wyłącznie do Synchronizacji · Analizy Anomalii (wspólne) zostają zamienione na Nić.",
+      "kr_sha256": "cd4d8181a77bba456c9fc83331b4062c77e86c09e36ea392471a5a780d12e956",
+      "en_sha256": "faf5e2bb745fa1936a08f91cdc0e81a66ea864de9790e204f7588845780078f7",
+      "origin": "ai"
+    },
+    "dataList[id=start_mp_changed].content": {
+      "pl": "PP na wejściu {1} {0}",
+      "kr_sha256": "415b6e5bbd7fa19b7cb2693096c8e7cd6bb8d749a57ac0f9cd7f78f7959cefa4",
+      "en_sha256": "fbfb787946445236992964a94ddbfe8033e8bcb13c7ad0b1a77b5d21c5ac5cfc",
+      "origin": "ai"
+    },
+    "dataList[id=unable_to_edit].content": {
+      "pl": "Nie można edytować",
+      "kr_sha256": "c1c2252f16845d4ca38271f61762ba5a7fb71dc931281349c0907821bb163d7c",
+      "en_sha256": "b5e27ae0c9d6ec4d6ad9855c0a237de87c59e8202c264509914d982e5777ed9c",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=107804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Breath].",
+      "kr_sha256": "5bdcd52e19ee0ad4699a80324937c8d186eb641951b7c5459813e1d4b64148d1",
+      "en_sha256": "4c604da202f4357a3ecc0427d1b24c0bed1493667dc0e21a5ec7f91405de2f84",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe obrażenia równe [Breath] jednostki",
+      "kr_sha256": "8542e5aa7cbd884aecca1ee9e8d3fef5d2e9933be2fae3257558671489ae25aa",
+      "en_sha256": "e8c751a7a13f4c4c3ecd9c40e3774bc171ce0cae0bad4c99acfa2315215c7634",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 [Breath] i 3 Licznika [Breath]",
+      "kr_sha256": "8dd339264b577b189f7126baa1ed182a311f37134f7c26e06183f907d54c165e",
+      "en_sha256": "bde7487eda4a56b14a4ef4484bf79b0f3a17cd845f528a976b29eff3fe5ea2fc",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] losowo wybiera 1 z 4 efektów ([Protection], [Enhancement], [Vulnerable], [Paralysis]). nakłada 3 wybranego efektu.",
+      "kr_sha256": "31421651ca6bc97b6b00e886ad0e76522ea6943ec4023ad08021624ac3654007",
+      "en_sha256": "9b6d56d19a423eb5766212e05ab8874db226cc3898aaf61d076238b211215493",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] cel traci SP równe Licznikowi [Charge] tej jednostki",
+      "kr_sha256": "044e056dcee22e5976fe0b2e32a3dbd19958a715769b6b0341e1998fdc9fe5f6",
+      "en_sha256": "7e352b9d73e51f6c2f02dbfc3c3d1431cafe602bff235e20e182ffabce6396e4",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[EnemyKill] wszyscy wrogowie tracą 10 SP.",
+      "kr_sha256": "a7187e4664199e2f00f5b52b28e93b21072a3dc9bb19fd0e08cd68ac8f2b4259",
+      "en_sha256": "1106a6a9e7c3ca372e0cde8d36e349a09a8e2b64d01a458d64f7fc9c1846dfe8",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[EnemyKillFail] zyskuje 2 [Paralysis] w następnej turze.",
+      "kr_sha256": "793c8224606e30d2e1bbedf04910fab90723ae47f70d8012be23798cf38c32d2",
+      "en_sha256": "54b26be280b51c7d2d90812193e2c925c3841e6a8a5a7118da7aa639efacbff5",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].desc": {
+      "pl": "jeżeli ta jednostka ma [AaCeSeBa], dodaje do efektów Monet „nakłada 1 [Paralysis] w następnej turze”\npriorytet: jednostka z najniższą Szybkością\n[EndBattle] zużywa wszystkie Liczniki [Charge]",
+      "kr_sha256": "e37d5c2ecced80d048fbfcb567b42b98e668cda51e874f143e43caaca73ed3cd",
+      "en_sha256": "b4a918f9c7016a84ee9c06574ec526daf21baaa6d244fc277a3251238bbb00bc",
+      "origin": "ai"
+    },
+    "dataList[id=107804].levelList[level=1].name": {
+      "pl": "Pakuję",
+      "kr_sha256": "f0a2b40c19e206f38cbf47bf8330575a9efb149685c4c9e27f91d8602865d7b4",
+      "en_sha256": "e8a3771287d4a74ecadc7604ac9f4875c2f2927e264f76f7d489b3dbcc3456aa",
+      "origin": "ai"
+    }
+  }
+}

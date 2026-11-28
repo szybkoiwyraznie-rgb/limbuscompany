@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1126].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [AttackDmgUp] i 1 [Vulnerable]",
+      "kr_sha256": "6febf59c3a6f21ee9f261b71df7f5397634538a470bf86121d8117f2f73f93c4",
+      "en_sha256": "dac791204d1e08bd455d119b1236609ac5c55b0138f2ce9cee6155822c8eae81",
+      "origin": "ai"
+    },
+    "dataList[id=1126].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "669b5c86b8c7fa0fd6a2f89c3c869f19404065c7839f0fb2d167afe9632d3163",
+      "en_sha256": "16e5fd4ddbc09a4798a173a36c338c0b9d23f84f071b6f3f6fbe5aa7e2935353",
+      "origin": "ai"
+    },
+    "dataList[id=1126].panicName": {
+      "pl": "Zuchwała Buta",
+      "kr_sha256": "6d43680d9eb7f07dcc19b45226e52239503b8868e071043b6091250513970365",
+      "en_sha256": "53fb85f14281ac6178b2decd0efca9b0d4aeb5553cb17bc63c842bff07d32aaa",
+      "origin": "ai"
+    }
+  }
+}

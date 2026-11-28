@@ -1,0 +1,54 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Dante, przed tą izolatką… nie czuje pan czegoś innego niż dotąd?",
+      "kr_sha256": "e494052a95664c56a989fdfd00f17cba4457a8226e4ec765566add0c94e189cf",
+      "en_sha256": "8353fd5586fb3bb3aefad31e8e62e995d94c0e678addb2868f71edba38e39a72"
+    },
+    "dataList[id=1].content": {
+      "pl": "<Chyba tak… A, czyli to tu?>",
+      "kr_sha256": "0e2672ea18a3317825538cf75fa023c5ff88848d524900654942df5548e2827e",
+      "en_sha256": "c7ef87ed97bd9939ca7ff61e791dc28496187d8cf7ae2ada1691253d0fa8ba5c"
+    },
+    "dataList[id=2].content": {
+      "pl": "Tak. Powinna tam być Anomalia, w której zapuściła korzenie Złota Gałąź.",
+      "kr_sha256": "4e93bb159e4a186cbc626356ae7591e4b0b49c07c3d693f4f93765c2c09c8e3f",
+      "en_sha256": "159d29ee927b0d2cdc576de8abd7e66d881f9614ffd7e66a60e527546ce149bf"
+    },
+    "dataList[id=3].content": {
+      "pl": "Haa… Ale chyba dotarliśmy na miejsce.",
+      "kr_sha256": "46bddeec710e5c3f4c84482b75d90ec214945720fc9fabe75ad7e17371dcc409",
+      "en_sha256": "2abc8f5c0a9b5370308ae9053a6fe73183c1a79ea016749701f2ce38f2128f0b"
+    },
+    "dataList[id=4].content": {
+      "pl": "Panie Gregorze…",
+      "kr_sha256": "205463804454dd7e60dabcebb02335118d805f09528f7174261da9d9bc1e692e",
+      "en_sha256": "1a831b1dcb3801ef2c9d9c6397877246bbc332378c166590c718c6a7fd704762"
+    },
+    "dataList[id=5].content": {
+      "pl": "…Jak wrócimy do autobusu, mogę nauczyć Charon czytać mapę?",
+      "kr_sha256": "f45ea7653a1963874f1f5c84c45eecc3499e4784c6842d5be50b4f8f448d3797",
+      "en_sha256": "8d6d141913f49fc82f4624d05034fab8401c6632ddf30cb185d9f412fb3909c4"
+    },
+    "dataList[id=6].content": {
+      "pl": "…Jasne, jasne. Charon się ucieszy.",
+      "kr_sha256": "01adb3d32bbb58e80670d966644529f51fc9537f57c29b057b4fdf0e865954d1",
+      "en_sha256": "fada096b95e145c805351d661b0b5daef93095164faaad4f9b9558cf97d7a182"
+    },
+    "dataList[id=7].content": {
+      "pl": "Wątpię…",
+      "kr_sha256": "682762fe66f17546cd1ad81ae148ded41cc8a868aeffba70ec1f147c5a99c0da",
+      "en_sha256": "d819d4ee2681a38b6a1d8c2a4bc66d522da5107fc339f02bfb8ba561237538a9"
+    },
+    "dataList[id=8].content": {
+      "pl": "Sinclair pokręcił głową i zaraz potem zebrało mu się na wymioty.",
+      "kr_sha256": "02026f3268df0aca0e95ed3aada14121a84c789e8e860beaaf6232714684e677",
+      "en_sha256": "0449d609f7f506241a5bd25100677a959fff2cdbd037996a89c18d96be7a15a1"
+    },
+    "dataList[id=9].content": {
+      "pl": "He, he. Miło mieć dokąd wracać.",
+      "kr_sha256": "1793b286ea16ac98c81f680dfe65fa80d126a1aa55bad5892f4ef04097e6e51b",
+      "en_sha256": "c5890905415d1c49b3ae03b9bba4d9640f57cfb84e122fe0d4eea4f0a051f742"
+    }
+  }
+}

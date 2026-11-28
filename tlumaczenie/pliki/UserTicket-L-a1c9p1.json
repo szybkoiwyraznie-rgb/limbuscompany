@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=64].desc": {
+      "pl": "Zdobyto na 70. Poziomie darmowych nagród Sezonu 7",
+      "kr_sha256": "5934fac69233733133da5e847b9a089c93a8dbee94874513c6b19e9dd5c6bfdf",
+      "en_sha256": "7a471b91d4ae29889ff534393897bb8387fc98533e7209b3bb163d09aaf2879e",
+      "origin": "ai"
+    },
+    "dataList[id=64].name": {
+      "pl": "Napad",
+      "kr_sha256": "41ea986c343945d4638a01d5569d0ec65ccff6ab13131a300a0de697fc0b9ce9",
+      "en_sha256": "65b8a49130e85c83c6cde669a540c9726d680c957f572693dc7048b0e14a990c",
+      "origin": "ai"
+    },
+    "dataList[id=65].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 7",
+      "kr_sha256": "9861a79e55f7c34793a2cb114bbd2223f0a1b4de33db5c5b338792a8b27287e7",
+      "en_sha256": "4dbcb22e0dd16675c33967ff52f5fbf4364fa451bb61fab83dc2fcc0eec7e7fc",
+      "origin": "ai"
+    },
+    "dataList[id=65].name": {
+      "pl": "Dom Pająków",
+      "kr_sha256": "06cee8329c6ddae3a8f35acf1fe17a20a8423576a96c984d91a6244cbfc6cda3",
+      "en_sha256": "b74e70d906210794ab86a6a0b37cfbcf8ab9b4e64fbb476e5483380f1ccb171e",
+      "origin": "ai"
+    },
+    "dataList[id=66].desc": {
+      "pl": "Zdobyto na 110. Poziomie darmowych nagród Sezonu 7",
+      "kr_sha256": "24edb8087226b3c3c79034ea085a088dfd70dba01f39cb5fc805ece41f91bc18",
+      "en_sha256": "f96b86b267810b24b2e8ccd9c375838e0de8c366834be8216c8315e5ebe6bee3",
+      "origin": "ai"
+    },
+    "dataList[id=66].name": {
+      "pl": "Pod Rzutowanym Nocnym Niebem",
+      "kr_sha256": "e5b94c591ea8bdd70d544c1ee348afbfdd0e7aec4b82b5ce849e5856e0710707",
+      "en_sha256": "8c92b9015eb4f1235fcc4a4c1311f46ebae919d94343fab43d7373c81807931c",
+      "origin": "ai"
+    }
+  }
+}

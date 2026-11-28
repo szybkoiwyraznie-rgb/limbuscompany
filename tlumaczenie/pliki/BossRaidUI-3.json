@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=boss_raid_10003_banner_title].content": {
+      "pl": "Pamięć Doświadczenia",
+      "kr_sha256": "f9eb86699cc3a3ef89e3845d4f72b1be96dcd5b68ad7cad3f55e08ab7a938439",
+      "en_sha256": "9c7cf3d4194cada8e7293e15fea03daca222d9e843c9e158aaf19e1e0dd44db4",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_10003_boss_title].content": {
+      "pl": "Zjawisko Rozbłysku — Im Gyeong-eop",
+      "kr_sha256": "2f39cf59b309777cea05e53b7cc4d0bfd595add4e222024e32dc047ebb799872",
+      "en_sha256": "b75c86a56f1fbf03ad8c579bc2931fe1d34a0b21db6b36a5c9de1201f817ac90",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_desc_10003].content": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW — Pamięć Doświadczenia, by zdobyć <color=#f8c200>[Rozwiniętą Kliszę]</color>.\n\nWymieniaj <color=#f8c200>[Rozwinięte Klisze]</color> na nagrody.",
+      "kr_sha256": "c92d3122e1b6540ffc69a27d1a5b44e729f9d59c98668e6fb81e382d034a8b0b",
+      "en_sha256": "6a46150ef058c089129668f12552b743c63fd69a745b4bbc1e8f25c44e19ae0f",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_warning_10003].content": {
+      "pl": "<size=80%>※ Nagrody można odebrać przez 4 tygodnie: od 18.06.2026 12:00 do 16.07.2026 10:00 (KST).\nPamiętaj, że po upływie tego terminu odbiór nagród będzie niemożliwy.</size>",
+      "kr_sha256": "d38b84415e31696c7f04721fb23ccb8f7643a4845c1cfd9e3df360bc57b3ad26",
+      "en_sha256": "8c8ccd972f0fa10754817a5d833a0ad8b6cb979e00b99a15305d77f394e6959e",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_rule_popup_desc_10003].content": {
+      "pl": "- „Walka Projekcyjna][anjyckejorP aklaW” to <color=#ff0000>wyzwanie o wysokim poziomie trudności</color>.\nZalecamy przystąpienie do walki dopiero po <color=#ff0000>odpowiednim rozwinięciu Tożsamości i E.G.O</color> zgodnie z zalecanymi parametrami.\n(※ Nie można korzystać z Tożsamości Wsparcia.)\n\n- Każda walka z bossem posiada unikalne efekty.\nEfekty Odbicia działają na wszystkich poziomach trudności, natomiast <color=#f8c200>Próby wyłącznie na poziomie Trudnym</color>.\n\n- W walce można użyć kolejno maksymalnie <color=#f8c200>3 składów drużyny</color>.\nTożsamości użyte we wcześniejszym składzie nie mogą jednak zostać wybrane ponownie w kolejnych składach.\n\n- Każdy skład drużyny może walczyć przez maksymalnie <color=#f8c200>12 tur</color>.\nPo przekroczeniu 12 tur lub ręcznym zakończeniu walki dla bieżącego składu\nzapisane zostaną <color=#f8c200>faza bossa, schemat ataków, wybrane efekty, PŻ, SP oraz zasoby E.G.O</color>,\nco pozwoli kontynuować starcie kolejnym składem.\n\n- Począwszy od drugiego składu, przy wejściu do walki proporcjonalnie do łącznej liczby tur\n<color=#f8c200>wzrasta początkowe SP</color> sojuszników (※ +5 za turę).\n\nW przypadku Tożsamości z Monetami Ujemnymi początkowe SP przyjmuje wartości ujemne (※ -5 za turę, min. -25).",
+      "kr_sha256": "5fbe5a082237e73fecda75c05ec13bf395e2f768d8c84baf52379392776f035a",
+      "en_sha256": "f8f5fd6629239cf2ac7b10200116952b54e066aa539767a9586120082cb607b8",
+      "origin": "ai"
+    }
+  }
+}

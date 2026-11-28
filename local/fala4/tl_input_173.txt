@@ -1,0 +1,96 @@
+16824||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [계몽의 시대]|[Age of Enlightenment]
+16825||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [추락하는 거인]|[A Giant's Fall]
+16826||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [대균열]|[The Great Fracturing]
+16827||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [단절의 시대]|[Age of Severance]
+16828||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [황금가지]|[The Golden Bough]
+16829||RPGSystem#rpg-loc-dialogue-floor-5-b.json] <…백화점의 과거인 것 같은데.>|<... These seem to be the history of this department store.>
+16830||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 아무것도 보이지 않는다.|Can't see anything.
+16831||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 한참을 바라보자, 무늬들이 일렁이기 시작한다.|After fixing it in my gaze for a while, the patterns begin to dance and ripple.
+16832||RPGSystem#rpg-loc-dialogue-floor-5-b.json] <…이건.>|<... This is...?>
+16833||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 보일 리 없는 것들이 드러나기 시작한다.|Things that should not be visible begin to unveil themselves.
+16834||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 무언가 흐릿하게 보인다.|A blurry shape can be seen.
+16835||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [무너뜨리는 자들]|[Those Who Topple]
+16836||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [떠올랐던 것들은 필연적으로 가라앉기 마련이다.]|[What once rose high are fated to sink.]
+16837||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [화려한 백화점의 가장 밑바닥. 구역질 나는 퇴적된 것들.]|[The deepest basin of the extravagant department store. Nauseating, foul sediments.]
+16838||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [풀린 실을 따라 출구로 향했으나, 실 끝은 끊어졌다.]|[Though the clew's thread was followed to the exit, only the severed tip of string waited at the end.]
+16839||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [오르지 못하고, 내던지지도 못한 채 실타래만을 감고 또 감는다.]|[Unable to rise, unable to forfeit, endlessly twining threads.]
+16840||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [부른 배를 부여잡고 주린 정신을 두드린다.]|[One hand cradles the swollen belly; the other, the hungering mind.]
+16841||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [이미 다다랐으나, 다시는 다다르지 못할 맛.]|[The flavor once reached, yet never to be found again.]
+16842||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [스쳐 지나가는 모든 것들은 쉬이 바스라진다.]|[What are fleeting and passing are fragile things.]
+16843||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [빛바랜 구석에서 되돌아올 찰나만을 기다린다.]|[In a faded corner, waiting for the moment to return.]
+16844||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [옥죄인 만큼, 권위는 따라오는 법이다.]|[Authority follows constriction by equal measure.]
+16845||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [시선에 감겨 풀리지 못할수록, 따라오는 것들이 많다.]|[The more the gaze entangles, the more do they follow along.]
+16846||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [누구에게나 믿음은 필요하다.]|[Everyone needs faith.]
+16847||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [경외심은 대체로 죽어있지만 산 것에게서 나온다.]|[The sense of awe is often reserved for those who are dead but living.]
+16848||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [누구도 주저앉은 자들을 비웃을 수 없다.]|[None shall scorn those who have collapsed.]
+16849||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [적어도 주저앉을 선택은 자신의 손으로 내렸다.]|[At least, the decision to collapse was theirs.]
+16850||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [주린 배를 부여잡을지언정, 정신은 굶주리지 않는다.]|[Though one hand may cradle the hungering belly, the mind prospers.]
+16851||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [허기는 채워지는 것이 아닌, 채우는 것이다.]|[Hunger isn't filled; it is what one seeks out to fill.]
+16852||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [매 걸음마다 스스로를 못박는다.]|[Nailing oneself with every step.]
+16853||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [순례길의 끝엔 모두가 못박은 자만 남아있다.]|[At the pilgrimage's end, only the one who has been pinned by the nails of the multitude remains.]
+16854||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [무엇을 위해 오르는가.]|[For what does one climb?]
+16855||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [결국엔 내려갈 수밖에 없는데.]|[Knowing that only the fated descent awaits.]
+16856||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 신의 말씀을 대리하던 부제는 이제 그 자리를 내려놓았다.|The deacon who once conveyed God's words has absconded the responsibility.
+16857||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [흐름에 몸을 맡긴 채 그저 부유하는 자들.]|[The drifters. They allow themselves to be carried by the currents of the flow.]
+16858||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [검은 원단으로 스스로를 고정시킨 자들.]|[The anchored. They have pinned themselves down with black fabric.]
+16859||RPGSystem#rpg-loc-dialogue-floor-5-b.json] [내면을 드러내 외면을 고정시킨 자들.]|[The affixed. They have pinned what lies inside on the outside, thereby affixing their outward appearances.]
+16860||RPGSystem#rpg-loc-dialogue-floor-5-b.json] …뿌이가 혼자 남아 있습니다.|... Pwie is alone.
+16861||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 되도록 빠르게 레스토랑으로 돌아가야 합니다, 관리자님.|We must return to the restaurant as quickly as our feet would take us, Manager.
+16862||RPGSystem#rpg-loc-dialogue-floor-5-b.json] <우리를 쫓아왔어. 정확히는… 뿌이를 쫓아온 것 같아.>|<It came after us. It... came after Pwie, to be precise.>
+16863||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 황금고치, 꼬무리라 불리던 개체의 부모 개체로 추정됩니다.|It must be the Golden Cocoon's—Wriggley, by our designation—parent entity.
+16864||RPGSystem#rpg-loc-dialogue-floor-5-b.json] <재고 정리 이전에도… 울음소리를 듣고 찾아왔었지.>|<I remember... It came after us, having followed its "snuffling".>
+16865||RPGSystem#rpg-loc-dialogue-floor-5-b.json] <지금은, 어떻게 쓰러뜨릴지만 생각하자.>|<For now, let's focus only on how we can defeat it.>
+16866||RPGSystem#rpg-loc-dialogue-floor-5-b.json] <뿌이도 기다리고 있으니까.>|<Pwie's waiting for us.>
+16867||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 으음… 어둑해질 때면 그 모습이 완전히 사라졌소. 마치 존재한 적 없는 것처럼…|Mm... Its form disappeared traceless in the dark, its presence in both past and present nowhere to be found...
+16868||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 그러다가 확, 하고 나타났지. 커다랗긴 해도 땅에 붙어있는 건 그 꼬리 비슷한 것뿐이라 때릴 곳도 마땅찮았고…|Yeah, then it popped right back into existence. And to make matters worse, it was hard to get a hit in with the only reachable part of its body that tail-like thing.
+16869||RPGSystem#rpg-loc-dialogue-floor-5-b.json] 어둠은 큰 방해 요소가 아니다. 침착하게 움직인다면 어렵지 않게 피할 수 있다.|Darkness is not so significant a deterrent. Remain calm, and we will outmaneuver it.
+16870||RPGSystem#rpg-loc-dialogue-floor-5-b.json] <…좋아, 이번에는 좀 더 침착하게 싸워보자.>|<... Good. Let's take this on with a cool head.>
+16871||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>그 말대로야, 뫼르.</color>|<color=#E1B643>That's right, Meur.</color>
+16872||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>…그 모든 게 죽음 앞에서 의미를 잃어버려.</color>|<color=#E1B643>... None of it means anything in the face of death.</color>
+16873||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>저 아이도 마찬가지일 거야.</color>|<color=#E1B643>It will be the same for that child.</color>
+16874||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>너희와의 추억, 르루주에게 받은 기대, 끊임없이 닥쳐오는 본능적인 허기.</color>|<color=#E1B643>The memories shared with you, the expectations the Rouges placed upon them, and the instinctive, insatiable hunger...</color>
+16875||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>그 모든 고뇌를 품고 있기에, 이번에는 멈추지 않을 거야.</color>|<color=#E1B643>Buffet is bearing all that anguish. They won't stop this time.</color>
+16876||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>내가 있어야, 모든 게 있다는 걸… 뷔페, 저 아이도 알고 있을 테니까.</color>|<color=#E1B643>And they must know it, too—that for anything to exist... they themselves must first exist.</color>
+16877||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <목소리가 또…>|<That voice again...>
+16878||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>이 세상에 제멋대로 태어나 버린 게, 왜 그리도 잔인한지 알아?</color>|<color=#E1B643>Do you know why it's so cruel to be brought into this world without having any say in it?</color>
+16879||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>마음대로 죽는 것조차… 무서워하도록 태어나서 그래.</color>|<color=#E1B643>It's because we're born to be afraid of death... even when we have chosen to die.</color>
+16880||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <1층에서부터 느낀 거지만, 이 목소리… 점점 가까워지고 있어.>|<I've felt it since the first floor. This voice... it's getting closer.>
+16881||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 위로 올라갈수록… 가까워진다는 것이오?|Closer... with each floor we ascend?
+16882||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>아이를 희생시켰다는 죄책감.</color>|<color=#E1B643>The guilt of having sacrificed a child.</color>
+16883||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>인류를 치료하고 싶다는 사명감.</color>|<color=#E1B643>The calling to heal mankind.</color>
+16884||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <color=#E1B643>동료들을 실망시키고 싶지 않다는 책임감.</color>|<color=#E1B643>The responsibility of not wanting to let your colleagues down.</color>
+16885||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …이제 와서 너희를 따라나선다 한들, 이 허기가 사라지진 않을 것이다.|... I could follow you now, but it's too late. This hunger would not disappear.
+16886||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 르루주들의 소망과 기대가 저물지도 않을 것이고.|Nor would the hopes and expectations of the Rouges fade away.
+16887||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 허기를 달래기 위해선… 이곳에 있는 모든 것을 먹어 치워야 한다. 너희가 올라가야 할 곳조차, 먹어 치워야만 한다.|If this hunger is to be appeased... I must devour everything here. Even the place you seek above, I must devour.
+16888||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 차라리… 다시 여기 머물러라, 이방인들.|Why don't you remain here with me once more, strangers?
+16889||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <…그럴 수는 없어.>|<... We can't.>
+16890||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] <그러니까 우리는… 또 후회할 선택을 해야만 하겠지.>|<Which means... we'll have to make... another choice we'll regret.>
+16891||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …우리는 위로 갈 것이다, 뷔페.|... We will proceed to the next floor, Buffet.
+16892||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 결국 너희 이방인은, 나를 따르지 않는 존재로군.|So you choose not to follow me in the end, strangers...
+16893||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …기억은, 하고 있다. 나를 뿌이라 부르던 자들.|... I do remember you. The ones who called me Pwie.
+16894||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하지만 그 사실을 잊을 때가 있었다.|But there were times when you forgot that fact.
+16895||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 새로운 것을 알아갈 때.|When you learned something new.
+16896||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 꼬무리와 함께 할 때.|When you were with Wriggley.
+16897||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 게임을, 놀이를 할 때.|When you played games.
+16898||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 너는 그 고통을 잠시 잊었다.|Those brief moments allowed you to forget the pain.
+16899||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 맞아, 그랬었지.|Yes. I did.
+16900||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 말을 들으니, 네가 빼먹은 것도 하나 생생하게 떠오르는군.|Your words bring back another vivid memory. This one you didn't mention.
+16901||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 너희의 뒤를 따라다니며, 간혹 뒤를 돌아보는 너희와 시선이 마주쳤을 때…|When I followed you, you would sometimes turn to look at me. And when our eyes met...
+16902||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그때는 조금도 고통스럽지 않았지.|There was no pain at all.
+16903||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 중에서도 결코 거짓을 말하지 않던 자. 뫼르소.|And he who never lied—Meursault.
+16904||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 너무도… 즐거웠다. 허기를 잊을 만큼.|It made me... very happy. I enjoyed our adventure so much that I'd even forgotten my hunger.
+16905||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그 말을 끝으로, 뷔페는 더 이상 우리를 공격하지 않았다.|Buffet stopped attacking us.
+16906||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뿌이 군. 우리는 그대와 싸우고 싶지 않소.|Pwie. We have no wish to take up arms against you.
+16907||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] …하지만 싸울 수밖에 없을 것이다.|... But we will have no choice but to do so.
+16908||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 나를 따르는 자들은 모두 내게 바라기만 할 뿐, 답을 내놓지 않았다.|All who claim to be my followers ask things of me, yet none have offered answers.
+16909||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 하지만… 너는 답할 수 있겠지. 무엇을 물어도, 너는 언제나 알고 있는 것을 가감 없이 말해주었으니.|You, on the other hand... You may be able to answer. My questions were unending, but you never failed to tell me what you knew, exactly as you knew it.
+16910||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뫼르소. 나는 왜… 영영 채워지지 않는가. 이 레스토랑에 있는 것을 먹고, 또 먹어도…|Meursault... Why... am I always so empty? I eat and eat in this restaurant and fill myself, yet still...
+16911||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 나는 무엇 하나 바라지 않았다, 원하지 않았다.|I wished for none of this. Wanted none of it.
+16912||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그런데 왜 내가 이런… 지독한 허기를 느껴야만 하는가.|So why must I endure... this crushing hunger?
+16913||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그렇게 태어났기 때문이다.|Because you were born that way.
+16914||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 그렇군…|I see...
+16915||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 아, 기대… 된다…|Ahh... How... exciting...
+16916||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 더 이상은…|I don't feel...
+16917||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 허기지지가 않아…|... so hungry anymore...
+16918||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 위층으로 가는 에스컬레이터는 멈춰 있다. 식탁을 치우기 전에는 움직일 것 같지 않다.|The escalator heading upstairs is not moving. It likely won't move until we deal with what's on the dining table.
+16919||RPGSystem#rpg-loc-dialogue-floor-5-c2.json] 뒤따라오던 소리가 멈췄다.|The terrible noise that had been pursuing us for a while finally came to a stop.

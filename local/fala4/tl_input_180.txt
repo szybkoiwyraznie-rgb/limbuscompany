@@ -1,0 +1,96 @@
+17507||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …유체는, 넘기지 않을 예정입니다.|... We are not considering relinquishing the larva.
+17508||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 잿빛으로 뭉근했던 국물 맛… 다시 느낄 수 있어… 생으로 육즙을 쭉 짠다면…|That heavy gray broth... I could taste it again... Squeeze the juices straight from a living one...
+17509||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 잘게 썰고 볶으면… 알갱이들이 터져… 아아… 침이 흐른다…|Chop, dice, stir-fry... tiny pulps, bursting with juices between my teeth... aah... I'm salivating.
+17510||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뺏기면 안 돼. 이걸 죽이려 하고 있잖아.|Don't let them take it. They'll kill it.
+17511||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그야 뺏길 계획은 없지… 응? 아니, 근데… 유체를 걱정하고 있는 거였어?|Wasn't planning on handing it over without a fight. Hm? Hold on. You're worried about the larva itself?
+17512||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 거의 움직임이 없다. 곧 숨이 멎을 것 같다.|It's twitching weakly. It will die soon.
+17513||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 눈동자와 촉수가 격하게 꿈틀거린다.|Its eyes and tentacles are twitching violently like it's seizing.
+17514||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 비린내의 출처를 찾은 것 같다.|So that's where the fishy smell was coming from.
+17515||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 눈동자가 이리저리 움직인다.|The eye darts around.
+17516||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이의 눈동자가 이리저리 움직인다.|Pwie's eyes dart around.
+17517||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …그럼 이거 사야하는 거 아냐? 거 왜 뿌이가 만졌잖아.|... Darn, do we have to pay for this? Pwie just poked it, and y'know, with the "you touch it, you buy it" rule and everything...
+17518||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 백화점에서 들었던 안내방송을 고려해보았을 때, 이러한 접촉은 허용된 범위일 테죠.|According to the announcement heard upon our entry to the Grand Magasin, it is likely that this degree of contact is permitted.
+17519||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <그런데 이거… 혹시 유체 아니야? 그때 창고에서 꺼내온 거랑 미묘하지만 비슷하게 생겼잖아.>|<Hey, wait a minute... Is this another larva? Looks a bit like that larva from Boucher's storehouse.>
+17520||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 눈속임입니다. 가죽이나 살점을 꿰매어, 유체와 비슷하게 만들어두었군요.,|It has been altered to fool the viewer. Patches of leather and flesh were sown together to resemble the outward appearance of a larva.
+17521||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 참나… 별 걸 다 속이는구만?|Really? Who'd lie about this kinda stuff?
+17522||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수조 안에서 버둥거리고 있는 무언가에 관심을 가진 듯, 손가락으로 콕콕 찔러보고 있다.|Pwie is poking a creature wriggling around inside the water tank. It seems to have drawn their interest.
+17523||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 끼이이…|Gheee...
+17524||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 콕. 콕. 콕… 방금, 눈을 찌른 것 같았는데…|Poke, poke, poke... Did they just poke it in the eye?
+17525||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 끼에에에에에엑!|<i>GHEEEEEEEHHHHH!</i>
+17526||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <…뫼르소, 뿌이 좀 말려줘.>|<... Meursault, can you stop Pwie from doing that?>
+17527||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뫼르소가 뿌이를 들어 조금 떨어진 곳에 내려두었다.|Meursault picked Pwie up and put them down a good distance away from the water tank.
+17528||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <수조, 처럼 보이긴 하는데… 먹는 걸까?>|<Huh, a creature inside a water tank... I wonder if it's food?>
+17529||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …예, 푸드코트에서 판매하는 식재료 중 하나로 보입니다.|.. Yes. It appears to be one of the cooking ingredients sold at the Food Court.
+17530||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수조 안, 가장 아래에서 짓눌린 무언가가 납작해져 간다. 그 위에 있던 것 또한 이내 새로운 것에 짓눌려 다시 납작해진다.|There's something at the bottom of the water tank, slowly being crushed by the weight of what is laid on top of it.\nIt doesn't take long before more are poured over it, crushing what was once on top of the tank.
+17531||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 간혹 움찔거리며 수조 벽을 두드리지만, 이내 잠잠해진다.|They twitch intermittently, rapping on the tank walls... but the noise eventually dies down.
+17532||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …아파 보여.|... It looks like it's hurting.
+17533||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …죽음은, 끝이야? 하지만… 죽어도 다시 시작할 수 있어.|... Death is the end? But... Even if they die, they can start again.
+17534||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 끝과 다르지 않다. 다시 시작한 존재는 연속되지 않을 것이기에.|That distinction is meaningless. The new existence is not a continuation of the previous one.
+17535||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이는 다시 짓눌려가는 수조 속 또 다른 존재를 바라보며, 생각에 잠겼다.|Pwie turned toward another being that existed within the water tank and observed it thoughtfully, watching as it was slowly crushed to death under the weight of others.
+17536||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뿌이는 수조의 가장 밑바닥을 가리켰다.|Pwie pointed to the bottom of the water tank.
+17537||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 말라비틀어진 무언가가 무게에 눌려 점차 납작해져가고 있다.|Something shriveled and dried up is slowly getting flattened beneath the weight pressing down on it.
+17538||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 어우, 보기 좀 그렇긴 하네. 그럼 꺼내줄까?|Oof... yeah, that's kinda rough to look at. Want me to pull it out?
+17539||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그치만… 그러면 위에 있는 것들이 아플 거야…|But... then the ones on top would get hurt...
+17540||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 일리가 있는 지적이구만… 그럼 다 꺼내줄까? 그래도 될진 모르겠지만…|Fair point... Then should we pull all of them out? Not sure that's such a good idea, though...
+17541||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …이미 늦었군요.|... It's too late.
+17542||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 파우스트의 말대로, 납작해져 가던 무언가는 그대로 기분 나쁜 소리와 함께 완전히 짓눌렸다.|Just as Faust said, it was already too late. The thing being flattened gave one last sickening whimper before it was crushed completely.
+17543||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …죽으면, 아프지 않아. 하지만… 마음에 들지 않아.|...If you die, it doesn't hurt anymore. But... I still don't like it.
+17544||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 죽음은 끝이기 때문이다.|Because death is the end.
+17545||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 여기 떨어진 것들을 주워서 수조에 담는 것 같다.|It seems whatever falls here is picked up and placed inside the water tank.
+17546||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 오랜 시간 방치된 것 같다.|It's been abandoned for a while.
+17547||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …바닥을 파보면 배가 나오려나?|Wonder if digging in will reveal the ship?
+17548||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 장비를 동원해서 파내어야 선체를 볼 수 있을만큼 깊게 묻혀있다.|The ship is buried so deeply. We're going to need some machinery to pull it out.
+17549||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 슬쩍 아래를 파보았지만, 선체는 보이지 않는다.|Tried digging into the side, but the ship's body is still far from visible.
+17550||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 검은 실 같은 것들이 다리에 달라붙는다. 젖지는 않는다.|What look like black threads wrap around my ankles. Somehow, I don't soak up the water.
+17551||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 햇빛도 빗물도 막아내기엔 너무 낡았다.|Too ragged to block out the sun or the rain.
+17552||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] U사 해변, 벽 너머로 보이던 풍경이 떠오른다.|Reminiscent of the U Corp. beach beyond the boundary we weren't allowed past.
+17553||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뫼르소가 밀어올려봤지만, 애초에 접힌 상태로 고정된 듯 펴지지 않는다.|Meursault tried to push it open to no avail. It looks as though it was designed to never be opened.
+17554||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그늘 아래에서 서있는다.|I stand beneath the shade.
+17555||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 바닷바람이 밀려온다.|Feeling the ocean breeze.
+17556||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 백화점에 들어온 뒤 처음으로 잠깐의 휴식을 가졌다.|For the first time since we entered the department store, I feel like I'm taking a break.
+17557||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 실제 해변과는 전혀 다른 풍경이지만,|This looks nothing like a real beach,
+17558||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 잠시나마 진짜 해변에 온 것 같았다.|but it felt like one, at least for the briefest moment.
+17559||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 대체 이 안에 뭐가 사는거지?|Just what could possibly be living in here?
+17560||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 을씨년스러운 분위기의 경고판들이 단단히 박혀 있다.|Ominous warning signs have been nailed into the wall.
+17561||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 절대 넘겨주지 않을 거라는 거예요!!|I'll never give it up, you hear?!!
+17562||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 앗, 때리면 안 되는 거예요!|Ack! Don't hit me, you hear?
+17563||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아픈 거예요! 절 가만두는 거예요!|It hurts, you hear?! Leave me alone, you hear?!
+17564||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 절 왜 계속 때리는 거예요…?|Why won't you stop beating me, you hear...?
+17565||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 목적이 있는 것 같은데, 말을 안 하는 거예요!|You must be doing this for a reason, you hear...? Why won't you say anything, you hear...?!
+17566||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 쓰러진 수셰프는 더 이상 움직이지 않았다.|Sous Chef lies motionless on the ground.
+17567||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <… 마음이 좋지 않네.>|<... I don't feel good about this.>
+17568||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] ….|…….
+17569||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 황금 가죽을 챙기겠습니다, 관리자님.|I will now collect the Golden Hide, Manager.
+17570||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수셰프로부터 황금 가죽을 챙겼다.|Obtained Sous Chef's Golden Hide.
+17571||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이제 소다는 누가 책임질까…|Who's going to keep an eye on the soda now...?
+17572||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그건… 그건 혹하는 제안이라는 거예요!|That... that is a very tempting offer, you hear?
+17573||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 바로 잘라가도 되냐는 거예요. 황금가죽도 바로 넘겨주겠다는 거예요.|I want to cut it off right now, you hear? I'll hand over the Golden Hide right away, too, you hear?
+17574||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <…엄청 적극적이네.>|<... She bit our hand off for that deal.>
+17575||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <그레고르… 정말 미안한데… 부탁할게.>|<Gregor... I hate asking this... so I'll just say "please.">
+17576||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 아잇, 됐어. 이깟 벌레 팔 한짝 주고 황금가죽이라는 거 얻을 수 있으면 된 거지.|It's fine. If one lousy bug arm gets us a Golden Hide, then I say we do it.
+17577||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뭐… 어차피 다시 자라나기도 하고… 빨리 잘라가. 마음 바뀌기 전에.|It grows back anyway... Just cut it off before I change my mind.
+17578||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 신난다는 거예요! 이걸로…|So exciting, you hear? With this, I—
+17579||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이건 뭐냐는 거예요.|I wonder what this is, you hear?
+17580||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 어어… 그래. 그거 잘됐구만.|Uh... Great. Good for you, huh?
+17581||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 잘 가라는 거예요. 호구 이방인들!|Good-bye, you hear? You strangers are all suckers, you hear?
+17582||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 굉장히… 기뻐하네요. 아마도 교환비가 맞지 않았을 테죠.|She appears exceptionally pleased. We likely accepted an unfavorable exchange.
+17583||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <…뭐, 서로 만족했으면 된 거 아닐까.>|<... I mean, if both sides walk away happy...>
+17584||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 르루주 직원의 척추뼈다.|A vertebra taken from a Rouge employee.
+17585||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 귀한 재료이긴한데… 황금가죽과 바꿀 정도는…|It's a rare ingredient... But not rare enough to trade for the Golden Hide...
+17586||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …? 킁… 킁킁…|...? *sniff* *sniff*
+17587||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 마디마디마다 스며들어있는 이 황금빛… 무엇보다 바라는 감정이 듬뿍… 드으으음뿍 담겨 있다는 거예요!|This golden glow in every joint... And it is bursting with want—marinated to the bone, alllll the way into the marrows, you hear?!
+17588||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …바꾸자고 한 거예요? 이방인들이 먼저 제안했다는 거예요!|... You offered the trade first, you hear? Strangers wanted this deal first, you hear?
+17589||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 절대절대절대 무르기는 없다는 거예요!|No refunds, no returns, absolutely no backing out, you hear?!
+17590||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] …네, 무르지 않을 테니 황금가죽과 교환하시죠.|Yes, we hear. We have no intention of withdrawing the offer. Please present the Golden Hide for exchange.
+17591||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 수셰프는 폴짝거리며 창고로 들어가 황금가죽을 꺼내 왔다.|The Sous Chef happily hopped into the storage room and came back with the Golden Hide.
+17592||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 이게 있으면… 정육 소다에 다시 청량감이 돌아올 거라는 거예요. 이 정도로 깊게 배어든 감정이면… 열시즌… 아니 스무시즌이라도…!|With this... the Meat Soda will get its fizz back, you hear? Emotion soaked this deeply could last 10 seasons... no, 20...!
+17593||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 눈알 같은 건 필요 없다는 거예요.|Eyeballs are small potatoes, you hear?
+17594||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 황금가죽이 훨씬 더 중요하다는 거예요.|The Golden Hide is the real meat of the matter, you hear?
+17595||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 그렇다면… 협상은 결렬이겠군요.|Then... the negotiation has failed.
+17596||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <화장실…?>|<We're back in the restroom...?>
+17597||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <뫼, 뫼르소. 무슨 일이 있었던 건지… 기억나?>|<M-Meursault, what... What just happened?>
+17598||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 자른 직후… 곧바로 시야가 어두워졌고… 그 뒤 곧바로 화장실로 돌아왔습니다.|Immediately after Gregor's arm was severed, my vision went dark. We were then returned to the restroom.
+17599||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <…그레고르의 팔은 역시 건드는 게 아니었나봐.>|<... Right. So Gregor's arm is officially a red line. We don't touch it.>
+17600||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 뭐, 당연한 반응이긴 하지. 관리자 양반, 뭐… 생각해둔 건 있어?|Well, can't say that's an unreasonable reaction. Got any plans, Manager Bud?
+17601||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] <정 안되면… 싸워야겠지만… 우선 거래를 제안해 보자.>|<We may have to fight if nothing else works... But let's offer a trade first.>
+17602||RPGSystem#rpg-loc-dialogue-floor-b1-b.json] 어떤 제안을 건네시겠습니까.|What will you offer, Manager?

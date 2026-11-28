@@ -1,0 +1,74 @@
+{
+  "entries": {
+    "dataList[#5].content": {
+      "pl": "Uff… Nie, nie. Muszę wytrzymać… Są ważniejsze sprawy niż chwilowa zabawa.",
+      "kr_sha256": "b5f5484d323588d637ac5073e0420942dc13c98a4b3f62150d3719ae5d368a9f",
+      "en_sha256": "035a8b2cc5742945e23c460089b234a247c599832e20ec653984559d9a3f2a84"
+    },
+    "dataList[id=0].content": {
+      "pl": "I jak? Sinclair. Znalazłeś odpowiedź na ścieżce, która prowadzi przez twoje serce?",
+      "kr_sha256": "5f1cf4fab74d02c3fad4fa9815e02d2226f65b02431b324d6170d37beb3d9bca",
+      "en_sha256": "b3fd9beb5d9b8054433fa8cb13602919f525870a045ea8c48039f2cace2ebfd5"
+    },
+    "dataList[id=10].content": {
+      "pl": "Chi, chi… Sinclair…! Kiedyś ty się nauczył tak mówić? To zupełnie do ciebie nie pasuje… Aż śmieszne… Pff.",
+      "kr_sha256": "f35017f4dbdb34ed9fc7582f4e8c0b31a24906797f475c9fcb3bbd2ac8527675",
+      "en_sha256": "dffa90e5c5ea1479626632e0df1e429d7cc92935155880b2686b109ee74158dd"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ale cóż… Chyba dorobiłeś się sporo przyjaciół.",
+      "kr_sha256": "fc21ac99a150da8c96c61cf4a7ccf042105c739854e51fe403b0a8246a10f9cc",
+      "en_sha256": "d415fd90cd74af78b079ef8a1a4fba29e327d4cc4935b660e4a17e1c063095a6"
+    },
+    "dataList[id=12].content": {
+      "pl": "Tym razem nie uciekniesz, co?",
+      "kr_sha256": "fe4ed1304d73efb28cb3084393e7dc2726459d0ae0d4ddd4cc07703b3964144a",
+      "en_sha256": "e1b12eb747e03394f6bfa2b0bc996d92ca2d203e62c830e59f5abbbc39a6b259"
+    },
+    "dataList[id=1].content": {
+      "pl": "…Kromer.",
+      "kr_sha256": "55c3368cc2a623e9017e16c8e6ae8634d2017b81df2ad6431f926a23f24ef0d0",
+      "en_sha256": "7ba3b852b197de0c0aa3d72b007aa38a346a723f4979269259967a45e9df3674"
+    },
+    "dataList[id=2].content": {
+      "pl": "A, ha, ha, nie patrz tak na mnie.",
+      "kr_sha256": "996ed4fcfc924ef3e8f9819f6891a188a9f1edb442924fa570661da434262f33",
+      "en_sha256": "66963caf27e8f68cc5c400418e193d26baac321ca3876043c92625fc12c6d221"
+    },
+    "dataList[id=3].content": {
+      "pl": "Jeszcze nie pora, a ty…",
+      "kr_sha256": "272b1bd5669dde84d0a646b9d10223a0e018072efa469e5599c779eea28988d2",
+      "en_sha256": "9214b11221cab2a3da5bca66e1c3eb59d90885d051a7dd5d2fe5899592749b48"
+    },
+    "dataList[id=4].content": {
+      "pl": "sprawiasz, że mam ochotę cię zabić.",
+      "kr_sha256": "1ca824746b920a958901781838d00fb8e98d3afaf0549551f3df7fd04a1f5cfc",
+      "en_sha256": "fec19d329826c4cb53bf3f9e19f586d77e27da1c2667bae775a26a511cb552d2"
+    },
+    "dataList[id=5].content": {
+      "pl": "Sinclair, żeby odzyskać Złotą Gałąź, która zaczęła rezonować…",
+      "kr_sha256": "81feea509232712ddd74ad6981946198191be95634413db5f4f6e7b27af4145f",
+      "en_sha256": "f9cdd486ebe966a77d265c2852768b961bb2922641dec6fef8bc086c086936ff"
+    },
+    "dataList[id=6].content": {
+      "pl": "Wiem.",
+      "kr_sha256": "32bb4356e62362f642b4c6171e767a4d00826caab6be05c1bd26b4712d65bf93",
+      "en_sha256": "45b3c6001b6b95569b2e2ca0584b2d5e169321859dc5f75c93acf53f1400cac1"
+    },
+    "dataList[id=7].content": {
+      "pl": "…Nawet gdyby nie chodziło o Złotą Gałąź,",
+      "kr_sha256": "781c228d02d0c6989a5e77769b6c684ec992c52ac69ca3df86837f1ec4ff12f2",
+      "en_sha256": "7c6d85c8667aa0526c6023c667571a617a4b82ed0b513153f44e1be34586d614"
+    },
+    "dataList[id=8].content": {
+      "pl": "tę sukę… i tak rozedrę i wypiję.",
+      "kr_sha256": "913d95077a56cf8749c924cea028ccb8437b98343d0d7f1bfde3358010277827",
+      "en_sha256": "9f4b638eb599c0f7f54910aba640fcd056d154feed83d8d000cd9c8dec35db70"
+    },
+    "dataList[id=9].content": {
+      "pl": "Pff… A, ha, ha, ha!!",
+      "kr_sha256": "78af273fdc20d1b1533e93c48a1c901ad4d656fe57000746f573b052ee6e0195",
+      "en_sha256": "ba1a0e376646094b1900851982af51fca9907b9395226148b9f77c11a051cb7b"
+    }
+  }
+}

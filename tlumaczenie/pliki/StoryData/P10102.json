@@ -1,0 +1,99 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Twój styl walki, jak mniemam, wywodzi się od Zwei.",
+      "kr_sha256": "0c19b7ebf1c67c4fd9e9aca809cb67d5ff6b87ebc82907dde6f36b87e4cf0c76",
+      "en_sha256": "95cf3b75f9a1544d12c81d6377bc83c07999af02c55a28e4d8e1be86eb1a0005"
+    },
+    "dataList[id=10].content": {
+      "pl": "Dziecko wsunęło miecz do pochwy i mówiło dalej.",
+      "kr_sha256": "b708169bb74cc6d3f35d152e446748e098e98cf66fcc5db3ddbb215859de3ecc",
+      "en_sha256": "95f3b71216e02b009cbe3cc5718de03c3662dc25a029d998dd93cbb671bd298d"
+    },
+    "dataList[id=11].content": {
+      "pl": "Nie zaniedbuj obserwacji.",
+      "kr_sha256": "df9d9549e87509ef635e0b78f6254495f08dd28b9694d4ed4796f320541da9e1",
+      "en_sha256": "2ec0fbc711ec8c003232897ceda7fa593f51a099762ba2231b1710bfefde7eca"
+    },
+    "dataList[id=12].content": {
+      "pl": "Co jest ledwie podróbką czy odbiciem w lustrze, nigdy nie stanie się twoje. Radzę raz jeszcze przyjrzeć się innym i zgłębić podstawy.",
+      "kr_sha256": "6f44c072f0f0c991d074f8cbed788a30514028a3b7e6a9590856c812abe09c9c",
+      "en_sha256": "070c4bcbb4ae2ec7916685d786c27953d5ab3a0ac309fe52cb7db763c327a49c"
+    },
+    "dataList[id=13].content": {
+      "pl": "D-dziękuję bardzo!",
+      "kr_sha256": "17bde4abb471fbacf89282b30f811d390862ca29c265743202c7b46037f82d55",
+      "en_sha256": "e6e8067fa572089d44b8f296e8276aaf6f29e447af05464b751b7177cb755b0e"
+    },
+    "dataList[id=14].content": {
+      "pl": "Po tych słowach dziecko zeszło z placu i wyszło na zewnątrz.",
+      "kr_sha256": "cfd913610a2ae00cadc9696c0eaaf3c7396582152ced717fc8ffa61366e4a0ff",
+      "en_sha256": "022cbdb710e06abb57ceaa103caf6a653e21862316248a65609c32e01caf1f27"
+    },
+    "dataList[id=15].content": {
+      "pl": "Czemu zarówno przypadkowi świadkowie, jak i dziecko, które przed chwilą pobierało nauki, zawsze mówili “pan Yi Sang” z takim uznaniem? Zwykle właśnie dlatego.",
+      "kr_sha256": "c2c1edcea4c68a918ec8d30567286cc7c59b12de8000b6e0ae8de3192e4f6411",
+      "en_sha256": "fdd5d6ee15a9fb03d7cc6fa0f29617092f0432a006bcfdfa230038d38234d118"
+    },
+    "dataList[id=16].content": {
+      "pl": "Sprawiał wrażenie chłodnego i oschłego, ale kiedy trzeba było, nie skąpił cennych rad.",
+      "kr_sha256": "fbee13e3a3803115f327a7c9821cde87a6cc41fa6709e3f87915bce98f7a81bc",
+      "en_sha256": "a40573eb76e4606ef857c7309c18fdc1248e63ea300be5c31938112b565afa3f"
+    },
+    "dataList[id=17].content": {
+      "pl": "…Zacna ta kawa.",
+      "kr_sha256": "7f921235afa4cb0378d643ef3ee536c17abc39167fc4e019c5a0592f7e64d0b2",
+      "en_sha256": "eb0b73f25e16ce0ece6d76f9df3052638d6433d1ea815a65cb98087ba90d3f7b"
+    },
+    "dataList[id=18].content": {
+      "pl": "Choć on sam, rzecz jasna, wcale się nad tym nie zastanawiał.",
+      "kr_sha256": "cdf7b23cb749a3eec76c25302362ea65a5d370bc4ef45f220bfffd7abee99ab0",
+      "en_sha256": "4bf1caa2e683c8b7879a7852779f3a5f1a98f2ffb7807666410064057a4951b0"
+    },
+    "dataList[id=1].content": {
+      "pl": "…Ach, tak! W walce z panem Yi Sangiem zawsze przegrywam… więc tym razem stawiam na obronę.",
+      "kr_sha256": "c7f24ddfb259ca0f0794ec86aa8e2e3f00441f7f40866f840f7167784fe3fb6b",
+      "en_sha256": "ee206203b4d19a063a6e882b1a163f827d97f9a896387200bf62b04360108f56"
+    },
+    "dataList[id=2].content": {
+      "pl": "Pomysł sam w sobie bez zarzutu… lecz jak zwie się broń, którą trzymasz w dłoni?",
+      "kr_sha256": "8f0f24fd3da2e813e8075689dc6ec6860b170670caeccc3d5b2b7f5b23b7bc44",
+      "en_sha256": "eee4a332bdee925bfff4101378389044616aad547e2da228590db894102290fa"
+    },
+    "dataList[id=3].content": {
+      "pl": "A, to jest rapier…",
+      "kr_sha256": "d69cc3a0cd86414b7d8689ff434e163ea2c5ef473c4c0394e1477d8bf0591768",
+      "en_sha256": "d8e19449ed945bdc0af98de5139ff6272fa306c75a03294ae534588675ae248a"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ostrze tej broni jest zabójczo cienkie. Broń Zwei zaś jest gruba i masywna.",
+      "kr_sha256": "668336b767326eac65651df8a8f23b8f93aae4fa62e6efc172a5f6820ff04a0e",
+      "en_sha256": "d3982619516d5a2fd278897086a8d4e0d0a7294cc9a8c44031560333214dc313"
+    },
+    "dataList[id=5].content": {
+      "pl": "Dlatego obrona i kontratak przychodzą im z łatwością. Cienką klingą dokonać tego samego jest dwakroć trudniej.",
+      "kr_sha256": "fadff1c4d256618d4f53d57312c80e2937251beef672ccb3090baf5d1aaa4188",
+      "en_sha256": "c3dd2b9c457ad55e13025c03d85ea748e77a8c3f040366b5fb5f1db67b105000"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ach…",
+      "kr_sha256": "a146d5d856831953da0688760cfdfe5c57d9d1deda605e8b5a7f2b81ef5aaf81",
+      "en_sha256": "e6bbd62f7a659dd5d62481bddbe2cb8ff77eed775d5d43287cbdca58097f538f"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ja, na przykład, posługuję się techniką Cinq.",
+      "kr_sha256": "103ac40846d85698eb4589270a82d25245c197c1d65cb61f5f14fd3a521215ab",
+      "en_sha256": "c237c85c97dfb32b7da4c67a67f7182296357b3bb9d6a1173924b388cdf8f398"
+    },
+    "dataList[id=8].content": {
+      "pl": "Co? Naprawdę? …A, w sumie coś w tym jest, trochę przypomina Stowarzyszenie Cinq.",
+      "kr_sha256": "85d18164cc62e3098fdda3485ed06751ad9996fbe1f3bc1c59cc261fa9cdf1e5",
+      "en_sha256": "7857406250e520940490517ca22e27874c791ba2f6eea9b9454d4e2d95db0cd5"
+    },
+    "dataList[id=9].content": {
+      "pl": "Zapożyczyć wystarczy podstawy. Wierna kopia cudzego stylu to styl, który zna każdy, a taki łatwo przejrzeć.",
+      "kr_sha256": "25e35ace28f92d0f74b2bacc87d82c3899fc4514bb54273de6a30b81e69e4825",
+      "en_sha256": "24517e3e7e5cbd697284d78fa47653fef9c8d4b6cc3b113a2977766b7f3a5e98"
+    }
+  }
+}

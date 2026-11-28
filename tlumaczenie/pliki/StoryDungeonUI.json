@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=dungeon_encounter_guide_ab_battle].content": {
+      "pl": "Starcie skupione",
+      "kr_sha256": "8bb4064a2b5f776940df22bb5c0a518a5563b0b79bfc04e9d6c94b2804fde16b",
+      "en_sha256": "18d7533bffcd239426664c5bd5dd9fb2624ab136aeb641188f65a033a109c370",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_battle].content": {
+      "pl": "Zwykłe starcie",
+      "kr_sha256": "c5c3f4c9a82bf0c82dd73bc832c1beb03b6591b86b16828daae28804b096c9a3",
+      "en_sha256": "5c9b4838999f528e3227fe1afd39381e9bd100955da3891c43810df6ee83485a",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_boss].content": {
+      "pl": "Walka z bossem",
+      "kr_sha256": "2a6590891d8a531c97823febe67c574d981176a6b9c8ffd4e85f2dcac77825b5",
+      "en_sha256": "5cc337a5e59c414a3ef4d31c6faf297ce5c2ba5cb522f75ce8bf9c829b1d5ebe",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_event].content": {
+      "pl": "Wydarzenie",
+      "kr_sha256": "46b289bb0a9e2a002985007cea757de883ff09dd885b2d91f5f1f2452f7208cb",
+      "en_sha256": "4e1f49a9c8ae8a158434e647c0c410352d718984a4fcd144d26cca3c394caa02",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_hard_battle].content": {
+      "pl": "Starcie ryzykowne",
+      "kr_sha256": "a183668a912d4f9a7dace8773548fb34086efcf1955ba3c1e564612510e66159",
+      "en_sha256": "1b0b8357af3b8713a29a8c25e78248069a6ef1a3428566fd47600d43fd44a148",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_save].content": {
+      "pl": "Punkt zapisu",
+      "kr_sha256": "5fb926229090001c0a61d0ca8909524ecbe038017748f156cfb17d813cc20660",
+      "en_sha256": "ee325afd9b4e907b3c521293ce4c841c990f124a10192bcba8ec7cc6bf005090",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_stairs].content": {
+      "pl": "Przejdź do kolejnej strefy",
+      "kr_sha256": "c8c41c5fff96ebf2f173af81d217ce75d2a2ff6351a068ddf253c4ad3cabdbec",
+      "en_sha256": "54a41cce6037bb3d11ec474c0de1a1772f5ac5d67c25059c3989ceda81f8e5eb",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_start].content": {
+      "pl": "Punkt startowy",
+      "kr_sha256": "cd4b98bf9be2792efeadd2c15b9c29db2d8070d412e18721c455d3cbd8d1511e",
+      "en_sha256": "e4bb9f1ece9af9264a3b9e3913bbdb2cf497457167b14ced5f85688bfde74644",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_story].content": {
+      "pl": "Fabuła",
+      "kr_sha256": "ffe0179e59e74069bc543c388e07f753f5ea85a963a6fa4ee640f72a85a6728b",
+      "en_sha256": "e9e509dcd358f8eb150d15470ce48970d0b05c4cf9207c6d90ef063152d718fc",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_enter_save_point].content": {
+      "pl": "Dotarto do punktu zapisu",
+      "kr_sha256": "6f4735083255c56f296d82c60b40c2a13dafa8d761321db8a300b4f4888408d1",
+      "en_sha256": "757a2eb3601288693bd2b769b0d01c6630d099982e41dc6923ae2a5a1d84f6f7",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_recover_hp_mp].content": {
+      "pl": "Odnowiono PŻ i SP.",
+      "kr_sha256": "2eb4a8683801cc86eca0e9419e5682d2e595165675eb7af1deed233c10747dca",
+      "en_sha256": "eb5498148e44209dc83bf91843b084ab007026122019bfd36bc4cfe1b05676ab",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_return_to_save_point].content": {
+      "pl": "Do punktu\nzapisu",
+      "kr_sha256": "a9488d34ef210ef759cd6c06fa8811840e2ee1bc170d856e0066c83230eea55f",
+      "en_sha256": "438641bf28d96ebf5647c67bdaf97b7574c928d25b8cb71f3f77141fb829cafd",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_save_completion].content": {
+      "pl": "Zapisano",
+      "kr_sha256": "7027c91cb33c8afeb7b39ee30c35df74f2b67c4a34e9a36380ebc80eb79e1a41",
+      "en_sha256": "628e0ecda91ebd07821d267a8557401db0200441b8379c7ecc46616e2cfcc463",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_save_completion_content].content": {
+      "pl": "Postęp został zapisany.",
+      "kr_sha256": "30bbf36b286b68fd14901ebd2ed1ade75c09107af06bfa97c40911003f09e642",
+      "en_sha256": "f3ee2a7d128d0e8e85dbfb9abde23ee4c2e7aab6c23322f41ac348057f103202",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_unlocked_line_notice].content": {
+      "pl": "Otworzyła się nowa ścieżka.",
+      "kr_sha256": "b87a1bfed887210dae741808123924a09000ff27f05da4ca51694d8958e8b01b",
+      "en_sha256": "db8022f9811c77915c6771c22804eff2befa2e8cfb60b690d589cda87bc497b0",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_unlocked_node_notice].content": {
+      "pl": "Odkryto nowe miejsce.",
+      "kr_sha256": "60fd0aca86cb19f2e68028b75e8cded92f5718fe705e7abf19e4f45b6ff8fdf5",
+      "en_sha256": "dd6ca33968fa87e335827c4840e218fd6ebae6ba5063ff603902f1a95652d759",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ui_ask_to_use_saved_formation].content": {
+      "pl": "Obecnie używany skład zostanie zastąpiony wybranym składem.\nZamienić skład?\n\n<size=80%>※ Po zamianie nie można przywrócić poprzedniego składu.\n※ Zmiany składu w trakcie Lochu Fabularnego nie wpływają na składy w oknie Grzeszników.</size>",
+      "kr_sha256": "1ed9fd4e9b7657f1fcc0523f02fd9715e621f7f4c55506242c83ce7fa4b8c1d4",
+      "en_sha256": "6a51693f55e8725cce7ec6c15277f4a30b1b807a31ed7456c66b80447c7376e5",
+      "origin": "ai"
+    },
+    "dataList[id=story_ask_give_up_dungeon].content": {
+      "pl": "Przerwać eksplorację lochu?",
+      "kr_sha256": "7e1e654c20700d45a75afc64567a817cc2f7a04bc44a5cc4fa4f483a7cde20b8",
+      "en_sha256": "375cb665eab067041eede2cb4cbaa7949fd3dc9033a7058be266921ffd9504f9",
+      "origin": "ai"
+    },
+    "dataList[id=story_ask_move_to_main].content": {
+      "pl": "Zapisać postęp eksploracji\ni wrócić do ekranu głównego?",
+      "kr_sha256": "94fc6e890b245520e3f7054c1c8419b78a958960716db59958f1a0614c1ab4d2",
+      "en_sha256": "7c0f57f4a3ed863d5ff6d046c0d73386494b4d540003b87cd024948aea503312",
+      "origin": "ai"
+    },
+    "dataList[id=story_dungeon_continue].content": {
+      "pl": "Kontynuuj",
+      "kr_sha256": "23a9f0224cc40ec08adbcb959e34e7dca175fbfa6b79e8a24adc18ce7d8bb608",
+      "en_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+      "origin": "ai"
+    },
+    "dataList[id=story_dungeon_give_up].content": {
+      "pl": "Porzuć",
+      "kr_sha256": "c1f1102e79f0f0f9ee8e99c36715d8eda79c8ba673c01bf363ea6bcfd925c80f",
+      "en_sha256": "33d9fa026b03ea8e56a80e519ac9a9c15ef87cc4306db4fe00501083d7e7c0b0",
+      "origin": "ai"
+    },
+    "dataList[id=story_dungeon_return_to_savepoint_content].content": {
+      "pl": "Wszyscy Grzesznicy <color=#990000>polegli</color>.\nPowrót do punktu zapisu.",
+      "kr_sha256": "8175daea176c39c8a0e238ddcd8c8a486a93f9e97a6831f7a981f8371f552ca6",
+      "en_sha256": "7ab370ad703a6470d5e868c3f2beb1398ef9d1b431e481e9bbf8fbd6ce165942",
+      "origin": "ai"
+    },
+    "dataList[id=story_dungeon_return_to_savepoint_title].content": {
+      "pl": "Drużyna unicestwiona",
+      "kr_sha256": "13920ce29b4f81f007ec71da74fc5a88286af43e8a6c026e15cf7a9252bb8da9",
+      "en_sha256": "14ccc800049143d311bd134ac623cd5b11348fb02e29d4463b2bd7d9bbc560af",
+      "origin": "ai"
+    },
+    "dataList[id=story_dungeon_to_main].content": {
+      "pl": "Menu główne",
+      "kr_sha256": "4e9fc4e3683ab199fdaa4672df8f914c48e41107d0c61947033dfb479df4c42d",
+      "en_sha256": "35f9896e9461c34ecced23977e78fc90b58447df64c5d30eeb4dadfd4bf44805",
+      "origin": "ai"
+    },
+    "dataList[id=story_to_be_return_enkephalin_box_warning].content": {
+      "pl": "※ Zużyte przy wejściu Moduły Enkefaliny zostaną zwrócone.",
+      "kr_sha256": "fd10d5ae32e9608babe6e9babd428ce1e7cb10b96fdf787d11246edffe65a766",
+      "en_sha256": "90f50023ead09381880fcdf4ac60cca5c6ab44e3e4d53dac6acb0c7c8958a550",
+      "origin": "ai"
+    },
+    "dataList[id=story_to_be_return_stage_continue_used_warning].content": {
+      "pl": "※ Zasoby wydane na funkcję kontynuacji nie podlegają zwrotowi po zakończeniu eksploracji.",
+      "kr_sha256": "618f6cee6898d0a2e8a14d9bfb5c22ed42071f5e67291851bbf9a61487460cc7",
+      "en_sha256": "1eabbce3b24bc59382259abf83caa5d6406e7c535bc75a655f1df7689b75f490",
+      "origin": "ai"
+    }
+  }
+}

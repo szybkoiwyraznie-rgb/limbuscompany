@@ -1,0 +1,131 @@
+1||Umiejętność wroga [802503] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 취약 1 부여|[OnSucceedAttack] Inflict 1 Fragile next turn
+2||Umiejętność wroga [802503] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 4 부여|[OnSucceedAttack] Inflict 4 Bleed next turn
+8||Umiejętność wroga [802504] (ulepszenie 1) — nazwa] 광폭한 추격|Furious Chase
+9||Umiejętność wroga [802504] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 횟수 6 증가|[OnSucceedAttack] Inflict +6 Bleed Count next turn
+10||Umiejętność wroga [802504] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 파열 횟수 6 증가|[OnSucceedAttack] Inflict +6 Rupture Count next turn
+11||Umiejętność wroga [802505] (ulepszenie 1) — nazwa] 날 선 경계|Sharp Alertness
+12||Umiejętność wroga [802701] (ulepszenie 1) — nazwa] 할퀴기|Claw
+13||Umiejętność wroga [802701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 출혈 1 부여|[OnSucceedAttackHead] Inflict 1 Bleed next turn
+14||Umiejętność wroga [802702] (ulepszenie 1) — nazwa] 경계|Lookout
+15||Umiejętność wroga [802703] (ulepszenie 1) — nazwa] 눈 먼 돌진|Blind Charge
+16||Umiejętność wroga [802703] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 2 부여|[OnSucceedAttack] Inflict 2 Bleed next turn
+18||Umiejętność wroga [802801] (ulepszenie 1) — nazwa] 휘감는 팔|Coiling Arms
+19||Umiejętność wroga [802801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze next turn
+20||Umiejętność wroga [802802] (ulepszenie 1) — nazwa] 똬리 틀기|Coil Up
+21||Umiejętność wroga [802802] (ulepszenie 1) — opis] [DefeatDuel] 본능을 1 잃음|[DefeatDuel] Lose 1 Instincts
+22||Umiejętność wroga [802802] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 체력 20 회복, 출혈 횟수 5 증가|[OnSucceedAttack] Heal 20 HP; Inflict +5 Bleed Count
+23||Umiejętność wroga [802803] (ulepszenie 1) — nazwa] 양팔 휘두르기|Swinging Arms
+24||Umiejętność wroga [802803] (ulepszenie 1) — opis] 파괴된 팔의 수만큼 스킬 위력 감소|Skill Power -1 for each broken arm
+25||Umiejętność wroga [802803] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 2, 마비 1 부여|[OnSucceedAttack] Inflict 2 Bleed and 1 Paralyze next turn
+27||Umiejętność wroga [802803] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 4, 마비 2 부여|[OnSucceedAttack] Inflict 4 Bleed and 2 Paralyze next turn
+28||Umiejętność wroga [802804] (ulepszenie 1) — nazwa] 양팔 후려치기|Thrashing Arms
+30||Umiejętność wroga [802804] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 손상 10. 다음 턴에 속박 5 부여.|[OnSucceedAttack] Raise Stagger Threshold by 10; Inflict 5 Bind next turn
+31||Umiejętność wroga [802805] (ulepszenie 1) — nazwa] 숨죽이기|Held Breath
+32||Umiejętność wroga [802805] (ulepszenie 1) — opis] [StartBattle] 본능을 1 얻음|[StartBattle] Gain 1 Instincts
+33||Umiejętność wroga [802807] (ulepszenie 1) — nazwa] 고통의 몸부림|Pained Writhing
+34||Umiejętność wroga [802807] (ulepszenie 1) — opis] [WhenUse] 체력 12 소모. 다음 턴에 출혈 5를 얻음|[WhenUse] Lose 12 HP; Gain 5 Bleed next turn
+35||Umiejętność wroga [802807] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 독 3 부여|[OnSucceedAttack] Inflict 3 Poison next turn
+38||Umiejętność wroga [802808] (ulepszenie 1) — nazwa] 고통의 발악|Pained Struggle
+39||Umiejętność wroga [802808] (ulepszenie 1) — opis] [WhenUse] 체력 12 소모. 다음 턴에 자신의 출혈 횟수 3 증가|[WhenUse] Lose 12 HP; Gain +3 Bleed Count next turn
+40||Umiejętność wroga [802808] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 6 부여|[OnSucceedAttack] Inflict 6 Paralyze next turn
+42||Umiejętność wroga [802902] (ulepszenie 1) — nazwa] 깊은 찌르기|Deep Thrust
+43||Umiejętność wroga [802902] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 6 부여|[OnSucceedAttack] Inflict 6 Bleed next turn
+44||Umiejętność wroga [802903] (ulepszenie 1) — nazwa] 쥐어짐|The Gripping
+45||Umiejętność wroga [802903] (ulepszenie 1) — opis] [StartBattle] 다음 턴동안 대상을 주시함|[StartBattle] Gazes into the target for the next turn
+46||Umiejętność wroga [802904] (ulepszenie 1) — nazwa] 광소|Cackle
+47||Umiejętność wroga [802904] (ulepszenie 1) — opis] [WhenUse] 대상에게 정신피해 10|[WhenUse] Deal 10 SP damage
+48||Umiejętność wroga [802904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 증가 1 얻음|[OnSucceedAttack] Gain 1 Attack Power Up next turn
+49||Umiejętność wroga [802905] (ulepszenie 1) — nazwa] 죄악을 꿰뚫는 못|Sin-skewering Nail
+50||Umiejętność wroga [802905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 N사의 못 1 부여|[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn
+53||Umiejętność wroga [802906] (ulepszenie 1) — nazwa] 정화|Purify
+54||Umiejętność wroga [802906] (ulepszenie 1) — opis] [WhenUse] 대상 체력이 30%미만이면 스킬 위력 +2|[WhenUse] If target’s HP is below 30%, Skill Power +2
+55||Umiejętność wroga [802906] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] N사의 못 1 부여|[OnSucceedAttack] Inflict 1 N Corp’s Nails
+58||Umiejętność wroga [802906] (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 대상에게 N사의 못이 5이상 있으면, 흐트러짐 상태로 만들고 N사의 못을 없앰|[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them and remove the Nails
+59||Umiejętność wroga [802907] (ulepszenie 1) — nazwa] 처단할지어다!|I Shall Claim Your Life!
+61||Umiejętność wroga [802907] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 못이 5이상 있으면, 흐트러짐 상태로 만듦|[OnSucceedAttack] If target has 5+ Nails, Stagger them
+62||Umiejętność wroga [802907] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 못 수치X3만큼 피해를 주고 못을 없앰|[OnSucceedAttack] Deal damage by 3x Nails on target, then remove the Nails
+64||Umiejętność wroga [802908] (ulepszenie 1) — opis] [DefeatDuel] 흐트러짐 상태가 됨|[DefeatDuel] User becomes Staggered
+65||Umiejętność wroga [802908] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상을 흐트러짐 상태로 만들고, 다음 턴에 취약 10 부여|[OnSucceedAttack] Stagger target and inflict 10 Fragile next turn
+66||Umiejętność wroga [802910] (ulepszenie 1) — nazwa] 가소로워|You Are Nothing
+67||Umiejętność wroga [802910] (ulepszenie 1) — opis] [OnSucceedEvade] 대상에게 정신피해 5|[OnSucceedEvade] Deal 5 SP damage
+68||Umiejętność wroga [803001] (ulepszenie 1) — nazwa] 첫 사람의 날개|Protoplast’s Wings
+70||Umiejętność wroga [803003] (ulepszenie 1) — nazwa] 무구한 날개짓|Innocent Flutters
+71||Umiejętność wroga [803003] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 1 부여|[OnSucceedAttack] Inflict 1 Bind next turn
+72||Umiejętność wroga [803003] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 마비 1 부여|[OnSucceedAttack] Inflict 1 Paralyze next turn
+79||Umiejętność wroga [803004] (ulepszenie 1) — nazwa] 부러진 날개|Broken Wings
+89||Umiejętność wroga [803006] (ulepszenie 1) — nazwa] 격노한 날개짓|Enraged Flutters
+90||Umiejętność wroga [803007] (ulepszenie 1) — nazwa] 고결한 정화|Noble Purification
+97||Umiejętność wroga [803008] (ulepszenie 1) — nazwa] 영예로운 쥐어짐|Honorable Grip
+98||Umiejętność wroga [803008] (ulepszenie 1) — opis] [WhenUse] 대상의 체력이 30%미만이면 피해량 +100%|[WhenUse] If target’s HP is below 30%, +100% Damage
+99||Umiejętność wroga [803008] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 대상의 체력이 30% 미만이면 즉시 처치하고, 체력을 30 회복\n다음 턴에 공격 위력 증가를 2 얻음|[OnSucceedAttackHead] If target’s HP is below 30%, kill them and heal 30 HP\nGain 2 Attack Power Up next turn
+100||Umiejętność wroga [803009] (ulepszenie 1) — nazwa] 참회하라!!|Repent!!
+102||Umiejętność wroga [803009] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 취약 5 부여|[OnSucceedAttack] Inflict 5 Fragile next turn
+103||Umiejętność wroga [803009] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed next turn
+104||Umiejętność wroga [803010] (ulepszenie 1) — nazwa] 온전한 살덩이|Peerless Flesh
+105||Umiejętność wroga [803101] (ulepszenie 1) — nazwa] 손뼉치기|Clap
+106||Umiejętność wroga [803101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여|[OnSucceedAttack] Inflict 1 Attack Power Down next turn
+107||Umiejętność wroga [803102] (ulepszenie 1) — nazwa] 강한 손뼉치기|Powerful Clap
+108||Umiejętność wroga [803102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 공격 위력 감소 3 부여|[OnSucceedAttackHead] Inflict 3 Attack Power Down next turn
+109||Umiejętność wroga [803103] (ulepszenie 1) — nazwa] 꼬리치기|Tail Whip
+111||Umiejętność wroga [803103] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 취약 3 부여|[OnSucceedAttackHead] Inflict 3 Fragile next turn
+112||Umiejętność wroga [803104] (ulepszenie 1) — nazwa] 주머니 압박|Pressing Sac
+113||Umiejętność wroga [803104] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 3 부여|[OnSucceedAttack] Inflict 3 Bind next turn
+114||Umiejętność wroga [803105] (ulepszenie 1) — nazwa] 혈사포|Blood Cannon
+115||Umiejętność wroga [803105] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed
+116||Umiejętność wroga [803105] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 출혈 20 부여|[OnSucceedAttackHead] Inflict 20 Bleed
+117||Umiejętność wroga [803106] (ulepszenie 1) — nazwa] 종혈|Clotting
+118||Umiejętność wroga [803106] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 출혈 30 부여|[OnSucceedAttackHead] Inflict 30 Bleed
+120||Umiejętność wroga [803201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 2 부여.|[OnSucceedAttack] Inflict 2 Bleed next turn
+121||Umiejętność wroga [803202] (ulepszenie 1) — nazwa] 등압|Constant Voltage
+122||Umiejętność wroga [803202] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 1 부여.|[OnSucceedAttack] Inflict 1 Rupture next turn
+123||Umiejętność wroga [803203] (ulepszenie 1) — nazwa] 등압추격|Electromotive Pursuit
+125||Umiejętność wroga [803203] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 4 부여.|[OnSucceedAttackHead] Inflict 4 Rupture next turn
+126||Umiejętność wroga [803204] (ulepszenie 1) — nazwa] 하울링|Howl
+127||Umiejętność wroga [803204] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여.|[OnSucceedAttack] Inflict 2 Bind next turn
+128||Umiejętność wroga [803204] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 수비 위력 감소 4 부여.|[OnSucceedAttackHead] Inflict 4 Defense Power Down
+129||Umiejętność wroga [803205] (ulepszenie 1) — nazwa] 전격 하울링|Electrified Howl
+130||Umiejętność wroga [803205] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 3 부여.|[OnSucceedAttackHead] Inflict 3 Rupture next turn
+131||Umiejętność wroga [803206] (ulepszenie 1) — nazwa] 피뢰|Lightning Rod
+132||Umiejętność wroga [803206] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 2 부여.|[OnSucceedAttack] Inflict 2 Rupture next turn
+133||Umiejętność wroga [803206] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 파열 5 부여.|[OnSucceedAttackHead] Inflict 5 Rupture next turn
+134||Umiejętność wroga [803207] (ulepszenie 1) — nazwa] 적뢰|Red Bolts
+135||Umiejętność wroga [803207] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 10 부여.|[OnSucceedAttack] Inflict 10 Rupture next turn
+137||Umiejętność wroga [803208] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여|[OnSucceedAttack] Inflict 2 Bind next turn
+141||Umiejętność wroga [803302] (ulepszenie 1) — nazwa] 휘두르기|Swipe
+142||Umiejętność wroga [803302] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 공격 위력 증가 1을 얻음|[WhenUse] Gain 1 Attack Power Up next turn
+143||Umiejętność wroga [803302] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 3, 마비 1 부여|[OnSucceedAttack] Inflict 3 Bleed and 1 Paralyze next turn
+145||Umiejętność wroga [803303] (ulepszenie 1) — nazwa] 후려치기|Thwack
+146||Umiejętność wroga [803303] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 3 부여.|[OnSucceedAttack] Inflict 3 Bind next turn
+147||Umiejętność wroga [803304] (ulepszenie 1) — nazwa] 가드|Guard
+148||Umiejętność wroga [803305] (ulepszenie 1) — nazwa] 독액 뿜기|Poison Spray
+149||Umiejętność wroga [803305] (ulepszenie 1) — opis] [WhenUse]체력 6 소모. 다음 턴에 출혈 5를 얻음|[WhenUse] Lose 6 HP; Gain 5 Bleed next turn
+152||Umiejętność wroga [803401] (ulepszenie 1) — nazwa] 꼬고고곡|Bawkbawbawbawk
+153||Umiejętność wroga [803401] (ulepszenie 1) — opis] 정신력이 가장 낮은 대상 우선 공격|Targets the unit with the least SP
+154||Umiejętność wroga [803401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 정신력 5 피해|[OnSucceedAttack] Deal 5 SP damage
+155||Umiejętność wroga [803402] (ulepszenie 1) — nazwa] 꼬고곡|Babawbawk
+157||Umiejętność wroga [803402] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 체력 7 회복|[OnSucceedAttack] Heal 7 HP
+158||Umiejętność wroga [803402] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 침잠 3 부여|[OnSucceedAttackHead] Inflict 3 Sinking
+159||Umiejętność wroga [803403] (ulepszenie 1) — nazwa] 끄그극|Keghgh
+160||Umiejętność wroga [803403] (ulepszenie 1) — opis] 이번 턴동안 피해를 당하지 않았다면, 다음 턴에 모든 아군에게 공격 위력 증가 2 부여|If user doesn’t take damage this turn, apply 2 Attack Power Up to all allies next turn
+161||Umiejętność wroga [803501] (ulepszenie 1) — nazwa] 꼬오곡|Baaawkbawk
+162||Umiejętność wroga [803501] (ulepszenie 1) — opis] 체력이 가장 낮은 대상 우선 공격|Targets the unit with the least HP
+163||Umiejętność wroga [803501] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 취약 1 부여|[OnSucceedAttack] Inflict 1 Fragile
+164||Umiejętność wroga [803502] (ulepszenie 1) — nazwa] 꼬고꼭|Bawkbabawk
+167||Umiejętność wroga [803502] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 출혈 5 부여|[OnSucceedAttackHead] Inflict 5 Bleed
+168||Umiejętność wroga [803503] (ulepszenie 1) — nazwa] 끄극|Khgh
+169||Umiejętność wroga [803503] (ulepszenie 1) — opis] [OnSucceedEvade] 대상의 정신력 -15|[OnSucceedEvade] Target loses 15 SP
+170||Umiejętność wroga [803601] (ulepszenie 1) — nazwa] 끄끄끅!|Khghgh!
+171||Umiejętność wroga [803601] (ulepszenie 1) — opis] 이전 턴에 피해를 받지 않은 경우 코인 위력 +3|If user took no damage last turn, Coin Power +3
+172||Umiejętność wroga [803601] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 신속 3 얻음|[OnSucceedAttack] Gain 3 Haste next turn
+173||Umiejętność wroga [803602] (ulepszenie 1) — nazwa] 끄끄옥!|Kawkbaawk!
+176||Umiejętność wroga [803602] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 마비 2 부여|[OnSucceedAttackHead] Inflict 2 Paralyze next turn
+177||Umiejętność wroga [803603] (ulepszenie 1) — nazwa] 끄극!|Krgh!
+179||Umiejętność wroga [803701] (ulepszenie 1) — opis] 체력이 가장 높은 대상 우선 공격|Targets the unit with the most HP
+180||Umiejętność wroga [803701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 마비 2 부여|[OnSucceedAttack] Inflict 2 Paralyze
+181||Umiejętność wroga [803702] (ulepszenie 1) — nazwa] 끄꾸우곡|Khgaawahk
+184||Umiejętność wroga [803702] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze
+185||Umiejętność wroga [803703] (ulepszenie 1) — nazwa] 끅!|Khk!
+186||Umiejętność wroga [803801] (ulepszenie 1) — nazwa] 끄!|Kgh!
+187||Umiejętność wroga [803801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 출혈 3 부여|[OnSucceedAttackHead] Inflict 3 Bleed
+188||Umiejętność wroga [803801] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여|[OnSucceedAttack] Inflict 3 Rupture
+192||Umiejętność wroga [803803] (ulepszenie 1) — nazwa] 끄극...|Krgh…

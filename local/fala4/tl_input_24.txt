@@ -1,0 +1,96 @@
+2329||AbEvents#AbEventsResultLog-a1c6p2.json] <color=#ebcaa2>[{0}]</color>가 흐트러짐 손상, 진동 폭발로 받는 흐트러짐을 2배로 받음|Double the amount of Stagger threshold raised, including the said effect from Tremor Burst, for <color=#ebcaa2>[{0}]</color>
+2330||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color>에게 다음 턴에 %[{1}] {2}/% 부여|<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/% next turn
+2331||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color> 정신력 {1} 피해|<color=#ebcaa2>[{0}]</color> takes {1} SP damage
+2332||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color> %[{1}] {2}/% 얻음|<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/%
+2333||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color> 다음 턴에 %[{1}] {2}/% 얻음|<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/% next turn
+2334||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color> 본체 및 부위 체력 {1} 회복|<color=#ebcaa2>[{0}]</color> heals {1} HP to Core and Part
+2335||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color> 체력 {1}, 정신력 {2} 회복|<color=#ebcaa2>[{0}]</color> heals {1} HP and {2} SP
+2336||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color>에게 %[{1}] {2}/% 부여|<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/%
+2337||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>모든 수감자가 이번 전투동안</color> {0} {1} 얻음|<color=#ebcaa2>All Sinners gain</color> {1} {0} for the rest of the Encounter
+2338||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>모든 아군의</color> 정신력 {0} 회복|<color=#ebcaa2>All Sinners</color> heal {0} SP
+2339||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}]</color>가 이번 전투동안 %{1} {2}/% 얻음|<color=#ebcaa2>[{0}]</color> gains %{2} {1}/% for the rest of the Encounter
+2340||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>모든 수감자가 이번 전투동안</color> %{0} {1}/% 얻음|<color=#ebcaa2>All Sinners gain</color> %{1} {0}/% for the rest of the Encounter
+2341||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>[{0}] 수감자의</color> 정신력 {1} 회복|<color=#ebcaa2>[{0}]</color> heals {1} SP
+2342||AbEvents#AbEventsResultLog-a1c6p3.json] [{0}]가 {1}턴 동안 %{2} {3}/%을 얻음|[{0}] gains %{3} {2}/% for {1} turn(s)
+2343||AbEvents#AbEventsResultLog-a1c6p3.json] 모든 캐서린의 양손이 {0}턴동안 %{1} {2}/%를 얻음|Every Catherine's both hands gain %{2} {1}/% for {0} turn(s)
+2344||AbEvents#AbEventsResultLog-a1c6p3.json] [{0}]의 <color=#80c9ff>정신력 최대로 회복</color>|[{0}] <color=#80c9ff>fully heals SP</color>
+2345||AbEvents#AbEventsResultLog-a1c6p3.json] <color=#ebcaa2>모든 수감자의</color> <color=#80c9ff>정신력 {0} 회복</color>|<color=#ebcaa2>All Sinners</color> <color=#80c9ff>heal {0} SP.</color>
+2346||AbEvents#AbEventsResultLog-a1c6p3.json] [{0}]의 {1}가 {2}로 변경됨|[{0}]'s {1} changes to {2}
+2347||AbEvents#AbEventsResultLog-a1c7p3.json] {0} 수감자 <color=#e30000>최대 체력의 15%만큼 피해</color> 입음|{0} takes <color=#e30000>damage equal to 15% of their max HP</color>
+2348||AbEvents#AbEventsResultLog-a1c7p3.json] 장미 사냥꾼 <color=#f8c200>공격 레벨 증가 3, 방어 레벨 증가 3</color> 얻음|The Rose Hunter gains <color=#f8c200>3 Offense Level Up and 3 Defense Level Up</color>
+2349||AbEvents#AbEventsResultLog-a1c7p3.json] 장미 사냥꾼 <color=#e30000>공격 레벨 감소 3, 방어 레벨 감소 3</color> 얻음|The Rose Hunter gains <color=#e30000>3 Offense Level Down and 3 Defense Level Down</color>
+2350||AbEvents#AbEventsResultLog-a1c7p3.json] <color=#ebcaa2>모든 수감자</color>가 <color=#fe4b48>{0}만큼 정신력 피해</color>|<color=#ebcaa2>All Sinners</color> <color=#fe4b48>take {0} SP damage</color>
+2351||AbEvents#AbEventsResultLog-a1c7p3.json] <color=#ebcaa2>[{0}] 수감자</color>가 <color=#e30000>{1}만큼 체력 피해</color>, <color=#80c9ff>{2}만큼 정신력 회복</color>|<color=#ebcaa2>[{0}]</color> <color=#e30000>takes {1} HP damage</color>, and <color=#80c9ff>heals {2} SP</color>
+2352||AbEvents#AbEventsResultLog-a1c7p3.json] <color=#ebcaa2>[{0}]</color>가 매턴 %[{1}] {2}/% 얻음|<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/% every turn
+2353||AbEvents#AbEventsResultLog-a1c971.json] 뒤틀린 호엔하임의 호흡 관련 패시브 「적응」이 약화되어 「부적응」으로 변경|Distorted Hohenheim's Poise Passive 「Adaptation」 weakens, becoming 「Maladaptation」
+2354||AbEvents#AbEventsResultLog-a1c971.json] 뒤틀린 호엔하임의 보호막 관련 패시브 「방어기제」가 약화되어 「엉성한 방어기제」으로 변경|Distorted Hohenheim's Shield Passive 「Defense Mechanism」 weakens, becoming 「Inadequate Defense Mechanism」
+2355||AbEvents#AbEventsResultLog-a1c971.json] 뒤틀린 호엔하임의 정신력 관련 패시브 「확증편향」이 약화되어 「자기 의심」으로 변경|Distorted Hohenheim's SP Passive 「Confirmation Bias」 weakens, becoming 「Self-doubt」
+2356||AbEvents#AbEventsResultLog-a1c9p1.json] <color=#ebcaa2>[{0}] 수감자</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>얻음</color>|<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> <color=#e30000>{2} {1}</color>
+2357||AbEvents#AbEventsResultLog-a1c9p1.json] <color=#ebcaa2>[{0}] 수감자</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>얻음</color>|<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> <color=#e30000>{2} {1}</color>
+2358||AbEvents#AbEventsResultLog-a1c9p1.json] <color=#ebcaa2>요정 부위가 흐트러짐 상태가 됨</color>|<color=#ebcaa2>Fairy is Staggered!</color>
+2359||AbEvents#AbEventsResultLog-a1c9p1.json] <color=#ebcaa2>요정 부위가 영구적으로 {0} {1} 얻음</color>|<color=#ebcaa2>Fairy permanently gains {1} {0}</color>
+2360||AbEvents#AbEventsResultLog-pilgrimage.json] <color=#ebcaa2>{0}의</color> <color=#e30000>체력 - {1}</color>|<color=#ebcaa2>{0}</color> <color=#e30000>loses {1} HP.</color>
+2361||AbEvents#AbEventsResultLog-pilgrimage.json] <color=#ebcaa2>{0}가</color> %[{1} {2}]/% 얻음|<color=#ebcaa2>{0}</color> gains % [{2} {1}]/%
+2362||AbEvents#AbEventsResultLog-pilgrimage.json] <color=#ebcaa2>모든 아군의</color> <color=#16849f>[{0}]</color> 해제|Remove <color=#16849f>[{0}]</color> from <color=#ebcaa2>all allies</color>
+2363||AbEvents#AbEventsResultLog-pilgrimage.json] <color=#ebcaa2>스킬</color> <color=#185188>[{0}]</color>와 합을 할 수 있음|<color=#185188>[{0}]</color> <color=#ebcaa2>Skill</color> becomes Clashable
+2364||AbEvents#AbEventsResultLog-pilgrimage.json] <color=#ebcaa2>{0}에게</color> %[{1} {2}]/% 부여|Apply %[{2} {1}]/% on <color=#ebcaa2>{0}</color>
+2365||AbEvents#AbEventsResultLog-pilgrimage.json] <color=#ebcaa2>패시브</color> <color=#e46324>[{0}]</color> 비활성화|<color=#e46324>[{0}]</color> <color=#ebcaa2>Passive</color> deactivated
+2366||AbEvents#AbEventsResultLog-pilgrimage.json] <color=#ebcaa2>{0}가</color> %[{1}]/% 얻음|<color=#ebcaa2>{0}</color> gains %[{1}]/%
+2367||AbEvents#AbEventsResultLog-pilgrimage.json] 이번 전투 동안 <color=#ebcaa2>모든 수감자가</color> %[{0}]/% 효과 획득|<color=#ebcaa2>All Sinners</color> gain %[{0}]/% for the duration of this Encounter
+2368||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 아군의</color> <color=#fe4b48>정신력 -{0}</color>|<color=#ebcaa2>All allies</color> <color=#fe4b48>lose {0} SP.</color>
+2369||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[로쟈]의</color> <color=#80c9ff>정신력 +{0}</color>|<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>heals {0} SP.</color>
+2370||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[로쟈]의</color> <color=#fe4b48>정신력 -{0}</color>|<color=#ebcaa2>[Rodion]</color> <color=#fe4b48>loses {0} SP.</color>
+2371||AbEvents#AbEventsResultLog.json] <color=#ff8000>전투 발생!</color>|<color=#ff8000>Combat Encounter!</color>
+2372||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#80c9ff>정신력 +{1}</color>|<color=#ebcaa2>[{0}]</color> <color=#80c9ff>heals {1} SP.</color>
+2373||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 아군의</color> <color=#80c9ff>정신력 +{0}</color>|<color=#ebcaa2>All allies</color> <color=#80c9ff>heal {0} SP.</color>
+2375||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}] 효과</color> <color=#e30000>소멸</color>|<color=#ebcaa2>The effects of [{0}]</color> <color=#e30000>expired.</color>
+2376||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> <color=#f8c200>부위 파괴!</color>|The <color=#ebcaa2>[{0}]</color> <color=#f8c200>got broken!</color>
+2377||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]가 흐트러짐</color>|<color=#ebcaa2>[{0}] got Staggered!</color>
+2378||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}/%<color=#ebcaa2>을 얻음.</color>|<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}]/%.
+2379||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>|<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>
+2380||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 -{1}</color>|<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>
+2381||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}, [{3}] {4}/%<color=#ebcaa2>을 얻음.</color>|<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}] and {4} [{3}]/%.
+2382||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 - {1}</color>|<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>
+2383||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의 [{1}]</color> <color=#e30000>효과 소멸</color>|<color=#ebcaa2>[{1}] of [{0}]</color> <color=#e30000>expired.</color>
+2384||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 - {1}</color>|<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>
+2385||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 수감자들에게</color> %[{0}] {1}/% <color=#ebcaa2>부여</color>|%{1} [{0}]/% <color=#ebcaa2>applied</color> to <color=#ebcaa2>all Sinners.</color>
+2386||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 수감자의</color> <color=#fe4b48>정신력 -{0}</color>|<color=#ebcaa2>All Sinners</color> <color=#fe4b48>lose {0} SP.</color>
+2387||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>환상체 제압 완료</color>|<color=#ebcaa2>Abnormality Suppressed!</color>
+2388||AbEvents#AbEventsResultLog.json] {0}의</color> <color=#e30000>체력 - {1}</color>|<color=#ebcaa2>[{0}]</color> <color=#e30000>loses [{1}] HP.</color>
+2389||AbEvents#AbEventsResultLog.json] {0}의 모든 부위가</color> %{1}턴 동안 {2} {3}/%를 얻음.</color>|All of [{0}]’s parts gain %{3} {2} for {1} turn(s)/%.
+2390||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>황금빛의 사과가 새로운 몸통을 만들었다!</color>|<color=#ebcaa2>The Golden Apple formed a new body!</color>
+2391||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>공장을 조사하기로 했다.</color>|<color=#ebcaa2>Investigating the factory…</color>
+2392||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>공장을 조사하지 않기로 했다.</color>|<color=#ebcaa2>We decided against investigating the factory.</color>
+2393||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>'그렇다'버튼을 눌렀다.</color>|<color=#ebcaa2>Pressed “Yes”.</color>
+2394||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 인격의</color> <color=#e30000>체력 -{0}</color>|<color=#ebcaa2>All Identities</color> <color=#e30000>lose {0} HP.</color>
+2395||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 적의 강화공장가동 패시브</color> <color=#e30000>소멸</color>|<color=#ebcaa2>All the Cyborgs</color> <color=#e30000>have lost</color> <color=#ebcaa2>their [Upgrade Factory at Work] Passives!</color>
+2396||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>'아니다'버튼을 눌렀다.</color>|<color=#ebcaa2>Pressed “No”.</color>
+2397||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 적의 강화공장가동 패시브</color> <color=#e30000>소멸</color>|<color=#ebcaa2>All enemies</color> <color=#e30000>have lost</color> <color=#ebcaa2>their [Upgrade Factory at Work] Passives!</color>
+2398||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 아군의</color> <color=#e30000>체력 -{0}</color>|<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP.</color>
+2399||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 아군이</color> %[{0}] {1}/%<color=#ebcaa2>를 얻음</color>|<color=#ebcaa2>All allies</color> <color=#ebcaa2>gain</color> %{1} [{0}]/%.
+2400||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 적이 %[{0}]/%가 됨</color>|<color=#ebcaa2>All enemies become %[{0}]/%.</color>
+2401||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>남은 턴동안 모든 적에게</color> %[{0}] {1} , [{2}] {3}/% <color=#ebcaa2>부여</color>|<color=#ebcaa2>For the remaining turns, all enemies</color> <color=#ebcaa2>gain</color> %{1} [{0}] and {3} [{2}]/%.
+2402||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 적이 더이상 [{0}]가 되지 않음</color>|<color=#ebcaa2>All enemies will no longer become [{0}].</color>
+2403||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]가 스킬</color> <color=#e30000>[{1}]</color><color=#ebcaa2>을 사용</color>|<color=#ebcaa2>[{0}] uses the skill</color> <color=#e30000>[{1}]</color>!
+2404||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의 몸통</color> <color=#e30000>체력 - {1}</color>|<color=#ebcaa2>[{0}]’s body</color> <color=#e30000>loses {1} HP.</color>
+2405||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]이</color> 스킬 <color=#e30000>[{1}]</color><color=#ebcaa2>를 사용</color>|<color=#ebcaa2>[{0}] uses</color> the skill <color=#e30000>[{1}]</color>!
+2406||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]이</color> <color=#e30000>[{1}]</color> {2}<color=#ebcaa2> 얻음</color>|<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>.
+2407||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}] %[{1}] {2}/%<color=#ebcaa2> 증가</color>|<color=#ebcaa2>[{0}] gains %{2} [{1}]/%</color>
+2408||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 얻음</color>|<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%
+2409||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}] %[{1}] {2}/%<color=#ebcaa2> 감소</color>|<color=#ebcaa2>[{0}] loses %{2} [{1}]/%</color>
+2410||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}/%<color=#ebcaa2>을 얻음</color>|<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}]/%
+2411||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 [{0}]이</color> <color=#00ff9c>최대 체력의 {1}만큼 피해</color>|<color=#ebcaa2>All [{0}]</color> <color=#00ff9c>take damage by {1} of Max HP</color>
+2412||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#00ff9c>정신력 {1} 소모</color>|<color=#ebcaa2>[{0}]</color> <color=#00ff9c>loses {1} SP</color>
+2413||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> 수감자가 가지고 있는 <color=#ebcaa2>{1} 전부 소멸</color>|<color=#ebcaa2>All {1} removed</color> from <color=#ebcaa2>[{0}]</color>
+2414||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>누구도 울지 않도록</color>에게 다시 붙여진 저주 부적 5 <color=#ebcaa2>부여</color>|<color=#ebcaa2>So That No One Will Cry gains</color> 5 Reattached Curse Talisman
+2415||AbEvents#AbEventsResultLog.json] [{0}] 수감자에게 다음 턴에 <color=#00ff9c>{1} {2}</color> 부여|[{0}] gains <color=#00ff9c>{2} {1}</color> next turn
+2416||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#00ff9c>체력 +{1}</color>|<color=#ebcaa2>[{0}]</color> <color=#00ff9c>heals {1} HP</color>
+2417||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}, [{5}], {6}/%<color=#ebcaa2> 얻음</color>|<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}], {4} [{3}], and {6} [{5}]/%
+2418||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>, <color=#fe4b48>정신력 -{2}</color>|<color=#ebcaa2>[{0}] loses</color> <color=#e30000>{1} HP</color> and <color=#fe4b48>{2} SP</color>
+2419||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>모든 아군이</color> <color=#e30000>[{0}]</color> {1}<color=#ebcaa2> 얻음</color>|<color=#ebcaa2>All allies gain</color> {1} <color=#e30000>[{0}]</color>
+2420||AbEvents#AbEventsResultLog.json] 동랑을 막아섰다|Dongrang has been confronted
+2421||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> <color=#e30000>체력 -{1}</color>|<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>
+2422||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]에게</color> <color=#e30000>[{1}]</color> {2}<color=#ebcaa2> 부여</color>|<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>.
+2423||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}/%<color=#ebcaa2> 얻음</color>|<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}] and {4} [{3}]/%.
+2424||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> [{1}] <color=#ebcaa2>전부 소모</color>|<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>expends all</color> [{1}].
+2425||AbEvents#AbEventsResultLog.json] <color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 얻음</color>|<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%.

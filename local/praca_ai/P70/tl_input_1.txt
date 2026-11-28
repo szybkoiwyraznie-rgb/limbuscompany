@@ -1,0 +1,131 @@
+1||(ulepszenie 1) — opis] [WhenUse] 자신보다 속도가 낮다면, 차이만큼 합 위력 +1 (최대 3)|[WhenUse] If this unit's Speed is faster than the target's, Clash Power +1 for each Speed difference (max 3)
+2||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+3||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여|[OnSucceedAttack] Inflict 2 [AttackDown] next turn
+4||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [VibrationExplosion]|[OnSucceedAttack] Trigger [VibrationExplosion]
+5||(ulepszenie 1) — nazwa] 가드|Guard
+6||(ulepszenie 1) — opis] [WhenUse] [Protection] 3 얻음|[WhenUse] Gain 3 [Protection]
+7||(ulepszenie 1) — nazwa] 깨물기|Maul
+8||(ulepszenie 1) — opis] 이 공격 스킬 적중시 다음 턴에 [TakeHpHealIncrease]를 얻음|When this Attack Skill hits, gain [TakeHpHealIncrease] next turn
+9||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Burst]
+11||(ulepszenie 1) — nazwa] 식사 시간|Devouring
+12||(ulepszenie 1) — opis] [WhenUse] 대상에게 [Burst]이 있다면, 기본 위력 +1|[WhenUse] If target has [Burst], Base Power +1
+13||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+14||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 본체 및 부위 체력 3 회복|[OnSucceedAttackHead] Core and Part both gain 3 HP
+21||(ulepszenie 1) — nazwa] 탐욕스러운 식사 시간|Ravenous Devouring
+22||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, [DefenseDown] 2 부여\n자신의 [TakeHpHealIncrease] 수치만큼, 기본 위력 +1 (최대 3)|[WhenUse] If target has 5+ [Burst], inflict 2 [DefenseDown]\nGain +1 Base Power for every [TakeHpHealIncrease] value on self (max 3)
+24||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 본체 및 부위 체력 5 회복|[OnSucceedAttackHead] Core and Part both gain 5 HP
+25||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst]
+31||(ulepszenie 1) — nazwa] 반격|Counter
+32||(ulepszenie 1) — opis] 자신의 본체 체력이 50%이하라면, 이 스킬의 코인 적중시 본체 및 부위 체력 10 회복|At less than 50% Core HP, Core and Part heal on Coin Hit
+33||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count
+35||(ulepszenie 1) — nazwa] 배트치기|Bat Bash
+36||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Burst] Count
+38||(ulepszenie 1) — nazwa] 내려박기|Smackdown
+39||(ulepszenie 1) — opis] [WinDuel] 다음 턴에 [Enhancement], [AttackDmgUp] 1 얻음|[WinDuel] Gain 1 [Enhancement] and 1 [AttackDmgUp] next turn
+42||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+43||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst]만큼 [Laceration] 부여|[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target
+44||(ulepszenie 1) — nazwa] 분풀기|Upheaval
+45||(ulepszenie 1) — opis] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n대상의 [Laceration]이 5 이상이면, 합 위력 +1\n[WinDuel] [Burst] 횟수 3 증가|If target has 5+ [Burst], Clash Power +1\nIf target has 5+ [Laceration], Clash Power +1\n[WinDuel] Inflict +3 [Burst] Count
+46||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 코인 위력 +1|[OnSucceedAttackHead] Next Coin has +1 Power
+47||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 코인 위력 +2|[OnSucceedAttackHead] Next Coin has +2 Power
+48||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여|[OnSucceedAttack] Inflict 3 [Paralysis] next turn
+49||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8 부여|[OnSucceedAttack] Inflict 8 [Laceration]
+50||(ulepszenie 1) — nazwa] 속죄의 시간이다|Time to Repent
+51||(ulepszenie 1) — opis] [CantChangeTarget]|[CantChangeTarget]
+52||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수  3, [Burst]  횟수 3 부여|[OnSucceedAttack] Inflict 3 [Laceration] Count and 3 [Burst] Count
+53||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3, [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]
+55||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Enhancement] 1 얻음|[OnSucceedAttack] Gain 1 [Enhancement] next turn
+56||(ulepszenie 1) — nazwa] 더욱 고통스러워야해!|You Must Suffer More!
+57||(ulepszenie 1) — opis] [CantChangeTarget]\n[WinDuel] [Burst] 횟수 3 증가|[CantChangeTarget]\n[WinDuel] Inflict 3 [Burst] Count
+62||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Enhancement] 1 얻음|[WhenUse] Gain 1 [Enhancement] next turn
+66||(ulepszenie 1) — nazwa] 치워주마|I'll Remove You
+67||(ulepszenie 1) — opis] 이 공격 스킬이 입힌 피해량의 10%만큼 본체 및 부위 체력 회복|Core and Part heal by 10% of the damage dealt by this Attack Skill
+68||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [AttackUp] 1 얻음|[OnSucceedAttack] Gain 1 [AttackUp]
+70||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음|[OnSucceedAttackHead] Gain 1 [Agility] next turn
+71||(ulepszenie 1) — nazwa] 빌어먹을 놈|Bloody Bastard!
+72||(ulepszenie 1) — opis] 대상보다 속도가 빠르다면, 합 위력+2|If this unit's Speed is faster than the target's Clash Power +2
+73||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count
+75||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상보다 속도가 3이상 빠르다면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (once)
+76||(ulepszenie 1) — nazwa] 내 집이다!|This Is My Home!
+77||(ulepszenie 1) — opis] 체력이 가장 낮은 대상 우선 공격\n[WhenUse] 대상의 현재 체력 비율이 70% 미만이면, 합 위력 +2|Prioritize targets with the least HP\n[WhenUse] If target has less than 70% HP, Clash Power +2
+78||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 1 얻음|[OnSucceedAttack] Gain 1 [Agility] next turn
+79||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+80||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count
+82||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]이 20이상이면, 피해량 +100%|[OnSucceedAttack] If target has 20+ [Laceration], deal +100% damage
+83||(ulepszenie 1) — moneta 4, efekt 2 — opis] [EnemyKill] 이 스킬 재사용 (최대 1)|[EnemyKill] Reuse this Skill (1 time max)
+84||(ulepszenie 1) — nazwa] 네놈만은…|I'll Get You...!
+85||(ulepszenie 1) — opis] 히스클리프 우선 공격\n[WhenUse] 속도가 가장 낮은 적일 경우, 기본 위력 +3\n[WhenUse] 다음 턴에 [AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5 부여|Prioritizes Heathcliff\n[WhenUse] If the target is the enemy with the slowest Speed, Base Power +3\n[WhenUse] Inflict [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], and 5 [Binding] next turn
+86||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음|[OnSucceedAttack] Gain 1 [AttackUp] next turn
+88||(ulepszenie 1) — nazwa] 돌려줘…!!|Give It Back...!!
+89||(ulepszenie 1) — opis] [CantDuel]|[CantDuel]
+90||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음|[OnSucceedAttackHead] Gain 2 [AttackUp] next turn
+93||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량의 30%만큼 타격 피해|[OnSucceedAttack] If target has 10+ [Laceration], deal 30% of damage dealt as Blunt damage
+94||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]이 5이상이면, 피해량의 50%만큼 체력 회복|[OnSucceedAttack] If target has 5+ [Laceration], heal by 50% of damage dealt
+95||(ulepszenie 1) — nazwa] 이 새끼가…|You Little...
+96||(ulepszenie 1) — opis] [AaCfPbBe]을 가지고 있는 대상 우선 공격\n대상의 속도가 자신보다 3 이상 낮다면, 이 스킬 재사용 (최대 1)|Prioritizes targets with [AaCfPbBe]\nIf this unit's Speed is faster than the target's by 3 or more, reuse this Skill (1 time max)
+97||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 피해량의 50%만큼 본체 및 부위 체력 회복|[OnSucceedAttack] Heal Core and Part by 50% of damage dealt
+100||(ulepszenie 1) — opis] 턴 종료시 보호막 체력이 남아있다면, 다음 턴에 [Protection] 4 얻음|If this Unit has remaining Shield HP at Turn End, gain 4 [Protection] next turn
+101||(ulepszenie 1) — nazwa] 회피|Evade
+102||(ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [Binding] 1 부여 (최대 2)|[OnSucceedEvade] Inflict 1 [Binding] next turn (2 times max)
+103||(ulepszenie 1) — nazwa] 여긴 내자리야!|This is My Place!
+104||(ulepszenie 1) — opis] 자신의 속도가 대상보다 높으면 코인 위력 +1|If this unit's Speed is faster than the target's, Coin Power +1
+109||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량의 70%만큼 체력 회복|[OnSucceedAttack] If target has 10+ [Laceration], heal by 70% of damage dealt
+110||(ulepszenie 1) — nazwa] 위반자 저지|Deter Rulebreakers
+111||(ulepszenie 1) — opis] [WhenUse] 대상에게 [Laceration]이 있다면, 정신력 4 회복|[WhenUse] If target has [Laceration], heal 4 SP
+114||(ulepszenie 1) — nazwa] 규약 집행|Rule Execution
+115||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1|[WhenUse] If target has 5+ [Laceration], Coin Power +1
+116||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+117||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복|[OnSucceedAttack] If target has [Laceration], heal 5 SP
+120||(ulepszenie 1) — nazwa] 위반자 집행|Execute Rulebreakers
+121||(ulepszenie 1) — opis] [WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음|[WinDuel] If target has [Laceration], gain 1 [Enhancement] next turn
+122||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 피해량의 20%만큼 추가 피해|[OnSucceedAttack] If target has 5+ [Laceration], deal 20% of damage dealt as bonus damage
+123||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [DefenseDown] 1 부여|[OnSucceedAttackHead] Inflict 1 [DefenseDown]
+127||(ulepszenie 1) — opis] 턴 종료 시 보호막 체력이 남아있다면, 다음 턴에 [AttackDmgUp] 2 얻음|If this unit has remaining Shield HP at Turn End, gain 2 [AttackDmgUp] next turn
+128||(ulepszenie 1) — nazwa] 위반자 처리|Dispose Rulebreakers
+130||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+132||(ulepszenie 1) — nazwa] 규약 이행|Rule Fulfillment
+133||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 횟수가 4 이상이면, 코인 위력 +1|[WhenUse] If target has 4+ [Laceration] Count, Coin Power +1
+138||(ulepszenie 1) — nazwa] 위반자 처벌|Punish Rulebreakers
+140||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 횟수가 4 이상이면, 피해량의 20%만큼 추가 피해|[OnSucceedAttack] If target has 4+ [Laceration] Count, deal 20% of damage dealt as bonus damage
+146||(ulepszenie 1) — nazwa] 처단 집행|Punishment Execution
+147||(ulepszenie 1) — opis] [WinDuel] 대상의 [Laceration]이 5 이상이면, 이 스킬 재사용 (최대 1)|[WinDuel] If target has 5+ [Laceration], reuse this Skill (once)
+149||(ulepszenie 1) — nazwa] 위반자 처단|Discipline Rulebreakers
+150||(ulepszenie 1) — opis] 대상의 [Laceration]이 5 이상이면, 피해량 +30%|If target has 5+ [Laceration], deal +30% damage
+151||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [Laceration]이 있다면, 다음 턴에 [AttackDown] 2 부여|[OnSucceedAttack] If target has [Laceration], Inflict 2 [AttackDown] next turn
+153||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] (대상의 [Laceration] / 2)만큼 [Burst] 부여|[OnSucceedAttack] Inflict [Burst] equal to ([Laceration]/2) on target
+154||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 7 회복|[OnSucceedAttack] If target has [Laceration], heal 7 SP
+155||(ulepszenie 1) — nazwa] 위반 사항|Violated Clause
+156||(ulepszenie 1) — opis] 대상의 [Laceration] 3당 코인 위력 +1 (최대 3)\n[WinDuel] 대상의 [Laceration]이 6 이상이면, 피해량 +40%|Coin Power +1 for every 3 [Laceration] on target (max 3)\n[WinDuel] If target has 6+ [Laceration], deal +40% damage
+159||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]만큼 [Burst] 부여|[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target
+160||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 10 회복|[OnSucceedAttack] If target has [Laceration], heal 10 SP
+161||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttackHead] 대상의 [Laceration]이 5 이상이면, 이 스킬 재사용 (최대 1)|[OnSucceedAttackHead] If target has 5+ [Laceration], reuse this Skill (once)
+163||(ulepszenie 1) — opis] [OnSucceedEvade] [Enhancement] 1 얻음 (최대 1)|[OnSucceedEvade] Gain [Enhancement] (max 1)
+164||(ulepszenie 1) — nazwa] 스케치|Sketch
+168||(ulepszenie 1) — nazwa] 붓 긋기|Brushstroke
+169||(ulepszenie 1) — opis] 대상의 [Laceration]이 5 이상이면, 기본 위력 +2|If target has 5+ [Laceration], Base Power +2
+175||(ulepszenie 1) — nazwa] 혈묘화|Sanguine Dots
+181||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 5+ [Laceration], reuse this Skill (1 time max)
+182||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] [DefenseDown] 2 부여|[OnSucceedAttackHead] Inflict 2 [DefenseDown]
+184||(ulepszenie 1) — opis] 턴 종료 시 보호막 체력이 남아있다면, 다음 턴에 [AttackDmgUp] 3 얻음|If this unit has remaining Shield HP at Turn End, gain 3 [AttackDmgUp] next turn
+185||(ulepszenie 1) — nazwa] 선화|Line Art
+189||(ulepszenie 1) — nazwa] 선 긋기|Stroke
+196||(ulepszenie 1) — nazwa] 혈점화|Sanguine Points
+202||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 횟수가 4 이상이면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 4+ [Laceration] Count, reuse this Skill (1 time max)
+206||(ulepszenie 1) — nazwa] 채색|Coloring
+207||(ulepszenie 1) — opis] [WinDuel] 대상의 [Laceration]이 5 이상이면, 공격 종료 후 무작위 적에게 이 스킬 재사용 (최대 1)|[WinDuel] If target has 5+ [Laceration], reuse this Skill on a random enemy at Attack End (once)
+210||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Laceration] Count
+211||(ulepszenie 1) — nazwa] 혈점묘화|Sanguine Pointillism
+215||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown] 3 부여|[OnSucceedAttack] Inflict 3 [AttackDown] next turn
+218||(ulepszenie 1) — nazwa] 묘화|Pointillism
+219||(ulepszenie 1) — opis] 대상의 [Laceration] 3당 코인 위력 +1 (최대 4)\n[WinDuel] 대상의 [Laceration]이 6 이상이면, 피해량 +40%|Coin Power +1 for every 3 [Laceration] on target (max 4)\n[WinDuel] If target has 6+ [Laceration], deal +40% damage
+220||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 10 부여|[OnSucceedAttack] Inflict 10 [Laceration]
+221||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 횟수만큼 [Burst] 횟수 부여|[OnSucceedAttack] Inflict [Burst] Count equal to [Laceration] Count on target
+223||(ulepszenie 1) — nazwa] 핏방울꽃|Bloody of the Valley
+224||(ulepszenie 1) — opis] [WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음\n[WinDuel] 대상의 [Laceration]이 10 이상이면, 다음 턴에 [Enhancement]를 1 얻음|[WinDuel] If target has [Laceration], gain 1 [Enhancement] next turn\n[WinDuel] If target has 10+ [Laceration], gain 1 [Enhancement] next turn
+225||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 2 부여|[OnSucceedAttack] Inflict 2 [DefenseDown]
+227||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 이 코인 재사용 (최대 3회)|[OnSucceedAttack] If target has 5+ [Laceration], reuse this Skill (3 times max)
+228||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration] 횟수 1 감소|[OnSucceedAttack] Reduce [Laceration] Count on target by 1
+231||(ulepszenie 1) — opis] [OnSucceedEvade] [Enhancement] 1 얻음 (최대 2)|[OnSucceedEvade] Gain [Enhancement] (max 2)
+232||(ulepszenie 1) — nazwa] 기본 공격 1|Normal Attack 1
+233||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown] 1 부여|[OnSucceedAttack] Inflict 1 [AttackDown] next turn
+235||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] [Paralysis] 2 부여|[OnSucceedAttackHead] Inflict 2 [Paralysis]

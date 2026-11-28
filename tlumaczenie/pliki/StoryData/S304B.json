@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "<Przywykłem już do takich sytuacji, ale tym razem wygląda to poważnie.>",
+      "kr_sha256": "d5bfc928ecf28ebcc8cc7c4ed343ce96bf908715c057e16a5e5157dfd18e9ac4",
+      "en_sha256": "3b937139bf68d635e59e6e025fbde48f9f1681003e9e63c9657caa2200d5788d"
+    },
+    "dataList[id=10].content": {
+      "pl": "bo ze wszystkich stron nadciągali uzbrojeni pracownicy.",
+      "kr_sha256": "4061c9cab66c44b3440f3fcb9e64363c3a136428aace5c8dd8b9686a7ee8c718",
+      "en_sha256": "bb6eb1e5443244e65beb35d777142953c9b98a21b5659e8790b49a5e9c40866a"
+    },
+    "dataList[id=11].content": {
+      "pl": "…Z dnia na dzień zaskakujecie mnie coraz bardziej.",
+      "kr_sha256": "929cfd23abd59d3b4fb5e610044be89732360ccf15bff194cdf290fe6c3688da",
+      "en_sha256": "c7bc86ad652bea1f8ade5b38d2278a3038b7b859d8168716239cc68dd938b424"
+    },
+    "dataList[id=12].content": {
+      "pl": "Zdołaliście wyparować nawet tę odrobinę nadziei, która jeszcze zalegała na samym dnie.",
+      "kr_sha256": "3910ed23beafbe507f12951e7f405b8f2f1d6429e04df81837f0cbb20dde5790",
+      "en_sha256": "9f77af2e624b5cd0efee86eee66cf1ebc8d7709e358a78747ad6910a6c7e0855"
+    },
+    "dataList[id=13].content": {
+      "pl": "Ja się wyłączam. Zwalcie wszystko na nią albo załatwcie to razem, wasza sprawa.",
+      "kr_sha256": "b0a210c11f27ff08ac502a1917f961abf07007f1a9c1dee618f1befcc464513a",
+      "en_sha256": "a539d740906112fae58c100d475c097df6fa99ae157b7aba1d4ef571468320d2"
+    },
+    "dataList[id=14].content": {
+      "pl": "Przecież przed chwilą pan mówił, że idzie z nami, bo sam Kierownik nie wystarczy?!",
+      "kr_sha256": "23e94e588ca58b06f0c442524985f3dd5bf6aef4f907186a59971490efd85440",
+      "en_sha256": "8428c261e7d796ed3bfa2725952ee46aae3f5f1632fbc2aff7d22ccf4f7f0773"
+    },
+    "dataList[id=15].content": {
+      "pl": "Mówiłem, że wezmę na siebie odpowiedzialność za to, czego nie da się uniknąć, a nie, że wezmę udział w takich idiotyzmach.",
+      "kr_sha256": "7640ab6c7552d94062077119c65518ef4c68cfd30bcc08563c9bd9b538b1a91e",
+      "en_sha256": "40c87b995b4c7ce9296467a71f22ca3bb66ce78e0c97865f36241d51360e4a92"
+    },
+    "dataList[id=16].content": {
+      "pl": "Vergilius niespiesznie przecisnął się między uzbrojonymi strażnikami i oparł się o ścianę.",
+      "kr_sha256": "9a7d4bf011451311020c1b9d445691d0c79820db42247d1c4addefdd0fb162f8",
+      "en_sha256": "1ba6d0a2f68ba3e5b8f5e1e1baf5f65de8b1f48052f8a9e82adb38a3d2cb6005"
+    },
+    "dataList[id=17].content": {
+      "pl": "Do tego założył ręce, jakby postanowił na dobre zostać widzem.",
+      "kr_sha256": "62c114d9425bd212627d42199d41a54a58c428e963450c67a40f26323b7ec57a",
+      "en_sha256": "9652c4f5d308b1981afa7e1cdc341f796fd53c6085816793c72ac859634678da"
+    },
+    "dataList[id=1].content": {
+      "pl": "Owszem, w końcu naruszyliśmy Tabu Skrzydła.",
+      "kr_sha256": "5b59c3db3e5ba3a7f1de2cb50495f5b65e2660213af2b01d281a64ddec96d236",
+      "en_sha256": "1ed5eacf86a609ea2d21e8c1d8164c00d6e7f699f6c78ca7a48470cd88c3bfb2"
+    },
+    "dataList[id=2].content": {
+      "pl": "<Jeszcze nikt nie ucierpiał. Nie da się tego załatwić rozmową?>",
+      "kr_sha256": "4a9e20fb5192e45fd6f1187e535cf563eafe90d0f4cf8026f9e08bada1365abc",
+      "en_sha256": "40c613ddffb1d431fbe28573aa301d3330834004dea3dfa607e40c51563bf7be"
+    },
+    "dataList[id=3].content": {
+      "pl": "Faust spojrzała mi prosto w twarz.",
+      "kr_sha256": "adaf57229783bfdb336f04d3e3655f13025380d281c20df39dda96414b3eeeb8",
+      "en_sha256": "30e9803dc18a44985e822bb4609d67b996ccb5394599cf80e1be034c04d870d5"
+    },
+    "dataList[id=4].content": {
+      "pl": "Skoro Faust, która zwykle mówi, patrząc gdzieś w pustkę, spogląda komuś prosto w oczy,",
+      "kr_sha256": "17add9c37b51c5af616b276c418d3c8607b4ead7b505663bfe6c5121653f0e05",
+      "en_sha256": "3b2f34815b9e057d4ad7fcf5b75b56d9a37a3630fb9eedb694c9992677ae5432"
+    },
+    "dataList[id=5].content": {
+      "pl": "to znaczy, że palnąłem coś wyjątkowo niemądrego.",
+      "kr_sha256": "147fed0335efb0e7d1a8850c4adeb1a326e95e3e0aaaf93f7bb1e8ff5415e2b4",
+      "en_sha256": "e089286ce46593db066c6692d83aae80e34cb7320ef01dd1bf0eeed5f7c0954f"
+    },
+    "dataList[id=6].content": {
+      "pl": "Naruszenie Tabu jakiegokolwiek Skrzydła oznacza…",
+      "kr_sha256": "ac81dd7509f1aec12811cbe1d91c2b66f688ae0b7cd7e7d02c2628e88e18ebb2",
+      "en_sha256": "5f62c5e1c88792d6e509c0ec509fc46488e92304fad8fea58c23586e17af0ebb"
+    },
+    "dataList[id=7].content": {
+      "pl": "Rozległ się huk i Don Quixote rozpadła się na kilka kawałków.",
+      "kr_sha256": "d914156c504c7da80048567dc428cb919042a6ccbed29966f2295eeb31a6befc",
+      "en_sha256": "b7d5dd10110cbfd31119c6b8902a26bcfa9603e4a945372670fb8b2c6db5af2a"
+    },
+    "dataList[id=8].content": {
+      "pl": "…że sprawcę wolno zlikwidować bez ostrzegawczego strzału.",
+      "kr_sha256": "c17611528b94a8f62f3acce4895a25dc6eaa15a73744be604f9520d924992170",
+      "en_sha256": "bd43b9e4fc34be66a706933cca95d9d93f905882854673b018a4e3b438d8c172"
+    },
+    "dataList[id=9].content": {
+      "pl": "Najwyraźniej nasza zuchwałość miała zostać odpokutowana dopiero wtedy, gdy rozbiorą na części wszystkich Grzeszników…",
+      "kr_sha256": "4852855d908e4716f9ef631d1dc08b80eb45feddac50ecfc91be481d2f4110fd",
+      "en_sha256": "2f9e9dbe1a51419a9ece539096c90bd159ec12c0df08dd38eac574f97b23e04d"
+    }
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "entries": {
+    "dataList[id=122301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122301].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122301].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122301].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ [Sinking], Moc Monet +1\n[WinDuel] nakłada [ColdBlackTear] w liczbie równej liczbie pozostałych monet",
+      "kr_sha256": "31754ee7d6c1cb81390a02bdbb93ec61d561d061eeeda0d73c429edbfb5d2fde",
+      "en_sha256": "cbccb1d2db69b1af68b03074ee12323fe581b62c3c24fe5dd37a53960ced0701",
+      "origin": "ai"
+    },
+    "dataList[id=122301].levelList[level=1].name": {
+      "pl": "Kaskada Rozpaczy",
+      "kr_sha256": "a140d00cac6a349adbd01967f2c53afc1ebdc8656448777dd92b95810c787d27",
+      "en_sha256": "2ee65d7ba26a412fb1193ba9f8f5409b210e52b20ee9a5d3f0672ae38bf63452",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 2",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ [Sinking], Moc Monet +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Bazowa +1\n[WinDuel] nakłada [ColdBlackTear] w liczbie równej liczbie pozostałych monet",
+      "kr_sha256": "e3c3868eca7adf6fd4fbf9598a33ca7a5ecc851ebcf093a47314e2eb5271a62d",
+      "en_sha256": "56c39f7f4253fd51d98d93bcf115dde6167d80521fcb41503d8045493acf82a9",
+      "origin": "ai"
+    },
+    "dataList[id=122302].levelList[level=1].name": {
+      "pl": "Ostre Łzy",
+      "kr_sha256": "3f3490b13676bfd8c7e3fb42c063b02389643d03ed8f2bbd3a05b946b2c19a3a",
+      "en_sha256": "e10e2aac80264faef3c7d8a4c864d2d9c6744e18cbae389a852872d55c7d6a24",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "bbb46d6b7655fd16f548c9473f4ec46e5c54bfd14fe6fd6d8c55cccb6a89cc98",
+      "en_sha256": "46d2f379cb4525eef8c6a366ad587b917e971cc1dcbbecc03deddf70ebe02d81",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "bbb46d6b7655fd16f548c9473f4ec46e5c54bfd14fe6fd6d8c55cccb6a89cc98",
+      "en_sha256": "46d2f379cb4525eef8c6a366ad587b917e971cc1dcbbecc03deddf70ebe02d81",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "bbb46d6b7655fd16f548c9473f4ec46e5c54bfd14fe6fd6d8c55cccb6a89cc98",
+      "en_sha256": "46d2f379cb4525eef8c6a366ad587b917e971cc1dcbbecc03deddf70ebe02d81",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "bbb46d6b7655fd16f548c9473f4ec46e5c54bfd14fe6fd6d8c55cccb6a89cc98",
+      "en_sha256": "46d2f379cb4525eef8c6a366ad587b917e971cc1dcbbecc03deddf70ebe02d81",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#4].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].coinlist[#4].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "bbb46d6b7655fd16f548c9473f4ec46e5c54bfd14fe6fd6d8c55cccb6a89cc98",
+      "en_sha256": "46d2f379cb4525eef8c6a366ad587b917e971cc1dcbbecc03deddf70ebe02d81",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 1+ [ColdBlackTear], Moc Monet +1\n[DefeatDuel] zadaje o 80% mniej obrażeń, a obrażenia z tej Umiejętności nie Oszołamiają celu",
+      "kr_sha256": "2a4a21ca255ddbfafe839729cd6e7be7dcbf54fe3150a289b4bb65df0851039d",
+      "en_sha256": "41ffc7362aab49622302f765c8aa6fe60ab3efdd3157250ed6ae7e3a355b7ea5",
+      "origin": "ai"
+    },
+    "dataList[id=122303].levelList[level=1].name": {
+      "pl": "Płynące Łzy Rozpaczy",
+      "kr_sha256": "2d7ee34a8015fdf5afde32de851e57fe29ff21901674734078e77dac8fbd3375",
+      "en_sha256": "50ec80241d0f172b8cb9a6c07f6bd20fcf49c22e512b0d788124451dc389fc03",
+      "origin": "ai"
+    },
+    "dataList[id=122304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [ColdBlackTear], nakłada 1 [Vulnerable]",
+      "kr_sha256": "fe41f37ebe11fae1984589e9de5d733279c45f475893226ce84b1fc42d078900",
+      "en_sha256": "796fe1bf2aab53774cb2ee6bac0825fcf7d77cddc61d207a1639e53270fb54b1",
+      "origin": "ai"
+    },
+    "dataList[id=122304].levelList[level=1].desc": {
+      "pl": "[WhenUse] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "09d0f400d9f2ff323533447af3d5925972c6a48c90b78a779cd715148ed73f8a",
+      "en_sha256": "7c7647d6de018c598c417ab50c5031646cebe8867e459eab9111f65927f48dec",
+      "origin": "ai"
+    },
+    "dataList[id=122304].levelList[level=1].name": {
+      "pl": "Dzielony Smutek, Stępiały",
+      "kr_sha256": "3f0ad40cad752e7d032c65389a17800207629cbaff6233baeddfe8c861b3fd6b",
+      "en_sha256": "0ed4de8599bf5a8edf404093979eaf06632f71bafce5c94277b606fa616d9a9d",
+      "origin": "ai"
+    },
+    "dataList[id=122305].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122305].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje stałe obrażenia równe ([ColdBlackTear] na celu x 6)% Maks. HP celu, po czym usuwa wszystkie [ColdBlackTear] celu",
+      "kr_sha256": "1b9d5087349507ea7cee3ad0a73671892542a3ce0b3494269005f3a29aa393d4",
+      "en_sha256": "ba9ba4eef5c855e4d4145c982753926737e1a72806049c8531f9d55c1282d8d2",
+      "origin": "ai"
+    },
+    "dataList[id=122305].levelList[level=1].desc": {
+      "pl": "priorytet: cele z największą liczbą [ColdBlackTear]\n[WhenUse] jeżeli główny cel ma 5+ [ColdBlackTear], Moc Monet +5",
+      "kr_sha256": "080458c9aab1e3672afad3df8d6ce7d5e3105c9939df3bad5de6f2d8059f34ba",
+      "en_sha256": "277432e435de4194980a52bc01b7b8e8a4b76ddcf99a7f3a225013a655b29b69",
+      "origin": "ai"
+    },
+    "dataList[id=122305].levelList[level=1].name": {
+      "pl": "Gwałtowna Kaskada Pustej Rozpaczy",
+      "kr_sha256": "d8b37c578d893aac9a1aacd33f7c21a005ea92ec6659cc586854c88172fa0b02",
+      "en_sha256": "78be3edf1ea389ec74732b509f11e9f20034481bff0682f749a29cca8ee5650a",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [ColdBlackTear]",
+      "kr_sha256": "48ce4b8fed679178c9640f78f4ea4d300840beb61b759806f6bd04835c0bb934",
+      "en_sha256": "dd1dc1e758bc899b4e2f09553dc6d6067597dbeee38e9c9f751d2eba08496aa2",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "fc537a23135ffba730dd12b11054bc0264888f67ae7ec413121376575fc5b5f9",
+      "en_sha256": "71d3786ebdd2dbd1d0b88f84982089fe1866119d78d85626d84ec15b9c942934",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "fc537a23135ffba730dd12b11054bc0264888f67ae7ec413121376575fc5b5f9",
+      "en_sha256": "71d3786ebdd2dbd1d0b88f84982089fe1866119d78d85626d84ec15b9c942934",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ColdBlackTear]",
+      "kr_sha256": "fc537a23135ffba730dd12b11054bc0264888f67ae7ec413121376575fc5b5f9",
+      "en_sha256": "71d3786ebdd2dbd1d0b88f84982089fe1866119d78d85626d84ec15b9c942934",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#4].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].coinlist[#4].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje stałe obrażenia równe ([ColdBlackTear] na celu x 6)% Maks. HP celu, po czym usuwa wszystkie [ColdBlackTear] celu (ignoruje Odporności)",
+      "kr_sha256": "d3125d16157a1f6f4a7b38c049ca7af1f12029dbf1c5d8518e3e373eba633c5c",
+      "en_sha256": "961f809f9bb0bae3bf4c8c2cf2220e468a502832b7a00af47a08db30530a86e5",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].desc": {
+      "pl": "używa tej Umiejętności, gdy jakiś wróg używa Arcana[TabExplain] Slave, a ta jednostka nie ma [CollapsedPride]\nkontratakuje wyłącznie Arcana Slave",
+      "kr_sha256": "03749fe0f98cb7e64f35ed72ab74327dfc977a8108734cc548f70f04464ce56d",
+      "en_sha256": "45e7c4790093a751e3848853e40713cbaeb0c542560d0e66e4d58b6a8c7c2819",
+      "origin": "ai"
+    },
+    "dataList[id=122306].levelList[level=1].name": {
+      "pl": "Arkan: Łza i Przebicie",
+      "kr_sha256": "cdbeea8a83fe32019adddbb4a81f93695f149affa39197b084052303e0cecf04",
+      "en_sha256": "4d0c1f59a1bc6affc795f12579e28d163fa2fd52be888d68820c52dfad8e9a17",
+      "origin": "ai"
+    },
+    "dataList[id=122401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122401].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122401].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122401].levelList[level=1].name": {
+      "pl": "Wyblakła Wiara",
+      "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
+      "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
+      "origin": "ai"
+    },
+    "dataList[id=122402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122402].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122402].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122402].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122402].levelList[level=1].name": {
+      "pl": "Zwietrzała Duma",
+      "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
+      "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
+      "origin": "ai"
+    },
+    "dataList[id=122403].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122403].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122403].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122403].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122403].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122403].levelList[level=1].name": {
+      "pl": "Nieskończona Rozpacz",
+      "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
+      "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
+      "origin": "ai"
+    },
+    "dataList[id=122404].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada w następnej turze ([Sinking] na celu / 10) [DefenseDown] (zaokrąglone w dół)",
+      "kr_sha256": "8f9075e5d1722ad769f2ac49f00a6da08f50249463852768b8220676d7748b16",
+      "en_sha256": "13e95dc06bc3b06c2850037efb8cfc2afc62210f7db0703fa9498107886cf276",
+      "origin": "ai"
+    },
+    "dataList[id=122404].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +5 za każde 6 [Sinking] na celu (maks. 10)\n[WhenUse] jeżeli cel ma [ColdBlackTear], Moc Końcowa +1",
+      "kr_sha256": "19ed66c1e0a02ceee422486d2251c95579848b72190ea86ddccdbf23e86a33ea",
+      "en_sha256": "dfcd1e51ec24e5b12f5490bafb10e819b1f678ec91a7b0271f26bbb1f012754f",
+      "origin": "ai"
+    },
+    "dataList[id=122404].levelList[level=1].name": {
+      "pl": "Miecz Zaostrzony Łzami",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
+      "origin": "ai"
+    },
+    "dataList[id=122405].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122405].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje dodatkowe obrażenia Posępności równe (Moc Umiejętności)% Maks. HP celu (maks. 30)\n- jeżeli cel ma 2+ [ColdBlackTear], zadaje dodatkowe obrażenia Posępności ponownie",
+      "kr_sha256": "9f900cafc9a0a9078c36342c96a9306b1d769009353f6707427bc1a7dde71ddf",
+      "en_sha256": "31df70dd0bc96cc41dff0a5e10330b953373fa0c48e31b151a2e2cc34f2b998f",
+      "origin": "ai"
+    },
+    "dataList[id=122405].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +3 za każde 6 [Sinking] na celu (maks. 6)\n[WhenUse] Moc Bazowa +1 za każdy Licznik [ColdBlackTear] na celu (maks. 3)",
+      "kr_sha256": "52910dc9e4ebe3a5843e2162c3ba20d68d19a18bfcc04c2411b0186adef05b78",
+      "en_sha256": "0045ec52c13b08fa13654e94adcc41c9cad3a908dfcf2e3c5de802c917558f2c",
+      "origin": "ai"
+    },
+    "dataList[id=122405].levelList[level=1].name": {
+      "pl": "Klinga Przesiąknięta Żałobą",
+      "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
+      "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
+      "origin": "ai"
+    },
+    "dataList[id=122501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122501].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122501].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122501].levelList[level=1].name": {
+      "pl": "Wyblakła Wiara",
+      "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
+      "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
+      "origin": "ai"
+    },
+    "dataList[id=122502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122502].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122502].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122502].levelList[level=1].name": {
+      "pl": "Zwietrzała Duma",
+      "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
+      "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
+      "origin": "ai"
+    },
+    "dataList[id=122503].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122503].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122503].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122503].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122503].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122503].levelList[level=1].name": {
+      "pl": "Nieskończona Rozpacz",
+      "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
+      "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
+      "origin": "ai"
+    },
+    "dataList[id=122504].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada w następnej turze ([Sinking] na celu / 10) [DefenseDown] (zaokrąglone w dół)",
+      "kr_sha256": "8f9075e5d1722ad769f2ac49f00a6da08f50249463852768b8220676d7748b16",
+      "en_sha256": "13e95dc06bc3b06c2850037efb8cfc2afc62210f7db0703fa9498107886cf276",
+      "origin": "ai"
+    },
+    "dataList[id=122504].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +5 za każde 6 [Sinking] na celu (maks. 10)\n[WhenUse] jeżeli cel ma [ColdBlackTear], Moc Końcowa +1",
+      "kr_sha256": "19ed66c1e0a02ceee422486d2251c95579848b72190ea86ddccdbf23e86a33ea",
+      "en_sha256": "dfcd1e51ec24e5b12f5490bafb10e819b1f678ec91a7b0271f26bbb1f012754f",
+      "origin": "ai"
+    },
+    "dataList[id=122504].levelList[level=1].name": {
+      "pl": "Miecz Zaostrzony Łzami",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
+      "origin": "ai"
+    },
+    "dataList[id=122505].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122505].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje dodatkowe obrażenia Posępności równe (Moc Umiejętności)% Maks. HP celu (maks. 30)\n- jeżeli cel ma 2+ [ColdBlackTear], zadaje dodatkowe obrażenia Posępności ponownie",
+      "kr_sha256": "9f900cafc9a0a9078c36342c96a9306b1d769009353f6707427bc1a7dde71ddf",
+      "en_sha256": "31df70dd0bc96cc41dff0a5e10330b953373fa0c48e31b151a2e2cc34f2b998f",
+      "origin": "ai"
+    },
+    "dataList[id=122505].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +3 za każde 6 [Sinking] na celu (maks. 6)\n[WhenUse] Moc Bazowa +1 za każdy Licznik [ColdBlackTear] na celu (maks. 3)",
+      "kr_sha256": "52910dc9e4ebe3a5843e2162c3ba20d68d19a18bfcc04c2411b0186adef05b78",
+      "en_sha256": "0045ec52c13b08fa13654e94adcc41c9cad3a908dfcf2e3c5de802c917558f2c",
+      "origin": "ai"
+    },
+    "dataList[id=122505].levelList[level=1].name": {
+      "pl": "Klinga Przesiąknięta Żałobą",
+      "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
+      "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
+      "origin": "ai"
+    },
+    "dataList[id=122601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122601].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122601].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122601].levelList[level=1].name": {
+      "pl": "Wyblakła Wiara",
+      "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
+      "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
+      "origin": "ai"
+    },
+    "dataList[id=122602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122602].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122602].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122602].levelList[level=1].name": {
+      "pl": "Zwietrzała Duma",
+      "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
+      "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
+      "origin": "ai"
+    },
+    "dataList[id=122603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122603].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122603].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122603].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122603].levelList[level=1].name": {
+      "pl": "Nieskończona Rozpacz",
+      "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
+      "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
+      "origin": "ai"
+    },
+    "dataList[id=122604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada w następnej turze ([Sinking] na celu / 10) [DefenseDown] (zaokrąglone w dół)",
+      "kr_sha256": "8f9075e5d1722ad769f2ac49f00a6da08f50249463852768b8220676d7748b16",
+      "en_sha256": "13e95dc06bc3b06c2850037efb8cfc2afc62210f7db0703fa9498107886cf276",
+      "origin": "ai"
+    },
+    "dataList[id=122604].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +5 za każde 6 [Sinking] na celu (maks. 10)\n[WhenUse] jeżeli cel ma [ColdBlackTear], Moc Końcowa +1",
+      "kr_sha256": "19ed66c1e0a02ceee422486d2251c95579848b72190ea86ddccdbf23e86a33ea",
+      "en_sha256": "dfcd1e51ec24e5b12f5490bafb10e819b1f678ec91a7b0271f26bbb1f012754f",
+      "origin": "ai"
+    },
+    "dataList[id=122604].levelList[level=1].name": {
+      "pl": "Miecz Zaostrzony Łzami",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
+      "origin": "ai"
+    },
+    "dataList[id=122605].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122605].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje dodatkowe obrażenia Posępności równe (Moc Umiejętności)% Maks. HP celu (maks. 30)\n- jeżeli cel ma 2+ [ColdBlackTear], zadaje dodatkowe obrażenia Posępności ponownie",
+      "kr_sha256": "9f900cafc9a0a9078c36342c96a9306b1d769009353f6707427bc1a7dde71ddf",
+      "en_sha256": "31df70dd0bc96cc41dff0a5e10330b953373fa0c48e31b151a2e2cc34f2b998f",
+      "origin": "ai"
+    },
+    "dataList[id=122605].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +3 za każde 6 [Sinking] na celu (maks. 6)\n[WhenUse] Moc Bazowa +1 za każdy Licznik [ColdBlackTear] na celu (maks. 3)",
+      "kr_sha256": "52910dc9e4ebe3a5843e2162c3ba20d68d19a18bfcc04c2411b0186adef05b78",
+      "en_sha256": "0045ec52c13b08fa13654e94adcc41c9cad3a908dfcf2e3c5de802c917558f2c",
+      "origin": "ai"
+    },
+    "dataList[id=122605].levelList[level=1].name": {
+      "pl": "Klinga Przesiąknięta Żałobą",
+      "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
+      "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
+      "origin": "ai"
+    },
+    "dataList[id=122701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122701].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=122701].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122701].levelList[level=1].name": {
+      "pl": "Wyblakła Wiara",
+      "kr_sha256": "8822947769b0fd9d6dcde4f323a85842be149b8f25a908428f186f8a38efac22",
+      "en_sha256": "f2ffb47dc5130807dfad456cf01da33176b6cbcf8744eea7564e699a9ff1fe25",
+      "origin": "ai"
+    },
+    "dataList[id=122702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122702].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122702].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122702].levelList[level=1].name": {
+      "pl": "Zwietrzała Duma",
+      "kr_sha256": "f26c8a615448d143dbfc3f0ba8693001d55ab0d205af6c5525f7eba693c3cb89",
+      "en_sha256": "52f92e05e6e0597b98982a0a2068e6e30b57a1df1e5eeaae9204f5b77cd43329",
+      "origin": "ai"
+    },
+    "dataList[id=122703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122703].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122703].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=122703].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Sinking] o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=122703].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 4 [Sinking] na celu (maks. 2)\n[WhenUse] jeżeli cel ma 10 lub więcej Poczytalności, Moc Bazowa +1\n[WhenUse] jeżeli cel ma 20 lub więcej Poczytalności, Moc Monet +1",
+      "kr_sha256": "460b1cf7a97ef9594da4fb6ed0f00f64d9b266e289b0ff4c49d2090c975f7307",
+      "en_sha256": "b9f5fa5b4a787b79cbdfa07500fb47dbbb143291f4b042f49db41917ef05f044",
+      "origin": "ai"
+    },
+    "dataList[id=122703].levelList[level=1].name": {
+      "pl": "Nieskończona Rozpacz",
+      "kr_sha256": "18de92c4b32f2d915a609336a640c080e22406e8e2611e88e667c5de3921cf88",
+      "en_sha256": "50e75890cd9d18276ed96c2a63ec90f71a7fc742907264c9eb0c4b36768758c4",
+      "origin": "ai"
+    },
+    "dataList[id=122704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada w następnej turze ([Sinking] na celu / 10) [DefenseDown] (zaokrąglone w dół)",
+      "kr_sha256": "8f9075e5d1722ad769f2ac49f00a6da08f50249463852768b8220676d7748b16",
+      "en_sha256": "13e95dc06bc3b06c2850037efb8cfc2afc62210f7db0703fa9498107886cf276",
+      "origin": "ai"
+    },
+    "dataList[id=122704].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +5 za każde 6 [Sinking] na celu (maks. 10)\n[WhenUse] jeżeli cel ma [ColdBlackTear], Moc Końcowa +1",
+      "kr_sha256": "19ed66c1e0a02ceee422486d2251c95579848b72190ea86ddccdbf23e86a33ea",
+      "en_sha256": "dfcd1e51ec24e5b12f5490bafb10e819b1f678ec91a7b0271f26bbb1f012754f",
+      "origin": "ai"
+    },
+    "dataList[id=122704].levelList[level=1].name": {
+      "pl": "Miecz Zaostrzony Łzami",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "b03ae3ddf39dece1bc22b4f37032fa4785f05ed040705b3eb0023a901ae88539",
+      "origin": "ai"
+    },
+    "dataList[id=122705].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=122705].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje dodatkowe obrażenia Posępności równe (Moc Umiejętności)% Maks. HP celu (maks. 30)\n- jeżeli cel ma 2+ [ColdBlackTear], zadaje dodatkowe obrażenia Posępności ponownie",
+      "kr_sha256": "9f900cafc9a0a9078c36342c96a9306b1d769009353f6707427bc1a7dde71ddf",
+      "en_sha256": "31df70dd0bc96cc41dff0a5e10330b953373fa0c48e31b151a2e2cc34f2b998f",
+      "origin": "ai"
+    },
+    "dataList[id=122705].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monet +3 za każde 6 [Sinking] na celu (maks. 6)\n[WhenUse] Moc Bazowa +1 za każdy Licznik [ColdBlackTear] na celu (maks. 3)",
+      "kr_sha256": "52910dc9e4ebe3a5843e2162c3ba20d68d19a18bfcc04c2411b0186adef05b78",
+      "en_sha256": "0045ec52c13b08fa13654e94adcc41c9cad3a908dfcf2e3c5de802c917558f2c",
+      "origin": "ai"
+    },
+    "dataList[id=122705].levelList[level=1].name": {
+      "pl": "Klinga Przesiąknięta Żałobą",
+      "kr_sha256": "500805c1640d7b279d4698b301bd2dc289bf33652fe69aa6459142e9afb907d9",
+      "en_sha256": "5be6ba5eaeab975d2a17a940f59154d74742b71fa035f5c92ef015e48fd0ca3d",
+      "origin": "ai"
+    }
+  }
+}

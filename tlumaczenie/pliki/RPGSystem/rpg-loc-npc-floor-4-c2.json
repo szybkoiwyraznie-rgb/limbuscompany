@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[key=N10201].displayName": {
+      "pl": "Le Néant",
+      "kr_sha256": "cfb611d656410c2ac6122c360bcc4c441eda41edaf337ac19ab26fc064d6cc5c",
+      "en_sha256": "1ce9931b86f46efa9c961becdefa9cb95420b0ef21e8032c2f123e25ad1cde65",
+      "origin": "ai"
+    },
+    "dataList[key=N10202].displayName": {
+      "pl": "Renée",
+      "kr_sha256": "28ef9f3c1a3f612d8e062ee74fa460a5c3587ed4fd2f3a9e3e29e2a642a22751",
+      "en_sha256": "6e39a5fbc296fb6c9e665cd4a7779947f218d98e72dbb3c4bb9d9183df2eb353",
+      "origin": "ai"
+    }
+  }
+}

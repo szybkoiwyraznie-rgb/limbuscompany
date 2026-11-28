@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=SipOfAlcohol].desc": {
+      "pl": "- Maks. stosów: 5\n- Na koniec tury przy 3+ stosach leczy 3% HP (korpus, części)\n- Na koniec tury przy 5 stosach zyskuje w następnej turze 3 Wzrostu Mocy Ataku i 2 Wrażliwości",
+      "kr_sha256": "77829ea72279744787e0c144dd0c89eca9b610ff62c63c60f128a1545401d015",
+      "en_sha256": "efb475ec8db48c4d40776157688539a13d212fcfc63a1ab2c71afbca04de3178",
+      "origin": "ai"
+    },
+    "dataList[id=SipOfAlcohol].name": {
+      "pl": "Łyczek",
+      "kr_sha256": "4f2f79ec5203b02a3e0a5bbb33b297538eca169886f4c07adc608c7bf48f990d",
+      "en_sha256": "00356d01776fd5c1265ee9b01988c94b8b0ab26215837f110fbc1393a1ab4eab",
+      "origin": "ai"
+    },
+    "dataList[id=TheDrifter_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Otrzymuje +10% obrażeń od Ataków Jednostronnych; zadaje +30% obrażeń Kontrą",
+      "kr_sha256": "55d3c812fe0b54ad7a29c04fc21b57fa47e735489ba8b348c10a59a82c944103",
+      "en_sha256": "174b44b16b923199013f67356620620bd1c0e9451ebc5acc15a2af3466b626aa",
+      "origin": "ai"
+    },
+    "dataList[id=TheDrifter_LowMorale].name": {
+      "pl": "Podao",
+      "kr_sha256": "8c251f31e47683a8826b2de7699a12c7560128e9eb2bfbccbbccf3ed40624950",
+      "en_sha256": "deef59450088d437e8d761567cc979d0bc08f1f29cdb061a56abf54d44a3ebef",
+      "origin": "ai"
+    },
+    "dataList[id=TheDrifter_Panic].desc": {
+      "pl": "- Panika\n- Otrzymuje +20% obrażeń od Ataków Jednostronnych; zadaje +50% obrażeń Kontrą",
+      "kr_sha256": "e9a4dfa6ce029f85b0db2c5da09bf187a442f75c4f1ba59ad7669f5b89e70dac",
+      "en_sha256": "01c4aa5120789938492098a198d69a61e81a774bfdb8310d212ca02e25b07a32",
+      "origin": "ai"
+    },
+    "dataList[id=TheDrifter_Panic].name": {
+      "pl": "Podao",
+      "kr_sha256": "8c251f31e47683a8826b2de7699a12c7560128e9eb2bfbccbbccf3ed40624950",
+      "en_sha256": "deef59450088d437e8d761567cc979d0bc08f1f29cdb061a56abf54d44a3ebef",
+      "origin": "ai"
+    }
+  }
+}

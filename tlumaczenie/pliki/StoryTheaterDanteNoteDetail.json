@@ -1,0 +1,125 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_10].desc": {
+      "pl": "- Chyba chodzi o firmę, która ma najbardziej zaawansowaną technologię w swoim obszarze i właściwie nim rządzi.\nNiby nazywa się to firmą, ale im więcej słyszę, tym bardziej przypomina mi to organ władzy.\n(Jak się nad tym zastanowić, Limbus Company też nie bardzo pasuje do słownikowej definicji firmy. Choćby dlatego, że ciągle tylko jeździmy autobusem.)\n- Każde Skrzydło ma własną, unikatową technologię zwaną Osobliwością, a za zarobione na niej pieniądze (i za zabójcze podatki) utrzymuje luksusowy obszar zwany Gniazdem.\n- Ludzi, którzy żyją w Skrzydle, nazywa się chyba Piórami.",
+      "kr_sha256": "7557e6721f1e73f1ba9a364423323acc908c7d23808ce75556183b0f1a629232",
+      "en_sha256": "681b5c2059d619ef430ae1cf5953378809d35fce0ddff47a485b00d2e69818e7"
+    },
+    "dataList[id=DanteNoteDetail_11].desc": {
+      "pl": "- Gniazdo w Dystrykcie 11.\n- Sądząc po strażnikach z punktu kontrolnego, którzy w tamtej bitwie (wolałbym jej nie pamiętać) bez końca odnosili rany i dochodzili do siebie… Osobliwością K Corp. jest chyba zdolność ciągłego leczenia, nie, raczej regeneracji ran.\nFaust nazwała tę technologię helapoezą, ale w Mieście mówi się podobno po prostu o pociskach HP albo ampułkach HP.\nPrzez to wszyscy Grzesznicy wyginęli, a ja omal nie zemdlałem, przyjmując naraz ból ich wszystkich…\nZ drugiej strony to dzięki tym ampułkom HP moja roztopiona dolna połowa ciała wróciła do idealnego stanu.\n- Z tego, co wiem, na tej zdolności K Corp. robi przeróżne interesy.",
+      "kr_sha256": "d3e71378291b9ed8cd2a598a475caa78b4267127ecaaaaf02a5676a8e28c49b0",
+      "en_sha256": "b42719d425ccafad0d95a28a5aeeb9a48a36e37082350e7405e75e9023d1e2d2"
+    },
+    "dataList[id=DanteNoteDetail_12].desc": {
+      "pl": "- Według Samjo, pracownicy, którego spotkaliśmy u Eunbonga, Skrzydło podobno rozwija też technologie spożywcze oparte na Osobliwości.",
+      "kr_sha256": "1bcd96f82e706ffaf91b48dcaa0573af81f4e64af2d4945baa618564804505d8",
+      "en_sha256": "a5ec3bf667fa4d88fe925bbc7a36ccb03793e3dd98a9be0991f12e76aaecb58b",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_13].desc": {
+      "pl": "- Lobotomy Corporation.\n- Upadłe Skrzydło, którego miejsce wciąż stoi puste. Gniazdo w Dystrykcie 12.\nByło to chyba centrum wydarzeń zwanych Białymi Nocami i Ciemnymi Dniami, o których wie całe Miasto (oprócz mnie… a może po prostu zapomniałem…?).\nWszystkie filie, w których zostały Złote Gałęzie, za którymi się uganiamy, należały chyba do dawnego L Corp.",
+      "kr_sha256": "30ee29d893c9be8c1e83b6efc351d4152ca1cb9bfc668d85c914de07b805339a",
+      "en_sha256": "b78a6b973284d0c24e1d4881deb3d41656a93d5eaac672f0f27acf99a80363dc"
+    },
+    "dataList[id=DanteNoteDetail_14].desc": {
+      "pl": "- Nagel und Hammer. Gwóźdź i Młot. Gniazdo w Dystrykcie 14.\n- Z rozmowy z Meursaultem wnioskuję, że w firmie naprawdę istnieją dwie frakcje: Gwoździe i Młoty.\nCi pobrzękujący płytowymi zbrojami “Inkwizytorzy”, z którymi się zetknęliśmy, przynajmniej za czasów, gdy pracował tam Meursault, nie rzucali się w oczy i nie stanowili głównego nurtu.\n- W odróżnieniu od organizacji, którą dowodzi Kromer, N Corp. jako całość, choć sztywne, wygląda jak zwyczajna wielka korporacja.",
+      "kr_sha256": "7c2719a1b438a8b4f1171908d9dbed20dbf7c4b6034c5f872b3367a2d4688691",
+      "en_sha256": "cd02fa78705a871d78af2cd99217fa5f8021f2bbd9e4340f5e2796fd65761aa0"
+    },
+    "dataList[id=DanteNoteDetail_15].desc": {
+      "pl": "- Nie wiem, czym N Corp. właściwie się zajmuje, ale paru Grzeszników chyba coś o nim wie.\n…Szkoda tylko, że wszyscy, co do jednego, nabierają wody w usta.",
+      "kr_sha256": "a0c47167c569d214ad8ed24c990896aa5ffc00e1194fb04757ff5bb98befb061",
+      "en_sha256": "906a60a9681f741490e1ce0eda18b0c956783fc68dc6a9d931e06dc8589cae66"
+    },
+    "dataList[id=DanteNoteDetail_16].desc": {
+      "pl": "- Chyba wszystkie obszary poza Gniazdem, czyli poza terenem Skrzydła.\nMieszkają tu głównie ci, których nie stać na życie w Gnieździe.\n- “Zaułki” to tylko nazwa: w środku ciasno upchnięto wszelkiej maści restauracje, firmy, osiedla, szkoły, kursy i tak dalej.\nAle, jak przystało na zaułki, wszędzie są tak samo kręte, tak samo poplątane i tak samo ponure.\nCiekawe, że w jakich Zaułkach bym nie był (a byłem raptem w trzech), granica między Zaułkami a Gniazdem jest wyraźna.",
+      "kr_sha256": "2f40afb88b0c766e013ce1e9a756866d0c02f8ea9bca44db98aa2301563b6053",
+      "en_sha256": "3459b5d3646ce15c65c9a16d5022395b024a804b3f873a0706ddf99c3f36aca4"
+    },
+    "dataList[id=DanteNoteDetail_17].desc": {
+      "pl": "- Szermierze wędrujący po Zaułkach.\n- Sądząc z rozmów z Grzesznikami, którym nałożyłem te Tożsamości, to wprawdzie organizacja, ale jej członkowie raczej nie trzymają się razem.\nŚciślej mówiąc… czasem miewają tymczasowych towarzyszy, ale nie ma tam sztywnej hierarchii ani podziału na grupy.\n- …Szkoda, że większość odpowiedzi na moje pytania to były żarty, więc nie mogę tu zapisać nic konkretnego.",
+      "kr_sha256": "1908c18e16a860d45f5c83e51f937802175310b6d985ecd6f40c5298c9297632",
+      "en_sha256": "434abb866068b6a1a4f4d223021f1a30ef5a1cbcde4d9340a73631579a2f49fa"
+    },
+    "dataList[id=DanteNoteDetail_18].desc": {
+      "pl": "- Coś w rodzaju wolnych strzelców, którzy załatwiają różne sprawy w Mieście albo pomagają je załatwić.\n- Rzecz jasna nie z dobroci serca ani w ramach wolontariatu. To świat, który kręci się wyłącznie wokół pieniędzy. Choć trudno mi zaręczyć, że nie ma Fikserów, którzy działają inaczej… (Chyba?)\n- Fikserzy, o których słyszałem i których spotkałem (czy rozmowę z Tożsamością z Lustra można uznać za spotkanie?), byli tak różni, że trudno ich jakoś podsumować. Może to dość popularny zawód?",
+      "kr_sha256": "c070f36e1efc62bcb49fadad6eba6778a53a6a3e00e09cd689007c02c7beeb78",
+      "en_sha256": "61d387e4224f2ba18d46ee58e1fd4de9ff37313febb5483fd4da872fc4a0146b"
+    },
+    "dataList[id=DanteNoteDetail_19].desc": {
+      "pl": "- Wielka organizacja, głęboko zakorzeniona w Zaułkach.\n- Jej znakiem rozpoznawczym są chyba długie, jednosieczne miecze w pochwach i czarne, powiewające stroje.\n- Żyje głównie z haraczu, który ściąga od kupców z Zaułków, w zamian za ochronę, raczej na papierze.\nZ tego, co usłyszałem od Grzeszników w Tożsamościach, Klan jest w jakimś konflikcie z organizacją zwaną… Rodem Ostrza, ale nie udało mi się ustalić dlaczego.\n- Panuje tam chyba jakaś hierarchia, choć nie absolutna. Na ogół wykonuje się rozkazy.\n- …Choć, sądząc po rozmowie z Hong Lu, zdarzają się wyjątki.",
+      "kr_sha256": "ac776a8b89f56df3582576179acc55705b4e3c9d4045469cd810fa6df7a5cbb1",
+      "en_sha256": "7881f85c52792e80ef4648e7e435ae724c85eda586af35b4af23550e2803a4c7"
+    },
+    "dataList[id=DanteNoteDetail_1].desc": {
+      "pl": "- Limbus Company. Firma, w której pracuję.\n- To słowo, chyba najściślej ze mną związane, jest… o dziwo, zarazem tym, które najtrudniej mi wyjaśnić.\nDlaczego? Bo nikt mi niczego nie mówi. Nawet do pracy nie przyjąłem się tu chyba z własnej woli.\nNa początku myślałem, że ta firma istnieje po to, żeby zdobywać Złote Gałęzie, ale okazuje się, że to tylko cel mojego działu, LCB; trudno uznać go za cel całej firmy.",
+      "kr_sha256": "d6c0a2208e3b86f706739ac61276a2d8813aa557498282a8ca0ee3466ebc7164",
+      "en_sha256": "9901f6228de68cffb580a8bfacd293d1328f3319e5cc55eebd61b58012daeff6"
+    },
+    "dataList[id=DanteNoteDetail_20].desc": {
+      "pl": "- Mały, złociście lśniący przedmiot w kształcie gałązki.\n- Nie wydaje mi się, żeby to była prawdziwa gałąź. Ilekroć się zbliżam, czuję coś jakby kłujący ból głowy…\n- Trudno też uwierzyć, że ta cała harówka jest po to, żeby zbierać pozłacane patyki.",
+      "kr_sha256": "7772008166c08efbb51f0de866a49cce46d1db565563407858667fd14ad3be88",
+      "en_sha256": "064afe86989c9263a0e8f97e659ddef8d2ce0033b72debc0d159f3658e94ee33"
+    },
+    "dataList[id=DanteNoteDetail_21].desc": {
+      "pl": "- Technologia, która spośród wielu możliwości nakłada na człowieka inną jego możliwość.\n- Wiem, że Yi Sang brał udział w jej tworzeniu, ale o co go nie zapytam, recytuje jednym ciągiem rzeczy nie do zrozumienia, więc raczej nie zapiszę tu nic przydatnego.\n- Same Tożsamości odnajduje się za pomocą silnika Mephistophelesa. Nie wiem dokładnie, jak to działa, ale nie da się chyba ot tak znaleźć i utrwalić Tożsamości, której się chce. Czasem po wielu próbach i błędach trafia się na nową Tożsamość któregoś z Grzeszników.",
+      "kr_sha256": "3db40b1aaba3c92bf11bfa3ffb5c459ca9f39400e596cf1e765634fe8b0db594",
+      "en_sha256": "f7dea9a59f16d2b4ac378e15bdd3be5c2bc9e751dddf9debc779479b38738088"
+    },
+    "dataList[id=DanteNoteDetail_22].desc": {
+      "pl": "- Nie potrafię dokładnie opisać słowami, jak używa się Tożsamości… (To raczej dzieje się samo, nie wiem kiedy).\nGdy zsynchronizuję wydobytą Tożsamość z LCB-PDA i szybą autobusu, nawiązuje się jakaś rozmowa czy więź.\nKiedy przywołuję w myślach Tożsamość Grzesznika, z którym się zestroiłem, czuję, że coś nas łączy, jakbym rozmawiał z nim jak zwykle… a w chwili, gdy Grzesznik i ja bez słów się zgadzamy, rozlega się brzęk tłuczonego szkła i Tożsamość nakłada się na Grzesznika.\n…Nie umiem tego lepiej opisać.\n- Grzesznik z nałożoną Tożsamością wygląda zupełnie inaczej niż zwykle. Chodzi nie tylko o strój czy broń: zmienia się też charakter, czasem tak bardzo, że przechodzą mnie ciarki, czy to na pewno ten Grzesznik, którego znam.\nNa szczęście, kiedy przestaje się używać Tożsamości, chyba wracają do siebie. Ale gdy używa się jej długo, czasem zostają drobne skutki uboczne albo echo i charakter Tożsamości daje o sobie znać.",
+      "kr_sha256": "aae60d644c3e7c85089ba8e96a8fe30c0e444837a700db849c7ebf1fcc0dd118",
+      "en_sha256": "674683e7fde63736f62271ba07da95c0d7233df46175eab3f931931910dd3dac"
+    },
+    "dataList[id=DanteNoteDetail_23].desc": {
+      "pl": "- Chyba tak nazywa się zbiorczo wszystkie grupy, które zawiązały się jako siła w różnych częściach Miasta.\n- Słowo obejmuje tak wiele, że nie ma chyba ścisłych kryteriów: niemal każda grupa działająca razem to Syndykat.",
+      "kr_sha256": "43e2772b51710e150ba7ff5a8bcb6080b58a5b548ae030e24383594765108c9f",
+      "en_sha256": "7033a8c7d2c47360ba562952caff9d83595e708b869019771a1ae40c55959dc2"
+    },
+    "dataList[id=DanteNoteDetail_24].desc": {
+      "pl": "- Od dwóch zazębionych kół zębatych po zaglądanie w lustro i nakładanie Tożsamości: wszystko to w Mieście nazywa się technologią.",
+      "kr_sha256": "493ddca0a0cada73b1716abd7018b0ebc49c56fba88bf58b9497fe206d5ba2c9",
+      "en_sha256": "c634c7925851c98a123e42ad915d2ce676309f57949d89fb1a44a286101518c1"
+    },
+    "dataList[id=DanteNoteDetail_2].desc": {
+      "pl": "- Każdy dział ma chyba własne cele, a wspólnego, nadrzędnego celu jakby nie było.\n- Firma ma chyba potężne zaplecze, choćby w postaci góry pieniędzy. Wsparcia nigdy nam nie brakowało, w żadnej sytuacji (choć Rodia ma chyba sporo zastrzeżeń do jedzenia).",
+      "kr_sha256": "462fef05577c7f07ccb7ec8e7ff0c08723acddbec062b50cbff63c33707c902e",
+      "en_sha256": "b603bc9741c55ac975bf0e0cdec43afed753749c5dfee330f70b3d48b109050e"
+    },
+    "dataList[id=DanteNoteDetail_3].desc": {
+      "pl": "- Limbus Company Bus.\n- Podobno mówi się na niego Dział Autobusowy.\nMam wrażenie, że nazwy wymyślano tu na odczepnego, ale inne działy chyba nie wypadają wiele lepiej.\n- Wygląda na to, że chodzi o mnie i o tych… Grzeszników? (wciąż nie mogę przywyknąć do tego słowa), którzy siedzą tam z tyłu.\nNaszym zadaniem ma być zbieranie Złotych Gałęzi zakopanych pod filiami L Corp., Lobotomy czegoś tam.\nNie wiem, czym są Złote Gałęzie, ale z tego, jak o nich mówią, to chyba jakieś namacalne przedmioty w kształcie gałęzi. (Kiedy się dowiem, muszę to zapisać osobno.)",
+      "kr_sha256": "e5b220ab871f70db196c1bac4dd7ec7c18dca10b6f518c609867194cb2734e76",
+      "en_sha256": "2415dfc40b76a7d1ede95185ae12296f6897ab983fa18a9bebb7436322d795b0"
+    },
+    "dataList[id=DanteNoteDetail_4].desc": {
+      "pl": "- Nie wysyłają nas wyłącznie po Złote Gałęzie.\nTak czy inaczej, trafiamy wszędzie tam, gdzie do następnego celu potrzebne są zdolności Grzeszników albo moje.\n- Coraz bardziej mnie ciekawi, jak powstała ta firma i dlaczego padło akurat na mnie i na Grzeszników, ale Faust nic nie mówi. Twierdzi, że mam za niski poziom dostępu i na razie nic się na to nie poradzi, ale wyraźnie wie więcej.\nDlaczego Grzesznik wie o firmie więcej niż ja, Kierownik…?",
+      "kr_sha256": "859a8c3336c1ce69896c10a073be8a40957eb697218c9ae632d0460f1c6eafc5",
+      "en_sha256": "75413e89f9681741c198f25fb3a7009f9b311340cde6a3559325a9f4288952a7"
+    },
+    "dataList[id=DanteNoteDetail_5].desc": {
+      "pl": "- Limbus Company Clear.\n- Nazywają go Działem Sprzątania.\nPodobno powstał po to, żeby wspierać działania Działu Autobusowego.\nW przeciwieństwie do Grzeszników tych ludzi nie potrafię wskrzesić, pewnie dlatego tak dbają o uzbrojenie i pancerze.\n- Dział dzieli się chyba na dwa zespoły: zespół Before (LCCB), który przygotowuje teren, zanim przyjedziemy, i zespół After (LCCA), który sprząta po nas, choćby to, co porozbijaliśmy.\nNie spotkałem ich jeszcze osobiście, ale sądząc po strzępach rozmów telefonicznych Vergiliusa, w obu zespołach jest po kilka sekcji.\n- Współpracowałem z Effiem i Saude z Sekcji Obserwacji Wstępnej zespołu Before.\n- Ilekroć znalazła się wolna chwila, zadawałem im parę pytań; spróbuję spisać, czego się dowiedziałem.\n- Chciałem też zapytać, czym dokładnie zajmuje się każda sekcja, ale Don Quixote nagle narozrabiała, a zanim ją uspokoiliśmy, sprawa rozeszła się po kościach.\n- Effie dodał z westchnieniem, że w całym zespole Before najgorzej płacą właśnie w Sekcji Obserwacji Wstępnej. Skoro ludzi jest tam dużo więcej niż w innych sekcjach, podejrzewam, że traktuje się ich jak siłę roboczą do zużycia.\n- …Effie i Saude zginęli podczas operacji.",
+      "kr_sha256": "f08151ac4032589b0b84bc426ef23b5152d4d0b9a8ca1eac5cf10108619a8d66",
+      "en_sha256": "7120cf84e4ff07e8a1cec9f28cf289bbbb6d9a51f128d5595a43c7eb3e7e1a06"
+    },
+    "dataList[id=DanteNoteDetail_6].desc": {
+      "pl": "- Chyba chodzi o tych dwanaście osób, które jadą autobusem LCB.\n- Z tego, co słyszę w ich rozmowach, oni też, tak jak ja, zostali “przyjęci do pracy”, a mimo to z jakiegoś powodu nazywa się ich tak, jakby odsiadywali karę.\n- Zapytałem Vergiliusa o tę nazwę, ale nie dał mi jasnej odpowiedzi.\nŻe niby “i tak się kiedyś dowiem”… Takim gadaniem zbył już nie wiem ile moich pytań.\n…I tak chyba nie mam wyboru: pozostaje mi zapisywać wszystko, czego się dowiem.",
+      "kr_sha256": "6950cc2c453c7ca0918523a99482e77302bb7fe0cfa8c9d81c5b1c7dc235fc42",
+      "en_sha256": "c2b2e0054f5f35eee8847f0264e3b15983b13c318e8a0166ace205a6e4bac310"
+    },
+    "dataList[id=DanteNoteDetail_7].desc": {
+      "pl": "- Dopisuję, bo chyba dowiedziałem się kilku rzeczy o tym, kim są Grzesznicy.\n- Po pierwsze, tak nazywa się ludzi, którzy zawarli ze mną kontrakt (tak to nazywają, choć ja nie miałem w tej sprawie chyba nic do powiedzenia).\n- Po drugie, tylko Grzeszników mogę wskrzeszać, cofając zegar.",
+      "kr_sha256": "594bb43ec22e4136669ee2662227eede84719ad66c67a9ad2c6898dac7e4d951",
+      "en_sha256": "d2a5a18f7c51f5f3b56943e23203ab666e3ec08cd347f207cc9f06b4a1130c92"
+    },
+    "dataList[id=DanteNoteDetail_8].desc": {
+      "pl": "- Może Grzesznicy to po prostu ci, którzy potrafią rezonować ze Złotymi Gałęziami, których szukamy.\n- Gdy zbliżamy się do Gałęzi, odsłania się chyba Głębia Jaźni: można w niej przeżyć przeszłość Grzesznika, który zrezonował, albo zajrzeć w jego duszę.",
+      "kr_sha256": "e2a07adbce64539933418ed5724f4f43c99879fcf0938581933fce15568b240a",
+      "en_sha256": "83206c1378bb09587863680b758aabf0ed7ffc074849888acd0fb1c5cc0a5926"
+    },
+    "dataList[id=DanteNoteDetail_9].desc": {
+      "pl": "- Chyba tak nazywa się miejsca, które pełnią w Mieście rolę centrów.\n- Miasto dzieli się na wiele obszarów, a każdy z nich zawsze dzieli się na Gniazdo i Zaułki.\n- Gniazdo to w praktyce miejsce, którym zarządza i które chroni wielka korporacja zwana Skrzydłem, de facto gospodarz całego obszaru. Na Zaułki Skrzydło nie ma chyba aż takiego wpływu. Chyba?\n- Raz zapytałem Vergiliusa, czy pochodzę z Gniazda, czy z Zaułków, ale mnie zignorował.",
+      "kr_sha256": "4e1e0895a0807f5597a27a6a5f9bba2ddf7a13b18e05695387a48226e80a3155",
+      "en_sha256": "0e7add71e77181dd6933094b86c5065aee1e9a485628ef24028c03f2e52e8322"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[key=swarm_mannequin_type_a].displayName": {
+      "pl": "Trzaskająca Szuflada",
+      "kr_sha256": "4332875c232e1b8e8ccbed8ce70230fb151e7d4cea9c2f5e8caa96efd8561db5",
+      "en_sha256": "99aaaa7c2de2028c7c586b2d357a7539ba47e092a9b486cf8e5dcb8e43aa9a6a",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_mannequin_type_b].displayName": {
+      "pl": "Skrzypiąca Szuflada",
+      "kr_sha256": "2193477abd42fee33ed65553d89d6038d9daa8df1ad9ad184aa01f2b4ae9deb0",
+      "en_sha256": "0a1aedbc68709e259a16b363ef9b5dba689463f784fcf9cd3e4ef14725c79bab",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_unbound_bagware_npc_a].displayName": {
+      "pl": "Renée",
+      "kr_sha256": "28ef9f3c1a3f612d8e062ee74fa460a5c3587ed4fd2f3a9e3e29e2a642a22751",
+      "en_sha256": "6e39a5fbc296fb6c9e665cd4a7779947f218d98e72dbb3c4bb9d9183df2eb353",
+      "origin": "ai"
+    }
+  }
+}

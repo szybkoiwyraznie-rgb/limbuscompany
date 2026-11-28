@@ -1,0 +1,70 @@
+{
+  "entries": {
+    "dataList[id=pilgrimage_bonusUI_Desc].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane E.G.O, zwiększasz zdobywanie <color=#acb2ff>[Próbek Morskiego Koszmaru]</color>.\nSuma wzrostu zdobyczy może osiągnąć maksymalnie <color=#acb2ff>120%</color>.",
+      "kr_sha256": "34539f8ba00f5e61a056a2a9de48bbe3b210c7ce4e4c4785e33e8cf34f8fdf1f",
+      "en_sha256": "a5abf9179e7abd4ab346eb030e79e46238144f6f53fee4ca03dcb91648a7cb91",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_bonus_preview].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_chapter_progress_reward_desc].content": {
+      "pl": "※ Po zakończeniu wydarzenia nagrody za postęp przepadną — odbierz je z wyprzedzeniem.",
+      "kr_sha256": "e3f3f3d33c5aa5bda567b80598b7766d1ccb0757290a18b6a18dbf14e7cddd09",
+      "en_sha256": "a0325f861593e22cfc077e71183b3305afc11b10b707b994bfc2e2f769e7d124",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_hard_stage_clear_desc].content": {
+      "pl": "※ Ukończenie etapu na Poziomie Trudnym liczy się także jako ukończenie\nodpowiedniego etapu na Poziomie Normalnym.",
+      "kr_sha256": "312113a815dab5d2f88f66288d2c891e094ec3265e995d6eaa8df4b7c983f2cc",
+      "en_sha256": "5b1d4c47034a2cdde91957ce8ec2bef9c3e2f590fe366b6848c70d31836df3db",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_reward_button].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_reward_popup_desc].content": {
+      "pl": "Zdobądź <color=#acb2ff>[Próbkę Morskiego Koszmaru]</color> przez:\npierwsze ukończenia etapów i lochów wydarzenia,\netapów Głównej Opowieści oraz Lustrzane Lochy.\n\nW oknie <color=#acb2ff>[Wymiany nagród]</color> możesz kupić różne nagrody\nza zebrane <color=#acb2ff>[Próbki Morskiego Koszmaru]</color>.",
+      "kr_sha256": "c9d28c2fa42ffc854d899189a45c3106a3558afd6b600bcce06723911c0ae28e",
+      "en_sha256": "2f09c63338c7e47f0f08af9cd0bd70a4b04f65ea4b022dc30ac3a6f44bc09ca3",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_rewardpage_desc].content": {
+      "pl": "Ukończoną każdą etap wydarzenia, zdobywasz <color=#acb2ff>[Próbkę Morskiego Koszmaru]</color>. Zdobędziesz ją także za pierwsze ukończenia etapów Głównej Opowieści albo Lustrzane Lochy.\n\nUkończywszy etapy wydarzenia lub Głównej Opowieści albo Lustrzane Lochy, z pewnym prawdopodobieństwem zdobędziesz <color=#acb2ff>[Lśniącą Próbkę Morskiego Koszmaru]</color>, która od razu zamienia się na 20 <color=#acb2ff>[Próbek Morskiego Koszmaru]</color>.\n\nW oknie <color=#acb2ff>[Wymiany nagród]</color> możesz kupić różne nagrody za zebrane <color=#acb2ff>[Próbki Morskiego Koszmaru]</color>.",
+      "kr_sha256": "5aaf1c2df0cccbbe6152ed43a5f0de64dc49bbf1919c4be3db56614727ca17b8",
+      "en_sha256": "9541263ac7fd12d4d1dfd86940bd4dfd86257c7cc84811c9db6b1cf85a0697da",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_scrap_guide_title].content": {
+      "pl": "Informacje o walucie wydarzenia",
+      "kr_sha256": "cbeab819cdf99d729fa7db1f9bff96b409a22df700287972151eb04f950d0eda",
+      "en_sha256": "8f0c8a131e41638cfd4afe7b13d020121cf950f5bc9d4c6e0e44e0a5fef797bc",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_stage_button].content": {
+      "pl": "Etap",
+      "kr_sha256": "d3fce9c9851dcea8c8256dfc81df5b4eed21aacc6c226fd819c77b77b8139df7",
+      "en_sha256": "3a17aa4e4abb73f667b9a0796216db5abed121ac5a745ab1f4b519fc837ce354",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_theater_button].content": {
+      "pl": "Teatr",
+      "kr_sha256": "a0c4d7f64777335916b25f02c480a59105f3f74a40650763fed63a37d0309d71",
+      "en_sha256": "fbfbad677c303dc3801f2ba0b36c0da5694c7a2373797fc225cb7717c5497132",
+      "origin": "ai"
+    },
+    "dataList[id=pilgrimage_warning_spoiler].content": {
+      "pl": "Ta opowieść rozgrywa się po Intervallo VI - Wiosenny Szlif (rozdz. 8.5). Obejrzeć mimo wszystko?",
+      "kr_sha256": "ddc4a35b6d683196e3031f046c8fa31eef73245614168b576f6715dbe4df1a23",
+      "en_sha256": "1461e30abff5abd65727ad41c289ce5bedd79f3b5403a319a7c7dcde71f551c6",
+      "origin": "ai"
+    }
+  }
+}

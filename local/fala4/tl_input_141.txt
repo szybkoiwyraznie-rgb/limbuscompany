@@ -1,0 +1,96 @@
+13690||RPGSystem#rpg-loc-dialogue-floor-1.json] 르누아르나 르루주의 컨템포러리에서 판매하는 옷은 각 분파가 추구하는 패션에 따라 일정 수준의 일관성을 갖추고 있다는 뜻입니다.|The collections sold by Contemporary labels of Le Noir and Le Rouge each maintain a deliberate visual consistency, according to the aesthetic doctrine of their respective factions.
+13691||RPGSystem#rpg-loc-dialogue-floor-1.json] <비슷한 옷만 있으면… 유행에 뒤처지는 거 아냐? 여긴 유행이 엄청 자주 바뀌는 것 같던데.>|<But if they keep making the same kinds of clothes... won't fashion leave them behind? Trends change every 5 minutes in this place.>
+13692||RPGSystem#rpg-loc-dialogue-floor-1.json] 그것은…|That is—
+13693||RPGSystem#rpg-loc-dialogue-floor-1.json] 혹시 찾으시는 스타일이 있나요? 원하신다면 제 컬렉션 중 자신의 몸을 제일 잘 표현할 수 있는 것으로 추천해드릴 수 있어요.|Is there a particular silhouette you're after? If you like, I can select a line from my collection that will articulate your physique to perfection.
+13694||RPGSystem#rpg-loc-dialogue-floor-1.json] 제 브랜드도 질이 좋고 명품 못지 않는 클래식함이 있는데…|But I assure you, the quality standards and the classique air of my designs are not so far behind those of Luxury brands...
+13695||RPGSystem#rpg-loc-dialogue-floor-1.json] 목덜미와 소맷단에 자신의 치아를 박아넣어서 정확히 76개의 치아 자국을 내더군요. 고객들은 그걸 보고 파괴적인 실루엣이라고 하며 미친 듯이 사들였어요.|... they used their teeth to line each and every one of their items with exactly 76 tooth marks along the necklines and hems. Whatever it was that the customers saw, the general reception claimed it cast a "deconstructive silhouette," and practically emptied their shelves.
+13696||RPGSystem#rpg-loc-dialogue-floor-1.json] 나도 명품 브랜드 디자이너가 될 수 있는데… 대체 어떻게…|I deserve to be recognized as a Luxury house, too. A couture label of my own! But just what must I do to—
+13697||RPGSystem#rpg-loc-dialogue-floor-1.json] 전시를 하고 있는 마네킹들에게 바늘을 구해다 줄 수 있나요?|Would you mind grabbing me a needle from the Exhibiting Mannequins?
+13698||RPGSystem#rpg-loc-dialogue-floor-1.json] <어… 내가 여기서는 좀 통하는 스타일인가?>|<Huh... Guess I'm pretty "hip" here, as they say?>
+13699||RPGSystem#rpg-loc-dialogue-floor-1.json] 와, 축하드려요…|Congrats, I guess...
+13700||RPGSystem#rpg-loc-dialogue-floor-1.json] 그자는 자랑을 하며 동시에 입맛을 열심히 다셨다.|I couldn't help but notice that she was hungrily licking her lips throughout the rant.
+13701||RPGSystem#rpg-loc-dialogue-floor-1.json] 오 고객님은…|Welcome, dear customers—
+13702||RPGSystem#rpg-loc-dialogue-floor-1.json] <결국 사긴 해야 하는구나.>|<No freebies after all, huh.>
+13703||RPGSystem#rpg-loc-dialogue-floor-1.json] 다음 컬렉션의 마감이 얼마 남지 않았는데… 어깨 라인도 이제 마저 엠보싱을 넣어야겠어…|Look at me, wasting my time chattering away when the deadline for the next collection is fast approaching... Excuse me while I finish embossing the shoulder seam...
+13704||RPGSystem#rpg-loc-dialogue-floor-1.json] 그자는 우리가 구해온 거대한 바늘을 들더니 자신의 피부를 찌르기 시작했다.|She took the massive needle from us, raised it to her eye level... then began rapidly stabbing her own skin with it.
+13705||RPGSystem#rpg-loc-dialogue-floor-1.json] 깨달았어요… 하이엔드 급의 브랜드가 되기 위해 필요한 건 유구한 헤리티지도 아니고 실력도 아니고 고급스런 재질을 쓰는 것도 아니었어요…|It's just something that's struck me all of a sudden. Does my brand need strong heritage to enter the world of high fashion? No. Technical perfection? Clearly not. Rare, high-grade materials? Not at all...
+13706||RPGSystem#rpg-loc-dialogue-floor-1.json] 그래서 제가 지금까지 이 유리병 같은 로비에서 벗어나지 못하고 있었던 거예요…|But I've been so obsessed with meeting those arbitrary conditions that I've trapped myself in this glorified glass jar of a lobby.
+13707||RPGSystem#rpg-loc-dialogue-floor-1.json] 중앙에 떨어진 시체가 여기까지 튄 것 같다.|The corpse pile that fell in the center of the floor appears to have burst and splattered all the way over here.
+13708||RPGSystem#rpg-loc-dialogue-floor-1.json] 아직은 지나갈 수 없을 것 같다.|For now, the way forward is blocked.
+13709||RPGSystem#rpg-loc-dialogue-floor-1.json] 확실히… 특이한 것들만 파는 것 같다.|What a... bizarre assortment of products.
+13710||RPGSystem#rpg-loc-dialogue-floor-1.json] 어? 이제 움직이네요! 위층으로 올라갈 방법을 찾으셨군요!|Wait, it's running now that you're here! You must've found a way to unlock your way onto the upper floor!
+13711||RPGSystem#rpg-loc-dialogue-floor-1.json] 뭐, 쇼핑도 하고 고생도 좀 했지…|Well, we did a lil' shopping... some grunt work... some more grunt work...
+13712||RPGSystem#rpg-loc-dialogue-floor-1.json] <여기는… 마치 매장 같이 생겼는데…>|<This place... looks like some kind of store...>
+13713||RPGSystem#rpg-loc-dialogue-floor-1.json] 무엇을 파는 곳이죠? 아니, 애초에 왜 팔고 있는 거죠?|What exactly are they selling here? No, actually, why's anything being sold here in the first place?
+13714||RPGSystem#rpg-loc-dialogue-floor-1.json] 1피트가 넘어 보이는걸요? 바늘이라기엔… 작살머리에 가깝네요.|It looks well over a foot long. At that size... it's more like a harpoon head.
+13715||RPGSystem#rpg-loc-dialogue-floor-1.json] 그러면 이 녀석도… 황금가지의 영향을 받은 거야?|Huh. Then maybe this Mannequin got juiced up by the Golden Bough too?
+13716||RPGSystem#rpg-loc-dialogue-floor-1.json] 에스컬레이터는 이제 작동하는 것 같습니다, 관리자님.|The escalator now appears operational, Manager.
+13717||RPGSystem#rpg-loc-dialogue-floor-1.json] <일단 돌아오긴 했는데…>|<Well, we made it back, at least...>
+13718||RPGSystem#rpg-loc-dialogue-floor-1.json] <어디를 다쳤다거나 위험한 상황인 것 같진 않아… 우선 옷이 전시된 카펫 바닥을 찾아가보자.>|<He doesn't look to be injured or in any immediate danger... Let's start by finding a carpeted room with clothes on display.>
+13719||RPGSystem#rpg-loc-dialogue-floor-1.json] 그 능력으로 뫼르소, 그자의 주변을 정찰하는 것이 어떠십니까.|If anything is visible, I propose we use those details to locate the site where he is being detained.
+13720||RPGSystem#rpg-loc-dialogue-floor-1.json] 오, 그러고 보니 관리자 양반, 그런 것도 됐었지? 거기서 뭔가 보이면 찾는 시간이 훨씬 줄겠네.|Oh, right. You could do that, couldn't you, Manager Bud? If you can spot anything from his end, that oughta narrow the search down and make things easier for us.
+13721||RPGSystem#rpg-loc-dialogue-floor-1.json] <음…여기서도 될지 모르겠지만 일단 해볼게.>|<Hmm... I don't know if it'll work from here, but I'll give it a try.>
+13722||RPGSystem#rpg-loc-dialogue-floor-1.json] <바닥에 카펫…? 같은 게 보이고… 앞엔 천 조각… 아마 옷이겠지? 아무튼 그것들을 진열해 놓은 것 같아. 뫼르소는 움직이지 않고 있어.>|<I think I see... uh, a carpeted floor? Yeah, that's carpet... and there are strips of fabric up ahead... Clothes, probably. Looks like they've got them on display. Meursault's standing absolutely still.>
+13723||RPGSystem#rpg-loc-dialogue-floor-1.json] <묶여있진 않은 것 같은데… 응? 옆에 누군가 있는 것 같아.>|<He doesn't seem to be tied up or anything... Huh? There's someone beside him...>
+13724||RPGSystem#rpg-loc-dialogue-floor-1.json] 칫, 그 사이 포로로 구금당한 건가? 답지 않게 여러모로 무능한 모습을 보이는군.|Tch. Not much time has passed since the execution, and he already allows himself to be taken captive. An uncharacteristic display of incompetence coming from him—<i>and</i> on multiple fronts.
+13725||RPGSystem#rpg-loc-dialogue-floor-1.json] 허… 카펫, 전시된 옷이라… 뭐, 아무것도 모르는 것보단 낫군 그래.|Huh... Carpet, and clothes on display... Well, it's more than we had to go on before, at least.
+13726||RPGSystem#rpg-loc-dialogue-floor-1.json] <겉보기엔 쉽게 넘을 수 있는 평범한 벨트 차단봉인데 막상 넘어가려니까 넘을 수가 없을 것 같아.>|<It looks like an ordinary belt barrier. I should be able to step right over it... But the second I try, it feels impossible.>
+13727||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳이 상징계이기 때문입니다.|That is because we are currently in the Symbolic.
+13728||RPGSystem#rpg-loc-dialogue-floor-1.json] 금속재질 봉 두 개, 벨트의 결합이지만 차단이라는 상징을 가지게 되었기에…|Physically, the object consists only of two metal posts joined by a retractable belt. However, it has been assigned the symbolic function of denying passage.
+13729||RPGSystem#rpg-loc-dialogue-floor-1.json] 상징계에선 넘을 수 없는 것입니다, 관리자님.|That function is absolute as far as its symbolic meaning is concerned. It cannot be crossed within this realm, Manager.
+13730||RPGSystem#rpg-loc-dialogue-floor-1.json] <이건 뭐야?>|<And what's this?>
+13731||RPGSystem#rpg-loc-dialogue-floor-1.json] 겉보기엔 열처리기 같네요. 미용실에서 몇 번 봤어요.|Looks like a salon heat lamp. I've seen a few before.
+13732||RPGSystem#rpg-loc-dialogue-floor-1.json] 어릴 때 곱슬거리는 머리카락을 펴보겠다고 저 기계 밑에 한참을 있었거든요. 물론… 실패했지만…|I remember spending hours sitting under one, trying to straighten my hair. It... didn't work, obviously.
+13733||RPGSystem#rpg-loc-dialogue-floor-1.json] 앉아서 쉬고 싶다. 하지만… 한시라도 빨리 뫼르소를 데리러 가야 한다.|I'm really tempted to sit and rest my legs here. But... saving Meursault is the priority. Time is of the essence.
+13734||RPGSystem#rpg-loc-dialogue-floor-1.json] 평범한 옷들 사이로 바깥에서는 본 적 없는… 어딘가 기괴한 옷들이 섞여있다.|Among the ordinary clothes hang grotesque pieces unlike anything from the outside world.
+13735||RPGSystem#rpg-loc-dialogue-floor-1.json] 아까 본 것들도 그렇고… 우리가 뒤틀림이라고 부르는 것들과 비슷한 느낌이야… 어떻게 생각해, 단테?|Both this thing and what we saw earlier... they feel a lot like the things we call Distortions. What do you think, Dante?
+13736||RPGSystem#rpg-loc-dialogue-floor-1.json] <뒤틀림… 맞는 것 같아.>|<They do... I think they really are Distortions.>
+13737||RPGSystem#rpg-loc-dialogue-floor-1.json] 그나저나 너희는 어떻게 그따위의 이상한 옷을 입고도 파렴치하게 돌아다닐 수 있지? 그게 유행일 리는 없는데!|More importantly, how can you be walking around in hideous clothes like those? Aren't you even ashamed of yourselves? That couldn't possibly be the current trend!
+13738||RPGSystem#rpg-loc-dialogue-floor-1.json] 다음에… 는 내가 꼭… 런웨이까지…|Next time... I'll make it. I'll be the one... to make it to the runway...
+13739||RPGSystem#rpg-loc-dialogue-floor-1.json] 르루주에 속해있던 자의 시체다. 고개를 들지 못한 채 얼굴에 난 구멍으로 피를 쏟아내고 있다.|The corpse of a Rouge. Blood pours from the holes in the face as her head hangs limply forward.
+13740||RPGSystem#rpg-loc-dialogue-floor-1.json] '절대 지워지지 않는 커버력, 각질의 생생한 진액. 연속 완판 중!'이라는 문구가 적혀 있다.|The label reads: "Coverage That Never Fades! Feel the Refreshing Lymph of Freshly Shed Skin! Instant Sellout!"
+13741||RPGSystem#rpg-loc-dialogue-floor-1.json] …전시되어 있는 내용물은 자세히 보고 싶지 않다.|... It seems unnecessary to inspect the product itself.
+13742||RPGSystem#rpg-loc-dialogue-floor-1.json] <… 이건 뭐지?>|<... What even is this?>
+13743||RPGSystem#rpg-loc-dialogue-floor-1.json] 조금씩 움직이고 있는 것 같아… 이상한 매듭 같은 것도 잔뜩 얽혀있고…|I think it's... moving. Like twitching... And it's got those creepy knots tangled all over...
+13744||RPGSystem#rpg-loc-dialogue-floor-1.json] 자세히 볼 필욘 없을 것 같아요.|Let's not look too closely.
+13745||RPGSystem#rpg-loc-dialogue-floor-1.json] 정체불명의 전시물이다. 자세히 볼 필욘 없을 것 같다.|An unidentified display piece. ... Let's not look too closely.
+13746||RPGSystem#rpg-loc-dialogue-floor-1.json] 으으… 우리 움직임을 따라 눈이 따라오고 있어.|Ugh... Its eyes are followin' us whenever we move.
+13747||RPGSystem#rpg-loc-dialogue-floor-1.json] 저것들도 우리를 위아래로 훑어보더니 고개를 돌려버리는데요?|Those ones gave us a once-over, then turned their heads away.
+13748||RPGSystem#rpg-loc-dialogue-floor-1.json] 차마 못 볼 꼴을 보았다는 표정이었다.|Their expressions suggested that the sight of us exceeded their tolerance for the visually objectionable.
+13749||RPGSystem#rpg-loc-dialogue-floor-1.json] <서럽구만…>|<Wow. That's kind of hurtful...>
+13751||RPGSystem#rpg-loc-dialogue-floor-1.json] 새처럼 보이는 옷이다. 도대체 이런 건 어떻게 입는 걸까.|An attire fashioned into the shape of a bird. How is anyone supposed to put this on?
+13752||RPGSystem#rpg-loc-dialogue-floor-1.json] 유행 중… 이라는 문구가 적힌 모자가 전시되어있다.|A hat is displayed beneath a placard reading, "TRENDING NOW."
+13753||RPGSystem#rpg-loc-dialogue-floor-1.json] 그만 쳐다보라는 말 안 들려?|Stop staring at me, I said!
+13754||RPGSystem#rpg-loc-dialogue-floor-1.json] 전시된 마네킹이 보인다. 눈을 오래 마주치고 싶진 않다.|Mannequins stand on display. These do not have the most inviting gazes for a staring contest.
+13755||RPGSystem#rpg-loc-dialogue-floor-1.json] 음료자판기 위에 백화점의 안내 지도 같은 게 붙어있다. 군데군데 훼손되어서 글씨는 잘 보이지 않는다.|What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering.
+13756||RPGSystem#rpg-loc-dialogue-floor-1.json] … 그런데 지도가 이게 맞아? 뭔가 이상한데…|... Hey, what's up with this map? Looks a bit weird to me...
+13757||RPGSystem#rpg-loc-dialogue-floor-1.json] 그렇네요. 지도가 잘못된 것 같은데요? 그림에 따르면 지금보다 훨씬 크고 복잡한데…|You're right... According to the diagram, the department store should be far larger and more complicated than what we've seen.
+13758||RPGSystem#rpg-loc-dialogue-floor-1.json] 잘못된 것은 아닐 것이다. 이 백화점은 매우 거대한 공간이고, 우리가 실제로 발견할 수 있는 장소는 극히 일부일 테니.|The map is unlikely to be erroneous. This department store occupies an immense spatial domain; the locations accessible to our perception likely constitute only a minute fraction of the whole.
+13759||RPGSystem#rpg-loc-dialogue-floor-1.json] 여기 어딘가에… 약 3억 명의 사람들이 있다고 했지.|And this place is supposed to hold... 300 million people, huh?
+13760||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런 게 써 있을 리가 없잖아요.|Why would anyone put that in the directory?
+13761||RPGSystem#rpg-loc-dialogue-floor-1.json] 혹시나 해서 물어봤지…|Hey, you never know...
+13762||RPGSystem#rpg-loc-dialogue-floor-1.json] 거꾸로 된 마네킹이 솟아올라있다. 여기에 바지나 양말이라도 씌워주는 걸까.|An upside-down Mannequin juts out from the floor. Is it meant to model trousers? Socks?
+13763||RPGSystem#rpg-loc-dialogue-floor-1.json] <이런 자세로 전시해둔 이유가 있는 걸까?>|<Why would they display it in such a... contorted pose?>
+13764||RPGSystem#rpg-loc-dialogue-floor-1.json] 상체와 하체, 머리와 발이 동시에 고객에게 보여주는 것이 목적입니다.|To present the upper and lower body, including the head and feet, simultaneously in the customer's field of vision.
+13765||RPGSystem#rpg-loc-dialogue-floor-1.json] …굳이 그럴 이유가 있나요? 그냥 세워둬도 위아래로 보면 그만이잖아요.|... But why? Just keep it standing upright, and people'll just look up and down to check it out.
+13767||RPGSystem#rpg-loc-dialogue-floor-1.json] 그냥 세워두고 위아래로 볼 이유가 있어? 그냥 이렇게 한눈으로 보면 그만이잖아~|Why go through the effort, Ishy? This way, the whole outfit fits neatly into view~
+13768||RPGSystem#rpg-loc-dialogue-floor-1.json] …라고 말하려고 했지, 뫼르?|... That's what you were about to say, right, Meur?
+13770||RPGSystem#rpg-loc-dialogue-floor-1.json] 이스마엘은 잠시 고민하다가 이곳만의 상식이 있다는 걸 납득한 듯 고개를 끄덕였다.|Ishmael slowly nodded as if she had finally accepted that this place operated on a common sense all its own.
+13771||RPGSystem#rpg-loc-dialogue-floor-1.json] 여기에도 눈알이 있네!|Ooh, another eyeball!
+13772||RPGSystem#rpg-loc-dialogue-floor-1.json] 손이 안 보였어요, 엄청 잽싸시네요…|Whoa, you were a blur. You've got fast hands, huh.
+13773||RPGSystem#rpg-loc-dialogue-floor-1.json] <빠르긴 하지만, 중간에 방향을 바꿀 순 없어 보였어.>|<It's fast, but it didn't seem like it could change its direction midway.>
+13774||RPGSystem#rpg-loc-dialogue-floor-1.json] <그 점을 이용하면, 피할 수 있을지도 몰라.>|<Maybe you can exploit that property to avoid collision.>
+13775||RPGSystem#rpg-loc-dialogue-floor-1.json] '파격 할인 행사 상품'이라고 적혀 있다.|The sign reads, "BLOWOUT SALE".
+13776||RPGSystem#rpg-loc-dialogue-floor-1.json] [오리가미 컬렉션 N°92, 5 중에 1]이라고 써 있다.|It says [Origami CollectioN ° 92, 1 of 5].
+13777||RPGSystem#rpg-loc-dialogue-floor-1.json] 무언가 반짝이는 것이 보인다. 하지만 지금은 그런 걸 신경 쓸 때가 아닌 것 같다.|I can see something twinkling there, but this probably isn't the right time to worry about that.
+13778||RPGSystem#rpg-loc-dialogue-floor-1.json] 응? 벌써 돌아온 거예요?|Hm? How did you come back so soon?
+13779||RPGSystem#rpg-loc-dialogue-floor-1.json] 아니, 뭔가 잘못된 것 같은데~ 뫼르, 내 말이 맞지?!|No, I think somethin' went wrong here~ Right, Meur?
+13780||RPGSystem#rpg-loc-dialogue-floor-1.json] <…'언덕'은 아니었나 봐. 다시 지하 1층으로 내려가서 에스컬레이터를 타자.>|<... "Hill" was probably the wrong choice, then. Let's go back to B1 and try the escalator again.>
+13781||RPGSystem#rpg-loc-dialogue-floor-1.json] <으윽… 바늘 하나 꽂았다고 너무 달라진 거 아냐!?>|<Damn it... That one needle makes that much of a difference?!>
+13782||RPGSystem#rpg-loc-dialogue-floor-1.json] 몸에 꽂혀있는 바늘에서 은은한 황금빛을 보았습니다. 아마도 그 영향일 것입니다.|The needle embedeed in it emitted a faint golden glow. It is likely that is the element that strengthens it.
+13783||RPGSystem#rpg-loc-dialogue-floor-1.json] 으음. 도움이 될만한 옷을 더 사거나… 더 주의해서 싸워보는 수밖에 없겠네요.|Hmm... Then our only option is to buy clothes that can help... or exercise more caution when fighting it.
+13784||RPGSystem#rpg-loc-dialogue-floor-1.json] 알겠다.|Agreed.
+13785||RPGSystem#rpg-loc-dialogue-floor-1.json] 뫼르가 고생이 많네~|You got this, Meur~
+13786||RPGSystem#rpg-loc-dialogue-floor-1.json] <…머리 높이까지 뛸 수 있을 줄이야.>|<... Didn't expect it to jump all the way to the head.>
+13787||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 1층에선 갑작스러운 상황에 머릿속도 정리가 안됐고, 괜히 수감자들이 불안해하지 않을까 싶어 말하지 않았지만…|I'd been holding back on sharing the details of the loop with the Sinners, as doing so before I even understood how it worked might only plunge them into further uncertainty.
+13788||RPGSystem#rpg-loc-dialogue-floor-2-b.json] 상황을 이야기하고… 도움을 받는 편이 좋지 않을까.|But now that we're this far in, maybe they could provide further insight if I kept them in the loop about... the loop.

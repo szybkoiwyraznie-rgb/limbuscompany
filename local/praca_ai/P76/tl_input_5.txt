@@ -1,0 +1,36 @@
+886||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 낡은 우산 소환|[WhenUse] Spawn an Old Umbrella next turn
+887||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 5 부여|[OnSucceedAttack] Inflict 5 Sinking
+888||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 낡은 우산 수만큼 가하는 피해량 +15%|[OnSucceedAttackHead] Deal +15% damage for each Old Umbrella
+889||(ulepszenie 1) — nazwa] 기다림|Waiting
+890||(ulepszenie 1) — opis] [StartBattle] 모든 적 정신력 -20|[StartBattle] All enemies lose 20 SP
+891||(ulepszenie 1) — nazwa] 흩뿌려지는 슬픔|Scattering Sorrow
+892||(ulepszenie 1) — opis] [EndSkill] 모든 적의 파열 횟수 2, 침잠 횟수 2 증가|[EndSkill] Inflict +2 Rupture Count and +2 Sinking Count to all enemies
+893||(ulepszenie 1) — nazwa] 얽혀가는 부적|Entangling Talisman
+894||(ulepszenie 1) — opis] [WhenUse] 대상에게 얽혀온 저주 부적 2 부여|[WhenUse] Inflict 2 Entangled Curse Talisman
+895||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 2 부여. 파열 횟수 2 증가|[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn
+896||(ulepszenie 1) — nazwa] 쌓여가는 저주|Cumulating Curse
+897||(ulepszenie 1) — opis] [WhenUse] 대상에게 얽혀온 저주 부적 1 부여|[WhenUse] Inflict 1 Entangled Curse Talisman
+898||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 가지고 있는 얽혀온 저주 부적 만큼 얽혀온 저주 부적 부여|[OnSucceedAttack] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman
+899||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 5 부여|[OnSucceedAttackHead] Inflict 5 Rupture next turn
+900||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 2 부여. 다음 턴에 파열 횟수 2 증가|[OnSucceedAttackHead] Inflict 2 Rupture and +2 Rupture Count next turn
+901||(ulepszenie 1) — nazwa] 누구도 울지 않도록|So That No One Will Cry
+902||(ulepszenie 1) — opis] [EndBattle] 다시 붙여진 저주 부적 전부 소멸|[EndBattle] Remove all Reattached Curse Talisman
+903||(ulepszenie 1) — moneta 5, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 5 부여|[OnSucceedAttack] Inflict 5 Paralyze next turn
+904||(ulepszenie 1) — moneta 5, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 속박 5 부여|[OnSucceedAttackHead] Inflict 5 Bind next turn
+905||(ulepszenie 1) — nazwa] 이전하는 부적|Transferring Talisman
+906||(ulepszenie 1) — opis] [WhenUse] 대상의 얽혀온 저주 부적 을 전부 소멸. 소멸시킨만큼 다시 붙여진 저주 부적 얻음|[WhenUse] Remove all Entangled Curse Talisman from target; Gain the same amount of Reattached Curse Talisman
+907||(ulepszenie 1) — nazwa] 복제되는 저주|Proliferating Curse
+908||(ulepszenie 1) — opis] [WhenUse] 대상이 가지고 있는 얽혀온 저주 부적 만큼 얽혀온 저주 부적 부여|[WhenUse] Inflict Entangled Curse Talisman by target's Entangled Curse Talisman
+909||(ulepszenie 1) — nazwa] 취하고 싶나?|Wanna Get Drunk?
+910||(ulepszenie 1) — opis] 합 진행 시 고양 1 부여|In a clash, give 1 Morale Boost
+911||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 5 부여, 진동 횟수 2 증가|[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count
+912||(ulepszenie 1) — nazwa] 나눠 마시자!|Let's Share the Drink!
+913||(ulepszenie 1) — opis] 합 진행 시 고양 2 부여\n[WhenUse] 체력 5% 회복|In a clash, give 2 Morale Boost\n[WhenUse] Heal 5% HP
+915||(ulepszenie 1) — nazwa] 남은건 이것 뿐이네!|This is All I Got!
+916||(ulepszenie 1) — opis] 합 진행 시 고양 2 부여\n진동을 가진 대상 우선 공격|In a clash, give 2 Morale Boost\nPrioritizes enemies with Tremor
+917||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 진동 횟수만큼 진동 폭발|[OnSucceedAttack] Trigger Tremor Burst by target's Tremor Count
+918||(ulepszenie 1) — nazwa] 이건 내가 먹어야지!|I'll Have This!
+919||(ulepszenie 1) — opis] [CantDuel]\n대상 변경 불가.\n고양 을 가진 대상 우선 공격\n대상에게 취기 가 없다면, 합 위력 +5|[CantDuel]\nCannot be redirected\nPrioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5
+920||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 고양을 가지고 있다면, 고양 만큼 피해량 +10%|[OnSucceedAttack] If target has Morale Boost, deal +10% damage for each Count
+921||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 취기 를 가지고 있다면, 주는 피해가 0이 되고 자신의 체력 -50|[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP
+922||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 고양 혹은 취기 전부 소모 시킴|[OnSucceedAttack] Remove all Morale Boost or Tipsy

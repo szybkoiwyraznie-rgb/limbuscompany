@@ -1,0 +1,556 @@
+{
+  "entries": {
+    "dataList[id=FavorBuff5001AllyFirst].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +25%\n- Umiejętności nakładają o 1 więcej <color=#ff0000>Siły Krwawienia, Siły Zatonięcia, Rozdartej Barwy [Rouge] i Rozdartej Barwy [Bleu]</color>\n- Jeżeli cel posiada <color=#ff0000>Palette Vibrante</color>, Moc Starcia +2 i Moc Bazowa +1\n- [Efekt wyłącznie 2. fazy] Na początku tury użycia „Wybuchającego Pulsującego Szkarłatu pod Twoją Skórą”, za Grzesznika z <color=#ff0000>Palette Vibrante</color> <color=#ff0000>odzyskuje 10 Poczytalności</color> (maks. 30)",
+      "kr_sha256": "fc6909ee9211fc5ce3c07d5f1cd6a6cbd97df69d1c7a9e3a81e7cb70344ab324",
+      "en_sha256": "cfe58dd4535bf01ca434f566e84cdcac53ae70ec08a0ea6b74253ef695136589",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001AllyFirst].name": {
+      "pl": "Cień Projekcji [Środkowy]",
+      "kr_sha256": "7c2fb1b4e45a1b82772a2bd62fcaab086a9f534c3a5c5db5a48586a0ce473a1d",
+      "en_sha256": "964ca82ba8103c902657af4f547e421a4a616baa484507ea9cdd5ac9e35d7df2",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001AllyFirst].summary": {
+      "pl": "Umiejętności Krwawienia zadają więcej obrażeń",
+      "kr_sha256": "ba2590c9dc3431ce572b51e613d38deafb04149407422aa220ee2e312a96cb12",
+      "en_sha256": "5ae865760bbfefd3ecc580875c000b832e240f420ea6663642b046556fd4dd8f",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001AllyTwo].desc": {
+      "pl": "- Ataki <color=#f8c200>Obżarstwa</color> lub z <color=#f8c200>Rozdarciem</color>: +25% obrażeń (E.G.O +100%)\n- Tożsamości <color=#f8c200>Korporacji H</color>: +15% zadawanych, -30% otrzymywanych\n- Na początku walki przy <color=#f8c200>Rezonansie Absolutnym</color> 4 razy zyskuj <color=#f8c200>1 Zasób E.G.O rzadkiego Grzechu</color>",
+      "kr_sha256": "b5cad8ea6a84c265e47c852011d76c25180666de244fa153621dbed093d550da",
+      "en_sha256": "c13c5ba3e2954c7c176662a831ff44a9c941fbabf04227f9ec1e42771d33b136",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001AllyTwo].name": {
+      "pl": "Cień Projekcji [Zasadzka]",
+      "kr_sha256": "2d942e68a5ea4eb5f0030941f486bf4a0b8c76a54b6a77b3468f7e9ef183d294",
+      "en_sha256": "269fd4c159d0e1be651c91afa0eb12bb733197954b6c8ae3258cd60afb7ae9ee",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001AllyTwo].summary": {
+      "pl": "Umiejętności Grzechu Obżarstwa zadają więcej obrażeń",
+      "kr_sha256": "fb3f5f81c619aa0ce2ec86c6269ca7394912ecc65044fab09c92887b1bd3b76c",
+      "en_sha256": "523dc3a76d91bf288bb43033fc409a85b4c6b9234be248d015d3e89083e704e9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001EnemyFirst].desc": {
+      "pl": "- Jeżeli na początku spotkania na polu jest co najmniej 4 Tożsamości <color=#f8c200>frakcji Środkowego</color>, pierwszy i drugi wzorzec Ricarda <color=#f8c200>ulega zmianie</color>\n- Umiejętności Ricarda <color=#f8c200>nie nakładają Paraliżu</color> na Tożsamości, które mają <color=#f8c200>wyposażone Umiejętności obrony</color>",
+      "kr_sha256": "92c61db4fe080e448045ede02f7a02dac8fbfaaf311519894f90be4bf279f6e0",
+      "en_sha256": "e1b22f131d0a717451f474ed6f6425d644c9f70e9a2f88198b822441081023cd",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001EnemyFirst].name": {
+      "pl": "Cień Projekcji [Środkowy]",
+      "kr_sha256": "7c2fb1b4e45a1b82772a2bd62fcaab086a9f534c3a5c5db5a48586a0ce473a1d",
+      "en_sha256": "964ca82ba8103c902657af4f547e421a4a616baa484507ea9cdd5ac9e35d7df2",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001EnemyFirst].summary": {
+      "pl": "Nie nakłada Paraliżu na Tożsamości z wyposażonymi Umiejętnościami obrony",
+      "kr_sha256": "f82fbac379ef00d1bb0678782da5165e8c6643e7b837a8b22ccce53c987c8089",
+      "en_sha256": "0f9cdd7ddd6c965f5c48801cc51122e1c1913cfebbf12789db8eedd70fc567a7",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001EnemySecond].desc": {
+      "pl": "- Gdy Ricardo jest w stanie <color=#f8c200>Oszołomienia</color>, a atakujący jest szybszy, jego <color=#f8c200>otrzymywane obrażenia rosną</color> o (różnica Szybkości x 2)% (maks. 20%)",
+      "kr_sha256": "a63791cd3673126cf9d3f4649979011db6dee84e26ef888104885bc9fb3df285",
+      "en_sha256": "99aeabfacdcbec3475fd62d51805ce36410ba6648b7d6b34d4701ea054aa6731",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001EnemySecond].name": {
+      "pl": "Cień Projekcji [Zasadzka]",
+      "kr_sha256": "2d942e68a5ea4eb5f0030941f486bf4a0b8c76a54b6a77b3468f7e9ef183d294",
+      "en_sha256": "269fd4c159d0e1be651c91afa0eb12bb733197954b6c8ae3258cd60afb7ae9ee",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001EnemySecond].summary": {
+      "pl": "Otrzymywane obrażenia rosną proporcjonalnie do różnicy Szybkości",
+      "kr_sha256": "9457a29d82b227750fdc6bf81244108442bebcd8f16d10b7ab46458cc5a4122f",
+      "en_sha256": "2e2c0061b53ae0d487b138768d47f5e197e22e5bb334b9eea415f63a0bcd4044",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001FirstPhaseForUI].desc": {
+      "pl": "- Jeżeli na początku spotkania na polu jest co najmniej 4 Tożsamości <color=#f8c200>frakcji Środkowego</color>, pierwszy i drugi wzorzec Ricarda <color=#f8c200>ulega zmianie</color>, a Ty <color=#f8c200>zyskujesz po 2 Zasobów E.G.O każdego Grzechu</color>\n- Umiejętności Ricarda <color=#f8c200>nie nakładają Paraliżu</color> na Tożsamości, które mają <color=#f8c200>wyposażone Umiejętności obrony</color>\n- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Krwawienie lub „Specjalne Krwawienie”</color> albo należą do Grzechu <color=#f8c200>Zawiści</color>, zadają obrażenia +30% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Jeżeli na początku walki wywołano <color=#f8c200>Rezonans Absolutny</color>, 4 razy zyskuj <color=#f8c200>1 Zasób E.G.O najmniej posiadanego Grzechu</color>",
+      "kr_sha256": "a6f7b62583b1bba44fda09f4a4de14e3620ed97818d7256c6b5d2be3f9a9397a",
+      "en_sha256": "519aa27afe5f94edd6360951ed54376abf1540e4ee269bb214d6346bf6385cb2",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001FirstPhaseForUI].name": {
+      "pl": "Cień Projekcji [Środkowy]",
+      "kr_sha256": "7c2fb1b4e45a1b82772a2bd62fcaab086a9f534c3a5c5db5a48586a0ce473a1d",
+      "en_sha256": "964ca82ba8103c902657af4f547e421a4a616baa484507ea9cdd5ac9e35d7df2",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001HardForUI].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +25%\n- Umiejętności zadają obrażenia +20%\n- [Efekt wyłącznie 2. fazy]\n · Poczytalność Ricarda i jego Braci nie spada poniżej 0\n · Na początku tury na wszystkich wrogów, którzy w poprzedniej turze zaatakowali Ricarda, nakładane są 2 „Zapisano w Księdzie”",
+      "kr_sha256": "023f75c9d0766c1aa71f050b9cf2063b9391f860d125312296553b211e4d2b76",
+      "en_sha256": "e5931ff7d20f15d2692a90232013f08d4f34c18670dca3d2f2855b59ed8204ed",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001HardForUI].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001HardTwo].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +25%\n- Umiejętności zadają obrażenia +20%\n- [Efekt wyłącznie 2. fazy]\n · Poczytalność Ricarda i jego Braci nie spada poniżej 0\n · Na początku tury na wszystkich wrogów, którzy w poprzedniej turze zaatakowali Ricarda, nakładane są 2 „Zapisano w Księdzie”",
+      "kr_sha256": "023f75c9d0766c1aa71f050b9cf2063b9391f860d125312296553b211e4d2b76",
+      "en_sha256": "e5931ff7d20f15d2692a90232013f08d4f34c18670dca3d2f2855b59ed8204ed",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001HardTwo].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001HardTwo].summary": {
+      "pl": "Utrapienie na poziomie trudności Hard",
+      "kr_sha256": "1e5f1d3b5bfe9fe00fba975cd129abe3156fe00ba9b0425d23cd70f8fa5fa33b",
+      "en_sha256": "5662765fdbdbf2dcf24d5fb89e1b5fffb240d9a142abc56568705732281c9e2e",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001Hard].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +25%\n- Umiejętności zadają obrażenia +20%",
+      "kr_sha256": "c69cf17f64825014d1277667d60683043dfb573dd4e14d51ceebbdc5d6591258",
+      "en_sha256": "763ccc9bd16838e214a4605847587f2454992dd3c9570fabff8a6555967a06a0",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001Hard].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001Hard].summary": {
+      "pl": "Utrapienie na poziomie trudności Hard",
+      "kr_sha256": "1e5f1d3b5bfe9fe00fba975cd129abe3156fe00ba9b0425d23cd70f8fa5fa33b",
+      "en_sha256": "5662765fdbdbf2dcf24d5fb89e1b5fffb240d9a142abc56568705732281c9e2e",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001SecondPhaseForUI].desc": {
+      "pl": "- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Rozdarcie</color> albo należą do Grzechu <color=#f8c200>Obżarstwa</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Tożsamości <color=#f8c200>Korporacji H</color> zadają wrogom obrażenia +15%, a otrzymują -30%\n- Jeżeli na początku walki wywołano <color=#f8c200>Rezonans Absolutny</color>, 4 razy zyskuj <color=#f8c200>1 Zasób E.G.O najmniej posiadanego Grzechu</color>\n- Gdy Ricardo jest w stanie <color=#f8c200>Oszołomienia</color>, a atakujący jest szybszy, jego <color=#f8c200>otrzymywane obrażenia rosną</color> o (różnica Szybkości x 2)% (maks. 20%)",
+      "kr_sha256": "9e47244169b773efc33e73d613b670983b1ab7a04820c72bf96e6227a0d12de5",
+      "en_sha256": "d96ad943eb758738974e5cc168b71263fca07bdb92347ad5302546347dc71895",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5001SecondPhaseForUI].name": {
+      "pl": "Cień Projekcji [Zasadzka]",
+      "kr_sha256": "2d942e68a5ea4eb5f0030941f486bf4a0b8c76a54b6a77b3468f7e9ef183d294",
+      "en_sha256": "269fd4c159d0e1be651c91afa0eb12bb733197954b6c8ae3258cd60afb7ae9ee",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyOneForUI].desc": {
+      "pl": "- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Podpalenie lub „Specjalne Podpalenie” albo należą do Grzechu Gniewu</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Gdy Wyładowanie Wstrząsu zadaje <color=#f8c200>obrażenia Oszołomienia</color> Tarczy wroga, zamiast tego zadaje <color=#f8c200>obrażenia od Gniewu</color>\n· Zadając w ten sposób <color=#f8c200>obrażenia od Gniewu</color> lub gdy cel otrzymuje obrażenia od <color=#f8c200>Podpalenia i „Specjalnego Podpalenia”</color>, jego <color=#f8c200>Tarcza</color> otrzymuje obrażenia +50% (zaokrąglane w dół)\n- Przy Rezonansie zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 1 losowy najmniej posiadany Zasób E.G.O (2 razy na turę)",
+      "kr_sha256": "69b9778189085edac99706bc90619e24c6544db76ac5e988bdd9afd5fcd5258f",
+      "en_sha256": "e9d3c4895ddcc847c46cc591fac80f24dc188a4c8f90ee4cdd4246ac0737f36f",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyOneForUI].name": {
+      "pl": "Cień Projekcji [Niedźwiedzi Łów]",
+      "kr_sha256": "5341d1d171b627a746816cfc55fda126de029dffce56b955e679bb0457749bdf",
+      "en_sha256": "bf4d9a17ac339b6c678904112c05ab620b4b74056c131fd6536a74af9856a4a7",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyOne].desc": {
+      "pl": "- Umiejętności ataku Tożsamości, które nakładają Podpalenie lub „Specjalne Podpalenie” albo należą do Grzechu Gniewu, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Gdy Wyładowanie Wstrząsu zadaje obrażenia Oszołomienia Tarczy wroga, zamiast tego zadaje obrażenia od Gniewu\n· Zadając w ten sposób obrażenia od Gniewu, zadaje Tarczy obrażenia +50% (zaokrąglane w dół)\n- Przy Rezonansie zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 1 losowy najmniej posiadany Zasób E.G.O (2 razy na turę)",
+      "kr_sha256": "049b09cd86643bc74ef79c4ebc668a6e26f652b977136f533104ff6637a1a77e",
+      "en_sha256": "b9bbd19988fac83e304fdf2b024831427298ee16a37262ac75f0f114b03df551",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyOne].name": {
+      "pl": "Cień Projekcji [Niedźwiedzi Łów]",
+      "kr_sha256": "5341d1d171b627a746816cfc55fda126de029dffce56b955e679bb0457749bdf",
+      "en_sha256": "bf4d9a17ac339b6c678904112c05ab620b4b74056c131fd6536a74af9856a4a7",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyOne].summary": {
+      "pl": "Umiejętności Podpalenia i „Specjalnego Podpalenia” zadają więcej obrażeń; obniżanie Progu Oszołomienia zadaje obrażenia od Gniewu",
+      "kr_sha256": "1eaeea894d5f9c7a2966dbe7a2dcc809c2449241fb92a6ee6b1f8a437fc7256d",
+      "en_sha256": "754122a15587e1a097987e3281011da180d6f2a18fe8c303cd9c1d0a655ae90b",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyTwoForUI].desc": {
+      "pl": "- Umiejętności ataku Tożsamości, które <color=#f8c200>należą do Grzechu Pychy albo nakładają, zyskują lub zużywają Siłę Oddechu bądź Licznik Oddechu</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Przy użyciu Umiejętności Grzechu Pychy <color=#f8c200>zyskuje Siłę Oddechu równą randze Umiejętności</color> oraz Licznik Oddechu +2 (2 razy na turę na Grzesznika; Umiejętności E.G.O liczą się jako ranga 3)\n- Tożsamości <color=#f8c200>z Rodu Ostrza</color> otrzymują następujące efekty:\n· Usunięcie pierwszego Progu Oszołomienia tej jednostki\n· Moc Końcowa +2\n· Obrażenia zadawane wrogom +30%, otrzymywane -15%",
+      "kr_sha256": "a76b2bb6cb5b3cfa3afa38e9c7a07d7ef01eca0a8b67076869e010e844fb05d5",
+      "en_sha256": "c23e01ec9f30c5895b81f635ee6d6011d8196bb9639bc3117a71901a1552dabb",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyTwoForUI].name": {
+      "pl": "Cień Projekcji [Tygrysi Łów]",
+      "kr_sha256": "9e42321231d3f47def449ad9a07b904bc15ec009e8805b207dece1c68b288a6c",
+      "en_sha256": "7d41ec2559be20b831d6d662ccf14536cbb8c9e1d06573eebb1072ee8b41dda5",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyTwo].desc": {
+      "pl": "- Umiejętności ataku Tożsamości, które należą do Grzechu Pychy albo nakładają, zyskują lub zużywają Siłę Oddechu bądź Licznik Oddechu, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Przy użyciu Umiejętności Grzechu Pychy zyskuj Siłę Oddechu równą randze Umiejętności oraz Licznik Oddechu +2 (2 razy na turę na Grzesznika; Umiejętności E.G.O liczą się jako ranga 3)\n- Tożsamości z Rodu Ostrza otrzymują następujące efekty:\n· Usunięcie pierwszego Progu Oszołomienia tej jednostki\n· Moc Końcowa +2\n· Obrażenia zadawane wrogom +30%, otrzymywane -15%",
+      "kr_sha256": "671611e76b89e5d571d2a789afe7c7b070f8c9e488e864f2edcb7b7e6ad22783",
+      "en_sha256": "ae02e131e9e028fd3311502bf9dd0f857e1edaeb1e6d4cf50a7fb7df57cb2eb7",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyTwo].name": {
+      "pl": "Cień Projekcji [Tygrysi Łów]",
+      "kr_sha256": "9e42321231d3f47def449ad9a07b904bc15ec009e8805b207dece1c68b288a6c",
+      "en_sha256": "7d41ec2559be20b831d6d662ccf14536cbb8c9e1d06573eebb1072ee8b41dda5",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012AllyTwo].summary": {
+      "pl": "Umiejętności Oddechu i Grzechu Pychy zadają więcej obrażeń; przy użyciu Umiejętności Grzechu Pychy zyskuje Oddech",
+      "kr_sha256": "d4a0f51c6a441c79d6af133a0a12d48a5a8b0c3c11f1bb01df98cbbc5b52b690",
+      "en_sha256": "0fc9eb3d20b6f39b54ef0bf0dc401a5ef6f212e9415a9c9640dbcf451c9369a5",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012EnemyOne].desc": {
+      "pl": "- Tarcza otrzymuje obrażenia +50% od Podpalenia i „Specjalnego Podpalenia” (zaokrąglane w dół)",
+      "kr_sha256": "fe0a0681ddcc71bb2a79ddc6e8b2ed043ced4250c802fde468374816a632b3a4",
+      "en_sha256": "3306310dbda9afe52a782af1a0f4152d748e3389523180e5de4c57c5de5ac23d",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012EnemyOne].name": {
+      "pl": "Cień Projekcji [Niedźwiedzi Łów]",
+      "kr_sha256": "5341d1d171b627a746816cfc55fda126de029dffce56b955e679bb0457749bdf",
+      "en_sha256": "bf4d9a17ac339b6c678904112c05ab620b4b74056c131fd6536a74af9856a4a7",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012HardOne].desc": {
+      "pl": "- Maks. HP +25%\n- Poczytalność nie spada poniżej 0\n- [Efekt wyłącznie dla Im Gyeong-eopa] Przy użyciu „Miecza Ojczyzny [Sal] – Powrót do Postawy” i „Miecza Ojczyzny [Sal] – Doszlifowanie Ostrza”, jeżeli Licznik Oddechu tej jednostki wynosi 5 lub mniej, zyskuje Licznik Oddechu +2",
+      "kr_sha256": "bd600368544e5cc590ca99ae1295a6bffb37fd87e22ed1a93ff3f84b569484f4",
+      "en_sha256": "a140b77f24ac47a4a8d97d21d54e6edd63c73c58f7e4a0c24a0d778b623e76d6",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012HardOne].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012HardTwoForUI].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +25%\n- Poczytalność nie spada poniżej 0\n- [Efekt wyłącznie dla Im Gyeong-eopa] Przy użyciu „Miecza Ojczyzny [Sal] – Powrót do Postawy” lub „Miecza Ojczyzny [Sal] – Doszlifowanie Ostrza”, jeżeli <color=#ff0000>Licznik Oddechu tej jednostki wynosi 5 lub mniej</color>, zyskuje Licznik Oddechu +2\n- [Efekt wyłącznie 2. fazy] Gdy Sztuka Miecza Ojczyzny [Sal] <color=#ff0000>zostaje zresetowana do 5</color> przez pasywną Umiejętność „Sztuka Miecza Ojczyzny [Sal] – Zmiana Formy Walki”, w zależności od Formy Bojowej Ojczyzny tej jednostki <color=#ff0000>dodatkowo zyskuje lub traci 2</color> Sztuki Miecza Ojczyzny [Sal]\n· Forma Bojowa Ojczyzny – Niedźwiedzi Łów: zyskuje\n· Forma Bojowa Ojczyzny – Tygrysi Łów: traci",
+      "kr_sha256": "ae963898353b2077f8b10ad663be9f3e435312c626b071620b540c8be7d43de9",
+      "en_sha256": "51e982fc326409a884330d4e99ad975aa932dfbb7441a424077d2e72ff792cc8",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012HardTwoForUI].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012HardTwo].desc": {
+      "pl": "- Maks. HP +25%\n- Poczytalność nie spada poniżej 0\n- [Efekt wyłącznie dla Im Gyeong-eopa] Przy użyciu „Miecza Ojczyzny [Sal] – Powrót do Postawy” i „Miecza Ojczyzny [Sal] – Doszlifowanie Ostrza”, jeżeli Licznik Oddechu tej jednostki wynosi 5 lub mniej, zyskuje Licznik Oddechu +2\n- [Efekt wyłącznie 2. fazy] Gdy Sztuka Miecza Ojczyzny [Sal] zostaje zresetowana do 5 przez pasywną Umiejętność „Sztuka Miecza Ojczyzny [Sal] – Zmiana Formy Walki”, w zależności od Formy Bojowej Ojczyzny tej jednostki dodatkowo zyskuje lub traci 2 Sztuki Miecza Ojczyzny [Sal]\n· Forma Bojowa Ojczyzny – Niedźwiedzi Łów: zyskuje\n· Forma Bojowa Ojczyzny – Tygrysi Łów: traci",
+      "kr_sha256": "8179855cc38efd6aab3fd1e6c7536da8bc4170d77e1b2558db9a29de98a0b132",
+      "en_sha256": "f8a1c9b1a526be2cbad587df49b53102109bde28cbb1d430f369e4d2cd98c873",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuff5012HardTwo].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeiheng1stPhaseForUI].desc": {
+      "pl": "- Każda Tożsamość na polu bitwy <color=#f8c200>usuwa 1 Próg Oszołomienia</color> i zyskuje +8 do Podstawowego Poziomu Ataku i +8 do Podstawowego Poziomu Obrony (nie kumuluje się)\n- Przy <color=#f8c200>Rezonansie</color> zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 1 losowy najmniej posiadany Zasób E.G.O (2 razy na turę)\n- Umiejętności E.G.O zadają obrażenia +50%\n- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Rozdarcie</color> albo należą do Grzechu <color=#f8c200>Obżarstwa</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Gdy Tożsamość prowadzi Starcie z wrogiem, zyskuje Moc Starcia +1 za każde 2 <color=#f8c200>Spętania</color> na głównym celu (maks. 2)",
+      "kr_sha256": "85471cb1bfd48994b32c975b044fd632c54206ecae338e6e42f658fe6ee49ebd",
+      "en_sha256": "f4736e66a815c7d2bc30ac161f2d5670fd89f34df9a41efb5092f03a2b32e5fa",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeiheng1stPhaseForUI].name": {
+      "pl": "Cień Projekcji [Chachihu]",
+      "kr_sha256": "0bce1c9442c970072cb2de12194ecedd20899fda3b1fe225d365e7aefba4ff9a",
+      "en_sha256": "5a07f5568800b1c620263e776675ed3a84b26a10b1aa01f82f8972095d19947e",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeiheng2ndPhaseForUI].desc": {
+      "pl": "- Każda Tożsamość na polu bitwy <color=#f8c200>usuwa 1 Próg Oszołomienia</color> i zyskuje +15 do Podstawowego Poziomu Ataku i +15 do Podstawowego Poziomu Obrony (nie kumuluje się)\n- Przy <color=#f8c200>Rezonansie</color> zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 2 losowe najmniej posiadane Zasoby E.G.O (2 razy na turę)\n- Umiejętności E.G.O zadają obrażenia +50%\n- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Podpalenie lub „Specjalne Podpalenie”</color> albo należą do Grzechu <color=#f8c200>Gniewu</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)",
+      "kr_sha256": "ee8405472c2623bf6f69735c4af8168c06de7880cf922731b4d19f77b5a657ea",
+      "en_sha256": "150b76f760a66b4dca35045640aa9e0adbfc4be90fddda5f74432a324708b7af",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeiheng2ndPhaseForUI].name": {
+      "pl": "Cień Projekcji [Gwiazda Tiantui]",
+      "kr_sha256": "78af62428c5bbcd106c1d21c9a510fae43928b6e11296b1a57912be6964a9009",
+      "en_sha256": "f144ca48fc4fdd26b883a7dbb488cdb6ac55b95bce32408b57d9f3de723979ca",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHardForUI].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +80%\n- Poczytalność nie spada poniżej 0\n- Celom posiadającym <color=#ff0000>Zdobycz</color> zadaje obrażenia +50% (nie działa, jeśli cel ma wyposażone Umiejętności obrony), a otrzymuje od nich -50%\n- Jeżeli przy użyciu Umiejętności „Roztrzaskujące Cięcie [爆碎斬]” ma co najmniej 3 <color=#ff0000>Pociski Tygrysiego Znaku</color>, zadaje obrażenia +100%\n- [Efekt wyłącznie 2. fazy]\n· Przy użyciu Umiejętności, <color=#ff0000>jeżeli główny cel posiada Zdobycz</color>, <color=#ff0000>zyskuje Moc Bazową +5 i zadaje obrażenia +200%</color> (nie działa, jeśli cel ma wyposażone Umiejętności obrony), a wszystkie Monety tej Umiejętności stają się <color=#ff0000>Niezniszczalnymi Monetami</color>\n· Po przegranym Starciu z celem posiadającym <color=#ff0000>Zdobycz</color> zyskuje 1 <color=#ff0000>Przecinające Cięcie [切斬]</color>",
+      "kr_sha256": "3e3a4f7ed780697e80a59700f75d0ecde060bae11b50f57d3380e9d715a504ca",
+      "en_sha256": "4a30e2e4d011c1827285794084f7ece1165e500667b3c20e047cc780945fc168",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHardForUI].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHardTwo].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +80%\n- Poczytalność nie spada poniżej 0\n- Celom posiadającym <color=#ff0000>Zdobycz</color> zadaje obrażenia +50% (nie działa, jeśli cel ma wyposażone Umiejętności obrony), a otrzymuje od nich -50%\n- Jeżeli przy użyciu Umiejętności „Roztrzaskujące Cięcie [爆碎斬]” ma co najmniej 3 <color=#ff0000>Pociski Tygrysiego Znaku</color>, zadaje obrażenia +100%\n- [Efekt wyłącznie 2. fazy]\n· Przy użyciu Umiejętności, <color=#ff0000>jeżeli główny cel posiada Zdobycz</color>, <color=#ff0000>zyskuje Moc Bazową +5 i zadaje obrażenia +200%</color> (nie działa, jeśli cel ma wyposażone Umiejętności obrony), a wszystkie Monety tej Umiejętności stają się <color=#ff0000>Niezniszczalnymi Monetami</color>\n· Po przegranym Starciu z celem posiadającym <color=#ff0000>Zdobycz</color> zyskuje 1 <color=#ff0000>Przecinające Cięcie [切斬]</color>",
+      "kr_sha256": "3e3a4f7ed780697e80a59700f75d0ecde060bae11b50f57d3380e9d715a504ca",
+      "en_sha256": "9df95688a4c427ba5c48975e53e62fb6e44bc373019dfe8a9f279359db20fe2c",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHardTwo].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHardTwo].summary": {
+      "pl": "Utrapienie na poziomie trudności Hard",
+      "kr_sha256": "1e5f1d3b5bfe9fe00fba975cd129abe3156fe00ba9b0425d23cd70f8fa5fa33b",
+      "en_sha256": "5662765fdbdbf2dcf24d5fb89e1b5fffb240d9a142abc56568705732281c9e2e",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHard].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +80%\n- Poczytalność nie spada poniżej 0\n- Celom posiadającym <color=#ff0000>Zdobycz</color> zadaje obrażenia +50% (nie działa, jeśli cel ma wyposażone Umiejętności obrony), a otrzymuje od nich -50%\n- Jeżeli przy użyciu Umiejętności „Roztrzaskujące Cięcie [爆碎斬]” ma co najmniej 3 <color=#ff0000>Pociski Tygrysiego Znaku</color>, zadaje obrażenia +100%",
+      "kr_sha256": "f676b860628bb0c8cfceee541d1e3432099252d8001d1d4d877f6d5d29461d85",
+      "en_sha256": "aa641752cac3f811874c138fb25804eceb9e8f9d40efcd73428d6df26c227abd",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHard].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengHard].summary": {
+      "pl": "Utrapienie na poziomie trudności Hard",
+      "kr_sha256": "1e5f1d3b5bfe9fe00fba975cd129abe3156fe00ba9b0425d23cd70f8fa5fa33b",
+      "en_sha256": "5662765fdbdbf2dcf24d5fb89e1b5fffb240d9a142abc56568705732281c9e2e",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengTwo].desc": {
+      "pl": "- Każda Tożsamość na polu bitwy <color=#f8c200>usuwa 1 Próg Oszołomienia</color> i zyskuje +15 do Podstawowego Poziomu Ataku i +15 do Podstawowego Poziomu Obrony (nie kumuluje się)\n- Przy <color=#f8c200>Rezonansie</color> zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 2 losowe najmniej posiadane Zasoby E.G.O (2 razy na turę)\n- Umiejętności E.G.O zadają obrażenia +50%\n- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Podpalenie lub „Specjalne Podpalenie”</color> albo należą do Grzechu <color=#f8c200>Gniewu</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)",
+      "kr_sha256": "ee8405472c2623bf6f69735c4af8168c06de7880cf922731b4d19f77b5a657ea",
+      "en_sha256": "150b76f760a66b4dca35045640aa9e0adbfc4be90fddda5f74432a324708b7af",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeihengTwo].name": {
+      "pl": "Cień Projekcji [Gwiazda Tiantui]",
+      "kr_sha256": "78af62428c5bbcd106c1d21c9a510fae43928b6e11296b1a57912be6964a9009",
+      "en_sha256": "f144ca48fc4fdd26b883a7dbb488cdb6ac55b95bce32408b57d9f3de723979ca",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeiheng].desc": {
+      "pl": "- Każda Tożsamość na polu bitwy <color=#f8c200>usuwa 1 Próg Oszołomienia</color> i zyskuje +8 do Podstawowego Poziomu Ataku i +8 do Podstawowego Poziomu Obrony (nie kumuluje się)\n- Przy <color=#f8c200>Rezonansie</color> zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 1 losowy najmniej posiadany Zasób E.G.O (2 razy na turę)\n- Umiejętności E.G.O zadają obrażenia +50%\n- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Rozdarcie</color> albo należą do Grzechu <color=#f8c200>Obżarstwa</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Gdy Tożsamość prowadzi Starcie z wrogiem, zyskuje Moc Starcia +1 za każde 2 <color=#f8c200>Spętania</color> na głównym celu (maks. 2)",
+      "kr_sha256": "85471cb1bfd48994b32c975b044fd632c54206ecae338e6e42f658fe6ee49ebd",
+      "en_sha256": "f4736e66a815c7d2bc30ac161f2d5670fd89f34df9a41efb5092f03a2b32e5fa",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffLeiheng].name": {
+      "pl": "Cień Projekcji [Chachihu]",
+      "kr_sha256": "0bce1c9442c970072cb2de12194ecedd20899fda3b1fe225d365e7aefba4ff9a",
+      "en_sha256": "5a07f5568800b1c620263e776675ed3a84b26a10b1aa01f82f8972095d19947e",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwth1stPhaseForUI].desc": {
+      "pl": "- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Krwawienie lub „Specjalne Krwawienie”</color> albo należą do Grzechu <color=#f8c200>Żądzy</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Wrogowie otrzymują 1,5x obrażeń od <color=#f8c200>Krwawienia</color> (zaokrąglane w dół)\n- Przy <color=#f8c200>Rezonansie Absolutnym</color> zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 1 losowy najmniej posiadany Zasób E.G.O (2 razy na turę)",
+      "kr_sha256": "408e65c325f3816f0fbdc66aede05e893b1fa70eccc81cf1b42e75db43810e8f",
+      "en_sha256": "a259247d34d9f80bf0aed9ae9d5b13b81e7293bb22916e3bd1c29db2d8f1090a",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwth1stPhaseForUI].name": {
+      "pl": "Cień Projekcji [Rouge]",
+      "kr_sha256": "5030c8bcfd3fb7219cf98394cfa5e646b3ba02ee4277f0157c9ceae4869b4bc4",
+      "en_sha256": "58bc1598f7bb6b792c8fc619debceadd13151be57a0f4cfc57fb1f0b5e539d9c",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwth2ndPhaseForUI].desc": {
+      "pl": "- Umiejętności ataku Tożsamości, które <color=#f8c200>nakładają Zatonięcie lub „Specjalne Zatonięcie”</color> albo należą do Grzechu <color=#f8c200>Posępności</color>, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Na początku tury wrogowie w stanie <color=#f8c200>Paniki</color> otrzymują 3 Wrażliwości\n- Tożsamości <color=#f8c200>frakcji Palca</color> zadają wrogom obrażenia +15%, a otrzymują -15%",
+      "kr_sha256": "a9162ffcd968a5bafd0108de1cb7438afe47c08efa0d1191baed976e0a0fbca8",
+      "en_sha256": "7211556fc7a9fd9f0b7b7b10240f6a4f27e910e7fc69e83e33e14ee747147ecd",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwth2ndPhaseForUI].name": {
+      "pl": "Cień Projekcji [Bleu]",
+      "kr_sha256": "88b6587113846d40b87166cd79d9726856dae67b50ee80029cf4f9238340c2ed",
+      "en_sha256": "9d6cdc1b03faca585b7a61a0612ad85a146858afbb76e160432786df1cc77527",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthEnemyTwo].desc": {
+      "pl": "- Na początku tury, jeżeli jednostka jest w stanie Paniki, otrzymuje 3 Wrażliwości",
+      "kr_sha256": "ed17bbed6c7628866d18fae5fbe2d5722cd74cc8f296d0201012f9b949fc004c",
+      "en_sha256": "9b07fc1ff49fd39eaef19bdf187a0ece5b3803cd52fff533745e2aa31d9c0f12",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthEnemyTwo].name": {
+      "pl": "Cień Projekcji [Bleu]",
+      "kr_sha256": "88b6587113846d40b87166cd79d9726856dae67b50ee80029cf4f9238340c2ed",
+      "en_sha256": "9d6cdc1b03faca585b7a61a0612ad85a146858afbb76e160432786df1cc77527",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthEnemyTwo].summary": {
+      "pl": "W stanie Paniki jednostka otrzymuje Wrażliwość",
+      "kr_sha256": "db1debb014e267df56595d265fa39a7fdf4a83d8eebaad5edbc5650c5e613863",
+      "en_sha256": "0ffbcb35dac662678db8fd08771ce30af1cb70361c7b67370bb7714b89d708db",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthEnemy].desc": {
+      "pl": "- Otrzymujesz 1,5x obrażeń od Krwawienia (zaokrąglane w dół)",
+      "kr_sha256": "5e24cf82da7fd3e8c1ccc0b7f5bfede9b99a895b99f396440c54ea5f394d8f29",
+      "en_sha256": "9fdbcc2ecc9354d358b4518733a5af63253e3f64a63e81a909d89b84121ef377",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthEnemy].name": {
+      "pl": "Cień Projekcji [Rouge]",
+      "kr_sha256": "5030c8bcfd3fb7219cf98394cfa5e646b3ba02ee4277f0157c9ceae4869b4bc4",
+      "en_sha256": "58bc1598f7bb6b792c8fc619debceadd13151be57a0f4cfc57fb1f0b5e539d9c",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthEnemy].summary": {
+      "pl": "Otrzymujesz więcej obrażeń od Krwawienia",
+      "kr_sha256": "b52fdc167c141f8fc950542c21406aef3205d4f35a83caf6967a57981a38da31",
+      "en_sha256": "425a1428e823a3b9d1c98a3d0adc39dc9fa967553dc69ba732fd4fc1f8ace3b2",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHardForUI].desc": {
+      "pl": "- <color=#ff0000>Maks. HP</color> +25%\n- Umiejętności nakładają o 1 więcej <color=#ff0000>Siły Krwawienia, Siły Zatonięcia, Rozdartej Barwy [Rouge] i Rozdartej Barwy [Bleu]</color>\n- Jeżeli cel posiada <color=#ff0000>Palette Vibrante</color>, Moc Starcia +2 i Moc Bazowa +1\n- [Efekt wyłącznie 2. fazy] Na początku tury, w której ta jednostka użyje „Wybuchającego Pulsującego Szkarłatu pod Twoją Skórą”, za każdego Grzesznika z <color=#ff0000>Palette Vibrante</color> <color=#ff0000>odzyskuje 10 Poczytalności</color> (maks. 30)",
+      "kr_sha256": "2646c03a3d1db2a8eb5b4c494d8e048345d8e002ef12102eda9c5b3a122c2964",
+      "en_sha256": "f6f07827cdb69fe6d7173d6d887947a6995f38faab5557ac8804d0619c10c9b0",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHardForUI].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHardTwo].desc": {
+      "pl": "- Maks. HP +25%\n- Umiejętności nakładają o 1 więcej Siły Krwawienia, Siły Zatonięcia, Rozdartej Barwy [Rouge] i Rozdartej Barwy [Bleu]\n- Jeżeli cel posiada Palette Vibrante, Moc Starcia +2 i Moc Bazowa +1\n- [Efekt wyłącznie 2. fazy] Na początku tury, w której ta jednostka użyje „Wybuchającego Pulsującego Szkarłatu pod Twoją Skórą”, za każdego Grzesznika z Palette Vibrante odzyskuje 10 Poczytalności (maks. 30)",
+      "kr_sha256": "8da5c9916299671be136097d90bdedb7f96e1b72de884c3277693cd9b1689a29",
+      "en_sha256": "39a446cf309722bee5ff5408565d9de2a7d8ddcd186f3830cc59053c2b587bb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHardTwo].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHardTwo].summary": {
+      "pl": "Umiejętności nakładają więcej Siły Krwawienia, Siły Zatonięcia i Rozdartych Barw\nJeżeli cel posiada Palette Vibrante, Moc Starcia i Moc Bazowa rosną",
+      "kr_sha256": "0ea858f816e75ab0c8501d4b2353a5e1333927fd123a99ef261a4a9765d08641",
+      "en_sha256": "14ae7cee6ae4706cb6149f43e41002934a09542b59a433f8c0ef24da1e377817",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHard].desc": {
+      "pl": "- Maks. HP +25%\n- Umiejętności nakładają o 1 więcej Siły Krwawienia, Siły Zatonięcia, Rozdartej Barwy [Rouge] i Rozdartej Barwy [Bleu]\n- Jeżeli cel posiada Palette Vibrante, Moc Starcia +2 i Moc Bazowa +1",
+      "kr_sha256": "b1e12dd9239928e9552dcc9faf14f781b4f90a1a4c09f1bf9c93c12af3747430",
+      "en_sha256": "6f1d86dd1bb3857b795d3992e6c79c9c7e8bada1d36e3e1600177545009705db",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHard].name": {
+      "pl": "Utrapienie",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthHard].summary": {
+      "pl": "Umiejętności nakładają więcej Siły Krwawienia, Siły Zatonięcia i Rozdartych Barw\nJeżeli cel posiada Palette Vibrante, Moc Starcia i Moc Bazowa rosną",
+      "kr_sha256": "0ea858f816e75ab0c8501d4b2353a5e1333927fd123a99ef261a4a9765d08641",
+      "en_sha256": "14ae7cee6ae4706cb6149f43e41002934a09542b59a433f8c0ef24da1e377817",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthTwo].desc": {
+      "pl": "- Umiejętności ataku, które nakładają Zatonięcie lub „Specjalne Zatonięcie” albo należą do Grzechu Posępności, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Tożsamości frakcji Palca zadają wrogom obrażenia +15%, a otrzymują -15%",
+      "kr_sha256": "b8862e0dbdc5365e378e6530f5f0073ecba83fb28168fba7c996919924427ded",
+      "en_sha256": "09d017f3f030dd9757dbf7e7f2fc4149314bf75e06444fdcad3e27c3ad6384fd",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthTwo].name": {
+      "pl": "Cień Projekcji [Bleu]",
+      "kr_sha256": "88b6587113846d40b87166cd79d9726856dae67b50ee80029cf4f9238340c2ed",
+      "en_sha256": "9d6cdc1b03faca585b7a61a0612ad85a146858afbb76e160432786df1cc77527",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwthTwo].summary": {
+      "pl": "Umiejętności Zatonięcia, „Specjalnego Zatonięcia” i Grzechu Posępności zadają więcej obrażeń",
+      "kr_sha256": "2ea5f7292fafb9ebe9abc796294179757fe95e3f22c7417d29eace4f046bfae5",
+      "en_sha256": "78e3e981f03f16c10430d0d2399ffad2fb45f7f25d6755e9efb203473b607bf2",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwth].desc": {
+      "pl": "- Umiejętności ataku, które nakładają Krwawienie lub „Specjalne Krwawienie” albo należą do Grzechu Żądzy, zadają obrażenia +25% (w przypadku Umiejętności E.G.O zamiast tego obrażenia +100%)\n- Przy Rezonansie Absolutnym zyskuj 1 Zasób E.G.O Grzechu, który go wywołał, oraz 1 losowy najmniej posiadany Zasób E.G.O (2 razy na turę)",
+      "kr_sha256": "031ab4f86cee21e5f19b223fee1d705f0fefc4d7c6746d4d548d0bed5e61901d",
+      "en_sha256": "c183caf40211afad306a48beb275468509eef597c16d0ca0d74ab968c0d731c4",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwth].name": {
+      "pl": "Cień Projekcji [Rouge]",
+      "kr_sha256": "5030c8bcfd3fb7219cf98394cfa5e646b3ba02ee4277f0157c9ceae4869b4bc4",
+      "en_sha256": "58bc1598f7bb6b792c8fc619debceadd13151be57a0f4cfc57fb1f0b5e539d9c",
+      "origin": "ai"
+    },
+    "dataList[id=FavorBuffTwth].summary": {
+      "pl": "Umiejętności Krwawienia, „Specjalnego Krwawienia” i Grzechu Żądzy zadają więcej obrażeń",
+      "kr_sha256": "f820e52030353b854db8387bd1d1699ca8a093453423069710ed6eee0af7b1d4",
+      "en_sha256": "84c9b1a7579f159e0a8a4ac596908391291760630fbd22553b4c23b8e72a8b10",
+      "origin": "ai"
+    },
+    "dataList[id=HugeIrritationReflectrial].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Obrażeń i 1 Wzrost Mocy za każde 15% utraconego HP (każdy maks. 5)\n- Umiejętności nakładają o 3 więcej Siły Wstrząsu i o 1 więcej Licznika Wstrząsu\n- Jeżeli Szybkość tej jednostki jest wyższa od Szybkości celu o 3 lub więcej, zadaje obrażenia +(różnica Szybkości względem celu x 5)% (maks. 40%)\n- Ostatnie Monety Umiejętności „Podwójne Cięcie – Wybuch” i „Potrójne Cięcie – Wybuch” zamieniają się w Niezniszczalne Monety",
+      "kr_sha256": "41590d545f67ef8ea4c7e4c62f4a27e01e3e050be3408b5604ccdb522fb0fc48",
+      "en_sha256": "45fec4a3a697e5a191ee0d52627f34029937f988bca58c7b57fe617145e6ed1c",
+      "origin": "ai"
+    },
+    "dataList[id=HugeIrritationReflectrial].name": {
+      "pl": "Shin (心) - Gwiazda Tiantui [天退星]",
+      "kr_sha256": "96832d5081466e531d181a21e392ba3764f6f234a4db2ecd6c49d8cfb9cbec64",
+      "en_sha256": "eddc03efce2cf256fde5f91e1ba2d3b64b58e042c1c1322a48384dbf8e851f62",
+      "origin": "ai"
+    },
+    "dataList[id=Prey_leiheng].desc": {
+      "pl": "- Podczas Starcia z wrogiem Moc Starcia -5\n- Na początku walki:\n· Jeżeli wyposażona jest Umiejętność ataku, obrażenia zadawane Lei Hengowi Umiejętnościami ataku maleją o 50%\n· Jeżeli wyposażona jest Umiejętność obrony, obrażenia otrzymywane od Lei Henga maleją o 75%\n- Jeżeli ta jednostka wygra Starcie z Lei Hengiem mając ten efekt, zyskuje 3 najmniej posiadane Zasoby E.G.O\n- Znika na koniec tury, a jednostka odzyskuje 10 Poczytalności",
+      "kr_sha256": "23f0d6f22443ba62385be57ab3bffaca4e33b6d5b44cae829a9009503914160e",
+      "en_sha256": "13630763abbf69fcf0069b8eca0eec6118d860fd730fcc6c0178ebb15dcca8a3",
+      "origin": "ai"
+    },
+    "dataList[id=Prey_leiheng].name": {
+      "pl": "Zdobycz",
+      "kr_sha256": "610cb599d305bd34772b543674c958521c4ac8d050b77aad28c242c3e38fb15c",
+      "en_sha256": "c3abf0bb898513536843fe2d479377b22059128f533fda81d4c15210fb8cbb97",
+      "origin": "ai"
+    },
+    "dataList[id=RicardoBookRaid].desc": {
+      "pl": "Maks. ładunków: 30\nOtrzymywane obrażenia +3% za ładunek",
+      "kr_sha256": "f1ce2039e26d4e7c434888ccaa8c237021d96c48dc330e67454ed4a0950e7683",
+      "en_sha256": "e1dff106cf5dab474e63e60492c3fb1aa3f659ebde2ec8ddb41346c3a8d2a2f0",
+      "origin": "ai"
+    },
+    "dataList[id=RicardoBookRaid].name": {
+      "pl": "Zapisano w Księdzie",
+      "kr_sha256": "81cb5eceadca61b9250840eef90171139be925e91edad825d441b57514114f08",
+      "en_sha256": "1f9a2fe7427b21b36e9595eb583f23ec5542a48ce5d081249847cd34d20eb147",
+      "origin": "ai"
+    },
+    "dataList[id=RicardoJokeRaid].desc": {
+      "pl": "Na koniec tury traci 1 ładunek\nDopóki aktywny jest ten efekt, obrażenia od Umiejętności oraz obniżenie Progu Oszołomienia z Wyładowania Wstrząsu są podwajane",
+      "kr_sha256": "79103090502b19e14d1a7226cc8887b87837d6a1b67097e793265279ecf002b3",
+      "en_sha256": "cc487d975d6bac3721bbccdfb0abd0c627aee7ec52cd6254512f14e9293fcbbd",
+      "origin": "ai"
+    },
+    "dataList[id=RicardoJokeRaid].name": {
+      "pl": "Test Starszego Brata",
+      "kr_sha256": "bff3b29d8619763c01f84a938d3e5e695bc9a26d4070cede5f3502ae6e27d04d",
+      "en_sha256": "1ca3b7379e8868690be242bec0f4325c87b4d59364f86a9076c2e4ee24a2a816",
+      "origin": "ai"
+    },
+    "dataList[id=RicardoTattooRaid].desc": {
+      "pl": "Maks. ładunków: 300\nZa każde 10 ładunków Umiejętności tej jednostki zyskują Poziom Ataku +1",
+      "kr_sha256": "5ba4f32f4d2b852b6713e179615c00e4e0c32973a1a536ab3840bcac014029a9",
+      "en_sha256": "931c015b5d3083e2a4262e24b87daf0ae9e8310477150cfee88903a3e5e792e8",
+      "origin": "ai"
+    },
+    "dataList[id=RicardoTattooRaid].name": {
+      "pl": "Tatuaż Zemsty",
+      "kr_sha256": "a86de75e65c09cf73584bfdaa0dfe4e3c41f30723938005bd9727618c768b733",
+      "en_sha256": "bad13faac5d5aa3789b60b854659b1b6f7b4256bf2df7ceaa2b03dbe92f8863e",
+      "origin": "ai"
+    }
+  }
+}

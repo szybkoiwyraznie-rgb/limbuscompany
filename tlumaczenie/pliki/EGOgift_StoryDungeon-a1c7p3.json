@@ -1,0 +1,304 @@
+{
+  "entries": {
+    "dataList[id=2047].desc": {
+      "pl": "— opis] Przy zdobyciu tego Daru E.G.O stosuje w lochu następujące efekty\n• Poziom Don Kichota rośnie do 50\n• Etap Synchronizacji Tożsamości Don Kichota i etap Splotu Nici E.G.O rosną do 4. etapu\n(jeżeli Poziom, Synchronizacja lub Splot Nici mają wyższe wartości, są zachowywane.)",
+      "kr_sha256": "3e72b8ccd5db64974e3ea310b9820bf1585b36e1e7ae2abee95c6075221f6c30",
+      "en_sha256": "e79b2154dd9c83bee5e3d1af6790a34f0c2b531be3d6ae57786dde76cb4c0da2",
+      "origin": "ai"
+    },
+    "dataList[id=2047].name": {
+      "pl": "— nazwa] Rozbite Marzenie",
+      "kr_sha256": "9183c06c2399533c6ace8ace9b5e36463e11e840ac8bf6c1b23888c2fc90f799",
+      "en_sha256": "b1c28cd76c18f3490dc7979af458f5149874ac330c67924da48183050bd60dc2",
+      "origin": "ai"
+    },
+    "dataList[id=2047].simpleDesc[abilityID=204701].simpleDesc": {
+      "pl": "— opis skrócony] Etap Synchronizacji Tożsamości Don Kichota i etap Splotu Nici E.G.O rosną do 4. etapu",
+      "kr_sha256": "fc133c88c0322a70a7cdf0b9802f7365ef9d97e1f19f9c88b2bfa5d7f10085a5",
+      "en_sha256": "f8c9fe2a4e51033e4b86b2578b607a1ac0795654544b6950077d40558f1352ed",
+      "origin": "ai"
+    },
+    "dataList[id=2047].simpleDesc[abilityID=2047].simpleDesc": {
+      "pl": "— opis skrócony] Poziom Don Kichota rośnie do 50",
+      "kr_sha256": "7be792d7ec35c32bff6b3511b86a9d52624cbbd4ac0d2c49f564df6ed8649780",
+      "en_sha256": "b0aabaf3d7da8a1fce827c7bdb93677797b30aa1500fe4099aea5e1e09bfbc5a",
+      "origin": "ai"
+    },
+    "dataList[id=2048].desc": {
+      "pl": "— opis] Przy trafieniu celu z sumą [Laceration], Szczególnego Krwawienia i [Burst] co najmniej 10, zyskuje 1 Moc [Breath] i Liczniki [Breath] +1 (maks. 3 razy na Umiejętność)",
+      "kr_sha256": "c7cc905b8d920fb3487cda9b50b7a679a1200e6c99c183927ff567fac37fc53d",
+      "en_sha256": "4e23bb65e06cfa9121faa59921a8e2c34b30785cec406e22e42dc9e0202d0a9b",
+      "origin": "ai"
+    },
+    "dataList[id=2048].name": {
+      "pl": "— nazwa] Bilet Całodniowy La Manchaland",
+      "kr_sha256": "5eec8d3456fdb636b0b770426b2758a5d5e467e44a7621694d735365e8641acf",
+      "en_sha256": "a50e054462a5cfe8cc5e83bf69ba4f222441898d6d60f1e92f46ca7bba832ccb",
+      "origin": "ai"
+    },
+    "dataList[id=2048].simpleDesc[abilityID=2048].simpleDesc": {
+      "pl": "— opis skrócony] Przy trafieniu celu z sumą [Laceration], Szczególnego Krwawienia i [Burst] co najmniej 10, zyskuje 1 Moc [Breath] i Liczniki [Breath] +1",
+      "kr_sha256": "b05c48b355ca96a3e8a26fed6e144abb96a42acfd06cf394447f653a26ede499",
+      "en_sha256": "890a9f01d81e13a8fd1aafd621826017356f95601e21804fee23f8fd7bad78a1",
+      "origin": "ai"
+    },
+    "dataList[id=2049].desc": {
+      "pl": "— opis] Na początku 1. tury spotkania wszystkie Postacie zyskują 4 Moc [Laceration] i 4 Liczniki [Laceration].",
+      "kr_sha256": "2a26ec72d1da3341b2f29280b37d9eb6385fb12cb54ccaa0ca11c4cb7fe56f6a",
+      "en_sha256": "a477da30b23ad8685ff551f9d009dae05a282654009ada1d4a8c1fe2e7e81a9d",
+      "origin": "ai"
+    },
+    "dataList[id=2049].name": {
+      "pl": "— nazwa] Przepustek La Manchalandu",
+      "kr_sha256": "873bcc649dc8af828e5cb1e882ac9c38909cea3acac9c5e99797bddecd1705b5",
+      "en_sha256": "78d3de58475d6a4c243669c78175334fed2b03afb2ed0ad4a7afd50016660702",
+      "origin": "ai"
+    },
+    "dataList[id=2049].simpleDesc[abilityID=2049].simpleDesc": {
+      "pl": "— opis] Na początku 1. tury spotkania wszystkie Postacie zyskują 4 Moc [Laceration] i 4 Liczniki [Laceration].",
+      "kr_sha256": "2a26ec72d1da3341b2f29280b37d9eb6385fb12cb54ccaa0ca11c4cb7fe56f6a",
+      "en_sha256": "a477da30b23ad8685ff551f9d009dae05a282654009ada1d4a8c1fe2e7e81a9d",
+      "origin": "ai"
+    },
+    "dataList[id=2050].desc": {
+      "pl": "— opis] Przy zabiciu wroga obrażeniami Umiejętności, 1 sojusznik o najniższej Poczytalności odzyskuje 8 Poczytalności.\nNa koniec ataku, jeżeli ginie wróg z sumą [Laceration], Szczególnego Krwawienia i [Burst] co najmniej 10, pokonująca go Postać zyskuje 2 [AttackUp] na następną turę. (3 razy na turę)",
+      "kr_sha256": "b8871c6e6354c30bdb82d9d5004e3b10bcda6ce477d4b253fd8a6f8d1e522241",
+      "en_sha256": "019948fc3a14cd0fae9f4ccb6831fb6630dc057047d6bd95b59bffbed391fadb",
+      "origin": "ai"
+    },
+    "dataList[id=2050].name": {
+      "pl": "— nazwa] Znak Zwycięstwa",
+      "kr_sha256": "5ba888ff1e5a101b6a9d5e544f96c2e17307773ce79927c14efc1c8624cd704c",
+      "en_sha256": "d079a07f4df9cb20955ba1e601b2f2ad553d14e55deb34fd96875247620efe94",
+      "origin": "ai"
+    },
+    "dataList[id=2050].simpleDesc[abilityID=205001].simpleDesc": {
+      "pl": "— opis skrócony] Na koniec ataku, jeżeli ginie wróg z sumą [Laceration], Szczególnego Krwawienia i [Burst] co najmniej 10, pokonująca go Postać zyskuje 2 [AttackUp] na następną turę.",
+      "kr_sha256": "0fc33e94dd66d577b33f1ee9e41743d348e27d95c73233e61873b3090f9895a3",
+      "en_sha256": "ff6246b9916c722a24c53e5646fabeb943d65b0ab4c2e88db73ac6b960539f6d",
+      "origin": "ai"
+    },
+    "dataList[id=2050].simpleDesc[abilityID=2050].simpleDesc": {
+      "pl": "— opis skrócony] Przy zabiciu wroga, 1 sojusznik o najniższej obecnej Poczytalności odzyskuje 8 Poczytalności.",
+      "kr_sha256": "bf711fdf561e3faa6553299d5b13df1d5ab0ce7778c2aa214dd505f9d55fe1c0",
+      "en_sha256": "1aa2c8e315269c7e75dd7f99fed1b51d2e2a4ea954800a8f58977d223ec0ba93",
+      "origin": "ai"
+    },
+    "dataList[id=2051].desc": {
+      "pl": "— opis] Gdy 1 sojusznik o najwyższym aktualnym HP% użyje Umiejętności ataku, zyskuje 10 [Laceration], 3 [AttackUp] i 3 [DefenseUp]. (maks. 1 raz na turę)",
+      "kr_sha256": "3c88a6d4430d9a2aa4dbcd8b033ccfff3bd834525b7e20efb53445cebe19b555",
+      "en_sha256": "eac2911dcb62e2af2e1819577ab36b1b0985cd07188641c2216136d0798f7839",
+      "origin": "ai"
+    },
+    "dataList[id=2051].name": {
+      "pl": "— nazwa] Bicz Samoumęczenia",
+      "kr_sha256": "9e7068e950e8c04804b69bcf904739cfc12230e29f0b7c1a1ea11bfaf3731827",
+      "en_sha256": "9efe299e98c514ece111b963da712ffa75e5d3ca10f1a68a5384e168f22a5c69",
+      "origin": "ai"
+    },
+    "dataList[id=2051].simpleDesc[abilityID=2051].simpleDesc": {
+      "pl": "— opis skrócony] Gdy 1 sojusznik o najwyższym aktualnym HP% użyje Umiejętności ataku, zyskuje 10 [Laceration], 3 [AttackUp] i 3 [DefenseUp].",
+      "kr_sha256": "6685d95b4d7dd6061a1b9c73638459c6a1940915e956f6fc206d83d75fc3ff93",
+      "en_sha256": "cfeefa0130d31d98b5651849a84efab470227aab3482da34457e0a5e4de2088d",
+      "origin": "ai"
+    },
+    "dataList[id=2052].desc": {
+      "pl": "— opis] Walki Łańcuchowe: gdy pojawi się nowy wróg, nakłada na niego na początku walki 5 [Laceration] i 3 Liczniki [Laceration].",
+      "kr_sha256": "24b1e938823c2b8e65e6f996176bed3d1360b3a27e5019689b54f09b36538c25",
+      "en_sha256": "a8a881eea147af074b4a90e3d0d5d3017c165dcbfb73db1ae59e4d0b39dfa67c",
+      "origin": "ai"
+    },
+    "dataList[id=2052].name": {
+      "pl": "— nazwa] Maska Parady",
+      "kr_sha256": "870b94329ee785484576acc5f2300eb82c3aa7d5e4c74fbaef4ed77eea348b3e",
+      "en_sha256": "629d30ee8d5791b7f1796f5b9d5ed0c51028a40277b420d522243d93d7e6c5d7",
+      "origin": "ai"
+    },
+    "dataList[id=2052].simpleDesc[abilityID=2052].simpleDesc": {
+      "pl": "— opis] Walki Łańcuchowe: gdy pojawi się nowy wróg, nakłada na niego na początku walki 5 [Laceration] i 3 Liczniki [Laceration].",
+      "kr_sha256": "24b1e938823c2b8e65e6f996176bed3d1360b3a27e5019689b54f09b36538c25",
+      "en_sha256": "a8a881eea147af074b4a90e3d0d5d3017c165dcbfb73db1ae59e4d0b39dfa67c",
+      "origin": "ai"
+    },
+    "dataList[id=2053].desc": {
+      "pl": "— opis] Gdy ginie sojusznik, zyskuje po 1 Zasobie E.G.O Grzechu Umiejętności 1, 2 i 3 tego sojusznika oraz 1 losowy Zasób E.G.O\nNa koniec ataku, jeżeli wróg ginie, zyskuje 1 losowy Zasób E.G.O (maks. 1 raz na Umiejętność)",
+      "kr_sha256": "1d6113eb4e5879111bce6f3d8d66a0dda591ccab07f129f3335c60a197d15d98",
+      "en_sha256": "c4d4febea0f7fa7b84c236bbb03b4a01b5f1992458102d886b4d9ee342b32e3b",
+      "origin": "ai"
+    },
+    "dataList[id=2053].name": {
+      "pl": "— nazwa] Żarłoczny Sześcian",
+      "kr_sha256": "2276abc362a39334c79e34ddd6b068ca375651dccfcc0569fca3dc2e3be2a229",
+      "en_sha256": "29f061ed82dc134ac7741321b5a3d69c2d2e3b18232c9640624de0687dfce191",
+      "origin": "ai"
+    },
+    "dataList[id=2053].simpleDesc[abilityID=205301].simpleDesc": {
+      "pl": "— opis skrócony] Na koniec ataku, jeżeli wróg ginie, zyskuje 1 losowy Zasób E.G.O",
+      "kr_sha256": "4db1ffa0dd72df5134e1baaa4336b140336d3aa1247b90ca31ac935e9a1cbcc3",
+      "en_sha256": "04baccc3e464d16d2174ace5e16233b9d73e8a14947d623389d63f53675fc757",
+      "origin": "ai"
+    },
+    "dataList[id=2053].simpleDesc[abilityID=2053].simpleDesc": {
+      "pl": "— opis skrócony] Gdy ginie sojusznik, zyskuje po 1 Zasobie E.G.O Grzechu Umiejętności 1, 2 i 3 tego sojusznika oraz 1 losowy Zasób E.G.O",
+      "kr_sha256": "5ab9a7f8166831a2f1fda62809c467da5837b6c0d4a2fbc533af1f93f9b50c97",
+      "en_sha256": "4f52513f0c0d103da877fc1824908d1eecf73c45fa46e3c0992986c6a9a05526",
+      "origin": "ai"
+    },
+    "dataList[id=2054].desc": {
+      "pl": "— opis] Na początku 1. tury spotkania Poczytalność Tożsamości na polu maleje o 5, a ta Tożsamość zyskuje 1 [Enhancement] na 3 tury.\nJeżeli Tożsamość jest Krwiożercą, traci 10 Poczytalności; zyskuje 2 [Enhancement] na 3 tury, a przy nakładaniu Mocy [Laceration] i Liczników [Laceration] efektem Umiejętności lub Monety nakłada o 1 więcej",
+      "kr_sha256": "32879db077ac7b9ad0cae6689fb8cfacd9dec23f78474b2537128e5a7ba402b8",
+      "en_sha256": "67c85b3e6e6e3c587f3a483b90820150617f72ba23d5f01abbdd643bb22c8588",
+      "origin": "ai"
+    },
+    "dataList[id=2054].name": {
+      "pl": "— nazwa] Nieustający Głód",
+      "kr_sha256": "787adcdb2bab409d7a152c49856bbcbfac12bdf10b20234971eff55798ed4aa2",
+      "en_sha256": "d2a6a0e1760590ff7ebf51dc468c5966a8bbf7efebab8475f09038c0638cf5e7",
+      "origin": "ai"
+    },
+    "dataList[id=2054].simpleDesc[abilityID=205401].simpleDesc": {
+      "pl": "— opis skrócony] Jeżeli Tożsamość jest Krwiożercą, traci 10 Poczytalności; zyskuje 2 [Enhancement] na 3 tury, a przy nakładaniu Mocy i Liczników [Laceration] efektem Umiejętności lub Monety nakłada o 1 więcej",
+      "kr_sha256": "a0646afc3a30bbc9bcd8b0d5037d4af0cf8d36c3671115b15d923624347b777f",
+      "en_sha256": "28ad33e08479f7d8313b1108858849f9c60311a4b31a3b95864151557317b429",
+      "origin": "ai"
+    },
+    "dataList[id=2054].simpleDesc[abilityID=2054].simpleDesc": {
+      "pl": "— opis skrócony] Na początku 1. tury spotkania Poczytalność Tożsamości na polu maleje o 5, a ta Tożsamość zyskuje 1 [Enhancement] na 3 tury.",
+      "kr_sha256": "e5ce394dc528e3195945d6e7dc9cf519c52105dd997e32e34dec80542295eeb3",
+      "en_sha256": "9ef36697f8e6cf38633e30571edaf5fcad9abb019cb2d120895604b54230b26f",
+      "origin": "ai"
+    },
+    "dataList[id=2055].desc": {
+      "pl": "— opis] Przy wygranej Starciu Umiejętnością Grzechu Pychy odzyskuje 5 Poczytalności.\nPrzy trafieniu po wygranej tą Umiejętnością, zwiększa Liczniki [Laceration] i [Burst] celu o 1 (maks. 4 na Umiejętność)",
+      "kr_sha256": "d8e72b6139b3fe3282316b88b29c1fa68d5ea22bf220c103c4d4a024cc958895",
+      "en_sha256": "237df2e5c9d51e58df66650fcc6b155382081d2e7e2baf61edd94beb9577b390",
+      "origin": "ai"
+    },
+    "dataList[id=2055].name": {
+      "pl": "— nazwa] Małe Marzenie",
+      "kr_sha256": "4120a326aa186e6ab9308a1b5fb3f20ceff85905b2fbc4f6302688fd1a6f3a3e",
+      "en_sha256": "734a236d34ed202d0659eafcf4b85ab562bdc56fcd471c7ac090e132ae3bd783",
+      "origin": "ai"
+    },
+    "dataList[id=2055].simpleDesc[abilityID=2055].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej Starciu Umiejętnością Grzechu Pychy odzyskuje 5 Poczytalności, a przy trafieniu po wygranej Starciu zwiększa Liczniki [Laceration] i Liczniki [Burst] celu o 1",
+      "kr_sha256": "ba97b7436cd698e2666cd5758cf150c9df2f8c5195616e80c3dfa1b40e5a5ee7",
+      "en_sha256": "cfce631207e8e38992a370864e26432a708bb5916e88ea7158bb7f3707a9ce61",
+      "origin": "ai"
+    },
+    "dataList[id=2056].desc": {
+      "pl": "— opis] Przy trafieniu celu z [Laceration] lub Szczególnym Krwawieniem, odzyskuje 2-5 HP.\nUmiejętności zużywające [BloodDinner] zyskują Moc Monet +1",
+      "kr_sha256": "f86a36191f9bf6c19b05a8fa01a0a581b19ef6ca813bb94d4188741819a353ba",
+      "en_sha256": "8976289f939ccd8555ebdf02e9bd2736da9dd8c4953f7b764f6557e264e45d7f",
+      "origin": "ai"
+    },
+    "dataList[id=2056].name": {
+      "pl": "— nazwa] Puste Marzenie",
+      "kr_sha256": "edcf98eace2f3f7a425bbb0474a6d083b792c6a36a0b5cf2d383ccd6d1dea300",
+      "en_sha256": "e594233a5a3a2b1dc176f2114a0d8832da35d34df88328fb321e60dd5a15f8c3",
+      "origin": "ai"
+    },
+    "dataList[id=2056].simpleDesc[abilityID=205601].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętności zużywające [BloodDinner] zyskują Moc Monet +1",
+      "kr_sha256": "a71e5d9247e5daaa18534053e52c7c6dabcfb9454f6ae2e368c24c1baf4d9939",
+      "en_sha256": "4fa5885fe5b43bbe86c6c2d0c94d496567870c448c4fec6dda861916552ffa2e",
+      "origin": "ai"
+    },
+    "dataList[id=2056].simpleDesc[abilityID=2056].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje HP przy trafieniu atakiem celu z nałożonym [Laceration] lub Szczególnym Krwawieniem.",
+      "kr_sha256": "6c46047f83e75f953a644722715ad453b416a43a206cecb9beac9eea3ff8769c",
+      "en_sha256": "8c9275916d9991702e204d55bf51c46b5f077669dc7a40864132ecbf4d26fa2c",
+      "origin": "ai"
+    },
+    "dataList[id=2057].desc": {
+      "pl": "— opis] Wszystkie Umiejętności Don Kichota zyskują Moc Końcową +2\nGdy ginie sojusznik, sojusznicy odzyskują 15 Poczytalności, a na koniec tury zyskują 1 [Enhancement] na następną turę (maks. zdobytych [Enhancement]: 3)",
+      "kr_sha256": "c97f158deb4e3bd0312fb5846ffc4d04bb991704cc6af30a1e33d1435cdda7a0",
+      "en_sha256": "7560754d9450828ef6c4c85ea182bf0f4f3605000a227a30f309c829bb8149c0",
+      "origin": "ai"
+    },
+    "dataList[id=2057].name": {
+      "pl": "— nazwa] Marzenie na Nowo",
+      "kr_sha256": "a7a2b63f15fde6a5ef50d44ee2bb8667193ab85c9bd9572f4df62482c974789c",
+      "en_sha256": "ca09d4e7096dbfcac360bad2acf61f9b299cf22f145103821ffb4a06b0c11d56",
+      "origin": "ai"
+    },
+    "dataList[id=2057].simpleDesc[abilityID=205701].simpleDesc": {
+      "pl": "— opis skrócony] Gdy ginie sojusznik, sojusznicy odzyskują 15 Poczytalności i zyskują 1 [Enhancement] na następną turę",
+      "kr_sha256": "f7f9df2fb77de3f5a364a696f459c97d54dc28aefe457aadfbc9a91932224ca2",
+      "en_sha256": "8d49261747e13aff7a8f8610c500f5ff1406b145e9d719cfd7c857051bc73ca6",
+      "origin": "ai"
+    },
+    "dataList[id=2057].simpleDesc[abilityID=2057].simpleDesc": {
+      "pl": "— opis skrócony] Wszystkie Umiejętności Don Kichota zyskują Moc Końcową +2",
+      "kr_sha256": "1716a269b692bb2613d57c5261de5f8827e6de2bb3b6fbe64434cc55c50c97de",
+      "en_sha256": "bb8d42d03e3982ebfa13e73a1a8acdfbdcee11dde6017a8c167157b99c5dfd0b",
+      "origin": "ai"
+    },
+    "dataList[id=2058].desc": {
+      "pl": "— opis] Przy trafieniu wroga Umiejętnością z jedną monetą, nakłada 1 Moc [Laceration] i 2 [DefenseDown] do końca następnej tury.\n\nJeżeli cel jest w stanie [Laceration] lub 'Szczególnego Krwawienia', efekt jest wzmocniony i nakłada 3 Moc [Laceration].",
+      "kr_sha256": "49f291991caac4923308ec809e830fc96abc09ee91b9305a6119645d1bc4ba52",
+      "en_sha256": "5708336676aa1317599e319ea95b0446aa5698bb18cc2f6a55df70cee9486b32",
+      "origin": "ai"
+    },
+    "dataList[id=2058].name": {
+      "pl": "Oblepiony Żelazny Pal",
+      "kr_sha256": "5c17d1fd01975fadb54ebb6fe65e76cc0a986a69c1b4842e104e03fc4fc471ec",
+      "en_sha256": "534500ad642190fed48b5b5f3938b942bd3278f883eddb4ec2d0a1c77c4b0f18",
+      "origin": "ai"
+    },
+    "dataList[id=2058].simpleDesc[abilityID=205801].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc [Laceration]",
+      "kr_sha256": "0fba7a810fa6b717a058bf555653401f6d587f63a7f8932425f67843ffe4dd80",
+      "en_sha256": "1defea292a5b7528991ac6226c0f4be3f12d478fba7aa9cbc4fd4901b213f52b",
+      "origin": "ai"
+    },
+    "dataList[id=2058].simpleDesc[abilityID=2058].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 Moc [Laceration]. Nakłada 2 [DefenseDown] do końca następnej tury",
+      "kr_sha256": "8a1ac34e65775174e560fb906a2bb5a8eddfb5dcc5733108004194e14db2ab5f",
+      "en_sha256": "2e16c1fd320b40dafd3de53803db7983222ed81e5aea5c4622422d608d782da3",
+      "origin": "ai"
+    },
+    "dataList[id=2059].desc": {
+      "pl": "— opis] Na koniec tury nakłada Moc [Burst] równą ich bieżącej Szybkości wszystkim wrogom.\n\nPrzy wywołaniu Pełnego Rezonansu Żądzy, na początku walki nakłada 3 Moc [Burst] i 3 Liczniki [Burst] na losowego wroga.",
+      "kr_sha256": "2df82562ad092e7a7ed3b8cf5d242972fe2c886d6a820ab30baf57414bd7263a",
+      "en_sha256": "8061068a1062aeb376ffa6e17b60bf50c5bce0e6f052c23a931a421d1d27c539",
+      "origin": "ai"
+    },
+    "dataList[id=2059].name": {
+      "pl": "Kolczaste Lasso",
+      "kr_sha256": "1f53cc71daf481bda8df28118f3ff177942b10f194ed63ad4d6b0c9e9e2b2eee",
+      "en_sha256": "09647c90d602b3a5debaa715541b4cae1d1c84013144f9780ad6915dc135e8a4",
+      "origin": "ai"
+    },
+    "dataList[id=2059].simpleDesc[abilityID=205901].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc [Burst] i +3 Liczniki [Burst]",
+      "kr_sha256": "a52716016d87fe1beba533d48d1f9a760335c87cd7a293b14a7fce9ef8a22dfc",
+      "en_sha256": "4b258b93a692d28d9d289e9da6126ca476a4924ef67fb351f30d4466d9557412",
+      "origin": "ai"
+    },
+    "dataList[id=2059].simpleDesc[abilityID=2059].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Moc [Burst] równą Szybkości",
+      "kr_sha256": "5f3965ee8b39353cbcc08c3d16b53186c83a13181b5d285eefc69b8d4420ea6c",
+      "en_sha256": "0e13137220e1d1fee292785779c100813991f9ff3ca6bfce3f506cd70e295c96",
+      "origin": "ai"
+    },
+    "dataList[id=2060].desc": {
+      "pl": "— opis] Na początku spotkania innego niż potyczki skupione zadaje obrażenia stałe równe 20% Maks. HP wszystkim wrogom.",
+      "kr_sha256": "b1204c35ba52c08ec6f26a7691f344fd18caea383afd5d7c420d6de87e0ababf",
+      "en_sha256": "d0cbec1a6b62f9dbe432cfc8d1ea2d58de4e3dfb88057f42b3ddc10c6fec3ba8",
+      "origin": "ai"
+    },
+    "dataList[id=2060].name": {
+      "pl": "Carmilla",
+      "kr_sha256": "4def94bb54d6554ec5ea25f68823d54c51a92f6a4b446f38fa6ab3dd77c05b50",
+      "en_sha256": "f182695e70cd167766677ff7602948b36a5afea25ef3f924adc7d0a0bfee6655",
+      "origin": "ai"
+    },
+    "dataList[id=2060].simpleDesc[abilityID=2060].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje obrażenia stałe równe 20% Maks. HP",
+      "kr_sha256": "0c0ebb4a537d8820251f3b8ba5ef9f171055ad8066c797840aaaba0967531c3b",
+      "en_sha256": "a99af3f0ddd35ae5502bfb29e2b25040851ce31b335c94e166cd9033a5c64446",
+      "origin": "ai"
+    }
+  }
+}

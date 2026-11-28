@@ -1,0 +1,184 @@
+{
+  "entries": {
+    "dataList[id=formation_baton_continue].content": {
+      "pl": "Seria",
+      "kr_sha256": "e2f121e4cddf4f30a2547dbf57aa8508073e6e85673de320eecfa8cf135f6af6",
+      "en_sha256": "dae0896cbc2c67bfbf74f011e826f2fb06aac119ed2938ec2c2f049774a7b89c",
+      "origin": "ai"
+    },
+    "dataList[id=formation_participate_battle_label].content": {
+      "pl": "Łącznie w walce",
+      "kr_sha256": "3bab59944ac663f4fdb6c1cff534cca3934def8d7d0e48271e3cff94e687c6f3",
+      "en_sha256": "4dfc6b8847cf8203bda5364883d4cda3fc1952951a6d99cc427739725b504b83",
+      "origin": "ai"
+    },
+    "dataList[id=formation_setting_waiting_character].content": {
+      "pl": "Wystawiono w rezerwie",
+      "kr_sha256": "3cdee86c1efa3c8c9f1eaffd33c6fe3690f889fc3bd914ca993e7b0531403d77",
+      "en_sha256": "01e3d55a028991beb3636923719aec104e0ca945945f66bf76b4034a566fc947",
+      "origin": "ai"
+    },
+    "dataList[id=formation_waiting_character].content": {
+      "pl": "Rezerwa",
+      "kr_sha256": "7ce59299ede7f2e87e1e8a15ce30cfe0f9c400eeee856d504fa82992ba7bb345",
+      "en_sha256": "838557924a5cdfb2f10f233635223e79be8443aef62f9d176cfe18787a2e8b03",
+      "origin": "ai"
+    },
+    "dataList[id=heal_character_who_does_not_participate_battle].content": {
+      "pl": "Odnowiono PŻ Tożsamości niebiorących udziału w walce.",
+      "kr_sha256": "6f0edfef8f3c7766c5cc5b09d2ed0f7fa6cd7e231a61214c5b15fecb70648fc0",
+      "en_sha256": "a50353e1a0ee03e49cfd25ad4211ae69ddb035e767f80bfa9aa580714b3e0ec3",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_banner_reward_condition_1].content": {
+      "pl": "Zdobywane za ukończenie Odcinka 4 Kolei Załamania — Linii 4",
+      "kr_sha256": "010e5b713fa5dfe5bd0385f690bfc4d7f511ec14c717132843a992fa2bb07fc9",
+      "en_sha256": "8de7a703687fa9bc769d0564bce9bb0f751b0962edd6dd94823580a3a3a63038",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_banner_reward_condition_2].content": {
+      "pl": "Zdobywane za ukończenie Odcinka 4 Kolei Załamania — Linii 4 w maks. {0} łącznych turach\nprzed końcem Sezonu 4: Clear All Cathy",
+      "kr_sha256": "9d8893c6144717b8bfe1adb341f461e9c5a7109419e90960f567e8f122813ae7",
+      "en_sha256": "2473c557ef2a07a04e151d5706e757a40acab0ea8379fa773630bf2a9b4be365",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_entrance_recommended].content": {
+      "pl": "Zalecane parametry",
+      "kr_sha256": "7cfbd93f944faa379ea039ea46bdf968472c8a7e410686740d083daf1c1f032c",
+      "en_sha256": "d9b1228c560ffafc85220a7c3574638dba976788976d0850d32ed7ffd0727ba8",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_entrance_recommended_gacksung].content": {
+      "pl": "- E.G.O: Splot Nici poz. 4",
+      "kr_sha256": "acfd64c6e48791b5a62b177fb6e3560f6656f7e77d2abc2abf3ce0fbbbf7cb90",
+      "en_sha256": "edf27e92e93875c4aa75d21044fc254a127586109162950adc269a407029f1b3",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_entrance_recommended_level].content": {
+      "pl": "- Tożsamości: Synchronizacja poz. 4, poziom 45",
+      "kr_sha256": "5a14f5806f00ac5ecc23b0d5aa293e73d6cdb6554eae1b6414e5276c9ff9452d",
+      "en_sha256": "96c8770dcbeea2c80947c723c9dd84a2ecb0635ef90f77d77838db15ed2f6530",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_formation_reset].content": {
+      "pl": "Wyczyść wybór",
+      "kr_sha256": "fa3ad491d42f68688d13e559e7b99dc25fc2df4d77c3365e528d828ababf7315",
+      "en_sha256": "c52ff5ea803d577544a8224d1404ecefa836b803f029d87cd7450af6c18a70ef",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_reward_condition_special_ticket].content": {
+      "pl": "※ Zdobywane za ukończenie Odcinka 4 Kolei Załamania — Linii 4 w maks. <color=#066386>{0}</color> łącznych turach\nprzed końcem <color=#4e3076>Sezonu 4: Clear All Cathy</color>",
+      "kr_sha256": "57e125d3dbe609e3487c1912da0466613e4bbe1c288b2dec8a394771b4ea3b86",
+      "en_sha256": "1f587944e3486b29074f03a6644f76666b55bfe2bca3b330d43d0fd978e8b3e9",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_1].content": {
+      "pl": "<font=\"BebasKai SDF\">SECTION 01</font>",
+      "kr_sha256": "09a8e03460b2dc580e60085b13b66acac67df162a334047cf8eb85c5a6a7503a",
+      "en_sha256": "09a8e03460b2dc580e60085b13b66acac67df162a334047cf8eb85c5a6a7503a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_1_lost_and_found].content": {
+      "pl": "Odcinek 1",
+      "kr_sha256": "76921d8b60021daddf862269bbe886feba13c581ef8b296bc335b7028cf1adf7",
+      "en_sha256": "4c0cfb82e983c61610b67106d725808c31d971d59397def73ad8fd9d12ed8eb5",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_2].content": {
+      "pl": "<font=\"BebasKai SDF\">SECTION 02</font>",
+      "kr_sha256": "e5adcda9a8da9120ece2c4ee9f6421744b8cb7e0fca67dbf2940c98c82d0253f",
+      "en_sha256": "e5adcda9a8da9120ece2c4ee9f6421744b8cb7e0fca67dbf2940c98c82d0253f",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_2_lost_and_found].content": {
+      "pl": "Odcinek 2",
+      "kr_sha256": "6329d035248898de9591e54941ed3b05136b1fe6b91178f53ba40f8d9e31e9ee",
+      "en_sha256": "7b0d4c438cdc7fbd912d6f6d27b82250d7da88cc59aa6d264af4dba5947eebc9",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_3].content": {
+      "pl": "<font=\"BebasKai SDF\">SECTION 03</font>",
+      "kr_sha256": "ea6ba92aa85cc2a8a6ce2365f309587cd9916567afc082e5cfc1d698504b1c9b",
+      "en_sha256": "ea6ba92aa85cc2a8a6ce2365f309587cd9916567afc082e5cfc1d698504b1c9b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_3_lost_and_found].content": {
+      "pl": "Odcinek 3",
+      "kr_sha256": "708f3d82bb6aa12bbc7e8700729070b4fc27d70c434d95fc2ce16f3626c30219",
+      "en_sha256": "4f8c7289360c0bbea6eb45baa1d664628453db67545cb68c11186b15ff96194f",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_4].content": {
+      "pl": "<font=\"BebasKai SDF\">SECTION 04</font>",
+      "kr_sha256": "8c1b05d03f1c5ff05d92db259f239a97c61b661182d6b01e25db5a17e35d5f4b",
+      "en_sha256": "8c1b05d03f1c5ff05d92db259f239a97c61b661182d6b01e25db5a17e35d5f4b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_section_4_lost_and_found].content": {
+      "pl": "Odcinek 4",
+      "kr_sha256": "602cc82784c49592bcd13a8249a0784dea95cd4b3639e12ce3a4890f05c38010",
+      "en_sha256": "6752a6387220ae2cc874a52b1e21c448787da63f4a78b0b927ffbcb79a952405",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_4_unit_inited].content": {
+      "pl": "Zresetowano PŻ i SP.",
+      "kr_sha256": "f07c93def8a6477a68295dd23c71a6b3ebea0ab1040dcc9bfe5181bd7ca48330",
+      "en_sha256": "b3aa1a9762d9783d5b15e80d9d3b42522a50079246a3ef903c4e4335ac68649d",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_ask_to_go_past_node].content": {
+      "pl": "Wejście do walki całkowicie zresetuje postęp na tej stacji oraz wszystkich kolejnych.\n\nRozpocząć walkę?",
+      "kr_sha256": "3482d24330c43ec04e1ff49dbc563a748723de9cddba2d7f07cd35e998c359f2",
+      "en_sha256": "e549049678f3872c6f39c8aa5cee0eeead1cd547a51aa2c7607912e9adebee99",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_entrance_warning].content": {
+      "pl": "[Zalecane parametry wejścia]\n\n- Tożsamości: Synchronizacja poz. 4, poziom 45\n- E.G.O: Splot Nici poz. 4",
+      "kr_sha256": "f852b824e9329935b60418b79fc9e910e60e432faa21dcd1bb6081ebe474035e",
+      "en_sha256": "829fc7c5476af9b147b280b3c74b3b9f2e8caa0d3d4208afeb010115705fcfa3",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_formation_must_select_all_alive].content": {
+      "pl": "Nie przypisano kolejności wystawienia wszystkim Grzesznikom.\n\nWyznacz kolejność dla wszystkich Grzeszników.",
+      "kr_sha256": "8688b1da73bcfe19238cb44c8c5780f88edc149151700a32f453140a3326d485",
+      "en_sha256": "9feac84f18a004a730b6dc74ee6acf4013d850e0e9bfc714cb4317054539683c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_lose_battle_all_identity_dead].content": {
+      "pl": "Wszyscy Grzesznicy polegli. Wybierz dalsze działanie.",
+      "kr_sha256": "a175f8151fbe910e4a1056e198962e7a84b4054b52a9d84146e43a9dfa954960",
+      "en_sha256": "a6c0a90e66303d4c1eaea079ba4041ffa9287c4fdaac9fbae249e3a03d7384cb",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_lose_battle_exit_content].content": {
+      "pl": "Powrót do ekranu wejścia na etap.\nMożesz ponownie ustawić kolejność wystawienia.",
+      "kr_sha256": "24274b993afabe7e8ec52513f7f7e10000b3ee6c497793057863b79c55aa120e",
+      "en_sha256": "da4f1ef065bb3f98025d0af94ca0bb2306b6f55ba096900b336bf5a27b1c0d36",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_lose_battle_exit_title].content": {
+      "pl": "Wróć do ekranu wejścia na etap",
+      "kr_sha256": "a44655450cb41f76082620048251144ce685439058b25d40b5892405d911e199",
+      "en_sha256": "190587c901b972af087d46d2e2cc3a3b3724d4cd7dcd701e25672b37ca9c214a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_lose_battle_give_up_title].content": {
+      "pl": "Poddaj się (nieużywane — do usunięcia)",
+      "kr_sha256": "bdff4360756321ae8a0a50c07a9fc125ae3cc3aa21ee082e92997d3a53c3bfeb",
+      "en_sha256": "b9afd2951c8b39d6612461ff36c77798a12460d8801e4629b43f03bc07b0c30c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_lose_battle_retry_content].content": {
+      "pl": "Ponawia etap od pierwszej fali.\nKolejność wystawienia wybrana w oknie składu zostaje zachowana.",
+      "kr_sha256": "1e47d8a6e26ed314a2c1c2a4ad354de3423201b3b99a025c185d33a5e8be126a",
+      "en_sha256": "9b5d4e7ff835bca9a14b910117c845b44f595b5536163a2f30be721c0f298d5b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_lose_battle_retry_title].content": {
+      "pl": "Ponów etap",
+      "kr_sha256": "5b35d3d89a3a6de9cc9154c33e010689adf76383ff9ebdf80a1ea557da74b94d",
+      "en_sha256": "c9410bf1e2633d6dda46dc67015f1992b2e42150ad14017c1d1e5073f8fbf28c",
+      "origin": "ai"
+    }
+  }
+}

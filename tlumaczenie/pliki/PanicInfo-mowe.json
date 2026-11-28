@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1025].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj po 1 [Vulnerable] i [AttackDmgUp]",
+      "kr_sha256": "2b8cd25bbc574a114d8dd875f6b5554f16c9bd6c16ab9d66b8499f2eee5f832a",
+      "en_sha256": "06b37c23294aa6ffa85557adca2f2f9f1b10c994375b8abaa3e8edb78204cc72",
+      "origin": "ai"
+    },
+    "dataList[id=1025].panicDescription": {
+      "pl": "Początek Tury: zyskaj po 2 [Vulnerable] i [AttackDmgUp].",
+      "kr_sha256": "c00bf1688028c226c700be4c10e3a2c387888b09fa03836b46497fb1344fc315",
+      "en_sha256": "11a520e7ab1d9c4aacf725b44c09035cfdbc7c725100930495d86d903399a507",
+      "origin": "ai"
+    },
+    "dataList[id=1025].panicName": {
+      "pl": "Żądza Krwi",
+      "kr_sha256": "d37ff8ae4e6ac6bbba179acd36c6e9460b8733f1f04b5143852fb3a42f3a96e7",
+      "en_sha256": "17701dc653fe8799adbc4620bc254bdf2ec6165fafcd91afeae0009aba3cb4f1",
+      "origin": "ai"
+    }
+  }
+}

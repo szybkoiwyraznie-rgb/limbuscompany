@@ -1,0 +1,112 @@
+{
+  "entries": {
+    "dataList[id=1079].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1079].name": {
+      "pl": "Sancho",
+      "kr_sha256": "2f2c17cca99e3cb3d6d6170fe471ef4cf6f9b65ea0b1e0a4ff0087a964403f17",
+      "en_sha256": "b72d019b999fd9ba87d51c8a9a751d0aae83acbba14b71080d80452b873f546b",
+      "origin": "ai"
+    },
+    "dataList[id=1080].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1080].name": {
+      "pl": "Peccatulum Pigritiae??",
+      "kr_sha256": "63a6a9c13d6132891c4a59a65dd49c40022658b5f0d27507ff58fb50cc8511c9",
+      "en_sha256": "fdfad10f7a994fb5a0d8563af6a35b54051fc33b64597fda17a646e586561486",
+      "origin": "ai"
+    },
+    "dataList[id=1081].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1081].name": {
+      "pl": "Peccatulum Morositatis??",
+      "kr_sha256": "5933f2d6e9b153ead8bf950f4ca03963a63837e37d23bbce73a9345bc0d6eaa6",
+      "en_sha256": "1c27df261a545bff980fe9557dd83c1e02fe9930d486af52d8cc9d9c3d20eb19",
+      "origin": "ai"
+    },
+    "dataList[id=108201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=108201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1082].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1082].name": {
+      "pl": "Distorted Hohenheim",
+      "kr_sha256": "b47253a9206783d77208dab3ea57d7b3c116132960a7aa3e8d92cc3f99d47f21",
+      "en_sha256": "fbddcc6050872b9215265bee05e0cc504240875c6113a68ae488b1c60296fe25",
+      "origin": "ai"
+    },
+    "dataList[id=1098].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1098].name": {
+      "pl": "Peccatulum Invidiae?",
+      "kr_sha256": "729ea52f6bdf3d8f8531fbb5cc382a2138737dbf8471bf89ffe1db40bb322e45",
+      "en_sha256": "4c5d07a3b4f41007db808ecba1547c5cc57ba444415a99ce89659f16f6ddf215",
+      "origin": "ai"
+    },
+    "dataList[id=1100].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1100].name": {
+      "pl": "Peccatulum Invidiae",
+      "kr_sha256": "d5e2b3b9d66cef39bc9fd0dabf63f745e3b5eb8e5f5bfac15020f0c127ac2d0f",
+      "en_sha256": "a2f79cf6a085b6be739acd83b801544c0bc34fee552c73379b84cae1197f61be",
+      "origin": "ai"
+    },
+    "dataList[id=90181].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90181].name": {
+      "pl": "Censored Lobotomy Corp. L3 Agent",
+      "kr_sha256": "4cffc08f129a5bebed8f0f93106fc2f028a5ee1920023805ef2ed7eeb23fa3ca",
+      "en_sha256": "62017a628c477664d043628d527de118bd7d14f7dc39aac1950ab5b93bd93450",
+      "origin": "ai"
+    },
+    "dataList[id=90182].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90182].name": {
+      "pl": "Censored Lobotomy Corp. L3 Agent",
+      "kr_sha256": "94750eb33b100091a9398626944bd969823d153320c89aef72b14788eadb8736",
+      "en_sha256": "62017a628c477664d043628d527de118bd7d14f7dc39aac1950ab5b93bd93450",
+      "origin": "ai"
+    }
+  }
+}

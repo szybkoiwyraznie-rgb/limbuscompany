@@ -1,0 +1,96 @@
+16047||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 자… 자네들에게 특별히 이 아이들을 눈에 담는 영광을 누리게 해주겠네…|Come, I shall grant you the special honor of laying eyes upon my children.
+16048||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 여기 가져왔…|We brought the—
+16049||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아아, 됐다! 됐어!|Ahh, yes! At last!
+16050||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…말도 안듣고 바로 가져가버리네.>|<... He didn't even let us finish before grabbing them.>
+16051||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 황금 눈과 황금 이빨, 그리고 황금 머리카락.|Golden Eye, Golden Tooth... and Golden Hair.
+16052||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 예순여덟 번째 눈을 뜨렴, 나의 걸작들아…|Now, my masterpieces... You may open your 68th eyes.
+16053||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그리고 이 곡선은 6층에서 온 모델의 목선에서 따왔네. 가장 많은 눈길을 받은 모델이었지.|And this curve was modeled after the neckline of a sixth-floor model—the model who drew the eyes of so many.
+16054||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저는 어제보다 비싸졌어요, 그렇죠 아버지?|I'm worth more than I was yesterday, aren't I, Papa?
+16055||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그렇단다. 너희들은 매일 값이 오르지.|Of course. Your value rises with every passing day.
+16056||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그래서… 단 한 번도 황금원단을 걸친 자를 본 적이 없어.|It's the reason... I have never once seen anyone wear Golden Fabric.
+16057||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …우리 아이들을 구성하는 재료가… 이번에도 최고가 아니었다니.|... So the materials composing my children... were not the finest this time either.
+16058||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 최고가 아니라면… 의미가 없어…|All of this is pointless... if you're not the best...
+16059||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 추해! 황금실이 아니면 추해!|Ugly! Anything that isn't made from Golden Thread is ugly!
+16060||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …이번에도 실패인가요, 아버지?|... Did we fail again, Papa?
+16061||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 최고… 언제 돼?|The best... When?
+16062||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희들은… 최고가 아냐.|You're not... "the best."
+16063||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 나는 이것보다 더 빛나는 원단을 본 적이 있어.|I've seen fabric that shines brighter than this.
+16064||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아니, 그런 건… 있을 수 없네. 이보다 더 빛나는 원단이라니.|No. That's... impossible. Brighter than <i>this</i>?
+16065||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그건 내 몸을 찢기 위해 만들어진 황금빛 원단이었어. 저 커다란 자의 주먹에 감겨 있는 것 말이야.|Yeah, a bolt of Golden Fabric woven to rip me apart. It's the same fabric wrapped around that big one's fists.
+16066||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …황금으로 만들어진 원단을 자네들이 가지고 있다고?|... You possess fabric made of gold?
+16067||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …그러하다.|... Yes.
+16068||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 디자이너가 믿지 못하겠다는 표정으로 뫼르소의 건틀렛을 한참 동안 바라보았다.|For what felt like minutes, the designer stared blankly at the Golden Fabric wrapped around Meursault's gauntlet, disbelief written across his face.
+16069||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이제야 보이는군. 그건 가방인가? 그 안에 있는… 그건… 순도 높은 황금실로 지어진 원단이군… 찬란해…|How could I have failed to notice that? That light inside your bag, it's... Fabric woven from exceptionally pure Golden Thread... Magnificent...
+16070||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하지만… 그 실타래를 만들기 위해서는… 소문밖에 남지 않은 어마어마한 재료들을 모아서… 지하 2층으로 가 수없는 시즌을 보내야 한다고… 들었지…|But... I heard that the Golden Thread can be woven only from fabled materials now only passed down as tales and legends... That, even if you were to acquire them somehow, it would take countless seasons of waiting on B2 to truly complete it...
+16071||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그리고 이 아이의 눈은 거울로 만들었어. 백화점에서 가장 비싼 옷을 걸친 고객이 아끼던 전신 거울의 파편… 그 안에는 고객의 갈망이 담겨있으니.|And this child's eye is made from a shard taken from a full-length mirror—the very same one cherished by the customer who wore the most expensive attire in all of the Grand Magasin. It is saturated with that customer's longing.
+16072||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그런데 아빠, 저것들은 왜 우리를 보고도 탐을 내지 않아?|Papa, why don't those things covet us when they look at us?
+16073||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 쉿, 아가. 저 고객들은 너희를 가질 자격이 없는 자들이란다. 눈에 담는 것만으로도 과분하지.|Shh, child. These customers are not worthy of possessing you. Merely being permitted to look is more than they deserve.
+16074||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …더군다나 자네들이 가지고 다니는 그것은… 끔찍하군. 되도록 이젠 우리 아이들과는 상종하지 못하도록 해주게나.|... Did you hear my child? And that thing you're traveling with is... simply ghastly. Do ensure it never associates with my children again.
+16075||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 난… 살고 싶…어…요… 아버지…|I... don't want... to die... Pa... pa...
+16076||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 최고… 언제 돼… 최고…|The best... when? The... best...
+16077||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 돈키호테가 랜스를 치켜들고 디자이너에게 달려들었지만…|Don Quixote raised her lance and charged at the designer, but...
+16078||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 사는 것보다 더 중요한 게 있단다… 아름다운 것으로 남는 거지.|There is something more important than surviving, children. And it is... to remain beautiful.
+16079||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 크으윽…!|Ghh...!
+16080||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뫼르소가 아닌 이상… 상징계에서 돈키호테가 다른 이들에게 해를 입히는 것은 불가능한 일이었다.|... her attack amounted to nothing. Only Meursault was capable of causing physical harm in the Symbolic.
+16081||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 조금만 더 기다리거라. 황금원단보다도 더 귀중한 소재를 구해서… 이번에야말로… 이번에야말로 백화점 최고의 걸작을 만들 것이니…|Wait just a little longer. I'll find something even more precious than the Golden Fabric... And with it, my hands will birth the greatest masterpiece the Grand Magasin has ever known...!
+16082||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 어떻게… 이런 악독한 자가…|How... could one be so wicked...?
+16083||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …그토록 귀중한 재료를 모아 만들었는데도, 실패하셨잖아요. 그런데… 어떻게 황금원단보다 더 뛰어난 소재를 만드실 생각이신 거죠?|... All those precious materials that went into creating them, and they still weren't good enough for you. Just how... do you intend to make anything finer than the Golden Fabric?
+16084||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 예순 아홉 번째에는 반드시…|The 69th attempt will surely, surely...
+16085||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…올라가자.>|<... We should go.>
+16086||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …저들은 왜 버려졌어?|... Why did he abandon them?
+16087||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 바라던 만큼 반짝이지 않았던 모양이에요. 바라던 만큼 반짝이는 건, 사실 그 어디에도 없을 텐데 말이죠.|Apparently they didn't shine as brightly as he wanted. I don't think he knows that nothing in the world can shine as brightly as his expectations.
+16088||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …나는 버려지면 안 돼.|... You can't abandon me.
+16089||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 바라는 걸 위해서는… 멈추면 안 되니까.|Because I can't afford to stop... if I'm to reach what I want.
+16090||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 관리자님은… 너를 버리지 않는다.|The Manager... won't abandon you.
+16091||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너는?|What about you?
+16092||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이 군이 무엇을 바라는지는 모르겠지만… 간절히 원하는 꿈이라면 꼭 이루어질 걸세.|I know naught of thy desires, Young Pwie... But pray, endeavor with all thy heart, and thy dream shall bear fruit!
+16093||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뿌이 군… 우리 또한 뿌이 군과 헤어지는 것은 싫네만… 우리는 5층에 계속 머물 수가 없다네.|Young Pwie... we too would be loath to part with thee—alas, we cannot linger on the fifth floor for all eternity.
+16094||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그건… 왜야? 붉은시선 나리… 랑… 카론 군이라는 사람이 보고 싶어서야?|Why...? Is it because you miss "Lord Red Gaze"... and... the person you call "Young Charon"?
+16095||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 으음… 그것도 틀린 말은 아니네만…|Hmm... that is not entirely wrong, forsooth...
+16096||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …그냥 나랑 있으면 안 되는 거야?|... Can't you just stay with me?
+16097||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 저희는 밖에서도 할 일이 엄청 많답니다. 그래서… 뿌이와 온종일 함께할 수는 없을 것 같아요.|We have a lot of things to do outside this department store. So... I don't think we can stay with you forever, Pwie.
+16098||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그러면…|Then...
+16099||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 할 일이라는 게 없으면… 같이 있는 거야?|If you didn't have those "things to do"... we'd stay together?
+16100||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아마 그럴 일은 없을 것 같네만…|I doubt such a day shall ever arrive...
+16101||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 뭐, 그때는 뿌이 군이 우리를 따라와 옆에 있어주면 되지 않겠는가!|But should it arrive, then thou canst accompany us and remain by our side instead!
+16102||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 돈키호테의 말에 만족한 건지는 모르겠지만… 뿌이는 더 이상 묻지 않고, 조용히 뫼르소의 뒤로 걸음을 옮겼다.|I couldn't say for sure whether Don Quixote's answer was good enough for them, but Pwie asked no more questions and quietly took their place behind Meursault.
+16103||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …꿈인지는 모르겠어. 꿈이 무엇인지도 모르고.|... I dunno if it's my "dream." I don't even know what "dream" is.
+16104||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 꿈이란 건 말일세. 모험이 멈추지 않도록 도와주는 원동력이라네! 때로는 겁을 주어 걸음을 주저하게 되는 악몽 또한 있지만…|A dream, Young Pwie, is the roaring fire that fuels the spirit of adventure! Verily, though one might dream nightmares of treble dread that tarry one's feet...
+16105||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 모든 역경을 버티고 계속 나아간다면… 반드시 원하는 것을 이룰 수 있지!|Yet if thou endurest every trial and chargest ever onward... then thou shalt surely reach what thou desirest!
+16106||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희의 꿈은… 뭐야?|What are your dreams...?
+16107||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 엣헴! 내꿈은 멋진 해결사가 되는… 것이네만, 지금은 이 백화점의 꼭대기층까지 가는 것이 꿈이겠군! 물론 그 전에 뿌이 군을 5층에 데려다 주겠지만…|Ahem! 'Tis to become a Fixer most valiant and ...! Uh, though at present, I suppose our dream is to reach the highest floor of this department store. However, that will come to pass only after we take thee to the fifth floor, Young Pwie...
+16108||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …그건 이상해.|I don't get it.
+16109||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 데려다 준 다음이란 건 없어.|There isn't an "after" once you take me there.
+16110||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 5층에서도, 나랑 있는 거야.|You have to stay with me on the fifth floor.
+16111||RPGSystem#rpg-loc-dialogue-floor-4-b.json] <…헤어지기 싫은가 보네.>|<... Looks like little Pwie doesn't wanna say goodbye.>
+16112||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …지하 가장 깊은 곳. 실을 짜는 둥지보다 더 아래에… 르루주들이 귀중한 가죽을 만들고 가공하는 곳이 있다고 들었다.|... Perhaps the answer to that lies in the deepest underground, beneath even the Nest where threads are spun... Yes, where they say the Rouges' most precious hides are tanned and processed.
+16113||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 확실할 거야… 첫째 아이의 손잡이를 만들 때 썼던 르루주가… 단말마와 함께 내놓은 소문이었으니까.|It has to be true... The Rouge I used as my firstborn's handle gasped that rumor with its dying breath.
+16114||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 실 다음에는 가죽… 그것은 순리이기도 하고.|Besides, after the thread comes the hide. Such is the way of fashion.
+16115||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 얼마나 많은 시즌이 지나더라도… 지하로 향하겠어. 그곳에서 최고의 가죽을 얻어서… 가장 완벽한 나의 자식들을 만들 걸세.|No matter how many seasons it takes... I <i>will</i> descend. I'll get my hands on the finest hide out there... and create the best children I have ever had!
+16116||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …이미 무슨 말을 해도 귀담아들으실 수 없을 테지만.|... I doubt anything we say will reach you now.
+16117||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아마도… 가장 완벽한 당신의 자식은… 가장 처음에 만들어진 가방이었을 거예요.|But perhaps... your "most perfect" child... was the very first bag you ever made.
+16118||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …헛소리군. 에스컬레이터는… 알아서 타고 가게.|... Nonsense. Go, go take the escalator... I won't bother seeing you out.
+16119||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 커헉… 추해. 추해…|Ghk... uggo. Ug... go...
+16120||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 가방관의 디자이너는 천천히 아이들이라 불렀던 가방의 목을 조르기 시작했다.|The handbag designer slowly began to strangle the bags he had called his children.
+16121||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무슨 짓인 겐가!! 어찌 그대를 아버지라 부르는 자들의 목숨을 함부로…!|What is this heinous treachery?! To take the lives of those who call thee father...!
+16122||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아니야… 아니야…! 나는 최고가 아닌 아이들을 자식으로 둔 적 없어!|No, they're no children of mine...! My children are only the very best, and these are anything but!
+16123||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그게… 무슨…|What... what madness this be...?
+16124||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희는… 모든 재료가 반짝거리는 황금인 채로 태어났어야 했는데…|You should have been born with every part made of glittering, golden material...
+16125||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이자는 날 따르지 않아.|This one is not my follower.
+16126||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 다른 것을 섬기고 있어…|She serves something else...
+16127||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너희도 그 목소리를 찾아냈구나.|So you found the Voice, too.
+16128||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 너무도… 따뜻하지?|It's so very warm... isn't it?
+16129||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 아아… 이대로 영원히 계속 있을 수 있을 것 같아.|Aah... I feel I could remain like this forever.
+16130||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 이 틈 사이에 내 온몸을 끼워놓고 싶어. 때가 올 때까지 따스함을 느끼며 귀를 기울이면서…|I want to wedge my whole body into this crack and stay there, listening to the Voice and basking in the warmth until the day arrives...
+16131||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …우리의 말이 전혀 들리지 않는 것 같군.|... It seemeth our words do not at all reach them.
+16132||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그자는 귀와 얼굴이 피에 짓무르는 것도 알지 못한 채 벽에 자신의 몸을 비비고 있다.|She rubs herself against the wall, oblivious to the dead flesh sloughing off her face and ears from the friction.
+16133||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 무얼 하고 있던 건지 알아내셨… 앗?!|Did you discover what she—aah!
+16134||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 벽에서 얼굴을 떼! 지금 뭐하고 있는 거야?|What do you think you're doing?! Get your face off the wall!
+16135||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 날 방해하지 마… 저 안식에서 날 떨어뜨려 놓지 마…|Don't interfere... don't pull me away from that peaceful rest...
+16136||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 끔찍한 르네앙이 우리 매장에 숨어들어 있었다니…|To think a horrendous Néant was hiding in our establishment...
+16137||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 우리는… 어디에나 있어. 언젠가 백화점에 햇살이 몰아칠 그 날만 기다리며…|We... are everywhere. We await only the day the sunlight will flood the Grand Magasin...
+16138||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 그 날이 온다면 우리는 모두 이 답답한 옷가죽을 벗어 던지고 무너진 백화점 잔해 위에 앉아 우리를 아낌없이 보듬어 주는 햇살을 느낄 거야.|And when that day arrives, we'll cast off this suffocating skin of clothes and sit on the debris of the Grand Magasin's ruin, basking in the sunlight that will take us in its warm embrace.
+16139||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …너, 언제부터 그 족속으로 넘어간 거야?|... You. When did you defect to their side?
+16140||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 하나는… 황금을 계속 지키려고 하고,|One side... wants to keep protecting the Golden,
+16141||RPGSystem#rpg-loc-dialogue-floor-4-b.json] …어려운 질문이군.|... That is a difficult question.
+16142||RPGSystem#rpg-loc-dialogue-floor-4-b.json] 반드시 무언가를 택해야만 하는 법은 없을 것이다.|I do not believe it is required to choose between them.

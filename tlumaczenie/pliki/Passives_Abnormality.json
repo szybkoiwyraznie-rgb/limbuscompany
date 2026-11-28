@@ -1,0 +1,1480 @@
+{
+  "entries": {
+    "dataList[id=124501].desc": {
+      "pl": "gdy ta jednostka zostaje zaatakowana, otrzymuje o 70% mniej obrażeń Umiejętności i przenosi obrażenia tej Umiejętności na losowego sojusznika.\n(priorytet: sojusznicy z [PreparedMeat]; nie uaktywnia się bez sojuszników; te obrażenia nie zabijają dotkniętych sojuszników)",
+      "kr_sha256": "4f1ac9a15469a56a2c81966446cbadfeff9c61d2a1cecec1c2a1c4cbbcdc80ed",
+      "en_sha256": "ad309f9280e08b0e0d2e2cd6229b9a2fe509abb6f01040fc816fd0bdfc7b0eef",
+      "origin": "ai"
+    },
+    "dataList[id=124501].name": {
+      "pl": "The Queen's Defenders",
+      "kr_sha256": "6f0b8cd1558000282e0ec6a1dbce258069466a88f875eb67cce2d9767c0f5c16",
+      "en_sha256": "e074835735a164e2bca99526a2fb12614f0019bac973ddbc7414141154997243",
+      "origin": "ai"
+    },
+    "dataList[id=800101].desc": {
+      "pl": "gdy Owoc zostaje zniszczony, wszystkie Części otrzymują 2 Wrażliwości.\nOwoc odrasta po 1 turze.",
+      "kr_sha256": "a7e8501656b028a66e900f0cd5f11df0b811fdd9c488b30215d83641bbfc21ba",
+      "en_sha256": "d368ed81c6d15a36a932f8b919c3ac39332b81dc6c866f44245ecb1be9e64a6b",
+      "origin": "ai"
+    },
+    "dataList[id=800101].name": {
+      "pl": "An Apple’s Twilight",
+      "kr_sha256": "33cfa6aa232442c983b3082c5c0cabaf0d710b9b5d9399996b88fce0ee337a5e",
+      "en_sha256": "11b6ea9422a1fb908f62959b10570987c405e334eec8adc37bdcfcd3628b8d56",
+      "origin": "ai"
+    },
+    "dataList[id=800101].summary": {
+      "pl": "gdy Owoc zostaje zniszczony, nakłada 2 Wrażliwości na wszystkie Części",
+      "kr_sha256": "561de81cb55fc72ae8a5e6037a47b5a1488e9d271a7bddb9b231bec48fd30df5",
+      "en_sha256": "5eeb3715edbd1d29bb9d04be6510a3590681dffd5559d7a4d6175eb868bc193b",
+      "origin": "ai"
+    },
+    "dataList[id=800102].desc": {
+      "pl": "po pierwszym odrośnięciu głowy, sprowadzenie jej HP do 50% uruchamia wybór opcji.",
+      "kr_sha256": "824128c6526f07520ca5850fbff9a86431fd1ffc98317aa5b06f54780bdd00ee",
+      "en_sha256": "a7bfc3cbb81a7bdc0f14c6650119c06e348827043769f1c9e727f4997ecacd62",
+      "origin": "ai"
+    },
+    "dataList[id=800102].name": {
+      "pl": "NOT FOR DISPLAY1",
+      "kr_sha256": "4627324b0da4983ee5a13dac3f08759197297953af70ed5f0e8251a9fe6a1c8d",
+      "en_sha256": "a98ca7c4d7a1e8989063919811ba60f6eb5a58fb3e4e14d66a6620675d7acaee",
+      "origin": "ai"
+    },
+    "dataList[id=800103].desc": {
+      "pl": "na początku 3. tury uruchamia się wybór opcji pozwalający usunąć efekt Green Stem.",
+      "kr_sha256": "fc20b83f7159d1527d0bf9bc2555484afdd30b741d61e298f07210d81b1856a6",
+      "en_sha256": "3760887d4f84bcafe7493edcedaf97b1b0cc5509453e5967cbaf98fd1e78a0c9",
+      "origin": "ai"
+    },
+    "dataList[id=800103].name": {
+      "pl": "NOT FOR DISPLAY2",
+      "kr_sha256": "466db70420bde76d9164bb4cf2808d499f768c47fba70d1521829da2047c0c52",
+      "en_sha256": "6b36660162ce06bbeabf98c80c61ba87cf23b16e82177e9405d8f059fe97b585",
+      "origin": "ai"
+    },
+    "dataList[id=800104].desc": {
+      "pl": "na początku tury nakłada 1 Spętania wszystkim wrogom.\nEfekt działa, dopóki Korzenie nie zostaną zniszczone.",
+      "kr_sha256": "d4637eeb8ccbab12f618cbc3c53787640faf7ef6ce0615ea41d85f8d9daf7d93",
+      "en_sha256": "c15f0a50ce10bba36ad506eb76024f78ce8aa0c27d6e2888f9c4317543549af6",
+      "origin": "ai"
+    },
+    "dataList[id=800104].name": {
+      "pl": "Entangling Roots",
+      "kr_sha256": "2d64e79353081df0e19035138754f47d3ba46e96eec006f65a5166586930aea2",
+      "en_sha256": "01f5eb20117ecb9bc64cd9399b40f9b90041358e8004c7517a86d498c52e77ef",
+      "origin": "ai"
+    },
+    "dataList[id=800104].summary": {
+      "pl": "nakłada 1 Spętania wszystkim wrogom, dopóki Korzenie nie zostaną zniszczone",
+      "kr_sha256": "07ec3fca0b23bc5a242ebb58f302989d574310279c3362485565e9ac753ab872",
+      "en_sha256": "b5cbacaeee529735525d67b011b1f6482b1a6f41ba917faafef1df1d653dff01",
+      "origin": "ai"
+    },
+    "dataList[id=800105].desc": {
+      "pl": "Korzenie zyskują 2 Wzrost Mocy Ataku za każde nienaruszone Ramię.",
+      "kr_sha256": "a81db32924a80fa8f5cc12651cd39e8322fb39d6afc10ee0d26b93855685b21b",
+      "en_sha256": "44a48640c01b174cffbfa4e05a0989d325cbf161deeed8bb1c63ccb89c2ef8c3",
+      "origin": "ai"
+    },
+    "dataList[id=800105].name": {
+      "pl": "One Sole Root",
+      "kr_sha256": "ea955cf1e652b3d3c6ca45448739d524fc0871df8d2be5feb225d5c45ecf3440",
+      "en_sha256": "f1e02eebcb9f9d3080aec0c7bfce55cba8d3a93d74e6d404bef3494199be9b51",
+      "origin": "ai"
+    },
+    "dataList[id=800201].desc": {
+      "pl": "Bitwa przechodzi do następnej fazy po pokonaniu wszystkich Clay Dollów.",
+      "kr_sha256": "8c79cc0f65854a5f3342a0a5449b8bb7c8e044a1493d89dea42d55b3f1f5e2a9",
+      "en_sha256": "f7092b1c33effa770e2d156f461807633ed270e2053a714506213dbef8a145c4",
+      "origin": "ai"
+    },
+    "dataList[id=800201].name": {
+      "pl": "Let the Blood Festival Flow",
+      "kr_sha256": "749ab41e53aefe9605c1cf0cea2ada65f63ef5e6563f5be7a92622c82b89db5f",
+      "en_sha256": "eb407eaee0ca6c989a4d99bfa49ecfea5347e863aa281a23c969a24d279b2eea",
+      "origin": "ai"
+    },
+    "dataList[id=800202].desc": {
+      "pl": "na początku 2. tury fazy 2 uruchamia się wybór opcji 1.",
+      "kr_sha256": "712517cfa99ab094650bf47ced3be2c4f845466d0eaec2cf330c9bae60bbd1f0",
+      "en_sha256": "50c5cc1d7beddeb4a7049781eeb7087b883d01153415e49dfbd4d5b439142847",
+      "origin": "ai"
+    },
+    "dataList[id=800202].name": {
+      "pl": "DON'T LET THE KIDS READ THIS",
+      "kr_sha256": "275359f564bc4fac6943c12443d0448d5733378e01280c55f5687ff1486750fa",
+      "en_sha256": "b3eef97cab2c321cef77e8419fc2bd7556b7943ee675ab271747185144e7dad7",
+      "origin": "ai"
+    },
+    "dataList[id=800203].desc": {
+      "pl": "jeżeli oba Ramiona zostaną zniszczone lub HP Core spadnie do 70%, bitwa przechodzi do następnej fazy.",
+      "kr_sha256": "e181cbaecda907913b68ca6188731f507379746e380c7532cec45d138a69be5d",
+      "en_sha256": "02a5ee749f6a0988ed4f17f23f27d87ce940f1fbe3140f613d889749d7e5e393",
+      "origin": "ai"
+    },
+    "dataList[id=800203].name": {
+      "pl": "Let the Fire Festival Ignite",
+      "kr_sha256": "f9a707470e3185bb8586447de0549b9f6ee8b35ee766fc04910888e5a325524a",
+      "en_sha256": "d1f3583d56ca1ad1d0720c3cd7202c454489ec104890f63acb01c8cd804f2d6c",
+      "origin": "ai"
+    },
+    "dataList[id=800204].desc": {
+      "pl": "Podczas Fazy 3\nna początku tury nakłada 3 Podpalenia wszystkim wrogom.",
+      "kr_sha256": "e19f74db84461338a0dacb2c84d559d6008068346a1cf43770ca54f5b9f7ee3e",
+      "en_sha256": "66b789e043bab918ce4144ddf53c1a380eefd2988b42dbf8ab552e8de6316f01",
+      "origin": "ai"
+    },
+    "dataList[id=800204].name": {
+      "pl": "Frenzy",
+      "kr_sha256": "2668bc818e5bb92383e10eda13c33daaac9eb267906aae71b48ac507176b6e9e",
+      "en_sha256": "148b8f01ccb30c07d3bd3fb26370f7976cdc4a08a1e1d2c6be996306d8cc274e",
+      "origin": "ai"
+    },
+    "dataList[id=800205].desc": {
+      "pl": "gdy HP spadnie do 60%, uruchamia się wybór opcji 2.",
+      "kr_sha256": "5d81a909823cdcb8be48f86f1f4760aab165345332a470542325e5e5aa735939",
+      "en_sha256": "4b951213bdf66e20d3fc55d2d5ac2c3fab36e614bd7d3c139bc1ce331bdf4747",
+      "origin": "ai"
+    },
+    "dataList[id=800205].name": {
+      "pl": "NOT FOR DISPLAY",
+      "kr_sha256": "275359f564bc4fac6943c12443d0448d5733378e01280c55f5687ff1486750fa",
+      "en_sha256": "4421108b4bc1c916f06d0bcc4b1dfb02cf26b9a3a6ef35ce2da0b59c3b64cd49",
+      "origin": "ai"
+    },
+    "dataList[id=800206].desc": {
+      "pl": "gdy HP Core spadnie do 25%, bitwa przechodzi do następnej fazy.",
+      "kr_sha256": "f9bafbc9a3108c78b184bf73094986a3e675ccd054f2fbf4b0a00a80eec4865d",
+      "en_sha256": "50998ce7c762c8a4d92e31f3b4fbf95c9501ab06676069c912f0d976e36735bf",
+      "origin": "ai"
+    },
+    "dataList[id=800206].name": {
+      "pl": "Let the Star Festival Fall",
+      "kr_sha256": "8ac2c89a5241a927a4b65f934be01397d701466999e7c731db3f98de00101469",
+      "en_sha256": "71838c272e46d9bfc91eb63144e0c225867484191e2e74ff99a381a13ec8cd9e",
+      "origin": "ai"
+    },
+    "dataList[id=800207].desc": {
+      "pl": "na początku 2. tury fazy 4 uruchamia się wybór opcji 3.",
+      "kr_sha256": "d694f25a77fccc773230a9e763f7c709a61ff5aa2177e4c805963a499b36fc79",
+      "en_sha256": "773b04ee5039fda423f52d65c5d7ab63e23943c2c234a10e4f46b1272fb8eb5f",
+      "origin": "ai"
+    },
+    "dataList[id=800207].name": {
+      "pl": "NOT FOR DISPLAY",
+      "kr_sha256": "275359f564bc4fac6943c12443d0448d5733378e01280c55f5687ff1486750fa",
+      "en_sha256": "4421108b4bc1c916f06d0bcc4b1dfb02cf26b9a3a6ef35ce2da0b59c3b64cd49",
+      "origin": "ai"
+    },
+    "dataList[id=800301].desc": {
+      "pl": "nie ginie przy 0 HP; zamiast tego pozostaje na arenie jako jednostka niezdolna do działania, której nie można wybrać jako celu.\nZostaje pokonana razem z Doomsday Calendar.",
+      "kr_sha256": "0313f51591911fedf9d806981e2bc0822b6ede831883f5f8c44720621bd7d864",
+      "en_sha256": "b88109d5a47f958f36828ef5e74134392e9855cf749537a77428ec7591fb3b8f",
+      "origin": "ai"
+    },
+    "dataList[id=800301].name": {
+      "pl": "Idolatry",
+      "kr_sha256": "dd2798fe89747f3116d8600305246850852fe2547e4f6cfd15a72dd6bd0845a8",
+      "en_sha256": "568ee030e91b2a7e17ebc165c1cba529dfd2205baa7bc066afd9cc2a98be8c52",
+      "origin": "ai"
+    },
+    "dataList[id=800801].desc": {
+      "pl": "przywraca HP co turę proporcjonalnie do wartości Złotego Blasku.",
+      "kr_sha256": "93fb1a113403520386629baa057a8074d8f336662b0a5d9a2bda71afde6d278c",
+      "en_sha256": "4a749b32f5e75fc197d96867b03ce0fd786ddbb43b0b06f5af8a2698acb7d57f",
+      "origin": "ai"
+    },
+    "dataList[id=800801].name": {
+      "pl": "Cracked Gold",
+      "kr_sha256": "fa3a3350e067da875e3a1aed86910cba33778cc89c9490eef29953410aa0ab39",
+      "en_sha256": "46eea61db9c0eae8bad5265023a3466f57339d7a7f6ed6daa0d232625065f40d",
+      "origin": "ai"
+    },
+    "dataList[id=800902].desc": {
+      "pl": "gdy Głowa zostaje zniszczona, w następnej turze wszystkie Części zostają unieruchomione (Immobilized).\nGłowa odrasta po 1 turze.",
+      "kr_sha256": "54e419a878b00734bede11c1af2ef4c92579ab6afd88bfe3ee296bbb59e8d4f1",
+      "en_sha256": "b1d5217ad6b37caa5942c6d87d24a935f64ef3b96d57bde69c76c6c030f2ddfb",
+      "origin": "ai"
+    },
+    "dataList[id=800902].name": {
+      "pl": "Frail Core",
+      "kr_sha256": "10e8f251ce1aa2ae91c0e3106cc88ffd098a2f004b6e05529a5a5cd9217119ac",
+      "en_sha256": "bbeb023de5c2025b428e6b943390614efff49fb74250b9297132a03bdcffbac9",
+      "origin": "ai"
+    },
+    "dataList[id=800903].desc": {
+      "pl": "po zniszczeniu Korpusu, co turę wszystkie Części otrzymują 2 Spadek Mocy Ataku.",
+      "kr_sha256": "6e242f2c672a36b76022e42038e7bd6286ff07acd367e37ffe8a7ed722f1f74f",
+      "en_sha256": "5660899771969c9ba1a578d576a05db1e368bcf04fb8c5ff21095fa99dfd57dc",
+      "origin": "ai"
+    },
+    "dataList[id=800903].name": {
+      "pl": "Rotting Apple",
+      "kr_sha256": "64d4cccd228a0903a175b41eed6a9308152c1015f1e5e201ddad0605298ee779",
+      "en_sha256": "1ea34db296041b6fb24126d63293328a294b6d48c360d91d49ba17a5734df53d",
+      "origin": "ai"
+    },
+    "dataList[id=800904].desc": {
+      "pl": "NOT FOR DISPLAY",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "4421108b4bc1c916f06d0bcc4b1dfb02cf26b9a3a6ef35ce2da0b59c3b64cd49",
+      "origin": "ai"
+    },
+    "dataList[id=800904].name": {
+      "pl": "NOT FOR DISPLAY",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "4421108b4bc1c916f06d0bcc4b1dfb02cf26b9a3a6ef35ce2da0b59c3b64cd49",
+      "origin": "ai"
+    },
+    "dataList[id=801001].desc": {
+      "pl": "gdy jednostka zostaje pokonana, odradza się w następnej turze i zyskuje 1 Zabieg.",
+      "kr_sha256": "bf188312ab383fcbc0bdc83d8aa67f444d41b7b1e9f232b8c942e8ee00d13177",
+      "en_sha256": "14579b10e41fc013d69f86cdeadd62c33a2387e0df5341f8440549b6bad4059e",
+      "origin": "ai"
+    },
+    "dataList[id=801001].name": {
+      "pl": "Upgrade Factory at Work",
+      "kr_sha256": "7949e803a74d21b7b9b4fe37058dcd227e940244cd2ebc6a593a8a70e2145cb0",
+      "en_sha256": "171ce219136b09038c7070bb6ba5fbc424f84263a8e01e8d395adbf7ff6a042d",
+      "origin": "ai"
+    },
+    "dataList[id=801002].desc": {
+      "pl": "na początku tury zyskuje 1 Ochrony.",
+      "kr_sha256": "4aaff5ba11943459cb836c3a25486421553739dec36520f2ad59c137f2874456",
+      "en_sha256": "b1e4f34c2abb6c85adacf3a909ce7c5eca47289a0c59fe2d9880e211e5a060b2",
+      "origin": "ai"
+    },
+    "dataList[id=801002].name": {
+      "pl": "You Must Become Strong",
+      "kr_sha256": "e23ff814f60ef309b89feb1097d2b0f83d36abab83245ddf9c9dafd264af65a1",
+      "en_sha256": "b48200c5d6548282066529afc50d346cb53342b3bc1a50bd4328f1764b7e5ac1",
+      "origin": "ai"
+    },
+    "dataList[id=801201].desc": {
+      "pl": "na początku tury zyskuje 2 Ochrony.",
+      "kr_sha256": "e6d01da15717328b0bd242800bdd74b1685b2958769d9efc6a7e771c919b645d",
+      "en_sha256": "7bdf072876255e3d5565fb48d19cfa22c562cf5893691742bcb09e09f4c0d69b",
+      "origin": "ai"
+    },
+    "dataList[id=801201].name": {
+      "pl": "You Must Become Strong",
+      "kr_sha256": "e23ff814f60ef309b89feb1097d2b0f83d36abab83245ddf9c9dafd264af65a1",
+      "en_sha256": "b48200c5d6548282066529afc50d346cb53342b3bc1a50bd4328f1764b7e5ac1",
+      "origin": "ai"
+    },
+    "dataList[id=801301].desc": {
+      "pl": "w stanie Desirous jednostka zyskuje 2 Wrażliwości i 10 Spętania, zyskuje 1 slot Umiejętności i zmienia wzór zachowania.",
+      "kr_sha256": "1a7758860b7297286afb1f61df19e84b5d87e3a2e238b3725aaf5f6f85b39a59",
+      "en_sha256": "8911b9cb86df0c5569b001eb2af44191afef5c31d25ad53a0c4360cc0a34bcfe",
+      "origin": "ai"
+    },
+    "dataList[id=801301].name": {
+      "pl": "Wavering Desires",
+      "kr_sha256": "fef57da822ffb21c7bb9f11e5b01af5faf275d46b7d09440f32a600945961e08",
+      "en_sha256": "c9e12c289827f4f2268fd394bcedbd99b60c4d02fda8c26c48de99fb8607cafe",
+      "origin": "ai"
+    },
+    "dataList[id=801302].desc": {
+      "pl": "jednostka wchodzi w stan Desirous za każdym razem, gdy traci 30% swojego HP.",
+      "kr_sha256": "471e4456f257f15554bb7b20a9aad04bad63bac39c3c14301231113b8ec6f151",
+      "en_sha256": "8f471dcaa2ba44bf2c22e691aff4ba74c431151332a9b9504eb12a82528cae8f",
+      "origin": "ai"
+    },
+    "dataList[id=801302].name": {
+      "pl": "Ensnaring Desires",
+      "kr_sha256": "8a0fa677aff57411f48fdf068a9d76624b2ad86815c831739df572b0637842ee",
+      "en_sha256": "62a63cc9fbcc7abf2444560aa3fd81b494def873ce08557be80a51054188def4",
+      "origin": "ai"
+    },
+    "dataList[id=801904].desc": {
+      "pl": "zyskuje 1 Ochrony za każdego sojusznika, który zginął w tej fali. (Maks. 5.)",
+      "kr_sha256": "1ba2709990cae88e3d341b745444bb530ac3393e09a06fa0494da0b7dce96f13",
+      "en_sha256": "d8bc1607a8981f94988a71ec496eef1767d2799bf759f3f7c5545363deb0e3bf",
+      "origin": "ai"
+    },
+    "dataList[id=801904].name": {
+      "pl": "Shuddering Terror",
+      "kr_sha256": "e7c460df9d9a8a4fc5e5d3a42f2c70872e1acd23c75a2533651e0555db45ff34",
+      "en_sha256": "676fa6349eb230c69adfa39dd11738f859c63a069b505fb29f4b3d48f55c6507",
+      "origin": "ai"
+    },
+    "dataList[id=802401].desc": {
+      "pl": "na początku tury zyskuje Wzrost Mocy Ataku i Ochrony w liczbie równej Licznikowi Instynktów.",
+      "kr_sha256": "575afe1628078e8e6c2d955da14ee040afe120fbec8b437b1c93a75d45149f6e",
+      "en_sha256": "0747c7552e41b34aa2b536aab352fb9ec6a57bdb94cc22bb5c880e334b9d7044",
+      "origin": "ai"
+    },
+    "dataList[id=802401].name": {
+      "pl": "Pulsating Arms",
+      "kr_sha256": "7ffd160b3a2f5c70bacd01f6b5a975d3cba32e7f0e349876b8d29785165d0756",
+      "en_sha256": "381e4b3f0d17863e48f66a7bd0f7015f129690a6acb102489e50b2b9ae38faf7",
+      "origin": "ai"
+    },
+    "dataList[id=802402].desc": {
+      "pl": "traci 1 Instynkt za każdym razem, gdy jednostka otrzyma obrażenia od ataków.",
+      "kr_sha256": "2f23055647aa08ddfa596e75b4a5ec7c545e1ad3ac0c079a80e49949b89ede18",
+      "en_sha256": "ae48683193f462c193acbbdffa76bdddbe853cb3409bb0fa584ffd7668ca4c5f",
+      "origin": "ai"
+    },
+    "dataList[id=802402].name": {
+      "pl": "Damaged Arms",
+      "kr_sha256": "220ea9e96ba0eb00eccbf58f97b942c682f6c99757600f4267e5ca89f6f5c5f6",
+      "en_sha256": "ddb48969140a24f087ed8bba17d6ae9f605d3dd535306d12750921be4bc961f3",
+      "origin": "ai"
+    },
+    "dataList[id=802403].desc": {
+      "pl": "na koniec tury, jeżeli jednostka nie otrzymała obrażeń od ataków w tej turze, przywraca 5% HP i zyskuje 1 Instynkt.",
+      "kr_sha256": "59b47bf80375f85316d62741fbef43741cd86098b456830a3d3acad4ffe91aa9",
+      "en_sha256": "a3db07b7f7cd34db5de22581c4a6f20d4d5a1f4c721850e645af40ac58ea737b",
+      "origin": "ai"
+    },
+    "dataList[id=802403].name": {
+      "pl": "Regenerating Shell",
+      "kr_sha256": "3410b9b9fa553b935a22edec950b30505475161d320ed4135098f24dffdfec35",
+      "en_sha256": "48b3adbc33fc07ba39638013600d963183985585a897b2a83f1cc75aa7358bd6",
+      "origin": "ai"
+    },
+    "dataList[id=802404].desc": {
+      "pl": "zachowanie zależy od Licznika Instynktów.\nprzy 4+ Instynktach używa umiejętności agresywnych, a przy 3 lub mniej — defensywnych.",
+      "kr_sha256": "7c03b2c64f37fa6e8d714d23a538e1b0aeacb35f209ee502b4c45e0dcd0f9332",
+      "en_sha256": "605862a0fbdc80ddc0c0287048f3d6e840ef043458bafec8ba0b1f3078d40f69",
+      "origin": "ai"
+    },
+    "dataList[id=802404].name": {
+      "pl": "Frantic Eyes",
+      "kr_sha256": "ce208399403ba7bb1668616a734812faa5a55347f41f64e26a4cadabb5a5366e",
+      "en_sha256": "b4cad6d2e8e0339cadf434db227aa0557def4b60a2525918c9d21c3b7deeacc3",
+      "origin": "ai"
+    },
+    "dataList[id=802501].desc": {
+      "pl": "gdy jednostka zostanie trafiona atakiem, zyskuje 1 Instynkt.\njeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.",
+      "kr_sha256": "238e4c67f90a32b422d8805e21924d3521f6eb9636973a9e650f1e0a63436f7c",
+      "en_sha256": "184f42e476c05a886e42eeb06496d642010cc6c2badeccccfd9d20f7f6f01f30",
+      "origin": "ai"
+    },
+    "dataList[id=802501].name": {
+      "pl": "Amplified Aggression",
+      "kr_sha256": "98f82d3d11842e56469c72d894b22d82a6634f721580f6f2e535473151dcda13",
+      "en_sha256": "eed31a997a353eea205d3f51cc2ae9653bd7fe4f69716f6d037b9fa779965068",
+      "origin": "ai"
+    },
+    "dataList[id=802502].desc": {
+      "pl": "w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.",
+      "kr_sha256": "594fa2d8c7a790ad14303395854b517de8c907f9748fdff6734b196d271ce56e",
+      "en_sha256": "33a3c452a3d822441f5968b4986a8bc8950591a01f5f807ea4146c82976267d8",
+      "origin": "ai"
+    },
+    "dataList[id=802502].name": {
+      "pl": "Szał",
+      "kr_sha256": "0ff25a2c05e21fd17aaec38bf0fbdc72b0e3caeffeee0b6983572d2d23611175",
+      "en_sha256": "148b8f01ccb30c07d3bd3fb26370f7976cdc4a08a1e1d2c6be996306d8cc274e",
+      "origin": "ai"
+    },
+    "dataList[id=802503].desc": {
+      "pl": "przy mniej niż 50% HP wchodzi w stan Szału co turę.",
+      "kr_sha256": "19bd6207a10ba6b19b703bf0f27db3f282eef5012ba5184ebbebc3313e9225ae",
+      "en_sha256": "da8293acb5ef90434feb15d5ba3c459e69a82857dd85789c35e0cf87e471ed35",
+      "origin": "ai"
+    },
+    "dataList[id=802503].name": {
+      "pl": "Shimmering Rage",
+      "kr_sha256": "6010f48f009be59792fa0f8d3a5c1bf6956bd7bcd8e85c020eea8718e37ed897",
+      "en_sha256": "82afb2151d2e4f0d35a1c3355039828337881e14e5c28fca52559098fdeed4c6",
+      "origin": "ai"
+    },
+    "dataList[id=802701].desc": {
+      "pl": "gdy jednostka zostanie trafiona atakiem, zyskuje 1 Instynkt.\njeżeli na koniec tury ma 4+ Instynktów, wchodzi w stan Szału.",
+      "kr_sha256": "238e4c67f90a32b422d8805e21924d3521f6eb9636973a9e650f1e0a63436f7c",
+      "en_sha256": "184f42e476c05a886e42eeb06496d642010cc6c2badeccccfd9d20f7f6f01f30",
+      "origin": "ai"
+    },
+    "dataList[id=802701].name": {
+      "pl": "Amplified Aggression",
+      "kr_sha256": "98f82d3d11842e56469c72d894b22d82a6634f721580f6f2e535473151dcda13",
+      "en_sha256": "eed31a997a353eea205d3f51cc2ae9653bd7fe4f69716f6d037b9fa779965068",
+      "origin": "ai"
+    },
+    "dataList[id=802702].desc": {
+      "pl": "w stanie Szału jednostka zyskuje 3 Wzrost Mocy Ataku i 3 Wrażliwości, zmienia wzór zachowania i nie zyskuje Instynktów przy trafieniach.",
+      "kr_sha256": "594fa2d8c7a790ad14303395854b517de8c907f9748fdff6734b196d271ce56e",
+      "en_sha256": "33a3c452a3d822441f5968b4986a8bc8950591a01f5f807ea4146c82976267d8",
+      "origin": "ai"
+    },
+    "dataList[id=802702].name": {
+      "pl": "Szał",
+      "kr_sha256": "0ff25a2c05e21fd17aaec38bf0fbdc72b0e3caeffeee0b6983572d2d23611175",
+      "en_sha256": "148b8f01ccb30c07d3bd3fb26370f7976cdc4a08a1e1d2c6be996306d8cc274e",
+      "origin": "ai"
+    },
+    "dataList[id=802801].desc": {
+      "pl": "na początku tury, jeżeli ma mniej niż 50% HP, przy trafieniu nakłada na atakującego 3 Trucizny.",
+      "kr_sha256": "e163bdcd14b7f4485c7c5062b78db95c93139affa51d6d64cf30c2345007cc5f",
+      "en_sha256": "bf431de1d8aeea6913ed336e5d31cc4cb647b26a639418a1c8d4438e45b18d3e",
+      "origin": "ai"
+    },
+    "dataList[id=802801].name": {
+      "pl": "Rotting Skin",
+      "kr_sha256": "be4362a4bcb32bcd77f4ce8f0e3857a60a0e76db4202ea81dd36f1e3116c0a2d",
+      "en_sha256": "b4f1554b3d80cad5fe04051f956f87c3f8a5447c7152efce7e4669bb195c8ef7",
+      "origin": "ai"
+    },
+    "dataList[id=802802].desc": {
+      "pl": "po zniszczeniu tej Części, jeżeli pod koniec następnej tury drugie ramię nie zostało zniszczone, odrasta ono z HP równym HP tamtego ramienia.",
+      "kr_sha256": "d5ce2cbf204993bd101414e9956dc8be8121f0a186fd34c33fdb85ee4bfd33ba",
+      "en_sha256": "8b52b95313faf5de0c936e501a5369ecdabf522a67a0dcc565130a85f6efec6e",
+      "origin": "ai"
+    },
+    "dataList[id=802802].name": {
+      "pl": "Molt",
+      "kr_sha256": "558eb22fa6c0fcc8a4eecfa361afc504ad6024827fbd1bc9e08b0f01e992ab02",
+      "en_sha256": "f716c5fd8cfd127490138852c8e25ffb708f00882043f38d64c8fa1183406ab5",
+      "origin": "ai"
+    },
+    "dataList[id=802803].desc": {
+      "pl": "gdy oba ramiona zostaną zniszczone, co turę zyskuje 5 Wrażliwości i nakłada 10 Trucizny wszystkim wrogom.",
+      "kr_sha256": "9998ab0a2b0d5f52a89e13805b1ce6d913c718bba271809fd8bdf1f925af7bba",
+      "en_sha256": "a73f8588c1638cfb3a772eff65892b164f3de3400ac7abd508762006a61992e8",
+      "origin": "ai"
+    },
+    "dataList[id=802803].name": {
+      "pl": "Pained Writhing",
+      "kr_sha256": "dcef8aa70a6328797a778c545299963ecb08388a03507a9fb2da4b653ea6af47",
+      "en_sha256": "ed1f1424ebabde5e33f7dbe7f5643d5bb3c842a983ec67e72fe5ee1fe47eed6b",
+      "origin": "ai"
+    },
+    "dataList[id=802804].desc": {
+      "pl": "zachowanie zależy od Licznika Instynktów.\nprzy 4+ Instynktach używa umiejętności agresywnych, a przy 0 — defensywnych.",
+      "kr_sha256": "9de7ab70c022306e9463d37d88cdaefb7d9ecf7ed366ed883a067be4cb4516d0",
+      "en_sha256": "1863b2e75ceeda1b6cc4e30658c793c4ecf5ea3d87b0869b731fd1051622f882",
+      "origin": "ai"
+    },
+    "dataList[id=802804].name": {
+      "pl": "Wriggling Instincts",
+      "kr_sha256": "a77f6c2b62c0bd26497de222876d4629789f95adca31c8b0fa3ad8dd4785a9a9",
+      "en_sha256": "ad7b5aa0c04c5f041288276afc841f5f22ba9583b2b66a9b6d166d721c0c1295",
+      "origin": "ai"
+    },
+    "dataList[id=802901].desc": {
+      "pl": "jeżeli zebrano mniej niż 3 Znaku, Sinclair zyskuje co turę 1 Spętania i 1 Paraliżu.",
+      "kr_sha256": "f5df5c16afc9e448ce9cea6e64c5d4cf8f67a4bf9c6ad69cc4052af273274577",
+      "en_sha256": "ab32c59128de36258d2318bf1522b55004a677f9e52474125d8823e62fea6a82",
+      "origin": "ai"
+    },
+    "dataList[id=802901].name": {
+      "pl": "Fearsome Whistles",
+      "kr_sha256": "289eada5d9d3b3c47d963862a30c3d35529bb34655608ea729e97b56a6860e7e",
+      "en_sha256": "e98c03d0999d276dbaf75d01143ed02c5f5648af12e8bd50f30c22f88d724f2f",
+      "origin": "ai"
+    },
+    "dataList[id=802902].desc": {
+      "pl": "jeżeli zebrano 3 lub więcej Znaku, Sinclair zyskuje co turę 1 Wzrost Mocy Ataku i 2 Ochrony.",
+      "kr_sha256": "e0a9ff13f73ceeb143f3459fdef6b82295ae035d2b90a09542dbe576c33c7536",
+      "en_sha256": "b3d4ca91732bc2cca10f44dac5e2b3bf86200182632e0ded816196dd256a2a9f",
+      "origin": "ai"
+    },
+    "dataList[id=802902].name": {
+      "pl": "Courage to Triumph Fear",
+      "kr_sha256": "452c11e59a8928b2b0714d71ebdc7b07665cd0bfe3d538e6da842b3f2fe5011e",
+      "en_sha256": "bedecc54748a50c19450badff2fe72047e89359b3ad77fa21ae45be79e4871af",
+      "origin": "ai"
+    },
+    "dataList[id=802903].desc": {
+      "pl": "na początku tury, jeżeli niezniszczona Część ma Krwawienie lub Podpalenie, przywraca HP równe 15% Maks. HP i zyskuje 3 Wzrost Mocy Ataku.\nwielkość przywracania i efektów maleje w zależności od liczby Znaku, aż do 0.",
+      "kr_sha256": "976956687fafc790f2932c1901f9d65080107d2e6281eacbbc87600ec86929b4",
+      "en_sha256": "81908a1ee2664427bc7f4195b913236811cbe31f65c5d62de2ef6de0e613c03e",
+      "origin": "ai"
+    },
+    "dataList[id=802903].name": {
+      "pl": "You Must Accept the Pain!",
+      "kr_sha256": "7744ce936cb0431993d959541c993ec0a80287780ec24a2e8e5d4b83bbb5c4f8",
+      "en_sha256": "21568279907bd838bfe435278c291db9d07fcb35c63c3e52288b5521084cdce1",
+      "origin": "ai"
+    },
+    "dataList[id=802904].desc": {
+      "pl": "po pokonaniu wroga zyskuje 2 Pośpiechu i 5 Wzrost Obrażeń w następnej turze.",
+      "kr_sha256": "19fbe2476ac14c7b7d3f99f3ccfefffbb4cd9163fadb98162826bcffd5daeb33",
+      "en_sha256": "07b8d6018a9086eb50480c1f751cbd84ff1756d8566cd93262859c91d7c25425",
+      "origin": "ai"
+    },
+    "dataList[id=802904].name": {
+      "pl": "Bliss of Execution",
+      "kr_sha256": "b3b646c70953d90b6917c9dcbb89f8e7a63ecd3071e8e73a5cdd18555b2bd1e3",
+      "en_sha256": "15049f052ea1f84425a8027b01eaf593878e5ee45effccbe602dc9c690aa0bf8",
+      "origin": "ai"
+    },
+    "dataList[id=803001].desc": {
+      "pl": "począwszy od 3. tury, wchodzi w stan Ekstazy co 2 tury.",
+      "kr_sha256": "a6b55b4377b3a854311f004a3237ce2445aca583965cdb4aab8b6247353b13d9",
+      "en_sha256": "ea23ba2c3dfc195492f6bbedc4bb3788dc7161c3d606d3cc96a45512376d93fb",
+      "origin": "ai"
+    },
+    "dataList[id=803001].name": {
+      "pl": "Overflowing Ecstasy",
+      "kr_sha256": "650f20eab0ddb68bddbace628105a1e846827792c19d708d71c0227f8999bfb0",
+      "en_sha256": "1bdcd07b615ee1ed3cb750b0e157bd80a54a96774e6fe99cbe030f2e6643b764",
+      "origin": "ai"
+    },
+    "dataList[id=803002].desc": {
+      "pl": "gdy HP głównego korpusu Kromer spadnie poniżej 50%, wchodzi w stan Czystości na pozostałe tury.",
+      "kr_sha256": "37c31ab78fd6c77f46c42d0526d09d15d82866584cd71f18565323a7afa40cba",
+      "en_sha256": "9432af7cde7e0c898e427595c4c57f1b0a883bc23fa05e5fc9e2dada78e99e47",
+      "origin": "ai"
+    },
+    "dataList[id=803002].name": {
+      "pl": "Blooming Purity",
+      "kr_sha256": "3f8141790a0ba56eaf70e016d99e2502d761967ce9087e95802279dc9d3542cf",
+      "en_sha256": "cbd4306aa74dffcea61779b5e12f9e81e33ae1faf21c8b91dc6c2b5639751641",
+      "origin": "ai"
+    },
+    "dataList[id=803003].desc": {
+      "pl": "gdy ramię zostaje zniszczone, ta Część otrzymuje 2 Spadek Mocy Ataku.",
+      "kr_sha256": "77c762a893c098d219aadd6ca22842f5a5bf9bc721f8c6348b7076c4fad5fa02",
+      "en_sha256": "ee6195bc8faffc803395aa53f9ac0896d79085114537304af02cde4c79b96144",
+      "origin": "ai"
+    },
+    "dataList[id=803003].name": {
+      "pl": "Flawless Flesh",
+      "kr_sha256": "6bc84a2b705d1f556e033509a4262c11ff203335f52c5323d1c919e6cd78d261",
+      "en_sha256": "2ddfee0115f276f774d17016144c132abf07f0e4108b739433bab20545f95099",
+      "origin": "ai"
+    },
+    "dataList[id=803101].desc": {
+      "pl": "odporność na Gniew wzrasta.\nodporność na Posępność maleje.",
+      "kr_sha256": "02841e43c406c35beb830a944627af26912efc6f6be958b0e69d868d7dba3177",
+      "en_sha256": "fc2530fea774c83ea959508afcac4ec469254257678687830de950b55dce01e0",
+      "origin": "ai"
+    },
+    "dataList[id=803101].name": {
+      "pl": "Blood Sac",
+      "kr_sha256": "47d3096951d3359200b84e1d056019c949853b1943ec56e802b15161b4e976f5",
+      "en_sha256": "1b1ed9a6bdd8fa3dcbc36493d7b51de8b707983c722984a33bf780d7e9118831",
+      "origin": "ai"
+    },
+    "dataList[id=803102].desc": {
+      "pl": "dopóki trwa stan Fluid Sac, Core przywraca HP równe (20 * Licznik Fluid Sac).",
+      "kr_sha256": "652d22a72ed4a0bb38c06d8b1827a72003fe69ae66dd61de05eaeb0d2497e3ef",
+      "en_sha256": "3d4a727485dae80327db1349271cbcd24f376fd64541a3824dac74fed80f2df3",
+      "origin": "ai"
+    },
+    "dataList[id=803102].name": {
+      "pl": "Fluid Sac",
+      "kr_sha256": "9483c804aa854dfda95aae7da80c2eaa8ebc564a30b9a991cafd25605cbb6d70",
+      "en_sha256": "24e873fb91cd8b65080f1cf8a87cd74c3ef06ee68fe8107813d60d94d1e4213b",
+      "origin": "ai"
+    },
+    "dataList[id=803103].desc": {
+      "pl": "jeżeli Korpus zostaje zniszczony w stanie Blood Sac, wszyscy wrogowie otrzymują 20 stałych obrażeń.",
+      "kr_sha256": "726957f0d463643f1ed97097bb45decec3f3b5254ff2bc1ad0adf3fe5023107d",
+      "en_sha256": "79fb59bc265245ed935c8ed565ee34377fb65d19742d49db326728f22fbb295c",
+      "origin": "ai"
+    },
+    "dataList[id=803103].name": {
+      "pl": "Boiling Blood",
+      "kr_sha256": "837ac4ac9481d76012ad104fbd892f90d84e638b70666729bddaf60bd2631012",
+      "en_sha256": "3394b6765a9ef7e24b0929888e47f48697306ec62e5f00a31634d480567e50aa",
+      "origin": "ai"
+    },
+    "dataList[id=803201].desc": {
+      "pl": "gdy Słup Telekomunikacyjny zostanie trafiony, nakłada w tej turze 2 Porażenia na atakującego.\nprzy 5+ Błyskawic, począwszy od następnej tury, każda Część nakłada przy trafieniu 3 Porażenia w tej turze.\n(działa do 0)\ngdy zostanie trafiona atakiem atrybutu Lenistwa, nakładane Porażenie zostaje zmniejszone o połowę. (zaokrąglone w górę)",
+      "kr_sha256": "6c4b45fe48a8b11998cac96762a9f39f62fe63d949f3f72c12766f89c596aa57",
+      "en_sha256": "4e445f7a67c9106ac04d4fd38a515794b315975a7363f7501bf117f2481b7b76",
+      "origin": "ai"
+    },
+    "dataList[id=803201].name": {
+      "pl": "Lightning Rod",
+      "kr_sha256": "4cf9bee50242b3b7e2c292af572217ebfdb21f178a5ef3158d84109efdf9c080",
+      "en_sha256": "5d907e09f9c22fec429d7e0e83ddf443cd4f6d0204328c3d7203456032a48dab",
+      "origin": "ai"
+    },
+    "dataList[id=803202].desc": {
+      "pl": "dopóki Słup Telekomunikacyjny nie zostanie zniszczony, zyskuje 1 Błyskawicę po ataku. za każdym razem, gdy Słup Telekomunikacyjny zostanie trafiony, zużywa 1 Błyskawicę.",
+      "kr_sha256": "85f67c2af3f3ccedf4bae025695225456a0c8b2de73c5c437b08f43b60773d12",
+      "en_sha256": "6b161b41838ffb270f2aa7f916b29a004d0d1135b371e70c5e4ac7f81a729866",
+      "origin": "ai"
+    },
+    "dataList[id=803202].name": {
+      "pl": "Lightning",
+      "kr_sha256": "cb427961331d503d491757460c23345ce4194040dee5178d4595ef81e3385109",
+      "en_sha256": "41e68f2cdb3806bb899cb2f3c3d80a2171f37c85b60e8e486742234e4e5f5738",
+      "origin": "ai"
+    },
+    "dataList[id=803203].desc": {
+      "pl": "gdy Słup Telekomunikacyjny zostaje oszołomiony lub zniszczony, Błyskawice spadają do 0. w tej turze wszystkie umiejętności ataku Alleyway Watchdog zostają anulowane.",
+      "kr_sha256": "cff8d0301710bb74d54437d519c13f80861c40b93533a7553de38b2d151a7d80",
+      "en_sha256": "0a19ed6c311117e5f5729286b456c2cca7f7227c6a9032b9ba420628d68a9314",
+      "origin": "ai"
+    },
+    "dataList[id=803203].name": {
+      "pl": "Breaking Pieces",
+      "kr_sha256": "838348bf714ba35f654c45ec550648c4ad4968875c694443c287dd044b42050c",
+      "en_sha256": "ce8ab6783caa0cf8b621bfc6b4b3bcf8a26a52c81ea20d0103d064c96ca54622",
+      "origin": "ai"
+    },
+    "dataList[id=803302].desc": {
+      "pl": "gdy ramię zostaje zniszczone, co turę na początku tury zyskuje 5 Wrażliwości.",
+      "kr_sha256": "6b90c4b2ea4bf422dc440724a1c290288fc950d5ca3d4496eb8e2bd92c312d91",
+      "en_sha256": "5912e1447cc52be8de0ba80f853ca8fe0c06548974282f356f7a9ed6a393e9c5",
+      "origin": "ai"
+    },
+    "dataList[id=803302].name": {
+      "pl": "Severed Arm",
+      "kr_sha256": "9abf7d9f296c790003e46fc1caf2b9fa7d025e048e7bc844aff9911006066fee",
+      "en_sha256": "0cff7feae9e53365561650fc95eb8c4b14ea54174e619937ae19086051d77c42",
+      "origin": "ai"
+    },
+    "dataList[id=803401].desc": {
+      "pl": "na koniec tury, zadaje 3 obrażeń Poczytalności losowemu wrogowi.",
+      "kr_sha256": "c5806ad7b81f42bb7807ce6dca6b1fdd495269554a4426a40bbbe9dcf6bd42e5",
+      "en_sha256": "31eb61219d44c65086cbae12328d8d1e46022ff298d05721098db7183ac9ca95",
+      "origin": "ai"
+    },
+    "dataList[id=803401].name": {
+      "pl": "Bongy Chicken Struts",
+      "kr_sha256": "a05580cd3f55f092efdcb15297dece36dcd4dd7848e9190e405b6fbaf4363d04",
+      "en_sha256": "a840286192394a2886fb907e3de327938e2d419f005d300a94321f218118a34a",
+      "origin": "ai"
+    },
+    "dataList[id=803701].desc": {
+      "pl": "na koniec tury, nakłada 2 Wzrost Obrażeń i 2 Ochrony wszystkim sojusznikom w następnej turze.",
+      "kr_sha256": "c0185833b2bd5cb7f45c970b489ff747b175ba163e154806f07378fb9674d6b6",
+      "en_sha256": "128e3a9f02f8ffc4c95e8822ac7f37d9f245c4976c889ac3b30c26f6e12ca9c7",
+      "origin": "ai"
+    },
+    "dataList[id=803701].name": {
+      "pl": "Bongy Chicken Beefs Up",
+      "kr_sha256": "29fbb315df9dcc3e0f110cfc550907ef922221f23e6345319a45ec62accb9064",
+      "en_sha256": "ba87ecfcdba72976a344a1677ab3a48752e4bb23bd376a18c725a572c10a5518",
+      "origin": "ai"
+    },
+    "dataList[id=803901].desc": {
+      "pl": "na koniec tury, przywraca 5 HP za każdą Raw Chicken w walce.",
+      "kr_sha256": "2c2114cf74c5bdcddf48cae757fc7699980ae9a30dc57648c68c5b661e1382ea",
+      "en_sha256": "403ac5169d3b2298a25b9e0b5294739cda91f2d3a4cd30a04b95ac5632069588",
+      "origin": "ai"
+    },
+    "dataList[id=803901].name": {
+      "pl": "Vigorous Volaille",
+      "kr_sha256": "e55ca06fa9f485a6c948a4b1469d830d262b331e9195187ed47193e1c10ee628",
+      "en_sha256": "e255f810e3560123b528747eeb4f59c985cbabc0006e3ce13e5a0d879dc84fb6",
+      "origin": "ai"
+    },
+    "dataList[id=803902].desc": {
+      "pl": "na koniec tury, zadaje 5 obrażeń Poczytalności wszystkim wrogom za każdą Raw Chicken w walce.",
+      "kr_sha256": "e595bab2ea681066672266c5548d88fe5de698d3b5523bf70195ac5850330ccb",
+      "en_sha256": "2a6d19e7c5b870f5b6d8b8a063f62be461bdb4ba972f832680eeb0076d3b6417",
+      "origin": "ai"
+    },
+    "dataList[id=803902].name": {
+      "pl": "Gloomy Gallus",
+      "kr_sha256": "1653d5316683f4073e4f0475fc0c131dd77dc5638da58753df5c90e1ba8c4b59",
+      "en_sha256": "e44a2fb5ec2a8a52ea70abc53bea3e73ccad2c0ac1ccf3eecb0cacee85feafbd",
+      "origin": "ai"
+    },
+    "dataList[id=803903].desc": {
+      "pl": "gdy Część zostaje zniszczona, co turę zyskuje 1 Wrażliwości za każdą Raw Chicken, która padła przed zniszczeniem tej Części.",
+      "kr_sha256": "bf9f53a5b1fd705b9c8a86ed139f84e2e4722cf560dcb6037d0398e297438037",
+      "en_sha256": "f835d3e7fa7b0c11f9876a09c3e43c66fc138c931308a35d89635830f1f4c54a",
+      "origin": "ai"
+    },
+    "dataList[id=803903].name": {
+      "pl": "Fragile Fowl",
+      "kr_sha256": "c0ebae917e60d8f8100d654052f5c6e3e1c9a2ef7d949c6e52d45da3f3fb874e",
+      "en_sha256": "e375591a2f39dd1253114015ecf8275b48d729179ed57b65cdbfdd78aa551ba3",
+      "origin": "ai"
+    },
+    "dataList[id=803904].desc": {
+      "pl": "jeżeli Część nie jest zniszczona, co turę zyskuje 1 Wzrost Obrażeń za każdą żywą Raw Chicken.",
+      "kr_sha256": "a8f3909af9606a9adabc41e6fab56b977becf942ea732aafe730170fe5599540",
+      "en_sha256": "826fb0f415ea44fb7b4f227e35778d9a51d91e4539dcf56074f30ad358e13d3a",
+      "origin": "ai"
+    },
+    "dataList[id=803904].name": {
+      "pl": "Powerful Poussin",
+      "kr_sha256": "3b86fdeeb2f51f0fe6797f91f03257e03a58184d7438baaa1f78570c21c2d1dc",
+      "en_sha256": "d9ced45e161a056f658901ee4e24b881798c7d1211cde813792cb11148b23b8f",
+      "origin": "ai"
+    },
+    "dataList[id=804101].desc": {
+      "pl": "na koniec tury, jeżeli jednostka ma 3+ Nierozwiązanego Smutku, w następnej turze odrasta głowa i zmienia się wzór zachowania.",
+      "kr_sha256": "decf570dd86edf602198ffd934d0114deb9a6b4be12928f76a4d54283c318b64",
+      "en_sha256": "4f864d74a4a71a8761ecc3c78d6aff2d6720e9dd3cf57a70981e407dfd539241",
+      "origin": "ai"
+    },
+    "dataList[id=804101].name": {
+      "pl": "Expanding Sorrow",
+      "kr_sha256": "eea80e69f8d0e74614d72ae6145a325bb78802cf086f503c23a86444903f0081",
+      "en_sha256": "f05ccb4ef4bd3d5d21e1809ea3f64abce81d251836ad1eae078a286b47bf1fe6",
+      "origin": "ai"
+    },
+    "dataList[id=804102].desc": {
+      "pl": "na koniec tury, jeżeli jednostka ma 3+ Nierozwiązanego Smutku, a głowa jest zniszczona, w następnej turze przechodzi w stan Oszołamienia.",
+      "kr_sha256": "02bdf771513ad837b7daab46f6ff4c31c20c4099ec67ae5470f44e6661c55117",
+      "en_sha256": "55a1897c9c53315fe4de5193e13ed77b3fea8abc16011738581612b7181f90e1",
+      "origin": "ai"
+    },
+    "dataList[id=804102].name": {
+      "pl": "Inconsolable Sorrow",
+      "kr_sha256": "6f0c6e3bc0913e229b441cac542008821aa1786d6834b79a10eaced2518ef7bf",
+      "en_sha256": "bf472af8c9b9598d801d72d041f6ba9f71d3bd82c053f694fdb0e6108c70c0ac",
+      "origin": "ai"
+    },
+    "dataList[id=804103].desc": {
+      "pl": "gdy głowa przechodzi w stan Oszołamienia, wszystkie Części przechodzą w stan Oszołamienia w następnej turze.",
+      "kr_sha256": "921c34912a491444d859a13af9a6cdd949109940d4e9d393a5fcb3a9672a5e35",
+      "en_sha256": "58585967d64c62e6e23ba146700575908af497794343aff94ec844379107e1ee",
+      "origin": "ai"
+    },
+    "dataList[id=804103].name": {
+      "pl": "Taken by the Horns",
+      "kr_sha256": "089e54d5c066c210cc00255c76357ae1082ef002537189884d6cca7b986d7ed4",
+      "en_sha256": "bc855c75e9bd8df021c130976aa8bd2e3b1d6051f048e7ca474e402ab4ce38dd",
+      "origin": "ai"
+    },
+    "dataList[id=804104].desc": {
+      "pl": "gdy głowa zostaje zniszczona, wszystkie Części przechodzą w stan Oszołamienia w następnej turze. później, przez resztę walki wszystkie Części mają 3 Spadek Mocy Ataku.",
+      "kr_sha256": "8dcb0770d5f0b1822dca8f35f7e30abbebea2d6696170c1d67617a702493dda5",
+      "en_sha256": "3f60e601ee7a096907d6d52df5b12e0f6527526afdfe3c37e2302e2f08574855",
+      "origin": "ai"
+    },
+    "dataList[id=804104].name": {
+      "pl": "Downed by the Horns",
+      "kr_sha256": "4b0d3842759d54d2807109c366bf79a484011a9d8377946f41eaa892103c9cf9",
+      "en_sha256": "96268de7170419ce5e5ad17ad403216a70c9121bf4d96f2c83e604cd95b4b1da",
+      "origin": "ai"
+    },
+    "dataList[id=804301].desc": {
+      "pl": "na koniec każdej tury traci 10 Poczytalności",
+      "kr_sha256": "14da336eb377eac4fc8d4bac35a49dae7c3bb0ee3327c04e5b36778286e32410",
+      "en_sha256": "9189c8818ba918f310563466f54c23d8a62a1c5423ac7fd1bdbd4b726787c74e",
+      "origin": "ai"
+    },
+    "dataList[id=804301].name": {
+      "pl": "Perilous Mind",
+      "kr_sha256": "de265fd14c499cfa4661b6f5da48dd755447c70a47751b666f7698b6b244724e",
+      "en_sha256": "1627f61252dc3b6d5a93db89566788de568817fa8790d4fc9dc1dae722f9ab40",
+      "origin": "ai"
+    },
+    "dataList[id=804302].desc": {
+      "pl": "w stanie Niskie Morale, zyskuje 2 Wzrost Mocy Ataku i 3 Spętania",
+      "kr_sha256": "532fa56673ef0609212e7a6ffc0c9666f1203d0f301647c2607a5db3f521051a",
+      "en_sha256": "85e34dcb6845ace45ee875a441b266fa1918f4f029da93036509b6097dcf710f",
+      "origin": "ai"
+    },
+    "dataList[id=804302].name": {
+      "pl": "Perilous Heart",
+      "kr_sha256": "d508c13b6ff9351e65f9f4b9f1d9ab9ec665e2226bc63587e4a64e861ff690b0",
+      "en_sha256": "4f37b7b2dd014e497786ba4c80e982db0ec38fbe7e877bd50edd4f922a7cd0ae",
+      "origin": "ai"
+    },
+    "dataList[id=804303].desc": {
+      "pl": "w Panice przechodzi w stan Oszołamienia",
+      "kr_sha256": "8e837e305a75df9517d59d141927a749a82998a2cb06ce5d50bdc4f070cd8cc3",
+      "en_sha256": "9b813bf97e4f3656112c2f08a0a3759f3f2504a4088d05dc588f50b8367fb27f",
+      "origin": "ai"
+    },
+    "dataList[id=804303].name": {
+      "pl": "Faltering Heart",
+      "kr_sha256": "49b59230c5ac35fb7e783508db1de6b6e3acf6c462c8fb6395f4f574eeb99dce",
+      "en_sha256": "2b34c3bf0606532c3218388579b79a45968eb6ce8b574fc36feb1bbb855b50a7",
+      "origin": "ai"
+    },
+    "dataList[id=804304].desc": {
+      "pl": "powracając z Paniki, w pełni przywraca Poczytalność i zyskuje 2 Pośpiechu oraz 2 Wzrost Mocy Ataku",
+      "kr_sha256": "64906192bbe0702bb86acdfe374b74e8e9e8061ebc0ef20782f24b78471c49a7",
+      "en_sha256": "8c353e239d1b1464b3da8e19ea6e0857f61d4a2be35df341ca633df928c78408",
+      "origin": "ai"
+    },
+    "dataList[id=804304].name": {
+      "pl": "Determination",
+      "kr_sha256": "34cc650163e2bed32732add32852d574090d4aa23a4a06a29fd6860a45395789",
+      "en_sha256": "c07513328104b15e2b3be00a018a690231b1fdf8fa441b5103182b3d8199aa55",
+      "origin": "ai"
+    },
+    "dataList[id=804305].desc": {
+      "pl": "rozpoczyna walkę z 1200 HP Tarczy",
+      "kr_sha256": "eb877365390a530f710ee033583c656dc5066e884dc19491e87847a04e1ad779",
+      "en_sha256": "d339e6ba1bc3f2be8c9ad001132a1263c456f351bf3a5ac5811648ab27a34e8a",
+      "origin": "ai"
+    },
+    "dataList[id=804305].name": {
+      "pl": "Lobotomy E.G.O",
+      "kr_sha256": "c085a8786880e6c58fe54c1a60a2c165c594c83389c67e9dc55e3e1125526f7d",
+      "en_sha256": "225fdc7c2c7e46673571437bb966daa7340033c491f340441920ea35909c77ea",
+      "origin": "ai"
+    },
+    "dataList[id=804401].desc": {
+      "pl": "na początku 5. tury przywołuje 4 Soon-to-bloom Flower ze 3 Growing",
+      "kr_sha256": "3aedeff2719572c66145e25b862ec69342da173d6b91f7fda2265cebd0067a92",
+      "en_sha256": "d2c0e954ee267d6955887936f3bcc61d4031462411058a781710ab8824cd7ab3",
+      "origin": "ai"
+    },
+    "dataList[id=804401].name": {
+      "pl": "Into Full Bloom",
+      "kr_sha256": "6ae42b173a8636a5854d556bf4fa86b2e6fd641157e5048ed3993fef7b51e1d4",
+      "en_sha256": "929e39b140563d08da2b8b9cc31ac8aa5d5df72090fed81821abdd70ac5ca433",
+      "origin": "ai"
+    },
+    "dataList[id=804402].desc": {
+      "pl": "gdy HP spadnie do 50%, przechodzi do następnej fazy. HP nie spada poniżej 50%, dopóki faza się nie zmieni.",
+      "kr_sha256": "02a2efca90eb0eea79ed82427aa05722f0bbb88d26479933faa4aba25658ae03",
+      "en_sha256": "8fd4ca017d34f20910634206a26f75bf126289052f1abdfcde7953c7b9008b1e",
+      "origin": "ai"
+    },
+    "dataList[id=804402].name": {
+      "pl": "Flowering Mind",
+      "kr_sha256": "0b7d604c8589ac28e0209b286662cf576aa0473d02d2c631480f6d326e353207",
+      "en_sha256": "90b81a33e6b1ccf6dda127c4387def74ad47066de6e45c7dfc252d6732d248ee",
+      "origin": "ai"
+    },
+    "dataList[id=804403].desc": {
+      "pl": "gdy HP spadnie poniżej 50%, używa specjalnej Umiejętności wskazującej 1 jednostkę, a przez następne 2 tury staje się odporna na Oszołomienie i Panikę.\njeżeli Yi Sang ma 'Dueling', Dongbaek zyskuje 1 Wzrost Mocy Ataku.\njeżeli Yi Sang wygra pojedynek, wszyscy sojusznicy zyskują 3 Wzrost Obrażeń w następnej turze.\njeżeli Dongbaek wygra pojedynek, w pełni przywraca Poczytalność.",
+      "kr_sha256": "99f306bd639917d9cd32ffb2e3116a762bcc12b53c5bf3777bc77c9a0404066b",
+      "en_sha256": "70279a6b680c9eab84a03175f4a1c576ce8b0a7c09f3fd8a00744401edbaa6ae",
+      "origin": "ai"
+    },
+    "dataList[id=804403].name": {
+      "pl": "Dueling",
+      "kr_sha256": "a79f1e9662aafa9a834d0e48c553ce43203b7504069a87dca2271a2f558c371d",
+      "en_sha256": "5108aa705ffcb4e01b21a98629b9999b93993db7799801e43932c411ed63e797",
+      "origin": "ai"
+    },
+    "dataList[id=804404].desc": {
+      "pl": "jeżeli 'Magnificent Spring Breeze' przegra w Starciu, traci 10 Poczytalności",
+      "kr_sha256": "176916191b5f867ef2c916b151cb8f7df8772cc8b709f2b4445d8abc61ddb9f8",
+      "en_sha256": "43684efac602c773ac8a95a2d77d9ee4e423dc182b49af2c940d1fef4e54d4b6",
+      "origin": "ai"
+    },
+    "dataList[id=804404].name": {
+      "pl": "Cost of Blooming",
+      "kr_sha256": "dba8c7c38fd6b3834e4be8e7460b64ec26cc540644565b4e2ed0b1df45b1a393",
+      "en_sha256": "26bebccaeb67de8bd2fa1c0f2646781195f8381415c45e2cddbe6b1a3d924e06",
+      "origin": "ai"
+    },
+    "dataList[id=804501].desc": {
+      "pl": "w chwili śmierci wszystkie Umiejętności w tej turze zostają anulowane.\npodwaja posiadaną liczbę Samoładowania.",
+      "kr_sha256": "55f318a9989f44796c647978d28e2076e5f29fc5dfdca1febf8d1ec412cdc642",
+      "en_sha256": "93436006ecb55000ef838a27d094ba226a40199c582fed77a05428ae15275849",
+      "origin": "ai"
+    },
+    "dataList[id=804501].name": {
+      "pl": "Żywe Nerwy",
+      "kr_sha256": "ea77064313d2d46e8f24a0d44afd039868b1716f0c9bf1a98501310786482f14",
+      "en_sha256": "eabad4a76ceae9515d540e106bafa3a6ef17ae1120a5b9f1cce829f888af39f9",
+      "origin": "ai"
+    },
+    "dataList[id=804502].desc": {
+      "pl": "po śmierci każda Umiejętność ataku zużywa 1 Samoładowanie.\natkuje wrogów, dopóki nie zużyje całego Samoładowania.",
+      "kr_sha256": "58e3cb9ba33185e4fc31efc58fa3d6ad7bee0a188c11e0470500dcc98aae0e2c",
+      "en_sha256": "4e8039678df4d108c6a0a0a798fa0b82a0ec8964ac39fb625da51ea9b69f70e9",
+      "origin": "ai"
+    },
+    "dataList[id=804502].name": {
+      "pl": "Motioning Nerves",
+      "kr_sha256": "12301e7f7c69156984a4e2d46c526145844cf6e093756ae5d975cb9f5727a500",
+      "en_sha256": "65ee443d84b30bda8cabe40e22c7809abfbaafc2d32c61f01ad68dd625b9a360",
+      "origin": "ai"
+    },
+    "dataList[id=804503].desc": {
+      "pl": "co 5 tur zyskuje Tarczę równą HP głowy.",
+      "kr_sha256": "157a0ec8b30180fc4169cbd312a6fd5511ed3d7ef86ce09d0bf2f486970422c4",
+      "en_sha256": "1b07aaaa397fceceb5200538ca850873ef5fe080489b7b8876d8c3c20653e9ca",
+      "origin": "ai"
+    },
+    "dataList[id=804503].name": {
+      "pl": "Undying Persistence",
+      "kr_sha256": "0ac7700c1f1d3b4715609db2aa2b5ffc22e03c9960e7baa3253a96db3e9bc471",
+      "en_sha256": "506454f12edff6c2714bda5755c0e1fa356a8fe8f9ec9f1e9f900d9d8c187ee5",
+      "origin": "ai"
+    },
+    "dataList[id=804504].desc": {
+      "pl": "po użyciu 'Coil Up', jeżeli Tarcza została zużyta, zużywa Samoładowanie.\nwszystkie Części przechodzą w stan Oszołamienia w następnej turze.",
+      "kr_sha256": "84b4e19d03b6afe1c55540933a2a8d687f69124764106f6efb8e7098cef3a2f4",
+      "en_sha256": "a2cbf3955c7184aac549d550c4054df5a91046e22468c45aa1f5d821dda15962",
+      "origin": "ai"
+    },
+    "dataList[id=804504].name": {
+      "pl": "Terminated Persistence",
+      "kr_sha256": "4b45675d04944a9d3807a9b1c7bc1893d5761277ffc65118b138011e7f0a8e97",
+      "en_sha256": "45500ac76a163fb6bbb257a7618a1b06f9dfb6427ca163aceda4e48832394121",
+      "origin": "ai"
+    },
+    "dataList[id=804601].desc": {
+      "pl": "po zniszczeniu pleców, co turę zyskuje 3 Wrażliwości. nakłada o 2 więcej Rozdarcia.",
+      "kr_sha256": "cd7ce0a32a9c94a77b8d024944c462cf75dafcc3954089d418a2fa58eb4ed42c",
+      "en_sha256": "bbd340fb75337956912f6648fa86ea977235b6dcd1fb1a1c8ee8e6e174ddf026",
+      "origin": "ai"
+    },
+    "dataList[id=804601].name": {
+      "pl": "Broken Umbrella",
+      "kr_sha256": "d6bac045009b23b926fe5320813bb1fdef02c3435c192b71d05225d4f34e2884",
+      "en_sha256": "d53237529bdd6fe8c0e87117007a0a6f505986a38101dfe54d0f14057605cf88",
+      "origin": "ai"
+    },
+    "dataList[id=804602].desc": {
+      "pl": "po zniszczeniu parasola na głowie, co turę zyskuje 5 Spadku Poziomu Ataku. nakłada o 2 więcej Zatonięcia.",
+      "kr_sha256": "31008d534f64be08cba81b9e4937b6ee0fbaeb1b8775a8fb0485228b1e1209ab",
+      "en_sha256": "a1d7afd015c5e889a6278961015b4d311923c4748526e8d64106253cce496ac0",
+      "origin": "ai"
+    },
+    "dataList[id=804602].name": {
+      "pl": "Ragged Umbrella",
+      "kr_sha256": "afca826ff8816febf634ac8cbed4c56085817a47cb08bdf11897791f1a2f405e",
+      "en_sha256": "19df7709f86eda17ce94eafac5cf3b505ce70890b14b2dcb0d8447780e2f6e24",
+      "origin": "ai"
+    },
+    "dataList[id=804603].desc": {
+      "pl": "przy 15% HP Szybkość jednostki zostaje ustalona na 1 i zyskuje 1 Spadek Mocy Ataku.\nnowo przywołane Stare Parasole mają o 30% więcej HP. co turę używa 'Cries Seeking Something'.",
+      "kr_sha256": "6c1f14cc0478db7a113c8e6eba0d18dc4e9361b7950b6a736f02a305ea7fac2f",
+      "en_sha256": "23a4793ce262a84a39d4e33824d3212274ac1bec2310ea03775320b6a25cc899",
+      "origin": "ai"
+    },
+    "dataList[id=804603].name": {
+      "pl": "Last Struggle",
+      "kr_sha256": "2f0bbe9fed0e72c20037ab2fbd2013d3b5571c906b273699f5119219174b7288",
+      "en_sha256": "ab9ff22d9dabc95c46337b890b473e4c19a1afc1d72eb1d9f070d696599aefa5",
+      "origin": "ai"
+    },
+    "dataList[id=804701].desc": {
+      "pl": "na koniec tury, jeżeli ta jednostka ma Podpalenie, nakłada tyle samo Podpalenia wszystkim jednostkom z Splątanym Talizmanem Przekleństwa w następnej turze",
+      "kr_sha256": "2719a2d5dc80d77ef12e0d9729b6ec09c3ad5a347d066bb9ad4b06c4d4cbb191",
+      "en_sha256": "31fccfbc5088c002d486e2c5be179810f6b1c4f28c406d3011500109ded42375",
+      "origin": "ai"
+    },
+    "dataList[id=804701].name": {
+      "pl": "Spreading Ember",
+      "kr_sha256": "6fe888d5ac24950434a01f6203b67d336eb515e37577220a9074eeb8aedf1a47",
+      "en_sha256": "35a19f25bcf95b0f1c74dcb5cbfdf9fac895ee6bbfd79d8a2a27a57654a70e4b",
+      "origin": "ai"
+    },
+    "dataList[id=804702].desc": {
+      "pl": "gdy ramię zostaje zniszczone, zadaje ono o 20% mniej obrażeń",
+      "kr_sha256": "94f8527aee18732a465dba56cae5a46bf5e79fb73fd70bd810c41307c026fe19",
+      "en_sha256": "a6dc932a1ea5ace0c8ad7285230480af9dcab42e35c56d791b055abbc55080c2",
+      "origin": "ai"
+    },
+    "dataList[id=804702].name": {
+      "pl": "Broken Means",
+      "kr_sha256": "cb05a1aef90fc448c30312189832f98227074646bc2d93f2bd156a6ef9e188af",
+      "en_sha256": "3e8b05cbf461d81c02fe086931ea10b6296431432c3803f2c5ecca031371893d",
+      "origin": "ai"
+    },
+    "dataList[id=804801].desc": {
+      "pl": "jeżeli 'I'll Have This!' trafi wroga z 5+ Pijackim Nastrojem, przechodzi w stan Oszołamienia.",
+      "kr_sha256": "85bd4808668f23eff68afad55d03487c076a88fa90a795fdd4a34d834cb4bc5e",
+      "en_sha256": "f2d793d18bf153e62fc4ec8d7178581c53c712f7417d4d14089a9db8477e2254",
+      "origin": "ai"
+    },
+    "dataList[id=804801].name": {
+      "pl": "Booze Makes You Hicc!",
+      "kr_sha256": "130360f8a6280a23607b432bdb76cb8f996c23788e2da7fce413faa1b93147a4",
+      "en_sha256": "f9a73e372dc407d36e9fe4978b06c764c0f58287a803aa6714c6e4d9f010ae79",
+      "origin": "ai"
+    },
+    "dataList[id=804802].desc": {
+      "pl": "tajemniczy zapach wydobywający się z wnętrza podnosi na duchu.\nna początku fali nakłada 5 Uniesienia losowemu Grzesznikowi.",
+      "kr_sha256": "86f93468c2821be3fd136b480ed754df8158148adef1b68d9c0d2ee033da711d",
+      "en_sha256": "dacf957b5b199f991418aeb81d9ddf5a9d411fefd8549e60fff10a753a37bc29",
+      "origin": "ai"
+    },
+    "dataList[id=804802].name": {
+      "pl": "Stimulating Smell, Isn't It?",
+      "kr_sha256": "9a2bb7156b91fea62db860b5917f204d4b69ec6198c84387d575fb4a484894da",
+      "en_sha256": "cbd7fc60b93dd4feb176bf5751e583b2f3a5e6be9f65d9fde8f759571aed9c9a",
+      "origin": "ai"
+    },
+    "dataList[id=804903].desc": {
+      "pl": "Umiejętności celują bez rozróżniania sojuszników i wrogów. przy każdym użyciu traci 2% Maks. HP.",
+      "kr_sha256": "facf062d4c8b81f1026c2088112e7a5bcd4b1d20dd616531cd080031e64a13c5",
+      "en_sha256": "35eab852c68ef9d91214c7cddefedf66d2adeee050d3f23d3dfbcc793e7f34eb",
+      "origin": "ai"
+    },
+    "dataList[id=804903].name": {
+      "pl": "Samozniszczenie",
+      "kr_sha256": "d112f0ab29dcd51aa6df77f9d332cf323940866f150b021c1f5a92a9b168695f",
+      "en_sha256": "094436b6f0d014ed2796785e6d0c81c1224e1deb23eb59540ca95fac497f4691",
+      "origin": "ai"
+    },
+    "dataList[id=804904].desc": {
+      "pl": "efekty przywracania HP przywracają dwukrotność.",
+      "kr_sha256": "976f71f270b9b6d0f64f3f3f34d162afd052cb07ba624b554d066c4f587d7cf7",
+      "en_sha256": "20953925113724bf70eb241d2cfaeafd9fa8d9ab5ed7c2f8cfe49a9b6448f7d4",
+      "origin": "ai"
+    },
+    "dataList[id=804904].name": {
+      "pl": "Self Salvation",
+      "kr_sha256": "d831c321f8c1f99c4d99d9520be0237fa4a80ee91a123de7ac0d8bbf4626063d",
+      "en_sha256": "6c7f1a4a580c63bade7f27b1ff6b2acd1cefb6c0c6e8694ee954969b1205955a",
+      "origin": "ai"
+    },
+    "dataList[id=805001].desc": {
+      "pl": "gdy HP spadnie do 85% i 50% Maks. HP, przywołuje 2 Tree of Desires i zmienia wzór zachowania.",
+      "kr_sha256": "a646484473d141360df1bb4134b0e19cd9937aacaeb8a74493aacaf10978b9e2",
+      "en_sha256": "5e2351edf9a56afbb1d9e93b30419e6761c1820e2cdc1f03ad0100f9e35eaaa7",
+      "origin": "ai"
+    },
+    "dataList[id=805001].name": {
+      "pl": "Toward the Ideal",
+      "kr_sha256": "0961084c0a0a209b0fac759ca9b2d501a115cb7b0418a3185434033a8809fd9c",
+      "en_sha256": "cb75c9ee31ebee20d94a9eea9ce7449dd4800046d52f1f0b3a1f69a1afb313ad",
+      "origin": "ai"
+    },
+    "dataList[id=805002].desc": {
+      "pl": "gdy HP spadnie do 85% Maks. HP, przywołuje 2 Tree of Desires i zmienia wzór zachowania.",
+      "kr_sha256": "ba665b48f9e37391427c123dfb696198c65af34edf64529efdd33d2ecc99d636",
+      "en_sha256": "e6f6fb4eebb69d5afe9baa282729d1e1c51360a201267ded87820cb7f3ef4788",
+      "origin": "ai"
+    },
+    "dataList[id=805002].name": {
+      "pl": "Toward the Ideal",
+      "kr_sha256": "0961084c0a0a209b0fac759ca9b2d501a115cb7b0418a3185434033a8809fd9c",
+      "en_sha256": "cb75c9ee31ebee20d94a9eea9ce7449dd4800046d52f1f0b3a1f69a1afb313ad",
+      "origin": "ai"
+    },
+    "dataList[id=805003].desc": {
+      "pl": "gdy HP spadnie do 50% Maks. HP, przywołuje 2 Tree of Desires i zmienia wzór zachowania.",
+      "kr_sha256": "33f5aef82ec353b18ef11f322a3941729eab9bf6a7c2bdba4f530111f65373ce",
+      "en_sha256": "e9e35dd2dd8cc135ad13216d3550a44c65e456867875f4450bc3738e7d1ac585",
+      "origin": "ai"
+    },
+    "dataList[id=805003].name": {
+      "pl": "Toward the Ideal",
+      "kr_sha256": "0961084c0a0a209b0fac759ca9b2d501a115cb7b0418a3185434033a8809fd9c",
+      "en_sha256": "cb75c9ee31ebee20d94a9eea9ce7449dd4800046d52f1f0b3a1f69a1afb313ad",
+      "origin": "ai"
+    },
+    "dataList[id=805004].desc": {
+      "pl": "jeżeli 'Time of Harvest' przegra w Starciu, traci 5 Poczytalności",
+      "kr_sha256": "15a5546e833589ff8fa80bc84c839ac9bc9f287af7511f6afdefa6e3d031a5df",
+      "en_sha256": "469ab29c7b7bff1295609d5cf7d098a61561c287a743580029e9f73ba95e1c03",
+      "origin": "ai"
+    },
+    "dataList[id=805004].name": {
+      "pl": "Price of Neglect",
+      "kr_sha256": "14cfceca396dd96e31fef2536e5138c3a02095db6cf777e55e88b42d0cbac158",
+      "en_sha256": "71dd4494d5d21688af490da4aae3b4609216a1488339cad0e08f49b222a9e9b9",
+      "origin": "ai"
+    },
+    "dataList[id=805005].desc": {
+      "pl": "w Panice zyskuje 2 Ochrony, a na początku następnej tury SP wraca do 0.",
+      "kr_sha256": "4bf392adab86086d0cfcfdbd8e9c5d13e56c1283c0fd25f3db4677c737f87152",
+      "en_sha256": "6e088ba07bc41c82d00ac96b9debee034109df986ac0142711fe15b9702f79aa",
+      "origin": "ai"
+    },
+    "dataList[id=805005].name": {
+      "pl": "Bitter Smile",
+      "kr_sha256": "ef7d1564964a4716e08bfa764180f43915e88bcca2f0fed17166b2fa48128958",
+      "en_sha256": "207e4a00ada1755a6431659959f0c4f23358749d674023b7d62208bcdce69a33",
+      "origin": "ai"
+    },
+    "dataList[id=805006].desc": {
+      "pl": "powracając z Oszołamienia, zyskuje 1 Wzrost Mocy Ataku",
+      "kr_sha256": "bb57714cedb3e24823499c58d721cc40b0f3f0f0b72d92afb5836f62ad920b52",
+      "en_sha256": "6eae3203afa8a10fefbc2795afffe5dadab74470b30a4848fb08fdc8c12ad8ca",
+      "origin": "ai"
+    },
+    "dataList[id=805006].name": {
+      "pl": "Inefficient Judgement",
+      "kr_sha256": "277a1f86ea237f29c0d6b5d7f0815e0118256101769de477fcf8af5ab010248b",
+      "en_sha256": "95a38ef8bd2f0247b812fe9b67f65f895505ccd75b03f974febffe7cb466c102",
+      "origin": "ai"
+    },
+    "dataList[id=805007].desc": {
+      "pl": "po 3-krotnym użyciu Umiejętności 'Please Be My Nutrient', w następnej turze przechodzi w stan Oszołamienia",
+      "kr_sha256": "49fb264f354dc46575810cda69f3834f984b256cf17d0d9fce45174972fc9638",
+      "en_sha256": "5efcc42bc3b04ec44bf8e6a0cc15b3d287a0454176d107a7ed100400cf1bcf01",
+      "origin": "ai"
+    },
+    "dataList[id=805007].name": {
+      "pl": "Exhausting Endeavor",
+      "kr_sha256": "0300f61030bee667754e9bda33803889acfb4627a495d3a882f6484396611a93",
+      "en_sha256": "2418f2da85d9ba48df1ab2e3c68712a56d508c893ec046aede01280e69604aff",
+      "origin": "ai"
+    },
+    "dataList[id=805201].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, pokonujący ją Grzesznik zyskuje 2 Pośpiechu w następnej turze.\nwszystkie Części Drifting Fox otrzymują 2 Spętania i 1 Odłamki Parasola.",
+      "kr_sha256": "a992f54c130ee5e3e33a4c4db31c3c83843c511e4504deba8fa58769ac3e628d",
+      "en_sha256": "1cd078fb3ff576a9a3d0eb39aac2e8cee960aa9049871ba7e55b2a8d41fa2358",
+      "origin": "ai"
+    },
+    "dataList[id=805201].name": {
+      "pl": "Old and Abandoned",
+      "kr_sha256": "ea8d5ac7f251c1d0f5bd406611f2725f181fa9a57d2ed60891e1da4274979178",
+      "en_sha256": "0f2c0b248dea247131aac23f8a2fe2a78171715381fbe6969a7e8525558f5598",
+      "origin": "ai"
+    },
+    "dataList[id=805301].desc": {
+      "pl": "za każdym razem, gdy ta jednostka zostaje zniszczona, Dongbaek zyskuje +5 Licznika Zatonięcia, a wszyscy Grzesznicy tracą 2 Liczniki Zatonięcia; wszyscy Grzesznicy zyskują 1 Ochronę i 2 Wzrost Mocy Ataku w następnej turze.",
+      "kr_sha256": "05fe082ef34929910c0f19e06390aa9584341acb4d73b70978d0de1bbc4913eb",
+      "en_sha256": "620893283c8647a014b86d8cb58d4e28668c510e31f1f6c065c054243fd6242f",
+      "origin": "ai"
+    },
+    "dataList[id=805301].name": {
+      "pl": "Walled Heart",
+      "kr_sha256": "5bd6b517328c18afe33ed46788ec90735ae4bd01eb2236cb07b9c3494d0a05e5",
+      "en_sha256": "c6b74ebaeb1e0df53dc1bf3ca52c06f53820c07364415d1e9b3b038ac3aeb5c7",
+      "origin": "ai"
+    },
+    "dataList[id=805401].desc": {
+      "pl": "powstaje z 1 Growing",
+      "kr_sha256": "77cbee5e7c84052b27fc843415388f428a6605eecfc975645fb75d869d5796a9",
+      "en_sha256": "78d22652fa0150e2378f6ec5c34fed0e8f5b8f2dd5658800930f98fa27ea5c91",
+      "origin": "ai"
+    },
+    "dataList[id=805401].name": {
+      "pl": "Growing Flower",
+      "kr_sha256": "dfce2e59f7f690c5e66bc7d418d3747069b24637c3a4e651c79a5a4625220af9",
+      "en_sha256": "8a432562f39b55007f8d67e14326aa10fc8ab5b59651999c2b48f28421e9ea2b",
+      "origin": "ai"
+    },
+    "dataList[id=805601].desc": {
+      "pl": "gdy ta jednostka jest obecna, Dongrang zyskuje 1 Ochronę i 1 Wzrost Mocy Ataku na początku każdej tury",
+      "kr_sha256": "e1407bc3b5d1d2040cb0ab8359b1a1593fd66acbcfacdbd7bd1d26600a1d30ff",
+      "en_sha256": "4b4e78047d2ebb32b75f2d0438498aa2ed7cf81c6cea3a34a24663feb55bfaa9",
+      "origin": "ai"
+    },
+    "dataList[id=805601].name": {
+      "pl": "Radiant Vanity",
+      "kr_sha256": "f70f936399e3204863223eef49dfcba20c6c9943ac947e5816710e02c6f5479c",
+      "en_sha256": "af8e3895c6fdebc46a58db4c19d144c55948dcddee212b1438297653d3eba0ee",
+      "origin": "ai"
+    },
+    "dataList[id=805602].desc": {
+      "pl": "gdy ta jednostka ma Earnest Accomplishment, stosowane są następujące efekty:\n- może zostać pokonana wyłącznie atakami Dongranga.\n- jeżeli Grzesznik sprowadzi HP tej jednostki do 1, Grzesznik przywraca HP, a ta jednostka zyskuje Empty Honor.\n- jeżeli Dongrang pokona tę jednostkę, Dongrang przywraca HP, a w następnej turze zostaje wzmocniony",
+      "kr_sha256": "b585c2fa682e57c0939a1aa4aff4b2a2e7bb6af0e422c1f120c9c1d0fce8d107",
+      "en_sha256": "27648d1b16a7661b3d300fc4843a394ca9e4743823cb2747b8f2e9f968da7d06",
+      "origin": "ai"
+    },
+    "dataList[id=805602].name": {
+      "pl": "Earnest Accomplishment",
+      "kr_sha256": "faa00a2127d84138309906d94d36d6315fa45729387f6df67e1f8037935798bd",
+      "en_sha256": "fe7533a4eff9939a04ca1868a637df67027ffdf1b63d346bc9c70842c0cf23e3",
+      "origin": "ai"
+    },
+    "dataList[id=805603].desc": {
+      "pl": "gdy ta jednostka ma Empty Honor, stosowane są następujące efekty:\n- może zostać pokonana wyłącznie atakami Dongranga.\n- jeżeli Dongrang pokona tę jednostkę, Dongrang traci HP, zyskuje 1 Emptiness i w następnej turze zostaje osłabiony",
+      "kr_sha256": "4b3521a0a4bf200fc5647e4e25fb568aa369934423627ca36fcd4c4549c4fca3",
+      "en_sha256": "5e807231ead2319d849bce9efb1fb85ca5006bf946f6e6f9c6ee92bf4167f54a",
+      "origin": "ai"
+    },
+    "dataList[id=805603].name": {
+      "pl": "Empty Honor",
+      "kr_sha256": "cf80b9ebd0ec7e47e6c6e5b7b70da7ab10dfb65e7bc0211afc4d2c22aab26f61",
+      "en_sha256": "e2914fb384ffd57a170312a1495b3850a09b5f6d9c07e8973e2fb0c479c00c6d",
+      "origin": "ai"
+    },
+    "dataList[id=805701].desc": {
+      "pl": "jednostka, która pokonała tę jednostkę, przywraca HP równe 5% Maks. HP i zyskuje 1 Pośpiechu oraz 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "8140f12e5463ffeae0e1a559f513cb261a6cd27212f91e4dddb79f0bbd3799d2",
+      "en_sha256": "19541401282c7fc03464bf249f6c4a765a7d9074f582396883748876cbc92034",
+      "origin": "ai"
+    },
+    "dataList[id=805701].name": {
+      "pl": "Borne Fruition",
+      "kr_sha256": "83657a0e74be9604d39dee70a719b764ae2006cbaf2fbf17fadcaef34ef870db",
+      "en_sha256": "adc549063d105b9cb29a1aa64aed1c3d451f98074020034aa28d919f5bc33048",
+      "origin": "ai"
+    },
+    "dataList[id=805801].desc": {
+      "pl": "gdy Wróżka zostanie zaatakowana, traci HP tylko ta Część.",
+      "kr_sha256": "20a19326d0b616f4d2dfe833d8a2ec3cacf190f0ca9bd2de778db70012baa2ff",
+      "en_sha256": "8a583122e6135799988e781bb55fb37f662c7fbc5845110b40a2fd502b802e83",
+      "origin": "ai"
+    },
+    "dataList[id=805801].name": {
+      "pl": "Fairy Lure",
+      "kr_sha256": "73891c11b7cd46fbd031bb21e8d5c3a311316c0ca9c76b7e902dd13e3e83a4c3",
+      "en_sha256": "afb08d7c391bd65497d5b1aaefe84ddb1743f31ff4ac09ba5ef1a6c7aeddcb6f",
+      "origin": "ai"
+    },
+    "dataList[id=805802].desc": {
+      "pl": "gdy Część-Wróżka zostaje zniszczona, Korzenie można atakować w następnej turze.\nwszystkie Części zyskują 1 Wzrost Mocy Ataku, 2 Spętania i 3 Wrażliwości w następnej turze.",
+      "kr_sha256": "23b2e453c964054656fd6a2082d24d3e6930792eb9223b4750152e3746113be4",
+      "en_sha256": "cac13bc3f5ba25bd492a97aa80034e3ed522078315d78080a9360224e3a4c9f7",
+      "origin": "ai"
+    },
+    "dataList[id=805802].name": {
+      "pl": "Exposed Base",
+      "kr_sha256": "76d7025fc168de29036732aecae28c8fdaf0540ba0bb0780b00b78a2968ef21d",
+      "en_sha256": "e9d19e654ecc979ee844b78c221abbecc724153e9f9116dc021b0c8e0ed53bf2",
+      "origin": "ai"
+    },
+    "dataList[id=805803].desc": {
+      "pl": "Wróżka odrasta w turze po odsłonięciu Korzeni. (tylko 1 raz)\npo 3-krotnym odsłonięciu Korzeni lub ich zniszczeniu jednostka wpada w szał.",
+      "kr_sha256": "e639e667b0f82e6cde97df3ef7b70fba63dec21a23080bc993449c65ed8e5a70",
+      "en_sha256": "3d689f001ee93737f77cb734338c3fbad2007d88ea75bde7b44cfcd426fab34a",
+      "origin": "ai"
+    },
+    "dataList[id=805803].name": {
+      "pl": "Spare Lure",
+      "kr_sha256": "a37b365aab4f9730ed10c4d49d997daeda6d06bac91f2d674aaec8af6edf8f30",
+      "en_sha256": "4e916b8c70cc8400fa6a6728b725b8d00409a9435ba22c12eeaa6ea3732788f6",
+      "origin": "ai"
+    },
+    "dataList[id=805804].desc": {
+      "pl": "jeżeli Wróżka ma Wstrząs, na koniec tury otrzymuje obrażenia równe jego Sile. (maks. 20)",
+      "kr_sha256": "b4094e1172d034f43b1fef3283088f28868728d97731ef191fa5bfb4b82c889f",
+      "en_sha256": "ecee0dcab34272af9d03d4bb3e668546ccfcbaa17a29d16fa6ad45bdafb246c1",
+      "origin": "ai"
+    },
+    "dataList[id=805804].name": {
+      "pl": "Discovered Weakness",
+      "kr_sha256": "955c912be9f316db63f3ad72f97ca028003985be15829084b1c66a70c5bdb6e4",
+      "en_sha256": "8045b4d20ab36ec9b02f7d88b7fde2ded95662d37d8d137c02a62dc16aeb7ce4",
+      "origin": "ai"
+    },
+    "dataList[id=805805].desc": {
+      "pl": "jeżeli Część ma Podpalenie, otrzymywane obrażenia rosną proporcjonalnie do jego wartości. (maks. +15%)",
+      "kr_sha256": "bd34b16fd7567bdcf8e218fdb2f4bd7766d5a5d6f0b21d8c201f249a84cb12e9",
+      "en_sha256": "5cdfbeda4e6c66dcc9d1812e897e0ef23d21bcb75e0f8b5cd1767bfed146dcbb",
+      "origin": "ai"
+    },
+    "dataList[id=805805].name": {
+      "pl": "Connected Weakness",
+      "kr_sha256": "504945b95f7d45d5eb1185db101702d7bebb7223dd98c7185ce42faba85b2816",
+      "en_sha256": "25986aac7880b56f03467a51ffc276525d468a2edce9a4fb5536c1f5d7f7c83d",
+      "origin": "ai"
+    },
+    "dataList[id=805901].desc": {
+      "pl": "jeżeli Giant Clover jest obecny na polu, ta jednostka przywraca 30 HP na koniec tury.",
+      "kr_sha256": "8554ea2b7002ba89188f8244734a312b06c9b7ae2ceee961be70138e6571a5f3",
+      "en_sha256": "518b629a6b11f9e0fb9a2d01f52de3e2594ad2597c32d7f295a67ff880d3a431",
+      "origin": "ai"
+    },
+    "dataList[id=805901].name": {
+      "pl": "Manufactured Respite",
+      "kr_sha256": "9d7cb214c14c3c396380175e847633561a132eaf56ddb8e5001dcccca81d2a1f",
+      "en_sha256": "b3c27151baf9e8098cdea466f2eae5eaf3f10893e6342561e1ea9b8cec4d7329",
+      "origin": "ai"
+    },
+    "dataList[id=805902].desc": {
+      "pl": "gdy ramię zostaje zniszczone, co turę zyskuje 2 Spadek Mocy Ataku",
+      "kr_sha256": "0730c453a7632cc6b17f20ed3e753508afdd19a56c5cfcb2956f6d562a0f97ee",
+      "en_sha256": "f9c66d0d3a81d8def57076bff5854a588e0f82b44256409c2424a1a4d0fe2617",
+      "origin": "ai"
+    },
+    "dataList[id=805902].name": {
+      "pl": "Utracone Środki",
+      "kr_sha256": "e2b52848637b528a43d1f6623328a122db2c474f9668791dce95392af14c1599",
+      "en_sha256": "17ff7eafa69133324457add165ff7beb444733fe33e4b574d7b9df20611fa3c4",
+      "origin": "ai"
+    },
+    "dataList[id=805903].desc": {
+      "pl": "gdy głowa zostaje zniszczona, co turę zyskuje 4 Spadek Poziomu Obrony i 1 Wrażliwości",
+      "kr_sha256": "a21e875c8ef8eb5b552f62cda0f8cb700769dfbd588c153d758ca51defa42cb4",
+      "en_sha256": "62cf708b9ebad7c534e302be87abee19a880cfcfb769d8c25f17a5c9d723d321",
+      "origin": "ai"
+    },
+    "dataList[id=805903].name": {
+      "pl": "Uszkodzony Cień",
+      "kr_sha256": "4eaa70c8a4dc7247792c2a03da6177cb6174c5c742e5ab5f229c329540ff52e8",
+      "en_sha256": "37a0b8771236f4e3b1172c37c7831e58305bb2f4caee25feca45a9b96ad15caf",
+      "origin": "ai"
+    },
+    "dataList[id=806001].desc": {
+      "pl": "gdy ta jednostka jest obecna, Dongrang zyskuje 1 Wzrost Obrażeń i 1 Ochronę na początku każdej tury",
+      "kr_sha256": "6ddd64c4fd0f5f982c146a578e3be8c85b5be17b18388018c8574cb6f1220e30",
+      "en_sha256": "b0aee6c5471611ce18132df48dd921a085b8504b820acfb91cff211caea0b399",
+      "origin": "ai"
+    },
+    "dataList[id=806001].name": {
+      "pl": "Radiant Desire",
+      "kr_sha256": "674c852a8cd5f437c663a29ce49df3c765128507101dc68e6f885335813b880a",
+      "en_sha256": "225e53dd288ec8f83a1dd269addafb40214c95a276979adb37ec2950b5ef915e",
+      "origin": "ai"
+    },
+    "dataList[id=80620101].desc": {
+      "pl": "na początku tury nakłada 1 HP Healing Boost i 1 Wzrost Mocy Ataku na Fairy-Long-Legs.",
+      "kr_sha256": "698f42a1424e86e1cb209c33bffe9136a8d66a2f6998384be0bd17f738532de3",
+      "en_sha256": "d3dda3cb437f107a072563237342147e81d05ca90753f0cd0fbef0715ecad8af",
+      "origin": "ai"
+    },
+    "dataList[id=80620101].name": {
+      "pl": "Skażające Liście",
+      "kr_sha256": "a27d61ec6a55946d172f5f8a397c9d5f262d8ffbc69c6197bc9833b8a49bdf34",
+      "en_sha256": "eac64bf1ffd8334d0f7571ef0f57f7fce78100a5448a70207654f5119f84f549",
+      "origin": "ai"
+    },
+    "dataList[id=806201].desc": {
+      "pl": "na początku tury nakłada 1 HP Healing Boost i 1 Wzrost Mocy Ataku na Fairy-Long-Legs.",
+      "kr_sha256": "698f42a1424e86e1cb209c33bffe9136a8d66a2f6998384be0bd17f738532de3",
+      "en_sha256": "d3dda3cb437f107a072563237342147e81d05ca90753f0cd0fbef0715ecad8af",
+      "origin": "ai"
+    },
+    "dataList[id=806201].name": {
+      "pl": "Skażające Liście",
+      "kr_sha256": "a27d61ec6a55946d172f5f8a397c9d5f262d8ffbc69c6197bc9833b8a49bdf34",
+      "en_sha256": "eac64bf1ffd8334d0f7571ef0f57f7fce78100a5448a70207654f5119f84f549",
+      "origin": "ai"
+    },
+    "dataList[id=811801].desc": {
+      "pl": "jeżeli jest 50+ [AccumulatedPastMirror], a HP Core wynosi 80%- lub mniej, Core zyskuje 200 HP, wydając 50 [AccumulatedPastMirror] na koniec tury",
+      "kr_sha256": "8c9a3f68389ad5281be131293a222d09bbb79cd92436ec8aab2ae57c2319d25b",
+      "en_sha256": "5ea381172bfb88472a3dd0193b9752ac7c7fc76319b9b7711786b8a7e24dc996",
+      "origin": "ai"
+    },
+    "dataList[id=811801].name": {
+      "pl": "Returning Past",
+      "kr_sha256": "1bab7148a7867b94a160a9b9cfd2fa585d0c15053fda0a15a36eb6c02f192a40",
+      "en_sha256": "63db7c9f852bd9403bb39905c3266feb093e25913e119110870fe23020f188c1",
+      "origin": "ai"
+    },
+    "dataList[id=811802].desc": {
+      "pl": "gdy Korpus zostaje zniszczony, zużywa całą skumulowaną Przeszłość.\ngdy Korpus zostaje zniszczony, od następnej tury do końca walki wszystkie Typy Ataku i Atrybuty stają się wobec Korpusa nieskuteczne (0,5).",
+      "kr_sha256": "72536e4ad423b97ec927681380da7891e8a3c931d55a54e34ae8c455ad9b330b",
+      "en_sha256": "3cc055d25f5e4d909738fccb9c3963f102b94fd0cd76cb8710e459ea9de796a5",
+      "origin": "ai"
+    },
+    "dataList[id=811802].name": {
+      "pl": "Misplaced Past",
+      "kr_sha256": "26c33cdbda2c30243389df54fe4226dd72a62a32829ae15d2b74a28dcd82fa2a",
+      "en_sha256": "9aca948cbd6a7360624a0a031dc82af509d9c479d855e7b9ddd883dc6c0d8c3b",
+      "origin": "ai"
+    },
+    "dataList[id=811808].desc": {
+      "pl": "jeżeli [AccumulatedPastMirror] jest liczbą nieparzystą, zyskuje 3 [Vulnerable] i [AttackDmgUp]\njeżeli jest liczbą parzystą, zyskuje 3 [Protection] i [AttackDmgDown]",
+      "kr_sha256": "3b9c974fb318d8d6b1bafa7403da2425e7490991265beaa2e24c2259867bd3a7",
+      "en_sha256": "2e39cc77da2c53533aa0a788aa32368a04a15b996ec502d717d12f276e0d52ca",
+      "origin": "ai"
+    },
+    "dataList[id=811808].name": {
+      "pl": "Metronome",
+      "kr_sha256": "b0e9ccda247047ada33d11b2010810d7ef472469ab451988dbe2595167a58e96",
+      "en_sha256": "3634f1227eddd94bde97ddff138a4d7dde0e0774468f81cde68afcab6f9a6c6d",
+      "origin": "ai"
+    },
+    "dataList[id=826301].desc": {
+      "pl": "na koniec tury: jeżeli sojusznik z [PreparedMeat] ma 1 HP, zabija tego sojusznika; następnie wszystkie Części zyskują 5 [Vulnerable], [Reduction] i [Disarming].",
+      "kr_sha256": "d69175ae6a25e20af1f148b65a3dbe3d5d82cc024b993fcff912656d5d2c71db",
+      "en_sha256": "983341634c679f39c461ef71c75015f25e3e9c1abd4af40b755374199cf2680c",
+      "origin": "ai"
+    },
+    "dataList[id=826301].name": {
+      "pl": "Momentary Satiation",
+      "kr_sha256": "e752577a027bce5157da92f668e544ed972bd6a43aa599b8ca5d056cab3ca6cd",
+      "en_sha256": "ed39de1346184c4388dc53c7e8cd30b07d1bcdbd44ff1d682ba81ff86ec4f0c5",
+      "origin": "ai"
+    },
+    "dataList[id=826302].desc": {
+      "pl": "na początku tury: jeżeli są żyjący sojusznicy z HP 25%- lub mniej, zabija wszystkich sojuszników.\nprzywraca HP równe (zabici sojusznicy x 5)% Maks. HP Core.\nna koniec tury: bez żyjących sojuszników, zyskuje 20 [Enhancement] w następnej turze.",
+      "kr_sha256": "eff0a2c7d12b5c7bf96fce235ef7e3e1a788d4b298ce2171fb25b892b49cb1d3",
+      "en_sha256": "2c74753faf1a5a15f6e7ebdc6c89eddffdd63225ce9ffdca65c15360dab14611",
+      "origin": "ai"
+    },
+    "dataList[id=826302].name": {
+      "pl": "Ravening Hunger",
+      "kr_sha256": "af4b937b41a6569a779323196dfd04ef6fe642d54ec40bd12bfa4711a8400672",
+      "en_sha256": "97b06a665c6bc4c18cb4225f7aec03b261921028af2954be1205bf51b9a48b83",
+      "origin": "ai"
+    },
+    "dataList[id=826303].desc": {
+      "pl": "gdy Ramię zostaje zniszczone, co turę na początku tury Korpus zyskuje 5 Krwawienia.",
+      "kr_sha256": "d35dc63bf2b1d054e0e716c63960081d16692197f60370cc0bcfbee19352b85a",
+      "en_sha256": "bd63bf073ff0e6041a174dde71b884d63e72f442e207346c4131386d8ac8372e",
+      "origin": "ai"
+    },
+    "dataList[id=826303].name": {
+      "pl": "Torn Arm",
+      "kr_sha256": "7f2d62c1c71167e6d2449fe8d6bbe8b7949b995309b6dac85bdb6a9b995d4d66",
+      "en_sha256": "31c51159f31662407a024f221e85ccc8e9c5781d7b919b094e19a007f91c2c24",
+      "origin": "ai"
+    },
+    "dataList[id=826304].desc": {
+      "pl": "na koniec tury: wszyscy Grzesznicy przywracają 10 Poczytalności i zyskują +1 zasobu E.G.O każdego Atrybutu",
+      "kr_sha256": "fcc453784e196b99a950cce9a8da5df2f38aaf234a52a3d8492129b4be08e78c",
+      "en_sha256": "01debd12fd7b23b47e6351f8586d2c3494542cd67ff12860455087bbd272b373",
+      "origin": "ai"
+    },
+    "dataList[id=826304].name": {
+      "pl": "Invitation to a Meal",
+      "kr_sha256": "f7e852922541e2204bd0061ad052be2d9110d1c826e2f79d5b3e9a83f8d0d937",
+      "en_sha256": "3b2089b6057666260a2efabc32334c937f4c1676a1d92d53640ed6e37901bdff",
+      "origin": "ai"
+    },
+    "dataList[id=826401].desc": {
+      "pl": "na początku tury: przywraca HP równe 15% Maks. HP",
+      "kr_sha256": "034c66f85f0881e15142518901b7af1c16a7ba8dd048d6e38d9e5a7d4a5ca717",
+      "en_sha256": "e7530a508d556f0f3eadb6486dd9dae8404c3c7576836f605c428ffef9cdd356",
+      "origin": "ai"
+    },
+    "dataList[id=826401].name": {
+      "pl": "Care",
+      "kr_sha256": "9915b646f19e53f35391b6c8967866d3475db465d8a7faf1c003bf2d22b4bc33",
+      "en_sha256": "4262074d6c601e6405849868e832028c1782e20ce0617c2b0d05b24ff6ad595d",
+      "origin": "ai"
+    },
+    "dataList[id=826402].desc": {
+      "pl": "HP nie spada poniżej 1",
+      "kr_sha256": "5d7f7449b991c1d73724330130746284bbf6d401d8edc1122f9c1ebcd9e26f50",
+      "en_sha256": "24aafc075a1b9c40150f7ba567a338e41dcf34a706d4e50edcdaad067aa865bf",
+      "origin": "ai"
+    },
+    "dataList[id=826402].name": {
+      "pl": "Keep It Fresh",
+      "kr_sha256": "12f32020838cb81d4028564b50ddd256cdc54d9bccf43604a88652d5586cb401",
+      "en_sha256": "4096c1f9eb735394c5bbe1fbcb21574f25edae70a8bc171d25ed5801d8b5c94a",
+      "origin": "ai"
+    },
+    "dataList[id=826501].desc": {
+      "pl": "na koniec tury: jeżeli sojusznik z [PreparedMeat] jest Oszołomiony, zabija tego sojusznika.",
+      "kr_sha256": "6519da020de50b91204f9a5ae6561ec4e15320c58a4edf37a8007fea2063d2fd",
+      "en_sha256": "cb145ad23dbd56ab5c5979f63e65a8e68876acb7a746e8e02c922edbc625145f",
+      "origin": "ai"
+    },
+    "dataList[id=826501].name": {
+      "pl": "Empty Belly",
+      "kr_sha256": "8404ccc76eab5020bb65e449ab24d8c2b384f4445348b82c99a77327c897d3ac",
+      "en_sha256": "1580b57fff156e1331b33d4aba77aa47b0c97511f11c7c8698847c49ca4802a6",
+      "origin": "ai"
+    },
+    "dataList[id=826502].desc": {
+      "pl": "po zabiciu sojusznika przywraca 20 HP Core, a w następnej turze zyskuje 1 [Vulnerable].",
+      "kr_sha256": "e798af86ba28cf771b1678e43d30fb25a3b95f17a27ac03c85c8ad0b1ac89eb7",
+      "en_sha256": "e2402eb7050bafe40fd6f3b9d26a67ed1647a270bea2718fd81fe2aa188da69a",
+      "origin": "ai"
+    },
+    "dataList[id=826502].name": {
+      "pl": "Bottomless Hunger",
+      "kr_sha256": "4fc437cbdc2b82919ccc03141af5364217692932e09e69c6b5cc2f907648f9ff",
+      "en_sha256": "2f8d322dda2b909e6bbd2bf37af7f4447fba1353335cf67b54f7c794bd036bb2",
+      "origin": "ai"
+    },
+    "dataList[id=826503].desc": {
+      "pl": "na koniec tury: jeżeli jednostka nie zdołała zabić sojusznika z Prepared Meat, zyskuje 1 [Hunger]. przy 75%- HP, zyskuje 2. przy 50%- HP, zyskuje 3.\nna początku tury: jeżeli jednostka zabiła sojusznika z Prepared Meat, traci 1 [Hunger].",
+      "kr_sha256": "19f7f3d261d3a6f7a2f8b04d6ae0d2ec74ac183d5a2f27e53374c69e90d5f7eb",
+      "en_sha256": "42a9eb9a013c72e3c72df1ccf36fa46dfff8b630cb0920e83570cc63b579dabd",
+      "origin": "ai"
+    },
+    "dataList[id=826503].name": {
+      "pl": "Hunger",
+      "kr_sha256": "4f9f3eacedd1b2b17639e1d391d75eeb3e53f2da96edace850de67f39e7f8f3b",
+      "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "origin": "ai"
+    },
+    "dataList[id=826504].desc": {
+      "pl": "na koniec tury: przy 0 [Hunger], zyskuje (liczba sojuszników zabitych w tej turze x 3) [AttackDown] i [DefenseDown].",
+      "kr_sha256": "76025b87146897f1ac3b3c548aefa23111b8f9ab83d46d220a5f5bb2780db68c",
+      "en_sha256": "5c6ca17288f6ebac8cea3cb9d0f5ec605975061004ce1fb4b0e8ad3a11d02320",
+      "origin": "ai"
+    },
+    "dataList[id=826504].name": {
+      "pl": "Momentary Satiation",
+      "kr_sha256": "e752577a027bce5157da92f668e544ed972bd6a43aa599b8ca5d056cab3ca6cd",
+      "en_sha256": "ed39de1346184c4388dc53c7e8cd30b07d1bcdbd44ff1d682ba81ff86ec4f0c5",
+      "origin": "ai"
+    },
+    "dataList[id=826505].desc": {
+      "pl": "na koniec tury: przy 4 [Hunger], zmienia wzór na silniejszy.",
+      "kr_sha256": "8ab89439a1160ee1e7621bc61484519e444f253cb04adae0cbfa62b5647cf261",
+      "en_sha256": "486251fd759524b6c4fd45b0915f8ee30a78d9a5ffa7c0324d55b60bf900e7eb",
+      "origin": "ai"
+    },
+    "dataList[id=826505].name": {
+      "pl": "Ravening Hunger",
+      "kr_sha256": "af4b937b41a6569a779323196dfd04ef6fe642d54ec40bd12bfa4711a8400672",
+      "en_sha256": "97b06a665c6bc4c18cb4225f7aec03b261921028af2954be1205bf51b9a48b83",
+      "origin": "ai"
+    }
+  }
+}

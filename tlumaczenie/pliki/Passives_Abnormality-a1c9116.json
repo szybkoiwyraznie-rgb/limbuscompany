@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=112601].desc": {
+      "pl": "Początek walki: zyskuje [WeighedMurderousIntend]",
+      "kr_sha256": "9a7363628d019f8c6b6213f877f5ab7de568180e2735a156adf7f6d9d679ad90",
+      "en_sha256": "8b0ee3899b5e51d2158e9712515fdb77572fd2b8a1f432242be1260fe77c7358",
+      "origin": "ai"
+    },
+    "dataList[id=112601].name": {
+      "pl": "Bestowed Mission",
+      "kr_sha256": "a1265fec26a56b487afc27ce087d652ffa4442c4c79ce5170eb1a166fa87aaf1",
+      "en_sha256": "978f2591f830d32f3cd0c14a9fa7dc0637088a4a3d4d4c7a83225dbac905dff8",
+      "origin": "ai"
+    },
+    "dataList[id=112602].desc": {
+      "pl": "przy trafieniu wroga z [BurstAgility]: nakłada 2 Licznika [Burst] celowi (do 6 razy na turę)",
+      "kr_sha256": "f41bec3332f23996b7d3a7b64fe5420b78d9c18456343ebfa6fb1b05600cc2d6",
+      "en_sha256": "94cec531d1a759120423a005f011b8c2c1e7312130412a30b1c7f4c9590edbfd",
+      "origin": "ai"
+    },
+    "dataList[id=112602].name": {
+      "pl": "Vigor [Mao]",
+      "kr_sha256": "d0ffa0f4af211b598949c6b57e7ded36cd82829522ca9998d71b96cc0ef71d2d",
+      "en_sha256": "496adc19e1d092b4fff49b283c4d5504c52ac6311a6266bea150add8e27c2ccc",
+      "origin": "ai"
+    },
+    "dataList[id=112603].desc": {
+      "pl": "przy atakowaniu celów z niższą Szybkością, nakłada o 2 więcej [Burst] lub Licznika [Burst] i zadaje +10% obrażeń",
+      "kr_sha256": "b13d10a8d28219af9324c8a24da72b90de307b936a3a3fe9c0dc2b5cb87a1c00",
+      "en_sha256": "b0706e19fd853559e8c88a83a436823606d770a7354f21dec0bfe42d7a01aaea",
+      "origin": "ai"
+    },
+    "dataList[id=112603].name": {
+      "pl": "Strider [Mao]",
+      "kr_sha256": "c225a4eefa73e9a96bd2bd69a7b59947b87591d1cd0430a4b907fe91889ea59f",
+      "en_sha256": "a71a3376f4f4bdbd7df54b7871ace2d2930301dba46ab8a86ae37f1c6c2c3a5b",
+      "origin": "ai"
+    },
+    "dataList[id=112604].desc": {
+      "pl": "przy użyciu Umiejętności, jeżeli Szybkość jednostki jest o 2 lub więcej wyższa niż Szybkość celu, Moc Monety +1",
+      "kr_sha256": "573a86dcf9b7575878d5cf6e93d09ca1a4693f297fca777b00fddccfaf0dde61",
+      "en_sha256": "4a5be75c1dbfb648e0fb4c10f39b28903280d3f183bc9d6b5f78edeeb1dce3af",
+      "origin": "ai"
+    },
+    "dataList[id=112604].name": {
+      "pl": "Dominator [Mao]",
+      "kr_sha256": "f90a9f0356d7f846632966c86f56f872bc9d0d59e0a1d84d627c49b18646c70c",
+      "en_sha256": "0873df7a0eeb5bb0137b3450450fc8ade5f09bfd9746544bce532b4ca91d8da6",
+      "origin": "ai"
+    },
+    "dataList[id=112701].desc": {
+      "pl": "na Początku tury wszyscy sojusznicy, wliczając tę jednostkę, przywracają 10 SP\notrzymuje o 20% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]",
+      "kr_sha256": "2fc4bff6cd32da33721294035e7fdfe5b032b55dfe4d75e6852b1da1c007bba1",
+      "en_sha256": "ecfd805eec51d4de34f6e050cdd851ca9a4b5792418791804ff32a026ce8872f",
+      "origin": "ai"
+    },
+    "dataList[id=112701].name": {
+      "pl": "The Big Brother",
+      "kr_sha256": "ad9e1976f9faa93c80873d3ef710642b40235d7e2d4a6751f9969f6c5487acc8",
+      "en_sha256": "7de59d22c9a12fa3a9361b572571bccfea142dce72b20a8179b5a37c73ca28a3",
+      "origin": "ai"
+    },
+    "dataList[id=112702].desc": {
+      "pl": "za każdym razem, gdy w tej walce ginie sojusznik z The Middle, zyskuje 1 [AttackUp] (maks. 5)",
+      "kr_sha256": "5d8577073b1ed667b607d6096b0a4432a0484bcc45dc967bb7edd06b92b7deb5",
+      "en_sha256": "e758582b494cb64d7c8335ccbc7502debf86d7a12ab4649979be530757424993",
+      "origin": "ai"
+    },
+    "dataList[id=112702].name": {
+      "pl": "Vengeance Tattoo",
+      "kr_sha256": "a86de75e65c09cf73584bfdaa0dfe4e3c41f30723938005bd9727618c768b733",
+      "en_sha256": "bad13faac5d5aa3789b60b854659b1b6f7b4256bf2df7ceaa2b03dbe92f8863e",
+      "origin": "ai"
+    },
+    "dataList[id=112703].desc": {
+      "pl": "po 2 przegranych Starciach zyskuje 6 [DefenseDown] w następnej turze",
+      "kr_sha256": "86c500900c79329de622f2ee735926225ad42388637ba25f6577b45e52d72f07",
+      "en_sha256": "5a318df2223520ab3e4f393b3dfc7056f97c43ef471e492b7061ff62106b16f0",
+      "origin": "ai"
+    },
+    "dataList[id=112703].name": {
+      "pl": "Deeper in the World of Bristly",
+      "kr_sha256": "5faa39c2daa140c13935428222bb778a34ee0b546ee6fa7d2d7bebe591ac56ec",
+      "en_sha256": "89a7365d7464db2a080a4c944e0b8e3a6fd6e38e1e804998e7f617176f91fd86",
+      "origin": "ai"
+    },
+    "dataList[id=112704].desc": {
+      "pl": "gdy ta jednostka lub sojuszniczy członek The Middle otrzymuje trafienie, nakłada 1 [MiddleFingerBook] atakującemu, a następnie zyskuje 1 [AttackUp] w następnej turze (do 5 razy na turę)\n- gdy sojuszniczy członek The Middle ginie od Umiejętności, nakłada dodatkowe 2 [MiddleFingerBook] atakującemu",
+      "kr_sha256": "c2bb75239bf2ae8ff65411015e419c2f459a672e72054d42866e3ee52c771005",
+      "en_sha256": "4392e25323592bd32171ff7e42d16f72f7f84127e09970ab5bfac6d984534075",
+      "origin": "ai"
+    },
+    "dataList[id=112704].name": {
+      "pl": "The Book of Vengeance",
+      "kr_sha256": "e7992abe5dcb6f1972ff5ef5c3a809bb80f5be5e9e445fd0130077ab10de9fd3",
+      "en_sha256": "3bc6ced95ec279399009a374664f756f043eaade1d64d5215463c8121d7717f8",
+      "origin": "ai"
+    },
+    "dataList[id=112705].desc": {
+      "pl": "rozpoczyna walkę z HP mniejszym o 40% Maks. HP (włącznie z Częściami)",
+      "kr_sha256": "a81cf30f5bb397f4d78db156b39b8c3a3f9a434a6ef951a31c62da42563c687c",
+      "en_sha256": "8f4e5de7413d2b8af336a2676c035e5fb3666fe547a2510d12bc42d1826f7c01",
+      "origin": "ai"
+    },
+    "dataList[id=112705].name": {
+      "pl": "Wounded in Battle",
+      "kr_sha256": "f6d933c7f1fc9d375610d67fab9d3db376ab242d3654fb60a58dc23b905159e9",
+      "en_sha256": "226b1b8457410579e01724ba89998c3885019e0eadd023c0a200e8abe45bc3c7",
+      "origin": "ai"
+    },
+    "dataList[id=112707].desc": {
+      "pl": "gdy przechodzi w Panikę, na początku następnej tury dochodzi do siebie z Paniki, a SP wraca do 0.",
+      "kr_sha256": "c711edc70e40c0f0e0cc32525f4407346d6bdc8ba6fb269a7b7bfe1cdfad1488",
+      "en_sha256": "d5698b3625ac4451ea1b310c1e8e9f66cf37d0ec253262a6106daeed0048f6ee",
+      "origin": "ai"
+    },
+    "dataList[id=112707].name": {
+      "pl": "Brush it Off",
+      "kr_sha256": "13eaa7de590c0218865dccc682c730d66b874a80117b92ac27e9e3203160f445",
+      "en_sha256": "a01864539f7d592f43e9b68cd658beeed8cf22aa790695a3b4398d1274476c44",
+      "origin": "ai"
+    }
+  }
+}

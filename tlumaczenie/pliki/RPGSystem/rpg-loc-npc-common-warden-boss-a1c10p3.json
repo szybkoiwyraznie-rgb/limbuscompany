@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[key=N999994].displayName": {
+      "pl": "Świeca (Żółta)",
+      "kr_sha256": "a9d4b4ffe2fc300d08284a11af23b5509f4922918d758dc001011dbbf0161aa5",
+      "en_sha256": "21737cd1876b4da242f40e92664ae92592ec2ec94e60a89aae167f4661bd55c9",
+      "origin": "ai"
+    },
+    "dataList[key=N999995].displayName": {
+      "pl": "Świeca (Obłęd)",
+      "kr_sha256": "c844a84bbe2163be6d71b0ad4bd5991c14d0352500ddf5807abab18db793f9fb",
+      "en_sha256": "ce39fdb15cb18570802b3d21d2eb21e02d0c829dff0817d4560d8bcc9b7390e3",
+      "origin": "ai"
+    },
+    "dataList[key=N999997C].displayName": {
+      "pl": "Strażnik",
+      "kr_sha256": "3707d30a144256093aa01fcbd13d1384c99141ba0439552d4a403b0de86bfba5",
+      "en_sha256": "56425806c28e415875f83c2af491fb915a9f5a6079746b6c8c1dda5dfbe784ba",
+      "origin": "ai"
+    }
+  }
+}

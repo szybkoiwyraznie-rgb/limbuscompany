@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=10936].title": {
+      "pl": "Spalenie Domu Pająków",
+      "kr_sha256": "a6ba8773cc055a90737028a44cf31801f62e6dcde3e5b2d07c7f664503f2b937",
+      "en_sha256": "031bc472fb39babc84b3e6cbb2f61119ff9fafbacbadb3214c609c9209af7df3",
+      "origin": "ai"
+    },
+    "dataList[id=10937].title": {
+      "pl": "Serdeczny",
+      "kr_sha256": "d6048d1f5f3d6431def3ac8e4297de287e81e3d57350b827b211c40b11c5abe5",
+      "en_sha256": "72cea89b509605b879a2f3d80837c59616467314fdfb113dcecb962e8d4f2ce2",
+      "origin": "ai"
+    },
+    "dataList[id=10938].title": {
+      "pl": "Środkowy",
+      "kr_sha256": "92cdef3c5bc09f842a88991dc306d5fdcc015dcbadb3b675c19f7a3f7f6ccee5",
+      "en_sha256": "f26dd6afe3cfc0d5692438a915403e3cfad32a4c8405bc337611716949fa3281",
+      "origin": "ai"
+    },
+    "dataList[id=10939].title": {
+      "pl": "Wskazujący",
+      "kr_sha256": "97d0cc0e32bb24a74e0de1f3d4d14cbba104b42f6da65e85ef3293f4fbcb9780",
+      "en_sha256": "612bcb87f4a613658040693316c5da3c4af764b3af384494dbc1f439ff5927c0",
+      "origin": "ai"
+    },
+    "dataList[id=10940].title": {
+      "pl": "Mały Palec",
+      "kr_sha256": "6d810555c4b7919fdb8047545ae29a6fe2502ee1a99b0e5b2d83d0addf276a7a",
+      "en_sha256": "a156460c2cdb12c7a84b34de0b6aa4751ae45b169354390fe717caeb53e3d5ba",
+      "origin": "ai"
+    },
+    "dataList[id=10941].title": {
+      "pl": "Araya",
+      "kr_sha256": "664c904336ded4c5e333c877296f0772b42d10d01ae979e1d397fe2603f96c16",
+      "en_sha256": "0b4f42ad3f6ef8588de7e124ad86aba01d770b3a9b965daa8eb1b471287ecb1d",
+      "origin": "ai"
+    },
+    "dataList[id=10942].title": {
+      "pl": "Bilet",
+      "kr_sha256": "a2c93caaf559f1e28576f76a2c195fa2dcf659dbc82b54ee0bb384e5605753b0",
+      "en_sha256": "567a8b5f8f5ce3c525286711a68555da645ab87e929439f5badba2507fd2b6eb",
+      "origin": "ai"
+    },
+    "dataList[id=10943].title": {
+      "pl": "Wyklucie",
+      "kr_sha256": "f06e0c3f87dc375b9eb7904f21d979ab5a5e912f508f30765746598643fcb41c",
+      "en_sha256": "267d537d5a8b9396c4929f4f9319bf251ed28ae24dd2e08ff5c1b53fd8d362c8",
+      "origin": "ai"
+    },
+    "dataList[id=10944].title": {
+      "pl": "Rodzina",
+      "kr_sha256": "7659575fd72a872b8d0597a795f362a5f549d3dbfe3895be707aa0418a9bfce5",
+      "en_sha256": "bd2d677b2ed4381b48bb1d0841052c6d076e7d634d5052e85dcbe0b8a0dedd80",
+      "origin": "ai"
+    },
+    "dataList[id=10945].title": {
+      "pl": "Któregoś Dnia Znienacka",
+      "kr_sha256": "76b82c4f476321a439dcd5b242a4ced16078aeed1d1c75837c2895b1f7e8b64d",
+      "en_sha256": "49a6181cc6c3df5f43e79f34d275e711c26de6b2e64a45da30bff0a84de87617",
+      "origin": "ai"
+    },
+    "dataList[id=10946].title": {
+      "pl": "Oczekiwanie",
+      "kr_sha256": "1842c2eb5d03cd6fe55f474e93bdb8ba9d80b7ed79619bc494682c6b2331a265",
+      "en_sha256": "6e293a8c009e001103199768f7bcbea1729c59f9fc1ef2748958757f47ab99ed",
+      "origin": "ai"
+    },
+    "dataList[id=10947].title": {
+      "pl": "Litość",
+      "kr_sha256": "ba2dee851fe52432b2ad191b451f5f17752c89ed7171f348fc456e782c1402da",
+      "en_sha256": "875f1b5965e769d259f5322b52f3964ded29281717c76581efd7180ad80738e8",
+      "origin": "ai"
+    },
+    "dataList[id=10948].title": {
+      "pl": "Splot Czasu",
+      "kr_sha256": "24b9d591b5499542beb83c446dd2c40aee79ef9ebc561621c015f12a87289018",
+      "en_sha256": "9ffbfa7c4d66435c5774c820264189f1b9dbb445b14368afe081d71a3cd0c132",
+      "origin": "ai"
+    },
+    "dataList[id=10949].title": {
+      "pl": "Nie-ja",
+      "kr_sha256": "6713bb6a43498f1c711b2200d07e35caa9669b8df24dfc11a8fafb85199530e5",
+      "en_sha256": "0399fbc4dfbd4496c43c605cfadaad453976de1d26eaabd29791ead996b0235c",
+      "origin": "ai"
+    },
+    "dataList[id=10950].title": {
+      "pl": "Pajęcza Nić",
+      "kr_sha256": "5806eb3f0ec42e5a771d5be37889b507ea11772d0946aa00adc1d88c6d1743a6",
+      "en_sha256": "1de0130a2165e139695638f73024d914298557b0411c49745a80730e6289291e",
+      "origin": "ai"
+    },
+    "dataList[id=10951].title": {
+      "pl": "Przyczynowość Splatająca Przeszłość, Teraźniejszość i Przyszłość",
+      "kr_sha256": "5cc474ec306f23e58bcb8ef68764c326514d0fdd7878c5c8f8996f79faee5fad",
+      "en_sha256": "087c07a66777ebeab15c5e4b2bbe5c5f3b9e463d69c1690df1d15d90ffbbdb56",
+      "origin": "ai"
+    }
+  }
+}

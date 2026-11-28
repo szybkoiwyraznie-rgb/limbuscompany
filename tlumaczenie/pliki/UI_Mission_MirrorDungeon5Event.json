@@ -1,0 +1,424 @@
+{
+  "entries": {
+    "dataList[id=mission_ui_condition_tags_201001001].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O",
+      "kr_sha256": "87c7d268c99cf0451aa89308e82c5d875814438beb8374a029603d469e88871c",
+      "en_sha256": "2a35b9282c6cd7a99fc508a15435c0aa19a976edd3be54c0b4195b4e27c5d7a1",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001002].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Podpalenia",
+      "kr_sha256": "32d34bda53b9b7398f4f42c3ed26f94b082b4e78f0afce289061101e3ac01d98",
+      "en_sha256": "0459da66700769a1358299738fd73ceb9849be23da13df1e9e3dd94c9ae59e45",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001003].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Krwawienia",
+      "kr_sha256": "3786ec3405290cb7fdee0f2631820e08d2fff0c06051a65313e07bb6715eb4f2",
+      "en_sha256": "b7460e6c0a6aefc1911bc264d63abda574893478d93ca776f0eb042d2ce0c9eb",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001004].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Wstrząsu",
+      "kr_sha256": "a4f9677ba5b56e8ac1c35707dfb8addc2a496cc790697b237f9e41e9c1de19f8",
+      "en_sha256": "63efde6359ac24f66cf14c83c40896e87e45aa3a1011b27db20a4ff98e080a90",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001005].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Rozdarcia",
+      "kr_sha256": "806eda34ab615acd644cdfad0c0b4bd6dc25d3ec7e530b23c94146ddfc25e576",
+      "en_sha256": "b1f57c2c1762a8a892f0533cc6702ab7a8dfde2177d357e8969abcc7561666ab",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001006].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Zatonięcia",
+      "kr_sha256": "fcab548fd6e31a735511e4ac7690d41d783261dd5c435fef87fbe072e6b47afd",
+      "en_sha256": "7c9bf172cac2520d68742621ea33598061769a1c07470a148e27b9ca5e242bcc",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001007].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Oddechu",
+      "kr_sha256": "82fd5ba20d8b53125993ee30c45d99d81d5662ddfb32ac4725ba92afc8ed01b6",
+      "en_sha256": "80aa309281197eeeee802442077a77b6911309a92ca5bfda1116e2311a6abdf8",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001008].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Ładowania",
+      "kr_sha256": "75e003f1726895f31c34c85d1b43ab7192a66c34da3a490fa7f0dfdb545b50cd",
+      "en_sha256": "94dc92b0dac44323e779f494a13371b44beb13e79d031d3a08f2cf4cdb536f2b",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001009].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Cięcia",
+      "kr_sha256": "215970b6d7ced4820b5737780b60a6a685bbc70431c66b0f8912e28293f9aacc",
+      "en_sha256": "81ca387d18a0e317eb95ed37a6a0554510ffd58e79e8efa97ff6cc81553142a6",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001010].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Przebicia",
+      "kr_sha256": "66c36fa2dc173c8d6a2ae03cc01b682c04ba41d6a269eb97b310d41f45029151",
+      "en_sha256": "04ffbeb3d4b4f511baa8be4fa70a6e37c85add51c59cb05cf015857499137d7d",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001011].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Uderzenia",
+      "kr_sha256": "4997438e0ce938cde01b01a5d73166b2d40a7d2cc15fb27ffb37bef27742414a",
+      "en_sha256": "a216c565c8e905cd9716b9b7ed8f7b91fa6ce53aafcb86a611ca77e792e9b91c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001012].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {2} lub wyższym, mając co najmniej {1} Darów E.G.O {0}. stopnia",
+      "kr_sha256": "6e438d7f866a5233545f71573f4439e76dde4c1f0d6de7567d443ff6fb123fd6",
+      "en_sha256": "bb2b091d293984cbcd9be980c9bddfaeb25333af31191b623b909f23ac69cc5b",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001013].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając Dar E.G.O {0}. stopnia",
+      "kr_sha256": "737d625cb7feed6bef1c0e9e5c7a6721372e6c84b78ada8db3640f22100ddfce",
+      "en_sha256": "424bb65eed8b92ae4e2743259d44ea3f1c2e1952afcb4d435763471c853de348",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001014].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {2} lub wyższym, mając co najmniej {1} Darów E.G.O {0}. stopnia z receptur Syntezy",
+      "kr_sha256": "1c6e571c526d98094add0590a8eadecd9d9a27f347a2d497a7c9b00018ca85ca",
+      "en_sha256": "ec3f4bec2fd1588fff770f3471c1f20fe639ce0ffffbf7959a41423a6fb9f5ac",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001015].content": {
+      "pl": "Odblokuj {0} Darów E.G.O Podpalenia w Kompendium Darów E.G.O",
+      "kr_sha256": "f37a81323a2b82ba4f6bf61a5702d8e05b75b783d5fc579ef577df27bfdffc2c",
+      "en_sha256": "1a0915fc2da2695c53e79525f1bd853dcc6e61460564e3f616a1e3ba09197e7e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001016].content": {
+      "pl": "Odblokuj {0} Darów E.G.O Krwawienia w Kompendium Darów E.G.O",
+      "kr_sha256": "a605de6bc4dd0fb159d4a5513665af3b1439b27f0be46b6698025939bc8cfa8c",
+      "en_sha256": "ce452ba3eab0956e20e06c3ee3da141a61379e0588dd1133b6cecb843feb81b4",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001017].content": {
+      "pl": "Odblokuj {0} Darów E.G.O Wstrząsu w Kompendium Darów E.G.O",
+      "kr_sha256": "a6882c6cd41008a44c97da601ccb45b2439699449730e719580645097b662a7a",
+      "en_sha256": "6df4afe2a82d84aa5fa4e233a76481800d1def926830dbf41f8bf7f5a2d9bdb4",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001018].content": {
+      "pl": "Odblokuj {0} Darów E.G.O Rozdarcia w Kompendium Darów E.G.O",
+      "kr_sha256": "53e6bba001abee39e8d68f7240eb56a3b6c30e1a745d892ad33971a59a35db9d",
+      "en_sha256": "6c2b6d828e9ba62a1501c989a020d8d9296591d832af8b381ee93149e8c19435",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001019].content": {
+      "pl": "Odblokuj {0} Darów E.G.O Zatonięcia w Kompendium Darów E.G.O",
+      "kr_sha256": "a7ac3a0db2b1afc87671aec5fc30565e99cd66f361668b3e85a2d69039b7a030",
+      "en_sha256": "75c4bbc920bd568058300cf2106d0cd9be6f1f8b73810b84b5c8fd4325a269c3",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001020].content": {
+      "pl": "Odblokuj {0} Darów E.G.O Oddechu w Kompendium Darów E.G.O",
+      "kr_sha256": "52d95c517db70501165ba1dfbdc3edc6ee59dae902f107e9bad67068ecf7662c",
+      "en_sha256": "91988732c0cdf180f40830dc05ce1624c9d48c56fbd1dc520382995daf1e7e0c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001021].content": {
+      "pl": "Odblokuj {0} Darów E.G.O Ładowania w Kompendium Darów E.G.O",
+      "kr_sha256": "74b60e5aa0244dde35cfccf2e354afd6133b6fdd030d0f91054b1aea346458d9",
+      "en_sha256": "04e3668f08fd61f263f84921e0216603ddc3950dc9d3ee702b76524573787004",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001022].content": {
+      "pl": "Odblokuj {0} Darów E.G.O w Kompendium Darów E.G.O",
+      "kr_sha256": "ad03cb25e25ab09900850118605cb09a097f077f6baf049d52c17a05a9010177",
+      "en_sha256": "a262ab58b176c37f1b10b00025024e5381cda464ac66eecb8f6cb4aad4e6ea0e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001023].content": {
+      "pl": "Odblokuj {0} lub więcej Pakietów Tematycznych na poziomie Normalnym",
+      "kr_sha256": "8b1c77c93eda102f5a3d963a6d1056e36cb2f7a078d84d90823de20e9d53c480",
+      "en_sha256": "69b28a80835d79c73abe3dc52ee213921c97197586a02ff0033860725edcbb75",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001024].content": {
+      "pl": "Odblokuj {0} lub więcej Pakietów Tematycznych na poziomie Trudnym",
+      "kr_sha256": "f1628bea9250ed7de6e58949646a45bd5131a72b17baffec4c6e1b62e4309961",
+      "en_sha256": "37e20732309becd5214ce5a428a73e36422b9ee287e17a15eec58a43891684ff",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201002001].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {0} lub wyższym {1} razy",
+      "kr_sha256": "e17ba891ab47ad1de1e58e6e51b95c741b411275529ae02e868924f94633edd9",
+      "en_sha256": "4d93736a920a42c64d674e2b2e301b43cf62516fbe168f2700f7b322c4b029b2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201002002].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {0} lub wyższym {1} razy — każde piętro musi być ukończone na poziomie Trudnym",
+      "kr_sha256": "bd369e552b527d9546442393934e8be888e1415011e835fb0ddcb1f338b3c911",
+      "en_sha256": "84abfcab594dfbb8666a1871d05526a00b44c16d25f841242f882b1b98e2c8de",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201002003].content": {
+      "pl": "Ukończ Lustrzane Lochy do piętra {0} 1 raz",
+      "kr_sha256": "35c040c1a0f1744b61b0fa7667eb3aa2e5491505ffd76af5bea25d02e633478c",
+      "en_sha256": "9be420d9242de46efe1b6a64539b333e196d73064a7ac7da77d63a98e999ee7d",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003001].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości słowa kluczowego Podpalenia w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "091eb9cac96456ac05db801278d2621bd77fda2019c5036a627b1122ac8d235a",
+      "en_sha256": "92af8c74de801aa2be9786360a9e58f15ac38be076afb6363d190df09847a551",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003002].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości słowa kluczowego Krwawienia w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "cd0765dab6a35180115faf1870164c534689be007972b04a55fd65e41e8768f0",
+      "en_sha256": "51ab050be709e54ea770442bc613248c7fbdeaf00f535de03770adafc3ae34c3",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003003].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości słowa kluczowego Wstrząsu w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "525e629b17803fbff892762da841ef4d2a8e408ce3c9aacf0d8233a5b9ac8285",
+      "en_sha256": "f3b0c5a610bbf85c88a2f63aff8e27dc961cf67831342c7ad1433ca923b5ccb0",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003004].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości słowa kluczowego Rozdarcia w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "581dd9143a215b8baea483b4b38e512de136dc4711c064bfa2f0bcaac56a3465",
+      "en_sha256": "2869401ad114d43ac54c96000967da1294871eacd7aa3e0c6f7fd275472181a6",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003005].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości słowa kluczowego Zatonięcia w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "7365233fcfdc75b257f1862ef5c2c4507b319040fc542e4fc7784c6ed521cb6a",
+      "en_sha256": "a94c3bc79b7668ef64237f8f68a4c0a9e581420f4a522ee8055dc3c1aa78df19",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003006].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości słowa kluczowego Oddechu w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "0ff9215e55bd42602bb89dca997db74b6837ba039b69a06dedfd05547e8cb0cf",
+      "en_sha256": "ab77d7a056f79577741b3f69a843cb284ad123149bd3a645fdd214ee31669f66",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003007].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości słowa kluczowego Ładowania w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "8bee49cf401aa0c46be44a517290084649bab1a2133aaa6f4dc353328398dbdd",
+      "en_sha256": "5511feec36c683e1cc4c5ee7260b7e2ffe5e3ac482ef68a427a51b8104dd5586",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003008].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Rodu Ostrza w momencie ukończenia",
+      "kr_sha256": "4a7b09f8d204e2f5809f6a922a68a43b40834b9ba32cc2f275141e5fa6951477",
+      "en_sha256": "7ef80a660aae78e88dc533d0d62fbada8d377fc3a3c95296de6990c907f73df6",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003009].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Stowarzyszenia Liu w momencie ukończenia",
+      "kr_sha256": "c9c81c5a61b35d9a6aad3e9674c19b8893146df4e8fd672927567d3b5df413f2",
+      "en_sha256": "adc27dc6bf9a24d5a36285b5ca4eac36b45b6cebcf50f8d18179cc0f0a605019",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003010].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Stowarzyszenia Seven w momencie ukończenia",
+      "kr_sha256": "24d22befe0916f4509f79a38ca0aef0af236ac9cbb9bdef9abe1dcaed2ed1d44",
+      "en_sha256": "78c3691c1c91e3e56f6307a2d05788310da5af5a78a2bc789c59a16d27dd31d0",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003011].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości W Corp. w momencie ukończenia",
+      "kr_sha256": "5787de231143557f6ea8ed879c05d2afa76ca8616e4655098346ec66629e665c",
+      "en_sha256": "05abc7900227f49d7acc228b0e29626c9870ead171ceb544b89e9d48502eebdb",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003012].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości N Corp. w momencie ukończenia",
+      "kr_sha256": "6d8ba17d6f1d4cf76c526429c2a82058a27980fa1cf9c1410c58cb4aefa2dc59",
+      "en_sha256": "7ae3b215d7d8edc5de210b25f8b7f08c34820ee14205f62186c6c73562b4a280",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003013].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Wuthering Heights i Rodziny Edgarów w momencie ukończenia",
+      "kr_sha256": "4e62346ac046d5bf219743a9c4d004ad2e94e607eacad939e0b21baf42f5f266",
+      "en_sha256": "c3e7fd45e2e208951a04959ecdf431be9bf50259a5933025bcd4703d03e0cfec",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003014].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Stowarzyszenia Dieci w momencie ukończenia",
+      "kr_sha256": "8ad025c3082d9d93001e69d638463d2b9795f87b657e47ca2f15bc55dc6c724b",
+      "en_sha256": "85d00f03ac02e2217db62c6453036a932463ab2efb4fae72c7e55ceb7b4ca894",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003015].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Pequoda w momencie ukończenia",
+      "kr_sha256": "6f69aefa52c44b927ebff9f240d1308c1ebed6cd3b3f971219cc34d1292acbc9",
+      "en_sha256": "3389ffc5dc752a1efc3515c58482c329958364c8dcfde40d024c9f987797fb43",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003016].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości La Manchalandu w momencie ukończenia",
+      "kr_sha256": "4d787d45a45bd679d3962f7bc6b32157af0f0020de323018214d3295b7bb6390",
+      "en_sha256": "0cac44d5b39539c4818bd880cc16f022086a56b126153323e0fbfea8e680ca8e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003017].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Klanu Kurokumo w momencie ukończenia",
+      "kr_sha256": "3da2858abdf55eee3112f3871c536a8ae79c70d28a0037d9af78a8514cd13e72",
+      "en_sha256": "cf1f798641e2797141a1421e53b71cfa60da8e4f3325402bdbf3b2cf440dfd4c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003018].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Sojuszu Wyzwolenia Technologii w momencie ukończenia",
+      "kr_sha256": "24a9af07534468e3bb6e88830e6e5f1e2c683cd56324aebbe429a1f676a9bc12",
+      "en_sha256": "ea7f864756fcb50769ba9aa9d21d3428428ad2f926cd1ba7efc8115b462f3406",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004001].content": {
+      "pl": "W jednym przebiegu użyj funkcji Odświeżania Sklepu (w tym odświeżania słów kluczowych) {0} lub więcej razy i ukończ Lustrzane Lochy na piętrze {1} lub wyższym",
+      "kr_sha256": "e3df1218fcd6c7c26c3b946aa6109552c5533f960331930af289beb85abb4703",
+      "en_sha256": "a529ca2d58c935a48804e1e3cd2b62e8b3b818573d2e7c2fdd9276cdab209490",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004002].content": {
+      "pl": "W jednym przebiegu kup w Sklepie co najmniej {0} Darów E.G.O i ukończ Lustrzane Lochy na piętrze {1} lub wyższym",
+      "kr_sha256": "bd1b3b10efac412fc12e5619fa421dac10619b3157b7096e93114a5cd5538a54",
+      "en_sha256": "e8dfa3cdaa2aa49933b495aca5098a0a2e19aa3b8206a7cca3be987859f20eae",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004003].content": {
+      "pl": "W jednym przebiegu ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając przy sobie co najmniej {0} ulepszonych Darów E.G.O (dowolny stopień ulepszenia)",
+      "kr_sha256": "fde75b1240a8391176a6655b8c00b700d597bad64eb46aa920585bd87a86f9e5",
+      "en_sha256": "f106fe81dc9a7cbb311d205e7ac4126209241331504e414edffe79105206a6c0",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004004].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając {0} lub więcej Kosztu",
+      "kr_sha256": "fd1dcda02e55c3d24287366757df1c63ffde6ee0268d8a1dfa4c6ccb31863e52",
+      "en_sha256": "16525a36e443b50f287e38c8ffc7308f056237a6241c4b08f3217ce655ea9413",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004005].content": {
+      "pl": "Ulepsz 1 Dar E.G.O {0}. stopnia lub wyższy do stopnia ulepszenia ++ i ukończ Lustrzane Lochy na piętrze {1} lub wyższym",
+      "kr_sha256": "55f6d0d38e9b53747324ba24295b2f0b89f2bde56b0428ecddc8e2da470a5ada",
+      "en_sha256": "e49b93627025512bb260f62188b34aaba0ff59b32152a3ea851a308c6d0e6ec7",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004006].content": {
+      "pl": "U jednego sojusznika zamień w Sklepie wszystkie kopie Umiejętności 1 na Umiejętność 3; potem ukończ Lustrzane Lochy na piętrze {0} lub wyższym",
+      "kr_sha256": "f6d039e1e835179b0aeb3f66b4cc84533323ea329546abed086d5ac3bc4dd916",
+      "en_sha256": "6a0de8e98245174155ac6d2fc27271948174fe9849469d820fe27d7d96f546eb",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005001].content": {
+      "pl": "Zadaj wrogowi {0} lub więcej obrażeń Umiejętnością jednym użyciem (liczą się obrażenia Tarczy oraz obrażenia przy trafieniu, jak Potop Zatonięcia czy Zawieszenie Czasu; nie liczą się obrażenia słów kluczowych i inne źródła)",
+      "kr_sha256": "9c777e4652742ab36d76ad4e42e017fe9ea9be0164d3206f9354070e7fc833a5",
+      "en_sha256": "51ee53084fe97e51b61e688d9f7e4ddfa54e2c53e4206ac79db6a3fb20d5d2ba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005002].content": {
+      "pl": "Zadaj wrogowi {0} lub więcej obrażeń Umiejętnością jednym użyciem (liczą się obrażenia Tarczy oraz obrażenia przy trafieniu, jak Potop Zatonięcia czy Zawieszenie Czasu; nie liczą się obrażenia słów kluczowych i inne źródła)",
+      "kr_sha256": "9c777e4652742ab36d76ad4e42e017fe9ea9be0164d3206f9354070e7fc833a5",
+      "en_sha256": "51ee53084fe97e51b61e688d9f7e4ddfa54e2c53e4206ac79db6a3fb20d5d2ba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005003].content": {
+      "pl": "Zadaj wrogowi {0} lub więcej obrażeń Umiejętnością jednym użyciem (liczą się obrażenia Tarczy oraz obrażenia przy trafieniu, jak Potop Zatonięcia czy Zawieszenie Czasu; nie liczą się obrażenia słów kluczowych i inne źródła)",
+      "kr_sha256": "9c777e4652742ab36d76ad4e42e017fe9ea9be0164d3206f9354070e7fc833a5",
+      "en_sha256": "51ee53084fe97e51b61e688d9f7e4ddfa54e2c53e4206ac79db6a3fb20d5d2ba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005004].content": {
+      "pl": "Zadaj wrogowi {0} lub więcej obrażeń Umiejętnością jednym użyciem (liczą się obrażenia Tarczy oraz obrażenia przy trafieniu, jak Potop Zatonięcia czy Zawieszenie Czasu; nie liczą się obrażenia słów kluczowych i inne źródła)",
+      "kr_sha256": "9c777e4652742ab36d76ad4e42e017fe9ea9be0164d3206f9354070e7fc833a5",
+      "en_sha256": "51ee53084fe97e51b61e688d9f7e4ddfa54e2c53e4206ac79db6a3fb20d5d2ba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005005].content": {
+      "pl": "Zadaj wrogowi {0} lub więcej obrażeń Umiejętnością jednym użyciem (liczą się obrażenia Tarczy oraz obrażenia przy trafieniu, jak Potop Zatonięcia czy Zawieszenie Czasu; nie liczą się obrażenia słów kluczowych i inne źródła)",
+      "kr_sha256": "9c777e4652742ab36d76ad4e42e017fe9ea9be0164d3206f9354070e7fc833a5",
+      "en_sha256": "51ee53084fe97e51b61e688d9f7e4ddfa54e2c53e4206ac79db6a3fb20d5d2ba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005006].content": {
+      "pl": "Podnieś Moc Podpalenia wroga do 99\n(z wyłączeniem „Szczególnego Podpalenia”; w walkach skupionych liczy się część)",
+      "kr_sha256": "2a3949140b640afc7b1d4a4a3027af04227c244db764d1225416868009534c25",
+      "en_sha256": "2a1c0d1086517f29c0a70674a61db8f1e84173928d8bff81598fb7779e6cf872",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005007].content": {
+      "pl": "Doprowadź Moc Krwawienia jednego wroga do 99\n(z wyłączeniem „Szczególnego Krwawienia”; w walkach skupionych liczy się część)",
+      "kr_sha256": "0c45e5975db1aee432684811b18e4e019ceaf2fa92a0dfb094078ed93de370a3",
+      "en_sha256": "535de2e1a604da39221f04ffd5c77f8e9db40a071a9c89e6c2a586b2c82bfb1b",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005008].content": {
+      "pl": "Doprowadź Moc Wstrząsu jednego wroga do 99\n(z wyłączeniem „Szczególnego Wstrząsu”; w walkach skupionych liczy się część)",
+      "kr_sha256": "bd278deb064a957d1a7e102296ca86e6d4ff8958efc00f052b7097a916efae2b",
+      "en_sha256": "03277baae328adce5a94c70c16fbe6bda2cfe627c7b1c871e645d3b3ac356a6e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005009].content": {
+      "pl": "Doprowadź Moc Rozdarcia jednego wroga do 99\n(z wyłączeniem „Szczególnego Rozdarcia”; w walkach skupionych liczy się część)",
+      "kr_sha256": "769716b57dd19ed0050e397af5912c5b9dbadc8616ac28a099b76a80775f0e3f",
+      "en_sha256": "eba8620808aa101de87693cd9626618836952a7e0fd99ea369eae7137156d901",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005010].content": {
+      "pl": "Doprowadź Moc Zatonięcia jednego wroga do 99\n(z wyłączeniem „Szczególnego Zatonięcia”; w walkach skupionych liczy się część)",
+      "kr_sha256": "c8a07eb33aa428c0981fae3df0cc13c1fa16309bd71575cf9d02dc9a9060b050",
+      "en_sha256": "ee420010e294c40ce2bc3d185f848b7f831c6fd19cf4700792ac61de8239efcb",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005011].content": {
+      "pl": "Doprowadź Moc Oddechu jednego sojusznika do 99",
+      "kr_sha256": "39b237852f639da898065cf625c7547f7a25218d72664c914f7badd55afa4b50",
+      "en_sha256": "b2431f1f89f8f11e11d2e61ff331be2b178da9dbeec3ee00e6edeb79340814a2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005012].content": {
+      "pl": "Doprowadź Moc Ładowania jednego sojusznika do 10 (w tym „Szczególne Ładowanie”, z wyłączeniem „Szczególnego Ładowania” o ustalonej Mocy)",
+      "kr_sha256": "13ef5e418c24c336056f66ce3c963b466d699ea13fb274c447a278e18a4dd5bc",
+      "en_sha256": "892714da91f508a96885345a61b15a3cd30e95f2d831d41d66e4454a094e6e1d",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005013].content": {
+      "pl": "Wygraj walkę z bossem, gdy 1 sojusznik otrzyma obrażenia równe co najmniej 80% swojego Maks. HP i przeżyje starcie (dotyczy ostatniego starcia każdego piętra)",
+      "kr_sha256": "4e493194f4bb8db86c05affd60c9ab132dad0336a8e48392d6653e133a2d3b0e",
+      "en_sha256": "a89dd01d88ffae2c04a40dd9f17d5cc721a3512f431723fe7320e6e181e560fc",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005014_5].content": {
+      "pl": "Pokonaj wszystkich wrogów w turze, w której na polu walki pojawiło się 10 lub więcej wrogów (w walkach skupionych ocena według Rdzenia)",
+      "kr_sha256": "cb56ac2eae1d04dc2a5b818e0080d4fa66fc74d73edc91632f775248179cd8c3",
+      "en_sha256": "e23c19e0fd8939ce3f70e18031d0fda69b396b1c8cb83ffabd0e666471b5c6d7",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005015_5].content": {
+      "pl": "Jedną Umiejętnością ataku oszołom lub zniszcz co najmniej 2 części jednocześnie",
+      "kr_sha256": "a48ce92cb3df3ad37f26cbe851ce8697240dcb61d6c593ad3544bf135d8066b6",
+      "en_sha256": "478c042554446b8c5df96897b89237d8d88f557c1e70103d6695cb5b4b11c565",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005016_5].content": {
+      "pl": "Wygraj walkę, mając nałożone 10 rodzajów negatywnych efektów na jednym celu",
+      "kr_sha256": "4b14f28d3ee1674669eeaa07b1b6141a351bea3d369af5fb2dd3ac2958528b87",
+      "en_sha256": "d0a4da6b01927fd0a0ef5a23d419ac9ee3ba91f7b5396b0ecb82bc82653e6212",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005017_5].content": {
+      "pl": "W jednym przebiegu ukończ 5 etapów po aktywacji efektu Daru E.G.O „Splot Przeznaczenia”",
+      "kr_sha256": "53ad4a22134ae20d1d38d129f1e8f9264920c02ae29abc780edfab95bb2d5dc6",
+      "en_sha256": "d5033a9745f4ff94a73419966895d74b0ba767b590596934040a7416f30ed56e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005018_5].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Strefa Anomalii Sejsmicznej”, niosąc 5 lub więcej Darów E.G.O powiązanych z alkoholem: „Drewniany Kielich”, „Zielony Owoc”, „Krew, Pot i Łzy”, „Chwiejna Beczka”, „Pogłos”, „Kielich Kapnących Kropli”, „Ulewa”, „Czarcia Część”, „Anielska Dawka”, „Wino z Mózgu Śmietnikowego Kraba”, „Wino Shaoxing”",
+      "kr_sha256": "fbbace4e03de7a6b5166f190c4ef2d432dbec416e8c75eb8ca7788e59a7bbe05",
+      "en_sha256": "ba85c12185c9702389765a1b63378414fb4e96aa41977c7eaf1d4ded1be28bbb",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005019_5].content": {
+      "pl": "Z co najmniej 2 Tożsamościami Serdecznego w składzie wygraj walkę, gdy jedna z nich otrzyma efekt „Wyrafinowanej Estetyki” od Daru „Wybornego Dzieła”",
+      "kr_sha256": "b407ab0c77ecda40755a70ac3806f581fa00b4b8378bed3a1a38cc0c41e649e4",
+      "en_sha256": "4699b492310fa8e8c08b4838d23862484a363283ecbb3f412fae54d5d3db0c29",
+      "origin": "ai"
+    }
+  }
+}

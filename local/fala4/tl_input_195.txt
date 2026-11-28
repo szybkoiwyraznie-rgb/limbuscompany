@@ -1,0 +1,96 @@
+18979||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 알잖아요, 황금가죽의 주인이 되기 위해서는… 눈알들로는 소용없어요. 사실 재검토.|You know that eyeballs are not enough... to become the owner of Golden Hide. FACT REVISED.
+18980||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이방인들에게는 아까운 옷, 이것은 넘겨주기 싫은 우리의 최고 결과물 황금 오트쿠튀르… 공격 시작.|Much too good for strangers. This is the Golden Haute Couture, our finest masterpiece. No one can have it... COMMENCING ATTACK.
+18981||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …맙소사.|... Oh, for the love of—
+18982||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …아, 이런 느낌이구나. 결이 잘 살아있어. 오랜만의 황금 오트쿠튀르라… 얼굴이 두근거리고 있어요. 봉제 상태 점검 완료.|... Ah, so this is what it feels like. The grain is beautifully preserved. Golden haute couture, after so many seasons... my faces are throbbing. STITCHING INSPECTION COMPLETE.
+18983||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 검수 끝났으면… 이제 넘겨주세요.|Can we have it back if you're done?
+18984||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 잠시만요… 마지막으로 올 뜯김이나 오염이 있는지도…|One moment... one final check for loose threads, stains, or contamination...
+18985||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그런 건 당연히 없겠죠… 저희의 공정 과정은 완벽하니까… 욕심 과대 상승.|Naturally, no defect will exist. Our process is flawless... GREED EXCEEDING SAFE LEVELS.
+18986||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 기계를 더 이상 작동시킬 필요는 없다.|No need to activate the machine again.
+18987||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 공정이 끝나기 전엔 여기를 떠날 수 없습니다.|We cannot leave before the processing is complete.
+18988||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 우리는 통제자의 시체에서부터 겨우 완성된 황금가죽 옷을 얻을 수 있었다.|Only after killing the Overseer could we finally take the completed Golden Hide garment back.
+18989||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 꾸에엑!|*scree*
+18990||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 하지만 어떻게 될지 모르는 것, 즉 달라짐을 만드는 것이 중요했다.|But that uncertainty was the point. We needed the chance to make something, anything, turn out differently.
+18991||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 5층에 들어가기 위해 황금가죽으로 만들어진 옷을 입혀야 한다… 라는 것이군.|Indeed, the key to the fifth floor is that the child be arrayed in clothing fashioned from Golden Hide...
+18992||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그리고 황금가죽은 이곳에서 누구나 가지고 싶어 하는 귀중한 재료니까 만드는 건 쉽지 않을 거고요…|And since everyone here seems desperate to own Golden Hide, making the outfit is not going to be a walk in the park.
+18993||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 눈알은 충분히 있나요? 얼마를 요구할지도 생각을 해봐야 하는데…|Do we still have enough eyeballs? We should do the math before anyone starts asking for prices through the roof...
+18994||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이스마엘은 우리가 모았던 눈알들의 회계 장부라도 쓸 기색이었다.|Ishmael looked ready to balance a ledger down to the last eyeball.
+18995||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아니 고작 이걸 사는데… 이만큼의 눈알을 썼다고요? 허어…|Wait. We paid through the nose in eyeballs... for this one item? *sigh*
+18996||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <그땐 그게 최선이었어…>|<I mean, it was the best option we had at the time...>
+18997||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이왕 산 거 잘 입고 다니는 것 밖엔 별다른 수가 없지 않겠는가…|The price has already been paid. There is little recourse but to put the purchase to good use...
+18998||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 또 생겼어, 모르는 사람들.|Another person I don't know.
+18999||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뭘… 주렁주렁 달고 오는 거예요? 히스클리프 씨가 보모가 어쩌고 저쩌고 하길래 또 무슨 소리를 하고 있나 했는데…|What the... What is all this? Heathcliff kept going on and on about babysitting, so I just took it as his usual grumbling, and turns out...
+19000||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <…그렇게 되었어. 뫼르소, 부탁할게.>|<... It's a long story. Meursault, can you explain to her what happened?>
+19002||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자세한 설명은 뫼르소에게 부탁했다.|Meursault caught Ishmael up to speed.
+19003||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그리고 이곳은 지하의 끝 층.|This place, meanwhile, was the final underground floor.
+19004||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 나와 뫼르소가 이전엔 도달한 적이 없었던 장소다.|Neither Meursault nor I had reached this place before.
+19005||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 우리는 이곳에서 뿌이에게 입힐 황금 수의… 즉 황금가죽 옷을 만들어야 한다.|This is where we have to fashion Pwie's Golden Shroud—an outfit made from Golden Hide.
+19006||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그 옷을 입은 뿌이가 5층에 가면 어떻게 될지는 모른다.|What would happen if Pwie entered the fifth floor wearing it was anyone's guess.
+19007||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 르루주의 시체다.|A Rouge's corpse.
+19008||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 꿰맨 곳이 다 터져 너덜너덜해졌다.|The stitches have all burst, leaving it a shredded mess.
+19009||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 얇게 포를 뜬 것 같은 가죽들이 걸려있다.|Several pieces of thinly split leather are hanging on the rack.
+19010||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 얼마나 얇게 발라냈는지 가죽 너머가 비칠 정도다.|They've been split so thinly that the other side is visible.
+19011||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 핏물이 아직까지 뚝뚝 떨어지며 바닥을 흥건하게 적시고 있다.|It's still bleeding, soaking the ground beneath it.
+19012||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 두툼하게 잘라낸 가죽이다. 겉보기에도 꽤나 묵직해보인다.|Thick, full grain leather. Looks pretty weighty.
+19013||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 축축하게 젖어있는 가죽이다.|This piece of leather is moist to the touch.
+19014||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 바짝 말라 쭈글쭈글 해진 가죽이다.|This piece of leather has been desiccated and shrunk into a wrinkly mess.
+19015||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 예리한 칼로 잘라낸 것 같은 가죽이다.|The cross-section of this cut of leather looks as though it's been cut by an incredibly keen blade.
+19016||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 무딘 칼로 썰어낸 같은 가죽이다.|The cross-section of this cut of leather—if it can be called that—clearly communicates that it's been ripped by a dull knife.
+19017||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 군데군데 고름 같은 것들이 맺혀있다. 지독한 냄새가 난다.|There are multiple... pustules on this cut of leather. It emits a horrible stench.
+19018||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 사람의 가죽을 펼쳐서 말리고 있는 것 같다.|Human leather that's been laid out to dry.
+19019||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 안쪽에 검게 변색된 핏방울들이 송글송글 맺혀있다.|There are blackened beads of blood with clear signs of discoloration inside.
+19020||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 턱에 아가미 같은 이상한 구멍들이 보인다.|There are strange holes reminiscent of gills on the jaw area.
+19021||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아직 붉그스름한 가죽들이다. 뜯어낸 지 얼마 안된 가죽인 것 같다.|These pieces of leather still retain their reddish hue. Must've been flayed recently.
+19022||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 들추어보니 지독한 악취가 새어나온다.|Lifting a small corner of it immediately releases a rush of revolting stench.
+19023||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 안쪽에 녹색으로 변색된 가죽들이 보인다. 썩은 것 같다.|There are <i>green</i> patches of leather inside. Must be rotten.
+19024||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 들추어보니 지독한 악취가 퍼진다.|Lifting a small corner of it immediately releases a rush of revolting stench.
+19025||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 1층 구석에 쌓여있던 옷처럼 안쓰는 가죽인가…?|Maybe these are discarded leather, like those piles of clothes discarded in corners of the first floor...?
+19026||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자투리로 모아놓은 가죽조각인 것 같다.|Scraps of leather. Must've been saving these to be used as extra patches.
+19027||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 손톱이 아직 붙어있다…|This one still has fingernails...
+19028||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 짜잘한 가죽조각들이 무심하게 쌓여있다.|Pieces of leather haphazardly strewn about.
+19029||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 검붉은 핏자국에 털 몇 가닥이 붙은 채 굳어있다.|Dark-red patches of dried blood have caught some strands of hair.
+19030||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 짓이겨진 가죽들이 한가득 쌓여있다.|It's full of macerated leather.
+19031||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] [폐기예정] 이라고 쪽지가 붙어있다.|The note reads: [DISPOSAL].
+19032||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 긴 시간동안 사용하지 않은 것 같다. 군데군데 녹이 슬었다.|Must've been a while since this was used. Parts of it has rusted.
+19033||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가죽보다는 박제에 가깝다.|More taxidermy than leather.
+19034||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 윤기가 흐르는 가죽이다. 밖에 말리고 있는 것들보다 더 질이 좋아보인다.|This piece of leather is practically glistening. It looks to be of a higher quality than the ones drying outside.
+19035||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 안색이 좋아보이는… 얼굴 가죽이다.|It's got a pleasant expression, this... patch of face skin.
+19036||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아무 냄새도 나지 않는다. 일종의 처리과정을 거친 것 같다.|Doesn't smell like anything. Must've gone through some sort of treatment process.
+19037||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 털 한가닥 한가닥이 살아있는 것 같다.|Each strand of hair is glistening with vitality. Looks lively.
+19038||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아직은 축축한 가죽이다.|This piece of leather is still quite moist.
+19039||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이렇게나 많은 가죽들이 어디에서 오는 걸까?|Where do all these pieces of leather come from?
+19040||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …보기 역하네요.|... This is disgusting.
+19041||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 마치 인체를 전개도처럼 펼쳐놓은 것이…|It is as though they have <i>unfolded</i> the body, akin to the planar figure of a polyhedron, only human...
+19042||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 아해가 보기엔 그리 적절한 풍경은 아닌 것 같구료.|This is a sight most inapt for the eyes of children.
+19043||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이상이 조심스럽게 뿌이의 앞을 막아섰다.|Yi Sang carefully moved to the side, blocking Pwie from looking at the piece of leather.
+19044||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 주변을 둘러보면 그다지 의미 있는 행동은 아닌 것 같다…|Considering where we are, however... I don't think it'll do much good.
+19045||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 윽… 무슨 악취가… 고래기름보다 심한 것 같은데요…?|Ugh... That smell... It's even worse than Whale odor.
+19046||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뭐가 다른 거야…?|What's the difference?
+19047||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이후로도 이어지는 뿌이의 물음에 뫼르소가 친절히 답해주었다.|Meursault patiently answered Pwie's questions as they kept coming.
+19048||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 좋은 냄새가 나.|Smells good.
+19049||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …네? 이 냄새가요?|... Really? <i>This</i> smell?
+19050||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 응. 고소하고 진한 냄새…|Mhm. Smells savory and rich.
+19051||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 그렇게 여기는 것도 이상할 일은 아니다.|It is not so out of the ordinary for them to perceive it as such.
+19052||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 수분을 제거한 식자재에서는 그 특유의 맛이 더 선명하게 살아나기에.|Food dehydration is a process by which the ingredient's unique flavors may be more vividly conveyed.
+19053||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뫼르소도 맛있는 냄새라고 생각해?|Does it smell tasty to you too, Meursault?
+19054||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이것이 가죽이 아닌, 육포였다면… 그렇게 느꼈을 것 같군.|Had this been jerky rather than leather... I imagine it would have smelled good to me, too.
+19055||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가죽 무더기 사이에서 바람 빠지는 소리가 새어나온다.|Air rushes out of the pile of leather with a <i>shhh</i>.
+19056||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 네. 관리자님.|Yes, Manager.
+19057||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뫼르소가 질긴 가죽을 천천히 찢기 시작한다.|Meursault pulls on the piece of leather, slowly tearing it in half.
+19058||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자신의 몸이 찢어지는 와중에도, 입이 찢어져라 미소를 띠고 있다.|The leather smiles ecstatically as its skin is slowly ripped apart.
+19059||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <…뭐지? 뫼르소, 한 번 살펴보자.>|<... What's going on in there? Meursault, let's take a look.>
+19060||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 뫼르소가 가죽 무더기를 들추자, 숨 넘어가는 소리가 점점 크게 들린다.|Meursault lifts the pile of leather, and the sound of escaping air slowly turns into wheezing to our ears.
+19061||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 이윽고, 소리가 나는 가죽을 찾았다.|After some searching, we managed to find the piece of leather that was making the noise.
+19062||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …'역겨운 배반자' 라고 새겨져 있습니다, 관리자님.|... The words "Disgusting turncoat," is inscribed here, Manager.
+19063||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 자신의 본 모습을 온몸으로 펼친 채 헐떡이는 그자는 입을 뻐끔거리며 무언가를 전달하려 하고 있다.|Meursault unrolled the piece of leather. Its full form now visible. the... "mouth" opened and closed, trying to communicate something.
+19064||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <혹시 뭐라고 말하고 있는 건지 알 수 있겠어?>|<Is it... saying something? What is it saying?>
+19065||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] …'나를 찢어줘.' 라고 반복해서 말하고 있습니다.|... "Please rip me." Repeatedly.
+19066||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] <부탁을 들어주자.>|<Let's do as it asks.>
+19067||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 피부조직만 벗겨낸 조형물…인 것 같다.|Looks like an... installation with its skin tissue removed.
+19068||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 얕은 숨을 내뱉고 있다. 아직 살아있는 것 같다.|I can feel the smallest hint of air escaping its mouth. It's still alive.
+19069||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 가죽을 벗겨 날개처럼 꾸몄다.|Flayed leather that has been pulled into the shape of a pair of wings.
+19070||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 피부조직이 녹아 바닥에 눌어 붙었다.|Melted skin tissue has merged to the floor.
+19071||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 방금까지 작업 중이었는지 아직 덜 빠진 열기가 느껴진다.|This piece of leather must've been just removed from processing. It's still quite warm to the touch.
+19072||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 통 안쪽은 어두워서 잘 보이지 않는다.|It's hard to see what's inside the dark barrel.
+19073||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 고통에 찬 신음소리 같은 것이 새어나오는 것 같다.|Almost sounds like it's groaning in pain.
+19074||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 꽤나 많은 양의 가죽을 한 번에 작업할 수 있을 것 같은 통이다.|It's a big vat... or a barrel capable of bulk-processing a large amount of leather.
+19075||RPGSystem#rpg-loc-dialogue-floor-b3-b.json] 사방으로 얇게 펼쳐져 원래 어떤 형태였는지 가늠하기 어렵다.|It's been split into many, many thin layers, making it difficult to guess its original form.

@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_LIMBUS_COMPANY_LCD].content": {
+      "pl": "LCD",
+      "kr_sha256": "69b2cba163dbb699ba4dd87ea8db82db4556c977618519a008f7a862c7aaceb0",
+      "en_sha256": "69b2cba163dbb699ba4dd87ea8db82db4556c977618519a008f7a862c7aaceb0",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_UNIQUE_COLOR].content": {
+      "pl": "Kolorowy Fikser",
+      "kr_sha256": "170ea061f211bcb646096def1138f986427aa72c1943b8c6530264a608fe4d74",
+      "en_sha256": "cafde8cbb99d9c92b5724eff85cdc9ec1022791b4bbfe2a632720d7e658532d5",
+      "origin": "ai"
+    }
+  }
+}

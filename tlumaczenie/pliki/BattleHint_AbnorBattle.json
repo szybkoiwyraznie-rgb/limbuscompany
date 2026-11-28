@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=1].content": {
+      "pl": "W starciach skupionych odkrywaj odporności Anomalii i uderzaj w jej słabe punkty, aby niszczyć poszczególne części ciała.",
+      "kr_sha256": "7ed471dec2f500e904cd9b052b7a4466e955580f080d4affd0cfb74edcd19af8",
+      "en_sha256": "f31b4b58eb79e2b44a6af7e00edd60907038453e41ae50831f181b0556f8ae85",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Tożsamości dysponujące Grzechem wymaganym przez wydarzenie mają większą szansę powodzenia.",
+      "kr_sha256": "ac44cfb1681ece0e398d0c5a7cddf8417e18cb1f836f4d8a1ecc15055ecb97fb",
+      "en_sha256": "c1da2fe1b90ccd42c3d12c3d15f61c3144286eb66adfc488a913c3bef01ea33b",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Zniszczenie części ciała Anomalii anuluje przypisane do niej umiejętności — wykorzystaj to, by powstrzymać jej najgroźniejsze ataki.",
+      "kr_sha256": "efad47ef8bcf47dfd70465c67af0110a0326c2fc55bb5d6d21d04df00cbd2cb3",
+      "en_sha256": "8a0e3b7e9c92c45bec338f1290d3d8ce1481f66e911c1d3e63cc8ab9a31b510b",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Sprawdź wymagane zasoby wyposażonych E.G.O i dobierz Tożsamości, które sprawnie zgromadzą je w walce.",
+      "kr_sha256": "43fca9bc7d407e6de9fceef0a5baa159cb5c3280dc2b4203b2d307eb6d39307a",
+      "en_sha256": "db2175aa6a1b0382d7d8589db8d32c2098391dc654ce504bb4601dc551edae90",
+      "origin": "ai"
+    },
+    "dataList[id=5].content": {
+      "pl": "Użycie E.G.O przy wysokiej Poczytalności pozwala łatwo przechylić szalę zwycięstwa na swoją stronę.",
+      "kr_sha256": "687f60384c1200bb0220bd1e1b7e710fd5d90ad94ceea79a91af437d8e81e9b5",
+      "en_sha256": "d4354daf22adbfd4f93770b7be0e1e81c60af2cac301dba0058558857d288d37",
+      "origin": "ai"
+    },
+    "dataList[id=6].content": {
+      "pl": "Przebicie kolejnego progu Oszołomienia na już Oszołomionym celu zadaje jeszcze dotkliwsze obrażenia dodatkowe.",
+      "kr_sha256": "c2d7a4e276271cd8c19843e7b6d651a7a74e3ef3f1ddb1360183900d29836f34",
+      "en_sha256": "9578d788bb536e2a961c295bbebf6f6e20bf213d45ee3b8da3c896c043e59a3d",
+      "origin": "ai"
+    },
+    "dataList[id=7].content": {
+      "pl": "Jeśli Loch Fabularny sprawia trudności, rozwiń swoje Tożsamości — ich poziom ma w nim kluczowe znaczenie.",
+      "kr_sha256": "8f55984e580c958c18ec982cb0e48c93d18950aa6c7d4435e972ee5ccaaef2b9",
+      "en_sha256": "871fe668d989727c900e449aaffd23cd22330243e96e8556ddf016328231fcac",
+      "origin": "ai"
+    }
+  }
+}

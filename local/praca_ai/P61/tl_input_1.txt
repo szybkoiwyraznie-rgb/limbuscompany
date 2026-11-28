@@ -1,0 +1,155 @@
+1|120|— tekst] 추출 획득\n이름(시즌 1) 패스 보상 레벨 30달성 시|Extraction\nSeason 1 Limbus Pass Level 30 Reward
+2|120|— tekst] 추출 획득\n자판기에서 E.G.O 구매|Extraction\nPurchase from Dispenser
+3|120|— tekst] 추출 획득\n이름(시즌 1) 패스 보상 레벨 42달성 시|Extraction\nSeason 1 Limbus Pass Level 42 Reward
+5|120|— tekst] 추출 획득\n이름(시즌 1) 패스 보상 레벨 18달성 시|Extraction\nSeason 1 Limbus Pass Level 18 Reward
+6|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 60달성 시|Extraction\nSeason 1 Regular Pass Level 60 Reward
+7|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 28달성 시|Extraction\nSeason 1 Regular Pass Level 28 Reward
+9|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 36달성 시|Extraction\nSeason 1 Regular Pass Level 36 Reward
+10|120|— tekst] 추출 획득\n이름(시즌 1) 패스 보상 레벨 54달성 시|Extraction\nSeason 1 Limbus Pass Level 54 Reward
+11|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 44달성 시|Extraction\nSeason 1 Regular Pass Level 44 Reward
+13|120|— tekst] 추출 획득\n이름(시즌 1) 패스 보상 레벨 6달성 시|Extraction\nSeason 1 Limbus Pass Level 6 Reward
+14|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 52달성 시|Extraction\nSeason 1 Regular Pass Level 52 Reward
+15|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 12달성 시|Extraction\nSeason 1 Regular Pass Level 12 Reward
+16|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 4달성 시|Extraction\nSeason 1 Regular Pass Level 4 Reward
+18|120|— tekst] 추출 획득\n이름(시즌 1) 일반 보상 레벨 20달성 시|Extraction\nSeason 1 Regular Pass Level 20 Reward
+23|120|— tekst] (Hell's Chicken) 이벤트 보상으로 획득|Hell’s Chicken Event Reward
+26|120|— tekst] 시즌 2 일반 보상 레벨 10달성 시|Season 2 Regular Pass Level 10 Reward
+27|120|— tekst] 시즌 2 패스 보상 레벨 20달성 시|Season 2 Limbus Pass Level 20 Reward
+28|120|— tekst] 시즌 2 패스 보상 레벨 40달성 시|Season 2 Limbus Pass Level 40 Reward
+29|120|— tekst] 시즌 2 일반 보상 레벨 30달성 시|Season 2 Regular Pass Level 30 Reward
+30|40|오감도|Crow’s Eye View
+31|120|이상 연출 전용 EGO 장비|Yi Sang's Battle Cinematic Exclusive E.G.O
+33|120|이상의 기본 EGO 장비|Yi Sang’s Base E.G.O
+37|120|[OnSucceedAttack] 모든 아군에게 다음 턴에 신속 1 부여|[OnSucceedAttack] Apply 1 [Agility] to all allies next turn
+39|120|[OnSucceedAttack] 모든 아군에게 다음 턴에 신속 3 부여|[OnSucceedAttack] Apply 3 [Agility] to all allies next turn
+40|120|[OnSucceedAttack] 다음 턴에 속박 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+43|120|[OnSucceedAttack] 이번 턴과 다음 턴에 [Reduction] 2 부여|[OnSucceedAttack] Inflict 2 [Reduction] this turn and next turn
+44|120|[OnSucceedAttack] 모든 아군에게 다음 턴에 [Agility] 3 부여|[OnSucceedAttack] Apply 3 [Agility] to all allies next turn
+46|40|침묵|Silence
+47|210|피격 시 다음 턴에 속박 3을 얻고, 대상을 약점, 취약인 속성으로 공격 시 피해량 +20%\n(턴 당 1회 발동)|When hit: Next turn, gain 3 [Binding] and deal +20% damage when attacking with an Attack Type or Affinity the target is Weak or Fatal against (once per turn)
+49|120|이상 전용 EGO 장비|Yi Sang’s E.G.O Gear
+51|40|불타버린 소녀|Scorched Girl
+52|120|[OnSucceedAttackHead] 화상 2 부여|[OnSucceedAttackHead] Inflict 2 [Combustion]
+53|120|[OnSucceedAttackHead] 화상 4 부여|[OnSucceedAttackHead] Inflict 4 [Combustion]
+54|120|[OnSucceedAttack] 화상 4 부여|[OnSucceedAttack] Inflict 4 [Combustion]
+55|120|[OnSucceedAttackHead] 화상 6 부여|[OnSucceedAttackHead] Inflict 6 [Combustion]
+56|230|<style="highlight">[BeforeAttack] 모든 공격 대상의 [Combustion]의 합\n- 6당, 최종 위력 +1 (최대 4)\n- 1당, 피해량 +1% (최대 30%)</style>|<style="highlight">[BeforeAttack] Apply the following effects:\n- Final Power +1 for every 6 [Combustion] on all targets (max 4)\n- Deal +1% damage for every 1 [Combustion] on all targets (max 30%)</style>
+57|120|[OnSucceedAttack] [Combustion] 4 부여<style="highlight"></style>|[OnSucceedAttack] Inflict 4 [Combustion]<style="highlight"></style>
+58|120|[OnSucceedAttackHead] [Combustion] 6 부여<style="highlight"></style>|[OnSucceedAttackHead] Inflict 6 [Combustion]<style="highlight"></style>
+61|120|[CantIdentify]\n무작위 대상 공격|[CantIdentify]\nTargets randomly
+65|390|[CantIdentify]\n무작위 대상 공격\n<style="highlight">[BeforeAttack] 모든 공격 대상의 [Combustion]의 합\n- 6당, 최종 위력 +1 (최대 6)\n- 1당, 피해량 +1.5% (최대 45%)\n[DefeatDuel] 기본 위력 -12\n[EndSkill] 다음 턴에 [MatchesPersonality] 얻음 (턴당 1회)</style>|[CantIdentify]\nTargets randomly\n<style="highlight">[BeforeAttack] Apply the following effects:\n- Final Power +1 for every 6 [Combustion] on all targets (max 6)\n- Deal +1.5% damage for every 1 [Combustion] on all targets (max 45%)\n[DefeatDuel] Base Power -12\n[EndSkill] Gain [MatchesPersonality] next turn (once per turn)</style>
+66|120|<style="highlight">[SuperCoin]</style>|<style="highlight">[SuperCoin]</style>
+68|120|<style="highlight">[UnBrokenCoinOnSucceedAttack]</style> [Combustion] 6 부여|<style="highlight">[UnBrokenCoinOnSucceedAttack]</style> Inflict 6 [Combustion]
+69|40|불티|Ember
+70|120|합 승리 시 대상에게 (분노 완전 공명 수/2)만큼 화상 부여 (스킬당 1회)|On Clash Win, inflict (Wrath A-Reson. / 2) [Combustion] (once per Skill)
+72|300|<style="highlight">분노 속성 또는 [Combustion] 위력, 횟수를 부여하는 스킬 사용 시 모든 공격 대상의 [Combustion]의 합이 6 이상이면, 합 위력 +1</style>\n\n합 승리 시 <style="highlight">메인 타겟</style>에게 (분노 <style="highlight">공명 수 x 2</style>)만큼 [Combustion] 부여 (스킬당 <style="highlight">최대 8</style>)|<style="highlight">On Use of a Wrath Skill or a Skill that inflicts [Combustion] Potency or Count: At 6+ total sum of [Combustion] on all targets, Clash Power +1</style>\n\nOn Clash Win, inflict (Wrath <style="highlight">Reson. x 2</style>) [Combustion] <style="highlight">on the main target</style> (<style="highlight">max 8</style> per Skill)
+73|120|합 위력이 증가함\n조건 만족 시 [Combustion] 부여|Gain Clash Power\nWhen conditions are met, inflict [Combustion]
+74|40|소망석|Wishing Cairn
+77|40|탑돌이|Pagoda Veneration
+78|120|가장 뒤에 있는 대상 공격 (일반 전투 한정)|Targets the rearmost unit (In regular encounters)
+79|120|[OnSucceedAttack] 나태 취약 1 부여|[OnSucceedAttack] Inflict 1 [AmberTakeDamageUp]
+80|120|[OnSucceedAttackHead] 마비 2 부여|[OnSucceedAttackHead] Inflict 2 [Paralysis]
+81|120|[OnSucceedAttack] 나태 취약 2 부여|[OnSucceedAttack] Inflict 2 [AmberTakeDamageUp]
+88|120|[OnSucceedAttack] 마비 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis]
+89|120|[OnSucceedAttackHead] 다음 턴에 속박 3 부여|[OnSucceedAttackHead] Inflict 3 [Binding] next turn
+90|40|돌하르방|Dol Hareubang
+91|120|매 턴마다 타격 보호, 나태 보호 3을 얻음|Gain 3 [HitTakeDamageDown] and [AmberTakeDamageDown] every turn
+92|40|차원찢개|Dimension Shredder
+93|120|이상의 전용 EGO 장비|Yi Sang’s E.G.O Gear
+96|150|가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 50%)|Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 50%)
+97|170|[OnSucceedAttack] 피해량의 (대상의 파열 X 7.5)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 75%)|[OnSucceedAttack] Deal bonus Pride damage by (Target’s [Burst] x 7.5)% of the damage dealt, and reduce [Burst] Count by 5 (Max 75%)
+98|150|가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 <style="highlight">75</style>%)|Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max <style="highlight">75</style>%)
+99|120|[OnSucceedAttack] <style="highlight">충전 횟수를 소모한 경우, 차원 균열 3 부여</style>|[OnSucceedAttack] <style="highlight">If [Charge] Count was spent, inflict 3 [DimensionRift]</style>
+100|170|[OnSucceedAttack] 피해량의 (대상의 파열 X <style="highlight">10</style>)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 <style="highlight">100</style>%)|[OnSucceedAttack] Deal bonus Pride damage by (Target’s [Burst] x <style="highlight">10</style>)% of the damage dealt, and reduce [Burst] Count by 5 (Max <style="highlight">100</style>%)
+101|150|가장 뒤에 있는 대상 공격 (일반 전투 한정)\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 75%)<style="highlight"></style>|Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 75%)<style="highlight"></style>
+102|120|[OnSucceedAttack] 충전 횟수를 소모한 경우, 차원 균열 <style="highlight">5</style> 부여|[OnSucceedAttack] If [Charge] Count was spent, inflict <style="highlight">5</style> [DimensionRift]
+103|170|[OnSucceedAttack] 피해량의 (대상의 파열 X 10)% 만큼 오만 추가 피해를 주고, 파열 횟수 5 소모 (최대 100%)<style="highlight"></style>|[OnSucceedAttack] Deal bonus Pride damage by (Target’s [Burst] x 10)% of the damage dealt, and reduce [Burst] Count by 5 (Max 100)<style="highlight"></style>
+106|140|[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 50%)|[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 50%)
+109|140|[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 <style="highlight">75</style>%)|[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max <style="highlight">75</style>%)
+110|120|<style="highlight">[OnSucceedAttack] 충전 횟수를 소모한 경우, 차원 균열 3 부여</style>|<style="highlight">[OnSucceedAttack] If [Charge] Count was spent, inflict 3 [DimensionRift]</style>
+111|120|[OnSucceedAttack] 파열 <style="highlight">6</style> 부여|[OnSucceedAttack] Inflict <style="highlight">6</style> [Burst]
+113|140|[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 75%)<style="highlight"></style>|[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 75%)<style="highlight"></style>
+115|120|[OnSucceedAttack] 파열 6 부여<style="highlight"></style>|[OnSucceedAttack] Inflict 6 [Burst]<style="highlight"></style>
+117|40|헤메이는 자|Rambling Man
+118|220|턴 시작 시 이전 턴에 피해를 받지 않았으면, 자신의 충전 횟수 4 증가\n자신보다 속도가 느린 적에게 공격 적중 시 대상의 파열 횟수 1 증가 (턴 당 최대 3회)|Turn Start: If this unit took no damage last turn, gain +4 [Charge] Count.\nOn Hit against an enemy that has a slower Speed, inflict +1 [Burst] Count (3 times per turn).
+123|140|[BeforeAttack] 이번 턴, 다음 턴 동안 모든 아군에게 나태 위력 증가 1, 나태 피해량 증가 1, 보호 2 부여|[BeforeAttack] Give 1 Sloth Power Up, 1 Sloth DMG Up, and 2 Protection to all allies this turn and next turn
+124|140|[BeforeAttack] 이번 턴, 다음 턴 동안 모든 아군에게 나태 위력 증가 1, 나태 피해량 증가 2, 보호 3 부여|[BeforeAttack] Give 1 Sloth Power Up, 2 Sloth DMG Up, and 3 Protection to all allies this turn and next turn
+125|120|[OnSucceedAttackHead] 자신의 정신력 15 회복|[OnSucceedAttackHead] Heal 15 SP
+128|160|[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 이번 턴과 다음 2턴간 나태 위력 증가 1, 나태 피해량 증가 1를 얻음|[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain 1 Sloth Power Up and 1 Sloth DMG Up this turn and the next 2 turns
+129|140|[OnSucceedAttack] 이번 턴, 다음 턴 동안 나태 취약, 관통 취약 1 부여|[OnSucceedAttack] Inflict 1 [AmberTakeDamageUp] and 1 [PenetrateTakeDamageUp] this turn and next turn
+130|160|[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 이번 턴과 다음 2턴간 나태 위력 증가 2, 나태 피해량 증가 2를 얻음|[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain 2 Sloth Power Up and 2 Sloth DMG Up this turn and the next 2 turns
+131|140|[OnSucceedAttack] 이번 턴, 다음 턴 동안 나태 취약, 관통 취약 2 부여|[OnSucceedAttack] Inflict 2 [AmberTakeDamageUp] and 2 [PenetrateTakeDamageUp] this turn and next turn
+132|40|비 갠 뒤 햇살|Ray of Sun After Rain
+133|120|턴 시작 시 모든 아군의 정신력 3 회복|Turn Start: All allies heal 3 SP
+134|40|지난 날|Bygone Days
+137|40|어느 날의 초상|Portrait of a Certain Day
+138|120|[EndSkill] [Sinking] 6 + (우울 공명 수)을 무작위로 공격 대상에게 나눠서 부여|[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets
+139|120|[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn
+140|120|[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn
+141|120|[EndSkill] [Sinking] 6 + (우울 공명 수 <style="highlight">x 1.5</style>)을 무작위로 공격 대상에게 나눠서 부여|[EndSkill] Randomly inflict (6 + (<style="highlight">Gloom Reson. x1.5</style>)) [Sinking] between targets
+145|120|[OnSucceedAttack] [Sinking] 2 부여. 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn
+147|120|[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 우울 공명 수가 3 이상이면 공격 가중치 +1|[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1
+148|190|[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 우울 공명 수가 3 이상이면 공격 가중치 +1\n[BeforeAttack] 우울 공명 수가 5 이상이면 공격 가중치 +1|[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] At 5+ (Gloom Reson.), additional Atk Weight +1
+150|40|조각난 어제|Fractured Yesterday
+151|140|대상의 [Sinking] 위력이 6 이상이면, 합 위력 +1\n대상의 [Sinking] 횟수가 4 이상이면, 합 위력 +1|If the target has 6+ [Sinking] Potency, Clash Power +1\nIf the target has 4+ [Sinking] Count, Clash Power +1
+155|40|흉탄의 사수|Der Fluchschütze
+156|290|체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모|Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]
+157|120|이 코인에는 메인 타겟만 피해를 입음.|This Coin deals damage only against the main target.
+158|120|메인 타겟이 아군이면, [BoseProjektil]당 피해량 +8% (최대 56%)|If the main target is an ally, deal +8% damage for every [BoseProjektil] (max 56%)
+159|120|[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 2 부여|[AllyKill] Apply 2 [Breath] to self and 2 random allies
+160|120|[AllyKillFail] [Breath] 1 얻음|[AllyKillFail] Gain 1 [Breath]
+161|170|이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음|This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage
+162|120|[BoseProjektil]당 크리티컬 피해량 +2% (최대 14%)|+2% Damage on Critical Hit for every [BoseProjektil] (max 14%)
+164|290|체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모<style="highlight"></style>|Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]<style="highlight"></style>
+165|120|이 코인에는 메인 타겟만 피해를 입음.<style="highlight"></style>|This Coin deals damage only against the main target.<style="highlight"></style>
+166|120|메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style="highlight">+10% (최대 70%)</style>|If the main target is an ally, deal <style="highlight">+10%</style> damage for every [BoseProjektil] (max <style="highlight">70%</style>)
+167|120|[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 3 부여<style="highlight"></style>|[AllyKill] Apply 3 [Breath] to self and 2 random allies<style="highlight"></style>
+168|120|<style="highlight">[AllyKill] 처치한 아군의 스킬 1 속성의 E.G.O 자원 +1</style>|<style="highlight">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 Affinity</style>
+169|120|[AllyKillFail] [Breath] <style="highlight">3</style> 얻음|[AllyKillFail] Gain <style="highlight">3</style> [Breath]
+170|170|이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음<style="highlight"></style>|This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style="highlight"></style>
+171|120|[BoseProjektil]당 크리티컬 피해량 <style="highlight">+5% (최대 35%)</style>|<style="highlight">+5%</style> Damage on Critical Hit for every [BoseProjektil] (max <style="highlight">35%</style>)
+173|420|체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n<style="highlight">- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모|Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style="highlight">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]
+174|120|메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style="highlight">+15% (최대 105%)</style>|If the main target is an ally, deal <style="highlight">+15%</style> damage for every [BoseProjektil] (max <style="highlight">105%</style>)
+175|120|<style="highlight">[AllyKill] 처치한 아군의 스킬 1, 2 속성의 E.G.O 자원 +1</style>|<style="highlight">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities</style>
+176|120|[BoseProjektil]당 크리티컬 피해량 <style="highlight">+9% (최대 63%)</style>|<style="highlight">+9%</style> Damage on Critical Hit for every [BoseProjektil] (max <style="highlight">63%</style>)
+177|120|[CriticalOnSucceedAttack] [Laceration] <style="highlight">3</style> 부여|[CriticalOnSucceedAttack] Inflict <style="highlight">3</style> [Laceration]
+180|390|[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모|[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal +2% damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]
+182|120|메인 타겟이 아군이면, [BoseProjektil]당 피해량 +10% (최대 70%)|If the main target is an ally, deal +10% damage for every [BoseProjektil] (max 70%)
+183|120|메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)|If the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)
+184|120|[AllyKill] 자신과 무작위 아군 3명에게 [Breath] 2 부여|[AllyKill] Apply 2 [Breath] to self and 3 random allies
+185|120|[AllyKill] [BoseProjektil]당 다음 코인의 피해량 +2% (최대 14%)|[AllyKill] The next Coin deals +2% damage for every [BoseProjektil] (max 14%)
+186|120|[AllyKill] 처치한 아군의 스킬 1, 2 속성의 E.G.O 자원 +1|[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities
+190|120|[CriticalOnSucceedAttack] [Laceration] 3 부여|[CriticalOnSucceedAttack] Inflict 3 [Laceration]
+191|390|[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 <style="highlight">+3% (최대 21%)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모|[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal <style="highlight">+3%</style> damage for every [BoseProjektil] (max <style="highlight">21%</style>)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]
+193|120|메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style="highlight">+12% (최대 84%)</style>|If the main target is an ally, deal <style="highlight">+12%</style> damage for every [BoseProjektil] (max <style="highlight">84%</style>)
+194|120|메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)<style="highlight"></style>|If the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)<style="highlight"></style>
+195|120|[AllyKill] 자신과 무작위 아군 3명에게 [Breath] <style="highlight">3</style> 부여|[AllyKill] Apply 3 [Breath] to self and <style="highlight">3</style> random allies
+196|120|[AllyKill] [BoseProjektil]당 다음 코인의 피해량 <style="highlight">+5% (최대 35%)</style>|[AllyKill] The next Coin deals <style="highlight">+5%</style> damage for every [BoseProjektil] (max <style="highlight">35%</style>)
+197|120|<style="highlight">[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1</style>|<style="highlight">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities</style>
+198|120|[AllyKillFail] [Breath] <style="highlight">2</style> 얻음|[AllyKillFail] Gain <style="highlight">2</style> [Breath]
+200|120|[BoseProjektil]당 크리티컬 피해량 <style="highlight">+3% (최대 21%)</style>|<style="highlight">+3%</style> Damage on Critical Hit for every [BoseProjektil] (max <style="highlight">21%</style>)
+201|120|[CriticalOnSucceedAttack] [Laceration] <style="highlight">4</style> 부여|[CriticalOnSucceedAttack] Inflict <style="highlight">4</style> [Laceration]
+202|520|[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n<style="highlight">- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)</style>\n[BeforeAttack] [BoseProjektil]당 피해량 <style="highlight">+4% (최대 28%)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모|[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style="highlight">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Deal <style="highlight">+4%</style> damage for every [BoseProjektil] (max 28%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]
+203|120|메인 타겟이 아군이면, [BoseProjektil]당 피해량 +15% (최대 105%)<style="highlight"></style>|If the main target is an ally, deal +15% damage for every [BoseProjektil] (max 105%)<style="highlight"></style>
+205|120|[AllyKill] 자신과 무작위 아군 3명에게 [Breath] <style="highlight">4</style> 부여|[AllyKill] Apply 3 [Breath] to self and <style="highlight">4</style> random allies
+206|120|[AllyKill] [BoseProjektil]당 다음 코인의 피해량 <style="highlight">+7% (최대 49%)</style>|[AllyKill] The next Coin deals <style="highlight">+7%</style> damage for every [BoseProjektil] (max <style="highlight">49%</style>)
+207|120|[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1<style="highlight"></style>|[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities<style="highlight"></style>
+209|120|<style="highlight">[BoseProjektil]당 크리티컬 피해량 +4% (최대 28%)</style>|<style="highlight">+4% Damage on Critical Hit for every [BoseProjektil] (max 28%)</style>
+210|120|[CriticalOnSucceedAttack] [Laceration] <style="highlight">5</style> 부여|[CriticalOnSucceedAttack] Inflict <style="highlight">5</style> [Laceration]
+212|120|공격 종료 시 대상이 사망했으면 [Breath] 횟수 2 증가 (턴 당 최대 2회)|Attack End: If the target is killed, gain +2 [Breath] Count (2 times per turn)
+213|40|삼천대세계 [三千大世界]|Great Trichiliocosm [三千大世界]
+215|40|삼천대세계[三千大世界]|Great Trichiliocosm [三千大世界]
+216|50|나생접[羅生蝶]|Butterfly of Entangled Lives [羅生蝶]
+217|190|[BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n- 해당 공명이 완전 공명이면, (최대 공명 수) / 3만큼 추가로 [Breath] 횟수 증가 (최대 2, 소수점 버림)|[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)
+222|120|[UnBrokenCoinOnSucceedAttack] 이번 턴과 다음 턴에 [ThreeMirrorpartYiSang] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn
+224|130|[OnSucceedAttack] (대상의 [Sinking]/3)만큼 [Combustion] 부여 (최대 5, 소수점 버림)|[OnSucceedAttack] Inflict [Combustion] equal to ([Sinking] on target / 3) (max 5; rounded down)
+227|150|[UnBrokenCoinOnSucceedAttack] [Combustion] 1회 발동. [Combustion] 횟수 1 감소|[UnBrokenCoinOnSucceedAttack] Activate [Combustion] on target once; then, reduce their [Combustion] Count by 1
+228|300|<style="highlight">[BeforeAttack] 메인 대상의 [Combustion]과 [Sinking]의 합이 15 이상이면, 코인 위력 +1</style>\n[BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n- 해당 공명이 완전 공명이면, (최대 공명 수) / 3만큼 추가로 [Breath] 횟수 증가 (최대 2, 소수점 버림)|<style="highlight">[BeforeAttack] If the main target has 15+ ([Combustion] + [Sinking]), Coin Power +1</style>\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)
+231|300|[BeforeAttack] 메인 대상의 [Combustion]과 [Sinking]의 합이 <style="highlight">10</style> 이상이면, 코인 위력 +1\n[BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n- 해당 공명이 완전 공명이면, (최대 공명 수) / 3만큼 추가로 [Breath] 횟수 증가 (최대 2, 소수점 버림)|[BeforeAttack] If the main target has <style="highlight">10</style>+ ([Combustion] + [Sinking]), Coin Power +1\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)
+236|430|[CantIdentify]\n무작위 대상 공격\n코인 적중시마다 [Combustion] 5 얻고, 마지막 코인 사용시 최종 위력 +1 (최대 3, 코인당 1회)\n[BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n- 해당 공명이 완전 공명이면, (최대 공명 수) / 3만큼 추가로 [Breath] 횟수 증가 (최대 2, 소수점 버림)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -1 (최대 -4)|[CantIdentify]\nTargets randomly\nOn Coin Hit, gain 5 [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)
+241|120|[OnSucceedAttack] 이번 턴과 다음 턴에 [ThreeMirrorpartYiSang] 1 부여|[OnSucceedAttack] Inflict 1 [ThreeMirrorpartYiSang] this turn and next turn
+246|130|[OnStartCoin] (모든 대상의 [Combustion] 위력과 [Sinking] 위력의 합) 10당 피해량 +10% (최대 40%)|[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max 40%)
+247|120|[OnStartCoin] (모든 대상의 [Combustion]과 [Sinking]의 합) 10당 <noparse>피해량 증가</noparse>|[OnStartCoin] Deal more damage for every 10 ([Combustion] + [Sinking]) on all targets
+249|430|[CantIdentify]\n무작위 대상 공격\n코인 적중시마다 [Combustion] <style="highlight">4</style> 얻고, 마지막 코인 사용시 최종 위력 +1 (최대 3, 코인당 1회)\n[BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n- 해당 공명이 완전 공명이면, (최대 공명 수) / 3만큼 추가로 [Breath] 횟수 증가 (최대 2, 소수점 버림)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -1 (최대 -4)|[CantIdentify]\nTargets randomly\nOn Coin Hit, gain <style="highlight">4</style> [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)
+253|130|[OnStartCoin] (모든 대상의 [Combustion] 위력과 [Sinking] 위력의 합) 10당 피해량 +10% (최대 <style="highlight">50%</style>)|[OnStartCoin] Deal +10% damage for every 10 ([Combustion] + [Sinking]) on all targets (max <style="highlight">50</style>%)
+254|430|[CantIdentify]\n무작위 대상 공격\n코인 적중시마다 [Combustion] <style="highlight">3</style> 얻고, 마지막 코인 사용시 최종 위력 +1 (최대 3, 코인당 1회)\n[BeforeAttack] (최대 공명 수)만큼 [Breath] 얻음 (최대 7)\n- 해당 공명이 완전 공명이면, (최대 공명 수) / 3만큼 추가로 [Breath] 횟수 증가 (최대 2, 소수점 버림)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -1 (최대 -4)|[CantIdentify]\nTargets randomly\nOn Coin Hit, gain <style="highlight">3</style> [Combustion]; on final Coin Use, Final Power +1 (max 3; once per Coin)\n[BeforeAttack] Gain (highest Reson.) [Breath] (max 7)\n- If it was an A-Reson., also gain +(highest Reson. / 3) [Breath] Count (max 2; rounded down)\n[BeforeAttack] Base Power -1 for every Cracked Coin (down to -4)

@@ -1,0 +1,96 @@
+13495||RPGSystem#rpg-loc-dialogue-floor-1.json] 아니, 그러니까 거래도 말이 통해야 하죠…|Sure, but a deal needs two-way communication, you know...
+13496||RPGSystem#rpg-loc-dialogue-floor-1.json] 그러니까… 그러니까 말이야, 이스?|I get whatcha mean, Ishy. Ishy?
+13497||RPGSystem#rpg-loc-dialogue-floor-1.json] 지금 그런 것에 의문을 갖는 건… 별로 소용이 없을 것 같다는 거야.|I'm just sayin', I don't think asking more questions is our best shot at moving on.
+13498||RPGSystem#rpg-loc-dialogue-floor-1.json] 그래서, 저 ‘옷감’을 돌려받으려면, 우리가 어떻게 해야 해?|All right. Why don'tcha go ahead and tell me what you want in return for this, uh, "material"?
+13499||RPGSystem#rpg-loc-dialogue-floor-1.json] 이제야 말이 통하네. 우리가 선점한 걸 갖고 가겠다는 거였구나?|<i>Now</i> we're getting somewhere. All right, what do you want?
+13500||RPGSystem#rpg-loc-dialogue-floor-1.json] 하… 놓치기 아까운 옷감인데, 어떻게 한다.|It's a shame to lose such promising material... What to do, what to do...
+13501||RPGSystem#rpg-loc-dialogue-floor-1.json] …그래, 그럼 저 옷감 가치만큼 아르바이트라도 해줘야겠어. 우리는 바뀐 트렌드에 맞춰서 진열이랑 발주를 바꿔야 해서 정신이 없거든.|... All right, then. You can work off the material's value, and I'm willing to call it even. Consider it a part-time job. We're really swamped as it is, changing up the displays and order sheets to keep pace with the latest trends.
+13502||RPGSystem#rpg-loc-dialogue-floor-1.json] 그… 그래, 어떤 건데?|S-sure... What kind of errand?
+13503||RPGSystem#rpg-loc-dialogue-floor-1.json] 이 근처에는 마네킹들이 있는 구역이 있어.|There's an area nearby full of Mannequins.
+13504||RPGSystem#rpg-loc-dialogue-floor-1.json] …마네킹이요?|... Mannequins?
+13505||RPGSystem#rpg-loc-dialogue-floor-1.json] 참지 못하고 이스마엘이 또다시 끼어들었지만 로쟈가 황급히 조용히 하라는 눈짓을 보냈다.|Unable to restrain herself, Ishmael cut in once more, but quickly gave up when Rodion hurriedly sent a desperate look her way.
+13506||RPGSystem#rpg-loc-dialogue-floor-1.json] 문제는 그 마네킹들은 유행에 전혀 맞지 않는 옷을 입고 있다는 거야.|The problem is that those Mannequins are dressed in clothes that have fallen way, way behind the current fashion trend.
+13507||RPGSystem#rpg-loc-dialogue-floor-1.json] 쇼핑을 하기 위해 오는 고객들이 유행이 뒤처진 마네킹들을 보고 우리 매장에 들어오지 않으면 어떡하겠어?|What if customers coming here to shop see those hopelessly dated Mannequins and refuse to enter our store?
+13508||RPGSystem#rpg-loc-dialogue-floor-1.json] 그…그렇지… 아무래도 매장 입장에서는 곤란하겠지… 응…|R-right... That would be a real problem for the shop, wouldn't it...? Yeah... totally...
+13509||RPGSystem#rpg-loc-dialogue-floor-1.json] 로쟈가 애써 공감을 하려는 듯이 고개를 세차게 끄덕여주었다.|Rodya nodded vigorously, perhaps trying a little too hard to look sympathetic to the employee's plight.
+13510||RPGSystem#rpg-loc-dialogue-floor-1.json] 그러니까 그곳에 있는 마네킹들을 퇴장시켜줘.|Yes. Which means I want you to help the Mannequins to the exit.
+13511||RPGSystem#rpg-loc-dialogue-floor-1.json] 백화점에는 정상적인 방법으로 출입이 불가능한 것으로 알고 있다.|As far as I'm aware, entry to Sisyphe is beyond ordinary means.
+13512||RPGSystem#rpg-loc-dialogue-floor-1.json] 시지프형을 받아서 온 것이 아니라면 다른 우회적인 방법을 통해 왔겠군.|If you were not brought here via the Sisyphe Penalty, then you must have taken another, unknown route.
+13513||RPGSystem#rpg-loc-dialogue-floor-1.json] <…그래, 헤르만의 부하들이 도와줬어.>|<... That's right. Hermann and her lackeys helped us.>
+13515||RPGSystem#rpg-loc-dialogue-floor-1.json] …가 중요한 게 아니라 뫼르소 씨 지금 뭐하고 계셨던 거예요?|Forget about that. Just what have you been doing here all this time, Meursault?
+13516||RPGSystem#rpg-loc-dialogue-floor-1.json] 여기는 또 어딘데요?|And what is this place?
+13517||RPGSystem#rpg-loc-dialogue-floor-1.json] 단, 저를 주체로 뒤에 선다면, 전투를 원활히 수행하는 수준은 아니더라도 어느 정도의 접촉, 개입은 가능할 것입니다.|However, standing behind me in a line will allow for a limited degree of interactivity with the environment, though it will not be sufficient to engage these entities in battle.
+13518||RPGSystem#rpg-loc-dialogue-floor-1.json] <왜… 왜?>|<Huh. And why is that...?>
+13519||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳이 상징계라서 그렇습니다, 관리자님.|Because this place belongs to the Symbolic, Manager.
+13520||RPGSystem#rpg-loc-dialogue-floor-1.json] 그림자계에서는 가능할 것이다.|It will be possible in the Shadowed.
+13521||RPGSystem#rpg-loc-dialogue-floor-1.json] 상징계는 뭐고, 그림자계는 뭔데요?|Symbolic, Shadowed... What are those?
+13522||RPGSystem#rpg-loc-dialogue-floor-1.json] 이 백화점을 구성하고 있는 세계의 일부를 지칭한다.|They are names for the constituent worlds of this department store.
+13523||RPGSystem#rpg-loc-dialogue-floor-1.json] 아… 대답이 안 되는데요…|Uh... That's not much of an answer, is it.
+13524||RPGSystem#rpg-loc-dialogue-floor-1.json] 이보다 상세한 설명은 매우 긴 시간을 요구한다.|A more thorough explanation than this would require a significant time investment.
+13525||RPGSystem#rpg-loc-dialogue-floor-1.json] <…어쨌든 제대로 나아가려면 뫼르소가 필요하다는 건 맞지?>|<... Either way, we do need Meursault with us if we're going to make any real progress, right?>
+13526||RPGSystem#rpg-loc-dialogue-floor-1.json] 그러면… 우리가 퇴장시켜 주도록 할게.|Okay, then... we'll help them to the exit.
+13527||RPGSystem#rpg-loc-dialogue-floor-1.json] 그렇습니다, 관리자님.|That is correct, Manager.
+13528||RPGSystem#rpg-loc-dialogue-floor-1.json] <그럼 뫼르소가 앞장서자.>|<Then you should take the lead, Meursault.>
+13529||RPGSystem#rpg-loc-dialogue-floor-1.json] <어디로 가야 좋을지는 내가 알려줄게.>|<I'll tell you which way to go.>
+13530||RPGSystem#rpg-loc-dialogue-floor-1.json] 그렇게 하겠습니다.|It will be done.
+13531||RPGSystem#rpg-loc-dialogue-floor-1.json] 당신이 요청한 아르바이트를 수행하기 위해 이들은 나를 필요로 한다. 잠시 이탈해도 되겠나?|They need me to accompany them in order to fulfill the work you assigned to us. May I step away for a short while?
+13532||RPGSystem#rpg-loc-dialogue-floor-1.json] 그래, 뭐.|Yeah, sure.
+13533||RPGSystem#rpg-loc-dialogue-floor-1.json] <…근데 이러면 뫼르소랑 같이 도망치면 되는 거 아냐?>|<... Wait, we have Meursault now. What if we just split and never came back?>
+13534||RPGSystem#rpg-loc-dialogue-floor-1.json] 도망친다 해서 제가 보관되지 않는 것은 아닙니다, 관리자님.|Fleeing would not prevent me from being placed in storage, Manager.
+13535||RPGSystem#rpg-loc-dialogue-floor-1.json] 어… 그러니까 쉽게 말해서, 도망치면 우리가 곤란해질 수 있다는 거지?|Okay... so you're saying runnin' away with you would cause trouble for us, right?
+13536||RPGSystem#rpg-loc-dialogue-floor-1.json] 잘 생각했어. 딱 세 개만 퇴장시켜 주면 돼.|Good choice. You only need to help three Mannequins to the exit.
+13537||RPGSystem#rpg-loc-dialogue-floor-1.json] 대호수처럼 이곳에는 이곳만의 규칙이 있나 보네요.|Maybe this place has its own Laws—just like the Great Lake.
+13538||RPGSystem#rpg-loc-dialogue-floor-1.json] 하아… 뫼르소 씨 말대로 하죠. 왜인지는 몰라도 이 장소에 대해 잘 알고 계신 것 같고.|*sigh* Let's do as Meursault says. I don't know why or how, but he seems to be well-acquainted with the department store.
+13539||RPGSystem#rpg-loc-dialogue-floor-1.json] <그래, 그렇게 하자.>|<Right. Sounds like a plan.>
+13540||RPGSystem#rpg-loc-dialogue-floor-1.json] <그럼 다녀올 테니까 잘 보관… 아니, 기다리고 있어. 뫼르소.>|<We'll be back, so stay in storage—I mean, wait for us here, Meursault.>
+13541||RPGSystem#rpg-loc-dialogue-floor-1.json] …제가 같이 가야 합니다, 관리자님.|... I must accompany you, Manager.
+13542||RPGSystem#rpg-loc-dialogue-floor-1.json] <왜?>|<What for?>
+13543||RPGSystem#rpg-loc-dialogue-floor-1.json] 뭐야~ 우리가 못 미더운 거야?|Aw~ You're thinkin' we're not up to the task, aren'tcha?
+13544||RPGSystem#rpg-loc-dialogue-floor-1.json] 질문을 드리겠습니다. 아까 관리자님께서는 이곳에서 ‘마네킹’이라고 불리는 개체들을 보셨을 겁니다. 그들과 물리적인 접촉을 해보셨습니까?|A question, Manager. It is likely that you have encountered entities they refer to as "Mannequins" on your way to this room. Did you try making physical contact with them?
+13545||RPGSystem#rpg-loc-dialogue-floor-1.json] <어… 어떤 걸 말하는지 정확하게는 모르겠는데, 접촉은 안 해봤어. 어떤 것들은 우리를 인식하지 못하는 것 같았고…>|<Uh... I'm not sure exactly what counts as a "Mannequin," but I haven't tried touching any of them just yet. Some didn't seem to perceive me at all, actually...>
+13546||RPGSystem#rpg-loc-dialogue-floor-1.json] 접촉은 불가능했을 겁니다. 이 장소에서 존재하는 것들과 직접적인 개입을 할 수 있는 건 저만이 가능할 것이므로.|Indeed. Contact would have been impossible. I am likely the only person capable of direct intervention with the entities that exist in here.
+13547||RPGSystem#rpg-loc-dialogue-floor-1.json] 퇴장…? 이건 나도 무슨 말인지 모르겠어… 어떻게 하지?|"Help them to the exit"? Okay, now I'm confused, too. Just what are we supposed to do?
+13548||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳에서는 상식이라는 말이 일반적인 쓰임새와는 다르게 받아들여질 수 있다는 사실을 알아야 할 것 같군.|You should understand that, in this place, the word "common sense" may be received differently from its conventional usage.
+13549||RPGSystem#rpg-loc-dialogue-floor-1.json] 너희, 그래서 마네킹들을 퇴장시켜줄 거야, 말 거야?|Well? Are you helping those Mannequins to the exit or not?
+13550||RPGSystem#rpg-loc-dialogue-floor-1.json] 잠시만~ 하하… 여기 옷들이 신… 신기해서 둘러보고 있었어.|Give us a sec~ Haha... We're just taking a quick look around your shop... These clothes are o-out of this world!
+13551||RPGSystem#rpg-loc-dialogue-floor-1.json] 아, 그런 거야? 이거 사면 저 옷 하나 더 줄 수 있어. 이제 시즌 오프니까, 엄청 할인해줄 수 있거든.|Oh, okay! Buy this, and I'll throw in that outfit as well. We're holding an end-of-season sale.
+13552||RPGSystem#rpg-loc-dialogue-floor-1.json] 그래서 뭐예요? 저자의 요구대로 뫼르소 씨를 구하기 위해서는 마네킹… 이라고 불리는 것들을 죽이라는 게 맞나요?|So what's it gonna be? If we wanna save Meursault, we kill the things this person calls Mannequins—is that correct?
+13553||RPGSystem#rpg-loc-dialogue-floor-1.json] 그렇다.|Correct.
+13554||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런데 너무 오랫동안 구경하는 거 아니야? 그 정도 눈 구경했으면 뭐라도 하나 사야지 않겠어?|Haven't you been browsing long enough? Don't you think you ought to buy something after that much window-shopping?
+13555||RPGSystem#rpg-loc-dialogue-floor-1.json] 간단한 요구다.|The request is simple.
+13556||RPGSystem#rpg-loc-dialogue-floor-1.json] 그들이 마네킹이라 부르는 개체들을 없애면 된다.|We are to eliminate the entities they call "Mannequins."
+13557||RPGSystem#rpg-loc-dialogue-floor-1.json] 죽이라는 거예요?|You mean kill them?
+13558||RPGSystem#rpg-loc-dialogue-floor-1.json] 평소보다 질문의 빈도가 늘어나는군.|You are asking more questions than usual.
+13559||RPGSystem#rpg-loc-dialogue-floor-1.json] 그럴 수밖에 없잖아요. 하는 말의 절반도 못 알아듣겠으니까요.|What do you expect? I can't understand half of what anyone here says.
+13561||RPGSystem#rpg-loc-dialogue-floor-1.json] 뭐가 또 그렇군이라는 거예요?|You <i>see</i> what?
+13562||RPGSystem#rpg-loc-dialogue-floor-1.json] 너희들의 눈에는 그렇게 보일 수밖에 없다는 사실을 깨달았다.|I have realized that things here might appear inscrutable from your perspective.
+13563||RPGSystem#rpg-loc-dialogue-floor-1.json] 저들은… 왜 뫼르소 씨를 붙잡은 거예요?|Why did they seize you in the first place?
+13564||RPGSystem#rpg-loc-dialogue-floor-1.json] 나를 르카키라고 생각했기 때문이다.|They believed I belonged to Le Kaki.
+13565||RPGSystem#rpg-loc-dialogue-floor-1.json] <르카키가 뭔데?>|<Le Kaki? What's that?>
+13566||RPGSystem#rpg-loc-dialogue-floor-1.json] 물음표의 향연이었다. 뫼르소는 차근차근 설명해줄 생각이 없어 보였고 이곳에서 쓰이는 단어들은 모두 낯설기 그지없었으니까.|Questions and doubts everywhere—understandable, because Meursault showed no intention of explaining matters proactively, and even the words we thought we knew held completely different meanings to the entities in this place.
+13567||RPGSystem#rpg-loc-dialogue-floor-1.json] 시지프 백화점의 고객들은 크게 네 개의 집단으로 분류가 가능합니다, 관리자님.|The customers of the department store can be classified into four principal groups, Manager.
+13568||RPGSystem#rpg-loc-dialogue-floor-1.json] 르누아르와 르루주라고 불리는 이들이 주류로 존재하며, 그 이외에 어디에도 속하지 않은 자들을 르카키라고 부릅니다. 그리고 모습을 드러내지 않으며 불리지도 않는 자들 또한 있습니다.|The mainstream groups are called Le Noir and Le Rouge. Those belonging to neither are known as Le Kaki. Lastly, there are those who never reveal themselves, nor are they called upon by others.
+13569||RPGSystem#rpg-loc-dialogue-floor-1.json] 르카키… 라는 자들은… 그렇게 납치가 되고 그러기도 해?|Do these... "Kaki" people... often get kidnapped like that?
+13570||RPGSystem#rpg-loc-dialogue-floor-1.json] 납치와는 다르다. 그들은 흘러가는 대로 존재하기에 일종의 옷감 제작을 위한 도구 혹은 재료로 사용되기도 한다.|It is inaccurate to label what happened to me as "kidnapping." The Kakis' existence is defined by the current's flow; therefore, they are sometimes used as tools or as materials for clothing production.
+13571||RPGSystem#rpg-loc-dialogue-floor-1.json] 대부분의 르카키들에게는 원하는 옷을 구매하고, 입어본다는 목적이 존재하지만 나에게는 그런 목적이 존재하지 않았기에, 저들은 나를 옷감으로 활용할 수 있었던 것이다.|Most Kakis aim to purchase and wear the garments they desire. I possessed no such objective, which made it possible for them to use me as material.
+13572||RPGSystem#rpg-loc-dialogue-floor-1.json] 계속해서 의문만이 꼬리에 꼬리를 무는 이 상황에서, 나는 누군가는 해야 하는 본질적인 질문을 뱉을 수밖에 없었다.|With every answer breeding more questions, I had no choice but to cut in and ask the one fundamental subject someone had to ask.
+13573||RPGSystem#rpg-loc-dialogue-floor-1.json] <뫼르소, 그래서 여기가…>|<So, now that all's said and done, Meursault, could you tell us...>
+13574||RPGSystem#rpg-loc-dialogue-floor-1.json] <대체 어디인 건데?>|<Where exactly we are?>
+13575||RPGSystem#rpg-loc-dialogue-floor-1.json] 관리자님을 포함한 수감자들의 신체 열둘은 집단 자살 자판기 안에 존재해 있을 것입니다.|The 12 bodies belonging to you and the other Sinners are likely inside the group Suicide Vending Machine you used.
+13576||RPGSystem#rpg-loc-dialogue-floor-1.json] 그럼… 여기가 저희 정신이 옮겨진 공간이라는 거고…|Then... our minds have been moved here...
+13577||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳은 시지프형을 받은 사람들의 정신이 존재하는… 가상의 공간이라는 건가요?|And this is a virtual space inhabited by the minds of those sentenced to Sisyphe Penalty?
+13578||RPGSystem#rpg-loc-dialogue-floor-1.json] 시지프…|Sisyphe...
+13579||RPGSystem#rpg-loc-dialogue-floor-1.json] <시지프 백화점이라는 건 알아. 그러니까 내가 알고 싶은 건…>|<Yes, I know we're in Grand Magasin Sisyphe, and yes, it's a department store. But what I'm asking is...>
+13580||RPGSystem#rpg-loc-dialogue-floor-1.json] <여기, N사의 어느 곳에 위치한 건물이야? 이곳의 사람들은 뭘 하고 있는 거고? >|<Where in N Corp. is this building located? And what are all these people doing in here?>
+13581||RPGSystem#rpg-loc-dialogue-floor-1.json] 그리고 저희는… 어떻게 다시 나갈 수 있는 건데요?|What can we do to get out of this place?
+13582||RPGSystem#rpg-loc-dialogue-floor-1.json] 연달아 몰아치는 질문들 사이에서도 뫼르소는 눈썹 하나 까딱하지 않은 채 나를 쳐다보았다.|The barrage of questions were unrelenting, but Meursault kept his gaze trained on me without moving so much as an eyebrow.
+13583||RPGSystem#rpg-loc-dialogue-floor-1.json] 질문이 많으니, 한 가지씩 처리하겠다.|There are more than a few questions, so I will address them individually.
+13584||RPGSystem#rpg-loc-dialogue-floor-1.json] 첫째, 이곳은 물리적으로 세워져 있는 건물이 아닙니다, 관리자님.|Point one: This is not a physically constructed building, Manager.
+13585||RPGSystem#rpg-loc-dialogue-floor-1.json] <물리적으로 세워져 있는 건물이 아니라는 건…>|<Not physically constructed...?>
+13586||RPGSystem#rpg-loc-dialogue-floor-1.json] 저의 신체는 지금 N사 어딘가에 위치한 시지프 탑의 통 속에 의식이 없는 채로 존재하며,|My body currently lies unconscious inside a vat at the Sisyphe Tower, somewhere within N Corp.
+13587||RPGSystem#rpg-loc-dialogue-floor-1.json] 그래서 그딴 기분 나쁜 경험을 통로로 써야 했던 거군요…|I see. So that's why they made that disturbing experience an entry passage leading here...
+13588||RPGSystem#rpg-loc-dialogue-floor-1.json] 이어서 말하겠습니다, 관리자님.|Moving on, Manager.
+13589||RPGSystem#rpg-loc-dialogue-floor-1.json] 둘째, 시지프 백화점에 들어오는 사람들은 모두 고객이라 불리며, 옷을 제작하고 소비합니다.|Point two: Every person who enters the Grand Magasin Sisyphe is designated a "customer" who will do one of two things—manufacture clothing, or consume it.
+13590||RPGSystem#rpg-loc-dialogue-floor-1.json] 아까 우리가 본 것도 전부 옷에 포함되는 거였지?|Then I suppose everything we saw earlier counts as clothing too, right?
+13591||RPGSystem#rpg-loc-dialogue-floor-1.json] 하지만 여기는 경험 통조림을 만드는 곳이라고 그랬잖아요, 그런데 왜 이런 가상 공간에 사람들의 정신을 가두고… 통조림이 아니라 옷을 만들고 있는 거죠?|But I thought this place was supposed to be a Canned Experience factory. Imprisoning people's minds in a virtual space, making them manufacture clothing instead of cans—I mean, why do any of that?
+13592||RPGSystem#rpg-loc-dialogue-floor-1.json] 그것은… 간단히 대답할 수 없는 물음이다.|That is... not a question easily answered.

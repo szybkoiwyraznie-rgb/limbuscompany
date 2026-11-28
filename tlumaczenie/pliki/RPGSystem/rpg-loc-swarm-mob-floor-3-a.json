@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[key=swarm_lanoir_fanatic_3f].displayName": {
+      "pl": "Pracownik Le Noir [Napromieniony]",
+      "kr_sha256": "0aeb92d94039bffab3cfb826f0cf20a8303fae6510be5d0e210f6da61f4711b5",
+      "en_sha256": "65bf4fc6d3113a68c429fbe1e226e5baef9613dfd7800ef3eebf8cba0de14386",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_larouge_spa_staff_3f].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_leather_scarecrow].displayName": {
+      "pl": "Skórzany Ojciec",
+      "kr_sha256": "1b90ce4618358386be5f08c837b31167c661feed645797d612b3a64d197fcbb2",
+      "en_sha256": "4a9336ca9099968366369a03cee620520a4d858f446b86daf441242be52d902e",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_star].displayName": {
+      "pl": "Wirująca Karuzela",
+      "kr_sha256": "44e004e02c5131bff044df03d73fda1883dee78748b7a7f355645b0efd48d43a",
+      "en_sha256": "2a0c799f9f180c8d1a83d243fcab5e22019c305ee2f2860f1e6b56b2de8e43d2",
+      "origin": "ai"
+    }
+  }
+}

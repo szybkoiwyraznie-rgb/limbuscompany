@@ -1,0 +1,99 @@
+{
+  "entries": {
+    "dataList[id=dungeon_1_1_0101].content": {
+      "pl": "Strefa izolatek Zespołu Kontroli",
+      "kr_sha256": "75bef2bf9be73925828b4129bde1daf44858ee9f469318a7e998b81969b88a74",
+      "en_sha256": "609634c630a691ee8a3e975d4074b018b5ceb3b5bd5e318dfafd7c1ab59d001f"
+    },
+    "dataList[id=dungeon_1_1_0102].content": {
+      "pl": "Hol Zespołu Kontroli",
+      "kr_sha256": "5d7d07ca316de3816d4a6e22ded7598ff4dbdc764b219c76269bc55a2433a861",
+      "en_sha256": "6f2cb350cad8b15c0fb88f0cfa421306967c45d043239e28bb6116b62eb473dd"
+    },
+    "dataList[id=dungeon_1_1_0103].content": {
+      "pl": "Korytarz izolatek 1",
+      "kr_sha256": "1755fdf88ee331798bdf16c31a1c240fa68bd12c7d460b2c6f48a0b56c25bdc3",
+      "en_sha256": "e1bbad03bed67705f1c32430a7368e540729b93cd81fe0ff47bfad80c976cfcc"
+    },
+    "dataList[id=dungeon_1_1_0104].content": {
+      "pl": "Korytarz izolatek 2",
+      "kr_sha256": "0f52287fddb38d174ed60c53765106bdebb31b66ed3e312142ae85fa6833506a",
+      "en_sha256": "c1bf1561b6ec689960f2862b58147368ec8cf167fcd92eddd9ef3a580b64481c"
+    },
+    "dataList[id=dungeon_1_1_0105].content": {
+      "pl": "Korytarz izolatek 3",
+      "kr_sha256": "bc0660be87c229de3867b6c9134fadbe5fe885ad35e66a0aa7dea92d6d8ac451",
+      "en_sha256": "0e8675051bdedb92a16671940b4e3fe92274996f2dd0a2a91a06e1c6c0ee823c"
+    },
+    "dataList[id=dungeon_1_1_0106].content": {
+      "pl": "Pokój socjalny",
+      "kr_sha256": "75e019c0d28a8a7c4a0ce82d0d9177ee403e50b6b233cee08ded29ad3c5b680f",
+      "en_sha256": "2f25ac63ecfc8e74dc67c9906e4026d728b8af481b510e0f946bab3d6ccfb0ac"
+    },
+    "dataList[id=dungeon_1_1_0107].content": {
+      "pl": "Łącznik\nZespołu Informacji",
+      "kr_sha256": "05c81a71871e09c1d5211ce8bae6a0e6339c34d6f52427752f094c56f815c3eb",
+      "en_sha256": "3d4e0a606362e4a8cbb8d22aedfb6384dc4b6971cf3bfe29ee6a02e9d364a698"
+    },
+    "dataList[id=dungeon_1_1_0201].content": {
+      "pl": "Hol\nZespołu Informacji",
+      "kr_sha256": "93d5094e886297deb5b64c478467d57daf9bc6513f8190ec4df8fceb2b4b9a9d",
+      "en_sha256": "079be57cfca335e1e0098225c457ba338e8a076bb5e9b1d40a47386b8e8b4bb2"
+    },
+    "dataList[id=dungeon_1_1_0202].content": {
+      "pl": "Poczekalnia dla personelu",
+      "kr_sha256": "1f134385b1692c843db2afb58238fc321bf8d6705271b3e549fd58e326b31576",
+      "en_sha256": "701ec09eef019355837acab05a35daa85be227ab75786b5b293da334afbaab18"
+    },
+    "dataList[id=dungeon_1_1_0203].content": {
+      "pl": "Korytarz izolatek 4",
+      "kr_sha256": "a1df9c951ea2e3f3060c1edee79543588474cf718f19ac0b9be29aa6cc338b0b",
+      "en_sha256": "ac84d5f3fda4f375213375583b0d08afc0a0159931944fb98ef4030d866f8951"
+    },
+    "dataList[id=dungeon_1_1_0204].content": {
+      "pl": "Korytarz izolatek 5",
+      "kr_sha256": "123489139a0dcc71c3fe42f0f03890764ff951cc6137ddd827fc6b0ad02c1dd9",
+      "en_sha256": "06f051de4d8648bd55540802c11c0f6d771d4ae4fc10aa327d88aab254bbaa58"
+    },
+    "dataList[id=dungeon_1_1_0205].content": {
+      "pl": "Aneks kuchenny",
+      "kr_sha256": "3655e17d0bc2de1e9023dca49be4f90cd49610ff4138334f66bffa29a6cdb488",
+      "en_sha256": "5bd7296f3a7142096e9e8b63920829283f33088ae9096c14949b0cdb686af825"
+    },
+    "dataList[id=dungeon_1_1_0206].content": {
+      "pl": "Przejście pomocnicze",
+      "kr_sha256": "e8776e78f2ddd0fd0bdbfb863b4c6425b738cb232e85983993367198289d5b10",
+      "en_sha256": "ac43453379123c0f7f9111662430bb7cb46968d9f6cb6fca1e2142701dd87412"
+    },
+    "dataList[id=dungeon_1_1_0207].content": {
+      "pl": "Blok Anomalii\nkrytycznych",
+      "kr_sha256": "4028bb41a98da3c1c1030653a42ea619bad396be0107b13c5fbd10d6132b9279",
+      "en_sha256": "c9ec9a4cd808fde936dd20fc9da6f91945a09f8c16dec98d29d96fe320850ca5"
+    },
+    "dataList[id=dungeon_1_1_0301].content": {
+      "pl": "Środkowy front Wojny Dymnej",
+      "kr_sha256": "f88be2264f7938ef4a5e4daa65cec531b98831119045a30495dfa4f85bb9ddfb",
+      "en_sha256": "a680ca1080111e2c61c713d42292237de1cc65174314608ab94449f0baebf5b6"
+    },
+    "dataList[id=dungeon_1_1_0302].content": {
+      "pl": "Linia obrony 23-7, 11:00",
+      "kr_sha256": "566fcd981b128dd31b0deee111054e836ab54c65c1d82e02338145b7d38e5b73",
+      "en_sha256": "658cd784ef7fd809c29c18e55db0103dbf7d3b0629ffc4f472645da6d23bf4e0"
+    },
+    "dataList[id=dungeon_1_1_0303].content": {
+      "pl": "Kluczowy przyczółek",
+      "kr_sha256": "450f9b47bbf3f9cd8ce8566a6923cea680135fb0c8e9c89c40a78bf9ceb48683",
+      "en_sha256": "33e7ced940eb0b32b46ec0e418996fc2f35e63ff09faad3e3074e90afc047ef9"
+    },
+    "dataList[id=dungeon_1_1_0304].content": {
+      "pl": "Linia obrony 23-7, 13:00",
+      "kr_sha256": "b55e87934c109a4f535451fca1528b4489a6f044a5a0a3a02ca026a58d4251fa",
+      "en_sha256": "6deaad604fb2a378634b77f6ba631c4cde0e290c6463c7e31a341ecac6832297"
+    },
+    "dataList[id=dungeon_1_1_0305].content": {
+      "pl": "Linia obrony 23-7, 15:36",
+      "kr_sha256": "dca9a1d3c18928565e4283a55667acadd97d502b786cb9e7970f22369981224e",
+      "en_sha256": "fbd047322d5bd9de339a2c4d6efba43064400b1fe62470288c5a27bfdab1cfad"
+    }
+  }
+}

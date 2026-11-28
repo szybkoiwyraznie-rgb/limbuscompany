@@ -1,0 +1,105 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_25].desc": {
+      "pl": "- Chyba tak nazywa się wielkie organizacje zarządzające Fikserami.\n- Każde Stowarzyszenie ma chyba wyspecjalizowaną dziedzinę, co ma odpowiadać temu, jak swobodny i otwarty jest zwykle fach Fiksera.\nWybór jest całkiem spory… Kilka Stowarzyszeń widziałem przez Tożsamości Grzeszników i ich lustrzane światy.\n- Główna różnica względem Fikserów na własną rękę: oni nie mogą wybierać zleceń, które chcą przyjąć.",
+      "kr_sha256": "d44886f215d0e7a2c279f23275515dbaad727d71903b19229a14cadb4c9a5949",
+      "en_sha256": "1cc705485b2347adc4439880ce1b62df46727967fe23238c87d8684deadd21b5",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_26].desc": {
+      "pl": "- Chyba wyspecjalizowali się w zleceniach na zabójstwa.\n- Trzeba zaznaczyć, że nie znaczy to, iż to jedyni Fikserzy, jacy kiedykolwiek biorą się za zabójstwa. Po pierwsze, wynajęcie Fiksera ze Stowarzyszenia to majątek…\nPoza tym popyt na zabójstwa w Mieście jest strasznie wysoki, więc nawet nieznane Biura na zapadłych ulicach dostają takie zlecenia całkiem często.",
+      "kr_sha256": "cab8fee7f983aa8820a812d2b82c5071870063afe6006d0fcb1b3caabfb67fc3",
+      "en_sha256": "8d90f131022bbd504ce86c4ccd862077cd8ac51f33c02d0dc18d54d22aef12f1",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_27].desc": {
+      "pl": "- Chyba wyspecjalizowali się w zleceniach bojowych z udziałem grup ludzi.\n- „Choć niewielu Fikserów w Mieście kończy życie, choć raz nie wmieszawszy się w bitwę…” (cytuję za Don Quixote.)\n- Stowarzyszenie Liu wyróżnia się chyba tym, że każdy z jego członków potrafi radzić sobie z kilkoma przeciwnikami naraz.",
+      "kr_sha256": "c90bb7bed29a20172ea0ac7482090fe5ed876bc6a7dea77de25b49d68a382681",
+      "en_sha256": "36619fa4a8ae3fec67c6d0352cd10a28ee2a2e060bfbb9f1203f856cdc127177",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_28].desc": {
+      "pl": "- Chyba tak nazywa się wszystkie firmy czy przedsiębiorstwa (albo zakłady?) zakładane przez Fikserów.\n- Nawet jeśli nie otwiera się porządnej firmy, żeby pracować jako Fikser, trzeba podobno albo gdzieś należeć, albo założyć jednoosobowe biuro.",
+      "kr_sha256": "06ef5e01d22e5f27e827a641b2230dc5b90f5852c51a0986b26d5c86a41c00e9",
+      "en_sha256": "b11588b0f138bf51d9716d637c11702706555032ce889aefb4a66724a2067ed8"
+    },
+    "dataList[id=DanteNoteDetail_29].desc": {
+      "pl": "- Nazwa dawnego L Corp., które ponoć kiedyś istniało. Podobno produkowało energię.\n- Anomalie, takie jak te, które dotąd spotkaliśmy, rozprowadzano w postaci jaj, a potem trzymano w izolatkach firmy i zarządzano nimi, żeby wytwarzać energię… Enkefalinę.\n- Skoro eksportowało energię do innych firm i Skrzydeł… czyli niemal na całe Miasto, musiała to być naprawdę potężna firma…\n- Pewnego dnia z siedziby głównej wystrzelił ponoć oślepiający snop światła i firma po prostu splajtowała.\nMówią, że tam, gdzie stała, pojawiło się coś jakby… wieża, która potem gdzieś zniknęła, a ponieważ miejsce Skrzydła wciąż stoi puste, w całym obszarze panuje podobno istne pandemonium.\n- Gdy tylko zniknęła siedziba główna, wszystkie filie w całym Mieście przestały działać i zostały zasypane.",
+      "kr_sha256": "c4c602e72963ebeb3f001fb5c6d0f89321ce0ef4087aa49f0d9200604be2f20f",
+      "en_sha256": "4899a189634b58f53f2f8e02ac7a0b61d90e7d3704a0d57565d7c66670f63a0f"
+    },
+    "dataList[id=DanteNoteDetail_30].desc": {
+      "pl": "- Według Don Quixote („Odróżnienie jednych od drugich może być zadaniem zbyt trudnym dla nowicjuszów!”, dodała przy okazji) — Stowarzyszenie Cinq obejmuje sytuacje jeden na jeden, jak pojedynki, a Liu zajmuje się starciami między wieloma walczącymi. Zresztą większość tamtych Tożsamości rzeczywiście ceniła współpracę i koordynację ponad działanie w pojedynkę.\nWyglądali też całkiem beztrosko…\n- Tożsamość Gregora ze Stowarzyszenia Liu powiedziała mi też, że zdarzało mu się brać na pięści grupy po pięciu czy sześciu naraz. (Nie zapomniał z dumą wspomnieć, że „skopał im tyłki”.)",
+      "kr_sha256": "730f2143b521257936c3f861f323e8e2c102d3a7b34ea496afff78e9d1fb68ee",
+      "en_sha256": "fd172bbdd778840c8b8ca31a9add9586dd06291c1d273e4b38cd375ef6cd78ae",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_31].desc": {
+      "pl": "- Biura też bywają chyba różnego rodzaju.\n- Kiedy przypominam sobie Zaułki Dystryktu 4 (teren D Corp.), biuro, do którego należały poznane tam Yuri i Aya, było chyba najpospolitszym rodzajem biura Fikserów.\n- Tak czy inaczej, Fikserzy, biura i Stowarzyszenia działają podobnie: za pieniądze załatwiają to, czego chce zleceniodawca.",
+      "kr_sha256": "83a5c3ce356944f5c88a8ade07b71b5db2f84fb3361a0a3ab31828a488d006bd",
+      "en_sha256": "2ab75e062221a1479fd69762f728bd722531156854f7cf9f8c3add9a21f20b62"
+    },
+    "dataList[id=DanteNoteDetail_32].desc": {
+      "pl": "- Chyba tak nazywa się fluorescencyjnie zielone paliwo, które produkowała Lobotomy Corporation.\n- W Mephistophelesie też jest urządzenie, które przerabia ludzi na Enkefalinę; tak chyba nazywa się płyn, który wypełnia rury.\n- Enkefalina nie musi zostawać w rurach: zależnie od naszego wyboru można ją przelać do czegoś wygodniejszego do przechowywania. Przede wszystkim do skrzynek i modułów.",
+      "kr_sha256": "3cd36ba40b09b00b8827a4e48a2949fb239c3366237296be8dcf7de5269eb589",
+      "en_sha256": "c6942515f5633dc10a30d9f4052f6179df5fec300e300ebc8009d16ccc46dc89"
+    },
+    "dataList[id=DanteNoteDetail_33].desc": {
+      "pl": "- Osobną ciekawostką są zapalające urządzenia wbudowane we wszystkie ich bronie.\n- Kiedy zapytałem, dlaczego używają broni wzniecającej ogień, odpowiedzi były różne: „harmonia”, „flow”…\nSzczerze mówiąc, brzmiały to jak wywody omijające sedno. Moim zdaniem chodzi prawdopodobnie o to, że ogień skutecznie trafia w przeciwników wokół celu. Płomienie się przecież rozprzestrzeniają.",
+      "kr_sha256": "10ebef5080548de8c0f9eabb5888a59edbf1ea6afacddae8d74536d184d22c56",
+      "en_sha256": "4dac0399f317f0a7b30327ba23ee2ef6117aed6d1446b231ed21e7c1cf7ec40b",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_34].desc": {
+      "pl": "- Wciąż chyba nie umiem powiedzieć, czym właściwie jest Anomalia.\n- Ogólnie (przynajmniej te, które dotąd spotkałem) to istoty o wyglądzie zupełnie niepodobnym do ludzi czy zwierząt i o niestworzonych zdolnościach…\nMyślę, że chodzi o istoty, których kształt i moce są dosłownie “anomalią”: czymś, co nie mieści się w żadnej normie.",
+      "kr_sha256": "6f0ea962a64fb040a9e2a174ebe835e50ad3a4c598babe45fb1360e4afdcc5c8",
+      "en_sha256": "10c2105c30bf880b266fe133ee8c1987cf4f53e6c30fdb989cf5fbb610786c96"
+    },
+    "dataList[id=DanteNoteDetail_35].desc": {
+      "pl": "- Skrzynek na Enkefalinę używano chyba już w dawnym L Corp.: na spodzie niektórych wciąż widać logo L Corp.\n- Według ostrzeżenia na boku niektórzy podobno to wdychają, żeby mieć halucynacje… Co trzeba mieć w głowie, żeby coś takiego robić?",
+      "kr_sha256": "4d28682c79c0dbd24fec2c23e1b8dc56da74dd35245b496c4eae03786ca9c343",
+      "en_sha256": "992ccaca81789f2182cd17ed27b5e7c6123ee5073485a4d004193ee348d88b89"
+    },
+    "dataList[id=DanteNoteDetail_36].desc": {
+      "pl": "- Gdy pytam Faust, zawsze słyszę tylko: “Anomalia to po prostu Anomalia. Proszę nie próbować definiować jej według żadnych norm”, więc trudno o konkretniejszą odpowiedź…",
+      "kr_sha256": "4a1d129b467f272b4c0c01bfbbbcd50a1f3d6916966f6d480db6bdfb948e0c78",
+      "en_sha256": "b9b4576b1ab566268cca7399cd00f87f483bff5f4c9f5ce67e95a8f5214d8c9f"
+    },
+    "dataList[id=DanteNoteDetail_37].desc": {
+      "pl": "- Chyba wyspecjalizowali się w zleceniach pojedynczej walki i pojedynków.\n- Choć rzadko, podobno wciąż zdarzają się ludzie chcący rozstrzygnąć spór uczciwym i honorowym „pojedynkiem”.\n- Kiedy ktoś wikła się w pojedynek (albo musi kogoś o niego wyzwać) i dochodzi do wniosku, że przeciwnik wyraźnie mu podrze gardło, wysyła temu Stowarzyszeniu zlecenie. Podobno stają w imieniu klienta albo coś w tym stylu.\n- Wszystko, co wiem o tym Stowarzyszeniu, pochodzi od Tożsamości Stowarzyszenia Seven, więc niewiele się dowiedziałem…\nSkoro Stowarzyszenie rzadko dostaje zlecenia, podobno odpowiada też za wspólne konferencje i wydarzenia z innymi Stowarzyszeniami.",
+      "kr_sha256": "25fc24ad786af152fdaca529c5ad89e5cb553cec2ed7c4a2d0cfce39a325913c",
+      "en_sha256": "3acbec7689cce50088162e4f325446590d0c39a4424494d7a187799738a0fbae",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_38].desc": {
+      "pl": "- W środku czegoś na kształt… żarówki? jest przedmiot o dziwnym kształcie.\n- Nie wiem, jak to opisać… Czasem się porusza, czasem wije.\n- Kiedy wpatruję się w tę migotliwą, tak zwaną nić, robi mi się mętnie w głowie.\n- Faust nie pozwoliła mi długo jej trzymać, więc ją oddałem, a w zamian wysłuchałem wyjaśnień.",
+      "kr_sha256": "d8f3dd0fc7692136d85fbd61be4229d2295e8d45d77ff795171da8bc4f328efc",
+      "en_sha256": "4ba475baac8e240295a0099edebcf6c70d1c94c026afb335bef32f7ece16d698"
+    },
+    "dataList[id=DanteNoteDetail_39].desc": {
+      "pl": "- Extermination of Geometrical Organ (co to w ogóle znaczy?)\n- Podobno był to produkt uboczny, który dawne L Corp. pozyskiwało przy okazji wytwarzania Enkefaliny z Anomalii, którymi zarządzało.\n- Ponoć firma robiła z wytworzonego E.G.O broń i pancerze dla swoich pracowników, ale to chyba trochę inne zastosowanie E.G.O niż to, które widziałem i którego doświadczyłem.",
+      "kr_sha256": "e3094d2986c0f16425c5c2fb8ca142127bead8438f7cc96cf2af1ff645f5e3f2",
+      "en_sha256": "a6c381a0317ea3bdb5f91c91109a00738608189332a4ecf6b426173f2ff56b06"
+    },
+    "dataList[id=DanteNoteDetail_40].desc": {
+      "pl": "- W skrócie: jakaś niesamowita technologia, którą dysponuje Skrzydło.\n- Ciekawiło mnie, czym różni się od zwykłej technologii Miasta…\nChyba najlepiej uznać ją za technologię na wyłączność, z której może korzystać tylko dane Skrzydło.",
+      "kr_sha256": "763485e733fecaebe9193a9f0d11ea5cb982724d4ef74ceb492d67a8bd900bdc",
+      "en_sha256": "a9358376f8d0a73878904985e27b01cc1e6b005cc1703582582112419e8eb1a7"
+    },
+    "dataList[id=DanteNoteDetail_41].desc": {
+      "pl": "- Podsumowując…\nTo wszystkie możliwości splecione w nici, sznurki… można by tak powiedzieć.\nW sumie trudno to nazwać podsumowaniem, bo zapisałem niemal słowo w słowo to, co powiedziała Faust. Sam do końca nie wiem, co to znaczy…\nCzuję przy tym chyba coś podobnego do tego, co czuję, patrząc na gwiazdę i niebo, które pojawiają się, gdy cofam zegar. Coś jak nabożny podziw.",
+      "kr_sha256": "e6fc38994ef2eed4ab76591352781977d0aa8f414959b8f94bac0d7c7b670602",
+      "en_sha256": "7c823c23374e7799e5e9aa4e4b9cf7179e43e6959af914f43d95bc3252d1fe13"
+    },
+    "dataList[id=DanteNoteDetail_42].desc": {
+      "pl": "- Grzesznicy, zbliżając się do tego przedmiotu, czują chyba dziwną siłę, coś jak zawroty głowy.\nNazywa się to też rezonansem; może działa to podobnie jak bóle głowy, które czułem.\n- Gdy już odzyskamy Złotą Gałąź, Vergilius chyba wzywa ludzi z innego działu, którzy się nią zajmują.\nKiedy zapytałem, powiedział tylko: “Idzie do centrali”.",
+      "kr_sha256": "2146ce7de00a319d7d34da28af37f8d9d0c9ddd9022a691efe4db391c7f0d7ae",
+      "en_sha256": "96b39e8fad747f5ba70b2e64d714668fa89f0df054bfc015671ef79ea240999b"
+    },
+    "dataList[id=DanteNoteDetail_44].desc": {
+      "pl": "- Z rozmów z kilkoma Tożsamościami związanymi z Fikserami wynika, że nie każdy, kto chce, może nim zostać: jest coś w rodzaju egzaminu na licencję.\n- Fikserów dzieli się chyba według stopni. 9. stopień jest najniższy, a 1. najwyższy…\n- Jest też chyba osobna ranga: Barwny Fikser. Vergiliusa nazywają podobno Szkarłatnym Spojrzeniem. Musi być naprawdę świetny, a do tego sławny.",
+      "kr_sha256": "0de1e903fcfdf84611ae6e5debf8bfdcb47be29d9277f7fd2190d76ffc4d346b",
+      "en_sha256": "ba75c7bdda9cabd9ca4dd42044f7a62dfa0e4ee8f596c5a0dda96a9378ca6ceb"
+    }
+  }
+}

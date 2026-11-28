@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=AaCePaBa].desc": {
+      "pl": "Rozpoczyna walkę z Poczytalnością -25. Na początku tury przy Poczytalności poniżej 0 zyskuje 3 Wzrostu Mocy Ataku.",
+      "kr_sha256": "fb32af372516028f71d7dcb3e39ce5fb7aa2f21ada64cf246b5aae78b723d806",
+      "en_sha256": "434abd9e6c2b491b01c999050c0bdb71745d39938b3bd25f11643f051a9caec3",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePaBa].name": {
+      "pl": "Kompulsja",
+      "kr_sha256": "62390943a6e52e79b2f392d440401c2fa4d60180c6bc8977d676bba90653c5f5",
+      "en_sha256": "d42a977adf1da72c3a45931b795fe946be9c6c1842de5dc528ec3bffc6b56b0a",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePaBa].summary": {
+      "pl": "Na początku tury przy Poczytalności poniżej 0 zyskuje 3 Wzrostu Mocy Ataku",
+      "kr_sha256": "b8d44b977270941357f5678965766003e984bf2e6782c6e930e878e35296d984",
+      "en_sha256": "e21f4c8e004bdab99cea769e1813bc226f259b6952db41b6c4869c54471872a3",
+      "origin": "ai"
+    }
+  }
+}

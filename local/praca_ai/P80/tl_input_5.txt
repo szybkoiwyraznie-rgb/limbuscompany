@@ -1,0 +1,129 @@
+692||Umiejętność wroga [9005104] (ulepszenie 1) — nazwa] 시동 걸기|Rev Up
+693||Umiejętność wroga [9005104] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 진동 동화 1 얻음|[WhenUse] Gain 1 Tremor Sync next turn
+694||Umiejętność wroga [9005201] (ulepszenie 1) — nazwa] 이거나 먹어라!|Eat This!
+695||Umiejętność wroga [9005201] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 2 부여|[OnSucceedAttack] Inflict 2 Tremor
+696||Umiejętność wroga [9005202] (ulepszenie 1) — nazwa] 진동 증폭|Vibration Amplification
+697||Umiejętność wroga [9005202] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 진동만큼 진동 부여|[OnSucceedAttack] Inflict Tremor by target's Tremor
+698||Umiejętność wroga [9005203] (ulepszenie 1) — nazwa] 끝이다!|It's Over!
+699||Umiejętność wroga [9005203] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 진동 2 부여|[OnSucceedAttackHead] Inflict 2 Tremor
+700||Umiejętność wroga [9005203] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 진동 2 부여|
+704||Umiejętność wroga [9005301] (ulepszenie 1) — nazwa] 마찰 가속|Friction Escalation
+705||Umiejętność wroga [9005301] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 1 부여|[OnSucceedAttack] Inflict 1 Tremor
+706||Umiejętność wroga [9005301] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 파열 1 부여|[OnSucceedAttackHead] Inflict 1 Rupture
+707||Umiejętność wroga [9005301] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 진동 1 부여|
+708||Umiejętność wroga [9005301] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 파열 2 부여|
+709||Umiejętność wroga [9005301] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 진동 1 부여|
+710||Umiejętność wroga [9005301] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] 파열 3 부여|
+711||Umiejętność wroga [9005302] (ulepszenie 1) — nazwa] 갈아내주마!|I'll Grind You Up!
+713||Umiejętność wroga [9005302] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 파열 3 부여|
+714||Umiejętność wroga [9005303] (ulepszenie 1) — nazwa] 진동진동|Quaker Shaker
+715||Umiejętność wroga [9005303] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 코인 1, 2가 앞면이라면, 대상의 진동만큼 진동 부여|[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by target's Tremor
+716||Umiejętność wroga [9005303] (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 코인 1, 2가 앞면이라면, 스킬의 코인 앞면 수만큼 파열 부여|[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by the number of Heads this skill lands
+719||Umiejętność wroga [9100801] (ulepszenie 1) — nazwa] 물러나세요!|Stand Back!
+721||Umiejętność wroga [9100802] (ulepszenie 1) — nazwa] 조금 울릴겁니다!|This'll be Wobbly!
+722||Umiejętność wroga [9100802] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 진동 2 부여|
+723||Umiejętność wroga [9100802] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 대상이 가지고 있는 진동만큼 마비 부여|[OnSucceedAttackHead] Inflict Paralyze by target's Tremor next turn
+724||Umiejętność wroga [9100803] (ulepszenie 1) — nazwa] 강력 증폭|Turbo Amp
+725||Umiejętność wroga [9100803] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 가지고 있는 진동만큼 진동 부여|[OnSucceedAttack] Inflict Tremor by target's Tremor
+726||Umiejętność wroga [9100804] (ulepszenie 1) — nazwa] 진동 변환|Trembling Conversion
+728||Umiejętność wroga [9100804] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상이 가지고 있는 진동만큼 진동 부여|
+729||Umiejętność wroga [9100804] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 대상이 가지고 있는 진동만큼 마비 부여|
+730||Umiejętność wroga [9100805] (ulepszenie 1) — nazwa] 진동 압착|Vibration Compression
+734||Umiejętność wroga [9100806] (ulepszenie 1) — nazwa] 한탕 해보죠|Let's Sweep the Stakes
+735||Umiejętność wroga [9100806] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 10만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 10
+736||Umiejętność wroga [9100806] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 20만큼 흐트러짐 손상|[OnSucceedAttackHead] Raise Stagger Threshold by 20
+737||Umiejętność wroga [9100807] (ulepszenie 1) — nazwa] 마지막 예열|Final Warmup
+738||Umiejętność wroga [9100807] (ulepszenie 1) — opis] [StartBattle] 보호 4 얻음.\n정신력 15 회복|[StartBattle] Gain 4 Protection\nHeal 15 SP
+739||Umiejętność wroga [9005401] (ulepszenie 1) — nazwa] 침입자 저지|Stop the Intruder
+741||Umiejętność wroga [9005402] (ulepszenie 1) — nazwa] 출입 금지|No Entry
+742||Umiejętność wroga [9005402] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 2 부여|[OnSucceedAttack] Inflict 2 Rupture
+743||Umiejętność wroga [9005403] (ulepszenie 1) — nazwa] 출입 차단|Forbid Entry
+744||Umiejętność wroga [9005403] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 취약 2 부여|
+745||Umiejętność wroga [9005404] (ulepszenie 1) — nazwa] 엄폐 엄폐!|Cover, Cover!
+746||Umiejętność wroga [9005404] (ulepszenie 1) — opis] [StartBattle] 전체 체력 5%만큼 체력 회복|[StartBattle] Heal 5% of Max HP
+747||Umiejętność wroga [9005501] (ulepszenie 1) — nazwa] 일시 정지! 정지!|Pause! Halt!
+749||Umiejętność wroga [9005502] (ulepszenie 1) — nazwa] 멈추십시오!|Stop There, Please!
+751||Umiejętność wroga [9005502] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 진동 3 부여|[OnSucceedAttackHead] Inflict 3 Tremor
+752||Umiejętność wroga [9005503] (ulepszenie 1) — nazwa] 구속합니다!|Arresting!
+755||Umiejętność wroga [9005504] (ulepszenie 1) — nazwa] 엄폐합니다!|Taking Cover!
+757||Umiejętność wroga [9005601] (ulepszenie 1) — nazwa] HP 앰플 투약합니다.|Administering HP Ampule
+758||Umiejętność wroga [9005601] (ulepszenie 1) — opis] [CantDuel][WhenUse] 아군을 타겟으로 지정\n피해량만큼 체력 회복.\n피해량은 0이 됨.|[CantDuel][WhenUse] Targets allies\nHeal by damage number\nDeals no damage
+759||Umiejętność wroga [9005602] (ulepszenie 1) — nazwa] 방어 앰플 투약합니다.|Administering Resister Ampule
+760||Umiejętność wroga [9005602] (ulepszenie 1) — opis] [CantDuel][WhenUse] 아군을 타겟으로 지정\n무작위 속성 보호를 1 부여.\n피해량은 0이 됨.|[CantDuel][WhenUse] Targets allies\nGive 1 Protection against a random affinity\nDeals no damage
+761||Umiejętność wroga [9005603] (ulepszenie 1) — nazwa] 붕괴 앰플 발사 발사|Firing Decay Ampule
+762||Umiejętność wroga [9005603] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 붕괴 앰플 1 부여.\n다음 턴에 마비 1 부여|[OnSucceedAttack] Inflict 1 Decay Ampule\nInflict 1 Paralyze next turn
+763||Umiejętność wroga [9005604] (ulepszenie 1) — nazwa] 회피 기동합니다.|Initiating evasive maneuver.
+764||Umiejętność wroga [9005701] (ulepszenie 1) — nazwa] 붕괴 앰플 긴급 발사|Discharging Decay Ampule
+765||Umiejętność wroga [9005701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 2 부여|[OnSucceedAttack] Inflict 2 Paralyze next turn
+766||Umiejętność wroga [9005701] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 붕괴 앰플 2 부여|[OnSucceedAttackHead] Inflict 2 Decay Ampule
+767||Umiejętność wroga [9005702] (ulepszenie 1) — nazwa] 약점 약점을 드러냅니다.|Exposing weakness.
+768||Umiejętność wroga [9005702] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 취약 1 부여|
+769||Umiejętność wroga [9005702] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 취약 2 부여|
+770||Umiejętność wroga [9005702] (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttackHead] 붕괴 앰플 3 부여|[OnSucceedAttackHead] Inflict 3 Decay Ampule
+771||Umiejętność wroga [9005703] (ulepszenie 1) — nazwa] 더 맞서 싸우십시오.|Continue engaging.
+772||Umiejętność wroga [9005703] (ulepszenie 1) — opis] [CantDuel] 아군을 타겟으로 지정|[CantDuel] Targets allies
+773||Umiejętność wroga [9005703] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 피해량 증가 2 부여|[OnSucceedAttack] Give 2 Damage Up next turn
+774||Umiejętność wroga [9005704] (ulepszenie 1) — nazwa] 몸을 아끼지 마십시오.|Do not reserve your strength.
+776||Umiejętność wroga [9005704] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 증가 2 부여|[OnSucceedAttack] Give 2 Attack Power Up next turn
+777||Umiejętność wroga [9005704] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 취약 2 부여|
+778||Umiejętność wroga [9005705] (ulepszenie 1) — nazwa] 물러납니다.|Retreating.
+779||Umiejętność wroga [9005901] (ulepszenie 1) — nazwa] 상처 저주|Harming Curse
+781||Umiejętność wroga [9005902] (ulepszenie 1) — nazwa] 늘어나는 저주|Proliferating Curse
+782||Umiejętność wroga [9005902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|[OnSucceedAttack] Inflict +2 Rupture Count
+783||Umiejętność wroga [9005902] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|
+784||Umiejętność wroga [9005903] (ulepszenie 1) — nazwa] 벌어진 상처|Opened Wound
+786||Umiejętność wroga [9005904] (ulepszenie 1) — nazwa] 방어 부적|Defensive Talisman
+787||Umiejętność wroga [9005801] (ulepszenie 1) — nazwa] 제압 액체|Suppressing Fluid
+788||Umiejętność wroga [9005801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 1 부여|[OnSucceedAttack] Inflict 1 Bind next turn
+789||Umiejętność wroga [9005802] (ulepszenie 1) — nazwa] 폭발하는 액체|Explosive Fluid
+791||Umiejętność wroga [9005803] (ulepszenie 1) — nazwa] 흔들리는 액체|Wobbling Fluid
+793||Umiejętność wroga [9005803] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 진동 횟수 1 증가|[OnSucceedAttack] Inflict +1 Tremor Count
+794||Umiejętność wroga [9005804] (ulepszenie 1) — nazwa] 액체막이|Fluid Guard
+796||Umiejętność wroga [9006101] (ulepszenie 1) — opis] [WhenUse] 얽혀온 저주 부적 1 얻음|[WhenUse] Gain 1 Entangled Curse Talisman
+799||Umiejętność wroga [9006102] (ulepszenie 1) — opis] [WhenUse] 얽혀온 저주 부적 2 얻음|[WhenUse] Gain 2 Entangled Curse Talisman
+802||Umiejętność wroga [9006103] (ulepszenie 1) — nazwa] 속박 저주|Restraining Curse
+804||Umiejętność wroga [9006103] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 속박 2 부여|[OnSucceedAttackHead] Inflict 2 Bind next turn
+805||Umiejętność wroga [9006104] (ulepszenie 1) — nazwa] 부각된 상처|Pronounced Wound
+806||Umiejętność wroga [9006104] (ulepszenie 1) — opis] [EndBattle] 얽혀온 저주 부적 전부 소멸|[EndBattle] Remove all Entangled Curse Talisman
+809||Umiejętność wroga [9006104] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여|[OnSucceedAttack] Inflict 2 Bind next turn
+810||Umiejętność wroga [9006104] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] 파열 5 부여|
+813||Umiejętność wroga [9006001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여|
+815||Umiejętność wroga [9006002] (ulepszenie 1) — opis] [WhenUse] 고양 1 얻음|[WhenUse] Gain 1 Morale Boost
+819||Umiejętność wroga [9006003] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 4 부여|[OnSucceedAttack] Inflict 4 Tremor
+822||Umiejętność wroga [9006004] (ulepszenie 1) — opis] [WhenUse] 전체 체력의 5%만큼 체력 회복.\n다음 턴에 취약 2 얻음.\n[EndBattle] 취기 전부 소멸|[WhenUse] Heal 5% of Max HP\nGain 2 Fragile next turn\n[EndBattle] Remove all Tipsy
+823||Umiejętność wroga [9100901] (ulepszenie 1) — nazwa] 속박하는 저주|Restraining Curse
+825||Umiejętność wroga [9100902] (ulepszenie 1) — nazwa] 타격 저주|Blunt Curse
+826||Umiejętność wroga [9100902] (ulepszenie 1) — opis] [WhenUse] 다시 붙여진 저주 부적 1 부여|[WhenUse] Inflict 1 Reattached Curse Talisman
+827||Umiejętność wroga [9100902] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 타격 취약 3 부여|[OnSucceedAttack] Inflict 3 Blunt Fragility
+828||Umiejętność wroga [9100903] (ulepszenie 1) — nazwa] 증식하는 부적|Multiplying Talismans
+829||Umiejętność wroga [9100903] (ulepszenie 1) — opis] 파열이 가장 많은 대상 우선 공격|Targets the enemy with the most Rupture
+830||Umiejętność wroga [9100903] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다시 붙여진 저주 부적만큼 파열 부여|[OnSucceedAttack] Inflict Rupture by the amount of Reattached Curse Talisman on target
+831||Umiejętność wroga [9100904] (ulepszenie 1) — nazwa] 마비되는 저주|Paralyzing Curse
+832||Umiejętność wroga [9100904] (ulepszenie 1) — opis] [EndBattle] 대상의 다시 붙여진 저주 부적 전부 소멸|[EndBattle] Remove all Reattached Curse Talisman from target
+834||Umiejętność wroga [9100904] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다시 붙여진 저주 부적만큼 마비 부여|[OnSucceedAttack] Inflict Paralyze by the amount of Reattached Curse Talisman on target
+835||Umiejętność wroga [9100905] (ulepszenie 1) — nazwa] 옭아매는 저주 부적|Strangling Curse Talisman
+836||Umiejętność wroga [9100905] (ulepszenie 1) — opis] 다시 붙여진 저주 부적이 가장 많은 대상 우선 공격|Target the enemy with the most Reattached Curse Talismans
+837||Umiejętność wroga [9100905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다시 붙여진 저주 부적 5 부여|[OnSucceedAttack] Inflict 5 Reattached Curse Talisman
+838||Umiejętność wroga [9100906] (ulepszenie 1) — nazwa] 소멸되는 저주 부적|Expiring Curse Talisman
+839||Umiejętność wroga [9100906] (ulepszenie 1) — opis] 다시 붙여진 저주 부적이 가장 많은 대상 우선 공격\n[EndBattle] 대상의 다시 붙여진 저주 부적 전부 소멸|Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target
+840||Umiejętność wroga [9100906] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다시 붙여진 저주 부적 2 부여|[OnSucceedAttack] Inflict 2 Reattached Curse Talisman
+841||Umiejętność wroga [9100906] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다시 붙여진 저주 부적이 9이상이라면, 마비 5 부여.\n피해량의 50%만큼 고정 피해|[OnSucceedAttackHead] If target has 9+ Reattached Curse Talisman, inflict 5 Paralyze\nDeal fixed damage by 50% of damage dealt
+842||Umiejętność wroga [9100907] (ulepszenie 1) — nazwa] 옮겨가는 저주 부적|Spreading Curse Talisman
+843||Umiejętność wroga [9100907] (ulepszenie 1) — opis] [WhenUse] 다시 붙여진 저주 부적 2 부여|[WhenUse] Inflict 2 Reattached Curse Talisman
+847||Umiejętność wroga [9101001] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackTail] 다시 붙여진 저주 부적이 9이상이라면, 마비 5 부여.\n피해량의 50%만큼 고정 피해|[OnSucceedAttackTail] If target has 9+ Reattached Curse Talisman, inflict 5 Paralyze\nDeal fixed damage by 50% of damage dealt
+848||Umiejętność wroga [9006801] (ulepszenie 1) — nazwa] 거수자 발견|Suspicious Individuals
+849||Umiejętność wroga [9006801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackTail] 파열 3 부여|[OnSucceedAttackTail] Inflict 3 Rupture
+850||Umiejętność wroga [9006802] (ulepszenie 1) — nazwa] 제압|Restrain
+852||Umiejętność wroga [9006803] (ulepszenie 1) — nazwa] 거수자 차단|No Trespassing
+853||Umiejętność wroga [9006803] (ulepszenie 1) — opis] 체력이 가장 높은 대상 우선 공격|Targets the unit with the most HP
+854||Umiejętność wroga [9006803] (ulepszenie 1) — moneta 2, efekt 1 — opis] 1코인이 뒷면이라면 피해량 +10%|If Coin 1 lands Tails, +10% Damage
+855||Umiejętność wroga [9006803] (ulepszenie 1) — moneta 3, efekt 1 — opis] 2코인이 뒷면이라면 피해량 +10%|If Coin 2 lands Tails, +10% Damage
+856||Umiejętność wroga [9006803] (ulepszenie 1) — moneta 4, efekt 1 — opis] 2, 3코인이 뒷면이라면 피해량 +30%|If Coins 2 & 3 land Tails, +30% Damage
+857||Umiejętność wroga [9007001] (ulepszenie 1) — nazwa] 맞물리는 순간|Interlocking Moment
+858||Umiejętność wroga [9007001] (ulepszenie 1) — opis] [WhenUse] 자신의 충전 횟수 1 증가|[WhenUse] Gain +1 Charge Count
+859||Umiejętność wroga [9007001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 맞물리는 시간 1 부여|[OnSucceedAttack] Inflict 1 Interlocking Time
+860||Umiejętność wroga [9007001] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 충전 횟수 2 소모 시, 마비 3 부여|[OnSucceedAttack] Spend 2 Charge Count to inflict 3 Paralyze
+861||Umiejętność wroga [9007002] (ulepszenie 1) — nazwa] 시간 흡수|Siphon Time
+863||Umiejętność wroga [9007002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여. 신속 1 얻음|[OnSucceedAttack] Gain 1 Haste; Inflict 2 Bind next turn
+864||Umiejętność wroga [9007003] (ulepszenie 1) — nazwa] 가속되는 순간|Accelerating Moment
+865||Umiejętność wroga [9007003] (ulepszenie 1) — opis] [StartBattle] 자신의 충전 횟수 3 증가\n[WhenUse] 충전 횟수가 5이상 이라면, 합 위력+2.\n다음 턴에 행동 불가 상태가 됨.|[StartBattle] Gain +3 Charge Count\n[WhenUse] At 5+ Charge Count, Clash Power +2\nBecome immobilized next turn

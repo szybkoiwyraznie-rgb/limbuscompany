@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[key=N103012].displayName": {
+      "pl": "Pracownik Le Noir [Napromieniony]",
+      "kr_sha256": "0aeb92d94039bffab3cfb826f0cf20a8303fae6510be5d0e210f6da61f4711b5",
+      "en_sha256": "65bf4fc6d3113a68c429fbe1e226e5baef9613dfd7800ef3eebf8cba0de14386",
+      "origin": "ai"
+    },
+    "dataList[key=N103013].displayName": {
+      "pl": "Wirująca Karuzela",
+      "kr_sha256": "44e004e02c5131bff044df03d73fda1883dee78748b7a7f355645b0efd48d43a",
+      "en_sha256": "2a0c799f9f180c8d1a83d243fcab5e22019c305ee2f2860f1e6b56b2de8e43d2",
+      "origin": "ai"
+    },
+    "dataList[key=N103014].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N103015].displayName": {
+      "pl": "Skórzany Ojciec",
+      "kr_sha256": "1b90ce4618358386be5f08c837b31167c661feed645797d612b3a64d197fcbb2",
+      "en_sha256": "4a9336ca9099968366369a03cee620520a4d858f446b86daf441242be52d902e",
+      "origin": "ai"
+    },
+    "dataList[key=N103016C].displayName": {
+      "pl": "Kierownik 3. Piętra",
+      "kr_sha256": "75d680b98de16a66ce47fd0ee062c8f898072c5944f94d1ce0739d606d432d58",
+      "en_sha256": "5a2de83464ba0083aaf9125aa6fc3aa35ae0277656d3a18cf43ceca429b1c3d4",
+      "origin": "ai"
+    },
+    "dataList[key=N103016].displayName": {
+      "pl": "Kierownik 3. Piętra",
+      "kr_sha256": "75d680b98de16a66ce47fd0ee062c8f898072c5944f94d1ce0739d606d432d58",
+      "en_sha256": "5a2de83464ba0083aaf9125aa6fc3aa35ae0277656d3a18cf43ceca429b1c3d4",
+      "origin": "ai"
+    },
+    "dataList[key=N103027].displayName": {
+      "pl": "Wirująca Karuzela",
+      "kr_sha256": "44e004e02c5131bff044df03d73fda1883dee78748b7a7f355645b0efd48d43a",
+      "en_sha256": "2a0c799f9f180c8d1a83d243fcab5e22019c305ee2f2860f1e6b56b2de8e43d2",
+      "origin": "ai"
+    }
+  }
+}

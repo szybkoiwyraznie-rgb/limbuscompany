@@ -1,0 +1,154 @@
+{
+  "entries": {
+    "dataList[id=season_8000_collaboration].content": {
+      "pl": "Kolaboracja Limitowana",
+      "kr_sha256": "ad27196fd1d7a403eddd17a68e945f0f463c3f1c8be0e113843a6076a3424181",
+      "en_sha256": "64ad7df60080e96378c6a1a4da220fb5bbd5cac5d231a444b5c69732614cb0e4",
+      "origin": "ai"
+    },
+    "dataList[id=season_8000_collaboration_filter_title].content": {
+      "pl": "Kolaboracja Limitowana",
+      "kr_sha256": "ad27196fd1d7a403eddd17a68e945f0f463c3f1c8be0e113843a6076a3424181",
+      "en_sha256": "cc1fdef143c20139af12738eae962b173ea30b5184ba9f052e40cd553438632f",
+      "origin": "ai"
+    },
+    "dataList[id=season_9101_walpurgisnacht].content": {
+      "pl": "Noc Walpurgii",
+      "kr_sha256": "721a47b63d4017b9cd794700b23c6cf21994f338aee707849d63559b96d918ee",
+      "en_sha256": "108187ba97055be215acdb577c5d14aa6c4fbb713b7cbec17bb3384621325ced",
+      "origin": "ai"
+    },
+    "dataList[id=season_filter_3].content": {
+      "pl": "Sezon 3",
+      "kr_sha256": "bf7451f0e7dc6a8162927237f94cfd581c0d716d8d97159c95875eab51618dd2",
+      "en_sha256": "a0a55c87213ad479b9864f446bcd5f9840f6e45ef08a83173c47d0c41df102b9",
+      "origin": "ai"
+    },
+    "dataList[id=season_filter_4].content": {
+      "pl": "Sezon 4",
+      "kr_sha256": "44194ed0b897566decc36a9acd225a285fb12cc87a953e978221a0fd581a4c37",
+      "en_sha256": "743b954e8b2b43ebb4365b94395844e8a4feea6345aa7b541c5c135ab7bd7b2a",
+      "origin": "ai"
+    },
+    "dataList[id=season_filter_5].content": {
+      "pl": "Sezon 5",
+      "kr_sha256": "32f6a9c630db22cfc83c9eef4e9ba5935e72fa55dd35afd2290bd6ba29677bc6",
+      "en_sha256": "18978d34ba5f5e61ce23cfb732803306c223189c4597c4dd57bed0838de2984f",
+      "origin": "ai"
+    },
+    "dataList[id=season_filter_6].content": {
+      "pl": "Sezon 6",
+      "kr_sha256": "744bbf7a5b834d826fa7ceb4a98821a1edfa556a2a566762237f91f70a768588",
+      "en_sha256": "caca5a32ae9e3e4cd9dc7e31b5608888143ee4c05a80a5873e2ef3845776ad6d",
+      "origin": "ai"
+    },
+    "dataList[id=season_filter_7].content": {
+      "pl": "Sezon 7",
+      "kr_sha256": "161ad03bb504975977df0132bf9c990b6fe912a5ce3d21d05bf506a89d3966bd",
+      "en_sha256": "e9ef55d5fd9ba1b1f3821c8f1cbf204fa78ce1fa713a5f1211fc24429876c4e2",
+      "origin": "ai"
+    },
+    "dataList[id=season_filter_8].content": {
+      "pl": "Sezon 8",
+      "kr_sha256": "da14eff6c6e6460230fb5da1fc74b02b1f6f6b6ea04914bf88a68221918797e7",
+      "en_sha256": "495c12f309b67aebdc1bfbfe45a5f0f7b170a85307b4304ababf96a2484e4b1d",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_1].content": {
+      "pl": "ORIENTATION",
+      "kr_sha256": "3fa0e233f3ae8ace801ece859b0c7a6d1fae374f2a37cadd1b1667aacdcf9884",
+      "en_sha256": "3fa0e233f3ae8ace801ece859b0c7a6d1fae374f2a37cadd1b1667aacdcf9884",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_1_EVENT].content": {
+      "pl": "ORIENTATION [EVENT]",
+      "kr_sha256": "f70a3287d560acd6d53a5d15d95b4b237953eb13269acce2ca60a421ad7f05c6",
+      "en_sha256": "f70a3287d560acd6d53a5d15d95b4b237953eb13269acce2ca60a421ad7f05c6",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_2].content": {
+      "pl": "REMINISCENCE",
+      "kr_sha256": "9c2f893840f3dbc6238378522aadcec8f3d6858f6962384b0081599540038a22",
+      "en_sha256": "9c2f893840f3dbc6238378522aadcec8f3d6858f6962384b0081599540038a22",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_2_EVENT].content": {
+      "pl": "REMINISCENCE [EVENT]",
+      "kr_sha256": "b1fddcbcdc87769721d2233742eeb55cd6f7cdb95d7d63cdf0f54e4a1642c4a7",
+      "en_sha256": "b1fddcbcdc87769721d2233742eeb55cd6f7cdb95d7d63cdf0f54e4a1642c4a7",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_3].content": {
+      "pl": "BON VOYAGE",
+      "kr_sha256": "bf4a6b8189dc491ee1c16c6b63d089767c233ddb48858189321105e6ac72257c",
+      "en_sha256": "bf4a6b8189dc491ee1c16c6b63d089767c233ddb48858189321105e6ac72257c",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_3_EVENT].content": {
+      "pl": "BON VOYAGE [EVENT]",
+      "kr_sha256": "1df75eccbdf567946e71cf157e8778d5c4db1b3ade1e030736f9a4cc90afb026",
+      "en_sha256": "1df75eccbdf567946e71cf157e8778d5c4db1b3ade1e030736f9a4cc90afb026",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_4].content": {
+      "pl": "CLEAR ALL CATHY",
+      "kr_sha256": "d70355d63b203cacabfff0e1fc7b5a3a982adbc984940bad7264bf7eeefa8419",
+      "en_sha256": "d70355d63b203cacabfff0e1fc7b5a3a982adbc984940bad7264bf7eeefa8419",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_4_EVENT].content": {
+      "pl": "CLEAR ALL CATHY [EVENT]",
+      "kr_sha256": "435efb2e88b6ac7a1b007a39f158045160c18204a74e8405b0f253367d861b2b",
+      "en_sha256": "435efb2e88b6ac7a1b007a39f158045160c18204a74e8405b0f253367d861b2b",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_5].content": {
+      "pl": "OBLIVION",
+      "kr_sha256": "020756a83ff4473ec2925114d49d350254e625e15ef3997bc2b96bbacc42323d",
+      "en_sha256": "020756a83ff4473ec2925114d49d350254e625e15ef3997bc2b96bbacc42323d",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_5_EVENT].content": {
+      "pl": "OBLIVION [EVENT]",
+      "kr_sha256": "9ee4d1a0d36d634f4b34062e55d698fd43e51947e9f71d57d878263dba46bdfd",
+      "en_sha256": "9ee4d1a0d36d634f4b34062e55d698fd43e51947e9f71d57d878263dba46bdfd",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_6].content": {
+      "pl": "Zàng Huā Yín",
+      "kr_sha256": "6918b0b0ed6c5b3146cf48b40997b918a330e0d45916f9b4fe618e6865eb9dc4",
+      "en_sha256": "6918b0b0ed6c5b3146cf48b40997b918a330e0d45916f9b4fe618e6865eb9dc4",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_6_EVENT].content": {
+      "pl": "Zàng Huā Yín [EVENT]",
+      "kr_sha256": "24554c2d4aef3867191c1d771ff23804067d66a0f18c87aa1391b0e321f1b2cb",
+      "en_sha256": "24554c2d4aef3867191c1d771ff23804067d66a0f18c87aa1391b0e321f1b2cb",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_7].content": {
+      "pl": "Kumo no ito · oti on akA",
+      "kr_sha256": "92fb5f12f96a4f5ded126cbec08128a756a13c39cea0ba078d0c982b80125f36",
+      "en_sha256": "92fb5f12f96a4f5ded126cbec08128a756a13c39cea0ba078d0c982b80125f36",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_7_EVENT].content": {
+      "pl": "Kumo no ito · oti on akA [EVENT]",
+      "kr_sha256": "fb93768644543cab72c85d33890bc9e6e4938c8130a7b7c605a14c1aa8d83869",
+      "en_sha256": "fb93768644543cab72c85d33890bc9e6e4938c8130a7b7c605a14c1aa8d83869",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_8].content": {
+      "pl": "PUNCTUM",
+      "kr_sha256": "2b53f127d55d752c5f84b0f470aef2ab0cb15a916df009a70f3bffff2b327a53",
+      "en_sha256": "2b53f127d55d752c5f84b0f470aef2ab0cb15a916df009a70f3bffff2b327a53",
+      "origin": "ai"
+    },
+    "dataList[id=season_title_8_EVENT].content": {
+      "pl": "PUNCTUM [EVENT]",
+      "kr_sha256": "4092cdb9c11e156ebc72ccda39f6dec360eec88c6070f55c4a2b07e3c4fc44cb",
+      "en_sha256": "4092cdb9c11e156ebc72ccda39f6dec360eec88c6070f55c4a2b07e3c4fc44cb",
+      "origin": "ai"
+    }
+  }
+}

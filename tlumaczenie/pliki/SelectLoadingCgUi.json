@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=tutorial_loading_cg_01].content": {
+      "pl": "Zmień ilustrację ładowania",
+      "kr_sha256": "dca06b1fb4cd4ce1a477d417d90f2764d8cd46a366ac2e4f4c7b6560aded8648",
+      "en_sha256": "f50589f5d17ec796b0e47edfb96afc682a1a8b088c5621c12c73fde2e7324a64",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_loading_cg_02].content": {
+      "pl": "Ilustracje wyświetlane podczas ładowania scen można wybrać spośród ilustracji Tożsamości i ilustracji fabularnych.",
+      "kr_sha256": "f270a6f1207c8769a3e290e7b09ae6de0aa35424ebe062e254b6505eb80384b6",
+      "en_sha256": "08af038cb75adaf9dc81b04ab125600fd97fe638e1c87e9c1bac327a6f89439c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_loading_cg_03].content": {
+      "pl": "Filtry",
+      "kr_sha256": "8c831f621e1439224554e0d5c32e589530ca95fcfeb7c5688a9c65bf6b14a352",
+      "en_sha256": "546ebb8eb993ea561029d9febd84c363bdb09010bb2cb915a8287762b76b9a64",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_loading_cg_04].content": {
+      "pl": "Wybierając słowa kluczowe, można ograniczyć wyświetlanie do żądanych ilustracji.",
+      "kr_sha256": "0aab0bcd9331c76acc486ad59e94ec357c9524b1f62fe86e32cbac2fde75e962",
+      "en_sha256": "6603e9d0a03c4639fcd15e11bd8d2faa497b6c32d768eed8a506beccb2fc0c72",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_loading_cg_05].content": {
+      "pl": "Sprawdź wybrane ilustracje",
+      "kr_sha256": "09b0ab1a12b4d5a765330146c17b2ad416ba44bf8845400b30e7ff53bdf125cd",
+      "en_sha256": "9ce129fc79e6500106f65364f8373f327f78984f7fc88e89e0dcf93caaa2480c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_loading_cg_06].content": {
+      "pl": "Tu sprawdzisz listę wybranych ilustracji; maksymalnie można wybrać 10 ilustracji.",
+      "kr_sha256": "51a652c3d42ccb8b00365e0139f5fc60dd70630738587cee834c570d42ae8a63",
+      "en_sha256": "515cb0fd1c68c3dad506dd8d6708ee6975e46d76cd0cb942c2659c7703f00cc7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_loading_cg_07].content": {
+      "pl": "Losuj wybór ilustracji",
+      "kr_sha256": "5f402acb22b4e936638b437edaeb08d97be1d95feb04fc19ae5489cbb6ef8f74",
+      "en_sha256": "e04b73c4d7ad80df573e9fb0ad0d77c44960b8608a79efc6311b5f80d4ead8a3",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_loading_cg_08].content": {
+      "pl": "Po włączeniu losowania posiadane ilustracje będą wyświetlane na ekranie ładowania w kolejności losowej.",
+      "kr_sha256": "069a6429eb8a1ec01400fa82c9b9616b3472366bea9e1b42e03716a3f75d1fab",
+      "en_sha256": "633ccf1305c8548c1033f461df94157b5102805e3f7ea05a0f71fbc781578660",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_apply].content": {
+      "pl": "Zmień",
+      "kr_sha256": "16f64fe47b163b818b136db270665271f82a2ffb37c856d29917fe30dade7291",
+      "en_sha256": "c0bf75bd78bf9572596720d596bd5a20a5b9145cde0fe50dec1e783cb184d69b",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_cancel].content": {
+      "pl": "Anuluj",
+      "kr_sha256": "be876433993ab7ba221512b5703b32060626f390aa50d7ed464a847a34539a6c",
+      "en_sha256": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_chapter_lock].content": {
+      "pl": "Wymaga ukończenia: {0}",
+      "kr_sha256": "f69723e817e3b9fd704dd47c69def5b0ca5d98010190826562595dd8c4a063c5",
+      "en_sha256": "ea222b9c80b9250c209ddeb42e555da368408051852e70723f2af93288c44071",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_chapter_title].content": {
+      "pl": "Rozdział {0}",
+      "kr_sha256": "b88ad0af95e008b92dc0c7ee8d72923133d5abbaf6e859303f2d024054f79583",
+      "en_sha256": "7dc5256ed098b042ccd22c3741fd0d576d3e42adccccd40763d165c3d8a75bc8",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_max_count_warning].content": {
+      "pl": "Można wybrać maksymalnie {0} ilustracji.",
+      "kr_sha256": "f578bab80dff27e037219addaeab75ff9c53549264b76605996c858a65f5c038",
+      "en_sha256": "6052aa5e7b84f89df0ba8407d7d845e745386d504592e7f945683e12bf958db5",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_random_confirm].content": {
+      "pl": "Masz wybrane ilustracje.\nAnulować ich zaznaczenie\ni włączyć losowanie ilustracji ładowania?",
+      "kr_sha256": "f2d47106329af274927388fa0590a9068c64fd12b40a30fb42a03fabb108dce4",
+      "en_sha256": "93d48cece80a416ad9da63182e6ad699c3a052d1e16d6a1d2629921682bc9f10",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_random_toggle].content": {
+      "pl": "Losuj",
+      "kr_sha256": "031bc76d68352ee95dd409c74eca0fe30615fe57ce821d6dd0274f87f614395f",
+      "en_sha256": "1f7483c8a10473d3d369e45e15775a286449f3934eec0c370dbf46e0af413366",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_random_warning].content": {
+      "pl": "Przy włączonym losowaniu nie można wybierać ilustracji pojedynczo.",
+      "kr_sha256": "f36978f16389bb442b60e55b64739c5b41023c3d308b72f8ee436be07be8fde5",
+      "en_sha256": "e02ee556cebef941327b35574c2f7379a675e864e64d04a995403b2eb225fe30",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_selected_count].content": {
+      "pl": "Wybrano",
+      "kr_sha256": "3622ad893c6909e6eeb1df101531d4ff681c0ec5b02ca215b669e3d43f3d54b0",
+      "en_sha256": "57fd7a0cf33f2666eede69e44f8857159653f2f28e4fd7482a5e16d4af628d2a",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_tab_personality].content": {
+      "pl": "<font=\"EN/title)mikodacs/Mikodacs SDF\">Ilustracje Tożsamości</font>",
+      "kr_sha256": "810dbbaf90686411b3d626d0bd0ba36bbfb3dedb3f5fdf6b85b399a90494449c",
+      "en_sha256": "03a700675fd34c699517ad4eea47387e33ef5771e68e1d8323c0bcd02d64a755",
+      "origin": "ai"
+    },
+    "dataList[id=ui_loading_cg_tab_story].content": {
+      "pl": "<font=\"EN/title)mikodacs/Mikodacs SDF\">Ilustracje fabularne</font>",
+      "kr_sha256": "6894def93ebee3e1c94295b991f825b5aaffedaee19d67e67e180b2fc7eb4e2a",
+      "en_sha256": "217c29e3cb0490b66087a56f870f9a5027df767be67d0b8a200c483b35b9b7b5",
+      "origin": "ai"
+    },
+    "dataList[id=ui_settings_popup_tab_title_change_lobby_cg].content": {
+      "pl": "Ustaw ilustrację ładowania",
+      "kr_sha256": "92cd2e75f0808c39c60a89d79b2290af33a92f8fbb1252065fc892a692d77dfa",
+      "en_sha256": "29f37110fbd01453988b8775a03122af42714194b36ef3e766612ffb79074964",
+      "origin": "ai"
+    }
+  }
+}

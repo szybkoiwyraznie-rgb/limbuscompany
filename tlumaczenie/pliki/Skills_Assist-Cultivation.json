@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=40000501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=40000501].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "cfa8f043f4d3e99d1aba492ff37d1946cb62ae6617ac6cfb8606da92dfbf9b33",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=40000501].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik [Breath] o 2",
+      "kr_sha256": "9b718bf1d92d14299ed96e5a756a5719874b0ae968856ca08ac986c8aa48eb9e",
+      "en_sha256": "1b6fefa3a0ebd24bf64cf712d5524826c2d233b596fc161dddf9a3c340b6ff61",
+      "origin": "ai"
+    },
+    "dataList[id=40000501].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "10d75178c3d900f46ccaa44171741ca24800b71aad78512b68127a7109a5943e",
+      "en_sha256": "1d94a82be09cf2a94bf197c59df52abc8840c54b23a968c1df8bcc8d7d33ea09",
+      "origin": "ai"
+    },
+    "dataList[id=40000501].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "cfa8f043f4d3e99d1aba492ff37d1946cb62ae6617ac6cfb8606da92dfbf9b33",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=40000501].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zwiększa Licznik [Breath] o 2",
+      "kr_sha256": "9b718bf1d92d14299ed96e5a756a5719874b0ae968856ca08ac986c8aa48eb9e",
+      "en_sha256": "1b6fefa3a0ebd24bf64cf712d5524826c2d233b596fc161dddf9a3c340b6ff61",
+      "origin": "ai"
+    },
+    "dataList[id=40000501].levelList[level=1].desc": {
+      "pl": "[WhenUse] za każde 3 [Burst] celu Moc Bazowa +1 (maks. 2)",
+      "kr_sha256": "e1603c9d47f33e2a9e39b9f32b9a4241c3539442ee50bedaf7c4f8fdb33414ac",
+      "en_sha256": "0ab59af149728105c3c955c119e89f827fb2956a0cff68e696f5b90fa409a522",
+      "origin": "ai"
+    },
+    "dataList[id=40000501].levelList[level=1].name": {
+      "pl": "Crimson Cleave",
+      "kr_sha256": "c6b5efd2f0eed21b78df4db2687a93e516aed2928e8ac3793fc7b308c983a78c",
+      "en_sha256": "97669e00b673f9e3e17db1a57c8e2d376f0812d36f9ced60e70b15f2a29574a9",
+      "origin": "ai"
+    },
+    "dataList[id=40000502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 [Laceration] i zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "b3d5efd4eabf38cb9e54a578d5632bae7af0277b4de1fff8c43a8fe79045a747",
+      "en_sha256": "3b29d625f7e2cbd6ff38e82c4afd9e87d5db34cf77dde3f0cdbd05bfc955b72c",
+      "origin": "ai"
+    },
+    "dataList[id=40000502].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "5d76ed052893c5a8d60ed2845bca627bf47ae5b3593f24ec3e4daf7a6e6a2810",
+      "en_sha256": "035d3ebdcc297b2bbb652cdd0adfa7a8a39c40903d9db2d4459ce208e1e5eba0",
+      "origin": "ai"
+    },
+    "dataList[id=40000502].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zadaje +300% obrażeń",
+      "kr_sha256": "6222206bef8baa8211448b25a454f9a62b4ad3af6380bbd7a0a374aaf343f4c1",
+      "en_sha256": "da39c1a3003317d0cbccadc635f4ce1950d5b41156d987008a9c2f9ae2ea71a5",
+      "origin": "ai"
+    },
+    "dataList[id=40000502].levelList[level=1].desc": {
+      "pl": "Może przyciągnąć dowolny atak na siebie niezależnie od Szybkości\n[WhenUse] za każde 3 [Breath] Moc Bazowa +1 (maks. 3)\n[WhenUse] za każdy rodzaj negatywnego efektu celu Moc Bazowa +3 (maks. 9)\n[WhenUse] zyskuje 5 [Agility] w następnej turze (1 raz na turę)\n[WhenUse] zyskuje 10 [Breath] i zwiększa Licznik [Breath] o 2",
+      "kr_sha256": "05f99cc603f9482ec6a173c7d175219629576ae4090c26dfb953b2a523e7746a",
+      "en_sha256": "468acd09863ebeaf4358ab5cd0df177ffcd6d191e8d7b3e8b4279a090a31b799",
+      "origin": "ai"
+    },
+    "dataList[id=40000502].levelList[level=1].name": {
+      "pl": "Plastered Sleep, Unrestrained Ripples",
+      "kr_sha256": "b7e6e03d7c4cdf6c4d5d624499dcfa7908eaac50bd02d9608aa2f75259c7ada9",
+      "en_sha256": "f4225a5c94a14b1b6293964cc764d3120cf4f2b95dc7336404cf768cba11d578",
+      "origin": "ai"
+    }
+  }
+}

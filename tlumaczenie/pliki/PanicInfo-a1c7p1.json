@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=1027].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Binding] i 2 [Enhancement]. Koniec Tury: otrzymaj 5 obrażeń SP",
+      "kr_sha256": "5dfdf853c28c3a60f5d19b26cab5a7dfe785b47f62e52e8726209dc932dec00b",
+      "en_sha256": "cb4dd84c374f38359f0cf46cf1228956bfae7631d1aec0b082672bf36e21134f",
+      "origin": "ai"
+    },
+    "dataList[id=1027].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Binding] i 4 [Enhancement].",
+      "kr_sha256": "b85c4ae381245defa1e35b7a7dbd758274bf65d1765caff61b38e2213dc6f3e2",
+      "en_sha256": "ecde68180706d8f267246c95e7ce0d0311d9077e454f4fed8f5170440eb78cf8",
+      "origin": "ai"
+    },
+    "dataList[id=1027].panicName": {
+      "pl": "Głód",
+      "kr_sha256": "4f9f3eacedd1b2b17639e1d391d75eeb3e53f2da96edace850de67f39e7f8f3b",
+      "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "origin": "ai"
+    },
+    "dataList[id=1028].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 2 [AttackUp]. Przegrane Starcie: zyskaj 1 [DefenseDown] (maks. 3 na turę). Min. Szybkość -1",
+      "kr_sha256": "6932d2bc56957c8b517ee7d5b5c786c925237305dbcdacd0d3326311d2a22964",
+      "en_sha256": "9ffa6e173bd7c251f787ce4d4538f054763ee46c3dffc937851c3c3de6c76026",
+      "origin": "ai"
+    },
+    "dataList[id=1028].panicDescription": {
+      "pl": "Początek Tury: zyskaj 4 [AttackUp]. Przegrane Starcie: zyskaj 2 [DefenseDown] (maks. 6 na turę). Min. Szybkość -1",
+      "kr_sha256": "acd71d0647c56d3606984dbdb81b15d0c3ee57d2c8254d877a8618e6d76de639",
+      "en_sha256": "6926c5991019ed9f303bf62b7d7193fd7e5f059b67a6f9f73998eb32c261765b",
+      "origin": "ai"
+    },
+    "dataList[id=1028].panicName": {
+      "pl": "Specjalista Pojedynków",
+      "kr_sha256": "678c9b355a5bb8321989bebad2248f39ab9ee69d36adcf236c4b699154bed67a",
+      "en_sha256": "e3929c7333d12103d04e735671b99f45b77f6c8a795a5d447443a42c0f6f6c93",
+      "origin": "ai"
+    }
+  }
+}

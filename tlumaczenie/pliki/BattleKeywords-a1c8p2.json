@@ -1,0 +1,364 @@
+{
+  "entries": {
+    "dataList[id=BurstStop].desc": {
+      "pl": "Wartość bazowa: 4\n- Obrzęd Śmierci\n- Gdy wywołane zostaje Rozdarcie, a jednostka ma 3 lub więcej Spętań, maleje o 1.\n- Przy utracie wartości podnosi Próg Oszołomienia o 10\n- Przy wartości 0 podnosi Próg Oszołomienia o Siłę Rozdarcia, po czym znika\n- ※ Ten efekt nie odnawia się.",
+      "kr_sha256": "7b9b3af698664847ab16d969fc684bf31a3b0395fc05ccd9ac2e688c13f91c4e",
+      "en_sha256": "ed4bf96b3db6b22d564c08f30e3003a6c6563535ef91c565bcb9f7b2578f5968",
+      "origin": "ai"
+    },
+    "dataList[id=BurstStop].name": {
+      "pl": "Obrzęd Śmierci 【Halt】",
+      "kr_sha256": "ef5fba445f6ce3acebbc7eff4e4c64d009ce690365fee2dd2e417c0d227fb8d0",
+      "en_sha256": "f26275f42b00c6da473edd045771caf03a425dd59743ce7609ae1305565ff383",
+      "origin": "ai"
+    },
+    "dataList[id=BurstSuppress].desc": {
+      "pl": "Wartość bazowa: 10\n- Obrzęd Śmierci\n- Gdy inne Obrzędy Śmierci tracą stosy przez swoje warunki, ten maleje o 1. (maks. 4 na turę)\n- Przy wartości 0 zyskuje 6 Spadku Poziomu Ataku na następną turę, po czym znika\n- ※ Ten efekt nie odnawia się.",
+      "kr_sha256": "09f5dbbd18c1fa2282edb0680bf0f717bc697dbd2dc1a86e46154af4e2610994",
+      "en_sha256": "f8f87d089c8cd95e7772a9d39620093badacc007de8734381cb38476af0b9366",
+      "origin": "ai"
+    },
+    "dataList[id=BurstSuppress].name": {
+      "pl": "Obrzęd Śmierci 【Impede】",
+      "kr_sha256": "7d967f73c9271d9ce5569ce6e484472387442468c588e1a15d9fcac8efdf7f69",
+      "en_sha256": "f9c7c45192891e741491e6e676a732730da3b7ccf154946e702ce53ef8c791b2",
+      "origin": "ai"
+    },
+    "dataList[id=BurstWave].desc": {
+      "pl": "Wartość bazowa: 10\n- Obrzęd Śmierci\nGdy jednostka, która nałożyła ten efekt, wywołuje Rozdarcie, maleje o 1.\n- Dodatkowo o 1 maleje wartość losowego Obrzędu Śmierci na tej jednostce (poza tym Obrzędem)\n- Przy wartości 0 znika\n- ※ Ten efekt nie odnawia się.",
+      "kr_sha256": "c07ed25953a7de47f0019d704723de343b4414cc00dbc622c7c09a9b575dd16b",
+      "en_sha256": "04ba50c95353117807961bca5e3ea472fe55e893071c9d4e7efdca0c168f67d2",
+      "origin": "ai"
+    },
+    "dataList[id=BurstWave].name": {
+      "pl": "Obrzęd Śmierci 【Wane】",
+      "kr_sha256": "1ad4848b71160f8e8a06731f6503a3e4f65994a10ce05506dbfb6a5c58c0b549",
+      "en_sha256": "7766411ab27cf55769784913e721364414917b8a08f40d40e6871e35d6f7b654",
+      "origin": "ai"
+    },
+    "dataList[id=BurstWeakness].desc": {
+      "pl": "Wartość bazowa: 5\n- Obrzęd Śmierci\n- Jeżeli Szybkość celu jest większa, a różnica Szybkości wynosi 5 lub więcej: gdy przy trafieniu wywołane zostaje Rozdarcie, maleje o 1.\n- Przy utracie wartości zyskuje 1 Spadek Poziomu Obrony na następną turę (1 raz na turę)\n- Przy wartości 0 zyskuje 3 Spadek Poziomu Obrony i 1 Spętanie na następną turę, po czym znika\n- ※ Ten efekt nie odnawia się.",
+      "kr_sha256": "fbde8833137dab90b2ca4fc2cdd23988913dfc7a9241509cbf7c02ca1f1a164a",
+      "en_sha256": "34bb254a104ff7a97180dc6d7f17fdf92e92f22faedc497aef4638ef413be9a9",
+      "origin": "ai"
+    },
+    "dataList[id=BurstWeakness].name": {
+      "pl": "Obrzęd Śmierci 【Enfeeble】",
+      "kr_sha256": "d950d05ca1afb4b27c7717a42130cb5602a8217af1b3033e1a0d5862e8ffae57",
+      "en_sha256": "634a79cfe0a9cbc6743f8325646a612d627a27436dd41540f2820faebb8bf615",
+      "origin": "ai"
+    },
+    "dataList[id=DeepAngry_LowMorale].desc": {
+      "pl": "- Niskie Morale\nW Starciu z celami posiadającymi Złowieszczy Talizman Moc Starcia +2\nNa początku tury zyskuje 2 Wzrostu Obrażeń i 1 Wrażliwości",
+      "kr_sha256": "329d43d3aebdcccbd457d2d128635c8666ea8743c3c1e42787182c61e547da71",
+      "en_sha256": "7837f181582a1d3514ca42a75b436d35cf4336a570557b522bbeae01e550c34b",
+      "origin": "ai"
+    },
+    "dataList[id=DeepAngry_LowMorale].name": {
+      "pl": "Udręka",
+      "kr_sha256": "f2132b098b78d2f1296082fb7efbe1bdd9481a1e4743c7c2b0f7e5b8fed7117c",
+      "en_sha256": "277e708d34a620935d78c7e1fe0df063d5e35f2c705a9a093d2ad742a701b56d",
+      "origin": "ai"
+    },
+    "dataList[id=DeepAngry_Panic].desc": {
+      "pl": "- Panika\nW Starciu z celami posiadającymi Złowieszczy Talizman Moc Starcia +3\nNa początku tury zyskuje 3 Wzrostu Obrażeń i 2 Wrażliwości",
+      "kr_sha256": "0cdbef59cf918f98b7e0d9483404629c507bec874a5800f179182439f2e001a9",
+      "en_sha256": "81d09a96ccd0d4221527f90cea32c6ae358079f880d51c2042b2adfca5944859",
+      "origin": "ai"
+    },
+    "dataList[id=DeepAngry_Panic].name": {
+      "pl": "Udręka",
+      "kr_sha256": "f2132b098b78d2f1296082fb7efbe1bdd9481a1e4743c7c2b0f7e5b8fed7117c",
+      "en_sha256": "277e708d34a620935d78c7e1fe0df063d5e35f2c705a9a093d2ad742a701b56d",
+      "origin": "ai"
+    },
+    "dataList[id=DeepEvilHeart_LowMorale].desc": {
+      "pl": "- Niskie Morale\nW Starciu z celami posiadającymi Złowieszczy Talizman Moc Starcia +2\nNa początku tury zyskuje 3 Wzrostu Obrażeń i 1 Wrażliwości",
+      "kr_sha256": "38f9220b8a06b82c0be1d91c254fe1b1e23879e3dfa386607040940782399512",
+      "en_sha256": "729cefb6a182c30871f4dc611b0909220a8fb84bec16c991cdb4a2f08c6e2ba8",
+      "origin": "ai"
+    },
+    "dataList[id=DeepEvilHeart_LowMorale].name": {
+      "pl": "Głębokie Serce Zła",
+      "kr_sha256": "4f608c8c068a06e47f5805c3003f64af3417693c02c9da1ff3ba0040c6182e93",
+      "en_sha256": "e4dece6ac2c090338e277c0f4b762b6ae7e37c507bf95f49ea998c60c2ff663b",
+      "origin": "ai"
+    },
+    "dataList[id=DeepEvilHeart_Panic].desc": {
+      "pl": "- Panika\nW Starciu z celami posiadającymi Złowieszczy Talizman Moc Starcia +3\nNa początku tury zyskuje 4 Wzrostu Obrażeń i 2 Wrażliwości",
+      "kr_sha256": "db2272b7578bc1010fddd18f87741da3bf04203a376f5a6cad75344b7e417d51",
+      "en_sha256": "17a674a2539c39a5dc0ec748b59980a928f3f036b7f6d33b67bb451223c244df",
+      "origin": "ai"
+    },
+    "dataList[id=DeepEvilHeart_Panic].name": {
+      "pl": "Głębokie Serce Zła",
+      "kr_sha256": "4f608c8c068a06e47f5805c3003f64af3417693c02c9da1ff3ba0040c6182e93",
+      "en_sha256": "e4dece6ac2c090338e277c0f4b762b6ae7e37c507bf95f49ea998c60c2ff663b",
+      "origin": "ai"
+    },
+    "dataList[id=EvilHeart_LowMorale].desc": {
+      "pl": "- Niskie Morale\nW Starciu z celami posiadającymi Złowieszczy Talizman Moc Starcia +2\nNa początku tury zyskuje 2 Wzrostu Obrażeń i 1 Wrażliwości",
+      "kr_sha256": "329d43d3aebdcccbd457d2d128635c8666ea8743c3c1e42787182c61e547da71",
+      "en_sha256": "7837f181582a1d3514ca42a75b436d35cf4336a570557b522bbeae01e550c34b",
+      "origin": "ai"
+    },
+    "dataList[id=EvilHeart_LowMorale].name": {
+      "pl": "Serce Zła",
+      "kr_sha256": "b032cf76ed3d4939f1988fccac3a7e4417d75f8cf9c62663fd16f9f2abd6722e",
+      "en_sha256": "f87d2f70705394f5d0134a8fee1ce943238b591af44ce0c6c36e5a90339a0306",
+      "origin": "ai"
+    },
+    "dataList[id=EvilHeart_Panic].desc": {
+      "pl": "- Panika\nW Starciu z celami posiadającymi Złowieszczy Talizman Moc Starcia +3\nNa początku tury zyskuje 3 Wzrostu Obrażeń i 2 Wrażliwości",
+      "kr_sha256": "0cdbef59cf918f98b7e0d9483404629c507bec874a5800f179182439f2e001a9",
+      "en_sha256": "81d09a96ccd0d4221527f90cea32c6ae358079f880d51c2042b2adfca5944859",
+      "origin": "ai"
+    },
+    "dataList[id=EvilHeart_Panic].name": {
+      "pl": "Serce Zła",
+      "kr_sha256": "b032cf76ed3d4939f1988fccac3a7e4417d75f8cf9c62663fd16f9f2abd6722e",
+      "en_sha256": "f87d2f70705394f5d0134a8fee1ce943238b591af44ce0c6c36e5a90339a0306",
+      "origin": "ai"
+    },
+    "dataList[id=ExaminationOfQiu].desc": {
+      "pl": "Nie walczy z pełną siłą.\n- Podstawowy Poziom Ataku -35, Podstawowy Poziom Obrony -35\n- Zadaje +30% obrażeń Atakami Jednostronnymi",
+      "kr_sha256": "91ae150ea84bc485be467f4043791033eb63c58ec8e956a9ad205efecda5d2a3",
+      "en_sha256": "973525baf722535f82b458fcae149c930c98703dc60a62ab5f7e8ac2abac6a82",
+      "origin": "ai"
+    },
+    "dataList[id=ExaminationOfQiu].name": {
+      "pl": "Iskra Oczekiwania",
+      "kr_sha256": "8e6ed53f39b7473881825e23b66312bf1b88b85d5341aa59ee8828944e65d0a3",
+      "en_sha256": "77d0301dc35c894f15a526de42cec708b5345ce90df78309407e9959e3f56fc0",
+      "origin": "ai"
+    },
+    "dataList[id=JarMaster_LowMorale].desc": {
+      "pl": "- Niskie Morale\nNa początku tury zyskuje 1 Wrażliwości i nakłada 1 Wzrost Obrażeń na wszystkich sojuszników",
+      "kr_sha256": "15042e6c6b9ea32b74580c08be59fde2e160ba3bca87863a8a4c13fc3f2f4104",
+      "en_sha256": "2868e4fa5c939e1f68f426983053e2a356b2bf6b202a331907c8d35282508291",
+      "origin": "ai"
+    },
+    "dataList[id=JarMaster_LowMorale].name": {
+      "pl": "Rozkaz Szturmu",
+      "kr_sha256": "ec7bcb2415b32baadde80c171bb2b6d518c8320270e733030124d32c91241260",
+      "en_sha256": "2242656b171a9c302f32b998caa14d6adf136b4613f09b50ac155dc7abf52ed3",
+      "origin": "ai"
+    },
+    "dataList[id=JarMaster_Panic].desc": {
+      "pl": "- Panika\nNa początku tury zyskuje 2 Wrażliwości i nakłada 2 Wzrostu Obrażeń na wszystkich sojuszników",
+      "kr_sha256": "1d7b3e411e3761efb65e0f653c1df53c20a2855eb57be9309ce5e52aab1343f2",
+      "en_sha256": "ef838360b5767597c6739661f74816c09a6d5b66b1518c604793760796fb6db1",
+      "origin": "ai"
+    },
+    "dataList[id=JarMaster_Panic].name": {
+      "pl": "Rozkaz Szturmu",
+      "kr_sha256": "ec7bcb2415b32baadde80c171bb2b6d518c8320270e733030124d32c91241260",
+      "en_sha256": "2242656b171a9c302f32b998caa14d6adf136b4613f09b50ac155dc7abf52ed3",
+      "origin": "ai"
+    },
+    "dataList[id=MadFeather].desc": {
+      "pl": "- Maks. stosów: 10\n- Na koniec tury zyskuje (stosy/2) Licznika Rozdarcia i Licznika Krwawienia (zaokrąglone w dół)\n- Na koniec tury traci 1 stos",
+      "kr_sha256": "4d42637e23e5c1309edf95ba1d2d3c5636080436cb8f179a14b30334612596a5",
+      "en_sha256": "239ceee89aaa4b313ae6f7a3714160f983bb76d4dff3ff4f3369bb1e370a5c94",
+      "origin": "ai"
+    },
+    "dataList[id=MadFeather].name": {
+      "pl": "Pióro z Gałką Oczową",
+      "kr_sha256": "1d07621d9712021000b7314180912bb37b5a7a4d879b2db9539180c7b8fc409c",
+      "en_sha256": "d3d69fdce93a04acb617d1e4675f23853a9dc9c5df2fc317007dc5c6a4fb911f",
+      "origin": "ai"
+    },
+    "dataList[id=MadFeather_LowMorale].desc": {
+      "pl": "- Niskie Morale\nNa początku tury zyskuje 1 Wrażliwości i 1 Wzrost Leczenia HP. Przy trafieniu nakłada 1 Rozdarcie i 1 Krwawienie",
+      "kr_sha256": "4fd671109402103a493545c16ca87f93ea89a5fcf7672daed32f38fc9945d9ea",
+      "en_sha256": "62a6173878375dc2232c15934d97fde90a23b83ce9f0b306461cb7c52665bb07",
+      "origin": "ai"
+    },
+    "dataList[id=MadFeather_LowMorale].name": {
+      "pl": "Dwukrawędziowe Pióro",
+      "kr_sha256": "07a813968021ce00d7b95e27acddc9c956485acb225cb62deecd05f29823c132",
+      "en_sha256": "08add127fdfcc2c05029b3c7e0deb86f85b944869ffec7afabbf454e7f633830",
+      "origin": "ai"
+    },
+    "dataList[id=MadFeather_Panic].desc": {
+      "pl": "- Panika\nNa początku tury zyskuje 2 Wrażliwości i 2 Wzrost Leczenia HP. Przy trafieniu nakłada 1 Rozdarcie i 1 Krwawienie",
+      "kr_sha256": "ba855b099a2fed72f2781f097483ea5c50033e857d458d194d510dd12f501a6c",
+      "en_sha256": "b262ea81ff297ec8c25cc0c3d1c00cef2b29b19728c75df1ad83f0eed19df849",
+      "origin": "ai"
+    },
+    "dataList[id=MadFeather_Panic].name": {
+      "pl": "Dwukrawędziowe Pióro",
+      "kr_sha256": "07a813968021ce00d7b95e27acddc9c956485acb225cb62deecd05f29823c132",
+      "en_sha256": "08add127fdfcc2c05029b3c7e0deb86f85b944869ffec7afabbf454e7f633830",
+      "origin": "ai"
+    },
+    "dataList[id=OminousTalisman].desc": {
+      "pl": "- Wartość bazowa: 10\n- Przy spadku do 0 stosów otrzymuje obrażenia Obżarstwa i obrażenia Poczytalności równe Sile Rozdarcia, po czym znika (maks. obrażeń Poczytalności: 20)\n- Gdy Złowieszczy Talizman maleje, zyskuje Siłę Rozdarcia równą utraconej liczbie, a Licznik Rozdarcia rośnie o połowę tej liczby (zaokrąglone w dół)\n※ Ten efekt nie odnawia się",
+      "kr_sha256": "4cf2b29f109595a2828bd3855f4152cefdc206c81deff8f03fb9deabf2a71a8f",
+      "en_sha256": "7079102a217892a43e8aa7322e601f9542bbd81e30e10b3c03a77fc8f3b879fe",
+      "origin": "ai"
+    },
+    "dataList[id=OminousTalisman].name": {
+      "pl": "Złowieszczy Talizman",
+      "kr_sha256": "96e2b744a66e69cedd08189ae45eeda012c2a38890460ed773f21963b00d84e0",
+      "en_sha256": "bf6f67822ccc7d567736c5cc6fc5ce70ba4a898f399cb2b4a6e780480974b5c0",
+      "origin": "ai"
+    },
+    "dataList[id=ProtectStance].desc": {
+      "pl": "Maks. stosów: 2\nTen efekt się nie sumuje — odnawia się\nNa koniec tury maleje o 1\nPo zdobyciu tego efektu w następnej turze:\n- Zyskuje 2 Ochrony\n- Prowokacja każdego slotu tej jednostki rośnie o 5",
+      "kr_sha256": "3c663896a65872aaafd730083c1fd09e3d1dd652c58e4fadd9fff7495ad2cc80",
+      "en_sha256": "712494565315c053cf9e64279c1697de8dba239890cdad5443ea3f5b004f8e78",
+      "origin": "ai"
+    },
+    "dataList[id=ProtectStance].name": {
+      "pl": "Postawa Ochronna",
+      "kr_sha256": "bd81751fcb4515ee6982ba0b7e483a7f16f0e227e5eeb6bec848483d204ca5b7",
+      "en_sha256": "9af89be7a9aa35a534f1b38bb28a57e92f48aaaf557e246e99b60513c55c5e1e",
+      "origin": "ai"
+    },
+    "dataList[id=QiuAndHonglu].desc": {
+      "pl": "- Wszystkie Umiejętności Hong Lu zyskują Moc Końcowa +1\n- Po wygranym Starciu 1 sojusznik (w tym ta jednostka) o najniższej Poczytalności odzyskuje +5 Poczytalności\n- Gdy ginie sojusznik, pozostali na koniec tury zyskują 1 Wzrost Mocy Ataku na następną turę (raz/turę)",
+      "kr_sha256": "5869c268243a8e02a0c19296beb63e0c877d90518fe766a862411100c594092e",
+      "en_sha256": "6146fee178a9956436734df6f57fde541835918add3514308eb49161245a78a9",
+      "origin": "ai"
+    },
+    "dataList[id=QiuAndHonglu].name": {
+      "pl": "Moje prawdziwe serce…",
+      "kr_sha256": "a5b40e8f537bcadec57e8a455a25512aa6714eac0117880917fba9a53ab6a1fb",
+      "en_sha256": "123e52838a836b1cf44017144bab6531906f4cc56ae91e0370abec2d38b860b5",
+      "origin": "ai"
+    },
+    "dataList[id=Qiu_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zadaje +10% obrażeń celom innym niż Hong Lu",
+      "kr_sha256": "29825bf5f9f7b1d1680bc7f09d360ad8de54f0fcfd2ef6c3d9f48d0dd29fa4bb",
+      "en_sha256": "beca856ad0952f8f6188249f3e59f54b74f5fc9076d598c91dbd2571d16c7e4d",
+      "origin": "ai"
+    },
+    "dataList[id=Qiu_LowMorale].name": {
+      "pl": "Jia Qiu",
+      "kr_sha256": "cb5f98b8fcf0df12f4fbfcb5e5a6921d2d4eec112bad64547c0d86dbe81b513a",
+      "en_sha256": "3d7b54387043069ad6b413ab1f06bf2d92cc3f66c72d331c9c407ddc8a781be5",
+      "origin": "ai"
+    },
+    "dataList[id=Qiu_Panic].desc": {
+      "pl": "- Panika\n- Zadaje +20% obrażeń celom innym niż Hong Lu",
+      "kr_sha256": "1624ceaec2310d42afbac69a6a657593e91cc88581ba890327e13023cc8ad953",
+      "en_sha256": "036ef5b4c5f7310231c5f5272b455c67f56653241d0d66de8fcf86a475229db3",
+      "origin": "ai"
+    },
+    "dataList[id=Qiu_Panic].name": {
+      "pl": "Jia Qiu",
+      "kr_sha256": "cb5f98b8fcf0df12f4fbfcb5e5a6921d2d4eec112bad64547c0d86dbe81b513a",
+      "en_sha256": "3d7b54387043069ad6b413ab1f06bf2d92cc3f66c72d331c9c407ddc8a781be5",
+      "origin": "ai"
+    },
+    "dataList[id=RepressedMurderousIntendTwo].desc": {
+      "pl": "Podstawowy Poziom Ataku -5\nPodstawowy Poziom Obrony -5",
+      "kr_sha256": "30bc8106ea96bc922e31a2c10c3974d519432bb4118161d1a2264cbaf892f991",
+      "en_sha256": "5a35747e6ba53733560cf30a4ddb4eb0b4bcd78d12cb977400db122ec4ec4df4",
+      "origin": "ai"
+    },
+    "dataList[id=RepressedMurderousIntendTwo].name": {
+      "pl": "Skryta Krwiożerczość",
+      "kr_sha256": "4f43d03087b6b182a29f3bb43bec0e93cc9dfec4a34964ba037cbfd769b594a6",
+      "en_sha256": "d89fc8426d2ad6acb14b1cf88070fce54cfc3e42265a07edc057466d2fd0b190",
+      "origin": "ai"
+    },
+    "dataList[id=TakeBreath_LowMorale].desc": {
+      "pl": "- Niskie Morale\nNa początku tury zyskuje 2 Wzrostu Poziomu Obrony i traci 2 Siły Oddechu",
+      "kr_sha256": "375abaa05cee9340170a6e74a953df9ccf07a3c3052c8e20489267378a3d64a2",
+      "en_sha256": "4f0add30e27327c5484ca337632f75d71d95796422f2a872881cc731de779c21",
+      "origin": "ai"
+    },
+    "dataList[id=TakeBreath_LowMorale].name": {
+      "pl": "Wyrównanie Oddechu",
+      "kr_sha256": "199d8f9621df262eba9dd781b2de3655afcd030a43b92b91929c40550a215fea",
+      "en_sha256": "88e46114b81521d619c165ee4d4d6ab91d75897aa8a1f5714a8df5b6cdd70e25",
+      "origin": "ai"
+    },
+    "dataList[id=TakeBreath_Panic].desc": {
+      "pl": "- Panika\nNa początku tury zyskuje 5 Wzrostu Poziomu Obrony i traci 5 Siły Oddechu",
+      "kr_sha256": "5c24570bd0cf3fa1fb8d581b44d56c93f1c12bae004aa758294b570a8faca5d7",
+      "en_sha256": "678424de34a45d4e7cc62e07b067b1becd4f1df436c7d24e3273446cf0b6aeb0",
+      "origin": "ai"
+    },
+    "dataList[id=TakeBreath_Panic].name": {
+      "pl": "Wyrównanie Oddechu",
+      "kr_sha256": "199d8f9621df262eba9dd781b2de3655afcd030a43b92b91929c40550a215fea",
+      "en_sha256": "88e46114b81521d619c165ee4d4d6ab91d75897aa8a1f5714a8df5b6cdd70e25",
+      "origin": "ai"
+    },
+    "dataList[id=Teaching].desc": {
+      "pl": "Maks. stosów: 3\n- Na koniec tury odzyskuje 5 Poczytalności\n- Gdy HP spada do 0 podczas walki, leczy HP do Maks. HP (wywołuje się tyle razy, ile wynosi liczba stosów)",
+      "kr_sha256": "c75954b3466e59d9a40307c82e47c481c54373af2867cb31ef5dd0c304ada6f1",
+      "en_sha256": "1510d20a32cdb0379ad32ede6ea5e5530b9e0eafe450b3700b2028e357bb90ba",
+      "origin": "ai"
+    },
+    "dataList[id=Teaching].name": {
+      "pl": "Dialogi",
+      "kr_sha256": "6c3f4d18c9708c90e3c001ce11cbbde7e87120ea46aef616cc4204c33990d47e",
+      "en_sha256": "9d8de86f5e72c26512372d4cc01220bbb9aca043dd51f9bb40a5f9c70569b882",
+      "origin": "ai"
+    },
+    "dataList[id=UncontrolledChargeAxe_LowMorale].desc": {
+      "pl": "- Niskie Morale\nW Starciu z celami posiadającymi Rozdarcie zyskuje +3 Liczby Ładunków i 1 Wrażliwości (2 razy na turę)",
+      "kr_sha256": "b544ece9fc2619b8f3318540df4d038cdbb123d61dc8527546034dc0a4adef8d",
+      "en_sha256": "cb7b353efd34f0c52a0c2a307e4e07ebeeea25bfd72d2a036fd3ce6246365ab3",
+      "origin": "ai"
+    },
+    "dataList[id=UncontrolledChargeAxe_LowMorale].name": {
+      "pl": "Wsteczny Prąd Obwodu Ładowania",
+      "kr_sha256": "5ba8e57bdcd15e9903c2fbe7d3e1255bf85452bbedaae52b107468249e4f688a",
+      "en_sha256": "c916a3a2e005c5ace35f7a26888418e245402215d82f1f6cbe748a2e591f99d5",
+      "origin": "ai"
+    },
+    "dataList[id=UncontrolledChargeAxe_Panic].desc": {
+      "pl": "- Panika\nW Starciu z celami posiadającymi Rozdarcie zyskuje +5 Liczby Ładunków, 1 Wzrost Obrażeń i 2 Wrażliwości (2 razy na turę)",
+      "kr_sha256": "4de5c08b555e05c7e7da97ff7e9b0c63a77272f9877ca2e179051d095a3d6d39",
+      "en_sha256": "d48a43ef32d915bad8c823bd1d87588463bd82da85020800fc74c72872d4d67b",
+      "origin": "ai"
+    },
+    "dataList[id=UncontrolledChargeAxe_Panic].name": {
+      "pl": "Wsteczny Prąd Obwodu Ładowania",
+      "kr_sha256": "5ba8e57bdcd15e9903c2fbe7d3e1255bf85452bbedaae52b107468249e4f688a",
+      "en_sha256": "c916a3a2e005c5ace35f7a26888418e245402215d82f1f6cbe748a2e591f99d5",
+      "origin": "ai"
+    },
+    "dataList[id=WitheredWood_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 1 Wzrost Obrażeń, 1 Wrażliwości i 1 Wrażliwość na Rozdarcie",
+      "kr_sha256": "af4cebf0e2a72d9be6bf540fc2e1cd98aca87cad00628b6685979a043a484efa",
+      "en_sha256": "b18a9542a62771bedc1b3595e9b7bd8f96c1c9b28ff5a3f3b2a2d9c9110787ed",
+      "origin": "ai"
+    },
+    "dataList[id=WitheredWood_LowMorale].name": {
+      "pl": "Mutacja Prastarego Drzewa",
+      "kr_sha256": "94523bbdb0596db1a500e3c6723e773f4e758c016ee73bae434abfc45a50f042",
+      "en_sha256": "be2ede53b2189dd01b9cd5a1a88e1a3aff767a47748393158016146095823465",
+      "origin": "ai"
+    },
+    "dataList[id=WitheredWood_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wzrostu Obrażeń, 2 Wrażliwości i 2 Wrażliwość na Rozdarcie",
+      "kr_sha256": "1c751a652679ae135737d00d506d2d3130a0ce84c7433f17ceedbf77cffd2c3d",
+      "en_sha256": "7f029b7ea955ac9cff8718951fe07b1e0a3afcd15bf56f427b7723603ebe2fbc",
+      "origin": "ai"
+    },
+    "dataList[id=WitheredWood_Panic].name": {
+      "pl": "Mutacja Prastarego Drzewa",
+      "kr_sha256": "94523bbdb0596db1a500e3c6723e773f4e758c016ee73bae434abfc45a50f042",
+      "en_sha256": "be2ede53b2189dd01b9cd5a1a88e1a3aff767a47748393158016146095823465",
+      "origin": "ai"
+    },
+    "dataList[id=ZiluDebuff].desc": {
+      "pl": "- Podstawowy Poziom Ataku -20, Podstawowy Poziom Obrony -20",
+      "kr_sha256": "8efb0f3e5306560fe39db81ba5933af3ff860cd5f99b5328a65df0c5b6d048b2",
+      "en_sha256": "65910aa525d50eb7afe84d0c32f511a99814a8cb3ff03df1df5217debae16dcd",
+      "origin": "ai"
+    },
+    "dataList[id=ZiluDebuff].name": {
+      "pl": "Ukrócona Krwiożerczość",
+      "kr_sha256": "b0142a32593f5479962a8e0caedad782f1f56d265b5270c101e53cac47baa77a",
+      "en_sha256": "bd2113a58fa1a034f6a972426ae8022bbc59248d0db13d1056ff1f9841473fda",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+18385||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뭘 모르는군. 보이는 색만을 말하고, 칠하는 것은 예술이 아니다.|Dilettante. Art isn't just a simple observation and recreation of visible colors.
+18386||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <뿌이가 하고 있는 것도 예술은 아닐 텐데…>|<Regardless, Pwie isn't exactly doing art right now, are they?>
+18387||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뿌이는 가만히 통 안쪽을 바라보다가, 돌아섰다.|Pwie stared into the bucket for a while, then turned away.
+18388||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 다리 아파. 앉고 싶어.|My legs hurt. I wanna sit down.
+18389||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 흠. 4층에 있다는 가구관이라는 곳에서 관리자님 전용 소파를 하나 구입하는 것은 어떻습니까?|Hm. Perhaps we should purchase a sofa for your exclusive use from the Furniture Hall on 4F, Executive Manager.
+18390||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 관리자님의 다리가 피로하지 않도록, 언제 어디서든 앉을 수 있게 따라다니는 소파 하나 정도는…|A sofa that follows you around, allowing you to sit whenever and wherever necessary so your legs do not tire...
+18391||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…역시 그냥 서 있는 게 좋은 것 같아.>|<... It's okay. I think I'm fine on my feet.>
+18392||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 뿌이가 알록달록 칠해진 소파를 가리킨다.|Pwie points to a sofa splashed with all sorts of colors.
+18393||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 앉고 싶다면, 앉으면 그만이다.|If you want to sit, then you need only sit.
+18394||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 료슈가 뿌이를 들어올려 소파에 앉혀주었다.|Ryōshū picked Pwie up and set them down on the sofa.
+18395||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 퍼티는 가만히 소파와 료슈를 번갈아 노려보다가, 이내 조용히 염료들을 향해 시선을 돌렸다.|Putty quietly glared back and forth between the sofa and Ryōshū, then turned her attention to the dyes without a word.
+18396||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <앉아도 괜찮은 거였어…? 그럼 나도…>|<So it was okay to sit here...? Then Iet me take a break too...>
+18397||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 내가 앉으려고 하자, 퍼티가 송곳처럼 날카로운 다리를 들어올린다.|As I move to sit down, Putty raises one of her awl-sharp legs.
+18398||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…그냥 서 있어야겠다.>|<... Yeah, never mind. I'll just stand.>
+18399||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 이 소파, 푹신푹신하지만 튼튼하진 않아. 애는 몰라도, 너희가 앉으면 폭싹 주저 앉을걸?|This sofa's nice and squishy, but it's not exactly sturdy. The kid's fine, but it'll probably cave right in if one of you sits on it.
+18400||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 알록달록 칠해진 소파다.|A sofa painted in a riot of colors.
+18401||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <…순식간에 실이 감기더니 뫼르소가 죽었어.>|<The threads wrapped around Meursault in an instant... and he was dead.>
+18402||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그자보다 빠르게 움직이는 것은… 끈적이는 염료 때문에 난도가 높을 테고…|Outpacing it would be difficult... especially with that sticky dye hindering our movement...
+18403||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 흐음… 차라리 움직임을 방해하는 것이 더 유효하겠군.|Hm... It may be more effective to impede its movement instead.
+18404||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <나머지는 나가서 마저 생각해보자.>|<Let's think about it once we're out of here.>
+18405||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <보이는 대로 때리는 건 의미가 없었어.>|<Just hitting whatever we saw wasn't getting us anywhere.>
+18406||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <실들을 먼저 파괴해야돼.>|<We need to destroy the threads first.>
+18407||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 날아드는 실들이 너무 많습니다만… 이건 피하는 것 외에는 도리가 없겠군요.|There are far too many threads flying at us... It appears evasion is our only recourse, Executive Manager.
+18408||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 후우… 주. 패….|*puff* P.T.—
+18409||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <싱클레어.>|<Sinclair.>
+18410||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 주먹으로 패서 없애면 어떨까… 라고 말씀하셨어요.|She said... "How about punching them out of the way?"
+18411||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] <없. 어. 를 아직 말하지도 않은 것 같지만… 고마워.>|<I don't think she even got to the "out of the way" part yet... but thanks.>
+18412||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 그 또한 가능하다면… 방법 중 한가지가 될 수 있다.|If that is indeed possible... it may serve as one viable method.
+18413||RPGSystem#rpg-loc-dialogue-floor-b2-b.json] 참고하도록 하지.|I will bear it in mind.
+18414||RPGSystem#rpg-loc-dialogue-floor-b2.json] 3층에서도 생각한 바입니다만…|I found myself considering the same question on the third floor, Executive Manager...
+18415||RPGSystem#rpg-loc-dialogue-floor-b2.json] 도대체 무슨 기준으로 두 명을 선발하는지 모르겠군요.|But I can't help but wonder what this place's criteria for selecting these two-person detachments might be.
+18416||RPGSystem#rpg-loc-dialogue-floor-b2.json] 하필이면 저자와 함께라니…|And of all people, I have been paired with that woman...
+18417||RPGSystem#rpg-loc-dialogue-floor-b2.json] 후우… 순. 돌.|*puff* I.O.T.
+18418||RPGSystem#rpg-loc-dialogue-floor-b2.json] <으음… 그냥 무작위로 정해진 게 아닐까.>|<Hmm... Maybe it just picks at random.>
+18419||RPGSystem#rpg-loc-dialogue-floor-b2.json] 소통에 문제가 있을 뿐, 능력에 흠잡을 점은 없으니… 감수하겠습니다.|Despite her communication deficiencies, her combat capabilities are beyond reproach. I will tolerate her, Executive Manager.
+18420||RPGSystem#rpg-loc-dialogue-floor-b2.json] <그래서 순돌이 뭔지 알 것 같아…?>|<So... any guesses as to what I.O.T. means?>
+18421||RPGSystem#rpg-loc-dialogue-floor-b2.json] …암호의 해석에는 본래 많은 시간이 소요됩니다, 관리자님.|... Decrypting coded communications requires quite a bit of time.
+18422||RPGSystem#rpg-loc-dialogue-floor-b2.json] <모른다는 거네. 뫼르소, 혹시…>|<No guesses, got it. What about you, Meursault?>
+18423||RPGSystem#rpg-loc-dialogue-floor-b2.json] 예.|Yes, Manager?
+18424||RPGSystem#rpg-loc-dialogue-floor-b2.json] <무슨 뜻인지… 알겠어? 아, 역시 어려우려나…>|<Any guesses...? You know what, maybe I'm pushing it too far...>
+18425||RPGSystem#rpg-loc-dialogue-floor-b2.json] 순번이 돌았군… 이라는 뜻입니다, 관리자님.|It's our turn, Manager.
+18426||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아라야가 화를 참지 못하는 것처럼 검집이 강하게 떨린다.|The scabbard shakes furiously. Araya must be getting ticked off.
+18427||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어중이떠중이들처럼 굴지 말고 여기가 어딘지부터 설명해라, 시계… 라는 뜻입니다, 관리자님.|"Stop fumbling like a mediocre bunch and tell me where we're at, Clock."
+18428||RPGSystem#rpg-loc-dialogue-floor-b2.json] 소통 문제는 해결될지도 모르겠군요, 관리자님.|This should somewhat mitigate the communication issues, Executive Manager.
+18429||RPGSystem#rpg-loc-dialogue-floor-b2.json] <아, 여긴 지하 2층이야. 제대로 온 게 맞을지는 확인해봐야겠지만…>|<Anyway... This is B2. We should probably make sure we actually came to the right place, though...>
+18430||RPGSystem#rpg-loc-dialogue-floor-b2.json] 하하하, 걱정도 많아라. 너희 제대로 온 거 맞아.|Hahaha, what a bunch of worrywarts. Relax! You're exactly where you want to be.
+18431||RPGSystem#rpg-loc-dialogue-floor-b2.json] <역시 그렇지? 어떻게 한다…>|<Yeah, I knew it. These abbreviations are impossible to—>
+18432||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아라야시키가 떨렸다.|The Arayashiki quivered.
+18434||RPGSystem#rpg-loc-dialogue-floor-b2.json] 저자의 고약한 줄임말을 해석할 수 있었던 건가?|Were you able to decipher that woman's mind-boggling abbreviations all this time?
+18436||RPGSystem#rpg-loc-dialogue-floor-b2.json] 내가 수행하고 있는 것은 료슈가 이미 사용했던, 그리고 그것이 해석된 결과를 기억하여 답변하는 것뿐. 새로운 것은 파악할 수 없다.|My comprehension extends only to abbreviations Ryōshū has previously used and that have been interpreted by Sinclair or through other means. New abbreviations remain undecipherable.
+18437||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어. 떠. 들처럼 굴지 말고 여. 어. 설. 해라, 시계.|Stop fumbling like a M.B. and tell me W.W.A., Clock.
+18438||RPGSystem#rpg-loc-dialogue-floor-b2.json] 기. 새. 가 왔나.|The A.B. is here.
+18439||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…그러게. 우선 천천히 주변을 탐색해볼 생각이었는데.>|<About that... I was thinking we'd take our time and look around first.>
+18440||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어우. 그 멍청한 시곗소리 너무 가까이서 내진 마. 아무리 멋들어지게 입어도 살점이 없는 건 역시 좀 부담스러우니까.|Ugh. This stupid tick-tocking... Can you do that over there—not so close to me? Things without flesh make me uncomfortable, fancy clothes or not.
+18441||RPGSystem#rpg-loc-dialogue-floor-b2.json] …넘어가기 어려운 말을 들은 것 같지만, 우선 먼저 물어보지.|I seem to have heard a rude comment directed at the Executive Manager that I wouldn't normally let slide, but let me ask you something first.
+18442||RPGSystem#rpg-loc-dialogue-floor-b2.json] 무슨 수작이길래 이렇게 보채는 거지?|... You've been nagging for a while. What are you plotting?
+18443||RPGSystem#rpg-loc-dialogue-floor-b2.json] 모른다구? 하하하! 칭얼거리는 소리가 이렇게 큰데?|Really now? Haha! You really don't know what's coming for you? That snuffling, don't you hear it? It's so loud!
+18444||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어머. 어떡해? 진짜 모르나 봐.|My word... Poor little dears. You have no clue, do you?
+18445||RPGSystem#rpg-loc-dialogue-floor-b2.json] 모르겠으면 뛰어. 뛰어도 늦었겠지만!|You'd better start running if you're really that clueless... Not that it'll help, but what else can you do?
+18446||RPGSystem#rpg-loc-dialogue-floor-b2.json] 기분 나쁜…|"Annoying b—"
+18447||RPGSystem#rpg-loc-dialogue-floor-b2.json] <아, 이건 나도 무슨 뜻인지 알 것 같아.>|<It's fine, Meursault. I think I have a pretty good guess as to what she meant.>
+18448||RPGSystem#rpg-loc-dialogue-floor-b2.json] 여기가 르누아르의 유명 브랜드에게만 실을 납품하는 타래둥지가 있는 곳이거든.|This floor is where the Skein Nest is, folks. The one that supplies threads only to Le Noir's most illustrious labels.
+18449||RPGSystem#rpg-loc-dialogue-floor-b2.json] …여긴 어떻게 온 거지?|... How did you get here?
+18450||RPGSystem#rpg-loc-dialogue-floor-b2.json] 나? 나는 샘터만 아니면 어디든 갈 수 있다니까.|Me? Oh, I thought I told you already: I can go anywhere, as long as it's not the Fount.
+18451||RPGSystem#rpg-loc-dialogue-floor-b2.json] 신부가 떠벌거리는 건 시끄럽지만… 어쩌겠어. 걸어서 내려오는 건 무지무지 귀찮은걸.|The Chaplain never stops yammering about it, sure... but what choice do I have? It's an awfully tedious thing, having to walk all the way down here on foot!
+18452||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아, 그런데 너희 언제까지 꾸물거릴 생각이야?|Anyway, just how long are you people planning on dilly-dallying?
+18453||RPGSystem#rpg-loc-dialogue-floor-b2.json] 꾸. 말. 이유라도 있는 것처럼 말하는군.|Any reason we shouldn't D.D.?
+18454||RPGSystem#rpg-loc-dialogue-floor-b2.json] 꾸물거리지 말아야 할… 이라는 뜻입니다, 관리자님.|That was "Any reason we shouldn't dilly-dally?" Manager.
+18455||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…벽으로 들어갔는데?>|<... Did she just walk into that wall?>
+18456||RPGSystem#rpg-loc-dialogue-floor-b2.json] 막. 길. 검집으로는 베어지지도 않나. 검이 뽑히지도 않는군.|We've hit a D.E. My scabbard isn't enough to cut through it, and the sword refuses to be drawn.
+18457||RPGSystem#rpg-loc-dialogue-floor-b2.json] …우선 주변을 탐색하며 그자가 말한 타래둥지… 라는 곳을 찾아봐야겠군요.|... We should scout the area and locate this "Skein Nest," Executive Manager.
+18458||RPGSystem#rpg-loc-dialogue-floor-b2.json] <뫼르소, 위치는 알고 있어?>|<Do you know where it is, Meursault?>
+18459||RPGSystem#rpg-loc-dialogue-floor-b2.json] …약도가 많이 해져 있긴 합니다만 오른쪽으로 향하다 보면, 도착할 수 있을 것 같습니다.|The map is quite worn, but we will be able to reach our destination if we follow the route to the right.
+18460||RPGSystem#rpg-loc-dialogue-floor-b2.json] <그럼 그쪽으로 가자.>|<Good. Let's be on our way.>
+18461||RPGSystem#rpg-loc-dialogue-floor-b2.json] <color=#515aee>영리하고… 거침없이…. 그리고… 다정하게.</color>|<color=#515aee>Ever so cunning... ever unhesitant... and... ever caring.</color>
+18462||RPGSystem#rpg-loc-dialogue-floor-b2.json] …응? 벌써들 다녀온 거야? 내려간 지 얼마나 됐다고.|Back already...? It hasn't been that long since you went down...
+18463||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어… 그러고 보니 크로머, 그자와 다시 만난 건가요?|Um... Did you happen to run into that Kromer woman again?
+18464||RPGSystem#rpg-loc-dialogue-floor-b2.json] 어디선가 나와서 사람 속을 긁어놓고 도망치더군.|She suddenly appeared out of thin air, mocked us, and then walked into a wall before we could retort.
+18465||RPGSystem#rpg-loc-dialogue-floor-b2.json] <그래도 다행히 처음 만났을 때랑 마찬가지로 당장 우리에게 해를 끼칠 생각은 없어 보였어.>|<... She didn't seem to be planning to attack us, at least not at that moment... Just like when we first met her.>
+18466||RPGSystem#rpg-loc-dialogue-floor-b2.json] <도움을 줄 생각도… 없어 보였지만.>|<But yeah, she didn't seem interested in lending any help either...>
+18467||RPGSystem#rpg-loc-dialogue-floor-b2.json] 방. 금.|N.O.W.
+18468||RPGSystem#rpg-loc-dialogue-floor-b2.json] 방심은 금물… 맞는 말이에요. 그 크로머의 가족이니까요.|... Never off watch... Yeah. She's a Kromer, after all. Can't let our guard down.
+18469||RPGSystem#rpg-loc-dialogue-floor-b2.json] <우선 밖으로 나가서 방법을 좀 더 찾아보자.>|<Let's head back out and look for another way.>
+18470||RPGSystem#rpg-loc-dialogue-floor-b2.json] 화를 내며 쫓아오던 것에게 죽었다. 시시한 죽음이었지.|Some enraged thing chased us down and killed us. Wasn't all that exciting.
+18471||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…화를 냈는진 모르겠지만, 그렇게 됐어.>|<... Not sure about the enraged part, but yeah, that's what happened.>
+18472||RPGSystem#rpg-loc-dialogue-floor-b2.json] 그건 화를 내는 게 맞다, 시. 대.|That thing <i>was</i> enraged, C.H.
+18473||RPGSystem#rpg-loc-dialogue-floor-b2.json] 단언이 가능한 이유는 모르겠지만, 이 정도 마음이라면 확실하다.|I can't say why I'm so sure about it, but there was no mistaking the emotion pouring out of it.
+18474||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…이러면 확실히 알겠네, 크로머 그자가 말했던 칭얼거리는 소리는 아마도…>|<Either way, that clears up what's making that "snuffling" sound Kromer was talking about. It's probably...>
+18475||RPGSystem#rpg-loc-dialogue-floor-b2.json] 예. 높은 확률로 저 고치겠군요.|Yes, Executive Manager. There is a high probability she meant that cocoon.
+18476||RPGSystem#rpg-loc-dialogue-floor-b2.json] 오티스와 료슈가 뫼르소 어깨에서 움직이고 있는 황금고치를 흘겨보았다.|Outis and Ryōshū glared at the Golden Cocoon wriggling on Meursault's shoulder.
+18477||RPGSystem#rpg-loc-dialogue-floor-b2.json] 아직 이 주변을 배회하고 있다면… 대책이 필요할 텐데…|If it's still wandering nearby... we will need countermeasures.
+18478||RPGSystem#rpg-loc-dialogue-floor-b2.json] 가야 할 길마저 막혔다. 빠르게 달리는 것만으로는 피할 수 없다.|It's blocking the route necessary for our advance. We will not be able to outmaneuver it by sprinting alone.
+18479||RPGSystem#rpg-loc-dialogue-floor-b2.json] 또 죽었네?|Died again, huh?
+18480||RPGSystem#rpg-loc-dialogue-floor-b2.json] 이것 봐. 칭얼거리는 소리가 너무 크다니까.|See? I warned you—that snuffling is much, much too loud.
+18481||RPGSystem#rpg-loc-dialogue-floor-b2.json] <…모분할까?>|<... Yeah, maybe it's time we seriously considered S.H.N.C.>
+18482||RPGSystem#rpg-loc-dialogue-floor-b2.json] 나와 료슈의 말에 절대 안 된다고 답하듯이 검집이 좌우로 흔들린다.|The scabbard sways from side to side, as though it were shaking its head in an emphatic "no."

@@ -1,0 +1,129 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Dziecko popijało czarną herbatę z łagodnie przymkniętymi oczami.",
+      "kr_sha256": "9b06520182026fa1777ee96c13effb365e384f9376a8733c37a483084ed8a750",
+      "en_sha256": "3e236221412d6d9c43b50a620f014e45ffb189023d6e2ef892db1fa32f456416"
+    },
+    "dataList[id=10].content": {
+      "pl": "Liczby… się nie zgadzają.",
+      "kr_sha256": "1d6b8fb9d734e2f1793176e7b51f039f86091236c677a1dd027430a1805a8c58",
+      "en_sha256": "974751e1d81a3f3bab0465afd8f34130e6099d46e90a482ff8d8796405107e9e"
+    },
+    "dataList[id=11].content": {
+      "pl": "Oczy dziecka błysnęły. Nie szkła okularów na nosie, tylko właśnie oczy.",
+      "kr_sha256": "eff44dedf7f8d315bfa76ff4607f40fa8af53fb86b54f3212ce386684483f274",
+      "en_sha256": "ccac0483af70424919687b6f066d90dd85916b500ed542991814a49ea8b80eb7"
+    },
+    "dataList[id=12].content": {
+      "pl": "To ja. Jesteś gdzieś w pobliżu?",
+      "kr_sha256": "6f8ef1616bc2c04417eda2e16ae5a965d3be1245b610177b4b380c2c437cc5e9",
+      "en_sha256": "48bf31fe4af0b2684032df70971d9cba66e324c5300f4099806fc3f96c327593"
+    },
+    "dataList[id=13].content": {
+      "pl": "Dziecko płynnym ruchem podniosło słuchawkę i wybrało numer.",
+      "kr_sha256": "c071c28a9f3d2fab0162dab01c6949dbf9cfea954befb86ab39a90022aa894fc",
+      "en_sha256": "429e518ec0e7af46c7e9c808ac831a27ce26c1775f4cd0a4349b66d49a6f5752"
+    },
+    "dataList[id=14].content": {
+      "pl": "W terenie… No tak, tak myślałam. Wezwali cię z góry?",
+      "kr_sha256": "ce4d327315047f1f3a0a7994eddf3223c74ae2c5e6ecaa476b4293188cbf8815",
+      "en_sha256": "47c137b6eb79b4ecfa6b89badaf0e82bc44d71638c24908d059d8b75e423a01a"
+    },
+    "dataList[id=15].content": {
+      "pl": "Ze słuchawki dobiegał głos innego Fiksera.",
+      "kr_sha256": "28293776c8d31393a89f93dcd8af79a3e04d095de97e5845f1e1f603fbf74acd",
+      "en_sha256": "b02162df94772f57a3e5f52c3ef6ce988fb63fa165dc6b32d70c83c38758e576"
+    },
+    "dataList[id=16].content": {
+      "pl": "Brzmiał na zaskoczony, coś w rodzaju “skąd wiesz?”.",
+      "kr_sha256": "47f9b2285ae1a58e02ead9b00dc5bfec85430d81c81f915c661dabaf9324cad3",
+      "en_sha256": "c0ace1f88c7a875fe2cf1e956c37b2c4bed98d04b8bd7887ce04b38b9b3b89b5"
+    },
+    "dataList[id=17].content": {
+      "pl": "To nie pierwszy raz. Pewnie za jakąś godzinę… skończysz to, co robisz, prawda?",
+      "kr_sha256": "fd4b30402a37e1bfbbe60d8d01f420867e54ea936a2bcce2b8f8db7278237f4c",
+      "en_sha256": "6908f318ea18761e392ee64bd1410b0e27f584e34547195320d47eb97df0ede0"
+    },
+    "dataList[id=18].content": {
+      "pl": "Dziecko zerknęło kątem oka na stos papierów na biurku.",
+      "kr_sha256": "c4cb9b98ca25c2ce917c582aa9d107097d5f3a6e1b2c79f7acf4caee71e4859c",
+      "en_sha256": "e2e6f1f31c80cf2661d06c8542f322f286d9f39adc051baceaea5319fc861410"
+    },
+    "dataList[id=19].content": {
+      "pl": "Podejrzane wydatki na cele służbowe, ślady wzywania wielu różnych osób na to samo miejsce.",
+      "kr_sha256": "6fa12eaa2ebdd96c18b5366adeac2c4dd1250bbfbb8cbdd01fbeae36c7c221fa",
+      "en_sha256": "b16baa4eff089441903c7a2d8bfc5a4cb31e3ba34d472b7a5f245566c4224005"
+    },
+    "dataList[id=1].content": {
+      "pl": "Krótki odpoczynek i wspomnienia z jakiejś dawnej chwili.",
+      "kr_sha256": "b8d21dde68b8d95186c3f678db29ba863daeb31bb513a1d1ac9e175d23f79ea6",
+      "en_sha256": "0b54033b8552a21566ce6d93fa82689a054d15e9b94d5bb44a78f11a08f0a61b"
+    },
+    "dataList[id=20].content": {
+      "pl": "W głowie dziecka zaczynał się układać pewien obraz.",
+      "kr_sha256": "f1ed48ec2f8f7291104bd7e18171e290a985d67107b25b616f07fbb78a10a83a",
+      "en_sha256": "77eb6abfb46ca7a7d7e1d201a0ab662f57dbc2d46d2ca5d6568f62003f06daa1"
+    },
+    "dataList[id=21].content": {
+      "pl": "Dobrze. To jak tylko skończysz, zajrzyj do sali treningowej Sekcji 6, zanim wrócisz.",
+      "kr_sha256": "896527ad132c059cf12826907e7baed4f0cb951eade120bfe07b9b5b9e590984",
+      "en_sha256": "a1a35e1134857026f1fde73dfae425cb8f1cc775c1bc1c4e303f572b2cfb7155"
+    },
+    "dataList[id=22].content": {
+      "pl": "Dziecko… potrzebowało kogoś, z kim mogłoby przeanalizować ten obraz.",
+      "kr_sha256": "b52ace9e6f6bf6fa993212d200cca17f205940d83d96932c6a467a24522c3ad0",
+      "en_sha256": "ffb3f0c437312b628909a4224e30275ff4dbf4b523a82ce49955c8fbebc89564"
+    },
+    "dataList[id=23].content": {
+      "pl": "Tej osoby, którą zawsze miało na oku.",
+      "kr_sha256": "33deafd2911b21e6fae0fdccba502f823cd3ea49a59ccb657b1dedda7db4d054",
+      "en_sha256": "58c32348e751606ae86193ac6f9cac8dd6c4c5e904f9dacc64274c30045255aa"
+    },
+    "dataList[id=24].content": {
+      "pl": "Tak, przyprowadź tę osobę.",
+      "kr_sha256": "fd5d6724eb973e4de8ba035d6532ee19579dd838c352513c733950dff6df0906",
+      "en_sha256": "e0d3160637072a880db6b0d15b317a2f76427db71d5f5466ac6bcfd15c06c913"
+    },
+    "dataList[id=2].content": {
+      "pl": "Od wstąpienia do Stowarzyszenia minął już ponad rok i przez ten czas wydarzyło się naprawdę wiele.",
+      "kr_sha256": "c2c614d66494a23f869486fd416bb749d4307e2ddfc447ce4b890bed67f14dce",
+      "en_sha256": "dfc0628099cf601c3e59ddd78e83b7b30e0207cf83ae5f820304a1993de627b9"
+    },
+    "dataList[id=3].content": {
+      "pl": "Jako Fikserka ruszała na zadania i staczała walki…",
+      "kr_sha256": "ae427071f8e6a9ff815d7b7b2983611109e69ae07417b125f895caf6ff712521",
+      "en_sha256": "c84cdf3bf19d1c2386bc018df2c867ebcd4d94555b0b726f32db9cbccd19ebf7"
+    },
+    "dataList[id=4].content": {
+      "pl": "Raniła innych i sama bywała raniona.",
+      "kr_sha256": "94331302859145dbf81707da0fed7d8e51dad4bb77440e0ae8cb0fb5e4278e6a",
+      "en_sha256": "a28d69eb380612d8daa0165e9f9264188dd735fe67da6f61ebcc3e46f4da0065"
+    },
+    "dataList[id=5].content": {
+      "pl": "Dziecku nie brakowało umiejętności. Zresztą bez nich kto by zaszedł aż tak wysoko?",
+      "kr_sha256": "8c0ec5aaee88614480d53f5e429f6392f731f5401c665abd7f34d365aeca5f1d",
+      "en_sha256": "0fb562cca6d28f41141b5cd9036265075bf9febf250dac50a1098bb0876e7158"
+    },
+    "dataList[id=6].content": {
+      "pl": "Samo dziecko wiedziało, że bardziej pasuje mu kierowanie ludźmi i skupianie ich wokół siebie, więc pewnie dobrze się stało.",
+      "kr_sha256": "a2df30891db6f26955f3208715c6eaf20dc68cafab32142be23abc140bc36623",
+      "en_sha256": "803761811440e19fab7fbb3016f8fc93daf330cb8360d25521dddaacddc99219"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ktoś może i kpiłby, że to ledwie szefostwo w szeregowej Sekcji 6…",
+      "kr_sha256": "7ab215d1864a88feb02759f515d634b93df40c529d9128ae5aae4f2daf51968d",
+      "en_sha256": "ff2b07dcae7e56317326200c50f85eb33071c46a3039f7c4cdb4aa1c211b87b4"
+    },
+    "dataList[id=8].content": {
+      "pl": "Hm…?",
+      "kr_sha256": "1b654fa2ce720f98793867742385c185a0bd50ae2608f1494ab709a31d59651a",
+      "en_sha256": "685b332f777c75c5176d8871ca233b2a147378683d06e6c1850f458b3f8fad3d"
+    },
+    "dataList[id=9].content": {
+      "pl": "…ale skoro cel dziecka wcale tu się nie kończy, gadanie tak, jakby to był cały finał tej historii, byłoby zwykłym czepialstwem.",
+      "kr_sha256": "3e1f44fbb26f915f713e2cea2372f9e36c02e32e26db4559262fad710520d3d3",
+      "en_sha256": "70d5d7b29b6a3326ca9d7fab9ab65407365a955a050fa3dd8ae42b3cd933a014"
+    }
+  }
+}

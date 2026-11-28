@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=912101].title": {
+      "pl": "Nieznane Morze",
+      "kr_sha256": "bddd0f5509ff8c141e37e0f35dba32b37272ff2885272101be6f040d27d35665",
+      "en_sha256": "ebfd84ecc18e00d4f6c4591b61990db1973b5d570156ce97a95881eda2594ac9",
+      "origin": "ai"
+    },
+    "dataList[id=912102].title": {
+      "pl": "Wioska Martwej Latarni",
+      "kr_sha256": "e0456e6b2ac42aaae127fe291bc6dec187b184a9e1912c18bbb77b191f07be8c",
+      "en_sha256": "bf37e4c1f5dcb61e3567699deeac9a7c031ce94a4f0eaaa1203abe7c08b7028b",
+      "origin": "ai"
+    },
+    "dataList[id=912103].title": {
+      "pl": "Terra",
+      "kr_sha256": "4ca7df44430b62ad4e9d68e24ed7911b5b8494904e2c8e80c38ea5acc6e69d01",
+      "en_sha256": "36ce987c95510ab7e1d354d0ad13da6494aab212a7fd144e55bc1887d94712cc",
+      "origin": "ai"
+    },
+    "dataList[id=912104].title": {
+      "pl": "Statek Masas",
+      "kr_sha256": "ba986ef81a64bc8cab23f111a1eeca9530d93969d511f72d9611d3497100ad4a",
+      "en_sha256": "29dc291f82802b93178afa7450cc91f8cc5369e379940da4ef314951f9b1fa4f",
+      "origin": "ai"
+    },
+    "dataList[id=912105].title": {
+      "pl": "Mała Fala",
+      "kr_sha256": "a46052f34453db591e25362600c854f023381b66fb309992f22b5e7053ed26b9",
+      "en_sha256": "dfff0471e3e200437a6994fd8e5315736e80e65216c4d4d88a12b1ec856a47c0",
+      "origin": "ai"
+    },
+    "dataList[id=912106].title": {
+      "pl": "Inkwizytor",
+      "kr_sha256": "940ec0e44375895bd0fe08adbde37e9fe0daaf8bdb5c5fb0340a98400d7905e0",
+      "en_sha256": "29f23c8bb2e96ce0fe95a06608052ff156b02e5824cfa835c3c2c4a20b314e90",
+      "origin": "ai"
+    },
+    "dataList[id=912107].title": {
+      "pl": "Obracający się Zegar",
+      "kr_sha256": "3c4225a21b697b2cef54c9f30ad8b7fb51b06e451cede8c3611cdcb9593ef02b",
+      "en_sha256": "0d0572d40acf88e8f6fe7fde7b66bff5b30ed9efa5951243cb91547d3f5f212d",
+      "origin": "ai"
+    },
+    "dataList[id=912108].title": {
+      "pl": "Porozumienie Trójstronne",
+      "kr_sha256": "f67890adaf73aaa953f8c796568228f35e84427e72658c22b6b2fe3e5f92a6a0",
+      "en_sha256": "43f1916738e9b1f412ab7c9c527011e90085f65c9fb83ac6c43195e6489e7959",
+      "origin": "ai"
+    },
+    "dataList[id=912109].title": {
+      "pl": "Operacja Odbicia Latarni",
+      "kr_sha256": "864cab3c183820fbfe33aefd5e73f7648df84e092fc24991b36809432de2a155",
+      "en_sha256": "1e2c6a813487e1e1025e8b68e565b272060653084bc3b2c6d79dd0d44492e153",
+      "origin": "ai"
+    },
+    "dataList[id=912110].title": {
+      "pl": "Wzburzone Fale",
+      "kr_sha256": "12f810db4861145988efeb6b6968df7f97e8ad238e89c653958b4da7ab0fd155",
+      "en_sha256": "259a6181d7f1b4e56c67168b440e2dc152135e4570d5c10849a71e37b858ffb4",
+      "origin": "ai"
+    },
+    "dataList[id=912111].title": {
+      "pl": "Rycerz z Baśni",
+      "kr_sha256": "22406865e4c03742ed1e13b7833bc4473b68c4255b006c9e8bc88d4d12b1f46c",
+      "en_sha256": "31acf7dabde73b78d281353cdd1dd967fcf829ebde9b9af8f0ebca50ac62a95a",
+      "origin": "ai"
+    },
+    "dataList[id=912112].title": {
+      "pl": "Rhodes Island",
+      "kr_sha256": "ee0b278f83571ad258502bbf71e8e9319549009115613515ce644e29c8fdcf04",
+      "en_sha256": "201e99433fac13155fa84feebd9fdd69fa99eee373078249bb6c2a802bfb81fb",
+      "origin": "ai"
+    },
+    "dataList[id=912113].title": {
+      "pl": "Światło Miasta",
+      "kr_sha256": "2aa89b04d7f0a4b06b12dafca5d139b2af4d274848d4c4d9531d2d37e0e48705",
+      "en_sha256": "922b68e6e017ae62287daca504fa27ea9642a076b514b52bb3f54236e857aa26",
+      "origin": "ai"
+    },
+    "dataList[id=912114].title": {
+      "pl": "Pielgrzymka Współczucia",
+      "kr_sha256": "263eaa64c692918a03c19ea0e799baa8140fc83a9cc391374af2db249f56dd05",
+      "en_sha256": "50f5016d85c6ff8d894bd5a6f1c6cc72c3b8a6d9fa36df52b16f97745eedbadd",
+      "origin": "ai"
+    }
+  }
+}

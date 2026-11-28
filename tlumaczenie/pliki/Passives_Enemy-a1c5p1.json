@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=9008301].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, zadaje obrażenia Whale of the Porous Hand",
+      "kr_sha256": "ec2a3145f57a5ba900941ffdf25008495cd374c1d2a55c1101915ef198791001",
+      "en_sha256": "c5991f3f2d07b3939b20517d053d11e9faafa4a735b2355934dd0377490873bd",
+      "origin": "ai"
+    },
+    "dataList[id=9008301].name": {
+      "pl": "Cetacean Strand",
+      "kr_sha256": "780178b396bdc900745126648f5ddcbb62218b659f21dfc560db6cc56dcbed07",
+      "en_sha256": "fa17dc63aa6206ab8d676d782c76cbc00cd184eae82a94fa6166d2fe374921b4",
+      "origin": "ai"
+    },
+    "dataList[id=9008302].desc": {
+      "pl": "po śmierci zadaje połączonym Syrenom 10 obrażeń i nakłada im 2 Wzrost Obrażeń w następnej turze.\npowiązane Syreny nie mogą stracić przez te obrażenia więcej HP niż do 1.",
+      "kr_sha256": "dc9f74d45ba0c22ab12af8755234cd12b5b2e74575a597c7df655ad36bac89b9",
+      "en_sha256": "12e4388f08488022a6b55c1b1945439661a88a9a22cb70def55691d8b3a059c1",
+      "origin": "ai"
+    },
+    "dataList[id=9008302].name": {
+      "pl": "Connected Pain",
+      "kr_sha256": "1a61732cd65de96bd2a6795c5b1f19ada0a4be5c5f3fbbda64483972890d3d30",
+      "en_sha256": "ac36b0f105ce664a6ee20fb909f1006d9677522c7ddd550c1951c797b18288ec",
+      "origin": "ai"
+    },
+    "dataList[id=9008401].desc": {
+      "pl": "gdy ta jednostka ma <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddech</link></u></color>, przy wygranej Starciu zyskuje 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddechu</link></u></color>.",
+      "kr_sha256": "ffdaa20c206746cc881ddaf581a1439f745b146a0f9380ffc162f734ebe35461",
+      "en_sha256": "b3b821bf4a50b42b507cfd8a5de38fa09e3df5d10e1d39064f9f2f96980ee4fc",
+      "origin": "ai"
+    },
+    "dataList[id=9008401].name": {
+      "pl": "Easy Breathing",
+      "kr_sha256": "aec025178c377b76dd27cf136f09f33125c42e27512941d0d21c6fcc3b2c6e14",
+      "en_sha256": "e2a3196b775e0dd771cdc5b4c3c933bba97f39b9cc1c3b5b5ebe73c38c516a84",
+      "origin": "ai"
+    },
+    "dataList[id=9008402].desc": {
+      "pl": "w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 1 Wzrost Obrażeń w następnej turze.\ngdy pierwsza Moneta trafia Rewersem, zyskuje 1 Spadek Obrażeń w następnej turze",
+      "kr_sha256": "bec504d4b2ed742215d074ad4edb9f2a8ee4d97d33c45fed2c2493e6e9a845da",
+      "en_sha256": "bf1dee8768b40c4425a9e586186533f8f2f9a47e9ed9f26cd3a82679bcc3aa8c",
+      "origin": "ai"
+    },
+    "dataList[id=9008402].name": {
+      "pl": "Two Sides Of a Coin",
+      "kr_sha256": "27f66678eaf2ea969ecbd4e96f3d8586549de399f40f2f9f4aae517bc07d72ec",
+      "en_sha256": "270c4b9d863a9676f6c91fc5d8fcb0a874bf62571e303b2f618e485dd0915754",
+      "origin": "ai"
+    },
+    "dataList[id=9008601].desc": {
+      "pl": "przy trafieniu, jeżeli cel ma <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color>, przywraca SP równe <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawieniu</link></u></color> celu",
+      "kr_sha256": "6604e269bc98c6fe924224a325023d2bb4f0150b4b31ed61b31b8cd6dc464037",
+      "en_sha256": "2739d74f43ef6f07ebb1778da278920d34a3974c47abae97f6d36418714dce71",
+      "origin": "ai"
+    },
+    "dataList[id=9008601].name": {
+      "pl": "Ain't That a Prick?",
+      "kr_sha256": "bbd6ab2fcb6cfb8fb2a7478d482140fe6f5048e8b6547d487937b44fceda3c93",
+      "en_sha256": "fa0c59fc57b6c1a4db7c0f8255fb6639721138498446989068b1af41d1cc9da0",
+      "origin": "ai"
+    },
+    "dataList[id=9008701].desc": {
+      "pl": "zyskując <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Ochronę</link></u></color>, przy Szybkości 1 zyskuje dodatkowo 1 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Ochrony</link></u></color>.",
+      "kr_sha256": "d2a9d7130568f252256ed1ebb1c78319208e0b5159079606e4f8686cdd22d1b0",
+      "en_sha256": "d4d786b0ffea478b6a28a1052cdae07df5b9a617e67a97c9cbe8dde769a1123d",
+      "origin": "ai"
+    },
+    "dataList[id=9008701].name": {
+      "pl": "To the Front Lines!!",
+      "kr_sha256": "664985fbd5585bb58f8ca9f413ed0bc0d9f45579b817c58d6e42f06609c18e3f",
+      "en_sha256": "8b7055a29d53011adae3afe2e338e3e2c741cbbeee1509cf853433b826b33ff3",
+      "origin": "ai"
+    },
+    "dataList[id=9008702].desc": {
+      "pl": "przy trafieniu, jeżeli cel ma <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color>, przywraca SP równe <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawieniu</link></u></color> celu",
+      "kr_sha256": "6604e269bc98c6fe924224a325023d2bb4f0150b4b31ed61b31b8cd6dc464037",
+      "en_sha256": "2739d74f43ef6f07ebb1778da278920d34a3974c47abae97f6d36418714dce71",
+      "origin": "ai"
+    },
+    "dataList[id=9008702].name": {
+      "pl": "Ain't That a Prick?",
+      "kr_sha256": "bbd6ab2fcb6cfb8fb2a7478d482140fe6f5048e8b6547d487937b44fceda3c93",
+      "en_sha256": "fa0c59fc57b6c1a4db7c0f8255fb6639721138498446989068b1af41d1cc9da0",
+      "origin": "ai"
+    },
+    "dataList[id=9101101].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, zadaje obrażenia Whale of the Porous Hand",
+      "kr_sha256": "ec2a3145f57a5ba900941ffdf25008495cd374c1d2a55c1101915ef198791001",
+      "en_sha256": "c5991f3f2d07b3939b20517d053d11e9faafa4a735b2355934dd0377490873bd",
+      "origin": "ai"
+    },
+    "dataList[id=9101101].name": {
+      "pl": "Cetacean Strand",
+      "kr_sha256": "780178b396bdc900745126648f5ddcbb62218b659f21dfc560db6cc56dcbed07",
+      "en_sha256": "fa17dc63aa6206ab8d676d782c76cbc00cd184eae82a94fa6166d2fe374921b4",
+      "origin": "ai"
+    },
+    "dataList[id=9101201].desc": {
+      "pl": "w każdej turze, gdy pierwsza Moneta trafia Awersem, zyskuje 2 Wzrost Obrażeń i 1 Wzrost Mocy Ataku w następnej turze.\ngdy pierwsza Moneta trafia Rewersem, zyskuje 2 Spadek Obrażeń i 1 Spadek Mocy Ataku w następnej turze",
+      "kr_sha256": "4751390ce765f7d139c74201a1275887b25eeaebacc658a68f8b9b2a47f65ce4",
+      "en_sha256": "2f1a9896baba0d4f40feb68427cc29b67fde19f3d7018c1c06786211f3516e01",
+      "origin": "ai"
+    },
+    "dataList[id=9101201].name": {
+      "pl": "Two Sides Of a Coin",
+      "kr_sha256": "27f66678eaf2ea969ecbd4e96f3d8586549de399f40f2f9f4aae517bc07d72ec",
+      "en_sha256": "270c4b9d863a9676f6c91fc5d8fcb0a874bf62571e303b2f618e485dd0915754",
+      "origin": "ai"
+    },
+    "dataList[id=9101202].desc": {
+      "pl": "po przegranej w Starciu zyskuje 4 Oddechu i 3 Licznika Oddechu.",
+      "kr_sha256": "b163d5a59491e5b9c7362e56f8368a22bd835ae128f6a45b20db8bdb584f6c15",
+      "en_sha256": "065f57de50200a787471f855b221e3d3a45859d99557c93600af85bb629330e7",
+      "origin": "ai"
+    },
+    "dataList[id=9101202].name": {
+      "pl": "No... Get Away From Me!",
+      "kr_sha256": "a0da0dbf8c627cb4ed3b368d245d52cd501c6d2e9caf88c30bc3a9b6c874da3b",
+      "en_sha256": "b4478440655807051f572002feb922a1d1e95e184a2e1b6301d607e85bdeac47",
+      "origin": "ai"
+    },
+    "dataList[id=9101203].desc": {
+      "pl": "przy trafieniu krytycznym zyskuje 1 Wzmocnienia Monet Plus w następnej turze.\nprzywraca 15 SP sobie.\npozostali sojusznicy przywracają 10 SP\n(1 raz na turę)",
+      "kr_sha256": "3dd152ca2cacbc666e9d62a3ee6d39ae74796fc580112aa2aa47708504eeb2b7",
+      "en_sha256": "9d18e3a0a370078dc42e1e24c254603e6667d08b578c495ff76bb6feb6fe97ec",
+      "origin": "ai"
+    },
+    "dataList[id=9101203].name": {
+      "pl": "Huzzah, Men!",
+      "kr_sha256": "e64d448043343611a1ec10d120e2c765542a987805e0a4c255b5244db281bd84",
+      "en_sha256": "a907e54a12721dafc9f66bf32f10f9f588d8a1aaa2a7aa7408e7bae8436e253f",
+      "origin": "ai"
+    },
+    "dataList[id=9101204].desc": {
+      "pl": "pojmanie w tej walce powoduje utratę 30 SP przez wszystkich sojuszników",
+      "kr_sha256": "f789894b3a78971275ebad98b989d1f2c21bc70a8d55c02d97c1a4cab64ea76b",
+      "en_sha256": "97f00aa6367b10de07fc6f5c58925a6c85d1f53aa8b1f1e47508167a66e8fc60",
+      "origin": "ai"
+    },
+    "dataList[id=9101204].name": {
+      "pl": "What Are You Doing?!",
+      "kr_sha256": "3fde2fa9267366360e87bef71c14c6b86d9df5b81a2a7ed3ede615b45f9eee22",
+      "en_sha256": "29f14e56fd822b165f38e2bae47b5bf42fe16e3a81fd3414aed03bd17367c158",
+      "origin": "ai"
+    },
+    "dataList[id=9101205].desc": {
+      "pl": "przy trafieniu, jeżeli cel ma <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color>, przywraca SP równe <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawieniu</link></u></color> celu",
+      "kr_sha256": "6604e269bc98c6fe924224a325023d2bb4f0150b4b31ed61b31b8cd6dc464037",
+      "en_sha256": "800542e03ddd094075b0ba095e675d055f98b476b7c9cdc548f7b3b85bb59fb3",
+      "origin": "ai"
+    },
+    "dataList[id=9101205].name": {
+      "pl": "Ain't That a Prick?",
+      "kr_sha256": "bbd6ab2fcb6cfb8fb2a7478d482140fe6f5048e8b6547d487937b44fceda3c93",
+      "en_sha256": "fa0c59fc57b6c1a4db7c0f8255fb6639721138498446989068b1af41d1cc9da0",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=battleTip_11036_phase1_1].content": {
+      "pl": "Uwaga: gdy Skazaniec o Szybkości 1 prowadzi Starcie z Umiejętnością Strażnika, Moc i obrażenia Strażnika mocno rosną — nawet wygrane Starcie boli.",
+      "kr_sha256": "5df1f42703a4c468ac7555bc17d7c6a962af33c51dc60fe35de8e58af9a82928",
+      "en_sha256": "cf6e419266aa9756964cff107c44237dac7f4442ab4b75bd6c465d09f12078d7",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11036_phase1_2].content": {
+      "pl": "Przeżyła Świeca Odwety na koniec tury nakłada Spętanie na wszystkich Skazańców w następnej turze — likwiduj ją priorytetowo.",
+      "kr_sha256": "aecbee379232cfa05a3d2f3aaaaa179613096037ef129a0e6bd627d654ee5268",
+      "en_sha256": "d3c3ef8e1a761f8f0802c28d918e1324db171e861b6031ed4bbc2b591878e42f",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11036_phase2_1].content": {
+      "pl": "Określone Umiejętności Strażnika można znacznie unieszkodliwić, prowadząc Starcia Skazańcami z efektom Tętnienia lub Zastoju.",
+      "kr_sha256": "b05bffb7df518e0dfb6658cc69a085547898e4f54ef6368c917968e9209409a1",
+      "en_sha256": "ca75e3855760fc5e164eb983ee687d7f54defdd40e78ee04c44722f60350ddc5",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11036_phase2_2].content": {
+      "pl": "Atakując Skazańca, Strażnik staje się silniejszy proporcjonalnie do posiadanych przez niego Gwoździ (Dowodów Spowiedzi). Uwzględnij to, planując odpowiedź Umiejętnościami.",
+      "kr_sha256": "64daaba1c229202cbac68daee4b9a956ea58590c8b1a4f2b18f9b3ec814a9742",
+      "en_sha256": "b5ec792aa31c19e732ac10320204b66c78efb7588d6d8dbbcce8550323c3c5ee",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11036_phase3_1].content": {
+      "pl": "Określone Umiejętności Kapelana można znacznie unieszkodliwić, prowadząc Starcia Skazańcami z efektom Tętnienia lub Zastoju.",
+      "kr_sha256": "4e88a14f6210c254080993cb8454548a30974fa41b103fe65b1d062f2c353bbb",
+      "en_sha256": "9e4fbff1328a740ae365b5e85d337f80af6a587fbf6d246c03692e2319c006ee",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11036_phase3_2].content": {
+      "pl": "Atakując Skazańca, Kapelan staje się silniejszy proporcjonalnie do posiadanych przez niego Gwoździ (〜). Uwzględnij to, planując odpowiedź Umiejętnościami.",
+      "kr_sha256": "99101f15a2a6058d0e48b5bedcba11cf034b2486db65e6bd7a18313583c1516c",
+      "en_sha256": "ffe066963a5ad7b32cd309592605c7011a9f7bdf3a5244bd19b08e140d436874",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11036_phase3_3].content": {
+      "pl": "W walce z Kapelanem określone działania sprawiają, że Skazańcy gromadzą dużo Gwoździ [Console] i odnoszą niewielkie obrażenia HP. Zawsze na to uważaj.",
+      "kr_sha256": "cd948f309755740ef45594291316731beb6b634d49d6e5a3e5682848b5ff3cda",
+      "en_sha256": "4daaa2ae8fb9c501dffe2aa8b627368a07bbb73bcccfe35a52cbdbfa538b6568",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11039_phase1_1].content": {
+      "pl": "Ważne jest zniszczenie Schematów Grand Magasin Sisyphe, zanim Jeanne zdąży ich użyć Umiejętnością „Pojmania”",
+      "kr_sha256": "dbe49cb8f129282d1069888c50fcc7e57d3f7b706c189fd67c3b0c41322ab8bd",
+      "en_sha256": "648560f7854d2256efb95bf010e00527fa0687fc5c9d8b6411297474dea6e84b",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11039_phase1_2].content": {
+      "pl": "Gdy aktywny jest efekt „Engagement” (engagement) Jeanne, lepiej prowadzić Starcia Umiejętnością E.G.O o wysokiej Mocy bazowej.",
+      "kr_sha256": "eba56b6d5a84f107137652a9566fa5b195f2cabc00fb44938d0cce303a5fa72c",
+      "en_sha256": "1a78f506067b18a65ad6ba9b71128a31714db1ae736c1fb01d3b9408549e43d8",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11039_phase2_1].content": {
+      "pl": "Ważne jest pilnowanie HP Meursaulta.",
+      "kr_sha256": "feddf298f63bd28069017aec0378c407640cf2f8af661f05046e7ba21e9dd4af",
+      "en_sha256": "46a2eb4cfc9043eca18c01e6c561a9db6f3c6667ae87defce4b188265b67597b",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11039_phase2_2].content": {
+      "pl": "Przy wyborze celów Umiejętności trzeba stosować się do zamierzeń Jeanne.",
+      "kr_sha256": "c0906de7630b2f21ea7576e73d95d84cf8567a918b96a70e0557167971141234",
+      "en_sha256": "a40de54af487b6d424dd101963f037ef7d557532f4986f6899bcdc448d8d9ea4",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11039_phase3_1].content": {
+      "pl": "Uwaga: Skazańcy trafieni Umiejętnościami Jeanne nie mogą wyrzucać Orłów.",
+      "kr_sha256": "ec79714c27cd1dceaaae16202a77d736b8ad64156be9f133629795b905beab12",
+      "en_sha256": "f4733383b0d14d10c10627ca3c79baca5be788bf33d91a1787a3920b99a4cce6",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11039_phase3_2].content": {
+      "pl": "Zniszczenie Schematów obniża HP Jeanne — ważne jest szybkie ich niszczenie Umiejętnościami E.G.O o dużej Wadze Ataku.",
+      "kr_sha256": "5fde2eaa26a3e44bec436f8fa534a7b0cc46de13a2ae5431e34b81ab0cc9736a",
+      "en_sha256": "47fdd3c18f40e0aa3b96438c658cc9b477affaef46589b752e6a99ffa976003d",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11041_1].content": {
+      "pl": "Za każde wygrane Starcie z „La Jouissance” Czerwony Bóg [Dojrzałość] zyskuje „Wspomnienia Pwie” i słabnie.",
+      "kr_sha256": "94ccd64952b18552fe33ac5bd341356e65297754cac38f7716f917f751cc8ba7",
+      "en_sha256": "ea2341dad79b47a99ad8c16c95aa74705ae706cbe242f2b0011914a651cc7229",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11041_2].content": {
+      "pl": "Skazańcy z „Doświadczeniem z Pwie” otrzymują mniej obrażeń od Czerwonego Boga [Dojrzałość], a Bóg traci Poczytalność za każde trafienie Umiejętnością tego Skazańca.",
+      "kr_sha256": "6631b53cb7ce79ae1c946182b5d44650b4799d67e68be82991187161ef8dd4c0",
+      "en_sha256": "135d2a058b5702cd3c11ab2273ec6119dfdce95504ec4316594528052ecd6479",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11041_3].content": {
+      "pl": "Kumulujące się stosy „L'Abject (l'abject)” obniżają Szybkość i zwiększają otrzymywane obrażenia od Krwawienia.\nSkazańcy z 5 lub więcej stosami to potencjalne cele potężnych dodatkowych ataków Czerwonego Boga [Dojrzałość] — zachowaj czujność",
+      "kr_sha256": "87bf302905897dcadd2dfd6fa895c9eca2607de64859e3e30ffc2c2e8992b8c3",
+      "en_sha256": "44039d3df671bb914083e513a2c0efb0062873d9b7c5b2d3f174c4ac0b12390a",
+      "origin": "ai"
+    }
+  }
+}

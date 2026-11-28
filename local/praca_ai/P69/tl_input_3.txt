@@ -1,0 +1,131 @@
+443||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2, 피해량 감소 2 부여|[OnSucceedAttack] Inflict 2 Bind and 2 Damage Down next turn
+467||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2, 취약 2 부여|[OnSucceedAttack] Inflict 2 Bind and 2 Fragile next turn
+470||Pasywka wroga [810001] — nazwa] 모든 것을 밝히는 불빛|The All-Illuminating Light
+471||Pasywka wroga [810001] — opis] 촛불이 꺼지고 촛불 체력이 전부 회복된 상태면, 모든 촛불이 켜지기전까지 내성이 올라감.\n모든 촛불이 켜져있을 때, 내성이 내려감.|If every Candle is snuffed and at full HP, gain resistance until all Candles are lit again.\nWhen all Candles are lit, lose resistance.
+472||Pasywka wroga [810002] — nazwa] 밀려난 어둠|Darkness Deterred
+473||Pasywka wroga [810002] — opis] 불이 꺼진 이후로 4턴마다 꺼진 촛불이 있다면, 스스로 모든 촛불을 켠다. 모든 촛불의 체력이 1이 된다.|Light all Candles every 4 turns after a Candle is snuffed. All Candles' HP is reduced to 1.
+474||Pasywka wroga [810701] — nazwa] 피어오르는 불씨|Burning Embers
+475||Pasywka wroga [810701] — opis] 체력이 1 이하로 떨어지지 않음.\n체력이 1일 때, 불이 켜지며 공격 스킬을 사용함.|HP does not drop below 1.\nAt 1 HP, light the Candles and uses an Attack Skill.
+476||Pasywka wroga [810702] — nazwa] 가라앉는 어둠|Sinking Darkness
+477||Pasywka wroga [810702] — opis] 모든 촛불이 켜졌을 때, 방어 스킬을 사용한다.\n방어막이 전부 소모되면, 다음 턴에 불이 꺼진다.|When all Candles are lit, use a Defensive Skill.\nSnuff out the Candles next turn when out of Shield.
+478||Pasywka wroga [810101] — nazwa] 노출된 진주|Exposed Pearl
+479||Pasywka wroga [810101] — opis] 턴 시작시 자신의 녹색 점액이 0이면, 흐트러짐 상태가 됨. 진주 속성 내성이 0.5씩 감소함.\n흐트러짐이 풀릴 때, 녹색 점액 10을 얻음.|Turn Start: If at 0 Green Slime, become Staggered. Pearl loses all Affinity Resistances by 0.5.\nGain 10 Green Slime when recovering from Stagger.
+480||Pasywka wroga [810102] — nazwa] 조각난 패각|Cracked Shell
+481||Pasywka wroga [810102] — opis] 본체 체력이 10% 남았을 때, 패턴이 변경됨.|At 10% Core HP, gains a new pattern.
+482||Pasywka wroga [810103] — nazwa] 단단한 패각|Solid Shell
+483||Pasywka wroga [810103] — opis] 껍질 부위는 흐트러짐 상태여도 원래 내성을 유지함.|The Shell Part retains its resistances even during Staggered state.
+484||Pasywka wroga [810104] — nazwa] 모여드는 점액|Gathering Slime
+485||Pasywka wroga [810104] — opis] 잠식 액체를 사용하는 턴에 속도가 1이 됨.|Fix this Part's speed to 1 for a turn when using Devouring Fluid.
+487||Pasywka wroga [810901] — opis] 걷는 진주에게 처치 당하면, 걷는 진주의 녹색 점액 3 증가.|Apply 3 Green Slime to Ambling Pearl when defeated by Ambling Pearl.
+488||Pasywka wroga [810902] — nazwa] 오염시키는 점액|Contaminating Slime
+489||Pasywka wroga [810902] — opis] 턴 종료시, 모든 적에게 (2 + 살아있는 녹색 점액)만큼 독 부여.|Turn End: Apply (2 + Surviving Green Slime) Poison to all enemies.
+490||Pasywka wroga [810201] — nazwa] 확산하는 산소|Expanding Oxygen
+491||Pasywka wroga [810201] — opis] 형광등 부위가 파괴되면, 모든 적에게 [AaCePcBb] 부여.\n형광등 부위는 2턴 후에 재생함.|When the Fluorescence Part is broken, inflict [AaCePcBb] on all enemies.\nFluorescence Part regenerates after 2 turns.
+492||Pasywka wroga [810202] — nazwa] 수중 호흡|Underwater Breathing
+493||Pasywka wroga [810202] — opis] 2턴부터 매 턴마다 형광등 부위가 파괴 상태가 아니라면, 이번 턴에 호흡 8을 얻음.\n호흡 횟수 3 증가.2턴부터 매 턴마다 형광등 부위가 파괴 상태라면, 이번 턴에 마비 2. 피해량 감소 2 얻음.|Starting from turn 2, gain 8 Poise this turn if the Fluorescence Part isn't broken.\nGain +3 Poise Count. Starting from turn 2, gain 2 Paralyze and 2 Damage Down this turn if the Fluorescence Part is broken.
+494||Pasywka wroga [810203] — nazwa] 탁류|Siltcurrent
+495||Pasywka wroga [810203] — opis] 2턴부터 매 턴마다 [AaCePcBb]이 없는 인격들에게 속박 1, 마비 1 부여. 정신력 3 감소.|Starting from turn 2, all Identities without [AaCePcBb] are inflicted with 1 Bind and 1 Paralyze; Identities without [AaCePcBb] lose 3 SP.
+496||Pasywka wroga [810801] — nazwa] 단단함|Harden
+497||Pasywka wroga [810801] — opis] 받은 피해가 최소 12이상이여야 피해를 입음.\n그 이하의 피해는 0으로 받음.|Can be damaged only with damages equal to or higher than 12.\nAll damage under 12 is nullified.
+498||Pasywka wroga [810802] — nazwa] 휩쓸려가는 표류물|Rolling Flotsam
+499||Pasywka wroga [810802] — opis] 꿈먹는 탁류가 맹목을 사용하고, 턴 종료시 파괴되지 않았다면 무작위 인격에게 체력 20 피해를 입힘.|After the Dream-devouring Siltcurrent uses Blind Obsession, and if this unit is not destroyed at Turn End, deal 20 damage to a random Identity.
+500||Pasywka wroga [810803] — nazwa] 파괴된 표류물|Destroyed Flotsam
+501||Pasywka wroga [810803] — opis] 죽음을 맞이했을 때, 체력이 1 이하로 떨어지지 않음.\n파괴된 표류물이 됨.|HP does not drop below 1 upon defeat.\nTurns into a Destroyed Flotsam.
+502||Pasywka wroga [810301] — nazwa] 선장의 명령|Captain's Orders
+503||Pasywka wroga [810301] — opis] 턴 시작 시 정신력이 -45가 아니면, (자신을 제외한 살아있는 아군 수 x 5)만큼 정신력을 회복한다.\n턴 시작 시 정신력이 -45면, 턴 종료 시 패닉 상태를 해제하고, 정신력을 0으로 초기화한다.|Turn Start: If not at -45 SP, heal (# of surviving other allies x 5) SP.\nTurn Start: If at -45 SP, recover from panic at Turn End and reset SP to 0.
+504||Pasywka wroga [810302] — nazwa] 헤집어진 문신|Mutilated Tattoos
+505||Pasywka wroga [810302] — opis] 피쿼드타운 소속 아군이 사망할 때마다 호흡 횟수 1 감소, 정신력 10 감소|Every time a Pequod Town faction ally is defeated, lose 1 Poise Count and 10 SP.
+506||Pasywka wroga [810303] — nazwa] 불굴의 작살잡이|The Indomitable Harpooneer
+507||Pasywka wroga [810303] — opis] 자신의 체력이 낮아질수록 적에게 가하는 스킬의 피해량이 증가한다.|The lower this unit's HP gets, the more damage this unit's Skills deal.
+508||Pasywka wroga [810304] — nazwa] 주입된 증오와 미움|Injected Hatred and Animosity
+509||Pasywka wroga [810304] — opis] 턴 종료 시 체력이 최대 체력의 50% 미만이면, 2페이즈로 넘어간다.\n2페이즈 전까지 체력이 1 미만으로 감소하지 않는다.\n2페이즈 시작 시 체력을 최대 체력의 50%까지 회복하고, 아군 4명을 소환한다. 이후 매 턴 시작 시 현재 체력 비율이 가장 낮은 적 1명에게 [AaCePcBj]를 부여한다.|Turn End: If 50%- of max HP, move on to Phase 2.\nThis unit's HP does not drop below 1 before Phase 2 start.\nPhase 2 Start: Heal HP to 50% of max HP and summon 4 allies. Inflict [AaCePcBj] against 1 enemy with the lowest HP percentage at the start of every turn.
+510||Pasywka wroga [810305] — nazwa] 새겨지는 증오와 미움|Engraved Hatred and Animosity
+511||Pasywka wroga [810305] — opis] 체력이 1이 될 때,  체력을 최대 체력의 50%까지 회복하고, 다음 턴에 공격 위력 증가 2를 얻는다. (전투 당 1회 발동)|At 1 HP, heal up to 50% of max HP and gain 2 Attack Power Up next turn. (Once per encounter)
+512||Pasywka wroga [810306] — nazwa] 혼탁한 정신|Clouded Mind
+513||Pasywka wroga [810306] — opis] 흐트러짐 상태가 되면, 턴 종료 시 정신력이 0 미만인 경우, 정신력을 0으로 초기화한다.|When Staggered and when at less than 0 SP at Turn End, reset SP to 0.
+515||Pasywka wroga [810401] — opis] 턴 종료 시 체력이 50% 미만이면, 다음 턴에 신속 2, 공격 위력 증가 2를 얻는다. (전투 당 1회 발동)|Turn End: At 50- HP, gain 2 Haste and 2 Attack Power Up next turn. (once per encounter)
+516||Pasywka wroga [810402] — nazwa] 작살 꿰뚫기|Puncturing Harpoon
+517||Pasywka wroga [810402] — opis] 크리티컬 적중 시 스킬로 부여하는 부정적인 효과의 수치가 1 증가한다.|On Critical Hit, inflict 1 additional negative effect with Skill effects.
+518||Pasywka wroga [810501] — nazwa] 피쿼드 호의 선장|Captain of the Pequod
+519||Pasywka wroga [810501] — opis] 턴 시작 시 정신력이 -45가 아니면, 정신력을 15 회복한다.\n턴 종료 시 패닉 상태면, 턴 종료 시 패닉 상태를 해제하고, 정신력을 0으로 초기화한다.|Turn Start: If not at -45 SP, heal 15 SP.\nTurn End: If panicked, recover from panic. Reset SP to 0.
+520||Pasywka wroga [810503] — nazwa] 흐릿해진 명령|Muddled Orders
+521||Pasywka wroga [810503] — opis] 이 캐릭터가 흐트러짐 상태가 되면, 턴 종료 시 자신을 제외한 모든 아군의 정신력이 0 미만인 경우, 정신력을 0으로 초기화한다.|When this unit is Staggered, and when all other allies are at less than 0 SP at Turn End, reset their SP to 0.
+522||Pasywka wroga [810504] — nazwa] 냉혹한 결단|Coldhearted Decision
+523||Pasywka wroga [810504] — opis] 2페이즈가 되면 체력을 최대로 회복하고, 퀴케그, 스타벅이 보유한 선장의 명령 패시브를 발동시키지 않는다. 또한 퀴케그가 턴 종료 시 원호 방어 보호막 수치가 0이어도 흐트러짐 상태가 되지 않는다.|Phase 2 Start: Fully heal HP; Queequeg and Starbuck no longer activate Captain's Orders Passive. Also, Queequeg no longer gets Staggered even when her Assist Defense Shield value reaches 0.
+525||Pasywka wroga [810601] — opis] 턴 시작 시 정신력이 -45가 아니면, 정신력을 15 회복한다.\n턴 종료 시 패닉 상태면, 패닉 상태를 해제하고, 정신력을 0으로 초기화 한 뒤 다음 턴에 공격 위력 증가, 수비 위력 증가 2를 얻는다.|Turn Start: If not at -45 SP, heal 15 SP.\nTurn End: If panicked, recover from panic. Reset SP to 0 and gain 2 Attack Power Up and 2 Defense Power Up.
+526||Pasywka wroga [810602] — nazwa] 핍의 죄와 결백|Pip's Sin and Innocence
+527||Pasywka wroga [810602] — opis] 페이즈 시작 시 핍의 자아 20을 얻는다. \n턴 종료 시 핍의 자아 1당 정신력을 3 회복한다.\n턴 종료 시 [AaCePcBo]가 0이면 다음 턴에 흐트러짐 상태가 된다.|Phase Start: Gain 20 Pip's Ego.\nTurn End: Heal 3 SP for every Pip's Ego.\nTurn End: If [AaCePcBo] is at 0, get Staggered next turn.
+528||Pasywka wroga [810603] — nazwa] 스타벅의 두려움|Starbuck's Fears
+529||Pasywka wroga [810603] — opis] 페이즈 시작 시 스타벅의 자아 20을 얻는다. \n[AaCePcBj]가 있는 대상과의 합 패배 시 합에서 파괴된 코인 수만큼 [AaCePcBp]가 감소한다.\n턴 시작 시 스타벅의 자아 5당 보호 1 을 얻는다.\n턴 종료 시 [AaCePcBp]가 0이면 다음 턴에 흐트러짐 상태가 된다.|Phase Start: Gain 20 Starbuck's Ego.\nLose 1 [AaCePcBp] for every Coin destroyed in Clash against targets with [AaCePcBj].\nTurn Start: Gain 1 Protection for every 5 Starbuck's Ego.\nTurn End: If [AaCePcBp] is at 0, get Staggered next turn.
+531||Pasywka wroga [810604] — opis] 이번 페이즈동안 크리티컬 적중 시 스킬로 부여하는 부정적인 효과의 수치가 1 증가한다.|During this Phase, on Critical Hit, inflict 1 additional negative effect with Skill effects.
+532||Pasywka wroga [810605] — nazwa] 퀴케그의 참회|Queequeg's Atonement
+533||Pasywka wroga [810605] — opis] 페이즈 시작 시 퀴케그의 자아 30을 얻는다. \n턴 종료 시 보호막이 남아있으면 퀴케그의 자아를 5 회복하고, 보호막이 없으면 [AaCePcBq]가 10 감소한다.\n턴 종료 시 [AaCePcBq]가 0이면 다음 턴에 흐트러짐 상태가 된다.|Phase Start: Gain 30 Queequeg's Ego.\nTurn End: If this unit still has remaining Shield, regain 5 Queequeg's Ego. If this unit does not have remaining Shield, lose 10 [AaCePcBq].\nTurn End: If [AaCePcBq] is at 0, get Staggered next turn.
+535||Pasywka wroga [810606] — opis] 이번 페이즈동안 자신의 체력이 낮아질수록 적에게 가하는 스킬의 피해량이 증가한다.\n자신의 잃은 체력 0.75%당 피해량 1% 증가 \n(최대 100%. 체력이 최대 체력의 25%일 때 최대가 됨)|The lower this unit's HP gets, the more damage this unit deals with its Skills.\nDeal 1% more HP for every 0.75% missing HP on self\n(Max 100%. Maxes out when this unit is at 25% HP)
+536||Pasywka wroga [810607] — nazwa] 숭고의 대가|Price of Nobility
+537||Pasywka wroga [810607] — opis] 다른 캐릭터의 자아를 얻을 때마다 공격 레벨과 방어 레벨이 증가\n특정 스킬 합 패배 시 정신력 감소|Gain Offense Level and Defense Level every time this unit gains other characters' Ego\nLose SP when losing certain Skill Clashes
+570||Pasywka wroga [9009801] — nazwa] 억제된 백화|Suppressed Pallidification
+571||Pasywka wroga [9009801] — opis] 턴 시작 시 (자신을 제외한 살아있는 아군 수)만큼 자신의 공격 레벨과 방어 레벨이 증가|At Turn Start, gain Offense Level and Defense Level by the number of surviving allies (not including this unit)
+572||Pasywka wroga [9009802] — nazwa] 선장님의 명령|Captain's Orders
+573||Pasywka wroga [9009802] — opis] 턴 시작 시 (자신을 제외한 살아있는 아군 수 x 3) 만큼 정신력을 회복한다.|At Turn Start, heal SP by (# of other surviving allies x 3)
+575||Pasywka wroga [9009803] — opis] 턴 종료 시 체력이 50% 미만이면, 다음 턴에 공격 위력 증가 1을 얻는다. (전투 당 1회 발동)|Turn End: At 50%- HP, gain 1 Attack Power Up next turn. (once per encounter)
+576||Pasywka wroga [9009804] — nazwa] 덮쳐오는 백화|Crashing Pallidification
+577||Pasywka wroga [9009804] — opis] 턴 종료 시 정신력이 0 미만이면, 50% 확률로 스킬 패턴이 변경된다.|Turn End: At less than 0 SP, 50% chance to change Skill patterns.
+578||Wróg / część [90114] — nazwa] 촉박한 T사 갱단원|Urgent T Corp. Gangster
+579||Wróg / część [90115] — nazwa] 겁먹은 T사 갱단원|Scared T Corp. Gangster
+580||Wróg / część [90116] — nazwa] 묵직한 데드레빗츠 단원|Hefty Dead Rabbits Henchman
+581||Wróg / część [90117] — nazwa] 느릿한 데드레빗츠 단원|Slow Dead Rabbits Henchman
+582||Wróg / część [90118] — nazwa] 매서운 데드레빗츠 단원|Fierce Dead Rabbits Henchman
+583||Wróg / część [90119] — nazwa] 예리한 데드레빗츠 단원|Sharp Dead Rabbits Henchman
+584||Wróg / część [90120] — nazwa] 날렵한 에드가 가문 버틀러|Swift Edgar Family Butler
+585||Wróg / część [90121] — nazwa] 재빠른 에드가 가문 버틀러|Fast Edgar Family Butler
+586||Wróg / część [90122] — nazwa] 노련한 에드가 가문 버틀러|Veteran Edgar Family Butler
+587||Wróg / część [90123] — nazwa] 교묘한 에드가 가문 버틀러|Shifty Edgar Family Butler
+588||Wróg / część [90124] — nazwa] 숙달된 에드가 가문 버틀러|Trained Edgar Family Butler
+590||Wróg / część [90126] — nazwa] 험악한 워더링하이츠 버틀러|Hostile Wuthering Heights Butler
+591||Wróg / część [90127] — nazwa] 단련한 워더링하이츠 버틀러|Trained Wuthering Heights Butler
+592||Wróg / część [91014] — nazwa] 조세핀|Josephine
+593||(ulepszenie 1) — nazwa] 이봐, 이봐|Oi, Oi
+594||(ulepszenie 1) — opis] [WhenUse] 대상에게 [Paralysis]가 있다면, 코인 위력 +1|[WhenUse] Coin Power +1 against targets with [Paralysis]
+595||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 5 부여. [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count
+596||(ulepszenie 1) — nazwa] 찌릿할걸!|This'll Sting!
+597||(ulepszenie 1) — opis] [WhenUse] 대상에게 [Vibration]이 있다면, 코인 위력 +1|[WhenUse] Coin Power +1 against targets with [Vibration]
+598||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 5 부여. [Vibration] 횟수 1 증가|[OnSucceedAttack] Inflict 5 [Vibration] and +1 [Vibration] Count
+599||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여|[OnSucceedAttack] Inflict 1 [Paralysis] next turn
+600||(ulepszenie 1) — nazwa] 빈틈 발견!|Found a Gap!
+601||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]|[OnSucceedAttack] Trigger [VibrationExplosion]
+602||(ulepszenie 1) — moneta 1, efekt 2 — opis] [VibrationExplosion]로 대상이 흐트러졌다면, 코인 재사용|If the target is Staggered by [VibrationExplosion], reuse Coin
+603||(ulepszenie 1) — nazwa] 멈추지 말라고|Don't You Stop Now
+605||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여. [Vibration] 횟수 4 증가|[OnSucceedAttack] Inflict 2 [Vibration] and +4 [Vibration] Count
+606||(ulepszenie 1) — nazwa] 띵해져라!|Dizzy, Eh?!
+608||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여. [Vibration] 횟수 3 증가|[OnSucceedAttack] Inflict 2 [Vibration] and +3 [Vibration] Count
+609||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis] next turn
+610||(ulepszenie 1) — nazwa] 어지러워져라!|The Topsy-Turvy!
+613||(ulepszenie 1) — nazwa] 사…상처|H-hurt
+614||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Burst]
+615||(ulepszenie 1) — nazwa] …부수…|...Brea...
+616||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 위력이 3이상이면, 기본 위력 +1|[WhenUse] If target has 3+ [Burst] Potency, Base Power +1
+617||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 1 부여|[OnSucceedAttack] Inflict 1 [DefenseDown]
+618||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+621||(ulepszenie 1) — nazwa] 약점…|Weakness...
+622||(ulepszenie 1) — opis] [WhenUse] 대상에게 [Burst]이 있다면, [Burst] 위력 3당 기본 위력 +1 (최대 3)|[WhenUse] If target has [Burst], Base Power +1 for every 3 [Burst] Potency on target (max 3)
+623||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 6 부여|[OnSucceedAttack] Inflict 6 [Burst]
+624||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+625||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 4 부여|[OnSucceedAttack] Inflict 4 [DefenseDown]
+626||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Paralysis] 2 부여|[OnSucceedAttackHead] Inflict 2 [Paralysis] next turn
+627||(ulepszenie 1) — nazwa] 가...|Gua...
+628||(ulepszenie 1) — opis] 턴 종료 시 보호막 체력이 남아있다면, 다음 턴에 [AttackUp] 1 얻음|If this Unit has remaining Shield HP at Turn End, gain 1 [AttackUp] next turn
+629||(ulepszenie 1) — nazwa] 늘리…|Exten...
+630||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Burst] Count
+631||(ulepszenie 1) — nazwa] 가…갑|A-armor Br-
+632||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 횟수가 3이상이면, 기본 위력 +1|[WhenUse] If target has 3+ [Burst] Count, Base Power +1
+633||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [AttackDown] 1 부여|[OnSucceedAttack] Inflict 1 [AttackDown]
+637||(ulepszenie 1) — nazwa] 저미…|Cut You...
+638||(ulepszenie 1) — opis] [WhenUse] 대상에게 [Burst]이 있다면, [Burst] 횟수 2당 기본 위력 +1 (최대 3)|[WhenUse] If target has [Burst], Base Power +1 for every 2 [Burst] Count on target (max 3)
+639||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Burst] Count
+641||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [AttackDown] 4 부여|[OnSucceedAttack] Inflict 4 [AttackDown]
+643||(ulepszenie 1) — nazwa] 드...|...rd...
+645||(ulepszenie 1) — nazwa] 처리…|Taking Ca...
+646||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 4 부여|[OnSucceedAttack] Inflict 4 [Burst]
+647||(ulepszenie 1) — nazwa] 치…운…|Remo...ve...
+649||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 2 부여|[OnSucceedAttack] Inflict 2 [DefenseDown]
+653||(ulepszenie 1) — nazwa] 저…지…|Hold... Them Ba...

@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=battleTip_10937_1].content": {
+      "pl": "Uważaj, by Hohenheim i Alyssa nie zginęli przed Skazańcami.",
+      "kr_sha256": "34a44c34f299b434b764c0fc9250812cc56d5521ea3280d5fc67959393b1b212",
+      "en_sha256": "022ee592d34fc9fedc41ddcd75e8db23cae5b8b636de021ec9e86b3d5641b12f",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10937_2].content": {
+      "pl": "Zaleca się skupienie na Umiejętnościach Ojca Serdecznego, których Starć trzeba wygrać za wszelką cenę.",
+      "kr_sha256": "13ec9987504974bf3a6864066a26bf90a9b07d8e305e95cacedfaf6aa093eb11",
+      "en_sha256": "c9f82e045868d04080ee2e688f5560353c52e79d9c0f547cf03cc8dd382ed61e",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10937_3].content": {
+      "pl": "Potężne ataki Ojca Serdecznego i jego Ucznia można osłabić jeszcze przed Starciem.",
+      "kr_sha256": "775542f8cb9793f2605f5fd57abe924852df8e3a9b024b60722075574e4f96be",
+      "en_sha256": "a1c13f0833821237a62a83842e4b300ee624af173ea7298e05204f1b8b933b3b",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10938_1].content": {
+      "pl": "Ojcowie są trudnymi przeciwnikami dla Skazańców.",
+      "kr_sha256": "89fb53a6903d01a8bd1d4a2e5a57d0782f3f7417ae5262e05b83d10a8ef60715",
+      "en_sha256": "388671d61dc88ca48e37a06e881bae1434ed9efbb6fe78449b21a684078f7699",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10938_2].content": {
+      "pl": "Ważne jest aktywne wykorzystywanie Obrony Wsparcia Vespy i Ezry.",
+      "kr_sha256": "990e415ed88e74b680087d2f73eb4e1bbc071a100e59677a58b9bacf64fc6bbe",
+      "en_sha256": "87cea1bd1210513f4708fbd5db319b2f1f8b53f9d4b5ccb88f08b0c6916d69fd",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10941_1].content": {
+      "pl": "Sprawdź, którzy Skazańcy mogą prowadzić Starcia z Umiejętnością „Gwarantowany Przeciwnik”, wydaj odpowiednie rozkazy ataku i kumuluj obrażenia na Ojcu Małego Palca.",
+      "kr_sha256": "8d24c1b05defaf6260bbe8a3acfeff4d0c3af6d33dc9f7f3f5e259f5e062d4a2",
+      "en_sha256": "041ebdd8196889945da6d66e86fa362a4f45077ee5634945118646c42a4c0ccb",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10941_2].content": {
+      "pl": "W zależności od sytuacji ważna jest improwizacja: z którą Umiejętnością Ojca Małego Palca prowadzić Starcie najpierw.",
+      "kr_sha256": "a7cb25bc5ad7b9264beb780aef1a5ae4a135a624e8235a2d75ca9d9e3921b062",
+      "en_sha256": "573146fccad1672bed22126f7159cf4a990eb7685a8356ed12155f0f9ef36a81",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10942_phase1_1].content": {
+      "pl": "Zanim Uczeń Kciuka użyje potężnej Umiejętności, osłabij ją, prowadząc Starcia innymi Skazańcami.",
+      "kr_sha256": "10e239f1a6423461046c0996918485627a6c680b59cb95b9d65b97538db14422",
+      "en_sha256": "b4a74c927ba0c6f1ac9e2b100483c1765cfb450cc7a92b59ebc470cb14fffa53",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10942_phase1_2].content": {
+      "pl": "Trzeba obniżyć HP Ucznia Kciuka poniżej połowy.",
+      "kr_sha256": "50f13a557acd0e64c1438c180aee5192743773161239b5d7ac1b665388d8841a",
+      "en_sha256": "dc61c217529c44f722ada055088274204f384c283fe3e84cb1278f16b2e2df7c",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10942_phase2_1].content": {
+      "pl": "Uczeń Kciuka przeszkadza atakom jednostek wspierających.\nZaleca się najpierw skupić ataki Skazańców na Uczniu Kciuka.",
+      "kr_sha256": "2a8875d1c1e0a8dd449069f345646cb10e12cef25e15fbbdb969fcec85639a45",
+      "en_sha256": "9272a348595d82993686b6222890033455fd9b49b1623088099bdb81076d1895",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10942_phase2_2].content": {
+      "pl": "Przy ataku Ojciec Kciuka zużywa stos Oko Prekognicji, by użyć Umiejętności uniku.\nWażne jest nieustanne wyczerpywanie Oko Prekognicji przez jednostki wspierające.",
+      "kr_sha256": "e2988276de19678afd474fea9582c065d30e1da222d5f698cfe4924b7be35c02",
+      "en_sha256": "2b17d8401238218ad6d49b1068d2709047ce9c83840add315085a7559c9560f9",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10942_phase2_3].content": {
+      "pl": "Potężnej Umiejętności Ojca Kciuka nie można przekierować.\nOsłabia się wraz ze zużywaniem Oko Prekognicji — wyczerpij je maksymalnie przed aktywacją Umiejętności",
+      "kr_sha256": "a11087f2109b6f4f559debb30e1e6652dbf4d31a7e794d434113c5de1b5018c1",
+      "en_sha256": "209565d4472d11dc204c827f62c78dcb3016e1f5b5c75193c91105b23c8ac5b6",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10943_1].content": {
+      "pl": "Zaleca się próby Starć Umiejętnościami, które stosunkowo łatwo wygrać.",
+      "kr_sha256": "2e9136571c111d0fcfee579a7165666c7d39b9c9020faf26f7ea828b33121bd8",
+      "en_sha256": "02203410818840e7bfd38d80abbb818736e22d48796a4fea2acfe667e170384a",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10943_2].content": {
+      "pl": "Zaleca się priorytetowe eliminowanie wrogów o niskim HP.",
+      "kr_sha256": "1b33c438ab54bb75aad9ecc74aaa776a3ba7495036e0ca944738ded7aa1d7b68",
+      "en_sha256": "dd11d544d9e78cebb69dd66ca0a4ec48e8e7e9f0b006868dd6ebbfd647367943",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10944_1].content": {
+      "pl": "Ważne jest wykorzystywanie Obrony Wsparcia Vespy i Ezry.",
+      "kr_sha256": "cb2430587a9b87ef1cc99d1f1b781f22cff4b9a7e2e2f15485d4adfc13fa7c53",
+      "en_sha256": "87cea1bd1210513f4708fbd5db319b2f1f8b53f9d4b5ccb88f08b0c6916d69fd",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10944_2].content": {
+      "pl": "Taktycznie wykorzystaj momenty, w których atak jednostronny pozwala oszołomić wrogów.",
+      "kr_sha256": "cb9b028307ffaf21049030fd79b5b75c9958154770afa869bbe5ea78dd6bc141",
+      "en_sha256": "4cf77e94ee22ad670ec4c8ea0d450dfbd85c86d0b55c14938daf565608aaa9f7",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10944_3].content": {
+      "pl": "Gdy wrogowie w kącie stają się silniejsi, skup się na przetrwaniu, a nie na Starciach — czekaj na asy jednostek wspierających.",
+      "kr_sha256": "177a0d945bfa7b6cf2c182485b18812dbf00a8bd7de542d091c78ff2fb369679",
+      "en_sha256": "d2261c9c45a73273ae08dbe749233554e1486fd848e083bae322bba3e1d79eed",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10945_1].content": {
+      "pl": "Im więcej Starych wygrywa Cesarz Karaluchów ze Skazańcami, tym słabszy się staje.\nJednak przyjmowanie wszystkich ataków przez Skazańców jest ryzykowne.",
+      "kr_sha256": "a9dc429bf4caba3ee0a7cd0a6ae629550488981f57d7c570a52fa627014064aa",
+      "en_sha256": "30bb6d4c3b8ea504d6ad7fd028c13b1d70b9c26958244af6bf9495ddd6fd6964",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10945_2].content": {
+      "pl": "Stosy „Raniącego Szkodnika [Karaluchy]” można obniżyć, przyjmując trafienie Umiejętnością Cesarza Karaluchów „Pożeranie Cesarza”",
+      "kr_sha256": "e93cbf3b3720d93035f5a2a4aa96c309066af6d9a529a556ca2ec6ec2b4ab08e",
+      "en_sha256": "bb911cf11cacb170380d7f9d5b9ca2a399f0d0e8b6793b9b78d26d17dcda7370",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10945_3].content": {
+      "pl": "Umiejętności Cesarza Karaluchów z Monetą Odcięcia stają się bardzo silne przeciwko Umiejętnościom z Niezniszczalnymi Monetami.",
+      "kr_sha256": "11b97917641039605f5b93a44c6242659e8d178cd9080d9a10220ac51dd7f8ca",
+      "en_sha256": "cab6f48caf1f687cdc6ccd078e438948808fe9b0673640e8663e2323efb21dff",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10948_1].content": {
+      "pl": "Gdy sojusznicy mają przewagę, Ojciec Małego Palca działa ofensywnie,\na gdy jest im trudno — defensywnie.",
+      "kr_sha256": "02f5583d78cf6cbf9ae3e3bd335597128627d7ec85bf462915dfb5e0e03562b0",
+      "en_sha256": "58031b3360ff9dfd15809487a4da9cd7ca4c8ffb2c34453d21b9353dbfbae5e2",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10948_2].content": {
+      "pl": "Zbuduj strategię przetrwania ataków Ojca Małego Palca i cierpliwie kumuluj obrażenia.",
+      "kr_sha256": "87b205a895f3f8f73552cbaaaac94a791388e7ad928d0a52911dce50611bdfaf",
+      "en_sha256": "02d6881b7e14b8db2d8754d527e7c95bc3183407f93d4673126f1011695a3ed2",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10949_1].content": {
+      "pl": "Uważaj, by Meursault i Outis nie zginęli pierwsi, zanim upadną Uczennica Wskazującego i Uczeń Małego Palca.",
+      "kr_sha256": "ef86763b13edf0eb97574e9b2b1567ad9df2a29b6e8658e73aa0d6233d4b4d3c",
+      "en_sha256": "036b613f00c952ce908110e85b885d13b783de99d1136e77058c9f3f08e6587b",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10949_2].content": {
+      "pl": "W każdej turze Ryōshū atakuje jednego z dwóch wrogów: Uczennicę Wskazującego albo Ucznia Małego Palca.",
+      "kr_sha256": "f06c4fd5e9b74621ec1f77e1041a35edd35c167e0e0b434d9e5da2409f1776b0",
+      "en_sha256": "4e0797e959e4483b68e2ba26ed1f301fb6a9a4c2b8b004654e3644f1e460a014",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10949_3].content": {
+      "pl": "Warto pozwolić, by Ryōshū w każdej turze w pełni zajęła się jednym z Uczniów, a Skazańcy skupili się na drugim.",
+      "kr_sha256": "5f56c5f1b84954b6afd62df7312e6de88db0fddeb41c3c00e1fccb96cea6c8f5",
+      "en_sha256": "6f6b5c5805d10592060df7490f12e2598861a8dd1d25df4a95528451139f7c4d",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10950_1].content": {
+      "pl": "Gdy Ojciec Wskazującego zawiedzie w wykonywaniu Nakazów, zyskuje Karma. Im więcej Karmy, tym słabsze jego ogólne zdolności, w tym Moc Starcia.",
+      "kr_sha256": "a6b7c5344de4776338c25c3bd873c4e35a5dcbc3d9a1f09d151f775836aa162b",
+      "en_sha256": "bcf54253283e48f006e89598d0d3b15ae4f1b7cc7a913f661df80bf3555dba12",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10950_2].content": {
+      "pl": "W unikalnym wzorcu potrzebne są Umiejętności Cięcia, Przebicia i Uderzenia o wysokiej Mocy Starcia. Przygotuj E.G.O tych trzech typów o dużej Mocy Starcia.",
+      "kr_sha256": "4fe5f511280c34df6892aaf8d21f2a291546edb42deaff57709c2f02b573dbc4",
+      "en_sha256": "82b52650077895fa5c56fe285400a79d79d068d82115b0f6f738802e0087e33b",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10950_3].content": {
+      "pl": "Potężna Umiejętność używana przez Ojca Wskazującego przy niskim HP ma bardzo wysoką Moc. Spróbuj przeciwstawić jej bazowe E.G.O Ryōshū — „Las dla Płomieni”",
+      "kr_sha256": "4963916e227d71b1cab114fbb0f192bae771b3f3ff920044d958dd6d3c171044",
+      "en_sha256": "d3155ff3d96e8f36d6588a0cb0ab1c4a638d4e2d1ca09013d48bf2fcb036cd41",
+      "origin": "ai"
+    }
+  }
+}

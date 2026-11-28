@@ -1,0 +1,280 @@
+{
+  "entries": {
+    "dataList[id=S833I2].effects[id=1].texts[#0].texts[#0].text": {
+      "pl": "A jutro pobawimy się w to, co braciszek Baoyu lubi najbardziej.",
+      "kr_sha256": "abe7aae6fde2969144baeb89c9f7737e52cea85f4fd2416559790d2d08290066",
+      "en_sha256": "526f41cbf007fdf0d49b4242d6ffc63a6baa8ab9099597ab7628a4d05ad21626",
+      "origin": "ai"
+    },
+    "dataList[id=S833I2].effects[id=1].texts[#1].texts[#0].text": {
+      "pl": "Przecież musi być choć jedna rzecz, którą lubisz, braciszku?",
+      "kr_sha256": "c482d1b4409abc8c9951655a38a4e57e8f4b0ae7c577cb1808dc2065374fc5d6",
+      "en_sha256": "9633dc0335924fa3842f87bbbb05c5ac9fd33e76bce9076983706f254ed26ea8",
+      "origin": "ai"
+    },
+    "dataList[id=S833I2].effects[id=1].texts[#2].texts[#0].text": {
+      "pl": "Wymyśl coś na jutro. Zgoda?",
+      "kr_sha256": "676b03a3df94cc5584e1aae412f5632265888547cc7b5b048e9b997e21c5d275",
+      "en_sha256": "ab6fec7bc436b8a7dcd917bda05a243c9d90d04cbd1db355c41e60136220652f",
+      "origin": "ai"
+    },
+    "dataList[id=S833I32].effects[id=4].texts[#0].texts[#0].text": {
+      "pl": "Przepraszam, że cię nie posłuchałem, bracie…",
+      "kr_sha256": "57de625f2de8bee7ddc0d5ddcf48a143eb277b7fc5be648d57e570ca38bf64f8",
+      "en_sha256": "5bd4826053d5ba8b1e63439d5cb4ffee190ba065f708d58e6e2e87fee9490761",
+      "origin": "ai"
+    },
+    "dataList[id=S833I32].effects[id=4].texts[#1].texts[#0].text": {
+      "pl": "Tak bardzo… ci zazdrościłem…",
+      "kr_sha256": "39a169217546283e5931fc6ebb6df218b853d6061880c01e994fde0b7a1ee640",
+      "en_sha256": "c83f90e8d526572b774dfdd1a6576f7824ea16ac928faadb839cb8ae0493e19a",
+      "origin": "ai"
+    },
+    "dataList[id=S833I32].effects[id=4].texts[#2].texts[#0].text": {
+      "pl": "Chciałem tylko zobaczyć… jaki wynik tam pokażą…",
+      "kr_sha256": "434c11aa26fd4ee63f9a2091550c95b9793eb1127362651dcb501c92b97baaaf",
+      "en_sha256": "f7de5afaa8b0b82a55fd7c5c576e88924177b9beaee44ee4e1c8a13692c56ed0",
+      "origin": "ai"
+    },
+    "dataList[id=S833I3].effects[id=4].texts[#0].texts[#0].text": {
+      "pl": "Kto zmiesza piasek, kamyki, listki i nasiona w najlepszy Bolus — ten wygrywa!",
+      "kr_sha256": "3f1fc91e18af36606349cd25e1abeeff38ace23128162a02a1b1f016b79ef982",
+      "en_sha256": "d240a6398869d80d3b1a673a288a7dd3f1dcdd1e64c872fc94adc3f287c67465",
+      "origin": "ai"
+    },
+    "dataList[id=S833I3].effects[id=4].texts[#1].texts[#0].text": {
+      "pl": "Ja chcę się pobawić w lepienie Bolusów!",
+      "kr_sha256": "541a7ec49133f0cf839feb880681a56cb9059755d985e8f30b4f6a6f85757aaf",
+      "en_sha256": "0421c64762dc189e953c6499d6c54a16e9e1d4160bbe8c1144a17f2a44b69ace",
+      "origin": "ai"
+    },
+    "dataList[id=S833I42].effects[id=3].texts[#0].texts[#0].text": {
+      "pl": "Chodź, mały Baoyu.",
+      "kr_sha256": "22b1bdac2e0b8bd18e3f84bff54e1ed81583a51b4670a456ba24eb81ac73e02e",
+      "en_sha256": "24897d8431e2f5b2eefb8ad9a35b4b51aae2eb3d2f3f4c8fb85578ee1654050d",
+      "origin": "ai"
+    },
+    "dataList[id=S833I42].effects[id=3].texts[#1].texts[#0].text": {
+      "pl": "Pora złożyć poranny pokłon starszyźnie.",
+      "kr_sha256": "f0a092520ca6d2abb32bf099ed3901c245df12efb9fbc915862a4c87d9f3978c",
+      "en_sha256": "18c69ee5554c9989970b7c4be6bbbf06d7ec407374137f041f586b572e313633",
+      "origin": "ai"
+    },
+    "dataList[id=S833I42].effects[id=3].texts[#2].texts[#0].text": {
+      "pl": "Czcigodni Xianren już czekają.",
+      "kr_sha256": "aa94da7004111d94201eb9720bbb9398a22b3969b85a3529e89436e1a6c390c9",
+      "en_sha256": "2e89a85b3fe179c61bc7abd7ecb38b9a422e2b338492047cf11cc097f1eea9df",
+      "origin": "ai"
+    },
+    "dataList[id=S833I42].effects[id=3].texts[#3].texts[#0].text": {
+      "pl": "Czekają wyłącznie na twoje powitanie…",
+      "kr_sha256": "403d83fe8c2903dd9a63e0d2a4233cf99d18e5550ab3102f1e70988247139f75",
+      "en_sha256": "d49a759d4ca7f1bc5cbec51d090dc4dea85b411bf0c9dd6639ef6864b28cd6a4",
+      "origin": "ai"
+    },
+    "dataList[id=S833I42].effects[id=3].texts[#4].texts[#0].text": {
+      "pl": "<b>Nic nie można na to poradzić, paniczku.</b>",
+      "kr_sha256": "464645390943fc33cbc23981090752c317ad7b544c14064329b24064c5a17173",
+      "en_sha256": "ce45a1ea71c9ec7aaa619376481a39ba7dc5162b10741bfb389ada920741ffe6",
+      "origin": "ai"
+    },
+    "dataList[id=S833I42].effects[id=3].texts[#5].texts[#0].text": {
+      "pl": "Najrozsądniej będzie po prostu przyglądać się temu w milczeniu.",
+      "kr_sha256": "35290668ed63b7f4038fae43374c3cdfe22447f993f2950b6faa0382731d3849",
+      "en_sha256": "bc7622fd06e0829f88d2711cb32e1303b9f7937f832149df4180b25a2b57549c",
+      "origin": "ai"
+    },
+    "dataList[id=S833I4].effects[id=3].texts[#0].texts[#0].text": {
+      "pl": "Chodź, mały Baoyu.",
+      "kr_sha256": "22b1bdac2e0b8bd18e3f84bff54e1ed81583a51b4670a456ba24eb81ac73e02e",
+      "en_sha256": "24897d8431e2f5b2eefb8ad9a35b4b51aae2eb3d2f3f4c8fb85578ee1654050d",
+      "origin": "ai"
+    },
+    "dataList[id=S833I4].effects[id=3].texts[#1].texts[#0].text": {
+      "pl": "Pora złożyć poranny pokłon starszyźnie.",
+      "kr_sha256": "f0a092520ca6d2abb32bf099ed3901c245df12efb9fbc915862a4c87d9f3978c",
+      "en_sha256": "18c69ee5554c9989970b7c4be6bbbf06d7ec407374137f041f586b572e313633",
+      "origin": "ai"
+    },
+    "dataList[id=S833I4].effects[id=3].texts[#2].texts[#0].text": {
+      "pl": "Czcigodni Xianren już czekają.",
+      "kr_sha256": "aa94da7004111d94201eb9720bbb9398a22b3969b85a3529e89436e1a6c390c9",
+      "en_sha256": "2e89a85b3fe179c61bc7abd7ecb38b9a422e2b338492047cf11cc097f1eea9df",
+      "origin": "ai"
+    },
+    "dataList[id=S833I4].effects[id=3].texts[#3].texts[#0].text": {
+      "pl": "Czekają wyłącznie na twoje powitanie…",
+      "kr_sha256": "403d83fe8c2903dd9a63e0d2a4233cf99d18e5550ab3102f1e70988247139f75",
+      "en_sha256": "d49a759d4ca7f1bc5cbec51d090dc4dea85b411bf0c9dd6639ef6864b28cd6a4",
+      "origin": "ai"
+    },
+    "dataList[id=S833I52].effects[id=2].texts[#0].texts[#0].text": {
+      "pl": "Właśnie powiedziałeś coś… czego nigdy nie wolno ci było mi powiedzieć, bracie.",
+      "kr_sha256": "029964aa4ad827095cb78c61e869ecef7812f2d560147a2807653d01f39f0797",
+      "en_sha256": "16ec34a4ca3fdf3de666d9d2e19a099a52f02e3ebf0b47b27decc8ab9a3740bb",
+      "origin": "ai"
+    },
+    "dataList[id=S833I52].effects[id=2].texts[#1].texts[#0].text": {
+      "pl": "…Już nigdy więcej nie przyjdę do twojego pokoju.",
+      "kr_sha256": "7ea6453dbc872f209ace064e378aa8b6aaf8f5044092298fc6791bb4e1a9bd14",
+      "en_sha256": "0adce535401b90fc5229305ab81e21aed1da63deca32536841261e23081dece1",
+      "origin": "ai"
+    },
+    "dataList[id=S833I52].effects[id=2].texts[#2].texts[#0].text": {
+      "pl": "Gdybyś tylko… gdybyś tylko mi pomógł…",
+      "kr_sha256": "b798a0e167c107835ca419215f2ec1deb37b12fc1b00dd298954d16744860905",
+      "en_sha256": "f94b7f0d9060ba099d997fd2e6850b650e2d751f7bbdf9fe76d57bfccfcd98c5",
+      "origin": "ai"
+    },
+    "dataList[id=S833I52].effects[id=2].texts[#2].texts[#1].text": {
+      "pl": "Wczorajszy ja mógłby przeżyć.",
+      "kr_sha256": "d35b913c69d337cd7efd4b8564064a556431905d2012b1c95f379a964d2fe700",
+      "en_sha256": "3038667c612bb4355c3705e9f9fa39e26b6f38f73f2b04e656ef33dd8323a2ba",
+      "origin": "ai"
+    },
+    "dataList[id=S833I52].effects[id=2].texts[#3].texts[#0].text": {
+      "pl": "Kiedy ścinają ci głowę, to boli tak potwornie.",
+      "kr_sha256": "d81bb29bd46446a5754861582085faba5041742cc3ba4aa1ae6cc1f50f811f1b",
+      "en_sha256": "8724f676626fbfc73c62b59da225acebf9c8a264b509dc6c6d20b512253885de",
+      "origin": "ai"
+    },
+    "dataList[id=S833I52].effects[id=2].texts[#3].texts[#1].text": {
+      "pl": "Boli, a nie możesz nawet krzyknąć. Wiesz, jakie to uczucie?",
+      "kr_sha256": "9b2e60af0d2b22bfb8bfb11893020d77c51ae0b9d00a88a1e6f8734c2335a608",
+      "en_sha256": "63dd2df244fda0d5de97895dcb2ab3ca5ef421ae66173c4f6331875af4dedac2",
+      "origin": "ai"
+    },
+    "dataList[id=S833I52].effects[id=2].texts[#3].texts[#2].text": {
+      "pl": "…Obyś do końca życia zaznawał już wyłącznie cierpienia.",
+      "kr_sha256": "f1014863c3babcb65eebb7a992bf147df30d3f6f8b98fdfb1fe9f3ac75484876",
+      "en_sha256": "21f12fd3cd8b6eb5b51839194738cb2d55b1411eb191823a44440a89c68bf5a5",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#0].texts[#0].text": {
+      "pl": "Właśnie powiedziałeś coś… czego nigdy nie wolno ci było mi powiedzieć, bracie.",
+      "kr_sha256": "029964aa4ad827095cb78c61e869ecef7812f2d560147a2807653d01f39f0797",
+      "en_sha256": "16ec34a4ca3fdf3de666d9d2e19a099a52f02e3ebf0b47b27decc8ab9a3740bb",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#1].texts[#0].text": {
+      "pl": "…Już nigdy więcej nie przyjdę do twojego pokoju.",
+      "kr_sha256": "7ea6453dbc872f209ace064e378aa8b6aaf8f5044092298fc6791bb4e1a9bd14",
+      "en_sha256": "0adce535401b90fc5229305ab81e21aed1da63deca32536841261e23081dece1",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#2].texts[#0].text": {
+      "pl": "Wczorajszy ja mógłby przeżyć.",
+      "kr_sha256": "d35b913c69d337cd7efd4b8564064a556431905d2012b1c95f379a964d2fe700",
+      "en_sha256": "3038667c612bb4355c3705e9f9fa39e26b6f38f73f2b04e656ef33dd8323a2ba",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#3].texts[#0].text": {
+      "pl": "…Obyś do końca życia zaznawał już wyłącznie cierpienia.",
+      "kr_sha256": "f1014863c3babcb65eebb7a992bf147df30d3f6f8b98fdfb1fe9f3ac75484876",
+      "en_sha256": "21f12fd3cd8b6eb5b51839194738cb2d55b1411eb191823a44440a89c68bf5a5",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#4].texts[#0].text": {
+      "pl": "Baoyu, babcia i mama mówią,",
+      "kr_sha256": "817c2f29e556cb3a20a9acb67074aece17a361fa25547f9ff8ca8c7a77000e74",
+      "en_sha256": "89580437f3187cbd67fc323cf7811c1a34de2bfb5a630b2c2e67f1839bc176f1",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#4].texts[#1].text": {
+      "pl": "że w całym Daguanyuanie nie ma panny godnej ciebie poza mną.",
+      "kr_sha256": "88e9f30af3ee594a2c1a3fbafc5ffebd3c75115b5b2b9302f1949474b5020729",
+      "en_sha256": "075699d6e15d83082d0376be5dfb051ce0a328a044c52ec9a8998d720fa934d9",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#5].texts[#0].text": {
+      "pl": "Będziemy oglądać tylko najpiękniejsze widoki, jadać najlepsze potrawy i żyć szczęśliwie w dostatku.",
+      "kr_sha256": "ba1fff97c0ec6eb3388c5934fc7b6150975758e57e0eff703dbaf1cf8eb93a9e",
+      "en_sha256": "3e2765df549cc9c9c8b990a82e211d79eb0872f11c4a0816723056f4d3cfa616",
+      "origin": "ai"
+    },
+    "dataList[id=S833I53].effects[id=2].texts[#6].texts[#0].text": {
+      "pl": "Prawda, że nie możesz się doczekać?",
+      "kr_sha256": "040fcec42c4add348c9ad26281180a33742010cd8e217e1cda2d8b6df0b73f22",
+      "en_sha256": "b38ac4c707acbdef0ba16fbd87bf426f0c04ee875770b6e3ff19c247151a20ac",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#0].texts[#0].text": {
+      "pl": "Właśnie powiedziałeś coś… czego nigdy nie wolno ci było mi powiedzieć, bracie.",
+      "kr_sha256": "029964aa4ad827095cb78c61e869ecef7812f2d560147a2807653d01f39f0797",
+      "en_sha256": "16ec34a4ca3fdf3de666d9d2e19a099a52f02e3ebf0b47b27decc8ab9a3740bb",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#1].texts[#0].text": {
+      "pl": "…Już nigdy więcej nie przyjdę do twojego pokoju.",
+      "kr_sha256": "7ea6453dbc872f209ace064e378aa8b6aaf8f5044092298fc6791bb4e1a9bd14",
+      "en_sha256": "0adce535401b90fc5229305ab81e21aed1da63deca32536841261e23081dece1",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#2].texts[#0].text": {
+      "pl": "Wczorajszy ja mógłby przeżyć.",
+      "kr_sha256": "d35b913c69d337cd7efd4b8564064a556431905d2012b1c95f379a964d2fe700",
+      "en_sha256": "3038667c612bb4355c3705e9f9fa39e26b6f38f73f2b04e656ef33dd8323a2ba",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#3].texts[#0].text": {
+      "pl": "…Obyś do końca życia zaznawał już wyłącznie cierpienia.",
+      "kr_sha256": "f1014863c3babcb65eebb7a992bf147df30d3f6f8b98fdfb1fe9f3ac75484876",
+      "en_sha256": "21f12fd3cd8b6eb5b51839194738cb2d55b1411eb191823a44440a89c68bf5a5",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#4].texts[#0].text": {
+      "pl": "że w całym Daguanyuanie nie ma panny godnej ciebie poza mną.",
+      "kr_sha256": "88e9f30af3ee594a2c1a3fbafc5ffebd3c75115b5b2b9302f1949474b5020729",
+      "en_sha256": "075699d6e15d83082d0376be5dfb051ce0a328a044c52ec9a8998d720fa934d9",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#5].texts[#0].text": {
+      "pl": "Będziemy oglądać tylko najpiękniejsze widoki, jadać najlepsze potrawy i żyć szczęśliwie w dostatku.",
+      "kr_sha256": "ba1fff97c0ec6eb3388c5934fc7b6150975758e57e0eff703dbaf1cf8eb93a9e",
+      "en_sha256": "3e2765df549cc9c9c8b990a82e211d79eb0872f11c4a0816723056f4d3cfa616",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#6].texts[#0].text": {
+      "pl": "Prawda, że nie możesz się doczekać?",
+      "kr_sha256": "040fcec42c4add348c9ad26281180a33742010cd8e217e1cda2d8b6df0b73f22",
+      "en_sha256": "b38ac4c707acbdef0ba16fbd87bf426f0c04ee875770b6e3ff19c247151a20ac",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#7].texts[#0].text": {
+      "pl": "Zamierzasz teraz zamknąć się w czterech ścianach swojego pokoju?",
+      "kr_sha256": "7afecf1a9125da706d425aaa6ed4626e62d693e4b9eb7c14ee20809c831ec2a4",
+      "en_sha256": "06a1b6c8d92a2629e9096e1e3689922a6132c36460436d3b9357b85cd0c33adb",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#7].texts[#1].text": {
+      "pl": "Sama już nie wiem, co mam robić, ilekroć widzę ten twój uśmiech, braciszku…",
+      "kr_sha256": "3826989670c0595205582a37a2ab88287b58abca58a1c88a8c699ea2c01b62f3",
+      "en_sha256": "08412dbc37766a23fe4366d2041ba080524a5a79e7dad64743c548129de7157d",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#8].texts[#0].text": {
+      "pl": "Ilekroć widzę ten twój uśmiech…",
+      "kr_sha256": "718cc103a50b908ba297ec8dc101407d71894022b471335044cb405da7496404",
+      "en_sha256": "c96bb91c75f71af0155ea29e93069540aa3bc945a057aa7f5f26aa07a823a868",
+      "origin": "ai"
+    },
+    "dataList[id=S833I54].effects[id=2].texts[#8].texts[#1].text": {
+      "pl": "Najpierw mnie przyciąga… a zaraz potem budzi taką odrazę, że nie mogę na niego patrzeć.",
+      "kr_sha256": "691334d925db525d81d09b5b546fc183c7916c4171f5f6fe1d72c1442361d8ba",
+      "en_sha256": "438d309e65298363e7fbf874396ef9eb58fe570ec39fe7edf6cdea84d0a30809",
+      "origin": "ai"
+    },
+    "dataList[id=S833I5].effects[id=2].texts[#0].texts[#0].text": {
+      "pl": "Właśnie powiedziałeś coś… czego nigdy nie wolno ci było mi powiedzieć, bracie.",
+      "kr_sha256": "029964aa4ad827095cb78c61e869ecef7812f2d560147a2807653d01f39f0797",
+      "en_sha256": "16ec34a4ca3fdf3de666d9d2e19a099a52f02e3ebf0b47b27decc8ab9a3740bb",
+      "origin": "ai"
+    },
+    "dataList[id=S833I5].effects[id=2].texts[#1].texts[#0].text": {
+      "pl": "…Już nigdy więcej nie przyjdę do twojego pokoju.",
+      "kr_sha256": "7ea6453dbc872f209ace064e378aa8b6aaf8f5044092298fc6791bb4e1a9bd14",
+      "en_sha256": "0adce535401b90fc5229305ab81e21aed1da63deca32536841261e23081dece1",
+      "origin": "ai"
+    }
+  }
+}

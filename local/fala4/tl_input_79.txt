@@ -1,0 +1,96 @@
+7668||PersonVoice#Voice_Faust_KumoRings_10215.json] 이제야 친해졌네요.|Only now have we become friends.
+7669||PersonVoice#Voice_Faust_KumoRings_10215.json] 조금 멀리서, 눈으로만 감상하시길.|Please observe from a distance—it's for viewing only.
+7670||PersonVoice#Voice_Faust_KumoRings_10215.json] 교류회, 설레네요.|A critique salon! Exhilarating prospect.
+7671||PersonVoice#Voice_Faust_KumoRings_10215.json] 논 에 벨로(Non è bello). 아름답지 않네요.|Non è bello. Devoid of beauty.
+7672||PersonVoice#Voice_Faust_KumoRings_10215.json] 케 벨로(Che bello). 절묘하군요.|Che bello. Exquisite.
+7673||PersonVoice#Voice_Faust_KumoRings_10215.json] 이 떨림… 파시아도 기대되시나요?|This quivering... Are you excited too, Fascia?
+7674||PersonVoice#Voice_Faust_KumoRings_10215.json] 집중해서 들어주세요. 파시아의 고동을. 약동하는 이 생명의 소리를!|Focus your ears and listen. Listen to Fascia's heartbeat... this pulsating sound of life!
+7675||PersonVoice#Voice_Faust_KumoRings_10215.json] 일어났나요, 파시아? 파우스트는 새로운 친구를 소개하고 싶어서 파시아를 기다리고 있었답니다.\n어떤가요? 멋진 살점을 가지신 분이죠?|Have you woken up, Fascia? Faust has been waiting—there is a new friend Faust wants to introduce to Fascia.\nHow is it? Such a splendid piece of corpus our new friend has, yes?
+7676||PersonVoice#Voice_Faust_KumoRings_10215.json] 파시아는 잠이 많아요. 그러니 너무 이른 시간에 파우스트를 찾진 마시길.|Fascia is a sleepyhead. Please refrain from visiting Faust in the early hours.
+7677||PersonVoice#Voice_Faust_KumoRings_10215.json] 태양빛이 사그라들고, 조도가 낮아지면 기존과 다른 새로운 아이디어가 떠오르죠. 선홍빛 장기들은 칙칙한 고동색으로 변하면서 그림자에게 깎여나갔던 형태감이 온전한 순수함으로 돌아오는 시간…\n아, 그랬군요…! 작품을 수선할 것이 아니라 빛을 수선해야 해결되는 과제였던 거로군요…!|When sunlight fades and luminous intensity attenuates, new ideas, untethered from prior renderings, begin to articulate themselves. It is a time when bright-red organs desaturate into earthen brown, and their three-dimensionality, released from chiaroscuro, returns to a state of unmediated neutrality...\nAh, of course...! The assignment was never about amending the work, but light itself!
+7678||PersonVoice#Voice_Faust_KumoRings_10215.json] 크리틱이 취소되어서 시간이 남아버리게 되었군요. 파시아, 당신이라면 이 여유 시간을 어떻게 해야 창의적으로 보낼 수 있다고 생각하나요?\n흠… 네. 훗. 파우스트도 그렇게 생각한답니다.|The critique session has been canceled—now there is some time left. How would you propose we spend this leisure in a more creative manner, Fascia?\nHmm... Yes. *chuckle* Faust is in agreement.
+7679||PersonVoice#Voice_Faust_KumoRings_10215.json] …파시아에겐 휴식이 필요해요. 어쩌면 파우스트에게도 필요할 테죠.|... Fascia needs rest. Perhaps Faust does, too.
+7680||PersonVoice#Voice_Faust_KumoRings_10215.json] 반가워요. 저희, 친해지는 시간을 가져볼까요? 그다지 어렵지 않답니다, 파우스트 같은 천재가 아니더라도요. 무엇을 좋아하는지, 취미로는 무엇을 하는지… 그런 것들을 공유하면 되죠.\n아… 해결사와 지령에 대한 이야기는 저장 한도 초과라, 다른 것이라면 좋겠네요.|A pleasure. Would you be willing to spend some time getting to know each other? Surely it won't be too hard to become friends—even for those who aren't geniuses like Faust. It's as simple as sharing the things we love, our hobbies, our dreams... yes, such things should be enough.\nAh, but preferably, something that excludes Fixer stories and the Prescripts. There has been an overload of such tales lately.
+7681||PersonVoice#Voice_Faust_KumoRings_10215.json] 괜찮다면 말이죠, 파우스트에게 뇌 조각을 선물해줄 수 있을까요? 친한 사람끼리는 선물을 주고 받잖아요. 파시아에게 새로운 뇌를 먹여보고 싶어서 말이에요. 파우스트 것은 이미 몇 조각 먹였거든요. 더 잘라내 버린다면 파우스트를 잃어버릴 수 있기 때문에… 부탁드려요.|If it's not too much trouble, could you gift a piece of your brain to Faust? Friends are supposed to exchange gifts, aren't they? Faust wishes to give Fascia a fresh taste of an unfamiliar brain, you see. She's already had a few slices of Faust's own, and carving away more would risk losing Faust... Please, your generosity would be most welcome.
+7682||PersonVoice#Voice_Faust_KumoRings_10215.json] 보이는 것만이 전부인 것이 미학이지만, 너무나 당연하기 때문에 그 소중함을 놓치기 마련이죠.\n그렇기 때문에 파우스트는 온몸을 감싸는 갑옷을 만들었어요. 파시아의 부끄러움을 숨겨주려는 것도 있지만… 갑옷을 입었을 때의 둔탁한 움직임과, 비로소 벗었을 때 드러나는 신체의 자유와 아름다움이라는 이중적인 미학.\n보이지 않던 것이 보여질 때 얻는 갭의 차이… 느껴지시나요?|Aesthetics concerns itself entirely with the visible, yet this self-evident familiarity often invites neglect that overlooks the inherent significance of what is seen.\nIt is because of this that Faust forged this panoply. Not merely to provide a veil behind which the bashful Fascia might reside, but also to stage a dual aesthetic: the weighted inertia of the armored body against the beautiful liberation of the repressed flesh upon shedding the encasement.\nThe thrill of the gap that arises when the unseen becomes seen... does it resonate with you?
+7683||PersonVoice#Voice_Faust_KumoRings_10215.json] 자, 저희 좀 더 친해져 볼까요. 함께 해체의 아름다움을 논하며, 제 동체에 대한 평가를 내려주세요. 부디 냉철하고 객관적인 평가를 부탁드립니다. 어디를 더 개선해야 할지, 파우스트는 궁금하거든요.|Now then, shall we deepen our friendship one step further? Let us examine the artistry of anatomization together as you critique the assembly that forms my body. A candid, impartial assessment would be most welcome—Faust is eager to identify areas for further refinement.
+7684||PersonVoice#Voice_Faust_KumoRings_10215.json] 파시아. 더욱 크게 고동쳐 주세요. 당신의 신체에 돌고 있는 혈액이 빠르게 돌수록 금세 배고파질 테니까요.\n오늘은 포식을 해야 하는 날이랍니다. 끊임없이 살점을 먹어서 당신을 살찌워 주세요. 그럴수록 당신은 더 아름다운 작품으로 거듭날테니.|Let the cadence of your heartbeat surge, Fascia. As your blood quickens, so too will hunger.\nToday is a day that calls for a feast. Please eat up—there is no need to hold yourself back. Grow corpulent with each piece of corpus consumed. Such excess will elevate you into a more beautiful composition.
+7685||PersonVoice#Voice_Faust_LCB_10201.json] 효율적이진 않네요.|That wasn’t the most efficient.
+7687||PersonVoice#Voice_Faust_LCB_10201.json] 이런 일에 기뻐해야 할 이유가 있을까요?|Is there a reason to be excited over this?
+7688||PersonVoice#Voice_Faust_LCB_10201.json] 예상보다는 조금 우수해졌군요.|You’ve become more competent than once expected.
+7689||PersonVoice#Voice_Faust_LCB_10201.json] 많은 기대는 걸지 않았어요.|Much wasn’t expected out of you.
+7690||PersonVoice#Voice_Faust_LCB_10201.json] 행동을 개시합니다.|Commencing action.
+7691||PersonVoice#Voice_Faust_LCB_10201.json] 지금이 기회입니다.|An opportunity has arrived.
+7692||PersonVoice#Voice_Faust_LCB_10201.json] 당연한 결과죠.|An obvious outcome.
+7693||PersonVoice#Voice_Faust_LCB_10201.json] 무슨 일인가요? 관리자님.|What is it, Manager?
+7694||PersonVoice#Voice_Faust_LCB_10201.json] 따라갈 준비는 끝났습니다.|I’m ready to accompany you.
+7695||PersonVoice#Voice_Faust_LCB_10201.json] 실패에 연연해하지 마세요.|Try not to dwell on this failure.
+7696||PersonVoice#Voice_Faust_LCB_10201.json] 성공에 연연해하지 마세요.|Try not to cling to this success.
+7697||PersonVoice#Voice_Faust_LCB_10201.json] 따라가겠어요.|I’ll tag along.
+7698||PersonVoice#Voice_Faust_LCB_10201.json] 파우스트예요. 당신이 인생에서 한 번 마주칠까 말까 하는 천재죠.|It’s Faust. A genius with whom you’re lucky to cross paths even once in your life.
+7699||PersonVoice#Voice_Faust_LCB_10201.json] 옛날부터 3시간 이상의 수면을 취하면 저절로 눈이 떠지곤 했어요. 자연스러운 현상인 줄 알았는데 모든 분들이 그렇진 않더군요.|I would always get up after three hours of sleep. I thought it was a natural phenomenon, but I later learned it wasn’t the case for every individual.
+7700||PersonVoice#Voice_Faust_LCB_10201.json] 취미라는 걸 구태여 만들진 않지만, 한때는 별을 관측하는 걸 즐기곤 했어요.|Though I don’t bother myself much with hobbies, I once enjoyed stargazing.
+7701||PersonVoice#Voice_Faust_LCB_10201.json] 파우스트는 잠깐의 햇빛을 쬐는 행위를 유용한 활동이라고 여겨요.|Faust considers short periods of exposure to sunlight to be a useful activity.
+7702||PersonVoice#Voice_Faust_LCB_10201.json] 잠깐의 일탈 정도는 허용범위에요.|Brief deviations are within permitted ranges.
+7703||PersonVoice#Voice_Faust_LCB_10201.json] …일단 불러놓고 할 말을 생각하시는 유형이라면, 문서 전달을 추천드려요.|…If you’re the type of person who likes to summon others before considering what to say, I would suggest using documents to communicate.
+7704||PersonVoice#Voice_Faust_LCB_10201.json] 수감자들 별로 대화의 수준 차이를 다르게 적용할지 생각 중이에요. 두 번 이상씩 말을 반복하는 건 비효율적이니까요.|I’m considering adjusting my level of speech for different Sinners. Repeating myself twice or more can be rather inefficient.
+7705||PersonVoice#Voice_Faust_LCB_10201.json] 단테, 모든 답을 알고 있다는 뜻이 제가 모든 질문에 대답해줄 수 있다는 뜻은 아니에요.|Dante, I want you to understand that omniscience does not necessarily mean a willingness to answer your every question.
+7706||PersonVoice#Voice_Faust_LCE_10211.json] 흣…|Hngh...
+7707||PersonVoice#Voice_Faust_LCE_10211.json] 실험 종료. 선행 연구에서 진전된 부분은 없네요. 실패하진 않았지만, 성공이라 볼 수도 없을 테죠.|Experiment complete. No progress from the preceding research data. Not a failure, but this can hardly be deemed a success.
+7708||PersonVoice#Voice_Faust_LCE_10211.json] E.G.O 동화율 정상. 개체의 행동 패턴 추출 완료. 이 정도 성과라면, 다음 연구로 이어나갈 수 있겠군요.|E.G.O Synchronization rate normal. Subject behavior pattern extraction complete. Progressing to the next research seems viable at this level of success.
+7709||PersonVoice#Voice_Faust_LCE_10211.json] 이 실험은… 실패하겠군요…|This experiment... will be a failure...
+7710||PersonVoice#Voice_Faust_LCE_10211.json] …E.G.O::홍염살의 파손률 70%. 더 이상의 실험 속행은 불가능합니다. 이 실험은… 조금 더 많은 준비가 필요하겠네요.|... E.G.O:Ardor Blossom Star damage level at 70%. Experiment continuation is infeasible. ... Further preparation seems necessary before the continuation of this experiment.
+7711||PersonVoice#Voice_Faust_LCE_10211.json] 개체 억압, 진행하겠습니다.|Proceeding with subject repression.
+7712||PersonVoice#Voice_Faust_LCE_10211.json] 형태 붕괴 확인.|Structural integrity collapse confirmed.
+7713||PersonVoice#Voice_Faust_LCE_10211.json] 개체. 소각되었습니다.|Subject incinerated.
+7714||PersonVoice#Voice_Faust_LCE_10211.json] 다가오지 마세요. 이 불꽃은, 어디까지라도 번질 수 있으니.|Keep your distance. This flame spreads far.
+7715||PersonVoice#Voice_Faust_LCE_10211.json] 개체 유형 확인.|Subject type identified.
+7716||PersonVoice#Voice_Faust_LCE_10211.json] …변수 확인. 새로운 가설이 필요하겠군요.|... New variable identified. The hypothesis will have to be updated.
+7717||PersonVoice#Voice_Faust_LCE_10211.json] 실험 성공. 예상대로의 결과네요.|Experiment success. As expected.
+7718||PersonVoice#Voice_Faust_LCE_10211.json] 이번엔 어떤 실험인가요.|What kind of experiment is it, this time?
+7719||PersonVoice#Voice_Faust_LCE_10211.json] 아른거리는 불에 홀려 다가온다면, 흔적도 없이 태워버릴 뿐.|Those enticed by the lapping flames will be incinerated without a trace.
+7720||PersonVoice#Voice_Faust_LCE_10211.json] 개체의 전투 위협도 다소 높음, 하지만 특정 상황에서 자멸하는 특성을 반영하여… 홍염나방 최종 판정, WAW-5.|Subject's engagement threat level: moderately high. However, considering its self-destructive nature under specific circumstances... Ardor Blossom Moth final designation: WAW-5.
+7721||PersonVoice#Voice_Faust_LCE_10211.json] 오전에 해야할 일로는 뒤틀림 진행 척도 확인, 죄종 개체수 점검, 환상체 격리 작업이 있습니다.\n오늘 하루도 꽤 바쁜 일정이 되겠군요.|The following tasks must be completed this morning: Distortion progression rate check, Peccatula population inspection, and Abnormality containment work.\nThere is much to be done today.
+7722||PersonVoice#Voice_Faust_LCE_10211.json] 이상 씨, 열의는 좋지만, 너무 늦은 수면은 연구 효율에 악영향을 줍니다. LCE는 연구원의 정시 퇴근을…\n뭐. 이렇게 말해도 소용없겠군요. <color=#d4e1e8>자, 잠깐 불은 끄지 마시오. 아직…</color>|Yi Sang. Your passion is admirable, but delayed bedtime may adversely affect the efficacy of your research contributions. LCE promotes the timely departure of its employees—\n... Well, I don't suppose mere words will make him budge. <color=#d4e1e8>J-just a moment, I implore you to leave the lights on for now. There is still much—</color>
+7723||PersonVoice#Voice_Faust_LCE_10211.json] 클리어 부서의 애프터 팀에서 새로운 환상체를 포획. 운반 중입니다.\n점심 시간은… 새 환상체에 대한 연구 시간으로 대신하는 편이 좋겠네요.|The After Team of the Clearance department has captured a new Abnormality, which is currently en route to this facility.\nIt may be best that we replace today's allotted lunchtime with... research time for the new Abnormality.
+7724||PersonVoice#Voice_Faust_LCE_10211.json] …관측이 끝나셨다면, 단말기는 종료하시는 걸 추천드립니다.|... If you have completed your observation, it is recommended that you turn off the device.
+7725||PersonVoice#Voice_Faust_LCE_10211.json] 음. 유능함을 기준으로 보자면 LCE의 수석 연구원은 파우스트여야 옳습니다.\n그저… 지금의 제가 있을 자리가 아닌 것 뿐일 테죠.|Mm. If merit were to be the sole criterion by which one's aptitude for the LCE Chief researcher position may be measured, then that role would have rightly gone to Faust.\nYet... that is simply not my place to be as I am now.
+7726||PersonVoice#Voice_Faust_LCE_10211.json] 뒤틀림이나 환상체는, 파우스트 정도의 천재가 아니라면 단순한 통계와 이론만으로 접근해서는 안 됩니다.\n시류를 읽는 직관과 학습에 대한 열의… 거기에 약간의 행운도 필요할 테죠.|Unless one is a genius of Faust's caliber, one mustn't approach Distortions and Abnormalities equipped with only basic statistics and theories.\nThe other ingredients include intuition to be able to identify and read the trends, passion for the academics, and... some luck.
+7727||PersonVoice#Voice_Faust_LCE_10211.json] PE 박스 형태로 추출되는 엔케팔린부터, 무너진 지부 출신의 연구원까지… LCE가 로보토미 코퍼레이션을 실질적으로 계승했다고 봐도 무방하겠죠.\n아직은 그 흔적을 쫓아가기 바쁘지만, 머지않아 앞서는 날도 도래할 것입니다.|LCE extracts Enkephalin in PE-Box forms and even employs a former L Corp. branch researcher... It would be no hyperbole to say that LCE has, in every way that matters, succeeded Lobotomy Corporation.\nThough we are still quite busy playing catch-up, we will one day surpass them.
+7728||PersonVoice#Voice_Faust_LCE_10211.json] 날개는 인간에게 없는 신체 부위였기에, 처음 이 E.G.O로 날아오를 때는 많은 시행착오가 있었습니다. 그때를 생각하면… 실험섹터의 천장은 조금 높아지는 편이 좋을 것 같군요.|Given that wings were not originally a part of the human set of limbs, the very first attempts at flight with this E.G.O gear resulted in several... trials and errors. Using this experience as a lesson, perhaps it would be wise to raise the ceilings of the experiment sector somewhat.
+7729||PersonVoice#Voice_Faust_LCE_10211.json] LCE에 모인 연구원들은 대부분 새로운 지식을 쫓아 모여들었죠. 마치, 불빛에 홀려 모여든 나방떼처럼.\n파우스트도 마찬가지였죠. 어쩌면 이 E.G.O를 배정 받은 것도 같은 이유일지도 모르겠네요.|Most researchers here at the LCE were enticed by the promise of new knowledge—like moths drawn to a flicker of flame.\nSo was Faust. Perhaps that explains the assignment of this E.G.O.
+7730||PersonVoice#Voice_Faust_LEGO_10207.json] 엇…|Uh...
+7731||PersonVoice#Voice_Faust_LEGO_10207.json] 제압 작업은 이것으로 완료하면 되겠군요. 다시 관리 작업으로 돌아가겠습니다.|We can end the Suppression Work here. Returning to management.
+7732||PersonVoice#Voice_Faust_LEGO_10207.json] 제압 완료. 경보에는 익숙해지시는게 좋을 겁니다. 아직 50일까지 많은 날이 남은 것을 파우스트는 알고 있으니까요.|Threat Suppressed. I recommend that you familiarize yourself with these alarms. Faust knows that we have many days to go before the 50th day.
+7733||PersonVoice#Voice_Faust_LEGO_10207.json] 제압작업 실패…|Suppression Work failed...
+7734||PersonVoice#Voice_Faust_LEGO_10207.json] 지휘팀 제압 실패. 다음 부서에게 지원을 요청합니다…|Control Team's Suppression Work failed. Requesting assistance from the other departments...
+7735||PersonVoice#Voice_Faust_LEGO_10207.json] 탈출 개체 확인.|Containment Breach confirmed.
+7736||PersonVoice#Voice_Faust_LEGO_10207.json] 개체가 약화되는 것 같습니다.|The entity is weakening.
+7737||PersonVoice#Voice_Faust_LEGO_10207.json] 탈출 개체가 정리되었습니다.|Escaped entity neutralized.
+7738||PersonVoice#Voice_Faust_LEGO_10207.json] 다른 작업이 필요한가요?|Do you require more Work to be done?
+7739||PersonVoice#Voice_Faust_LEGO_10207.json] 제압을 준비합니다.|Preparing to suppress.
+7740||PersonVoice#Voice_Faust_LEGO_10207.json] 적합하지 않은 관리 작업이었군요… 관리 기록에 적어둬야겠습니다.|This Work does not align with my strengths... I will make a note of it in the logs.
+7741||PersonVoice#Voice_Faust_LEGO_10207.json] 보조 업무로 수행하기에 나쁘지 않은 일이네요.|That was an adequate side work.
+7742||PersonVoice#Voice_Faust_LEGO_10207.json] 준비 되었습니다.|I am ready.
+7743||PersonVoice#Voice_Faust_LEGO_10207.json] 지휘팀 관리직 팀장 파우스트. 관리자 님의 명령대로 녹빛 여명 시련 제압에 들어갑니다.|Control Team Captain, Agent Faust. Commencing suppression of the Green Dawn Ordeal as per the Manager's orders.
+7744||PersonVoice#Voice_Faust_LEGO_10207.json] T-01-54, 격리 환상체에 대한 작업을 시작합니다.|Starting work on Contained Abnormality T-01-54.
+7745||PersonVoice#Voice_Faust_LEGO_10207.json] 아, 좋은 아침입니다. 관리자님. 오늘 진행될 환상체의 작업 순서를 준비해 주신다면, 팀원들에게 전달하겠습니다.|Good morning, Manager. Please share with me today's descending list of Work for the Abnormalities, and I will relay it to the team.
+7746||PersonVoice#Voice_Faust_LEGO_10207.json] 금일 작업은 95% 마무리가 되었습니다. 정상적으로 목표하던 PE-BOX에 도달할 것 같네요. 오늘도 고생 많으셨습니다.|Work progress at 95%. We should have no trouble reaching our target PE-Box goal today. Good work.
+7747||PersonVoice#Voice_Faust_LEGO_10207.json] 사무직 분들은 사이좋게 모여서 식사를 하시는 것 같네요. 저희 지휘팀 관리직은 특별히 그룹을 지어 식사하진 않는데… 말쿠트님은 저런 것을 원했을까요.|It seems to me that the Clerks are having a nice lunch together. Us Control Team Agents don't particularly prefer to dine in groups... But I must wonder if that is what Ms. Malkuth would want us to do.
+7748||PersonVoice#Voice_Faust_LEGO_10207.json] …또, 머리를 부딪히는 소리…|... More banging noises, again...
+7749||PersonVoice#Voice_Faust_LEGO_10207.json] '버려진 살인마' 말씀이시군요. 특별하게 선호하는 작업이 없는 것이 특징이라고 할 수 있겠네요. 아, 억압 작업만은 피하는 것이 좋아 보였습니다.|The 'Forsaken Murderer'? Hm. I suppose it stands out in that it does not have a particular preference for any kind of Work. It seemed that avoiding Repression Work is advisable, however.
+7750||PersonVoice#Voice_Faust_LEGO_10207.json] 작업에 대한 이해도가 있는 직원이 담당하면, 크게 문제될 것도 없어보입니다. 다만, 나쁜 작업 결과는 환상체의 탈출로 이어지니… 그 부분을 유념해주시면 좋겠습니다.|I foresee little trouble ahead, as long as the assigned employee has a decent understanding of this Work. A bad result, however, may lead to Abnormalities breaching containment.
+7751||PersonVoice#Voice_Faust_LEGO_10207.json] 배정받은 E.G.O 수트는 무난히 쓸만한 것 같습니다. 화이트 피해에는 약하여, 정신이 여린 직원들은 간혹 이 구속구가 자기를 조이는 것 같다는 이야기도 나오지만요…|The E.G.O suits assigned to us seem adequate. However, I have been hearing reports from employees with weaker mental fortitude that it feels as though the straight-jacket is contracting around them. These suits are weak to WHITE damage, after all...
+7752||PersonVoice#Voice_Faust_LEGO_10207.json] 어느새 채워져있는 E.G.O 기프트가 예상한 것보다 불편하지는 않습니다.|This E.G.O gift isn't as uncomfortable as I expected. Though it was equipped without my knowledge.
+7753||PersonVoice#Voice_Faust_LEGO_10207.json] 머리가 철이 되어간다는 느낌은 무엇이었을까요. 이 망치를 휘둘러 적을 으깨버릴 때마다, 그것은 자신의 머리가 두드려지는 기분을 느끼게 되는 걸까요.|I am curious: how does it feel when its head slowly turns into metal? Can it feel that? Does its head ring when this hammer crushes our enemies?
+7755||PersonVoice#Voice_Faust_Meca_10210.json] 이 정도 승리는 당연한 일이죠. 파우스트의 지식대로 움직였으니까요.|A predictable victory, guided by Faust's knowledge.
+7756||PersonVoice#Voice_Faust_Meca_10210.json] 계획보다 더 일찍 의뢰를 완수했네요. 저와 파우스트의 뛰어난 능력 덕분이지만, 여러분의 노력도 나쁘지 않았어요.|This contract was completed far ahead of schedule. A majority of credit would go to Faust and my expertise, but your effort was at an acceptable level as well.
+7757||PersonVoice#Voice_Faust_Meca_10210.json] 보험은… 들어두었습니다…|I have... insurance...
+7758||PersonVoice#Voice_Faust_Meca_10210.json] 원정은 실패했습니다. 퇴각 후 파손된 의체를 교체하고, 다시 준비해야겠군요.|This expedition was a failure. Expeditious retreat and prosthetic replacement are necessary before we prepare for the expedition once again.
+7759||PersonVoice#Voice_Faust_Meca_10210.json] 공격 범위 확인.|Attack range confirmed.
+7760||PersonVoice#Voice_Faust_Meca_10210.json] 효율적으로…|Efficiently...
+7761||PersonVoice#Voice_Faust_Meca_10210.json] …처리했습니다.|... dispatched.
+7762||PersonVoice#Voice_Faust_Meca_10210.json] 계획을 잊으셨나요?|Have you forgotten the plan?
+7763||PersonVoice#Voice_Faust_Meca_10210.json] 모델 40Y-3 충전. 전투 준비 완료.|Model 40Y-3 fully charged. Ready for deployment.
+7764||PersonVoice#Voice_Faust_Meca_10210.json] 오류가 있었군요.|There was an error.
+7765||PersonVoice#Voice_Faust_Meca_10210.json] 파우스트의 계산대로네요.|As per Faust's calculations.

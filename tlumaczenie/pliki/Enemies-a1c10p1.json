@@ -1,0 +1,184 @@
+{
+  "entries": {
+    "dataList[id=1465].desc": {
+      "pl": "1F Boss",
+      "kr_sha256": "e145dd1602f6f90cc92e0483f13bfe5e4ff75d844b692f1bbb97177dd9ec7d8a",
+      "en_sha256": "52463efde6bf2246ceb154880fa413cd633a9db2dec563d2bcbf0b757a2e7c6c",
+      "origin": "ai"
+    },
+    "dataList[id=1465].name": {
+      "pl": "Le Noir Sales Associate Gustave",
+      "kr_sha256": "ab843b2e427e191df2dcc54e767169d2bee47493e3bd7b3c913860b3f14ce98d",
+      "en_sha256": "b8c02e3a7aa171fcab4e7131c07aac0f19126e75ac783f1a7390275a82f6da49",
+      "origin": "ai"
+    },
+    "dataList[id=1466].name": {
+      "pl": "L'Inamovible",
+      "kr_sha256": "586c2622db03b8d40407ab2c21cb4db82fea0e4d6c6a7b43d42cad32efb9e965",
+      "en_sha256": "e5e595fcb953a6761a2b4ca6d2f53b69114540352e21cbbffe8b1e37e0c09a49",
+      "origin": "ai"
+    },
+    "dataList[id=1474].name": {
+      "pl": "Sous Chef",
+      "kr_sha256": "5af97ef7743351695eaea0bdeb0651783ac3cfa1af8e50283332a0105ee5b4e5",
+      "en_sha256": "a98ea5e4966c3f5558e724144bba1639fac0482cf26b5ce73594f7f0d26225b1",
+      "origin": "ai"
+    },
+    "dataList[id=1475].name": {
+      "pl": "Leather Wallet",
+      "kr_sha256": "ddc3cc3397f67f8f587ca2fd89a26f46d5a13984107fc936e874c524206f6fb4",
+      "en_sha256": "c10f8e59e0fb3fe894481713b7542a2bc80c18b71fab17c2f071fc865e3889a2",
+      "origin": "ai"
+    },
+    "dataList[id=1480].name": {
+      "pl": "Leather Wallet",
+      "kr_sha256": "ddc3cc3397f67f8f587ca2fd89a26f46d5a13984107fc936e874c524206f6fb4",
+      "en_sha256": "c10f8e59e0fb3fe894481713b7542a2bc80c18b71fab17c2f071fc865e3889a2",
+      "origin": "ai"
+    },
+    "dataList[id=1481].name": {
+      "pl": "3F Floor Manager",
+      "kr_sha256": "75d680b98de16a66ce47fd0ee062c8f898072c5944f94d1ce0739d606d432d58",
+      "en_sha256": "5a2de83464ba0083aaf9125aa6fc3aa35ae0277656d3a18cf43ceca429b1c3d4",
+      "origin": "ai"
+    },
+    "dataList[id=1482].name": {
+      "pl": "Four-legs",
+      "kr_sha256": "df89bef4104c2b02735dd4347d81d186ccc72244cbc6d79dd852df5189372019",
+      "en_sha256": "f07c4ac4a81b5f069730c9d312590be7062c0298e6e57bb7fe580055eea7b412",
+      "origin": "ai"
+    },
+    "dataList[id=1483].name": {
+      "pl": "One-leg",
+      "kr_sha256": "f2c88decd3785066fd5407ad2b9fa7a43115a7b491233e2120117a438cc147f1",
+      "en_sha256": "7a4425b3138f03786940a22c8b56abe11084f1d5667dc6bf96698209ec8834dc",
+      "origin": "ai"
+    },
+    "dataList[id=148401].desc": {
+      "pl": "The Crimson God Part",
+      "kr_sha256": "43e3c764256da8922856d94a0d3f214802a960b9fa01fcd2c8ba5371f9ed9f59",
+      "en_sha256": "4ec64dffe91d845c915f909be280db148b529e8fae7da8160f7d5001c05eee19",
+      "origin": "ai"
+    },
+    "dataList[id=148401].name": {
+      "pl": "Lifecord",
+      "kr_sha256": "ebf294d628ab93767ec93fff42ac246642844a481585594de219a1ca5f265b66",
+      "en_sha256": "0d82ab7549c12e9f71e3367b9771361b1bd040d805f77476bab18ac85e61667f",
+      "origin": "ai"
+    },
+    "dataList[id=1484].name": {
+      "pl": "The Crimson God [Inchoate Life]",
+      "kr_sha256": "1d06addd523ac956a6e918dfac908f9482448c570627231fe09b33ae2863f074",
+      "en_sha256": "2398c6abf21cb72f1d82f95f30237011b5fe85de1c87b0e8dea6a80f1c904066",
+      "origin": "ai"
+    },
+    "dataList[id=1494].desc": {
+      "pl": "1F NPC",
+      "kr_sha256": "1840f88500247fb4a0b23a557c4f4f04a063c9fe7ee5a670d14cc2ea1d6aefd9",
+      "en_sha256": "2180beeca57ef81c1cdd3bce2193ea4722732272faf3179d220f5919f07ecb43",
+      "origin": "ai"
+    },
+    "dataList[id=1494].name": {
+      "pl": "Le Rouge Sales Associate Mimosa",
+      "kr_sha256": "c9e179e35ce0b0bd963bf63a7823932ea68ea25d2fd0f6f5502dc224bc57aaf1",
+      "en_sha256": "ffc7d3214e99a937905896ed094cae5ccaf776151c5fe6aea089e4926951f514",
+      "origin": "ai"
+    },
+    "dataList[id=1496].name": {
+      "pl": "King of Needleworks",
+      "kr_sha256": "36813d01500ae7954abcef8e0a4493e7e62b3baa76e25eb30f5395f4f2e5ae9b",
+      "en_sha256": "76a23e18584ea3c10bdc756cc38364b869f49cabf3749ddc090471f474e24211",
+      "origin": "ai"
+    },
+    "dataList[id=1497].desc": {
+      "pl": "pół-zwłoki stworzone z jednostek zabitych przez Czerwonego Boga w stanie szału",
+      "kr_sha256": "3c26d436ecc85bda9410212c5d7d6a987a96e4fd95a47386053e913cf396fac6",
+      "en_sha256": "d592e56808d34aebf27d59adfc701ed097a6df16428a566dd5c4dd6cf585874a",
+      "origin": "ai"
+    },
+    "dataList[id=1497].name": {
+      "pl": "Ripped Flesh of the Crimson God",
+      "kr_sha256": "dd1f19db326f1b2bae24cd2eb3826927464c1c9550f803dade4fb6a706c4ab30",
+      "en_sha256": "2a1582c80f91bccd9395b701e7d19ce6c6390d9dfde0cc51fa6b286ac597163f",
+      "origin": "ai"
+    },
+    "dataList[id=1498].name": {
+      "pl": "Warp Needlekin",
+      "kr_sha256": "a2cedf758b6e036f35527fe009eb0950ebab2c303971d2991d4f81410f1323ca",
+      "en_sha256": "ccedc087f97d4eb3f05ed000465a637d557c38cc1b8690ca6ebedc18398de0a5",
+      "origin": "ai"
+    },
+    "dataList[id=1499].name": {
+      "pl": "Weft Needlekin",
+      "kr_sha256": "cc7fb025842b3fc8de49141df835dfa853e820d818607d00cf971e1745b93a1b",
+      "en_sha256": "9342109bab04997f89439d392f6f764bdf1fdad81bb3dfdcd3b79de886fd3e1f",
+      "origin": "ai"
+    },
+    "dataList[id=1529].name": {
+      "pl": "Thirsty Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[id=1530].name": {
+      "pl": "Hungry Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[id=91059].name": {
+      "pl": "Thirsty Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[id=91060].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=91060].name": {
+      "pl": "Hungry Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[id=91061].name": {
+      "pl": "Thirsty Kaki",
+      "kr_sha256": "7c6f60f38f85007abac6dbc330c6849b4191e558e5aba06df335f79aeb8dfd57",
+      "en_sha256": "68f062c22e1e6bfd574b9a071d5722d820cb47fe1ffd273256b95dc32a6911ee",
+      "origin": "ai"
+    },
+    "dataList[id=91062].name": {
+      "pl": "Hungry Kaki",
+      "kr_sha256": "9198c387fbc2b258b047c2a94d87d9ab0ff9141d495e57d70dcd580e92065e33",
+      "en_sha256": "15bd0f7d5677a709f255905ecf8eec7abd53dee8cc5c490d8d3a8a92e5cac7b1",
+      "origin": "ai"
+    },
+    "dataList[id=91063].name": {
+      "pl": "Warp Needlekin",
+      "kr_sha256": "a2cedf758b6e036f35527fe009eb0950ebab2c303971d2991d4f81410f1323ca",
+      "en_sha256": "ccedc087f97d4eb3f05ed000465a637d557c38cc1b8690ca6ebedc18398de0a5",
+      "origin": "ai"
+    },
+    "dataList[id=91064].name": {
+      "pl": "Weft Needlekin",
+      "kr_sha256": "cc7fb025842b3fc8de49141df835dfa853e820d818607d00cf971e1745b93a1b",
+      "en_sha256": "9342109bab04997f89439d392f6f764bdf1fdad81bb3dfdcd3b79de886fd3e1f",
+      "origin": "ai"
+    },
+    "dataList[id=91066].name": {
+      "pl": "Le Noir Sales Associate [Sunshone]",
+      "kr_sha256": "0aeb92d94039bffab3cfb826f0cf20a8303fae6510be5d0e210f6da61f4711b5",
+      "en_sha256": "65bf4fc6d3113a68c429fbe1e226e5baef9613dfd7800ef3eebf8cba0de14386",
+      "origin": "ai"
+    },
+    "dataList[id=91067].name": {
+      "pl": "Le Rouge Sales Associate [Sunshone]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_45].desc": {
+      "pl": "- Gniazdo Dystryktu 23.\n- U nich jeszcze nie byłem, ale dowiedziałem się o nich kilku rzeczy z rozmów z Tożsamościami tego Skrzydła.\nW Corp. podobno prowadzi usługę transportową reklamowaną jako „pociągi WARP”, które w kilka sekund przerzucają pasażerów z peronu na peron.\nBilety na pociągi WARP podobno sporo kosztują, a pierwsza klasa to podobno już czysty obłęd.\n- …Czy w takim razie nie taniej byłoby po prostu pojechać autem?",
+      "kr_sha256": "e00079ca59a0e04d44fcda0bc0ad01f372b7379dc26b381a122e68d4570dee65",
+      "en_sha256": "a09189761152e84b6ba634a05878ce290bf4a46b859726f18d4025fd1653b23f",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_46].desc": {
+      "pl": "- Proces synchronizowania *Tożsamości* z tym światem przy użyciu zgromadzonej *Nici*.\n- Tak dostosowuje się tę przybyłą z innego świata do Grzesznika z naszego. (Można by to porównać do spięcia obu światów razem?)\nSądząc po tym, co widzę, świeżo wydobita Tożsamość nie potrafi od razu przekazać Grzesznikowi całej swojej wiedzy i biegłości bojowej.\nDlatego trzeba zużyć Nić, żeby podnieść Tożsamość Uptiem i zwiększyć jej skuteczność.",
+      "kr_sha256": "0ab25899152b89a88e2571ba33ed28ecb56d4ebaa2dab6fe05491ed401c66101",
+      "en_sha256": "071796e7b9e87dde1608358eac633f3ad5e8b847ca384f6af0b7254e33f2f9e8",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_47].desc": {
+      "pl": "- Podobnie jak przy Uptie, to proces wzmacniania E.G.O Grzeszników przy użyciu Nici.\n…Zastanawiam się tylko, dlaczego znowu *Splot Nici*, a nie „Uptie”?",
+      "kr_sha256": "0aa25a38cd2879a9b0d0cb75eee21cad49188c9a73bb503bbf12faf5669cc5a5",
+      "en_sha256": "6c5e60c64fae72188d9c57d93e23552d94ace54b86106106d72de3d36aeec073",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_48].desc": {
+      "pl": "- Gniazdo Dystryktu 18.\n- Z tego, co słyszałem o R Corp. od powiązanych z nim Grzeszników, wydaje się trochę inne niż pozostałe znane mi dotąd Skrzydła.\nWiększość Skrzydeł ułatwia ludziom życie, wykorzystując swoje Osobliwości, natomiast R Corp. handluje głównie usługami zbrojnymi w rodzaju najemnictwa.\n- Siła R Corp. jako Skrzydła płynie z jakości jego usług zbrojnych.\nOutis dodała, że choć liczebność oddziału jest ważna, wiele siły bojowej pochodzi z doświadczenia polowego i stalowych nerwów.\nW tym sensie jej bojowcy (żołnierze? pracownicy?) to podobno machiny do zabijania, które odznaczają się niezłomnym duchem w dodatku do świetnej kondycji.\nGregor powiedział, że zwykli żołnierze często tracą wolę walki, uciekają z pola bitwy albo popadają w panikę, a ci, którzy tego nie robią, to wyjątki.\nCiekawe, czy R Corp. prowadzi gry wojenne i symulacje albo coś w tym rodzaju.",
+      "kr_sha256": "3fa2a821ea8f7bf63217f7f34173803775491aba30d2f59e09c0e095d7098a0f",
+      "en_sha256": "498abe6a11f9ae49b7a612d44f08ca138626c6743ae08b25d409d5ec04d68061",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_49].desc": {
+      "pl": "- Zapytałem, czy status „MAX Uptie” pokazywany na LCB-PDA to faktycznie najwyższy możliwy szczebel.\nChciałem wiedzieć, czy znaczy to, że Grzesznik w praktyce staje się tym samym, kim jest postać z innego świata.\n- Powiedziano mi, że teoretycznie tak.\nJeśli Tożsamość przyniesiona z pewnego punktu w czasie świata, z którego ją wydobyto, zyska więcej doświadczenia (na przykład dalej trenując swoje umiejętności bojowe), może pojawić się nowa możliwość, która pozwoli na dodatkowe etapy Uptie.\nChyba znaczy to, że Tożsamości z pewnych punktów w czasie mogą rosnąć silniejsze pod względem doświadczenia i techniki.",
+      "kr_sha256": "62953e63927eab1fa82346f57a0b0bbc2daabf3a5753499ca2dc4ac6d036246c",
+      "en_sha256": "e7e1c1027bbdca109d595e08ecca1c59016618d034950037b5d28417d579fda1",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_50].desc": {
+      "pl": "- Kiedy Grzesznik drze tego *Biletu Treningu Tożsamości*, pewne doświadczenia chyba wpadają do niego (albo do noszonej Tożsamości).\nTe doświadczenia mogą uczynić ich silniejszymi, niż byli w oryginalnych światach w momencie wydobycia. (No, tak mówią „odpowiednie teorie”, wedle Faust.)\n- Rozumiem, że z dodatkowym doświadczeniem walczą lepiej, ale jak to sprawia, że są też silniejsi fizycznie?",
+      "kr_sha256": "399f6da1265e7b8e38cd6a47d295ad1f8718b4890367f922d579e20f5c95f705",
+      "en_sha256": "124bd5420dfb119283488ee706a82b728f6250a2444ba068832718bed96d1885",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_51].desc": {
+      "pl": "- Od Faust i Yi Sanga dostałem odpowiedzi mgliste, ale jakoś sensowne.\nKiedy Tożsamość jest „ulepszana” Biletami, wzmacniana jest sama „rama” Tożsamości.\n- Podsumowując ich wywody: ulepszenia poprawiają wyłącznie cechy fizyczne.\nDokonuje się ich w taki sposób, w jaki działałyby w oryginalnych światach, z których Tożsamości pochodzą.\n- Poza tym, gdy ulepszana jest Tożsamość z protezami, materiały i podzespoły tych protez chyba robią się trwalsze i tak dalej.\n- Tak czy inaczej, ulepszenia skupiają się wyłącznie na poprawkach fizycznych.",
+      "kr_sha256": "ea4c3dc2750f6c81c6e454fcd56ace184a0d2c24b95d9192864eeb2d4697812a",
+      "en_sha256": "34c80d495ef186c087a67a5b4aff8dbf593fc3af26bb7365ddd3470024aee716",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_52].desc": {
+      "pl": "- Zapisuję dodatkowe szczegóły, które usłyszałem.\n- Choć samochód zawiezie cię wszędzie, preferuje się pociągi WARP, bo podróż autem potrafi być niesamowicie skomplikowana.\nMa to sens, gdy pomyślimy o procedurach, przez które przeszliśmy, żeby tylko dostać się do Gniazda K Corp.\n- Mówiąc więcej, większym problemem chyba jest to, że drogi zbudowano nieefektywnie.\nSą tak powykręcane i poplątane, że przejazd autem między rejonami Zaułków zajmuje nieprzyzwoitą ilość czasu.\n- Nawet jeśli w linii prostej jest blisko, droga do celu będzie labiryntowa.\nPodobno Gniazda łączą szerokie, otwarte drogi zwane autostradami, ale i one mają swoje warunki i koszty.",
+      "kr_sha256": "8393304de8f6458ae009495d36a6a0589c1bb121b9cc54f60fe5459485474a9d",
+      "en_sha256": "145e7abaf360a6c72dfb5f7366da552ba26d25d05199e65c00df801de39c53a4",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_53].desc": {
+      "pl": "- Podobnie jak Tożsamości, E.G.O używane przez Grzeszników to możliwości wyciągnięte z rdzeni pewnych Anomalii dla właściwych osób.\nJednak wykorzystanie E.G.O w pełnym potencjale wymaga zwicia ze sobą głębokiego zrozumienia i świetnie wyrobionej interpretacji Anomalii — dlatego nazywa się to „Splotem Nici”, trochę jak idiom o przędzeniu historii.\n- Splot Nici wzbogaca rozumienie obrazu mentalnego Anomalii, wzmacniając jego moc i skuteczność.\n- E.G.O chyba jest przejawem jakiejś siły umysłowej.\nChyba ma sens, że ważne jest zgłębienie Anomalii i jej E.G.O.",
+      "kr_sha256": "c19d14b978218141bc967b78ef6d21e68d97f23cf66be52fe41d625bdb187868",
+      "en_sha256": "3e38c80260622c3df93e13fa967bce7743bd6f2af6fc210f22ca5ab9a938c107",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_54].desc": {
+      "pl": "- Zapytałem, czy nie da się ulepszać Tożsamości ponad ich obecny maksymalny poziom (30 w chwili pisania) pokazywany na LCB-PDA.\n- Te wartości chyba wiążą się ze Złotymi Gałęziami, które zbieramy. Poza tym powiedziano mi, że na razie nie wytrzymam dalszych ulepszeń.\nCzy to znaczy, że później będzie dało się ulepszać je bardziej?\n- …Zresztą, skoro te „podpoziomowania” służą tylko wzmacnianiu ich fizycznych ciał, to czemu zwa się je „Biletami Treningu”? Myślałem, że od tego są Uptie?",
+      "kr_sha256": "0309ec86017cbad76bc74c00ea53160ae79a327ebbfa13fab954ee7246eac849",
+      "en_sha256": "e1402767e8ca7583e6f54da6f309f560f13eecb6c766604436fa0b9645414fd4",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_55].desc": {
+      "pl": "- Dowiedziałem się szokującej rzeczy w rozmowie z Grzesznikami ubranymi w Tożsamości W Corp.\nChoć nie powiedzieli mi tego wprost… podobno podróże pociągami WARP, które z perspektywy postronnego trwają najwyżej kilka minut, sprawiają, że pasażerowie odczuwają straszliwie długi czas, przez co tracą zmysły i deformują się nie do poznania, gdy jazda się wreszcie kończy.\nA potem zadaniem agentów od porządków jest fizyczne sprzątanie tego bałaganu za każdym razem.\n…Na szczęście mamy autobus.\n- To wszystko są domysły z rozmów z Tożsamościami, więc planuję zatrzymać tę informację dla siebie.",
+      "kr_sha256": "598f901a3aeaf6e59a334d81a456095261547ef8c02e2874a75273d83c13f2ba",
+      "en_sha256": "17cc3b807559886239b272d21dd24e12d3a0613da144242848e02ab7cc4eca55",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_56].desc": {
+      "pl": "- Ze słów Tożsamości R Corp., Skrzydło ma oddział zwany „Czwartą Watahą” z trzema pododziałami: Króliki, Renifery i Nosorożce.\n- Króliki to wszechstronni, wysyłani do szerokiego wachlarza misji.\n- Renifery chirurgicznie zyskali poroża, które przetwarzają siłę umysłu w siłę fizyczną.\n- Nosorożców jeszcze nie spotkałem, ale podobno specjalizują się w sianiu zniszczenia.",
+      "kr_sha256": "db9a1692222726b3474f8ad0c46340a4306dc01c3f5ae5089f9e19dbea03f0bd",
+      "en_sha256": "765c7f0f65c5e8ddebe59fac5c3ab6c65d2edf4d5e61ffa72af9c43f12f475c7",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_57].desc": {
+      "pl": "- Zapytałem, czy w miarę upływu czasu zdarzają się w światach, z których wydobyto Tożsamości, wydarzenia różniące się od naszej osi czasu.\n- Powiedziano mi, że nie da się tego pewnie wiedzieć i że i tak to bez znaczenia.\nLimbus Company interesuje wyłącznie wzmacnianie zdolności bojowych Grzeszników, więc nie obchodzi ich, co dzieje się z Tożsamością ani jej światem, gdy robimy Uptie.",
+      "kr_sha256": "4bb0c8e5c392f183a1cd58087ab0b4b5f4bf64aa407159ccaa61e6057c119029",
+      "en_sha256": "8fc6e2f18f8cd9de24a9471140c99e3a22609247e8260f00739172c707980a16",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_58].desc": {
+      "pl": "- O ile w Uptie Nić służy spięciu ludzi między światami, o tyle w Splotu Nici działa chyba jak drut, na którym rozwija się rdzeń Anomalii.\n- Faust mówi, że w przyszłości być może będziemy w stanie splotć E.G.O dalej, niż jesteśmy w stanie obecnie.\nPodobnie jak przy ulepszeniach i Uptie Tożsamości, zbieranie Złotych Gałęzi powinno pozwolić odszyfrować i interpretować je jeszcze dokładniej.",
+      "kr_sha256": "d55f220e1e66b8deb1b63aa7c86c63f04aeca5f0ba37f473079053305b9fd014",
+      "en_sha256": "772ea815c74af9afe42be74682edefdff06e3516ea52f701195482165943b99a",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_59].desc": {
+      "pl": "- Przynajmniej E.G.O, którego używają nasi Grzesznicy, działa chyba tak, że przyswajają sobie emocje czy jaźń Anomalii, która jest jego nośnikiem, i używają ich jak własnych.\nSam tego nie doświadczyłem, ale…\n- Według ich relacji przypomina to uczucie, kiedy cudze poglądy nas poruszą albo kiedy wcielamy je we własne życie.",
+      "kr_sha256": "c7f547c8b156515284ea647dea73c49f569c8ba8f3f6bc279a319c03829c6fe9",
+      "en_sha256": "f0d2740474078abd71eb17e63b06ba932795f71636bdb615b9221c0ffa1168e8"
+    },
+    "dataList[id=DanteNoteDetail_60].desc": {
+      "pl": "- Ich cechą jest chyba też to, że trudno je wyjaśnić logiką czy fizyką klasyczną; człowiek tylko się zastanawia: jak to w ogóle działa?\nFaust mówi, że w moim obecnym stanie nie ma potrzeby na siłę tego rozumieć, ale…\nMięso, które z chlupotem odrasta na uciętej ręce, i szczęście, które rośnie od przyklejenia naklejki, to chyba nie są zjawiska, nad którymi można przejść do porządku dziennego.\n- …Chwila, to moja głowa też jest Osobliwością?",
+      "kr_sha256": "67cab732028715015aff848441250c46aa6feee45a42fbc73435c8878f7c2d1c",
+      "en_sha256": "06cfd51d8805cbc810c9b090cd6aa7bfae55279311d4c458c54518c8b0752cb9"
+    },
+    "dataList[id=DanteNoteDetail_61].desc": {
+      "pl": "- Grzesznicy, zbliżając się do tego przedmiotu, czują chyba dziwną siłę, coś jak zawroty głowy.\nNazywa się to też rezonansem; może działa to podobnie jak bóle głowy, które czułem.\n- Gdy już odzyskamy Złotą Gałąź, Vergilius chyba wzywa ludzi z innego działu, którzy się nią zajmują.\nKiedy zapytałem, powiedział tylko: “Idzie do centrali”.",
+      "kr_sha256": "2146ce7de00a319d7d34da28af37f8d9d0c9ddd9022a691efe4db391c7f0d7ae",
+      "en_sha256": "383ae73506975c26e16b04c4a618c567a4081547022ae1887b3e88a936cc9a92"
+    },
+    "dataList[id=DanteNoteDetail_62].desc": {
+      "pl": "- …Tyle że kto zamiast dać się poruszyć, całkiem zatraci się w tej jaźni, tego nośnik potrafi skorodować.\nPrzez to Grzesznicy już kilka razy zginęli…\nA mnie bolało jak cholera.",
+      "kr_sha256": "131ce7ac7ec3a7de73ef31bcb2de4e85f278b8defeab25592240d1105cc7fb1d",
+      "en_sha256": "4578ced1164621562c02f9062fc4d7ccab44de8042cbdad6c0a8f199c1ce9b92"
+    },
+    "dataList[id=DanteNoteDetail_63].desc": {
+      "pl": "- W dawnym L Corp. Anomalie dzielono podobno na pięć klas.\nYuri mówiła, że kiedyś w L Corp. klasy przyznawano według wydajności pozyskiwania energii.\nLimbus Company chyba dzieli je według tych samych klas.",
+      "kr_sha256": "5ca968e2c1498fed030b337f33bb3452ba16d733f9494c28102f747c44007fa5",
+      "en_sha256": "23b9df2de9d8a074fd14b1747c35245f39e7d1657dab57c19061fde802c53629"
+    }
+  }
+}

@@ -23,8 +23,6 @@ def entry(path: str, *, mode: str = "100644", stage: int = 0) -> IndexEntry:
 class PathPolicyTests(unittest.TestCase):
     def test_private_directories_are_blocked_at_any_depth_case_insensitively(self):
         for path in (
-            "local/entries.jsonl",
-            "data/LOCAL/source.txt",
             "build/kit.txt",
             "foo/google_drive/report.txt",
             "node_modules/package/readme.md",
@@ -33,6 +31,12 @@ class PathPolicyTests(unittest.TestCase):
         ):
             with self.subTest(path=path):
                 self.assertTrue(entry_violations(entry(path), 1))
+
+    def test_local_directory_is_committed_since_d12(self):
+        # D-12 (2026-11-25): artefakty pracy agentów w `local/` są częścią
+        # repozytorium — jedyne pliki poza Gitem to binaria gry i dane prywatne.
+        self.assertEqual(entry_violations(entry("local/krmap.json"), 1), [])
+        self.assertEqual(entry_violations(entry("local/praca_ai/P59/parsed.json"), 1), [])
 
     def test_unity_binaries_archives_and_secrets_are_blocked_even_if_forced(self):
         for path in (
@@ -141,8 +145,6 @@ class RepositoryConfigurationTests(unittest.TestCase):
 
     def test_gitignore_blocks_typical_private_files_but_allows_text_sources(self):
         ignored = {
-            "local/source.jsonl",
-            "nested/local/source.txt",
             "google_drive/LCB_DANE.zip",
             "artifacts/LCB_ZBIERZ_DANE.zip",
             "LimbusCompany_Data/Lang/config.json",
@@ -152,6 +154,9 @@ class RepositoryConfigurationTests(unittest.TestCase):
             "game/sharedassets0.assets",
             "game/archive.zip",
             "node_modules/module/index.js",
+            # Snapshoty wejściowe Czytanek PL — regenerowalne (docs/CZYTANKI.md).
+            "local/cz_snapshot/pl/Egos.json",
+            "local/lang_pl_v3/LimbusCompany_Data/Lang/Polski/config.json",
         }
         allowed = {
             "README.md",
@@ -160,6 +165,9 @@ class RepositoryConfigurationTests(unittest.TestCase):
             "tests/fixtures/example.txt",
             "collector/URUCHOM.bat",
             ".env.example",
+            # D-12 (2026-11-25): artefakty pracy agentów w `local/` są commitowane.
+            "local/source.jsonl",
+            "nested/local/source.txt",
         }
         found = self.ignored(sorted(ignored | allowed))
         self.assertEqual(found, ignored)

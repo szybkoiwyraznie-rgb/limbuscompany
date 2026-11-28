@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=2017].desc": {
+      "pl": "— opis] Poziom Ishmael rośnie do 40\nEtap Synchronizacji Tożsamości Ishmael i etap Splotu Nici jej E.G.O rosną do 4. etapu\nIshmael zyskuje [AaCePaBa] w każdej walce.",
+      "kr_sha256": "062bd71dcbe5a25535f8ea7ae42b091196974dd86ccb21983f6b9c9ece43be48",
+      "en_sha256": "eba9e8f45a472ca0f0f4077c304dbc81792f6b910c5f3466aadf8176fce485b0",
+      "origin": "ai"
+    },
+    "dataList[id=2017].name": {
+      "pl": "— nazwa] Pętla",
+      "kr_sha256": "4debce8911cbdb304d0690cab0564f89e5060f7fa166f2ec86b951240a6b0dc0",
+      "en_sha256": "a7a088587792ec9bf87fc09a7ffa9b2990e7b005893eea818653ccd82ca25c84",
+      "origin": "ai"
+    },
+    "dataList[id=2018].desc": {
+      "pl": "— opis] Przy wygranej Starciu Umiejętnością Posępności, 1 sojusznik o najniższej Poczytalności odzyskuje 5 Poczytalności",
+      "kr_sha256": "3850351416856c18e7471a62b0dbc536763e1109d118ba86ec2d930e34bc0255",
+      "en_sha256": "2ad21a57d9518c2f374f5e80d2c0f7f2befe75c6379263cd453bcb78e329b84b",
+      "origin": "ai"
+    },
+    "dataList[id=2018].name": {
+      "pl": "— nazwa] Węzeł Odwrotny",
+      "kr_sha256": "78fdc0893e70d733dfbafc20dcf11bd724ef6b6d25a4a7836caf736a43e4b2ff",
+      "en_sha256": "ae5257b7b715938572b961c324969f320a435ad1b94932f4cb851675300c9229",
+      "origin": "ai"
+    },
+    "dataList[id=2019].desc": {
+      "pl": "— opis] Otrzymuje -10% obrażeń Umiejętnościami Grzechu Pychy",
+      "kr_sha256": "221e6b496c9d9c0a28605351648567f4baea9ce93699ff793ebfa46937e29417",
+      "en_sha256": "06f4e3ef0803a53c14b936c160b4c4a1b19a9a4124ba8c004d78130ff01c8a41",
+      "origin": "ai"
+    },
+    "dataList[id=2019].name": {
+      "pl": "— nazwa] Roztopiona Karta LCCB",
+      "kr_sha256": "87ce46600b5265b13a4ea87fb9ca326816a7f5d4e9e9258aeaf3548c434cb323",
+      "en_sha256": "e6c18dd4db2be9257aa7c94b64ac7d165d377d0fed2c3ac7be154965c8a16bf0",
+      "origin": "ai"
+    },
+    "dataList[id=2020].desc": {
+      "pl": "— opis] Umiejętności Grzechów Zazdrości, Gniewu i Posępności zadają +10% obrażeń\nPrzy Rezonansie 6 lub wyższym jednego z tych Grzechów Umiejętności tego Grzechu zadają dodatkowo +10% obrażeń",
+      "kr_sha256": "17299cd98ec6a0eb6f502c93822df4a6b81d63d24c31fc18c58cc872a6791d96",
+      "en_sha256": "3a5df687e479ec6a35306582d32af3d29190e60a4eb38982fa541438c5cb9128",
+      "origin": "ai"
+    },
+    "dataList[id=2020].name": {
+      "pl": "— nazwa] Węzeł Rozpaczy",
+      "kr_sha256": "99eae3c8d3c14b17342b3cab09e006ba068ab4e545ceca57736b823c3d5ee024",
+      "en_sha256": "54ffdb73cb4ab74c018fcefb9aa2cec48846cd98835d8ecb162a28bb25da8cba",
+      "origin": "ai"
+    },
+    "dataList[id=2021].desc": {
+      "pl": "— opis] Umiejętności nakładające [Vibration] nakładają o 1 więcej [Vibration]",
+      "kr_sha256": "e2ceafcf2382d188d18114a850f23f8fe463eedee5affdbb2b151069b7f336f8",
+      "en_sha256": "7172fe6d94f99dc768ecfe02b6c304b97b04b984056f1b22d2e3926a97bf16a9",
+      "origin": "ai"
+    },
+    "dataList[id=2021].name": {
+      "pl": "— nazwa] Olej Syreny",
+      "kr_sha256": "02f07f518fb757aa450d0b2f9a503348843e20d5ab366d357a4b4138b402f431",
+      "en_sha256": "c90d2ff7703da5dda066355594f7999a14963f70ae7613bb4242b23305b63cac",
+      "origin": "ai"
+    },
+    "dataList[id=2022].desc": {
+      "pl": "— opis] Na koniec tury, jeżeli w tej turze HP spadło o co najmniej 15% Maks. HP, zyskuje 2 Wzrostu Mocy Ataku na następną turę",
+      "kr_sha256": "d10e34f08518ef841167893d5ca38ec1281887dcf9997e76a26b4c07e64aee31",
+      "en_sha256": "8f80961543819530f6edce9d88738899ff5e02ae91f063612bd17e0011337ad2",
+      "origin": "ai"
+    },
+    "dataList[id=2022].name": {
+      "pl": "— nazwa] Skrzyżowany Węzeł",
+      "kr_sha256": "71fbc794b23c71949c9b11b859afbeaa37b843e3eff1e4890ed9b3891e991cb2",
+      "en_sha256": "d21407142517fc3fd086828b6807c5f792994385a145452a8a5d7878151a2147",
+      "origin": "ai"
+    },
+    "dataList[id=2023].desc": {
+      "pl": "— opis] Przy Poczytalności poniżej 0 Umiejętności Grzechów Zazdrości, Gniewu i Posępności zyskują Moc Końcową +1",
+      "kr_sha256": "bb0fdd83422a93f22474dacd1319be335b033469756d047ef9fefb37c2566981",
+      "en_sha256": "e7289b4be387a67950fc53a82f0ac9712efba9fccc8bf6fabdd92a662b37e564",
+      "origin": "ai"
+    },
+    "dataList[id=2023].name": {
+      "pl": "— nazwa] Węzeł Natręctwa",
+      "kr_sha256": "6991138a0e09ab3c6b742dcfce417562b0d9b26b299047109b97f27386463015",
+      "en_sha256": "9ca81f16b61e3755c430d5955e57e2d997eb3d7224dd7a9ebb487caa61bf4762",
+      "origin": "ai"
+    },
+    "dataList[id=2024].desc": {
+      "pl": "— opis] Przy trafieniu pierwszą monetą Awersu Umiejętnością na wroga z nałożonym [Laceration], zyskuje 1 Oddech",
+      "kr_sha256": "26ee77b048f9052ca449c70ce8e35d43e041786395b256667a4d79b9f5124889",
+      "en_sha256": "b6b117c3f08c0a58c83bf21b34df6d8cb97de0d3e54fcc59247d4eecbbb5e932",
+      "origin": "ai"
+    },
+    "dataList[id=2024].name": {
+      "pl": "— nazwa] Zardzewiały Hak",
+      "kr_sha256": "d966d44d0efff7490f2ae7e5abe6feabdc73d159fefdadba351482db30a2f5a8",
+      "en_sha256": "3892aefc3e5dd792977dfc425e13b75e7c8f1ea0cd3b6a93e2afb2126e44f740",
+      "origin": "ai"
+    },
+    "dataList[id=2025].desc": {
+      "pl": "— opis] Postacie posiadające [Bullet] zyskują maksymalną wartość amunicji +3",
+      "kr_sha256": "97750c2a4d0598bf8aeed9b442433a05d10c62e8b8a0d1074b9ca47ae81903de",
+      "en_sha256": "d96354de141bec8d4e40bfc76c045a1d62b49343d3acc302cc4198afa5017800",
+      "origin": "ai"
+    },
+    "dataList[id=2025].name": {
+      "pl": "— nazwa] Standardowy Magazynek",
+      "kr_sha256": "213af56ae5bd50bbcb2f655d82faf3523b24feab19f64646e995c45e08c29a0d",
+      "en_sha256": "de4ed7a55e0a62b39425c6b5fb64f0abae54241463c9a81a0b3a2be5ab20e399",
+      "origin": "ai"
+    },
+    "dataList[id=2026].desc": {
+      "pl": "— opis] Wszystkie Umiejętności Ishmael zyskują Moc Końcową +2\nGdy sojusznik ginie, pozostali sojusznicy zyskują 1 Pośpiech i 1 Wzrost Mocy Ataku na następną turę (1 raz na turę)",
+      "kr_sha256": "9fecfba58e584ad59bbf184809358b493a4848fdb85b7295d756f7dca792bd22",
+      "en_sha256": "60ab7c6aa7925825772f503c20873e6153e696d7f838a95a2f4e99602650ffd6",
+      "origin": "ai"
+    },
+    "dataList[id=2026].name": {
+      "pl": "— nazwa] Nierozwiązywalny Węzeł",
+      "kr_sha256": "b772f2e402478ff67073ec7abfd48f896dd47aff49099a05fa406082a38bf9b0",
+      "en_sha256": "e785317da54f87c678bf22515d7ac9307ddc68170a4e4bbf4af8344b1c1d32cc",
+      "origin": "ai"
+    }
+  }
+}

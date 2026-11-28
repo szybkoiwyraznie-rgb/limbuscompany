@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=301].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 0%] </b></color>\n\nSłychać zgrzyt zazębiających się kół zębatych.\nCoś ciężkiego i masywnego zdaje się stawiać kolejne kroki w rytm tego szczęku.",
+      "kr_sha256": "0f0c37f1444665ea1b8699feb502d9f2d45e5da021a691e9a8b0ee314f42b619",
+      "en_sha256": "a8b6c503622c5b59e7e2bc762ad8364b77a98991b44446c056472f91cf5c6ab1",
+      "origin": "ai"
+    },
+    "dataList[id=301].title": {
+      "pl": "Stacja początkowa: Tryby",
+      "kr_sha256": "171ced00185b420281e71985a4720fc2f3ac00c46538df9905d2aaa1155024d7",
+      "en_sha256": "99225b9b159677bf7a6f4bfcc9ad2520a1a582c1d39fe2aef63f1e0623e03228",
+      "origin": "ai"
+    },
+    "dataList[id=302].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 14%] </b></color>\n\nMętne, falujące drżenie napiera w naszą stronę.\nUczucia gęsto wbite w jego kręgosłup zdają się przypominać tę samą toń.\nCicho i ciężko uderza prosto w nas.",
+      "kr_sha256": "437a98de78154480d35c9c9422d8c7fef1e30b9ba0e2a4f1246861837a6994ca",
+      "en_sha256": "9634befcfe809f97884b79e48258c72e2474304cb964fbeaf63d126d64909055",
+      "origin": "ai"
+    },
+    "dataList[id=302].title": {
+      "pl": "Stacja 2: Fale",
+      "kr_sha256": "ed525aab654af23c7a3b3b32d584343c14ce27074f8a60ae00c6d2709558854b",
+      "en_sha256": "b49aa3e7d165e2adba6d05a1e9d9707ec725661ba69dae2eb24214fcea2a284f",
+      "origin": "ai"
+    },
+    "dataList[id=303].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 28%] </b></color>\n\nRozpościera się znajomy, tęskny krajobraz.\nFalujący widok zdaje się nas przywoływać, budząc mgliste wspomnienia.\nMiny kilku Grzeszników nie wróżą nic dobrego…\nTym razem lepiej podejść z dobytymi broniami.",
+      "kr_sha256": "c130f5ab4eea69f8c1e181154efef055e8ab991865eb09e4a21d71593a9c4f42",
+      "en_sha256": "2b20077fcd6226967b0b579d7b6a510c654c1353e75fa2b7b652003c1d02c4e0",
+      "origin": "ai"
+    },
+    "dataList[id=303].title": {
+      "pl": "Stacja 3: Nostalgia",
+      "kr_sha256": "0615943de21d11edf193595b52e2db34f178b7c2278bf3bda84e50913506def4",
+      "en_sha256": "3875638dba13d514883db439f12688b90916b8a8b65103abcef385f9e56da97a",
+      "origin": "ai"
+    },
+    "dataList[id=304].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: ??%] </b></color>\n\nNiski, głuchy dźwięk niesie się echem po przestrzeni.\nKoła zębate tykały miarowo, aż wreszcie z chrzęstem znieruchomiały.\nGdy tylko opuścimy to miejsce, tryby znów ruszą.\nPrzygotujmy się przed odjazdem do następnej stacji.",
+      "kr_sha256": "9ed0b88b0ab81b581da8929ca59455b1683e79b89aef6d79c9c582288f745b17",
+      "en_sha256": "e1c0d360df72a93f17eda7eefd7f492dd6127a506c73ad2b2366c8f3412c6b9f",
+      "origin": "ai"
+    },
+    "dataList[id=304].title": {
+      "pl": "Stacja 4: Postój",
+      "kr_sha256": "f965f137d021440889b4db9a4f7e4ba0e21e15f75a492936d0dde93f967280eb",
+      "en_sha256": "094e60f73b389812a8c77f985d608542a772bda3f676c227d18c854beb46b3ea",
+      "origin": "ai"
+    },
+    "dataList[id=305].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 39%] </b></color>\n\nDolatuje nas znajoma, słonawa woń.\nW tym oparze czeka na nas istota boleśnie dźwigająca w sobie wszelkie nieczystości, sól i rzeczy im podobne.",
+      "kr_sha256": "862bfbdd7c9fb157c60e83eb57ac786216233668cd8c720d859dbbd626555f10",
+      "en_sha256": "f90d6dad9b36c32943b2eb199e40881cf93234fc72676844cdb219c6aedc8181",
+      "origin": "ai"
+    },
+    "dataList[id=305].title": {
+      "pl": "Stacja 5: Umartwienie",
+      "kr_sha256": "29a7215394dc278b9f880ecaf17ef96d9785bca26198cfb2730e7d27b066a4ff",
+      "en_sha256": "3c891dfbe594172a5c834ef4264496b10621f6856526b023dde760e7db1b68ed",
+      "origin": "ai"
+    },
+    "dataList[id=306].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 51%] </b></color>\n\nPrzestrzeń wypełnia osobliwy zapach palonej świecy.\nW środku czeka poszukiwacz prawdy, toczący ogromnymi gałkami ocznymi, jakby chciał pochłonąć każdą literę wiedzy.\nLepiej powstrzymać go przed dalszym chłonięciem wiedzy, zanim zapłonie ogień prawdy.",
+      "kr_sha256": "ced34edd1f9a16d15a02ffe0d8ef0223a6c1e459658a45fe61185967329e4bec",
+      "en_sha256": "c67b882859db81133abc3511dbec8087eadb830c054ba3aa8d23467fabf79efa",
+      "origin": "ai"
+    },
+    "dataList[id=306].title": {
+      "pl": "Stacja 6: Prawda",
+      "kr_sha256": "39f245f0a281cb9dcd9f17f01475e04a8ae683762542de65484544cdbdc58eea",
+      "en_sha256": "029b8968413f5c34f83121bfcc8014ad93d40feb4b431608cc12941444ca5ca1",
+      "origin": "ai"
+    },
+    "dataList[id=307].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 66%] </b></color>\n\nŻar skąpany w barwach zachodu słońca dociera aż tutaj.\nChoć jedno muśnięcie spopieliłoby wszystko na proch, przemyka myśl, że w objęciach tych płomieni kryje się niespotykane nigdzie indziej ciepło.\nMożliwość przeobrażona w ogniu zdaje się powoli nas kusić.",
+      "kr_sha256": "be17db24dec196a92b5aa06b17648c749394b58a13802bfdcfc50a54b013c765",
+      "en_sha256": "0117e7edb4149e035751c655d79f97ee1aa70a966984b5b87070c69a73d595e1",
+      "origin": "ai"
+    },
+    "dataList[id=307].title": {
+      "pl": "Stacja 7: Przeobrażenie",
+      "kr_sha256": "e953cd067cd109ac0832fc31f9ce9dbc87683066d6c907fdd070a7a105cfbb67",
+      "en_sha256": "ae1769c8c4f2df3162b1a3806218e68d27185c0cfec642aa54709d7fc0e60b72",
+      "origin": "ai"
+    },
+    "dataList[id=308].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: ??%] </b></color>\n\nNiski, głuchy dźwięk niesie się echem po przestrzeni.\nKoła zębate tykały miarowo, aż wreszcie z chrzęstem znieruchomiały.\nGdy tylko opuścimy to miejsce, tryby znów ruszą.\nPrzygotujmy się przed odjazdem do następnej stacji.",
+      "kr_sha256": "9ed0b88b0ab81b581da8929ca59455b1683e79b89aef6d79c9c582288f745b17",
+      "en_sha256": "e1c0d360df72a93f17eda7eefd7f492dd6127a506c73ad2b2366c8f3412c6b9f",
+      "origin": "ai"
+    },
+    "dataList[id=308].title": {
+      "pl": "Stacja 8: Postój",
+      "kr_sha256": "f4249aa7172454cc548559e35af60f684e703463159815687af98893adc110bc",
+      "en_sha256": "87c0b3fea9d3e2a4621e06d18c14a10317e2a09a4ff08d34559b81527d8e3e12",
+      "origin": "ai"
+    },
+    "dataList[id=309].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 75%] </b></color>\n\nWypełzają ku nam ci, których serca zostały zamalowane.\nIstoty bielsze od samej bieli, o trupio bladej barwie.\nJakie kolory nosiły, zanim stały się pustym płótnem?",
+      "kr_sha256": "139e701e8a518b602d2b753d9c8ffed741943d5c827cf5efc0a174b36425fe3c",
+      "en_sha256": "ac219bbbd14d6f1c42a35af7d2477b3463e75de58d162c0047c9f401a53cd32b",
+      "origin": "ai"
+    },
+    "dataList[id=309].title": {
+      "pl": "Stacja 9: Zblednięcie",
+      "kr_sha256": "dc9ad9691508ab03c09d97d8047dee3ea4fd3ac1d73400693b52ce0ef6c27858",
+      "en_sha256": "05849c7e691136ffab5822a1830b9ea8f2615e613a7a34798854aad383b5ee8b",
+      "origin": "ai"
+    },
+    "dataList[id=310].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 83%] </b></color>\n\nSkoro istnieją ci o zamalowanych sercach, musi istnieć też ten, kto je zamalował.\nGdy pociąg staje, w oddali rysuje się triumfalna sylwetka przewodząca gromadzie.\nJakby wyszła nam na powitanie, gotowa zamalować również nasze serca.\nPowitajmy ją z dobytymi broniami.",
+      "kr_sha256": "21927a433912de6065c4d3ceb657b298f5362502a3756445dd75a774849460cb",
+      "en_sha256": "a79468237e98295ffef9cba596a9979bd794311bd281f8b446ad6786db88980c",
+      "origin": "ai"
+    },
+    "dataList[id=310].title": {
+      "pl": "Stacja 10: Pranie mózgu",
+      "kr_sha256": "e4c5aecf1380e0dbbff8bbc7cfad487ed5c868ab972b46a2dbc3a65ba3486117",
+      "en_sha256": "3b3f30147cc12c1d1b764e87c8958bbf80afc4e8f883bbef97b4f8ca20b8c4c8",
+      "origin": "ai"
+    },
+    "dataList[id=311].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 89%] </b></color>\n\nZdawało się, że na poprzedniej stacji już ją powaliliśmy.\nTa, która zamalowuje serca, staje jednak przed nami w jeszcze bardziej potwornej postaci.\nNie widać już jej popleczników… a jednak ma się wrażenie, jakby wszyscy tkwili teraz w jej wnętrzu.\nNie wolno dać się zahipnotyzować drżącemu płomykowi na jej ramieniu.\nSkupmy wzrok na niej samej.",
+      "kr_sha256": "8c769220703213904969755dbae2db29d72e5fda4c0622eed0e84859f8d8b1c6",
+      "en_sha256": "3a8dabd0fc108d168428abf69b5f0379806a2796383663ae39b7898bdb733a91",
+      "origin": "ai"
+    },
+    "dataList[id=311].title": {
+      "pl": "Stacja 11: Lampa gazowa",
+      "kr_sha256": "94a61da96bcedb76878a8796604866dfe0bfbcb15f9bf78db4ac0ec79ef53ec5",
+      "en_sha256": "5c1a712504e81dea7d47b1778f6fa355c6f211c842ec63ce3a472b7ea41b0617",
+      "origin": "ai"
+    },
+    "dataList[id=312].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: ??%] </b></color>\n\nNiski, głuchy dźwięk niesie się echem po przestrzeni.\nKoła zębate tykały miarowo, aż wreszcie z chrzęstem znieruchomiały.\nGdy tylko opuścimy to miejsce, tryby znów ruszą.\nPrzygotujmy się przed odjazdem do następnej stacji.",
+      "kr_sha256": "9ed0b88b0ab81b581da8929ca59455b1683e79b89aef6d79c9c582288f745b17",
+      "en_sha256": "e1c0d360df72a93f17eda7eefd7f492dd6127a506c73ad2b2366c8f3412c6b9f",
+      "origin": "ai"
+    },
+    "dataList[id=312].title": {
+      "pl": "Stacja 12: Postój",
+      "kr_sha256": "f82163075a443c3c1cfa33697eb1d83b93df6d3439cd4d81284de4d492e83a67",
+      "en_sha256": "fe4a1480cfd82092acf7495463ea789ae47742f7079170d89475b3a067813f17",
+      "origin": "ai"
+    },
+    "dataList[id=313].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 99%] </b></color>\n\nPo wyjeździe z długiego podziemnego tunelu docieramy wreszcie na stację końcową — do złotej krainy.\nJuż z oddali niesie się osobliwy, metaliczny dźwięk.\nNie drażni uszu… lecz zdaje się przenikać zbyt głęboko pod skórę.\nMusimy zakończyć to starcie, zanim to poskręcane, bezkształtne wrażenie doszczętnie zmąci nam zmysły.",
+      "kr_sha256": "d2a7c34fa71ea29571566f09db5be185f049bf091bf42a044c07e6e4bc409d10",
+      "en_sha256": "f3b4adc490b7156ac5c60798a76c2b61509f35089b64458e80fe63a57c8dc753",
+      "origin": "ai"
+    },
+    "dataList[id=313].title": {
+      "pl": "Stacja końcowa: Spirala",
+      "kr_sha256": "e6c5939a0d39fa3abc1685a9b9379522b97d945fa976b490b6390e72201e0897",
+      "en_sha256": "96ca1663dc723dd2ba4d4a043db94781fb82e925e14df6284a860dc6fef91a2a",
+      "origin": "ai"
+    }
+  }
+}

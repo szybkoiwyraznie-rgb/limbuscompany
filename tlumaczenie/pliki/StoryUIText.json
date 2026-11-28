@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=story_ui_ask_clear_all_cathy].content": {
+      "pl": "Wyczyścić całą Cathy?",
+      "kr_sha256": "20759ff0038060b1ca867e9ae24f13cd01d97db48d3a88ba78a670efbfc4e6db",
+      "en_sha256": "0324e299b422375991d4f1961bcccee1df0acaeb507e06fcc3093a2bf73198b2",
+      "origin": "ai"
+    },
+    "dataList[id=story_ui_clear_all_cathy_button].content": {
+      "pl": "Wyczyść całą Cathy",
+      "kr_sha256": "000c0fa3491e9eed5b951291e26324c05ded64927ef7ec745bc66b83a3b2a0e4",
+      "en_sha256": "2c785b0b266ee2ffdbf939fd28c2cf18cc6b0370cd53a6598acf2d8446c5d231",
+      "origin": "ai"
+    }
+  }
+}

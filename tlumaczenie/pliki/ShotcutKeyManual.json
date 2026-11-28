@@ -1,0 +1,112 @@
+{
+  "entries": {
+    "dataList[id=shotcutKeyManual_button_damage].content": {
+      "pl": "Przycisk Obrażeń",
+      "kr_sha256": "eb43073fb223980e8612e2237d9d5625e84d0c537edd77639eda57a39d5ed1a3",
+      "en_sha256": "3a589b9cc938bf6fe3ed2bdbb551c161378d206ef282d1a82cad0c3badbd0cb0",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_button_winning].content": {
+      "pl": "[Walki] Przycisk Wskaźnik Wygranej",
+      "kr_sha256": "7d248ca7fc3078706d2de61e1c123eb5286b04d935edcc7f9d6d9500a61dc934",
+      "en_sha256": "bfa3a71a5c71be27389818159a87da3de5d4b64557db50a9fbbeb98a9f213428",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_cancel_back].content": {
+      "pl": "Anuluj lub wróć do poprzedniego menu",
+      "kr_sha256": "8257ccfd55a52f7311fa4cf029fb4de96c1e9261b75ebc49f3d15d40f01aeb3d",
+      "en_sha256": "5448967fca2128dbb8ad74b5d7c72521e62413ee8e5fc463cf46a7700a889102",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_choice_event_next_dialog].content": {
+      "pl": "[Wybór] Wczytaj kolejny akapit",
+      "kr_sha256": "903e398b27723edb0d95e20bb06e4f176419fe067dd6250f466aa50b9d328b86",
+      "en_sha256": "1cef271e4323293eed57b1902ffbc046c08ae688da371742556e139315f53627",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_close_popup].content": {
+      "pl": "[Ogólne] Zamknij okno",
+      "kr_sha256": "72e363bf67cdc1082867c502079ee4f76072a2bbab225d0d4f510a3f5d4689d0",
+      "en_sha256": "669787f1194f70ef3b570bd936c9c63d5d11689ddaff63ac5fac2126325822c9",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_confirm_popup].content": {
+      "pl": "[Ogólne] Potwierdź okno",
+      "kr_sha256": "6b93d9ec4365f263a1dc78ad46ef2890254a936c272792417aeea504cfbd4c03",
+      "en_sha256": "7cb501d1b59426a2ce1b15e16b6dd66b5419cd75ad4483b486d017adef2c5bc0",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_mirror_dungeon_cancel_select_node].content": {
+      "pl": "[Lustrzane Lochy] Odwołaj wybór Węzła",
+      "kr_sha256": "01ba1158a13ca38572d2d74c913c629ee428d8275b22b9d8f4d50fa4a4a334ad",
+      "en_sha256": "9f4fa139b3fc25c124b12b06f6d7aa94d11ceca45b6568eb7a79b08cd4d86b70",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_mirror_dungeon_move_node].content": {
+      "pl": "[Lustrzane Lochy] Wybierz kolejny Węzeł",
+      "kr_sha256": "eeeb31ea725e2edcc20f8354ac4eeb0112a3a3b031ec1aae67520be15ad8a2fa",
+      "en_sha256": "4ab2603483efca3dc8ecf1eade4c65aa6727c6fd2446a606b9835f946b676b1b",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_mirror_dungeon_side_move].content": {
+      "pl": "[Lustrzane Lochy] Przesuń kamerę w lewo i prawo",
+      "kr_sha256": "85eb1d494115ce6da8be89af449501197d483abde6f39ab11630e43dda86b38b",
+      "en_sha256": "77b8ab992bef4c0a876ab797fdf1d934b821f23ea1f4b751b498161ac79daccb",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_move_screen].content": {
+      "pl": "[Walki] Przesuń kamerę",
+      "kr_sha256": "c83c2ef5b99964db483e1a1c0cccc3a9cd25190b3529ff44c7616fb7a09a3ecb",
+      "en_sha256": "cf4e433d2c9c07913b402af257e99566f9a742416c33b5d5ebb97292dd640c34",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_open_manual].content": {
+      "pl": "[Ogólne] Otwórz instrukcję UI",
+      "kr_sha256": "070874373f20d5558da9641392ed1969286ee119b1cecdba94c79315378ae1e2",
+      "en_sha256": "18eff05dee1a82fd6b758df55c880df92b8ab49e90bd4e4cfd01711a7a528d52",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_pause_and_play].content": {
+      "pl": "[Walki] Pauza i wznów",
+      "kr_sha256": "bf6f09135e6f1523d2d8667d8ef396d9b7c0e7c84a031c36767c7ea9cbb4e214",
+      "en_sha256": "d3d85632955b9ff9a866b1666320527beab68a398feb480f6b7f84989fd2678f",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_quit_game].content": {
+      "pl": "Wyjdź z gry",
+      "kr_sha256": "46085d587539100cf75ca699a60d33f19aba63dc7bf838871fd403f1a0352e39",
+      "en_sha256": "0fafcd03eb1650940866c2e369a79050cc65a28979ca7bad6f96994a1ef135e3",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_show_current_situation].content": {
+      "pl": "[Walki] Wyświetl strzałki starań",
+      "kr_sha256": "0d0eb938e13a07239361b5477372d00783d119b09bf78157e5e4861175459266",
+      "en_sha256": "35e4806be3920699f14d79b866e16f0317233e52eb2ed54aa747449e9b478868",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_skip_extraction].content": {
+      "pl": "[Ekstrakcje] Pomiń animację",
+      "kr_sha256": "ecb457f2d306553b1270e3604a2c7c9bdae953cc5b14603c1eb83c5a04a49d6c",
+      "en_sha256": "3a5cc6a3a812701410d0b70e3838b5cfdb5ecc4e59e1f74303608279158aa858",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_skip_story].content": {
+      "pl": "[Fabuła] Przewiń dialog",
+      "kr_sha256": "13052c03f3dfeb26167dc81cbdfb900752b84bc470e73f8ac2e6ffcc5615ac3b",
+      "en_sha256": "f5a6f3ed4d27a7a132492cd9bac09c519e1bf179f5142c9d27b0e803e4f312fa",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_start_battle].content": {
+      "pl": "[Walki] Rozpocznij fazę walki",
+      "kr_sha256": "8550ff3cac19e5265a884983637368a568b1d492247c1a63a9cf4693dcda0d8f",
+      "en_sha256": "aa9cbf44105a0973056de5647e3db40a8ff44a5618a06b58197e715555bf4590",
+      "origin": "ai"
+    },
+    "dataList[id=shotcutKeyManual_zoom_inout_battle].content": {
+      "pl": "[Walki] Przybliż i oddal",
+      "kr_sha256": "2e88202ee85294826f73c5bf2f07c8cb5a6c6d823e44a5b23a71a803ec64c54f",
+      "en_sha256": "d083be991568dea9603d1be9f0bcec18ff8631d53ac5ce22d35911062af3453b",
+      "origin": "ai"
+    }
+  }
+}

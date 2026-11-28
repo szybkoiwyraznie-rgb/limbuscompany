@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=9103901].desc": {
+      "pl": "przy otrzymaniu trafienia: zyskuje 1 [LeakedOutSauce] (6 razy na walkę)",
+      "kr_sha256": "cf8a307b75a02bedc24525b53e6ef9b7a59b63e80551df262904e76f33df6a53",
+      "en_sha256": "1f63e6ddd01d0f1a63cd10261a6bfd50bce35cbba2531cb154b2bc00a825f58c",
+      "origin": "ai"
+    },
+    "dataList[id=9103901].name": {
+      "pl": "Bulging Chicken",
+      "kr_sha256": "523e75eafd134dfa8e8f28d2014d44c58566b6f0057110b95b177a1b7abc63e9",
+      "en_sha256": "c02600bae25c51dbc4b2f3129180c74d77768f62de2ef02059a27f2322555dda",
+      "origin": "ai"
+    },
+    "dataList[id=9103902].desc": {
+      "pl": "jeżeli cała Marynata wyciekła, na początku tury zyskuje 2 [Vulnerable]",
+      "kr_sha256": "1b726f3c40b8a6b00ffc2bff60fc85d4267167ae6ecd7cb0bd5e8875d082d5e2",
+      "en_sha256": "a75203110a4f3d2530b85d958eb170487e0d142b84c092a54fbbeea24026036b",
+      "origin": "ai"
+    },
+    "dataList[id=9103902].name": {
+      "pl": "Hollowed Chicken",
+      "kr_sha256": "942acadc1cda1fd1551440e07a12c688c755769e80ebd1488d2b4bfb646846eb",
+      "en_sha256": "aad16bbc7be1690bbd4f9aac634ea2aac26426a4afd540127ce3d41a989ca6ae",
+      "origin": "ai"
+    },
+    "dataList[id=9104101].desc": {
+      "pl": "na początku tury przywraca 15 HP\nprzy poniżej 50% HP przywraca dodatkowe 15 HP",
+      "kr_sha256": "06b322efdb7d6998fce56912001bc7d703c29e2147f7e1d1c9140daca31f8254",
+      "en_sha256": "b9fd592bd543c939958c750b888e44634b3545819843dc62a2dd2e58588d7c8d",
+      "origin": "ai"
+    },
+    "dataList[id=9104101].name": {
+      "pl": "HP Ampule",
+      "kr_sha256": "25c23857e7fbfbf36ccb93dd8302334d400115063dafd2b7b2bdc3124425482a",
+      "en_sha256": "2e1a2af657f5d6d967ff364ce18946b5c7260e37b228e4519ef9c62b71867b9d",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=tutorial_1001_renewal_01].content": {
+      "pl": "W lochach bytują istoty zwane Anomaliami. To przeciwnicy wymagający najwyższej ostrożności.",
+      "kr_sha256": "9f6eedaa4756c3fd1f6b72b92081da8733e7b6159fb9769cc17e75479691c628",
+      "en_sha256": "42c38262a85303b0d6e34b5453d75bfd24be10c9ea56a09dd3b0e1f1fd4a286e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_01_popup_desc].content": {
+      "pl": "Każda Anomalia posiada co najmniej 1 część ciała.\nKażda część dysponuje własnymi polami umiejętności, z których wyprowadza ataki.\nSzybkość pola umiejętności jest równa Szybkości danej części.",
+      "kr_sha256": "e52854b6d8d07fa58784c921d196f1d4aee4c848a7d5e335a87136582dc09e94",
+      "en_sha256": "739f605648e6fe1a0ec16361f9e77f05b2e7cc4ab7d5c8dad7957cda0b4a3b4a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_01_popup_title].content": {
+      "pl": "Części ciała Anomalii",
+      "kr_sha256": "33a1a55b8438db64f1bf93034a2e8ee44c98a400d8c9e9e828477eaca8170aff",
+      "en_sha256": "8885f3d7595f51c02aa4add2c795dacebcf95e3716f99f775da56bd54d168ce4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_02].content": {
+      "pl": "Walka z nimi wymaga bardziej precyzyjnego dowodzenia niż zwykłe potyczki.",
+      "kr_sha256": "74f82d3887c885a0be990619d62e30af56d180cd6632bd71c10f5ed43a16cccf",
+      "en_sha256": "70b97975041cbbce03926fa3add4550e97098d68d18378d71a7d7ded7bbdd95e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_02_popup_desc].content": {
+      "pl": "Jeśli Szybkość sojusznika przewyższa Szybkość Anomalii, może on ściągnąć jej atak na siebie.\nDochodzi wówczas do Starcia (żółta strzałka).",
+      "kr_sha256": "e50abce2323c98be91aec75c2584ab992032860e01b1deb88d2b37a8fa9a5d04",
+      "en_sha256": "28328a8cda3fb191bc732e54a19f01c5301947f699eb3904a79edcec00d51e68",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_02_popup_title].content": {
+      "pl": "Gdy sojusznik jest szybszy",
+      "kr_sha256": "86aa8e08240e7ef84f90c1c3429b4e9f2253ce1dba5a3937e1b6fb75c72431f2",
+      "en_sha256": "cce4b3a66115e82cc6d5da138d45b8b4b62bde01b5e7d6b8e64beecac25ebbd2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_03].content": {
+      "pl": "Ten tryb walki nazywamy starciem skupionym.",
+      "kr_sha256": "0c18abbaa4b0996803df9c3f239a448ba33e6decbf4c7214a90f087d0a4d391a",
+      "en_sha256": "ae0149eeac1f7ffa72b819ac8d7b5981975a258957e2de4271973b62f7697c6c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_03_popup_desc].content": {
+      "pl": "Jeśli Szybkość sojusznika jest równa lub niższa od Szybkości Anomalii, nie może on przejąć celu jej ataku.\nZamiast Starcia następuje wówczas atak jednostronny (niebieska strzałka).",
+      "kr_sha256": "ffa4b1663ceed620bc18f6bd923cab928998107db92b133ff4f921144d2476eb",
+      "en_sha256": "7ca905c9b7feded24a4332180b527e5f054afcf9b5229242e56fa7eec52309f5",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_03_popup_title].content": {
+      "pl": "Gdy Szybkość jest równa lub niższa",
+      "kr_sha256": "b6f67fb009ed7634db82ec1343b3ff9d951ab98219874cb609957afc35476ef1",
+      "en_sha256": "157496adb7287f9ccc8ddda2c204af592f29b85f960fcbd7abafdcfb81af1060",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_04].content": {
+      "pl": "W zwykłych starciach łączyliśmy po kolei ikony umiejętności od lewego do prawego koła zębatego na panelu dowodzenia.",
+      "kr_sha256": "210df6aa921348bc016995be35f9f399c81b42772da5119a40677f6bb5dec017",
+      "en_sha256": "aa810e85305ed41522042f61c7f1ca44b3c89df579f7bc13a8ea84cec4c109f6",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_04_popup_desc].content": {
+      "pl": "Niezależnie od Szybkości Grzesznik obrany na cel umiejętności Anomalii może odpowiedzieć na nią własną umiejętnością, doprowadzając do Starcia (żółta strzałka).",
+      "kr_sha256": "8669cbe098d3a94f1356654ff4e63589940c6ef58132b80f46348cc71015169e",
+      "en_sha256": "914bbf3c8eba7ae21090d91b4b7e917ac97ec16cac869f370154d8ffc5df45e1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_04_popup_title].content": {
+      "pl": "Bezpośrednia odpowiedź celu",
+      "kr_sha256": "15fd2d4b16bc240fc63a85bdd143e5ca2b844ed4070278b6481757aa6ee83965",
+      "en_sha256": "e7ec7cf011124d653a6ba5d5dae3511c0abc7519380cd453fa6526b990967a9e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_05].content": {
+      "pl": "W starciach skupionych należy natomiast wybrać ikonę umiejętności sojusznika i połączyć ją bezpośrednio z polem umiejętności Anomalii.",
+      "kr_sha256": "e89d521c71897c763dceae3a218b0c3401891f988b0143a1dc6bbdc450b6ab9e",
+      "en_sha256": "1b2a1deedca93b780f63111fa3c3c89ec8dc15b97220cc6d1356a98cbebf0b63",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_06].content": {
+      "pl": "Przejdźmy do praktyki. Wybierz umiejętność Grzesznika w pierwszej kolumnie panelu dowodzenia.",
+      "kr_sha256": "d691a8dccd9fb2d1d7b23d67c98a1a5dd482a41fb66d0cb3a7424a89210c0bcb",
+      "en_sha256": "f1eea93fcaccf1d8f0f3b2a336adefb0a2e47e2ba562c2e6d805d4a33d132a15",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_07].content": {
+      "pl": "Połącz wybraną ikonę umiejętności sojusznika z polem umiejętności wroga.",
+      "kr_sha256": "405e4ad2fa255bf266de6939834ed9751ede3d31d1464f0ad0465e2ee4bbf2dc",
+      "en_sha256": "71b191d214a727274a4a9742a15327c258458953018cd568f6f232ca3fb94f4f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_08].content": {
+      "pl": "Dokładnie tak. Bezpośrednie łączenie umiejętności sojuszników z polami umiejętności wrogów to podstawa starć skupionych.",
+      "kr_sha256": "d58cd11aff8f4e6db7c392c65bacde266d035ca59ffcf1a1328c45fd3e46fc97",
+      "en_sha256": "badff029eca92179435b918983ba06baa3e2bb5805afd45dd48bfbb85062e148",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_09].content": {
+      "pl": "Jeśli chcesz oddalić widok, by ocenić sytuację na całym polu bitwy, naciśnij lewe koło zębate.",
+      "kr_sha256": "40615dc29ddd1110c880ece9df5baa0ec62c8adc8ce23674dcad8c245ea466d7",
+      "en_sha256": "baff6a2c5da2e04375e40b355b8f4b2b6fa34bb236833a88b9996c17dc6ce1c8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_10].content": {
+      "pl": "Doskonale. Naciśnięcie lewego koła zębatego przy przybliżonej kamerze przywraca początkowy widok pola walki.",
+      "kr_sha256": "be9b614d80d217d7b39023e33e272113c05ff434dde758699b510f35c01f2fd5",
+      "en_sha256": "5f536113258434636d0d6ba2c7ca996bf8243533045aaed0ee41843a1e392622",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_11].content": {
+      "pl": "Po przypisaniu wszystkich umiejętności sojuszników na panelu dowodzenia uaktywni się prawe koło zębate, pozwalając rozpocząć fazę walki.",
+      "kr_sha256": "31bec41e405f848918c0587e00a868a0c94c618774da01cd4eeccaf870f67ce0",
+      "en_sha256": "c58da204c2d57a618e6316467bc637070459b78e5b540c3437a5e5b335f1ca7d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_12].content": {
+      "pl": "Proszę więc, Kierowniku — wydaj rozkazy bojowe wszystkim Grzesznikom.",
+      "kr_sha256": "4a40d5a284a0669421c48e85ea51509371d04a0048933ee582870a096d3bcc93",
+      "en_sha256": "a9bcbc7402a4c76e96342a7cdad939ffb9d2b53cc583a6ac8a56f3737a049615",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_13].content": {
+      "pl": "Na tym kończymy podstawy starć skupionych. Zanim przejdziemy do właściwej bitwy, omówię jeszcze rolę Szybkości.",
+      "kr_sha256": "eeded2cff28ed4ff9aa8fe2d648c0a8b8ca644305685c4087bcf9d0c67a3472b",
+      "en_sha256": "c54c0fb57e433b29c27202ff339e6693a41d5a916ffa97d6eb02016295c082c5",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_14].content": {
+      "pl": "Anomalie składają się z co najmniej jednej części ciała. Szybkość widoczna nad polem umiejętności jest równa Szybkości odpowiadającej mu części.",
+      "kr_sha256": "6b2100d7e6289cec4e529bf90cf2eaea19b4ad4c9072d860dd97adfeb1a78ec1",
+      "en_sha256": "dae55f84f4a3dfacd877888b0cb0f38e31420c17020c045495c80f389b9d5678",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_15].content": {
+      "pl": "Walka toczy się zasadniczo w kolejności wynikającej z Szybkości.",
+      "kr_sha256": "da9ea256a8839e807a45af21d37989c3c21211487531b27c7c894b09c4c51e37",
+      "en_sha256": "e3c42571469599fcc25a75b255c39b8110b6b3032922b24faa2c1af697a716f9",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_16].content": {
+      "pl": "Ponieważ w starciach skupionych wskazujesz cele ręcznie, możesz wykorzystać wyższą Szybkość, aby przejąć atak przeciwnika.",
+      "kr_sha256": "8ad91d8813b255f38cda121a48750257f41edc09e9ab8ad08d735d2e4d6dbb62",
+      "en_sha256": "fc682ebb42aaf37994ba1b2cd7a97d254f0a2b684ecd92ba2045eec91bfb5ea8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_17].content": {
+      "pl": "Jeśli sojusznik jest szybszy od części Anomalii, może ściągnąć jej atak na siebie, doprowadzając do Starcia.",
+      "kr_sha256": "136e60221dce980a7f2fd58f17084572e58cbccfdbe5a593fe382725d6d07b28",
+      "en_sha256": "b22963fc2786baac4cbc7565c21b174d21c500da7eff52ae031bcbbb6f312bfc",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_18].content": {
+      "pl": "Jeśli Szybkość sojusznika jest równa lub niższa od Szybkości Anomalii, nie zdoła on przejąć celu jej ataku — zamiast Starcia wykona wówczas atak jednostronny.",
+      "kr_sha256": "2afdad3a6683b0094129f5d5c9d981816df6ba5db4d0524a874c406d289fe209",
+      "en_sha256": "bee12b00835d0ebb01b5a4f1927898145fa68fe2d0dd8f8163bfcfb89952de15",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_19].content": {
+      "pl": "Niezależnie od Szybkości Grzesznik będący już celem umiejętności Anomalii może odpowiedzieć własną umiejętnością na to pole, doprowadzając do Starcia.",
+      "kr_sha256": "a52bbbecff2f420ae70fd54fce642c0651df705c24e95b9bdd652472ee79f681",
+      "en_sha256": "0e836de0ae77baba1c1bdddc12cc172b1dd1fb229a3fe776f99e8fcb5c2949ce",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_1001_renewal_20].content": {
+      "pl": "Sama teoria może brzmieć zawile — na razie zapamiętaj po prostu, że wyższa Szybkość sojuszników ułatwia przejmowanie ataków wroga zamiast przyjmowania ciosów bez obrony.",
+      "kr_sha256": "ca7113601e68bfac823bcec1e03185eb1cea34934f7707f4de85e5c73c50c94e",
+      "en_sha256": "141a3dfbd9705d3f9d3d5fda54b666bdd5750eb8e3928660fc82a0fb42cb1c8c",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "…Dante. Pozwoli pan na słówko.",
+      "kr_sha256": "67f90759a43b90150442f1834b36a8b203a839bb97850aa113560f8c13f586ff",
+      "en_sha256": "79f4e08cd40c1d82858034115e892e33071f08f66ced532de9eef3ebe6c672c2"
+    },
+    "dataList[id=10].content": {
+      "pl": "Vergilius uśmiechnął się krzywo, poklepał mnie po ramieniu i powoli ruszył w stronę autobusu.",
+      "kr_sha256": "47930b62fc2dd51e862e2be5fc485a8a16acf116079eac0ae2208786a069d8f2",
+      "en_sha256": "df20a575c6c3ab42e152a95799cc0bf459e3b59898f22e3dff8eed42f3296433"
+    },
+    "dataList[id=1].content": {
+      "pl": "Wszyscy witali się z nowymi, a Vergilius odwołał mnie na bok.",
+      "kr_sha256": "d4087eb0a5283e1fe4d20f0dc09e3c254a07c48e81023ac1b32bc41770b1e604",
+      "en_sha256": "da7c72dd5524c92b53b78a7fc43f1fc452b450c4c30aa922326d043341f60f2c"
+    },
+    "dataList[id=2].content": {
+      "pl": "Uprzedzam: to Fikserzy 8. stopnia.",
+      "kr_sha256": "206a1ce832eddfe36fc9122f9ae93002ca2ba99c833ac15c527aafcf930cffa5",
+      "en_sha256": "8c4531a38af90cf6e2715ea806d413f1a0a600c60752dce576d2dd7ed3715712"
+    },
+    "dataList[id=3].content": {
+      "pl": "<8. stopnia?>",
+      "kr_sha256": "3bd9bddf74be9c53594679cb8fcda74652b3a8c8e7aeed6ee4fc94cadcb4bc8a",
+      "en_sha256": "21bac5f3edfcbd7418708ae71062bbe3f8597450f836820e0ca87dea6e0fcd66"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Czyli popychadła z samego dołu.",
+      "kr_sha256": "e96f192e5d4b9bfea921a5a6ab96890042da20f767e75becb6452147d519e1a0",
+      "en_sha256": "c20e93c73b38c3afac235f6ee473c72d59511361b400e8783d9accaab8a1c314"
+    },
+    "dataList[id=5].content": {
+      "pl": "Proszę ich wykorzystywać, ale nie polegać na nich.",
+      "kr_sha256": "7700942424c12e17059ebb6b2a3174f49ff93894160dc1c883cde701991476ff",
+      "en_sha256": "f32256e3f0a799f4a1255f7a8863d2ba49cb483df05761d71be386cd9466f8f1"
+    },
+    "dataList[id=6].content": {
+      "pl": "<Chcesz powiedzieć, że nie można im ufać.>",
+      "kr_sha256": "fab8800fa389f3e8c98210ea5767fc69c92c74dd2f7f4f94cec865cc8fd2dbc2",
+      "en_sha256": "562a54c499fbff942e231915df0729290794a526e9a034da4badd120fcec5445"
+    },
+    "dataList[id=7].content": {
+      "pl": "Skinąłem głową na znak, że zrozumiałem.",
+      "kr_sha256": "db07aa3f4b5e0232119d281873f0a068c88947a1eff6d8bc5bd07aabd4cf3b91",
+      "en_sha256": "08fb1ba618d3b473b7b78dabc5e1ced68174064eeb3c7a962068aa5161e97666"
+    },
+    "dataList[id=8].content": {
+      "pl": "…Może jest pan jedynym w tym autobusie, z kim da się normalnie porozmawiać.",
+      "kr_sha256": "65e7dc0ce98fd03a073f26b143839050c520ee687a4a76b9b08e8e239ed8caaf",
+      "en_sha256": "20f63603d16e2f50c67aff762efeebd994d763f4caef989a397ffb802dcf4aa8"
+    },
+    "dataList[id=9].content": {
+      "pl": "…Cóż, szczęścia w boju, Dante.",
+      "kr_sha256": "4484fdb9dd767e97934a9439ad37fb078a76849ebe5df9c25b6bc313bc64ae31",
+      "en_sha256": "bbcaca64b3f1d71fa33fbd49120e4e5851879f4e5a6928f5ce04ada16f6974a2"
+    }
+  }
+}

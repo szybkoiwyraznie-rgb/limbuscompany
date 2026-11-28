@@ -1,0 +1,106 @@
+{
+  "entries": {
+    "dataList[key=Q1011].description": {
+      "pl": "Zakończenie się nie zmieniło. Co teraz? Wyszliśmy z toalety bez zastanowienia. Najpierw pogódźmy się z nieuchronnym i szybko odnajdźmy Meursaulta.",
+      "kr_sha256": "d612a0bee02677954af3882f12d858f5fffc82ebc3e3f548a1de34ae318032ef",
+      "en_sha256": "d9dd742563fa4f4a5c8c52cd2436a6edadc3d2556d34d895f9e6ff7d9ffb795b",
+      "origin": "ai"
+    },
+    "dataList[key=Q1011].title": {
+      "pl": "Zaakceptuj nieuchronność Salonu Urody",
+      "kr_sha256": "52207fdd5141a58081c204e2ed93e01b5d2e38e72afb770fbeb32acd3bfa31dd",
+      "en_sha256": "7221c2a6b88e71f2b13b676db22ebfffc5a6ebab64c6e681d77bf429d20f5483",
+      "origin": "ai"
+    },
+    "dataList[key=Q1014].description": {
+      "pl": "Wygląda na to, że coś się tu ukrywa.",
+      "kr_sha256": "7d666b7fb28017b6c303aa2b2599c2e81777ab42b240df7254afad5574cfb9b0",
+      "en_sha256": "69347ce5a7311de2372260a90a5222dd41785ca667bb5c6223045ba5275bce52",
+      "origin": "ai"
+    },
+    "dataList[key=Q1014].steps[#0].goalDescription1": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1014].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1015].description": {
+      "pl": "Wygląda na to, że coś się tu ukrywa.",
+      "kr_sha256": "7d666b7fb28017b6c303aa2b2599c2e81777ab42b240df7254afad5574cfb9b0",
+      "en_sha256": "69347ce5a7311de2372260a90a5222dd41785ca667bb5c6223045ba5275bce52",
+      "origin": "ai"
+    },
+    "dataList[key=Q1015].steps[#0].goalDescription1": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1015].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1016].description": {
+      "pl": "Wygląda na to, że coś się tu ukrywa.",
+      "kr_sha256": "7d666b7fb28017b6c303aa2b2599c2e81777ab42b240df7254afad5574cfb9b0",
+      "en_sha256": "69347ce5a7311de2372260a90a5222dd41785ca667bb5c6223045ba5275bce52",
+      "origin": "ai"
+    },
+    "dataList[key=Q1016].steps[#0].goalDescription1": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1016].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1017].description": {
+      "pl": "Wygląda na to, że coś się tu ukrywa.",
+      "kr_sha256": "7d666b7fb28017b6c303aa2b2599c2e81777ab42b240df7254afad5574cfb9b0",
+      "en_sha256": "69347ce5a7311de2372260a90a5222dd41785ca667bb5c6223045ba5275bce52",
+      "origin": "ai"
+    },
+    "dataList[key=Q1017].steps[#0].goalDescription1": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1017].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1018].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].steps[#0].goalDescription1": {
+      "pl": "Przybycie na 2. piętro",
+      "kr_sha256": "efc7aea7923d5146f777a2898bd35cc7368a3436922c77b7b88490baad8363b5",
+      "en_sha256": "3e790421c65c92cc7b184762e9cee97d343fb5f7287767e382a3ae0705f17140",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].title": {
+      "pl": "Na 2. piętro",
+      "kr_sha256": "e3c0d639679decabf273f1483c9cee199246f1295072bac6527bbbe88134265f",
+      "en_sha256": "ddd31726c75ddf56d3ce109e7557df387f48cad80458de793a9d3c1797cd12cb",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Atmosfera się zmieniła. Wygląda na to, że poziom 2 kontroluje inna organizacja.",
+      "kr_sha256": "05620a5ce0832a5b96d2b167bbc66734c721af06ddfd04905b6bc55ab279bb12",
+      "en_sha256": "c4645247397e8e682fdb6f05a91c235da8e7bcff8cd460651c1c2bfa91363f11"
+    },
+    "dataList[id=1].content": {
+      "pl": "Ej, wy! Co macie takie skwaszone gęby?",
+      "kr_sha256": "0928421963aa86750e97962a70f461c4287436cdd55c80c8ab16920680bd0b65",
+      "en_sha256": "a054bc5cea10ea5144c06378c5f04cb41267ba4f874cdbdfd4d64b5684b2d449"
+    },
+    "dataList[id=2].content": {
+      "pl": "Nie znacie zasad na tym poziomie? Jak już musicie łazić z ponurą miną, to chociaż zasłońcie ją kapeluszem!",
+      "kr_sha256": "8d343cd5c6a38dd8bba75cd4d30d174db6fdc28d3bff4960eebed8940de206f2",
+      "en_sha256": "96d41576aa3da0a6170ff88cb88acd1ba9a8a34cc00a81c36b0fdec69dc3f9f9"
+    },
+    "dataList[id=3].content": {
+      "pl": "Czemu gadając, gapisz się na mnie? Chcesz U.K.?",
+      "kr_sha256": "c93f0eed7695c3b2a14249528410d0082e276802d9ead69c26e7d3e20ebd56f1",
+      "en_sha256": "ed22918d967dca870b8c7a84274555affa67e52854653fb2e9e2e9ee7d3ce743"
+    },
+    "dataList[id=4].content": {
+      "pl": "Co to jest U.K.?!",
+      "kr_sha256": "78fa6b9086b71802163bb72e52e831b65987c89b47effb6dcf4ab4b9d88fd86b",
+      "en_sha256": "1a2a84eb79762b43660bc002856df0d731e400b22c2a2ece4176d98905a59a4c"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ukręcę kark. Tyle znaczy.",
+      "kr_sha256": "128aabd32f1e398801d98221a41ee9eae2e9a000e504a06be5fdc7031935bf2f",
+      "en_sha256": "5c13987704def975c6fb7a8adb14569ad425e4745953d8df667333af0c1ea5ac"
+    },
+    "dataList[id=6].content": {
+      "pl": "<Ryōshū… może zamiast od razu wszczynać bójkę…>",
+      "kr_sha256": "431b05462736d9bb6ea307192a9f3051a5b9a281ddf3e563d74d7093229dcf4d",
+      "en_sha256": "40e9086f28a1b3998b1702a5850d3dd28ef961c917b8a36e92c61995e321b930"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ej, nie, czekaj. Z tym tu jest gorzej. Co ci robi za oczy, wskazówka godzinowa czy minutowa?",
+      "kr_sha256": "a08d24ec30f35404d7e6bc17b7667c06e69c5468bc5b59b8ea449be65af35a13",
+      "en_sha256": "fb46aa4a18ebd0c8a56ae9ec16897896a3c5ba9b7cf4ffd224ded36b0f2933be"
+    },
+    "dataList[id=8].content": {
+      "pl": "<…Ryōshū, gotowa?>",
+      "kr_sha256": "ac63878860bf0dd3677d41ebbf0d5d2e3394b3012a952e823dee12d38950102a",
+      "en_sha256": "f80227e8bab2ddfd34dbfe9b95522f7c361a08a04ded32a7c2109af319d44b61"
+    },
+    "dataList[id=9].content": {
+      "pl": "Oczywiście. Dante.",
+      "kr_sha256": "e6a823f9cf54fa7cc8fa3194a62c65127972ae17fe030528e5987e8bc07a5b17",
+      "en_sha256": "689d31741be7d5e5d8e22397714726cb658077f02299248f23849d5aaf422270"
+    }
+  }
+}

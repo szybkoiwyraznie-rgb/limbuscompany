@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=817001].desc": {
+      "pl": "przy HP 65% lub mniej: zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] po wygranej w Starciu\nprzy HP 40% lub mniej: zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] przy użyciu Umiejętności\npodczas gdy warunek zostanie spełniony choć raz, efekt działa nadal.",
+      "kr_sha256": "d8ac16b97db632bc0385ff1fc345217dd51fcaa408775195c62e282dc828ac0e",
+      "en_sha256": "b8ab4a8cfa2998c76ffb2433f65744af1aa4f1c05df65ca8c6627ef686a8fa37",
+      "origin": "ai"
+    },
+    "dataList[id=817001].name": {
+      "pl": "...rity",
+      "kr_sha256": "2a0c641c3402c0c88c491749bdf1b1b9401022c03b8fa5ea38bd70ad077be389",
+      "en_sha256": "a79901896bba7ee8c883ac54dd22ea253d6c5b99c77887bf3fa61ada2bf9906e",
+      "origin": "ai"
+    },
+    "dataList[id=817002].desc": {
+      "pl": "po pierwszym dojściu do siebie z Oszołamienia, po wygranej w Starciu zadaje przy trafieniu dodatkowe obrażenia Gniewu równe 10% zadanych obrażeń.",
+      "kr_sha256": "7769368060613e16c703db039af047e5154006f3b2d72bcf960775d2299e8ff6",
+      "en_sha256": "919056cada2952e7dac3246c5daae28007e65cabb28ec9d0187fa510e0e2a081",
+      "origin": "ai"
+    },
+    "dataList[id=817002].name": {
+      "pl": "Dir...",
+      "kr_sha256": "b658296256ee20745626c50f89a4745abd3c12fb6b0942cac45db394ed44b86f",
+      "en_sha256": "87139383f3bddb41072ed53e9155111bef0af092b033fbbfd60ac50350a7d23e",
+      "origin": "ai"
+    },
+    "dataList[id=817003].desc": {
+      "pl": "przy pokonaniu wroga przywraca 200 HP Korpusowi i Części.\nzyskuje 1 [Agility], 3 [DefenseUp] i 2 [AttackUp] w następnej turze.",
+      "kr_sha256": "59ba76dc2aff93b2e50a028e80103a849694ea7ff506a25f6aee26c3ffda6b3c",
+      "en_sha256": "c72e731b27ffed0c1d04a351d4402cbc1a2f26177d28240bb42dfb0e2081c939",
+      "origin": "ai"
+    },
+    "dataList[id=817003].name": {
+      "pl": "Pred...",
+      "kr_sha256": "1811e98d726ae8815dadc49fecda857202be3fb864428b053f1a1fea310e9f5c",
+      "en_sha256": "c50101d88b331596db87719c6456bb6a003adf34e8879455a770255d443d6019",
+      "origin": "ai"
+    },
+    "dataList[id=817004].desc": {
+      "pl": "priorytet: cele z [AaCfPbBe]",
+      "kr_sha256": "5deb46208420987f079a8220132777bb29947b5011ed836051c8acf70a173616",
+      "en_sha256": "1c6ffcdcdee60b19b86e628a3df8fc5e4105d34cb81991eb7dc3be4fd58d07f1",
+      "origin": "ai"
+    },
+    "dataList[id=817004].name": {
+      "pl": "...ked",
+      "kr_sha256": "7024d7553ec9a9a30f5000aeb55843445a250bbd84883cbef7aad9df94986abb",
+      "en_sha256": "cdeba6afe3b501ac1e247da5f48f82e0f834e49e9530633fdb9ed7866addbd61",
+      "origin": "ai"
+    },
+    "dataList[id=9013601].desc": {
+      "pl": "Koniec tury: jeżeli przechodzi w Oszołamienie, dochodzi do siebie i przywraca 20 SP. Zyskuje 1 Wzrost Poziomu Ataku w następnej turze. (maks. 1)",
+      "kr_sha256": "d603516f3a98deab5fd93e1957b775ca85a33f76a044e3455d97e2e77729107e",
+      "en_sha256": "c94198717cb3c4d4db4e7d00684f22aba4c2eba291bca1dea79646c1548e2956",
+      "origin": "ai"
+    },
+    "dataList[id=9013601].name": {
+      "pl": "ies...",
+      "kr_sha256": "cebc64ca3022a68ef24b67be0b005844ac03acad573153bafb02c75129bb5724",
+      "en_sha256": "4ec42087af4ac0cb1fde0a268411971da5e15ee0c65aa2020bd9e2e3b9bd24ea",
+      "origin": "ai"
+    },
+    "dataList[id=9013602].desc": {
+      "pl": "Koniec tury: jeżeli dochodzi do siebie z Paniki, zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "21585a8a52e83ff103a546a6862298c19766cbee4864787e15b2f5007bc04980",
+      "en_sha256": "9372125467d2bdbd093082bd1f97270e92b5dfaec2de7283a97c0cac009adf10",
+      "origin": "ai"
+    },
+    "dataList[id=9013602].name": {
+      "pl": "Yo...",
+      "kr_sha256": "55ebc906dc8935b04016360fdb4f7268f2d06fe22d269738d855a67b14fbec27",
+      "en_sha256": "54ac8c7027b8ae1be8c515afb0f9830738094e405bb57ee70ea3bf36b18389a3",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].desc": {
+      "pl": "jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, Moc Starcia +2",
+      "kr_sha256": "91a73e94951a09238e069e76fc8ddcf78a41dad7cd831ce14ccd505ede35b1a3",
+      "en_sha256": "2bbd4788f84e64c3399248c64f05cbb382aad3b3b94ef51cf431346eab757cb5",
+      "origin": "ai"
+    },
+    "dataList[id=9013603].name": {
+      "pl": "ool...",
+      "kr_sha256": "14e4789b71a2bdf848977ff2888ad0b6e70f8cec32ab702db8a906c582d7ef0e",
+      "en_sha256": "19d76b207907040fadd83d616651f8729291f64e53ff2d70b14d7ef80a534f79",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].desc": {
+      "pl": "przywraca 10 SP, gdy wszystkie Monety Umiejętności ataku trafią Awersami",
+      "kr_sha256": "3cd2153ddcc43c09006bd6e5accc02a6f18017ddde445cf643bf045cb87e36b0",
+      "en_sha256": "b9be8772b7c10043ac0f2e04781831598ba77510f01034aae6b2f3b4a1e8c480",
+      "origin": "ai"
+    },
+    "dataList[id=9013604].name": {
+      "pl": "oice...!",
+      "kr_sha256": "69fb09318768d81c89b67516161a5d1f4cb402a0167e53ece0f36639667a353b",
+      "en_sha256": "d9939715c2e156df61743cc39c84f77b772132f2585ede2a2dd5d38b4400de2a",
+      "origin": "ai"
+    },
+    "dataList[id=9013606].desc": {
+      "pl": "podczas Starcia: Moc Starcia -1 i otrzymuje 10 obrażeń HP (te obrażenia nie doprowadzą HP do 0)",
+      "kr_sha256": "3a212417f407924046168709aa5f0f55dfd48c7c2d9119580ea72aab3a83fa3a",
+      "en_sha256": "23050f7092b9cf37a93129c25736da4bcfa8cc61ff18b1ea96fda0786ba0c637",
+      "origin": "ai"
+    },
+    "dataList[id=9013606].name": {
+      "pl": "Threa...",
+      "kr_sha256": "36bd8c7dd2e83fa1e8e564c653afb182a16c1d8f21b014eb1a08ea85425f5e9d",
+      "en_sha256": "6a7c031a41bf44630289cbd937076a2b399a62d60f3eb0cb56cbc413a70a0250",
+      "origin": "ai"
+    },
+    "dataList[id=9013607].desc": {
+      "pl": "po przegranej w Starciu zyskuje 3 Wzrost Poziomu Ataku. (1 raz na turę)",
+      "kr_sha256": "b67fff7e0f8f8bb002dd182b43f7aa5a4c6992b2b766d5114dc7be76413c6542",
+      "en_sha256": "6e864028988fbd43776994e0135090ca0613b3fead0c4d345b2c3204ccb32361",
+      "origin": "ai"
+    },
+    "dataList[id=9013607].name": {
+      "pl": "Opp... tta",
+      "kr_sha256": "6555f08ec2cde26882a729c15a876e5c1cb2d0c03ea38aac2ceff8deb90c3295",
+      "en_sha256": "36526eca7e4f55481cfd5c76990fa8bbe93e38fa8c241e7aaff83e836ea77810",
+      "origin": "ai"
+    },
+    "dataList[id=9013701].desc": {
+      "pl": "Koniec tury: jeżeli SP tej jednostki wynosi -10 lub mniej, zyskuje 3 Wzrost Poziomu Ataku w następnej turze.",
+      "kr_sha256": "a90503314e5885485aafd230249b45c58a5549b072e24625377f954d3450f7f4",
+      "en_sha256": "62d1ad1493e904b326932b03a9da0b7f44420b26033ff77602fb63594210c2ad",
+      "origin": "ai"
+    },
+    "dataList[id=9013701].name": {
+      "pl": "Bod... ...st",
+      "kr_sha256": "4230734c9414cab766b21a6041ef85b4235f65b7e340bed6a6db9b2ed120bb6d",
+      "en_sha256": "a4d70944a17470c439d424d8c685403b1df857abf49414b2f40b02e547dc3c8b",
+      "origin": "ai"
+    },
+    "dataList[id=9013801].desc": {
+      "pl": "przy użyciu Umiejętności ataku, jeżeli HP celu wynosi 70 lub mniej, Moc Bazowa +1 i zadaje +20% obrażeń",
+      "kr_sha256": "71d8ee8cde0bd23cbae434674ba72c0fafd579e329e53f7a688f862a5e84af6c",
+      "en_sha256": "764728beddf3f622f31d67331f8202542fb61ed7ca06d9440f154babe5980ff8",
+      "origin": "ai"
+    },
+    "dataList[id=9013801].name": {
+      "pl": "Hou...",
+      "kr_sha256": "99e973ba8cd808dea681cafa1734edd78da524831a1f835bb7a532ed9dfac309",
+      "en_sha256": "b59f70e47d7dbbd77a7be621338588ab251f70c176deb7aa16891389529da331",
+      "origin": "ai"
+    },
+    "dataList[id=9013802].desc": {
+      "pl": "przy użyciu Umiejętności, jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, Moc Starcia +2 i zadaje +20% obrażeń",
+      "kr_sha256": "a84af23d8db3df8260c9208e5f6d800a4dcd9bc11e342e08035764f81db24f07",
+      "en_sha256": "36169dbc63549b59a42cd3d29dfcaa9e821dae9f6b570916b68ebc7aa823a053",
+      "origin": "ai"
+    },
+    "dataList[id=9013802].name": {
+      "pl": "...erding",
+      "kr_sha256": "cdae34fd08ff8c36f19390eea92ac08683450734b370d34ce1a149f6c45668a7",
+      "en_sha256": "1259d3c4c02bcbb6febf83fab06e0d3f9c787895ef1764fcbf142271d6b62782",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].desc": {
+      "pl": "przywraca 10 SP, gdy wszystkie Monety Umiejętności ataku trafią Awersami",
+      "kr_sha256": "3cd2153ddcc43c09006bd6e5accc02a6f18017ddde445cf643bf045cb87e36b0",
+      "en_sha256": "b9be8772b7c10043ac0f2e04781831598ba77510f01034aae6b2f3b4a1e8c480",
+      "origin": "ai"
+    },
+    "dataList[id=9013804].name": {
+      "pl": "Tou...",
+      "kr_sha256": "51130322f206b20667b1f039940ef846861b3e57cd5ee2ad29504090af788d12",
+      "en_sha256": "bda2e9d76c0ca3cf57922b65672c4dcff2d64ee7fecb20dd6059f8c22a2da787",
+      "origin": "ai"
+    }
+  }
+}

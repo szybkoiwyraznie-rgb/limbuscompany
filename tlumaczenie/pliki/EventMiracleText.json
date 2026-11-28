@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=miracle_bonusUI_Desc].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane E.G.O, zwiększasz zdobywanie <color=#008d0d>[Worków Ozdób]</color>.\nSuma wzrostu zdobyczy może osiągnąć maksymalnie <color=#008d0d>120%</color>.",
+      "kr_sha256": "67d67d5b544ae39cd634ca8929e4bbb1e581592264b5a9acce1051ebf6494100",
+      "en_sha256": "32301c0f8a12b6d33cc68dac1bb20be86aec8479d5af009ff5da6987f52b20c1",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_bonus_popup_title].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_chapter_map_difficulty_ui_9105].content": {
+      "pl": "NORMAL",
+      "kr_sha256": "db2cb3fe28e2c54fce50bd9c03fd2b131091229c0ceda79289527aaba47226ad",
+      "en_sha256": "db2cb3fe28e2c54fce50bd9c03fd2b131091229c0ceda79289527aaba47226ad",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_chapter_map_difficulty_ui_9112].content": {
+      "pl": "HARD",
+      "kr_sha256": "0e24076baf990d55aa1511d1af1d6741b19c9a2e9e9911f9ec7b5d5dbe5a5e9f",
+      "en_sha256": "0e24076baf990d55aa1511d1af1d6741b19c9a2e9e9911f9ec7b5d5dbe5a5e9f",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_chapter_map_difficulty_ui_event_date_format].content": {
+      "pl": "Do {0}/{1}",
+      "kr_sha256": "31de1397efb732c6c4c4bc1b4d2920ae2acae00dad8391193a881188233f3c84",
+      "en_sha256": "09edbf9018ba6d92a91cb996845031f88aee5fc738ca1e0c5987bb2cd4f5c540",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_chapter_map_difficulty_ui_hard_chapter_unlock_condition].content": {
+      "pl": "Po ukończeniu {0}-{1} odblokujesz Poziom Trudny",
+      "kr_sha256": "675c8ddcfa9d0b0ca2c0eb44d853dee067429a4a44680fa033ca2fe05e6ee12c",
+      "en_sha256": "6dfe9a7de7a55102f0f2d7fa2815882fe481d1716313e821630d484025f1e40b",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_exchange_scrap].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_rewardpage_desc].content": {
+      "pl": "Zdobywaj <color=#008d0d>[Worek Ozdób]</color> przez:\npierwsze ukończenia etapów wydarzenia i Głównej Fabuły oraz Lustrzane Lochy.\n\nW oknie <color=#008d0d>[Wymiany nagród]</color> możesz kupić różne nagrody\nza zebrane <color=#008d0d>[Worki Ozdób]</color>.",
+      "kr_sha256": "2ff20e41c19d9950040fd69ca3a338698f812b5b62d81a62cc9e0a3fe6c84b39",
+      "en_sha256": "985df58663a6fd544de604ddfe93713ccf3666c576dcd785207dc6bb509d1dae",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_scrap_counter_label].content": {
+      "pl": "Zdobyte Worki Ozdób",
+      "kr_sha256": "f0f07bad195037d367947025b2797acafa73ebdd65f6bd1f9c97f9eec221bf8f",
+      "en_sha256": "af38f921db7add02b66efed0411b1684299ce8a0ef8a697e382684356fc3064d",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_scrap_guide_desc].content": {
+      "pl": "Ukończywszy etapy wydarzenia lub Głównej Fabuły albo Lustrzane Lochy, zdobędziesz <color=#008d0d>[Worek Ozdób]</color>, a z pewnym prawdopodobieństwem dodatkowo <color=#008d0d>[Wielki Worek Ozdób]</color>.\n\n<color=#008d0d>[Wielki Worek Ozdób]</color> od razu zamienia się na 20 <color=#008d0d>[Worków Ozdób]</color>.",
+      "kr_sha256": "1d615a811d997805654c9abd1026abdf5a14c2f14d58a0db4df92fe1447d4a2d",
+      "en_sha256": "019e8ebb7aeb310e4d26b4da8d3ee6a42782347d640afb5d740c94cda63a8db5",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_scrap_guide_title].content": {
+      "pl": "Informacje o walucie wydarzenia",
+      "kr_sha256": "cbeab819cdf99d729fa7db1f9bff96b409a22df700287972151eb04f950d0eda",
+      "en_sha256": "8f0c8a131e41638cfd4afe7b13d020121cf950f5bc9d4c6e0e44e0a5fef797bc",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_stagebutton_end_event].content": {
+      "pl": "Za późno! Wydarzenie się skończyło!",
+      "kr_sha256": "21e5c492eacd7c027e158f3589c276379b0d923033c136181eadf40bcbe34653",
+      "en_sha256": "38b41dd43e1eda10e8fc71f3e2a5660100f42d84e7d021d5d4f579531b4e15d8",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_stagebutton_normal].content": {
+      "pl": "O, zegarowa głowo! Pokazuj się prędzej!",
+      "kr_sha256": "c52a597d944b5c8ea90ff277edcf0c5dcffddce077d872c4a82ba4b1d7f548e6",
+      "en_sha256": "8b65277f2b3bcf5b516134b555a10d79587a75117af0dbc5d7de697af48f15c7",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_stagebutton_not_clear_cp4].content": {
+      "pl": "Najpierw ukończ Cant {0}!",
+      "kr_sha256": "93ebbdc18ff49b033ad89321824090c28e648a81a1f9990d261910c528904b0c",
+      "en_sha256": "3b36ea175d746b22be5d56521ee497ac5f30ce708d00fbfdebadd5b7ab1a3a32",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_storybutton_before_start].content": {
+      "pl": "Odblokowanie po ukończeniu 5.5-1",
+      "kr_sha256": "ee406138112a20da058bcb44b6795248639726a78c3c9024f99c079d55968068",
+      "en_sha256": "a9e0696af8632c54ac63e5028e623d9bb21bea136bba4a777805df38c03eea0c",
+      "origin": "ai"
+    },
+    "dataList[id=miracle_storybutton_normal].content": {
+      "pl": "To zapis twej przygody!",
+      "kr_sha256": "56eeb67f9271d7733493f052496fd1eeb63c243a3fd29df3e265c7413a4b6ddb",
+      "en_sha256": "c8f9aae88d18ffca5982c9be0b908985758c98cc79868bf6df93836b615d2e49",
+      "origin": "ai"
+    }
+  }
+}

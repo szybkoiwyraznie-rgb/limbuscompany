@@ -1,0 +1,998 @@
+{
+  "story": {
+    "model": {
+      "???": {
+        "pl": "???",
+        "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+        "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615"
+      },
+      "그레고르": {
+        "pl": "Gregor",
+        "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+        "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e"
+      },
+      "단테": {
+        "pl": "Dante",
+        "kr_sha256": "5ff279460941e1711e924afba614af6c1c1cc1b8e0135e88612fbadd9fa15558",
+        "en_sha256": "c06770b58143dcc98a29c4fb1709396909e0107def6d36bf503251543bd0506d"
+      },
+      "돈키호테": {
+        "pl": "Don Quixote",
+        "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+        "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e"
+      },
+      "로쟈": {
+        "pl": "Rodion",
+        "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+        "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143"
+      },
+      "료슈": {
+        "pl": "Ryōshū",
+        "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+        "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e"
+      },
+      "뫼르소": {
+        "pl": "Meursault",
+        "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+        "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe"
+      },
+      "베르길리우스": {
+        "pl": "Vergilius",
+        "kr_sha256": "c17124f4fb2ab4276f551a7e1bf05b8cc4c900b7ae180a011d42f66344f5aea9",
+        "en_sha256": "e449e72b3014d1b6ab496b37e0d75809028066486a9cf88c7b7a4636a88e568c"
+      },
+      "싱클레어": {
+        "pl": "Sinclair",
+        "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+        "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871"
+      },
+      "오티스": {
+        "pl": "Outis",
+        "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+        "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497"
+      },
+      "이상": {
+        "pl": "Yi Sang",
+        "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+        "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f"
+      },
+      "이스마엘": {
+        "pl": "Ishmael",
+        "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+        "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94"
+      },
+      "카론": {
+        "pl": "Charon",
+        "kr_sha256": "8817461b4f1a515d027a98628b9bcc1d080c055e4ba610b651aa38456cedd893",
+        "en_sha256": "ea9246ceeac13ba09feb72c503221ab8d05e2714a0a40b445c7b21761c173153"
+      },
+      "파우스트": {
+        "pl": "Faust",
+        "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+        "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8"
+      },
+      "홍루": {
+        "pl": "Hong Lu",
+        "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+        "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2"
+      },
+      "히스클리프": {
+        "pl": "Heathcliff",
+        "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+        "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec"
+      }
+    },
+    "place": {
+      "10구, 뒷골목": {
+        "pl": "Dystrykt 10, Zaułki",
+        "kr_sha256": "a7c367a860fd54d071782f4a9f0677cbe5ffd09cc5900387fb6ab54e59078527",
+        "en_sha256": "a1f25073010319df20dbe384f4ff0506cd4e646cd90ecdd58d42524ba7bc2ca7"
+      },
+      "11구 로보토미 지부 어딘가": {
+        "pl": "Dystrykt 11 - gdzieś w filii L Corp.",
+        "kr_sha256": "49b17df332d2819c0d6555b8805c2779e8fda8969e319aaf7a79ce34b4289d7a",
+        "en_sha256": "7d9f1f06a3f3d5095d8227a6912cdc1c3de25e0f302027abec47c8895b10b390"
+      },
+      "4구 뒷골목 어딘가": {
+        "pl": "Gdzieś w Zaułkach Dystryktu 4",
+        "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
+        "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
+      },
+      "4구 로보토미 지부 앞": {
+        "pl": "Dystrykt 4 - przed filią L Corp.",
+        "kr_sha256": "8f64f684248dbaaa7e2a24d3ab4c807f738380fdd14cdf2d6b7419431c369e9b",
+        "en_sha256": "2c65ef169f4cc2b6cc131415bad6907a50f8e5fd03a6035716232a8553ebfb06"
+      },
+      "4구 로보토미 지부 어딘가": {
+        "pl": "Dystrykt 4 - gdzieś w filii L Corp.",
+        "kr_sha256": "89340384f0008fde25f792dd6ed3686b241e1cff8c20b9e99cb9226074fbc1cc",
+        "en_sha256": "980eae41b2fb3e40845fc4b0d54426eef4d33eed3a9833a5ad85b24124db15e6"
+      },
+      "4구 로보토미 지부 입구 근처": {
+        "pl": "Dystrykt 4 - przy wejściu do filii L Corp.",
+        "kr_sha256": "6207ed9362d17813637bf6b5785e54832e0cd7b44cb3b741bbc6565c7381716c",
+        "en_sha256": "891c5d79570cc7d4bfe33f92439b2d6f011f417cf31b8941758fbed9a1770107"
+      },
+      "???": {
+        "pl": "???",
+        "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+        "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615"
+      },
+      "K사 검문소": {
+        "pl": "Punkt kontrolny K Corp.",
+        "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
+        "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+      },
+      "K사 번화가 골목": {
+        "pl": "Zaułek w śródmieściu Gniazda K Corp.",
+        "kr_sha256": "ebef4d96aa23a0babf005dcc620fee4a8265a03e4e777af39fba15e8d3e445f0",
+        "en_sha256": "659c410a38fcabaad9094eb83f97fa77e3f12263d62450f28f85a24c2dc63040"
+      },
+      "검은 숲": {
+        "pl": "Ciemny las",
+        "kr_sha256": "b017d5e0b6a888a650214e2661f74371526438f9480b5e1a7cdb1cc030f1045f",
+        "en_sha256": "4f72ee362d0362b4853952ad3934334fdaaf303f1a3a6bef3d4da298110be721"
+      },
+      "과거의 은봉이네 호프집": {
+        "pl": "Bar u Eunbong: przeszłość",
+        "kr_sha256": "efdb18bc2ecc213f70267b56a21d139d8fdc0b2e0544a96d44999d617f053b0c",
+        "en_sha256": "056e2c93119d65e0e1bc8d13716fd85f52b50879c6e54df2f177d14d1212a74a"
+      },
+      "교실": {
+        "pl": "Klasa",
+        "kr_sha256": "ed3c8c7f5e586d363644a5df1f63af6b0dbf563ec6f7b9913464711920745de2",
+        "en_sha256": "5b547053395f200730a98acb9b3cb3c66d3e77b8b4bec165634cd6585d4cddbc"
+      },
+      "끝 없는 시체들의 언덕": {
+        "pl": "Bezkresne Wzgórze Trupów",
+        "kr_sha256": "9f72e7dae20c113a27836caa37a0407c0949e87dfe6d0dff43c98bf6b5fb026b",
+        "en_sha256": "9777711d552c9eb8053d795b3168000a4bba888e507dd7245e76754eabf8277d"
+      },
+      "끝없는 시체들의 언덕": {
+        "pl": "Bezkresne Wzgórze Trupów",
+        "kr_sha256": "789cb41a7820fc5d3a77229b0a200254e2031fe42546da4eb514ba664a896cf2",
+        "en_sha256": "9777711d552c9eb8053d795b3168000a4bba888e507dd7245e76754eabf8277d"
+      },
+      "난장판이 된 카지노 1F": {
+        "pl": "Zdemolowane kasyno - poziom 1",
+        "kr_sha256": "2b47248f6cce0fb993f2d1c490fa3e9e171556ec253fe281b686cb4847432acc",
+        "en_sha256": "600725696e0875f6578d14c07f24b5eabc550a8eb81271c1f62f564b15e3b101"
+      },
+      "뒷골목, 어딘가": {
+        "pl": "Gdzieś w Zaułkach",
+        "kr_sha256": "6224b3e3e753c33651d35b20303fcf68cb23194de5875b5470f30bd2b1218270",
+        "en_sha256": "c64e018b944b6379a691f05f8c4f22eec1b01d46cb98768e9b75132484e52559"
+      },
+      "메피스토펠레스 내부": {
+        "pl": "Na pokładzie Mephistophelesa",
+        "kr_sha256": "a3064f2606c0d998f9aef2cb12b6518b9481c365a1ac5b60a98ff284bff19685",
+        "en_sha256": "a8d5f19555ad0bd2be4274f16f1301b15dc2ee845ddcdade3130106a8e3077bb"
+      },
+      "보살 치킨": {
+        "pl": "Bodhisattva Chicken",
+        "kr_sha256": "186c9db036c2829c81840e9d94f53d78a6b4d21a523f5d42070ac1498fdaf8d1",
+        "en_sha256": "fefeac81c68a946d4e7e1394ab703696a3165c059349ce28fc525c186b5847f7"
+      },
+      "보살 치킨 앞": {
+        "pl": "Przed Bodhisattva Chicken",
+        "kr_sha256": "ec3f245e221fb07a1adc47cd4b362d692281d5a96a2e5a6d52945422db423953",
+        "en_sha256": "fefeac81c68a946d4e7e1394ab703696a3165c059349ce28fc525c186b5847f7"
+      },
+      "소란스러운 교실": {
+        "pl": "Rozwrzeszczana klasa",
+        "kr_sha256": "58df5553415f5ddbf2cffb1d513f379a63c0e12dd1b7feb7896fb256c1525c91",
+        "en_sha256": "a2b4234148cabe22acfb80bc1f6694b9b2ec87d9ecd0519484a8b938ea9bf94d"
+      },
+      "싱클레어의 옛 저택": {
+        "pl": "Dawna posiadłość Sinclairów",
+        "kr_sha256": "69c641265a764d44604c6a8b66d241c4201289dbd71f426bf576d279407f00c3",
+        "en_sha256": "cd910cf292b44410611cbc5be9b68fabfe12949d9fd51d244cfe93aabe38ab35"
+      },
+      "어느 골목길 한 가운데": {
+        "pl": "Pośrodku jakiejś uliczki",
+        "kr_sha256": "b1d73b3f153fedce799b5946eac58c1271a601963e4a2e7408245a5fb787e613",
+        "en_sha256": "5878acd12692564c09b83b23acd411846eef490b4191e99ff16fa0bfcb5b84c9"
+      },
+      "얼음 성 내부": {
+        "pl": "Wnętrze lodowego zamku",
+        "kr_sha256": "430aa595134c66cef69527aeddeeb2420b196d6ad1691dea82aa56648de6754a",
+        "en_sha256": "c7cf8d02158d5d60bd5b3df9db259e4da1db7643358070001145f892d716bf17"
+      },
+      "엘리베이터 안": {
+        "pl": "W windzie",
+        "kr_sha256": "b6a84b97e30869b7d2e63102be0275c60c967a5c0d494b526d08bb20c9cc173a",
+        "en_sha256": "46c20495ef2548cb0c16532b9ea08eaa9a174af7a2b0c132c0dacd500ca494e7"
+      },
+      "연기전쟁 중부전선": {
+        "pl": "Środkowy front Wojny Dymnej",
+        "kr_sha256": "91c6bf7bac16dc5781b24652b5499ccc0854e85509e490436898d8e50247330d",
+        "en_sha256": "0f961704a35a0add3fb1b3e0a2de1c568cd7074eddd4d8a75953ed9f334ff63c"
+      },
+      "연기전쟁 한복판": {
+        "pl": "W samym środku Wojny Dymnej",
+        "kr_sha256": "145b724ff2c31693168acc456d07d30a43de927614fd3845eef8c89ce77b34cc",
+        "en_sha256": "5519ed88f185b0b05406351f9bb54ae480e6975aacb609125acc4e14dad7b4dd"
+      },
+      "은봉이네 호프집": {
+        "pl": "Bar u Eunbong",
+        "kr_sha256": "6835aca744362ce23067221e88c5a25264872afe07c1cd6ce7dbe307cd6c302a",
+        "en_sha256": "25a694520425e4eccc7d2180418da5e9c144e71864bd7f8721e84953d1f4bc5e"
+      },
+      "은봉이네 호프집 앞": {
+        "pl": "Przed Barem u Eunbong",
+        "kr_sha256": "1ff632203992245f674897bc0ab654232c3606831987ab44ea4b7a5a94dd931c",
+        "en_sha256": "bbfcf3b3d96d976f73f3cef440485e0a50535f498c9b25e05af7f92028f03239"
+      },
+      "은봉이네 호프집 주방": {
+        "pl": "Kuchnia Baru u Eunbong",
+        "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
+        "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
+      },
+      "이웃이 잠든 얼음 성": {
+        "pl": "Lodowy zamek, w którym śpią sąsiedzi",
+        "kr_sha256": "a12aa0210f32e659a287f4d65a2dfd2179966b1e5c645678934904fc30418572",
+        "en_sha256": "54919774633162a03f4429144d009707275f646d6294f0e50b55bdf65b2b2cdc"
+      },
+      "전당포": {
+        "pl": "Lombard",
+        "kr_sha256": "bd7c680245358a5b15bcbe6ccc8624c379e902f6d8718b8c96ce464c6ff7157d",
+        "en_sha256": "55ef0db9163ef882b65c6aab35c90f0153778fc45b07080d25bc18113c8e64b5"
+      },
+      "전당포 거리": {
+        "pl": "Ulica Lombardów",
+        "kr_sha256": "7dfd5eebd00477adf788a29f51c25844372ace919edbd71e57fa7adf093dd0ee",
+        "en_sha256": "6c2aba21309ae73df18a4e0db4f00e96a029b343314e9268a186497be60bd842"
+      },
+      "지하실 어딘가": {
+        "pl": "Gdzieś w piwnicy",
+        "kr_sha256": "804d2e4c73d40589a87b19bc4b4d3955b1705b9e8dc6469177721e14a255304c",
+        "en_sha256": "9e635e188fd8ffbad3355f0771be0976276a3e82effe6b03873c2acff19dd114"
+      },
+      "지하통로": {
+        "pl": "Podziemny korytarz",
+        "kr_sha256": "06e6611c0a53e802e84f03bdfbfafb39b530337492ce3a56c67ec4256d60e505",
+        "en_sha256": "7cebc5ce5919bf8c46502a984772e53d61f49388d07969e0db7802688bebf71f"
+      },
+      "카지노 1F": {
+        "pl": "Kasyno - poziom 1",
+        "kr_sha256": "b297854020b482ce7e30cc992212292102f0f6f10e9f65b4539c016e4be49a75",
+        "en_sha256": "d8732739db1a0851d8261b958fe3d15cd5c4e955e620a96e720e1bf6c1ff7b2b"
+      },
+      "카지노 2F": {
+        "pl": "Kasyno - poziom 2",
+        "kr_sha256": "d69ec25d4323d48d21c5963604ecf8a6adadd8190109e123bb2f610d9c3eac9c",
+        "en_sha256": "e7c5e73a50b78723abed257d3e9f0768f761d7672826a03701f8d318f35364ec"
+      },
+      "카지노 3F": {
+        "pl": "Kasyno - poziom 3",
+        "kr_sha256": "40c36d901f6b692af105ffb031110463a49702c85713bb3595f733a585902a10",
+        "en_sha256": "1783ccac8063707e944a94308e7af527f2f0dcb7beeb34e80cf1d6464452a1fe"
+      },
+      "카지노 개인실": {
+        "pl": "Kasyno - sala prywatna",
+        "kr_sha256": "0a7917281b8b640eaa4d87663022f7c4d6e60a2852db978fbe6e014e073c4ec9",
+        "en_sha256": "365b03fc9980c47744ce359d96dce43818e6b919e603916e686ca754f2f139b6"
+      },
+      "카지노 꼭대기 층": {
+        "pl": "Kasyno - najwyższe piętro",
+        "kr_sha256": "6f8ec037e3382d0127b588a384e13cc669fcd932b94573819b75df31b8ad9e20",
+        "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9"
+      },
+      "카지노 입구": {
+        "pl": "Wejście do kasyna",
+        "kr_sha256": "e76684b316a870e01d2459607e7d81819317b416686399297ca32987bf63bc26",
+        "en_sha256": "c94c64e4631877a73bc8eb4070ee87e6e8094b8c463b6ec8d5e9201e61191620"
+      },
+      "카지노 지하 광산 1층": {
+        "pl": "Kopalnia pod kasynem - poziom -1",
+        "kr_sha256": "62c0b575a90707d4d6f08caf181f96c2cc15555754c307d940da17cf7638167d",
+        "en_sha256": "c382ee01fda06c5dffb7413c58a41fff71b40743f83bcbfd09d13ffe83604aac"
+      },
+      "카지노 지하 광산 2층": {
+        "pl": "Kopalnia pod kasynem - poziom -2",
+        "kr_sha256": "aba00cd9d3a817dcbbf8c7b69a16649c83fdc9484c66ac861db075bb7bf40eee",
+        "en_sha256": "26098528454719baf70a20ae0ef8ff420d8efbd3ef00095c7fff56b10a461357"
+      },
+      "카지노 지하 광산 3층": {
+        "pl": "Kopalnia pod kasynem - poziom -3",
+        "kr_sha256": "58afd63d5a29865cd62cb83429a1013f5fa97a26ad33964e7ce06b512fbbe518",
+        "en_sha256": "db7c0ebd56b152f29e13f4b62aed96f6694369f9ec8de8f1e31a99770c449866"
+      },
+      "칼프 마을 가는 길": {
+        "pl": "Droga do Calw",
+        "kr_sha256": "67f340b17bae73f4c18d076d77ef70276a6fc649b1d01e6a970a03b813fcc302",
+        "en_sha256": "12b3185a27e42b267a2c5d4524331899683ebb41f85833cb45516ccad6498214"
+      },
+      "칼프 마을 광장": {
+        "pl": "Calw - rynek",
+        "kr_sha256": "2989fffd689a2ef09e244d8780cedfed5c7e6ca0d94827f77e2a9b17b282b633",
+        "en_sha256": "07da38dc9cf2d2a3c104a2a1f712d2cb02d29f6b928f7d859a8274a420fa7de4"
+      }
+    },
+    "teller": {
+      "25구 주민": {
+        "pl": "Mieszkaniec Dystryktu 25",
+        "kr_sha256": "7f576a149c166196e3d8bade8e696eef8f32220f2b76209f1b1af2d310d90553",
+        "en_sha256": "280eda6fb8fa915b776a9dbf5339f5222c7979611d9d288faaae163b8a5b2d17"
+      },
+      "???": {
+        "pl": "???",
+        "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+        "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615"
+      },
+      "Siegfried (tylko EN)": {
+        "pl": "Siegfried",
+        "kr_sha256": "532e430902962e6b5f5ff6abb3d0d5cb39aac68d86fe8358d3695007d39982d4",
+        "en_sha256": "f3ac1545d508987281bab69231117a29a3d92c5e1d165155761fca0d302d81a7"
+      },
+      "가환": {
+        "pl": "Jia Huan",
+        "kr_sha256": "66f9588b73fb74a45a2b218da02efcd3d9860149e6b9f876d91db9895b0c6740",
+        "en_sha256": "1313906876dda43b500fff9557389602d98f24ed5ed1256cedfe6888471f964c"
+      },
+      "각 잡힌 카지노 경호원": {
+        "pl": "Wyprężony ochroniarz kasyna",
+        "kr_sha256": "f6010d0858b466705266bd10197791b525ad027318869f7e7463b7c07fa82409",
+        "en_sha256": "a40705a3b0ae9328ed56632da54b80efe87f8f49e6089ac14679c9585a399a11"
+      },
+      "검문소 직원": {
+        "pl": "Urzędnik punktu kontrolnego",
+        "kr_sha256": "90afaa7d5b6dbab43a0b1cc20a870cbf09716e8dad0553bda2ba4ccbf9a6cfd2",
+        "en_sha256": "2b7d4528b93c10090a3395aecb212427b3ebf9c40273c8f878b1d46625aa62e4"
+      },
+      "경비": {
+        "pl": "Strażnik",
+        "kr_sha256": "a21f4c8a32ad71d8425f4e665a2fd03ba4fedf84b1afe4a9704613d33f38b200",
+        "en_sha256": "2ebe3cc79d3bb76a9af917739e6ef3ca5377d0dd8b4719f9eadfffed9284efc2"
+      },
+      "경쾌한 마리아치 조직원": {
+        "pl": "Mariachi Vivaz",
+        "kr_sha256": "7dda120c0abfb389b5c15a9558ad92884990574329e2f526c5b049a4a54ad9bb",
+        "en_sha256": "2b894c36c23a0485848e4ae9f69c0295a9bb18afa36204a0385a5542a2f5f7d6"
+      },
+      "고문받는 의체": {
+        "pl": "Torturowana proteza",
+        "kr_sha256": "40f7fabd1adcfbb3d76783504ae3ad9c307372d44255e42a20622d34aa37a1b2",
+        "en_sha256": "5870071e977880cfde80414d03bef04b3252f39ce4ce839f87d96d521b23d034"
+      },
+      "고문하는 N사 이단 심문관": {
+        "pl": "Inkwizytor-oprawca",
+        "kr_sha256": "dff5cb7e3ab91326449fdec468cdb6e0b4a5e7e0d762e292edb2d42d4eadf8a8",
+        "en_sha256": "146d71ce151f6bdc65fd4d43d89d6ea3a626806d12e55924e374efa65015ff60"
+      },
+      "구보": {
+        "pl": "Gubo",
+        "kr_sha256": "1a6363e13cb8132fddca0d7ac7be9e1b8fd69285a635e4751d58969cbbc02336",
+        "en_sha256": "d9c40eba1d368dd4208b1ee4d78b2893d6817d15876d604afece4b6f609467cb"
+      },
+      "귀도": {
+        "pl": "Guido",
+        "kr_sha256": "5564363d88f7fa9a9d0367d9c4d0e500b55b761080e952e3f0e281df699b5184",
+        "en_sha256": "aade0f94467d1f761788ee97e98c45564df97c51daa74e30bf30ec0684b8bc3c"
+      },
+      "그레고르 & 료슈": {
+        "pl": "Gregor i Ryōshū",
+        "kr_sha256": "ed2e4a037d855751a18907ebd3f49dd058ae3dd79979c6c69e180b58c755617b",
+        "en_sha256": "a709de26a1efb074a43766200c69941e85bc430ec4c17cbed24127119735fbf4"
+      },
+      "기다리는 사람들": {
+        "pl": "Ludzie w kolejce",
+        "kr_sha256": "38fc9d941a2fbef32dd76d652873d993d7d3e9dc51411c00cac818d34dd67864",
+        "en_sha256": "12120ac9a51db4088da68d3a304ff1f8f09a2d10ab62be16f4b2e3919f576a26"
+      },
+      "기억 속의 학급생 1": {
+        "pl": "Kolega z klasy ze wspomnień 1",
+        "kr_sha256": "6534b7f757fc4938972ddd966c019c7db53d746fba57ee708a2d8f9328666ad3",
+        "en_sha256": "1fd8e1aba25dd82a2407010abd66c9869090e54374df5564fe2e21fdf96e1899"
+      },
+      "기억 속의 학급생 2": {
+        "pl": "Kolega z klasy ze wspomnień 2",
+        "kr_sha256": "c270943aa1e7a03d02386ecdb7c13123ec13046980b608c27c0879f94db86074",
+        "en_sha256": "ac75eb7c74df4e73fcf652dfd284d7f34ecede73743a214d851e23333001523f"
+      },
+      "기억 속의 학급생1": {
+        "pl": "Kolega z klasy ze wspomnień 1",
+        "kr_sha256": "88700e371ad0af0806b60404d46c084aa83d7c7abed3fea598a32f2d2ff41fef",
+        "en_sha256": "1fd8e1aba25dd82a2407010abd66c9869090e54374df5564fe2e21fdf96e1899"
+      },
+      "나": {
+        "pl": "Ja",
+        "kr_sha256": "1098bbe54520ab2a367cb44888f829c7bb843cf525e6721b99f022c9953abd4d",
+        "en_sha256": "d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e"
+      },
+      "너 맞아 볼래? 매우?": {
+        "pl": "Chcesz w łeb? Bolaśnie?",
+        "kr_sha256": "065790a20f7ced76c08bc6cb04e22eaec71c939ae5162fddfff5befb9d7ee860",
+        "en_sha256": "b8f1af451626169eb310f17b346c6ef536ce91eb00d2af56c951515d60a1998f"
+      },
+      "노쇠한 옛 G사 부장": {
+        "pl": "Zgrzybiały dyrektor z dawnego G Corp.",
+        "kr_sha256": "0ba42d0f9987e89d6572acfd1bbbffab088a7b18ed91e7da66ff6dfb0f5c9a83",
+        "en_sha256": "88b55125b87ef023f108e137e22dc00552b2ff3c60a89781a1eb44388cbf64da"
+      },
+      "누군가의 의체 머리": {
+        "pl": "Czyjaś protetyczna głowa",
+        "kr_sha256": "618ad5f3902aff0293ec89fc547545fd7d234b40e9b30748b4288d26708766e8",
+        "en_sha256": "d1ce02ce8a3fcd7d3ec60426227bb13bec77429951714e617b86ef82f7ca0402"
+      },
+      "누나": {
+        "pl": "Siostra",
+        "kr_sha256": "6f46257ffa57c2f085e4b55be7d6c54740524d3bf03cbb935f35e5adde145aa9",
+        "en_sha256": "345e9a5c3016810228f9f56c0e4e2ca4d00f3a6973c99498561ab72c4bcb3db5"
+      },
+      "눈이 붉은 자": {
+        "pl": "Mężczyzna o Czerwonych Oczach",
+        "kr_sha256": "5669dc321b04452d4ab750e7274835a5e35fec5d253d1ec4a374857e40dce836",
+        "en_sha256": "4eab2a021aa47b803856ac8f640553428d9ad396ef782c339b2c380d29f3a983"
+      },
+      "늑대": {
+        "pl": "Wilk",
+        "kr_sha256": "ebffc5e113501903ad86692d51b48e4634c62b083c995d458a8048fbf03c6607",
+        "en_sha256": "ea858afbf837aae714617e89a36524aced28f7de921f7798e72810fd8839a462"
+      },
+      "단테": {
+        "pl": "Dante",
+        "kr_sha256": "5ff279460941e1711e924afba614af6c1c1cc1b8e0135e88612fbadd9fa15558",
+        "en_sha256": "c06770b58143dcc98a29c4fb1709396909e0107def6d36bf503251543bd0506d"
+      },
+      "닭머리 K사 검문소 요원": {
+        "pl": "Kurogłowy agent punktu kontrolnego K Corp.",
+        "kr_sha256": "aba8c6a2cd82ac158240359b079d056f1473e46d148f537f3fa3bb9aef1cef56",
+        "en_sha256": "7548c96c0bc03c68cb470844b1df3556adabef2ead776d09ebeb79bf34eeb8b9"
+      },
+      "닭머리 사람": {
+        "pl": "Kurogłowy",
+        "kr_sha256": "7f8fb1b48a02db1e5a429d7bbbda7c278f86825d8905d7151a5a9940ec748267",
+        "en_sha256": "d007f2ca678034fad4526c361afe5791bc139adccc957182fe4d2448d650c335"
+      },
+      "대가리 불한당": {
+        "pl": "Herszt zbirów",
+        "kr_sha256": "9299f16a48a0198532ae20fec9ea78428591dd1c024bcd9f0c50adaf2c888c83",
+        "en_sha256": "f270c53a326430460e397cf183ce6bc5da9689646d72f771a96630f50f8b9cc6"
+      },
+      "데미안": {
+        "pl": "Demian",
+        "kr_sha256": "330de2f9fbf049c55aec8c205a6bb6a799c3594fc1f25fb973a283da24c8d679",
+        "en_sha256": "c81b45b7caf19046b8aaec1424dda34e4089108e957e3394e0bd185bc28c79f9"
+      },
+      "돈키호테": {
+        "pl": "Don Quixote",
+        "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+        "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e"
+      },
+      "둥지 주민": {
+        "pl": "Mieszkaniec Gniazda",
+        "kr_sha256": "63e5e4f6276a4c33e64ab420f7ac063568e8cc40533421d3254d02492df497cc",
+        "en_sha256": "7a9e04f9f7f5c2e8aff1d07032f52da6a1331c0c94538025ac1aaf3c0b78d2ad"
+      },
+      "몸 푸는 철공회 조직원": {
+        "pl": "Rozgrzewający się członek Tieqiu",
+        "kr_sha256": "c7d4a4a74b214e1e34e9b67090ab25ae045a38c6dc2032caa8696467beb1157c",
+        "en_sha256": "4754b6827ba4a857f73862a343e110a8be8dd7dbf0ef688f287c4ca8cbd06f35"
+      },
+      "베르길리우스": {
+        "pl": "Vergilius",
+        "kr_sha256": "c17124f4fb2ab4276f551a7e1bf05b8cc4c900b7ae180a011d42f66344f5aea9",
+        "en_sha256": "e449e72b3014d1b6ab496b37e0d75809028066486a9cf88c7b7a4636a88e568c"
+      },
+      "보살 치킨 사장": {
+        "pl": "Właściciel Bodhisattva Chicken",
+        "kr_sha256": "5e8e4f5e88d2eb1d14cae297fc0666198fbe97c8727829072ae64bb77e44e642",
+        "en_sha256": "0bccc4f2b0e40467affc92601c062e09e75efead9260ebebe6fb6cc839ff2304"
+      },
+      "볼모가 된 빚쟁이": {
+        "pl": "Dłużnik-zakładnik",
+        "kr_sha256": "fb92a1456b12846e99e2fdb02bd5420d3e74391254f1963e8002ed559c0ebe7e",
+        "en_sha256": "61503e137b0f950f524875f60eb348c8a71c634d64ff4e535d7613aa20c6aa40"
+      },
+      "불만스러운 시민": {
+        "pl": "Niezadowolony obywatel",
+        "kr_sha256": "fe6cca44adb0d2104f413342fa669d3e3f94aed111d2adda3e889fa02d2c43e5",
+        "en_sha256": "6e8e222b2fae72f8f26e21fb0d1da2c1dde4450e7439775bffc407859d88def0"
+      },
+      "사자": {
+        "pl": "Lew",
+        "kr_sha256": "df410774e3dd128a2f39a456f9658b885f42e48fa7adaf0d9509a9c3461a23d1",
+        "en_sha256": "ffee89e3ddeb59c589c78e13fdde6702ab73bc0e3510fdaede786890360d3a48"
+      },
+      "사장 엄마": {
+        "pl": "Mama właściciela",
+        "kr_sha256": "f34546cbc2d2243b82a4aa29c61f3fbc5590c60683678817ab2ce2e4dc3cc392",
+        "en_sha256": "0e68a59de8efc424a859501accaa6808cabc5b992d3b51f13a8129be28fc51b6"
+      },
+      "삼조": {
+        "pl": "Samjo",
+        "kr_sha256": "25b591a91cb725caf6e98866641de240a43a37481d7bce2b67e73032a5fef4ce",
+        "en_sha256": "74de268e9ae9bc75054aab6cecea65ad1905f106e9527986d24ccae146b9f2d5"
+      },
+      "생닭": {
+        "pl": "Surowy kurczak",
+        "kr_sha256": "3f6c6874f8828b44976670d0ba09812de8d44ec42c646b85ba34521486f2516d",
+        "en_sha256": "7d60a77019af356c0a50585dcb2d46d63eda8dfc5714240d2e0cf803f6d41cab"
+      },
+      "석상 머리": {
+        "pl": "Posągowa głowa",
+        "kr_sha256": "fd1b4bf0b0d1ac68b6f2d0c3a5faddfc555a07ba98e5160d34ce5569e2c550cd",
+        "en_sha256": "0d08317f84b0b424107bc7eac79482d91e64630bf5407044420264cd0201c58a"
+      },
+      "세보이고 싶었던 콩콩이파 조직원": {
+        "pl": "Tingtangowiec zgrywający twardziela",
+        "kr_sha256": "b9e1bda57a9203cc42eff6e0abb93bc1745152474fbfa4a32d3dac667f1db65e",
+        "en_sha256": "f26222d2ea3cfb5062f9f5348783371d85b1b3b6c227ec702edf641ce3af280d"
+      },
+      "소냐": {
+        "pl": "Sonya",
+        "kr_sha256": "d4d639b860521b17b2daeafedcd11390417e1c1c7c25a13501277d6c649bb1f4",
+        "en_sha256": "63a337eb51cf7ec00edc5309d4dae7de845ad5e9916751efabe56caad2b8e2d0"
+      },
+      "소드": {
+        "pl": "Saude",
+        "kr_sha256": "2c8d04bf8d6d8361a34b49b52e30213b2943ca5df2854e3d13d894477f196107",
+        "en_sha256": "f7475e7033ff68cad836fcb77a7edc4c37fbb94b484066edba7cca91adcd299e"
+      },
+      "숫자 세는 불한당": {
+        "pl": "Zbir-rachmistrz",
+        "kr_sha256": "43688895b1d713969ed00b9c338008f2b2e78e3c831e99336527cdbfdcf7a6a1",
+        "en_sha256": "4a48f74e5210c5c5fdb15ebefcc5541f1587aff9ee20d64e26779774a33a1404"
+      },
+      "심문에 능한 N사 이단 심문관": {
+        "pl": "Inkwizytor biegły w przesłuchaniach",
+        "kr_sha256": "08e3a84a0c0e559584b068cd1acf152e910c72df2005fbdf6711414e1ceece6e",
+        "en_sha256": "3bd4219ebc83d759920e12640f4a6c41606230e2035b2f30bb00993d0fcf74a5"
+      },
+      "아버지": {
+        "pl": "Ojciec",
+        "kr_sha256": "af4870c15b98485bf4623eebff54a8d0e23ad82b57570a047d404acee24e88d2",
+        "en_sha256": "bcc1fbae6cef9aa27524da4b78a0dc70ba5c9c7a876ba947e463f80ea8f7f7bc"
+      },
+      "아야": {
+        "pl": "Aya",
+        "kr_sha256": "0898095e22abff0a3c029c7a90ce5ad0c0399c3a9a3290dea031b1034d19ee6c",
+        "en_sha256": "6d139df272b8a91c6fb983b8da2125988f7f1ffed89f67b0d49ecdc145f8d888"
+      },
+      "아이": {
+        "pl": "Dziecko",
+        "kr_sha256": "c3d655375e7f3d0484ebd9891407d0e6368bbd90154b5661e717070c650ddc8d",
+        "en_sha256": "8053321281f5d162ee6c1c1263a0d1a88ee2d500e4c30c65dc343f37240aaefd"
+      },
+      "아이드": {
+        "pl": "Aida",
+        "kr_sha256": "5e62359d6e53be5266a4d06f59039f0e985acf933daa1599a20ef785f9c9a8a4",
+        "en_sha256": "f7f21812a0a649f894c0dfef001500271b54b53773cb9ca50687dad2d8bb5db3"
+      },
+      "악덕 세금 수탈자": {
+        "pl": "Bezlitosna poborczyni podatków",
+        "kr_sha256": "03161447e2cfe68c8e66017510e351d0eb49fbf1f54dd26e337c1343e3d39b0f",
+        "en_sha256": "846c57a822e4378e9a36cb45007cddd5abd227452cf325f9ae1cb6d04fca2ad8"
+      },
+      "안내 방송": {
+        "pl": "Komunikat",
+        "kr_sha256": "21b41be656b734e4925011d205f734e3d333e01c6dea2e19e37293e3e26ca3c1",
+        "en_sha256": "028cd1c8834585ddc0803f307378547072553fc893ae2dd5abd9f99a5674a438"
+      },
+      "안내방송": {
+        "pl": "Komunikat",
+        "kr_sha256": "1b861ac9a569af766c94a83c17261c9d28666a3ef91617fe34be2bfa79baf46f",
+        "en_sha256": "028cd1c8834585ddc0803f307378547072553fc893ae2dd5abd9f99a5674a438"
+      },
+      "알렉스": {
+        "pl": "Alex",
+        "kr_sha256": "cb0991f69e0a4e835f7360396e77b4391da97bfc744cbf20703c5ac8e919caa7",
+        "en_sha256": "db74c940d447e877d119df613edd2700c4a84cd1cf08beb7cbc319bcfaeab97a"
+      },
+      "야비한 패잔병": {
+        "pl": "Podły weteran",
+        "kr_sha256": "1553b92f3f5302109e6bbf34651c5b2ba06d3b162d434e07419ef8534d77f42f",
+        "en_sha256": "e41a1acf8d14eb5db9fbd365b07c682fdad6e23802f117af9e065b3c4a416b3c"
+      },
+      "에피": {
+        "pl": "Effie",
+        "kr_sha256": "4466a325cdf5d32d2a217cbf797c721a2c3ced3efd97a33956e80e0f0a7d2913",
+        "en_sha256": "f79c2659b881e8102814a51ba3d47b8b1b2a9f0921a25d817f181de22a0f3e2b"
+      },
+      "에피?": {
+        "pl": "Effie?",
+        "kr_sha256": "6ed14957a30e997dceb9399f7e6f212827f78b0bf75da30a1fe6052504d4061e",
+        "en_sha256": "5390a83cc543ea49c76516d428a7d5682b3d496ce517af1aee4363357bf2b425"
+      },
+      "예리한 불한당": {
+        "pl": "Bystry zbir",
+        "kr_sha256": "52d93921733005f84bf6eb04a39aca06078fe42e42cf09cd78ebd8f222839fb2",
+        "en_sha256": "a73b754aefa54c23365df037efb9ef950b3bb9ea5d051b0bc25535036f12d42f"
+      },
+      "오열하는 카지노 손님": {
+        "pl": "Szlochający gość kasyna",
+        "kr_sha256": "85f1ab23fd3b52835619a38047907151119210693e154f61cf96e73e8b24887c",
+        "en_sha256": "928c34a1dfda25479ccd38c0268f0b78378431417826ae5551ee06db3eb99dea"
+      },
+      "위협적인 철공회 조직원": {
+        "pl": "Groźny członek Tieqiu",
+        "kr_sha256": "16aa9d15797c78b4978b97954b10f4b40e6b322f152f8626576dd4c69b33e014",
+        "en_sha256": "eaafaedd506e3d89ef47739a0138fdd56dffc198e599a2eda36089be02235db8"
+      },
+      "유리": {
+        "pl": "Yuri",
+        "kr_sha256": "4b585bc5692d408917f254dbf33a8234c51116377697bd327ca904bd78243c7c",
+        "en_sha256": "5af45e38fe555dd5985c04274c00012c3e9ff3360b91ae06ff90bc7183b78144"
+      },
+      "은봉이네 호프집 사장": {
+        "pl": "Właściciel Baru u Eunbong",
+        "kr_sha256": "a87334c5755f325d707cc10f1748f5fce0b7849f50d039179d27b090caadc861",
+        "en_sha256": "116b47910fb24ef9f5d9f519bf199f5e8ce9b258b37c44ae3d0c82ee32e1ddaf"
+      },
+      "은봉이네 호프집 주인": {
+        "pl": "Właściciel Baru u Eunbong",
+        "kr_sha256": "8cfaf0d19288640d1f238de758a2ebdcabc0aff22d7ce8951cfd70662590609b",
+        "en_sha256": "116b47910fb24ef9f5d9f519bf199f5e8ce9b258b37c44ae3d0c82ee32e1ddaf"
+      },
+      "은봉이네 호프집 주인?": {
+        "pl": "Właściciel Baru u Eunbong?",
+        "kr_sha256": "e63ba07d2bb2a3900f9203b1f0af9808d30f233fa382abb5b6ce8148a8db4818",
+        "en_sha256": "1c4848adae590f885df0eff93b4922025f4b7c1a8f8f21453a7ff1d66584afef"
+      },
+      "의아한 패잔병": {
+        "pl": "Zdziwiony weteran",
+        "kr_sha256": "61e70663487f2fd8547b9f8c915e50a015fe0e643f9a62658de05623ef552b07",
+        "en_sha256": "db890d3c95c9eabc8a337884567778e1bfff15f8eaf0ebca6d39995bdba26b08"
+      },
+      "이단 심문관": {
+        "pl": "Inkwizytor",
+        "kr_sha256": "242cb40022ef943c947bc6c866154a6e964b8695052e23dd0078fc5311688d6c",
+        "en_sha256": "32fb6196ff8af0ed33a3d9a05197ba5e1c21ca86db5c1e145984646df3a6b429"
+      },
+      "이단심문관 1": {
+        "pl": "Inkwizytor 1",
+        "kr_sha256": "239601e33ef6d56d606c6507c645526521fa397e2602a9f5132ca9c6f368ae07",
+        "en_sha256": "74b3d874c7016b03322919410c3cbeb8775ac436991f7117f143887784ca3a6f"
+      },
+      "이단심문관 2": {
+        "pl": "Inkwizytor 2",
+        "kr_sha256": "4d492494b878c7206d9d0ad13000b2592499c06f84efe5213fb1c1f45a0d6088",
+        "en_sha256": "8e2596a7537ed8ca96c70cea8f549e1e9eeb5dba37601764d8cf2ed6fbded280"
+      },
+      "입이 험한 패잔병": {
+        "pl": "Pyskaty weteran",
+        "kr_sha256": "1043411adbe7793bc0aafb77de08ba324a3f1726c6f61e6a1905ee604fc29962",
+        "en_sha256": "721feb05d331d27143368fc5184fa723df9aca049a770cb05deee9c6d2cd3053"
+      },
+      "전당포 주인": {
+        "pl": "Właściciel lombardu",
+        "kr_sha256": "b19878ab4fbd15e2185b0184300d3573ac4d5b48e65026350bcbac4223d0655f",
+        "en_sha256": "f3f567ad8e4c2987cb03d3c205d0a0938e310a4117d4ba2940e84c913a515ae7"
+      },
+      "지크프리트": {
+        "pl": "Siegfried",
+        "kr_sha256": "b918def3d6d3f57288419cdcf12aea7b3e9417a29a2b83a71d722bcbb9eafaeb",
+        "en_sha256": "f3ac1545d508987281bab69231117a29a3d92c5e1d165155761fca0d302d81a7"
+      },
+      "철공회 보스": {
+        "pl": "Szef Ekipy Tieqiu",
+        "kr_sha256": "c6e0f098628e070bb9ee3e409378372826f27ea29ec9e181aa02b74c18e886ff",
+        "en_sha256": "0877d4e405cf410436f9c9de97587345f2f95943a3438099546d75f5a1e0a548"
+      },
+      "촌스러운 말투의 콩콩이파 조직원": {
+        "pl": "Tingtangowiec z wiejskim akcentem",
+        "kr_sha256": "e2e7e6132da121e57f1927edca0c0949b6ca75c6e7c1125d6eeb6f86b5aaebcd",
+        "en_sha256": "117adc8d2e56c1b98738d39ed0720c6775a8df041bb2a5574d2d07ef40817640"
+      },
+      "친절한 시민": {
+        "pl": "Życzliwy obywatel",
+        "kr_sha256": "2d0b91c54aee6660682e51bca1bc6721212a8158a087ed88d2c24ae0607d17ca",
+        "en_sha256": "a41ed08d0995575c0cdb4ab6f1d10435b95701741e6a4a618ff45a823f7ac7f8"
+      },
+      "침식된 이단심문관": {
+        "pl": "Skorodowany inkwizytor",
+        "kr_sha256": "82e20efecf4a1d55b8f6ddf1f5da922daffc7a664803cd6a568a2be4b91c14c7",
+        "en_sha256": "69daadcc392a4cc7df9bdeb291f0791245783d0b07c210c47d79a7bf12219986"
+      },
+      "카지노 경호원 대장": {
+        "pl": "Szef ochrony kasyna",
+        "kr_sha256": "b53d7079322b419b38f57338cea10665619e83d65873c18791e0078664c42d91",
+        "en_sha256": "19c6b13b47250b9ccaf6938042e57b224e0afaa3b78f785e6971e75d71882917"
+      },
+      "카지노 손님1": {
+        "pl": "Gość kasyna 1",
+        "kr_sha256": "e566d508d34b4b29a302fbef40c128943268e9d44a63a53d326193ed1c100c90",
+        "en_sha256": "b8cb7b968985c9d773af89732f384591f73b2820531fc1da70086c4f91574fc1"
+      },
+      "카지노 손님2": {
+        "pl": "Gość kasyna 2",
+        "kr_sha256": "06e8084cb0b0b12d2bb634c5773cdf89f78c8d23ff402325de948d35eeb31874",
+        "en_sha256": "83be98b022e3e4d453884db10d070d7373caf3f2a23d7f2f2dc42fc198c3b3d2"
+      },
+      "콩을 싫어하는 콩콩이파 조직원": {
+        "pl": "Tingtangowiec nielubiący fasoli",
+        "kr_sha256": "45787d540c5f58bec9bb8f3375fc6fc528196d8c1abead9fe6216d8b9d05ba0b",
+        "en_sha256": "8cf6106756d5231a93c357a901cfc8aac1cedfb25406dc827e69522e6d3f8d27"
+      },
+      "콩콩이파 보스": {
+        "pl": "Szef gangu Tingtang",
+        "kr_sha256": "2fb6d0b402bd9d1e2c1885b5ac30641e28f0b4fd52d004859e28699f5de4a30c",
+        "en_sha256": "69ae2ea03498a8ae5865749dc6651574141ee10d0e6a9d67ac3bcf3fd7a093d8"
+      },
+      "크로머": {
+        "pl": "Kromer",
+        "kr_sha256": "99046ff549139b9031db0470ea4761d8f2d925c9f6555733a47078f837cc07a5",
+        "en_sha256": "50654867b5e41b1d2926958744a4e1cacbe55bbb33200a7b849fc8ed7bee674f"
+      },
+      "토마": {
+        "pl": "Tomah",
+        "kr_sha256": "00df954b2b70a5faf96a78c73fd7dc7fc36de1693086c9b363a296a4e015c002",
+        "en_sha256": "8802ceed26b65c6052b5774b4a401c3efe3915347ba7adfa62479d48f2076077"
+      },
+      "파우스트": {
+        "pl": "Faust",
+        "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+        "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8"
+      },
+      "표범": {
+        "pl": "Pantera",
+        "kr_sha256": "5a6816efa761db8a8a67a5cc88faf97d11e975963cd41643e2648e58c9bb9244",
+        "en_sha256": "a78623da70d5561d886e21092c6009140b04bbbcdce497eceb3c60e123c63a02"
+      },
+      "허기진 불한당": {
+        "pl": "Wygłodniały zbir",
+        "kr_sha256": "6c4b87e5bc096ebf36f1b57c5c94b1993eb1057708f258cb72f8ca5ca8fc09af",
+        "en_sha256": "30faa9404586f2e036bbb141ded51647b38d06c03233d51e7be57e7a5aa93e3c"
+      },
+      "헤르만": {
+        "pl": "Hermann",
+        "kr_sha256": "c94fbaca0b77642169bbb879b6204a791801babf6f2ed98911ce98c38d5fb562",
+        "en_sha256": "d4a7da82d1a00dc27230114c5cc3fde4a1a991a1e76a4e22884ba36d156ee77a"
+      },
+      "홉킨스": {
+        "pl": "Hopkins",
+        "kr_sha256": "345be608d05b93775c9b72cd3fff1e9620f0aa44e0468abf1d09bbf1d2a74c4c",
+        "en_sha256": "efbb47aca7543b54a91803896468953a9c3985b154a61a5abc7b4307a116ca79"
+      },
+      "화난 패잔병": {
+        "pl": "Wściekły weteran",
+        "kr_sha256": "4105390dfdf8da325a7d04a87a544cff2ba72d8554e7adee5b642d7e92f337cb",
+        "en_sha256": "b6afc6738b24a4997d33ce84a54ed2644980049778979b2f58e6796c8620fb8a"
+      },
+      "흥겨운 마리아치 조직원": {
+        "pl": "Mariachi Alegre",
+        "kr_sha256": "d94e77770ed5db285ae13154d2538ba4fb86c853c6d1c35ece7e0dcc7eefce32",
+        "en_sha256": "2ef6d87593768625ed7443c4831870af7f5f90dee9ef8564e2b9ba9ead4ba741"
+      },
+      "히스클리프?": {
+        "pl": "Heathcliff?",
+        "kr_sha256": "03d94d276394bbd701e76eaed74ff9e7deaaa0ab1905d1beba469d2b3127fbd1",
+        "en_sha256": "a08926f6b09fb5a48945a33e13ef51a0ae63eabac25e5058d15047c23050ffb6"
+      }
+    },
+    "title": {
+      "11구": {
+        "pl": "Dystrykt 11",
+        "kr_sha256": "259500bd9224fec4b0bdfdcf21086492ca3ccc0db6e0fcdfb59c9aaee0c19a6d",
+        "en_sha256": "fe52e30420ab27933d15055492ebd62f98be359e67ac696374a445cd2d40ef8d"
+      },
+      "25구": {
+        "pl": "Dystrykt 25",
+        "kr_sha256": "a9502824e6c6738b348ad6ba374f429d021623f01ad442376cf850ec472d22cb",
+        "en_sha256": "1a544d19cb8b4e7583033718eabf46bba902aee68798edbfefbc334977e1069d"
+      },
+      "3번 수감자": {
+        "pl": "Grzesznik nr 3",
+        "kr_sha256": "3578826de3aaa509d13fc6d4a0d3e8c0b42773dd12483a5a8f981a9bb8a1a3ee",
+        "en_sha256": "0c872e0ca2db8c84543e1a42479fbe77667401cbbd75651219b5668d484c37a5"
+      },
+      "4구 뒷골목": {
+        "pl": "Zaułki Dystryktu 4",
+        "kr_sha256": "28cf5033bd0e5b65873411c4236e16f0350059d3f724863c20f06671fd494c22",
+        "en_sha256": "f7b02b5eafffcf835c79ff34f6984ec86f0fcf42dd86448c84509cdc0ea78053"
+      },
+      "8급 해결사": {
+        "pl": "Fikser 8. stopnia",
+        "kr_sha256": "4b6c8f3e4bbd2a95e81efae99f699632086a91ba0ca4e4fb9718266ad251adf1",
+        "en_sha256": "5b94096e06f62932dc3bea4406b48f20da6f1cc684d3a747d830ef59ad2998a1"
+      },
+      "???": {
+        "pl": "???",
+        "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+        "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615"
+      },
+      "J사 전당포": {
+        "pl": "Lombard J Corp.",
+        "kr_sha256": "0c84736b53177948e663169d8efc3f1f19fd8a15bbd44b4a51169b1a4a4da01c",
+        "en_sha256": "83067ea62879d9d8c4ad7fde56823b1fa5d874ad6a1bc40b135269337205efdd"
+      },
+      "J사 카지노": {
+        "pl": "Kasyno J Corp.",
+        "kr_sha256": "253060ec347761bba70441d336799958c6251f4603fd0459f1d92a652476dd0a",
+        "en_sha256": "9518ee73d4d351644598d9dd0c1171d60c701eb0f648af6857309277db733d3b"
+      },
+      "K사": {
+        "pl": "K Corp.",
+        "kr_sha256": "6d215f5c0b6e8f995afcc4be35293b387bb255075d078ef3b749db99add65f28",
+        "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6"
+      },
+      "K사 검문소": {
+        "pl": "Punkt kontrolny K Corp.",
+        "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
+        "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+      },
+      "K사 식량자원개량부": {
+        "pl": "Dział Ulepszania Zasobów Żywności K Corp.",
+        "kr_sha256": "db9e5af040a7429ca33320fc5e935e65c8feb41def54f1d5c02a87e89ddc06f7",
+        "en_sha256": "d6fdf446cf309ebc316c221a3cd9e6d613faa7afc3eea000a073476d9e543ca3"
+      },
+      "K사 식량자원개량부?": {
+        "pl": "Dział Ulepszania Zasobów Żywności K Corp.?",
+        "kr_sha256": "9073601431b22edb3b2f84bf6b3f6abae46be4a77e5eb53a81d2251bbeac886a",
+        "en_sha256": "d3f3e9426e0744940da471e0873b6ff5b5256e42838d6169bce432a89d69a170"
+      },
+      "LCCA": {
+        "pl": "LCCA",
+        "kr_sha256": "5be6e69ce2404722e9ea59eb79d68f2e834bc0c29ccf7ba8113bcbb830cd2fcd",
+        "en_sha256": "5be6e69ce2404722e9ea59eb79d68f2e834bc0c29ccf7ba8113bcbb830cd2fcd"
+      },
+      "LCCB": {
+        "pl": "LCCB",
+        "kr_sha256": "1b35e2a3fcff1773c58ddecf55de8a619cfe26dfbb9ecad9ab63f86eb4941837",
+        "en_sha256": "1b35e2a3fcff1773c58ddecf55de8a619cfe26dfbb9ecad9ab63f86eb4941837"
+      },
+      "L사": {
+        "pl": "L Corp.",
+        "kr_sha256": "b73c673bed668854bc4e39f02d449c18e3e261573acb7dc79335d860091b14fa",
+        "en_sha256": "4faaa3ccc336b8823aecf0b418c68eed8aaf45a580d1bda8beeae53b9e6c877c"
+      },
+      "L사 직원": {
+        "pl": "Pracownik L Corp.",
+        "kr_sha256": "eff5f5dfd1235b7e7d33fe34f2fc7260f65a48146fcdf93d389815922d98048b",
+        "en_sha256": "cab9144d58d923058a5d381c6da107a1c6748bf075b5fe9a53b1f95714d38bbf"
+      },
+      "N사": {
+        "pl": "N Corp.",
+        "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
+        "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb"
+      },
+      "■■■": {
+        "pl": "■■■",
+        "kr_sha256": "da348360888117351ce9e2f14e3b06ecdbde0f9249ed27dbed9324882883c107",
+        "en_sha256": "da348360888117351ce9e2f14e3b06ecdbde0f9249ed27dbed9324882883c107"
+      },
+      "기억 속 누군가": {
+        "pl": "Ktoś ze wspomnień",
+        "kr_sha256": "e50d01176d61c610092a2cffbd2901e272a2b9ba1a5e540caffc03e5720d8902",
+        "en_sha256": "317b6039f4267f1c0cb0d81153ff3aded92f2e6ed8340000398ce2e5082f6d69"
+      },
+      "기억 속 병사": {
+        "pl": "Żołnierz ze wspomnień",
+        "kr_sha256": "2e14024fbec52a826a7782addd55de1a72002fb0810fd1c646afd5011eb0fa56",
+        "en_sha256": "43758382d823f0c565fde8cbcc0d7c43743e0d601a60675628d30e6902f61720"
+      },
+      "기억 속의 누군가": {
+        "pl": "Ktoś ze wspomnień",
+        "kr_sha256": "d424a08d146a6afba19c96d8c9219f6e7f832229c0406524af96b6952ad8413b",
+        "en_sha256": "317b6039f4267f1c0cb0d81153ff3aded92f2e6ed8340000398ce2e5082f6d69"
+      },
+      "길잡이": {
+        "pl": "Przewodnik",
+        "kr_sha256": "5f369e647caba26edc2a0414b238db22aedc0bc81d63e0cbbd57bd90c7e9d6e9",
+        "en_sha256": "8dd65d0952ed144ccf6e76ebf8aa45644afb2b9236762c414d07e813d42f588e"
+      },
+      "나": {
+        "pl": "Ja",
+        "kr_sha256": "1098bbe54520ab2a367cb44888f829c7bb843cf525e6721b99f022c9953abd4d",
+        "en_sha256": "d30af076b0dc85cc5b0074b403f74770b73af84a70c2f77f7a3609d0db23112e"
+      },
+      "나의 가족들": {
+        "pl": "Moi bliscy",
+        "kr_sha256": "30ee36f6a50136cbddc4ee87c90d5526ee16e316016c464c9c4ee6aeee651512",
+        "en_sha256": "ac5fabf7f74c734a8ad6a658c3b006c3f5d59ff072d85fd62ad896d1f79d4c7b"
+      },
+      "당신은 강해졌나요": {
+        "pl": "Siła w tobie już jest?",
+        "kr_sha256": "4a4042bc87939945c4ea596a991b7715e55dc6d2cd79591a7ae7b46feb493a05",
+        "en_sha256": "fbc61a55c6bcf22630477ed7963bcc58e3d438ea06dfd919e3b97a9dc3116563"
+      },
+      "뒤틀린 것": {
+        "pl": "Zniekształcony",
+        "kr_sha256": "ca7db6d2ff4a34efa3bc7d8a282f8596e978ab790e0926a0281b523db9d771f6",
+        "en_sha256": "2345de5fda7f108cc5ead333e744a09e1f14bd364b378c2e52d9d81a4809a9f6"
+      },
+      "뒤틀린 것?": {
+        "pl": "Zniekształcony?",
+        "kr_sha256": "3dbca361bb46fa0ac59c61a5a3add7aab6fac4130728064f15d662f391a3a5c5",
+        "en_sha256": "c0214bb9306ad2dac802a6a20b7d4a49fa25f29b6b25551d390e13a663b0f7d4"
+      },
+      "마리아치": {
+        "pl": "Los Mariachis",
+        "kr_sha256": "43565b0d40551cdc91361758e6374c090e6ad835af4f4e560a74857f2f4d6e82",
+        "en_sha256": "3be8aeb48723a409302366164e8f7dee2f45982ebc9bd78b7f3a04efcbe0b682"
+      },
+      "몰락한 G사": {
+        "pl": "Upadłe G Corp.",
+        "kr_sha256": "a6b9dc921273d28b44c7dabebddc978c42a0a83c8387b49f5cca387436ebd399",
+        "en_sha256": "489528a14016751df37aae4aff5079e30ca9faae2667c0272ada3ec170d5d197"
+      },
+      "못과 망치": {
+        "pl": "Nagel und Hammer",
+        "kr_sha256": "158c907ec4d671a645224f4d60b04e75d224aa7e8f9af6842382e49a66ab40f2",
+        "en_sha256": "fe9a818508a1fcc0d8ff1e47a0eaaffafb8961de4532a096c6616b5c2a64e52d"
+      },
+      "보살 치킨": {
+        "pl": "Bodhisattva Chicken",
+        "kr_sha256": "186c9db036c2829c81840e9d94f53d78a6b4d21a523f5d42070ac1498fdaf8d1",
+        "en_sha256": "fefeac81c68a946d4e7e1394ab703696a3165c059349ce28fc525c186b5847f7"
+      },
+      "생존자?": {
+        "pl": "Ktoś ocalały?",
+        "kr_sha256": "4341d0b31307d70f5ebe926130b079d797bfa6fa1984f298d98c9990f6849adc",
+        "en_sha256": "3d25ccdc7e898a00d09724e49f2b5a252906a83927929a133faa106698a3db2d"
+      },
+      "수감자들": {
+        "pl": "Grzesznicy",
+        "kr_sha256": "cbae505661522f29a3dcac715fdad16bf28b2fc08c55f2d821e71af366d15fe2",
+        "en_sha256": "7064ce559a3edb0f063f7d69ad8a1513fff0eb1f7fcf29f5f7a8002435958356"
+      },
+      "신비로운 전학생": {
+        "pl": "Tajemniczy nowy uczeń",
+        "kr_sha256": "8874760d55359f9455d8ec82470153bcdde129bdba7ea4378da00165478ffbae",
+        "en_sha256": "83c726de083fb9c312ff54e4e5b7cfd538c342de177a887a111c175b81040c28"
+      },
+      "요리사": {
+        "pl": "Kucharze",
+        "kr_sha256": "c4b65734920ac48c96986b0df4a312291bdd8d8a6581de320db3cc0970bc3121",
+        "en_sha256": "13ea9c8bb2cd52af0b6872c848566db35a9b137a23f5f67b26314f3089b0df94"
+      },
+      "유로지비": {
+        "pl": "Jurodiwi",
+        "kr_sha256": "cf1fdffec79754bcab3cc6a189647bafa1fa350d28cdd66ede9a41ae0f99ea2e",
+        "en_sha256": "7dfa5f4a1f0901b9a31e1079138b5637468e47db1bb07aa2d47043f478a46d75"
+      },
+      "은봉이네 호프집": {
+        "pl": "Bar u Eunbong",
+        "kr_sha256": "6835aca744362ce23067221e88c5a25264872afe07c1cd6ce7dbe307cd6c302a",
+        "en_sha256": "25a694520425e4eccc7d2180418da5e9c144e71864bd7f8721e84953d1f4bc5e"
+      },
+      "은봉이네 호프집?": {
+        "pl": "Bar u Eunbong?",
+        "kr_sha256": "e5767a65be9e367a38f883e36856f0f0e084c565c12d73791dff35c733bde11a",
+        "en_sha256": "ed65e3680cd758507137a24201df6de353f3df555de1969ed8a2cd7b4d850645"
+      },
+      "철공회": {
+        "pl": "Ekipa Tieqiu",
+        "kr_sha256": "e54f11db3c5ce4c99ffb789879d6c8287d1e752b63bae3a9eba5a7c6a6fca59f",
+        "en_sha256": "f10f173d90c9451bafd3602194ce28e76f53e3273e9a49605173888dfab317ba"
+      },
+      "칼프 마을 주민": {
+        "pl": "Mieszkańcy Calw",
+        "kr_sha256": "9722212cf6fe423bad78b3ede85ebdb1b8614933617525e7746555776bd0344b",
+        "en_sha256": "2aa0bb2aba17fe6b164c40381c6d4bb845072f1757cd4e2e95aa7d8d1c7caf24"
+      },
+      "콩콩이 파": {
+        "pl": "Gang Tingtang",
+        "kr_sha256": "6d4ede5e47997d4372c713bab43d6fe1d9bd4bf324488c8c9e39deab34848ffc",
+        "en_sha256": "42012305d1227c5882a13be7c627a0103c75fd5c2215c5c42c58f5636e6e090e"
+      },
+      "콩콩이파": {
+        "pl": "Gang Tingtang",
+        "kr_sha256": "7c61a82cb08fc9e03da9a822914e868754e2736a5f9d4f0874c8b0f2556a6d4f",
+        "en_sha256": "42012305d1227c5882a13be7c627a0103c75fd5c2215c5c42c58f5636e6e090e"
+      },
+      "학급생": {
+        "pl": "Uczeń",
+        "kr_sha256": "13917b186ff8ddcf2d815195d56c50f7da8947512014dc9c3aa255cafbc2454f",
+        "en_sha256": "2a164d5415787b6e0e8d8d937c708a6f4c856e293022d24bde016e8549fb86b5"
+      },
+      "학급생?": {
+        "pl": "Uczeń?",
+        "kr_sha256": "c885e12876f612e4a62521fbe2913271d02ca11883b280ce92e7b5554b13a475",
+        "en_sha256": "2f994b09bd50f3352ff87c4c3e7160d363774ff7349f1034a0000a5bf44cb248"
+      },
+      "해결사?": {
+        "pl": "Fikser?",
+        "kr_sha256": "e781df1f9a143b555d94c343de800eed6b3db7b16c932fea1fbb7549ec2547e4",
+        "en_sha256": "4da70ecd557a8f5c31c22edc79cedbda47e270769870023b659f156899c19000"
+      },
+      "호구": {
+        "pl": "Frajer",
+        "kr_sha256": "044c85ea89239438a541fd4008815879258d0b4c122a57237b83a7bcb99f3239",
+        "en_sha256": "1085ae01bd409c161cc7947358666f0016d68d2a21cb8b242f2ace6279db4ab6"
+      }
+    }
+  },
+  "views": {}
+}

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=HealHpMaxForSelected].content": {
+      "pl": "W pełni ulecz PŻ wybranej Tożsamości",
+      "kr_sha256": "eeea5927d5031e0612ef0f5ece6000556098da6b1d3199f31216c4e387fdcd96",
+      "en_sha256": "4354c86a708317833446ee97059db530cbabb6ce411e75bd9121ffac32a9ccdd",
+      "origin": "ai"
+    },
+    "dataList[id=HealHpPercentageForAll].content": {
+      "pl": "Odnowienie {0}% PŻ wszystkich Tożsamości",
+      "kr_sha256": "20fe4d1d3f99e4c7f75abe412edb2f91149c87fa193c5d31847737e65a513d0c",
+      "en_sha256": "b0d984defc853273b445aecdf1076512a1cf91ad41349950322423328e06e69b",
+      "origin": "ai"
+    },
+    "dataList[id=ResurrectForSelected].content": {
+      "pl": "Wskrześ 1 poległą Tożsamość z pełnymi PŻ",
+      "kr_sha256": "859e949dd7be725ba4137b0820c085808ff8b8ded2087551c3b5562ec9826d1b",
+      "en_sha256": "bb35e8df71cc0ef6feaa3c228b992055d294207f8e3233f296e1b676c4b65188",
+      "origin": "ai"
+    }
+  }
+}

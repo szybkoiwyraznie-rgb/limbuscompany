@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=DestroyObject].content": {
+      "pl": "<color=#ebcaa2>Artefakt {reward}</color> <color=#e30000>znika!</color>",
+      "kr_sha256": "f52881193f22f1b9585bc6c1f60159a67fde1425244ab7fb0ffe7a01398bf34b",
+      "en_sha256": "1afe9ee3c14ea73c91ef62946e232f0557d42382fd20c7c2442d07eaad254b09",
+      "origin": "ai"
+    },
+    "dataList[id=GetConfirmedCoin].content": {
+      "pl": "<color=#ebcaa2>Zdobyto Artefakt {reward} x{stack}!</color>",
+      "kr_sha256": "619ef6a7be0c95e308a01fee84d3613837b117feaa48ede6f0909d58d7e89d18",
+      "en_sha256": "9ceac34971d3d2584f8e53aad6eb8ecf1dc7c76673b89562b90b0404490d885b",
+      "origin": "ai"
+    },
+    "dataList[id=GetConfirmedObjectOnWinBattle].content": {
+      "pl": "<color=#ebcaa2>Wygraj następną walkę, aby zdobyć Artefakt {reward}!</color>",
+      "kr_sha256": "9ccb8467dbb4316c016a4df0625abad526fa2bd183565fb1ecd8e109d5990b61",
+      "en_sha256": "44302edfe4115188edbb6cb566afb4d5424367138420701486fa75bf68610ba7",
+      "origin": "ai"
+    },
+    "dataList[id=GetConfirmedObject].content": {
+      "pl": "<color=#ebcaa2>Zdobyto Artefakt {reward}!</color>",
+      "kr_sha256": "9e9a2a843be3eaa547d8ade76b4ac452951550fcffadbbfd345347ee2c55d4f0",
+      "en_sha256": "4014dd6aa7b916779f71010f8e32ed2684c93e821e1a51ec92c822ab9c945f61",
+      "origin": "ai"
+    },
+    "dataList[id=HiddenGiftUnlockHiddenRoute].content": {
+      "pl": "<color=#ebcaa2>Nowa ścieżka dodana do mapy!</color>",
+      "kr_sha256": "d01c5102ff742f619cc54e746b63060009f289de67d76d22baa71836a9955119",
+      "en_sha256": "1af3c913465ef3013dd0e65030480b0e5b29bdbeb7b381d24b0bff830a2ffdb7",
+      "origin": "ai"
+    },
+    "dataList[id=LoseConfirmedCoin].content": {
+      "pl": "<color=#ebcaa2>Utracono Artefakt {reward} x{stack}!</color>",
+      "kr_sha256": "cf7562f99f4e15e844b788dc247855ce93ad3b023b39c9387ebba7f266500ec8",
+      "en_sha256": "99509bad3d03c28b709a06ef1dbd8ff2b1730cef4250a7613c00d7f9b5fb3019",
+      "origin": "ai"
+    }
+  }
+}

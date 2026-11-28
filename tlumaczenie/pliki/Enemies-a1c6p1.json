@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=90114].name": {
+      "pl": "Urgent T Corp. Gangster",
+      "kr_sha256": "820dda5d52438b0136881ad5ad772ea4116f8fcd40ca771422d6220a347772f5",
+      "en_sha256": "241a01e0777e0b68676e12378aeed195d97fb66dbaec86ea4c5e2043fb5ae12e",
+      "origin": "ai"
+    },
+    "dataList[id=90115].name": {
+      "pl": "Scared T Corp. Gangster",
+      "kr_sha256": "6aeb53c22a80ef7f619df34384d9f4fe4ffc636360bd32a36e32d003748429e9",
+      "en_sha256": "49d08fe774591f5f8b6d1ffe95871a8bcd5c80b32b1f3ef90e274fe5cb1912e7",
+      "origin": "ai"
+    },
+    "dataList[id=90116].name": {
+      "pl": "Hefty Dead Rabbits Henchman",
+      "kr_sha256": "b7ac9cc1e598f7b4b71e39b6e5f8f46d2480d4b0eb9e2bf032a82bc7de0e724a",
+      "en_sha256": "bf5c4da0979ea7be537311b2f234356f1f90de48064f956cc9923a975cbef065",
+      "origin": "ai"
+    },
+    "dataList[id=90117].name": {
+      "pl": "Slow Dead Rabbits Henchman",
+      "kr_sha256": "d1237a027fc3dcff6a519cd4a4b34faacd233b5dd97a1152fb7919217730a965",
+      "en_sha256": "c5de3e5e19cfd4c7b80b24b3981bf6cc170518fc84f2e7cde2f548e5bac847c4",
+      "origin": "ai"
+    },
+    "dataList[id=90118].name": {
+      "pl": "Fierce Dead Rabbits Henchman",
+      "kr_sha256": "6f934d28ace18b79de535892657a34d6a25963427cdfd05c3f700f31cf931068",
+      "en_sha256": "1eb6fef7b1fb016b13fc1ac6ad4c8479a7e29269e986cc8e95d2394b61bd3dfb",
+      "origin": "ai"
+    },
+    "dataList[id=90119].name": {
+      "pl": "Sharp Dead Rabbits Henchman",
+      "kr_sha256": "bd30255ffeff72e3ca128cb3ffea0b75032d28e76888c9cea0dff21d04935c0b",
+      "en_sha256": "8f8928f2c0d5ff05dab2051fe085468af11502e181d7462586547536b31767de",
+      "origin": "ai"
+    },
+    "dataList[id=90120].name": {
+      "pl": "Swift Edgar Family Butler",
+      "kr_sha256": "f2d02991c476cc771a10665af03142c93bf96721e7964dae408cefa03a0a6592",
+      "en_sha256": "4dd0983265b55edde52be670e21d465c3bf1bf622f8e22d03ea0a28d63363c9b",
+      "origin": "ai"
+    },
+    "dataList[id=90121].name": {
+      "pl": "Fast Edgar Family Butler",
+      "kr_sha256": "beb943d77e324f777359255e6d95d67eaac86274fc7fbdf7cbb042b4f0976cce",
+      "en_sha256": "e00698d1cf1a0f7750ffb44cf7c063cc15e935de74ca438f1f1eb50060a2f932",
+      "origin": "ai"
+    },
+    "dataList[id=90122].name": {
+      "pl": "Veteran Edgar Family Butler",
+      "kr_sha256": "b273547c6a3256c2321f31d59690bef2bc9e039ac822a15a3524c11000bb1699",
+      "en_sha256": "b6ce96ecf1bde55fec44efe96223c0ab583be52feefadf46f2645299c3afab31",
+      "origin": "ai"
+    },
+    "dataList[id=90123].name": {
+      "pl": "Shifty Edgar Family Butler",
+      "kr_sha256": "4566351aa70135fcc35095283d5a4d1e85c628d29aac278748aded3ce34e8372",
+      "en_sha256": "88fcacc414d6b4c8eff08cf0dd59672db3203dc163d8cb1668e1924526f66f57",
+      "origin": "ai"
+    },
+    "dataList[id=90124].name": {
+      "pl": "Trained Edgar Family Butler",
+      "kr_sha256": "6ee7774f49d9732e2cf8521e6271cb9eb6aa3c204e1a1c6ed096a61c2b082366",
+      "en_sha256": "cca63bc9259a57eb46abe871d1210d1190eff66d610db31a1954dce98418bb3b",
+      "origin": "ai"
+    },
+    "dataList[id=90125].name": {
+      "pl": "Veteran Edgar Family Butler",
+      "kr_sha256": "b273547c6a3256c2321f31d59690bef2bc9e039ac822a15a3524c11000bb1699",
+      "en_sha256": "b6ce96ecf1bde55fec44efe96223c0ab583be52feefadf46f2645299c3afab31",
+      "origin": "ai"
+    },
+    "dataList[id=90126].name": {
+      "pl": "Hostile Wuthering Heights Butler",
+      "kr_sha256": "c0a1e3e972822fc20b63e482d5da69383f6afae277e2336a6123bc77fb3228c5",
+      "en_sha256": "3d75d5f90b55ebe1548e5af99470f2b1dd740aca81cfd17089cfcffaaa84f490",
+      "origin": "ai"
+    },
+    "dataList[id=90127].name": {
+      "pl": "Trained Wuthering Heights Butler",
+      "kr_sha256": "a7241e4b74afd35d4caa8fffa8cafcdbc3a8b475f2f020014b223e64179cfda5",
+      "en_sha256": "00eb9614f128020f50ba99f56388a0cd30feb9904173bd8dcf63863ba41cafe6",
+      "origin": "ai"
+    },
+    "dataList[id=91014].name": {
+      "pl": "Josephine",
+      "kr_sha256": "80f689410eb66ee0a787dd89dae6888d0a5dd7cd720f52b6a820706b16aef28c",
+      "en_sha256": "6048d609a6bf82f0f9c70f9df3b180f3681625a075f8eda8a639e73eda376980",
+      "origin": "ai"
+    }
+  }
+}

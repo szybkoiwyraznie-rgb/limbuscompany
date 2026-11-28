@@ -1,0 +1,460 @@
+{
+  "entries": {
+    "dataList[id=9007701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9007701].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9007701].levelList[level=1].name": {
+      "pl": "Gwah",
+      "kr_sha256": "2a627de0c61edf37e3a8a317cfbb585fa1263cdc5cfddfd9edbef6008e251475",
+      "en_sha256": "4ae01b1beadfbf42deabc2f5c77361048e06a8e60ba9d02ae1dd8a0efe514b49",
+      "origin": "ai"
+    },
+    "dataList[id=9007702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik Rozdarcia o 2 w następnej turze",
+      "kr_sha256": "59fb5a9622f3f4d91b76361ef1925550b2c78d0b3b2e366d93ff316f4fe469b2",
+      "en_sha256": "0ed453720c3b204b8c806d807e6395d099a2efbd1ac8b7669b7cebd117c490e8",
+      "origin": "ai"
+    },
+    "dataList[id=9007702].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Kruchości Cięcia w następnej turze",
+      "kr_sha256": "b304df4f4ca5d2f390e4f3b4ecef173c5cdfeb49fbcf46ad591aa5fdd039a0c0",
+      "en_sha256": "4aa624b2e9e7163034671f480bd2407ba5fdfba516938a7b267eb3f732a7212c",
+      "origin": "ai"
+    },
+    "dataList[id=9007702].levelList[level=1].name": {
+      "pl": "Pancerne Tarany!",
+      "kr_sha256": "0695194461f2d0199846df9257c1fa9b15fe79ee132d3ffc9c539242b6369151",
+      "en_sha256": "fb77fa6488f695587dd064875a4c552d2746eb4c24534f88c9d001525847ac25",
+      "origin": "ai"
+    },
+    "dataList[id=9007703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007703].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007703].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007703].levelList[level=1].name": {
+      "pl": "Gwaaah!",
+      "kr_sha256": "c05c1343027d13ba49bcc807070d0ecb634bf2c60e853fcb29b9d6d0e9d85f57",
+      "en_sha256": "082e8b655d6ba164c9268879f3b6945cf2bf3602fc1f900cfa45c370158e14b1",
+      "origin": "ai"
+    },
+    "dataList[id=9007704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=9007704].levelList[level=1].name": {
+      "pl": "Pienienie",
+      "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
+      "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
+      "origin": "ai"
+    },
+    "dataList[id=9007705].levelList[level=1].desc": {
+      "pl": "[StartBattle] w tej turze, gdy jednostka ma HP Tarczy i zostanie zaatakowana, odbija 4 obrażeń Cięcia na atakującego",
+      "kr_sha256": "52f2c937565e9dfd107805e6e665c88fa8f058e594f60708264fc9175a76c3de",
+      "en_sha256": "03f0635d4aa635e7b836b2e42bc78fbf38920690370e37f5aaf1e0d3f280fdc5",
+      "origin": "ai"
+    },
+    "dataList[id=9007705].levelList[level=1].name": {
+      "pl": "Pustelnik",
+      "kr_sha256": "74e90e4365e4347aab35ef9b92ec530d086a449d23e8b93506eb0819a66b8aef",
+      "en_sha256": "48e31fa01d31aed0fca812fca689a3823313ad9011ac848e952089bb55408c90",
+      "origin": "ai"
+    },
+    "dataList[id=9007801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9007801].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9007801].levelList[level=1].name": {
+      "pl": "Gwah",
+      "kr_sha256": "2a627de0c61edf37e3a8a317cfbb585fa1263cdc5cfddfd9edbef6008e251475",
+      "en_sha256": "4ae01b1beadfbf42deabc2f5c77361048e06a8e60ba9d02ae1dd8a0efe514b49",
+      "origin": "ai"
+    },
+    "dataList[id=9007802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik Rozdarcia o 2 w następnej turze",
+      "kr_sha256": "59fb5a9622f3f4d91b76361ef1925550b2c78d0b3b2e366d93ff316f4fe469b2",
+      "en_sha256": "0ed453720c3b204b8c806d807e6395d099a2efbd1ac8b7669b7cebd117c490e8",
+      "origin": "ai"
+    },
+    "dataList[id=9007802].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 Wrażliwości na Kłucie",
+      "kr_sha256": "4e24e2655a74cb1e9ff4882e1b65108943fa0655ef08974a5a9da537757e62c4",
+      "en_sha256": "075b7d714f46b12463e17dc1215e4dda74e74ec6e4dfc5c666fcbf59baed2fbe",
+      "origin": "ai"
+    },
+    "dataList[id=9007802].levelList[level=1].name": {
+      "pl": "Pancerne Tarany!",
+      "kr_sha256": "0695194461f2d0199846df9257c1fa9b15fe79ee132d3ffc9c539242b6369151",
+      "en_sha256": "fb77fa6488f695587dd064875a4c552d2746eb4c24534f88c9d001525847ac25",
+      "origin": "ai"
+    },
+    "dataList[id=9007803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007803].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007803].levelList[level=1].name": {
+      "pl": "Gwaaah!",
+      "kr_sha256": "c05c1343027d13ba49bcc807070d0ecb634bf2c60e853fcb29b9d6d0e9d85f57",
+      "en_sha256": "082e8b655d6ba164c9268879f3b6945cf2bf3602fc1f900cfa45c370158e14b1",
+      "origin": "ai"
+    },
+    "dataList[id=9007804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=9007804].levelList[level=1].name": {
+      "pl": "Pienienie",
+      "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
+      "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
+      "origin": "ai"
+    },
+    "dataList[id=9007805].levelList[level=1].desc": {
+      "pl": "[StartBattle] w tej turze, gdy jednostka ma HP Tarczy i zostanie zaatakowana, odbija 4 obrażeń Przebicia na atakującego",
+      "kr_sha256": "f6512e4e13aaa1b436723c4f29da9c3324ca887c070f87510afde50d73f4dd95",
+      "en_sha256": "497dc1f3dc5f06289280f3877f5fd12116ec6ad4155fca2161f78aedaf2e73e8",
+      "origin": "ai"
+    },
+    "dataList[id=9007805].levelList[level=1].name": {
+      "pl": "Pustelnik",
+      "kr_sha256": "74e90e4365e4347aab35ef9b92ec530d086a449d23e8b93506eb0819a66b8aef",
+      "en_sha256": "48e31fa01d31aed0fca812fca689a3823313ad9011ac848e952089bb55408c90",
+      "origin": "ai"
+    },
+    "dataList[id=9007901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9007901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9007901].levelList[level=1].name": {
+      "pl": "Gwah",
+      "kr_sha256": "2a627de0c61edf37e3a8a317cfbb585fa1263cdc5cfddfd9edbef6008e251475",
+      "en_sha256": "4ae01b1beadfbf42deabc2f5c77361048e06a8e60ba9d02ae1dd8a0efe514b49",
+      "origin": "ai"
+    },
+    "dataList[id=9007902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik Rozdarcia o 2 w następnej turze",
+      "kr_sha256": "59fb5a9622f3f4d91b76361ef1925550b2c78d0b3b2e366d93ff316f4fe469b2",
+      "en_sha256": "0ed453720c3b204b8c806d807e6395d099a2efbd1ac8b7669b7cebd117c490e8",
+      "origin": "ai"
+    },
+    "dataList[id=9007902].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Kruchości Uderzenia w następnej turze",
+      "kr_sha256": "a0cbd174cbfc6db647e34ebc6330c3e42293081730ffb4c492db62ea10c28936",
+      "en_sha256": "e8c33c946a07d4fe64e1fde09161b073745a0acef3aab9120a4a7cc65166d5d0",
+      "origin": "ai"
+    },
+    "dataList[id=9007902].levelList[level=1].name": {
+      "pl": "Pancerne Tarany!",
+      "kr_sha256": "0695194461f2d0199846df9257c1fa9b15fe79ee132d3ffc9c539242b6369151",
+      "en_sha256": "fb77fa6488f695587dd064875a4c552d2746eb4c24534f88c9d001525847ac25",
+      "origin": "ai"
+    },
+    "dataList[id=9007903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007903].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "095ab205973922196db6144e1922a74f1baae315501ef57017a34f631429c3e0",
+      "origin": "ai"
+    },
+    "dataList[id=9007903].levelList[level=1].name": {
+      "pl": "Gwaaah!",
+      "kr_sha256": "c05c1343027d13ba49bcc807070d0ecb634bf2c60e853fcb29b9d6d0e9d85f57",
+      "en_sha256": "082e8b655d6ba164c9268879f3b6945cf2bf3602fc1f900cfa45c370158e14b1",
+      "origin": "ai"
+    },
+    "dataList[id=9007904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=9007904].levelList[level=1].name": {
+      "pl": "Pienienie",
+      "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
+      "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
+      "origin": "ai"
+    },
+    "dataList[id=9007905].levelList[level=1].desc": {
+      "pl": "[StartBattle] w tej turze, gdy jednostka ma HP Tarczy i zostanie zaatakowana, odbija 4 obrażeń Uderzenia na atakującego",
+      "kr_sha256": "8fdbfe2349db11248b2a0350a6232ce1ef55b72a12aa99b4c8e389e34763ebe9",
+      "en_sha256": "2a9080c68d552a0b4842f57db81e6a49b600958001cc01ebac83f200bc34c9db",
+      "origin": "ai"
+    },
+    "dataList[id=9007905].levelList[level=1].name": {
+      "pl": "Pustelnik",
+      "kr_sha256": "74e90e4365e4347aab35ef9b92ec530d086a449d23e8b93506eb0819a66b8aef",
+      "en_sha256": "48e31fa01d31aed0fca812fca689a3823313ad9011ac848e952089bb55408c90",
+      "origin": "ai"
+    },
+    "dataList[id=9008001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 Rozdarcia",
+      "kr_sha256": "0046413a5ff94d30beb99377d089ce31abc0c67ed22f2ac349e5c92a60ba4ffe",
+      "en_sha256": "ca3f75d9d2e530bd68b93b695ed43f0ca077b58b163ff2775763a723048605c3",
+      "origin": "ai"
+    },
+    "dataList[id=9008001].levelList[level=1].name": {
+      "pl": "Bęc",
+      "kr_sha256": "9359914af1e2bfc624813a38371230f433c57c271f119dc39c5efe5eac00a56d",
+      "en_sha256": "5c3a36eb4c654a467a21febfc48620a8ae8c6ba5fd2c4a851e626e2db9f1046e",
+      "origin": "ai"
+    },
+    "dataList[id=9008002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "d49a61b9617284b0496bbe4ae0d0049f69b9b78433abaf209e7ec215097bc177",
+      "en_sha256": "1e324e5c66da9c3c7abab6f1cdd87899c5f35f97336d6fbd80aa3947bb5ce617",
+      "origin": "ai"
+    },
+    "dataList[id=9008002].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "d49a61b9617284b0496bbe4ae0d0049f69b9b78433abaf209e7ec215097bc177",
+      "en_sha256": "1e324e5c66da9c3c7abab6f1cdd87899c5f35f97336d6fbd80aa3947bb5ce617",
+      "origin": "ai"
+    },
+    "dataList[id=9008002].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "d49a61b9617284b0496bbe4ae0d0049f69b9b78433abaf209e7ec215097bc177",
+      "en_sha256": "1e324e5c66da9c3c7abab6f1cdd87899c5f35f97336d6fbd80aa3947bb5ce617",
+      "origin": "ai"
+    },
+    "dataList[id=9008002].levelList[level=1].name": {
+      "pl": "Bęc Bęc Bęc",
+      "kr_sha256": "25505253f88b30df4ee2812c15fb1d820b84ab5fda99daf2531a03f3a683386a",
+      "en_sha256": "8d3ffe932e0a00d5f979c83b57915445d6b3ccd41d843b43b5230d61916c8abf",
+      "origin": "ai"
+    },
+    "dataList[id=9008003].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=9008003].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=9008003].levelList[level=1].name": {
+      "pl": "Pienienie",
+      "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
+      "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
+      "origin": "ai"
+    },
+    "dataList[id=9008004].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 Rozdarcia",
+      "kr_sha256": "3cb2daa6b077a5a19c379e0e5d852ec2412a0b7be40200dc2ad1a30e5fb66640",
+      "en_sha256": "4fbf0d21c130d24a0d3aa303440fdb717fd6c4cffbb96e09d7fa3829204baadb",
+      "origin": "ai"
+    },
+    "dataList[id=9008004].levelList[level=1].desc": {
+      "pl": "[CantIdentify] \nzadaje +15% obrażeń za każde 5 Rozdarcia celu\n[EndSkill] traci HP równe 8% Maks. HP",
+      "kr_sha256": "fb98e55cc59c7833b57db3c145b5db5ad1b1c3668f6867406d80431fd1080744",
+      "en_sha256": "200a40ef1bcd67170a73dbf06614dcc9d370dcc760837ba521c7acf5dacdab40",
+      "origin": "ai"
+    },
+    "dataList[id=9008004].levelList[level=1].name": {
+      "pl": "Ostrzał Krabiem!",
+      "kr_sha256": "70a57912e6df9e01f9b8cc157096c8073785c3fe2015d680d7bed45cf64afef3",
+      "en_sha256": "dd3f73a931e58145e55f9bf891304ea9a270b0044317487ff549f20ced987321",
+      "origin": "ai"
+    },
+    "dataList[id=9008005].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=9008005].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=9008005].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=9008005].levelList[level=1].name": {
+      "pl": "GUOH!",
+      "kr_sha256": "79c55bb5f67e538381c4d04b8d4c4fc19789d8c6bdc2e3a7343315a7bc0167cb",
+      "en_sha256": "e62b2da023105ef9b5b2f888f786afce3c18a32206c6a354a78981d9ff3adc66",
+      "origin": "ai"
+    },
+    "dataList[id=9008101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 Rozdarcia",
+      "kr_sha256": "0046413a5ff94d30beb99377d089ce31abc0c67ed22f2ac349e5c92a60ba4ffe",
+      "en_sha256": "ca3f75d9d2e530bd68b93b695ed43f0ca077b58b163ff2775763a723048605c3",
+      "origin": "ai"
+    },
+    "dataList[id=9008101].levelList[level=1].name": {
+      "pl": "Bęc",
+      "kr_sha256": "9359914af1e2bfc624813a38371230f433c57c271f119dc39c5efe5eac00a56d",
+      "en_sha256": "5c3a36eb4c654a467a21febfc48620a8ae8c6ba5fd2c4a851e626e2db9f1046e",
+      "origin": "ai"
+    },
+    "dataList[id=9008102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "d49a61b9617284b0496bbe4ae0d0049f69b9b78433abaf209e7ec215097bc177",
+      "en_sha256": "1e324e5c66da9c3c7abab6f1cdd87899c5f35f97336d6fbd80aa3947bb5ce617",
+      "origin": "ai"
+    },
+    "dataList[id=9008102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "d49a61b9617284b0496bbe4ae0d0049f69b9b78433abaf209e7ec215097bc177",
+      "en_sha256": "1e324e5c66da9c3c7abab6f1cdd87899c5f35f97336d6fbd80aa3947bb5ce617",
+      "origin": "ai"
+    },
+    "dataList[id=9008102].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "d49a61b9617284b0496bbe4ae0d0049f69b9b78433abaf209e7ec215097bc177",
+      "en_sha256": "1e324e5c66da9c3c7abab6f1cdd87899c5f35f97336d6fbd80aa3947bb5ce617",
+      "origin": "ai"
+    },
+    "dataList[id=9008102].levelList[level=1].name": {
+      "pl": "Bęc Bęc Bęc",
+      "kr_sha256": "25505253f88b30df4ee2812c15fb1d820b84ab5fda99daf2531a03f3a683386a",
+      "en_sha256": "8d3ffe932e0a00d5f979c83b57915445d6b3ccd41d843b43b5230d61916c8abf",
+      "origin": "ai"
+    },
+    "dataList[id=9008103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=9008103].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 5",
+      "kr_sha256": "602f4263cb301a73f003f26ec6030263ba6eef34bd3e56acb9999f29f6841341",
+      "en_sha256": "35058de0f28839ad6f01f3e7e98c82ae293680203491d0df35818a0314611141",
+      "origin": "ai"
+    },
+    "dataList[id=9008103].levelList[level=1].name": {
+      "pl": "Pienienie",
+      "kr_sha256": "6a120cdb8c803c18d373c9b50c728100cde3e1bbefc98d0344798cebd345124c",
+      "en_sha256": "970fbf86c7ea01b375043b16ad4881c1a128f898652ad7712c1aad4417cf3264",
+      "origin": "ai"
+    },
+    "dataList[id=9008104].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Kruchości Przebicia w następnej turze",
+      "kr_sha256": "2ffdbdee6182d006df274d4a24b14413e3aa81df5a1c7305c959641d695be74d",
+      "en_sha256": "12a6414f534b07eb167308945ed9b82aeb45b8101caa874477223f7ca68d50b1",
+      "origin": "ai"
+    },
+    "dataList[id=9008104].levelList[level=1].name": {
+      "pl": "Pancerne Tarany!!!",
+      "kr_sha256": "e3bf209d5c50dc0f7e9b160b2da4be562059397c7b23189f6d65f23cc23300ca",
+      "en_sha256": "93071845c6e82c9e19476b0b0bfe5eb70dabf438efa4d05efe5c5270653c0a38",
+      "origin": "ai"
+    },
+    "dataList[id=9008105].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Molted Shell Shot",
+      "kr_sha256": "c976294e7f48cdd53399990db545ead8869d4b8d9fdca039346cbb3c346e705c",
+      "en_sha256": "bbfcaf8128b87e39c4a33c66446b1e95c98932d700b33fc4176eb2f1d6df0a5c",
+      "origin": "ai"
+    },
+    "dataList[id=9008105].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nzadaje +15% obrażeń za każde 5 Rozdarcia celu",
+      "kr_sha256": "e93738e07c8329481c658cf7a0870d2b685c17ce184524fd9cadf7b7878f218e",
+      "en_sha256": "18639b2fb9ad229bf6938a1e9717785f8c0a1cc391f3e5c999f4a6fb9da48337",
+      "origin": "ai"
+    },
+    "dataList[id=9008105].levelList[level=1].name": {
+      "pl": "Strzał Wylinki",
+      "kr_sha256": "0d46bc5333850745ab9014b4dcdd7fe9156ebdcde74f471c4dd79acdf56dee1f",
+      "en_sha256": "a5832e8782b7ceb4127a376fb358ba9a3c871809c09995a6ecde90170f7d2b17",
+      "origin": "ai"
+    },
+    "dataList[id=9008106].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=9008106].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=9008106].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=9008106].levelList[level=1].name": {
+      "pl": "GUOH!",
+      "kr_sha256": "79c55bb5f67e538381c4d04b8d4c4fc19789d8c6bdc2e3a7343315a7bc0167cb",
+      "en_sha256": "e62b2da023105ef9b5b2f888f786afce3c18a32206c6a354a78981d9ff3adc66",
+      "origin": "ai"
+    }
+  }
+}

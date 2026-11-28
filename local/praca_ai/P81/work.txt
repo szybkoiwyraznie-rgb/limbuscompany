@@ -1,0 +1,3910 @@
+### 1 (L130)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 가지고 있는 충전 횟수가 5 이상이면, 충전 횟수만큼 가하는 피해량 +10%. 전부 소모.
+EN: [OnSucceedAttack] At 5+ Charge Count, spend all Charge Count to deal +10% damage for each Count
+
+### 2 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 맞물리는 시간 1 부여
+EN: [OnSucceedAttack] Inflict 1 Interlocking Time
+
+### 3 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 시간 대여
+EN: Borrow Time
+
+### 4 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] [TimeRental] 3 얻음. 자신의 충전 횟수 1 얻음
+EN: [StartBattle] Gain 3 [TimeRental] and +1 Charge Count
+
+### 5 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 근접 촬영 시작
+EN: Proximity Shooting
+
+### 6 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 후퇴 후퇴
+EN: Retreat; Retreat;
+
+### 7 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 섬광 섬광
+EN: Flash; Flash;
+
+### 8 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 -5
+EN: [OnSucceedAttack] Target loses 5 SP
+
+### 9 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 대상의 정신력 -5
+EN: [OnSucceedAttackHead] Target loses 5 SP
+
+### 10 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 구속합니다.
+EN: Arresting.
+
+### 11 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2, 마비 3 부여.
+EN: [OnSucceedAttack] Inflict 2 Bind and 3 Paralyze next turn.
+
+### 12 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 거수자 발견
+EN: Suspicious Individuals
+
+### 13 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+EN: [OnSucceedAttackHead] Inflict 3 Rupture
+
+### 14 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 제압
+EN: Restrain
+
+### 15 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+REPEAT: 13 — inherit
+
+### 16 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 거수자 차단
+EN: No Trespassing
+
+### 17 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] 체력이 가장 높은 대상 우선 공격
+EN: Targets the unit with the most HP
+
+### 18 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] 1코인이 앞면이라면 피해량 +10%
+EN: If Coin 1 lands Heads, +10% Damage
+
+### 19 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] 2코인이 앞면이라면 피해량 +10%
+EN: If Coin 2 lands Heads, +10% Damage
+
+### 20 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] 2, 3코인이 앞면이라면 피해량 +30%
+EN: If Coins 2 & 3 land Heads, +30% Damage
+
+### 21 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸악
+EN: Gwah
+
+### 22 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+REPEAT: 13 — inherit
+
+### 23 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+REPEAT: 13 — inherit
+
+### 24 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 등딱지 태클!
+EN: Shell Tackle!
+
+### 25 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 Rupture Count next turn
+
+### 26 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 참격 취약 1 부여
+EN: [OnSucceedAttack] Inflict 1 Slash Fragility next turn
+
+### 27 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸아악!
+EN: Gwaaah!
+
+### 28 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+EN: [OnSucceedAttack] Inflict 3 Rupture
+
+### 29 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 30 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 31 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게거품
+EN: Foaming
+
+### 32 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가
+EN: [OnSucceedAttack] Inflict +5 Rupture Count
+
+### 33 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게 눈 감추기
+EN: Hermit Crab
+
+### 34 (L130)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 참격 피해 4 반사
+EN: [StartBattle] When attacked while this unit has Shield HP, deal 4 Slash damage to the attacker
+
+### 35 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸악
+REPEAT: 21 — inherit
+
+### 36 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+REPEAT: 13 — inherit
+
+### 37 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+REPEAT: 13 — inherit
+
+### 38 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 등딱지 태클!
+REPEAT: 24 — inherit
+
+### 39 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 횟수 2 증가
+REPEAT: 25 — inherit
+
+### 40 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 관통 취약 1 부여
+EN: [OnSucceedAttack] Inflict 1 Pierce Fragility next turn
+
+### 41 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸아악!
+REPEAT: 27 — inherit
+
+### 42 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 43 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 44 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 45 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게거품
+REPEAT: 31 — inherit
+
+### 46 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가
+REPEAT: 32 — inherit
+
+### 47 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게 눈 감추기
+REPEAT: 33 — inherit
+
+### 48 (L130)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 관통 피해 4 반사
+EN: [StartBattle] When attacked while this unit has Shield HP, deal 4 Pierce damage to the attacker
+
+### 49 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸악
+REPEAT: 21 — inherit
+
+### 50 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+REPEAT: 13 — inherit
+
+### 51 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여
+REPEAT: 13 — inherit
+
+### 52 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 등딱지 태클!
+REPEAT: 24 — inherit
+
+### 53 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 횟수 2 증가
+REPEAT: 25 — inherit
+
+### 54 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 타격 취약 1 부여
+EN: [OnSucceedAttack] Inflict 1 Blunt Fragility next turn
+
+### 55 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸아악!
+REPEAT: 27 — inherit
+
+### 56 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 57 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 58 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여
+REPEAT: 28 — inherit
+
+### 59 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게거품
+REPEAT: 31 — inherit
+
+### 60 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가
+REPEAT: 32 — inherit
+
+### 61 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게 눈 감추기
+REPEAT: 33 — inherit
+
+### 62 (L130)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 타격 피해 4 반사
+EN: [StartBattle] When attacked while this unit has Shield HP, deal 4 Blunt damage to the attacker
+
+### 63 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 찍기
+EN: Thwack
+
+### 64 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 5 부여
+EN: [OnSucceedAttack] Inflict 5 Rupture
+
+### 65 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 마구 찍기
+EN: Thwack Thwack Thwack
+
+### 66 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 Rupture Count
+
+### 67 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가
+REPEAT: 66 — inherit
+
+### 68 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가
+REPEAT: 66 — inherit
+
+### 69 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게거품
+REPEAT: 31 — inherit
+
+### 70 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가
+REPEAT: 32 — inherit
+
+### 71 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가
+REPEAT: 32 — inherit
+
+### 72 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게장 발사!
+EN: Delicious Crab Guts!
+
+### 73 (L120)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantIdentify]\n대상의 파열 위력 5 마다 피해량 +15%\n[EndSkill] 최대 체력의 8%만큼 본체 체력 감소
+EN: [CantIdentify] \nDeal +15% damage per 5 Rupture on target\n[EndSkill] Lose HP by 8% of Max HP
+
+### 74 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 10 부여
+EN: [OnSucceedAttack] Inflict 10 Rupture
+
+### 75 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸오!
+EN: GUOH!
+
+### 76 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여
+EN: [OnSucceedAttackHead] Inflict 2 Rupture
+
+### 77 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여
+REPEAT: 76 — inherit
+
+### 78 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여
+REPEAT: 76 — inherit
+
+### 79 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 찍기
+REPEAT: 63 — inherit
+
+### 80 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 5 부여
+REPEAT: 64 — inherit
+
+### 81 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 마구 찍기
+REPEAT: 65 — inherit
+
+### 82 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가
+REPEAT: 66 — inherit
+
+### 83 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가
+REPEAT: 66 — inherit
+
+### 84 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가
+REPEAT: 66 — inherit
+
+### 85 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 게거품
+REPEAT: 31 — inherit
+
+### 86 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가
+REPEAT: 32 — inherit
+
+### 87 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 5 증가
+REPEAT: 32 — inherit
+
+### 88 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 등딱지 태클!!!
+EN: Shell Tackle!!!
+
+### 89 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 관통 취약 3 부여
+EN: [OnSucceedAttack] Inflict 3 Pierce Fragility next turn
+
+### 90 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 오래된 게딱지 탄 발사
+EN: Firing Molted Shell Shot
+
+### 91 (L120)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [CantIdentify]\n대상의 파열 위력 5마다 피해량 +15%
+EN: [CantIdentify]\nDeal +15% damage per 5 Rupture on target
+
+### 92 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 오래된 게딱지 탄 1 소모
+EN: [OnSucceedAttack] Spend 1 Molted Shell Shot
+
+### 93 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 꾸오!
+REPEAT: 75 — inherit
+
+### 94 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여
+REPEAT: 76 — inherit
+
+### 95 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여
+REPEAT: 76 — inherit
+
+### 96 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttackHead] 파열 2 부여
+REPEAT: 76 — inherit
+
+### 97 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 돌격
+EN: Raid
+
+### 98 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 3 이상이면, 코인 위력 +1
+EN: [WhenUse] If target has 3+ [Vibration], Coin Power +1
+
+### 99 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Vibration]
+
+### 100 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여
+REPEAT: 99 — inherit
+
+### 101 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여
+REPEAT: 99 — inherit
+
+### 102 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 표적 무력화
+EN: Neutralize Target
+
+### 103 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 3 이상이면, 코인 위력 +1
+REPEAT: 98 — inherit
+
+### 104 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Vibration]
+
+### 105 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 106 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] HP탄 활성화
+EN: Activate HP Bullet
+
+### 107 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 체력 20 회복
+EN: [WhenUse] Heal 20 HP
+
+### 108 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 진압
+EN: Takedown
+
+### 109 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 4 이상이면, 기본 위력 +2
+EN: [WhenUse] If target has 4+ [Vibration], Base Power +2
+
+### 110 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Vibration] Count
+
+### 111 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] HP탄 활성화
+REPEAT: 106 — inherit
+
+### 112 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 체력 20 회복
+REPEAT: 107 — inherit
+
+### 113 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방호
+EN: Shelter
+
+### 114 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WinDuel] 무작위 아군 2명에게 다음 턴에 [ResultEnhancement] 1 부여
+EN: [WinDuel] Apply 1 [ResultEnhancement] to 2 random allies next turn
+
+### 115 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 엄호
+EN: Cover
+
+### 116 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 자신을 제외한 무작위 아군 2명에게 다음 턴에 [Protection] 2 부여
+EN: [WhenUse] Apply 2 [Protection] to 2 random other allies next turn
+
+### 117 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여
+EN: [OnSucceedAttack] Inflict 1 [Vulnerable]
+
+### 118 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 출입 금지
+EN: Do Not Enter
+
+### 119 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 4 이상이면, 기본 위력 +2
+EN: [WhenUse] If target has 4+ [Burst], Base Power +2
+
+### 120 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Burst]
+
+### 121 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 진압
+EN: Subdue
+
+### 122 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)
+EN: [WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)
+
+### 123 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Burst]
+
+### 124 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Burst] Count
+
+### 125 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 출입 차단
+EN: Forbid Entry
+
+### 126 (L120)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)\n[DefeatDuel] 체력 10 회복
+EN: [WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)\n[DefeatDuel] Heal 10 HP
+
+### 127 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가
+EN: [OnSucceedAttack] Inflict +2 [Burst] Count
+
+### 128 (L130)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] x [Burst] 횟수만큼 체력 피해. 대상의 [Burst] 전부 소모
+EN: [OnSucceedAttack] Deal ([Burst] x [Burst] Count) HP damage, then consume all [Burst] on target
+
+### 129 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 거수자 발견
+REPEAT: 12 — inherit
+
+### 130 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 3 이상이면, 기본 위력 +2
+EN: [WhenUse] If target has 3+ [Burst], Base Power +2
+
+### 131 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여
+REPEAT: 123 — inherit
+
+### 132 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 제압
+REPEAT: 14 — inherit
+
+### 133 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 3 이상이면, 기본 위력 +2
+REPEAT: 130 — inherit
+
+### 134 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여
+REPEAT: 123 — inherit
+
+### 135 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가
+REPEAT: 124 — inherit
+
+### 136 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 거수자 차단
+REPEAT: 16 — inherit
+
+### 137 (L130)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [Burst]이 가장 많은 대상 우선 공격\n[WhenUse] 대상에게 [Burst]이 있다면, 코인 위력 +1
+EN: Prioritizes targets that have the most [Burst]\n[WhenUse] If target has [Burst], Coin Power +1
+
+### 138 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여
+REPEAT: 120 — inherit
+
+### 139 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] 1코인이 앞면이면 피해량 +10%
+EN: If Coin 1 lands Heads, deal +10% damage
+
+### 140 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Burst] 2 부여
+EN: [OnSucceedAttack] Inflict 2 [Burst]
+
+### 141 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] 2코인이 앞면이면 피해량 +10%
+EN: If Coin 2 lands Heads, deal +10% damage
+
+### 142 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Burst] 2 부여
+REPEAT: 140 — inherit
+
+### 143 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] 2, 3코인이 앞면이면 피해량 +30%
+EN: If Coins 2 & 3 land Heads, deal +30% damage
+
+### 144 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Burst] x [Burst] 횟수만큼 체력 피해. 대상의 [Burst] 전부 소모
+REPEAT: 128 — inherit
+
+### 145 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기이
+EN: Kii
+
+### 146 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+EN: [WhenUse] Clash Power +2 for every type of negative effect on target (max 6)
+
+### 147 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 5 증가
+EN: [OnSucceedAttack] Inflict +5 [Burst] Count
+
+### 148 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기이익
+EN: Kiih
+
+### 149 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 150 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가
+REPEAT: 124 — inherit
+
+### 151 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가
+REPEAT: 124 — inherit
+
+### 152 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방어
+EN: Guard
+
+### 153 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이번 턴 동안 (자신의 잃은 체력 / 10) 만큼 보호막 얻음
+EN: [StartBattle] For this turn, gain (missing HP on self / 10) Shield
+
+### 154 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기이익
+REPEAT: 148 — inherit
+
+### 155 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 156 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 6 부여
+EN: [OnSucceedAttack] Inflict 6 [Burst]
+
+### 157 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기이이익
+EN: Kiieeh
+
+### 158 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 159 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여
+REPEAT: 120 — inherit
+
+### 160 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여
+REPEAT: 120 — inherit
+
+### 161 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방어
+REPEAT: 152 — inherit
+
+### 162 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이번 턴 동안 (자신의 잃은 체력 / 10) 만큼 보호막 얻음
+REPEAT: 153 — inherit
+
+### 163 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기긱!
+EN: Kigik!
+
+### 164 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 165 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Laceration]
+
+### 166 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기익!
+EN: Kieek!
+
+### 167 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 168 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여
+EN: [OnSucceedAttack] Inflict 4 [Laceration]
+
+### 169 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 2 부여, [Laceration] 횟수 5 증가
+EN: [OnSucceedAttack] Inflict 2 [DefenseDown] and +5 [Laceration] Count
+
+### 170 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방어
+REPEAT: 152 — inherit
+
+### 171 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이번 턴 동안 (자신의 잃은 체력 / 10) 만큼 보호막 얻음
+REPEAT: 153 — inherit
+
+### 172 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기긱이긱
+EN: Kigigiik
+
+### 173 (L190)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] 이전 턴에 피해를 받지 않은 경우 코인 위력 +1\n[WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+EN: If this unit did not take damage in the previous turn, Coin Power +1\n[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)
+
+### 174 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Vibration]
+
+### 175 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Vibration] Count
+
+### 176 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기긱이긱
+REPEAT: 172 — inherit
+
+### 177 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 178 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 5 부여
+REPEAT: 174 — inherit
+
+### 179 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1, [DefenseDown] 2 부여
+EN: [OnSucceedAttack] Inflict 1 [Binding] and 2 [DefenseDown] next turn
+
+### 180 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 기이긱기
+EN: Kieegikhik
+
+### 181 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[WhenUse] [Protection] 2 얻음\n[WinDuel] [Vibration] 5 부여
+EN: [WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[WhenUse] Gain 2 [Protection]\n[WinDuel] Inflict 5 [Vibration]
+
+### 182 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소
+EN: [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+
+### 183 (L180)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 2 — opis] - [VibrationExplosion]이 적중했으면, [Laceration], [Vibration], [Burst] 위력 중 무작위로 10 부여
+EN: - If [VibrationExplosion] is triggered, inflict 10 Potency of a random status effect, chosen from [Laceration], [Vibration], and [Burst]
+
+### 184 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방어
+REPEAT: 152 — inherit
+
+### 185 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [StartBattle] 이번 턴 동안 (자신의 잃은 체력 / 10) 만큼 보호막 얻음
+REPEAT: 153 — inherit
+
+### 186 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 돌격
+REPEAT: 97 — inherit
+
+### 187 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 188 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여
+EN: [OnSucceedAttack] Inflict 3 [Sinking]
+
+### 189 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 3 증가
+EN: [OnSucceedAttack] Inflict +3 [Sinking] Count
+
+### 190 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여
+REPEAT: 188 — inherit
+
+### 191 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 표적 무력화
+REPEAT: 102 — inherit
+
+### 192 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 193 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여
+REPEAT: 188 — inherit
+
+### 194 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 3 증가
+REPEAT: 189 — inherit
+
+### 195 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking]이 10 이상이면, [Sinking] 5 부여
+EN: [OnSucceedAttack] If target has 10+ [Sinking], inflict 5 [Sinking] next turn
+
+### 196 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] HP탄 활성화
+REPEAT: 106 — inherit
+
+### 197 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 잃은 체력의 5%만큼 회복 (최대 150, 턴당 1회)
+EN: [WhenUse] Heal 5% of missing HP (once per turn; max 150)
+
+### 198 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 방호
+REPEAT: 113 — inherit
+
+### 199 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[WhenUse] 무작위 아군 2명에게 다음 턴에 [Protection] 2 부여
+EN: [WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[WhenUse] Apply 2 [Protection] to 2 random allies next turn
+
+### 200 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 5 증가
+EN: [OnSucceedAttack] Inflict +5 [Sinking] Count
+
+### 201 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 저지
+EN: Blockade
+
+### 202 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 203 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여
+REPEAT: 188 — inherit
+
+### 204 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여
+REPEAT: 188 — inherit
+
+### 205 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 엄호
+REPEAT: 115 — inherit
+
+### 206 (L220)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[WinDuel] 자신을 제외한 무작위 아군 1명에게 다음 턴에 [AmberDamageUp] 1, [ShamrockDamageUp] 1 부여
+EN: [WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[WinDuel] Apply 1 [AmberDamageUp] and 1 [ShamrockDamageUp] to a random other ally next turn
+
+### 207 (L120)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여
+EN: [OnSucceedAttack] Inflict 5 [Sinking]
+
+### 208 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 출입 금지
+REPEAT: 118 — inherit
+
+### 209 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 210 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여
+REPEAT: 207 — inherit
+
+### 211 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 진압
+REPEAT: 121 — inherit
+
+### 212 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 213 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여
+REPEAT: 207 — inherit
+
+### 214 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 5 증가
+REPEAT: 200 — inherit
+
+### 215 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 출입 차단
+REPEAT: 125 — inherit
+
+### 216 (L180)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[DefeatDuel] 잃은 체력의 5%만큼 회복 (최대 100, 턴당 1회)
+EN: [WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[DefeatDuel] Heal 5% of missing HP (once per turn; max 100)
+
+### 217 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 5 증가
+REPEAT: 200 — inherit
+
+### 218 (L150)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking] 위력만큼 우울 피해. 대상의 [Sinking] 횟수 1 감소
+EN: [OnSucceedAttack] Deal Gloom damage equal to [Sinking] Potency on target and reduce target's [Sinking] Count by 1
+
+### 219 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 거수자 발견
+REPEAT: 12 — inherit
+
+### 220 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 221 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 5 증가
+REPEAT: 200 — inherit
+
+### 222 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 제압
+REPEAT: 14 — inherit
+
+### 223 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)
+REPEAT: 146 — inherit
+
+### 224 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 5 증가
+REPEAT: 200 — inherit
+
+### 225 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여
+REPEAT: 207 — inherit
+
+### 226 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 거수자 차단
+REPEAT: 16 — inherit
+
+### 227 (L300)  [] — 
+TOK: \n
+KR: (ulepszenie 1) — opis] [Sinking]이 가장 많은 대상 우선 공격\n[WhenUse] 대상에게 [Sinking]이 있다면, 기본 위력 +2\n[WhenUse] 대상의 부정적인 효과 종류 당 합 위력 +2 (최대 6)\n[DefeatDuel] 잃은 체력의 5%만큼 회복 (최대 100, 턴당 1회)
+EN: Targets the unit that has the most [Sinking]\n[WhenUse] If target has [Sinking], Base Power +2\n[WhenUse] Clash Power +2 for every type of negative effect on target (max 6)\n[DefeatDuel] Heal 5% of missing HP (once per turn; max 100)
+
+### 228 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여
+REPEAT: 207 — inherit
+
+### 229 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 1 — opis] 1코인이 앞면이면 피해량 +10%
+REPEAT: 139 — inherit
+
+### 230 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Sinking] 5 부여
+REPEAT: 207 — inherit
+
+### 231 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 1 — opis] 2코인이 앞면이면 피해량 +10%
+REPEAT: 141 — inherit
+
+### 232 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Sinking] 5 부여
+REPEAT: 207 — inherit
+
+### 233 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 1 — opis] 2, 3코인이 앞면이면 피해량 +30%
+REPEAT: 143 — inherit
+
+### 234 (L180)  [] — 
+TOK: 
+KR: (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Sinking] 위력 x [Sinking] 횟수만큼 우울 피해. 대상의 [Sinking] 횟수 1 감소
+EN: [OnSucceedAttack] Deal Gloom damage equal to ([Sinking] Potency x [Sinking] Count) on target and reduce target's [Sinking] Count by 1
+
+### 235 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 싱거운 타격
+EN: Weak Blow
+
+### 236 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+EN: Clumsy Chop
+
+### 237 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 서투른 찌르기
+EN: Clunky Stab
+
+### 238 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+REPEAT: 236 — inherit
+
+### 239 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 서투른 찌르기
+REPEAT: 237 — inherit
+
+### 240 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 싱거운 타격
+REPEAT: 235 — inherit
+
+### 241 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+REPEAT: 236 — inherit
+
+### 242 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 서투른 찌르기
+REPEAT: 237 — inherit
+
+### 243 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+REPEAT: 236 — inherit
+
+### 244 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 서투른 찌르기
+REPEAT: 237 — inherit
+
+### 245 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+REPEAT: 236 — inherit
+
+### 246 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 싱거운 타격
+REPEAT: 235 — inherit
+
+### 247 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+REPEAT: 236 — inherit
+
+### 248 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 싱거운 타격
+REPEAT: 235 — inherit
+
+### 249 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 타격
+EN: Hit
+
+### 250 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 묵직한 일격
+EN: Heavy Strike
+
+### 251 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 막기
+EN: Block
+
+### 252 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+REPEAT: 236 — inherit
+
+### 253 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 싱거운 타격
+REPEAT: 235 — inherit
+
+### 254 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 서투른 찌르기
+REPEAT: 237 — inherit
+
+### 255 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 어설픈 베기
+REPEAT: 236 — inherit
+
+### 256 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 서투른 찌르기
+REPEAT: 237 — inherit
+
+### 257 (L40)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 묵직한 타격
+EN: Heavy Hit
+
+### 258 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 타격
+REPEAT: 249 — inherit
+
+### 259 (LNone)  [] — 
+TOK: 
+KR: (ulepszenie 1) — nazwa] 싱거운 타격
+REPEAT: 235 — inherit
+
+### 260 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139001] — nazwa] 피의 축제 개막
+EN: Let the Blood Festival Flow
+
+### 261 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139001] — opis] 종말 토우를 전부 잡으면 페이즈가 변경됨
+EN: The battle proceeds to the next phase after all the Clay Dolls are defeated
+
+### 262 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139003] — nazwa] 불의 축제 개막
+EN: Let the Fire Festival Ignite
+
+### 263 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [139003] — opis] 팔이 전부 파괴되거나, 본체의 체력이 70% 이하로 내려가면 페이즈가 변경됨
+EN: If both Arms are destroyed or the main body’s HP is brought to 70%, the battle proceeds to the next phase
+
+### 264 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139004] — nazwa] 열기
+EN: Frenzy
+
+### 265 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139004] — opis] 3페이즈 동안 매 턴마다 모든 적에게 [Combustion] 7을 부여함
+EN: During phase 3, inflict 7 [Combustion] on all enemies every turn
+
+### 266 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139006] — nazwa] 별의 축제 개막
+EN: Let the Star Festival Fall
+
+### 267 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139006] — opis] 본체의 체력이 25% 이하가 되면 페이즈가 변경됨
+EN: When the Core HP is brought to 25% or lower, the battle proceeds to the next phase
+
+### 268 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139101] — nazwa] 우상 숭배
+EN: Idolatry
+
+### 269 (L190)  [] — 
+TOK: \n
+KR: Pasywka wroga [139101] — opis] 체력이 0이 되면 사망하지 않고, 행동, 타겟팅 불가 상태가 됨\n종말 달력 제압 시 함께 제압됨
+EN: Does not die at 0 HP; instead, remains on the stage as an immobile and untargetable unit.\nSuppressed when the Doomsday Calendar is suppressed
+
+### 270 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139301] — nazwa] 돌아오는 과거
+EN: Returning Past
+
+### 271 (L170)  [] — 
+TOK: 
+KR: Pasywka wroga [139301] — opis] [AccumulatedPastMirror]가 50 이상이면, 본체 체력이 80% 이하일 때 턴 종료 시 [AccumulatedPastMirror]를 50 소모하여 본체 체력을 200 회복함
+EN: At 50+ [AccumulatedPastMirror], and if Core HP is at 80%-, the Core heals 200 HP by consuming 50 [AccumulatedPastMirror] at Turn End
+
+### 272 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139302] — nazwa] 소실된 과거
+EN: Misplaced Past
+
+### 273 (L250)  [] — 
+TOK: \n
+KR: Pasywka wroga [139302] — opis] 몸통 부위 파괴 시, [AccumulatedPastMirror] 전부 소모\n몸통 부위 파괴 시, 다음 턴부터 이번 전투동안 몸통 부위가 모든 속성과 공격 유형에 대하여 내성(0.5)이 됨
+EN: When the Body is broken, consume all [AccumulatedPastMirror]\nWhen the Body is broken, starting next turn, all Attack Types and Affinities become Ineffective(0.5) for the rest of the Encounter
+
+### 274 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139303] — nazwa] 파괴된 배연 기관
+EN: Broken Exhaust Port
+
+### 275 (L320)  [] — 
+TOK: \n
+KR: Pasywka wroga [139303] — opis] 증기총 부위 파괴 시, 모든 부위의 [Breath] 전부 소모\n증기총 부위가 파괴된 이후, [Breath]을 얻을 때마다 [Vulnerable]을 [Breath]만큼 얻음.\n증기총 부위가 파괴된 이후, 매 공격 스킬 사용 시 [Breath] 1을 잃음
+EN: When Steam Blaster is broken, completely lose [Breath] on all parts\nOnce Steam Blaster is broken, every time this unit gains [Breath], gain [Vulnerable] for every [Breath] gained\nOnce Steam Blaster is broken, lose 1 [Breath] On Use of an Attack Skill
+
+### 276 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139304] — nazwa] 새어나오는 증기
+EN: Leaking Steam
+
+### 277 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139304] — opis] 증기총 부위 피격 시, [Breath]과 [Breath] 횟수 1 감소
+EN: When Steam Blaster is hit, lose 1 [Breath] and 1 [Breath] Count
+
+### 278 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139305] — nazwa] 메트로놈
+EN: Metronome
+
+### 279 (L200)  [] — 
+TOK: \n
+KR: Pasywka wroga [139305] — opis] [AccumulatedPastMirror]가 홀수이면 [Vulnerable]과 [AttackDmgUp]를 3 얻음\n짝수이면, [Protection]와 [AttackDmgDown]를 3 얻음
+EN: If the [AccumulatedPastMirror] is an odd number, gain 3 [Vulnerable] and [AttackDmgUp]\nIf it is an even number, gain 3 [Protection] and [AttackDmgDown]
+
+### 280 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139401] — nazwa] 행복해진 닭
+EN: Vigorous Volaille
+
+### 281 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139401] — opis] 턴 종료 시, 전투에 참여중인 (생닭 수 x 5)만큼 체력 회복
+EN: Turn End: Heal 5 HP for every Raw Chicken on the field
+
+### 282 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139402] — nazwa] 우울해진 닭
+EN: Gloomy Gallus
+
+### 283 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139402] — opis] 턴 종료 시, 전투에 참여중인 (생닭 수 x 5)만큼 모든 적에게 정신력 피해
+EN: Turn End: Deal 5 SP damage to all enemies for every Raw Chicken on the field
+
+### 284 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139403] — nazwa] 취약해진 닭
+EN: Fragile Fowl
+
+### 285 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [139403] — opis] 부위 파괴 시, 매 턴마다 부위 파괴 턴까지 죽은 생닭 수만큼 [Vulnerable]을 얻음
+EN: When a Part breaks, gain 1 [Vulnerable] every turn for every Raw Chicken that died before that Part was broken
+
+### 286 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139404] — nazwa] 강해진 닭
+EN: Powerful Poussin
+
+### 287 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139404] — opis] 부위 파괴 상태가 아니라면, 매 턴마다 살아있는 닭만큼 [AttackDmgUp]를 얻음
+EN: If the Part isn’t broken, gain 1 [AttackDmgUp] every turn for every surviving Raw Chicken
+
+### 288 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139501] — nazwa] 걸어다니는 봉이닭
+EN: Bongy Chicken Struts
+
+### 289 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [139501] — opis] 턴 종료 시, 무작위 적 1명에게 3만큼 정신력 피해
+EN: Turn End: Deal 3 SP damage to a random enemy
+
+### 290 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [139701] — nazwa] 힘이 쑥쑥 봉이닭
+EN: Bongy Chicken Beefs Up
+
+### 291 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [139701] — opis] 턴 종료 시, 다음 턴에 자신 포함 모든 아군에게 [AttackDmgUp] 2, [Protection] 2 부여
+EN: Turn End: Apply 2 [AttackDmgUp] and 2 [Protection] to all allies next turn, including this unit
+
+### 292 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [141001] — nazwa] 피주머니
+EN: Blood Sac
+
+### 293 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [141001] — opis] [BloodPocket]가 있으면, 몸통의 분노 내성 -50%, 우울 내성 +50%
+EN: If this unit has [BloodPocket]:\n- The Body's Wrath Resist. -50%\n- The Body's Gloom Resist. +50%
+
+### 294 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [141002] — nazwa] 물주머니
+EN: Fluid Sac
+
+### 295 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [141002] — opis] [WaterPocket]가 있으면, (수치 x 20)만큼 본체 체력 회복
+EN: If this unit has [WaterPocket], heal its Core by (Stack x 20)
+
+### 296 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [141003] — nazwa] 찢어진 피주머니
+EN: Ruptured Blood Sac
+
+### 297 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [141003] — opis] 몸통 부위가 파괴되었으면, 이후 합 승리 시 적의 [Laceration]을 1회 발동시키고, [Laceration] 횟수 1 감소
+EN: Once the Body is broken, on Clash Win, activate the enemy's [Laceration] once and reduce [Laceration] Count by 1
+
+### 298 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [141004] — nazwa] 찰박거림
+EN: Splash Around
+
+### 299 (L340)  [] — 
+TOK: \n
+KR: Pasywka wroga [141004] — opis] 같은 물리 속성의 스킬로 합을 진행한 대상에게 [PlayingWithWaterTogetherMirror]을 1 부여함 (스킬당 1회, 턴당 3회)\n- 해당 스킬이 타격일 경우 대신 [PlayingWithWaterTogetherMirror]을 2 부여함
+EN: Apply 1 [PlayingWithWaterTogetherMirror] on the target that Clashed against this unit's Skill using a Skill that has the same Attack Type as this unit's (once per Skill, 3 times per turn)\n- If it was a Blunt Skill, apply 2 [PlayingWithWaterTogetherMirror] instead
+
+### 300 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [141101] — nazwa] 물주머니
+REPEAT: 294 — inherit
+
+### 301 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [141101] — opis] [WaterPocket]가 있으면, (수치 x 30)만큼 본체 체력 회복
+EN: If this unit has [WaterPocket], heal its Core by (Stack x 30)
+
+### 302 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [141102] — nazwa] 찢어진 피주머니
+REPEAT: 296 — inherit
+
+### 303 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [141102] — opis] 몸통 부위가 파괴되었으면, 이후 합 승리 시 적의 [Laceration]을 2회 발동시키고, [Laceration] 횟수 2 감소
+EN: Once the Body is broken, on Clash Win, activate the enemy's [Laceration] twice and reduce [Laceration] Count by 2
+
+### 304 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [141201] — nazwa] 피주머니
+REPEAT: 292 — inherit
+
+### 305 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [141201] — opis] [BloodPocket]가 있으면, 몸통의 분노 내성 -35%, 우울 내성 +35%
+EN: If this unit has [BloodPocket]:\n- The Body's Wrath Resist. -35%\n- The Body's Gloom Resist. +35%
+
+### 306 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [141202] — nazwa] 물주머니
+REPEAT: 294 — inherit
+
+### 307 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [141202] — opis] [WaterPocket]가 있으면, (수치 x 35)만큼 본체 체력 회복
+EN: If this unit has [WaterPocket], heal its Core by (Stack x 35)
+
+### 308 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [141203] — nazwa] 찢어진 피주머니
+REPEAT: 296 — inherit
+
+### 309 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [141203] — opis] 몸통 부위가 파괴되었으면, 이후 합 승리 시 적의 [Laceration]을 3회 발동시키고, [Laceration] 횟수 3 감소
+EN: Once the Body is broken, on Clash Win, activate the enemy's [Laceration] thrice and reduce [Laceration] Count by 3
+
+### 310 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [141204] — nazwa] 찰박찰박찰박
+EN: SplishSplashSplish
+
+### 311 (L800)  [] — 
+TOK: \n
+KR: Pasywka wroga [141204] — opis] 대상에게 [PlayingWithWaterTogetherMirror]이 없으면, 아래 효과 적용\n- 가하는 피해량 +80%\n- 자신의 스킬 중 마지막 코인 적중시 [VibrationExplosion] 1회. [Vibration] 횟수 1 감소\n\n대상에게 [PlayingWithWaterTogetherMirror]이 있으면, 아래 효과 적용\n- 가하는 피해량 -50%\n- 대상의 [PlayingWithWaterTogetherMirror] 당 받는 피해량 +10% (최대 100%)\n\n[PlayingWithWaterTogetherMirror]을 보유한 대상이 없다면, 아래 효과 적용\n- 자신의 스킬 적중시 [Laceration] 5 부여\n- 자신의 스킬 중 마지막 코인 적중시 대상의 [Laceration] 1회 발동. [Laceration] 횟수 1 감소
+EN: If target does not have [PlayingWithWaterTogetherMirror], gain the following effects:\n- Deal +80% damage\n- On Hit using a Skill's final Coin, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n\nIf target has [PlayingWithWaterTogetherMirror], gain the following effects:\n- Deal -50% damage\n- Take +10% damage for every [PlayingWithWaterTogetherMirror] Stack on target (max 100%)\n\nIf no one has [PlayingWithWaterTogetherMirror], gain the following effects:\n- On Hit using a Skill, inflict 5 [Laceration]\n- On Hit using a Skill's final Coin, activate [Laceration] once; then, reduce target's [Laceration] Count by 1
+
+### 312 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800101] — nazwa] 사과의 황홀기
+EN: An Apple’s Twilight
+
+### 313 (L140)  [] — 
+TOK: \n
+KR: Pasywka wroga [800101] — opis] 열매가 파괴되면 모든 부위가 취약 2를 얻음.\n파괴된 열매는 1턴 후 재생됨.
+EN: When the Fruit is destroyed, all parts are inflicted with 2 Fragile.\nThe Fruit regenerates after 1 turn.
+
+### 314 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800101] — podsumowanie] 열매가 파괴되면 모든 부위가 취약 2를 얻음
+EN: When the Fruit is destroyed, apply 2 Fragile to all parts
+
+### 315 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800102] — nazwa] 나오면 안되는 패시브1
+EN: NOT FOR DISPLAY1
+
+### 316 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800102] — opis] 머리가 한 번 재생된 후, 머리의 체력을 50% 미만으로 만들면 선택지가 등장한다.
+EN: After the head regenerates once, bringing the head’s HP to 50% initiates a choice prompt.
+
+### 317 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800103] — nazwa] 나오면 안되는 패시브2
+EN: NOT FOR DISPLAY2
+
+### 318 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [800103] — opis] 3턴 시작 시 녹색 줄기 효과를 제거할 수 있는 선택지가 등장한다.
+EN: At the start of Turn 3, a choice prompt where you can remove the Green Stem effect is initiated.
+
+### 319 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800104] — nazwa] 휘감는 뿌리
+EN: Entangling Roots
+
+### 320 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [800104] — opis] 뿌리가 파괴되기 전까지 턴 시작 시 모든 적에게 속박 1을 부여함.
+EN: At the start of the turn, inflict 1 Bind on all enemies.\nThis lasts until the Roots have been broken.
+
+### 321 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800104] — podsumowanie] 뿌리가 파괴되기 전까지 모든 적에게 속박 1을 부여
+EN: Inflict 1 Bind on all enemies until Roots are broken
+
+### 322 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800105] — nazwa] 단 하나의 뿌리
+EN: One Sole Root
+
+### 323 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800105] — opis] 파괴되지 않은 팔의 수만큼 뿌리가 공격 위력 증가 2를 얻는다.
+EN: The Roots gain 2 Attack Power Up for each intact Arm.
+
+### 324 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [800201] — nazwa] 피의 축제 개막
+REPEAT: 260 — inherit
+
+### 325 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800201] — opis] 종말 토우를 전부 잡으면 페이즈가 변경된다.
+EN: The battle proceeds to the next phase after all the Clay Dolls are defeated.
+
+### 326 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800202] — nazwa] 나오면 안됨
+EN: DON'T LET THE KIDS READ THIS
+
+### 327 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800202] — opis] 2페이즈 2턴 시작 시 선택지 1 등장
+EN: At the start of turn 2 in phase 2, choice prompt 1 is initiated.
+
+### 328 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [800203] — nazwa] 불의 축제 개막
+REPEAT: 262 — inherit
+
+### 329 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [800203] — opis] 팔이 전부 파괴되거나, 본체의 체력이 70% 이하로 내려가면 페이즈가 변경된다.
+EN: If both Arms are destroyed or the main body’s HP is brought to 70%, the battle proceeds to the next phase.
+
+### 330 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [800204] — nazwa] 열기
+REPEAT: 264 — inherit
+
+### 331 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800204] — opis] 3페이즈동안 매 턴마다 모든 적에게 화상 3을 부여한다.
+EN: During Phase 3\nAt the start of the turn, inflict 3 Burn on all enemies.
+
+### 332 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800205] — nazwa] 나오면 안됨
+EN: NOT FOR DISPLAY
+
+### 333 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800205] — opis] 체력이 최대 체력의 60% 이하가 되면 선택지 2 등장
+EN: When HP is brought to 60%, choice prompt 2 is initiated.
+
+### 334 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [800206] — nazwa] 별의 축제 개막
+REPEAT: 266 — inherit
+
+### 335 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800206] — opis] 본체의 체력이 25% 이하가 되면 페이즈가 변경된다.
+EN: When HP is brought to 25%, the battle proceeds to the next phase.
+
+### 336 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [800207] — nazwa] 나오면 안됨
+REPEAT: 332 — inherit
+
+### 337 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800207] — opis] 4페이즈 2번째 턴에 선택지 3 등장
+EN: At the start of turn 2 in phase 4, choice prompt 3 is initiated.
+
+### 338 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [800301] — nazwa] 우상 숭배
+REPEAT: 268 — inherit
+
+### 339 (L190)  [] — 
+TOK: \n
+KR: Pasywka wroga [800301] — opis] 체력이 0이 되면 사망하지 않고, 행동, 타겟팅 불가 상태가 된다.\n종말 달력 제압 시 함께 제압된다.
+EN: Does not die at 0 HP; instead, remains on the stage as an immobile and untargetable unit.\nSuppressed when the Doomsday Calendar is suppressed.
+
+### 340 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800801] — nazwa] 조각난 황금
+EN: Cracked Gold
+
+### 341 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800801] — opis] 매 턴마다 황금빛 수치에 비례하여 체력을 회복한다.
+EN: Heals HP every turn based on the amount of Golden Sheen.
+
+### 342 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800902] — nazwa] 파괴된 중추
+EN: Frail Core
+
+### 343 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [800902] — opis] 머리가 파괴 당하면 다음 턴 동안 모든 부위가 행동하지 않는다. 파괴된 머리는 1턴 후 재생된다.
+EN: When the Head is destroyed, all parts are inflicted with Immobilize next turn.\nThe Head regenerates after 1 turn.
+
+### 344 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800903] — nazwa] 허물어진 사과
+EN: Rotting Apple
+
+### 345 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [800903] — opis] 몸통이 파괴 당하면 다음 턴 부터 모든 부위가 공격 위력 감소 2를 얻는다.
+EN: After the body is destroyed, all parts are inflicted with 2 Attack Power Down every turn.
+
+### 346 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [800904] — nazwa] 나오면 안되는 텍스트
+EN: NOT FOR DISPLAY
+
+### 347 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [800904] — opis] 나오면 안되는 텍스트
+REPEAT: 346 — inherit
+
+### 348 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [801001] — nazwa] 강화 공장 가동
+EN: Upgrade Factory at Work
+
+### 349 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [801001] — opis] 사망 시 다음 턴에 시술을 1 얻고, 부활한다.
+EN: When this unit is defeated, it revives the next turn and gains 1 Surgery.
+
+### 350 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [801002] — nazwa] 당신은 강해져야합니다
+EN: You Must Become Strong
+
+### 351 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [801002] — opis] 매 턴마다 보호 1을 얻는다.
+EN: At the start of the turn, gain 1 Protection.
+
+### 352 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [801201] — nazwa] 당신은 강해져야합니다
+REPEAT: 350 — inherit
+
+### 353 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [801201] — opis] 매 턴마다 보호 2를 얻는다.
+EN: At the start of the turn, gain 2 Protection.
+
+### 354 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [801301] — nazwa] 흔들리는 욕망
+EN: Wavering Desires
+
+### 355 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [801301] — opis] 탐욕 상태가 되면 취약 2, 속박 10를 얻고, 스킬 슬롯이 1 증가하며, 스킬 패턴이 변경됨.
+EN: While Desirous, the unit gains 2 Fragile and 10 Bind, gains 1 skill slot, and changes behavior.
+
+### 356 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [801302] — nazwa] 옭아매는 욕망
+EN: Ensnaring Desires
+
+### 357 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [801302] — opis] 체력이 30% 감소할 때마다 탐욕 상태가 됨.
+EN: The unit becomes Desirous every time it loses 30% of its HP.
+
+### 358 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [801904] — nazwa] 살갗을 에는 두려움
+EN: Shuddering Terror
+
+### 359 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [801904] — opis] 이번 웨이브동안 사망한 아군 수만큼 보호를 얻는다. (최대 5)
+EN: Gain 1 Protection for every ally that died this wave. (Max 5.)
+
+### 360 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802401] — nazwa] 맥동하는 팔
+EN: Pulsating Arms
+
+### 361 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [802401] — opis] 턴 시작 시 본능만큼 공격 위력 증가와 보호를 얻는다.
+EN: At the start of the turn, gain Attack Power Up and Protection by the Count of Instincts.
+
+### 362 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802402] — nazwa] 훼손당한 팔
+EN: Damaged Arms
+
+### 363 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [802402] — opis] 공격으로 피해를 1 이상 받으면 본능을 1 잃는다.
+EN: Lose 1 Instincts whenever the unit takes damage from attacks.
+
+### 364 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802403] — nazwa] 껍데기 회복
+EN: Regenerating Shell
+
+### 365 (L160)  [] — 
+TOK: 
+KR: Pasywka wroga [802403] — opis] 한 턴동안 공격으로 피해를 받지 않으면, 턴 종료 시 체력을 5% 회복하고, 본능을 1 얻는다.
+EN: At the end of the turn, if the unit didn’t take any damage from attacks during the turn, heal 5% HP and gain 1 Instincts.
+
+### 366 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802404] — nazwa] 광기에 찬 눈동자
+EN: Frantic Eyes
+
+### 367 (L160)  [] — 
+TOK: 
+KR: Pasywka wroga [802404] — opis] 본능이 4 이상이면 공격적으로, 4 미만이면 방어적으로 스킬 패턴이 변경된다.
+EN: Behavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 3 or less.
+
+### 368 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802501] — nazwa] 팽창된 공격성
+EN: Amplified Aggression
+
+### 369 (L160)  [] — 
+TOK: 
+KR: Pasywka wroga [802501] — opis] 피격 시 본능 1을 얻는다. 턴 종료 시 본능이 4 이상이면 광란 상태가 된다.
+EN: When hit by an attack, gain 1 Instincts.\nIf the unit has +4 Instincts at the end of the turn, enter a state of Frenzy.
+
+### 370 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802502] — nazwa] 광란
+EN: Frenzy
+
+### 371 (L180)  [] — 
+TOK: 
+KR: Pasywka wroga [802502] — opis] 광란 상태가 되면 공격 위력 증가, 취약 3을 얻고, 스킬 패턴이 변경되며, 피격 시 본능을 얻지 않는다.
+EN: In the Frenzy state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instincts from being attacked.
+
+### 372 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802503] — nazwa] 일렁이는 분노
+EN: Shimmering Rage
+
+### 373 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [802503] — opis] 체력이 50% 미만이면 매 턴마다 광란 상태가 된다.
+EN: At less than 50% HP, enters Frenzy every turn.
+
+### 374 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [802701] — nazwa] 팽창된 공격성
+REPEAT: 368 — inherit
+
+### 375 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [802701] — opis] 피격 시 본능 1을 얻는다. 턴 종료 시 본능이 4 이상이면 광란 상태가 된다.
+REPEAT: 369 — inherit
+
+### 376 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [802702] — nazwa] 광란
+REPEAT: 370 — inherit
+
+### 377 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [802702] — opis] 광란 상태가 되면 공격 위력 증가, 취약 3을 얻고, 스킬 패턴이 변경되며, 피격 시 본능을 얻지 않는다.
+REPEAT: 371 — inherit
+
+### 378 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802801] — nazwa] 썩어가는 피부
+EN: Rotting Skin
+
+### 379 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [802801] — opis] 턴 시작 시 체력이 50% 미만이면, 피격 시 공격자에게 독 3을 부여한다.
+EN: At the start of the turn, if at less than 50% HP, inflict 3 Poison when attacked.
+
+### 380 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802802] — nazwa] 허물 벗기
+EN: Molt
+
+### 381 (L180)  [] — 
+TOK: 
+KR: Pasywka wroga [802802] — opis] 파괴 후 1턴 뒤 다른 팔이 파괴되지 않았으면, 해당 팔과 동일한 체력으로 팔이 재생된다.
+EN: After this part is broken, if the other arm is not broken at the end of the following turn, this part regenerates with the same HP as it.
+
+### 382 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802803] — nazwa] 고통의 몸부림
+EN: Pained Writhing
+
+### 383 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [802803] — opis] 양 팔이 파괴되면 매 턴마다 취약 5를 얻고, 모든 적에게 독 10을 부여한다.
+EN: When both arms are broken, the unit gains 5 Fragile and inflicts 10 Poison on all enemies every turn.
+
+### 384 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802804] — nazwa] 꿈틀거리는 본능
+EN: Wriggling Instincts
+
+### 385 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [802804] — opis] 본능 수치가 4 이상이면 공격적으로, 0이면 방어적으로 스킬 패턴이 변경된다.
+EN: Behavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 0.
+
+### 386 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803302] — nazwa] 잘려나간 팔
+EN: Severed Arm
+
+### 387 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803302] — opis] 팔이 파괴되면 매 턴 시작 시 취약 5를 얻는다.
+EN: When the arm is broken, the unit gains 5 Fragile every turn.
+
+### 388 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802901] — nazwa] 휘파람의 공포
+EN: Fearsome Whistles
+
+### 389 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [802901] — opis] 어느 표지가 3 미만이면 싱클레어가 매 턴마다 속박 1, 마비 1을 얻는다.
+EN: If you have collected less than 3 of A Sign, Sinclair is inflicted with 1 Bind and Paralyze every turn.
+
+### 390 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802902] — nazwa] 공포를 이기는 용기
+EN: Courage to Triumph Fear
+
+### 391 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [802902] — opis] 어느 표지가 3 이상이면 싱클레어가 매 턴마다 공격 위력 증가 1, 보호 2를 얻는다.
+EN: If you have collected 3 or more of A Sign, Sinclair gains 1 Attack Power Up and 2 Protection every turn.
+
+### 392 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802903] — nazwa] 고통을 받아들여야 해!
+EN: You Must Accept the Pain!
+
+### 393 (L270)  [] — 
+TOK: 
+KR: Pasywka wroga [802903] — opis] 턴 시작 시 파괴되지 않은 부위가 출혈 또는 화상 상태면, 최대 체력의 15%만큼 체력을 회복하고, 공격 위력 증가 3을 얻는다. 어느 표지의 개수에 비례하여 회복량과 위력 증가 값이 최대 0까지 감소한다.
+EN: At the start of the turn, if the unbroken part has Bleed or Burn, heal 15% of Max HP and gain 3 Attack Power Up.\nThe healing and status effects gained are decreased based on the number of A Sign, down to 0.
+
+### 394 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [802904] — nazwa] 처단의 환희
+EN: Bliss of Execution
+
+### 395 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [802904] — opis] 적을 처치하면 다음 턴 시작 시 신속 2, 피해량 증가 5를 얻는다.
+EN: After defeating an enemy, gain 2 Haste and 5 Damage Up next turn.
+
+### 396 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803001] — nazwa] 넘치는 희열
+EN: Overflowing Ecstasy
+
+### 397 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803001] — opis] 3턴부터 2턴마다 희열 상태가 된다.
+EN: Starting with Turn 3, becomes Ecstatic every 2 turns.
+
+### 398 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803002] — nazwa] 피어난 순수
+EN: Blooming Purity
+
+### 399 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803002] — opis] 크로머의 본체 체력이 50% 미만이 되면 남은 턴동안 순수 상태가 된다.
+EN: If Kromer’s main body is brought to 50% HP, she gains Purity for the remaining turns.
+
+### 400 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803003] — nazwa] 무결한 육체
+EN: Flawless Flesh
+
+### 401 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803003] — opis] 팔 파괴 시 해당 부위가 공격 위력 감소 2를 얻는다.
+EN: When the arm is broken, the part is inflicted with 2 Attack Power Down.
+
+### 402 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803101] — nazwa] 피주머니
+REPEAT: 292 — inherit
+
+### 403 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [803101] — opis] 분노 내성이 상승한다.\n우울 내성이 하락한다.
+EN: Wrath Resistance increases.\nGloom Resistance decreases.
+
+### 404 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803102] — nazwa] 물주머니
+REPEAT: 294 — inherit
+
+### 405 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803102] — opis] 물주머니가 지속될수록 본체 체력을 (수치 * 20) 만큼 회복한다.
+EN: While the Fluid Sac status is active, the Core heals (20 * Fluid Sac Count) HP.
+
+### 406 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803103] — nazwa] 끓어오르는 피
+EN: Boiling Blood
+
+### 407 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803103] — opis] 피주머니 상태에서, 몸통 부위 파괴당하면 모든 적에게 20의 고정 피해를 준다.
+EN: If the body is broken while Blood Sac is active, all enemies take 20 fixed damage.
+
+### 408 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803201] — nazwa] 피뢰침
+EN: Lightning Rod
+
+### 409 (L360)  [] — 
+TOK: \n
+KR: Pasywka wroga [803201] — opis] 전봇대 피격 시, 이번 턴에 감전 2 부여.\n가지고 있는 번개가 5 이상이면, 다음 턴부터 부위마다 피격 시 이번 턴에 감전 3 부여.\n(번개가 0이 되기전까지 지속)\n나태 속성 공격에 피격 시 상대에게 원래 감전 부여가 절반으로 감소. (올림)
+EN: When the Telephone Pole is hit, inflict 2 Shock on the attacker this turn.\nAt 5+ Lightning, all Parts will inflict 3 Shock on the attacker, starting next turn.\n(Lasts until Lightning reaches 0.)\nWhen hit by a Sloth attack, the amount of Shock inflicted is halved. (Rounded up.)
+
+### 410 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803202] — nazwa] 번개
+EN: Lightning
+
+### 411 (L180)  [] — 
+TOK: 
+KR: Pasywka wroga [803202] — opis] 전봇대가 부숴지지 않았을 때, 공격 종료 시 번개 1 얻는다. 전봇대 피격 시마다, 번개 1 소모.
+EN: While the telephone pole isn’t broken, gain 1 Lightning after an attack.\nWhenever the telephone pole is hit by an attack, lose 1 Lightning.
+
+### 412 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [803203] — nazwa] 부서지는 파편
+EN: Breaking Pieces
+
+### 413 (L180)  [] — 
+TOK: 
+KR: Pasywka wroga [803203] — opis] 전봇대가 흐트러지거나 부위 파괴되었을 때, 번개가 0이 됨. 해당 턴동안 골목파수견의 공격 스킬이 전부 취소된다.
+EN: When the telephone pole is Staggered or Broken, lose all Lightning.\nAll attacks of Alleyway Watchdog will then be canceled for the turn.
+
+### 414 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803401] — nazwa] 걸어다니는 봉이닭
+REPEAT: 288 — inherit
+
+### 415 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803401] — opis] 턴 종료 시, 무작위 적 1명에게 3만큼 정신력 피해.
+EN: At the end of the turn, deal 3 SP damage to a random enemy.
+
+### 416 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803701] — nazwa] 힘이 쑥쑥 봉이닭
+REPEAT: 290 — inherit
+
+### 417 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803701] — opis] 턴 종료 시, 다음 턴에 자신 포함 모든 아군에게 피해량 증가 2, 보호 2 부여.
+EN: At the end of the turn, apply 2 Damage Up and 2 Protection to all allies next turn.
+
+### 418 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803901] — nazwa] 행복해진 닭
+REPEAT: 280 — inherit
+
+### 419 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803901] — opis] 턴 종료 시, 전투에 참여중인 (생닭 수 * 5)만큼 체력 회복.
+EN: At the end of the turn, heal 5 HP for each Raw Chicken in battle.
+
+### 420 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803902] — nazwa] 우울해진 닭
+REPEAT: 282 — inherit
+
+### 421 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803902] — opis] 턴 종료 시, 전투에 참여중인 (생닭 수 * 5)만큼 모든 적에게 정신력 피해.
+EN: At the end of the turn, deal 5 SP damage to all enemies for each Raw Chicken in battle.
+
+### 422 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803903] — nazwa] 취약해진 닭
+REPEAT: 284 — inherit
+
+### 423 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [803903] — opis] 부위 파괴 시, 매 턴마다 부위 파괴 턴까지 죽은 생닭 수만큼 취약을 얻음.
+EN: When a Part breaks, gain 1 Fragile every turn for each Raw Chicken that died before the Part was broken.
+
+### 424 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [803904] — nazwa] 강해진 닭
+REPEAT: 286 — inherit
+
+### 425 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [803904] — opis] 부위 파괴 상태가 아니라면, 매 턴마다 살아있는 닭만큼 피해량 증가를 얻음.
+EN: If the Part isn’t broken, gain 1 Damage Up for each living Raw Chicken.
+
+### 426 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804101] — nazwa] 팽창하는 슬픔
+EN: Expanding Sorrow
+
+### 427 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [804101] — opis] 턴 종료 시 해소되지 않은 슬픔 이 3 이상 있으면, 다음 턴에 머리가 생성되고 스킬 패턴이 변경된다.
+EN: At the end of the turn, if the unit has 3+ Unresolved Sorrow, generates a head next turn and changes behavior.
+
+### 428 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804102] — nazwa] 헤어나올 수 없는 슬픔
+EN: Inconsolable Sorrow
+
+### 429 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [804102] — opis] 턴 종료 시 해소되지 않은 슬픔 이 3 이상 있을 때, 머리가 파괴되어 있는 경우, 다음 턴에 흐트러짐 상태가 된다.
+EN: At the end of the turn, if the unit has 3+ Unresolved Sorrow and the head is broken, becomes staggered next turn.
+
+### 430 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804103] — nazwa] 무력화
+EN: Taken by the Horns
+
+### 431 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804103] — opis] 머리가 흐트러짐 상태가 되면, 다음 턴에 모든 부위가 흐트러짐 상태가 된다.
+EN: When the head is staggered, all parts become staggered next turn.
+
+### 432 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804104] — nazwa] 완전 무력화
+EN: Downed by the Horns
+
+### 433 (L190)  [] — 
+TOK: 
+KR: Pasywka wroga [804104] — opis] 머리가 파괴되면 다음 턴에 모든 부위가 흐트러짐 상태가 된다. 이후 이번 전투 동안 모든 부위가 공격 위력 감소 3을 얻는다.
+EN: When the head is broken, all parts become staggered next turn. Afterwards, all parts have 3 Attack Power Down for the duration of the battle.
+
+### 434 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804501] — nazwa] 살아있는 신경
+EN: Living Nerves
+
+### 435 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [804501] — opis] 죽음을 맞이하면 해당 턴 스킬 전부 취소.\n보유한 자가 충전 2배로 늘어남.
+EN: Upon death, all Skills are cancelled for the turn.\nDoubles currently owned Self-charge.
+
+### 436 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804502] — nazwa] 움직이는 신경
+EN: Motioning Nerves
+
+### 437 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [804502] — opis] 죽음을 맞이한 후 공격 스킬당 자가 충전 1 소모.\n가지고 있는 자가 충전을 전부 소모하기 전까지 적을 공격함.
+EN: After dying, attack skills spend 1 Self-charge.\nAttacks enemies until Self-charge runs out.
+
+### 438 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804503] — nazwa] 끈질긴 생명력
+EN: Undying Persistence
+
+### 439 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804503] — opis] 5턴마다 머리 부위 체력만큼 보호막을 얻음.
+EN: Every 5 turns, gains a Shield equal to the head's HP.
+
+### 440 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804504] — nazwa] 끊겨버린 생명력
+EN: Terminated Persistence
+
+### 441 (L140)  [] — 
+TOK: \n
+KR: Pasywka wroga [804504] — opis] 똬리틀기 사용 후 보호막을 전부 소모할 시 자가 충전 소모.\n모든 부위가 다음 턴에 흐트러짐 상태가 됨.
+EN: After using 'Coil Up', if the Shield is exhausted, spend Self-charge.\nAll parts become staggered next turn.
+
+### 442 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804601] — nazwa] 부서진 우산
+EN: Broken Umbrella
+
+### 443 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804601] — opis] 등 부위 파괴 시, 매 턴마다 취약 3 얻음. 파열 2 추가 부여
+EN: After the back is broken, gain 3 Fragile every turn. Inflict +2 Rupture.
+
+### 444 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804602] — nazwa] 다해진 우산
+EN: Ragged Umbrella
+
+### 445 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804602] — opis] 머리 우산 부위 파괴 시, 매 턴마다 공격 레벨 감소 5 얻음, 침잠 2 추가 부여
+EN: After the head umbrella is broken, gain 5 Offense Level Down every turn. Inflict +2 Sinking.
+
+### 446 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804603] — nazwa] 마지막 발버둥
+EN: Last Struggle
+
+### 447 (L210)  [] — 
+TOK: \n
+KR: Pasywka wroga [804603] — opis] 전체 체력의 15%만큼 남았다면, 매 턴마다 속도 1로 고정. 공격 위력 감소 1 얻음\n새로 소환된 낡은 우산 체력 30% 증가. 매 턴마다 무언가를 찾는 울음소리 사용
+EN: At 15% HP, the unit's Speed is fixed at 1, and gains 1 Attack Power Down.\nNewly spawned Old Umbrellas have 30% more HP. Uses 'Cries Seeking Something' every turn.
+
+### 448 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804701] — nazwa] 옮겨붙는 불씨
+EN: Spreading Ember
+
+### 449 (L160)  [] — 
+TOK: 
+KR: Pasywka wroga [804701] — opis] 턴 종료 시 자신에게 화상이 있다면, 얽혀온 저주 부적을 가지고 있는 모든 대상에게 가지고 있는 화상만큼 다음 턴에 화상 부여
+EN: At the end of the turn, if this unit has Burn, inflict the same amount to all units with Entangled Curse Talisman next turn
+
+### 450 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804702] — nazwa] 부서진 수단
+EN: Broken Means
+
+### 451 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804702] — opis] 팔 부위 파괴 시, 팔이 가하는 피해량 - 20%
+EN: When the arm is broken, it deals -20% damage
+
+### 452 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804801] — nazwa] 취기가 딸꾹!
+EN: Booze Makes You Hicc!
+
+### 453 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [804801] — opis] 취기 5이상인 적에게 "이건 내가 먹어야지!"를 적중시켰다면, 흐트러짐 상태가 됨.
+EN: After using 'I'll Have This!' on enemies with 5+ Tipsy and successfully landing the attack, become staggered.
+
+### 454 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804802] — nazwa] 고양되는 내음이죠?
+EN: Stimulating Smell, Isn't It?
+
+### 455 (L150)  [] — 
+TOK: \n
+KR: Pasywka wroga [804802] — opis] 내부에서 나는 알 수 없는 내음으로 고양감이 생김.\n웨이브 시작 시 무작위 수감자 한 명에게 고양 5 부여.
+EN: A mysterious smell from within boosts the spirit.\nA random Sinner gains 5 Morale Boost at the start of the wave.
+
+### 456 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805201] — nazwa] 버려진 낡은 우산
+EN: Old and Abandoned
+
+### 457 (L210)  [] — 
+TOK: \n
+KR: Pasywka wroga [805201] — opis] 자신이 처치되면 다음 턴에 처치한 수감자 신속 2 얻음.\n떠돌이 여우의 모든 부위에 속박 2 부여. 우산 파편 1 부여.
+EN: When this unit is defeated, the Sinner that defeated it gains 2 Haste next turn.\nAll parts of Drifting Fox are inflicted with 2 Bind and 1 Umbrella Splinters.
+
+### 458 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804301] — nazwa] 위태로운 정신
+EN: Perilous Mind
+
+### 459 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804301] — opis] 매 턴 종료 시 정신력이 10 감소
+EN: At the end of each turn, lose 10 SP.
+
+### 460 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804302] — nazwa] 위태로운 마음
+EN: Perilous Heart
+
+### 461 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804302] — opis] 사기 저하 상태면 공격 위력 증가 2 , 속박 3을 얻음
+EN: While in low morale, gain 2 Attack Power Up and 3 Bind.
+
+### 462 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804303] — nazwa] 흐트러진 마음
+EN: Faltering Heart
+
+### 463 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804303] — opis] 패닉 상태면 흐트러짐 상태가 됨
+EN: In panic, become staggered.
+
+### 464 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804304] — nazwa] 결의
+EN: Determination
+
+### 465 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804304] — opis] 패닉 상태에서 돌아온 경우, 정신력을 최대로 회복하고, 신속 2, 공격 위력 증가 2를 얻음
+EN: When recovering from panic, fully heal SP, and gain 2 Haste and 2 Attack Power Up.
+
+### 466 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804305] — nazwa] 로보토미 E.G.O
+EN: Lobotomy E.G.O
+
+### 467 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804305] — opis] 보호막 체력 1200을 가지고 전투 시작
+EN: Starts the battle with 1200 Shield HP
+
+### 468 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805301] — nazwa] 마음의 벽
+EN: Walled Heart
+
+### 469 (L230)  [] — 
+TOK: 
+KR: Pasywka wroga [805301] — opis] 이 유닛이 파괴될 때마다 동백의 침잠 횟수가 5 증가하고, 모든 수감자의 침잠 2 감소, 모든 수감자가 다음 턴에 보호 1, 공격 위력 증가 2를 얻음
+EN: Whenever this unit is broken, Dongbaek is inflicted with +5 Sinking Count, and all Sinners lose 2 Sinking Count; all Sinners gain 1 Protection and 2 Attack Power Up next turn.
+
+### 470 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804401] — nazwa] 만발
+EN: Into Full Bloom
+
+### 471 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804401] — opis] 5턴 시작 시 성장 3을 보유한 곧 피어날 꽃 4개 생성
+EN: At the start of Turn 5, spawn 4 Soon-to-bloom Flowers with 3 Growing
+
+### 472 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804402] — nazwa] 흐드러지는 마음
+EN: Flowering Mind
+
+### 473 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [804402] — opis] 체력이 50% 이하가 되면 2페이즈로 넘어감. 2페이즈 전까지 체력이 50% 미만으로 감소하지 않음
+EN: When HP drops to 50%, proceeds to the next phase. HP does not go below 50% until the phase changes.
+
+### 474 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804403] — nazwa] 대결
+EN: Dueling
+
+### 475 (L390)  [] — 
+TOK: \n
+KR: Pasywka wroga [804403] — opis] 체력이 50% 이하가 되면 특정 1명을 지정하는 특수 스킬 사용\n해당 턴 부터 다음 2턴 동안 흐트러짐, 패닉 상태가 되지 않음.\n대결 효과를 보유한 캐릭터가 이상이면, 동백이 공격 위력 증가 1을 얻음\n이상이 대결에서 승리한 경우, 다음 턴에 모든 아군이 피해량 증가 3을 얻음.\n동백이 대결에서 승리한 경우, 정신력을 최대로 회복함.
+EN: When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Dueling', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gain 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP.
+
+### 476 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804404] — nazwa] 피어남의 대가
+EN: Cost of Blooming
+
+### 477 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804404] — opis] 찬란한 봄바람 스킬의 합 패배 시 정신력 -10
+EN: If 'Magnificent Spring Breeze' loses in a clash, lose 10 SP
+
+### 478 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805401] — nazwa] 자라나는 꽃
+EN: Growing Flower
+
+### 479 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805401] — opis] 성장 1을 보유하고 생성됨
+EN: Spawns with 1 Growing
+
+### 480 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804903] — nazwa] 자기 파괴
+EN: Self Destruction
+
+### 481 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804903] — opis] 모든 스킬을 피아식별 없이 사용. 스킬 사용 시마다 최대 체력의 2%만큼 체력을 잃음
+EN: All skills target indiscriminately. With each skill used, this unit loses 2% of Max HP.
+
+### 482 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [804904] — nazwa] 자기 구제
+EN: Self Salvation
+
+### 483 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [804904] — opis] 체력 회복 효과가 2배로 적용된다.
+EN: HP healing effects heal twice as much.
+
+### 484 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805601] — nazwa] 빛나는 허영
+EN: Radiant Vanity
+
+### 485 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [805601] — opis] 이 유닛이 살아있으면 턴 시작 시 동랑에게 보호 1, 공격 위력 증가 1을 부여함
+EN: While this unit is present, Dongrang gains 1 Protection and 1 Attack Power Up at the start of each turn.
+
+### 486 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805602] — nazwa] 간절한 성과
+EN: Earnest Accomplishment
+
+### 487 (L370)  [] — 
+TOK: \n
+KR: Pasywka wroga [805602] — opis] 이 유닛에 간절한 성과 가 있을 때 아래의 효과가 적용된다.\n- 동랑의 공격으로만 처치 가능.\n- 수감자가 이 유닛의 체력을 1로 만들면, 수감자가 체력을 회복하고 이 유닛이 공허한 영예 를 얻음\n- 동랑이 이 유닛을 처치하면, 동랑이 체력을 회복한 뒤 다음 턴에 강화됨
+EN: While this unit has Earnest Accomplishment, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If a Sinner drops this unit's HP to 1, the Sinner heals HP, and this unit gains Empty Honor.\n- If Dongrang defeats this unit, Dongrang heals HP and powers up next turn.
+
+### 488 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805603] — nazwa] 공허한 영예
+EN: Empty Honor
+
+### 489 (L270)  [] — 
+TOK: \n
+KR: Pasywka wroga [805603] — opis] 이 유닛에 공허한 영예 가 있을 때 아래의 효과가 적용된다.\n- 동랑의 공격으로만 처치 가능.\n- 동랑이 처치하면, 동랑이 체력을 잃은 뒤 공허함 1을 얻고 다음 턴에 약화됨
+EN: While this unit has Empty Honor, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If Dongrang defeats this unit, Dongrang loses HP, gains 1 Emptiness, and is weakened next turn
+
+### 490 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805701] — nazwa] 맺힌 결실
+EN: Borne Fruition
+
+### 491 (L140)  [] — 
+TOK: 
+KR: Pasywka wroga [805701] — opis] 이 유닛을 처치한 대상은 체력을 최대 체력의 5%만큼 회복하고, 다음 턴에 신속 1, 공격 위력 증가 1을 얻음
+EN: The unit that defeated this unit heals by 5% of Max HP, and gains 1 Haste and 1 Attack Power Up next turn
+
+### 492 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805001] — nazwa] 이상을 항하여
+EN: Toward the Ideal
+
+### 493 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [805001] — opis] 현재 체력이 최대 체력의 85%, 50%가 될 때마다 욕망의 나무 2개를 생성하고, 스킬 패턴이 변경됨
+EN: When the HP is brought to 85% and 50% of Max HP, respectively, spawns 2 Trees of Desires and changes behavior.
+
+### 494 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [806001] — nazwa] 빛나는 욕망
+EN: Radiant Desire
+
+### 495 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [806001] — opis] 이 유닛이 살아있으면 동랑이 턴 시작 시 피해량 증가, 보호 1을 얻음
+EN: While this unit is present, Dongrang gains 1 Damage Up and 1 Protection at the start of each turn.
+
+### 496 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805004] — nazwa] 등돌림의 대가
+EN: Price of Neglect
+
+### 497 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805004] — opis] 수확의 시간 스킬의 합 패배 시 정신력 -5
+EN: If 'Time of Harvest' loses in a clash, lose 5 SP
+
+### 498 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805005] — nazwa] 비릿한 웃음
+EN: Bitter Smile
+
+### 499 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805005] — opis] 패닉 상태가 되면, 다음 턴 시작 시 보호 2를 얻고 정신력이 0으로 돌아옴
+EN: When in panic, gain 2 Protection and reset SP to 0 at the start of the next turn.
+
+### 500 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805006] — nazwa] 비효율적인 판단
+EN: Inefficient Judgement
+
+### 501 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805006] — opis] 흐트러짐 상태에서 돌아올 때 공격 위력 증가 1을 얻음
+EN: When recovering from stagger, gain 1 Attack Power Up.
+
+### 502 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805007] — nazwa] 체력 소모
+EN: Exhausting Endeavor
+
+### 503 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805007] — opis] 양분이 되어주세요 스킬을 3번 사용하면 다음 턴에 흐트러짐 상태가 됨
+EN: After using the skill Please Be My Nutrient 3 times, become staggered next turn.
+
+### 504 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [805002] — nazwa] 이상을 항하여
+REPEAT: 492 — inherit
+
+### 505 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805002] — opis] 현재 체력이 최대 체력의 85%가 되면 욕망의 나무 2개를 생성하고, 스킬 패턴이 변경됨
+EN: When the HP is brought to 85% of Max HP, spawns 2 Trees of Desires and changes behavior.
+
+### 506 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [805003] — nazwa] 이상을 항하여
+REPEAT: 492 — inherit
+
+### 507 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805003] — opis] 현재 체력이 최대 체력의 50%가 되면 욕망의 나무 2개를 생성하고, 스킬 패턴이 변경됨
+EN: When the HP is brought to 50% of Max HP, spawns 2 Trees of Desires and changes behavior.
+
+### 508 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805801] — nazwa] 미끼 요정
+EN: Fairy Lure
+
+### 509 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805801] — opis] 요정 공격 시, 해당 부위 체력만 감소함.
+EN: When the fairy is attacked, only that part loses HP.
+
+### 510 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805802] — nazwa] 드러난 밑동
+EN: Exposed Base
+
+### 511 (L180)  [] — 
+TOK: \n
+KR: Pasywka wroga [805802] — opis] 요정 부위 파괴 시, 다음 턴에 뿌리 공격 가능 상태가 됨.\n모든 부위에 다음 턴에 공격 위력 증가 1, 속박 2, 취약 3을 얻음.
+EN: When the fairy part is broken, the roots can be attacked next turn.\nAll parts gain 1 Attack Power Up, 2 Bind, and 3 Fragile next turn.
+
+### 512 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805803] — nazwa] 여분의 미끼
+EN: Spare Lure
+
+### 513 (L190)  [] — 
+TOK: \n
+KR: Pasywka wroga [805803] — opis] 뿌리가 드러난 다음 턴에 요정 다시 생성. (최대 1번)\n뿌리가 3번 드러나거나 파괴된다면 광폭화 상태가 됨.
+EN: The fairy regenerates the turn after the roots are exposed. (One time only)\nAfter the roots are exposed 3 times or destroyed, the unit is enraged.
+
+### 514 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805804] — nazwa] 발견되는 취약점
+EN: Discovered Weakness
+
+### 515 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805804] — opis] 요정이 진동을 가지고 있다면, 위력만큼 턴 종료 시 요정이 피해를 입음 (최대 20)
+EN: If the fairy has Tremor, it takes damage by its Potency at the end of the turn. (Max 20)
+
+### 516 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805805] — nazwa] 이어지는 취약점
+EN: Connected Weakness
+
+### 517 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805805] — opis] 부위에 화상을 가지고 있다면 위력만큼 받는 피해량 증가 (최대 +15%)
+EN: If the part has Burn, it takes more damage based on its Potency. (Max +15%)
+
+### 518 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805901] — nazwa] 만들어진 휴식
+EN: Manufactured Respite
+
+### 519 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805901] — opis] 거대 클로버가 살아있다면, 턴 종료 시 자신의 체력 30 회복
+EN: If the giant clover is present, this unit heals 30 HP at the end of the turn.
+
+### 520 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805902] — nazwa] 잃어버린 수단
+EN: Lost Means
+
+### 521 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805902] — opis] 팔 부위 파괴 시, 매 턴마다 공격 위력 감소 2 얻음
+EN: When the arm is broken, the unit gains 2 Attack Power Down every turn.
+
+### 522 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [805903] — nazwa] 훼손된 그늘
+EN: Damaged Shade
+
+### 523 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [805903] — opis] 머리 부위 파괴 시, 매 턴마다 방어 레벨 감소 4, 취약 1 얻음
+EN: When the head is broken, the unit gains 4 Defense Level Down and 1 Fragile every turn.
+
+### 524 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [806201] — nazwa] 오염시키는 잎사귀
+EN: Contaminating Leaf
+
+### 525 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [806201] — opis] 매 턴 시작시 키다리 요정에게 회복량 증가 1, 공격 위력 1 증가를 부여함.
+EN: At the start of the turn, give 1 HP Healing Boost and 1 Attack Power Up to Fairy-Long-Legs.
+
+### 526 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [80620101] — nazwa] 오염시키는 잎사귀
+REPEAT: 524 — inherit
+
+### 527 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [80620101] — opis] 매 턴 시작시 키다리 요정에게 회복량 증가 1, 공격 위력 1 증가를 부여함.
+REPEAT: 525 — inherit
+
+### 528 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826301] — nazwa] 잠깐의 배부름
+EN: Momentary Satiation
+
+### 529 (L180)  [] — 
+TOK: 
+KR: Pasywka wroga [826301] — opis] 턴 종료 시 [PreparedMeat]가 부여된 아군의 체력이 1이면, 해당 캐릭터를 처치하고 다음 턴에 모든 부위가 [Vulnerable] 5, [Reduction], [Disarming] 5를 얻음.
+EN: Turn End: If the ally with [PreparedMeat] is at 1 HP, kill the ally; then, all Parts gain 5 [Vulnerable], [Reduction], and [Disarming].
+
+### 530 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826302] — nazwa] 광포한 굶주림
+EN: Ravening Hunger
+
+### 531 (L250)  [] — 
+TOK: \n
+KR: Pasywka wroga [826302] — opis] 턴 시작 시 체력이 25% 이하일 때 아군이 살아있으면, 모든 아군 처치.\n최대 체력의 (처치한 아군 수 x 5)% 만큼 본체의 체력 회복.\n아군이 없는 상태이면, 턴 종료 시 다음 턴에 [Enhancement] 20 얻음.
+EN: Turn Start: If there are surviving allies at 25%- HP, kill all allies.\nHeal (# of allies killed x 5)% of max Core HP.\nTurn End: If there are no surviving allies, gain 20 [Enhancement] next turn.
+
+### 532 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826303] — nazwa] 찢겨진 팔
+EN: Torn Arm
+
+### 533 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [826303] — opis] 팔 부위가 파괴되면, 매 턴 시작 시 몸통 부위가 출혈 5 얻음.
+EN: When an Arm is broken, the Body gains 5 Bleed at every Turn Start.
+
+### 534 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826304] — nazwa] 식사 접대
+EN: Invitation to a Meal
+
+### 535 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [826304] — opis] 턴 종료 시 모든 수감자의 정신력 10 회복, 모든 속성의 EGO 자원 +1
+EN: Turn End: All Sinners heal 10 SP, and gain +1 E.G.O resource for all Affinities
+
+### 536 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826501] — nazwa] 텅 빈 배
+EN: Empty Belly
+
+### 537 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [826501] — opis] 턴 종료 시 [PreparedMeat]가 부여된 아군이 흐트러짐 상태면, 해당 캐릭터를 처치함.
+EN: Turn End: If the ally with [PreparedMeat] is Staggered, kill the ally.
+
+### 538 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826502] — nazwa] 채워지지 않는 허기
+EN: Bottomless Hunger
+
+### 539 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [826502] — opis] 아군 처치 시 본체의 체력 20 회복, 다음 턴에 [Vulnerable] 1 얻음.
+EN: After defeating an ally, heal 20 Core HP; then, gain 1 [Vulnerable] next turn.
+
+### 540 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826503] — nazwa] 굶주림
+EN: Hunger
+
+### 541 (L260)  [] — 
+TOK: \n
+KR: Pasywka wroga [826503] — opis] 턴 종료 시 준비된 고기가 부여된 아군을 처치하지 못했으면 [Hunger] 1 증가. 체력이 75% 미만이면, 2 증가, 체력이 50% 미만이면, 3 증가.\n턴 시작 시 [PreparedMeat]가 부여된 아군을 처치했으면, [Hunger] 1 감소.
+EN: Turn End: If this unit failed to defeat an ally with Prepared Meat, gain 1 [Hunger]. At 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: If this unit defeated an ally with Prepared Meat, lose 1 [Hunger].
+
+### 542 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [826504] — nazwa] 잠깐의 배부름
+REPEAT: 528 — inherit
+
+### 543 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [826504] — opis] 턴 종료 시 [Hunger]이 0이면, 다음 턴에 [AttackDown], [DefenseDown]를 (이번 턴에 처치한 아군 수 x 3)만큼 얻음.
+EN: Turn End: At 0 [Hunger], gain (allies defeated this turn x 3) [AttackDown] and [DefenseDown].
+
+### 544 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [826505] — nazwa] 광포한 굶주림
+REPEAT: 530 — inherit
+
+### 545 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [826505] — opis] 턴 종료 시 [Hunger]이 4이면, 다음 턴에 강한 스킬 패턴으로 변경됨.
+EN: Turn End: At 4 [Hunger], gain a stronger pattern.
+
+### 546 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [811801] — nazwa] 돌아오는 과거
+REPEAT: 270 — inherit
+
+### 547 (L200)  [] — 
+TOK: 
+KR: Pasywka wroga [811801] — opis] [AccumulatedPastMirror]가 50 이상이면, 본체 체력이 80% 이하일 때 턴 종료 시 [AccumulatedPastMirror]를 소모하여 본체 체력을 200 회복함.
+EN: If at 50+ [AccumulatedPastMirror], and if Core's HP is less than or equal to 80%, Core gains 200 HP by spending 50 [AccumulatedPastMirror] at Turn End
+
+### 548 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [811802] — nazwa] 소실된 과거
+REPEAT: 272 — inherit
+
+### 549 (L260)  [] — 
+TOK: \n
+KR: Pasywka wroga [811802] — opis] 몸통 부위 파괴 시, 축적된 과거 전부 소모.\n몸통 부위 파괴 시, 다음 턴부터 이번 전투동안 몸통 부위가 모든 속성과 공격 유형에 대하여 내성(0.5)이 됨.
+EN: When the body is broken, spend all Accumulated Past.\nWhen the body is broken, all Attack Types and Affinities become ineffective(0.5) against the body starting next turn until the end of this encounter.
+
+### 550 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [811808] — nazwa] 메트로놈
+REPEAT: 278 — inherit
+
+### 551 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [811808] — opis] [AccumulatedPastMirror]가 홀수이면 [Vulnerable]과 [AttackDmgUp]를 3 얻음\n짝수이면, [Protection]와 [AttackDmgDown]를 3 얻음
+REPEAT: 279 — inherit
+
+### 552 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826401] — nazwa] 보살핌
+EN: Care
+
+### 553 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [826401] — opis] 턴 시작 시 최대 체력의 15%만큼 체력 회복
+EN: Turn Start: Heal 15% of max HP
+
+### 554 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [826402] — nazwa] 신선도 유지
+EN: Keep It Fresh
+
+### 555 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [826402] — opis] 체력이 1 미만으로 감소하지 않음
+EN: HP does not drop below 1
+
+### 556 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [124501] — nazwa] 여왕 호위
+EN: The Queen's Defenders
+
+### 557 (L300)  [] — 
+TOK: \n
+KR: Pasywka wroga [124501] — opis] 자신이 공격을 받을 때 스킬 피해의 70% 만큼 받지 않고 스킬당 랜덤 아군 한명을 지정하여 아군에게 해당 수치만큼 피해를 입힘\n([PreparedMeat]가 있는 아군 우선 적용, 아군이 없을 때 발동하지 않음, 이 피해로 아군이 사망하지 않음)
+EN: When this unit gets attacked, take -70% Skill damage, and transfer that Skill's damage to a random ally.\n(Prioritizes allies with [PreparedMeat]; does not activate if there are no allies; this damage does not kill the affected allies)
+
+### 558 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [806301] — nazwa] 흉포한 산성 갑각
+EN: Ferocious Acidic Crust
+
+### 559 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [806301] — opis] 머리 부위 파괴 시 부위 스킬 최종 위력 -2
+EN: When the head is broken, the part has -2 Skill Final Power
+
+### 560 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [806302] — nazwa] 탈취한 파열성 소라
+EN: Stolen Rupturing Shell
+
+### 561 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [806302] — opis] 소라 부위 파괴 시 부위 스킬의 최종 위력 -2
+EN: When the shell is broken, the part has -2 Skill Final Power
+
+### 562 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [806303] — nazwa] 긴급 영양 보급
+EN: Emergency Nutrient Supply
+
+### 563 (L210)  [] — 
+TOK: \n
+KR: Pasywka wroga [806303] — opis] 자신의 공격으로 아군 처치 시 체력을 최대 체력의 5%만큼 회복\n턴 종료 시, 이 효과로 체력을 최대 체력의 15%만큼 회복한 경우, 다음 턴에 소라 부위 재생.
+EN: After this unit defeats its ally, heal by 5% of Max HP.\nAt the end of the turn, if this unit has healed 15% of Max HP with the above effect, restore the shell.
+
+### 564 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [806304] — nazwa] 게판
+EN: A Crab-eat-crab World
+
+### 565 (L310)  [] — 
+TOK: \n
+KR: Pasywka wroga [806304] — opis] 자신이 체력이 70% 미만이면, 마구 마구 찍기, 세게! 찍기, 게거품 스킬이 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.
+EN: At less than 70% HP, Brutal Pummelling, Powerful! Pummel, and Foaming skills target another ally with the least current HP.\nWhen attacking an ally, heals HP by the damage dealt.\nWhen defeating an ally, heals HP by double the damage dealt.
+
+### 566 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [806305] — nazwa] 거대한 위용
+EN: Looming Presence
+
+### 567 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [806305] — opis] 턴 시작 시 모든 적의 정신력 -10
+EN: Turn Start: All enemies lose 10 SP
+
+### 568 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [7104701] — nazwa] HP탄
+EN: HP Bullets
+
+### 569 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [7104701] — opis] 턴 시작 시 체력 3% 회복\n체력이 50% 미만이면 체력 5% 추가 회복
+EN: Turn Start: heal 3% HP\nAt less than 50% HP, heal 5% additional HP
+
+### 570 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [7105001] — nazwa] 과부하 HP탄
+EN: Overloaded HP Bullet
+
+### 571 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [7105001] — opis] 턴 시작 시, [AttackDmgUp] 2, [Vulnerable] 2 얻음.
+EN: Turn Start: Gain 2 [AttackDmgUp] and 2 [Vulnerable].
+
+### 572 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [7105002] — nazwa] HP 앰플 주입
+EN: HP Ampule Injection
+
+### 573 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [7105002] — opis] 턴 시작 시, 체력이 소모되어 있다면 전체 체력의 25% 회복 (최대 3회)
+EN: Turn Start: if this unit's HP is not at full, heal 25% HP (3 times max)
+
+### 574 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [7105101] — nazwa] HP탄
+REPEAT: 568 — inherit
+
+### 575 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [7105101] — opis] 턴 시작 시 체력 3% 회복\n체력이 50% 미만이면 체력 5% 추가 회복
+REPEAT: 569 — inherit
+
+### 576 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [7105102] — nazwa] 탱고 양념장
+EN: Tango Marinade
+
+### 577 (L230)  [] — 
+TOK: \n
+KR: Pasywka wroga [7105102] — opis] 대상보다 체력이 높다면, 합 위력 (대상과의 체력 차이 / 50) 만큼 추가 (최대 3)\n합 위력 증가[TabExplain] 효과를 받았으면, 공격 종료 후 [Vulnerable] 1 얻음
+EN: If this unit has more HP than the target, gain Clash Power +(HP difference / 50) (max 3)\nIf this unit gained Clash Power from the above effect, gain 1 [Vulnerable] after Attack End
+
+### 578 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [7105501] — nazwa] HP탄
+REPEAT: 568 — inherit
+
+### 579 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [7105501] — opis] 턴 시작 시 체력 3% 회복\n체력이 50% 미만이면 체력 5% 추가 회복
+REPEAT: 569 — inherit
+
+### 580 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [7105502] — nazwa] 흘러오는 우울
+EN: Floods of Sorrow
+
+### 581 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [7105502] — opis] 뒷면 적중 시 [Sinking] 3 부여
+EN: On Tails Hit, inflict 3 [Sinking]
+
+### 582 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [7105503] — nazwa] 넘쳐흐르는 슬픔
+EN: Overflowing Sorrow
+
+### 583 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [7105503] — opis] 턴 종료 시, 자신의 정신력 5 감소
+EN: Turn End: Lose 5 SP
+
+### 584 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [7105701] — nazwa] 회복 앰플 주입
+EN: Healing Ampule Injection
+
+### 585 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [7105701] — opis] 턴 시작 시 체력 5% 회복
+EN: Turn Start: Heal 5% HP.
+
+### 586 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [7105801] — nazwa] 과부하 HP탄
+REPEAT: 570 — inherit
+
+### 587 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [7105801] — opis] 턴 시작시, [AttackDmgUp]2, [Vulnerable] 2 얻음
+EN: Turn Start: Gain 2 [AttackDmgUp] and 2 [Vulnerable]
+
+### 588 (L50)  [] — 
+TOK: 
+KR: Pasywka wroga [7105802] — nazwa] 긴급 앰플 투약
+EN: Emergency Ampule Administration
+
+### 589 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [7105802] — opis] 체력이 25% 미만이면 전체 체력의 40%까지 회복 (최대 1회)
+EN: At less than 25% HP, heal up to 40% of max HP (1 time max)
+
+### 590 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [600201] — nazwa] 도상구축
+EN: Schemacraft
+
+### 591 (L360)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: Pasywka wroga [600201] — opis] [PanicChangeLock] 효과가 적용되며,\n정신력이 0 미만으로 내려가지 않음\n\n이번 전투에서 흑운회 제3조장 미네에게 다음 효과 적용\n- <color=#ff6000><mark=#ff000040><b><u>참격 속성 E.G.O 스킬과 합 진행 시, 합 위력 -5</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>참격 속성 E.G.O 스킬로 받는 피해량 +(150/코인 수)%</u></b></mark></color>
+EN: Apply the [PanicChangeLock] effect\n\nSP does not drop below 0\n\nIn this Encounter, apply the following effects on Mine, Patriarch of the Kurokumo Clan's Third Family:\n- <color=#ff6000><mark=#ff000040><b><u>In a Clash against Slash E.G.O Skills, Clash Power -5</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Take +(150 / # of Coins)% damage from Slash E.G.O Skills</u></b></mark></color>
+
+### 592 (L420)  [] — 
+TOK: \n
+KR: Pasywka wroga [600201] — tekst klimatyczny] “도상적으로 구축된 표상. 이 훈련을 통해 많은 걸 체험해볼 수 있을 거야. 특히 관리자, 당신은 유독 이 훈련에 잘 맞거든.”\n“시지프 탑이 건재했다면, 당신의 시스템은 어떤 모습이었을까?”
+EN: "A series of representations, crafted in groupings of schema. There's a great deal you can experience through this training, so.. bon courage, Manager. You in particular, well... I must say this suits you especially well."\n\n"If Sisyphe Tower were still standing, I wonder what form your iteration of the system would've taken?"
+
+### 593 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [600202] — nazwa] 발도술[쿠로쿠모]
+EN: Battōjutsu [Kurokumo]
+
+### 594 (L1590)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: Pasywka wroga [600202] — opis] 세 번째 턴 시작 시, 스킬 슬롯에 ‘발도 자세’를 장착하고 이번 턴 동안 반복하여 사용\n- 해당 턴 시작 시, (25 + 자신의 잃은 체력 비율/2)만큼 [SharpSensibility] 얻음 (소수점 버림)\n- 해당 턴 동안 <color=#ff6000><mark=#ff000040><b><u>수감자의 기본 공격 가중치가 1인 E.G.O 스킬에 1회 피격되면, ‘발도 자세’가 취소되고</u></b></mark></color> 다음 효과 적용\n(피격 판정은 스킬당 1회)\n· [SharpSensibility]가 0으로 변경됨\n· 모든 E.G.O 자원 +1\n· 다음 턴 동안 [Vulnerable] 5 얻고 ‘쿠모기리’와 ‘공간참’의 합 위력 -5\n- 이후 두 턴마다 반복하며, <color=#ff6000><mark=#ff000040><b><u>패턴을 반복할 때마다 취소에 필요한 피격 횟수 +1 (최대 +3)</u></b></mark></color>\n\n‘발도 자세’를 장착한 턴 종료 이후 다음 턴 시작 시, ‘쿠모기리’ 사용\n\n이번 전투에서 처음으로 체력이 50% 이하가 되었을 때 턴이 즉시 종료되고,\n자신과 쥰을 제외한 자신 진영 흑운회 소속이 다섯 미만이면, 능숙한 흑운회 조직원, 나른한 흑운회 조직원을 합하여 다섯 명까지 불러옴 (새롭게 등장한 적들은 정신력이 30인 상태로 등장)\n\n패턴 변경 이후로는 다음의 효과가 적용됨\n- 가하는 피해량 +(자신의 잃은 체력 비율)% (최대 100%)\n- ‘쿠모기리’가 ‘공간참’으로 변경됨
+EN: Turn 3 Start: This unit equips "Battō Shisei" in its Skill Slots and uses it repeatedly during this turn\n- Said Turn Start: Gain (25 + (missing HP percentage on self) / 2)[SharpSensibility] (rounded down)\n- During said turn, <color=#ff6000><mark=#ff000040><b><u>when hit once by a Sinner's E.G.O Skill with 1 base Atk Weight, cancel "Ready to Draw"</u></b></mark></color> and activate the following effects (each Skill only counts as hitting once):\n  · Change [SharpSensibility] to 0\n  · Gain +1 for all E.G.O Resource\n  · Gain 5 [Vulnerable] for the next turn; Clash Power -5 for "Kumogiri" and "Rend Space"\n- Repeat the above every 2 turns. <color=#ff6000><mark=#ff000040><b><u>Every time this unit enters this pattern, +1 to the number of hits required to cancel "Ready to Draw" (max +3)</u></b></mark></color>\n\nTurn Start: If this unit had "Battō Shisei" equipped at last Turn End, use "Kumogiri"\n\nWhen this unit's HP drops to 50% or below for the first time in this Encounter, immediately end the turn; then, if there are fewer than 5 "Kurokumo Clan" allies other than this unit and Jun, summon up to 5 allies comprised of Adept Kurokumo Henchwoman and Tired Kurokumo Henchwoman.\n(above units are summoned at 30 SP)\n\nAfter entering a different pattern, gain the following effects:\n- Deal +(missing HP percentage on self)% damage (max 100%)\n- Replace "Kumogiri" with "Rend Space"
+
+### 595 (L210)  [] — 
+TOK: \n
+KR: Pasywka wroga [600202] — podsumowanie] 두 턴마다 ‘발도 자세’ 후 ‘쿠모기리’ 사용\n‘발도 자세’는 E.G.O 스킬에 피격되면 취소\n체력 50% 이하 시 조직원 소환, 가하는 피해량이 증가
+EN: Every 2 turns, use "Battō Shisei" followed by "Kumogiri"\n"Battō Shisei" Skill is canceled when hit by E.G.O Skills\nAt 50%- HP, summon allies and deal more damage
+
+### 596 (L310)  [] — 
+TOK: 
+KR: Pasywka wroga [600202] — tekst klimatyczny] 흑운회의 초대 조장이 창시한 흑운회 고유의 발도술. 검은 구름 속에서 번개가 번쩍이듯, 언제 어디에서 검격이 날아들지 알 수 없다.
+EN: The Kurokumo Clan owes its signature sword-drawing technique to its very first Patriarch. Keep a wary eye on the bank of black clouds all you like, but you will never predict where the flash of the lightning-fast sword will strike, or when.
+
+### 597 (L80)  [] — 
+TOK: 
+KR: Pasywka wroga [600203] — nazwa] 흑운회 제3조장
+EN: Patriarch of the Third Family, a Kurokumo Clan Subsidiary
+
+### 598 (L470)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: Pasywka wroga [600203] — opis] 자신을 포함하여 자신과 동일한 진영의 흑운회 소속이 이번 전투 동안 [BlackCloudBladeEnemy] 1 얻음\n- 효과 적용 대상의 체력이 전투에서 처음으로 50% 이하가 되면, [EngageToBattleEnemy] 1을 추가로 얻음\n\n<color=#ff6000><mark=#ff000040><b><u>자신과 동일한 진영의 흑운회 소속이 사망할 때마다 흑운회 제3조장 미네의 속도 최솟값, 최댓값 +1 (각각 최대 5)</u></b></mark></color>
+EN: Allied "Kurokumo Clan" units, including this unit, gain 1 [BlackCloudBladeEnemy] for the Encounter\n- When an affected unit's HP drops 50% or below for the first time in this Encounter, additionally gain 1 [EngageToBattleEnemy]\n\n<color=#ff6000><mark=#ff000040><b><u>Whenever an allied "Kurokumo Clan" unit is defeated, Min & Max Speed +1 for Mine, Patriarch of the Kurokumo Clan's Third Family (max +5 each)</u></b></mark></color>
+
+### 599 (L670)  [] — 
+TOK: \n
+KR: Pasywka wroga [600203] — tekst klimatyczny] 남부에서 동부까지 세력을 뻗친 흑운회는 여러 조로 구성되어 있다. 그중 하나의 집단으로서 의미를 갖는 것은 제1조부터 제4조까지다. 이들은 각 조장에 따라 같은 조직임에도 서로 다른 면모를 갖는다.\n\n제1조장은 흑운회를 다스리고, 제2조장은 흑운회의 가장 날카로운 검이 되었으며, 제3조장은 칼싸움과 살육을 즐겨 싸움판을 찾아다닌다. 반면 제4조장은 어느 날 실종되어 그 행방이 묘연하다.
+EN: The Kurokumo Clan's reach extends from the South of the City all the way to the East. Its subsidiaries are many, but only the First through the Fourth have each acquired an identity of their own. In the character of each, one may recognize the hand of its Patriarch.\n\nThe First rules the Clan. The Second became its keenest blade. The Third enjoys a good battle of blades and the slaughter that comes with it, going wherever there's plenty of both. As for the Fourth... one day the Fourth simply vanished. To where, no one can say.
+
+### 600 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [601305] — nazwa] 도상구축
+REPEAT: 590 — inherit
+
+### 601 (L270)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: Pasywka wroga [601305] — opis] 이번 전투에서 흑운회 부조장 쥰에게 다음 효과 적용\n- 최대 체력 +75%, 흐트러짐 선 하나 제거 (30%)\n- <color=#ff6000><mark=#ff000040><b><u>참격 속성 스킬로 받는 피해량 +50% (E.G.O 스킬일 경우, 대신 100%)</u></b></mark></color>
+EN: In this Encounter, apply the following effects on Kurokumo Clan Captain Jun:\n- Max HP +75%, remove one Stagger Threshold (30%)\n- <color=#ff6000><mark=#ff000040><b><u>Take +50% damage from Slash Skills (for E.G.O Skills, take +100% damage instead)</u></b></mark></color>
+
+### 602 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [601305] — tekst klimatyczny] “도상적으로 구축된 표상. 이 훈련을 통해 많은 걸 체험해볼 수 있을 거야. 특히 관리자, 당신은 유독 이 훈련에 잘 맞거든.”\n“시지프 탑이 건재했다면, 당신의 시스템은 어떤 모습이었을까?”
+REPEAT: 592 — inherit
+
+### 603 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [600405] — nazwa] 도상구축
+REPEAT: 590 — inherit
+
+### 604 (L680)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: Pasywka wroga [600405] — opis] 이번 전투에서 흑운회 부조장 쥰에게 다음 효과 적용\n- 최대 체력 +75%, 흐트러짐 선 하나 제거 (30%)\n- <color=#ff6000><mark=#ff000040><b><u>참격 속성 스킬로 받는 피해량 +50% (E.G.O 스킬일 경우, 대신 100%)</u></b></mark></color>\n- 자신의 체력이 처음으로 50% 이하가 되었을 때 턴이 즉시 종료되고,\n자신을 제외한 자신 진영 흑운회 소속이 다섯 미만이면 결연한 흑운회 조직원, 긴장한 흑운회 조직원을 합하여 다섯 명까지 불러옴 (새롭게 등장한 적들은 정신력이 30인 상태로 등장)
+EN: In this Encounter, apply the following effects on Kurokumo Clan Captain Jun:\n- Max HP +75%, Remove one Stagger Threshold (30%)\n- <color=#ff6000><mark=#ff000040><b><u>Take +50% damage from Slash Skills (for E.G.O Skills, take +100% damage instead)</u></b></mark></color>\n- If this unit's HP has dropped to 50% or below for the first time, the turn ends immediately;\nIf this unit has fewer than 5 "Kurokumo Clan" allies on the field (excluding this unit), summon up to 5 allies (combining <noparse>Determined</noparse> Kurokumo Henchmen and Tense Kurokumo Henchmen; newly-summoned units enter the field with 30 SP)
+
+### 605 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [600405] — tekst klimatyczny] “도상적으로 구축된 표상. 이 훈련을 통해 많은 걸 체험해볼 수 있을 거야. 특히 관리자, 당신은 유독 이 훈련에 잘 맞거든.”\n“시지프 탑이 건재했다면, 당신의 시스템은 어떤 모습이었을까?”
+REPEAT: 592 — inherit
+
+### 606 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [600508] — nazwa] 도상구축
+REPEAT: 590 — inherit
+
+### 607 (L460)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: Pasywka wroga [600508] — opis] 이번 전투에서 리카르도에게 다음 효과 적용\n- 최대 체력 +25%, 흐트러짐 선 하나 제거(25%)\n- <color=#ff6000><mark=#ff000040><b><u>타격 속성 스킬로 받는 피해량 +50% (E.G.O 스킬일 경우, 대신 100%)</u></b></mark></color>\n- 정신력이 0 미만으로 내려가지 않음\n- 자신과 동일한 진영의 중지 소속이 사망할 때마다 리카르도의 속도 최솟값, 최댓값 +1 (각각 최대 3)\n- ‘다들 집합’ 사용 시, 아군 2명을 추가로 소환
+EN: In this Encounter, apply the following effects on Ricardo:\n- Max HP +25%, Remove one Stagger Threshold (25%)\n- <color=#ff6000><mark=#ff000040><b><u>Take +50% damage from Blunt Skills (for E.G.O Skills, take +100% damage instead)</u></b></mark></color>\n- SP does not drop below 0\n- Min & Max Speed +1 every time this unit's ally from "The Middle" is killed (max 3 each)\n- Upon using the "Assemble" Skill, summon 2 more allies
+
+### 608 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [600508] — tekst klimatyczny] “도상적으로 구축된 표상. 이 훈련을 통해 많은 걸 체험해볼 수 있을 거야. 특히 관리자, 당신은 유독 이 훈련에 잘 맞거든.”\n“시지프 탑이 건재했다면, 당신의 시스템은 어떤 모습이었을까?”
+REPEAT: 592 — inherit
+
+### 609 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [600605] — nazwa] 도상구축
+REPEAT: 590 — inherit
+
+### 610 (L200)  [] — 
+TOK: </color>, <color=#ff6000>, \n
+KR: Pasywka wroga [600605] — opis] 이번 전투에서 작은 아우 베르너에게 다음 효과 적용\n- 최대 체력 +25%\n- <color=#ff6000><mark=#ff000040><b><u>타격 속성 스킬로 받는 피해량 +50% (E.G.O 스킬일 경우, 대신 100%)</u></b></mark></color>
+EN: In this Encounter, apply the following effects on Little Brother Werner:\n- <color=#ff6000><mark=#ff000040><b><u>Take +25% damage from Blunt Skills (for E.G.O Skills, take +100% damage instead)</u></b></mark></color>
+
+### 611 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [600605] — tekst klimatyczny] “도상적으로 구축된 표상. 이 훈련을 통해 많은 걸 체험해볼 수 있을 거야. 특히 관리자, 당신은 유독 이 훈련에 잘 맞거든.”\n“시지프 탑이 건재했다면, 당신의 시스템은 어떤 모습이었을까?”
+REPEAT: 592 — inherit
+
+### 612 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [601101] — nazwa] 반짝
+EN: Sparkle
+
+### 613 (L330)  [] — 
+TOK: \n
+KR: Pasywka wroga [601101] — opis] 특정 턴마다, 전봇대 부위가 [ElectricPolePower] 10 얻음\n[ElectricPolePower]의 효과로 0이 되어 소멸하면, 전봇대 부위가 파괴됨\n턴 종료 시까지 [ElectricPolePower]이 남아 있으면, 다음 턴에 강력한 스킬 사용
+EN: The "Telepole" Part gains 10 [ElectricPolePower] every specific turn\nIf [ElectricPolePower] is reduced to 0 due to its effects, the "Telepole" Part will be destroyed\nIf [ElectricPolePower] remains until Turn End, this unit uses a powerful Skill next turn
+
+### 614 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [601102] — nazwa] 피뢰침
+REPEAT: 408 — inherit
+
+### 615 (L310)  [] — 
+TOK: \n
+KR: Pasywka wroga [601102] — opis] 자신의 [DogThunder]가 5 이상이면, 다음 턴부터 부위마다 피격 시 이번 턴에 [ElectricShock] 3 부여 ([DogThunder]가 0이 되기전까지 지속)\n나태 속성 공격에 피격 시 [ElectricShock] 부여량이 절반으로 감소 (소수점올림)
+EN: At 5+ [DogThunder], all Parts will inflict 3 [ElectricShock] on the attacker when hit, starting from the next turn (lasts until [DogThunder] reaches 0)\nWhen hit by a Sloth attack, the amount of [ElectricShock] inflicted is halved (rounded up)
+
+### 616 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [601103] — nazwa] 번개
+REPEAT: 410 — inherit
+
+### 617 (L170)  [] — 
+TOK: \n
+KR: Pasywka wroga [601103] — opis] 전봇대가 파괴되지 않았으면 공격 종료 시, [DogThunder] 1 얻음\n전봇대 피격 시, [DogThunder] 1 소모
+EN: While the Telepole isn’t broken, gain 1 [DogThunder] after an attack\nWhenever the Telepole is hit by an attack, lose 1 [DogThunder]
+
+### 618 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [601104] — nazwa] 부서지는 파편
+REPEAT: 412 — inherit
+
+### 619 (L180)  [] — 
+TOK: 
+KR: Pasywka wroga [601104] — opis] 전봇대가 흐트러짐 상태거나 부위 파괴되었으면, [DogThunder]가 0이 되고 이번 턴에 골목파수견의 공격 스킬이 전부 취소됨
+EN: When Telepole is Staggered or Broken, lose all [DogThunder];\nAll Attack Skills of the Alleyway Watchdog will then be canceled for the turn
+
+### 620 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [90001] — nazwa] 벌레 육체
+EN: Verminous Body
+
+### 621 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [90001] — opis] 턴 종료 시 체력 5 회복
+EN: At the end of the turn, heal 5 HP.
+
+### 622 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [90002] — nazwa] 영양분 보충
+EN: Nutritive Reinforcements
+
+### 623 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [90002] — opis] 적 처치 시 체력 20 회복, 다음 턴에 수비 위력 증가 5를 얻음
+EN: After defeating an enemy, heal 20 HP, and gain 5 Defense Power Up next turn.
+
+### 624 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [90003] — nazwa] 날카로운 칼
+EN: Sharp Edge
+
+### 625 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [90003] — opis] 공격 적중 시 출혈 1-2 부여\n턴 시작 시 표적이 있는 캐릭터가 있으면, 해당 캐릭터를 공격함
+EN: On hit, inflict 1-2 Bleed.\nIf a unit is Marked, attack them first.
+
+### 626 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [90004] — nazwa] 사기 하락
+EN: Weak Morale
+
+### 627 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [90004] — opis] 아군이 사망할 때마다 영구적으로 취약 1을 얻음
+EN: Whenever an ally dies, permanently gain 1 Fragile.
+
+### 628 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [90005] — nazwa] 응징
+EN: Retribution
+
+### 629 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [90005] — opis] 체력이 50% 이하가 되면 다음 턴에 공격 위력 증가 5를 얻음
+EN: When HP drops below 50%, gain 5 Attack Power Up next turn.
+
+### 630 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [90006] — nazwa] 정신 파동
+EN: Mind Wave
+
+### 631 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [90006] — opis] 공격 적중 시 대상의 정신력 -10
+EN: On hit, target loses 10 SP.
+
+### 632 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9000101] — nazwa] 부상당한 강화 육체
+EN: Injured Augmentation
+
+### 633 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9000101] — opis] 체력이 50% 미만일 때 턴 시작 시 체력 1 회복
+EN: At the start of the turn, if at less than 50% HP, heal 1 HP.
+
+### 634 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9000102] — nazwa] 강화 육체
+EN: Augmented Body
+
+### 635 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9000102] — opis] 체력이 50% 미만일 때 턴 시작 시 체력 2 회복
+EN: At the start of the turn, if at less than 50% HP, heal 2 HP.
+
+### 636 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9000103] — nazwa] 침식된 강화 육체
+EN: Corroded Augmentation
+
+### 637 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9000103] — opis] 체력이 50% 미만일 때 턴 시작 시 체력 4 회복
+EN: At the start of the turn, if at less than 50% HP, heal 4 HP.
+
+### 638 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100301] — nazwa] 큰형님
+EN: Big Boss
+
+### 639 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100301] — opis] 이 캐릭터가 사망하면 모든 아군 정신력 -45
+EN: When this unit is defeated, all its allies lose 45 SP.
+
+### 640 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100302] — nazwa] 아그들아!
+EN: Not Me Boys!
+
+### 641 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100302] — opis] 아군이 사망할 때마다 이 캐릭터의 정신력 -15
+EN: This unit loses 15 SP whenever an ally is defeated.
+
+### 642 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100401] — nazwa] 파티 타임
+EN: Hora de Fiesta
+
+### 643 (L160)  [] — 
+TOK: \n
+KR: Pasywka wroga [9100401] — opis] 매 턴마다 자신 포함 모든 아군 정신력 10 회복\n자신의 정신력 20 이상이면 턴 시작 시 공격 위력 증가, 수비 위력 증가 1 얻음
+EN: At the start of the turn, all allies heal 10 SP.\nAt 20+ SP, gain 1 Attack Power Up and 1 Defense Power Up at turn start.
+
+### 644 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100402] — nazwa] 파티 종료
+EN: Se Acabó la Fiesta
+
+### 645 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9100402] — opis] 이 캐릭터가 사망하면 모든 아군 정신력 -45
+REPEAT: 639 — inherit
+
+### 646 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9002801] — nazwa] HP탄
+REPEAT: 568 — inherit
+
+### 647 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [9002801] — opis] 턴 시작 시 체력 15 회복\n체력이 50%미만이면 체력 15 추가 회복
+EN: At the start of the turn, heal 15 HP.\nAt less than 50% HP, heal 15 additional HP.
+
+### 648 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9003201] — nazwa] 고귀한 희생있도다
+EN: Noble be Thy Sacrifice
+
+### 649 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9003201] — opis] 아군이 사망하면 다음 턴 시작 시 공격 위력 증가 1을 얻는다.
+EN: When an ally is defeated, gain 1 Attack Power Up next turn.
+
+### 650 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9003801] — nazwa] 처단의 기쁨
+EN: Joy of Execution
+
+### 651 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9003801] — opis] 적을 처치하면 다음 턴 시작 시 피해량 증가 2를 얻는다.
+EN: After defeating an enemy, gain 2 Damage Up next turn.
+
+### 652 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100501] — nazwa] 쥐는 자의 망치
+EN: Hammer of the One Who Grips
+
+### 653 (L140)  [] — 
+TOK: \n
+KR: Pasywka wroga [9100501] — opis] 이 캐릭터가 살아있는동안 모든 아군이 턴 시작 시 정신력 10 회복\n이 캐릭터가 사망하면 모든 아군 정신력 -45
+EN: At the start of the turn, all allies heal 10 SP.\nWhen this unit is defeated, all its allies lose 45 SP.
+
+### 654 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100601] — nazwa] 집념
+EN: Persistence
+
+### 655 (L190)  [] — 
+TOK: 
+KR: Pasywka wroga [9100601] — opis] 체력이 50% 미만이 되면, 다음 턴 시작 시 자신에게 부여된 부정적인 효과를 제거하고, 매 턴마다 광신 4, 공격 위력 증가 1, 수비 위력 증가 1을 얻는다.
+EN: When HP drops below 50%, remove all negative status effects next turn, and gain 4 Fanatic, 1 Attack Power Up, and 1 Defense Power Up each turn.
+
+### 656 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100502] — nazwa] 두드릴지라
+EN: Thou Shalt Hammer
+
+### 657 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100502] — opis] 자신에게 광신이 있을 때 피해량 +50%
+EN: If this unit is Fanatic, deal +50% damage.
+
+### 658 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9004601] — nazwa] 기계 정신
+EN: Mechanical Mentality
+
+### 659 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9004601] — opis] 정신력이 0에 고정됨.
+EN: Sanity is fixed at 0.
+
+### 660 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9004602] — nazwa] 단단한 외피
+EN: Solid Exterior
+
+### 661 (L120)  [] — 
+TOK: </color>, <color=#f8c200>
+KR: Pasywka wroga [9004602] — opis] <sprite name="Laceration"><color=#f8c200><u><link="Laceration">출혈</color></link></u>과 <sprite name="Combustion"><color=#f8c200><u><link="Combustion">화상</color></link></u>에 입는 피해 반감.
+EN: Take half as much damage from <sprite name="Laceration"><color=#f8c200><u><link="Laceration">Bleed</color></link></u> and <sprite name="Combustion"><color=#f8c200><u><link="Combustion">Burn</color></link></u>.
+
+### 662 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9004603] — nazwa] 흔들림 주의
+EN: Caution: Unsteady
+
+### 663 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9004603] — opis] 자신이 받는 진동 폭발에 의한 흐트러짐 손상 +50%
+EN: This unit's stagger threshold rises by 50% more when affected by Tremor Burst
+
+### 664 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9004604] — nazwa] 파손 주의
+EN: Caution: Delicate
+
+### 665 (L120)  [] — 
+TOK: </color>, <color=#f8c200>
+KR: Pasywka wroga [9004604] — opis] 자신이 받는 <sprite name="Burst"><color=#f8c200><u><link="Burst">파열</color></link></u>에 의한 피해 +30% (소수점 버림)
+EN: Take +30% damage from <sprite name="Burst"><color=#f8c200><u><link="Burst">Rupture</color></link></u> (Rounded down)
+
+### 666 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9004901] — nazwa] 파손 기능 손상
+EN: Damageable Disuniter
+
+### 667 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9004901] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 파열, 파열 횟수 1 감소
+EN: After being staggered, inflict 1 less Rupture and Rupture Count
+
+### 668 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9005001] — nazwa] 흔들림 기능 손상
+EN: Damageable Thumper
+
+### 669 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9005001] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 진동, 진동 횟수 1 감소
+EN: After being staggered, inflict 1 less Tremor and Tremor Count
+
+### 670 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100701] — nazwa] 공격 기능 과열
+EN: Overheating Attack Function
+
+### 671 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100701] — opis] 자신의 공격으로 흐트러짐 상태를 만들었다면, 다음 턴에 피해량 증가 3 얻음
+EN: When staggering a unit with an attack, gain 3 Damage Up next turn.
+
+### 672 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100702] — nazwa] 파손 기능 완전 손상
+EN: Breakable Disuniter
+
+### 673 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100702] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 파열, 파열 횟수 3 감소
+EN: After being staggered, inflict 3 less Rupture and Rupture Count
+
+### 674 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100703] — nazwa] 흔들림 기능 완전 손상
+EN: Breakable Thumper
+
+### 675 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100703] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 진동, 진동 횟수 3 감소
+EN: After being staggered, inflict 3 less Tremor and Tremor Count
+
+### 676 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100801] — nazwa] 스패너 가동
+EN: Spanner Up
+
+### 677 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100801] — opis] 턴동안 앞면 적중한 코인 수만큼 공진을 얻음. (최대 10)
+EN: Gain Resonant by the number of heads Coins that successfully hit during a turn. (Max 10)
+
+### 678 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100802] — nazwa] 장미스패너 공방 대표
+EN: Rosespanner Workshop Rep
+
+### 679 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100802] — opis] 웨이브동안 죽은 아군 수만큼 진동을 추가 부여
+EN: Inflict more Tremor by the number of allies that have died this wave
+
+### 680 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100803] — nazwa] 마지막인건가요
+EN: Guess I'm the Last
+
+### 681 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100803] — opis] 혼자 남으면 매 턴마다 공진 1, 진동 동화 1 얻음.
+EN: When alone, gain 1 Resonant and 1 Tremor Sync every turn.
+
+### 682 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100804] — nazwa] 어쩔 수 없네요
+EN: I've Got No Choice
+
+### 683 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100804] — opis] 혼자 남았을 때, 자신을 마지막으로 공격한 사람을 다음 턴에 지정함.
+EN: When alone, marks the last unit that attacked this character as a target next turn.
+
+### 684 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100901] — nazwa] 얽혀오는 저주 부적
+EN: Entangling Curse Talisman
+
+### 685 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100901] — opis] 턴동안 진행한 합만큼 얽혀온 저주 부적을 얻음.
+EN: Gain Entangled Curse Talismans by the number of clashes the unit engaged in during a turn.
+
+### 686 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100902] — nazwa] 옭아매인 저주 부적
+EN: Strangling Curse Talisman
+
+### 687 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100902] — opis] 얽혀온 저주 부적이 10이라면, 10만큼 흐트러짐 손상. 전부 소멸.
+EN: At 10 Entangled Curse Talismans, raise stagger threshold by 10, then remove the status.
+
+### 688 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100903] — nazwa] 증식하는 저주 부적
+EN: Multiplying Curse Talisman
+
+### 689 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9100903] — opis] 체력이 30%이하일 때, 부여하는 다시 붙여진 저주 부적 +1
+EN: At 30% or less HP, inflict +1 Reattached Curse Talisman
+
+### 690 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9100904] — nazwa] 침식하는 저주 부적
+EN: Encroaching Curse Talisman
+
+### 691 (L160)  [] — 
+TOK: 
+KR: Pasywka wroga [9100904] — opis] 체력이 30%이하일 때, 공격 종료 시 대상에게 다시 붙여진 저주 부적이 5이상이라면 다음 턴에 마비 2 부여
+EN: At 30% or less HP, if the target has 5+ Reattached Curse Talisman after an attack is finished, inflict 2 Paralyze next turn.
+
+### 692 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006201] — nazwa] 흘러오는 우울
+REPEAT: 580 — inherit
+
+### 693 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9006201] — opis] 뒷면 적중 시 침잠 2 부여
+EN: Tails Coins inflict 2 Sinking
+
+### 694 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006202] — nazwa] 넘쳐흐르는 슬픔
+REPEAT: 582 — inherit
+
+### 695 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9006202] — opis] 턴 종료 시, 자신의 정신력 5 감소
+EN: At the end of the turn, lose 5 SP
+
+### 696 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9006101] — nazwa] 취기
+EN: Intoxication
+
+### 697 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9006101] — opis] 가지고 있는 고양이 5일 때, 취기를 5 얻음.
+EN: At 5 Morale Boost, gain 5 Tipsy.
+
+### 698 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9006102] — nazwa] 숙취 해소
+EN: Hangover Cure
+
+### 699 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9006102] — opis] 가지고 있는 취기가 5일 때, 수비 스킬을 사용함.
+EN: At 5 Tipsy, uses a defense skill.
+
+### 700 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006801] — nazwa] 회복 앰플 주입
+REPEAT: 584 — inherit
+
+### 701 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9006801] — opis] 턴 시작 시 체력 20 회복
+EN: At the start of the turn, heal 20 HP.
+
+### 702 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006802] — nazwa] 긴급 앰플 투약
+REPEAT: 588 — inherit
+
+### 703 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9006802] — opis] 체력이 25%미만이면 전체 체력의 40%까지 회복 (최대 1회)
+EN: At less than 25% HP, heal up to 40% of Max HP (One-time only)
+
+### 704 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9007001] — nazwa] 황금 시간
+EN: Golden Time
+
+### 705 (L180)  [] — 
+TOK: 
+KR: Pasywka wroga [9007001] — opis] 턴 종료 시 체력이 12% ~ 24%사이로 남았을 때, 전체 체력의 65%만큼 즉시 회복. 흐트러짐 상태 해제. (최대 1회)
+EN: At the end of the turn, if the HP is between 12% and 24%, instantly heal up to 65% of Max HP, and recover from stagger. (One-time only)
+
+### 706 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9007002] — nazwa] 시간 역행 반동
+EN: Time Reversion Retroaction
+
+### 707 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9007002] — opis] 황금 시간 발동 이후, 턴 종료 시 취약 3 얻음
+EN: After activating Golden Time, gain 3 Fragile at turn end.
+
+### 708 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9005401] — nazwa] 공포 장치
+EN: Terror Device
+
+### 709 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9005401] — opis] 아군이 아군에게 공격할 때, 정신력 3 피해
+EN: When an ally attacks another ally, deal 3 SP damage
+
+### 710 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006901] — nazwa] 회복 앰플 주입
+REPEAT: 584 — inherit
+
+### 711 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006901] — opis] 턴 시작 시 체력 20 회복
+REPEAT: 701 — inherit
+
+### 712 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006902] — nazwa] 긴급 앰플 투약
+REPEAT: 588 — inherit
+
+### 713 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9006902] — opis] 체력이 25%미만이면 전체 체력의 40%까지 회복 (최대 1회)
+REPEAT: 703 — inherit
+
+### 714 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9006803] — nazwa] 긴급 앰플 과부하
+EN: Emergency Ampule Overdose
+
+### 715 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [9006803] — opis] 체력이 1 이하로 떨어지지 않음.\n턴 시작 시 체력이 60 이하라면, 강화 상태가 된다.
+EN: HP does not drop below 1;\nIf at 60- HP at the start of the turn, enter a powered-up state.
+
+### 716 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9007701] — nazwa] 게판
+REPEAT: 564 — inherit
+
+### 717 (L240)  [] — 
+TOK: \n
+KR: Pasywka wroga [9007701] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.
+EN: At less than 70% HP, targets another ally with the least current HP.\nWhen attacking an ally, heals HP by the damage dealt.\nWhen defeating an ally, heals HP by double the damage dealt.
+
+### 718 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9007801] — nazwa] 게판
+REPEAT: 564 — inherit
+
+### 719 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [9007801] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.
+REPEAT: 717 — inherit
+
+### 720 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9007901] — nazwa] 게판
+REPEAT: 564 — inherit
+
+### 721 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [9007901] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.
+REPEAT: 717 — inherit
+
+### 722 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9008001] — nazwa] 게판
+REPEAT: 564 — inherit
+
+### 723 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [9008001] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.
+REPEAT: 717 — inherit
+
+### 724 (LNone)  [] — 
+TOK: 
+KR: Pasywka wroga [9008101] — nazwa] 게판
+REPEAT: 564 — inherit
+
+### 725 (LNone)  [] — 
+TOK: \n
+KR: Pasywka wroga [9008101] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.
+REPEAT: 717 — inherit
+
+### 726 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [9008102] — nazwa] 오래된 게딱지 탄
+EN: Molted Shell Shot
+
+### 727 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [9008102] — opis] 스테이지 시작 시, 오래된 게딱지 탄을 1 얻음
+EN: Encounter Start: Gain 1 Molted Shell Shot
+
+### 728 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1010311] — nazwa] 냉정
+EN: Poised
+
+### 729 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [1010311] — opis] 합 승리 시 호흡 횟수 1 증가\n호흡 횟수 5당 코인 위력 +1 (최대 3)
+EN: On Clash Win, gain +1 [Breath] Count\nCoin Power +1 for every 5 [Breath] Count (max 3)
+
+### 730 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1020211] — nazwa] 자가충전
+EN: Self-charging
+
+### 731 (L120)  [] — 
+TOK: \n
+KR: Pasywka wroga [1020211] — opis] 공격 종료 시 충전 횟수 1 증가\n공격 종료 시 무작위 아군의 충전 횟수 1 증가
+EN: Gain +1 [Charge] Count at Attack End\nA random ally gains +1 [Charge] Count at Attack End
+
+### 732 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1050311] — nazwa] 견뎌내기
+EN: Enduring Spirit
+
+### 733 (L190)  [] — 
+TOK: \n
+KR: Pasywka wroga [1050311] — opis] 피격 시 충전 횟수 1 증가 (최대 6회)\n합 패배 시 충전 횟수 1 증가 (최대 6회, 피격 시 조건과 별도로 판정)
+EN: When attacked, gain +1 Charge Count. (Up to 6 times)\nAfter losing a clash, gain +1 Charge Count. (Up 6 times, counted independently of hits taken)
+
+### 734 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1070411] — nazwa] 젠장...
+EN: Bugger…
+
+### 735 (L230)  [] — 
+TOK: \n
+KR: Pasywka wroga [1070411] — opis] 아군이 사망하면 다음 턴 시작 시 정신력이 10 감소하고, 타격 위력 증가 1을 얻음\n생존한 N사 광신도가 파티에 자신 포함 4명 이상 있을 때 코인 위력 +1
+EN: When an ally is defeated, lose 10 SP and gain 1 Blunt Power Up next turn.\nIf 4 or more surviving units in the team, including this unit, are 'N Corp. Fanatics', Coin Power +1.
+
+### 736 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1100211] — nazwa] 살수
+EN: Slayer
+
+### 737 (L220)  [] — 
+TOK: \n
+KR: Pasywka wroga [1100211] — opis] 연결한 죄 중 마지막 죄의 마지막 코인의 피해량 +20%\n자신을 제외한 아군의 스킬로 호흡 횟수가 증가할 때 50% 확률로 자신의 호흡 횟수 1 증가
+EN: The last Coin on the last skill in the chain deals +20% damage.\nWhenever an ally other than this unit gains Poise Count, this unit gains +1 Poise Count at a 50% chance.
+
+### 738 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [1100211] — podsumowanie] 연결한 죄 중 마지막 죄의 마지막 코인의 피해량 +20%. 호흡 횟수 추가 증가
+EN: The last Coin on the last Skill in the chain deals +20% damage. Gain additional Poise Count
+
+### 739 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1020411] — nazwa] 휘파람
+EN: Whistles
+
+### 740 (L180)  [] — 
+TOK: \n
+KR: Pasywka wroga [1020411] — opis] 전투 시작 시 정신력이 가장 낮은 아군 2명의 정신력 15 회복.\n대상이 N사 광신도면 광신 2 부여
+EN: Combat Start: Heal 15 SP for 2 allies that have the lowest SP\nIf the ally is an "N Corp. Fanatic", also apply 2 [AssemblePersonality]
+
+### 741 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1020431] — nazwa] 속삭임
+EN: Whispers
+
+### 742 (L170)  [] — 
+TOK: \n
+KR: Pasywka wroga [1020431] — opis] 전투 시작 시 정신력이 가장 낮은 아군 1명의 정신력 15 회복.\n대상이 N사 광신도면 광신 2 부여
+EN: Combat Start: Heal 15 SP for 1 ally that has the lowest SP\nIf the ally is an "N Corp. Fanatic", also apply 2 [AssemblePersonality]
+
+### 743 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1100511] — nazwa] 광염
+EN: Mad Flame
+
+### 744 (L210)  [] — 
+TOK: \n
+KR: Pasywka wroga [1100511] — opis] 합 승리, 적 처치 시 회복하는 정신력 50% 감소\n생존한 N사 광신도가 자신을 포함하여 5명 이상 있을 때, N사 광신도들의 피해량 +10%
+EN: Heal 50% less SP from winning a clash or defeating an enemy.\nIf 5 or more surviving units, including this unit, are 'N Corp. Fanatics', they deal +10% damage.
+
+### 745 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1070311] — nazwa] 풀 뜯을 준비
+EN: Raring to Graze
+
+### 746 (L200)  [] — 
+TOK: \n
+KR: Pasywka wroga [1070311] — opis] 다음 턴 시작 시 (분노 공명 수)만큼 충전 횟수 증가.\n충전 횟수가 5 이상이면 신속 1, 공격 위력 증가 1을 얻음\n상시 발동: 스테이지 시작 시 탄환 +3
+EN: Gain (Wrath Reson.) Charge Count next turn.\nAt 5+ Charge Count, gain 1 Haste and Attack Power Up.\nAlways Activate: At the start of the stage, gain +3 Ammo.
+
+### 747 (L50)  [] — 
+TOK: 
+KR: Pasywka wroga [1050611] — nazwa] rrR-#4 슈트 가압 가동
+EN: Activate rrR-#4 Suit Pressurization
+
+### 748 (L220)  [] — 
+TOK: \n
+KR: Pasywka wroga [1050611] — opis] 턴 종료 시 충전 횟수 5당 다음 턴의 속도 최대 값 +2 (최대 6)\n턴 시작 시 충전 횟수가 5 이상 있으면 자신의 가장 오른쪽 슬롯 1개에 도발치 3 상승.
+EN: At the end of the turn, gain +2 Max Speed per 5 Charge Count next turn. (Max 6)\nAt the start of the turn, if at 5+ Charge Count, gain 3 Aggro to this unit's rightmost slot.
+
+### 749 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1080511] — nazwa] 차오르는 액체
+EN: Filling Fluid
+
+### 750 (L160)  [] — 
+TOK: 
+KR: Pasywka wroga [1080511] — opis] 공격 스킬로 대상의 체력에 피해를 주지 못한 경우, 다음 턴에 최대 체력의 10%만큼 보호막을 얻음 (최대 30)
+EN: If this unit fails to deal HP damage using attack skills in a turn, gain a Shield equal to 10% of Max HP next turn. (Max 30)
+
+### 751 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1080211] — nazwa] 뇌파집속
+EN: Brainwave Focus
+
+### 752 (L200)  [] — 
+TOK: \n
+KR: Pasywka wroga [1080211] — opis] 전투 시작 시 공격 위력 증가를 (우울 공명 수/3)만큼 얻음\n턴 종료 시 이번 턴에 피해를 주지 못한 경우 정신력 -15
+EN: At the start of the combat phase, gain (Gloom Reson. / 3) Attack Power Up.\nIf this unit fails to deal damage this turn, lose 15 SP at the end of the turn.
+
+### 753 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1040511] — nazwa] 차원 마검
+EN: Dimensional Demon Edge
+
+### 754 (L120)  [] — 
+TOK: 
+KR: Pasywka wroga [1040511] — opis] 적 처치 시 충전 횟수 3 증가 (턴 당 최대 3회 발동)
+EN: Upon defeating an enemy, gain +3 Charge Count (3 times per turn)
+
+### 755 (L70)  [] — 
+TOK: 
+KR: Pasywka wroga [1040531] — nazwa] 차원 굴절 칼날 - Type: Blade Mk7
+EN: Dimensional Refraction Edge - Type: Blade Mk7
+
+### 756 (L130)  [] — 
+TOK: 
+KR: Pasywka wroga [1040531] — opis] 최대 체력이 가장 낮은 아군 1명이 적 처치 시 충전 횟수 3 증가 (턴 당 최대 1회 발동)
+EN: When an ally with the lowest Max HP defeats an enemy, they gain +3 Charge Count (Once per turn)
+
+### 757 (L40)  [] — 
+TOK: 
+KR: Pasywka wroga [1060611] — nazwa] 익숙해진 정리 업무
+EN: Cleanup Mastery
+
+### 758 (L150)  [] — 
+TOK: 
+KR: Pasywka wroga [1060611] — opis] 전투 시작 시 충전 횟수가 5 이상 있으면, 다음 턴에 신속 2를 얻음.<style="highlight">충전 횟수가 10 이상 있으면, 신속 1을 추가로 얻음.</style>
+EN: If at 5+ Charge Count at the start of the combat phase, gain 2 Haste. <style="highlight">At 10+ Charge Count, gain 1 additional Haste.</style>
+
+### 759 (L40)  [] — 
+TOK: 
+KR: Wróg / część [8501] — nazwa] 기억속 어긋난 패잔병
+EN: Recollected Awry Soldier
+
+### 760 (L120)  [] — 
+TOK: 
+KR: Wróg / część [8501] — opis] 본체
+EN: Core
+
+### 761 (L40)  [] — 
+TOK: 
+KR: Wróg / część [850101] — nazwa] 몸통
+EN: Body
+
+### 762 (L120)  [] — 
+TOK: 
+KR: Wróg / część [850101] — opis] 부위
+EN: Part
+
+### 763 (L50)  [] — 
+TOK: 
+KR: Wróg / część [8502] — nazwa] 기억속 절망하는 패잔병
+EN: Recollected Wallowing Soldier
+
+### 764 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [8502] — opis] 본체
+REPEAT: 760 — inherit
+
+### 765 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850201] — nazwa] 몸통
+REPEAT: 761 — inherit
+
+### 766 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850201] — opis] 부위
+REPEAT: 762 — inherit
+
+### 767 (L50)  [] — 
+TOK: 
+KR: Wróg / część [8503] — nazwa] 기억속 침식된 패잔병
+EN: Recollected Overtaken Soldier
+
+### 768 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [8503] — opis] 본체
+REPEAT: 760 — inherit
+
+### 769 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850301] — nazwa] 몸통
+REPEAT: 761 — inherit
+
+### 770 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850301] — opis] 부위
+REPEAT: 762 — inherit
+
+### 771 (L60)  [] — 
+TOK: 
+KR: Wróg / część [8504] — nazwa] 기억속 짓물린 G사 부장
+EN: Recollected Festered G Corp. H. Manager
+
+### 772 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [8504] — opis] 본체
+REPEAT: 760 — inherit
+
+### 773 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850401] — nazwa] 몸통
+REPEAT: 761 — inherit
+
+### 774 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850401] — opis] 부위
+REPEAT: 762 — inherit
+
+### 775 (L40)  [] — 
+TOK: 
+KR: Wróg / część [8505] — nazwa] 흥겨운 마리아치 조직원
+EN: Mariachi Alegre
+
+### 776 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [8505] — opis] 본체
+REPEAT: 760 — inherit
+
+### 777 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850501] — nazwa] 몸통
+REPEAT: 761 — inherit
+
+### 778 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850501] — opis] 부위
+REPEAT: 762 — inherit
+
+### 779 (L40)  [] — 
+TOK: 
+KR: Wróg / część [8506] — nazwa] 경쾌한 마리아치 조직원
+EN: Mariachi Vivaz
+
+### 780 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [8506] — opis] 본체
+REPEAT: 760 — inherit
+
+### 781 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850601] — nazwa] 몸통
+REPEAT: 761 — inherit
+
+### 782 (LNone)  [] — 
+TOK: 
+KR: Wróg / część [850601] — opis] 부위
+REPEAT: 762 — inherit
+

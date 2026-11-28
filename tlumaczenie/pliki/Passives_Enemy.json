@@ -1,0 +1,580 @@
+{
+  "entries": {
+    "dataList[id=9000101].desc": {
+      "pl": "na początku tury, jeżeli ma mniej niż 50% HP, przywraca 1 HP.",
+      "kr_sha256": "f000d9010d18c7cc6af117bafb7e742800c9f3e775c3c2fb6397f499b62ef537",
+      "en_sha256": "4a516b5ad4f4a4a987cdb7fb58661eb4400b9715f5dc9a010f2d914fbfacb371",
+      "origin": "ai"
+    },
+    "dataList[id=9000101].name": {
+      "pl": "Injured Augmentation",
+      "kr_sha256": "cccdff316def1932d5836c896c88409bae130984705857d9214d90dd492cbee4",
+      "en_sha256": "78c726baa07d64c6bbeef8a8a76751e1a270049397e1fa98121f7cacaa2f8303",
+      "origin": "ai"
+    },
+    "dataList[id=9000102].desc": {
+      "pl": "na początku tury, jeżeli ma mniej niż 50% HP, przywraca 2 HP.",
+      "kr_sha256": "e38b2f7040627f81eb91614716190c574ed14f7d991f8bba8a03ba70d5751da0",
+      "en_sha256": "bdbeb421ab3888e47ac98690170a5bf7c93c4a35e6c154fa567ceb6e55f0b254",
+      "origin": "ai"
+    },
+    "dataList[id=9000102].name": {
+      "pl": "Augmented Body",
+      "kr_sha256": "12dfb34cb12287f62c8ba4316f7789d7f3a936d4b7079f343354ac52e71a1681",
+      "en_sha256": "cd57e47954d889d27499ca3add7d2d05448f89dd8a47927b31e35f617c512962",
+      "origin": "ai"
+    },
+    "dataList[id=9000103].desc": {
+      "pl": "na początku tury, jeżeli ma mniej niż 50% HP, przywraca 4 HP.",
+      "kr_sha256": "a08f716fe9ca7015bc0065230d8aaf76ffaf0f7a4b4e49a38ab31ecdf70421e4",
+      "en_sha256": "be6af6ba37c19f5c82d4ed0d5b349a051cf65b7d4b72655e46a29fb9b7368793",
+      "origin": "ai"
+    },
+    "dataList[id=9000103].name": {
+      "pl": "Corroded Augmentation",
+      "kr_sha256": "a5a293128554fece89adbb9a0b4d1e26a02555459f9021cac35bb31d4d5c138c",
+      "en_sha256": "462680b7738178b3e799bd45c4593e52acfb78ee3e5717da3f58c9885cbf1134",
+      "origin": "ai"
+    },
+    "dataList[id=90001].desc": {
+      "pl": "na koniec tury przywraca 5 HP.",
+      "kr_sha256": "77823c25fe58bc80147f76f797deab8266317e2c479cc12f9e6c1a2854293f4f",
+      "en_sha256": "0a3bfa6c2d84463e99bda1d1fe7b3d0a4c73d0476462cbe21099edfd212cff1d",
+      "origin": "ai"
+    },
+    "dataList[id=90001].name": {
+      "pl": "Verminous Body",
+      "kr_sha256": "b4266a3cdd93618ca9b30a0c8c1b76273383f6136cf05c6a0dd30b95e45c0cbb",
+      "en_sha256": "fc9620b7d2e6d536674a5f2291f2b51ab44d4951949c885a304305d523a55b08",
+      "origin": "ai"
+    },
+    "dataList[id=90002].desc": {
+      "pl": "po pokonaniu wroga przywraca 20 HP i zyskuje 5 Wzrost Mocy Obrony w następnej turze.",
+      "kr_sha256": "da458d90760a6f747484b17460429fb23abb1c0527259287aa996dbe2a56a6bb",
+      "en_sha256": "122bc5d1a6d91eaaa1f189f119ac99bad6911ce0d760e591fc9805b77368113e",
+      "origin": "ai"
+    },
+    "dataList[id=90002].name": {
+      "pl": "Nutritive Reinforcements",
+      "kr_sha256": "fe2e45dac6ef10eee2ce0839f7eed2f62b9f5954e8b16802c4928ac2c012d2ab",
+      "en_sha256": "3b0a54d3734486463e25cdbd0009058b037e403943176343614d152a95490788",
+      "origin": "ai"
+    },
+    "dataList[id=90003].desc": {
+      "pl": "przy trafieniu nakłada 1-2 Krwawienia.\njeżeli jednostka jest Oznaczona, atakuje ją w pierwszej kolejności.",
+      "kr_sha256": "f1c53a464e291e2c96fe0d5ed5a5cbcc6cb7bd0417318e6297dfa9b06c255a67",
+      "en_sha256": "6060a44bbaa52f567dfd2c5c616ddf03bd8545339239111a3ceb1199f43919fe",
+      "origin": "ai"
+    },
+    "dataList[id=90003].name": {
+      "pl": "Sharp Edge",
+      "kr_sha256": "e1bce7a5c506a2a0546f72ef3ae78a0d503b5ea7162fdd0e1b569768cbf7be50",
+      "en_sha256": "c6eff4310d976d2e163acc1798a3efe8c71065da5b06d7ceb1f6a2d23f61066b",
+      "origin": "ai"
+    },
+    "dataList[id=90004].desc": {
+      "pl": "za każdym razem, gdy ginie sojusznik, zyskuje 1 Wrażliwości na stałe.",
+      "kr_sha256": "73dfe41098caa4881b1913e64ffba74537e23ad64a68a28627297c66d21e317b",
+      "en_sha256": "c367f0ba9672ada76f23dc9774d06687b9a56b1fc3d9f4b0b4473acdb356d4f4",
+      "origin": "ai"
+    },
+    "dataList[id=90004].name": {
+      "pl": "Weak Morale",
+      "kr_sha256": "72a15e77f92ff7c36a622a3fa2705414810a512eeef4644ee6ac46063037a119",
+      "en_sha256": "a9c953544cad817e6d64fa14ddc5d6d09ef2254d1e3b5083e49b38ff2c7aed91",
+      "origin": "ai"
+    },
+    "dataList[id=90005].desc": {
+      "pl": "gdy HP spadnie poniżej 50%, zyskuje 5 Wzrost Mocy Ataku w następnej turze.",
+      "kr_sha256": "066bb660aa2c021c14ddd939253fe60d46f9fc746b37fe867a500d859df8d67b",
+      "en_sha256": "ce84d51194eb6194718581e7db2908ce54ac67aa311591816358ed50f93a4e03",
+      "origin": "ai"
+    },
+    "dataList[id=90005].name": {
+      "pl": "Retribution",
+      "kr_sha256": "f762a8a8099dfa5b1b7e758b8885ab64980a4ed74aa0b870de35fd9f074013be",
+      "en_sha256": "1d79fa2249232f49d9300f55010f5cc336e6bc792c55f0b115c79434c7a8814c",
+      "origin": "ai"
+    },
+    "dataList[id=90006].desc": {
+      "pl": "przy trafieniu cel traci 10 Poczytalności.",
+      "kr_sha256": "149a3a418caf550df2a5633a7764d4eb3c7f47f9aefc9d31acbb1328fc0ed55d",
+      "en_sha256": "4d8ccf98ad557da4ff3624b3d398354c84c893a8d6c6b48008702cd17ae0f6d6",
+      "origin": "ai"
+    },
+    "dataList[id=90006].name": {
+      "pl": "Mind Wave",
+      "kr_sha256": "5a8f8cf5a6b01b7ebe779151e410b756ea8ce0621ace129e68899ecee1627d76",
+      "en_sha256": "2e7cc13f69cbfbffe8e9a2d62fb13e3a73be37e6dbee4ead4daf3664904295a3",
+      "origin": "ai"
+    },
+    "dataList[id=9002801].desc": {
+      "pl": "na początku tury przywraca 15 HP\nprzy mniej niż 50% HP, dodatkowo przywraca 15 HP.",
+      "kr_sha256": "0b65f68ee2b5fc0b0f12ac8fb7ea5c8ad20e2410f407a2ca8e51bf8fc0102bfb",
+      "en_sha256": "0522fe006bc2cc5aaf51a0c196daa102ff961765f76c86d4055b943fafae9c49",
+      "origin": "ai"
+    },
+    "dataList[id=9002801].name": {
+      "pl": "HP Bullets",
+      "kr_sha256": "376fbf1e52c4ed5cec3d56382e1a532b7e53d0b5e2de563a78ba227c3e55444f",
+      "en_sha256": "d45add37d7bc9689c7012ef5d7aa1232c344b3c8955d20b9072bec05eaa748bb",
+      "origin": "ai"
+    },
+    "dataList[id=9003201].desc": {
+      "pl": "gdy sojusznik zostaje pokonany, zyskuje 1 Wzrost Mocy Ataku w następnej turze.",
+      "kr_sha256": "c8e2cc957209061f82b65cae4eac998da7b6195b4a53ebbe0d43d0cf8f12e676",
+      "en_sha256": "b0748cf9c69e045c7ce95f4bcc99ee6ed66755de6ea42047620df84785ee1c12",
+      "origin": "ai"
+    },
+    "dataList[id=9003201].name": {
+      "pl": "Noble be Thy Sacrifice",
+      "kr_sha256": "cef65aed7cec6b44817063964c5075a072a0c5ede86c99b5930393ac72a12067",
+      "en_sha256": "c7884d915f591789965b9f47ef213d8becbc7716aa7674223839051a49152fbe",
+      "origin": "ai"
+    },
+    "dataList[id=9003801].desc": {
+      "pl": "po pokonaniu wroga zyskuje 2 Wzrost Obrażeń w następnej turze.",
+      "kr_sha256": "d3c1c697190cd3720bbddf51852eb5c702da4debb574b73572a1f69b926986e4",
+      "en_sha256": "02d6b0794fc9415a8ba9e2180fe9f44cf1e6dce0d3301a7d9cd9a7015fa862e3",
+      "origin": "ai"
+    },
+    "dataList[id=9003801].name": {
+      "pl": "Joy of Execution",
+      "kr_sha256": "a6eba48ebded3b5516247a383eaca6bd549fd0d5894e17bc3a5fe3f2d0cd720b",
+      "en_sha256": "608cfbc368c361d896dbc665df785e1a199ba455295b91facffdf3cdc85ebe91",
+      "origin": "ai"
+    },
+    "dataList[id=9004601].desc": {
+      "pl": "Poczytalność jest ustalona na 0.",
+      "kr_sha256": "d96a5e808d2ebe0d1b423830fb444a6cb9a74e2b14a1429e697ebabcf38bfe3f",
+      "en_sha256": "b5bd1c241c433948e2359966527cc2df85f0cccf6817dbe2bd2279840f2ea533",
+      "origin": "ai"
+    },
+    "dataList[id=9004601].name": {
+      "pl": "Mechanical Mentality",
+      "kr_sha256": "701d36fadd3a728c2817c7bbee58763c27efdec3bf43fa51dc97887c2b8522e3",
+      "en_sha256": "e0a0c6f52ef7bd8e24d2f8853e7bf339dc0c4a7238437b3ead56ad75e30b7462",
+      "origin": "ai"
+    },
+    "dataList[id=9004602].desc": {
+      "pl": "Otrzymuje połowę obrażeń od <sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">Krwawienia</link></u></color> i <sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">Podpalenia</link></u></color>.",
+      "kr_sha256": "2a76fe97fc8535104461bbba96bcc0cac9428b76261ab5f79edabaf13ca94af4",
+      "en_sha256": "a9634d6d38d3a03955ba92c049fd2183da409f81a5202228f119baab5baaf50f",
+      "origin": "ai"
+    },
+    "dataList[id=9004602].name": {
+      "pl": "Solid Exterior",
+      "kr_sha256": "fa270510a20c0e1a545ddab94c54f5da81ecf0bf6643fa1e2427f41c35af5ea5",
+      "en_sha256": "1077981703ea12d066faac0368216255fd1f7a2ac33b0935f574554d1d45531b",
+      "origin": "ai"
+    },
+    "dataList[id=9004603].desc": {
+      "pl": "Próg Oszołomienia tej jednostki rośnie o 50% bardziej, gdy jest objęta efektem Tremor Burst",
+      "kr_sha256": "77705efe449edd7834b5b6e9eceda2e087c35471190af92681620007793e171f",
+      "en_sha256": "02835c00259ff9d80a28b916fdfd513c325c1869ce94720d1879bcd78e403400",
+      "origin": "ai"
+    },
+    "dataList[id=9004603].name": {
+      "pl": "Caution: Unsteady",
+      "kr_sha256": "2d5a19ed495b6fa99c161e892ea6bb3e088fc3114d212681233cf1adcd136571",
+      "en_sha256": "d17cc6d4f266a5b7ba92e83ff97aee881db5eda40185ab539941cfdc63df3dfa",
+      "origin": "ai"
+    },
+    "dataList[id=9004604].desc": {
+      "pl": "Otrzymuje +30% obrażeń od <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Rozdarcia</link></u></color> (zaokrąglone w dół)",
+      "kr_sha256": "573c823e83c795ae046f83cfa4a4641744d6e37c58858bceebbdd9575a7864a1",
+      "en_sha256": "1e4225951992855d30b91ce01e4fce704b1b7fd632c9c4b3d52783be4f538984",
+      "origin": "ai"
+    },
+    "dataList[id=9004604].name": {
+      "pl": "Caution: Delicate",
+      "kr_sha256": "432a7998c6bf94e2e2b986aaf02f03dc5f249ce09f51df231b932f988b647c23",
+      "en_sha256": "a583701ce335422f7ca41a485f448f53c6624c9f7eb93d1f020b5c6149e9308b",
+      "origin": "ai"
+    },
+    "dataList[id=9004901].desc": {
+      "pl": "po przejściu w stan Oszołamienia, nakłada o 1 mniej Rozdarcia i Liczników Rozdarcia",
+      "kr_sha256": "e05413e9811f3587f088a9e736f12cc498fccc388e09d65cf7f70f26e8caa775",
+      "en_sha256": "7f7ddca201015e42a6cf6610ca786518736402491c1d538be637a1cdb13daa15",
+      "origin": "ai"
+    },
+    "dataList[id=9004901].name": {
+      "pl": "Damageable Disuniter",
+      "kr_sha256": "a196d2b4166048f4bda94864861aadc9f0693cef539c111b091476d3a06209fd",
+      "en_sha256": "62ac3f6c76fb0212cb8a2528e2039ac3090522f8df1292d1f858ad88f48004d9",
+      "origin": "ai"
+    },
+    "dataList[id=9005001].desc": {
+      "pl": "po przejściu w stan Oszołamienia, nakłada o 1 mniej Wstrząsu i Liczników Wstrząsu",
+      "kr_sha256": "5bfe8cced2dd4ea2978f8ac80f9d41ebacd9c1b06341eb3947f92f592cb9a90d",
+      "en_sha256": "f90f6081442a485b1d4b88a834cd52bd7e36f1c70b10809f16e666709b5db0b8",
+      "origin": "ai"
+    },
+    "dataList[id=9005001].name": {
+      "pl": "Damageable Thumper",
+      "kr_sha256": "2c0de5cc2eb40090a78edca21b9d4fb51a6f5c0456d2496cdbd04487e8d51a3a",
+      "en_sha256": "bc8cd90f6c7dc272e94aceff7296cb5b68922ab7650fb98c2a432451e9688aa6",
+      "origin": "ai"
+    },
+    "dataList[id=9005401].desc": {
+      "pl": "gdy sojusznik atakuje innego sojusznika, zadaje 3 obrażeń Poczytalności",
+      "kr_sha256": "f2f32b412f3c1efa18482975881e67ea93739f8c1e0b52bc62f2327c56458527",
+      "en_sha256": "9ee8ded52277896be36b424b5798bdb2149a8cc1fee48738d88a44b8a7046d0b",
+      "origin": "ai"
+    },
+    "dataList[id=9005401].name": {
+      "pl": "Terror Device",
+      "kr_sha256": "52f7826dd6f832c1ae6ec7e180a654eed67a3dd61b6b486e92cfa4eb80f6ddd1",
+      "en_sha256": "bb7d821e3a085d36729e016bbdd1c7f414922fb06814cf4cb39c007b99bd65e6",
+      "origin": "ai"
+    },
+    "dataList[id=9006101].desc": {
+      "pl": "przy 5 Uniesienia, zyskuje 5 Pijackiego Nastroju.",
+      "kr_sha256": "15d6a55347fd3a9eae844801ae16057c29f659bd22cabd68942966e23c5cdaba",
+      "en_sha256": "da549ecb88210eada8c239b76ac424e8153a9c9991c58e9c6306f0ba444696d3",
+      "origin": "ai"
+    },
+    "dataList[id=9006101].name": {
+      "pl": "Intoxication",
+      "kr_sha256": "9958b7c328628fff7e4a912cc20f2bd6dd3d55ce5738a89944f4d89799f45cf0",
+      "en_sha256": "74f26264b36feca00fa12ae09d88bd26af41bde77faf1fa61b630f47a9f4b1ab",
+      "origin": "ai"
+    },
+    "dataList[id=9006102].desc": {
+      "pl": "przy 5 Pijackiego Nastroju, używa Umiejętności obrony.",
+      "kr_sha256": "ba47cd3ac37fefc0623fc360dfa9c02d77aece359495bee087e9a8e37f32da6d",
+      "en_sha256": "691a5510ff0031ed5fcee18161387e6644e21b98501e69b9a01a7d7a7be20c97",
+      "origin": "ai"
+    },
+    "dataList[id=9006102].name": {
+      "pl": "Hangover Cure",
+      "kr_sha256": "d9d57084ebfb07b130dea70ed9a694b72c35275d67bedef4ffe01ef410349467",
+      "en_sha256": "bb3062991e56567afea47702742b67fe236ad89e50eb107756de073a803bdf62",
+      "origin": "ai"
+    },
+    "dataList[id=9006201].desc": {
+      "pl": "przy trafieniu Rewersem, nakłada 2 Zatonięcia",
+      "kr_sha256": "5dfa6e660a8de19e6a8fa37cb10e34f1a2049827479cd8b8f46f070f15fcac53",
+      "en_sha256": "cbe17d3a53a003101d29c6f64d48d2a64710bb22987abccd80531fe2ec7fe110",
+      "origin": "ai"
+    },
+    "dataList[id=9006201].name": {
+      "pl": "Floods of Sorrow",
+      "kr_sha256": "57a3cad19df1ef079ce79493d703d6782e4b099d4e32f3ce94f4384c50754da5",
+      "en_sha256": "13f0029f02348217e60144d66d1353190e764bcc90283472390405777d9060e2",
+      "origin": "ai"
+    },
+    "dataList[id=9006202].desc": {
+      "pl": "na koniec tury, traci 5 Poczytalności",
+      "kr_sha256": "f839fab31d7afc76aad16efa9b9b48b6a6f6b40be4f07b55a83727a02f6610bf",
+      "en_sha256": "7c66349c4ac9f0584f50d13362db030b8f0bede21e68dfc4b2ee519f18a9c50d",
+      "origin": "ai"
+    },
+    "dataList[id=9006202].name": {
+      "pl": "Overflowing Sorrow",
+      "kr_sha256": "55bb6cbae62444e305e35d96601de0cbe98c852b6d1929f7017ac036d1d0069a",
+      "en_sha256": "f566e284a1d66969e755444af00f288952331c70b3e4429b42abe6d0e23e800a",
+      "origin": "ai"
+    },
+    "dataList[id=9006801].desc": {
+      "pl": "na początku tury przywraca 20 HP.",
+      "kr_sha256": "1d6d62abcea0fe9749308b5d72ab8656e6e683d2aaf1ecec89d0609e43046069",
+      "en_sha256": "1581aa9346002f6bc4bf0cb91465ad170b1bbe8494dac2d1323ee5753c45e4cc",
+      "origin": "ai"
+    },
+    "dataList[id=9006801].name": {
+      "pl": "Healing Ampule Injection",
+      "kr_sha256": "212d2e0f1e2ecdd2a570f15e55a9af91e4a1d5beab4880a885a7a67a1fcbf982",
+      "en_sha256": "518812f4f998512a6a2fe718f4da8bf189bff4996ad2c6f5be0c914bfa00beea",
+      "origin": "ai"
+    },
+    "dataList[id=9006802].desc": {
+      "pl": "przy mniej niż 25% HP, przywraca do 40% Maks. HP (maks. 1 raz)",
+      "kr_sha256": "7e75f8b35fd2acf59decfb01fe9e67b7f1273fe7d6eba343c889ed61d70f35fc",
+      "en_sha256": "8ee44243a5682ed611cd55b3542e40166670dc704b636d3266d1d2b33e5f12e4",
+      "origin": "ai"
+    },
+    "dataList[id=9006802].name": {
+      "pl": "Emergency Ampule Administration",
+      "kr_sha256": "3070f925c95c9ce8c41bb282cd8f35787a42f644fd89dd9643efc2f19d9e91f2",
+      "en_sha256": "4e5add148613da6da76d9ff181b1ded6cf7f1e05c11600b72c4ebf2e2ae1d4a8",
+      "origin": "ai"
+    },
+    "dataList[id=9006803].desc": {
+      "pl": "HP nie spada poniżej 1;\njeżeli na początku tury HP wynosi 60 lub mniej, wchodzi w stan wzmocnienia.",
+      "kr_sha256": "aab8a6b79c4b42f960a1762dcaf7d0a3cd346cd35f4fbee800b9c2eae9e5b947",
+      "en_sha256": "aeb221a7c8b83459522d40305195b3239f3c432dc77588f09614e3362e3dcc26",
+      "origin": "ai"
+    },
+    "dataList[id=9006803].name": {
+      "pl": "Emergency Ampule Overdose",
+      "kr_sha256": "8790dc6441e0bf159b1ad614ce183eefc86b6c7a6836aea7864e290dfdd89385",
+      "en_sha256": "a89ff4a5fcfc638d6f554ba56cb0173887454769176987bb05c5af1ea8fc7b65",
+      "origin": "ai"
+    },
+    "dataList[id=9006901].desc": {
+      "pl": "na początku tury przywraca 20 HP.",
+      "kr_sha256": "1d6d62abcea0fe9749308b5d72ab8656e6e683d2aaf1ecec89d0609e43046069",
+      "en_sha256": "1581aa9346002f6bc4bf0cb91465ad170b1bbe8494dac2d1323ee5753c45e4cc",
+      "origin": "ai"
+    },
+    "dataList[id=9006901].name": {
+      "pl": "Healing Ampule Injection",
+      "kr_sha256": "212d2e0f1e2ecdd2a570f15e55a9af91e4a1d5beab4880a885a7a67a1fcbf982",
+      "en_sha256": "518812f4f998512a6a2fe718f4da8bf189bff4996ad2c6f5be0c914bfa00beea",
+      "origin": "ai"
+    },
+    "dataList[id=9006902].desc": {
+      "pl": "przy mniej niż 25% HP, przywraca do 40% Maks. HP (maks. 1 raz)",
+      "kr_sha256": "7e75f8b35fd2acf59decfb01fe9e67b7f1273fe7d6eba343c889ed61d70f35fc",
+      "en_sha256": "8ee44243a5682ed611cd55b3542e40166670dc704b636d3266d1d2b33e5f12e4",
+      "origin": "ai"
+    },
+    "dataList[id=9006902].name": {
+      "pl": "Emergency Ampule Administration",
+      "kr_sha256": "3070f925c95c9ce8c41bb282cd8f35787a42f644fd89dd9643efc2f19d9e91f2",
+      "en_sha256": "4e5add148613da6da76d9ff181b1ded6cf7f1e05c11600b72c4ebf2e2ae1d4a8",
+      "origin": "ai"
+    },
+    "dataList[id=9007001].desc": {
+      "pl": "na koniec tury, jeżeli HP wynosi między 12% a 24%, natychmiast przywraca do 65% Maks. HP i dochodzi do siebie z Oszołamienia. (tylko 1 raz)",
+      "kr_sha256": "a5141edc9195742a66b843b663b558af36702c5456c2b9d214026249b144cdd5",
+      "en_sha256": "5518d1ee32c1077ea54ff48bc06eff0666ff64da1c2dd35b1d001a2f52b3e8fd",
+      "origin": "ai"
+    },
+    "dataList[id=9007001].name": {
+      "pl": "Golden Time",
+      "kr_sha256": "395b4602b213a676728c9a37e44a39747ba23614e4353bec0a6fe379777b18c0",
+      "en_sha256": "242f54ec1a96418ad1600ff385153cf43cbd14d0ab31b4f3f849aeac6c33f70c",
+      "origin": "ai"
+    },
+    "dataList[id=9007002].desc": {
+      "pl": "po uaktywnieniu Golden Time, zyskuje 3 Wrażliwości na koniec tury.",
+      "kr_sha256": "7d50fb7f30e29e0798a9a5f4b59f216fe09150e27fb563bd0f156518ed6100a3",
+      "en_sha256": "e908252b80c47785a9d617ff3d591166b8e63294411e3bed12a2266b4d5b8167",
+      "origin": "ai"
+    },
+    "dataList[id=9007002].name": {
+      "pl": "Time Reversion Retroaction",
+      "kr_sha256": "28ba094342628d7ac6e1abd3e08aca67586907216c7887806c233a846b13c20f",
+      "en_sha256": "cac6e83835dcec8854be5252cd7a02b99ded71ef8c63abfa393092663b2ea09b",
+      "origin": "ai"
+    },
+    "dataList[id=9100301].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, wszyscy jej sojusznicy tracą 45 Poczytalności.",
+      "kr_sha256": "8920231ed28c73aaf6ae88489f8f2d72487a2ccab37fcc64fa30d6103598da1b",
+      "en_sha256": "2e5107fc7cabd4bfe0e8ee66e1367b32abe30851141751ef81b9c7265a0d18c0",
+      "origin": "ai"
+    },
+    "dataList[id=9100301].name": {
+      "pl": "Big Boss",
+      "kr_sha256": "e28b7a9c394ca402d3d8631ca3c161481106f1c7b430d2e963c144c223d82c42",
+      "en_sha256": "40ca839227b72a460cbdae51ce3f535b20f761edeab5f871546cfe8dd51131be",
+      "origin": "ai"
+    },
+    "dataList[id=9100302].desc": {
+      "pl": "ta jednostka traci 15 Poczytalności za każdym razem, gdy zostaje pokonany sojusznik.",
+      "kr_sha256": "2a937fda79d3712e49e8ff29a7e8c5e9ea13d327a579b58fcc9f54018b4c2724",
+      "en_sha256": "0804022e3cd75fcfeb31433f5f76f7b9d980ddf8b8b0a5a2f0709d32a275d14e",
+      "origin": "ai"
+    },
+    "dataList[id=9100302].name": {
+      "pl": "Not Me Boys!",
+      "kr_sha256": "b0f390071114f53112d8650813d12709545f5bdea4be4870f6799d81fb1696a7",
+      "en_sha256": "7c37e287869d00c80eb184d1b819993b4c9f6edd96b79f6e146db472bd113425",
+      "origin": "ai"
+    },
+    "dataList[id=9100401].desc": {
+      "pl": "na początku tury wszyscy sojusznicy przywracają 10 Poczytalności\nprzy 20+ Poczytalności, zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony na początku tury.",
+      "kr_sha256": "a98ce384d2704b797ce9a14a21d7cd6d381534f0e22b409b7b97ee517f91b39e",
+      "en_sha256": "797d108ff81911048772cf2950fca0d27c3af500796e21ea7595fe7f8e0927f3",
+      "origin": "ai"
+    },
+    "dataList[id=9100401].name": {
+      "pl": "Hora de Fiesta",
+      "kr_sha256": "8cdff5edb4779eab693c6bc84617c8a77aa75aaf5570551e995801e27066a8c9",
+      "en_sha256": "1ea65126c6d4a4bd700608791069b9c2216ae524f3e273d6f1226501bbba783f",
+      "origin": "ai"
+    },
+    "dataList[id=9100402].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, wszyscy jej sojusznicy tracą 45 Poczytalności.",
+      "kr_sha256": "8920231ed28c73aaf6ae88489f8f2d72487a2ccab37fcc64fa30d6103598da1b",
+      "en_sha256": "2e5107fc7cabd4bfe0e8ee66e1367b32abe30851141751ef81b9c7265a0d18c0",
+      "origin": "ai"
+    },
+    "dataList[id=9100402].name": {
+      "pl": "Se Acabó la Fiesta",
+      "kr_sha256": "6c61decff3bcdcdb8d069968c695b033f72368223171b848270ec5aadf7516c6",
+      "en_sha256": "a04bf38e36ffde03be74e7c8e5e749102dfd5878d08920985ca28cc1f639a9fd",
+      "origin": "ai"
+    },
+    "dataList[id=9100501].desc": {
+      "pl": "gdy ta jednostka żyje, sojusznicy przywracają 10 Poczytalności na początku tury\ngdy zostaje pokonana, sojusznicy tracą 45 Poczytalności.",
+      "kr_sha256": "81c894db2f1218c1a45bcaad4c6230f94fcbb58fa6516cc2cac751ad84c42982",
+      "en_sha256": "171741ac7a115511fd52dce0108468bf017447c12513d842761767c9031e57f0",
+      "origin": "ai"
+    },
+    "dataList[id=9100501].name": {
+      "pl": "Hammer of the One Who Grips",
+      "kr_sha256": "1302a4ea644711f1302adaa42000cf3ac61e105ad3a2a69ebbd7b62cb4cafabe",
+      "en_sha256": "b1f6e6a3f48446ea7c816de9e90d4a88dc33e818016174bae05b486090f066d6",
+      "origin": "ai"
+    },
+    "dataList[id=9100502].desc": {
+      "pl": "jeżeli ta jednostka ma Fanatyzm, zadaje +50% obrażeń.",
+      "kr_sha256": "6465b942b84e4637e538e16071f34d839a9bf06cf2a6b6f3032eb566f33c314a",
+      "en_sha256": "406c68f2e8b01d83eb69abc6a5fc551a352d3ce17440d8fd9f67d430cc615804",
+      "origin": "ai"
+    },
+    "dataList[id=9100502].name": {
+      "pl": "Thou Shalt Hammer",
+      "kr_sha256": "4ed6b5288282d388af6289ffc8ed158675f93435399c1dbbc1350c769625218f",
+      "en_sha256": "957957bac2831d80e59a5a4d8ae83f16e3b7f9281689966a42d45a6f892c69cf",
+      "origin": "ai"
+    },
+    "dataList[id=9100601].desc": {
+      "pl": "gdy HP spadnie poniżej 50%, w następnej turze usuwa wszystkie negatywne efekty statusowe, a następnie co turę zyskuje 4 Fanatyzmu, 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony.",
+      "kr_sha256": "7c63661f2c04854a1764ae6a9c52904a70795aaf02a20f0a4717f093035746aa",
+      "en_sha256": "c0a5670d71e7955e0000173e4a72270cbcd6c28e2083a33aa9d0ed8fedd4a052",
+      "origin": "ai"
+    },
+    "dataList[id=9100601].name": {
+      "pl": "Persistence",
+      "kr_sha256": "08874b55f09a2d9404455cb63fbed5e3a471a4c19feb048f4e91781d5a94ac04",
+      "en_sha256": "d8e68f610a342f2574480e29f0916f9f7f08314557f557b19defe1bd32a8818d",
+      "origin": "ai"
+    },
+    "dataList[id=9100701].desc": {
+      "pl": "gdy oszołomi jednostkę atakiem, zyskuje 3 Wzrost Obrażeń w następnej turze.",
+      "kr_sha256": "d79d9158b044005fa273a075250f96aef4f540e0ea7d0ef2d5ecc36938a0a70a",
+      "en_sha256": "4c7bd94bc2395ad9351b0b2ed75560264e2af65a2b6bb9d20f4336f357deedb6",
+      "origin": "ai"
+    },
+    "dataList[id=9100701].name": {
+      "pl": "Overheating Attack Function",
+      "kr_sha256": "ad7f58b4d5fd9e760ab36e59973969fd21da607a1ab13f299eb6e839500a8515",
+      "en_sha256": "928f3b08acfd4e693addf1b2911f9361644a466a5cd0ab182c92aec19bea94ef",
+      "origin": "ai"
+    },
+    "dataList[id=9100702].desc": {
+      "pl": "po przejściu w stan Oszołamienia, nakłada o 3 mniej Rozdarcia i Liczników Rozdarcia",
+      "kr_sha256": "9fe309434827c16c50ca75a0dbcf00edebf7342a2ecf376a0ab622e7ae1fc038",
+      "en_sha256": "5bc1255286ea007a073aa1edf3b3945731d41e790d1c03f52d13effa6baaf022",
+      "origin": "ai"
+    },
+    "dataList[id=9100702].name": {
+      "pl": "Breakable Disuniter",
+      "kr_sha256": "16aa088406be25082414ac7e38479bb6fb0e52a5367870b7d5ed73529d1a14ee",
+      "en_sha256": "41c71cc2d982b9879e8920fb6b0a3e63dd204142c93d7913b16005c6ad54f5e3",
+      "origin": "ai"
+    },
+    "dataList[id=9100703].desc": {
+      "pl": "po przejściu w stan Oszołamienia, nakłada o 3 mniej Wstrząsu i Liczników Wstrząsu",
+      "kr_sha256": "a1651a2a990fc63e5cfc564925574bdcab55868096d0ba6998f99c3210f546e1",
+      "en_sha256": "0b81270e4ccdfb831705011ea849020ff617511a1e6a2ae1cec2b83d20cff73f",
+      "origin": "ai"
+    },
+    "dataList[id=9100703].name": {
+      "pl": "Breakable Thumper",
+      "kr_sha256": "b42bfc50738cd91404a8eb716d6d1dfd515a14058a4c3cdb77bbed46d51692d9",
+      "en_sha256": "9ee7df22bc44f207cfb0c75db2037b223f5c09c47ca6cf39e2247517c7f7a166",
+      "origin": "ai"
+    },
+    "dataList[id=9100801].desc": {
+      "pl": "zyskuje Resonant w liczbie równej liczbie monet, które trafiły jako Awers w ciągu tury. (maks. 10)",
+      "kr_sha256": "0e6464afee3489e3cc59712bd00153d233585938759abe8cc1b56994e5fe3881",
+      "en_sha256": "2e006f31edeb56f3e647a64033fbbc95e04ba5097eb513f08edc0e214b2c86be",
+      "origin": "ai"
+    },
+    "dataList[id=9100801].name": {
+      "pl": "Spanner Up",
+      "kr_sha256": "aecb5b8957162c5c470d3f5d574c5f7ec63fd171e1dede049f89b47f62b35327",
+      "en_sha256": "c389b07a8c06ccc654686f9df0940bfd9c9ffc1ec9f1128514f1dd1928d58bb3",
+      "origin": "ai"
+    },
+    "dataList[id=9100802].desc": {
+      "pl": "nakłada o więcej Wstrząsu w zależności od liczby sojuszników, którzy zginęli w tej fali",
+      "kr_sha256": "b5d958adbed65bc27c53a198f24d6000e42afb90b0973a34cc6544bac50834a1",
+      "en_sha256": "6123d25b68cf39bd2c4dd1af22b9d3aee103b5dcabb92f7abd28fa0b25583bb9",
+      "origin": "ai"
+    },
+    "dataList[id=9100802].name": {
+      "pl": "Rosespanner Workshop Rep",
+      "kr_sha256": "296015eb29974efe55323c3f31690001704cddb77e0fdd0528a5717f5bf48bc7",
+      "en_sha256": "61d929cccb0f98b67d9efa57937a86356691ef2f2a50862ddd3c7342bfbed6bc",
+      "origin": "ai"
+    },
+    "dataList[id=9100803].desc": {
+      "pl": "gdy zostanie sam, co turę zyskuje 1 Resonant i 1 Synchronizację Wstrząsu.",
+      "kr_sha256": "8915052b9de9522f9a2cbcea9b8e8221e247194a9e3a1d91d751a3761018dd96",
+      "en_sha256": "96f16048b9cc5655e1ef35ee784c8ed7e7b328591ba3d0c391b23175b3c42b02",
+      "origin": "ai"
+    },
+    "dataList[id=9100803].name": {
+      "pl": "Guess I'm the Last",
+      "kr_sha256": "86f90b3307eb33564260c1fa62be149bd90c0608aff713a6e19046cd6e817e46",
+      "en_sha256": "4b9fc34c93d50c4622c2ab0dc103ae714fbbe775783d32eb2465a8a782aca6ee",
+      "origin": "ai"
+    },
+    "dataList[id=9100804].desc": {
+      "pl": "gdy zostanie sam, oznacza jako cel jednostkę, która ostatnia zaatakowała tę jednostkę, w następnej turze.",
+      "kr_sha256": "fde9409362683a7243611b0856c6c7a41b2667f5037c406dbe2986bdc09bf8d0",
+      "en_sha256": "87ee0517d6fac25c075fd54a91c07532ee5804f6b973ce0331befdd183838d43",
+      "origin": "ai"
+    },
+    "dataList[id=9100804].name": {
+      "pl": "I've Got No Choice",
+      "kr_sha256": "876daa7c342bbc7d02d24853b872f5330c1215afee8acd8d3d40c15b307926bc",
+      "en_sha256": "e39bb60066bee8e9799808dacea932112fa322b1b8e4489d9718f5d927733ba8",
+      "origin": "ai"
+    },
+    "dataList[id=9100901].desc": {
+      "pl": "zyskuje Splątane Talizmany Przekleństwa w liczbie równej liczbie starań przeprowadzonych przez jednostkę w ciągu tury.",
+      "kr_sha256": "628735dd49044592f94a8db2e170b1c172f09f1bf40d2961e5455c396d4a52b8",
+      "en_sha256": "8131f83688a021a9c218c107dec7a540063cb45bee4344d37e89c6d6e7136ef6",
+      "origin": "ai"
+    },
+    "dataList[id=9100901].name": {
+      "pl": "Entangling Curse Talisman",
+      "kr_sha256": "7af620b86140258b015935e35b0db215824b8870e3b2c7f6f1267d935047bf74",
+      "en_sha256": "418fa2a2b222643830d5d507f7ef9b849bcc619dd2be5e48082e7564d801d398",
+      "origin": "ai"
+    },
+    "dataList[id=9100902].desc": {
+      "pl": "przy 10 Splątanych Talizmanach Przekleństwa, podnosi Próg Oszołomienia o 10, a następnie usuwa ten status.",
+      "kr_sha256": "2e3d5a83be678fa13fc0bb86f66dc2757330d9c1b789729a4bfb8b872fa81cb4",
+      "en_sha256": "ea3c4daf6fa4d74e7f20abe9bc9ca4dd831010fa569d0c59b8ed6412572bf8cb",
+      "origin": "ai"
+    },
+    "dataList[id=9100902].name": {
+      "pl": "Strangling Curse Talisman",
+      "kr_sha256": "a65bc24e42f0e137a9dfade8ff450ac42467a08d07267171f3af5a37e338fd4a",
+      "en_sha256": "ec8afc6f89b00c9c6b533b38aad59dd4dcb999aaef2ee0652bba72a862a27618",
+      "origin": "ai"
+    },
+    "dataList[id=9100903].desc": {
+      "pl": "przy 30% HP lub mniej, nakłada o 1 więcej Ponownie Przymocowany Talizman Przekleństwa",
+      "kr_sha256": "9a5884425c0499a995f70eb6e366a44ad8d80400377985eaecd68481f82fd322",
+      "en_sha256": "5c59ce2b55e3d127c23c63ba3ecfa5f95d3a89f8dfc3261acadb681ebc12bd30",
+      "origin": "ai"
+    },
+    "dataList[id=9100903].name": {
+      "pl": "Multiplying Curse Talisman",
+      "kr_sha256": "89b5a1f4738f6c92db77db4cc92a07b6206cd757de9bd004d90d8dd674c236ed",
+      "en_sha256": "f7dda80af5e83ecca59455466983e9878c6d1f5cc3f22f49130c5dbef40040e7",
+      "origin": "ai"
+    },
+    "dataList[id=9100904].desc": {
+      "pl": "przy 30% HP lub mniej, jeżeli po zakończeniu ataku cel ma 5+ Ponownie Przymocowanego Talizmanu Przekleństwa, nakłada 2 Paraliżu w następnej turze.",
+      "kr_sha256": "deb378d36a862db24302ff41f9edb6340a716ebb46d3f5a612da52f299db85b5",
+      "en_sha256": "d283fd8eb15fea610001dd70c47b66e4da7e1cce0147b3453629544c4578073e",
+      "origin": "ai"
+    },
+    "dataList[id=9100904].name": {
+      "pl": "Encroaching Curse Talisman",
+      "kr_sha256": "ba9002253de8f5801ed022b075ced34c6e9b6be1499897fc4bc9ef9b31ef3154",
+      "en_sha256": "bf433f902f034b1681214c0793e6638ade2ce43a9d416b9b3639d1b3fceb703d",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=coupon_InputField].content": {
+      "pl": "Wprowadź kod kuponu tutaj",
+      "kr_sha256": "3c28397748bd2dbec5e2afeda32a503690c6552990648b2d28c04ae9ea39e3c1",
+      "en_sha256": "fe0a5cf7de1d267b378235af911d23de9f8ce5b1d6ede13ab6bceaddff15eac4",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_InputField_block].content": {
+      "pl": "Nie można wprowadzić kodu kuponu",
+      "kr_sha256": "d37576a85c74ef78ed0018d160157b8dc5c0b47148d40bc4975423b7a5020112",
+      "en_sha256": "3308d29bf507d7ccbcb64048e67b7eee3633883af7771f861be5d046b3451486",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_InputField_block_desc].content": {
+      "pl": "Rejestracja wstrzymana do {0}",
+      "kr_sha256": "ab7b9cd4afa7599b029c7a0091efbc20b2e2a0661c26370728c729c4113e497b",
+      "en_sha256": "0f28b700236113d8c007f3589b0834583f1d31ec32b3eb4c4c513e50025bf852",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_popup_desc].content": {
+      "pl": "- Kupony składają się wyłącznie z wielkich liter i cyfr.\n- Ten sam kupon można zarejestrować tylko raz na konto.\n- Kuponu po terminie ważności nie da się zarejestrować.\n- Po wielu nieudanych próbach w krótkim czasie rejestracja kuponów może zostać na jakiś czas zablokowana.",
+      "kr_sha256": "8cef25242ec1f2b95aaa3dc535575b293bc0a355fe78e79ecc0eba1c1d8ccd22",
+      "en_sha256": "1f74e691c0c7340a5ba2f792e053e39f2c7965291af9ff2d14173c24e2b5b559",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_popup_title].content": {
+      "pl": "Wprowadź kod kuponu",
+      "kr_sha256": "cb462eda3882056fc701cbc8e2064b08b2c8fe94cc1d28166388e38d54e02d90",
+      "en_sha256": "57951daa46d860a4ec06b7255c712e81355a3cf9382eb82850fefd0919c50e3f",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_use_failed_2].content": {
+      "pl": "Ten kupon jest nieważny.",
+      "kr_sha256": "d90ff41a32ebff676d3c1c155e219119118558bff59ee9765ab188c901e4d565",
+      "en_sha256": "5fb1872fc1a424e15f64365155e632e7f11e34ef7d78b1be83d3b397cf262a7e",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_use_failed_3].content": {
+      "pl": "Ten kupon jest nieważny.",
+      "kr_sha256": "d90ff41a32ebff676d3c1c155e219119118558bff59ee9765ab188c901e4d565",
+      "en_sha256": "5fb1872fc1a424e15f64365155e632e7f11e34ef7d78b1be83d3b397cf262a7e",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_use_failed_4].content": {
+      "pl": "Ten kupon stracił ważność.",
+      "kr_sha256": "f2ee857325e73540c273e7dd5871e93a454f08ae2e61b9f40485274877ae059d",
+      "en_sha256": "a0b78256a23c676236df5acd498415ebee303053d3171613b8260470fc026651",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_use_failed_5].content": {
+      "pl": "Ten kupon został już wykorzystany.",
+      "kr_sha256": "205e6b43aebcc9a01d2d4ec382ad7dcc94e02542712e456d86feee618e8d4b53",
+      "en_sha256": "84b537cb844d4b2993734abda94a198cedbea48b00ffad92972822013179abe6",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_use_failed_6].content": {
+      "pl": "Ten kupon został już wykorzystany.",
+      "kr_sha256": "205e6b43aebcc9a01d2d4ec382ad7dcc94e02542712e456d86feee618e8d4b53",
+      "en_sha256": "84b537cb844d4b2993734abda94a198cedbea48b00ffad92972822013179abe6",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_use_failed_7].content": {
+      "pl": "Wielokrotne nieudane próby — rejestracja kuponów wstrzymana do {0}.",
+      "kr_sha256": "4fc48643f849535518b0037c83d9b089b1ebace87203b4d748e147289d496e2a",
+      "en_sha256": "f875ee0890613b1f238ef86988feb81c82e24fed21c5435b57ec96414d820b94",
+      "origin": "ai"
+    },
+    "dataList[id=coupon_use_failed_unknown].content": {
+      "pl": "Wystąpił nieznany błąd.",
+      "kr_sha256": "7079d853cfb9f20eba8756bc007bee192b5040a796e492ef9c076c55cfa02118",
+      "en_sha256": "368358f725789effb6d4617cf87c7ede8b4f592b1d76ec0b6a99ea059a0b6745",
+      "origin": "ai"
+    }
+  }
+}

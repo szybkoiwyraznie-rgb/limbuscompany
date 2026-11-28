@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_100].desc": {
+      "pl": "- Gniazdo Dystryktu 19.\n- Wygląda na to, że mają tam… „Króla”…? I ten „Król”, cokolwiek to znaczy, ma „dworzan”.\n- Dobra, według krótkich wyjaśnień zdaje się to być forma rządów. Trochę jak Gniazda i Skrzydła… ale nie do końca takie same. Oczy Don Quixote błyszczały, gdy słuchała, więc jestem prawie pewien, że daleko mu do standardowego systemu rządów.\n- Głębiej zakorzenia mi się świadomość, że każde Gniazdo ma odrębną kulturę i własny sposób rządzenia sobą.\n- Nadal nie mam pojęcia, jaką Osobliwością podpierają swoje Gniazdo.",
+      "kr_sha256": "cfe25d7394ba0f430fd7d62ecc169f2857f50cbe4b50ce8b13745f7be2bed367",
+      "en_sha256": "6678914a789071ba2f1fe0e5f293c87bc52bd1c4c616a50a546687b26668af5b",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_101].desc": {
+      "pl": "- LCCA. Zespół After Team zdaje się mieć o mnie i Grzeszników niskie mniemanie. Patrzy z góry na niemal całość LCB.\n- Chyba myślą, że firma obdarza nas specjalnym traktowaniem albo coś w tym stylu. Myślą, że mamy łatwo? Może powinni spróbować umierać raz za razem, skoro naprawdę uważają nas za pazernią rozpieszczoną gromadkę.\n- …Albo odczuć ból śmierci raz, drugi, trzeci. Bez końca.",
+      "kr_sha256": "69d45bfae88f2bb5adca4c308a1a7532a697001814f4d01ee7571536a9f6929d",
+      "en_sha256": "472eeba1dc228c6253ff51b16f14147e9a3b0bb514d3b4217ca6bc5bc7ccf789",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_102].desc": {
+      "pl": "- Limbus Company Distortion.\n- Wygląda na to, że to departament wyspecjalizowany w zajmowaniu się Wypaczeniami.\n- Ten departament powstał, by rozszerzyć interesy Limbus Company w Mieście.\n- Pracownica LCD imieniem Ezra aktywnie wspierała nas podczas operacji odzysku Monolitu.\n- …Wyobrażam sobie, że tak wyglądałaby Don Quixote, gdyby jej osobowość była odrobinę bardziej… dojrzała.",
+      "kr_sha256": "f8ea23c617e463f3534ad983debb7947798d9ddca4719e1451de5f3e22d149ed",
+      "en_sha256": "979d664772aa24c8ae26caa4f4c9f6c60c6798691e9542e57bd2eb2505e27a91",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_103].desc": {
+      "pl": "- Yi Sang pochodzi z S Corp. Powiedziano mi, że S Corp. zajmuje się znaczną częścią rolnictwa i przemysłem hodowlanym.\n- Członkowie Blade Lineage, z którymi niedawno się zetknęliśmy, również pochodzili z S Corp. Z ich słów wynika, że opuścili Gniazdo z powodu podobnej do Yi Sanga: wewnętrznych tarć i tyranii skorumpowanych.\n- Rzeczy w S Corp. zdają się być niesamowicie chaotyczne… Miejmy nadzieję, że to nie tam zmierzamy następnie.",
+      "kr_sha256": "4041490535cb1059ea7b5008c6e2a9510998fea17ec7995e9ea2d58e91c94f22",
+      "en_sha256": "5575a9c96c1dcaac2850503de65a12c9773e73e1b6e24f34d38733ce7aff0612",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_104].desc": {
+      "pl": "- Saude żyje! To korekta, którą przyjmuję z radością.\n- Podobno dobrze wyzdrowiała po tym, co się stało, i dostała awans na menedżerkę. Wiem, że tamto wydarzenie ciążyło na sercu Sinclaira. Miejmy nadzieję, że to choć trochę rozluźni serce Sinclaira.\n- Zespół Before Team, jak Saude i Pilot, przynajmniej pracował u naszego boku… Ale tamta kobieta z LCCA, Caiman, traktowała nas i LCCB jakbyśmy byli pod nią. Poczułem się potem dość okropnie.",
+      "kr_sha256": "cb494da5236e7209711e06e66a5cde4b950240bd5e6bbd7342114aaf84eba883",
+      "en_sha256": "9232969a34ce084b9c373f36c1506173b4e22c3c39361a6b7cca9b3fe1112d1f",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_105].desc": {
+      "pl": "- Czarna stela, która „wymusza na ludziach Wypaczenie”. Myślę, że Limbus Company nazywa ją wewnętrznie „Monolitem”.\n- Chyba robi coś podobnego do Złotych Gałęzi: wywołuje albo wzmacnia Wypaczenia. Ale w przeciwieństwie do Złotych Gałęzi zdaje się, że tylko do tego się nadaje.\n- Widziałem już wystarczająco dużo Złotych Gałęzi, żeby wiedzieć, że Monolit i Złote Gałęzie różnią się od siebie, mimo pewnych podobieństw.",
+      "kr_sha256": "26510ef54af0c7deec4624b1a3dd7db35c51ed4d87457d0b787e34fc4192df9a",
+      "en_sha256": "3b1585e57b4d99d924f823b38d0786e6838928ceecee8b4150b237e09780d59c",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_106].desc": {
+      "pl": "- Napotkaliśmy istotę, która zdawała się być dojrzalszą wersją Peccatula, jakie spotykaliśmy dotąd.\n- Podobno najwyżsi w Limbus Company próbują klasyfikować je według czegoś w rodzaju „stadiów”.\n- Nie może być przypadkiem, że po tylu spotkaniach z tymi Peccatula dopiero teraz trafiliśmy na Peccatula 2. stadium.",
+      "kr_sha256": "64c32039d8df2153f2476e298f33f3adeae0b41b143ff410299259bc1c9fcf9c",
+      "en_sha256": "5f0e3fa50a2202dde1643a9705cfd62665dd388fff840d7050602f68e86bdf37",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_107].desc": {
+      "pl": "- Złota Gałąź wzmacnia i uwalnia każde uczucie, od najgorętszych emocji po najcieplejsze. Ale Monolit zmusza ludzi do stawienia czoła temu, co kotłuje się w najgłębszej otchłani samego siebie.\n- W przeciwieństwie do Złotej Gałęzi zdaje się jednak mieć jakiś mechanizm wewnętrzny. Jakby to było w rodzaju urządzenia. Sam mechanizm sterowania był tak skomplikowany, że jakakolwiek moja interakcja z nim czuła się jak nawigacja przez labirynt.",
+      "kr_sha256": "9aab462a6b5f3a925d8a90c687f7dbc3ca38fe5598c3891d8abd2431aaa00339",
+      "en_sha256": "89924be129d3f1e1e8231899e1d2f8e9c18beb6c3972c1b5e5a159ef45f9ba76",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_108].desc": {
+      "pl": "- Kolejka jarząca się pomarańczowym światłem. W środku pisze, że to „Linia 3”.\n- Tak jak przewidziałem, każda nowa kolej chyba przychodzi w innym kolorze. Jestem pewien, że następna też będzie inna.\n- Pociąg metra podążał po okrężnej trasie i zatrzymywał się na każdej stacji, którą mijał. Po drodze były stacje wypoczynkowe, więc nie było tak źle jak przy tamtej, którą przeszliśmy w cierpieniu.\n- Znów znaleźliśmy Anomalie, których nigdy wcześniej nie widzieliśmy. Jeśli naprawdę jest tak, jak mówiła Faust… jeśli pociągi metra naprawdę zatrzymują się w świecie Anomalii… to może możemy zajść jeszcze dalej?",
+      "kr_sha256": "3de6ab2eb81a0b4a468b55361b2a09cbcc0dc60f3abfc2f2fa4545e1d64f2a3e",
+      "en_sha256": "265f663fa965c73b64878fe75c89bc9ff45b0563f600016ba664db9592b58a15",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_109].desc": {
+      "pl": "- Grzesznicy naprawdę zdążyli się wzmocnić w trakcie naszej podróży autobusem… ale i Peccatula stały się potężne.\n- Myślałem nad tym i doszedłem do wniosku, że może te nowe typy Peccatula pojawiają się ze względu na Złotą Gałąź. To chyba ma coś wspólnego z tym, że zbieranie Złotych Gałęzi także wzmacnia nasze Tożsamości.\n- Jeśli będziemy zbierać dalej Złote Gałęzie… typy Peccatula także przybędą.\n- Złote Gałęzie, Grzesznicy i… Peccatula. A i w mojej głowie jest Złota Gałąź. Jestem pewien, że wszystkie są ze mną powiązane w jakiś sposób… Nie ma innego sposobu, by na to patrzeć.",
+      "kr_sha256": "27ba85e8244d0c538836244afa8083648c19d6806d40bc33cd2f18aa38e22b01",
+      "en_sha256": "daf4f1ef0269072c5a4eefd96e3977a619efb1b8d7e867b0a5772757a136b4d3",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_110].desc": {
+      "pl": "- Przechodzenie przez Lustrzane Lochy odczuwa się trochę jak brodzenie po abstrakcyjnym oceanie świata… ale Kolej Załamania ma bardziej szczegółowy wygląd, trochę jak korytarz.\n- Tak wiele niewiadomych. Kto zbudował Stacje? Kto wkłada te nagrody do skrzynki Rzeczy Znalezionych? Skąd przybywa ten pociąg metra, który trochę przypomina Mefistofelesa? Jak w ogóle znalazł się na torach metra?",
+      "kr_sha256": "0fd354d2a45f243af1f2bb72a5048df136fcf3e6536be0c6993c08cbe2ae7503",
+      "en_sha256": "b48f347ea9a74bec9286605489ab7b6e44c268ce17625430e7a28d03b2648df5",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_111].desc": {
+      "pl": "- Zdaje się, że w Mieście jest więcej niż jeden sposób, by stać się silniejszym. Protezy i procedury wzmocnień, na przykład.\n- Ale fizycznie silne ciało to nie wszystko, jeśli chodzi o potęgę; doświadczenie bojowe i techniki też mają znaczenie.\n- Biura Fikserów, Stowarzyszenia, Syndykaty… każde ma swój unikatowy sposób walki, który czasem ewoluuje w style szermierki, style sztuk walki, dojo i tym podobne.\n- Heathcliff mówi mi, że niewytrenowane, niedoświadczone ciało wzmocnione operacjami zamienia cię po prostu w nieco solidniejszy worek treningowy. Ryōshū dopowiedziała, że typ procedury, wybór broni i styl sztuk walki też mają znaczenie.",
+      "kr_sha256": "157d1664d788322e9b23c8f6ffaee12f9fecace6ab0860ec16ff9b692c6b44cc",
+      "en_sha256": "ae3ce60abf61dd6c40a357d797818d0c6127217845a69d7a1486cd77f27d96b5",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_112].desc": {
+      "pl": "- Podsłuchałem kilka Tożsamości z dużym doświadczeniem bojowym rozgadujące się… i mówiły, że inwestowanie pieniędzy w ciało poniesie cię tylko tak daleko.\n- Jasne, może uczynić twoje ciało solidniejszym i fizycznie silniejszym, ale potrzebujesz właściwego doświadczenia i treningu, żeby faktycznie użyć tego ciała.\n- Ale Rodya wyjaśniła mi, że choć więcej pieniędzy nie znaczy automatycznie więcej potęgi, powinniśmy być gotowi wyliczyć trochę gotówki, jeśli faktycznie chcemy stać się silniejszymi.",
+      "kr_sha256": "adfda9ceb8a61f7e6563644d20ff8c0ec551bc488fb71ff5c0a4bdfa2af762c8",
+      "en_sha256": "68613280acc573b01da01de43b5d410bb6c7d126e895ada4e22c968e639a51d6",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_113].desc": {
+      "pl": "- Dzięki Heathcliffowi i Don Quixote niedawno, wbrew własnej woli, dowiedziałem się, że na Peryferiach są wsie. Ludzkie wsie, na górę…\n- Nie pamiętam dokładnie kiedy, ale pamiętam, że słyszałem, jak to na Peryferiach są „Potwory” odrębne od Anomalii albo Wypaczeń. Zdaje się, że są one jednak niemal równie zdeterminowane, by zabijać ludzi.",
+      "kr_sha256": "719f1d75a9b4e851ee60e35ba8b80e2339e01b4e2faa08c4421444fb2941e6a2",
+      "en_sha256": "39bb7045c5d9a7ce87464193eaf330c6dfeb64db835f78c51e7adcc24af12956",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_114].desc": {
+      "pl": "- Krasnoludki i Giganci… Inteligentne istoty nieczłowiecze. Definitywnie różniły się od Anomalii.\n- Zatrzymaliśmy się tylko przy fabryce na Peryferiach, więc nie ogarniam, jak naprawdę wygląda reszta „Peryferiów”. Poza tą częścią z Wielkim Jeziorem, to jest. Ale skoro mieli tam na dalekim końcu całą fabrykę… Chyba nawet nie powinienem wiedzieć, czego spodziewać się po miejscu takim jak tam.\n- Sinclair powiedział jednak, że, jak powiedział Demian, to może być przyjemniejsze miejsce, niż myślimy. Ishmael natychmiast zdementowała, że żadne miejsce, choćby piękne i bogate, nie można określić mianem „przyjemnego”, gdy jest wypełnione po brzegi rzeczami pełnymi wyłącznie nienawiści do ludzi.",
+      "kr_sha256": "a6a099c4f7bb941215286b0e4e1aa1348754cf0ca419931a4ee3a695de598085",
+      "en_sha256": "f12ebe9b98673f058d48eac70765e0199329cc4abb63fff5386e8c7d9886f7f4",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_92].desc": {
+      "pl": "- Każda Anomalia zaliczana jest do różnych Poziomów Ryzyka, podzielonych na pięć szczebli.\n- Według krótkiego podręcznika, który dała mi Faust… te pięć szczebli to chyba ZAYIN / TETH / HE / WAW / ALEPH.\n- Zdaje się, że pośmiertne dzienniki obserwacji pisane przez Grzeszników wysyłane są do najwyższych szczebli Limbus Company, a firma używa ich potem do określania Poziomów Ryzyka.\n- Podobno zdarzają się czasy, gdy Poziom Ryzyka niektórych Anomalii był już oceniony, zanim w ogóle złożyliśmy dzienniki obserwacji. (Heathcliff powiedział mi, że gdy w końcu po długim odkładaniu usiadł do dziennika obserwacji, spostrzegł, że już został oznaczony Poziomem Ryzyka.) Skoro te dzienniki są chyba połączone na wprost z centralą Limbus Company, może sprawdzane są dość często?",
+      "kr_sha256": "d4a790661693efa8f7f86ebbdccd6f2539e8a457cdf32b1147df17cbb61b61f1",
+      "en_sha256": "350db17aff0153dd12bc49a456ad62939a25bd20c76dad125a7197e5f400d716",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_93].desc": {
+      "pl": "- Zdaje się to dość oczywiste, ale Poziomy Ryzyka ocenia się na podstawie potencjalnej liczby obrażeń, jaką każda Anomalia może wyrządzić, i trudności stawienia jej czoła w walce. Rozumiem… Przypuszczam, że dlatego kazano Grzesznikom skupiać się w dziennikach obserwacji na szczegółach starcia bojowego i charakterystycznych cechach każdej Anomalii.\n- Hmm, ale pamiętam też, że niektóre Anomalie niższych Poziomów Ryzyka były trudniejsze i bardziej skomplikowane w walce niż Anomalie wyższych Poziomów.\n- Może to Złota Gałąź tłumi siłę Anomalii (zgaduję, że o to chodzi w „Qliphoth Deterrence”)… ale prawdopodobnie po prostu w Poziomach Ryzyka są jakieś błędy.\n- Więc zapytałem Faust o te możliwe błędy, a ona przystąpiła do wyjaśnienia kilku pytań, które miałem co do różnicy między Poziomami Ryzyka Anomalii a faktycznym stopniem trudności, jaki odczuwaliśmy, mierząc się z nimi.\n- Standardy oceniania Poziomów Ryzyka każdej Anomalii podążały za definicjami Poziomów Ryzyka wg Lobotomy Corporation, których następnie LCA używało do ich oceniania. Okazało się, że dane od Lobotomy Corporation nie do końca zgadzały się z naszym doświadczeniem bojowym z Anomaliami w polu.\n- LCA wie o tej rozbieżności. Brzmi na to, że zamierzają ogłosić jakieś nowe standardy, według których ich skategoryzują.\n- Powiedziano mi, że użyją naszych danych bojowych i próbek zebranych przez Limbus Company, by zreorganizować i przekategoryzować Poziomy Ryzyka.",
+      "kr_sha256": "83e82f578b4f16660906bdac55d4be6fd25246496bb790938831e567678d4d12",
+      "en_sha256": "4f6b885b83c9f6e1f5540b3c8340652ada20a5e706ef0b638feceba1d90fe027",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_94].desc": {
+      "pl": "- Grzesznicy i ja… no, „Zespół Autobusu” jest głównie zadany znajdowaniu Złotych Gałęzi, ale Limbus Company stara się budować reputację firmy świadczącej usługi tłumienia, łapania i zapobiegania Wypaczeniom.",
+      "kr_sha256": "56873abf2d4da18947586feec459ddd192c760ab7cbcc246021fdf0b9c802f97",
+      "en_sha256": "8a1c257b6dd769bcef1f56c5859360a1455b19b924740731c405993343c492fb",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_95].desc": {
+      "pl": "- Najbardziej wpływowy departament w Limbus Company.\n- Nie wiem, od jakich słów składa się ten skrót.\n- Może działają w tandemie z LCD przy ważnych misjach dotyczących Wypaczeń albo odzysku Monolitu?\n- Zespół znany jako jednostka operacji specjalnych jest częścią LCA. Wszyscy, których w nim widzieliśmy, byli wysocy, masywni i odziani na czarno.",
+      "kr_sha256": "c0f46c99391514cf7ef5f98a5f3b923569292fef237efc3ce53f829e8d73206b",
+      "en_sha256": "eabe0e188eb016c5bd955b432938d794dc19e827e48c51ded0dfaa81e9e8fed5",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_96].desc": {
+      "pl": "- Zjawisko, w którym człowiek po pewnym wyzwalaczu zamienia się w potworną formę.\n- Jakoś tak wyszło, że w trakcie naszej podróży zmierzyliśmy się kilkakrotnie z ludźmi, którzy przechodzili Wypaczenie… i znalazłem nitkę, która łączy ich wszystkich.\n- Myślę, że ludzie przechodzą Wypaczenie, gdy zostają dopchnięci do krawędzi załamania emocjonalnego.\n- Mam tylko jedno pytanie. Z tego, co widziałem w Mieście, jestem całkiem pewien, że dosłownie niezliczone osoby tam na zewnątrz są dopchnięte do swoich emocjonalnych skrajności. Czemu więc nie widzimy więcej Wypaczeń?\n- Może jest drugorzędny wyzwalacz, drugorzędny warunek poza dopchnięciem do granic emocji.",
+      "kr_sha256": "1f7c697737f8d7fbf6e661a80df246e1c4ae52c61ae88b1c22ab6275c15c918f",
+      "en_sha256": "f2035102461a77b545ba1491b7b5738e72a581b250f417560f30f5367d0f509b",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_97].desc": {
+      "pl": "- Promieniują podobną energią do Wypaczeń, ale tym istotom brakuje wielu charakterystycznych cech między nimi. Przynajmniej między tymi samymi typami.\n- Dotąd potwierdziliśmy sześć typów Peccatulum. Yi Sang mówi, że są jeszcze bliższe bestiom niż Wypaczenia.\n- Yi Sang mówi, że porównując Peccatula do Wypaczeń na przykładach, jakie do tej pory spotkaliśmy, Peccatula wykazały znacznie wyższe poziomy agresywności i wrogości niż Wypaczenia.",
+      "kr_sha256": "96f402a56c5f84a11bafd032222d0156bc3977e14cb234ce50cd6e60a0b56c75",
+      "en_sha256": "8870152de1d5bc27cc71b852e19e892af94aed34f62d750de54e2eabfe3b464d",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_98].desc": {
+      "pl": "- Najwyżsi w Limbus Company do tej pory klasyfikowali Wypaczenia według tych samych Poziomów Ryzyka, jakimi oceniają Anomalie. Ale z tym nowym ogłoszeniem o korektach i przebudowie Poziomów Ryzyka Anomalii postanowili klasyfikować Wypaczenia innym systemem.\n- Wygląda na to, że uznali za największą różnicę między Wypaczeniami a Anomaliami to, że Wypaczenia można zabić na stałe. Zastanawiając się nad tym, Anomalie zawsze powracały do kształtu podobnego do jajka, gdy je pokonywaliśmy.",
+      "kr_sha256": "0a6c0b3abde6cf8771e351e6d0e8cef6ca1f44f3d0d831328c7bf16b602922f9",
+      "en_sha256": "4348765aac27b384e4f0c5c02618cbe76247786fe47bacbb2487a734424bce79",
+      "origin": "ai"
+    },
+    "dataList[id=DanteNoteDetail_99].desc": {
+      "pl": "- Nie wiem, czy to zasługa Złotej Gałęzi w mojej głowie, ale jakimś cudem potrafię odróżnić Anomalie od Wypaczeń samymi uczuciami, które promieniują. Tak jak Anomalie i Wypaczenia są dziwnie podobne, a jednak różne od siebie, tak Peccatula zdają się być dziwnie podobne, a jednak różne od Wypaczeń.\n- Sinclair to usłyszał i zadumał się, że skoro czują się podobnie, a jednak różnie… to może oba pochodzą z tego samego źródła, a to, co nie zdołało stać się Wypaczeniem, staje się jednym z Peccatula.\n- Tak, to ma dla mnie sens. To, co nie stało się Wypaczeniem, staje się Peccatulum… to zdaje się najbardziej prawdopodobny domysł, dopóki nie pojawi się coś nowego.\n\n- Oceny Poziomu Ryzyka i numery seryjne każdego Peccatulum też przechodzą przeróbkę. Chyba dzięki tym nowym Peccatula, które widzieliśmy w budynku Yong-jin.\n- Faust dodała, że nasze spotkanie z nowymi istotami i potrzeba, by firma klasyfikowała Anomalie, Wypaczenia i Peccatula oddzielnie, to co wywołało przebudowę systemu klasyfikacji firmy. Tak, to w zasadzie dokładnie to, o czym myślałem.",
+      "kr_sha256": "ccdfa3abb7c8a1e91538a2e0f6fe8a886dc61295a8e18b9c920974628ed8e75d",
+      "en_sha256": "d9da4c4fc97dd8ee20657aa708c81c2d15ef8a235061fc2df6762e25a3e4b86e",
+      "origin": "ai"
+    }
+  }
+}

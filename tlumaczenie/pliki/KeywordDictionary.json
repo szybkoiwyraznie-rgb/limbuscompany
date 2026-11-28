@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=Gcorp].desc": {
+      "pl": "To Korp. G.",
+      "kr_sha256": "44cd4ccd6d66d303cd429184dc11c1a53bdc7e433f3e0f61b4a074625df3e9e0",
+      "en_sha256": "e437c4486a418d997cac989f9bc2d2bdcce546c49b156b0b88761df9f60a97dd",
+      "origin": "ai"
+    },
+    "dataList[id=Gcorp].name": {
+      "pl": "Korp. G",
+      "kr_sha256": "450b69f03c396aa8fac9de7e49da2d6f3d1960a048e9b6824cf5d3aa6b99a74f",
+      "en_sha256": "0bf41f4353e5011eb95053093374a61d8698c35a46e5d0532990777dc26bffa0",
+      "origin": "ai"
+    },
+    "dataList[id=body].desc": {
+      "pl": "Określenie ciała człowieka lub zwierzęcia po śmierci",
+      "kr_sha256": "1ad712648a9bc591c53ed76bd47c2ebc13816c6b7b37d6925f24f63ff4bd3ea3",
+      "en_sha256": "3c8438eacb0bdf3df6d59a380789316a5bca27e1009fb72156c4de512fac427c",
+      "origin": "ai"
+    },
+    "dataList[id=body].name": {
+      "pl": "Trup",
+      "kr_sha256": "c414eb0615c92f03daf2c96c4ad72b9598672c62c97165a5aa58002184f28268",
+      "en_sha256": "f48889357806eadf93e3d63916610106af87e65c8cf76238ad0d5ca251eaf29b",
+      "origin": "ai"
+    }
+  }
+}

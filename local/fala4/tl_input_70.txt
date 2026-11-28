@@ -1,0 +1,96 @@
+6773||EGOvoice#Voice_EGO_Common_998.json] 기회의 찰나를 유예하겠소…!|Defer I shall, this glimpse of an opportunity...!
+6774||EGOvoice#Voice_EGO_Common_998.json] 특색 나리를 보좌할 절호의 기회! 가자아! 로시난테!!!|'Tis our chance to serve as a squire to the Color Fixer!\nLet us sally forth, Rocinante!!!
+6775||EGOvoice#Voice_EGO_Common_998.json] 속박했습니다. 짧지만 전투의 효율을 낮출 것입니다, 관리자 님.|I have bound the enemy, Manager. This maneuver will,\nalbeit briefly, reduce their combat effectiveness.
+6776||EGOvoice#Voice_EGO_Common_998.json] 지옥의 불구덩이도, 씻어낸다면 결국 사그러지기 마련이죠.|A coursing river will wash away even the fires of hell.
+6777||EGOvoice#Voice_EGO_Common_998.json] 이것으로 마무리 짓겠습니다, 관리자 님. 영거리 격발!|I'll put an end to this here, Executive Manager.\nPoint-blank fire!
+6778||EGOvoice#Voice_EGO_DonQuixote_3.json] E.G.O 발동|E.G.O Activation
+6779||EGOvoice#Voice_EGO_DonQuixote_3.json] 달려라 로시난테! 정의는 승리한다!|Gallop on, Rocinante! Justice shall prevail!
+6780||EGOvoice#Voice_EGO_DonQuixote_3.json] 달리자 로시난테! 꿈에 닿을 때까지 몇 번이고!|Onward, Rocinante! Again and again, until the dream is within our grasp!
+6781||EGOvoice#Voice_EGO_DonQuixote_3.json] 이것도 받아보시게나!|Have at thee to boot!
+6782||EGOvoice#Voice_EGO_DonQuixote_3.json] 하! 전부 지져버리겠네!!!|Ho! I shall electrocute them all!!!
+6783||EGOvoice#Voice_EGO_DonQuixote_3.json] 이보게!!!!!! 수프 한 입 하고 가시게!!!!|Salutations!!!!!! I implore thee to try this soup!!!!
+6784||EGOvoice#Voice_EGO_DonQuixote_3.json] 자아, 빌어보세! 이 돌이 기꺼이 그대에게 가서 맞기를!|Now, let us make our wishes!\nI wish for this rock to smite thee true and willing!
+6785||EGOvoice#Voice_EGO_DonQuixote_3.json] 그대에게 보이는 이 전기 불꽃은… 무슨 색을 띄고 있는가!|What color do thine eyes behold in this electric spark?!
+6786||EGOvoice#Voice_EGO_DonQuixote_3.json] 그저 하염없이 모든 피를 머금고… 그래…! 그렇게 황홀히 피어나고, 피어나고, 피어나라!|Steeped in the blood of all... yes...!\nBlossom in euphoria, blossom! Oh, blossom!
+6787||EGOvoice#Voice_EGO_DonQuixote_3.json] 후훗! 이 수많은 소원들 중… 그대가 이루고 싶은 소원은 무엇인가!|Heheh! Thou art quite full of wishes... Which of them dost thou desire to see come true?!
+6788||EGOvoice#Voice_EGO_DonQuixote_3.json] 정의보다도 푸른 자여, 사랑보다 붉은 자여|Heed me, thou that art more azure than justice and more crimson than love…
+6789||EGOvoice#Voice_EGO_DonQuixote_3.json] 운명 속에 파묻힌 그대의 이름을 걸고|In the name of those buried in destiny…
+6790||EGOvoice#Voice_EGO_DonQuixote_3.json] 나 여기서 빛에 맹세한다|I shall make this oath to the light.
+6791||EGOvoice#Voice_EGO_DonQuixote_3.json] 우리 앞을 막는 증오스런 존재들에게|Mark the hateful beings who stand before us…
+6792||EGOvoice#Voice_EGO_DonQuixote_3.json] 나와 그대의 힘을 합쳐 위대한 사랑의 힘을 보여줄 것을…|Let your strength merge with mine,\nso that we may deliver the power of love to all…
+6793||EGOvoice#Voice_EGO_DonQuixote_3.json] 그대의 패배! 규칙은 규칙이니… 자, 그 팔 이리 내시게!|Thou hast lost! Now, rules are rules... Thus forfeit thine arm anon!
+6795||EGOvoice#Voice_EGO_DonQuixote_3.json] …으스러뜨려.|…Crush them.
+6796||EGOvoice#Voice_EGO_DonQuixote_3.json] 에웨엑… 머, 먹고가…|Ewerrgh… H—Have a soupçon…
+6797||EGOvoice#Voice_EGO_DonQuixote_3.json] 간절하게… 빌게나… 그렇지 않으면… 화를 입을테니…|Thou must wish... with all thy heart... Lest misfortune... befall thee...
+6798||EGOvoice#Voice_EGO_DonQuixote_3.json] 내게서 더 이상… 빼앗아가지 말아줘…|Please stop... stop taking things away from me...
+6799||EGOvoice#Voice_EGO_DonQuixote_3.json] 우리의 목마름을 너희는 몰라! 너희의 피라도 한껏 머금고… 더… 더 붉게 피어날 거야!|You do not know of our thirst! I'll take your blood if I must...\nand... and blossom... its crimson ever more profound!
+6800||EGOvoice#Voice_EGO_DonQuixote_3.json] 후우… 소망, 욕망, 그 모든 번뇌를 부수고…! 그대를 해방하겠네!|Hooh... hopes, desires, all of these afflictions shall be broken...! And I shall liberate thee from their yoke!
+6801||EGOvoice#Voice_EGO_DonQuixote_3.json] 내 앞을 막는 증오스러운 존재여…|To those hateful beings that stand before my path…
+6802||EGOvoice#Voice_EGO_DonQuixote_3.json] 큭… 선도, 악도 아닌 사라져야 마땅할 것이여…|Nngh... beings that are neither good nor evil,\nbeings that deserve to be purged...
+6803||EGOvoice#Voice_EGO_DonQuixote_3.json] 위대한 사랑의 힘을…|I shall show them the great power of love…
+6804||EGOvoice#Voice_EGO_DonQuixote_3.json] 하. 이런 게 무슨 소용이야.|Hah. None of this matters.
+6805||EGOvoice#Voice_EGO_DonQuixote_3.json] 누군가는 악당이 되어야 하는 거야. 그게 너고.|Someone has to fill the role of a villain. And that's you.
+6806||EGOvoice#Voice_EGO_DonQuixote_3.json] 난 선택받았어… 너희랑은 달라, 다르다고!!!|I am the chosen one… I’m not like you… I’m different!!!
+6807||EGOvoice#Voice_EGO_DonQuixote_3.json] 친구다! 친구가 왔어! 자, 여기… 가, 가위를 꺼낼테니까…! 뭘 낼래?!|A friend! A friend is here!\nLook, I'm... I'm gonna play scissors, what will you play?
+6808||EGOvoice#Voice_EGO_Enemy_999.json] 가시질 않는 의문들이 있다. 하지만… 누군가에게 질문을 던져선 안 돼.|
+6809||EGOvoice#Voice_EGO_Enemy_999.json] 이제 그만 달리는 걸 멈추렴.|You can stop galloping onward, now.
+6810||EGOvoice#Voice_EGO_Enemy_999.json] 이 연약한 자들과 무슨 모험을 떠나겠다는 거니.|What adventure could you possibly embark on, with such frail souls?
+6811||EGOvoice#Voice_EGO_Enemy_999.json] 꿈에 닿을 수 없더라도…|No matter how impossible it may be...
+6812||EGOvoice#Voice_EGO_Enemy_999.json] 닿을 때까지…|Until I reach that dream...
+6813||EGOvoice#Voice_EGO_Enemy_999.json] 저는 달려 나가겠습니…|I'll keep pushing to the—
+6814||EGOvoice#Voice_EGO_Enemy_999.json] 아니… 이 몸은 끝까지 달려나가겠소!!|Nay... I shall gallop ever-onward, unbroken, unrelenting to the end!!
+6815||EGOvoice#Voice_EGO_Enemy_999.json] 근디 요시히데야…|But... Yoshihide...
+6816||EGOvoice#Voice_EGO_Enemy_999.json] 이길라믄 그 칼을 싸게싸게 뽑았어야제!|...Ya darn sure oughta've unsheathed that sword if ya really wanted to win!
+6817||EGOvoice#Voice_EGO_Enemy_999.json] 나를 여기까지 몬 것도 징한 일이다.|I'll be frank, y'all. Real impressed that you even pushed me this far.
+6818||EGOvoice#Voice_EGO_Enemy_999.json] 영광으로 여기거라. 이 환의 힘을 목도하는 것은 너희가 처음이니.|Be honored in my presence, for you... \n... are the first to witness the power of this Bolus.
+6819||EGOvoice#Voice_EGO_Enemy_999.json] 애타게 기다렸고|Anxiously I have awaited
+6820||EGOvoice#Voice_EGO_Enemy_999.json] 절실히 기대했으며|Desperately I have hoped
+6821||EGOvoice#Voice_EGO_Enemy_999.json] 헤아릴 수 없이 원망했으니|Beyond all reckoning, I have blamed
+6822||EGOvoice#Voice_EGO_Enemy_999.json] 이 순간조차, 베어내리라.|And so, this moment, too...\nshall be severed.
+6825||EGOvoice#Voice_EGO_Enemy_999.json] 즐거움|Joy
+6827||EGOvoice#Voice_EGO_Enemy_999.json] 내 이름은… 키호테!|My name... is Quixote!
+6828||EGOvoice#Voice_EGO_Enemy_999.json] 돈키호테! 이 창으로, 그 허황되고 유치한 꿈을… 끝내겠다!|I, Don Quixote, declare upon my honor:\nthis lance shall end that hollow, juvenile dream!
+6829||EGOvoice#Voice_EGO_Enemy_999.json] 이 창으로 곪아 썩은 나태한 꿈을 끝내겠습니다!|And I, Sancho, declare upon my honor:\nthis lance shall end that festering, slothful dream!
+6830||EGOvoice#Voice_EGO_Enemy_999.json] 내 이름은 산초!|My name is Sancho!
+6831||EGOvoice#Voice_EGO_Enemy_999.json] 전원,|Complete and total...
+6832||EGOvoice#Voice_EGO_Enemy_999.json] 처형이다!|Extermination!
+6833||EGOvoice#Voice_EGO_Enemy_999.json] 스킬 발동|Skill Activation
+6834||EGOvoice#Voice_EGO_Enemy_999.json] 아니, 너는 더 고통스러워야 해!|No, you must suffer more!
+6835||EGOvoice#Voice_EGO_Enemy_999.json] 우리는 숨을 쉴 자격조차 없지.|We do not even deserve to breathe this air.
+6836||EGOvoice#Voice_EGO_Enemy_999.json] 눈을 감아라, 비참하게.|Embrace this wretched death.
+6837||EGOvoice#Voice_EGO_Enemy_999.json] 어디에 있지...? 내게로 와, 캐서린!|Where are you...? Come to my embrace, Catherine!
+6838||EGOvoice#Voice_EGO_Enemy_999.json] 히스클리프!|Heathcliff!
+6839||EGOvoice#Voice_EGO_Enemy_999.json] 어딘가에... 네 목소리가 들려. 아아 제발...|Where... where are... I can hear your voice. Oh, please...
+6840||EGOvoice#Voice_EGO_Enemy_999.json] 부디 고통 속에서 깨어나길, 나의 캐서린.|May you wake in torment, my dear Catherine.
+6841||EGOvoice#Voice_EGO_Enemy_999.json] 부탁이야, 캐서린. 차라리 내 앞에 나타나서... 나를 찢어놓아줘.\n나는 네 눈을 보면서 죽어갈테니.|Please, Catherine. Appear before me and tear me asunder.\nLet me see your eyes as I expire.
+6842||EGOvoice#Voice_EGO_Enemy_999.json] 역겹군.|How revolting.
+6843||EGOvoice#Voice_EGO_Enemy_999.json] 우리에게 안식은 없다.|No repose shall await us.
+6844||EGOvoice#Voice_EGO_Enemy_999.json] 파멸의 순간이지.|The moment of ruin is nigh.
+6845||EGOvoice#Voice_EGO_Enemy_999.json] 모두가 고통의 밑바닥 속에서 몸부림치기를!|Let all writhe in the deepest chasm of suffering!
+6846||EGOvoice#Voice_EGO_Enemy_999.json] 나는 호수를 몬다… 이 도시를 몬다…\n나는 이것의 심장을 움켜쥐어 악의 뿌리를 끊어낼 것이니…!|I am the Captain of this Lake... of the City...\nI shall seize this beast's heart and sever the evil from its roots!
+6847||EGOvoice#Voice_EGO_Enemy_999.json] 길이 보이지 않을 때, 어디로 어떻게 나아가야 할지 모를 때…|When you lose sight of your path,\nwhen you no longer know which road to take...
+6848||EGOvoice#Voice_EGO_Enemy_999.json] 그래서 길잡이가 있는 겁니다,|The guide shall show you the way,
+6851||EGOvoice#Voice_EGO_Enemy_999.json] 엄호해라!|Cover me!
+6853||EGOvoice#Voice_EGO_Enemy_999.json] 자, 막아내라!|Defend me now!
+6854||EGOvoice#Voice_EGO_Enemy_999.json] 페이즈 시작|Phase Start
+6855||EGOvoice#Voice_EGO_Enemy_999.json] 자, 너를 깎아 내라!|Now, carve yourself in my stead!
+6856||EGOvoice#Voice_EGO_Enemy_999.json] 때가 왔다, 선원들이여!|The time is finally upon us, my dear crew!
+6857||EGOvoice#Voice_EGO_Enemy_999.json] 그래, 내 심장을 부수고… 내 머리에 구멍을 뚫어라, 이스마엘…!|Yes... Break my heart open and impale my skull, Ishmael!
+6858||EGOvoice#Voice_EGO_Enemy_999.json] 에이해브는 영원히, 에이해브다…!|Once an Ahab... shall be Ahab evermore...!
+6859||EGOvoice#Voice_EGO_Faust_2.json] 모든 결과들은 파우스트가 알아요.|Faust knows all outcomes.
+6860||EGOvoice#Voice_EGO_Faust_2.json] 이 전투는 승리할거예요.|This battle will conclude with victory.
+6861||EGOvoice#Voice_EGO_Faust_2.json] 가슴 가장 깊은 곳까지… 박히도록…|Pierce… to the profundities of the heart…
+6862||EGOvoice#Voice_EGO_Faust_2.json] 낙뢰 충전, 최대치예요.|Lightning: Fully charged.
+6863||EGOvoice#Voice_EGO_Faust_2.json] 기록은 끝났습니다. 남은 건… 그대를 자유케 하는 것.|It is now written. All that remains... is to set you free.
+6864||EGOvoice#Voice_EGO_Faust_2.json] 당신에겐 제가 어떻게 보일까요. 시간의 태엽 안에, 그 답이 있을까요?|How does it appear, my form in your eyes?\nPerhaps within the clockwork of time the answer lies?
+6865||EGOvoice#Voice_EGO_Faust_2.json] 이미 정해진 이야기를 따라. 이치에 맞게 사로잡히시길.|Follow the predetermined path of the tale.\nBe ensnared, for that is only right.
+6866||EGOvoice#Voice_EGO_Faust_2.json] 처음으로 숨통이 트였던 순간을 기억하나요. 저는… 지금이군요.|Do you recall the moment when you could breathe free for the first time?\nFor me... that moment is now.
+6867||EGOvoice#Voice_EGO_Faust_2.json] 아득한 여정. 멈추지 않는 시대에서 희망과 미래를 찾아. 스스로 답을 구하시길.|In this long journey, in times of restlessness,\nsearch for hope and a future. Find your own answer.
+6868||EGOvoice#Voice_EGO_Faust_2.json] 불꽃으로 수놓은 이 별무리 속에 데려다 드릴 수는 없어도… 끌어안아 별빛으로 만들어드릴 수는 있답니다.|I may not be able to guide you into this flame-broidered starcloud...\nBut in my embrace, you may yet be made into a glint of starlight.
+6869||EGOvoice#Voice_EGO_Faust_2.json] 불꽃으로 수놓은 이 별무리 속에 데려다 드릴 수는 없어도…|I may not be able to guide you into this flame-broidered starcloud...
+6870||EGOvoice#Voice_EGO_Faust_2.json] 끌어안아 별빛으로 만들어드릴 수는 있답니다.|But in my embrace, you may yet be made into a glint of starlight.
+6871||EGOvoice#Voice_EGO_Faust_2.json] 겨눠진 불운은 기어코 쫓아오기 마련이기에. 사람은 사라져, 오직 잿빛만 남으리.|Misfortune, once it takes aim,\nis destined to return with a bite.\nThus man has become null, leaving only the ashen behind.
+6872||EGOvoice#Voice_EGO_Faust_2.json] 겨눠진 불운은 기어코 쫓아오기 마련이기에. 사람은 사라져,|Misfortune, once it takes aim,\nis destined to return with a bite.\nThus man has become null,
+6873||EGOvoice#Voice_EGO_Faust_2.json] 오직 잿빛만 남으리.|leaving only the ashen behind.
+6875||EGOvoice#Voice_EGO_Faust_2.json] 모든 것을 토해내더라도…|Even if I must disgorge everything…
+6876||EGOvoice#Voice_EGO_Faust_2.json] 이리와… 꽉 안아줄게…|Come here… I’ll hug you tight…

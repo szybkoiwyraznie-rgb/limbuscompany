@@ -1,0 +1,119 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Pozwolą państwo, że objaśnię plan.",
+      "kr_sha256": "9b067068942f73f4b4a007fd2566060675c0f778a6bd16c4536cb8e3d089558d",
+      "en_sha256": "cc12d29c90803b173aff32886e203aa3c34433ad6853428d9468738d4c40fbe1"
+    },
+    "dataList[id=10].content": {
+      "pl": "Dlatego tym razem przeprowadzimy operację wspólną.",
+      "kr_sha256": "d183bf5a66eead91ca80c8603a9fdffbdb87813d28c28e0d39f61271e9964eb0",
+      "en_sha256": "b082d3bbb306f03322884a6237d0f47019f7c47b60a7ee546add94921a3162df"
+    },
+    "dataList[id=11].content": {
+      "pl": "<Wspólną?>",
+      "kr_sha256": "395eac1777df4a96fc79b9cc50d7fdf2574b108c8d5fcde3fb0b0e48845e17f9",
+      "en_sha256": "66bf722fdb4dde04fd165d482b777e8de974ffd9e067da04eb36cb9d38270fbb"
+    },
+    "dataList[id=12].content": {
+      "pl": "Z jednostką specjalną Limbus Company, złożoną z ludzi bardziej fachowych i doświadczonych od nas…",
+      "kr_sha256": "f3696d40d898cbd6e61a555a9b126f7968824df0207d891c06256ed9d0b76566",
+      "en_sha256": "1d3048a4b32459c9b817a9aa3ecdc6a07a2c355cf0a6c2705feab46ca2c718c2"
+    },
+    "dataList[id=13].content": {
+      "pl": "Obecnie nazywa się ich chyba LCC, Działem Sprzątania. Przynajmniej w operacjach infiltracyjnych przewyższają nas bez wątpienia.",
+      "kr_sha256": "f754602ac93d649c1935aba2f52f7920dbfb86a38a15177e8d3de3292c172a63",
+      "en_sha256": "2d9122cec89a62ca930e9f92c61586600bfa4b681b5f5fc56c9a1243ece793e8"
+    },
+    "dataList[id=14].content": {
+      "pl": "Jak dla mnie już teraz jest nas aż nadto.",
+      "kr_sha256": "f74228c51b1eda7bff25909429f4a304ef3670cb58bb4cbb396776b4790f99c5",
+      "en_sha256": "43b97a319e24aec12f1b2922e68441d4bcf7e80ccb455fea20783ed9982a901f"
+    },
+    "dataList[id=15].content": {
+      "pl": "Widać na górze w końcu zrozumieli, że liczba to nie wszystko.",
+      "kr_sha256": "5b9150c6211ae221fbf75bec74de935d5a927cf256a33f431f06df7bdb167a22",
+      "en_sha256": "4949d6c44f51ece5722f7f5408ab0766c5289234767444b04095ded4648aaa55"
+    },
+    "dataList[id=16].content": {
+      "pl": "Och! Pierwszy raz zobaczę kogoś z innego działu! Gdzie oni są?",
+      "kr_sha256": "82d076427cddd5f69ac4dd21e6da08723fe43fa1bcb4d1e62f159f79d0cc2821",
+      "en_sha256": "d0679f15fa387b6c2e27561ddb33995bae4511fa866739c166e6c64dbe41d831"
+    },
+    "dataList[id=17].content": {
+      "pl": "Hong Lu rozglądał się wokoło, jakby Faust miała ich zaraz przyprowadzić i przedstawić.",
+      "kr_sha256": "04ff5182f8e9b04aac7659e97eae4186934206876e00e65cdc6d31da5eeb80f0",
+      "en_sha256": "62a1df2007c7f3d8cb326b779c0071211ddc5c380eb63c14db07b7a4621dedb2"
+    },
+    "dataList[id=18].content": {
+      "pl": "…Rzecz jasna, choć rozglądał się długo, nikt się nie zjawił.",
+      "kr_sha256": "f93447d187d43ae5cfdd221311b3e2b6c092c201cf97790f8457372bed972c74",
+      "en_sha256": "e159846780e4bb91213713853366132ad5114edb167e0fd554ff2f4228db49d7"
+    },
+    "dataList[id=19].content": {
+      "pl": "Idziemy do lombardu.",
+      "kr_sha256": "6135092d33e0d83922c38c008162d6ebe219189b10966279749484cbb114cc1f",
+      "en_sha256": "86a251f443aa6e4e301c480e2242f3f78523181746ff03c9831bbf6c95faa76b"
+    },
+    "dataList[id=1].content": {
+      "pl": "Aby dotrzeć do Złotej Gałęzi, musimy przede wszystkim niepostrzeżenie przeniknąć do kasyna, wszyscy co do jednego.",
+      "kr_sha256": "028a461c78b14063af1b07737ca967e477072c63f830c125bc799e18eb9d8308",
+      "en_sha256": "b394ddc68bc89a59f4a3b687a5083da7d7df9d06f9f1c1b5c3fdf4f89fe3593b"
+    },
+    "dataList[id=20].content": {
+      "pl": "To jeszcze są takie interesy?",
+      "kr_sha256": "186b7175613b960b8a8bef728064b8b475ab1dab5f65157770119a838d1434a6",
+      "en_sha256": "88fbcd00ac92b93ba23fae3d234680291af2c069446fe097f2e5e4cff16aa5e6"
+    },
+    "dataList[id=21].content": {
+      "pl": "Ta okolica nazywana jest wręcz Ulicą Lombardów, bo prawie każdy sklep prowadzi tu przy okazji lombard.",
+      "kr_sha256": "2e2404af5a960821abe963e338e050205f4b8d0e6b11b8c2f74e610c42e03b18",
+      "en_sha256": "04b2793d9d05677496f68d79ed6fe200e143d82666d56e4866d5e3a8e10c7ff0"
+    },
+    "dataList[id=22].content": {
+      "pl": "Tamten sklep to punkt zbiórki. Wchodzimy.",
+      "kr_sha256": "45a0bc418ac990f0bc1c57fe8097afa61d9b272b80b9e0aa68b87b4ce1c47f10",
+      "en_sha256": "313160a4751ee75f829ce6215c6a5bc213abae1e7884a167dedac5cba2ce28c6"
+    },
+    "dataList[id=2].content": {
+      "pl": "Według zdobytych przez nas informacji kasyno ma trzy wejścia.",
+      "kr_sha256": "b675e1b6d55d39a7b92d2ba10c412072ff0435162d3a5ec8283322bf58951b6b",
+      "en_sha256": "cbc0fb122eaa651baed922031dc5e656468d2fcdf644d19ef739f2540de2cf10"
+    },
+    "dataList[id=3].content": {
+      "pl": "Drzwi dla zwykłych gości, osobne przejście wyłącznie dla VIP-ów i wreszcie tylne drzwi dla personelu.",
+      "kr_sha256": "7b06bbfc67d864bb3b002550cba16d2d2071899619cd8f20fcf3ba344b68218b",
+      "en_sha256": "6b1152d419ccc37e75e0440bf533a8973e1e0f7c0fa55eacb957aad24ed707c7"
+    },
+    "dataList[id=4].content": {
+      "pl": "Przy każdym wejściu jedna grupa… Czworo przebierze się za krupierów, czworo za zwykłych gości, a czworo za gości VIP; rozdzielimy się i wejdziemy osobno.",
+      "kr_sha256": "7b02faf56e58429ac4d0c6d892de04da1a5160b6e4abbe779d00f96accd9b4df",
+      "en_sha256": "f5a067d58221af8b6e25422e34a8fa6f072fa729d04b789796429def3925d6b2"
+    },
+    "dataList[id=5].content": {
+      "pl": "Słusznie. Im większa grupa, tym bardziej rzuca się w oczy.",
+      "kr_sha256": "601b590b4e0c5f08d0ff827affbc10d77b4c799f3d2760e41405bd892759710f",
+      "en_sha256": "eadd275f5918317219736f6e871e29b8523750fa4b1bb04a80b8e2f019f0fdb9"
+    },
+    "dataList[id=6].content": {
+      "pl": "Rozejść się - stosowniejsze to, niźli chodzić gromadą.",
+      "kr_sha256": "bded23d2f55d142467b4db7116d03af83a6557d0ea509380389a1a4db8f960c5",
+      "en_sha256": "7af194073927a996a8987429a5210639a9a66b7d2e1f1034119d9871ddcb3199"
+    },
+    "dataList[id=7].content": {
+      "pl": "Kto jaką rolę odegra, znajdą państwo w rozdanych kopertach.",
+      "kr_sha256": "f3b4419fe407063209faba1af3d054bf1e9a915e6b1f92e6c55bc176262d0a06",
+      "en_sha256": "d1254419c311ef3e7cac4b43d54f01cac4569b2b715d305064921337e50c2154"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ponadto, gdyby i tym razem nie udało nam się odbić Złotej Gałęzi,",
+      "kr_sha256": "9baf4a712e586fe135bf6914287f11cd7c437a88e47cf1cc58dfe14888f8ab20",
+      "en_sha256": "71f77dbd8341d160fb29b18fdd624fd8f0307998f6a5bef65c8758a382a96743"
+    },
+    "dataList[id=9].content": {
+      "pl": "zarząd obawia się, że dalsze plany firmy poważnie na tym ucierpią.",
+      "kr_sha256": "902a863f42446698e4bcca205544117de3cd0b85265613e87904f89edd6c731b",
+      "en_sha256": "643788b0ac92b56f7b062bf726ab61b16bb602b1d85aeb078be83345cdccd6ea"
+    }
+  }
+}

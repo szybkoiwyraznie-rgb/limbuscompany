@@ -1,0 +1,1882 @@
+{
+  "entries": {
+    "dataList[id=100001].name": {
+      "pl": "In Hell We Live, Lament (inst)",
+      "kr_sha256": "bab2baaf9a0b14cbe68c3a93eb1876eea6416dbb0e96b5324a5bc93d431e5a32",
+      "en_sha256": "bab2baaf9a0b14cbe68c3a93eb1876eea6416dbb0e96b5324a5bc93d431e5a32",
+      "origin": "ai"
+    },
+    "dataList[id=100002].name": {
+      "pl": "Window",
+      "kr_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+      "en_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+      "origin": "ai"
+    },
+    "dataList[id=100003].name": {
+      "pl": "Extract",
+      "kr_sha256": "c15301c0e6470e212900d9ac191be58d753a8aab44a51720610ed916886da522",
+      "en_sha256": "c15301c0e6470e212900d9ac191be58d753a8aab44a51720610ed916886da522",
+      "origin": "ai"
+    },
+    "dataList[id=100004].name": {
+      "pl": "Battle Victory",
+      "kr_sha256": "dc632a7e7925d996b2edf07413347e0c98726924727e95b83f7c93f3c783eb2e",
+      "en_sha256": "dc632a7e7925d996b2edf07413347e0c98726924727e95b83f7c93f3c783eb2e",
+      "origin": "ai"
+    },
+    "dataList[id=100005].name": {
+      "pl": "In Hell We Live, Lament",
+      "kr_sha256": "b63d49461a67143507564e86e26bde756f88f6b19e7a02c258112a2f60726352",
+      "en_sha256": "b63d49461a67143507564e86e26bde756f88f6b19e7a02c258112a2f60726352",
+      "origin": "ai"
+    },
+    "dataList[id=100006].name": {
+      "pl": "In Hell We Live, Lament (Long Ver)",
+      "kr_sha256": "b715c598e286f7a1ec94c218ce7d7cd83b2b06c460294ffe277f779a92e1600d",
+      "en_sha256": "f67eec8cffcaaa1cdfffadf5fdcf4600e03f9e2e0dc4b67315fd81483aea107f",
+      "origin": "ai"
+    },
+    "dataList[id=200001].name": {
+      "pl": "Backstreet",
+      "kr_sha256": "f77c0bd450aa46928edd66274719d620ddbdbc31492e05c9ef650db1f5176719",
+      "en_sha256": "f77c0bd450aa46928edd66274719d620ddbdbc31492e05c9ef650db1f5176719",
+      "origin": "ai"
+    },
+    "dataList[id=200002].name": {
+      "pl": "Bus Inside",
+      "kr_sha256": "32fd80e82ef515d330d9cb780b1f1ebda6ea8ee945659e52f3e11510f67e9e71",
+      "en_sha256": "32fd80e82ef515d330d9cb780b1f1ebda6ea8ee945659e52f3e11510f67e9e71",
+      "origin": "ai"
+    },
+    "dataList[id=200003].name": {
+      "pl": "Happy",
+      "kr_sha256": "725accb5a8e46d19bc3f3a7636d0860a85470fa450be7f0f6a8c7572756765fd",
+      "en_sha256": "725accb5a8e46d19bc3f3a7636d0860a85470fa450be7f0f6a8c7572756765fd",
+      "origin": "ai"
+    },
+    "dataList[id=200004].name": {
+      "pl": "Daily",
+      "kr_sha256": "b36c2611dcdfa190ede846948d9aba8f39581de0177cbd98586506019f979b75",
+      "en_sha256": "b36c2611dcdfa190ede846948d9aba8f39581de0177cbd98586506019f979b75",
+      "origin": "ai"
+    },
+    "dataList[id=200005].name": {
+      "pl": "Depressed",
+      "kr_sha256": "10f6a0661c5cac0159f75f7678b7ada0ae1af70fdffe7c9e2d87a45e5405fb2e",
+      "en_sha256": "10f6a0661c5cac0159f75f7678b7ada0ae1af70fdffe7c9e2d87a45e5405fb2e",
+      "origin": "ai"
+    },
+    "dataList[id=200006].name": {
+      "pl": "Nervous",
+      "kr_sha256": "d9bf93e0219933dbfc814129549663a8a245085c4a6d186f08827fe61e1a261d",
+      "en_sha256": "d9bf93e0219933dbfc814129549663a8a245085c4a6d186f08827fe61e1a261d",
+      "origin": "ai"
+    },
+    "dataList[id=200007].name": {
+      "pl": "Serious",
+      "kr_sha256": "c173da2c2a4d4ca2930d8c094826016bd697cebeed949fe20eadf033f6b16037",
+      "en_sha256": "c173da2c2a4d4ca2930d8c094826016bd697cebeed949fe20eadf033f6b16037",
+      "origin": "ai"
+    },
+    "dataList[id=200008].name": {
+      "pl": "Sarajinae (Pass On) - ver. Gregor",
+      "kr_sha256": "e3197600317959a6e871b9cdb4fc7d4327fba5ce708b7e32e33d570b36ad1348",
+      "en_sha256": "25dd1049f0061bcdaf438ce5ebc6e81b444cbe6d5afe8e527fed8ea0478531ad",
+      "origin": "ai"
+    },
+    "dataList[id=200009].name": {
+      "pl": "Anxiety",
+      "kr_sha256": "7806c4ea4cdc269ec9bef57b3d8967ae6a4dcf4ba20017db416fbaab45412b66",
+      "en_sha256": "7806c4ea4cdc269ec9bef57b3d8967ae6a4dcf4ba20017db416fbaab45412b66",
+      "origin": "ai"
+    },
+    "dataList[id=200010].name": {
+      "pl": "War",
+      "kr_sha256": "be8816dbd8b8aa53557ba5f25f5295b1ce2cf829d42d9256024b0698e7654f0d",
+      "en_sha256": "be8816dbd8b8aa53557ba5f25f5295b1ce2cf829d42d9256024b0698e7654f0d",
+      "origin": "ai"
+    },
+    "dataList[id=200011].name": {
+      "pl": "Canto I Battle 01",
+      "kr_sha256": "704c4a2331c92db68ae88db4dc4b820748b6e106f209570cd21cda640d7d2061",
+      "en_sha256": "704c4a2331c92db68ae88db4dc4b820748b6e106f209570cd21cda640d7d2061",
+      "origin": "ai"
+    },
+    "dataList[id=200012].name": {
+      "pl": "Canto I Battle 02",
+      "kr_sha256": "e0c69c6905b68f7bacb8c6b730248dab95304d4970667388e6188ac48b2cb06e",
+      "en_sha256": "e0c69c6905b68f7bacb8c6b730248dab95304d4970667388e6188ac48b2cb06e",
+      "origin": "ai"
+    },
+    "dataList[id=200013].name": {
+      "pl": "Canto I Battle 03",
+      "kr_sha256": "32f02de69d492afc9093f45819b43b5feb65421b46c4d607357a0f836cccfe2f",
+      "en_sha256": "32f02de69d492afc9093f45819b43b5feb65421b46c4d607357a0f836cccfe2f",
+      "origin": "ai"
+    },
+    "dataList[id=200014].name": {
+      "pl": "Canto I Battle 04",
+      "kr_sha256": "15546ef7efdf09c402df1088fe35758cc61b0f036308de998728789082201611",
+      "en_sha256": "15546ef7efdf09c402df1088fe35758cc61b0f036308de998728789082201611",
+      "origin": "ai"
+    },
+    "dataList[id=200015].name": {
+      "pl": "Canto I Battle 05",
+      "kr_sha256": "17b915aa596dbd009d968ad4b21766ed639da774654a10d2d3b7bc7243155dea",
+      "en_sha256": "17b915aa596dbd009d968ad4b21766ed639da774654a10d2d3b7bc7243155dea",
+      "origin": "ai"
+    },
+    "dataList[id=200016].name": {
+      "pl": "Canto I Battle 06",
+      "kr_sha256": "e7711e9bf18a4288d71693efed6093a2f220a60bc60273057d8730daed5d00c5",
+      "en_sha256": "e7711e9bf18a4288d71693efed6093a2f220a60bc60273057d8730daed5d00c5",
+      "origin": "ai"
+    },
+    "dataList[id=200017].name": {
+      "pl": "Sarajinae (Pass On) - ver. Rodion",
+      "kr_sha256": "b1d23dec8062ee562abbb73d7a13fb326ef915da3b0d981b99bfc34be36a809b",
+      "en_sha256": "dd03667bb831eea1fdb3cfd38427ecc738883c71983e7a9e6cfca8ff04a8395e",
+      "origin": "ai"
+    },
+    "dataList[id=200018].name": {
+      "pl": "Casino 01",
+      "kr_sha256": "075787692aa7364596e8b0fe0a77c0ad8aa146fd690d4b0faefe59e5bad719c3",
+      "en_sha256": "075787692aa7364596e8b0fe0a77c0ad8aa146fd690d4b0faefe59e5bad719c3",
+      "origin": "ai"
+    },
+    "dataList[id=200019].name": {
+      "pl": "Casino 02",
+      "kr_sha256": "a1376af736548764ed01d9dea6f1ca7f4729812b0f8c26510aa03dd264009798",
+      "en_sha256": "a1376af736548764ed01d9dea6f1ca7f4729812b0f8c26510aa03dd264009798",
+      "origin": "ai"
+    },
+    "dataList[id=200020].name": {
+      "pl": "Sin",
+      "kr_sha256": "0250af7e407935dfe0bad31ccfbdada09761d80fbe9be2428610c402776eca6c",
+      "en_sha256": "0250af7e407935dfe0bad31ccfbdada09761d80fbe9be2428610c402776eca6c",
+      "origin": "ai"
+    },
+    "dataList[id=200021].name": {
+      "pl": "Canto II Battle 01",
+      "kr_sha256": "b35bb21bba5a8fdf780bd98354615fb65d9b0d6453eb2cf249ff8800820cfd3d",
+      "en_sha256": "b35bb21bba5a8fdf780bd98354615fb65d9b0d6453eb2cf249ff8800820cfd3d",
+      "origin": "ai"
+    },
+    "dataList[id=200022].name": {
+      "pl": "Canto II Battle 02",
+      "kr_sha256": "dcbc11b3a7eb45d12b57db163c45bd6134a3710db982c269792a9045815ae076",
+      "en_sha256": "dcbc11b3a7eb45d12b57db163c45bd6134a3710db982c269792a9045815ae076",
+      "origin": "ai"
+    },
+    "dataList[id=200023].name": {
+      "pl": "Canto II Battle 03",
+      "kr_sha256": "a25c847a2be93447fd589a4be6dede3138f3890742552ddb78058b95c83fd8b8",
+      "en_sha256": "a25c847a2be93447fd589a4be6dede3138f3890742552ddb78058b95c83fd8b8",
+      "origin": "ai"
+    },
+    "dataList[id=200024].name": {
+      "pl": "Canto II Battle 04",
+      "kr_sha256": "340c2806a3b8f97fe803f6d14a6c08f1246eae2f0b9431611c8faafed48465db",
+      "en_sha256": "340c2806a3b8f97fe803f6d14a6c08f1246eae2f0b9431611c8faafed48465db",
+      "origin": "ai"
+    },
+    "dataList[id=200025].name": {
+      "pl": "Canto II Battle 05",
+      "kr_sha256": "994a77d521daa6b3cb6d89662e164de6563d01096fdb161cb21bc354c7230919",
+      "en_sha256": "994a77d521daa6b3cb6d89662e164de6563d01096fdb161cb21bc354c7230919",
+      "origin": "ai"
+    },
+    "dataList[id=200026].name": {
+      "pl": "Canto II Battle 06",
+      "kr_sha256": "56353bab13934ad3c84b80184de1ae4c1d5267cfa234c8b64e74bc779b9c5b11",
+      "en_sha256": "56353bab13934ad3c84b80184de1ae4c1d5267cfa234c8b64e74bc779b9c5b11",
+      "origin": "ai"
+    },
+    "dataList[id=200027].name": {
+      "pl": "Canto II Battle 07",
+      "kr_sha256": "a3158dcce94d25fc07cb190d48f74bde3082a7e379f7e2fb8f329668e392ac8c",
+      "en_sha256": "a3158dcce94d25fc07cb190d48f74bde3082a7e379f7e2fb8f329668e392ac8c",
+      "origin": "ai"
+    },
+    "dataList[id=200028].name": {
+      "pl": "Between Two Worlds",
+      "kr_sha256": "fe80511f40a2b48599c20702eebd67be5744e5242dfd4ec2bd2637587e59c9c7",
+      "en_sha256": "fe80511f40a2b48599c20702eebd67be5744e5242dfd4ec2bd2637587e59c9c7",
+      "origin": "ai"
+    },
+    "dataList[id=200029].name": {
+      "pl": "Sarajinae (Pass On) - ver. Sinclair",
+      "kr_sha256": "5ddfb0e32670445f35652579885ce7a06eb4fc3ba1afaf3ab6be818adf54d8a6",
+      "en_sha256": "f9d52b4881b4b71dfeee79fe3d185fbe1f2927ca1823b960ea1e9a5b0ac2f04d",
+      "origin": "ai"
+    },
+    "dataList[id=200030].name": {
+      "pl": "Examiner",
+      "kr_sha256": "ecaca9264b3a2aeab18b04a116c013ebbe2c53a2a6e729e0c818d975d2655e8f",
+      "en_sha256": "ecaca9264b3a2aeab18b04a116c013ebbe2c53a2a6e729e0c818d975d2655e8f",
+      "origin": "ai"
+    },
+    "dataList[id=200031].name": {
+      "pl": "Sinclair's Recollection 01",
+      "kr_sha256": "41eef671068012844f7c48ed58bedc4e0fd160fc8d3dc5aa75f76fe911c802ae",
+      "en_sha256": "41eef671068012844f7c48ed58bedc4e0fd160fc8d3dc5aa75f76fe911c802ae",
+      "origin": "ai"
+    },
+    "dataList[id=200032].name": {
+      "pl": "Sinclair's Recollection 02",
+      "kr_sha256": "2d78229310241fd30a5af1777f9e79f65b44967638e8d68f71dac69c0c53ec1c",
+      "en_sha256": "2d78229310241fd30a5af1777f9e79f65b44967638e8d68f71dac69c0c53ec1c",
+      "origin": "ai"
+    },
+    "dataList[id=200033].name": {
+      "pl": "Sinclair's hometown",
+      "kr_sha256": "d8e9afed7c43576097be8195426477c24ea173bb66299f3dbf55027a9508e02b",
+      "en_sha256": "a8e80bfcd1e41cd422d470e4ac29eedf01368dc510756fde3e37047d666bb3ee",
+      "origin": "ai"
+    },
+    "dataList[id=200034].name": {
+      "pl": "Canto III Battle 01",
+      "kr_sha256": "7bab5da4718892fc00bf29b7ebac97bafdebe7810baee38cf258a5b188713d14",
+      "en_sha256": "7bab5da4718892fc00bf29b7ebac97bafdebe7810baee38cf258a5b188713d14",
+      "origin": "ai"
+    },
+    "dataList[id=200035].name": {
+      "pl": "Canto III Battle 02",
+      "kr_sha256": "1af7cda4c860278b13598a73d980f1d46f198797a01a4101f89f243394817828",
+      "en_sha256": "1af7cda4c860278b13598a73d980f1d46f198797a01a4101f89f243394817828",
+      "origin": "ai"
+    },
+    "dataList[id=200036].name": {
+      "pl": "Canto III Battle 03",
+      "kr_sha256": "dff7d5817069e9fbec8d690a4f199b1d38f7d711c4a0d605328a82b24c12f2b5",
+      "en_sha256": "dff7d5817069e9fbec8d690a4f199b1d38f7d711c4a0d605328a82b24c12f2b5",
+      "origin": "ai"
+    },
+    "dataList[id=200037].name": {
+      "pl": "Canto III Battle 04",
+      "kr_sha256": "cf941a4cbb7e9f3c826d2904db99f1dd5482ffe323c419c8af87303d1397ee66",
+      "en_sha256": "cf941a4cbb7e9f3c826d2904db99f1dd5482ffe323c419c8af87303d1397ee66",
+      "origin": "ai"
+    },
+    "dataList[id=200038].name": {
+      "pl": "Canto III Battle 05",
+      "kr_sha256": "c194632f2c9b977b94138f7047d24004af11c362d670a11a2f31a235ac34e400",
+      "en_sha256": "c194632f2c9b977b94138f7047d24004af11c362d670a11a2f31a235ac34e400",
+      "origin": "ai"
+    },
+    "dataList[id=200039].name": {
+      "pl": "Canto III Battle 06",
+      "kr_sha256": "d44f57b585e92a2a9e515cb534c80e71dc3f77951833925ef9ad220293e5f548",
+      "en_sha256": "d44f57b585e92a2a9e515cb534c80e71dc3f77951833925ef9ad220293e5f548",
+      "origin": "ai"
+    },
+    "dataList[id=200040].name": {
+      "pl": "Canto III Battle 07",
+      "kr_sha256": "9201f366a3db0d182aad839235fb86fdf640f31958b7e763ed6fbda2c0c5d111",
+      "en_sha256": "9201f366a3db0d182aad839235fb86fdf640f31958b7e763ed6fbda2c0c5d111",
+      "origin": "ai"
+    },
+    "dataList[id=200042].name": {
+      "pl": "Eunbong’s Bar & Fryers",
+      "kr_sha256": "25a694520425e4eccc7d2180418da5e9c144e71864bd7f8721e84953d1f4bc5e",
+      "en_sha256": "25a694520425e4eccc7d2180418da5e9c144e71864bd7f8721e84953d1f4bc5e",
+      "origin": "ai"
+    },
+    "dataList[id=200043].name": {
+      "pl": "Hell's Chicken",
+      "kr_sha256": "c1fc0b633108c3c9cf396b0c65d9fc696aecdb7139851cd1b12ece1babdfb808",
+      "en_sha256": "c1fc0b633108c3c9cf396b0c65d9fc696aecdb7139851cd1b12ece1babdfb808",
+      "origin": "ai"
+    },
+    "dataList[id=200044].name": {
+      "pl": "Hell's Chicken Battle 01",
+      "kr_sha256": "2082c05bdd13211833eb9cb7bc4cfd73ffae457bed7840f0299dcd45de425d59",
+      "en_sha256": "2082c05bdd13211833eb9cb7bc4cfd73ffae457bed7840f0299dcd45de425d59",
+      "origin": "ai"
+    },
+    "dataList[id=200045].name": {
+      "pl": "Hell's Chicken Battle 02",
+      "kr_sha256": "c567e18699907be4ea2dc93062b36f6ed130e2b24a7335db2549a16f622eff0a",
+      "en_sha256": "c567e18699907be4ea2dc93062b36f6ed130e2b24a7335db2549a16f622eff0a",
+      "origin": "ai"
+    },
+    "dataList[id=200046].name": {
+      "pl": "Budda",
+      "kr_sha256": "7a939fb6d4a6f37d884e00caae762995106aaf807aed920c53e68aa0b5a56fba",
+      "en_sha256": "7a939fb6d4a6f37d884e00caae762995106aaf807aed920c53e68aa0b5a56fba",
+      "origin": "ai"
+    },
+    "dataList[id=200047].name": {
+      "pl": "Fly, My Wings",
+      "kr_sha256": "2a961e40588fd4dda6a54172d8b939553cb3ce47add4c885cfb6f770d92696aa",
+      "en_sha256": "2a961e40588fd4dda6a54172d8b939553cb3ce47add4c885cfb6f770d92696aa",
+      "origin": "ai"
+    },
+    "dataList[id=200048].name": {
+      "pl": "Sarajinae (Pass On) - ver. Yi Sang",
+      "kr_sha256": "c31b1dff6a068242e160352fec52df9e410c871ee6b2ece6ac8c11ee8b96a1db",
+      "en_sha256": "ba36ff106c3a6cf3d85262b7388c41eae40959e6e4d3a0016db0949d988dd7ca",
+      "origin": "ai"
+    },
+    "dataList[id=200049].name": {
+      "pl": "K Corp's Lab",
+      "kr_sha256": "ad8c7b3dacd7501194ccee808f502feaf5f72bf18189e89b22a95ab0fc73df19",
+      "en_sha256": "ad8c7b3dacd7501194ccee808f502feaf5f72bf18189e89b22a95ab0fc73df19",
+      "origin": "ai"
+    },
+    "dataList[id=200050].name": {
+      "pl": "Abnormal Science",
+      "kr_sha256": "edfea475ff68c3914a820340730415b8259129a342e5e3fae27a729ee5fc6478",
+      "en_sha256": "edfea475ff68c3914a820340730415b8259129a342e5e3fae27a729ee5fc6478",
+      "origin": "ai"
+    },
+    "dataList[id=200051].name": {
+      "pl": "Dongbaek",
+      "kr_sha256": "6a101a37ecbf086e2a334b3512ce308cdbe434819ccd027f0213f5096bc2781c",
+      "en_sha256": "6a101a37ecbf086e2a334b3512ce308cdbe434819ccd027f0213f5096bc2781c",
+      "origin": "ai"
+    },
+    "dataList[id=200052].name": {
+      "pl": "Destroyed Lab",
+      "kr_sha256": "4f9c60bc23d2efbe7b6fc147933384a920fb22670f09b27692c3d94cf6803f8a",
+      "en_sha256": "4f9c60bc23d2efbe7b6fc147933384a920fb22670f09b27692c3d94cf6803f8a",
+      "origin": "ai"
+    },
+    "dataList[id=200053].name": {
+      "pl": "League of Nine Littérateurs - Spring",
+      "kr_sha256": "43ba1bca6d5b3a73806f473c826cfd25cb7c3c17929094602170af5ddca0c3a6",
+      "en_sha256": "43ba1bca6d5b3a73806f473c826cfd25cb7c3c17929094602170af5ddca0c3a6",
+      "origin": "ai"
+    },
+    "dataList[id=200054].name": {
+      "pl": "League of Nine Littérateurs - Summer",
+      "kr_sha256": "93e26a17c0722b63e4f17c7b95bbb0b21ed5e554437ec87e318d3c21220b6975",
+      "en_sha256": "93e26a17c0722b63e4f17c7b95bbb0b21ed5e554437ec87e318d3c21220b6975",
+      "origin": "ai"
+    },
+    "dataList[id=200055].name": {
+      "pl": "League of Nine Littérateurs - Autumn",
+      "kr_sha256": "30254bf8892f6bcfd143eeb57b5cec128dc9262c1eaf497fc6c79e7707d0d69a",
+      "en_sha256": "30254bf8892f6bcfd143eeb57b5cec128dc9262c1eaf497fc6c79e7707d0d69a",
+      "origin": "ai"
+    },
+    "dataList[id=200056].name": {
+      "pl": "Tearful Thing",
+      "kr_sha256": "cfeea7d6842bdc32344d5ee947f7d20a600dec458cb2f59920bf947ddf736ab9",
+      "en_sha256": "cfeea7d6842bdc32344d5ee947f7d20a600dec458cb2f59920bf947ddf736ab9",
+      "origin": "ai"
+    },
+    "dataList[id=200057].name": {
+      "pl": "Reminiscence",
+      "kr_sha256": "450262d1a43bc34b053c09df1f5852337a559ef69cd87457035081f8f6cd9fb3",
+      "en_sha256": "450262d1a43bc34b053c09df1f5852337a559ef69cd87457035081f8f6cd9fb3",
+      "origin": "ai"
+    },
+    "dataList[id=200058].name": {
+      "pl": "Cry For My Dream",
+      "kr_sha256": "cba2c87de012842a7c28f455090be9606594abe4175ba181e26287d574334396",
+      "en_sha256": "cba2c87de012842a7c28f455090be9606594abe4175ba181e26287d574334396",
+      "origin": "ai"
+    },
+    "dataList[id=200059].name": {
+      "pl": "We'd Lost Our Winter",
+      "kr_sha256": "037fa1b909bc1bc31ed7d270255295de897e9b4403224919213c577075f6fcef",
+      "en_sha256": "037fa1b909bc1bc31ed7d270255295de897e9b4403224919213c577075f6fcef",
+      "origin": "ai"
+    },
+    "dataList[id=200060].name": {
+      "pl": "What Are You Thinking",
+      "kr_sha256": "f460bcbaafa3bf5c2349a321929ac1ece1ccb202572322f4bb97ae2b0a0fac67",
+      "en_sha256": "f460bcbaafa3bf5c2349a321929ac1ece1ccb202572322f4bb97ae2b0a0fac67",
+      "origin": "ai"
+    },
+    "dataList[id=200061].name": {
+      "pl": "Canto IV Battle 01",
+      "kr_sha256": "aff9321bfee78e2f7d99d91c8a9e455075b155cec40573a8d29b8c66da948b75",
+      "en_sha256": "aff9321bfee78e2f7d99d91c8a9e455075b155cec40573a8d29b8c66da948b75",
+      "origin": "ai"
+    },
+    "dataList[id=200062].name": {
+      "pl": "Canto IV Battle 02",
+      "kr_sha256": "e57a6c83c0314d9a332f752ae54974572b73c476bb8f4a798c55f7e093b217c3",
+      "en_sha256": "e57a6c83c0314d9a332f752ae54974572b73c476bb8f4a798c55f7e093b217c3",
+      "origin": "ai"
+    },
+    "dataList[id=200063].name": {
+      "pl": "Canto IV Battle 03",
+      "kr_sha256": "dd0ccec973fc8056826828de6f560eaa6cb6b2993069a51a646d3d11418af9a3",
+      "en_sha256": "dd0ccec973fc8056826828de6f560eaa6cb6b2993069a51a646d3d11418af9a3",
+      "origin": "ai"
+    },
+    "dataList[id=200064].name": {
+      "pl": "Canto IV Battle 04",
+      "kr_sha256": "e723c626cf3ef3a20be216e9b34082296eda861ddbe0b6b2de0dd50c820615ad",
+      "en_sha256": "e723c626cf3ef3a20be216e9b34082296eda861ddbe0b6b2de0dd50c820615ad",
+      "origin": "ai"
+    },
+    "dataList[id=200065].name": {
+      "pl": "Canto IV Battle 05",
+      "kr_sha256": "a4999539f68e4a0ea9f4d2c1c86ca1a6737a485efdf8ccb7466c9bd92bab8bd4",
+      "en_sha256": "a4999539f68e4a0ea9f4d2c1c86ca1a6737a485efdf8ccb7466c9bd92bab8bd4",
+      "origin": "ai"
+    },
+    "dataList[id=200066].name": {
+      "pl": "Canto IV Battle 06",
+      "kr_sha256": "5059aa49580e08cf93dd3a324877ecd3f59543032a5f0791e2418ecce51b3a2b",
+      "en_sha256": "5059aa49580e08cf93dd3a324877ecd3f59543032a5f0791e2418ecce51b3a2b",
+      "origin": "ai"
+    },
+    "dataList[id=200067].name": {
+      "pl": "Canto IV Battle 07",
+      "kr_sha256": "182a639cd88e161306299ec3979034e4ae5a762244d390318e71b4b1ed84f6d4",
+      "en_sha256": "182a639cd88e161306299ec3979034e4ae5a762244d390318e71b4b1ed84f6d4",
+      "origin": "ai"
+    },
+    "dataList[id=200068].name": {
+      "pl": "Canto IV Battle 08",
+      "kr_sha256": "73d9aebac2399c5cb5d61c5f320a967bff52395ca180dc62461202cbc3415ea7",
+      "en_sha256": "73d9aebac2399c5cb5d61c5f320a967bff52395ca180dc62461202cbc3415ea7",
+      "origin": "ai"
+    },
+    "dataList[id=200069].name": {
+      "pl": "Canto IV Battle 09",
+      "kr_sha256": "5b3f900198bef12a997e062717fd58d66e948f726ce6b8543a653ee3f6fd0ce7",
+      "en_sha256": "5b3f900198bef12a997e062717fd58d66e948f726ce6b8543a653ee3f6fd0ce7",
+      "origin": "ai"
+    },
+    "dataList[id=200070].name": {
+      "pl": "Canto IV Battle 10",
+      "kr_sha256": "da4af914a4b92c50fbe1657b39db2862fd7e51d613533cdcb73e45f8eecd8645",
+      "en_sha256": "da4af914a4b92c50fbe1657b39db2862fd7e51d613533cdcb73e45f8eecd8645",
+      "origin": "ai"
+    },
+    "dataList[id=200071].name": {
+      "pl": "Canto IV Battle 11",
+      "kr_sha256": "dfb5caceed94bfd76f3df12de610720fb795139f76b35efc9a0ef6b04ee63b57",
+      "en_sha256": "dfb5caceed94bfd76f3df12de610720fb795139f76b35efc9a0ef6b04ee63b57",
+      "origin": "ai"
+    },
+    "dataList[id=200072].name": {
+      "pl": "Canto IV Battle 12",
+      "kr_sha256": "6da805f58b0142acbc16681efde0f00621840614590714b58123fde91d8f641a",
+      "en_sha256": "6da805f58b0142acbc16681efde0f00621840614590714b58123fde91d8f641a",
+      "origin": "ai"
+    },
+    "dataList[id=200073].name": {
+      "pl": "Canto IV Battle 13",
+      "kr_sha256": "b7244af9564006521aac820bd2b252ec185483fec1c19755490e7fa8dc7d5742",
+      "en_sha256": "b7244af9564006521aac820bd2b252ec185483fec1c19755490e7fa8dc7d5742",
+      "origin": "ai"
+    },
+    "dataList[id=200074].name": {
+      "pl": "Canto IV Battle 14",
+      "kr_sha256": "628e801d2cdb1986d2e2fa0f5bb3f5f13c42419c5ee158e0b24fd97d79d9b77e",
+      "en_sha256": "628e801d2cdb1986d2e2fa0f5bb3f5f13c42419c5ee158e0b24fd97d79d9b77e",
+      "origin": "ai"
+    },
+    "dataList[id=200075].name": {
+      "pl": "Oh Crab, So Crab",
+      "kr_sha256": "c8988414723bbbd3e582b461ca9629ebfae356654661f983401fa449f20dd1fb",
+      "en_sha256": "c8988414723bbbd3e582b461ca9629ebfae356654661f983401fa449f20dd1fb",
+      "origin": "ai"
+    },
+    "dataList[id=200076].name": {
+      "pl": "Summer Splash",
+      "kr_sha256": "ff5e814031e907b9c5e85e71a27dd6245345193440571ca09eefe41ba0768c63",
+      "en_sha256": "ff5e814031e907b9c5e85e71a27dd6245345193440571ca09eefe41ba0768c63",
+      "origin": "ai"
+    },
+    "dataList[id=200077].name": {
+      "pl": "S.E.A.",
+      "kr_sha256": "d2b3207ad16d682a9feb240ad96e01ea3166764cf1dc8564f79777257af832a0",
+      "en_sha256": "d2b3207ad16d682a9feb240ad96e01ea3166764cf1dc8564f79777257af832a0",
+      "origin": "ai"
+    },
+    "dataList[id=200078].name": {
+      "pl": "S.E.A. Battle 01",
+      "kr_sha256": "a4acc52bdf61d7d9ffb328daab34326bea453c93cd86c7aa82c98c272c1efbf0",
+      "en_sha256": "a4acc52bdf61d7d9ffb328daab34326bea453c93cd86c7aa82c98c272c1efbf0",
+      "origin": "ai"
+    },
+    "dataList[id=200079].name": {
+      "pl": "S.E.A. Battle 02",
+      "kr_sha256": "4612d1a6a2286949c75f14d7c1dec19fcf49f2198dfa8e602ea4718d6ff3167f",
+      "en_sha256": "4612d1a6a2286949c75f14d7c1dec19fcf49f2198dfa8e602ea4718d6ff3167f",
+      "origin": "ai"
+    },
+    "dataList[id=200080].name": {
+      "pl": "Flore sicut rosa",
+      "kr_sha256": "c2367d25129d7c81d425b5b5fab2f1dbc7539cca1a474bbfc7f42406ed478c1f",
+      "en_sha256": "c2367d25129d7c81d425b5b5fab2f1dbc7539cca1a474bbfc7f42406ed478c1f",
+      "origin": "ai"
+    },
+    "dataList[id=200081].name": {
+      "pl": "Compass",
+      "kr_sha256": "f082ac980336071f811f28ac635cd7733b90b92e51a101943067eed38e525063",
+      "en_sha256": "f082ac980336071f811f28ac635cd7733b90b92e51a101943067eed38e525063",
+      "origin": "ai"
+    },
+    "dataList[id=200082].name": {
+      "pl": "Sarajinae (Pass On) - ver. Ishmael",
+      "kr_sha256": "a4a94126cb9887c25ef0071f16f347784bfe6fc55d4a62ba3156f60847358560",
+      "en_sha256": "f383b70bae17d79feb95624187d3b5d6539312e95aa8db411c073157c5a9cc8f",
+      "origin": "ai"
+    },
+    "dataList[id=200083].name": {
+      "pl": "Nobody Came Back",
+      "kr_sha256": "3877867c889af00ae903dfd1eb1cf01177fc39a1a227803c5c0e711f97a3b1d8",
+      "en_sha256": "3877867c889af00ae903dfd1eb1cf01177fc39a1a227803c5c0e711f97a3b1d8",
+      "origin": "ai"
+    },
+    "dataList[id=200084].name": {
+      "pl": "Electronic Devil Maker",
+      "kr_sha256": "f70223d670c3d5a66fe7140bd4c5a66a7b03386281dae3594d45475fe365a28c",
+      "en_sha256": "f70223d670c3d5a66fe7140bd4c5a66a7b03386281dae3594d45475fe365a28c",
+      "origin": "ai"
+    },
+    "dataList[id=200085].name": {
+      "pl": "Suspicious",
+      "kr_sha256": "b476eff96c30c61a3f44fbf0f5d3e1dfdbcd2d81b1621dfbd66233c5f583c9e8",
+      "en_sha256": "b476eff96c30c61a3f44fbf0f5d3e1dfdbcd2d81b1621dfbd66233c5f583c9e8",
+      "origin": "ai"
+    },
+    "dataList[id=200086].name": {
+      "pl": "Middle Finger Toujou",
+      "kr_sha256": "ae38cbc0a5405f86596a10cbe00dea4878603a1530cc0be8d7b5bf7dfbebada1",
+      "en_sha256": "ae38cbc0a5405f86596a10cbe00dea4878603a1530cc0be8d7b5bf7dfbebada1",
+      "origin": "ai"
+    },
+    "dataList[id=200087].name": {
+      "pl": "Bad Time",
+      "kr_sha256": "b350f964656f99ef937ec10c56a8db5531b3dab928cf0087d9875b3fd24e8a1b",
+      "en_sha256": "b350f964656f99ef937ec10c56a8db5531b3dab928cf0087d9875b3fd24e8a1b",
+      "origin": "ai"
+    },
+    "dataList[id=200088].name": {
+      "pl": "Ship of Ghost",
+      "kr_sha256": "bf7e93f7ac73bfc0646151a4335d7f47dc4bc5b311fcee4c01c62d2a2a65e819",
+      "en_sha256": "bf7e93f7ac73bfc0646151a4335d7f47dc4bc5b311fcee4c01c62d2a2a65e819",
+      "origin": "ai"
+    },
+    "dataList[id=200089].name": {
+      "pl": "Heart",
+      "kr_sha256": "770af9d180375fa9c3d29a50c124a04f538b277e1ed94ec20be8e244820d6534",
+      "en_sha256": "770af9d180375fa9c3d29a50c124a04f538b277e1ed94ec20be8e244820d6534",
+      "origin": "ai"
+    },
+    "dataList[id=200090].name": {
+      "pl": "Negative Sail",
+      "kr_sha256": "12e3cb44acebdaea06070c1f4b8e1408f644b2a0969dfdf5b36ccbc6b3d8a32e",
+      "en_sha256": "12e3cb44acebdaea06070c1f4b8e1408f644b2a0969dfdf5b36ccbc6b3d8a32e",
+      "origin": "ai"
+    },
+    "dataList[id=200091].name": {
+      "pl": "Positive Sail",
+      "kr_sha256": "292fab6f08dbfb49b767c0901e2f8850c7889048dd913235d61de64016b322de",
+      "en_sha256": "292fab6f08dbfb49b767c0901e2f8850c7889048dd913235d61de64016b322de",
+      "origin": "ai"
+    },
+    "dataList[id=200092].name": {
+      "pl": "Port In Shadow",
+      "kr_sha256": "d40edecd51575ed7cbc75134b85404660aeb115d6309d87ad9dcbd05ed30b697",
+      "en_sha256": "d40edecd51575ed7cbc75134b85404660aeb115d6309d87ad9dcbd05ed30b697",
+      "origin": "ai"
+    },
+    "dataList[id=200093].name": {
+      "pl": "Overwhelming",
+      "kr_sha256": "5404d255d9467a65cc0655f025f0d1b53622fa68e6683f6f0842565ce55ea17c",
+      "en_sha256": "5404d255d9467a65cc0655f025f0d1b53622fa68e6683f6f0842565ce55ea17c",
+      "origin": "ai"
+    },
+    "dataList[id=200094].name": {
+      "pl": "Pequod",
+      "kr_sha256": "01c66c73fdc47f95e37e12bdbd637c07d6ce116eb5409d188b6baa4c23ab0e3a",
+      "en_sha256": "01c66c73fdc47f95e37e12bdbd637c07d6ce116eb5409d188b6baa4c23ab0e3a",
+      "origin": "ai"
+    },
+    "dataList[id=200095].name": {
+      "pl": "Deep Cold Sea",
+      "kr_sha256": "9491db710a7c07e3985ce3815263f1bd6ac29b0dd4417b6e5c9cd3fba672da76",
+      "en_sha256": "9491db710a7c07e3985ce3815263f1bd6ac29b0dd4417b6e5c9cd3fba672da76",
+      "origin": "ai"
+    },
+    "dataList[id=200096].name": {
+      "pl": "Unacceptable",
+      "kr_sha256": "f141c102273505f6045b8585f84428eec01f626710d149c7eca7ab6921c5f10f",
+      "en_sha256": "f141c102273505f6045b8585f84428eec01f626710d149c7eca7ab6921c5f10f",
+      "origin": "ai"
+    },
+    "dataList[id=200097].name": {
+      "pl": "Canto V Battle 01",
+      "kr_sha256": "438c78b1df4d8b14bf1b3724cf69d91da57f5a26bb1b7ab48188093d868eb9c9",
+      "en_sha256": "438c78b1df4d8b14bf1b3724cf69d91da57f5a26bb1b7ab48188093d868eb9c9",
+      "origin": "ai"
+    },
+    "dataList[id=200098].name": {
+      "pl": "Canto V Battle 02",
+      "kr_sha256": "5df8e8417746e645ed98126a9a71fecd4f1fb130dacb8b26e6ef6551ca417283",
+      "en_sha256": "5df8e8417746e645ed98126a9a71fecd4f1fb130dacb8b26e6ef6551ca417283",
+      "origin": "ai"
+    },
+    "dataList[id=200099].name": {
+      "pl": "Canto V Battle 03",
+      "kr_sha256": "ba66448de05cf4fc76a9a90cc842ed8c58ec57c67208ba1df37a9cfdb6839c18",
+      "en_sha256": "ba66448de05cf4fc76a9a90cc842ed8c58ec57c67208ba1df37a9cfdb6839c18",
+      "origin": "ai"
+    },
+    "dataList[id=200100].name": {
+      "pl": "Canto V Battle 04",
+      "kr_sha256": "bbcc671c8d1fc16645009d1214f43c6e9b8822448db1f7abcbe7e0d215e58ca4",
+      "en_sha256": "bbcc671c8d1fc16645009d1214f43c6e9b8822448db1f7abcbe7e0d215e58ca4",
+      "origin": "ai"
+    },
+    "dataList[id=200101].name": {
+      "pl": "Canto V Battle 05",
+      "kr_sha256": "6f5b02589807a596ac3ac71a257904e3c6fba3886d8367fffa2d5627831315f4",
+      "en_sha256": "6f5b02589807a596ac3ac71a257904e3c6fba3886d8367fffa2d5627831315f4",
+      "origin": "ai"
+    },
+    "dataList[id=200102].name": {
+      "pl": "Canto V Battle 06",
+      "kr_sha256": "e3813e9048c0848e3586858f0bed7274c45cb6033872fd50b3f9dba2d455de68",
+      "en_sha256": "e3813e9048c0848e3586858f0bed7274c45cb6033872fd50b3f9dba2d455de68",
+      "origin": "ai"
+    },
+    "dataList[id=200103].name": {
+      "pl": "Canto V Battle 07",
+      "kr_sha256": "53f70a2d31d9ae65c286c3af0c71e8f8d783fe56bfbea862b099e3e8d237dc99",
+      "en_sha256": "53f70a2d31d9ae65c286c3af0c71e8f8d783fe56bfbea862b099e3e8d237dc99",
+      "origin": "ai"
+    },
+    "dataList[id=200104].name": {
+      "pl": "Canto V Battle 08",
+      "kr_sha256": "464dd7c321424de3cd80c5c49901b6a05bb80a430f79cb26d8e2e9f2a235f8ab",
+      "en_sha256": "464dd7c321424de3cd80c5c49901b6a05bb80a430f79cb26d8e2e9f2a235f8ab",
+      "origin": "ai"
+    },
+    "dataList[id=200105].name": {
+      "pl": "Canto V Battle 09",
+      "kr_sha256": "f6d287108b34b09bb1861b8ad5d2f5ea303b4b50800deb14ea9714c0e3d71c01",
+      "en_sha256": "f6d287108b34b09bb1861b8ad5d2f5ea303b4b50800deb14ea9714c0e3d71c01",
+      "origin": "ai"
+    },
+    "dataList[id=200106].name": {
+      "pl": "Canto V Battle 10",
+      "kr_sha256": "6475eb2a117fa2d6f463d2fa026d1931894820ac86b6e91d08a29d98e72d56fe",
+      "en_sha256": "6475eb2a117fa2d6f463d2fa026d1931894820ac86b6e91d08a29d98e72d56fe",
+      "origin": "ai"
+    },
+    "dataList[id=200107].name": {
+      "pl": "Canto V Battle 11",
+      "kr_sha256": "6dfe2540619dc0dc2d441a0dac4d2680ecba5016756d88c48c9e2b4d6e907dd7",
+      "en_sha256": "6dfe2540619dc0dc2d441a0dac4d2680ecba5016756d88c48c9e2b4d6e907dd7",
+      "origin": "ai"
+    },
+    "dataList[id=200108].name": {
+      "pl": "Canto V Battle 12",
+      "kr_sha256": "614190ff385d7c768d3784b1731b6b10dac8b6b99476e1b10603d9866fe467e1",
+      "en_sha256": "614190ff385d7c768d3784b1731b6b10dac8b6b99476e1b10603d9866fe467e1",
+      "origin": "ai"
+    },
+    "dataList[id=200109].name": {
+      "pl": "Jingle Jingle",
+      "kr_sha256": "c2618d4ca8134aaf54d107be525cdeca71f4f1e13f680bd8f1d4cdab552b1619",
+      "en_sha256": "c2618d4ca8134aaf54d107be525cdeca71f4f1e13f680bd8f1d4cdab552b1619",
+      "origin": "ai"
+    },
+    "dataList[id=200110].name": {
+      "pl": "We Wish You",
+      "kr_sha256": "5168be640a2964eb0cafb20d36f58a6662e687cc13b30927f623f551a88c4c1f",
+      "en_sha256": "5168be640a2964eb0cafb20d36f58a6662e687cc13b30927f623f551a88c4c1f",
+      "origin": "ai"
+    },
+    "dataList[id=200111].name": {
+      "pl": "Or Maybe Not",
+      "kr_sha256": "8a3b86610f3624d552ef751048d5332ef8661c00c40b3f97a2bb3094bf000892",
+      "en_sha256": "8a3b86610f3624d552ef751048d5332ef8661c00c40b3f97a2bb3094bf000892",
+      "origin": "ai"
+    },
+    "dataList[id=200112].name": {
+      "pl": "Clear Wind",
+      "kr_sha256": "1c83616b18f68fd31ee671dc3914aaa47dc817413df388f4b5a7d052e8855e73",
+      "en_sha256": "1c83616b18f68fd31ee671dc3914aaa47dc817413df388f4b5a7d052e8855e73",
+      "origin": "ai"
+    },
+    "dataList[id=200113].name": {
+      "pl": "Bright Moon",
+      "kr_sha256": "9d04708e943ce6a2884844a1f916eca6d815dbdd0b0ca2d4299065b59e56638d",
+      "en_sha256": "9d04708e943ce6a2884844a1f916eca6d815dbdd0b0ca2d4299065b59e56638d",
+      "origin": "ai"
+    },
+    "dataList[id=200114].name": {
+      "pl": "Thundercloud",
+      "kr_sha256": "544cf892a4e8f21517b7254d596388cb391e6ca883c6beec73cd1f9f792a7553",
+      "en_sha256": "544cf892a4e8f21517b7254d596388cb391e6ca883c6beec73cd1f9f792a7553",
+      "origin": "ai"
+    },
+    "dataList[id=200115].name": {
+      "pl": "Flesh And Bone",
+      "kr_sha256": "654cfc3ac1c1793d96142f5b4453fbdce732cd602a8fef54dbb7a1abfec5a002",
+      "en_sha256": "654cfc3ac1c1793d96142f5b4453fbdce732cd602a8fef54dbb7a1abfec5a002",
+      "origin": "ai"
+    },
+    "dataList[id=200116].name": {
+      "pl": "Ready for Sword",
+      "kr_sha256": "faf2240b7d10cf33290a2cfefdbb638660d92910321e3417629e06b25033afe4",
+      "en_sha256": "faf2240b7d10cf33290a2cfefdbb638660d92910321e3417629e06b25033afe4",
+      "origin": "ai"
+    },
+    "dataList[id=200117].name": {
+      "pl": "Miracle in District 20 Battle 01",
+      "kr_sha256": "bbe9b5091f26ae820809df2a589f77eb86062cc2b508c7052882cd9fe14f6cf6",
+      "en_sha256": "bbe9b5091f26ae820809df2a589f77eb86062cc2b508c7052882cd9fe14f6cf6",
+      "origin": "ai"
+    },
+    "dataList[id=200118].name": {
+      "pl": "Miracle in District 20 Battle 02",
+      "kr_sha256": "4e18f3aeb6d2b7d04e75d632b82ccb0a4dd96701aa63e1619b65d9aa0ef49c4c",
+      "en_sha256": "4e18f3aeb6d2b7d04e75d632b82ccb0a4dd96701aa63e1619b65d9aa0ef49c4c",
+      "origin": "ai"
+    },
+    "dataList[id=200119].name": {
+      "pl": "Yield My Flesh to Claim Their Bones Battle 01",
+      "kr_sha256": "8920237657bf24cf18e9023e75d235ec2894efb7f630b2be0b4d81329701f01a",
+      "en_sha256": "8920237657bf24cf18e9023e75d235ec2894efb7f630b2be0b4d81329701f01a",
+      "origin": "ai"
+    },
+    "dataList[id=200120].name": {
+      "pl": "Yield My Flesh to Claim Their Bones Battle 02",
+      "kr_sha256": "5e505aa1c1e681516c378f60e6f9dd6add09aa4c4c311e36bbf45be372df6e65",
+      "en_sha256": "5e505aa1c1e681516c378f60e6f9dd6add09aa4c4c311e36bbf45be372df6e65",
+      "origin": "ai"
+    },
+    "dataList[id=200121].name": {
+      "pl": "Cur dolorem sentis",
+      "kr_sha256": "84ff6772d989f90ca3d6a264c1efc1663dc1274b6087d70cd027ec5b556c46c1",
+      "en_sha256": "84ff6772d989f90ca3d6a264c1efc1663dc1274b6087d70cd027ec5b556c46c1",
+      "origin": "ai"
+    },
+    "dataList[id=200122].name": {
+      "pl": "Through Patches of Violet",
+      "kr_sha256": "9d549fa892e12e4ba600fd129d461afa5fac69b1b044a78c2f38f50ae0ad91c0",
+      "en_sha256": "9d549fa892e12e4ba600fd129d461afa5fac69b1b044a78c2f38f50ae0ad91c0",
+      "origin": "ai"
+    },
+    "dataList[id=200123].name": {
+      "pl": "Sarajinae (Pass On) - ver. Heathcliff",
+      "kr_sha256": "ee39f568d73a68893f021182958810f07297243adfb27decccb84c72eb67e58a",
+      "en_sha256": "f6010407786c8186524d0ef8942431fead2777247662df3c44a78da55ae82760",
+      "origin": "ai"
+    },
+    "dataList[id=200124].name": {
+      "pl": "Wuthering Opus 01",
+      "kr_sha256": "50691e4ad000ef80886266c42dc38a553bad6daf0a5de50cefb4f395f786d169",
+      "en_sha256": "50691e4ad000ef80886266c42dc38a553bad6daf0a5de50cefb4f395f786d169",
+      "origin": "ai"
+    },
+    "dataList[id=200125].name": {
+      "pl": "Wuthering Opus 02",
+      "kr_sha256": "874170cfa039183fd793d3938f683e28c0de49fb120326e935cc5bd499c0a942",
+      "en_sha256": "874170cfa039183fd793d3938f683e28c0de49fb120326e935cc5bd499c0a942",
+      "origin": "ai"
+    },
+    "dataList[id=200126].name": {
+      "pl": "Wuthering Opus 03",
+      "kr_sha256": "44cec416b323f269b8403b62a050ce75295d596f221b5a562d5d9a526f8553b4",
+      "en_sha256": "44cec416b323f269b8403b62a050ce75295d596f221b5a562d5d9a526f8553b4",
+      "origin": "ai"
+    },
+    "dataList[id=200127].name": {
+      "pl": "Spanner And Drill",
+      "kr_sha256": "95da8f8330d846a932df32120c0b681380fb9e9d380b4941dabf083321538e86",
+      "en_sha256": "95da8f8330d846a932df32120c0b681380fb9e9d380b4941dabf083321538e86",
+      "origin": "ai"
+    },
+    "dataList[id=200128].name": {
+      "pl": "Falling Down",
+      "kr_sha256": "601214fb0699a0807a1caeb577c8a84a0f51db632813e69a911b3978b4c690e8",
+      "en_sha256": "601214fb0699a0807a1caeb577c8a84a0f51db632813e69a911b3978b4c690e8",
+      "origin": "ai"
+    },
+    "dataList[id=200129].name": {
+      "pl": "Take Off Your Veil",
+      "kr_sha256": "bb0c7cc2a7bb4e670424b1c908310c4f72f7725ef761df38e71435975724ecb2",
+      "en_sha256": "bb0c7cc2a7bb4e670424b1c908310c4f72f7725ef761df38e71435975724ecb2",
+      "origin": "ai"
+    },
+    "dataList[id=200130].name": {
+      "pl": "Lone Wolf",
+      "kr_sha256": "ffb4e008d90ec8db14582dbfffe6a7b8f2eab0b7f698f63aec25b0bdeeafbb53",
+      "en_sha256": "ffb4e008d90ec8db14582dbfffe6a7b8f2eab0b7f698f63aec25b0bdeeafbb53",
+      "origin": "ai"
+    },
+    "dataList[id=200131].name": {
+      "pl": "Distorted Dream",
+      "kr_sha256": "6a7d08e836fa1cafd32b6987206e7e89cb4a52d199011b7da51dd0574b7e89eb",
+      "en_sha256": "6a7d08e836fa1cafd32b6987206e7e89cb4a52d199011b7da51dd0574b7e89eb",
+      "origin": "ai"
+    },
+    "dataList[id=200132].name": {
+      "pl": "Rise of Evil",
+      "kr_sha256": "6f1ed72f82df68cbdb5acb1b2e695b56e4718d64605ef1eebbc84283b842cbcd",
+      "en_sha256": "6f1ed72f82df68cbdb5acb1b2e695b56e4718d64605ef1eebbc84283b842cbcd",
+      "origin": "ai"
+    },
+    "dataList[id=200133].name": {
+      "pl": "Erlkönig",
+      "kr_sha256": "76f9a9d1b242ad075acefd8757e73979a5c6a64355f7929ac922bbad88f120c7",
+      "en_sha256": "76f9a9d1b242ad075acefd8757e73979a5c6a64355f7929ac922bbad88f120c7",
+      "origin": "ai"
+    },
+    "dataList[id=200134].name": {
+      "pl": "Endless Sorrow",
+      "kr_sha256": "00821bf5dacb6b5611061f4a3b53d1fc4f90691351aa63e2600a460da570c0ca",
+      "en_sha256": "00821bf5dacb6b5611061f4a3b53d1fc4f90691351aa63e2600a460da570c0ca",
+      "origin": "ai"
+    },
+    "dataList[id=200135].name": {
+      "pl": "Canto VI Battle 01",
+      "kr_sha256": "7f8ced338aa796d16eb02fb01362acda4f3b5b494ed92694ce74fa8db8991437",
+      "en_sha256": "7f8ced338aa796d16eb02fb01362acda4f3b5b494ed92694ce74fa8db8991437",
+      "origin": "ai"
+    },
+    "dataList[id=200136].name": {
+      "pl": "Canto VI Battle 02",
+      "kr_sha256": "cadf72d6e76ac2e7af56c890b8bd97acd98d438d4d8522ad00b26d559637388e",
+      "en_sha256": "cadf72d6e76ac2e7af56c890b8bd97acd98d438d4d8522ad00b26d559637388e",
+      "origin": "ai"
+    },
+    "dataList[id=200137].name": {
+      "pl": "Canto VI Battle 03",
+      "kr_sha256": "b880d5b3cbf33c817121fcbb1517b0bcc37a593a42a1bff78ca274626d5bb591",
+      "en_sha256": "b880d5b3cbf33c817121fcbb1517b0bcc37a593a42a1bff78ca274626d5bb591",
+      "origin": "ai"
+    },
+    "dataList[id=200138].name": {
+      "pl": "Canto VI Battle 04",
+      "kr_sha256": "3f6b7809caae2f9408a30002fb1ac1aaf36cb822f5bdac301bffa34537d63e12",
+      "en_sha256": "3f6b7809caae2f9408a30002fb1ac1aaf36cb822f5bdac301bffa34537d63e12",
+      "origin": "ai"
+    },
+    "dataList[id=200139].name": {
+      "pl": "Canto VI Battle 05",
+      "kr_sha256": "5051576bc8f2d30aad1128cb70fa92e1d7268e6da114dcfbe0ceeeee512cb371",
+      "en_sha256": "5051576bc8f2d30aad1128cb70fa92e1d7268e6da114dcfbe0ceeeee512cb371",
+      "origin": "ai"
+    },
+    "dataList[id=200140].name": {
+      "pl": "Canto VI Battle 06",
+      "kr_sha256": "6675c2b45bfb2199a619b7d2565b4ac000be7fed16423ef45a344f54cbd4a151",
+      "en_sha256": "6675c2b45bfb2199a619b7d2565b4ac000be7fed16423ef45a344f54cbd4a151",
+      "origin": "ai"
+    },
+    "dataList[id=200141].name": {
+      "pl": "Canto VI Battle 07",
+      "kr_sha256": "593c908769d0524e53cf31df3979c3edb288bfd43be8cc2e420941bf66b49876",
+      "en_sha256": "593c908769d0524e53cf31df3979c3edb288bfd43be8cc2e420941bf66b49876",
+      "origin": "ai"
+    },
+    "dataList[id=200142].name": {
+      "pl": "Canto VI Battle 08",
+      "kr_sha256": "f203dae5949b393ecc642bd43f1ff2d9409ebe6eaeaafd892954a70fa677f6c9",
+      "en_sha256": "f203dae5949b393ecc642bd43f1ff2d9409ebe6eaeaafd892954a70fa677f6c9",
+      "origin": "ai"
+    },
+    "dataList[id=200143].name": {
+      "pl": "Canto VI Battle 09",
+      "kr_sha256": "3a2bb90164067a06dcd0d07882fcccab0c3ccc9156deee334be7127eda78dda8",
+      "en_sha256": "3a2bb90164067a06dcd0d07882fcccab0c3ccc9156deee334be7127eda78dda8",
+      "origin": "ai"
+    },
+    "dataList[id=200144].name": {
+      "pl": "Canto VI Battle 10",
+      "kr_sha256": "8f330423f164067296bb9cab5dc5d5b84ae2fcd08222d826576fcd37ee7f5f3c",
+      "en_sha256": "8f330423f164067296bb9cab5dc5d5b84ae2fcd08222d826576fcd37ee7f5f3c",
+      "origin": "ai"
+    },
+    "dataList[id=200145].name": {
+      "pl": "Canto VI Battle 11",
+      "kr_sha256": "7840ea4016598c4313999953b1a8b682fb19f6c2849aab00f6dce24293492b34",
+      "en_sha256": "7840ea4016598c4313999953b1a8b682fb19f6c2849aab00f6dce24293492b34",
+      "origin": "ai"
+    },
+    "dataList[id=200146].name": {
+      "pl": "Heathcliff? Battle",
+      "kr_sha256": "46e3d1db48d06eb9e4081f7bb3c47bceb35611806eea0acc107280f248dd15b4",
+      "en_sha256": "46e3d1db48d06eb9e4081f7bb3c47bceb35611806eea0acc107280f248dd15b4",
+      "origin": "ai"
+    },
+    "dataList[id=200147].name": {
+      "pl": "Heathcliff, The Heartbroken Battle",
+      "kr_sha256": "f2e084278df1c645c60558764eb03533ae4cc4e5cca6920ed02f7a3ef375c2be",
+      "en_sha256": "f2e084278df1c645c60558764eb03533ae4cc4e5cca6920ed02f7a3ef375c2be",
+      "origin": "ai"
+    },
+    "dataList[id=200149].name": {
+      "pl": "Observe, Not See",
+      "kr_sha256": "e111e92c1b9c1196af4eabd17247805ed6e1f8e62907fdd02a325a7a27bf8be3",
+      "en_sha256": "e111e92c1b9c1196af4eabd17247805ed6e1f8e62907fdd02a325a7a27bf8be3",
+      "origin": "ai"
+    },
+    "dataList[id=200150].name": {
+      "pl": "Good Day Detective",
+      "kr_sha256": "7d47ff83b685a6bc23644f419772d105cc5e62821ecc8c141a7a91180b1bd030",
+      "en_sha256": "7d47ff83b685a6bc23644f419772d105cc5e62821ecc8c141a7a91180b1bd030",
+      "origin": "ai"
+    },
+    "dataList[id=200151].name": {
+      "pl": "Time Killing Time",
+      "kr_sha256": "7870ed81e281c5562cf1daa8e5c919eb4a196b6e84e458cc00f49f918c40ef3f",
+      "en_sha256": "7870ed81e281c5562cf1daa8e5c919eb4a196b6e84e458cc00f49f918c40ef3f",
+      "origin": "ai"
+    },
+    "dataList[id=200152].name": {
+      "pl": "Warp Station",
+      "kr_sha256": "8880c7ff58b0ae0a627704afc9035d38fa51e7f329189104073b6fcde7234eb0",
+      "en_sha256": "8880c7ff58b0ae0a627704afc9035d38fa51e7f329189104073b6fcde7234eb0",
+      "origin": "ai"
+    },
+    "dataList[id=200153].name": {
+      "pl": "Warp Malfunction",
+      "kr_sha256": "8c1ab7ace0149817e9c4d64f715655bf0a473c96cd2778188e4ce8b05c73d509",
+      "en_sha256": "8c1ab7ace0149817e9c4d64f715655bf0a473c96cd2778188e4ce8b05c73d509",
+      "origin": "ai"
+    },
+    "dataList[id=200154].name": {
+      "pl": "Train of Bloodshed",
+      "kr_sha256": "a746c4aadb7a054d2b4dfaf4182a2e91412a26ab0e704de99854f0f685d2af1d",
+      "en_sha256": "a746c4aadb7a054d2b4dfaf4182a2e91412a26ab0e704de99854f0f685d2af1d",
+      "origin": "ai"
+    },
+    "dataList[id=200155].name": {
+      "pl": "Yet Tense",
+      "kr_sha256": "43c3f627d291a2bdc2fa06a01f3b7dd9ad067313cfcceafea8417f6117c97557",
+      "en_sha256": "43c3f627d291a2bdc2fa06a01f3b7dd9ad067313cfcceafea8417f6117c97557",
+      "origin": "ai"
+    },
+    "dataList[id=200156].name": {
+      "pl": "Timekilling Time Battle 01",
+      "kr_sha256": "005af665107a9942b0222c5dea40c24fce68f003f91fe6954f5a73b56790b101",
+      "en_sha256": "005af665107a9942b0222c5dea40c24fce68f003f91fe6954f5a73b56790b101",
+      "origin": "ai"
+    },
+    "dataList[id=200157].name": {
+      "pl": "Timekilling Time Battle 02",
+      "kr_sha256": "227a1cc474315407d3533e12b8d2d20e763e9619694233832d02f24ba9b29240",
+      "en_sha256": "227a1cc474315407d3533e12b8d2d20e763e9619694233832d02f24ba9b29240",
+      "origin": "ai"
+    },
+    "dataList[id=200158].name": {
+      "pl": "Murder on the WARP Express Battle 01",
+      "kr_sha256": "25d2255136d08595aa255663ab050dff27db7867fc7593374cebb6772be05289",
+      "en_sha256": "25d2255136d08595aa255663ab050dff27db7867fc7593374cebb6772be05289",
+      "origin": "ai"
+    },
+    "dataList[id=200159].name": {
+      "pl": "Murder on the WARP Express Battle 02",
+      "kr_sha256": "66a5ee0b8aff9e43e95a53f79d283e3bef1b8da918cce8e2cfcc2116e131bc42",
+      "en_sha256": "66a5ee0b8aff9e43e95a53f79d283e3bef1b8da918cce8e2cfcc2116e131bc42",
+      "origin": "ai"
+    },
+    "dataList[id=200160].name": {
+      "pl": "Audite, pauper",
+      "kr_sha256": "3be5be5e9ac755db0dd36fd7ae5a9b8f941e9e8976a9b9095eb87c6a83d21e04",
+      "en_sha256": "3be5be5e9ac755db0dd36fd7ae5a9b8f941e9e8976a9b9095eb87c6a83d21e04",
+      "origin": "ai"
+    },
+    "dataList[id=200161].name": {
+      "pl": "Vovete miserias",
+      "kr_sha256": "cd6f24c5b2e2101aa38dd54188dacda1c2b4072be0382671ef0c5f42fdc40526",
+      "en_sha256": "cd6f24c5b2e2101aa38dd54188dacda1c2b4072be0382671ef0c5f42fdc40526",
+      "origin": "ai"
+    },
+    "dataList[id=200162].name": {
+      "pl": "Hero",
+      "kr_sha256": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0",
+      "en_sha256": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0",
+      "origin": "ai"
+    },
+    "dataList[id=200163].name": {
+      "pl": "Sarajinae (Pass On) - ver. Don Quixote",
+      "kr_sha256": "60d435fc092c7ba4112319f1f8cad96dba276080dc60d27588e6a064eedbf424",
+      "en_sha256": "e678a99517877ae9a3de6c65a4d69e0c9a862a868fa395d2f04a308b7e04e5d4",
+      "origin": "ai"
+    },
+    "dataList[id=200164].name": {
+      "pl": "Absolutely Nothing",
+      "kr_sha256": "8c7a3998e038a1edce364cfae5308ffc0db2f68522eb45a287bd53a0898e69e0",
+      "en_sha256": "8c7a3998e038a1edce364cfae5308ffc0db2f68522eb45a287bd53a0898e69e0",
+      "origin": "ai"
+    },
+    "dataList[id=200165].name": {
+      "pl": "Cautious Operation",
+      "kr_sha256": "63f9e8202c4782df3620e1b9aa8964c142cbc6ff26e3aad4f62c4cb8a3670f04",
+      "en_sha256": "63f9e8202c4782df3620e1b9aa8964c142cbc6ff26e3aad4f62c4cb8a3670f04",
+      "origin": "ai"
+    },
+    "dataList[id=200166].name": {
+      "pl": "Welcome Back",
+      "kr_sha256": "0c3310a647b0371768e3373166353876d685dc45f853d65f2e00a271fa649d30",
+      "en_sha256": "0c3310a647b0371768e3373166353876d685dc45f853d65f2e00a271fa649d30",
+      "origin": "ai"
+    },
+    "dataList[id=200167].name": {
+      "pl": "Inconvenient Welcome",
+      "kr_sha256": "0e8f88576a6041f0816c364c215abfb379eb1c23ac098e96cffefe3a6359ff23",
+      "en_sha256": "0e8f88576a6041f0816c364c215abfb379eb1c23ac098e96cffefe3a6359ff23",
+      "origin": "ai"
+    },
+    "dataList[id=200168].name": {
+      "pl": "Shooting Range",
+      "kr_sha256": "f42434a5c201d4e4464e11ed296992b581e9d46c57081f59b55a4f3e0c298f1b",
+      "en_sha256": "f42434a5c201d4e4464e11ed296992b581e9d46c57081f59b55a4f3e0c298f1b",
+      "origin": "ai"
+    },
+    "dataList[id=200169].name": {
+      "pl": "En un lugar de La Mancha",
+      "kr_sha256": "ec86c191023456cb9b3e5413d100e26025caafcb0d1f56e8dfedba55b8d28a75",
+      "en_sha256": "ec86c191023456cb9b3e5413d100e26025caafcb0d1f56e8dfedba55b8d28a75",
+      "origin": "ai"
+    },
+    "dataList[id=200170].name": {
+      "pl": "Haunted Mansion",
+      "kr_sha256": "bce0bacc508103b40bf5232c1aa4eea6ad92996746b85e29f40b67f766f06c4a",
+      "en_sha256": "bce0bacc508103b40bf5232c1aa4eea6ad92996746b85e29f40b67f766f06c4a",
+      "origin": "ai"
+    },
+    "dataList[id=200171].name": {
+      "pl": "Confession",
+      "kr_sha256": "bc65e5ce6220fdb5d8d756b54f80824283af76bd2c14a3a94f3de0e93b1146ec",
+      "en_sha256": "bc65e5ce6220fdb5d8d756b54f80824283af76bd2c14a3a94f3de0e93b1146ec",
+      "origin": "ai"
+    },
+    "dataList[id=200172].name": {
+      "pl": "Noble Ideal",
+      "kr_sha256": "d250b574710ea708c599b7666fbb008815ac2d4704d055e475f7758a95d62ecc",
+      "en_sha256": "d250b574710ea708c599b7666fbb008815ac2d4704d055e475f7758a95d62ecc",
+      "origin": "ai"
+    },
+    "dataList[id=200173].name": {
+      "pl": "La Mancha Carnival (inst)",
+      "kr_sha256": "9fec7d45170386d21a773a09b993c04166e66711711d042375996fb29bda7ec2",
+      "en_sha256": "9fec7d45170386d21a773a09b993c04166e66711711d042375996fb29bda7ec2",
+      "origin": "ai"
+    },
+    "dataList[id=200174].name": {
+      "pl": "La Mancha Carnival",
+      "kr_sha256": "d1743d341e8c6da39c74af6775aaf2de7fc990807797e9581bf32b6da159c63d",
+      "en_sha256": "d1743d341e8c6da39c74af6775aaf2de7fc990807797e9581bf32b6da159c63d",
+      "origin": "ai"
+    },
+    "dataList[id=200175].name": {
+      "pl": "Abandoned",
+      "kr_sha256": "b3b39116c267eca4f1a4a7ac728e6f79c7087e8bad6aa623e1c354f1f80bea6d",
+      "en_sha256": "b3b39116c267eca4f1a4a7ac728e6f79c7087e8bad6aa623e1c354f1f80bea6d",
+      "origin": "ai"
+    },
+    "dataList[id=200176].name": {
+      "pl": "Soy Quixote",
+      "kr_sha256": "36d2e39ebf0a9c3d807c9673a297708d8c1b1e2b20c64fe6e253630400f713c7",
+      "en_sha256": "36d2e39ebf0a9c3d807c9673a297708d8c1b1e2b20c64fe6e253630400f713c7",
+      "origin": "ai"
+    },
+    "dataList[id=200177].name": {
+      "pl": "Una Estrella Alcanzar",
+      "kr_sha256": "57ebb9ba1f8dba11867f654f392de4db7cca8ae7a2ea91eebdc39c64bb53ee9e",
+      "en_sha256": "57ebb9ba1f8dba11867f654f392de4db7cca8ae7a2ea91eebdc39c64bb53ee9e",
+      "origin": "ai"
+    },
+    "dataList[id=200178].name": {
+      "pl": "Sueño Imposible",
+      "kr_sha256": "a3a660b6e202a7ff5c744b36a8d5d670e0f6dfbcacf575e5df562b83ffbc83dc",
+      "en_sha256": "a3a660b6e202a7ff5c744b36a8d5d670e0f6dfbcacf575e5df562b83ffbc83dc",
+      "origin": "ai"
+    },
+    "dataList[id=200179].name": {
+      "pl": "Opening Show",
+      "kr_sha256": "c6a1c742eefde83e08b3a42ef63330c1b662ca5e45f6271bb89ebeff27e89221",
+      "en_sha256": "c6a1c742eefde83e08b3a42ef63330c1b662ca5e45f6271bb89ebeff27e89221",
+      "origin": "ai"
+    },
+    "dataList[id=200180].name": {
+      "pl": "Oblivion",
+      "kr_sha256": "d46bea47eaf18673d51d3efeb8ccfcb2e158db0ba80e762efe631675abcc0332",
+      "en_sha256": "d46bea47eaf18673d51d3efeb8ccfcb2e158db0ba80e762efe631675abcc0332",
+      "origin": "ai"
+    },
+    "dataList[id=200181].name": {
+      "pl": "Where Your Dream Ends",
+      "kr_sha256": "625d829285f10531079420ea5680ad20ead60675ab4595f51391a0946a5523d3",
+      "en_sha256": "625d829285f10531079420ea5680ad20ead60675ab4595f51391a0946a5523d3",
+      "origin": "ai"
+    },
+    "dataList[id=200182].name": {
+      "pl": "Canto VII Battle 01",
+      "kr_sha256": "8973d570f26c5fd8f39e5f7b3aa87971c40530e68111cc634da75f660ce76e87",
+      "en_sha256": "8973d570f26c5fd8f39e5f7b3aa87971c40530e68111cc634da75f660ce76e87",
+      "origin": "ai"
+    },
+    "dataList[id=200183].name": {
+      "pl": "Canto VII Battle 02",
+      "kr_sha256": "105be0f87e71919cf93953bb169ed2ca53fde006ab933979a8cd703a7a0fd990",
+      "en_sha256": "105be0f87e71919cf93953bb169ed2ca53fde006ab933979a8cd703a7a0fd990",
+      "origin": "ai"
+    },
+    "dataList[id=200184].name": {
+      "pl": "Canto VII Battle 03",
+      "kr_sha256": "e97c69b79f10bce281eea4e4f5112839847eb82ada00cec0f13e7fc395602636",
+      "en_sha256": "e97c69b79f10bce281eea4e4f5112839847eb82ada00cec0f13e7fc395602636",
+      "origin": "ai"
+    },
+    "dataList[id=200185].name": {
+      "pl": "Canto VII Battle 04",
+      "kr_sha256": "3277aeea61646b1b9af62473208a9e59afff9f10037e8d97866cc713d659a5e1",
+      "en_sha256": "3277aeea61646b1b9af62473208a9e59afff9f10037e8d97866cc713d659a5e1",
+      "origin": "ai"
+    },
+    "dataList[id=200186].name": {
+      "pl": "Canto VII Battle 05",
+      "kr_sha256": "6e8e1f6d829261c59848207a17e62305e99c4a752df5451a79f285240c36773b",
+      "en_sha256": "6e8e1f6d829261c59848207a17e62305e99c4a752df5451a79f285240c36773b",
+      "origin": "ai"
+    },
+    "dataList[id=200187].name": {
+      "pl": "Canto VII Battle 06",
+      "kr_sha256": "4f3a646aec72096ce1eca39d4cc3f5195bc97983c04ffa1b068994ab43003205",
+      "en_sha256": "4f3a646aec72096ce1eca39d4cc3f5195bc97983c04ffa1b068994ab43003205",
+      "origin": "ai"
+    },
+    "dataList[id=200188].name": {
+      "pl": "Canto VII Battle 07",
+      "kr_sha256": "b347f8b738dd2a0753e5675eac85ff772acce3c182fac773478bb975313e1117",
+      "en_sha256": "b347f8b738dd2a0753e5675eac85ff772acce3c182fac773478bb975313e1117",
+      "origin": "ai"
+    },
+    "dataList[id=200189].name": {
+      "pl": "Canto VII Battle 08",
+      "kr_sha256": "5c824775aa32dd11783a7843a96b3cf2e64f109ec4e8d512f5842ebe51699b07",
+      "en_sha256": "5c824775aa32dd11783a7843a96b3cf2e64f109ec4e8d512f5842ebe51699b07",
+      "origin": "ai"
+    },
+    "dataList[id=200190].name": {
+      "pl": "Canto VII Battle 09",
+      "kr_sha256": "9e0d264b4ad7afb5af8aa593ca6cb737132a6be5d9c052063322cd9d61004835",
+      "en_sha256": "9e0d264b4ad7afb5af8aa593ca6cb737132a6be5d9c052063322cd9d61004835",
+      "origin": "ai"
+    },
+    "dataList[id=200191].name": {
+      "pl": "Canto VII Battle 10",
+      "kr_sha256": "b905bdebb86fc54cb12ec57f824eb91a4f357312bce6095fc766acffc2ffcc18",
+      "en_sha256": "b905bdebb86fc54cb12ec57f824eb91a4f357312bce6095fc766acffc2ffcc18",
+      "origin": "ai"
+    },
+    "dataList[id=200192].name": {
+      "pl": "Canto VII Battle 11",
+      "kr_sha256": "e7d0f925b98a32ceed231e6a63c05f57bb9a6d5fdd609b07ccb3d6c1453f8e99",
+      "en_sha256": "e7d0f925b98a32ceed231e6a63c05f57bb9a6d5fdd609b07ccb3d6c1453f8e99",
+      "origin": "ai"
+    },
+    "dataList[id=200193].name": {
+      "pl": "Canto VII Battle 12",
+      "kr_sha256": "ca1da51be91e409667afcca586898761c4b5fd4a5bcddc9e28b9956090da18ce",
+      "en_sha256": "ca1da51be91e409667afcca586898761c4b5fd4a5bcddc9e28b9956090da18ce",
+      "origin": "ai"
+    },
+    "dataList[id=200194].name": {
+      "pl": "Canto VII Battle 13",
+      "kr_sha256": "4ba13e05ad79ee2e52c6898bf42f3d7e128515dbc89cb927981f8476f2f004c8",
+      "en_sha256": "4ba13e05ad79ee2e52c6898bf42f3d7e128515dbc89cb927981f8476f2f004c8",
+      "origin": "ai"
+    },
+    "dataList[id=200195].name": {
+      "pl": "Canto VII Battle 14",
+      "kr_sha256": "f0d0f0bb35a30fabb8f9d576dcdad29564bdf6d34699d228956fcd6d38f8f536",
+      "en_sha256": "f0d0f0bb35a30fabb8f9d576dcdad29564bdf6d34699d228956fcd6d38f8f536",
+      "origin": "ai"
+    },
+    "dataList[id=200196].name": {
+      "pl": "Canto VII Battle 15",
+      "kr_sha256": "398aad421f0de7e0dec776f89dd38c3b8d0b52bd6d1d37035eb9e90f9421efbc",
+      "en_sha256": "398aad421f0de7e0dec776f89dd38c3b8d0b52bd6d1d37035eb9e90f9421efbc",
+      "origin": "ai"
+    },
+    "dataList[id=200197].name": {
+      "pl": "Team Energy",
+      "kr_sha256": "49c6a11dec95b3731c35669f15e0107271b942a3a86d46fc489dc5e15e829664",
+      "en_sha256": "49c6a11dec95b3731c35669f15e0107271b942a3a86d46fc489dc5e15e829664",
+      "origin": "ai"
+    },
+    "dataList[id=200198].name": {
+      "pl": "Who Will Remember",
+      "kr_sha256": "c99ac5b021d1b056559afa7c47ce4847424af1bdab48ce0a5897469333d8e7f0",
+      "en_sha256": "c99ac5b021d1b056559afa7c47ce4847424af1bdab48ce0a5897469333d8e7f0",
+      "origin": "ai"
+    },
+    "dataList[id=200199].name": {
+      "pl": "Time To Clean",
+      "kr_sha256": "369048cbb1216241c91b781f34575e0f57f312a6b7ebaf7254c414a34281a9ac",
+      "en_sha256": "369048cbb1216241c91b781f34575e0f57f312a6b7ebaf7254c414a34281a9ac",
+      "origin": "ai"
+    },
+    "dataList[id=200200].name": {
+      "pl": "Into Darkness",
+      "kr_sha256": "d0292d0e9628059c2ca5b674596c464ecd1d801d07e8dae5e54797028d09ecac",
+      "en_sha256": "d0292d0e9628059c2ca5b674596c464ecd1d801d07e8dae5e54797028d09ecac",
+      "origin": "ai"
+    },
+    "dataList[id=200201].name": {
+      "pl": "Shadow Incoming",
+      "kr_sha256": "74583fca3265a992b78885c91dcce112afd144a1e825b390773a1636b63444d3",
+      "en_sha256": "74583fca3265a992b78885c91dcce112afd144a1e825b390773a1636b63444d3",
+      "origin": "ai"
+    },
+    "dataList[id=200202].name": {
+      "pl": "LCB Regular Check-up Battle 01",
+      "kr_sha256": "0630fab774dc8be20a9ae1ef70e50867057136c5463b757142de91ec46eadd74",
+      "en_sha256": "0630fab774dc8be20a9ae1ef70e50867057136c5463b757142de91ec46eadd74",
+      "origin": "ai"
+    },
+    "dataList[id=200203].name": {
+      "pl": "LCB Regular Check-up Battle 02",
+      "kr_sha256": "c6c87c6bca99bf8910e5e2cbe008d6ecd3a1e852a77661db332b5b530663efe1",
+      "en_sha256": "c6c87c6bca99bf8910e5e2cbe008d6ecd3a1e852a77661db332b5b530663efe1",
+      "origin": "ai"
+    },
+    "dataList[id=200204].name": {
+      "pl": "LCB Regular Check-up Battle 03",
+      "kr_sha256": "2f6fbc9e1dd573328ba32074a2930292bbdf3b0ffbbfe6fe8de08cf63b910e40",
+      "en_sha256": "2f6fbc9e1dd573328ba32074a2930292bbdf3b0ffbbfe6fe8de08cf63b910e40",
+      "origin": "ai"
+    },
+    "dataList[id=200205].name": {
+      "pl": "Nocturnal Sweeping Battle 01",
+      "kr_sha256": "d07a9cc2a59966d5a8e6cce274dbb2a712f68933c16b4535ecc4849001e9e007",
+      "en_sha256": "d07a9cc2a59966d5a8e6cce274dbb2a712f68933c16b4535ecc4849001e9e007",
+      "origin": "ai"
+    },
+    "dataList[id=200206].name": {
+      "pl": "Nocturnal Sweeping Battle 02",
+      "kr_sha256": "f0f30e43709947c015584a6a6c4057c821aace6934a63004f2a0d421feab3326",
+      "en_sha256": "f0f30e43709947c015584a6a6c4057c821aace6934a63004f2a0d421feab3326",
+      "origin": "ai"
+    },
+    "dataList[id=200207].name": {
+      "pl": "Nocturnal Sweeping Battle 03",
+      "kr_sha256": "c0c0eac237e41cf43ab70c7f87fd456292acf1b1edfcd2145fa7bb47d174acf4",
+      "en_sha256": "c0c0eac237e41cf43ab70c7f87fd456292acf1b1edfcd2145fa7bb47d174acf4",
+      "origin": "ai"
+    },
+    "dataList[id=200208].name": {
+      "pl": "Me relinque",
+      "kr_sha256": "202a7bf2f1467201fcdd6176c47c9b0cc54d15389dfd6688730a66b09392cd37",
+      "en_sha256": "202a7bf2f1467201fcdd6176c47c9b0cc54d15389dfd6688730a66b09392cd37",
+      "origin": "ai"
+    },
+    "dataList[id=200209].name": {
+      "pl": "Ne me relinque",
+      "kr_sha256": "7571c8e496468b0b855957fb8c2ed5fcb7348177417259df1073fdb9f8e534cd",
+      "en_sha256": "7571c8e496468b0b855957fb8c2ed5fcb7348177417259df1073fdb9f8e534cd",
+      "origin": "ai"
+    },
+    "dataList[id=200210].name": {
+      "pl": "TIAN TIAN",
+      "kr_sha256": "589cb93964999f9652bcebcee72d7a6a022e05690b5350181f3580572aa05991",
+      "en_sha256": "589cb93964999f9652bcebcee72d7a6a022e05690b5350181f3580572aa05991",
+      "origin": "ai"
+    },
+    "dataList[id=200211].name": {
+      "pl": "Sarajinae (Pass On) - ver. Hong Lu",
+      "kr_sha256": "b4e9b9c7f8ca395f128425ce63dae403ff2568603f4c3f4b006c309d412dd54a",
+      "en_sha256": "edd6ff6ebc151f4cc7eca9b91d7d2e1dfd7da46960bd382a3345e5e294debfae",
+      "origin": "ai"
+    },
+    "dataList[id=200212].name": {
+      "pl": "City of Boluses",
+      "kr_sha256": "a3c5137139db59f434986c298fe1a55e40bc2220d0d51498354212e931ddbf58",
+      "en_sha256": "a3c5137139db59f434986c298fe1a55e40bc2220d0d51498354212e931ddbf58",
+      "origin": "ai"
+    },
+    "dataList[id=200213].name": {
+      "pl": "First Step",
+      "kr_sha256": "4c3966912fb812bf010d852a5bc559b5a6ee7af84b09d737f486f5ed5399d4c7",
+      "en_sha256": "4c3966912fb812bf010d852a5bc559b5a6ee7af84b09d737f486f5ed5399d4c7",
+      "origin": "ai"
+    },
+    "dataList[id=200214].name": {
+      "pl": "Relaxation",
+      "kr_sha256": "9ddd8858555b7e279f0a99842af236cb41a40d47bdf27920b882598710fd7800",
+      "en_sha256": "9ddd8858555b7e279f0a99842af236cb41a40d47bdf27920b882598710fd7800",
+      "origin": "ai"
+    },
+    "dataList[id=200215].name": {
+      "pl": "Show Your Boldness",
+      "kr_sha256": "262a177e6b7024e3f2d7cc27dbf8b6fbe764faacb9f3f05569a0f8cd391db08f",
+      "en_sha256": "262a177e6b7024e3f2d7cc27dbf8b6fbe764faacb9f3f05569a0f8cd391db08f",
+      "origin": "ai"
+    },
+    "dataList[id=200216].name": {
+      "pl": "Prove Your Brutality",
+      "kr_sha256": "b6db51a9304c3459478a7ef4cd7eddf11535f94a2d3678b1d13978b9ab9f90c8",
+      "en_sha256": "b6db51a9304c3459478a7ef4cd7eddf11535f94a2d3678b1d13978b9ab9f90c8",
+      "origin": "ai"
+    },
+    "dataList[id=200217].name": {
+      "pl": "Brutality",
+      "kr_sha256": "5f11a7bc6fb9fe5c09299bf1c133b2d4b65ca8ea50f652346460ecfa416326ed",
+      "en_sha256": "5f11a7bc6fb9fe5c09299bf1c133b2d4b65ca8ea50f652346460ecfa416326ed",
+      "origin": "ai"
+    },
+    "dataList[id=200218].name": {
+      "pl": "Best Day for You",
+      "kr_sha256": "9a59ec3c661a9ba466a4694157ccc4012f32f88eec662259bb0e23fbbded28c6",
+      "en_sha256": "9a59ec3c661a9ba466a4694157ccc4012f32f88eec662259bb0e23fbbded28c6",
+      "origin": "ai"
+    },
+    "dataList[id=200219].name": {
+      "pl": "Peony",
+      "kr_sha256": "262b50b8289535b042fc434a962e3050cc083869dcd16253e06c91556a0d69a1",
+      "en_sha256": "262b50b8289535b042fc434a962e3050cc083869dcd16253e06c91556a0d69a1",
+      "origin": "ai"
+    },
+    "dataList[id=200220].name": {
+      "pl": "Regret Not 01",
+      "kr_sha256": "46c9c1557578f4f6abd37227df8b1f8ccd214acfce8fa1cf4ffd6d894473adea",
+      "en_sha256": "46c9c1557578f4f6abd37227df8b1f8ccd214acfce8fa1cf4ffd6d894473adea",
+      "origin": "ai"
+    },
+    "dataList[id=200221].name": {
+      "pl": "Regret Not 02",
+      "kr_sha256": "d4be6f73350978dee9038dfb1ad0c982f328e60a1ed9e7ee2dda1664fd347b8e",
+      "en_sha256": "d4be6f73350978dee9038dfb1ad0c982f328e60a1ed9e7ee2dda1664fd347b8e",
+      "origin": "ai"
+    },
+    "dataList[id=200222].name": {
+      "pl": "Grand Party",
+      "kr_sha256": "df7914d5f2c7f7fab201695e292df288ec47d3d58c24debd59d71ba589d639b2",
+      "en_sha256": "df7914d5f2c7f7fab201695e292df288ec47d3d58c24debd59d71ba589d639b2",
+      "origin": "ai"
+    },
+    "dataList[id=200223].name": {
+      "pl": "Golden Flower",
+      "kr_sha256": "5c9ccfbfd8d9dc572358a4c889f80ecfbfc0386b144e23b430bc841cb801147e",
+      "en_sha256": "5c9ccfbfd8d9dc572358a4c889f80ecfbfc0386b144e23b430bc841cb801147e",
+      "origin": "ai"
+    },
+    "dataList[id=200224].name": {
+      "pl": "Zàng Huā Yín",
+      "kr_sha256": "6918b0b0ed6c5b3146cf48b40997b918a330e0d45916f9b4fe618e6865eb9dc4",
+      "en_sha256": "6918b0b0ed6c5b3146cf48b40997b918a330e0d45916f9b4fe618e6865eb9dc4",
+      "origin": "ai"
+    },
+    "dataList[id=200225].name": {
+      "pl": "Remembrance 01",
+      "kr_sha256": "232681589443cd46451ed0a94ec2192f26f5e9c509717570c9bb8606b058dde0",
+      "en_sha256": "232681589443cd46451ed0a94ec2192f26f5e9c509717570c9bb8606b058dde0",
+      "origin": "ai"
+    },
+    "dataList[id=200226].name": {
+      "pl": "Remembrance 02",
+      "kr_sha256": "f1b883752359e2fab2926de538bc8d23602e79a547489efdbeb63429432a174b",
+      "en_sha256": "f1b883752359e2fab2926de538bc8d23602e79a547489efdbeb63429432a174b",
+      "origin": "ai"
+    },
+    "dataList[id=200227].name": {
+      "pl": "Prove It",
+      "kr_sha256": "4268af960a615436134f93429544ffb247c2ceec4beec1a1b9d54a46419c0a96",
+      "en_sha256": "4268af960a615436134f93429544ffb247c2ceec4beec1a1b9d54a46419c0a96",
+      "origin": "ai"
+    },
+    "dataList[id=200228].name": {
+      "pl": "Remembrance 03",
+      "kr_sha256": "8fa7a26d20a416fc6c5ab1b9df9b275c853990bdb5286f84f44c31098d1185d1",
+      "en_sha256": "8fa7a26d20a416fc6c5ab1b9df9b275c853990bdb5286f84f44c31098d1185d1",
+      "origin": "ai"
+    },
+    "dataList[id=200229].name": {
+      "pl": "Sè Jí Shì Kōng",
+      "kr_sha256": "b69038d573c97cca7bd4a2cf4e8df434f4e97d55e91300bed60eb8453199142f",
+      "en_sha256": "b69038d573c97cca7bd4a2cf4e8df434f4e97d55e91300bed60eb8453199142f",
+      "origin": "ai"
+    },
+    "dataList[id=200230].name": {
+      "pl": "Canto VIII Dungeon",
+      "kr_sha256": "381c824ca3db19134217698a9837b8ae26fcfe756c82787b9f535bd6edca8bf7",
+      "en_sha256": "381c824ca3db19134217698a9837b8ae26fcfe756c82787b9f535bd6edca8bf7",
+      "origin": "ai"
+    },
+    "dataList[id=200231].name": {
+      "pl": "Canto VIII Battle 01",
+      "kr_sha256": "e1b3639b23917eb5ffe2db9d27e3bdc764770da0c0550c563242b11fa2a1a71e",
+      "en_sha256": "e1b3639b23917eb5ffe2db9d27e3bdc764770da0c0550c563242b11fa2a1a71e",
+      "origin": "ai"
+    },
+    "dataList[id=200232].name": {
+      "pl": "Canto VIII Battle 02",
+      "kr_sha256": "65b2eb0130797b67fc50261829c431653ae07be11ed06451d4d65cd61560e952",
+      "en_sha256": "65b2eb0130797b67fc50261829c431653ae07be11ed06451d4d65cd61560e952",
+      "origin": "ai"
+    },
+    "dataList[id=200233].name": {
+      "pl": "Canto VIII Battle 03",
+      "kr_sha256": "769d572571c2c2e855368fb516334ef9fe52cc6824f57edd6358c0cd203bdf04",
+      "en_sha256": "769d572571c2c2e855368fb516334ef9fe52cc6824f57edd6358c0cd203bdf04",
+      "origin": "ai"
+    },
+    "dataList[id=200234].name": {
+      "pl": "Canto VIII Battle 04",
+      "kr_sha256": "ff7ad83689b24eb9beefd180317394d2712634f5754af7fee1824651bd6ef552",
+      "en_sha256": "ff7ad83689b24eb9beefd180317394d2712634f5754af7fee1824651bd6ef552",
+      "origin": "ai"
+    },
+    "dataList[id=200235].name": {
+      "pl": "Canto VIII Battle 05",
+      "kr_sha256": "2083bff6f8714cb05e56a1e5cbd67c0b754c59916ceda534ab7b86c9cccb7edf",
+      "en_sha256": "2083bff6f8714cb05e56a1e5cbd67c0b754c59916ceda534ab7b86c9cccb7edf",
+      "origin": "ai"
+    },
+    "dataList[id=200236].name": {
+      "pl": "Canto VIII Battle 06",
+      "kr_sha256": "4742728dc7248a6dfb10de01de7c34a734b1f7e72ed93622d006f34377dccd9e",
+      "en_sha256": "4742728dc7248a6dfb10de01de7c34a734b1f7e72ed93622d006f34377dccd9e",
+      "origin": "ai"
+    },
+    "dataList[id=200237].name": {
+      "pl": "Canto VIII Battle 07",
+      "kr_sha256": "38060373977e344bd561d37c66811aef0029b83e1018c7f7439e33b0fcd4374f",
+      "en_sha256": "38060373977e344bd561d37c66811aef0029b83e1018c7f7439e33b0fcd4374f",
+      "origin": "ai"
+    },
+    "dataList[id=200238].name": {
+      "pl": "Canto VIII Battle 08",
+      "kr_sha256": "c5f1f8594c1826fd7f296d14858ce95c3f268f5b0e63247f9fe832eea3ec1b3f",
+      "en_sha256": "c5f1f8594c1826fd7f296d14858ce95c3f268f5b0e63247f9fe832eea3ec1b3f",
+      "origin": "ai"
+    },
+    "dataList[id=200239].name": {
+      "pl": "Canto VIII Battle 09",
+      "kr_sha256": "ac218ce5cb973d2d0118a6f172251937bb4922467f6c7f3f42837bf06fef1f41",
+      "en_sha256": "ac218ce5cb973d2d0118a6f172251937bb4922467f6c7f3f42837bf06fef1f41",
+      "origin": "ai"
+    },
+    "dataList[id=200240].name": {
+      "pl": "Canto VIII Battle 10",
+      "kr_sha256": "c8123b67fca206dfc94af9b86d38eb1c3e55b6d29d3d3975381d09b7fc15b8c1",
+      "en_sha256": "c8123b67fca206dfc94af9b86d38eb1c3e55b6d29d3d3975381d09b7fc15b8c1",
+      "origin": "ai"
+    },
+    "dataList[id=200241].name": {
+      "pl": "Canto VIII Battle 11",
+      "kr_sha256": "36ce5d807a97f20198128d85750f0a5c7d3da0e6b4dc68ddfbb85e78f4659388",
+      "en_sha256": "36ce5d807a97f20198128d85750f0a5c7d3da0e6b4dc68ddfbb85e78f4659388",
+      "origin": "ai"
+    },
+    "dataList[id=200242].name": {
+      "pl": "Canto VIII Battle 12",
+      "kr_sha256": "c0c09b8b2b51f2e773b774bd479f4c84f50cf6f50a0e96297a41dfbfd294fa39",
+      "en_sha256": "c0c09b8b2b51f2e773b774bd479f4c84f50cf6f50a0e96297a41dfbfd294fa39",
+      "origin": "ai"
+    },
+    "dataList[id=200243].name": {
+      "pl": "Canto VIII Battle 13",
+      "kr_sha256": "70828759ddd79372d2957b42232dcbe1f36c5b5a9d79b9d1ada39300710f8276",
+      "en_sha256": "70828759ddd79372d2957b42232dcbe1f36c5b5a9d79b9d1ada39300710f8276",
+      "origin": "ai"
+    },
+    "dataList[id=200244].name": {
+      "pl": "Canto VIII Battle 14",
+      "kr_sha256": "0cedc6eea959db8d166ebbc7af5fcc0a7e3b1f3cb6497d3c64398640b7e74eea",
+      "en_sha256": "0cedc6eea959db8d166ebbc7af5fcc0a7e3b1f3cb6497d3c64398640b7e74eea",
+      "origin": "ai"
+    },
+    "dataList[id=200245].name": {
+      "pl": "Canto VIII Battle 15",
+      "kr_sha256": "868183465d10e9210059c1fb83781a9e2b5f385c98e98e1bcec7d62662876911",
+      "en_sha256": "868183465d10e9210059c1fb83781a9e2b5f385c98e98e1bcec7d62662876911",
+      "origin": "ai"
+    },
+    "dataList[id=200246].name": {
+      "pl": "Canto VIII Battle 16",
+      "kr_sha256": "64df8cb0c6ec91dc17421276cf1e795b728e362e72df94dd965e1ec8fc78e5fd",
+      "en_sha256": "64df8cb0c6ec91dc17421276cf1e795b728e362e72df94dd965e1ec8fc78e5fd",
+      "origin": "ai"
+    },
+    "dataList[id=200247].name": {
+      "pl": "Canto VIII Battle 17",
+      "kr_sha256": "b6fed7f0e47523fdc73024f69378aa69de8f4f1af50f3e4506094e89a4aa1acd",
+      "en_sha256": "b6fed7f0e47523fdc73024f69378aa69de8f4f1af50f3e4506094e89a4aa1acd",
+      "origin": "ai"
+    },
+    "dataList[id=200248].name": {
+      "pl": "Long Live the Hierarch",
+      "kr_sha256": "5a079566cba4a1298422e1bf6bb7ab67d19ff64d0206ed15c00930b0b3d49f98",
+      "en_sha256": "5a079566cba4a1298422e1bf6bb7ab67d19ff64d0206ed15c00930b0b3d49f98",
+      "origin": "ai"
+    },
+    "dataList[id=200249].name": {
+      "pl": "You Must Study",
+      "kr_sha256": "b3f9075d514330776de0320d81b7720dac18f6558241f01fc6afd5c9845a4316",
+      "en_sha256": "b3f9075d514330776de0320d81b7720dac18f6558241f01fc6afd5c9845a4316",
+      "origin": "ai"
+    },
+    "dataList[id=200250].name": {
+      "pl": "You Must Train",
+      "kr_sha256": "1edcfcdca7a1847406ff70441dfa861891cdd0604c0d962bdb374330bff49849",
+      "en_sha256": "1edcfcdca7a1847406ff70441dfa861891cdd0604c0d962bdb374330bff49849",
+      "origin": "ai"
+    },
+    "dataList[id=200251].name": {
+      "pl": "You Must Rest",
+      "kr_sha256": "fd516e3b7b4a8327082d1b68e912a0623636a265ce0f6746735308e7019875a6",
+      "en_sha256": "fd516e3b7b4a8327082d1b68e912a0623636a265ce0f6746735308e7019875a6",
+      "origin": "ai"
+    },
+    "dataList[id=200252].name": {
+      "pl": "Spring Cultivation Battle 01",
+      "kr_sha256": "659f0d2ed544fb57bb2532770b3ef6633763478e5189b77d5e592c64d94fa1d5",
+      "en_sha256": "659f0d2ed544fb57bb2532770b3ef6633763478e5189b77d5e592c64d94fa1d5",
+      "origin": "ai"
+    },
+    "dataList[id=200253].name": {
+      "pl": "Spring Cultivation Battle 02",
+      "kr_sha256": "7fe7b944eebe8d58b95c10d9f6df49c77dfadbd657544a7eada8b5d2bbb0759f",
+      "en_sha256": "7fe7b944eebe8d58b95c10d9f6df49c77dfadbd657544a7eada8b5d2bbb0759f",
+      "origin": "ai"
+    },
+    "dataList[id=200254].name": {
+      "pl": "Spring Cultivation Battle 03",
+      "kr_sha256": "c3c9bf3b9c1f54018e2bbf7bbd9be816f10a037ef02b9c14c9edd67f4087466a",
+      "en_sha256": "c3c9bf3b9c1f54018e2bbf7bbd9be816f10a037ef02b9c14c9edd67f4087466a",
+      "origin": "ai"
+    },
+    "dataList[id=200255].name": {
+      "pl": "SAIKAI",
+      "kr_sha256": "d0fcaa51b8f1db90417f950e864edd0625d98350194c09e6e71bc18178758a22",
+      "en_sha256": "d0fcaa51b8f1db90417f950e864edd0625d98350194c09e6e71bc18178758a22",
+      "origin": "ai"
+    },
+    "dataList[id=200256].name": {
+      "pl": "Sarajinae (Pass On) - ver. Ryōshū",
+      "kr_sha256": "e813988105c2b40247ab6eedf3898365faa5a43271d8bd80525db626c9985cc0",
+      "en_sha256": "14cf2d13719161a84f6fa79aa872c15f1f879b2bb58535965daa87617e7dce50",
+      "origin": "ai"
+    },
+    "dataList[id=200257].name": {
+      "pl": "They Were Here",
+      "kr_sha256": "fd7b30b024fac9d72ce84903f13b2a97731631d1bc35505dd0e66aceaa65365b",
+      "en_sha256": "fd7b30b024fac9d72ce84903f13b2a97731631d1bc35505dd0e66aceaa65365b",
+      "origin": "ai"
+    },
+    "dataList[id=200258].name": {
+      "pl": "They Must Be Here",
+      "kr_sha256": "df303effdcb7f1cf9d32a83e839962616162f3dd4fb770f0ac9a9f5ddea1cb79",
+      "en_sha256": "df303effdcb7f1cf9d32a83e839962616162f3dd4fb770f0ac9a9f5ddea1cb79",
+      "origin": "ai"
+    },
+    "dataList[id=200259].name": {
+      "pl": "Thumbs Down",
+      "kr_sha256": "75670337a398f9840d2951dbc6746497caec6da9dd506ecff57ef79d59c6280f",
+      "en_sha256": "75670337a398f9840d2951dbc6746497caec6da9dd506ecff57ef79d59c6280f",
+      "origin": "ai"
+    },
+    "dataList[id=200260].name": {
+      "pl": "Call New Index",
+      "kr_sha256": "ad1f37c68284303302cffe2c1d0780a60ff70382f692d9ef50696a58d021386d",
+      "en_sha256": "ad1f37c68284303302cffe2c1d0780a60ff70382f692d9ef50696a58d021386d",
+      "origin": "ai"
+    },
+    "dataList[id=200261].name": {
+      "pl": "Middle Finger Sanjou",
+      "kr_sha256": "fa0c5af7f7a272f57bdfcb900721812f51f46784a1998cce782383cd64f6f085",
+      "en_sha256": "fa0c5af7f7a272f57bdfcb900721812f51f46784a1998cce782383cd64f6f085",
+      "origin": "ai"
+    },
+    "dataList[id=200262].name": {
+      "pl": "Cut Your Rings",
+      "kr_sha256": "64bcdd48e0ff7da57a68c9e609afbcee74960d9edc55015887aa2ecdf4ea47f3",
+      "en_sha256": "64bcdd48e0ff7da57a68c9e609afbcee74960d9edc55015887aa2ecdf4ea47f3",
+      "origin": "ai"
+    },
+    "dataList[id=200263].name": {
+      "pl": "Sanzunokawa",
+      "kr_sha256": "dfbdb3e9a878c0c207d55801b8449be731283c3ec4a8bddf7793e9b79cde946d",
+      "en_sha256": "dfbdb3e9a878c0c207d55801b8449be731283c3ec4a8bddf7793e9b79cde946d",
+      "origin": "ai"
+    },
+    "dataList[id=200264].name": {
+      "pl": "Good Old Day",
+      "kr_sha256": "6ca6219cb6aa4022e40fba2ebdbf604ac15baf1f2b869044cff49b398ccb4387",
+      "en_sha256": "6ca6219cb6aa4022e40fba2ebdbf604ac15baf1f2b869044cff49b398ccb4387",
+      "origin": "ai"
+    },
+    "dataList[id=200265].name": {
+      "pl": "And Day Passes",
+      "kr_sha256": "ef4d128df301103dfb02106f728dd7201ad847862f38ed42e310191ce6f0a274",
+      "en_sha256": "ef4d128df301103dfb02106f728dd7201ad847862f38ed42e310191ce6f0a274",
+      "origin": "ai"
+    },
+    "dataList[id=200266].name": {
+      "pl": "City Hero",
+      "kr_sha256": "d04a8f835eab6df6bb04869b5460b125f9de5a73d5e17efc75579a97efb31254",
+      "en_sha256": "d04a8f835eab6df6bb04869b5460b125f9de5a73d5e17efc75579a97efb31254",
+      "origin": "ai"
+    },
+    "dataList[id=200267].name": {
+      "pl": "Yumenomaichiru",
+      "kr_sha256": "c0a7611b81c0aec96ba39518065d02eb426d572eb5d28c06f5dcb57dc4e7bafa",
+      "en_sha256": "c0a7611b81c0aec96ba39518065d02eb426d572eb5d28c06f5dcb57dc4e7bafa",
+      "origin": "ai"
+    },
+    "dataList[id=200268].name": {
+      "pl": "Alert - Alpha",
+      "kr_sha256": "0a36154824d36cd745eca77bcab19c5079b2287c4dd519228823f698c80bc933",
+      "en_sha256": "0a36154824d36cd745eca77bcab19c5079b2287c4dd519228823f698c80bc933",
+      "origin": "ai"
+    },
+    "dataList[id=200269].name": {
+      "pl": "Alert - Beta",
+      "kr_sha256": "173c457e5b18b520d750c7b7305bc8b822234d5fdf9522d2f34d9e86e22fbe72",
+      "en_sha256": "173c457e5b18b520d750c7b7305bc8b822234d5fdf9522d2f34d9e86e22fbe72",
+      "origin": "ai"
+    },
+    "dataList[id=200270].name": {
+      "pl": "Kumo no Ito",
+      "kr_sha256": "d69c7e9c9bb5b33542ea5ae434d4683af1f51c25cae70d657463224249b3968c",
+      "en_sha256": "d69c7e9c9bb5b33542ea5ae434d4683af1f51c25cae70d657463224249b3968c",
+      "origin": "ai"
+    },
+    "dataList[id=200271].name": {
+      "pl": "Aka no Ito",
+      "kr_sha256": "e3f04ac9ab5742f4946cb2134e8d75788b80ef52cd922c2e91022f23ebcbda6f",
+      "en_sha256": "e3f04ac9ab5742f4946cb2134e8d75788b80ef52cd922c2e91022f23ebcbda6f",
+      "origin": "ai"
+    },
+    "dataList[id=200272].name": {
+      "pl": "Canto IX Battle 01",
+      "kr_sha256": "0416088df9d543fd482e91262a1cc2f7fa5b68f5700ba8921a53c219ba218a89",
+      "en_sha256": "0416088df9d543fd482e91262a1cc2f7fa5b68f5700ba8921a53c219ba218a89",
+      "origin": "ai"
+    },
+    "dataList[id=200273].name": {
+      "pl": "Canto IX Battle 02",
+      "kr_sha256": "d9c8d360bab7b363de3d402d16994bc522632066f0dce4b60d8d340f65e82311",
+      "en_sha256": "d9c8d360bab7b363de3d402d16994bc522632066f0dce4b60d8d340f65e82311",
+      "origin": "ai"
+    },
+    "dataList[id=200274].name": {
+      "pl": "Canto IX Battle 03",
+      "kr_sha256": "b8fa38ac6ef53548c4e70689b3a1df2009226c2b92d9a0c90acbb52b867cbc36",
+      "en_sha256": "b8fa38ac6ef53548c4e70689b3a1df2009226c2b92d9a0c90acbb52b867cbc36",
+      "origin": "ai"
+    },
+    "dataList[id=200275].name": {
+      "pl": "Canto IX Battle 04",
+      "kr_sha256": "94a7dc59015fc9aeca44648dccc497260f0fb7c3b150372715a561638fe5c5fe",
+      "en_sha256": "94a7dc59015fc9aeca44648dccc497260f0fb7c3b150372715a561638fe5c5fe",
+      "origin": "ai"
+    },
+    "dataList[id=200276].name": {
+      "pl": "Canto IX Battle 05",
+      "kr_sha256": "011d9255adeadaba8f46867ebdb1bdd777379e8106cbc9944bc06d4d870318bb",
+      "en_sha256": "011d9255adeadaba8f46867ebdb1bdd777379e8106cbc9944bc06d4d870318bb",
+      "origin": "ai"
+    },
+    "dataList[id=200277].name": {
+      "pl": "Canto IX Battle 06",
+      "kr_sha256": "3f495e31ce91891bf7a55fc0bc1f1e2ae4205d98022ca1718ff15374066c5a49",
+      "en_sha256": "3f495e31ce91891bf7a55fc0bc1f1e2ae4205d98022ca1718ff15374066c5a49",
+      "origin": "ai"
+    },
+    "dataList[id=200278].name": {
+      "pl": "Canto IX Battle 07",
+      "kr_sha256": "d33f704ebd07155a93e1bddb85025de5846dffa095cfbde097a7e74f38b197f0",
+      "en_sha256": "d33f704ebd07155a93e1bddb85025de5846dffa095cfbde097a7e74f38b197f0",
+      "origin": "ai"
+    },
+    "dataList[id=200279].name": {
+      "pl": "Canto IX Battle 08",
+      "kr_sha256": "09a6e92b72e07bab67600f9d113ef0d779d9bb020fc6efad8b1b48103573c03b",
+      "en_sha256": "09a6e92b72e07bab67600f9d113ef0d779d9bb020fc6efad8b1b48103573c03b",
+      "origin": "ai"
+    },
+    "dataList[id=200280].name": {
+      "pl": "Canto IX Battle 09",
+      "kr_sha256": "d47e2aacb2e5644c744ddf41f42ad86ffbee8d0f820d039886062468e94d3f4f",
+      "en_sha256": "d47e2aacb2e5644c744ddf41f42ad86ffbee8d0f820d039886062468e94d3f4f",
+      "origin": "ai"
+    },
+    "dataList[id=200281].name": {
+      "pl": "Canto IX Battle 10",
+      "kr_sha256": "cece99bd713acaff5db3061bd6f6d1128aa669813ca90cc7f4b64ce0e14e9da7",
+      "en_sha256": "cece99bd713acaff5db3061bd6f6d1128aa669813ca90cc7f4b64ce0e14e9da7",
+      "origin": "ai"
+    },
+    "dataList[id=200282].name": {
+      "pl": "Canto IX Battle 11",
+      "kr_sha256": "36dc97df37c9ced15ed818ce7f5ae3c64b7f401c71f55df7bbe6df7e17f08a11",
+      "en_sha256": "36dc97df37c9ced15ed818ce7f5ae3c64b7f401c71f55df7bbe6df7e17f08a11",
+      "origin": "ai"
+    },
+    "dataList[id=200283].name": {
+      "pl": "Canto IX Battle 12",
+      "kr_sha256": "7fb54bc9695f193606c7e5218818888d4744cb3b3fdfd52f39c58fcf4810c24f",
+      "en_sha256": "7fb54bc9695f193606c7e5218818888d4744cb3b3fdfd52f39c58fcf4810c24f",
+      "origin": "ai"
+    },
+    "dataList[id=200284].name": {
+      "pl": "Canto IX Battle 13",
+      "kr_sha256": "0cba0eccfdaa257b5552c0dc05c303a8c20303840bcaaa7245afcfc89f3add6d",
+      "en_sha256": "0cba0eccfdaa257b5552c0dc05c303a8c20303840bcaaa7245afcfc89f3add6d",
+      "origin": "ai"
+    },
+    "dataList[id=200285].name": {
+      "pl": "Shattered Dream",
+      "kr_sha256": "2597f5445baea0bd968a9772ae0c4a65f58c20a90f7be8343442e15ef8755102",
+      "en_sha256": "2597f5445baea0bd968a9772ae0c4a65f58c20a90f7be8343442e15ef8755102",
+      "origin": "ai"
+    },
+    "dataList[id=200286].name": {
+      "pl": "Recall",
+      "kr_sha256": "71e2046e4c01f20a72081a8dc83202405da38fa75c2e4549fbb51c9daddbe207",
+      "en_sha256": "71e2046e4c01f20a72081a8dc83202405da38fa75c2e4549fbb51c9daddbe207",
+      "origin": "ai"
+    },
+    "dataList[id=200287].name": {
+      "pl": "Middle Finger Taijou",
+      "kr_sha256": "80504d5e32029776f70f85911b87bbbb87f5527271c777879e0e0dc9f82903e8",
+      "en_sha256": "80504d5e32029776f70f85911b87bbbb87f5527271c777879e0e0dc9f82903e8",
+      "origin": "ai"
+    },
+    "dataList[id=200288].name": {
+      "pl": "Fallen Rings",
+      "kr_sha256": "4a0ef1401fddfe296ffb4f4147332d679e7a8d8f7fd6fda184f833b9344814d9",
+      "en_sha256": "4a0ef1401fddfe296ffb4f4147332d679e7a8d8f7fd6fda184f833b9344814d9",
+      "origin": "ai"
+    },
+    "dataList[id=200289].name": {
+      "pl": "Sainokawara",
+      "kr_sha256": "6d8daf409520351fa0c9c87680276339a7a6f26fa86ff1c4519bd3ee09303fe9",
+      "en_sha256": "6d8daf409520351fa0c9c87680276339a7a6f26fa86ff1c4519bd3ee09303fe9",
+      "origin": "ai"
+    },
+    "dataList[id=200290].name": {
+      "pl": "Savagery",
+      "kr_sha256": "ca5e66c09641c1c56f44301821e920d44e7baacfe08cb44264d3492b123f314a",
+      "en_sha256": "ca5e66c09641c1c56f44301821e920d44e7baacfe08cb44264d3492b123f314a",
+      "origin": "ai"
+    },
+    "dataList[id=200291].name": {
+      "pl": "Ordinary Walkway",
+      "kr_sha256": "ad62c44eab013eac9c029126cd590651aa6abf1dad2ce7862e1f1db6535bc622",
+      "en_sha256": "ad62c44eab013eac9c029126cd590651aa6abf1dad2ce7862e1f1db6535bc622",
+      "origin": "ai"
+    },
+    "dataList[id=200292].name": {
+      "pl": "Mist on Waves",
+      "kr_sha256": "8979ce87fc4afc48048b457e3f452fd3c66407faf0d2e4a14b905f7f7ab2a6e4",
+      "en_sha256": "8979ce87fc4afc48048b457e3f452fd3c66407faf0d2e4a14b905f7f7ab2a6e4",
+      "origin": "ai"
+    },
+    "dataList[id=200293].name": {
+      "pl": "River and Lake",
+      "kr_sha256": "25b393e41ef366190627ed2974cda611e01e37653375f17eb5b40aa460c43d0e",
+      "en_sha256": "25b393e41ef366190627ed2974cda611e01e37653375f17eb5b40aa460c43d0e",
+      "origin": "ai"
+    },
+    "dataList[id=200294].name": {
+      "pl": "Vengeance",
+      "kr_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
+      "en_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
+      "origin": "ai"
+    },
+    "dataList[id=200295].name": {
+      "pl": "Mise-en-scène",
+      "kr_sha256": "44a99ad99a9d1e560710b8e7657eca6c99548bb1accf593db77b98de3627d7e9",
+      "en_sha256": "44a99ad99a9d1e560710b8e7657eca6c99548bb1accf593db77b98de3627d7e9",
+      "origin": "ai"
+    },
+    "dataList[id=200296].name": {
+      "pl": "Twining Threads Battle 01",
+      "kr_sha256": "86f6aa8dae174981ddbc09534f57677d8f2fa2d8be863a8511aaede7e5d2478b",
+      "en_sha256": "86f6aa8dae174981ddbc09534f57677d8f2fa2d8be863a8511aaede7e5d2478b",
+      "origin": "ai"
+    },
+    "dataList[id=200297].name": {
+      "pl": "Twining Threads Battle 02",
+      "kr_sha256": "a7bab122369738cedbde6dea26ae382bfad206cd784445bcc949f3bd062d358b",
+      "en_sha256": "a7bab122369738cedbde6dea26ae382bfad206cd784445bcc949f3bd062d358b",
+      "origin": "ai"
+    },
+    "dataList[id=200298].name": {
+      "pl": "Mnestic Experience Battle 01",
+      "kr_sha256": "73facb6a05914cb8f311a4f8e8caa60c59b2968badf84beb568b78b34ae7eb3d",
+      "en_sha256": "73facb6a05914cb8f311a4f8e8caa60c59b2968badf84beb568b78b34ae7eb3d",
+      "origin": "ai"
+    },
+    "dataList[id=200299].name": {
+      "pl": "Mnestic Experience Battle 02",
+      "kr_sha256": "f410f8ed5d4598fccf5453fec8963c1a556eeefad2015a011fe684e0b2fbb16e",
+      "en_sha256": "f410f8ed5d4598fccf5453fec8963c1a556eeefad2015a011fe684e0b2fbb16e",
+      "origin": "ai"
+    },
+    "dataList[id=200300].name": {
+      "pl": "Mnestic Experience Battle 03",
+      "kr_sha256": "e0d3d2ccfe9c91f04c0ee2420ff2a026a14755e50e97671af9192e8845877f27",
+      "en_sha256": "e0d3d2ccfe9c91f04c0ee2420ff2a026a14755e50e97671af9192e8845877f27",
+      "origin": "ai"
+    },
+    "dataList[id=200301].name": {
+      "pl": "Tandem sentitis",
+      "kr_sha256": "6fa54511b45462a0333f8fff78043d87c0a2faf55847dda093e4900e954ef5b2",
+      "en_sha256": "6fa54511b45462a0333f8fff78043d87c0a2faf55847dda093e4900e954ef5b2",
+      "origin": "ai"
+    },
+    "dataList[id=200302].name": {
+      "pl": "Tandem lugetis",
+      "kr_sha256": "9c69d95d5e93fcb564a6091677075b2b068b21f410383c77f4e27e90eacd9022",
+      "en_sha256": "9c69d95d5e93fcb564a6091677075b2b068b21f410383c77f4e27e90eacd9022",
+      "origin": "ai"
+    },
+    "dataList[id=300011].name": {
+      "pl": "Church of Gears Alpha",
+      "kr_sha256": "824682b18545136bae541282b2ae851ebdd3eef600d46d464b2fc6916fd1683a",
+      "en_sha256": "824682b18545136bae541282b2ae851ebdd3eef600d46d464b2fc6916fd1683a",
+      "origin": "ai"
+    },
+    "dataList[id=300012].name": {
+      "pl": "Church of Gears Beta",
+      "kr_sha256": "1237d53d5fd505fda79e40a4237d7e59d9eb28d069d7c1bc8f8f5bb0aeacf303",
+      "en_sha256": "1237d53d5fd505fda79e40a4237d7e59d9eb28d069d7c1bc8f8f5bb0aeacf303",
+      "origin": "ai"
+    },
+    "dataList[id=400001].name": {
+      "pl": "Friends with the Rain",
+      "kr_sha256": "f9df62a75db45e096b5dbe73e556074c8e491c8d1f39d6864794a69448205203",
+      "en_sha256": "f9df62a75db45e096b5dbe73e556074c8e491c8d1f39d6864794a69448205203",
+      "origin": "ai"
+    },
+    "dataList[id=400002].name": {
+      "pl": "Radiant Bubbles",
+      "kr_sha256": "35818ff572919eee6f657295391a12f9cea2ac9bba7a4cdefa42509d348edf2d",
+      "en_sha256": "35818ff572919eee6f657295391a12f9cea2ac9bba7a4cdefa42509d348edf2d",
+      "origin": "ai"
+    },
+    "dataList[id=400003].name": {
+      "pl": "Meet Cute",
+      "kr_sha256": "fd31e42b3bcc7608c3d3fd62fe32e19ca06e2de48458366c2ad99dd09c4567e6",
+      "en_sha256": "fd31e42b3bcc7608c3d3fd62fe32e19ca06e2de48458366c2ad99dd09c4567e6",
+      "origin": "ai"
+    },
+    "dataList[id=400004].name": {
+      "pl": "WAW!",
+      "kr_sha256": "b7f358bc9b2a7789bfd402e2f4f339e2b953b2c4d62058b64983b4ac46f3f5ea",
+      "en_sha256": "b7f358bc9b2a7789bfd402e2f4f339e2b953b2c4d62058b64983b4ac46f3f5ea",
+      "origin": "ai"
+    },
+    "dataList[id=400005].name": {
+      "pl": "Run Bongy, Run",
+      "kr_sha256": "2ecfb6b04be97aaf8c8cfe9de6af3f52083cce598ff314d97ac03edb77f75bb3",
+      "en_sha256": "2ecfb6b04be97aaf8c8cfe9de6af3f52083cce598ff314d97ac03edb77f75bb3",
+      "origin": "ai"
+    }
+  }
+}

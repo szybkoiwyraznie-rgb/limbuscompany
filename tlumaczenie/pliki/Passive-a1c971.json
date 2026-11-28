@@ -1,0 +1,352 @@
+{
+  "entries": {
+    "dataList[id=107901].desc": {
+      "pl": "— opis] Na koniec tury zyskuje 1 Wzrost Poziomu Ataku za każde 3% brakującego HP (maks. 5)\nNa koniec tury zyskuje Minimalną i Maksymalną Szybkość +1 w następnej turze za każde 300 [BloodDinner]\nHP nie może spaść poniżej 60%.",
+      "kr_sha256": "b88ae40dbed0314dd8c4b0cf46604a1398934f65ed6febbe1187a47a63f89980",
+      "en_sha256": "d5f1e2c3756e25b0f2d0f2ba3674a50b342f887008ba3a7b74329ccd94e9165a",
+      "origin": "ai"
+    },
+    "dataList[id=107901].name": {
+      "pl": "— nazwa] Wołają Mnie Bracia",
+      "kr_sha256": "91cbd86760686bffc756a42b84f8bd606e7fd7fb5a7b310296ee758198565793",
+      "en_sha256": "716ce9f5d5a202bba185e5cfd072892e4bf5c698a5994aa32a61190266c038e9",
+      "origin": "ai"
+    },
+    "dataList[id=107902].desc": {
+      "pl": "— opis] Na początku walki zyskuje 1 [BloodArmor]\n- [BloodArmor] nie może spaść poniżej 1\n- Przy 10+ [BloodArmor] zamienia się w [BloodArmor_2nd]\n- Przy 20+ [BloodArmor_2nd] zamienia się w [BloodArmor_3rd]\nZyskuje Minimalną i Maksymalną Szybkość zależnie od etapu tego efektu (maks. 2)\nJeżeli zużycie [BloodArmor] sprawi, że spadnie poniżej powyższych progów, wraca do poprzedniego etapu",
+      "kr_sha256": "d231e3dfb8bc79783364bb12f7a3207da357a221db67501fda75c00d7873dd1d",
+      "en_sha256": "12e72083fc3b001f29a158fd961900e17e51bbd7dc6852d327270b1d173b709d",
+      "origin": "ai"
+    },
+    "dataList[id=107902].name": {
+      "pl": "Twarda Krew",
+      "kr_sha256": "953e3acc380ba25b5276a99fe7aeb1311b2a3e40daca35173a78cf0dfa6513df",
+      "en_sha256": "3d81490e6ceaf6bee11c9c2cbc6cb9c5857f64f1428cdcef580acd4771448d7d",
+      "origin": "ai"
+    },
+    "dataList[id=107903].desc": {
+      "pl": "— opis] Na koniec tury, jeżeli jest w Panice, wychodzi z Paniki i zużywa 50 [BloodDinner], aby zyskać 3 [Enhancement]\n- Jeżeli nie może zużyć [BloodDinner], otrzymuje 30 [Laceration] oraz zyskuje 3 [Enhancement] i 2 [AttackDmgUp]",
+      "kr_sha256": "3fb880dbe9b00100d2c07cf342e688e4124ac7e4489c062bcc85aa87678202a9",
+      "en_sha256": "a4c9fdfb6310a44bc73b9ffc6abee19e4e12cc7455414ea10665668ae1f52680",
+      "origin": "ai"
+    },
+    "dataList[id=107903].name": {
+      "pl": "— nazwa] Pragną Krwi",
+      "kr_sha256": "146a7627112be3cdfadb9770903bfdd5a8eb9455729bbf41e2e9b4b89756e12a",
+      "en_sha256": "c888f94f38efc92bc43069bb2006f3f9591fc86988a34f4b1d8c4753b02c98f7",
+      "origin": "ai"
+    },
+    "dataList[id=107904].desc": {
+      "pl": "— opis] Na początku spotkania zyskuje [Bloodthirst]",
+      "kr_sha256": "58bfdbfafa80986e19b8bed78196cdea6cbb7e9358e0942107265f26d33af652",
+      "en_sha256": "6dab85883631bb9dbe082556842fd27875d1ffcd61e2567d0aaf1d41756858e9",
+      "origin": "ai"
+    },
+    "dataList[id=107904].name": {
+      "pl": "Tęsknota za Krwią",
+      "kr_sha256": "689d62ef8aa74e02d33e9465aff8b715a2a8e16af2c97563e9f82767c4dbb443",
+      "en_sha256": "d369fc3cdb6a1fb01303c68122b060bc605bfc4d8fbc7680e1eb584e3a565e59",
+      "origin": "ai"
+    },
+    "dataList[id=107905].desc": {
+      "pl": "— opis] Jeżeli na koniec własnej Umiejętności ataku podczas walki wróg ginie, zwiększa [BloodDinner] o Maks. HP celu",
+      "kr_sha256": "908a397048d52c11c3dae6c27fdd7144e208722e32038111204d07998c48af69",
+      "en_sha256": "36e37c9592f5e51e06cb1be58948b9a223de6e71d831f4faad3271e663791d82",
+      "origin": "ai"
+    },
+    "dataList[id=107905].name": {
+      "pl": "— nazwa] Więcej Krwawej Uczty",
+      "kr_sha256": "5f0783ef2501f926264f4d447a35179d58619863005317150d67272f717481f0",
+      "en_sha256": "daa6a9f58c9f040d343e118f3e4b1170f3a35d2d554c27fd2b8c321199bd537b",
+      "origin": "ai"
+    },
+    "dataList[id=108001].desc": {
+      "pl": "— opis] Jeżeli nie jest Ogłuszona ani nie ma zniszczonej Party, otrzymuje -50% obrażeń",
+      "kr_sha256": "d517b0f0befa3843b8e5a34d76a53f93eba065244ebdbeaa5da97136812fdb6c",
+      "en_sha256": "785006c993437b11f17a1ed5d3579dcc47073d05f74ae6d16d00b386690d1ea3",
+      "origin": "ai"
+    },
+    "dataList[id=108001].name": {
+      "pl": "— nazwa] Odporność na Grzechy",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=108002].desc": {
+      "pl": "— opis] Przy otrzymaniu trafienia zwiększa Licznik [Vibration] atakującego o 2\nJeżeli cel ma [Vibration], przy trafieniu nakłada 2 [Vibration] na wszystkich wrogów.\nNa koniec ataku, jeżeli cel ginie, zwiększa Licznik [Vibration] wszystkich wrogów o 4.",
+      "kr_sha256": "1798842a52a0dc4af41f3d9dc0578506528d04fc8b67e096431640f2e43fd535",
+      "en_sha256": "c43db1233ba45240cb179ffaf85509cbb2fb1ece3a4705c46bfe54a76e5c33d9",
+      "origin": "ai"
+    },
+    "dataList[id=108002].name": {
+      "pl": "— nazwa] Rezonujące Drgania",
+      "kr_sha256": "cf2a87d8d09fd6128685b4856e3055fb21bc342f61da071b63c65c040540cd35",
+      "en_sha256": "0f9bfdf43b0ae47ca92654ce50d5fb41526461f21b41c1d42306d37747caf435",
+      "origin": "ai"
+    },
+    "dataList[id=108101].desc": {
+      "pl": "— opis] Jeżeli nie jest Ogłuszona ani nie ma zniszczonej Party, otrzymuje 80% mniej obrażeń [Sinking]",
+      "kr_sha256": "f62c88a0124f9cd90c1161bfaccce3a860d7e5e509dcaa1516c6d8bcaf0a50bf",
+      "en_sha256": "4dafb9305f8d0ef69a74d2191bf0932fcf725696a1d629373084e1e96bf731d8",
+      "origin": "ai"
+    },
+    "dataList[id=108101].name": {
+      "pl": "— nazwa] Odporność na Grzechy",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=108102].desc": {
+      "pl": "— opis] Na początku tury nakłada 5 [Sinking] na wszystkich wrogów z wyjątkiem tego z najwyższą Poczytalnością\nNa koniec ataku, jeżeli wróg ginie, wszyscy wrogowie tracą 10 Poczytalności, a następnie nakłada 3 [Sinking] i zwiększa Licznik [Sinking] o 2 na wszystkich wrogach",
+      "kr_sha256": "19ba32e3eaa8bf8a04eb89d2f7ffc1e0d606f41284c5fb708bad3be28eb0ac58",
+      "en_sha256": "4c468b6aad42b1037080830bb8aad1826bb6d6e37527805ce1dccf73049cd5ee",
+      "origin": "ai"
+    },
+    "dataList[id=108102].name": {
+      "pl": "— nazwa] Zaraźliwa Posępność",
+      "kr_sha256": "951d6dad7b93c6a8dd9d64dea577eb5abc3a76f796c884d8cef50281c8c06241",
+      "en_sha256": "fd56ecf5e52b316421edb7b790c29b455fe416152564be670288fe31d6ab8ba6",
+      "origin": "ai"
+    },
+    "dataList[id=108201].desc": {
+      "pl": "— opis] Na początku sceny nakłada 1 [ObservedPerson] na wszystkich wrogów, a następnie zyskuje Moc [Breath] i Licznik [Breath] równy liczbie jednostek z [ObservedPerson]\n\nNa początku tury nakłada 1 [ObservedPerson] na cele bez [ObservedPerson]\n\nZa każde 10 stosów [ObservedPerson] celu nakłada o 1 więcej Mocy [Vibration] i Licznika [Vibration] Umiejętnościami (maks. 3)",
+      "kr_sha256": "c585cf28376026a1752cf2eb413f6bbc990cea35cc002f719a86658c2dec3840",
+      "en_sha256": "20c1adba43b6cfe70a92ed25937b4940627278a6ff1865340637957101274ab7",
+      "origin": "ai"
+    },
+    "dataList[id=108201].name": {
+      "pl": "Obserwacja",
+      "kr_sha256": "74ce91c9756e4fb24225653ca0b96c2c0656d02372cdbc37982e9a6591e434a1",
+      "en_sha256": "d239e9cf6a51335bf996fc5db77623d8be287e8b4d8e1cd1be3a0e00c8bbfe57",
+      "origin": "ai"
+    },
+    "dataList[id=108202].desc": {
+      "pl": "— opis] Zyskuje 1 Mocy [Breath] za każde zadanie obrażeń efektami własnych Umiejętności ataku (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu\n\nZyskuje +1 Licznika [Breath] za każde otrzymanie obrażeń efektami Umiejętności ataku wrogów (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo +1 Licznika [Breath] przy każdym otrzymanym trafieniu",
+      "kr_sha256": "9ca6c44867f9cd60fe8d57705b4303d335d150b04ce35b2639026a2b10d077aa",
+      "en_sha256": "d5875e219cdf74df00fe2ea841e734155012eafdf4b95fb9e0c5918dbd07285e",
+      "origin": "ai"
+    },
+    "dataList[id=108202].name": {
+      "pl": "— nazwa] Adaptacja",
+      "kr_sha256": "a074c1b50bb86e93cceda5d38d2732d8fe53e3556a00ebb7b85ba05eb108767f",
+      "en_sha256": "760fad859f80f60af0215ca2e277e2246783defb11824a8766a0918e9ddbf348",
+      "origin": "ai"
+    },
+    "dataList[id=108203].desc": {
+      "pl": "— opis] Na początku tury zyskuje Tarczę równą 30% brakującego HP (Tarcza nie może przekroczyć 15% Maks. HP)\n- W stanie [Combustion] wartość Tarczy gwałtownie maleje o ([Licznik Combustion] x 1.5)%\n- Tarcza otrzymuje +100% obrażeń z efektów [Burst]\n\nNa koniec tury, jeżeli Tarcza zyskana tym efektem została zniszczona, przez resztę walki zyskuje 1 [DefenseDown] na początku tury za każde zniszczenie (maks. 5)",
+      "kr_sha256": "7d75623a99b78ea550fe1bd886cb5efa92b5bb2ae33197c716b1ad8251e73e7d",
+      "en_sha256": "603a6f14bdd0f8cc587581175c3bf5bac25012dfb9dcaefe5e9fbb2f55d046cd",
+      "origin": "ai"
+    },
+    "dataList[id=108203].name": {
+      "pl": "— nazwa] Mechanizm Obrony",
+      "kr_sha256": "10e672df4df49f6b171673f2f4c8adbec5e53c637f77d91dff76772d4c4bb5bf",
+      "en_sha256": "d79c1a27ae7ae561e0c20644233ba4839d7ee65e0bc8b5303dd82426119feb08",
+      "origin": "ai"
+    },
+    "dataList[id=108204].desc": {
+      "pl": "— opis] Na koniec tury wysysa 10 Poczytalności z celów z wyższą Poczytalnością niż własna (maks. 3 cele, w malejącej kolejności Poczytalności, bez kumulowania na tym samym celu)\n(nie uruchamia się, gdy Hohenheim jest w Panice)",
+      "kr_sha256": "1d5048fca558c132041cdebb1712555da1ccda0d997307140e42e637d1aa5b18",
+      "en_sha256": "14f24a1c747f0d08074446fa5940ad52c2ef5df4d46631eeb187a8d8f0c01338",
+      "origin": "ai"
+    },
+    "dataList[id=108204].name": {
+      "pl": "— nazwa] Efekt Potwierdzenia",
+      "kr_sha256": "e09382acf1e03eaf873d17af08d44db0a9b33a5f4846697d5c7e7239e3a373a3",
+      "en_sha256": "0dc6e46745b9e1522c4a5e53869fac14e7b890db2986ca309d8ed8533459e114",
+      "origin": "ai"
+    },
+    "dataList[id=108205].desc": {
+      "pl": "— opis] W trzeciej turze zmienia wzorzec i zaczyna przygotowywać potężną Umiejętność.\nPotem, na koniec tury, powyższy efekt uruchamia się przy 30+ Licznika [Breath]\n\nJeżeli podczas przygotowania potężnej Umiejętności nie otrzymała obrażeń HP, moc niszcząca tej Umiejętności gwałtownie rośnie (obrażenia Tarczy się nie liczą)",
+      "kr_sha256": "8a745b6eee99e67f84560e795e018c4f67f1c29d973a5533afaafc4adf240663",
+      "en_sha256": "e4590acb8f351e9167fdef24890d3c66585ac2e94feac5dfbdfbcf98ef9670bd",
+      "origin": "ai"
+    },
+    "dataList[id=108205].name": {
+      "pl": "— nazwa] Stawianie Hipotezy",
+      "kr_sha256": "d6140443d295aa2a13c64b0c86832f1bfe63aa739763f0e01a62a27005cc5e79",
+      "en_sha256": "d0beebb8c52578d632fa87ed4eb764ea5add9bb8c9460bd576177e138e5990e3",
+      "origin": "ai"
+    },
+    "dataList[id=108206].desc": {
+      "pl": "— opis] Po osłabieniu przez Wydarzenie Wyboru ta pasywka zastępuje „Adaptację”\n\nZyskuje 1 Mocy [Breath] za każde zadanie obrażeń efektami własnych Umiejętności ataku (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu, ale w zamian obniża stosy [ObservedPerson] celu o 3\n\nZyskuje +1 Licznika [Breath] za każde otrzymanie obrażeń efektami Umiejętności ataku wrogów (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo +1 Licznika [Breath] przy każdym otrzymanym trafieniu, ale w zamian obniża stosy [ObservedPerson] celu o 3\n\nObrażenia krytyczne nie ulegają zmianom",
+      "kr_sha256": "2767baf6363271ec66885b2cfe9c36f679bb898b0eab7b7b3f61816055a97340",
+      "en_sha256": "283bc9558cc26bfdaf9185078229bccf9a26fda017791c63ede06b254e282b77",
+      "origin": "ai"
+    },
+    "dataList[id=108206].name": {
+      "pl": "— nazwa] Maladaptacja",
+      "kr_sha256": "0bd2b1cbd86cc9385bd3acb7c5c399aa41c9959fdf0c60c51671690696c77525",
+      "en_sha256": "a6a01cef43c00296f9e54479a01ebed10790daa9b78854f627cb7e580b6cc9da",
+      "origin": "ai"
+    },
+    "dataList[id=108207].desc": {
+      "pl": "— opis] Po osłabieniu przez Wydarzenie Wyboru ta pasywka zastępuje „Mechanizm Obrony”\n\nNa początku tury zyskuje Tarczę równą 15% brakującego HP (Tarcza nie może przekroczyć 5% Maks. HP)\n- W stanie [Combustion] wartość Tarczy gwałtownie maleje o ([Licznik Combustion] x 2)%\n- Tarcza otrzymuje +150% obrażeń z efektów [Burst]\n\nNa koniec tury, jeżeli Tarcza zyskana tym efektem została zniszczona, przez resztę walki zyskuje 2 [DefenseDown] na początku tury za każde zniszczenie (maks. 10)",
+      "kr_sha256": "4417e4f0434e4cb820df0ee0cccc07bc723b3e3d7f37d69fbe9d03a00f9e35d4",
+      "en_sha256": "1b3846945b55be1aff8b0c8bf8214671142f7b6ef56cdec958e28aee41c5b6c6",
+      "origin": "ai"
+    },
+    "dataList[id=108207].name": {
+      "pl": "— nazwa] Nieadekwatny Mechanizm Obrony",
+      "kr_sha256": "d20cde2ef034511108aeb17c5a41d9439a49c3513f64e358dc8b18988c3fa2cc",
+      "en_sha256": "2b79e18b5cacd480a4d4d629b585587a03a279d023546dfafed90a25a338faa6",
+      "origin": "ai"
+    },
+    "dataList[id=108208].desc": {
+      "pl": "— opis] Po osłabieniu przez Wydarzenie Wyboru ta pasywka zastępuje „Efekt Potwierdzenia”\n\nNa początku tury traci 15 Poczytalności\nNa koniec tury wysysa 5 Poczytalności z celów z wyższą Poczytalnością niż własna (maks. 3 cele, w malejącej kolejności Poczytalności, bez kumulowania na tym samym celu)\n(nie uruchamia się, gdy Hohenheim jest w Panice)",
+      "kr_sha256": "0419e4fc4d784dca3d47dc361d6ac7cf2a6120edefb4938ba5db6ae88b83a5dc",
+      "en_sha256": "9e3b46e6837a0fd99aa4aead9bb7a67c576706721b0a47ca45d45ed155928834",
+      "origin": "ai"
+    },
+    "dataList[id=108208].name": {
+      "pl": "— nazwa] Samowątpienie",
+      "kr_sha256": "219e5318b2ca07443f21dd8a79d4fa5753b6da0fe4c909b7879cd84d08f14b3b",
+      "en_sha256": "4e8454d28ad9000f135350641ce93bc5fc96c2b8bfd9cdddf1c08093373049d1",
+      "origin": "ai"
+    },
+    "dataList[id=108209].desc": {
+      "pl": "— opis] Zyskuje 1 Mocy [Breath] za każde zadanie obrażeń efektami własnych Umiejętności ataku (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu\n\nZyskuje +1 Licznika [Breath] za każde otrzymanie obrażeń efektami Umiejętności ataku wrogów (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo +1 Licznika [Breath] przy każdym otrzymanym trafieniu",
+      "kr_sha256": "9ca6c44867f9cd60fe8d57705b4303d335d150b04ce35b2639026a2b10d077aa",
+      "en_sha256": "d5875e219cdf74df00fe2ea841e734155012eafdf4b95fb9e0c5918dbd07285e",
+      "origin": "ai"
+    },
+    "dataList[id=108209].name": {
+      "pl": "— nazwa] Adaptacja",
+      "kr_sha256": "a074c1b50bb86e93cceda5d38d2732d8fe53e3556a00ebb7b85ba05eb108767f",
+      "en_sha256": "760fad859f80f60af0215ca2e277e2246783defb11824a8766a0918e9ddbf348",
+      "origin": "ai"
+    },
+    "dataList[id=108210].desc": {
+      "pl": "— opis] Na początku tury zyskuje Tarczę równą 30% brakującego HP (Tarcza nie może przekroczyć 15% Maks. HP)\n- W stanie [Combustion] wartość Tarczy gwałtownie maleje o ([Licznik Combustion] x 1.5)%\n- Tarcza otrzymuje +100% obrażeń z efektów [Burst]\n\nNa koniec tury, jeżeli Tarcza zyskana tym efektem została zniszczona, przez resztę walki zyskuje 1 [DefenseDown] na początku tury za każde zniszczenie (maks. 5)",
+      "kr_sha256": "7d75623a99b78ea550fe1bd886cb5efa92b5bb2ae33197c716b1ad8251e73e7d",
+      "en_sha256": "5e9a0c84ae72c0d60f98c0eb528c961890b91c22dbaee559cb0f3fefb2c4d531",
+      "origin": "ai"
+    },
+    "dataList[id=108210].name": {
+      "pl": "— nazwa] Mechanizm Obrony",
+      "kr_sha256": "10e672df4df49f6b171673f2f4c8adbec5e53c637f77d91dff76772d4c4bb5bf",
+      "en_sha256": "d79c1a27ae7ae561e0c20644233ba4839d7ee65e0bc8b5303dd82426119feb08",
+      "origin": "ai"
+    },
+    "dataList[id=108211].desc": {
+      "pl": "— opis] Po osłabieniu przez Wydarzenie Wyboru ta pasywka zastępuje „Adaptację”\n\nZyskuje 1 Mocy [Breath] za każde zadanie obrażeń efektami własnych Umiejętności ataku (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu, ale w zamian obniża stosy [ObservedPerson] celu o 3\n\nZyskuje +1 Licznika [Breath] za każde otrzymanie obrażeń efektami Umiejętności ataku wrogów (maks. 15 na turę)\n- Jeżeli cel ma 15+ stosów [ObservedPerson], zyskuje dodatkowo +1 Licznika [Breath] przy każdym otrzymanym trafieniu, ale w zamian obniża stosy [ObservedPerson] celu o 3\n\nObrażenia krytyczne nie ulegają zmianom",
+      "kr_sha256": "940e1f4a11b96c7e7b11724202bae19a4c60a4dfdf55be6fb3e43d47fc537053",
+      "en_sha256": "283bc9558cc26bfdaf9185078229bccf9a26fda017791c63ede06b254e282b77",
+      "origin": "ai"
+    },
+    "dataList[id=108211].name": {
+      "pl": "— nazwa] Maladaptacja",
+      "kr_sha256": "0bd2b1cbd86cc9385bd3acb7c5c399aa41c9959fdf0c60c51671690696c77525",
+      "en_sha256": "a6a01cef43c00296f9e54479a01ebed10790daa9b78854f627cb7e580b6cc9da",
+      "origin": "ai"
+    },
+    "dataList[id=138904].desc": {
+      "pl": "— opis] Na początku spotkania zyskuje [BloodthirstHard]\n\n<color=#ff6000><mark=#ff000040><b><u>Na początku sceny nakłada 3 [Laceration] i zwiększa Licznik [Laceration] o 3 na wszystkich Grzesznikach\n- Grzesznicy, którzy Weszli z rezerwy, otrzymują ten efekt w turze, w której wchodzą na pole bitwy\nNa początku tury zwiększa Licznik [Laceration] o 3 Grzesznikom bez [Laceration]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>Na początku walki przy Poczytalności\n- 0 lub wyższej nakłada o 2 więcej Mocy i Licznika [Laceration] w tej turze\n- poniżej 0 w tej turze wszystkie monety Umiejętności stają się [SuperCoin]ami i zadaje +50% obrażeń</u></b></mark></color>",
+      "kr_sha256": "651eb68cb545eaf49dcc84419ead17c1d51af8ba16192f27be4a16810e74185a",
+      "en_sha256": "c9a3ea1897b22d3b3be14a1b71388a4326e650ab37ad6825ef522c7d4e2d0dbe",
+      "origin": "ai"
+    },
+    "dataList[id=138904].name": {
+      "pl": "Tęsknota za Krwią",
+      "kr_sha256": "689d62ef8aa74e02d33e9465aff8b715a2a8e16af2c97563e9f82767c4dbb443",
+      "en_sha256": "d369fc3cdb6a1fb01303c68122b060bc605bfc4d8fbc7680e1eb584e3a565e59",
+      "origin": "ai"
+    },
+    "dataList[id=9018101].desc": {
+      "pl": "— opis] Przy trafieniu odzyskuje 5 HP. Z 50% szansą nakłada 1 [Laceration]",
+      "kr_sha256": "9a20252f7d73172ab20a2983f82e7d77361210bad18f33ab049cc34072d74eaa",
+      "en_sha256": "2111df34a5624a9c29887687e66f4ec7809c3b476407ceb6b81af7e1de92aa6c",
+      "origin": "ai"
+    },
+    "dataList[id=9018101].name": {
+      "pl": "— nazwa] Zęby",
+      "kr_sha256": "4783612a627065544e6f71150482aeff458e24e55ec19e506c5e28c67ca27695",
+      "en_sha256": "12eed1fcb47cea6e23659a2f7ad4db6397e0ed0fa7bb6ca3eea550f4299c1694",
+      "origin": "ai"
+    },
+    "dataList[id=9018102].desc": {
+      "pl": "— opis] Na początku walki, jeżeli jest celem 2+ jednostek, zyskuje 1 [Protection], 1 [ParryingResultUp] i 1 [PlusCoinValueUp]",
+      "kr_sha256": "d5989dc24b045563c625595fd125b7e2ee6a9c69e1db64816bcb4cb00e24bb0d",
+      "en_sha256": "f68525e9329d3477dd780e6f34739dc5ff3e1f5c60e9f76368026be8b63ea803",
+      "origin": "ai"
+    },
+    "dataList[id=9018102].name": {
+      "pl": "— nazwa] Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=9018103].desc": {
+      "pl": "— opis] Na koniec ataku, jeżeli Ogłuszyła cel albo go pokonała, na początku sceny zwiększa Maks. HP o 20% Maks. HP[TabExplain] (maks. +100%)",
+      "kr_sha256": "2d166af99125aa88dc828d705da9197ee80a0d72d5ab29d3ab79a1295b734ce2",
+      "en_sha256": "8fc624079e82e977dcfaae80726794903a527263eec7aab27fe8052eccc6352c",
+      "origin": "ai"
+    },
+    "dataList[id=9018103].name": {
+      "pl": "— nazwa] Ocenzurowana Odwaga",
+      "kr_sha256": "abd1ed943f5ad9b42aa836b891ddc70b2e61a7207b714447a263cb3f6e4701ce",
+      "en_sha256": "41b092b91d2a333cbccfee71e8797d9a5cbb39433ca4b8ea6a8cff505393daf4",
+      "origin": "ai"
+    },
+    "dataList[id=9018104].desc": {
+      "pl": "— opis] Na koniec tury, jeżeli nie trafiła żadną własną Umiejętnością ataku, zyskuje w następnej turze Minimalną i Maksymalną Szybkość +1 oraz 3 [AttackDmgUp]",
+      "kr_sha256": "ef85788092a6fa5babbba3c08067e1d199e630062829a359d87a9c56936c6398",
+      "en_sha256": "3346ad1f19f6fc91aa263f421d16778f0fb384f30bfdf4612211d3e8d37bb3de",
+      "origin": "ai"
+    },
+    "dataList[id=9018104].name": {
+      "pl": "— nazwa] Ocenzurowana Sprawiedliwość",
+      "kr_sha256": "eb6e66eae7d1be79f825051c943639c7e1460e40b3e087126f35b4976cac9888",
+      "en_sha256": "6eac3caecf4fb6c00b145427ee292457d22a32df7c8da22ca4f5d51dde079720",
+      "origin": "ai"
+    },
+    "dataList[id=9018105].desc": {
+      "pl": "— opis] Na początku walki zyskuje 1 [Vulnerable] za każdą Tożsamość, która ją wskazała jako cel (maks. 5)\nNa początku walki, jeżeli wszyscy wrogowie ją atakują, Waga ataku +1\n- Zyskuje Poziom Ataku równy liczbie wrogów; przy odzyskiwaniu HP odzyskuje dodatkowo 5 HP",
+      "kr_sha256": "416363e49d6eaa433f58350a56727646106f85ed5f74bec6cfe9439562543c41",
+      "en_sha256": "e1691174fbd85282142e47157db6515a135d27abd7c19c97b0b82dc451064c14",
+      "origin": "ai"
+    },
+    "dataList[id=9018105].name": {
+      "pl": "— nazwa] Dziwnie Niepokojąca Lampa",
+      "kr_sha256": "cbcb6a796fda43c530f9eb839b1e54a7e10ce44f9e6bc2f1f237eab054ccbc3d",
+      "en_sha256": "ea77658d5b1adf9a18529ec9a8c5d79c48af0ae417c4671de932931fa9613444",
+      "origin": "ai"
+    },
+    "dataList[id=9018106].desc": {
+      "pl": "— opis] Przy trafieniu zadaje jednocześnie obrażenia HP i Poczytalności",
+      "kr_sha256": "9e83b38a5fafe88adf02800e2656a361e34dee60410676f0f5eaec4306c54f01",
+      "en_sha256": "9d4aaafe1eb419873ff8fcebd78b29707986976043bc9cd234e726682458a113",
+      "origin": "ai"
+    },
+    "dataList[id=9018106].name": {
+      "pl": "— nazwa] Broń Typu BLACK",
+      "kr_sha256": "d2247d75d6cd1eb5a25e43dd91c57dd980118a4db4edddbf2a91136a77f908bc",
+      "en_sha256": "2f1b65168e9e3887ef286c70ad23523f2aba83360c7b9341c2ef414213c7d172",
+      "origin": "ai"
+    },
+    "dataList[id=9018201].desc": {
+      "pl": "— opis] Na początku tury, przy Poczytalności poniżej 0, odzyskuje 5~20 Poczytalności",
+      "kr_sha256": "0ff745ea5bb7980c97d21a0bad7411a58810ab3394259671bd2d57f3ca37a52c",
+      "en_sha256": "895de049ea9df3a5e69cc3e998928e218199187e6b0af9e0d030a4e20ffb26a7",
+      "origin": "ai"
+    },
+    "dataList[id=9018201].name": {
+      "pl": "— nazwa] Ocenzurowana Mądrość",
+      "kr_sha256": "3e68420ea396d82af591853eb4e308c87a8d1a1bbf731f27c55734823fd5c37b",
+      "en_sha256": "aa47ddf96aa6d8481a4ba48d805208d05b437a348a072e0dd4558a81a2fa767e",
+      "origin": "ai"
+    },
+    "dataList[id=9018202].desc": {
+      "pl": "— opis] Przy otrzymaniu trafienia zyskuje w następnej turze 1 [ParryingResultUp] i 1 [Agility] (maks. 2)",
+      "kr_sha256": "11795fc43c93595a6201662166dc658a071f5964cfea3cdef4a46161c53e798a",
+      "en_sha256": "38ea1b54ee28a7bbee0ae716691c9256df3e1ca7f2fdf9b3a00adafa1b069ce7",
+      "origin": "ai"
+    },
+    "dataList[id=9018202].name": {
+      "pl": "— nazwa] Ocenzurowana Umiarkowanieść",
+      "kr_sha256": "e4fff8c76c9f4a090b4596927f91e5385580d0a5d2aea25d79fd0a2f3686cab4",
+      "en_sha256": "5a2e979f8442e005d89e47fb37a68969af1470d1a6a47b2db7410f451ebf758d",
+      "origin": "ai"
+    }
+  }
+}

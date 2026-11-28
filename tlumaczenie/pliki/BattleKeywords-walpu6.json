@@ -1,0 +1,346 @@
+{
+  "entries": {
+    "dataList[id=ArcanaQueenOfHate].desc": {
+      "pl": "- Maks. stosów: 3\n- Podstawowe ataki zadają +(stosy x 5)% obrażeń\n- Na koniec tury, przy 3 stosach i Poczytalności -25 lub wyższej, Poczytalność zmienia się na -25",
+      "kr_sha256": "a65163c7580cf9325168e0acec272a44c92e6eb151d246e71fc5355c264af5ce",
+      "en_sha256": "d6dfd487c8b3a2a9efc171404dbcf8f9c981f6b3301be22ad1d069cc32f00cfd",
+      "origin": "ai"
+    },
+    "dataList[id=ArcanaQueenOfHate].name": {
+      "pl": "Magiczna Arcana",
+      "kr_sha256": "31fb2225e9615d03ff2d95e5e1728620eaaa76dfb7998bdf483eaef16b773628",
+      "en_sha256": "4c1350ee462d5692e3f8ef156a0a7b53e502736c4c4b17c09717be4bf08c6e19",
+      "origin": "ai"
+    },
+    "dataList[id=BestWelfareTeamMember].desc": {
+      "pl": "- Gdy Umiejętnościami nadaje Moc Podpalenia, Krwawienia, Rozdarcia, Zatonięcia lub Wstrząsu, wartość nadania +1 (również szczególne stany)\n- Ignoruje Panikę i Korozję, a w następnej turze Poczytalność spada do 0 (1 na walkę)\n- Jeśli ten efekt działa na Lobotomy E.G.O::Miecz Ostrzony Łzami Rodion, na początku każdej tury zyskuje 1 Wzrost Obrażeń Przebicia",
+      "kr_sha256": "3eff3e520d788577db2f7bbed86932d95118e96ca85387533d96a28c9d95398b",
+      "en_sha256": "ac9f4ba319c207f33a0646868e89e6cb5f545051fbaab40ece98e29caca99b95",
+      "origin": "ai"
+    },
+    "dataList[id=BestWelfareTeamMember].name": {
+      "pl": "Wzorowy Pracownik Zespołu Dobrobytu",
+      "kr_sha256": "dc1e691a06e85cf6c1dc35eb43a7ed26a9f3e88c027aeccfdfa847556961b7e3",
+      "en_sha256": "c79d9cd45a762f84b713c25b647c744f3a03acb12daa3a7d9485143f299ebc3a",
+      "origin": "ai"
+    },
+    "dataList[id=BlackTearsAlly].desc": {
+      "pl": "- Szczególne ładowanie (stała moc)\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów\n- Maks.: 20",
+      "kr_sha256": "966a191752bb81ed3638ddbe094f68b8b586c36b21a605ca2a24b6961540e208",
+      "en_sha256": "6dc98b1cc6b1677231dbdb76b8156074ce8363e7e354468aa63bc2faf1847a74",
+      "origin": "ai"
+    },
+    "dataList[id=BlackTearsAlly].name": {
+      "pl": "Głębokie Łzy",
+      "kr_sha256": "4594ed560578139f319390cbe105887715243b5d3cab88aabd282f18599cd194",
+      "en_sha256": "807084fd69d482250371e2f3b827e14a526e85db96e2a687f499ac2a47af8603",
+      "origin": "ai"
+    },
+    "dataList[id=BlessingAlly].desc": {
+      "pl": "- Na początku tury zyskuje 1 Miecz Obrońcy za każde 8 Poczytalności (maks. 5)\n- Po zakończeniu Starcia nadaje celowi 2 Zatonięcia (1 na turę)\n- Przy trafieniu nadaje atakującemu 2 Zatonięcia (1 na turę)\n- Za każde 20 Poczytalności Zatonięcie nadawane tym błogosławieństwem zyskuje +1 więcej Mocy (maks. 2)\n- Podstawowe Umiejętności stają się Umiejętnościami z monetami plus",
+      "kr_sha256": "201aaeb3ad8c3bcc20f48ae01fb15acb15c298b07e9cefd0be33434429554d2e",
+      "en_sha256": "fbd9d9405ca10bd0d7091924cf4914b1e5c21a5338b1370673718b63fe2c2a11",
+      "origin": "ai"
+    },
+    "dataList[id=BlessingAlly].name": {
+      "pl": "Błogosławieństwo",
+      "kr_sha256": "22dc665fb81d56674ea81c8e4897e2006753e4f72eecc5ff6ccbe86bfdb78d07",
+      "en_sha256": "5f4c7406a101c4c4d4288fb369af767fd4ad0bd5c6c0cef286a7e639e8b7a5ba",
+      "origin": "ai"
+    },
+    "dataList[id=CentralCommandTeamCaptain].desc": {
+      "pl": "- Sloty tej postaci: +1; liczba Umiejętności 1: -1; liczba Umiejętności 3: +1\n- Gdy Umiejętnościami nadaje Moc Podpalenia, Krwawienia, Rozdarcia, Zatonięcia lub Wstrząsu, wartość nadania +1 (również szczególne stany)\n- Gdy Umiejętnościami zyskuje Moc Oddechu lub Licznik Ładowania (również szczególne ładowanie), wartość +1\n- Ignoruje Panikę i Korozję, a w następnej turze Poczytalność spada do 0 (1 na walkę)\n- Podstawowe Umiejętności ataku o Wadze 2+ zadają +30% obrażeń\n- Przy zabiciu wroga: +2 zasobu E.G.O atrybutu zabijającej Umiejętności, +1 zasobu każdego pozostałego atrybutu",
+      "kr_sha256": "345c9f8556d2fdb285e6522d8be039308e3b47e2a9bbd0fbe88f4cc6700f1bca",
+      "en_sha256": "1f9d785261df974d1fd05f182a7b1a40bd4a7e18b378785e4308423b818508f2",
+      "origin": "ai"
+    },
+    "dataList[id=CentralCommandTeamCaptain].name": {
+      "pl": "Kapitan Zespołu Dowodzenia Centrali",
+      "kr_sha256": "0ab44589916db1bba970d9cb739a16fa2932b7acbb1ac7f839cb4038d48178ca",
+      "en_sha256": "bcc3b4091f3522b84b742c537265d1f7da2735e6a98dcfb93c617161d14ce4f6",
+      "origin": "ai"
+    },
+    "dataList[id=ChasingArcana].desc": {
+      "pl": "- Maks. stosów: 3\n- +1 na początku tury\n- Przy 3 stosach w następnej turze zyskuje 20 Szybkości i używa ARCANA SLAVE",
+      "kr_sha256": "2001eda8e8bba58ec0e039780ed26a778f8a240feebd838739266d610c54b46b",
+      "en_sha256": "4ffe2b683238c682f05d2aed211735fb030e526318873d21fb53039eee4bece3",
+      "origin": "ai"
+    },
+    "dataList[id=ChasingArcana].name": {
+      "pl": "Inkantacja - Arcana Slave",
+      "kr_sha256": "e1e3c30800ff5e0b4a7860624e5655562c733797c428569254c9eef700fc8234",
+      "en_sha256": "ca37d55081b422033de30b5858c74103f727eccd7a3922dcaa962b10b13c7d53",
+      "origin": "ai"
+    },
+    "dataList[id=ChasingArcanahard].desc": {
+      "pl": "- Maks. stosów: 3\n- +1 na początku tury\n- Przy 3 stosach w następnej turze zyskuje 20 Spętań i używa ARCANA SLAVE",
+      "kr_sha256": "37dbd44c033fdbeed4dd178ce0299f2011159560dd5b50174c4f1790c0823ab7",
+      "en_sha256": "9cc4e10b2c17021e6dc06a9bae6e629de3f983123eb7c6584c993e346ac66513",
+      "origin": "ai"
+    },
+    "dataList[id=ChasingArcanahard].name": {
+      "pl": "Inkantacja - Arcana Slave",
+      "kr_sha256": "e1e3c30800ff5e0b4a7860624e5655562c733797c428569254c9eef700fc8234",
+      "en_sha256": "ca37d55081b422033de30b5858c74103f727eccd7a3922dcaa962b10b13c7d53",
+      "origin": "ai"
+    },
+    "dataList[id=ColdBlackTear].desc": {
+      "pl": "- Maks. stosów: 5\n- Na początku tury zyskuje 1 Spadek Mocy Starcia\n- Przy trafieniu z tym efektem traci (stosy x 2) Poczytalności (1 na turę; nie działa, gdy trafiła pęknięta moneta)\n- Jeśli efekt zmniejszyła Królowa Nienawiści, odzyskuje 5 Poczytalności\n- Ten efekt nie może obniżyć Poczytalności poniżej -40",
+      "kr_sha256": "a3ae90f362c26d4c36fd167561a618c0f5afd29e6ed04ffe480e7ecb1d8a3761",
+      "en_sha256": "baa8aeeb53a6d74f0eb4feec2c4f9be90242b561910cbeb23ac7d264d73e412c",
+      "origin": "ai"
+    },
+    "dataList[id=ColdBlackTear].name": {
+      "pl": "Zimne, Czarne Łzy",
+      "kr_sha256": "44f8b39a67a1789d50d7eec61dc4c163229f6036c44ae4d77373b0c63b1cd89c",
+      "en_sha256": "4087109e1d75b9fdf3a7664eb0b8363487226c7baa0838b71ef9b5792d9d68c2",
+      "origin": "ai"
+    },
+    "dataList[id=CollapsedPride].desc": {
+      "pl": "Używana przez pasyw „Zwietczały Rycerz”",
+      "kr_sha256": "e1e99bd56db90dd012bb92d8a74ff8c042b1e899fda9257cf38dfadcbfa6948b",
+      "en_sha256": "fb374694c613267da6020a1e8df151551e50dbe4ebb1a3a457684893fef2ce42",
+      "origin": "ai"
+    },
+    "dataList[id=CollapsedPride].flavor": {
+      "pl": "<color=#2e72b9>Ostała się jedynie pokruszona duma zwietczałego rycerza.</color>",
+      "kr_sha256": "52fe41ec585c3a84361c3ad2f63f313606ef8d91743bb84eecb006452dac6ee0",
+      "en_sha256": "fe71fb86357bb368ccd91166856ab26b3f8b73dec95d47501d7aa9fdcb6c21ca",
+      "origin": "ai"
+    },
+    "dataList[id=CollapsedPride].name": {
+      "pl": "Pokruszona Duma",
+      "kr_sha256": "3078aab18c0a45abfa0131a7013b84dd04d8bcab22d0c47dcae9de34ed009ac5",
+      "en_sha256": "3de58d594bc2452b9e015fcfb4b25ba04a3fece1fd295bcf9f417bafb1561358",
+      "origin": "ai"
+    },
+    "dataList[id=DespairAlly].desc": {
+      "pl": "- Na początku tury zyskuje 1 Miecz Przebijający za każde -8 Poczytalności (maks. 5)\n- Po zakończeniu Starcia Licznik Zatonięcia celu +1 (1 na turę)\n- Przy trafieniu pierwszą monetą podstawowej Umiejętności ataku Licznik Zatonięcia celu +1 (1 na turę)\n- Za każde -20 Poczytalności Licznik Zatonięcia nadawany tym błogosławieństwem zyskuje +1 więcej (maks. 2)\n- Podstawowe Umiejętności stają się Umiejętnościami z monetami minus",
+      "kr_sha256": "202043b26740bc0f7a3d5c8615491edfb5b85955b50b4c11a97a5c7e82c41eb3",
+      "en_sha256": "2094ee134a29144e92fa0c3d97510c5d0464b9e96985a1e9a245326741bb6fc6",
+      "origin": "ai"
+    },
+    "dataList[id=DespairAlly].name": {
+      "pl": "Rozpacz",
+      "kr_sha256": "f8907ed13bd075cc1008d716c35d69f29c206f1cbc6e4255b1cfbced4ddf3360",
+      "en_sha256": "7cb79bf782b9cfe0407b2b92bde5ec1dbcfe71d63fb18ea78b778fd12afc4dae",
+      "origin": "ai"
+    },
+    "dataList[id=FailedToAssistQueen].desc": {
+      "pl": "- Maks. stosów: 1\n- Poziom Ataku -3\n- Poziom Obrony -3",
+      "kr_sha256": "6b7dbf2cd7d64e2e2d138f2c709b74eccf410de321676d9e8012a7c3b0bb57f0",
+      "en_sha256": "772fe26d21a8c13a23f59e815da9a302e6324cc91f327f191fd393372cbb7f1f",
+      "origin": "ai"
+    },
+    "dataList[id=FailedToAssistQueen].name": {
+      "pl": "Do czego ja... jeszcze... służę...?",
+      "kr_sha256": "823cd6787e77e343549d8f8e09516897e0f2b57e53d48d067529c56bdee80c8f",
+      "en_sha256": "5ebe44326f93c38f7d73b193a2c1045309bd66d19642c82760899396bc94a350",
+      "origin": "ai"
+    },
+    "dataList[id=HelplessTear].desc": {
+      "pl": "- Maks. stosów: 1\n- Poziom Ataku +3\n- Poziom Obrony -6\n- Waga ataku wszystkich Umiejętności +1\n- Wszystkie monety Umiejętności stają się monetami niezniszczalnymi\n- Nadaje +1 więcej Mocy i Licznika Zatonięcia",
+      "kr_sha256": "61e458257748f57099cd752c8a1f7e4b1755f0eddd1bfc515dcc58e87ebd2e2b",
+      "en_sha256": "87e1f628d418248335435e608c0889e95b6d436540f9b3ce73e9ecfb3e68ea40",
+      "origin": "ai"
+    },
+    "dataList[id=HelplessTear].name": {
+      "pl": "Bezsilne Łzy",
+      "kr_sha256": "5913b95de00fae299747e5f7d26c33c20a5f87116680d8922501f738e611f153",
+      "en_sha256": "3c539ea3f091c70b4119cae8a71d30fe6975d40eee85a512f138ea8e6f6c5ed0",
+      "origin": "ai"
+    },
+    "dataList[id=HystericGauge].desc": {
+      "pl": "- Wartość bazowa: 0\n- Maks.: 3\n- Na koniec tury:\n· przy Poczytalności 0 lub wyższej traci 1 stos\n· przy Poczytalności niższej od 0 zyskuje 1 stos",
+      "kr_sha256": "998fd03b9c9b4fed0c4d790a2ad708e5495fd3e9bf2d88bd790d5a505ff5401e",
+      "en_sha256": "8d7d70a446e70b6609d4e7f9e7908e05ecbcb0a8b67f2a14b0e04d7026c79006",
+      "origin": "ai"
+    },
+    "dataList[id=HystericGauge].name": {
+      "pl": "Histeria",
+      "kr_sha256": "810ac21b8bafeac54a64be0ff4c406b290ea87e7d23926c63276cfaa53c385bb",
+      "en_sha256": "b17dde668cb03888be46cda516c000f8b61b9985a5c5d9825629c38e4a480049",
+      "origin": "ai"
+    },
+    "dataList[id=KnightBless].desc": {
+      "pl": "- Na początku tury zyskuje 2 Ochrony\n- Wszystkie Odporności fizyczne powyżej 1 są korygowane do 1 (poza stanem Oszołomienia)",
+      "kr_sha256": "a7a28112d2b5602275d2267ca5bf8164a4e0adb8239c111f7b3ac5dc52b2d32f",
+      "en_sha256": "6fe5f3645e7419fb98d060c037d2490c718078e6f263a55588906143f1dfe897",
+      "origin": "ai"
+    },
+    "dataList[id=KnightBless].name": {
+      "pl": "Błogosławieństwo",
+      "kr_sha256": "22dc665fb81d56674ea81c8e4897e2006753e4f72eecc5ff6ccbe86bfdb78d07",
+      "en_sha256": "5f4c7406a101c4c4d4288fb369af767fd4ad0bd5c6c0cef286a7e639e8b7a5ba",
+      "origin": "ai"
+    },
+    "dataList[id=MagicalGirlAppear].desc": {
+      "pl": "- W tej turze podstawowe Umiejętności ataku stają się Umiejętnościami z monetami plus\n\n- Za każdą Miłość/Nienawiść podstawowe Umiejętności ataku zadają +3% obrażeń (maks. 15%)",
+      "kr_sha256": "b3521c1a808dbb165e32b5d018eb750f9844b5e41be41bd8462d4349d435a764",
+      "en_sha256": "9e6bc4b60fc6ead351238d91cf4b90d840b410356c4522917a5e622dd1bd7ad7",
+      "origin": "ai"
+    },
+    "dataList[id=MagicalGirlAppear].name": {
+      "pl": "Pojawia się Czarodziejka!",
+      "kr_sha256": "5846ff7113fc2f711d3730ff6438e037cd19aec1c26fa8b65938c6f0a7acdf3b",
+      "en_sha256": "e326ff865e5ff2351a13e69d1587e46a84439b297aea83d99f903569349329a6",
+      "origin": "ai"
+    },
+    "dataList[id=MagicalGirlResponse].desc": {
+      "pl": "- Maks. stosów: 2\n- Przy uzyskaniu tego efektu zyskuje 1 Wzrost Mocy Ataku i 1 Wzrost Obrażeń\n- Podstawowe Umiejętności ataku, które zyskują lub zużywają Licznik Ładowania, zyskują Moc Końcową +1 i zadają +10% obrażeń\n- Na koniec tury maleje o 1",
+      "kr_sha256": "abf427564f88fbe11efdf36642a700c7172bb377e126c8fe375be51977c923e1",
+      "en_sha256": "43ee479f4f0e4b5d1eb3a8f60fa83df685c312a2cc4c12e3d754c92c1f895489",
+      "origin": "ai"
+    },
+    "dataList[id=MagicalGirlResponse].name": {
+      "pl": "Inkantacja Czarodziejki",
+      "kr_sha256": "216ce51dc939e510ee9bde9a0767bb59c03ce45d26efa7ad45b91abfd5b0990f",
+      "en_sha256": "3f519b0f5fc17c9bca15c4fb51fcdec250fb807f6262df471d974f4d5d194ed0",
+      "origin": "ai"
+    },
+    "dataList[id=NoVillain].desc": {
+      "pl": "- W tej turze podstawowe Umiejętności ataku stają się Umiejętnościami z monetami minus",
+      "kr_sha256": "9249421f08e96b6c6857db2dd2606e5a0373d0b44448d49fa99b472f99f4f0d4",
+      "en_sha256": "71183c879d14a35388a501252732585161e84f2bdf66fc06b2993b3d1d760e63",
+      "origin": "ai"
+    },
+    "dataList[id=NoVillain].name": {
+      "pl": "Transformacja Wsteczna - Odwrócona",
+      "kr_sha256": "092ccb028b68c045e087d57eed45929799b8c7b7c616ce209be304fbe8dddeb6",
+      "en_sha256": "054b8eb4c9fac65485230f07e9a6a689c2aabb8b69bffae504a94561ec2c91c1",
+      "origin": "ai"
+    },
+    "dataList[id=PenetratingSword].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Poziomu Ataku za każdy stos (maks. 5)\n- Na początku tury Wartość Prowokacji wszystkich slotów Umiejętności w panelu maleje o (stosy x 0,15) (maks. 0,75)\n- Maks. stosów: 5\n- Znika na koniec tury",
+      "kr_sha256": "71d5edd243fa202111bb16e78113452ac756271ee17f19efa3f270b70e9adcc4",
+      "en_sha256": "f23a0a7e1f7c96c118926a1642a9a92d9173a9653aed87760799f45ae1dda56c",
+      "origin": "ai"
+    },
+    "dataList[id=PenetratingSword].name": {
+      "pl": "Miecz Przebijający",
+      "kr_sha256": "55e7775b5fa788a85af8398c508c5532039de87d2aa08c849c6012a98256b777",
+      "en_sha256": "ce5d3dd083d8727978d2004d27fcaadc7312989d61e3513ae6102691a5d2dcfd",
+      "origin": "ai"
+    },
+    "dataList[id=PowerOfLoveAndJustice].desc": {
+      "pl": "- Za każdą Moc nadaje +1 więcej Mocy Rozdarcia",
+      "kr_sha256": "f51a4fc10cf40dfca7ddcd4ef7e1306633bae139ae7d1ec449e01f8dca364284",
+      "en_sha256": "c71217a4b8d79641f220d4501395d92b5f897e35f77e76f9af861c3dbca0efbe",
+      "origin": "ai"
+    },
+    "dataList[id=PowerOfLoveAndJustice].name": {
+      "pl": "Miłość/Sprawiedliwość",
+      "kr_sha256": "4d40f5124bab649f1752b9f37e7efedc7119f078101d38775563fc44c086f558",
+      "en_sha256": "289d8d0a0c3c153a2e617ae30c2bbf69af2241600ff46c6710cf42f359474fe6",
+      "origin": "ai"
+    },
+    "dataList[id=ProtectiveSword].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Poziomu Obrony za każdy stos (maks. 5)\n- Na początku tury Wartość Prowokacji skrajnie lewego slotu Umiejętności w panelu rośnie o (stosy x 3) (maks. 15)\n- Maks. stosów: 5\n- Znika na koniec tury",
+      "kr_sha256": "86566d16241c252bac6d2a1fd3681e2b68a15c17fe6b93ef3fad3193426bac02",
+      "en_sha256": "b790ad7c5dd263ffacacc5b53e4e4e96efbb65e4e9652b17a3d8aac04ec44107",
+      "origin": "ai"
+    },
+    "dataList[id=ProtectiveSword].name": {
+      "pl": "Miecz Obrońcy",
+      "kr_sha256": "13d27d641ebcdc8ea7d2d15a98c7537f905fd73ccf5408bc0cfbce521e17e757",
+      "en_sha256": "9fbde2ce5b2c643464b151571a2ca2985fd7a4bbe74e82262e14fd693588c494",
+      "origin": "ai"
+    },
+    "dataList[id=SignOfDespair].desc": {
+      "pl": "Po zakończeniu ataku, jeśli istnieją cele bez Zimnych, Czarnych Łez, efekt zostanie zdjęty w następnej turze\n\nZyskuje 1 Wzrost Mocy Starcia i 1 Wzrost Obrażeń\nNadaje +1 więcej Zimnych, Czarnych Łez",
+      "kr_sha256": "ca80d8b25b3d5f7044a3dacfc538d61b81201db7b4c2c59181928def512ecd93",
+      "en_sha256": "e38fb4bd093350e73d8c0653877e81123a512997d251d5ef4aa18d54af4489fd",
+      "origin": "ai"
+    },
+    "dataList[id=SignOfDespair].name": {
+      "pl": "Błogosławieństwo Rozpaczy",
+      "kr_sha256": "d5f2dc82558ae004dd6e7ca49711289f280189bf68c144dabdd0dc3470133d23",
+      "en_sha256": "9351c2c3c8d84ee0398576f1dcf401db452248ec9bb0c0b74365053c2baff729",
+      "origin": "ai"
+    },
+    "dataList[id=SwordCutwithTear].desc": {
+      "pl": "- Na początku tury zyskuje 5 Głębokich Łez\n · Przy 3 stosach dodatkowo 5 Głębokich Łez\n- Na koniec tury traci (stosy x 15) Poczytalności\n- Podstawowe Umiejętności ataku zadają +(stosy x 10)% obrażeń (maks. 30%)\n- W stanie Błogosławieństwa na początku tury zyskuje tyle Wzrostów Mocy Starcia, ile wynosi stos tego efektu\n- W stanie Rozpaczy na początku tury zyskuje tyle Wzrostów Mocy Przebicia, ile wynosi stos tego efektu\n- Maks. stosów: 3",
+      "kr_sha256": "b361e43f7e9749cb7e21126b66cf61981216b837a6abe484bb2b9a8298336c2b",
+      "en_sha256": "4af0cae1ef7d0bc2c04074a95cf1054552699494c3f42db224b7cdf64382e111",
+      "origin": "ai"
+    },
+    "dataList[id=SwordCutwithTear].name": {
+      "pl": "Ostrzone Łzami",
+      "kr_sha256": "263f22e247abe9118769efc9f718125970cd9cbd9c1ec8c505e1b7f00230ca93",
+      "en_sha256": "a81e846b7def194216eb4fffe042ef1ee5e92300dbde86214012d677d1991de1",
+      "origin": "ai"
+    },
+    "dataList[id=ThePowerOfLoveAndHate].desc": {
+      "pl": "- Maks. Licznika: 20\n- Szczególne ładowanie\n- Zasób zużywany przez określone Umiejętności dla dodatkowych efektów. Licznik może osiągnąć do 20. Na koniec tury maleje o 1.\n(Efekty zmieniające Moc i Licznik ładowania działają na niego tak samo)",
+      "kr_sha256": "1c82dd96ff209c3bdfadcc161628bb7bca5a4d2e9178c453e2e2e2e30841349e",
+      "en_sha256": "10508a7ca72dfa9d6bfa41e94f446bb9f4428a8afdb14acac0e6b5b923e2fc31",
+      "origin": "ai"
+    },
+    "dataList[id=ThePowerOfLoveAndHate].name": {
+      "pl": "Miłość/Nienawiść",
+      "kr_sha256": "ffc9526539650efc671a4c0d60a481460973bd19aad9c7b46a4b1106cb26476d",
+      "en_sha256": "06efd23a63c2d20a5d50fb680651786805a60e4e0fd291d0b6bfc5d267c14b80",
+      "origin": "ai"
+    },
+    "dataList[id=TraumaShield].desc": {
+      "pl": "- Otrzymuje -80% obrażeń Poczytalności od wrogów\n- Otrzymuje -80% obrażeń od Zatonięcia\n- Na koniec tury maleje o 1",
+      "kr_sha256": "eabc52372b190f0ac8e68a2db1b2a8c94fd6afef68a354fbc261b5e7b1aa6b70",
+      "en_sha256": "c1622a347934aa59d121297781eae9307de151439aee30674a7cf9d56b100673",
+      "origin": "ai"
+    },
+    "dataList[id=TraumaShield].name": {
+      "pl": "Osłona Przed Traumą",
+      "kr_sha256": "85823475f23b6d915377c6a6d48adb5a8c097e90778c08d0780554f8efbc9caf",
+      "en_sha256": "616ac05aa508f29ddb63bb399b347efaabd1b308fafa132e918e2d95f7bebe4c",
+      "origin": "ai"
+    },
+    "dataList[id=UsedTooMuchPower].desc": {
+      "pl": "- Maks. stosów: 1\n- Na koniec tury opuszcza walkę",
+      "kr_sha256": "d367895b1b5b0278d7fb9b0bce41d7dbbb75846c8c16d8dc7f3854817ce92b22",
+      "en_sha256": "5ec1b7fde4cddde8ebc31e54f236c5c50aec7568a380ea07281f25bcad24bd01",
+      "origin": "ai"
+    },
+    "dataList[id=UsedTooMuchPower].flavor": {
+      "pl": "<color=#ff3d8f>Siła wyczerpana — nie może się ruszać.</color>",
+      "kr_sha256": "22baee9be6a8b66985a3dcec7c90ba45a09da4edc5cb1104c8cc025d214204f8",
+      "en_sha256": "47312925591374794fd23cd2cd18200b42bf7c75d7fb69a782b7ce50ed2ab534",
+      "origin": "ai"
+    },
+    "dataList[id=UsedTooMuchPower].name": {
+      "pl": "Chyba użyłam zbyt dużej mocy",
+      "kr_sha256": "3be062280d4d947e2560a301f1a3d3ff3c0b207f129927b5cfdbcd99dc13ccd7",
+      "en_sha256": "f9d8c4dc0338f38577465a44220c1d1658bbc17bb4fe4e9cb14f6314590d8b22",
+      "origin": "ai"
+    },
+    "dataList[id=VillainMark].desc": {
+      "pl": "- Otrzymuje +10% obrażeń od ataków Don Kichota\n\n- W każdej turze nakładany tylko na pierwszego celu, który go otrzymał",
+      "kr_sha256": "5f5231b4bacda3d318b17a956f5e89ac650d518dd18693128f48fe50d2925298",
+      "en_sha256": "5c5b833d71e41ee1e1f101ace17fe0bc56a686da57b94b69917b1290e551c8f7",
+      "origin": "ai"
+    },
+    "dataList[id=VillainMark].name": {
+      "pl": "Znak Złoczyńcy",
+      "kr_sha256": "881bd7721db61437128231123460be014f4b3822ea956ddcf45833f211403719",
+      "en_sha256": "0d9112996eee3d0d751b37299dffa524c0199d6c7764cdbb46e6516b66f36169",
+      "origin": "ai"
+    },
+    "dataList[id=WornOutKnight].desc": {
+      "pl": "Otrzymuje +100% obrażeń w tej turze",
+      "kr_sha256": "4933e8064f9066a468b873b96108664f1929a46c91ff1132b6dec06696aa8c56",
+      "en_sha256": "9ec3cd348fb150ac7b9531dd6f153641091bc2f56560970ee8e9442813a5a6ed",
+      "origin": "ai"
+    },
+    "dataList[id=WornOutKnight].flavor": {
+      "pl": "<color=#2e72b9>Rycerz, który chciał ocalić samego siebie, ratując innych, nosi dziś niechlubny przydomek Rycerza Rozpaczy i — jak wszyscy inni — znika z pamięci ludzi.</color>",
+      "kr_sha256": "06b1a2da896fee11b560c335e55683aecf3ccc58719ac974d7b6de490694b34c",
+      "en_sha256": "c57115d3b8bc392ad6bae0adbb64d51dbbd711014acce438bbeca0d63f39cb26",
+      "origin": "ai"
+    },
+    "dataList[id=WornOutKnight].name": {
+      "pl": "Zwietczały Rycerz",
+      "kr_sha256": "77f781468394962499d35eff968d3b7c81c6494428f1386cb8a2e2d244805084",
+      "en_sha256": "dbbf4a55726ba6f38eb19d02ea300a2f788a6bb55d20d27c4492bad16b81bb6b",
+      "origin": "ai"
+    }
+  }
+}

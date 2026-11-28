@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=136501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=136501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1365].desc": {
+      "pl": "Huge Bongy",
+      "kr_sha256": "2096711c695e64575774bafaec45b7206faa2c1d518c436742546dd76cc52341",
+      "en_sha256": "c7eeb83deeab49fadcc5fca0437d5cb6f2e75369fd115c519f3d3902d93b777c",
+      "origin": "ai"
+    },
+    "dataList[id=1365].name": {
+      "pl": "Da Boingy Empworoar",
+      "kr_sha256": "98a12e946e7c1242696c74eab9b665347c07f1a208902455c3ccf70d2905a79b",
+      "en_sha256": "9ea9be7c267bc8e3796b33ce26ad84edde511ad6510c2b826220a184d4d0d2d4",
+      "origin": "ai"
+    },
+    "dataList[id=138401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=138401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1384].desc": {
+      "pl": "Chapter 1 G Corp. Staff (ver. Bongy)",
+      "kr_sha256": "2e037f6ee3c9352eda1a8b3976f27927fe2d29c0c5005d4e67f6192d9da7bf1f",
+      "en_sha256": "41ecda3222e38671a090f0b40646ed11423757c32b1dfa48b344c7c859312d1f",
+      "origin": "ai"
+    },
+    "dataList[id=1384].name": {
+      "pl": "Bongybug",
+      "kr_sha256": "b1ab52c8b73b666861d6007217d3e07c17869b3959fca023663e0c734c3eb7f9",
+      "en_sha256": "f3c7aa44823171faddbf0714c50b748ee89faa489b24a35f5c80ce65b2bc5df2",
+      "origin": "ai"
+    },
+    "dataList[id=138501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=138501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1385].desc": {
+      "pl": "Chapter 2 Security Guard (ver. Bongy)",
+      "kr_sha256": "63ddba7cbff8a9c6915a0625087a9900ee903787c7b3af7a44e067ba868908e9",
+      "en_sha256": "23bea5ea9f008d8fd9f425f42fc8977a0af584bc8393038839595df7283e06a1",
+      "origin": "ai"
+    },
+    "dataList[id=1385].name": {
+      "pl": "Bongyguard",
+      "kr_sha256": "914f0e4064e0445f3118043e3e6f279305c57baa471a99152efa5ab32bcf4ad2",
+      "en_sha256": "a460dda7516e5cb4b939ffadf765b9aaf51ee11c324a7a4347f7d7f875dffea7",
+      "origin": "ai"
+    },
+    "dataList[id=138601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=138601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1386].desc": {
+      "pl": "Chapter 3 K Corp. Staff (ver. Bongy)",
+      "kr_sha256": "f472e7b341f87612f5966b6612f73f9eea90825a0b343fc79e63eae2c85ae32a",
+      "en_sha256": "b5c17e23eec1d028dc98b333e24754eca5061ced1b1b102941c55bf4b3758408",
+      "origin": "ai"
+    },
+    "dataList[id=1386].name": {
+      "pl": "Bongy Security",
+      "kr_sha256": "460ff35c69232f2a1daed8d7198cb66b450f6b7bb5da136422f7141d19300638",
+      "en_sha256": "232d6104369d0801e836b1268cc5b0257d92782ca34ab4fe28304262bfaeb5fa",
+      "origin": "ai"
+    },
+    "dataList[id=138701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=138701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1387].desc": {
+      "pl": "Huge Bongy",
+      "kr_sha256": "2096711c695e64575774bafaec45b7206faa2c1d518c436742546dd76cc52341",
+      "en_sha256": "c7eeb83deeab49fadcc5fca0437d5cb6f2e75369fd115c519f3d3902d93b777c",
+      "origin": "ai"
+    },
+    "dataList[id=1387].name": {
+      "pl": "False Bongy",
+      "kr_sha256": "405518dd7dda05f46785153816f4d6437635bee8af19d593ea1a260dd805b69d",
+      "en_sha256": "cfbe76f311d0a694baea798e9f45eaa257fe95d46f36e296a25ff14863815b3f",
+      "origin": "ai"
+    },
+    "dataList[id=91039].desc": {
+      "pl": "Chapter 1 G Corp. Staff (ver. Bongy)",
+      "kr_sha256": "2e037f6ee3c9352eda1a8b3976f27927fe2d29c0c5005d4e67f6192d9da7bf1f",
+      "en_sha256": "41ecda3222e38671a090f0b40646ed11423757c32b1dfa48b344c7c859312d1f",
+      "origin": "ai"
+    },
+    "dataList[id=91039].name": {
+      "pl": "Bongybug",
+      "kr_sha256": "b1ab52c8b73b666861d6007217d3e07c17869b3959fca023663e0c734c3eb7f9",
+      "en_sha256": "f3c7aa44823171faddbf0714c50b748ee89faa489b24a35f5c80ce65b2bc5df2",
+      "origin": "ai"
+    },
+    "dataList[id=91040].desc": {
+      "pl": "Chapter 2 Security Guard (ver. Bongy)",
+      "kr_sha256": "63ddba7cbff8a9c6915a0625087a9900ee903787c7b3af7a44e067ba868908e9",
+      "en_sha256": "23bea5ea9f008d8fd9f425f42fc8977a0af584bc8393038839595df7283e06a1",
+      "origin": "ai"
+    },
+    "dataList[id=91040].name": {
+      "pl": "Bongyguard",
+      "kr_sha256": "914f0e4064e0445f3118043e3e6f279305c57baa471a99152efa5ab32bcf4ad2",
+      "en_sha256": "a460dda7516e5cb4b939ffadf765b9aaf51ee11c324a7a4347f7d7f875dffea7",
+      "origin": "ai"
+    },
+    "dataList[id=91041].desc": {
+      "pl": "Chapter 3 K Corp. Staff (ver. Bongy)",
+      "kr_sha256": "f472e7b341f87612f5966b6612f73f9eea90825a0b343fc79e63eae2c85ae32a",
+      "en_sha256": "b5c17e23eec1d028dc98b333e24754eca5061ced1b1b102941c55bf4b3758408",
+      "origin": "ai"
+    },
+    "dataList[id=91041].name": {
+      "pl": "Bongy Security",
+      "kr_sha256": "460ff35c69232f2a1daed8d7198cb66b450f6b7bb5da136422f7141d19300638",
+      "en_sha256": "232d6104369d0801e836b1268cc5b0257d92782ca34ab4fe28304262bfaeb5fa",
+      "origin": "ai"
+    }
+  }
+}

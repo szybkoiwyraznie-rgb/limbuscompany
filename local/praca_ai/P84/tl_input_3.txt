@@ -1,0 +1,96 @@
+400||Umiejętność wroga [860507] (ulepszenie 1) — nazwa] 슬픈 주인님|My Tragic Master
+403||Umiejętność wroga [860601] (ulepszenie 1) — nazwa] 주인님...?|Master...?
+405||Umiejętność wroga [860801] (ulepszenie 1) — nazwa] 뿔 들이박기|Horned Charge
+408||Umiejętność wroga [860802] (ulepszenie 1) — nazwa] 양뿔 들이박기|Ram Charge
+412||Umiejętność wroga [860803] (ulepszenie 1) — nazwa] 양울음|Lamb's Cry
+415||Umiejętność wroga [860804] (ulepszenie 1) — nazwa] 번개 조작|Lightning Manipulation
+420||Umiejętność wroga [860805] (ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 4당 가중치 +1 (최대 5)\n[WhenUse] 자신의 [Charge] 횟수 5당 합 위력 +3 (최대 4)\n[WhenUse] 자신의 [Charge] 횟수 6당 [VioletDamageUp] 1 얻음 (최대 3)\n[EndBattle] 모든 [Charge] 횟수 소모. [ConnectedPlug] 제거|[WhenUse] Atk Weight +1 for every 4 [Charge] Count on self (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Count on self (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Count on self (max 3)\n[EndBattle] All [Charge] Count on self expires. Loses [ConnectedPlug]
+422||Umiejętność wroga [860805] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown] 4 부여|[OnSucceedAttack] Inflict 4 [AttackDown] next turn
+425||Umiejętność wroga [860806] (ulepszenie 1) — opis] [CantDuel]\n[WhenUse] [Protection] 10 얻음\n[WhenUse] 자신의 [Charge] 횟수 4당 가중치 +1 (최대 5)\n[WhenUse] 자신의 [Charge] 횟수 5당 합 위력 +3 (최대 4)\n[WhenUse] 자신의 [Charge] 횟수 6당 [VioletDamageUp] 1 얻음 (최대 3)|[CantDuel]\n[WhenUse] Gain 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Count on self (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Count on self (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Count on self (max 3)
+426||Umiejętność wroga [860807] (ulepszenie 1) — nazwa] 접지 거부|Grounding Refusal
+427||Umiejętność wroga [860807] (ulepszenie 1) — opis] [AntiSheepGround]가 있는 인격 우선 공격\n[ConnectedPlug]당 합 위력 +1\n[StartBattle] (3 - [ConnectedPlug] 수) * 2만큼 [Protection]를 얻음\n[WhenUse] 자신의 [Charge] 횟수 1 증가\n[DefeatDuel] 대상에게 [AntiSheepGround]가 있다면, [ConnectedPlug] 1 얻음|Prioritizes targets with [AntiSheepGround]\nClash Power +1 for every [ConnectedPlug]\n[StartBattle] Gain 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] Gain +1 [Charge] Count\n[DefeatDuel] If target has [AntiSheepGround], gain 1 [ConnectedPlug]
+430||Umiejętność wroga [862801] (ulepszenie 1) — nazwa] 과충전 방출|Overcharge Release
+432||Umiejętność wroga [862901] (ulepszenie 1) — nazwa] 휘감는 체념|Enveloping Resignation
+433||Umiejętność wroga [862901] (ulepszenie 1) — opis] 대상의 [Sinking]이 6 이상이면 코인 위력 +1\n[WinDuel] [Sinking] 횟수 3 증가|If target has 6+ [Sinking], Coin Power +1\n[WinDuel] Inflict +3 [Sinking] Count
+436||Umiejętność wroga [862902] (ulepszenie 1) — nazwa] 옥죄는 절망|Strangling Despair
+437||Umiejętność wroga [862902] (ulepszenie 1) — opis] 대상의 [Sinking] 6 당 코인 위력+1 (최대 2)\n[WinDuel] [Sinking] 횟수 3 증가\n[DefeatDuel] [Sinking] 횟수 1 감소|Coin Power +1 for every 6 [Sinking] on target (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Count by 1
+441||Umiejętność wroga [862903] (ulepszenie 1) — nazwa] 사슬 끊기|Chainbreaker
+442||Umiejętność wroga [862903] (ulepszenie 1) — opis] 대상에게 [Binding]이 있으면 합 위력 +1\n [WinDuel] [Sinking] 횟수 4 증가\n[DefeatDuel] [Sinking] 위력 2 감소|If target has [Binding], Clash Power +1\n[WinDuel] Inflict +4 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Potency by 2
+448||Umiejętność wroga [862904] (ulepszenie 1) — opis] 대상의 [Sinking] 6 당 코인 위력 +1(최대 2)\n[DefeatDuel] [Sinking] 횟수 2 감소\n[DefeatDuel] [BandageOfTheBoundKing] 부여|Coin Power + for every 6 [Sinking] on target (max 2)\n[DefeatDuel] Reduce [Sinking] Count by 2\n[DefeatDuel] Apply [BandageOfTheBoundKing]
+449||Umiejętność wroga [862904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여\n[OnSucceedAttack] 대상의 [Sinking] 만큼 [Vibration] 부여|[OnSucceedAttack] Inflict 3 [Binding] next turn\n[OnSucceedAttack] Inflict [Vibration] equal to [Sinking] on target
+451||Umiejętność wroga [862905] (ulepszenie 1) — nazwa] 가라앉으라|Thou Wilt Sink
+452||Umiejętność wroga [862905] (ulepszenie 1) — opis] 대상에게 [Binding]이 있으면 합 위력 +1\n[WinDuel] [Sinking] 횟수 2 증가\n[DefeatDuel] [Sinking] 위력 4 감소|If target has [Binding], Clash Power +1\n[WinDuel] Inflict +2 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Potency by 4
+454||Umiejętność wroga [862906] (ulepszenie 1) — nazwa] 왕의 앞으로 오라|Present Thyself Before the King
+455||Umiejętność wroga [862906] (ulepszenie 1) — opis] [CantDuel]\n[StartBattle] 다음 턴에 [Binding] 5, [ComeForwardToTheKing] 1, [Enhancement] 2 얻음.\n[WhenUse] [BandageOfTheBoundKing]가 부여된 대상에게 보호막 300 부여|[CantDuel]\n[StartBattle] Gain 5 [Binding], 1 [ComeForwardToTheKing], and 2 [Enhancement] next turn.\n[WhenUse] Apply 300 Shield to targets with [BandageOfTheBoundKing]
+456||Umiejętność wroga [862906] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 피해를 주었으면, 대상의 [Sinking]만큼 [Vibration] 부여|[OnSucceedAttack] If this unit dealt damage to the target, inflict [Vibration] equal to [Sinking] on target
+458||Umiejętność wroga [860602] (ulepszenie 1) — nazwa] 주인님의 초상화|Master's Portrait
+459||[refraction4] Pasywka wroga [860501] — nazwa] 초상화 잔상 목도|Portrait Afterimage Sighting
+460||[refraction4] Pasywka wroga [860501] — opis] 주인님의 초상화와 연결된 슬롯일 경우, 초상화의 색상과 같은 색의 파장이 일어남|If a Skill Slot is attached to the Master's Portrait, a shockwave in the same color as the aura around the Master's Portrait occurs when the Portrait is revealed
+461||[refraction4] Pasywka wroga [860502] — nazwa] 불청객 쫓기|Throwing Out the Interloper
+462||[refraction4] Pasywka wroga [860502] — opis] 초상화가 있을 때\n- 턴 종료시 초상화가 등장한지 3턴이 지났다면,\n- [UninvitedGuest]이 없는 편성 순서가 가장 빠른 적에게 [UninvitedGuest] 부여\n- 모든 초상화를 불태움. 불태운 가짜 초상화의 2배만큼 모든 적에게 [Sinking] 부여, [Sinking] 횟수 증가. 다음 턴에 [AttackUp], [Protection]를 얻음|When the Portraits are present:\n- Turn End: Once 3 turns have passed since the Portraits have appeared...\n     - Inflict [UninvitedGuest] to the earliest-Deployed enemy without [UninvitedGuest]\n     - Incinerate all Portraits. Inflict double the amount of fake Portraits burned as [Sinking] Potency and Count against all enemies. Gain [AttackUp] and [Protection] next turn
+463||[refraction4] Pasywka wroga [860503] — nazwa] 불청객 사냥|Interloper Hunt
+464||[refraction4] Pasywka wroga [860503] — opis] 대상에게 [UninvitedGuest]이 있을 경우, 합 위력 +1, 피해량 +20%|If the target has [UninvitedGuest], Clash Power +1 and deal +20% damage
+465||[refraction4] Pasywka wroga [860507] — nazwa] 아아 주인님…|Ooh, Dear Master...
+466||[refraction4] Pasywka wroga [860507] — opis] 초상화가 있을 때, 속성 및 공격 유형 내성이 0.5씩 감소 및 [Protection] 8을 얻음.\n적이 주인님의 초상화를 처치했다면, [UninvitedGuest]을 부여, 다음 턴동안 자신의 물리 내성이 0.5 상승하고 취약 5 얻음.|When the Portraits are present, reduce Affinity & Attack Type Resistances by 0.5, and gain 8 [Protection].\nIf the enemies defeated the Master's Portrait, inflict [UninvitedGuest] to the unit that defeated it; then gain 0.5 Phys. Resistances and 5 Fragile for the next turn.
+467||[refraction4] Pasywka wroga [860505] — nazwa] 당신도 불청객의 식구군요?|You Must Be the Interloper's Family?
+468||[refraction4] Pasywka wroga [860505] — opis] [UninvitedGuest]을 소유한 적이 생기면, 자신의 체력이 10% 떨어질 때마다 [UninvitedGuest]이 없는 적에게 [UninvitedGuest] 1 부여 (최대 4명)|When an enemy has [UninvitedGuest], inflict [UninvitedGuest] against an enemy without [UninvitedGuest] every time this unit loses 10% of its HP (max 4 enemies)
+469||[refraction4] Pasywka wroga [860601] — nazwa] 따라오는 눈길|Peering Gaze
+470||[refraction4] Pasywka wroga [860601] — opis] 존재하는 동안 모든 적에게 [Sinking] 1 부여, [Sinking] 횟수 1 증가|As long as this unit exists, inflict 1 [Sinking] Potency and Count every turn
+472||[refraction4] Pasywka wroga [860602] — opis] 자신이 죽을 때, 마지막으로 자신을 공격했던 대상에게 [UninvitedGuest] 부여\n- 4명 이상의 적이 [UninvitedGuest]을 가지고 있다면 부여하지 않음|When this unit is defeated, inflict [UninvitedGuest] against the enemy that attacked this unit last\n- If 4+ enemies have [UninvitedGuest], this effect does not activate
+477||[refraction4] Pasywka wroga [860801] — nazwa] 낯설지 않은 플러그|A Familiar Connector
+478||[refraction4] Pasywka wroga [860801] — opis] [ConnectedPlug]당 속도 최소값 1증가, [Vulnerable] 1, [AttackDmgUp] 1을 얻음\n[ConnectedPlug]가 3이 되어 다음 턴에 흐트러짐 상태가 된다면 [Vulnerable] 4를 얻음|For every [ConnectedPlug], gain 1 Min. Speed value, 1 [Vulnerable], and 1 [AttackDmgUp]\nWhen this unit is Staggered next turn due to having 3 [ConnectedPlug], gain 4 [Vulnerable]
+479||[refraction4] Pasywka wroga [860802] — nazwa] 과전류|Overcurrent
+480||[refraction4] Pasywka wroga [860802] — opis] 턴 종료시 자신의 [Charge] 횟수 10당 다음 턴에 [VioletDamageUp] 1 얻음 (최대 2)|Turn End: For every 10 [Charge] Count on self, gain 1 [VioletDamageUp] next turn (max 2)
+481||[refraction4] Pasywka wroga [860803] — nazwa] 벗어나고 싶은|Want to be Free
+482||[refraction4] Pasywka wroga [860803] — opis] 전체 체력의 25%만큼 남았을 때, 다음 턴부터 턴이 지날때마다\n- [ParryingResultUp] 1씩 추가로 얻음\n- [AttackDmgUp] 1씩 추가로 얻음\n- [Vulnerable] 1씩 추가로 얻음|At 25% HP, starting this turn, gain 1 of the following every turn. The values are cumulative and do not expire.\n- Gain 1 [ParryingResultUp]\n- Gain 1 [AttackDmgUp]\n- Gain 1 [Vulnerable]
+484||[refraction4] Pasywka wroga [860804] — opis] 턴 종료시 자신에게 [ConnectedPlug]와 [ThundercloudFormation]이 없다면, 다음 턴에 발전기를 한 번 소환함.|Turn End: If this unit does not have [ConnectedPlug] and [ThundercloudFormation], summon a Generator once next turn.
+486||[refraction4] Pasywka wroga [862801] — opis] 턴 종료 시 전기양에게 다음 턴에 [ThundercloudFormation] 4 부여.\n이미 있다면, 부여하지 않음.|Turn End: Apply 4 [ThundercloudFormation] to the Dreaming Electric Sheep next turn.\nDoes not apply more of this effect if it already has this effect.
+487||[refraction4] Pasywka wroga [862802] — nazwa] 떼어내진 대양전 접지 플러그|Detached Anti-Ovine Grounding Plug
+488||[refraction4] Pasywka wroga [862802] — opis] 피격 시, 공격자에게 다음 턴에 [AntiSheepGround] 1 부여 (턴 당 1회)|When hit, inflict 1 [AntiSheepGround] to the Attacker (once per turn)
+489||[refraction4] Pasywka wroga [862803] — nazwa] 안전 제일 플러그|Safety Plug
+490||[refraction4] Pasywka wroga [862803] — opis] 받는 모든 피해가 0이 됨|Reduces all damage taken to 0
+491||[refraction4] Pasywka wroga [862901] — nazwa] 연회의 서막|Prelude of the Banquet
+492||[refraction4] Pasywka wroga [862901] — opis] 2턴 시작 시 묶인 왕의 하수인을 소환한다.\n묶인 왕의 하수인은 사망 시 또 다른 하수인으로 대체되며, 총 12명의 하수인이 소환된다.|Turn 2 Start: Summon the retinue of the King in Binds.\nThe King has twelve retainers. Upon the death of a retainer, another will fill its place until there are none.
+493||[refraction4] Pasywka wroga [862902] — nazwa] 연회의 끝|Closing of the Banquet
+494||[refraction4] Pasywka wroga [862902] — opis] 하수인이 모두 사망하면, 전투에 직접 참여한다.|When all retainers are defeated, the King joins the fight.
+497||[refraction4] Pasywka wroga [862904] — nazwa] 끊어지는 붕대|Snapping Bandages
+498||[refraction4] Pasywka wroga [862904] — opis] 몸통 부위 파괴 시 모든 적에게 [BandageOfTheBoundKing]를 부여한다.|When the Body Part is destroyed, apply [BandageOfTheBoundKing] on all enemies.
+499||[refraction4] Pasywka wroga [828001] — nazwa] 묶인 왕의 하수인|Retainer of the King in Binds
+500||[refraction4] Pasywka wroga [828001] — opis] 이번 전투동안 [BandageOfTheBoundKing], [BigWelcome]를 얻음.\n매 턴 시작 시 묶인 왕이 이 캐릭터에게 가호를 부여함.\n묶인 왕의 가호는 턴마다 [Enhancement]를 부여, 정신력 회복, 체력 회복 순으로 달라짐. 생존한 묶인 왕의 하수인(질투 죄종)의 수가 6명 미만이면, 부여되는 가호가 강화됨.|- Gain [BandageOfTheBoundKing] and [BigWelcome] for this Encounter.\n- At every Turn Start, the King in Binds blesses this unit with grace.\n- The grace of the King in Binds changes every turn, in the following order: [Enhancement], SP Heal, and HP Heal. If there are less than 6 surviving Retainers(Peccatulum Invidiae), boost the grace's strength.
+503||[refraction4] Pasywka wroga [828003] — nazwa] 나오면 안되는 텍스트|LOOK AWAY!
+505||[refraction4] Pasywka wroga [860506] — nazwa] 굴절된 힘겨루기|Refracted Struggle
+508||[refraction4] Pasywka wroga [828004] — opis] 가하는 피해량 +15%, 받는 피해량 -15%|Deal +15% damage and take -15% damage
+510||[refraction4] Pasywka wroga [828005] — opis] 시작 정신력 +30|Entry SP +30
+512||[refraction4] Pasywka wroga [828006] — opis] 시작 정신력 -20|Entry SP -20
+514||[refraction4] Pasywka wroga [828007] — opis] 시작 정신력 +45|Entry SP +45
+516||[refraction4] Pasywka wroga [828008] — opis] 시작 정신력 +20|Entry SP +20
+517||[refraction5] Wróg / część [8630] — nazwa] 굴절된 흉탄의 사수|Refracted Der Fluchschütze
+519||[refraction5] Wróg / część [8631] — nazwa] 굴절된 옛 G사 부장|Refracted Old G Corp. Head Manager
+521||[refraction5] Wróg / część [8632] — nazwa] 굴절된 지난 날의 침낭|Refracted Sleeping Bag of a Bygone Day
+529||[refraction5] Wróg / część [8634] — nazwa] 굴절된 이발사|The Refracted Barber
+531||[refraction5] Wróg / część [8635] — nazwa] 굴절된 아파하는 테디|Refracted Hurting Teddy Bear
+533||[refraction5] Wróg / część [8636] — nazwa] 굴절된 장미 사냥꾼|Refracted Rose Hunter
+535||[refraction5] Wróg / część [8637] — nazwa] 굴절된 가시 올가미|Refracted Barbed Lasso
+537||[refraction5] Wróg / część [8638] — nazwa] 굴절된 돌시네아|Refracted Dulcinea
+539||[refraction5] Wróg / część [8639] — nazwa] 굴절된 괴로운 행렬의 피주머니|Refracted Bloodbag of the Painful Parade
+541||[refraction5] Wróg / część [8640] — nazwa] 굴절된 뒤따르는 행렬의 피주머니|Refracted Bloodbag of the Rear Parade
+543||[refraction5] Wróg / część [8641] — nazwa] 굴절된 행복한 행렬의 혈귀|Refracted Bloodfiend of the Happy Parade
+545||[refraction5] Wróg / część [8642] — nazwa] 굴절된 즐거운 행렬의 혈귀|Refracted Bloodfiend of the Joyful Parade
+547||[refraction5] Wróg / część [8643] — nazwa] 굴절된 신부|The Refracted Priest
+553||[refraction5] Wróg / część [8646] — nazwa] 굴절된 도전적인 송곳니 사냥 사무소 해결사|Refracted Combative Fanghunt Office Fixer
+555||[refraction5] Wróg / część [8647] — nazwa] 굴절된 자존심 강한 송곳니 사냥 사무소 해결사|Refracted Prideful Fanghunt Office Fixer
+557||[refraction5] Wróg / część [8648] — nazwa] 굴절된 나태 죄종??|Refracted Peccatulum Pigritiae??
+559||[refraction5] Wróg / część [8649] — nazwa] 굴절된 우울 죄종??|Refracted Peccatulum Morositatis??
+561||[refraction5] Wróg / część [8650] — nazwa] 굴절된 뒤틀린 호엔하임|Refracted Distorted Hohenheim
+563||[refraction5] Wróg / część [8651] — nazwa] 굴절된 절망하는 피주머니|Refracted Despairing Bloodbag
+565||[refraction5] Wróg / część [8652] — nazwa] 굴절된 전락한 피주머니|Refracted Disgraced Bloodbag
+567||[refraction5] Wróg / część [8633] — nazwa] 굴절된 사백송이의 장미|Refracted Four-hundred Roses
+573||[refraction5] Wróg / część [8684] — nazwa] 굴절된 짙어진 패잔병|Refracted Downcast Veteran
+575||[refraction5] Wróg / część [8683] — nazwa] 굴절된 분노 죄종??|Refracted Peccatulum Irae??
+578||Umiejętność wroga [863001] (ulepszenie 1) — opis] 이 스킬에서 크리티컬 피해량 +10%\n[WhenUse] 자신의 [Breath] 10 이상이면, 기본 위력 +1\n[WhenUse] [Breath] 2 얻음|This Skill deals +10% damage on Critical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain 2 [Breath]
+582||Umiejętność wroga [863002] (ulepszenie 1) — opis] 이 스킬에서 크리티컬 피해량 +10%\n[WhenUse] 자신의 [Breath] 10 이상이면, 기본 위력 +1\n[WhenUse] [Breath] 횟수 3 증가|This Skill deals +10% damage on Critical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain +3 [Breath] Count
+584||Umiejętność wroga [863002] (ulepszenie 1) — moneta 1, efekt 2 — opis] [CriticalOnSucceedAttack] [Laceration] 횟수 3 증가|[CriticalOnSucceedAttack] Inflict +3 [Laceration] Count
+586||Umiejętność wroga [863003] (ulepszenie 1) — opis] [WhenUse] [Breath] 2 얻음\n[WhenUse] 자신의 [Breath] 10 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 5 당, 코인 위력 +1 (최대 2)\n[WinDuel] 이 공격 스킬의 크리티컬 피해량 +50%|[WhenUse] Gain 2 [Breath]\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Coin Power +1 for every 5 [Breath] Count on self (max 2)\n[WinDuel] This Attack Skill deals +50% damage on Critical Hit
+591||Umiejętność wroga [863003] (ulepszenie 1) — moneta 2, efekt 2 — opis] 이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 대상이 흐트러짐 상태가 아니거나 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음|This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally or if the target wasn't Staggered, 1 random sub-target takes damage
+594||Umiejętność wroga [863004] (ulepszenie 1) — nazwa] 재장전 사격|Reload, Fire
+595||Umiejętność wroga [863004] (ulepszenie 1) — opis] 이 공격 스킬의 크리티컬 피해량 +50%\n[WhenUse] 자신의 [Breath] 횟수 5 당, 코인 위력 +1 (최대 3)\n[WhenUse] [Breath] 3 얻음|This Skill deals +50% damage on Critical Hit\n[WhenUse] Coin Power +1 for every 5 [Breath] Count on self (max 3)\n[WhenUse] Gain 3 [Breath]

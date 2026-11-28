@@ -1,0 +1,184 @@
+{
+  "entries": {
+    "dataList[id=600201].desc": {
+      "pl": "stosuje efekt [PanicChangeLock],\nPoczytalność nie spada poniżej 0\n\nw tej walce stosuje następujące efekty na Mine, Patriarsze Trzeciej Rodziny Klanu Kurokumo:\n- <color=#ff6000><mark=#ff000040><b><u>w Starciu przeciwko Umiejętnościom E.G.O atrybutu Cięcia, Moc Starcia -5</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>otrzymuje +(150 / liczba monet)% obrażeń od Umiejętności E.G.O atrybutu Cięcia</u></b></mark></color>",
+      "kr_sha256": "32782ed9a2d8e1a4b42e8e6b24f17b9f58abc55eabe8b407ca97070d7dcd3851",
+      "en_sha256": "e0868c3ecd47f6d4445ff995103cbbcfafa692c8dd687f0db4776cafcdb1429b",
+      "origin": "ai"
+    },
+    "dataList[id=600201].flavor": {
+      "pl": "„Ciąg reprezentacji, zbudowany w grupowaniu schematów. Przez ten trening można doświadczyć bardzo wiele, więc... powodzenia, Menedżerze. Zwłaszcza Tobie, cóż... powiem, że pasuje to do Ciebie szczególnie dobrze.”\n\n„Gdyby Wieża Syzyfa wciąż stała, zastanawiam się, jaką formę przyjęłaby Twoja wersja systemu?”",
+      "kr_sha256": "7ea726de4798aa203b2f61185521c04037978ed7c2434366c19d1daf74e95d38",
+      "en_sha256": "4487b19b2c8939a18f0984da7ef834e7c297db14b135976392f0004e290b3ef3",
+      "origin": "ai"
+    },
+    "dataList[id=600201].name": {
+      "pl": "Schemacraft",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
+      "origin": "ai"
+    },
+    "dataList[id=600202].desc": {
+      "pl": "na początku 3. tury jednostka wyposaża „Battō Shisei” w slotach Umiejętności i używa go wielokrotnie w tej turze\n- na początku tamtej tury, zyskuje (25 + (procent brakującego HP jednostki) / 2)[SharpSensibility] (zaokrąglone w dół)\n- w tamtej turze, <color=#ff6000><mark=#ff000040><b><u>gdy zostanie trafiona 1 raz Umiejętnością E.G.O Grzesznika o bazowej Wadze Ataku 1, „Battō Shisei” zostaje anulowane</u></b></mark></color> i stosowane są następujące efekty (każda Umiejętność liczy się jako jedno trafienie):\n  · [SharpSensibility] zmienia się na 0\n  · zyskuje +1 wszystkich zasobów E.G.O\n  · zyskuje 5 [Vulnerable] na następną turę; Moc Starcia „Kumogiri” i „Rend Space” -5\n- powtarza powyższe co 2 tury. <color=#ff6000><mark=#ff000040><b><u>za każdym razem, gdy jednostka wchodzi w ten wzór, liczba trafień wymaganych do anulowania „Battō Shisei” rośnie o 1 (maks. +3)</u></b></mark></color>\n\nna początku tury: jeżeli jednostka miała wyposażone „Battō Shisei” na koniec poprzedniej tury, używa „Kumogiri”\n\ngdy HP jednostki po raz pierwszy w tej walce spadnie do 50% lub mniej, tura natychmiast się kończy; następnie, jeżeli jest mniej niż 5 sojuszników „Kurokumo Clan” poza tą jednostką i Jun, przywołuje do 5 sojuszników: Adept Kurokumo Henchwoman i Tired Kurokumo Henchwoman.\n(wymienione jednostki pojawiają się z 30 Poczytalności)\n\npo zmianie wzoru zyskuje następujące efekty:\n- zadaje +(procent brakującego HP jednostki)% obrażeń (maks. 100%)\n- zamienia „Kumogiri” w „Rend Space”",
+      "kr_sha256": "6a8cbdc762d6056609abc5b1f5ee19a19a0b3930766079ca8a3821f144035e94",
+      "en_sha256": "2b2d4b77bbc8a9fa6244993c3fb67e3323b0a03d00f23eb1791c371476fb9bba",
+      "origin": "ai"
+    },
+    "dataList[id=600202].flavor": {
+      "pl": "Sztukę dobywania miecza, znak rozpoznawczy Klanu Kurokumo, stworzył jego pierwszy Patriarcha. Możesz wpatrywać się w czarne chmury, jak chcesz, ale nigdy nie przewidzisz, gdzie i kiedy błyskawicznie szybkie ostrze uderzy.",
+      "kr_sha256": "56b959d7343503e8ec061910864d1f0c2356368505ce989301df7ab73b1d4b01",
+      "en_sha256": "b1e3a4728dc3c81aee67b277d966f66b0213b3bfdac48ccaedb1d0beb1705086",
+      "origin": "ai"
+    },
+    "dataList[id=600202].name": {
+      "pl": "Battōjutsu [Kurokumo]",
+      "kr_sha256": "7e6fb43ed90c5f6cf5ded05585d134ac2ae75528ffda1084b0e21dc17040d298",
+      "en_sha256": "2b8c2215ecbbedc5ec88093448a8d14092cd7988a249b3d78fbe56809af4b8b4",
+      "origin": "ai"
+    },
+    "dataList[id=600202].summary": {
+      "pl": "co 2 tury używa „Battō Shisei”, a następnie „Kumogiri”\n„Battō Shisei” zostaje anulowane po trafieniu Umiejętnością E.G.O\nprzy 50%- HP przywołuje sojuszników i zadaje więcej obrażeń",
+      "kr_sha256": "e2b49f3c0c354e4b4fa9f4c8e99362a1398c75cbabc05e3a3b0fc8f210d57b2a",
+      "en_sha256": "2b1e2b2b1860018318a612c2468c5351a25a0ad188c1df9d1dba450b877638f6",
+      "origin": "ai"
+    },
+    "dataList[id=600203].desc": {
+      "pl": "sojusznicze jednostki „Kurokumo Clan”, włączając tę jednostkę, zyskują 1 [BlackCloudBladeEnemy] na czas walki\n- gdy HP objętej efektem jednostki po raz pierwszy w tej walce spadnie do 50% lub mniej, dodatkowo zyskuje 1 [EngageToBattleEnemy]\n\n<color=#ff6000><mark=#ff000040><b><u>za każdym razem, gdy sojusznicza jednostka „Kurokumo Clan” zostaje pokonana, Minimalna i Maksymalna Szybkość Mine, Patriarchy Trzeciej Rodziny Klanu Kurokumo +1 (każda maks. +5)</u></b></mark></color>",
+      "kr_sha256": "4990e5623d94809e59fd75d44473c8e09286c88cbe886e0760f07355e9ece0da",
+      "en_sha256": "970cc083fd5d0277be7a8aebc865f9dae98a499add50a1a1abc513255524a3ac",
+      "origin": "ai"
+    },
+    "dataList[id=600203].flavor": {
+      "pl": "Zasięg Klanu Kurokumo sięga od Południa Miasta aż po Wschód. Jego odgałęzień jest wiele, ale dopiero od Pierwszej do Czwartej Rodziny każda zyskała własną tożsamość. W charakterze każdej z nich można rozpoznać rękę jej Patriarchy.\n\nPierwsza rządzi Klanem. Druga stała się jego najostrzejszym ostrzem. Trzecia lubi dobre bitwy na ostrza i rzeź, która z nimi przychodzi, i trafia tam, gdzie jest ich pod dostatkiem. A Czwarta... pewnego dnia Czwarta po prostu zniknęła. Dokąd — nikt nie wie.",
+      "kr_sha256": "e0a5503d864a4f51800555f71f675cb589eb90a1cd7a4c3ff5d0859b7a63f4d2",
+      "en_sha256": "db1d330f5f8879de3445bf730df5922cfb3e5b33e659521f8585b3b45843db23",
+      "origin": "ai"
+    },
+    "dataList[id=600203].name": {
+      "pl": "Mine, Patriarcha Trzeciej Rodziny Klanu Kurokumo",
+      "kr_sha256": "c3a77f677fa47e3f171b34019cad4be3bc005a161e7c94e5d6eee47bb8905555",
+      "en_sha256": "f46712e66ea977031978db38986f5c43c4b3bef6530df6cc2a31d087e0fe6401",
+      "origin": "ai"
+    },
+    "dataList[id=600405].desc": {
+      "pl": "w tej walce stosuje następujące efekty na Kurokumo Clan Captain Jun:\n- Maks. HP +75%, usunięcie jednego Progu Oszołomienia (30%)\n- <color=#ff6000><mark=#ff000040><b><u>otrzymuje +50% obrażeń od Umiejętności Cięcia (w przypadku Umiejętności E.G.O, zamiast tego +100% obrażeń)</u></b></mark></color>\n- gdy HP jednostki po raz pierwszy spadnie do 50% lub mniej, tura natychmiast się kończy;\njeżeli na polu jest mniej niż 5 sojuszników „Kurokumo Clan” (poza tą jednostką), przywołuje do 5 sojuszników (łącznie <noparse>Determined</noparse> Kurokumo Henchmen i Tense Kurokumo Henchmen; nowo przywołane jednostki wchodzą na pole z 30 Poczytalności)",
+      "kr_sha256": "6971d23c49db608430b4d3b8bed23c04e82a556aecfd1c80e80a24e6344aecbc",
+      "en_sha256": "524ef6d46a883c8683762da9d021876fc8dc5b0197ae814484520c052b9c7826",
+      "origin": "ai"
+    },
+    "dataList[id=600405].flavor": {
+      "pl": "„Ciąg reprezentacji, zbudowany w grupowaniu schematów. Przez ten trening można doświadczyć bardzo wiele, więc... powodzenia, Menedżerze. Zwłaszcza Tobie, cóż... powiem, że pasuje to do Ciebie szczególnie dobrze.”\n\n„Gdyby Wieża Syzyfa wciąż stała, zastanawiam się, jaką formę przyjęłaby Twoja wersja systemu?”",
+      "kr_sha256": "7ea726de4798aa203b2f61185521c04037978ed7c2434366c19d1daf74e95d38",
+      "en_sha256": "4487b19b2c8939a18f0984da7ef834e7c297db14b135976392f0004e290b3ef3",
+      "origin": "ai"
+    },
+    "dataList[id=600405].name": {
+      "pl": "Schemacraft",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
+      "origin": "ai"
+    },
+    "dataList[id=600508].desc": {
+      "pl": "w tej walce stosuje następujące efekty na Ricardo:\n- Maks. HP +25%, usunięcie jednego Progu Oszołomienia (25%)\n- <color=#ff6000><mark=#ff000040><b><u>otrzymuje +50% obrażeń od Umiejętności Uderzenia (w przypadku Umiejętności E.G.O, zamiast tego +100% obrażeń)</u></b></mark></color>\n- Poczytalność nie spada poniżej 0\n- Minimalna i Maksymalna Szybkość +1 za każdym razem, gdy ginie sojusznik tej jednostki ze „The Middle” (każda maks. 3)\n- po użyciu Umiejętności „Assemble”, przywołuje 2 dodatkowych sojuszników",
+      "kr_sha256": "27c1683cad717fdb5d3fb8355c234b3b8d9cb8531818fb635b1e8810a4c06f4d",
+      "en_sha256": "fd8efe911a7d6a63af21db32401822500bc7ab29299269d094d59c6b98151e9a",
+      "origin": "ai"
+    },
+    "dataList[id=600508].flavor": {
+      "pl": "„Ciąg reprezentacji, zbudowany w grupowaniu schematów. Przez ten trening można doświadczyć bardzo wiele, więc... powodzenia, Menedżerze. Zwłaszcza Tobie, cóż... powiem, że pasuje to do Ciebie szczególnie dobrze.”\n\n„Gdyby Wieża Syzyfa wciąż stała, zastanawiam się, jaką formę przyjęłaby Twoja wersja systemu?”",
+      "kr_sha256": "7ea726de4798aa203b2f61185521c04037978ed7c2434366c19d1daf74e95d38",
+      "en_sha256": "4487b19b2c8939a18f0984da7ef834e7c297db14b135976392f0004e290b3ef3",
+      "origin": "ai"
+    },
+    "dataList[id=600508].name": {
+      "pl": "Schemacraft",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
+      "origin": "ai"
+    },
+    "dataList[id=600605].desc": {
+      "pl": "w tej walce stosuje następujące efekty na Little Brother Werner:\n- <color=#ff6000><mark=#ff000040><b><u>otrzymuje +25% obrażeń od Umiejętności Uderzenia (w przypadku Umiejętności E.G.O, zamiast tego +100% obrażeń)</u></b></mark></color>",
+      "kr_sha256": "34e36525c35bd810c17ab6bf73ddfaee65d58e61648a5ea9ab7341837f92b4d1",
+      "en_sha256": "1e61fc3ee772d068dec94ecadeec8647e4395604a0d4dc3685aa99ede2352cc9",
+      "origin": "ai"
+    },
+    "dataList[id=600605].flavor": {
+      "pl": "„Ciąg reprezentacji, zbudowany w grupowaniu schematów. Przez ten trening można doświadczyć bardzo wiele, więc... powodzenia, Menedżerze. Zwłaszcza Tobie, cóż... powiem, że pasuje to do Ciebie szczególnie dobrze.”\n\n„Gdyby Wieża Syzyfa wciąż stała, zastanawiam się, jaką formę przyjęłaby Twoja wersja systemu?”",
+      "kr_sha256": "7ea726de4798aa203b2f61185521c04037978ed7c2434366c19d1daf74e95d38",
+      "en_sha256": "4487b19b2c8939a18f0984da7ef834e7c297db14b135976392f0004e290b3ef3",
+      "origin": "ai"
+    },
+    "dataList[id=600605].name": {
+      "pl": "Schemacraft",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
+      "origin": "ai"
+    },
+    "dataList[id=601101].desc": {
+      "pl": "Część „Telepole” zyskuje 10 [ElectricPolePower] w określone tury\njeżeli [ElectricPolePower] spadnie do 0 przez swoje efekty, Część „Telepole” zostaje zniszczona\njeżeli [ElectricPolePower] utrzyma się do końca tury, jednostka używa potężnej Umiejętności w następnej turze",
+      "kr_sha256": "6ee29c03e317cfbf840cc60226c1bcfd4629e52832d2e7e3bd31c22343e25c45",
+      "en_sha256": "d1b7654d4349eba8435d2f9bbeef06d3f9408ec64b2527d6f9b056d580b0bd6f",
+      "origin": "ai"
+    },
+    "dataList[id=601101].name": {
+      "pl": "Sparkle",
+      "kr_sha256": "a12166e0142dcdbc4fcecfa138cada71617135683a4134ade3222fbe422952a1",
+      "en_sha256": "abac3d1ed3920c65b77914e65fb98d58f0b64197db993b673f09227c6ec88a69",
+      "origin": "ai"
+    },
+    "dataList[id=601102].desc": {
+      "pl": "przy 5+ [DogThunder], począwszy od następnej tury, wszystkie Części przy trafieniu nakładają 3 [ElectricShock] na atakującego (działa, dopóki [DogThunder] nie spadnie do 0)\ngdy zostanie trafiona atakiem atrybutu Lenistwa, nakładana liczba [ElectricShock] zostaje zmniejszona o połowę (zaokrąglona w górę)",
+      "kr_sha256": "92f613abae62ef918337c9538dc0c2e4f8ad2e778e883e7a4f8bffba8830aadf",
+      "en_sha256": "b9cde6e7e9b0169cddd25b0545e0de2b3b91520de63167a50fe8170653cdcd80",
+      "origin": "ai"
+    },
+    "dataList[id=601102].name": {
+      "pl": "Lightning Rod",
+      "kr_sha256": "4cf9bee50242b3b7e2c292af572217ebfdb21f178a5ef3158d84109efdf9c080",
+      "en_sha256": "5d907e09f9c22fec429d7e0e83ddf443cd4f6d0204328c3d7203456032a48dab",
+      "origin": "ai"
+    },
+    "dataList[id=601103].desc": {
+      "pl": "dopóki Telepole nie zostanie zniszczony, zyskuje 1 [DogThunder] po ataku\nza każdym razem, gdy Telepole zostanie trafiony atakiem, traci 1 [DogThunder]",
+      "kr_sha256": "fbb3fdb37e3da696535e3b1de3f1d8263b5ac9bfa4fc659bf1b4f2f46f4f7911",
+      "en_sha256": "b94f8e67c57004a49ab9b2eb0e1b66d55edfbb10699d037b2ef6a7f2a8c4be07",
+      "origin": "ai"
+    },
+    "dataList[id=601103].name": {
+      "pl": "Lightning",
+      "kr_sha256": "cb427961331d503d491757460c23345ce4194040dee5178d4595ef81e3385109",
+      "en_sha256": "41e68f2cdb3806bb899cb2f3c3d80a2171f37c85b60e8e486742234e4e5f5738",
+      "origin": "ai"
+    },
+    "dataList[id=601104].desc": {
+      "pl": "gdy Telepole zostaje Oszołamiony lub zniszczony, [DogThunder] spada do 0;\nwszystkie Umiejętności ataku Alleyway Watchdog zostają w tej turze anulowane",
+      "kr_sha256": "4414433ccf3e78a9a557b4f5dfc02f4ddd48c64dbf43a9eb7d8ce91470df6285",
+      "en_sha256": "c0357a96b2866dd883953bc947a9b0065f82f12d2eeabcd208a3243ea80e6201",
+      "origin": "ai"
+    },
+    "dataList[id=601104].name": {
+      "pl": "Breaking Pieces",
+      "kr_sha256": "838348bf714ba35f654c45ec550648c4ad4968875c694443c287dd044b42050c",
+      "en_sha256": "ce8ab6783caa0cf8b621bfc6b4b3bcf8a26a52c81ea20d0103d064c96ca54622",
+      "origin": "ai"
+    },
+    "dataList[id=601305].desc": {
+      "pl": "w tej walce stosuje następujące efekty na Kurokumo Clan Captain Jun:\n- Maks. HP +75%, usunięcie jednego Progu Oszołomienia (30%)\n- <color=#ff6000><mark=#ff000040><b><u>otrzymuje +50% obrażeń od Umiejętności Cięcia (w przypadku Umiejętności E.G.O, zamiast tego +100% obrażeń)</u></b></mark></color>",
+      "kr_sha256": "61bd5015dd3d8a9f9625e9ef3e7ae0a905fa7accad9082d09de7032821abd33e",
+      "en_sha256": "a5e1ba0e5b09ba79dd3e753ed371e6f2647dda6547bccd1c9d9f55d289331d3d",
+      "origin": "ai"
+    },
+    "dataList[id=601305].flavor": {
+      "pl": "„Ciąg reprezentacji, zbudowany w grupowaniu schematów. Przez ten trening można doświadczyć bardzo wiele, więc... powodzenia, Menedżerze. Zwłaszcza Tobie, cóż... powiem, że pasuje to do Ciebie szczególnie dobrze.”\n\n„Gdyby Wieża Syzyfa wciąż stała, zastanawiam się, jaką formę przyjęłaby Twoja wersja systemu?”",
+      "kr_sha256": "7ea726de4798aa203b2f61185521c04037978ed7c2434366c19d1daf74e95d38",
+      "en_sha256": "4487b19b2c8939a18f0984da7ef834e7c297db14b135976392f0004e290b3ef3",
+      "origin": "ai"
+    },
+    "dataList[id=601305].name": {
+      "pl": "Schemacraft",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=836301].desc": {
+      "pl": "gdy ta jednostka zadaje obrażenia, zadaje również 1~3 obrażeń Poczytalności",
+      "kr_sha256": "2769d6d625b9512064568ea8f24661f29e2f0696b67b652af514cd76b99ce97f",
+      "en_sha256": "4e5b12de4f923f473e26d31becbe46fb616a7dee24394f6311806f2e2ccf9b65",
+      "origin": "ai"
+    },
+    "dataList[id=836301].name": {
+      "pl": "BLACK Damage",
+      "kr_sha256": "f1760fac9217ab2feb4a5c248d9742683e375c394b53276b0ea12ae88e3146b1",
+      "en_sha256": "27e76c3883ccbab28d9bc57389bd5a9d38513d09f1d079ca959421117792b1f6",
+      "origin": "ai"
+    },
+    "dataList[id=836302].desc": {
+      "pl": "ta jednostka unicestwia się po upływie określonej liczby tur",
+      "kr_sha256": "f7a8f33669b86d9e88b54a9f9ef550ef438d0231437996e6084eaa77bdb570a3",
+      "en_sha256": "37dfee9405896858c0fe67bdf9f8298d054d63954405108d0da749c3e9fb021b",
+      "origin": "ai"
+    },
+    "dataList[id=836302].name": {
+      "pl": "Imminent Decay",
+      "kr_sha256": "68c13d9c5ac108074da8a7fd9a25f834f00e325a93aae31919662092b8adaffe",
+      "en_sha256": "cb985d63f490f4bcae2460adfb6921257ed00966ce76db642b319a279f5f3ac1",
+      "origin": "ai"
+    },
+    "dataList[id=836401].desc": {
+      "pl": "ta jednostka unicestwia się po upływie określonej liczby tur",
+      "kr_sha256": "f7a8f33669b86d9e88b54a9f9ef550ef438d0231437996e6084eaa77bdb570a3",
+      "en_sha256": "37dfee9405896858c0fe67bdf9f8298d054d63954405108d0da749c3e9fb021b",
+      "origin": "ai"
+    },
+    "dataList[id=836401].name": {
+      "pl": "Fruit of Understanding",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=836402].desc": {
+      "pl": "ta jednostka unicestwia się po upływie określonej liczby tur",
+      "kr_sha256": "f7a8f33669b86d9e88b54a9f9ef550ef438d0231437996e6084eaa77bdb570a3",
+      "en_sha256": "37dfee9405896858c0fe67bdf9f8298d054d63954405108d0da749c3e9fb021b",
+      "origin": "ai"
+    },
+    "dataList[id=836402].name": {
+      "pl": "Fruit of Understanding",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=836403].desc": {
+      "pl": "ta jednostka unicestwia się po upływie określonej liczby tur",
+      "kr_sha256": "f7a8f33669b86d9e88b54a9f9ef550ef438d0231437996e6084eaa77bdb570a3",
+      "en_sha256": "37dfee9405896858c0fe67bdf9f8298d054d63954405108d0da749c3e9fb021b",
+      "origin": "ai"
+    },
+    "dataList[id=836403].name": {
+      "pl": "Fruit of Understanding",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=836601].desc": {
+      "pl": "na koniec tury zadaje 3 obrażeń wszystkim wrogom",
+      "kr_sha256": "fa789c3877bc5951ed45815b643a2f0023e6fb8475a239270f6e4a694a836a92",
+      "en_sha256": "809528f6350d13d8220e3c00a7b930dcfdf74fdd7a5ee34e9594d41239b645da",
+      "origin": "ai"
+    },
+    "dataList[id=836601].name": {
+      "pl": "Corrosion",
+      "kr_sha256": "2e7b3269cfc73ba0fe936bcd4a75a8f7fdc008a3deeb51a4740bad21a284b037",
+      "en_sha256": "c3ae71acac2c6a11cb07235c804f77114e7797496e19dae608465c8fb5802f6c",
+      "origin": "ai"
+    },
+    "dataList[id=836602].desc": {
+      "pl": "zniszcz Ramię, aby uniemożliwić użycie określonych Umiejętności",
+      "kr_sha256": "1b2ef22fe6786ef4934621badca199930a523fecc5902e205bd4da5dcb681376",
+      "en_sha256": "c88b996f6ab171a8409a18511a04c06c4bcd70ba69afcfdc309398508ab860e2",
+      "origin": "ai"
+    },
+    "dataList[id=836602].name": {
+      "pl": "Passive for the Arm Part",
+      "kr_sha256": "e75e1eb3d2017ce72ab23372ff512514e077c6becbc8a386f693d7ee5a256155",
+      "en_sha256": "6316db2c3f722bd1f30e3f392fbcb6a2c3bc6d54adcbe61ece418f89e23cc599",
+      "origin": "ai"
+    }
+  }
+}

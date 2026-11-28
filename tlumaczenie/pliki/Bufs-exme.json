@@ -1,0 +1,400 @@
+{
+  "entries": {
+    "dataList[id=AengduNewArm].desc": {
+      "pl": "- Podstawowy Poziom Ataku +4\n- Podstawowy Poziom Obrony +4\n- Otrzymuje -20% obrażeń\n- Przy użyciu Umiejętności zyskuje 1 Pośpiech w następnej turze (2 na turę)\n- Po zakończeniu walki zyskuje +2 Licznika Oddechu",
+      "kr_sha256": "062e2a79494ef790876fab29120e93b96a13f97da004af083e92905c59c88169",
+      "en_sha256": "bc589a82852d3f94c51ac7006563630216f2fbf1502374532e23cee4c37f4d3a",
+      "origin": "ai"
+    },
+    "dataList[id=AengduNewArm].flavor": {
+      "pl": "„...Ramiona Dokkaebi? Czy mówi pan o dokkaebi ze starych opowieści? Hm...”\n„Choć trudno w to uwierzyć, po tym, co widziałem w Limbus Company, istnienie dokkaebi z ludowych podań nie wydaje się dziwne.”\n„A tak zresztą... ‚oddział Dokkaebi’... chyba coś takiego słyszałem.”",
+      "kr_sha256": "a967b79dbc921e85df8390c186ff56bb721386a02bef2666f16b80d9ba4e9d7e",
+      "en_sha256": "7b70edac3e660eaf7e64faf5792e6d8c2c6c6f9a39455c6daf544b7898fc58d7",
+      "origin": "ai"
+    },
+    "dataList[id=AengduNewArm].name": {
+      "pl": "Ramiona Dokkaebi",
+      "kr_sha256": "373206841c05a95c069f88e76be8e875babfb5f3daee9aa9345c8a0db4512b52",
+      "en_sha256": "2fc6688459431faf1e0556fef9eadfe6537372e09e5ead2e3c3d8ef7bc938c34",
+      "origin": "ai"
+    },
+    "dataList[id=Aengdu_Lowmorale].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Mocy Ataku i 1 Spadek Mocy Obrony\n- Na koniec tury zyskuje 2 Pośpiechu w następnej turze",
+      "kr_sha256": "a876c32a4a7d9f04c119554baa172baca41b57300a46f4126385d7d7d6e11d22",
+      "en_sha256": "aa75f8a03d14b4b5638baf649fb1ba7fd1b591436dbc71eeaca21fe2986df76e",
+      "origin": "ai"
+    },
+    "dataList[id=Aengdu_Lowmorale].name": {
+      "pl": "Uraza",
+      "kr_sha256": "fbdafef34327b60ce1e3ed7900bf87c552328d502145af0200772a23cf919894",
+      "en_sha256": "f41301f3b74a299a0c33f1fb11fd10d4d1ad92bcfcb81c9f62df05cf8d95b6aa",
+      "origin": "ai"
+    },
+    "dataList[id=Aengdu_Panic].desc": {
+      "pl": "- Na początku tury zyskuje 2 Wzrostu Mocy Ataku i 2 Spadek Mocy Obrony\nNa koniec tury zyskuje 2 Pośpiechu w następnej turze",
+      "kr_sha256": "df85276d4e720d5b7fdee9b77681d05613dce2b9600dd2c948ca0effb97d13dc",
+      "en_sha256": "437f4b991901b2a9f551ba7f785b5de99ccc9408e80a86dae0d475dbeed7fdf4",
+      "origin": "ai"
+    },
+    "dataList[id=Aengdu_Panic].name": {
+      "pl": "Uraza",
+      "kr_sha256": "fbdafef34327b60ce1e3ed7900bf87c552328d502145af0200772a23cf919894",
+      "en_sha256": "f41301f3b74a299a0c33f1fb11fd10d4d1ad92bcfcb81c9f62df05cf8d95b6aa",
+      "origin": "ai"
+    },
+    "dataList[id=BrandedKimSatgat].desc": {
+      "pl": "- Podstawowy Poziom Ataku -??\n- Podstawowy Poziom Obrony -??",
+      "kr_sha256": "4a4fb2e64bd21a26fc3772a3c8c189937bba868403b0b909e660730db03f7810",
+      "en_sha256": "52f1a0dda5730f4b341da8821fd2d7463e808dacd6254b6cf30116c404615b57",
+      "origin": "ai"
+    },
+    "dataList[id=BrandedKimSatgat].name": {
+      "pl": "Naznaczenie - No [奴]",
+      "kr_sha256": "bdcf07a809df05418da6da229ed1f3cb357c06ca244cda477f50e2ed90bf1aa3",
+      "en_sha256": "bb5345209bbd357b171fdb5318bc30bb0bfa25880ab575b92b084828a3bdf46a",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSword_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 1 Wrażliwości, zadaje +10% obrażeń i +15% obrażeń Krytycznych",
+      "kr_sha256": "9afb33185135267fd5d54e651363d46c17af1e7153ddb6f21fb3cbb432ef1e20",
+      "en_sha256": "c09701dd683fd742cc68edb8412ebb0b841f29c7ed8f16342809c2d622d95e51",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSword_LowMorale].name": {
+      "pl": "Rozwinięte Wspomnienia",
+      "kr_sha256": "8480cf96fd019c784520535cd67ac94e2c378eaef17568843a3e2a84ba8ffe8e",
+      "en_sha256": "1565fb2a3e70ebf752e8ce1fd806b89b0c330fe82c541f29dba84192fb274594",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSword_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wrażliwości, zadaje +10% obrażeń, +30% obrażeń Krytycznych i podwaja efekty nakładane przez Monety Umiejętności „Rodzimego Łuku [Sal] - Wypuszczenia Strzały”",
+      "kr_sha256": "6254be848378627b21f81ce9c1074d870f83fa0b5ed66a63ddc2e51761f3ce21",
+      "en_sha256": "4818b44d15a545fc0ca95b3655d12c5461d5534da122e967d7a7fe311a5a3a91",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSword_Panic].name": {
+      "pl": "Rozwinięte Wspomnienia",
+      "kr_sha256": "8480cf96fd019c784520535cd67ac94e2c378eaef17568843a3e2a84ba8ffe8e",
+      "en_sha256": "1565fb2a3e70ebf752e8ce1fd806b89b0c330fe82c541f29dba84192fb274594",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipMany].desc": {
+      "pl": "Po {0} turach przyjmuje inną Rodzimą Postawę Bojową\nUżywa wzorca złożonego z <color=#ff6000><mark color=#ff000040><b><u>wielumonetowych</u></b></mark></color> Umiejętności\n\nIm Gyeong-eop ma przewagę przy <color=#ff6000><mark color=#ff000040><b><u>niższej</u></b></mark></color> wartości Sztuki Miecza Ojczyzny [Sal]",
+      "kr_sha256": "0cef2f1a8a835719e57646640ea7c299da43b2caaf085064011fa023af191acd",
+      "en_sha256": "e37d4159c5dce3bfa53e9506a4e9a16899dbe6c848531c0f7f63293b4183fa3d",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipMany].flavor": {
+      "pl": "Tygrys jest sprytny i dziki.\nŻadnego tygrysa nie ściągnie się jednym ciosem. Tylko nieustanna fala kolejnych cięć dusi bestię, aż w końcu odbierze jej życie.\nTen, który przeżyje, kiedyś stanie się Sangun, Panem Gór.\nCzy zesle ludziom szczęście, czy wróci jako złośliwa klęska — nie sposób wiedzieć.",
+      "kr_sha256": "bacab7169be50390cd7e4f117223cbabca0fe7963a24fe55e1a7984f3231947c",
+      "en_sha256": "deb727e9e8f99d561d867340cff97a3f827f9d9a5e957f8a92d6db298f665345",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipMany].name": {
+      "pl": "Rodzima Postawa Bojowa - Polowanie na Tygrysa",
+      "kr_sha256": "27ba5f9146ff0d2a04b63787f59e0a2b27e5e5997e65c1aeece629820a24f383",
+      "en_sha256": "88a5a4dbfeb86e63eb08e15de485f3b264c634a0c3ff42c26cfd154f9493eb7f",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipOne].desc": {
+      "pl": "Po {0} turach przyjmuje inną Rodzimą Postawę Bojową\nUżywa wzorca złożonego z <color=#ff6000><mark color=#ff000040><b><u>jednomonetowych</u></b></mark></color> Umiejętności\n\nIm Gyeong-eop ma przewagę przy <color=#ff6000><mark color=#ff000040><b><u>wyższej</u></b></mark></color> wartości Sztuki Miecza Ojczyzny [Sal]",
+      "kr_sha256": "5d509f7057140583724e8e82bc26eefe2fec6affabb7003f7563b28644119707",
+      "en_sha256": "931fc1887aac38b72e426fcf89d9fbed4a86af98232c650da2652423dd4654cb",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipOne].flavor": {
+      "pl": "W górach Dystryktu 19 Korporacji S żyją rozmaite bestie.\nSpośród nich niedźwiedź ma siłę i potęgę skał toczących się z urwiska — nie wolno dać się odepchnąć w pierwszym Starciu; trzeba ściąć go jednym ciosem.",
+      "kr_sha256": "402da2dad40d5417662a0c6951ca3048554c9b8178aafc42b164803d89baac22",
+      "en_sha256": "9230276a01725fef6f4a3db88f3eece68ec5b1c8124aad0f1dcd09c0158b97d3",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipOne].name": {
+      "pl": "Rodzima Postawa Bojowa - Polowanie na Niedźwiedzia",
+      "kr_sha256": "85643ba48b0784135872e54db6643ec907fb90bbe0760f4ba02cd4e03c0934b0",
+      "en_sha256": "6ea1a2a614b967e7ff87ae41ad6657a1b1a9217d4cc530fa0c57e272c89c7987",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipShield].desc": {
+      "pl": "- Maks.: 5\n- Przy zyskaniu tego efektu zyskuje Tarczę równą 10% Maks. HP za każdą wartość (min. 1, zaokrąglona w dół; Tarcza zyskana dzięki temu efektowi nie znika na koniec tury)\n- Na początku walki za każde 2 wartości zyskuje 1 Spadek Poziomu Obrony (zaokrąglona w górę)\n- Zadaje +(wartość x 2.5)% obrażeń Cięcia\n- <color=#ff6000><mark color=#ff000040><b><u>Po otrzymaniu obrażeń Tarczy równych 10% Maks. HP traci 1 wartości</u></b></mark></color> (obrażenia Tarczy pozostałe do utraty wartości: {0})",
+      "kr_sha256": "c8ff97e90abbd87b38d74bf204eeb06543e3482355abc3be31ecd5f3379f393e",
+      "en_sha256": "1e11fe7918fce10c4c95267e6bdf04604d9ca3635ee6073dbb6314542c4661aa",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanshipShield].name": {
+      "pl": "Kolczuga Dujeong [Sal]",
+      "kr_sha256": "c2a514593a34674dfb497965fec8219d2721eb55e5ea6cf3e6d9e16d96ca52c9",
+      "en_sha256": "6f6007acc66a16066aa615bb6cd3dd9cdb08e49f1bedc03b5d5b039f3d856bb0",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanship].desc": {
+      "pl": "- Min. stosów: 1, Maks. stosów: 9\n- Przy użyciu Umiejętności, jeżeli wartość wynosi Min. lub Maks., wszystkie Monety stają się <color=#ff6000><mark color=#ff000040><b><u>Niezniszczalnymi Monetami</u></b></mark></color>\n- <color=#ff6000><mark color=#ff000040><b><u>Moc Bazowa i Moc Monety Umiejętności przesuwają się zależnie od stosów</u></b></mark></color>\n· 1–2 stosy: Moc Bazowa -6, Moc Monety +4\n· 3–4 stosy: Moc Bazowa -3, Moc Monety +2\n· 5 stosów: brak efektu\n· 6–7 stosów: Moc Bazowa +4, Moc Monety -2\n· 8–9: Moc Bazowa +8, Moc Monety -3",
+      "kr_sha256": "fddfa35e19c474d4e036e7d594d4ea434a8df37fa64a38fab84d90cec6599561",
+      "en_sha256": "5cb6855115cd51bfd01d3d24f54094a5a49d025ab9a13c74e0215129fe847fba",
+      "origin": "ai"
+    },
+    "dataList[id=ChoiSwordsmanship].name": {
+      "pl": "Rodzima Szermierka [Sal]",
+      "kr_sha256": "1ba39129f895e7ba7f01aada6cf39db5bf168c0a217abffaf4ca8548902f7601",
+      "en_sha256": "a4ca5a0ebb465b4dbfc9002f76666b98f47ffdc1408cf8fb46cbb0fba9b71eb2",
+      "origin": "ai"
+    },
+    "dataList[id=Collage_LowMorale].desc": {
+      "pl": "- Na początku tury zyskuje 1–3 Wzrostu Poziomu Ataku i 1–3 Spadek Poziomu Obrony",
+      "kr_sha256": "907a7ee2175e6e5ca4f59b439a2cca8d8a755e413967b3641e04d930dff46204",
+      "en_sha256": "0a810645f70f2c5c488c3d54dfcc74d4a39ca20a489d7055e08cfaa2d832e625",
+      "origin": "ai"
+    },
+    "dataList[id=Collage_LowMorale].name": {
+      "pl": "Przemieszane Wspomnienia",
+      "kr_sha256": "8a952fe2a3fa4d2c672e5a4c766a40317f0b5c2aa282a6fc7410a8910757ab8c",
+      "en_sha256": "3c3459597bc35026797a68880b1841fcc9a2b667e0778e3c83140d69b6574b6b",
+      "origin": "ai"
+    },
+    "dataList[id=Collage_Panic].desc": {
+      "pl": "- Na początku tury zyskuje 1–5 Wzrostu Poziomu Ataku i 1–5 Spadek Poziomu Obrony",
+      "kr_sha256": "204cc349da36a6d49b2cc8d14cf75d808dcef362ecda11aaa69e8a5fe4a59c7a",
+      "en_sha256": "b05e13c302885aff0e99c322c6605839bf443ae4ab3dc360737a0205d6179303",
+      "origin": "ai"
+    },
+    "dataList[id=Collage_Panic].name": {
+      "pl": "Przemieszane Wspomnienia",
+      "kr_sha256": "8a952fe2a3fa4d2c672e5a4c766a40317f0b5c2aa282a6fc7410a8910757ab8c",
+      "en_sha256": "3c3459597bc35026797a68880b1841fcc9a2b667e0778e3c83140d69b6574b6b",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraDTwo].desc": {
+      "pl": "Wyjmuje z Worka Wymiarowego następną broń warsztatową\n- Obecna broń warsztatowa: Gauntlety Warsztatu Namir\n- Następna broń warsztatowa: Siekiera Warsztatu YuRia",
+      "kr_sha256": "c22a39ddd28c8032a0bacad97615e335f41a65920762e5c767bfdcba04506f00",
+      "en_sha256": "084e11555b3677e67f10c99411cffa076f1422691fa0ae9e0803a740e520d8e3",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraDTwo].flavor": {
+      "pl": "„Ten ma w sobie osobliwość Korporacji G — Kulę! Działa tak: wzlatujesz, wciskasz przełącznik w powietrzu i dociskasz ciężarem grawitacji. Jak trafi porządnie, to boli... brutalnie.”",
+      "kr_sha256": "59fd2c267571f422f157c4491722a8e0643b7107a9553e84656eedf8a705d992",
+      "en_sha256": "b925cab4622ba4b2c65494b2e54672653f446e02ea9cd50e000baab78da7180d",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraDTwo].name": {
+      "pl": "Worek Wymiarowy - Warsztat Namir",
+      "kr_sha256": "0f3979b106ec354c48658733ac8c242ca12bcb0ebc5a446b14f9c61be3b00f98",
+      "en_sha256": "ef8df5cd16ebd7f5feae15b0df8e6ca92c45d7819a401dfa5b839b766ca30762",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraETwo].desc": {
+      "pl": "Wyjmuje z Worka Wymiarowego następną broń warsztatową\n- Obecna broń warsztatowa: Siekiera Warsztatu YuRia\n- Następna broń warsztatowa: Rękawice Warsztatu Allas",
+      "kr_sha256": "48a9a15d388700a24b3da3d0bf14cbb4265401e12a4add8fd7c29c0d3547666d",
+      "en_sha256": "46fde454cf6b4c804c4aaecaf370c1ccf492637709dbb69a7ba43e409e5b5001",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraETwo].name": {
+      "pl": "Worek Wymiarowy - YuRia Atelier",
+      "kr_sha256": "246a9622b52e1f23e666f37922123ce6e2839bf7eeb1e186ba3b0cf6173810e7",
+      "en_sha256": "4aedf9385ee4208b9c8c62d02807d1e229c3ea0c66d1a2001921b6f7e264efa8",
+      "origin": "ai"
+    },
+    "dataList[id=LensmanNail].desc": {
+      "pl": "- Maks. stosów: 10\n- Na początku tury zyskuje 1 Spadek Poziomu Ataku za każde 2 Spętań (maks. 3)\n- Na początku tury zyskuje Krwawienie równe stosom\n- Przy Wyładowaniu Wstrząsu zyskuje Licznik Krwawienia równy stosom (1 raz na turę)\n- Na koniec tury zyskuje Spętań równych stosom w następnej turze (maks. 6), a wartość maleje o 1",
+      "kr_sha256": "1874cb3185c9261d244436e98e3b9e08956a07e240f21eacd0871a0bece11d9a",
+      "en_sha256": "9eed03f2078d59584a1e00c1172b1888e19c9e006670664ff79d594ea26760c0",
+      "origin": "ai"
+    },
+    "dataList[id=LensmanNail].name": {
+      "pl": "Przypinający Gwóźdź",
+      "kr_sha256": "4dd3eaf942534b9f9cdbd24902561e77fbfec60c1e5d0ee85a50eaa3ac31d191",
+      "en_sha256": "9875eda3070f1f76d0725a5f6d2d85db78dc44066135fcc987753d4414d2d9d9",
+      "origin": "ai"
+    },
+    "dataList[id=LensmanPower].desc": {
+      "pl": "- Podstawowy Poziom Ataku +5\n- Podstawowy Poziom Obrony +5",
+      "kr_sha256": "8b46ef2fe1d9aea6fae550c478fa9e4d76e05c6d5fe462f25044d1ea9fc78a4a",
+      "en_sha256": "7430cc112548e702265204317c59dab2df54b7755456005b79442665c3fff2f1",
+      "origin": "ai"
+    },
+    "dataList[id=LensmanPower].name": {
+      "pl": "Rozkaz Śledztwa",
+      "kr_sha256": "8311616794679d79f44dff7d1e49ea325162a8f7f7001b6d59820a8799fabed1",
+      "en_sha256": "06fdbfba58ba463c2afafc499d6fc968fcee18408aa3e65390767be5540d4160",
+      "origin": "ai"
+    },
+    "dataList[id=Lensman_LowMorale].desc": {
+      "pl": "- W Starciu z celami posiadającymi Zbieranie Informacji Moc Bazowa +1 i zadaje +10% obrażeń\n- Na początku tury zyskuje 1 Wrażliwości",
+      "kr_sha256": "574f350a5a603995053678e0256a97291bcd165cede56817fbe0bf37b9b6fac1",
+      "en_sha256": "313c8a003e0fdd6ef83690d8f3a369224ec8c3040530df0ab7040071c36cbc04",
+      "origin": "ai"
+    },
+    "dataList[id=Lensman_LowMorale].name": {
+      "pl": "Obsesja Informacyjna",
+      "kr_sha256": "c68d4b08974352d839cd2ea5ee16d87af8a03fc493177462e3aacc21e88f731d",
+      "en_sha256": "a0ace3398c2d598a89208d2ed847e068e3bc2f2c0b4fe8a9acb8b0b4131f6813",
+      "origin": "ai"
+    },
+    "dataList[id=Lensman_Panic].desc": {
+      "pl": "- W Starciu z celami posiadającymi Zbieranie Informacji Moc Bazowa +1 i zadaje +20% obrażeń\n- Na początku tury zyskuje 2 Wrażliwości",
+      "kr_sha256": "4517fe29b8d496e152aeac9641b9efa54f9ef7ec9ae72a409575f98a0d3676a0",
+      "en_sha256": "f968e940abf76a973069d0b03f364ca68bd1db85d8ba4ed40d265a06b3c113fa",
+      "origin": "ai"
+    },
+    "dataList[id=Lensman_Panic].name": {
+      "pl": "Obsesja Informacyjna",
+      "kr_sha256": "c68d4b08974352d839cd2ea5ee16d87af8a03fc493177462e3aacc21e88f731d",
+      "en_sha256": "a0ace3398c2d598a89208d2ed847e068e3bc2f2c0b4fe8a9acb8b0b4131f6813",
+      "origin": "ai"
+    },
+    "dataList[id=PhotoTransitionChoiCamera].desc": {
+      "pl": "- Wartość bazowa: 3\n- Na koniec tury wartość maleje o 1\n- <color=#ff6000><mark color=#ff000040><b><u>Na początek tury przy wartości 0 znika i mapa ulega zmianie</u></b></mark></color>\n- Po powrocie na pole walki, zależnie od liczby tur spędzonych na wycofaniu, Im Gyeong-eop zyskuje lub traci wartość Sztuki Miecza Ojczyzny [Sal] zgodnie z obecną Rodzimą Postawą Bojową (obecnie {0} tur)\n· Rodzima Postawa Bojowa - Polowanie na Niedźwiedzia: zyskuje\n· Rodzima Postawa Bojowa - Polowanie na Tygrysa: traci",
+      "kr_sha256": "dbff74b64e918d5b74899f9f7dae541db5afcb76f3f11b726dd8f33bbd7bc672",
+      "en_sha256": "fe435ecde19dfc741b8e0efc6c433d59adf46934af6ade65a78eee8fe9f1058c",
+      "origin": "ai"
+    },
+    "dataList[id=PhotoTransitionChoiCamera].name": {
+      "pl": "Przełączanie Wspomnień",
+      "kr_sha256": "77e6ad24575bb0289778277fd0f409053214637e9278884aebb01995b60078d7",
+      "en_sha256": "72c3f544837529cf959856c4971556eb82e6e1df8d639c5e63772d4930e79c73",
+      "origin": "ai"
+    },
+    "dataList[id=PhotoTransitionChoi].desc": {
+      "pl": "- Wartość bazowa: 3\n- Na koniec tury maleje o 1\n- <color=#ff6000><mark color=#ff000040><b><u>Na początku tury przy 0 stosów wycofuje się, a mapa się zmienia</u></b></mark></color>\n- Przy powrocie na pole, zależnie od aktualnej Rodzimej Postawy Bojowej, zyskuje lub traci Rodzimą Szermierkę [Sal] w liczbie tur spędzonych w odwrocie\n· Rodzima Postawa Bojowa - Polowanie na Niedźwiedzia: zyskuje\n· Rodzima Postawa Bojowa - Polowanie na Tygrysa: traci",
+      "kr_sha256": "6961ae66ff4a46f8502331936fb6b9c3a36e08c39c57d69dc9aa0c01c420f560",
+      "en_sha256": "bf5cb47582f8b6d86cfb25cd0e0c5f38c7905cf2a6650837a63df6b123be68db",
+      "origin": "ai"
+    },
+    "dataList[id=PhotoTransitionChoi].name": {
+      "pl": "Przełączanie Wspomnień",
+      "kr_sha256": "77e6ad24575bb0289778277fd0f409053214637e9278884aebb01995b60078d7",
+      "en_sha256": "72c3f544837529cf959856c4971556eb82e6e1df8d639c5e63772d4930e79c73",
+      "origin": "ai"
+    },
+    "dataList[id=PhotoTransition].desc": {
+      "pl": "- Wartość bazowa: 3\n- Na koniec tury maleje o 1. Jeżeli na początku tury wartość wynosi 0, określone jednostki i buffy się zmieniają\n(przy Oszołomieniu wychodzi z Oszołomienia)\n\n- Po wywołaniu powyższego efektu stosy Przełączania Wspomnień wracają do wartości bazowej",
+      "kr_sha256": "b2e6e44fcd399bfc0de4377948a17bd3fff1ae9b16f5e1ea88e8f5f21075c625",
+      "en_sha256": "cd28719bf3bbcb447ae38ecb1271c7ee314313a96c7b4731d8f16b1cdf9e7024",
+      "origin": "ai"
+    },
+    "dataList[id=PhotoTransition].name": {
+      "pl": "Przełączanie Wspomnień",
+      "kr_sha256": "77e6ad24575bb0289778277fd0f409053214637e9278884aebb01995b60078d7",
+      "en_sha256": "72c3f544837529cf959856c4971556eb82e6e1df8d639c5e63772d4930e79c73",
+      "origin": "ai"
+    },
+    "dataList[id=RegretSCorp].desc": {
+      "pl": "- Maks. stosów: 1\n- Na koniec tury zyskuje 1 Spętanie w następnej turze\n- Na koniec tury zyskuje (liczba tur / 4) Wzrostu Mocy Starcia (zaokrąglone w dół, maks. 3)\n- Znika na koniec tury",
+      "kr_sha256": "4097dd8807fd9fd255829f1cc3c37ab526fa8b5106064cc0db7d37e98ffd1dee",
+      "en_sha256": "c1724753c9c6c371fdbabe9a34c6192df1a48fcfe0b21e8652275296242a041f",
+      "origin": "ai"
+    },
+    "dataList[id=RegretSCorp].name": {
+      "pl": "Kolące w Skroniach Wspomnienie",
+      "kr_sha256": "a67f56db35c211bd29b4e1a6526398671738f7b9b6c1d83216377e5fc0f8c2cf",
+      "en_sha256": "97903d57dc6ac6fd13a0c710ca5663cf3784556258c43d09d8f17d83f303cf03",
+      "origin": "ai"
+    },
+    "dataList[id=RestingKimSatgat_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 2 Spadek Obrażeń i leczy 40 HP",
+      "kr_sha256": "90e868e7eac10b00ef622817ab33ec376461aacc46733da9026689c6ad9c32dd",
+      "en_sha256": "41b573042f21faa21e415f27bb772d75f4cd5005f330f1b03bcd7c452727e75e",
+      "origin": "ai"
+    },
+    "dataList[id=RestingKimSatgat_LowMorale].name": {
+      "pl": "Głęboko Zakorzeniony Żal",
+      "kr_sha256": "7fbcac94e8808260e691aeb708594e68e8a851797450dc722dfca58a317f48c4",
+      "en_sha256": "277c764671169c685cd3b03be01ff5398d8804ca69f6016e4ddfc110cdf4391a",
+      "origin": "ai"
+    },
+    "dataList[id=RestingKimSatgat_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 3 Spadek Obrażeń i leczy 60 HP",
+      "kr_sha256": "feb3ec7d34f87712e2012137c098b28e6a4531699ef20a8a1dbeb3439201e7cf",
+      "en_sha256": "86cf769c88a4c5855cb50c718dbe9ec08637b983da60156c7e54cb3dac128bbb",
+      "origin": "ai"
+    },
+    "dataList[id=RestingKimSatgat_Panic].name": {
+      "pl": "Głęboko Zakorzeniony Żal",
+      "kr_sha256": "7fbcac94e8808260e691aeb708594e68e8a851797450dc722dfca58a317f48c4",
+      "en_sha256": "277c764671169c685cd3b03be01ff5398d8804ca69f6016e4ddfc110cdf4391a",
+      "origin": "ai"
+    },
+    "dataList[id=ScratchesHurt].desc": {
+      "pl": "- Maks. stosów: 3\n- Na początku tury zyskuje 2 Krwawienia za każdy stos\n• Przy Maks. stosów zyskuje dodatkowo +1 Licznika Krwawienia\n- Na koniec tury zyskuje Spętań równy stosom w następnej turze\n• Przy Maks. stosów zyskuje dodatkowo 1 Spadek Mocy Ataku w następnej turze\n- Na koniec tury traci 1 stos, jeżeli w tej turze nie otrzymał Ciosu Krytycznego",
+      "kr_sha256": "67e5567b389813d7057249c9f5e51a6d651424660d3b090804a035988cc3dd0c",
+      "en_sha256": "b07a80212b801d0ea2ccfaec0f2ea66e3d8bde4137bb8b708832ca9547108a4e",
+      "origin": "ai"
+    },
+    "dataList[id=ScratchesHurt].name": {
+      "pl": "Rozdarta Rana",
+      "kr_sha256": "de4747de1b10332a2cca397c2cfacb54b46996e850c4ccf2fe178ce0eb5e73cb",
+      "en_sha256": "d027f7a27c16322ecc2c8a9cdfdbee726bae2e16707ea1d6db3b7c23b3f8cfc3",
+      "origin": "ai"
+    },
+    "dataList[id=SlaveHunersPower].desc": {
+      "pl": "- Podstawowy Poziom Ataku +5\n- Podstawowy Poziom Obrony +5",
+      "kr_sha256": "8b46ef2fe1d9aea6fae550c478fa9e4d76e05c6d5fe462f25044d1ea9fc78a4a",
+      "en_sha256": "7430cc112548e702265204317c59dab2df54b7755456005b79442665c3fff2f1",
+      "origin": "ai"
+    },
+    "dataList[id=SlaveHunersPower].name": {
+      "pl": "Rozkaz Konwoju",
+      "kr_sha256": "038bccccd902e0023a3f7aadb69fa87f1ab39e1b2b3dce2909163163e225cab6",
+      "en_sha256": "5360152ac9cfb2959cda1dc375ef1fe8dbed5e0d011580cc19e68a6d4518d4c5",
+      "origin": "ai"
+    },
+    "dataList[id=TakePicture].desc": {
+      "pl": "- Po użyciu Umiejętności tej samej rangi co sfotografowana, Moc Starcia -5\n(※ Umiejętności obrony i Umiejętności E.G.O liczone są osobno)\n({0})\n- Znika na koniec tury",
+      "kr_sha256": "2bb1fbf4c9f9c6af73ad057172e8d5d0952286a11ab5916d04599d87ad34dce6",
+      "en_sha256": "7861c4c956ff58924b9fd68393cc1e9189ecf6ed4ff23cf0dde4949d0e2837d6",
+      "origin": "ai"
+    },
+    "dataList[id=TakePicture].name": {
+      "pl": "Zbieranie Informacji",
+      "kr_sha256": "2e417e1a878cda4adf9f90d8abd55cb6e98a6910dc3ac58b32d18b6a1a300330",
+      "en_sha256": "ba331a86d6e44f23fae3b6f52051d97cc51df6f4b9616a23ae910d072f2b46ca",
+      "origin": "ai"
+    },
+    "dataList[id=TiedRope].desc": {
+      "pl": "- Wartość bazowa: 3\n- Szybkość zostaje zablokowana na 1\n- Moc Monet podstawowych Umiejętności zostaje zablokowana na 0\n- Na koniec tury maleje o 1\n- Gdy na nałożycielu wygaśnie buff „Przygotowania Konwoju”, ten efekt znika razem z nim",
+      "kr_sha256": "b6307dffa4f5a9a7a89ebb44fc0d2d0f2026502034bb68b151bcdf4b75f35afd",
+      "en_sha256": "c357ac40f113f17d4e71e595bc88ca4bc65e8e00d521839c6a61be5442394e6a",
+      "origin": "ai"
+    },
+    "dataList[id=TiedRope].flavor": {
+      "pl": "Patrz, jak nędzny łapie nędznego, by podnieść go tym, którzy stoją wyżej.",
+      "kr_sha256": "cfdad3cdcc07b1313e0ea73b8846edb4957d25165d62c756baa687754eb37d84",
+      "en_sha256": "95f127a5d48142190c4961232f740a592c1be059a0fd1f561324dad759b4e596",
+      "origin": "ai"
+    },
+    "dataList[id=TiedRope].name": {
+      "pl": "Skuty",
+      "kr_sha256": "b98af9ec8380578ccb03c5e690553ad4a87cac0618b5d67a0fb8cbd94c426a78",
+      "en_sha256": "2fb51ab93db5fda98d06ae01780c038270eb784a9e0039e6252bd69e23bc80ef",
+      "origin": "ai"
+    },
+    "dataList[id=TiedWithRope].desc": {
+      "pl": "- Wartość bazowa: 1\n- Obecnie skuwa: {0}\n- Szybkość jest ustalona na 1\n- Jeśli efekt „Skuty” nadany przez tę jednostkę na cel wygaśnie, albo ta jednostka zginie lub popada w stan Oszołomienia, Wzmocnienie znika\n- Jeśli cel, na który ta jednostka nadała efekt „Skuty”, zginie w tej turze, Wzmocnienie „Przygotowania Konwoju” znika",
+      "kr_sha256": "73525fc3438cc4cae4ff1a2b74f9d87c2938e331af2a3c602c1be46e35845019",
+      "en_sha256": "bb5d3b11607b53995bf4fe8cd4550812d678b6fbabf7204abc789541fc03791f",
+      "origin": "ai"
+    },
+    "dataList[id=TiedWithRope].name": {
+      "pl": "Przygotowania Konwoju",
+      "kr_sha256": "cb043a4d192ed1b31e5eca4586ad62d46032db7ab92d1f6ca1e053079cc4e8ef",
+      "en_sha256": "1d6f96c9b7ddf816390e5e084faa0ac2a966840c1eaa05b47f0c612bb6d59d0d",
+      "origin": "ai"
+    },
+    "dataList[id=WindBlade].desc": {
+      "pl": "- Maks. stosów: 20\n- Zadaje +1% obrażeń Cięcia za każdy stos (maks. 10%)\n- Umiejętności obrony tracą 1 Moc Starcia za każde 2 stosy (maks. 5)\n- Na koniec tury zyskuje 1 Pośpiech w następnej turze za każde 5 stosów (maks. 3)",
+      "kr_sha256": "7a63e4e82e6d93128c95151bc4ebd57e0e10327f81d605e73e32d149ba74fb79",
+      "en_sha256": "299dd8ade85c1310ba63c696784814d7fd713c2a080a19fa07f5d432e0f4e1b7",
+      "origin": "ai"
+    },
+    "dataList[id=WindBlade].flavor": {
+      "pl": "„Co takiego? Podoba ci się ten model? Nasza nowa dziewczyna ma dobre oko! Przepraszam~! Możemy przymierzyć ten model? No weź, spokojnie! Znam zasady — ‚kto zepsuje, kupuje’. Dzięki! Hihi... No co ty? Mówiłam, że tu bywam~ Dobra, miecz i pochwa idą w zestawie, więc chwyć oba i poczuj wagę. No i jak? Lżejsze, niż wyglądają, co?”\n„Oho...”\n„W tej pochwie siedzi jakiś pył? Proszek? Opatentowany przez Warsztat Mook! Za każdym razem, gdy miecz wraca i wychodzi z pochwy, na moment staje się o dużo ostrzejszy i lżejszy! A model, który trzymasz, stawia właśnie na ostrość! Czyli tak — cyk! — i broń dostaje buffa.”\n„Chyba to jeden z modeli serii Ye [銳] — klasyki Warsztatu Mook. Patrzę na wykończenie... Co!? To wycofany z produkcji Ye [銳] II Typ!? Tego się naprawdę trudno szukać — a tu akurat jeden został!?”\n„Coś tak cennego? W takim razie może raczej pani Ezra powinna nim władać...”\n„Yyy... Nie! Już widzę, że to dla naszej nowej dziewczyny! Do tego pasować będzie do boosterów w twoich nowych protezach. Przyzwyczajenie zajmie chwilę, ale jak ją opanujesz, to nikt cię nie zmusi do klęczki! A tak w ogóle — przyjmij to jako prezent, że przestałaś być na czasówce i oficjalnie jesteś nasza!”\n„W takim razie... przyjmuję z wdzięcznością.”\n„Aha — skoro to klasyk, jest cholernie wytrzymały, ale ma delikatne elementy, więc uważaj, żeby niczego nie połamać... nie, właściwie połamiesz, to trudno. Po prostu...”\n„Tylko nie umrzyj.”\n„...Zapiszę te słowa głęboko w sercu.”",
+      "kr_sha256": "9243cdf261a343cda321ea16dc58d9668a379ad62ad7539e9ebd90b772dab3a8",
+      "en_sha256": "088371a0a78aaadde54cc2eb17f3e568dca10bd233403a3b2ddff903d42e1a19",
+      "origin": "ai"
+    },
+    "dataList[id=WindBlade].name": {
+      "pl": "Warsztat Mook - Ye [銳] II Dobycie Ostrza",
+      "kr_sha256": "12df36af8d85df0b868b1136d1aea6a1339e24cf7b01f9c3b1eec57bdd2da0c5",
+      "en_sha256": "cd8ab3e583e12512c202576acec590ebc42160490b633319888019a1aaec3c2a",
+      "origin": "ai"
+    }
+  }
+}

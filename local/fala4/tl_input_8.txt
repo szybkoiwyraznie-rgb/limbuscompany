@@ -1,0 +1,96 @@
+687||SpeechBubbles#BattleSpeechBubbleDlg.json] 배수의 진.|We have backed ourselves against a river.
+688||SpeechBubbles#BattleSpeechBubbleDlg.json] 저 해충들을 도려내라!|Carve out the rotten parasites!
+689||SpeechBubbles#BattleSpeechBubbleDlg.json] 명에 따라 홍원을 지켜라.|Obey the command and defend Hongyuan.
+690||SpeechBubbles#BattleSpeechBubbleDlg.json] 흐르는... 피로군|It flows... the blood.
+691||SpeechBubbles#BattleSpeechBubbleDlg.json] 따뜻한 피...|Warm... blood...
+692||SpeechBubbles#BattleSpeechBubbleDlg.json] 감정이 서린 피다.|Blood, suffused with emotions.
+693||SpeechBubbles#BattleSpeechBubbleDlg.json] …가족을 위해 꿈을 포기한 겁니까. 그렇게나 꿈을 부르짖던 당신이…?|... You gave up your dream for the Family? \nYou, who preached about your\ndream with every breath...?
+694||SpeechBubbles#BattleSpeechBubbleDlg.json] 아니… 내 자매와는 달라.|No... she is not like my sister.
+695||SpeechBubbles#BattleSpeechBubbleDlg.json] 상위 권속에게 날을 세우다니.\n패륜에 대한 벌이 필요하겠군. 나 또한 언젠가…|You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as well, I suppose...
+696||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 상처들… 이곳의 신부도 자신을 탓하는 건 똑같나.|Those wounds... the Priest of this world\nmust be just as haunted by guilt.
+697||SpeechBubbles#BattleSpeechBubbleDlg.json] 무기를 만드는 것만큼은, 내가 어버이보다 뛰어났지.|When it comes to conjuring weapons, I was always better than my Father.
+698||SpeechBubbles#BattleSpeechBubbleDlg.json] 찢겨라!|Be torn apart!
+699||SpeechBubbles#BattleSpeechBubbleDlg.json] 아류 산초 경혈 6식.|Variant Sancho Hardblood Arts 6.
+700||SpeechBubbles#BattleSpeechBubbleDlg.json] 갈라지도록.|Be split apart.
+701||SpeechBubbles#BattleSpeechBubbleDlg.json] 아류 산초 경혈 8식.|Variant Sancho Hardblood Arts 8.
+702||SpeechBubbles#BattleSpeechBubbleDlg.json] 끝을 낼 시간이다.|Time to end this.
+703||SpeechBubbles#BattleSpeechBubbleDlg.json] 산초류 경혈 오의 라 샹그레.|Ascendant Sancho Hardblood Arts - La Sangre.
+704||SpeechBubbles#BattleSpeechBubbleDlg.json] 피날레를 준비하지.|Build up to the Finale.
+705||SpeechBubbles#BattleSpeechBubbleDlg.json] 경혈 15식.|Hardblood Arts 15.
+706||SpeechBubbles#BattleSpeechBubbleDlg.json] 너희의 무기로. 이 혈투를 승리로 이끌겠다.|With your weapons, we will claim victory in this bloody struggle.
+707||SpeechBubbles#BattleSpeechBubbleDlg.json] 이발사. 남은 가족들을... 부탁하지.|Barber... I leave the Family in your hands.
+708||SpeechBubbles#BattleSpeechBubbleDlg.json] 신부. 남은 가족들을... 부탁하지.|Priest... I leave the Family in your hands.
+709||SpeechBubbles#BattleSpeechBubbleDlg.json] 하나 뿐인, 자매여. 남은 가족들을... 부탁하지.|Dear Sister... My only sister... I leave the Family in your hands.
+710||SpeechBubbles#BattleSpeechBubbleDlg.json] 눈앞의 만찬에 집중해.|Focus on the feast before your eyes.
+711||SpeechBubbles#BattleSpeechBubbleDlg.json] 가환의 복수 같은 건, 지금의 너에게 큰 의미를 갖진 않을 텐데...  내 앞에서 이치를 논했던 네가, 감히 이제와서 비열하고 감정적인 모습만 보일 셈인가?|Avenging Jia Huan shouldn't affect you this much now, should it...? When did this revolting display of belated melodrama replace your advocacy for the cold and calculating pragmatism you had discussed before me?
+712||SpeechBubbles#BattleSpeechBubbleDlg.json] 하... 하하! 불로불사에 미혹된 노괴들을 다시 한번 내 손으로 벨 수 있다는 건가? 더할 나위없이 좋군!|Ha... ha ha! I shall always welcome another opportunity to cut down these ancient demons who have been seduced by immortality!
+713||SpeechBubbles#BattleSpeechBubbleDlg.json] 나는 이 더러운 요람에 머문 적 없었고, 앞으로도 없을 거다! 단 한순간도.|Never did I let this sickening cradle imprison me, and that will not change today! Never!
+714||SpeechBubbles#BattleSpeechBubbleDlg.json] 더 추하게 발버둥쳐라, 사미윤. 그래야... 너를 베었을 때의 기쁨도, 분노도, 슬픔도, 즐거움도! 강렬할 테니까!|Keep twisting in that filth, Shi Miyin... It'll only enhance the taste of happiness, wrath, sorrow, and joy when I cleave into you!
+715||SpeechBubbles#BattleSpeechBubbleDlg.json] 형님을 홍원에서 다시 볼 날은 영영 없을 거라 생각했는데... 후후, 이곳의 형님은 죽지 않고, 저처럼 자신만의 길을 걷고 계신 모양이군요.|I never thought I'd ever see you in Hongyuan again, big brother... Fuhu, so in this world, you managed to survive. You seem to be carving out your own path much like myself.
+716||SpeechBubbles#BattleSpeechBubbleDlg.json] 흥미롭군. 이 세계에서 형님께 이런 재미난 것을 들을 수 있다고 어찌 아무도 내게 말해주지 않았단 말인가.|Fascinating. Why was I not told that such interesting dialogues could be had with him in this world?
+717||SpeechBubbles#BattleSpeechBubbleDlg.json] 인과 예를 가르쳐 오랜 악행을 지운다니 순서가 잘못됐군.  오랜 악행을 철저히 짓밟고 나서야... 인과 예 또한 의미를 갖지.|You assert that education of humanity and propriety is what cleanses the years of fell deeds? The first step seems to have eluded you: absolutely pulverize the fell deeds. Only then shall humanity and propriety have any significance.
+718||SpeechBubbles#BattleSpeechBubbleDlg.json] 제악무진 참초제근(除惡務盡 斬草除根). 홍원의 군주로서 나는 누구에게도 이해를 구하지 않는 길을 택했지. 그러니 형님... 아니, 가치우. 문답은 더 이상 성사되지 않는다.|Evil must be mercilessly wrested from their roots(除惡務盡 斬草除根). The path I have chosen as the Lord of Hongyuan is a path unburdened by the need to seek understanding from others. Thus, big brother—no, Jia Qiu, this dialogue has met an impasse.
+719||SpeechBubbles#BattleSpeechBubbleDlg.json] 후... 좋아요. 그렇다면... 그 물음. 홍원의 군주로서 들어보겠다.|Phew... okay, fine. Then...\nAs the Lord of Hongyuan, I hereby grant you audience.
+720||SpeechBubbles#BattleSpeechBubbleDlg.json] 손님 맞이가 그 따위여서 되겠나?!|Quite the pathetic reception!
+721||SpeechBubbles#BattleSpeechBubbleDlg.json] …그 경멸스러운 눈을 파내주지.|... I'll gouge out your\ncontemptuous eyes.
+722||SpeechBubbles#BattleSpeechBubbleDlg.json] 아직도 깨닫지 못했나?\n네 놈은… 내 사냥감일 뿐이다!|Do you still fail to understand?\nThat you... are nothing but prey!
+723||SpeechBubbles#BattleSpeechBubbleDlg.json] 비에 젖은 개라니, 마치 네놈 자리를\n내가 뺏은 그날같지 않나?! 크하하!|A soaking wet mutt, are you now?\nOh, does this not remind you of\nthe day I took your place?! HAHAHAHA!
+724||SpeechBubbles#BattleSpeechBubbleDlg.json] 후, 접시나 닦던 놈들이\n나이프를 들이밀다니.|Hmph, how dare you glorified\ndishwashers bare your knives at me?
+725||SpeechBubbles#BattleSpeechBubbleDlg.json] 캐서린…?! 나야, 히스클리프..!\n제발 나를 다시 받아줘!!!|Catherine...?! It's me, Heathcliff...!\nPlease, embrace me once again!!!
+726||SpeechBubbles#BattleSpeechBubbleDlg.json] 네 놈이 어떤 히스클리프든지 상관없다!\n모든 캐서린을 나의 품으로!!!|It matters not what kind of Heathcliff you are!\nI shall embrace every Catherine mine!!!
+727||SpeechBubbles#BattleSpeechBubbleDlg.json] 이런 후보도 있었나? 정말... 이 거울세계란 곳에서는 별의별 하찮은 것들이 가주 자리를 탐냈군.|I don't recall this candidate... Hm, all kinds of sorry churls seem to vie for the seat of the Hierarch in this place they call a mirror world.
+728||SpeechBubbles#BattleSpeechBubbleDlg.json] 여긴 사사로운 가족따위를 위해 서는 자리가 아니다. 홍원을 위한 뜻 품지 않았다면, 이곳에 네놈이 설 자리는 없을 테지.|This is no place for something so insignificant as family. You, who are causeless and hollow of vision toward Hongyuan, do not belong here.
+729||SpeechBubbles#BattleSpeechBubbleDlg.json] 어리석군. 대의를 앞세우고 명분을 얻으면... 말하지 않아도 목숨을 버리는 자가 차고 넘치는 것을.|Benighted is this fool. One need not coerce others to lay down their lives, for the pursuit of a great cause naturally begets those who would gladly brave death itself.
+730||SpeechBubbles#BattleSpeechBubbleDlg.json] 싸움은 싫다더니, 재능은 있었나. 그 보잘 것 없던 겁쟁이도... 흐름에 떠밀리면 광인이 되는군.|For all that disinclination toward violence, you seem to have a passing talent for it nonetheless. Even a pathetic craven becomes... a madman when swept up by the flow.
+731||SpeechBubbles#BattleSpeechBubbleDlg.json] 광대가 따로 없구나. 고개를 치켜 들어도 닿지 못할 하늘에 큰소리만 질러대는군.|Behold the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable.
+732||SpeechBubbles#BattleSpeechBubbleDlg.json] 적을 물어뜯고, 너희의 쓸모를 보여라.|Rip apart my foes; demonstrate to me your worth.
+733||SpeechBubbles#BattleSpeechBubbleDlg.json] 시간 징수 집행.|Executing Time Collection.
+734||SpeechBubbles#BattleSpeechBubbleDlg.json] 탄환, 보급해 드리겠습니다.|Here to supply ammunition.
+735||SpeechBubbles#BattleSpeechBubbleDlg.json] 부여된 최대의 속도로.|With the maximum velocity bestowed upon the passage.
+736||SpeechBubbles#BattleSpeechBubbleDlg.json] 그 소재. 가져갈래요.|I'll have to take that ingredient.
+737||SpeechBubbles#BattleSpeechBubbleDlg.json] 엎드리도록.|You will bow.
+740||SpeechBubbles#BattleSpeechBubbleDlg.json] 끝이야.|It's over.
+741||SpeechBubbles#BattleSpeechBubbleDlg.json] 재밌네요.|How fun!
+742||SpeechBubbles#BattleSpeechBubbleDlg.json] 몸소 보여주지.|I shall show you myself...
+743||SpeechBubbles#BattleSpeechBubbleDlg.json] 어떻게 대관원을 숙청해 왔는지.|... How I have culled Daguanyuan.
+744||SpeechBubbles#BattleSpeechBubbleDlg.json] 메아리 쳐라.|Reverberate.
+745||SpeechBubbles#BattleSpeechBubbleDlg.json] 찢어발겨주마.|I shall tear you asunder.
+746||SpeechBubbles#BattleSpeechBubbleDlg.json] 찢어발긴다, 듀라한이여!|Tear them asunder, O Dullahan!
+747||SpeechBubbles#BattleSpeechBubbleDlg.json] 반! 짝…|Twick! Winkle...
+748||SpeechBubbles#BattleSpeechBubbleDlg.json] 반… 짝!|Tw... winkle!
+749||SpeechBubbles#BattleSpeechBubbleDlg.json] 표적 확인.|Target confirmed.
+750||SpeechBubbles#BattleSpeechBubbleDlg.json] 하나!|One!
+751||SpeechBubbles#BattleSpeechBubbleDlg.json] 둘!|Two!
+752||SpeechBubbles#BattleSpeechBubbleDlg.json] 셋!|Three!
+753||SpeechBubbles#BattleSpeechBubbleDlg.json] 지키기 위해서.|To protect.
+754||SpeechBubbles#BattleSpeechBubbleDlg.json] 한눈 팔았으면 뒈져야지.|Distraction'll bury you six-feet under!
+755||SpeechBubbles#BattleSpeechBubbleDlg.json] 자, 자!|Here we go!
+756||SpeechBubbles#BattleSpeechBubbleDlg.json] 검로 확보.|Arc for the blade, in my sight.
+757||SpeechBubbles#BattleSpeechBubbleDlg.json] 이연.|Twinslash.
+758||SpeechBubbles#BattleSpeechBubbleDlg.json] 삼연, 참살.|Tripleslash. Dispatched.
+759||SpeechBubbles#BattleSpeechBubbleDlg.json] 도와줄게요.|Lemme help.
+760||SpeechBubbles#BattleSpeechBubbleDlg.json] 아코르드(accord)!|Accord!
+761||SpeechBubbles#BattleSpeechBubbleDlg.json] 쏟아져라!|Pour forth!
+762||SpeechBubbles#BattleSpeechBubbleDlg.json] 공격!|Attack!
+763||SpeechBubbles#BattleSpeechBubbleDlg.json] 일발 장전.|Reloading.
+764||SpeechBubbles#BattleSpeechBubbleDlg.json] 노을빛으로.|With the glow of the sunset.
+765||SpeechBubbles#BattleSpeechBubbleDlg.json] 사랑과 정의... 하.|In the name of love and justice... ha.
+766||SpeechBubbles#BattleSpeechBubbleDlg.json] 친히 목을 떨궈주마.|I shall decapitate you myself.
+767||SpeechBubbles#BattleSpeechBubbleDlg.json] 양을 흩트려라.|Sheep shall shatter.
+768||SpeechBubbles#BattleSpeechBubbleDlg.json] 양.|Sheep.
+769||SpeechBubbles#BattleSpeechBubbleDlg.json] 미(未)여.|Heed me, Wei (未).
+770||SpeechBubbles#BattleSpeechBubbleDlg.json] 닭은 달려들어라.|Roosters shall assail.
+771||SpeechBubbles#BattleSpeechBubbleDlg.json] 닭.|Rooster.
+772||SpeechBubbles#BattleSpeechBubbleDlg.json] 유(酉)여.|Heed me, You (酉).
+773||SpeechBubbles#BattleSpeechBubbleDlg.json] 길을 열어라.|Open my path.
+774||SpeechBubbles#BattleSpeechBubbleDlg.json] 짐승이여|Heed me, Beasts.
+775||SpeechBubbles#BattleSpeechBubbleDlg.json] 토끼를 보내라.|Hares shall pursue.
+776||SpeechBubbles#BattleSpeechBubbleDlg.json] 토끼.|Hare.
+777||SpeechBubbles#BattleSpeechBubbleDlg.json] 묘(卯)여.|Heed me, Mao (卯).
+778||SpeechBubbles#BattleSpeechBubbleDlg.json] 뱀으로 꿰뚫어라.|Serpents shall impale.
+779||SpeechBubbles#BattleSpeechBubbleDlg.json] 뱀.|Serpent.
+780||SpeechBubbles#BattleSpeechBubbleDlg.json] 사(巳)여.|Heed me, Si (巳).
+781||SpeechBubbles#BattleSpeechBubbleDlg.json] 말로 받아내라.|Steeds shall bulwark.
+782||SpeechBubbles#BattleSpeechBubbleDlg.json] 말.|Steed.
+783||SpeechBubbles#BattleSpeechBubbleDlg.json] 오(午)여.|Heed me, Wu (午).
+784||SpeechBubbles#BattleSpeechBubbleDlg.json] 피어나라.|Bloom.

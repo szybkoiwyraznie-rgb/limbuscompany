@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=boss_raid_10004_banner_title].content": {
+      "pl": "Chachihu",
+      "kr_sha256": "ff3cce715d1362ed06af6d47b85c8d1e88e91bad4b370a57a4d75b2bc915d611",
+      "en_sha256": "c3ebafc36e1dc22930d564c625593b2f3b2081abbcc6411e4dfca152fe2c69c7",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_10004_boss_title].content": {
+      "pl": "Lei Heng",
+      "kr_sha256": "704fef66e237b3678f20faedc8fcaca4a4c2b5d471640148527c844fdec78aa1",
+      "en_sha256": "aab00935cf0abd66deef574d40043ed28f6787851524b7faf63bf6a978e8a664",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_rule_popup_desc_10004].content": {
+      "pl": "- „Walka Projekcyjna][anjyckejorP aklaW” to <color=#ff0000>wyzwanie o wysokim poziomie trudności</color>.\nZalecamy przystąpienie do walki dopiero po <color=#ff0000>odpowiednim rozwinięciu Tożsamości i E.G.O</color> zgodnie z zalecanymi parametrami.\n(※ Nie można korzystać z Tożsamości Wsparcia.)\n\n- Każda walka z bossem posiada unikalne efekty.\nEfekty Odbicia działają na wszystkich poziomach trudności, natomiast <color=#f8c200>Próby wyłącznie na poziomie Trudnym</color>.\n\n- W walce można użyć kolejno maksymalnie <color=#f8c200>3 składów drużyny</color>.\nTożsamości użyte we wcześniejszym składzie nie mogą jednak zostać wybrane ponownie w kolejnych składach.\n\n- Każdy skład drużyny może walczyć przez maksymalnie <color=#f8c200>12 tur</color>.\nPo przekroczeniu 12 tur lub ręcznym zakończeniu walki dla bieżącego składu\nfaza bossa, jego PŻ i SP oraz pozostałe zasoby E.G.O zostaną zapisane,\nco pozwoli kontynuować starcie kolejnym składem.\n(※ Schemat ataków bossa, PŻ i SP pozostałych wrogów oraz nałożone na wrogów efekty nie są zapisywane.)\n\n- Począwszy od drugiego składu, przy wejściu do walki proporcjonalnie do łącznej liczby tur\n<color=#f8c200>wzrasta początkowe SP</color> sojuszników (※ +5 za turę).\n\nW przypadku Tożsamości z Monetami Ujemnymi początkowe SP przyjmuje wartości ujemne (※ -5 za turę, min. -25).",
+      "kr_sha256": "362c4285e405e6db64fc225d7579966006bdb7676527fbf39b268c3c982e3978",
+      "en_sha256": "c2bd0459ea8a0513a800edbb238f5ad0c0bd172c53faeb4842ebe9210813c630",
+      "origin": "ai"
+    }
+  }
+}

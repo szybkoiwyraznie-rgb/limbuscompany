@@ -1,0 +1,310 @@
+{
+  "entries": {
+    "dataList[id=144801].desc": {
+      "pl": "zadaje +5% obrażeń za każdy 1 [Binding] celu (maks. 15%)",
+      "kr_sha256": "289438a7e9a56d921c691c975d60dda1893c4661232d36ee360581c1c75c0831",
+      "en_sha256": "9fc3f7153c0e532ec808aed154099bc1770514eea9f24452e1b2991da1919ae4",
+      "origin": "ai"
+    },
+    "dataList[id=144801].flavor": {
+      "pl": "Zasłonić oczy nie znaczy nie widzieć.\nTe tkaniny, stworzone dzięki Singularności korporacji Q, przetwarzane są w rozmaite formy — od opasek na oczy po opaski na czoło — i powszechnie używane na całym Wschodzie. Niczego dziwnego, że na Wschodzie fixerzy i pracownicy korporacji owijają głowę i twarz tymi wyrobami.\nPełnią tę samą funkcję co okulary przeciwsłoneczne, wizery i bojowe protezy oczu w innych częściach Miasta: odczytują w czasie rzeczywistym dane celu, wspomagają widzenie noszącego i analizują sytuację. Niekiedy służą też jako środek łączności z dalekimi sojusznikami.",
+      "kr_sha256": "0b5519955e1db661e6d1e853cfc9260c4797c8983babd50993ad29219c82ab7a",
+      "en_sha256": "9a89023e54cfeaf7b70436fd6b891077144def9bb8a5b0d85dd4198de0709c36",
+      "origin": "ai"
+    },
+    "dataList[id=144801].name": {
+      "pl": "Scouring Hunterband [推刷巾]",
+      "kr_sha256": "7f0596770642839a1dda0715a10b19c16b8421005c28ea93aeb811122417239a",
+      "en_sha256": "ef781b4f7d17aa7f325927ebe6bc1174857fba9b35cb67d0d56712b21d5c2340",
+      "origin": "ai"
+    },
+    "dataList[id=144802].desc": {
+      "pl": "po wygranej w Starciu zyskuje 2 [Breath] za każdy Licznik [ScratchesHurt] celu",
+      "kr_sha256": "d5140310cf274e1c2eb2f7ba73fca04a0dcc5f36e82d7f9b02369df1d3ae814e",
+      "en_sha256": "7baa56ce7d740e1f201434d832264a80ad96bcb868f551979f9b7fce55e9e568",
+      "origin": "ai"
+    },
+    "dataList[id=144802].name": {
+      "pl": "Tracking Traces",
+      "kr_sha256": "f56e0f4d4ce438c8cd806351960f9ea1c78f9a9e67cbeff2169802ff7e834146",
+      "en_sha256": "cb4b48c6c003f2212f56bc83fec09a520dc402bee1fe409594c5f1954ec524d6",
+      "origin": "ai"
+    },
+    "dataList[id=144803].desc": {
+      "pl": "przy trafieniu, jeżeli cel wpada w Oszołamienie, nakłada 2 [Binding] w następnej turze (1 raz na turę)",
+      "kr_sha256": "4461495640423b2a41326f3c8cd21318023d2a112b14589780e4603645b46b1a",
+      "en_sha256": "612ac3ba074ec4b13dbb8749553d44f85614101985dacce6b243d4ce352c518e",
+      "origin": "ai"
+    },
+    "dataList[id=144803].name": {
+      "pl": "Throwing the Ohra Bond",
+      "kr_sha256": "d629db371ee4a6197446173df1b8054153bd3dd2c4d18a91930578fd95055c44",
+      "en_sha256": "34c6410bcbdc08a1347479e4a42ca250c425890ddaaac96bedd426d2abc452fb",
+      "origin": "ai"
+    },
+    "dataList[id=144804].desc": {
+      "pl": "jeżeli jednostka nałożyła [TiedRope] na cel, zyskuje [TiedWithRope]",
+      "kr_sha256": "ce46731b089ab13256e32808fb548f0d66db354578096f9c3f5a6667aa9c1056",
+      "en_sha256": "b71f997d4a6401c221cbc483dd145234f9a12dd7e697786c8527ad77f191ed7a",
+      "origin": "ai"
+    },
+    "dataList[id=144804].flavor": {
+      "pl": "Korporacja S wydaje polecenia dwóm rodzajom Łowców Tabu: Królewskim Cenzorom i Ch'unokkunom.\nCenzorzy, należący do dworu królewskiego, poruszają się na ogół samotnie — w ukryciu tropią tych, którzy ośmielili się złamać Tabu Salpippyeo.\nCh'unokkunowie, niczym biura fixerów, tworzą własne zgrupowania. Gdy otrzymają rozkaz albo zlecenie polowania na Oznaczonego, każde zgrupowanie rusza na obławy po swojemu. Polowanie na Nobi nie zna ani honoru, ani godności.",
+      "kr_sha256": "cc926778a45ed88e1c07656ae3a95ff80d3926f63d4834eb00fb624ee693b264",
+      "en_sha256": "fc7050a4c7d476932f348ec985c7d295d87e6832eb752278c387fb8f67f1df3e",
+      "origin": "ai"
+    },
+    "dataList[id=144804].name": {
+      "pl": "Ch'unokkun",
+      "kr_sha256": "947bd730ee3d4fa02d323f152e7325ce9b0814e31b38d3d42e15bcd0a5aa2bc8",
+      "en_sha256": "c85bc164becb49d4de9c4bbd46e66c674dd145acc9e7d57d1748e4a7b31ca557",
+      "origin": "ai"
+    },
+    "dataList[id=144805].desc": {
+      "pl": "zyskuje [SlaveHunersPower] na czas tej walki",
+      "kr_sha256": "69df218685116d1f7b1acad3d8cf7dfcea39ae805206fefe71e410232414c8ed",
+      "en_sha256": "3c1bc9d9aeb1a0ecf0b84bc6c2b66faccc02719fc4f42a9f970a478c5766c8eb",
+      "origin": "ai"
+    },
+    "dataList[id=144805].name": {
+      "pl": "Undertake Orders",
+      "kr_sha256": "a5ea7670e54e0844b03ecb81c4277a47df416162c3af7a120add75b4f7ae3f15",
+      "en_sha256": "923493ee0047ea3096b5d2bddb407a188f4159c42f96d04dda83b6fe3ebf17c0",
+      "origin": "ai"
+    },
+    "dataList[id=145001].desc": {
+      "pl": "Początek walki: zyskuje 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>co 3 tury zmienia Formę Bojową Ojczyzny</u></b></mark></color>\n\nna koniec tury, jeżeli jednostka ma Tarczę, zyskuje 5 [Breath] i +2 Licznika [Breath] w następnej turze\n\nprzy spełnieniu poniższych warunków używa wzorca zawierającego Umiejętność „Bow of the Homeland - Arrowloose”\n- po przegraniu wszystkich Starć przez 2 tury z rzędu (Ataki Jednostronne nie są sprawdzane)\n- w turze następującej po turze spędzonej w Oszołamieniu\n- przy Niskim Morale albo w Panice",
+      "kr_sha256": "6d460e4b473082e7c3ef1c85f86de0ce9fce7fdae8a43c4b7358abd3142c7160",
+      "en_sha256": "a1fe7236fcaa504f882b31b737dbea2d4e734120a80e4e57540753854fed16f7",
+      "origin": "ai"
+    },
+    "dataList[id=145001].flavor": {
+      "pl": "Sztuka miecza Ojczyzny, przekazywana w korporacji S, także dzieli się na trzy gałęzie: Sal, Pi i Ppyeo.\nWśród jej nauk przekazywane są techniki służące do rąbania potężnych stworzeń, takich jak Sanguny.\nAby rozwinąć je w pełni, szermierz musi dzierżyć wielkie hwando, zdolne znieść ciężar tych technik.",
+      "kr_sha256": "c9b7d1196b164137b7ee3aad4b78a7c3e901acb71a221183e3da0bd499986dd2",
+      "en_sha256": "0402cbcea1e049807f138b99d5c1be62a3612796e11b685683b17e8ad9b613ba",
+      "origin": "ai"
+    },
+    "dataList[id=145001].name": {
+      "pl": "Swordplay of the Homeland [Sal] - Great Hwando",
+      "kr_sha256": "056e512d47fd9b02d225efb93f952008afd19456800c395324cd8df3aa30ad7c",
+      "en_sha256": "e3e7b3e414ec2268b2d174d2c0f6c565df289c7e982cec40add05da92944d20f",
+      "origin": "ai"
+    },
+    "dataList[id=145002].desc": {
+      "pl": "otrzymuje o 30% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (zaokrąglane w dół)\n\nkorzysta z efektu [PanicChangeLock]; jeżeli na koniec tury jednostka jest w Panice, SP wraca do 45\n\nprzy pierwszym pojawieniu się w walce zyskuje 5 [ChoiSwordsmanshipShield]\n\n<color=#ff6000><mark color=#ff000040><b><u>po wygaśnięciu [ChoiSwordsmanshipShield] kończy walkę</u></b></mark></color>",
+      "kr_sha256": "607f993242018840136136dd53948e716a7bd5222c4decd5e63631527ad5c962",
+      "en_sha256": "833cf453fc521c57fd8092462501aa02e356802bc52b5c0787328662ba1d7e5b",
+      "origin": "ai"
+    },
+    "dataList[id=145002].flavor": {
+      "pl": "Wschodnie Pancerze Kroku Wojny to zbroje, którymi raczej się „pilotuje”, niż które się “zakłada” — i Dujeong Brigandine korporacji S należy do tej kategorii.\nTak jak Skafander Pancerza Wspomaganego korporacji R albo Pełna Zbroja Płytowa rycerzy Zachodu, Dujeong Brigandine radykalnie wzmacnia zdolności użytkownika — zarówno ofensywne, jak i defensywne.\nJednak pancerzy o takiej mocy nie rozdaje się łatwo. Każdy ma własną, niepowtarzalną obsługę, a do działania wymaga oddzielnego paliwa.\nPewne jest natomiast to, że — jak w przypadku wszystkich ww. zbroi — gdy pilot oswoi się z rozszerzonym zasięgiem i podniesioną mocą wyjściową Dujeong Brigandine, staje się maszyną wojenną kroczącą przez pola bitew z obietnicą rzezi.",
+      "kr_sha256": "fb21c8011d8ea5639ce5bac5836283f116524513dd1c400ea4ad831bc207e592",
+      "en_sha256": "0c54da51eac2e03efbd12cccdefdd839db53736978c779ce4863bdfc41bfee05",
+      "origin": "ai"
+    },
+    "dataList[id=145002].name": {
+      "pl": "Dujeong Brigandine [Sal] - Iron Bulwark",
+      "kr_sha256": "acbc9b8541b51bd88cae29c4f7ea1b3c9697ff19584042774958a293ee94cfc8",
+      "en_sha256": "c18ec579c64f645a97753fc10d2e4d37909629aef03c44bfe12d0ae18981e1a4",
+      "origin": "ai"
+    },
+    "dataList[id=145003].desc": {
+      "pl": "po wygranej w Starciu nakłada +2 Licznika [Breath] (2 razy na turę)\n\njeżeli Siła [Laceration] celu trafionego Umiejętnością jednostki jest niższa niż 5, na koniec Ataku nakłada 1 [Laceration] i +2 Licznika [Laceration] (1 raz na Umiejętność, 2 razy na turę, priorytet: główny cel)",
+      "kr_sha256": "7d568bd9a95a364ec9e32648f196d9f41afec1628c61f1643693764a3c2b1632",
+      "en_sha256": "b33c42b30bfd79a1d44466559a9ccdfefacc0b519d845dad3a3b42b47e29ef65",
+      "origin": "ai"
+    },
+    "dataList[id=145003].flavor": {
+      "pl": "'Są tacy, którzy trenują, bo brakuje im talentu. Są i tacy obdarzeni talentem, którzy jednak go nie rozwijają.'\n'Wszyscy powtarzali, że tytuł Najwyższego Ostrza może zdobyć tylko ten, kto się nim urodził.'\n'Ale to bez znaczenia. Aż przyjdzie dzień, gdy to ostrze wzniesie się tak wysoko, by dotknąć chmur, będę jedynie wytrwale honować swój fach.'",
+      "kr_sha256": "3ac6eec0f27bd108f6fe68e9f8ee2f664b9e528b04018f1e90e205a0fc453e49",
+      "en_sha256": "a1ef2e1a0e4b49761a24d6ab4ff68b0eab3a97c8f82c597d435bdf65f316bd71",
+      "origin": "ai"
+    },
+    "dataList[id=145003].name": {
+      "pl": "Martial Arts of Perseverance",
+      "kr_sha256": "ec5779a0d828089be2b847b3afb473f70f98178db483d3375f80c113b6064bb9",
+      "en_sha256": "1b6e790e35ac939fdfc77e38dfe58f45cdc1ac3ba041e3bd66573c06029114f1",
+      "origin": "ai"
+    },
+    "dataList[id=145004].desc": {
+      "pl": "po przegranej w Starciu zyskuje 1 [RegretSCorp] (1 raz na turę)",
+      "kr_sha256": "52f188390ef615eba3ddf0ef49e2ef7b0eb9b4a31667bcb9e879230cc404a031",
+      "en_sha256": "06fca50850fe4bb25f62620a04b81a974869fe92d30c036ac32feabc09273004",
+      "origin": "ai"
+    },
+    "dataList[id=145004].name": {
+      "pl": "Headsplitting Memory",
+      "kr_sha256": "a67f56db35c211bd29b4e1a6526398671738f7b9b6c1d83216377e5fc0f8c2cf",
+      "en_sha256": "97903d57dc6ac6fd13a0c710ca5663cf3784556258c43d09d8f17d83f303cf03",
+      "origin": "ai"
+    },
+    "dataList[id=145005].desc": {
+      "pl": "zadaje i otrzymuje +20% obrażeń przy trafieniu krytycznym w starciu z Kimem w Bambusowym Kapeluszu",
+      "kr_sha256": "1f07d725301c29b134ebaa1355ddaf8fe1a17357ffcaca3915e33e5097bdb9fd",
+      "en_sha256": "27ece5fb05bbe933fb1130250c3305903325013a17ae4d5e1e085241e0ef4328",
+      "origin": "ai"
+    },
+    "dataList[id=145005].flavor": {
+      "pl": "\"To ciało biorę.\"",
+      "kr_sha256": "adb2306c0fe4382880979c73986f6cafe655299c9eb4a00b6445fc2a9456ee79",
+      "en_sha256": "8647e6ed5c77bcf69a8459f651d39b43f99cf55597f59fd1229e203db3dbd9cc",
+      "origin": "ai"
+    },
+    "dataList[id=145005].name": {
+      "pl": "Yield My Flesh",
+      "kr_sha256": "d944fcaef320d3d7fe1dff98413f36a7bc465c43fdebcb234ed1718cbbdb2034",
+      "en_sha256": "880b673d55bd2fb9e2ee3b4ad59e152f564c0d214c001f360a94871c7cf654b0",
+      "origin": "ai"
+    },
+    "dataList[id=145006].desc": {
+      "pl": "przy pojawieniu się w walce zyskuje 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>na Początku tury, jeżeli Licznik [PhotoTransitionChoi] wynosi 0, wycofuje się, a mapa ulega zmianie</u></b></mark></color>\n\nprzy powrocie na pole walki zyskuje albo traci [ChoiSwordsmanship] zależnie od bieżącej Formy Bojowej Ojczyzny\n- w [ChoiSwordsmanshipOne]: zyskuje Liczniki\n- w [ChoiSwordsmanshipMany]: traci Liczniki",
+      "kr_sha256": "b146a57d22e0a14cb6615e4b5f7478f8f844d03043bb9eebf006010dc569b655",
+      "en_sha256": "b7bcd4edf3321101e6762ad1b7ba94bc8c4168cb314737cc4717d5727a6ad6cb",
+      "origin": "ai"
+    },
+    "dataList[id=145006].name": {
+      "pl": "Developed Memories",
+      "kr_sha256": "8480cf96fd019c784520535cd67ac94e2c378eaef17568843a3e2a84ba8ffe8e",
+      "en_sha256": "1565fb2a3e70ebf752e8ce1fd806b89b0c330fe82c541f29dba84192fb274594",
+      "origin": "ai"
+    },
+    "dataList[id=145007].desc": {
+      "pl": "na Początku tury stosowane są następujące efekty:\n- w [ChoiSwordsmanshipOne], jeżeli Licznik [ChoiSwordsmanship] jest niższy niż 5, zyskuje (5 - Licznik [ChoiSwordsmanship]) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color>\n- w [ChoiSwordsmanshipMany], jeżeli Licznik [ChoiSwordsmanship] przekracza 5, zyskuje <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color> równe nadmiarowi Licznika [ChoiSwordsmanship] ponad 5",
+      "kr_sha256": "1736aa743f600a13c6387fa2d8e4b67061fdff4b9b18fb055d08dd014f68eb16",
+      "en_sha256": "834dfe08ef1c9ad04c3ad529fe26dabe1cef5229c1b5766795aa877ebd3c80b3",
+      "origin": "ai"
+    },
+    "dataList[id=145007].name": {
+      "pl": "Mismatched Memories",
+      "kr_sha256": "7a457614ea9d3c29b1faf2ecbe843241af0ec4534cb9ef8fa1713d373ae3e01a",
+      "en_sha256": "03f555f668918a353cb766487704d4b3eb842fb3710b570af463e4de25a82a17",
+      "origin": "ai"
+    },
+    "dataList[id=145101].desc": {
+      "pl": "Początek walki: zyskuje 5 [ChoiSwordsmanship]\n\nco 3 tury zmienia Formę Bojową Ojczyzny\n\nprzy trafieniu Umiejętnością Cięcia zyskuje 1 Siły [Breath] (1 raz na Umiejętność)\n\nprzy spełnieniu poniższych warunków używa wzorca zawierającego Umiejętność „Bow of the Homeland - Arrowloose”\n- po przegraniu wszystkich Starć przez 2 tury z rzędu (Ataki Jednostronne nie są sprawdzane)\n- w turze po Oszołamieniu\n- przy Niskim Morale albo w Panice\n\nna Początku tury, jeżeli Licznik [ChoiSwordsmanship] jednostki osiąga minimum albo maksimum, używa potężnej Umiejętności\njeżeli w poprzedniej turze użyto Umiejętności „Bow of the Homeland - Arrowloose”, używa potężnej Umiejętności niezależnie od Licznika [ChoiSwordsmanship]\nprzy HP równym 55% lub mniej używa potężnej Umiejętności niezależnie od Licznika [ChoiSwordsmanship]",
+      "kr_sha256": "0e6905d562a25bde523b24161b1b0775f73850ed60a6b69e3f21a0af95a49280",
+      "en_sha256": "17a53845e7450fb39470e8c0e2fd2d71ee8c900765ba301ff9c6faa54cfb88f2",
+      "origin": "ai"
+    },
+    "dataList[id=145101].flavor": {
+      "pl": "Miecz Ojczyzny przekazywany w Kręgu Dworskim Sal nie jest, w swej istocie, sztuką zabijania.\nCiąć i ciąć dalej, dopóki krew nie spłynie, a kość nie obnaży się — to sedno sztuki, która obdziera ciało przeciwnika w pasy.\nTak praktykuje miecz Ojczyzny „Sal”.",
+      "kr_sha256": "301ac782e392e6f9fd773a95f6103ae397fcf5c17225e662daae0814f78b8964",
+      "en_sha256": "3beaa469c7f2c5ad3c7fe7d68e7577e3808ac0edef0f2011af56d4547762019e",
+      "origin": "ai"
+    },
+    "dataList[id=145101].name": {
+      "pl": "Swordplay of the Homeland [Sal] - Rend Flesh from Flesh",
+      "kr_sha256": "a432cd4978c895450552c5d3067275f21d23b8bc34ef9e3ad1862c0baa56b99a",
+      "en_sha256": "e5d1d1a9c2e983d2f1c34fd75643b8c81adacd2a04ea98b9648d03aa84fa9e09",
+      "origin": "ai"
+    },
+    "dataList[id=145104].desc": {
+      "pl": "<color=#ff6000><mark color=#ff000040><b><u>na Początku tury zyskuje albo traci 2 Liczniki [ChoiSwordsmanship] zależnie od Formy Bojowej Ojczyzny (nie uruchamia się w pierwszej turze walki)</u></b></mark></color>\n- w [ChoiSwordsmanshipOne]: zyskuje Liczniki\n- w [ChoiSwordsmanshipMany]: traci Liczniki\n\nw turze, w której jednostka wyposażyła Umiejętności Zawiści, nie podlega efektom korekty Licznika [ChoiSwordsmanship] i <color=#ff6000><mark color=#ff000040><b><u>resetuje Licznik [ChoiSwordsmanship] do 5 w następnej turze</u></b></mark></color>",
+      "kr_sha256": "53ba2ce9aacbf29656b567e284f8cd4a84e10b6db7117ebb7d092d783afceb1d",
+      "en_sha256": "c6761e457e15a2d5af149cea34e78213c44153568d471d5f9d0d1b812c95f90f",
+      "origin": "ai"
+    },
+    "dataList[id=145104].name": {
+      "pl": "Swordplay of the Homeland [Sal] - Shift Battleform",
+      "kr_sha256": "ef35d1c684900c7abbc62d22cb695f2c86268e4dbaa1e584c7ba4f4a075dabf4",
+      "en_sha256": "bd92114538c1b968ce8b227a58e164d09fff5af0ff9a59eaebb0fb5761804ff2",
+      "origin": "ai"
+    },
+    "dataList[id=145105].desc": {
+      "pl": "otrzymuje o 30% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (zaokrąglane w dół)\n\nkorzysta z efektu [PanicChangeLock]; jeżeli na koniec tury jednostka jest w Panice, SP wraca do 45\n\nna Początku tury stosowane są następujące efekty:\n\n- w [ChoiSwordsmanshipOne], jeżeli Licznik [ChoiSwordsmanship] jest niższy niż 5, zyskuje (5 - Licznik [ChoiSwordsmanship]) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color>\n\n- w [ChoiSwordsmanshipMany], jeżeli Licznik [ChoiSwordsmanship] przekracza 5, zyskuje <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color> równe nadmiarowi Licznika [ChoiSwordsmanship] ponad 5",
+      "kr_sha256": "f5448087175ba625bbe4c6b718418b1773c984e5c1c21ec0c8b41a9fa7f6b349",
+      "en_sha256": "7bb378ffb0958b736891d4db8f2946cf43079f2d23eeaeb0adfbb41874180437",
+      "origin": "ai"
+    },
+    "dataList[id=145105].flavor": {
+      "pl": "Trzy Kręgi Dworskie — Sal, Pi i Ppyeo — przekształciły bazowe Dujeong Brigandine korporacji S, nadając im formę zgodną z własnymi doktrynami.\nWedług starych opowieści „Sal” zawsze wytyczało początek rzezi, kładąc ciosy na ciele wroga wcześniej niż ktokolwiek inny.\n„Pi” zbiera krew wypływającą z każdej rozwartej rany i zamienia ją w wytrwałość na polu bitwy.\n„Ppyeo” finalizuje zabijanie: rozbijając staw od stawu, przygina wroga do kolan, po czym ostrze przez kość szyi kresuje zbiorowy akt zabijania.",
+      "kr_sha256": "48dd38cb2af03df71d2759b3a9976d4e1380a12f2f9e63e92057d152a468fbe4",
+      "en_sha256": "06b17b2e387506c734462a0585783774a43904df801d4629ed2637d8ec52d6ba",
+      "origin": "ai"
+    },
+    "dataList[id=145105].name": {
+      "pl": "Dujeong Brigandine [Sal] - Great Mountain",
+      "kr_sha256": "6bcbfdc1e1a1581d610832e2b3c76f4e953dfe9972ed3e05b70705e94551dd1d",
+      "en_sha256": "4fd127913d6a61608e908e25d889d7f32b8de067983865e76fe8e4ff806244b0",
+      "origin": "ai"
+    },
+    "dataList[id=145201].desc": {
+      "pl": "jeżeli jednostka nałożyła [TakePicture] na wroga, przywraca 10 SP",
+      "kr_sha256": "56036a1f376585d1cf461c1d203181d5b2ebaf8feb3d52936ee9abc52170de2f",
+      "en_sha256": "018b6ce1004f2641eeddeccb9a4ba89e2cccd7bb5254316a6cdf838fbe88695a",
+      "origin": "ai"
+    },
+    "dataList[id=145201].name": {
+      "pl": "Arranged Information",
+      "kr_sha256": "76034f65811e46fdb2244ae599aa8b64043c6f2e006719a9d79c2071fec3e0ab",
+      "en_sha256": "99b3c2e3ff465cc294473ab611bf9ff81767418e9f80947ce21a1e7a9f840e12",
+      "origin": "ai"
+    },
+    "dataList[id=145202].desc": {
+      "pl": "przy uruchomieniu [VibrationExplosion] na wrogu podnosi Próg Oszołomienia celu o Licznik [LensmanNail]",
+      "kr_sha256": "7a430624940a81c229add03a70f7433befc7405946a0a5b8f1c5c74dc2bb917d",
+      "en_sha256": "5175dab4cf5084deaa4fa93cf9f7f97ba7706f8749614eb37b431c8fb6d96479",
+      "origin": "ai"
+    },
+    "dataList[id=145202].name": {
+      "pl": "Firm Nailing",
+      "kr_sha256": "7e74170bd171b6f7d63243f5ecc9d9e2d31fac503014fbaa01bf14fea247ad65",
+      "en_sha256": "20837d50405c6ddf8dac663c5be81dbeaf8df27cb0858061636b60e97c2d0667",
+      "origin": "ai"
+    },
+    "dataList[id=145204].desc": {
+      "pl": "zyskuje [LensmanPower] na czas tej walki",
+      "kr_sha256": "69c395e318c73143651a3dc6cb7546bf56387399b8d19e1775aee2710e8635db",
+      "en_sha256": "df97f707c35c3c423e346f80423ee1f945f2b588c9606a8ad0d8078ffe04b66d",
+      "origin": "ai"
+    },
+    "dataList[id=145204].name": {
+      "pl": "Undertake Orders",
+      "kr_sha256": "a5ea7670e54e0844b03ecb81c4277a47df416162c3af7a120add75b4f7ae3f15",
+      "en_sha256": "923493ee0047ea3096b5d2bddb407a188f4159c42f96d04dda83b6fe3ebf17c0",
+      "origin": "ai"
+    },
+    "dataList[id=146001].desc": {
+      "pl": "ta jednostka nie może zostać pokonana i otrzymuje wyłącznie obrażenia od Umiejętności atakujących ją jako cel główny; inne obrażenia jej nie szkodzą\n\nSzybkość zostaje ustalona na 1\n\nna Początku tury po pojawieniu się w walce zyskuje 3 [PhotoTransitionChoiCamera]\n\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli HP jednostki osiąga 1 albo Licznik [PhotoTransitionChoiCamera] spada do 0 na Początku tury</u></b></mark></color>, stosowane są następujące efekty:\n- usuwa siebie i N Corp. Class 2 Staff z walki\n- przywraca Im Gyeong-eop do walki\n- przenosi walkę do innej lokalizacji",
+      "kr_sha256": "56c6d3cb5c5ba2725192b14cf08586a69f309bcfeba82cfc6f0ac3504e589eb0",
+      "en_sha256": "10cdb561cbebd02840df80beb59b1159d591e08eb0d362a2581d014eb14d1669",
+      "origin": "ai"
+    },
+    "dataList[id=146001].name": {
+      "pl": "Wypaczenie typu Lokalizacja: Ciemnia",
+      "kr_sha256": "01744b367bdf2ccb1cb3675af0c4e8c6e5b769364345408b60038be022cd1c22",
+      "en_sha256": "97b7fc8a8f4684d7d41bd03f435c961d64f347e316a2d7c3c340f6ec57bfeb0f",
+      "origin": "ai"
+    },
+    "dataList[id=146002].desc": {
+      "pl": "Początek walki: jeżeli pole bitwy wróciło w tej turze z korporacji S do korporacji N, wszystkie Grzeszniki przywracają 15 SP",
+      "kr_sha256": "23ac4aef0049848516f56c69d99902448b3e46b3f3e5f86dcbbc11e0db464ddf",
+      "en_sha256": "f3c7ba5304801755ed12fa9e1b7a0bc31e683129b9f0a951b537edd10b4f1ab9",
+      "origin": "ai"
+    },
+    "dataList[id=146002].name": {
+      "pl": "From Memory to Record",
+      "kr_sha256": "a1bb3ed2b9437d6880ae5c09ad8f409bb349fc63c37244a07688c953c149c0d9",
+      "en_sha256": "a5c7423bc8976b4704ff5f8085b93dae540b8051d2a62698973dc3b4ce4a3f19",
+      "origin": "ai"
+    },
+    "dataList[id=146101].desc": {
+      "pl": "przy śmierci daje +1 zasób E.G.O Afinności, której ma najmniej",
+      "kr_sha256": "04988a60808bac2329048f2f285ae08a483b445dc0a744bd2868b00350cdcdaa",
+      "en_sha256": "c1f1a050cd7ee7d3d68a79260b30695740a25c6c5947bb7830c8c50afd9285a2",
+      "origin": "ai"
+    },
+    "dataList[id=146101].name": {
+      "pl": "Scattering Memories",
+      "kr_sha256": "1051edaf4f7cec42938951ade3a06dbf057ed27aa31f94ab0f4643cda4d39b17",
+      "en_sha256": "8562e3e3273ef8bcd2c3201df9059ca5c2d9a33e1ed7620d54295c2d05bed975",
+      "origin": "ai"
+    },
+    "dataList[id=146101].summary": {
+      "pl": "daje zasób E.G.O przy śmierci",
+      "kr_sha256": "a039d959829173f1ebd15f4bc91bd44189152cf74d29ec9fadff5e652edbf448",
+      "en_sha256": "ab3421bb4555cc8585fccc4ab84cb30b1e8b78fc5f4a891791215ac0d4d2ef25",
+      "origin": "ai"
+    }
+  }
+}

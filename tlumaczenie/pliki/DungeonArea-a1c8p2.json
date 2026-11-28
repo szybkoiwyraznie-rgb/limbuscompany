@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=dungeon_1_8_0101].content": {
+      "pl": "Laboratorium Naziemne — Wejście n",
+      "kr_sha256": "7147f7df149da23adbea858083f7add858d6f4d48d96664fcfad175bbd4b102f",
+      "en_sha256": "d9446b75af726c20574cd00807a89991e3e0d3e7dfe488c675173f108953a6f4",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0102].content": {
+      "pl": "Sala Przygotowawcza",
+      "kr_sha256": "3e3cac56713632e98feba278f0ecf96d8204525aa48c714496cf28efbd559c63",
+      "en_sha256": "c0327aefa481a0297a1c137ba7e903509f9c2a77f1154239725de11e183c6bc2",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0103].content": {
+      "pl": "Izba Kwarantanny",
+      "kr_sha256": "7a5d555a876e931f450941d28779408c398c8904391f579f4a0e687a4026ced3",
+      "en_sha256": "1da538505a1d9f09b24b4b3ebc0d0961c09564242bc0d1027c07291155e044ef",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0104].content": {
+      "pl": "Laboratorium Naziemne — Wejście n",
+      "kr_sha256": "7147f7df149da23adbea858083f7add858d6f4d48d96664fcfad175bbd4b102f",
+      "en_sha256": "d9446b75af726c20574cd00807a89991e3e0d3e7dfe488c675173f108953a6f4",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0105].content": {
+      "pl": "Składowisko Odpadów",
+      "kr_sha256": "2603d822bc49cb0329117ce2385a7b7086ef4a40eb148da3d65efe548f0e49c0",
+      "en_sha256": "0ca6f93c4b58535694ddb5609c7c645a045ec5a48f13473e8138c38831d21cdb",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0106].content": {
+      "pl": "Laboratorium nr 4",
+      "kr_sha256": "74a1e47c9dccc12b99db24e3ae610032ed44aa5aed9f92f65c5e2900877bef4e",
+      "en_sha256": "f6395bdcfa8965a0e35f3f9811346abe3c26f72c2760cd1e64eb7bade29b4057",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0107].content": {
+      "pl": "Skrzydło Badawcze",
+      "kr_sha256": "d1fb9d4cd80d0a06bc4dfd87ba65cef01c4d8a7fc548662cbcad7b7dc2a00908",
+      "en_sha256": "130d5337dc885c6b904a9bf2e9a35d8af51e62c0be5c23be2e9c05b330ae436a",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0108].content": {
+      "pl": "Sala Likwidacji",
+      "kr_sha256": "8e514f7c9b46befad32f7b71eb13a7b723104fbe34500701667913bb426e4a02",
+      "en_sha256": "3233d4b03147d298cb2f24ce590157f7478d541696f82c338f15eac071fffc79",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0109].content": {
+      "pl": "Strefa Eksperymentalna",
+      "kr_sha256": "4159cd8feccfa299abf1f046c48ca75a4fec2c80d4871ba4032b6b4515dd85c7",
+      "en_sha256": "ebf562a4fb17cdf49bf42e533d1c044ed5b5eb7cf7ab354048440401c025b850",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0110].content": {
+      "pl": "Laboratorium nr 1",
+      "kr_sha256": "2984d179cfb1e7b2c5693932d88f685588f803f6e53950f62ce637d5e02d8434",
+      "en_sha256": "bc37cd8ca9376208a2b1d57dba9c2eee4896fc0968364da62b45c07568137014",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0111].content": {
+      "pl": "Zamknięte Laboratorium",
+      "kr_sha256": "2f880f49f50507ef620d34cd58f77136bf696825eba43638a1d434cf039757fa",
+      "en_sha256": "ccb7f9e9dfc72d54a8cf33541ea7b101d172c27a27ec10e03323113365431813",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_8_0112].content": {
+      "pl": "Laboratorium nr 2",
+      "kr_sha256": "2474fe78ed7bf36eb618970fa662358174df5c0b37c67d9f4e3ebfe7d8b0e048",
+      "en_sha256": "939dc95fa6d730c43986238e137546b902feea0abaef75ceeacb7b5c478cddf2",
+      "origin": "ai"
+    }
+  }
+}

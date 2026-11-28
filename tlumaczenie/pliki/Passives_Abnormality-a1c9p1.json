@@ -1,0 +1,412 @@
+{
+  "entries": {
+    "dataList[id=130601].desc": {
+      "pl": "po rozegraniu Starcia nakłada 1 [DuelEdge] celowi, z którym stoczyło Starcie\npodczas Starcia z celami posiadającymi [DuelEdge], przywraca 3 SP za każdy Licznik [DuelEdge] celu (maks. 15)",
+      "kr_sha256": "08e1938ceb3fc75a9976eb356a1e077da2d81750634ca42e78e50cb52cbec4ed",
+      "en_sha256": "f1a4e09d22d4d996db1a476a2cb4dfc2b47e1f0a9712dd46443be6deac52525f",
+      "origin": "ai"
+    },
+    "dataList[id=130601].name": {
+      "pl": "Duello",
+      "kr_sha256": "0dd92e14318a377d0a9fdef6e922ab7894697d65e904943d1984ae53dde15508",
+      "en_sha256": "8efd89f3def72760b95252faadaadd09f9d50ebf11c8ecf6b66cba9953c01688",
+      "origin": "ai"
+    },
+    "dataList[id=130602].desc": {
+      "pl": "zyskuje następujące efekty w zależności od Licznika [DuelEdge] celu\n- za każdy Licznik zadaje +5% obrażeń i otrzymuje o 5% mniej obrażeń od celu z [DuelEdge]\n- przy 1+ Liczniku, podczas Starcia z celami posiadającymi [DuelEdge], zyskuje Moc Starcia +1\n- przy 2+ Licznikach, podczas Starcia z celami posiadającymi [DuelEdge], zyskuje Moc Bazowa +1\n- przy 3+ Licznikach, podczas Starcia z celami posiadającymi [DuelEdge], zyskuje Moc Monety +1 i nakłada 3 [SeveredTendon] przy trafieniu\n- przy 4+ Licznikach, podczas Starcia z celami posiadającymi [DuelEdge], zyskuje Moc Końcowa +1",
+      "kr_sha256": "27d748062a4d9071b014c6a252f5694d699b01604f17c89f985d3cd6fdb5c155",
+      "en_sha256": "a58a2c2b77dcc5058f21d1cb6f202eaee3142d10032d343c6ef41dafbcea82fd",
+      "origin": "ai"
+    },
+    "dataList[id=130602].name": {
+      "pl": "Palermitan Style",
+      "kr_sha256": "3c0c083bb133590d191baae8fd1f2a68a4767817266d5b747dfd99cd05f00e35",
+      "en_sha256": "adf38b56b9073716297907c3a7996b0a04110a8e6ca3e5f462f9bb4410abe7e6",
+      "origin": "ai"
+    },
+    "dataList[id=130603].desc": {
+      "pl": "jeżeli efekty Umiejętności tej jednostki uruchomiły [VibrationExplosion], zyskuje 2 [AttackUp] w następnej turze (3 razy na turę)",
+      "kr_sha256": "a250304c87853b4fb02d176c2f52d53763110af5bd4b008ca941b94c3df33ba4",
+      "en_sha256": "a21fd5a7514da3d815a5182d334b81a52364bc95073e6092a084e7cd9e5e56ae",
+      "origin": "ai"
+    },
+    "dataList[id=130603].name": {
+      "pl": "Palermitan Rapier / The Cleaving Blade",
+      "kr_sha256": "95bcd8dd041d5d23c3c57d04ffb25e3a1e7e278e159578f7cd6e93fa01495e0c",
+      "en_sha256": "e22e0ccce764200588a8538bab2aa37dce0e300588905b0536807cbc5b6a482d",
+      "origin": "ai"
+    },
+    "dataList[id=130604].desc": {
+      "pl": "co 3 tury wskazuje losowego wroga (poza Ryōshū) jako priorytet, ustala jego Szybkość na 1 i wskazuje go celom wszystkich Umiejętności\n(jeżeli efekt nie mógł się uruchomić z powodu Oszołamienia, uruchamia się w następnej turze)",
+      "kr_sha256": "da2fd2787cf16cd3391bd41c9e1da74da12cc23c11c8d034c3154bc164a657ce",
+      "en_sha256": "5965dd52bbcc84f87a2ba9adb1eb47f4b0df584205a63b93de3bd4af7d246608",
+      "origin": "ai"
+    },
+    "dataList[id=130604].name": {
+      "pl": "Hunter's Mark",
+      "kr_sha256": "d841bcceb7a98b800bba975002936a2b54faf73127be00493ab78850c74c4138",
+      "en_sha256": "d3c050dcd5d3e90df06f42c2772e45b8e67b807196af064a26fcc5ce7007b678",
+      "origin": "ai"
+    },
+    "dataList[id=130605].desc": {
+      "pl": "Początek walki: zyskuje [TeachersCommand]\npodczas Starcia z Ryōshū Moc Starcia -3, a Monety bazowych Umiejętności ataku tej jednostki zmieniają się w [SuperCoin]y.\npoza tym po przegranej w Starciu zadaje o 80% mniej obrażeń, a efekty „przy trafieniu” nie uruchamiają się",
+      "kr_sha256": "13b79d413421dd734da597f05a3df99c0b95a100302e642ee435bc91296ca648",
+      "en_sha256": "d2f18de32446cefc2141d8f2d2515f8839f55c61e8b2a5e187f64bb69adf572c",
+      "origin": "ai"
+    },
+    "dataList[id=130605].name": {
+      "pl": "A Textbook with a Singular Purpose",
+      "kr_sha256": "721487b690147cd1122b131ad7ca9782cb4a180dc571c9ce0be3ce8dc433361c",
+      "en_sha256": "b978969095c7321ef77372592a12f49820b1549fbb303f60e1e4a30b8165646b",
+      "origin": "ai"
+    },
+    "dataList[id=130701].desc": {
+      "pl": "jeżeli inna Część Ręki została zniszczona, Monety Umiejętności pozostałej Ręki zmieniają się w [SuperCoin]y, a te zyskują Wagę Ataku +1\n- przy użyciu Umiejętności objętej tym efektem zyskuje 1 [RapidGrowthApple]",
+      "kr_sha256": "a0f4a65c632ea09c6f1d669f89b75c7131dbea6d74d49536ad6ffebb4bbd1bb3",
+      "en_sha256": "09a5cbe407c9dbc0a15a0fceb87d6ef1f2577519aa1bbd0f13b65380a248ac93",
+      "origin": "ai"
+    },
+    "dataList[id=130701].name": {
+      "pl": "Searching Arm - Partial Deterrence Release",
+      "kr_sha256": "5965e71dc132f63aa675a6aedb096a6d8de4e5894016e5f226bc916c352309a8",
+      "en_sha256": "b15bc01c2cd985b91764290d49f217d7fa267a0257a42dfeb77dcfed847d94ce",
+      "origin": "ai"
+    },
+    "dataList[id=130702].desc": {
+      "pl": "jeżeli ta jednostka ma Korzenie, zyskuje 1 [HowDareYouApple] po otrzymaniu trafienia na Części Owocu\n\nprzy 4 [HowDareYouApple] używa potężnej Umiejętności nakładającej silne negatywne efekty\n\njeżeli ta jednostka nie ma Korzeni, nie zyskuje i nie zużywa [HowDareYouApple]\ngdy Część Owocu zostaje zniszczona, traci [HowDareYouApple]",
+      "kr_sha256": "1544e3a95ce25fe6ff40f5ccea9aac88088e77348cafbac59c8f15827042bc84",
+      "en_sha256": "67657966bfe28ff448eb0fbbdbad8206b574ffa83696aa70d450053dab5640ef",
+      "origin": "ai"
+    },
+    "dataList[id=130702].name": {
+      "pl": "Ebony Queen - Partial Deterrence Release",
+      "kr_sha256": "f39ec4813f74fa4d418565f8ba04a20791e78c0b7a492afd43b589672aa528a1",
+      "en_sha256": "ee8afc78efd2ceb0363150d28cb1f137c8b85701e8a35de92c8ce11a276202ef",
+      "origin": "ai"
+    },
+    "dataList[id=130703].desc": {
+      "pl": "na Początku tury nakłada 2 [Binding] wszystkim wrogom\ndotyczy to do czasu zniszczenia Korzeni",
+      "kr_sha256": "a85999f4e90464a1aee27d6bc5e8a744c35f23963ee316a6cef3327d8645030a",
+      "en_sha256": "dbe89194f497d93163cee3cfea8f0b27fa80617a1db01b371f1382467251d958",
+      "origin": "ai"
+    },
+    "dataList[id=130703].name": {
+      "pl": "Entangling Roots",
+      "kr_sha256": "2d64e79353081df0e19035138754f47d3ba46e96eec006f65a5166586930aea2",
+      "en_sha256": "01f5eb20117ecb9bc64cd9399b40f9b90041358e8004c7517a86d498c52e77ef",
+      "origin": "ai"
+    },
+    "dataList[id=130704].desc": {
+      "pl": "Część Korzeni zyskuje 3 [Enhancement] za każdą niezniszczoną Część Ręki\nnie zyskuje tego efektu, jeżeli Korzenie są zniszczone",
+      "kr_sha256": "4fb78681e96d5038ebf7b6f0e9fd09962ac5e12fdcf894662fff5f489332d0cc",
+      "en_sha256": "936c2b1eb6afa240037fad70627cb430a6afaf55db94e74ed2d57601255585c4",
+      "origin": "ai"
+    },
+    "dataList[id=130704].name": {
+      "pl": "One Sole Root",
+      "kr_sha256": "ea955cf1e652b3d3c6ca45448739d524fc0871df8d2be5feb225d5c45ecf3440",
+      "en_sha256": "f1e02eebcb9f9d3080aec0c7bfce55cba8d3a93d74e6d404bef3494199be9b51",
+      "origin": "ai"
+    },
+    "dataList[id=130801].desc": {
+      "pl": "na Początku tury, proporcjonalnie do liczby uczestników walki, nakłada [FairyCharm] Grzesznikom z najniższą Szybkością\nliczba jednostek z [FairyCharm] rośnie przy każdym odtworzeniu Części Wróżki",
+      "kr_sha256": "314167e00b705c06045ec96fef73811e1378c2ce69b592c23fe74437913ced6b",
+      "en_sha256": "a390edf2057bbe63c9e4e0aed94c93b80bd105de0e1d8eee0734d31fa4143470",
+      "origin": "ai"
+    },
+    "dataList[id=130801].name": {
+      "pl": "Charmed",
+      "kr_sha256": "097f1aa8be5b256c267bd6ff581b405d5d6f9c74c37207bd6c82001e7bb87dc4",
+      "en_sha256": "50eab20d532813f1032dc98d75780da077915e0d1ea23287152cbdbb04e3123d",
+      "origin": "ai"
+    },
+    "dataList[id=130802].desc": {
+      "pl": "odsłania Korpus, gdy Część Wróżki zostaje zniszczona\nprzy ponownym ukryciu Korpusu usuwa wszystkie posiadane bonusy i debuffy",
+      "kr_sha256": "d3f9d2c6462c24601a0fc87da383a85216899610034aa4a4b3ae4c762969c750",
+      "en_sha256": "71b3566de15fb7b920d216df5c8f7593d3fbe688dc91694a03690d4ecf279e13",
+      "origin": "ai"
+    },
+    "dataList[id=130802].name": {
+      "pl": "Odsłonięta Otchłań",
+      "kr_sha256": "0e7ceb54804ad594cb69763af3b5813f1bf3221d1321fa80c72ef557317b8405",
+      "en_sha256": "6707a4fc853592d6b7ce2c8b7e966596463360cae58382f311dcfb4b7278e554",
+      "origin": "ai"
+    },
+    "dataList[id=130803].desc": {
+      "pl": "atakowanie Części Wróżki nie zużywa HP Korpusu\nokreślona Umiejętność zyskuje Wagę Ataku zależnie od liczby jednostek z [FairyCharm]",
+      "kr_sha256": "276d45ce007207951225addaf8b82a329d1cec50b3d5b90a0c8aae07d2b6f9ce",
+      "en_sha256": "ccfdd996b11f80600e8c9eb37a3eb99330102bc8298497421851af850f2d55be",
+      "origin": "ai"
+    },
+    "dataList[id=130803].name": {
+      "pl": "Leading Lure",
+      "kr_sha256": "bd14e67dedddccce0a3a18c6f90345862c4f9f88fde29b10d5950c6e15678ee4",
+      "en_sha256": "21eec32ac748cc668d82c5da7c335c688e20ca8b142b6b1254f9cd2ed917c954",
+      "origin": "ai"
+    },
+    "dataList[id=130804].desc": {
+      "pl": "gdy Korpus zostaje zniszczony:\n- Wróżka odtwarza się z HP równym 60% swojego Maks. HP\n- przywracając HP Korpusu efektami Umiejętności, przywraca o 20 więcej HP",
+      "kr_sha256": "c1d011a4d9d5435f8fc931c7f45246c5f456a3af2a7b68f3d7d73fd4aefcd489",
+      "en_sha256": "7e9f6b75e364463875bfab9112f2d49e9dcf6c93eea53eefdd90e59c161e9421",
+      "origin": "ai"
+    },
+    "dataList[id=130804].name": {
+      "pl": "Zniszczony Pniak",
+      "kr_sha256": "18d051611245676c89083ce5741b33861f295133f155e58860491bcdd190d968",
+      "en_sha256": "414669f7869733e506126a4ed743a76c14b5e1141eacc74bdfb237d4a6d1f1e4",
+      "origin": "ai"
+    },
+    "dataList[id=130805].desc": {
+      "pl": "przy każdym odtworzeniu Części Wróżki jej Maks. HP rośnie o 30%",
+      "kr_sha256": "d48dae0de572c25d600fa9a115d70beea8e026f8505710e81d183077cd5c0739",
+      "en_sha256": "a5005c6ba028a9b5902d1cb7a5b9f5884da9177ce9535e167c9162ec1349ec0e",
+      "origin": "ai"
+    },
+    "dataList[id=130805].name": {
+      "pl": "Ewoluujący Wabik",
+      "kr_sha256": "6a75ab50eefcc2ab8a71c5d27f4bc3a4d8a8bb9355e6da9c7f3ee2a5c99f4926",
+      "en_sha256": "55e3a7e57862951c0df008d71c6d4014dc344f253547aad0e3260a3510d98cc3",
+      "origin": "ai"
+    },
+    "dataList[id=130806].desc": {
+      "pl": "gdy Wróżka ginie, wszystkie Osobowości zyskują 5 [Breath] i 2 Licznika [Breath] w następnej turze",
+      "kr_sha256": "8eab80a9d79e2b04752cc5e3db11a630b71428ac975d7e31a44f716d62816eb8",
+      "en_sha256": "f41989f74eebaf9c6560bdb232b330450f0fb680a10aff42fa4384921c5f1504",
+      "origin": "ai"
+    },
+    "dataList[id=130806].name": {
+      "pl": "Pył Wróżek",
+      "kr_sha256": "ed3744540f1e200974811a3554b475e324abbaae477408675fc68725343a587e",
+      "en_sha256": "787b5e39da68c74739a33e66612f54d332e51d88fc8af37c24b27d9e77057981",
+      "origin": "ai"
+    },
+    "dataList[id=130807].desc": {
+      "pl": "po drugim odtworzeniu Wróżki używa jeszcze potężniejszych Umiejętności",
+      "kr_sha256": "c07bfccaafcd2f1befd8a1cc02ecc3139550cf6783707ac238359d5344b35405",
+      "en_sha256": "a9a7e7c4728816953b2663784b053a8b82e40e3f716b20ae68d5ca1b015d84b5",
+      "origin": "ai"
+    },
+    "dataList[id=130807].name": {
+      "pl": "Increased Aggression - Partial Deterrence Release",
+      "kr_sha256": "d1fa23fb863dbb7001bef6bbb21a63433a329c8d504ad89d8c73aa055e1d589d",
+      "en_sha256": "072f54cfa8693ea41d741cb58114d88fcb264290632ad3f6d1e008a85d383234",
+      "origin": "ai"
+    },
+    "dataList[id=130901].desc": {
+      "pl": "od 2. tury, co kilka tur przywołuje 4 losowe Wymiary i się ukrywa.\n- jeżeli wszystkie Części są w Oszołamieniu, efekt uruchamia się w następnej turze\n- ukryta wewnątrz „Dimensional Rift” nie może przejść w Oszołamienie.",
+      "kr_sha256": "ef3c17f4a83e0f816b204d23eefc1df47e883766971c04fe979600b1f421fd00",
+      "en_sha256": "5cbae53997cfd5fcf0790133e4af04f4fff795062821782e3b1e34a4af756dd0",
+      "origin": "ai"
+    },
+    "dataList[id=130901].name": {
+      "pl": "Wymiarowa Ucieczka",
+      "kr_sha256": "f794395f7b24303e4d9cb3c802846787debadf467117e80a1f3d0ba4178b9798",
+      "en_sha256": "f38d7e02d1486d2602c739fd6280e00ee48e456aef2a56058341dbfd3182b8bf",
+      "origin": "ai"
+    },
+    "dataList[id=130902].desc": {
+      "pl": "gdy wszystkie Wymiary zostaną zniszczone, ta jednostka dobrowolnie wydostaje się z „Dimensional Rift” w następnej turze i się ujawnia\nnastępnie traci 5 Licznika [Charge], a wszystkie jej Części otrzymują 30 obrażeń Próg Oszołomienia",
+      "kr_sha256": "bac56e08874da76e87c856bf9891ff1b1c6616a75df0cd0966922cf7b833ed0a",
+      "en_sha256": "94147e2785cb803f6c7ecfefd0622668b9df6c4c5b72ed2da051d7b646128558",
+      "origin": "ai"
+    },
+    "dataList[id=130902].name": {
+      "pl": "Uwięziona Wymiarowa Ucieczka",
+      "kr_sha256": "040cc9c6d835fd9c4b831531b9a06b5008c768b199822d0c725d6fa2c7dcc82e",
+      "en_sha256": "c2d6322eade19675e1fc01d29cf554df9a74843881b7bf67dded8753df82a292",
+      "origin": "ai"
+    },
+    "dataList[id=130903].desc": {
+      "pl": "gdy Część Ostrza zostaje zniszczona, traci 5 Licznika [Charge]\nna koniec następnej tury zużywa 2 Licznika [Charge], by odtworzyć zniszczoną Część Ostrza.\n\ndopóki Część Ostrza jest zniszczona, na każdym Początku tury zyskuje 2 [AttackDown].",
+      "kr_sha256": "d6c1412bec14be47b902efd5ce3c55a6c40cbbad7e9049488914a39518060204",
+      "en_sha256": "2b1926ba91017e10a0731f3711ce61d391829487dcdc7902a9f685cc0efcc453",
+      "origin": "ai"
+    },
+    "dataList[id=130903].name": {
+      "pl": "Odbudowa Wymiarowego Ostrza Załamania",
+      "kr_sha256": "2a10d1487644b4a846ca6399a604d8bb00d6fa3fa3690740e2735cfd77773485",
+      "en_sha256": "11c86b14fec53c1a92d625f8496d8e24310696782be3d8c435c27b9fdb0cb22e",
+      "origin": "ai"
+    },
+    "dataList[id=130904].desc": {
+      "pl": "gdy HP Korpusu spadnie do 60% lub mniej, tur się kończy, a jednostka przybiera nowy wzorzec\n- wyłącza Pasyw „Dimensional Escape”\n- wyłącza Pasyw „Trapped Dimensional Escape”\n- jeżeli żadna z Rąk nie została zniszczona, co kilka tur używa potężnej Umiejętności",
+      "kr_sha256": "49a064b30771b84acefbca1417b6436a694e3d70bff6156a374d07fe24bde23b",
+      "en_sha256": "9354a6feb5e99cf8270cfccda3970c67d00fcfdbc1653e16490bfb43a10477a8",
+      "origin": "ai"
+    },
+    "dataList[id=130904].name": {
+      "pl": "Próba Wymuszonego Otwarcia Wymiaru - Częściowe Zwolnienie Powstrzymania",
+      "kr_sha256": "d7e0bb7e8314c778e70649bb7561be37d5eefae72b794dfd46d6e7a830a83836",
+      "en_sha256": "e4407a8f8fb0d43a9afd88de390230188cb5c079c7ab5dea1e89e4da2665baa9",
+      "origin": "ai"
+    },
+    "dataList[id=131001].desc": {
+      "pl": "jeżeli przeszła przez Hemorrhaging Dimension[TabExplain], zadaje +10% obrażeń",
+      "kr_sha256": "3841d42eae97e312cd8f55abe3f1aacd9748f044d498ae71f95baf1ba6fb88c7",
+      "en_sha256": "f125a0f1e05fff9d189a27168e9be593d8077b3cb09581af65298f49bbd11985",
+      "origin": "ai"
+    },
+    "dataList[id=131001].name": {
+      "pl": "Hemorrhaging Dimension",
+      "kr_sha256": "ce17c108ad61a7beff3ad70cb5fd5e8c9131c0837999ca590233bfa359261c0b",
+      "en_sha256": "a1245a928a1466f6495fad90e6b0f24d5f932a918b514fd38f61b76c8c906cb3",
+      "origin": "ai"
+    },
+    "dataList[id=131101].desc": {
+      "pl": "jeżeli przeszła przez Poisonous Dimension[TabExplain], Korpus zyskuje +20% Maks. HP",
+      "kr_sha256": "557a81f8042702e0cc4c5ae06012112a2fbb73b68f6a299d69b252815e5f7fa7",
+      "en_sha256": "e0e271b895b7bd327a3f2af0af1aadb80b53adcac6830d6ff5f518e8fb9af048",
+      "origin": "ai"
+    },
+    "dataList[id=131101].name": {
+      "pl": "Poisonous Dimension",
+      "kr_sha256": "1f9fc6426f85a67440e95f328b3e5e34ed3d7c52d5d5903d84e80f4085f8ce3f",
+      "en_sha256": "9414c60c3ef8b57ec76ae01ba8cb9cd1e559c094e22ca24c2b9ae49f971aaf96",
+      "origin": "ai"
+    },
+    "dataList[id=131201].desc": {
+      "pl": "jeżeli przeszła przez Tremoring Dimension[TabExplain], zyskuje 1 Szybkości",
+      "kr_sha256": "851379d04a74aa39912570bad8683bdcead8c87b88bc58852ac5d5319499bee6",
+      "en_sha256": "e366a9ffcba18507d9982c9f6aceea40176967cfae078afd0286ad1fcb6b3586",
+      "origin": "ai"
+    },
+    "dataList[id=131201].name": {
+      "pl": "Tremoring Dimension",
+      "kr_sha256": "b9c6009a94cba6f5c796ad746a9c739bb1aae127bd43bb1e2d4134707ba5306e",
+      "en_sha256": "063249787f1fdd799b3f7a54e6e21d6ad77bb0721dbf46bdcab5a5d4830acd92",
+      "origin": "ai"
+    },
+    "dataList[id=131301].desc": {
+      "pl": "jeżeli przeszła przez Electrifying Dimension[TabExplain], zyskuje Moc Monety +1",
+      "kr_sha256": "e551866cce1350f7176dd6bc7a73aae752f4da7699b03dd00f22543efb5c234f",
+      "en_sha256": "b89325d6a37429f5d58919154c58ca148572eae3ad7d3fa6207eb1d4daf696ef",
+      "origin": "ai"
+    },
+    "dataList[id=131301].name": {
+      "pl": "Electrifying Dimension",
+      "kr_sha256": "d957bbc61afb934fefdccc5637f41d1325a5b7010df3290d57d233d4b2b41179",
+      "en_sha256": "45e46b78cce868787fbba7d8ad8edd7679015d480e873179440fb662c92e22c6",
+      "origin": "ai"
+    },
+    "dataList[id=131801].desc": {
+      "pl": "koniec Umiejętności ataku: zadaje każdemu celowi obrażenia Cięcia równe (liczba Monet Cięcia trafiających krytycznie x 10) (te obrażenia nie powodują Oszołamienia)",
+      "kr_sha256": "3330fad8e2f9b16f23af6ceac6292ad565c96aa3e6ed886b7ebb5eb743f24143",
+      "en_sha256": "9a203fee2f6d82b53bf42088919daa8294085925f6229c0c9fcc48a9920b19ea",
+      "origin": "ai"
+    },
+    "dataList[id=131801].name": {
+      "pl": "Training to Inherit the Name of a Star",
+      "kr_sha256": "ebebb3e8c40c7b6e0f304e66415133936e9c6fec73d6e8d28dbebcd718a783f1",
+      "en_sha256": "a6ede742c55af86ccf77a267b92cb79893fe75b9675ac59eb3b82a0f1f82b7ee",
+      "origin": "ai"
+    },
+    "dataList[id=131802].desc": {
+      "pl": "Siła [Breath] tej jednostki jest ograniczona do 25\nnadmierna Siła [Breath] uzyskana ponad 25 jest przekształcana w [DicipleLittleFinger]",
+      "kr_sha256": "30bab943bee3071155ac91cb6cbdc6b5b1c417bbe3c492766b04c34df3439665",
+      "en_sha256": "6d74365c43d0c4f68a48c6bd0edcf09169fb5e2a1cc8f87b871855013d57ee65",
+      "origin": "ai"
+    },
+    "dataList[id=131802].name": {
+      "pl": "Singular Focus of the Mind",
+      "kr_sha256": "4434a2949d1a331439b7d70693dad09f5427d3a8ccd0170c8754999d3284ba7b",
+      "en_sha256": "f83f0045167f7c96175fb90d1eafd3632cef487d639ae15d6768b08effd1c854",
+      "origin": "ai"
+    },
+    "dataList[id=131803].desc": {
+      "pl": "Początek walki: zyskuje 50 [DicipleLittleFinger]",
+      "kr_sha256": "a9e25ad0564cf3c4db79c9f99998c1c4be890e407f142e7ce486fe5d2e6ec238",
+      "en_sha256": "3a25b6abf713b0e0fc4bfe895219bd15bba27316bf7e49addce444a0e439173f",
+      "origin": "ai"
+    },
+    "dataList[id=131803].name": {
+      "pl": "The Orthodox Blade [整劍]",
+      "kr_sha256": "b4e4b7e866695e95dd41dc3235d53bf7811b60647dc219919854ec701428f408",
+      "en_sha256": "be814813775c0ee7423d52acadfa5e8e50c096018dee202f68cafccd6da1e796",
+      "origin": "ai"
+    },
+    "dataList[id=131804].desc": {
+      "pl": "jeżeli ta jednostka ma [DicipleLittleFinger], obowiązują następujące efekty:\n- SP nie spada poniżej 0; jeżeli było niższe niż 0, wraca do 0\n- otrzymywane obrażenia SP są przekształcane w obrażenia Zauły (poza zmianami SP wynikającymi z „bazowych warunków zmiany Poczucia”)",
+      "kr_sha256": "584ac1c00c40e8dfc7ff9dde38e291f521a927e56ba1785e8ad2b61624515f84",
+      "en_sha256": "3a93cbc59563408e2e9792aead796be0ce511b64def6f5045896fe0e6d26eeb2",
+      "origin": "ai"
+    },
+    "dataList[id=131804].name": {
+      "pl": "Tranquility [靜念]",
+      "kr_sha256": "7c2839907392d176eb9ff0a4779f60571110f7259a81785d912a276b730d640c",
+      "en_sha256": "8a95087b99633367957cd386355394dd660fb824e46749aedeaba1e3a8c73967",
+      "origin": "ai"
+    },
+    "dataList[id=131805].desc": {
+      "pl": "podczas Starcia z celami innymi niż Ryōshū Moc Starcia -2\notrzymuje o 20% mniej obrażeń od celów innych niż Ryōshū",
+      "kr_sha256": "8665b3960e270552ae3f6264dc84c4a8377c238d83ddf7cd26218ffa19c0f831",
+      "en_sha256": "6a0cc7c3558f48f2c6b0638ceef84fd95e67b8cc889da9658ae6478f072f2f0e",
+      "origin": "ai"
+    },
+    "dataList[id=131805].name": {
+      "pl": "Grace",
+      "kr_sha256": "b9cdca6f224e9cd01d7c4cef3976be462e36ed3b4114a5972b228e3dceba4a3b",
+      "en_sha256": "f2465f78e06e9352f9f851e5268a84a24fcb51ffef792fca1196e5d9c2c9559b",
+      "origin": "ai"
+    },
+    "dataList[id=131901].desc": {
+      "pl": "na Początku tury, jeżeli ta jednostka nie jest w Oszołamieniu, zyskuje 2 [Protection], 10 [DefenseUp] i HP Tarczy równe 10% aktualnego HP jednostki\n\nza każde użycie Umiejętności „Repressed Flesh” w tej walce ten efekt daje o 1 mniej [Protection], o 5 mniej [DefenseUp] i zmniejsza wspomniany procent o 5%",
+      "kr_sha256": "92dba3fb42c67e0a5ba1f5f3b975c98a81f4423a36ed3b7bf85a7fd0f86b01e7",
+      "en_sha256": "a5f746fcf6e4a1fd928747316eb1b0f056c8c219b2a29931f1363882e516412f",
+      "origin": "ai"
+    },
+    "dataList[id=131901].name": {
+      "pl": "Armor of Protection & Repression",
+      "kr_sha256": "15d5a19411e52c0b72bfbe17751adcf99819a0654e5f11708bbab330048ee9e0",
+      "en_sha256": "fcdefc586860709486239fb6e82c2a9d31fa09c01777982cb5cfab909ca85a9d",
+      "origin": "ai"
+    },
+    "dataList[id=131902].desc": {
+      "pl": "jeżeli ta jednostka nie jest w Oszołamieniu, przy otrzymaniu trafienia ostatnią Monetą atakującego uruchamia następujący efekt:\n- zadaje atakującemu obrażenia Przebiciem równe 20% obrażeń otrzymanych tą Monetą i nakłada 2 [Laceration] (maks. obrażeń na Umiejętność: 100)\nobrażenia z tego efektu nie mogą Oszołomić celu",
+      "kr_sha256": "993c7d59bb179284e61f0223db8f063a70524f1407a452402007b9a7b10ea2e8",
+      "en_sha256": "c7ec03caf14cffd38d121dee310c533ffb370ed130b3360c4863f51f4edac1cb",
+      "origin": "ai"
+    },
+    "dataList[id=131902].name": {
+      "pl": "Iron Maiden - Spikes",
+      "kr_sha256": "c889d47395f667225900855e5c2b98c9de9bdd70aa0fc1cfb25140fd6afd80e2",
+      "en_sha256": "0f6f14c8ce1edbe005fb3e2810569c71dde69f5293e6c8e964edd5657e483f7e",
+      "origin": "ai"
+    },
+    "dataList[id=131903].desc": {
+      "pl": "przy pojawieniu się przywraca 30 SP\n\nprzy 60% HP dochodzi do siebie z Oszołamienia i kończy tę turę (1 raz na walkę)",
+      "kr_sha256": "4146021ffd42a0352709343bead4a5aa3a887829d55cc694b50a2eeed45db0d2",
+      "en_sha256": "abd512218f4ddf80cadf6e3779d0172e23f4f76e91aef92ddb67aab455230ac3",
+      "origin": "ai"
+    },
+    "dataList[id=131903].name": {
+      "pl": "Iron Maiden - Defibrillation",
+      "kr_sha256": "751f39796a839cf03922adb10df3de3c673a003b7f4213c394aa2b3f014f0727",
+      "en_sha256": "c65b35971269a2f2be3e8333def8736ea1c8785d334d2a7b3694893ac45dac5a",
+      "origin": "ai"
+    },
+    "dataList[id=131904].desc": {
+      "pl": "otrzymuje o 30% mniej obrażeń HP i SP od [Combustion], [Burst] i [Sinking]; otrzymuje o 30% mniej wzrostu Próg Oszołomienia od [Vibration]\notrzymuje o 50% mniej obrażeń od [Laceration]",
+      "kr_sha256": "48fabe35aa8b3a73d8302ae4f59098d1cd24bcc65423c99af127356b2876c39a",
+      "en_sha256": "89b1dbbbc0e1f3aa83edc0c014bfbc4cc183b74ffc8de31e71fb9f1a1aa07335",
+      "origin": "ai"
+    },
+    "dataList[id=131904].name": {
+      "pl": "Corpus Spent as Material",
+      "kr_sha256": "309b4b8a76bb64b5b679845041e7b6d561033fcaf71e095d245b2981227f7458",
+      "en_sha256": "196fabb2b724c20dfa5cd3bfb3a8c5bf6d1367eba83d668cb82cfa4488fd2198",
+      "origin": "ai"
+    },
+    "dataList[id=131905].desc": {
+      "pl": "na koniec tury przy 2 [HumanFleshTheRings], w następnej turze [HumanFleshTheRings] wygasają; następnie zyskuje [BoneBladeTheRings]\n\nna Początku tury, jeżeli ta jednostka ma [BoneBladeTheRings], używa w tej turze potężnego ataku\n\njeżeli przed użyciem potężnego ataku otrzyma trafienie od Umiejętności ataku, zyskuje 1 [UnsteadyTheRings]",
+      "kr_sha256": "101f9b38dd2b5d87e277b77c2102ace0506a30f1e4360b64c9d1304e93c008a2",
+      "en_sha256": "0ffdc5828387f788cc0a4ec84a1bdb8601a3b5627fdeff4445eb5594c89d1a0e",
+      "origin": "ai"
+    },
+    "dataList[id=131905].name": {
+      "pl": "Fascia, My Precious Artwork",
+      "kr_sha256": "9bb17664adc202953bd15cd9aa0f23fce8bc58b29fb7e0ae873d751aa299585e",
+      "en_sha256": "faf2a9ba8b95a4b5cd50d8fe89b7d8b0909421b65d1f0efa646b0daedbd6522e",
+      "origin": "ai"
+    }
+  }
+}

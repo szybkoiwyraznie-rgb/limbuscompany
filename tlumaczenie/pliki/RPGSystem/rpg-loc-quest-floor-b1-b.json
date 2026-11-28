@@ -1,0 +1,190 @@
+{
+  "entries": {
+    "dataList[key=Q-1000].description": {
+      "pl": "Podobno brakuje nam „cnoty”, by wejść na 5. piętro. Pwie powiedział, że musi założyć Całun ze Złotej Skóry, a gdzieś na podziemnych poziomach mieszka ktoś, kto obrabia skóry. Zejdźmy na dół.",
+      "kr_sha256": "022c3d0e43e84b7a06b36a8dcfb4c3f602f9028e3eb2f7ba59f1cf2e68ae1b57",
+      "en_sha256": "c8b2789b36a4559da3f78805645e80e4ec42608e7b4b0e8d722b03f7c00ee1dc",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1000].steps[#0].goalDescription1": {
+      "pl": "Udaj się na poziom -1",
+      "kr_sha256": "b05418f3a029a8697a74db96ce9a60ca069135f124c7ce8256fdebf7c8bfc8ee",
+      "en_sha256": "d233f07948b679867305aeb532a79088b5acb082a32b206d829b54bf30a2ee07",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1000].title": {
+      "pl": "Udaj się na poziom -1",
+      "kr_sha256": "b05418f3a029a8697a74db96ce9a60ca069135f124c7ce8256fdebf7c8bfc8ee",
+      "en_sha256": "d233f07948b679867305aeb532a79088b5acb082a32b206d829b54bf30a2ee07",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1001].description": {
+      "pl": "Żeby zdobyć Złoty Kokon, trzeba dostarczyć Boucherowi, Kierownikowi Piętra poziomu -1, Rozmyślania Ofiary. Powinny być gdzieś w pobliżu. Szybko ich poszukajmy.",
+      "kr_sha256": "f0c4fd9b4eca5908217116e8bfb1aebeedd8b8d3a4855297f7c5534677df6607",
+      "en_sha256": "73fc485e4da3ce193158e77e6d62b0cf6e807147e556036bd6c4e53d594b68a7",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1001].steps[#0].goalDescription1": {
+      "pl": "Znajdź Rozmyślania Ofiary",
+      "kr_sha256": "239e709f6e78b22ee93fd4cc4b7b646abd8944def4c550bf525ce41e24120603",
+      "en_sha256": "61ccda6fb6c422b5dc94457fac0cab955820829dc6459c5de101a88d63c570bb",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1001].title": {
+      "pl": "Znajdź Rozmyślania Ofiary",
+      "kr_sha256": "239e709f6e78b22ee93fd4cc4b7b646abd8944def4c550bf525ce41e24120603",
+      "en_sha256": "61ccda6fb6c422b5dc94457fac0cab955820829dc6459c5de101a88d63c570bb",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1002].description": {
+      "pl": "Wróciliśmy z Rozmyślaniami Ofiary do Strefy Gastronomicznej. Sous Chef, po powąchaniu Pwie, nagle rzuciła się na nas. Najpierw opanujmy Sous Chef.",
+      "kr_sha256": "b7cd3fbc3146373a1a51580efaff0a4a223fc82c2656ccc93d2e9077ddee4f0a",
+      "en_sha256": "dd897c2a562aa6eff010c1dd07f57456c4f627b7ea42129546f892e1d6d60dce",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1002].steps[#0].goalDescription1": {
+      "pl": "Opanuj Sous Chef",
+      "kr_sha256": "1b0321e8c4fb0edfee70392f8af903ed6419225c5c90d83f814eae2e063440ec",
+      "en_sha256": "36c0e9e445f5052b01130807663b4b7c6d8c6a8ea929792c2bcfbb41c8389093",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1002].title": {
+      "pl": "Opanuj Sous Chef",
+      "kr_sha256": "1b0321e8c4fb0edfee70392f8af903ed6419225c5c90d83f814eae2e063440ec",
+      "en_sha256": "e3c4e44bb5fc7c908e93413f3e5f150d046dfdf985ac5fe4f87abfa14457fc3d",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1003].description": {
+      "pl": "Sous Chef nagle rzuciła się na nas, powąchając Pwie, ale uspokoiła się, gdy usłyszała, że mamy przy sobie Rozmyślania Ofiary, i zgodziła się zaprowadzić nas do Bouchera, Kierownika Piętra poziomu -1. Zagadajmy Bouchera.",
+      "kr_sha256": "e1b0e1d63ffb9e5ef053836a240ae4eae352b8b1c93e2e716904f929d0260992",
+      "en_sha256": "a86d16873978b69f29464a878e3ab6a59d548b07b59a37ec41d0c63fe96597e5",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1003].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Kierownika Piętra poziomu -1",
+      "kr_sha256": "6252dc5563681af0fcf5f662ee96485e6839657169f9dd4a44046419dc9821b4",
+      "en_sha256": "c6fd56644fce10d1ac48a852056ece6dc99f6214c88654c9d6b77b2bde34b4cf",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1003].steps[#1].goalDescription1": {
+      "pl": "Przekaż Rozmyślania Ofiary Kierownikowi Piętra poziomu -1",
+      "kr_sha256": "e81af69802367b4431113548a9bdf45f9bd349a17f3aa661a2b33c84e731a575",
+      "en_sha256": "3a89e274f31e2d4aa1d8ea6d3bd8730370666c869a7d5855f9b97367f8f7aad9",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1003].title": {
+      "pl": "Zagadaj Kierownika Piętra poziomu -1",
+      "kr_sha256": "6252dc5563681af0fcf5f662ee96485e6839657169f9dd4a44046419dc9821b4",
+      "en_sha256": "c6fd56644fce10d1ac48a852056ece6dc99f6214c88654c9d6b77b2bde34b4cf",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1004].description": {
+      "pl": "Dopadnięta panika Sous Chef powiedziała nam, że larwa trzymana w magazynie zbiegła. Podobno jest na Brzegu, tuż za Targiem Rybnym. Nie mieliśmy wyboru i postanowiliśmy udać się na Brzeg, by odnaleźć żywą larwę.",
+      "kr_sha256": "5d8e7d302b849294a765368f111b31106925cdeaa67560ea40d414fc78602a04",
+      "en_sha256": "311a3af592c8bf2680ec56f83153defe86b42a3d3e05a3891807fa8f72586670",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1004].steps[#0].goalDescription1": {
+      "pl": "Udaj się na Brzeg",
+      "kr_sha256": "1c9306770bbf8fb719a09a06beae1a43712be5f5cb1ca79a7a4789708cea4f01",
+      "en_sha256": "5d0a7da43edab83c40a525d1d7a4f451e09434722a572bedebe6b40d2adef2a0",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1004].title": {
+      "pl": "Udaj się na Brzeg",
+      "kr_sha256": "1c9306770bbf8fb719a09a06beae1a43712be5f5cb1ca79a7a4789708cea4f01",
+      "en_sha256": "5d0a7da43edab83c40a525d1d7a4f451e09434722a572bedebe6b40d2adef2a0",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1005].description": {
+      "pl": "Dotarliśmy na Brzeg. Pełno tu larw dryfujących ku morzu. Ale jedna z nich wciąż się rusza. Podejdźmy bliżej.",
+      "kr_sha256": "40f20e4a49b790c8d438147a35e810e8c0f3275463a43209780c2eb2ed9083ad",
+      "en_sha256": "d2801fd6e2b635db44ba1e0f673850d5e038366f2300b878d7ea019e0c24d098",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1005].steps[#0].goalDescription1": {
+      "pl": "Zbadaj poruszającą się Larwę",
+      "kr_sha256": "7779784f0ebd16a2bf3817ac300014cf87295f6ccd8b2a9aa9ec4e373d22d6a7",
+      "en_sha256": "2c99bf01af32b0ec0ff6f4f71797ab280cd65ac1f08af7321f38b8357fc07686",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1005].title": {
+      "pl": "Zbadaj poruszającą się Larwę",
+      "kr_sha256": "7779784f0ebd16a2bf3817ac300014cf87295f6ccd8b2a9aa9ec4e373d22d6a7",
+      "en_sha256": "2c99bf01af32b0ec0ff6f4f71797ab280cd65ac1f08af7321f38b8357fc07686",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1008].description": {
+      "pl": "Znaleźliśmy larwę, która jeszcze oddycha. Wróćmy do Strefy Gastronomicznej i przekażmy ją Sous Chef.",
+      "kr_sha256": "7283210418cecc75780bb7b6afee40b8015b47eb7a7e9dda9d9554c622dde0eb",
+      "en_sha256": "8661e6782a016dac9b0efe1f3b201501ba3fc2a2d5938e93d626e2d84d6e3808",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1008].steps[#0].goalDescription1": {
+      "pl": "Wróć do Sous Chef",
+      "kr_sha256": "b34e03426667d4983cf12dc17134be72454759abb5d823d843d1eb7d69a5ec0e",
+      "en_sha256": "4dd2fff06483b216fe4b7583498b01b955e103a24e8a382e91ce2b865a09aa2b",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1008].title": {
+      "pl": "Wróć do Sous Chef",
+      "kr_sha256": "b34e03426667d4983cf12dc17134be72454759abb5d823d843d1eb7d69a5ec0e",
+      "en_sha256": "4dd2fff06483b216fe4b7583498b01b955e103a24e8a382e91ce2b865a09aa2b",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1009].description": {
+      "pl": "Jak ostatnio stworzono Złoty Kokon… a właściwie „Wriggley”. Następny przystanek: Hala Schodów Ruchomych, wypełniona schodami ruchomymi.",
+      "kr_sha256": "ba99e14572c1f58ddc20d44f8f1cd2d1006889c4605e7d3ef1341ec7b7aece80",
+      "en_sha256": "894b115410ca7d08db1cde812d1c2916a20e941fe07b7376c8a178f1874571ea",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1009].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Hali Schodów Ruchomych",
+      "kr_sha256": "af4fc05d193a17f5c0834d9ac460b0a6da4053e4cfd4de7e8bcec4f6fae0907f",
+      "en_sha256": "0142ec2081e87c185245f429b65e41f644148a0d26627e32d3c64b67f3356a93",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1009].title": {
+      "pl": "Udaj się do Hali Schodów Ruchomych",
+      "kr_sha256": "af4fc05d193a17f5c0834d9ac460b0a6da4053e4cfd4de7e8bcec4f6fae0907f",
+      "en_sha256": "0142ec2081e87c185245f429b65e41f644148a0d26627e32d3c64b67f3356a93",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1010].description": {
+      "pl": "Kazaliśmy Pwie wybrać schody ruchome, które mu się spodobają. Określmy, czym jest wybrane przez niego.",
+      "kr_sha256": "c8ba5d4446b34e42dbd56d7a91a79f2a862a7d7702a70cc9e7f660752145a0b1",
+      "en_sha256": "8d050c368b2d9299c211a8167774bc2ed781e237a90ad6cdbfdac3d707639f1d",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1010].steps[#0].goalDescription1": {
+      "pl": "Wybieramy schody ruchome",
+      "kr_sha256": "e9a8dbf6f78c6dfa33bbe21c9425ad097aaafcd489bd81595e79af24e014f2b1",
+      "en_sha256": "ff4796e9fafea4e9a69f2c7f08165255fc920059d6a3642ff022458b40c8ad01",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1010].title": {
+      "pl": "Wybierz schody ruchome",
+      "kr_sha256": "e9a8dbf6f78c6dfa33bbe21c9425ad097aaafcd489bd81595e79af24e014f2b1",
+      "en_sha256": "ff4796e9fafea4e9a69f2c7f08165255fc920059d6a3642ff022458b40c8ad01",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1011].description": {
+      "pl": "Wjedźmy schodami ruchomymi w dół, na poziom -2.",
+      "kr_sha256": "a489355d6d78ff8537882b15e3188e6df2442a418007ca16dda537aedde77f6e",
+      "en_sha256": "a19b04c39377d942014ac24fe78595cb2cdd52c4ac264b8e023e86d74958dc99",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1011].steps[#0].goalDescription1": {
+      "pl": "Udaj się do schodów na poziom -2",
+      "kr_sha256": "b453cefea1e0c5afdc0397e9f551555a5ac85e5bf87db2e5af4ca561be2f8b1b",
+      "en_sha256": "f735f2488b24773cdbd5680a46b7b5c050152f71f10b2a97083ec7af6851b6f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1011].title": {
+      "pl": "Udaj się do schodów na poziom -2",
+      "kr_sha256": "b453cefea1e0c5afdc0397e9f551555a5ac85e5bf87db2e5af4ca561be2f8b1b",
+      "en_sha256": "f735f2488b24773cdbd5680a46b7b5c050152f71f10b2a97083ec7af6851b6f0",
+      "origin": "ai"
+    }
+  }
+}

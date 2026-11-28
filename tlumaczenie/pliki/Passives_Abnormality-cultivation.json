@@ -1,0 +1,208 @@
+{
+  "entries": {
+    "dataList[id=124701].desc": {
+      "pl": "Początek walki: SP tej jednostki zostaje ustalone na -15, zyskuje 3 [LegStrengthHorse] i 1 [CrazyWei]\notrzymuje o 50% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (zaokrąglane w dół)\n\nprzy trafieniu rozbitym [SuperCoin]em nie uruchamia efektu [Burst] celu (nie zużywa też jego Licznika)\n\nzadaje +50% obrażeń Oszołomionym wrogom",
+      "kr_sha256": "8bdc5c2966034224ed616f3060496dd251618916b888bf325da340acd3e8069f",
+      "en_sha256": "cb9348f01e4195e45869b677ede6a1d579ffc8d70be6493bc5b513ad50d16bcb",
+      "origin": "ai"
+    },
+    "dataList[id=124701].name": {
+      "pl": "Former Heishou - Wu Adept",
+      "kr_sha256": "6ace63757b02cd9722519d2da21b9d78e571ee74b49175b1a7805ed019408103",
+      "en_sha256": "99010c4137da425da5f06f4619c7a0be99f69f576feb2e01db77447087621cc8",
+      "origin": "ai"
+    },
+    "dataList[id=124702].desc": {
+      "pl": "jeżeli jednostka ma [LegStrengthHorse], nakłada 1 [ConcussionWei] na główny cel za każdym razem, gdy uruchamia na nim [VibrationExplosion]",
+      "kr_sha256": "c67880b621194d5dbf472b62f2a666146fea6ad1b7fc24ce66be20c825af2a91",
+      "en_sha256": "9c8018c3c6fbc2386722cddfc8c35f552f282a8993687fb2d420473fdab6c3e3",
+      "origin": "ai"
+    },
+    "dataList[id=124702].name": {
+      "pl": "I will trample... and crush you to mulch",
+      "kr_sha256": "262bfd48dd8d54fa668b511005bd9d8c50fcf3418cd8e856c5223713c4b97617",
+      "en_sha256": "5e2582794f799cf983820bf6210bb9c32bc08368539be3128d7214218d00f279",
+      "origin": "ai"
+    },
+    "dataList[id=124703].desc": {
+      "pl": "jeżeli jednostka ma [LegStrengthHorse], zyskuje 1 [ReboundWei] przy trafieniu Umiejętnością uruchamiającą [VibrationExplosion] na celach bez [Vibration] (nie zyskuje [ReboundWei], jeżeli Licznik osiągnął maksimum)\n\nna koniec tury, jeżeli Licznik [ReboundWei] jednostki osiągnął maksimum, zużywa go cały, a następnie traci 1 [LegStrengthHorse] w następnej turze",
+      "kr_sha256": "0c0304c8db267cc324c08bb0d6af5b60eda284cf544be5c25a1b211af40c3dbf",
+      "en_sha256": "5268c11c49662594b28ec1e3dea02c7ac2bb83f550ab27e1655fae7ae3023b21",
+      "origin": "ai"
+    },
+    "dataList[id=124703].name": {
+      "pl": "Soul Lost in Daylight (魂飛中天)",
+      "kr_sha256": "0f95ea5756415d7431cfee155272bbc5d81fc92aba1bae36ecf8a2aeaba68455",
+      "en_sha256": "109f4148cec6cde7a9cd33230a0e231d450a05c271983dafe74bd4e851c22144",
+      "origin": "ai"
+    },
+    "dataList[id=124704].desc": {
+      "pl": "na Początku tury zyskuje 1 [AttackUp] za każde 2 Szybkości tej jednostki (maks. 2)\nprzy Szybkości 5+ dodatkowo zyskuje 1 [SlashDamageUp] i 1 [HitDamageUp]",
+      "kr_sha256": "9d8547002ef5173c0d012fb5d42a447386555dfe0a9300cb6eca7833797f5f21",
+      "en_sha256": "5f5ed6592dcade3d14ce6793241a5c32ee041a91987fde4895ad8d07728c7455",
+      "origin": "ai"
+    },
+    "dataList[id=124704].name": {
+      "pl": "I'll scrape every filthy scale off your skin...",
+      "kr_sha256": "b8c659305b9acc64a3e21d845dc91e16714ef74200d857f0adae19113ba8514f",
+      "en_sha256": "fbfbc48ebeb032192b108fee5c9334836a7e844c96c4de315d431ffa288f5303",
+      "origin": "ai"
+    },
+    "dataList[id=124705].desc": {
+      "pl": "po przegranej w Starciu: jeżeli Moneta celu była Monetą Plus, cel przywraca 5 SP; jeżeli była Monetą Minus, cel traci 5 SP (nie uruchamia się, jeżeli SP celu wynosi -40 lub mniej), a następnie daje 2 zasoby E.G.O Afinności Umiejętności użytej przez cel (3 razy na turę)\n- jeżeli Afinnością Umiejętności był Gniew albo Obżarstwo, dodatkowo daje 2 zasoby E.G.O Afinności, których ma najmniej",
+      "kr_sha256": "2661ad339a4cfa0e31f398194aa7be34bcfcf4c79216678fb229d286a21196eb",
+      "en_sha256": "8f3071a0a179997a5693ba07440a07f4c9f0feb9fe87b99c7d6cd64c5a0ea119",
+      "origin": "ai"
+    },
+    "dataList[id=124705].name": {
+      "pl": "Intrepid trespasser...!",
+      "kr_sha256": "5a86abbf6d811938ab88ad5cc8df298dac9f9b7e689d8a8288b4724767fb6db0",
+      "en_sha256": "3d8a4ba10f7e8d501f56158eb5c17b8b35c7e8fe4a0066e59f4fc4a721fcd97e",
+      "origin": "ai"
+    },
+    "dataList[id=124801].desc": {
+      "pl": "kończy walkę, gdy HP tej jednostki spadnie poniżej 20%",
+      "kr_sha256": "6c9a7b682dbc68e2b6f1372aa5c79f3081ff72d321bc3d07246581d3271cbda2",
+      "en_sha256": "75ba458bfac39644d407517cb8a4770577f825697edae2c6b646bf0fe31e72a9",
+      "origin": "ai"
+    },
+    "dataList[id=124801].name": {
+      "pl": "Sparring Complete",
+      "kr_sha256": "13c6cb9ce3cbd36c201865e9ee0daf44f5afbe82aadc2541d59162c40321155a",
+      "en_sha256": "67edbc1874034efcc33a96137965a10e3017ac084a3dec8ddd4a03937622d53d",
+      "origin": "ai"
+    },
+    "dataList[id=124901].desc": {
+      "pl": "na Początku tury, jeżeli Licznik [Charge] jest niższy niż 10, zużywa 5% HP, aby zyskać +5 Licznika [Charge]\nna koniec tury przy 15+ Licznikach [Charge] zużywa 5 Liczników [Charge], aby przywrócić 5% HP jednostki",
+      "kr_sha256": "929b070afa48046a4a11b6000e8eab2e4085ea0eddb052508dcab321c9263afb",
+      "en_sha256": "58f7b0057e22e7aeb32f3d27d1bf596b3518f826c4420daf513aaf618ee260ef",
+      "origin": "ai"
+    },
+    "dataList[id=124901].name": {
+      "pl": "Reversed Circuitry",
+      "kr_sha256": "d9e1e8d3f7d24398b54e8729608bad9744682afe90425422af36058cb17619c7",
+      "en_sha256": "c871a8644c9f36ff28191cba60a6691654d3499674c3bff849678a9663df15ac",
+      "origin": "ai"
+    },
+    "dataList[id=125001].desc": {
+      "pl": "na Początku tury przywraca 5 SP\nna Początku tury przy SP równym 20 lub więcej zyskuje 1 [Enhancement]",
+      "kr_sha256": "75f5bb87ec9fe454bb87765c43c8c2b5dbb6708979ed1507fc009d577533a7fc",
+      "en_sha256": "43563165aa490be6eca2fb9639b862f7ed65bf812482cff6baf99e79e1fa8020",
+      "origin": "ai"
+    },
+    "dataList[id=125001].name": {
+      "pl": "Slightly Relieved Burdens",
+      "kr_sha256": "040a6059de7a470d1104845cf43b3f3fc6fb2a540454523b1b52029bbc669bc6",
+      "en_sha256": "4f8584174207b4b7bd39d242fadac7f25d1c35afa6248916940815a46ab2a3ad",
+      "origin": "ai"
+    },
+    "dataList[id=125002].desc": {
+      "pl": "w tej walce, gdy HP tej jednostki spadnie do 50% Maks. HP lub mniej, od następnej tury zyskuje 2 [AttackDmgUp] co turę",
+      "kr_sha256": "1f5b2d7874147cf22692cce6b692ef016965fc6d54c481da2ae71e3c5ac4bf7f",
+      "en_sha256": "6995fd86f0fd3977fce96a657b10e98b541c69079e234bac1de2466065cdcb9e",
+      "origin": "ai"
+    },
+    "dataList[id=125002].name": {
+      "pl": "Burden of Responsibility",
+      "kr_sha256": "09b57c1677d76e1a2ac4acb4b619873d9b7cb5744f588c132e0d9125a003874b",
+      "en_sha256": "981a4d6f7e8c130a4417ad639779f01ba50e3d76749403faf3d837123613b8ae",
+      "origin": "ai"
+    },
+    "dataList[id=125101].desc": {
+      "pl": "jeżeli SP celu jest niższe niż 0: zadaje tym więcej obrażeń, im dalej SP celu od 0 (+3% obrażeń za każde 1 SP)",
+      "kr_sha256": "67aa2da5c7581529fca51804292fb95f92f8977050e37cbe35752bb84f9c998f",
+      "en_sha256": "24f529b6cb814610f1fec6ae9e60b8f7a4280427c46d44e3df6241145ef2711f",
+      "origin": "ai"
+    },
+    "dataList[id=125101].name": {
+      "pl": "Rule by Fear",
+      "kr_sha256": "7a21ea00c5bf8613771f14d7dab404a666c5eb365b0cf3228a06bef558b05fcb",
+      "en_sha256": "038101990acfd7182da92f780f4cf0845bdaecb4e2a669dd048f31371272a5fd",
+      "origin": "ai"
+    },
+    "dataList[id=125102].desc": {
+      "pl": "zyskuje 1 [AttackUp] i 1 [DefenseUp] za każdym razem, gdy dowolny cel zyskuje negatywny efekt",
+      "kr_sha256": "9e537fe8f7ffed76836bd4ed56d8ae14cd8bad0e541f5a7575b272caa62c2cb9",
+      "en_sha256": "3bcc3f28841e3ca3c6fcde88be716014fec56e054c122a25bd44fa0100604a63",
+      "origin": "ai"
+    },
+    "dataList[id=125102].name": {
+      "pl": "It's going to be so much fun, hmm?",
+      "kr_sha256": "b74f20c2494def6bf020e4d1868c6e89e6b3c4758f87b9a143a6fd32b7602abc",
+      "en_sha256": "cb19dc47a7e6387e179ef457cf8052f50f38218a1a102599c89a40fd4ca1b93e",
+      "origin": "ai"
+    },
+    "dataList[id=125103].desc": {
+      "pl": "po wygranej w Starciu przywraca 5 SP\npo przegranej w Starciu zyskuje 1 [Enhancement]",
+      "kr_sha256": "3283f5f26503ce3819f0abf8730a82c7cc3aa0662be42601175ece6ae10f3a48",
+      "en_sha256": "6b941404656bd4af6f7f1d1009fef5ef72bb7fff53408b073de8e02cccdbb92e",
+      "origin": "ai"
+    },
+    "dataList[id=125103].name": {
+      "pl": "Twisted Determination",
+      "kr_sha256": "b189ca9eb52963bcc5fc48ab6d502ca476a2cca42791e41897c5e896123bf0d4",
+      "en_sha256": "fa4c3f59ec75b85facb9f80bdc84fa14941dc494088796a767a3c29835ebb560",
+      "origin": "ai"
+    },
+    "dataList[id=127201].desc": {
+      "pl": "przy otrzymaniu obrażeń podczas fazy walki: +20% zadawanych obrażeń w tej turze\npodczas fazy walki: po przegranej w Starciu otrzymuje +15% obrażeń od tej Umiejętności",
+      "kr_sha256": "9116b2b84def7da99656b5208024d13e988ccce425d7f8e4465f3096b6081c4f",
+      "en_sha256": "1f10618ed81293aff71e4deaea8269dcc662f56eddf917472a47a70dd42ac112",
+      "origin": "ai"
+    },
+    "dataList[id=127201].name": {
+      "pl": "Damage Taken",
+      "kr_sha256": "109303fe7c65e4be8b24637abd0516b83ef439645205751ce6d8a3257d5cb4d2",
+      "en_sha256": "13dec6f9421af3b766b62d0d9082287be2d5e80c355a662c05943cc5860762df",
+      "origin": "ai"
+    },
+    "dataList[id=127202].desc": {
+      "pl": "zadaje +2% obrażeń za każde 1% brakującego HP jednostki (maks. 100%)",
+      "kr_sha256": "b72bec8e03a09b13578e31010891349ea66c40b0763ec1b9fc42c38fe7bd3dd6",
+      "en_sha256": "06162c05bc3e87fbdfa228e45f600597fbdeb3505b646a33e7aabdc09f7135a4",
+      "origin": "ai"
+    },
+    "dataList[id=127202].name": {
+      "pl": "Plastered Training",
+      "kr_sha256": "1c93b8808d50e4c50770df89e45941b31c021f9e38e8d4511b2a56b4edbb6aa2",
+      "en_sha256": "c64ae213773be627cb56febc3301677327527628822fdd4409c3bb77f0a451a2",
+      "origin": "ai"
+    },
+    "dataList[id=127203].desc": {
+      "pl": "na Początku tury, jeżeli Licznik [SipOfAlcoholJin] osiągnął maksimum, zużywa 2 Liczniki i zyskuje [DrunkAwakening]",
+      "kr_sha256": "29b497dd73e1891ff3e5a06f39389d6221f907f1814dd96021fd8796399a3ab7",
+      "en_sha256": "b35dc99898a6ff9a4cd3568af688288f84a0792a53c8ba171edac33a866bed7a",
+      "origin": "ai"
+    },
+    "dataList[id=127203].name": {
+      "pl": "I've got nothing to fear with a bottle of wine by my side",
+      "kr_sha256": "c7a713d1165934e6f6b4d82613a745595b9a5c69411a49f3ac4dce2a72ad2364",
+      "en_sha256": "618a520b780acf2ddd8178a257ce6948d7a8922611b8de1b136e13af728c09f0",
+      "origin": "ai"
+    },
+    "dataList[id=127204].desc": {
+      "pl": "Początek walki: SP tej jednostki zostaje ustalone na 10\notrzymuje o 50% mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (zaokrąglane w dół)\n\notrzymuje o 30% mniej obrażeń od Grzeszników\n\njeżeli w poprzedniej turze jednostka zyskała 2 lub więcej [SipOfAlcoholJin], na Początku tury przywraca 5 SP za każde 10% brakującego HP (maks. 40)\n\nprzy wejściu w nową fazę, jeżeli jednostka jest w Oszołamieniu, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "a533ca85fe36454c84aa856ba0c4ba01774d34a49ee443014853a542bebb2562",
+      "en_sha256": "70db997252437fda84f32988944091d6dfd3d7918a70d431b01cd570f00889f5",
+      "origin": "ai"
+    },
+    "dataList[id=127204].name": {
+      "pl": "Night Drifter of the Drunken Palm",
+      "kr_sha256": "ef428ef75f50ab3be22b192fb09a47e1a471a26d7dcfd3937341bc5e86108893",
+      "en_sha256": "2a9e406febc668cfa051473c0c56387ca78fdd46cbd4a402574a47e7024a78ca",
+      "origin": "ai"
+    },
+    "dataList[id=127205].desc": {
+      "pl": "uruchamia się na koniec tury, jeżeli co najmniej 1 wróg ma 10+ [Laceration]\nna wrogach z [Laceration] nakłada 1 [DrunkBlood] za każde 5 [Laceration] wroga (3 razy na wroga)",
+      "kr_sha256": "1c084e37ed335477c97241bf3d052c5c1e482c0d95e3c9c37ceeb1db57a3ae1c",
+      "en_sha256": "cbaac48b1d5436479a4596957be9769070733d8d8c09c8e6aa79c891ff361c23",
+      "origin": "ai"
+    },
+    "dataList[id=127205].name": {
+      "pl": "River of Blooddrops (血滴成河)",
+      "kr_sha256": "3a3d65f71bc06809bd206cc1e40cede28f53d3a402dd3bb1bd35eddbde31450a",
+      "en_sha256": "55be1d5dc610f7296077d8437e9597fb6b1ecffc406b2b075caf889f625a4ac1",
+      "origin": "ai"
+    }
+  }
+}

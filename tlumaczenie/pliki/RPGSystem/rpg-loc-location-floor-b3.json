@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[key=230200].text": {
+      "pl": "Suszarnia",
+      "kr_sha256": "07f2871e658b6be9f100d370c5f59fafc51ac71a27853ef05f10007a46d749b2",
+      "en_sha256": "fd889dd42e6b68ffdcfb2d3341583494e44ee27ed3476bf538d42f5df513652e",
+      "origin": "ai"
+    },
+    "dataList[key=230400].text": {
+      "pl": "Skórzarnia",
+      "kr_sha256": "8801a7c8ab2a822eb47e1f2354ee310eae89f081c30c8fede6ae3dff1efae9ef",
+      "en_sha256": "332097f36d3f64a1095b70593c092cd6d44f0eb6ce76001e1c7ee054bf2bb7d7",
+      "origin": "ai"
+    },
+    "dataList[key=230500].text": {
+      "pl": "Korytarz Suszarni",
+      "kr_sha256": "08c2dbf2b6a9f5f289d1c338d8e921bb61c35fef2b9155733eaf6025e61a7d2d",
+      "en_sha256": "7e68ef320170f945ff9be3d659cdc639855094a3dab3aa0ce76ff6ce8e18471e",
+      "origin": "ai"
+    },
+    "dataList[key=230600].text": {
+      "pl": "Suszarnia",
+      "kr_sha256": "07f2871e658b6be9f100d370c5f59fafc51ac71a27853ef05f10007a46d749b2",
+      "en_sha256": "fd889dd42e6b68ffdcfb2d3341583494e44ee27ed3476bf538d42f5df513652e",
+      "origin": "ai"
+    },
+    "dataList[key=230700].text": {
+      "pl": "Korytarz Garbarni",
+      "kr_sha256": "00fcd963d0b6954da21082008cdd55fadde2969c398a37ffc06345e31be32d1c",
+      "en_sha256": "3b9330b72b8d6e4dce98f5df8c8003c149d10fe60ce5e4432a50111a27e52374",
+      "origin": "ai"
+    },
+    "dataList[key=230800].text": {
+      "pl": "Garbarnia",
+      "kr_sha256": "0d6795174678a4970b7ef9d3e09fa5efad682b115febfd1b8feffed027bef23a",
+      "en_sha256": "10d24c63de54c74f809d8b5cd7c287e98f2956b404159dcb704cde5858961a38",
+      "origin": "ai"
+    },
+    "dataList[key=230900].text": {
+      "pl": "Korytarz Pracowni Krojenia",
+      "kr_sha256": "af29a1da8381b94819f450d5f598d0aac9ad316184c4e1a6554e11aee04ce795",
+      "en_sha256": "5ab4e3fc243147d8dcdf5b3dedcd71954a3b0a05c8ea305b890527a828307009",
+      "origin": "ai"
+    },
+    "dataList[key=231000].text": {
+      "pl": "Pracownia Krojenia",
+      "kr_sha256": "28b88cf3b069041f59574786dc56c6bdf7eb8b3d891f6af51dfcd306383e69ea",
+      "en_sha256": "5e9a510381114c2f82bf8b6b2c80da59562cd9b65dff4c862825fc10fa9f8ac5",
+      "origin": "ai"
+    }
+  }
+}

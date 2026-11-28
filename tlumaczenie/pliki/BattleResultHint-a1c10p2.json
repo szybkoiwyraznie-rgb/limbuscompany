@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=battleTip_11027_1].content": {
+      "pl": "Tarcza Annette the Alterationist pęka, gdy wpada w Oszołomienie. Spróbuj Tożsamości ze Wstrząsem albo wieloma atakami.",
+      "kr_sha256": "02b5b911238d113a3ce2c82841db3078724d228bd880c30229034f4c129fb26d",
+      "en_sha256": "c4fe3c9b8ff865eaacf3323bafbb2846ee8333d4e071d64d7966e2fdb26b74f1",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11027_2].content": {
+      "pl": "Gdy Annette the Alterationist używa specjalnej Umiejętności na obiekcie reperacji, obrona może być lepszym wyborem niż atak.",
+      "kr_sha256": "4c65cc14287036f5aa3aa432e56e61610f3f85dc7e238d87907bc7fe1b4255d2",
+      "en_sha256": "e7001c2e64bb5258fac0814db0efba7a36689fc724292cfb9c8b4786ff4a5987",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11028_1].content": {
+      "pl": "Kontroluj Poczytalność, by nie wpaść w Panikę.",
+      "kr_sha256": "392fff4674f1eaac1aa920bede1704ffd55e5a7c5ceccb00953ad94e85fa70db",
+      "en_sha256": "1bfeb6e7d1152b444ce13d14619fda4e27a885597157d00e5aaef6b2180ba267",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11028_2].content": {
+      "pl": "Ważne jest wykorzystanie sojuszników z efektom Wieńca Laurowego Zadośćuczynienia.",
+      "kr_sha256": "da536fee3217865f1a50189fbdc70b5575b5982eed51a63409ea3b4be5f57642",
+      "en_sha256": "69a41b7e82d29b1cd14ec28b411cf31cb75b99fd76059121bca50d392ba93d01",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11030_1].content": {
+      "pl": "Nadzorca zużywa własne HP za każdym razem, gdy przywołuje Wygarbowanego Więźnia.",
+      "kr_sha256": "14e349eca44d293d57e448ea0b4f281ad547b603536f5208874645197d07f8e4",
+      "en_sha256": "3d1390e196b7b03aa0d26b78c6fafa8f65a8d7401208238f2f703673ef96ea72",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11030_2].content": {
+      "pl": "Nieposłuszeństwo wobec Nakazów Nadzorcy kończy się potężnym atakiem odwetowym.",
+      "kr_sha256": "4568cd43fd437c3bbee90d5a57f01e5e385acbda6568852331ef63f414eb3743",
+      "en_sha256": "51e101f1e7a1e69cf8415e61c7c0b2ef421c5aaabaf87a1771dd905c1a09f30a",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11031_1].content": {
+      "pl": "Rozdzielaj i kontroluj stosy „Apokaliptycznej Zemsty” zdobywane przez sojuszników. Mogą one drastycznie obniżyć obrażenia od określonych Umiejętności.",
+      "kr_sha256": "c0ea430a3660343792657f23f714bf8b1a05d778f37549d521c4f95f71a042d1",
+      "en_sha256": "f91d7b20a318ff287015e65ca15c1d3607d5a5b82d1122d9af634b07de5ceb59",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11031_2].content": {
+      "pl": "Wygranie Starcia z Umiejętnością „Przymierze” Menedżerki Marki Le Noir może znacznie obniżyć Tarczę zyskaną Umiejętnością „Objawienie”",
+      "kr_sha256": "23b13cad660028700f7358eabd94c585b2ad4912c548950264bf90b9b59ecc1b",
+      "en_sha256": "0b42e73190fdb2a85eff8cfcc68eaeb82f97d738f71f8fc75e5185ec25c59550",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11032_1].content": {
+      "pl": "Trafienie Umiejętnością „Ścieg tak rażąco widoczny, mówisz?! Wbiję ci go w tyłek!” przy wysokich stosach Igłogwoźdź zamieni cię w wypchanie i zada potworne obrażenia.",
+      "kr_sha256": "80f41db8426c1a6d2851fd483e4037146028f959e8d262d96c14a64a478eeef8",
+      "en_sha256": "ea6c28ef21f97b0b52128767ac04d945340008e18b546105f8a78ca9c58a3646",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11032_2].content": {
+      "pl": "W turze, w której Król Szycia używa potężnej Umiejętności, przeżyłe Igiełki mogą znacznie ją wzmocnić.",
+      "kr_sha256": "1adb5ec4a9d58383fbccafb42710c67b0df54fd278e26c39d5da0b313c0fd68f",
+      "en_sha256": "fe26f194f724918f7607dc53ebe0abb88132f84671f3ad535fc757cde2b94ef8",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11033_1].content": {
+      "pl": "Sous-chef zdobywa „Pokrojone Składniki” od pokonanych celów. Na koniec tury zjada je, kumulując „Zjadam przysmaki i nabieram sił, słyszysz?”.\nIm więcej stosów, tym silniejsza i częstsza jest jej potężna Umiejętność „Moje sygnaturowe cięcie, słyszysz?”",
+      "kr_sha256": "67f8539e5489b5d0fdc7687fb7d02f7da6ba6a71f0eba9dcc9fe289d7d134215",
+      "en_sha256": "678d0cdb2d39449d34e3962ca1d2631e258fceed76ac103e66c927d2cd21dbd8",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11033_2].content": {
+      "pl": "Sous-chef traktuje jako składniki również Skórzane Portfele — sama defensywa Skazańców nie zatrzyma jej gotowania.",
+      "kr_sha256": "165bc7675a99c189fa8375655539538f6ae93edc1373debbd014ae5dd7eba070",
+      "en_sha256": "fcd7705b19d6be9c51b377bb712af0e498378d07758f34b34b0d65010953786c",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11033_3].content": {
+      "pl": "W turze, gdy Sous-chef nie pokona nikogo, kumuluje „Mam apetyt, słyszysz?”.\nPrzy 3 stosach użyje kolejnej potężnej Umiejętności — czasem warto pozwolić jej ugotować",
+      "kr_sha256": "f05e98a8a6e5f892fd528cefca8d00d67c8c47abfa962bdd7bf0b030d1f24431",
+      "en_sha256": "e3484312150271679ebe88889828b5024f6aad8dcba09bb46eace2510e9d3f34",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11034_1].content": {
+      "pl": "Czasem prowadzenie Starć z określonymi Umiejętnościami Menedżera Piętra przy użyciu Umiejętności ataku może być złym pomysłem.",
+      "kr_sha256": "74392a45065fda2469f9935192f8fd6cfdc623297857347cb87bb4a49cecc495",
+      "en_sha256": "288a8e4dd48a12a660848b9f83322348418c47dc752a2a8fc1875c642bc74df0",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11034_2].content": {
+      "pl": "Gdy „Czujność” osiągnie 10, Menedżer Piętra użyje potężnej Umiejętności.\nUważaj, by „Czujność” nie osiągnęła 10 stosów — albo przegraj Starcie z określoną Umiejętnością, by ją usunąć",
+      "kr_sha256": "135875f5200e611215e62736c6dc3775485d55ca15e3d0d23e2f5b792dc25177",
+      "en_sha256": "ef43c1e166efe38549c48838127206473ac9b5dff452bf9d8f4e7d7c8847cd56",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11034_3].content": {
+      "pl": "Jeśli posiadasz „Wdzięczność za Wysłuchanie”, jednym ze sposobów jest też chwilowe wstrzymanie ataków.",
+      "kr_sha256": "3b0aba2e0883abe1da751bd0b7f03506c0ee28ec2b79a596e1e246462e017ab9",
+      "en_sha256": "1b28d12a92608458a8c645506f20cb318fab9e09de036a769f29d4453428e9ed",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11038_1].content": {
+      "pl": "Im wyższe stosy „Splątania”, tym większe otrzymywane obrażenia i tym niższa Moc; przy 15 lub więcej określone Umiejętności wymuszają Oszołomienie.\nUżywaj Umiejętności obrony albo prowadź Starcia z „Zmywaniem”, by kontrolować „Splątanie”",
+      "kr_sha256": "8ad04e78196b06552283edd3ddd2f9f78ba1a1d8024ddc5842967b775ba76cfc",
+      "en_sha256": "32d7ff9f6b782c452bfa95bf1944d5a8ba06bab9fd69bb268c38afe74d7c6044",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11038_2].content": {
+      "pl": "„Kałuża Czarnej Wody” maleje tylko raz na Umiejętność przy trafieniu — najlepiej usuń ją za jednym razem Umiejętnościami o dużej Wadze Ataku.",
+      "kr_sha256": "7e509db5bbf883b1e74e8c1c00b2e9567bc33627a34e88b5703c7b0b29d48bde",
+      "en_sha256": "64d3d461bb60795d0fd7afa79b283c2b4514e65fb981083b495ac87164d9312e",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11038_3].content": {
+      "pl": "„Paszcza Otchłani”, Umiejętność Czarnej Nici Dawnego Morza, zadaje niemal śmiertelne obrażenia, gdy cel jest oszołomiony albo ma 20 lub więcej „Splątania”.\nBez względu na Szybkość można ją przejąć Starciem — trzymaj „Splątanie” Skazańców poniżej 20 i zawsze blokuj ją Starciem, gdy Skazaniec jest zagrożony",
+      "kr_sha256": "755ebe8b1af7f10133623f4775aab9d7d3dcdf9590c080eb3b66478ba491c8e9",
+      "en_sha256": "12ff5be54ae896903dd6baad32c176b704fe6bccd1aee3157b69e5493e9f5195",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11040_1].content": {
+      "pl": "Kluczem do tej walki jest kontrola Szybkości Putty.",
+      "kr_sha256": "95c386d9f5f3b8c23c6736f876e86334043e787f61718ee9368f37ef2c593503",
+      "en_sha256": "df7f18dfd1da3696062060042edb69e81629ad5d4da7c5ad7913a32fd4215c4c",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11040_2].content": {
+      "pl": "Ostrożnie zarządzaj Licznikiem, by monety nie stały się Niezniszczalne.",
+      "kr_sha256": "5c9cc0fd9fc8cc11ce6d4f08c3a891ec6acc2cb2c5aa8b83a0ec354988431da3",
+      "en_sha256": "c4c3bc87cac3aad30f6cda462c66b5b86fe90ce17b84182f44e4c35daffcf218",
+      "origin": "ai"
+    }
+  }
+}

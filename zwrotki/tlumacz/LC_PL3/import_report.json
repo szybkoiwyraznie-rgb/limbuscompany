@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "files_read": 12,
+  "items_seen": 12954,
+  "translated_items": 12,
+  "inherited_repeats": 0,
+  "untranslated_items": 8398,
+  "addresses_updated": 12,
+  "story_glossary_updated": 0,
+  "view_glossary_updated": 0,
+  "skipped_human_existing": 0,
+  "replaced_ai": 0,
+  "error_count": 0,
+  "warning_count": 0,
+  "errors": [],
+  "warnings": []
+}

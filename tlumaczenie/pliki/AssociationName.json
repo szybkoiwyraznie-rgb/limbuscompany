@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=associationName_BLACK_CLOUD].content": {
+      "pl": "Klan Kurokumo",
+      "kr_sha256": "1792e0c659d20b2f261f180c879ec14467948d7ebf54431547025bffd18ffd24",
+      "en_sha256": "3870f3eab78c504db332859af8028fcbbb65223ab9eb8d5e944208d88602a9eb",
+      "origin": "ai"
+    },
+    "dataList[id=associationName_BLADE_LINEAGE].content": {
+      "pl": "Ród Ostrza",
+      "kr_sha256": "129303ae9e75ea3c4a4d1d6ac563bb142a05e76e72ef193136ad9e45bf5b19f2",
+      "en_sha256": "c20ef31147430fd5b44cb715e99b697595af95f35650a0b11fb6f3fcfa120fa5",
+      "origin": "ai"
+    },
+    "dataList[id=associationName_YURODIVY].content": {
+      "pl": "Jurodiwi",
+      "kr_sha256": "cf1fdffec79754bcab3cc6a189647bafa1fa350d28cdd66ede9a41ae0f99ea2e",
+      "en_sha256": "714971a22bbf656b48890372de13b2c66e1d554e517becea3c5b3202cc2af637",
+      "origin": "ai"
+    }
+  }
+}

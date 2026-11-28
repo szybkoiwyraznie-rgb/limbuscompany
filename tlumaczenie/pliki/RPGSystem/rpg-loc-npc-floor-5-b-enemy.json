@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[key=N105101].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N105102].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N105103].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N105104].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N105105].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N105106].displayName": {
+      "pl": "Czarna Nić",
+      "kr_sha256": "c174d552171dbaf4b44c59359a99b8b75ec5781b866b6b29c2ecdd3c4d0a59f1",
+      "en_sha256": "9a14c91ec91cdae228c648757c0c5c1f086ee44832012b0e30b3e3cad6f147d8",
+      "origin": "ai"
+    },
+    "dataList[key=N105107].displayName": {
+      "pl": "Maison du Noir",
+      "kr_sha256": "15d27f53d2c04cac213bf91d2109b6f648582022225f36af45ea669702804e9d",
+      "en_sha256": "d24d3609c17bbd66b91ce241d85c27a239ce47b63477a3ee9173f45b852d21e8",
+      "origin": "ai"
+    },
+    "dataList[key=N105108].displayName": {
+      "pl": "Pracownik Maison du Noir",
+      "kr_sha256": "130f4c93767f6b616c4e02bbdcab73f782c16b3ffd0a5e71a541626cccc0444b",
+      "en_sha256": "7bd9213cf11f00c8f8c3439f4cfd058c70e77fbd1c5073b30d1532ce6221ed3d",
+      "origin": "ai"
+    },
+    "dataList[key=N105109].displayName": {
+      "pl": "Pracownik Salonu Contempora Le Noir",
+      "kr_sha256": "3019ebdf2066f71a83528823a31f05b072f96b3042b09c57308c0aca16e4b96b",
+      "en_sha256": "8a3a72b0dc253aa38b720badf72a2aee4dc2c0e2ee5f8a42dc38e643aeb5032b",
+      "origin": "ai"
+    },
+    "dataList[key=N105110].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N105111].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N105112].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N105113].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N105114].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N105115].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N105116].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N105117].displayName": {
+      "pl": "Strażnik Le Noir",
+      "kr_sha256": "93c0ba6571685c6684dcc510c38a1e31a97ad3168c0c507d6fb39ddba04d5076",
+      "en_sha256": "d4e693387197ba652908b1962a6700781d3b3ce5144abd1a90ea833383c9b9aa",
+      "origin": "ai"
+    },
+    "dataList[key=N105118].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N105119].displayName": {
+      "pl": "Maison du Noir",
+      "kr_sha256": "15d27f53d2c04cac213bf91d2109b6f648582022225f36af45ea669702804e9d",
+      "en_sha256": "d24d3609c17bbd66b91ce241d85c27a239ce47b63477a3ee9173f45b852d21e8",
+      "origin": "ai"
+    },
+    "dataList[key=N105120].displayName": {
+      "pl": "Pracownik Maison du Noir",
+      "kr_sha256": "130f4c93767f6b616c4e02bbdcab73f782c16b3ffd0a5e71a541626cccc0444b",
+      "en_sha256": "7bd9213cf11f00c8f8c3439f4cfd058c70e77fbd1c5073b30d1532ce6221ed3d",
+      "origin": "ai"
+    },
+    "dataList[key=N105121].displayName": {
+      "pl": "Pracownik Salonu Contempora Le Noir",
+      "kr_sha256": "3019ebdf2066f71a83528823a31f05b072f96b3042b09c57308c0aca16e4b96b",
+      "en_sha256": "8a3a72b0dc253aa38b720badf72a2aee4dc2c0e2ee5f8a42dc38e643aeb5032b",
+      "origin": "ai"
+    },
+    "dataList[key=N105122].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    }
+  }
+}

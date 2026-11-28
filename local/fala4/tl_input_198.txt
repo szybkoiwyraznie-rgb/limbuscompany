@@ -1,0 +1,96 @@
+19269||RPGSystem#rpg-loc-dialogue-route-c2.json] 아무도 없어. 아무도.|No one. Not even a single one.
+19270||RPGSystem#rpg-loc-dialogue-route-c2.json] 세상에 던져져 촘촘히 못 박힌 저들은… 결코 우리의 세상을 이해하지 못할 거야.|They are people who have been thrown into the world before a rain of nails pinned them into what they've become. They'll never understand our world.
+19271||RPGSystem#rpg-loc-dialogue-route-c2.json] 누군가 보았다면… 평범하고 일상적인 데이트를 즐기는 다정한 연인이라고 생각했을 거야.|To others, we painted the image of a romantic couple out on a lovely but typical date.
+19272||RPGSystem#rpg-loc-dialogue-route-c2.json] 하지만 나는, 언제나 그랬듯… 조금도 익숙하지 않았어. 더없이 낯선 감각에 공포와 어지럼증을 느끼고 있었지.|But despite appearances, all I felt was alienation. I was afraid of the unfamiliarity that surrounded me; I was sick with fear and nausea.
+19273||RPGSystem#rpg-loc-dialogue-route-c2.json] 그 순간에… 나는 당신의 눈에서 피어나는 두려움을 느꼈어. 그건 당신도 마찬가지였을 테고.|In that moment... I felt that same fear blossoming in your eyes. And you must have felt the same in mine.
+19274||RPGSystem#rpg-loc-dialogue-route-c2.json] …살아가며 수많은 사람들과 이야기를 주고받아 왔지만, 실은 누구와도 진정 대화해본 적 없었다고 생각해.|I've... exchanged words with many, many people in my life. But I don't think I'd ever truly spoken with anyone before that point.
+19275||RPGSystem#rpg-loc-dialogue-route-c2.json] 나는 사람들이 바라보는 것을 빗겨 바라보고, 사람들은 내가 바라보는 것을 보지 못해. 내가 느끼고 있는 이 어지럼증을 아무리 설명해도 이해받을 수 없어.|I can't help but gaze askance at what people see, and they, in turn, cannot see what I gaze at. No matter whom I explain this nausea to, none of them understand.
+19276||RPGSystem#rpg-loc-dialogue-route-c2.json] …아무것도 아닌 그 무언가를 설명할 마땅한 단어를, 나 또한 아직 찾지 못했다.|... I, too, have yet to find an appropriate word to define that "nothingness" you describe. I still have not.
+19277||RPGSystem#rpg-loc-dialogue-route-c2.json] 그렇기에 우리 또한 많은 이야기를 나누진 않았다. 그럴 필요가 없었으니.|That is why our conversations were brief. There was no need to elaborate.
+19278||RPGSystem#rpg-loc-dialogue-route-c2.json] 그래서 좋았어.|And I liked that.
+19279||RPGSystem#rpg-loc-dialogue-route-c2.json] 멈춰있는 스크린 속에서, 통조림 속의 경험이 끝이 난다.|The Canned Experience comes to an end, fading away from the motionless screen.
+19280||RPGSystem#rpg-loc-dialogue-route-c2.json] 같은 경험 통조림을 떠먹은 사람들이 일어선다.|The people who have consumed the same Canned Experience rise from their seats.
+19281||RPGSystem#rpg-loc-dialogue-route-c2.json] 자신이 본 것을 신나게 떠드는 사람, 감동을 주체하지 못하고 아직 자리에 앉아 있는 사람, 아쉬운 점이 있었는지 투덜거리며 불평하는 사람.|Some talk excitedly about what they'd seen, while others remain seated, stunned and moved by the experience. There are those who are grousing and grumbling about the movie as well, which was clearly not up to their standards.
+19282||RPGSystem#rpg-loc-dialogue-route-c2.json] 그들은 정말 같은 통조림을 떠먹은 게 맞을까. 정말 그들은 우리와 같은 경험을 한 것이 맞을까.|Did we really share the same Canned Experience? Have they undergone the same experience that we have?
+19283||RPGSystem#rpg-loc-dialogue-route-c2.json] 그 수많은 고민이 끝을 맞이했을 때, 영화관에는 나와 잔느 밖에 남지 않았다.|Links upon links upon links of questions finally come to an end. I know without looking around that only Jeanne and I are left in the theater.
+19284||RPGSystem#rpg-loc-dialogue-route-c2.json] 알아. 이 도시도, 당신도 이 물음에 답을 해주는 일은 없겠지. 영원히.|You'll never answer that, I know. The City won't either. You'll both hold onto your silences until the end of days.
+19285||RPGSystem#rpg-loc-dialogue-route-c2.json] 아름다운 노을이었다. 눈에 가득 담길 만큼 붉고, 화려했고.|It was a beautiful sunset. The bright red blaze filled my vision with its dazzling light.
+19286||RPGSystem#rpg-loc-dialogue-route-c2.json] 시원한 바람도, 까슬거리는 모래의 감각도 모두 느껴졌다.|I felt the seaside breeze and the salty air tickle my face. The warm grains of sand shifting under my feet.
+19287||RPGSystem#rpg-loc-dialogue-route-c2.json] 하지만… 결국 가짜일 뿐이지. 우리는 그저 이 자리에 앉아 있었을 뿐이니까.|But... it was all fake. We were just sitting wordlessly in this dark room.
+19288||RPGSystem#rpg-loc-dialogue-route-c2.json] 그런데도… 사람들은 이 가짜를 너무나 좋아해.|And yet, people seem to like all this fakery anyway.
+19289||RPGSystem#rpg-loc-dialogue-route-c2.json] 바람이 아닌 걸, 바람이라 말하고… 노을이 아닌 걸 거리낌 없이 노을이라고 말해.|Confidently calling what isn't wind "wind," calling that fake sunset "sunset" with nary a hesitation.
+19290||RPGSystem#rpg-loc-dialogue-route-c2.json] …그 모든 것들에 무서움을 느끼는 게, 이 넓은 영화관에서 나와 당신뿐이라니.|... To think that we're the only two people in this whole cinema who are afraid of all of that...
+19291||RPGSystem#rpg-loc-dialogue-route-c2.json] 부조리하네.|Absurd, isn't it?
+19292||RPGSystem#rpg-loc-dialogue-route-c2.json] …그럴지도.|... Maybe.
+19293||RPGSystem#rpg-loc-dialogue-route-c2.json] 시네마.|A cinema.
+19294||RPGSystem#rpg-loc-dialogue-route-c2.json] 시지프… 시네마. 당신과 어울리는 아늑하고 멋진 장소네.|"Cinéma Sisyphe." It's a nice place. Dark, cozy, yet refined, just like you.
+19295||RPGSystem#rpg-loc-dialogue-route-c2.json] 이곳을 바라보니, 감상이 어때?|So, care to share your thoughts?
+19296||RPGSystem#rpg-loc-dialogue-route-c2.json] 영화가 시작하면… 자리에 앉아있던 수많은 사람들이 내게서 무관심해진다.|When the movie begins, the countless people who fill the cinema immediately become indifferent to me.
+19297||RPGSystem#rpg-loc-dialogue-route-c2.json] 그 순간이 모든 이들의 시선을 온전히 붙잡아두지. 마치… 사슬처럼.|The spellbinding moments on the screen capture their gaze, like... chains.
+19298||RPGSystem#rpg-loc-dialogue-route-c2.json] …조용하군. 그렇기에 편안하고.|... It is quiet. And therefore relaxing.
+19299||RPGSystem#rpg-loc-dialogue-route-c2.json] 그날은 영화관이 휴무였다.|The cinema was closed that day.
+19300||RPGSystem#rpg-loc-dialogue-route-c2.json] 분명, 존재하고 있었다.|Nothing could deny our existence.
+19301||RPGSystem#rpg-loc-dialogue-route-c2.json] 예상치 못한 변수로 우리가 계획 없이 향했던 곳은… 도심에서 조금 떨어진 곳에 있던 자그마한 인공 샘물.|With our plans derailed by that unexpected variable, we wandered onto a small, artificial spring a little out of the way from downtown.
+19302||RPGSystem#rpg-loc-dialogue-route-c2.json] 대낮의 햇빛을 피하기 위해 우리는 잠시 그곳에 앉았고…|Beaten down by the heat of the afternoon sun, we sat down on a bench facing the pond...
+19303||RPGSystem#rpg-loc-dialogue-route-c2.json] 시간이 흐른 뒤, 우리는…|... and, after some time...
+19304||RPGSystem#rpg-loc-dialogue-route-c2.json] 저물어가고 있는 저녁노을을 말없이 지켜보았다.|... we were silently watching the evening sun sink into the horizon.
+19305||RPGSystem#rpg-loc-dialogue-route-c2.json] 사라져가는 그 붉은 흔적은 더 이상 눈이 부시지 않았기에…|Its fading blaze was a red smolder now, gentle to our eyes...
+19306||RPGSystem#rpg-loc-dialogue-route-c2.json] 우리의 땀은 말라갔고 숨은 고르게 가라앉았다.|As we rested, our sweat dried and our breathing steadied.
+19307||RPGSystem#rpg-loc-dialogue-route-c2.json] 그 순간이 만들어낸 침묵 속에서 우리는…|And in the silence born from that moment...
+19308||RPGSystem#rpg-loc-dialogue-route-c2.json] 통조림 속 기억이 아닌, 우연히 보았던 그 저녁 노을…|That <i>real</i> sunset we happened upon... not the one we consumed from a can...
+19309||RPGSystem#rpg-loc-dialogue-route-c2.json] 타들어 가며 저물어가는 그 모습이…|... the way those dying flames smoldered as they sank tenderly beyond the horizon was so...
+19310||RPGSystem#rpg-loc-dialogue-route-c2.json] 말로 표현할 수 없을 만큼… 아름다워서…|... beautiful, so breathtaking beyond words, that...
+19311||RPGSystem#rpg-loc-dialogue-route-c2.json] 나한테도 옮겨붙으면 좋겠다고 생각했어.|... I wished I could catch its flame and burn just as brightly.
+19312||RPGSystem#rpg-loc-dialogue-route-c2.json] 그래, 그렇다면…|There. Then...
+19313||RPGSystem#rpg-loc-dialogue-route-c2.json] 당신은 그렇게… 나아가면 된다.|... you need only move forward on that path.
+19314||RPGSystem#rpg-loc-dialogue-route-c2.json] 이걸 두르고… 햇빛에게 가…|Put this on... and head to the sunshine...
+19315||RPGSystem#rpg-loc-dialogue-route-c2.json] 산란한 마음도… 괜찮아…|A restless heart... is fine...
+19316||RPGSystem#rpg-loc-dialogue-route-c2.json] 더 가라앉으면… 올라갈 수 없어…|If you sink farther... You won't be able to go up...
+19317||RPGSystem#rpg-loc-dialogue-theater-b.json] [미사용] 아직 관람할 수 없는 이야기입니다.|
+19318||RPGSystem#rpg-loc-narration-common-warden-boss-a1c10p2.json] 격이 맞지 않아… 닿지 않을 거야…|Not of the same caliber... won't reach...
+19319||RPGSystem#rpg-loc-narration-common-warden-boss-a1c10p3.json] 하하… 이방인들, 내가 이 순간을 얼마나 기다렸는지 알아?|Haha...! You've got no idea how long I've waited for this moment, strangers!
+19320||RPGSystem#rpg-loc-narration-common-warden-boss-a1c10p3.json] 저 촛불로 공격을 유도해봐. 아주 재밌는 일이 벌어질 테니까!|Draw the attack to the candle, and... Well, let's just say you'll love what happens next!
+19321||RPGSystem#rpg-loc-narration-floor-3-b.json] <color=#cf0000>욕망하라, 욕망하는 만큼 남김없이 섭취하라.</color>|<color=#cf0000>Desire. And to the measure of your desire, consume all.</color>
+19322||RPGSystem#rpg-loc-narration-floor-3-b.json] <color=#cf0000>걸쳐라, 그리고 아낌없이 삼켜라.</color>|<color=#cf0000>Don yourself with all. Devour without restraint.</color>
+19323||RPGSystem#rpg-loc-narration-floor-3-b.json] <color=#cf0000>원하라, 원하는 만큼 서슴없이 고갈시켜라.</color>|<color=#cf0000>Desiderate. And to the measure of your desideration, deplete all.</color>
+19324||RPGSystem#rpg-loc-narration-floor-3-b.json] <color=#7d7d7d>채울 수 있음에도 채우지 아니하고. 누릴 수 있음에도 멈출지어다.</color>|<color=#7d7d7d>Though thou canst sate thyself, thou shalt not. Though thou canst indulge, thou shalt refrain.</color>
+19325||RPGSystem#rpg-loc-narration-floor-3-b.json] <color=#7d7d7d>넘침이 없게 하고, 질서대로 행하라.</color>|<color=#7d7d7d>Thou shalt refrain from excess. Thou shalt abide by the commandments of order.</color>
+19326||RPGSystem#rpg-loc-narration-floor-3-b.json] <color=#7d7d7d>규율을 거스르지 말라. 시지프는 너희가 견딘 모든 고통을 기억하노라.</color>|<color=#7d7d7d>Thou shalt not defy the rules. Every moment of thy suffering is etched into and remembered by Sisyphe itself.</color>
+19327||RPGSystem#rpg-loc-narration-floor-5-c2.json] 마침내 닿았구나. 이 언덕의 꼭대기에.|<color=#e1b643>You've finally reached it. The top of the hill.</color>
+19328||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이제는 손을 떼도 좋아.|<color=#e1b643>You can let go now.</color>
+19329||RPGSystem#rpg-loc-narration-floor-5-c2.json] 돌은 다시 아래로 굴러떨어질 거야. 하지만… 그건 중요한 게 아니잖아, 그렇지?|<color=#e1b643>The boulder will roll back down. But... that isn't what matters, is it?</color>
+19330||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이제 그 아이를, 백화점을, 그리고 나를 만나러 와.|<color=#e1b643>Now come and see that child. Come see the Grand Magasin... Come see <i>me</i>.</color>
+19331||RPGSystem#rpg-loc-narration-floor-5-c2.json] 돌은 다시 굴러떨어지겠지. 하지만 괜찮아.|<color=#e1b643>The boulder will roll back down, but that's all right.</color>
+19332||RPGSystem#rpg-loc-narration-floor-5-c2.json] 처음 시작하는 것과, 다시 처음으로 돌아가는 건 전혀 다른 일이란다, 뫼르소.|<color=#cf0000>Starting for the first time and returning to the starting point are entirely different things, Meursault.</color>
+19333||RPGSystem#rpg-loc-narration-floor-5-c2.json] 처음에는 잃어버릴 게 없었으니까. 하지만 지금은 네가 어디까지 올라갔었는지를 알고 있잖니.|<color=#cf0000>First times are always the same—you have nothing to lose because you're oblivious to what's involved. But the second time starting over, and then the next... You know how far up you need to push the boulder again.</color>
+19334||RPGSystem#rpg-loc-narration-floor-5-c2.json] 푸흡… 나 안 비웃었다?|<color=#ffe066>Pfft... Oops, I wasn't laughing at you!</color>
+19335||RPGSystem#rpg-loc-narration-floor-5-c2.json] 아 혹시, 위로를 해줘야 했었나?|<color=#ffe066>Or maybe you expected me to offer you some sort of platitude?</color>
+19336||RPGSystem#rpg-loc-narration-floor-5-c2.json] 사실 나는 이렇게 생각해. 실패는 그냥 실패야. 모든 실패가 교훈을 주지 않아.|<color=#ffe066>Here's what I think, actually. Sometimes, failure is just failure. Not every defeat comes with a lesson to be learned.</color>
+19338||RPGSystem#rpg-loc-narration-floor-5-c2.json] 화가 나는가. 그것이 감옥의 역할이다.|<color=#7d7d7d>Does it anger you? That is what a prison is for.</color>
+19339||RPGSystem#rpg-loc-narration-floor-5-c2.json] 굴러떨어질 걸 알면서도 계속 미는 것. 이번에야말로 끝까지 굴릴 수 있다는 확신이 산산조각 나는 것. 그것이 형벌이다.|<color=#7d7d7d>To keep pushing, knowing it will roll back down... To believe that this time you will reach the end, only to have that certainty shattered to pieces. That is your punishment.</color>
+19340||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이 길은 형벌의 길이다. 죄인, 당신을 벌하기 위한… 고통의 길이지.|<color=#7d7d7d>This is the path of penance. A road of suffering... laid to punish you, O Sinful One.</color>
+19341||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이제, 나를 만나러 와.|<color=#e1b643>Come see me now.</color>
+19342||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이제, 나를 만나러 와.|<color=#ebcaa2>Come see me now.</color>
+19343||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이제, 나를 만나러 와.|<color=#7d7d7d>Come see me now.</color>
+19344||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이제, 나를 만나러 와.|<color=#ffe066>Come see me now.</color>
+19345||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이제, 나를 만나러 와.|<color=#cf0000>Come see me now.</color>
+19346||RPGSystem#rpg-loc-narration-floor-5-c2.json] 너는 너다울 수 있어야 해.\n그 무엇에도 얽매이지 않고 말이야.|You should be allowed to be who you are.\nNot bound by anyone or anything.
+19347||RPGSystem#rpg-loc-narration-floor-5-c2.json] 세계의 제일 밑바닥에 존재하는 강.|There is a river that flows at the very bottom of the world.
+19348||RPGSystem#rpg-loc-narration-floor-5-c2.json] 인간으로 태어난 이상, 우리는 그 강이 공유하고 있는 인류의 꿈에 영향받을 수밖에 없어.\n나는 그것마저 부정하진 않아. 그건 인간의 특징이니까.|As beings born as humans, we can't help but be affected by the dream of humanity that the river shares.\nI won't deny that. It's just part of being human.
+19349||RPGSystem#rpg-loc-narration-floor-5-c2.json] 하지만 후천적으로 만들어진 문화가, 누군가 결정한 것들이 형태를 결정해서는 안 돼.|But "culture," which is acquired and unnatural, things that are determined by others... shouldn't define the shape.
+19350||RPGSystem#rpg-loc-narration-floor-5-c2.json] 네가 한 번이라도 너로 있을 수 있게, 모든 사람이 한 번이라도 자기 자신으로 있어 볼 수 있게 하고 싶어.|I want you to be wholly yourself, even for a moment. In fact, I want mankind itself to be able to experience that.
+19351||RPGSystem#rpg-loc-narration-floor-5-c2.json] 그 기회를, 그럴 수 있는 힘을 주고 싶어.|I want to provide that opportunity, to grant the strength to achieve that.
+19352||RPGSystem#rpg-loc-narration-floor-5-c2.json] 긴 시간 동안 자신만의 깨달음을, 생각을 완고하게 다진 후배는 나와 다른 생각을 갖게 되었어.|After years upon years of toil and reflection, my junior's reached a certain enlightenment—and his philosophy was eventually set in a way that diverges from mine.
+19353||RPGSystem#rpg-loc-narration-floor-5-c2.json] 아인은 이제 과거의 내가 관철하려 했던 가치관을 이어받아, 도구를… 의복을 쥐어주려 해.|Ayin has the values I used to believe in and sought to convey to the world, and now seeks to give people... "tools." Clothes.
+19354||RPGSystem#rpg-loc-narration-floor-5-c2.json] 그래도 역시 내 대답은 이거야.|But my answer remains the same.
+19355||RPGSystem#rpg-loc-narration-floor-5-c2.json] 너는 너다울 수 있어야 해.\n그 무엇에도 얽매이지 않고.|"You" must be allowed to remain wholly yourself.\nUnshackled by anything.
+19356||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이 여정에 기꺼이 동참해주어서 고마워.|<color=#ebcaa2>Thanks for joining this journey so willingly.</color>
+19357||RPGSystem#rpg-loc-narration-floor-5-c2.json] 모델들이야. 런웨이 중이지.|<color=#ffe066>Models. Walking the runway.</color>
+19358||RPGSystem#rpg-loc-narration-floor-5-c2.json] 끝까지 걸어갔다가 돌아선 다음에… 다시 걸어. 처음 그 자리로. 그리고 돌아서서 또 걷고.|<color=#ffe066>They walk to the end, turn around... and walk back. Right where they started. Around they turn, and off they go again.</color>
+19359||RPGSystem#rpg-loc-narration-floor-5-c2.json] 푸하, 어때? 지금 너희가 하는 일과도 닮지 않았어?|<color=#ffe066>Hah! Ring any bells? Looks rather like what you're doing, doesn't it?</color>
+19360||RPGSystem#rpg-loc-narration-floor-5-c2.json] 당신, 그런데 팔은 괜찮아? 차라도 내려주고 싶은데 안 되겠다. 그러면 당신이 손을 놓아야 할 테니까.|<color=#ebcaa2>How are your arms holding up, by the way? I'd love to make you some tea... but perhaps not. You'd have to let go of that boulder to hold the teacup, after all.</color>
+19361||RPGSystem#rpg-loc-narration-floor-5-c2.json] 이곳은 어디일까? 이름 붙이기 참 어려운 곳이지. 6층이라는 개념엔 속하지만, 너희들이 지나온 모든 층들이 역류하여 한데 비벼지고 뒤섞인 퇴적의 자리이기도 해.|<color=#ebcaa2>So... I suppose you want to ask, "Where are we?" It's a difficult place to put a name to. It belongs to the <i>concept</i> of the sixth floor, but it's also where all the floors you've passed through flow backward, mixing and grinding together into sediment.</color>
+19362||RPGSystem#rpg-loc-narration-floor-5-c2.json] 팔리지 않은 것, 철이 지난 것, 이월된 것, 반품된 것, 잊혀진 것. 여기선 구분되지 않아. 당신이 지나온 모든 것들이 지금 발밑에 함께 뭉개져 있으니까.|<color=#ebcaa2>Unsold inventory, out-of-season stock, carryovers, returns, and things passed over until even the store forgot they were there. Those distinctions mean nothing here, because everything you've gone through so far has been crushed and mixed up in the same heap beneath your feet.</color>
+19363||RPGSystem#rpg-loc-narration-floor-5-c2.json] 그것이 겹겹이 눌려서 이렇게 단단하고 미끄러운 언덕이 됐지.|<color=#ebcaa2>Layer pressed upon layer... until they all became this hard, slippery hill.</color>
+19364||RPGSystem#rpg-loc-narration-floor-5-c2.json] 뭐가 밟히던 간에 너무 신경 쓰지는 마.|<color=#ebcaa2>Try not to give too much thought, whatever you happen to tread on.</color>
+19365||RPGSystem#rpg-loc-narration-floor-5-c2.json] 할 일은 간단하단다, 뫼르소. 그 돌을 밀어 저 위까지 올리는 거야.|<color=#cf0000>Your task is simple, Meursault. Push the boulder all the way to the top.</color>

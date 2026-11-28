@@ -1,0 +1,96 @@
+7474||PersonVoice#Voice_Donquixote_Shi_10303.json] 악인들을 해치우세나!|Let us vanquish these evildoers!
+7475||PersonVoice#Voice_Donquixote_Shi_10303.json] 정신 차릴 수 없을 것이오!|You shan’t be let a moment of clarity!
+7476||PersonVoice#Voice_Donquixote_Shi_10303.json] 처리했소!|I slew them!
+7477||PersonVoice#Voice_Donquixote_Shi_10303.json] 기습 준비 중이었는데, 내가 보이시오?|I was preparing a surprise attack—you were able to detect me?
+7478||PersonVoice#Voice_Donquixote_Shi_10303.json] 이번엔 어떤 짓을 한 악인들이오?|What vile deeds have those villains done?
+7479||PersonVoice#Voice_Donquixote_Shi_10303.json] 굴복하지 않을 것이오!|Nay, I shan’t submit!
+7480||PersonVoice#Voice_Donquixote_Shi_10303.json] 나의 정의에는 결과가 있었소!|My justice bore fruit!
+7481||PersonVoice#Voice_Donquixote_Shi_10303.json] 악인들을 뒤쫓아서!|I shall pursue yon evildoers!
+7482||PersonVoice#Voice_Donquixote_Shi_10303.json] 나… 더 힘내보겠소! 지켜봐 주시오, 관리자 나리!|I… shall exert greater efforts! Watch me, Manager Esquire!
+7483||PersonVoice#Voice_Donquixote_Shi_10303.json] 자, 정의가 찾아왔소! 악인들을 평등한 죽음으로 이끄리라!|Hurrah, justice hath arrived! I shall drive all villains into equal demise!
+7484||PersonVoice#Voice_Donquixote_Shi_10303.json] 쉿, 관리자 나리. 기습 훈련 중이었소. 내 발걸음 소리가 들렸소?|Shh, quiet, Manager Esquire. I was practicing mine ambush maneuvers. Could you hear my footsteps?
+7485||PersonVoice#Voice_Donquixote_Shi_10303.json] 밝은 달을 보고 있으니 처음의 열의가 되살아나는 것 같소.|I feel the passion from mine youth rekindle when I gaze upon the bright moon.
+7486||PersonVoice#Voice_Donquixote_Shi_10303.json] 난 말이오, 관리자 나리. 세상에 굴복하지 않고 싶소. 눈에 보이는 것보다 하늘엔 더 별이 많은 것처럼 말이오.|You see, Manager Esquire, I aspire to persevere through the storms cast by the world. It ought to be worth the turmoil, as there are more stars in the sky than bare eyes can see.
+7487||PersonVoice#Voice_Donquixote_Shi_10303.json] 관리자 나리도 어둠 속에 숨어버린 것이오?|Have you hidden yourself among the shadows?
+7488||PersonVoice#Voice_Donquixote_Shi_10303.json] 어쩌면, 악인들이 그리 멀리 있는 존재가 아닐지도 모르오. 아, 아무것도 아니오. 못 들은 걸로 하시오.|Perhaps villains are closer to us than one might have thought. Ah, ‘tis but meaningless rambles. Forget that I spoke.
+7489||PersonVoice#Voice_Donquixote_Shi_10303.json] 나, 소리 나지 않게 기습하는 법을 훈련하느라 진짜 고생 많이 했소.|It did take me tremendous pains to learn to strike one’s foe with nary a sound.
+7490||PersonVoice#Voice_Donquixote_Shi_10303.json] 응? 내 얼굴이 너무 울적해 보인다는 것이오? 잘못 보셨소. 그냥 생각 좀 하고 있었을 뿐이오.|Hm? I appear fraught with gloom to the eyes? Surely, you are mistaken. I was merely lost in contemplation.
+7491||PersonVoice#Voice_Donquixote_Shi_10303.json] 관리자 나리, 난 모든 이들이 나처럼 정의를 위해서만 올곧게 싸우는 줄 알았소. 정치니, 파생 세력이니 하는 건… 내게 너무 어렵소…|Manager Esquire, I thought that all men fought righteous battles in the name of justice as I do. All this complication of political intricacies and derived factions… They’re beyond my grasp…
+7492||PersonVoice#Voice_Donquixote_Shi_10303.json] 중간 관리자 역할은… 정말 마음고생이 심한 직책인 것 같소… 관리자 나리도 늘 이렇게 힘들었소?|The task of middle management… is truly an arduous one, especially for the mind… Have you endured this struggle as well, Manager Esquire?
+7493||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 으앗!|Uagh!
+7494||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 가벼운 산책을 한 기분이네. 이제 돌아가… 면 오티스 나리가 있겠군. 아이고~|'Twas naught but a quick jaunt indeed. Now I return with a lighter heart to... where Lady Outis awaits. Drat...
+7495||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 검을 잔뜩 휘둘러 버렸네! 이정도로 상쾌하고 개운한 기분이면, 그 고리타분한 이야기도 웃으며 들을 수 있겠지!|I have swung my blade with abandon! Ah, how refreshing, how exhilarating! Now, I may have enough patience to sit through such interminable lectures!
+7496||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 아앗, 하… 그래, 언젠가는… 이렇게 베일 줄도… 알았지.|Aah, haah... Forsooth, well did I expect to be... hewn... myself.
+7497||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 검술에 흠이 있었나보네… 본인이 많이 물러졌나보군. 더 정진하겠네…|A flaw in my techniques... I must have grown complacent. I shall persevere...
+7498||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 즐겁겠군!|How thrilling!
+7499||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 응? 아하, 빗겨베어버렸군…|Hm? Aha, I must not have struck true...
+7500||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 음, 확실하게 갈라지는 감각이었네!|Ah, truly! 'Twas a flesh-splitting sensation!
+7501||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 조금 바쁘네만?|I am quite busy at the moment!
+7502||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 뛰어가겠네!|I shall scurry there posthaste!
+7503||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 으, 으음~ 이렇게 하는게 아니었나…|Uh-ahm~ I-I suppose I have made a mistake...
+7504||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 이보게! 본인이 해냈네~|Heigh-ho! I have done it~!
+7505||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 음? 잠시, 이것만 삼키고…|Hm? Ah, give me but a moment—I must first swallow this...
+7506||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 아, 바깥이 소란스러워서 말일세. 잠시 둘러보며 산책이나 해도 되겠는가?|Ah, 'twas naught but the noise outside. Wouldst thou mind if I should go on a little stroll to investigate?
+7507||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 주도… 라니, 본인은 그런 건 잘 모르네만. 켁, 이거 왜 이렇게 쓴가?!|The way of... Wine? Drinking etiquette? Forsooth, I am quite unacquainted with that subject. Kaugh, 't-tis quite bitter!
+7508||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 좋은 아침일세! 주변이 다소 칙칙하긴 하지만, 흠~ 이 청량한 향취는 좋지 않은가?\n정찰을 하기에도, 이른 아침이 가장 적합하지!|Good morrow to thee! Though the weather may be quite dreary, hm~ This crisp smell of daybreak is quite pleasant, is it not?\n'Tis the perfect time for a reconnaissance, indeed!
+7509||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 음… 밤에는 술과 함께 식사를 하는 문화가 있다는데, 내게는 잘 안 맞는게 아닌가 싶네… 그저 육전이나 실컷 먹고 싶소만!|Mm... I have heard tale of a culture that oft sups alongside an alcoholic beverage, indeed. Yet it ill-fits my temperament... I merely wish to gorge myself on slabs of meaty yukjeon(meat fritter)!
+7510||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 낮에는 검술을 다듬는 시간이 길어서 말일세, 특별히 식사를 하지는 않는 편이지.\n그보다, 정찰에서 무슨 일이 있었는가 하면…|Ah, oft do I forgo a midday meal in favor of honing my skills with a blade.\nForget that, for I must now narrate the events of my reconnaissance!
+7511||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 달빛이 좋군… 검에 상처는 나지 않았나… 후우, 이제 먼지 한 톨도 없군.|'Tis a moonlight most fair... Hath the battle left nicks in my blade...? Whew, not even a speck of dust remains on its edge.
+7512||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 본인은 검이나 실컷 휘두루고 싶소! 이런 곳에서 술 마시는 방법이나 공부할 줄은…\n이, 이 말은 오티스 나리께 들어가지 않게 해주시게!|I wish only to twirl and let my blade sing with abandon! Seldom did I expect me to be forced to learn 'the way of wine'... \n... P-prithee, do not let Lady Outis hear of my complaints!
+7513||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 병으로 마시나, 잔에 따라서 마시나 결과는 같은 것 아니오? 왜 검 외의 것에 그리도 집착하는지.\n그런 것보다 흑운회, 그 작자들이 뭘 작당하고 있는지 들어야 하지 않겠는가?|Sip from a bottle, sip from a cup... what difference does it make? It ends up in my gullet all the same. I am befuddled at why any would focus on a subject so irrelevant from the blade.\nFie, I care not for such trifles. Thou must hear of the mischief the Kurokumo Clan is up to.
+7514||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 본인이 느끼기엔, 검의 궤적을 따라 무언가를 베는 것은 훌륭한 식사를 하는 것보다 훨씬 즐거운 일인 것 같네!\n막, 손끝에 느껴지는 저항감에 두근두근하지 않는가?|Tis my belief that to cut something along the arc of my blade is much more satisfying than indulging in a succulent meal!\nThe sensation of that slight resistance as the blade cuts through the mass... 'tis quite exhilarating, wouldst thou not agree?
+7515||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 행인이 있을 시간이 아닌데 소란스럽더니… 이런 불청객들이 있지 않았겠는가?\n이 시간에는 아무도 지나다니지 않는 것이 옳으니, 본인이 옳게 해두었지.|I sensed that we may find ourselves a few unwelcome guests! I deduced it from the untimely stirring, indeed.\n'Tis only right that no traveler graces the roads at this time. So I have righted all the wrongs.
+7516||PersonVoice#Voice_Donquixote_SwordGroup_10308.json] 검술을 다듬으며 공기를 가르는 것과, 가도를 지나며 베어낼 것을 베어내는 일은 크게 다를게 없네.\n기껏해야… 음, 손 끝에 느껴지는 무게의 차이가 있겠군.|To slice through the air as I train myself in the way of blades, and to hew the deserving ones as I walk the path... there is very little difference.\nIf I were to make a distinction... mm, I must say, the only difference is the weight in my hands.
+7517||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 읏…|Agh...!
+7518||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 평범한 징수절차였을 뿐이네! 빠짐없이 시간을 회수했으니, 이제 돌아가보지.|Mm, 'twas naught exceptional. Now that the necessary time has been collected, let us return.
+7519||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 이런, 회수해야 할 시간 보다 많이 징수해버렸네… 흠, 하지만 체납자가 생명을 다했으니, 남은 시간을 T사 시간 금고로 환수하는게 옳은 일이라는 생각도 드는군!|Fie, I have collected more time than we were owed... Hm, yet... now that the defaulter has unfortunately perished, perchance it would be most just to return all of their remaining time to the T Corp. Time Vault, indeed!
+7520||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 아직 회수해야 할 시간이 많이 남았거늘…|There is yet much time that must be collected...
+7521||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 시간 회수율이 기준치 이하라니… 나는 시간을 잘못 썼고, 실패한 몸이 되었군…|My time collections rate is beneath the baseline...? Ah, thus I am become failure, a fool who knows not how to make the best of her time...
+7522||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 해보겠네!|It shall be done!
+7523||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 아직 징수할 내역이 남았으니 죽지는 마시게!|There is aught else to collect from thee! Breathe not thy final breath!
+7524||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 이런… 대상 사망. 징수 진행 불가.|Fie... target deceased. Collection status: inaccessible.
+7525||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 천천히 말하시게나! 시간은 많네… 라고 하기에는 조금 그렇고 어느 정도 있네.|No need to be hasty in thy speech! For I have all the ti— for I have a moderate sum of time in the world.
+7526||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 징수하겠네.|Commencing Collections, now.
+7527||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 으으, 시간을 잘못 써버렸네…|Aah... 'twas not the wisest use of my time...
+7528||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 이번 업무도 여유있게 해냈지!|Another quest, handily completed!
+7529||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 시간체납자인가! 시계 챙기고 징수곡괭이 챙기고!|A time defaulter, is it?! Get thine watches and collection pickaxes!
+7530||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 시간 징수 집행. 혹시나 그대의 시간이 잘못 빨려들어갈 수 있으니, 거리에 주의하게나.|Commencing Time Collections. Watch thy distance, lest thine own time be siphoned.
+7531||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 아~ 실례하겠네. 본인은 T사 3등급 직원으로 시간 징수를 맡고 있는 몸일세. 왜 왔는지는, 알고 있겠지?|Ahem~ Pray, pardon mine intrusion! I am a T Corp. Class 3 Employee of the Time Collections Agency! Thou must already be aware of our reason for visit, indeed?
+7532||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 좋은 아침일세. 아, 그대는 벌써 점심일지도 모르겠군. 느긋하게 아침을 즐기지 못한다는 건 다소 슬픈 일이지… 이해하네.|Good morrow. Ah, mayhap 'tis already time to prepare for a luncheon for thee? It grieveth me to see a slow, unhurried breakfast denied... I understand thy pain.
+7533||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 음… 밤이 다가오는군. 퇴근 전에 이런 느릿하고 꾸릿꾸릿한 일몰을 지켜보는 것도 제법 운치있지 않은가?\n퇴근을 하고 나면 순식간에 새까매지는 건 조금 슬픈 일이지만…|Ah, thus approacheth the night. 'Tis quite mesmerizing, is it not? To watch as the beige sun creeps ever-closer to the horizon ere we depart from work...\nThough I admit 'tis a shame that, once we clock out of work, the beauty soon gives way to utter darkness.
+7534||PersonVoice#Voice_Donquixote_Tcorp_10309.json] T사의 주요 복지 중 가장 좋다고 여기는 것은! 바로 점심시간 동안 주어지는 TT4 프로토콜이 적용된 수면캡슐일세!\n후후… T사 표준 시간의 30분 밖에 지나지 않았지만, 6시간은 느긋하게 잘 수 있게 만들어주지.|The best of the already wonderful list of employee benefits here at T Corp is, verily, the TT4 Protocol-activated sleeping pod!\nHeh heh... The device permits me to enjoy a lengthy six-hour slumber over lunch, though only thirty minutes may have passed in the T Corp. Daily Standard Time!
+7535||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 아~ 신경쓰지 말게나! 그대가 본인을 방치하더라도, 본인 정도 되는 직원에게는 그리 길지 않은 시간일 뿐이니. 일 보게나!|Ah~ worry not thyself to keep me entertained! 'Tis only a brief moment for an employee of my Class. Go do whatever business it is that thou must see to, mind me not!
+7536||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 시간세를 체납하는 사람은 의외로 꽤 많네. 허가되지 않은 방식으로 시간을 얻어서 쓰다가 적발된다던가 하는 사례는 흔할 정도고.\n물론, 우리 징수직 담당자들이 붙으면 이자까지 전부 되돌려받으니 걱정은 없네!|There are many who fail to pay their dues in Time Tax, not to mention those who are caught 'finding' time in unauthorized manners.\nForsooth, we Collectors make sure to retrieve every debt that we are owed, with interest, so there is naught for thee to worry!
+7537||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 이 시계는 T사에 입사하게 되면 지급받는 것일세! 신분증명용으로도 대체할 수 있지.\n하지만 무엇보다 중요한 건! 이 뒤에 보이는 조그마한 태엽을 감으면…! 업무용 시간을 제공받는다는 것이지!|T Corp. Employment also ensures that thou shalt be bestowed with this watch-and-identification!\nPay heed to this little clockwork knob! Once I rotate this... I shall be bestowed with extra time to complete my missions!
+7538||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 둥지에서, 그것도 날개의 직장인으로서 살아간다는 건 영광스럽고 행복한 일이지! 도시가 올바른 시간의 흐름을 가질 수 있게 조력할 수 있다니, 날개의 깃털로서도 최고의 보람이 아니겠는가!|To be allowed residence within a Nest, as a feather of a Wing no less, is quite the glory! I cannot rightly ask for any other work as honorable as assisting a Wing to ensure the just flow of time in the City!
+7539||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 시간이라는 건 끈적한 유체와도 같지. 시간을 징수할 때마다 쭉쭉 빨려들어오는 것을 보면, 특히 그렇게 느껴지네.|The nature of 'time' is like a body of viscous fluid, indeed. 'Twas my impression upon collecting time; it very much resembled a stream or fluid as I drew it!
+7540||PersonVoice#Voice_Donquixote_Tcorp_10309.json] 아… 이 기계태엽들 말인가. 현장업무를 수행할 때 입는 외골격이네. 성공적인 시간의 회수를 하려면, 징수직의 안전도 보장되어야 하지 않겠나?|Ah, thou wouldst like to know more of the clockwork machines I wear? 'Tis mine armor, an 'exoskeleton' for field missions. The safety of a collector must be guaranteed for a successful retrieval of time, no?
+7541||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 관리자 나리! 끝나고 부탁하오!|Manager Esquire! I’ll count on you once this is over!
+7543||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 회사의 뛰어난 인재가 바로 여기 있군!|Now THERE is a valuable asset to the company!
+7544||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 이게 바로 소위 말하는 엘리트?! 나 승진시켜주시오, 관리자 나리!|Have I become a so-called elite?! Promote me, Manager Esquire!
+7545||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 난… 포기하지 않을 것이오…|I… shan’t ever give up…
+7546||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 내 앞을 막을 자는 없소!|None shall stop me!
+7547||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 지금이 기회인 것 같소!|Now seems to be our chance!
+7548||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 다음은 어디오!|Where to next?!
+7549||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 나는 언제나 달려 나갈 준비가 되었소!|I’m always ready to speed forward!
+7550||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 기차와 같이 달려 나가겠소!|I shall rush ahead as would a train!
+7551||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 중요한 일이었는데, 미안하오…|I am terribly sorry, it was vital that I succeed…
+7552||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 관리자 나리! 잘한 것 같지 않소?|Manager Esquire! I did a rather impressive job, did I not?
+7553||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 출발합니다!|Here we go!
+7554||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 나도 드디어 중요한 일을 맡게 되는 것이오?!|Will I finally be given an important task?!
+7555||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 승객 여러분 안녕하시오!!! 내. 가. 도착하였네!!!|Welcome aboard, dearest passengers!!! I. Have. Arrived!!!
+7556||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 새벽을 여는 첫 기차처럼 오늘도 앞을 향해 달려 나가겠소!|Like the first train breaking the dawn, I shall rush forth with ever-constant vigor!
+7557||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 나 오늘은 회의 때 필기 진짜 열심히 했소! 이것 보시오, 색깔별로 펜으로 다 예쁘게 꾸몄소! 별도 있고 꽃도 있고…|I have done mine utmost to take notes during today’s meeting! Behold, I have utilized a great variety of colors to illuminate the writing! With stars and flowers and…
+7558||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 점심도 챙겨주는 회사라니…! 나 여기가 참 좋소! 백날 천날 여기서 계속 있고 싶소!|To think that the company provideth midday meals…! I am infatuated! I would remain employed here for eons if I could!
+7559||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 그렇게 해서 W사의 성과가 널리 알려지게 된 것… 응? 관리자 나리?|…and that is how the achievements of W Corp. came to be widely kno— Hm? Manager Esquire?
+7560||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 관리자 나리는 W사 열차를 이용해 보신 적이 있소? 없다고 하셨소?! 잠깐… 잠깐 시간을 내주시오.|Have you ridden one of W Corp’s trains, Manager Esquire? Not once?! Hold it, I… Give me a moment.
+7561||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 나중에 우리끼리 기차여행 가는 건 어떨 것 같소, 관리자 나리? 도시락은 내가 준비하겠네!|What do you think of going on a train trip together, Manager Esquire? I’ll pack our lunch!
+7562||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 혹시 로쟈씨 보지 못하셨소? 아니 글쎄, W사의 역사에 대해 내 친히 설파해주겠다고 약속했는데, 아까부터 보이지가 않소!|Have you seen Mistress Rodya anywhere? I promised her earlier that I would give her an extensive lecture on the history of W Corp, yet she’s nowhere to be found!
+7563||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 관리자 나리, 계속 코끝에 맴도는 이 비릿한 냄새는 나한테만 나는 것이오? 아니면 계속 공기 중에 퍼져있는 것이오?|Manager Esquire, is it just me, or is this metallic odor tingling my nose prevalent in the air?
+7564||PersonVoice#Voice_Donquixote_WCorp5_10302.json] 그거 아시오? 사람은 의외로 쉽게 죽지 않소. 피가 넘쳐흐를 만큼 흐르고 셀 수도 없이 뼈가 부러져도 숨을 쉬고 있소.|Did you know that human life is more resilient than it seems? One may still be breathing even after suffering profuse bleeding and breaking most of one’s bones.
+7565||PersonVoice#Voice_Faust_Blackwater_10212.json] …과연.|... Indeed.
+7566||PersonVoice#Voice_Faust_Blackwater_10212.json] 언제나 티끌 하나 없는 끝은 없을테죠. 그러나 그에 가까워지려 노력한다면, 또한 문제도 없을 것입니다.|Perpetual flawlessness is an impossibility. Yet, perseverance in that infinite approach to perfection makes this a non-issue.
+7567||PersonVoice#Voice_Faust_Blackwater_10212.json] 오늘, 부끄럽지 않았습니다. 의를 바로 세우는데 일조하였으니, 내일은 더 떳떳히 살아갈 수 있겠군요.|Today was a day of no shame, for I have made my contributions to bringing about righteousness. I shall face tomorrow with pride.
+7568||PersonVoice#Voice_Faust_Blackwater_10212.json] …삿갓을 바로 해주시죠. 네. 그걸로… 충분…|... Please straighten my bamboo hat. Yes. That is... enough...
+7569||PersonVoice#Voice_Faust_Blackwater_10212.json] …이래서는, 범인이었던 지난날과 다를 바가 무엇인지. …떠오르는 해가 부끄럽군요.|... The rising sun brings me shame. ... My display of incompetence today was no different from my years as an ordinary human.
+7570||PersonVoice#Voice_Faust_Blackwater_10212.json] 불가위야(不可違也). 막아내지 못하리.|Futility inheres in impossibility(不可違也). I will not be restrained.

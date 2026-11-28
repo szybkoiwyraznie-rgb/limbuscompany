@@ -1,0 +1,79 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Popatrz na niego. Zawsze bez słowa robi swoje. Gdyby tak choć w połowie…",
+      "kr_sha256": "6f82aeda91d786a8aaea590229ff2d820f936c19fa52b7cab61fb6e75ead320e",
+      "en_sha256": "262b1a7fa389a503179eda14038ce0e301e0f030a5b20f95e4e497a512029c8e"
+    },
+    "dataList[id=10].content": {
+      "pl": "No ale trzeba mieć jakieś wyczucie… Jakby cię obgadywali, też byś tak siedział?",
+      "kr_sha256": "a8ca914b277c050c05e404b4b2eb65cffa7f3cd024ff102d760e0b4de4ae43a1",
+      "en_sha256": "3af236bb4ed3c2973c0674c5c07702e503733625e1d65b59b908c216f1b50c20"
+    },
+    "dataList[id=11].content": {
+      "pl": "Dopóki nikt nie robi mi krzywdy.",
+      "kr_sha256": "da745a2f75ac1a022b2fe00212d44f28b26944197e1ee4ccc551e9e905b0a030",
+      "en_sha256": "8a47d5731d0cc2a590c6f4c49989ad704cb96956374cf54c7fba442c3cd8ce5d"
+    },
+    "dataList[id=12].content": {
+      "pl": "Powiedziawszy to, dziecko w milczeniu wróciło do pracy.",
+      "kr_sha256": "eb82641a75591d4d34933de8d42696185361c012d325b5834511f5c566448099",
+      "en_sha256": "5e12eab57da16a4d69469e1675c35bdf0f91b370b9fb568b611bb3a6df429fb0"
+    },
+    "dataList[id=13].content": {
+      "pl": "Marudzące dziecko wciąż wbijało w niego lodowate spojrzenie…",
+      "kr_sha256": "649ad9363b3027e4bf563d8d5f8310f7f0eda04b61b259c23bf8a98a7409c105",
+      "en_sha256": "88c83e771878944a9f8f5aab0c76fe359d4aa107d2da6c9e50dc5590eff9e94f"
+    },
+    "dataList[id=14].content": {
+      "pl": "…ale ono do niego nie dociera.",
+      "kr_sha256": "71c9754df196f711002674940d1f5a14e98e178e3a6b604b5e6ee8a1f193f6d4",
+      "en_sha256": "2e6f4caa49fd03dc0b344786382f91f51a3f027cd995b48d48f5df095705504b"
+    },
+    "dataList[id=1].content": {
+      "pl": "Bierz z niego przykład - pewnie tak chciało dokończyć dziecko, ale zacisnęło usta.",
+      "kr_sha256": "308e45236446fbfc5f381935125a16add61da8c1388572e5693acb819650863c",
+      "en_sha256": "404db50fd1a763f83c8b79ea44ffb023aab0f2b984fb3eebe5c62dd87ca20466"
+    },
+    "dataList[id=2].content": {
+      "pl": "I zaczyna mówić o czymś innym.",
+      "kr_sha256": "4fff378a509fdf9e5616f905387a1e5d17924f3d1a764b4ff5d20befed47b0ee",
+      "en_sha256": "0f8130a0df57a63729de5efd30287e12d06b6d44bb6a847140a6eddb4b27424a"
+    },
+    "dataList[id=3].content": {
+      "pl": "Nie, jednak nie bierz z niego przykładu. Szczerze mówiąc, z nim też nie jest przyjemnie.",
+      "kr_sha256": "1823dd3211e8c00626c074ad2f4f308f044c46a49460759ea30c9d31bf3b971a",
+      "en_sha256": "e563c802322583a2870f71ffb67be06b19fd12f06c597a8e476d4de616f3076f"
+    },
+    "dataList[id=4].content": {
+      "pl": "Mniejsza z tym.",
+      "kr_sha256": "e2d8dbd5753eb1262e58ac70d85e5f5d76a2adf445b2916a7ebc06596580c519",
+      "en_sha256": "06f0a788f81188cef929903a8aba54308ab4211f66800490b12a84074c88b5d6"
+    },
+    "dataList[id=5].content": {
+      "pl": "Dziecko, o którym mowa, w milczeniu robi swoje.",
+      "kr_sha256": "8e814479cc3ee365648eb07f1b7b2cb8f7ba7e8de12870c36096d78a1ca69c66",
+      "en_sha256": "dacf1d584e18cee75a3045b7e289be5aefca0f0835a62e676beeb48628e62aa2"
+    },
+    "dataList[id=6].content": {
+      "pl": "Wysokie dziecko o chłodnym spojrzeniu nie miało niczego w uszach, a jednak było tak obojętne, jakby nikt o nim nie mówił.",
+      "kr_sha256": "340129f500012425e72f5eff1e9b45c15f8b6f74f3cc7438115b0bcc8e61dd36",
+      "en_sha256": "c643a65599542e5115d8f0b08c0085e89eae0f391f32e99a68f038d8623561cf"
+    },
+    "dataList[id=7].content": {
+      "pl": "…Ej, jak mówią o tobie, to chociaż się odezwij.",
+      "kr_sha256": "01a1768acc9663654d54b5e36d6629516fced3e2fec10ed715fbccb2954c6f76",
+      "en_sha256": "4bd18c4261891f834a84b113f548b8b8e8133b712dcadb201e5fc471082c000b"
+    },
+    "dataList[id=8].content": {
+      "pl": "Marudzące dziecko najwyraźniej porządnie to zirytowało. Dopiero wtedy wyrośnięte dziecko spojrzało na nie i otworzyło usta.",
+      "kr_sha256": "aaa11e7eadded22ac7bebec013cf277d2c18f0ce950c3e1846afaef024fa9c36",
+      "en_sha256": "81bbdc002c02ca3e2e010fd2f6993223081c489528438d8fb42ec130c2b9f437"
+    },
+    "dataList[id=9].content": {
+      "pl": "Nie odniosłem wrażenia, by ktoś domagał się ode mnie odpowiedzi.",
+      "kr_sha256": "fc88aa02b7e49a56995e570a0ff9c341b6cec4857537ffb29339211ba3dbfb3d",
+      "en_sha256": "546c763f935542c10cbbfca7b1fb3efc4d5a50f1370e69b28d9594c47d632f05"
+    }
+  }
+}

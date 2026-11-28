@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=1109].flavor": {
+      "pl": "…Bolało. Rozszarpali mnie. Ale teraz mnie chronią. Dziwne. Teraz mi dobrze. Choć wciąż boję się, że znów sprawią mi ból…",
+      "kr_sha256": "78527d29f56a6c0cb3a8f3ba069366a7696d3b3b10dc1df31d97bd4ce5bd0da5",
+      "en_sha256": "26d3d922b62522a7f1860b5ffd6e6087304d08b08913593ee7d880f635e6981e",
+      "origin": "ai"
+    },
+    "dataList[id=1109].lowMoraleDescription": {
+      "pl": "Zyskaj 3 [Protection]",
+      "kr_sha256": "8bceef2037b751f5f7843a328a9d0955b250b6625ba75d9192d0791c2d4ea1e3",
+      "en_sha256": "880fc2babe037feb3fa8c6e7d67c33c5759603174b88ca306bbf53a4ec4585b5",
+      "origin": "ai"
+    },
+    "dataList[id=1109].panicDescription": {
+      "pl": "Zyskaj 5 [Protection]",
+      "kr_sha256": "a770abd603c5a61cb714763ae3cbb0ca7dac2eb609c4becfc3c6ce7a98ab8002",
+      "en_sha256": "10a3efebdf8a91793a6d532c1cc117dbd167cf8d491427ff346672a552d330ff",
+      "origin": "ai"
+    },
+    "dataList[id=1109].panicName": {
+      "pl": "Niezapomniany Ból",
+      "kr_sha256": "94d2be1070d73d6cf07821204f29062ac0e63145d833efd76fec53f67f87f4b5",
+      "en_sha256": "6c9c688797a2b5c9828b5c0ba60682fa60d9e65b6d23355fc3ebc2212a5c06cf",
+      "origin": "ai"
+    },
+    "dataList[id=1110].flavor": {
+      "pl": "Dłonie zaczynają mi drżeć, nawet nożyce nie tną równo… Tak nie zdołam już wykroić formy…",
+      "kr_sha256": "112fe3c1e8a20966cb8f95138496e81b6fdd81361242c08ca7ff2d861ecdba99",
+      "en_sha256": "2c5b4f2aa7b6667e94ff480a12394628b1343a912472b14ca0581324b16a9e19",
+      "origin": "ai"
+    },
+    "dataList[id=1110].lowMoraleDescription": {
+      "pl": "- Otrzymywane obrażenia +7,5%\n- Przy każdym otrzymanym trafieniu zyskaj +1 Licznika [Vibration] (raz na umiejętność, maks. 5 na turę)",
+      "kr_sha256": "9bed7b752655db31fada9030b59a72564d3161aae40d44abff71289f07e123e0",
+      "en_sha256": "1b922d97cade5f9518dcc29d21ad7d24fa14f7ea5409b74151fa6631e0bcacb0",
+      "origin": "ai"
+    },
+    "dataList[id=1110].panicDescription": {
+      "pl": "- Otrzymywane obrażenia +15%\n- Przy każdym otrzymanym trafieniu zyskaj 1 Siły [Vibration] oraz +1 Licznika [Vibration] (raz na umiejętność, maks. 5 na turę)",
+      "kr_sha256": "3e890eea87113f3702a803b11d100327a6b5ef3e2ef73061bd57731e154dc1c6",
+      "en_sha256": "2e22cc1a6beed1b123178041f182c1cc74587774d8f3ee27c0297617a149cb1e",
+      "origin": "ai"
+    },
+    "dataList[id=1110].panicName": {
+      "pl": "Drżące Dłonie",
+      "kr_sha256": "32e0925fc4eb01bb22d2007dcc28e38a4a609a274afbd52fa29cc35220d83878",
+      "en_sha256": "e7f69ca37518aa05c21399ff20f3d0a4117ff95b4538615dec40fb270dbf280a",
+      "origin": "ai"
+    },
+    "dataList[id=1111].lowMoraleDescription": {
+      "pl": "Poziom Ataku -2, Poziom Obrony +2",
+      "kr_sha256": "a8ee90177b3e1e91c2ac4f9c6b2cf49c09d1d170be9350f4cc5c0fb2faa7dd87",
+      "en_sha256": "fd6b2a1d61ea2cea28dd452535985e4c3cbe82e80e167c883dcd2ce0b2fbfd14",
+      "origin": "ai"
+    },
+    "dataList[id=1111].panicDescription": {
+      "pl": "Poziom Ataku -3, Poziom Obrony +4",
+      "kr_sha256": "1f809cbd20e7445aacbac8255995b2b64a2fe4e61eff71fca20d3c7e887cbbe7",
+      "en_sha256": "1fbb74a8c316bc290fcb7bb2ebbea791d7d02d6df5ae45932093c00e2efd3bf5",
+      "origin": "ai"
+    },
+    "dataList[id=1111].panicName": {
+      "pl": "Do Pierwszej Skorupy…",
+      "kr_sha256": "cf6f27c7d8afb7aa19dd7b0fc2ca1f581d6849390d83b74b720f480d9d51aec4",
+      "en_sha256": "7da83223631af47105842e2064efba10cdf27cccd54dc52f7a41bb7882715dd2",
+      "origin": "ai"
+    },
+    "dataList[id=1112].lowMoraleDescription": {
+      "pl": "- Moc Końcowa umiejętności +1\n- Początek Tury: nałóż 1 [Reduction] na wszystkich pozostałych sojuszników",
+      "kr_sha256": "bd9a3dba555155772f5f3b9d9d02c2721c0cc43c4f8ec2f83cecb3fcc7d4fe55",
+      "en_sha256": "0773cea40349d8bba5b30cc475050b41d545d0911fa86304be50fed3d76c6953",
+      "origin": "ai"
+    },
+    "dataList[id=1112].panicDescription": {
+      "pl": "- Moc Końcowa umiejętności +1\n- Początek Tury: nałóż 1 [Reduction] oraz 1 [AttackDmgDown] na wszystkich pozostałych sojuszników",
+      "kr_sha256": "8d4f24a81b03c64081d60af0cd00e355821b17dedb74af96f6cce9676e36cf5e",
+      "en_sha256": "3023d0efe46357c757a5cb030297ac1b62523abe5aae922565f15d6cc04e1101",
+      "origin": "ai"
+    },
+    "dataList[id=1112].panicName": {
+      "pl": "Utrata Nadzoru",
+      "kr_sha256": "a9d502fe95d66adfbd3d0f35448dab669c25214d8d4b833740490bfd29861055",
+      "en_sha256": "a4a47e58a944fbf551d8cfb52180afd5066d1939faab97ce1779ebf7b8bea904",
+      "origin": "ai"
+    },
+    "dataList[id=1113].flavor": {
+      "pl": "Szaleje z gniewu, rozpacza i wyje, lecz te uczucia to jego karma. Narodziny są splecione ze śmiercią, a ono tuliło jajo, nie wiedząc, że powołanie czegoś na świat oznacza zgodę na ciężar jeszcze większej straty.\nNie ma w tym dobra ani zła — jedynie głupota.",
+      "kr_sha256": "28d56ecf46e934ce149beb7501e9edc8638ac3999cd8957721c73bd740c89e04",
+      "en_sha256": "4b2cb097875ed79d0f015a3d4b30f99611f7b7dc5fe538f0e09eacf7d38980b8",
+      "origin": "ai"
+    },
+    "dataList[id=1113].lowMoraleDescription": {
+      "pl": "- Niskie Morale\n- Przy Użyciu Umiejętności: <color=#ff6000><mark=#ff000040><b><u>jeśli głównym celem jest Pwie, Moc Starcia +3, Moc Bazowa +2</u></b></mark></color>\n- Przy otrzymaniu trafienia: nałóż 1 [TangleBlackYarn] (3 razy na umiejętność)",
+      "kr_sha256": "e4e9ccc71440e7a15f4066eb2857c07814bb585f92bf5b38ef6194ed9133dcfd",
+      "en_sha256": "9ab73dfde76d37cafdeef9f100b3ce188cc3decece3080f7de43fe71dff5db4f",
+      "origin": "ai"
+    },
+    "dataList[id=1113].panicDescription": {
+      "pl": "- <color=#ff6000><mark=#ff000040><b><u>Wszystkie ataki celują w Pwie</u></b></mark></color>\n- Początek Walki: zamień wszystkie Monety umiejętności na <color=#ff6000><mark=#ff000040><b><u>Monety Niezniszczalne</u></b></mark></color>\n- Przy Użyciu Umiejętności: <color=#ff6000><mark=#ff000040><b><u>jeśli głównym celem jest Pwie, Moc Starcia +6, Moc Bazowa +4</u></b></mark></color>\n- Przy otrzymaniu trafienia: nałóż 1 [TangleBlackYarn] (6 razy na umiejętność)",
+      "kr_sha256": "04fc9c95ff319073e7778dc9e9cbee80214c7db72b1ed2e54732d4883644d245",
+      "en_sha256": "7e856b18ad0d7041164b62f323a260e32f519a60cf3073687aeb4c5e597c0952",
+      "origin": "ai"
+    },
+    "dataList[id=1113].panicName": {
+      "pl": "Utrata Dziecka",
+      "kr_sha256": "5672d688023ccf2ab90cec249748d959082c1285763fab960155beada1b213c7",
+      "en_sha256": "94d5c6ff576310bf4521502a375effdf65ec66054090c3a2ddbf0605665cc81d",
+      "origin": "ai"
+    },
+    "dataList[id=1115].flavor": {
+      "pl": "Czy można unieruchomić coś, co porusza się szybciej od nas samych?",
+      "kr_sha256": "62f3dc76a85ec3ec35adcc8133965a01c0f84a6621f0c3ae1d0736fcf70c99bc",
+      "en_sha256": "a4cde08f45bcc16cc46f41b4ed9772567b0239909b19c9110c0e8b2a172a988e",
+      "origin": "ai"
+    },
+    "dataList[id=1115].lowMoraleDescription": {
+      "pl": "Umiejętności zadają -5% obrażeń celom o niższej Szybkości od tej jednostki",
+      "kr_sha256": "2df70e4b1776ee61cc6f5b996043c9c28e5850b9edd2480df641aa688e9c9dc8",
+      "en_sha256": "5a813775eadb2bc23f4b94264ed93d13a719d434f47cb1e5428f0c2c23aff812",
+      "origin": "ai"
+    },
+    "dataList[id=1115].panicDescription": {
+      "pl": "Umiejętności zadają -10% obrażeń celom o niższej Szybkości od tej jednostki",
+      "kr_sha256": "008ec8c6c26a54c8bbd938e4165f8ed6afc23c64736f6711a46177fca416f6ef",
+      "en_sha256": "e03463e215686e98dae56b15c8b252098b8cbe5c9cf543912dbd26a4430b9ade",
+      "origin": "ai"
+    },
+    "dataList[id=1115].panicName": {
+      "pl": "Zacięcie Maszyny",
+      "kr_sha256": "23f7f391c7c2966d4c56fa216b11eb6655b32c71fa5b7ece2e725d061859e34b",
+      "en_sha256": "33fcc3665c0d211fa7bc69e1a377f1cd1fd19f5f610900d9b7ec682427423971",
+      "origin": "ai"
+    }
+  }
+}

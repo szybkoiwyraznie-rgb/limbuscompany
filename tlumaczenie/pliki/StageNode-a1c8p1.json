@@ -1,0 +1,118 @@
+{
+  "entries": {
+    "dataList[id=10801].title": {
+      "pl": "Powrót do Domu",
+      "kr_sha256": "7152a33734c1e2c5549f3d7801cb4eddccf790a146f7800daa39e7fa1df8c821",
+      "en_sha256": "a6ebbadff605c87c4d814e550f56440ab06721ce93f25d8e62551854486e44e2",
+      "origin": "ai"
+    },
+    "dataList[id=10802].title": {
+      "pl": "Bicie Dzwonu",
+      "kr_sha256": "275ad073ed2e61276e2dc9b6c3e9a31f731f5ce1cb98f646b9857fb876b80a8b",
+      "en_sha256": "c4bec5d95fd9c8d56e08066bebfbfa0c2c196b6522e4207ecb82e891042443b1",
+      "origin": "ai"
+    },
+    "dataList[id=10803].title": {
+      "pl": "Zakłócenie",
+      "kr_sha256": "f06ff098a37b7817d7ff9bc88ccca7c0ab469cf970eaab7829ea5ac9789077a6",
+      "en_sha256": "aa70a305f3f29f69960858fbb87922006e799bfc72fc731ee060673ecc877dd2",
+      "origin": "ai"
+    },
+    "dataList[id=10804].title": {
+      "pl": "Zakłócenie 2",
+      "kr_sha256": "c8dc43e8b0b30a963a15357a4d894784c6626e7ff34a9b84408f0767023ca710",
+      "en_sha256": "9388d7cc6c51e56e080b43371f4ee82b6392d2e8ff9cbe6dd89e4ecce6ae4d9f",
+      "origin": "ai"
+    },
+    "dataList[id=10805].title": {
+      "pl": "Płatki Kwiatów",
+      "kr_sha256": "355eac92eb8ad1f2b2a0db619ea79beb155a3b37b2414fc07d0d82a8be83f502",
+      "en_sha256": "2a507212b229e94a284146f39ac831607f6a78e213fbe422a6e6586643804446",
+      "origin": "ai"
+    },
+    "dataList[id=10806].title": {
+      "pl": "Jia Baoyu",
+      "kr_sha256": "2840fb6f6ed83344ce1ea4fc6a732055f350e8a44a04779abc429e42e0adbddd",
+      "en_sha256": "3a53ec0aeed51c9971e5e9b2593fc3737bcac3f39db291fa12fbacb9bc9a9a63",
+      "origin": "ai"
+    },
+    "dataList[id=10807].title": {
+      "pl": "Xue Baochai",
+      "kr_sha256": "1a2208aa9ff59ef9527c403cc81fb45503cfe20030f0c0e64d72857707e92a79",
+      "en_sha256": "b372d544078bd945d3f3c1818bf48451df01baca007250f7fab5be982cfae91a",
+      "origin": "ai"
+    },
+    "dataList[id=10808].title": {
+      "pl": "Yihongyuan",
+      "kr_sha256": "3b997b0f0d80695742fd8fd416191c4fe9eafd0a452caea0b9cbfd04794d2ce4",
+      "en_sha256": "4c4cefd0b2a17657acccb87a376546646bc15bfe7cf1f768d81644f1579dff3d",
+      "origin": "ai"
+    },
+    "dataList[id=10809].title": {
+      "pl": "Plac Ćwiczeń",
+      "kr_sha256": "3e3b57f382c08a0792325a95be5791af89be4ab43ec6a1564cfdec97ece08670",
+      "en_sha256": "670a1427b19b66c3d6378a53de4be9abd583807b048f60444f9e7330ed9e4b44",
+      "origin": "ai"
+    },
+    "dataList[id=10810].title": {
+      "pl": "Wieczna Młodość i Nieśmiertelność",
+      "kr_sha256": "1fda666a6a7a40d0836b3b444bf8b150836b0eca3fc158ee72af319717438de4",
+      "en_sha256": "0e369d8fbe1310d07513cb0bfc71b35dbe3cbc6572022bd7482edd78356ddf1c",
+      "origin": "ai"
+    },
+    "dataList[id=10811].title": {
+      "pl": "N Corp.",
+      "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
+      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb",
+      "origin": "ai"
+    },
+    "dataList[id=10812].title": {
+      "pl": "Kciuk",
+      "kr_sha256": "c6074807bf7d2262dd3dcd65009c681c6a662e3e5878fe0cb6c34288e532ff82",
+      "en_sha256": "1cf89f22a3575bc0bab00d2fc360b789269ee9b6aaafd90e4c84847eca221f4c",
+      "origin": "ai"
+    },
+    "dataList[id=10813].title": {
+      "pl": "Deklaracja Udziału",
+      "kr_sha256": "48c20b4c7675763465737b8abaedb012b858bd6b4d7879ec28c47271d56e5782",
+      "en_sha256": "6892ec9d58ececa214d063fac30a5690514fb1d3f790d0fcef11e04465c0fec3",
+      "origin": "ai"
+    },
+    "dataList[id=10814].title": {
+      "pl": "Jia Xichun",
+      "kr_sha256": "63aa4b10918084a2b8d516e742d6722fa47f4ac98e67a1eb10dd73a061de9995",
+      "en_sha256": "6383cb51f0bb0b5faa0a0db4df1e7015ebecce11ed6cc9471c61111a8108b140",
+      "origin": "ai"
+    },
+    "dataList[id=10815].title": {
+      "pl": "Intruzi",
+      "kr_sha256": "859f7343e204698509a35b90bb0146b1e2b02b949911de1bcf0a325f30ee27cb",
+      "en_sha256": "2ab8eecb2ac266970985622d8525a271a4ddc47f0c73e188585e9b713af40e3c",
+      "origin": "ai"
+    },
+    "dataList[id=10816].title": {
+      "pl": "Nocny Atak",
+      "kr_sha256": "aff8b0a77278554c85eec39a43fd4cbff9ebca8bf885f4e8cc40cb8007e7ebb1",
+      "en_sha256": "b33c0bdd0effc475a3816c85d948bf47b62885b41eb08d8ea1b47d3809987b6a",
+      "origin": "ai"
+    },
+    "dataList[id=10817].title": {
+      "pl": "Nocny Atak 2",
+      "kr_sha256": "297fc7ea060cbcdbb2d4cf20bb969bef4b4d1b71e65f3bb01a9a160e79bc919f",
+      "en_sha256": "6f5e4af190c9e170d26e5694185e76fadbbadcda35ec82b499bf855c81326370",
+      "origin": "ai"
+    },
+    "dataList[id=10818].title": {
+      "pl": "Xiren",
+      "kr_sha256": "fc9ef71ff1c2f94a21a55f5e90010665238d99be087c582e0944d884610812d3",
+      "en_sha256": "a21801d49d12b77a78a434dc73034fa0b7cb388d19f6e6c41881f4a1b322104e",
+      "origin": "ai"
+    },
+    "dataList[id=10819].title": {
+      "pl": "Lin Daiyu",
+      "kr_sha256": "ed674aca205a68c4681a95372fa25ec1c244d7aadf1b605e3340b0cf34503c4e",
+      "en_sha256": "e4c9190a394f78e9e1c24e9140f2cb5b0196a3f4f298cca160a27e47d5415363",
+      "origin": "ai"
+    }
+  }
+}

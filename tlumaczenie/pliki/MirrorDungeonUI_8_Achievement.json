@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=mirrordungeon8_mission_date].content": {
+      "pl": "Nagrody można odebrać do aktualizacji Lustrzanego Lochu #9.",
+      "kr_sha256": "9d8c7d6cb4170456c8d467c4f900ffaae3adbdfde72bd371cffb4164783b1b6f",
+      "en_sha256": "2765e7b431e5bad470e18cd63e31b09815848f05cf1463b32b08fcd24ad3fffc",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_ALL].content": {
+      "pl": "Postęp ogólny",
+      "kr_sha256": "0e6ee8c11c7482956bf67f5e08ec9eb19ca160cd9a3c12811b64c533e449a2d6",
+      "en_sha256": "1b0756255a1c7f0164e90e7c3918f905a895913e5d2a4914a00098dd95789e6f",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_BATTLE].content": {
+      "pl": "Walka",
+      "kr_sha256": "62d08c54f0033da2bf9ef04bf651d69c4f6b75e11296520002ef28afb5b956d3",
+      "en_sha256": "49fcf2c78b506b3e32115f752124e4ee1b998f4f578cc2d35425e6ee3eb203a6",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_CLEAR].content": {
+      "pl": "Ukończenia",
+      "kr_sha256": "34d2fe4296c1f03767eeeb6d3714cf7d827973b0da873a4f5c65cf1614fe1c41",
+      "en_sha256": "4a29e5ed67a5558e659722feba3be891adb7c0637d274041989e9d50356724f2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_COLLECTION].content": {
+      "pl": "Kolekcja",
+      "kr_sha256": "84a45227280159ccb0a26f0ba1f221b74f7263921fd67c390f777f5d4cb797fb",
+      "en_sha256": "7b790708ff1b171315a152018f3712e8c71c82f4f9000635f77a1336c34f1893",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_DECK].content": {
+      "pl": "Skład",
+      "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
+      "en_sha256": "7455d4640a6d1d6debfd0524af90d48d2f2c7981e52b67a2295f600e1ee35043",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_EXTREME].content": {
+      "pl": "Utrudnienia — EXTREME",
+      "kr_sha256": "b67814f07db75566ac94c432fe78403f1fe6f1337b11493a2ae4dc41a72ce6e7",
+      "en_sha256": "94f9e4f505705934f09a41920eb5d07cfb3c9fef3f4dc751a9132fbb4b31775a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_HIDDEN].content": {
+      "pl": "Ukryte",
+      "kr_sha256": "27f98a09be796df6a0024b1b4eb04bd8b1d55e27d8883e6055982f231c41e3ef",
+      "en_sha256": "7e6fefff0f0aeb6ca93086d3855d0406bdd0ee53b56771f8c794cf07af6598b7",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_mission_category_title_MIRROR_DUNGEON8_SHOP].content": {
+      "pl": "Sklep",
+      "kr_sha256": "de9d31548e094efd2662817e016df5b801698752a92f7dff333280378a7584a9",
+      "en_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "origin": "ai"
+    }
+  }
+}

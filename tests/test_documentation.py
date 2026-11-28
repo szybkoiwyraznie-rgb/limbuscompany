@@ -23,6 +23,7 @@ GUIDES = (
     "docs/INDEX_FORMAT.md",
     "docs/LANG_FORMAT.md",
     "docs/PAKIET_TLUMACZA.md",
+    "docs/PLAN_TLUMACZENIA_AI.md",
     "docs/CZYTANKI.md",
     "docs/EXPERIMENT_LOG.md",
     "docs/PRIOR_ART.md",
@@ -35,7 +36,10 @@ INLINE_LINK = re.compile(r"\[[^\]\n]+\]\(([^)\s]+)\)")
 
 
 def markdown_files() -> list[Path]:
-    skip = {".git", "local", "google_drive", "build", "dist", "artifacts", "node_modules"}
+    # `zwrotki` wykluczone: to korpus źródłowy KR, nie dokumentacja — teksty KR
+    # zawierają literowe sekwencje `](...)` (np. partikula `[{0}](과/와)` w KR
+    # itemu 633 P32), które regex linków markdown błędnie bierze za odnośniki.
+    skip = {".git", "local", "google_drive", "build", "dist", "artifacts", "node_modules", "zwrotki"}
     return sorted(
         p for p in ROOT.rglob("*.md") if not skip.intersection(p.relative_to(ROOT).parts)
     )

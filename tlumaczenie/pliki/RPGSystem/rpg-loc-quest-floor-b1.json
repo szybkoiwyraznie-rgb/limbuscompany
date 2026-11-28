@@ -1,0 +1,166 @@
+{
+  "entries": {
+    "dataList[key=Q-1000].steps[#0].goalDescription1": {
+      "pl": "Wejście na poziom -1: Salon Spożywczy",
+      "kr_sha256": "14bea4841c0986ec4c973e2ac05edc3dd15926f7d82907296bdb5d50549cce34",
+      "en_sha256": "6f2258d27078af62e0b68d471fe72a5a2450a7450a1e874fcbdc15fdaf56e246",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1000].steps[#1].goalDescription1": {
+      "pl": "Rozmowa przy wejściu do Salonu Spożywczego",
+      "kr_sha256": "477f5f6c8506e3e55f20f5ee304850fdc56f4b8481f8a42d84122bf30fe7c3ce",
+      "en_sha256": "97b23d79256ba2bf18a3263314d90ca49793b7e4f6c302e6e4b6a6d97e309769",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1001].description": {
+      "pl": "Boucher przygotował dla nas „danie” zwane Złotym Kokonem. Teraz trzeba znaleźć drogę na poziom -2. Sprawdźmy przejście w dolnej części korytarza, którym szliśmy.",
+      "kr_sha256": "3da19115735eacf2262695411f812b120aea163f85119386ca664ed8102545ee",
+      "en_sha256": "a4f7be57e0da40ee7a131ece719a549566faf013fe593cdc546af3f6a35b7082",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1001].steps[#0].goalDescription1": {
+      "pl": "Udaj się na poziom -2",
+      "kr_sha256": "787e87ffca96842ec8f8a1e249a94b2050de396e96dbc7d4fdd600a30cc443c3",
+      "en_sha256": "5432f1730a70a1b4f74200d603fab84bf2328c624ed9a3b40a6805a1d5c810f9",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1001].title": {
+      "pl": "Udaj się na poziom -2",
+      "kr_sha256": "787e87ffca96842ec8f8a1e249a94b2050de396e96dbc7d4fdd600a30cc443c3",
+      "en_sha256": "1b46f0f35167f639e5eb3316bc9acd01422d0863a7c5df6bbe685b946e3a4c1f",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1002].description": {
+      "pl": "Trafiliśmy do miejsca wypełnionego schodami ruchomymi prowadzącymi, nie wiadomo dokąd. Zbadajmy je i znajdźmy te, które zawiodą nas na poziom -2.",
+      "kr_sha256": "cc5b5a062f24acec097259be3e55338c8be5b4f051572ef00b60718d4041b5dd",
+      "en_sha256": "ed1c6f226de4c835adc339e369e03e9d57838f6635bbe05bb39979e319aac479",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1002].steps[#0].goalDescription1": {
+      "pl": "Zbadaj schody ruchome",
+      "kr_sha256": "5a1ed763857497f44e58b9287b531b5a575016cb898be2fc0b0a8224776c645f",
+      "en_sha256": "7b466f4f13f7e9b343a051a7490d7dbb2117d2072785eb454a3399735fe35d33",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1002].title": {
+      "pl": "Poszukaj schodów ruchomych w dół",
+      "kr_sha256": "3dca85ddc19bbd22aab9d3af91c8f7724820b5b005b80a925636897085ea11e6",
+      "en_sha256": "7a1618845fc19906b5731d6d49e9e7e6f407d453c142956b0fc2226fac73007c",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1003].description": {
+      "pl": "Zeszliśmy na poziom -1. Podziemia wyglądają zupełnie inaczej niż sklepy na wyższych piętrach. Żeby znaleźć kokon, dobrze będzie udać się do miejsca zwanego Strefą Gastronomiczną. Poszukajmy miejsca z narysowaną muszlą ślimaka na podłodze.",
+      "kr_sha256": "816ba32867b33c2fd815a5449c8cb1617170039a7e4b4e88de04d9bf76b91aa9",
+      "en_sha256": "b7d3a99cc83cc20eb837dde7f0c0f098bc324eec9233847e732b69c351c20de5",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1003].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Strefy Gastronomicznej",
+      "kr_sha256": "96c6f0955ae544b62d73676e1a156e29ffb75d140a590abad0bf4e063acc44ff",
+      "en_sha256": "2b148ca6d6ce1fa96718d57f5189f45f04eaaed958da99ad2d5974a7bb3be0a6",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1003].title": {
+      "pl": "Udaj się do Strefy Gastronomicznej",
+      "kr_sha256": "96c6f0955ae544b62d73676e1a156e29ffb75d140a590abad0bf4e063acc44ff",
+      "en_sha256": "2b148ca6d6ce1fa96718d57f5189f45f04eaaed958da99ad2d5974a7bb3be0a6",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1004].description": {
+      "pl": "Poznaliśmy kogoś zwanego „Sous Chef”. Podobno widziała Złoty Kokon w magazynie kogoś o imieniu Boucher. Pędźmy za uciekającą Sous Chef i wyciągnijmy od niej więcej informacji o Złotym Kokonie.",
+      "kr_sha256": "291f7570ac2e823723a5e94ffe5e4c5f6fcff93368979a6260b82227caa59f8b",
+      "en_sha256": "31f937286928c72faae27ebed551b0a20e8fb1dfbccce4f9133e26bedbd9896e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1004].steps[#0].goalDescription1": {
+      "pl": "Pogoń za Sous Chef",
+      "kr_sha256": "1568e388fe6ad43dc4271a6b74906b7f31acb9fe692f05cba99cc40ceaa0fc4e",
+      "en_sha256": "9c736ddeca616ef7ea4632e29dec4b4e5117f23bb6d531a8dc1b236380c1d1b4",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1004].title": {
+      "pl": "Pogoń za Sous Chef",
+      "kr_sha256": "1568e388fe6ad43dc4271a6b74906b7f31acb9fe692f05cba99cc40ceaa0fc4e",
+      "en_sha256": "9c736ddeca616ef7ea4632e29dec4b4e5117f23bb6d531a8dc1b236380c1d1b4",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1005].description": {
+      "pl": "Od Sous Chef dowiedzieliśmy się o Boucherze, Kierowniku Piętra poziomu -1. Odwiedźmy go i zapytajmy, jak można zdobyć Złoty Kokon.",
+      "kr_sha256": "f0aa56c7c4d422dc9cdca96cff6f8856b56970651cf9dbf1535d7389ba82e283",
+      "en_sha256": "ffa2948c986a2540e541c444bb7b525b837fda17dc5c1cd74e98c9bf041a7788",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1005].steps[#0].goalDescription1": {
+      "pl": "Odwiedź Bouchera",
+      "kr_sha256": "5ac58413b725d87c5e3e90f2d3a39c5ebd17ffef81eb0abb9168b81aaa60088e",
+      "en_sha256": "b1c9cc29267c9ff8311d458c087425426b227205eff4789a746194c67819f76c",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1005].title": {
+      "pl": "Odwiedź Bouchera",
+      "kr_sha256": "5ac58413b725d87c5e3e90f2d3a39c5ebd17ffef81eb0abb9168b81aaa60088e",
+      "en_sha256": "b1c9cc29267c9ff8311d458c087425426b227205eff4789a746194c67819f76c",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1006].description": {
+      "pl": "Boucher odda swój Złoty Kokon… ale tylko w zamian za kawał mięsa zwany „Rozmyślaniami Ofiary”, wiszący gdzieś w Stoisku ze Świeżym Mięsem. Znajdźmy ten kawał i przekażmy go Boucherowi.",
+      "kr_sha256": "768f8bba26535675234fcb2efce029eaf01921c3d3d0665f975bbf4f2714de7f",
+      "en_sha256": "80048e857b3a26169512a0a0720267c3dd148bfed5b8055f4c07c2c868aba276",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1006].steps[#0].goalDescription1": {
+      "pl": "Przynieś Rozmyślania Ofiary",
+      "kr_sha256": "bae2fd5a1e31e14ffce49930e2452e5a2280407ba49517f3630f5c8c3b1a411b",
+      "en_sha256": "698668da7bcee00fb82f4a97496db59a27a72b9ce2cc2a40cd7649f4f6b4eac1",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1006].title": {
+      "pl": "Przynieś Rozmyślania Ofiary",
+      "kr_sha256": "bae2fd5a1e31e14ffce49930e2452e5a2280407ba49517f3630f5c8c3b1a411b",
+      "en_sha256": "bedaed48283c50f54b1e80262ef4d4eed4237890b72c602f6191f5bb7eaee501",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1008].steps[#0].goalDescription1": {
+      "pl": "Wróć do Hali Schodów Ruchomych",
+      "kr_sha256": "5f3015a7c0d07e77c1b1209f76e69e4df08cf8c26ab736713e941a473526e901",
+      "en_sha256": "2c22f2f3ae9474f1448d86448fde3a245ad9b834f0abe71864c00d4c8ce755b2",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1008].title": {
+      "pl": "Powrót do Hali Schodów Ruchomych",
+      "kr_sha256": "601947d8850020635885838103edadcda01f8be50a2db871211434d2760d1f16",
+      "en_sha256": "d6064d97962957adeff3b1c273619e7320699afaa58989a7d222527aad078a79",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1009].description": {
+      "pl": "Według zagadkowych wskazówek Jeanne nie powinniśmy szukać schodów ruchomych prowadzących w dół… lecz określić, czym są. Drabina, wzgórze albo but. Którą z tych opcji mam kazać Meursaultowi wybrać?",
+      "kr_sha256": "e44acceaa2ae391bc319ecbff84c32dded1094c08d02ada9b3d9cf8b2d761539",
+      "en_sha256": "d6b3e434613d2785040384451e691762d3b69c303d536134e51d7039efc46fbc",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1009].steps[#0].goalDescription1": {
+      "pl": "Określ schody ruchome jako drabinę, wzgórze albo but",
+      "kr_sha256": "dae779ab4ff5d904f3769b58c8c04996536efc6558e2ad5c6dd89dfb05d4d1b6",
+      "en_sha256": "93ef05c0f5dc45a379fa18663e28737f6e3efe1c87959dd965c1b714fcc7e02a",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1009].title": {
+      "pl": "Określ schody ruchome",
+      "kr_sha256": "06eb2b4c49830411fd4a8883cc8234ae6db8ce9f9ba66e9c611aaed5a50b65da",
+      "en_sha256": "301865c9d00579dac92875b6784eb754e859cc3f499454731c12429271e480a5",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1010].title": {
+      "pl": "Uruchom schody ruchome",
+      "kr_sha256": "9d70916c588849f68cf86f1ec531a4b476adea9e42aaa3140509099f5f92c7dc",
+      "en_sha256": "0e354e5783cb29874f92dc2e22a71d0ea1ff9cd5239211857c46f4219f502a99",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1011].title": {
+      "pl": "Zjedź schodami ruchomymi",
+      "kr_sha256": "68da9780eb2554d5691d6dc6533e41cfa5725b27ef57e5858c045eee235685c6",
+      "en_sha256": "5e7b77b2681c61f2764a9b10f4b5e8dd1062518144c93468c830c8d87f273a65",
+      "origin": "ai"
+    }
+  }
+}

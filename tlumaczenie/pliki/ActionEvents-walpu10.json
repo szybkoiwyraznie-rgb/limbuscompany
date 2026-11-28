@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=97112302].name": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=971123].name": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    }
+  }
+}

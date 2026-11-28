@@ -1,0 +1,568 @@
+{
+  "entries": {
+    "dataList[id=9156].desc": {
+      "pl": "— opis] Na koniec tury wrogowie z co najmniej 3 Licznikami [Combustion] wywołują [Combustion] 1 dodatkowy raz (Liczniki [Combustion] maleją o 1)",
+      "kr_sha256": "c3f664f1ddc9af45c881c052cbb34e2caf224e263c85c7581ccc3f3ff2436bb7",
+      "en_sha256": "189672440a165bbca5ab7fca3ad81f875984dfd146f4711a75f74ec54e3d1c6a",
+      "origin": "ai"
+    },
+    "dataList[id=9156].name": {
+      "pl": "— nazwa] Ognisko 10 000 Lat",
+      "kr_sha256": "4161ebb4dfe55b13bf6f4a7a92caa1b2d065edb263b00cccf9687161ad222c84",
+      "en_sha256": "5f1d90d88ac662766f1517da17463a40b14b92e0785f7e332279db0e9c6c6b50",
+      "origin": "ai"
+    },
+    "dataList[id=9158].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające [Combustion] lub Szczególne Podpalenie, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nPrzy trafieniu Umiejętnością (z wliczeniem Umiejętności E.G.O), jeżeli cel ma co najmniej 3 Liczniki [Combustion], wywołuje [Combustion] na celu 1 raz (Liczniki [Combustion] maleją o 1; wywoływane 1 raz na Umiejętność)\n\nNa koniec tury wrogowie z co najmniej 3 Licznikami [Combustion] wywołują [Combustion] 1 dodatkowy raz (Liczniki [Combustion] maleją o 1)\n\nGdy ginie wróg w stanie [Combustion] (w przypadku Anomalii — śmierć korpusu), na początku następnej tury nakłada Moc [Combustion] równą pozostałej Mocy [Combustion] na 1 wroga z najniższą Mocą [Combustion]\n\nNa początku tury nakłada 4 [AttackDown] na wrogów w stanie [Combustion] na czas tej tury\n\nGdy ginie wróg z [Combustion], na początku następnej tury (liczba pozostałej Mocy [Combustion] pokonanego wroga/15) sojuszników z Umiejętnościami nakładającymi [Combustion] zyskuje 2 [AttackDmgUp] (1 wywołanie na turę)",
+      "kr_sha256": "f1dc9d51ff70fa7fd5cb5691a4148e783d99e30b52d3dd282dbfdc420fdec613",
+      "en_sha256": "a8350856f1754d53a0ae472136e383aa1a00141f718a50a58fc8de384cd43353",
+      "origin": "ai"
+    },
+    "dataList[id=9158].name": {
+      "pl": "— nazwa] Ukradziony Płomień",
+      "kr_sha256": "476d79898ca43696d30d31969cfbf6433f4644bd81a39a1168415061f5a3994e",
+      "en_sha256": "5db57abedd7f73d7e057ac10a8b74f1e01ada357bb0b0bb213c02c310799b7ca",
+      "origin": "ai"
+    },
+    "dataList[id=9158].simpleDesc[abilityID=91581].simpleDesc": {
+      "pl": "— opis skrócony] Wywołuje [Combustion] 1 dodatkowy raz",
+      "kr_sha256": "7987d43b4307c51a8013c12ef75b438ade74a8b0cddd60024a485758cc777724",
+      "en_sha256": "9452aca996f662aa64bc24c44770d80a10b083214e4a0e850ccf5c2d9d18dddc",
+      "origin": "ai"
+    },
+    "dataList[id=9158].simpleDesc[abilityID=91582].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Moc [Combustion] równą pozostałej Mocy Podpalenia pokonanego wroga",
+      "kr_sha256": "8df51c8864b18c1543affd9a0936beb83ca32f5d72c2b4d5bce69fe786851979",
+      "en_sha256": "b25a11adb812bf32e660e07498130341af249e34c132b22d3525834aba9efcef",
+      "origin": "ai"
+    },
+    "dataList[id=9158].simpleDesc[abilityID=91583#2].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 2 [AttackDmgUp]",
+      "kr_sha256": "e700aca49eb46c7c8b73c780f259286e97d03cb66e8c28a594ca329307ad2fdd",
+      "en_sha256": "9e5ad230c7c56be6a019c1798556a15e25b74c4cc86b8e3538e72b4b30f6ecac",
+      "origin": "ai"
+    },
+    "dataList[id=9158].simpleDesc[abilityID=91583].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 4 [AttackDown]",
+      "kr_sha256": "c5d8e5a3b976ccc69588c013b12e007472f6b8de92bd0b5baac8957e5f9e2573",
+      "en_sha256": "efe34bba0d0a626a2b1d23d2afdd1fc14806285c110b06ee2104cc4e96c8f37d",
+      "origin": "ai"
+    },
+    "dataList[id=9158].simpleDesc[abilityID=9158].simpleDesc": {
+      "pl": "— opis skrócony] Wywołuje [Combustion] 1 raz",
+      "kr_sha256": "6cd2cd09898971ff07aedd3934f5419d2c637a72d91221a63d5d6e5c2a3f2332",
+      "en_sha256": "b4b4e7c7b6e85ae0e48f3fa3f48847d167269413e92aae9573a19ce130f87164",
+      "origin": "ai"
+    },
+    "dataList[id=9160].desc": {
+      "pl": "— opis] Przy wygranej Starciu sojusznika wywołuje [Laceration] wroga 1 raz, a Liczniki [Laceration] maleją o 1 (3 razy na turę)",
+      "kr_sha256": "957b92191a268008682fb8b66546d1019783fa93f1d702f9617407fa666cff7b",
+      "en_sha256": "0a1a03aa4c9cf44f01f4658a6d5116dbcdf04f9da14f3a222e81ecf7bb3257b6",
+      "origin": "ai"
+    },
+    "dataList[id=9160].name": {
+      "pl": "— nazwa] Rozdarty Worek Krwi",
+      "kr_sha256": "4151384c8eeb9567239adabb4009a97ebec2fb1c3b70477af7754d45a5f5bea6",
+      "en_sha256": "6c9014a8da708a79d57178a39382dedf8d190797198d416967b74311066dc9d3",
+      "origin": "ai"
+    },
+    "dataList[id=9160].simpleDesc[abilityID=9160].simpleDesc": {
+      "pl": "— opis skrócony] Wywołuje Krwawienie 1 raz (Liczniki Krwawienia maleją o 1)",
+      "kr_sha256": "134711813d3130aaba3082fe5992e5e26ac3cc5ef285980dd45c4230ee178278",
+      "en_sha256": "f9dc7ce0ae837cac7aa95dc6c9519cef221fee6fd789c81ea81f60dac98aec53",
+      "origin": "ai"
+    },
+    "dataList[id=9162].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające [Laceration] lub Szczególne Krwawienie, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nPrzy wygranej Starciu sojusznika wywołuje [Laceration] wroga 1 raz, a Liczniki [Laceration] maleją o 1 (1 raz na turę na sojusznika)\n\nWrogowie mogą ulegać Oszołomieniu od obrażeń [Laceration]; jeżeli wróg ulega Oszołomieniu od obrażeń [Laceration] w trakcie Starcia, wywołuje [Laceration] tyle razy, ile wynosi liczba pozostałych monet wroga, a Liczniki [Laceration] maleją o liczbę wywołań\n\nJeżeli wszyscy wrogowie mają nałożone [Laceration], ich Poziom Obrony maleje o 2. Na koniec tury zyskują (liczba wywołanych [Laceration] x 2) [DefenseDown] na następną turę (maks. 20)\n\nZa każde nałożenie Mocy [Laceration] lub Szczególnego Krwawienia efektem Umiejętności nakłada na cel 3 Moc [Laceration] i 1 Licznik [Laceration]",
+      "kr_sha256": "4a318ea90317a462b118c7c2caa71fc4ab63e5aeb411e0ea7fd75fe51b52e126",
+      "en_sha256": "f3e0852f5dfb2a0000032db00ce7c441e625deec17f7dcdd28c15b1f0f795319",
+      "origin": "ai"
+    },
+    "dataList[id=9162].name": {
+      "pl": "— nazwa] Wstrząs Krwotoczny",
+      "kr_sha256": "57b679dac24796a17dd58282e97a3348c3a005f27393b14f4a927a4615d54e68",
+      "en_sha256": "0bf68e6cf7b8d500e16dfaf2a7b5400d256e735cda06cac9b8d351732e733eb7",
+      "origin": "ai"
+    },
+    "dataList[id=9162].simpleDesc[abilityID=91621].simpleDesc": {
+      "pl": "— opis skrócony] Po zakończeniu Starcia wywołuje Krwawienie wroga tyle razy, ile wynosi liczba pozostałych monet (Liczniki Krwawienia maleją o liczbę wywołań)",
+      "kr_sha256": "ea2a3a2e48a176e1cfcde7cbcbf9de93624c77128cc3abcbc19269a0e089aa75",
+      "en_sha256": "9a3a1dec4aa53a5f69f97014bd62e0fb1d054b459b26a4d84828f2fb52296a31",
+      "origin": "ai"
+    },
+    "dataList[id=9162].simpleDesc[abilityID=91622].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje (liczba wywołanych Krwawień x 2) Spadek Poziomu Obrony",
+      "kr_sha256": "2afd779f73a7f05de37b74c9b1d417bbcc9f3b70a5d379783a5bcb6efe3395a5",
+      "en_sha256": "70b0163cfeeb8e89254b9831ee9a28f50951d155781885f9c759733b355d0cca",
+      "origin": "ai"
+    },
+    "dataList[id=9162].simpleDesc[abilityID=91623].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc Krwawienia i 1 Licznik Krwawienia",
+      "kr_sha256": "4dff24c3b91ffbe25bb24b5df09659ced3e61f81feda2e051b4262538cee93f5",
+      "en_sha256": "b6cac8a54065d70419af8947e66bea59caaeeea2d10f2db7eb7ebe3c47da899e",
+      "origin": "ai"
+    },
+    "dataList[id=9162].simpleDesc[abilityID=9162].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej Starciu wywołuje Krwawienie wroga 1 raz (Liczniki Krwawienia maleją o 1)",
+      "kr_sha256": "13ee68b2426c5d4161471d5842e24ae208e1aa59bd8240ded1499771067249b1",
+      "en_sha256": "9098986c48f9234dc82a35b40d887c2ac57eccb280070b4859093d4c568064fd",
+      "origin": "ai"
+    },
+    "dataList[id=9163].desc": {
+      "pl": "— opis] Przy wygranej Starciu Umiejętnością zużywającą Liczniki [Vibration], jeżeli cel nie ma [Vibration], zwiększa Liczniki [Vibration] celu o 2.\n\nPrzy Rezonansie Lenistwa 3 lub wyższym (z wliczeniem tej Umiejętności), zamiast tego zwiększa Liczniki [Vibration] celu o 3",
+      "kr_sha256": "56b3978aa7935231255c2bf0d8a70ccc087c43e653d5a61058d90a9611ff8120",
+      "en_sha256": "2d7dab8687452bd342e37f56b35b74a4272e2e8ab382f5040bb501d857b0dd85",
+      "origin": "ai"
+    },
+    "dataList[id=9163].name": {
+      "pl": "— nazwa] Oscylator z Klejnotu",
+      "kr_sha256": "4e8708f7e778c22b8e0d27f5ed910fa329bfd75bb0c7471d597fb4e1c866472c",
+      "en_sha256": "cf4d112a0b0163c9fa01ea96f87cbf98d96e6e75ded393fdd013e84c47325dc3",
+      "origin": "ai"
+    },
+    "dataList[id=9163].simpleDesc[abilityID=91631].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej Starciu Umiejętnością zużywającą Liczniki Wstrząsu i Rezonansie Lenistwa 3 lub wyższym, zwiększa Liczniki [Vibration] celu o 3",
+      "kr_sha256": "3c77c078916f00a9ec4b00281b0dfce4fb144041a11c6212411bd320aaf06b00",
+      "en_sha256": "8d88d6524ea9ad3d71fe1aefcf81c61569da18aa2831b9b14247d82c5419ba7a",
+      "origin": "ai"
+    },
+    "dataList[id=9163].simpleDesc[abilityID=9163].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej Starciu Umiejętnością zużywającą Liczniki Wstrząsu, zwiększa Liczniki [Vibration] celu o 2",
+      "kr_sha256": "ef6f66651e7ed741e6226ee8aa3e3f91ef94faa180884d09fed2b855d3c7f770",
+      "en_sha256": "326aabfc781b08ef18fc75d29408e92084f138f9869973af19f4a67301a82e69",
+      "origin": "ai"
+    },
+    "dataList[id=9164].desc": {
+      "pl": "— opis] Na początku tury przy co najmniej 8 Licznikach [Vibration] Moc Starcia +1\n\nGdy pokona wroga lub oszołomi go Umiejętnością zużywającą własne Liczniki [Vibration], zwiększa własne Liczniki [Vibration] o (zużyte Liczniki [Vibration]/4) (1 raz na Umiejętność)",
+      "kr_sha256": "a59e9e10881840621932dae620fa3b6776d2584f61d36f2b735acd514b937b8e",
+      "en_sha256": "c01ee25c6213981c2fd585e945d56af3e1fe8fcafe4164b8f353357a79f381e8",
+      "origin": "ai"
+    },
+    "dataList[id=9164].name": {
+      "pl": "— nazwa] Chwiejna Beczka",
+      "kr_sha256": "b3765ab1e14beeefe445be279df87026a7fa861e6447a4cb2695fb9b70ad9b19",
+      "en_sha256": "7780b8771ece6b18483304aa84f9c7dc0fbf6c0c43b9853e191c71b5e7690d77",
+      "origin": "ai"
+    },
+    "dataList[id=9164].simpleDesc[abilityID=91641].simpleDesc": {
+      "pl": "— opis skrócony] Gdy pokona wroga lub oszołomi go Umiejętnością zużywającą Liczniki Wstrząsu, zwiększa Liczniki Wstrząsu",
+      "kr_sha256": "ad04b725369dac6364b4307e9245947bdf253376026f2f54eb2a7119bc9e0efb",
+      "en_sha256": "23a5442404a1d465b0ef6ea7b78a1240f8566ea448ab5e2ffb6ac538445ad38c",
+      "origin": "ai"
+    },
+    "dataList[id=9164].simpleDesc[abilityID=9164].simpleDesc": {
+      "pl": "— opis skrócony] Przy co najmniej 8 własnych Licznikach Wstrząsu Moc Starcia +1",
+      "kr_sha256": "8b0c2343433fda16cfa2e082dbaaf81a2fa49b28d953656162d40ba1d0f98370",
+      "en_sha256": "28ec8a3ddfde719133d0301c18d4683db9714ac554abeca24553bdd8bbed1cba",
+      "origin": "ai"
+    },
+    "dataList[id=9166].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration] lub Liczniki [Vibration], Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych; nie uruchamia się dla Tożsamości zyskujących same Liczniki [Vibration])\n\nPrzy wygranej Starciu Umiejętnością zużywającą własne Liczniki [Vibration], jeżeli cel nie ma [Vibration], zwiększa Liczniki [Vibration] celu o 3\n\nNa początku tury Moc Starcia rośnie o (własne Liczniki [Vibration]/5) (maks. 3)\n\nPrzy użyciu Umiejętności zużywającej własne Liczniki [Vibration], gdy pokona wroga lub oszołomi go, zwiększa własne Liczniki [Vibration] o (zużyte Liczniki [Vibration]/2) (1 raz na Umiejętność)",
+      "kr_sha256": "ddfbc89088bb92a55ea6bb831530536e0f21703049f4a7ce7cb89929ce309e54",
+      "en_sha256": "ddb7df6a6ad7111c84184b394ab72d52f031e5522543ccd55ba46e9143b3f14b",
+      "origin": "ai"
+    },
+    "dataList[id=9166].name": {
+      "pl": "— nazwa] Epicentrum",
+      "kr_sha256": "28432c4223da9b03948b88b74d873efd0000a6b530ae5a714250f6d25948d9b3",
+      "en_sha256": "5085b0a53f2ac4046d1676c90ae607ee8840253b86ac5b51e409fc2124f31a60",
+      "origin": "ai"
+    },
+    "dataList[id=9166].simpleDesc[abilityID=91661].simpleDesc": {
+      "pl": "— opis skrócony] Na początku tury Moc Starcia rośnie o (własne Liczniki [Vibration]/5)",
+      "kr_sha256": "165722e2334151354a6ab5ab70c66cae2751351454bf3f289f003e836cae0be4",
+      "en_sha256": "0166a5599e2de9b7a0af899cc0e003ea53fe77d9968d4d1b610ca03d7a00daee",
+      "origin": "ai"
+    },
+    "dataList[id=9166].simpleDesc[abilityID=91662].simpleDesc": {
+      "pl": "— opis skrócony] Gdy pokona wroga lub oszołomi go Umiejętnością zużywającą Liczniki Wstrząsu, zwiększa Liczniki Wstrząsu",
+      "kr_sha256": "ad04b725369dac6364b4307e9245947bdf253376026f2f54eb2a7119bc9e0efb",
+      "en_sha256": "23a5442404a1d465b0ef6ea7b78a1240f8566ea448ab5e2ffb6ac538445ad38c",
+      "origin": "ai"
+    },
+    "dataList[id=9166].simpleDesc[abilityID=9166].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej Starciu Umiejętnością zużywającą własne Liczniki [Vibration], jeżeli cel nie ma [Vibration], zwiększa Liczniki [Vibration] celu o 3",
+      "kr_sha256": "184f24ab02b9c99d4527ae377d2c6df72f992d3d9935ca0622f2ef495f8ca7de",
+      "en_sha256": "cc28542d8f3111b7fdb9619477a0a7551b180b874e4c550db7b4184dbaae9f22",
+      "origin": "ai"
+    },
+    "dataList[id=9167].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Liczniki [Vibration] lub Szczególny Wstrząs, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych; nie uruchamia się dla Tożsamości zyskujących same Liczniki [Vibration])\n\nPrzy wygranej Starciu Umiejętnością nakładającą Moc [Vibration] lub Liczniki [Vibration] albo zużywającą własne Liczniki [Vibration] nakłada na cel Moc [Vibration] równą pozostałym monetom; zwiększa własne Liczniki Wstrząsu (maks. +3 Liczników Wstrząsu na Umiejętność). Jeżeli cel nie ma [Vibration], zwiększa Liczniki [Vibration] celu o 3.\n\nNa początku tury zyskuje 1 [ParryingResultUp] + (własne Liczniki [Vibration]/5) (maks. 3)\n\nPrzy użyciu Umiejętności zużywającej własne Liczniki [Vibration], gdy pokona wroga lub oszołomi go, zwiększa własne Liczniki [Vibration] o (zużyte Liczniki [Vibration]/2) (1 raz na Umiejętność)\n\nUmiejętność zadaje +(zużyte własne Liczniki [Vibration] + Moc [Vibration] wroga + 5)% obrażeń (poza Umiejętnościami E.G.O; maks. 50%)\nGdy cel ma [VibrationNesting] i użyto [Switch_Vibration] lub [FusionVibration] typu [Vibration] nienakładającego się z typem celu, na koniec tury przedłuża [VibrationNesting] celu na następną turę",
+      "kr_sha256": "f09fc642f2ab6ba127630dce3c1e94225f8fd75dc7ad3f4ecc309673926b4b3c",
+      "en_sha256": "0489f2f1ad2d89aaada25484ac0c50ca24a26b614a2ad79ad91ab569b53afe59",
+      "origin": "ai"
+    },
+    "dataList[id=9167].name": {
+      "pl": "— nazwa] Dzwon Ośmiu Kierunków",
+      "kr_sha256": "0d0cf4c3be7e7a3c6ce13ed4ace8d518fe4d8ced93f2ff481823c40bca6e693f",
+      "en_sha256": "0af5b33815763674bf46af66ce3e750bed618b031a9b4654a83487eff761ee41",
+      "origin": "ai"
+    },
+    "dataList[id=9167].simpleDesc[abilityID=91671].simpleDesc": {
+      "pl": "— opis skrócony] Na początku tury zyskuje Wzrost Mocy Starcia proporcjonalny do Liczników Wstrząsu",
+      "kr_sha256": "be34ab4c89f597cb05c0a77dfe4f8be499df636dff9dfd524a3191c2b7d6a093",
+      "en_sha256": "c42ffc0bfc44fc5bf974d76c1159bfeeee16f9774b95673d71d3eef4cc5493fb",
+      "origin": "ai"
+    },
+    "dataList[id=9167].simpleDesc[abilityID=91672].simpleDesc": {
+      "pl": "— opis skrócony] Gdy pokona wroga lub oszołomi go Umiejętnością zużywającą Liczniki Wstrząsu, zwiększa Liczniki Wstrząsu",
+      "kr_sha256": "ad04b725369dac6364b4307e9245947bdf253376026f2f54eb2a7119bc9e0efb",
+      "en_sha256": "23a5442404a1d465b0ef6ea7b78a1240f8566ea448ab5e2ffb6ac538445ad38c",
+      "origin": "ai"
+    },
+    "dataList[id=9167].simpleDesc[abilityID=91673].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętności zużywające własne Liczniki Wstrząsu zadają więcej obrażeń",
+      "kr_sha256": "716afaf6f15f59286fe8d8dbf7d71a98a1290dd056e9800fe6e3c47fb97d6735",
+      "en_sha256": "d4cce95dad3ce421fed532dbdd4eb318736922ed66ab17f085d4e1a70fd34950",
+      "origin": "ai"
+    },
+    "dataList[id=9167].simpleDesc[abilityID=91674].simpleDesc": {
+      "pl": "— opis skrócony] Na koniec tury przedłuża Wstrząs - Superpozycja celu na następną turę",
+      "kr_sha256": "0f22ebc8e2d62fded81864bf3f025bced0b0c464608a080a38e9ac1d75bad13d",
+      "en_sha256": "c7d829a5e33961c43afd8a52fdbc2abc8fd049dc1115bc4de160a84e9258f0e6",
+      "origin": "ai"
+    },
+    "dataList[id=9167].simpleDesc[abilityID=9167].simpleDesc": {
+      "pl": "— opis skrócony] Przy wygranej Starciu nakłada Wstrząs równy pozostałym monetom. Jeżeli cel nie ma [Vibration], zwiększa Liczniki Wstrząsu",
+      "kr_sha256": "9442e9ffb70caf3e50eb898655306b2481f360be08f18e0048e6a1409850c778",
+      "en_sha256": "95d6b28fc7e4e2a3c315cf88199e54b16af7a2672017896998eb26f4d5f28bf5",
+      "origin": "ai"
+    },
+    "dataList[id=9168].desc": {
+      "pl": "— opis] Jeżeli cel ma Moc [Burst] niższą niż 15, przy nakładaniu Mocy [Burst] nakłada dodatkowo 1 Moc [Burst]",
+      "kr_sha256": "dbd9315e2d448279dc241e2d4d4b48cab5b2ac7553abf965d4a87fe003555044",
+      "en_sha256": "1a34e5c7611017d3192e393e6bae3c879fda57ab2921b724c88afa5e98658207",
+      "origin": "ai"
+    },
+    "dataList[id=9168].name": {
+      "pl": "— nazwa] Odłamek Apokalipsy",
+      "kr_sha256": "d4e24db527cbbe23effbac960518e819832353015ff6921fe353e0574fcbfbdd",
+      "en_sha256": "78baa92e4520c5d82324a7f20455325481503394d374ea73d24f8fed3e0c9e56",
+      "origin": "ai"
+    },
+    "dataList[id=9168].simpleDesc[abilityID=9168].simpleDesc": {
+      "pl": "— opis skrócony] Przy nakładaniu Mocy [Burst] nakłada dodatkowo 1 Moc [Burst]",
+      "kr_sha256": "969584b3482ef6e28da112b4d8eaa7742eada529deabe54cb814c4c019a3226e",
+      "en_sha256": "372ce3f33c7fb65dee76a460777dfe9c2640f3daaa520e678701a5b52c4c4289",
+      "origin": "ai"
+    },
+    "dataList[id=9170].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Burst] lub Liczniki [Burst], Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nEfekty [Burst] zadają +100% obrażeń Tarczom wroga\nJeżeli cel ma Moc [Burst] niższą niż 15, przy nakładaniu Mocy [Burst] nakłada dodatkowo 2 Moc [Burst]\n\nGdy Umiejętność nie może nałożyć [Burst] z powodu efektów Umiejętności, zamiast tego zyskuje Moc Monety Plus +1\n- Umiejętności z monetą Minus: zamiast Mocy Monety Plus zyskują Moc Bazową +(4/liczba monet) (min. 1, zaokrąglając w dół)",
+      "kr_sha256": "62277e12c3d19615fb2ad6c38b3566452072c826c90476633a04d941378d1dd9",
+      "en_sha256": "4b23e74686fbdf05d00bf5993a3dd6fafc6dd4cc488f9c86b4e81d414c2839f9",
+      "origin": "ai"
+    },
+    "dataList[id=9170].name": {
+      "pl": "— nazwa] Dziwaczny Posąg",
+      "kr_sha256": "900f83ff000b59cbadbe53c0447d37df183229cbe2cfb7083baa9bb5fe75540a",
+      "en_sha256": "7eb9aca2a63065edbe685a5e15a02af1633d12a1fe5b1a2e8db72964984bdd88",
+      "origin": "ai"
+    },
+    "dataList[id=9170].simpleDesc[abilityID=91701].simpleDesc": {
+      "pl": "— opis skrócony] Przy nakładaniu Mocy [Burst] nakłada dodatkowo 2 Moc [Burst]",
+      "kr_sha256": "c3ca3af11ff3376d8627995a428fb00ca41ce0966c87ebdf7bfdff51cbb8e41d",
+      "en_sha256": "00c86f469e4024fbc7d1f9c28538f463c3c8715ada4aefac62b04151fdf1a42f",
+      "origin": "ai"
+    },
+    "dataList[id=9170].simpleDesc[abilityID=91702].simpleDesc": {
+      "pl": "— opis skrócony] Gdy [Burst] nie może być nałożony z powodu efektów Umiejętności, zyskuje Moc Monet/Bazową",
+      "kr_sha256": "67413727d9857d59743d8400ecc8161819ea1b34c24966baebdc1baad0a06c7f",
+      "en_sha256": "1dc98ae6d943a4bf6134e0e64a98cfe5468fc5d9ca31c18f468c1e85673e06b9",
+      "origin": "ai"
+    },
+    "dataList[id=9170].simpleDesc[abilityID=9170].simpleDesc": {
+      "pl": "— opis skrócony] Efekty Rozdarcia zadają +100% obrażeń Tarczom",
+      "kr_sha256": "93fd85f2e2a2a07e30ff9feb7ade2a6ed70429c01f4c78ad9855aa929d9dc2da",
+      "en_sha256": "33644a00686fae1b8005044866dc419fa1cdad326ae8de7d074cb2edda879d8a",
+      "origin": "ai"
+    },
+    "dataList[id=9171].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Burst] lub Liczniki [Burst], Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nEfekty [Burst] zadają +150% obrażeń Tarczom wroga\n\nNa początku tury Poziom Ataku i Poziom Obrony wrogów lub Partii w stanie [Burst] maleje o (3 + Moc [Burst]/2) (maks. 6)\n\nZa każde nałożenie Mocy [Burst] lub Liczników [Burst] efektem Umiejętności nakłada na cel 2 Moc [Burst] i 1 Licznik [Burst]. Jeżeli cel ma Moc [Burst] niższą niż 15, przy nakładaniu Mocy [Burst] nakłada dodatkowo 2 Moc [Burst].\n\nUmiejętności monety Plus nakładające Moc [Burst], Liczniki [Burst] lub Szczególne Rozdarcie zyskują Moc Monet +1\nUmiejętności monety Minus nakładające Moc [Burst], Liczniki [Burst] lub Szczególne Rozdarcie zyskują Moc Bazową +(4/liczba monet) (min. 1, zaokrąglając w dół)",
+      "kr_sha256": "f86028e57f5a502ee21f11feea2e8d048736b77cad70f8b50078963852cac7b9",
+      "en_sha256": "d4eeb24a1a954d0afe8a621289fd1e5fa9ab9adc645d982a31e8318bf9d10c48",
+      "origin": "ai"
+    },
+    "dataList[id=9171].name": {
+      "pl": "Ruina",
+      "kr_sha256": "01262e62a42faad4a58a2617dd4fa5cfc1563c6b2071e7b6216035704c583c51",
+      "en_sha256": "f3e0f09631f17828d993141e677e3c56813e9bded37b93a890fbca9206bd7d27",
+      "origin": "ai"
+    },
+    "dataList[id=9171].simpleDesc[abilityID=91711].simpleDesc": {
+      "pl": "— opis skrócony] Wrogowie z nałożonym [Burst] mają obniżony Poziom Ataku i Obrony",
+      "kr_sha256": "2e28ef561eda44ad1bd59ce6e74f1adfc3d01bae81f4431e829fda7763046285",
+      "en_sha256": "c41f82c062c8ce4ad2535991ca945787a1972166bfb069bf36698d583c652ff8",
+      "origin": "ai"
+    },
+    "dataList[id=9171].simpleDesc[abilityID=91712].simpleDesc": {
+      "pl": "— opis skrócony] Za każde nałożenie Mocy [Burst] efektem Umiejętności nakłada na cel 2 Moc [Burst] i 1 Licznik [Burst]",
+      "kr_sha256": "389e73b2e275aa5b828cf3f92fc11aa0cc3edd627786c9d2dff0f27add35163f",
+      "en_sha256": "21f56eef31800dc10c537ab42a14faadfc89305548145f855e8c666bb988232b",
+      "origin": "ai"
+    },
+    "dataList[id=9171].simpleDesc[abilityID=91713].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet",
+      "kr_sha256": "bf5c2f7caf0566d5727d3311c773e60fc5d72f182b7b3d22268aa293e274bd3f",
+      "en_sha256": "8e383fecb177f664831ae26c492a26e77c42d41f19fbc22373011662524bb135",
+      "origin": "ai"
+    },
+    "dataList[id=9171].simpleDesc[abilityID=9171].simpleDesc": {
+      "pl": "— opis skrócony] Efekty [Burst] zadają +150% obrażeń Tarczom",
+      "kr_sha256": "2dd4381369ad862146a4a109245c89461aec20f6bf1d77fd2c37539b6f17ae9b",
+      "en_sha256": "c9da5c5d05ce552fa9497e0087910658d07cbb91bb749c86414987e344168a59",
+      "origin": "ai"
+    },
+    "dataList[id=9172].desc": {
+      "pl": "— opis] Przy użyciu Umiejętności podstawowej ataku, jeżeli wróg ma co najmniej 5 Mocy [Sinking], odzyskuje Poczytalność równą (Moc [Sinking] celu/10) (maks. 3)",
+      "kr_sha256": "d0f6f6628e2f1195a02401ea5487575b8bd981080c876158bcf4744ab05bad0c",
+      "en_sha256": "f84989f06f59f8ad711b732f69ff8fafd13633c29fb6060e22d856c35011eecb",
+      "origin": "ai"
+    },
+    "dataList[id=9172].name": {
+      "pl": "— nazwa] Cantabile",
+      "kr_sha256": "ff6827c484364c435ddd408bbad1626f97a8ffcc1623d7e034ae22ad540667ab",
+      "en_sha256": "0b76a84009ef592c9fae02b8b81e4fe1f924fcba0ddfcbbc4ec665d49db0791e",
+      "origin": "ai"
+    },
+    "dataList[id=9172].simpleDesc[abilityID=9172].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje Poczytalność proporcjonalnie do Zatonięcia celu",
+      "kr_sha256": "b4143681c04d3f2e1fc6f2f3fd85e5150d0d66eae6045a7014f42bf3a4730fbd",
+      "en_sha256": "6bb4bd83c61df6f19dbf00d856f0592da2013e8255a8b439051da2206e6dfcf8",
+      "origin": "ai"
+    },
+    "dataList[id=9173].desc": {
+      "pl": "— opis] Na koniec tury przy 3+ wrogach z Poczytalnością -45 sojusznicy zyskują 2 [AttackUp] na następną turę",
+      "kr_sha256": "6f75f2fdf36c92494193fd4641b56c8d6ca6bc7785eca68e47bb811309886045",
+      "en_sha256": "30ec8b001218871d4866872baf8c89aadc796e6a3f36676248192bdbf71c6e62",
+      "origin": "ai"
+    },
+    "dataList[id=9173].name": {
+      "pl": "— nazwa] Wyblakły Płaszcz",
+      "kr_sha256": "5d61b12b1fcef75ce22d2516226d98dba3873456d28b3fb61c6db1cd27e46983",
+      "en_sha256": "258e56c48b1fb818988d8a84d0087688ac02e7199d9b406d371a1621c35ad204",
+      "origin": "ai"
+    },
+    "dataList[id=9173].simpleDesc[abilityID=9173].simpleDesc": {
+      "pl": "— opis skrócony] Wszyscy sojusznicy zyskują 2 [AttackUp]",
+      "kr_sha256": "cb166de4dbe54eb8bbe1a873d5a49fa9c5dc4b2f8cbb185433d13f80deb212de",
+      "en_sha256": "a5a439baa658534406d6cd913d66d7169cc2bb1ab15c6d90973e8f7ceaa5ca30",
+      "origin": "ai"
+    },
+    "dataList[id=9175].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Sinking], Liczniki [Sinking] lub Szczególne Zatonięcie, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nPrzy użyciu Umiejętności podstawowej ataku, jeżeli wróg ma co najmniej 5 Mocy [Sinking], odzyskuje Poczytalność równą (Moc [Sinking] celu/10) (maks. 5)\n\nNa koniec tury wszyscy sojusznicy zyskują [AttackUp] w liczbie równej liczbie wrogów z Poczytalnością -45 (maks. 3)",
+      "kr_sha256": "ac927c19b0d78ff271d1cad19a05b830558dc03d86a0c37207a9dec9b8579c52",
+      "en_sha256": "81f85ed68eb2b7f52f5badb6b45b5e48c95aedf651a2d68e2982c5cb562fadab",
+      "origin": "ai"
+    },
+    "dataList[id=9175].name": {
+      "pl": "— nazwa] Falująca Kula",
+      "kr_sha256": "027996713a0cc96db9f147af9e8ad5153e94c594e5cd0287842098966f369375",
+      "en_sha256": "3d36fdb848e8912a96cf65deffeac8fd20a202f4e6c40cffe272dc804b2f198a",
+      "origin": "ai"
+    },
+    "dataList[id=9175].simpleDesc[abilityID=91751].simpleDesc": {
+      "pl": "— opis skrócony] Wszyscy sojusznicy zyskują [AttackUp] w liczbie równej liczbie wrogów z Poczytalnością -45",
+      "kr_sha256": "489136582b50d98cd42b50aa39f1c864432c0593e1eed644a7f5470cafd12e5b",
+      "en_sha256": "c8c3e0e6af03150002833604be32665f1512c7421dcae003a99b056b00485350",
+      "origin": "ai"
+    },
+    "dataList[id=9175].simpleDesc[abilityID=9175].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje Poczytalność proporcjonalnie do Zatonięcia celu",
+      "kr_sha256": "b4143681c04d3f2e1fc6f2f3fd85e5150d0d66eae6045a7014f42bf3a4730fbd",
+      "en_sha256": "6bb4bd83c61df6f19dbf00d856f0592da2013e8255a8b439051da2206e6dfcf8",
+      "origin": "ai"
+    },
+    "dataList[id=9176].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Sinking], Liczniki [Sinking] lub Szczególne Zatonięcie, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nNa początku tury nakłada 1 [WaveSinking] na 1 losowego wroga\n\nGdy ginie wróg posiadający [WaveSinking], na początku następnej tury nakłada na wroga z najwyższą wartością [WaveSinking] poniżej maksimum tyle [WaveSinking], ile wynosiła wartość [WaveSinking] pokonanego wroga.\n\nPrzy trafieniu wroga Umiejętnością nakładającą Moc [Sinking], Liczniki [Sinking] lub Szczególne Zatonięcie, jeżeli zadano obrażenia HP, na koniec tury nakłada na cel 4 Moc [Sinking] i 3 Liczniki [Sinking] (1 wywołanie na turę na wroga)\nPrzy wywołaniu Pełnego Rezonansu Posępności lub Żądzy, na początku walki nakłada na wszystkich wrogów (w przypadku Anomalii — 1 losową Partię) 3 Moc [Sinking] i 3 Liczniki [Sinking].\n\nNa koniec ataku Umiejętnością podstawową, jeżeli wróg ma co najmniej 10 Mocy [Sinking], odzyskuje Poczytalność równą (Moc [Sinking] celu/10) (maks. 5) i nakłada na cel [DefenseDown] (do maks. 5; 1 wywołanie na turę na wroga)\n\nNa koniec tury wszyscy sojusznicy zyskują [AttackUp] w liczbie równej liczbie wrogów z Poczytalnością -45 lub bez Poczytalności (maks. 6)\n\nUmiejętności monety Plus nakładające Moc [Sinking], Liczniki [Sinking] lub Szczególne Zatonięcie zyskują Moc Monet +1\nUmiejętności monety Minus nakładające Moc [Sinking], Liczniki [Sinking] lub Szczególne Zatonięcie zyskują Moc Bazową +(4/liczba monet) (min. 1, zaokrąglając w dół)\n\nPrzy trafieniu wroga Umiejętnością podstawową ataku nakładającą lub zyskującą Moc [Sinking], Licznik [Sinking] lub Szczególne Zatonięcie, za każde wywołanie efektu [Sinking] celu (wliczając Szczególne Zatonięcie) odzyskuje na koniec tury 5 Poczytalności (2 razy na turę na Tożsamość).\nNa początku tury przy Poczytalności 45 efekt się zmienia: przy trafieniu wroga Umiejętnością podstawową, za każde wywołanie efektu [Sinking] celu (wliczając Szczególne Zatonięcie) nakłada 3 Liczniki [Sinking] na wroga (2 razy na turę na Tożsamość)",
+      "kr_sha256": "c89a8b5590a6a2d4a5d2aeaaa04f30618085c8e8b315b7aa11e194d3c6f42525",
+      "en_sha256": "97dd750896d4505fafa5e58871af0655d16f7f68ecdb842725d4714b6b66b536",
+      "origin": "ai"
+    },
+    "dataList[id=9176].name": {
+      "pl": "— nazwa] Nadchodząca Fala",
+      "kr_sha256": "21148127dc10037dac9e0ac21278e8e3f1fb35415fe2d6eefee51b7b8f4a4ac3",
+      "en_sha256": "f6f3f39615212f9c420de183050d1302d385fea052def7fd1a774cd3f86cd700",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91761].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Spadek Poziomu Obrony",
+      "kr_sha256": "669db5abb80ab60e61ea14632db54280a1f5a648aaf3d6d3a741ad79d644fa96",
+      "en_sha256": "a550233d7487f7f137ffc05a8673ce243c05e4337c739b40ee3c2597cd1f1cc7",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91762].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Wzrost Poziomu Ataku",
+      "kr_sha256": "60a07eb8942eeed654824e1cefa10a62b28aaba897f9304a6d17f64e071c46ce",
+      "en_sha256": "c0f4a49f1f4e6612ae7caf215492bc40f71da93382402b9ac6981b9d0869cc60",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91763].simpleDesc": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91764].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Zatonięcie",
+      "kr_sha256": "14a077a5ee56f90d6796ae3a913d2709851bbf56d523d0a164210ac9b1c75030",
+      "en_sha256": "f36fa359a7a98da352edb84345b6accbfff54f31e54c082d389da6d8f44c0490",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91765].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet",
+      "kr_sha256": "bf5c2f7caf0566d5727d3311c773e60fc5d72f182b7b3d22268aa293e274bd3f",
+      "en_sha256": "8e383fecb177f664831ae26c492a26e77c42d41f19fbc22373011662524bb135",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91766].simpleDesc": {
+      "pl": "Zyskuje Moc Bazową",
+      "kr_sha256": "e2e3ed9a223721d2574ac845a07b83b6e62c54f250df443fafbdbfc305cf5e2a",
+      "en_sha256": "c96eec229a66689f6d9d1c2d012ae95543e15c1727d5b07c97510875f0bb784f",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91767].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Refluks",
+      "kr_sha256": "34a0cdf88afdd9382e9dd5d35d0149f5ba27c141eacef193b02d5408285faf2f",
+      "en_sha256": "d20a5336b84fdf1dd9e81f4c77dce0b30cbc8c4272221e5194e53872cf93e872",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=91768].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Refluks",
+      "kr_sha256": "34a0cdf88afdd9382e9dd5d35d0149f5ba27c141eacef193b02d5408285faf2f",
+      "en_sha256": "d20a5336b84fdf1dd9e81f4c77dce0b30cbc8c4272221e5194e53872cf93e872",
+      "origin": "ai"
+    },
+    "dataList[id=9176].simpleDesc[abilityID=9176].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Zatonięcie",
+      "kr_sha256": "14a077a5ee56f90d6796ae3a913d2709851bbf56d523d0a164210ac9b1c75030",
+      "en_sha256": "f36fa359a7a98da352edb84345b6accbfff54f31e54c082d389da6d8f44c0490",
+      "origin": "ai"
+    },
+    "dataList[id=9178].desc": {
+      "pl": "— opis] Na koniec tury, jeżeli sojusznik przekroczył 20 Mocy Oddechu, zużywa 1 Moc Oddechu, by zwiększyć Liczniki Oddechu o 1",
+      "kr_sha256": "8c364245471056cd4d55c504c820c6c3d96c880154e6f1af800330e5d4acdb86",
+      "en_sha256": "1718ec6fdc175b7e0ec8df0c426b965036287eeb79a36f88288c2abccb2cdd5c",
+      "origin": "ai"
+    },
+    "dataList[id=9178].name": {
+      "pl": "— nazwa] Cięcie Anioła",
+      "kr_sha256": "c32445b6c952fde3913beb801cb3bb70a456169656807da9487d42f60fefc6a7",
+      "en_sha256": "e8b68360a822a89662fe5cb8f179d820b9a36c8ec04bb4252c5a6aff098ea254",
+      "origin": "ai"
+    },
+    "dataList[id=9178].simpleDesc[abilityID=9178].simpleDesc": {
+      "pl": "— opis skrócony] Zużywa 1 Moc Oddechu, by zwiększyć Liczniki Oddechu o 1",
+      "kr_sha256": "f53caa9ff263fdaae581a229edde1ac5b6d2935a02b7ee9521a22a0b4248f01f",
+      "en_sha256": "43adf7c1a32e3cef123323283b5d8b57176365f9ed57989753b3fc1692a6b63b",
+      "origin": "ai"
+    },
+    "dataList[id=9180].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające lub zyskujące Moc [Breath] lub Liczniki [Breath], Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nNa koniec tury, jeżeli sojusznik przekroczył 20 Mocy [Breath], zużywa 1 Moc [Breath], by zwiększyć Liczniki [Breath] o 1\n\nNa koniec tury nakłada 2 [Agility], 1 [AttackUp] i 1 [AttackDmgUp] na następną turę 1 sojusznikowi z najwyższą Mocą [Breath] i 1 sojusznikowi z najwyższymi Licznikami [Breath] (może się nakładać na tę samą Tożsamość)\n\nZa każde zyskanie Mocy [Breath] efektem Umiejętności ta Tożsamość zyskuje 2 Moc [Breath] i 2 Liczniki [Breath]. Jeżeli suma posiadanej Mocy [Breath] i Liczników [Breath] jest niższa niż 20, zamiast tego zyskuje 3 Moc [Breath] i 3 Liczniki [Breath].\n\nNa koniec walki, jeżeli Moc [Breath] przekracza 40, zużywa 15 Mocy [Breath], by [Discard] 1 Umiejętność o najniższej Randze ze swoich slotów Umiejętności (1 raz na turę na Postać)",
+      "kr_sha256": "53a063c951f100fbfab6f1ee7750507ada361762000b77a0df3f6a1bb5a47b69",
+      "en_sha256": "cb5a9d37aecdee97fad2b1b643ddf1022755a8df1733d05e821708594c624649",
+      "origin": "ai"
+    },
+    "dataList[id=9180].name": {
+      "pl": "— nazwa] Trunek z Beczki",
+      "kr_sha256": "6e859bfc654f060fa5845dd5c44081dc01f394fd4548fc45690c60e12ac902d8",
+      "en_sha256": "b374c7804903c2d58f9623f605b605f04fe6bb701899245df5f0f343510b2cc6",
+      "origin": "ai"
+    },
+    "dataList[id=9180].simpleDesc[abilityID=91801].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Pośpiech, 1 Wzrost Poziomu Ataku i 1 Wzrost Obrażeń",
+      "kr_sha256": "fb44fcabe13102d985cc171a91dce206f3d949f6505b26d26a68f4759d9ec61f",
+      "en_sha256": "3ef6f0c7ee75173d18cba1c6194ad88f6b7f2da8eb6c9f6bbfbd2bf199ec7bca",
+      "origin": "ai"
+    },
+    "dataList[id=9180].simpleDesc[abilityID=91802].simpleDesc": {
+      "pl": "— opis skrócony] Za każde zyskanie Mocy Oddechu efektem Umiejętności zyskuje dodatkowo Moc i Liczniki",
+      "kr_sha256": "86da8de8215b4db8473b536bb2b767449228d7faa33b89379d6f46a117f65cbd",
+      "en_sha256": "9e96810706b6404e2980d7d7415306e088254bd054765c2f533d8d93049ad938",
+      "origin": "ai"
+    },
+    "dataList[id=9180].simpleDesc[abilityID=91803].simpleDesc": {
+      "pl": "— opis skrócony] Odrzuca Umiejętność o najniższej Randze ze slotów Umiejętności",
+      "kr_sha256": "f2afcc037764cb5087a5f4d8a7122d9a966cf21d01e0b42742fdd9f6b3a55b52",
+      "en_sha256": "1122fd5a34075de6c90f89791a7d3c061a8c113cc861ba8f4ae9a419ec0fe01f",
+      "origin": "ai"
+    },
+    "dataList[id=9180].simpleDesc[abilityID=9180].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Liczniki Oddechu",
+      "kr_sha256": "7c9ec55101931a6c8df1b3856c502659d503d624d1609f612f705f1c5d715777",
+      "en_sha256": "7efe1354189f50b9c34124f439edd4968b8e79a11a93b10bbc0726eced6d5ea9",
+      "origin": "ai"
+    },
+    "dataList[id=9181].desc": {
+      "pl": "— opis] Na koniec ataku Umiejętnością zużywającą co najmniej 7 własnych Liczników [Charge], jeżeli cel ginie, zwiększa własne Liczniki [Charge] o (zużyte przez tę Umiejętność Liczniki [Charge]/4) (wliczając Szczególne Ładowanie)",
+      "kr_sha256": "93b8a9c47974f185f7e5421f4ddbd6605f678d1be3c48f24a76e62d2d640b189",
+      "en_sha256": "049ee2ca2911c6c9da628fe5ea2a3cf05f73e1382bf90cd4d30ed6e1769d87e4",
+      "origin": "ai"
+    },
+    "dataList[id=9181].name": {
+      "pl": "— nazwa] Miniatura Telepole",
+      "kr_sha256": "6178fed6c40a9532bcc1c43aeb58193d9dd8a6c9d01c22c723fc9e69af3ef5ad",
+      "en_sha256": "5097b5872fdbd3c435912bf178ae1976f1c539ffbd04f592ce1944789d845ffb",
+      "origin": "ai"
+    },
+    "dataList[id=9181].simpleDesc[abilityID=9181].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa własne Liczniki [Charge] proporcjonalnie do zużytych Liczników [Charge]",
+      "kr_sha256": "f47518a02c5c0c24c446f896a0bb083f98295802f4a5d37781b125b612d297a6",
+      "en_sha256": "8ea88ef035fdeea0528ef2ab7e71ebcba1cfe6b1ca7c7c027019ea64867e297e",
+      "origin": "ai"
+    },
+    "dataList[id=9183].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku zyskujące Licznik [Charge] lub Szczególne Ładowanie, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nNa koniec ataku Umiejętnością zużywającą własne Liczniki [Charge], jeżeli cel ginie, zwiększa własne Liczniki [Charge] o (zużyte przez tę Umiejętność Liczniki [Charge]/3)\n\nNa początku tury przy Licznikach [Charge] niższych niż 3, zyskuje +3 Liczniki [Charge]. Na początku tury przy Licznikach Ładowania co najmniej 3, zyskuje 1 [AttackDmgUp].",
+      "kr_sha256": "0a39853548698ccb20089e8128ec3243c8a372e0646fdbf93ea58c5e132fa4c7",
+      "en_sha256": "bddc4cdc25a0dce108aae6ad2bfe0c96a84a1dcb22c5fdc2da9f1cf36b9f389a",
+      "origin": "ai"
+    },
+    "dataList[id=9183].name": {
+      "pl": "— nazwa] Izolator",
+      "kr_sha256": "c1b1ce1ce37622d8eda595a86692e820e88a5fdc75261e909eecf4b2123ffb02",
+      "en_sha256": "c41984704627032f7803d53f0d975442d59d49158ad0a115bfdfd439890dbf7c",
+      "origin": "ai"
+    },
+    "dataList[id=9183].simpleDesc[abilityID=91831].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Liczniki [Charge] lub 1 [AttackDmgUp] zależnie od Liczników [Charge]",
+      "kr_sha256": "c2bfad1fa698c1e89f662ed90b5064346a3114593e8da3e0497774479958c80c",
+      "en_sha256": "899793a09883378420a7f155c3eaea719a3db85d149476e909b87a3891f9e462",
+      "origin": "ai"
+    },
+    "dataList[id=9183].simpleDesc[abilityID=9183].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa własne Liczniki [Charge] proporcjonalnie do zużytych Liczników [Charge]",
+      "kr_sha256": "f47518a02c5c0c24c446f896a0bb083f98295802f4a5d37781b125b612d297a6",
+      "en_sha256": "8ea88ef035fdeea0528ef2ab7e71ebcba1cfe6b1ca7c7c027019ea64867e297e",
+      "origin": "ai"
+    },
+    "dataList[id=9184].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku zyskujące Licznik [Charge] lub Szczególne Ładowanie, Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nNa początku tury przy Licznikach [Charge] niższych niż 3, zyskuje +5 Liczniki [Charge]. Na początku tury przy Licznikach Ładowania co najmniej 5, zyskuje minimalną i maksymalną Szybkość +2, 1 [Enhancement] i 2 [AttackDmgUp] (wliczając Szczególne Ładowanie).\n\nWszyscy sojusznicy na polu zyskują [ShareCharge] na początku tury.\n\nNa koniec ataku Umiejętnością 3 zużywającą lub zyskującą Liczniki [Charge], jeżeli cel ginie lub Liczniki [Charge] wynoszą co najmniej 3, dodaje 1 Umiejętność 3 do listy Umiejętności na następną turę (1 wywołanie na turę na sojusznika; wliczając Szczególne Ładowanie)",
+      "kr_sha256": "bedbd8ecf4fc0684bfd95b53d730d5178fbd9eb28067aa69756087290e06e197",
+      "en_sha256": "e4673a25e125c7e13dee69da99d2668e5de72ba0e3c2dbe7bfde4dcd1b1e3d69",
+      "origin": "ai"
+    },
+    "dataList[id=9184].name": {
+      "pl": "— nazwa] Silnik Wieczny Typu T-5",
+      "kr_sha256": "122e213b82874aee55df4276c6759ccf3e761ae4eea4ea32ec0eeff4b5191891",
+      "en_sha256": "1b549acba1cf60c6c8183fd4bf7ef41898312b0a6dd3849ba777e516af0fbaf5",
+      "origin": "ai"
+    },
+    "dataList[id=9184].simpleDesc[abilityID=91841].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Liczniki [Charge] proporcjonalnie do zużytych; na następną turę zyskuje [PlusCoinValueUp]",
+      "kr_sha256": "30422b103f8e23444c51e69076b0ddcb813a959ea698e2beb60fa5577e39757a",
+      "en_sha256": "ca74c1bd5c33b59749dfc9d181bc5b9b5eaf2b621d8d496aaa69262fb3c4925d",
+      "origin": "ai"
+    },
+    "dataList[id=9184].simpleDesc[abilityID=91842].simpleDesc": {
+      "pl": "— opis skrócony] Na koniec ataku Umiejętnością 3 zużywającą [Charge] dodaje 1 Umiejętność 3 do listy Umiejętności",
+      "kr_sha256": "87c89877826b320620e08942a000d89d76722bc080430d374426f3f5fb86be18",
+      "en_sha256": "b83b8bd0a1b51569ea7f9da95e001b425eb9c0f3f174ce3cc05012104442e130",
+      "origin": "ai"
+    },
+    "dataList[id=9184].simpleDesc[abilityID=9184].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Liczniki [Charge] lub 1 [AttackDmgUp] zależnie od Liczników [Charge]",
+      "kr_sha256": "c2bfad1fa698c1e89f662ed90b5064346a3114593e8da3e0497774479958c80c",
+      "en_sha256": "899793a09883378420a7f155c3eaea719a3db85d149476e909b87a3891f9e462",
+      "origin": "ai"
+    }
+  }
+}

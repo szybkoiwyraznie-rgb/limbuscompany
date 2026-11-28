@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[key=130100].text": {
+      "pl": "Korytarz na 3. piętrze",
+      "kr_sha256": "1bb5fe1fa33d16ea1d85fc9b2d791830c507226d56e9d914be70943a1acb5ecf",
+      "en_sha256": "17ff7abfa0d34a0a781a1e0717ddd5392616795f941ae9894802a5a7022bfb3a",
+      "origin": "ai"
+    },
+    "dataList[key=130200].text": {
+      "pl": "Boutique du Rouge",
+      "kr_sha256": "60466c9f8f0aaff7797faec36218275863389adc613cb6c06b144c09a3122a1b",
+      "en_sha256": "057ab7b9c8f7ca8af3e5de8ebcea4493bb120ff98fb3c09cfe92345e6d6a48c7",
+      "origin": "ai"
+    },
+    "dataList[key=130300].text": {
+      "pl": "Maison du Noir",
+      "kr_sha256": "666cb37b5c74b68b23501a17e1f07f276b8244033a00765ea69d0153e4fa3791",
+      "en_sha256": "d24d3609c17bbd66b91ce241d85c27a239ce47b63477a3ee9173f45b852d21e8",
+      "origin": "ai"
+    },
+    "dataList[key=130400].text": {
+      "pl": "Warsztat Poprawek",
+      "kr_sha256": "50a74729f9b29fd2aac7a55180a2c5f69f8fba89b62d5c575b9f0d8b80c67097",
+      "en_sha256": "6759aac85d33e61734f64406b93918fc1ee45b1918cfc3449b882bcebf9a975d",
+      "origin": "ai"
+    },
+    "dataList[key=130500].text": {
+      "pl": "Pomieszczenie Zapowiedzi",
+      "kr_sha256": "df1804d9c2b00e7b34d4c7cad3766d9588627a7ba20c335615c15a86765dadcf",
+      "en_sha256": "90f4c87c81c83458260b03485e83962f3322742341b6da15be14ec2d09827e27",
+      "origin": "ai"
+    }
+  }
+}

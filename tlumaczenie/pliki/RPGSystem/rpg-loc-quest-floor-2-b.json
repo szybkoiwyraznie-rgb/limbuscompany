@@ -1,0 +1,184 @@
+{
+  "entries": {
+    "dataList[key=Q2001].description": {
+      "pl": "Znowu jesteśmy na 2. piętrze. Podobnie jak ostatnio, raczej nie wejdziemy od razu do środka. Najpierw szybko się rozejrzyjmy.",
+      "kr_sha256": "be8f0c3e53f1fb60567b4e0c4f480421d9be4314b86f02a533d0a7e6dcec6ce1",
+      "en_sha256": "124f4361375aa020c34c0d28efa37f90f5945a686919ef7f14b8bc25f48e5b1d",
+      "origin": "ai"
+    },
+    "dataList[key=Q2001].steps[#0].goalDescription1": {
+      "pl": "Rozejrzyj się po 2. piętrze",
+      "kr_sha256": "5008a3482745415f69890b72d8c7a56a7f2bec608555facf820c66310e1c3658",
+      "en_sha256": "99e9ed193f77ee8e2307718ff2c73f37804a0dcc0cce8174f20be64e843ce9ac",
+      "origin": "ai"
+    },
+    "dataList[key=Q2001].title": {
+      "pl": "Szybkie rozejrzenie się po 2. piętrze",
+      "kr_sha256": "baa2a66ad9cb78910f656c8647ccc8aef20b7327d7d0e4a69366fb8f256c1c99",
+      "en_sha256": "3e14b926bbcf63d4d64075558d408a830bd6cd0ce0945cb7f6292b6497d907f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q2003].description": {
+      "pl": "Ten, kto strzegł wejścia, zniknął. Czy coś się zmieniło? Wejdźmy do środka.",
+      "kr_sha256": "50dff53db3fbbe937110c3287aa96685de6ca923d979361f0710ceee66415fa9",
+      "en_sha256": "23ca0db6cc14fce86aff51088e8c1fc229a12feb1eab07950c63f6be136e0634",
+      "origin": "ai"
+    },
+    "dataList[key=Q2003].steps[#0].goalDescription1": {
+      "pl": "Wejdź do Salonu Prestiżu",
+      "kr_sha256": "f6314c875581001fd5995e72791a56f4cd1491768878450c45a010df5444ea21",
+      "en_sha256": "fbc41baa33e1686896709692ed7c8b1cf8d1ebe2c25a3743424e1bdf9a155d11",
+      "origin": "ai"
+    },
+    "dataList[key=Q2003].title": {
+      "pl": "Wejdź do Salonu Prestiżu",
+      "kr_sha256": "f6314c875581001fd5995e72791a56f4cd1491768878450c45a010df5444ea21",
+      "en_sha256": "fbc41baa33e1686896709692ed7c8b1cf8d1ebe2c25a3743424e1bdf9a155d11",
+      "origin": "ai"
+    },
+    "dataList[key=Q2004].description": {
+      "pl": "Salon Prestiżu jest usiany zwłokami Le Noir. Idźmy głębiej.",
+      "kr_sha256": "0c64aeb0077737ce0bcf353af883e659f75c52f36930010fb3f45bc34fe85fca",
+      "en_sha256": "e70d619a86f0fa2095d206370c86f011af8cb634752ad70e47316a6c7680a96e",
+      "origin": "ai"
+    },
+    "dataList[key=Q2004].steps[#0].goalDescription1": {
+      "pl": "Wchodź dalej w głąb Salonu Prestiżu",
+      "kr_sha256": "3e2e72de50c1658e9893d517927c08f07efeddf162815d74fbc9affddb7aa28b",
+      "en_sha256": "ba8021581484ef63830a4fc024b944a63292de21113c944ee5f3fdbbf07b732a",
+      "origin": "ai"
+    },
+    "dataList[key=Q2004].title": {
+      "pl": "Wejdź do Salonu Prestiżu (2)",
+      "kr_sha256": "28cbacb77aaf42702710119664d16206a796fd84d7c308fd9298c764c4632ee8",
+      "en_sha256": "4243df90b0188f09422f52485f61db6c616b7c9ffb09ec0a68b316265b692ec9",
+      "origin": "ai"
+    },
+    "dataList[key=Q2005].description": {
+      "pl": "Znowu widać wejście utworzone przez Le Rouge. Wejdźmy.",
+      "kr_sha256": "47b0b14532874ccaf48827593067a7bc5fb2c1abe8fffc0986435f1b8bbdfcea",
+      "en_sha256": "b84a2cca7b201572ea7cf0b941160e0d3c9d5a56563862fc849896ecb069136d",
+      "origin": "ai"
+    },
+    "dataList[key=Q2005].steps[#0].goalDescription1": {
+      "pl": "Wejdź przez wejście do Salonu Prestiżu",
+      "kr_sha256": "20a252a4a2c805442fb5c743af5f0cbf591dbd3e2d7cf8e0a206c3136516c3ca",
+      "en_sha256": "eed550b8e50b6daf7608a8355479474bbf2cbbf757173810fd34a4fc61967d95",
+      "origin": "ai"
+    },
+    "dataList[key=Q2005].title": {
+      "pl": "Wejdź do Salonu Prestiżu (3)",
+      "kr_sha256": "8990743945ca90f17c18b74ff2b0937146c9a875ff70a7ecde23dad6f4f62b18",
+      "en_sha256": "076c49d879de7f613fdd1b61bd639dad22ff4d9a1ff08f62021aa95abe6cad2e",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008A].description": {
+      "pl": "Z Kołyski wyłoniła się postać wyglądająca jak małe dziecko. Spróbujmy z nim porozmawiać.",
+      "kr_sha256": "8aa5dd140032a51cbca5fabfb1941ed35b43735774fe664dfd31bff92337a9c7",
+      "en_sha256": "6ce497881af6f6b17824d3e46955977c54275499b4365058343f1b624235b95f",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008A].steps[#0].goalDescription1": {
+      "pl": "Zagadaj dziecko z Kołyski",
+      "kr_sha256": "526d53f6d7153cf7f6253979376958b4a2b7a31680f247377570e6d8ce0b34fe",
+      "en_sha256": "226257b03f1de60499d0b2166877e89234502b4aabdf205e8f86a29c0d288c64",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008A].title": {
+      "pl": "Zagadaj dziecko z Kołyski",
+      "kr_sha256": "526d53f6d7153cf7f6253979376958b4a2b7a31680f247377570e6d8ce0b34fe",
+      "en_sha256": "226257b03f1de60499d0b2166877e89234502b4aabdf205e8f86a29c0d288c64",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008B].description": {
+      "pl": "Dziecko z Kołyski rzuciło się do ucieczki, gdy tylko nas zobaczyło. Dopadnij je i spróbuj zagadać.",
+      "kr_sha256": "d05955605678de7bda6e9829e4360034ea5be29708b7b2de062f9532bbbfb451",
+      "en_sha256": "7df76e3712036b59e5e7f1eee7b487119d51ffe89d8ce53e3476a39dc5e51875",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008B].steps[#0].goalDescription1": {
+      "pl": "Złap to, co wyszło z Kołyski",
+      "kr_sha256": "d7b4cc2ad4fbe5fc30de2cf31640e42074d61bee747c2fb71f265a04cb420d76",
+      "en_sha256": "11bc79f71b86729dad89ab005a5e8e70cdfc276c3a120b7d4627353bfda41297",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008B].title": {
+      "pl": "Złap zbiegłe dziecko",
+      "kr_sha256": "33d1b86849b06d4714a1e15b6e29e7c98cd8fe16195275c4aeb05459752bf0d2",
+      "en_sha256": "39bc77da29254c994b6df5c21d41d2b915ea27de44d9f3735da670171684fbac",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008].description": {
+      "pl": "Dyrektor Marki Le Rouge powiedział, że to, co śpi w Kołysce, wkrótce się obudzi, i poprosił, byśmy byli przy tym obecni. Podejdźmy najpierw do Kołyski.",
+      "kr_sha256": "907484ea565c0fad35cb8c450e2020c71fcad838a74e6412bcab2ee4a1b59a7a",
+      "en_sha256": "25998d21dd6ef0f84b3240f13e077f2095489b99f82c30fe354581c8e16623d0",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008].steps[#0].goalDescription1": {
+      "pl": "Przyjrzyj się Kołysce",
+      "kr_sha256": "892245a2b2037576ef8eabbfefdfbb524ad1cff1df1dd45ccfc9a5d7114653d0",
+      "en_sha256": "cf69c0103089e0ac81e0316bec16d413156f142d237bd8c4a36a2458838fdbf0",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008].steps[#1].goalDescription1": {
+      "pl": "Przyłóż Okruch blisko Kołyski",
+      "kr_sha256": "fc3c8f42b8acfdba09b131ff15d9e9aa058265ca0c08cb2bf0c5638c19a87496",
+      "en_sha256": "ecad7b55f5a8b39f620ac97d648a9a571b7d06fe972934b90104e329ecfe6065",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008].steps[#2].goalDescription1": {
+      "pl": "Spróbuj nakarmić Kołyskę Okruchem",
+      "kr_sha256": "ca73e61fd71ddb439151bf6ba5e2cc958b2e602289b3c40f1d036f49401cc096",
+      "en_sha256": "bc403fb1cd823b615bc4ee6bd95648386f6ef385f399588284cfafb0acfbe76e",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008].steps[#3].goalDescription1": {
+      "pl": "Uwolnij dziecko z Kołyski",
+      "kr_sha256": "c78a0460679e715f719374fdf35400d0e798c512ab377f2062ebe78aac7479c1",
+      "en_sha256": "e223669b6a493fab4c09d7670b52b6242575ad5439c4c475ed6584199519f8fc",
+      "origin": "ai"
+    },
+    "dataList[key=Q2008].title": {
+      "pl": "Przyjrzyj się Kołysce",
+      "kr_sha256": "892245a2b2037576ef8eabbfefdfbb524ad1cff1df1dd45ccfc9a5d7114653d0",
+      "en_sha256": "cf69c0103089e0ac81e0316bec16d413156f142d237bd8c4a36a2458838fdbf0",
+      "origin": "ai"
+    },
+    "dataList[key=Q2009].description": {
+      "pl": "Dziecko z Kołyski zaczęło iść za nami, choć wciąż trzyma dystans, jakby się nas bało… Na razie opuśćmy Salon Prestiżu.",
+      "kr_sha256": "01203bb90d1bce44e8675735a6a54e9a9a19fdc6320758c037be063f8709a38b",
+      "en_sha256": "2268cc2a6f96ea3cc81a62246de5eb3e13de5adda407ad3288b6d3d4557e1d3a",
+      "origin": "ai"
+    },
+    "dataList[key=Q2009].steps[#0].goalDescription1": {
+      "pl": "Opuść Salon Prestiżu",
+      "kr_sha256": "0fdaf7c9792f5fcc7d2dd3fc8aa50c2dc95730b0096753afd34ce2837c61d506",
+      "en_sha256": "96fa4a0ba84f2c073ba5887cc5d381c7bf7ea57f48653d988105561cd4f7c079",
+      "origin": "ai"
+    },
+    "dataList[key=Q2009].title": {
+      "pl": "Opuść Salon Prestiżu",
+      "kr_sha256": "0fdaf7c9792f5fcc7d2dd3fc8aa50c2dc95730b0096753afd34ce2837c61d506",
+      "en_sha256": "96fa4a0ba84f2c073ba5887cc5d381c7bf7ea57f48653d988105561cd4f7c079",
+      "origin": "ai"
+    },
+    "dataList[key=Q2010].description": {
+      "pl": "Zabraliśmy kręgosłup L'Inamovible. Nie wiadomo, co wydarzy się dalej, więc warto zbierać wszystko, co może się przydać. Sprawy na tym piętrze wydają się skończone. Udamy się na 4. piętro.",
+      "kr_sha256": "7bd7f3ea6d68886e4ddab9b288a656938322b911a6d27a801ab25e9a85d4657c",
+      "en_sha256": "571f48d13f41758f7c84476382c4f03072a7dd5b62ccb935b9cb74beb7d2c229",
+      "origin": "ai"
+    },
+    "dataList[key=Q2010].steps[#0].goalDescription1": {
+      "pl": "Udaj się na 4. piętro",
+      "kr_sha256": "be8632f1a2587bd5c7bc9ce5d247cb9c6c0baca26b1dc5a857453acf936c703e",
+      "en_sha256": "2bf221e011fb0ed44b657a8224f80ce485a7f1a474869e85965a228728e5df16",
+      "origin": "ai"
+    },
+    "dataList[key=Q2010].title": {
+      "pl": "Udaj się na 4. piętro",
+      "kr_sha256": "be8632f1a2587bd5c7bc9ce5d247cb9c6c0baca26b1dc5a857453acf936c703e",
+      "en_sha256": "2bf221e011fb0ed44b657a8224f80ce485a7f1a474869e85965a228728e5df16",
+      "origin": "ai"
+    }
+  }
+}

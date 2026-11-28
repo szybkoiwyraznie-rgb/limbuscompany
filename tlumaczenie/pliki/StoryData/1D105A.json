@@ -1,0 +1,159 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Co jest. Już koniec?",
+      "kr_sha256": "01761934619ecd9c707602d9f7b72d7c2447eeef595122b4e53a3181feeefe4f",
+      "en_sha256": "86fd0edecaa09d6bf08a9f6fab2b4dc10d7e0570ee9c4391b21d1a1416c36e5f"
+    },
+    "dataList[id=10].content": {
+      "pl": "<W niebo chyba nie uleciała…>",
+      "kr_sha256": "c41f3eb5bce0ebf1bebb5fddf14082794b2ba91890d282169bc0b52ee000cc69",
+      "en_sha256": "d0ec0bc3ea3569f3d03319caf916be35705015b3f54ad7a995d6c342dec317a8"
+    },
+    "dataList[id=11].content": {
+      "pl": "Wnikliwe jak zawsze, Kierowniku. Takiej możliwości nie można wykluczyć.",
+      "kr_sha256": "e42054b9208275b199896e3feb95d9231e1fb941becaa7ca043840f4b8529421",
+      "en_sha256": "61cfd6de46745e224d59020852bc52506652c467b975648bebaff68e34bef2b0"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Nie widzicie, jaki gruby strop mamy nad głową?",
+      "kr_sha256": "f8e15687125df36149ec8879e690d056a65ed8116ae1a786ea508dba10b3ab9a",
+      "en_sha256": "a4637e1b9985f11a987a158e98d1d5429bb3c49b6cbdc6175b020c5fa491516b"
+    },
+    "dataList[id=13].content": {
+      "pl": "…Proszę spojrzeć tutaj.",
+      "kr_sha256": "b22fa9e25eecc592a8f5ca648f14e9bc63627a2a180782344f2eb34ce5c9b249",
+      "en_sha256": "2f7d555490d04e20b0f4d6e274cee24f87eab31ccaaa5e43fd07db72e42b3a5e"
+    },
+    "dataList[id=14].content": {
+      "pl": "Yuri bez sił wskazywała coś w kącie.",
+      "kr_sha256": "7bcc496db7a33137f42b2590d89d2b5d327ac0abc50a7386ac24e7602ae65dfb",
+      "en_sha256": "272b62866a6357af7ff5bc1ac81f37c90f5bf619ec55af4a2ad01563abf7a9f6"
+    },
+    "dataList[id=15].content": {
+      "pl": "Myślałem, że śmierć Ayi mocno nią wstrząsnęła, ale widząc, jak uparcie stara się trzymać…",
+      "kr_sha256": "4619a03044debc5cb9502427c4e43a7e722192d22190f6db38457fa5cae80568",
+      "en_sha256": "9a9120527999f3b625a350b9cf01dc7bd3b1e52dcc1725bda7ccaa2afbf2654c"
+    },
+    "dataList[id=16].content": {
+      "pl": "…uznałem, że zamiast dokładać zbędnych słów, lepiej na razie po prostu iść za nią.",
+      "kr_sha256": "f46bea24ef1fb9cbfd7a87224ba52a135a69856a47939932317eff36438827e5",
+      "en_sha256": "671243f9929d8b3a8804cdbae74d8f2e52e0fc4ad878226befbab32aa5a5b8f5"
+    },
+    "dataList[id=17].content": {
+      "pl": "<…Jajo?>",
+      "kr_sha256": "a0ed2f8189489288f5defceaa50d8fac0561a7075d3610e7881df179e96b336f",
+      "en_sha256": "51b1765fcd984c240e3a98bd379fd9f5bd3f106869389bbbe01cd1cd3ab5484c"
+    },
+    "dataList[id=18].content": {
+      "pl": "To jądro Anomalii. Jeśli właściwie się ją obezwładni, wraca do takiej postaci jaja.",
+      "kr_sha256": "5589d415a271e853fab6c4e4cc3f88d33815465265ac3412e604dc72ad750e83",
+      "en_sha256": "f59c06aaa9e1a516c71ab3c0139316590ae51a73dfaa9f07e31979229c442bd4"
+    },
+    "dataList[id=19].content": {
+      "pl": "…I wykluje się. Jeśli w tym miejscu minie dość czasu.",
+      "kr_sha256": "e971cad8b1006c9107b456fbc14930dd37b093453e6d0ae916279bd0f61f2d3d",
+      "en_sha256": "30028a2b1df461cfd6b5540d92f14cd0398f0bc0f5aef65e7b46c69945d101a9"
+    },
+    "dataList[id=1].content": {
+      "pl": "Słyszałam, że Anomalie są tak potężne, że trudno je w ogóle obezwładnić…",
+      "kr_sha256": "9afcecb43ec8524fd40748705ec82a6466b51b3497092f0a9b22b3e52fc5b3b3",
+      "en_sha256": "0fce6aa33b1a113032b00978fa8c2ca5588e15384688ed889a0ca3dcfbb84e3c"
+    },
+    "dataList[id=20].content": {
+      "pl": "Że co? Psiakrew, co to za…",
+      "kr_sha256": "0611f9b2dcdcf33c5fb84c97715e0841dd8d6cea5dc4fb9cac1fe9170f50a1fd",
+      "en_sha256": "d504d8e77c0edf2080024ef3ab4fdc3540b7de372927a72d9cf6013364bc0643"
+    },
+    "dataList[id=21].content": {
+      "pl": "Chcecie powiedzieć, że te stwory nie umierają?",
+      "kr_sha256": "4a1d91f6e2d6a00456fdfa5994d1847c168852d13a3a7e7320c04856fde9449c",
+      "en_sha256": "707404d0def37185304c7af1cf02da6a194b1db343583b9c92c37fe432f276b0"
+    },
+    "dataList[id=22].content": {
+      "pl": "Anomalie nie umierają. Między innymi dlatego L Corp. wytwarzało tak ogromne ilości energii.",
+      "kr_sha256": "85eb628265fb4903309a7643ee520b7c3c477b69a99426c75a920e28c054951e",
+      "en_sha256": "dddcc03bed921cff1340dc091e5b0b357460db5ec4fe1aece4f4710bc4cee157"
+    },
+    "dataList[id=23].content": {
+      "pl": "Kiedyś moją pracą było odnosić takie jądra do izolatek… A teraz wszystko na odwrót.",
+      "kr_sha256": "9087d70a9c7db4c64db600115c88c43155bc970d5e6e56529e19867bc517e7a1",
+      "en_sha256": "1579964a3220f43cdb8fd0cd3d4412a64e4082d329ea9dbf29fb01fa9963db87"
+    },
+    "dataList[id=24].content": {
+      "pl": "Hmm… I co mamy zrobić, zanim to jajo znów się obudzi?",
+      "kr_sha256": "39b747541294cc56c52569002bf96b4a65331fd460f8f3b539393de5a34a7182",
+      "en_sha256": "d4a2c0166b60ef2ee92eae96690b1a4e0768fefc95c4b822656925cc72c6b78c"
+    },
+    "dataList[id=25].content": {
+      "pl": "Limbus Company ma osobny dział, który zajmuje się takimi Anomaliami. To oni je zabiorą.",
+      "kr_sha256": "48352287aeefac77b8bfadcde0255e1bfd801bf129e41c727aad8846246239b1",
+      "en_sha256": "87893239b9ff6ebe4797db99a1102ee77c1747386c321cf03d502520c420c919"
+    },
+    "dataList[id=26].content": {
+      "pl": "To ten… zespół After? Pamiętam, że wspominano o nim przy szkoleniu.",
+      "kr_sha256": "f2a0e2517d584e0b1e86ac58111403129b6773be8a727de654aed8b5e6e551a6",
+      "en_sha256": "efbeeec0a43e2ab7b942417ecc51c54553bf941cf5d0cab761b095387e2c2c5e"
+    },
+    "dataList[id=27].content": {
+      "pl": "To czemu ich zaraz nie wezwiesz, zamiast się guzdrać?",
+      "kr_sha256": "c6ee9d8bac5f5a594151ba2cd9eea02294919ae192fe3164fe99b22c8728f2c4",
+      "en_sha256": "afc6f405213c5b6344a410772f08252b8d34bb2df36e1ff62ec957214627c75c"
+    },
+    "dataList[id=28].content": {
+      "pl": "Łączność… jest możliwa z Mephistophelesa.",
+      "kr_sha256": "81dc804c2d8bc4c3b438767ea39e51171e86f4b1f51bdcdd198175472cc25f5a",
+      "en_sha256": "58b11c173e0b970c2e12fd2a957dc9854c6977a7b147f7c51b815427efc36f44"
+    },
+    "dataList[id=29].content": {
+      "pl": "…No tak, mogłem się domyślić.",
+      "kr_sha256": "c08260482c75b3f02eb332d72e2a4962635cc451c15a54228e38d6906073ec2b",
+      "en_sha256": "3ca113efb32cf6b74b6cd0fcaf886f27290dbb33eb2a754ea9e5a1696ed3b9e0"
+    },
+    "dataList[id=2].content": {
+      "pl": "To działanie Tłumienia Qliphoth.",
+      "kr_sha256": "c99f2faed3f196017b1ea2eb2e53f326109ca77f394685ddf49e53290210a288",
+      "en_sha256": "3e23a142c3ed5eecc053dcf385a1053ed07eefa308dba7c3f43d809d9379a0f6"
+    },
+    "dataList[id=30].content": {
+      "pl": "Nie ma powodu do obaw. Kiedy tylko znajdziemy Złotą Gałąź, i tak będziemy musieli wrócić, czy się to komuś podoba, czy nie.",
+      "kr_sha256": "ebc729ce57cdb6cd9c0030c7f69c15607c9e8f7bf45ff2e76e1623367696c5da",
+      "en_sha256": "79a1b3e9415c12fbb21fe210bfc98768507ed25cd66cef0cee3b2b50675a8ff7"
+    },
+    "dataList[id=3].content": {
+      "pl": "Co? Kompotu?",
+      "kr_sha256": "b04d4f3535e266432ba1a0fdcf6e80151473b0eab69f98a02be7a35b064a53c4",
+      "en_sha256": "06eaaaec54ff75a882c22530eba9d0d2114e131c51a63893293540780be1accf"
+    },
+    "dataList[id=4].content": {
+      "pl": "…To siła, która osłabia Anomalie. Używa się jej w izolatkach, żeby bezpieczniej nad nimi panować.",
+      "kr_sha256": "fc436d18f8efd746e4ff25637b7f535f82ac7dfa68484977ea9efc591d661a01",
+      "en_sha256": "fcc97fa4a27f88f7ba1fd146a3fe2e73793dd7fa1156d8ab1aa8709a6d8a3fb0"
+    },
+    "dataList[id=5].content": {
+      "pl": "Im więcej Złotych Gałęzi odzyskamy, tym słabsze będzie to tłumienie. Tym razem skończyło się na tyle, ale…",
+      "kr_sha256": "b26478064ec43a0f3e74f7c94a19cd30ad6f4f0c521c812c9090c07de1deffbb",
+      "en_sha256": "14bdb714cb74b643eec5d66af216bbae7ba9c27553c518f5a84bd417140313f1"
+    },
+    "dataList[id=6].content": {
+      "pl": "Czyli później może nie wystarczyć nawet sto razy umrzeć i wstać.",
+      "kr_sha256": "26d76b579baeb43d0ece9e09102f12de37d03b7fd7ca086dc1c5c4d21302a8ea",
+      "en_sha256": "cc61529033b4408a7cfb3b58cce57cfc2cafb69f16d43c2bd146c323df13ba7d"
+    },
+    "dataList[id=7].content": {
+      "pl": "Na samą myśl kręci mi się w głowie…",
+      "kr_sha256": "8df37b9fbb65410eb036844b00a30968efdaff5446be0a40287db5ee34bf4ccd",
+      "en_sha256": "691c68361aa5cbba67d65d77e0c4059d273e2e8193ce6526a0901a0b48b9e9b8"
+    },
+    "dataList[id=8].content": {
+      "pl": "<…Tylko gdzie się podziało ciało tej Anomalii? Przecież chyba ją zabiliśmy…>",
+      "kr_sha256": "081d24c1ae739f7f937a4e86e802044b65d5c23f6bc13ff99a8f0eb299380bf7",
+      "en_sha256": "56fe4a266348d59410ef8d16bc3531151e652d760f4d8995e3349ff8a8b92e79"
+    },
+    "dataList[id=9].content": {
+      "pl": "Bez wątpienia wyzionęła ducha. A wszystko dzięki znakomitemu dowodzeniu Kierownika.",
+      "kr_sha256": "5c591e23ad6d4e283b847ad1b09a545cc4eaf180b816b2a7e489f77a5dcfea72",
+      "en_sha256": "1e54311f98fd9b981f321c1066c591480fb6119196f65b629d6d7dc4be129b2c"
+    }
+  }
+}

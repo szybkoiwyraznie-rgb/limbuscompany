@@ -1,0 +1,178 @@
+{
+  "entries": {
+    "dataList[id=815901].desc": {
+      "pl": "o ile ta jednostka nie jest w Oszołamieniu i nie ma zniszczonej Części, przy trafieniu Umiejętnością ataku obniża swój Próg Oszołomienia o 5",
+      "kr_sha256": "211d7995aee63588bb971a8380f9ccb96b154293f3b7c1b3feb0806e0d01e8c9",
+      "en_sha256": "2111df7b4c4b13eadbdec294df1d73d7e91bb5848960d4ad3b6b023c6e106d6e",
+      "origin": "ai"
+    },
+    "dataList[id=815901].name": {
+      "pl": "Sin Resistance",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=816001].desc": {
+      "pl": "o ile ta jednostka nie jest w Oszołamieniu i nie ma zniszczonej Części, otrzymuje o 50% mniej obrażeń [Burst]",
+      "kr_sha256": "656927f521a937cd57c9edbb816c88d9bb271eac2ca8299e70c1c542be20630b",
+      "en_sha256": "7e788cd2ccb2c7400d31a13d84e6f34fdf5eb6365295871f0f09462197b91310",
+      "origin": "ai"
+    },
+    "dataList[id=816001].name": {
+      "pl": "Sin Resistance",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=816401].desc": {
+      "pl": "wszystkie Umiejętności wskazują Heathcliffa jako cel.\njeżeli Heathcliff ginie, ta jednostka wygrywa walkę.",
+      "kr_sha256": "3e0ad16f5cb3d19a48dcdf91580cf9394d87b4403b402b9564c8c132fb6a28cf",
+      "en_sha256": "e38fea9364b3953aa0e242d807bd67ba3ddf7a2aa35b11dc66e7024809cf8b18",
+      "origin": "ai"
+    },
+    "dataList[id=816401].name": {
+      "pl": "Self-loathing",
+      "kr_sha256": "20c98127bee269dcb04972b3e52e220c57a95100775c4d67ee5b2b3d04f75c04",
+      "en_sha256": "3eb82622b8740ba0fb0ee63bd3fa2c905ec8af071170f11743c944094c36b085",
+      "origin": "ai"
+    },
+    "dataList[id=816402].desc": {
+      "pl": "gdy ta jednostka ma efekty Afinności typu „Explosive”: staje się podatna na odpowiadające Afinności i odporniejsza na wszystkie pozostałe Afinności; przy trafieniu zyskuje specjalny efekt.",
+      "kr_sha256": "7034ea1a0919b14503297708cf01a9b4a7b522abf77dc5b7de1214e60fb86d22",
+      "en_sha256": "a1ef863961aac7e996364fb621364419ba821c5e4bda439dcdcb17de60998eb2",
+      "origin": "ai"
+    },
+    "dataList[id=816402].name": {
+      "pl": "Explosive Emotions",
+      "kr_sha256": "5c99a1aadc3de7dc9f6d8fec2fe8c8050cb33ba2d397f70af72608c059372451",
+      "en_sha256": "0a5b132bdfa46f18ba25e00598f0626b7007fa70d14610009acb99270f586f58",
+      "origin": "ai"
+    },
+    "dataList[id=816403].desc": {
+      "pl": "jeżeli ta jednostka traci efekt Afinności typu „Explosive” przed końcem 2. tury od jego zdobycia, zyskuje [AaCfPbBd] na 2 następne tury, a jej wzorzec Umiejętności ulega zmianie.\njeżeli efekt nie wygaśnie w tym czasie, zostaje odebrany, a jednostka zyskuje 6 [AttackUp] i 3 [Agility] w następnej turze.",
+      "kr_sha256": "8f470b3b2736f17381705e313e1ebce1f55a8f93aa030cb1e4e541a5e6a0a339",
+      "en_sha256": "e8df5db43623de466c37eba6679ab9341aa455cbe9d0834b33c5c793d3c06ed6",
+      "origin": "ai"
+    },
+    "dataList[id=816403].name": {
+      "pl": "Deep Bereavement",
+      "kr_sha256": "5d01c7b3a6a699b97db0c2406461d95aa7f130a5b7c3a94e29d89bd6340fc746",
+      "en_sha256": "24e5f72da90993c03641f240a1873c7e62e1fc9f51c7e4789bcb214433bce4e2",
+      "origin": "ai"
+    },
+    "dataList[id=816404].desc": {
+      "pl": "NOTHING TO SEE HERE",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "bf21523dbcf1007d4c733141622c5708c811ae6b092dc878d48d366310a40131",
+      "origin": "ai"
+    },
+    "dataList[id=816404].name": {
+      "pl": "NOTHING TO SEE HERE",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "bf21523dbcf1007d4c733141622c5708c811ae6b092dc878d48d366310a40131",
+      "origin": "ai"
+    },
+    "dataList[id=816405].desc": {
+      "pl": "jeżeli jednostka nie trafiła Heathcliffa do końca Umiejętności, traci 1 Explosive Emotion\njeżeli na koniec tury jest w Oszołamieniu, traci 3 Explosive Emotion\nnie traci więcej niż 3 Explosive Emotion na turę; jeżeli na koniec tury wartość wynosi 1, efekt zostaje odebrany",
+      "kr_sha256": "824a170238588d212ec2966d85a762be89cb27816deea038dc995ee1d8acc145",
+      "en_sha256": "3d21abc036c0f596c79f2e6a6e767512191e72c3fb33bff29995961a984f2cb7",
+      "origin": "ai"
+    },
+    "dataList[id=816405].name": {
+      "pl": "Spite-driven",
+      "kr_sha256": "9a9910bfc060995066ea22cdbecbc129521df8754db020ea692bbde468d31fa6",
+      "en_sha256": "1e8d338b582991a3946acb5d8fe84cb01137d0e09f21fbd298e93a85ede157ab",
+      "origin": "ai"
+    },
+    "dataList[id=816406].desc": {
+      "pl": "Początek tury: przy SP innym niż -45 przywraca 15 SP.\nKoniec tury: jeżeli jest w Panice, na początku następnej tury dochodzi do siebie z Paniki, a SP wraca do 0.\nKoniec tury: jeżeli dochodzi do siebie z Paniki, na początku następnej tury zyskuje 2 [Enhancement]",
+      "kr_sha256": "100bd9bcda04b7873e0a8e57e0c1b912b62ec86a9343f841e1597f7b80e0d8ca",
+      "en_sha256": "677e82996487e527405c555b30dbef9bbbe202adf2907496e3d8daa74d69b3bb",
+      "origin": "ai"
+    },
+    "dataList[id=816406].name": {
+      "pl": "Heart of Vengeance",
+      "kr_sha256": "f0f290237cbda61073e1fc1955e4da30e3f0cb120f5303519124d3369c5d5056",
+      "en_sha256": "71f00642b29df532cfe3660c7ef825dc30475ccb12ad4b63ac973248a1a79354",
+      "origin": "ai"
+    },
+    "dataList[id=816407].desc": {
+      "pl": "jeżeli jednostka nie trafiła przeciwnika do końca Umiejętności, traci 1 Explosive Emotion\njeżeli na koniec tury jest w Oszołamieniu, traci 3 Explosive Emotion\nnie traci więcej niż 3 Explosive Emotion na turę; jeżeli na koniec tury wartość wynosi 1, efekt zostaje odebrany",
+      "kr_sha256": "9fa9e9489976f2eb533c098968b2ad55d1bc49c6d9935da3ae40a4acd3022958",
+      "en_sha256": "0a46d2faafa07a9b4d8ef338c44b7edf98c1a63910bb34a59c40ff4ea8de8271",
+      "origin": "ai"
+    },
+    "dataList[id=816407].name": {
+      "pl": "Fathomless Wrath",
+      "kr_sha256": "aa1fc27012456ab23b5fe306aa8263a8094b7bc40e8801cc761d1fb681ce5a5d",
+      "en_sha256": "323997003e72f2ead826841424074f78c19fd22d05889c119d6687d2a4dfeff9",
+      "origin": "ai"
+    },
+    "dataList[id=816501].desc": {
+      "pl": "przy HP 65% lub mniej: zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] po wygranej w Starciu\nprzy HP 40% lub mniej: zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] przy użyciu Umiejętności\npodczas gdy warunek zostanie spełniony choć raz, efekt działa nadal.",
+      "kr_sha256": "d8ac16b97db632bc0385ff1fc345217dd51fcaa408775195c62e282dc828ac0e",
+      "en_sha256": "b8ab4a8cfa2998c76ffb2433f65744af1aa4f1c05df65ca8c6627ef686a8fa37",
+      "origin": "ai"
+    },
+    "dataList[id=816501].name": {
+      "pl": "Endless Insecurity",
+      "kr_sha256": "5e1a9207b002346af571521e7ab0349f4a35aa46cf28d5699977317a4049a740",
+      "en_sha256": "7840863aa2a214615f4efe63bc5ea46f22a481a4f7cc924a9a1a3d98486d7516",
+      "origin": "ai"
+    },
+    "dataList[id=816501].summary": {
+      "pl": "zyskuje warunkowe pozytywne efekty wzmacniające siebie.",
+      "kr_sha256": "bfd261229268ff1761f7ad4fd24ccf56431789052731748cdadc1d98a795bddd",
+      "en_sha256": "3cd17ddd1fba6f229bc0516e5b924ed610a3831e0c1c9b1115eb56df27f5bbf5",
+      "origin": "ai"
+    },
+    "dataList[id=816502].desc": {
+      "pl": "po pierwszym dojściu do siebie z Oszołamienia, po wygranej w Starciu zadaje przy trafieniu dodatkowe obrażenia Gniewu równe 10% zadanych obrażeń.",
+      "kr_sha256": "7769368060613e16c703db039af047e5154006f3b2d72bcf960775d2299e8ff6",
+      "en_sha256": "919056cada2952e7dac3246c5daae28007e65cabb28ec9d0187fa510e0e2a081",
+      "origin": "ai"
+    },
+    "dataList[id=816502].name": {
+      "pl": "Directed Wrath",
+      "kr_sha256": "ec50e87e207f163c375b28e605391a6312f5deb8896c77110cd6ea805599f53b",
+      "en_sha256": "b5a34fa2fe4f9e68591b5afd4a463ebfa3d9f96eed8b9ff20ca8440073bc201e",
+      "origin": "ai"
+    },
+    "dataList[id=816503].desc": {
+      "pl": "przy pokonaniu wroga przywraca 200 HP Korpusowi i Części.\nzyskuje 1 [Agility], 3 [DefenseUp] i 2 [AttackUp] w następnej turze.",
+      "kr_sha256": "59ba76dc2aff93b2e50a028e80103a849694ea7ff506a25f6aee26c3ffda6b3c",
+      "en_sha256": "c72e731b27ffed0c1d04a351d4402cbc1a2f26177d28240bb42dfb0e2081c939",
+      "origin": "ai"
+    },
+    "dataList[id=816503].name": {
+      "pl": "Predation",
+      "kr_sha256": "92ea4bfceedd42c9edc5e86b5661716fa3b6787f01c3fed8604d5a58d79418b5",
+      "en_sha256": "fa68705a68199e91029dbb5bd3247defb55760edbe26cf3010b1a14bbd429d29",
+      "origin": "ai"
+    },
+    "dataList[id=816504].desc": {
+      "pl": "priorytet: cele z [AaCfPbBe]",
+      "kr_sha256": "5deb46208420987f079a8220132777bb29947b5011ed836051c8acf70a173616",
+      "en_sha256": "1c6ffcdcdee60b19b86e628a3df8fc5e4105d34cb81991eb7dc3be4fd58d07f1",
+      "origin": "ai"
+    },
+    "dataList[id=816504].name": {
+      "pl": "Marked",
+      "kr_sha256": "7e8f90bd8ee5bc408867138e5704da86cac544457a56105612663e35710f72f0",
+      "en_sha256": "9a2e1f2d2519b988e481b7e4f1188ff69bc4efbb9196d0ab2c9c22b215745eef",
+      "origin": "ai"
+    },
+    "dataList[id=816505].desc": {
+      "pl": "przez 1 turę HP nie spada poniżej 40%.\nprzybiera nowy wzorzec",
+      "kr_sha256": "02891810ca80524eb69c11219e34d92bbea404258f0f7977e21c6bac53de39c4",
+      "en_sha256": "2e7b9e919bb6f77e754b7fc4c0f79fb3e1fdd9334db7cac5b77f7f091e446464",
+      "origin": "ai"
+    },
+    "dataList[id=816505].name": {
+      "pl": "A Place for Me",
+      "kr_sha256": "62174ab666141eb77fa58f166c545dbe0ada11fbfd81f2a80cfb0ac17604015a",
+      "en_sha256": "b7e385e37633e0eb011f148fff09c22358cbc805ecde3de526a16e06325eb50f",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Przepraszam, ale…",
+      "kr_sha256": "a78f2d9be4aed52e451b07034c497fd09ce9b1f6031103fa708c3cba6214ba2f",
+      "en_sha256": "40a1a6715b06a594aa22c91682cc37491b9e3dec77440c555d4b0196afbbb2c1"
+    },
+    "dataList[id=10].content": {
+      "pl": "Racja! Wszyscy winniśmy podążać tam, dokąd wiedzie serce!",
+      "kr_sha256": "e1a5f2afdb796020d7989314df6e797129aad240b34585913417e2eb8632e031",
+      "en_sha256": "7ff4bf5da22e5358e9d6fc07cf5d4f5ae6d46d85b015caddea5ed52cd6220963"
+    },
+    "dataList[id=11].content": {
+      "pl": "…Czyli po prostu ktoś tu nie umie czytać mapy i myli kierunki.",
+      "kr_sha256": "524cd704c81d747882437a90cebd2dd6f3c54945454f6a10f38169cd562a3558",
+      "en_sha256": "c477c3f8e06d22ff3e6062a21a8e1ded37f8959747331e20a991a0e03822aa95"
+    },
+    "dataList[id=12].content": {
+      "pl": "Wyjęła mi pani to z ust.",
+      "kr_sha256": "ba88d839e35bfb373094510e5a74c3aece26441e244767e8fc22a13c36040c87",
+      "en_sha256": "309c08afef2c5c4673bc32dc8ab4f587f69577c451dd0b4809e61866031ac1de"
+    },
+    "dataList[id=13].content": {
+      "pl": "Yuri i Ishmael jednocześnie łapią się za czoło, jakby się wcześniej umówiły.",
+      "kr_sha256": "81aff17fa1867fcd3d8801b84ad21150230ebd2c1866a2653991ead73b6d2ac3",
+      "en_sha256": "d80fa89cd472694c2844aaa3a687f6642f8c82eb8f2db1fc473587276d19d6ea"
+    },
+    "dataList[id=14].content": {
+      "pl": "O! Nasza pani kierowca znalazła sobie koleżankę?",
+      "kr_sha256": "0f68e14bf830b06b5a9cf78a95a8e738d037f0ae0fcb24114dafd8e1b6c23c2f",
+      "en_sha256": "6ef6f193ed3b7f6928f38ba7c3db02fd9a416b2eef075baa0cbd0ce8600a2c86"
+    },
+    "dataList[id=15].content": {
+      "pl": "Różowa ciągle trajkocze. A ja znam drogę.",
+      "kr_sha256": "7523fac90f12f549038d5fab313a8407f8d5e5027402955c7d83cf253086ff0a",
+      "en_sha256": "d3defee39e2d26e6c858fa866b1902e316b63a2b90604cf27fd10c595d6733b2"
+    },
+    "dataList[id=16].content": {
+      "pl": "Ale przecież kierunek jest zły…",
+      "kr_sha256": "52eec2facbb2df421b01d2138645ac451118dab6d22bb99abbc347c88fd8db24",
+      "en_sha256": "24aa2fe7dd00f9f77dff9eb1ea14e5a47bfa149b1b7c44795a4c3f2aea079f18"
+    },
+    "dataList[id=17].content": {
+      "pl": "Z przodu znowu przeszkoda. Brum-brum?",
+      "kr_sha256": "535302f8c2a913ba98e00ea4acfc78d1f56060c715d2cac6c8f426e91f98b4cc",
+      "en_sha256": "8bf13486adf7e3d26001c7ee25725dd91eb58b35861610fac4c8ca1378ce59c3"
+    },
+    "dataList[id=18].content": {
+      "pl": "Nie, Charon. Zaczekaj.",
+      "kr_sha256": "a6066620f292c277dc8a7b2477b8e1e1ec6e177f3546f367ad3a89fb32805b09",
+      "en_sha256": "f2a9b5144bcf7e5fd968e00a6b5e70b3e446ecadc9b77eb3bf6a7c7b2de4c9ab"
+    },
+    "dataList[id=19].content": {
+      "pl": "Hej! Fajny autobusik! Dajcie się przejechać!",
+      "kr_sha256": "65eb8ba540740ded734968399c3f34ce710467f71cd3fa056051eacae77d427a",
+      "en_sha256": "43d1643d0638d9d74b8cb87d12ee2d1a337419434cdb2f8941a2b90510e4e6ee"
+    },
+    "dataList[id=1].content": {
+      "pl": "To ja mam mapę… Skąd państwo wiedzą, którędy jechać?",
+      "kr_sha256": "b02df4be9db49239be338fca7271da769d66f132850868ce9ce48e361dabbeda",
+      "en_sha256": "7ad69d7ec67d4b2f1ea44bb53d17ce5a56d744e42e64dfa9df642f6769b766c6"
+    },
+    "dataList[id=20].content": {
+      "pl": "…Zdaje się, że pora na deser dla Mephistophelesa.",
+      "kr_sha256": "ead0d7e6a8c6771903c49c0313be115f65afabd7ca56b8d7470febed06478b6b",
+      "en_sha256": "7de1e5ace91d656b4c1e36828ca42d455e98b7cd4c07b341a2e0b34768a49e63"
+    },
+    "dataList[id=21].content": {
+      "pl": "Wysiadać… Trzeba go jeszcze dokarmić.",
+      "kr_sha256": "9f589cd9249fd213162e4424d50a4fc09e8bcd180ab826e4b73b4d5bede57ef4",
+      "en_sha256": "a271a7fd26b5ad1390dfd8933fad54baca9fc0762bbff07d80910d56777b561e"
+    },
+    "dataList[id=2].content": {
+      "pl": "Odpowiedzi brak, a autobus jak gdyby nigdy nic przyspiesza.",
+      "kr_sha256": "a454e8c67f3b4e3188b853dad5daaa1decc423d5043de01bdfad600b2efc2fca",
+      "en_sha256": "b7c487ee212475412546aa13fb163e5529a129dd37ef3e140f35bfd680e42d4b"
+    },
+    "dataList[id=3].content": {
+      "pl": "No bo…",
+      "kr_sha256": "3c42126b6a36c340aebbd15d26042f8355e0091e485000864ff3dac949076544",
+      "en_sha256": "50f89d41139fafed2b6106d5d4a71b78ebb9c6108b95c8305b2fdfed261dac46"
+    },
+    "dataList[id=4].content": {
+      "pl": "Przeczucie. Przeczucie Charon.",
+      "kr_sha256": "fe05caed94dfb9f5f6f30b50af534bab7d4b9aaad6cebe49f9772f6da1dd16a9",
+      "en_sha256": "34884ec0275d427660809e634777bfece07511837e77c17989ce58882655e315"
+    },
+    "dataList[id=5].content": {
+      "pl": "Że co?!",
+      "kr_sha256": "d2ef620dac3138934a8a52e3228cc1cbf50efd6eee9ebab16c42558f338fad8c",
+      "en_sha256": "bea530e99ac084880b82963ffe1b71b4d29c43f3fed5d6242e972938dff29178"
+    },
+    "dataList[id=6].content": {
+      "pl": "Różowa. Czemu zasłaniasz Charon dziwnym papierem.",
+      "kr_sha256": "074ec51a882ab4a24e416cecf8098985e130764b3d89bdd10a6329bfe95ca9b0",
+      "en_sha256": "4aaf0dbc0523f89ad3c6283b69a801edb6b8ac09e41af1279235de00141e78bb"
+    },
+    "dataList[id=7].content": {
+      "pl": "Bo ciągle jedziemy w dziwnych kierunkach! Proszę spojrzeć na mapę. Mamy jechać na południowy wschód, a…",
+      "kr_sha256": "4bbb3801112b37c81751ea414bb62c60f7563395e48206c301e9aa89240a53f3",
+      "en_sha256": "f4c403f285514fcce27d5af3e2f18b35a9eb3dc0e99f227e65d0b1219bd420c5"
+    },
+    "dataList[id=8].content": {
+      "pl": "Charon nie może chyba dalej udawać, że nie widzi mapy podsuniętej pod sam nos, bo na chwilę na nią zerka.",
+      "kr_sha256": "f8260dd268e60bba0315d3041cc07c13076ecbc3967c1b2fea780340a6ec31c3",
+      "en_sha256": "c492c1da283874cd73cd6db2462f8b981e2050afd51b6098a9521136f6ef87f1"
+    },
+    "dataList[id=9].content": {
+      "pl": "Tam, dokąd wiedzie serce. Tam prawdziwa droga leży.",
+      "kr_sha256": "4d2e483ce17f9333a53c752a66fe9a6e050dde181ca2ce7bd414ed1796da7d2e",
+      "en_sha256": "848742027d2f4770233cec45031ace0588a8bc033a51e0d53c6ef2d22012c77f"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[key=N112001].displayName": {
+      "pl": "Rozmiękające Żółte Łzy",
+      "kr_sha256": "28149f515c794aaa851c11524f0efb249edd158b6d0fa45db804df39a717d282",
+      "en_sha256": "033043d1a992bda3c0d515a2c8daf28309dfa9eb71950f931bd1fc8a22bd6a9b",
+      "origin": "ai"
+    },
+    "dataList[key=N112002].displayName": {
+      "pl": "Ropiejące Czerwone Łzy",
+      "kr_sha256": "57437011d00f98f73c0dd1e905290ba6d65458c225bd556a77d6c89e6bcc5985",
+      "en_sha256": "c6b44361f8be266532da9ac66e8bc47d7f555d856448c6f998eda0f795af5beb",
+      "origin": "ai"
+    },
+    "dataList[key=N112003].displayName": {
+      "pl": "Przepełnione Niebieskie Łzy",
+      "kr_sha256": "c7c5b9b3056a9bb5f54d877fd90ebb8b5269898725ab6b0b7c4aa07c5c20b537",
+      "en_sha256": "9eb5746c1b24586a03fe34a9e5886eda3a82bf01c6456130ba4608bc8d0aee19",
+      "origin": "ai"
+    },
+    "dataList[key=N202031Alt].displayName": {
+      "pl": "Czerwona Igiełka",
+      "kr_sha256": "d03fabd25c19b9121c46dec47a86197bfebbdb53c6d9f147cd1f48d7618d13ae",
+      "en_sha256": "e6cc96ba629c02e0bb743cbab27ec5eeef5b1fff7dbbd93dfca675b296acd96e",
+      "origin": "ai"
+    },
+    "dataList[key=N202031].displayName": {
+      "pl": "Czerwona Igiełka",
+      "kr_sha256": "d03fabd25c19b9121c46dec47a86197bfebbdb53c6d9f147cd1f48d7618d13ae",
+      "en_sha256": "e6cc96ba629c02e0bb743cbab27ec5eeef5b1fff7dbbd93dfca675b296acd96e",
+      "origin": "ai"
+    },
+    "dataList[key=N202032].displayName": {
+      "pl": "Zielona Igiełka",
+      "kr_sha256": "cd435a1de912a3bd953d2fe1d9a082ac816289ab17ba4a62bedbb718eb9ef10a",
+      "en_sha256": "4d5ddc7875a459916ad9758b18bc13a34e84221aa17b85081a49d6ccec70d8b7",
+      "origin": "ai"
+    },
+    "dataList[key=N202034].displayName": {
+      "pl": "Czarna Nić",
+      "kr_sha256": "c174d552171dbaf4b44c59359a99b8b75ec5781b866b6b29c2ecdd3c4d0a59f1",
+      "en_sha256": "9a14c91ec91cdae228c648757c0c5c1f086ee44832012b0e30b3e3cad6f147d8",
+      "origin": "ai"
+    }
+  }
+}

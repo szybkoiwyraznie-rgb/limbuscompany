@@ -1,0 +1,364 @@
+{
+  "entries": {
+    "dataList[id=9021501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [Breath]",
+      "kr_sha256": "4b891fc06c6b48352b859f63447dec8154f05aae59a2d2700a534d140ab550e4",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=9021501].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada +2 Licznika [Burst]",
+      "kr_sha256": "cb095d3cc27b2b4605443f07987556083f647c8a62534c8785f203a4a79ec566",
+      "en_sha256": "5808138b27073453a165ceacc2dda337cf5fa60dc808ce5568cb9c56a115438e",
+      "origin": "ai"
+    },
+    "dataList[id=9021501].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 10 (suma [Breath] jednostki i [Burst] celu) (maks. 2)\n[WhenUse] nakłada +2 Licznika [Breath]",
+      "kr_sha256": "6dae268d6d95d5c937bfffaa297e07bebe7d33971ffce718f01bac846bbb6387",
+      "en_sha256": "96e812bad13d08ab6a164ca8096f240ed4a95555d1dc34e512198c7f1c888b3c",
+      "origin": "ai"
+    },
+    "dataList[id=9021501].levelList[level=1].name": {
+      "pl": "Rozciągająca Dłoń (伸長手)",
+      "kr_sha256": "7242ba71e27788f4164e1cb344ce2a5fbdd825b17c4fc612780dbe157ff0aacc",
+      "en_sha256": "368df173e8157902305ed58334fa0926a03593d425a6506781e243c5bc2ccfd1",
+      "origin": "ai"
+    },
+    "dataList[id=9021502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [Breath]",
+      "kr_sha256": "4b891fc06c6b48352b859f63447dec8154f05aae59a2d2700a534d140ab550e4",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=9021502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Burst]",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=9021502].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada 2 [Burst]",
+      "kr_sha256": "511366ec56ce5caf60adbf69daa866312136f162decc9690473656368723e8b7",
+      "en_sha256": "93a40d0ff0424aee4e6e9e8f6137a4828af2e52197320e307e49dc54d63a3361",
+      "origin": "ai"
+    },
+    "dataList[id=9021502].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 8 (suma [Breath] jednostki i [Burst] celu) (maks. 3)",
+      "kr_sha256": "e60ea2150c5ebc02f6d41e4a0436455a33b1ab0bdc09a95485cca97aacd23c6f",
+      "en_sha256": "6a06c80b7d05c67cd43837f96b39402d4d4ab8ff997b99531c159b7405d47c0b",
+      "origin": "ai"
+    },
+    "dataList[id=9021502].levelList[level=1].name": {
+      "pl": "Ręka Przebijającego Węża (蛇貫腕)",
+      "kr_sha256": "e4369b82ec4bf0d40ac5db555808ffa42997266d879967c4a8eca9ec3708e1b7",
+      "en_sha256": "10dbfe9e411eb8f92d187cf8bc09ffc51f05c4c18d434c83d48fb59fcdc28796",
+      "origin": "ai"
+    },
+    "dataList[id=9021503].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "zadaje +25% obrażeń za każde [SnakeStance] jednostki (maks. 50%)",
+      "kr_sha256": "cc0823cc3ecf146162c7edcf2ae0daae9a0d30360d26f8f5203480624d5c02ec",
+      "en_sha256": "b50df916fec71408d4f771abb1e474f062df263eb1ad68506bee84f094544db8",
+      "origin": "ai"
+    },
+    "dataList[id=9021503].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zużywa 3 [BurstPoison] za każde [SnakeStance] jednostki (maks. 5 na turę)",
+      "kr_sha256": "845248e0e4e4b5d3d07b2aaa959f46811b479020c8f57fcac60d6c363e83e930",
+      "en_sha256": "6af39b39f33fb2946e4b7ec3e1de8bf059357c5e23318440e541806bf7615acb",
+      "origin": "ai"
+    },
+    "dataList[id=9021503].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Burst]",
+      "kr_sha256": "60fba7f6ebac946df0a2d2b14979b483a487d22d083cf19b83b0fa669603b0f5",
+      "en_sha256": "272484e35708615e70d8f6f54fa38b672e11f12fc812ba0454bd08572036b805",
+      "origin": "ai"
+    },
+    "dataList[id=9021503].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada [BurstPoison] w następnej turze",
+      "kr_sha256": "a47b8481312ca07172662cd417caf8efad651e15bf2b3880a8f2b838abf73772",
+      "en_sha256": "17fe300ada2276046c95ba3bf3de3c4430daad248e804161d9f876b956b2a2ff",
+      "origin": "ai"
+    },
+    "dataList[id=9021503].levelList[level=1].desc": {
+      "pl": "jeżeli jednostka ma [SnakeStance], a cel [BurstPoison], Umiejętność staje się Umiejętnością bez Starcia\nMoc Monety +1 za każde 4 (suma [Breath] jednostki i [Burst] celu) (maks. 10)\n[WinDuel] nakłada +2 Licznika [Burst] i zyskuje +2 Licznika [Breath]",
+      "kr_sha256": "08c401134248898cd8fa1aa80dc09619e3c511eef67c6e4514f0b882020f5ec4",
+      "en_sha256": "2d1d32e4d17585319b59774e4fe1a384f69e73ad49b96b588b6be76359bacd74",
+      "origin": "ai"
+    },
+    "dataList[id=9021503].levelList[level=1].name": {
+      "pl": "Wężowe Skryte Przebicie (隱擊貫蛇)",
+      "kr_sha256": "ca9dc8dbd0e60167b44e8b9323ba6b00c86027bd22ee5999018d43bdde60126a",
+      "en_sha256": "bea319076124cb996bee14f41c56972a960f18f6578b8e6d17906ec394919c17",
+      "origin": "ai"
+    },
+    "dataList[id=9021504].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=9021504].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[WhenUse] Moc Monety +1 za każde 4 [Burst] celu (maks. 2)\n[WhenUse] zyskuje 3 [SnakeStance] (1 raz na Umiejętność)",
+      "kr_sha256": "c560cb69a31508fe87e4da39222b2167eaa242f85d5ee5ef6f1fd8b4d7d07fbf",
+      "en_sha256": "2e9d48131756c17948d56b10798959cfa6945434bb669f91e8018bae9261ddcb",
+      "origin": "ai"
+    },
+    "dataList[id=9021504].levelList[level=1].name": {
+      "pl": "Rozglądanie za Okazją",
+      "kr_sha256": "6f885ddd09f393359872e57aec7b1b434b1bf3858d6df70ab0a4246d448208e2",
+      "en_sha256": "765e0430a77be07b7a1ef626b6a234545b00db091f46d8dfee4b50b50084de9d",
+      "origin": "ai"
+    },
+    "dataList[id=9021601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [Breath]",
+      "kr_sha256": "4b891fc06c6b48352b859f63447dec8154f05aae59a2d2700a534d140ab550e4",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=9021601].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada +2 Licznika [Burst]",
+      "kr_sha256": "cb095d3cc27b2b4605443f07987556083f647c8a62534c8785f203a4a79ec566",
+      "en_sha256": "5808138b27073453a165ceacc2dda337cf5fa60dc808ce5568cb9c56a115438e",
+      "origin": "ai"
+    },
+    "dataList[id=9021601].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 10 (suma [Breath] jednostki i [Burst] celu) (maks. 2)\n[WhenUse] nakłada +2 Licznika [Breath]",
+      "kr_sha256": "6dae268d6d95d5c937bfffaa297e07bebe7d33971ffce718f01bac846bbb6387",
+      "en_sha256": "96e812bad13d08ab6a164ca8096f240ed4a95555d1dc34e512198c7f1c888b3c",
+      "origin": "ai"
+    },
+    "dataList[id=9021601].levelList[level=1].name": {
+      "pl": "Rozciągająca Ręka (伸長腕)",
+      "kr_sha256": "ca4470205498a5d1b24c541d6c831560f65891aa9817104d6656b84c780c0aec",
+      "en_sha256": "7d11492e7af574abccd8cc7dfc6ee60729197bf11cb07e9e1ef07e7dacc77f8f",
+      "origin": "ai"
+    },
+    "dataList[id=9021602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [Breath]",
+      "kr_sha256": "4b891fc06c6b48352b859f63447dec8154f05aae59a2d2700a534d140ab550e4",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=9021602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Burst]",
+      "kr_sha256": "f76977c4b42ab78dcf1e7b2f9540d4576261128514727edf3552b60dc4bcfddd",
+      "en_sha256": "da587981f0ca2a8daae97080635c6a404594603b800202e1785ff7f212f997cb",
+      "origin": "ai"
+    },
+    "dataList[id=9021602].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada +1 Licznika [Burst]",
+      "kr_sha256": "95403919558f5bf6b1d59203ed0e6e5a8631899f927587e7c16ec1a8dba33392",
+      "en_sha256": "a20bf999429b5a69a44bd45e10825453c8e0351082fcc1a068f3711f4bd5cb2d",
+      "origin": "ai"
+    },
+    "dataList[id=9021602].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 8 (suma [Breath] jednostki i [Burst] celu) (maks. 3)",
+      "kr_sha256": "e60ea2150c5ebc02f6d41e4a0436455a33b1ab0bdc09a95485cca97aacd23c6f",
+      "en_sha256": "6a06c80b7d05c67cd43837f96b39402d4d4ab8ff997b99531c159b7405d47c0b",
+      "origin": "ai"
+    },
+    "dataList[id=9021602].levelList[level=1].name": {
+      "pl": "Ręka Gryzącego Węża (蛇噛腕)",
+      "kr_sha256": "828196614d4ab9aa197a6f64094e7f3f3f140fe4d88a7de5c7151a26819b952a",
+      "en_sha256": "fbfee0d7e49678d48ef802dd321c58381a5bc9ab9c221f3405cede0e87665344",
+      "origin": "ai"
+    },
+    "dataList[id=9021603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=9021603].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [BurstPoison] w następnej turze (1 raz na Umiejętność)",
+      "kr_sha256": "dd21700d6c013948b1ff455f42bddf65343681bfaef0821d4047f395e16bc27a",
+      "en_sha256": "c9ae4a8c111dc54683643f77b925ebab777030e6e98f05957169ea12306d95f9",
+      "origin": "ai"
+    },
+    "dataList[id=9021603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=9021603].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli jednostka ma [SnakeStance], używa Monety ponownie 1 raz (1 raz na Umiejętność)",
+      "kr_sha256": "0acd3f68368d64e9e4cb283cc94e7652efe7909ea776f1e6832fed667f68f58a",
+      "en_sha256": "47168510f029e9972bb34b46f1008c5345eb6a42fa41e679336024243c36dab8",
+      "origin": "ai"
+    },
+    "dataList[id=9021603].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "- używana ponownie Moneta zadaje o 70% mniej obrażeń",
+      "kr_sha256": "71906cb7cca9d749a484593be241aed92fd6257cfa487c72c6686622f34e7b9a",
+      "en_sha256": "6aa099f08a181f94e224e82b7dd557f1ab68a0827c12e7295ffb1f4499c7b0a0",
+      "origin": "ai"
+    },
+    "dataList[id=9021603].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 8 (suma [Breath] jednostki i [Burst] celu) (maks. 4)\n[WinDuel] nakłada +2 Licznika [Burst]\n[WinDuel] zyskuje +2 Licznika [Breath]",
+      "kr_sha256": "427cec6aabb35f0d690c0d249621189a27ef53e6290beafbaacf06fe71db1ef3",
+      "en_sha256": "ca743f103b9a4d8d6a78b46fb3055ceae21acb1ae23732195a103f606a18fa64",
+      "origin": "ai"
+    },
+    "dataList[id=9021603].levelList[level=1].name": {
+      "pl": "Wężowe Cieniste Przebicie (陰擊貫蛇)",
+      "kr_sha256": "68d5d1348105a8961c29191a30e0f74a25fb5f12407d5cc314644ebaa376a3dc",
+      "en_sha256": "3061569ec7776d0a08400bc0e94dae45513f9838bb670c00418541f9b1db30b6",
+      "origin": "ai"
+    },
+    "dataList[id=9021604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=9021604].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[WhenUse] Moc Monety +1 za każde 4 [Burst] celu (maks. 2)\n[WhenUse] zyskuje 3 [SnakeStance] (1 raz na Umiejętność)",
+      "kr_sha256": "c560cb69a31508fe87e4da39222b2167eaa242f85d5ee5ef6f1fd8b4d7d07fbf",
+      "en_sha256": "2e9d48131756c17948d56b10798959cfa6945434bb669f91e8018bae9261ddcb",
+      "origin": "ai"
+    },
+    "dataList[id=9021604].levelList[level=1].name": {
+      "pl": "Szukam Okazji",
+      "kr_sha256": "e9762db711e60aa920b4493b9d909ff166bbcc22c54adb52d103301542da42a9",
+      "en_sha256": "8396e411369febb9d7c69342115263605c28fd223028c204b8943ae2c7512da2",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [Breath]",
+      "kr_sha256": "4b891fc06c6b48352b859f63447dec8154f05aae59a2d2700a534d140ab550e4",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada +2 Licznika [Burst]",
+      "kr_sha256": "cb095d3cc27b2b4605443f07987556083f647c8a62534c8785f203a4a79ec566",
+      "en_sha256": "5808138b27073453a165ceacc2dda337cf5fa60dc808ce5568cb9c56a115438e",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] jeżeli jednostka ma 10+ [Breath], zyskuje 1 [SnakeStance] i używa Monety ponownie 1 raz (1 raz na Umiejętność; maks. 2 zyskanych [SnakeStance] na turę)",
+      "kr_sha256": "56602eb01d69fea4e9cd68a7dbd0ad559131c62a22d38675691df4c346f32300",
+      "en_sha256": "4d8aeac000612d34c729884eb25c9b28b0e0fa51faf73fed05d3bc0eef4fee36",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 10 (suma [Breath] jednostki i [Burst] celu) (maks. 2)\n[WinDuel] zyskuje +3 Licznika [Breath]",
+      "kr_sha256": "ea1dd9e8ef3fcda2cc87bebfdd2c34a45a2020ff09ee645e81d48ee1677c1cfe",
+      "en_sha256": "81f7866ea3df2699a5f97b369284e3ee5fc798a588a56f6f243472b17519e9d8",
+      "origin": "ai"
+    },
+    "dataList[id=9102301].levelList[level=1].name": {
+      "pl": "Zmutowana Rozciągnięta Ręka (變形伸腕)",
+      "kr_sha256": "70724617a98452565a0e9d107052e06ac3860c908dcf80ce33cf26bd8319f807",
+      "en_sha256": "93294fcea9356421e242e550b017271306fb7944b093437cf99d85ee810efa5e",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Burst]",
+      "kr_sha256": "f76977c4b42ab78dcf1e7b2f9540d4576261128514727edf3552b60dc4bcfddd",
+      "en_sha256": "da587981f0ca2a8daae97080635c6a404594603b800202e1785ff7f212f997cb",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada +2 Licznika [Burst]",
+      "kr_sha256": "cb095d3cc27b2b4605443f07987556083f647c8a62534c8785f203a4a79ec566",
+      "en_sha256": "5808138b27073453a165ceacc2dda337cf5fa60dc808ce5568cb9c56a115438e",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Burst]",
+      "kr_sha256": "f76977c4b42ab78dcf1e7b2f9540d4576261128514727edf3552b60dc4bcfddd",
+      "en_sha256": "da587981f0ca2a8daae97080635c6a404594603b800202e1785ff7f212f997cb",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada +2 Licznika [Burst]",
+      "kr_sha256": "cb095d3cc27b2b4605443f07987556083f647c8a62534c8785f203a4a79ec566",
+      "en_sha256": "5808138b27073453a165ceacc2dda337cf5fa60dc808ce5568cb9c56a115438e",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Burst]",
+      "kr_sha256": "f76977c4b42ab78dcf1e7b2f9540d4576261128514727edf3552b60dc4bcfddd",
+      "en_sha256": "da587981f0ca2a8daae97080635c6a404594603b800202e1785ff7f212f997cb",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [BurstPoison], nakłada +2 Licznika [Burst]",
+      "kr_sha256": "cb095d3cc27b2b4605443f07987556083f647c8a62534c8785f203a4a79ec566",
+      "en_sha256": "5808138b27073453a165ceacc2dda337cf5fa60dc808ce5568cb9c56a115438e",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 8 (suma [Breath] jednostki i [Burst] celu) (maks. 3)\n[BeforeAttack] jeżeli jednostka ma [SnakeStance], Waga Ataku +2\n- staje się Umiejętnością [WideAreaRampage].\n- przy atakowaniu tego samego celu, jeżeli cel ma 2 lub mniej Liczników [Burst], nakłada +1 Licznika [Burst] i zużywa 1 [BurstPoison]\n[WinDuel] nakłada +1 Licznika [Burst] wszystkim celom",
+      "kr_sha256": "0309ba5f56e0e73aad730425f26e35794292feed684ca4a4079c5a093f079152",
+      "en_sha256": "8e216e8f8ff09292bd9a113dbe1a84405b3048af2209e46964d1af82a03bbc74",
+      "origin": "ai"
+    },
+    "dataList[id=9102302].levelList[level=1].name": {
+      "pl": "Ręka Rozciągającego Węża (蛇伸長腕)",
+      "kr_sha256": "fa93d0fd4ad34c2bb86ed5c74ad28065ab239f0019fc8fa5791a420a08293201",
+      "en_sha256": "d0ba7139043022585c373365a9b0936f0978d4e4bcf27287ce151e20037847de",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "jeżeli jednostka ma [SnakeStance], zadaje +100% obrażeń",
+      "kr_sha256": "0efff952bf9ea4e689f745d08585bd85223f3029b93ade5777ba6ad04d23c257",
+      "en_sha256": "e34ba13d4629512b574797e8e3a9fbf9d100fc1299cd5c9d497e1c132e2e5815",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zużywa 5 [BurstPoison] za każde [SnakeStance] jednostki (1 raz na turę)",
+      "kr_sha256": "cbcd0200437b8a02ff485e0292f78457f67f6ed511c23a74409a6415f8978003",
+      "en_sha256": "d39b9d5f497bf123116e01f6086a59dee131a70e9849cf7da6c3b9af53d85a6a",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Burst]",
+      "kr_sha256": "19f173261e3a86e85540a40e643e8d56bec11f191e33235de3a128448532a965",
+      "en_sha256": "b816bb429aaca17fb63815c9ab6a6b25020dc0e44743b899e4ff44332e37c8ac",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada [BurstPoison] w następnej turze",
+      "kr_sha256": "a47b8481312ca07172662cd417caf8efad651e15bf2b3880a8f2b838abf73772",
+      "en_sha256": "17fe300ada2276046c95ba3bf3de3c4430daad248e804161d9f876b956b2a2ff",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].levelList[level=1].desc": {
+      "pl": "jeżeli jednostka ma [SnakeStance], a cel [BurstPoison], Umiejętność staje się Umiejętnością bez Starcia\n[WhenUse] Moc Monety +1 za każde 4 (suma [Breath] jednostki i [Burst] celu) (maks. 10)\n[WinDuel] nakłada +2 Licznika [Burst] i zyskuje +3 Licznika [Breath]",
+      "kr_sha256": "b97a0c8ae72ce584f7c021296bcb881e19d40923dedf5a6f568bf56a5907bdfe",
+      "en_sha256": "d4081cf312b0503aafed4e0e9fb3231ffc7546c19221ade3b02980909e23d124",
+      "origin": "ai"
+    },
+    "dataList[id=9102303].levelList[level=1].name": {
+      "pl": "Wężowy Ostry Kolec (蛇尖貫極)",
+      "kr_sha256": "8e5342f90896180a2c680207bf95913c692d58cb617ee2fb2bdf98091f5d40f9",
+      "en_sha256": "3f7cec1fa54502bf7dc08850a802c684afe64724663605be11fa438311fbb762",
+      "origin": "ai"
+    },
+    "dataList[id=9102304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=9102304].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\n[WhenUse] Moc Monety +1 za każde 4 [Burst] celu (maks. 3)\n[WhenUse] zyskuje 3 [SnakeStance] (1 raz na Umiejętność)",
+      "kr_sha256": "c699ae7cee4c1eac47f5227960032516b129c8225c6ca2e6fd0dd99d0cc91d76",
+      "en_sha256": "eac9871446bb40c01debeeb1996416a587667f0f72e62415bbfe8f9282a9e3eb",
+      "origin": "ai"
+    },
+    "dataList[id=9102304].levelList[level=1].name": {
+      "pl": "Czekaj na Okazję",
+      "kr_sha256": "d5c7b7e0405b930b136133ccd071dac096e91cff14d87e3ac19e838a8e30ad5d",
+      "en_sha256": "b3abded90e268a9972a5687922c2ad833313fafccfa5feea3f7defa8ddd6965a",
+      "origin": "ai"
+    }
+  }
+}

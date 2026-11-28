@@ -1,0 +1,54 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Robi się coraz zimniej.",
+      "kr_sha256": "e31d41e9b8d510d088eccc543dd5ddc008dc50883ee7a0ea0afa6d0de5d5f35a",
+      "en_sha256": "7ee17749f7b978f063b95b1214ab3da292b517f518661e0019711a575e6320f1"
+    },
+    "dataList[id=1].content": {
+      "pl": "Czemu jest tu coraz więcej lodu…?",
+      "kr_sha256": "4f791a0562002c9b0314b7066b8911f0931b27cd289f1ce6041020e651cfc1be",
+      "en_sha256": "55f879fe8d65952ca0c212b1805eb8de10b7b28a375c22d32847f499f5edc51b"
+    },
+    "dataList[id=2].content": {
+      "pl": "Należy przyjąć, że im częstsze anomalie - i w tym sęk - tym lepszy to znak.",
+      "kr_sha256": "1ba5964b75a71dcf65d773bf9d95dd2544b012a1fd757426d65a5335f025f93c",
+      "en_sha256": "a1cf14bead104990eb0dd46a566e01586acd82dbd8cc78a6b74f298be9856b58"
+    },
+    "dataList[id=3].content": {
+      "pl": "Wołała mnie pani?",
+      "kr_sha256": "5d55a12ff0a45af97bf3c8e62ff47291fef3f13a141536f00e7180ec8ce62da4",
+      "en_sha256": "b1b99ef5998c5ee6b63a479f9e487610fa0afa5b0d1f1bfce04d2110ab69af2c"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Haa. Mam nadzieję, że to nie był żart. Bo od niego zrobi się jeszcze zimniej.",
+      "kr_sha256": "74863dc76c7979f121247e64e4026990c86ddad1efe36e488e144b32525ca93e",
+      "en_sha256": "76e9413206cfb9462bb80acc459be6c5879c400aa062efd09a4320007ea922b5"
+    },
+    "dataList[id=5].content": {
+      "pl": "Zostawiwszy westchnienia Ishmael za sobą, zastanowiłem się nad słowami Faust.",
+      "kr_sha256": "ee1a08f686973906726995eb06accb98973aeae47e1056fec528cba4dc972c99",
+      "en_sha256": "ec42edcd2f4bc0351d980208566e3c432588eb5d78a6e7907836bae93251ad92"
+    },
+    "dataList[id=6].content": {
+      "pl": "<…To znaczy, że jesteśmy blisko Złotej Gałęzi… tak?>",
+      "kr_sha256": "81ef51167953547001a18eedc31a719d81c64a87fb40663e7051d6a98896d2aa",
+      "en_sha256": "b10a7e0f6461fcb14279516bdab6e5eec6ff243ff3703fd265da8c8e981eb84c"
+    },
+    "dataList[id=7].content": {
+      "pl": "Wydawało mi się, że udzieliłem całkiem wzorowej odpowiedzi.",
+      "kr_sha256": "4ee8cf3e6f428dfdc07533307535202582b6574907fe8704439ba506b6c40421",
+      "en_sha256": "faf8bd1176dd9e4dcf22d5c6c9fb16f470a4b0aff8bfdd7c856f40cdc4655482"
+    },
+    "dataList[id=8].content": {
+      "pl": "Tak, owszem.",
+      "kr_sha256": "602131d1d3dfd44d3e0a2818d747a58680aac682eb92771266a8739a92831af7",
+      "en_sha256": "593f60b042ea943a1596f7bf536788fe6bf465dcccab151e8a0410466bc1da45"
+    },
+    "dataList[id=9].content": {
+      "pl": "Faust odpowiedziała jednak bez entuzjazmu (choć może tylko w moich uszach tak to zabrzmiało).",
+      "kr_sha256": "5e8c8246107aa7ed8100a3bf43c4ab52ecc1dbb71b3e4bb3073d635b57832311",
+      "en_sha256": "f69f865d432c16c1c9e1494f2b98ae659bb92d26f27bbb6064abbcc4d9ce8740"
+    }
+  }
+}

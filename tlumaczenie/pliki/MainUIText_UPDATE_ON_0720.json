@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=mainui_awaken_requirement_label].content": {
+      "pl": "Wymagane zasoby",
+      "kr_sha256": "0551592d1ef585ab76382956bdb547f8198acb38756bb9eb3ebe3a74b6aa220d",
+      "en_sha256": "1bcbd9aa8b477a4c23597b255122c3a40222f7626df67c37be63c76a7322a60b",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_battle_passsive_reinforce].content": {
+      "pl": "Ulepszono pasywkę bojową",
+      "kr_sha256": "208acb0524275aaf8db252845acc5122cf8c37a898e9ae9d1b48c5871b05b4cb",
+      "en_sha256": "f5a414f51788fa3e433437cf9d515f08529ff5fd2379d90b94e3712416f7d74d",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_reinforce_battle_passive].content": {
+      "pl": "Ulepszono pasywkę bojową: [{0}]",
+      "kr_sha256": "7440c2de41a058a68ec14be34122213811565e57a7684b24b1af00ff2ad191a3",
+      "en_sha256": "ae23d2d961c43570f1df2d708a2344117cfcc267e99abd791a489ab3039f119a",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_reinforce_support_passive].content": {
+      "pl": "Ulepszono pasywkę wsparcia: [{0}]",
+      "kr_sha256": "3cca1203a7ae050146adb8139e888206df7f408ad0db46c12bdc165cba3d191e",
+      "en_sha256": "294836f8e8905123619fa2d3f67d60498806739edf7632e3d16c30b3134c48b9",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_support_passsive_reinforce].content": {
+      "pl": "Ulepszono pasywkę wsparcia",
+      "kr_sha256": "d254c94c082415cefa379d68a8336cb92013bc33838bdc4241dc8c2cb3826038",
+      "en_sha256": "85e513a9b5a761fa260726376b6774b487830f4454dba06ddb666b0644fd4f6e",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_target_num_label].content": {
+      "pl": "Waga Ataku",
+      "kr_sha256": "fac2f955859b87ea64ee1bb517b6625803ab7f5531745cacdbdbced93c7c9bb9",
+      "en_sha256": "fa57078585d95c3add485fa3ab3871115dc6c3d30d80f9f70288d65a30561a36",
+      "origin": "ai"
+    },
+    "dataList[id=move_to_inventory].content": {
+      "pl": "Przejdź do Ekwipunku",
+      "kr_sha256": "359aed8d3df28d0ac2fdb1587895f07b9d1f6c8ea33bb36f39fc7565e029fde3",
+      "en_sha256": "69918ab7e4af1376c797007328b362f8ac31f0cfeb4dd109d87f440fa9926f5f",
+      "origin": "ai"
+    },
+    "dataList[id=progress_personality_gacksung].content": {
+      "pl": "Synchronizuj",
+      "kr_sha256": "3f2f3c5aa1f4ddc364e3a26066717df29775612ebcdb3974c40d03d0d16e5359",
+      "en_sha256": "6ba9ca0217012cc107a466c39ddbeb5d3f210cc8da43b52d8db78f344359448b",
+      "origin": "ai"
+    }
+  }
+}

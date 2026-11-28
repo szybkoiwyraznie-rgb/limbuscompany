@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=55].name": {
+      "pl": "Komunikat dla Klientów Domu Towarowego Sisyphe",
+      "kr_sha256": "69ed6a52d296916bdafce4728e083dbdf9779737547c52bd8434487a4f6df311",
+      "en_sha256": "ff302cee27f2dfaee0d37cf3e67abad1beb5c494a699f0ed6f4a5fa79e1343c3",
+      "origin": "ai"
+    },
+    "dataList[id=56].name": {
+      "pl": "Jeanne",
+      "kr_sha256": "9aaa2de27408d94361213da55e6cb68c1e45d5bb23180bf5b26b82f9bab4fefe",
+      "en_sha256": "57a17ae985757aaf25be146f948dec5cec5e25a802c4a90a5162761d1f27ac55",
+      "origin": "ai"
+    },
+    "dataList[id=57].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    }
+  }
+}

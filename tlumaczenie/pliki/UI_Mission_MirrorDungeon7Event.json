@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=mission_ui_condition_tags_201001027].content": {
+      "pl": "Odblokuj {0} lub więcej Pakietów Tematycznych na poziomie EKSTREMALNYM",
+      "kr_sha256": "4204bc263f225a0ea078804132570ac9bd839a5ad566aaa3746541d69f24092b",
+      "en_sha256": "eece255af795e2433d71b6d7ba862790d717795580a392d377b19c30a5d2a831",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003030].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze 5 lub wyższym, mając w składzie co najmniej {0} Tożsamości Stowarzyszenia Liu w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "a4aa691877055cb207530283b2c61d3d1c9c381b34befcc1d9cb2d6daa296022",
+      "en_sha256": "55656b68913486133f1cd76b191b7a45a51d163ff59da77cb7cdce3054f396a2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003031].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze 5 lub wyższym, mając w składzie co najmniej {0} Tożsamości Środkowego w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "fd7934e0aa4ba835f41b178e17eb3026213f969b2b649b991e47fad872ee9d69",
+      "en_sha256": "577d1ff3f4d11be99bc4a8ce8a159252d4cb1c11cdf8ab94bf0ba355b98f5015",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003032].content": {
+      "pl": "Pokonaj bossów 4 Pakietów Tematycznych: „Ułuda, Błądzenie, Nieufność”, „Podręcznik”, „Ostrze i Dzieło”, „Nieodstępujący”, mając w składzie (bez rezerwy) co najmniej 3 Tożsamości Domu Pajęczyn, w tym „LCB Skazaniec Ryōshū” (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "08265692a2333e1ed496bf91c0650136c091b9ac564fbf63a222036c4f2a0cef",
+      "en_sha256": "3db7929b95af233a4572d8fe365148ecae6d149ff44645ae94e144d940e48bf2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003033].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Rozdzierające Serca”, mając w składzie (bez rezerwy) 3 lub więcej Tożsamości Wuthering Heights, w tym „Dziki Gon Heathcliff” (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "a310fa50c6a2b6e9d151a9932b275df4aaee788e459b886bf76bf244cb36e878",
+      "en_sha256": "6268ae63cc7e7447a0c8498fc75814081c8d25b8bbccd2dfe3787c97b123c3af",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003034].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Niekończąca się Procesja”, mając w składzie (bez rezerwy) 4 Tożsamości: „Zachodnia Sekcja 3 Stowarzyszenia Cinq Meursault”, „Zachodnia Sekcja 3 Stowarzyszenia Zwei Sinclair”, „Fikser Biura Łowców Kłów Hong Lu”, „Ocalały z Biura Ognistej Pięści Gregor” (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "81f84a8ca36b9ed8255741ef9b8b29daa1ef545c4622dad873e69789cbae34a4",
+      "en_sha256": "85e4a5ddec63bf232ab79c51a052e70c793b1d536e7201778be8df17ae80f5c9",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003035].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Morderstwo w Ekspresie WARP BokGak”, mając w składzie (bez rezerwy) 4 lub więcej Tożsamości Krwiożerczych (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "ca8645f23f25d653b633e2e00c2874c1ce3f6b0acb76094b07dd3d661aa70f90",
+      "en_sha256": "f032fbec9292b53027f3ff3131f5529a1e5c25e1f595dd10e386947f5ffdee1a",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003036].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Unikający”, mając w składzie (bez rezerwy) 2 lub więcej Tożsamości Mechanicznych Amalgamatów (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "8d17240c14bc18a573112afbb2fc9af881dc68c3a1b68e9f826688ad695bc448",
+      "en_sha256": "92f47aefd68edbf60ec13ecec9ef25dfd0c04d3e9399311c9af6354e7fb72b75",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003037].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Cud w Dystrykcie 20 BokGak”, gdy w walce uczestniczą wyłącznie Tożsamości Heathcliffa i Don Quixote (bez rezerwy; nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "cd45358bc216b581362a3d6c8a61c6ab9702fe7caa8561f7ec3abae8a94000d0",
+      "en_sha256": "dafd10f8194bb3e9058f7187e107e651b9b4b6fb47db5a1541de70a4f0dbbea3",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003038].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Timekilling Time BokGak”, mając w składzie (bez rezerwy) 2 lub więcej Tożsamości T Corp. (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "49e221510fa3a75f382260eeea99367865493ecb27d5a85bc7022130421573b5",
+      "en_sha256": "d7fcf74e4031635d539e1742dbdfca1720c2e15f1a51e09fd908a15888689fad",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003039].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Piękny Głos”, mając w składzie (bez rezerwy) Tożsamość „Dziki Gon Heathcliff” (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "b2b9cfba3257514ff0e55be54db522e2ea74f970bc8fd6a4e14b2ff5e8e93983",
+      "en_sha256": "d407cec177fb2d3c4986d64a062696f79ac9595913d7d3d588a676b3d55e02fa",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003040].content": {
+      "pl": "Pokonaj bossów 5 Pakietów Tematycznych: „Morderstwo w Ekspresie WARP”, „Morderstwo w Ekspresie WARP BokGak”, „Ponowne Otwarcie La Manchalandu”, „Niekończąca się Procesja”, „Kończący się Sen”, mając w składzie (bez rezerwy) Tożsamość „Zarządczyni La Manchalandu Don Quixote” (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "12d2a1074c2540233910c2810425d5f4f50d71cdaaa2e379321420816ce215f1",
+      "en_sha256": "1040023cfdda8448a453e00a97b4a184126bd8fbb283fe06cbe7f90d891882f5",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004010].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze 5 lub wyższym po co najmniej jednym użyciu Obserwacji Zamiany Umiejętności",
+      "kr_sha256": "f808069769f55dcbb97573ff431d6b218d2617ee80d8a417868ed46a4fb516e3",
+      "en_sha256": "754ba1bf92065319b02e2af2270fde6179567f4b778277c751e48a19b9771b97",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006013].content": {
+      "pl": "Ukończ piętro 15 Lustrzanych Loch bez zdobycia Daru E.G.O „Pamięć Księżyca”",
+      "kr_sha256": "a000464eb1e1174eeb0de2554ffb1c1ed3e8d7abcbc4a152d997044746312eb9",
+      "en_sha256": "4df9bb50d9907669cbf50937a6c2964a3430dd11811cd9454d4303d7f3216832",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100007_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Dom Pajęczyn: Kciuk",
+      "kr_sha256": "779c44646ca29f3b1a9d8caa5a45d07385fb382dd0048ff73b742852b8bc8522",
+      "en_sha256": "287687be3ad0aaba4e88adb87aa0bd14962b393841654c3529a88b000bb14e8d",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100007_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100008_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Dom Pajęczyn: Wskazujący",
+      "kr_sha256": "0dd6db70c11d249c69e560245412c7cc6b2d9054239eaaf3ea33927752131694",
+      "en_sha256": "4539d14f3d304ea1097b2416650694e5e2143662cf004e9427234dc8278bf31b",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100008_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100009_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Dom Pajęczyn: Środkowy",
+      "kr_sha256": "4258e8ddf7abadf80e01b8debcdeab0825fa6f2c09722e518d4b92f73f1fe16c",
+      "en_sha256": "24507a90d23defa89c1c3ffa911508101bf32a90efdef6ce5ccd60c66a62ee96",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100009_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100010_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Dom Pajęczyn: Serdeczny",
+      "kr_sha256": "f520eea0ab5a52a66c9f01c5c09c6dccda430fc32775fba1b22887abdbf7fc17",
+      "en_sha256": "f9dbe49c323716b9a6daa3d4358ab3e968e0c424b70eac7b8acb009762339d41",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100010_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100011_CLEAR].content": {
+      "pl": "Oczyść Przeklęty Dar E.G.O i odblokuj dar „Jedność z Ostrzem” w Kompendium Darów E.G.O",
+      "kr_sha256": "c290a1aa14ac4c6dc7153856ebf356bb5f6787d45914415430c3debe76df576e",
+      "en_sha256": "ccd39c310054fbf8204d27101c205aaa738d0692d16dd90b4a33ed5b56bf8ee3",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100011_NONE].content": {
+      "pl": "Oczyść Przeklęty Dar E.G.O i odblokuj dar ??? w Kompendium Darów E.G.O",
+      "kr_sha256": "0c6128f5c3f0d07b8aef957c7f7f4986325dc7b92636f893de915efa69e49a45",
+      "en_sha256": "513c3636782973ad55ca54de642ee92dad4f853e0383c18f8079a489f85b9932",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100012_CLEAR].content": {
+      "pl": "Oczyść Przeklęty Dar E.G.O i odblokuj dar „Złota Godzina” w Kompendium Darów E.G.O",
+      "kr_sha256": "a8e0683244ab3d632b5cd03396a25705de6b28ecb6de89da90160f1d1a708d63",
+      "en_sha256": "19eb12c7d3de55d8c571fd2d362b4bf19110c34064bbc8bf91fdb1e6565fff8e",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100012_NONE].content": {
+      "pl": "Oczyść Przeklęty Dar E.G.O i odblokuj dar ??? w Kompendium Darów E.G.O",
+      "kr_sha256": "0c6128f5c3f0d07b8aef957c7f7f4986325dc7b92636f893de915efa69e49a45",
+      "en_sha256": "513c3636782973ad55ca54de642ee92dad4f853e0383c18f8079a489f85b9932",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100013_CLEAR].content": {
+      "pl": "Oczyść Przeklęty Dar E.G.O i odblokuj dar „Potencjalności” w Kompendium Darów E.G.O",
+      "kr_sha256": "1f956e5ce5a587f03a6acc575d791f758b06714fb06531a1a67abc3e21947f0c",
+      "en_sha256": "92a36c154fb6104e2d5ebe052596c3ecbad7733cd458e452e73310a0dc1aa896",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100013_NONE].content": {
+      "pl": "Oczyść Przeklęty Dar E.G.O i odblokuj dar ??? w Kompendium Darów E.G.O",
+      "kr_sha256": "0c6128f5c3f0d07b8aef957c7f7f4986325dc7b92636f893de915efa69e49a45",
+      "en_sha256": "513c3636782973ad55ca54de642ee92dad4f853e0383c18f8079a489f85b9932",
+      "origin": "ai"
+    }
+  }
+}

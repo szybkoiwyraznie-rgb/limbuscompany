@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=9103601].desc": {
+      "pl": "jeżeli główny cel ma 3+ typy negatywnych efektów, Moc Końcowa +1",
+      "kr_sha256": "05c6a535a3ab73bd5fe6a8b92e7f59db5193842274718868b0bb977a97329c38",
+      "en_sha256": "f00266e2ce2e22571c4fdf360f44b7877e403cd5e61088c2115cf287ab415ba3",
+      "origin": "ai"
+    },
+    "dataList[id=9103601].name": {
+      "pl": "The Ring Nursefather's Artwork",
+      "kr_sha256": "739a2adaeee2489fb3d529b8c70840049a64c74ab033b6ae5513842853ee3792",
+      "en_sha256": "b7ac6fc44755da767ca256de72e2124272f4572c10b222e82a6b96bfe70dc432",
+      "origin": "ai"
+    },
+    "dataList[id=9103801].desc": {
+      "pl": "przy Oszołamieniu dochodzi do siebie z Oszołamienia w następnej turze i zyskuje 2 [Binding]\nnastępnie na każdym Początku tury zyskuje 2 [Vulnerable] i 1 [Enhancement]",
+      "kr_sha256": "227bd758479a38c6dc0e407c2f38b094a3fbe5355cf1492cee19649f29fa0765",
+      "en_sha256": "04e8e78e26d287722c7ba576ddd9d7a0e2a3e301e3fa7a66ef98a254baee163f",
+      "origin": "ai"
+    },
+    "dataList[id=9103801].name": {
+      "pl": "Bonebound Knot",
+      "kr_sha256": "021b174001d06de777f6884b2f5a8c8156ad46cd37aaa45c838302c5a584fc25",
+      "en_sha256": "dec701b13681a45ed9f6751001b27f98354d48bbd42c0717c2a775f0c5ccfa36",
+      "origin": "ai"
+    },
+    "dataList[id=9103802].desc": {
+      "pl": "po wygranej w Starciu: nakłada 1 [PinkRibbon_Ishmael]",
+      "kr_sha256": "9745e2b3655f30bc5648ac591abea2b4f14da0446f1e5a5055fbcfd7a8aea30e",
+      "en_sha256": "b6e97c00e71ecdfb51c20d366a50dbcc8b936c88d3bf7f72314e82cb66269141",
+      "origin": "ai"
+    },
+    "dataList[id=9103802].name": {
+      "pl": "Pink Ribbons",
+      "kr_sha256": "a3beef7f2504c9fb26bb01a3aec5788775a4b54f0e360a25c5ec5db1feea3c9f",
+      "en_sha256": "3a6234b34ec9259a26b43dfdc86b1f235503e909a4a9a1949986ad9e1c359bb5",
+      "origin": "ai"
+    }
+  }
+}

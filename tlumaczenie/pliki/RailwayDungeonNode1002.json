@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=100201].title": {
+      "pl": "Cykl 1: Klątwa–Kierat–Ulewa",
+      "kr_sha256": "3413c301853f8578508106ed80868049330b51c60fa5801c965ab86b46252a7b",
+      "en_sha256": "b75ad5a34101e66d302832c6e9831fd745a9f9b2e016642a6f2f5f8efa0d5ffd",
+      "origin": "ai"
+    },
+    "dataList[id=100202].title": {
+      "pl": "Cykl 2: Klątwa–Odór–Wyzysk–Kierat",
+      "kr_sha256": "2e2008afa4cc92f863d85ad29c00fc474f806bcce94a6fd9a0ee95ab0c51682a",
+      "en_sha256": "9a2a2f26ed2ac37755e2356cd348834ae304b74fc5e3541b0040520871a9339a",
+      "origin": "ai"
+    },
+    "dataList[id=100203].title": {
+      "pl": "Cykl 3: Klątwa–Zwłoka–Odór–Ulewa",
+      "kr_sha256": "2c8a5bde0cb1b214b7742578da7a89bd9b7ee4b7b2f4aa96424665cbf909a139",
+      "en_sha256": "922c339853ca995a3a04337e921f3882c4957c886a31e53cbaeeb008ee2f8a8a",
+      "origin": "ai"
+    },
+    "dataList[id=100204].title": {
+      "pl": "Cykl 4: Klątwa–Wabik–Odór–Zwłoka–Cykl",
+      "kr_sha256": "907f83033ce19ed2daa535fac65e45b2d2287af9c59069910f45fe2e92c557c7",
+      "en_sha256": "9a9ebcb87877172bd1fdd290a0b557df7d3f4d0e50a0a7e48885613725811840",
+      "origin": "ai"
+    },
+    "dataList[id=100205].title": {
+      "pl": "Ostatni Cykl: Klątwa–Kierat–Ulewa–Zwłoka–Wabik–Wyzysk–Odór–Cykl",
+      "kr_sha256": "7fd1db9a837653d3008e0e122607b0f01b2f501e44c096330851fe334064add9",
+      "en_sha256": "cde0ce327903c546ffa378e927f64e77a0438721c2b1f904e2b121b77ed873d0",
+      "origin": "ai"
+    },
+    "dataList[id=100206].title": {
+      "pl": "Stacja końcowa: Ogród",
+      "kr_sha256": "176ccb64b39f61361a26b71c9c3a73e20d2675c4304e1c377bde0c97edf6c5a8",
+      "en_sha256": "f9cd57862f1aaca95b56176270bde8a72326a6585a1c57139fe170eb9fa0e563",
+      "origin": "ai"
+    }
+  }
+}

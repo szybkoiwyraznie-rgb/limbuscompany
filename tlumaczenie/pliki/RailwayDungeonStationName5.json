@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=5].nameList[id=0].content": {
+      "pl": "Linia 5 w toku",
+      "kr_sha256": "1ae1acca9fb35914dd025626b00b097fd83c428051c3ec3452cf783a315bcefc",
+      "en_sha256": "a8a78e05f026733cfe400f79919c6216c8761e2e545fc7da60d5284e28e240c7",
+      "origin": "ai"
+    },
+    "dataList[id=5].nameList[id=1].content": {
+      "pl": "Odcinek 1: Przywiązanie–Łowy–Źródło–Rozpylenie",
+      "kr_sha256": "400738c796a93e933e423d3aa7abeb5cbc357e2361d1d9eee131a2a8551f6fc9",
+      "en_sha256": "71782125e3eafdc9dfd4cda0b8ef90724657cd703d3ce4eb4a2b318b70655347",
+      "origin": "ai"
+    },
+    "dataList[id=5].nameList[id=1].shortName": {
+      "pl": "Odcinek 1",
+      "kr_sha256": "76921d8b60021daddf862269bbe886feba13c581ef8b296bc335b7028cf1adf7",
+      "en_sha256": "eaeef31421920cdc458cde49a4262cfea466aeb0870313bf12bef66d97907978",
+      "origin": "ai"
+    },
+    "dataList[id=5].nameList[id=2].content": {
+      "pl": "Odcinek 2: Kurek–Szał–Zapomnienie",
+      "kr_sha256": "4d21c9f085c26e9fed393e160dc02620bcb5962d4d8066bf42733eb639437611",
+      "en_sha256": "c3343fbec3edb19d7341c92c022d09ff15e36ad7156254143d366a456e8a6501",
+      "origin": "ai"
+    },
+    "dataList[id=5].nameList[id=2].shortName": {
+      "pl": "Odcinek 2",
+      "kr_sha256": "6329d035248898de9591e54941ed3b05136b1fe6b91178f53ba40f8d9e31e9ee",
+      "en_sha256": "5d8a4ed65b9b09b9af14d68468636d841e5c47b53b4c0fd630a8ccb39a58a875",
+      "origin": "ai"
+    },
+    "dataList[id=5].nameList[id=3].content": {
+      "pl": "Odcinek 3: Macierzyństwo–Zdrada–Grzech Krwi–Pragnienie",
+      "kr_sha256": "9146343cc8bf473147071a7310d3680ea21dd83e4ef867ad33ee346b1f56c6a4",
+      "en_sha256": "a814221ce48020cd57b48b71d3507eb12aaa095183664fd4d84d1c5d8c4bbdd0",
+      "origin": "ai"
+    },
+    "dataList[id=5].nameList[id=3].shortName": {
+      "pl": "Odcinek 3",
+      "kr_sha256": "708f3d82bb6aa12bbc7e8700729070b4fc27d70c434d95fc2ce16f3626c30219",
+      "en_sha256": "3ba51973c43a235ef886351b808991045c95a651bb6c318bf871be78e4c848f2",
+      "origin": "ai"
+    }
+  }
+}

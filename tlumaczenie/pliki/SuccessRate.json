@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=event-high].content": {
+      "pl": "Wysoka",
+      "kr_sha256": "5327dee9abb508b44aba0760533b044906204225531924908bbebcfc33a160d1",
+      "en_sha256": "c4ebc6d4a5832cd9415f906ad03661110c705a72381c8b8b145761d02e2dd23a",
+      "origin": "ai"
+    },
+    "dataList[id=event-impossible].content": {
+      "pl": "Niedostępne",
+      "kr_sha256": "49e86c3288d491e77bb29e4845967e5b3fc9fcae2b6cd4467e16be2a5885a30d",
+      "en_sha256": "3e2ee4e5969b595a75699cd2946a4d56044653f5b608096157adbe2841b4b8e9",
+      "origin": "ai"
+    },
+    "dataList[id=event-low].content": {
+      "pl": "Niska",
+      "kr_sha256": "9f07b9bc5fbea83e2660aa3e3914817735006601b47c153b8cf37eb5843a3419",
+      "en_sha256": "f793de205ead5ac302c4a1627829dea41f176b1068b993a32373fc869918374b",
+      "origin": "ai"
+    },
+    "dataList[id=event-normal].content": {
+      "pl": "Średnia",
+      "kr_sha256": "666599febd987f532ea6ab000ee16ee7d5838beed690d2f9b174aab30ce78307",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=event-very-high].content": {
+      "pl": "Bardzo Wysoka",
+      "kr_sha256": "1f18248b8fcdadec326870c51d5adb512a8afae2468cb86430584f4602f56dd0",
+      "en_sha256": "98950fca2b5e3ef4cb0d02a8eed936245620e3b88843d5e310c9127673f84f26",
+      "origin": "ai"
+    },
+    "dataList[id=event-very-low].content": {
+      "pl": "Bardzo Niska",
+      "kr_sha256": "76fc73c3b58e83c69a17c1367b23119430b284134c4b807cdacf1ff8c0b60399",
+      "en_sha256": "b07913e85f962cc57547a22618fb8f9e6d545a3d0dbf4aee0c4af9b121c54a7a",
+      "origin": "ai"
+    },
+    "dataList[id=high].content": {
+      "pl": "Korzystna",
+      "kr_sha256": "0b1610dc6503e2c3681df12abd0425cf12ad21dbcca311d91d7b0d6dd8b9c87b",
+      "en_sha256": "c0866595ce473e6eb09037ccbae794e890beec5cefb26cce8418c3604434b654",
+      "origin": "ai"
+    },
+    "dataList[id=impossible].content": {
+      "pl": "Niedostępne",
+      "kr_sha256": "49e86c3288d491e77bb29e4845967e5b3fc9fcae2b6cd4467e16be2a5885a30d",
+      "en_sha256": "3e2ee4e5969b595a75699cd2946a4d56044653f5b608096157adbe2841b4b8e9",
+      "origin": "ai"
+    },
+    "dataList[id=low].content": {
+      "pl": "Niekorzystna",
+      "kr_sha256": "fb9cbffb251cffe59445c5503b54e9def504706d9957688ec4beca31f43a3c2a",
+      "en_sha256": "ac1746ba2800687df86e3be314de116c0c9f9efd8bee91b261a8deba3bce18f0",
+      "origin": "ai"
+    },
+    "dataList[id=normal].content": {
+      "pl": "Równa",
+      "kr_sha256": "634269a095ddb1b1dd578fd16cc80b7fb7be88edb4584bfe38087a48e77d2971",
+      "en_sha256": "1c6ac69f1e5db9c36e9f549d72ef77d23ceab19c557a7eb3a27c7f06f4484b44",
+      "origin": "ai"
+    },
+    "dataList[id=very-high].content": {
+      "pl": "Dominująca",
+      "kr_sha256": "40ce23149f95701af26cd48f975206078230c3065c9e471c9e2e46c7d70e2fa8",
+      "en_sha256": "027b5aabcc74b741a297b1c341ebbf1962cd9fe4dc7a410de2c1963a72f9ff78",
+      "origin": "ai"
+    },
+    "dataList[id=very-low].content": {
+      "pl": "Beznadziejna",
+      "kr_sha256": "d9116adfca69298a263d97d9bc07cd5f995e36c2e7332e02eed4c8eb527f9d8c",
+      "en_sha256": "c38a32607dd54d620fd13bd1af628967ecd2526ef7941b756c7f0183e4f8f842",
+      "origin": "ai"
+    }
+  }
+}

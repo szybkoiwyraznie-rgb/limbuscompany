@@ -1,0 +1,131 @@
+1||Umiejętność wroga [140403] (ulepszenie 1) — opis] 파괴된 팔의 수만큼 기본 위력 -1\n[WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 합 위력 +2|Base Power -1 for every broken Arm\n[WhenUse] If target has 2+ types of negative effect, Clash Power +2
+2||Umiejętność wroga [140403] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+3||Umiejętność wroga [140403] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis] next turn
+4||Umiejętność wroga [140403] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|
+5||Umiejętność wroga [140404] (ulepszenie 1) — nazwa] 양팔 후려치기|Thrashing Arms
+6||Umiejętność wroga [140404] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 2개 이상 있으면, 기본 위력 +2\n[DefeatDuel] [Aggressive] 1 잃음|[WhenUse] If target has 2+ types of negative effect, Base Power +2\n[DefeatDuel] Lose 1 [Aggressive]
+7||Umiejętność wroga [140404] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 손상 10|[OnSucceedAttack] Raise Stagger Threshold by 10
+8||Umiejętność wroga [140404] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 5 부여|[OnSucceedAttack] Inflict 5 [Binding] next turn
+9||Umiejętność wroga [140405] (ulepszenie 1) — nazwa] 숨죽이기|Held Breath
+10||Umiejętność wroga [140405] (ulepszenie 1) — opis] [StartBattle] [Aggressive] 5 얻음|[StartBattle] Gain 5 [Aggressive]
+11||Umiejętność wroga [140406] (ulepszenie 1) — nazwa] 고통의 몸부림|Pained Writhing
+12||Umiejętność wroga [140406] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 있으면, 기본 위력 +3\n[WhenUse] 체력 12 소모. 다음 턴에 [Laceration] 5를 얻음\n[DefeatDuel] 기본 위력 -5\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] If target has a negative effect, Base Power +3\n[WhenUse] Lose 12 HP; gain 5 [Laceration] next turn\n[DefeatDuel] Base Power -5\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+13||Umiejętność wroga [140406] (ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+14||Umiejętność wroga [140406] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 독 3 부여|[OnSucceedAttack] Inflict 3 Poison
+15||Umiejętność wroga [140406] (ulepszenie 1) — moneta 2, efekt 1 — opis] [SuperCoin]|
+16||Umiejętność wroga [140406] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 독 3 부여|
+17||Umiejętność wroga [140406] (ulepszenie 1) — moneta 3, efekt 1 — opis] [SuperCoin]|
+18||Umiejętność wroga [140406] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 독 3 부여|
+19||Umiejętność wroga [140407] (ulepszenie 1) — nazwa] 고통의 발악|Pained Struggle
+20||Umiejętność wroga [140407] (ulepszenie 1) — opis] [WhenUse] 대상에게 부정적인 효과가 있으면, 기본 위력 +4\n[WhenUse] 체력 12 소모. 다음 턴에 자신의 [Laceration] 횟수 3 증가|[WhenUse] If target has a negative effect, Base Power +4\n[WhenUse] Lose 12 HP; gain +3 [Laceration] Count next turn
+21||Umiejętność wroga [140407] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여|[OnSucceedAttack] Inflict 3 [Paralysis] next turn
+22||Umiejętność wroga [140407] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여|[OnSucceedAttack] Inflict 3 [Binding] next turn
+23||Umiejętność wroga [140501] (ulepszenie 1) — nazwa] 조아려라|Grovel Before Me
+24||Umiejętność wroga [140501] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1|[WhenUse] If target has 4+ [Laceration], Clash Power +1
+25||Umiejętność wroga [140501] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+26||Umiejętność wroga [140502] (ulepszenie 1) — nazwa] 하찮은 것|Pathetic One
+28||Umiejętność wroga [140502] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+29||Umiejętność wroga [140503] (ulepszenie 1) — nazwa] 저리 가... 저리 가...!|Go... Go Away...!
+30||Umiejętność wroga [140503] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Laceration] 횟수당, 피해량 +5% (최대 20%)|[WhenUse] If target has 4+ [Laceration], Clash Power +1\n[WhenUse] Deal +5% damage for every [Laceration] Count on the target (max 20%)
+31||Umiejętność wroga [140503] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 8 부여. [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 8 [Laceration] and +2 [Laceration] Count
+32||Umiejętność wroga [140504] (ulepszenie 1) — nazwa] 퍼레이드의 왕자|The Parade's Prince
+33||Umiejętność wroga [140504] (ulepszenie 1) — opis] [StartBattle] [Laceration]을 가진 대상만큼 가중치 증가 (최대 5)\n[WhenUse] 메인 타겟의 [Laceration]이 4 이상이면, 기본 위력 +1\n[WhenUse] 메인 타겟의 [Laceration] 횟수가 3 이상이면, 코인 위력 +1\n[DefeatDuel] [KeptBlood] 1 감소|[StartBattle] Gain Atk Weight equal to the number of targets that have [Laceration] (max 5)\n[WhenUse] If the main target has 4+ [Laceration], Base Power +1\n[WhenUse] If the main target has 3+ [Laceration] Count, Coin Power +1\n[DefeatDuel] Lose 1 [KeptBlood]
+35||Umiejętność wroga [140504] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|
+36||Umiejętność wroga [140504] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|
+37||Umiejętność wroga [140504] (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|
+38||Umiejętność wroga [140504] (ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [KeptBlood] 1 얻음|[OnSucceedAttack] Gain 1 [KeptBlood]
+39||Umiejętność wroga [140505] (ulepszenie 1) — nazwa] 피... 피... 피...!|Blood... Blood... Blood...!
+40||Umiejętność wroga [140505] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 8 이상이면, 코인 위력 +1\n[DefeatDuel] [KeptBlood] 1 감소|[WhenUse] If target has 8+ [Laceration], Coin Power +1\n[DefeatDuel] Lose 1 [KeptBlood]
+41||Umiejętność wroga [140505] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count
+42||Umiejętność wroga [140505] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 다음 코인 피해량 +20%|[OnSucceedAttack] If target has 10+ [Laceration], the next Coin deals +20% damage
+43||Umiejętność wroga [140505] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [KeptBlood] 1 얻음|
+44||Umiejętność wroga [140505] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+45||Umiejętność wroga [140506] (ulepszenie 1) — nazwa] 날 내버려둬...!|Leave Me Alone...!
+46||Umiejętność wroga [140506] (ulepszenie 1) — opis] [WhenUseEvade] 대상의 [Laceration] 횟수당 기본 위력 +1 (최대 4)|[WhenUseEvade] Base Power +1 for every [Laceration] Count on the target (max 4)
+47||Umiejętność wroga [140507] (ulepszenie 1) — nazwa] 나는... 이 행진의... 왕자이다...!|I Am... The Prince... of the Parade...!
+48||Umiejętność wroga [140507] (ulepszenie 1) — opis] [CantDuel]\n[WhenUse] [Paralysis] 4 얻음\n[WhenUse] <noparse>경혈식 글레이브</noparse>의 회복 효과가 2배로 적용됨\n[WhenUse] 정신력이 0이 됨\n[EndSkill] [KeptBlood] 10 얻음\n이번 턴 동안 흐트러짐 상태가 되지 않고 이 스킬 사용 후 턴 종료함|[CantDuel]\n[WhenUse] Gain 4 [Paralysis]\n[WhenUse] Double Hardblood[TabExplain] Glaive's heal effect\n[WhenUse] Reset SP to 0\n[EndSkill] Gain [KeptBlood] 10\nDoes not get Staggered this turn; ends turn after using this Skill.
+49||Umiejętność wroga [140507] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count
+50||Umiejętność wroga [140507] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가|
+51||Umiejętność wroga [140507] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가|
+52||Umiejętność wroga [140507] (ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가|
+53||Umiejętność wroga [140508] (ulepszenie 1) — nazwa] 절대... 돌아가지 않아...!|I'm... Never... Going Back...!
+54||Umiejętność wroga [140508] (ulepszenie 1) — opis] [WhenUse] 메인 타겟의 [Laceration] 5당, 합 위력 +1 (최대 3)\n[WhenUse] 메인 타겟의 [Laceration] 횟수 4 이상이면, 코인 위력 +1\n[WhenUse] 메인 타겟의 [Laceration] 횟수당, 피해량 +5% (최대 20%)\n[WinDuel] <noparse>경혈식 글레이브</noparse>의 회복 효과가 2배로 적용됨\n[DefeatDuel] <noparse>경혈식 글레이브</noparse>의 회복 효과가 발동하지 않음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] [KeptBlood] 10 얻음|[WhenUse] Clash Power +1 for every 5 [Laceration] on the main target (max 3)\n[WhenUse] At 4+ [Laceration] Count on the main target, Coin Power +1\n[WhenUse] Deal +5% damage for every [Laceration] Count on the main target (max 20%)\n[WinDuel] Double Hardblood[TabExplain] Glaive's heal effect\n[DefeatDuel] Hardblood[TabExplain] Glaive's heal effect does not activate\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Gain [KeptBlood] 10
+55||Umiejętność wroga [140508] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count
+56||Umiejętność wroga [140508] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가|
+57||Umiejętność wroga [140508] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가|
+58||Umiejętność wroga [140508] (ulepszenie 1) — moneta 4, efekt 1 — opis] [SuperCoin]|
+59||Umiejętność wroga [140508] (ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count
+60||Umiejętność wroga [140601] (ulepszenie 1) — nazwa] 의체 가동|Activate Prosthesis
+61||Umiejętność wroga [140601] (ulepszenie 1) — opis] [WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 9 증가|[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% damage\n[WhenUse] At less than 5 [Charge] Count, lose 10% HP and gain +9 [Charge] Count
+63||Umiejętność wroga [140601] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|
+64||Umiejętność wroga [140602] (ulepszenie 1) — nazwa] 경혈식 혈액 역류|Hardblood Reflux
+67||Umiejętność wroga [140602] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis]
+68||Umiejętność wroga [140602] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+69||Umiejętność wroga [140602] (ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Laceration] Count
+70||Umiejętność wroga [140602] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여|
+71||Umiejętność wroga [140602] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가|
+72||Umiejętność wroga [140603] (ulepszenie 1) — nazwa] 생체 에너지 전환식 충전|Bioenergy Conversion Charge
+73||Umiejętność wroga [140603] (ulepszenie 1) — opis] [WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 15 증가\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Consume 10% HP on self to gain +15 [Charge] Count\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+75||Umiejętność wroga [140603] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 4 부여|[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]
+76||Umiejętność wroga [140603] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count
+78||Umiejętność wroga [140603] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 6 부여|[UnBrokenCoinOnSucceedAttack] Inflict 6 [Laceration]
+79||Umiejętność wroga [140603] (ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count
+80||Umiejętność wroga [140603] (ulepszenie 1) — moneta 2, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [AttackDown] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [AttackDown]
+81||Umiejętność wroga [140604] (ulepszenie 1) — nazwa] 가드|Guard
+82||Umiejętność wroga [140604] (ulepszenie 1) — opis] [WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)|[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)
+83||Umiejętność wroga [140605] (ulepszenie 1) — nazwa] 경혈식 혈액 이전|Hardblood Transfusion
+86||Umiejętność wroga [140605] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|
+88||Umiejętność wroga [140606] (ulepszenie 1) — nazwa] 생체 에너지 전환식 재충전|Bioenergy Conversion Recharge
+92||Umiejętność wroga [140606] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Vulnerable] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable]
+94||Umiejętność wroga [140606] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 4 부여|
+95||Umiejętność wroga [140606] (ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가.|[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count
+97||Umiejętność wroga [140606] (ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 6 부여|
+98||Umiejętność wroga [140606] (ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가.|[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count
+99||Umiejętność wroga [140606] (ulepszenie 1) — moneta 3, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] [AttackDown] 2 부여|
+100||Umiejętność wroga [140701] (ulepszenie 1) — nazwa] 걸려든 미끼|Snagged Lure
+101||Umiejętność wroga [140701] (ulepszenie 1) — opis] [CantDuel]\n요정이 살아있는 턴만큼 공격 가중치가 증가함.\n[FairyCharm]에 걸린 인격 우선 공격|[CantDuel] \nGain +1 Atk Weight for every turn Fairy is alive\nPrioritizes Identities that have [FairyCharm]
+102||Umiejętność wroga [140701] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+103||Umiejętność wroga [140701] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여|
+104||Umiejętność wroga [140701] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 본체, 몸통 체력 15 회복|[OnSucceedAttack] Core and Body heal 15 HP
+105||Umiejętność wroga [140702] (ulepszenie 1) — nazwa] 파고드는 뿌리|Burrowing Roots
+106||Umiejętność wroga [140702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Burst] Count
+107||Umiejętność wroga [140702] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+108||Umiejętność wroga [140703] (ulepszenie 1) — nazwa] 확산하는 뿌리|Expanding Roots
+109||Umiejętność wroga [140703] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst]
+110||Umiejętność wroga [140703] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+111||Umiejętność wroga [140704] (ulepszenie 1) — nazwa] 잠식하는 줄기|Encroaching Stems
+112||Umiejętność wroga [140704] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Burst] 수치당 피해량 +5%|[OnSucceedAttack] Deal +5% damage for every [Burst] on target
+113||Umiejętność wroga [140705] (ulepszenie 1) — nazwa] 드러난 심연|Uncovered Abyss
+114||Umiejętność wroga [140705] (ulepszenie 1) — opis] 대상에게 [Burst]이 5이상 있다면 피해량 +100%|If target has 5+ [Burst], deal +100% damage
+115||Umiejętność wroga [140801] (ulepszenie 1) — nazwa] 상처 훑기|Skim Wounds
+116||Umiejętność wroga [140801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 [Laceration]을 가지고 있다면, [Paralysis] 1 부여|[OnSucceedAttack] If target has [Laceration], inflict 1 [Paralysis]
+118||Umiejętność wroga [140801] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 [Laceration] 횟수가 2 이상이면 [Laceration] 5 부여|[OnSucceedAttack] If target has 2+ [Laceration] Count, inflict 5 [Laceration]
+119||Umiejętność wroga [140802] (ulepszenie 1) — nazwa] 옭아매인 상처|Entangled Injury
+120||Umiejętność wroga [140802] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 [Laceration]을 가지고 있다면, [Binding] 1 부여|[OnSucceedAttack] If target has [Laceration], inflict 1 [Binding]
+122||Umiejętność wroga [140803] (ulepszenie 1) — nazwa] 묻어오는 살점|Smeared Flesh
+124||Umiejętność wroga [140803] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 [Laceration]을 가지고 있다면, 체력 20 회복|[OnSucceedAttack] If target has [Laceration], heal 20 HP
+125||Umiejętność wroga [140803] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 횟수가 2 이상이면 [Laceration] 5 부여|
+126||Umiejętność wroga [140804] (ulepszenie 1) — nazwa] 드리우는 그늘|Casting Shade
+127||Umiejętność wroga [140804] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 거대 클로버 생성\n[DefeatDuel] 거대 클로버의 체력이 70%인 상태로 생성됨|[WhenUse] Spawn a Giant Clover next turn\n[DefeatDuel] The Giant Clover spawns with 70% HP
+128||Umiejętność wroga [140804] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 전부 소모|[OnSucceedAttack] Remove all [Laceration] Count
+129||Umiejętność wroga [140805] (ulepszenie 1) — nazwa] 소화|Churning
+130||Umiejętność wroga [140805] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 3당 자신의 전체 체력의 1%만큼 회복 (최대 30%). [Laceration] 횟수 전부 소모|[OnSucceedAttack] Heal 1% HP for every 3 [Laceration] on target (max 30%); remove all [Laceration] Count
+131||Umiejętność wroga [140901] (ulepszenie 1) — nazwa] 취하고 싶나?|Wanna Get Drunk?
+132||Umiejętność wroga [140901] (ulepszenie 1) — opis] 합 진행 시 [Exalted] 1 부여|In a Clash, apply 1 [Exalted]
+133||Umiejętność wroga [140901] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 5 부여, [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count
+134||Umiejętność wroga [140902] (ulepszenie 1) — nazwa] 나눠 마시자!|Let's Share the Drink!
+135||Umiejętność wroga [140902] (ulepszenie 1) — opis] 합 진행 시 [Exalted] 2 부여\n[WhenUse] 체력 5% 회복|In a Clash, apply 2 [Exalted]\n[WhenUse] Heal 5% HP
+136||Umiejętność wroga [140902] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+137||Umiejętność wroga [140903] (ulepszenie 1) — nazwa] 남은건 이것 뿐이네!|This is All I Got!
+138||Umiejętność wroga [140903] (ulepszenie 1) — opis] 합 진행 시 [Exalted] 2 부여\n[Vibration]을 가진 대상 우선 공격|In a Clash, apply 2 [Exalted]\nPrioritizes targets that have the most [Vibration]
+139||Umiejętność wroga [140903] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Vibration] 횟수만큼 [VibrationExplosion]|[OnSucceedAttack] Trigger [VibrationExplosion] equal to [Vibration] Count on target
+140||Umiejętność wroga [140904] (ulepszenie 1) — nazwa] 이건 내가 먹어야지!|I'll Have This!
+141||Umiejętność wroga [140904] (ulepszenie 1) — opis] [CantDuel]\n[CantChangeTarget]\n[Exalted]을 가진 대상 우선 공격\n대상에게 [Tipsiness]가 없다면, 합 위력 +5|[CantDuel]\n[CantChangeTarget]\nPrioritizes targets that have [Exalted]\nIf target has no [Tipsiness], Clash Power +5
+142||Umiejętność wroga [140904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 [Exalted]을 가지고 있다면, [Exalted]만큼 피해량 +10%|[OnSucceedAttack] If target has [Exalted], deal +10% damage for every [Exalted]
+143||Umiejętność wroga [140904] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 [Tipsiness]를 가지고 있다면, 주는 피해가 0이 되고 자신의 체력 -50|[OnSucceedAttack] If target has [Tipsiness], deal 0 damage, and this unit loses 50 HP
+144||Umiejętność wroga [140904] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 [Exalted] 혹은 [Tipsiness] 전부 소모|[OnSucceedAttack] Remove all [Exalted] or [Tipsiness] on target
+146||Umiejętność wroga [140905] (ulepszenie 1) — opis] [Exalted]을 가진 대상 우선 공격\n대상에게 [Tipsiness]가 없다면, 합 위력 +5|Prioritizes targets that have [Exalted]\nIf target has no [Tipsiness], Clash Power +5
+147||Umiejętność wroga [140905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상이 [Exalted]을 가지고 있다면, [Exalted]만큼 피해량 +100%|[OnSucceedAttack] If target has [Exalted], deal +100% damage for every [Exalted]
+150||Umiejętność wroga [140906] (ulepszenie 1) — nazwa] 이번에는 안돼!|Not This Time!
+151||Umiejętność wroga [140906] (ulepszenie 1) — opis] 요정주 우선 대상 공격|Prioritizes Fairy Wine
+152||Umiejętność wroga [140906] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 요정주를 공격했다면, 다음 턴에 체력 10% 회복, [Enhancement] 2, [Agility] 2, [Protection] 2를 얻음.|[OnSucceedAttack] If this unit attacked Fairy Wine, apply the following effects next turn:\n- Heal 10% HP\n- Gain 2 [Enhancement]\n- Gain 2 [Agility]\n- Gain 2 [Protection]

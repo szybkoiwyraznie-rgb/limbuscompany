@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=BloodthirstHard].desc": {
+      "pl": "- Podstawowy Poziom Ataku -25\n- Podstawowy Poziom Obrony -25",
+      "kr_sha256": "39b2e8c18ff42bf1b0ae0a1116a62d9a65f371081bec958716ef98cfc99ce1e4",
+      "en_sha256": "c1ae78870edcd57210990eb1d5e7b89939c1d8a19d88138f45e4d8e895d1309d",
+      "origin": "ai"
+    },
+    "dataList[id=BloodthirstHard].name": {
+      "pl": "Tęsknota za Krwią",
+      "kr_sha256": "689d62ef8aa74e02d33e9465aff8b715a2a8e16af2c97563e9f82767c4dbb443",
+      "en_sha256": "d369fc3cdb6a1fb01303c68122b060bc605bfc4d8fbc7680e1eb584e3a565e59",
+      "origin": "ai"
+    },
+    "dataList[id=Bloodthirst].desc": {
+      "pl": "- Podstawowy Poziom Ataku -35\n- Podstawowy Poziom Obrony -35",
+      "kr_sha256": "d9bb0e436788d2a9af4bd15b9fb072f78583e169ff6a085c3993a52d9ac7e2a4",
+      "en_sha256": "bf79d90213f1d4e50e76f11c69506c8c4c3550e3b87d32a45e9a1d17647613f0",
+      "origin": "ai"
+    },
+    "dataList[id=Bloodthirst].name": {
+      "pl": "Tęsknota za Krwią",
+      "kr_sha256": "689d62ef8aa74e02d33e9465aff8b715a2a8e16af2c97563e9f82767c4dbb443",
+      "en_sha256": "d369fc3cdb6a1fb01303c68122b060bc605bfc4d8fbc7680e1eb584e3a565e59",
+      "origin": "ai"
+    },
+    "dataList[id=ObservedPerson].desc": {
+      "pl": "- Maks. 30\n- Na początku tury rośnie o 3 (od tury po zdobyciu)\n- Rośnie o 1 za każde otrzymanie lub zadanie obrażeń efektem Umiejętności ataku wobec Wykrzywionego Hohenheima\n- Otrzymuje +(stosy x 4)% obrażeń od wrogów\n- Zadaje +(stosy x 2)% obrażeń, ale przy trafieniu otrzymuje (stosy / 2)% zadanych obrażeń jako obrażenia HP (nie powoduje Oszołomienia)",
+      "kr_sha256": "370de5f188bb5f040c44b42ec129e33ffb7af2929246b5f40d7a9465141600ec",
+      "en_sha256": "c57618155e73822ffdc4b8dcb404a0a9e87ce551e185107a10932d1c4c2fb504",
+      "origin": "ai"
+    },
+    "dataList[id=ObservedPerson].name": {
+      "pl": "Obiekt Obserwacji",
+      "kr_sha256": "c17a695d528ddaa2573743ac2a5e83a5246577b8f9427556fb8d92302513358e",
+      "en_sha256": "e29a87ca6a7579a104b9bb0871dcff57d86a8844b376c511967cecd947ddef8f",
+      "origin": "ai"
+    }
+  }
+}

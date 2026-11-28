@@ -1,0 +1,184 @@
+{
+  "entries": {
+    "dataList[id=AaCfPbBa].desc": {
+      "pl": "- Odporność na Posępność +0,3\n- Pozostałe odporności -0,5\n- Przy trafieniu zadaje atakującemu 3 obrażeń Poczytalności, zyskuje 1 Licznik Zatonięcia i 1 Wzrostu Poziomu Ataku na następną turę (maks. 9 razy na turę)",
+      "kr_sha256": "36191523c827baea79de4b06a49526b78ea716ff692a97810026898df401ef02",
+      "en_sha256": "6ef421bd1d26032b0a630b6bee3a77382eafe106bf1e2ccc4c60ed262736f321",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBa].name": {
+      "pl": "Wybuchowa Posępność",
+      "kr_sha256": "6cbe00a2c3855010b814b99e0141c367e87beee395ef560353e00a5d20acc774",
+      "en_sha256": "7bce4a248a6f41676f97b72f4d845af4fac056332d8282673ccd3492c6c29e35",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBa].summary": {
+      "pl": "Odporność na Posępność (i wyłącznie na Posępność) staje się śmiertelna.\nPrzy trafieniu zadaje atakującemu 3 obrażeń Poczytalności, zyskuje 1 Licznika Zatonięcia i w następnej turze 1 Wzrost Poziomu Ataku.",
+      "kr_sha256": "8d9e53409c6ff71bdc82d35d90a6f3391ba8fa54cd451ea783b6c53d0e00ed68",
+      "en_sha256": "b51f1c76a7124c1ffa038ef8978a1f89b01732a4186025eb71aa05b853310cf1",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBb].desc": {
+      "pl": "- Odporność na Zawiść +0,3\n- Pozostałe odporności -0,5\n- Przy trafieniu nakłada na atakującego 1 Wzrost Poziomu Ataku, 2 Siły Krwawienia i 2 Liczniki Krwawienia, a w następnej turze zyskuje 1 Spadek Poziomu Obrony (maks. 9 razy na turę)",
+      "kr_sha256": "9bdc68670b0ae0913173a004ae9e780fcd66ed86818fce36699f218126862cc8",
+      "en_sha256": "fcd42116908e1f3ff0889e3e8fe6ab065bac715ff642111660806b21c729171b",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBb].name": {
+      "pl": "Wybuchowa Zawiść",
+      "kr_sha256": "62f6a9252114d03d35f475f024bb43c0e5c6531f635afcc5acf974f48ef2c48e",
+      "en_sha256": "fcd6bfd45b03e8fd9899a0a183089bc297fcf3e57f819e42b4662b7ecb807fe6",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBb].summary": {
+      "pl": "Odporność na Zazdrość (i tylko na Zazdrość) staje się śmiertelna\nPrzy trafieniu nakłada na atakującego Wzrost Poziomu Ataku 1, Krwawienie 2 i Licznik Krwawienia 2, a w następnej turze 1 Spadek Poziomu Obrony",
+      "kr_sha256": "f2a13792e589f2039651e058d3c29197f1fbbfb9f3bde274f237264923e64faa",
+      "en_sha256": "7eec3e15087c84fefce9ba981b40e70146997b15758a59a663de4fc6d1c8cc96",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBc].desc": {
+      "pl": "- Odporność na Gniew +0,3\n- Pozostałe odporności -0,5\n- Przy trafieniu w następnej turze zyskuje 1 Wzrost Poziomu Ataku i 1 Spadek Poziomu Obrony (maks. 9 razy na turę)",
+      "kr_sha256": "63e64622245596eb09d00b506a29f32b6efbc30954ff6e6ac9c1ee5c11c7e690",
+      "en_sha256": "1b71642fade684605f24d11ee95484201a972050b58aead59c8ae9dd7ab942b6",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBc].name": {
+      "pl": "Wybuchowy Gniew",
+      "kr_sha256": "7a5c2e4b4568317d827835d146a2504059cf2c31da5785b2f099988351c97512",
+      "en_sha256": "6623d659d794503a9540619981aa119973d4b7def6cfcd64faf67f278a4fcdff",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBc].summary": {
+      "pl": "Odporność na Gniew (i wyłącznie na Gniew) staje się śmiertelna.\nPrzy trafieniu: 1 Wzrost Poziomu Ataku i 1 Spadek Poziomu Obrony w następnej turze.",
+      "kr_sha256": "a083f05122d9057be9e59c25b828a2710aaedf17911470b0dd781ffad34c7773",
+      "en_sha256": "359fb29d15f8687d33b30f3a5d836e9022816b2d1033a4860604d4d5391bc8c0",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBd].desc": {
+      "pl": "Na początku tury traci 5 Szybkości i zyskuje 5 Spadek Poziomu Obrony",
+      "kr_sha256": "68ae3fdce25ecdafc3a9b5b368dc1fd9e87e9546514f4538a54a64848e3000c8",
+      "en_sha256": "0b871dcbeda3b7f4d6cc88f9f717cf61992a0786d3e0012d1790ea77466c8dec",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBd].name": {
+      "pl": "Głęboka Żałoba",
+      "kr_sha256": "5d01c7b3a6a699b97db0c2406461d95aa7f130a5b7c3a94e29d89bd6340fc746",
+      "en_sha256": "24e5f72da90993c03641f240a1873c7e62e1fc9f51c7e4789bcb214433bce4e2",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBe].desc": {
+      "pl": "- Przez tę turę nie otrzymuje obrażeń, a po zakończeniu ataku nakłada 1 Kompleksu Niższości, po czym znika\n- Maks. 1",
+      "kr_sha256": "8a0f8a0ae77d051d4d1a1a918c50b2c0e1e5df90ce3383642af8a1c032a00916",
+      "en_sha256": "207de6f513d70817c4a76c97453c9d1c61c0c89a303b655d7b72ccf2e99a7dde",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBe].name": {
+      "pl": "Oznaczona Zdobycz",
+      "kr_sha256": "64ada07e4d8351f79de0be8cda51b1dcb2ade896a62dfc986880482ef955d182",
+      "en_sha256": "59f0a790849da99855559c3b2aa8f88a3561a7fd7833b62ac16e20bdf9ea4b0d",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBf].desc": {
+      "pl": "- Za każdym razem, gdy zostanie trafiony, otrzymuje obrażenia równe (20% otrzymanych obrażeń HP) * {0}\n- Maks. 5",
+      "kr_sha256": "fef2b49c16c0afb67e2b8df4513e66d3083803532c0db59d7f1306ebbcf256f8",
+      "en_sha256": "8ea056fa982fe968189c5f699090d7ba99449a56fdb264dd1c1f8f257b919312",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBf].name": {
+      "pl": "Kompleks Niższości",
+      "kr_sha256": "94216496e813a2a65fbf42f33040f286cdc4699747a06ad674acd0d1ad33ca3e",
+      "en_sha256": "49fc4f6fc80fc5f6c1a7474256efe2c2063121807435f79578cee9eb285c20ad",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBf].summary": {
+      "pl": "Otrzymuje obrażenia równe (20% otrzymanych obrażeń HP) * {0}.",
+      "kr_sha256": "93d751d120ee30ee6ea7b825718586b04c584331388501466b9ff130bb3c7e77",
+      "en_sha256": "24270248ee16ca850a04bcb45fbace32eaf736930a1adb9270b30d1ec62dbe31",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBg].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 1 Wzrost Mocy Ataku i 1 Wrażliwości",
+      "kr_sha256": "075628d5685285f86991f92a2827124919ed34ffefc2bb2f8c292b173079c773",
+      "en_sha256": "cd0b6556d672a996759b43e042662076b4efba3bbca1c6e8e204a1fcfc2a3bdf",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBg].name": {
+      "pl": "Zniekształcony Obraz",
+      "kr_sha256": "c058bea0e948aa584089843a1030022bd1b0da2eeb0c44f6b1e23e526ec59b4c",
+      "en_sha256": "88254af36d0ca25799f43e37bc78cce062d4f2bf6131e14ddf86130eb17c4ff8",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBh].desc": {
+      "pl": "- Panika\n- Zyskuje 1 Wzmocnienie Monet Plus i 3 Wrażliwości",
+      "kr_sha256": "56210c49a7119a95922196533c2d6d7337f086539e4172432920e38e05d46295",
+      "en_sha256": "0f3c0eed325f794124902146f8bcb9459001a6c8fd96f9f579e7937800e830a2",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBh].name": {
+      "pl": "Zniekształcony Obraz",
+      "kr_sha256": "c058bea0e948aa584089843a1030022bd1b0da2eeb0c44f6b1e23e526ec59b4c",
+      "en_sha256": "88254af36d0ca25799f43e37bc78cce062d4f2bf6131e14ddf86130eb17c4ff8",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBi].desc": {
+      "pl": "- Niskie Morale\n- Wygrana w Starciu: 1 Wzrost Poziomu Ataku w następnej turze (maks. 3 na turę)\nPrzegrana w Starciu: 1 Wzrost Poziomu Obrony (maks. 3 na turę)",
+      "kr_sha256": "67e43f11f9a6ce62a72fbce789f2a2c1b2736cb1bf8e45fa64ea6ea21eb5a3fd",
+      "en_sha256": "a37bfb2ef33652ec00c04faa39ec45b2eafe8e23010630b47b89d95671ab6a5b",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBi].name": {
+      "pl": "Nienawiść",
+      "kr_sha256": "4449f2d676a88894247f64e5dbb6a68d6d87a21bcc2330b2431ca5e870ce4551",
+      "en_sha256": "4b650147947cf39ec4e9f102af862cabcce8c0b8a85e1dd21064950c6b5c924d",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBj].desc": {
+      "pl": "- Panika\n- Wygrana w Starciu: zyskuje 1 Wzrost Poziomu Ataku w tej i następnej turze (maks. 3 na turę)\nPrzegrana w Starciu: zyskuje 1 Wzrost Poziomu Obrony (maks. 3 na turę)\nNa koniec tury zyskuje w następnej turze 2 Pośpiechu",
+      "kr_sha256": "6187f619886f75cb1c8e0fd69001631da2d041d3c1f7e72bc2a50a7457cf9249",
+      "en_sha256": "4070cc7151363b7deeebda3ce3f615f59763ea23dc2d82b0b5cf4fe427f78f7d",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPbBj].name": {
+      "pl": "Nienawiść",
+      "kr_sha256": "4449f2d676a88894247f64e5dbb6a68d6d87a21bcc2330b2431ca5e870ce4551",
+      "en_sha256": "4b650147947cf39ec4e9f102af862cabcce8c0b8a85e1dd21064950c6b5c924d",
+      "origin": "ai"
+    },
+    "dataList[id=Vengeance_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 3 Spadki Poziomu Obrony i 3 Wzrosty Obrażeń",
+      "kr_sha256": "24b4efa6ee1f888406a7c9285f09a4a91b67cfc63d40171cb7b8e7ff7681b0d0",
+      "en_sha256": "d4b715c802225b66b5e710365c0ba676e578f675a92b01d38a27731d30d0fdb4",
+      "origin": "ai"
+    },
+    "dataList[id=Vengeance_LowMorale].name": {
+      "pl": "Zemsta",
+      "kr_sha256": "cc1a8e3813f8c5eb7458b6d33c57ae13d1ca17d9b98544626592f38ff8de1d54",
+      "en_sha256": "631cb8a984d071a33e4623c901ac4dea69a058f1892675484b74900ecf77873d",
+      "origin": "ai"
+    },
+    "dataList[id=Vengeance_LowMorale].summary": {
+      "pl": "Zyskuje 3 Spadki Poziomu Obrony i 3 Wzrosty Obrażeń",
+      "kr_sha256": "52cfd978bb94e9059e95d123f916558d1b7cab96949cb6d69e961bc409936faa",
+      "en_sha256": "08ddb0c43ffd752d07722889293e10cbfdc15fa0910ab78247fb8483aa81fa1a",
+      "origin": "ai"
+    },
+    "dataList[id=Vengeance_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 6 Spadków Poziomu Obrony i 5 Wzrostów Obrażeń",
+      "kr_sha256": "9a1f6e5fc0bc8ccec3d0215ff368e8e4b0efba860f52f167c1d34d6d36cd7146",
+      "en_sha256": "a06995c1c090626b34940ab5b751fb2a17ac900450cd5c8b324f48310d6aab22",
+      "origin": "ai"
+    },
+    "dataList[id=Vengeance_Panic].name": {
+      "pl": "Zemsta",
+      "kr_sha256": "cc1a8e3813f8c5eb7458b6d33c57ae13d1ca17d9b98544626592f38ff8de1d54",
+      "en_sha256": "631cb8a984d071a33e4623c901ac4dea69a058f1892675484b74900ecf77873d",
+      "origin": "ai"
+    },
+    "dataList[id=Vengeance_Panic].summary": {
+      "pl": "Zyskuje 6 Spadków Poziomu Obrony i 5 Wzrostów Obrażeń",
+      "kr_sha256": "2e71662b47ee77fc7449474bf4e8746b0f3dd65203031d4620a939f41784b13d",
+      "en_sha256": "689d7feb0e4e6afd936f6a0cea18ee3b863fd9f6fc08225fa332c1dcbf44346e",
+      "origin": "ai"
+    }
+  }
+}

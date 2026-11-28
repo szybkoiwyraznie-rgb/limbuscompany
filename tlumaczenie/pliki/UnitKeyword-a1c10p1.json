@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_LE_NOIR].content": {
+      "pl": "Le Noir",
+      "kr_sha256": "684101dc5f6507a4e9cc656f6b5c8aca315d76ed27b402b27a2a45f45f9327c4",
+      "en_sha256": "f7ff04a00a1b641681c19e9359d20fe135e2be20261eb1075d57b556ba70ace9",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LE_ROUGE].content": {
+      "pl": "Le Rouge",
+      "kr_sha256": "4d035093a57679e0b3f2ee8ba2c5bc94e1269c6bcc166b6f2c4e16ec48ff9b44",
+      "en_sha256": "68af9a0f01cfb0d20b2c10cbbb506d09abf975995185499e13ef6286ab0302ce",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SISYPHE].content": {
+      "pl": "Sisyphe",
+      "kr_sha256": "dabfee969e68967477937579ae124fd70682f67134e7b3334c6be4bc3e085edd",
+      "en_sha256": "4c60f00b7f1981812d952e2503b799e4a8f7d132fe2e8fdcf2080e2b9e6bc2c8",
+      "origin": "ai"
+    }
+  }
+}

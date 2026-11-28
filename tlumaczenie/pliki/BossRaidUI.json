@@ -1,0 +1,424 @@
+{
+  "entries": {
+    "dataList[id=boss_raid_10001_banner_title].content": {
+      "pl": "Splatanie Pasm",
+      "kr_sha256": "3833f728fb44196fc3a13162c0d6fd08614bf7c7a193876fad0340a66795992b",
+      "en_sha256": "9d6eafae1cb8ab765a1b0cbb20f32aa00b97532ee33a9cb4109767dc56e5df49",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_10001_boss_title].content": {
+      "pl": "Rufo, Docent Fowizmu\nSerdecznego Palca",
+      "kr_sha256": "edfd9bfaeb41320206d0522eacfedb5a508534b1ebc1b872ac21a678c5e66db1",
+      "en_sha256": "d89aa2731c6ccfe7999061372a09b736a4507f6f1f512661a53775458e5d9dd0",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_exit_popup_desc].content": {
+      "pl": "Czy poddać trwającą walkę?",
+      "kr_sha256": "23953152e5c1a5784c959e0542f2125f355286a90ee9f995b89dbb4d42d8ba23",
+      "en_sha256": "89e5e00766750d0e9e6c73c92887b1e7dd24ff755a431ca044888ecff6b5bd59",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_exit_popup_desc_detail].content": {
+      "pl": "<size=80%>Po potwierdzeniu bieżący skład powróci do stanu\n<color=#f8c200>tuż sprzed przystąpienia do walki</color>.</size>",
+      "kr_sha256": "d95b93afed298b18fbf66351854f82d6ca2f9326e29b12c9180f4a0addb04e4a",
+      "en_sha256": "d4ea92b446e566ea3a1c0c8a36bbc49e6b7efc2d8f987c52000e06c469cdab1b",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_exit_popup_title].content": {
+      "pl": "Poddaj etap",
+      "kr_sha256": "218cdc945c5c1d85bf208589cd6f252c2677625c9bec4afb90509151ace89d23",
+      "en_sha256": "d0f5b2ab930cc0ab80a1f0ea88368ed8eec8249078e6539c244ed63d5dbd78a1",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_give_up_popup_desc].content": {
+      "pl": "Zakończyć trwającą walkę\ni kontynuować następnym składem?",
+      "kr_sha256": "0ca83b8102a88bb63d6a4a6cb90eccc8867d1519f023b86aaf7913d152db7f1f",
+      "en_sha256": "6648513319ec793af3c7265298e656d3f626ee8243ead9abe2fa5eee6bf46ee3",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_give_up_popup_desc_detail].content": {
+      "pl": "<size=80%>Po potwierdzeniu <color=#f8c200>faza bossa,\njego PŻ, SP oraz pozostałe zasoby E.G.O zostaną zapisane</color>,\na walkę będzie można kontynuować kolejnym składem.</size>",
+      "kr_sha256": "d62b0f1bd78ab6e1ed12f54f7750eb919be9a0596771b12b6360f2392e882d9b",
+      "en_sha256": "0b800d7ac870cd039355ae30317a821433c743d272a5abf69040b82279769097",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_give_up_popup_desc_detail_last_formation].content": {
+      "pl": "<size=80%>Po potwierdzeniu <color=#f8c200>walka zostanie zakończona</color>.\n\n(※ To ostatni dostępny skład — walka zakończy się <color=#ff0000>porażką</color> bez zapisu postępu.)</size>",
+      "kr_sha256": "ad9980fcb9b9068564c3888f66ccfc56a5e11f5b8ae17155dd853ab18572fe8d",
+      "en_sha256": "3007fa4b19614d6713e86883ce21653ae2998ff9b2106a00b0cb67f1cb9002cc",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_give_up_popup_desc_last_formation].content": {
+      "pl": "Czy zakończyć trwającą walkę?",
+      "kr_sha256": "fe87273ba37244e62356247002f315d8fcd9ddda96bb3db6ab84b6d62a8bb422",
+      "en_sha256": "595e28dc871d1a751bb72c461ceffe48788331b7150cc267d31352257eb52efc",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_give_up_popup_title].content": {
+      "pl": "Zakończ walkę i zapisz postęp",
+      "kr_sha256": "03e6c7ffa9c4f28b25a93d1448795b73d8521644ccddc3b9f9e22d50ea5dcf5b",
+      "en_sha256": "32a46f0b38136673a957912be626398b8dbdc95847a19a5180a625eb2af30a57",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ask_give_up_popup_title_last_formation].content": {
+      "pl": "Zakończ etap",
+      "kr_sha256": "48d6aa13f3a1ce285f1477ce6801dbf49cb99a8761f009a3358d78054431a930",
+      "en_sha256": "21f3119a9cdbc722926f79bfb4f4a9daecce37c83e87bce1f782b1176a66c0ee",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_banned_personality_exist].content": {
+      "pl": "W składzie znajduje się niedozwolona Tożsamość.",
+      "kr_sha256": "29b8f2eee79ca647750d1dea2259646b009846d01823b9c4c89dffe4a1e0ddbc",
+      "en_sha256": "b8d11fb28bb1557fb6508c0bbb513e2b025c88babb18800eda8be1dfc6e1ce65",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_current_formation].content": {
+      "pl": "Próba w toku :: Skład {0}",
+      "kr_sha256": "d50057c129d3a602dee752df38142c30da414c2bf90fb671532d6ef2ad392489",
+      "en_sha256": "3dbd37312bc70f3d2a3f8ee9c6a5b85ba4a905640fa786fc98115ae930bc8b1d",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_end_desc].content": {
+      "pl": "Zakończ bieżący etap i zapisz dotychczasowy postęp.",
+      "kr_sha256": "5b4b81ac798d6f2615f3a1583e68c0079331a056eafc821b9c659cedb5da16e0",
+      "en_sha256": "c5f7f4feb2821be9de7d14437f9c6ca84ed6045aadbea9857588c5ad1b38a557",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_end_desc_last_formation].content": {
+      "pl": "Zakończ trwający etap.\n(※ Dla ostatniego składu postęp nie jest zapisywany, a walka kończy się natychmiast.)",
+      "kr_sha256": "b1aeadc6148f8250c045e065b11a2bc9ec9f0d183f0f2535fb7b975cad89af7e",
+      "en_sha256": "eda49b8bfc6f4d349f937b0f1d19c419da3691e110f9bbc7eec0cd915ec9cab9",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_end_title].content": {
+      "pl": "Zakończ walkę i zapisz postęp",
+      "kr_sha256": "03e6c7ffa9c4f28b25a93d1448795b73d8521644ccddc3b9f9e22d50ea5dcf5b",
+      "en_sha256": "32a46f0b38136673a957912be626398b8dbdc95847a19a5180a625eb2af30a57",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_end_title_last_formation].content": {
+      "pl": "Zakończ etap",
+      "kr_sha256": "48d6aa13f3a1ce285f1477ce6801dbf49cb99a8761f009a3358d78054431a930",
+      "en_sha256": "21f3119a9cdbc722926f79bfb4f4a9daecce37c83e87bce1f782b1176a66c0ee",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_exit_desc].content": {
+      "pl": "Poddaj bieżący etap i wróć do stanu sprzed wejścia do walki.",
+      "kr_sha256": "46fdda1372dd9eeb0ded2e4ec17e025127dcbeae450b0d296ffd18fd932796f8",
+      "en_sha256": "340dd0b71d5698ae002d2d842f1234cc707a73711860dfcbbcffbbaebbfc7a9b",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_exit_title].content": {
+      "pl": "Poddaj etap",
+      "kr_sha256": "218cdc945c5c1d85bf208589cd6f252c2677625c9bec4afb90509151ace89d23",
+      "en_sha256": "d0f5b2ab930cc0ab80a1f0ea88368ed8eec8249078e6539c244ed63d5dbd78a1",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_phase_before].content": {
+      "pl": "FAZA {0}\nPrzed wejściem",
+      "kr_sha256": "613b87eae72e754ff0f63414e98eaa3fddf115b3be0c8d9c5cbe4ccc91fac306",
+      "en_sha256": "e84229901fd75cd38d181c7f53ea7b74de7d577b39eb5dfc3f973a2a1cbf70f6",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_phase_cleared].content": {
+      "pl": "FAZA {0}\nUkończono",
+      "kr_sha256": "8d5b2c2bd82251a2d6b7a259a55be62f48836870615460c81f9dec41cdb5ee58",
+      "en_sha256": "5e7b67d3d397863870eb99e89d08919e9003b9fcd98fdea776b92dd5d2c68165",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_phase_current].content": {
+      "pl": "FAZA {0}\nW toku",
+      "kr_sha256": "555b84fe6a4265d1e2c41f34c4b791da1f642e9a4e56f22a21b939a238b6ac01",
+      "en_sha256": "11cf1757a031464718af934be66b49ddfc8e496d66e1599af8569035737aeaac",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_retry_desc].content": {
+      "pl": "Ponów etap z zachowaniem bieżącego składu drużyny.",
+      "kr_sha256": "38a411669bc27794c91dd08a83e9bd2ac728ea61512a704bdbaebcb2b2d130a4",
+      "en_sha256": "15f44e6e200c4d7bf70757d8c630dedb1fe8dc8ac2d7573f10fdc5c1093f8ab3",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_retry_title].content": {
+      "pl": "Ponów etap",
+      "kr_sha256": "5b35d3d89a3a6de9cc9154c33e010689adf76383ff9ebdf80a1ea557da74b94d",
+      "en_sha256": "c9410bf1e2633d6dda46dc67015f1992b2e42150ad14017c1d1e5073f8fbf28c",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_settings_desc].content": {
+      "pl": "Dostosuj ustawienia systemowe i opcje gry.",
+      "kr_sha256": "77b0627b4fe0f7b6b20247a21ee3d830e5d8d33b26b97f84419873238ca49624",
+      "en_sha256": "56942ead7db1981919a1cce36f480992c5de9c949ba48f9d27086f5e9ff0bacc",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_settings_title].content": {
+      "pl": "Ustawienia",
+      "kr_sha256": "f5bf49635d43f5e5f88b425bd8d0e4947c6bf5fd64784e2c23b1b13eecdd57ee",
+      "en_sha256": "74a883a037bc227f91891ab654a753d3a99f31ab06ae5b5d2b6e594a692b41f8",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_battle_pause_ui_total_turn].content": {
+      "pl": "Łączna liczba tur",
+      "kr_sha256": "543fd3b42b0fcba1449b8a71de004093778bf431fbf91e893f7c3057fb770b99",
+      "en_sha256": "0bf2f409d596825f33ef8cd4a083610f6e971edac0a39d53dc8c4f1b965f50e1",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_difficulty_blocked].content": {
+      "pl": "Warunek odblokowania: {0}",
+      "kr_sha256": "d7660ffb8ecd70d9a9d0249a7c76be67b107bc65a90b74061b3d8c1f456c44c7",
+      "en_sha256": "3d53771e0db3592688794004037b3ef6e8da89c82e7fc905a7c882dfe00e6223",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_hard_ship_buff_apply_only_for_hard_alarm].content": {
+      "pl": "Efekty Prób działają wyłącznie na poziomie TRUDNYM.",
+      "kr_sha256": "f0947eae8c30a577d41e13230d087dbbf70d870d412b114a318e92e6f7d74381",
+      "en_sha256": "6001d1421c1820d1936bef302d507adf33873ac0e5695e6895609fde7841c73a",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_limited_coin_converted].content": {
+      "pl": "Okres wydarzenia dobiegł końca — niewykorzystane {0} ({1} szt.) zamieniono na {2} ({3} szt.).",
+      "kr_sha256": "1fc38cb89c326c64b983c5ee38f7ff44a5b851e658d5c50d3917c0a30cf4daee",
+      "en_sha256": "543b7a6df5dfe77601e4632a4e7ac81d88893f9d373a9521f5c7c4094cd6f11b",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_next_difficulty_opened_side_popup].content": {
+      "pl": "Odblokowano poziom trudności: {0}.",
+      "kr_sha256": "7edc45bf6c2343e204cbefb780833042c32003fb81fff49ffd5ca998294c3e54",
+      "en_sha256": "f5e992b68375113769ba5af96041e3ef0b196572233eceac1d2de9b1ca12c560",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_phase_buff_view_ui_title].content": {
+      "pl": "Aktywne efekty",
+      "kr_sha256": "9a98501a4ab7e7a0e3a85485080cb04f74a13ea8a5586a10560881bbbe5532e5",
+      "en_sha256": "d01db4d8cfb04929e24ca8bc61708e46690e27d9fe86c067222725e0e826f272",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_preview_boss_info_button_label].content": {
+      "pl": "Informacje\no wrogach",
+      "kr_sha256": "4ac8e225c96d56800ba0bbaefdc65c039e5c1f9b12d552f79ee0879eceac832f",
+      "en_sha256": "d4337ac93c062958a2206ca9b5360c70b228e2a8305609653841d79a2cde6387",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_failed].content": {
+      "pl": "Wynik walki",
+      "kr_sha256": "5938e6b5f36decdf89f073afd314dfffbb5c2ede27a86ea8cd28a8de267d5440",
+      "en_sha256": "591428e3e7618b8291d7279e680a44b667788d8828cb77fafc527b84b6e73402",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_formation_number].content": {
+      "pl": "Skład {0}",
+      "kr_sha256": "6569e233e3928aca9517fd71f22ea50911225ee3836e6ef70895ced0fabf8fd3",
+      "en_sha256": "47a0412874ee663fc53d6200aa4b63665b1e6a912941e2b814f59cf8f1237eae",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_party_formation].content": {
+      "pl": "Użyte składy",
+      "kr_sha256": "264e0247a1f35bea9d04d73f902715475b4c9d3d6c45bec67617e864e056c100",
+      "en_sha256": "8dbf371308c2df73b91b7ef4ab6710a149b47e573f6342cead57f4966b17fa31",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_party_give_damage].content": {
+      "pl": "Zadane obrażenia",
+      "kr_sha256": "e327e26892511f494451ec3c2985019698e64779d5aa4f59d390b67557fec580",
+      "en_sha256": "275fa2ff290dce43c57e83932219eb447fab4962dfa004371ad2d9f8fe2813bb",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_party_receive_damage].content": {
+      "pl": "Otrzymane obrażenia",
+      "kr_sha256": "9a83f34b140e909d2fe5871becb1186dd8aa26b99033cb53f58336a108539569",
+      "en_sha256": "13dec6f9421af3b766b62d0d9082287be2d5e80c355a662c05943cc5860762df",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_party_turn].content": {
+      "pl": "Liczba tur",
+      "kr_sha256": "3b3fe0e524889853b3ad3c139f5b55fe3e2831b8910f7c44e48168719a0d4c7c",
+      "en_sha256": "e26411d4103048b1ef4390a851821190edd03a88df44ca9f602abefb961628d0",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_progressing].content": {
+      "pl": "Walka w toku",
+      "kr_sha256": "c2f54a95090ce85cc3c3c5eb630dfa6ad1eb790e8cff473dd9eca8990109d396",
+      "en_sha256": "db554ac733ca680440bd09adf1eea67f146c37bc7583bb1d5d8f91bd0dd1e17c",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_result].content": {
+      "pl": "Wynik walki",
+      "kr_sha256": "5938e6b5f36decdf89f073afd314dfffbb5c2ede27a86ea8cd28a8de267d5440",
+      "en_sha256": "591428e3e7618b8291d7279e680a44b667788d8828cb77fafc527b84b6e73402",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_statistics_button_label].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "d6a8c525cd47a79d05e3e588124ecdebdd6a51e8a471a75da38e2761a11984ed",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_result_ui_total_turn].content": {
+      "pl": "Łączna liczba tur",
+      "kr_sha256": "b55a20de3c311d3da57d8118a21a782ae94d7b4ab3ce9922c33e62df7c8176a7",
+      "en_sha256": "0bf2f409d596825f33ef8cd4a083610f6e971edac0a39d53dc8c4f1b965f50e1",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_tab_text_HARD].content": {
+      "pl": "Trudny",
+      "kr_sha256": "8abb8c96e0d4417919fdc99c652f00f21388d862d186714aa9ea024d7135af8f",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_tab_text_NORMAL].content": {
+      "pl": "Normalny",
+      "kr_sha256": "a4f18be49e321daf75f654246afe30164159abfa0c95c7c6e9be5707410ad5d0",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_only_clear].content": {
+      "pl": "Ukończ walkę",
+      "kr_sha256": "be1f5f7911682d23c408c4c84591458731c0302affc861d2857f3ece6fb13f43",
+      "en_sha256": "6c00b227df4ae5d6eea647e132de4f2db1e703642ef8b55e3b2d08ea45dd1633",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_turn_condition].content": {
+      "pl": "Maks. {0} tur",
+      "kr_sha256": "0bffc012e84f01e57dccd977af39755c4b39f20cecf90af169b4137748cbe998",
+      "en_sha256": "ce69500f327cddd654cfe99f0c0c374e58780bc11bc8248d63332cc323893405",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_warning_10001].content": {
+      "pl": "<size=80%>※ Nagrody można odebrać przez 4 tygodnie: od 23.04.2026 12:00 do 21.05.2026 10:00 (KST).\nPamiętaj, że po upływie tego terminu odbiór nagród będzie niemożliwy.</size>",
+      "kr_sha256": "45207095442e3a417d37482d7acb932c9cc7c6d29c8f0ee21629c06fc0992280",
+      "en_sha256": "df300e8008403a5e673e2b8eaa015a84943ef4e93e1e8e70356a20a2c81dd468",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_rule_popup_desc_10001].content": {
+      "pl": "- „Walka Projekcyjna][anjyckejorP aklaW” to <color=#ff0000>wyzwanie o wysokim poziomie trudności</color>.\nZalecamy przystąpienie do walki dopiero po <color=#ff0000>odpowiednim rozwinięciu Tożsamości i E.G.O</color> zgodnie z zalecanymi parametrami.\n(※ Nie można korzystać z Tożsamości Wsparcia.)\n\n- Każda walka z bossem posiada unikalne efekty.\nEfekty Odbicia działają na wszystkich poziomach trudności, natomiast <color=#f8c200>Próby wyłącznie na poziomie Trudnym</color>.\n\n- W walce można użyć kolejno maksymalnie <color=#f8c200>3 składów drużyny</color>.\nTożsamości użyte we wcześniejszym składzie nie mogą jednak zostać wybrane ponownie w kolejnych składach.\n\n- Każdy skład drużyny może walczyć przez maksymalnie <color=#f8c200>12 tur</color>.\nPo przekroczeniu 12 tur lub ręcznym zakończeniu walki dla bieżącego składu\nfaza bossa, jego PŻ i SP oraz pozostałe zasoby E.G.O zostaną zapisane,\nco pozwoli kontynuować starcie kolejnym składem.\n(※ Schemat ataków bossa, PŻ i SP pozostałych wrogów oraz nałożone na wrogów efekty nie są zapisywane.)\n\n- Począwszy od drugiego składu, przy wejściu do walki proporcjonalnie do łącznej liczby tur\n<color=#f8c200>wzrasta początkowe SP</color> sojuszników (※ +5 za turę).\n\nW przypadku Tożsamości z Monetami Ujemnymi początkowe SP przyjmuje wartości ujemne (※ -5 za turę, min. -25).",
+      "kr_sha256": "362c4285e405e6db64fc225d7579966006bdb7676527fbf39b268c3c982e3978",
+      "en_sha256": "c2bd0459ea8a0513a800edbb238f5ad0c0bd172c53faeb4842ebe9210813c630",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_rule_popup_title].content": {
+      "pl": "Zasady trybu",
+      "kr_sha256": "ee71e646e814cfa6ee0b31cb4b9f04c4db28fffe7eae0ffd47e3a5500d3541f6",
+      "en_sha256": "f193d07c37765ecb1de9acb1af52d788851273a68ddd8b3791e4288c5e85ef77",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_shop_infinite_item_warning_text].content": {
+      "pl": "※ Wybrana waluta ma mniej korzystny przelicznik wymiany niż pozostałe.\n※ Dostępne są jeszcze inne nagrody do wymiany.\n\nCzy mimo to chcesz dokonać wymiany?",
+      "kr_sha256": "9c6a9f6535a6b2b3ae3622c7bb31a665192be77bafb8ebbdf3aaed3788ea269c",
+      "en_sha256": "ac4c1ed8965e4f8fc1f7f55708a12a6abe9ffc14cbcf9e54c17292d8430794fe",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_ask_to_quit].content": {
+      "pl": "Po potwierdzeniu <color=#ff0000>bieżący zapis postępu walki z tym bossem zostanie całkowicie zresetowany</color>.\n\nZresetować postęp?",
+      "kr_sha256": "2d3fa08972304f582909be2b0aa150667a72d38f2f390842e12ada20fa541dd4",
+      "en_sha256": "f66676298c6f02b23b4f8fde5663c128d8df5aa838de75c09591387ac334175b",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_battle_effect_button_label].content": {
+      "pl": "Aktywne efekty",
+      "kr_sha256": "9a98501a4ab7e7a0e3a85485080cb04f74a13ea8a5586a10560881bbbe5532e5",
+      "en_sha256": "d01db4d8cfb04929e24ca8bc61708e46690e27d9fe86c067222725e0e826f272",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_battle_rule_button_label].content": {
+      "pl": "Zasady trybu",
+      "kr_sha256": "ee71e646e814cfa6ee0b31cb4b9f04c4db28fffe7eae0ffd47e3a5500d3541f6",
+      "en_sha256": "f193d07c37765ecb1de9acb1af52d788851273a68ddd8b3791e4288c5e85ef77",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_challenging_phase].content": {
+      "pl": "Próba w toku :: Faza {0}",
+      "kr_sha256": "3a0b530708e8e20d24a7403c0c26aae4a047bc8b4ceb0b49c0c12b3ed21a7e8c",
+      "en_sha256": "a860000c36f0532caebbe92342d7efdf99c7d4f5acc51f6f1e35312a614e9598",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_check_reward].content": {
+      "pl": "Sprawdź nagrody",
+      "kr_sha256": "abc36c19ffc8b6c5ae83ebfc11076a46039e280c9f4088498de402e900684444",
+      "en_sha256": "12309ddb7bc2d8d988a56ad48591b9ae617cc792cbe7b7fb2acc9e108ea8f932",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_enter_battle_button_label].content": {
+      "pl": "Wejdź",
+      "kr_sha256": "313416dc1509fceb95fd454e99c5c056b66e5a5902991d20776d35dd44e700b6",
+      "en_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_enter_from_event_ui].content": {
+      "pl": "Walka Projekcyjna][anjyckejorP aklaW",
+      "kr_sha256": "e739809f9ec0fac2597dbd0490154e125228f4fbe45afc3df29e22559cae30ce",
+      "en_sha256": "1d3c8672f14db23ab590a28ea34b16d113f84df7070e46577495fd27ba48e89b",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_give_up_button_label].content": {
+      "pl": "Resetuj postęp",
+      "kr_sha256": "c4d8d4a60e239e0a089f026111f6ffcaccb32f7c3c414c670c5a2e424fd471c3",
+      "en_sha256": "60c89fc6494d1ddfd66ad990e02570527973402e68e701350c7e639ca09ecd48",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_max_level_adjusted].content": {
+      "pl": "Nadmiarowy poziom został dostosowany do {0}.",
+      "kr_sha256": "735cb6648cdaafea702afb9563690bf620cc69b9b0fa936defb0f078dff81ee4",
+      "en_sha256": "184a0529c1f35e14dc4247ad80acac8a7cd15a4ac033a1963966c596fb7716fd",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_progressing].content": {
+      "pl": "W toku",
+      "kr_sha256": "7f964b5663bf76eaa05833df87ab7dc01de7b9df3bf199516184a30390630077",
+      "en_sha256": "b4cc4b07c300103a4bc38e01e084cc945144a7eb0ae61d74d62ca49b8abe0908",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_recommend_state_desc].content": {
+      "pl": "- Tożsamości: Synchronizacja <color=#ff0000>poz. {1}</color> · Poziom <color=#ff0000>{0}</color>\n- E.G.O: Splot Nici <color=#ff0000>poz. {1}</color>",
+      "kr_sha256": "b3ca544a5ada67d432f84cdd252e05824b5ac108de7a62f28bab965bb700a111",
+      "en_sha256": "370e2eab88d2a7e7e28c6a1310f3dc61f9bdc16c18276c344c4154cf993dd559",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_recommend_state_desc_with_max_level_adjust].content": {
+      "pl": "- Tożsamości: Synchronizacja <color=#ff0000>poz. {1}</color> · Poziom <color=#ff0000>{0}</color>\n(Maks. poziom <color=#ff0000>{2}</color>)\n- E.G.O: Splot Nici <color=#ff0000>poz. {1}</color>",
+      "kr_sha256": "f77f9c01e5fdc8e88a5b8a983f536bf7dd446a9cd669ad2a93d8261c26bf2807",
+      "en_sha256": "be2a9ca2b47de4d65674db9dd3c0d05c48173685261c2d50d790212c66513438",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_recommend_state_title].content": {
+      "pl": "Zalecane parametry",
+      "kr_sha256": "85ac5792bf1a70fdf86e7de03f73a85d54bb4c3a4d7c9a1f4033db6f58d0383c",
+      "en_sha256": "9d8fc03b5465c2edf25e8f1d13cea175291e74afc1e3e1076b49a1c2175c95dd",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_remain_hp].content": {
+      "pl": "Pozostałe PŻ",
+      "kr_sha256": "b43669feb0600d43f9f8232192c324ff64f66707012564832ae01bd469db7ffe",
+      "en_sha256": "60c2c0d7506e65ddb5c207a47fb0f9701a50aa6b7544f3632bb81c5d46cd6910",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_special_buff].content": {
+      "pl": "Efekty Odbicia",
+      "kr_sha256": "de238f102e8dab3d693186594c18c78464d782787ad2252ea096b29199154910",
+      "en_sha256": "480898d37e8f9369be57d420329370abe25eb7d741b3c0751310174434cdfc78",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_special_buff_hardship].content": {
+      "pl": "Próby",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "0eccedd7d949c787bdef5a46b801853094ddc76dd890b5b859d1adc37f6c2cb9",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_statistics_popup_title].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "d6a8c525cd47a79d05e3e588124ecdebdd6a51e8a471a75da38e2761a11984ed",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_view_current_progress_state].content": {
+      "pl": "Stan walki",
+      "kr_sha256": "6fe400dbab9ec0c6f3dfa70e17dc870549cd6b624668a5782dcb0fbdb82b04d9",
+      "en_sha256": "2779a04e0f38c745674445276f4f16c60f950c2229f6ef9019272257a6749b79",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_warning_lack_of_personality_before_start].content": {
+      "pl": "W tym trybie można użyć maksymalnie {0} składów, jednak co najmniej jeden Grzesznik posiada mniej niż {0} Tożsamości.\nPonieważ Tożsamości użytych we wcześniejszej walce nie można wybrać ponownie, w dalszej części może zabraknąć jednostek do utworzenia składu i <color=#ff0000>dalsza gra stanie się niemożliwa</color>.\nCzy mimo to chcesz wejść?",
+      "kr_sha256": "2e69d4b6a67601cd2c62d5eab6ac1b2171259f447a2ec356ecadb635b91e5a94",
+      "en_sha256": "452c7cf6f5dce08999a95c5d94c7cc49de54330ff149502fdb2ae7dc45520b24",
+      "origin": "ai"
+    }
+  }
+}

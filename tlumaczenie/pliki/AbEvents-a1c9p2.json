@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=132001].title": {
+      "pl": "Ardor Blossom Moth",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=876301].title": {
+      "pl": "Rose Hunter",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=876501].title": {
+      "pl": "Faelantern",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=876701].title": {
+      "pl": "Wayward Passenger",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    }
+  }
+}

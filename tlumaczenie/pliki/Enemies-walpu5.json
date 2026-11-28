@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=90178].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90178].name": {
+      "pl": "Threatening Gear Worshipper",
+      "kr_sha256": "34bc01ac1009f77d232981a05cfc784b45351247aa517d62f87937816d823b75",
+      "en_sha256": "ab13ae4ce782958ece594d1acc98a2b00a95b1cb294809c68e722dbc969a0e40",
+      "origin": "ai"
+    },
+    "dataList[id=90179].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90179].name": {
+      "pl": "Nimble Gear Worshipper",
+      "kr_sha256": "73fde455ba880314327aab04f23eec3b744076a8104d79408477b8ad85505a3e",
+      "en_sha256": "ae2027e6bebc1a3eb11584b7d4d3cbe29f401af467b90cfa28974763e095a4a3",
+      "origin": "ai"
+    },
+    "dataList[id=90180].desc": {
+      "pl": "Wróg zwykły",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90180].name": {
+      "pl": "Aggressive Gear Fanatic",
+      "kr_sha256": "be965908aa98298036493b7ab0978f027624f656e1c457a1ea8c21a9d8619135",
+      "en_sha256": "c446531ebdde4ecd79a6953d29925a9c4b9991755fb1dffe20116966b39526cd",
+      "origin": "ai"
+    }
+  }
+}

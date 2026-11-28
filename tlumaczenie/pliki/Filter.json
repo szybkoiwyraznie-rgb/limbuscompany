@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=MULTIPLE_TARGET].content": {
+      "pl": "Obszarowy",
+      "kr_sha256": "9c65d8787b691c94150b66c2bce079cee748f37e67061179bd79738bd68d3c6e",
+      "en_sha256": "024dc204d7ba77a8ff9ba36a886c96335a5b4a0d2f9af2130d04bc5b39a1a764",
+      "origin": "ai"
+    },
+    "dataList[id=SINGLE_TARGET].content": {
+      "pl": "Pojedynczy",
+      "kr_sha256": "00c86348f5f192ea908bb8159ae4b6001352e6df8d39573a89d1a6a3601fc7de",
+      "en_sha256": "8888a029aaf60b70574640efd1655343d1c46c692918c113c16f44f606477253",
+      "origin": "ai"
+    },
+    "dataList[id=filter_awaken].content": {
+      "pl": "Poz. 3",
+      "kr_sha256": "01cf320ec33631103d4fec57f2bc7d95c92039a8e7d31967fd024b402db0b4be",
+      "en_sha256": "5020877c279708104f605e131a00ef38772444bf386873543e7d1d0fe7f601b5",
+      "origin": "ai"
+    },
+    "dataList[id=filter_awaken_state].content": {
+      "pl": "Synchronizacja",
+      "kr_sha256": "b93727cf36dc6ff02a11f62bb88fd3196f5f57b53a81ace988255fa07e0b1732",
+      "en_sha256": "9aaaefdae10106e56aa65de1b3ac37445105b4047bd78ca79406f8355faeac21",
+      "origin": "ai"
+    },
+    "dataList[id=filter_normal].content": {
+      "pl": "Poz. 1/2",
+      "kr_sha256": "e947a78fae5c9d227c3ce9cf53b1d99f5766aa6e8a9cd49af9ea60cf649ec362",
+      "en_sha256": "07ec2b564d8c5399736ef743b9c23e7e950d96119f42bee321517979d2661f67",
+      "origin": "ai"
+    },
+    "dataList[id=filter_skill_keyword].content": {
+      "pl": "Słowo kluczowe",
+      "kr_sha256": "90ec356ffec1b8ea2aa3e6a948f0a29a9a2ad436595b87a34de457b340925cc9",
+      "en_sha256": "a668022aed26067debf017f10c180d4b9dd4e29b8c0b9b75b4ee115db5c0b78a",
+      "origin": "ai"
+    },
+    "dataList[id=filter_title_attribute].content": {
+      "pl": "Grzech",
+      "kr_sha256": "286d43f0f3cf915e68d57dfb6d45b4ba2806923bcbc689c6425537c0e55db8a6",
+      "en_sha256": "5a2e54bbcb99c02679cdc20c97f84f5c03e704b2afa796f355976e757bb3985b",
+      "origin": "ai"
+    },
+    "dataList[id=filter_title_ego_gacksung].content": {
+      "pl": "Splot Nici",
+      "kr_sha256": "f8564156d508512a8fedbccb6fe8bd56db33b461fa10c3b9ba6d42a0f58d286d",
+      "en_sha256": "6b09bed9f5b81bba2f5ffdb4d21a50cfcece0ae4e941e3e96b36f63d72b5b34e",
+      "origin": "ai"
+    },
+    "dataList[id=filter_title_ego_level].content": {
+      "pl": "Poziom",
+      "kr_sha256": "78fe10f6bca2948679bde657894dabaa0f42cae2ded6bd0b2264cfc90d868003",
+      "en_sha256": "1709305c9fa966d14f56f0da3c3614bbc10adcf53d72f90341bb96d24afcfca3",
+      "origin": "ai"
+    },
+    "dataList[id=filter_title_ego_type].content": {
+      "pl": "Rzadkość",
+      "kr_sha256": "8f679824c3656cd5d9cacc35671f11e7d6921987b2063068d35361ec842df472",
+      "en_sha256": "feddcf308625463b129c9019c7ff68dbac24d299d33320828a498a2cf365f38a",
+      "origin": "ai"
+    },
+    "dataList[id=number_of_targets].content": {
+      "pl": "Liczba celów",
+      "kr_sha256": "06426e1e395452435b683f1d343380da668020701f68bbf75c2677750c246f2e",
+      "en_sha256": "27445f6ab61d9a5cea1584df4a98277b77e1d091fb67c143d4d40116468dcdec",
+      "origin": "ai"
+    },
+    "dataList[id=sorting_acqisition].content": {
+      "pl": "Najnowsze",
+      "kr_sha256": "5938d9c9be03ebc7b4a267cdc0c4455ec06a4eab8e4e4ba645af3ff5477300e3",
+      "en_sha256": "690dbe9dc0993c4256683738fc3fd541cfa96f60d299be33343615dd58179d93",
+      "origin": "ai"
+    }
+  }
+}

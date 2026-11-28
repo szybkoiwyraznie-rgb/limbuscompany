@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=ContinueConfirmCancel].content": {
+      "pl": "Anuluj",
+      "kr_sha256": "be876433993ab7ba221512b5703b32060626f390aa50d7ed464a847a34539a6c",
+      "en_sha256": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueConfirm_Desc].content": {
+      "pl": "Ukończenie etapu z użyciem funkcji Kontynuacji nie zostanie zaliczone jako ukończenie EX.\nPonadto po ukończeniu etapu zasoby zużyte na Kontynuację nie podlegają zwrotowi, a wydane Szaleństwo nie podlega anulowaniu zakupu.\n\nJeśli jednak poddasz etap lub gra zamknie się w wyniku błędu, całe Szaleństwo użyte na Kontynuację w tej walce zostanie zwrócone.",
+      "kr_sha256": "2fc49967dd2f4a34ba365d99c02491a4c649bd072a40ebd08941df69100d681c",
+      "en_sha256": "eb48a4828c99fd3d490e529559cdc4475e3e01bb47b6ee88f15cd4f7b51d6fb1",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueConfirm_Skip].content": {
+      "pl": "Nie pokazuj ponownie do następnego logowania",
+      "kr_sha256": "5090f7271f8e6332ce41875b427eb7b55c6713871393efc302307e7e0a2e3495",
+      "en_sha256": "7496fede85f3b98c5a0e5e0dad380281a946b627ba8f02a19a3360ed80084df4",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueConfirm_Title_HellChain].content": {
+      "pl": "Informacja",
+      "kr_sha256": "eb81d7d96ba4e901770e35f233c2e086944a900ed384498a14fd985f79f32805",
+      "en_sha256": "65659145569b894bd67d06e685509c2decc5b2ac5e18700c085a253506b0fb75",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueConfirm_Title_Lunacy].content": {
+      "pl": "Informacja",
+      "kr_sha256": "eb81d7d96ba4e901770e35f233c2e086944a900ed384498a14fd985f79f32805",
+      "en_sha256": "65659145569b894bd67d06e685509c2decc5b2ac5e18700c085a253506b0fb75",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainBuyHellChain].content": {
+      "pl": "Kontynuuj walkę",
+      "kr_sha256": "48bc8d996d093237d9a32dd71c96629d3f7c9fbb0f546f374486e300281f959b",
+      "en_sha256": "22e073277ea6e99d0f255b4b365a68ce6b55b5e7958b3c7edeaa5183a8938318",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainCancel].content": {
+      "pl": "Poddaj etap",
+      "kr_sha256": "218cdc945c5c1d85bf208589cd6f252c2677625c9bec4afb90509151ace89d23",
+      "en_sha256": "3b6192d40caae71aab929dbac451919f48fd23d8f531aff24496721559ebc267",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainConfirm].content": {
+      "pl": "Kontynuuj walkę",
+      "kr_sha256": "48bc8d996d093237d9a32dd71c96629d3f7c9fbb0f546f374486e300281f959b",
+      "en_sha256": "22e073277ea6e99d0f255b4b365a68ce6b55b5e7958b3c7edeaa5183a8938318",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainDesc_HellChainInsufficient].content": {
+      "pl": "Poniosłeś porażkę w walce.\nCzy chcesz użyć <color=#e94d37>40 Szaleństwa</color>, aby kontynuować?\n\n<color=#ebcaa2>[Efekty po Kontynuacji]</color>\n<color=#F8C200>- Reset limitów aktywacji efektów na walkę dla Tożsamości i E.G.O\n- +10 zasobów E.G.O każdego Grzechu\n- Pełne odnowienie PŻ i SP wszystkich sojuszników\n(dla Tożsamości z Monetami Ujemnymi SP ustawiane na -30)</color>",
+      "kr_sha256": "ef7978e987c4547e24dc5b039e2ccc5a37b6d2833a521fbbba7b90407f291ff9",
+      "en_sha256": "6530137c9fc982936c444da6ea71b174f4fe27f3299ed99afb620608d9d62e70",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainFreeLunacy].content": {
+      "pl": "Darmowe",
+      "kr_sha256": "b8fb53470843c312b5c33bab22fc26c736376812457e708e101494fd3d78ae7b",
+      "en_sha256": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainHaveLunacy].content": {
+      "pl": "Posiadane Szaleństwo",
+      "kr_sha256": "f59b81e07eeb7030eef7aa57b8db9ee8fd182cc742446488af0bb11c884a6023",
+      "en_sha256": "a1413731532b0f9d20fb6b7cbb84b679a718644c5a2e940e45cbfe0b8980ede8",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainPaidLunacy].content": {
+      "pl": "Płatne",
+      "kr_sha256": "9ee607087e5cbb38e02b5f604392e9ba32d549b5123d8ecb6d32628a05625928",
+      "en_sha256": "fb81b961af456e5e748db7e1b1bff9a5e621b62718234c1937738d1adc317a17",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainRemainContinueCount].content": {
+      "pl": "Pozostałe użycia",
+      "kr_sha256": "f4065173fb1bda10fb99bb7cf4c468b8636abba4bc54240b64805a6f10381432",
+      "en_sha256": "00aa2dbd4cc6a69b6254684504b7e8cf23e0f4a8a71fff31e2a58e87c11ea9c6",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainTitle].content": {
+      "pl": "Kontynuacja",
+      "kr_sha256": "98c4d7238697f13b914c10c6e7c89e8cf098b3309e04e1b9274156fd20a35096",
+      "en_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueMainUseContinue].content": {
+      "pl": "Kontynuuj walkę",
+      "kr_sha256": "48bc8d996d093237d9a32dd71c96629d3f7c9fbb0f546f374486e300281f959b",
+      "en_sha256": "22e073277ea6e99d0f255b4b365a68ce6b55b5e7958b3c7edeaa5183a8938318",
+      "origin": "ai"
+    },
+    "dataList[id=ContinuePurchase_LunacyTitle].content": {
+      "pl": "Szaleństwo",
+      "kr_sha256": "033fa39122867455db4fea127d5fc58cb63098702b5b750aeba725b77204f4e7",
+      "en_sha256": "b8b523982746c8c5cb5eccfd535290edbf4ff1f419b1b6c3b5ccb4ad604b7f86",
+      "origin": "ai"
+    },
+    "dataList[id=ContinuePurchase_Notice].content": {
+      "pl": "※ W pierwszej kolejności zużywane jest Darmowe Szaleństwo.",
+      "kr_sha256": "6c28b26d3e345d06b0f7f6ababbad349c4c52a3731807a16fd43dc21101bc0ab",
+      "en_sha256": "44111b3b5a3d3e7186e1e766f76276969ab5e1e2a984665437f95b5b709255d0",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueResult_Defeat_Desc].content": {
+      "pl": "Poddano etap — zwrócono zasoby\nprzeznaczone na Kontynuację walki.",
+      "kr_sha256": "348c695d67c440418bc0dfa884f732a444fb35ecb71e97786f802fc4269247fe",
+      "en_sha256": "3b35320f5588a4ac393e73a378357a9430c1cf6667bc64cceeb07a63c935dd60",
+      "origin": "ai"
+    },
+    "dataList[id=ContinueResult_Win_Desc].content": {
+      "pl": "Ukończono etap — zużyto zasoby\nprzeznaczone na Kontynuację walki.",
+      "kr_sha256": "7ac3b3fbc69f0eb3a79af52c170e6019cc106b1628259b08acb42a40372d50e0",
+      "en_sha256": "9d51bfae6c77d0d88bf66110c3faf418de35d8ec46b8e2b3308bc4bcd87ce470",
+      "origin": "ai"
+    },
+    "dataList[id=StageInfoUI_ContinueText].content": {
+      "pl": "Możliwa Kontynuacja",
+      "kr_sha256": "b351f430452df213bf56fe62256d2ce786154eca2f2b1344d2f5057b40e055ce",
+      "en_sha256": "86eaa31e94e58ecb6a722cc3679670a3372501981ee4cc31aa4f8a06db31ec85",
+      "origin": "ai"
+    }
+  }
+}

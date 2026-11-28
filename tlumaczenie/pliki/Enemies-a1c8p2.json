@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[id=1133].name": {
+      "pl": "Zilu",
+      "kr_sha256": "cbb4ddb35fff1af7eb702ace256a9daaf2022a80f4114368d16ad83040a88c58",
+      "en_sha256": "1fef1048a3108563f89c3ab1373fc65ea412e3884c0d4f0bad495f29da607485",
+      "origin": "ai"
+    },
+    "dataList[id=1137].name": {
+      "pl": "Jia Qiu",
+      "kr_sha256": "cb5f98b8fcf0df12f4fbfcb5e5a6921d2d4eec112bad64547c0d86dbe81b513a",
+      "en_sha256": "3d7b54387043069ad6b413ab1f06bf2d92cc3f66c72d331c9c407ddc8a781be5",
+      "origin": "ai"
+    },
+    "dataList[id=1141].name": {
+      "pl": "Jia Qiu",
+      "kr_sha256": "cb5f98b8fcf0df12f4fbfcb5e5a6921d2d4eec112bad64547c0d86dbe81b513a",
+      "en_sha256": "3d7b54387043069ad6b413ab1f06bf2d92cc3f66c72d331c9c407ddc8a781be5",
+      "origin": "ai"
+    },
+    "dataList[id=1157].name": {
+      "pl": "Xue Pan",
+      "kr_sha256": "f320d07196d3c46ee338f6801680c64bb95745a744bdc2b8c4fd3ce70fe62b06",
+      "en_sha256": "05d7cd90532c4b4c877861b3f6dfad2a28ddaed02f07b2fbbcba0e2cb63ebe20",
+      "origin": "ai"
+    },
+    "dataList[id=1158].name": {
+      "pl": "Shi Yihua",
+      "kr_sha256": "add9eab54a4e807192a9566b9ded9a4d4c23cd219071499499bf3114902826e4",
+      "en_sha256": "59368d6029930b0594bd4e68e4715432a21955f68111cea22caeeabed7364d00",
+      "origin": "ai"
+    },
+    "dataList[id=115901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1159].name": {
+      "pl": "Wang Qingshan",
+      "kr_sha256": "105b6f6182cffe4c07cd4dd2c330e8bda48e108c2f9e4c0fdb7ce763587c27aa",
+      "en_sha256": "3821af99f8d2a521c45c7ccb8c5785a86892a62425fe5afd5a1840dac8e19c75",
+      "origin": "ai"
+    },
+    "dataList[id=1160].name": {
+      "pl": "Shi Sijing",
+      "kr_sha256": "89bca14ddfbe8cd54e610087de3fd86417ca945ae6fb15d2f1a4f54e0c89ed4c",
+      "en_sha256": "6ccac3f3e44f67e9cf29a4ae02fa3e8a01cd54398e347cbf1ba5144d435edbf0",
+      "origin": "ai"
+    },
+    "dataList[id=1167].name": {
+      "pl": "Shi Hua... something?",
+      "kr_sha256": "87934399f1de1b9c2cd8cbb860a3c84f65883bc1bf795661a84c0f2adcf3d9a5",
+      "en_sha256": "547d59dd04f6dc20e4cde35841155d86a699c208f83b9d986061cdd518d69467",
+      "origin": "ai"
+    },
+    "dataList[id=1179].name": {
+      "pl": "Shi Huazhen",
+      "kr_sha256": "c8df37d07f6b29513807c725ca257ca748a9e92abbaaa612572a9c9055ffca87",
+      "en_sha256": "4811aca70948be77bb5664387611641eb7219b4c65c8873324be1047cbf961e4",
+      "origin": "ai"
+    },
+    "dataList[id=90205].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90205].name": {
+      "pl": "Impaled Failure",
+      "kr_sha256": "5aebf816b7c36d8bbb51220052a13aad4d2865357833d1f0a425169d9fdc1489",
+      "en_sha256": "a94c24c32fe520b8f9fff603b3b7826697d0f58b35104b63eab64e05ea963340",
+      "origin": "ai"
+    },
+    "dataList[id=90206].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90206].name": {
+      "pl": "Blooming Failure",
+      "kr_sha256": "c4e2a017c0f65e2c5c678920d45cb4fb54f181ff71f8fa44801b2b84040c86f4",
+      "en_sha256": "f031056d1be339c57a0613e8ffc7ab07c6038c4a9eac4fda2b7dae531e1bbf8c",
+      "origin": "ai"
+    },
+    "dataList[id=90207].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90207].name": {
+      "pl": "Entangled Failure",
+      "kr_sha256": "5e71b423cd73b564034a870c9b70ae72a718c7bc11e6d38c7655ce3b76fe2ee7",
+      "en_sha256": "d44ffe7a9264c4ab949a35ca6e32911eb22d913eb9874b270c3380bb4eae2bb2",
+      "origin": "ai"
+    },
+    "dataList[id=90208].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90208].name": {
+      "pl": "Wicked Deathrite Monk",
+      "kr_sha256": "e889af517805aff8dea43dc0b2d653eb1a9a4480f4a63e89cea0e48b106ee0de",
+      "en_sha256": "faa0b30d869b35c52cb17e0ab2d05963ffa392dc0ebd002b2ef882639d48e073",
+      "origin": "ai"
+    },
+    "dataList[id=90209].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90209].name": {
+      "pl": "Evil-possessed Deathrite Monk",
+      "kr_sha256": "c7e4a26ae6bc76d5d8c13e28891b3c3a8236a8e6e1d24cc91a098666a7262881",
+      "en_sha256": "7e1f7c4d7ddf751ab6302499c1078d0d17b2250fe7acb49cfab829951eb2994d",
+      "origin": "ai"
+    },
+    "dataList[id=90210].name": {
+      "pl": "Swift Shi Family Mercenary",
+      "kr_sha256": "192d75f19206ed77baed479121a0aee8dc52305f9e46080588ccf4a81da75429",
+      "en_sha256": "0b6bb26d81928cecb0dbc929af732a63729d8c83b3b378987f912fcd1be50f10",
+      "origin": "ai"
+    },
+    "dataList[id=90211].name": {
+      "pl": "Veteran Shi Family Mercenary",
+      "kr_sha256": "1200a1fe2717abef2aff79496e243f59823e81c49d059fa246ee0aa750315e2d",
+      "en_sha256": "efc47d2fb926b525a8dd12e77c28b738cacdd6ebbd963dcdb96f361a0b2a6687",
+      "origin": "ai"
+    },
+    "dataList[id=90212].name": {
+      "pl": "Heavy Shi Family Mercenary",
+      "kr_sha256": "24b5c171e4124e251edca3934c3395e60458df24b418574d30b32def9878fdd7",
+      "en_sha256": "6d448a57586b99ed1dbcb44123a32b7bad70e2bf76629e5425c596242b89aa41",
+      "origin": "ai"
+    }
+  }
+}

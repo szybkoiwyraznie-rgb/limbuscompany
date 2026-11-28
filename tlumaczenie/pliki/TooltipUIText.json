@@ -1,0 +1,106 @@
+{
+  "entries": {
+    "dataList[id=tooltip_ego_resource_ui].content": {
+      "pl": "Liczba posiadanych zasobów E.G.O",
+      "kr_sha256": "11f50bfede9e5141390432b0f84dc87f9f03decab5231d393a1e1370e0140f25",
+      "en_sha256": "a51b5e90f7a79b86a48bab48accea9b56dd3ef4daed85b7ef7aba11a256048c5",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attack_resist_0].content": {
+      "pl": "Odporność na Cięcie",
+      "kr_sha256": "75baabd4695fd58d2ff434ec24a133b3bcbd496c7393941acf43754427eccd6e",
+      "en_sha256": "cc20edeea2fd3d6ea079f6d7bb639744c5e2a4f4cedb30998b24ef710a9e7d2c",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attack_resist_1].content": {
+      "pl": "Odporność na Przebicie",
+      "kr_sha256": "9dc43fb07ef20a6527f0b7f49024d967dd62501eb78a7c242ffc85fa01aa1877",
+      "en_sha256": "588172762c4db5ffa3091f5bfa31ea12f541546647b0ac2c685a018fcbe53edd",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attack_resist_2].content": {
+      "pl": "Odporność na Uderzenie",
+      "kr_sha256": "c0a519faf4327d626bf9e470530ef5d76eb3056094464aec93d6044fe56794ef",
+      "en_sha256": "b84e99919571eb8e6c8fc9a0ed8b0936e06ff474e23d1aca9c4082b56173eaf3",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attribute_resist_0].content": {
+      "pl": "Odporność na Gniew",
+      "kr_sha256": "399f949c4a26a752c4c80d65fe2488da26a51a27c38eabd151f5ede808c0f82b",
+      "en_sha256": "84a4bc8026806cae1b7390d7fb75b3dcd13cd0ccdc88a9c8bae59ada65a8c00a",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attribute_resist_1].content": {
+      "pl": "Odporność na Żądzę",
+      "kr_sha256": "08e39c463f2964ee87022572b73aaa8d4ddec6a41f1ccf439c61b0744a7e8473",
+      "en_sha256": "79ba2d34997908a051ef5023481a0ce96c7ee33453194236aa5d30ea65000b83",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attribute_resist_2].content": {
+      "pl": "Odporność na Lenistwo",
+      "kr_sha256": "69c7c9aa28e740082cd57acc0e562651a23648f591a13f972ee95cd5bf7d8890",
+      "en_sha256": "73af79fb3e36c019db689723e151bd2405d6e6ebe1f23a0012967f928ed1d73f",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attribute_resist_3].content": {
+      "pl": "Odporność na Obżarstwo",
+      "kr_sha256": "f02264a18f048b65beff212d835323485aff602fe3b0d29235806900216877ef",
+      "en_sha256": "5f8c26256cf3882f52045e028d4c193afd711d1c244254044ed3bbfc18cb387a",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attribute_resist_4].content": {
+      "pl": "Odporność na Posępność",
+      "kr_sha256": "750faca25e214131671a70142e9a5d06e9ac207b7aae17e3820172b8c66f43d4",
+      "en_sha256": "c2f1bc42f0aa720153d81caaa5fef13e98b97a0abc86a0162a4c9da9be20b1c3",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attribute_resist_5].content": {
+      "pl": "Odporność na Pychę",
+      "kr_sha256": "c26a3ce55abc76d63db9927d259353cffb0faddf5e4f024728e7b5a2f8782e2c",
+      "en_sha256": "cc2d7e4f331e1f12aba1d1c5ace921c268f3b984d72a49e00ffae731a3fb1ade",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_attribute_resist_6].content": {
+      "pl": "Odporność na Zazdrość",
+      "kr_sha256": "f290174e4e66a402e731874f8f89ec6b0a4f0dade75728f71afa9087abe87793",
+      "en_sha256": "2a904eed02b115d255fcf64e6bae8fb97675ba688b72a5904471540aba5f5cc8",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_ego_resource].content": {
+      "pl": "Liczba zasobów E.G.O wymaganych do użycia Umiejętności",
+      "kr_sha256": "36b28316bf9fdf905eac42274beed6210077444100abd2e339a7b8201339ed29",
+      "en_sha256": "f459edb936aaab5c238ea0e33dafdd0b3dc02a29720791e674a87db0725f10e6",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_skill_count].content": {
+      "pl": "Liczba kopii Umiejętności w puli",
+      "kr_sha256": "14029da5692210cd31083056bc7f6f2f991704f2253a1c7947d21341236d15a8",
+      "en_sha256": "16a4cddf41dd1cb5bceaa0a15116ae8f0471590b59381e62e9f31de2d7270a17",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_status_0].content": {
+      "pl": "Maks. HP",
+      "kr_sha256": "11e412e71f55871de5bfc145f36f3b0ffe3d03e1eac0b491000c60b46fa1e43c",
+      "en_sha256": "c24694483ae39824640116ed75ff2d59f376dd88d8b162e755ed6cba711293c4",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_status_1].content": {
+      "pl": "Zakres Szybkości",
+      "kr_sha256": "98ddb905e2a3e4dcdd5a885300d6e387c49f972a2fbddee864388504677debcf",
+      "en_sha256": "3a38f91382e494341236fcd20b13fab95496d3f3981e2f4de38a6e1476726bdf",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_targetting_count].content": {
+      "pl": "Waga Ataku",
+      "kr_sha256": "fac2f955859b87ea64ee1bb517b6625803ab7f5531745cacdbdbced93c7c9bb9",
+      "en_sha256": "3b27be275012576c90e3525be40299c9fea4b51069c1f8124b869a60d9ebbeeb",
+      "origin": "ai"
+    },
+    "dataList[id=unit_info_tooltip_targetting_count_desc].content": {
+      "pl": "Liczba slotów Umiejętności, które ta Umiejętność może celować",
+      "kr_sha256": "4911a36367922e8f23b15fb6217ef0238d2bbb011a7cc357972d91abdf75f7a4",
+      "en_sha256": "61d016eacc98f62f5aa815cfe93a37a7ae2cfe8cf4f32578783025b2e31bdc53",
+      "origin": "ai"
+    }
+  }
+}

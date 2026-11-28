@@ -1,0 +1,96 @@
+13593||RPGSystem#rpg-loc-dialogue-floor-1.json] 그게 말처럼 쉽게 되지 않을 것이란 건, 우리 모두가 이미 예감하고 있는 바일 것이다.|... and yet, having experienced enough ordeals throughout our journey, we knew all too well that it was easier said than done.
+13594||RPGSystem#rpg-loc-dialogue-floor-1.json] 인간이 어떻게, 왜 존재하는가에 대한 질문은 답을 내릴 수가 없을뿐더러 들을 수도 없는 물음이다.|The question of how and why human beings exist does not admit any attempt at discovering an ultimate answer and, moreover, is a futile one to ask.
+13595||RPGSystem#rpg-loc-dialogue-floor-1.json] 마찬가지로 시지프 백화점의 고객들은 왜 옷을 사고 입으려 하는가, 왜, 어떤 과정을 통해 시지프 백화점이 존재했는가에 대한 것 또한… 의미를 헤아릴 수 없는 것이다.|The questions of why the customers of Grand Magasin Sisyphe seek to purchase and wear clothing, and of why and through what process the department store came into existence... are likewise unfathomable subjects.
+13596||RPGSystem#rpg-loc-dialogue-floor-1.json] 예? 갑자기 그런 철학적인 이야기가 왜 튀어나와요? 전 단지 옷하고 통조림이 무슨 상관인지…|Sorry, why are we suddenly getting all existential? I was just asking what clothes and cans have to do with each other...
+13597||RPGSystem#rpg-loc-dialogue-floor-1.json] 답을 정해둘 수 없지만 인식으로 통용된다는 점에서는 상동한 말이다.|It is an apt juxtaposition insofar as both are unanswerable, yet accepted by human perception.
+13598||RPGSystem#rpg-loc-dialogue-floor-1.json] 무슨…|What are you even—
+13599||RPGSystem#rpg-loc-dialogue-floor-1.json] 자, 됐어, 됐어. 나 더 이상 이곳에서 의미 없는 말만 반복하고 싶지 않아. 이러다가 나도 머리가 어떻게 될 것 같거든.|All right, that's enough. I don't wanna keep going in circles over pointless gibberish. Any more of this and I'm gonna go crazy like the other wackos in here.
+13600||RPGSystem#rpg-loc-dialogue-floor-1.json] 여기가 그러니까 실재하는 것처럼 보이지만 정신만 존재하는 통 속의 뇌고, 우리의 신체는 아까 자살 자판기 안에 사이좋게 잠들어 있고… 이곳의 사람들은 어딘가 이상해, 우리가 알아야 할 건 이게 전부야.|So, let's summarize: this place looks real, but it's a virtual space where only our minds exist—like brains in a vat. Our bodies are all slumber partyin' nice and cozy inside that Suicide Vending Machine. The residents here are all nutjobs. Done. All cleared up.
+13601||RPGSystem#rpg-loc-dialogue-floor-1.json] 뫼르를 구하기 위해 이곳으로 들어온 거고, 우리는 뫼르를 무사히 만났지. 그러니까 이제는 옥상에 있다는 황금가지를 구하고 나가면 돼, 그런 거지?|With that, our plan is simple: rescue Meur—we did that—find him in one piece—he is—yoink the Golden Bough on the rooftop, and get ourselves outta here. Everyone agree?
+13603||RPGSystem#rpg-loc-dialogue-floor-1.json] 세 번째.|Point three:
+13604||RPGSystem#rpg-loc-dialogue-floor-1.json] <설마…>|<Please, no...>
+13605||RPGSystem#rpg-loc-dialogue-floor-1.json] 시지프 백화점에 들어온 사람들이 나갈 방법은…|There is no method by which an individual who enters Sisyphe...
+13606||RPGSystem#rpg-loc-dialogue-floor-1.json] 현재로선 존재하지 않습니다, 관리자님.|... may leave and return to the outside world at present.
+13607||RPGSystem#rpg-loc-dialogue-floor-1.json] 뫼르소는 그런 청천벽력 같은 말을 망설임 없이 또박또박 전달하면서 말을 마쳤다.|Meursault delivered every grave word of the catastrophic verdict without a moment's hesitation.
+13608||RPGSystem#rpg-loc-dialogue-floor-1.json] <…예상 가능한 방법도 없어? 어딘가에 느슨한 뒷문이 있다거나… 이곳을 지키는 경비원을 물리쳐야 한다거나…>|<... Nothing we can even try? A loose Backdoor somewhere...? Maybe defeat a guard in here and leave...?>
+13609||RPGSystem#rpg-loc-dialogue-floor-1.json] 건물이라는 특성을 띠고 있긴 하지만, 이곳은 상징적인 공간입니다, 관리자님.|Although it assumes the characteristics of a building, this is a symbolic space, Manager.
+13610||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳에는 일반적으로 말하는 출구나 입구가 존재하지 않습니다.|It has no entrance or exit in the conventional sense.
+13611||RPGSystem#rpg-loc-dialogue-floor-1.json] 즉 몸을 움직여 어딘가를 통해 나간다, 그런 식의 표의적인 행동은 의미가 없다는 말입니다.|Accordingly, even if we were to cross through some apparent passage leading to an "exit," it would only be a "representative" act—without resulting in our actual departure.
+13612||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런 무시무시한 말을… 평온하게 말하니까 더 무섭잖아…|Y'know, it makes it even worse when ya say that awful conclusion so matter-of-factly...
+13613||RPGSystem#rpg-loc-dialogue-floor-1.json] 평온하게 말한 것은 아니다. 사실에 근거하여 말하였을 뿐.|I did not speak matter-of-factly. I spoke the matter of fact.
+13614||RPGSystem#rpg-loc-dialogue-floor-1.json] 하지만 이곳에 들어오면 다시 나갈 방법은 존재하지 않는다는데, 어떻게 이야기를… 하, 아니에요. 이런 질문만 반복하다가는 아무것도 진전되는 게 없겠어요.|But if nobody who enters can ever leave, how could anyone have told you—*sigh* never mind. Rodya's right. We're talking in circles now.
+13615||RPGSystem#rpg-loc-dialogue-floor-1.json] 정리하자면 이곳에는 제대로 된 출구가 있지 않다, 하지만… 일단 황금가지를 구해봐야 한다… 라는 거네요.|Anyway, it all comes down to us having to retrieve the Golden Bough, right? Even though there's no "proper" exit we can find.
+13616||RPGSystem#rpg-loc-dialogue-floor-1.json] 그 배에서는 적어도 위치나 방향을 알 수 있는 좌표기가 존재했었다는 사실을 덧붙이고 싶었지만 쓸데없는 지적 같아서 관두었다.|I considered for a moment whether it would be wise to point out that the ship had come equipped with a coordinates tracker to tell us where we were, but decided to bite my proverbial tongue. Deadpan truths are not always helpful.
+13617||RPGSystem#rpg-loc-dialogue-floor-1.json] 여기서든 저기서든 내가 할 수 있는 말은 어차피 한결같을 터였다.|Virtual or not, as the Manager of the team, there was only one thing I could ever say.
+13618||RPGSystem#rpg-loc-dialogue-floor-1.json] <그럼 앞으로 계속 가보자. 계단이나 위로 올라갈 뭔가를 찾을 수 있겠지.>|<Then let's keep moving. There should be stairs or something else that can take us to the next floor.>
+13619||RPGSystem#rpg-loc-dialogue-floor-1.json] <그럼… 우리도 이제 나갈 방법이 없다는 건가?>|<Does that mean... there's no way out whatsoever for us?>
+13620||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런 재수 없는 소리 하지 말아 줘, 단테…|Dante, can you not jinx us like that...?
+13621||RPGSystem#rpg-loc-dialogue-floor-1.json] 관리자님 일행은 비정상적인 방법으로 이곳에 접근했으니, 빠져나가는 방법이 있을 수도 있을 것 같습니다.|You and the others entered this place by means that cannot be described as conventional, Manager. An exit may exist in your case.
+13622||RPGSystem#rpg-loc-dialogue-floor-1.json] 하지만 저를 구한다는 행위가 가능할지는 불투명합니다.|However, that possibility does not guarantee that I can be removed from this place.
+13623||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳은 시지프형을 받은 죄인들이 보내지는 곳이다. N사의 규칙을 어기지 않은 거주민들은 정상적인 방법으로 올 수 없다.|This place is reserved for criminals sentenced to the Sisyphe Penalty. Residents who have not violated N Corp.'s laws cannot arrive here through ordinary means.
+13624||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런데 여기에 대해서 어떻게 자세히 알아?|Then how do you know so much about it?
+13625||RPGSystem#rpg-loc-dialogue-floor-1.json] …N사에서 일했을 적, 습득한 정보다.|... I acquired the information while working for N Corp.
+13626||RPGSystem#rpg-loc-dialogue-floor-1.json] 뫼르소가 누군가와 한가롭게 수다를 떠는 모습은 잘 상상이 가진 않았다.|It was difficult to imagine Meursault in an idle conversation with other people, with a cup in his hands.
+13627||RPGSystem#rpg-loc-dialogue-floor-1.json] 천만다행이다, 저도 시지프형을 받고 이곳으로 왔는데 제대로 설명을 해주는 사람이 없었어요. 여기나 바깥에서나 다들 이해 안 되는 말만 하고… 여기 사람들은 심지어 저한테 말이 너무 안 통한다고 화를 내더라니까요?|Thank goodness. I got sent here after being sentenced to the Sisyphe Penalty, but nobody would explain anything to me! All anyone says are riddles and nonsense when it comes to this place—and I mean people <i>outside</i> as well. The ones here? They even get angry and complain about me not having common sense!
+13628||RPGSystem#rpg-loc-dialogue-floor-1.json] 그걸 어떻게 알았어요?|Whoa. How did you guess?
+13629||RPGSystem#rpg-loc-dialogue-floor-1.json] …뻔하잖아요. 그게 아니라면 시지프형을 왜 받았겠어요?|... I mean, it's obvious. Why else would they give you the Sisyphe Penalty?
+13630||RPGSystem#rpg-loc-dialogue-floor-1.json] 와, 누나 말하는 게 꼭 법정에서 절 담당했던 검사님 같아요!|Wow. You sound exactly like that prosecutor at my trial!
+13631||RPGSystem#rpg-loc-dialogue-floor-1.json] 재판이 열리더니 그 자리의 모두가 저를 무섭게 다그쳤어요. 그런 물건들을 유통하면 N사 거주민들에게 큰 혼란을 가져올 거라고…|Everyone in the courtroom reprimanded me so hard once my trial began. They said something about how I was sowing confusion and unrest among the residents of N Corp. by distributing products like that...
+13632||RPGSystem#rpg-loc-dialogue-floor-1.json] 무슨… 물건이었는데?|What exactly did you make?
+13633||RPGSystem#rpg-loc-dialogue-floor-1.json] 가짜 경험 통조림이요. 아, 라벨 디자인은 제가 했어요. 어렸을 때부터 미술에 소질이 있었거든요. 내용물은 라우라가 만들었어요. 밀가루랑 분필 가루와 분유 조금만 넣으면 되니까요, 중요한 건 배합이죠.|Counterfeit Canned Experience. Oh, I'm the one who designed the label, by the way—I've been quite an artist since I was little. Laura was in charge of the contents. It's easy stuff. All you need is some flour, chalk dust, and a pinch of powdered milk. The ratio of the ingredients is where you need to be careful.
+13634||RPGSystem#rpg-loc-dialogue-floor-1.json] 가짜… 경험 통조림이요? 그런 게 있어요?|Counterfeit Canned Experience...? That's a thing?
+13635||RPGSystem#rpg-loc-dialogue-floor-1.json] 뭐야, 왜 그렇게 놀라요? 어차피 생긴 것만 똑같이 만들면 되는데. 뒷골목에서는 가짜 경험 통조림을 만드는 사람들이 많아요. 경험 통조림이라고 하면 다들 사족을 못 쓰니까요.|Huh? Why wouldn't it be? I mean, you only need to make it <i>look</i> the same. Believe me, there are plenty of people in the Backstreets who make a living by making fake Canned Experiences. People can't get enough of anything labeled "experience," after all.
+13636||RPGSystem#rpg-loc-dialogue-floor-1.json] 시지프형이라는 건 처음 받아보는데, 보석금을 내면 더 일찍 풀려날 수도 있을지 몰라요. 베르나르가 가짜 통조림을 판 돈으로 마련해보겠다고 했어요.|Anyway, this is the first time I've experienced the Sisyphe Penalty. Maybe they'll let me out sooner if I can post bail. Bernard said he'd try to raise the money from selling the fake cans.
+13637||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런데… 당신 얼굴은… 다친 건가요?|Right... And what happened to your face...? Did they hurt you or something?
+13638||RPGSystem#rpg-loc-dialogue-floor-1.json] 아, 어떤 사람은 저를 옷감으로 써도 되냐고 물어봤어요. 무슨 은어인가 봐요.|And guess what, one person even asked if they could use me as material. Must be some kind of jargon they use in here.
+13639||RPGSystem#rpg-loc-dialogue-floor-1.json] 아, 어렸을 때 살던 보육원에서 화재가 일어났거든요. 치료 시기를 놓쳤어요. 베르나르는 다리를 절게 되었죠. 라우라는 폐가 망가져서 오래 뛰지를 못해요. 그러니 둥지에서 일하는 건 어림도 없죠.|Oh, I got this from a fire that broke out in the orphanage I grew up in. I couldn't get proper treatment in time what with being an urchin and all, and... well. Bernard has it worse—he's left with a permanent limp. Even worse for Laura. Breathing in smoke really messed up her lungs, so she can't run for too long. Say goodbye to ever working in a Nest with scars like these, right?
+13640||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런데 여기는 다른 감옥보다 훨씬 나은데요? 이렇게 자유롭게 돌아다닐 수 있는 감옥은 처음 봐요.|But hey, at least this prison's pretty snazzy. And I've never seen or heard of a prison where they let you wander around without locking you up in a cell.
+13641||RPGSystem#rpg-loc-dialogue-floor-1.json] 저 사람…|This guy...
+13642||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳에 대해 전혀 모르고 있어요, 아까 전의 저희처럼…|He has no idea what is happening. Just like us a little while ago...
+13643||RPGSystem#rpg-loc-dialogue-floor-1.json] 뭔가… 짠하네…|I don't know, I... kinda feel bad for him...
+13644||RPGSystem#rpg-loc-dialogue-floor-1.json] 그리고 묘하게… 정신 사납고요.|And, uh... he's kinda neurotic, too, jumping from one subject to the other.
+13645||RPGSystem#rpg-loc-dialogue-floor-1.json] 그런데 이곳의 간수는 어디 있죠? 원래 감옥이라면 간수가 있기 마련인데.|By the way... If this is a prison, where are the guards...? Shouldn't jails have wardens or something?
+13646||RPGSystem#rpg-loc-dialogue-floor-1.json] 글쎄…|Who knows...
+13647||RPGSystem#rpg-loc-dialogue-floor-1.json] 아, 혹시 위층으로 갈 방법을 아시나요? 어쩌면 위층에는 전화하는 곳이 있을지도 모르잖아요. 친구들에게 전화해야 하는데.|Oh, and... Do you happen to know how to get upstairs? There might be a phone booth or something up there on the upper floors. I need to call my friends.
+13648||RPGSystem#rpg-loc-dialogue-floor-1.json] 그건… 저희도 찾고 있어요.|We're looking for a way up too.
+13649||RPGSystem#rpg-loc-dialogue-floor-1.json] 그렇구나… 알겠어요. 혹시 알게 되면 말해줄게요.|Oh, I see... Okay. I'll let you know if I manage to find one.
+13650||RPGSystem#rpg-loc-dialogue-floor-1.json] <그래, 저 반응을 보니 바깥 세계에서 온 지 얼마 안 된 것 같긴 하네…>|<Yup, that's the reaction of someone who just came from the outside world.>
+13651||RPGSystem#rpg-loc-dialogue-floor-1.json] 그쪽은… 어쩌다가 시지프형을 받게 된 건데요?|And you...? What did you do to receive the Penalty?
+13652||RPGSystem#rpg-loc-dialogue-floor-1.json] 친구들이랑 뭐를 좀 만들었거든요.|There's this product my friends and I cooked up.
+13653||RPGSystem#rpg-loc-dialogue-floor-1.json] …그런데 그게 N사의 금지 품목이었던 거군요.|... I assume this "product" was illegal to manufacture in N Corp.
+13654||RPGSystem#rpg-loc-dialogue-floor-1.json] 저는 위로 올라가는 계단이나 엘리베이터를 찾아보고 있을게요!|I'll be keeping an eye out for any staircases or elevators leading up!
+13655||RPGSystem#rpg-loc-dialogue-floor-1.json] <…정신없는 곳이네.>|<... Pretty hectic, huh...>
+13656||RPGSystem#rpg-loc-dialogue-floor-1.json] <color=#515aee>잠시… 손을 댈게…</color>|<color=#515aee>Let me... lay my hands on you awhile.</color>
+13657||RPGSystem#rpg-loc-dialogue-floor-1.json] <color=#515aee>여정을… 떠나기 전엔… 조율이 필요한 법이니까…</color>|<color=#515aee>Every voyage... requires some touch... before it begins.</color>
+13658||RPGSystem#rpg-loc-dialogue-floor-1.json] <괜찮은 걸까?>|<Is that... normal?>
+13659||RPGSystem#rpg-loc-dialogue-floor-1.json] 르누아르 매장에서는 직원이 굳이 고객들에게 말을 걸 필요가 없습니다.|Vendors of Le Noir establishments are not compelled to initiate provider-client engagement.
+13660||RPGSystem#rpg-loc-dialogue-floor-1.json] 굳이 우리 쪽에서도 말 걸 필요는 없지. 차라리 잘됐어~|Welp, then let's not bother 'em and move on? Sounds like a win-win.
+13661||RPGSystem#rpg-loc-dialogue-floor-1.json] <그런데 왜 우리한테 뭐라고 하는 거야?>|<Okay... So what's that got to do with us?>
+13662||RPGSystem#rpg-loc-dialogue-floor-1.json] 그것은 르누아르들이 믿는 규율과 연관 있을 것입니다.|It is likely due to the guiding tenets of the Le Noir faction.
+13663||RPGSystem#rpg-loc-dialogue-floor-1.json] 그들은 백화점을 영원히 지속시키려는 것을 사명으로 삼은 자들이라 들었습니다.|I was informed that they consider the eternal preservation of this department store to be their appointed mission.
+13664||RPGSystem#rpg-loc-dialogue-floor-1.json] <color=#7d7d7d>저 추한 자들에 의해 오늘도 고결한 황금들이 찢기고 훼손되며 강탈당하였도다. 언제까지 연약하게 무너질 종말만을 기다릴 것인가.</color>|<color=#7d7d7d>Yet even today, ye do naught as the hideous and the wicked ceaselessly tear out the Golden from its walls and take its aureate light for themselves. How long will ye forgive your own craven spirits and feebly accept the end of days?</color>
+13665||RPGSystem#rpg-loc-dialogue-floor-1.json] 고객들에게도… 불경하게 바랜 빛이 보이는군요.|I see among our clientele... those who gladly bask in the tarnished glow of sacrilege.
+13666||RPGSystem#rpg-loc-dialogue-floor-1.json] <나는 왜?!>|<Me? What? Why?!>
+13667||RPGSystem#rpg-loc-dialogue-floor-1.json] <그러고 보니 백화점 대부분은 옷을 팔고 있는 것 같은데… 옷은 어떻게 만드는 거야?>|<Come to think of it, almost everything on display in this department store is clothing. Wonder what their production line looks like.>
+13668||RPGSystem#rpg-loc-dialogue-floor-1.json] 잘못 들은 것이 아니다. 시지프 백화점에는 탄생 이래로 수많은 사람들이 들어왔고 그들은 영구적으로 남아있기에.|You did not. There is no discharge date for the Sisyphe Penalty, and those who enter remain permanently. Its population is theoretically on an infinite upward trend.
+13669||RPGSystem#rpg-loc-dialogue-floor-1.json] 백화점에서는 다양한 방법으로 옷감과 장식품들을 얻을 수 있습니다, 관리자님.|Grand Magasin Sisyphe offers various opportunities to procure a sundry of material and attachments, Manager.
+13670||RPGSystem#rpg-loc-dialogue-floor-1.json] 밖에서는… 동물이나… 식물들을 키워서 재료를 구하거나…|Well... Outside, I think they get the mats from domesticated animals or plants...
+13671||RPGSystem#rpg-loc-dialogue-floor-1.json] 아니면 각종 합성 섬유들을 이용하기도 하죠.|That, or use synthetic fiber for weaving.
+13672||RPGSystem#rpg-loc-dialogue-floor-1.json] 이곳도 다를 바는 없다.|Though the label upon each material differ from those of the outside,
+13673||RPGSystem#rpg-loc-dialogue-floor-1.json] 재료의 품명만 다를 뿐, 원자재를 도축하고 수확하는 메커니즘은 동일하다.|the basic manufacturing principles remain the same: butcher the source and use the raw material for production.
+13674||RPGSystem#rpg-loc-dialogue-floor-1.json] 그 재료들이라는 건…|The "raw material" being...?
+13675||RPGSystem#rpg-loc-dialogue-floor-1.json] 고객들이기도 하다. 옷을 입기도 하지만 동시에 옷이 되기도 하지.|Being the clientele. This means they purchase and wear clothing, but may also become clothing themselves.
+13676||RPGSystem#rpg-loc-dialogue-floor-1.json] 잠깐… 무기를 거두십시오.|W-wait... Lower your weapons, please...
+13677||RPGSystem#rpg-loc-dialogue-floor-1.json] <이것도 황금가지랑 관련이 있는 건가?>|<Does this have anything to do with the Golden Boughs?>
+13678||RPGSystem#rpg-loc-dialogue-floor-1.json] … 이 곳곳에 보이는 걸 말하는 것 같아.|... I think he's talking about these... patches.
+13679||RPGSystem#rpg-loc-dialogue-floor-1.json] 로쟈가 가리킨 곳으로 시선을 두자 벽 곳곳의 균열에 덮여있는 퇴색된 송진이 보였다.|Rodya pointed at one of the walls sparsely covered in patches of faded resin.
+13680||RPGSystem#rpg-loc-dialogue-floor-1.json] 바야흐로 아홉 그루 시즌 전, 백화점에 갑자기 금이 가기 시작하며 몰락의 시대가 왔습니다…|The time was nine arboreal Seasons ago—when the Age of Ruin descended upon Grand Magasin Sisyphe in the form of cataclysmic cracks forming upon its walls.
+13681||RPGSystem#rpg-loc-dialogue-floor-1.json] 그리고 이 앞은… 부디 경계를 소홀히 하지 마시길. 그곳은 르루주의 영역입니다. 천박한 드레이핑으로 원단을 고정시키지도 못할 뿐만 아니라 우리의 황금송진을 제멋대로 찢고 이어 붙여 모독하는 자들…|And another thing—pray, be constantly vigilant beyond this point, for you will be entering the territory of the Rouges. The vulgar, heathen fiends cannot even drape a bolt of fabric properly, so they rend our Golden Resin and stitch it back together in whatever blasphemous shape that pleases them...
+13682||RPGSystem#rpg-loc-dialogue-floor-1.json] …르루주… 네, 그럴게요.|... The Rouges... All right. Will keep that in mind.
+13683||RPGSystem#rpg-loc-dialogue-floor-1.json] 그럼 언젠간 제게도 더 이상 방송이 아닌 그분의 진정한 목소리가 들릴 것입니다…|Then... only then... shall my mind be opened to the true "Voice," beyond the broadcast.
+13684||RPGSystem#rpg-loc-dialogue-floor-1.json] <특이한 것들을 팔고 있어… 모든 매장이 다 이런 상품들을 팔고 있는 건가?>|<Those are some pretty bizarre things they're selling here... Do all shops here have such a weird inventory?>
+13685||RPGSystem#rpg-loc-dialogue-floor-1.json] 잠깐만요. 일단 여기서 쓸 수 있는 돈인 것 같은데, 좀 더 신중하게…|Hang on. It's the only kind of currency they'll accept around here. We should set our priorities right before we splash cash like—
+13686||RPGSystem#rpg-loc-dialogue-floor-1.json] <걱정 마, 이스마엘. 어차피 못 사니까.>|<Don't worry, Ishmael. We can't afford it anyway.>
+13687||RPGSystem#rpg-loc-dialogue-floor-1.json] 못 산다구요?|We can't?
+13688||RPGSystem#rpg-loc-dialogue-floor-1.json] <SPA관이랑 다르게 이곳의 옷들은 전체적으로 느낌이 비슷하네.>|<Unlike the Casualwear Hall, everything here has the same sort of look.>
+13689||RPGSystem#rpg-loc-dialogue-floor-1.json] 유행에 휩쓸리지 않기 때문입니다.|These garments do not submit to passing trends.

@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=811301].desc": {
+      "pl": "przy 10+ Licznika [Charge], zyskuje [AaCeSeBa] w następnej turze.\nprzy HP Korpusu 30% lub mniej, zyskuje [AaCeSeBa] co turę.",
+      "kr_sha256": "b1221c8d2ecbee26fd2154344e9d8b2dc0ac61a30329e9b764350825ad55818d",
+      "en_sha256": "d670e7ae9303e9379ce90ae31c8e20e7236f32d5fb05e1130dd67ba4b38b26a1",
+      "origin": "ai"
+    },
+    "dataList[id=811301].name": {
+      "pl": "Santata's Guffaw",
+      "kr_sha256": "e42fee3a143d6007b793f827e645fee3e0cfc3bbc0703a84429c20089f4eea46",
+      "en_sha256": "025a937fa1d80b65f5d320460d73154c7b15389eeeec9ed4454f1e75394971b0",
+      "origin": "ai"
+    },
+    "dataList[id=811302].desc": {
+      "pl": "traci wszystkie Liczniki [Charge], gdy przechodzi w Oszołamienie.",
+      "kr_sha256": "8b7340899e1e7ed96d4be4963d412e93fd23dd668a4f6f34038d9f53c2a26662",
+      "en_sha256": "483230221e30bb1bebe2f94a426b5b6a69dbf080bb7957fae5da626472206178",
+      "origin": "ai"
+    },
+    "dataList[id=811302].name": {
+      "pl": "Lights Out",
+      "kr_sha256": "84a458758e7cd1b2251f95db5facf82c1a8cdf1177d38893e8c25dab3dc41930",
+      "en_sha256": "743e5d91843b853c7f9ac060eb2b438e18514bfde98f1857894e1a5c3984bada",
+      "origin": "ai"
+    },
+    "dataList[id=811303].desc": {
+      "pl": "traci 1 [Breath], gdy otrzymuje trafienie od Umiejętności ataku",
+      "kr_sha256": "97c4a2cfdab44015f75c3ca13e98fdd54b7a2ec8bb1b7376594d65130ef36fbe",
+      "en_sha256": "2bf6e76dbc559ea21a6b48d8873e557f41059dce28275e2d79f1956ecc4e33a2",
+      "origin": "ai"
+    },
+    "dataList[id=811303].name": {
+      "pl": "Scattering Breath",
+      "kr_sha256": "a128735178071b8f23dc2813a451487a1aae34bb346400e646eae1c40b45dc4d",
+      "en_sha256": "00c48b3fd67f92dae18d36d8318c773dbec63ead0e215a47a2678d40b417a9bd",
+      "origin": "ai"
+    },
+    "dataList[id=811304].desc": {
+      "pl": "Moc Bazowa „Let's Get Packing” -2, jeżeli Część Gift Sack została zniszczona.",
+      "kr_sha256": "385883e1af061d376fd2314711d5018527a9c504c4e48e4d97018292fee7308b",
+      "en_sha256": "8c4f7bd15c00102785cf442d9df1afb24c3e939d9a1e086d8d8cdd61de848ac1",
+      "origin": "ai"
+    },
+    "dataList[id=811304].name": {
+      "pl": "I CAN'T BAG THE GIFTS!!",
+      "kr_sha256": "f78ff42ffcc43d067962eb59331102c1dd8021740a33d82825edc87849dd76da",
+      "en_sha256": "5ce23d0f3e833b3250e769c486d4d68216aa3092e4b43bb7e8552649666626c4",
+      "origin": "ai"
+    }
+  }
+}

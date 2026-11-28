@@ -1,0 +1,89 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Czyli w końcu dałeś Kromer ten klucz.",
+      "kr_sha256": "686f210a06cdf11b77347906c2c3aab689324b5c8dcc7c315ea8aed37eb76ebb",
+      "en_sha256": "3b56c06f1cda3f588982b2da8cf0764cf89b6872ab15f875b35bcbcec69a5cf2"
+    },
+    "dataList[id=10].content": {
+      "pl": "Sam się dowiedz. A potem powiedz mi, jaka jest odpowiedź.",
+      "kr_sha256": "601ee8a45ca55466d7dfab0f0fc560d42ca12b97941cf83d9f85662f75a1bd34",
+      "en_sha256": "ef4f0fb76dbd4757a7edfb44ab1db1dc46ece613774c5899dd69005cef24ba5e"
+    },
+    "dataList[id=11].content": {
+      "pl": "Mówił łagodnie, oczy mu się śmiały, a jednak z jakiegoś powodu czułem, że muszę tak zrobić.",
+      "kr_sha256": "5c4b5e3fb6d893727d588a8fa3d2e2ecd6ee76b9cfc80ab1fc7c725599b14805",
+      "en_sha256": "95dfb777f63391685da4c573cabac2958db945662b61bd8d29470a03b96cfd02"
+    },
+    "dataList[id=12].content": {
+      "pl": "W jego oczach na pewno kryła się jakaś szczególna siła.",
+      "kr_sha256": "7d74d4dc6f143369b655e5cc59bd95408d3149ec1dfcb57eea7e61d888c3e6a2",
+      "en_sha256": "65aaacf7a6b884430dc9eb9b43813efe497ae33806d5eff1d51cc48a3c0a9a34"
+    },
+    "dataList[id=13].content": {
+      "pl": "Siła, przez którą wystarczyło napotkać jego spojrzenie, żeby człowiek tracił wolę i stawał się bezradny.",
+      "kr_sha256": "d1389eb2ee1f047294ad35808782f7675b50ac7357cb0d82014847b060f08272",
+      "en_sha256": "a64726f9705f9a556173cda9f24cc0370268a0c69fccbbd0f601ef26083ebc9b"
+    },
+    "dataList[id=15].content": {
+      "pl": "Ale…",
+      "kr_sha256": "9ce1e359485c43aa8c497e4c05e8b8961c314c040449910ba827b9fea1a515b5",
+      "en_sha256": "4305843a67a4542bdc29b80203f26b1ae9bde1aec28a21526e4f0a84e709de81"
+    },
+    "dataList[id=16].content": {
+      "pl": "Skoro tak, to dlaczego nie wspomniał mi ani słowem?",
+      "kr_sha256": "3bac5370c540bc1c05bf18ff25762a00527a42b00e1598a3e8dcbfb714ba61f4",
+      "en_sha256": "521875c5e106c1f98600b9ff9fe18b72f3f2dc7c3e270ada2fa31e2492a1265a"
+    },
+    "dataList[id=17].content": {
+      "pl": "Do dziś się nad tym zastanawiam.",
+      "kr_sha256": "28ba9bb6c0c2da6db01dccb7b48d2e1dca830adc6e683df4f51103006496104a",
+      "en_sha256": "28385682ecddc323ce420535d2007d38c0343a2d98e37fd38209d76c06c8eedf"
+    },
+    "dataList[id=1].content": {
+      "pl": "Skąd wiesz?",
+      "kr_sha256": "44fb2be86610be2325fbb2f925ee5f347348f60d00530db514872075740a05c2",
+      "en_sha256": "4a29735d5b44c75e5e668a0fd26ef546dcb182c2822709f8985a37b383b773c7"
+    },
+    "dataList[id=2].content": {
+      "pl": "Demian potrafił odgadnąć wszystko, nawet to, czego mu nie powiedziałem.",
+      "kr_sha256": "eda3054963e14e100e1db612ddc5da63a8c6bef86b94d58552cd7008e0f63093",
+      "en_sha256": "a32587ec7e680029134c56e99c2beab9f28afa445e2b57834120805c03907caa"
+    },
+    "dataList[id=3].content": {
+      "pl": "Kiedy raz go o to zapytałem, powiedział tylko: “Wystarczy uważnie przyglądać się ludziom”, i nic więcej nie wyjaśnił.",
+      "kr_sha256": "4c8f1f2219df0b102a812ac93ba547c286f482f62817f14a1f50b296aea99c74",
+      "en_sha256": "44d8afa04469f5fec124e61e3a3c758c3d509f5ecbc8891c56b36f06ead6e0ff"
+    },
+    "dataList[id=4].content": {
+      "pl": "Sinclair, może jeszcze spaść na ciebie wiele trudnych, bolesnych rzeczy, jedna po drugiej.",
+      "kr_sha256": "25955ac641b75733557de64b53c306c5d06aea21fc8fbccee0dd0f38c07fa629",
+      "en_sha256": "cc062dd94fbf32d95550a2a55e5023ede841e60bf0e6ef9bd5dc1cb4ff830d6a"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ale nie wolno ci się poddać.",
+      "kr_sha256": "e5c06b9e1e54c0a1718deba432694b9d7afcdc7db6080bde49eed03e8bd11503",
+      "en_sha256": "6f7f3da7d0b9d5f6fce78b5ec4d8c8f8afd9789e51878511d1cbc4186438e37d"
+    },
+    "dataList[id=6].content": {
+      "pl": "Bo ten ból sprawi, że wyrośniesz na kogoś jeszcze piękniejszego.",
+      "kr_sha256": "f85f1821585c3cf8ab688e163a6e66151cd7978c21a2f0c0ad60fcaf688f69a4",
+      "en_sha256": "ffde9b4f39a61110051e3418b20ece084aa70fa07d80029c00a105022c57a215"
+    },
+    "dataList[id=7].content": {
+      "pl": "Demian miał w sobie tajemniczą siłę: nawet najtrudniejsze słowa w jego ustach brzmiały przekonująco.",
+      "kr_sha256": "e4bef25a9acc266537c8d59eda04e43be0c4a407e5ec3790432c4fa8825221bd",
+      "en_sha256": "c0ce268273e617b025f18205ee38a70620c95272bfd7205e377d961fac79252c"
+    },
+    "dataList[id=8].content": {
+      "pl": "Kiedy go słuchałem, czułem, że naprawdę mogę dorosnąć. Że mogę stać się kimś, kto jest tego wart.",
+      "kr_sha256": "59d594a6432919ce16122c8babe303a5c4383deceefbe1dae0da7960dbe7d13d",
+      "en_sha256": "27ad103b3bd81c6efd83037ceaf4b600aac17b964c44d249fefd1df7a890ac9c"
+    },
+    "dataList[id=9].content": {
+      "pl": "No… ale nie bardzo to rozumiem, Demian.",
+      "kr_sha256": "adb0a98daefcebbc3d88de737b72da682bcb3421d54226daf40aaabdf632bfd5",
+      "en_sha256": "f911d6334be6f14e61ee82ea54349e342e1992f979890b406907cc41c080bc10"
+    }
+  }
+}

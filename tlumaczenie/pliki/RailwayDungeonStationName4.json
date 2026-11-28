@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=4].nameList[id=0].content": {
+      "pl": "Przed wejściem na Linię 4",
+      "kr_sha256": "65fd48d2b7ac994903e789cbc6c66421399f05371cffb37e5888c8eb18cd9e81",
+      "en_sha256": "70c92615c48b9859744ea2ae9698a8d52463e5c607f88352ec67ae6e6df945b3",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=1].content": {
+      "pl": "Odcinek 1: Bankiet–Dno Studni–Wypaczenie",
+      "kr_sha256": "fc75cce12c700a866874d52803a146f1d8df244fac2ffb538ed91003bd0dbead",
+      "en_sha256": "eaeef31421920cdc458cde49a4262cfea466aeb0870313bf12bef66d97907978",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=1].shortName": {
+      "pl": "Odcinek 1",
+      "kr_sha256": "76921d8b60021daddf862269bbe886feba13c581ef8b296bc335b7028cf1adf7",
+      "en_sha256": "eaeef31421920cdc458cde49a4262cfea466aeb0870313bf12bef66d97907978",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=2].content": {
+      "pl": "Stacja 4: Antrakt",
+      "kr_sha256": "e7c61c7a7381594b17ec72f8be70938d4d41956370b6dbc065aeedeaa6dc4e1b",
+      "en_sha256": "43f2b99419a865258821b4b1a76bd0e0ee7da721d550f06221546c7be8c6f81c",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=2].shortName": {
+      "pl": "Stacja 4",
+      "kr_sha256": "eeea341ac4fb10205cb1f8e9c79b4d4db1b808e270fac6b923185fa218ad5f69",
+      "en_sha256": "eaa9c3de0a80c80d68aec4ff4a90f110da6a38671fcb6291578ddb69064d3114",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=3].content": {
+      "pl": "Odcinek 2: Dłutowanie–Mgławica–Ciało i Kość",
+      "kr_sha256": "2cb7cbfbbad858ff13064a3071426e708b82120f7c6999ff2401a55789334b2b",
+      "en_sha256": "5d8a4ed65b9b09b9af14d68468636d841e5c47b53b4c0fd630a8ccb39a58a875",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=3].shortName": {
+      "pl": "Odcinek 2",
+      "kr_sha256": "6329d035248898de9591e54941ed3b05136b1fe6b91178f53ba40f8d9e31e9ee",
+      "en_sha256": "5d8a4ed65b9b09b9af14d68468636d841e5c47b53b4c0fd630a8ccb39a58a875",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=4].content": {
+      "pl": "Stacja 8: Antrakt",
+      "kr_sha256": "daaf178072104b18a06fb81869937d9a984737eb84a598928694166772125cff",
+      "en_sha256": "6b78c2c35d1f9846fe73b2ecd7a8b09c6e966b716a14fc785825a7f30bcd8ce6",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=4].shortName": {
+      "pl": "Stacja 8",
+      "kr_sha256": "4e5d32ecc6057b50051cc75fd7186d44bbd0db777e1f0de2a4faf75b509458a9",
+      "en_sha256": "68cdb784844205ce720182ee9ea1cf814d41c2bc6ec0ab853015d72f30b08739",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=5].content": {
+      "pl": "Odcinek 3: Falsyfikat–Marzenie",
+      "kr_sha256": "9dc79b135dac3bbaf1c10002e54d8bf80e27fa746dd11655bb924fb8421344e4",
+      "en_sha256": "3ba51973c43a235ef886351b808991045c95a651bb6c318bf871be78e4c848f2",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=5].shortName": {
+      "pl": "Odcinek 3",
+      "kr_sha256": "708f3d82bb6aa12bbc7e8700729070b4fc27d70c434d95fc2ce16f3626c30219",
+      "en_sha256": "3ba51973c43a235ef886351b808991045c95a651bb6c318bf871be78e4c848f2",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=6].content": {
+      "pl": "Stacja 11: Antrakt",
+      "kr_sha256": "5f9ea8ab7527dc631899e47ed11ca0a23c663f06123a348c6d5db3d04089464d",
+      "en_sha256": "d770171107b0f7f9432eba43aa0a54cab0327eea58d141f5c2dac2eee0972103",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=6].shortName": {
+      "pl": "Stacja 11",
+      "kr_sha256": "ae22aabc87e5328b34a45279f69c20459a5cd94f81fadb71e04e57d2636844de",
+      "en_sha256": "8eaab1a9cc14089d28b1383c37947aa25beb4d29eb93eaf96f6f4f2c168ad7b0",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=7].content": {
+      "pl": "Odcinek 4: Zapora–Uczta",
+      "kr_sha256": "0d45ca2a41bd10b2126ec1babb454e1876665ec4bf95180cb6293864e4e58d57",
+      "en_sha256": "f0b004637f2b6af3a877c1b1e6d2ce886c07967568b35bd600fd6dfefdfdb6bf",
+      "origin": "ai"
+    },
+    "dataList[id=4].nameList[id=7].shortName": {
+      "pl": "Odcinek 4",
+      "kr_sha256": "602cc82784c49592bcd13a8249a0784dea95cd4b3639e12ce3a4890f05c38010",
+      "en_sha256": "f0b004637f2b6af3a877c1b1e6d2ce886c07967568b35bd600fd6dfefdfdb6bf",
+      "origin": "ai"
+    }
+  }
+}

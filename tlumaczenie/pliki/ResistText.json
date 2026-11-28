@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=resist_endure].content": {
+      "pl": "Odporna",
+      "kr_sha256": "4987636ace5b9f2889a1744d739f8ff8187fc2cd9530e96a18c9d037b858c40f",
+      "en_sha256": "9ae9cca0759f9cbb2581147878ab3b98e689f73716cb575c5b78800668040a52",
+      "origin": "ai"
+    },
+    "dataList[id=resist_immune].content": {
+      "pl": "Niewrażl.",
+      "kr_sha256": "e9daabd0f25141319061ff3ba522b40ceff8eb0e639ffac520f7ad1355fe8979",
+      "en_sha256": "384f60847292748d4a337443bad74b5991ae31fd40dedd7d3231c6e4a067b5ad",
+      "origin": "ai"
+    },
+    "dataList[id=resist_normal].content": {
+      "pl": "Zwykła",
+      "kr_sha256": "666599febd987f532ea6ab000ee16ee7d5838beed690d2f9b174aab30ce78307",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=resist_resist].content": {
+      "pl": "Nieskut.",
+      "kr_sha256": "057f3a1bc25d7eb4e668286d5fa5ce509e64109a9d030f5433876c6ec7987d44",
+      "en_sha256": "90a5f201f7a23d2d4e36978c4f0cacbe45d17aa94e7a6b91554b72c7810d8c13",
+      "origin": "ai"
+    },
+    "dataList[id=resist_vulnerable].content": {
+      "pl": "Słaba",
+      "kr_sha256": "86d59d4379555dc0ea339b595aadb0082809e807706406142a1a63a8f21ac2e8",
+      "en_sha256": "8d6cea2517ff74f7ea6625ef037926d8599796f71989db85cb282984f3a5e785",
+      "origin": "ai"
+    },
+    "dataList[id=resist_weak].content": {
+      "pl": "Zabójcza",
+      "kr_sha256": "d640d2980d78a33fe57407d43ed21cf6a3991144b8429a91460292ba4047be1c",
+      "en_sha256": "d04f4ecc104de17cf8bc8fe9b79721470eb5caf49bc54cb56b4c9edb66582fdc",
+      "origin": "ai"
+    }
+  }
+}

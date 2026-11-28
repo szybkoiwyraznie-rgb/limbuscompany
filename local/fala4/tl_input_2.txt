@@ -1,0 +1,96 @@
+100||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 재단선을 따라.|Let us sew along...
+101||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 꿰매어라.|the lines of the selvage edge.
+102||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 열망으로 가득한 그 눈,|My scissors will snip around...
+103||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 오려내줄게..|... your burning eyes of desire.
+104||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 라상블(Rassemble).|Rassemble.
+105||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 쉬르필 아 라 셴(surfiler à la chaîne)!|Surfile à la chaîne!
+106||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 나는 묵묵히 천을 깁고, 정갈하게 잘라낼 거야.|This is simply where clothes are altered and trimmed.
+107||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 무언가를 자르고 싶어. 그게 무엇이라도.|It can be anything. I'd just like to go snip-snip...
+108||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 피크(Pique).|Pique.
+109||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 르프랑(Reprends)!|Reprends!
+110||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 쿠레, 퓌조(courez, fuseaux)!|Courez, fuseaux!
+111||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 모두 꿰뚫어줄게.|and I'll sew them all up.
+112||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 르투슈(Retouche).|Retouche.
+113||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 생트르(Cintre). 피크(Pique)!|Cintre. Pique!
+114||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 꿰매어라!|the lines of the selvage edge!
+115||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 라상블(Rassemble). 쉬르필 아 라 맹(surfiler à la main)|Rassemble. Surfile à la main!
+116||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 열망으로 가득한 그 눈, 오려내줄게.|My scissors will snip around your burning eyes of desire.
+117||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p2.json] 윈 드 플뤼스(Une de plus)!|Une de plus!
+118||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 아코르드(accord).|Accord.
+119||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 피크(pique)!|Pique!
+120||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 쏟아져라.|Pour forth.
+121||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 섭취하라. 포식하라.|Consume. Feast.
+122||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 채우고, 또 채워라.|Fill yourselves. Fill again.
+123||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 부족한 채로 눕지 말라..|Rest you not while hunger gnaws still.
+124||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 끊임없이|On and on...
+125||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 나아갈지어다!|We advance!
+126||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 남김없이|Leave no scrap.
+127||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 모두!|Not a crumb!
+128||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 먹어치워라!|Devour it all!
+129||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 채워지지 않는 결핍.|A want that no feast can sate.
+130||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 공허함.|The hollowness.
+131||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 르루주를 충만케 하리라!|... and bring the Rouges to fullness!
+132||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 이 모든 기억까지 집어삼켜…|I shall devour even these memories...
+133||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 나의 존재… 본능… 허기. 여전히, 모르겠군.|My existence... nature... hunger... I still do not understand.
+134||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 나의 존재…|My existence...
+135||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 본능…|Nature...
+136||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 허기.|Hunger.
+137||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 여전히, 모르겠군.|Still I do not understand.
+138||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 너희가 준 청청한 색의 꽃신을 신고, 이 백화점을 오래도록 걸었지.|I remember. I walked the Grand Magasin in those pretty flower-shoes you gifted me.
+139||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 나는… 아프지 않기를 바랐던 것을, 다시 아프게 했고.|Again have I hurt... those who I wished would never know pain.
+140||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 나를 역겨워하던 자들을 망설임 없이 먹어치웠다.|And I devoured... those who called me an abomination.
+141||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 본능을 따라, 책임을 따라… 나는 미덕을 걸치고, 르루주의 목소리가 되었으니…|Let by my nature, bound by my duty... I donned virtue and ascended as the Voice of Le Rouge...
+142||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 이제 다시는… 너희와 함께 걸을 수 없겠군.|And so... I shall never be able to walk beside you again.
+143||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 본능의 독촉을 거부하지 말라.|Resist not nature's urging.
+144||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 모두가 기대하고, 바라왔던 목소리로서…나는, 이제 답을 주어야만 한다.|As the Voice that holds the desires and expectations of all, my role is... to answer.
+145||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 가시질 않는 의문들이 있다. 하지만… 누군가에게 질문을 던져선 안 돼.|I still have so many questions... But I am no longer permitted to ask them.
+146||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 마 퓌스. 삶을 운명으로 바꿀 시간이야.|Ma puce. It's time now to turn life into fate.
+147||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 멈춰. 너희의 시선으로, 나의… 우리의 세상을 못 박지 마.|Stop. Don't nail my world—<i>his</i> and mine—into place with your gaze.
+148||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 바라보지 마. 이해하지도 못하면서, 멋대로 떠올리지 말라고.|Stop gazing at me. You understand nothing about me. Stop deciding what I am in your head.
+149||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 이대로 영원히 표류한다면… 나는 영영 두렵지 않을 거야.|If I can drift like this forever... then I'll never have to be afraid again.
+150||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 온 세상을 나의 마음으로, 강렬한 색채로 물들여줄게.|I'll color the whole world... with my heart. With my fierce colors.
+151||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 사명도, 후회도, 책임도 전부!|Duty? Regret? Responsibility?
+152||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 놓아버리자.|Let it go. All of it.
+153||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 내 마음에 못 박힌 감정…|The emotions nailed into my heart...
+154||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 닿지 못했네.|You couldn't reach me.
+155||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 당신도 이해받고 싶잖아. 그런데 왜 본심을 자꾸 감추고, 그들에게 못 박히려는 건데?  마 퓌스. 오늘만큼은 당신을 정말로… 이해하지 못하겠어.|You want to be understood too, don't you? Why bury your heart and offer yourself up to their nails? Ma puce, I'm finding it so hard to understand you today.
+156||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 코테(côté)!|Côté!
+157||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 아상블레(assemblé)!|Assemblé!
+158||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 마르슈(Marche)!|Marche!
+159||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 두(Deux)!|Deux!
+160||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 트와(Trois)!|Trois!
+161||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 앙(Un)!|Un!
+162||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 받지 않겠다면, 주지도 말았어야지.|You should never have given if you were never going to accept.
+163||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 어때? 아름답지 않아?|How do you find it? Isn't it beautiful?
+164||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 이것 봐. 우리는 서로를 이해하고 있어|See? We understand each other.
+165||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 마 퓌스. 당신이 있어야만 내 세계도 완전해져.|Ma puce... my world can only be complete with you in it.
+166||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 이 템포가 아냐.|Not the right tempo.
+167||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 틀렸어. 그 발이 아니잖아!|Wrong foot. That's not the step!
+168||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 당신은… 첫걸음에 다가와, 두걸음에 머물러, 세걸음에 멀어졌지.|You came to me on the first step, stayed on the second, and drifted away on the third.
+169||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 그럼… 그 다음은? 다음엔 어디로 발을 뻗을 건데?|So... what comes next, then? Where will your foot fall now?
+170||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 모르겠다면… 그냥 내 곁으로 돌아와. 당신의 첫걸음처럼.|Are you lost...? Then just come back to me, like the first step of this dance.
+171||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 합리성을 따지기엔 늦었어. 무대는, 세상은 원래 공평하지 않거든.|It's too late to discuss rationality. The stage—the world—was never fair to begin with.
+172||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 시선에 둘러싸인 당신들이, 어디로 향할 수 있을런지.|You people are all hemmed in by gazes. Is there even a place left for you to step?
+173||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 타인은 지옥이야. 마주하고 싶지 않은, 끔찍한 지옥.|Hell is other people. A horrible, hideous hell I don't want to face.
+174||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 생각하지 마. 생각하지 말자는 생각조차 하지 마.|Just stop thinking. Stop thinking about not thinking, even.
+175||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 다시 춤출 시간이야. 내게 보이는 세계에서. 내가 만들어갈 의미 위에서.|Time to resume our dance. Dance in the world as I see it. Dance upon the meaning I will assign.
+176||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 리듬에 맞춰, 강하게, 다시 약하게.|Find the rhythm. Forte... and then piano.
+177||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 잊었을 리는 없고… 날 놀리는 거야?|You couldn't have forgotten... Is this you teasing me?
+178||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 너희는, 이 벽에 영영 닿지 못하겠지.|None of you will ever reach this wall.
+179||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 무엇 하나, 바라보는대로 존재하는 게 없네… 어지러워라.|Not a single thing exists as my gaze insists it is... It's so dizzying.
+180||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 나의 공포…|My fears.
+181||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 느껴봐. 낯설게 못 박힌 시선 속 몰이해를.|Feel it—the incomprehension of being nailed under an alienating gaze.
+182||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 나의 불안.|My anxiety.
+183||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 이해하지 못하기에… 잔느, 너는 나를 이해하려 노력할 것이다. 그러니 나 또한…|You cannot understand me, Jeanne... that is why you keep trying. And I will, too...
+184||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 영원의 시대가 도래했으니… 죄인은 고통받을지어다…|The Age of Eternity hath arrived. Suffer shall the transgressor.
+185||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 무거운 형벌을.|Vengeance upon thee.
+186||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 두려워하라.|Thou shalt fear.
+187||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 단죄…!|Condemned be thou!
+188||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 죄를 직시하고, 징벌을 받으라.|Face thy sins. Receive thy punishment.
+189||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 순종하라.|Obey.
+190||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 죄인은 기억하라… 참회하지 않는 자… 흙으로 돌아가리라…|Let the transgressor bear in mind.\nThose who do not repent...\nShall return to dust.
+191||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 죄를 기억하라!|Remember thy transgression!
+192||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 회심하라!|Repent!
+193||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 이는 심판의 증거.|Behold, the proof of judgment.
+194||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 세계가 닫혔으니… 믿음 없는 저항과 도피에 어떤 안식도 없으리라…|The world hath been closed...\nNo rest shall await those who resist without faith and flee from that which is theirs to bear...
+195||SpeechBubbles#BattleSpeechBubbleDlg-a1c10p3.json] 하루는 천년과 같고… 천년은 하루와 같으니… 죄인은 영원을 헤아리며 죄를 뉘우치라…|A day is as a thousand years... and a thousand years as a day. O transgressor, reckon thou eternity, and repent thee of thy sins...

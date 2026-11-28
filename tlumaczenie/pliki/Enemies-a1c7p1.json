@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=8371].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8371].name": {
+      "pl": "Cinq West Section 3 Camille",
+      "kr_sha256": "7e1d77946d0700e52a80562889e9ba0730cfb52742cf3c6fc45ec164857358db",
+      "en_sha256": "241995fb772bf3c27ba3ec405380a61db9320f401a8da3863a692e65059bf28e",
+      "origin": "ai"
+    },
+    "dataList[id=8372].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8372].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=90152].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90152].name": {
+      "pl": "Well-dressed Bloodbag",
+      "kr_sha256": "2fce798af3e8310daf18bd5cdb2af552dca237716f4bdb582101325df01a4cc1",
+      "en_sha256": "47f82b3443d4cc36d0ee940f32be1eabd31cdefff0b51a984698f7a50ee41b3e",
+      "origin": "ai"
+    },
+    "dataList[id=90153].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90153].name": {
+      "pl": "Embellished Bloodbag",
+      "kr_sha256": "4632360f41485aa911f0845d92d7280c7ea292f16326e6dd952387e9ddcc1e2e",
+      "en_sha256": "35e9fed5ef3b6b5bec97e532dd8f00d98344cd90231dc59d46856ba061fd6c9c",
+      "origin": "ai"
+    },
+    "dataList[id=90154].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90154].name": {
+      "pl": "Insane Fashionista Bloodfiend",
+      "kr_sha256": "1cde7985bdcec159e610791804ab0cbb5f1b6d33376795e1770f204639271412",
+      "en_sha256": "aaaa80f11e6cc4410f31ffef854d97acd0e304d922290d4fc2b48069e2a5f92f",
+      "origin": "ai"
+    },
+    "dataList[id=90155].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90155].name": {
+      "pl": "Mad Fashionista Bloodfiend",
+      "kr_sha256": "85fa0804f32037399f977db9b99c434d425fee3ffd553f6724bf4befbe9a8141",
+      "en_sha256": "d0d13c37f60258a59f5b23e43930103627f65fce0dd7606f38726522aa911e64",
+      "origin": "ai"
+    },
+    "dataList[id=90156].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90156].name": {
+      "pl": "Combative Fanghunt Office Fixer",
+      "kr_sha256": "ddfd63cbb57259d5d48140383c90d7c32a21e1daa01a5b878fd72a9186ffcf5d",
+      "en_sha256": "1ab602ccfba8c34209897e1e8e58a9d6993a4e5569acee8d4b804b244013187b",
+      "origin": "ai"
+    },
+    "dataList[id=90157].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90157].name": {
+      "pl": "Prideful Fanghunt Office Fixer",
+      "kr_sha256": "41ae88eaec52dc4f66da1c8913367a8ad7d00470ff25d9e9cc4ffe1eef6f29f3",
+      "en_sha256": "957d79c2888ac408af1444a41af1eccf4298889679f5231f486c7d4925b4878b",
+      "origin": "ai"
+    },
+    "dataList[id=90160].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90160].name": {
+      "pl": "No-good Bandit",
+      "kr_sha256": "554886e155fca5b90159f6a7ad852dcc63fb2bec1497fd7343c9df5b56569650",
+      "en_sha256": "cfff0a5621d22e2990016dbab1cdb7954182b6d8f464cdebf52e7c49a14c8714",
+      "origin": "ai"
+    },
+    "dataList[id=90161].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90161].name": {
+      "pl": "Big, Scary Bear",
+      "kr_sha256": "21ad559bfd01ebd7bf89d8501caee5b04b0ca923067bd8fdfc316d68cc08efad",
+      "en_sha256": "367b95b520a08f12b97a1794ab61727de30ea4c54bdc605213bc3b24a480d3ff",
+      "origin": "ai"
+    }
+  }
+}

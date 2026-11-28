@@ -1,0 +1,422 @@
+{
+"3": {
+"pl": "Khgh",
+"src": "en",
+"seq": 3
+},
+"4": {
+"pl": "[WideAreaRampage]",
+"src": "en",
+"seq": 4
+},
+"5": {
+"pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+"src": "en",
+"seq": 5
+},
+"9": {
+"pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+"src": "en",
+"seq": 9
+},
+"11": {
+"pl": "Khk",
+"src": "en",
+"seq": 11
+},
+"12": {
+"pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+"src": "en",
+"seq": 12
+},
+"13": {
+"pl": "Apokalipsa Drobiu",
+"src": "en",
+"seq": 13
+},
+"14": {
+"pl": "[CantDuel]",
+"src": "en",
+"seq": 14
+},
+"18": {
+"pl": "Keghgh",
+"src": "en",
+"seq": 18
+},
+"20": {
+"pl": "[SuperCoin]",
+"src": "en",
+"seq": 20
+},
+"24": {
+"pl": "[OnSucceedAttackHead] Nakłada w następnej turze 1 Spętania",
+"src": "en",
+"seq": 24
+},
+"26": {
+"pl": "[OnSucceedAttack] nakłada 4 Osłabienia Monety Plus w następnej turze",
+"src": "en",
+"seq": 26
+},
+"28": {
+"pl": "[WinDuel] Moc Umiejętności +1",
+"src": "en",
+"seq": 28
+},
+"30": {
+"pl": "[OnSucceedAttack] nakłada 1 Wstrząsu w następnej turze",
+"src": "en",
+"seq": 30
+},
+"34": {
+"pl": "[OnSucceedAttack] zwiększa Licznik Wstrząsu o 1 w następnej turze",
+"src": "en",
+"seq": 34
+},
+"36": {
+"pl": "[OnSucceedAttackHead] nakłada 3 Wstrząsu w następnej turze",
+"src": "en",
+"seq": 36
+},
+"37": {
+"pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+"src": "en",
+"seq": 37
+},
+"39": {
+"pl": "[WhenUse] przywraca 10 HP",
+"src": "en",
+"seq": 39
+},
+"44": {
+"pl": "— nazwa] Marynata Tango",
+"src": "en",
+"seq": 44
+},
+"59": {
+"pl": "Core",
+"src": "en",
+"seq": 59
+},
+"66": {
+"pl": "Jun, Kapitan Klanu Kurokumo",
+"src": "en",
+"seq": 66
+},
+"76": {
+"pl": "Plunge In",
+"src": "en",
+"seq": 76
+},
+"79": {
+"pl": "[WinDuel] jeżeli cel ma [Combustion], Moc Bazowa +2",
+"src": "en",
+"seq": 79
+},
+"83": {
+"pl": "[OnSucceedAttack] nakłada 2 Licznika [Combustion]",
+"src": "en",
+"seq": 83
+},
+"84": {
+"pl": "[OnSucceedAttackHead] nakłada 1 [CrimsonTakeDamageUp] w następnej turze",
+"src": "en",
+"seq": 84
+},
+"85": {
+"pl": "[OnSucceedAttack] nakłada 8 [Combustion]",
+"src": "en",
+"seq": 85
+},
+"87": {
+"pl": "Kontra",
+"src": "en",
+"seq": 87
+},
+"91": {
+"pl": "[OnSucceedAttack] nakłada 2 [Sinking] i 2 Licznika [Sinking]",
+"src": "en",
+"seq": 91
+},
+"97": {
+"pl": "[WhenUse] jeżeli cel ma 5+ [Sinking], Moc Monety +1",
+"src": "en",
+"seq": 97
+},
+"98": {
+"pl": "[OnSucceedAttack] nakłada 8 [Sinking]",
+"src": "en",
+"seq": 98
+},
+"100": {
+"pl": "Unik",
+"src": "en",
+"seq": 100
+},
+"102": {
+"pl": "Dobycie Ostrza",
+"src": "en",
+"seq": 102
+},
+"103": {
+"pl": "[WhenUse] Zyskuje 2 Oddechu",
+"src": "en",
+"seq": 103
+},
+"104": {
+"pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+"src": "en",
+"seq": 104
+},
+"109": {
+"pl": "[OnSucceedAttack] zyskuje 1 [AttackDmgUp] w następnej turze",
+"src": "en",
+"seq": 109
+},
+"110": {
+"pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+"src": "en",
+"seq": 110
+},
+"111": {
+"pl": "[OnSucceedAttack] nakłada 1 [Paralysis] w następnej turze",
+"src": "en",
+"seq": 111
+},
+"114": {
+"pl": "Egzekucja",
+"src": "en",
+"seq": 114
+},
+"115": {
+"pl": "[WinDuel] Zwiększa własny Licznik [Breath] o 1",
+"src": "en",
+"seq": 115
+},
+"116": {
+"pl": "[OnSucceedAttack] zyskuje 1 [Breath] i zwiększa Licznik [Breath] o 1",
+"src": "en",
+"seq": 116
+},
+"118": {
+"pl": "[OnSucceedAttack] zyskuje 1 [SlashDamageUp] w następnej turze",
+"src": "en",
+"seq": 118
+},
+"119": {
+"pl": "[OnSucceedAttack] nakłada 2 [SlashResistDown] w następnej turze",
+"src": "en",
+"seq": 119
+},
+"120": {
+"pl": "Overthrow",
+"src": "en",
+"seq": 120
+},
+"122": {
+"pl": "[OnSucceedAttack] zyskuje 3 [Breath] i 1 Licznika [Breath]",
+"src": "en",
+"seq": 122
+},
+"123": {
+"pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 1",
+"src": "en",
+"seq": 123
+},
+"124": {
+"pl": "[OnSucceedAttack] zyskuje 2 [SlashDamageUp] w następnej turze",
+"src": "en",
+"seq": 124
+},
+"126": {
+"pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+"src": "en",
+"seq": 126
+},
+"127": {
+"pl": "[OnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+"src": "en",
+"seq": 127
+},
+"128": {
+"pl": "[OnSucceedAttackHead] nakłada 3 Licznika [Laceration]",
+"src": "en",
+"seq": 128
+},
+"129": {
+"pl": "Łamanie Kości",
+"src": "en",
+"seq": 129
+},
+"131": {
+"pl": "[OnSucceedAttack] nakłada 3 [SlashResistDown]",
+"src": "en",
+"seq": 131
+},
+"132": {
+"pl": "+100% obrażeń przy trafieniu krytycznym",
+"src": "en",
+"seq": 132
+},
+"133": {
+"pl": "[OnSucceedAttack] nakłada 10 [Laceration] i zwiększa Licznik [Laceration] o 2",
+"src": "en",
+"seq": 133
+},
+"137": {
+"pl": "Yield My Flesh",
+"src": "en",
+"seq": 137
+},
+"143": {
+"pl": "[OnSucceedAttack] nakłada 5 [Paralysis] w następnej turze",
+"src": "en",
+"seq": 143
+},
+"150": {
+"pl": "[OnSucceedAttack] zadaje stałe obrażenia równe wartości [Grudge].",
+"src": "en",
+"seq": 150
+},
+"151": {
+"pl": "Rozcięcie",
+"src": "en",
+"seq": 151
+},
+"152": {
+"pl": "[OnSucceedAttack] Nakłada 2 Krwawienia",
+"src": "en",
+"seq": 152
+},
+"154": {
+"pl": "Skupione Uderzenie",
+"src": "en",
+"seq": 154
+},
+"157": {
+"pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+"src": "en",
+"seq": 157
+},
+"165": {
+"pl": "Zamach",
+"src": "en",
+"seq": 165
+},
+"167": {
+"pl": "Slice",
+"src": "en",
+"seq": 167
+},
+"177": {
+"pl": "Cięcie w Dół",
+"src": "en",
+"seq": 177
+},
+"185": {
+"pl": "[OnSucceedAttack] nakłada 4 [Laceration]",
+"src": "en",
+"seq": 185
+},
+"187": {
+"pl": "Defend",
+"src": "en",
+"seq": 187
+},
+"193": {
+"pl": "— nazwa] Wyostrzony Cios",
+"src": "en",
+"seq": 193
+},
+"202": {
+"pl": "[StartBattle] zyskuje 2 [Protection]",
+"src": "en",
+"seq": 202
+},
+"203": {
+"pl": "Chmura Cienia",
+"src": "en",
+"seq": 203
+},
+"207": {
+"pl": "Posprzątanie",
+"src": "en",
+"seq": 207
+},
+"208": {
+"pl": "jeżeli cel ma 5+ [Laceration], Moc Monety +1",
+"src": "en",
+"seq": 208
+},
+"209": {
+"pl": "[OnSucceedAttack] nakłada 1 [SlashTakeDamageUp] w następnej turze",
+"src": "en",
+"seq": 209
+},
+"210": {
+"pl": "[OnSucceedAttackHead] Nakłada 1 [Laceration]",
+"src": "en",
+"seq": 210
+},
+"216": {
+"pl": "[OnSucceedAttack] nakłada 8 [Laceration]",
+"src": "en",
+"seq": 216
+},
+"218": {
+"pl": "Sharp Edge",
+"src": "en",
+"seq": 218
+},
+"221": {
+"pl": "Przecinak Rozpogadzający",
+"src": "en",
+"seq": 221
+},
+"223": {
+"pl": "[OnSucceedAttackHead] Nakłada 2 Krwawienia",
+"src": "en",
+"seq": 223
+},
+"224": {
+"pl": "[OnSucceedAttackHead] Nakłada 3 Krwawienia",
+"src": "en",
+"seq": 224
+},
+"225": {
+"pl": "jeżeli cel ma 7+ [Laceration], zadaje +50% obrażeń",
+"src": "en",
+"seq": 225
+},
+"226": {
+"pl": "[OnSucceedAttack] nakłada 10 Licznika [Laceration]",
+"src": "en",
+"seq": 226
+},
+"227": {
+"pl": "Rules of the Backstreets",
+"src": "en",
+"seq": 227
+},
+"230": {
+"pl": "[EnemyKill] wszyscy sojusznicy przywracają 20 SP",
+"src": "en",
+"seq": 230
+},
+"231": {
+"pl": "— nazwa] Odporność na Grzechy",
+"src": "en",
+"seq": 231
+},
+"235": {
+"pl": "Pochwa Przesiąknięta Urazą",
+"src": "en",
+"seq": 235
+},
+"239": {
+"pl": "Narastający Żal",
+"src": "en",
+"seq": 239
+}
+}

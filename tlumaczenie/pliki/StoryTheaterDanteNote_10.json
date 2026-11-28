@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=Fingers].content": {
+      "pl": "Palce",
+      "kr_sha256": "72b09f1f28b0fd5244a2e90dd8a63560d3ab17453ff29bcfcea21552325513cb",
+      "en_sha256": "e36c9ed4208ec3dfb71fd9dc7dbdaa5d2c7e7b23007ef1ef42b9b7f69ac9055d",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou].content": {
+      "pl": "Watahy Heishou",
+      "kr_sha256": "960dc3897754f974d5c81d35197b4dc0c1ae20650c2b724d959175b163ba7561",
+      "en_sha256": "90de7f8d350fbe616e3a22dcffae9ec17b9a15f19b9d434893d468baf66c6126",
+      "origin": "ai"
+    },
+    "dataList[id=Line5].content": {
+      "pl": "Kolej Załamania — Linia 5",
+      "kr_sha256": "62395b517aa07164241e2400310b78dab7577572c333aab811a223468eb9446c",
+      "en_sha256": "402d7938b9e10049b4b294b8191f72ae7eb6666d627b5ba89fd8732d6d04da98",
+      "origin": "ai"
+    },
+    "dataList[id=NestH].content": {
+      "pl": "H Corp.",
+      "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
+      "origin": "ai"
+    },
+    "dataList[id=NightBackstreet].content": {
+      "pl": "Noc w Zaułkach",
+      "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
+      "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
+      "origin": "ai"
+    },
+    "dataList[id=Sweeper].content": {
+      "pl": "Zamiatacze",
+      "kr_sha256": "2ff304a7f11c5d83b518adb3356f2e983aff32b26171001a598843217170627d",
+      "en_sha256": "3bd96d8bd1ac7a12be7e513ff30b07f8f2b71888b45accb3d318be74327bfa9c",
+      "origin": "ai"
+    },
+    "dataList[id=TheMiddle].content": {
+      "pl": "Środkowy",
+      "kr_sha256": "92cdef3c5bc09f842a88991dc306d5fdcc015dcbadb3b675c19f7a3f7f6ccee5",
+      "en_sha256": "f26dd6afe3cfc0d5692438a915403e3cfad32a4c8405bc337611716949fa3281",
+      "origin": "ai"
+    },
+    "dataList[id=TheRings].content": {
+      "pl": "Serdeczny",
+      "kr_sha256": "d6048d1f5f3d6431def3ac8e4297de287e81e3d57350b827b211c40b11c5abe5",
+      "en_sha256": "72cea89b509605b879a2f3d80837c59616467314fdfb113dcecb962e8d4f2ce2",
+      "origin": "ai"
+    }
+  }
+}

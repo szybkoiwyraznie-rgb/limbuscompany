@@ -1,17 +1,17 @@
 {
  "format": "lcb-index-v1",
  "localize": {
-  "zrodlo": "lustro LimbusTraditionalMandarin/story-data, commit f218bbec3c1df855c5786bb7c2b2479cf3ce3354 (2026-11-19); build Steam nieznany",
+  "zrodlo": "zbieracz LCB_DANE_20261126_094359_ef145d.zip (build Steam 26917622, SHA-256 28f53cdbd6bd8b144ff48a5dd84ecd76bbcea5e90bdbf44db24069f005badfa8)",
   "jezyki": {
    "kr": {
-    "pliki": 2449,
-    "bajty": 24594177,
-    "sha256": "7762f110716d84a3bfc861523967755104346687ed3c36f01feb1cc5fe5c77bb"
+    "pliki": 2464,
+    "bajty": 24886012,
+    "sha256": "54c9f37d1477f584fe95f3b85eb5ee6c9d4d5defe46a090d9ccbf9b2c7fae6e2"
    },
    "en": {
-    "pliki": 2406,
-    "bajty": 25492917,
-    "sha256": "1958134f0455644ab1f5f6f761fe921649cb38042777c1fa86884c7a835e91ea"
+    "pliki": 2421,
+    "bajty": 25781011,
+    "sha256": "d10485fb3a8e49cbc48f8f2b12de9bf527097997f8df18ef5cf5d2b53aee9c10"
    }
   }
  },
@@ -77,6 +77,21 @@
     "pliki": 78,
     "bajty": 239259,
     "sha256": "7b81d0a3bd290110c132bdd439d2cd2cd66ebb9f48bf0808d18ea01ea6c52ad6"
+   },
+   "enemy": {
+    "pliki": 42,
+    "bajty": 2538047,
+    "sha256": "53d292a5c30c129090a3ddd09f1c5e59ed072ebe9cedfc8af08683a9ba870063"
+   },
+   "abnormality-unit": {
+    "pliki": 68,
+    "bajty": 6806555,
+    "sha256": "be1ccab3fbf11486ce19318bb000b6ad9a64a8445e177f8976767c345a057ccf"
+   },
+   "abnormality-part": {
+    "pliki": 67,
+    "bajty": 2571845,
+    "sha256": "8038707e9c298beb1f245a213ae2be35c72c8fe2f587d2e460dcc2bc095c64ae"
    }
   }
  }
