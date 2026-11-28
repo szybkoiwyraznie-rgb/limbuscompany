@@ -786,3 +786,15 @@ prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
   6 jednostek (bestie Prologu 99001–99003 Lion/Wolf/Panther — tytuł etapu
   „Pantera, Lew i Wilk” to potwierdza — i 3 podobne). Instrukcja obsługi
   pliku w jego nagłówku („Jak czytać ten plik”). Testy 76/76.
+
+- **Druga poprawka tej samej sesji (preferencja właściciela: „dla każdego
+  etapu lista przeciwników ze statystykami”, podział jak Fabuła):** seria
+  deploymentów przebudowana na **`czytanki/deployment_PL/`** — 31 plików +
+  spis (`00_spis_DEPLOYMENT_PL.md`), po jednym na część fabuły (Prolog →
+  Canto I–X → Intervallo → Noce Walpurgii → inne → zestaw wspólny); każdy
+  etap = fale + **pełne karty przeciwników inline** (celowa duplikacja).
+  Grupy plików wg kolejności fabuły jak `fabula_PL`; tytuły rozdziałów z
+  spisu fabuły; mapowanie fam→rozdział zweryfikowane tytułami StageNode
+  (tkt/mowe/ycgd/twth/exme/91-14+91-24). `plik_META_PL` zredukowany do
+  6 plików (spis zawiera tabelę serii deploymentów). Rozmiar serii:
+  ~5,4 MB (największy plik ~0,7 MB). Testy 76/76.

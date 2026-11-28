@@ -218,7 +218,7 @@ wynika z numeracji plików, nie z przejścia gry; Czytanka mówi to wprost.
 
 ## „Plik META” — elementy spoza trzech głównych grup (E-020)
 
-Czwarta seria (`tools/build_meta.py` → `czytanki/plik_META_PL`, 7 plików)
+Czwarta seria (`tools/build_meta.py` → `czytanki/plik_META_PL`, 6 plików)
 zbiera teksty spoza fabuły, kart Tożsamości i kart E.G.O:
 
 * `01_teksty_z_misji_PL` — teksty tutoriali bojowych pogrupowane po etapach
@@ -237,20 +237,41 @@ zbiera teksty spoza fabuły, kart Tożsamości i kart E.G.O:
 * `05_piosenki_PL` — słowa piosenek z tabel `BgmLyrics` (piosenka Prologu
   `BgmLyrics_Pv`, motywy bossów, utwory z napisów końcowych); tytuły =
   identyfikatory plików gry, wiersze w kolejności tabeli;
-* `06_deployment_PL` — deploymenty misji (wzór SRW `srwy_mission_deployments.md`,
-  generator `tools/build_deployments.py`), dwie sekcje: **(1) Etapy i ich
-  przeciwnicy** — 482 etapy w kolejności gry (Prolog → Canto I–X → Intervalla
-  i wydarzenia) z dokładnymi falami przeciwników (`battle-story`, uzupełniająco
-  `battle-ab`); **(2) Szczegóły przeciwników** — per część etapów pula wrogów
-  (tabele StaticData `enemy` i `abnormality-unit`, poza proceduralnymi
-  Lustrzanymi Lochami), statystyki (poziom, HP, szybkość, sloty, progi
-  oszołomienia, odporności), opisy, umiejętności z mocami monet i pasywki,
-  anatomia Anomalii (części). Nazwy jednostek mapowane przez pole `nameID`
-  (787 jednostek); „jednostka NNNNN" = celowo nienazwane w danych.
-
 Poza zakresem: `TutorialMainUIText` (przechadzki po interfejsie),
 `TutorialMirrorDungeon`, starsze zestawy `TutorialDesc*` (poprzednia wersja
 tutoriali).
+
+## „Deploymenty” — przeciwnicy etapów (E-021)
+
+Piąta seria (`tools/build_deployments.py` → `czytanki/deployment_PL`,
+31 plików + spis; wzór SRW `srwy_mission_deployments.md`) — dla **każdego
+etapu** lista fal przeciwników i pełne karty tych jednostek (dane celowo się
+powtarzają między etapami):
+
+* pliki grupują etapy według kolejności fabuły, jak seria `fabula_PL`
+  (Prolog → Canto I–X → Intervallo → Noce Walpurgii → inne wydarzenia →
+  zestaw wspólny); tytuły części zgodne ze spisem `fabula_PL`;
+* fale: `battle-story` (walka fabularna; 457 stage'ów z `waveList`, w tym
+  `stage_Tutorial` = Prolog), uzupełniająco `battle-ab` (walki z Anomaliami;
+  walka fabularna wygrywa kolizje);
+* karty: statystyki (poziom, HP z przyrostem, szybkość, sloty akcji, progi
+  oszołomienia, odporności), opis, umiejętności (grzech/typ/moc bazowa/moc
+  monety/monety/cele per poziom), pasywki; Anomalie z częściami (per część
+  HP/odporności/opis/umiejętności);
+* pule jednostek: tabele StaticData `enemy` i `abnormality-unit` poza
+  proceduralnymi Lustrzanymi Lochami (`mirrordungeon*`, `schema-craft`,
+  `shadowenemy`); jednostki nieoczekujące w żadnym etapie lądują w puli na
+  końcu pliku swojej części; nieużywane jednostki `enemy.json` → plik
+  `31_zestaw_wspolny_PL`;
+* nazwy jednostek mapowane przez pole `nameID` (787 wrogów/anomalii +
+  321 wierszy enemy); „jednostka NNNNN” = celowo nienazwane w danych
+  (np. bestie Prologu 0-1: Panther/Lion/Wolf);
+* mapowanie części na etapy z plików `StageNode*` (`StageNode1-N` = Canto N,
+  `StageNode1-0` = Prolog, `StageNode91-N` = id 91NNxx); etykiety
+  walpurgijskich/wydarzeniowych części zweryfikowane tytułami StageNode
+  i spisem fabuły (tkt = Czas zabijania czasu, mowe = Warp Express,
+  ycgd = Poświęcić ciało, twth = Splatanie nici, exme = Pamięć
+  doświadczeń, 91-14/91-24 = Okresowe badania LCB).
 
 ## Odtworzenie
 
@@ -281,7 +302,7 @@ python tools/build_lang.py --unpack-to local/lang_pl_v3
 python tools/build_reading.py  local/cz_snapshot --lang pl   # → czytanki/fabula_PL/
 python tools/build_profiles.py index/static-data local/cz_snapshot --lang pl  # → czytanki/plik_ID_PL/
 python tools/build_ego.py      index/static-data local/cz_snapshot --lang pl  # → czytanki/plik_EGO_PL/
-python tools/build_meta.py     local/cz_snapshot --lang pl   # → czytanki/plik_META_PL/
+python tools/build_meta.py     local/cz_snapshot --lang pl   # → czytanki/plik_META_PL/ + deployment_PL/
 ```
 
 Snapshot (`local/cz_snapshot/`) i rozpakowana paczka

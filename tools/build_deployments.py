@@ -1,23 +1,16 @@
 #!/usr/bin/env python3
-"""Deploymenty misji (wzór SRW: ``srwy_mission_deployments.md``) — kto jest
-przeciwnikiem w każdej misji, jakie ma statystyki, opisy i zdolności.
+"""Deploymenty misji (wzór SRW: ``srwy_mission_deployments.md``) — seria plików
+``czytanki/deployment_<LANG>/``: dla **każdego etapu** lista fal przeciwników
+oraz pełne karty tych przeciwników (statystyki, opis, umiejętności z mocami
+monet, pasywki; Anomalie z częściami). Dane celowo się powtarzają między
+etapami — czytanie bez przeszukiwania plików.
 
-Jeden plik ``czytanki/plik_META_<LANG>/06_deployment_<LANG>.md`` o układzie:
-
-1. **Etapy i ich przeciwnicy** — per część etapów (rodziny z tabel
-   ``battle-story``/``battle-ab`` i tabel wrogów) lista etapów (``StageNode``:
-   ``Etap X-Y · tytuł``) z dokładnymi falami przeciwników (``waveList``:
-   battle-story = walka fabularna, battle-ab = walki z Anomaliami);
-2. **Szczegóły przeciwników** — per część pula wrogów (``enemy``/``abnormality-unit``)
-   z tabelami statystyk (poziom, HP, szybkość, sloty akcji, progi oszołomienia,
-   odporności), opisem, umiejętnościami (grzech/typ/moc/monety/cele) i pasywkami;
-   Anomalie łączą jednostkę z częściami (per część HP/odporności).
-
-Liczby pochodzą z ``index/static-data`` (``enemy``, ``abnormality-unit``,
-``abnormality-part``, ``skill``, ``battle-story``, ``battle-ab``), nazwy i opisy
-z ``Localize`` (``Enemies*``, ``Skills_Enemy*``/``Skills_Abnormality*``,
-``Passives_*``). Wersja PL korzysta z pakietu ``Lang/Polski`` (fallback EN
-wbudowany per wpis).
+Pliki grupują etapy według kolejności fabuły (Prolog → Canto I–X → Intervallo
+→ Noce Walpurgii → pozostałe wydarzenia), jak seria ``fabula_<LANG>``. Pule
+jednostek części etapów pochodzą z tabel ``enemy``/``abnormality-unit`` (poza
+proceduralnymi Lustrzanymi Lochami); fale z tabel ``battle-story`` (walka
+fabularna) i uzupełniająco ``battle-ab`` (walki z Anomaliami). Nazwy i opisy z
+``Localize`` (mapowanie przez pole ``nameID``); wersja PL z fallbackiem EN.
 """
 from __future__ import annotations
 
@@ -28,9 +21,10 @@ from pathlib import Path, PurePosixPath
 if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from tools.build_profiles import DEFENSE, coin_text, merged_levels, number, signed
+from tools.build_profiles import DEFENSE, coin_text, merged_levels, number
 from tools.lcb_text import Texts, one_line, stage_label, to_markdown
 from tools.localize import Snapshot
+from tools.md_table_align import align_markdown_tables
 from tools.static_data import StaticData, load_lenient
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,6 +34,70 @@ GAME = "Limbus Company"
 EXCLUDED = ("mirrordungeon", "schema-craft", "shadowenemy")
 
 STORY_PART = re.compile(r"^a1c(\d+)p(\d+)$")
+NUM_PART = re.compile(r"^(\d+)-(\d+)$")
+ROMAN = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII",
+         8: "VIII", 9: "IX", 10: "X"}
+
+# Grupy plików serii (kolejność fabuły wg spisu Czytanki/fabula; tytuły z
+# fabula_PL/00_spis_PL.md i tytułów StageNode). ``fams`` = klucze rodzin fal
+# (StageNode* / storybattle* / abbattle*).
+GROUPS: list[tuple[str, str, tuple[str, ...]]] = [
+    ("01_prolog_PL.md", "Prolog", ("tutorialRenewal",)),
+    ("02_canto_i_PL.md", "Canto I: Nieprzynależny", ("1-1",)),
+    ("03_canto_ii_PL.md", "Canto II: Niekochająca", ("1-2",)),
+    ("04_canto_iii_PL.md", "Canto III: Unikający", ("1-3",)),
+    ("05_intervallo_i_hells_chicken_PL.md", "Intervallo I: Hell's Chicken", ("91-3",)),
+    ("06_canto_iv_PL.md", "Canto IV: Niezmienny", ("1-4",)),
+    ("07_intervallo_ii_morze_PL.md", "Intervallo II: M.O.R.Z.E.", ("91-4",)),
+    ("08_canto_v_PL.md", "Canto V: Uznana za zło",
+     ("a1c5p1", "a1c5p2", "a1c5p3")),
+    ("09_intervallo_iii_miracle_in_district_20_PL.md",
+     "Intervallo III: Cud w Dystrykcie 20", ("91-5",)),
+    ("10_walpurgis_2nd_night_PL.md", "2. Noc Walpurgii", ("91-6",)),
+    ("11_intervallo_iii_yield_my_flesh_PL.md",
+     "Intervallo III: Poświęcić ciało, by zmiażdżyć kości", ("91-7",)),
+    ("12_canto_vi_PL.md", "Canto VI: Rozdarty", ("a1c6p1", "a1c6p2", "a1c6p3")),
+    ("13_walpurgis_3rd_night_PL.md", "3. Noc Walpurgii", ("91-8", "wp3")),
+    ("14_intervallo_iv_timekilling_time_PL.md",
+     "Intervallo IV: Czas zabijania czasu", ("91-9", "tkt-re")),
+    ("15_intervallo_iv_murder_on_the_warp_express_PL.md",
+     "Intervallo IV: Morderstwo w Warp Expressie", ("91-10", "mowe", "mowe-re")),
+    ("16_walpurgis_4th_night_PL.md", "4. Noc Walpurgii", ("91-11", "wp4")),
+    ("17_canto_vii_PL.md", "Canto VII: Koniec Snu",
+     ("a1c7p1", "a1c7p2", "a1c7p3")),
+    ("18_walpurgis_5th_night_PL.md", "5. Noc Walpurgii", ("91-13", "wp5")),
+    ("19_intervallo_v_lcb_regular_check_up_PL.md",
+     "Intervallo V: Okresowe badania LCB", ("91-14", "91-24")),
+    ("20_intervallo_v_nocturnal_sweeping_PL.md",
+     "Intervallo V: Nocne zamiatanie", ("night-cleanup-re",)),
+    ("21_canto_viii_PL.md", "Canto VIII: Skazany na patrzenie",
+     ("a1c8p1", "a1c8p2", "a1c8p3")),
+    ("22_walpurgis_6th_night_PL.md", "6. Noc Walpurgii", ("91-17", "wp6")),
+    ("23_intervallo_vi_spring_cultivation_PL.md",
+     "Intervallo VI: Wiosenne szlify", ("91-19",)),
+    ("24_8_5_ex_pilgrimage_of_compassion_PL.md",
+     "8.5-EX: Pielgrzymka dobrej woli", ("91-20", "91-21")),
+    ("25_canto_ix_PL.md", "Canto IX: Nierozerwana",
+     ("a1c9p1", "a1c9p2", "a1c9p3")),
+    ("26_walpurgis_8th_night_PL.md", "8. Noc Walpurgii", ("91-23", "wp8")),
+    ("27_intervallo_vii_twining_threads_PL.md",
+     "Intervallo VII: Splatanie nici", ("91-25",)),
+    ("28_intervallo_vii_mnestic_experience_PL.md",
+     "Intervallo VII: Pamięć doświadczeń", ("91-27",)),
+    ("29_canto_x_PL.md", "Canto X: Obserwowany",
+     ("a1c10p1", "a1c10p2", "a1c10p3")),
+    ("30_walpurgis_10th_night_PL.md", "10. Noc Walpurgii", ("91-29", "wp10")),
+]
+MISC_SLUG = "31_inne_wydarzenia_PL.md"
+MISC_TITLE = "Inne wydarzenia i pozostałe części"
+COMMON_SLUG = "99_zestaw_wspolny_PL.md"
+COMMON_TITLE = "Zestaw wspólny (`enemy.json`) — jednostki bez przypisanego etapu"
+
+FAM_LABELS = {
+    "tutorialRenewal": "Prolog",
+    "common": "Zestaw wspólny (`enemy.json`)",
+    "91-16": "Wydarzenie: Nowy Rok (`91-16`)",
+}
 
 
 def _rows_file(static: StaticData, rel: str) -> list[dict]:
@@ -65,46 +123,19 @@ def _family_of(stem: str, prefix: str) -> str:
     return leaf or "common"
 
 
-FAM_LABELS = {
-    "tutorialRenewal": "Prolog (tutorial)",
-    "common": "Zestaw wspólny (`enemy.json`)",
-}
-
-
-NUM_PART = re.compile(r"^(\d+)-(\d+)$")
-
-
 def _fam_label(fam: str) -> str:
     if fam in FAM_LABELS:
         return FAM_LABELS[fam]
     match = STORY_PART.match(fam)
     if match:
-        return f"Canto {int(match.group(1))} · część {int(match.group(2))} (`{fam}`)"
-    match = NUM_PART.match(fam)
-    if match and 1 <= int(match.group(1)) <= 9:
-        return f"Canto {int(match.group(2))} (`{fam}`)"
+        canto = int(match.group(1))
+        return f"Canto {ROMAN.get(canto, canto)} · część {int(match.group(2))} (`{fam}`)"
     return f"Część `{fam}`"
 
 
-def _part_sort_key(fam: str) -> tuple:
-    """Kolejność gry: Prolog, Canto I–IX (część po części), potem reszta."""
-    if fam == "tutorialRenewal":
-        return (0, 0, 0, fam)
-    match = STORY_PART.match(fam)
-    if match:
-        return (1, int(match.group(1)), int(match.group(2)), fam)
-    match = NUM_PART.match(fam)
-    if match and 1 <= int(match.group(1)) <= 9:
-        return (1, int(match.group(2)), -0.5, fam)
-    if match and int(match.group(1)) == 91:
-        return (1, int(match.group(2)), 0.5, fam)
-    if fam == "common":
-        return (2, 0, 0, fam)
-    return (3, 0, 0, fam)
-
-
+# ----------------------------------------------------------------- dane wej.
 def _families(static: StaticData) -> dict[str, dict]:
-    """family → ``{"enemy": bool, "abnormality": bool}`` (poza wykluczonymi)."""
+    """family → flagi (``enemy``/``abnormality``), poza wykluczonymi."""
     out: dict[str, dict] = {}
     for path in static.files("enemy"):
         fam = _family_of(path.stem, "enemy")
@@ -116,29 +147,6 @@ def _families(static: StaticData) -> dict[str, dict]:
         if any(x in fam for x in EXCLUDED):
             continue
         out.setdefault(fam, {})["abnormality"] = True
-    return out
-
-
-def _all_waves(static: StaticData, stage_fam: dict[int, str]) -> dict[int, dict]:
-    """stage_id → ``{"waves": [...], "source": "battle-story|battle-ab", "fam": …}``.
-
-    Walka fabularna (``battle-story``) wygrywa z wpisem z ``battle-ab`` (osobne,
-    powtarzalne walki z Anomaliami — inne fale dla tej samej walki).
-    """
-    out: dict[int, dict] = {}
-    for folder, source in (("battle-story", "battle-story"), ("battle-ab", "battle-ab")):
-        for path in static.files(folder):
-            fam = _family_of(path.stem, "storybattle" if source == "battle-story" else "abbattle")
-            if source == "battle-story" and path.stem == "stage_Tutorial":
-                fam = "tutorialRenewal"
-            for row in _rows_file(static, f"{folder}/{path.name}"):
-                sid = row.get("id")
-                if not row.get("waveList") or sid is None:
-                    continue
-                rec = {"waves": row["waveList"], "source": source,
-                       "fam": stage_fam.get(int(sid), fam)}
-                if source == "battle-story" or sid not in out:
-                    out[int(sid)] = rec
     return out
 
 
@@ -172,6 +180,90 @@ def _stage_fam_map(texts: Texts) -> dict[int, str]:
     return out
 
 
+def _all_waves(static: StaticData, stage_fam: dict[int, str]) -> dict[int, dict]:
+    """stage_id → ``{"waves": [...], "fam": …}``; walka fabularna wygrywa."""
+    out: dict[int, dict] = {}
+    for folder, prefix in (("battle-story", "storybattle"), ("battle-ab", "abbattle")):
+        for path in static.files(folder):
+            fam = _family_of(path.stem, prefix)
+            if folder == "battle-story" and path.stem == "stage_Tutorial":
+                fam = "tutorialRenewal"
+            for row in _rows_file(static, f"{folder}/{path.name}"):
+                sid = row.get("id")
+                if not row.get("waveList") or sid is None:
+                    continue
+                rec = {"waves": row["waveList"], "fam": stage_fam.get(int(sid), fam)}
+                if folder == "battle-story" or int(sid) not in out:
+                    out[int(sid)] = rec
+    return out
+
+
+def _uid2static(static: StaticData) -> dict[int, tuple[str, dict]]:
+    """unit id → (rodzaj, wiersz statystyk) z tabel enemy/abnormality-unit/part."""
+    out: dict[int, tuple[str, dict]] = {}
+    for folder, kind in (("enemy", "wrogowie"), ("abnormality-unit", "anomalia"),
+                         ("abnormality-part", "część")):
+        for path in static.files(folder):
+            for row in _rows_file(static, f"{folder}/{path.name}"):
+                uid = row.get("id")
+                if uid is not None:
+                    out.setdefault(int(uid), (kind, row))
+    return out
+
+
+def _unit2nameid(static: StaticData) -> dict[int, int]:
+    """unit id → ``nameID`` (id wpisu lokalizacji z nazwą)."""
+    out: dict[int, int] = {}
+    for folder in ("enemy", "abnormality-unit", "abnormality-part"):
+        for path in static.files(folder):
+            for row in _rows_file(static, f"{folder}/{path.name}"):
+                nid = row.get("nameID")
+                uid = row.get("id")
+                if nid and uid:
+                    out[int(uid)] = int(nid)
+    return out
+
+
+# ----------------------------------------------------------------- lokalizacja
+def _loc_row(enemies_loc: dict[int, dict], unit2nameid: dict[int, int], uid: int) -> dict:
+    row = enemies_loc.get(uid, {})
+    nid = unit2nameid.get(uid)
+    if nid and not (row.get("name") or row.get("desc")):
+        row = enemies_loc.get(nid, row)
+    return row
+
+
+def _unit_name(enemies_loc: dict[int, dict], unit2nameid: dict[int, int], uid: int) -> str:
+    row = _loc_row(enemies_loc, unit2nameid, uid)
+    return one_line(to_markdown(row.get("name"))) or f"jednostka {uid}"
+
+
+def _enemy_text_maps(texts: Texts) -> tuple[dict[int, dict], dict[int, list], dict[int, dict]]:
+    """id → (name, desc) wrogów / id → levelList skilli / id → pasywki."""
+    enemies: dict[int, dict] = {}
+    for row in texts.family("Enemies"):
+        try:
+            enemies[int(row["id"])] = row
+        except (KeyError, TypeError, ValueError):
+            continue
+    skills: dict[int, list] = {}
+    for table in ("Skills_Enemy", "Skills_Abnormality"):
+        for row in texts.family(table):
+            try:
+                skills[int(row["id"])] = row.get("levelList", []) or []
+            except (KeyError, TypeError, ValueError):
+                continue
+    passives: dict[int, dict] = {}
+    for table in ("Passives_Enemy", "Passives_Abnormality"):
+        for row in texts.family(table):
+            try:
+                passives[int(row["id"])] = row
+            except (KeyError, TypeError, ValueError):
+                continue
+    return enemies, skills, passives
+
+
+# ----------------------------------------------------------------- renderery
 class Renderer:
     """Etykiety grzechów/ataków z Localize + renderery statystyk."""
 
@@ -207,7 +299,7 @@ class Renderer:
                 parts.append(f"{label} ×{number(value)}" + (f" ({note})" if note else ""))
         return "; ".join(parts) or "wszystkie ×1 (Normal)"
 
-    def stats_table(self, row: dict, part: bool = False) -> list[str]:
+    def stats_table(self, row: dict) -> list[str]:
         hp = row.get("hp", {}) or {}
         out = ["| Parametr | Wartość |", "|---|---|"]
         out.append(f"| Poziom | {number(row.get('level', '—'))} |")
@@ -231,32 +323,6 @@ class Renderer:
         return out
 
 
-def _unit2nameid(static: StaticData) -> dict[int, int]:
-    """unit id → ``nameID`` (id wpisu lokalizacji z nazwą; pola ``nameID`` tabel)."""
-    out: dict[int, int] = {}
-    for folder in ("enemy", "abnormality-unit"):
-        for path in static.files(folder):
-            for row in _rows_file(static, f"{folder}/{path.name}"):
-                nid = row.get("nameID")
-                uid = row.get("id")
-                if nid and uid:
-                    out[int(uid)] = int(nid)
-    return out
-
-
-def _loc_row(enemies_loc: dict[int, dict], unit2nameid: dict[int, int], uid: int) -> dict:
-    row = enemies_loc.get(uid, {})
-    nid = unit2nameid.get(uid)
-    if nid and not (row.get("name") or row.get("desc")):
-        row = enemies_loc.get(nid, row)
-    return row
-
-
-def _unit_name(enemies_loc: dict[int, dict], unit2nameid: dict[int, int], uid: int) -> str:
-    row = _loc_row(enemies_loc, unit2nameid, uid)
-    return one_line(to_markdown(row.get("name"))) or f"jednostka {uid}"
-
-
 def _wave_line(enemies_loc: dict[int, dict], unit2nameid: dict[int, int], wave: dict) -> str:
     units = []
     for bucket, tag in (("unitList", ""), ("subUnitList", " (wsparcie)")):
@@ -273,33 +339,9 @@ def _skill_static(static: StaticData) -> dict[int, dict]:
     return {row["id"]: row for row in static.rows("skill") if "id" in row}
 
 
-def _enemy_text_maps(texts: Texts) -> tuple[dict[int, dict], dict[int, list], dict[int, dict]]:
-    """Globalne mapy id → (name, desc) / id → levelList / id → (name, desc) pasywek."""
-    enemies: dict[int, dict] = {}
-    for row in texts.family("Enemies"):
-        try:
-            enemies[int(row["id"])] = row
-        except (KeyError, TypeError, ValueError):
-            continue
-    skills: dict[int, list] = {}
-    for table in ("Skills_Enemy", "Skills_Abnormality"):
-        for row in texts.family(table):
-            try:
-                skills[int(row["id"])] = row.get("levelList", []) or []
-            except (KeyError, TypeError, ValueError):
-                continue
-    passives: dict[int, dict] = {}
-    for table in ("Passives_Enemy", "Passives_Abnormality"):
-        for row in texts.family(table):
-            try:
-                passives[int(row["id"])] = row
-            except (KeyError, TypeError, ValueError):
-                continue
-    return enemies, skills, passives
-
-
 def _render_skills(out: list[str], renderer: Renderer, ids_numbers: list[dict],
-                   skills_loc: dict[int, list], skills_static: dict[int, dict]) -> None:
+                   skills_loc: dict[int, list], skills_static: dict[int, dict],
+                   heading: str = "#####") -> None:
     shown = 0
     for entry in ids_numbers:
         sid = entry.get("skillId")
@@ -309,7 +351,7 @@ def _render_skills(out: list[str], renderer: Renderer, ids_numbers: list[dict],
         levels = skills_loc.get(int(sid), []) or []
         name = one_line(to_markdown(levels[-1].get("name"))) if levels else f"umiejętność {sid}"
         count_note = f" (×{number_of})" if number_of and number_of != 1 else ""
-        out += [f"#### Umiejętność: {name}{count_note} — id {sid}", ""]
+        out += [f"{heading} Umiejętność: {name}{count_note} — id {sid}", ""]
         data = skills_static.get(int(sid), {})
         entries = data.get("skillData", []) or []
         rows = merged_levels(entries, "gaksungLevel") if any("gaksungLevel" in e for e in entries) else \
@@ -329,7 +371,7 @@ def _render_skills(out: list[str], renderer: Renderer, ids_numbers: list[dict],
             out.append("")
         shown += 1
     if not shown:
-        out += ["*Brak danych o umiejętnościach.*", ""]
+        out += [f"{heading} Umiejętności", "", "*Brak danych o umiejętnościach.*", ""]
 
 
 def _render_passives(out: list[str], renderer: Renderer, passive_ids: list,
@@ -348,180 +390,235 @@ def _render_passives(out: list[str], renderer: Renderer, passive_ids: list,
         out.append("")
 
 
-def _count_untranslated(texts: Texts, lang: str, enemies: dict[int, dict]) -> int:
-    if lang != "pl":
-        return 0
-    with Snapshot.open(ROOT / "index" / "localize") as snap:
-        en = Texts(snap, "en")
-        en_rows = {}
-        for row in en.family("Enemies"):
-            try:
-                en_rows[int(row["id"])] = row
-            except (KeyError, TypeError, ValueError):
-                continue
-    miss = 0
-    for eid, row in enemies.items():
-        src = en_rows.get(eid, {})
-        if row.get("name") == src.get("name") and row.get("name"):
-            miss += 1
-        if (row.get("desc") or "") == (src.get("desc") or "") and row.get("desc"):
-            miss += 1
-    return miss
+class Context:
+    """Wspólne mapy dla całej serii."""
 
+    def __init__(self, texts: Texts, lang: str) -> None:
+        self.texts = texts
+        self.lang = lang
+        self.static = StaticData(ROOT / "index" / "static-data")
+        self.renderer = Renderer(texts, lang)
+        self.enemies_loc, self.skills_loc, self.passives_loc = _enemy_text_maps(texts)
+        self.skills_static = _skill_static(self.static)
+        self.unit2nameid = _unit2nameid(self.static)
+        self.uid2static = _uid2static(self.static)
+        self.stage_fam = _stage_fam_map(texts)
+        self.waves = _all_waves(self.static, self.stage_fam)
+        self.families = _families(self.static)
+        for rec in self.waves.values():
+            self.families.setdefault(rec["fam"], {}).setdefault("waves", True)
+        self.used_uids: set[int] = set()
+        for rec in self.waves.values():
+            for wave in rec["waves"]:
+                for bucket in ("unitList", "subUnitList"):
+                    for unit in wave.get(bucket) or []:
+                        uid = int(unit.get("unitID", 0) or 0)
+                        if uid:
+                            self.used_uids.add(uid)
+        self.unit2fam: dict[int, str] = {}
+        for fam, flags in self.families.items():
+            for rel, kind in self._fam_tables(fam):
+                for row in self._rows(rel):
+                    self.unit2fam.setdefault(int(row["id"]), fam)
 
-def build_deployments_file(texts: Texts, lang: str) -> tuple[str, int]:
-    static = StaticData(ROOT / "index" / "static-data")
-    renderer = Renderer(texts, lang)
-    families = _families(static)
-    skills_static = _skill_static(static)
-    enemies_loc, skills_loc, passives_loc = _enemy_text_maps(texts)
-    unit2nameid = _unit2nameid(static)
-    stage_fam = _stage_fam_map(texts)
-    waves = _all_waves(static, stage_fam)
-    fam_of_stage: dict[int, str] = {sid: rec["fam"] for sid, rec in waves.items()}
-    for fam, flags in families.items():
-        flags.setdefault("waves", False)
-    for rec in waves.values():
-        families.setdefault(rec["fam"], {})["waves"] = True
-    order = sorted(families, key=_part_sort_key)
+    def _fam_tables(self, fam: str) -> list[tuple[str, str]]:
+        if fam == "common":
+            return [("enemy/enemy.json", "enemy"), ("abnormality-unit/abnormality-unit.json", "unit")]
+        out = [(f"enemy/enemy-{fam}.json", "enemy"),
+               (f"abnormality-unit/abnormality-unit-{fam}.json", "unit")]
+        return out
 
-    total_units = 0
-    total_stages = 0
-    unnamed = 0
+    def _rows(self, rel: str) -> list[dict]:
+        return [r for r in _rows_file(self.static, rel) if r.get("id") is not None]
 
-    out = [
-        f"# {GAME} — Deploymenty misji (przeciwnicy)",
-        "",
-        "**Uwaga dla czytelnika:** liczby z tabel StaticData (wartości bazowe); teksty w wersji polskiej"
-        " — wpisy bez przekładu pozostają w oryginale (angielskim).",
-        "",
-        "**Jak czytać ten plik** — plik ma dwie duże sekcje:",
-        "",
-        "1. **Etapy i ich przeciwnicy** — każdy etap misji (kolejność gry: Prolog, Canto I–IX,"
-        " reszta) z dokładną listą przeciwników w kolejnych falach. **To tu szukasz"
-        " „kto jest przeciwnikiem w misji X-Y”** — np. przeciwnicy etapu 0-1 są"
-        " w podpunkcie „Etap 0-1” sekcji „Prolog (tutorial)”. Nazwę konkretnej"
-        " jednostki (liczba po przeciwniku to liczba sztuk; „poz.” = poziom;"
-        " „(wsparcie)” = jednostka towarzysząca) wyszukaj (Ctrl+F) w sekcji 2.",
-        "2. **Szczegóły przeciwników** — karta każdej jednostki: tabela statystyk"
-        " (poziom, HP z przyrostem za poziom, szybkość, sloty akcji, progi"
-        " oszołomienia, odporności), opis, umiejętności (tabela: poz. = poziom"
-        " umiejętności, moc bazowa i moc monety za każdą wyrzuconą reszkę/orła,"
-        " monety = liczba monet) i pasywki. Anomalie mają dodatkowo rozpisane"
-        " części (osobne HP i odporności per część).",
-        "",
-        "Fale etapów fabularnych pochodzą z tabel `battle-story`; tam, gdzie gra"
-        " przewiduje osobne walki z Anomaliami (tabele `battle-ab`), użyto ich jako"
-        " uzupełnienia dla etapów bez walki fabularnej. Pula wroga części etapów"
-        " (nazwa w nawiasie, np. `a1c5p1`) to identyfikator danych gry; dokładny"
-        " podział zwykłych etapów na fale nie zawsze jest w danych StaticData —"
-        " wtedy podany jest poziom i pula, nie kolejność tur.",
-        "Zapis **„jednostka NNNNN”** = jednostka celowo bez nazwy w danych"
-        " lokalizacji gry (np. bestie Prologu — Lion/Wolf/Panther); identyfikator"
-        " pozwala odnaleźć jej kartę w sekcji 2, o ile dane statystyk istnieją.",
-        "",
-        f"Wpisów bez przekładu (fallback EN): {_count_untranslated(texts, lang, enemies_loc)}.",
-        "",
-    ]
+    def name(self, uid: int) -> str:
+        return _unit_name(self.enemies_loc, self.unit2nameid, uid)
 
-    # ---------------------------------------------- 1. Etapy i ich przeciwnicy
-    out += ["## 1. Etapy i ich przeciwnicy", ""]
-    for fam in order:
-        if not families[fam].get("waves"):
-            continue
-        stage_rows = _stage_rows(texts, fam)
-        stage_ids = [int(r.get("id", 0) or 0) for r in stage_rows]
-        wave_ids = [sid for sid in stage_ids if sid in waves]
-        if not wave_ids:
-            wave_ids = sorted(sid for sid, rec in fam_of_stage.items() if rec == fam)
-        if not wave_ids:
-            continue
-        total_stages += len(wave_ids)
-        out += [f"### {_fam_label(fam)}", ""]
-        stage_by_id = {int(r.get("id", 0) or 0): r for r in stage_rows}
-        for sid in sorted(wave_ids):
-            row = stage_by_id.get(sid)
-            label = stage_label(sid)
-            heading = f"Etap {label or sid}"
-            if row:
-                title = one_line(to_markdown(row.get("title")))
-                if title:
-                    heading += f" · {title}"
-            out += [f"#### {heading}", ""]
-            for wi, wave in enumerate(waves[sid]["waves"], 1):
-                line = _wave_line(enemies_loc, unit2nameid, wave)
-                unnamed += line.count("jednostka ")
-                out += [f"- **Fala {wi}:** {line}"]
-            out.append("")
+    def card(self, out: list[str], uid: int, occ: dict, heading: str = "####") -> None:
+        """Karta jednostki: wystąpienia, statystyki, opis, umiejętności, pasywki."""
+        kind, row = self.uid2static.get(uid, ("", {}))
+        name = self.name(uid)
+        counts = occ["count"]
+        levels = sorted(occ["levels"])
+        tags = ""
+        if occ.get("support"):
+            tags += " · też jako wsparcie"
+        lvl_note = "poz. " + ", ".join(str(x) for x in levels) if levels else "poz. —"
+        out += [f"{heading} {name} — id {uid}", ""]
+        out += [f"*Wystąpienia: ×{counts} ({lvl_note}){tags}.*", ""]
+        if not row:
+            out += ["*Brak danych statystyk w StaticData.*", ""]
+            return
+        out += self.renderer.stats_table(row)
         out.append("")
+        desc = self.renderer.kw(_loc_row(self.enemies_loc, self.unit2nameid, uid).get("desc"))
+        if desc:
+            out += [f"*Opis:* {desc}", ""]
+        raw_parts = row.get("abnormalityPartList", []) or []
+        part_ids = [int(p if isinstance(p, (int, float)) else p.get("id", 0) or 0) for p in raw_parts]
+        if part_ids:
+            out += ["**Części (anatomia):**", ""]
+            for pid in part_ids:
+                _, prow = self.uid2static.get(pid, ("część", {}))
+                ploc = _loc_row(self.enemies_loc, self.unit2nameid, pid)
+                pname = one_line(to_markdown(ploc.get("name"))) or f"część id {pid}"
+                out += [f"{heading}# {pname} — id {pid}", ""]
+                if prow:
+                    out += self.renderer.stats_table(prow)
+                    out.append("")
+                pdesc = self.renderer.kw(ploc.get("desc"))
+                if pdesc:
+                    out += [f"*Opis:* {pdesc}", ""]
+        _render_skills(out, self.renderer, row.get("attributeList", []) or [],
+                       self.skills_loc, self.skills_static, heading=f"{heading}#")
+        _render_passives(out, self.renderer, (row.get("passiveSet", {}) or {}).get("passiveIdList"),
+                         self.passives_loc)
 
-    # ---------------------------------------------- 2. Szczegóły przeciwników
-    out += ["## 2. Szczegóły przeciwników", ""]
-    for fam in order:
-        enemy_rel = f"enemy/enemy-{fam}.json" if fam != "common" else "enemy/enemy.json"
-        enemy_rows = sorted(_rows_file(static, enemy_rel), key=lambda r: int(r.get("id", 0) or 0))
-        unit_rel = f"abnormality-unit/abnormality-unit-{fam}.json" if fam != "common" else \
-            "abnormality-unit/abnormality-unit.json"
-        part_rel = f"abnormality-part/abnormality-part-{fam}.json" if fam != "common" else \
-            "abnormality-part/abnormality-part.json"
-        unit_rows = sorted(_rows_file(static, unit_rel), key=lambda r: int(r.get("id", 0) or 0))
-        if not enemy_rows and not unit_rows:
+
+def _occurrences(ctx: Context, waves: list[dict]) -> dict[int, dict]:
+    """uid → {count, levels, support} w kolejności pierwszego wystąpienia."""
+    out: dict[int, dict] = {}
+
+    def add(uid: int, count: int, level, support: bool) -> None:
+        if uid <= 0:
+            return
+        rec = out.setdefault(uid, {"count": 0, "levels": set(), "support": False})
+        rec["count"] += count
+        if level is not None:
+            rec["levels"].add(int(level))
+        rec["support"] = rec["support"] or support
+
+    for wave in waves:
+        for unit in wave.get("unitList") or []:
+            add(int(unit.get("unitID", 0) or 0), int(unit.get("unitCount", 1) or 1),
+                unit.get("unitLevel"), False)
+        for unit in wave.get("subUnitList") or []:
+            add(int(unit.get("unitID", 0) or 0), int(unit.get("unitCount", 1) or 1),
+                unit.get("unitLevel"), True)
+    return out
+
+
+def _stage_block(ctx: Context, out: list[str], sid: int) -> None:
+    rec = ctx.waves[sid]
+    stage_row = next((r for r in _stage_rows(ctx.texts, rec["fam"])
+                      if int(r.get("id", 0) or 0) == sid), None)
+    label = stage_label(sid)
+    heading = f"### Etap {label or sid}"
+    if stage_row:
+        title = one_line(to_markdown(stage_row.get("title")))
+        if title:
+            heading += f" · {title}"
+    out += [heading, ""]
+    for wi, wave in enumerate(rec["waves"], 1):
+        line = _wave_line(ctx.enemies_loc, ctx.unit2nameid, wave)
+        out += [f"- **Fala {wi}:** {line}"]
+    out.append("")
+    for uid, occ in _occurrences(ctx, rec["waves"]).items():
+        ctx.card(out, uid, occ)
+
+
+def _fam_section(ctx: Context, out: list[str], fam: str) -> tuple[int, int]:
+    """Blok jednej rodziny: etapy + pula bez przypisania. → (etapy, karty)."""
+    stage_rows = _stage_rows(ctx.texts, fam)
+    stage_ids = [int(r.get("id", 0) or 0) for r in stage_rows]
+    wave_ids = [sid for sid in stage_ids if sid in ctx.waves]
+    wave_ids += sorted(sid for sid, rec in ctx.waves.items()
+                       if rec["fam"] == fam and sid not in wave_ids)
+    cards = 0
+    pool = [int(row["id"]) for rel, _ in ctx._fam_tables(fam)
+            for row in ctx._rows(rel) if int(row["id"]) not in ctx.used_uids]
+    if not wave_ids and not pool:
+        return 0, 0
+    out += [f"## Część: {_fam_label(fam)}", ""]
+    for sid in sorted(wave_ids):
+        _stage_block(ctx, out, sid)
+        cards += len(_occurrences(ctx, ctx.waves[sid]["waves"]))
+    # pula części: jednostki tej rodziny, które nie występują w żadnym etapie
+    if pool:
+        out += [f"## Pula {_fam_label(fam)} — jednostki bez przypisanego etapu", ""]
+        for uid in sorted(pool):
+            ctx.card(out, uid, {"count": 0, "levels": set(), "support": False})
+            cards += 1
+    return len(wave_ids), cards
+
+
+INTRO = ("Dla każdego etapu: fale przeciwników, a pod nimi pełne karty"
+         " (statystyki, opis, umiejętności z mocami monet, pasywki; Anomalie z"
+         " częściami). Dane celowo powtarzają się między etapami. „poz.” ="
+         " poziom jednostki w etapie; „(wsparcie)” = jednostka towarzysząca;"
+         " „×N” = liczba sztuk. Wartości bazowe z StaticData.")
+
+
+def _slug_numbered(n: int, slug: str) -> str:
+    """``01_prolog_PL.md`` z licznikiem porządkowym zamiast wbudowanego numeru."""
+    return f"{n:02d}_{slug.split('_', 1)[1]}"
+
+
+def build_deployments_series(texts: Texts, lang: str, out_dir: Path) -> list[dict]:
+    """Buduje serię deploymentów i zapisuje ją do ``out_dir`` (bez spisu)."""
+    ctx = Context(texts, lang)
+    grouped = {fam for _, _, fams in GROUPS for fam in fams}
+    misc_fams = [fam for fam, flags in ctx.families.items()
+                 if fam != "common" and fam not in grouped]
+    summary: list[dict] = []
+    ordinal = 0
+
+    def write_file(body_slug: str, title: str, out: list[str],
+                   stages: int, cards: int) -> None:
+        nonlocal ordinal
+        ordinal += 1
+        out_dir.mkdir(parents=True, exist_ok=True)
+        name = _slug_numbered(ordinal, body_slug)
+        (out_dir / name).write_text(
+            align_markdown_tables("\n".join(out).rstrip() + "\n"), encoding="utf-8")
+        summary.append({"name": name, "title": title, "stages": stages, "cards": cards})
+
+    for slug, title, fams in GROUPS:
+        out = [f"# {GAME} — {title} — deploymenty misji", "", INTRO, ""]
+        stages = cards = 0
+        any_content = False
+        for fam in fams:
+            if fam not in ctx.families and not any(
+                    rec["fam"] == fam for rec in ctx.waves.values()):
+                continue
+            s, c = _fam_section(ctx, out, fam)
+            stages += s
+            cards += c
+            any_content = any_content or bool(s or c)
+        if not any_content:
             continue
-        out += [f"### {_fam_label(fam)}", ""]
-        for row in enemy_rows:
-            eid = int(row.get("id", 0) or 0)
-            loc = _loc_row(enemies_loc, unit2nameid, eid)
-            name = one_line(to_markdown(loc.get("name"))) or f"wrogowie id {eid}"
-            out += [f"#### {name} — id {eid}", ""]
-            out += renderer.stats_table(row)
-            out.append("")
-            desc = renderer.kw(loc.get("desc"))
-            if desc:
-                out += [f"*Opis:* {desc}", ""]
-            _render_skills(out, renderer, row.get("attributeList", []) or [],
-                           skills_loc, skills_static)
-            _render_passives(out, renderer, (row.get("passiveSet", {}) or {}).get("passiveIdList"),
-                             passives_loc)
-            total_units += 1
-        if unit_rows:
-            parts_static = {int(r["id"]): r for r in _rows_file(static, part_rel) if "id" in r}
-            for row in unit_rows:
-                uid = int(row.get("id", 0) or 0)
-                loc = _loc_row(enemies_loc, unit2nameid, uid)
-                name = one_line(to_markdown(loc.get("name"))) or f"anomalia id {uid}"
-                klass = row.get("classType")
-                sin_label = renderer.sin(row.get("attributeType"))
-                meta = " · ".join(x for x in [f"klasa {klass}" if klass else "",
-                                              f"grzech {sin_label}" if sin_label else ""] if x)
-                out += [f"#### {name} — id {uid}" + (f" ({meta})" if meta else ""), ""]
-                out += renderer.stats_table(row)
-                out.append("")
-                desc = renderer.kw(loc.get("desc"))
-                if desc:
-                    out += [f"*Opis:* {desc}", ""]
-                raw_parts = row.get("abnormalityPartList", []) or []
-                part_ids = [int(p if isinstance(p, (int, float)) else p.get("id", 0) or 0) for p in raw_parts]
-                if part_ids:
-                    out += ["**Części (anatomia):**", ""]
-                    for pid in part_ids:
-                        prow = parts_static.get(pid, {})
-                        ploc = _loc_row(enemies_loc, unit2nameid, pid)
-                        pname = one_line(to_markdown(ploc.get("name"))) or f"część id {pid}"
-                        out += [f"##### {pname} — id {pid}", ""]
-                        if prow:
-                            out += renderer.stats_table(prow, part=True)
-                            out.append("")
-                        pdesc = renderer.kw(ploc.get("desc"))
-                        if pdesc:
-                            out += [f"*Opis:* {pdesc}", ""]
-                _render_skills(out, renderer, row.get("attributeList", []) or [],
-                               skills_loc, skills_static)
-                _render_passives(out, renderer, (row.get("passiveSet", {}) or {}).get("passiveIdList"),
-                                 passives_loc)
-                total_units += 1
+        write_file(slug, title, out, stages, cards)
+    if misc_fams:
+        out = [f"# {GAME} — {MISC_TITLE} — deploymenty misji", "", INTRO, ""]
+        stages = cards = 0
+        for fam in misc_fams:
+            s, c = _fam_section(ctx, out, fam)
+            stages += s
+            cards += c
+        write_file(MISC_SLUG, MISC_TITLE, out, stages, cards)
+    # zestaw wspólny: jednostki `enemy.json` bez przypisanego etapu
+    pool = [int(row["id"]) for row in ctx._rows("enemy/enemy.json")
+            if int(row["id"]) not in ctx.used_uids]
+    if pool:
+        out = [f"# {GAME} — {COMMON_TITLE}", "", INTRO, ""]
+        out += ["## Pula: zestaw wspólny (`enemy.json`)", ""]
+        for uid in sorted(pool):
+            ctx.card(out, uid, {"count": 0, "levels": set(), "support": False})
+        write_file(COMMON_SLUG, COMMON_TITLE, out, 0, len(pool))
+    return summary
 
-    print(f"stages z falami: {total_stages} | jednostek: {total_units} | bez nazwy: {unnamed}")
-    return "\n".join(out).rstrip() + "\n", total_units
+
+def build_deployments_index(summary: list[dict], lang: str) -> str:
+    suffix = lang.upper()
+    out = [f"# {GAME} — Deploymenty misji — spis serii", "",
+           "Dla każdego etapu: fale przeciwników i pełne karty jednostek"
+           " (statystyki, opis, umiejętności, pasywki). Kolejność jak seria"
+           " fabuły.", "",
+           f"| Plik | Część | Etapy | Karty jednostek |", "|---|---|---:|---:|"]
+    for rec in summary:
+        out.append(f"| `{rec['name']}` | {rec['title']} | {rec['stages']} | {rec['cards']} |")
+    out.append("")
+    return "\n".join(out) + "\n"
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -533,15 +630,16 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("snapshot", type=Path, nargs="?", default=ROOT / "local" / "cz_snapshot",
                         help="Localize snapshot: katalog z <lang>/ (default local/cz_snapshot)")
     parser.add_argument("--lang", default="pl")
-    parser.add_argument("--out", type=Path, help="default: czytanki/plik_META_<LANG>")
+    parser.add_argument("--out", type=Path, help="default: czytanki/deployment_<LANG>")
     args = parser.parse_args(argv)
-    args.out = args.out or ROOT / "czytanki" / f"plik_META_{args.lang.upper()}"
+    args.out = args.out or ROOT / "czytanki" / f"deployment_{args.lang.upper()}"
     args.out.mkdir(parents=True, exist_ok=True)
     suffix = args.lang.upper()
     with Snapshot.open(args.snapshot) as snapshot:
-        text, count = build_deployments_file(Texts(snapshot, args.lang), args.lang)
-        (args.out / f"06_deployment_{suffix}.md").write_text(align_markdown_tables(text), encoding="utf-8")
-    print(f"zapisano 06_deployment_{suffix}.md ({count} jednostek) do {args.out}")
+        summary = build_deployments_series(Texts(snapshot, args.lang), args.lang, args.out)
+        (args.out / f"00_spis_DEPLOYMENT_{suffix}.md").write_text(
+            align_markdown_tables(build_deployments_index(summary, args.lang)), encoding="utf-8")
+    print(f"zapisano {len(summary) + 1} plików do {args.out}")
     return 0
 
 

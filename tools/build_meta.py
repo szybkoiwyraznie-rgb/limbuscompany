@@ -439,27 +439,20 @@ def build_songs_file(texts: Texts, lang: str) -> tuple[str, int]:
     return "\n".join(out).rstrip() + "\n", total
 
 
-# ---------------------------------------------------------------- file 06
-
-
-def build_deployments_wrapper(texts: Texts, lang: str) -> tuple[str, int]:
-    from tools.build_deployments import build_deployments_file
-
-    return build_deployments_file(texts, lang)
-
-
 # ---------------------------------------------------------------- spis
 
 
-def build_index_file(files: dict[str, tuple[str, int]], lang: str) -> str:
+def build_index_file(files: dict[str, tuple[str, int]], lang: str,
+                     dep_summary: list[dict] | None = None) -> str:
     lbl = _t(texts=None, lang=lang)
     out = [
         f"# {GAME} — {lbl['spis']}",
         "",
         "Czwarta seria Czytanek: elementy spoza trzech głównych grup"
         " (fabuła / plik ID / plik E.G.O) — teksty tutoriali z misji, Notatki"
-        " Dantego, splashe pobierania patcha, akta Grzeszników, piosenki i"
-        " deploymenty misji (przeciwnicy ze statystykami).",
+        " Dantego, splashe pobierania patcha, akta Grzeszników i piosenki."
+        " Deploymenty misji (przeciwnicy ze statystykami) mają osobną serię"
+        " `deployment_<LANG>` — tabela na końcu tego pliku.",
         "",
         "Poza zakresem serii (osobne grupy albo teksty interfejsu bez treści"
         " fabularnej): `TutorialMainUIText` (przechadzki po interfejsie),"
@@ -472,6 +465,20 @@ def build_index_file(files: dict[str, tuple[str, int]], lang: str) -> str:
     for name, (title, count) in sorted(files.items()):
         out.append(f"| `{name}` | {title} | {count} |")
     out.append("")
+    if dep_summary:
+        out += [
+            "### Seria deploymentów (`deployment_<LANG>`)",
+            "",
+            "Dla każdego etapu: fale przeciwników i pełne karty jednostek"
+            " (statystyki, opis, umiejętności, pasywki); kolejność jak seria"
+            " fabuły.",
+            "",
+            "| Plik | Część | Etapy | Karty jednostek |",
+            "|---|---|---:|---:|",
+        ]
+        for rec in dep_summary:
+            out.append(f"| `{rec['name']}` | {rec['title']} | {rec['stages']} | {rec['cards']} |")
+        out.append("")
     return "\n".join(out) + "\n"
 
 
@@ -494,7 +501,6 @@ def main(argv: list[str] | None = None) -> int:
             (f"03_splashe_pobierania_{suffix}.md", "Splashe pobierania patcha", build_splash_file),
             (f"04_akta_grzesznikow_{suffix}.md", "Akta Grzeszników (introdukcje)", build_sinner_file),
             (f"05_piosenki_{suffix}.md", "Piosenki (BgmLyrics)", build_songs_file),
-            (f"06_deployment_{suffix}.md", "Deploymenty misji (przeciwnicy i statystyki)", build_deployments_wrapper),
         ]
         for file_name, title, builder in pieces:
             text, count = builder(texts, args.lang)
@@ -502,9 +508,20 @@ def main(argv: list[str] | None = None) -> int:
                 continue
             (args.out / file_name).write_text(align_markdown_tables(text), encoding="utf-8")
             written[file_name] = (title, count)
+        from tools.build_deployments import build_deployments_index, build_deployments_series
+
+        dep_dir = args.out.parent / f"deployment_{suffix}"
+        dep_dir.mkdir(parents=True, exist_ok=True)
+        for old in dep_dir.glob("*.md"):
+            old.unlink()
+        dep_summary = build_deployments_series(texts, args.lang, dep_dir)
+        (dep_dir / f"00_spis_DEPLOYMENT_{suffix}.md").write_text(
+            align_markdown_tables(build_deployments_index(dep_summary, args.lang)),
+            encoding="utf-8")
         (args.out / f"00_spis_META_{suffix}.md").write_text(
-            align_markdown_tables(build_index_file(written, args.lang)), encoding="utf-8")
-    print(f"zapisano {len(written) + 1} plików do {args.out}")
+            align_markdown_tables(build_index_file(written, args.lang, dep_summary)),
+            encoding="utf-8")
+    print(f"zapisano {len(written) + 1} plików META i {len(dep_summary) + 1} deploymentów")
     return 0
 
 
